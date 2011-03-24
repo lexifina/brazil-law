@@ -1,0 +1,13 @@
+DECISÃO
+RECLAMAÇÃO – PEDIDO MANIFESTAMENTE IMPROCEDENTE – NEGATIVA DE SEQUÊNCIA.
+1. O Município de Rio Branco/AC formalizou esta medida considerada a decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395-6/DF. Visa a suspender ação civil pública em trâmite na 4ª Vara do Trabalho de Rio Branco – AC, ajuizada com o objetivo de coibir a prática de supostas contratações ilegais, relacionadas às atividades finalísticas do ente municipal. Requer a concessão de liminar.
+Discorre sobre o tema de fundo do processo, asseverando o descompasso com a providência acauteladora implementada na referida ação direta de inconstitucionalidade, da relatoria do Ministro Cezar Peluso.
+A autoridade reclamada informa haver assentado a competência da Justiça do Trabalho em razão da matéria, ressaltando não se tratar de relações de servidores vinculados a entes públicos, configuradas como estatutárias ou jurídico-administrativas, mas sim de supostas relações ilícitas de prestação de trabalho. Sustenta a ocorrência de violação à regra constitucional de prévia submissão a concurso público para contratação – artigo 37, inciso II, da Carta Federal.
+O Ministério Público do Trabalho, na condição de interessado, aponta a inviabilidade desta reclamação, tendo em vista a existência de típicas relações de emprego regidas pela Consolidação das Leis do Trabalho. Articula com o acórdão proferido na Medida Cautelar na Ação Direta de Inconstitucionalidade nº 2.135-4/DF, publicado no Diário da Justiça eletrônico de 7 de março de 2008, mediante o qual ficou consignado que todos os conflitos envolvendo a Administração Pública e desvirtuamento nas contratações ocorridos até a publicação do aludido pronunciamento seriam da competência da Justiça trabalhista.
+Os interessados, apesar de intimados, quedaram silentes.
+2. Não concorre a pertinência do pleito. A liminar concedida na citada ação direta de inconstitucionalidade ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Carta Federal, na redação dada pela Emenda Constitucional nº 45/2004, que implique reconhecimento da competência da Justiça do Trabalho para apreciar conflitos atinentes a regime especial, de caráter jurídico-administrativo. Conforme se depreende dos documentos juntados ao processo, há, em síntese, o envolvimento de conflitos trabalhistas, presente a articulação, como causas de pedir, da regência dos vínculos pela Consolidação das Leis do Trabalho.
+3. Ante o disposto no artigo 21, § 1º, do Regimento Interno deste Tribunal, nego seguimento à reclamação.
+4. Publiquem.
+Brasília, 24 de março de 2011.
+Ministro MARCO AURÉLIO
+Relator
