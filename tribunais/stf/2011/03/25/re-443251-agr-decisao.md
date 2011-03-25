@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 434-437.
+2. Cuida-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 2ª Região. Acórdão assim ementado (fls. 250):
+“PROCESSUAL CIVIL E TRIBUTÁRIO. PIS E COFINS ALTERAÇÕES INTRODUZIDAS PELA LEI Nº 9.718/98.
+Proclamada a constitucionalidade do art. 3º e seu parágrafo 1º da Lei nº 9.718/98, pelo Emérito Plenário desta Colenda Corte de Justiça, é de se homenagear a posição consolidada do Egrégio Tribunal Regional Federal da 2a Região. Assim, rejeitam-se os argumentos em prol da inconstitucionalidade da ampliação da base de cálculo do PIS e da COFINS, nos moldes da legislação em comento. Ressalva do entendimento pessoal do Relator. Apelo improvido.”
+3. Pois bem, a parte recorrente alega violação ao § 1º do art. 145, ao inciso II do art. 150, ao inciso I do art. 154, ao inciso I e §§ 4º e 6º do art. 195, bem como ao art. 246, todos da Magna Carta de 1988.
+4. Tenho que o recurso merece acolhida parcial. É que o Supremo Tribunal Federal, na Sessão Plenária de 09/11/2005, concluiu a análise do tema aqui discutido (RE 346.084, da relatoria do ministro Ilmar Galvão; bem como REs 357.950, 358.273 e 390.840, da relatoria do ministro Marco Aurélio). Ao fazê-lo, o Tribunal, por maioria de votos:
+a) declarou a inconstitucionalidade do § 1º do art. 3º da Lei 9.718/1998, que trata da ampliação da base de cálculo das contribuições destinadas ao PIS/Pasep e à Cofins. Entendimento, esse, reafirmado em sede de repercussão geral, no RE 585.235-QO, da relatoria do ministro Cezar Peluso;
+b) entendeu desnecessária, no caso específico, lei complementar para a majoração da alíquota da Cofins, cuja instituição se dera com base no inciso I do art. 195 do Magno Texto. Entendimento também reforçado pelo Pleno do STF, no julgamento do RE 527.602, redator para o acórdão o ministro Marco Aurélio.
+5. Por outro lado, no tocante ao princípio da anterioridade, ressalto que esta nossa Casa de Justiça já firmou o entendimento de que o prazo nonagesimal é contado a partir da publicação da medida provisória que houver instituído ou modificado a contribuição (no caso, a MP 1.724/1998). Precedentes: AI 392.615-AgR, da relatoria do ministro Ricardo Lewandowski; e RE 367.935-AgR, da relatoria do ministro Joaquim Barbosa.
+6. À derradeira, pontuo que as questões envolvendo a compensação de valores recolhidos a maior com outros tributos, a aplicação de correção monetária e juros não transbordam os limites do âmbito infraconstitucional. Cuida-se, em verdade, de controvérsia a ser decidida na execução do julgado. Precedentes: REs 387.248-AgR, da minha relatoria; 343.937-ED, da relatoria do ministro Ricardo Lewandowski; 468.408-AgR-ED, da relatoria do ministro Cezar Peluso; 474.110, da relatoria do ministro Dias Toffoli; 523.855-ED, da relatoria do ministro Gilmar Mendes; e 559.164-ED, da relatoria da ministra Cármen Lúcia.
+Ante o exposto, e considerando as disposições do § 1º-A do art. 557 do CPC, dou provimento parcial ao recurso. O que faço apenas para afastar a aplicação do conceito de faturamento definido no § 1º do art. 3º da Lei 9.718/1998. Ficam invertidos, no ponto, os ônus da sucumbência.
+Publique-se.
+Brasília, 25 de março de 2011.
+Ministro AYRES BRITTO
+Relator
