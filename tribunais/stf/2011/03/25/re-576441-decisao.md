@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Acórdão assim ementado (fls. 98):
+“MANDADO DE SEGURANÇA. SERVIDOR INATIVO. IMPETRAÇÃO VISANDO A CONCESSÃO DA GRATIFICAÇÃO INSTITUÍDA PELA ASSEMBLÉIA LEGISLATIVA, NA RESOLUÇÃO N. 1.517/89, EXTINTA E INCORPORADA À REMUNERAÇÃO DOS SERVIDORES ATIVOS POR INTERMÉDIO DA RESOLUÇÃO N. 40/92, A TÍTULO DE 'VANTAGEM PESSOAL NOMINALMENTE IDENTIFICÁVEL'. DECADÊNCIA. INOCORRÊNCIA. PRESTAÇÃO DE TRATO SUCESSIVO. VULNERAÇÃO AO DISPOSTO NO ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL. SEGURANÇA CONCEDIDA.
+Considerando que o adicional de produtividade, criado pela Resolução n. 1.517/89, restou extinto pela Resolução n. 40/92, mas que seus valores foram agrupados, sob rubrica de 'vantagem pessoal nominalmente identificável' e, em conseqüência, incorporados aos respectivos vencimentos, impõe-se, em atenção ao disposto no art. 40, § 8º da Constituição Federal e art. 30, § 3º da Constituição Estadual, a extensão da vantagem aos inativos”.
+2. Pois bem, a parte recorrente aponta violação ao art. 2º, ao caput do art. 37, ao § 8º do art. 40 (redação dada pela EC 20/1998), ao art. 60 da Magna Carta de 1988, bem como à Súmula 339/STF.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do à época Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo conhecimento e desprovimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que a instância judicante de origem, examinando o direito estadual pertinente — direito cuja interpretação lhe é soberanamente atribuída, diga-se de passagem —, concluiu que a vantagem denominada “vantagem pessoal nominalmente identificável” possui caráter genérico, constituindo verdadeiro aumento geral de vencimentos para o pessoal da ativa. Pelo que é de ser estendida aos servidores aposentados, em nome do princípio da isonomia, insculpido no § 8º do art. 40 da Constituição Federal (redação anterior à EC 41/2003).
+5. Ora, impossível chegar a conclusão diversa, acerca da natureza do referido adicional, sem examinar o conteúdo da legislação infraconstitucional pertinente. Providência vedada neste momento processual, conforme a Súmula 280/STF.
+6. A título de exemplo, veja-se o RE 444.286-AgR, da relatoria do ministro Sepúlveda Pertence.
+7. Noutro giro, é assente no Supremo Tribunal Federal que o § 8º do art. 40 da Carta Magna é “regra de paridade com os vencimentos do cargo correspondente que tem precisamente o sentido de dispensar que a lei estenda ao inativo em cada caso, o benefício ou vantagem que outorgue ao servidor em atividade: logo, quando incide, o dispositivo constitucional ilide a aplicação da Súmula 339” do STF (RE 214.724, da relatoria do ministro Sepúlveda Pertence).
+8. À derradeira, quanto à alínea “c” do inciso III do art. 102 da Constituição Federal de 1988, é de se aplicar a Súmula 284/STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 25 de março de 2011.
+Ministro AYRES BRITTO
+Relator
