@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. TRABALHISTA. CONFLITO DE COMPETÊNCIA. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ALCANCE DO TERMO “RELAÇÃO DE TRABALHO” INSCULPIDO NO INCISO I DO ARTIGO 114 DA CONSTITUIÇÃO FEDERAL. JURISPRUDÊNCIA ASSENTADA NO JULGAMENTO DA ADI 3.395.
+1. A relação de trabalho para efeito de atração da competência da Justiça Laboral é aquela sinônima à relação de emprego, ou seja, a relação jurídica de trabalho de competência daquela Justiça especializada cuja disciplina é regulada pela CLT. Precedente: RE 472.861, 2ª Turma, Rel. Min. Carlos Velloso, DJ de 07/05/04 e ADI 3.395, da relatoria do E. Ministro Cezar Peluso
+2. A controvérsia dos autos cinge-se em saber qual é o alcance da expressão “relação de trabalho” no artigo 114, I, da CF, em outras palavras, o que se pretende é a declaração de quando uma relação jurídica entre advogado e cliente será considerada relação de trabalho suficiente para atrair a competência da Justiça do Trabalho para execução de honorários.
+3. Recurso extraordinário desprovido.
+D ECIS Ã O: Trata-se de recurso extraordinário contra acórdão do Tribunal Superior do Trabalho assim ementado:
+“AGRAVO DE INSTRUMENTO. COBRANÇA DE HONORÁRIOS PROFISSIONAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. Demonstrada a divergência jurisprudencial nos moldes da alínea “a” do artigo 896 da Consolidação das Leis do Trabalho, dá-se provimento ao agravo de instrumento a fim de se determinar o processamento do recurso de revista.
+RECURSO DE REVISTA. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO. COBRANÇA DE HONORÁRIOS PROFISSIONAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. Não se insere na competência da Justiça do Trabalho a tarefa de dirimir controvérsia relativa à prestação dos serviços levada a cabo por profissional autônomo que, senhor dos meios e das condições da prestação contratada, coloca-se em patamar de igualdade (senão de vantagem) em relação àquele que o contrata. Tal é o caso típico dos profissionais da engenharia, advocacia, arquitetura e medicina que exercem seus misteres de forma autônoma, mediante utilização de meios próprios e em seu próprio favor. Recurso de revista conhecido e provido.”
+Contra essa decisão o recorrente interpôs o presente recurso extraordinário alegando violação ao artigo 114, I, da CF.
+Assevera que: “(...) o que se configura a relação de trabalho entre o advogado e o cliente é a celebração de contrato de mandato (art. 653/692 do CC) com pessoa natural, para prestação de serviços de advocacia de natureza pública, não consumerista, cujos redimentos têm natureza alimentar e não lucrativa, tanto que impenhoráveis, nos termos do art. 649, IV do CPC” (pág. 268).
+No mais, pugna pelo reconhecimento da repercussão geral da matéria e requer o provimento do presente recurso extraordinário para que se declare a competência da Justiça do Trabalho para julgamento de execução de honorários advocatícios.
+É o breve relatório.
+Decido.
+Sem razão o recorrente.
+O dispositivo constitucional o qual o recorrente considera violado possui a seguinte redação (verbis):
+“Art. 114. Compete à Justiça do Trabalho processar e julgar: (EC nº 20/98 e EC nº 45/04)
+I – as ações oriundas da relação de trabalho, abrangidos os entes de direito público externo e da administração pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios; (...)” (grifou-se).
+A controvérsia dos autos cinge-se em saber qual é o alcance da expressão “relação de trabalho” no artigo da Constituição retromencionado, em outras palavras, o que se pretende é a declaração desta Suprema Corte sobre quando uma relação jurídica entre advogado e cliente será considerada relação de trabalho suficiente para atrair a competência da Justiça trabalhista para execução de honorários.
+O Supremo Tribunal Federal, quando do Julgamento da ADI 3.395, da relatoria do E. Ministro Cezar Peluso, debruçou-se sobre o tema, e, dando interpretação conforme à Constituição, assentou entendimento segundo o qual a relação de trabalho para efeito de atração da competência da Justiça Laboral é aquela sinônima à vinculo empregatício, ou seja, a relação jurídica de trabalho de competência daquela Justiça especializada é aquela cuja disciplina é regulada pela CLT.
+Nesse sentido, confira-se o seguinte julgado:
+“EMENTA: CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. JUSTIÇA TRABALHISTA: INCOMPETÊNCIA. I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão limita-se a interpretar normas infraconstitucionais. II. - É incompetente a justiça trabalhista para dirimir controvérsia que não decorra da relação de emprego. Precedente. III. - Decisão contrária aos interesses da parte não configura negativa de prestação jurisdicional. IV. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional. V. - Agravo não provido.” (RE 472.861, 2ª Turma, Rel. Min. Carlos Velloso, DJ de 07/05/04) (grifou-se).
+In casu, a relação jurídica estabelecida entre o recorrente e recorrido foi firmada por contrato de mandato, conforme reconhece o próprio causídico recorrente em sua petição de recurso extraordinário, e não como advogado-empregado de que trata o capítulo V da Lei 8.906/94 (Estatuto do Advogado e da OAB).
+Verifica-se que a decisão proferida pelo acórdão do TST em recurso de revista se coaduna perfeitamente ao entendimento jurisprudencial firmado por esta Suprema Corte, não se cogitando ter havido qualquer violação constitucional que enseje o provimento do presente recurso.
+Ex positis, NEGO PROVIMENTO ao recurso extraordinário.
+Publique-se.
+Brasília, 25 de março de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
