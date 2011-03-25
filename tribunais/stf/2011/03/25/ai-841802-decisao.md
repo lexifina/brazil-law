@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“CIVIL – APELAÇÃO – AÇÃO DE RESCISÃO DE CONTRATO – CERCEAMENTO DE DEFESA – NÃO CARACTERIZAÇÃO – ESCRITURA DE COMPRA E VENDA DE BEM IMÓVEL – CLÁUSULA RESOLUTÓRIA EXPRESSA – INADIMPLÊNCIA – RESCISÃO CONTRATUAL – DECLARAÇÃO CABÍVEL – NEGÓCIO POSTERIOR – INEFICÁCIA EM RELAÇÃO AO PRIMITIVO DONO. O juiz é o destinatário da prova e a ele cabe o juízo de valor da necessidade ou desnecessidade de alguma prova, devendo evitar, inclusive, a procrastinação e a oneração inconseqüente do processo, não havendo se falar em cerceamento de defesa se o Juiz entendeu que as provas existentes nos autos eram suficientes ao julgamento da causa, já que a audiência de conciliação não é obrigatória. Havendo no contrato cláusula resolutória expressa, a inadimplência do devedor provoca a rescisão automática do contrato, estando caracterizada a mora ex re, sendo qualquer negócio posterior ineficaz, sendo possível tal declaração pelo julgador.” (fl. 30)
+No apelo extremo, o recorrente sustenta que ocorreu violação ao artigo 5º, inciso LV, da Constituição Federal.
+Não configura cerceamento de defesa o acórdão que considera as provas produzidas suficientes para a formação de seu convencimento, não entendendo necessária a realização de provas complementares.
+É pacífica a jurisprudência desta Corte no sentido de que não vulnera as garantias constitucionais do contraditório de da ampla defesa (art. 5º, LIV e LV) a decisão que, motivadamente, indefere determinada diligência probatória. A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+Nesse sentido os julgamentos do AI-AgR 759.089, Rel. Min. Cármen Lúcia, DJe 30.4.2010 e do AI-AgR 788.835, Rel. Min. Ayres Britto, DJe 17.9.2010, cuja ementa, transcrevo:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. 1. Não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: AIs 382.214, da relatoria do ministro Celso de Mello; e 114.548-AgR, da relatoria do ministro Sepúlveda Pertence. 2. Agravo desprovido.” (grifamos)
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 25 de março de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
