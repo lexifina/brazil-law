@@ -1,0 +1,34 @@
+D ECIS Ã O: Trata-se de dois embargos de declaração com efeito modificativo opostos por João Alberto e Janete Capiberibe ao acórdão do Pleno que não conheceu do recurso extraordinário.
+O RE foi interposto de acórdão em que o Tribunal Superior Eleitoral (TSE) cassou os mandatos de senador e deputada federal por conduta prevista no art. 41-A da Lei 9.504/1997 (compra de votos).
+Transcrevo a ementa do acórdão embargado, para o qual fui designado redator (relator originário min. Eros Grau):
+RECURSO EXTRAORDINÁRIO. DECISÃO DO TRIBUNAL SUPERIOR ELEITORAL. NÃO-CONHECIMENTO.
+Não prejudica o exame integral da admissibilidade do recurso extraordinário por ocasião do seu julgamento definitivo o fato de, em ação cautelar ajuizada perante o Supremo Tribunal Federal para atribuir efeito suspensivo a recurso extraordinário, haver sido examinada a cognoscibilidade do recurso e a plausibilidade jurídica das alegações nele contidas.
+Recurso não conhecido no que concerne à alegação de nulidade da decisão recorrida por ofensa ao disposto no art. 121, § 4º, IV, da Constituição federal. Conquanto no acórdão recorrido haja referências ao dispositivo constitucional, verifica-se que as implicações constitucionais da alegação não foram debatidas no Tribunal a quo, que resolveu preliminar sobre fungibilidade de recursos eleitorais com base em sua jurisprudência. Indispensável a interposição de embargos de declaração para prequestionamento da matéria, o que não foi observado no presente caso.
+Recurso não conhecido quanto às demais alegações (arts. 5º, XLV, LIV, LV e LVII, e 93, IX, da Constituição federal), por aplicação da Súmula 279.
+Os dois recursos de embargos de declaração alegam a existência de omissão no acórdão proferido por esta Corte.
+Ambos os recursos concentram-se na demonstração de que a violação ao art. 121, § 4º, IV, da Constituição foi devidamente prequestionada perante o TSE.
+O segundo recurso de embargos vai além e questiona o fato de o relator originário do RE, min. Eros Grau, não ter concluído a leitura de seu voto.
+No mérito, os dois embargos pretendem seja realizado novo julgamento do recurso extraordinário, dando-lhe provimento.
+Em março de 2009, João Alberto e Janete Capiberibe juntaram aos autos cópia integral de inquérito policial conduzido pela Polícia Federal. Segundo o embargante, o arquivamento do inquérito pela Justiça Federal no Estado do Amapá configura fato novo que por si só afasta a existência dos fatos em que se apoiou o acórdão do TSE para cassar os mandatos dos embargantes.
+Dei vista dos recursos e da petição de março de 2009 aos embargados, os quais pugnaram pela manutenção do acórdão embargado e pela inexistência de relação entre os documentos posteriormente juntados pelos embargantes e os fatos apreciados no acórdão que foi objeto do recurso extraordinário.
+O Procurador Geral da República manifestou-se pela rejeição dos embargos, com imposição de multa.
+É o relatório. Decido.
+Analiso, em primeiro lugar, a oposição simultânea, pelas mesmas partes, de dois recursos de embargos de declaração contra um mesmo acórdão.
+As duas peças foram protocoladas por meio de fac-símile em 13.10.2006, às 15:44 (nº 153.802, fls. 1628-1640) e às 19:00 (pet. nº 154.032, fls. 1642-1668), assinadas por procuradores judiciais distintos, mas ambos com representação regular juntada aos autos (fls.1369 e 1370), e voltam-se contra o acórdão que firmou o não conhecimento do recurso extraordinário. Assinalo, também, que os originais das aludidas petições foram recebidos em 17.10.2006, portanto dentro do prazo adicional a que se refere a Lei 9.800/1999.
+Entendo que somente os embargos de declaração que ingressaram nesta Corte em primeiro lugar devem ser conhecidos (pet. nº 153.802). A petição versa exclusivamente sobre suposta omissão deste Tribunal no que se refere ao prequestionamento do art. 121, § 4º, IV perante o TSE.
+Isso porque o nosso sistema processual adota, em linhas gerais, o princípio da unirrecorribilidade ou singularidade recursal. Noutros termos, isso implica dizer que, via de regra, a parte dispõe de apenas um tipo de recurso para impugnar uma dada decisão. Cabe à lei excepcionar o princípio, como ocorre por exemplo, na hipótese prevista no art. 541 do Código de Processo Civil. A exceção, portanto, não alcança o presente caso, em que se evidencia a ocorrência de preclusão consumativa. Nesse sentido: RE 479.132-ED, rel. min. Celso de Mello, Segunda Turma, DJe de 16.05.2008; AI 591.230-AgR-ED-ED-ED-ED, rel. min. Celso de Mello, Segunda Turma, DJe de 23.04.2010; AI 629.337-AgR, rel. min. Cármen Lúcia, Primeira Turma, DJe de 30.04.2009; AI 552.297, rel. min. Gilmar Mendes, Segunda Turma, DJe de 21.11.2008; RE 421.960-AgR-ED, rel. min. Eros Grau, Segunda Turma, DJ de 17.08.2007; AI 607.497-AgR-AgR, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 17.08.2007 .
+Assim, não conheço dos segundos embargos de declaração (fls. 1642-1668 e 1687-1709).
+Como relatado, no acórdão que foi alvo do recurso extraordinário, o TSE aplicou o art. 41-A da Lei 9.504/1997 e impôs aos embargantes a pena de cassação dos registros e dos diplomas expedidos por ocasião das eleições de 2002.
+Os diplomas cassados pelo TSE se referiam a mandatos legislativos que já se esgotaram: no caso de Janete Capiberibe, mandato de deputada federal que se encerrou em janeiro de 2007; no caso de João Alberto Capiberibe, mandato de senador que terminou em janeiro de 2011.
+Ante o esgotamento do mandato, está prejudicado o recurso. Essa a orientação a ser extraída da jurisprudência do Tribunal, conforme evidencia a ementa do acórdão proferido pela Segunda Turma no RE 226.198-AgR, rel. min. Maurício Corrêa, DJ 02.03.2001, que passo a transcrever:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MANDATO ELETIVO. CASSAÇÃO. PEDIDO DE REINTEGRAÇÃO NO CARGO. PREJUDICIALIDADE. DECLARAÇÃO DE INELEGIBILIDADE. APRECIAÇÃO. IMPOSSIBILIDADE.
+1. Mandato eletivo. Cassação. Encerrado o prazo da legislatura para o qual fora eleito o candidato, torna-se prejudicado o pedido de reintegração no cargo.
+2. Declaração de inelegibilidade. Pretensão de reexame do processo administrativo-político do qual decorreu a cassação. Impossibilidade. O pedido inserto no mandado de segurança restringe- se à reintegração do impetrante no cargo para o qual fora eleito, não havendo qualquer referência aos efeitos da condenação imposta por ato da Câmara de Vereadores.
+Agravo regimental a que se nega provimento.
+No mesmo sentido, anoto também o acórdão proferido na AC 154-AgR-QO, rel.min. Carlos Britto, Pleno, DJ 08.10.2004, e a decisão monocrática na AC 2.345-AgR, rel. min. Celso de Mello, DJe 28.04.2010.
+Ante o exposto, nego seguimento aos embargos (art. 21, § 1º, RISTF).
+Publique-se.
+Brasília, 25 de março de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
