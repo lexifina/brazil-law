@@ -1,0 +1,16 @@
+DECISÃO
+ICMS – CRÉDITO – SUBSTITUIÇÃO PROCESSUAL – SAÍDA DO PRODUTO COM PREÇO INFERIOR À BASE DE CÁLCULO OBSERVADA – GLOSA – RECURSO EXTRAORDINÁRIO Nº 593.849 – REPERCUSSÃO GERAL ADMITIDA – AÇÃO CAUTELAR – EMPRÉSTIMO DE EFICÁCIA SUSPENSIVA A AGRAVO – RELEVÂNCIA.
+1. A Assessoria prestou as seguintes informações:
+A autora pretende obter empréstimo de eficácia suspensiva ativa ao Agravo de Instrumento nº 726.939/SP, protocolado com o intuito de ver admitido recurso extraordinário interposto em mandado de segurança. No extraordinário, busca-se infirmar acórdão, formalizado em apelação, mediante o qual o Tribunal de Justiça do Estado de São Paulo negou à recorrente, no caso de substituição tributária subsequente – “para frente” –, o direito de creditar-se do Imposto sobre Circulação de Mercadorias – ICMS, pago a maior pelo substituto legal, na hipótese de o valor da mercadoria, na saída, revelar-se inferior à base de cálculo aplicada na tributação antecipada, a teor do § 7º do artigo 150 da Constituição Federal. O mencionado agravo de instrumento encontra-se pendente de apreciação.
+Sob o ângulo do risco, aponta o adiantamento da Fazenda Estadual na cobrança das obrigações referidas mediante a lavratura do Auto de Infração e Imposição de Multa nº 3.051.474-5, já definitivamente julgado, aguardando a inscrição em Dívida Ativa e formalização de execução fiscal, o que trará efeitos negativos para a atividade empresarial. Aduz que a glosa incidiu sobre compensações efetuadas com base em medida liminar deferida pelo Juízo, a qual perdurou até o exame do recurso de apelação. Requer o deferimento de medida acauteladora para suspender a exigibilidade do tributo até a apreciação definitiva do referido agravo de instrumento.
+Anoto a existência de questões de ordem suscitadas nas Ações Diretas de Inconstitucionalidade nº 2.675/PE e nº 2.777/SP, nas quais se discute a constitucionalidade de dispositivos que tratam da restituição do ICMS pago antecipadamente em decorrência da substituição tributária. O Colegiado decidiu sobrestar os julgamentos para que sejam realizados em conjunto com o do Recurso Extraordinário nº 593.849/MG, da relatoria do Ministro Ricardo Lewandowski, em que foi reconhecida a existência de repercussão geral de idêntica matéria.
+O processo está concluso para exame do pedido de medida acauteladora.
+2. O quadro demonstra a relevância da articulação e o risco de manter com plena eficácia o acórdão decorrente do julgamento da apelação. É que o Tribunal, no Recurso Extraordinário nº 593.849/MG, da relatoria do Ministro Ricardo Lewandowski, admitiu, na espécie, a existência de repercussão geral da matéria no que apresenta índole constitucional.
+3. Defiro a liminar pleiteada para, até o exame final do Agravo de Instrumento nº 726.939/SP, afastar a eficácia do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação nº 558410.5/4-00.
+4. Retifiquem a autuação da cautelar para que conste como réu o Estado de São Paulo, expungindo-se a referência ao Chefe do Posto Fiscal de Batatais.
+5. Citem o Estado de São Paulo.
+6. Com a manifestação, colham o parecer da Procuradoria Geral da República.
+7. Publiquem.
+Brasília – residência –, 26 de março de 2011, às 20h25.
+Ministro MARCO AURÉLIO
+Relator
