@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. FIXAÇÃO DE MULTA DIÁRIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXVI E LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário com agravo interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“IMPUGNAÇÃO AO CUMPRIMENTO DA SENTENÇA. IMPOSIÇÃO DE MULTA PELO DESCUMPRIMENTO DE MEDIDA LIMINAR. PLEITO DE REDUÇÃO DO VALOR DAS ASTREINTES REJEITADO, DIANTE DO DESCASO QUE A RÉ BRASIL TELECOM S/A, LITIGANTE HABITUAL, TEM DEMONSTRADO PARA COM AS DECISÕES JUDICIAIS. (...) RECURSO DESPROVIDO” (fl. 56).
+2. A Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXVI e LV, da Constituição da República.
+Argumenta que “não há previsão legal, direta ou indireta, para a liberação de valores a título de descumprimento de determinação judicial para qualquer ente estadual. salienta-se ainda que tal determinação sequer foi objeto do pedido da demanda judicial pelo autor descabendo totalmente sua aplicação” (fl. 84).
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que “a pretensão recursal centra-se na reapreciação dos elementos fáticos que permeiam a controvérsia dos autos, buscando a revisão do julgamento que se apresentou desfavorável ao seu objetivo” (fl. 95).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5 . Razão jurídica não assiste à Agravante.
+6. O Tribunal a quo decidiu a controvérsia à luz da legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e reconheceu que, “como a política de redução das multas não está surtindo efeitos, acarretando transtornos aos consumidores e desnecessária sobrecarga de trabalho aos já atribulados cartórios judiciais, com a necessidade de reexpedição de mandados de cumprimento, é hora de se alterar a postura para enfrentar o fenômeno. As multas, conquanto elevadas, serão mantidas. Se não por respeito às ordens judiciais, ao menos por zelo egoístico do patrimônio da empresa, alguém da requerida há de perceber a absurda irracionalidade interna de sua (des)organização” (fl. 22).
+Concluir de modo diverso do que assentado no acórdão recorrido demandaria o reexame dessa legislação infraconstitucional e do conjunto fático-probatório constante dos autos. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Ademais, incide na espécie a Súmula n. 279 deste Supremo Tribunal. Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS DOS AUTOS, AO QUE NÃO SE PRESTA O RECURSO EXTRAORDINÁRIO (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil ” (AI 660.733-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009).
+7. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
