@@ -1,0 +1,35 @@
+1.  Trata-se de agravo de instrumento de decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do TRF da 2ª Região, no qual a União discute o reconhecimento do direito do ora agravado – anistiado na graduação de Terceiro-Sargento por ato administrativo com base na EC 26/85, em decisão transitada em julgado – à promoção de Suboficial, com fundamento no art. 8º do ADCT, regulamentado pela Lei 10.559/2002.
+  Tal aresto afastou a prescrição de fundo de direito e, com base na referida Lei 10.559/2002, entendeu que o recorrido fazia jus à promoção por concluir que os pressupostos fáticos determinantes da anistia constitucional foram ampliados, nestes termos:
+“... deve-se levar em conta o advento da Lei 10.559/02, que aumentou os pressupostos fáticos determinantes da anistia, impedindo que seja exigido o cumprimento de condições, como por exemplo, a realização de cursos e concursos específicos para galgarem o oficialato, que em face das próprias circunstâncias que deram ensejo à anistia tornariam impossível o exercícios dos direitos dela provenientes” (fl. 14).
+    O Tribunal de origem decidiu ainda, com base na sua jurisprudência e na do STJ, que o beneficiado por determinada lei de anistia poderá se valer de lei posterior, uma vez que o art. 8º do ADCT ampliou os benefícios da anistia que “haviam sido efetuados em consonância com a EC 26/85” (fl. 13), concluindo:
+“A condição de anistiado por diplomas anteriores não constitui óbice a novos benefícios da espécie, concedidos por legislação superveniente.
+Tendo sido o autor anistiado com fulcro na EC 26/85, ele faz jus, de forma abrangente, a promoções que lhe seriam concedidas caso estivesse em efetivo serviço, nos termos do art. 8º do ADCT da CRFB/88 e da Lei 10.559/02, que o regulamentou” (fl. 17).
+2.  No RE, a parte agravante alega violação à EC 26/85 e ao art. 8º do ADCT, sustentando, em síntese, que o agravado “já havia sido promovido e considerado anistiado, com base na EC 26/85, sendo manifesto bis in idem a concessão de outra anistia com base no art. 8º do ADCT da CF/88” (fl. 39).
+  Conclui, ainda, a União:
+“Desta Forma, se a pretensão a qual foi reconhecida pelo v. Acórdão (promoção por antiguidade em razão de anistia) já foi concedida administrativamente aos autores, é patente a falta de interesse jurídico processual de agir dos mesmos, não sendo o caso, portanto, de procedência do pedido, por ausência de pretensão resistida” (fl. 40).
+3.  O recurso não merece prosperar. Aponto, a respeito de tal questionamento da parte, o AI 356.977-AgR/RJ, rel. Min. Sepúlveda Pertence, DJe 03.12.2004, assim ementado:
+“Anistia: EC 26/85 e ADCT-88, art. 8º: exclusão dos militares desligados conforme legislação disciplinar comum, ainda que à base da imputação de faltas praticadas com motivação política: incidência da Súmula 674: inocorrência de perda de objeto do recurso extraordinário em razão de decisão administrativa do Ministério da Justiça em pedido diverso, fundado na L. 10.559/02”.
+No voto condutor do acórdão recorrido, ressaltou o relator:
+“Não há falar em coisa julgada de decisão administrativa do Ministério da Justiça, tampouco do caráter prejudicial desta à causa judicial, pois - como ressaltado pela União em suas informações - os pedidos administrativo e judicial são diversos:
+‘De fato, não há se falar em desistência do apelo extraordinário, e nem mesmo em perda de objeto, haja vista que, enquanto a causa petendi referente ao presente processo judicial adstringe-se à anistia concedida pela Emenda Constitucional nº 26/85, a causa de pedir do processo administrativo tem por fundamento a Lei nº 10.559/02.
+Tal norma legal concedeu um plus em termos de anistia, não se podendo conceber que a mesma reconheceu um direito já preexistente. Até porque, enquanto a pensão concedida pela Comissão de Anistia terá efeitos financeiros a partir de 05.02.1998, o pleito ora analisado remete-se à data de 05.10.1988’”.
+4.  Ademais, o Supremo Tribunal Federal, ao julgar o RE 166.971-EDv/DF, rel. Min. Gilmar Mendes, DJe 19.10.2007, posicionou-se da seguinte forma:
+“A jurisprudência do STF, que se firmara no sentido de excluir do âmbito de incidência do benefício constitucional da anistia tanto as promoções fundadas no critério de merecimento quanto aquelas que pressupunham aprovação em concurso e admissão e posterior aproveitamento em curso exigido por lei ou por atos regulamentares foi modificada a partir do julgamento do RE 165.438-DF, Rel. Min. Carlos Velloso, Pleno, DJ de 05.05.2006. 6. De acordo com o novo entendimento do Tribunal no que se refere à interpretação do art. 8º do ADCT, há de exigir-se, para a concessão de promoções, na aposentadoria ou na reserva, apenas a observância dos prazos de permanência em atividade inscritos nas leis e regulamentos vigentes, inclusive, em conseqüência, do requisito de idade-limite para ingresso em graduações ou postos, que constem de leis e regulamentos vigentes na ocasião em que o servidor, civil ou militar, seria promovido”.
+5.      Por fim, rever o acórdão impugnado, na hipótese, demandaria o reexame de fatos e provas (Súmula STF 279), hipótese inviável nesta via.
+      Nesse sentido, em caso similar, cito o RE 553.308/RJ, rel. Min. Cezar Peluso, DJe 18.02.2010, do qual destaco:
+“1. Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 2ª Região e assim ementado:
+‘PROCESSUAL CIVIL - CONSTITUCIONAL - PRESCRIÇÃO - ANISTIA - LEI Nº 6.683/79 - EC Nº 26/85 - ART. 8º ADCT - TEMPO DE SERVIÇO.
+- Não há como acolher a alegação de prescrição (Lei nº 8.213/91, art. 103) tendo em vista a data do ajuizamento da ação e o período abrangido pela condenação.
+- O fato de o autor ter sido anistiado com base na Lei 6.683/79 não exclui a possibilidade de reconhecimento dos direitos previstos pelo artigo 8º do ADCT. Precedentes do Superior Tribunal de Justiça.
+- É devida a revisão do tempo de serviço do autor, para efeito de aposentadoria.
+- Os efeitos financeiros decorrentes da aplicação do artigo 8º, do ADCT somente podem alcançar o período posterior a 5 de outubro de 1988.
+- Apelo parcialmente provido’ (fl. 107).
+Sustenta a recorrente, com base no art. 102, III, a, que o art. 8º do ADCT não admitiria a concessão de nova aposentadoria excepcional, quando já concedida anistia sob a égide do regime constitucional anterior.
+2.  Inconsistente o recurso.
+Consta das razões recursais que o apelo extremo se funda ‘no fato de o autor ter sido anistiado com base na Lei nº 6.683/79’ (fl. 107).
+Diante da impossibilidade de, em recurso extraordinário, rever a Corte as premissas de fato em que, para decidir a causa, se assentou o Tribunal de origem, à luz da prova dos autos, é evidente que, para adotar outra conclusão, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável perante o teor da Súmula 279”.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+Brasília, 28 de março de 2011.
+Ministra Ellen Gracie
+Relatora
