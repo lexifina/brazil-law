@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fls. 23):
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO SUL. HORAS EXTRAORDINÁRIAS. INEXISTÊNCIA DE PRÉVIA AUTORIZAÇÃO. ARTIGO 48, §8º, DA LEI COMPLEMENTAR Nº. 10.990/97. IMPROCEDÊNCIA NA ORIGEM. IMPROVIMENTO EM GRAU RECURSAL.
+O administrador público está adstrito, dentre outros, ao princípio constitucional da legalidade. Por isso, a concessão dos denominados direitos sociais aos servidores públicos não é auto-aplicável, somente podendo ser concedidos através de lei instituidora de regime jurídico próprio, na sua esfera de competência, sob pena de ser responsabilizado pelos seus atos na concessão de direitos aos quais não está legalmente vinculado. Precedentes da Câmara.
+APELAÇÃO NÃO PROVIDA”
+No recurso extraordinário, alega-se violação do disposto nos arts. 7º, XIII e XVI, 37, caput e §6º; e 39, §3º, da Constituição. Sustenta-se que houve convocação de superior hierárquico para a prestação de serviço extraordinário, realizado e não pago pela Administração.
+Quanto à alegada afronta aos arts. 7º, XIII e XVI, e 39, §3º, o agravante levantou a matéria constitucional em embargos de declaração, mas não demonstrou que omissão do acórdão deveria ter sido suprida, pois não juntou cópia da apelação, peça essencial, neste caso, para se compreender a controvérsia e para se aferir o oportuno prequestionamento. Nesse sentido, a jurisprudência desta Corte tem entendido que o traslado é deficiente, causa suficiente para o desprovimento do agravo (cf. inter alia AI 272.320-AgR, rel. min. Sydney Sanches, DJ de 18.05.2001; AI 178.723-AgR, rel. min. Maurício Corrêa, DJ de 02.08.1996; AI 319.666-AgR, rel. min. Sepúlveda Pertence, DJ de 22.11.2002, e AI 157.565-AgR, rel. min. Sydney Sanches, DJ de 22.10.1999).
+Ademais, ficou consignado no acórdão recorrido que “não existem nos autos prova de qualquer convocação e/ou autorização do horário trabalhado em caráter extraordinário, como determina o art. 48, §8º, da Lei Complementar 10.990/97” (fls. 24v.). Impossível chegar a conclusão contrária sem o reexame dos fatos e provas, o que inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 28 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
