@@ -1,0 +1,8 @@
+DECISÃO:   Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão prolatado pelo Tribunal de Justiça de Goiás, que desconsiderou a personalidade jurídica de sociedade empresária, por vislumbrar patente a intenção fraudulenta do ora agravante (fls. 281). Ademais, entendeu que havendo elementos de convicção suficientes nos autos da execução, é dispensável o ajuizamento de ação própria para se obter a desconsideração da personalidade jurídica, em atenção aos primados da celeridade e da efetividade da prestação jurisdicional. Por fim, considerou inexistir violação ao contraditório e à ampla defesa, por ter o agravante interposto agravo de instrumento e embargos à execução.
+Sustenta-se, em síntese, a violação do art. 5º, LV, da Carta Magna, por não ter podido se manifestar sobre a desconsideração da personalidade jurídica, antes da sua decretação.
+A análise da apontada violação constitucional requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário (cf. AI 448.303, rel. min. Gilmar Mendes, DJ de 23.06.2003; AI 477.878, rel. min. Celso de Mello, DJ de 19.12.2003, e RE 298.991, rel. min. Ellen Gracie, DJ de 05.03.2004).
+Ante o exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 28 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
