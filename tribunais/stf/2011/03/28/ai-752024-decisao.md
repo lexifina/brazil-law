@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul, assim ementado (fls. 25):
+“ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATA PORTADORA DE DOENÇA CARDÍACA. APTIDÃO FÍSICA RECONHECIDA. DIREITO À POSSE. INDENIZAÇÃO. INADMISSIBILIDADE.
+1. O candidato deve gozar de boa saúde física e mental, nos termos do art. 37, I e II, da CF/88 e apurado, por meio de prova técnica realizada pelo Departamento Médico Judiciário – DMJ, que o problema cardíaco não impede o exercício normal daquele cargo, tem o candidato direito à posse. É inadmissível o pagamento de indenização, ante a ausência de prova do ilícito praticado pela Administração.
+2. APELAÇÃO PARCIALMENTE PROVIDA.”
+Inexiste a alegada ofensa aos arts. 5º, XXXVI, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, contraditório e da ampla defesa, e está devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante.
+Ademais, quanto à alegada afronta ao art. 37, § 6º, a agravante levantou a matéria constitucional em embargos de declaração, mas não demonstrou que omissão do acórdão deveria ter sido suprida, pois não juntou cópia da apelação ou das contrarrazões de apelação, peças essenciais, neste caso, para se compreender a controvérsia e para se aferir o oportuno prequestionamento. Nesse sentido, a jurisprudência desta Corte tem entendido que o traslado é deficiente, causa suficiente para o desprovimento do agravo (cf. inter alia AI 272.320-AgR, rel. min. Sydney Sanches, DJ de 18.05.2001; AI 178.723-AgR, rel. min. Maurício Corrêa, DJ de 02.08.1996; AI 319.666-AgR, rel. min. Sepúlveda Pertence, DJ de 22.11.2002, e AI 157.565-AgR, rel. min. Sydney Sanches, DJ de 22.10.1999).
+Ainda que superado esse óbice, vê-se que o acórdão recorrido concluiu pela inexistência de prova da ilegalidade do ato do órgão público a justificar a indenização pleiteada na inicial. Assim, concluir de forma diferente, implica reexame dos fatos e provas que fundamentaram a decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 28 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
