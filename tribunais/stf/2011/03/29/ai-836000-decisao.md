@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal interposto de acórdão assim ementado:
+“HOMICÍDIO. QUALIFICADORAS. MEIO CRUEL. RECURSO QUE DIFICULTE A DEFESA DA VÍTIMA. A qualificadora do emprego de meio cruel depende da demonstração de que interesse do agente impor sofrimento desnecessário à vítima, e impede reconheça-se a do emprego de meio dificultador da defesa dela o saber que precedido, o crime, de acirrada e demorada discussão que apontava para a possibilidade de que tudo evoluiria para agressões físicas. PREQUESTIONAMENTO. Não exige manifestação da Câmara, por não satisfazer o que exigido pelos artigos 102, III e 105, III, ambos da Constituição Federal, a só interpretação de provas, por outros Tribunais, para a eventual aplicação deste ou daquele instituto de Direito Penal. RECURSO EM SENTIDO ESTRITO PARCIALMENTE PROVIDO” (fl. 543).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVIII, d, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o acórdão recorrido decidiu a questão com base em normas infraconstitucionais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 792.585-AgR/SP, Rel. Min. Ayres Britto, AI 792.321-AgR/SP, Rel. Min. Ellen Gracie, AI 758.963-AgR/RS, Rel. Min. Eros Grau, AI 559.507-AgR/SC, Rel. Min. Cezar Peluso.
+Ademais, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
