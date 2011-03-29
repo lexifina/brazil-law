@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+“1) Apelação – Falta de complementação do preparo – deserção – 2) Medida cautelar – acordo entre requerente e requeridos – desistência – direito à homologação – o fato de ter o interessado oposto embargos de terceiro em razão do arresto, não impede que os protagonistas da medida transacionem processualmente – impossibilidade, todavia, de ser feito levantamento de dinheiro que decorreu de aplicação representada por CDBs, os quais foram os objetos da liminar de arresto – recurso na apelação nº 1.219.439-5 parcialmente provido; recurso na apelação nº 7.132.633-5 não conhecido” (fl. 989).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, XXXV, LIV e LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Em relação ao art. 5º, XXXV e LV, da Constituição, verifico que tais dispositivos não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Ressalto, ademais, que a orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LIV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado.
+Nesse sentido, cito os seguintes julgados, entre outros: AI 516.771-AgR/PE, Rel. Min. Eros Grau; AI 602.844-AgR/MG e AI 594.887-AgR/SP, Rel. Min. Cármen Lúcia; RE 611.246/RS, Rel. Min. Dias Toffoli; RE 497.345/BA, Rel. Min. Ellen Gracie; AI 360.265-AgR/RJ, Rel. Min. Celso de Mello; AI 457.349-AgR/MG, Rel. Min. Carlos Velloso; AI 794.431-AgR/MG, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
