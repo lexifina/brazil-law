@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“EMBARGOS À EXECUÇÃO FISCAL - ICMS – Rejeição dos embargos pronunciada corretamente em primeiro grau - Certidão de dívida ativa que permite entrever o fato gerador da cobrança e a metodologia de cálculo utilizada - Não há que se falar, outrossim, em ausência de regular lançamento - Sujeito passivo que realizou as operações necessárias à formalização do crédito tributário, nos termos do art. 150 do CTN, sendo o valor respectivo exigível independentemente de qualquer procedimento administraiivo-fiscal - Admissível, outrossim, a aplicação da taxa SELIC como índice de correção monetária e de juros de mora a contar de 1999, diante da previsão específica em lei local – Verba honorária advocatícia arbitrada que, todavia, comporta mitigação, haja vista o valor expressivo do débito - Recurso da embargante parcialmente provido.” (fl. 169).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 192, § 3º, da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria – utilização da taxa SELIC para fins tributários - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal por meio do RE 582.461/SP, Rel. Min. Cezar Peluso.
+Isso posto, preenchidos os demais requisitos de admissibilidade, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário discute-se questão idêntica à apreciada no RE 582.461-RG/SP.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
