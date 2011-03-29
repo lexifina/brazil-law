@@ -1,0 +1,38 @@
+D ECIS Ã O:
+Vistos.
+Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pela EMPRESA DE PESQUISA AGROPECUÁRIA E EXTENÇÃO RURAL DE SANTA CATARINA S/A - EPAGRI em face do TRIBUNAL SUPERIOR DO TRABALHO, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do consolidado na Súmula Vinculante nº 4.
+Narra a inicial eletrônica que:
+a) o Sindicato dos Engenheiros Agrônomos de Santa Catarina – SEAGRO ajuizou ação trabalhista em desfavor do reclamante, “requerendo o pagamento do adicional de insalubridade em favor de diversos substituídos, pleiteando como base de cálculo o salário mínimo profissional previsto no art. 2º da Lei nº 4.950-A/66”;
+b) distribuído o processo ao juízo da 6ª Vara do Trabalho de Florianópolis, seguiu-se sentença de parcial procedência do pedido, no sentido do pagamento do adicional de insalubridade tendo por base o salário mínimo, situação essa mantida quando da apreciação do feito pelo Tribunal Regional do Trabalho da 12ª Região;
+c) “o colendo Tribunal Superior do Trabalho, surpreendentemente, ao julgar o Recurso de Revista do SEAGRO, reformou a decisão a quo e determinou o pagamento do adicional, de insalubridade sobre o salário mínimo profissional dos substituídos, previsto na Lei nº 4.950-A/66, ou seja, determinou a adoção de 8,5 salários mínimos como base de cálculo;
+d) conquanto o reclamante tenha interposto recurso extraordinário dessa decisão, o apelo extremo deixou de ser conhecido ante o não exaurimento das vias recursais ordinárias;
+e) a ação trabalhista, então, retornou ao juízo de primeiro grau, para que se promovesse a execução do título judicial, apurado em mais de dez milhões de reais, tendo sido, ainda, desmembrada pelo TRT 12ª Região em ações de execuções individualizadas, referentes a cada substituído, por aplicação analógica dos artigos 46 do Código de Processo Civil e 97 do Código de Defesa do Consumidor.
+Em suas razões, ademais, afirma o seguinte:
+“Assim, eminentes Ministros, não coube outra medida a esta empresa pública senão o ajuizamento da presente Reclamação, já que está na iminência de sofrer constrição em seu patrimônio por conta de uma matéria, cujo entendimento pacífico e atual da Suprema Corte Constitucional vem lhe amparar.
+Muito bem, o instrumento da Reclamação visa garantir a autoridade e eficácia das decisões proferidas pelo Supremo Tribunal Federal a respeito do tema, pois já existe entendimento consolidado dessa Corte, consubstanciado na Súmula Vinculante nº 04, no sentido de que, embora o salário mínimo não possa servir de base de cálculo de qualquer vantagem do empregado, até que sobrevenha lei específica regulamentando a matéria, não pode esse critério ser substituído por decisão judicial(...)
+(...)
+Não é por outro motivo que nos autos da Reclamação nº. 6.266/DF, o eminente Ministro Gilmar Mendes suspendeu a aplicação da Súmula nº 228 do TST, na parte que permitia a substituição do salário mínimo pelo salário básico do empregado consolidando o entendimento de que até que sobrevenha uma lei específica, vigorará como base de cálculo do pagamento do adicional de insalubridade o salário mínimo”.
+Requer a concessão de medida cautelar para a suspensão imediata das execuções trabalhistas, haja vista o risco que corre na continuidade da prestação de serviço público, desenvolvido da área de pesquisa e extensão rural e pesqueira, ao ter de arcar com representativa quantia.
+Ao final, pleiteia a cassação da decisão reclamada e a determinação de incidência do contido na Súmula Vinculante nº 4.
+Em atendimento ao despacho de 9 de março de 2011, promoveu oportunamente a emenda da inicial, para atribuir valor à causa (Pet. nº 13845/2001).
+É o relatório.
+O perfil constitucional da reclamação (art.102, inciso I, alínea l, CF/1988) é o que lhe confere a função de preservar a competência e garantir a autoridade das decisões deste Tribunal. Em torno desses dois conceitos, a jurisprudência da Corte desenvolveu parâmetros para utilização dessa figura jurídica, dentre os quais destaco o postulado da impropriedade de seu uso em face da coisa julgada incidente sobre o ato reclamado (Súmula nº 734/STF).
+Os documentos acostados à inicial eletrônica dão nota acerca da inalterabilidade do acórdão proferido no Recurso de Revista nº 311/1993-036-12-00-1, interposto pelo sindicato profissional postulante na causa principal, uma vez negado trânsito ao recurso extraordinário do reclamante pelo E. TST, sucedido de agravo de instrumento (AI nº 648.727) cujo seguimento também foi obstado por esta Corte, em decisão monocrática do Ministro Ayres Britto, transitada em julgado em 10 de março de 2008. O ajuizamento da presente ocorreu em 24 de fevereiro do corrente ano.
+O processo trabalhista, como dito, encontra-se em fase de execução, exaurido, por óbvio, o juízo de cognição.
+A reclamação não se presta a fazer as vezes de ação rescisória, cujo ajuizamento, inclusive, já realizou o reclamante no âmbito do Tribunal Superior do Trabalho, constatável por simples consulta no sítio eletrônico daquela Corte.
+Destaco, por fim, que a jurisprudência do Supremo Tribunal Federal verteu-se na direção de vedar a utilização da via reclamatória para o combate de atos supostamente violadores de súmula vinculante cuja edição lhes é posterior. Isto porque, a teor do artigo 103-A da Constituição Federal, sua eficácia cogente em relação aos demais órgãos do Poder Judiciário e à administração pública incide a partir da publicação na imprensa oficial. Veja-se:
+“Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei”.
+No caso, incabida a alegação de desrespeito ao conteúdo da Súmula Vinculante nº 4, publicada na imprensa oficial em 9 de maio de 2008, se o acórdão combatido, emanado do Tribunal Superior do Trabalho, remonta ao ano de 2006.
+Nesse sentido, confira-se os precedentes a seguir colacionado:
+“EMENTA: RECLAMAÇÃO. Inadmissibilidade. Alegação de ofensa à súmula vinculante nº 10. Decisão anterior à edição desta. Seguimento negado. Agravo improvido. Não cabe reclamação por ofensa a súmula vinculante editada após a decisão impugnada. (Rcl nº 8.846/SP-AgR, Tribunal Pleno, Relator o Ministro Cezar Peluso, DJe de 09/04/10)
+“ EMENTA: AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO À SÚMULA VINCULANTE DO STF. DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR À EDIÇÃO DA SÚMULA VINCULANTE. AUSÊNCIA DO INTERESSE DE AGIR. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. AÇÃO CIVIL PÚBLICA. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA.
+1. Inexiste ofensa à autoridade de Súmula Vinculante quando o ato de que se reclama é anterior à decisão emanada da Corte Suprema.
+2. Não usurpa a competência do Supremo Tribunal Federal a declaração incidental de inconstitucionalidade proferida por juiz em ação civil pública. Precedentes.
+Agravo regimental a que se nega provimento” (Rcl nº 6.449/RS-AgR, Tribunal Pleno, Relator o Ministro Eros Grau, DJe 11/12/09, grifamos).
+Na mesma linha a Rcl nº 11.280/MG e a Rcl nº 10.162/SP, ambas de relatoria da Ministra Ellen Gracie (DJe de 03/03/11 e 24/11/10).
+Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF, prejudicada a apreciação da liminar.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
