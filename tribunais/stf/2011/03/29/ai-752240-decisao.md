@@ -1,0 +1,18 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“ADMINISTRATIVO – SERVIDOR PÚBLICO – CUMULAÇÃO DE DOIS CARGOS DE TÉCNICO EM RADIOLOGIA – ART. 14 DA LEI Nº 7.394/85 – JORNADA DE TRABALHO – EXPOSIÇÃO À RADIOATIVIDADE NÃO SUPERIOR A VINTE E QUATRO HORAS SEMANAIS – SEGURANÇA CONCEDIDA.
+I – A modicidade da jornada de trabalho do técnico em radiologia, estabelecida em 24 horas semanais pelo art. 14 da Lei nº 7.394/85, se justifica em função da condição de insalubridade inerente à atividade profissional desenvolvida.
+II – Desempenhando o profissional de saúde, em ambos os cargos públicos em que se encontra investido, rotina de trabalho que lhe submete a uma exposição à radioatividade por apenas 24 horas semanais, eis que, nas demais 24 horas, trabalha em auxílio na marcação de exames e em atividades outras a cuja radioatividade não se sujeita, certo é que os desígnios da lei foram respeitados, em seu escopo precípuo, restando viabilizada a cumulação de dois cargos públicos privativos de profissionais de saúde excepcionalmente autorizada pela Carta da República (art. 37, XVI, c).
+III - Recurso e remessa oficial desprovidos” (fl. 180).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, em suma, aos arts. 5º, LIV e LXIX, e 37, caput e XVI, da mesma Carta
+O agravo não merece acolhida. Isso porque, à exceção do art. 37, XVI, da Constituição, os demais dispositivos constitucionais apontados como violados não foram devidamente prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo  que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto, Primeira Turma).
+Ressalte-se, ainda, que melhor sorte não assiste à agravante no concernente à suposta violação ao art. 37, XVI, da CF. Isso porque, para se chegar à conclusão contrária à adotada pelo Tribunal a quo, no concernente à compatibilidade de horários do servidor público ora agravado, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Inviável, portanto, o extraordinário. Nesse sentido:
+“ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. COMPATIBILIDADE DE HORÁRIOS RECONHECIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. PRECEDENTES. REGULARIDADE CONSTITUCIONAL DE ACUMULAÇÃO. PODER REGULAMENTAR. CRIAÇÃO DE NOVA REGRA. IMPOSSIBILIDAE. AGRAVO IMPROVIDO.
+I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes.
+II – Impossibilidade de se criar regra não prevista no texto da Constituição Federal, a pretexto de regulamentar dispositivo constitucional.
+III - Agravo regimental improvido” (RE 565.917-AgR/GO, de minha relatoria – grifos meus).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
