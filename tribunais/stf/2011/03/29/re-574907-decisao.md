@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES DO ESTADO DE MINAS GERAIS - IPSEMG. CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA À SAÚDE. LEI COMPLEMENTAR N. 64/2002 DO ESTADO DE MINAS GERAIS. COBRANÇA COMPULSÓRIA: IMPOSSIBILIDADE. PRECEDENTES. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“EMBARGOS INFRINGENTES. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE OS VENCIMENTOS DE SERVIDORES PÚBLICOS PARA A ASSISTÊNCIA À SAÚDE. CONCESSÃO DA SEGURANÇA PARA DETERMINAR A CESSAÇÃO DOS DESCONTOS. Quanto à questão da assistência medido-hospitalar no percentual de 3,2%, deve ser mantido o acórdão no ponto relativo à determinação de cessação de tais descontos ” (fl. 290).
+2. Os Recorrentes alegam que o Tribunal a quo teria contrariado os arts. 1º, 18, 24, inc. XII, §§ 1º ao 3º, 25, 149, § 1º, e 195, § 4º, da Constituição da República.
+Sustentam, em síntese, que, “sem a contribuição de 3,2% compulsoriamente prestada por todos os servidores, torna-se impossível a subsistência do benefício” (fl. 310 – grifo nosso).
+Requerem o provimento do recurso extraordinário e a reforma do acórdão, para “indeferir-se a suspensão da contribuição para a saúde” (fl. 317).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste aos Recorrentes.
+4. Na espécie vertente, o Tribunal de origem rejeitou os embargos infringentes opostos pelo Instituto de previdência dos servidores do Estado de Minas Gerais - IPSEMG, mantendo julgado que concedera segurança aos ora Recorridos, para afastar a condenação à restituição da contribuição previdenciária para o custeio de saúde, na alíquota de 3,2%, instituída pela Lei Complementar 64/2002.
+Os Recorrentes defendem a possibilidade de cobrança da mencionada contribuição.
+5. O Supremo Tribunal Federal declarou a inconstitucionalidade da expressão “definidos no art. 79”, contida no art. 85, caput, da Lei Complementar n. 64/2002, tanto em seu texto original quanto com a redação que lhe foi conferida pela Lei Complementar n. 70/2003, bem como do vocábulo “compulsoriamente”, inserido no § 4º do art. 85 da Lei Complementar 64/2002 e no § 5º do art. 85, na redação dada pela Lei Complementar n. 70/2003, ambas do Estado de Minas Gerais (ADI 3.106, Rel. Eros Grau, Tribunal Pleno, DJe 14.4.2010).
+Esse entendimento foi firmado no julgamento do Recurso Extraordinário 573.540, Relator o Ministro Gilmar Mendes, tema com repercussão geral reconhecida, no qual foi decidido que “os Estados-membros somente poderão instituir contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores” (DJe 11.6.2010).
+Naquela assentada, observou-se que a contribuição para o custeio dos serviços de saúde prestados pela autarquia previdenciária estadual de Minas Gerais estava sendo descontada compulsoriamente da remuneração dos servidores públicos daquele Estado, “independentemente da efetiva utilização desses serviços”.
+Nesse contexto, o Relator concluiu em seu voto que “é nítida, portanto, a natureza tributária da mencionada exação, tendo em vista, principalmente, a compulsoriedade de sua cobrança”. E, assim, que “somente a União poderá exercer a competência residual, sendo vedada a instituição de contribuições sociais pelos demais entes federativos”.
+Todavia, ao final de seu voto, foi feita a seguinte ressalva:
+“Não há dúvida, portanto, de que os termos ‘saúde’ e ‘previdência’ retratam realidades distintas. Por conseguinte, revela-se infundada a tese segundo a qual a expressão ‘regime previdenciário’ também englobaria os serviços médicos, hospitalares, odontológicos e farmacêuticos prestados pela autarquia previdenciária estadual.
+(...)
+Nesse ponto, convém esclarecer que a criação de planos de saúde pelos entes federativos não se afigura, a priori, inconstitucional.
+Como bem salientado pelo Ministro Eros Grau no voto que proferiu na ADI 3.106, a inconstitucionalidade reside apenas na compulsoriedade da contribuição instituída para o financiamento desses ‘planos de saúde’, ou seja, no emprego do vocábulo ‘compulsoriamente’ no § 5° do art. 85 da Lei Complementar 64/2002.
+Em outras palavras, a Constituição não autoriza os Estados-membros a instituir, para o custeio de serviços de saúde, exação que possua natureza tributária, cujo pagamento seja exigido a todos os servidores independentemente da voluntária adesão ao ‘plano’.
+Por outro lado, não há óbice constitucional ao oferecimento desses serviços, pelo Estado, aos seus servidores, desde que a adesão e a ‘contribuição’ não sejam compulsórias. Convém esclarecer, também, que os serviços somente serão prestados àqueles que, voluntariamente, aderirem ao ‘plano’, inexistindo, pois, direito subjetivo à sua fruição independente do pagamento da ‘contribuição’. Ressalte-se que o termo ‘contribuição’, nesse contexto, não é mais entendido em sua acepção jurídico-tributária.
+Diante de todos esses argumentos, conclui-se que os Estados-membros possuem competência apenas para a instituição de contribuição voltada ao custeio do regime próprio de previdência de seus servidores. Falece-lhes, portanto, competência para a criação de contribuição ou de qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores. Ademais, não há óbice constitucional à prestação, pelos Estados, de serviços de saúde a seus servidores, desde que a adesão a esses ‘planos’ seja facultativa” (grifos nossos).
+Dessas orientações não divergiu o acórdão recorrido.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
