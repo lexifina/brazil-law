@@ -1,0 +1,30 @@
+D ECIS Ã O:
+Vistos.
+União e Somar S/A Indústrias Mecânica interpõem recursos extraordinários, ambos com fundamento no art. 102, inciso III, alínea “a”, do Texto Maior, contra acórdão do Tribunal Regional Federal da 4ª Região e do Superior Tribunal de Justiça, respectivamente.
+O acórdão do Tribunal regional restou assim ementado:
+“TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. CRÉDITOS ESCRITURAIS. CORREÇÃO MONETÁRIA INAPLICÁVEL. COMPENSAÇÃO.
+1. Inaplicável, no particular, a correção monetária, consoante precedente da 1ª Seção deste Tribunal (EIAC nº 2000.04.01.011990-5). O creditamento escritural de IPI é um direito do contribuinte, em atendimento ao princípio da não-cumulatividade insculpido no inciso II do parágrafo 3º do art. 153 da Constituição Federal, mostrando-se inaplicável a incidência de atualização monetária sobre o referido crédito, por falta de amparo legal.
+2. Na forma do artigo 66 da Lei nº 8.383/91, é possível a compensação dos valores apurados a maior somente com prestações vincendas do próprio IPI, extinguindo-se o crédito sob condição resolutória da ulterior homologação (art. 150, § 1º,do CTN). O artigo 11 da Lei nº 9.779/99 em nada alterou a sistemática de compensação, devendo o contribuinte, se pretender utilizar tais créditos na compensação com outros tributos ou contribuições administrados pela SRF, protocolar requerimento administrativo nesse sentido” (fl. 578)
+Por sua vez, o julgado do Superior Tribunal de Justiça recebeu a seguinte ementa:
+“PROCESSUAL CIVIL - TRIBUTÁRIO - AGRAVO REGIMENTAL – RECURSO ESPECIAL - CRÉDITOS DO IPI DECORRENTES DE AQUISIÇÕES DE MATÉRIAS-PRIMAS, INSUMOS E PRODUTOS INTERMEDIÁRIOS ISENTOS, NÃO-TRIBUTADOS OU TRIBUTADOS À ALÍQUOTA ZERO - CRÉDITOS NÃO UTILIZADOS NA ÉPOCA OPORTUNA EM VIRTUDE DE ÓBICE CRIADO PELO FISCO - CORREÇÃO MONETÁRIA - INCIDÊNCIA.
+1. A correção monetária não incide sobre o crédito escritural, técnica de contabilização para a equação entre débitos e créditos, por ausência de previsão legal.
+2. Entretanto, se o direito ao creditamento não foi exercido no momento oportuno em virtude de óbice criado pelo Fisco, a correção monetária deverá incidir sobre os referidos créditos, de forma a preservar o seu valor real. Precedentes.
+3. Agravo regimental provido ” (fl. 644).
+Nas razões do recurso extraordinário interposto pelo contribuinte contra acórdão do Tribunal regional, sustenta-se afronta ao princípio da não cumulatividade, insculpido no art. 153, § 3º da Constituição Federal.
+Por sua vez, a União sustenta que o acórdão do Superior Tribunal de Justiça ao reconhecer o direito à correção monetária, fere os artigos 2º, 5º, inciso II, e 153, § 3º, inciso II da Constituição Federal.
+Decido.
+Passo a análise do recurso extraordinário da União.
+Sobre a matéria de correção monetária, elucidativo o acórdão proferido recentemente pela Primeira Turma, de relatoria do Ministro Ricardo Lewandowski, consubstanciado no RE nº 411.861/RS, cuja ementa transcrevo a seguir:
+“CONSTITUCIONAL. TRIBUTÁRIO. CRÉDITO. CORREÇÃO MONETÁRIA. DEFINIÇÃO DO ÍNDICE, PERÍODO, MONTANTE. QUESTÕES INFRACONSTITUCIONAIS OU QUE DEPENDEM DE PROVA. CRÉDITO ESCRITURADO EXEDENTE. CORREÇÃO INDEVIDA. RESISTÊNCIA ILEGÍTIMA DO ESTADO EM RECONHECER CRÉDITOS EM FAVOR DO CONTRIBUINTE. SITUAÇÃO DIVERSA. CORREÇÃO MONETÁRIA DEVIDA. EMBARGOS ACOLHIDOS PARCIALMENTE. I - Discussão sobre definição do índice de correção monetária, período de incidência e fixação do valor devido. Questões infraconstitucionais ou que dependem da análise de provas. II – Correção monetária. Créditos escriturais excedentes. Questão constitucional. Correção monetária indevida. Benefício fiscal que só pode ser concedido pelo Poder Legislativo. Inexistência de ofensa aos postulados da não cumulatividade e da isonomia. III – Correção monetária. Créditos escriturais não utilizados no tempo devido por ilegítima resistência do Estado. Questão constitucional diversa do item anterior. Correção monetária devida durante o período de oposição do Estado. IV - Entendimentos aplicáveis ao ICMS e ao IPI. V - Embargos de declaração acolhidos parcialmente para, mantendo a parte dispositiva do acórdão, sanar os vícios alegados.”
+Oportuno salientar que, ao contrário do que restou decidido pelo Superior Tribunal de Justiça, a hipótese dos autos não comporta encaixe na regra jurisprudencial exceptiva da não correção monetária dos créditos, pois não se verifica ilegítima resistência do fisco, mas simplesmente créditos escriturais excedentes, como é facilmente perceptível da exposição inicial e foi bem demonstra o acórdão do Tribunal regional ao afirmar: “Firmou-se o entendimento do STF no sentido de que a atualização monetária de créditos extemporâneos ou acumulados é incompatível com o princípio da não cumulatividade”.
+Desse modo, resta claro que o entendimento deste Supremo Tribunal Federal é no sentido de que é indevida a atualização monetária dos créditos, ressalvada a previsão em legislação específica.
+Nesse sentido, RE nº 410.795-AgR/PR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ 29/10/09; RE nº 589.031-AgR/MG, Segunda Turma, Rel. Min. Eros Grau, Dje 14/11/08 e RE nº 463.388-AgR/RS, Segunda Turma, Relator o Ministro Gilmar Mendes, Dje 5/5/06.
+Quanto ao recurso extraordinário interposto por Somar S/A Indústrias Mecânica, entendo que este está prejudicado, pois o Superior Tribunal de Justiça reconheceu o direito à correção monetária ora pleiteado, ocasionando a perda do seu objeto.
+Pelo exposto, dou provimento ao recurso extraordinário interposto pela União para reformar o acórdão proferido pelo Superior Tribunal de Justiça, na parte em que reconheceu a incidência de correção monetária dos créditos escriturais.
+Julgo prejudicado o recurso extraordinário da empresa, tendo em vista a perda superveniente do objeto.
+Condeno o recorrido no pagamento das custas e em honorários de advogado, nos termos do artigo 20, § 4º, do Código de Processo Civil, em R$ 3.000,00.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
