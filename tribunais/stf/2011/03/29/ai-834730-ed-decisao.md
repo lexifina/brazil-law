@@ -1,0 +1,11 @@
+DECISÃO: Conheço, preliminarmente, dos presentes embargos de declaração como recurso de agravo (RTJ 145/664 - RTJ 153/834 – AI  243.159-ED/DF, Rel. Min. NÉRI DA SILVEIRA - AI 243.832-ED/MG, Rel. Min. MOREIRA ALVES – Rcl 4.395-ED/SP, Rel. Min. CEZAR PELUSO, v.g.).
+E, ao fazê-lo, reconsidero a decisão proferida a fls. 411, ficando prejudicado, em conseqüência, o exame do recurso interposto a fls. 415/423.
+Passo a examinar, desse modo, o presente agravo de instrumento.
+O Plenário do Supremo Tribunal Federal, ao apreciar o AI  715.423-QO/RS, Rel. Min. ELLEN GRACIE, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos deduzidos contra acórdãos publicados antes de 03 de maio de 2007 e que veiculem tema em relação ao qual já foi reconhecida a existência de repercussão geral.
+Esta Suprema Corte, em sessão realizada por meio eletrônico, apreciando o AI 762.184-RG/RJ, Rel. Min. CEZAR PELUSO, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa, fazendo-o em acórdão assim ementado:
+“RECURSO. Extraordinário. Extravio de bagagem. Limitação de danos materiais e morais. Convenção de Varsóvia. Código de Defesa do Consumidor. Princípio constitucional da indenizabilidade irrestrita. Norma prevalecente. Relevância da questão. Repercussão geral reconhecida. Apresenta repercussão geral o recurso extraordinário que verse sobre a possibilidade de limitação, com fundamento na Convenção de Varsóvia, das indenizações de danos morais e materiais, decorrentes de extravio de bagagem.”
+Sendo assim, e pelas razões expostas, dou provimento ao presente agravo de instrumento, para admitir o recurso extraordinário a que ele se refere, impondo-se, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro CELSO DE MELLO
+Relator
