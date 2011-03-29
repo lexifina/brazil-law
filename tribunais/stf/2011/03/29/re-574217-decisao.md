@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Ricardo José Magalhães Barros interpõe recurso extraordinário, com fundamento nas alíneas “a”, “b” e “c”, do permissivo constitucional, contra acórdão da Primeira Câmara Cível do
+Tribunal de Justiça do Estado do Paraná , assim ementado:
+“APELAÇÃO CÍVEL. AÇÃO POPULAR. JULGAMENTO ANTECIPADO. MATÉRIA DE DIREITO. POSSIBILIDADE. AGRAVO RETIDO. APRECIAÇÃO. INVIABILIDADE. DESISTÊNCIA FORMULADA PELO AGRAVANTE. JUNTADA DE DOCUMENTOS. NÃO INTIMAÇÃO DA PARTE CONTRÁRIA. IRRELEVÂNCIA PARA O JULGAMENTO. NULIDADE NÃO CONFIGURADA. SENTENÇA 'ULTRA PETITA' INOCORRÊNCIA. EXECUTIVO MUNICIPAL – REMISSÃO PARCIAL DE TRIBUTOS – INOBSERVÂNCIA DO ART. 150, § 6º DA CONSTITUIÇÃO FEDERAL. OBRIGAÇÃO DE RESSARCIR O ERÁRIO. CONDENAÇÃO MANTIDA. RECURSO ADESIVO. FIXAÇÃO DE JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS. SENTENÇA CONDENATÓRIA. ART. 20, § 3º, DO CPC. APELAÇÃO DOS RÉUS IMPROVIDA. RECURSO ADESIVO PROVIDO.
+1. O agravo retido sé pode ser conhecido se expressamente requerida sua apreciação pelo agravante, faculdade que não pode ser exercida pela parte contrária.
+2. Se não houver necessidade de produção de outras provas, além da documental já constante dos autos, é possível o julgamento antecipado da ação popular, sem a intimação das partes para apresentação de alegações finais.
+3. A oportunidade de manifestação somente do Ministério Público antes da sentença não fere o princípio do contraditório e da ampla defesa, pois, no caso, o órgão atua como fiscal da lei na ação popular.
+4. A juntada de documento inócuo, que não teve qualquer influência no julgamento não impõe a necessidade de intimação da parte adversa para manifestação.
+5. Não configura julgamento 'utra petita' o reconhecimento de que dispositivo de lei municipal não foi recepcionado pela Constituição Federal, não pedido expressamente na inicial, pois trata-se de matéria de direito, cabendo ao juiz a sua apreciação, independentemente de provocação.
+6. A concessão de remissão tributária fora dos limites impostos por lei específica e exclusiva para a matéria, nos termos do art. 150, § 6º, da Constituição Federal, constitui ato ilegal e lesivo ao erário público, impondo-se a condenação dos responsáveis ao ressarcimentos dos prejuízos causados aos cofres do Município.
+7. Sobre o valor da condenação incide correção monetária e juros legais.
+8. Tratando-se de sentença condenatória, os honorários advocatícios devem ser fixados com base no § 3º do art. 20 do Código de Processo Civil” (fls. 666/667).
+Opostos embargos de declaração (fls. 684 a 721), foram rejeitados (fls. 841 a 845).
+Alega o recorrente violação do artigo 97 da Constituição Federal, em razão de ter sido reconhecida a inconstitucionalidade de lei municipal, por órgão fracionário do Tribunal de origem, sem que a matéria fosse remetida à análise do Órgão Especial daquela Corte.
+O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (fls. 936 a 960).
+O parecer da Procuradoria-Geral da República é pelo improvimento do recurso (fls. 963 a 965).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 2/2/04, conforme expresso na certidão de folha 847, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+Ao contrário do sustentado pelo recorrente, o juízo firmado no acórdão recorrido importa em mera deliberação negativa de recepção de norma infraconstitucional, na medida em que se refere a diploma legislativo editado antes da vigência da Constituição Federal de 1988.
+Tem-se, assim, por afastada a sujeição, do caso, ao disposto no artigo 97 da Constituição Federal.
+Nesse sentido, anotem-se os fundamentos lançados no AI nº 582.280/RJ-AgR, Segunda Turma, Relator o Ministro Celso Mello, DJ de 6/11/06, in verbis, na parte em que interessa:
+“(...)
+É que, em tal situação, por tratar-se de lei pré-constitucional (porque anterior à Constituição de 1988), o único juízo admissível, quanto a ela, consiste em reconhecer-lhe, ou não, a compatibilidade material com a ordem constitucional superveniente, resumindo-se, desse modo, a solução da controvérsia, à formulação de um juízo de mera revogação (em caso de conflito hierárquico com a nova Constituição) ou de recepção (na hipótese de conformidade material com a Carta Política).
+Esse entendimento nada mais reflete senão orientação jurisprudencial consagrada nesta Suprema Corte, no sentido de que a incompatibilidade vertical de atos estatais examinados em face da superveniência de um novo ordenamento constitucional “(...) traduz hipótese de pura e simples revogação dessas espécies jurídicas, posto que lhe são hierarquicamente inferiores” (RTJ 145/339, Rel. Min. CELSO DE MELLO - RTJ 169/763, Rel. Min. PAULO BROSSARD, v.g.).
+Vê-se, portanto, na linha de iterativa jurisprudência prevalecente nesta Suprema Corte e em outros Tribunais (RTJ 82/44 - RTJ 99/544 - RTJ 124/415 - RTJ 135/32 - RT 179/922 - RT 208/197 - RT 231/665, v.g.), que a incompatibilidade entre uma lei anterior (como a norma ora questionada inscrita na Lei nº 691/1984 do Município do Rio de Janeiro/RJ, p. ex.) e uma Constituição posterior (como a Constituição de 1988) resolve-se pela constatação de que se registrou, em tal situação, revogação pura e simples da espécie normativa hierarquicamente inferior (o ato legislativo, no caso), não se verificando, por isso mesmo, hipótese de inconstitucionalidade (RTJ 145/339 - RTJ 169/763).
+Isso significa que a discussão em torno da incidência, ou não, do postulado da recepção - precisamente por não envolver qualquer juízo de inconstitucionalidade (mas, sim, quando for o caso, o de simples revogação de diploma pré-constitucional) - dispensa, por tal motivo, a aplicação do princípio da reserva de Plenário (CF, art. 97), legitimando, por isso mesmo, a possibilidade de reconhecimento, por órgão fracionário do Tribunal, de que determinado ato estatal não foi recebido pela nova ordem constitucional (RTJ 191/329-330), além de inviabilizar, porque incabível, a instauração do processo de fiscalização normativa abstrata (RTJ 95/980 - RTJ 95/993 - RTJ 99/544 - RTJ 143/355 - RTJ 145/339, v.g.)”.
+E, ainda, a ementa do seguinte julgado, reproduzida tão somente a parte que interessa para o exame da controvérsia aqui em disputa:
+No mesmo sentido, por fim, as seguintes decisões monocráticas: RE nº 287.614/SP, relator o Ministro Carlos Velloso (DJ de 21/11/03); AI nº 420.038/RS-AgR, relator o Ministro Cezar Peluso (DJ de 15/8/07); AI nº 804.986/RS, relator o Ministro Gilmar Mendes (Dje de 14/2/11); RE nº 557.966/RS, relatora a Ministra Ellen Gracie (Dje de 15/3/11), e, de minha relatoria: RE nº 550/118/PB (Dje de 27/11/09) e AI nº 786.202/RS (Dje de 19/3/10).
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro DIAS TOFFOLI
+Relator
