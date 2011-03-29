@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“SERVIDOR MUNICIPAL – Pretensão ao correto reenquadramento – Leis Complementares 162/95 e 214/96 – Adesão ao Plano de Cargos, Carreiras e Salários (PCCS) – Plano de Avaliação de Desempenho (PAV) – Reexame necessário não conhecido – Recurso voluntário desprovido” (fl. 91).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, I, e 37, X e XIV, da mesma Carta.
+O agravo não merece acolhida.
+Ressalte-se, preliminarmente, que os arts. 2º, e 5º, I, não foram objeto de debate e decisão prévios pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido:
+“TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 700.144-AgR/RJ, de minha relatoria).
+Ademais, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Lei Complementar Municipal 214/96 e Decreto Municipal 2.724/96), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. DECRETO. MUNICIPAL 2.724/96 E LEI COMPLENTAR 214/96. OFENSA INDIRETA. LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. PRECEDENTES.
+ A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. Agravo regimental a que se nega provimento” (AI 683.101-AgR/SP, Rel. Min. Eros Grau).
+Isto posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 29 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
