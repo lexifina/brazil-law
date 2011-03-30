@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 55):
+“PRESTAÇÃO DE SERVIÇOS – AÇÃO DE EXECUÇÃO – PRETENSÃO DA EXECUTADA DE SUBSTITUIR O VALOR PENHORADO POR CARTA DE FIANÇA BANCÁRIA – IMPOSSIBILIDADE, EM RAZÃO DE JÁ TER SIDO A QUESTÃO DECIDIDA EM OUTRO AGRAVO DE INSTRUMENTO – RECURSO IMPROVIDO.
+Não cabe à parte rediscutir  questão que já fora apreciada e julgada em recurso anterior.”
+No recurso extraordinário, a ora agravante alega ofensa ao disposto no art. 5º, XXXV, LV e LVI, da Constituição.
+Inexiste a alegada ofensa aos dispositivos constitucionais apontados, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Ademais, os argumentos trazidos à colação no recurso extraordinário não são suficientes para desconstituir o fundamento da decisão recorrida de que “(...) a questão objeto do presente recurso já foi decidida em outro agravo de instrumento. Não é pelo fato de ter sido alterada a lei, como alega a agravante, que ela possa rediscuti-la. Isso, evidentemente, não é mais possível, sob pena de ferir-se a segurança jurídica, objetivo maior da coisa julgada” (fls. 59). Tal circunstância impede o conhecimento do recurso extraordinário por esta Corte, nos termos da Súmula 284/STF.
+Ainda que assim não fosse, as alegações do recorrente demandariam o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, de modo que a ofensa à Constituição, se existente, seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 585.388-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 25.06.2010); AI 626.840 (rel. min. Menezes Direito, DJ de 09.05.2008); AI 608.138 (rel. min. Gilmar Mendes, DJ de 30.05.2007); AI 599.421 (rel. min. Ricardo Lewandowski, DJ de 03.10.2006); AI 558.581 (rel. min. Cezar Peluso, DJ de 24.03.2006); AI 565.678 (rel. min. Sepúlveda Pertence, DJ de 03.02.2006) e RE 430.084-AgR (rel. min. Ellen Gracie, Segunda Turma, DJ de 24.06.2005).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 30 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
