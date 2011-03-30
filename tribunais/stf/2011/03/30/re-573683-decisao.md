@@ -1,0 +1,20 @@
+DECISÃO : vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 14):
+“SERVIDOR PÚBLICO APOSENTADO. DOZE REFERÊNCIAS. EXPOSIÇÃO DE MOTIVOS. PRETENSÃO DE EXTENSÃO DO BENEFÍCIO A SERVIDORES INATIVOS, COM ESCOPO NA DISPOSIÇÃO INSCRITA NO ARTIGO 20 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS DA CARTA DE 1988. PRESCRIÇÃO DA PRETENSÃO.
+1. Vindicando o autor extensão do benefício a seus proventos de aposentadoria, concedida a contar de fevereiro de 1991, e o fazendo à luz da disposição inscrita no artigo 40, parágrafo 4º, da Carta Constitucional de 1988 e no artigo 20 do ato de suas disposições transitórias, não se pode pretender iniciada a prescrição em momento anterior, isto é, março de 1985, a pretexto de que naquela data fora publicada a Exposição de Motivos nº 77, do extinto Departamento Administrativo do Serviço Público.
+2. Orientação jurisprudencial uniforme nesta Corte no sentido de que o reposicionamento funcional em até doze referências, autorizado pela Exposição de Motivos nº 77/85, teve por escopo eliminar distorções e equívocos existentes na implantação do Novo Plano de Classificação de Cargos, e assim, sendo a posição funcional peculiar a cada servidor, conceder-lhes indiscriminadamente doze referências implicaria em permanência do erro inicial que se visou a corrigir, caracterizando, ademais, aumento geral de vencimentos, somente passível de ser outorgado, em face do princípio constitucional da legalidade, por meio de instrumento legislativo específico.
+3. Aplicação, ao caso, do entendimento enunciado na súmula 339 da jurisprudência predominante no Supremo Tribunal Federal.
+4. Inaplicabilidade, porém, da disposição inscrita no parágrafo 4º do artigo 40 da Constituição Federal, em sua primitiva redação, pois o que assegurou aos inativos foi extensão de quaisquer vantagens concedidas posteriormente em relação ao cargo nos quais se aposentaram, hipótese distinta do reposicionamento que, como promoção, diz respeito ao ocupante, e não ao cargo.
+5. Precedentes desta Corte Regional.
+6. Recurso de apelação a que se dá provimento.”
+2. Pois bem, a parte recorrente sustenta violação ao inciso I do art. 5º, aos incisos X e XI do art. 37, ao § 1º do art. 153 e ao inciso III do art. 165, todos da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pela instância judicante de origem afina com a jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta, no sentido de que é “vedado ao Poder Judiciário, que não tem função legislativa, estender a servidores públicos prerrogativas que não lhes foram deferidas em lei, com base no princípio da isonomia. Aplicação do enunciado da Súmula STF nº 339” (RE 345.458, da relatoria da ministra Ellen Gracie).
+5. Por outra volta, para se chegar à conclusão pretendida pela parte recorrente, faz-se necessário o reexame da legislação infraconstitucional pertinente. Providência que não tem lugar neste momento processual.
+6. No mesmo sentido, vejam-se os REs 522.570-AgR, da relatoria do ministro Ricardo Lewandowski; 536.593, da relatoria da ministra Cármen Lúcia; e 425.451-AgR, da relatoria do ministro Gilmar Mendes, que redigiu a ementa da seguinte maneira:
+“Agravo regimental em recurso extraordinário. 2. Administrativo. Servidor público. Inativo. Reposicionamento funcional em até 12 referências. Exposição de motivos DASP nº 77, de 1985. Impossibilidade. Precedentes. 3. Agravo regimental a que se nega provimento.”
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de março de 2011.
+Ministro AYRES BRITTO
+Relator
