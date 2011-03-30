@@ -1,0 +1,15 @@
+1.  Trata-se de agravo de decisão que inadmitiu recurso extraordinário criminal por ausência da indicação da repercussão geral na petição do apelo extremo, bem como pela necessidade da análise das provas e de legislação infraconstitucional.
+2.  Inicialmente, verifico que a parte agravante não atacou todos os fundamentos da decisão agravada (análise das provas e de legislação infraconstitucional), limitando-se em repisar os argumentos apresentados no RE, o que faz incidir a Súmula STF 283, segundo a qual “é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+ Nesse sentido destaca-se a ementa do julgamento do RE 529.241-AgR/CE, rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 14.3.2011:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RESPONSABILIDADE CIVIL OBJETIVA. NEXO CAUSAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. FUNDAMENTO INFRACONSTITUCIONAL MANTIDO COM O JULGAMENTO DO RESP. APLICABILIDADE DA SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base no conjunto fático-probatório constante dos autos. Assim, a apreciação do RE demandaria o reexame de provas, o que atrai a incidência da Súmula 279 do STF. II - Os fundamentos infraconstitucionais, suficientes para a manutenção do acórdão recorrido, permaneceram incólumes com o julgamento do recurso especial pelo STJ. Incidência da Súmula 283 do STF. III - Agravo regimental improvido.”.
+ No mesmo sentido são as seguintes decisões: AI 772502-AgR/SC, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 08.3.2010; AI 542004-AgR /SP, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 17.3.2006; e AI 495242-AgR/SP, Rel. Min. Eros Grau, 1ª Turma, DJ 06.5.2005.
+3.  Ademais, não foi apresentada preliminar formal e fundamentada de repercussão geral da matéria constitucional suscitada no recurso extraordinário (art. 543-A, § 2º, do CPC).
+ O artigo 543-A, § 2º, do CPC estabelece: “O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral”.
+ No julgamento do AI 664.567-QO, rel. Min. Sepúlveda Pertence, Plenário, DJe 05.09.2007, este Tribunal fixou orientação de que o citado dispositivo legal somente seria exigido dos recursos extraordinários interpostos após a publicação da Emenda Regimental 21, desta Corte, ocorrida em 03.05.2007.
+ Nesse sentido, em casos análogos, o AI 729.430, rel. Min. Cármen Lúcia, DJe 30.10.2008; o AI 724.267, rel. Min. Cezar Peluso, DJe 02.09.2008; o RE 591.103, rel. Min. Ricardo Lewandowski, DJe 29.08.2008; e o RE 569.476-AgR, de minha relatoria, Plenário, DJe 24.04.2008.
+ Verifica-se, no presente caso, que o agravante foi intimado do acórdão recorrido após 03.05.2007 e que não consta no recurso extraordinário a preliminar formal e fundamentada de repercussão geral.
+4.  Ante o exposto, nego seguimento ao agravo.
+ Publique-se.
+ Brasília, 30 de março de 2011.
+Ministra Ellen Gracie
+Relatora
