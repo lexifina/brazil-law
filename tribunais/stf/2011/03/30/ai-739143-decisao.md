@@ -1,0 +1,11 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+A jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 147/251 - RTJ 159/328 - RTJ 161/284 – RTJ  170/627-628 - AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO - AI  153.310-AgR/RS, Rel. Min. SYDNEY SANCHES - AI 185.669-AgR/RJ, Rel. Min. SYDNEY SANCHES - AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO - RE 254.948/BA, Rel. Min. CELSO DE MELLO, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede - como precedentemente já enfatizado - o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES - RTJ 132/455, Rel. Min. CELSO DE MELLO).
+Impende assinalar, de outro lado, que não se revela cabível proceder, em sede recursal extraordinária, a indagações de caráter eminentemente probatório, especialmente quando se busca discutir elementos fáticos subjacentes à causa.
+No caso, a verificação da procedência, ou não, das alegações deduzidas pela parte recorrente implicará necessário reexame de fatos e de provas, o que não se admite na sede excepcional do apelo extremo.
+Essa pretensão sofre as restrições inerentes ao recurso extraordinário, em cujo âmbito não se reexaminam fatos e provas, circunstância essa que faz incidir, na espécie, a Súmula 279 do Supremo Tribunal Federal.
+Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+Publique-se.
+Brasília, 30 de março de 2011.
+Ministro CELSO DE MELLO
+Relator
