@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, proferido por Tribunal de Justiça estadual, que concluiu pela invalidade da cobrança das taxas de limpeza pública, de conservação de vias e logradouros e de manutenção de rede de água e esgoto, instituídas pelo Município de São Bernardo do Campo.
+Alega-se violação do disposto nos art. 145, II, e 156 da Constituição federal.
+O recurso não merece seguimento.
+Esta Corte, em casos análogos ao presente, decidiu pela inconstitucionalidade da cobrança das taxas de limpeza e de conservação de vias e logradouros públicos, com o fundamento de que seus fatos geradores se consubstanciam em prestação de serviço público inespecífico, imensurável, indivisível e insuscetível de ser referido a determinado contribuinte. Confiram-se:
+“EMENTA: MUNICÍPIO DE SÃO PAULO. TRIBUTÁRIO. LEI Nº 10.921/90, QUE DEU NOVA REDAÇÃO AOS ARTS. 7º, 87 E INCS. I E II, E 94 DA LEI Nº 6.989/66, DO MUNICÍPIO DE SÃO PAULO. IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA. TAXAS DE LIMPEZA E DE CONSERVAÇÃO DE VIAS E LOGRADOUROS PÚBLICOS.
+Inconstitucionalidade dos dispositivos sob enfoque.
+O primeiro, por instituir alíquotas progressivas alusivas ao IPTU, em razão do valor do imóvel, com ofensa ao art. 182, § 4º, II, da Constituição Federal, que limita a faculdade contida no art. 156, § 1º, à observância do disposto em lei federal e à utilização do fator tempo para a graduação do tributo.
+Os demais, por haverem violado a norma do art. 145, § 2º, ao tomarem para base de cálculo das taxas de limpeza e conservação de ruas elemento que o STF tem por fator componente da base de cálculo do IPTU, qual seja, a área de imóvel e a extensão deste no seu limite com o logradouro público.
+Taxas que, de qualquer modo, no entendimento deste Relator, tem por fato gerador prestação de serviço inespecífico, não mensurável, indivisível e insuscetível de ser referido a determinado contribuinte, não tendo de ser custeado senão por meio do produto da arrecadação dos impostos gerais.
+Não-conhecimento do recurso da Municipalidade. Conhecimento e provimento do recurso do contribuinte. ” (RE 204.827, rel. min. Ilmar Galvão, Pleno, DJ de 25.04.1997)
+“EMENTA: - CONSTITUCIONAL. TRIBUTÁRIO. TAXA DE LIMPEZA PÚBLICA: MUNICÍPIO DE BELO HORIZONTE. C.F., art. 145, II. CTN, art. 79, II e III. I. - As taxas de serviço devem ter, como fato gerador, serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos a sua disposição. Serviços específicos são aqueles que podem ser destacados em unidades autônomas de intervenção, de utilidade ou de necessidade públicas; e divisíveis, quando suscetíveis de utilização, separadamente, por parte de cada um dos usuários. CTN, art. 79, II e III. II. - Taxa de Limpeza Pública: Município de Belo Horizonte: o seu fato gerador apresenta conteúdo inespecífico e indivisível. III. - Agravo não provido. ” (RE 337.349-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ de 22.11.2002)
+Quanto à taxa de manutenção de rede de água e esgoto, verifico que não há nas razões do recurso extraordinário argumentos suficientes a embasar a tese da constitucionalidade da exação, sendo aplicável o disposto na Súmula 284/STF.
+Por fim, quanto a questão da distribuição dos ônus da sucumbência, saliento que a matéria se restringe ao campo infraconstitucional, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmula 636/STF).
+Do exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 30 de março de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
