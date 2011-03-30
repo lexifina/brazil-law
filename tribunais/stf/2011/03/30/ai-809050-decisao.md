@@ -1,0 +1,14 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário.
+O acórdão recorrido julgou abusiva a taxa de juros aplicada em contrato de crédito celebrado entre agravante e agravados e limitou-a ao índice anual de 12%, baseando-se na auto-aplicabilidade do art. 192, § 3º, da Carta Magna (fls. 320).
+Quanto à limitação dos juros fundada na auto-aplicabilidade do art. 192, § 3º, esta Corte, no julgamento da ADI 4 (rel. min. Sydney Sanches), concluído em 07.03.1991 (RTJ 147/719), firmou o entendimento de que referido dispositivo não era auto-aplicável. Destaco o seguinte trecho da ementa dessa decisão:
+“ 6. Tendo a Constituição Federal, no único artigo em que trata do Sistema Financeiro Nacional (art. 192), estabelecido que este será regulado por lei complementar, com observância do que determinou no caput, nos seus incisos e parágrafos, não é de se admitir a eficácia imediata e isolada do disposto em seu parágrafo 3º, sobre taxa de juros reais (12% ao ano), até porque estes não foram conceituados. Só o tratamento global do Sistema Financeiro Nacional, na futura lei complementar, com a observância de todas as normas do caput, dos incisos e parágrafos do art. 192, é que permitirá a incidência da referida norma sobre juros reais e desde que estes também sejam conceituados em tal diploma.” (RTJ 147/720)
+A respeito do tema, o Plenário do Supremo Tribunal Federal, em sessão de 11.06.2008, editou o enunciado de Súmula Vinculante nº 7, publicado no DJe de 20.06.2008, com o seguinte teor: “A norma do § 3º do artigo 192 da Constituição, revogada pela Emenda Constitucional nº 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar”.
+Registre-se que, após a promulgação da Emenda Constitucional 40, de 29.05.2003, que revogou o § 3º do art. 192 da Carta Magna, a limitação dos juros deixou de ter fundamento constitucional, circunstância essa que não afeta o presente caso, iniciado antes do advento daquela emenda.
+Nesse sentido, o acórdão recorrido, fundamentado na auto-aplicabilidade do § 3º do art. 192 da Constituição, contrariou o entendimento desta Corte (Súmula Vinculante nº 7),
+Do exposto, com base no art. 544, § 3º e § 4º, do Código de Processo Civil, dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma, conhecer do recurso e dar-lhe provimento.
+Custas e honorários já fixados pelo Superior Tribunal de Justiça ao prover parcialmente o recurso especial simultaneamente interposto e permitir a cobrança da capitalização mensal de juros e da TR, decisão cujo trânsito em julgado ocorrera em 23.03.2010 (Fls.475-V).
+Publique-se.
+Brasília, 30 de março de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
