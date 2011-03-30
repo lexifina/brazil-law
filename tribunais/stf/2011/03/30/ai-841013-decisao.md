@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão no qual se discute a validade de cláusula de acordo individual de trabalho que prevê compensação de jornada.
+ No RE, a parte agravante alega ofensa ao art. 7º, XIII da Constituição Federal, sustentando, em síntese, a invalidade da compensação de jornada de trabalho prevista na norma individual.
+2.  O recurso não merece prosperar. Depreende-se da ementa do acórdão recorrido que a controvérsia dos autos gravita em torno da interpretação de cláusula normativa pactuada em acordo individual de trabalho. Veja-se:
+“ HORAS EXTRAS. VALIDADE DO REGIME COMPENSATÓRIO . A decisão impugnada está em consonância com a Súmula 85, I e II, do TST, segundo os quais ‘I - A compensação de jornada de trabalho deve ser ajustada por acordo individual escrito, acordo coletivo ou convenção coletiva. II - O acordo individual para compensação de horas é válido, salvo se houver norma coletiva em sentido contrário’. Incidência do óbice da Súmula 333 do TST e do art. 896, § 4º, da CLT. Recurso de Revista não conhecido” (fl. 82).
+ Em casos como o dos autos, o Supremo Tribunal Federal tem se posicionado no sentido de que a matéria discutida é de índole infraconstitucional, a depender da análise de fatos e provas e cláusulas contratuais (Súmulas STF 279 e 454). Veja-se, por exemplo: AI 527.941-AgR/RJ, de minha relatoria, 2ª Turma, DJe 1º.7.2010; AI 478.071-AgR/MA, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 07.5.2010; AI 730.294-AgR/RS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009; AI 639.530-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 23.10.2009; AI 808.087/PB, de minha relatoria, DJe 10.9.2010; e AI 817.733-AgR/RJ, rel. Min. Cármen Lúcia, 1ª Turma, DJe 22.02.2011, este último assim ementado:
+“ EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. COMPENSAÇÃO DE JORNADA DE TRABALHO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ”.
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 30 de março de 2011.
+Ministra Ellen Gracie
+Relatora
