@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL DO EMPREGADOR POR ACIDENTE OCORRIDO EM PLATAFORMA DE EXPLORAÇÃO DE PETRÓLEO. MORTE DE EMPREGADO. DANOS MATERIAIS E MORAIS. AGRAVO RETIDO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. A competência da Justiça Laboral para o processamento e julgamento das ações reparatórias por danos patrimoniais e morais decorrentes de acidente do trabalho tem como marco temporal a data em que foi editada a Emenda Constitucional n. 45/2004 (Conflito de Competência n. 7.204-1 – STF). Atribuição de feito ex nunc à nova orientação do STF, que só se aplica, portanto, às causas ajuizadas após 31.12.2004. Comprovada a relação empregatícia entre a vítima e o réu-apelante, como dá conta a prova testemunhal produzida, não há como excluir a responsabilidade acidentária daí decorrente, por culpa do empregador, ainda que leve. AGRAVO RETIDO IMPROVIDO. IMPROVIMENTO DOS TRÊS RECURSOS ” (fl. 27).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXVIII, da mesma Carta.
+O agravo não merece acolhida.
+Verifico que a petição de recurso extraordinário encontra-se sem a assinatura do advogado subscritor da peça. A jurisprudência da Suprema Corte orienta-se no sentido de que não se conhece de recurso sem a assinatura do advogado, dado que formalidade essencial de existência do apelo. Nesse sentido:
+“1. RECURSO. Agravo de instrumento. Alegação de ofensa à Constituição. Comprovação de ausência de prejudicialidade. Recurso conhecido. Provada a existência de matéria constitucional autônoma, deve o recurso ser conhecido, presentes os demais requisitos de admissibilidade. 2. RECURSO. Agravo regimental. Inadmissibilidade. Assinatura do advogado. Falta. Recurso inexistente. Agravo regimental não provido. A falta de assinatura do advogado na petição de recurso não é mera irregularidade sanável, mas defeito que lhe acarreta inexistência” (AI 648.037-AgR/MS, Rel. Min. Cezar Peluso – grifos meus).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 30 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
