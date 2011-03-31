@@ -1,0 +1,13 @@
+DECISÃO
+IMPOSTO PREDIAL E TERRITORIAL URBANO – PROGRESSIVIDADE – LEI FEDERAL – ALCANCE – ARTIGOS 145, § 1º, 150, INCISO IV, 156, § 1º, E 182, § 2º E § 4º, DA CONSTITUIÇÃO FEDERAL – AGRAVO DESPROVIDO.
+1. O recurso extraordinário foi interposto com alegado fundamento na alínea “a” do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro que implicou a anulação do lançamento do imposto predial e territorial urbano, na medida em que a instituição das alíquotas progressivas, na forma pretendida pelo Município, contraria as exigências constitucionais, isso considerado período anterior à Emenda Constitucional nº 29/2000.
+2. A decisão recorrida está em consonância com o Enunciado nº 668 da Súmula de Jurisprudência dominante desta Corte:
+É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana.
+Vale ressaltar que a matéria referente à distinção entre alíquotas progressivas e proporcionais envolve a interpretação de normas legais, o que é defeso nesta esfera recursal.
+Observem a ordem natural das coisas. Assentada a inconstitucionalidade de certa lei local, disciplinadora do Imposto Predial e Territorial Urbano, fica esta fulminada desde a própria entrada no cenário jurídico. Concluir que os efeitos da declaração de um fato anteriormente existente – o conflito da norma com a Constituição Federal – apenas surgem com a respectiva formalização implica o enriquecimento ilícito do Município, porquanto contará com receita ilegítima, em flagrante prejuízo ao contribuinte. Mais do que isso, haverá a potencialização do desequilíbrio no embate Estado (gênero)/cidadão. Daí a impossibilidade de se entender pelo desrespeito ao Diploma Maior no que a Corte de origem refutou o pleito do Município de fixação de termo inicial das conseqüências da inconstitucionalidade a partir da data em que proclamada.
+A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+3. Conheço do agravo e o desprovejo.
+4. Publiquem.
+Brasília, 31 de março de 2011.
+Ministro MARCO AURÉLIO
+Relator
