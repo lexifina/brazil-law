@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA SOBRE PERCEPÇÃO ACUMULADA DE DIFERENÇAS SALARIAIS DECORRENTE DE SENTENÇA DE PROCEDÊNCIA EM AÇÃO QUE BUSCA EQUIPARAÇÃO SALARIAL. INAPLICABILIDADE DO §2º, DO ARTIGO 46, DA LEI Nº 8.541/92. ARTIGO 12, DA LEI Nº 7.713/88.ARTIGO 43, DO CTN. ARTIGO 150, II, DA CONSTITUIÇÃO FEDERAL.
+A percepção acumulada das diferenças salariais, obtida a partir do reconhecimento judicial do direito do contribuinte de, em face do desvio funcional, receber valores equivalentes às funções efetivamente exercidas, não representa o montante auferido pelo mesmo mês a mês (renda mensal). Assim, o contribuinte, por ter recebido valores com atraso imputado ao Ministério da Saúde não pode sofrer tributação diferenciada em relação aos seus colegas que exerciam a mesma função em data pretérita.
+A retenção de imposto de renda na fonte deve levar em conta os valores percebidos mensalmente sob pena de se afrontar a isonomia tributária (artigo 150, II, da CF), nos casos de valores recebidos pelo contribuinte em razão de decisão judicial que determinou a revisão de seu benefício previdenciário. Assim, verificada que a renda proveniente do trabalho do contribuinte era obtida mensalmente, inaplicável, ao caso, o § 2º, do artigo 46, da Lei nº 8.541/92.
+A restituição dos valores retidos indevidamente deve sofrer atualização monetária a partir da retenção pela taxa SELIC após 01.01.1996, excluindo-se qualquer outro índice de correção” (fl. 85).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 97 da mesma Carta.
+O Plenário desta Corte, em 20/8/2008, ao apreciar Questão de Ordem suscitada no RE 540.410/RS, Rel. Min. Cezar Peluso, decidiu estender a aplicação do art. 543-B do Código de Processo Civil aos recursos cujo tema constitucional apresente repercussão geral reconhecida pelo Plenário, ainda que interpostos contra acórdãos publicados antes de 3 de maio de 2007.
+No caso, o recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 614.232-AgR-QO/RS, Rel. Min. Ellen Gracie).
+Isso posto, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário se discute questão que será apreciada no RE 614.232-AgR-QO/RS.
+Publique-se.
+Brasília, 31 de março de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
