@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, proferido por Tribunal de Justiça estadual, em que se alega violação do disposto nos arts. 5º, § 2º, e 152 da Constituição federal.
+O recurso não merece seguimento.
+O Tribunal de origem, ao negar provimento à pretensão da parte ora agravante, adotou a seguinte fundamentação:
+“O RICMS/1991 concede o benefício da redução da base de cálculo pleiteada à saída de mercadoria desincorporada do ativo imobilizado (conforme art. 53 e item 8 da Tabela I do Anexo II), e não na saída de mercadorias utilizadas no exercício do objeto social, ou na eventual incorporação do bem ao ativo fixo, ou na venda a terceiros.
+Não existe, pois, diferença de tratamento tributário, já que, mesmo que as máquinas fossem de procedência brasileira, não se encaixariam na hipótese desse benefício fiscal. ” (fls. 155)
+Verifico que chegar a conclusão diversa demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmula 636/STF).
+Ademais, ainda que superado tal óbice, saliento que a Segunda Turma desta Corte, em caso análogo, firmou orientação quanto à impossibilidade de extensão de benefícios, com base no princípio da isonomia, a indivíduos em situação não expressamente abrangida pela hipótese prevista no texto legal, por força isolada de decisão judicial, dada a separação de funções do Estado. Confira-se:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS/PASEP E COFINS. EXTENSÃO DE TRATAMENTO DIFERENCIADO. ISONOMIA. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. 1. O acolhimento da postulação da autora --- extensão do tratamento tributário diferenciado concedido às instituições financeiras, às cooperativas e às revendedoras de carros usados, a título do PIS/PASEP e da COFINS --- implicaria converter-se o STF em legislador positivo. Isso porque se pretende, dado ser ínsita a pretensão de ver reconhecida a inconstitucionalidade do preceito, não para eliminá-lo do mundo jurídico, mas com a intenção de, corrigindo eventual tratamento adverso à isonomia, estender os efeitos da norma contida no preceito legal a universo de destinatários nele não contemplados. Precedentes. Agravo regimental não provido.” (RE 402.748-AgR, rel. min. Eros Grau, DJe de 16.05.2008).
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 1º de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
