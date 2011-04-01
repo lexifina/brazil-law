@@ -17,7 +17,11 @@ XV - os rendimentos provenientes de aposentadoria e pensão, de transferência p
 a) R$ 1.313,69 (mil, trezentos e treze reais e sessenta e nove centavos), por mês, para o ano-calendário de 2007;
 b) R$ 1.372,81 (mil, trezentos e setenta e dois reais e oitenta e um centavos), por mês, para o ano-calendário de 2008;
 c) R$ 1.434,59 (mil, quatrocentos e trinta e quatro reais e cinqüenta e nove centavos), por mês, para o ano-calendário de 2009;
-d) R$ 1.499,15 (mil, quatrocentos e noventa e nove reais e quinze centavos), por mês, a partir do ano-calendário de 2010;
+d) R$ 1.499,15 (mil, quatrocentos e noventa e nove reais e quinze centavos), por mês, para o ano-calendário de 2010;
+e) R$ 1.566,61 (mil, quinhentos e sessenta e seis reais e sessenta e um centavos), por mês, para o ano-calendário de 2011;
+f) R$ 1.637,11 (mil, seiscentos e trinta e sete reais e onze centavos), por mês, para o ano-calendário de 2012;
+g) R$ 1.710,78 (mil, setecentos e dez reais e setenta e oito centavos), por mês, para o ano-calendário de 2013;
+h) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, a partir do ano-calendário de 2014.
 XVI - o valor dos bens adquiridos por doação ou herança;
 XVII - os valores decorrentes de aumento de capital:
 a) mediante a incorporação de reservas ou lucros que tenham sido tributados na forma do art. 36 desta Lei;
