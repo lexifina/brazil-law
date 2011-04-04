@@ -1,0 +1,32 @@
+TRABALHISTA. PROCESSUAL CIVIL. DISPENSA IMOTIVADA. CABIMENTO DA AÇÃO RESCISÓRIA. INOVAÇÃO DOS ARGUMENTOS. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AOS ARTIGOS 7º, I, E 173, § 1º, II, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA.
+1. Os pressupostos de admissibilidade dos recursos para os tribunais submetem-se à legislação infraconstitucional, insindicável pelo STF, ainda que suscitados e não resolvidos à luz das garantias processuais, porquanto a violação nessa hipótese é reflexa ou oblíqua, inviabilizando o recurso extremo.[AI n. 174.193-AgR, DJ de 2.2.96; AI n. 140.123-AgR, DJ de 10.5.96; e AI n. 190.912-AgR, DJ de 23.5.97].
+2. Os requisitos de admissibilidade consistentes na regularidade formal, no prequestionamento e na ofensa direta à Constituição Federal quando ausentes conduzem à inadmissão do recurso interposto.
+3.Agravo de instrumento desprovido.
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fulcro no artigo 102, III, alínea a, da Constituição Federal contra acórdão prolatado pela Subseção II Especializada em Dissídios Individuais do Tribunal Superior do Trabalho.
+Breve histórico:
+Cuidam os autos, originariamente, de ação rescisória ajuizada por Maria do Socorro da Mota Lima Falcão, visando desconstituir acórdão proferido pela 4ª Turma do Tribunal Superior do Trabalho que conheceu do recurso de revista interposto pela Empresa Brasileira de Correios e Telégrafos e no mérito deu-lhe provimento para julgar improcedente a reclamação trabalhista da ora agravante.
+A ação rescisória foi julgada improcedente pela Subseção II Especializada em Dissídios Individuais, por entender que:
+“o enfoque atribuído pela autora em sede de ação rescisória não guarda relação com os aspectos mencionados na v. decisão rescindenda – tanto que nela a discussão cingiu-se à necessidade de motivação do ato de despedida do empregado da ECT. Revela-se assim, o caráter inovatório dos argumentos ora expendidos na in inicial da presente ação rescisória.” [...]
+Os embargos de declaração opostos foram rejeitados.
+No recurso extraordinário a recorrente alega violação aos artigos 7º, inciso I, e 173, § 1º, inciso II, da Constituição Federal. No agravo de instrumento reitera as alegações expendidas no recurso extraordinário.
+É o breve relato. Decido.
+ Prima facie, verifica-se que a presente irresignação recursal não se revela merecedora de provimento.
+A controvérsia cinge-se ao cabimento e pressupostos de admissibilidade da ação rescisória e, como de sabença, embora a Constituição assegure a intangibilidade da coisa julgada, coube ao legislador ordinário fixar os pressupostos para a propositura da ação rescisória e as hipóteses em que se admite a rescisão do julgado [RE n. 117.060, 1ª Turma, DJ de 8.3.91, e AI n. 249.640-AgR, 2ª Turma, DJ de 30.6.00].
+Esta Corte fixou jurisprudência no sentido de que a controvérsia a respeito da aferição dos pressupostos de admissibilidade dos recursos de outros Tribunais é afeta à legislação infraconstitucional, por isso que eventual ofensa à Constituição do Brasil seria, quando muito, indireta [AI n. 174.193-AgR, DJ de 2.2.96; AI n. 140.123-AgR, DJ de 10.5.96; e AI n. 190.912-AgR, DJ de 23.5.97].
+Deveras, o tema judicandum referente ao cabimento da ação rescisória é de índole processual, o que envolve apreciação da legislação infraconstitucional pertinente, por isto que eventual ofensa à Constituição, também dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; e o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+Ademais, a jurisprudência deste Tribunal fixou-se no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+Quanto aos artigos da Constituição supostamente violados (7º, I, e 173, § 1º, II) não foram analisados pela Corte Trabalhista em virtude da falta de preenchimento dos requisitos da admissibilidade na ação rescisória.
+Os requisitos de admissibilidade consistentes na regularidade formal, no prequestionamento e na ofensa direta à Constituição Federal quando ausentes conduzem à inadmissão do recurso interposto.
+No caso, sub judice, verifica-se a ausência de debate, na instância recorrida, sobre os dispositivos constitucionais (artigos 7º, I, e 173, § 1º, II, da Constituição Federal), cuja violação se alega no recurso extraordinário, o que atrai a incidência da Súmula 282 do STF.
+282 -”É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.”
+Oportuno, as considerações do Professor Roberto Rosas, In Direito sumular. 12ª, ed. Malheiros.
+É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A Constituição de 1891, no art. 59, III, a, dizia: quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela.
+De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado.
+Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+Ex positis, nego provimento ao agravo de instrumento com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+Publique-se.
+Brasília, 4 de abril de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
