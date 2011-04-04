@@ -1,0 +1,11 @@
+DECISÃO
+CONTRIBUIÇÃO SOCIAL – INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL – LEI Nº 8.540/92 – PRECEDENTE DO PLENÁRIO – RECURSO EXTRAORDINÁRIO – PROVIMENTO.
+1. Discute-se a constitucionalidade do artigo 1º da Lei nº 8.540/92 – que deu nova redação aos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com redação atualizada até a Lei nº 9.528/97 –, por ter instituído hipótese de contribuição social sobre a receita bruta proveniente da comercialização da produção rural de empregadores pessoas naturais.
+O Plenário, no julgamento do Recurso Extraordinário nº 363.852/MG, de minha relatoria, proclamou a insubsistência da cobrança da referida contribuição. Eis a síntese do julgado:
+RECURSO EXTRAORDINÁRIO - PRESSUPOSTO ESPECÍFICO - VIOLÊNCIA À CONSTITUIÇÃO - ANÁLISE - CONCLUSÃO. Porque o Supremo, na análise da violência à Constituição, adota entendimento quanto à matéria de fundo do extraordinário, a conclusão a que chega deságua, conforme sempre sustentou a melhor doutrina - José Carlos Barbosa Moreira -, em provimento ou desprovimento do recurso, sendo impróprias as nomenclaturas conhecimento e não conhecimento.
+CONTRIBUIÇÃO SOCIAL - COMERCIALIZAÇÃO DE BOVINOS - PRODUTORES RURAIS PESSOAS NATURAIS - SUB-ROGAÇÃO - LEI Nº 8.212/91 - ARTIGO 195, INCISO I, DA CARTA FEDERAL - PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL Nº 20/98 - UNICIDADE DE INCIDÊNCIA - EXCEÇÕES - COFINS E CONTRIBUIÇÃO SOCIAL - PRECEDENTE - INEXISTÊNCIA DE LEI COMPLEMENTAR. Ante o texto constitucional, não subsiste a obrigação tributária sub-rogada do adquirente, presente a venda de bovinos por produtores rurais, pessoas naturais, prevista nos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com as redações decorrentes das Leis nº 8.540/92 e nº 9.528/97. Aplicação de leis no tempo - considerações.
+2. Ante o precedente, conheço do extraordinário e o provejo para, reformando o acórdão de origem, assentar a ilegitimidade da cobrança da contribuição social sobre a receita bruta proveniente da comercialização da produção rural de empregadores pessoas naturais. Custas pela recorrida.
+3. Publiquem.
+Brasília, 4 de abril de 2011.
+Ministro MARCO AURÉLIO
+Relator
