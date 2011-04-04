@@ -1,0 +1,10 @@
+D ECIS Ã O: vistos, etc.
+Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta pela Federação Nacional dos Empregados em Postos de Serviços de Combustíveis e Derivados de Petróleo, contra ato do Tribunal Regional do Trabalho da 19ª Região.
+2. Alega o autor que o Tribunal reclamado, ao julgar recurso ordinário, reconheceu a legitimidade do Sindicato dos Trabalhadores no Comércio de Minérios e Derivados de Petróleo no Estado de Alagoas para representar a categoria dos trabalhadores em postos de combustíveis e derivados de petróleo. O que teria violado as decisões deste Supremo Tribunal Federal, exaradas no RE 202.097 e na RCL 3.488. Daí requerer a concessão de medida liminar para “determinar a suspensão das R. Decisões (Processo nº 00895-2005-003-19-00-0) que originaram a presente Reclamação”.
+3. Pois bem, tenho por incabível a presente ação. É que, em pesquisa no sítio do Tribunal Superior do Trabalho na internet, verifiquei que o acórdão objeto desta reclamação transitou em julgado antes da propositura da ação reclamatória (refiro-me ao AIRR 89540-27.2005.5.19.0003, julgado em 22/06/2010). E a jurisprudência desta Corte Máxima reconhece o total descabimento de reclamação quando: a) “(...) já houver transitado em julgado o ato judicial que se alega tenha desrespeitado a decisão do Supremo Tribunal Federal” (Súmula 734); b) “(...) utilizadas como instrumentos processuais típicos do processo de execução ou instrumento de resolução judicial de incidentes no processo de execução” (Rcl 2.680, Rel. Min. Gilmar Mendes). Sendo assim, os atos judiciais do processo nº TST-AIRR 89540-27.2005.5.19.0003, são insuscetíveis de impugnação nesta via estreita. De outro modo, estar-se-ia a manejar a reclamação constitucional como sucedâneo de ação rescisória, o que esta nossa Corte já assentou descabido (Rcl 671-AgR, Rel. Min. Eros Grau).
+4. Ante o exposto, nego seguimento à reclamação, o que faço com fundamento no § 1º do art. 21 do RI/STF.
+Publique-se.
+Brasília, 04 de abril de 2011.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
