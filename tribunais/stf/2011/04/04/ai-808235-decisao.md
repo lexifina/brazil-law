@@ -1,0 +1,34 @@
+AGRAVO DE INSTRUMENTO. TRABALHISTA.  REVERSÃO AO CARGO EFETIVO. ARTIGO 468 DA CLT E SÚMULA 373 DO TST. VIOLAÇÃO AOS ARTIGOS 7º, VI, E 93, IX, DA CF/88 INEXISTENTE. OFENSA INDIRETA OU REFLEXA. PRECEDENTES.
+1 . Os princípios da legalidade, o do devido processo legal, o da ampla defesa e o do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+2 . O art. 93, IX da CF não resta violado nas hipóteses em que a decisão mercê de fundamentada não se calca na tese da recorrente.
+3. In casu, a controvérsia foi decidida à luz de interpretação de norma infraconstitucional; os arts. 468 e 499 da CLT. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido (RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10 e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10) entre outros.
+4. NEGO PROVIMENTO ao agravo de instrumento.
+D ECIS Ã O:  Cuida-se de agravo de instrumento interposto por NESTOR MARTINS, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 280-281-v, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a”, do permissivo Constitucional, contra acórdão prolatado pela SBDI-1 do Tribunal Superior do Trabalho fls. 189-193, do qual destaco esse passo, verbis:
+“(...) a reversão do empregado ao cargo efetivo faz desaparecer o direito à percepção da gratificação por exercício de função comissionada, sem que se cogite de redução salarial e ofensa ao artigo 7º, inciso VI, da Constituição da República, a não ser quando a percepção da gratificação de função ultrapassar o marco temporal dos dez anos, tendo em vista o princípio da estabilidade financeira, o que não ocorreu na hipótese dos autos. Inteligência da Súmula nº. 372 do TST.
+Incensurável, assim a decisão da Turma ao dar provimento ao Recurso de Revista do Reclamado, por considerar válida a reversão ao cargo efetivo pois restrigiu-se a dar correta aplicação do artigo 468, parágrafo único, da CLT, ao caso do processo.”
+Nas razões do apelo extremo, sustenta preliminarmente, estar caracterizada a repercussão geral, e no mérito assevera que o v. acórdão recorrido violou os artigos 7º, VI, e 93, IX, da Constituição Federal.
+O Tribunal Superior do Trabalho negou seguimento ao apelo extremo, sob o seguinte entendimento, verbis:
+“No tocante à acenada preliminar de nulidade do julgado, por negativa de prestação jurisdicional, o inconformismo não procede.
+Com efeito consta no v. acórdão recorrido fundamentação clara e expressa a respeito das questões que lhe foram submetidas.
+Os vv. acórdãos que apreciaram os Embargos de Declaração, por outro lado, registraram a inexistência de vícios de que padeceria a v. decisão embargada.
+Não se trata, pois, de nulidade por negativa de prestação jurisdicional, mas de mero inconformismo com as razões que ditaram o convencimento do órgão judicante acerca do enquadramento da lide.
+Não diviso, assim, afronta ao contido no art. 93, inciso IX, da Constituição Federal.
+De outra parte, no tocante ao mérito do recurso - 'cargo de confiança - reversão ao cargo efetivo” -, constata-se que o v. acórdão impugnado fundamentou-se, exclusivamente, na aplicação de dispositivos infraconstitucionais. No presente caso, para se chegar a conclusão diversa, seria necessário reexaminar a interpretação dada às normas infraconstitucionais (art. 468, parágrafo único, da CLT e Súmula n. 372 do TST). Assim eventual ofensa ao texto constitucional somente se daria por via reflexa”.
+É o Relatório. DECIDO.
+Prima facie, não merece prosperar o presente apelo.
+É que a controvérsia foi decidida à luz de interpretação de norma infraconstitucional, no caso sub examine; os arts. 468 e 499 da CLT. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido o RE 596.682 Rel. Min. Carlos Britto, DJe de 21/10/10 e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10 entre outros.
+Relativamente a alegada violação ao artigo 93, IX da Constituição Federal, o Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, e da motivação das decisões judiciais se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa, o que, por si só, não desafia a instância extraordinária.
+Ademais, o artigo 93, IX da CF/88 não resta violado nas hipóteses em que a decisão mercê de fundamentada não se calca na tese do recorrente, nesse sentido, entre outros:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, Dje de 25/11/10) (grifo nosso).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279) .
+2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+4. Agravo regimental improvido” (AI 756.336-AgR, 2ª, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+Em face do exposto, NEGO PROVIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+Publique-se. Intimações necessárias.
+Brasília, 4 de abril de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
