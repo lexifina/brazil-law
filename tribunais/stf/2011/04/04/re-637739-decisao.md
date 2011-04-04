@@ -1,0 +1,30 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“PENAL E PROCESSUAL PENAL. MOEDA FALSA. ARTIGO 289, § 1º, DO CÓDIGO PENAL. AUTORIA E MATERIALIDADE. DOLO. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. DOSIMETRIA. MULTA. PENAS RESTRITIVAS DE DIREITO” (fl. 281).
+Tem-se no voto condutor do julgado recorrido:
+“A análise do princípio da proporcionalidade exige que se faça uma valoração entre o bem jurídico a ser tutelado e a punição prevista para eventual lesão àquele. Tal apreciação compreende mais de um aspecto, como a relação entre a importância da gravidade do fato e o direito a ser restringido do suposto agente do ilícito, ou seja, se o bem a ser protegido é tão importante a ponto de eventual lesão ser passível de afetar um dos direitos fundamentais do indivíduo, a liberdade. Nesta primeira referência, verifica-se a necessidade de proteção pela norma penal.
+É a proporcionalidade em sentido estrito, ou seja, a ponderação entre o bem protegido pela norma penal e a sanção cominada para eventual lesão, contra a qual se insurge a apelante, na medida em que refere ser exacerbada a pena imposta pelo legislador ao delito de moeda falsa.
+(...)
+Na hipótese dos autos, tenho que não há desproporcionalidade a ser reconhecida. As condutas tipificadas no § 1º do art. 289 do Código Penal, bem como em seu caput, configuram lesões à fé pública, ou seja, a segurança da sociedade em relação à circulação monetária. Nesse passo, a pena imposta pelo legislador revela-se proporcional à proteção da importância do bem jurídico atingido, não havendo que se falar em extinção da punibilidade da apelante” (fls. 278 v.-279 – grifos nossos).
+2. A Recorrente afirma que o § 1º do art. 289 do Código Penal seria contrário ao princípio da proporcionalidade.
+Alega que:
+“A pena prevista para o delito do § 1º do art. 289 ofende o princípio da proporcionalidade, pois não se mostra razoável punir mais severamente uma conduta que revela índice de menor gravidade.
+O § 2º prevê o conhecimento pleno (“depois de conhecer a falsidade”), que a doutrina e a jurisprudência conectam ao dolo direto, enquanto o § 1º não faz referência expressa, podendo se tratar de crime doloso com o chamado conhecimento parcial da origem ilícita da coisa (dúvida, insegurança, incerteza), que a doutrina liga ao dolo eventual (ou à culpa)” (fl. 306 – grifos nossos).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste à Recorrente.
+4. O Tribunal de origem limitou-se a afastar a alegação formulada na apelação defensiva de que a pena cominada pelo § 1º do art. 289 do Código Penal seria desproporcional, considerando-se as condutas nele descritas (“a pena mínima cominada ao delito – três anos de reclusão – é evidentemente exacerbada no caso concreto” - fls. 250-251).
+A alegação de que a comparação entre as penas cominadas e as condutas descritas pelos §§ 1º e 2º do art. 289 do Código Penal evidenciaria contrariedade ao princípio da proporcionalidade (questão diversa daquela analisada pelo Tribunal a quo) foi formulada nos embargos declaratórios (fls. 285-291) opostos contra o julgado recorrido, mas não na apelação defensiva (fls. 245-252).
+Tem-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, é que pode, e deve, haver a oposição de embargos declaratórios para que se supra a omissão, como é próprio desse recurso. Apenas, pois, nos casos de omissão do órgão julgador sobre a matéria constitucional que tenha sido arguida na causa, é que os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+A inovação da matéria em embargos é juridicamente inaceitável para os fins de comprovação de prequestionamento. Primeiramente, porque, se não se questionou antes (prequestionou), não se há cogitar da situação a ser provida por meio dos embargos. Em segundo lugar, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de sua condição processual. Assim, os embargos declaratórios não servem para suprir a omissão da parte que não tenha cuidado de providenciar o necessário questionamento em momento processual próprio.
+Confiram-se, a propósito, os seguintes julgados:
+“1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que ‘os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada’. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+“I. RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998).
+Dessa forma, não foi atendido o requisito do prequestionamento. Incide na espécie a Súmula n. 282 do Supremo Tribunal, uma vez que a questão constitucional somente foi suscitada nos embargos opostos contra os termos da decisão recorrida.
+5. Nada há a prover quanto às alegações do Recorrente.
+6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 4 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
