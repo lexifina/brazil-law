@@ -1,0 +1,16 @@
+DECISÃO: O Senhor Ministro da Justiça, em expediente encaminhado a esta Suprema Corte, informa que ainda não houve resposta, por parte do Governo do Estado requerente, nos autos da presente extradição supletiva, sobre a realização da audiência de interrogatório do súdito estrangeiro.
+Eis o teor desse Aviso do Senhor Ministro da Justiça (fls. 212):
+“Com referência ao Ofício nº 5.592/SEJ, de 29 de dezembro de 2010, referente ao processo de extensão da extradição em desfavor do nacional português ANTÓNIO ALBERTO DE ASSIS SALES PINTO BAPTISTA, comunico a Vossa Excelência que, em 10 de janeiro de 2011, este Ministério reiterou ao Governo de Portugal, por via diplomática, pedido de informação sobre o cumprimento da carta rogatória encaminhada à Justiça daquele país.
+Ao ensejo, esclareço que a mencionada solicitação foi originalmente encaminhada ao Governo de Portugal, por via diplomática, na data de 18 de maio de 2010, com reiterações em 16 de julho e em 27 de setembro de 2010, não havendo resposta, até o presente momento, das autoridades portuguesas, motivo pelo qual se procedeu à sua reiteração.” (grifei)
+Vê-se, daí, que, embora formalmente notificada, em quatro oportunidades (Aviso nº 10287, de 25/02/2011 – fls. 212), a Missão Diplomática da República Portuguesa não produziu, nestes autos, como lhe incumbia, a informação solicitada.
+Cumpre destacar que se trata de encargo processual cuja satisfação incumbe ao Estado que postula a extradição, sob pena de, em não o cumprindo, expor-se ao indeferimento do pedido.
+Entendo, por isso mesmo, que a informação prestada pelo Senhor Ministro da Justiça revela-se suficiente para justificar a extinção deste pedido de extradição supletiva, eis que os presentes autos não podem permanecer, indefinidamente, em andamento nesta Corte.
+Cumpre enfatizar que essa orientação tem sido observada por esta Suprema Corte, quer em sede monocrática (Ext 967/Reino da Bélgica, Rel. Min. CARLOS VELLOSO - Ext 1.019/República Federal da Alemanha, Rel. Min. CELSO DE MELLO - Ext 1.044/Governo do Peru, Rel. Min. CELSO DE MELLO), quer em sede colegiada (Ext 422/República Argentina, Rel. Min. FRANCISCO REZEK - Ext 452/República do Paraguai, Rel. Min. ALDIR PASSARINHO – Ext 590/República Federal da Alemanha, Rel. Min. SEPÚLVEDA PERTENCE – Ext 667/República Italiana, Rel. Min. SEPÚLVEDA PERTENCE – Ext 836/República Árabe do Egito, Rel. Min. CARLOS VELLOSO – Ext 902-QO/República Oriental do Uruguai, Rel. Min. GILMAR MENDES – Ext 988-QO/República Federal da Alemanha, Rel. Min. GILMAR MENDES, v.g.).
+Registro, finalmente, que, decorrido quase 01 (um) ano, contado de sua notificação formal, a Missão Diplomática da República Portuguesa, mesmo assim, deixou de cumprir, até o presente momento, a determinação constante da decisão exarada a fls. 170/173, pois não produziu, nestes autos, como lhe incumbia, a informação pertinente à realização do interrogatório do súdito estrangeiro em questão.
+Sendo assim, pelas razões expostas e em face da inércia do Estado requerente, declaro extinto, sem resolução de mérito, este processo de extradição supletiva.
+Transmita-se cópia da presente decisão aos Senhores Ministros de Estado da Justiça e das Relações Exteriores do Brasil.
+Arquivem-se os presentes autos.
+Publique-se.
+Brasília, 05 de abril de 2011.
+Ministro CELSO DE MELLO
+Relator
