@@ -1,0 +1,17 @@
+D ECIS Ã O:
+Vistos.
+Audelino Carmo de Souza interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso II, e 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Julgadora da Terceira Câmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado:
+“AGRAVO DE INSTRUMENTO. EMBARGOS A EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. AUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA DE LESÃO GRAVE DE DIFÍCIL REPARAÇÃO DECORRENTES DA DECISÃO. EFEITO SUSPENSIVO. POSSIBILIDADE. DANO GRAVE E DE DIFÍCIL REPARAÇÃO. ALTERAÇÃO DADA PELA LEI N. 11.382/06. COBRANÇA EXCESSIVA. IMPOSSIBILIDADE DE CARACTERIZAÇÃO NULIDADE DO TÍTULO. I – Não padece de nulidade a decisão que, embora de forma sucinta e objetiva, traduz as razões de convencimento do julgador, satisfazendo a contento a diretriz constitucional pertinente (art. 93, IX, CF). II - A nova sistemática processual promovida pela Lei nº 11.382/06 preconizou que os embargos à execução, em regra, não terão efeito suspensivo, mas somente quando presente o risco de dano grave e de difícil reparação, à luz do art. 739-A, § 1º do CPC. Ausentes tais requisitos não há que se falar em sobrestamento da execução. III – A alegação de existência de encargos ilegais e abusivos não nulifica o título executivo, eis que se comprovado o excesso de cobrança, esta pode ser deduzida do valor devido. Agravo conhecido e improvido” (fls. 203/204).
+Opostos embargos de declaração (fls. 210 a 217), foram rejeitados (fls. 223 a 230).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+Ressalte-se, por fim, que o Tribunal de origem decidiu a lide amparado, exclusivamente, na legislação infraconstitucional pertinente e nas provas dos autos, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 5 de abril de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
