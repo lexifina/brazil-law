@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NATUREZA JURÍDICA. PRESTAÇÃO DE SERVIÇOS DE ÁGUA E ESGOTO.
+A CDA indica o número do processo eletrônico, demonstrando a existência do processo administrativo com a participação da parte executada após regular notificação.
+Assim, não há que se falar em nulidade da CDA, por falta de indicação do processo administrativo e notificação do executado.
+NEGADO PROVIMENTO” (fl. 37).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, LV, 145, II, e 150, II, da mesma Carta.
+O agravo não merece acolhida. Isso porque o acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte, no sentido de que o quantitativo cobrado dos usuários das redes de água e esgoto é tido como preço público, portanto, tarifa. Nesse sentido, menciono as seguintes decisões, entre outras: RE 456.048-ED/SC, Rel. Min. Carlos Velloso; RE 429.664-AgR/SC, Rel. Min. Cezar Peluso; RE 488.200/MS, Rel. Min. Eros Grau; RE 464.952/MS, Rel. Min. Ellen Gracie; RE 400.194/SC, Rel. Min. Marco Aurélio; AI 491.179/RS, Rel. Min. Gilmar Mendes; AI 590.184/MS, Rel. Min. Carlos Britto.
+Dessa forma, por ser remunerado mediante tarifa, o valor cobrado não está sujeito ao regime jurídico tributário previsto para as taxas.
+Por fim, a jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE SUPRESSÃO DE INSTÂNCIA. ART. 515, § 3º, DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 631.452-AgR/DF, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI 360.265-AgR/RJ, Rel. Min. Celso de Mello, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 5 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
