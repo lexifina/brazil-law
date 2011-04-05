@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. REPASSE DO PIS E DA COFINS A CONSUMIDOR FINAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“PROCESSUAL CIVIL. RECURSOS. AGRAVO EM JULGAMENTO MONOCRÁTICO. 1. Não cabe modificar a decisão em agravo, salvo quando comprovada a sua incorreção no plano material, o que não se coaduna com a jurisprudência pacífica do colegiado sobre os pontos abordados de acordo com a seguinte ementa originária: ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIÇOS DE ENERGIA ELÉTRICA. AES SUL. REPETIÇÃO DE INDÉBITO. PIS E COFINS. REPASSES. PIS E COFINS. A existência de jurisprudência da Câmara e da Turma, em Uniformização de Jurisprudência, bem como do STJ, contrárias à pretensão deduzida na origem, conduzem ao desprovimento do apelo. É legal o repasse econômico das contribuições, que são tributos e constituem custo do serviço, somente havendo ressalva impeditiva quanto aos impostos sobre a renda, conforme o art. 9º, § 3º, da L. nº 8.987/95. HIPÓTESE DE NEGATIVA DE SEGUIMENTO. 2. AGRAVO DESPROVIDO” (fl. 550).
+3. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. II, 146, inc. III, 149, 150, inc. I e III, alínea a, 170, inc. V e VII, e 195 da Constituição da República.
+Argumenta que “PIS e COFINS não podem ser repassadas aos consumidores de forma alguma (jurídica ou economicamente), pois que o repasse cria verdadeira subversão das normas constitucionais tributárias, e cria a verdadeira aberração de ter a incidência de PIS/COFINS sobre o valor repassado a tal rubrica” (fl. 652).
+4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que não teria havido contrariedade direta à Constituição da República (fls. 1026-1028).
+Examinados os elementos havidos nos autos, DECIDO.
+5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+6. Razão jurídica não assiste à Agravante.
+7. O Tribunal de origem analisou e interpretou dispositivos da Lei n. 8.987/1995 e concluiu pela legalidade do repasse da contribuição ao Programa de Integração Social – PIS e da Contribuição para o Financiamento da Seguridade Social – COFINS aos consumidores finais dos serviços públicos de fornecimento de energia.
+Concluir de modo diverso do acórdão recorrido demandaria a análise daquela legislação infraconstitucional, o que não viabiliza o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. COMPENSAÇÃO: MATÉRIA INFRACONSTITUCIONAL. (...) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 713.171-AgR, de minha relatoria, Primeira Turma, DJ 7.8.2009).
+“TRIBUTÁRIO. CONTRIBUIÇÃO AO PIS E COFINS. RESTITUIÇÃO E COMPENSAÇÃO DE VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A discussão referente à restituição e à compensação dos valores recolhidos a maior com outros tributos depende da análise de normas infraconstitucionais e, por isso, a afronta à Constituição, se ocorrente, seria apenas indireta. Precedentes. II – Agravo regimental improvido” (RE 443.425-ED-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+“REPASSE DO IMPOSTO AO CONSUMIDOR FINAL. CONTROVÉRSIA DECIDIDA COM BASE NAS PROVAS DOS AUTOS: IMPOSSIBILIDADE DO REEXAME. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 679.503-AgR, de minha relatoria, Primeira Turma, DJe 12.6.2009).
+8. Ademais, a pretensa contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice na Súmula n. 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+9. Nada há a prover quanto às alegações da Agravante.
+10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 5 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
