@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto de acórdão que decidiu que a norma constitucional que assegura o direito de greve aos servidores públicos depende de legislação reguladora, e que, inexistindo a citada norma, afigura-se legal o ato da Administração que indefere pedido de justificação das faltas.
+2.  A parte recorrente alega ofensa aos arts. 5º, XLVI, LIV e LV, e 37, VII, da Constituição Federal, sustentando, em síntese, que as faltas devem ser anuladas, pois as ausências foram justificadas pelo exercício do direito de greve constitucionalmente assegurado.
+3.  Inadmitido na origem (fls. 165-167), subiram os autos em virtude do provimento do AI 651.605/MG (fl. 176).
+4.  Assiste razão à recorrente. O acórdão recorrido divergiu do posicionamento do Supremo Tribunal Federal, que, no MI 708/DF, rel. Min. Gilmar Mendes, Plenário, DJe 31.10.2008, determinou a aplicação das Leis 7.701/88 e 7.783/89 aos conflitos e às ações judiciais que envolvam a interpretação do direito de greve dos servidores públicos civis, bem como considerou caber aos Tribunais de origem a decisão sobre o pagamento, ou não, dos dias de paralisação. Transcrevo a ementa do citado mandado de injunção, na parte que interessa:
+“6.4. Considerados os parâmetros acima delineados, a par da competência para o dissídio de greve em si, no qual se discuta a abusividade, ou não, da greve, os referidos tribunais, nos âmbitos de sua jurisdição, serão competentes para decidir acerca do mérito do pagamento, ou não, dos dias de paralisação em consonância com a excepcionalidade de que esse juízo se reveste. Nesse contexto, nos termos do art. 7º da Lei nº 7.783/1989, a deflagração da greve, em princípio, corresponde à suspensão do contrato de trabalho. Como regra geral, portanto, os salários dos dias de paralisação não deverão ser pagos, salvo no caso em que a greve tenha sido provocada justamente por atraso no pagamento aos servidores públicos civis, ou por outras situações excepcionais que justifiquem o afastamento da premissa da suspensão do contrato de trabalho (art. 7º da Lei nº 7.783/1989, in fine)”.
+ Nesse mesmo sentido cito o RE 538.148/SP, de minha relatoria, DJe 04.4.2011.
+5.  Diante do exposto, com fundamento no art. 557, § 1º-A, do CPC, dou provimento ao recurso extraordinário para conceder a segurança nos termos da sentença de fls. 102-104. Sem honorários (art. 25 da Lei 12.016/2009).
+ Publique-se.
+ Brasília, 06 de abril de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
