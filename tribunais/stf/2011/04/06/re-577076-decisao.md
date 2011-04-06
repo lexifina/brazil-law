@@ -1,0 +1,11 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, o qual deu provimento à apelação para retificar a sentença que ordenou o Presidente da Comissão de Concurso proceder à nova correção da prova de sargento da polícia militar do Estado de Mato Grosso do Sul (fls. 142-149).
+2.  No RE, sustenta-se ofensa aos artigos 5º, caput, 37, caput, I e II e 39, § 3º, da Constituição Federal.
+3.  Inadmitido o recurso na origem, subiram os autos em virtude do provimento do AI 689.972/MS (fl. 256)
+4.  O recurso não merece prosperar. Primeiramente, verifico que os dispositivos constitucionais aos quais se apontou violação não foram prequestionados, porque não abordados pelo acórdão recorrido, e nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+5.  Ademais, para o exame das violações alegadas, seria necessária a análise de fatos e provas (Súmula STF 279) e da legislação infraconstitucional, hipótese inviável em sede extraordinária. Nesse sentido, cito o AI 814.238-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 08.11.2010, AI 816.320-AgR/RJ, rel. Min. Ayres Britto, 2ª turma, unânime, DJe 03.3.2011, AI 813.631-AgR/ES, de minha relatoria, 2ª Turma, unânime, DJe 09.2.2011 e AI 511.972-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 16.3.2011 , este último assim ementado:
+“EMENTA: AGRAVO REGIMENTAL. CONCURSO PÚBLICO PARA O CARGO DE PROFESSOR. DISCUSSÃO SOBRE O PREENCHIMENTO DOS REQUISITOS ESTABELECIDOS NO EDITAL. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. REEXAME DE FATOS E PROVAS. A questão referente à análise do preenchimento dos requisitos estabelecidos em edital de concurso público encontra-se no âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição federal. Reexame de fatos e provas vedado pela Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.”
+6.  Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+ Publique-se.
+ Brasília, 06 de abril de 2011.
+Ministra Ellen Gracie
+Relatora
