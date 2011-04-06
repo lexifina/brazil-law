@@ -1,0 +1,15 @@
+1.  O Tribunal de Justiça do Estado de São Paulo concluiu que a rejeição das contas do Município de Jarinú/SP, referentes ao exercício de 1996, na gestão do ora recorrente, não conflitou com normas nem colidiu com princípios constitucionais, sob o fundamento segundo o qual “não faz sentido jurídico exigir prévia manifestação do Chefe do Executivo para decreto legislativo de alçada exclusiva da Câmara Municipal”. Assim, deu provimento à apelação interposta em sentença de procedência do pedido deduzido em ação fundada no art. 1º, I, g, da Lei Complementar 64/1990, visando à declaração de nulidade do Decreto Legislativo de rejeição de contas (fls. 160-166).
+2.  Daí o recurso extraordinário em que o autor alega, em síntese (fls. 170-202), violação aos princípios constitucionais previstos no art. 5º, LIV e LV, porquanto não lhe fora permitido o exercício do seu direito de ampla defesa e de contraditório. Sustenta que a rejeição das contas do Município, pelo Poder Legislativo local, irradiou efeitos no patrimônio jurídico do chefe do Poder Executivo, tornando o autor inelegível.
+3.  Inadmitido o recurso (fls. 222-221), subiram os autos em virtude de provimento do AI 668.000/SP – apenso.
+4.  Tendo em vista o deferimento de medida cautelar, foi concedido efeito suspensivo ao recurso extraordinário (AC 1.859-QO/SP, DJ 22.02.2008 – fls. 232-288) – apenso.
+5.  A Procuradoria-Geral da República opinou pelo provimento do recurso (fls. 295-297).
+6.  A insurgência merece prosperar. A Corte de origem aplicou à controvérsia entendimento divergente da jurisprudência do Supremo Tribunal Federal no sentido de que é necessária a observância dos princípios constitucionais do contraditório e da ampla defesa no momento da apreciação das contas do prefeito pela Câmara Municipal, após o parecer do Tribunal de Contas. Veja-se AC 2.085-MC/MG, 1ª Turma, rel. Min. Menezes Direito, DJe 19.12.2008, com a seguinte ementa:
+“Medida cautelar. Referendo. Recurso extraordinário. Apreciação das contas do prefeito. Observância do contraditório e da ampla defesa pela Câmara Municipal. Precedentes da Corte.
+1. A tese manifestada no recurso extraordinário, relativa à necessidade de observância dos princípios constitucionais do contraditório e da ampla defesa pela Câmara Municipal quando da apreciação das contas do prefeito, após parecer prévio do Tribunal de Contas, encontra harmonia na jurisprudência desta Suprema Corte. Presentes o fumus boni iurise o periculum in mora.
+2. Decisão concessiva da cautelar referendada pela Turma”.
+ No mesmo sentido, as decisões monocráticas proferidas no RE 235.593/MG, rel. Min. Celso de Mello, DJ 24.4.2004; na AC 1.859-MC/SP, rel. Min. Gilmar Mendes, DJ 21.11. 2007; e no RE 434.52/, rel. Min. Sepúlveda Pertence, DJ 26.6.2006.
+  7.  Ante o exposto, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para restabelecer a sentença de fls. 88-95, inclusive quanto aos ônus de sucumbência.
+ Publique-se.
+ Brasília, 06 de abril de 2011.
+Ministra E LLEN G RACIE
+Relatora
