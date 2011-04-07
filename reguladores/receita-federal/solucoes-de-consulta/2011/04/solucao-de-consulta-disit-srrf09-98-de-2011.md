@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF09 nº 98, de 30 de março de 2011
+Assunto: Contribuição para o PIS/Pasep
+VENDA POR COMERCIANTES DE PNEUS IMPORTADOS POR ENCOMENDA. INCIDÊNCIA DE ALÍQUOTA ZERO. VENDA POR COMERCIANTES DE PNEUS IMPORTADOS POR CONTA E ORDEM. DESCABIMENTO DA ALÍQUOTA ZERO.
+Incide alíquota zero sobre a receita de venda de pneus novos de borracha auferida por comerciante encomendante de importação por encomenda. Todavia, a receita de vendas do mesmo produto importado por conta e ordem e auferida pelo adquirente da importação é tributada à alíquota de 2% (dois por cento).
+Dispositivos Legais: Lei nº 10.485, de 2002, art. 5º, com redação dada pela Lei nº 10.865, de 2004; Lei nº 10.865, de 2004, art. 6º, inciso I, e art. 18; Lei nº 11.281, de 2006, art. 11; MP nº 2.158- 35, de 2001, art. 81; IN SRF nº 225, de 2002, art. 1º, parágrafo único; IN SRF nº 247, de 2002, arts. 12 e 86; IN SRF nº 594, de 2005, art. 15; e IN SRF nº 634, de 2006, art. 1º.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+VENDA POR COMERCIANTES DE PNEUS IMPORTADOS POR ENCOMENDA. INCIDÊNCIA DE ALÍQUOTA ZERO. VENDA POR COMERCIANTES DE PNEUS IMPORTADOS POR CONTA E ORDEM. DESCABIMENTO DA ALÍQUOTA ZERO.
+Incide alíquota zero sobre a receita de venda de pneus novos de borracha auferida por comerciante encomendante de importação por encomenda. Todavia, a receita de vendas do mesmo produto importado por conta e ordem e auferida pelo adquirente da importação é tributada à alíquota de 9,5% (nove inteiros e cinco dé- cimos por cento).
+Dispositivos Legais: Lei nº 10.485, de 2002, art. 5º, com redação dada pela Lei nº 10.865, de 2004; Lei nº 10.865, de 2004, art. 6º, inciso I, e art. 18; Lei nº 11.281, de 2006, art. 11; MP nº 2.158- 35, de 2001, art. 81; IN SRF nº 225, de 2002, art. 1º, parágrafo único; IN SRF nº 225, de 2002, art. 1º, parágrafo único; IN SRF nº 247, de 2002, arts. 12 e 86; IN SRF nº 594, de 2005, art. 15; e IN SRF nº 634, de 2006, art. 1º.
+[arquivo anexo: SC SRRF09-Disit nº 098-2011.pdf]
