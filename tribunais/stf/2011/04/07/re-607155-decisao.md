@@ -1,0 +1,15 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Minas Gerais o qual restou assim ementado (fls. 546-566):
+“APELAÇÕES CRIMINAIS - TRÁFICO DE DROGAS - ASSOCIAÇÃO PERMANENTE PARA O TRÁFICO - PORTE ILEGAL DE ARMA DE FOGO E INVASÃO DE DOMÍCILIO - PRELIMINARES - OMISSÃO DE ANÁLISE DE TESE DEFENSIVA E ILEGALIDADE DAS COMUNICAÇÕES TELEFÔNICAS - INOCORRÊNCIA - AUSÊNCIA DE FUNDAMENTAÇÃO NA DECISÃO JUDICIAL QUE AUTORIZOU A ESCUTA TELEFÔNICA - DESPACHO FUNDAMENTADO DE FORMA SUFICIENTE - MATERIALIDADE E AUTORIA DO TRÁFICO E DA ASSOCIÇÃO AMPLAMENTE DEMONSTRADAS - FIRMEZA DA PROVA TESTEMUNHAL COLIGIDA - INFORMAÇÕES DECORRENTES DE INVESTIGAÇÃO POLICIAL PRÉVIA - APREENSÃO DE GRANDE QUANTIDADE DE DROGA - RÉUS EM CONLUIO PARA A FINALIDADE MERCANTIL - ESTABILIDADE DA ASSOCIAÇÃO ENTRE OS AGENTES PARA A COMERCIALIZAÇÃO DE ENTORPECENTE - CONFIGURAÇÃO DOS DELITOS IMPUTADOS - INVASÃO DE DOMICÍLIO - DOLO ESPECÍFICO - AUSÊNCIA - ABSOLVIÇÃO IMPOSTA - RECURSOS CONHECIDOS, PROVIDO PARCIALMENTE O DO APELANTE CLEUDERSON CLÉBER PEREIRA PARA ABSOLVÊ-LO TÃO-SOMENTE DO CRIME DE INVASÃO DE DOMICÍLIO, DESPROVIDOS OS DEMAIS E PRELIMINARES REJEITADAS”.
+ Interpostos embargos de declaração, estes foram desacolhidos pelo Tribunal a quo (fls. 601-605).
+2.  No RE, a parte recorrente alega violação aos arts. 5°, XLIII, 144, § 1°, IV e § 4°, da Constituição Federal (fls. 589-598).
+3.  Admitido o recurso na origem (fls. 666-668), subiram os autos.
+4.  O recurso não merece prosperar. Verifico que o apelo extremo foi protocolado em 21.03.2006, data anterior à da publicação do aresto dos embargos declaratórios, que ocorreu em 05.05.2006, razão pela qual é manifestamente extemporâneo (fl. 606).
+ Pacífico é o entendimento desta Corte de que a interposição de recursos somente é cabível após a publicação, no Diário da Justiça, da decisão contra a qual se recorre.
+ Na hipótese de o protocolo das razões recursais realizar-se antes da veiculação do ato judicial a ser impugnado, a parte deve, após a divulgação no órgão oficial, ratificá-las, o que não ocorreu na espécie.
+ Nesse sentido, AI 567.168-AgR, rel. Min. Celso de Mello, 2ª. Turma, unânime, DJ de 19.05.2006; AI 440.596-AgR-ED, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ de 07.04.2006; AI 627.371-AgR, de minha relatoria, Pleno, unânime, DJ de 24.08.2007, em cujo voto consignei que, “não ratificado o recurso extraordinário, mesmo que os embargos tenham sido interpostos pela parte agravada, advém a sua extemporaneidade, conforme precedentes citados na decisão impugnada. Cabe lembrar que a partir da vigência da Lei 8.950/94, a oposição de embargos de declaração interrompe o prazo para apresentação de outros recursos”.
+5.  Ademais, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados no acórdão recorrido e, apesar de opostos embargos de declaração, tais dispositivos não foram nele suscitados (Súmulas STF 282 e 356).
+6.  Ante o exposto, nego seguimento ao recurso extraordinário.
+ Publique-se.
+ Brasília, 07 de abril de 2011.
+  Ministra Ellen Gracie
+Relatora
