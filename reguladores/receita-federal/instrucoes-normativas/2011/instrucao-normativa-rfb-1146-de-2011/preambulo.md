@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1146, de 6 de abril de 2011
+Altera a Instrução Normativa RFB nº 944, de 29 de maio de 2009, que dispõe sobre outorga de poderes para fins de utilização, mediante certificado digital, os serviços disponíveis no Centro Virtual de Atendimento ao Contribuinte (e-CAC) da Secretaria da Receita Federal do Brasil (RFB).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto na Instrução Normativa RFB nº 1.077, de 29 de outubro de 2010, resolve:
