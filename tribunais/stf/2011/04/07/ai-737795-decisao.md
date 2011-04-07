@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Ação declaratória. Inexistência de relação jurídica. Juros onzenários. Improcedência. Cerceamento de defesa. Não acolhimento. Prova oral. Desnecessária. Impossibilidade de se demonstrar por testemunhas a prática espúria de cobrança juros extorsivos. Débito existente. Recurso improvido” (fl. 15).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que a recorrente não atacou os fundamentos da decisão agravada, mormente quanto à ausência de demonstração de repercussão geral. Observo que, no caso em questão, a ora agravante insurge-se contra suposta decisão que não teria admitido o Recurso Extraordinário por ausência de prequestionamento, fundamento esse não observado na decisão agravada (fls. 44-45). Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTO INATACADO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA INDIRETA. 1. O agravante não impugnou todos os fundamentos da decisão agravada. Incidência da Súmula 287 desta Corte. 2. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento” (AI 590.913-AgR/RJ, Rel. Min. Eros Grau).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 7 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
