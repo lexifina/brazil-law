@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 32):
+“ 1. RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. 1. PREPOSTO – EMPREGADOR RURAL – EXIGÊNCIA DA CONDIÇÃO DE EMPREGADO. PRESENÇA DO ADVOGADO EM AUDIÊNCIA MUNIDO DE PROCURAÇÃO E CONTESTAÇÃO. RECONHECIMENTO DA REVELIA E APLICAÇÃO DA PENA DE CONFISSÃO FICTA QUANTO À MATÉRIA DE FATO. VIOLAÇÃO DE PRECEITOS DE LEI E DA CONSTITUIÇÃO FEDERAL – NÃO CONFIGURAÇÃO. [..] 2. APLICAÇÃO DA PENA E CONFISSÃO. 2.1. RECONHECIMENTO, COMO VERDADE PROCESSUAL, DO RECEBIMENTO DO SALÁRIO INDICADO NA PETIÇÃO INICIAL. MATÉRIA DE FATO, E NÃO DE DIREITO. AUSÊNCA DE MALTRATO A DISPOSITIVOS LEGAIS. [...] 2.2. AUSÊNCIA DE APRECIAÇÃO, NA DECISÃO RESCINDENDA, DA QUESTÃO JURÍDICA RELATIVA À POSSIBILIDADE DE AJUSTE DE SALÁRIO EM MOEDA ESTRANGEIRA. IMPOSSIBILIDADE DE CARACTERIZAÇÃO DE OFENSA AOS ARTS. 844 DA CLT E 1° DO DECRETO-LEI N° 857/69.[...] 3. VIOLAÇÃO DOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA, DE QUE TRATA O ART. 5°, LIV E LV, DA CF. INCIDÊNCIA DO ÓBICE DA ORIENTAÇÃO JURISPRUDENCIAL N° 97 DA SBDI-2 DO TST.”
+2. Pois bem, a parte recorrente aponta violação aos incisos II, XIII, LIV, LV do art. 5° e ao art. 133, todos da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pelo não-conhecimento do apelo extremo.
+4. O recurso não merece acolhida. É que entendimento diverso do adotado pelo aresto impugnado exigiria a análise da legislação infraconstitucional pertinente, bem como o revolvimento do conjunto fático-probatório dos autos (Súmula 279 do STF). Providências vedadas na instância extraordinária.
+5. De mais a mais, anoto que a alegada ofensa às garantias do devido processo legal, do contraditório e da ampla defesa apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
