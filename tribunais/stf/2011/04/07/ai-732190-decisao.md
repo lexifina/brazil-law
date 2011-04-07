@@ -1,0 +1,11 @@
+D ECIS Ã O: Trata-se de agravo de instrumento que visa a permitir o trânsito de recurso extraordinário interposto de acórdão que concedeu a segurança ao agravado, cassado do cargo de prefeito municipal de Comendador Levy Gasparian em decisão proferida pela Câmara de vereadores daquele município.
+O ofício de fl. 310 noticia o falecimento do agravado. Tratando-se de direito personalíssimo (o mandado de segurança fundamentou-se no direito a produzir prova perante a comissão processante da câmara de vereadores), é impossível a sucessão processual. Nesse sentido: MS 21.101-MC, rel. min. Celso de Mello, DJ 15.03.1991; MS 22.130-QO, rel. min. Moreira Alves, Pleno, DJ 30.05.1997; RE 140.616-ED-ED-ED-ED, rel. min. Maurício Corrêa, DJ 31.10.1997; MS 22.355, rel. min. Eros Grau, DJ 04.08.2006.
+Ainda quanto à legitimidade das partes, anoto que o presente agravo de instrumento foi interposto pela autoridade coatora, não pela pessoa jurídica de direito público. Ressalte-se que é pacífico o entendimento desta Corte no sentido de que a legitimidade para recorrer das decisões proferidas em sede de mandado de segurança é da pessoa jurídica de direito público a que pertence a autoridade coatora, visto que é aquela que responde pelos efeitos decorrentes da decisão prolatada. Nesse sentido: RE 412.430-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ 17.03.2006; RMS 25.153, rel. min. Carlos Britto, DJ 23.09.2005; MS 27.750, rel. min. Menezes Direito, DJe 02.12.2008 e AI 637.474, rel. min. Marco Aurélio, DJe 27.04.2009.
+Quanto ao interesse recursal, verifico que o mandato do agravado que foi cassado pela decisão da Câmara de vereadores anulada pelo julgamento do mandado de segurança extinguiu-se em 2004.
+Registro, ainda, que o recurso extraordinário inadmitido na origem, no qual se alegava que o acórdão recorrido ofende o preceito do art. 5º, LV, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ante o exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 7 de abril de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
