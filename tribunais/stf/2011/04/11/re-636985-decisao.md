@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) que tem como violado o art. 97 da Carta Magna.
+O dispositivo encontra-se devidamente prequestionado, tendo sobre ele emitido juízo o acórdão que julgou os embargos declaratórios, cuja ementa tem o seguinte teor:
+“EMENTA. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CR/88 E SÚMULA VINCULANTE N. 10 DO STF). INEXISTÊNCIA. MERA INTERPRETAÇÃO DE REGRAS JURÍDICAS DE ÍNDOLE INFRACONSTITUCIONAL. [PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDOR PÚBLICO INATIVO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO NO ACÓRDÃO RECORRIDO. COBRANÇA SUSPENSA POR DECISÃO NÃO TRANSITADA EM JULGADO. BOA-FÉ. INEXISTÊNCIA. DESCONTO EM FOLHA (ART. 46 DA LEI N. 8.112). IMPOSSIBILIDADE.
+1. Conforme depreende-se do acórdão embargado, a jurisprudência desta Corte consolidou seu entendimento no sentido de que viola o art. 46 da Lei n. 8.112 a cobrança de verba de natureza tributária (contribuição previdenciária de inativo), recolhida a menor por força de decisão judicial, por meio de desconto em folha de pagamento de servidor público. Nesses casos, a cobrança deve seguir as regras estabelecidas no Código Tributário Nacional.
+2. Esse entendimento não ofende a cláusula de reserva de plenário, pois não existiu declaração de inconstitucionalidade de lei a ensejar a aplicação do art. 97 da Constituição da República, nem mesmo de forma velada, mas mera interpretação de regra jurídica.
+3. Para a configuração da ofensa ao disposto na Súmula Vinculante n. 10 do Supremo Tribunal Federal, é imprescindível que a decisão esteja fundamentada na incompatibilidade entre o dispositivo legal sobre o qual paira a controvérsia e a Constituição da República ou, ainda, na existência de conflito com critérios resultantes do texto constitucional, conclusões essas que não se extraem do julgado embargado. Precedentes do STF.
+4. Embargos de declaração da Fazenda Nacional rejeitados.” (Fls. 516-517)
+Assiste razão ao recorrente. O princípio da reserva de plenário, nos termos em que estabelecido na Carta Magna, deve ser observado, quer se trate de controle abstrato, quer de controle difuso de constitucionalidade. É o que se extrai da jurisprudência da Corte:
+“EMENTA: Controle difuso de constitucionalidade de norma jurídica. Art. 97 da Constituição Federal.
+- A declaração de inconstitucionalidade de norma jurídica ‘incidenter tantum’, e, portanto, por meio do controle difuso de constitucionalidade, é o pressuposto para o Juiz, ou o Tribunal, no caso concreto, afastar a aplicação da norma tida como inconstitucional. Por isso, não se pode pretender, como o faz o acórdão recorrido, que não há declaração de inconstitucionalidade de uma norma jurídica ‘incidenter tantum’ quando o acórdão não a declara inconstitucional, mas afasta a sua aplicação, porque tida como inconstitucional.
+Ora, em se tratando de inconstitucionalidade de norma jurídica a ser declarada em controle difuso por Tribunal, só pode declará-la, em face do disposto no artigo 97 da Constituição, o Plenário dele ou seu Órgão Especial, onde este houver, pelo voto da maioria absoluta dos membros de um ou de outro.
+No caso, não se observou esse dispositivo constitucional.
+Recurso extraordinário conhecido e provido.” (RE 179.170, rel. min. Moreira Alves, DJ 30.10.1998)
+No mesmo sentido, RE 240.096 (rel. min. Sepúlveda Pertence, DJ 21.05.1999), AI 441.191 (rel. min. Nelson Jobim, DJ 18.03.2004) e AI 300.252 (rel. min. Ellen Gracie, DJ 07.05.2002).
+Do exposto, conheço do presente recurso extraordinário e dou-lhe provimento, nos termos do art. 557, § 1º-A, do Código de Processo Civil, para que a questão de inconstitucionalidade surgida no processo seja submetida ao órgão competente.
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
