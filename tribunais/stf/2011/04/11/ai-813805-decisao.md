@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que determinou o pagamento de indenização de férias não gozadas, acrescida do terço constitucional, a servidora exonerada de cargo em comissão.
+No recurso extraordinário, o agravante alega violação do disposto nos arts. 2º, 5º, II, 7º, XVII, 37, caput e XV, todos da Constituição.
+O acórdão recorrido fundou-se na disposição constitucional que garante a remuneração das férias e, ainda, no princípio que veda o enriquecimento sem causa, para determinar fosse pago à ora recorrida a indenização de férias não usufruídas, acompanhada do terço constitucional.
+Constato que não foi interposto o recurso especial imprescindível à impugnação da aventada ofensa ao princípio infraconstitucional que proíbe o locupletamento ilícito, fato que inviabiliza o recurso extraordinário. Incide, no caso, o enunciado da Súmula 283 desta Corte.
+Nesse sentido: AI 311.829-AgR, rel. min. Nelson Jobim, DJ 08.06.2001; RE 239.552-AgR, rel. min. Cezar Peluso, DJ 17.09.2004; RE 201.611, rel. min. Moreira Alves, DJ 05.09.1997; RE 171.748, rel. min. Eros Grau, DJ 04.04.2005; RE 239.552, rel. min. Sydney Sanches, DJ 29.01.2003.
+Ademais, ainda que superado o óbice, o recurso não prospera.
+Este Supremo Tribunal Federal, no julgamento do RE 570.908 (rel. min. Cármen Lúcia, Pleno, DJe de 12.03.2010), firmou entendimento de que o servidor nomeado para o exercício de cargo em comissão tem direito ao recebimento de férias não gozadas acrescidas do terço constitucional. Transcrevo a ementa do julgado:
+“EMENTA: DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CARGO COMISSIONADO. EXONERAÇÃO. FÉRIAS NÃO GOZADAS: PAGAMENTO ACRESCIDO DO TERÇO CONSTITUCIONAL. PREVISÃO CONSTITUCIONAL DO BENEFÍCIO. AUSÊNCIA DE PREVISÃO EM LEI. JURISPRUDÊNCIA DESTE SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. O direito individual às férias é adquirido após o período de doze meses trabalhados, sendo devido o pagamento do terço constitucional independente do exercício desse direito. 2. A ausência de previsão legal não pode restringir o direito ao pagamento do terço constitucional aos servidores exonerados de cargos comissionados que não usufruíram férias. 3. O não pagamento do terço constitucional àquele que não usufruiu o direito de férias é penalizá-lo duas vezes: primeiro por não ter se valido de seu direito ao descanso, cuja finalidade é preservar a saúde física e psíquica do trabalhador; segundo por vedar-lhe o direito ao acréscimo financeiro que teria recebido se tivesse usufruído das férias no momento correto. 4. Recurso extraordinário não provido.”
+Dessa orientação não divergiu o acórdão recorrido.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
