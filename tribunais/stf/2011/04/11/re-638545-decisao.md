@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) PROCESSUAL PENAL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. 2) CONTROVÉRSIA SOBRE APLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA: QUESTÃO INFRACONSTITUCIONAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“PENAL. DESCAMINHO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. REITERAÇÃO NA CONDUTA. NÃO CONFIGURAÇÃO. PERDIMENTO DOS BENS. SATISFAÇÃO DO DÉBITO TRIBUTÁRIO. IRRELEVÂNCIA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REITERAÇÃO DA CONDUTA” (fl. 165 – grifos nossos).
+2. O Recorrente assevera que o Tribunal a quo teria contrariado o art. 5º, inc. LVII, da Constituição da República, ao afastar a aplicação do princípio da insignificância “em decorrência de meras denúncias em outras ações penais” (fl. 192).
+Analisados os elementos havidos nos autos, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+4. O art. 5º, inc. LVII, da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME DE ROUBO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 766.895-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010 – grifos nossos).
+“AGRAVO REGIMENTAL. AUSÊNCIA DE PEÇA ESSENCIAL. ARTS. 5º, XLVI, E 93, IX, DA CONSTITUIÇÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. OFENSA REFLEXA. A parte agravante não demonstra a presença nos autos da peça que a decisão agravada teve como ausente, qual seja, a certidão de publicação do acórdão recorrido. Trata-se de peça de traslado obrigatório, cuja ausência acarreta o não-conhecimento do agravo de instrumento. Ausência de prequestionamento. Questão não ventilada no acórdão recorrido e que não foi suscitada em embargos de declaração. Óbice previsto pelos enunciados das Súmulas 282 e 356/STF. Alegação de violação dos arts. 5º, XLVI, e 93, IX, da Constituição Federal. Necessidade de exame prévio de norma infraconstitucional (Código Penal) para a verificação de contrariedade à Carta Magna. Caracterização de ofensa reflexa ou indireta. Precedente. Agravo regimental a que se nega provimento” (AI 586.491-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008 – grifos nossos).
+5. Ademais, este Supremo Tribunal assentou a natureza infraconstitucional da questão relativa à aplicabilidade do princípio da insignificância, o que também não enseja o recurso extraordinário. Nesse sentido:
+“RECURSO. Extraordinário. Inadmissibilidade. Princípio da insignificância. Atipicidade da conduta. Ofensa ao art. 5°, incs. XXXV, LV e LIV, da Constituição Federal. Inocorrência. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que verse sobre a questão do reconhecimento de aplicação do princípio da insignificância, porque se trata de matéria infraconstitucional” (AI 747.522-RG, Rel. Min. Cezar Peluso, Plenário Virtual, Dje 25.9.2009 – grifos nossos).
+6. Nada há a prover quanto às alegações do Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
