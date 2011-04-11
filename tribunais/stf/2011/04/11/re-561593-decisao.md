@@ -1,0 +1,16 @@
+1.  Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a e b , da Constituição Federal, contra acórdão que entendeu não estarem presentes os pressupostos de admissibilidade de ação rescisória (fls. 374-376).
+2.  No RE, a parte recorrente alega violação ao art. 5º, II, da Constituição Federal, sustentando, em síntese, a aplicabilidade do deflator e a constitucionalidade do art. 27 da Lei. 8.177/91.
+3.  Inadmitido o recurso na origem (fl. 841), subiram os autos em virtude do provimento de agravo de instrumento.
+4.  O Ministério Público Federal manifestou-se pelo não-conhecimento do recurso (fl. 861).
+5.  O recurso não merece prosperar. O acórdão recorrido tratou de matéria de índole processual relativa a pressuposto de cabimento de ação rescisória. Trata-se, portanto, de questão infraconstitucional, cuja análise é inviável na via extraordinária, por não implicar em ofensa direta ao texto constitucional. É o que se percebe da leitura do seguinte trecho da ementa:
+“RESCISÓRIA - COBRANÇA - CONTRATO DE DEPÓSITO BANCÁRIO - HIPÓTESE EM QUE O AUTOR NÃO AGRAVOU DAS DECISÕES QUE NEGARAM SEGUIMENTO AOS RECURSOS ESPECIAL E EXTRAORDINÁRIO - DESCABIMENTO DO REEXAME DA CAUSA PELAS INSTÂNCIAS SUPERIORES VISTO QUE A AÇÃO RESCISÓRIA NÃO É SUCEDÂNEO DOS AGRAVOS QUE DEIXARAM DE SER INTERPOSTOS - AÇÃO IMPROCEDENTE”.
+ Nesse sentido posicionam-se ambas as Turmas desta Corte: AI 653.793-AgR/SP, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 17.04.2009; RE 575.447-AgR/RJ, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 08.05.2009; AI 483.783-AgR/SP, de minha relatoria, 2ª Turma, unânime, 28.08.2009; AI 671.572-AgR/RJ, rel. Min. Celso de Mello, 2ª Turma, unânime, DJe 30.11.2007.
+ Ressalte-se, apenas a título de argumentação, que o Supremo Tribunal Federal, no julgamento do AI 751.478/SP, rel. Min. Dias Toffoli, Plenário virtual, DJe 20.8.2010, declarou a inexistência de repercussão geral da matéria referente aos pressupostos de admissibilidade de ação rescisória.
+6.  Ademais, quanto à alegação de ofensa ao art. 5º e seus incisos, a jurisprudência desta Corte está sedimentada no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, do direito adquirido, do ato jurídico perfeito, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+7.  Quanto à interposição do recurso extraordinário com fundamento na alínea b do permissivo constitucional, verifico que o acórdão recorrido não declarou a inconstitucionalidade de tratado ou lei federal, revelando-se, também, incabível a interposição por esse fundamento.
+8.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 11 de abril de 2011.
+M INISTRA E LLEN G RACIE
+R ELATORA
+D OCUMENTO ASSINADO DIGITALMENTE
