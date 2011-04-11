@@ -1,0 +1,27 @@
+DECISÃO
+Vistos.
+Estado de São Paulo interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Nona Câmara de Direito Público do Tribunal Regional Federal da 3ª Região, assim ementado:
+“ICMS – Mercadorias importadas – Tributo devido após o desembaraço aduaneiro dos bens – Constitucionalidade e legalidade das normas regulamentares aplicáveis à especie – Exegese da Súmula 577 do STF e do Decreto-lei nº 406/68 – Cobrança da diferença de câmbio em momento posterior – Inadmissibilidade – Conversão da moeda pelo câmbio empregado pelas autoridades alfandegárias – Recurso provido” (fl. 475).
+Opostos embargos de declaração (fls. 486/487), foram rejeitados (fls. 490 a 494).
+Alega o recorrente violação do artigo 155, § 2º, inciso IX, alínea “a”, da Constituição Federal. Sustenta que, “tendo sido esta a alteração regulamentada pela Lei 6.374/89”, o fato gerador do ICMS “se verifica quando do recebimento pelo importador de bem ou mercadoria importados do exterior” (fl. 501), sendo, portanto, devida a diferença cambial entre a data do registro da declaração de importação e a data do recebimento da mercadoria.
+Contra-arrazoado (fls. 520 a 532), o recurso extraordinário (fls. 497 a 504) foi admitido (fls. 549/550).
+O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 280 dos autos do AI nº 588.951/SP em apenso), deu provimento aos embargos de divergência para negar seguimento ao recurso especial interposto simultaneamente ao extraordinário (fls. 655 a 660).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 17/5/99, conforme expresso na certidão de folha 495, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação.
+O acórdão recorrido consignou que o contribuinte pagou o ICMS referente à mercadoria que importou quando do desembaraço aduaneiro e, para tanto, esclareceu que “por entrada, há que se entender o momento em que o importador, depois do desembaraço aduaneiro, passa a ter a livre disposição econômica e jurídica do bem, oportunidade em que se torna devido o ICMS, mesmo que a mercadoria não tenha ingressado fisicamente no estabelecimento do importador” (fl. 479).
+Essa orientação não se afastou do disposto na Súmula nº 661 desta Corte que assim dispõe, in verbis:
+“Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro”.
+Sobre o tema, os seguintes precedentes:
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. MERCADORIA IMPORTADA. ICMS. SÚMULA 661-STF. I. - Ausência de prequestionamento das questões constitucionais invocadas no recurso extraordinário. Súmulas 282 e 356-STF. II. - Incidência, no caso, da Súmula 661-STF. Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro. III. - Agravo não provido” (AI nº 540.650/RJ-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 24/2/06).
+“ICMS: aplicação da Súmula 661 ("Na entrada de mercadoria importada do exterior, é legítima a cobrança do ICMS por ocasião do desembaraço aduaneiro") ” (RE nº 268.001/PE-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 13/5/05).
+“AGRAVO DE INSTRUMENTO - ICMS - MERCADORIAS IMPORTADAS - FATO GERADOR - DESEMBARAÇO ADUANEIRO - CF, ART. 155, § 2º, IX, "a" - RECURSO IMPROVIDO. - A jurisprudência do Supremo Tribunal Federal, em tema de importação, reconhece que o fato gerador pertinente ao ICMS concretiza-se no momento da entrada, no Brasil, da mercadoria importada, revelando-se legítima a cobrança desse imposto estadual, quando da efetivação do ato de desembaraço aduaneiro. Precedentes. - A Súmula 577/STF - considerada a norma inscrita no art. 155, § 2º, IX, "a", da Carta Federal - não mais se aplica às importações de mercadoria realizadas a partir da vigência da Constituição de 1988. Precedentes” (AI nº 299.800/PE-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 18/10/02).
+E, de igual teor, podem ainda ser citadas as seguintes decisões monocráticas: RE nº 307.342/SP, Relatora a Ministra Ellen Gracie, DJ de 17/6/09, RE nº 298.291/SP, Relator o Ministro Joaquim Barbosa, DJ de 4/6/09, RE nº 494.739/SP, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/09, e AI nº 727.515/PE, Relatora a Ministra Cármen Lúcia, DJ de 2/4/09.
+Todavia, a controvérsia dos autos restringe-se à questão acerca da cobrança da variação cambial em razão do transcurso do tempo que decorreu entre o desembaraço aduaneiro e a retirada dos bens da alfândega, ponto este que não prescinde da análise da legislação infraconstitucional invocada pelo Tribunal de origem (Decreto-Lei nº 406/68 e Lei estadual nº 6.374/89) e das provas dos autos. Incide, na espécia, as Súmulas nºs 279 e 280 desta Corte.
+Nesse sentido, em caso idêntico aos dos presentes autos, o decidido no RE nº 218.192/SP, Relator o Ministro Sepúlveda Pertence, DJ de 19/3/07.
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 11 de abril de 2011.
+M INISTRO D IAS T OFFOLI
+Relator
+D OCUMENTO ASSINADO DIGITALMENTE
