@@ -1,0 +1,20 @@
+1.  Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Antônio Sergio Ferraciolli, com fundamento no artigo 5º, LXIX, da Constituição Federal e na Lei 12.016/2009, contra o Acórdão 7.474/2010, proferido pela Segunda Câmara do Tribunal de Contas da União nos autos do Processo TC 018.069/2010-0.
+ O acórdão impugnado considerou ilegal o ato de concessão de aposentadoria do impetrante, em decorrência do pagamento de parcela complementar de subsídio.
+ O impetrante sustenta a ocorrência de ofensa aos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa, porquanto no rol de interessados do Processo TC 018.069/2010-0 não constou o seu nome.
+ Alega que o acórdão do Tribunal de Contas da União violou os princípios constitucionais da coisa julgada, do ato jurídico perfeito, do direito adquirido e da irretroatividade das leis, uma vez que desconsiderou decisão judicial transitada em julgado que lhe teria garantido a incorporação da vantagem em questão e fundamentou sua decisão em legislação anterior ao ato de aposentadoria do impetrante (Lei 11.358/2006).
+ Salienta também a existência do perigo na demora, consubstanciado no fato de que a supressão parcial dos rendimentos provoca diminuição na capacidade do impetrante de sustentar-se a si próprio e a sua família, pois todos os seus gastos eram planejados com base na integralidade dos proventos.
+ Menciona a existência de precedentes do Supremo Tribunal Federal favoráveis à sua tese.
+ Requer, ao final, o deferimento da medida liminar e, no mérito, a concessão da segurança, para declarar nulo em caráter definitivo o Acórdão 7.474/2010 da Segunda Câmara do TCU, e “determinar em caráter definitivo que não sejam suprimidos os proventos referentes à parcela complementar de subsídio, sob a rubrica 82487, determinando-se também que a Autoridade Coatora registre o ato de concessão de aposentadoria ao Impetrante com percepção de proventos integrais”.
+2.  Verifico, todavia, que o presente mandado de segurança não reúne condições de prosperar.
+ O impetrante, em sua petição inicial, não encaminhou a esta Corte cópia da decisão judicial transitada em julgado que teria determinado a incorporação da rubrica em questão.
+ Assim, o impetrante não se desincumbiu de seu dever de instruir devidamente a petição inicial do presente writ com provas literais pré-constituídas, essenciais para a demonstração cabal de suas alegações.
+ Consoante asseverou o eminente Ministro Celso de Mello, “o mandado de segurança qualifica-se, em seus aspectos formais, como verdadeiro processo documental, em que incumbe ao impetrante do writ produzir a prova pré-constituída” (Recurso Ordinário em Mandado de Segurança 21.438/DF, 1ª Turma, DJ 24.6.1994).
+ O mandado de segurança pressupõe a existência de direito líquido e certo, apoiado em fatos incontroversos que não reclamem a produção ulterior de provas ou o seu cotejo.
+ Não é demais lembrar que a concessão do writ presume, sempre, a existência de prova documental pré-constituída (art. 6º, caput, da Lei 12.016/2009), exatamente por não admitir essa estreita via processual qualquer procedimento de dilação probatória. A única exceção a essa regra se dá no caso em que os documentos necessários à prova do que alegado pelo impetrante se achem em repartição ou estabelecimento público ou em poder de autoridade que se recuse a fornecê-lo (art. 6º, § 1º, da Lei 12.016/2009), o que não ocorre na espécie.
+ Ressalte-se também que, sem a devida produção de prova documental do que alegado pelo impetrante, remanesce a presunção relativa de veracidade do que fora consignado pela Corte de Contas na decisão ora impugnada.
+ Assevere-se, finalmente, que é vedada, em mandado de segurança, a coleta de outras provas que não aquelas juntadas à petição inicial, sob pena de se transformar essa ação civil de rito sumário especial em ação de rito ordinário.
+3.  Ante o exposto, não conheço do presente writ, ficando prejudicada a apreciação do pedido de medida liminar.
+ Publique-se.
+ Brasília, 11 de abril de 2011.
+Ministra Ellen Gracie
+Relatora
