@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA PRESTAÇÃO JURISDICIONAL, DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO E DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça de São Paulo julgou agravo de instrumento, nos termos seguintes:
+“EXECUÇÃO FISCAL – Penhora – Leilões negativos – inexistência de outros bens – Substituição da constrição por dinheiro em conta corrente através do sistema Bacen-Jud – Bloqueio de ativos financeiros até o limite do crédito – Possibilidade, em casos excepcionais – Interesse público que emerge da execução fiscal autoriza o deferimento da medida – Recurso não provido” (fl. 70).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário: a) a insuficiência de argumentos para infirmar a fundamentação do acórdão recorrido; b) a ausência de contrariedade às normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas a, b, c e d do inc. III do art. 102 da Constituição da República; e c) a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta.
+4. A Agravante argumenta que:
+“A ofensa à ampla defesa e ao contraditório, havidas no caso, são suficientes para a admissão do Recurso previamente interposto, não podendo ser considerada válida a assertiva constante da r. decisão agravada de que tal ofensa se deu de forma reflexa. A ora agravante não teve ciência de qualquer ato levado a cabo na primeira instância que supostamente autorizaria a utilização da extrema medida” (fl. 7).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV, LIV e LV, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+O Desembargador Relator observou:
+“que, a teor do art. 620 do CPC, a execução deve ser feita da forma menos gravosa ao devedor.
+Todavia, não se pode olvidar que a execução é feita em benefício do credor e, portanto, pode optar pela indicação de bens que sejam idôneos para a garantia do Juízo.
+Não bastasse isso, é preciso que sejam distinguidas as fases da execução fiscal. Na inicial deve prevalecer o interesse da devedora, que pode opor embargos, com possibilidade até de modificação da dívida e a penhora é feita em garantia, no aguardo da defesa a ser apresentada. Mas, ultrapassada a fase de embargos, como na espécie, não se fala mais em garantia, mas em pagamento. E, nesta fase, prevalece o interesse da credora, quando a Fazenda poderá valer-se do disposto no art. 15 da Lei n. 6.830/80” (fl. 73).
+Conforme se verifica, concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (art. 15 da Lei n. 6.830/1980 e art. 620 do Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL. EXECUÇÃO. PENHORA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 698.506-AgR, de minha relatoria, Primeira Turma, DJe 12.12.2008 – grifei).
+6. Anote-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011 – grifei).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
