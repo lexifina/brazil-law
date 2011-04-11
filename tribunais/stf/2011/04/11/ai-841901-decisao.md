@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Superior do Trabalho.
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa ao artigo 7º, XIV, do texto constitucional.
+A recorrente alega, em síntese, que “a jornada reduzida de seis horas, instituída pelo art. 7º, item XIV, da Constituição da República, é inacumulável com a concessão de hora reduzida prevista no art. 73, § 1º, da CLT”.
+Decido.
+O recurso não merece prosperar.
+Na espécie, verifica-se que a controvérsia relativa à compatibilidade entre a hora noturna reduzida e o turno ininterrupto de revezamento demanda a análise da legislação trabalhista aplicável à espécie, sendo que eventual afronta ao dispositivo constitucional invocado na petição do extraordinário, se ocorrente, seria indireta.
+Nesse sentido, cito os seguintes precedentes:
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRABALHISTA. TURNOS ININTERRUPTOS DE REVEZAMENTO. EMPREGADO HORISTA. MATÉRIA INFRACONSTITUCIONAL. 1. A questão dos empregados horistas é de ser tratada no âmbito trabalhista, infraconstitucional, uma vez que a Constituição, em seu art. 7º, XIV, não faz referência quanto ao trabalhador horista, e sim quanto àquele que tem uma jornada de trabalho reduzida para 06 (seis) horas por realizá-la em turnos ininterruptos de revezamento. 2. Quanto ao tema dos turnos ininterruptos de revezamento para os horistas, também tratada no âmbito infraconstitucional, o Tribunal Superior do Trabalho entendeu que, inexistindo instrumento coletivo, o trabalhador faz jus ao pagamento das horas trabalhadas além da 6ª, com fundamento na Orientação Jurisprudencial 275 da SDI-TST. 3. Ofensa indireta à Lei Maior não autoriza a admissão do recurso extraordinário. 4. Agravo regimental improvido” (AI-AgR 421.085, Rel. Min. Ellen Gracie, Segunda Turma, DJ 28.10.2004).
+“TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TURNOS ININTERRUPTOS. INTERVALO INTRAJORNADA. HORAS EXTRAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a causa à luz da legislação processual trabalhista. A afronta à Constituição, se ocorrente, seria indireta. II – A Corte tem se orientado no sentido de que a discussão referente à configuração de horas extras e a validade da redução do intervalo intrajornada demanda a análise de legislação infraconstitucional III - Agravo regimental improvido” (AI-AgR 794.466, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.11.2010).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. JORNADA DE TRABALHO. TURNO DE REVEZAMENTO. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 619.285, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1.2.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO CIVIL. ADICIONAL NOTURNO. REVEZAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. Precedentes. Agravo regimental a que se nega provimento” (AI-AgR 766.188, Rel. Min. Eros Grau, Segunda Turma, DJe 18.12.2009).
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
