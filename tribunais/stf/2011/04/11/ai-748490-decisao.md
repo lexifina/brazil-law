@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Paraná, o qual restou assim ementado:
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA C/C REPETIÇÃO DE INDÉBITO – TAXA DE LICENÇA PARA LOCALIZAÇÃO – INEXISTÊNCIA DE COBRANÇA – TAXA DE VERIFICAÇÃO DE FUNCIONAMENTO REGULAR DE ESTABELECIMENTO – COBRANÇA REGULAR – EFETIVO EXERCÍCIO DO PODER DE POLÍCIA – CRITÉRIO QUANTITATIVO – BASE DE CÁLCULO ESTABELECIDA EM LEI E RELACIONADA COM O CUSTO DA ATIVIDADE ESTATAL.
+Demonstrado o efetivo exercício do poder de polícia do Município na fiscalização de funcionamento de estabelecimento comercial, regular é a cobrança da respectiva taxa que, para o caso, se apresenta com legal base de cálculo. Recurso não provido.”
+Sustenta-se, em síntese, a violação dos arts. 5º, XXXV, e 145, II, e § 2º, da Constituição federal.
+Inexiste a alegada afronta ao art. 5º, XXXV, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões que lhe foram postas.
+Passando à questão de fundo, o Plenário do Supremo Tribunal Federal, no julgamento do RE 220.316 (rel. min. Ilmar Galvão, DJ 26.06.2001), firmou o entendimento de que é constitucional instituição de taxas similares pelos municípios. No que tange à renovação anual, essa Corte tem reconhecido sua constitucionalidade, desde que haja órgão administrativo que exercite o poder de polícia na localidade, tal como ocorre no município de Cubatão, segundo o acórdão recorrido. Nesse sentido:
+“TRIBUTÁRIO. MUNICÍPIO DE PORTO ALEGRE. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO E FUNCIONAMENTO. ESCRITÓRIO DE ADVOGADO. CONSTITUCIONALIDADE. O Supremo Tribunal Federal tem sistematicamente reconhecido a legitimidade da exigência, anualmente renovável, pelas Municipalidades, da taxa em referência, pelo exercício do poder de polícia, não podendo o contribuinte furtar-se à sua incidência sob alegação de que o ente público não exerce a fiscalização devida, não dispondo sequer de órgão incumbido desse mister. Recurso extraordinário conhecido e provido.” (RE 198.904, rel. min. Ilmar Galvão, Primeira Turma, DJ 27.09.1996)
+“EMENTA: TAXA DE LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO. EXERCÍCIO DO PODER DE POLÍCIA. ART. 145, II, DA CONSTITUIÇÃO. - Ausência de prequestionamento - fundamento suficiente, que não restou impugnado pela agravante. - A cobrança da taxa de localização e funcionamento, pelo Município de São Paulo, prescinde da efetiva comprovação da atividade fiscalizadora, diante da notoriedade do exercício do poder de polícia pelo aparato administrativo dessa municipalidade. Precedentes. - Agravo regimental a que se nega provimento.” (RE 222.252-AgR, rel. min. Ellen Gracie, Primeira Turma, DJ 18.05.2001)
+Outrossim, não cabe discutir em recurso extraordinário se houve a efetiva atuação do órgão da administração pública municipal no exercício do poder de polícia, porquanto inviável o reexame de provas e fatos da causa (Súmula 279).
+Por fim, o Plenário do Supremo Tribunal Federal firmou entendimento no sentido da constitucionalidade da instituição de taxa de localização e funcionamento, tendo como base de cálculo a área do imóvel. Confira-se:
+“EMENTA: MUNICÍPIO DE BELO HORIZONTE. TAXA DE FISCALIZAÇÃO, LOCALIZAÇÃO E FUNCIONAMENTO. ALEGADA OFENSA AO ART. 145, § 2º, DA CONSTITUIÇÃO.
+Exação fiscal cobrada como contrapartida ao exercício do poder de polícia, sendo calculada em razão da área fiscalizada, dado adequadamente utilizado como critério de aferição da intensidade e da extensão do serviço prestado, não podendo ser confundido com qualquer dos fatores que entram na composição da base de cálculo do IPTU, razão pela qual não se pode ter por ofensivo ao dispositivo constitucional em referência, que veda a bitributação.
+Serviço que, no caso, justamente em razão do mencionado critério pode ser referido a cada contribuinte em particular, e de modo divisível, porque em ordem a permitir uma medida tanto quanto possível justa, em termos de contraprestação.
+Recurso não conhecido.”
+(RTJ 182/733)
+No mesmo sentido tem-se manifestado a Segunda Turma desta Corte:
+“EMENTA: Tributário. Taxa de fiscalização, localização e funcionamento. Município de BH. Constitucionalidade do tributo. Precedente. Regimental não provido.”
+(RE 198.675-AgR, rel. min. Nelson Jobim, DJ 27.10.2000)
+“TAXA DE FISCALIZAÇÃO E FUNCIONAMENTO - LEI Nº 5.641/89 DO MUNICÍPIO DE BELO HORIZONTE - ELEMENTO DE CÁLCULO - METRAGEM QUADRADA - PRECEDENTE. Na dicção da ilustrada maioria - entendimento em relação ao qual, e em harmonia com a jurisprudência, guardo reservas - o fato de, na fixação da taxa de fiscalização e funcionamento, levar-se em conta elemento próprio ao cálculo de imposto - a metragem do imóvel -, não a revela conflitante com a Constituição Federal.”
+(RE 213.552, rel. min. Marco Aurélio, DJ 18.08.2000)
+Do exposto, com base no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 11 de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
