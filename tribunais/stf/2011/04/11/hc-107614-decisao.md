@@ -1,0 +1,27 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal de Justiça que negou provimento ao AI 1.139.505-AgR, anteriormente interposto naquela Corte.
+2.  Os pacientes foram condenados à pena de 3 anos e 6 meses de detenção pela prática do delito previsto no art. 89 da Lei 8.666/93.
+ O Tribunal de Justiça do Estado do Paraná manteve a sentença condenatória proferida pelo magistrado de primeira instância. A defesa ainda apresentou embargos de declaração contra o acórdão da apelação, mas a Corte Estadual rejeitou o recurso. Posteriormente, a defesa interpôs recurso especial, que teve seu seguimento negado, e, por conseguinte, agravo de instrumento dessa respectiva decisão.
+ No Superior Tribunal de Justiça, o relator do AI 1.120.672/PR, Ministro Napoleão Nunes Maia Filho, não conheceu do recurso sob o fundamento de não ter sido instruído com as peças obrigatórias estabelecidas no art. 544, § 1º, do Código de Processo Civil. Interposto agravo regimental contra a decisão monocrática, a Quinta Turma da Corte Superior negou provimento ao recurso nos termos da seguinte ementa:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇA OBRIGATÓRIA. CERTIDÃO DE INTIMAÇÃO DO ACÓRDÃO RECORRIDO (EMBARGOS DE DECLARAÇÃO). INOBSERVÂNCIA DO ART. 544, § 1º, DO CPC. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o art. 544, § 1º, do CPC, não se conhece de Afravo cujo instrumento não contém todas as peças obrigatórias e as essenciais à compreensão da controvérsia.
+2. Agravo Regimental desprovido”.
+3.  Apesar de não ser observado na petição inicial, examinando o andamento processual do AI 1.120.672/PR no sítio eletrônico do STJ (www.stj.jus.br), verifico que a defesa do paciente ainda interpôs sucessivamente os recursos de embargos de declaração, recurso extraordinário, embargos de declaração, agravo de instrumento no RE, embargos de declaração, agravo regimental, embargos de declaração, 2º recurso extraordinário e, por fim, agravo regimental.
+ Registro que o STJ, na análise do AgR-RE-Edcl-AgR-Edcl-AI-EDcl-RE-Edcl-AgR-AI 1.120.672/PR, assentou que “a interposição descabida e desmedida de supervenientes recursos (ou outro remédio processual), acaba por configurar abuso do poder de recorrer, haja vista, como já afirmado, o esgotamento da prestação jurisidicional dessa e. Corte Superior”. Na mesma oportunidade, determinou “a publicação do presente expediente apenas para ciência da parte interessada e (...) seu imediato arquivamento, ficando os requerentes advertidos de que a reiteração de petitórios dessa mesma natureza serão tidos por protelatórios, sujeitos às cominações legais”.
+4.  No presente writ, os impetrantes argumentam, em síntese, a atipicidade da conduta dos pacientes ou, subsidiariamente, que a 5ª Turma do STJ aprecie a possibilidade da concessão de habeas corpus de ofício.
+ Requer a concessão liminar do presente habeas corpus, para que se impeça o trânsito em julgado da decisão impugnada. No mérito, requer o deferimento do writ.
+5.  Nesse contexto, não há que se cogitar de constrangimento ilegal em relação ao paciente, já que a decisão combatida está correta, pois incumbe ao agravante verificar se constam do instrumento todas as peças obrigatórias previstas em Lei.
+ É firme a jurisprudência do STF no sentido de que incumbe à parte agravante indicar as peças a serem trasladadas e também fiscalizar a correta formação do instrumento, por cuja deficiência responde, não se permitindo sua complementação após a subida dos autos a esta Corte.
+ Nesse sentido, destaco o julgamento do HC 85.831, rel. Min. Carlos Britto, 1ª Turma, DJ 29.08.2008, assim ementado:
+“HABEAS CORPUS. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA, QUE NÃO CONHECEU DO AGRAVO DE INSTRUMENTO ALI AJUIZADO. INSUFICIÊNCIA DO TRASLADO. INTELIGÊNCIA DO § 1º DO ART. 544 DO CPC.
+1. Não há ilegalidade ou abuso de poder a ser reparado na via processualmente contida do habeas corpus, se a decisão impugnada está embasada na legislação processual civil em vigor.
+2. A exigência de que o agravo de instrumento seja instruído com as peças enumeradas no § 1º do art. 544 do CPC não consubstancia excesso de formalismo. Ao contrário, está fundada na segurança jurídica em geral, e, em especial, das partes processuais.
+3. Ordem denegada”.
+6.  Além disso, verifico que o objeto suscitado no presente writ já foi submetido à apreciação desta Suprema Corte (HC 103.351/PR, de minha relatoria). Em 28.10.2010, não conheci do habeas corpus nos seguintes termos:
+“(...).
+Manifestação da Procuradoria-Geral da República pelo não-conhecimento da impetração, pois 'a discussão acerca dos pressupostos de admissibilidade recursal deve esgotar-se dentro do julgamento do próprio recurso, sendo inviável a utilização do remédio heróico para tal desiderato.
+Nesse contexto, não há que se cogitar de constrangimento ilegal em relação aos pacientes, já que a decisão combatida – decisão que não conheceu do agravo no STJ por deficiência na instrução ou a que negou seguimento ao recurso extraordinário em razão da inexistência de repercussão geral – está correta, pois incumbe ao agravante, além de verificar se constam do instrumento todas as peças obrigatórias previstas em Lei, observar os demais requisitos indispensáveis à admissibilidade recursal”.
+7.  Ante o exposto, não conheço do presente habeas corpus.
+ Publique-se.
+ Brasília, 11 de abril de 2011.
+Ministra Ellen Gracie
+Relatora
