@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“FUNCIONÁRIO PLÚBLICO EM ATIVIDADE - L1CENÇA-PRÊMIO - PAGAMENTO EM PECÚNIA - INADMISSIBILIDADE - VEDAÇÃO IMPOSTA PELA LC Nº 644/89, QUE EXPRESSAMENTE REVOGOU O ART. 215, DA LEI Nº 10.261/68, PROIBINDO A CONVERSÃO EM PECÚNIA DA LICENÇA PRÊMIO - LEI COMPLEMENTAR 857/99, QUE DEU NOVA REDAÇÃO AO ART. 213 DA LEI 10.261/68, APENAS AUTORIZANDO AS AUTORIDADES A TOMAREM MEDIDAS ADMINISTRATIVAS, SEGUNDO CRITÉRIO DE CONVENIÊNCIA E OPORTUNIDADE, PARA O NECESSÁRIO E OBRIGATÓRIO GOZO DA LICENÇA - PRÊMIO A QUE TENHA DIREITO O FUNCIONÁRIO - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO IMPROVIDO”. (fl. 91)
+No recurso extraordinário, o recorrente alega ofensa ao artigo 5º, XXXVI, da Constituição Federal.
+O agravante argumenta, em síntese, negativa de vigência de decisão desta Corte “que preserva o direito adquirido à conversão de licença-prêmio em pecúnia até a data de 20/05/99 por força do julgamento da ADIN 2.887-1”. (fl. 129).
+Sustenta, ainda, direito adquirido à referida conversão.
+Decido.
+Não assiste razão ao agravante.
+Na espécie, o acórdão recorrido está em sintonia com entendimento firmado pelo Plenário desta Corte, no julgamento da ADI 2.887/SP, Rel. Min. Marco Aurélio, segundo o qual é constitucional a vedação da conversão da licença-prêmio em pecúnia, ressalvado o direito adquirido. Confira-se a ementa desse julgado:
+“PROJETO - INICIATIVA - SERVIDOR PÚBLICO - DIREITOS E OBRIGAÇÕES. A iniciativa é do Poder Executivo, conforme dispõe a alínea 'c' do inciso II do § 1º do artigo 61 da Constituição Federal. PROJETO - COMPETÊNCIA PRIVATIVA DO EXECUTIVO - SERVIDOR DO ESTADO - EMENDA - AUMENTO DE DESPESA. Resultando da emenda apresentada e aprovada aumento de despesa, tem-se a inconstitucionalidade, consoante a regra do inciso I do artigo 63 da Constituição Federal. PROJETO - COMPETÊNCIA PRIVATIVA DO EXECUTIVO - EMENDA - POSSIBILIDADE. Se de um lado é possível haver emenda em projeto de iniciativa do Executivo, indispensável é que não se altere, na essência, o que proposto, devendo o ato emanado da Casa Legislativa guardar pertinência com o objetivo visado. PROJETO - COMPETÊNCIA DO EXECUTIVO - EMENDA - PRESERVAÇÃO DE DIREITO ADQUIRIDO. Emenda a projeto do Executivo que importe na ressalva de direito já adquirido segundo a legislação modificada não infringe o texto da Constituição Federal assegurador da iniciativa exclusiva. LICENÇA-PRÊMIO - TRANSFORMAÇÃO DA OBRIGAÇÃO DE FAZER EM OBRIGAÇÃO DE DAR - ALTERAÇÃO NORMATIVA - VEDAÇÃO - OBSERVÂNCIA. Afigura-se constitucional diploma que, a um só tempo, veda a transformação da licença-prêmio em pecúnia e assegura a situação jurídica daqueles que já tenham atendido ao fator temporal, havendo sido integrado no patrimônio o direito adquirido ao benefício de acordo com as normas alteradas pela nova regência”.
+Ademais, ressalta-se que o acordão recorrido entendeu que o agravante não tem direito adquirido, uma vez que a Lei Complementar 644/1989 já havia abolido a possibilidade de conversão da licença-prêmio em pecúnia.
+Ante exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
