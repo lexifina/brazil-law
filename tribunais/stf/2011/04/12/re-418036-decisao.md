@@ -1,0 +1,12 @@
+DECISÃO
+CONTRIBUIÇÃO SOCIAL – PRESTAÇÃO DE SERVIÇOS SEM VÍNCULO EMPREGATÍCIO – LEI COMPLEMENTAR Nº 84/96 – CONSTITUCIONALIDADE – PRECEDENTE DO PLENO – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+1. O Pleno, no julgamento do Recurso Extraordinário nº 228.321, relatado pelo Ministro Carlos Velloso, concluiu pela constitucionalidade do inciso I do artigo 1º da Lei Complementar nº 84/96, que implicou a instituição da contribuição social devida pelas empresas, relativamente ao que pago a quem não tem vínculo de emprego: os segurados, empresários, trabalhadores autônomos, avulsos, e demais pessoas naturais.
+Prevaleceu o entendimento de que a remissão contida na parte final do § 4º do artigo 195 da Constituição Federal ao artigo 154, inciso I, não alcança a proibição no tocante à identidade de fato gerador ou de base de cálculo, considerados os impostos.
+2. Diante do pronunciamento do Plenário, adotado por maioria de votos, estando ausentes justificadamente os Ministros Celso de Mello e Sydney Sanches, e restando vencidos eu próprio e o Ministro Sepúlveda Pertence, ressalvo a convicção pessoal sobre a matéria, buscando, com isso, evitar a divergência interna.
+Acresce que o Plenário, no Recurso Extraordinário nº 593.919-7/RJ, concluiu pela inexistência de repercussão geral do tema. Eis a ementa do acórdão, publicado no Diário da Justiça eletrônico de 2 de maio de 2009:
+CONSTITUCIONAL. CONTRIBUIÇÃO SOCIAL. COOPERATIVAS DE TRABALHO. ART. 1º, II, DA LC 84/96. QUESTÃO RESTRITA AO INTERESSE DAS PARTES. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+3. Nego seguimento ao extraordinário.
+4. Publiquem.
+Brasília, 12 de abril de 2011.
+Ministro MARCO AURÉLIO
+Relator
