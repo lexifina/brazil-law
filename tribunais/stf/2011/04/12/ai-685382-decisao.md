@@ -1,0 +1,9 @@
+DECISÃO
+EXECUÇÃO – FAZENDA – AUSÊNCIA DE TRÂNSITO EM JULGADO – INVIABILIDADE – JULGAMENTO DO RECURSO EXTRAORDINÁRIO NOS AUTOS DO AGRAVO DE INSTRUMENTO.
+1. Na interposição deste agravo, foram atendidos os pressupostos de recorribilidade. O agravante providenciou o traslado das peças obrigatórias e respeitou o prazo legal a que tem jus.
+A incidência do artigo 100 da Constituição Federal pressupõe a preclusão maior relativamente ao que decidido contra a Fazenda federal, estadual ou municipal. A cabeça do artigo refere-se a “pagamentos devidos”, pressupondo débito selado por decisão judicial transitada em julgado. Já o § 1º do citado artigo alude à inclusão, no orçamento da entidade de direito público devedora, de verba necessária ao pagamento do débito, sendo feita referência expressa a “sentenças transitadas em julgado” e a precatórios apresentados até 1º de julho. A conjunção aditiva salta aos olhos, considerado o título judicial já não mais atacável na via recursal e a apresentação do precatório, aí sim, até 1º de julho. O recurso extraordinário fez-se enquadrado no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. O fato de ter-se a demora na satisfação do precatório, verdadeiro descaso de autoridades constituídas quanto à necessidade de ser liquidado até o término do exercício seguinte ao ano em que expedido, não autoriza a colocação em segundo plano dos ditames constitucionais. Há de buscar-se o afastamento desse vezo com observância da legislação própria.
+2. Conheço e provejo o agravo, convertendo-o de imediato em recurso extraordinário, apreciando este último para também conhecê-lo e provê-lo, reformando o acórdão de folha 647 a 652, integrado pelo de folha 667 a 672, para julgar procedente o pedido formulado pelo agravante e assentar a impropriedade da execução provisória antes de transitar em julgado o título judicial.
+3. Publiquem.
+Brasília, 12 de abril de 2011.
+Ministro MARCO AURÉLIO
+Relator
