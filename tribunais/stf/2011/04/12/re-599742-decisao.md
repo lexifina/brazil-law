@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul. Acórdão assim ementado (fls. 161):
+“APELAÇÃO CÍVEL E REEXAME NECESSÁRIO – AÇÃO ORDINÁRIA – REVISÃO DE INCORPORAÇÃO DEFINITIVA – REENQUADRAMENTO DE SERVIDOR – LEI ESTADUAL N. 2.152, DE 26/10/2000 – DIREITO AO PAGAMENTO DE DIFERENÇA SALARIAL – RECURSOS IMPROVIDOS – SENTENÇA RATIFICADA.
+A transformação operada pela Lei Estadual n. 2.152, de 26/10/2000, da função gratificada em que se deu a incorporação definitiva da demandante, gera para esta direito à nova remuneração, já que as atribuições dos cargos que ocuparam continuam as mesmas com nova denominação”.
+2. Pois bem, a parte recorrente aponta violação ao art. 2º; aos incisos XXXV, XXXVI, LIV e LV do art. 5º; ao caput e inciso XV do art. 37; e ao inciso IX do art. 93 da Magna Carta de 1988.
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo não-conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. É que a controvérsia foi decidida centralmente à luz da legislação infraconstitucional pertinente. Nessa contextura, ofensa ao Magno Texto, se existente, apenas ocorreria de modo indireto ou reflexo, o que não autoriza a abertura da via extraordinária.
+5. De mais a mais, a afronta às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta nossa Casa de Justiça, de que é exemplo o AI 517.643-AgR, da relatoria do ministro Celso de Mello. Esta a ementa do julgado:
+“AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO art. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+- As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito , situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta , só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes”.
+6. No tocante à suposta violação ao art. 2º, ressalto que é firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo repeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+7. À derradeira, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
