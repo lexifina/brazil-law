@@ -1,0 +1,12 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça, assim ementado:
+“PROCESSO CIVIL. AGRAVO REGIMENTAL. A decisão que na, forma do artigo 328-A, § 1º, do RISTF, julga prejudicado o agravo de instrumento interposto contra a decisão que nega seguimento a recurso extraordinário não pode ser contrastada no âmbito do Superior Tribunal de Justiça; trata-se de decisão proferida no exercício de jurisdição delegada pelo Supremo Tribunal Federal, de modo que só este pode reformá-la. Agravo regimental não conhecido”. (fl. 879)
+No caso, o STJ decidiu de acordo com o entendimento firmado nesta Corte no RE-RG 598.365, Rel. Min. Ayres Britto, DJe 26.3.2010.
+Na Questão de Ordem no AI 760.358, de minha relatoria, DJe 3.12.2009, firmou-se o entendimento de que não cabe ao Supremo Tribunal Federal rever decisão que, na origem, aplica o disposto no art. 543-B do CPC. A referida decisão restou assim ementada:
+“Questão de Ordem. Repercussão Geral. Inadmissibilidade de agravo de instrumento ou reclamação da decisão que aplica entendimento desta Corte aos processos múltiplos. Competência do Tribunal de origem. Conversão do agravo de instrumento em agravo regimental. 1. Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, aplica decisão de mérito do STF em questão de repercussão geral. 2. Ao decretar o prejuízo de recurso ou exercer o juízo de retratação no processo em que interposto o recurso extraordinário, o tribunal de origem não está exercendo competência do STF, mas atribuição própria, de forma que a remessa dos autos individualmente ao STF apenas se justificará, nos termos da lei, na hipótese em que houver expressa negativa de retratação. 3. A maior ou menor aplicabilidade aos processos múltiplos do quanto assentado pela Suprema Corte ao julgar o mérito das matérias com repercussão geral dependerá da abrangência da questão constitucional decidida. 4. Agravo de instrumento que se converte em agravo regimental, a ser decidido pelo tribunal de origem”. (grifo nosso)
+Assim, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Baixem os autos, independentemente de publicação, para certificar o trânsito em julgado.
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
