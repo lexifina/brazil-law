@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo regimental interposto pelo Estado de Minas Gerais contra decisão monocrática que deu parcial provimento ao recurso extraordinário interposto.
+No caso, a decisão de fls. 433 determinou o sobrestamento do feito para se aguardar o julgamento do RE 573.540, de minha relatoria. Em data posterior à referida decisão monocrática, o Plenário desta Corte submeteu, por meio eletrônico, a questão constitucional, objeto deste extraordinário, à sistemática da repercussão geral. O Tribunal reconheceu a existência da repercussão geral da matéria suscitada (DJe 16.5.2008) e posteriormente, no exame de mérito do citado recurso, firmou o seguinte entendimento:
+“CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO.
+I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança.
+II - O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade.
+III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição.
+IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão 'regime previdenciário' não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos.” (RE 573.540, de minha relatoria, DJe 11.6.2010).
+Resta enfatizar que o Pleno do STF firmou, em questão de ordem, entendimento no sentido de que
+“ (...) também se aplica o disposto no art. 543-B do CPC aos recursos extraordinários interpostos de acórdãos publicados antes de 3.5.2007 e que vinculem tema em relação ao qual já foi reconhecida a existência e repercussão geral” (RE-AgR-QO 483.994, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.11.2008).
+Assim, esse procedimento, reiteradamente, vem sendo aplicado no âmbito deste Supremo Tribunal Federal, em casos análogos ao dos presentes autos.
+Ante o exposto, reconsidero a decisão impugnada e, em consequência, julgo prejudicado o agravo regimental e os embargos de declaração (art. 21, IX, RISTF), bem como determino a devolução dos autos ao tribunal de origem para que observe o disposto no artigo 543-B do Código de Processo Civil.
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
