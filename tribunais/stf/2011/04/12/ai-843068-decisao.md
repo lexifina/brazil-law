@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“Agravo interno. Medida cautelar de exibição de documentos, preparatória para eventual ação de cobrança referente aos expurgos inflacionários decorrentes dos planos econômicos denominados Bresser, Verão e Collor. Sentença de procedência com fixação de multa no valor de R$ 200,00 diários pela não apresentação dos documentos no prazo fixado. Apelo ofertado pelo réu cujo resultado foi o provimento parcial ao recurso, apenas para excluir a multa cominatória fixada. Agravo interno apreciado nesta oportunidade, ressaindo das razões recursais, a tentativa por parte do agravante de reabrir matéria de mérito, pretendendo a reforma da decisão sob a ótica que melhor lhe convém. Argumentos trazidos para nova apreciação que não ensejam modificação na decisão monocrática, que se encontra bem fundamentada, razão pela qual, NEGA-SE PROVIMENTO AO AGRAVO INTERNO” (fl. 275).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa ao artigo 5º, II e XXXVI, do texto constitucional.
+O recorrente alega, em síntese, violação ao princípio da legalidade, pois inexiste norma que determine a guarda dos extratos bancários do recorrido pelo período pretendido. E, ainda que assim não fosse, a legislação infraconstitucional aplicável ao caso (Resolução nº 2.078/94 e Circular nº 2.852, do BACEN) é expressa em determinar a inutilização dos documentos no prazo de 5 (cinco) anos.
+Ademais, afirma que, ao determinar a aplicação do CODECON (Código de Defesa do Consumidor) a fatos pretéritos, concedendo o benefício da inversão do ônus da prova, o acórdão recorrido teria violado o instituto do ato jurídico perfeito e o princípio da irretroatividade das leis.
+Decido.
+O recurso não merece prosperar.
+Preliminarmente, cumpre ressaltar que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolver a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+Ademais, a alegação de ofensa ao artigo 5º, XXXVI, da Carta Magna, no caso dos autos, não é suficiente para demonstrar a viabilidade do recurso extraordinário, tendo em vista que a discussão sobre a inversão do ônus da prova e a aplicação do Código de Defesa do Consumidor implica discussão sobre legislação infraconstitucional, sendo que eventual ofensa à Constituição seria indireta ou reflexa.
+Nesse sentido, cito os seguintes precedentes: AI-AgR 782.139, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.10.2010; AI-AgR 405.738, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 19.12.2002 e AI-AgR 617.306, Rel. Min. Sepúlveda Pertende, Primeira Turma, DJe 10.8.2007, este último com acórdão assim ementado:
+“Código de Defesa do Consumidor. Inversão do ônus da prova. Recurso extraordinário: descabimento: controvérsia decidida à luz da legislação infraconstitucional pertinente ao caso; a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, que não enseja reexame em recurso extraordinário: incidência, mutatis mutandis, do princípio da Súmula 636”.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
