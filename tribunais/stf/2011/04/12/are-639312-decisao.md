@@ -1,0 +1,17 @@
+D ECIS Ã O: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+“ADMINISTRATIVO - AÇÃO DE COBRANÇA - SERVIDOR CONTRATADO POR TEMPO DETERMINADO - PRETENSÃO DE RECEBIMENTO DE INDENIZAÇÃO DOS DEPÓSITOS DE FGTS E DEMAIS VERBAS PECUNIÁRIAS DE NATUREZA CELETISTA - RELAÇÃO ADMINISTRATIVA - VÍNCULO ESTATUTÁRIO - FÉRIAS E DÉCIMO TERCEIRO SALÁRIO - DIREITO CONSTITUCIONALMENTE GARANTIDO AOS SERVIDORES CONTRATADOS TEMPORARIAMENTE. - O servidor contratado por tempo determinado para atendimento de necessidade temporária de excepcional interesse da Administração Pública não faz jus aos valores de FGTS, nem tampouco às demais verbas salariais de natureza celetista porquanto tal direito não foi previsto no artigo 39, § 3º da CF/88 e na Lei Estadual que trata do contrato temporário. - Todavia, a alegação de contratação temporária do servidor, por períodos sucessivos, não autoriza que a Administração Pública deixe de cumprir com as obrigações constitucionais decorrentes da efetiva prestação de serviço, dentre elas o direito ao décimo terceiro salário e férias, sob pena de enriquecimento ilícito.” (fl. 213).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida. No mérito alega que houve ofensa aos artigos 1º; 18; e 37, caput, do Texto Constitucional.
+O agravante argumenta, em síntese, que o acórdão recorrido violou o princípio da legalidade ao fundamento de que não existe previsão constitucional para o pagamento de férias e 13º salário proporcionais.
+Decido.
+Não assiste razão ao recorrente.
+Quanto à alegação de violação ao artigo 37, caput, da Constituição, a ofensa a tal dispositivo, se existente, ocorreria apenas de forma reflexa ao texto constitucional.
+Nesse sentido, o Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolver a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+Sobre o tema, confiram-se o AI-AgR 525.060, Rel. Min. Ayres Britto, DJe 22.4.2005; e o AI 744.113, Rel. Min. Ricardo Lewandowski, DJe 26.6.2009, cuja ementa dispõe:
+“PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 5°, LIV, DA CONSTITUIÇÃO. OFENSA REFLEXA. NECESSIDADE DE EXAME DE MATÉRIA DE FATO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. INCIDÊNCIA. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). II - A alegada violação ao art. 5º, LIV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III - A análise do RE demanda o exame de matéria de fato, além da interpretação de cláusulas contratuais, o que inviabiliza o RE, a teor das Súmulas 279 e 454 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido.”
+Não há, pois, o que prover quanto às alegações do agravante.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
