@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário. O acórdão recorrido porta a seguinte ementa:
+“Apelação Cível - Policial Militar - Pedido de anulação de ato de expulsão com a consequente reintegração ao cargo - Higidez do processo administrativo - Independência das instâncias administrativa e penal - Limites da discricionariedade administrativa e controle pelo Poder Judiciário - Regularidade do ato – Julgamento antecipado da lide devidamente empreendido – Matéria eminentemente de direito - Recurso improvido” (fl. 362).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, LIV, LV e LVII, da mesma Carta.
+O agravo não merece acolhida. Isso porque para dissentir da conclusão adotada pelo acórdão recorrido, quanto à suposta violação à ampla defesa e ao contraditório no processo administrativo ao qual foi submetido o ora agravante, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+“ CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXONERAÇÃO. SERVIDORA PÚBLICA ESTÁVEL. PROCESSO ADMINISTRATIVO. ART. 5º, LV, DA CF. AMPLA DEFESA E CONTRADITÓRIO. SÚMULAS STF 279 E 280. 1. Para se concluir, como pretende a parte agravante, pela observância da garantia da ampla defesa e do contraditório, no processo administrativo disciplinar, que culminou com a exoneração da ora recorrida, servidora pública ocupante de cargo efetivo, seria necessário o reexame de legislação local e de fatos e provas (Súmulas STF 279 e 280), hipóteses inviáveis nesta via extraordinária. 2. Agravo regimental improvido” (AI 732.658-AgR/MA, Rel. Min. Ellen Gracie).
+“AGRAVO REGIMENTAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. PUNIÇÃO DISCIPLINAR. OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário o reexame das provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 235.282-AgR, Rel. Min. Joaquim Barbosa).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
