@@ -1,0 +1,19 @@
+D ECIS Ã O: Trata-se de mandado de segurança, com pedido liminar, impetrado por Wanderlei Ferreira dos Santos, em face do Presidente do CESPE e do Presidente do Tribunal Regional Eleitoral da Bahia, em razão de sua eliminação do concurso público para provimento de cargos do TRE/BA.
+O impetrante alega que se inscreveu para concorrer a uma das vagas destinadas ao cargo de Analista Judiciário. Afirma que logrou êxito na prova objetiva, mas não conseguiu alcançar a nota mínima para a aprovação em prova discursiva.
+Aduz a ocorrência de diversas ilegalidades na correção dos itens 2.2, 2.3 e 2.4 da prova discursiva.
+Sustenta que o CESPE não indicou os critérios utilizados para correção da referida prova, o que caracterizaria a subjetividade da correção, e que, no caso, seria necessário a elaboração de um roteiro com todas as informações que se esperava que o candidato incluísse em sua respostas e os valores que lhe seriam atribuídos.
+Requer a concessão de medida liminar para determinar a suspensão imediata da homologação do concurso em questão. No mérito pugna, em síntese, pela concessão definitiva da segurança para que a autoridade impetrada proceda à nova correção da prova discursiva.
+O processo foi encaminhado ao Supremo Tribunal Federal, tendo em vista que mais da metade dos membros do TRE/BA declaram-se suspeitos ou impedidos para o julgamento do feito.
+Decido.
+Primeiramente verifico a competência desta Corte para a apreciação da presente demanda nos termos previstos no art. 102, I, “n”, da Constituição Federal.
+A questão central do mandado de segurança refere-se à possibilidade de o Poder Judiciário reexaminar o conteúdo e os critérios de correção das questões formuladas pela banca examinadora.
+Inicialmente, verifico que não procede a alegação do impetrante de que o CESPE não teria especificado os critérios de correção, pois colhe-se do espelho da avaliação da prova discursiva (fl. 87) que os itens a serem avaliados foram devidamente especificados e pontuados.
+No mais, é pacífica a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário substituir a banca examinadora, a fim de reexaminar critérios de correção e conteúdo das questões formuladas. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).”
+(MS 27260, Rel. Min. AYRES BRITTO, Rel.p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao presente mandado de segurança e julgo prejudicado o pedido liminar (art. 10, da Lei 12.016/09).
+Publique-se.
+Brasília, 12 de abril de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
