@@ -1,0 +1,17 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão o qual cassou a tutela antecipada concedida para retomar os descontos na folha de pagamento do recorrente (fl. 163).
+2.  Nas razões do RE, sustenta-se ofensa aos arts. 1º, III, e 7º, X, da Constituição Federal.
+3.  Inadmitido o recurso na origem, subiram os autos em virtude do provimento do AI 676.897/RS.
+4.  O presente recurso não merece prosperar. A jurisprudência do Supremo Tribunal Federal, consolidada pela Súmula STF 735, assentou que não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares. Tais atos decisórios – precisamente porque fundados em mera verificação da ocorrência do periculum in mora – não veiculam qualquer juízo definitivo de constitucionalidade. Não se ajustam, em conseqüência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República.
+ A esse respeito cito o RE 263.038/PE, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 28.4.2000, AI 597.618-AgR/SP, rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 29.6.2007; AI 552.178-AgR/MG, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJ 28.11.2008; e AI 615.737/SP, rel. Min. Cármen Lúcia, Dje 26.8.2008, AI 734837-AgR/ES, de minha relatoria, DJe 25.10.2010, cuja ementa destaco:
+“DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO OU EXTENSÃO DE VANTAGENS. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ANTECIPAÇÃO DE TUTELA. SÚMULA STF 735. APLICAÇÃO NA HIPÓTESE. 1. Não cabe o apelo extremo contra decisão que concede ou indefere provimentos liminares. Súmula STF 735. 2. Agravo regimental improvido.”
+5.  Ademais, observo que os dispositivos constitucionais citados no RE não foram debatidos na instância de origem, e são inviáveis os embargos de declaração opostos para fins de prequestionamento quando a questão constitucional não tiver sido ventilada no recurso interposto perante o Tribunal a quo. Falta-lhe, pois, o necessário prequestionamento, nos termos da Súmula STF 282. Nesse sentido: RE 449.137-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.4.2008; AI 706.449-AgR/SC, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 07.11.2008; AI 631.711-AgR/BA, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 21.11.2008; AI 663.687-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 20.2.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. CABIMENTO DE MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento.
+2. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional. Ofensa constitucional indireta.
+3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+6.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 13 de abril de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
