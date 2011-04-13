@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve a sentença que condenou a União a averbar, na ficha funcional do ora agravante, tempo de serviço prestado, para fins de concessão de aposentadoria e disponibilidade.
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 102, III, § 2º, da mesma Carta.
+O agravo não merece acolhida.
+Observo que o Tribunal de origem considerou prequestionados todos os dispositivos indicados pelas partes, conforme se extrai do seguinte trecho:
+“Todavia, se assim quer o recorrente, dou expressamente por prequestionados todos os dispositivos indicados pelas partes nos presentes autos, para fins do art. 102, III, da Constituição Federal, respeitadas as disposições do art. 14, caput e parágrafos e art. 15, caput, da Lei nº 10.259, de 12.07.2001. A repetição dos dispositivos é desnecessária, para evitar tautologia” (fl. 11).
+Entretanto, embora a matéria tenha sido arguida na petição do recurso extraordinário, não consta dos autos cópia integral da petição do recurso inominado, o que impossibilita a aferição do necessário prequestionamento. Nesse sentido, anote-se:
+“EMENTA Agravo regimental no agravo de instrumento. Prequestionamento. Ausência de peça essencial. Precedentes. 1. Pacífica a jurisprudência desta Corte no sentido de que incumbe ao agravante instruir o agravo de instrumento não apenas com a cópia das peças obrigatórias indicadas de forma analítica pelo artigo 544, § 1º, do Código de Processo Civil, mas também com aquelas que se revelem essenciais para a compreensão da controvérsia. 2. Cabe ao agravante o ônus exclusivo de fiscalizar a formação do instrumento com o completo traslado das peças. A oportunidade para instruir o recurso é a de sua interposição. 3. A ausência das petições da apelação e dos embargos declaratórios impede, no caso, a verificação do prequestionamento do artigo 5º, inciso LV, da Constituição da República. Incidência das Súmulas nºs 288 e 356/STF. 4. Agravo regimental desprovido” (AI 705490 AgR/DF, Rel. Min. Menezes Direito, Primeira Turma).
+Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). Nesse sentido, menciono as seguintes decisões, entre outras: AI 451.502/SP e AI 489.998/DF, Rel. Min. Ellen Gracie; AI 209.987/SP, Rel. Min. Maurício Corrêa; AI 491.888/SP, Rel. Min. Carlos Velloso; AI 646.618/SP, Rel. Min. Gilmar Mendes.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 13 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
