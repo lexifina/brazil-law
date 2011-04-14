@@ -1,0 +1,25 @@
+D ECIS Ã O:
+Vistos.
+Valdir David de Oliveira interpõe agravo de instrumento contra a decisão (fls. 124 a 127) que não admitiu recurso extraordinário, assentado em contrariedade ao artigo 93, inciso IX, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça do Estado do Ceará no julgamento da Apelação Criminal nº 2008.0005.8399-1, assim ementado:
+“APELAÇÃO CRIME. PENAL. PROCESSUAL PENAL. - ABSOLVIÇÃO POR DÚVIDAS QUANTO À EXISTÊNCIA DO CRIME. IMPOSSIBILIDADE.
+1. Autoria delitiva devidamente comprovada nos autos através de provas idôneas colhidas no decorrer do processo.
+2. Os testemunhos judiciais dos policiais que fizeram o flagrante, que estão em perfeita sincronia com o apurado na fase extrajudicial nos dão a certeza tanto da autoria quanto da materialidade do delito, portanto não há como prosperarem os argumentos de falta de provas arguidos pela defesa do apelante.
+3. Quanto à credibilidade que se deve dar aos depoimentos policiais militares, nossos tribunais, assim vem entendendo, verbis: TJRS: Em face do sistema da livre convicção motivada, o testemunho de policial militar é apto a ser valorado pelo juiz, em confronto com os demais elementos de prova. Aliás, seria incoerente e contrário aos objetivos da ordem jurídica, o Estado legitimar servidores públicos a prevenir e reprimir atividades delituosas e negar-lhes credibilidade no momento de convocá-los a relatar suas atividades em juízo. Apelo improvido. (Apelação Crime nº 70018819086, Oitava Câmara Criminal, Tribunal de Justiça do RS, Relator: Marco Antônio Ribeiro de Oliveira, Julgado em 02/05/2007).
+4. Recurso improvido. Decisão unânime” (fl. 56).
+O agravante, nas razões do extraordinário, alega em breve síntese que “o magistrado encontra-se obrigado a fundamentar sua decisão, quanto ao grau da pena, quando o redutor usado não for mais benéfico ao réu” (fl. 92).
+Examinados os autos, decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07 (fl. 60), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+No caso, a irresignação não merece prosperar.
+A alegada violação do preceito constitucional citado carece do necessário prequestionamento, sendo certo que não foram opostos embargos declaratórios para sanar eventual omissão no julgado recorrido. Incidem, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+Ainda que assim não fosse, não há falar em violação do art. 93, inciso IX, da Constituição Federal, pois a jurisdição foi prestada, no caso em espécie, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão do ora agravante, tendo o juízo a quo, como se observa na sentença e no acórdão proferidos, justificado suas razões de decidir.
+É que o artigo 93, inciso IX, da Constituição, não exige que o órgão judicante se manifeste sobre todos os argumentos de defesa, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Como se não bastasse, entender de forma contraria ao acórdão recorrido, como pretendido, demandaria um reexame aprofundado do contexto fático-probatório dos autos, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+Perfilhando esse entendimento, destaco o seguinte julgado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. REEXAME DE FATOS E PROVAS. SÚMULA 279. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. As razões recursais trazem questões constitucionais cuja análise implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida, o que é vedado pela Súmula 279 desta Corte. A alegação de violação do art. 5º, LIV e LV, da Constituição Federal trata de matéria cuja suposta violação demandaria o exame prévio da legislação infraconstitucional, no caso, do Código de Processo Penal, de modo que se trata de hipótese de ofensa indireta ou reflexa ao texto constitucional. Precedentes. Decisão mantida por seus próprios fundamentos. Agravo regimental a que se nega provimento” (AI nº 753.579/RS-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 12/4/11).
+Com essas considerações, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 14 de abril de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
