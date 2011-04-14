@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de São Paulo, que afastou a possibilidade de se conceder efeito suspensivo aos embargos à execução hipotecária, ante a inobservância do art. 5º da Lei 5.741/1971, lei especial em relação às regras gerais do Código de Processo Civil.
+Sustenta-se, em síntese, a violação dos arts. 5º, XXII, XXIII, XXXII, XXXV e LIV e 6º da Constituição.
+O recurso extraordinário versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da contraminuta ao agravo de instrumento, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+“- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+Agravo a que se nega provimento.”
+Mesmo que assim não fosse, a análise das apontadas violações constitucionais requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Em casos semelhantes, confiram-se: AI 791.066 (rel. min. Ellen Gracie, DJe de 08.06.2010); RE 575.881 (rel. min. Cezar Peluso, DJe de 17.03.2010); AI 736.202 (rel. min. Eros Grau, DJe de 17.03.2010); AI 608.163 (de minha relatoria, DJe de 11.06.2010).
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 14 de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
