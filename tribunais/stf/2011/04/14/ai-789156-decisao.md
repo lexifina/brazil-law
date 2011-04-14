@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. HOMOLOGAÇÃO DE PLANO DE RECUPERAÇÃO JUDICIAL OU DESIGNAÇÃO DE NOVA ASSEMBLÉIA. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA PRESTAÇÃO JURISDICIONAL, DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça de São Paulo julgou agravo de instrumento, nos termos seguintes:
+“RECUPERAÇÃO JUDICIAL – PLANO DE RECUPERAÇÃO REJEITADO PELA ASSEMBLÉIA GERAL DE CREDORES – PRETENSÃO A QUE SEJA HOMOLOGADO O PLANO OU DESIGNADA NOVA ASSEMBLÉIA – INADMISSIBILIDADE – AUSÊNCIA DOS REQUISITOS PREVISTOS NO § 1º, INCISOS I, II E III, E § 2º DO ART. 58 DA LEI N. 11.101/2005 – MATÉRIA NÃO SUJEITA AO PODER DISCRICIONÁRIO DO JUIZ – RECURSO IMPROVIDO” (fl. 381).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+4. A Agravante argumenta que:
+“o tema constitucional foi exposto no agravo de instrumento, nos embargos de declaração e no recurso extraordinário, tanto que houve considerações claras e inequívocas por parte do E. Tribunal de Justiça, ‘in verbis’: (...).
+Vale ressaltar que a Agravante também opôs embargos de declaração para que fossem elucidados os pontos prequestionados pela mesma, no entanto, tal discurso fora rejeitado, sob o fundamento de que apoiou-se em normas legais pertinentes ao deslinde da questão” (fl. 24).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXIV, alínea a, XXXV, LIV e LV, 170, inc. II, 171, 173, 175, 176, 177, 178 e 179 da Constituição.
+Sustenta, em síntese, que:
+“ao Magistrado compete julgar e decidir sobre o plano de recuperação judicial, especialmente, quando os próprios credores concordaram que a empresa é economicamente viável, pois, do contrário, restará patente a violação ao inciso XXXIV, alínea ‘a’ c.c. XXXV, mormente quando houve parecer favorável tanto do Administrador Judicial quanto do Ministério Público para a homologação do plano de recuperação judicial da ora recorrente” (fl. 435).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Inicialmente, cumpre afastar o óbice imposto pela decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, a matéria constitucional posta à apreciação foi suscitada em momento procedimentalmente adequado.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+6. O Desembargador Relator observou que:
+“Não comporta acolhida o reclamo recursal, em que pese o esforço argumentativo de seu digno patrono. Uma vez rejeitado o plano, o juiz somente poderá conceder recuperação judicial se satisfeitos, cumulativamente, os requisitos previstos no § 1º, incisos I, II e III, e § 2º do art. 58 da Lei n. 11.101/2005. ‘In verbis’: (...).
+O entendimento no sentido de que o juiz não dispõe de discricionariedade para conceder a recuperação judicial sem a aprovação da assembléia-geral (com a exceção referida na decisão agravada) ajusta-se perfeitamente à lei de regência.
+Na hipótese em exame, a assembléia geral, por duas vezes convocada, houve por bem rejeitar, à unanimidade dos credores presentes, o plano elaborado pela recuperanda” (fls. 382-383).
+Conforme se verifica, concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (Lei n. 11.101/2005). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA OFENSA AO ART. 5º, XXXV, LIV E LV, DA CF. COISA JULGADA. TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA NO PROCESSO FALIMENTAR. OFENSA INDIRETA. FATOS E PROVAS. SÚMULA STF 279. 1. Necessidade do revolvimento de matéria fático-probatória (Súmula STF 279) e de legislação infraconstitucional (CPC e Lei de Falência) para se concluir pela afronta à Constituição Federal. 2. Agravo regimental a que se nega provimento” (AI 785.717-AgR, Rel. Min. Ellen Gracie, Segunda Turma, Dje 8.2.2011 – grifei).
+7. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011 – grifei).
+Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento a este agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 14 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
