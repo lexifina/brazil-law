@@ -1,0 +1,10 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 448):
+“RESPONSABILIDADE CIVIL – CUMULAÇÃO DE INDENIZAÇÕES DE CARÁTER CIVIL E PREVIDENCIÁRIO – SUA APLICAÇÃO À RESPONSABILIDADE OBJETIVA – VIABILIDADE. Com o advento da Constituição Federal de 1988, não mais existem impedimentos à cumulação de indenizações de caráter civil e previdenciário, entendimento este também aplicável à responsabilidade objetiva, pois a redação de seu art. 7°, inciso XXVII (dela, Constituição), nada especifica a respeito, tanto que só menciona a necessidade ocorrência de dolo ou culpa. É irrelevante que o Poder Público já tenha compensado seu servidor, concedendo-lhe a aposentadoria com proventos integrais, em decorrência de acidente de serviço, pois, nada impede que, além da aposentadoria, obtenha também indenização por dano moral, eis que esta última não está abrangida naquela. Assim, se 'exempli gratia' o servidor era piloto de avião e teve ceifado o seu antebraço, a indenização por dano moral é devida, ainda que reimplantado o antebraço, já que ficou impossibilitado de exercer a profissão, por perda de sua capacidade laborativa, redução da mobilidade e destreza.”
+2. Pois bem, a parte recorrente alega violação ao § 6º do art. 37 da Carta Magna de 1988. Sustenta, em síntese, “a inexistência de responsabilidade do Estado de Minas Gerais pelo evento danoso em razão da culpa exclusiva do Autor, gerando a falta de pressuposto para a condenação imposta” (fls. 534).
+3. Tenho que a insurgência não merece acolhida. É que, para se chegar a entendimento diverso do adotado pela instância judicante de origem, seria imprescindível rever a moldura fática delineada no acórdão impugnado. Providência que não tem lugar neste momento processual, conforme a Súmula 279/STF.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 14 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
