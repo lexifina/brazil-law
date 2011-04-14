@@ -1,0 +1,28 @@
+Trata-se de ação cautelar, com pedido de medida liminar, proposta por Sulamar Pereira Maciel, com objetivo de atribuir efeito suspensivo ao Recurso Ordinário em Mandado de Segurança 30.401/DF.
+Narra a requerente, servidora pública federal, que impetrou, perante o Superior Tribunal de Justiça, mandado de segurança, com pedido de liminar, contra ato do Ministro de Estado do Desenvolvimento Agrário, consubstanciado na determinação de sua suspensão por 15 (quinze) dias (Portaria 12, de 17/2/2006), pela prática das infrações administrativas insculpidas nos incisos I e III do art. 116 da Lei 8.112/1990, “no âmbito do Contrato DF/24008/98, de prestação de serviços de publicidade, celebrado entre o Instituto Nacional de Colonização e reforma Agrária – INCRA e a empresa Casablanca Comunicação e Marketing Ltda”.
+Nesse writ, sustentou a ocorrência da prescrição da pretensão punitiva estatal, pois “da data de 11 de setembro de 2000 até o dia 01 de fevereiro de 2004, data da instauração do processo administrativo disciplinar de nº 54.000.002155/2004-41, já haviam se passados mais de 04 (quatro) anos, 02 (dois) meses e 29 (vinte e nove) dias”.
+O Ministro Hélio Quaglia Barbosa, em 7/4/2006, deferiu a liminar pleiteada.
+No mérito, por unanimidade, a Terceira Seção do STJ denegou a segurança, em acórdão assim ementado:
+“MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDORA PÚBLICO FEDERAL. ATO IMPUGNADO. PORTARIA. LEGITIMIDADE DO MINISTRO DE ESTADO RESPONSÁVEL PELA SUA EDIÇÃO. PENALIDADE DE SUSPENSÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA ESTATAL. NÃO OCORRÊNCIA. PROCESSO ADMINISTRATIVO DISCIPLINAR. OBSERVÂNCIA DO PRAZO DE 140 DIAS PARA CONCLUSÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. SINDICÂNCIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NÃO OCORRÊNCIA. TERMO DE INDICIAMENTO. VÍCIO. AUSÊNCIA.
+1. Tem legitimidade para figurar no polo passivo do writ o Ministro de Estado responsável pela edição da Portaria impugnada na inicial do mandamus .
+2. É cabível a interrupção da prescrição, em face da instauração de sindicância, somente quando este procedimento sumário tiver caráter punitivo e não meramente investigatório ou preparatório de um processo disciplinar, pois, neste caso, dar-se-á a interrupção somente com a instauração do processo administrativo disciplinar, apto a culminar na aplicação de uma penalidade ao servidor.
+3. De acordo com jurisprudência consolidada deste Superior Tribunal de Justiça, o prazo legal para término do processo administrativo disciplinar é de 140 (cento e quarenta) dias.
+4. A contagem do prazo prescricional, após a interrupção prevista no art. 142, § 3º, da Lei nº 8.112/90, deve ser retomada, por inteiro, a partir do término do prazo de interrupção.
+5. Afasta-se a ocorrência de prescrição da pretensão punitiva estatal se, no momento da aplicação da pena de suspensão, ainda não tiverem transcorridos dois anos, contados a partir do fim do prazo de interrupção previsto no 142, § 3º, da Lei nº 8.112/90.
+6. Nos termos da jurisprudência desta Corte, não há falar em vício no termo de indiciamento, quando há a descrição clara das condutas imputadas ao servidor e o detalhamento dos fatos ocorridos.
+7. Segurança denegada”.
+Irresignada, a requerente interpôs recurso ordinário, que, nesta Corte, recebeu o número 30.401/DF. Requer seja-lhe atribuído efeito suspensivo, reiterando os argumentos apresentados no writ, sob a alegação de que
+“a fumaça do bom direito, justificadora da concessão da liminar requerida se faz presente tendo em vista que a própria liminar já fora deferida no MS 11.644/STJ, além do fato de que tal entendimento deve ter a posição esclarecida pelo STF”.
+Sustenta, ademais, que se encontra na iminência de sofrer prejuízos irreparáveis e que “a eventual reforma do acórdão em questão por parte do STF não terá o condão de restabelecer o status quo que a mesma possuía, quando exercia normalmente suas funções”.
+Por fim, pugna pela concessão da medida liminar a fim de que se determine ao requerido que se abstenha de efetivar a suspensão da requerente, bem como de efetuar qualquer desconto em sua remuneração, até o julgamento final do RMS 30.401/DF e, no mérito, pela procedência da ação no sentido de garantir o provimento da medida liminar.
+É o relatório.
+Passo a decidir.
+Em uma análise perfunctória dos autos, própria deste momento processual, verifico que não estão presentes um dos requisitos ensejadores da concessão da medida liminar.
+A atribuição de efeito suspensivo a este recurso pressupõe também a plausibilidade jurídica da pretensão veiculada em suas razões, o que , no caso, não se vislumbra.
+Isso porque o acórdão recorrido não divergiu do entendimento firmado pelo Plenário desta Corte no julgamento do MS 23.299/PR, Rel. Min. Sepúlveda Pertence, cuja ementa transcrevo:
+“I. Cassação de aposentadoria pela prática, na atividade, de falta disciplinar punível com demissão (L. 8.112/90, art. 134): constitucionalidade, sendo irrelevante que não a preveja a Constituição e improcedente a alegação de ofensa do ato jurídico perfeito. II. Presidente da República: competência para a demissão de servidor de autarquia federal ou a cassação de sua aposentadoria. III. Punição disciplinar: prescrição: a instauração do processo disciplinar interrompe o fluxo da prescrição, que volta a correr por inteiro se não decidido no prazo legal de 140 dias, a partir do termo final desse último. IV. Processo administrativo-disciplinar: congruência entre a indiciação e o fundamento da punição aplicada, que se verifica a partir dos fatos imputados e não de sua capitulação legal” (grifos meus).
+Isso posto, indefiro o pedido de medida liminar.
+Publique-se.
+Brasília, 14 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
