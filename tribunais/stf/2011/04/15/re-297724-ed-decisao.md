@@ -1,0 +1,19 @@
+Trata-se de embargos de declaração opostos contra decisão que deu parcial provimento ao recurso extraordinário para afastar a contagem especial de tempo de serviço prestado em condições insalubres no regime estatutário.
+O embargante sustenta, em suma, que esta Corte, no julgamento do MI 721/DF, admitiu a possibilidade de contagem especial de tempo de serviço exercido por servidor estatutário em condições insalubres.
+Em homenagem ao princípio da economia processual e em virtude do caráter infringente destes embargos de declaração, recebo o recurso como agravo regimental.
+Assiste razão ao agravante. Reconsidero a decisão de fl. 341-342 e passo à análise do recurso extraordinário.
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu válida a contagem especial de tempo de serviço exercido por servidor público estatutário em condições insalubres e deferiu-lhe o direito à aposentadoria especial, não obstante a omissão legislativa na regulamentação do § 1º do 40 da Constituição Federal.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II, XXXVI e LXIX, 37, 38, § 1º, e 40, III e § 1º, da mesma Carta.
+A pretensão recursal não merece acolhida.
+É que o Plenário do Supremo Tribunal Federal firmou a orientação no sentido de que, se inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral (art. 57, § 1º, da Lei 8.213/1991), conforme se observa de trecho da ementa do MI 1.083/DF, Rel. Min. Marco Aurélio, abaixo transcrito:
+“(...)
+APOSENTADORIA - TRABALHO EM CONDIÇÕES ESPECIAIS - PREJUÍZO À SAÚDE DO SERVIDOR - INEXISTÊNCIA DE LEI COMPLEMENTAR - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral - artigo 57, § 1º, da Lei nº 8.213/91.
+APOSENTADORIA ESPECIAL - SERVIDOR PÚBLICO - TRABALHO EM AMBIENTE INSALUBRE - PARÂMETROS. Os parâmetros alusivos à aposentadoria especial, enquanto não editada a lei exigida pelo texto constitucional, são aqueles contidos na Lei nº 8.213/91, não cabendo mesclar sistemas para, com isso, cogitar-se de idade mínima”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: MI 758-ED/DF e MI 721/DF, Rel. Min. Marco Aurélio; MI 1.286/DF e MI 795/SP, Rel. Min. Cármen Lúcia; MI 788/DF, Rel. Min. Ayres Britto.
+Por oportuno, destaco, ainda, precedente específico sobre a questão em exame:
+“CONSTITUCIONAL E ADMINISTRATIVO. APOSENTADORIA ESPECIAL. ATIVIDADE INSALUBRE. SERVIDORA DISTRITAL. JURISPRUDÊNCIA CONSOLIDADA: MANDADOS DE INJUNÇÃO 721/DF E 758/DF. 1. Eventual alteração de regime funcional da ora agravada, bem como o fato de ter sido servidora distrital, não impedem a aplicação da jurisprudência do Supremo Tribunal Federal (Mandados de Injunção 721/DF e 758/DF), ainda que considerado o disposto no art. 40, § 1º, da Constituição da República, o qual, por si só, também não elidiria a incidência dos citados precedentes. 2. Os julgados citados na decisão recorrida, porque proferidos pelo Plenário desta Corte, nos autos do MI 721/DF e do MI 758/DF, todos da relatoria do Min. Marco Aurélio, pub. DJE 30.11.2007 e 26.09.2008, respectivamente, traduzem a jurisprudência dominante do Supremo Tribunal Federal sobre a matéria aqui discutida, o que faz incidir o disposto no art. 557, caput, do CPC, não havendo falar que os efeitos daquelas decisões somente seriam inter pars. 3. Agravo regimental improvido” (RE 238.591-AgR/DF, Rel. Min. Ellen Gracie).
+Isso posto, reconsidero a decisão de fl. 341-342 e nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+Publique-se.
+Brasília, 15 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
