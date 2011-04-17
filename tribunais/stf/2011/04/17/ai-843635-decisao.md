@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. MILITAR. IMPOSSIBILIDADE DE EQUIPARAÇÃO AOS VENCIMENTOS DE SERVIDOR DA MESMA CATEGORIA POR MEIO DE DECISÃO JUDICIAL. ISONOMIA. SÚMULA N. 339 DO SUPREMO TRIBUNAL FEDERAL.  AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inciso III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“APELAÇÃO CÍVEL. ADMINISTRATIVO E CONSTITUCIONAL. POLICIAIS MILITARES DO ESTADO. ISONOMIA SALARIAL. Pretensão de servidores militares do Estado de equiparação remuneratória com servidor outro que obteve judicialmente os reajustes concedidos pela LC nº 10.395/95, enquanto o pedido pelos primeiros ajuizado foi julgado improcedente. Inviável o reconhecimento de isonomia salarial a servidores cujas remunerações se diferenciam por causas alheias ao administrador público; mas, sim, em conseqüência de decisão judicial. Pedido de equiparação que, ainda, se mostra vedado constitucionalmente (art. 37, inciso XIII, da CF). Patente a impossibilidade de o Judiciário, sob pretexto de isonomia, conceder aumentos ao funcionalismo público (enunciado sumular nº 339 do Supremo Tribunal Federal). Precedentes jurisprudenciais. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. APELO DESPROVIDO” (fl. 26).
+3. No recurso extraordinário, os Agravantes afirmam que o Tribunal a quo teria contrariado os arts. 5º, caput, e 37, caput, da Constituição da República.
+Argumentam que “a pretensão do[s] Recorrente[s] em ter[em] equiparados seus vencimentos básicos aos do paradigma, ou melhor, aos vencimentos dos demais servidores ocupantes do mesmíssimo cargo que tiveram incorporados aos seus vencimentos os índices de reajuste concedidos pela Lei Estadual n. 10.395/95 é medida que se impõe” (fl. 38).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de o acórdão recorrido estar em harmonia com a jurisprudência do Supremo Tribunal Federal e a incidência da Súmula n. 339 (fls. 57-58).
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal assentada na Súmula n. 339, segundo a qual:
+“Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia”.
+Confiram-se, ainda, os seguintes julgados:
+“RECURSO EXTRAORDINÁRIO. SERVIDORES DO INSTITUTO DE PESOS E MEDIDAS DO MUNICÍPIO DE FORTALEZA. ISONOMIA. SÚMULA 339 DESTE SUPREMO TRIBUNAL. EXAME DE NORMA LOCAL. AGRAVO REGIMENTAL DESPROVIDO” (RE 459.672-AgR, de minha relatoria, Primeira Turma, DJ 7.12.2006).
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL MILITAR ESTADUAL. EQUIPARAÇÃO SALARIAL COM OUTROS MILITARES DE MESMA GRADUAÇÃO QUE, EM DECORRÊNCIA DE ÊXITO EM DEMANDA JUDICIAL TRANSITADA EM JULGADO, OBTIVERAM REAJUSTES REMUNERATÓRIOS COM BASE NA LEI ESTADUAL 10.395/1995. INCIDÊNCIA DA SÚMULA 339/STF. 1. É de se aplicar ao caso a Súmula 339/STF, que dispõe ser vedado ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia. 2. Agravo regimental desprovido” (RE 575.936-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 8.10.2010).
+“Servidor público do Município de Fortaleza: agentes fiscais de urbanismo: gratificação denominada Retribuição Adicional Variável - RAV: isonomia: inadmissibilidade de equiparação por decisão judicial, sob o fundamento de identidade de atribuições: independentemente de similitude ou não das funções comparadas, o direito à isonomia de vencimentos só se efetiva por expressa previsão legal: incidência da Súmula 339. Precedentes” (RE 423.877-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19.5.2006 ).
+“REMUNERAÇÃO FUNCIONAL - EXCLUSÃO DE BENEFÍCIO - PRETENDIDA EXTENSÃO JURISDICIONAL, A SERVIDOR PRETERIDO, DE DETERMINADA VANTAGEM PECUNIÁRIA - INADMISSIBILIDADE - RESERVA DE LEI E POSTULADO DA SEPARAÇÃO DE PODERES - AGRAVO IMPROVIDO. - O Poder Judiciário - que não dispõe de função legislativa - não pode conceder, a servidores públicos, sob fundamento de isonomia, mesmo que se trate de hipótese de exclusão de benefício, a extensão, por via jurisdicional, de vantagens pecuniárias que foram outorgadas, por lei, a determinada categoria de agentes estatais.
+- A Súmula 339 do Supremo Tribunal Federal - que consagra específica projeção do princípio da separação de poderes - foi recebida pela Carta Política de 1988, revestindo-se, em conseqüência, de plena eficácia e de integral aplicabilidade sob a vigente ordem constitucional. Precedentes” (AI 273.561-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 4.10.2002).
+Nada há a prover quanto às alegações dos Agravantes.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
