@@ -1,0 +1,24 @@
+Trata-se de reclamação constitucional, com pedido liminar, ajuizada pela Empresa Brasileira de Correios e Telégrafos - ECT, contra decisão proferida pelo Tribunal Superior do Trabalho que, nos autos da ação 31840-04.2008.5.22.0004, teria desrespeitado o quanto decidido no acórdão proferido na ADI 3.395/DF, Rel. Min. Cezar Peluso.
+    A reclamante sustenta, em síntese, que a competência para processar o feito seria da Justiça comum, uma vez que a controvérsia posta nos autos versa sobre anulação de contratos administrativos e não típica relação trabalhista.
+    Aduz, nesse sentido, que:
+    “Diante do pedido formulado pelo próprio Sindicato laboral debate-se, exclusivamente, a necessidade, ou não, de realização de contratação temporária de mão-de-obra ou de contratação da prestação de serviço de transporte de carga postal, discussão essa de caráter eminentemente jurídico-administrativo-constitucional”.
+    Pugnou, inicialmente, pelo deferimento de medida liminar e, no mérito, pela procedência da reclamação.
+    Indeferi o pleito liminar em 31/7/2012.
+    A Procuradoria Geral da República manifestou-se pela improcedência da reclamação.
+    É o relatório. Decido.
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida, pois o pedido formulado pela reclamante não se enquadra em nenhuma das duas hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, seja para preservar a competência da Suprema Corte, seja para garantir a autoridade de suas decisões.
+    A reclamação utiliza como paradigma a decisão proferida por esta Corte na ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, que porta a seguinte ementa:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Observa-se que, no referido julgamento, o Plenário desta Casa determinou o afastamento de qualquer interpretação dada ao art. 114, I, da Constituição Federal, que inclua na competência da Justiça do Trabalho as causas instauradas entre o Poder Público e servidor que lhe esteja vinculado por relação jurídico-estatutária.
+    Ocorre que, no caso dos autos, a ação intentada na Justiça trabalhista não tem como pano de fundo causa entre a Administração Pública e servidor a ela vinculado.
+    A demanda proposta pelo Sindicato dos Empregados na Empresa Brasileira de Telégrafos – Sintect/PI contra a Empresa Brasileira de Correios e Telégrafos – ECT busca anular os contratos formalizados pela reclamante com prestadores de serviços, sob a alegação de que a terceirização de serviços afetos a sua atividade-fim é ilícita, pois estes somente podem ser prestados por empregados públicos previamente aprovados em concurso público.
+    Com efeito, a ilegalidade na terceirização de serviços no âmbito de empresa pública federal não foi objeto de decisão da ADI 3.395-MC/DF.
+    Ademais, vale salientar o que restou consignado por esta Corte por ocasião do julgamento da Rcl 6.534-AgR/MA, Rel. Min. Celso de Mello:
+    “Os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal”.
+    Não se pode, assim, ampliar o alcance da reclamação, sob pena de transformá-la em verdadeiro sucedâneo ou substitutivo de recurso, ajuizada diretamente no órgão máximo do Poder Judiciário. Nesse sentido: Rcl 4.713/SC, de minha relatoria; Pet 2.847, Rel. Min. Carlos Velloso; Rcl 2.279/MA, Rel. Min. Ellen Gracie; Rcl 2.481/MS, Rel. Min. Carlos Velloso; Rcl 968/DF, Rel. Min. Marco Aurélio; e Rcl 13.803/DF, Rel. Min. Rosa Weber.
+    Assim, ante a ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados da ADI 3.395-MC/DF, não merece seguimento a pretensão ora deduzida pelo reclamante.
+    Isso posto, nos termos do art. 161, parágrafo único, do RISTF, nego seguimento a esta reclamação, ficando prejudicado, por conseguinte, o exame do agravo regimental interposto.
+    Publique-se.
+    Brasília, 17 de abril de 2013.
+Ministro Ricardo Lewandowski
+Relator
