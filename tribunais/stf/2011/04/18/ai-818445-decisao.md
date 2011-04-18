@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ACÓRDÃO RECORRIDO FUNDAMENTADO EM INCIDENTE DE INCONSTITUCIONALIDADE. NECESSIDADE DA JUNTADA DE SUA CÓPIA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça de Sergipe julgou apelação em execução fiscal, nos termos seguintes:
+“Apelação Cível. Execução Fiscal. Extinção sem resolução do mérito. Incompetência tributária do Município de Aracajú para cobrar IPTU referente aos imóveis situados no Povoado do Mosqueiro. Inconstitucionalidade declarada no Incidente n. 0001/2000 (Acórdão 2.696/00). Aplicação da Emenda Constitucional n. 57/2008. Não cumprimento dos requisitos expostos na Carta Magna nem tampouco na legislação Estadual. Decisão de primeiro grau confirmada. Pretensão recursal não acolhida.
+O art. 37 e parágrafos do Ato das Disposições Constitucionais Transitórias da Constituição do Estado de Sergipe foram declarados inconstitucionais no incidente de n. 0001/2000 (Acórdão do Tribunal Pleno n. 2696/00), por cuidar de demarcação de limites entre os Municípios de São Cristóvão e Aracaju sem observância da consulta prévia às populações locais envolvidas, exigência do § 4º do art. 18 da Constituição Federal.
+A Emenda Constitucional n. 57/2008 convalida os atos de criação, fusão, incorporação e desmembramento de Municípios, desde que atendidos os requisitos estabelecidos na legislação estadual.
+O inciso V do art. 46 da Constituição Estadual estabelece que para que ocorra a fusão, criação, incorporação e o desmembramento de municípios mister obedecer as seguintes etapas: consulta prévia, mediante plebiscito, às populações dos municípios envolvidos, após divulgação dos estudos de viabilidade Municipal, apresentados e publicados, tudo na forma da lei, o que foi descumprido pelo Município.
+Estando, assim, o Povoado do Mosqueiro situado na circunscrição do Município de São Cristóvão, o que implica, conseqüentemente, na inexistência de crédito fiscal constituído pelo Município de Aracaju em razão de IPTU incidente sobre os imóveis daquela localidade. Sentença de primeiro grau confirmada. Recurso conhecido e improvido” (fls. 79-80).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o então Recorrente não teria anexado aos autos “o inteiro teor do julgamento do Incidente de Inconstitucionalidade n. 0001/2000 desta Corte Estadual” (fl. 169 v.).
+4. O Agravante argumenta que:
+“ressoa inevitável a reforma desta decisão que inadmitiu o apelo extremo manejado (...), uma vez que o incidente de inconstitucionalidade n. 01/2000 não consubstancia a fundamentação da sentença e do acórdão recorrido, e, sim, o mesmo é reportado ao caso como argumento, não possuindo o condão de impedir que o julgador proferisse decisão em sentido diverso, seja porque não é, de plano, a fundamentação do ‘decisum’ (e, sim, o art. 18 da Constituição Federal, com a análise dos seus requisitos formais), seja porque seus efeitos alcançam somente as partes da demanda a qual lhe deu causa” (fl. 4).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. LV, e 18, § 4º, da Constituição e art. 96 (alterado pela Emenda Constitucional n. 57/2008) do Ato das Disposições Constitucionais Transitórias – ADCT.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+O Desembargador Redator para o acórdão observou que:
+“O Egrégio Tribunal de Justiça ao apreciar o Incidente de Inconstitucionalidade tombado sob o n. 0001/2000 posicionou-se com o seguinte teor: (...).
+Com fulcro nesse precedente é que a sentença combatida reconheceu a ausência de competência tributária do Município de Aracaju para a instituição e cobrança do IPTU dos imóveis localizados naquele povoado. Ou seja, qualquer ato administrativo ou normativo que apóie sua validade no art. 37, ‘caput’ e §§ 1º e 2º da Constituição Estadual também estará eivado de inconstitucionalidade, conseqüentemente, não mais produzindo efeitos.
+(...)
+Nesse contexto, portanto, imperativo afirmar que o Povoado do Mosqueiro, ainda pertence ao Município de São Cristovão/SE, sendo inválida a remarcação territorial do art. 37 da Constituição Estadual, tendo em vista que não foram cumpridos os requisitos estabelecidos na legislação estadual.
+Ante o exposto, conheço do recurso, mas para lhe negar provimento, confirmando a decisão proferida pelo Juízo de primeiro grau que extinguiu a Execução Fiscal” (fls. 82-83 e 86).
+Conforme se verifica, o Grupo IV da Segunda Câmara Cível do Tribunal de Justiça de Sergipe utilizou-se do Incidente de Inconstitucionalidade n. 1/2000, julgado pelo mesmo Tribunal, para fundamentação do acórdão recorrido.
+O Supremo Tribunal Federal assentou a necessidade de juntada de cópia do incidente de inconstitucionalidade que serve de fundamento ao acórdão recorrido, para demonstração do prequestionamento do tema em caso de interposição do recurso extraordinário com base na alínea a do inc. III do art. 102 da Constituição, e esse requisito não foi cumprido pelo Agravante. Incide na espécie a Súmula n. 282 deste Supremo Tribunal.
+Nesse sentido:
+“RE: incidência das Súmulas 282 e 356: acórdão recorrido que, sem motivação própria, aplicou à espécie decisão do Órgão Especial do Tribunal ‘a quo’ proferida no julgamento de ação direta de inconstitucionalidade: necessidade de juntada aos autos do inteiro teor desta, para documentar os fundamentos da decisão recorrida e o prequestionamento dos temas ventilados no apelo constitucional. O assentamento na jurisprudência do STF da questão de fundo não dispensa os recursos extraordinários subseqüentes dos pressupostos constitucionais específicos do seu cabimento, entre os quais o do prequestionamento” (AI 365.938-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.9.2002 – grifei).
+No mesmo sentido o Recurso Extraordinário n. 608.097, de minha relatoria, decisão monocrática, DJe 5.4.2010, transitada em julgado em 16.4.2010.
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 18 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
