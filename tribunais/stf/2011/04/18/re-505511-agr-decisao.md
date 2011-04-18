@@ -1,0 +1,26 @@
+DECISÃO: vistos, etc.
+Reconsidero a decisão de fls. 337.
+2. Cuida-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 3ª Região. Acórdão assim ementado (fls. 261):
+“DIREITO CONSTITUCIONAL, ECONÔMICO E TRIBUTÁRIO – PIS E COFINS – LEI FEDERAL Nº 9718/98: BASE DE CÁLCULO – ALÍQUOTA – ALEGAÇÕES DE INCONSTITUCIONALIDADE: IMPERTINÊNCIA.
+1. O mandado de segurança é adequado para o exame da inconstitucionalidade ou inexigibilidade de determinado tributo.
+2. Faturamento é conceito jurídico-tributário passível de definição pelo legislador ordinário, ausente expressa exigência constitucional de lei complementar.
+3. A alíquota da COFINS, igualmente, se subsume à exigência de lei ordinária.
+4. A Lei Complementar nº 70/91 é – tal como a LF nº 9718/98 – materialmente ordinária (STF – ADC nº 1/DF – Rel. o Ministro Moreira Alves).
+5. Declaração de constitucionalidade das normas pelo Órgão Especial do TRF/3ª Região: AMS nº 1999.61.00.019337-6.
+6. Preliminar rejeitada. Apelação e Remessa Oficial providas.”
+3. Pois bem, a parte recorrente alega violação ao inciso II do art. 59, ao art. 69, ao inciso I e § 4º do art. 195, ao art. 239 e ao art. 246, todos da Magna Carta de 1988.
+4. Tenho que o recurso merece acolhida parcial. É que o Supremo Tribunal Federal, na Sessão Plenária de 09/11/2005, concluiu a análise do tema aqui discutido (RE 346.084, da relatoria do ministro Ilmar Galvão; bem como REs 357.950, 358.273 e 390.840, da relatoria do ministro Marco Aurélio). Ao fazê-lo, o Tribunal, por maioria de votos:
+a) declarou a inconstitucionalidade do § 1º do art. 3º da Lei 9.718/1998, que trata da ampliação da base de cálculo das contribuições destinadas ao PIS/Pasep e à Cofins. Entendimento, esse, reafirmado em sede de repercussão geral, no RE 585.235-QO, da relatoria do ministro Cezar Peluso;
+b) entendeu desnecessário, no caso específico, lei complementar para a majoração da alíquota da Cofins, cuja instituição se dera com base no inciso I do art. 195 do Magno Texto. Entendimento também reforçado pelo Pleno do STF, no julgamento do RE 527.602, redator para o acórdão o ministro Marco Aurélio.
+5. Acentuo, de mais a mais, que o regime de compensação do art. 8º da Lei 9.718/1998 é legítimo, dado que diz respeito a empresas em situações distintas (RE 336.134, da relatoria do ministro Ilmar Galvão).
+6. Por outro lado, pontuo que a jurisprudência desta nossa Casa de Justiça é firme em reconhecer o não-engessamento da contribuição ao PIS pelo art. 239 do Magno Texto e a constitucionalidade da mencionada exação, notadamente com as alterações introduzidas pela Lei 9.715/1998. Leia-se, nesse mesmo sentido, a ementa do RE 578.708-AgR, da relatoria do ministro Celso de Mello:
+“RECURSO EXTRAORDINÁRIO – PIS – BASE DE CÁLCULO – LEI Nº 9.718/98 (ART. 3º) – DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DESSE PRECEITO LEGAL (RE 357.950/RS, REL. MIN. MARCO AURÉLIO) – CONFIRMAÇÃO, NO ENTANTO, DA VALIDADE JURÍDICO-CONSTITUCIONAL DAS DISPOSIÇÕES CONTIDAS NA LEI Nº 9.715/98 – PRECEDENTE DO PLENÁRIO (RE 390.840/MG, REL. MIN. MARCO AURÉLIO) – RECURSO DE AGRAVO IMPROVIDO.”
+7. À derradeira, observo que as questões envolvendo a compensação de valores recolhidos a maior com outros tributos, a incidência da prescrição, a aplicação de correção monetária e de juros de mora não transbordam os limites do âmbito infraconstitucional. Cuida-se, em verdade, de controvérsia a ser decidida nas instâncias ordinárias. Confira-se, a propósito, a ementa do RE 387.316-AgR-ED-ED, da relatoria da ministra Ellen Gracie:
+“DIREITO TRIBUTÁRIO E CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COFINS. LEI 9.718/98. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL.
+1. A compensação dos valores recolhidos indevidamente com outros tributos, bem como a incidência da prescrição, aplicação de correção monetária e juros de mora são questões de nítida natureza infraconstitucional. Incompatibilidade com a via extraordinária. Questões a serem dirimidas nas instâncias ordinárias.
+2. Embargos de declaração acolhidos sem modificação do julgado.”
+Ante o exposto, e considerando as disposições do § 1º-A do art. 557 do CPC, dou provimento parcial ao recurso. O que faço apenas para afastar a aplicação do conceito de faturamento definido no § 1º do art. 3º da Lei 9.718/1998. Sem condenação em honorários advocatícios (Súmula 512/STF).
+Publique-se.
+Brasília, 18 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
