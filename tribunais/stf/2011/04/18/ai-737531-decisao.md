@@ -1,0 +1,15 @@
+D ECIS Ã O.
+Vistos.
+Magazine Luiza S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos XXXIII, XXXI, XXXV, LIV e LV, da Constituição Federal.
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar, tendo em vista que o acórdão recorrido foi publicado em 5 de setembro de 2007, conforme expressamente indicado na certidão de folha 94. Iniciada a contagem do prazo no primeiro dia útil seguinte, 6 de setembro de 2007, o prazo encerrou-se em 20 de setembro de 2007, quinta-feira. O recurso extraordinário, todavia, foi protocolado somente em 25 de setembro de 2007. É, portanto, intempestivo o recurso.
+Ressalte-se, outrossim, que a jurisprudência desta Corte está consolidada no sentido de que a interposição de recurso incabível, no caso em tela, agravo regimental contra o acórdão da Nona Câmara de Direito Público, não suspendem o prazo para interposição de recurso extraordinário. Anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE EXTEMPORANEIDADE DO RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que de recurso incabível não se suspende ou se interrompe o prazo para interposição do recurso adequado. Precedentes” (RE nº 588.378/RJ-AgR, Primeira Turma, Relatora a Ministra Carmén Lúcia, Dje de 30/04/10).
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. OBSCURIDADE. CONTRADIÇÃO. OMISSÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS. 1. O recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro recurso. 2. Não se encontram configuradas no acórdão embargado a obscuridade, a contradição ou a omissão que autorizariam a integração do julgado com fundamento nos incisos I e II do artigo 535 do Código de Processo Civil. Embargos de declaração rejeitados” (RE nº 601.061/MG–AgR-AgR–ED, Segunda Turma, Relator o Ministro Eros Grau, Dje 21/05/10).
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de abril de 2011.
+Ministro D IA S T OFFOLI
+Relator
+Documento assinado digitalmente
