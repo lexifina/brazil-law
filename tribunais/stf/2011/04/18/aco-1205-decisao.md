@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se embargos à execução de débitos relativos à contribuição previdenciária patronal que foram remetidos a este Supremo Tribunal Federal pela 1ª Vara de Execuções Fiscais de Porto Alegre com fundamento no art. 102, I, f, da Constituição.
+A questão sujeita à apreciação judicial na presente execução envolve determinar qual o regime previdenciário a que se sujeitam os empregados do Estado do Rio Grande do Sul mencionados nestes autos. O embargante alega que estão vinculados a regime próprio, enquanto o embargado entende que se trata de funcionários sujeitos ao regime geral.
+O Procurador Geral da República opinou pela competência do Supremo Tribunal Federal para conhecer do pedido (fls. 686-689).
+É o relatório. Decido.
+Nos termos do art. 102, I, f da Constituição, compete ao Supremo Tribunal Federal processar e julgar, originariamente, as causas e os conflitos entre a União e os Estados, a União e o Distrito Federal, ou entre uns e outros, inclusive as respectivas entidades da administração indireta.
+Ao interpretar o texto constitucional mencionado, a jurisprudência considera relevante para o reconhecimento da competência da Corte a intensidade do conflito federativo.
+Registro, nesse sentido, a ementa abaixo:
+AÇÃO CIVIL PÚBLICA MOVIDA PELO CONSELHO FEDERAL DE FARMÁCIA CONTRA O ESTADO DO ACRE - INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - INTELIGÊNCIA DO ART. 102, I, "F", DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE CONFLITO FEDERATIVO - RECURSO DE AGRAVO IMPROVIDO. - O art. 102, I, "f", da Constituição confere, ao Supremo Tribunal Federal, a posição eminente de Tribunal da Federação, atribuindo-lhe, nessa condição de órgão de cúpula do Poder Judiciário, competência para dirimir as controvérsias que irrompam no seio do Estado Federal, opondo as unidades federadas umas às outras, e de que resultem litígios cuja potencialidade ofensiva revele-se apta a vulnerar os valores que informam o princípio fundamental que rege, em nosso ordenamento jurídico, o pacto da Federação. Doutrina. Jurisprudência. - O Supremo Tribunal Federal não dispõe de competência originária para processar e julgar causas instauradas, contra Estado-membro, por iniciativa de autarquia federal, especialmente se esta dispuser de "estrutura regional de representação no território estadual respectivo" (RTJ 133/1059), pois, em tal hipótese, revela-se inaplicável a norma inscrita no art. 102, I, "f", da Constituição, eis que ausente qualquer situação capaz de introduzir instabilidade no equilíbrio federativo ou de ocasionar ruptura da necessária harmonia entre as entidades integrantes do Estado Federal. Precedentes. (ACO 641-AgR, rel. min. Celso de Mello, DJ 03.06.2005)
+Confiram-se, ainda, ACO 417-QO, rel. min. Sepúlveda Pertence, DJ 07.12.1990; ACO 379-QO, rel. p. acórdão min. Gilmar Mendes, DJ 05.09.2003; ACO 485, rel. min. Carlos Britto, DJ 02.04.2004; ACO 518-QO, rel. min. Joaquim Barbosa, DJ 20.08.2004.
+O caso em exame (execução fiscal) é situação corriqueira que em princípio não atinge o pacto federativo.
+Ante o exposto, reconheço a incompetência desta Corte para conhecer originariamente dos embargos à execução fiscal e determino o retorno dos autos ao juízo de origem.
+Publique-se.
+Brasília, 18 de abril de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
