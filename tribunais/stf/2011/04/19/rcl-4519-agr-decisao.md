@@ -1,0 +1,19 @@
+DECISÃO
+(Petições STF n. 5.596/2011 e 7.189/2011)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE N. 4/DF. RECLAMAÇÃO PARCIALMENTE PROCEDENTE. ANULAÇÃO DE DECISÕES QUE DEFERIRAM MEDIDAS LIMINARES CONTRA A FAZENDA PÚBLICA. POSTERIOR ALEGAÇÃO DE PREJUÍZO DA RECLAMAÇÃO. AUSÊNCIA DE INTERESSE RECURSAL. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Relatório
+1. Agravo regimental na reclamação, interposto por Iara de Lourdes Domingos Mazzega, em 8.2.2011, contra decisão pela qual julguei parcialmente procedente a ação para anular as decisões liminares deferidas nos autos dos processos n. 024.050.275.688, 024.050.275.585, 024.060.118.270, 024.060.105.202, 024.060.125.53, 024.060.137.627, 024.060.125.523 e 024.060.125.515.
+O caso
+2. Em 25.7.2010, o Estado do Espírito Santo ajuizou a presente reclamação contra decisões proferidas pelo juízo da 2ª Vara da Fazenda Pública Estadual de Vitória/ES que, ao deferir as medidas liminares nos processos n. 024.050.274.455, 024.050.275.688, 024.050.275.585, 024.060.069.705, 024.060.118.270, 024.060.105.202, 024.060.125.53, 024.060.137.627, 024.060.125.523 e 024.060.125.515, teria descumprido o que decidido na Ação Declaratória de Constitucionalidade 4/DF.
+3. Em 26.12.2010, julguei improcedente a reclamação em relação às decisões proferidas nos processos 024.050.274.455 e 024.060.069.705, pois a natureza previdenciária dessas ações, ajuizadas por servidores que à época estavam aposentados, Ismael Foratini Peixoto de Lima e Luiz Carlos Louro França, afastava a aplicação da decisão apontada como paradigma (Súmula 729 do Supremo Tribunal Federal). E, ainda, julguei procedente a reclamação em relação as decisões liminares deferidas nos demais processos, 24.050.275.688, 024.050.275.585, 024.060.118.270, 024.060.105.202, 024.060.125.53, 024.060.137.627, 024.060.125.523 e 024.060.125.515 (DJe 7.2.2011).
+4. Contra essa decisão, Iara de Lourdes Domingos Mazzega interpôs o presente agravo regimental e pediu a reconsideração da decisão recorrida. Eu seu recurso informou ter se aposentado em 23.11.2007 (Portaria n. 584, de 2.6.2008) e que a decisão apontada como reclamada teria sido confirmada pela sentença prolatada em 12.3.2010 (fls. 418-421).
+5. Em 14.2.2011, Paulo César Ferreira, Ana Cristina Fortini de Lima, Josafá da Silva, Andréia Maria Pereira dos Santos Gimenes, Carlos Pedro de Alcântara Filho e Iara de Lourdes Domingos Mazzega requereram fosse declarada a perda de objeto da presente ação, pois as decisões reclamadas teriam sido substituídas por decisões de mérito.
+Examinados os elementos havidos nos autos, DECIDO.
+6. Importa esclarecer, inicialmente, que a ora Agravante aposentou-se em data posterior ao ajuizamento da ação n. 024.060.125.515 (8.5.2006) e ao deferimento da medida liminar impugnada na reclamação (15.5.2006). Assim, mesmo que sua aposentadoria tenha ocorrido no curso da presente ação, isso não é suficiente para atrair a aplicação da Súmula 729 do Supremo Tribunal Federal.
+Ainda que assim não fosse, o objeto da presente Reclamação restringe-se às decisões liminares deferidas pelo juízo da 2ª Vara da Fazenda Pública Estadual de Vitória/ES nos processos acima referidos.
+A superveniência de decisão de mérito naqueles processos evidencia a substituição dos títulos judiciais reclamados pelas sentenças. Assim, ao anular apenas a decisão precária que havia deferido a medida liminar no processo n. 024.060.125.515, a decisão agravada não importou em prejuízo à Agravante, que permaneceu com a sua situação jurídica inalterada em razão do respaldo obtido com o novo título judicial. Assim, inexiste interesse recursal por parte da Agravante.
+7. Pelo exposto, não conheço do presente agravo regimental (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
