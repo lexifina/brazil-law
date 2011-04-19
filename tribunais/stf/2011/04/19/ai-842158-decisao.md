@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+“EMBARGOS DECLARATÓRIOS EM EMBARGOS DECLARATÓRIOS. CONTRARIEDADE À TESE.
+Reafirmo que inexiste obscuridade, contradição e/ou omissão a ser suprida na forma do disposto no artigo 535 do CPC. Como se vê do julgado, é evidente que houve apreciação do conjunto, tornando-se inviável em embargos de declaração o reexame da matéria. A parte autora vem novamente a juízo manifestar contrariedade à tese e, ressalvo a reiteração de embargos neste sentido, quando inviável emprestar qualquer efeito infringente, é qualificada de pretensão protelatória e sujeita à aplicação de multa” (fl. 492).
+3. No recurso extraordinário, os Agravantes alegam que o Tribunal a quo teria contrariado os arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República.
+Argumentam que, “no uso natural do direito da ampla defesa, dois foram os declaratórios ajuizados (...) visando a suprir omissão cometida pela decisão de fls. 446, quanto à ocorrência de erros materiais. (...) [E]m não apreciando e julgando o contido nos declaratórios de fls. 455 e 474, materializou-se uma nulidade processual por negativa de prestação jurisdicional, violando de forma direta e inequívoca direito da ampla defesa dos recorrentes” (fls. 567-569).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal e a ausência de contrariedade direta à Constituição da República (fls. 646-648).
+Os Agravantes reiteram os argumentos formulados no recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste aos Agravantes.
+6. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, de dispositivos do Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa à Constituição seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. NOVAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, INC. LIV E LV, E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 783.547-AgR, de minha relatoria, Primeira Turma, DJe 23.9.2010).
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No caso, a jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente, o que não configura o alegado cerceamento de defesa. Logo, não cabe falar em afronta à Carta Magna de 1988. 3. Agravo regimental desprovido” (AI 785.219-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 7.10.2010).
+7. Ademais, a alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+8. Nada há, pois, a prover quanto às alegações dos Agravantes.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 19 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
