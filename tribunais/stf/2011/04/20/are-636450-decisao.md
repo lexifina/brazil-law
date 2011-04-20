@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. 1. ATO ILÍCITO. CARACTERIZAÇÃO. INDENIZAÇÃO. NECESSIDADE DO REEXAME DE PROVAS: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. ALEGAÇÃO DE CONTRARIEDADE AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso extraordinário foi interposto contra julgado da Primeira Turma Recursal da Seção Judiciária do Estado de Santa Catarina, que decidiu que o fato de ter a Caixa Econômica Federal creditado os expurgos inflacionários incidentes sobre o saldo de FGTS em conta diversa daquela em que depositado o fundo não configuraria ilícito capaz de gerar pagamento de indenização.
+3. A Recorrente afirma que a Turma Recursal teria contrariado os arts. 5º, inc. II e LV, e 37, § 6º, da Constituição da República.
+Sustenta que teria sido “o devido processo legal, consagrado no (...) do Artigo 5º, da Constituição da República, assim como os princípios da ampla defesa, do contraditório, do duplo grau de jurisdição ou dos recursos, previstos no inciso LV do mesmo preceito constitucional, ou a possibilidade de exclusão de apreciação das teses embargatórias, na forma contida no inciso XXXVI da aludida norma constitucional, se fazem presentes, eis que negada vigência a eles” (fl. 190 v.).
+Assevera que, “ao estabelecer ser ônus da ora Recorrente (...) comprovar a titularidade de exclusiva conta fundiária, afastada foi a objetiva responsabilidade do adverso, situação jurídica esta que contraria o que se encontra consagrado pelo § 6º do Artigo 37 da Constituição” (fls. 193 e verso).
+4. O recurso extraordinário foi inadmitido pela Presidente da Turma Recursal, sob os fundamentos de que não teria havido ofensa direta à Constituição e de que incidiria a Súmula n. 279 do Supremo Tribunal Federal (fls. 197-198).
+5. No agravo de instrumento interposto, a Agravante reitera os argumentos do recurso extraordinário.
+Examinados os elementos havidos nos autos, DECIDO.
+6. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+7. Razão jurídica não assiste à Agravante.
+8. A Turma Recursal a quo analisou a controvérsia à luz das provas constantes dos autos, por meio das quais verificou que os depósitos reclamados pela Agravante teriam sido efetuados em uma conta que não a indicada pela Agravante. Por essa razão, indeferiu o pedido de indenização, pois não vislumbrou conduta ilícita por parte da Agravada.
+A modificação do julgado demandaria o reexame de provas, procedimento incabível de ser adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR ATO ILÍCITO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 635.170-AgR, de minha relatoria, Primeira Turma, DJe 7.11.2008).
+9. Além disso, este Supremo Tribunal Federal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam apenas ofensa constitucional indireta. Nesse sentido:
+“A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil ” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+Nada há a prover quanto às alegações da Agravante.
+10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
