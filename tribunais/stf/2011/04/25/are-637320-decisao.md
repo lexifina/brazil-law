@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO. TRANSPORTE DE SERVIDORES. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE FATOS, PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Goiás:
+“APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. AUSÊNCIA DE FORNECIMENTO DE DEVIDO TRANSPORTE AOS SEUS SERVIDORES. DEVER JURÍDICO DO ESTADO EM FORNECER CONDIÇÕES NECESSÁRIAS DE TRABALHO. COLOCAÇÃO EM SITUAÇÃO DE RISCO. NEXO CAUSAL CONFIGURADO. RESPONSABILIDADE SUBJETIVA DO ESTADO. DANO MORAL CARACTERIZADO. DANO INDENIZATÓRIO. CRITÉRIO DO JUIZ. OBSERVÂNCIA DOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. VALOR DEVIDAMENTE ARBITRADO. FAZENDA PÚBLICA ISENTA AO PAGAMENTO DE CUSTAS PROCESSUAIS
+1. A omissão traduz o que se chama de erro do serviço, quando o Poder Público devia agir e não agiu; agiu mal ou tardiamente. Nessas Hipóteses, a responsabilidade do Estado só poderá ser subjetiva” (fl. 214-215).
+Os embargos de declaração foram opostos visando “a manifestação expressa do Tribunal de Justiça sobre a violação ao princípio da legalidade (art. 37, caput da Carta Republicana 1988)” (fl. 243).
+2. O Recorrente afirma que o Tribunal a quo teria contrariado o art. 37, caput, da Constituição da República.
+Argumenta que “não existe nenhuma lei que obrigue o ente federado a fornecer transporte aos seus servidores. Salienta que, ao confirmar o julgamento favorável ao recorrido, o Tribunal local contrariou o disposto no art. 37, caput, da Constituição Federal (fls. 265 e 268).
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que “a verificação do acerto ou desacerto da decisão recorrida demandaria o reexame do conjunto fático-probatório dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal” (fl. 297).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Razão jurídica não assiste ao Agravante.
+6. O Tribunal a quo asseverou que:
+“a responsabilidade civil das Pessoas Jurídicas de Direito Público, arrimada no art. 37, § 6º, de nossa Lex Mater, consagra a responsabilidade objetiva do Estado (...) a responsabilidade civil subjetiva consubstancia-se na obrigação de reparar o dano, por todo aquele que, por ação ou omissão voluntária, imprudência, negligência ou imperícia, violar direito ou causar prejuízo a outrem, nos termos do art. 186 do Código Civil. A respeito preceitua o inciso III do art. 932 do mesmo Diploma acima citado (...) No caso, forçoso reconhecer que o apelado demonstrou o constrangimento sofrido, porquanto o nexo de causalidade entre a omissão do recorrente e dano suportado pelo autor/apelado o qual restou devidamente evidenciado no presente caso” (fls. 221- 229).
+7. O reexame do acórdão impugnado demandaria a análise prévia da legislação infraconstitucional aplicável à espécie. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. REEXAME DE PROVA. SÚMULA 279 DO STF. MATÉRIA QUE DEMANDA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - Matéria demanda o reexame de conjunto fático-probatório, o que atrai a incidência da Súmula 279 do STF. II - O regime da responsabilidade subjetiva é de ordem infraconstitucional e como tal deve ser resolvido à luz da legislação ordinária. III - Agravo regimental improvido” (AI 653.338-AgR/MS, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 8.11.2011, grifos nosso).
+Ademais, concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, a teor do que dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+Nesse sentido o seguinte julgamento:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE SUBJETIVA DO ESTADO. OMISSÃO. FALTA DE CONSERVAÇÃO DE VIA PÚBLICA. DANOS MATERIAIS E MORAIS. QUEDA EM BUEIRO ABERTO. ART. 37, § 6º, CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Em sede de recurso extraordinário não é permitido inovar com argumentos não abordados pelo acórdão recorrido. Ausência do necessário prequestionamento (Súmula STF 282). 2. Incidência da Súmula STF 279 para alterar conclusão do Tribunal de origem, que se limitou a aferir a responsabilidade subjetiva do município por ato omissivo específico, nos termos da teoria do faute du service. 3. Agravo regimental improvido” (AI 727.483-AgR/PE, Rel. Min. Ellen Gracie, Segunda Primeira Turma, DJe 19.10.2010, grifos nosso).
+Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 25 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
