@@ -1,0 +1,24 @@
+DECISÃO
+Vistos.
+Supermercado H. Beppler LTDA interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXV, LXIX e artigo 37, “caput”, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+“TRIBUTÁRIO – NOTIFICAÇÃO FISCAL – MANDADO DE SEGURANÇA IMPETRADO CONTRA OS AGENTES FISCAIS – ILEGITIMIDADE PASSIVA – EXTINÇÃO DO PROCESSO
+Mandado de segurança que tenha por fundamento a nulidade do ato administrativo, em razão da incompetência do agente público que o praticou, deve ser impetrado contra a autoridade competente para cumprir a ordem judicial reclamada – suspensão dos efeitos da notificação fiscal -, pois ‘autoridade que não detém competência para sustar a execução do ato impugnado não tem legitimação para figurar no pólo passivo do mandado de segurança (REsp n.º 47.478/SP. Min. Humberto Gomes de Barros)” (fl. 35)
+Opostos embargos de declaração (fls. 55 a 68), foram rejeitados (fls. 138 a 142).
+Decido.
+O recurso não deve prosperar.
+A jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do  recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP – AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07);
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ - AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Da mesma forma, a alegada violação ao artigo 5º, inciso, LXIX, quanto à ilegitimidade passiva para impetração do mandado de segurança é questão que se insere no âmbito infraconstitucional.
+Nesse sentido, veja-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DOS INCISOS II E XXXVI DO ART. 5º E DO § 6º DO ART. 37 DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. PRECEDENTES. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Discussão sobre a legitimidade passiva para a demanda é questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Precedentes. 3. Agravo regimental desprovido” (AI n° 652.642/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 27/11/09).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. LEGITIMIDADE PASSIVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO
+INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 513.694-AgR, Primeira Turma, Relatora Ministra Carmén Lúcia, DJe de 5/3/2010)
+“Agravo regimental em agravo de instrumento. 2. Legitimidade passiva. Ofensa reflexa à CF/88. Precedentes. Recurso que não traz argumentos capazes de modificar o entendimento desta Corte. 3. Decisão desfavorável à agravante não configura negativa de prestação jurisdicional. 4. Agravo regimental a que se nega provimento.” (AI 495.557/SP-AgR, Segunda Turma, Relator Ministro Gilmar Mendes, DJe de 25/06/2004)
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 25 de abril de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
