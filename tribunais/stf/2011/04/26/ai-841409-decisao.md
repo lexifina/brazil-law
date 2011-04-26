@@ -1,0 +1,12 @@
+D ECIS Ã O: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição).
+O acórdão recorrido recebeu a seguinte ementa (fls. 247):
+“APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. DANO MORAL. Matéria jornalística contendo informação a respeito de um relato que jamais ocorreu. Menção do nome e sobrenome de pessoa que sequer concedeu entrevista aos repórteres responsáveis pelas matérias. Sentença procedente. Condenação de cada uma das rés ao pagamento de R$ 10.000,00 a título de danos morais. Apelo ofertado pelas demandadas pugnando pela improcedência do pedido ou, eventualmente, pela redução do quantum fixado. Alegação de que se trata do direito à livre informação , circunstância essa que afasta a pretendida reparação de cunho moral. Preliminar de ilegitimidade passiva ad causam da 2ª ré, editora responsável pela impressão das revistas. Rejeição. No mérito, correta a sentença condenatória. As rés, ao publicarem entrevistas falsas e que jamais aconteceram, mencionando relatos inexistentes da autora, cometeram ato ilícito passível de ser indenizado. Presente está, portanto, a responsabilidade civil das demandadas por terem veiculado entrevista inverídica, sem preservação da imagem da parte envolvida. Ainda que as notícias não sejam consideradas injuriosas, ofensivas ou difamantes, e mesmo que nelas não tivesse o viés sensacionalista ou mesmo a fotografia da autora, é induvidoso que se fez a divulgação , em âmbito nacional, de circunstâncias e particularidades do acidente de pessoa que não intentou revelá-las. Desidiosamente as rés, menosprezando a vontade e os direitos personalíssimos da autora, expuseram peculiaridades do acidente que a autora sequer havia revelado. Presença do dano moral, face o abuso do direito de informação. Divulgação de fatos inverídicos sobre a pseudo experiência vivida pela acidentada. Manutenção do decisum. RECURSOS CONHECIDOS E IMPROVIDOS.”
+Alega a parte ora agravante vulneração dos artigos 5º, IX e 220, da Constituição federal.
+Sem razão a parte recorrente.
+A análise das supostas afrontas à Constituição demandaria avaliação do contexto fático-probatório que orientou a decisão impugnada, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 26 de abril de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
