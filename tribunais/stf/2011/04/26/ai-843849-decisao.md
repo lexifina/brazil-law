@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“AÇÃO MONITÓRIA - REQUISITOS. O artigo 1.102 do CPC é expresso em admitir a ação monitória com base em prova escrita, sem eficácia de título executivo, compreendida, portanto, como todo documento que, embora não prove, diretamente, o fato constitutivo, permite ao órgão judiciário deduzir, através de presunção, a existência do direito alegado”.
+3. No recurso extraordinário, o Agravante alega contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República.
+Afirma que, “quando da publicação de referida decisão (despacho ordenando que as partes especificassem as provas que desejavam produzir), não constou o nome do procurador do Recorrente, conforme se depreende da certidão de fl. 49, motivo pelo qual não houve manifestação, por parte do Recorrente, sobre a necessidade de produção de prova testemunhal, essencial para demonstração de seu direito, sendo surpreendido com o julgamento antecipado da lide”.
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento.
+Analisada a matéria posta à apreciação, DECIDO.
+5. Registre-se o que afirmado pelo Desembargador Relator em seu voto condutor, ao apreciar os embargos declaratórios do Agravante:
+“1) A preliminar de cerceamento de defesa suscitada pelo Município embargante foi rejeitada, ao fundamento de que a ilustre Sentenciante abriu vista às partes para a especificação de provas, tendo a empresa apelada requerido o julgamento antecipado da lide, enquanto o Município deixou transcorrer in albis o prazo, apesar de intimado, operando-se, portanto, a preclusão temporal em relação a essa questão.
+Ressalte-se que a ausência do nome do Procurador do Município na intimação para especificação de provas não foi argüida nas razões recursais, daí por que não pode ser objeto de discussão em sede de embargos declaratórios” (grifos nossos).
+6. Verifica-se que a matéria objeto do recurso extraordinário foi formulada nos embargos declaratórios opostos contra o julgado recorrido, mas não no recurso inominado interposto pelo ora Agravante contra decisão do Juízo de primeiro grau.
+Tem-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, é que pode, e deve, haver a oposição de embargos declaratórios para que se supra a omissão, como é próprio desse recurso. Apenas, pois, nos casos de omissão do órgão julgador sobre a matéria constitucional que tenha sido arguida na causa, é que os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+A inovação da matéria em embargos é juridicamente inaceitável para os fins de comprovação de prequestionamento. Primeiramente, porque, se não se questionou antes (prequestionou), não se há cogitar da situação a ser provida por meio dos embargos. Em segundo lugar, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de sua condição processual. Assim, os embargos declaratórios não servem para suprir a omissão da parte que não tenha cuidado de providenciar o necessário questionamento em momento processual próprio.
+Confiram-se, a propósito, os seguintes julgados:
+“1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+“I. RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998).
+Dessa forma, não foi atendido o requisito do prequestionamento. Incide na espécie a Súmula n. 282 do Supremo Tribunal, pois a questão constitucional somente foi suscitada nos embargos opostos contra os termos da decisão recorrida.
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 26 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
