@@ -1,0 +1,23 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de FRANCISCO CARLOS DIAS, em que se aponta como autoridade coatora a Ministra Laurita Vaz, relatora do HC 202.195/SP, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, o paciente foi preso em flagrante delito, na cidade de Piracicaba – SP, por tentativa e homicídio. O Juiz de Direito da Vara do Júri da Comarca de Piracicaba determinou o relaxamento do flagrante, entretanto, ato contínuo, decretou a prisão preventiva do paciente.
+ O representante do Ministério Público do Estado de São Paulo ofereceu denúncia contra o paciente, dando-o como incurso nas sanções do art. 121, § 2º, incisos II e IV, c/c o art. 14, inciso II, e art. 329, § 1º, todos do Código Penal, e em concurso material.
+ A defesa do paciente impetrou ao Tribunal de Justiça do Estado de São Paulo habeas corpus, o qual teve o pedido de liminar negado, estando o mérito pendente de apreciação.
+ No Superior Tribunal de Justiça, a Ministra Laurita Vaz indeferiu liminarmente o HC 202.195/SP. Daí a presente impetração.
+3.  Neste writ, o impetrante alega, em suma, ausência de fundamentação válida e de motivos concretos para a decretação da prisão preventiva do paciente.
+ Desse modo, requer o deferimento de medida liminar, a fim de que se garanta ao paciente o direito de aguardar em liberdade o desfecho da ação penal, com a imediata expedição do competente alvará de soltura.
+4.  A decisão da Ministra Laurita Vaz que indeferiu liminarmente o HC 202.195/SP está assim redigida:
+“Inicialmente, cumpre ressaltar que, consoante o posicionamento aplicado pelos Tribunais Superiores, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância, o que tem inclinado o Supremo Tribunal Federal a sequer conhecer da impetração, a teor do verbete sumular n.º 691: 'Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.'
+No entanto, a despeito do óbice processual, têm entendido as Cortes Superiores que, nesses casos excepcionais, deve preponderar a necessidade de garantir a efetividade da prestação da tutela jurisdicional de urgência, a fim de preservar o direito à liberdade, tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, suprimindo a competência da Inferior, subvertendo a regular ordem do processo.
+No caso, como se vê à fl. 77, não há, na decisão ora impugnada, ilegalidade patente que autorize a mitigação da Súmula n.º 691 do Supremo Tribunal Federal – cuja essência vem sendo reiteradamente ratificada por julgados deste Superior Tribunal de Justiça –, sobretudo porque a decisão que indeferiu o provimento urgente não constatou a presença dos requisitos legais para sua concessão. Confira-se:
+(...)
+Sem embargo das ponderações lançadas pelos Impetrantes, reserva-se primeiramente ao Tribunal a quo a análise meritória, ventilada no habeas corpus originário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Corte Estadual, mormente se o writ está sendo regularmente processado. Nesse diapasão, os seguintes precedentes:
+(...)
+Ante o exposto, com base no art. 38 da Lei 8.038/90, art. 34, inciso XVIII, e art. 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial”.
+5.  Ressalto que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+ Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de dupla supressão de instância.
+6.  Ante o exposto, indefiro liminarmente o presente writ.
+ Publique-se.
+ Brasília, 26 de abril de 2011.
+Ministra E LLEN G RACIE
+Relatora
