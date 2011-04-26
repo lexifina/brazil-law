@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Agravo interno em Apelação cível. Artigo 557, do CPC. Ação ordinária com pedido de tutela antecipada. Despachante público. Pretensão de aposentadoria proporcional ao tempo de contribuição. Sentença de improcedência dos pedidos. Inconformismo da parte autora.
+(...)
+Ausência de direito adquirido a regime jurídico revogado. Lei Estadual n.º 1.132/87 (art. 22, parágrafo único, introduzido pela Lei n.º 3.022/98) não foi recepcionada pelas normas inseridas na Constituição da República pela Emenda Constitucional nº 20/98. Precedentes deste E. Tribunal. Inexistência de argumentos capazes de infirmar a decisão monocrática proferida por esta Relatora. DESPROVIMENTO DO AGRAVO INTERNO” (fl. 216).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+O agravo não merece acolhida. Bem examinados os autos, verifico que o recorrente não atacou todos os fundamentos utilizados na decisão agravada para inadmitir o RE, mormente à incidência da Súmula 280 do STF, resta claro, portanto, a deficiência na elaboração da peça recursal, o que traz a incidência da Súmula 287 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes julgados de ambas as Turmas do Supremo Tribunal:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. SÚMULA 287 DO STF. NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. INCIDÊNCIA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - A agravante não atacou todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF. (...) IV – Agravo regimental improvido” (AI 598.574-AgR, de minha relatoria, Primeira Turma).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 287/STF. INDICAÇÃO DOS PRECEITOS CONSTITUCIONAIS CONTRARIADOS PELO ACÓRDÃO. INCIDÊNCIA DA SÚMULA N. 284/STF. 1. O agravante não impugnou todos os fundamentos que serviram de suporte à decisão agravada. Incidência da Súmula 287 desta Corte. 2. É condição de êxito do agravo regimental que suas razões se voltem contra os fundamentos da decisão agravada. Incidência da Súmula 284/STF. Agravo regimental a que se nega provimento” (AI 712.695-AgR, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
