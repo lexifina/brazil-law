@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, o qual entendeu que
+“Incabível é a pretensão da Valia de extrapolar o alcance dos mencionados dispositivos em claro prejuízo ao aderente. O art. 1.090 do CCB/1916, que rege as relações jurídicas que se aperfeiçoaram em sua vigência, estipulava que os contratos benéficos – contratos estipulados por uma parte em benefício da outra em que o estipulante tem ampla liberdade – deveriam ser interpretados estritamente. Assim a restrição imposta pela demandada se mostra completamente fora dos ditames legais e contratuais.
+(...)
+Não há que se falar que a aplicação dos percentuais de 10,27% e 3,37% trará desequilíbrio do pacto contratual, eis que a aplicação das Portarias nº 2005/1995 e nº 3.253/1996, do Ministério está em inteira consonância com o Regulamento Básico da VALIA” (fl. 71).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, 93, IX, 195, § 5º, e 202, caput, da mesma Carta.
+O agravo não merece acolhida.
+Isso porque, à exceção do art. 202, caput, os demais dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto, Primeira Turma).
+Ademais, verifica-se que para dissentir do acórdão recorrido, no concernente aos índices de reajuste, necessário seria o prévio exame de cláusulas do regulamento da entidade de previdência agravada, bem como a análise de normas infraconstitucionais, o que atrai a incidência da Súmula 454 do STF. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. ÍNDICES DE REAJUSTE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 671.796-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma)
+“EMBARGOS DECLARATÓRIOS CONVERTIDOS EM AGRAVO REGIMENTAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. VALIA. REGULAMENTO INTERNO QUE VINCULA OS REAJUSTES DE SEUS BENEFÍCIOS AOS CRITÉRIOS APLICÁVEIS À PREVIDÊNCIA SOCIAL. ART. 58, ADCT. NECESSIDADE DE EXAME DE CLAÚSULAS REGULAMENTARES. ÓBICE DO ENUNCIADO 454 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (RE 222-086-ED/RJ, Rel. Min. Joaquim Barbosa, Segunda Turma).
+Por fim, a exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador diga de forma clara e concisa as razões de seu convencimento, tal como ocorreu.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
