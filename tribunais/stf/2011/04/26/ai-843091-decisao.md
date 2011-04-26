@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“TRIBUTÁRIO. PORTARIA 239/2002. BLOQUEIO DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DE VALORIZAÇÃO DO MAGISTÉRIO. FUNDEF. HONORÁRIOS.
+I - A Portaria n. 239/2002 fere o § 7º do artigo 3º do Decreto n. 2.264/97, de hierarquia superior que regulamenta a Lei 9.424/96, a qual dispõe que ‘nenhum ajuste relacionado com a complementação da União será admitido ao longo do respectivo exercício de competência’.
+II – Se houve repasse a maior pela União, deve o Município ser notificado, com a observância do devido respeito aos princípios gerais do Direito, e não de forma abrupta sem a garantia do contraditório e da ampla defesa.
+III – Apelação da União e remessa oficial não providas e apelação do Município de Tanhaçu/BA provida para fixar os honorários advocatícios em R$ 5.000,00 (cinco mil reais).” (fl. 387).
+No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 100 da mesma Carta, bem como ao art. 60, § 1º, do ADCT.
+O agravo não merece acolhida. Inicialmente, verifica-se que não ocorreu o necessário prequestionamento em relação ao art. 100 da CF. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.Nesse sentido, anote-se:
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743–AgR/DF, Rel. Min. Ellen Gracie, Segunda Turma).
+Ademais, o acórdão recorrido decidiu a questão dos autos com base na interpretação da legislação infraconstitucional aplicável à espécie (Lei 9.424/1996, Decreto 2.264/1997 e Lei 11.494/2007). A ofensa à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido: RE 633.153-AgR/BA e RE 632.385-AgR/MA, Rel. Min. Cármen Lúcia; RE 630.439-AgR/BA e RE 631.534-AgR/DF, de minha relatoria.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
