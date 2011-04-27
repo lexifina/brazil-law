@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso. Acórdão assim ementado (fls. 71/72):
+“REEXAME NECESSÁRIO DE SENTENÇA, COM RECURSO VOLUNTÁRIO DE AMBAS AS PARTES – AÇÃO ORDINÁRIA DE ANULAÇÃO DE DÉBITO FISCAL C/C DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA TRIBUTÁRIA – SENTENÇA DE PROCEDÊNCIA EM FACE DO ESTADO – REMESSA DE OURO COMO ATIVO FINANCEIRO – SUJEIÇÃO AO IMPOSTO SOBRE OPERAÇÕES DE CRÉDITO, CÂMBIO E SEGURO OU RELATIVAS A TÍTULOS OU VALORES MOBILIÁRIOS (IOF) E NÃO ICMS – IMPERTINÊNCIA – REMESSA EFETUADA POR EMPRESA DE DISTRIBUIÇÃO DE TÍTULOS E VALORES MOBILIÁRIOS E NÃO INSTITUIÇÃO FINANCEIRA INTEGRANTE DO SISTEMA FINANCEIRO NACIONAL – INTELIGÊNCIA DA LEI Nº 7.766/89 – OURO CONSIDERADO COMO MERCADORIA – INCIDÊNCIA DO ICMS – RECURSO DO ESTADO PROVIDO – SENTENÇA REFORMADA PARA RECONHECER A IMPROCEDÊNCIA DA AÇÃO COM INVERSÃO DA VERBA HONORÁRIA – RECURSO DO BANCO PREJUDICADO POR VERSAR SOMENTE QUANTO À FIXAÇÃO DO HONORÁRIOS ADVOCATÍCIOS.
+Nos termos da Lei nº 7.766/89, o ouro só é considerado ativo financeiro, quando, e somente quando, adquirido por instituição financeira integrante do Sistema Financeiro Nacional, excepcionando apenas na hipótese de se tratar de aquisição por associações ou cooperativas de garimpeiros devidamente constituídas.
+Somente nestas situações é que incidirá IOF em sua tributação, cujo fato gerador é no momento da primeira aquisição.
+O ouro remetido por empresa ou sociedade de distribuidoras de títulos e valores mobiliários, que não constituem Instituições Financeiras, deve ser considerado mercadoria e como tal sujeita-se ao ICMS.
+Fica prejudicado pela reforma da decisão o recurso apelatório que versou unicamente sobre a verba honorária, com a consequente inversão dos honorários fixados.”
+2. Pois bem, a parte recorrente aponta violação ao inciso LV do art. 5° e ao § 5º do art. 153 da Magna Carta de 1988. Aduz que “a instituição Recorrente era, sem dúvida, já no ano de 1988, instituição integrante do Sistema Financeiro Nacional, e estava autorizada, conforme comprovado anteriormente, a operar com ouro enquanto ativo financeiro” (fls. 108).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo não conhecimento do apelo extremo.
+4. Tenho que a insurgência não merece acolhida. Isso porque entendimento diverso do adotado pela instância judicante de origem exigiria a análise da legislação infraconstitucional pertinente, bem como o revolvimento do conjunto fático-probatório dos autos (Súmula 279/STF). Providências vedadas neste momento processual.
+5. De mais a mais, a alegada ofensa às garantias do contraditório e da ampla defesa apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, de que são exemplos os AIs 517.643-AgR, da relatoria do ministro Celso de Mello; e 273.604-AgR, da relatoria do ministro Moreira Alves.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 27 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
