@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão da Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado de Sergipe.
+2. Da leitura dos autos, observo que o Colegiado de origem deu pela possibilidade de extensão a servidor aposentado da Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) e da Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte (GDPGTAS).
+3. Pois bem, a parte recorrente aponta ofensa ao § 8º do art. 40 da Carta Magna de 1988, bem como à Súmula 339/STF.
+4. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pelo aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça.
+5. Com efeito, o Supremo Tribunal Federal, na Sessão plenária de 29/10/2009, aprovou a edição da Súmula Vinculante 20:
+“A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.”
+6. De mais a mais, no tocante à Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS, este Tribunal tem decidido que se aplicam os mesmos fundamentos que determinaram a extensão da GDATA aos inativos. Leia-se, a propósito, a ementa do RE 585.230-AgR, da relatoria do ministro Celso de Mello:
+“RECURSO EXTRAORDINÁRIO – GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA (GDATA) E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE (GDPGTAS) – EXTENSÃO DE AMBAS AS GRATIFICAÇÕES AOS SERVIDORES INATIVOS – POSSIBILIDADE – PRECEDENTES FIRMADOS PELO SUPREMO TRIBUNAL FEDERAL – RECURSO DE AGRAVO IMPROVIDO.”
+7. No mesmo sentido, vejam-se os seguintes julgados: AIs 710.350, da relatoria do ministro Ricardo Lewandowski; 710.557-AgR, da relatoria do ministro Celso de Mello; 713.969, da relatoria do ministro Joaquim Babosa; 715.549-AgR, da relatoria da ministra Cármen Lúcia; 768.688, da relatoria do ministro Gilmar Mendes; bem como os REs 594.884, da relatoria do ministro Eros Grau; e 598.363, da relatoria do ministro Celso de Mello.
+8. À derradeira, ressalto que é firme no Supremo Tribunal Federal o entendimento de que o § 8º do art. 40 da Carta Magna é “regra de paridade com os vencimentos do cargo correspondente que tem precisamente o sentido de dispensar que a lei estenda ao inativo em cada caso, o benefício ou vantagem que outorgue ao servidor em atividade: logo, quando incide, o dispositivo constitucional ilide a aplicação da Súmula 339” do STF (RE 214.724, da relatoria do ministro Sepúlveda Pertence).
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 27 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
