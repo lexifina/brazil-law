@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CITAÇÃO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+“a revelia do agravante foi decretada com acerto, acarretando com fundamento no artigo 319 do Código de Processo Civil, a presunção de veracidade das alegações contidas na petição inicial.
+Nesse passo, cumpre observar que não prospera a alegação de nulidade do ato citatório, tendo sido a carta enviada para a sua sede (fl. 23) e reconhecidamente recebida por seu funcionário (fl. 05).
+De todo modo, por conta da incidência da teoria da aparência, a citação para o processo reveste-se de validade, visto que, na condição de preposto, não fez a ressalva à cientificação da demanda. De outro lado, é evidente que o processo veio a conhecimento do réu, em que pese não ter ofertado resposta à demanda, não podendo se escusar sob o manto de sua própria desorganização administrativa. (...)
+No mais, na busca da verdade dos fatos objetos da demanda, o Código de Processo Civil estabelece regras de distribuição do ônus da prova. Atribuído o ônus de provar à parte, a alegação levada à efeito, em caso de não produção de prova a fim de corroborá-la, acarreta como consequência a conclusão negativa no convencimento judicial acerca de sua ocorrência no mundo fático” (fls. 83-84).
+2. A Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. LV, da Constituição da República.
+Argumenta que “nos termos do Estatuto Social do Banco Recorrente, verifica-se que compete apenas à Diretoria administrar e representar a Sociedade; entretanto, denota-se que tal citação se deu equivocadamente na pessoa de funcionário que não detém cargo de Diretoria, não sendo representante legalmente constituído, não podendo a mesma prosperar como válida” (fl. 91).
+Pede o provimento do recurso extraordinário.
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de que: a) incide na espécie a Súmula 283 do Supremo Tribunal Federal (fl. 111); b) inexiste ofensa constitucional direta (fl. 112); c) a matéria constitucional posta à apreciação no recurso não foi prequestionada (fl. 113); e d) a preliminar de repercussão geral está deficiente (fl. 116).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Não assiste razão jurídica à Agravante.
+6. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CITAÇÃO DO DEVEDOR. MATÉRIA INFRACONSTITUCIONAL. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 725.002-AgR/PE, de minha relatoria, Primeira Turma, DJ 17.3.2001).
+“EMENTA: PROCESSUAL CIVIL. ACÓRDÃO QUE JULGOU VÁLIDA A CITAÇÃO INICIAL DA PARTE, ALEGADA OFENSA AO ART. 5.º, LV, DA CONSTITUIÇÃO FEDERAL. REEXAME DA PROVA. Hipótese em que ofensa à Carta da República, se existente, somente adviria de forma reflexa e indireta, não ensejando, portanto, a abertura da via extraordinária. Incidência, ademais, da Súmula 279 desta Corte. Agravo regimental improvido” (AI 352.347-AgR/PA, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 19.4.2002).
+“AGRAVO REGIMENTAL. INEXISTÊNCIA DE OFENSA AOS ARTIGOS 5º, XXXV, LIV E LV, e 93, IX, DA CONSTITUIÇÃO. O Tribunal de origem prestou jurisdição por acórdão devidamente fundamentado, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa. Ainda que assim não fosse, esta Corte firmou entendimento no sentido de que, em regra, as alegações de afronta aos mencionados princípios configuram, quando muito, ofensa indireta ou reflexa à Constituição da República. Agravo regimental a que se nega provimento” (AI 602.224-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 7.12.2010).
+Nada há a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
