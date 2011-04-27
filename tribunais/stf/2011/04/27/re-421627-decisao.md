@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – IMPOSSIBILIDADE – NEGATIVA DE SEGUIMENTO.
+1. A questão objeto deste processo já foi enfrentada por ambas as Turmas do Supremo. Confiram com o que se contém nas seguintes ementas:
+RECURSO. Extraordinário. Inadmissibilidade. Auto-aplicabilidade do art. 53, IV da Constituição. Concessão de assistência médico-hospitalar gratuita prevista no Dispositivo Transitório, a dependentes de ex-combatentes da 2ª Guerra Mundial. Agravo regimental não provido. O art. 53, IV, do ADCT, é norma de eficácia plena e aplicabilidade imediata.
+(Agravo Regimental no Recurso Extraordinário nº 417.871/RJ, Primeira Turma, relator Ministro Cezar Peluso, acórdão publicado no Diário da Justiça de 11 de março de 2005)
+CONSTITUCIONAL. ADMINISTRATIVO. MILITAR: EX-COMBATENTE. ASSISTÊNCIA MÉDICA E HOSPITALAR: ORGANIZAÇÕES MILITARES DE SAÚDE. C.F., 1988, ADCT, art. 53, IV.
+I. - O ex-combatente e seus dependentes têm direito de serem atendidos pelas Organizações Militares de Saúde. CF/88, ADCT, art. 53, IV.
+II. – Negativa de trânsito ao RE da União.
+III. – Agravo não provido.
+(Agravo Regimental no Recurso Extraordinário nº 414.256/PE, Segunda Turma, relator Ministro Carlos Velloso, acórdão publicado no Diário da Justiça de 20 de maio de 2005)
+2. Acresce que, em relação aos artigos 53, incuso II, do Ato das Disposições Constitucionais Transitórias, e 5º, 37 e 205, da Carta da República, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Assim, padece o recurso, no ponto, da ausência de prequestionamento, esbarrando nos Verbetes nº 282 e 356 da Súmula deste Tribunal.
+3. Ante os precedentes, nego seguimento a este extraordinário.
+4. Publiquem.
+Brasília, 27 de abril de 2011.
+Ministro MARCO AURÉLIO
+Relator
