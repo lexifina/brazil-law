@@ -1,0 +1,10 @@
+DECIS ÃO: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa tem o seguinte teor:
+“AGRAVO DE INSTRUMENTO - AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER C/C PERDAS E DANOS – DECISÃO QUE DETERMINA A PRESTAÇÃO DE CONTAS E A EXIBIÇÃO DE DOCUMENTOS PELA EMPRESA RÉ – JUÍZO DE RETRATAÇÃO - DESPACHO REVOGADO QUANTO À ORDEM DE PRESTAR CONTAS – RECURSO PARCIALMENTE PREJUDICADO - EXIBIÇÃO DE DOCUMENTOS - INCIDENTE PROCESSUAL REQUERIDO NA PRÓPRIA INICIAL - CITAÇÃO E PRAZO PARA RESPOSTA - AUSÊNCIA DE VIOLAÇÃO AO CONTRADITÓRIO - ADMINISTRADORA RESPONSÁVEL PELA LOCAÇÃO DE ALGUNS IMÓVEIS HERDADOS PELA AUTORA - DOCUMENTOS EM SEU PODER – ALEGAÇÃO NÃO CONTESTADA - PROPRIETÁRIA QUE INTEGRA QUADRO SOCIETÁRIO DA EMPRESA - IRRELEVÂNCIA - INTERESSES RELATIVOS À PESSOA FÍSICA – SÓCIA AFASTADA DOS ATOS DE ADMINISTRAÇÃO – COMINAÇÃO DE MULTA DIÁRIA - CABIMENTO - MEIO DE GARANTIR A EFETIVIDADE DA DECISÃO QUE DETERMINA A EXIBIÇÃO DE DOCUMENTOS - ALEGAÇÕES RELATIVAS AO MÉRITO DO PEDIDO INDENIZATÓRIO - QUESTÕES AINDA NÃO ANALISADAS PELO JUÍZO DE PRIMEIRO GRAU - SUPRESSÃO DE INSTÂNCIA - DECISÃO MANTIDA.
+RECURSO PARCIALMENTE CONHECIDO E, NESTA PARTE, DESPROVIDO.” (Grifos originais - fls. 1.058-1059)
+A ora agravante sustenta que o acórdão recorrido violou o disposto no art. 5º, XXXVI , da Constituição federal, ao determinar a exibição de documentos sem considerar a existência de escritura pública, homologada judicialmente, que deu quitação de quaisquer pendências envolvendo dos atos de administração.
+A análise da suposta vulneração implica reexame da legislação infraconstitucional e dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o recurso extraordinário, ante a vedação contida no enunciado das Súmulas 279 e, mutatis mutandis, 636 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro JOAQUIM   BARBOSA
+Relator
