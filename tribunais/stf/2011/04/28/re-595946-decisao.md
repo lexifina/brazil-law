@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que os empregados não associados ao Sindicato não poderiam ser beneficiados por decisão proferida em ação proposta por este na qualidade de substituto processual apenas dos seus associados.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, caput e II, e 8º, III, da mesma Carta.
+A pretensão recursal não merece acolhida.
+Os recorrentes, na petição do recurso extraordinário, não demonstraram, em preliminar fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determina o art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF, limitando-se a alegar que
+“a matéria versada neste recurso diz respeito à concessão de reajuste salarial quando da instituição da URP (Unidade de Referência de Preços) pelo Decreto Lei 2335/87 aos empregados da ora Recorrida que não eram associados ao SINDAPORT.
+Vale ressaltar mais uma vez que o direito ao reajuste já se encontra pacificado, sendo que, contudo, fora somente concedido aos associados ao sindicato em tela mediante ação proposta por este, não possuindo assim caráter subjetivo, não podendo, o Poder Público, continuar agindo à margem da Constituição Federal” (fl. 168).
+Como se verifica, os recorrentes não demonstraram de forma fundamentada a existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa.
+Ressalte-se que o Regimento Interno do STF, em seu artigo 327, § 1º, com a redação dada pela Emenda Regimental 21/2007, confere competência ao relator para recusar recurso extraordinário desprovido de fundamentação de repercussão geral. Nesse sentido, transcrevo ementa do AI 819.644-AgR/RS, Rel. Min. Joaquim Barbosa:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto, que pode ser obstado monocraticamente pelo Relator, nos termos do art. 327, § 1º, do RISTF. Agravo regimental a que se nega provimento.”
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+– Relator –
