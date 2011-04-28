@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão da 1ª Turma Recursal da Justiça Federal do Estado do Rio Grande do Sul
+2. Da leitura dos autos, observo que a instância judicante de origem confirmou sentença que condenou a União ao pagamento da diferença de 15% da Gratificação de Desempenho de Atividade Jurídica-GDAJ, percebida por procurador federal. Leia-se da sentença, na parte que interessa ao deslinde da causa (fls. 60/61):
+“A ré alega que a Portaria nº 492/2001 da Advocacia-Geral da União, quando tratou da primeira avaliação geral, estabeleceu a retroatividade dos efeitos financeiros da GDAJ apenas para os servidores já ingressos por ocasião da edição da referida medida provisória. Para os demais servidores, determinou a produção de efeitos financeiros subseqüentes.
+Ocorre que tal determinação não está prevista na MP 2.229-43/2001. A portaria administrativa, ao determinar a produção de efeitos financeiros subseqüentes ao período de encerramento do período de avaliação (art. 4º), estabelece critérios para o valor da remuneração da GDAJ que não constam da norma que pretendeu regulamentar, infringindo a norma hierarquicamente superior que rege a matéria.
+O parágrafo primeiro do art. 61 da MP 2229-43/2001, ao estabelecer que o resultado da primeira avaliação gera efeitos financeiros a partir do início do período da avaliação, não restringe sua incidência apenas para os servidores já ingressados no cargo à época da instituição da gratificação, não se justificando o pagamento diferenciado desta.
+Assim, o requerente não pode ser prejudicado seja em virtude de norma referida, seja pelas disposições do Ofício Circular nº 001/2003/AGU/PGF de 10 de janeiro 2003 que considerou que os procuradores federais nomeados pela Portaria nº 523 de 03/07/2002 deixariam de ser avaliados no mês de janeiro de 2003 em virtude de não terem completado o interstício de seis meses, que em seus dizeres era condição imposta pela Portaria nº 492 de 2001, arts. 3º e 9º (redação original) [...]”
+3. Pois bem, a parte recorrente alega violação ao art. 2º, ao caput e inciso II do art. 5º, ao inciso XXX do art. 7º, ao caput do art. 37, bem como ao § 3º do art. 39, todos da Magna Carta de 1988.
+4. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia sob exame não transborda os limites do âmbito infraconstitucional. Pelo que eventual ofensa à Carta Magna, no caso, apenas ocorreria de forma reflexa ou indireta.
+5. Por outra volta, quanto à suposta afronta ao art. 2º da Constituição Republicana, ressalto que é firme nesta Casa de Justiça o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo repeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+6. Quanto ao mais, anoto que, nos termos da Súmula 636/STF, é incabível recurso extraordinário por afronta ao princípio constitucional da legalidade, quando a verificação de sua ocorrência pressuponha a interpretação dada pela decisão recorrida à norma infraconstitucional.
+Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro AYRES BRITTO
+Relator
