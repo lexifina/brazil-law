@@ -1,0 +1,29 @@
+DECISÃO:
+Vistos.
+Omar Camargo Corretora de Câmbio e Valores Ltda. interpõe recurso extraordinário fundado na alínea “a” do permissivo constitucional contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+CONSTITUCIONAL. CONTRIBUIÇÃO SOBRE O LUCRO. INSTITUIÇÕES FINANCEIRAS. EC-10/96. PRINCÍPIOS DA IRRETROATIVIDADE, ANTERIORIDADE MITIGADA, ISONOMIA E CAPACIDADE CONTRIBUTIVA.
+1. O Pleno desta Corte já decidiu, na Argüição de inconstitucionalidade na MAS nº 97.04.21096-5/PR, que “Ainda que a expressão ‘a partir de 1º de janeiro de 1996’ contida no art. 19 da Lei nº 9249/95 e a expressão ‘no período de 1º de janeiro de 1996’ contida no art. 72, III, do ADCT (esse com a redação dada pela EC nº 10, de 3.4.96) não tenham sido das mais inspiradas, é forçoso reconhecer que, nos limites da causa e para os efeitos discutidos, elas, na prática, não ofendem o princípio da anterioridade trimestral (art. 195, § 6º, CF)”, e da irretroatividade, acrescento.
+2. De igual forma, não atentam contra os princípios da capacidade contributiva e da isonomia, pois a situação das instituições financeiras não é idêntica à das outras pessoas jurídicas.
+3. Apelo improvido. (fls. 199)
+No apelo extremo alega a recorrente teria o acórdão recorrido violado os princípios constitucionais da anterioridade, da irretroatividade, da capacidade contributiva e da isonomia. Sustenta que a instituição de alíquotas diferenciadas para recolhimento da CSSL ofende o princípio da isonomia e da capacidade contributiva, e que o texto da EC nº 10/96 fere o princípio da anterioridade e da irretroatividade.
+Contrarrazões, pela Fazenda Nacional, às fls. 232.
+Decido.
+A irresignação merece prosperar, em parte.
+No que respeita à alegação de ofensa aos arts. 145, § 1º, e 150, II, da Constituição, a jurisprudência desta Corte é firme no sentido de que a instituição de alíquotas diferenciadas da CSL não contraria o princípio da isonomia, desde que se observem os princípios da razoabilidade e da capacidade contributiva. Firmou, nesse sentido, o entendimento de que não cabe ao Poder Judiciário atuar como legislador positivo para conceder isenções tributárias. Anote-se:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ALÍQUOTA DIFERENCIADA DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA TRIBUTÁRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 436.604-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 25/4/2011)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. INSTITUIÇÕES FINANCEIRAS. ALÍQUOTAS DIFERENCIADAS. ISONOMIA. EQUIPARAÇÃO OU SUPRESSÃO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. 1. A declaração de inconstitucionalidade dos textos normativos que estabelecem distinção entre as alíquotas recolhidas, a título de contribuição social, das instituições financeiras e aquelas oriundas das empresas jurídicas em geral teria como conseqüência normativa ou a equiparação dos percentuais ou a sua supressão. Ambas as hipóteses devem ser afastadas, dado que o STF não pode atuar como legislador positivo nem conceder isenções tributárias. Daí a impossibilidade jurídica do pedido formulado no recurso extraordinário. Agravo regimental a que se nega provimento. (RE 370.590, Rel. Min. Eros Grau, 2ª Turma, DJe 16/5/2008)
+Já no que respeita à alegada ofensa ao art. 195, § 6º, da Constituição, o Plenário desta Corte, no julgamento do RE nº 587.008, de minha relatoria, DJe de 16/2/11, assentou que a EC nº 10/96 não foi mera prorrogação da de nº 01/94. Na oportunidade - dada a solução de continuidade entre o término de vigência da EC nº 01/94 e a entrada em vigor da EC nº 10/96 – esta Corte entendeu que houve majoração da alíquota da contribuição social sobre o lucro devida pelas pessoas jurídicas de que trata o art. 22, § 1º da Lei nº 8.212/91 e que a referida majoração somente seria devida, decorridos os noventa dias, contados da publicação da emenda, não sendo possível, ademais, a sua retroação a 1º de janeiro de 2006. Nesse sentido, confira-se:
+Recurso extraordinário – Emenda Constitucional nº 10/96 – Art. 72, inciso III, do Ato das Disposições Constitucionais Transitórias (ADCT) - Contribuição Social sobre o Lucro (CSLL) – Alíquota de 30% (trinta por cento) - Pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91 – Alegada violação ao art. 195, § 6º, da Constituição Federal.
+1. O poder constituinte derivado não é ilimitado, visto que se submete ao processo consignado no art. 60, §§ 2º e 3º, da Constituição Federal, bem assim aos limites materiais, circunstanciais e temporais dos §§ 1º, 4º e 5º do aludido artigo.
+2. A anterioridade da norma tributária, quando essa é gravosa, representa uma das garantias fundamentais do contribuinte, traduzindo uma limitação ao poder impositivo do Estado.
+3. A emenda Constitucional nº 10/96, especialmente quanto ao inciso III do art. 72 do Ato das Disposições Constitucionais Transitórias – objeto de questionamento - é um novo texto que veicula nova norma, e não mera prorrogação da emenda anterior.
+4. Hipótese de majoração da alíquota da CSSL para as pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91.
+5. Necessidade de observância do princípio da anterioridade nonagesimal contido no art. 195, § 6º, da Constituição Federal.
+6. Recurso Extraordinário a que se nega provimento.
+Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço e dou provimento ao recurso extraordinário para declarar indevida a majoração da alíquota da contribuição social sobre o lucro, perpetrada pela EC nº 10/96, no período anterior aos noventa dias contados da publicação da referida emenda, em observância ao art. 195, § 6º da Constituição Federal.
+Sem honorários, nos termos da Súmula nº 512, do STF. Custas ex-lege.
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
