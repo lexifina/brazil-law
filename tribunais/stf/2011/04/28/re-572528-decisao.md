@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, que entendeu devido o desconto de dias paralisados em movimento grevista de servidores públicos. Eis a ementa (fls. 97):
+“Ementa: Mandado de Segurança- Professora- Abono de faltas- Greve- Impossibilidade de aplicação do disposto no artigo 262 de Regimento Geral dos Servidores- Apelo improvido”
+É o relatório. Decido.
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 37, caput, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando no recurso extraordinário matéria que não consta da apelação (fls. 60-64) nem dos embargos de declaração (fls. 106-107), deduz matéria estranha à controvérsia, incidindo no óbice das Súmula 282 e 356.
+Ademais, esta Corte firmou o entendimento de que, até que haja regulamentação específica, aplicam-se aos servidores públicos as normas que regem o direito de greve dos trabalhadores submetidos ao regime celetista, conforme se extrai do MI 708, de relatoria do min. Gilmar Mendes, DJ de 31.10.2008:
+“EMENTA: MANDADO DE INJUNÇÃO. GARANTIA FUNDAMENTAL (CF, ART. 5º, INCISO LXXI). DIREITO DE GREVE DOS SERVIDORES PÚBLICOS CIVIS (CF, ART. 37, INCISO VII). EVOLUÇÃO DO TEMA NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL (STF). DEFINIÇÃO DOS PARÂMETROS DE COMPETÊNCIA CONSTITUCIONAL PARA APRECIAÇÃO NO ÂMBITO DA JUSTIÇA FEDERAL E DA JUSTIÇA ESTADUAL ATÉ A EDIÇÃO DA LEGISLAÇÃO ESPECÍFICA PERTINENTE, NOS TERMOS DO ART. 37, VII, DA CF. EM OBSERVÂNCIA AOS DITAMES DA SEGURANÇA JURÍDICA E À EVOLUÇÃO JURISPRUDENCIAL NA INTERPRETAÇÃO DA OMISSÃO LEGISLATIVA SOBRE O DIREITO DE GREVE DOS SERVIDORES PÚBLICOS CIVIS, FIXAÇÃO DO PRAZO DE 60 (SESSENTA) DIAS PARA QUE O CONGRESSO NACIONAL LEGISLE SOBRE A MATÉRIA. MANDADO DE INJUNÇÃO DEFERIDO PARA DETERMINAR A APLICAÇÃO DAS LEIS Nos 7.701/1988 E 7.783/1989. 1. SINAIS DE EVOLUÇÃO DA GARANTIA FUNDAMENTAL DO MANDADO DE INJUNÇÃO NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL (STF).
+(...)
+6.4. Considerados os parâmetros acima delineados, a par da competência para o dissídio de greve em si, no qual se discuta a abusividade, ou não, da greve, os referidos tribunais, nos âmbitos de sua jurisdição, serão competentes para decidir acerca do mérito do pagamento, ou não, dos dias de paralisação em consonância com a excepcionalidade de que esse juízo se reveste. Nesse contexto, nos termos do art. 7º da Lei no 7.783/1989, a deflagração da greve, em princípio, corresponde à suspensão do contrato de trabalho. Como regra geral, portanto, os salários dos dias de paralisação não deverão ser pagos, salvo no caso em que a greve tenha sido provocada justamente por atraso no pagamento aos servidores públicos civis, ou por outras situações excepcionais que justifiquem o afastamento da premissa da suspensão do contrato de trabalho (art. 7o da Lei no 7.783/1989, in fine).
+(...)
+6.7. Mandado de injunção conhecido e, no mérito, deferido para, nos termos acima especificados, determinar a aplicação das Leis nos 7.701/1988 e 7.783/1989 aos conflitos e às ações judiciais que envolvam a interpretação do direito de greve dos servidores públicos civis.”
+Nesta perspectiva, são legítimos os descontos realizados nos vencimentos dos servidores relativamente aos dias não trabalhados.
+Confiram-se ainda: RE 539.042 (rel. min. Ricardo Lewandowski, DJe de 18.02.2010) e RE 538.923 (rel. min. Cármen Lúcia, DJe de 16.03.2010).
+Dessa orientação não divergiu o acórdão recorrido.
+Por fim, a análise das questões constitucionais tal como suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
