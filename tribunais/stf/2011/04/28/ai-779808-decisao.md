@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que afastou a aplicação das astreintes, sob o fundamento de que seria cabível o instituto da busca e apreensão, nos seguintes termos:
+“Assim, refluindo de posicionamento anteriormente defendido, incabível na hipótese – ação cautelar de exibição de documentos – a aplicação das astreintes, porquanto existente na sistemática processual vigente punição específica para a recusa da parte em apresentá-los, consistente na busca e apreensão , conforme dicção do artigo 362, CPC e jurisprudência já pacificada na corte especial(...)” (fl. 393-394).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2, 5º, caput, II, XXXII, XXXV, XXXVI e LIV, 22, I, 44, 60 § 4º, III e IV, 61, 93, IX, e 170, V, da mesma Carta.
+O agravo não merece acolhida. O Tribunal de origem, ao apreciar a controvérsia relativa ao afastamento da multa diária aplicada em ação cautelar de exibição de documentos, decidiu a causa com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras:
+“ EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 680.686-AgR/GO, Rel. Min. Cármen Lúcia).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 28 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
