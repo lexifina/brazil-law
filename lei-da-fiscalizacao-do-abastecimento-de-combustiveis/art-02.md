@@ -1,4 +1,4 @@
-Art. 2º Os infratores das disposições desta Lei e demais normas pertinentes ao exercício de atividades relativas à indústria do petróleo, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis ficarão sujeitos às seguintes sanções administrativas, sem prejuízo das de natureza civil e penal cabíveis:
+Art. 2º Os infratores das disposições desta Lei e demais normas pertinentes ao exercício de atividades relativas à indústria do petróleo, à indústria de biocombustíveis, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis ficarão sujeitos às seguintes sanções administrativas, sem prejuízo das de natureza civil e penal cabíveis:
 I - multa;
 II - apreensão de bens e produtos;
 III - perdimento de produtos apreendidos;

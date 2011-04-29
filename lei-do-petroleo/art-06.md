@@ -5,8 +5,8 @@ III - Derivados de Petróleo: produtos decorrentes da transformação do petról
 IV - Derivados Básicos: principais derivados de petróleo, referidos no art. 177 da Constituição Federal, a serem classificados pela Agência Nacional do Petróleo;
 V - Refino ou Refinação: conjunto de processos destinados a transformar o petróleo em derivados de petróleo;
 VI - Tratamento ou Processamento de Gás Natural: conjunto de operações destinadas a permitir o seu transporte, distribuição e utilização;
-VII - Transporte: movimentação de petróleo e seus derivados ou gás natural em meio ou percurso considerado de interesse geral;
-VIII - Transferência: movimentação de petróleo, derivados ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;
+VII - Transporte: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse geral;.
+VIII - Transferência: movimentação de petróleo, seus derivados, biocombustíveis ou gás natural em meio ou percurso considerado de interesse específico e exclusivo do proprietário ou explorador das facilidades;.
 IX - Bacia Sedimentar: depressão da crosta terrestre onde se acumulam rochas sedimentares que podem ser portadoras de petróleo ou gás, associados ou não;
 X - Reservatório ou Depósito: configuração geológica dotada de propriedades específicas, armazenadora de petróleo ou gás, associados ou não;
 XI - Jazida: reservatório ou depósito já identificado e possível de ser posto em produção;
@@ -22,7 +22,9 @@ XX - Distribuição: atividade de comercialização por atacado com a rede varej
 XXI - Revenda: atividade de venda a varejo de combustíveis, lubrificantes e gás liquefeito envasado, exercida por postos de serviços ou revendedores, na forma das leis e regulamentos aplicáveis;
 XXII - Distribuição de Gás Canalizado: serviços locais de comercialização de gás canalizado, junto aos usuários finais, explorados com exclusividade pelos Estados, diretamente ou mediante concessão, nos termos do § 2º do art. 25 da Constituição Federal;
 XXIII - Estocagem de Gás Natural: armazenamento de gás natural em reservatórios próprios, formações naturais ou artificiais.
-XXIV - Biocombustível: combustível derivado de biomassa renovável para uso em motores a combustão interna ou, conforme regulamento, para outro tipo de geração de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil;.
+XXIV - Biocombustível: substância derivada de biomassa renovável que pode ser empregada diretamente ou mediante alterações em motores a combustão interna ou para outro tipo de geração de energia, podendo substituir parcial ou totalmente combustíveis de origem fóssil, tal como biodiesel, etanol e outras substâncias estabelecidas em regulamento da ANP;.
 XXV - Biodiesel: biocombustível derivado de biomassa renovável para uso em motores a combustão interna com ignição por compressão ou, conforme regulamento, para geração de outro tipo de energia, que possa substituir parcial ou totalmente combustíveis de origem fóssil.
 XXVI - Indústria Petroquímica de Primeira e Segunda Geração: conjunto de indústrias que fornecem produtos petroquímicos básicos, a exemplo do eteno, do propeno e de resinas termoplásticas.
 XXVII - cadeia produtiva do petróleo: sistema de produção de petróleo, gás natural e outros hidrocarbonetos fluidos e seus derivados, incluindo a distribuição, a revenda e a estocagem, bem como o seu consumo.
+XXVIII - Indústria de Biocombustível: conjunto de atividades econômicas relacionadas com produção, importação, exportação, transferência, transporte, armazenagem, comercialização, distribuição, avaliação de conformidade e certificação de qualidade de biocombustíveis; e.
+XXIX - Produção de Biocombustível: conjunto de operações industriais para a transformação de biomassa renovável, de origem vegetal ou animal, em combustível.

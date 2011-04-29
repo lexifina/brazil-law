@@ -1,5 +1,5 @@
 Art. 3º A pena de multa será aplicada na ocorrência das infrações e nos limites seguintes:
-I - exercer atividade relativa à indústria do petróleo, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis, sem prévio registro ou autorização exigidos na legislação aplicável:
+I - exercer atividade relativa à indústria do petróleo, à indústria de biocombustíveis, ao abastecimento nacional de combustíveis, ao Sistema Nacional de Estoques de Combustíveis e ao Plano Anual de Estoques Estratégicos de Combustíveis, sem prévio registro ou autorização exigidos na legislação aplicável:
 Multa - de R$ 50.000,00 (cinqüenta mil reais) a R$ 200.000,00 (duzentos mil reais);
 II - importar, exportar ou comercializar petróleo, gás natural, seus derivados e biocombustíveis em quantidade ou especificação diversa da autorizada, bem como dar ao produto destinação não permitida ou diversa da autorizada, na forma prevista na legislação aplicável:
 Multa - de R$ 20.000,00 (vinte mil reais) a R$ 5.000.000,00 (cinco milhões de reais);
