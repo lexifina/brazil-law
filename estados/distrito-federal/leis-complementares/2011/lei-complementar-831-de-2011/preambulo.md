@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 831, DE 28 DE ABRIL DE 2011
+(Autoria do Projeto: Poder Executivo)
+Altera o art. 1º da Lei Complementar nº 821, de 15 de abril de 2010 e dá outras providências.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
