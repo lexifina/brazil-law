@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento contra decisão de inadmissibilidade do recurso extraordinário de acórdão que concluiu pela inaplicabilidade ao caso do art. 37, § 6º, da Constituição Federal por faltar comprovação de que as afirmações tidas por injuriosas fossem de autoria de prepostos da instituição de ensino, nos seguintes termos (fls. 6-13 e 21-24):
+“DIREITO CIVIL E PROCESSUAL CIVIL. REPARAÇÃO DE DANOS. PANFLETO PEJORATIVO AFIXADO EM MURAL DE INSTITUIÇÃO DE ENSINO. RESPONSABILIDADE OBJETIVA. INOCORRÊNCIA. DEFEITO DO SERVIÇO INDEMONSTRADO. 1. Não demonstrado no autos que o ato lesivo foi praticado por agente de entidade que presta serviços educacionais mediante competência delegada do Poder Público, não há que se falar em responsabilidade objetiva. 2. Não existindo relação de adequação e pertinência entre os serviços prestados e os fatos motivadores da demanda, descabida se apresenta a pretensão de condenação por danos morais com base na lei consumerista. 3. Recurso improvido”.
+ O Tribunal de origem asseverou que, para aferir a alegada violação à Constituição Federal, seria necessário o revolvimento de fatos e de provas dos autos (fls. 35-37).
+2.  Os agravantes afirmam que não pretendem o reexame do conjunto fático-probatório, mas, sim, a aferição da incidência ou não da norma constitucional do art. 37, § 6º, cuja tarefa é de competência da Suprema Corte.
+3.  O agravo não merece seguimento. A Corte de origem assentou a inexistência do nexo causal entre a conduta imputada à recorrida e os aludidos danos sofridos pelos autores, à luz dos fatos e das provas constantes dos autos, cujo reexame, em princípio, não tem lugar em sede extraordinária (Súmula STF 279). Vejam-se o AI 603.470-AgR/GO, rel. Min. Sepúlveda Pertence, 1ª Turma, DJe 10.8.2007; e o RE 558.755-AgR/MG, da minha relatoria, 2ª Turma, DJe 24.4.2009.
+4.  Ressalte-se, por fim, que contra o acórdão recorrido a parte autora interpôs, concomitantemente, recurso especial, do qual, em acórdão transitado em julgado, o Superior Tribunal de Justiça não conheceu, sob o entendimento de que, para alterar os fundamentos do acórdão recorrido, seria necessário o reexame da matéria fático-probatória dos autos, incidindo ali o óbice da Súmula 7/STJ (REsp 783.439/DF, rel. Min. Nancy Andrighi, DJe 22.5.2009 – fls. 48-52).
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 29 de abril de 2011.
+Ministra Ellen Gracie
+Relatora
+Documento assinado digitalmente
