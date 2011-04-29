@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO EM FLAGRANTE – TRÁFICO DE DROGAS – LIBERDADE PROVISÓRIA – VEDAÇÃO LEGAL – PRONUNCIAMENTO DA TURMA – SUBMISSÃO DA MATÉRIA AO PLENÁRIO – HABEAS CORPUS – LIMINAR INDEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+O paciente foi preso em flagrante delito, no dia 10 de fevereiro de 2011, em virtude de suposta prática do crime de tráfico de drogas (Lei nº 11.343/2006, artigo 33). Apresentado pedido de liberdade provisória, o Juízo da 1ª Vara de Tóxicos da Comarca de Belo Horizonte, Estado de Minas Gerais, não acolheu a pretensão, por entender estarem presentes os requisitos da prisão preventiva e não ser admissível a concessão do benefício na espécie.
+No habeas impetrado no Tribunal de Justiça estadual, o pleito de concessão de medida acauteladora foi indeferido, por ser vedada a liberdade provisória nos casos de tráfico de entorpecentes, mostrando-se irrelevantes as condições pessoais atribuídas ao paciente.
+Em idêntica medida formalizada no Superior Tribunal de Justiça – de nº 199.832-MG –, o Ministro Gilson Dipp, relator, não acolheu o pedido de liminar. Levou em conta o óbice previsto no Verbete nº 691 da Súmula do Supremo e não vislumbrou, de plano, ilegalidade no ato impugnado.
+Neste processo, os impetrantes buscam infirmar a referida decisão. Discorrem sobre os fatos imputados ao paciente e sustentam a ilegalidade da prisão, ante a inexistência, segundo apontam, dos requisitos indispensáveis à manutenção da prisão cautelar. Mencionando os termos do voto proferido pelo Ministro Celso de Mello no julgamento do Habeas Corpus nº 93.056, acórdão publicado no Diário da Justiça de 16 de dezembro de 2008, asseveram ser o artigo 44 da Lei nº 11.343/2006 de duvidosa constitucionalidade.
+Pedem a concessão de liminar, no sentido de determinar a expedição de alvará de soltura em favor do paciente, assegurando-lhe o direito de responder à ação penal em liberdade. No mérito, pleiteiam a confirmação da providência.
+2. Em reiterados pronunciamentos, a Turma tem concluído pela higidez da vedação legal à liberdade provisória quando formalizado flagrante por prática do crime de tráfico de drogas. Eis como venho exteriorizando o convencimento sobre a matéria:
+No tocante ao que articulado sobre a ausência de harmonia do artigo 44 da Lei nº 11.343/2006, a vedar a liberdade provisória, com a Constituição Federal, atentem para a circunstância de os incisos LXI, LXV e LXVI do artigo 5º da Carta preverem, respectivamente, a prisão em flagrante, o relaxamento apenas da prisão ilegal e a competência do legislador para disciplinar a manutenção, ou não, da custódia – “ninguém será levado à prisão ou nela mantido quando a lei admitir a liberdade provisória, com ou sem fiança”. Então, vê-se a irrelevância da articulação. Ao vedar a liberdade provisória nos casos de prisão em flagrante por tráfico, o artigo 44 da Lei nº 11.343/2006 encerra política normativo-penal definida pelos representantes do povo brasileiro – os Deputados Federais – e pelos representantes dos Estados – os Senadores da República.
+O tema está submetido ao Plenário e a Turma tem sobrestado os processos que o veiculam. Então, é impróprio o implemento de medida acauteladora. Há de aguardar-se o crivo final do Supremo sobre a questão.
+3. Indefiro a liminar.
+4. Colham o parecer da Procuradoria Geral da República.
+5. Publiquem.
+Brasília – residência –, 29 de abril de 2011, às 19h55.
+Ministro MARCO AURÉLIO
+Relator
