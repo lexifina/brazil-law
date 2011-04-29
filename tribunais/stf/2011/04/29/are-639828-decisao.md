@@ -1,0 +1,17 @@
+D ECIS Ã O: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+“APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. PENSÃO POR MORTE. EXTENSÃO AO CÔNJUGE VARÃO.
+Viola o princípio da isonomia a exigência de requisitos diversos para a mulher e o homem para a concessão de pensão por morte ao cônjuge supérstite, à luz da igualdade de gêneros assegurada pela Constituição Federal de 1988.
+APELAÇÃO PROVIDA. UNÂNIME”. (fls. 195)
+No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito alega que o acórdão recorrido viola o princípio da isonomia, previsto no artigo 5º, inciso I, e os artigos 201, V e 226, §5º do texto constitucional, .
+Decido.
+O acórdão recorrido não merece reparos uma vez que decidiu em conformidade com a jurisprudência desta Corte.
+No julgamento do RE n. 385.397, Rel. Min. Sepúlveda Pertence, DJe de 6.9.2007, é no sentido de que a exigência de comprovação do requisito invalidez para inclusão do cônjuge varão como dependente da autora perante instituto de previdência viola a isonomia e que é impossível a invocação da exigência de fonte de custeio nessa discussão. O recurso restou assim ementado:
+“I. Recurso extraordinário: descabimento. Ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal, tido por violado: incidência das Súmulas 282 e 356. II. Pensão por morte de servidora pública estadual, ocorrida antes da EC 20/98: cônjuge varão: exigência de requisito de invalidez que afronta o princípio da isonomia. 1. Considerada a redação do artigo 40 da Constituição Federal antes da EC 20/98, em vigor na data do falecimento da servidora, que não faz remissão ao regime geral da previdência social, impossível a invocação tanto do texto do artigo 195, § 5º - exigência de fonte de custeio para a instituição de benefício -, quanto o do art. 201, V - inclusão automática do cônjuge, seja homem ou mulher, como beneficiário de pensão por morte. 2. No texto anterior à EC 20/98, a Constituição se preocupou apenas em definir a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem qualquer referência a outras questões, como, por exemplo os possíveis beneficiários da pensão por morte (Precedente: MS 21.540, Gallotti, RTJ 159/787). 3. No entanto, a lei estadual mineira, violando o princípio da igualdade do artigo 5º, I, da Constituição, exige do marido, para que perceba a pensão por morte da mulher, um requisito - o da invalidez - que, não se presume em relação à viúva, e que não foi objeto do acórdão do RE 204.193, 30.5.2001, Carlos Velloso, DJ 31.10.2002. 4. Nesse precedente, ficou evidenciado que o dado sociológico que se presume em favor da mulher é o da dependência econômica e não, a de invalidez, razão pela qual também não pode ela ser exigida do marido. Se a condição de invalidez revela, de modo inequívoco, a dependência econômica, a recíproca não é verdadeira; a condição de dependência econômica não implica declaração de invalidez. 5. Agravo regimental provido, para conhecer do recurso extraordinário e negar-lhe provimento”. (grifei)
+Não há, pois, o que prover quanto às alegações do agravante.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e
+557 do CPC).
+Publique-se.
+Brasília, 29 de abril de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
