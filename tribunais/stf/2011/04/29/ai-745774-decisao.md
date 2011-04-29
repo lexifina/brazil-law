@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PERDA SUPERVENIENTE DE OBJETO DO RECURSO. INDEFERIMENTO DE TUTELA ANTECIPADA EM AÇÃO REVISIONAL: 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 3º Região:
+“AGRAVO DE INSTRUMENTO. TUTELA ANTECIPADA. SFH. REVISÃO CONTRATUAL. DEPÓSITO JUDICIAL DOS VALORES INCONTROVERSOS. POSSIBILIDADE DE INSCRIÇÃO DO NOME DO MUTUÁRIO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. EXECUÇÃO EXTRAJUDICIAL” (fl. 253).
+3. No recurso extraordinário, os Agravantes afirmam que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV, LIV e LV, da Constituição da República.
+4. Em 28.8.2008, a Desembargadora Vice-Presidente do Tribunal Regional Federal da 3ª Região “determino[u] o sobrestamento da análise de admissibilidade do presente recurso extraordinário, nos termos do § 1º do art. 543-B, até pronunciamento definitivo do Colendo Supremo Tribunal Federal sobre a matéria em tela” (fl. 268).
+5. Em 17.10.2008, ao “reconhecer a ocorrência de falta de interesse para recorrer, posto que, com a prolação de acórdão na ação originária, revela-se a superveniente perda de objeto do presente recurso, que foi utilizado contra decisão interlocutória” (fl. 287), a Desembargadora Vice-Presidente do Tribunal Regional Federal da 3ª Região “não admit[iu] o recurso extraordinário” (fl. 287).
+Analisados os elementos havidos nos autos, DECIDO.
+6. Como posto no despacho de 17.10.2008, houve perda superveniente de objeto do presente recurso extraordinário.
+7. Ainda que assim não fosse, melhor sorte não socorre os Agravantes porque o recurso por eles interposto volta-se contra decisão pela qual foi indeferida a tutela antecipada.
+As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo a respeito da controvérsia, devem ser confirmadas (ou, se for o caso, revogadas) pela sentença que julgar o mérito da causa, podendo, ademais, ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+Assim, a natureza precária e provisória do juízo desenvolvido em liminar ou tutela antecipada não viabiliza o recurso extraordinário, pois somente com a sentença é que se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas enfrentadas na apreciação das liminares. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. COMPETÊNCIA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ACÓRDÃO QUE MANTEVE DEFERIMENTO DE MEDIDA LIMINAR EM AÇÃO CIVIL PÚBLICA. SÚMULA 735 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 559.691-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+“RECURSO. Extraordinário. Inadmissibilidade. Acórdão recorrido que deu provimento a agravo de instrumento para indeferir liminar, reformando decisão que deferira liminar na ação cautelar originária para autorizar a parte agravante 'a participar com seus animais, de todos os eventos da raça Mangalarga Marchador'. Aplicação da súmula 735. Agravo improvido. Não cabe recurso extraordinário contra decisão que defere ou indefere medida cautelar. 3. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (AI 552.178-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 28.11.2008).
+"RECURSO EXTRAORDINÁRIO - ACÓRDÃO QUE CONFIRMA INDEFERIMENTO DE LIMINAR MANDAMENTAL - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO 'FUMUS BONI JURIS' E DO 'PERICULUM IN MORA' - AUSÊNCIA DE QUALQUER PRONUNCIAMENTO SOBRE OS FUNDAMENTOS CONSTITUCIONAIS DA IMPETRAÇÃO FUNDAMENTAL - INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO PELA EMPRESA CONTRIBUINTE - ACOLHIMENTO DA POSTULAÇÃO RECURSAL DEDUZIDA PELO MUNICÍPIO - AGRAVO PROVIDO” (AI 439.613-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 17.10.2003).
+7. Incide na espécie vertente a Súmula 735 do Supremo Tribunal Federal: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Nada há a prover quanto às alegações dos Agravantes.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 29 de abril de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
