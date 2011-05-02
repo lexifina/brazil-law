@@ -1,0 +1,32 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. EXECUÇÃO FISCAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. Os pressupostos de admissibilidade dos recursos para os tribunais submetem-se à legislação infraconstitucional, insindicável pelo STF, ainda que suscitados e não resolvidos à luz das garantias processuais, porquanto a violação nessa hipótese é reflexa ou oblíqua, inviabilizando o recurso extremo.
+3. Os requisitos de admissibilidade consistentes na regularidade formal, no prequestionamento e na ofensa direta à Constituição Federal quando ausentes conduzem à inadmissão do recurso.
+4. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da prestação jurisdicional, e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que por si só, não desafia a instância extraordinária. Precedentes: AI 831.267-AgR, Primeira Turma, Relatora Ministra Cármen Lúcia, DJe de 07.04.2011 e AI 813.557-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, DJe de 01.02.2011.
+5. Agravo de instrumento NÃO PROVIDO.
+D ECIS Ã O: Cuida-se de agravo de instrumento interposto por RAGI REFRIGERANTES LTDA, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 126-127-v, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a, do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo fls. 84-87 assim ementado (fl. 85), verbis:
+“EXECUÇÃO FISCAL. ICMS. Auto de infração. CPC, art. 16. Extinção dos embargos. Intempestividade. Os embargos em execução fiscal devem ser opostos no prazo de trinta dias contados da intimação da penhora e não da juntada aos autos do mandado que a efetivou. Prevalência da regra do art. 16 da LF n°. 6.830/80 sobre o art. 738 do CPC. Sentença que deu os embargos por intempestivos. Recurso da devedora a que se nega seguimento. Aplicação do art. 557 do CPC. Agravo interno desprovido”.
+Não foram opostos embargos de declaração.
+Nas razões de apelo extremo, sustenta, preliminarmente, estar caracterizada a repercussão geral e, no mérito aponta violação ao artigo 5º, XXXV e LV, da Constituição federal.
+O Tribunal de Justiça paulista negou seguimento ao apelo extremo, sob o fundamento de que a matéria não foi devidamente prequestionada e que a ofensa à Constituição seria indireta ou reflexa.
+É o relatório. DECIDO.
+Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+Sem razão a agravante.
+Verifica-se, na espécie, que o artigo da Constituição Federal que a agravante considera violado (art. 5º, XXXV e LV) não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para suprir a omissão. Incide, portanto, o óbice da Súmula 356 do STF, de seguinte teor, verbis:
+“O ponto omisso da decisão, sobre o qual não foram opostos embargos de declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Relativamente ao verbete sumular, traz-se a lume, comentário do Professor Roberto Rosas, In Direito Sumular 12ª edição, Editora Malheiros, verbis:
+“Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria”.
+Ressalte-se, por sua relevância, que a jurisprudência desta Suprema Corte é uníssona no sentido de que verificação de violações aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: (AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie).
+Nesse sentido, trago à colação julgados de ambas as Turmas deste Tribunal, verbis:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. NECESSIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL (CÓDIGO DE PROCESSO CIVIL): OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (AI 831.267-AgR, Primeira Turma, Relatora Ministra Cármen Lúcia, DJe 07.04.2011) .
+“PROCESSUAL CIVIL. AMPLA DEFESA. CONTRADITÓRIO. DEVIDO PROCESSO LEGAL. IGUALDADE. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. PRECEDENTES. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. DECISÃO CONTRÁRIA AOS INTERESSES DAS PARTES NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF.
+1. A ofensa aos postulados constitucionais da ampla defesa, do contraditório, do devido processo legal e da igualdade, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+2. Apreciação do recurso extraordinário que requer a análise de fatos e provas da causa (Súmula STF 279), além do reexame de legislação infraconstitucional (Lei 6.404/76 e CPC), hipóteses inviáveis nesta via.
+3. Decisão fundamentada contrária aos interesses das partes não configura ofensa ao artigo 93, IX, da CF.
+4. Agravo regimental a que se nega provimento” (AI 813.557-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, DJe 01.02.2011).
+NEGO SEGUIMENTO ao agravo de instrumento com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 2 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
