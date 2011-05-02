@@ -1,0 +1,12 @@
+DECISÃO
+LICENÇA-MATERNIDADE – CONTRATO TEMPORÁRIO DE TRABALHO – ESTABILIDADE PROVISÓRIA – MATÉRIA CONSTITUCIONAL – AGRAVO PROVIDO.
+1. Discute-se, na espécie, o direito à licença-maternidade de 120 dias e à estabilidade provisória desde a confirmação da gravidez até cinco meses após o parto de servidora pública, inclusive a contratada a título precário, independentemente do regime jurídico de trabalho, nos termos do artigo 7º, inciso XVIII, da Constituição Federal e do artigo 10, inciso II, alínea “b”, do Ato das Disposições Transitórias.
+O Tribunal de Justiça do Estado de São Paulo assentou serem tais direitos assegurados constitucionalmente a servidora nomeada para provimento de cargo em comissão. Eis a ementa do acórdão formalizado (folha 206):
+Servidor público – Servidora nomeada para provimento e cargo em comissão – Exoneração durante o período de gravidez – Inadmissibilidade – Estabilidade provisória – Inteligência dos artigos 7º, XVIII e 39, § 3º da Constituição Federal, c.c art. 10, II, “b”, do ADCT. Recurso Provisório.
+O agravante, no extraordinário interposto com alegada base na alínea “a” do permissivo constitucional, sustenta a existência de vínculo estatutário da Municipalidade com a funcionária nomeada para exercício de cargo em comissão, não podendo esta se valer de benefícios previstos na Consolidação das Leis do Trabalho, a teor dos artigos 7º, inciso XVIII, do Diploma Maior e 10 do Ato das Disposições Constitucionais Transitórias. Segundo afirma, os funcionários que ocupam cargo em comissão não possuem estabilidade, podendo ser exonerados ad nutum pela autoridade administrativa. Nesse sentido, “a precariedade e a instabilidade, decorrentes da possibilidade de livre nomeação e exoneração, são inerentes aos cargos em comissão” (folha 222). Assevera que o artigo 39 da Carta da República não atribui expressamente estabilidade provisória à gestante, encontrando-se a Administração adstrita ao princípio da reserva legal, versado no artigo 37, cabeça, da Constituição Federal.
+2. O tema, de índole constitucional, está a merecer o crivo do Plenário, consideradas as garantias fundamentais previstas no artigo 7º, inciso XVIII, da Carta de 1988 e no artigo 10 do Ato das Disposições Constitucionais Transitórias.
+3. Em face da excepcionalidade do quadro, conheço deste agravo e o provejo, determinando a subida do processo. Autuem-no e distribuam-no na forma regimental.
+4. Publiquem.
+Brasília, 2 de maio de 2011.
+Ministro MARCO AURÉLIO
+Relator
