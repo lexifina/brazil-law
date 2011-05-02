@@ -1,0 +1,30 @@
+AGRAVO DE INSTRUMENTO EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL CIVIL. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, LIV E LV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. ÇÃO DE OFENSA AO PRINCÍPIO DO CONTRADITÓRIO E AMPLA DEFESA.
+1. Os requisitos de admissibilidade consistentes na regularidade formal, na impugnação específica das razões recorridas, no prequestionamento e na ofensa direta à Constituição Federal, quando ausentes, conduzem à inadmissão do recurso interposto.
+2. No caso sub judice, verifica-se a ausência de debate, na instância recorrida, sobre os dispositivos constitucionais, artigo 5º, LIV e LV, da Constituição Federal, cuja violação se alega no recurso extraordinário, o que atrai a incidência da Súmula 282 do STF.
+282 - “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.”
+3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+4. Agravo de Instrumento a que se nega provimento.
+D ECIS Ã O: Cuidam, os autos, de agravo de instrumento interposto por João Roberto Coura e outros contra r. decisão que inadmitiu seu recurso extraordinário manejado com o intuito de ver reformado o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“CITAÇÃO. Nulidade. Inocorrência. Ação de alienação judicial de coisa comum. Ausência de citação da pessoa jurídica que ocupa o imóvel. Irrelevância. Hipótese em que só são partes os titulares do domínio. Ausência de litisconsórcio passivo. Preliminar rejeitada.
+CERCEAMENTO DE DEFESA. Inocorrência. Ação de alienação judicial de coisa comum. Julgamento antecipado da lide. Possibilidade. Matéria exclusivamente de direito. Desnecessidade de dilação probatória. Preliminar rejeitada.
+CONDOMÍNIO. Coisa comum indivisível. Alienação judicial. Admissibilidade. Caso de procedimento de jurisdição voluntária. Autores que não são obrigados a manter o condomínio eternamente. Sucumbência devida porque houve resistência injustificada ao pedido. Sentença mantida. Recurso improvido.
+SUCUMBÊNCIA. Verba honorária. Fixação. Vinte por cento do valor atribuído à causa. Aplicação do art. 20, § 3º, do CPC. Valor excessivo. Causa que não apresenta complexidade. Determinada a redução da verba. Observância ao princípio de que o processo não deve onerar excessivamente as partes. Recurso parcialmente provido para esse fim.”
+O acórdão atacado foi proferido em sede de ação ordinária, a qual objetivava a extinção do condomínio existente entre as partes, sob o argumento de que as partes são proprietárias de imóvel indivisível e que não têm interesse em manter o condomínio.
+Nas razões recursais, alegou-se violação ao art. 5º, LIV e LV, da Constituição Federal.
+O presente agravo não merece provimento. O artigo da Constituição Federal tido por violado não foi prequestionado.
+Os requisitos de admissibilidade consistentes na regularidade formal, na impugnação específica das razões recorridas, no prequestionamento e na ofensa direta à Constituição Federal, quando ausentes, conduzem à inadmissão do recurso interposto.
+No caso sub judice, verifica-se a ausência de debate, na instância recorrida, sobre os dispositivos constitucionais, artigo 5º, LIV e LV, da Constituição Federal, cuja violação se alega no recurso extraordinário, o que atrai a incidência da Súmula 282 do STF, verbis:
+“É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada.”
+Oportunas as considerações do Professor Roberto Rosas, In Direito Sumular. 12ª, ed. Malheiros.
+“É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: 'quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado'.
+Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).”
+Por fim, não está obrigado o Juiz a julgar a questão posta a seu exame conforme o pleiteado pelas partes, mas, sim, com o seu livre convencimento, utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso.
+Sobre este tema a jurisprudência deste Tribunal fixou-se no sentido de que as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância que não viabiliza o acesso à instância extraordinária [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+Ex positis, nego provimento ao agravo de instrumento com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+Publique-se.
+Brasília, 2 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
