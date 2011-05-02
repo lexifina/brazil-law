@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte nas alíneas “a” e “b” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 30):
+“DESAPROPRIAÇÃO. Justa indenização fixada consoante laudo pericial. Juros compensatórios de 12% desde a ocupação prévia na posse – Juros moratórios de 6% ao ano a partir do trânsito em julgado – Prevalência do comando constitucional da justa indenização (art. 5º, inciso XXIV) sobre a Medida Provisória 2.183-56 de 24/08/01 – Sentença reformada para adequar a base de cálculo dos juros compensatórios ao decidido na ADin 2.332-2/DF – Recursos parcialmente providos.”
+2. Pois bem, a parte recorrente alega violação ao inciso XXIV do art. 5º da Magna Carta de 1988. Pede a redução dos juros compensatórios ao percentual de 6% ao ano.
+3. Tenho que a insurgência não merece acolhida. É que o acórdão recorrido afina com a jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta. Leia-se, nesse mesmo sentido, a ementa do RE 419.827-AgR, sob a relatoria do ministro Gilmar Mendes:
+“Agravo regimental em recurso extraordinário. 2. Desapropriação. Justa indenização. 3. Redução do montante indenizatório. Reexame de fatos e provas. Súmula 279. 4. Juros compensatórios. Pretensão do agravante de que a taxa de juros compensatórios seja alterada para o percentual de 6% ao ano, nos termos da MP 1577/97. 5. Inaplicabilidade da MP 1577/97 e reedições. Medida provisória não convertida em lei no trintídio constitucional. Perda de eficácia. 6. Taxa de juros compensatórios em desapropriações diretas ou indiretas é de 12% (doze por cento) ao ano. Inafastável a Súmula 618 do STF. 7. Agravo regimental a que se nega provimento.”
+4. Outros precedentes: AI 666.130-AgR, sob a relatoria da ministra Cármen Lúcia; bem como REs 395.793-AgR, sob a relatoria da ministra Ellen Gracie; 562.846-AgR, sob a relatoria do ministro Eros Grau; e 591.539, sob a relatoria do ministro Cezar Peluso.
+5. À derradeira, ressalto que a interposição do recurso sob o fundamento da alínea “b” do inciso III do art. 102 da Constituição Republicana só é cabível quando o aresto impugnado declara a inconstitucionalidade de tratado ou lei federal, o que não ocorreu no caso. Nessa contextura, é de se aplicar a Súmula 284/STF.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 02 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
