@@ -1,0 +1,1 @@
+Art. 2º-A. Fica reduzida para 15% (quinze por cento), a partir de 1º de janeiro de 2002, a alíquota do imposto de renda na fonte incidente sobre as importâncias pagas, creditadas, entregues, empregadas ou remetidas ao exterior a título de remuneração de serviços de assistência administrativa e semelhantes.
