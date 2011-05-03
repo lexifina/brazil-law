@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Ação Rescisória – conversão de vencimento em Unidade Real de Valor – Divergência na interpretação da lei – Não violação a dispositivo literal de lei – art. 485, V, do CPC – Aplicação da Súmula 343 do STF – Extinção por ausência de pressuposto processual – Art. 267, IV, do CPC – Manutenção do Acórdão Combatido.
+I – A simples controvérsia na interpretação da lei não dá ensejo à violação de literal disposição de lei, não sendo causa para a ação rescisória, conforme preceitua a Súmula nº 343/STF.
+(...)” (fl. 671).
+No RE, fundado com base no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 37, X, da mesma Carta.
+O agravo merece acolhida. Isso porque a jurisprudência deste Tribunal fixou-se no sentido de que é cabível a ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida, sendo inaplicável a Súmula 343 do STF, conforme se observa do RE 328.812-ED/AM, Rel. Min. Gilmar Mendes, Plenário, que porta a seguinte ementa:
+“Embargos de Declaração em Recurso Extraordinário. 2. Julgamento remetido ao Plenário pela Segunda Turma. Conhecimento. 3. É possível ao Plenário apreciar embargos de declaração opostos contra acórdão prolatado por órgão fracionário, quando o processo foi remetido pela Turma originalmente competente. Maioria. 4. Ação Rescisória. Matéria constitucional. Inaplicabilidade da Súmula 343/STF. 5. A manutenção de decisões das instâncias ordinárias divergentes da interpretação adotada pelo STF revela-se afrontosa à força normativa da Constituição e ao princípio da máxima efetividade da norma constitucional. 6. Cabe ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida ou seja anterior à orientação fixada pelo Supremo Tribunal Federal” (grifos meus).
+No mesmo sentido, menciono as seguintes decisões, entre outras: RE 463.624-AgR-ED-ED/RN, Rel. Min. Joaquim Barbosa; RE 235.794-AgR/SC e RE 356.765/AM, Rel. Min. Gilmar Mendes; AI 436.801-AgR-ED/PA, Rel. Min. Ellen Gracie; RE 500.043-AgR/GO, Rel. Min. Cármen Lúcia; AI 555.806-AgR/MG, Rel. Min. Eros Grau; RE 467.942/CE, Rel. Min. Dias Toffoli; RE 371.777/RN e RE 314.590/PE, Rel. Min. Cezar Peluso.
+Isso posto, dou provimento ao agravo (Art. 544, § 4º, II, c, do CPC) para conhecer e dar provimento ao recurso extraordinário para determinar que o Tribunal de origem julgue a ação rescisória.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
