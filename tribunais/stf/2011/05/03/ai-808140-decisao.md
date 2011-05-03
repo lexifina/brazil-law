@@ -1,0 +1,39 @@
+AGRAVO   DE   INSTRUMENTO . TRABALHISTA . AC ÓRDÃO FUNDADO   EM   INTERPRETA Ç ÃO DE   NORMA   INFRACONSTITUCIONAL . ALEGA Ç ÃO DE   OFENSA   AO   ARTIGO 5 º , LV , DA   CF . REEXAME   DE   PROVA . IMPOSSIBILIDADE . S ÚMULA 279/STF.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. Os postulados do devido processo legal, do contraditório e da prestação jurisdicional supostamente violados, in casu, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância que não viabiliza o acesso à instância extraordinária. [AI n. 238.917-AgR, Relator o Ministro Celso de Mello, DJ de 20.10.00].
+3. A aferição da violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando, também, inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+4. O reexame dos fatos e provas que fundamentaram a decisão recorrida também inviabiliza o processamento do recurso extraordinário, ante a vedação contida no enunciado da Súmula 279 desta Corte, verbis,
+“Para simples reexame de prova não cabe recurso extraordinário.”
+5. Nego provimento ao agravo de instrumento.
+DECIS Ã O: Cuidam, os autos, de agravo de instrumento interposto por JK ERGOLINE SOL COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo constitucional, em que apontava como violado pelo acórdão recorrido o artigo 5º, LV, da Constituição Federal.
+Noticiam os autos que, nos autos de reclamação trabalhista, o ora agravante foi declarado revel, e confessa, quanto à matéria fática, por não ter comparecido a audiência. A reclamada interpôs recurso ordinário alegando nulidade da citação, por isto o seu não comparecimento na audiência.
+A decisão foi mantida in totum pelo Tribunal Regional do Trabalho da 2ª Região, de onde se colhe do voto condutor:
+2. Inexiste a nulidade apontada, sendo válida a notificação. Esta foi entregue no endereço da recorrente ( AV. dos Tajurás nº 147), em mãos de Patrícia Panegassi, recepcionista, em diligência com acompanhamento do recorrido e devidamente certificada pelo Oficial de Justiça, na data de 14.07.2006. Foi também para esse local que foi endereçada notificação da R. Sentença (fl. 86). com plena eficácia.
+Mantenho o estado de revelia e a pena de confissão de origem.
+3. Os recursos não tem efeito suspensivo.
+A fé pública do Oficial e a eficácia da notificação no endereço da av. Dos tajurás para fins do recurso só confirmam a absoluta regularidade da citação.
+Nego provimento ao recurso e julgo improcedentes as Cautelares.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do apelo extremo, sustenta preliminarmente estar caracterizada a repercussão geral e, no mérito, reafirma o seu entendimento no sentido de ser nula a citação por não ter sido cumprido as formalidades legais.
+É o breve relato. DECIDO .
+Prima facie, a irresignação não prospera.
+A controvérsia foi decidida à luz de interpretação de norma infraconstitucional, no caso sub examine, o CPC. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido o RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10 entre outros.
+Improcedente, também, a alegada ofensa ao artigo 5º, LV, da Constituição Federal, isto porque a jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta (AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, Dje de 25/11/10).
+CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+1. Para divergir da conclusão a que chegou o Tribunal a quo , seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+4. Agravo regimental improvido (AI 756.336-AgR, 2ª, Rel. Min. Ellen Gracie, Dje de 25/10/10).
+In casu, o Tribunal a quo pronunciou-se quanto à questão sub examine à luz do contexto fático-probatório engendrado nos autos. Para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame dos fatos e das provas constantes dos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula 279 do Supremo Tribunal Federal que interdita a esta Corte, em sede de recurso extraordinário, sindicar matéria fática. Precedentes: AI 828.256-AgR, Relatora Min. Cármen Lúcia, DJe 03/03/2011; AI 656.624-AgR, Relatora Min. Ellen Gracie, Segunda Turma, DJe 16/04/2010.
+Vale lembrar o verbete da Súmula 279, verbis,
+“Para simples reexame de prova não cabe recurso extraordinário.”
+No que pertine a este verbete sumular, oportuno o comentário do professor Roberto Rosas. In Direito Sumular, 12ª edição, Editora Malheiros:
+Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos. A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2a ed., v. I/175).
+Não é estranha a qualificação jurídica dos fatos dados como provados (RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+A Súmula 279 é peremptória: Para simples reexame de prova não cabe recurso extraordinário. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65) (Pestana de Aguiar, Comentários ao Código de Processo Civil, 2a ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383).
+Ex positis, nego provimento ao agravo de instrumento com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
