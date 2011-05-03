@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição Federal) contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja a ementa possui o seguinte teor:
+“EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. GRATIFICAÇÃO DE FUNÇÃO POLICIAL MILITAR, DE MORADIA E DE FARDAMENTO. LEI COMPLEMENTAR Nº 341/07. DIREITO À PRECEPÇÃO DE VANTAGENS NA FORMA PROGRAMADA NO MENCIONADO DIPLOMA LEGAL (ART. 4º, I E II). INTERPRETAÇÃO CONSISTENTE EM ATRIBUIR EFEITO RETROATIVO ÀS CITADAS DISPOSIÇÕES, EM FACE DA PREVISÃO CONTIDA NO ART. 7º DA LC Nº 341/2007. DESCABIMENTO. DISPOSITIVOS LEGAIS QUE FORAM VAZADOS COM EXPRESSÕES LINGUÍSTICAS QUE NÃO DEIXAM MARGEM A AMBIGUIDADES. CONHECIMENTO E IMPROVIMENTO DO RECURSO.”
+No recurso extraordinário, o ora agravante alega violação do disposto nos arts. 5º, caput, II, XXXV, LIV e LV; 37, caput; e 93, IX, da Constituição.
+Inexiste a alegada ofensa aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Ademais, verifico que o Tribunal a quo decidiu a controvérsia com base na Lei Complementar estadual 341/2007. Assim, a análise da suposta violação aos arts. 5º, II, e 37, caput, demandaria o exame prévio da legislação local aplicável ao caso, o que inviabiliza a abertura da via extraordinária ante o óbice da Súmula 280 desta Corte.
+Confiram-se, em casos idênticos ao presente, os seguintes julgados: AI 827.886 (rel. Min. Ricardo Lewandowski, DJe de 22.03.2011), AI 819.721 (rel. Min. Gilmar Mendes, DJe de 24.02.2011) e AI 609.291 (rel. Min. Ellen Gracie, DJe de 14.12.2010).
+Por fim, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição. Acrescento, também, que a petição recursal não oferece qualquer fundamentação no que se refere a esse particular, o que permite a invocação da Súmula 284 desta Corte.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 03 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
