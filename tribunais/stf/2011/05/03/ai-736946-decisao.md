@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão cuja ementa é do seguinte teor (fls. 61):
+“ANULAÇÃO DE ATO ADMINISTRATIVO. Multa. Instalação indevida de filtro de água em poço artesiano. Responsabilidade pela prestação de serviço defeituoso. Apelante que, além de comercializar o produto, também o instalou. Hipótese em que o produto em questão deveria ser instalado em água tratada, não havendo qualquer observação quanto à instalação em poço semi-artesiano. Art. 14, do CPC. Valor da multa fixada que se encontrada em conformidade aos parâmetros legais. Sentença mantida. Recurso não provido.” (Sic – Grifo original)
+No recurso extraordinário, a ora agravante aponta violação do art. 37 da Carta Magna. Sustenta, em síntese, que “ao decidir pela manutenção do valor da multa, não foi observado o que preconiza o art. 3º do Decreto Municipal de Atibaia n. 3.483/97 (...) Tal inobservância, por certo, feriu o princípio constitucional da razoabilidade (ou proporcionalidade)” (fls. 98 – grifo original). Alega, também, que “ao deixar de observar o critério estabelecido no Decreto Municipal para aplicação da multa, evidente também que a Administração feriu o princípio da legalidade, eis que praticou ato fora do que permitia a lei – no caso, o Decreto Municipal” (fls. 99 – grifo original).
+A análise da suposta ofensa ao art. 37 da Constituição, do modo como formulado nas razões do extraordinário, demandaria o prévio exame da legislação infraconstitucional e local (Código de Defesa do Consumidor e Decreto Municipal 3.483/1997), bem como do quadro fático-probatório, o que é vedado no âmbito de cognição do recurso extraordinário, por força do disposto nas Súmulas 279, 280 e 636 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
