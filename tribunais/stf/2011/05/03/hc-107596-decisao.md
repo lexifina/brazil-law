@@ -1,0 +1,21 @@
+D ECIS Ã O: Trata-se de habeas corpus, com pedido de liminar, impetrado contra ato supostamente ilegal de Ministra Relatora que indeferiu liminar pleiteada em idêntico remédio constitucional proposto perante o Superior Tribunal de Justiça, visando o relaxamento de prisão processual por excesso de prazo para a prolação da decisão.
+Ao consignar que a prisão processual não deve ser vista como meio de punição e como resposta ao anseio da sociedade por maior rigor na repressão criminal, informa o impetrante que os pacientes, todos réus primários e de vida social irrepreensível, estão presos há um ano e dois meses, desde 17 de dezembro de 2009, sem que a denúncia tenha sido sequer recebida.
+Segundo narra a peça vestibular, os pacientes foram denunciados e tiveram prisão preventiva decretada pelo Desembargador da Seção Criminal do Tribunal de Justiça do Rio de Janeiro, tendo sido imputado a Cristiano o suposto envolvimento nos crimes descritos nos artigos 288, parágrafo único, e 158, § 1°, ambos do Código Penal e artigo 1°, inciso VII, da Lei 9.613/98, e imputado a Wallace e Carlos o suposto envolvimento no crime descrito no artigo 288, parágrafo único, do Código Penal.
+A prisão baseia-se na conveniência da instrução processual, pois os réus são acusados de envolvimento com milícias e estariam incutindo temor nas testemunhas apontadas pelo parquet.
+Ainda conforme alegado, os réus, devidamente citados, apresentaram defesa preliminar, nos termos da Lei 8.038/90, sendo que a denúncia não foi até o momento recebida pelo Tribunal de Justiça; além disso, em virtude da cassação do mandato parlamentar de um dos corréus, a Seção Criminal do Tribunal de Justiça do Rio de Janeiro declinou de sua competência para o juízo de primeiro grau, mantendo a prisão provisória dos pacientes.
+Por fim, sustenta o impetrante que os pacientes já cumpriram mais de um sexto da pena aplicável na hipótese de condenação, fazendo surgir o direito à progressão de regime de cumprimento de pena. Inobstante, invoca a incidência do prazo de noventa dias para o encerramento do rito, previsto no art. 412 do CPP, o qual teria sido extrapolado.
+O Superior Tribunal de Justiça, por intermédio de seu Ministro Presidente, indeferiu o pedido de liminar, em decisão assim redigida:
+“No presente mandamus, sustenta-se existir excesso de prazo na formação da culpa. Contudo, pelo que consta dos autos, inexiste manifestação do Tribunal a quo acerca desta matéria, tampouco sobre a manutenção da custódia do paciente, tendo apenas declinado da competência para uma das Varas Criminais de primeira instância.
+Além disso não há indicação nos autos de terem sido opostos embargos de declaração para sanar possível omissão. Assim, mostra-se razoável que se consulte o Juízo singular competente sobre o atual andamento do feito.
+Ressalte-se, por fim, que a questão do excesso de prazo na formação da culpa não se esgota na simples verificação aritmética dos prazos previstos na lei processual, devendo ser analisada à luz do princípio da razoabilidade, segundo as circunstâncias detalhadas de cada caso concreto.
+Ante o exposto, indefiro a liminar.”
+Defende, a exordial, a inaplicabilidade do enunciado nº 691 da Súmula da Jurisprudência predominante do Supremo Tribunal Federal, em virtude da flagrante ilegalidade da prisão em comento. Cita, em seu favor, precedentes nos quais o óbice do verbete mencionado foi superado.
+Das afirmações aduzidas na inicial, não é possível vislumbrar primo ictu oculi qualquer ilegalidade teratológica que imponha o afastamento do princípio do contraditório (art. 5º, LV, CRFB).
+O tempo do processo deve ser analisado à luz do postulado da proporcionalidade, porquanto a regular dromologia processual é instrumento de garantia de uma decisão justa e comprometida com a verdade.
+Ausente, em vista do exposto, o fumus boni iuris, indefiro o pedido de liminar.
+Requisitem-se informações à autoridade coatora no prazo de cinco dias, com máxima urgência, inclusive via fax, tendo em vista a natureza do pedido (art. 662 do CPP). Sem prejuízo, ao Procurador-Geral da República para emissão de parecer no prazo de dois dias (art. 192, § 1º, do RISTF).
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
