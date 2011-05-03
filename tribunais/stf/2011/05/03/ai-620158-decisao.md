@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual rejeitou a exceção de pré-executividade que pretendia a suspensão da exigibilidade do crédito tributário em virtude da existência de ação anulatória de débito fiscal.
+2.  A parte recorrente alega ofensa aos artigos 5º, LIV e LV, e 37, § 6º, da Constituição Federal.
+3.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido nem suscitados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Incidem, na espécie, as Súmulas STF 282 e 356.
+4.  Ademais, o Tribunal de origem decidiu a questão com fundamento no conjunto fático probatório dos autos (Súmula STF 279), hipótese inviável em sede extraordinária. É o que se percebe da leitura da ementa do acórdão recorrido. Veja-se:
+“AGRAVO DE INSTRUMENTO – Contra decisão que rejeitou a exceção de pré-executividade – Imposto recolhido a menor por erro no enquadramento – Inexistência de provas – Decisão em ação anulatória, procedente apenas em parte, não impede a execução fiscal – Negado provimento ao recurso, nos termos do acórdão”.
+ Nesse sentido: RE 577.787-AgR/DF, rel. Min. Cezar Peluso, 2ª Turma, DJe 20.6.2008; e AI 747.510-AgR/PE, rel. Min. Carlos Britto, DJe 16.10.2009, este último assim ementado:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. SUPOSTA VIOLAÇÃO AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Ofensa à Carta Magna, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 2. De mais a mais, o aresto impugnado, em que pese haver dissentido dos interesses da parte agravante, está devidamente fundamentado. Logo, não cabe falar em afronta ao inciso IX do art. 93 da Cosntituição Republicana. 3. Agravo regimental desprovido”.
+5.  Por fim, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.4.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 03 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
