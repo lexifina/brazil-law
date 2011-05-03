@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL SUSCITADA. PRELIMINAR FORMAL E FUNDAMENTADA. NECESSIDADE DE DEMONSTRAÇÃO. ART. 543-A, § 2º, DO CÓDIGO DE PROCESSO CIVIL.
+1- A repercussão geral é novel requisito intrínseco de admissibilidade do apelo extremo, por isso que todo recurso extraordinário, interposto de decisão cuja intimação ocorreu após 3 de maio de 2007, data da publicação da Emenda Regimental n. 21, deve apresentar preliminar formal e fundamentada da transcendência, na forma do art. 543-A, § 2º, do CPC, litteris:
+“Art. 543-A. O Supremo Tribunal Federal, em decisão irrecorrível, não conhecerá do recurso extraordinário, quando a questão constitucional nele versada não oferecer repercussão geral, nos termos deste artigo.
+(...)
+§ 2o O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral.”
+2- In casu o agravante não demonstrou que as questões constitucionais suscitadas ultrapassam os interesses subjetivos da causa, com a exposição da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico.
+3- Agravo de instrumento a que se nega provimento.
+D ECIS Ã O: Cuidam, os autos, de agravo de instrumento interposto pela Empresa Santo Antônio Transportes e Turismo Ltda, contra r. decisão que inadmitiu seu recurso extraordinário manejado com o intuito de ver reformado o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“INDENIZAÇÃO – EXECUÇÃO DE SENTENÇA – PENHORA – Pretensão de ser efetivado o bloqueio dos saldos das contas bancárias da executada, pelo sistema 'BACENJUD', até o limite do crédito exequendo, visando futura penhora – Possibilidade – Todos os bens da devedora respondem pelos débitos em execução, inclusive os ativos financeiros existentes em Bancos – Recurso não provido.”
+Os autos tratam, originariamente, de ação de indenização em que a agravante alega que o acordão recorrido violou o disposto no artigo 620 do CPC, norma que determina que o processo executório ocorra de forma menos gravosa ao devedor, e o artigo 5º, X e XII, da CF/88, “norma que expressa o princípio da inviolabilidade do sigilo bancário, matérias estas que não tinham sido analisadas pela Turma Julgadora.”
+Nas razões recursais, alegou-se violação ao art. 5º, X e XII, da Constituição Federal.
+É o relatório.
+A agravante não apresentou preliminar formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais debatidas no caso, não tendo sido observado o disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06.
+A repercussão geral como novel requisito constitucional de admissibilidade do recurso extraordinário demanda que o reclamante demonstre, fundamentadamente, que a irresignação extrema encarta questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa (artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06, verbis: O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência de repercussão geral).
+Esse entendimento restou assentado no julgamento do AI n. 797.515 – AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe de 28.02.11:
+“EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À PRELIMINAR DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto”.
+In casu, a agravante limitou-se a afirmar que “a decisão a ser proferida por este Excelso Tribunal, criará precedente quanto à possibilidade de reforma de decisões que deferem o processamento do processo executivo de forma mais gravosa ao devedor, principalmente por permitir a quebra de seu sigilo bancário.”
+Ex positis, nego provimento ao agravo de instrumento com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
