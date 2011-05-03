@@ -1,0 +1,31 @@
+AGRAVO   DE   INSTRUMENTO . TRABALHISTA . COMPLEMENTA Ç ÃO DE   APOSENTADORIA . CUMPRIMENTO   DE   SENTEN ÇA. PROVA   PERICIAL . MAT ÉRIA DE   ÍNDOLE INFRACONSTITUCIONAL . ALEGA Ç ÃO DE   OFENSA   AO   ARTIGO 5 º , LIV E LV , DA   CF . OFENSA   INDIRETA   À   CONSTITUI Ç ÃO DA   REP ÚBLICA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. A aferição da violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+3. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da prestação jurisdicional, e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que por si só, não desafia a instância extraordinária. Precedentes: (AI 804.854, Primeira Turma, Relatora Ministra Cármen Lúcia, AI 824.885-AgR, Primeira Turma, Relator Ministro Ricardo Lewandowski, AI 756.336-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, e AI 760.8267-AgR, Segunda Turma, Relator Ministro Eros Grau).
+4. Não ofende o art. 5º, LV, da Constituição, acórdão que mantém o indeferimento de diligência probatória tida por desnecessária.(AI n. 514.020-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 18.3.05).
+5. NEGO PROVIMENTO ao agravo de instrumento.
+D ECIS Ã O: Cuida-se de agravo de instrumento interposto por CAIXA DE PREVIDÊNLCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a, do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. IGP-DI. IMPUGNAÇÃO AO CUMPRIMELNTO DE SENTENÇA. PRODUÇÃO DE PROVA PERICIAL ATUARIAL. DESNECESSIDADE.
+Agravo interno desprovido.
+Noticiam os autos que a PREVI interpôs agravo interno contra decisão monocrática que deu provimento ao agravo de instrumento de Ingrid Haetinger Santos e outros sob os seguintes fundamentos:
+(i)trata-se de cumprimento de sentença que condenou a agravada ao pagamento da diferença decorrente da não adoção do IGP-DI como índice de correção monetária no período de junho de 2002 a maio de 2003.
+(ii)a inconformidade da agravada manifestada por meio de impugnação ao cumprimento de sentença diz com a ausência de abatimento, pelo contador judicial, das parcelas pagas administrativamente pela agravada aos agravantes, o que também reria sido determinado pelo título judicial.
+(iii) depreende-se, daí, que não há qualquer peculiaridade na lide a ensejar a realização de perícia atuarial, na medida em que a solução está em simples cálculo aritmético em cumprimento da sentença.
+Adotou-se para a decisão do agravo interno interposto pela PREVI a fundamentação da decisão do agravo de instrumento acima transcrita e acrescida da parte dispositiva que assim assim consignou: “Por estas razões, nego provimento ao agravo interno.”
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, sustenta, preliminarmente, estar caracterizada a repercussão geral e, no mérito, aponta violação ao artigo 5º, LIV e LV, da Constituição Federal. Assevera que a não produção de prova pericial atuarial caracteriza cerceamento de defesa.
+É o Relatório. DECIDO .
+Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+A irresignação não prospera.
+As alegações de contrariedade aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta (AI 807.972-AgR, Primeira Turma, Relatora Ministra Cármen Lúcia, DJe 25.11.2010).
+TRABALHISTA. FGTS. LEI COMPLEMENTAR 110/2001. PRESTAÇÃO JURISDICIONAL. COISA JULGADA. OFENSA REFLEXA.
+1. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de desrespeito aos postulados da prestação jurisdicional e dos limites da coisa julgada podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+2. Agravo regimental improvido (AI 754.928-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, DJe 19.11.2010).
+Deveras, o tema judicandum, necessidade de perícia atuária envolve apreciação de matéria eminentemente infraconstitucional, por isto que eventual ofensa à Constituição, também dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, o RE n. 148.512, Relator o Ministro Ilmar Galvão, DJ de 2.8.96; o AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, DJ de 9.12.94; e o AI n. 145.680-AgR, Relator o Ministro Celso de Mello, DJ de 30.4.93, entre outros.
+O entendimento deste Tribunal é pacífico no sentido de que não ofende o art. 5º, LV, da Constituição, acórdão que mantém o indeferimento de diligência probatória tida por desnecessária.(AI n. 514.020-AgR, Relator o Ministro Sepúlveda Pertence, DJ de 18.3.05).
+Ex positis, nego provimento ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
