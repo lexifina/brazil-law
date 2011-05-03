@@ -1,0 +1,37 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão de Turma recursal que indeferiu inicial de mandado de segurança porque “a impetrante, intimada para regularizar o recolhimento das custas neste mandamus, sequer se manifestou” (fl. 61).
+2.  No RE, a parte agravante sustenta ofensa aos artigos 5º, V, LIV, LV e LXXIV, e 93, IX, da Constituição Federal, aduzindo, em síntese, o seguinte:
+“Inicialmente, deve ser ressaltado que a decisão contra a qual foi interposto o recurso extraordinário deixou de analisar, por completo, as razões contidas no mandado de segurança e nos embargos de declaração opostos, sendo totalmente despida de fundamentação.
+Fica claro e evidente que as questões suscitadas deixaram de ser analisadas na padronizada decisão do Conselho Recursal a quo, estando maculado de nulidade tal acórdão, por falta de fundamentação”.
+(...)
+“O v. Acórdão recorrido, descomprometido com a realidade fática e probatória, não reconheceu que, embora o ora recorrente seja assistido pela defensoria pública, não há nos autos qualquer prova de que o defensor público foi intimado, pessoalmente, para proceder a emenda da inicial, não havendo no ofício enviado pelo juízo, qualquer prova de recebimento por parte do defensor público ou de qualquer outro funcionário da defensoria pública, impossibilitando, assim, o pleno exercício de defesa do ora recorrente.
+Tal ilegalidade ofende sobremaneira o princípio da ampla defesa e do contraditório no seio da correlata relação jurídica processual, fato que abaliza o pedido de nulidade da referida decisão.
+Ocorre daí, a nulidade do acórdão por violação ao artigo 5º e 134 da Constituição Federal, bem como ao artigo 128, I, da Lei Complementar 80/93...” (fl. 149).
+ Ao final, requer o recorrente a nulidade do aresto impugnado diante “da ausência de intimação do Defensor Público para emendar a inicial do processo 2008.067.006885-2, por total falta de fundamentação” (fl. 159).
+3.  O recurso não merece prosperar. Apesar de entender que a fundamentação do aresto recorrido encontra-se deficiente, está sedimentado nesta Corte o entendimento de que a alegação de ofensa a incisos do art. 5º da Constituição Federal – ampla defesa, prestação jurisdicional, entre outros – pode configurar, quando muito, situação de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+ Veja-se o AI 740.702/RJ, rel. Min. Marco Aurélio, DJe 22.06.2009, no qual asseverou o relator :
+“A Turma Recursal acolheu pedido formulado em embargos de declaração, concedendo efeito modificativo à decisão proferida no recurso, ante fundamentos assim sintetizados (folha 86):
+1. EMBARGOS DE DECLARAÇÃO 2 - OMISSÃO: PRELIMINAR DE INTEMPESTIVIDADE DO RECURSO DO INSS NÃO APRECIADA. 3 - OMISSÃO CONFIGURADA. 4 - MÉRITO DA QUESTÃO OMISSA: PROCEDENTE. 5 - INSS INTIMADO POR PUBLICAÇÃO. 6 - INAPLICABILIDADE DA LEI Nº 10.910/2004 AO RITO DOS JUIZADOS ESPECIAIS FEDERAIS, TENDO EM VISTA O CARÁTER ESPECIAL DA LEI Nº 10.259/2001, QUE CONCEDE A PRERROGATIVA DE INTIMAÇÃO PESSOAL APENAS À UNIÃO (ART. 7º). 7 - ENTENDIMENTO CONSOLIDADE (ENUNCIADO Nº 39 DESTAS TURMAS). 8 - RECURSO INOMINADO NÃO CONHECIDO POR INTEMPESTIVO.
+2.  O ato impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+ A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+ Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+3.  Conheço do agravo e o desprovejo”.
+ Ademais, este Tribunal já se manifestou, em outras oportunidades, a respeito da questão trazida pelo recorrente no sentido de que é dispensável, no âmbito dos juizados especiais, a intimação de defensores públicos.
+ Nesse sentido, o AI 721.037/RJ, rel. Min. Cármen Lúcia, DJe 21.10.2008, cuja decisão está assim ementada:
+“AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DECISÃO DE JUIZADO ESPECIAL. INTIMAÇÃO PESSOAL DA DEFENSORIA PÚBLICA: DESNECESSIDADE. PRECEDENTES. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. DESNECESSIDADE DE EXAME. ART. 323, PRIMEIRA PARTE, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO”.
+ Nesse mesmo sentido, o AI 589.442/RJ, rel. Min. Sepúlveda Pertence, DJ 21.02.2006, de cuja decisão destaco:
+“Alega-se violação do art. 5º, LV, da Constituição, sob o fundamento de que as LC 80/94, em seu art. 128, I, assegura aos Defensores Públicos o direito de intimação pessoal inclusive no âmbito dos Juizados Especiais.
+Aduzem que as L. 9.099/95 e 10.259/01, malgrado posteriores, não podem ser aplicadas, pois são leis ordinárias.
+Decido.
+A alegada violação do art. 5º, LV, da Constituição, não foi analisada pelo acórdão recorrido, nem objeto de embargos de declaração: incidem as Súmulas 282 e 356 do STF.
+É o que basta para negar provimento ao agravo.
+De qualquer modo, firme a jurisprudência do Tribunal em que, nos Juizados Especiais, prevalece o critério de especialidade e, por isso, basta a intimação pela imprensa, nos termos do art. 82, §4º, da L. 9.099/95 (v.g., HHCC 76.915, Pleno, 17.6.98, Marco Aurélio, DJ 27.4.01; 81.446, 1ª T., 16.4.02, Ellen, DJ 10.5.02; 84.277, 2ª T., 21.9.04, Velloso, DJ 8.10.04).
+E, conforme ressaltei no HC 86.007 (1ª T., 29.6.05, Pertence, p.p.), 'improcede a alegação de que, prescrita a intimação pessoal do Defensor Público em lei complementar, por isso subsistiria a regra à superveniência da lei ordinária dos Juizados Especiais: o tema não se inclui no âmbito material reservado à lei complementar pelo art. 134 e parágrafos da Constituição, mas disciplina questão processual e, por isso, tem natureza de lei ordinária'.
+Nego provimento ao agravo”.
+ Veja-se o HC 76.915/RS, Plenário, Rel. Min. Marco Aurélio, DJ 27.04.2001, assim ementado:
+“INTIMAÇÃO - DEFENSOR PÚBLICO - ATO DE TURMA RECURSAL DOS JUIZADOS ESPECIAS CRIMINAIS. O critério da especialidade é conducente a concluir-se pela inaplicabilidade, nos juizados especiais, da intimação pessoal prevista nos artigos 370, § 4º, do Código de Processo Penal (com redação dada pelo artigo 1º da Lei nº 9.271, de 17 de abril de 1996) e 5º, § 5º, da Lei nº 1.060/50 (com a redação introduzida pela Lei nº 7.871/89)”.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 03 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
