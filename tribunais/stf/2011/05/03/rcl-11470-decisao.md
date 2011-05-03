@@ -1,0 +1,21 @@
+Decisão:
+Vistos.
+Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Júlia Ecila Mattos Di Lucca em face do Tribunal Regional Federal da 3ª Região, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no Inquérito nº 1.145/PB.
+A reclamante afirma que, “em que pese o esforço do Parquet em tentar (mal) tipificar aludida conduta através da (defesa) equiparação ao estelionato, o bem da verdade é que a ação penal não pode prosseguir, já que o caso em tela se amolda exatamente ao quanto já decidido pelo Plenário deste Supremo Tribunal [Inq. 1145/PB] sobre o tema 'cola eletrônica': POR FALTA DE PREVISÃO LEGAL, ESTE TIPO DE FRAUDE NÃO É CRIME, NÃO PODENDO SER EQUIPARADA AO ESTELIONATO E/OU À FALSIDADE IDEOLÓGICA. MISTER O TRANCAMENTO DA AÇÃO PENAL” (fl. 3 da inicial – grifos no original).
+Examinados os autos, decido.
+Inicialmente, consigno que, nos termos do art. 102, inc. I, alínea "l", da Constituição Federal, bem como nos arts. 156 do Regimento Interno desta Corte e 13 da Lei nº 8.038/90, a reclamação só é admissível em duas hipóteses: para a preservação da esfera de competência da Corte e para garantir a autoridade das suas decisões.
+No caso sob exame, a decisão desta Suprema Corte, cuja autoridade a reclamante sustenta estar comprometida com a manutenção do ato impugnado, consiste no julgamento do Inquérito nº 1.145/PB. Com efeito, ressalto que o julgado proferido possui natureza subjetiva e, portanto, sua eficácia vinculante é restrita às partes nelas relacionadas.
+Note-se que a reclamante não figurara em nenhum dos pólos da citada relação processual tida por afrontada, sendo assente a ilegitimidade ativa na presente reclamação. Nesse sentido a Rcl nº 3.051/RS-AgR, Relator o Ministro Ayres Britto, cuja ementa transcrevo:
+“AGRAVO REGIMENTAL. RECLAMAÇÃO.
+A decisão tomada no RE 197.917, em razão da sua natureza subjetiva, possui eficácia vinculante apenas em relação às partes que dele participaram. Por isso mesmo, não figurando a agravante em nenhum dos pólos da precitada relação processual, falta-lhe legitimidade ativa ad causam . Ainda que assim não fosse, a edição das Resoluções nºs 21.702 e 21.803, do Tribunal Superior Eleitoral, observou as diretrizes fixadas quando do julgamento do mencionado RE 197.917, razão por que não se divisa nenhum desrespeito ao que foi decidido pelo Supremo Tribunal Federal no pré-falado apelo extremo.
+Agravo regimental desprovido ” (Tribunal Pleno, DJ de 15/9/06).
+Este Supremo Tribunal tem jurisprudência pacífica no sentido de que não se conhece de reclamação fundada em precedentes sem eficácia geral e vinculante, de cuja relação processual o reclamante não fez parte. Confira-se:
+“” (Rcl nº 10.392/RS-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 13/4/11);
+“RECLAMAÇÃO. Alegação de afronta a decisão proferida em agravo regimental em agravo de instrumento. Causa de índole subjetiva. Decisão desprovida de eficácia erga omnes. Vinculação restrita às partes. Autoridade diversa daquela que é sujeito processual do recurso extraordinário. Processo extinto, sem julgamento de mérito. Inteligência do art. 102, I, ‘l’, da CF. Precedentes. Agravo regimental improvido. Não cabe reclamação por suposta ofensa à autoridade de decisão proferida em processo subjetivo, do qual não é nem foi parte o reclamante” (Rcl nº 5.335/MG-ED, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJe de 9/5/08).
+O interesse da parte foi manejar a reclamação como sucedâneo de recurso, o que é vedado pela jurisprudência da Corte, conforme reiterados julgados: Rcl nº 11.022/DF-ED, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 7/4/11; Rcl nº 4.803/SP, Tribunal Pleno, de minha relatoria, DJe de 22/10/10; Rcl nº 9.127/RJ-AgR, Relator Ministro Ayres Britto, Tribunal Pleno, DJe de 20/8/10; e Rcl nº 6.078/SC-AgR, Relator o Ministro Joaquim Barbosa, Tribunal Pleno, DJe de 30/4/10, entre outros.
+Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e do art. 21, § 1º do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 3 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
