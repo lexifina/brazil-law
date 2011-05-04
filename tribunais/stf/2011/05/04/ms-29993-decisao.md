@@ -1,0 +1,11 @@
+D ECIS Ã O: No caso, o impetrante interpôs petição de Recurso Ordinário Constitucional em desfavor de decisão monocrática denegatória do mandado de segurança originário, por mim proferida.
+Verifica-se que as hipóteses de cabimento de RMS para esta Corte estão expressamente previstas no art. 102, II, “a” e “b”, da Constituição Federal, bem como no art. 539, I, do CPC, entre as quais não se inclui o caso dos autos.
+Por se tratar de erro grosseiro quanto ao cabimento do recurso e por inexistir, no caso, dúvida quanto ao apelo adequado para combater decisão monocrática, não há que se falar, na hipótese, sobre aplicação do princípio da fungibilidade recursal. Nesse sentido a jurisprudência dominante desta Corte:
+“RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA CONTRA DECISÃO QUE INDEFERIU, LIMINARMENTE, A PETIÇÃO DE MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JUDICIAL DE ÓRGÃO FRACIONÁRIO. INTERPOSIÇÃO CUMULATIVA DE RECURSO EXTRAORDINÁRIO E RECURSO ORDINÁRIO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. RECURSO ORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. O sistema processual brasileiro adotou o princípio da unirecorribilidade, segundo o qual cada decisão judicial pode desafiar um recurso. A interposição cumulativa de dois recursos contra a mesma decisão enseja o conhecimento apenas do primeiro protocolizado, com a conseqüente preclusão consumativa em relação ao segundo: precedentes. 2. É inviável a aplicação do princípio da fungibilidade recursal quando inexiste dúvida objetiva a respeito de qual o recurso adequado. 3. A assentada jurisprudência do Supremo Tribunal é no sentido de que não cabe mandado de segurança contra decisões de órgãos fracionários. 4. Recurso Ordinário em Mandado de Segurança não provido”. (grifei) (RMS 25354, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, 3.10.2008)
+Ademais, ainda que se entendesse pela possibilidade de recebimento da petição como Agravo Regimental, não assistiria razão ao impetrante, em virtude de não ter atendido ao prazo de 5 dias, legalmente previsto, para a interposição do citado recurso.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 4 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
