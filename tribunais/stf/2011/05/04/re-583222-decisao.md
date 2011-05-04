@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que, com fundamento nos Decretos-Leis 263/67 e 396/68, entendeu prescritos títulos da dívida pública emitidos no início do século vinte.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 9º, §1º e §2º, do Ato Institucional 4/1966, aos arts. 58, II, 83, II, e 150, §3º, da Constituição de 1967 e aos arts. 5º, XXXVI, e 84, IV, da Carta atual.
+A pretensão recursal não merece acolhida.
+A jurisprudência deste Tribunal firmou o entendimento de que a questão em discussão possui natureza infraconstitucional, por demandar a análise da legislação ordinária aplicável. Dessa forma, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de decisões de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. TÍTULOS DA DÍVIDA PÚBLICA EMITIDOS NO INÍCIO DO SÉCULO VINTE. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 764.635-AgR/GO, Rel. Min. Cármen Lúcia, Primeira Turma).
+“AGRAVO REGIMENTAL. RESGATE DE TÍTULOS DA DÍVIDA PÚBLICA EMITIDOS NO INÍCIO DO SÉCULO XX. PRESCRIÇÃO. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE PROVAS. INCIDÊNCIA DA SÚMULA 279/STF. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Necessidade de exame prévio de norma infraconstitucional para a verificação de contrariedade ao Texto Maior. Ofensa reflexa ou indireta à Constituição. Inexistência de ofensa ao art. 93, IX, da Constituição, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a parte ora agravante. Agravo regimental a que se nega provimento” (AI 765.297-AgR/SP, Rel. Min. Joaquim Barbosa, Segunda Turma).
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 762.987-AgR/DF, Rel. Min. Eros Grau; AI 696.216-AgR/SP e RE 405.320-AgR/DF, Rel. Min. Ellen Gracie; AI 639.000-AgR/SP, Rel. Min. Cármen Lúcia; RE 590.410-AgR/MG, Rel. Min. Cezar Peluso.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 4 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
