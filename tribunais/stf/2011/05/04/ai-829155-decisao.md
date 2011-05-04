@@ -1,0 +1,8 @@
+DECISÃO: A certidão de fls. 27 v., em que figura a data de publicação do acórdão recorrido, está ilegível. Isso implica dizer que falta ao instrumento cópia da certidão de publicação do acórdão recorrido, peça de traslado obrigatório, cuja ausência acarreta o não conhecimento do agravo (Súmula 288/STF e art. 544, § 1º, do Código de Processo Civil).
+Ainda que superado referido óbice, o Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada, no recurso extraordinário, da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007” (DJ de 06.09.2007).
+No caso, a petição de interposição do recurso extraordinário, protocolada em 08.03.2010, não se fez acompanhar da devida demonstração, nas razões recursais, da existência de repercussão geral, o que inviabiliza o apelo extraordinário.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 4 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
