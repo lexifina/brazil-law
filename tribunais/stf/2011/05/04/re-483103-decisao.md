@@ -1,0 +1,26 @@
+DECISÃO
+Vistos.
+O MINISTÉRIO PÚBLICO MILITAR interpõe recurso extraordinário (folhas 2 a 9) contra acórdão proferido pelo Superior Tribunal Militar, assim ementado, na parte em que interessa:
+“ (...) 3. ATO PRATICADO PELO DIRETOR-GERAL DE SECRETARIA. COMPETÊNCIA ORIGINÁRIA DO STM.
+Por ser o Diretor-Geral de Secretaria do Superior Tribunal Militar uma das ‘autoridades da Justiça Militar’, contra seus atos cabe mandado de segurança julgado, originariamente, pelo próprio Superior Tribunal Militar. Inteligência do art. 109, inciso VIII c/c o art. 124, Parágrafo Único, da Constituição Federal; art. 6º, inciso I, alínea ‘d’, da lei nº 8.457/92; e art. 4º, inciso I, alínea ‘c’, do RI/STM (...)” (folha 38).
+Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra alegada contrariedade ao artigo 5º, inciso LIII e 124 da Constituição Federal, em razão de não ter sido reconhecida a incompetência da Justiça Militar para o processamento do feito, em que se discute a aplicação do teto salarial a funcionários aposentados daquela ramo da Justiça Federal da União.
+Depois de apresentadas contrarrazões (folhas 75 a 87), o recurso não foi admitido na origem (folhas 91 a 93), o que ensejou a interposição de agravo de instrumento (apensado a estes), ao que o eminente Ministro Sepúlveda Pertence deu provimento, determinando a subida do recurso extraordinário.
+A União interveio no feito, para defender a procedência do recurso (folhas 120 a 131) e o parecer da douta Procuradoria-Geral da República é pelo não conhecimento do recurso, ou pelo seu provimento (folhas 110 a 117).
+Decido.
+Anote-se, inicialmente, que o representante do recorrente foi intimado da decisão recorrida em 31/5/99, conforme expresso na certidão de folha 69, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação, contudo, não merece prosperar.
+E isso porque a decisão atacada, para decidir pela competência do Superior Tribunal Militar para o conhecimento do mandamus em tela, partiu do disposto em legislações infraconstitucionais, qual seja, de normas da Lei nº 8.457/92 e do Regimento Interno daquela Corte.
+Assim, para concluir de modo diverso ao constante da referida decisão, mister seria o necessário reexame dessas normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, bem assim dos fatos relacionados ao próprio mérito da impetração, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF.
+De fato, assim restou fundamentada a decisão recorrida quanto à definição da competência para o conhecimento do feito:
+“ Por outro lado, o Regulamento do Superior Tribunal Militar, aprovado pela RESOLUÇÃO nº 67, de 31.05.96, expressamente, atribui competência funcional ao Diretor-Geral de Secretaria da Corte para “...praticar atos de gestão administrativa, orçamentária e financeira (...); homologar os cálculos dos proventos, expedir títulos de inatividade e lavrar as apostilas (...); prestar informações a autoridades e entidades públicas sobre o andamento de processos...”.
+Portanto, ao determinar a adequação dos proventos dos ora Impetrantes aos patamares que entendeu de acordo com os termos da Lei 9.421/96, agiu o Diretor-Geral não por delegação, mas dentro de suas atribuições funcionais previstas em regulamento próprio.
+(...)
+Como se vê, à luz da Constituição Federal, da Lei de Organização da Justiça Militar da União e do Regimento Interno do Superior Tribunal Militar, sendo o Diretor-Geral de Secretaria da Corte uma autoridade administrativa da Justiça Militar, como de fato o é, não há que se falar em incompetência do STM para apreciar atos por ele praticados que, em tese, possam ter resultado e, ilegalidade ou em abuso de poder, em detrimento de direito individual e/ou coletivo” (folhas 52/53).
+No sentido dessa conclusão, citem-se os seguintes precedentes:
+“ Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Falta de prequestionamento de dispositivos constitucionais. Matéria que não foi abordada nas razões de apelação ou mesmo em embargos declaratórios. Agravo regimental a que se nega provimento” (AI nº 491.543/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 29/6/07).
+“ O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” (RE nº 544.373/ES-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 7/8/09).
+Ante o exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 4 de maio de 2011.
+Ministro DIAS TOFFOLI
+Relator
