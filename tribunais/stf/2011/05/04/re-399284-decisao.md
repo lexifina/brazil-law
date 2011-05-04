@@ -1,0 +1,33 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Acórdão assim ementado (fls. 533):
+“INDENIZAÇÃO – MORTE DE POLICIAL MILITAR – POLICIAMENTO EM ESCOLTA – CULPA EXCLUSIVA DA VÍTIMA – AUSÊNCIA DE CONDUTA CULPOSA PARA RESPONSABILIZAR O DISTRITO FEDERAL. A responsabilidade do Estado por ato de terceiro contra seu agente impõe a verificação da existência de culpa, sem que se possa falar em teoria do risco profissional e em teoria do risco integral. Tomadas as medidas necessárias e o procedimento estabelecido em lei para o policiamento em escolta, a conduta do policial em retirar as algemas do presidiário e em deste se aproximar, dando-lhe a oportunidade de arrebatar-lhe a arma, somente àquele pode ser imputada. Ausência de conduta culposa por parte do Estado. Indenização não devida. Apelação não provida. Unânime.”
+2. Pois bem, a parte recorrente aponta violação ao § 6º do art. 37 da Magna Carta. Requer seja realizada nova valoração das provas constantes dos autos, para que, afastada a culpa exclusiva da vítima, seja o Estado condenado “ao pagamento de justa indenização por danos morais e materiais aos familiares do ‘de cujus’, levando-se em conta no ‘quantum debeatur’ a colaboração da vítima para o evento que resultou na sua morte” (fls. 560).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Sandra Cureau, opina pelo provimento do apelo extremo. Leia-se do pronunciamento ministerial (fls. 586-591):
+“O recurso atende aos requisitos de admissibilidade intrínsecos e extrínsecos inerentes à via extraordinária, merecendo, assim, ser conhecido.
+Quanto à preliminar, suscitada pelo recorrido, no que tange ao óbice da Súmula 279 do Supremo Tribunal Federal, esta não merece prosperar.
+O tema em debate ventila questão estritamente jurídica e prequestionada, uma vez que o recorrente se utiliza de fatos certos e incontroversos, determinados pelo próprio Tribunal a quo, para demonstrar a configuração da responsabilidade do Estado pela mote da vítima.
+No caso, não busca afastar a culpa da vítima, mas evidenciar a culpa concorrente do Estado.
+Ademais, segundo diretriz dada pelo próprio Pretório Excelso, poderá o Supremo Tribunal Federal, a partir das premissas fáticas estabelecidas pelo aresto recorrido, valorar a prova e decidir pela responsabilidade civil do Estado, determinando se houve culpa exclusiva ou concorrente da vítima, afastando ou atenuando, assim, a indenização por parte do Estado.
+[...]
+Quanto ao mérito, assiste razão ao recorrente.
+Conforme ensina Maria Sylvia Zanella di Pietro, 'a responsabilidade extracontratual do Estado corresponde à obrigação de reparar danos causados a terceiros em decorrência de comportamentos comissivos ou omissivos, materiais ou jurídicos, lícitos ou ilícitos, imputáveis aos agentes públicos.'
+A responsabilidade objetiva do Estado está prevista no artigo 37, § 6º, da Constituição Federal de 1988. Nesta teoria, o administrado tem que demonstrar somente a ocorrência de dano, do ato ou omissão estatal e o nexo causal entre ambos, para ver seu prejuízo indenizado.
+[...]
+Ao Estado, por outro lado, cabe provar a culpa parcial ou exclusiva do agente, ou, até mesmo, o caso fortuito e a força maior, porventura ocorridos no caso, com o intuito de atenuar ou excluir a sua responsabilidade.
+[...]
+No caso em tela, restou comprovada a culpa da vítima. Entretanto, conforme depreendido do próprio acórdão vergastado, o evento danoso não pode ser atribuído exclusivamente a ela, verbis:
+‘Consta dos autos que o presidiário foi escoltado para o Tribunal de Justiça, a fim de ser interrogado, quando alegou que estava passando mal; que a vítima foi destacada para acompanhar o preso ao Hospital, quando foi colhido exame de urina, tendo o outro policial se ausentado para buscar o exame; que o presidiário pediu para ir ao banheiro, oportunidade em que lhe foram retiradas as algemas, quando dominou a vítima e lhe desferiu-lhe um tiro'. (g.n.) (fl. 53).
+Ora, logo adiante, afirmou a Senhora Desembargadora Relatora que 'evidencia-se que tomou as medidas necessárias, adotando o procedimento estabelecido na Lei para o policiamento em escolta. Consta do procedimento que o efetivo deve obedecer à proporção de 2 (dois) Policiais Militares por indivíduo a ser escoltado, devendo o preso ficar sempre enquadrado durante os deslocamentos'. (g.n) (fl. 535).
+Assim, se contradiz no próprio voto ao aduzir que (a) a vítima foi deixada sozinha com o presidiário, enquanto o outro policial militar ia entregar o exame e (b) que foi devidamente seguido o procedimento previsto em Lei onde se deve 'obedecer à proporção de dois policiais militares por indivíduo a ser escoltado.'
+Ademais, o acórdão vergastado optou por atribuir a culpa exclusiva à vítima, vez que 'o ato de retirada das algemas, por solicitação do próprio presidiário, bem como a negligência do policial, que dele chegou perto sem as devidas cautelas, foram, pois, a única causa do ocorrido' (fl. 536).
+Não há como prosperar tal argumentação.
+Há tempos, o Supremo Tribunal Federal, para demonstrar, atenuar ou excluir a incidência da responsabilidade objetiva do Estado, tem admitido a pesquisa em torno da culpa da vítima, verificando se, no caso, houve ou não a culpa exclusiva desta.
+[...]
+No caso, o recorrente não contesta o fato de que a vítima colaborou para a sua própria morte. Entretanto, diante do fato incontroverso de que 'ele era o único policial presente na escolta do preso', não resta dúvida que, 'na ação realizada pelo Estado (escolta policial), houve, ao menos, má execução do serviço público, fato que, por si só, impõe a responsabilidade civil do Estado e o conseqüente dever de indenizar' (fl. 551).
+Ante o exposto, opina o Ministério Público Federal pelo provimento do recurso.”
+4. Tenho como irretocável o parecer do Ministério Público Federal, que adoto como razão de decidir. Isso porque o quadro fático delineado pela instância judicante de origem dá facilitada conta de que, no caso dos autos, houve culpa concorrente do Distrito Federal na morte do policial. É dizer: o Tribunal de Justiça do Distrito Federal e dos Territórios, ao assentar a culpa exclusiva da vítima, violou o § 6º do art. 37 da Constituição Federal.
+Ante o exposto, dou parcial provimento ao recurso. Fazendo-o, determino o retorno dos autos ao Tribunal de Justiça do Distrito Federal e dos Territórios, para que, afastada a culpa exclusiva da vítima, prossiga no julgamento do feito.
+Publique-se.
+Brasília, 04 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
