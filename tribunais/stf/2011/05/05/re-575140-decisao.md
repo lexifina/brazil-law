@@ -1,0 +1,12 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão que declarou inconstitucional a Lei 2.345/2004, do Município de Canguçu-RS, de iniciativa do Poder Legislativo Municipal.
+2.  No RE, a parte recorrente alega violação aos arts. 2º e 61, § 1º, II, b, da Constituição Federal.
+3.  Inadmitido na origem (fls. 111-112), subiram os autos em virtude do provimento do AI 601.037 (fl. 117).
+4.  O recurso não merece prosperar. O Supremo Tribunal Federal entende que é privativa do Chefe do Poder Executivo a iniciativa de lei que disponha sobre organização administrativa e servidores públicos e seu regime jurídico. Confira-se, a respeito, a ADI 2.730/SC, rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 28.5.2010 e ADI 4.154/MT, rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 18.6.2010, esta última assim ementada:
+“EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. EMENDA CONSTITUCIONAL QUE DISPÕE SOBRE REGIME JURÍDICO DOS SERVIDORES PÚBLICOS DO ESTADO DE MATO GROSSO. PROJETO ORIGINADO NA ASSEMBLÉIA LEGISLATIVA. INCONSTITUCIONALIDADE FORMAL. VÍCIO RECONHECIDO. VIOLAÇÃO À RESERVA DE INICIATIVA DO CHEFE DO PODER EXECUTIVO. EXISTÊNCIA, TAMBÉM, DE VÍCIO DE INCONSTITUCIONALIDADE MATERIAL. LIMITE ÚNICO. SUBSÍDIOS DE PARLAMENTAR LIMITADO AO DOS DESEMBARGADORES. VINCULAÇÃO DE ESPÉCIES REMUNERATÓRIAS. IMPOSSIBILIDADE. AÇÃO JULGADA PROCEDENTE. I - A iniciativa de lei que disponha sobre o regime jurídico dos servidores públicos é reservada ao Chefe do Poder Executivo local por força do artigo 61, § 1º, II, c, da Constituição Federal. II - Não se aplica o limite único fixado no § 12, do art. 37, da Constituição Federal, aos subsídios dos Deputados Estaduais e Distritais e dos Vereadores conforme estabelece esse mesmo dispositivo. A lei local impugnada não faz a referida ressalva. III - É vedada a vinculação de quaisquer espécies remuneratórias, para efeito de remuneração de pessoal do serviço público, nos termos do art. 37, XIII, da Constituição Federal. IV - Ação direta julgada procedente para declarar a inconstitucionalidade da Emenda Constitucional 54, de 26 de agosto de 2008, que modificou o art. 145, §§ 2º e 4º, da Constituição do Estado de Mato Grosso”.
+ O acórdão recorrido não divergiu deste entendimento.
+5.  Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 05 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
