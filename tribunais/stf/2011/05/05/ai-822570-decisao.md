@@ -1,0 +1,17 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que considerou inválido o contrato temporário de trabalho porque não foram devidamente cumpridos os requisitos previstos na Lei 6.019/74.
+ No RE, sustenta-se ofensa aos artigos 5º, II, 37, caput, 114, I e VII, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o art. 37, caput, da CF/88, não se encontra prequestionado, porque não abordado pelo acórdão recorrido e, embora suscitado nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foi oportunamente apontado nas razões do recurso de apelação (Súmulas STF 282 e 356).
+ Verifico, ainda, quanto aos arts. 5º, II e 114, I e VII, da CF/88, que, em casos semelhantes ao dos presentes autos, as duas Turmas desta Corte têm se pronunciado no sentido de que não tendo havido o pronunciamento explícito da matéria constitucional em que se apóia o recurso extraordinário, não se encontra configurado o atendimento ao requisito do prequestionamento. Incidem, na espécie, as Súmulas STF 282 e 356.
+ Nesse sentido: AI 796.638-AgR-ED-ED/SP, de minha relatoria, 2ª Turma, DJe 27.4.2011; e RE 541.819-AgR/MG, rel. Min. Marco Aurélio, 1ª Turma, DJe 13.4.2011.
+3.  Ademais, para o exame das violações alegadas, seria necessária a análise de fatos e provas, cláusulas contratuais (Súmulas STF 279 e 454) e de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. É o que se percebe da leitura da ementa do acórdão recorrido. Veja-se:
+“ANULAÇÃO DE AUTO DE INFRAÇÃO. TRABALHO TEMPORÁRIO. PRORROGAÇÃO. DESCUMPRIMENTO DOS REQUISITOS LEGAIS.
+É inválido contrato temporário de trabalho quando não estão devidamente cumpridos os seus requisitos autorizadores da contratação temporária de trabalho (lei nº 6.019/74), bem como os de sua prorrogação, é inválido o contrato” (fl. 229).
+4.  Quanto às alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+ Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+5.  Por fim, falta ao instrumento o traslado do inteiro teor do acórdão recorrido. É dizer, a fl. 02 do acórdão recorrido, a qual contém a fundamentação e o dispositivo, não integra os autos do presente agravo de instrumento. E, segundo reiterada orientação desta Corte, é encargo da parte recorrente fiscalizar a inteireza do traslado. Vejam-se: AI 726.783-AgR/RS, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 19.12.2008; AI 816.232-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 14.02.2011; e AI 801.176-AgR/SP, rel. Min. Cezar Peluso, Tribunal Pleno, DJe 15.02.2011.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 05 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
+Documento assinado digitalmente
