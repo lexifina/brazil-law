@@ -1,0 +1,40 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. MOTIVAÇÃO. LIMINAR INDEFERIDA PELO TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO E PELO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 691 DO SUPREMO TRIBUNAL: INEXISTÊNCIA DE ELEMENTOS PARA A SUA FLEXIBILIZAÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Habeas corpus, com pedido liminar, impetrado por João Agelildo José Rocha e Manoel Cunha Lacerda, advogados, em favor de Paulo Larson Dias, contra decisão do Ministro Gilson Dipp, do Superior Tribunal de Justiça, que indeferiu a liminar requerida no Habeas Corpus nº 203.227.
+2. Noticiam os Impetrantes que o Paciente foi preso, preventivamente, em 7.10.2010, por suposta prática de crimes associação para o tráfico, persistindo essa situação até a presente data.
+Alegam que é de “evidente ilegalidade o decreto prisional”, porque “não está fundamentado em elemento de prova objetivo e concreto”; que a alegação de que o Paciente “assumiu negociatas, controla o tráfico de drogas, fornece carregamentos de cocaína” é “completamente inverídica” e, “sem base em qualquer elemento de prova”, não seria “motivo legal ou jurídico” para a prisão cautelar; que “a parte da denúncia que se refere ao Paciente também é arbitrária, ilegal e injusta”, não tendo “descrito os pressupostos ou requisitos essenciais” para o delito de associação para o tráfico; que o Paciente é primário, exerce a atividade de comerciante, tendo nascido Ponta Porã, cidade onde sempre morou, constatações que traduzem “mais um sinal ou prova de que o Paciente não é delinquente”; e que está configurado o constrangimento ilegal, pelo excesso de prazo para o recebimento da denúncia.
+3. Requerem liminar, “para o fim de determinar a suspensão dos efeitos da prisão preventiva, até que seja julgado o mérito do writ, em definitivo, determinando o alvará de soltura clausulado em favor do Paciente”, e pedem a concessão da ordem, permitindo-lhe aguardar, em liberdade, o desfecho da ação penal.
+Examinada a matéria nos seus aspectos essenciais, DECIDO.
+4. A presente impetração não oferece fundamentação jurídica que possibilite o seu regular prosseguimento no Supremo Tribunal.
+Está ainda em tramitação, pendente de julgamento no Superior Tribunal de Justiça, outra idêntica ação de habeas corpus.
+A decisão questionada é monocrática, de natureza precária, desprovida, portanto, de conteúdo definitivo.
+Nela, o Ministro Gilson Dipp indeferiu a liminar requerida, ao fundamento nuclear de que “não resta evidenciada a referida estreita exceptio, a fim de autorizar a outorga da medida pretendida”, sendo que “maiores incursões a respeito da matéria arguida pela impetração, quanto à legalidade, ou não, do despacho indeferitório da pretensão iminente, devem ser oportunamente submetidas a exame do órgão colegiado competente desta Corte”. (Evento 1, p. 195/196)
+Nesse contexto, está claro que a jurisdição pedida no Superior Tribunal de Justiça está pendente de julgamento, aguardando-se o parecer do Ministério Público Federal.
+Inequívoca, para o caso, a incidência da Súmula n. 691 do Supremo Tribunal Federal (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”).
+5. A jurisprudência do Supremo Tribunal tem admitido, em casos excepcionais, a flexibilização da súmula. Essa excepcionalidade ocorre nas situações de flagrante ilegalidade ou de contrariedade a princípios constitucionais ou legais.
+Sem adentrar no mérito, mas apenas para afastar a alegada ilegalidade, observa-se que a decisão que decretou a prisão preventiva está formalmente motivada, havendo a magistrada destacado da aspectos relevantes para a formação de seu convencimento, verbis:
+“Observo do teor da representação policial, que foram constatados fortes e suficientes indícios da participação de parte dos representados no tráfico internacional de drogas/associação – o que exsurge da individualização de suas condutas sintetizadas pela i. Autoridade policial federal, através de investigações, pesquisas e interceptações telefônicas (cfr. processo em apenso nº 0002648-09.2010.403.6005, e fls. 35/508, do IPL nº 0002646-39.2010.403.6005).
+3.1. Corroboram os fatos/atuações da quadrilha em exame, as parensões de drogas e prisões em flagrante ocorridas em diversas partes do país, decorrentes da deflagração da OPERAÇÃO MARÉ ALTA (cfr. Processo em apenso nº 0002648-09.2010.403.6005), relacionados abaixo:
+(a) Apreensão, no dia 13/12/2009, em MONTENEGRO/RS, DE 26,8 KG DE COCAÍNA, fornecidas por PAULO LARSON, no PARAGUAI, (...)
+(...)
+Transcrevo, por oportuno, o quanto relatado pela Polícia Federal sobre as funções/ condutas dos agentes, ora representados, na organização criminosa testilha, cujos indícios de autoria dos crimes de tráfico de drogas/associação para o tráfico restaram configurados:
+ (...)
+3.2.2. PAULO LARSON, “(...) PAULO LARSON é o padastro do traficante brasileiro JARVIS CHIMENES PAVÃO e assumiu as negociatas do referido no tráfico internacional de drogas depois de sua prisão.
+JARVIS CHIMENES PAVÃO controla o tráfico de drogas na fronteira Brasil-Paraguai e foi preso pela SENAD/PY em dezembro de 2009.
+As interceptações telefônicas demonstraram que PAULO LARSON fornece carregamentos de coca´na em território paraguaio para ALES MARQUES.
+Também é o responsável pelas cobranças de drogas para JARVIS CHIMENES PAVÃO. (...)”
+(...)
+4. Há, portanto, provas da materialidade e indícios suficientes de autoria dos crimes de tráfico transnacional/interestadual de drogas e associação para o tráfico de drogas, em tese, perpetrados de forma organizada e estável pelas pessoas supra referidas, os quais encontram-se consubstanciados nas prisões em flagrante de alguns dos seus membros e de outras pessoas, bem como nos relatórios das transcrições de conversas mantidas entre pessoas supracitadas e terceiros.
+4.1. Desta forma, há fortes indícios que os representados ALES MARQUES, PAULO LARSON, (...), em tese, negociam, internam, preparam e distribuem, reiteradamente, grande quantidade de drogas em território pátrio.
+4.2. Assim, torna-se necessária a decretação de suas custódias como garantia da ordem pública, a fim de impedir a continuidade das empreitadas criminosas e cessar a prática reiterada de delitos.”
+ (Evento 1, p. 51/61)
+Esses argumentos, em princípio, desfiguram a manifesta ilegalidade que permitiria a flexibilização da Súmula 691 do Supremo Tribunal, porque demonstram, ao contrário do que se alegou na impetração, que as razões da prisão preventiva apoiaram-se em elementos específicos contidos no inquérito policial.
+A possibilidade de reiteração delituosa e a participação em organização criminosa são motivos idôneos para a decretação da custódia cautelar, que visa resguardar a ordem pública.
+Nesse contexto, há de se aguardar o julgamento do Habeas Corpus nº. 203227 pelo Superior Tribunal de Justiça, evitando-se a supressão de instância e a contrariedade às regras constitucionais e legais de competência, como reiteradamente tem decidido este Supremo Tribunal. (Cf. Habeas Corpus nº 105.114 AgR, Relator o Ministro Joaquim Barbosa, julgado em 26.10.2010; Habeas Corpus nº 104.674 AgR, de minha relatoria, julgado em 15.02.2011; e Habeas Corpus nº 104.763, Relator o Ministro Dias Toffoli, j. 26.10.2010)
+Há que se ressaltar, ainda, corroborando a necessidade de não se permitir o seguimento do presente habeas corpus no Supremo Tribunal, que está em tramitação no Tribunal Regional Federal da 3ª Região outro habeas corpus impetrado em favor do Paciente. Alegou-se naquela impetração apenas o excesso de prazo na formação da culpa e, a exemplo que se verificou no Superior Tribunal de Justiça, indeferiu-se a medida cautelar (Evento 1, p. 108/109)
+6. Pelo exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, e art. 38 da Lei n. 8.038/90), ficando, por óbvio, prejudicado o requerimento de liminar.
+Publique-se.
+Brasília, 5 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
