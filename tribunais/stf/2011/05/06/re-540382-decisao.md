@@ -1,0 +1,24 @@
+DECISÃO:
+Vistos.
+O Município de Pindoretama interpõe recurso extraordinário fundado na alínea “a” do permissivo constitucional contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. CONSTITUCIONAL. CONTRIBUIÇÃO PARA O PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO (PASEP). LEI COMPLEMENTAR Nº 8/70, ART. 8º. NÃO RECEPÇÃO PELA NOVA ORDEM CONSTITUCIONAL. MUNICÍPIOS. EXIGIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AO PRINCÍPIO CONSTITUCIONAL DA AUTONOMIA DOS ENTES DA FEDERAÇÃO.
+- A contribuição ao PASEP, com a Carta Constitucional de 1988, passou a ter destinação diversa, de forma a financiar o programa do seguro-desemprego e o abono anual.
+- A referida exação, na medida em que assumiu feição nitidamente tributária, de contribuição social, passou a ser exigível de todos os entes da Federação.
+- O art. 8º da Lei Complementar nº 8/70, que previa a faculdade de adesão dos Estados, Municípios e respectivos órgãos da Administração Indireta e fundações, ao PASEP, não foi recepcionado pela Constituição Federal de 1988.
+- Não caracterizada ofensa ao princípio da autonomia municipal, eis que a exigibilidade da contribuição provém de determinação expressa da nova ordem constitucional (art. 195, caput, c/c art. 239, caput, e § 3º da CF).
+- Precedente do STF (ACO nº 471-PR, Relator Min. SYDNEY SANCHES, j. 11.04.02, DJ 25.04.03).
+- Remessa obrigatória não provida. (fls. 80)
+No apelo extremo alega o recorrente violação do disposto no art. 150, VI, “a”, da Constituição Federal. Sustenta que com o advento da Constituição de 1988, o PASEP passou a ser contribuição tributária, não podendo ser exigido do Município recorrente ante a imunidade recíproca do texto constitucional.
+Contrarrazões às fls. 88.
+Decido.
+Não merece prosperar a irresignação.
+O Plenário do Supremo Tribunal Federal, no julgamento da ACO 471-PR, Rel. Min. Sydney Sanches, DJ de 25/4/2003, assentou o entendimento de que não podem os Estados-membros e os municípios invocar a prerrogativa constitucional da autonomia ou da imunidade para se eximir da obrigação de recolher a contribuição destinada ao Programa de Formação do Patrimônio do Servidor Público – PASEP.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PASEP. CONTRIBUIÇÃO EXIGIDA DE ENTES ESTATAIS. IMUNIDADE. 1. PASEP. Exigibilidade da contribuição pelas unidades da federação, pois a Constituição de 1988 retirou o caráter facultativo, bem assim a necessidade de legislação específica, para a adesão dos entes estatais ao Programa de Formação do Patrimônio do Servidor Público. Precedente do Plenário. 2. Imunidade recíproca. Matéria não discutida nas instâncias ordinárias. Inovação da lide. Impossibilidade. Inexigibilidade do tributo em decorrência de imunidade conferida aos entes da federação. Improcedência da pretensão. A imunidade tributária diz respeito aos impostos, não alcançando as contribuições. Agravo regimental não provido. (RE 378.144 AgR, Rel. Min. Eros Grau, 1ª Turma, DJ 22/4/2005)
+RECURSO EXTRAORDINÁRIO - OUTORGA DE EFEITO SUSPENSIVO - SUPERVENIÊNCIA DE JULGAMENTO EMANADO DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL - DESCARACTERIZAÇÃO DOS REQUISITOS AUTORIZADORES DE PROVIMENTO CAUTELAR ANTERIORMENTE DEFERIDO - IMPOSSIBILIDADE DE ESTADOS-MEMBROS E MUNICÍPIOS DESLIGAREM-SE, UNILATERALMENTE, DO DEVER DE RECOLHIMENTO DA CONTRIBUIÇÃO PERTINENTE AO PASEP - QUESTÃO DE ORDEM QUE SE RESOLVE NO SENTIDO DA CASSAÇÃO DA MEDIDA CAUTELAR ANTERIORMENTE CONCEDIDA. - O Plenário do Supremo Tribunal Federal assentou o entendimento de que, em tema de contribuição ao PASEP, os Estados-membros e os Municípios não podem invocar a prerrogativa constitucional da autonomia, que lhes é inerente, em ordem a legitimar, com apoio em unilateral manifestação de sua própria vontade, o desligamento da obrigação de recolher essa especial exação de caráter tributário. A contribuição pertinente ao PASEP - por qualificar-se como contribuição social - não se expõe, por efeito de sua própria natureza jurídica, às limitações fundadas na garantia constitucional da imunidade tributária recíproca, que se aplica, unicamente, enquanto espécie de imunidade tributária genérica, aos impostos (RTJ 136/846 - RTJ 174/303-304), consoante prescreve, em cláusula expressa, a própria Constituição da República (art. 150, VI, "a"). Precedente: ACO 471/PR, Rel. Min. SYDNEY SANCHES, Pleno. - Cassação, na espécie, da decisão concessiva de medida liminar, em face da descaracterização dos requisitos autorizadores do provimento cautelar, motivada pela superveniência do julgamento plenário da ACO 471/PR. (Pet 2466 ED-QO, Rel. Min. Celso de Mello, 2ª Turma, DJ 24/11/2006)
+Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 6 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
