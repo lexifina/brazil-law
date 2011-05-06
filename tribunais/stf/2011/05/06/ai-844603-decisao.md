@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO. BANCÁRIO. ENQUADRAMENTO. EMBARGOS DE DECLARAÇÃO. MULTA. DESPROVIMENTO. A v. Decisão que denega seguimento ao recurso de revista apenas pode ser reformada quando a parte consegue desconstituir seus fundamentos, o que não ocorre no presente caso. Agravo de instrumento desprovido” (fl. 94).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, XXXVI, LIV e LV, da mesma Carta.
+O agravo não merece acolhida. Verifica-se que o Tribunal a quo, com base nas provas dos autos e na legislação infraconstitucional, reconheceu o vínculo de emprego entre as partes. Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, bem como seria imprescindível a análise de normas infraconstitucionais, de modo que a afronta à Constituição, se ocorrente, seria indireta.
+Outrossim, quanto à aplicação de multa em virtude da interposição de recurso manifestamente protelatório, o acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+“Recurso extraordinário: descabimento: controvérsias relativas a índice de correção monetária de caderneta de poupança aplicáveis na execução de sentença e à discussão sobre aplicação de multa em embargos de declaração protelatórios ou por litigância de má-fé, de natureza infraconstitucional e dependentes do reexame de prova (Súmula 279); inexistência de negativa de prestação jurisdicional ou violação dos princípios contidos nos artigos 5º, XXXV, XXXVI,LV e 93, IX, da Constituição” (AI 472.405-AgR/SC, Rel. Min. Sepúlveda Pertence).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 6 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
