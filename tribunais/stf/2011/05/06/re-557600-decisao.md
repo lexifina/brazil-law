@@ -1,0 +1,16 @@
+1.  O Tribunal de Justiça de São Paulo reconheceu o direito do impetrante à certidão de tempo de serviço prestado como professor para fins de aposentadoria, em acórdão assim ementado (fls. 195-197):
+“O exercício de função de professor PEB II equivale, para efeito de aposentadoria, ao exercício do cargo de professor PEB II”.
+ Os embargos de declaração opostos pelo autor (fls. 200-201 e 219-220) foram acolhidos, sem alteração no julgado, tão-somente para retificação (fls. 212-213 e 225-226, respectivamente), nos seguintes termos:
+“(...) mister é que a conclusão do acórdão fique fundamentada na alínea a do inciso III do § 1º em combinação com o § 5º, ambos do artigo 40 da Constituição da República” (fl. 226).
+2.  Daí o recurso extraordinário em que se alega, em síntese (fls. 203-206), violação ao art. 40, § 1º, III, da Constituição Federal, sob o fundamento de que foi autorizado o cômputo do tempo de serviço de professor exercido em regime jurídico distinto, ou seja, vínculo jurídico regido pela Lei Paulista 500/1974.
+3.  Inadmitido o recurso (fls. 254-255), subiram os autos em virtude de provimento do AI 576.653/SP (fl. 266).
+4.  A Procuradoria-Geral da República opinou pelo não-conhecimento do recurso (fls. 271-272).
+5.  O recurso não merece prosperar. Preliminarmente, verifica-se que as publicações dos acórdãos dos Embargos de Declaração, integrantes do aresto recorrido, ocorreram em 15.01.2004 e 12.5.2004 (fls. 214 e 227, respectivamente), e a interposição do apelo extremo se deu em 18.9.2003 (fl. 203). Dessa forma, o recurso extraordinário é manifestamente extemporâneo.
+ Pacífico é o entendimento desta Corte segundo o qual a interposição de recursos somente é cabível após a publicação, no Diário da Justiça, da decisão contra a qual se recorre. E, na hipótese de o protocolo das razões recursais realizar-se antes da veiculação do ato judicial a ser impugnado, a parte deve, após a divulgação no órgão oficial, ratificá-las, o que não foi feito no presente caso.
+ Nesse sentido: AI 618.232-AgR/SP, rel. Min. Cezar Peluso, 2ª Turma, DJe 27.11.2009; AI 712.438-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 29.10.2009; e AI 627.371-AgR, de minha relatoria, Pleno, unânime, DJ de 24.8.2007, em cujo voto consignei que, “não ratificado o recurso extraordinário, mesmo que os embargos tenham sido interpostos pela parte agravada, advém a sua extemporaneidade, conforme precedentes citados na decisão impugnada. Cabe lembrar que a partir da vigência da Lei 8.950/94, a oposição de embargos de declaração interrompe o prazo para apresentação de outros recursos”.
+6.  Ademais, verifica-se que, para o exame das violações alegadas, seria necessária a análise de fatos e de provas e de legislação local (Lei 500/1974), hipóteses inviáveis em sede extraordinária, dada a incidência das Súmulas STF 279 e 280. Nesse sentido, o AI 431.779-AgR/SP, rel. Min. Nelson Jobim, 2ª Turma, DJ 19.12.2003; e as decisões monocráticas, transitadas em julgado, proferidas no AI 680.539/SP, rel. Min. Cármen Lúcia, DJe 1º.6.2009; e no AI 601.998/SP, rel. Min. Dias Toffoli, DJe 24.3.2010.
+7.  Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 06 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
