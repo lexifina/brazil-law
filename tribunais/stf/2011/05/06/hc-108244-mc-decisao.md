@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Helder Câmara Cruz Lustosa e Francisco Albelar Pinho Prado em favor de ROSILDO FERREIRA, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC 176.876/PI, Rel. Min. Og Fernandes.
+Os impetrantes narram, inicialmente, que o paciente foi condenado à pena de doze anos de reclusão, pela prática dos crimes de tráfico ilícito de drogas e associação para o tráfico, previstos, respectivamente, nos arts. 33 e 35 da Lei 11.343/2006, sendo negado a ele o direito de apelar em liberdade.
+Prosseguem, informando, que, contra a sentença condenatória, a defesa interpôs apelação, a qual foi encaminhada ao Tribunal de Justiça do Estado do Piauí em 18/2/2010, e, até a presente data, não teve qualquer movimentação.
+Explicam, em seguida, que o juiz de primeiro grau, por equívoco, encaminhou o recurso ao TJ/PI, sem, contudo, terem sido apresentadas as contrarrazões pelo MP Estadual, o que levou o Desembargador Relator a determinar o retorno dos autos àquele juízo para que fosse suprido o referido ato processual. Afirmam, outrossim, que “o Processo, então, foi entregue ao Promotor no dia 14.10.2010, e até a presente data não devolveu (...)”.
+Paralelamente a isso, aduzem, que, buscando a possibilidade de o paciente recorrer em liberdade, a defesa manejou habeas corpus no Tribunal de Justiça do Estado do Piauí e, posteriormente, outro no Superior Tribunal de Justiça, sendo denegada a ordem em ambas as impetrações.
+É contra o acórdão da Corte Superior que se insurgem os impetrantes.
+Destacam, primeiramente, que a demora na tramitação do recurso de apelação no TJ/PI foi alertada ao Superior Tribunal de Justiça, entretanto, “o STJ nem se manifestou sobre esse absurdo excesso de prazo, embora tenha sido provocado e prequestionado. Em outras palavras, o STJ não se manifestou sobre matéria de ordem pública (Excesso de prazo), cujo reconhecimento poderia ter sido operado até de ofício”.
+Mais adiante, ressaltam, também, que, embora o juízo sentenciante tenha reconhecido a primariedade do paciente, negou-lhe o direito de apelar em liberdade, “sob a inidônea justificativa abstrata de que o paciente possui suposta periculosidade e que tem maus antecedentes em face de ter sido indiciado por crime de homicídio”, sem apontar qualquer fato concreto vinculado a um dos requisitos do art. 312 do Código de Processo Penal.
+Alegam, ainda, que, tanto o Tribunal de Justiça de origem quanto o Superior Tribunal, além de não reconhecerem o constrangimento ilegal imposto ao paciente na sentença condenatória, agregaram novos fundamentos para manter a sua custódia cautelar, em total desrespeito à jurisprudência do STJ e desta Suprema Corte.
+Afirmam, por fim, que o juízo de primeira instância poderia ter se valido de outros fundamentos para negar o direito de o paciente recorrer em liberdade, inclusive da proibição prevista no art. 44 da Lei 11.343/2006, mas preferiu apontar, tão somente, os maus antecedentes e a suposta periculosidade.
+Requerem, ao final, liminarmente, seja o paciente posto em liberdade e, no mérito, a confirmação da liminar pleiteada.
+É o relatório necessário. Decido.
+A concessão de liminar em habeas corpus se dá de forma excepcional em casos em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em uma primeira análise, tenho por ausentes tais requisitos.
+No que concerne à suposta omissão por parte do Superior Tribunal de Justiça, que não teria se manifestado sobre o excesso de prazo para o julgamento da apelação, verifico, pelo menos neste juízo de cognição sumária, que o tema não foi abordado pelos impetrantes na inicial do writ manejado naquele Tribunal, o que afastaria, em princípio, esse argumento.
+Ademais, a medida pleiteada confunde-se com o próprio mérito do pedido, o qual será apreciado no momento oportuno pela Turma Julgadora.
+Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+Publique-se.
+Brasília, 6 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
