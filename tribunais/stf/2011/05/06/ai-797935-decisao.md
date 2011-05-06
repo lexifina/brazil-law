@@ -1,0 +1,19 @@
+D ECIS Ã O:
+Vistos.
+Ricardo Penna Guerreiro interpõe agravo de instrumento contra a decisão (fls. 55 a 59) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 93, inciso IX da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão proferido pela Quarta Câmara do Segundo Grupo da Seção Criminal do Tribunal de Justiça do Estado de São Paulo no julgamento do Recurso em Sentido Estrito nº 353380.3/4.
+O agravante, nas razões do extraordinário, alega inicialmente que à ”guisa de fazer cumprir as Súmulas 282 e 356, ambas do Supremo Tribunal Federal e 211, do Superior Tribunal de Justiça, o recorrente RICARDO PENNA GUERREIRO opôs, oportuno tempore, embargos de declaração” (fl. 36).
+Aduz, outrossim, violação do art. 93, inciso IX da Constituição Republicana, na medida em que o acórdão recorrido deixou de “apreciar as questões levantadas pelo recorrente quanto a impossibilidade de acolher as qualificadoras que foram rejeitadas pelo Eminente Magistrado monocrático na r. decisão interlocutória não terminativa de pronúncia” (fl. 40).
+Examinados os autos, decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07 (fl. 30), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece ser acolhida.
+No caso em tela, a parte agravante deixou de trazer aos autos cópia da petição dos embargos de declaração opostos contra o acórdão recorrido, peça essencial para verificar se as questões objetos do recurso extraordinário foram efetivamente devolvidas ao Tribunal de origem. Segundo a jurisprudência deste Supremo Tribunal Federal, o agravo de instrumento deve ser instruído não apenas com a cópia das peças obrigatórias indicadas de forma analítica pelo art. 544, § 1º, do Código de Processo Civil, mas, também, com aquelas que se revelem essenciais ao exato conhecimento das questões discutidas. Incidência da Súmula nº 288/STF.
+Observe-se que a formação completa do instrumento deve ser efetuada na instância ordinária, não comportando o suprimento de eventuais falhas ou realização de diligências perante este Tribunal. Anote-se: AI 519.466-QO, Primeira Turma, Relator o Ministro Eros Grau, DJ de 22/10/04, e AI 534.627-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 8/9/06.
+Ainda que ultrapassado tal óbice, apenas para registro, não há falar em violação do art. 93, inciso IX, da Constituição da República, pois a jurisdição foi prestada, no caso em espécie, mediante decisão suficientemente motivada, não obstante contrária à pretensão do agravante, tendo o Tribunal a quo, como se observa do acórdão proferido, justificado suas razões de decidir.
+Anote-se que o art. 93, inciso IX, da Constituição, não exige que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+Ante a deficiente formação do instrumento, não conheço do agravo.
+Publique-se.
+Brasília, 6 de maio 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
