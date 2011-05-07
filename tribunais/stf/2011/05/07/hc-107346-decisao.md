@@ -1,0 +1,35 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. CRIMES DE HOMICÍDIO E DE FORMAÇÃO DE QUADRILHA. COMPETÊNCIA DE VARA ESPECIALIZADA EM CRIME ORGANIZADO. ALEGADA VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. INCONSTITUCIONALIDADE DE LEI ESTADUAL QUE CRIOU VARA ESPECIALIZADA. AFRONTA AO PRINCÍPIO CONSTITUCIONAL DO PROMOTOR NATURAL: RESOLUÇÃO DO PROCURADOR-GERAL DE JUSTIÇA. PRISÃO PREVENTIVA: REQUISITOS. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. AUSÊNCIA DE PLAUSIBILIDADE. LIMINAR INDEFERIDA. INFORMAÇÕES REQUISITADAS. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+1. Habeas corpus, com pedido liminar, impetrado por João Luiz Fornazari de Araújo, advogado, em favor de Eliton Alves Barros, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que, em 28.9.2010, denegou a ordem no Habeas Corpus nº 162.195, nos termos seguintes:
+“ HABEAS CORPUS. PRISÃO PREVENTIVA. AUSÊNCIA DOS REQUISITOS LEGAIS. DECRETO CAUTELAR FUNDADO EM DADOS CONCRETOS. PROCEDIMENTO DO CRIME. GRAVIDADE ESPECÍFICA. JUÍZO PRÉVIO LASTREADO EM LÍDIMA PROBABILIDADE. EXCESSO DE PRAZO. DEMORA JUSTIFICADA. COMPLEXIDADE. NECESSIDADE DE RECAMBIAMENTO DO ACUSADO. ALEGAÇÃO DE INCOMPETÊNCIA DO JUÍZO. LEI ESTADUAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE EM ANDAMENTO NO SUPREMO TRIBUNAL FEDERAL. CONTROLE CONCENTRADO ADEQUADO.
+1. Cuidando o evento penal de modus operandi peculiar, relativo a homicídio praticado por grupo organizado, considera-se lídima a indicação de gravidade específica para o fim de legitimar a prisão preventiva.
+2. O excesso de prazo afigura-se insubsistente quando o caso denota procedimento transcorrido sob o tom da complexidade, merecendo do julgador intricada condução processual em razão da multiplicidade de réus, do envio de precatórias a localidades diversas e, principalmente, da necessidade de recambiamento do acusado preso noutra localidade.
+3. Havendo discussão promovida em sede de Ação Direta de Inconstitucionalidade junto à Suprema Corte, afigura-se de bom senso aguardar aquele desfecho, de modo a evitar entendimentos conflitantes diante de matéria com repercussão geral.
+4. Ordem não conhecida em parte e, quanto ao mais, denegada.”
+2. Historia o Impetrante, em sessenta e nove laudas, que o Paciente está preso desde 5.12.2008, tendo sido denunciado pela prática de homicídio duplamente qualificado (art. 121, § 2º, I e IV, do Código Penal) e formação de bando ou quadrilha (art. 288 do Código Penal).
+Requereu, sem êxito, a liberdade provisória, no juízo da 17ª Vara Criminal de Maceió, “arguindo que no dia fatídico (o Paciente) não se encontrava no Estado de Alagoas e sim em busca de trabalho no Estado de São Paulo”.
+Questionou aquele indeferimento, impetrando habeas corpus no Tribunal de Justiça de Alagoas, o qual denegou a ordem.
+Impetrou novo habeas corpus no Superior Tribunal de Justiça, cujo desfecho também não atendeu as suas expectativas e motiva a presente ação.
+3. Argumenta que o Paciente reúne as condições subjetivas necessárias à obtenção da liberdade provisória, por ser primário, ter bons antecedentes, família constituída e residência fixa, atendendo às exigências do art. 310, parágrafo único, do Código de Processo Penal.
+Assinala que a ação penal é nula, porque violaria o princípio constitucional do promotor natural. Afirma que o Grupo Estadual de Combate à Organização Criminosa criado, por resolução, pelo Procurador-Geral do Estado, não poderia, sem o concurso do Promotor de Justiça titular, oferecer denúncia contra qualquer cidadão.
+Assegura que o juízo da 17ª Vara Criminal de Maceió, que se notabiliza como um “tribunal de exceção”, é incompetente para processar e julgar o Paciente, quer porque o crime não se passou nos limites territoriais da Comarca, quer porque a Lei Estadual 6.806, de 22 de março de 2007, que a criou, estaria eivada de inconstitucionalidade, como reconhecera o próprio Tribunal de Justiça de Alagoas.
+Anota que “a denúncia não demonstrou a contento os elementos constitutivos do fato típico” e que “o Paciente se encontra recluso por mais de 02 (dois) anos, não sabendo até agora quando será concluído o referido processo, trazendo assim um sério constrangimento ilegal sem previsão para o seu fim”.
+Afirma que a situação do Paciente afronta o princípio constitucional da não-culpabilidade, acarretando a “sua segregação irreparável prejuízo a sua pessoa”, sendo excessivo o prazo de sua prisão, principalmente em razão de estar o processo “concluso para sentença desde 10 de maio de 2010”.
+4. Requer liminar, para que se permita ao Paciente aguardar, em liberdade, o trâmite do processo, “visto que não existe a possibilidade de que o mesmo venha a dificultar a instrução criminal”, que “já finalizou sem sentença ou de pronúncia ou absolutória”, e porque ele não tem conduta que possa comprometer a “tranquilidade social”. Pede a concessão da ordem, confirmando a liminar.
+Examinada a matéria nos seus aspectos essenciais, DECIDO.
+5. Os argumentos fáticos e jurídicos utilizados na presente impetração não permitem, neste momento, o deferimento da liminar.
+O rol de matérias suscitadas pelo Impetrante é extenso, algumas de grande complexidade, o que impõe exame aprofundado dos diversos pontos arguídos.
+Não é possível antecipar pronunciamento – ainda que a título precário - sobre o conteúdo da impetração, havendo necessidade de se concluir sobre a viabilidade do enfrentamento de alguns de seus temas na acanhada via do habeas corpus.
+A desconstituição do que decidido pelo Superior Tribunal de Justiça e pelo Tribunal de Justiça de Alagoas desafia exame e conclusão fundamentada, especialmente por estarem os acórdãos que mantiveram a prisão preventiva do Paciente formalmente motivados, sem teratologia, o que desfigura o fumus boni iuris.
+Soma-se a isso a necessidade de se reunirem informações atualizadas sobre a situação do Paciente, especialmente pelo início de sua prisão datar de 5.12.2008, segundo se anotou na inicial.
+Supostos vícios, listados pelo Impetrante, podem ter sido sanados.
+Patenteia-se a imprescindibilidade de exame detido das questões suscitadas pelo Impetrante, a partir dos novos elementos que vierem a ser carreados aos autos, o que há de ser feito quando do julgamento de mérito da presente impetração, após complementada a instrução da ação e com o parecer da Procuradoria-Geral da República.
+6. Pelo exposto, não identificando elementos que demonstrem o bom direito legalmente estatuído, indefiro a liminar.
+7. Oficie-se ao Juízo da 17ª Vara Criminal de Maceió/MS, para que, com urgência, preste informações pormenorizadas sobre o andamento da ação penal ajuizada contra o ora Paciente, esclarecendo a sua fase atual e se ainda persiste a prisão do Paciente.
+Deverá constar do ofício que, mantido o acórdão estadual que declinou a competência a uma das Varas do Tribunal do Júri, deverá o documento ser encaminhado ao magistrado responsável pela presidência do processo, para a resposta, também com a urgência recomendada.
+8. Prestadas as informações, vista à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 7 de maio de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
