@@ -1,0 +1,27 @@
+D ECIS Ã O:
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por ADÍLCIO CADORIN em face do egrégio TRIBUNAL DE CONTAS DA UNIÃO, com o objetivo de suspender os efeitos de decisão proferida por esse órgão de controle.
+A inicial apresenta as seguintes razões:
+a) O impetrante é réu em ação civil pública na Justiça Federal da Seção Judiciária de Santa Catarina, em razão de suposto dano ao erário, ocorrido durante seu período de exercício do cargo de Prefeito Municipal de Laguna, relativamente a repasse de recursos de convênio entre o município e a EMBRATUR.
+b) A despeito de pender litígio, o TCU notificou o impetrante para que devolva R$718.700,84, além de lhe impor multa de R$300.000,00, com posterior inscrição no CADIN, em face de tomada de contas especial.
+c) A matéria está judicializada e não houve coisa julgada, o que torna inválida a exação do TCU.
+d) O objetivo do impetrante é impedir que a atuação administrativa do TCU se sobreponha ao desenvolvimento judicial da controvérsia em torno de sua responsabilidade administrativa.
+e) O periculum in mora reside na possibilidade de haver constrangimentos nas atividades empresárias do autor, além de afetar sua reputação como homem público.
+Pede-se liminar para suspender os efeitos da decisão proferida pelo TCU no processo administrativo nº 013.079/2005-9, até o julgamento final e trânsito em julgado da ação civil pública e da ação de prestação de contas, ambas em curso na Seção Judiciária Federal de Santa Catarina.
+No mérito, que seja tornada definitiva a liminar.
+Documentos eletrônicos juntados.
+É o relatório.
+Indefiro a liminar.
+Conforme jurisprudência da Corte, há independência de instâncias e o mero ajuizamento de ação civil pública, com objeto idêntico ou aproximado ao da tomada de contas, não é causa de per si à suspensão dos efeitos da medida administrativa adotada pelo Tribunal de Contas da União. Cito acórdão que possui orientação absolutamente simétrica ao que ora se afirma:
+“ EMENTA: MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. COMPETÊNCIA. ART. 71, II, DA CONSTITUIÇÃO DO BRASIL E ART. 5º, II E VIII, DA LEI N. 8.443/92. TOMADA DE CONTAS ESPECIAL. VIOLAÇÃO AOS ARTS. 148 A 182 DA LEI N. 8.112/90. INOCORRÊNCIA. PROCEDIMENTO DISCIPLINADO NA LEI N. 8.443/92. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA. PREJUDICIALIDADE DA TOMADA DE CONTAS ESPECIAL. IMPOSSIBILIDADE. INDEPENDÊNCIA ENTRE AS INSTÂNCIAS CIVIL, PENAL E ADMINISTRATIVA. QUESTÃO FÁTICA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. SEGURANÇA DENEGADA. 1. A competência do Tribunal de Contas da União para julgar contas abrange todos quantos derem causa a perda, extravio ou outra irregularidade de que resulte dano ao erário, devendo ser aplicadas aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, as sanções previstas em lei, lei que estabelecerá, entre outras cominações, multa proporcional ao dano causado aos cofres públicos [art. 71, II, da CB/88 e art. 5º, II e VIII, da Lei n. 8.443/92]. 2. A tomada de contas especial não consubstancia procedimento administrativo disciplinar. Tem por escopo a defesa da coisa pública, buscando o ressarcimento do dano causado ao erário. Precedente [MS n. 24.961, Relator o Ministro CARLOS VELLOSO, DJ 04.03.2005]. 3. Não se impõe a observância, pelo TCU, do disposto nos artigos 148 a 182 da Lei n. 8.112/90, já que o procedimento da tomada de contas especial está disciplinado na Lei n. 8.443/92. 4. O ajuizamento de ação civil pública não retira a competência do Tribunal de Contas da União para instaurar a tomada de contas especial e condenar o responsável a ressarcir ao erário os valores indevidamente percebidos. Independência entre as instâncias civil, administrativa e penal. 5. A comprovação da efetiva prestação de serviços de assessoria jurídica durante o período em que a impetrante ocupou cargo em comissão no Tribunal Regional do Trabalho da 1ª Região exige dilação probatória incompatível com o rito mandamental. Precedente [MS n. 23.625, Relator o Ministro MAURÍCIO CORRÊA, DJ de 27.03.2003]. 6. Segurança denegada, cassando-se a medida liminar anteriormente concedida, ressalvado à impetrante o uso das vias ordinárias.”
+(MS 25880, Relator(a): Min. EROS GRAU, Tribunal Pleno, julgado em 07/02/2007, DJ 16-03-2007)
+Não há de se falar em precedência da jurisdição sobre os atos do TCU. Trata-se de um truísmo. É notório que atividade do Poder Judiciário sobrepõe-se e pode nulificar os atos do Tribunal de Contas, que é mero órgão auxiliar do Poder Legislativo. Aqui, todavia, o objetivo do autor é sobrestar a eficácia da medida administrativa, que possui autonomia, sob o mero fundamento de que está a discutir o mérito do ato administrativo (a prestação de contas) na Justiça Federal. Se for levada a extremos essa argumentação, a atividade fiscalizatória do TCU restaria absolutamente inviabilizada.
+Ademais, os argumentos utilizados para caracterizar a ocorrência do periculum in mora não se mostram suficientes para persuadir este julgado, o que se soma à deficiente fundamentação jurídica.
+Ante o exposto, indefiro a liminar.
+Notifique-se a autoridade impetrada para que ofereça informações no prazo de lei.
+Ciência à Advocacia-Geral da União, a fim de que se manifeste sobre eventual interesse de ingressar na lide.
+Após, com ou sem manifestações, remetam-se os autos à douta Procuradoria-Geral da República.
+Publique-se. Int..
+Brasília, 9 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
