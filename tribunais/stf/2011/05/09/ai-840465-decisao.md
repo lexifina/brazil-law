@@ -1,0 +1,37 @@
+PROCESSO PENAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO PENAL. PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR PARA APURAÇÃO DA PRÁTICA DE FALTA GRAVE POR DETENTO. NECESSIDADE DE DEFESA TÉCNICA. INAPLICABILIDADE DA SÚMULA VINCULANTE Nº 5.
+1. O princípio da ampla defesa reclama a representação do detento por advogado em procedimento administrativo para apuração de falta grave no âmbito da execução penal, posto em jogo a liberdade de ir e vir. (HC 77.862, rel. Min. Ilmar Galvão, j. 17/12/1998)
+2. A Súmula Vinculante nº 5 (“A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição”) é inaplicável ao procedimento atinente à execução penal. (RE nº 398269/RS, rel. Min. Gilmar Mendes, Segunda Turma, DJ de 26/2/2010)
+3. In casu, o acórdão impugnado mediante o recurso extraordinário assentou a necessidade de defesa técnica no procedimento disciplinar para apuração de falta grave em estabelecimento prisional, em harmonia com a jurisprudência pacífica desta Corte.
+4. Agravo de instrumento a que se nega provimento.
+D ECIS Ã O: Cuida-se de Agravo de Instrumento interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com fulcro no art. 544 do Código de Processo Civil, contra decisão que não admitiu seu recurso extraordinário, sob o fundamento de que “ao invés de contrariar o dispositivo constitucional invocado, a decisão hostilizada nada mais fez do que dar a exata aplicação da referida norma, no sentido de assegurar a garantia do contraditório e da ampla defesa no procedimento administrativo disciplinar”, ressaltando que esta Corte assentou a inaplicabilidade da Súmula Vinculante nº 5 no âmbito da execução penal (fls. 16-18).
+Noticiam os autos que FLAVIO ROMANINI interpôs agravo em execução contra ato que implicou a aplicação de penalidades ante o cometimento de falta grave.
+O Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao recurso do ora agravado, nos termos da seguinte ementa, in verbis:
+Execução penal. Falta grave. Defesa do apenado no procedimento administrativo disciplinar (PAD) a cargo de profissional que não é advogado, nem defensor público. Nulidade do PAD. Violação da ampla defesa, do contraditório e do devido processo legal. Inaplicabilidade da Súmula Vinculante nº 5 do STF. Precedente da Corte Maior. Falta grave afastada. Agravo provido. Unânime.
+Irresignado com o teor do acórdão prolatado, o Ministério Público do Estado do Rio Grande do Sul interpôs recurso extraordinário com fulcro no art. 102, inciso III, alínea "a", da Constituição Federal, apontando como violado o art. 5º, LV, da Constituição Federal. Sustenta, em síntese, ser prescindível a defesa técnica no procedimento administrativo disciplinar, sendo aplicável ao caso sub judice a Súmula Vinculante nº 5 desta Corte.
+Contrarrazões às fls. 45/52.
+Brevemente relatados, DECIDO.
+Preliminarmente, impõe-se o conhecimento do agravo, porquanto preenchidos os requisitos de admissibilidade.
+Cinge-se a controvérsia a definir a aplicabilidade, ou não, da Súmula Vinculante nº 5 ao procedimento administrativo disciplinar para apuração de falta grave no âmbito da execução penal.
+Eis o teor do verbete vinculante: “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.”
+Deveras, o acórdão impugnado mediante o recurso extraordinário está em consonância com a jurisprudência pacificada no Supremo Tribunal Federal. O Plenário desta Corte já assentou a necessidade de representação do detento por advogado em procedimento administrativo para apuração de falta grave no âmbito da execução penal, a fim de salvaguardar-se o princípio da ampla defesa. Nesse sentido, confira-se o seguinte precedente, in verbis:
+EMENTA: HABEAS CORPUS . CONDENADO SUBMETIDO A SINDICÂNCIA PARA APURAÇÃO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. DEFESA TÉCNICA.
+Formalidade a ser observada, sob pena de nulidade do procedimento — que pode repercutir na remição da pena, na concessão de livramento condicional, no indulto e em outros incidentes da execução —, em face das normas do art. 5º, LXIII, da Constituição, e do art. 59 da LEP, não sendo por outra razão que esse último diploma legal impõe às unidades da Federação o dever de dotar os estabelecimentos penais de serviços de assistência judiciária, obviamente destinados aos presos e internados sem recursos financeiros para constituir advogado (arts. 15 e 16). Habeas corpus deferido. (HC 77.862, Plenário, rel. Min. Ilmar Galvão, j. 17/12/1998).
+No referido julgado, o Ministro Sepúlveda Pertence consignou de forma clara a exigência de representação por advogado nessa natureza de procedimento, nos seguintes termos:
+Outra garantia secular, histórica, da defesa foi o processo acusatório. De tal modo que dizer que um procedimento inquisitivo do qual decorre agravamento da sanção penal não exige defesa técnica, porque não há acusação, é, data vênia, inverter a evolução histórica do processo criminal.
+Outrossim, a inaplicabilidade da Súmula Vinculante nº 5 a procedimento administrativo atinente à execução penal foi assentada expressamente por esta Corte no julgamento do RE nº 398269/RS (rel. Min. Gilmar Mendes, Segunda Turma, DJ de 26/2/2010). No seu voto, o relator consignou, in verbis:
+[...] Recentemente, o Supremo Tribunal Federal aprovou o texto da Súmula Vinculante n.º 5, que dispõe: “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição”.
+Todavia, esse Enunciado é aplicável apenas em procedimentos de natureza cível.
+Em procedimento administrativo disciplinar, instaurado para apurar o cometimento de falta grave por réu condenado, tendo em vista estar em jogo a liberdade de ir e vir, deve ser observado amplamente o princípio do contraditório, com a presença de advogado constituído ou defensor público nomeado, devendo ser-lhe apresentada defesa, em observância às regras específicas contidas na LEP (arts. 1º, 2º, 10, 44, III, 15, 16, 41, VII e IX, 59, 66, V, alínea ‘a’, VII e VIII, 194), no CPP (arts. 3º e 261) e na própria CF/88 (art. 5º, LIV e LV).
+Esta Corte já se defrontou com a erronia da aplicação da Súmula Vinculante n.º 5 para convalidar procedimento administrativo disciplinar com a finalidade de apurar o cometimento de falta grave por detento. É verdade que se conta apenas com decisões monocráticas, formalizadas em exame de pleitos liminares indeferidos, por ter-se entendido como ausente o requisito do periculum in mora. Todavia, esclarece bem a natureza do Enunciado. (RE 398269/RS, rel. Min. Gilmar Mendes, Segunda Turma, DJ de 26/2/2010).
+Com efeito, a simples leitura dos precedentes utilizados na elaboração da Súmula Vinculante nº 5 evidencia a ausência de identidade entre a natureza das sanções resultantes dos procedimentos administrativos neles tratados com o aquele alusivo à disciplina da execução penal:
+-RE 434.059, Rel. Min. Gilmar Mendes, DJe 11.9.2008: previdenciário;
+-AI 207.197-AgR, Rel. Min. Octavio Gallotti, DJ 5.6.1998: fiscal;
+-RE 244.027-AgR, Rel. Min. Ellen Gracie, DJ 28.6.2002: disciplinar-estatutário/militar; e
+-MS 24.961, Rel. Min. Carlos Velloso, DJ 4.3.2005: tomada de contas.
+Consectariamente, não há que se cogitar de vulneração à Constituição Federal no acórdão recorrido.
+Ex positis, NEGO PROVIMENTO ao agravo de instrumento.
+Publique-se. Intimações necessárias.
+Brasília, 9 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
