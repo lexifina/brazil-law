@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE AJUIZADA NO TRIBUNAL A QUO. EXAURIMENTO DA EFICÁCIA DO ATO NORMATIVO IMPUGNADO. PREJUDICIALIDADE. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de justiça de Goiás:
+"AÇÃO DIRETA DE INCONSTITUCIONALIDADE. NORMATIVO DE EFICÁCIA EXAURIDA E DELIMITADA NO TEMPO. JULGAMENTO POSTERIOR. PREJUDICIALIDADE. Ocorre perda de objeto da ação direta de inconstitucionalidade na hipótese do normativo sub examine produzir eficácia já exaurida, uma vez delimitada no tempo, de modo que sua ulterior declaração de não higidez constitucional em nada surtirá efeitos práticos para os eventos futuros. Precedentes do STF. AÇÃO DIRETA DE INCONSTITUCIONALIDADE PREJUDICADA. PERDA DO OBJETO" (fl. 89).
+2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 93, inc. XII, e 125, caput, da Constituição da República.
+Assevera que "equivoca-se o Sodalício goiano quando entende que a presente ação perdeu seu objeto. Conforme explicitado nos embargos declaratórios, a Resolução n. 8 encontra-se em vigência e tem servido de base legal para a edição de idênticas resoluções inconstitucionais, todos os anos, no mesmo período, das quais é impossível recorrer dentro do exíguo período de sua vigência sem incorrer em perda do objeto, reclamando situação de extinção da norma fonte das referidas ilegalidades" (fl. 130).
+Sustenta que "o Tribunal de Justiça de Goiás não propôs ao Poder Legislativo, mas ele próprio, por meio de seu órgão Especial, promoveu alteração na organização judiciária de Goiás, criando período de recesso não previsto em lei. O ato afronta diretamente o artigo 125, § 1°, da Constituição Federal" (fl. 132).
+3. O recurso extraordinário foi inadmitido pelo Presidente do Tribunal de Justiça de Goiás, sob o fundamento de que a matéria constitucional não estaria prequestionada (fl. 160).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Inicialmente, cumpre afastar o óbice imposto pela decisão agravada quanto à alegada ausência do devido prequestionamento, pois a matéria constitucional posta à apreciação foi suscitada em momento procedimentalmente adequado.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. Na espécie vertente, o Tribunal a quo afirmou que "a norma hostilizada instituiu recesso forense apenas para o período de 20 de dezembro de 2008 a 6 de janeiro de 2009. Conquanto a presente ADI tenha sido protocolada em 15/12/2008, seu pedido liminar fora apreciado em momento posterior à paralisação do Poder judiciário, já evidenciado sua prejudicial idade" (fl. 87).
+7. Este entendimento guarda perfeita harmonia com a jurisprudência do Supremo Tribunal que firmou entendimento no sentido de que "a circunstância de o ato normativo abstrato autônomo atacado na ação direta de inconstitucionalidade ter vigência determinada conduz, uma vez alcançado o termo final, a concluir-se pela inviabilidade do controle concentrado de constitucionalidade" (ADI 1979-MC, Rel. Min. Marco Aurélio, Plenário, DJ 29.9.2006). Nesse sentido:
+"EMENTA:  AÇÃO  DIRETA DE INCONSTITUCIONALIDADE. Lei federal nº 9.688/98. Servidor público. Cargo de censor federal. Extinção. Enquadramento dos ocupastes em cargos doutras carreiras. Norma de caráter ou efeito concreto exaurido. Impossibilidade de controle abstrato de constitucionalidade. Pedido não conhecido. Votos vencidos. Lei ou norma de caráter ou efeito concreto já exaurido não pode ser objeto de controle abstrato de constitucionalidade, em ação direta de inconstitucionalidade" (ADI 2980, Redator para o acórdão Min. Cezar Peluso, Plenário, DJE 7.8.2009).
+"AÇÃO DIRETA DE INCONSTITUCIONALIDADE. A liminar pressupõe a relevância da articulação e o risco de se manter com plena eficácia o quadro normativo. AÇÃO DIRETA DE INCONSTITUCIONALIDADE - RESOLUÇÃO - EFEITOS CONCRETOS. Apresentando a resolução efeitos concretos, exauridos, descabe o controle concentrado de constitucíonalidade" (ADI 2333¬ MC, Rel. Min. Marco Aurélio, Plenário, DJ 6.5.2005).
+Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4°, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
