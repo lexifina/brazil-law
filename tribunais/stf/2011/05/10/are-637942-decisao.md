@@ -1,0 +1,15 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“EMBARGOS À EXECUÇÃO EM MANDADO DE SEGURANÇA. ACÓRDÃO QUE RECONHECEU OS IMPETRANTES COMO NÃO ATINGIDOS PELOS EFEITOS DA RESOLUÇÃO 08/09 E PORTARIA 69/99, DO EXTINTO CONSELHO DE COORDENAÇÃO E CONTROLE DAS EMPRESAS ESTATAIS E DO MINISTÉRIO DO TRABALHO, QUE, RESPECTIVAMENTE, REVOGARAM AS ANISTIAS E REINTEGRAÇÕES ANTERIORMENTE CONCEDIDAS NOS TERMOS DA LEI 8.878/94. FÉRIAS EM DOBRO. PARCELA QUE NÃO FOI OBJETO DE DEBATE NA SEGURANÇA. JUROS DE MORA. TEMPUS REGIT ACTUM. INAPLICABILIDADE DO ART. 1º- ‘F’ DA LEI 9.494/97. INOVAÇÃO DA LIDE. IMPOSSIBILIDADE. PRECLUSÃO.
+AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (fl. 501).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI e LXIX, e 97, da mesma Carta.
+O agravo não merece acolhida.
+Esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+Ademais, observo que o Tribunal de origem assim consignou:
+“Com relação ao argumento de que o mandado de segurança não garantiu aos impetrantes qualquer efeito financeiro decorrente da reintegração, bem assim quanto à inadequação da via eleita para fins de cobrança de dívida ilíquida, verifica-se que tais matérias são estranhas aos embargos à execução – os quais se limitaram a discutir o excesso de execução -, pelo que se conclui que a União pretende, na realidade, inovar a sua tese jurídica em sede de agravo regimental, o que é vedado, ante a ocorrência da preclusão consumativa” (fl. 503).
+Verifico, no entanto, que, em relação à alegada violação ao art. 5º, LXIX da Constituição Federal, o ora agravante não atacou o fundamento do acórdão referente à preclusão consumativa da matéria. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 548.094-AgR/DF e RE 561.869-AgR/RJ, Rel. Min. Cezar Peluso; RE 452.272-AgR/SE, Rel. Min. Sepúlveda Pertence; AI 469.221-AgR/SP, Rel. Min. Cármen Lúcia; AI 672.744-AgR/BA, Rel. Min. Ellen Gracie; RE 544.591-AgR/RN e AI 634.686-AgR/RJ, de minha relatoria.
+Por fim, verifico que não há violação ao Princípio da Reserva de Plenário (art. 97 da Constituição Federal) porque o acórdão recorrido não declarou a inconstitucionalidade do art. 6º da Lei 8.878/94 ou afastou a sua aplicação, mas apenas interpretou a legislação infraconstitucional aplicável à espécie, concluindo pelo pagamento das verbas devidas. Assim, não há qualquer violação ao art. 97 da Constituição.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 10 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
