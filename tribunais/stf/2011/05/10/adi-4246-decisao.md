@@ -1,0 +1,12 @@
+Decisão: (Referente à petição n. 25.018/2011)
+    Trata-se de petição do Sindicato dos Servidores Públicos Civis do Estado do Pará – SEPUB-PA, tendo por objeto sua participação no processo, na condição de amicus curiae.
+    2. Pois bem, o art. 7º da Lei nº 9.868/99, após vedar a intervenção de terceiros no processo de ação direta de inconstitucionalidade, diz, em seu § 2º, que “o relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá, por despacho irrecorrível, admitir, observado o prazo fixado no parágrafo anterior, a manifestação de outros órgãos ou entidades”. Não obstante o § 1º do art. 7º da Lei nº 9.868/99 haver sido vetado, entende este Supremo Tribunal Federal que é de se admitir a intervenção de terceiros até o prazo das informações. É verdade que a jurisprudência desta nossa Corte vem relativizando esse prazo. Nas palavras do Ministro Gilmar Mendes, “especialmente diante da relevância do caso ou, ainda, em face da notória contribuição que a manifestação possa trazer para o julgamento da causa, é possível cogitar de hipóteses de admissão de amicus curiae, ainda que fora desse prazo [o das informações]” (ADI 3.614, Rel. Min. Gilmar Mendes).
+    3. Sucede que, no caso em exame, o pedido de intervenção como amicus curiae se deu não somente após o prazo das informações, mas depois de incluído o processo em pauta para julgamento do mérito. Confira-se, nesse sentido, a ADI 4.071-AgR, de reatoria do Ministro Menezes Direito, oportunidade em que fiquei vencido:
+    “4. O amicus curiae somente pode demandar a sua intervenção até a data em que o Relator liberar o processo para pauta.”
+    4. Registro também a decisão do Ministro Gilmar Mendes na ADI 2.791-ED, em que Sua Excelência inadmitiu o ingresso da Associação dos Notários e Registradores do Estado do Paraná, na qualidade de amicus curiae. Isto porque “não há como deixar de considerar que, estando o processo em fase de embargos de declaração e apresentado o feito para julgamento definitivo, a extemporaneidade do pleito não configura, no caso, hipótese excepcional à incidência da regra do § 2º do art. 7º da Lei nº 9.868/99”.
+    5. Ante o exposto, indefiro o pedido, o que faço com a ressalva do meu entendimento pessoal em sentido contrário aos precedentes citados.
+    Publique-se.
+    Brasília, 10 de maio de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
