@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 197):
+“RECURSO DE EMBARGOS DA RECLAMADA INTERPOSTO NA VIGÊNCIA DA LEI 11.496/2007. VOLKSWAGEN DO BRASIL LTDA. HORAS IN ITINERE. APLICAÇÃO ANALÓGICA DA ORIENTAÇÃO JURISPRUDENCIAL TRANSITÓRIA N.º 36 DA SBDI-1. Tendo sido comprovado que o Reclamante tinha que percorrer um longo percurso na parte interna da Empresa, é de se aplicar, analogicamente, o entendimento consubstanciado na Orientação Jurisprudencial Transitória n.º 36 desta Subseção, deferindo-lhe, por conseguinte, o pagamento de horas in itinere. Ressalte-se, por oportuno, que esta Subseção possui o entendimento pacífico de que a Orientação Jurisprudencial Transitória n.º 36 pode ser aplicada de forma analógica a empregados de outras empresas que não a Açominas. Recurso de Embargos conhecido e desprovido. RECURSO DE EMBARGOS DO RECLAMANTE INTERPOSTO NA VIGÊNCIA DA LEI 11.496/2007. MINUTOS QUE ANTECEDEM A JORNADA DE TRABALHO. SÚMULA N.º 366 DO TST. “Não serão descontadas nem computadas como jornada extraordinária as variações de horário do registro de ponto não excedentes de cinco minutos, observado o limite máximo de dez minutos diários. Se ultrapassado esse limite, será considerada como extra a totalidade do tempo que exceder a jornada normal”. Hipótese em que a decisão embargada encontra-se em consonância com a Súmula n.º 366 deste Tribunal Superior. Recurso de Embargos não conhecido.”
+Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos art. 5º, II, da Constituição federal. Sustenta-se que houve aplicação indevida da OJ-T 36/SBDI-I e que o caso não se enquadra em quaisquer das hipóteses de horas in itinere.
+É o relatório. Decido.
+A decisão agravada não merece reparos.
+A questão constitucional suscitada não pode ser analisada sem prévio exame da legislação infraconstitucional e dos fatos e provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 10 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
