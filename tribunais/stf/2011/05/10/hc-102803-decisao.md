@@ -1,0 +1,27 @@
+PROCESSUAL   PENAL . HABEAS   CORPUS .  TRAF ÍCO TRANSNACIONAL   DE   ENTORPECENTES (LEI 11.343/2006, ART . 33, C /C ART . 40, I ). NEGATIVA   DO   APELO   EM   LIBERDADE . INTERROGAT ÓRIO REALIZADO   POR   VIDEOCONFER ÊNCIA EM   DATA   ANTERIOR   À   DA   VIG ÊNCIA DA    LEI 11.900/2009. NULIDADE   ABSOLUTA RECONHECIDA   PELO   SUPERIOR   TRIBUNAL   DE   JUSTI ÇA PARA   ANULAR   A   A Ç ÃO PENAL   DESDE   AS   ALEGA Ç ÕES FINAIS , INCLUSIVE . MANTIDA, POR ÉM, A   SITUA Ç ÃO PROCESSUAL   DO   PACIENTE . EXCESSO   DE   PRAZO   DA   PRIS ÃO CAUTELAR . SUPERVENIENCIA   DE   NOVA   SENTEN ÇA CONDENAT ÓRIA. DEMONSTA Ç ÃO DA   NECESSIDADE   DA   MANUTEN Ç ÃO DA   PRIS ÃO CAUTELAR . TR ÂNSITO EM   JULGADO   DA   APELA Ç ÃO DA   DEFESA . T ÍTULO JUDICIAL   APTO   À   EXECU Ç ÃO. HABEAS   CORPUS   PREJUDICADO .
+D ECIS Ã O: Trata-se de habeas corpus, com pedido de liminar, impetrado contra ato da Quinta Turma do Superior Tribunal de Justiça consubstanciado em acórdão assim ementado (fl. 11):
+HABEAS CORPUS LIBERATÓRIO. NARCOTRAFICÂNCIA TRANSNACIONAL. PACIENTE CONDENADO A 5 ANOS E 5 MESES DE RECLUSÃO, EM REGIME FECHADO, E MULTA, PELA TENTATIVA DE EMBARQUE PARA LONDRES/INGLATERRA, TRANSPORTANDO APROXIMADAMENTE 4 QUILOGRAMAS DE COCAÍNA (ART. 33, CAPUT, C/C ART. 40, I, AMBOS DA LEI 11.343/06). VEDAÇÃO DO APELO EM LIBERDADE. INTERROGATÓRIO REALIZADO POR VIDEOCONFERÊNCIA, ANTERIORMENTE À EDIÇÃO DA LEI 11.900/09. NULIDADE ABSOLUTA. PRECEDENTES DO STJ. CONTAMINAÇÃO DOS DEMAIS ATOS PROCESSUAIS NÃO VERIFICADA, EM RAZÃO DA AUSÊNCIA DE DEMONSTRAÇÃO DOS PREJUÍZOS SOFRIDOS PELA DEFESA. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM PARCIALMENTE CONCEDIDA, TODAVIA TÃO-SOMENTE PARA ANULAR O INTERROGATÓRIO DO PACIENTE, BEM COMO A AÇÃO PENAL DESDE AS ALEGAÇÕES FINAIS, INCLUSIVE, DEVENDO OUTRO SER REALIZADO, PORÉM MANTIDA A SITUAÇÃO PROCESSUAL DO RÉU. PREJUDICADOS OS DEMAIS PEDIDOS.
+1. Firme é o entendimento desta Corte Superior quanto à inadmissibilidade do interrogatório virtual, anteriormente à edição da Lei 11.900/09, tal como se dá na espécie. precedentes.
+2. A nulidade do interrogatório necessariamente não importa na invalidade dos demais atos subsequentes praticados, sendo que, diferentemente daquele, para a invalidação destes, é imprescindível que reste demonstrado o efetivo prejuízo à defesa do paciente, a contrario sensu, devem ser mantidos como escorreitos no feito (HC 107.634/SP, Rel. Min. JORGE MUSSI).
+3. Parecer do MPF pela denegação da ordem.
+4. Ordem parcialmente concedida, todavia, tão-somente para anular o interrogatório do paciente, bem como a Ação Penal desde as alegações finais, inclusive, devendo outro ser realizado, porém mantida a situação processual do paciente; prejudicados os demais pedidos.
+O paciente, sul-africano, foi preso em flagrante, em 15/07/2007, tentando embarcar no aeroporto de Guarulhos/SP com aproximadamente 4 (quatro) quilogramas de cocaína destinados à capital inglesa.
+O constrangimento ilegal atribuído ao Superior Tribunal de Justiça é a manutenção da prisão cautelar do paciente, por prazo excessivo, que se mostraria incabível face à anulação da sentença condenatória desde as alegações finais.
+O impetrante requer, liminarmente e no mérito, a concessão da ordem a fim de que seja expedido alvará de soltura.
+A liminar foi indeferida (fl. 37).
+É o relatório.
+DECIDO.
+O Ministério Público inicialmente manifestou-se no sentido de que fossem requisitadas informações ao Juízo da 5ª Vara Federal de Guarulhos (fl. 47). Ante as informações, opinou nestes termos (fl. 101):
+"Embora anulada a primeira sentença, por vício do interrogatório, as informações de fls. 55/57 indicam que, renovado o interrogatório, outra sentença condenatória foi proferida em 14.01.2010, sendo negado o direito de à apelação em liberdade. E, mais, a apelação foi julgada em 27.10.2010, sendo provido parcialmente o recurso do Ministério Público para afastar a causa especial do § 4º do art. 33 da Lei 11.343/2010.
+Isso posto, com a edição do novo título condenatório constritivo, e a superveniência do julgamento do segundo grau, está prejudicada a alegação de excesso de prazo."
+O Juiz indeferiu a liberdade provisória com fundamento no art. 44 da Lei 11.343/2006, cujo teor é o seguinte:
+"Art. 44. Os crimes previstos nos arts. 33, caput e § 1º, e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos."
+A negativa do apelo em liberdade fundou-se ainda na circunstância de que "... o réu não possui vínculo com o distrito da culpa, de modo que a possibilidade de recorrer em liberdade, se a ele conferida, pode significar frustração à aplicação da lei penal. A sua condição de estrangeiro irregular também impede a obtenção de trabalho lícito remunerado" (fl. 144).
+A superveniência de nova sentença condenatória justificando a necessidade da prisão cautelar torna prejudicado o presente writ, porquanto os fundamentos nela expostos devem ser impugnados, sucessivamente, no Tribunal de Justiça estadual e no Superior Tribunal de Justiça.
+Anoto, por fim, que o acórdão do recurso de apelação da defesa transitou em julgado em 15/03/2011, havendo, pois, título judicial apto à execução (informação obtida no site do TRF3).
+Ante o exposto, julgo prejudicado o writ, com fundamento no artigo 21, IX do RISTF.
+Publique-se. Int..
+Brasília, 10 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
