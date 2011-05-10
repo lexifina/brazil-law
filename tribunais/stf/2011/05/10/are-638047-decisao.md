@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PUBLICAÇÃO DE ATO DA ADMINISTRAÇÃO. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA LEGALIDADE, DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 de Constituição da República.
+2. O Tribunal de Justiça de Goiás julgou mandado de segurança, nos termos seguintes:
+“MANDADO DE SEGURANÇA. POLICIAL MILITAR. VAGA PARA O CURSO DE FORMAÇÃO DE CABO. EXPECTATIVA DE DIREITO AFASTADA. DIREITO LÍQUIDO E CERTO À REALIZAÇÃO DO CURSO. I – É DEVER DA ADMINISTRAÇÃO PUBLICAR SEUS ATOS DENTRO DOS PRINCÍPIOS CONSTITUCIONAIS ENCARTADOS NO ARTIGO 37 DA CF/88. A CRIAÇÃO DE PORTARIA CONCEDENDO O DISTINTIVO É ATO DISCRICIONÁRIO DA ADMINISTRAÇÃO, MAS A PARTIR DO MOMENTO QUE TAL ATO É PUBLICADO PASSA A GERAR CONSEQUÊNCIAS JURÍDICAS. SEGURANÇA CONCEDIDA” (fl. 173).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidências das Súmulas n. 279 e 282 do Supremo Tribunal Federal.
+4. O Agravante argumenta que:
+“Interpretando-se a ‘contrario sensu’ o verbete sumular n. 356 desta Suprema Corte, evidente se torna a possibilidade de se conhecer do recurso extraordinário interposto pelo agravante, haja vista que este lançou mão de todas as medidas judiciais cabíveis no intuito de provocar o Tribunal ‘a quo’ a se manifestar acerca da aplicabilidade dos dispositivos constitucionais que entende vulnerado no acórdão concessivo da segurança.
+(...)
+Com efeito, o Supremo Tribunal Federal firmou orientação no sentido de que se tem por prequestionada a matéria constitucional se o Tribunal de origem se recusa a enfrentar o tema versado no acórdão mesmo depois da oposição dos embargos de declaração, como ocorre no caso ora analisado.
+(...)
+E, para se chegar a essa apreciação, não se faz necessário reexame de provas, mas da aplicação do dispositivo constitucional invocado. Destarte, desprovido de fundamento o argumento esposado na decisão que denegou seguimento ao recurso extraordinário, razão pela qual merece seguimento o recurso interposto pelo ora agravante, haja vista que devidamente atendidos os requisitos de admissibilidade do mesmo” (fls. 257-258 e 262).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. II e XXXVI, e 37, caput e inc. I, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+Sendo este o caso, analisam-se, inicialmente, portanto, os argumentos expostos no agravo de instrumento, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+6. Razão jurídica não assiste ao Agravante.
+O Desembargador Relator observou que:
+“a morosidade do Poder Público em lhe conceder a honraria foi, sem dúvida, fato que lhe tolheu a possibilidade de promoção, eis que a administração justificou-se da demora na publicação do ato alegando a existência de razões administrativas.
+Na hipótese, tem-se por própria a impetração porque manejada para corrigir ato da autoridade impetrada, consistente na inobservância dos atos administrativos, mormente em se tratando de concessão de vaga no curso de formação de cabos em prestígio aos princípios norteadores da Administração Pública, encartados no artigo 37 da CF/88.
+(...)
+Logo, não se trata de mera expectativa de direito, eis que a Administração Pública justificou-se da demora na publicação do referido ato alegando a existência de razões administrativas, porquanto, no período em que a portaria ainda estava em vigor já subsistia o direito do impetrante e somente em decorrência da morosidade Administrativa o impetrante não pôde gozar desse direito” (fls. 165-167).
+Concluir de forma diversa do que foi decidido pelas instância originária demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+Nesse sentido:
+“CONSTITUCIONAL E CONSUMIDOR. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROLE JUDICIAL. ATO ADMINISTRATIVO. APRECIAÇÃO DE FATOS E PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. PRECEDENTES. 1. O Recurso Extraordinário não é cabível nos casos em que se impõe o reexame do quadro fático-probatório para apreciar a apontada ofensa à Constituição Federal. Incidência da Súmula STF 279. 2. O controle judicial do ato administrativo quando esbarra na apreciação de fatos e provas e de legislação infraconstitucional não autoriza a abertura da via extraordinária. 3. Agravo regimental improvido” (AI 736.893-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 3.9.2010 – grifei).
+7. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011 – grifei).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
