@@ -1,0 +1,12 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição) de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que condenou a parte ora recorrente no pagamento de compensação pelos danos morais decorrentes de inadimplemento de cláusula de contrato de prestação de serviços educacionais. Eis a ementa ( Fls. 96):
+“APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO POR DANOS MORAIS E MATERIAIS. ALEGAM OS AUTORES QUE APÓS TER COMPLETADO O CURSO DE FISIOTERAPIA, FICARAM IMPEDIDOS DE EXERCER A PROFISSÃO PORQUE O CURSO NÃO FOI RECONHECIDO PELO CONSELHO FEDERAL DE EDUCAÇÃO, O QUE IMPEDIU O REGISTRO DOS AUTORES NO CONSELHO DE FISIOTERAPIA. SENTENÇA QUE JULGOU PROCEDENTE EM PARTE O PEDIDO PARA CONDENAR O RÉU A PAGAR AOS AUTORES 40 SALÁRIOS MÍNIMOS POR DANOS MORAIS, 10 PARA CADA UM. INCONFORMADAS, AMBAS AS PARTES RECORRERAM. A RÉ DEVERIA TER DILIGENCIADO PARA OBTENÇÃO DO RECONHECIMENTO ANTES DA CONCLUSÃO DO CURSO POR PARTE DE SEUS ALUNOS. NÃO HÁ COMPROVAÇÃO DE AVISO AOS ALUNOS QUE SE MATRICULARAM NO CURSO QUE EXISTIA A POSSIBILIDADE DE NÃO OBTEREM SEUS DIPLOMAS IMEDIATAMENTE APÓS A CONCLUSÃO. PRESENTES OS ELEMENTOS PARA CARACTERIZAÇÃO DO DEVER DE INDENIZAR. RECURSOS CONHECIDOS PARA DAR PARCIAL PROVIMENTO AO PRIMEIRO PARA RECONHECIMENTO DA SUCUMBÊNCIA RECÍPROCA, DETERMINANDO O RATEIO DAS DESPESAS PROCESSUAIS E A COMPENSAÇÃO DOS HONORÁRIOS, ASSIM COMO DAR PARCIAL PROVIMENTO AO SEGUNDO RECURSO PARA MAJORAÇÃO DA INDENIZAÇÃO POR DANOS MORAIS PARA O VALOR TOTAL DE R$ 32.000,00, SENDO R$ 8.000,00 PARA CADA AUTOR. NO MAIS, MANTIDA A SENTENÇA .”
+No recurso extraordinário, a parte ora agravante aponta violação dos artigos 5º, II, V, X e 93, IX, da Constituição.
+Não prospera o recurso.
+Verifico, inicialmente, que não houve vulneração à garantia da fundamentação das decisões judiciais, pois o acórdão recorrido inequivocamente prestou jurisdição e examinou todos os argumentos da parte ora agravante.
+Quanto à questão pertinente à responsabilidade da agravante pela compensação dos danos reclamados, verifico que o acórdão recorrido se fundou na prova que estabeleceu a negligência no dever de buscar o efetivo reconhecimento do curso concluído pela parte ora agravada . Afastar essas conclusões implicaria reexame da matéria fático-probatória, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Do exposto, , nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 11 de maio de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
