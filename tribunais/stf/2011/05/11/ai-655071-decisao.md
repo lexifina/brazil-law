@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+“Apelação Cível – Desapropriação – Estação Ecológica Juréia-Itatins – Recurso de Ofício da Fazenda do Estado e dos expropriados improvidos. Agravos retidos não conhecidos” (fl. 59).
+3. O Agravante alega que teria sido contrariado os arts. 5º, inc. XXIV, LIV e LV, e 100, § 1º, da Constituição da República.
+Argumenta que “a ferir a justa indenização prevista constitucionalmente está o erro material referente à duplicidade de indenização relacionada ao mesmo item – benfeitorias (...) Somando-se os valores das benfeitorias constantes no laudo pericial, encontra-se o total de CR$ 32.202.394,00. No entanto, na r. sentença confirmada pelo v. acórdão nesta parte, ao valor total das benfeitorias - (...) - foi novamente acrescido o valor correspondente às culturas (...), havendo um 'bis in idem' a ferir o princípio da JUSTA INDENIZAÇÃO” (fl. 258).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 310).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois o Agravante suscitou oportunamente as alegações de ofensa constitucional.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. O Tribunal a quo assentou que:
+“o valor da indenização foi corretamente fixado, de acordo com o minucioso laudo elaborado pelo perito judicial (fl. 164), que, discriminou corretamente o valor da terra nua, benfeitorias e culturas, 'quantum' estes que refletem a justa indenização, prevista na Constituição da República” (fl. 63).
+7. O Tribunal de origem decidiu a controvérsia com base na legislação processual ordinária e no conjunto probatório dos autos. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+Concluir de forma diversa demandaria o reexame de provas, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). CONTROVÉRSIA SOBRE OS JUROS INCIDENTES NA INDENIZAÇÃO: QUESTÃO QUE DEMANDARIA A ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 512.489-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE PROVAS. OFENSA INDIRETA. PRECEDENTES. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que o exame de contrariedade dos princípios da justa indenização e da preservação do valor real restringe-se ao âmbito infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 717.016-AgR, Rel. Min. Eros Grau, DJe 19.9.2008).
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CRÉDITO COMPLEMENTAR. EXPEDIÇÃO DE NOVO PRECATÓRIO. AGRAVO IMPROVIDO. I – Os pagamentos de complementação de débitos da Fazenda Pública Federal, Estadual ou Municipal, decorrentes de decisões judiciais, deverão ser objeto de novo precatório, com a devida citação da Fazenda Pública. Precedentes. II – A suposta ofensa ao princípio da justa indenização (art. 5º, XXIV, da CF) se dá de forma indireta e requer o exame do conjunto fático-probatório dos autos. Incide, no caso, a Súmula 279 do STF. III – Agravo regimental improvido” (RE 553.772-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 24.2.2011).
+8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 11 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
