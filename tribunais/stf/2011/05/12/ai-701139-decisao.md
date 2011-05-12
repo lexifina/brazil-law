@@ -1,0 +1,13 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que não admitira recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão que versa sobre a responsabilidade civil de pessoa jurídica de direito público em razão de evento que resultou em dano moral à parte ora agravada. Eis a ementa (fls.305):
+“APELAÇÃO CÍVEL – AÇÃO DE REPARAÇÃO DE DANOS – PRELIMINARES – DENUNCIAÇÃO DA LIDE E SUSPENSÃO DO PROCESSO – REJEIÇÃO – MÉRITO – DISPARO ACIDENTAL DE ARMA DE FOGO – POLICIAL NO EXERCÍCIO DE SUAS FUNÇÕES – MORTE DA ESPOSA E MÃE DOS AUTORES NO INTERIOR DO SEU LAR – RESPONSABILIDADE OBJETIVA DO ESTADO DE ALAGOAS – ARTIGO 37, PARÁGRAFO 6º DA CF c/c ARTIGO 44, III, DA CE DE ALAGOAS – PROCEDÊNCIA DA AÇÃO – RECURSO CONHECIDO E IMPROVIDO – UNANIMIDADE.”
+Alega a parte recorrente vulneração do artigo 37, § 6º, da Constituição. Argüi que a ausência de nexo causal afastaria a responsabilidade estatal pelos danos suportados pelos recorridos.
+A jurisprudência desta Corte é firme no sentido de que as pessoas jurídicas de direito público e as pessoas jurídicas de direito privado prestadoras de serviço público respondem objetivamente pelos seus atos, bastando para isso que esteja estabelecido um nexo causal entre o ato e o dano causado (cf. AI 383.872-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ 08.11.2002; RE 217.389, rel. min. Néri da Silveira, Segunda Turma, DJ 24.05.2002; AI 209.782-AgR, rel. min. Marco Aurélio, Segunda Turma, DJ 18.06.1999; RE 206.711, rel. min. Moreira Alves, Primeira Turma, DJ 25.06.1999; RE 163.203, rel. min. Ilmar Galvão, Primeira Turma, DJ 15.09.1995, e RE 113.587, rel. min. Carlos Velloso, Segunda Turma, DJ 03.04.1992).
+No presente caso, a decisão impugnada concluiu, com fundamento na prova, que restara “(...) a existência dos danos materiais e moral, injustos e desproporcionais , resulta translúcida e indubitável do evento morte culminado em detrimento da Sra. Fátima Maria Ramos Alves Soares, esposa e mãe dos autores, em virtude do disparo acidental da arma de fogo do Delegado Jobson Cabral, integrante do quadro de Delegados da Secretaria de Segurança Pública do Estado de Alagoas” (Fls. 310).
+Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+Ademais, se o acórdão recorrido efetivamente reconheceu os danos experimentados pela parte agravada, o nexo de causalidade entre a atuação do agente público e referidos danos e, ainda, a inexistência de excludentes do dever de indenizar, não há que se falar em vulneração ao art. 37, § 6º, da Constituição.
+Ante o exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 12 de maio de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
