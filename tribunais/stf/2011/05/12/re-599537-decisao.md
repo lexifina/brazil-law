@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, b, da Constituição federal) interposto de acórdão prolatado pela 1ª Turma do Tribunal Regional Federal da 4ª Região, que entendeu, com base em entendimento da 1ª Seção do Superior Tribunal de Justiça, que o art. 3º da Lei Complementar 118/05 seria aplicável apenas às ações ajuizadas após 9 de junho de 2005.
+Pela letra b do inciso III do art. 102 da Constituição, é incabível o recurso extraordinário, porque o cabimento do recurso nessa hipótese pressupõe a observância do procedimento preconizado pelo art. 97 da Constituição federal. Assim, o que poderia e deveria ter sido questionado com base na alínea a do permissivo constitucional é se o procedimento adotado pelo Tribunal de origem observou o princípio da reserva de plenário, a que se refere o já citado dispositivo constitucional. É o que se extrai da jurisprudência desta Corte:
+“Recurso extraordinário. Decisão da Corte a quo que, por um de seus órgãos fracionários, declara a inconstitucionalidade de lei ou ato normativo. Interposição pela alínea "b" do inciso III do art. 102 da Lei Maior. Impossibilidade. Inteligência do art. 97 da Constituição, que exige seja adotado tal procedimento apenas pelo plenário ou órgão especial do tribunal. Hipótese de cabimento de extraordinário, pela letra "a" do permissivo constitucional, por infringência à reserva de plenário, que, na espécie, não se encontra prequestionada. Agravo regimental desprovido.” (RE 270.479 AgR, rel. min. Ellen Gracie, Primeira Turma, DJ de 04.10.2002)
+No mesmo sentido: AI 473.019-AgR (rel. min. Sepúlveda Pertence, DJ de 23.04.2004), AI 467.694-AgR (rel. min. Gilmar Mendes, DJ de 27.02.2004) e RE 342.249-AgR (rel. min. Ellen Gracie, DJ de 04.10.2002).
+Ante o exposto, nego seguimento ao recurso extraordinário.
+Publique-se.
+Brasília, 12 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
