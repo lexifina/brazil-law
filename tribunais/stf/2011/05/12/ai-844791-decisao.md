@@ -1,0 +1,33 @@
+AGRAVO DE INSTRUMENTO. TRABALHISTA. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. EXECUÇÃO. SUCESSÃO DE EMPRESAS. VIOLAÇÃO AO ARTIGO 5º, XXX, LIV E LV, DA CF/88. INOCORRÊNCIA. OFENSA INDIRETA OU REFLEXA. PRECEDENTES.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. A verificação da violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10 e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+3. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e o do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+4. NEGO SEGUIMENTO ao agravo de instrumento. Precedentes: AI 825.716-AgR, Primeira Turma, Relator Ministro Ricardo Lewandowski, Dje de 04/03/2011 e AI 813.557-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, Dje de 21.02.2011.
+D ECIS Ã O: Cuida-se de agravo de instrumento interposto por RURAL LEASING S.A. - ARRENDAMENTO MERCANTIL, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 149-150-v, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a”, do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Superior do Trabalho fls. 127-129-v, assim ementado (fl. 123-v), verbis:
+“AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE. RECURSO DE REVISTA. EXECUÇÃO. SUCESSÃO DE EMPRESAS. SÚMULA Nº. 266 DO TST.
+O artigo 896, § 2º, da CLT permite a admissibilidade do recurso de revista, no processo em execução, apenas se for demonstrada ofensa a literalidade de dispositivo constitucional, o que não ocorreu no caso concreto. Da mesma forma, a matéria de fundo debate, sucessão de empresas, tem assento em norma de natureza infraconstitucional (artigos 10 e 448 da CLT).
+Agravo de instrumento a que se nega provimento.”
+Não foram opostos embargos de declaração.
+Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 5º, XXXV, LIV e LV, da Constituição Federal.
+O Tribunal Superior do Trabalho negou seguimento ao apelo derradeiro sob o fundamento de que a ofensa à Constituição Federal, se ocorrente, seria indireta ou reflexa.
+É o relatório. DECIDO.
+Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+Não merece prosperar a presente irresignação.
+É que a controvérsia foi decidida à luz de interpretação de normas infraconstitucionais, no caso sub examine, os artigos 10, 448 e 896, § 2º, da CLT. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, (RE 596.682 Rel. Min. Carlos Britto, Dje de 21.10.2010, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08.09.2010, entre outros).
+Ressalte-se, por sua relevância, que a alegada violação ao artigo 5º, XXXV, LIV e LV, da Constituição Federal não procede. Esta Suprema Corte firmou jurisprudência nos termos da qual a ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Nesse sentido, traz-se à colação julgados de ambas as Turmas do Supremo Tribunal Federal, verbis:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS ARTS. 5º, XXXVI, LIV, LV, E 133 DA CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO.
+I - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes.
+II - A apreciação do art. 133 da Constituição, no caso, depende do prévio exame de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+III - A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento.
+IV - Agravo regimental improvido” (AI 825.716-AgR, Primeira Turma, Relator Ministro Ricardo Lewandowski, Dje de 04/03/2011).
+“ TRABALHISTA E PROCESSUAL CIVIL. AMPLA DEFESA. CONTRADITÓRIO. DEVIDO PROCESSO LEGAL. IGUALDADE. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. PRECEDENTES. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. DECISÃO CONTRÁRIA AOS INTERESSES DAS PARTES NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF.
+1. A ofensa aos postulados constitucionais da ampla defesa, do contraditório, do devido processo legal e da igualdade, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+2. Apreciação do recurso extraordinário que requer a análise de fatos e provas da causa (Súmula STF 279), além do reexame de legislação infraconstitucional (Lei 6.404/76 e CPC), hipóteses inviáveis nesta via.
+3. Decisão fundamentada contrária aos interesses das partes não configura ofensa ao artigo 93, IX, da CF.
+4. Agravo regimental a que se nega provimento” (AI 813.557-AgR, Segunda Turma, Relatora Ministra Ellen Gracie, Dje de 21.02.2011).
+NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+Publique-se. Intimações necessárias.
+Brasília, 12 de maio de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
