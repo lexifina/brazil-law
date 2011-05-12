@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 473):
+“RECURSO DE EMBARGOS. CONTRATAÇÃO POR TEMPO DETERMINADO PARA ATENDER NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO. AUSÊNCIA DE CONCURSO PÚBLICO. VALIDADE DO CONTRATO DE TRABALHO. Restando consignado pelo v. acórdão embargado que a contratação do reclamante atendeu os requisitos da contratação temporária de que trata o inciso IX, do artigo 37 da Constituição Federal, quais sejam, contratação temporária, necessidade temporária das atividades desenvolvidas e excepcional interesse público, não há como se verificar a afronta literal do artigo 37, inciso II, § 2º, da Constituição Federal e a contrariedade à Súmula nº 363 do c. TST. Isso porque, o aludido preceito constitucional e a Súmula 363 do c. TST, que pacificou a controvérsia em torno desse comando constitucional, disciplinam hipóteses de contratação de pessoal permanente aos quadros da Administração Pública e não contratação temporária para atender excepcional interesse público, que dispensa a realização de concurso público. Embargos não conhecidos.”
+2. Pois bem, a parte recorrente alega, em síntese, que a instância judicante de origem, ao declarar a legitimidade da contratação do recorrido, afronta o § 2º e o inciso II do art. 37 da Magna Carta de 1988, porque não estão presentes, no caso, os requisitos previstos na lei que disciplina a admissão temporária no âmbito federal (Lei 8.745/1993).
+3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Francisco Adalberto Nóbrega, opina pela “inadmissão do recurso”.
+4. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pelo aresto impugnado exigiria o reexame da legislação infraconstitucional. Pelo que ofensa ao Magno Texto apenas ocorreria de forma indireta ou reflexa, o que não autoriza a abertura da via recursal extraordinária.
+5. Com efeito, segundo pacífica jurisprudência desta nossa Casa de Justiça, não cabe falar em violação direta à Constituição Federal se, primeiramente, for necessário dar pela vulneração de texto previsto na legislação infraconstitucional.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 12 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
