@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. 1) DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO: SÚMULA N. 284 DO SUPREMO TRIBUNAL. 2) AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra julgado da 1ª Turma Recursal dos Juizados Cíveis e Criminais do Distrito Federal, que manteve a condenação do Recorrente a 10 dias-multa pela prática do crime de desacato.
+2. O Recorrente alega o Juízo a quo teria contrariado os princípios do devido processo legal, proporcionalidade e não culpabilidade, pois sua condenação se teria embasado apenas nos depoimentos dos policiais, vítimas secundárias do ilícito.
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal (fls. 148-150).
+O Recorrente sustenta a presença dos requisitos para o processamento do recurso extraordinário.
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos mesmos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a questão suscitada pelo Agravante tem natureza estritamente jurídica.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+6. O Tribunal de origem fundamentou-se também na “confissão do acusado” (fl. 71).
+Assim, a alegação de que a condenação do Agravante se teria embasado apenas nos depoimentos dos policiais atrai a incidência da Súmula n. 284 do Supremo Tribunal e não enseja o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 grifos nossos).
+“1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008 grifos nossos).
+7. Ademais, os princípios suscitados no recursos extraordinário não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME DE ROUBO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 766.895-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010 – grifos nossos).
+“AGRAVO REGIMENTAL. AUSÊNCIA DE PEÇA ESSENCIAL. ARTS. 5º, XLVI, E 93, IX, DA CONSTITUIÇÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. OFENSA REFLEXA. A parte agravante não demonstra a presença nos autos da peça que a decisão agravada teve como ausente, qual seja, a certidão de publicação do acórdão recorrido. Trata-se de peça de traslado obrigatório, cuja ausência acarreta o não-conhecimento do agravo de instrumento. Ausência de prequestionamento. Questão não ventilada no acórdão recorrido e que não foi suscitada em embargos de declaração. Óbice previsto pelos enunciados das Súmulas 282 e 356/STF. Alegação de violação dos arts. 5º, XLVI, e 93, IX, da Constituição Federal. Necessidade de exame prévio de norma infraconstitucional (Código Penal) para a verificação de contrariedade à Carta Magna. Caracterização de ofensa reflexa ou indireta. Precedente. Agravo regimental a que se nega provimento” (AI 586.491-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 12 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
