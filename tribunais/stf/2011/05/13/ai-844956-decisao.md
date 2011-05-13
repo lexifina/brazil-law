@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DECADÊNCIA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DAS SÚMULAS N. 279 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base nas alíneas a e c do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça de Minas Gerais julgou apelação em ação ordinária, nos termos seguintes:
+“CONCURSO PÚBLICO – PEDIDO DE DECLARAÇÃO DO DIREITO À NOMEAÇÃO NO CARGO DE PROFESSOR DE HISTÓRIA – DECADÊNCIA DO DIREITO – RECURSO DESPROVIDO. Tendo a Constituição da República definido que o prazo de validade do concurso é limitado a dois anos e prorrogável por igual período, vislumbra-se o seu caráter decadencial, a exigir que o pedido de nomeação se efetive, fatalmente, neste interregno de tempo, sob pena da parte não mais o poder realizar. Recurso desprovido” (fl. 54).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e a incidência das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. O Agravante argumenta que:
+“o presente caso é espelho fiel do que foi decidido no julgamento do RE 192.568-PI, aonde o Ministro Relator Marco Aurélio concluiu que o inciso IV do artigo 37 da CF/88 resguarda aos concursados precedência à nomeação, o que imediatamente se transforma em direito adquirido quando a Administração Pública deixa escoar prazo de concurso para em seguida iniciar novo processo de seleção” (fl. 4).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, caput e inc. LIV, 37, caput e inc. I, II e IV, da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+O Desembargador Relator observou que:
+“o concurso promovido pela Secretaria de Estado da Educação – SEE foi homologado em 01/06/2005 (fl. 14), não tendo seu prazo de validade sido prorrogado.
+Aos termos do art. 37, III, da Carta Magna, o prazo de validade do certame expirou em 01/09/2007, tendo a presente ação ordinária sido ajuizada somente em 14/05/2008 (f. 02/verso).
+Portanto, tendo o autor, ora apelante, ajuizado a presente ação, visando sua nomeação, após a expiração do prazo de validade do concurso, fica caracterizada a decadência, que tem por efeito extinguir o próprio direito sobre o qual se fundamenta o pedido exordial” (fl. 56).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, a teor do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+Nesse sentido:
+“CONCURSO PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II – Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III – Agravo regimental improvido” (AI 695.631-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009 – grifei).
+6. Anote-se, ainda, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional (Código de Processo Civil), configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011 – grifei).
+7. Tem-se, ao final, que o recurso extraordinário também não se viabiliza pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula 284 deste Supremo Tribunal.
+Nesse sentido:
+“Recurso extraordinário. – Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993 – grifei).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 13 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
