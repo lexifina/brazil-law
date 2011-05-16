@@ -1,0 +1,15 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar em habeas corpus anteriormente aforado perante o Superior Tribunal de Justiça (HC 201.861/MG).
+ O paciente foi condenado em primeira instância à pena de 11 anos e 4 meses de reclusão pela prática dos crimes previstos nos arts. 33 e 35, combinado com art. 40, V, todos da Lei 11.343/2006.
+ O Tribunal de Justiça do Estado do Rio de Janeiro deu parcial provimento à apelação criminal para absolver o paciente do crime de associação para o tráfico. Todavia, o recurso do Parquet também foi provido para condená-lo pena de 2 anos de reclusão pela prática do delito tipificado no art. 14 da Lei 10.826/2003.
+  Inconformada, a defesa impetrou o referido HC 201.861/MG ao Superior Tribunal de Justiça. O eminente Ministro Haroldo Rodrigues (Desembargador convocado do TJCE) indeferiu o pedido de liminar.
+ Alega o impetrante, em síntese: a) possibilidade de abrandamento da Súmula 691/STF; b) incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006; c) direito à assistência judiciária gratuita em todas as intâncias; d) aplicação de sursis quanto ao crime de porte ilegal de arma; e) inépcia da denúncia no tocante ao art. 14 da Lei 10.826/2003; f) falta de fundamentação quanto à dosimetria da pena.
+ Assim, requer a concessão de provimento liminar. No mérito, o deferimento do writ.
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Haroldo Rodrigues (Desembargador convocado do TJCE), assentou que “a liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham”.
+ Ainda, concluiu que, “no caso, o constrangimento ilegal não se mostra com a nitidez imprimida na inicial, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo”.
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+ Publique-se.
+ Brasília, 16 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
