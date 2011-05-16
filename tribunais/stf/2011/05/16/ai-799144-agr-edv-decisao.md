@@ -1,0 +1,12 @@
+1.  Trata-se de embargos de divergência opostos em face de acórdão proferido pelo Plenário desta Corte, o qual negou provimento ao agravo regimental no agravo de instrumento.
+2.  O presente recurso não merece prosperar, dada a ausência de prova do devido recolhimento do preparo (certidão à fl. 163).
+3.  Observo que a jurisprudência do Supremo Tribunal Federal está pacificada no sentido de que o art. 511 do Código de Processo Civil, com redação dada pela Lei 8.950/94, revogou o § 3º do art. 335 do RISTF.
+ Dessa forma, o embargante deve comprovar o recolhimento do preparo no momento da interposição do recurso, sob pena de deserção. Nesse sentido, cito o RE 143.808-EDv-QO/SP, de minha relatoria, Plenário, pub. DJ 24.05.2004:
+“QUESTÃO DE ORDEM. PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. PREPARO. PRAZO. 1. A Lei nº 8.950/94, ao modificar o art. 511 do CPC, derrogou o disposto no art. 335, § 3º do RISTF - segundo o qual o prazo para a realização do preparo dos embargos de divergência era aberto a partir da publicação do despacho que os admitisse. Precedente: RE 146.747-AgR-Edv. A nova disposição estabelece que o preparo - inclusive porte de remessa e retorno - seja feito no ato de interposição do recurso, pena de deserção. 2. Questão de ordem resolvida no sentido de julgar desertos os presentes embargos de divergência. 3. Embargos não conhecidos”.
+4.  Destaco, ainda, os seguintes julgados: RE 233.563-ED-ED-EDv-AgR, rel. Min. Sepúlveda Pertence, DJ 06.09.2007; RE 220.286-EDv-AgR, rel. Min. Celso de Mello, DJ 16.5.2003; RE 170.717-EDv-AgR, rel. Min. Carlos Velloso, DJ 13.12.2002; RE 557.546-EDv-AgR, rel. Min. Ricardo Lewandowski, DJe 30.04.2008; e RE 528.286-EDv-AgR, rel. Min. Cármen Lúcia, DJe 05.05.2008.
+5.  Ademais, verifica-se que o acórdão embargado foi prolatado pelo Plenário, o que constitui óbice à oposição de embargos de divergência, nos termos dos artigos 330 do RISTF e 546, II, do CPC. Nesse sentido: AI 722.219-AgR-EDv/RJ, rel. Min. Cezar Peluso, Plenário, DJe 07.08.2009; AI 729.055-AgR-EDv/MG, rel. Min. Cezar Peluso, Plenário, DJe 26.03.2010; AI 647.835-AgR-EDv/RN, rel. Min. Cezar Peluso, Plenário, DJe 30.04.2009; AI 718.173-AgR-ED-EDv/PE, rel. Min. Cezar Peluso, Plenário, DJe 16.04.2010.
+6.  Ante o exposto, não conheço dos presentes embargos de divergência (art. 557, caput, do CPC e art. 21, § 1º, do RISTF).
+ Publique-se.
+ Brasília, 16 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
