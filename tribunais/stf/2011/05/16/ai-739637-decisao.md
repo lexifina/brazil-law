@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. REMUNERAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO LOCAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DAS SÚMULAS N. 279, 280 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base nas alíneas a e c do inc. III do art. 102 da Constituição da República.
+2. O Tribunal de Justiça do Pará julgou mandado de segurança, nos termos seguintes:
+“MANDADO DE SEGURANÇA. AS PRELIMINARES SUSCITADAS PELAS AUTORIDADES IMPETRADAS FORAM TODAS REJEITADAS. NO MÉRITO, O DIREITO DOS IMPETRANTES ESTÁ FUNDAMENTADO NOS ARTS. 67/68, DA LC N. 022/94 E DA PROVA PRÉ-CONSTITUÍDA ENCONTRADA NESTES AUTOS. VISLUMBRA-SE QUE OS REPRESENTADOS TÊM DIREITO AOS ADICIONAIS RECLAMADOS, DE 5% (CINCO POR CENTO) A CADA CLASSE DAS CATEGORIAS DE AUXILIAR TÉCNICO DA POLÍCIA CIVIL E MOTORISTAS POLICIAIS CIVIS, BEM COMO QUE SEJAM ACRESCIDOS OS VENCIMENTOS DOS PRIMEIROS, DE MOLDE A COMPATIBILIZÁ-LOS COM AQUELES ATRIBUÍDOS AO NÍVEL DE ESCOLARIDADE CORRESPONDENTE AO 2º GRAU. SEGURANÇA CONCEDIDA” (fl. 119).
+3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 do Supremo Tribunal Federal e a inviabilibilidade de sua interposição com base na alínea c do inc. III do art. 102 da Constituição da República.
+4. O Agravante argumenta que:
+“resta inegável que o v. acórdão recorrido incidiu em ofensa à Carta Federal e reputou como válida lei local contestada em face da Constituição Federal, dando ensejo à admissibilidade do recurso extraordinário pelas alíneas ‘a’ e ‘c’ do inc. III do art. 102 da CF/88.
+Afasta-se, igualmente, o óbice da Súmula 280 dessa Colenda Corte, tendo em vista que o exame da questão apreciada demanda o cotejo da norma estadual com a Constituição Federal, do qual resulta o confronto entre ambas e, por via de consequência, a insubsistência da norma estadual contrastada” (fl. 10).
+No recurso extraordinário, alega que o Tribunal a quo teria contrariado o inc. XIII do art. 37 da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+O Desembargador Relator observou que:
+“O direito dos impetrantes está fundamentado na LC 022/94, seus artigos 67/68, que estabelecem tanto para uma quanto para outra categoria a diferença não superior a 5% (cinco por cento) entre ‘uma classe para outra de carreira’; e da prova pré-constituída encartada nestes autos, constante dos contra-cheques de pagamentos de vencimentos dos servidores substituídos processualmente. Também, em relação ao vencimento-base de R$ 130,00 (cento e trinta reais), atribuindo às duas categorias, o mesmo contraria o disposto no artigo 47 da mesma LC antes citada, que exige níveis de escolaridade diferentes (1º e 2º graus, respectivamente).
+Nem mesmo a alegação das autoridades impetradas de que não há nos autos comprovação do nível de escolaridade dos requeridos, não pode vingar, pois como argumenta o MP, a alegação não procede, porque ‘presume-se já ter sido o requisito devidamente analisado pela Polícia Civil, no momento do ingresso dos mesmos em seus cargos públicos, tendo em vista que o cargo para ser provido, necessita de um controle efetivado pela própria polícia no momento do ingresso, quanto ao nível de escolaridade das pessoas que pleiteiam a ocupação de cargos públicos’, fls. 102/103 do parecer” (fls. 122 e 185).
+Conforme se verifica, concluir de forma diversa do que foi decidido pela instância originária demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação local aplicada à espécie (Lei Complementar estadual n. 22/1994). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 deste Supremo Tribunal.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. LEGISLAÇÃO LOCAL. OFENSA REFLEXA. 1. O Tribunal ‘a quo’ não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal. 2. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. Agravo regimental a que se nega provimento” (AI 737.065-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 28.8.2009).
+Nesse julgamento, o Ministro Relator afirmou que:
+“a controvérsia foi decidida com fundamento na legislação local Leis Complementares Estaduais n. 22/94 e n. 46/04. Incide o óbice da Súmula n. 280 do STF. Daí porque eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário”.
+6. Anote-se, ao final, que o recurso extraordinário também não se viabiliza pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide na espécie a Súmula n. 284 deste Supremo Tribunal.
+Nesse sentido:
+“Recurso extraordinário. – Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993 – grifei).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
