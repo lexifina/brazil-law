@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado do Pará, que manteve sentença que condenou a parte ora agravante no pagamento da compensação de danos morais decorrentes de acidente automobilístico sofrido pela parte ora agravada. Eis a ementa (fls. 138):
+“Recurso cível. Ação de indenização por danos morais e materiais. Acidente envolvendo usuária de serviço de transporte público. 1. Preliminar: Existência de litisconsórcio passivo necessário. Chamamento de seguradora. Descabimento. Incidência do artigo 10 da Lei n. 9.099 de 95. Rejeitada. Unânime. 2. Mérito: Responsabilidade civil objetiva da concessionária de transporte público. Valor indenizatório em consonância com os princípios da razoabilidade e da proporcionalidade. 3. Recurso desprovido.”
+Nas razões de recurso extraordinário, a ora agravante alega violação ao disposto no art. 5º, LIV e LV, da Carta Magna.
+Afirma que “a Autora não cuidou de juntar aos autos documentação que supostamente comprova a lesão sofrida, não se apropriou de comprovações da culpabilidade do motorista de ônibus, o qual estava apenas exercendo sua atividade laboral e principalmente a responsabilidade da recorrente” (fls. 171).
+Sustenta, também, que o acórdão impugnado violou o devido processo legal ao negar o chamamento da seguradora Sul América Seguros S/A, com a qual tem vínculo por meio de contrato; e que o quantum arbitrado ao dano moral foi excessivo.
+O Plenário deste Supremo Tribunal Federal, no julgamento do RE 591.874, de relatoria do Min. Ricardo Lewandowski, DJe de 18.12.2009, entendeu pela responsabilidade objetiva das concessionárias ou permissionárias de serviço de transporte coletivo em relação a terceiros usuários e não-usuários do serviço, em acórdão assim ementado:
+“EMENTA: CONSTITUCIONAL. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. PESSOAS JURÍDICAS DE DIREITO PRIVADO PRESTADORAS DE SERVIÇO PÚBLICO. CONCESSIONÁRIO OU PERMISSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA EM RELAÇÃO A TERCEIROS NÃO-USUÁRIOS DO SERVIÇO. RECURSO DESPROVIDO.
+I - A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, segundo decorre do art. 37, § 6º, da Constituição Federal.
+II - A inequívoca presença do nexo de causalidade entre o ato administrativo e o dano causado ao terceiro não-usuário do serviço público, é condição suficiente para estabelecer a responsabilidade objetiva da pessoa jurídica de direito privado.
+III - Recurso extraordinário desprovido.”
+Dessa orientação não divergiu o acórdão recorrido, que efetivamente reconheceu os danos experimentados pela parte agravada e o nexo de causalidade entre o acidente e referidos danos.
+Quanto à alegação de que a decisão impugnada contrariou a Constituição ao não admitir a intervenção de terceiros no âmbito dos Juizados Especiais, verifico que concluir diversamente do Juízo a quo demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à Constituição federal, acaso existente, seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário.
+Ademais, afastar as conclusões do acórdão impugnado quanto quantum reparatório exigiria reexame do conjunto fático-probatório que o orientara. Incide, no caso, o óbice da Súmula 279-STF.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 16 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
