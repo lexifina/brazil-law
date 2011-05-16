@@ -1,0 +1,49 @@
+D ECIS Ã O:
+Vistos.
+Cuida-se de reclamação constitucional eletrônica, com pedido de liminar, apresentada pela IBM   B RASIL I ND Ú STRIA, M Á QUINAS E S ERVI Ç OS LTDA em face do J UIZ DO T RABALHO DA V ARA DO T RABALHO DE H ORTOL Â NDIA , cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no Recurso Extraordinário nº 583.955/RJ, AI nº 584.049/RJ-AgR, CC nº 7116/SP e AI nº 690.609/RS-AgR.
+A reclamante, na inicial eletrônica, alega que:
+a) o Juízo reclamado condenou-a subsidiariamente ao pagamento de créditos trabalhistas, uma vez que a devedora principal se encontra em processo de falência;
+b) à Justiça do Trabalho não cabe executar o crédito trabalhista, quando decretada a falência da empresa, devendo ser processada no Juízo falimentar conforme jurisprudência desta Corte, “que manteve a unidade da execução de créditos da masa falida perante um único juízo e sua vis attractiva, uma vez instaurado”;
+c) a responsabilidade subsidiária surge somente quando exauridas as tentativas de obter o valor do crédito junto ao devedor principal ou quando verificada a impossibilidade patrimonial de se arcar com a dívida;
+d) o Supremo Tribunal Federal já firmou o entendimento no qual é competência exclusiva do juízo universal o processamento das execuções, incluindo as trabalhistas;
+e) deve ser deferido pedido liminar para evitar a perpetuação da afronta à autoridades das decisões desta Corte;
+f) a reclamação deve ser julgada procedente.
+Dispensada a oitiva do Ministério Público ante o caráter reiterativo da matéria.
+É o relatório.
+I . A MOLDURA F Á TICO-JUR Í DICA DO OBJETO DA RECLAMA Ç Ã O
+Discute-se nos autos a possibilidade de se executar, em dívida trabalhista, o devedor subsidiário, uma vez que o principal se encontra submetido a processo falimentar.
+Na espécie, sustenta-se a necessidade de se esgotarem todas as medidas possíveis de execução do devedor principal, incluindo-se a tentativa de execução dos bens dos sócios, como responsáveis solidários que são. Contesta-se a competência da Justiça Especializada Trabalhista para determinar a execução contra a devedora subsidiária.
+II . O CABIMENTO DA RECLAMA Ç Ã O
+O perfil constitucional da reclamação (art.102, inciso I, alínea l, CF/1988) é o que lhe confere a função de preservar a competência e garantir a autoridade das decisões e das súmulas vinculantes deste Tribunal. Em torno desses dois conceitos, a jurisprudência da Corte desenvolveu parâmetros para utilização dessa figura jurídica, entre os quais, para o julgamento da presente ação constitucional, se destacam:
+1. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurou como sujeito processual nos casos concretos versados no paradigma . “(...) Não cabe reclamação por suposta ofensa à autoridade de decisão proferida em processo subjetivo, do qual não é nem foi parte o reclamante” (Rcl nº 5.335/MG-ED, Relator o Ministro Cezar Peluso , Tribunal Pleno, DJe de 8/5/08).
+2. Decisão judicial que desrespeita enunciado de súmula do STF sem efeito vinculante não dá ensejo ao ajuizamento de reclamação constitucional, pois não há obrigatoriedade de acatamento vertical pelos tribunais e juízos. “Eventual descumprimento de súmula do Supremo Tribunal Federal, mas desprovida de efeito vinculante, não autoriza o manejo da reclamação” (Rcl nº 5.063/PR-AgR, relator o Ministro Ayres Britto, Tribunal Pleno, DJe de 25/9/09). Precedente: Rcl nº 5.082/DF-AgR, Relatora a Ministra Ellen Gracie, Tribunal Pleno, DJe de 4/5/07).
+3. Reclamação não pode se confundir com sucedâneo recursal, ação rescisória ou emprestar efeito suspensivo a RE. “O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo” (Rcl nº 5.703/SP-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia , DJe-195 de 16/10/09). Precedentes: Rcl nº 5.926/SC-AgR, Tribunal Pleno, Relator o Ministro Celso De Mello , DJe-213 de 13/11/09; Rcl nº 5.684/PE-AgR, Tribunal Pleno,Relator o Ministro Ricardo Lewandowski , DJe-152 de 15/8/08.
+4. Impossibilidade do uso da reclamação como meio de saltar graus jurisdicionais . O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes (Rcl nº 5.926/SC-AgR, Tribunal Pleno, Relator o Ministro Celso De Mello , DJe-213 de 13/11/09). Nesse sentido, a Rcl nº 5.684/PE-AgR, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski , DJe-152 de 15/8/08.
+5. Caráter estrito da competência do STF no conhecimento das reclamações . A competência originária do Supremo Tribunal Federal não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados pelo rol exaustivo inscrito no art. 102, I, da Constituição. Precedentes (Rcl nº 5.411/GO-AgR, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski , DJe-152 de 15/8/08).
+III . O CASO DOS AUTOS
+A reclamante aponta como paradigmas de confronto o Recurso Extraordinário nº 583.955/RJ, o AI nº 584.049/RJ-AgR, o CC nº 7116/SP e o AI nº 690.609/RS-AgR.
+Nesse ponto, ressalto que as decisões referidas possuem natureza subjetiva e, portanto, sua eficácia vinculante é restrita às partes nelas relacionadas.
+A reclamante não figurou em nenhum dos polos das citadas relações processuais tidas por violadas, sendo assente a ilegitimidade ativa na presente reclamação. Nesse sentido a Rcl nº 3.051/RS-AgR, Relator o Ministro Carlos Britto , Tribunal Pleno, DJ de 15/9/06, acórdão assim ementado:
+“AGRAVO REGIMENTAL. RECLAMAÇÃO.
+A decisão tomada no RE 197.917, em razão da sua natureza subjetiva, possui eficácia vinculante apenas em relação às partes que dele participaram. Por isso mesmo, não figurando a agravante em nenhum dos pólos da precitada relação processual, falta-lhe legitimidade ativa ad causam . Ainda que assim não fosse, a edição das Resoluções nºs 21.702 e 21.803, do Tribunal Superior Eleitoral, observou as diretrizes fixadas quando do julgamento do mencionado RE 197.917, razão por que não se divisa nenhum desrespeito ao que foi decidido pelo Supremo Tribunal Federal no pré-falado apelo extremo.
+Agravo regimental desprovido.”
+Este Supremo Tribunal Federal tem jurisprudência pacífica no sentido de que não se conhece de reclamação fundada em precedentes sem eficácia geral e vinculante, de cuja relação processual o reclamante não fez parte. Cito precedente:
+“RECLAMAÇÃO. Alegação de afronta a decisão proferida em agravo regimental em agravo de instrumento. Causa de índole subjetiva. Decisão desprovida de eficácia erga omnes . Vinculação restrita às partes. Autoridade diversa daquela que é sujeito processual do recurso extraordinário. Processo extinto, sem julgamento de mérito. Inteligência do art. 102, I, l, da CF. Precedentes. Agravo regimental improvido. Não cabe reclamação por suposta ofensa à autoridade de decisão proferida em processo subjetivo, do qual não é nem foi parte o reclamante” (Rcl nº 5.335/MG-ED, Relator o Ministro Cezar Peluso , Tribunal Pleno, DJe de 8/5/08).
+O interesse da parte foi manejar a reclamação como sucedâneo de recurso, o que é vedado pela jurisprudência do STF, conforme inúmeros precedentes:
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. ACÓRDÃO TRANSITADO EM JULGADO. SÚMULA 734/STF.
+1. 'Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal' (Súmula 734 do STF).
+2. A reclamação não é sucedâneo de ação rescisória ou de recursos não interpostos, oportunamente, pelos interessados.
+3. Agravo a que se nega provimento” (Rcl nº 9.127/RJ-AgR, Relator Ministro Ayres Britto , Tribunal Pleno, DJe de20/8/10).
+“RECLAMAÇÃO CONSTITUCIONAL. ALEGADA VIOLAÇÃO DE AUTORIDADE DE PRECEDENTE DO PLENO DO SUPREMO TRIBUNAL FEDERAL. ARESTO FIRMADO EM JULGAMENTO DE ALCANCE SUBJETIVO. AGRAVO DE INSTRUMENTO. LEGITIMIDADE PARA PROPOR A RECLAMAÇÃO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. DECISÃO QUE INDEFERE DE PLANO O SEGUIMENTO DA RECLAMAÇÃO.
+1. Agravo regimental interposto de decisão com a qual se negou seguimento à reclamação, destinada a assegurar a autoridade de precedente da Corte.
+2. A reclamação não é instrumento de uniformização jurisprudencial. Tampouco serve de sucedâneo de recurso ou medida judicial cabível para fazer valer o efeito devolutivo pretendido pelo jurisdicionado.
+3. Nos termos da orientação firmada pelo Supremo Tribunal Federal, são legitimados à propositura de reclamação todos aqueles que sejam prejudicados por atos contrários às decisões que possuam eficácia vinculante e geral (erga omnes). Se o precedente tido por violado foi tomado em julgamento de alcance subjetivo, como se dá no controle difuso e incidental de constitucionalidade, somente é legitimado ao manejo da reclamação as partes que compuseram a relação processual do aresto.
+4. No caso em exame, o reclamante não fez parte da relação processual em que formado o precedente tido por violado (agravo de instrumento julgado pelo Pleno do Supremo Tribunal Federal).
+Agravo regimental conhecido, mas ao qual se nega provimento” (Rcl nº 6.078/SC-AgR, Relator o Ministro Joaquim Barbosa , Tribunal Pleno, DJe de 30/4/10) .
+Impõe-se um tratamento mais rigoroso ao trâmite desses incidentes no STF, sob pena de sua transformação de um tribunal constitucional em um tribunal de reclamações, e no sentido vulgar do termo.
+Ante o exposto, denego a reclamação, prejudicado o exame da liminar.
+Publique-se.
+Brasília, 16 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
