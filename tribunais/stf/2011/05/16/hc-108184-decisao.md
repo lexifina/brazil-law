@@ -1,0 +1,13 @@
+1.  Trata-se de habeas corpus impetrado contra decisão monocrática que indeferiu pedido de liminar em habeas corpus anteriormente aforado perante o Superior Tribunal de Justiça (HC 200.205/SP).
+ O paciente foi preso em flagrante, no dia 18.1.2011, pela suposta prática do crime previsto no art. 180 do Código Penal. O pedido de relaxamento da prisão foi indeferido pelo magistrado de primeira instância.
+ Contra tal situação, impetrou-se habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de liminar. Inconformada, a defesa do paciente impetrou o HC 200.205/SP ao Superior Tribunal de Justiça. O eminente Ministro Og Fernandes indeferiu o pleito emergencial.
+ Alega o impetrante, em síntese: a) ausência dos pressupostos necessários à manutenção da prisão cautelar; b) falta de fundamentação idônea da decisão que manteve a segregação cautelar do paciente; c) possibilidade de abrandamento da Súmula 691/STF; d) excesso de prazo para formação da culpa.
+ Assim, requer a concessão de provimento liminar, para que se determine o relaxamento da prisão processual ou a liberdade provisória do paciente. No mérito, solicita que o paciente possa aguardar em liberdade o julgamento do processo de origem.
+2.  A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Gilson Dipp, indeferiu a liminar pleiteada, “porquanto a matéria ainda não foi apreciada pelo colegiado do Tribunal de origem”. Registrou ainda que “o pedido de liminar é de natureza satisfativa, confundindo-se com o próprio mérito da impetração, cuja análise competirá ao órgão colegiado, em momento oportuno”.
+3.  Vale frisar que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+4.  Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+5.  Ante o exposto, indefiro liminarmente o presente writ.
+ Publique-se.
+ Brasília, 16 de maio de 2011.
+Ministra E LLEN G RACIE
+Relatora
