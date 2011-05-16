@@ -1,0 +1,14 @@
+LibreOffice
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão constitucional suscitada no AI 790.283- -RG/DF, Rel. Min. GILMAR MENDES.
+O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+De outro lado , e no que se refere à alegada violação ao art. 97 da Constituição, cabe observar que a pretensão recursal ora deduzida também se revela inacolhível, eis que a análise do acórdão recorrido evidencia que, na espécie, não houve qualquer declaração de inconstitucionalidade de diploma legislativo ou de ato normativo a ele equivalente, em clara demonstração de que se revela impertinente, na espécie, a fundamentação com que a parte ora agravante pretendeu justificar a interposição do recurso extraordinário.
+No caso em análise, como já enfatizado, não houve qualquer declaração de inconstitucionalidade, tanto que o acórdão impugnado em sede recursal extraordinária resultou de julgamento efetuado por órgão fracionário do E. Tribunal de Justiça do Estado de Minas Gerais, considerada, na espécie, a inaplicabilidade da cláusula inscrita no art. 97 da Constituição da República, cuja prescrição – ressalte-se – somente incidirá na hipótese de a decisão do Tribunal importar em proclamação da invalidade constitucional de determinado ato estatal (RTJ 95/859 – RTJ 96/1188 – RT 508/217 – RF 193/131):
+“Nenhum órgão fraccionário de qualquer Tribunal dispõe de competência, no sistema jurídico brasileiro, para declarar a inconstitucionalidade de leis ou atos emanados do Poder Público. Essa magna prerrogativa jurisdicional foi atribuída, em grau de absoluta exclusividade, ao Plenário dos Tribunais ou, onde houver, ao respectivo Órgão Especial. Essa extraordinária competência dos Tribunais é regida pelo princípio da reserva de Plenário, inscrito no artigo 97 da Constituição da República.
+Suscitada a questão prejudicial de constitucionalidade perante órgão fraccionário de Tribunal (Câmaras, Grupos, Turmas ou Seções), a este competirá, em acolhendo a alegação, submeter a controvérsia jurídica ao Tribunal Pleno.”
+(RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+Vê-se, portanto, no tocante à suposta transgressão ao art. 97 da Constituição, que não se revela viável o recurso extraordinário interposto pela parte ora agravante, em face da própria ausência de declaração de inconstitucionalidade, efetivamente inexistente na espécie ora em exame.
+Sendo assim, e em face razões expostas, nego provimento ao presente agravo de instrumento.
+Publique-se.
+Brasília, 16 de maio de 2011.
+Ministro CELSO DE MELLO
+Relator
