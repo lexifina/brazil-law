@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1155, de 13 de maio de 2011
+Dispõe sobre procedimentos e medidas de controle referentes à exportação de cigarros.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 46 da Lei nº 4.502, de 30 de novembro de 1964, no Decreto-Lei nº 1.593, de 21 de dezembro de 1977, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e nos arts. 284, 322 e 343 a 345 do Decreto nº 7.212, de 15 de junho de 2010, Regulamento do Imposto sobre Produtos Industrializados (RIPI),resolve:
