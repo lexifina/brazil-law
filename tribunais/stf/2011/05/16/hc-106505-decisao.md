@@ -1,0 +1,19 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal de Justiça em outro writ anteriormente aforado perante aquela Corte (HC 147.533/MS).
+ Narra a inicial que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicialmente fechado, pela prática do crime tipificado no art. 121, § 2º, II, combinado com art. 14, II, do Código Penal.
+ A defesa recorreu ao Tribunal de Justiça do Estado de Mato Grosso do Sul, que negou provimento à apelação criminal. Contra tal situação, impetrou-se o HC 147.533/MS ao Superior Tribunal de Justiça, que denegou a ordem pleiteada.
+ Argumenta a impetrante, em síntese: a) nulidade do julgamento pelo reconhecimento indevido da qualificadora por motivo fútil; b) redução da pena-base em razão de o crime ter ocorrido na modalidade tentada. Assim, requer a concessão de provimento liminar.
+2.  O acórdão impugnado pelo presente writ, proferido nos autos do HC 147.533/MS, rel. Ministro Jorge Mussi, do Superior Tribunal de Justiça, foi assim ementado:
+“HABEAS CORPUS. ART. 121, § 2º, INCISO II, C/C ART. 14, INCISO II, DO CP. QUALIFICADORA DE MOTIVO FÚTIL. CIÚMES. DESPROPORCIONALIDADE ENTRE A CONDUTA E O RESULTADO LESIVO. EXCLUSÃO. IMPOSSIBILIDADE. SOBERANIA DOS VEREDICTOS. COMPETÊNCIA DO CONSELHO DE SENTENÇA. NECESSIDADE DE EXAME MINUCIOSO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ELEITA. ORDEM DENEGADA.
+1. É entendimento deste Sodalício que "o ciúme, por si só, sem outras circunstâncias, não caracteriza o motivo torpe" (HC 123.918/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/08/2009, DJe 05/10/2009), e nem constitui a conotação de futilidade para a perpetração do delito. (Precedentes STJ).
+2. Na hipótese dos autos, da leitura da exordial acusatória e da quesitação formulada aos jurados, constata-se que o que foi levado à apreciação do Tribunal do Júri não foi a discussão se o sentimento pelo qual o paciente teria agido seria ou não o ciúme e se este seria insignificante, mas tão somente se estaria configurada a qualificadora do motivo fútil pela desproporcionalidade entre os inúmeros disparos de arma de fogo efetuados e o fato de somente existirem fuchicos sobre a possibilidade da vítima ter dado início a um novo relacionamento, o que demonstra que aquele não foi o único fundamento a embasar a existência da qualificadora em relação ao paciente.
+3. Não cabe a esta Corte de Justiça emitir qualquer juízo de valor acerca da motivação do paciente, tendo em vista que a competência para decidir definitivamente se o sentimento pelo qual ele foi encorajado a praticar a conduta delituosa em apreço foi ou não fútil é do Conselho de Sentença, de acordo com a narrativa dos fatos constantes da denúncia e com o auxílio das provas produzidas no âmbito do devido processo legal, providência que seria, inclusive, inviável na esteira do presente remédio constitucional por demandar exame minucioso do conjunto fático-probatório, o que é vedado diante da celeridade do seu rito procedimental.
+4. Ordem denegada”.
+3.  Em 14.12.2010, indeferi o pedido de liminar.
+4.  A manifestação da Procuradoria-Geral da República é pelo não-conhecimento do pedido.
+5.  Examinando os autos, verifico que o objeto do presente writ já está sendo submetido à apreciação desta Suprema Corte nos autos do HC 106.489/MS, da relatoria do eminente Ministro Dias Toffoli, impetrado em 2.12.2010. O pedido de liminar foi indeferido no dia 7.12.2010.
+ Ressalto que ambas as impetrações são idênticas, possuindo as mesmas partes, o mesmo pedido e a mesma causa de pedir, configurando-se, assim, a litispendência. Dessa maneira, não há razão para o prosseguimento do presente feito, visto que se trata de mera reiteração de impetração anterior.
+6.  Ante o exposto, nego seguimento ao presente habeas corpus (RISTF, art. 21, § 1º).
+ Publique-se. Arquive-se.
+ Brasília, 16 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
