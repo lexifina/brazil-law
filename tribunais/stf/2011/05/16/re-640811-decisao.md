@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ESTABILIDADE EXTRAORDINÁRIA. VERIFICAÇÃO DO CUMPRIMENTO DOS REQUISITOS DO ART. 19 DO ADCT: IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTÁVEIS. ENQUADRAMENTO NO PLANO DE CLASSIFICAÇÃO DE CARGOS DA UNIÃO. AUSÊNCIA DE HOMOLOGAÇÃO DAS TABELAS DE VENCIMENTOS. OMISSÃO DO MINISTRO DE ESTADO DO PLANEJAMENTO E ORÇAMENTO. AUTORIDADE COATORA CORRETAMENTE INDICADA. ATO OMISSIVO. DECADÊNCIA. NÃO OCORRÊNCIA.
+(...) 3. A controvérsia colocada no presente writ já foi objeto de ampla discussão no âmbito da Terceira Seção desta Corte, que tem adotado entendimento no sentido de que, uma vez comprovada a condição de servidores estáveis dos impetrantes, nos termos dos arts. 19 do ADCT e 243 da Lei nº 8.112/90, deve ser reconhecido o direito líquido e certo de serem incluídos no Plano de Classificação de Cargos da União - PCC.
+4. Segurança concedida” (fl. 152).
+2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 93, inc. IX, da Constituição da República e o art. 19 do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “torna-se necessário reformar o acórdão recorrido, para denegar a segurança em relação aos impetrantes Francisco Alves de Sá e Marlene Ribeiro da Silva, porque, embora tenham sido admitidos cinco anos antes da CF/88, tiveram seu tempo de serviço interrompido, não perfazendo cinco antes ininterruptos antes da CF” (fl. 217).
+Examinados os elementos havidos nos autos, DECIDO.
+3. Não assiste razão jurídica à Recorrente.
+4. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+5. O Superior Tribunal de Justiça assentou que:
+“Da análise dos documentos acostados aos autos, notadamente as carteiras de trabalho dos impetrantes, verifica-se que são servidores públicos estáveis, porquanto admitidos no serviço público 5 (cinco) anos antes da promulgação da Constituição Federal de 1988, nos termos dos arts. 19 do ADCT e 243 da Lei n. 8.112/90” (fl. 151).
+6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes julgados:
+“AGRAVO REGIMENTAL. TRABALHADOR. ESTABILIDADE. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. 1. A via extraordinária não é adequada para se questionarem os requisitos para a concessão da estabilidade prevista no art. 19 do Ato das Disposições Constitucionais Transitórias e se fazer processar, como se pretende no presente agravo regimental, reexame de matéria probatória reservada às instâncias ordinárias de mérito. 2. Incidência da Súmula 279 do Supremo Tribunal Federal. 3. Agravo ao qual se nega provimento” (AI 488.609-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+“1. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 19 do Dispositivo Transitório. Violação dependente de reexame prévio de matéria fática. Súmula 279. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, tampouco que dependa de reexame de fatos e provas. 2. RECURSO. Extraordinário. Estabilidade. Artigo 19 do Dispositivo Transitório. Requisito Temporal. Adquire a estabilidade anômala, prevista no artigo 19 do ADCT, aquele que prestou serviço por mais de cinco anos, até 05.10.88. 3. (...)” (RE 230.435-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 13.10.2006).
+Não há o que prover quanto às alegações da Recorrente.
+7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 16 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
