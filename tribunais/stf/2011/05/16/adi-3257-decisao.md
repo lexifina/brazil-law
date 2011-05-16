@@ -1,0 +1,10 @@
+D ECIS Ã O: O Partido Trabalhista Brasileiro (PTB) ajuizou, em julho de 2004, a presente ação direta de inconstitucionalidade contra os artigos 1º e 2º da Resolução TSE n.° 21.834, de 22 de junho de 2004, que alteraram, respectivamente, o § 5º do art. 26 e o § 1º do art. 30 da Resolução TSE n.° 21.610/2004 e tratam da propaganda eleitoral e das condutas vedadas aos agentes públicos em campanha eleitoral nas eleições municipais de 2004.
+Prestadas as informações pelo Tribunal Superior Eleitoral (fls. 50-59), a Procuradoria-Geral da República manifestou-se pelo não conhecimento da ação, alegando que, no caso, eventual vício de inconstitucionalidade seria apenas reflexo, tendo em vista que toda a fundamentação da peça inicial estaria baseada nos artigos 47 e 105 da Lei 9.504/97.
+A Advocacia-Geral da União também manifestou-se pelo não conhecimento da ação, ante a possibilidade de apenas haver mera ofensa reflexa ao texto constitucional, e informou, ainda, a perda de objeto da ação, em razão do exaurimento da eficácia temporária dos atos normativos impugnados, editados para terem aplicação apenas nas eleições municipais de 2004. Em segundo parecer, a Procuradoria-Geral da República destacou, igualmente, a perda de objeto da ação.
+Tal como atestado pelos pareceres da Advocacia-Geral da União e da Procuradoria-Geral da República, a presente ação direta não pode ser conhecida. Em primeiro lugar, em razão da mera ofensa reflexa, visto que a eventual violação direta ocorreria em face de dispositivos da Lei 9.504/97. Em segundo lugar, pela perda superveniente de objeto, ocorrida com o exaurimento total da eficácia temporária das resoluções impugnadas, editadas pelo TSE especialmente para disciplinarem as eleições municipais ocorridas no já longínquo ano de 2004.
+Ante o exposto, nego seguimento à presente ação direta de inconstitucionalidade (art. 21, IX, § 1º, do RISTF e art. 4º da Lei 9.868/99).
+Publique-se. Arquive-se.
+Brasília, 16 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
