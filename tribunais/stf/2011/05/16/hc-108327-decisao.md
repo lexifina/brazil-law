@@ -1,0 +1,17 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal de Justiça em outro writ anteriormente aforado perante aquela Corte (HC 120.979/MG).
+ A paciente foi condenada à pena de 4 anos de reclusão, em regime inicialmente fechado, pela prática do crime previsto no art. 12, combinado com art. 18, IV, da Lei 6.368/76. O Juiz de Direito da Vara de Execuções Criminais da Comarca de Juiz de Fora-MG reduziu a pena da paciente com fundamento no art. 33, § 4º, da Lei 11.343/06.
+ Inconformado, o Parquet Estadual interpôs agravo em execução perante o Tribunal de Justiça do Estado de Minas Gerais, que deu provimento ao recurso para cassar a decisão proferida pelo magistrado de primeira instância.
+ Após, a defesa impetrou o referido HC 120.979/MG ao Superior Tribunal de Justiça, que concedeu a ordem pleiteada e determinou ao juízo de primeira instância redimensionar a pena com fundamento no art. 33, § 4º, da Lei 11.343/06, a partir da pena-base a ser recalculada nos termos do caput do art. 33 da Lei 11.343/06.
+ Alega a impetrante, em síntese, violação aos princípios da retroatividade da lei mais benéfica e da irretroatividade da lei mais gravosa (art. 5º, XL, da CF/88). Requer a concessão de provimento liminar, para que o juiz da execução criminal apenas aplique a causa de diminuição da pena. No mérito, solicita o deferimento do writ.
+2.  O Superior Tribunal de Justiça, ao julgar o HC 120.979/MG, relatado pela eminente Ministra Maria Thereza de Assis Moura, concedeu a ordem nos termos da seguinte ementa:
+“DIREITO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. SUCESSÃO DE LEIS NO TEMPO. ART. 12 DA LEI 6.368/76. INCIDÊNCIA DO § 4º DO ART. 33 DA LEI 11.343/06. COMBINAÇÃO DE LEIS. IMPOSSIBILIDADE. DETERMINAÇÃO DE INCIDÊNCIA DO REDUTOR SOBRE A PENA ESTABELECIDA PELA LEI NOVA.
+1. Consolidou-se no STF e no STJ o entendimento de que é inviável a conjugação de leis penais benéficas, dado que tal implicaria espécie de criação de terceira norma, com a violação do primado da separação dos poderes. Assim, diante de condenação por fato ocorrido sob a égide da Lei 6.368/76, buscando-se a incidência da minorante do § 4º do art. 33 da Lei 11.343/06, o mais apropriado é determinar-se ao juiz das execuções que realize o redimensionamento da pena, promovendo-se a incidência do redutor sobre a reprimenda calculada a partir do preceito secundário do art. 33 da nova Lei de Drogas.
+2. Ordem concedida, em menor extensão, a fim de determinar que o juízo das execuções penais redimensione a pena, fazendo incidir o redutor do § 4º do art. 33 da Lei 11.343/06 sobre a pena edificada a partir do preceito secundário previsto no caput de tal comando”.
+3.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+4.  Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+5.  Ademais, a liminar pleiteada tem caráter nitidamente satisfativo, confundindo-se com o mérito da matéria suscitada, que, diante da sua complexidade, merece um exame mais detido, possível na ocasião do julgamento do mérito pelo órgão colegiado.
+6.  Ante o exposto, indefiro o pedido de liminar. Colha-se a manifestação da Procuradoria-Geral da República.
+ Publique-se.
+ Brasília, 16 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
