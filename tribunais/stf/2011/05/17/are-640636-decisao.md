@@ -1,0 +1,23 @@
+D ECIS Ã O: Trata-se de agravo contra decisão de inadmissibilidade recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+“ADMINISTRATIVO. LICITAÇÃO. CONVÊNIO FIRMADO PARA A CONSTRUÇÃO DE BARRACÃO INDUSTRIAL. PRORROGAÇÃO DO PRAZO. POSSIBILIDADE. PRINCÍPIO DA RAZOABILIDADE.
+1. A União indeferiu o pedido de prorrogação do instrumento convencional em virtude do atraso na apresentação de novo plano de trabalho, bem como na regularização da situação do Município perante o INSS. Entretanto, a exigência afigurou-se desarrazoada e, portanto, ilegal, não podendo prevalecer o ato motivado por questões meramente formais em detrimento do próprio interesse público que norteou a formação do ajuste de vontades entre União e Município, por meio do Convênio nº 41/2006.
+2. A exigência imposta ao Município, para devolver os recursos federais injetados na obra realizada, não se mostra razoável, não guardando proporcionalidade com o vício formal que motivou a não concessão de prazo adicional. Resta claro que o objetivo do convênio foi atingido. Ademais, o Município providenciou a regularização de sua situação junto ao INSS e o barracão objeto do convênio já foi finalizado.” (fl. 358).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente alega que houve ofensa ao artigo 195, § 3º, do Texto Constitucional. Ademais, argumenta que a certidão negativa de débitos junto ao INSS foi apresentada fora do prazo previsto para prorrogação do contrato.
+O recorrente argumenta, em síntese, que a existência de débitos perante o Tesouro Nacional veda a contratação com o Poder Público e o recebimento de benefícios ou incentivos fiscais ou creditícios.
+Decido.
+O recurso não merece prosperar.
+Na espécie, o acórdão recorrido assentou que:
+“Compulsando os autos, verifico que a parte autora demonstrou que o único entrave para o atendimento do pedido de prorrogação do prazo do Convênio nº 41/2006 foi a não apresentação de certidão de regularidade da situação do Município perante o INSS no prazo de 30 (trinta) dias antes do término do prazo convencionado (fl. 33). Assim, a União aplicou a regra consignada na Cláusula Décima Quarta do Convênio, assim redigida:
+'CLÁUSULA DÉCIMA QUARTA - DA MODIFICAÇÃO Este CONVÊNIO poderá ser modificado através de TERMO ADITIVO, de comum acordo entre as partes, desde que não haja mudança do objeto, devendo o Convenente apresentar justificativa acompanhada de um novo Plano de Trabalho no prazo mínimo de trinta dias antes do seu término.' (fl. 43)
+A União confirmou que indeferiu o pedido de prorrogação do instrumento convencional em virtude do atraso na apresentação de novo plano de trabalho, bem como na regularização da situação do Município perante o INSS.
+Como bem menciono o juiz a quo, a exigência afigurou-se desarrazoada e, portanto, ilegal, não podendo prevalecer o ato motivado por questões meramente formais em detrimento do próprio interesse público que norteou a formação do ajuste de vontades entre União e Município, por meio do Convênio nº 41/2006.
+Saliento que um mês após o término do prazo do convênio, a obra já estava em fase de acabamento, com um percentual de 71,32% dos serviços realizados (fl. 32). Pelo Certificado juntado na fl. 27, verifica-se que a obra foi concluída até 24 de abril de 2008, situação que, em princípio, autoriza o deferimento do pedido de prorrogação, porquanto os recursos federais repassados pela União ao Município foram efetivamente aplicados na obra objeto do convênio, inexistindo óbice de natureza material para a formação do Termo Aditivo de Prorrogação do Prazo.
+A exigência imposta ao Município requerente (fl. 29), para devolver os recursos federais injetados na obra realizada, não se mostra razoável, não guardando proporcionalidade com o vício formal que motivou a não concessão de prazo adicional. Resta claro que o objetivo do convênio foi atingido, ainda que 90 (noventa) dias após o encerramento do prazo nele fixado.
+Ademais, o Município providenciou a regularização de sua situação junto ao INSS (fl. 33) e o barracão objeto do convênio já foi finalizado, como reconheceu a própria União” (fl. 356-V). (grifei)
+Assim, para entender de forma diversa, faz-se imprescindível o reexame dos elementos fático-probatórios constantes dos autos e das cláusulas inscritas no contrato, providências vedadas na via do apelo extremo, nos termos das Súmulas 279 e 454 do STF.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
