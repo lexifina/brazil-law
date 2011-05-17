@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CIVIL. LIMITAÇÃO DA TAXA DE JUROS REAIS EM 12% AO ANO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra decisão do Tribunal de Justiça de São Paulo, que julgou apelação em ação ordinária, nos termos seguintes:
+“CONTRATO BANCÁRIO – Abertura de crédito em conta corrente – Ação revisional – Afastamento da cobrança de taxas e tarifas não contratadas. JUROS – Remuneratórios – Capitalização – Inadmissibilidade – Falta de prova da contratação – Taxa de juros – Necessidade de cláusula específica disciplinando sua cobrança. COMISSÃO DE PERMANÊNCIA – Contratação não demonstrada – Cobrança – Inadmissibilidade – Multa moratória afastada por inexistência de comprovação de que tenha sido pactuada – Sentença de procedência parcial reformada – Apelação do réu improvida, provida a da autora” (fl. 259).
+2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. XXXVI, 102, inc. III, § 2º, e 192, § 3º, da Constituição.
+Argumenta que:
+“mesmo antes do artigo 192, § 3º, da Constituição Federal ter sido revogado, o mesmo não poderia ser invocado, já que não era auto-aplicável e inexistia lei, norma ou regulamentação limitando as taxas de juros praticadas pelas instituições financeiras, devendo prevalecer, sempre, a taxa de juros ajustada livremente entre as partes contratantes.
+(...)
+Por sua vez, o Tribunal ‘a quo’ entendeu por bem limitar os juros remuneratórios em 12% (doze por cento) ao ano.
+Percebe-se, portanto, que houve patente contrariedade ao artigo 102, inc. III, § 2º, da Constituição Federal já que o Tribunal ‘a quo’, ao decidir pela limitação dos juros, julgou de forma distinta da ADIN n. 004-7/DF, não cumprindo o efeito vinculante e a eficácia geral dada à decisão de mérito proferida na ADIN retro citada, de modo que é plenamente cabível o presente recurso.
+Ao limitar os juros remuneratórios, o Tribunal ‘a quo’ contrariou, ainda, o artigo 2º da Carta Magna, o qual consagra o Princípio da Separação e Independência entre os Poderes da União: (...).
+(...)
+Ora, o mencionado contrato firmado entre as partes constitui ato jurídico perfeito e acabado, não podendo, pois, ter sua natureza desconsiderada, como fez, ‘data vênia’, a decisão recorrida, que acabou contrariando o artigo 5º, inciso XXXVI, da Constituição Federal, que dispõe: (...)” (fls. 320, 324-325).
+Apreciada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Recorrente.
+O Desembargador Relator observou que:
+“Embora a antiga limitação constitucional dos juros (§ 3º do art. 192 da CF) a 12% ao ano nunca tenha vigorado e se aplique, no caso das instituições financeiras, a Súmula n. 596 do C. Supremo Tribunal Federal, tal não significa que os juros possam ser cobrados arbitrariamente.
+No caso, todavia, não se apresentou qualquer instrumento que demonstrasse a existência de um contrato no qual pactuadas as taxas de juros; ao contrário, há apenas extratos de conta corrente que demonstram a cobrança de juros, sem qualquer cláusula a regulá-la.
+(...)
+Dessa maneira, na falta de instrumento em que conste a vontade das partes no contrato que deu origem ao débito, não há como se sustentar a cobrança de juros em patamares superiores àqueles previstos no art. 406 do Código Civil” (fls. 261-262).
+Concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (art. 406 do Código Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Taxa de juros. Limitação. Art. 192, § 3º, da CF/88. Aplicação da súmula 648. Agravo regimental não provido. A norma do § 3º do art. 192 da Constituição Federal, revogada pela EC 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar. 2. RECURSO. Extraordinário. Inadmissibilidade. Taxa de juros. Limitação. Decreto n. 22.626/33. Lei de Usura. Questão infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 574.599-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 13.10.2006 – grifei).
+4. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011 – grifei).
+Nada há a prover quanto às alegações do Recorrente.
+5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
