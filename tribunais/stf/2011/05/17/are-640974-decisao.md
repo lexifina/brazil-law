@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“APELAÇÃO CÍVEL – DIREITO TRIBUTÁRIO – IMUNIDADE TRIBUTÁRIA DOS TEMPLOS DE QUALQUER CULTO – ART. 150, INC. VI, 'B' E § 4º DA CF – REQUISITOS – UTILIZAÇÃO DO IMÓVEL, OU DE EVENTUAIS PATRIMÔNIOS, RENDAS OU SERVIÇOS DELE ADVINDOS, PARA OS FINS ESSENCIAIS DA ENTIDADE – SENTENÇA MANTIDA – RECURSO CONHECIDO E IMPROVIDO – DECISÃO UNÂNIME.
+Nos termos do disposto no art. 150, § 4º, da Constituição da República, a amplitude da IMUNIDADE TRIBUTÁRIA concedida aos “templos de qualquer culto” (art. 150, inc. VI, 'b', também da CF) não incide apenas sobre o local onde efetivamente ocorre a celebração do culto religioso, devendo também abranger aqueles imóveis utilizados para a realização dos fins institucionais da entidade, ou que tiverem revertidos eventuais patrimônios, rendas ou serviços dele advindos, ainda que indiretamente, na concretização das suas finalidades institucionais.” (fl. 107)
+No recurso extraordinário, alega-se violação ao artigo 150, VI, “b”, da Constituição Federal. Em suas razões aduz que “os imóveis pertencentes ao patrimônio de determinada igreja que sejam objeto de atividade econômica, porém fora do âmbito dos cultos, não poderiam gozar da mesma condição jurídica de imune, como é o cado dos templos e áreas destinadas às atividade religiosas.” (fl. 134)
+Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+Na espécie, o acórdão recorrido decidiu que:
+“(...) registra-se que a parte Apelada instituição religiosa, sem fins lucrativos, conforme documento de f. 26 e ss., assinado pelo Arcebispo de Aracaju, Dom Luciano José Cabral Duarte, onde também restou declarado, para os devidos fins, que sua renda é toda revertida para a manutenção de seus objetivos institucionais, bem como que não há remuneração de seus dirigentes, ou ainda a distribuição de qualquer parcela de seu patrimônio ou de suas rendas a título de lucros ou participação no seu resultado.
+Não se olvide ainda, que os documentos acostados às fls. 29 e ss., indicam que todas as receitas da apelada é vertida para as suas atividades essenciais, não havendo portanto, distribuição de rendimentos e vantagens decorrente do superávits de suas receitas.” (fl. 109, verso)
+Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1o do RISTF, e 557 do CPC).
+Publique-se. Int..
+Brasília, 17 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
