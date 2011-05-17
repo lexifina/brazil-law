@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“AÇÃO RESCISÓRIA – SENTENÇA PROFERIDA EM SEDE DE EMBARGOS À EXECUÇÃO, DETERMINANDO A REDUÇÃO, PELA METADE, DO QUANTUM INDENIZATÓRIO ESTABELECIDO PELA SENTENÇA EXEQUENDA, JÁ TRANSITADA EM JULGADO – PRELIMINARES INSUBSISTENTES – FLAGRANTE OFENSA À COISA JULGADA MATERIAL – AÇÃO RESCISÓRIA JULGADA PROCEDENTE. Consiste em ofensa à coisa julgada, passível de correção em sede de ação rescisória, a decisão proferida em embargos à execução que, a pretexto de corrigir inexatidão material, acaba pro modificar radicalmente o comando da sentença exequenda.” (fl. 691)
+No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos XXXVI e LV, da Constituição Federal.
+Verifico que o Tribunal de origem examinou a controvérsia à luz da legislação processual (Código de Processo Civil). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, 2ª Turma, DJe 24.2.2011, e do RE-ED 609.215, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 22.2.2011, cuja ementa dispõe:
+“EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. PROCESSO CIVIL. CABIMENTO DE AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. I – É de natureza infraconstitucional o debate acerca dos pressupostos de admissibilidade de ação rescisória. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta II – Ausência de impugnação dos fundamentos da decisão agravada. Incidência da Súmula 283 do STF. III - Agravo regimental desprovido.”
+Ademais, esta Corte consignou entendimento de que controvérsia referente aos limites da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa. Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009 e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010
+Por último, é firme a jurisprudência desta Corte que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
