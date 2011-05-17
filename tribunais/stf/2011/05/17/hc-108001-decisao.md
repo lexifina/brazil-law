@@ -1,0 +1,32 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. INDEFERIMENTO DA INICIAL DE HABEAS CORPUS NO SUPERIOR TRIBUNAL DE JUSTIÇA POR DEFICIÊNCIA DE FORMA. IMPETRAÇÃO NO SUPREMO TRIBUNAL. SUPRESSÃO DE INSTÂNCIA. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Habeas corpus impetrado por Alexander Ponciano da Silva, em causa própria, contra decisão do Ministro Haroldo Rodrigues, do Superior Tribunal de Justiça, que indeferiu a inicial do Habeas Corpus nº 198.819.
+2. Alega o Impetrante, em petição manuscrita, que foi condenado a setenta e um anos e oito meses de reclusão, tendo cumprido, em regime integralmente fechado, treze anos e seis meses; que “deveria estar no regime semiaberto desde o dia 27/07/2009”, mas, “no dia 30/11/2009, o MM. Juiz da VEC de Presidente Prudente/SP indeferiu o 'semiaberto'”; que a “Secretaria Penitenciária do Estado de São Paulo, dentro das normas administrativas, exige o período de seis meses de paralisação dos benefícios dos presos que cometem faltas disciplinares”, sendo que “o MM. Juiz da VEC não observou o lapso de tempo entre a falta, 16/08/08, e o benefício, 30/11/09”; que interpôs agravo no Tribunal de Justiça de São Paulo, o qual foi indeferido “pelos mesmos fundamentos”; que impetrou habeas corpus no Superior Tribunal de Justiça, tendo o Ministro Haroldo Rodrigues indeferido o pedido, porque considerou “bastante confusa” a petição, impedindo que fosse visualizado “o constrangimento que sofre o impetrante/paciente”; que ao contrário do que anotou o Ministro, a petição “está bem expressiva” e permite uma perfeita compreensão dos fatos, especialmente em razão de não ser “bacharel em direito, mas sim um homem desfavorecido, que tem 36 anos de idade, 3 filhos pequenos e vem cumprindo uma pena de 13 anos e seis meses em regime fechado”; que caracteriza constrangimento ilegal “estar preso de forma, maneira e condições injustas (mais tempo que a lei impôs e determina)”; e que os princípios da legalidade, da anterioridade, da humanidade, da pessoalidade, da individualização, da proporcionalidade, da igualdade e da ressocialização respaldam o seu direito à obtenção da progressão de regime.
+3. O Impetrante limitou-se a pedir o “conhecimento e deferimento deste writ”.
+Examinada a matéria em seus aspectos essenciais, DECIDO.
+4. A espécie não comporta ato processual válido a ser adotado pelo Supremo Tribunal.
+A competência do Supremo Tribunal para julgar habeas corpus é determinada constitucionalmente em razão do paciente ou da autoridade coatora (art. 102, inciso I, alínea i, da Constituição da República). Nesse rol não se inclui a atribuição para processar e julgar, originariamente, ação de habeas corpus na qual figure como autoridade coatora Juiz de Direito ou Tribunal de Justiça.
+No caso, embora tenha sido apontada como autoridade coatora o Ministro Haroldo Rodrigues, da Sexta Turma do Superior Tribunal de Justiça, ao que se depreende da impetração, o indeferimento à progressão de regime ocorreu, num primeiro momento, pelo Juiz de Direito e, posteriormente, no âmbito de agravo de instrumento, pelo Tribunal de Justiça de São Paulo.
+Não houve apreciação do mérito da impetração no Superior Tribunal de Justiça e, por conseguinte, não se validou o indeferimento da progressão de regime.
+A decisão monocrática do Ministro Haroldo Rodrigues limitou-se a identificar falhas de natureza técnica que impediam identificar o constrangimento ilegal a que estava sendo submetido o Paciente, verbis:
+“A petição inicial, elaborada de forma bastante confusa, pelo próprio impetrante/paciente, não tem condições de ser processada nesta instância, porquanto não permite visualizar o constrangimento que o paciente alega estar sofrendo.
+Assim, indefiro liminarmente o pedido, a teor do disposto no artigo 210 do Regimento Interno desta Corte.
+Dê-se ciência ao impetrante.
+Publique-se.”
+Essa constatação inviabiliza o exame do tema pelo Supremo Tribunal, porque representa supressão de instância.
+No caso, o pronunciamento do Supremo Tribunal somente poderia ocorrer se houvesse a configuração de uma situação excepcional, consistente em flagrante transgressão às normas vigentes ou mesmo na sujeição do Paciente a manifesto constrangimento ilegal, o que não ocorre.
+Deve ser ressaltado que a decisão monocrática do Ministro Haroldo Rodrigues, que está formalmente motivada e não apresenta elementos de teratologia, é a única peça que instruiu a inicial, prejudicando uma análise mais detalhada sobre os fatos e sobre eventual ilegalidade.
+Na via tímida do habeas corpus, é imperiosa a apresentação de todos os elementos que demonstram as questões postas em análise, por inexistir, na espécie, dilação probatória.
+Nesse sentido, a jurisprudência deste Supremo Tribunal, verbis:
+“DIREITO CONSTITUCIONAL E PROCESSUAL PENAL. ' HABEAS CORPUS'. NULIDADES. DEFESAS CONFLITANTES. SERVÍCIAS SOFRIDAS PELO RÉU: FALTA DE EXAME DE CORPO DE DELITO. OMISSÕES DA SENTENÇA CONDENATÓRIA. INJUSTIÇA DESTA. NÃO ESTANDO O PEDIDO DE 'HABEAS CORPUS' INSTRUÍDO COM CÓPIAS DE PEÇAS DO PROCESSO, PELAS QUAIS SE PODERIA EVENTUALMENTE, CONSTATAR A OCORRÊNCIA DAS FALHAS ALEGADAS, NÃO SE PODE SEQUER VERIFICAR A CARACTERIZAÇÃO, OU NÃO, DO CONSTRANGIMENTO ILEGAL. 'H.C.' NÃO CONHECIDO.”
+(HC 71.254, Rel. Min. Sydney Sanches, DJ 24.2.1995).
+Nesse cenário, as circunstâncias expostas na inicial recomendam prudência na análise e na conclusão do que se contém no pleito, porque não se pode permitir, sem qualquer fundamentação, a supressão da instância. É preciso que o Impetrante/Paciente provoque, anteriormente ao Supremo Tribunal, o Superior Tribunal de Justiça.
+Assinalo que não é o caso de determinar a remessa dos autos ao Superior Tribunal de Justiça (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), porque aquela instância identificou irregularidades formais que impediam a análise da impetração.
+5. Pelo exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 38 da Lei n. 8.038/1990).
+6. Comunique-se ao Impetrante/Paciente, no endereço de remessa da carta dirigida ao Supremo Tribunal, os termos desta decisão. Determino que lhe seja também informado do direito de dispor de um Defensor Público, se não reunir condições de custear os honorários de um advogado de sua escolha, para o patrocínio dos seus interesses.
+7. Dê-se ciência desta decisão à Defensoria Pública de São Paulo, remetendo-lhe cópia da inicial.
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
