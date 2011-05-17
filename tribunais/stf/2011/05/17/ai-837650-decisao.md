@@ -1,0 +1,14 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição) de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, que afastou a responsabilidade do Estado pelo acidente que vitimou a parte ora agravante. Eis a ementa ( Fls. 102):
+“APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS, ESTÉTICOS E MATERIAIS. Acidente automobilístico. Veículo de terceiro que invade as duas pistas de rolamento da rodovia, vindo a atingir violentamente o automóvel do autor, que sai da pista e colide com uma árvore. Demanda fundada na responsabilidade objetiva da concessionária, ao fundamento de que inexiste no local do acidente a presença de muro divisório e de guard rail. Sentença improcedente. Apelo do autor. Preliminar de nulidade. Rejeição. No mérito, correta a sentença de improcedência. Fato de terceiro. Causa excludente de responsabilidade. Inexistência de alegado ato ilícito. Não pode a ré, concessionária da rodovia Via Lagos, ser penalizada pelo fato de um terceiro ter sido o único responsável pelo acidente. Lastro probatório que evidencia a conduta imprudente do condutor do veículo abalroador. Rodovia bem sinalizada e devidamente conservada, dentro dos padrões técnicos esperados. Manutenção do decisum. RECURSO CONHECIDO E DESPROVIDO.”
+No recurso extraordinário, alega-se violação dos artigos 5º, XXXV, LIV, LV; 37, § 6º; 93, IX; 175, IV, da Constituição federal. Argüi-se que o acidente ocorrera em razão “(...) da má prestação do serviço público concedido” (fls. 122).
+Não prospera o recurso.
+Observo, inicialmente, que não houve vulneração das garantias constitucionais da inafastabilidade do controle jurisdicional, do devido processo legal, do contraditório, da ampla defesa e da fundamentação das decisões, pois a parte ora agravante teve acesso a todos os meios de impugnação previstos na legislação processual e o acórdão recorrido examinou todos os argumentos e inequivocamente motivou de forma suficiente suas conclusões.
+Verifico, ainda, que o acórdão recorrido se fundou na prova pericial e testemunhal para concluir pela culpa exclusiva de terceiro.
+Afastar essas conclusões implicaria reexame da matéria fático-probatória, o que dá margem ao descabimento do recurso extraordinário (Súmula 279). Nesse sentido: AI 568.163, rel. min. Cármen Lúcia, DJ de 15.04.2008; AI 731.925, rel. min. Cármen Lúcia, DJ de 28.11.2008; RE 496.158, rel. min. Cezar Peluso, DJ de 25.09.2006.
+Ademais, se o acórdão recorrido efetivamente afastou o nexo de causalidade entre os danos experimentados pela parte ora agravante e a alegada falta do serviço público e, ainda, concluiu pela configuração de responsabilidade exclusiva de terceiro, não há que se falar em vulneração aos artigos 37, § 6º e 175, IV, da Constituição.
+Do exposto, nego seguimento ao presente recurso.
+Publique-se.
+Brasília, 17 de maio de 2011
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
