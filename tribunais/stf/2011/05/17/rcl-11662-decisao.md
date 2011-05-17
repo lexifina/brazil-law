@@ -1,0 +1,30 @@
+D ECIS Ã O:
+Vistos.
+Cuida-se de reclamação constitucional eletrônica, com pedido de liminar, ajuizada pelo M UNIC Í PIO DE C ONCEI Ç Ã O DO A LMEIDA (BA) em face do e. TRIBUNAL R EGIONAL DO T RABALHO DA 5 ª   R EGI Ã O , cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do julgado na ADI nº 3.395/DF-MC.
+Narra a inicial eletrônica que:
+a) foi interposta reclamação trabalhista com requerimento de pagamento de salários atrasados, bem como FGTS, tendo juízo singular se declarou incompetente para apreciação da matéria;
+b) em sede de recurso ordinário, o e. TRT da 5ª Região reformou a sentença para reconhecer a competência da justiça especializada para julgar a ação, a despeito de haver entre as partes vínculo jurídico de natureza estatutária, e não laborativa, o que é vedado pela orientação desta Corte, nos termos da ADI nº 3.395/DF-MC;
+c) o reclamante possui regime jurídico tutelado pelo direito público, instituído nos termos da Lei Municipal nº 303/01;
+d) deve ser deferida a liminar para suspender o trâmite perante o E. TRT da 5ª Região, ante a possibilidade de condenação do Município a pagamentos supostamente indevidos;
+e) a reclamação deve ser julgada procedente a fim de determinar a incompetência da justiça especializada para julgar a causa, respeitada a autoridade do Supremo Tribunal Federal na decisão proferida na medida cautelar na ADI nº 3.395/MG.
+É o relatório.
+A alegada violação ao entendimento desta Suprema Corte no julgamento da ADI nº 3.395/DF-MC merece conhecimento, motivo pelo qual prossigo na análise dos argumentos.
+Cumpre salientar que, em consulta ao sistema de acompanhamento processual, pelo número de origem, no sítio eletrônico do e. Tribunal Regional do Trabalho da 5ª Região, verifico ter sido ajuizada a reclamação oportunamente, fato que afasta a aplicação da Súmula nº 734.
+O reclamante fez juntar cópia integral dos autos da reclamação trabalhista ajuizada por Edilton de Oliveira Teles e outros, em cuja peça vestibular afirmam que foram contratados temporariamente para prestação de serviços e que, até a interposição da reclamação trabalhista, continuavam a prestar serviço ao Município.
+É pacífica a jurisprudência desta Suprema Corte no sentido de que não há vínculo trabalhista quando existe entre o servidor e a Administração o regime jurídico único. Cito precedentes:
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. OFENSA À DECISÃO PROFERIDA NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395/DF. CONTRATAÇÃO TEMPORÁRIA PARA O EXERCÍCIO DE FUNÇÃO PÚBLICA. REGIME JURÍDICO-ADMINISTRATIVO. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO PARA EXAMINAR EVENTUAL NULIDADE DA CONTRATAÇÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. 1. A Justiça do Trabalho não detém competência para processar e julgar causas que envolvam o Poder Público e servidores a ele vinculados, mesmo que por contrato temporário com prazo excedido, por se tratar de relação jurídico-administrativa. 2. Ainda que possa ter ocorrido desvirtuamento da contratação temporária para o exercício de função pública, não cabe à Justiça do Trabalho analisar a nulidade desse contrato. 3. Existência de precedentes desta Corte nesse sentido. 4. Agravo regimental ao qual se nega provimento” (Rcl nº 7.028/MG-AgR, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJ de 16/10/09).
+“RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. AUTORIDADE DE DECISÃO PROFERIDA PELO SUPREMO TRIBUNAL FEDERAL: ARTIGO 102, INCISO I, ALÍNEA L, DA CONSTITUIÇÃO DA REPÚBLICA. MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 3.395. CONTRATAÇÃO TEMPORÁRIA DE PROFISSIONAIS NA ÁREA DE SAÚDE: ARTIGO 37, INCISO IX, DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO DO TRABALHO CONTRA A ADMINISTRAÇÃO PÚBLICA: COMPETÊNCIA DA JUSTIÇA COMUM. CAUSA DE PEDIR RELACIONADA A UMA RELAÇÃO JURÍDICO-ADMINISTRATIVA.
+1. Incompetência da Justiça Trabalhista para o processamento e o julgamento das causas que envolvam o Poder Público e servidores que sejam vinculados a ele por relação jurídico-administrativa.
+2. O eventual desvirtuamento da designação temporária para o exercício de função pública, ou seja, da relação jurídico-administrativa estabelecida entre as partes, não pode ser apreciado pela Justiça do Trabalho. 3. Reclamação julgada procedente” (Rcl nº 4.464/GO, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJ de 21/8/09).
+No caso dos autos, há alegação de reconhecimento de vínculo trabalhista fundado em contrato de prestação de serviços.
+A natureza jurídica desse vínculo pressupõe, ao menos sob o aspecto formal, seu caráter civilístico, nos moldes do contrato típico previsto nos artigos 593-609 do Código Civil. É evidente, contudo, que no Direito do Trabalho prevalece a ideia do contrato-realidade, baseado na concepção de Mário de la Cueva e que se converteu no princípio da primazia da realidade, tão bem definido por Américo Plá Rodriguez, ao estilo desse excerto:
+“El significado que le atribuímos a este princípio es el de la primacia de los hechos sobre las formas, las formalidades ou las apariencias. Esto significa que em matéria laboral importa lo que ocorre em la práctica más que las partes hayan pactado em forma más o menos solemne o expresa o lo que luzca em documentos, formulários, instrumentos de contralor.”
+(PLÁ RODRIGUEZ, Américo. Los Principios del Derecho del Trabajo. Montevideo: Biblioteca de Derecho Laboral, 1975)
+Acontece que a jurisprudência do STF definiu que a natureza jurídica do vínculo entre a Administração e o pretenso servidor há de ser caracterizada pelo juízo comum e não pelo juízo trabalhista. Em sendo assim, caberá primeiro ao juízo comum conhecer e apreciar a lide, identificando os contornos específicos que a timbram e distinguem das relações obreiras, pelo efeito da presença do ente público na demanda.
+Ante o exposto, julgo procedente a presente Reclamação, para anular o ato do E. Tribunal Regional do Trabalho, nos autos do processo respectivo, devendo o feito ser remetido à Justiça Comum estadual.
+Prejudicado o exame da liminar.
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
