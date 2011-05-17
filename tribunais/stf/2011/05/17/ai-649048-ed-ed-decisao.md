@@ -1,0 +1,31 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO –INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+1. Por meio da decisão de folha 128 a 130, acolhi os embargos de declaração para prestar esclarecimentos, consignando:
+EMBARGOS DE DECLARAÇÃO – ESCLARECIMENTOS.
+1. À folha 103, proferi decisão do seguinte teor:
+RECURSO EXTRAORDINÁRIO - CONTROVÉRSIA SOBRE CABIMENTO DE RECURSO DA COMPETÊNCIA DO TRIBUNAL SUPERIOR DO TRABALHO - IMPROPRIEDADE.
+1. Nota-se que o não-processamento do recurso extraordinário pelo Tribunal Superior do Trabalho vem desaguando, com verdadeira automaticidade, na interposição de agravo. Para tanto, articula-se com a ofensa à Carta da República, quando, na realidade, o acórdão impugnado na via excepcional faz-se alicerçado em interpretação de normas estritamente legais - as que regem os recursos trabalhistas. No caso dos autos, tem-se essa prática. Em momento algum, a Corte de origem adotou entendimento conflitante com a Constituição Federal. O que se observa é a tentativa de transformar o Supremo Tribunal Federal em órgão simplesmente revisor das decisões prolatadas na última instância do Judiciário Trabalhista. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado em exame de outro processo.
+2. Ante o quadro, conheço do agravo e o desprovejo.
+3. Publiquem.
+O empregado, nos declaratórios de folha 106 a 109, insiste no processamento do extraordinário e entende haver demonstrado ofensa direta ao artigo 5º, cabeça, da Constituição Federal. Discorre sobre a controvérsia e assevera que o Tribunal Superior do Trabalho, ao negar provimento ao agravo e obstar o trânsito do recurso de revista, manteve tratamento desigual concedido a trabalhadores em uma mesma situação. É que a garantia provisória no emprego, prevista no artigo 118 da Lei nº 8.213/91 foi-lhe recusada sob o entendimento de ser incompatível com doença psíquica. Considera a decisão atacada omissa.
+A embargada, na peça de folha 126, aponta a ausência de omissão, contradição ou obscuridade no julgado.
+2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia credenciado por meio do documento de folha 19, restou protocolada no qüinqüídio.
+3. Inicialmente, é de salientar que os embargos declaratórios são cabíveis contra qualquer pronunciamento com carga decisória, pouco importando a natureza do processo, do procedimento, ou a circunstância de se tratar de ato de colegiado ou individual. Impugnada decisão monocrática, compete ao órgão julgador apreciar os embargos declaratórios.
+4. Clara, no entanto, a intenção do embargante de obter novo exame do agravo, sobrecarregando inutilmente a máquina judiciária, no que ocupa espaço que poderia ser destinado à análise de outro processo, este sim, da competência do Supremo. O Tribunal Superior do Trabalho, ao desprover o agravo de instrumento, registrou, em síntese (folha 74):
+1. AGRAVO DE INSTRUMENTO. OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO DE 1988. Resta inaceitável que o Autor se limite tão-somente a indicar violação de dispositivo constitucional, sendo imprescindível para o reconhecimento do apelo a correta fundamentação, de maneira que a parte demonstre onde reside o vício perpetrado na decisão recorrida, para viabilizar o exame da nulidade. É insuficiente e tecnicamente inconcebível a simples afirmativa de violação do referido dispositivo constitucional.
+2. ESTABILIDADE PROVISÓRIA. LEI Nº 8.213/91. REQUISITOS. Tendo o Regional consignado que o Reclamante não obteve êxito em comprovar que a doença foi adquirida em decorrência do seu trabalho, não há que falar em violação direta e literal do artigo 118 da Lei nº 8.213/91 ou em contrariedade à Súmula nº 378 desta Corte, uma vez que inexiste o nexo causal entre o mal que lhe havia acometido e a atividade profissional por ele desenvolvida no âmbito da Empresa. De outra forma, revela-se inviável o processamento do recurso de revista quando os arestos paradigmas se apresentam inespecíficos e inservíveis para o confronto de teses.
+3. Agravo de instrumento a que se nega provimento.
+Como se vê, além de a discussão envolver tema relativo ao cabimento de recurso de competência de Corte diversa, tem-se que a aferição de eventual afronta ao princípio da isonomia não prescindiria do reexame de matéria fática, procedimento incompatível com a esfera extraordinária.
+5. Ante o exposto, ausente a omissão indicada, acolho os embargos para prestar os esclarecimentos acima.
+6. Publiquem.
+Nos embargos de folha 133 a 139, são reiterados os argumentos acerca da existência de vício no julgado. Afirma-se não ter sido analisado “o teor do processo” (folha 134). Discorre-se sobre o tema de fundo e insiste-se na negativa de prestação jurisdicional adequada.
+A parte embargada apresentou a impugnação de folhas 146 e 147, apontando a inexistência de vício no julgado.
+2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado, foi protocolada no prazo assinado em lei.
+Eis a razão, até certo ponto, de a máquina judiciária estar emperrada. Vê-se a interposição de recurso meramente protelatório, embora esse possa não ser o objetivo do embargante nos declaratórios interpostos. Apesar de se articular com a existência de omissão na decisão, simplesmente se pleiteia o rejulgamento da causa.
+Em jogo o cabimento de recurso, a via excepcional do extraordinário somente é aberta quando o acórdão impugnado esteja em conflito com a Constituição Federal, valendo notar que os pressupostos dos recursos trabalhistas estão previstos na legislação comum, na Consolidação das Leis do Trabalho. Revela-se estratégia, nesses casos, articular-se com a transgressão a preceitos da Lei Maior para, assim, contornar-se o óbice à subida do extraordinário. Está-se diante de situação concreta reveladora do exaurimento da jurisdição especializada que é a do trabalho, não procedendo o insurgimento da agravante.
+No mais, registro não equivaler a negativa de prestação jurisdicional o julgamento fundamentado da controvérsia, mas contrário aos interesses da parte.
+3. Ante o exposto, ausente qualquer vício, conheço dos embargos de declaração e os desprovejo.
+4. Publiquem.
+Brasília, 17 de maio de 2011.
+Ministro MARCO AURÉLIO
+Relator
