@@ -1,0 +1,19 @@
+D ECIS Ã O : Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão proferido por Tribunal Regional Federal que rejeitou pleito de manutenção do reajuste de 28,86% aos servidores do Poder Judiciário Federal após a edição da Lei 9.421/96 (que criou o plano de cargos e salários dos servidores do Poder Judiciário da União).
+Eis o teor do acórdão recorrido (fls. 319):
+“DIREITO ADMINISTRATIVO – SERVIDOR PÚBLICO DO PODER JUDICIÁRIO – PEDIDO DE MANUTENÇÃO DO REAJUSTE DE 28,86% DE QUE TRATA A LEI Nº 8.627/93 MESMO APÓS A ENTRADA EM VIGOR DA LEI Nº 9.621/96 QUE CRIOU O PLANO DE CARGOS E SALÁRIOS DOS SERVIDORES DO PODER JUDICIÁRIO DA UNIÃO – IMPOSSIBILIDADE JÁ QUE OS SERVIDORES FORAM CONTEMPLADOS COM O PERCENTUAL DE JANEIRO DE 1993 À DEZEMBRO DE 1996 E O PLANO DE CARGOS E SALÁRIOS CRIOU NOVO PAGRÃO REMUNERATÓRIO DIFERENTE DO ANTERIOR. SENTENÇA DE PROCEDÊNCIA REFORMADA.
+1. Rejeita-se a preliminar de impossibilidade jurídica do pedido, em face do art. 5º, XXXV da Constituição Federal de 1988.
+2. Com o advento da Lei nº 9.421/96, de 24 de dezembro de 1996 foram criadas as atuais carreiras dos servidores do Podere Judiciário fixando-se novos valores para as suas remunerações. Desta forma, a Lei em questão veio corrigir e reestruturar tabelas de vencimentos dos servidores estabelecendo em seu art. 4º, § 2º que a diferença da remuneração dos cargos resultantes da transformação sobre a dos pagos anteriormente seria implementada gradualmente em parcelas sucessivas a partir de 1º de janeiro de 1997 anualmente até 1º de janeiro de 2000.
+3. O art. 22 do Plano de Cargos e Salários – Lei nº 9.421/96, ofereceu opção aos servidores que não desejassem ser incluídos nas novas carreiras judiciárias, permanecendo dessa maneira em seus cargos que comporiam Quadro em extinção, e ao vagarem, seriam transformados nos correspondentes as novas carreiras judiciárias. Dessa maneira, se os funcionários puderam optar pelo novo plano de cargos e salários não poderiam posteriormente alegar violação a direito adquirido e muito menos diminuição nos seus vencimentos.
+4. Aos servidores que optaram pela sua inclusão no Plano de Cargos e Salários - Lei 9.421/96, o reajuste de 28,86% somente é devido até 31/12/1996, na medida em que, após esta data inaugurou-se novo padrão remuneratório.
+5. Matéria preliminar rejeitada, e no mérito, apelo da União e remessa oficial providos, restando prejudicado o apelo dos autores. Fixação de sucumbência em desfavor dos autores.”
+Em seu recurso extraordinário os ora agravantes alegam violação aos princípios da isonomia, da irredutibilidade de vencimentos, do direito adquirido, da segurança jurídica, bem como ao disposto no art. 37, X e XI, da Constituição federal.
+O recurso extraordinário não pode ser admitido, pois a verificação da alegada ofensa demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+Nesse sentido, o RE 376.838-AgR, rel. min. Gilmar Mendes, 2ª Turma, DJE de 28.03.2008, cuja ementa reproduzo:
+“Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público do Poder Judiciário. Reajuste de 28,86%. Lei no 9.421, de 1996. Ofensa reflexa à Constituição Federal. Precedentes. 4. Agravo regimental a que se nega provimento.”
+E ainda: AI 659.435-AgR, rel. min. Cármen Lúcia, DJE de 13.03.2009; RE 507.708-AgR, rel. min. Ellen Gracie, DJE de 28.11.2008; AI 659.603-AgR, rel. min. Eros Grau, DJE de 07.12.2007; AI 659.473-AgR, rel. min Elen Gracie, DJE de 26.04.2011, RE 593.274, rel. Min. Ricardo Lewandowski, DJE de 02.03.2011 e RE 574.928, rel. Min. Cezar Peluso, DJE de 23.10.09.
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 17 de maio de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
