@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (102, III, a, da Constituição) interposto de acórdão do Superior Tribunal de Justiça que decidiu pela ilegalidade da cobrança pelo fornecimento de água baseada na tarifa mínima multiplicada pelo número de unidades.
+Eis a ementa do acórdão impugnado:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO-CONFIGURADA. FORNECIMENTO DE ÁGUA E ESGOTO. CONDOMÍNIO EDILÍCIO RESIDENCIAL E COMERCIAL. COBRANÇA POR TARIFA MÍNIMA MULTIPLICADA PELO NÚMERO DE ECONOMIAS. IMPOSSIBILIDADE. PRECEDENTE DO STJ.
+1. Em exame recurso especial interposto pela Companhia Estadual de Águas e Esgotos - Cedae desafiando acórdão que entendeu ser inadmissível a cobrança por tarifa mínima multiplicada pelo número de unidades de consumo. No recurso especial, pelas alíneas 'a' e 'c', aponta-se, preliminarmente, violação dos arts. 165, 458, II e III, e 535, II, do CPC, e quanto ao mérito, ofensa aos arts. 4º da Lei 6.528/78, 11 e 12, do Decreto Federal 82.587/78, 30, III e IV, da Lei 11.445/07, pugnando-se pelo reconhecimento de que é legal a cobrança por consumo mínimo multiplicado pelo número de economias, por se tratar de consumidores residenciais.
+2. Todos os pontos necessários ao deslinde da controvérsia foram analisados, sendo despicienda a apreciação exaustiva de todos os argumentos levantados pela parte, bastando que se enfrente a questão principal da lide, o que ocorreu na hipótese dos autos, uma vez que a matéria atinente à cobrança de tarifa mínima no fornecimento de água foi explicitamente enfrentada, porém, com resultado oposto ao almejado pela recorrente, o que não conduz à hipótese de carência de fundamentação. Violação dos arts. 165, 458, II e III, e 535, II, do CPC, que se afasta.
+3. Quando do julgamento do REsp 655.130/RJ, de relatoria da Ministra Denise Arruda, DJ de 28/05/2007, a Primeira Turma, por unanimidade, expressou entendimento de que, quando o consumo de água de condomínio edifício comercial ou residencial for medido através de um único aparelho medidor, a fatura deve levar em conta o volume real aferido, sendo descabida a cobrança de tarifa mínima multiplicada pelo número de economias.
+4. Recurso especial não-provido.” (Fls. 944)
+Nas razões de recurso extraordinário, a ora agravante alega violação ao disposto nos arts. 5º, XXXVI; 37; e 175, parágrafo único, III, da Constituição Federal.
+A análise das supostas violações demanda o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 611.031-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 30.11.2007).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 18 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
