@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que inadmitiu recurso extraordinário interposto contra acórdão ementado nos seguintes termos (fl. 18):
+“APELAÇÃO CRIMINAL. ESTATUTO DO DESARMAMENTO. ART. 14 DA LEI Nº 10.826/03. MUNIÇÃO DESACOMPANHADA DE ARMA. ATIPICIDADE DA CONDUTA.
+A função atribuída ao Poder Judiciário no Estado Democrático de Direito exige do magistrado a conjugação dos aspectos normativista e realista do Direito. Vale dizer, a lei (penal) não é um fim em si, mas um instrumento de pacificação social, que deve ser interpretado.
+O objetivo da norma contida no dispositivo do art. 14, da Lei nº 10.836/03 é tutelar a segurança coletiva, resguardando-se, de forma secundária, bens individuais relevantes como a vida, a incolumidade física e a saúde. Assim, a análise do dispositivo não pode estar dissociada da realidade e a conduta do agente , mesmo que classificada dogmaticamente como de perigo de abstrato, deve se revestir de desvalorável resultado jurídico.
+Trazer munição desacompanhada de arma de fogo é conduta que não merece a repressão penal, dada a sua incapacidade de ameaça à segurança coletiva, ou aos bens individuais secundariamente protegidos pela norma.
+À UNANIMIDADE, DERAM PROVIMENTO AO APELO DEFENSIVO, PARA ABSOLVER F.B.R. DA IMPUTAÇÃO DO DELITO DO ART. 14 DA LEI Nº 10.836/03, COM BASE NO ARTIGO 386, III, DO CPP.” (fl. 18).
+Contra mencionado acórdão foram opostos embargos declaratórios, com intuito de que o afastamento da norma fosse feito na forma do art. 97 da Constituição Federal.
+Referidos embargos foram rejeitados, ao fundamento de inexistir omissão a ser sanada, mas mera tentativa de rediscutir questões já examinadas e decididas.
+No recurso extraordinário, sustenta-se que o Tribunal a quo violou o princípio da reserva de plenário, estampado no artigo 97 da Constituição Federal, ao declarar, por via oblíqua, a inconstitucionalidade do art. 14, da Lei 10.826/2003.
+A decisão agravada inadmitiu o recurso extraordinário ao argumento de que a violação à Constituição deu-se de forma reflexa.
+É o relatório.
+Verifica-se que a necessidade de se observar o princípio da reserva de plenário foi questionada à saciedade, razão pela qual dou provimento ao agravo de instrumento para apreciar o recurso extraordinário.
+Da análise dos autos se extrai que a Segunda Câmara Criminal – Regime de Exceção do Tribunal de Justiça do Estado do Rio Grande do Sul reconheceu, por via transversa, a inconstitucionalidade de norma que fixa como crime o porte de munição, conforme o seguinte trecho do acórdão a seguir transcrito:
+“Ora, o porte de munição sem arma, mesmo falando-se em crime de mera conduta e de perigo, é fato despido de lesividade, sequer restrita à esfera normativa, uma vez que não fere o bem jurídico protegido pela norma. Trazer munição desacompanhada de arma de fogo é conduta que não merece a repressão penal, dada a sua incapacidade de ameaça à segurança coletiva, ou aos bens individuais secundariamente protegidos pela norma, tais como a vida, a incolumidade fisíca e a saúde.” (fl. 23).
+Nesse contexto, segundo pacífica jurisprudência desta Suprema Corte, viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência, no todo ou em parte, o que culminou, inclusive na edição da Súmula Vinculante 10.
+Registro, ainda, que, em situação análoga à dos autos, no RE-AgR 575.895, Rel. Min. Ellen Gracie, DJe 5.4.2011, a Segunda Turma deste Supremo Tribunal Federal proferiu julgamento ementado nos seguintes termos:
+“ PROCESSUAL CIVIL. CONSTITUCIONAL. ENSINO SUPERIOR. SUPLETIVO. IDADE MÍNIMA NÃO ALCANÇADA. SÚMULA STF 10. ART. 97, CF: INAPLICABILIDADE. 1. Para a caracterização de ofensa ao art. 97 da Constituição, que estabelece a reserva de plenário (full bench), é necessário que a norma aplicável à espécie seja efetivamente afastada por alegada incompatibilidade com a Constituição Federal. 2. Não incidindo a norma no caso e não tendo sido ela discutida, não se caracteriza ofensa à Súmula Vinculante 10, do Supremo Tribunal Federal 3. O embasamento da decisão em princípios constitucionais não resulta, necessariamente, em juízo de inconstitucionalidade. 4. Agravo regimental a que se nega provimento”.
+Ante o exposto, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e determinar que o tribunal de origem profira outro, observando o disposto no artigo 97 da Constituição Federal (arts. 21, §2º, do RISTF e 557, § 1º, do CPC).
+Publique-se.
+Brasília, 18 de maio de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
