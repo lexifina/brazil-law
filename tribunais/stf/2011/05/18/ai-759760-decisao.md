@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que, em embargos de execução, considerou válida a penhora feita sobre bem de propriedade do ora agravante.
+ No RE, sustenta-se ofensa aos princípios da proporcionalidade, razoabilidade e da menor onerosidade.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o recurso extraordinário não indicou precisamente os dispositivos constitucionais que teriam sido violados, tampouco demonstrou, com a objetividade necessária, de que forma tal violação teria ocorrido. Inviável, portanto, o processamento do recurso extraordinário, dada a incidência, na espécie, do óbice da Súmula STF 284. Nesse sentido: AI 275.275/PR, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 24.8.2001; RE 291.568/MG, rel. Min. Cézar Peluso, DJe 13.8.2009; e AI 787.085/CE, rel. Min. Ricardo Lewandowski, DJ 12.3.2010.
+ Ressalte-se, ainda, o esclarecimento do Min. Marco Aurélio ao asseverar que, “a não ser assim, ter-se-á que a simples argüição de desatendimento à Carta Federal ensejará a subida do recurso extraordinário, o que se mostra discrepante da organicidade e dinâmica do Direito.” (AI 464.106/RS, DJ 04.6.2004).
+3.  Ademais, as questões referentes à responsabilidade objetiva e à existência de culpa exclusiva da vítima não foram discutidas pelo acórdão recorrido, nem suscitados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, tampouco foram suscitadas nas razões do recurso de apelação. Incidem, na espécie, as Súmulas STF 282 e 356.
+4.  Ainda que superados estes óbices, esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais e materiais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal. A respeito, cito o seguintes precedentes: RE 556.349/RS, de minha relatoria, DJe 31.3.2011; AI 604.526-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, DJ 01.2.2008; e AI 602.400-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, DJ 11.5.2007, este último assim ementado:
+ “EMENTA: Agravo regimental em agravo de instrumento. 2. Consumidor. Indenização por danos morais. 3. Controvérsia decidida no âmbito infraconstitucional. Ofensa reflexa. Precedentes. 4. Agravo regimental a que se nega provimento”.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 18 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
