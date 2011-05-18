@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que condenou a ora agravante a pagar indenização por danos morais e materiais.
+ No RE, a parte agravante alega ofensa aos artigos 37, § 6º, da Constituição Federal.
+2.  O recurso não merece prosperar. Inicialmente, ressalto que esta Corte reiteradamente tem assentado que os elementos que fazem incidir a responsabilidade objetiva do Estado são: a) existência do dano; b) existência de ação ou omissão administrativa; c) ocorrência do nexo de causalidade entre a ação ou omissão administrativa e o dano observado (RE 130.764/PR, 1ª Turma, rel. Min. Moreira Alves, DJ 07.8.1992; RE 109.615/RJ, 1ª Turma, rel. Min. Celso de Mello, DJ 02.8.1996; e RE 178.806/RJ, 2ª Turma, rel. Min. Carlos Velloso, DJ 30.6.1995).
+3.  No caso em tela, o Tribunal a quo aplicou entendimento perfilhado nesta Corte segundo o qual, nos termos do art. 37, § 6º, da Carta Magna, uma vez estabelecido o nexo de causalidade entre a conduta ou omissão de agente do poder público e o prejuízo sofrido pela parte, as pessoas jurídicas de direito público ou de direito privado prestadoras de serviço público respondem objetivamente pelos atos.
+4.  Além disso, rever a decisão recorrida, para concluir que não houve responsabilidade da Administração pelos atos de seus agentes e assim afastar o dever de indenizar a autora, implicaria o reexame de fatos e de provas, o que é vedado em sede extraordinária (Súmula STF 279). Vejam-se o RE 346.978/CE, rel. Min. Ilmar Galvão, 1ª Turma, DJ 07.3.2003; o RE 363.999-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, DJ 25.4.2003; o RE 544.633-AgR/MG, rel. Min. Cezar Peluso, 2ª Turma, DJe 06.6.2008; o AI 635.632-AgR/MG, rel. Min. Cármen Lúcia, 1ª Turma, DJe 20.6.2008; e o RE 607.856/RJ, de minha relatoria, DJe 09.5.2011.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 18 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
