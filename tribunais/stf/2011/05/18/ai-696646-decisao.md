@@ -1,0 +1,9 @@
+LibreOffice
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao apreciar                                        o AI 715.423-QO/RS, Rel. Min. ELLEN GRACIE, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos deduzidos contra acórdãos publicados antes de 03 de maio de 2007 e que veiculem tema em relação ao qual já foi reconhecida a existência de repercussão geral.
+Esta Suprema Corte, em sessões realizadas por meio eletrônico, apreciando o RE 590.751-RG/SP, Rel. Min. RICARDO LEWANDOWSKI, e o RE 605.481-RG/SP, Rel. Min. ELLEN GRACIE, reconheceu existente a repercussão geral das questões constitucionais neles suscitadas, e que coincidem, em todos os seus aspectos, com as mesmas controvérsias jurídicas ora versadas na presente causa.
+Os temas objetos dos recursos extraordinários representativos de mencionadas controvérsias jurídicas, passíveis de reprodução em múltiplos feitos, referem-se, respectivamente, de um lado, à “Incidência de juros moratórios e compensatórios durante o período de parcelamento previsto no art. 78 do ADCT” (Tema nº 132 – www.stf.jus.br – Jurisprudência – Repercussão Geral) e, de outro, à “Citação da Fazenda Pública para expedição de precatório complementar” (Tema nº 266 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+Sendo assim, e pelas razões expostas, afasto o sobrestamento desta causa, dou provimento ao presente agravo de instrumento, para admitir o recurso extraordinário a que ele se refere, e, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, determino a devolução dos presentes autos ao Tribunal de origem, para que, neste, seja observado o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+Publique-se.
+Brasília, 18 de maio de 2011.
+Ministro CELSO DE MELLO
+Relator
