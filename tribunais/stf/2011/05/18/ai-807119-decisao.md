@@ -1,0 +1,16 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra inadmissibilidade de recurso extraordinário que, firmado na alínea “a” do permissivo constitucional, impugna acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+“O sistema de creditamento do ICMS, informado pelo princípio da não cumulatividade, consiste no encontro de contas de crédito e débito do referido imposto alusivas ao mesmo contribuinte, sendo vedada a compensação de débitos do substituto pelo substituído tributário, salvo a existência de autorização administrativa ou legal, nos termos do artigo 170 do Código Tributário Nacional” (fl. 94).
+No apelo extremo, alega-se violação dos artigos 5º, incisos XXXV, LIV e LV; e 155, §2º, inciso I, da Constituição Federal. Dessa forma, em suma, aduz-se:
+“Assim, estando o produto comercializado pela Recorrente (gás liquefeito de petróleo) subjugado ao Regime de Substituição Tributária, só lhe é permitido o abatimento do imposto da própria operação do GLP devido pelo Remetente (Petrobrás), não permitindo à subsitituída (Recorrente) a utilização dos demais créditos, decorrentes de sua atividade negocial, legitimamente reconhecidos pela legislação e pelo acórdão guerreado, para pagar o ICMS a ser retido pelo fabricante (Petrobrás), estar-se-á diante de afronta ao princípio da não-cumulatividade do ICMS” (sic – fl. 134).
+Decido.
+Não assiste razão ao agravante.
+Isso porque a pretensão deduzida no subjacente recurso extraordinário contraria jurisprudência dominante deste Supremo Tribunal Federal firmada a propósito da questão nele suscitada.
+Com efeito, da proposição constitucional que versa sobre a não cumulatividade do ICMS não se extrai norma que autorize a apropriação – como créditos a serem compensados – dos valores relativos ao ICMS contido no custo dos serviços e produtos utilizados na atividade de quem, à margem do processo produtivo da mercadoria, tão somente concorre com a circulação desta, comportando-se, na verdade, como consumidor final daqueles serviços e produtos.
+Nesse sentido, entre outros, confiram-se os seguintes precedentes: RE-AgR 503.877, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 6.8.2010; RE-AgR 254.893, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 30.4.2010; bem como, mutatis matandis, RE-AgR 325.623, Rel. Min. Ellen Gracie, Segunda Turma, DJ 712.2006, de cuja ementa se extrai:
+“(...) 2. O princípio da não-cumulatividade do ICMS consiste em impedir que, nas diversas fases da circulação econômica de uma mercadoria, o valor do imposto seja maior que o percentual correspondente à sua alíquota prevista na legislação. O contribuinte deve compensar o tributo pago na entrada da mercadoria com o valor devido por ocasião da saída, incidindo a tributação somente sobre valor adicional ao preço. 3. Na hipótese dos autos, a saída da produção dos agravantes não é tributada pelo ICMS, pois sua incidência é diferida para a próxima etapa do ciclo econômico. Se nada é recolhido na venda da mercadoria, não há que se falar em efeito cumulativo (...)”.
+Ante o exposto, nego provimento ao agravo de instrumento.
+Publique-se.
+Brasília, 18 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
