@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa tem o seguinte teor (fls. 231):
+“SERVIDOR PÚBLICO FALECIDO - PENSÃO PREVIDENCIÁRIA - REVISÃO IMEDIATA DO BENEFÍCIO - ARTIGO 40, § 7º, DA CONSTITUIÇÃO FEDERAL - REDAÇÃO DA EC Nº 20/98 - DIREITO ASSEGURADO - SENTENÇA REFORMADA. A garantia insculpida no art. 40, § 7º, da Constituição Federal, com a redação dada pela Emenda Constitucional nº 20/98, é de eficácia imediata, conferindo ao pensionista o direito à revisão do benefício por morte do ex-servidor, independente de lei específica que estabeleça fonte de custeio, para que o pensionamento corresponda ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento. Rejeitada a preliminar, dá-se provimento ao recurso.”
+No recurso extraordinário, alega-se violação do art. 40, § § 7º e 8º, da Constituição. Sustenta o recorrente ser de natureza assistencial o benefício, de tal sorte não ser possível aplicar, a ele, a regra da integralidade; acrescenta, ainda, que a autora recebe outro benefício previdenciário, pago pelo Instituto de Previdência do Estado de Minas Gerais – IPSEMG.
+Verifico que o ponto controvertido no extraordinário cinge-se à natureza do benefício percebido. Assim, o tema debatido nos autos está adstrito à interpretação de direito local, principalmente das Leis estaduais 11.406/94 e 13.457/2000, o que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280. Nesse sentido: AI 533.409-AgR (rel. min. Carlos Britto, DJ de 17.11.2006); AI 603.030-AgR (rel. min. Sepúlveda Pertence, DJ de 13.04.2007) e RE 547.277-AgR (rel. min. Eros Grau, DJ de 12.09.2008).
+Ademais, transcrevo do acórdão recorrido (fls. 236):
+“Saliente-se ainda que o fato de a recorrente já receber benefício de pensão por parte do Ipsemg, a meu aviso, não tem o condão de afastar o direito nesta via perquirido.
+Isto porque, como dito alhures, houve a contribuição do servidor falecido para ambos os órgãos, quais sejam, CBGC e Ipsemg, como segurado, de maneira que não há falar em enriquecimento ilícito ou 'bis in idem' se, para ambos os benefícios, houve a correspondente fonte de custeio.
+(...)
+Neste sentido, tenho que a interpretação em sentido diverso, ao se entender que, por perceber pensão por morte pelo Ipsemg, o benefício auferido pelo Estado passaria a ter caráter complementar, além de ofender o princípio da isonomia, já que para alguns pensionistas ele seria assistencial, e para outros meramente previdenciário, também acaba por restringir os comandos da Carta Magna.”
+Tais argumentos não foram impugnados pelo recurso extraordinário, o que atrai para a espécie e Súmula 283 desta Corte.
+Do exposto, nego seguimento ao recurso.
+Brasília, 18 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
