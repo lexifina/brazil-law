@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 106):
+“DIREITO ADMINISTRATIVO E CONSTITUCIONAL – SERVIDOR PÚBLICO MUNICIPAL – AÇÃO ORDINÁRIA – CARGO DE CHEFIA – SALÁRIO-BASE – QÜINQÜENIOS E GRATIFICAÇÕES – INCIDÊNCIA – LEGALIDADE – Por não ser equiparado a Secretário Municipal, nada consta que o ocupante de cargo de Chefia, optando por salário-base do cargo em comissão, receba qüinqüênios e gratificações já lhe outorgadas, na esfera administrativa, por ser tal direito garantido por Lei Orgânica do Município, hierarquicamente superior à lei complementar municipal que prevê para isso renúncia, pena de violação aos princípios da legalidade e irredutibilidade de vencimentos, assegurados pela vigente Carta Magna – Direito – Inteligência da CF/1988, arts. 5º, II e 37, LV (Emenda Constitucional n. 19/1998), Lei Santista n. 4.623, de 12.7.1984, artigos 110, V, VI, VII e VIII, 133, I e II, 138, 145, 154, I a VII, e 160, e Lei Orgânica do Município de Santos, artigos 73, §§ 4º, 5º, 6º, 9º e 10, e 74, § 2º – Decisão cassada em parte – Recurso voluntário em parcialmente provido, não conhecido o reexame necessário.”
+2. Pois bem, a parte recorrente alega ofensa aos arts. 1º, 2º, 18 e 30; à alínea “c” do inciso VII do art. 34; e ao art. 169, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. De saída, anoto que as questões afetas à verificação da ocorrência de prescrição se situam no campo infraconstitucional. Pelo que eventual afronta ao Magno Texto apenas ocorreria de modo reflexo ou indireto.
+4. Por outra volta, ressalto que entendimento diverso do adotado pela instância judicante de origem demandaria a análise da legislação local pertinente, providência vedada neste momento processual, conforme a Súmula 280/STF.
+5. Quanto à suposta afronta ao art. 2º da Constituição Federal, pontuo que é firme nesta nossa Casa de Justiça o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo repeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 18 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
