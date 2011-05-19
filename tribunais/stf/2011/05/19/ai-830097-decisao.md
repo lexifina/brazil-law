@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual considerou legais as taxas de juros pactuadas em contrato de financiamento bancário.
+ No RE, sustenta-se ofensa aos artigos 5º, II, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o dispositivo ao qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que a questão referente à revisão de contratos bancários e limitação de juros de mora necessita da análise de fatos e provas, cláusulas contratuais (Súmula STF 279 e 454) e da legislação infraconstitucional. Nesse sentido: RE 561.307-AgR/MT, rel. Min. Cármen Lúcia, 1ª Turma, DJe 01.7.2009; AI 719.594-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 14.5.2010; e AI 781.654/RS, de minha relatoria, DJe 09.6.2010.
+4.  Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+5.  Por fim, ressalte-se que a decisão agravada fundamentou-se na falta de prequestionamento da questão constitucional suscitada para negar seguimento ao recurso extraordinário (fls. 10-11); porém, o agravo de instrumento não se ocupou de rebater tal argumento. Assim, por não ter infirmado os argumentos da decisão agravada, incide, na espécie, a Súmula STF 283.
+ Veja-se, a respeito, o AI 768.814/DF, rel. Min. Cezar Peluso, 2ª Turma, unânime, DJe 27.11.2009, cujo acórdão está assim ementado:
+“RECURSO. Agravo de instrumento. Inadmissibilidade. Impugnação dos fundamentos da decisão agravada. Ausência. Negativa de seguimento. É ônus do agravante de impugnar os fundamentos da decisão agravada para demonstrar a admissibilidade do recurso.”
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
