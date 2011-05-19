@@ -1,0 +1,15 @@
+LibreOffice
+DECISÃO: A parte ora recorrente, ao deduzir o presente recurso extraordinário, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+Cabe registrar, inicialmente, que a parte ora recorrida, na petição de fls. 195, renuncia ao direito em que se funda a ação, no que se refere à restituição dos valores descontados a título de contribuição previdenciária destinada ao custeio da saúde, no percentual de 3,2%.
+Homologo, portanto, o pedido de renúncia manifestado a fls. 195, nos exatos termos em que deduzido, para que produza os seus regulares efeitos legais, eis que formulado por quem dispõe de legitimidade e de poderes especiais para subscrevê-lo (fls. 249). Em conseqüência, declaro extinto, nesse específico ponto, este processo, com resolução de mérito (CPC, art. 269, V).
+De outro lado, e no que concerne à suposta ilegalidade da “aplicação dos juros de mora, no percentual de 1%, a partir da citação válida” (fls. 168), verifico que o presente recurso extraordinário não se revela viável.
+Com efeito, ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 – RTJ 131/1391 – RTJ 144/300 – RTJ 153/989), incidem as súmulas 282 e 356 desta Corte (RTJ 159/977).
+A configuração jurídica do prequestionamento decorre de sua oportuna formulação em momento procedimentalmente adequado. Não basta, no entanto, só argüir, previamente, o tema de direito federal para legitimar o uso da via do recurso extraordinário. Mais do que a satisfação dessa exigência, impõe-se que a matéria constitucional questionada tenha sido efetivamente apreciada na decisão recorrida (RTJ 98/754 – RTJ 116/451).
+Cumpre ressaltar, finalmente, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria - para que se configurasse - a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando, pois, de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do presente recurso extraordinário.
+Sendo assim, pelas razões expostas, não conheço, neste ponto, do presente recurso extraordinário.
+Tratando-se de sucumbência recíproca, as custas processuais e a verba honorária serão proporcionalmente distribuídas e compensadas entre os litigantes (CPC, art. 21, “caput”).
+Ressalvo, no entanto, quanto aos encargos resultantes da sucumbência, a hipótese de ser, a parte ora recorrida, eventual beneficiária da gratuidade, caso em que lhe será aplicável a cláusula de exoneração prevista na Lei nº 1.060/50 (art. 3º), observando-se, no que couber, a norma inscrita no art. 12 desse mesmo diploma legislativo, cuja incidência foi reputada compatível com o que dispõe o art. 5º, LXXIV, da Constituição da República (RE 184.841/DF, Rel. Min. SEPÚLVEDA PERTENCE).
+Publique-se.
+Brasília, 19 de maio de 2011.
+Ministro CELSO DE MELLO
+Relator
