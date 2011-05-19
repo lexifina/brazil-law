@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+“APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. INICIAL. RÉU. INDICAÇÃO ERRÔNEA. ILEGITIMIDADE PASSIVA. INOCORRÊNCIA. SERVIDORES INATIVOS. PROVENTOS. DESCONTOS PREVIDENCIÁRIOS. RETROATIVIDADE DE LEI. ILEGALIDADE. PRELIMINAR REJEITADA. DECISÃO CONFIRMADA. RECURSOS VOLUNTÁRIO E NECESSÁRIO IMPROVIDOS. O MERO LAPSO DE DIGITAÇÃO NA INDICAÇÃO DA PARTE NÃO ACARRETA ILEGITIMIDADE DE PARTE, MORMENTE QUANDO O RÉU, EFETIVA E CORRETAMENTE CITADO, DEFENDE-SE EM TODA A SUA PLENITUDE, SEM QUALQUER PREJUÍZO. PRELIMINAR REJEITADA. LEI POSTERIOR, REVOGANDO A ISENÇÃO DE CONTRIBUIÇÃO PREVIDENCIÁRIA NÃO SE APLICA AO SERVIDOR JÁ APOSENTADO OU QUE, À ÉPOCA DA PROMULGAÇÃO DA LEI, REUNIA OS REQUISITOS NECESSÁRIOS À APOSENTAÇÃO. PRINCÍPIO DA IRRETROATIVIDADE. INTELIGÊNCIA DOS ART. 5°, XXXVI DA CF, C.C. ART. 6º, CAPUT, DA LICC E DA SÚMULA N° 359 DO STF” (fl. 42).
+No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, e XXXVI, 37, XV, 93, IX, e 149 da mesma Carta.
+O agravo não merece acolhida. Isso porque, o recorrente deixou de atacar todos os fundamentos da decisão agravada, mormente no que se refere à necessidade de análise de legislação infraconstitucional para a apreciação do recurso extraordinário. Verifico, que o agravante somente se insurge contra o argumento de que a matéria constitucional suscitada não foi prequestionada. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 287/STF. A agravante não impugnou os fundamentos que serviram de suporte à decisão agravada. Incidência da Súmula 287 desta Corte. Agravo regimental a que se nega provimento” (AI 718.237-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
