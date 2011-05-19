@@ -1,0 +1,17 @@
+D ECIS Ã O:
+Vistos.
+Estado de São Paulo interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 40, §§ 7º e 8º, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“POLICIAL MILITAR INATIVO. Adicional de insalubridade. L.C. 432/85. Reconhecimento do direito. Pagamento dos atrasados com correção monetária. ADMISSIBILIDADE. Tratamento isonômico previsto no art. 40, da CF. Recurso provido para julgar a ação procedente” (fl. 119).
+Decido.
+Anote-se, inicialmente, que o acórdão recorrido foi publicado em 27/3/07, conforme expresso na certidão de folha 124, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação merece prosperar, uma vez que o acórdão recorrido não está em sintonia com a jurisprudência desta Corte, firme no sentido de que o adicional de insalubridade, instituído pela Lei Complementar nº 432/85 do Estado de São Paulo, é devido aos militares enquanto estiverem no exercício de atividade insalubre, não sendo devida sua extensão aos inativos e pensionistas. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO, CONVERTIDO EM RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO. SERVIDOR PÚBLICO. MILITAR. ADICIONAL DE INSALUBRIDADE. LC 432/85. ARTIGO 40, § 4º, DA CB. INAPLICABILIDADE. 1. O adicional de insalubridade é deferido apenas aos militares enquanto no exercício da atividade insalubre. Extensão aos inativos que se aposentaram antes de sua instituição ou que não serviram em condições insalubres. Impossibilidade. Precedentes. 2. Agravo regimental interposto por Adamastor Carneiro e Outros a que se nega provimento. 3. Agravo regimental interposto pelo Estado de São Paulo a que se dá provimento tão-somente para explicitar ” (AI nº 493.401/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/10/06);
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. CONCESSÃO DE ADICIONAL DE INSALUBRIDADE. LEI COMPLEMENTAR ESTADUAL 432/85. ART. 40, § 8º, DA CF. EXTENSÃO. MILITARES INATIVOS. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO. I - A jurisprudência dessa Corte é pacífica no sentido de que o adicional de insalubridade instituído pela Lei Complementar Estadual 432/85, por não ser vantagem de caráter geral, não se estende aos militares inativos. II - Agravo regimental improvido.” (RE nº 391.551/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/8/10).
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 812.895/SP, Relator o Ministro Gilmar Mendes, DJe de 10/11/10; AI nº 766.706/SP, Relatora a Ministra Ellen Gracie, DJe de 7/6/10; e AI nº 773.577/SP, Relatora a Ministra Cármen Lúcia, DJe de 15/12/09.
+Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento ao recurso extraordinário para reformar o acórdão recorrido e julgar improcedente a ação. Custas e honorários advocatícios fixados em 10% sobre o valor da causa pelos autores, vencidos.
+Publique-se.
+Brasília, 19 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
