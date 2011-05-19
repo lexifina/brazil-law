@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que indeferiu pedido de rescisão de contrato de leasing.
+ No RE, sustenta-se ofensa aos artigos 5º, XXII, e 93, IX, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivo aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas, cláusulas contratuais (Súmulas STF 279 e 454) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. Nesse sentido: AI 765.978-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, DJe 25.02.2011; e RE 625.148-AgR/ES, rel. Min. Cármen Lúcia, 1ª Turma, DJe 07.4.2011.
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE VEÍCULO. RESTITUIÇÃO DOS VALORES PAGOS. ALEGADA ILEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA DECIDIDA À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR E DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+4.  Por fim, no que tange à suposta ofensa ao artigo 93, IX, da CF/88, constato que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, de minha relatoria, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074-AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+ Sobre o assunto, ressalte-se, ainda, que esta Corte tem o seguinte entendimento: “o que a Constituição exige, no inc. IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada” (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, DJe 13.8.2010.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
