@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“AGRAVO DE INSTRUMENTO – EXECUÇÃO FISCAL – AÇÃO CONSIGNATÓRIA – CONEXÃO E CONTINÊNCIA INEXISTENTES – SÚMULA 13 DO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA – MULTA POR LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA – ADEQUADA – AGRAVO DESPROVIDO.
+(...)” (fl. 20).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXIV, a, e LV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, falta o necessário prequestionamento do inciso XXXIV, a, do art. 5º da CF. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO DAS MATÉRIAS CONSTITUCIONAIS SUSCITADAS. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 1. Os temas constitucionais suscitados no apelo extremo não foram objeto de análise prévia, e conclusiva, pela Instância Judicante de origem. Pelo que incidem as Súmulas 282 e 356 desta Corte. 2. Agravo regimental desprovido” (AI 770.103-AgR/RJ, Rel Min. Ayres Britto, Primeira Turma).
+Ressalte-se, ainda, que melhor sorte não assiste a recorrente no concernente à alegação de violação ao art. 5º, LV, da CF. É que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede a utilização do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 19 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
