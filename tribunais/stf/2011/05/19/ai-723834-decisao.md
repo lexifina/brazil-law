@@ -1,0 +1,21 @@
+D ECIS Ã O:
+Vistos.
+José Silvestre de Matos interpõe agravo de instrumento contra o despacho que não admitiu recurso extraordinário assentando em contrariedade aos artigos 5º, caput, e 7º, incisos XXVIII, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Décima Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“APELAÇÃO DA AUTARQUIA JULGADA DESERTA POR AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO – OBRIGATORIEDADE POR IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 – DESERÇÃO.
+'O não recolhimento do porte de remessa e retorno previsto pela Lei 11.608/03 no ato da interposição da apelação obsta o seu processamento'.
+AÇÃO ACIDENTÁRIA – DISACUSIA – IMPROCEDÊNCIA – AUTOR EM GOZO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO – VEDAÇÃO NA CUMULAÇÃO DELA COM AUXÍLIO-ACIDENTE INTELIGÊNCIA DO ARTIGO 86 § 2º, DA LEI Nº 9.528/97 – TERMO INICIAL POSTERIOR À SUA VIGÊNCIA – NECESSIDADE DE RESPEITO À PROIBIÇÃO – CARÊNCIA DA AÇÃO.
+Apelação julgada deserta e recurso de ofício provido, com decretação da carência da ação” (fl. 139).
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+A irresignação não merece prosperar, uma vez que no tocante à controvérsia acerca da possibilidade de cumulação de aposentadoria especial com auxílio-acidente, objeto do presente feito, este Supremo Tribunal, em casos análogos, tem assentado que a questão situa-se no âmbito da legislação infraconstitucional, cuja possível má aplicação, quando muito, poderia configurar ofensa indireta ou reflexa à Constituição. Sobre o tema, anote-se:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. 1. Controvérsia decidida à luz da legislação infraconstitucional. Ofensa indireta à Constituição do Brasil. 2. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. Agravo regimental a que se nega provimento” (RE nº 499.011/PE-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 14/3/08).
+“Recurso extraordinário: descabimento: controvérsia a respeito da possibilidade de cumulação de aposentadoria especial com auxílio acidente em ação proposta antes da L. 9.528/97, dirimida à luz do princípio do tempus regit actus, cuja possível má aplicação demandaria, quando muito, o exame de legislação infraconstitucional: alegada violação ao texto constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 449.643/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 24/3/06).
+“CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA À CONSTITUIÇÃO. I. - A questão constitucional invocada no recurso - C.F., art. 5º, XXXVI - não foi apreciada e decidida no acórdão recorrido, incidindo as Súmulas 282 e 356-STF. II. - A verificação, no caso concreto, da existência, ou não, do direito adquirido situa-se no campo infraconstitucional - Lei 9.528/95 e OS INSS/DSS 600, de 02.6.1998. III. - Agravo não provido” (RE nº 389.794/RS–AgR, Segunda Turma, Relator o Ministro Carlos Veloso, DJ de 28/10/04).
+No mesmo sentido, as seguintes decisões monocráticas: AI nº 643.857/SP, de minha relatoria, DJ de 6/12/07, e AI nº 592.970/SP, Relatora a Ministra Cármen Lúcia, DJ de 23/10/07.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 19 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
