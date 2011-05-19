@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual reformou a sentença por entender que os elementos de convicção foram insuficientes para a comprovação de dano moral experimentado pelo autor.
+2.  No RE, sustenta-se ofensa aos arts. 5º, V e X, da Constituição Federal.
+3.  O presente recurso não merece prosperar. Preliminarmente, observo que os dispositivos dados como violados não foram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos nos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+4.  Quanto à questão de fundo, verifica-se que para infirmar o entendimento da Corte de origem seria necessário o reexame de fatos e de provas, vedado em sede extraordinária (Súmula STF 279), além de interpretação da matéria infraconstitucional, que, por sua vez, foi ratificada em decisão transitada em julgado, na qual o Superior Tribunal de Justiça negou provimento ao agravo de instrumento da agravante, sob o entendimento de que para alterar os fundamentos do acórdão recorrido, seria imprescindível o reexame da matéria fático-probatória dos autos (AI 829.674/RJ).
+ Nesse sentido cito o, RE 250.424-AgR/RJ, rel. Min. Ilmar Galvão, 1ª Turma, DJ 02.02.2001 e RE 567.164-ED/MG, de minha relatoria, 2ª Turma, DJe 11.09.2009, RE 472.952-AgR/ES, rel. Min. Joaquim Barbosa, 2ª Turma, DJ 09.06.2006, AI 836.286-AgR/MG, rel. Min. Cármem Lúcia, 1ª Turma, DJe 26.04.2011, RE 576.886-AgR/RS, de minha relatoria, 2ª Turma, DJe 26.02.2010, este último assim ementado:
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DANOS MORAIS. ART. 5º, IV, X, E 220 DA CONSTITUIÇÃO FEDERAL. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL E SÚMULA STF 279. 1. A análise da indenização por danos morais por responsabilidade prevista no Código Civil, no caso, reside no âmbito da legislação infraconstitucional. Alegada ofensa à Constituição Federal, se existente, seria de forma indireta, reflexa. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 5º, V e X, da Constituição Federal. 3. Agravo regimental improvido”.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 19 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
