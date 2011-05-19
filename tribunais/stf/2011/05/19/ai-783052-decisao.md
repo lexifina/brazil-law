@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que condenou a ora agravante a pagar indenização por danos morais.
+ No RE, sustenta-se ofensa ao artigo 5º, XXXIX, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o dispositivo ao qual se alegou violação não se encontra prequestionado, porque não abordado pelo acórdão recorrido nem suscitado nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Incidem, na espécie, as Súmulas STF 282 e 356.
+3.  Ademais, para o exame das violações alegadas, seria necessária a análise de fatos e provas (Súmula STF 279) e de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. Ressalto, ainda, que esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais e materiais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+ Nesse sentido: RE 556.349/RS, de minha relatoria, DJe 31.3.2011; AI 736.263-AgR/SP, rel. Min. Ayres Britto, 2ª Turma, DJe 11.5.2011; e AI 826.234-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 02.3.2011, este último assim ementado:
+ “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. 1. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSIÇÃO DE MULTA EM RAZÃO DA LITIGÂNCIA DE MÁ-FÉ. MATÉRIA DE NATUREZA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”.
+4.  Quanto às alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 19 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
