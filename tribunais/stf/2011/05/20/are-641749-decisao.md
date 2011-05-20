@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDORAS PÚBLICAS MUNICIPAIS. PROCESSO DISCIPLINAR. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS E DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+“APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. PROCESSO DISCIPLINAR. JUNTADA APENAS DAS PARTES CONVENIENTES ÀS AUTORAS. IMPOSSIBILIDADE DE ANÁLISE DO ACERTO DO MÉRITO DA DECISÃO ADMINISTRATIVA. RELATÓRIO E CONCLUSÃO DA COMISSÃO PROCESSANTE. ELABORAÇÃO DETALHADA E BEM FUNDAMENTADA. AMPLA DEFESA E CONTRADITÓRIO. OBSERVÂNCIA. NULIDADE NÃO CONFIGURADA. PENA DE SUSPENSÃO. GRATIFICAÇÃO ESPECIAL. SUPRESSÃO DOS VENCIMENTOS TÃO SOMENTE PELO PERÍODO DA SUSPENSÃO. PENA DE ADVERTÊNCIA. SUPRESSÃO INDEVIDA. RELOTAÇÃO DAS SERVIDORAS EM OUTRAS UNIDADES DE EDUCAÇÃO ESPECIAL. ZELO PELO BOM AMBIENTE DE TRABALHO E DA PRESTAÇÃO ADEQUADA DO SERVIÇO PÚBLICO. PODER DISCRICIONÁRIO DA ADMINISTRAÇÃO. SUCUMBÊNCIA. ADEQUAÇÃO. RECURSO DAS AUTORAS DESPROVIDOS. APELO DO MUNICÍPIO PROVIDO PARCIALMENTE. (...)” (fl. 558).
+2. As Recorrentes alegam que o Tribunal a quo teria contrariado os arts. 5º, inc. LIV e LV, e 37 da Constituição da República.
+Argumentam que “os princípios constitucionais referidos aqui, ajuntados ao argumento de que a punição disciplinar guarda a sua proeminente índole penal, não admitem tais desconchavos, pois que a legitimidade do poder disciplinar, num Estado de Direito Democrático, não permite que tais punições possam sustentar-se diante das vaguidades, sem a existência de motivações idôneas e insuficientemente comprovadas” (fl. 598).
+Sustentam que “as servidoras além de serem penalizadas perderam suas gratificações. (...) Nessa esteira, é de se verificar a aplicação dos princípios implícitos ao caput do artigo 37 da Constituição Federal, quais sejam, da razoabilidade e da proporcionalidade” (fl. 600).
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de que a ofensa à Constituição, se tivesse ocorrido, seria indireta e de que incidiria na espécie a Súmula 279 do Supremo Tribunal Federal (fls. 614-616).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Razão jurídica não assiste às Agravantes.
+6. O Tribunal de origem decidiu a controvérsia nos termos seguintes:
+“(...) se faz necessário destacar que tanto o relatório como a conclusão de tal comissão foi bastante detalhado e fundamentado de forma robusta, não obstante a quantidade de acusações feitas contra cada uma das servidoras. (...) há de se destacar que, de acordo com os documentos juntados aos autos, o devido processo legal, a ampla defesa e o contraditório foram respeitados na via administrativa, pois as autoras e suas testemunhas foram ouvidas (fls. 63/95), devidamente acompanhadas por advogado, e apresentaram inclusive alegações finais (fls. 96/153).
+(...)
+Não se ignora o disposto no artigo 217, § 2º, do Estatuto [dos Servidores Públicos Municipais], no sentido de que 'o funcionário suspenso perderá todas as vantagens decorrentes do exercício do cargo', porém há de se dar interpretação adequada ao dispositivo, para restringi-lo ao período de suspensão, que, no caso das duas primeiras autoras, se limitou a dez (10) dias” (fls. 565-567).
+Concluir de forma diversa das instâncias originárias demandaria o reexame do conjunto probatório dos autos, procedimento que não viabiliza o processamento do recurso extraordinário, conforme a Súmula n. 279 do Supremo Tribunal Federal.
+7. Ademais, o Tribunal a quo interpretou e aplicou a legislação local pertinente (Estatuto dos Servidores Municipais), que não pode ser validamente analisada no recurso extraordinário, nos termos da Súmula 280 deste Supremo Tribunal. A ofensa à Constituição, se tivesse ocorrido, seria indireta.
+Nesse sentido, os seguintes julgados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. APLICAÇÃO DE PENA DISCIPLINAR. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O Tribunal de origem decidiu que foram observados os princípios da ampla defesa e do contraditório no processo administrativo. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas (Súmula 279). Ofensa constitucional indireta” (AI 701.783-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009).
+E:
+“CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXONERAÇÃO. SERVIDORA PÚBLICA ESTÁVEL. PROCESSO ADMINISTRATIVO. ART. 5º, LV, DA CF. AMPLA DEFESA E CONTRADITÓRIO. SÚMULAS STF 279 E 280. 1. Para se concluir, como pretende a parte agravante, pela observância da garantia da ampla defesa e do contraditório, no processo administrativo disciplinar, que culminou com a exoneração da ora recorrida, servidora pública ocupante de cargo efetivo, seria necessário o reexame de legislação local e de fatos e provas (Súmulas STF 279 e 280), hipóteses inviáveis nesta via extraordinária. 2. Agravo regimental improvido” (AI 732.658-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 9.4.2010).
+Nada há a prover quanto às alegações das Agravantes.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
