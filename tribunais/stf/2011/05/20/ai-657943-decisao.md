@@ -1,0 +1,17 @@
+D ESPACHO:
+Vistos.
+METSO BRASIL INDUSTRIA E COMERCIO LTDA interpõe agravo de instrumento contra decisão que negou seguimento a recurso extraordinário assentado em contrariedade aos arts. 5º, XXXV, XXXVI, LIV, LV, e 93, IX, do Texto Maior.
+O Tribunal Regional Federal da 3ª Região proferiu acórdão em agravo de instrumento interposto de decisão monocrática que, em sede de execução do julgado, determinou feitura de novos cálculos pela Contadoria do Juízo, após decorrido o prazo para oposição de embargos à execução.
+Decido.
+Não merece prosperar a irresignação.
+Afasto a alegada afronta ao art. 93, IX, CF, posto que o acórdão recorrido encontra-se devidamente motivado e fundamentado, embora contrário ao interesse da ora agravante.
+Ademais, esta Corte tem entendimento pacífico que violação aos mencionados preceitos constitucionais ocorre, via de regra, como no presente caso, de maneira reflexa, sendo, dessa forma, incabível a interposição de apelo extremo. Veja-se:
+“ AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido.” (AI 812481 AgR/RJ, Primeira Turma, Rel. Min. Ricardo Lewandowski, Dje 31/01/2011.)
+“PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRAZO PRESCRICIONAL. MATÉRIA INFRACONSTITUCIONAL. COISA JULGADA. DEVIDO PROCESSO LEGAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. PRECEDENTES. 1. O tema relativo à discussão do prazo prescricional não possui índole constitucional, porque depende de prévio exame de legislação infraconstitucional. Precedentes. 2. Não é admissível fundar-se em suposta contrariedade ao disposto no inciso XXXVI do art. 5º da Constituição Federal para reabrir controvérsia acerca dos limites objetivos da coisa julgada. 3. As alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa – podem configurar, quando muito, situações de ofensa meramente reflexa ao texto constitucional, circunstância essa que impede a utilização do recurso extraordinário. 4. Decisão contrária aos interesses da parte não configura ofensa ao art. 93, IX, da Constituição Federal. 5. Inexistência de argumento capaz de infirmar a decisão impugnada, que deve ser mantida pelos seus próprios fundamentos. 6. Agravo regimental a que se nega provimento. ”(RE 555.257/PR, Segunda Turma, Rel. Min. Ellen Gracie, Dje 16/05/2011)
+Por fim, registro a incidência da Súmula 279/STF, pois para decidir de forma diversa do acórdão recorrido, mister o revolvimento de matéria de fato, o que é vedado em sede de extraordinário.
+Diante do exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
