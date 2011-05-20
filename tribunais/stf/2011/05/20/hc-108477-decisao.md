@@ -1,0 +1,29 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado por Adelson Gonçalves Siqueira em favor de Auro do Espírito Santo Feitosa, buscando a progressão de regime ao paciente.
+Aponta como autoridade coatora o Ministro Haroldo Rodrigues, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 201.650/SP, impetrado àquela Corte de Justiça.
+Sustenta o impetrante, em síntese, que “o paciente faz jus a progressão de regime por estar preenchidos os requisitos de ordem objetiva e subjetiva (...) e o bom comportamento carcerário” (fl. 3 da inicial).
+Defende, ainda, que “a gravidade abstrata do delito praticado e a longevidade da pena a cumprir, não constituem, por si só, fundamentação idônea apta a exigir a realização de exame criminológico” (fl. 5 da inicial).
+Requer, liminarmente, que o paciente seja posto no regime semi-aberto e, no mérito, pede confirmação da liminar requerida (fl. 5 da inicial).
+Examinados os autos, decido.
+Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+Embora não conste da impetração cópia da decisão questionada, é possível acessá-la através do sítio do Superior Tribunal de Justiça na internet, cujo teor transcrevo:
+“Cuida-se de habeas corpus impetrado em favor de Auro do Espírito Santo Feitosa, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, no qual se busca a progressão de regime prisional.
+A liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+No caso, o constrangimento não se mostra com a nitidez imprimida na inicial, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo.
+Ante o exposto, indefiro a liminar”.
+Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena de supressão de instância e de grave violação das regras de competência.
+Nesse sentido, por exemplo:
+“COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+Na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+Ademais, apenas para registro, ressalto que não há nenhum ato configurador de flagrante constrangimento ilegal advindo da decisão que indeferiu o pedido de progressão de regime do paciente que, de modo fundamentado, entendeu que ele não teria preenchido os requisitos subjetivos do benefício, considerando o laudo de avaliação psicológica desfavorável à sua pretensão.
+Destaco, ainda, a firme jurisprudência da Corte no sentido de que “o bom comportamento carcerário não é suficiente para a concessão do requisito da progressão, quando existente laudo pericial desfavorável ao regime menos gravoso” (HC nº102.859/SP, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1º/2/11).
+Com essas considerações, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
