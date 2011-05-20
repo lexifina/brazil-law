@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE CONTRARIEDADE À LEI ESTADUAL DE DIRETRIZES ORÇAMENTÁRIAS, À LEI ORÇAMENTÁRIA ESTADUAL E À LEI DE RESPONSABILIDADE FISCAL: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Roraima:
+“Embora a Lei 391/03 tenha sido editada em julho de 2003, não teve o condão de retirar a vigência da Lei 339/02, que estabeleceu o percentual de 5% para aquele ano, pois os servidores adquiriram o direito à revisão geral anual com base nesta legislação” (fl. 143).
+3. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 21 da Lei Complementar n. 101/2000 e os arts. 167, § 2º, e 169, § 1º, inc. I, da Constituição da República.
+Assevera que a Lei Roraimense n. 339/2002 seria a Lei de Diretrizes Orçamentárias (não a Lei Orçamentária de 2003, como afirmado pelo Tribunal de Justiça de Roraima) e que nessa última
+“não se encontra prévia dotação para atender os gastos com aumento de remuneração” (fl. 185).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 221-223).
+O Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Eventual contrariedade à Constituição da República decorrente do descumprimento da Lei de Diretrizes Orçamentárias e da Lei Orçamentária (ambas do Estado de Roraima) ou da Lei de Responsabilidade Fiscal seria indireta, o que não enseja o recurso extraordinário. Nesse sentido:
+“Agravo regimental. - As alegações de ofensa ao artigo 5º, LIV e LV, da Carta Magna são indiretas ou reflexas, não dando margem, assim, ao recurso extraordinário. - Se, para a aplicação do artigo 167, IV, combinado com o artigo 165, § 8º, é necessária, como exceção ao princípio da exclusividade de objeto da lei orçamentária anual, a autorização desta para a prestação de garantias às operações de crédito por antecipação de receita, e o acórdão recorrido nega a existência dessa autorização, para se chegar a conclusão contrária a que ele chegou será mister o exame prévio dessa lei, não servindo para isso o recurso extraordinário. Agravo a que se nega provimento” (AI 366.317-AgR, Rel. Min. Moreira Alves, Primeira Turma, DJ 14.6.2002 – grifos nossos).
+“SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido” (AI 689.921-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009 – grifos nossos).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 594.028-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009 – grifos nossos).
+“Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa à Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que e a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+“Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008).
+7. Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
