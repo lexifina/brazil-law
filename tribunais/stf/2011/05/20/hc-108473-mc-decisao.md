@@ -1,0 +1,64 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado por Vanderlei Luís Alves, em causa própria, aponta como autoridade coatora a Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que, monocraticamente, julgou prejudicado o HC nº 170.977/SP, impetrado àquela Corte.
+Sustenta o impetrante/paciente, em síntese, que ele faz jus a progressão de regime por estarem preenchidos os requisitos de ordem objetiva e subjetiva e que a decisão que determinou a realização de exame criminológico seria desprovida de fundamentação idônea.
+Requer, liminarmente, que seja restabelecida a progressão de regime deferida em seu favor em 20/11/09 e, no mérito, pede a confirmação da liminar requerida.
+Examinados os autos, decido.
+O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal, o que não se verifica na espécie.
+No caso, volta-se este habeas corpus contra ato da Ministra Maria Thereza de Assis Moura que, monocraticamente, julgou prejudicado o writ impetrado ao Superior Tribunal de Justiça em favor do impetrante/paciente.
+Transcrevo o teor daquela decisão:
+“Trata-se de habeas corpus, com pedido liminar, impetrado por VANDERLEI LUÍS ALVES, em seu próprio favor, apontando como autoridade coatora a 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo.
+Afirma o impetrante/paciente que, no dia 20.11.2009, obteve sua progressão ao regime semiaberto.
+Inconformado, o Ministério Público Estadual recorreu, solicitando a reforma da decisão para que o paciente permanecesse no regime fechado, haja vista a necessidade de realização de exame criminológico. Referido pleito foi provido pelo Tribunal de origem, razão pelo qual impetrou-se o presente writ.
+Alega o impetrante/paciente que a decisão proferida pelo Tribunal a quo 'é revestida de ilegalidade ante a desproporcionalidade entre seus fundamentos e falta de motivação' (fl.14).
+Sustenta, ainda, que 'o Juízo de execução dispensou a realização do exame criminológico, não podendo o Tribunal reformar tal decisão, tendo por fundamento somente a gravidade em abstrato do delito e a longa pena a cumprir, tendo por base que o paciente cumpre mais de um sexto da sua pena, não possui falta grave, estuda e trabalha para seu sustento de forma digna na unidade prisional, assim, é indispensável apontar as raízes concretas para sua realização' (fls. 15/16).
+Requer liminarmente, a suspensão dos efeitos do acórdão proferido pela autoridade apontada como coatora. No mérito, pugna pela mantença do apenado no regime semiaberto.
+Posterguei a análise do pleito liminar (fl. 24) e solicitei informações à autoridade apontada como coatora, as quais foram prestadas às fls. 31/58, e ao Juízo de primeiro grau, trazidas à fl. 30. Foi juntado aos autos a cópia do acórdão impugnado. Ei-lo (fls. 36/58):
+'O sentenciado, ora agravado, foi condenado à pena de 31 (trinta e um) anos de reclusão, em regime inicialmente fechado, como incurso nas sanções previstas no artigo 157, § 3o, segunda parte, c.c. o artigo 62, incisos I e II, alíneas "a" e "c", caput; artigo 180, todos do Código Penal Preso desde 06.3 2002, com data de cumprimento prevista em 18 10 2032.
+Nova data de cumprimento prevista, de acordo com o artigo 75 do Código Penal 19.10 2031 Total interrupção de pena de 31 (trinta e um) dias (fls 06)
+O digno Magistrado da Vara das Execuções Penais promoveu o sentenciado ao regime semiaberto por entendeu que:
+'A Lei n° 10.792/03 trouxe profundas mudanças na Lei de Execução Penal. Dentre essas alterações se destaca a do artigo 112, que exigia cumprimento de lapso temporal e mérito do sentenciado para concessão dos benefícios legalmente previstos.
+Esse mérito era aquilatado por meio de exames criminológicos ou pareceres das Comissões Técnicas de Classificação.
+Agora, essas avaliações foram eliminadas, bastando o cumprimento do determinado lapso temporal e o bom comportamento carcerário.' (fls 31/32)
+Em que pese o entendimento do culto Magistrado, discorda-se.
+Para reconhecimento do direito à progressão de regime prisional não basta cumprimento de 1/6 da pena, pois o artigo 112 e seu parágrafo da Lei de Execução Penal estabelece a necessidade de avaliação do mérito do condenado, a ser feita pelo Juiz da Execução (artigo 66, inciso III, alínea 'b', do mesmo Diploma Legal).
+Assim, cabe ao Magistrado verificar e comprovar a maturidade e a sinceridade de um condenado, visando constatar a otimização dos objetivos inerentes à execução penal Por isso, a legislação deixa ao prudente arbítrio do magistrado o exame das condições subjetivas do reeducando. Isto porque a progressão não se constitui num direito absoluto, mas está condicionada à segurança da vida em sociedade (RT 717/384).
+Ora, não se deve pensar na progressividade em termos puramente disciplinar, pois não é um prêmio ou um benefício com que se retribui o bom comportamento carcerário ou o arrependimento pelo crime cometido. A progressividade é uma fórmula inteligente de interação entre indivíduos condenados e, de outro lado, o meio social em que o conflito criminoso surgiu, servindo para despertar e propiciar interações e adaptações recíprocas entre ambos. Ela não é conseqüência, mas causa de reintegração social do condenado.
+O que se exige do condenado é que demonstre boa capacidade de adaptação social para retornar ao convívio em sociedade, conscientizado da responsabilidade necessária ao gozo do benefício, uma vez que a segurança da comunidade, nestes casos, tem prioridade sobre o interesse individual Por esse motivo, não basta, em casos excepcionais, apenas o bom comportamento carcerário para preencher o requisito subjetivo indispensável à progressão, sobretudo, quando se trata de condenações advindas de crimes violentos ou com grave ameaça à pessoa, em que a avaliação dos aspectos subjetivos depende de exame criminológico para aferição da capacidade de adaptação social do condenado. Ao contrário do que se afirma, a Lei n° 10 792/03 não excluiu o exame criminológico, pois a nova redação dada ao artigo 112 da Lei de Execução Penal, apenas deixou de exigi-lo, sem prejuízo à sua utilização sempre que o juiz julgar necessária.
+Nesse sentido, entendimento do Excelso Supremo Tribunal Federal:
+(...)
+Com efeito, a modificação do artigo 112 da Lei das Execuções Penais pela Lei n° 10 792/03 não proibiu a realização do exame criminológico, tornando facultativo o seu uso quando o juiz entender necessária avaliação técnica devido às peculiaridades de cada caso.
+Trata-se de medida cautelar do juiz que não constitui constrangimento
+ilegal.
+Portanto, não há vedação a realização do exame criminológico para o livre convencimento do magistrado sobre o direito de promoção para o regime mais brando, desde o faça mediante decisão devidamente fundamentada.
+Sopesa-se, também, que a lei, nos termos dos artigos 34 do Código Penal e 8º da Lei de Execução Penal, determina que o condenado ao cumprimento de pena privativa de liberdade em regime fechado seja submetido a exame criminológico, como medida destinada à obtenção dos dados indispensáveis à individualização da execução.
+Além disso, frise-se, em casos excepcionais, mormente quando se tratar de condenações advindas de crimes violentos ou com grave ameaça à pessoa, o exame criminológico é obrigatório e destinado a aferir o grau de periculosidade do sentenciado ou a prática de conduta incompatível com o benefício pretendido (...).
+Conclui-se, então, que a Lei n° 10.792/2003 que modificou o artigo 112, da Lei de Execução Penal, ao exigir atestado de 'bom comportamento carcerário' para a progressão de regime, concessão de livramento condicional, indulto e comutação não excluiu a possibilidade da avaliação do mérito do reeducando após realização do exame criminológico, especialmente porque ele permite melhor análise das circunstâncias pessoais do reeducando, o risco de reincidência; o grau de periculosidade, etc para a segura reintegração social.
+(...)
+Aliás, recentemente o Excelso Supremo Tribunal Federal editou a Súmula Vinculante n° 26 a respeito do tema, de modo a firmar o entendimento de que o juízo da execução poderá determinar, de modo fundamentado, a realização de exame criminológico.
+O que se vê desde a edição da Lei n.º 10.792/2003 é a total ausência da utilização do exame criminológico por parte do Juízo das Execuções Penais, mesmo quando as evidências do processo apontam a sua necessidade, em flagrante desatenção aos interesses da segurança pública.
+Evidente que tal atitude, deixa a sociedade à mercê dos criminosos, pois afasta a realização de prognósticos confiáveis a respeito da periculosidade e da capacidade de adaptação social do condenado.
+Claro que o exame criminológico necessita de aperfeiçoamento, mas mesmo assim, é um instrumento essencial ao Juiz, pois ostenta elementos técnicos que lhe permitam, uma decisão adequada e salvaguardora de todos os princípios que norteiam o Direito Penal.
+No caso vertente, existem elementos de convicção que justifiquem a necessidade da realização do exame criminológico para aferir as condições necessárias à reintegração social, pois o agravado cometeu crime de latrocínio Trata-se de crime cometido com violência ou grave ameaça à pessoa, fato que impõe a realização do exame criminológico para aferir as condições necessárias à reintegração social, especialmente para assegurar que o reeducando não tornará a delinquir.
+A extrema gravidade do crime e a falta do exame criminológico capaz de demonstrar a efetiva reeducação do agravado também impedem a concessão da progressão.
+Assim, neste caso específico, deve o sentenciado, ora agravado, ser submetido à avaliação psicológica, demonstrando, então, condições pessoais que façam presumir que não tornará a delinquir, cuja aferição continua a depender do exame criminológico.
+Nestas circunstâncias, acolhe-se o pedido ministerial para afastar a decisão de fls 31/33, determinando o imediato retorno do sentenciado ao regime prisional anterior de cumprimento da pena, até que seja realizado o competente exame criminológico e seja proferida nova decisão sobre o merecimento da progressão de regime prisional.
+Dá-se provimento ao recurso ministerial para afastar a decisão de fls. 31/33, determinando o imediato retorno do sentenciado ao regime prisional anterior de cumprimento da pena, até que seja realizado o competente exame criminológico e seja proferida nova decisão sobre o merecimento da progressão de regime prisional.'
+O pedido liminar foi, então, indeferido (fls. 63/64), sendo solicitadas novas informações ao Juízo das execuções, as quais foram prestadas às fls. 68/71.
+Com vista dos autos, o Ministério Público Federal opinou, em parecer da lavra da Subprocuradora-Geral Wagner Natal, pela denegação da ordem (fls. 90/93).
+Em petição de fls. 96/97, a Defensoria Pública da União informa que doravante assiste o impetrante/paciente. Nas fls. 102/104, requer a sustentação oral, caso o feito seja levado à Turma.
+É o relatório.
+Decido.
+Notícias colhidas em contato telefônico com a Juízo das execuções dão conta de que foi proferida nova decisão, na data de 23.11.2010, na qual se deferiu o pedido de progressão ao regime semiaberto, o que ensejou a interposição de agravo em execução pelo Ministério Público estadual.
+Desse modo, verifica-se a mudança no quadro fático. Assim, com a superveniência de novo decisum, constata-se que o objeto deste writ encontra-se esvaído.
+À vista disso, com base no artigo 659 do Código de Processo Penal e no artigo 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus pela perda do objeto”.
+Pelo que se tem na decisão proferida pelo Superior Tribunal de Justiça, não se vislumbra, neste momento, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o julgado proferido por aquela Corte encontra-se suficientemente motivado a justificar a formação de seu convencimento, além de estar em sintonia com jurisprudência deste Supremo Tribunal, preconizada no sentido de que a
+Com essas considerações, indefiro a liminar requerida.
+Estando a impetração instruída com cópia da decisão ora questionada, dispenso as informações da autoridade coatora.
+Oficie-se, contudo, ao Tribunal de Justiça do Estado de São Paulo para que informe o andamento atualizado do agravo em execução interposto pelo Parquet estadual em desfavor do impetrante/paciente.
+Comunique-se, ainda, à Defensoria Pública da União para que adote as providências necessárias ao acompanhamento desta impetração.
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
