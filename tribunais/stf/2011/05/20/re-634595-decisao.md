@@ -1,0 +1,35 @@
+Despacho:
+Vistos.
+German Efromovich interpõe recurso extraordinário (folhas 2.359 a 2.384), contra acórdão proferido pela Corte Especial do Superior Tribunal de Justiça, assim ementado:
+“ PEDIDO DE RECONSIDERAÇÃO EM AGRAVO DE INSTRUMENTO RECEBIDO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE RECURSAL. CARTA ROGATÓRIA. CITAÇÃO. INEXISTÊNCIA DE CARÁTER EXECUTÓRIO.
+1. Em razão dos princípios da fungibilidade recursal e da economia processual, pedido de reconsideração manifestado em face de decisão singular pode ser recebido como agravo regimental, levando-se em consideração a natureza de seus fundamentos e do pedido formulado.
+2. Sendo o objeto da carta rogatória a citação e não havendo caráter executório, deve o exequatur ser concedido.
+3. Pedido de reconsideração da Petrobrás recebido como agravo regimental e julgado improcedente.
+4. Agravo de German Efromovich julgado improcedente” (folha 2318).
+Interpostos dois recursos de embargos de declaração (folhas 2.321 a 2.325 e 2.328 a 2.330), foram ambos rejeitados (folhas 2.345 a 2.353).
+Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada violação dos artigos 1º, inciso I, 5º, incisos XXXV, LIV e LV, e 93, inciso IX, da Constituição Federal, consubstanciada pela decisão que concedeu exequatur a uma carta rogatória, em afronta à soberania nacional e em violação às garantias constitucionais do contraditório, da ampla defesa, da isonomia, da legalidade e do aceso à justiça.
+Depois de apresentadas contrarrazões (folhas 2.389 a 2.396), o recurso foi admitido, na origem (folhas 2.399/2.400), subindo os autos a esta Suprema Corte.
+Decido.
+A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado em 10/8/10 (folha 2.355), quando já era plenamente exigível a demonstração da repercussão geral.
+Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+Com efeito, na sessão de 26 de fevereiro de 2008, a Primeira Turma deste Supremo Tribunal Federal, ao apreciar o HC nº 87.759/DF, Relator o Ministro Marco Aurélio, reconheceu a necessidade de que o exequatur de cartas rogatórias fosse submetido ao crivo do colegiado competente, no âmbito do Superior Tribunal de Justiça, não bastando a atuação da Corte Especial daquele Tribunal, apenas na hipótese da interposição de recurso de agravo interno.
+Sua ementa assim dispõe, na parte em que interessa:
+“(...) CARTA ROGATÓRIA - CONCESSÃO DE EXEQUATUR - RESERVA DE COLEGIADO. Conforme a alínea "i" do inciso I do artigo 105 da Constituição Federal, cumpre a órgão colegiado do Superior Tribunal de Justiça a concessão de exequatur a cartas rogatórias (...)” (DJe de 18/4/08).
+De sua fundamentação, porque altamente aplicável à hipótese em debate nos autos deste recurso, destaco o seguinte trecho:
+“Conforme dispõe a alínea i do inciso I do artigo 105 da Constituição Federal, a competência quer para homologação de sentenças estrangeiras, quer para a concessão de exequatur às cartas rogatórias, é do Superior Tribunal de Justiça como colegiado, não cabendo, como aconteceu na espécie, a atuação individual. Deve-se observar o procedimento que, até a Emenda Constitucional nº 45/04, era adotado pelo Supremo. Nem se diga que, interposto agravo regimental, o colegiado do Superior Tribunal de Justiça placitou o exequatur . O vício inicial contamina o ato praticado, cumprindo destacar que a exigência constitucional diz respeito à atuação originária e não revisional, não bastasse o julgamento sumário do agravo. Em síntese, o acórdão proferido pelo Superior Tribunal de Justiça simplesmente endossou ato do relator formalizado à margem da ordem jurídica”.
+Ao proferir voto concordando com o posicionamento do relator, assim se manifestou o eminente Ministro Ayres Britto:
+“Por curiosidade, observo que, com a Emenda nº 45, a competência que era do Supremo para homologar sentenças estrangeiras e conceder exequatur foi transpassada para o STJ, com uma diferença de redação que tem relevância jurídica. A redação primitiva, quando a matéria estava situada na competência originária do Supremo, no art. 102, inciso I, letra h, da Constituição Federal, era a seguinte:
+Art. 102 – Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I – processar e julgar, originariamente:
+(...)
+h)a homologação das sentenças estrangeiras e a concessão do exequatur às cartas rogatórias – aí vem esse fecho, que não foi reproduzida pela Emenda 45 – que podem ser conferidas pelo regimento interno a seu Presidente – ao Presidente do Supremo.
+Ora, a supressão dessa parte final sinaliza, hermeneuticamente, quero crer, que nem pelo Regimento Interno do STJ a competência deixa de se situar. Ou seja, o princípio da colegialidade foi reforçado pela Emenda nº 45: nem o Presidente do STJ, mediante autorização regimental, pode atuar sozinho. Quer dizer, esta emenda sentou praça do princípio da colegialidade. E fez certo em matéria que diz com as relações internacionais do Brasil. Também creio que transparece da redação constitucional a obrigatoriedade de que as cartas rogatórias sejam expedidas por autoridade do Poder Judiciário”.
+De rigor, portanto, a anulação da decisão recorrida, para que outra seja proferida, originariamente, pela Corte Especial do Superior Tribunal de Justiça, prejudicada a análise das demais matérias constantes do presente recurso.
+Ante o exposto, dou provimento ao recurso extraordinário, nos termos em que supra especificados.
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
