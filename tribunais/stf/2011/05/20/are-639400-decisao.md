@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. 1. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. 2. CONTRIBUIÇÃO AO FUNRURAL: EXIGIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo em recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+“TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÃO PARA O INCRA E FUNRURAL. OBRIGATORIEDADE. RECURSO REPETITIVO JULGADO (RESP 977.058/RS). 1. A decisão agravada foi baseada na jurisprudência assente desta Corte no sentido de que são devidas as contribuições destinadas ao INCRA e ao FUNRURAL por empresa urbana em virtude do seu caráter de contribuição especial de intervenção no domínio econômico para financiar os programas e projetos vinculados à reforma agrária e suas atividades complementares. 2. Ressalte-se que a matéria foi objeto de de apreciação pela Primeira Seção deste Tribunal, ao julgar o REsp 977.058/RS, mediante a sistemática prevista no art. 543-C do CPC e na Resolução STJ n. 08/2008 (recursos repetitivos). 3. Agravo regimental não provido” (fl. 321).
+Os embargos de declaração opostos foram assim julgados:
+“TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. EMPRESA DEDICADA À PREVIDÊNCIA URBANA. CONTRIBUIÇÃO PARA O INCRA E FUNRURAL. OBRIGATORIEDADE. RECURSO REPETITIVO JULGADO (RESP 977.058/RS). INEXISTÊNCIA DE OMISSÃO. 1. Não há omissão no acórdão que expressamente declara a exigibilidade da contribuição ao FUNRURAL, mesmo após a vigência da Lei n. 7.787/89, de acordo com entendimento firmado no julgamento do recurso especial repetitivo n. 977.058/RS. 2. Embargos de declaração rejeitados.” (fl. 349).
+2. A Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV, LIV e LV, Constituição da República.
+Assevera que o “recurso especial interposto em face do v. acórdão (...) preenche todos os requisitos processuais genéricos de admissibilidade, de modo que seu processamento (...) torna-se um imperativo de ordem legal, (...) do contrário, estará configurada a ofensa direta aos primados constitucionais do devido processo legal, do contraditório e da ampla defesa” (fl. 361).
+No mérito, alega que, “não obstante tivesse sido recepcionada pela Constituição de 1988, a contribuição ao FUNRURAL instituída pelo inciso II do artigo 15 da LC n. 11/71, e que incidia sobre a ‘soma paga mensalmente aos seus empregados’, veio a ser extinta pelo art. 3º, § 1º, da Lei n. 7.787/89” (fl. 362).
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de ausência de fundamentação e de que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+5. Razão jurídica não assiste à Agravante.
+6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional (na espécie vertente, o Código de Processo Civil), configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009, grifos nossos).
+E:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 820.072-AgR, de minha relatoria, Primeira Turma, Dje 24.3.2011)
+7. No que se refere à contribuição ao FUNRURAL, melhor sorte não acudiria à Agravante.
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de ser devida por empresa urbana a contribuição ao FUNRURAL. Nesse sentido:
+“AGRAVO REGIMENTAL. CONTRIBUIÇÃO AO FUNRURAL. EMPRESA URBANA. A decisão agravada está em perfeita harmonia com o entendimento firmado por ambas as Turmas deste Tribunal, no sentido de que é devida por empresa urbana a contribuição destinada ao FUNRURAL. Agravo regimental a que se nega provimento” (AI 754.913-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 26.3.2010).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência do Supremo Tribunal Federal.
+Nada há a prover quanto às alegações da Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 20 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
