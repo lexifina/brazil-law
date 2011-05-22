@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. PRECATÓRIO. 1) NÃO CABIMENTO DE RECURSO EXTRAORDINÁRIO CONTRA DECISÃO PROFERIDA EM PROCESSAMENTO DE PRECATÓRIOS. SÚMULA N. 733 DO SUPREMO TRIBUNAL FEDERAL. 2) INCIDÊNCIA DE JUROS DE MORA ENTRE A DATA DA INCLUSÃO NO ORÇAMENTO E O EFETIVO PAGAMENTO: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem por objeto a seguinte decisão do Presidente do Tribunal de Justiça de São Paulo:
+“O artigo 78 do Ato das Disposições Constitucionais Transitórias, introduzido pela Emenda Constitucional n. 30/2000, facultou o pagamento dos valores pendentes de precatórios, acrescidos dos juros legais, em prestações anuais iguais e sucessivas, no prazo máximo de dez anos.
+Desta forma, não há mora durante o prazo constitucional para o pagamento da parcela, sendo o entendimento da Excelsa Corte que somente se: ‘Não observada a época própria das prestações, cabível a incidência dos juros no que pressupõem inadimplemento’ (RE 485.650-AgR, Relator(a): Min. Marco Aurélio, Primeira Turma, julgado em 07/04/2009, DJe-104 DIVULG 04-06-2009 PUBLIC 05-06-2009 EMENT VOL-02363-07 PP-01452).
+Devem ser afastados os juros moratórios e compensatórios em continuação, diante da sua inequívoca ilegalidade após o advento do art. 78 do ADCT.
+(...)
+Daí porque reconsidero a decisão de fls. 368/369, para a realização de novo cálculo, com observância do que aqui decidido” (fls. 419-420).
+3. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. XXXVI, da Constituição da República e o art. 78 do Ato das Disposições Constitucionais Transitórias.
+Argumenta que “a decisão recorrida contraria [o art. 78 do Ato das Disposições Constitucionais Transitórias], ao entender que a Emenda Constitucional n. 30/2000 contempla somente a incidência de juros legais em caso de inadimplência, e não durante o prazo de pagamento concedido. É importante frisar que o art. 78 do Ato das Disposições Constitucionais Transitórias é expresso e claro, não restando margem de dúvida quanto à determinação de acréscimo dos juros legais, não cabendo ao intérprete da lei, portanto, restringir sua hipótese, especialmente por se tratar de regramento constitucional” (fl. 432).
+4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que não caberia recurso extraordinário contra decisão monocrática e a incidência da Súmula n. 733 do Supremo Tribunal Federal (fls. 440-444).
+A Agravante assevera que o “aludido recurso foi provido em grau de reconsideração pelo Presidente do Tribunal de Justiça de São Paulo (fls. 400/404), deixando as agravantes de interporem agravo regimental, em virtude da vedação contida no artigo 269 do Regimento Interno do Tribunal de Justiça de São Paulo, então em vigor” (fl. 5).
+Afirma que “a atividade do Presidente do Tribunal de Justiça nesses casos deveria ser tão somente administrativa, motivo pelo qual ele não poderia, em hipótese alguma, modificar o título executivo com determinação de supressão dos juros de mora em continuação” (fl. 6).
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+6. O Supremo Tribunal Federal assentou que não cabe recurso extraordinário contra decisão de Presidente de Tribunal proferida em processamento de precatórios. Incide na espécie a Súmula n. 733 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. PRECATÓRIO. CABIMENTO DE RECURSO EXTRAORDINÁRIO: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 733 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 595.045-AgR, de minha relatoria, Primeira Turma, DJe 30.6.2009).
+“Precatório. Prova da inversão da ordem cronológica de pagamentos. Recurso extraordinário: descabimento: aplicação da Súmula 733, por se tratar de decisão proferida no processamento de precatórios, e 279, dada a necessidade do reexame de provas inviável em RE (Súmula 279)” (RE 387.870-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 16.8.2007).
+7. Ainda que assim não fosse, no julgamento do Recurso Extraordinário n. 591.085, Relator o Ministro Ricardo Lewandowski, DJe 20.2.2009, o Supremo Tribunal Federal reconheceu a repercussão geral da questão constitucional objeto deste recurso e confirmou a jurisprudência consolidada no sentido da inconstitucionalidade da incidência de juros de mora no período entre a inclusão do precatório em orçamento até o efetivo pagamento:
+“CONSTITUCIONAL. PRECATÓRIOS. JUROS DE MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO NA CONSTITUIÇÃO PARA SEU PAGAMENTO. IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA CONSTITUIÇÃO. I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO PACIFICADA NO STF. REPERCUSSÃO GERAL RECONHECIDA. CONFIRMAÇÃO DA JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO DOS RECURSOS QUE VERSEM SOBRE O MESMO TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART. 543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS, RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES; RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II Julgamento de mérito conforme precedentes. III Recurso provido”.
+A decisão recorrida não divergiu dessa orientação.
+8. Nada há, pois, a prover quanto às alegações da Agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
