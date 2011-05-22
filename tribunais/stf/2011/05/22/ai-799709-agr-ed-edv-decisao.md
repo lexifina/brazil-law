@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA APONTADA. EMBARGOS NÃO ADMITIDOS.
+Relatório
+1. Embargos de divergência opostos contra o seguinte julgado da Segunda Turma deste Supremo Tribunal Federal:
+“EMBARGOS DE DECLARAÇÃO – INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO – PRETENDIDO REEXAME DA CAUSA – CARÁTER INFRINGENTE – INADMISSIBILIDADE – EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Não se revelam cabíveis os embargos de declaração, quando a parte recorrente – a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição – vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes” (fl. 231).
+2. O Embargante alega que “o v. acórdão embargado entendeu ser impossível a utilização dos Embargos Declaratórios para modificar o julgado, ou seja, atribuir-lhe efeitos infringentes. Diversamente do decidido, via do REAED 191227 – 2ª Turma, PETED 337 – 2ª Turma, REED 169546 – 1ª Turma, o STF admitiu a oposição de Embargos Declaratórios com fim modificativo do decisum quando há erro no julgado” (fl. 246).
+Requer o conhecimento e provimento dos embargos de divergência para julgar improcedente a ação.
+Examinada a matéria trazida na espécie, DECIDO.
+3. Razão jurídica não assiste ao Embargante.
+Os embargos de divergência são cabíveis de decisão de Turma deste Supremo Tribunal que divergir de julgado de outra Turma ou do Plenário (art. 330 do Regimento Interno do Supremo Tribunal Federal).
+4. Na linha da jurisprudência deste Supremo Tribunal Federal, a caracterização do conflito jurisprudencial depende da demonstração analítica do conflito entre a decisão embargada e os paradigmas apontados como divergentes, não bastando apenas a citação desses últimos:
+“AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1 - Para a demonstração da divergência, é indispensável que os paradigmas invocados digam respeito a situação jurídica idêntica à apreciada pelo acórdão embargado. 2 - Incabíveis os embargos de divergência pelos quais se pretende a utilização de decisão monocrática para a demonstração de contradição jurisprudencial” (AI 767.226-AgR, de minha relatoria, Plenário, DJe 1º.2.2011).
+“- O acórdão-paradigma, para legitimar a oposição de embargos de divergência, deve referir-se a situações, que, considerados os elementos essenciais a ela inerentes, permitam estabelecer, ante a especificidade de que se revestem, a necessária relação de pertinência com a tese jurídica que a decisão embargada, em frontal dissenso com o padrão de confronto invocado, veio a acolher no julgamento da causa. Inocorrência, no caso ora em exame, desse específico pressuposto de admissibilidade dos embargos de divergência.
+- A parte embargante, sob pena de recusa liminar de processamento dos embargos de divergência - ou de não-conhecimento destes, quando já admitidos - deve demonstrar, de maneira objetiva, mediante análise comparativa entre o acórdão-paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial, impondo-se-lhe reproduzir, na petição recursal, para efeito de caracterização do conflito interpretativo, os trechos que configuram a divergência indicada, mencionando, ainda, as circunstâncias que identificam ou que tornam assemelhados os casos em confronto, não bastando, para os fins a que se refere o art. 331 do RISTF, a mera transcrição das ementas dos acórdãos invocados como referências paradigmáticas, nem simples alegações genéricas pertinentes à suposta ocorrência de dissenso pretoriano. Precedentes” (RE 255.328-ED-EDv-AgR, Relator o Ministro Celso de Mello, Plenário, DJ 30.5.2003 – grifos nossos).
+5. Pelo exposto, não admito os embargos de divergência (art. 335 do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 22 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
