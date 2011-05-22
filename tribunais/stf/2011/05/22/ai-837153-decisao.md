@@ -1,0 +1,17 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL – SENAC. APLICAÇÃO DAS REGRAS DO ART. 202, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO PROVIDO. CONVERSÃO EM RECURSO EXTRAORDINÁRIO ELETRÔNICO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+“CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL – SENAC. PLANO DE PREVIDÊNCIA COMPLEMENTAR. PARIDADE DE CONTRIBUIÇÃO. ART. 202, § 3º, DA CONSTITUIÇÃO FEDERAL. APLICABILIDADE. PRELIMINAR DE ILEGITIMIDADE ATIVA DO SENAC. REJEIÇÃO. I – Versando a discussão acerca da legitimidade de imposição no sentido de aplicabilidade da regra contida no art. 202, § 3º, da Constituição Federal, ao plano de previdência privada, instituído pelo Serviço Nacional de Aprendizagem Comercial – SENAC, como no caso, afigura-se manifesta a legitimidade ativa ad causam da referida pessoa jurídica. Preliminar que se rejeita. II – Os serviços sociais autônomos, como no caso, o Serviço Nacional de Aprendizagem Comercial – SENAC, denominados pessoas de cooperação governamental, embora integrantes do setor público não estatal e com personalidade jurídica de Direito Privado, caracterizam-se, na determinação dos serviços prestados, pelo interesse público, enquadrando-se no conceito de 'outras entidades públicas', inserido no art. 202, § 3º, da Constituição Federal, devendo, pois, o fundo de previdência privada por eles instituído submeter-se à regra da paridade contributiva, ali estabelecida, no texto magno. III – Apelação e remessa oficial providas. Sentença reformada. Segurança denegada” (fl. 27).
+2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 78-79).
+3. A Agravante alega que o Tribunal a quo teria contrariado o art. 202, § 3º, da Constituição da República.
+Sustenta que “a mesma Constituição Federal não poderia se referir aos serviços sociais autônomos no art. 240 como 'entidades privadas' e no § 3º do art. 202 como 'outras entidades Públicas', sob pena de violação de qualquer regra de hermenêutica” (fl. 7).
+Analisados os elementos havidos nos autos, DECIDO.
+4. Não há precedentes específicos sobre a matéria no Supremo Tribunal Federal, daí porque não se pode afirmar, de plano, que para a verificação do enquadramento do Serviço Nacional de Aprendizagem Comercial – SENAC no conceito de outras entidades públicas do § 3º do art. 202 da Constituição da República seria necessário a interpretação da legislação infraconstitucional, razão pela qual afasto o fundamento da decisão agravada.
+5. Assim, sem prejuízo de uma posterior e aprofundada análise do cumprimento dos requisitos para o cabimento do recurso extraordinário, a fim de ter melhor compreensão da controvérsia, conheço deste agravo, dou-lhe provimento, nos termos dos §§ 3º e 4º do art. 544 do Código de Processo Civil, e determino a sua conversão em recurso extraordinário eletrônico, nos termos dos arts. 29, § 1º, e 30 da Resolução n. 427/2010.
+À Secretaria, para nova autuação e distribuição na forma regimental.
+Publique-se.
+Brasília, 22 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
