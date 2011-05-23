@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO POR OCUPAÇÃO DE CARGO EM COMISSÃO. LEIS ESTADUAL N. 10.623/1992, 10.745/1992 E LEI DELEGADA N. 175/2007. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“SERVIDOR PÚBLICO – CARGO EM COMISSÃO – REESTRUTURAÇÃO DE CARREIRAS PELA LEI DELEGADA 175/07 – EXTINÇÃO DA GRATIFICAÇÃO CRIADA PELA LEI Nº 10.745/92. DIREITO LÍQUIDO E CERTO AFASTADO – RECURSO IMPROVIDO. A gratificação especial instituída pela Lei nº 10.623, de 16/01/92 para os servidores detentores de cargos comissionados na administração indireta do Estado e estendida aos servidores do IPSEMG através da Lei nº 10.745/92, que incluiu anexo ao artigo 2º daquela primeira, foi extinta com a edição da Lei Delegada nº 175/07, que expressamente revogou o alegado artigo 2º, mas manteve a irredutibilidade de vencimentos, pelo que não há direito líquido e certo desses servidores à continuidade na percepção da referida gratificação” (fl. 357).
+3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que não teria havido ofensa ao art. 93, inc. IX da Constituição da República, e de que ofensa à Constituição, se tivesse ocorrido, seria indireta, além da incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal (fl. 567).
+4. O Agravante alega que teria sido contrariado os arts. 37, inc. X, e 93, inc. IX, da Constituição da República.
+Afirma que “tendo em vista que não houve a edição de lei específica, conclui-se que a Lei 10.745/92 não foi revogada. No entanto, esse ponto não foi apreciado pela douta Turma Julgadora. Cumpre esclarecer que a omissão foi apontada de forma clara e fundamentada nos embargos declaratórios” (fl. 8).
+Assevera que “ao contrário do que foi dito pelo i. Prolator da decisão agravada, o dispositivo legal pertinente àquele tema meritório foi articulado em sede de declaratórios” (fl. 10).
+Pondera que “a relutância da Turma Julgadora, ao insistir em fazer-se omissa, só pode causar, num quadro deste, o acolhimento da arguição de infringência ao art. 93 IX CF” (fl. 11).
+Requer o “conhecimento do agravo manifestado, a fim de que seja dado seguimento ao Recurso Extraordinário obstado” (fl. 12).
+Analisada a matéria posta à apreciação, DECIDO.
+5. Razão jurídica não assiste ao Agravante.
+6. Cumpre afastar, inicialmente, o óbice imposto pela decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, a matéria constitucional posta à apreciação foi suscitada em momento procedimentalmente adequado.
+Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão dos Agravantes.
+7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+8. O Tribunal de origem decidiu a controvérsia examinando a legislação infraconstitucional aplicável à espécie (Leis Estadual n. 10.632/1992, 10.745/1992 e Lei Delegada n. 175/2007). Concluir de forma diversa demandaria a análise dessas normas, procedimento incabível de ser adotado em recurso extraordinário, incidência da Súmula n. 280 do Supremo Tribunal Federal. Eventual ofensa à Constituição da República, se tivesse ocorrido, seria indireta. Nesse sentido:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE REPRESENTAÇÃO ESPECIAL. INTERPRETAÇÃO DA LEI DELEGADA ESTADUAL 04/2003. SÚMULAS STF 279 E 280. 1. Esta Corte já pacificou sua jurisprudência no sentido de que a análise da Gratificação de Representação, prevista na Lei Delegada estadual 04/2003, depende de exame da legislação local. 2. Para se concluir, como pretende a parte agravante, pelo caráter específico da gratificação em análise, necessário seria o reexame de legislação local e de fatos e provas, o que é defeso nesta via extraordinária (Súmulas STF 279 e 280). Precedentes. 3. Agravo regimental improvido” (AI 651.271-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 9.10.2009).
+No mesmo sentido, as seguintes decisões monocráticas transitadas em julgado: RE 545.983, Rel. Min. Cezar Peluso, DJ 11.4.2008; RE 572.932, Rel. Min. Ricardo Lewandowski, DJ 7.2.2008; RE 554.857, Rel. Min Gilmar Mendes, DJ 14.11.2007; e AI 649.014, de minha relatoria, DJ 22.11.2007.
+Nada há, pois, a prover quanto às alegações da parte agravante.
+9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
