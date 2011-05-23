@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por ofensa ao art. 5º, XXVII e XXVIII, a, da Constituição Federal, contra acórdão no qual se discute o direito à reparação por danos materiais e morais por violação a direitos autorais, nos seguintes termos (fls. 461-465):
+“INDENIZAÇÃO – Direito autoral – Alegação de uso pela ré, sem autorização, de criação intelectual elaborada pelo autor, consistente no slogan “Antártica: é do Pingüim”, em campanha publicitária – Slogan publicitário que não se reveste de criatividade e originalidade suficientes a ensejar proteção jurídica – Dado provimento ao recurso da ré e negado provimento ao autor”.
+2.  O agravante, em síntese, afirma que não se trata de revolver fatos e provas. A questão posta no recurso extraordinário é a forma de aplicação pelo Tribunal de origem dos critérios de criatividade e originalidade para inferir a proteção do seu direito autoral.
+3.  O agravo não merece seguimento, pois, para rever a decisão recorrida e reconhecer o direito autoral pleiteado, é necessário o revolvimento dos fatos e das provas contidos nos autos, o que é vedado em sede extraordinária (Súmula STF 279). Nesse sentido, o AI 786.434-AgR/DF, 1ª Turma, rel. Min. Ricardo Lewandowski, unânime, DJe 1º.02.2011.
+4.  Ademais, concluir de modo diverso implica a interpretação de matéria infraconstitucional já ratificada pelo Superior Tribunal de Justiça, em decisão transitada em julgado, ao negar provimento ao agravo da decisão denegatória do recurso especial manejado pelo ora agravante, sob o fundamento de que incide no caso a Súmula 7 do STJ (Ag 1.045.490-AgR/SP, rel. Min. João Otávio de Noronha, 4ª Turma, DJe 29.6.2009). Tal fundamento, per se, é suficiente para manter o acórdão recorrido, que se tornou definitivo, obstando a impugnação, mediante apelo extremo, com base no art. 5º, XXVII e XXVIII, da Constituição Federal.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 23 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
