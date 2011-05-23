@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Rondônia, cuja ementa possui o seguinte teor (fls. 129):
+“Ação civil pública. Legitimidade ativa. Ministério Público. Controle difuso da constitucionalidade. Teto remunerativo. Tempo de serviço ficto.
+O Ministério Público tem legitimidade para propor ação civil pública a fim de reparar danos causados ao patrimônio público. Não é vedado o controle difuso da constitucionalidade em sede de ação civil pública. O Estado pode estabelecer como teto a remuneração da autoridade a que estiver subordinado o servidor, seja civil ou militar. Até a Emenda Constitucional n. 20, de 15/12/98, era perfeitamente possível a contagem do tempo ficto.
+A Emenda Constitucional n. 38 resolve a situação dos Policiais Militares de Rondônia que já pertenciam à Corporação antes da transformação em Estado, mas não regulariza o recebimento de remuneração acima do teto constitucional feita por legislação local.”
+No recurso extraordinário, o ora agravante alega ofensa ao disposto nos arts. 37; 40, § 4º; 42, § 10; 102, I, a; e 129, III, da Constituição.
+O Plenário desta Corte, por ocasião do julgamento do RE 208.790 (rel. min. Ilmar Galvão, DJ de 15.12.2000), firmou o entendimento de que o Ministério Público, como ente legitimado à defesa dos interesses de toda a coletividade, é parte legítima para propor ação civil pública que vise à proteção do patrimônio público e social, do meio ambiente e de outros interesse difusos e coletivos, nos termos do art. 129, III, da Constituição. Transcrevo a ementa da referida decisão:
+“CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. ART. 129, III, DA CF. Legitimação extraordinária conferida ao órgão pelo dispositivo constitucional em referência, hipótese em que age como substituto processual de toda a coletividade e, conseqüentemente, na defesa de autêntico interesse difuso, habilitação que, de resto, não impede a iniciativa do próprio ente público na defesa de seu patrimônio, caso em que o Ministério Público intervirá como fiscal da lei, pena de nulidade da ação (art. 17, § 4º, da Lei nº 8.429/92). Recurso não conhecido.”
+No mesmo sentido, são as decisões proferidas no AI 491.081-AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 07.05.2004) e no AI 383.919-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 11.04.2003).
+Ademais, este Supremo Tribunal Federal, ao apreciar o RE 424.993 (Plenário, de minha relatoria, publicado no DJ de 19.10.2007), assim decidiu:
+“EMENTA: RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. CONTROLE DE CONSTITUCIONALIDADE. OCUPAÇÃO DE LOGRADOUROS PÚBLICOS NO DISTRITO FEDERAL. PEDIDO DE INCONSTITUCIONALIDADE INCIDENTER TANTUM DA LEI 754/1994 DO DISTRITO FEDERAL. QUESTÃO DE ORDEM. RECURSO DO DISTRITIO FEDERAL DESPROVIDO. RECURSO DO MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL PREJUDICADO.
+(...)
+A jurisprudência do Supremo Tribunal Federal tem reconhecido que se pode pleitear a inconstitucionalidade de determinado ato normativo na ação civil pública, desde que incidenter tantum. Veda-se, no entanto, o uso da ação civil pública para alcançar a declaração de inconstitucionalidade com efeitos erga omnes.
+(...)”. (grifei)
+Como se vê, a Corte reafirmou a jurisprudência no sentido de que é possível o pleito de inconstitucionalidade de determinada norma através de ação civil pública, desde que a questão de inconstitucionalidade não consubstancie o pedido principal da ação civil pública e, sim, sua causa de pedir.
+Confiram-se, no mesmo sentido, o RE 227.159 (rel. min. Néri da Silveira, DJ de 17.5.2002) e o AI 476.058-AgR (rel. Min. Carlos Britto, Primeira Turma, DJe de 15.6.2007). Destaco a ementa deste último:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DE LEI MUNICIPAL. AÇÃO CIVIL PÚBLICA. ALEGADA USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA. PRECEDENTES. Não usurpa a competência do Supremo Tribunal Federal a declaração incidental de inconstitucionalidade de lei municipal, proferida por juiz singular em ação civil pública. Especialmente quando não demonstrado que o objeto do pedido era tão-somente a inconstitucionalidade da lei. Agravo regimental desprovido.”
+Assim, a decisão recorrida está em conformidade com a jurisprudência desta Corte.
+Por fim, verifico que o Tribunal a quo decidiu a controvérsia com base na legislação local aplicável ao caso (Lei Complementar estadual 58/1992). Extrai-se do voto (fls. 134):
+“É certo que a Lei Complementar Estadual n. 58/92 determina que é facultada ao policial militar, ao assumir cargo em comissão, a opção pela remuneração do seu cargo efetivo, sem prejuízos das gratificações daquele cargo ou função, passando estas a comporem a estrutura remuneratória.
+Todavia, ela não lhe dá o direito de incorporar aos proventos da aposentadoria ou mesmo a sua remuneração permanente.
+No âmbito da administração em geral, a incorporação dos valores de cargos em comissão ou gratificações se dá em um período de 10 (dez) anos ou de 20% por cada dois anos de exercício do cargo comissionado.
+A natureza dos cargos de comando, comissão e chefia são sempre temporários, podem até, enquanto no exercício do cargo, acumular as gratificações com o salário efetivo de coronel, mas isso sempre tem caráter temporário, deixando o cargo, reformando-se, receberá os proventos de seu cargo efetivo que é de coronel.”
+Para alcançar conclusão diversa do acórdão recorrido, seria necessário o prévio exame da norma local, circunstância vedada na via extraordinária. Incide o óbice contido na Súmula 280 /STF.
+Menciono, em caso idêntico ao presente, o RE 524.826, rel. min. Cármen Lúcia, DJe de 02.02.2010.
+Do exposto, nego seguimento ao agravo de instrumento.
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
