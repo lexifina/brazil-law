@@ -1,0 +1,20 @@
+D ESPACHO:
+Vistos.
+COFILEX CONTABILIDADE E ASSESSORIA EMPRESARIAL S/C interpõe agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+O Tribunal Regional Federal da 3ª Região considerou constitucional a Lei 9.715/98.
+Decido.
+Não merece prosperar a irresignação.
+As inovações ao Programa de Integração Social – PIS, efetuadas pela Medida Provisória nº 1.212/98 e reedições, convertida na Lei nº 9.715/98, foram objeto de análise por este Supremo Tribunal Federal na ocasião do julgamento da ADI nº 1.417/DF, relator o Ministro Octavio Gallotti, DJ de 23/3/01.
+Naquela oportunidade, esta Corte somente declarou a inconstitucionalidade da parte final do artigo 18 da referida norma, que se refere ao efeito retroativo conferido à vigência da contribuição ao PIS/PASEP. Portanto, todos os demais dispositivos foram considerados constitucionais.
+Nesse sentido, destaco que as supostas alegações de contrariedade ao texto constitucional deduzidas no recurso extraordinário a que se pretende ver processado foram rechaçadas pela Corte no mencionado julgado, conforme infere-se da ementa abaixo:
+“Programa de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP. Medida Provisória. Superação, por sua conversão em lei, da contestação do preenchimento dos requisitos de urgência e relevância. Sendo a contribuição expressamente autorizada pelo art. 239 da Constituição, a ela não se opõem as restrições constantes dos artigos 154, I e 195, § 4º, da mesma Carta. Não compromete a autonomia do orçamento da seguridade social (CF, art. 165, § 5º, III) a atribuição, à Secretaria da Receita Federal de administração e fiscalização da contribuição em causa. Inconstitucionalidade apenas do efeito retroativo imprimido à vigência da contribuição pela parte final do art. 18 da Lei nº 8.715-98” (ADI nº 1.417/DF, Tribunal Pleno, Relator o Ministro Octavio Gallotti, DJ de 23/3/01).
+Na mesma linha, é a jurisprudência assentada do Supremo Tribunal Federal:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL - PIS. RECEPÇÃO PELO ART. 239 DA CONSTITUIÇÃO DA REPÚBLICA. POSSIBILIDADE DE ALTERAÇÃO DA LEI COMPLEMENTAR N. 7/70 POR LEI ORDINÁRIA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 445.671/PR-AgR, Primeira Turma, Relatora a Ministra. Cármen Lúcia, DJe de 26/6//09).
+“AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. PIS. ART. 239 DA CONSTITUIÇÃO. LEI 9.715/98. CONSTITUCIONALIDADE. AGRAVO IMPROVIDO. I - O art. 239 da Constituição da República não implicou o engessamento da contribuição ao PIS, apenas recepcionou-a expressamente, podendo ser regularmente alterada pela legislação infraconstitucional ordinária. Precedentes. II - Agravo regimental improvido” (RE nº 482.606/SP-AgR-ED, Primeira Turma, Relator o  Ministro Ricardo Lewandowski, DJe de 19/9/08).
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PIS. ALTERAÇÃO DO PRAZO PARA RECOLHIMENTO DA CONTRIBUIÇÃO. MEDIDA PROVISÓRIA N. 1.212/95, CONVERTIDA NA LEI N. 9.715/98. LEGITIMIDADE. CAUSA DE PEDIR REMOTA. CAUSA DE PEDIR PRÓXIMA. INCOMPATIBILIDADE. 1. Contribuição para o PIS. Não implica majoração da obrigação tributária nem ofensa ao princípio da anterioridade mitigada, consagrado no § 6º do artigo 195 da Constituição do Brasil, a simples mudança do prazo para recolhimento da exação, efetuada nos termos da Medida Provisória n. 1.212/95 [Lei de conversão n. 9.715/98]. Idoneidade do texto normativo para disciplinar matéria tributária. Precedente do Pleno deste Tribunal. 2. Tem-se a improcedência do pedido próximo porque o pedido remoto não encontrou base de sustentação nos fatos que ensejaram a causa. Embargos de declaração rejeitados” (RE nº 356.476/DF-AgR-ED, Primeira Turma, Relator o Ministro Eros Grau, DJ de 23/6/06).
+Diante do exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
