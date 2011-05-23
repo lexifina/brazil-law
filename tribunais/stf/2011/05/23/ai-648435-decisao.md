@@ -1,0 +1,28 @@
+D ECIS Ã O:
+Vistos.
+Antônio Reske Filho e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput e incisos XXXV e LV, 7º, incisos IV, VII e X, 62, § 1º, inciso I, alínea “b”, 60, § 4º, inciso III, 93, inciso IX, e 100, § 3º, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, assim ementado:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO. FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. MEDIDA PROVISÓRIA Nº 2.180/2001. EMENDA CONSTITUCIONAL Nº 32/2001. MATÉRIA PACÍFICA. JULGAMENTO DO MÉRITO RECURSAL POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. INTELIGÊNCIA DO ART. 557, CAPUT, DO CPC. AGRAVO IMPROVIDO.
+1. A Medida Provisória 2.180/01, que modificou o art. 1º-D da Lei 9.494/97, determinando serem incabíveis honorários advocatícios pela Fazenda Pública nas execuções não embargadas, tem incidência nos processos executivos iniciados após a sua edição.
+2. A Emenda Constitucional 32/2001 não tornou sem efeito a referida norma, pois, mesmo tendo vedado a edição de medidas provisórias sobre matéria processual civil, ressalvou aquelas já publicadas anteriormente.
+3. A jurisprudência do Superior Tribunal de Justiça, atribuindo efetividade ao teor da regra prevista no art. 557, caput, do CPC, é pacífica quanto à possibilidade de relator decidir monocraticamente recurso quando este for manifestamente improcedente, prejudicado, deserto, intempestivo ou contrário à jurisprudência dominante do respectivo tribunal. Precedentes.
+4. Agravo regimental improvido” (fl. 203).
+Opostos embargos de declaração (fls. 195 a 199), foram rejeitados (fls. 202 a 207).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 19/6/06, conforme expresso na certidão de folha 208, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+No que se refere aos artigos 5º, caput, 60, § 4º, inciso III,, e 100, § 3º, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelos recorrentes. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, no julgamento do RE nº 420.816, realizado em 29/9/04, Relator o Ministro Sepúlveda Pertence, o Plenário do Supremo Tribunal Federal declarou a constitucionalidade da Medida Provisória nº 2.180-35/01, dando interpretação conforme ao art. 1º-D da Lei nº 9.494/97, na qual se converteu a referida Medida Provisória, para reduzir-lhe a aplicação às hipóteses de execução por quantia certa contra a Fazenda Pública (artigo 730 do Código de Processo Civil), excluídos os casos de pagamento de obrigações definidas em lei como de pequeno valor (artigo 100, § 3º, da Constituição Federal).
+Nesse julgamento, firmou-se o entendimento de que não haverá fixação de honorários advocatícios nas execuções por quantia certa ajuizadas contra a Fazenda Pública, quando não embargadas, excluídos os casos de pagamento de obrigação definidos em lei como de pequeno valor. Nesse sentido, anote-se:
+“CONSTITUCIONAL. PROCESSUAL CIVIL. ART. 1º-D DA LEI 9.494/97. CONSTITUCIONALIDADE. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÕES NÃO EMBARGADAS PELA FAZENDA PÚBLICA. ART. 100, § 3º, DA CONSTITUIÇÃO. AÇÃO COLETIVA.
+I - O Plenário do Supremo Tribunal Federal, no julgamento do RE 420.816/PR, conheceu do recurso e declarou a constitucionalidade da Medida Provisória 2.180-35/2001, com interpretação conforme, de modo a reduzir-lhe a aplicação à hipótese de execução por quantia certa contra a Fazenda Pública, excluídos os casos de pagamento de obrigação definidos em lei como de pequeno valor.
+II - A questão de mérito foi decidida conforme o recurso extraordinário interposto pela União, ora agravada, não podendo a matéria ser inovada em agravo regimental.
+III - Agravo não provido” (RE 476.211-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/8/06).
+“RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. ART. 1º-D DA LEI 9.494/97 COM REDAÇÃO DA MP 2.180/01. CONSTITUCIONALIDADE.
+1. Os agravantes buscam rediscutir matéria já pacificada pela Corte no julgamento do RE 420.816, DJ 06.10.04, quando o Plenário declarou a constitucionalidade do art. 1º-D da Lei 9.494/97, com a redação da MP 2.180/01, e, com interpretação conforme a Constituição, reduziu-lhe "a aplicação à hipótese de execução, por quantia certa, contra a Fazenda Pública (Código de Processo Civil, art. 730), excluídos os casos de pagamentos de obrigações definidos em lei como de pequeno valor, objeto do § 3º do artigo 100 da Constituição." Precedentes.
+2. Agravo regimental improvido” (RE 412.891-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 26/8/05).
+Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou parcial provimento ao recurso extraordinário para afastar a condenação da Fazenda Pública ao pagamento da verba honorária, excluída a incidência do procedimento relativo às obrigações definidas em lei como de pequeno valor, que deverão ser observadas pelo juízo da execução.
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
