@@ -1,0 +1,11 @@
+LibreOffice
+DECISÃO: O exame da presente causa evidencia que o acórdão ora questionado diverge, frontalmente, da jurisprudência que o Supremo Tribunal Federal firmou na análise da matéria suscitada nesta sede recursal.
+Isso significa, portanto, que a pretensão recursal ora deduzida pela parte recorrente revela-se plenamente acolhível, considerada a diretriz jurisprudencial que o Supremo Tribunal Federal consagrou na apreciação do litígio ora em debate (RE 421.597/RN, Rel. Min. DIAS TOFFOLI – RE 493.441/RN, Rel. Min. RICARDO LEWANDOWSKI – RE 524.083/RN, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+Cumpre destacar, por oportuno, no tema ora em exame, ante a inquestionável procedência de suas observações, a decisão proferida pela eminente Ministra ELLEN GRACIE (RE 633.078/RN), no sentido de que “Quanto à ofensa ao art. 201, § 6º, da Carta Magna, a insurgência prospera. A Suprema Corte em suas decisões tem demonstrado a não-incidência de dispositivos constitucionais referentes à previdência oficial em casos concernentes a entidades de previdência privada. Assim, tendo em vista que os recorridos integram regime próprio de previdência, as normas constitucionais do art. 201 não cabem na espécie, por tratar do regime geral de previdência social e não do regime de previdência de servidor público, tampouco da previdência de caráter privado”.
+Sendo assim, pelas razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a julgar improcedente a ação ordinária ajuizada pela parte ora recorrida.
+As custas processuais e a verba honorária, que fixo em 10% (dez por cento) sobre o valor atualizado da causa, serão pagas pela parte que sucumbiu integralmente.
+Ressalvo, no entanto, quanto aos encargos resultantes da sucumbência, a hipótese de ser, a parte vencida, beneficiária da gratuidade, caso em que lhe será aplicável a cláusula de exoneração prevista na Lei nº 1.060/50 (art. 3º), observando-se, no que couber, a norma inscrita no art. 12 desse mesmo diploma legislativo, cuja incidência foi reputada compatível com o que dispõe o art. 5º, LXXIV, da Constituição da República (RE 184.841/DF, Rel. Min. SEPÚLVEDA PERTENCE).
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministro CELSO DE MELLO
+Relator
