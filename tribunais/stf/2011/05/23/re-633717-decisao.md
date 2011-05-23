@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim fundamentado, na parte que interessa ao deslinde da causa (fls. 132):
+“ AÇÃO COLETIVA. RECURSO ORDINÁRIO. JUSTIÇA DO TRABALHO. COMPETÊNCIA. TRABALHADOR PORTUÁRIO AVULSO. OPERADORES PORTUÁRIOS. Competência da Justiça do Trabalho para julgar ação coletiva, e,m que estão envolvidos, de um lado, trabalhadores avulsos registrados no OGMO – encarregados de turma de capatazia -, representados pelo SINDAPORT, e, de ouro lado, operadores portuários, representados pelo SOPESP, nos termos dos arts. 114 da Constituição Federal e 643, § 3°, da Consolidação das Leis do Trabalho. NEGOCIAÇÃO PRÉVIA. Comprovação da negociação direta entre as partes, sem êxito, em atendimento ao requisito descrito no art. 114, § 2°, da Constituição Federal. ILEGITIMIDADE ATIVA AD CAUSAM. COMPROVAÇÃO DO QUORUM. Após o cancelamento das Orientações Jurisprudenciais n°s 13 e 21 da Seção Normativa deste Tribunal, a jurisprudência desta Corte firmou-se no sentido de que a validade da assembléia em que se autoriza o sindicato da categoria profissional a ajuizar a ação coletiva depende da demonstração da da observância do quórum estabelecido no art. 859 da Consolidação das Leis do Trabalho, afastando-se a exigência de observância do quórum previsto no art. 612 do Código de Processo Civil e de indicação do número de associados ao sindicato da categoria profissional.
+Quórum legal e estatutário atendidos.”
+2. Pois bem, a parte recorrente aponta afronta aos incisos XXXV, LIV e LV do art. 5°; ao caput e incisos XXVI e XXXIV do art. 7°; aos incisos I, II, III e IV do art. 8°; e ao § 2° do art. 114, todos da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pelo aresto impugnado exigiria o reexame da legislação infraconstitucional pertinente. De se ver, portanto, que a alegada ofensa à Carta Magna, se existente, apenas ocorreria de modo reflexo ou indireto, não ensejando a abertura da via extraordinária.
+4. De mais mais, a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte agravante, o que não caracteriza cerceamento de defesa.
+5. Quanto à reconsideração da multa aplicada à parte agravante, cuida-se de questão eminentemente infraconstitucional, não sendo de ser reapreciada em sede de recurso extraordinário. Veja-se, no mesmo sentido, o RE 371.123, da relatoria do ministro Cezar Peluso.
+6. À derradeira, é de incidir a Súmula 282/STF.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 23 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
