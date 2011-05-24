@@ -1,0 +1,38 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelos advogados Daniel Leon Bialski e Cláudio Hausman, em favor de Manoel Fernandes Rodrigues Júnior, buscando a revogação da prisão preventiva do paciente.
+Apontam como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 170.241/RS, Relator o Ministro Jorge Mussi, impetrado àquela Corte.
+Sustentam os impetrantes, em linhas gerais, o constrangimento ilegal imposto ao paciente, tendo em vista a falta de fundamentação apta a justificar a necessidade da medida constritiva, bem como a ausência dos pressupostos autorizadores da segregação cautelar, previstos no art. 312 do Código de Processo Penal (fls. 4 a 14 da inicial).
+Requerem, liminarmente, concessão da ordem para revogar a segregação cautelar do paciente e, no mérito, pedem a sua confirmação (fl. 19 da inicial).
+Examinados os autos, decido.
+Narram os impetrantes, na inicial, que:
+“(...)
+1.
+Faticamente, em apertadíssima síntese mencione-se que na no começo de janeiro de 2009 – Inquérito 17/09 - a Delegacia de Investigações Sobre entorpecentes da Comarca de Araraquara instaurou Inquérito Policial a fim de apurar “supostamente” o cometimento dos delitos previstos no artigo 33 e 35 da Lei 11.343/06(Doc.01).
+Para isso, a Autoridade Policial se baseou apenas em interceptações telefônicas (Doc.02), e mesmo sem jamais tentar intimar o ora Paciente para comparecimento e esclarecimentos sobre os fatos, requereu a decretação de sua prisão temporária (Doc.03). Esta foi deferida (Doc. 04), todavia foi revogada pela mesma Autoridade Judicial que assim decidira, verbis: '....Assim, decorrido o prazo para oferecimento da denúncia, estando os réus presos por força da prisão temporária, fica evidente o constrangimento ilegal, sendo inviável a decretação da prisão preventiva, que fica indeferida...(sic – Doc.05 – decisão datada de 23/03/09);
+1.2.
+Implemente-se que passados quase 7(sete) meses do indeferimento da custódia cautelar, sem que NADA DE NOVO fosse produzido nos autos, foi apresentada formal acusação – denúncia - contra o ora Paciente e terceiros (Doc.06), repetindo-se o mesmo pedido de decretação do é-dito preventivo, como forma automática da exordial apresentada (Doc.07). Acresça-se que inexplicavelmente que a mesma Magistrada de 1º grau que havia indeferido o mesmo pedido feito há meses, acabou por decretar a custódia, utilizando jargão genérico, sem qualquer elemento concreto que pudesse arrimar e justificar o édito preventivo;
+1.2.1.
+Após repetir o que da denúncia consta, sua Excia, em arrepio ao artigo 93, inciso IX da Carta Magna c.c. artigo 315 da Lei Processual Penal, assim discorreu: '....os delitos imputados ao representados e de-nunciados são de extrema gravidade e nocividade(tráfico de drogas e associação para o tráfico), pois atinge um número indeterminado de pessoas e famílias que na maioria das vezes ficam à mercê de traficantes. Alguns denunciados estão presos por outros processos e outros continuam soltos e praticando o nefasto comércio ilícito de entorpecente, que inclusive atrai delitos de outras natureza, como furto, roubos, receptação e outros. A prisão dos denunciados neste caso é necessária para a manutenção da ordem pública. A prisão preventiva, mostra-se imprescindível para a garantia da instrução criminal, bem como da aplicação da lei penal, posto que em liberdade eles certamente voltarão a traficar e poderão se evadir do distrito da culpa.'(sic-grifo nosso – Doc.08);
+2.
+Ciente desta decisão e porque a custódia cautelar está amparada na gravidade da acusação e em conjecturas sem qualquer base concreta e sem apoio em qualquer respaldo empírico, foi impetrado habeas corpus perante a Corte Estadual contestando a carência de fundamentação da medida e a sua própria desnecessidade. Todavia, o writ foi ali julgado e denegado, tendo a Colenda Câmara extrapolado no julgamento, tentando justificar a necessidade da custódia(Doc.09).
+Ato contínuo, novo writ foi manejado perante a Corte Coatora, acabando por ser denegado, novamente com base em meras suposições sobre a suposta autoria delitiva e na possível fuga do ora Paciente do distrito da culpa (Doc.10). Ou seja, mais uma vez a Corte Julgadora inovou, já que a questão da fuga sequer foi utilizada como fundamento para a decretação da prisão preventiva do ora Paciente!!!! “ (fls. 2/7 da inicial – grifos no original).
+Transcrevo o teor daquele julgado:
+“HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS QUE EVIDENCIAM A EXISTÊNCIA DE ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DA CUSTÓDIA CAUTELAR PARA A TUTELA DA ORDEM PÚBLICA. FUGA DO DISTRITO DA CULPA. GARANTIA DA APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+1. Tendo em vista que as circunstâncias demonstram a existência, em tese, de um grupo criminoso estruturado para a prática do delito de tráfico de drogas, com divisão de tarefas, mostra-se necessária a custódia cautelar para o bem da ordem pública, pois há sérios riscos das atividades ilícitas serem retomadas com a soltura.
+2. A fuga do paciente do distrito da culpa, após o suposto cometimento do ilícito, é motivação suficiente a embasar a manutenção da custódia cautelar, ordenada para assegurar a aplicação da lei penal e para a conveniência da instrução criminal.
+3. Condições pessoais favoráveis, ainda que documentalmente comprovadas, não têm o condão de, por si sós, desconstituir a prisão preventiva, quando há nos autos elementos hábeis, de ordem objetiva ou subjetiva, que autorizam a manutenção da medida extrema, como ocorre in casu.
+4. Ordem denegada”.
+Esse é o julgado pelo qual se insurgem os impetrante neste writ.
+O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos demonstrar manifesto constrangimento ilegal, o que não se verifica na espécie.
+Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal, não se vislumbra, neste momento, nenhuma ilegalidade, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o acórdão proferido por aquela Corte encontra-se suficientemente motivado a justificar a formação de seu convencimento.
+Ademais, em uma análise do decreto prisional em questão, efetivada em juízo de estrita delibação, tenho que ele apresenta, na espécie, fundamentos aptos a justificar, ao menos em sede de cognição sumária, a privação processual da liberdade do ora paciente, porque revestido da necessária cautelaridade, mormente se considerarmos os indícios de que ele seria integrante de organização criminosa voltada à prática de tráfico de entorpecentes.
+Nesse passo, chamo a atenção para a jurisprudência da Corte, preconizada no sentido de que “” (HC nº 104.699/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/11/10).
+Com essas considerações, indefiro a liminar requerida.
+Estando a impetração devidamente instruída com o inteiro teor do acórdão impugnado, dispenso as informações da autoridade coatora.
+Oficie-se, contudo, ao Juízo de Direito da 1º Vara Criminal da Comarca de Araraquara/SP para que preste informações pormenorizadas e atualizadas acerca do andamento da ação penal à qual responde o paciente, bem como informe o eventual cumprimento do mando de prisão expedido.
+Publique-se.
+Brasília, 24 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
