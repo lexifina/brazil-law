@@ -1,0 +1,16 @@
+Trata-se de regimental interposto contra decisão que negou seguimento a agravo de instrumento sob o fundamento de que o Tribunal de origem não estava divergente do entendimento firmado por esta Corte.
+Considerando que foi reconhecida a repercussão geral do tema versado nos autos , reconsidero a decisão de fls. 1.485-1.487, e passo à análise do recurso de fls. 2-19.
+Trata-se de agravo de instrumento contra decisão que inadmitiu o recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“RESSARCIMENTO AO SUS. RECURSO ESPECIAL. VIOLAÇÃO AO ART.535 DO CPC INOCORRENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ACÓRDÃO FULCRADO EM ALICERCE EMINENTEMENTE CONSTITUCIONAL. REFORMA. COMPETÊNCIA. SUPREMO TRIBUNAL FEDERAL.
+I - Não há que se falar em violação ao art. 535 do CPC, eis que o Tribunal a quo ao apreciar a demanda manifestou-se sobre todas as questões pertinentes à litis contestatio, fundamentando seu proceder de acordo com os fatos apresentados e com a interpretação dos regramentos legais que entendeu aplicáveis, demonstrando as razões de seu convencimento. No caso, o acórdão recorrido entendera pela constitucionalidade do artigo 32 da Lei nº 9.656/98, ressaltando, ainda, que a agravante não comprovara a incongruência entre os atendimentos e a cobertura contratual (cf fl. 1251), donde não prospera a tese de que não fora analisado pedido seu sobre a nulidade do débito.
+II - Ausente o prequestionamento acerca do conteúdo inserto nos arts. 128, 131, 165, 458 e 460 do CPC, como também no art. 32, § 8º, da Lei nº 9.656/98, pelo que incidentes os enunciados sumulares nºs 282 e 356 do STF.
+III - Registre-se, ainda, que inviável a averiguação acerca do fato de os preços cobrados com base na tabela TUNEP não refletirem o valor de mercado, tendo em vista que implica em revolvimento de matéria fático-probatória, o que é vedado pelo enunciado sumular nº 7 deste STJ.
+IV - O acórdão recorrido solucionou a contenda sob o enfoque eminentemente constitucional, falecendo competência a este Superior Tribunal para a sua reforma, incumbindo, pois, ao Supremo Tribunal Federal a análise da balda em sede de recurso extraordinário stricto sensu.
+V - Agravo regimental improvido” (fls. 1.430).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LV, e 93, IX, e 105, III, da mesma Carta.
+No caso, o recurso extraordinário versa sobre matéria - Ressarcimento ao Sistema Único de Saúde – SUS, por parte das operadoras de planos privados de assistência à saúde. Despesas referentes a atendimentos prestados pelas entidades públicas ou privadas, conveniadas ou contratadas pelo SUS, aos beneficiários dos planos de saúde. Art. 32 da Lei 9.656/98 - cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 597.064-RG/RJ, Rel. Min. Gilmar Mendes ).
+Isso posto, reconsidero a decisão de fls. 1.485-1.487, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário se discute questão que será apreciada no RE 597.064-RG/RJ.
+Publique-se.
+Brasília, 24 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
