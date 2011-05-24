@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“Perito – Salários – Embargos do devedor – Execução por quantia certa de título extrajudicial – Impugnação dos embargantes fundada na especialidade técnica do perito e no valor excessivo – Perito contabilista, cuja especialidade não foi impugnada, a não ser após a apresentação do laudo – Fundamento irrelevante para a mitigação dos salários – Salários estimados em conformidade com a hora trabalhada, cuja remuneração tem respaldo em resolução do Conselho Federal de Contabilistas – Fixação pelo juízo abaixo da metade da estimativa – Razoabilidade – Recurso desprovido” (fl. 147).
+No RE fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LIV e LV, da mesma Carta.
+Sustentou-se, ainda, que “(...) imperiosa a necessidade da dilação probatória para a comprovação dos fatos alegados na inicial desta demanda” (fl. 176).
+O agravo não merece acolhida. Isso porque, o Supremo Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, confira-se o recente julgado:
+“Agravo regimental no agravo de instrumento. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Indeferimento de diligência probatória. Ausência de violação à Constituição Federal. Precedentes. 1. As alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República. 2. O indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. 3. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 660.254-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 24 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
