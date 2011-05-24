@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“REMESSA NECESSÁRIA. AÇÃO ORDINÁRIA. REVISÃO DE PROVENTOS. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR – GAP. EXTENSÃO DO BENEFÍCIO AOS INATIVOS. POSSIBILIDADE. PRINCÍPIO DA ISONOMIA. SENTENÇA DE PARCIAL PROCEDÊNCIA TOTALMENTE INTEGRADA.
+(...)” (fl.92).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput e XXXV, 39, § 1º, 40, § 8º , e 93, IX, da mesma Carta.
+O agravo não merece acolhida. Isso porque, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Lei 7.145/97) . Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO POR ATIVIDADES DE POLÍCIA MILITAR - GAP. EXTENSÃO AOS INATIVOS. DIREITO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 1. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Precedentes. Agravo regimental a que se nega provimento”.
+Por fim, o Tribunal firmou orientação no sentido de que não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, transcrevo ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 712.035-AgR/RJ, Rel. Min. Ellen Gracie; AI 529.105-AgR/CE, Rel. Min. Joaquim Barbosa; AI 743.094-AgR/RJ, Rel. Min. Eros Grau; AI 590.140-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 414.618-AgR/RN, Rel. Min. Ayres Britto; RE 520.187-AgR/MG, de minha relatoria.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 24 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
