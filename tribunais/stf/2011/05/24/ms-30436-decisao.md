@@ -1,0 +1,21 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Adyanna Macedo de Matos, em face do Procurador-Geral da República, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+Em síntese, a impetrante alega ter sido aprovada em prova objetiva, mas não teria conseguido alcançar a nota mínima para a aprovação em prova discursiva.
+Sustenta que apresentou recursos administrativos contra o resultado da prova discursiva e que, apesar de deferidos, seu nome não foi incluído na lista de candidatos aprovados para o cargo de Analista Administrativo.
+Requer a concessão de medida liminar para que a autoridade coatora
+“proceda à inclusão em caráter de urgência do nome da IMPETRANTE na lista de Cadastro Reserva para o cargo de Analista Administrativo do MPU/RJ, suspendendo-se o certame para que não seja chamado mais nenhum dos candidatos aprovados antes do julgamento do mérito da presente demanda, reservando-se a vaga da impetrante, expedindo-se os competentes mandados”.
+No mérito pugna pela concessão definitiva da segurança, a fim de que a autoridade coatora “proceda em definitivo à retificação do edital n. 28, de 10 de novembro de 2010, passando, a Impetrante, dessa forma, a constar na lista de Cadastro Reserva para o cargo de Analista Administrativo do MPU/RJ ou, se for o caso, nomeada nos precisos termos do edital”.
+A autoridade impetrada prestou informações (Petição n. 20.682/2011) sustentando que, mesmo após o deferimento dos recursos administrativos, a impetrante não conseguiu atingir a nota mínima prevista no edital.
+A União requereu seu ingresso no feito nos termos da Petição n. 20.724/2011.
+Decido.
+A impetrante afirma que, com o deferimento dos recursos administrativos apresentados, teria alcançado a nota mínima necessária para a aprovação no concurso.
+Todavia, a autoridade coatora, em suas informações, salientou que:
+“(...) o fato é que mesmo após o deferimento dos recursos administrativos, ela obteve nota insuficiente na sua prova discursiva (3,63 pontos), motivo pelo qual foi eliminada do certame”.
+No caso, a impetrante não comprovou direito líquido e certo apto a ensejar a concessão do mandado de segurança, uma vez que, conforme demonstrado pelo impetrado, sua nota foi inferior ao mínimo exigido pelo edital do concurso.
+Por outro lado, é pacífica a jurisprudência desta Corte no sentido de que não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir a banca examinadora para reexaminar o conteúdo das questões e os critérios de correção formulados, de modo a aumentar a mencionada nota. Confira-se:
+“CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005).” (MS 27260, Rel. Min. CARLOS BRITTO, Rel.p/ Acórdão: Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe 26.3.2010)
+Ante o exposto, na linha da jurisprudência desta Corte, nego seguimento ao presente mandado de segurança e julgo prejudicado o pedido liminar (art. 10 da Lei 12.016/09).
+Publique-se.
+Brasília, 24 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
