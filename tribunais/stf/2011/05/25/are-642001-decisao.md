@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL ESTATAL. NECESSIDADE DE REEXAME DE PROVA: SÚMULA N. 279 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+“Nos autos nota-se que o Sr. João Bosco Fontes Barbosa, escrivão da 2ª Vara Criminal de Umuarama, detinha em sua posse, ilegalmente, arma de fogo que foi apreendida em inquérito policial mediante falsa certidão de destruição da arma.
+Arma esta que foi usada para tirar a vida do Sr. José Umberto Romagnolli diante de uma discussão após o jogo de tranca. Ou seja, fora do horário de expediente, não mantendo qualquer relação do fato com a função pública exercida.
+Não pode ser imputado a culpa ao Estado, sendo que o serventuário agiu de forma ilegal, se aproveitando do arquivamento dos autos do inquérito. Fato este que ocorreu em 1994, ou seja, 9 anos antes do fato delituoso.
+Portanto, é evidente que não dá para estabelecer o nexo de causalidade entre a apropriação indébita da arma com a prática do homicídio” (fl. 178 – grifos nossos).
+2. As Recorrentes alegam que o Tribunal a quo teria contrariado o art. 37, § 6º, da Constituição da República, pois a Corregedoria de Justiça se teria omitido no dever de fiscalizar os atos praticados por servidor público, nos termos da Lei Estadual n. 7.297/1980.
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal (fls. 236-237).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos mesmos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Razão jurídica não assiste às Agravantes.
+6. Para se analisar a alegação de omissão estatal, seria imprescindível o reexame de prova, o que é vedado pela Súmula n. 279 do Supremo Tribunal. Nesse sentido:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO POR OMISSÃO CULPOSA. RELEVÂNCIA DA CULPA “IN VIGILANDO” NA PRODUÇÃO DO RESULTADO DANOSO. DISCUSSÃO EMINENTEMENTE FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (RE 461.073-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 2.12.2010 – grifos nossos).
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. ART. 37, § 6º, DA CF/88. POLICIAL MILITAR ALVEJADO EM TROCA DE TIRO COM ASSALTANTES. AUSÊNCIA DE PROVAS. FATOS E PROVAS. SÚMULA STF 279. 1. O acórdão recorrido, diante dos elementos dos autos, afastou a responsabilidade do Estado ante a ausência de provas de alegada culpa estatal na operação policial da qual participava quando foi alvejado na troca de tiros com assaltantes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade extracontratual do Estado. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. Precedentes. 4. Agravo regimental improvido” (RE 558.911-AgR, Rel. Min. Ellen Gracie, Segunda Turma, Dje 28.8.2009 – grifos nossos).
+“RESPONSABILIDADE CIVIL DO PODER PÚBLICO - PRESSUPOSTOS PRIMÁRIOS QUE DETERMINAM A RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO - O NEXO DE CAUSALIDADE MATERIAL COMO REQUISITO INDISPENSÁVEL À CONFIGURAÇÃO DO DEVER ESTATAL DE REPARAR O DANO – NÃO COMPROVAÇÃO, PELA PARTE RECORRENTE, DO VÍNCULO CAUSAL - RECONHECIMENTO DE SUA INEXISTÊNCIA, NA ESPÉCIE, PELAS INSTÂNCIAS ORDINÁRIAS - SOBERANIA DESSE PRONUNCIAMENTO JURISDICIONAL EM MATÉRIA FÁTICO-PROBATÓRIA - INVIABILIDADE DA DISCUSSÃO, EM SEDE RECURSAL EXTRAORDINÁRIA, DA EXISTÊNCIA DO NEXO CAUSAL - IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 279/STF) - RECURSO DE AGRAVO IMPROVIDO” (RE 481.110-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 9.3.2007 – grifos nossos).
+“Recurso extraordinário: descabimento: o acórdão recorrido fundamentou-se na responsabilidade civil do Estado, baseada em omissão ou falta culposa ou faute de service do aparelhamento administrativo: patente a inadequação do recurso extraordinário para reexame de legislação infraconstitucional ou revisão dos pressupostos de fato da afirmação da culpa ou concorrência da Administração para o evento danoso: incidência das Súmulas 279 e, mutatis mutandis, 636” (AI 603.470-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 10.8.2007).
+7. Nada há a prover quanto às alegações das Agravantes.
+8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 25 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
