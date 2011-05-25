@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. TESTE PSICOTÉCNICO. INAPTIDÃO DE CANDIDATO. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE ANÁLISE DE CLÁUSULAS EDITALÍCIAS. SÚMULAS N. 279, 280 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+“CONCURSO PÚBLICO. AÇÃO DECLARATÓRIA. CARGO DE FISCAL DE TRÂNSITO. MUNICÍPIO DE CAXIAS DO SUL. INAPTIDÃO EM TESTE PSICOTÉCNICO. POSSIBILIDADE. LAUDO QUE SE MOSTRA VÁLIDO E EFICAZ. REALIZAÇÃO DE PERÍCIA JUDICIAL QUE CONFIRMOU A INAPTIDÃO DO CANDIDATO. DIREITO NÃO DEMONSTRADO” (fl. 270).
+No voto condutor do acórdão recorrido tem-se que:
+“No caso concreto, tenho que não assiste razão ao apelante. Isso porque não comprovou a ilegalidade do exame psicotécnico a que foi submetido, tampouco o direito à posse e à percepção de valores a título de remuneração ou indenização pela sua exoneração, haja vista que o teste estava previsto no Edital de Abertura do Certame n. 02/2003, item 12.2.1, ‘j’ (fl. 24), em consonância com a LC – Caxias do Sul n. 3.673/91 (Estatuto dos Servidores Municipais), tendo sido oportunizada defesa ao candidato, consoante se verifica do processo administrativo instaurado, cujas cópias estão às fls. 46-55, embora incompleto. Ademais, o autor requereu e teve acesso ao parecer psicológico do seu teste (fls. 62 e 37-9), a demonstrar sua insurgência na via administrativa” (fls. 271-271 v. - grifos nossos).
+3. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. LV, e 37 da Constituição da República.
+Argumenta que, “em nenhum momento nos autos fica declarado quais são os critérios objetivos previstos no edital ou mesmo utilizado pelo psicólogo para avaliar o candidato. O edital, reconhecidamente, nada prevê, mas o acórdão alega que o teste foi pautado por critérios objetivos” (fl. 301).
+Sustenta que “não teve acesso ao laudo, aos testes aplicados e tampouco lhe foi propiciado recurso administrativo” (fl. 304).
+4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que incidiria na espécie a Súmula n. 279 do Supremo Tribunal Federal (fls. 318-320).
+Examinados os elementos havidos nos autos, DECIDO.
+5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+6. Razão jurídica não assiste ao Agravante.
+7. O Tribunal de origem analisou a Lei municipal n. 3.673/1991, as provas dos autos e as cláusulas do edital do concurso público e concluiu que a declaração de inaptidão do candidato, com base em exame psicotécnico, teria sido legal.
+Concluir de modo diverso demandaria o reexame daquela legislação infraconstitucional, dos elementos fático-probatórios dos autos e de cláusulas editalícias, o que inviabiliza o processamento do recurso extraordinário e atrai a incidência das Súmulas n. 279, 280 e 454 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME DE SAÚDE. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL E DE CLÁUSULAS EDITALÍCIAS. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DAS SÚMULAS N. 280 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 817.884-AgR, de minha relatoria, Primeira Turma, DJe 23.2.2011).
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 473.719-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 31.7.2008).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. INTERPRETAÇÃO DAS CLÁUSULAS EDITALÍCIAS. IMPOSSIBILIDADE. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Interpretação das cláusulas editalícias. Inviabilidade do recurso extraordinário. Súmula 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 743.126-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 4.6.2009).
+8. Nada há a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 25 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
