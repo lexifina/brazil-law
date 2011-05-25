@@ -1,0 +1,13 @@
+Ressalto, preliminarmente, que, em que pese o erro procedimental adotado nos presentes autos, tendo em vista que o agravo contra decisão que negou seguimento ao recurso extraordinário foi interposto em data posterior à vigência da Lei 12.322, de 9 de setembro de 2010, que alterou o procedimento destes recursos, julgo-o, desde logo, em obediência aos princípios constitucionais da celeridade e da economia processual.
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário, cuja ementa segue transcrita:
+“ADMINISTRATIVO. ASSÉDIO MORAL. DISPUTA INTERNA DE PODER. DEPARTAMENTO MÉDICO-UNIVERSITÁRIO. DANO MORAL POR COMUNICAÇÕES QUE EXTRAPOLAREM O RAZOÁVEL NO QUE FORA DITO SOBRE O AUTOR.
+Apelações e remessa oficial improvidas” (fl. 1.130).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, V e X, e 37, caput e § 6º, da mesma Carta.
+O agravo não merece acolhida. É que para dissentir da conclusão adotada pelo acórdão recorrido quanto à ausência de demonstração do assédio moral, bem como à existência do dano moral, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 826.234-AgR/SP, Rel. Min. Cármen Lúcia; AI 783.269-AgR/SP, Rel. Min. Joaquim Barbosa; AI 704.590-AgR/RJ, Rel. Min. Ellen Gracie; AI 766.309-AgR/RS, Rel. Min. Eros Grau, Segunda Turma.
+Ressalta-se, ademais, que, quanto à suposta violação ao art. 37, § 6º, da Magna Carta, o recurso, de igual forma, não merece prosperar, uma vez que para dissentir do acórdão recorrido quanto à responsabilidade civil subjetiva, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+“RESPONSABILIDADE CIVIL DO PODER PÚBLICO - PRESSUPOSTOS PRIMÁRIOS QUE DETERMINAM A RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO - O NEXO DE CAUSALIDADE MATERIAL COMO REQUISITO INDISPENSÁVEL À CONFIGURAÇÃO DO DEVER ESTATAL DE REPARAR O DANO - NÃO-COMPROVAÇÃO, PELA PARTE RECORRENTE, DO VÍNCULO CAUSAL - RECONHECIMENTO DE SUA INEXISTÊNCIA, NA ESPÉCIE, PELAS INSTÂNCIAS ORDINÁRIAS - SOBERANIA DESSE PRONUNCIAMENTO JURISDICIONAL EM MATÉRIA FÁTICO-PROBATÓRIA - INVIABILIDADE DA DISCUSSÃO, EM SEDE RECURSAL EXTRAORDINÁRIA, DA EXISTÊNCIA DO NEXO CAUSAL - IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA (SÚMULA 279/STF) - RECURSO DE AGRAVO IMPROVIDO (...)” (RE 481110 AgR/PE, Rel. Min. Celso de Melo, Segunda Turma).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 25 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
