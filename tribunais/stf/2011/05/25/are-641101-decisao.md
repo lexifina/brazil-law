@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+2. O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+“PROCESSO CIVIL. ALIENAÇÃO DE BEM IMÓVEL LITIGIOSO. TERCEIRO ADQUIRENTE. EXTENSÃO DOS EFEITOS DA SENTENÇA. LIMITES.
+1. A regra do art. 42, § 3º, do CPC, que estende ao terceiro adquirente os efeitos da coisa julgada, somente deve ser mitigada quando for evidenciado que a conduta daquele tendeu à efetiva apuração da eventual litigiosidade da coisa adquirida. Há uma presunção relativa de ciência do terceiro adquirente acerca da litispendência, cumprindo a ele demonstrar que adotou todos os cuidados que dele se esperavam para a concretização do negócio, notadamente a verificação de que, sobre a coisa, não pendiam ônus judiciais ou extrajudiciais capazes de invalidar a alienação.
+2. Na alienação de imóveis litigiosos, ainda que não haja averbação dessa circunstância na matrícula, subsiste a presunção relativa de ciência do terceiro adquirente acerca da litispendência, pois é impossível ignorar a publicidade do processo, gerada pelo seu registro e pela distribuição da petição inicial, nos termos dos arts. 251 e 263 do CPC. Diante dessa publicidade, o adquirente de qualquer imóvel deve acautelar-se, obtendo certidões dos cartórios distribuidores judiciais que lhe permitam verificar a existência de processos envolvendo o comprador, dos quais possam decorrer ônus (ainda que potenciais) sobre o imóvel negociado.
+3. Cabe ao adquirente provar que desconhece a existência de ação envolvendo o imóvel, não apenas porque o art. 1.º, da Lei n.º 7.433/85, exige a apresentação das certidões dos feitos ajuizados em nome do vendedor para lavratura da escritura pública de alienação, mas, sobretudo, porque só se pode considerar, objetivamente, de boa-fé o comprador que toma mínimas cautelas para a segurança jurídica da sua aquisição.
+4. Recurso ordinário em mandado de segurança a que se nega provimento” (fl. 608 – grifos nossos).
+No voto condutor do acórdão recorrido tem-se que:
+“II – Da ofensa dos limites subjetivos da coisa julgada e do devido processo legal. Violação ao art. 472 do CPC.
+(...)
+Também não se constata violação dos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, visto que, nos termos do art. 626 do CPC, alienada a coisa quando já litigiosa, expedir-se-á mandado contra o terceiro adquirente, que somente será ouvido depois de depositá-la” (fls. 597-598).
+3. O Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+Argumenta que “o Código de Processo Civil, em seu art. 472, estabelece os limites subjetivos da coisa julgada, enunciando que a sentença faz coisa julgada às partes entre as quais é dada (que, presumidamente, exerceram o seu direito ao devido processo legal, utilizando-se da ampla defesa e do contraditório), não beneficiando, nem prejudicando, terceiros” (fl. 639).
+4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que incidiriam na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal (fls. 658-660).
+Examinados os elementos havidos nos autos, DECIDO.
+5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+6. Inicialmente, cumpre afastar o fundamento da decisão agravada de que o Agravante não teria prequestionado os dispositivos constitucionais tidos por afrontados, pois o acórdão recorrido foi expresso ao se manifestar sobre os princípios do contraditório, da ampla defesa e do devido processo legal.
+Todavia, razão jurídica não assiste ao Agravante.
+7. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, de dispositivos do Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 663.125-AgR, de minha relatoria, Primeira Turma, DJe 8.10.2009).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE CERCEAMENTO DE DEFESA POR JULGAMENTO ANTECIPADO DA LIDE. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Precedentes. Agravo regimental a que se nega provimento” (AI 587.873-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 10.6.2010 – grifos nossos).
+8. Nada há, pois, a prover quanto às alegações do Agravante.
+9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 25 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
