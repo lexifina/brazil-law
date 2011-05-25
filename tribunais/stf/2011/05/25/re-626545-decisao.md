@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Amapá que, afastando a prescrição e reconhecendo a inexistência de ato jurídico perfeito, determinou a restituição a associado de parcelas pagas a plano de previdência privada, com incidência de correção monetária e juros de mora.
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 5º, XXXII, XXXVI e LV; 170, V; 195, § 5º; e 202, caput, do CPC.
+     Decido.
+     O recurso não merece prosperar.
+    A jurisprudência desta Corte firmou-se no sentido de que a afronta aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional.
+    Cito, a propósito, os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011 e AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011.
+     Ademais, verifico que o Tribunal de origem examinou a controvérsia à luz da legislação infraconstitucional referente à prescrição. A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+     Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E CIVIL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DAS CONTRIBUIÇÕES. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 693.967, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 13.3.2009).
+    “Agravo regimental em agravo de instrumento. 2. Embargos de declaração em recurso de revista. 3. Prescrição. Marco inicial. Ofensa reflexa à Constituição Federal. Precedentes. 4. Art. 93, IX, da Constituição. Ofensa não configurada. Decisão devidamente fundamentada. 5. Agravo regimental a que se nega provimento” (AI-AgR 581.789, de minha relatoria, Segunda Turma, DJ 2.2.2007).
+     Ademais, para divergir do que decidido pelo acórdão recorrido, faz-se imprescindível a análise das cláusulas inscritas nos Planos de Benefícios da SISTEL – PBS e da legislação infraconstitucional aplicável (Lei nº 6.435/77 e Decreto nº 81.240/78). Eventual ofensa à Constituição, acaso existente, se daria de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+     Incide, portanto, a Súmula 454 do STF.
+     Confira-se:
+    “Previdência Privada: complementação de aposentadoria: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional (Decreto 81.240/78 e Lei 6.435/77): alegada ofensa a dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636. 2. Recurso extraordinário: inadmissibilidade: alegação de contrariedade ao artigo 5º, XXXVI, da CF, para cuja verificação seria necessária a interpretação de cláusulas do regulamento da entidade de previdência privada: incidência das Súmulas 279 e 454. 3. Recurso extraordinário: invocação impertinente do art. 195, § 5º, da CF, que diz respeito apenas à seguridade social financiada por toda a sociedade. 4. Agravo regimental: necessidade de impugnação dos fundamentos da decisão agravada: precedentes” (AI-AgR 530.944, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 5.8.2005).
+    Por fim, esta Corte, nos autos do RE-RG 582.504, Rel. Min. Cezar Peluso, DJe 9.10.2009, reconheceu a ausência de repercussão geral quanto à discussão acerca da incidência de correção monetária sobre a verba a ser restituída a associados que se desligam de plano de previdência privada, nos seguintes termos:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 25 de maio de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
