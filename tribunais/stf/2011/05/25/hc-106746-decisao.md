@@ -1,0 +1,21 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de William Henry Howard Ogle ou Pierre Jacques Dellannoy, nacional norte-americano, buscando a revogação da prisão preventiva do paciente, decretada nos autos da Extradição nº 944/Governo dos Estados Unidos da América.
+Aponta como autoridade coatora o Ministro Ayres Britto, deste Supremo Tribunal Federal, Relator daquela extradição.
+Sustenta a impetrante, em síntese, o excesso de prazo para o cumprimento das formalidades para a efetivação da extradição e a falta de interesse por parte do Estado requerente. Aduz, para tanto que:
+“(...)
+No que tange à situação do paciente, verificou-se que, em 30 de setembro de 2004, fora deferido pela autoridade impetrada pedido de prisão cautelar, no bojo da Extradição nº 944 Estados Unidos da América, para que respondesse ao referido processo sob custódia, todavia, já se encontrava preso em face de um processo-crime que respondia perante a Justiça Brasileira (Processo nº 2003.39.00.008947-6-Justiça Federal), e que, em 19 de dezembro de 2005, foi deferida a Extradição do paciente, condicionada ao término do processo penal e cumprimento de eventual pena perante a Justiça Brasileira, bem como o compromisso formal por parte do Estado requerente de comutar a possível pena de prisão perpétua em pena de prisão perpétua em pena de prisão com o prazo máximo de 30 (trinta) anos. Ocorre que o paciente teve extinta a punibilidade no processo que respondia perante a Justiça brasileira em 17 de maio de 2010, contudo, passados mais de 120 (cento e vinte) dias contados da publicação da extinção da punibilidade, o mesmo continua privado de sua liberdade em razão da ordem de prisão emanada, há mais de seis anos, pelo eminente Relator da Extradição 944.
+(...)
+Sucede que, em quase cinco anos contados do deferimento do pedido de Extradição, nenhuma manifestação por parte dos Estados Unidos, sobre o cumprimento do requisito para a sua efetivação, no caso o compromisso formal quanto à pena que poderia ser imputada ao extraditando, foi apresentada, o que evidencia a perda do interesse processual do Estado requerente” (fls. 3 a 5 da inicial).
+Requer o deferimento da medida liminar para revogar de imediato a prisão preventiva do paciente e, no mérito, pede a confirmação da liminar requerida e a extinção da Extradição nº 944 (fl. 9 da inicial).
+O Presidente desta Suprema Corte, Ministro Cezar Peluso, no período de recesso forense, solicitou informações à autoridade coatora, Ministro Ayres Britto, Relator da Extradição nº 944. As informações foram prestadas por intermédio da Petição/STF nº 1.636/11.
+Considerando o teor das informações constantes na referida petição, solicitei informações complementares ao eminente Relator da extradição sobre a eventual manifestação do Ministro de Estado da Justiça a respeito das indagações que lhe foram dirigidas por meio do Ofício nº 001/11/GAB, concernentes à possibilidade de haver imediata autorização da Sra. Presidenta da República para a entrega do extraditando ao Estado requerente. Por intermédio da Petição/STF nº 13.240/11, informou Sua Excelência que reiterou o ofício dirigido ao Ministro de Estado da Justiça.
+Em 4/4/11, o eminente Ministro Ayres Britto encaminhou ao meu Gabinete o Ofício nº 1.995/R, contendo cópia da decisão que proferiu naquela extradição em 25/3/11.
+Considerando as detalhadas informações presentes naquela decisão, determinei à Secretaria que substituísse a autoridade coatora apontada no processo, de Relator da Extradição nº 944 do Supremo Tribunal Federal para Presidente da República, bem como solicitei novas informações ao eminente Ministro Ayres Britto.
+Em 20/5/11, sua Excelência encaminhou ao meu Gabinete o Ofício nº 07/2011/GAB, no qual informa que “o Estado requerente da Extradição nº 944 desistiu do pleito extradicional. Pelo que determinei a imediata expedição do alvará de soltura do extraditando”.
+Assim, em virtude de não mais subsistir o constrangimento ilegal contra o qual se dirigia o presente habeas corpus, fica evidenciada a perda de objeto, razão pela qual, nos termos dos arts. 21, inciso IX, do RISTF e 38 da Lei nº 8.038/90, julgo-o prejudicado e, em consequência, o pedido de liminar.
+Publique-se.
+Brasília, 25 de maio de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
