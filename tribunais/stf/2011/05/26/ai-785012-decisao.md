@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 59):
+“Apelação Cível. Recurso Adesivo. Responsabilidade civil objetiva. Inteligência do art. 37, § 6º CF/88. Morte de menor de quatro anos de idade por atropelamento ao fugir por um buraco na parede de escola pública municipal em horário que estaria sob a guarda desta. Omissão dos agentes escolares. Ausência de provas de eventuais excludentes de responsabilidade. Dever de indenizar. Sentença que tão só reconhece os danos morais fixando indenização em 200 SM para cada autor não reconhecendo o direito dos autores – pais do menor vitimado, ao pensionamento. Inteligência da súm. 491 STJ.”
+2. Pois bem, a parte recorrente alega violação ao § 6º do art. 37 da Magna Carta de 1988.
+3. Tenho que a insurgência não merece acolhida. É que o entendimento adotado pela instância judicante de origem afina com a jurisprudência desta nossa Casa de Justiça. Leia-se, por esclarecedor, o seguinte trecho do voto do RE 109.615, da relatoria do ministro Celso de Mello:
+“A obrigação de preservar a intangibilidade física dos alunos, enquanto estes se encontrarem no recinto do estabelecimento escolar, constitui encargo indissociável do dever que incumbe ao Estado de dispensar proteção efetiva a todos os estudantes que se acharem sob a guarda imediata do Poder Público nos estabelecimentos oficiais de ensino. Descumprida essa obrigação, e vulnerada a integridade corporal do aluno - tal como no caso ocorreu -, emerge a responsabilidade civil do Poder Público pelos danos causados a quem, no momento do fato lesivo, se achava sob a guarda, atenção, vigilância e proteção das autoridades e dos funcionários escolares.”
+4. De mais a mais, o acórdão recorrido reconheceu a presença dos elementos configuradores da responsabilidade objetiva, quais sejam, dano, ação ou omissão do agente e o nexo de causalidade entre estes. Desse modo, para se chegar a conclusão diversa da adotada, seria necessário o revolvimento do conjunto fático-probatório dos autos, procedimento vedado pela Súmula 279/STF.
+Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 26 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
