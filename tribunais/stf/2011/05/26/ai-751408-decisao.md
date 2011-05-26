@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. IPTU DO MUNICÍPIO DE BELO HORIZONTE. ALÍQUOTAS DIFERENCIADAS. AUSÊNCIA DE PROGRESSIVIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+“TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS. IPTU. MUNICÍPIO DE BELO HORIZONTE. ALÍQUOTAS SELETIVAS. CONSTITUCIONALIDADE. TAXA DE LIMPEZA PÚBLICA. ILEGALIDADE. Não são inconstitucionais as alíquotas seletivas de IPTU no Município de Belo Horizonte previstas em Lei Municipal, para os exercícios de 1997 a 2000. Os serviços de ‘varrição de vias públicas, limpeza de bueiros’, e ‘desinfecção de vias e logradouros públicos’ estabelecidas pelo Município de Belo Horizonte até antes da promulgação da Lei nº 8.147/2000, não podem ser objeto de taxa em razão do caráter universal que assumem” (fl. 127).
+Os embargos de declaração opostos foram rejeitados (fls. 144-145).
+3. No recurso extraordinário a Agravante afirma que o acórdão recorrido, ao concluir que a Lei municipal n. 5.641/89, alterada posteriormente pelas Leis n. 7.242/96 e 7.638/98, não instituíra alíquota progressiva de IPTU, mas alíquotas seletivas, teria contrariado a Súmula 668 STF, bem como os arts. 145, § 1º, 156, § 1º, e 182, §§ 2º e 4º, da Constituição da República.
+Argumenta que:
+“Buscando o cumprimento da função social da propriedade, a Recorrida divide os imóveis em espécies diferentes, para efeito de cálculo do IPTU, instituindo a progressividade desse imposto municipal, com base na extrafiscalidade, deixando claro e evidente o seguinte propósito: o proprietário que não imprimir à sua propriedade a respectiva função social arcará com a majoração do IPTU, sendo que, a partir do momento em que o fizer, será beneficiado com a redução do valor do referido imposto.
+Contudo, para que se possa aplicar a progressividade visando o cumprimento da função social de determinado imóvel, mister a interpretação do primitivo art. 156, inc. I. com o art. 182, § 2º e § 4º, devendo estar presentes os requisitos nestes últimos previstos, sob pena de inconstitucionalidade.
+(...)
+Ocorre que quando dos lançamentos dos impostos sob discussão, não havia lei federal regulando o dispositivo constitucional supra transcrito, sendo que, somente em 2001, foi editado O ‘Estatuto da Cidade, Lei nº 10.257, publicada em 10/07/2001.
+A referida lei federal regulou o art. 182 da Constituição Federal, dispondo que o IPTU progressivo somente pode ser instituído mediante lei municipal específica para área incluída no plano diretor e em caso de descumprimento das condições e prazos previstos para o parcelamento, edificação ou utilização compulsória do imóvel que não está cumprindo a função social (arts. 5º e 7º).
+Inobstante a ausência de lei federal regulando o disposto no art. 182 da Constituição Federal, o Município de Belo Horizonte também não editou qualquer lei específica com as condições essenciais, para a cobrança do IPTU progressivo, quais sejam: a previsão inicial do parcelamento, edificação ou utilização compulsória do imóvel e, posteriormente, no caso de descumprimento de quaisquer das condições anteriores, a instituição da progressividade do IPTU no tempo.
+Assim, mister concluir pela existência de progressividade extrafiscal na cobrança do IPTU em apreço, mesmo com a modificação da lei 5.641/89 pelas leis 7.242/96 e 7.633/98, pois que há diferenciação de alíquotas do IPTU visando ao cumprimento da função social da propriedade, o que apenas poderia ocorrer após a edição do Estatuto Social, que foi posterior aos exercícios questionados pelo presente” (fls. 155-156, grifos no original).
+4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário o argumento de que seu acórdão estaria de acordo com jurisprudência do Supremo Tribunal Federal (fls. 174-176).
+A Agravante afirma que o posicionamento manifestado no RE 454.916, Rel. Min. Eros Grau, DJ 20.6.2006, apontado pela decisão agravada, seria isolado, não havendo, ainda, manifestação definitiva do Supremo Tribunal na matéria.
+Analisados os elementos havidos nos autos, DECIDO.
+5. Razão jurídica não assiste à Agravante.
+A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a aplicação de alíquotas diferenciadas com fundamento em critérios que não considerem a capacidade contributiva não configura progressividade. Nesse sentido os seguintes julgados:
+“EMENTA: TRIBUTÁRIO. IPTU. MUNICÍPIO DE SÃO JOSÉ DO RIO PRETO. LEI Nº 5.447/93, ART. 25, REDAÇÃO DA LEI Nº 5.722/94. ALEGADA OFENSA AO ART. 156 DA CONSTITUIÇÃO. Simples duplicidade de alíquotas, em razão de encontrar-se, ou não, edificado o imóvel urbano, que não se confunde com a progressividade do tributo, que o STF tem por inconstitucional quando não atendido o disposto no art. 156, § 1º, aplicado com as limitações expressamente constantes dos §§ 2º e 4º do art. 182 da Carta de 1988. Recurso não conhecido” (RE 229.233, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 25.6.1999).
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. IPTU. DIVERSIDADE DE ALÍQUOTAS. PROGRESSIVIDADE. ALEGAÇÃO IMPROCEDENTE. Diversidade de alíquotas para a cobrança do IPTU, em virtude de tratar-se de imóvel edificado, não-edificado, residencial ou comercial. Progressividade de tributo. Alegação improcedente. Precedente. Agravo regimental não provido” (RE 469.360-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 21.9.2007).
+6. Inadmissível também o recurso extraordinário pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição da República. Incide, na espécie, a Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+“Recurso extraordinário. - Inocorrência da hipótese prevista na alínea ‘c’ do inciso III do artigo 102 da Constituição Federal. Falta de fundamentação, por isso mesmo, a esse respeito. Aplicação da Súmula 284” (RE 148.355, Rel. Min. Moreira Alves, Primeira Turma, DJ 5.3.1993).
+7. Não há, pois, o que prover quanto às alegações da Agravante.
+8 . Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se .
+Brasília, 26 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
