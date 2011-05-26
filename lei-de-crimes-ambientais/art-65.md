@@ -1,3 +1,4 @@
-Art. 65. Pichar, grafitar ou por outro meio conspurcar edificação ou monumento urbano:
-Pena - detenção, de três meses a um ano, e multa.
-Parágrafo único. Se o ato for realizado em monumento ou coisa tombada em virtude do seu valor artístico, arqueológico ou histórico, a pena é de seis meses a um ano de detenção, e multa.
+Art. 65. Pichar ou por outro meio conspurcar edificação ou monumento urbano:
+Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.
+§ 1º Se o ato for realizado em monumento ou coisa tombada em virtude do seu valor artístico, arqueológico ou histórico, a pena é de 6 (seis) meses a 1 (um) ano de detenção e multa.
+§ 2º Não constitui crime a prática de grafite realizada com o objetivo de valorizar o patrimônio público ou privado mediante manifestação artística, desde que consentida pelo proprietário e, quando couber, pelo locatário ou arrendatário do bem privado e, no caso de bem público, com a autorização do órgão competente e a observância das posturas municipais e das normas editadas pelos órgãos governamentais responsáveis pela preservação e conservação do patrimônio histórico e artístico nacional.
