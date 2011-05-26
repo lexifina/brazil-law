@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 134):
+“DIREITO PROCESSUAL E ADMINISTRATIVO. DILAÇÃO PROBATÓRIA. PODER-DEVER DO JUIZ DE INDEFERIR PROVAS INÚTEIS. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SERVIDORES DO EXECUTIVO. URV. CONVERSÃO DOS VENCIMENTOS. DIA DO PAGAMENTO X ÚLTIMO DIA DO MÊS. PREJUÍZO INEXISTENTE. APELO DESPROVIDO. 1. A prova é dirigida ao juízo que, segundo o princípio da celeridade processual, tem o poder-dever de indeferir as inúteis e impertinentes, proferindo o julgamento antecipado da lide quando se tratar de questão exclusivamente de direito. 2. A jurisprudência já firmou posição de que a diferença decorrente da conversão dos salários em cruzeiros reais para URV, quanto aos dias utilizados para sua conversão, somente causou prejuízos aos servidores que, por determinação constitucional, recebem seus vencimentos no dia 20 do mês de competência - situação que não abrange os servidores do Executivo, conforme se extrai do art. 168, da Constituição Federal.”
+2. Pois bem, a parte recorrente alega violação ao inciso LV do art. 5º, ao inciso VI do art. 22, e ao inciso IX do art. 93 da Carta Magna.
+3. Tenho que a insurgência não merece acolhida. De saída, anoto que a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não vulnera as garantias constitucionais do contraditório e da ampla defesa a decisão que, motivadamente, indefere determinada diligência probatória. A propósito, os AIs 144.548-AgR, da relatoria do ministro Sepúlveda Pertence; e 382.214, da relatoria do ministro Celso de Mello, este último assim fundamentado, na parte que interessa ao deslinde da causa:
+“Entendo não assistir razão à parte ora recorrente, eis que o indeferimento da produção de prova não se qualifica, só por si, como ato revestido de ilegitimidade jurídica.
+Na realidade, a decisão judicial, que, motivada pela existência de outras provas e elementos de convicção constantes dos autos (RTJ 128/131 - RTJ 161/864), considera desnecessária a realização de determinada diligência probatória não ofende a cláusula constitucional da plenitude de defesa, consoante tem enfatizado o magistério jurisprudencial do Supremo Tribunal Federal (Ag 170.244-SP, Rel. Min. CELSO DE MELLO):
+'Não ofende o art. 5º, LV, da Constituição, acórdão que mantém o indeferimento de diligência probatória tida por desnecessária.'
+(RTJ 159/688-689, Rel. Min. SEPÚLVEDA PERTENCE - grifei)”
+4. De mais a mais, ressalto que, para concluir pela ocorrência de diminuição de vencimentos, a instância judicante de origem se valeu do exame do conjunto fático-probatório dos autos. Nessa contextura, inviável a abertura da via recursal extraordinária, ante a incidência da Súmula 279/STF.
+5. No mesmo sentido, vejam-se os AIs 645.567, da minha relatoria; 712.814, da relatoria da ministra Cármen Lúcia; e 741.004, da relatoria do ministro Ricardo Lewandowski, porque oriundos do mesmo ente federado e alusivos à mesma questão.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+Publique-se.
+Brasília, 26 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
