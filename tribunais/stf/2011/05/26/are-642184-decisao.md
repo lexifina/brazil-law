@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 135):
+“Ação de revisão de pensão. Filha de magistrado. Estado do Rio de Janeiro. Improcedência do pedido. Reforma integral da sentença. Lei 7301/73. Aplica-se à hipótese vertente a regra transitória do art.20 do ADCT, consoante julgado do Colendo Supremo Tribunal Federal (RE 162091 / RJ). A todos os pensionistas de servidores falecidos, aplica-se a regra da paridade prevista no art.40, §§4º e 5º da CRFB/88, que ainda continua em vigor consoante se denota da leitura dos dispostos nos §§7º e 8º do art.40, com a redação dada pela EC nº 41/03. Direito ao recebimento de 100% dos valores correspondentes à aposentadoria do desembargador, caso vivo estivesse, observando-se, no entanto, o teto remuneratório previsto no art.37, inciso XI da CRFB/88.”
+2. Pois bem, a parte recorrente aponta ofensa aos arts. 2º e 18, e aos §§ 7º e 8º do art. 40, todos da Magna Carta de 1988. Alega que a pensão especial, instituída pela Lei Estadual 7.301/73, possui natureza contratual. Pelo que não se aplicam a ela as regras constitucionais atinentes ao sistema previdenciário do servidor público.
+3. Tenho que a insurgência não merece acolhida. Isso porque a controvérsia sob exame não transborda os limites do âmbito infraconstitucional. Logo, ofensa à Constituição Federal, se existente, apenas ocorreria de forma reflexa ou indireta.
+4. Cito, por amostragem, os seguintes precedentes: AIs 481.620, da relatoria do ministro Cezar Peluso; 481.622, da relatoria do ministro Sepúlveda Pertence; 533.409-AgR, da minha relatoria; 597.671, da relatoria do ministro Joaquim Barbosa; 786.708, da relatoria da ministra Cármen Lúcia; e 801.398, da relatoria do ministro Ricardo Lewandowski; bem como RE 555.793, da relatoria da ministra Ellen Gracie.
+Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 26 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
