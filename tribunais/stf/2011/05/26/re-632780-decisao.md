@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+“CIVIL. PROCESSO CIVIL. AÇÃO MONITÓRIA – IMPUGNAÇÃO MEDIANTE OPOSIÇÃO DE EMBARGOS – CIRCUSNTÂNCIA QUE TRANSFORMA A AÇÃO EM ORDINÁRIA DE CONHECIMENTO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. 1. Na Ação Monitória, após contestada com o uso de Embargos, o procedimento passa a ser o Ordinário; 2. O julgamento antecipado da lide é decorrência da desnecessidade de provas além das oferecidas com as peças de postulação ou quando se cuida de questão exclusivamente de direito, podendo ocorrer no procedimento ordinário; 3. Sentença mantida; 4. Apelação conhecida, mas improvida ” (fl. 93).
+Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 5º, LV, da mesma Carta, ao argumento de que houve cerceamento do direito de defesa porque preterida a produção de provas para esclarecimento dos fatos.
+A pretensão recursal não merece acolhida. Com efeito, o Supremo Tribunal Federal tem decidido no sentido de que o indeferimento de diligência probatória, julgada desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, menciono as seguintes decisões, entre outras: AI 552.281/SP, Rel. Min. Sepúlveda Pertence; AI 474.746-AgR/GO, Rel. Min. Ayres Britto; AI 378.628/SP, Rel. Min. Celso de Mello; AI 697.623-AgR-ED-AgR/SP, Rel. Min. Cármen Lúcia; AI 764.932-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 631.856-AgR/AM, Rel. Min. Menezes Direito; AI 602.998-AgR/MG, Rel. Min. Eros Grau; RE 599.606-AgR/PI, Rel. Min. Dias Toffoli; AI 627.460-AgR/MT e RE 524.529-AgR/RJ, de minha relatoria.
+Além disso, a violação aos princípios do contraditório e da ampla defesa, em regra, não dispensa o exame da matéria sob o ponto de vista processual, o que também caracteriza ofensa reflexa à Constituição e inviabiliza o recurso extraordinário.
+Verifico ainda que o acórdão recorrido, com base na interpretação das provas dos autos, concluiu que não houve cerceamento de defesa, consoante se observa dos trechos a seguir transcritos:
+“Não houve cerceamento de defesa tal qual alegado pela recorrente. Do exame dos autos, verifica-se que a instrução probatória foi realizada de forma linear, dando às partes toda a oportunidade de se manifestarem e produzirem provas no processo, em audiência ou em petições. Houve também regular intimação das partes sobre os atos relevantes do processo.
+(...)
+Não vislumbrei nos autos qualquer pedido específico de prova pela apelante que tenha sido silenciado pelo Magistrado a quo. Ademais, caso houvesse insatisfação da apelante com a suposta recusa de produção de alguma prova, deveria a recorrente ter se manifestado no momento oportuno para evitar a preclusão consumativa da questão” (fls. 94-95).
+Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão impugnado, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 26 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
