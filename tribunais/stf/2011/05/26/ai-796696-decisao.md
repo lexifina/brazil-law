@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual condenou o Município de Anápolis à reparação por danos morais e materiais ocorridos em virtude de omissão no atendimento médico em hospital público.
+ No RE, sustenta-se ofensa ao artigo 37, § 6º, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que para o exame das violações alegadas, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. Ressalto que esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais e materiais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+ Nesse sentido: AI 727.483-AgR/RJ, de minha relatoria, 2ª Turma, DJe 13.11.2010; AI 604.526-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, DJ 01.2.2008; AI 602.400-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, DJ 11.5.2007; AI 603.342-AgR/PE, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 1º.02.2011, este último assim ementado:
+ “EMENTA: CONSTITUCIONAL. ADMINISTRATIVO. MORTE POR EXPLOSÃO EM FÁBRICA DE PÓLVORA. OMISSÃO DO ESTADO. RESPONSABILIDADE CIVIL SUBJETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MATÉRIA DE FATO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A análise da questão dos autos demanda o reexame de matéria fática, o que impede o processamento do recurso extraordinário, a teor da Súmula 279 do STF. III - Agravo regimental improvido”.
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 26 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
