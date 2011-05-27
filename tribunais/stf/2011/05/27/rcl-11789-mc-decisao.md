@@ -1,0 +1,19 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Universidade de São Paulo - USP contra acórdão proferido pelo Tribunal Regional do Trabalho da 15ª Região, por inobservância da Súmula Vinculante 10 desta Corte e por descumprimento da decisão proferida na ADC 16/DF, Rel. Min. Cezar Peluso.
+A reclamante sustenta, em síntese, que o juízo reclamado afastou a aplicabilidade do art. 71, § 1º, da Lei 8.666/1993, condenando-a subsidiariamente a pagar créditos trabalhistas, em afronta ao conteúdo do julgamento proferido naquela Ação Declaratória de Constitucionalidade.
+Aduz, mais, que
+“A redação do § 1º do artigo 71 da Lei nº 8.666/1993 é totalmente oposta e divergente do texto da Súmula nº 331, IV, do Tribunal Superior do Trabalho e, por isso, somente por meio da declaração de inconstitucionalidade do referido dispositivo legal, observado o artigo 97 da Constituição Federal e a Súmula Vinculante nº 10 do STF, é que poderia o Tribunal Regional do Trabalho da 15ª Região reconhecer a responsabilidade subsidiária da USP por débitos trabalhistas nos autos da ação promovida por Rodrigo Peixoto de Morais em face da empresa Corporação Gutty Segurança Patrimonial e Vigilância Ltda. e desta requerente, processo autuado sob nº 0038500-12.2009.5..15.0121”.
+Pugna, por tais razões, pela concessão da liminar para suspender imediatamente os efeitos do acórdão proferido no Reexame Necessário e no Recurso Ordinário no Processo 0038500-12.2009.5.15.0121, do Tribunal Regional do Trabalho da 15ª Região.
+É o relatório.
+Decido.
+Esta Corte, no julgamento da ADC 16/DF, Rel. Min. Cezar Peluso, declarou constitucional o art. 71 da Lei 8.666/1993, por entender que a mera inadimplência do contratado não poderia transferir à Administração Pública a responsabilidade pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+No entanto, reconheceu-se que isso não significaria que eventual omissão da Administração Pública, na obrigação de fiscalizar as obrigações do contratado, não viesse a gerar essa responsabilidade, acaso demonstrada a culpa do ente público.
+No caso dos autos, todavia, vislumbro, ainda que de forma perfunctória, própria deste momento processual, ofensa ao que decidido por ocasião do referido julgamento.
+Isso porque, conforme se depreende da decisão reclamada, o Tribunal Regional Federal, ao manter a sentença que reconheceu a responsabilidade subsidiária da Universidade e São Paulo - USP, presumiu a culpa que afastaria a incidência do § 1º do art. 71 da Lei 8666/1993, como se extrai do seguinte trecho:
+“(...) comprovado que o prestador de serviços não pagou a seus empregados verbas trabalhistas devidas, entendo que deve ser imposta à Administração Pública a responsabilidade subsidiária por elas, mesmo porque resta evidente que, apesar da licitação, acabou escolhendo mal, o que revela culpa in eligendo. Mesmo que se entenda que, no ato da contratação, a prestadora de serviços tinha idoneidade financeira o certo é que, o caso vertente, ao que parece, durante a execução do contrato, tal situação foi drasticamente alterada. Resta evidente, assim, que o recorrente USP, no presente caso, não teria observado o disposto no artigo 67, da Lei 8.666/1993, que lhe impõe o dever de fiscalizar a execução do contrato de prestação de serviços, quanto à obrigações contratuais e legais, fato que caracteriza culpa in vigilando” (grifei).
+Isso posto, defiro a liminar para suspender o acórdão proferido no Reexame Necessário e no Recurso Ordinário no Processo 0038500-12.2009.5.15.0121, do Tribunal Regional do Trabalho da 15ª Região, até o julgamento do mérito desta reclamação.
+Comunique-se e requisitem-se informações.
+Após, ouça-se a Procuradoria-Geral da República.
+Publique-se.
+Brasília, 27 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+Relator
