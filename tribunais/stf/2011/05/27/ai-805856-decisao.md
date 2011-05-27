@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual, ratificando a decisão monocrática, negou provimento ao agravo interno e entendeu que a agravante não foi aprovada no limite das vagas oferecidas para área eleita no momento da inscrição.
+ No RE, sustenta-se ofensa ao artigo 37, caput, I, II, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+ Ademais, a jurisprudência desse Supremo Tribunal Federal é pacífica no sentido de que, em casos como o dos autos, onde a solução da controvérsia depende da interpretação de normas de edital de concurso público, eventual ofensa constitucional somente poderia ocorrer de forma reflexa ou indireta, o que impede o trâmite do recurso extraordinário. Nesse sentido os AI 587.237-AgR/RS, de minha relatoria, 2ª Turma, DJe 01.7.2010 e AI 767.533-AgR/MT, rel. Min. Cármen Lúcia, 1ª Turma, 12.3.2010, este último assim ementados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. APLICABILIDADE E VALIDADE DE NORMAS DE EDITAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DA ANÁLISE DAS CLÁUSULAS EDITALÍCIAS E DO REEXAME DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 279 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta”.
+3.  Finalmente, para o exame das violações alegadas, seria necessária a análise de fatos e provas (Súmula STF 279), hipótese inviável em sede extraordinária. É o que se percebe da leitura do seguinte trecho da decisão monocrática, ratificada pelo Tribunal de Justiça do Rio de Janeiro (fl. 117):
+“De modo explícito e que não é passível de gerar dúvidas, o edital traz, a fls. 18, a indicação de que existem 5 vagas para o cargo de fonoaudiólogo destinadas para a área 2.2, para a qual se inscreveu a autora.
+(...)
+Por conseguinte, é de se respeitar a seleção dos candidatos em função da área pela qual livremente optaram no momento da inscrição para o certame.”
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 27 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
