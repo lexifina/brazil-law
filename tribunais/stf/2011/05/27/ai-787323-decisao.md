@@ -1,0 +1,15 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão, o qual negou provimento ao recurso inominado para manter a condenação de indenização por danos morais.
+ No RE, sustenta-se ofensa aos artigos 5º, II, X, XXXV e LV, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido e, embora suscitados os incisos XXXV e LV do art. 5º, da CF, nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foram oportunamente apontados nas razões do recurso inominado. Incidem, na espécie, as Súmulas STF 282 e 356.
+3.  Ademais, rever a decisão do Tribunal a quo, para decidir de modo diverso, implicaria o exame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279).
+ Nesse sentido cito o AI 783.269-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 02.3.2011, assim ementado:
+“EMENTA: AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. AUSÊNCIA DE PREQUESTIONAMENTO. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com o enunciado 279 da Súmula do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”.
+   Ressalto, ainda, que esta Corte fixou o entendimento segundo o qual a análise sobre a indenização por danos morais e materiais limita-se ao âmbito de interpretação de matéria infraconstitucional, cujo exame se mostra inviável nesta sede recursal.
+ Nesse sentido: RE 556.349/RS, de minha relatoria, DJe 31.3.2011; AI 604.526-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, DJ 01.2.2008; e AI 602.400-AgR/RJ, rel. Min. Gilmar Mendes, 2ª Turma, DJ 11.5.2007, este último assim ementado:
+ “EMENTA: Agravo regimental em agravo de instrumento. 2. Consumidor. Indenização por danos morais. 3. Controvérsia decidida no âmbito infraconstitucional. Ofensa reflexa. Precedentes. 4. Agravo regimental a que se nega provimento”.
+4.  Quanto às alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, devido processo legal, prestação jurisdicional, contraditório e ampla defesa e limites da coisa julgada – a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 27 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
