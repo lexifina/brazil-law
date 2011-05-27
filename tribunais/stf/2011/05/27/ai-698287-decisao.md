@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão de inadmissibilidade do recurso extraordinário interposto por alegada violação ao art. 5º, I e LV, da Constituição Federal, contra acórdão que deu provimento à apelação em ação de indenização decorrente de acidente de trabalho, por reconhecer a existência de cerceamento de defesa, dada a indispensabilidade da produção de provas, para anular a sentença a fim de possibilitar a produção da prova pericial (fls. 548-552).
+2.  O Tribunal de origem asseverou que os dispositivos constitucionais não foram explicitamente apreciados pelo acórdão recorrido (fls. 632-634).
+3.  O agravante afirma que a decisão agravada extrapola o juízo de admissibilidade recursal, porquanto a verificação de pertinência do mérito da insurgência é função adstrita à competência do Supremo Tribunal. Sustenta que, ao permitir produção de provas de matéria preclusa, o acórdão recorrido negou vigência aos incisos I e LV do art. 5º da Constituição Federal.
+4.  A insurgência não merece prosperar. A controvérsia relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, por suposta ofensa ao princípio do contraditório, ampla defesa e duplo grau de jurisdição, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 5º, LV, da Constituição Federal. A suposta ofensa à norma constitucional, se existisse, seria reflexa.
+ Vejam-se: AI 639.672-AgR/RJ, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 27.6.2008; AI 635.749-AgR/DF, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 24.4.2008; AI 746.588-AgR/MG, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 26.6.2009; e AI 747.066-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 26.6.2009.
+5.  Frise-se, por fim, que o Presidente do Tribunal de origem tem competência para exercer o prévio juízo de admissibilidade de recursos dirigidos a esta Corte, sem que essa verificação signifique vinculação na análise dos pressupostos recursais, uma vez que se trata de ato revestido de provisoriedade, cabendo ao Supremo Tribunal exercer um segundo juízo de admissibilidade dos recursos de sua competência.
+6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 27 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
