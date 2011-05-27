@@ -1,0 +1,18 @@
+D ECIS Ã O: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pela Cooperativa São Gabriel do Oeste (COOASGO) contra atos do Juízo da 4ª Vara de Campo Grande-MS e do Tribunal Regional Federal da 3ª Região, que, ao proferirem decisões nos autos do processo 0001270-24.1996.4.03.6000, teriam violado a autoridade da decisão proferida por esta Corte no julgamento do Recurso Extraordinário 541.324, de minha relatoria.
+O descumprimento da decisão deste Tribunal teria ocorrido porque o pedido formulado pela Reclamante de levantamento das quantias depositadas em Juízo, tendo em vista o trânsito em julgado da decisão proferida por esta Corte que lhe beneficia, foi indeferido.
+É o breve relatório.
+Passo a decidir.
+Inicialmente, verifico que a decisão proferida no Recurso Extraordinário 541.324, de minha relatoria, Segunda Turma, DJe 23.11.2010, fundamentou-se na inexigibilidade da contribuição denominada “Funrural”, a ser recolhida pelo empregador rural pessoa física sobre receita bruta proveniente da comercialização de sua produção, nos termos do artigo 25 da Lei n. 8.212, 1991, após alteração promovida pela Lei 8.540, de 1992.
+Referida decisão foi formulada a partir da orientação firmada por esta Corte no julgamento do Recurso Extraordinário 363.852, Rel. Min. Marco Aurélio, Tribunal Pleno, DJe 23.4.2010, cuja ementa dispõe, no que interessa:
+“ CONTRIBUIÇÃO SOCIAL - COMERCIALIZAÇÃO DE BOVINOS - PRODUTORES RURAIS PESSOAS NATURAIS - SUB-ROGAÇÃO - LEI Nº 8.212/91 - ARTIGO 195, INCISO I, DA CARTA FEDERAL - PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL Nº 20/98 - UNICIDADE DE INCIDÊNCIA - EXCEÇÕES - COFINS E CONTRIBUIÇÃO SOCIAL - PRECEDENTE - INEXISTÊNCIA DE LEI COMPLEMENTAR. Ante o texto constitucional, não subsiste a obrigação tributária sub-rogada do adquirente, presente a venda de bovinos por produtores rurais, pessoas naturais, prevista nos artigos 12, incisos V e VII, 25, incisos I e II, e 30, inciso IV, da Lei nº 8.212/91, com as redações decorrentes das Leis nº 8.540/92 e nº 9.528/97. Aplicação de leis no tempo - considerações”.
+No acórdão reclamado, aduz-se que “(...) com o advento da Emenda Constitucional n. 20/1998, passou a existir referência para o exercício da competência tributária, já que ela inseriu, no art. 195, I, b, da Constituição Federal, a expressão ‘receita’ em conjunto com o faturamento. Sobreveio, então, a Lei n. 10.256/2001, que atribuiu à pessoa física qualificada como empregadora rural a obrigação de recolher contribuição incidente sobre a receita oriunda da comercialização de produção rural. Portanto, a partir da vigência da nova lei, a contribuição é plenamente exigível” (fl. 93 da Instrução3 – RE 541.324 – Parte II).
+Ao confrontar a fundamentação do acórdão proferido por esta Corte e indicado como paradigma com os motivos expostos pelo tribunal reclamado para o indeferimento do pedido de levantamento dos depósitos, não vejo identidade material entre os casos.
+Isso porque a decisão paradigma simplesmente assentou a inconstitucionalidade do artigo 25 da Lei n. 8.212/1991, na redação dada pela Lei 8.540/1992, ao passo que o ato reclamado indeferiu o pedido com base na Lei 10.256/2001 e também porque o valor integral do depósito não se refere à contribuição denominada “Funrural”.
+Assim, não visualizo, nesse juízo primário de exame da medida cautelar, a plausibilidade jurídica do pedido.
+Ante o exposto, indefiro a liminar.
+Requisitem-se as informações e, após, remetam-se os autos à Procuradoria-Geral da República.
+Publique-se.
+Brasília, 27 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
