@@ -1,0 +1,27 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+“SERVIDOR PÚBLICO – Professor – Concurso público para dois cargos – Diretor de Escola e Supervisor Escolar – Posse no cargo de Diretor – Indeferimento da posse no de Supervisor Escolar – item 11.5.1 e 11.6.2 do Edital – Inadmissibilidade – Precedentes – Segurança concedida – Recurso desprovido” (fl. 120).
+2.  No RE, alega o recorrente ofensa aos artigos 2º, 5º, XXXV, 18 e 37, caput, da CF, sustentando, em síntese, o seguinte:
+“A recorrida participou e foi aprovada em concurso de acesso para o cargo de Diretor Escolar e Supervisor Escolar.
+Em ambos os casos, a condição essencial do candidato na data da posse era ser titular do cargo de Professor de Ensino Fundamental e, especificamente quanto ao Edital para o Concurso de Acesso para os cargos de Diretor Escolar e Supervisor Escolar, prevê o item 11.6.2:
+'No ato da posse o candidato que não mais ocupar o cargo apontado à época da inscrição no concurso, estará impedido de tomar posse. Neste caso, a título de nomeação será tornado sem efeito e sua inscrição no concurso cancelada'.
+Ao contrário da interpretação dada pelo acórdão recorrido e acolhida na sentença apelada, a decisão da Administração objetivou tão-somente aplicar corretamente as regras previamente estabelecidas no edital do concurso de acesso do qual participara, assegurando-se o tratamento isonômico a todos os demais participantes” (fl. 150).
+ O Município de São Paulo aponta, ainda, afronta ao art. 5º, XXXV, da CF, pleiteando o afastamento da multa aplicada, nos termos do art. 538, parágrafo único, do CPC, pelo Tribunal de origem, que concluiu pelo caráter protelatório dos embargos de declaração.
+3.  O agravo não merece prosperar. A jurisprudência desta Corte é pacífica no sentido de que, em casos como o dos presentes autos, nos quais a solução da controvérsia depende do reexame de fatos e provas e da interpretação de normas de edital de concurso público, eventual ofensa constitucional somente poderia ocorrer de forma reflexa ou indireta, o que impede o trânsito do recurso extraordinário (Súmula STF 279). Nesse sentido o AI 587.237-AgR/RS, de minha relatoria, 2ª Turma, DJe 01.7.2010; e o AI 640.272-AgR/DF, rel. Min. Ricardo Lewandowiski, 1ª Turma, 31.10.2007, este assim ementado:
+“CONSTITUCIONAL. SEPARAÇÃO DOS PODERES. POSSIBILIDADE DE ANÁLISE DE ATO DO PODER EXECUTIVO PELO PODER JUDICIÁRIO. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279, 280 E 454. AGRAVO IMPROVIDO.
+I – Cabe ao Poder Judiciário a análise da legalidade e constitucionalidade dos atos dos três Poderes constitucionais, e, em vislumbrando mácula no ato impugnado, afastar a sua aplicação.
+II – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte.
+III – O exame de matéria de fato e a interpretação de cláusulas editalícias atrai a incidência das Súmulas 279 e 454 do STF.
+IV – Agravo regimental improvido”.
+ Menciono, também, o AI 829.036-AgR/MG, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 24.03.2011, assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+4.  No que se refere à condenação ao pagamento de multa pela oposição de embargos de declaração com caráter supostamente protelatórios, verifico que a violação à CF situa-se no campo da legislação processual infraconstitucional, o que configura, quando muito, situação de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+ Nesse sentido, o AI 758.941-AgR/SC, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 1º.03.2011, assim ementado:
+ “AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL.
+A análise da aplicação de multa por litigância de má-fé em virtude de interposição de embargos declaratórios tidos por protelatórios requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. Inviabilidade do recurso extraordinário.
+Agravo regimental a que se nega provimento”.
+5.  Por fim, quanto à alegação de ofensa a incisos do artigo 5º da Constituição Federal – prestação jurisdicional, devido processo legal, contraditório, ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+6.  Ante o exposto, nego seguimentoao agravo de instrumento (art. 557, caput do CPC).
+ Publique-se.
+ Brasília, 27 de maio de 2011.
+Ministra Ellen Gracie
+Relatora
