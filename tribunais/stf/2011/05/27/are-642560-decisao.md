@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL. DUPLO GRAU DE JURISDIÇÃO. AÇÃO ANULATÓRIA. PROCEDIMENTO ADMINISTRATIVO. PROCON. ALEGAÇÃO DE EXERCÍCIO INDEVIDO DA FUNÇÃO JURISDICIONAL. ARGUIÇÃO DE NÃO INFORMAÇÃO DOS FATOS QUE CULMINARAM NA APLICAÇÃO DA SANÇÃO ADMINISTRATIVA. SUSCITAÇÃO DE AUSÊNCIA DE INFRAÇÃO ADMINISTRATIVA E DE MOTIVAÇÃO DO ATO ADMINISTRATIVO. EVENTUAL IRRAZOABILIDADE E DESPROPORCIONALIDADE DOS VALORES FIXADOS NAS MULTAS. PEDIDO DE REDUÇÃO. OCORRÊNCIA DE AFRONTA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. PLEITO DE CONDENAÇÃO INTEGRAL DA PARTE CONTRÁRIA NO ÔNUS SUCUMBENCIAL. INCIDÊNCIA DO ART. 21, ‘CAPUT’, CPC. PREQUESTIONAMENTO.
+(...)” (fl. 712-713).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 2º da mesma Carta.
+O agravo não merece acolhida. Isso porque, a jurisprudência desta Corte entende que o julgamento da legalidade dos atos dos três poderes constitucionais pelo Poder Judiciário não viola o princípio da separação dos poderes (art. 2º da Constituição Federal). Nesse sentido:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. ILEGALIDADE DO ATO QUE INDEFERIU O PEDIDO DE REINTEGRAÇÃO DO SERVIDOR NO QUADRO DA POLÍCIA MILITAR. OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. INEXISTÊNCIA. 1. Ato administrativo vinculado. Indeferimento do pedido de reintegração do servidor na Corporação. Ilegalidade por não terem sido observados os direitos e garantias individuais assegurados pela Constituição Federal. 2. Reexame da decisão administrativa pelo Poder Judiciário. Ofensa ao princípio da separação de poderes. Inexistência. A Carta Federal conferiu ao Poder Judiciário a função precípua de controlar os excessos cometidos em qualquer das esferas governamentais, quando estes incidirem em abuso de poder ou desvios inconstitucionais. Precedente. Agravo regimental não provido” (RE nº 259.335/RJ-AgR, Rel. Min. Maurício Corrêa; grifos meus).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 27 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
