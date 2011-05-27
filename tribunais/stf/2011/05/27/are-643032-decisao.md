@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSUMIDOR. CONSUMIDOR. REVISÃO DE CONTRATO BANCÁRIO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE PROVAS E E DE CLÁUSULAS CONTRATUAIS: SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+O recurso extraordinário foi interposto contra julgado do Colégio Recursal do Juizado Especial Cível da Comarca de Franca/SP, que manteve a sentença condenatória da Recorrente, nos termos seguintes:
+“Exige a autora ressarcimento em dobro do valor pago referente à tarifa de emissão de boleto (TEC) cobrado pela instituição requerida, taxa esta considerada abusiva.
+No presente caso, apesar de haver no contrato a previsão de pagamento da TEC em cláusula '2.2' e a assinatura da requerente, não provou a ré que outros meios de pagamento do crédito foram oferecidos à consumidora.
+Isto porque a cláusula '2' do contrato traz claramente que o valor principal do financiamento será pago mensalmente pelo cliente 'através da emissão de carnê por parte do BANCO ou por outro meio por este determinado'. (...)
+Se nenhuma prova foi fornecida ao Juízo cognitivo a favor da ré, à evidencia esta não está com a razão. Pois, por pressuposto lógico, o contrato celebrado entre as partes trata-se de contrato de adesão, tendo em vista a omissão das formas de pagamento oferecidas à consumidora.
+Presume-se por meio da análise do contrato celebrado entre as partes, não ter havido a opção de escolha da melhor maneira de pagamento de seu débito pela requerente, sendo esta obrigada a aceitar a cobrança da tarifa de emissão de carnê. (...).
+A requerente exige também a restituição da taxa denominada ATC (taxa de abertura de crédito), em razão de ser, por sua natureza, ilegítima. (...)
+Concluindo que, pela análise do citado artigo faz-se presente à iniquidade de uma parte que impõe à outra a obrigação do ressarcimento das suas próprias despesas, as quais são expendidas tão somente com a intenção de reduzir os riscos de sua atividade. (...)
+Destarte, faz jus à autora a repetição da TAC já paga e, a teor do disposto do art. 42, p. Único, CDC, em dobro, o que totaliza a quantia de R$ 406,50” (fls. 44-48).
+2. O Recorrente alega que o Tribunal a quo teria contrariado o art. 5º, inc. V, X e LV, da Constituição da República.
+Argumenta que “para que houvesse a possibilidade de revisão judicial do contrato, deve ser demonstrado pelo requerente na petição inicial e comprovado documentalmente a existência de vício de consentimento ou de fatores imprevisíveis que tenham onerado em demasia a obrigação contratada, o que não ocorreu no presente caso” (fl. 76).
+3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de que inexiste repercussão geral na matéria posta nos autos (fl. 86).
+Examinados os elementos havidos nos autos, DECIDO.
+4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+5. Razão jurídica não assiste ao Agravante.
+6. Concluir de modo diverso do acórdão recorrido demandaria o reexame de cláusulas contratuais, de legislação infraconstitucional (Código de Defesa do Consumidor e o Código de Processo Civil) e do conjunto fático-probatório, o que é inviável em recurso extraordinário. Incidem na espécie as Súmulas n. 279 e 454 do Supremo Tribunal Federal. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DE FATOS E PROVAS E DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de norma infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A incidência do óbice da Súmula 279-STF inviabiliza o recurso extraordinário quando evidenciada a necessidade do revolvimento de matéria fático-probatória. 3. É vedado o reexame de cláusulas contratuais, nos termos da Súmula 454-STF. Agravo regimental a que se nega provimento” (AI 528.896-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 5.2.2005).
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 617.814-AgR, de minha relatoria, Primeira Turma, DJe 19.12.2008).
+7. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Defesa do Consumidor e Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+Nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 27 de maio de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
