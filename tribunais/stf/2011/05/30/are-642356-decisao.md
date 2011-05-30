@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cujo resultado restou assim proclamado:
+“À UNANIMIDADE CONHECERAM DO RECURSO. POR MAIORIA REFORMARAM A SENTENÇA JULGANDO IMPROCEDENTE O PEDIDO INCIAL AO FUNDAMENTO DE QUE INEXISTE PERSONALIDADE JURÍDICA CONDOMINIAL PARA EXIGIR COBRANÇA DE TAIS ENCARGOS E O JUDICIÁRIO NÃO PODE COMPACTUAR COM SITUAÇÃO IRREGULAR. VENCIDA A RELATORA QUE APRESENTOU VOTO ESCRITO” (fl. 114).
+No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5º, XXXV e LV, da mesma Carta.
+O agravo não merece acolhida. Isso porque, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de contrariedade aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configuram ofensa constitucional indireta” (AI 777.240-AgR/RS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“1. RECURSO. Agravo de instrumento. Inadmissibilidade. Certidão de não apresentação de contra-razões de recurso extraordinário. Comprovação de Inexistência. Recurso conhecido. Demonstrada a existência de peça obrigatória ao agravo de instrumento, deve ser apreciado o recurso.
+2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (AI 610.626-AgR/RJ, Rel. Min. Cezar Peluso, Segunda Turma).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 30 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
