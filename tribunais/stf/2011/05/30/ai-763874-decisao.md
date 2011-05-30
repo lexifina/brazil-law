@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 13):
+“DESAPROPRIAÇÃO INDIRETA. MUNICÍPIO DE PORTO ALEGRE. PARQUE NATURAL DO MORRO DO OSSO. DEVER DE INDENIZAR CONFIGURADO. VALOR DA JUSTA INDENIZAÇÃO. TERMO INICIAL PARA A FIXAÇÃO DOS JUROS COMPENSATÓRIOS. INTERPRETAÇÃO SISTEMÁTICA DO ART. 34 DO DECRETO-LEI Nº 3.365/41 RELATIVAMENTE ÀS DÍVIDAS FISCAIS. HONORÁRIOS ADVOCATÍCIOS.
+1. Caracterizado o apossamento administrativo por parte do réu, é devida a correspondente indenização com base no justo valor estabelecido por perícia que levou em consideração os critérios técnicos aplicáveis à espécie, bem como as características do imóvel objeto do ilícito administrativo praticado pelo ente público. Responsabilidade pelo ato ilícito do Poder Público que prepondera na hipótese, diante do princípio constitucional da justa e prévia indenização em dinheiro para a desapropriação (art. 5º, XXIV, da CF-88).
+2. Os juros compensatórios, na desapropriação indireta, devem ser contados de acordo com a situação particularizada contida nos autos. A ocupação definitiva do imóvel se deu em SET00, quando foi indeferido definitivamente o pedido de loteamento da área ao argumento de que estava dentro dos novos limites do Parque Natural Morro do Osso. O melhor critério de retroação no caso concreto, diante da situação fática retratada, é considerar a data tida como a da efetiva ocupação, levando em linha de conta as particularidades da lide.
+3. A partir do evento configurador da desapropriação indireta, o expropriado não mais pode ser responsabilizado por débitos atinentes ao imóvel objeto da desapropriação. Precedentes do Superior Tribunal de Justiça conferidos.
+4. Os honorários advocatícios foram bem fixados na origem, levando-se em conta os termos do art. 20, §§ 3º e 4º, do CPC, combinado com o art. 27, § 1º, do DL nº 3.365/41.
+APELAÇÃO DOS AUTORES PARCIALMENTE PROVIDA E APELAÇÃO DO RÉU IMPROVIDA.”
+2. Pois bem, a parte recorrente alega, em síntese, que: a) não houve ocupação ou qualquer ato de apossamento da área pelo Município; b) não ocorreu prejuízo dos autores quanto à exploração econômica ante o gravame da área como unidade de preservação ambiental. Pede, alternativamente, a modificação do valor indenizatório fixado, porque excessivamente oneroso e tecnicamente injustificado.
+3. Tenho que a insurgência não merece acolhida. Isso porque a demanda foi decidida, centralmente, à luz de normas infraconstitucionais e do conjunto fático-probatório dos autos. Desse modo, eventual ofensa ao Magno Texto, se existente, ocorreria de forma indireta ou reflexa, o que não autoriza a abertura da via extraordinária.
+Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+Publique-se.
+Brasília, 30 de maio de 2011.
+Ministro AYRES BRITTO
+Relator
