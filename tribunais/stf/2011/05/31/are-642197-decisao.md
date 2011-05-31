@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário criminal interposto de acórdão do Tribunal Regional Federal da 4ª Região, que deu parcial provimento à apelação defensiva, apenas para reduzir o quantum da pena corporal aplicada e substituí-la por restritivas de direitos, consistentes na prestação de serviço à comunidade e pecuniária.
+No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5º, LVII, da mesma Carta.
+O agravo não merece acolhida.
+Isso porque o recorrente, apesar de sustentar a existência de repercussão geral no presente recurso, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa, limitando-se a afirmar que
+“a questão posta em sede desse recurso (ônus da prova) ganha maior relevância por estar vinculada aos direitos e garantias fundamentais, os quais, dentro de um estado democrático de direito, devem ser sobrepostas pelo Poder Judiciário, sobretudo quando se coloca em xeque a presunção de inocência do réu num processo criminal” (fl. 165).
+Ora, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+“PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+I – O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+II – A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+III – Agravo regimental improvido”.
+Além disso, verifico que falta o necessário prequestionamento do dispositivo constitucional supostamente violado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão impugnado. Ademais, a tardia alegação de ofensa ao Texto Constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+Ressalto, outrossim, que o acórdão recorrido decidiu a questão com base em normas infraconstitucionais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 562.212/RS, de minha relatoria; AI 592.110/RJ, Rel. Min. Cezar Peluso; AI 645.007/RS, Rel. Min. Cármen Lúcia; AI 524.388/RS, Rel. Min. Marco Aurélio.
+Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, no que concerne à falta de prova para a condenação do recorrente, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+Isso posto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 31 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
