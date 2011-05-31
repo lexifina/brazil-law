@@ -1,0 +1,11 @@
+D ESPACHO: Trata-se de agravo de instrumento interposto contra decisão que inadmitiu recurso extraordinário, que versa sobre o pagamento de verbas relativas à previdência privada suplementar, sob o fundamento de que a controvérsia foi decidida à luz da legislação infraconstitucional e de que eventual ofensa à Constituição, se existente, seria apenas reflexa.
+A agravante sustenta que o acórdão recorrido teria violado os incisos LIV e LV do art. 5º, o inciso IX do art. 93, o § 5º do art. 195 e o art. 202, caput, todos da Constituição Federal de 1988.
+À agravante não assiste razão. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que alegações de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da motivação dos atos decisórios acarretam, quando muito, ofensa reflexa ou indireta ao texto constitucional. Nesse sentido, entre outros: AI-AgR 749.139, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.10.2010; AI-AgR 614.241, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 17.05.2011.
+Ademais, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o art. 93, inciso IX, da Constituição, exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+Quanto às alegações de ofensa ao § 5º do art. 195 e ao art. 202, caput, ambos da Constituição Federal, verifico que o exame, conforme realizado pelo acórdão recorrido, demanda a análise prévia de normas infraconstitucionais, de modo que, também nesse ponto, a ofensa, caso existente, seria apenas indireta ou reflexa. Nesse sentido: AI-AgR 778.301, Rel. Min. Eros Grau, Segunda Turma, DJe 14.05.2010; AI-AgR 455.107, Rel. Min. Nelson Jobim, Segunda Turma, DJ 04.06.2004, entre outros.
+Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557 do CPC)
+Publique-se.
+Brasília, 31 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
