@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita no que importa:
+“(...)
+V – O Regional, ao proferir a decisão rescindenda, se orientara pelo sentido e alcance da decisão exeqüenda, relativamente à modalidade da liquidação de sentença que ali teria sido delineada, tendo em conta não só a evidência de ela não ter sido explícita sobre qual das modalidades haveria de ser utilizada, mas igualmente os atos processuais subsequentes praticados pela recorrente.
+VI - Daí não se divisar a pretensa vulneração dos arts. 603 e 610 do CPC (475-E e 475-G), notadamente do art. 5º, XXXVI, da Constituição, na esteira da OJ 123 da SBDI-II. Com efeito, preconiza o precedente que
+'o acolhimento da ação rescisória calcada em ofensa a coisa julgada supõe dissonância patente entre as decisões exequenda e rescindenda, o que não se verifica quando se faz necessária a interpretação do título executivo judicial para se concluir pela lesão à coisa julgada.'
+(...)” (fl. 1726).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se, ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV, e 93, IX, da mesma Carta.
+O agravo não merece acolhida.
+Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+Além disso, quanto à alegada violação ao art. 5º, XXXVI, da Constituição, verifico que para se chegar à conclusão diversa à adotada pelo Tribunal a quo, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SOLUÇÃO DE CONTROVÉRSIA ATINENTE AOS LIMITES OBJETIVOS E SUBJETIVOS DA COISA JULGADA. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. SÚMULAS 279 E 283 /STF. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem, no tocante aos limites objetivos e subjetivos da coisa julgada, demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. Incidência, de mais a mais, das Súmulas 279 e 283/STF. 3. Agravo regimental desprovido” (AI 791.023-AgR/RS, Rel. Min. Ayres Britto).
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 31 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
