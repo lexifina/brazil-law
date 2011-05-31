@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu indevidos honorários advocatícios em ação civil pública julgada procedente, promovida pelo Ministério Público do Estado de Santa Catarina.
+Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 128, § 5º, II, a, e 129, III, da mesma Carta, sob argumento de que a vedação constitucional se limita a impedir que o membro do Ministério Público receba honorários advocatícios. Sustentou-se, assim, que a condenação do vencido ao pagamento de honorários em medida proposta pelo Ministério Público, com destinação do valor ao Fundo para Recuperação de Bens Lesados não contraria a Constituição.
+A pretensão recursal não merece acolhida.
+Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada, no caso, o art. 129, III, da Constituição, não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+Além disso, consoante entendimento desta Corte firmado no julgamento do RE 428.324/DF, Rel. Min. Marco Aurélio, o art. 128, 5º, II, a, da Lei Maior apenas estabelece vedação ao recebimento por membro do Ministério Público, a qualquer título e sob qualquer pretexto, de honorários, percentagens ou custas processuais. Referido dispositivo constitucional não estabelece qualquer disciplinamento sobre a possibilidade de recolhimento de honorários a Fazenda Pública ou a Fundo indicado pelo Ministério Público.
+Dessa forma, a verificação da possibilidade de destinação de honorários advocatícios em ação promovida pelo Ministério Público e julgada procedente ao Fundo de Restituição de Bens Lesados situa-se em contencioso infraconstitucional, de modo que descabe falar em ofensa ao art. 128, § 5º, II, a, da Constituição. No mesmo sentido, menciono as seguintes decisões: RE 594.563/DF, Rel. Min. Ayres Britto; RE 596.603/SC, Rel. Min. Joaquim Barbosa.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 31 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
