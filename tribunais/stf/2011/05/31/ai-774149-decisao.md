@@ -1,0 +1,21 @@
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de Rio de Janeiro ementado nos seguintes termos:
+“APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. FATO EXCLUISVO DO CONSUMIDOR. OCORRÊNCIA. Apelante que sem autorização do concessionário de energia troca transformador elétrico, ocasionado sobrecarga no medidor de consumo e, consequente, defeito de aferição. Prova pericial inconteste ao afirmar a responsabilidade da autora-apelante pelos danos causados ao medidor de consumo. Fato exclusivo do consumidor que afasta qualquer responsabilidade do fornecedor do serviço. Inteligência do inc. II do § 3º do art. 14 do CDC. Perícia que, inclusive, constata o valor coreto a incidir sobre o período de consumo em questão. Cobrança do valor em tela sobre o qual incide condição resolutiva que impede o curso de prazo prescricional. Recurso a que se nega provimento”. (fl. 236).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, alega-se ofensa aos artigos 5º, LIIII e LVII; e 175, do texto constitucional.
+Decido.
+O recurso não merece prosperar.
+Na espécie, o acórdão recorrido, considerando laudo pericial não contestado pela ora agravante, concluiu que o defeito do medidor de energia se deu por fato exclusivo do consumidor e que é correto o valor cobrado com base nesse laudo.
+O recorrente, no recurso extraordinário, sustenta, que:
+“(...) no desdobramento das violações constitucionais que acima se introduziu, o v. acórdão igualmente viola o inciso LVII do artigo 5º, na medida em que considera o v. acordão hostilizado que incorreu a Recorrente em ato ilícito sem ter sido submetido a questão do devido processo legal, e justamente por isso, não haver sentença penal condenatória transitada em julgado.
+Repise-se não se pode falar em ato ilícito quando a lei a sim não o define.
+De outro lado, não se pode anuir com a afirmação do v. acórdão de culpa exclusiva do consumidor para falha no serviço, eis que não se discute a ocorrência ou não de falha do serviço”. (fl. 248)
+Vislumbra-se, portanto, a deficiência da fundamentação do recurso extraordinário, tendo em vista que suas razões estão dissociadas da matéria versada no acórdão recorrido, a dar ensejo à aplicação da Súmula 284 do STF.
+Nesse sentido, é pacífica a jurisprudência desta Corte. Confira-se o RE-AgR 601.686, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.2.2011, cuja ementa transcrevo:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. 1. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2. PODER JUDICIÁRIO. PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE CONCESSÃO DE BENEFÍCIO TRIBUTÁRIO NÃO PREVISTO EM LEI. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+Ainda que assim não fosse, melhor sorte não assistiria ao agravante, pois, tendo o acórdão recorrido se fundamentado exclusivamente na relação de consumo a partir de laudo pericial para apuração da responsabilidade dos danos e valores incidentes (fl.236), incidiria o óbice da Súmula 279/STF. Afinal, para entender de forma diversa, seria imprescindível a revisão dos fatos e provas analisados (laudo pericial), o que não é possível nos termos da jurisprudência desta Corte, nos termos da citada súmula. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+Portanto, tendo em conta a natureza infraconstitucional que reveste o caso, a ofensa à Constituição, se existente, ocorreria de maneira reflexa, de modo a impedir, igualmente, o conhecimento do recurso extraordinário por óbice da Súmula 279.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+Publique-se.
+Brasília, 31 de maio de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
