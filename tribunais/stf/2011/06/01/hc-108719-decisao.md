@@ -1,0 +1,33 @@
+D ECIS Ã O:
+Vistos.
+Habeas corpus, com pedido de liminar, impetrado pelo Defensor Público do Estado de São Paulo, Luciano Dal Sasso Masson, em favor de Ricardo Antônio de Almeida Pereira e Priscila Narcizo Egídio, buscando a revogação das prisões preventivas dos pacientes.
+Aponta como autoridade coatora a Ministra Laurita Vaz, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 182.001/SP, impetrado àquela Corte de Justiça.
+Inicialmente, argumenta o impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte (fls. 4 a 6 da inicial).
+No mais, sustenta, em síntese, a falta de fundamentação apta a justificar a necessidade das medidas constritivas dos pacientes, bem como a ausência dos pressupostos previstos no art. 312 do Código de Processo Penal (fls. 6 a 11 da inicial).
+Assevera, ainda, o excesso de prazo mas prisões cautelares dos pacientes, visto que a paciente encontra-se segregada desde de 10/2/10 e o paciente encontra-se segregado desde 19/3/10 (fls. 11 a 14 da inicial).
+Requer o deferimento da liminar para revogar as prisões preventivas dos pacientes e, no mérito, pede a sua confirmação (fl. 16 da inicial).
+Examinados os autos, decido.
+Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+Transcrevo o teor daquela decisão:
+“Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PRISCILA NARCIZO EGÍDIO e RICARDO ANTONIO DE ALMEIDA PEREIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou o writ originário, mantendo a prisão preventiva decretada pelo Juízo da 2ª Vara Criminal da Comarca de São Vicente/SP, nos termos da seguinte ementa:
+'Habeas Corpus – REVOGAÇÃO DA PRISÃO PREVENTIVA – Paciente denunciada como incursa no art. 159, § 1.º do Código Penal – Responsabilidade penal do paciente deve ser decidida no curso da ação penal – indícios e materialidade.
+Inocorrência de excesso de prazo – Juízo que não deu causa à demora – Princípio da Razoabilidade – Prisão Preventiva decretada. Ausência dos pressupostos para concessão da ordem – Primariedade, residência fixa e trabalho lícito são circunstâncias que não impedem a medida constritiva – inexistência de constrangimento ilegal – Impetração parcialmente conhecida e, na parte conhecida, ordem denegada.' (fl. 06)
+Alega o Impetrante, em suma, que a ora Paciente está presa, desde 10 de fevereiro de 2010 e o Paciente, desde 19/03/2010 e que o 'prazo transcorrido é bastante superior ao que a doutrina e a jurisprudência tem aceita como prazo máximo para o encerramento da instrução em feitos desta natureza' (fl. . [sic]
+Pede, assim, liminarmente, a expedição de alvará de soltura.
+É o breve relatório inicial. Decido.
+Não estão presentes os pressupostos autorizativos para a concessão da medida urgente requerida que, aliás, se confunde com o próprio mérito da impetração. Sem vislumbrar, estreme de dúvida, ilegalidade patente, reservo ao colegiado, depois de instruído o feito, o pronunciamento definitivo sobre o mérito.
+Ante o exposto, INDEFIRO o pedido de liminar”.
+Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena de supressão de instância e de grave violação das regras de competência.
+Nesse sentido, por exemplo:
+“COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+“HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+Ainda, na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+Ademais, a impetração encontra-se deficientemente instruída, uma vez que, à exceção da decisão ora questionada, o impetrante não apresentou cópia de nenhum documento para comprovar o quanto alegado na inicial. Com efeito, a ausência desses documentos impede o seguimento desta impetração, pois não há como se verificar a existência ou não, de constrangimento ilegal.
+Com essas considerações, entendendo não demonstrada, satisfatoriamente, nenhuma legalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+Publique-se.
+Brasília, 1º de junho de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
