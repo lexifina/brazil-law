@@ -1,0 +1,20 @@
+1.  Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de ROEI SHALOM HAGAG, em que se aponta como autoridade coatora o Ministro Celso Limongi (Desembargador convocado do TJ/SP), relator do HC 205.450/SP, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+2.  No caso sob análise, o paciente foi preso em flagrante delito no Aeroporto Internacional de Guarulhos – SP por ter sido surpreendido na posse de substância entorpecente (cocaína) em sua bagagem, quando embarcava para Israel. Após a instauração de inquérito policial pela Policia Federal, o Ministério Público Federal ofereceu denúncia, dando o paciente como incurso nas sanções do art. 33 c/c art. 40, inciso I, da Lei 11.343/06.
+ A inicial acusatória foi recebida no Juízo da 2ª Vara Federal da Subseção Judiciária de Guarulhos e a magistrada, posteriormente, indeferiu pedido de liberdade provisória. O Tribunal Regional Federal da 3ª Região denegou habeas corpus impetrado em favor do ora paciente.
+ No Superior Tribunal de Justiça, o Ministro Celso Limongi indeferiu a liminar no HC 205.450/SP. Daí a presente impetração.
+3.  Neste writ, o impetrante alega, em suma, carência de fundamentação válida para a manutenção da custódia do paciente.
+ Assim, requer o deferimento de medida liminar, a fim de que se determine a imediata soltura do paciente.
+4.  O Ministro Celso Limongi indeferiu o pedido de liminar no HC 205.450/SP nos seguintes termos:
+“A liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+In casu, o constrangimento ilegal não se mostra com a nitidez imprimida na inicial, uma vez que, em princípio, no exame sumário desta fase procedimental, o decreto de prisão preventiva demonstra com elementos concretos a necessidade da medida constritiva, porquanto '(...) a necessidade da custódia cautelar é justificada, notadamente, para garantia da ordem pública, com a finalidade de fazer cessar a atividade criminosa, principalmente se considerada a expressiva quantidade de drogas apreendidas na oportunidade do flagrante. Registro que a prisão não está fundada exclusivamente na condição do paciente de estrangeiro não residente no Brasil, mas na existência de circunstâncias concretas que indicam a necessidade de manutenção da prisão, a fim de assegurar a aplicação da lei penal, bem como para coneveniência da instrução criminal (...)' (fls. 18) .
+Esta Corte assim já decidiu:
+(...)
+Posto isso, indefiro a liminar”.
+5.  O rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+ Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+ Ademais, nos termos dos arts. 5º, XLIII, da Constituição Federal, e 44, caput, da Lei 11.343/06, o crime de tráfico ilícito de drogas não admite a concessão de liberdade provisória (HC 93.302, rel. Min. Cármen Lúcia, DJ 17.12.2007; HC 92.723, rel. Min. Ricardo Lewandowski, DJ 18.10.2007; HC 91.303, rel. Min. Sepúlveda Pertence, DJ 22.05.2007; e HC 89.089, rel. Min. Carlos Britto, DJ 01.06.2007).
+6.  Ante o exposto, indefiro liminarmente o presente writ.
+ Publique-se.
+ Brasília, 1º de junho de 2011.
+Ministra Ellen Gracie
+Relatora
