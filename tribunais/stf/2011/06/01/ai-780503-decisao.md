@@ -1,0 +1,26 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DISPENSA DE PROCEDIMENTO LICITATÓRIO. CONTROVÉRSIA DIRIMIDA NOS TERMOS DE NORMA INFRACONSTITUCIONAL (DEC. LEI 2.300/86). OFENSA INDIRETA À CONSTITUIÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO EM SEDE DE APELO EXTREMO.
+1. O procedimento licitatório e sua dispensa estão previstos na legislação infraconstitucional de regência.
+2. In casu, controvérsia foi decidida com amparo no dec.-lei 2.300/86, diploma anterior à lei 8.666/93, por isso que eventual violação à Constituição, se ocorrente, o foi de forma indireta, o que não viabiliza o apelo extremo. Precedentes: AI 804.096-AgR, primeira turma, Rel. Min. Cármen Lúcia, Dje de 26/11/10 e AI 725.503-AgR, segunda turma, Rel. Min. Ellen Gracie, Dje de 08/02/11).
+3. Agravo de instrumento a que se nega seguimento.
+D ECIS Ã O: Trata-se de Recurso extraordinário contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 1.506 ):
+“AÇÃO CIVIL PÚBLICA – Contratação pela CDHU de empreitada, para serviço de terraplanagem e de construção de 150 unidades no município de Capela do Auto sem licitação – Obras concluídas – Superfaturamento não comprovado – Apelos não providos”
+Contra essa decisão foi interposto recurso extraordinário onde se alegou violação ao art. 37, XXI, da CF. Sustentou-se, em síntese, que a dispensa de licitação para terraplanagem e construção de 150 (cento e cinquenta) imóveis foi indevida, uma vez que a hipótese dos autos seria de “licitação fracassada” e não de “licitação deserta”. Desta forma, deveria ter sido convocada nova licitação, uma vez que assim seria possível conseguir preços mais vantajosos para administração pública, dada a quantidade considerável de empresas interessadas na participação do certame. Assevera ainda que não ocorreu nenhuma das hipóteses de dispensa de licitação previstas em lei, e que até mesmo o acórdão recorrido reconheceu a ilegalidade da contratação direta no caso, sendo que a mera constatação de não ter havido superfaturamento não elide os vícios da contratação direta.
+O recurso teve seu seguimento obstado na origem sob o fundamento de que o mesmo não se encaixaria nos permissivos do art. 102, III, “a”, “b”, “c” e “d”, da Constituição Federal.
+É o relatório. DECIDO.
+Sem razão o agravante.
+Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+Verifica-se, na espécie, que a licitação frustrada tinha como fundamento legal o decreto-lei 2.300/86, ou seja, a licitação em comento foi erigida sob norma editada na égide da Constituição anterior. Somente com a promulgação da Carta de 88 tal obrigação foi expressamente prevista em seu inc. XXI do art. 37, e, posteriormente, com o advento da Lei 8.666/93, os procedimentos licitatórios foram devidamente regulamentados, revogando-se o aludido decreto-lei.
+Destarte, conforme se colhe dos autos, a dúvida reside exatamente em saber se o caso em comento se subsume às hipóteses de dispensa de licitação previstas no referido decreto, e, desta forma, se teria havido ou não prejuízo ao erário público quando da contratação de empresa sem que houvesse sido efetivamente realizado o procedimento licitatório.
+Colhe-se dos autos que se apresentaram para o certame 34 (trinta e quatro) empresas interessadas na prestação do serviço a ser então licitado, e, após a admissão de outra concorrente no certame, houve a irresignação e posterior retirada das demais empresas do processo, assim, uma vez que a proposta apresentada pela empresa remanescente representava exatamente o valor mínimo apresentado pelo órgão público para realização da obra, decidiu-se pela contratação direta dessa, nos termos do art. 22, VI, do Dec.-Lei 2.300/86. Verifica-se assim que a controvérsia foi decidida com amparo na interpretação da legislação infraconstitucional que disciplina a espécie, eventual violação à Constituição, se ocorrente, é indireta, o que não viabiliza o apelo extremo.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. LICITAÇÃO. LEI N. 8.666/93. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 804.096-AgR, primeira turma, Rel. Min. Cármen Lúcia, Dje de 26/11/10).
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IMPROBIDADE ADMINISTRATIVA. DISPENSA INDEVIDA DE PROCEDIMENTO LICITATÓRIO. SUSPENSÃO DE DIREITOS POLÍTICOS. LEIS 8.666/93 E 8.429/92. MATÉRIA INFRACONSTITUCIONAL.
+(...)
+4.  É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se o reexame de legislação infraconstitucional, dado o óbice da Súmula STF 279. Precedentes.
+5.  Agravo regimental improvido.” (AI 725.503-AgR, segunda turma, Rel. Min. Ellen Gracie, Dje de 08/02/11).
+Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+Publique-se. Int..
+Brasília, 1º de junho de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
