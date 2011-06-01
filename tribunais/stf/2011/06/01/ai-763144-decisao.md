@@ -1,0 +1,34 @@
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. DESAPROPRIAÇÃO. IMISSÃO PROVISÓRIA NA POSSE. DL 3.365/41 (LEI DAS DESAPROPRIAÇÕES). ACÓRDÃO QUE AFASTA, EM PARTE, A APLICAÇÃO DA REFERIDA NORMA SEM SUBMETÊ-LA A APRECIAÇÃO DO TRIBUNAL PLENO OU SUA CORTE ESPECIAL. VIOLAÇÃO AO ART. 97 DA CF. SÚMULA VINCULANTE 10. CONSTITUCIONALIDADE. SÚMULA 652 DO STF. AGRAVO PROVIDO. RECURSO EXTRAORDINÁRIO ADMITIDO E PROVIDO.
+1. O art. 97 da CF resta violado quando a decisão proferida por órgão colegiado que afasta, ainda que em parte, a incidência de uma norma sem submetê-la ao Plenário ou Corte Especial do Tribunal. Incidência da Súmula Vinculante nº 10, in verbis: “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+2. In casu, o TJSP, negou a aplicação da alínea “c” do § 1º do art. 15 do DL 3.365/71, ao recusar o valor oferecido pelo Estado de São Paulo, superior ao valor cadastral atualizado do imóvel, para imissão provisória na propriedade que se pretende desapropriar por utilidade pública.
+3. O DL 3.365/41 não ofende o art. 5º, XXIV, da CF, consoante o enunciado da Súmula 652 do STF, in verbis: “Não contraria a Constituição o art. 15, § 1º do DL 3365/41 (Lei de Desapropriação por utilidade pública).”
+4. Agravo de instrumento provido para admitir o recurso extraordinário, e, desde logo, dar-lhe provimento.
+D ECIS Ã O: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+“EMBARGOS DE DECLARAÇÃO – Fungibilidade – Recebimento como AGRAVO INTERNO – Decisão monocrática que nega seguimento ao agravo de instrumento porque intempestivo – Reiteração do pedido de imissão na posse, antes da publicação da decisão agravada – Demonstração – Interposição do agravo que se deu no prazo legal – Tempestividade reconhecida – Recurso provido para conhecer do agravo de instrumento.
+DESAPROPRIAÇÃO – Utilidade pública – Pretensão à imissão provisória na posse – Decisão que nomeia perito para imediata avaliação prévia e determina a citação dos réus – Admissibilidade – Necessidade de prévia avaliação para justa indenização – Desnecessidade, contudo, de anterior citação – Art. 15, § 1º, c.c art. 19, ambos do DL 3.365/71 – Recurso não provido, com observação”.
+Cuida-se, na origem, de ação de desapropriação por utilidade pública ajuizada pelo Estado de São Paulo em face de IK SOON LEE e CHUNG JA LEE, proprietários de imóvel situado no bairro da Luz, na cidade de São Paulo, onde a ora agravante pretende construir um teatro com vistas de revitalização da localidade.
+Nos termos do DL 3.365/41, o agravante alegou urgência e requereu a imediata imissão na posse, antes mesmo da citação dos ora agravados, e com alegada oferta de valor superior ao valor cadastral atualizado do imóvel.
+Indeferido pedido na primeira instância, foi interposto agravo de instrumento, o qual, após o seu processamento, no mérito, manteve a decisão interlocutória proferida pelo juiz da causa com arrimo no seguinte fundamento: “(...) incabível a aceitação de preço unilateralmente informado pela expropriante, deixando que a justa indenização caia na vala comum dos precatórios estatais” (fl. 88).
+Contra essa decisão foi interposto recurso extraordinário com fundamento no art. 5º, XXIV, e 97 da CF/88. Alegou-se que a decisão vergastada afastou a aplicação da alínea “c” do § 1º do art. 15 do DL 3.365/41 sem que se tenha observado a cláusula de reserva de Plenário prevista no art. 97 da CF, e, consequentemente, da Súmula Vinculante nº 10. Sustenta-se ainda que o referido dispositivo legal já passou pelo crivo de constitucionalidade desta Corte, o que culminou na edição da Súmula 652 do STF.
+O recurso teve seu seguimento negado na origem com fundamento na falta de violação aos dispositivos constitucionais aventados, o que não evidenciaria hipótese de cabimento do apelo extremo.
+É o relatório. DECIDO.
+Com razão o agravante.
+A controvérsia dos autos cinge-se no indeferimento pelo Tribunal de Justiça de São Paulo da concessão de imissão provisória na posse de imóvel pelo ente federativo expropriante que, alegando urgência e depositando o valor superior ao arbitrado para incidência do IPTU, requereu o provimento judicial nos termos da alínea “c” do § 1º do art. 15 do DL 3.365/41.
+O referido dispositivo possui a seguinte redação:
+“Art. 15. Se o expropriante alegar urgência e depositar quantia arbitrada de conformidade com o art. 685 do Código de Processo Civil, o juiz mandará imití-lo provisoriamente na posse dos bens;
+§ 1º A imissão provisória poderá ser feita, independente da citação do réu, mediante o depósito (omissis);
+c) do valor cadastral do imóvel, para fins de lançamento do impôsto territorial, urbano ou rural, caso o referido valor tenha sido atualizado no ano fiscal imediatamente anterior; (omissis)”.
+Deveras, não obstante se reconheça a nobreza do receio exarado pelo Tribunal de origem em relação ao pagamento da justa e prévia indenização no ato de desapropriação, ao afastar no caso concreto a aplicação do referido diploma legal por órgão fracionário daquela E. Corte, houve a violação ao art. 97, da CF, que assim dispõe:
+“Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar a inconstitucionalidade de lei ou ato normativo do Poder Público.”
+Vale ressaltar, nesse sentido, que o Supremo Tribunal Federal editou a Súmula Vinculante nº 10, in verbis:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+Ademais, o Supremo Tribunal Federal possui entendimento consolidado no sentido de que o DL 3.365/41 não ofende o art. 5º, XXIV, da CF. Essa orientação foi objeto da edição da Súmula 652 do STF, in verbis: “Não contraria a Constituição o art. 15, § 1º, do DL 3365/41 (Lei de Desapropriação por utilidade pública).”
+A respeito da aplicabilidade da referida Súmula, assim dispõe Roberto Rosas:
+“ A emissão provisória na posse sem citação do réu, com depósito não conflita com o princípio constitucional da justa e prévia indenização em dinheiro (CF – art. 5º XXIV).”
+Desse entendimento divergiu o acórdão recorrido.
+Ex positis, DOU PROVIMENTO ao agravo de instrumento, e, presentes nos autos os elementos suficientes, determino a sua conversão em RECURSO EXTRAORDINÁRIO, para, desde logo, DAR-LHE PROVIMENTO. (art. 544, II, “c”, do CPC).
+Publique-se.
+Brasília, 1º de junho de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
