@@ -1,0 +1,21 @@
+D ECIS Ã O : Vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão assim ementado:
+“HABEAS CORPUS. EXECUÇÃO DE PENA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. HOMOLOGAÇÃO DE FALTA GRAVE. EFEITOS. INDULTO. PRECEDENTES. ORDEM DENEGADA.
+1. Cristalizou-se na jurisprudência da Quinta Turma desta Corte que o cometimento de falta grave pelo apenado importa a perda dos requisitos objetivos, no que diz respeito ao pleito do benefício do indulto, quando o decreto concessivo contiver referência expressa à mencionada infração disciplinar.
+2. Diante do cometimento de falta grave no período inferior a 12 meses da publicação do indulto, o paciente não faz jus à benesse preconizada no Decreto 7.046/09.
+3. Ordem denegada.”
+2. Pois bem, a Defensoria Pública da União, impetrante, renova a tese de que o paciente preenche todos os requisitos (objetivos e subjetivos) para alcançar o benefício do indulto, na forma do Decreto nº 7.046/09. Argumenta que a falta grave apontada como óbice à concessão do indulto não foi apurada nos termos do artigo 59 da Lei de Execuções Penais, dada a “ausência de defesa técnica no procedimento administrativo disciplinar”. Daí o pedido de liminar para a imediata suspensão dos efeitos do acórdão adversado. No mérito, a defesa pugna pela concessão da ordem “a fim de que seja modificada a decisão, com o conseqüente reconhecimento do direito do réu em ver concedido o indulto por estarem presentes os requisitos preconizados no Decreto 7.046/09.”
+3. Feita esta aligeirada síntese do pedido, decido. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir do julgador uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não tenho por configurados, de plano, os requisitos necessários à concessão do provimento cautelar requestado. De saída, lembro que a Constituição Federal de 1988, ao cuidar do habeas corpus (inciso LXVIII do artigo 5º), autoriza o respectivo manejo “sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção”. Mas a Constituição não para por aí e arremata o seu discurso normativo pela seguinte forma: “por ilegalidade ou abuso de poder”. Saltando aos olhos que ilegalidade e abuso de poder não se presumem, pois, aí, a presunção é exatamente inversa. E, nesse caso, ou os autos dão conta de uma vistosa violência indevida, de um cerceio absolutamente antijurídico por abuso de poder ou por ilegalidade, ou do habeas corpus não se pode socorrer o paciente. Ilegalidade ou abuso de poder que não sobressaem do exame provisório das peças que estão a instruir este processo. Peças cuja leitura preliminar sinaliza que
+“[...]
+A falta grave foi amplamente comprovada pelo auto de prisão em flagrante à fl. 16, bem como pela sentença condenatória às fls. 23/26.
+Restando comprovado nos autos que o agravante cometeu falta grave no período aquisitivo do benefício, correta a decisão que indeferiu a concessão de indulto, por absoluta ausência do requisito subjetivo.
+[...]”
+5. Por tudo quanto posto, indefiro o provimento cautelar requerido; reservando-me, é claro, a um mais detido exame da causa por ocasião do julgamento de mérito desta ação constitucional.
+6. Requisitem-se, com a máxima urgência, informações atualizadas, e circunstanciadas, ao Juízo da 3ª Vara Criminal da Comarca de Dourados/MS; facultada a prestação de esclarecimentos sobre a petição inicial deste habeas corpus (cuja cópia acompanhará o expediente).
+Publique-se.
+Intime-se.
+Brasília, 02 de junho de 2011.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
