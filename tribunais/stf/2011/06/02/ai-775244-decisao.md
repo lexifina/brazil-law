@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual manteve sentença que considerou válida cláusula de edital de concurso público que exige apresentação de diploma de curso superior como condição para nomeação e posse.
+ No RE, alega-se ofensa aos arts. 2º e 37, I, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o art. 2º da Carta Maior não se encontra prequestionado, porque não abordado pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, a jurisprudência desse Supremo Tribunal Federal é pacífica no sentido de que, em casos como o dos presentes autos, onde a solução da controvérsia depende da interpretação de normas de edital de concurso público, eventual ofensa constitucional somente poderia ocorrer de forma reflexa ou indireta, o que impede o trâmite do recurso extraordinário. Nesse sentido os AI 830.779-AgR/DF, de minha relatoria, 2ª Turma, DJe 09.5.2011; e AI 767.533-AgR/MT, rel. Min. Cármen Lúcia, 1ª Turma, 12.3.2010, este último assim ementados:
+“EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. APLICABILIDADE E VALIDADE DE NORMAS DE EDITAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DA ANÁLISE DAS CLÁUSULAS EDITALÍCIAS E DO REEXAME DE PROVAS. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS 279 E 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta”.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 02 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
