@@ -1,0 +1,14 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que assegurou aos agravados a investidura nos cargos de Inspetor de Polícia Civil de 1ª Classe do Estado do Ceará.
+ No RE, sustenta-se ofensa aos artigos 37, I a IV, da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que o Tribunal de origem decidiu a controvérsia com fundamento no conjunto fático-probatório dos autos e na legislação infraconstitucional que disciplina a matéria. É o que se percebe da leitura da ementa do seguinte trecho do acórdão recorrido. Veja-se:
+“3. A Secretaria do Planejamento e Gestão do Estado do Ceará, por meio do Edital 23/2008, convocou nominalmente os recorrentes a comparecerem ao Departamento de Recursos Humanos da Superintendência da Polícia Civil para entrega de documentos com o objetivo de dar início ao processo de nomeação para os respectivos cargos efetivos, revelando, dessa forma, a necessidade do provimento das vagas existentes.
+4. A partir da veiculação, por meio de Edital de convocação, do interesse público da Administração em dar início ao processo de investidura dos candidatos aprovados, a nomeação e a posse, que ficariam, em princípio, à discrição administrativa, tornam-se vinculados, gerando, em contrapartida, direito subjetivo em prol dos convocados; somente diante de relevante ou insuperável razão financeira, econômica ou orçamentária, devidamente comprovada, esse direito subjetivo poderá ser postergado .
+5. Neste caso, a aprovação/classificação dos recorrentes no Concurso Público para o provimento de cargos de Inspetor de Polícia Civil de 1a. Classe do Estado do Ceará se deu além do número de vagas ofertadas no Edital de abertura, porém, documento oficial do Departamento de Recursos Humanos da Secretaria da Segurança Pública e Defesa Social, posteriormente expedido, indica a existência de 237 vagas de Inspetor de Polícia Civil do Estado do Ceará, conforme indica a Lei Estadual 14.112/08, dessa mesma Unidade Federativa.
+6. A vinculação da Administração Pública aos atos que emite, combinada com a existência de vagas impõe a nomeação, posse e exercício dos recorrentes nos cargos de Inspetor de Polícia Civil de 1a. Classe do Estado do Ceará.
+7. Recurso provido para assegurar aos recorrentes a investidura nos cargos de Inspetor de Polícia Civil de 1a. Classe do Estado do Ceará, em que pese o parecer ministerial pelo desprovimento do recurso ” (fls 206-207).
+ Dessa forma, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas, cláusulas de edital e a análise de legislação local (Lei Estadual 14.112/08), hipóteses inviáveis em sede extraordinária (Súmulas STF 279, 454 e 280)
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 02 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
