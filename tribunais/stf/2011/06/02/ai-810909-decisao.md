@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação aos arts. 5º, LV, e 41, § 1º, da Constituição Federal. O Tribunal de origem manteve sentença de improcedência do pedido em ação que objetivou anulação do ato administrativo que, após regular processo administrativo, demitiu o autor por excesso de faltas injustificadas; a conseqüente reintegração no serviço público, bem como indenização por danos morais e materiais. Consta da ementa do acórdão (fls. 101-111):
+“ADMINISTRATIVO – SERVIDOR PÚBLICO – ABANDONO DE EMPREGO – PROCESSO DISCIPLINAR E PENA DE DEMISSÃO – PROCEDIMENTO ADMINISTRATIVO REGULAR – VALIDADE DO ATO – ALCOOLISMO – NEXO DE CAUSALIDADE NÃO COMPROVADO.
+1. O abandono do serviço, por parte do servidor público, é causa que autoriza o Administrador a instaurar processo disciplinar com vista a demiti-lo.
+2. Após cerca de 9 meses de faltas injustificadas, não pode o autor querer atribuir sua conduta ao fato de ser alcoólatra, ainda mais quando tal circunstância foi veementemente negada por ocasião do procedimento administrativo realizado (...).
+3. Inexistindo, portanto, qualquer ilegalidade, abuso de poder ou arbitrariedade a comprometer a validade do ato demissionário impugnado, a manutenção da sentença de improcedência do pedido é medida que se impõe”.
+2.  A Corte de origem asseverou que a questão exige revolvimento de fatos e de provas (fls. 427-428).
+3.  O agravo, entretanto, não merece prosperar. Inicialmente, os dispositivos constitucionais referidos não foram prequestionados, porque não abordados pelo acórdão recorrido, ao qual não foram opostos embargos de declaração, não sendo suprido, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356). Ademais, a controvérsia relativa ao reexame do julgamento proferido na Corte de origem, para fins de nulidade, por suposta ofensa ao princípio do contraditório, à ampla defesa e ao duplo grau de jurisdição, reside no campo processual, inviabilizando o trânsito do apelo extremo interposto a pretexto de contrariedade ao disposto no art. 5º, LV, da Constituição Federal.
+ Vejam-se: AI 639.672-AgR/RJ, rel. Min. Menezes Direito, 1ª Turma, unânime, DJe 27.6.2008; AI 635.749-AgR/DF, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 24.4.2008; AI 746.588-AgR/MG, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 26.6.2009; e AI 747.066-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, unânime, DJe 26.6.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 2 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
