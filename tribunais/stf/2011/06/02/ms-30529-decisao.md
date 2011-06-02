@@ -1,0 +1,46 @@
+1.  André Augusto Mouço Valente, em 7 de dezembro de 2010, impetrou na Seção Judiciária do Distrito Federal, do Tribunal Regional Federal da 1ª Região, o presente mandado de segurança, com pedido de medida liminar, contra ato do Procurador-Geral da República, executado pelo Centro de Seleção e de Promoção de Eventos da Universidade de Brasília – CESPE/UnB, consubstanciado na reprovação do impetrante na prova prática de direção veicular, realizada no dia 21 de novembro de 2010, no âmbito do 6º Concurso Público destinado ao provimento de cargos de Técnico de Apoio Especializado/Transporte, dos quadros do Ministério Público da União, prevista no Edital n. 1 – PGR/MPU, de 30 de junho de 2010.
+ Requer, ao final, a declaração da nulidade do resultado do teste de direção, “por ausência de determinação de critério técnico e objetivo na realização da prova de direção, que proporcione ao impetrante o pleno exercício dos princípios da ampla defesa e da publicidade”.
+2.  Em 13 de dezembro de 2010, o Juízo Federal da 3ª Vara Cível da Seção Judiciária do Distrito Federal declinou de sua competência e determinou o envio dos autos ao Supremo Tribunal Federal (art. 102, I, d, da Constituição Federal).
+3.  Em 12 de abril de 2011, a Secretaria desta Corte encaminhou os autos ao Ministro Joaquim Barbosa, sob o argumento de que a petição inicial do presente writ seria similar à petição do Mandado de Segurança 30.136/DF.
+4.  Em 14 de abril de 2011, o Ministro Joaquim Barbosa submeteu o feito à Presidência do STF, para que decidisse quanto à existência de prevenção ou eventual livre distribuição do feito.
+5.  Em 6 de maio de 2011, o Presidente do Supremo Tribunal Federal, Ministro Cezar Peluso, decidiu:
+“(...)
+2. É caso de redistribuição.
+De fato, verifico do sítio eletrônico que este MS nº 30.529 e o MS nº 30.136 possuem a mesma origem, qual seja, o MS nº 565351720104013400, da 3ª Vara Federal da Seção Judiciária do Distrito Federal.
+Conquanto os dois mandamus tenham sido distribuídos ao eminente Min. JOAQUIM BARBOSA, este MS nº 30.529 foi autuado em 6.4.2011, data posterior ao trânsito em julgado da decisão do referido MS nº 30.136 a qual se deu em 4.3.2011 (Publicação, DJE nº 248, divulgado em 16/12/2010).
+3. Afastada a possibilidade de decisões conflitantes, determino a redistribuição do feito na forma regimental.
+(...)” (DJe 18.5.2011).
+6.  Faz-se necessário um breve escorço histórico neste caso.
+   Em 11 de novembro de 2010, André Augusto Mouço Valente impetrou nesta Suprema Corte o Mandado de Segurança 29.855/DF, com pedido de medida liminar, contra ato do Procurador-Geral da República, consubstanciado na exigência de teste de aptidão física na realização do 6º Concurso Público destinado ao provimento de cargos de Técnico de Apoio Especializado/Transporte, dos quadros do Ministério Público da União, prevista no Edital n. 1 – PGR/MPU, de 30 de junho de 2010.
+ Em 12 de novembro de 2010, o Ministro Joaquim Barbosa deferiu o pedido de medida liminar, para remover o obstáculo à continuação do impetrante no referido certame, de modo que ele pudesse realizar a terceira prova eliminatória – prova prática de direção veicular (DJe 18.11.2011).
+ Em 21 de novembro de 2010, o impetrante foi reprovado na prova prática de direção veicular. Por esse motivo, o Ministro Joaquim Barbosa em 1º de fevereiro de 2011 extinguiu o Mandado de Segurança 29.855/DF, em decisão transitada em julgado em 2 de março de 2011, da qual extraio o seguinte trecho:
+“(...)
+Deferi a cautelar para que o impetrante não fosse desclassificado na prova de aptidão física e pudesse participar da prova seguinte do processo seletivo (prova prática de direção veicular).
+A Procuradoria Geral da República informou que o impetrante não foi aprovado na prova de direção veicular (item 1.25 do edital 30-PGR-MPU, de 30.11.2010, cópia anexa à pet. 71778/2010).
+A anulação da prova de aptidão física, neste cenário, não traria qualquer resultado prático para o impetrante.
+Ante o exposto, julgo extinto o presente mandado de segurança por perda de seu objeto. Prejudicada a medida cautelar anteriormente deferida.” (DJe 10.02.2011).
+ Em 10 de dezembro de 2010, o Mandado de Segurança 30.136/DF foi distribuído, por prevenção (Mandado de Segurança 29.855/DF), ao Ministro Joaquim Barbosa.
+7.  O Mandado de Segurança 30.136/DF possui o mesmo objeto do presente writ (Mandado de Segurança 30.529/DF), qual seja a reprovação do impetrante na prova prática de direção veicular, realizada no dia 21 de novembro de 2010, no âmbito do 6º Concurso Público destinado ao provimento de cargos de Técnico de Apoio Especializado/Transporte, dos quadros do Ministério Público da União, prevista no Edital n. 1 – PGR/MPU, de 30 de junho de 2010.
+   No Mandado de Segurança 30.136/DF, o impetrante também objetivava a declaração da nulidade do resultado do teste de direção.
+ Ao julgar o Mandado de Segurança 30.136/DF, em 13 de dezembro de 2010, o eminente relator, Ministro Joaquim Barbosa, negou-lhe seguimento, nos seguintes termos:
+“(...)
+Relata o impetrante que efetivamente realizou referida prova prática, porém foi nela reprovado. Alega que a sua reprovação deveu-se a uma série de ilegalidades que teriam sido cometidas durante o exame. Nesse sentido, transcrevo da petição inicial:
+'O impetrante alega ter sido penalizado injustamente pelos examinadores da prova prática de direção do presente concurso atribuindo-lhe injustamente, no mínimo, 6 pontos decorrentes de infrações que poderiam ser descaracterizadas em sede recursal através do uso do Tacógrafo como meio de prova.
+A primeira destas infrações que não ocorreram foi a denominada 'Descontrolar-se no plano, no aclive ou no declive' – penalidade: (3) três pontos, situação que jamais ocorreu. O que houve foi que enquanto o candidato estava em um declive ele engrenou marcha incorretamente – penalidade (3) três pontos, e o motor do veículo parou de funcionar, penalidade (2) dois pontos, totalizando nesta seqüência de atos: 5 pontos.
+O candidato então, em ato contínuo, freou o veículo com o popular freio de 'pé', logo após puxou o freio de estacionamento (o popular freio de Mão) sem perder o comando e controle do volante do carro, acionou o pisca-alerta, ligou o veículo, desligou o pisca-alerta e prosseguiu no tráfego normalmente sem nenhum problema.
+Ora se existisse o descontrole do veículo outras faltas decorrentes deste ato deveriam ter sido anotadas, pois, de fato normalmente estão associadas como estacionar incorretamente na via ou desrespeito a sinalização horizontal e vertical e nada disso foi anotado no exame do impetrante.
+Cumpre esclarecer que o impetrante mudou a categoria da sua habilitação para o tipo 'D' há apenas 30 dias antes da prova de direção e o fez em um micro-ônibus, veículo maior e de dirigibilidade mais complexa cometendo apenas uma falta leve naquela ocasião, não faz o menor sentido tal infração ser atribuída nessa prova quando dirigia a Van de marca/modelo Mercedes/Sprinter que é bem menor e de dirigibilidade menos complexa.
+Outra falta marcada erroneamente foi a de 'engrenar as marchas incorretamente' - penalidade (3) três pontos, duas vezes, o que é uma inverdade. O candidato reconhece apenas e tão somente que engrenou marcha incorretamente uma vez e isso acarretou o desligamento sem justificativa do motor. Durante todo o exame o engreno de marchas ocorreu dentro da rotação adequada ao veículo.
+Nesse tipo de situação o impetrante conseguiria provar facilmente o seu direito se lhe fosse dado meio técnico adequado para exercer o seu direito de ampla defesa que se traduz na utilização de Tacógrafo, instrumento criado inclusive para esse fim qual seja avaliar tecnicamente a maneira de como os motoristas estão dirigindo. E isso não ocorreu.
+O impetrante então recorreu administrativamente do resultado (DOC. ANEXO), mas sem contar a utilização de meio técnico legítimo, TACÓGRAFO, para atestar de fato as suas alegações e exercer o seu pleno direito a ampla defesa.
+E mais, a delegação de execução da terceira etapa dada pelo CESPE a Polícia Civil para a realização da prova de direção não respeita o estatuto do órgão, como também aos princípios da legalidade e da publicidade.'
+   As alegações deduzidas pelo impetrante têm como pano de fundo eventos cujo esclarecimento exigiria ampla dilação probatória.
+Além disso, não há espaço no rito do mandado de segurança para se questionar a pontuação atribuída ao candidato na prova prática, por se tratar de julgamento que se insere no campo da discricionariedade regrada pelo edital do concurso. A possibilidade de atribuir esse juízo ao avaliador nitidamente não viola qualquer dos princípios mencionados.
+Do exposto, nego seguimento ao mandado de segurança.” (DJe 17.12.2010).
+8.  Verifico, dessa forma, que a presente impetração se encontra fundada nos mesmos fatos, causas de pedir e pedido veiculados no Mandado de Segurança 30.136/DF, distribuído anteriormente ao eminente Ministro Joaquim Barbosa .
+ A decisão proferida no Mandado de Segurança 30.136/DF transitou em julgado em 2 de março de 2011 (Código de Processo Civil, art. 301, § 1º).
+9.  Ante o exposto, julgo extinto o presente processo, sem resolução de mérito (Código de Processo Civil, art. 267, V).
+ Publique-se e arquive-se.
+ Brasília, 2 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
