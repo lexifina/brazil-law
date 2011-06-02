@@ -1,0 +1,26 @@
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL PRESUMIDA. FILHA DE EX- COMBATENTE. PENSÃO ESPECIAL. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+1. A repercussão geral é presumida quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante desta Corte (artigo 323, § 1º, do RISTF ).
+2. O Supremo Tribunal Federal ao julgar casos semelhantes ao dos autos, referentes ao direito de filha de ex-combatente à pensão especial, fixou jurisprudência no sentido de que este direito é regido pela legislação vigente na data do óbito do instituidor. (Precedentes: MS 21.707/DF, Redator para o acórdão o Ministro Marco Aurélio, Pleno DJ de 22.09.95; AI 537.651-AgR, Relator o Ministro Eros Grau, Primeira Turma, DJ de 11.11.05; AI 724.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ de 1º.10.10)
+3. Recurso extraordinário a que se nega seguimento.
+D ECIS Ã O: Trata-se de recurso extraordinário interposto contra acórdão prolatado pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 143):
+“PENSÃO DE EX-COMBATENTE. REVERSÃO DO BENEFÍCIO. FILHA MAIOR DE 21 ANOS, EM DECORRÊNCIA DO ÓBITO DA MÃE OCORRIDO ANTES DA LEI Nº 8.059/90. A Lei nº 8.059 de 04 de julho de 1990, que regulamentou o artigo 53 do ADCT, estabelece, em seu artigo 5º, III, as condições para a persecução do benefício. A autora é maior de 21 anos e, por isso, não faz jus à pensão aumentada. No que concerne à assistência médico-hospitalar gratuita, de que trata o art. 53, IV, do ADCT, a sentença que a concedeu é mantida. Sentença reformada. Apelação e remessa necessária providas em parte.”
+A recorrente, filha de ex-combatente, afirma que percebia pensão especial no valor correspondente ao soldo de um Segundo Tenente das Forças Armadas. Alega que a União reduziu o valor nominal do benefício, que passou a ser calculado com base no soldo de um Segundo Sargento, o que teria violado o direito adquirido e o princípio da irredutibilidade de vencimentos, previstos, respectivamente, nos artigos 5º, inciso XXXVI, e 37, inciso XV, da Constituição Federal, verbis:
+“Art. 5º (...)
+XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a coisa julgada;”
+“Art. 37 (...)
+XV - o subsídio e os vencimentos dos ocupantes de cargos e empregos públicos são irredutíveis, ressalvado o disposto nos incisos XI e XIV deste artigo e nos arts. 39, § 4º, 150, II, 153, III, e 153, § 2º, I;”
+Requer o provimento do apelo extremo.
+É o relatório. DECIDO.
+Não assiste razão à recorrente.
+Ab initio, deixo de apreciar a existência da repercussão geral, uma vez que o artigo 323, § 1º, do RISTF dispõe que "tal procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+O Pleno do Supremo Tribunal Federal, ao julgar caso semelhante ao dos autos, referente ao direito de filha de ex-combatente à pensão especial, fixou jurisprudência no sentido de que este direito é regido pela legislação vigente à data do óbito do instituidor. Eis a ementa do acórdão:
+“PENSÃO - EX-COMBATENTE - REGÊNCIA. O DIREITO A PENSÃO DE EX-COMBATENTE E REGIDO PELAS NORMAS LEGAIS EM VIGOR A DATA DO DO EVENTO MORTE. TRATANDO-SE DE REVERSÃO DO BENEFÍCIO A FILHA MULHER, EM RAZÃO DO FALECIMENTO DA PRÓPRIA MÃE QUE A VINHA RECEBENDO, CONSIDERAM-SE NÃO OS PRECEITOS EM VIGOR QUANDO DO ÓBITO DESTA ÚLTIMA, MAS DO PRIMEIRO, OU SEJA, DO EX-COMBATENTE.” (MS 21.707/DF, Redator para o acórdão o Ministro Marco Aurélio, DJ de 22.09.95).
+No mesmo sentido, os seguintes julgados:
+“EMENTA: PENSÃO DE EX-COMBATENTE. SEGUNDO-SARGENTO. REGÊNCIA PELA LEGISLAÇÃO EM VIGOR NA DATA DO ÓBITO DO INSTITUIDOR. DEPENDENTES. MATÉRIA INFRACONSTITUCIONAL. 1. A pensão deixada por ex-combatente é regida pelas normas vigentes na data do óbito de seu instituidor. 2. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento.” (AI 537.651-AgR, Relator o Ministro Eros Grau, Primeira Turma, DJ de 11.11.05).
+“EMENTA: CONSTITUCIONAL. PENSÃO POR MORTE DE EX-COMBATENTE DA SEGUNDA GUERRA MUNDIAL. FALECIMENTO OCORRIDO EM 1982. INAPLICÁVEL A SISTEMÁTICA DO ART. 53, ADCT. É DEVIDA PENSÃO CORRESPONDENTE À DE SEGUNDO-SARGENTO. LEI 4.242/63. Esta Corte assentou o entendimento de que a pensão especial por morte de ex-combatente da Segunda Guerra Mundial rege-se pelas disposições normativas em vigor no momento do óbito (MS 21.707, red. para o acórdão min. Marco Aurélio, DJ 22.09.1995). Ocorrido o óbito em 1982, o valor da pensão deve corresponder ao da deixada por segundo-sargento. Agravo regimental a que se nega provimento.” (AI 724.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ de 1º.10.10)
+Ex positis, nego seguimento ao recurso extraordinário com fundamento no artigo 21, § 1º, do RISTF.
+Publique-se.
+Brasília, 2 de junho de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
