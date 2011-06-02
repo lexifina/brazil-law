@@ -1,0 +1,21 @@
+DECISÃO: vistos, etc.
+Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão que não reconheceu a incidência da causa especial de diminuição da reprimenda, na forma do § 4º do artigo 33 da Lei nº 11.343/2006.
+2. Pois bem, a Defensoria Pública da União renova a tese de que o paciente faz jus à minorante do § 4º do artigo 33 da Lei 11.343/2006. Paciente condenado a 5 anos de reclusão, em regime inicial fechado, por tráfico de substância entorpecente. Estes os principais fundamentos da impetração: a) o acusado não se dedica à atividade criminosa; b) o tráfico na forma do § 4º do artigo 33 da Lei de Drogas “perde o caráter de crime equiparado a hediondo”; c) reconhecida a minorante em causa, o condenado terá direito à substituição da reprimenda, conforme a pacífica jurisprudência deste STF. Daí o pedido de imediato reconhecimento da causa especial de diminuição de pena, em seu grau máximo (2/3). Pugna, ainda, a defesa pela concessão de regime prisional aberto, bem como a substituição da pena privativa de liberdade em restritiva de direitos.
+3. Feito este breve relato da causa, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+4. No caso, não tenho por configurados, de plano, os requisitos necessários à concessão do provimento cautelar requestado. É que, neste juízo provisório da causa, não tenho como desfazer as premissas que embasaram o acórdão impugnado. Acórdão assim ementado:
+“HABEAS CORPUS. NARCOTRÁFICO. PACIENTE CONDENADO A 5 ANOS DE RECLUSÃO. INVIABILIDADE DA APLICAÇÃO DA FRAÇÃO REDUTORA DO § 4o. DO ART. 33 DA LEI 11.343/06. PACIENTE QUE SE DEDICA À ATIVIDADE CRIMINOSA. AUSÊNCIA DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. PENA SUPERIOR A 4 ANOS. NÃO PREENCHIMENTO DO REQUISITO OBJETIVO DO ART. 44 DO CPB. DELITO PRATICADO APÓS A VIGÊNCIA DA LEI 11.464/07. REGIME INICIAL FECHADO QUE SE IMPÕE. PARECER DO MPF PELA CONCESSÃO PARCIAL DO WRIT. ORDEM DENEGADA, NO ENTANTO.
+1. A redução da pena de 1/6 até 2/3, prevista no art. 33, § 4o. da Lei 11.343/06, objetivou suavizar a situação do acusado primário, de bons antecedentes, que não se dedica a atividades criminosas nem integra organização criminosa, proibida, de qualquer forma, a conversão em restritiva de direito.
+2. Ocorre que, no caso concreto, reconheceu-se que o paciente se dedica à atividade criminosa, não preenchendo, portanto, os requisitos previstos no § 4o. do art. 33 da Lei 11.343/06, motivo pelo qual não há que se cogitar de sua aplicação.
+3. A alteração dessa conclusão ensejaria, necessariamente, reexame aprofundado de circunstâncias fáticas, que, in casu, não estão evidentes, impedindo a análise do tema por meio da via exígua do Habeas Corpus.
+4. Independentemente da discussão sobre a constitucionalidade ou não do art. 44 da Lei 11.343/06, o total da pena imposta, in casu, impede a substituição pretendida, nos termos do art. 44 do CPB.
+5. Se o delito ocorreu após a vigência da Lei 11.464/2007, impõe-se obrigatoriamente o regime fechado como o inicial, independentemente do quantum de pena aplicado. Precedentes.
+6. Ordem denegada, em que pese o parecer ministerial em sentido contrário.”
+(Sem destaques no original)
+4. Por tudo quanto posto, indefiro a medida liminar requestada; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito deste HC.
+5. Dê-se vista dos autos à Procuradoria-Geral da República
+Publique-se.
+Intime-se.
+Brasília, 02 de junho de 2011.
+Ministro A YRES B RITTO
+Relator
+Documento assinado digitalmente
