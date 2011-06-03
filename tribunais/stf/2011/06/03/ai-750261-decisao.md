@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão, cuja ementa é do seguinte teor (fls. 08):
+“EMENTA: AÇÃO ANULATÓRIA DE DÉBITO. ALEGAÇÃO DE FRAUDE NA MEDIÇÃO DO CONSUMO DE ENERGIA ELÉTRICA. ATO ABUSIVO. AUSÊNCIA DE COMPROVAÇÃO. OFENSA AOS PRINCÍPIOS DA INFORMAÇÃO, AMPLA DEFESA, CONTRADITÓRIO E PRESUNÇÃO DE INOCÊNCIA. Abusivo o ato de concessionária de serviço público em atribuir a consumidor a responsabilidade por fraude em medidor de consumo de energia elétrica sem apresentar qualquer meio de prova bastante para tanto. O débito gerado unilateralmente ao consumidor, em razão da fraude que lhe é imputada, deve se basear em critérios de razoabilidade, não merecendo prevalecer caso inobservadas as garantias do contraditório e da ampla defesa, assim como o dever de informação inerente ao contrato de consumo.”
+No recurso extraordinário, a ora agravante aponta violação do art. 37, caput, da Carta Magna. Sustenta, em síntese, que “deve ser observado o princípio constitucional acima citado, também denominado princípio da legalidade, inexistindo fundamento para a desconstituição do Termo de Ocorrência de Irregularidade lavrado pela Recorrente, o qual originou o débito, mormente considerando que o Recorrido não produziu qualquer prova capaz de infirmá-lo” (fls. 28).
+A análise da suposta ofensa ao art. 37 da Constituição, do modo como formulado nas razões do extraordinário, demandaria o prévio exame da legislação infraconstitucional (Código de Defesa do Consumidor e Resolução 456/2000 da ANEEL), bem como do quadro fático-probatório, o que é vedado no âmbito de cognição do recurso extraordinário, por força do disposto nas Súmulas 279 e 636 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 3 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
