@@ -1,0 +1,22 @@
+DECISÃO:
+Vistos.
+União Federal interpõe recurso extraordinário fundado na alínea “a” do permissivo constitucional contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+“TRIBUTÁRIO. PIS. DECRETOS-LEIS NºS 2.445/88 E 2.449/88. PRESCRIÇÃO DECENAL. LIQUIDEZ E CERTEZA DO CRÉDITO. ATUALIZAÇÃO DOS VALORES A SEREM COMPENSADOS PELA UFIR E PELA TAXA SELIC.  CORREÇÃO MONETÁRIA DA BASE DE CÁLCULO.  DESCABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. SEM HONORÁRIOS ADVOCATÍCIOS.
+O eg. Supremo Tribunal Federal decidiu que a contribuição destinada ao custeio do Programa de Integração Social (PIS) foi recepcionada pela Constituição de 1988 nos termos da Lei Complementar nº 7/70, sendo, porém, inconstitucionais os Decretos-Leis nºs. 2.445/88 e 2.449/88, cuja execução foi suspensa pelo Senado Federal através da Resolução nº 49/95.
+Em se tratando de tributos sujeitos ao lançamento por homologação, como é o caso do PIS, o prazo prescricional para haver a restituição e/ou compensação é de cinco anos, contados da ocorrência do fato gerador, acrescido de mais cinco anos contados da data em que se deu a homologação expressa ou tácita. O art. 3º da LC 118/2005 só possui eficácia prospectiva, só se aplicando a situações que venham a ocorrer a partir de sua vigência, pelo que, no que se refere aos indébitos decorrentes da sistemática dos Decretos-Leis nºs. 2.445/88 e 2.449/88, no caso em exame, tendo sido a ação ajuizada em 21 de maio de 2003, a prescrição atinge apenas os valores recolhidos no decênio anterior à propositura da ação.
+O recolhimento indevido qualifica-se como crédito compensável, não havendo como questionar a liquidez e certeza de um tributo recolhido indevidamente, cabendo à administração fiscalizar a regularidade da referida compensação.
+A correção monetária dos valores a serem compensados deverão ser atualizados pela UFIR nos moldes da Lei 8.383/91, e a partir de 01/01/96, pela taxa SELIC, visto que o mesmo tratamento dispensado ao contribuinte deve naturalmente ser aplicado ao Fisco, sob pena de se violar o princípio constitucional da isonomia.
+É incabível a correção monetária da base de cálculo da contribuição destinada ao PIS, ante a inexistência de previsão legal. Entendimento pacificado pelo eg. Superior Tribunal de Justiça.
+Não haverá condenação em honorários advocatícios, conforme o disposto nos verbetes das Súmulas nº 512/STF e 105/STJ. Custas ex lege.” (fls. 189/190)
+Alega violação ao artigo 97 da Constituição Federal, pois o Tribunal a quo declarou a inconstitucionalidade do artigo 3º da LC 118/2005, embora não tenha levado à apreciação de seu Órgão Especial.
+Decido.
+Merece prosperar a irresignação.
+O Supremo Tribunal Federal, no julgamento do RE 482.090/SP, Plenário, rel. Min. Joaquim Barbosa, DJe 13/3/09, aprovou, de acordo com o art. 103-A da Constituição Federal, a Súmula vinculante 10, com a seguinte redação: Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte . (DJe 27/6/08). No mesmo sentido o seguinte julgado:
+RECURSO EXTRAORDINÁRIO - LEI COMPLEMENTAR Nº 118/2005 - ACÓRDÃO FUNDAMENTADO EM PRECEDENTE DA PRIMEIRA SEÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA - ÓRGÃO FRACIONÁRIO - RESERVA DE PLENÁRIO - CONTRARIEDADE - VERBETE vinculante Nº 10 DA SÚMULA. Há ofensa à cláusula de reserva de plenário, prevista no artigo 97 da Carta Federal, quando órgão fracionário de tribunal, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta a respectiva incidência no todo ouem parte. (RE 511305/RJ-AgR, Relator o Ministro Marco Aurélio, 1ª Turma, DJe de 19/12/08)
+Indico, ainda, os seguintes julgados: RE 493.510/SP, Relatora a Ministra Ellen Gracie, Dje de 6/8/10; RE 498.893-AgR-ED/SP, Relator o Ministro Cezar Peluso, 2ª Turma, DJe 5/6/09; e RE 545.109/DF, Relatora a Ministra Cármen Lúcia, DJe 28/9/09.
+Diante do exposto, com fulcro no § 1º-A do art. 557 do CPC, dou provimento ao recurso extraordinário para anular o acórdão recorrido e determinar o retorno dos autos ao Tribunal Regional Federal da 2ª Região para que se proceda a novo julgamento, nos termos do art. 97 da Constituição Federal.
+Publique-se.
+Brasília, 3 de junho de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
