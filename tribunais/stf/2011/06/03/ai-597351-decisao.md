@@ -1,0 +1,24 @@
+D ECIS Ã O:
+Vistos.
+Simone Binotto Paiva interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso LXXIII, 7º, caput e incisos VII e X, e 129, inciso III, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Nona Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+“AGRAVO DE INSTRUMENTO – Contra decisão que rejeitou as preliminares argüidas e recebeu a ação civil pública e determinou a citação dos réus – Ilegitimidade ativa, falta de interesse de agir, impossibilidade jurídica do pedido – Afastadas acertadamente – Legitimidade do Ministério Público para a defesa do patrimônio público com fundamento no art. 129, III, da CF/88 – Existência do interesse de agir e possibilidade jurídica do pedido – Quanto ao recebimento da ação, como bem observado na decisão agravada, inexistem elementos convincentes para a pretendida rejeição da ação intentada – Cassado o efeito suspensivo concedido – Negado provimento ao recurso, nos termos do acórdão” (fl. 42).
+Opostos embargos de declaração (fls. 248 a 251), foram rejeitados (fls. 252 a 255).
+Aduz a recorrente nas razões do recurso extraordinário que:
+“(...) o Acórdão recorrido equivocou-se ao afirmar que o Ministério Público é parte legítima para ingressar com a presente ação civil pública na defesa do patrimônio público (fls. 2269, § 9º), por se tratar esta de uma espécie que pertence ao gênero ação popular, pois como não houve lesividade, não há respaldo legal para que a presente ação seja recebida como gênero da referida ação popular. Desta forma, a presente ação poderia ser rejeitada ou o processo extinto sem julgamento de mérito pela inexistência do ato de improbidade, ou pela inadequação da via eleita, com fulcro nos parágrafos 8º e 11 do artigo 4º da Medida Provisória nº 2.225, de 04/09/2001” (fls. 63 e 70).
+Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Wagner Gonçalves, pelo desprovimento do agravo de instrumento.
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 24/6/04, conforme expresso na certidão de folha 256, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+A irresignação não merece prosperar.
+No que se refere aos artigos 5º, inciso LXXIII, e 7º, caput, incisos VII e X, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+Por outro lado, esta Corte firmou entendimento acerca da legitimidade do Ministério Público para propositura de ação civil pública com o escopo de proteção do patrimônio público, nos termos do artigo 129, inciso III, da Constituição Federal. Nesse sentido foi o julgamento do RE nº 208.790/SP, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 15/12/2000, assim ementado:
+“CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. ART. 129, III, DA CF. Legitimação extraordinária conferida ao órgão pelo dispositivo constitucional em referência, hipótese em que age como substituto processual de toda a coletividade e, conseqüentemente, na defesa de autêntico interesse difuso, habilitação que, de resto, não impede a iniciativa do próprio ente público na defesa de seu patrimônio, caso em que o Ministério Público intervirá como fiscal da lei, pena de nulidade da ação (art. 17, § 4º, da Lei nº 8.429/92). Recurso não conhecido”.
+Com o mesmo teor, os seguintes acórdãos:
+“ Ministério Público: legitimação para propor ação civil pública para proteção do patrimônio público (CF, art. 129, III): precedentes (v.g. RREE 267.023 e 234.439, 30.04.2002, 1ª T., Moreira; 227.159, Néri, RTJ 186/690; 208.790, 27.9.2000, Ilmar Galvão, DJ 15.12.2000, RTJ 176/957)” (AI nº 495631/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 16/6/06).
+“ RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. PATRIMÔNIO PÚBLICO. PARQUET. LEGITIMIDADE. 1. O Ministério Público detém legitimidade para propor ação civil pública na defesa do patrimônio público (art. 129, III, da Constituição). 2. Precedentes. 3. Agravo regimental improvido” (RE nº 372658/SP-AgR, Relatora a Ministra Ellen Gracie, DJ de 3/2/06).
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 3 de junho de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
