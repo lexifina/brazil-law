@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE. DOENÇA PREEXISTENTE. NEGATIVA DA SEGURADORA. POSSIBILIDADE. 1. O objeto principal do seguro é a cobertura do risco contratado, ou seja, o evento futuro e incerto que poderá gerar o dever de indenizar por parte da operadora do plano de saúde. Outro elemento essencial desta espécie contratual é a boa-fé, na forma do art. 422 do Código Civil, caracterizada pela lealdade e clareza das informações prestadas pelas partes. 2. Há perfeita incidência normativa do Código de Defesa do Consumidor nos contratos atinentes aos planos ou seguros de saúde, como aquele avençado entre as partes, podendo se definir como sendo um serviço a cobertura do seguro médico ofertada pela demandada, consubstanciada no pagamento dos procedimentos clínicos decorrentes de riscos futuros estipulados no contrato aos seus clientes, os quais são destinatários finais deste serviço.3. No caso em exame, não merece guarida a pretensão da parte segurada, tendo em vista que esta tinha plena ciência de seu estado de saúde quando da contratação do seguro objeto da presente lide. 4. Assim, correta a negativa do procedimento requerido na inicial, pois ausente a boa-fé objetiva quando da realização do pacto firmado entre as partes, elemento essencial que afasta a responsabilidade de reparar o evento garantido. Negado provimento ao apelo.” (fl. 15)
+Opostos embargos declaratórios, os mesmos foram rejeitados, cujo acórdão proferido teve o seguinte teor:
+“EMBARGOS DE DECLARAÇÃO. SEGUROS. PLANO DE SAÚDE. DOENÇA PREEXISTENTE. NEGATIVA DA SEGURADORA. POSSIBILIDADE. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO.” (fl. 26)
+No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, inciso XXXII, da Constituição Federal.
+Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Código de Defesa do Consumidor) e com interpretação de cláusulas constantes em negociação coletiva (Súmula 454/STF). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+Nesse sentido, cito, entre outros o AI 813.287, Segunda Turma, Rel. Min. Ellen Gracie, DJe 11.10.2010; e o AI-AgR 681.515, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 20.6.2008, cuja ementa dispõe:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. MAJORAÇÃO DE CONTRAPRESTAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+Ademais, ressalto que esta via excepcional não viabiliza pretensão cujo exame demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 3 de junho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
