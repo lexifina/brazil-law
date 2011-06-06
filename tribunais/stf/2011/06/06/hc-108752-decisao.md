@@ -1,0 +1,19 @@
+1.  Trata-se de habeas corpus impetrado contra julgamento colegiado do Superior Tribunal de Justiça em outro writ anteriormente aforado perante aquela Corte (HC 179.837/MG).
+ Narra a inicial que o paciente foi preso e, posteriormente, condenado à pena de 8 anos de reclusão pela prática do crime previsto no art. 33, caput, da Lei 11.343/2006, e à pena de 5 anos e 6 meses pela prática do delito tipificado no art. 35, caput, do mencionado diploma legal.
+ Contra tal decisão, impetrou-se habeas corpus ao Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem pretendida. Inconformada, a defesa impetrou o referido HC 179.837/MG ao Superior Tribunal de Justiça, que indeferiu o writ.
+ Alegam os impetrantes, em síntese: a) falta de fundamentação idônea da decisão que manteve a segregação cautelar; b) ausência dos requisitos autorizadores da manutenção da prisão preventiva; c) possibilidade de concessão de liberdade provisória; d) circunstâncias favoráveis ao paciente, como primariedade e bons antecedentes.
+ Assim, requerem a concessão de provimento liminar, para que o paciente possa recorrer em liberdade. No mérito, solicitam o deferimento da ordem de habeas corpus.
+2.  O Superior Tribunal de Justiça, ao julgar o HC 179.837/MG, relatado pelo eminente Ministro Jorge Mussi, denegou a ordem nos termos da seguinte ementa:
+“HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO. PRISÃO PREVENTIVA. CONDENAÇÃO. VEDAÇÃO DO APELO EM LIBERDADE. ALEGADA AUSÊNCIA DE FUNDAMENTOS. MOTIVAÇÃO IDÔNEA. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. DEDICAÇÃO REITERADA À ATIVIDADE CRIMINOSA. CONSTRIÇÃO MANTIDA A BEM DA ORDEM PÚBLICA. CONSTRANGIMENTO NÃO VERIFICADO.
+1. O paciente, após responder custodiado à ação penal em que se viu condenado à pena de 12 anos de reclusão, em regime inicial fechado, pela prática dos crimes de tráfico de entorpecentes e associação para tal mercancia, teve negado o direito de apelar em liberdade a bem da ordem pública, notadamente em razão da gravidade concreta do delito cometido, da sua periculosidade e da reiterada dedicação à atividade ilícita – haja vista que, preso por condenações anteriores, participava de organismos criminoso voltado ao narcotráfico -, mostrando-se preenchidas, à saciedade, as condições do art. 312 do Código de Processo Penal para a subsistência da medida.
+2. Não se pode falar em constrangimento ilegal decorrente da constrição processual do réu, mesmo antes do trânsito em julgado da condenação, quando se mostra indispensável ao acautelamento do meio social, que se viu abalado com a prática delitiva por ele cometida.
+3. Ordem denegada”.
+ Com efeito, da leitura do voto que fundamentou o acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte no sentido da denegação da ordem.
+3.  Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário avaliar se o acórdão atacado teve o condão de caracterizar patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, num primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+4.  Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+5.  Ademais, a liminar pleiteada tem caráter nitidamente satisfativo, confundindo-se com o mérito da matéria suscitada, que, diante da sua complexidade, merece um exame mais detido, possível na ocasião do julgamento do mérito pelo órgão colegiado.
+6.  Ante o exposto, indefiro o pedido de liminar. Solicitem-se informações ao Superior Tribunal de Justiça e ao Juiz de Direito da 2ª Vara Criminal da Comarca de Betim-MG. Após, colha-se a manifestação da Procuradoria-Geral da República.
+ Publique-se.
+ Brasília, 6 de junho de 2011.
+Ministra E LLEN G RACIE
+Relatora
