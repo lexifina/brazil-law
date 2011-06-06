@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão do Tribunal de Justiça de Minas Gerais, cuja ementa é do seguinte teor (fls. 07):
+“EMENTA: AÇÃO ORDINÁRIA – DESCONSTITUIÇÃO DE DÉBITO – ENERGIA ELÉTRICA – AMEAÇA DE SUSPENSÃO – ALEGAÇÃO DE FRAUDE NOS MEDIDORES – NECESSIDADE DE OBSERVÂNCIA DE REGULAR PROCEDIMENTO ADMINISTRATIVO. - Após aviso prévio, revela-se lícita a suspensão do fornecimento de energia elétrica em virtude do inadimplemento do usuário, seja no tocante às contas mensais, seja quando o débito for proveniente de irregularidades encontradas nos medidores. - Inteligência do art. 6º, § 3º, II, da Lei nº 8987/95; artigos 72 e 90, I, da Resolução nº 456 da ANEEL – Agência Nacional de Energia Elétrica. - A averiguação de fraudes nos aparelhos de medição e subseqüente cobrança dos valores no período referente às irregularidades constatadas demandam procedimento administrativo com oportunidade de acompanhamento pelo usuário.”
+Nas razões do recurso extraordinário, a parte ora agravante alega violação do art. 37, caput, da Constituição federal. Sustenta, em síntese, que “à Recorrente, como concessionária de serviço público, se aplicam os princípios da administração pública, dentre eles, o da presunção da veracidade de seus atos” (fls. 25).
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito constitucional supracitado, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Ademais, a questão constitucional suscitada não pode ser analisada sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+Do exposto, nego seguimento ao presente agravo.
+Publique-se.
+Brasília, 6 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
