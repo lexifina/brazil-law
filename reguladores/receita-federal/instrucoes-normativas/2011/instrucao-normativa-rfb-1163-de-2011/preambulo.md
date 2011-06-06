@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1163, de 3 de junho de 2011
+Altera a Instrução Normativa RFB Nº 769, de 21 de agosto de 2007, que dispõe sobre a instalação de equipamentos contadores de produção nos estabelecimentos industriais fabricantes de cigarros.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no Decreto-Lei Nº 1.593, de 21 de dezembro de 1977, no art. 16 da Lei Nº 9.779, de 19 de janeiro de 1999, nos arts. 27 a 30 da Lei Nº 11.488, de 15 de junho de 2007, e no parágrafo único do art. 5º da Lei Nº 12.402, de 2 de maio de 2011, resolve:
