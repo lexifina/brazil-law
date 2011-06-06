@@ -1,0 +1,37 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. DEMISSÃO. AUSÊNCIA DO DEVIDO PROCESSO ADMINISTRATIVO. ALEGAÇÃO DE SUBVERSÃO AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA.
+1. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+2. O ato de demissão do servidor público deve ser precedido do devido processo legal em que haja oportunidade para o exercício da ampla defesa e contraditório. Precedente: AI 802357-AgR, 1ª Turma, Rel. Min. Luiz Fux, Dje de 11/05/11..
+3. Agravo de instrumento a que se nega seguimento.
+D ECIS Ã O: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário em oposição a acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (fl. 240):
+“  ADMINISTRATIVO. AFASTAMENTO DE SERVIDOR PÚBLICO DO CARGO. EXCLUSÃO DA FOLHA DE PAGAMENTO. DEVIDO PROCESSO LEGAL. INEXISTÊNCIA.
+1. Servidor público estável, não pode ser afastado sem o devido processo legal. Sendo nulo o afastamento, a consequência é o retorno ao serviço público.
+2. Cabe à União comprovar a situação irregular do servidor e somente após o devido processo legal, com a garantia do contraditório e a ampla defesa, é que o servidor poderá ser afastado e excluído da folha de pagamento
+3. Apelação e remessa oficial não providas.”
+Contra essa decisão foi interposto recurso extraordinário onde a ora agravante alegou violação ao art. 5º, LV, da CF. Sustentou-se que a decisão recorrida subverteu o devido processo legal, uma vez que restou caracterizado o abandono do emprego pelo ora agravado que não teria se reapresentado ao serviço após o final de sua licença médica, nem justificou uma possível necessidade de prorrogação da mesma.
+O recurso extraordinário teve o seu seguimento negado na origem sob o fundamento de ter a lide solução por meio de interpretação de normas infraconstitucionais.
+É o relatório. DECIDO.
+O agravo não merece prosperar.
+Preliminarmente, a intimação do acórdão recorrido ocorreu em 31/03/2005, logo, a agravante está desobrigada da apresentação da preliminar formal e fundamentada da repercussão do caso, conforme decisão do Plenário desta Corte quando do julgamento da QO-AI 664.567, da Relatoria do Ministro Sepúlveda Pertence, DJ de 06/09/07, proferida nos seguintes temos:
+“a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007 ” (grifo nosso).
+A questão dos autos diz respeito a suposta violação ao princípio do devido processo legal quando do afastamento de servidor público estável do seu cargo sem que tenha sido realizado regular procedimento administrativo com abertura de oportunidade para o exercício da ampla defesa e o contraditório.
+Destarte, o Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seriam indiretas ou reflexas, o que, por si só, não desafia a instância extraordinária. Nesse sentido, entre outros:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, Primeira Turma, Rel. Min. Cármen Lúcia, Dje de 18/08/10) (grifo nosso).
+“CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+2. Aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+4. Agravo regimental improvido” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+Ademais, esta Suprema Corte tem entendimento consolidado no sentido de que a demissão de servidor público deve ser obrigatoriamente precedida por procedimento administrativo em que seja oportunizado acesso à ampla defesa e contraditório. Nesse sentido:
+“AGRAVO REGIMENTAL. ADMINISTRATIVO. DEMISSÃO DE SERVIDOR PÚBLICO SEM O DEVIDO PROCESSO LEGAL. VIOLAÇÃO AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, AMPLA DEFESA E CONTRADITÓRIO. SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL.
+1. O ato de demissão do servidor público deve ser precedido do devido processo legal em que haja oportunidade para o exercício da ampla defesa e contraditório.
+2. In casu, o acórdão recorrido entendeu que não houve obediência ao princípio do devido processo legal, sendo que não há notícias nos autos da instauração do processo administrativo, e que a mera abertura de sindicância não o substitui, uma vez que tal procedimento é meramente preparatório.
+3. A aferição sobre se houve obediência pela Administração Pública ao princípio do devido processo legal, impõe o reexame dos fatos e das provas da instauração do processo administrativo para demissão do servidor público, o que é inviável nessa instância face o óbice da Súmula 279 do STF (verbis): “Para simples reexame de prova não cabe recurso extraordinário”.
+4. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e o do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+5. Agravo de instrumento desprovido.” (AI 802357-AgR, 1ª Turma, Rel. Min. Luiz Fux, Dje de 11/05/11).
+Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+Publique-se.
+Brasília, 6 de junho de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
