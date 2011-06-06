@@ -1,0 +1,17 @@
+D ECIS Ã O:  1. Trata-se de pedido de suspensão de liminar, ajuizado pela União, com a finalidade de sustar a execução do provimento judicial concedido por Ministro relator do Superior Tribunal de Justiça, nos autos do Mandado de Segurança nº 7.982.
+O julgado impugnado determinou à autoridade apontada coatora (Ministro da Justiça), que se abstivesse de aplicar ao ora interessado, Delegado da Polícia federal inativo, a pena de cassação de aposentadoria; punição esta, sugerida na conclusão do processo administrativo disciplinar instaurado para apuração de falta grave supostamente cometida pelo ex-servidor, caracterizada na emissão irregular de porte de armas.
+Na origem, a liminar cuja concessão busca-se, agora, suspender, teve o respectivo despacho monocrático publicado no DJ de 17.10.2001 e; a interposição de agravo regimental ocorreu em 31.10.2001, pendente de apreciação, conforme andamento processual anexado.
+Defende a requerente que a hipótese caracterizaria injustificado excesso de prazo no julgamento do recurso, o que autorizaria o exercício do poder geral de cautela desta Presidência.
+Sustenta, ainda, grave lesão à ordem pública, na acepção jurídico-administrativa, pela suposta ingerência do Poder Judiciário na autonomia do Poder Executivo no que diz respeito à prerrogativa de punir seus agentes públicos, com base no exercício do poder disciplinar. Alega, também, manifesta contrariedade à ordem constitucional e ameaça às finanças do Estado.
+A Procuradoria-Geral da República opina pelo deferimento do pedido.
+2. Não é caso de suspensão.
+Com efeito, o incidente de contracautela foi ajuizado em 2011, vale dizer, dez anos após a interposição de agravo regimental na Corte de origem. No pedido de suspensão, a requerente alega grave lesão à ordem jurídico-administrativa e ameaça aos Cofres públicos, pois, em razão de suposta interferência de um Poder pelo Outro, estar-se-ia mantendo nos quadros da Polícia federal, servidor inativo condenado em processo disciplinar pela prática de infrações funcionais.
+Não obstante a louvável preocupação com a Administração Pública, o tempo decorrido entre a concessão da medida liminar cuja suspensão ora se requer e o ajuizamento desta contracautela é suficiente a descaracterizar a excepcionalidade da medida, donde não se encontrar urgência, pois que a União era sabedora, havia dez anos, de todos os transtornos que agora alega.
+Não se desconhece que esta Corte tem entendido, com base nas diretrizes normativas que disciplinam as medidas de contracautela, não ser vedado ao Presidente do Supremo Tribunal Federal proferir juízo mínimo a respeito das questões jurídicas presentes na ação principal, caracterizado pela probabilidade de a decisão, contra a qual se pede a suspensão, ser contrária às normas existentes na ordem jurídica. Nesse sentido: SS nº 846-AgR (Rel. Min. SEPÚLVEDA PERTENCE , Plenário, DJ de 29.5.1996).
+Mas este entendimento não permite juízo cognitivo aprofundado, que esgote antecipadamente a questão levada a juízo ( SS-AgR nº 2.932 , Rel. Min. ELLEN GRACIE , Plenário, DJe de 25.4.2008). Assim, o pedido formulado guarda nítido cunho de recurso, quando a orientação desta Corte está em que a via da suspensão não é sucedâneo recursal (cf. SL nº 14 , Rel. Min. MAURÍCIO CORRÊA , DJ de 3.10.2003; e SL nº 80 , Rel. NELSON JOBIM , DJ de 19.10.2005).
+3. Ante o exposto, nego seguimento ao pedido (art. 21, § 1º, RISTF).
+Publique-se.
+Brasília, 6 de junho de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
