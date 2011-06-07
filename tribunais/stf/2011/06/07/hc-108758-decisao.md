@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por LINDOVAL DE JESUS PEREIRA, em nome próprio, no qual aponta como autoridade coatora a Ministra Maria Thereza de Assis Moura, Relatora do HC 163.440/MG e do HC 193.537/MG do Superior Tribunal de Justiça.
+O impetrante/paciente narra, de início, que, em 2/3/2010, manejou no Superior Tribunal de Justiça o HC 163.440/MG, sendo concluso para julgamento em 20/4/2010, ou seja, há mais de um ano.
+Afirma, em seguida, que a morosidade relatada tem lhe causado sérios prejuízos e flagrante constrangimento ilegal, por criar óbice para que o Supremo Tribunal Federal aprecie e julgue a legalidade da prisão cautelar questionada, que já perdura por quase três anos.
+Informa, ainda, que o HC 193.537/MG, por sua vez, foi protocolado no STJ em 15/12/2010 e está concluso para julgamento desde 20/3/2011, ainda sem previsão para ser apreciado.
+Sustenta, por conseguinte, a viabilidade deste writ, alegando que se está diante de flagrante ofensa à Declaração dos Direitos Humanos, bem como das disposições legais e constitucionais pertinentes.
+Requer, ao final, liminarmente, seja determinado à Sexta Turma do Superior Tribunal de Justiça que proceda ao julgamento dos referidos habeas corpus, no prazo máximo de 30 dias.
+É o relatório necessário. Decido.
+Bem examinados os autos, tenho que é caso de denegação da ordem.
+Conforme relatado neste habeas corpus, o impetrante/paciente se insurge contra a demora no julgamento do mérito dos HC's 163.440/MG e 193.537/MG, ambos do Superior Tribunal de Justiça.
+Inviável o pedido, todavia.
+Em consulta ao andamento processual no STJ, verifica-se que o HC 163.440/MG foi distribuído naquela Corte em 2/3/2010 e concluso à Relatora em 5/3/2010. Na sequência, Sua Excelência indeferiu o pedido de liminar, requisitou informações e determinou fosse ouvido o Ministério Público Federal. As informações foram recebidas em 25/3/2010 e o Ministério Público Federal ofertou seu parecer em 19/4/2010, sendo os autos conclusos em 20/4/2010. Vislumbrando a necessidade de informações complementares, em 30/5/2011, a Relatora determinou a expedição de telegrama ao Tribunal de Justiça mineiro, que ainda não respondeu à requisição.
+No que concerne ao HC 193.537/MG, tem-se que o writ foi distribuído por prevenção à Ministra Relatora em 5/1/2011 e concluso na mesma data. Em 17/1/2011, o pedido de liminar foi indeferido, ocasião em que foram solicitadas informações e determinada vista ao Ministério Público Federal. As informações forem recebidas em 28/1/2011 e o parecer da PGR ofertado em 6/5/2011, sendo os autos conclusos em 9/5/2011.
+Diante desses fatos, percebe-se que os feitos seguem seus cursos normais, de modo que não há falar em demasiada demora na apreciação dos méritos, tampouco em negativa de prestação jurisdicional.
+Nesse ponto, registro, inclusive, que, conforme noticia veiculada no sítio eletrônico daquela Corte Superior em 29/5/2011, a quantidade de habeas corpus submetidos ao STJ chegou, em março, à marca dos duzentos mil. Diz a reportagem que, em apenas três anos, o número de writs lá ajuizados dobrou, o que mostra um crescimento impressionante na frequência com que os brasileiros vêm recorrendo a esse instrumento constitucional criado para garantir o direito à liberdade. Destacou-se, ainda, que, em 2010, foram autuados 35.145 novos pedidos, quase todos (99%) distribuídos para os ministros da Quinta e da Sexta Turmas, sendo que, até a estatística do dia 25/5 deste ano, o total acumulado desde a instalação do Tribunal chegava a 207.332.
+Daí porque tenho, reiteradamente, me rendido à observação de que o excesso de trabalho que assoberba o Superior Tribunal de Justiça é digno de flexibilizar, em alguma medida, o princípio constitucional da razoável duração do processo.
+Anoto, ainda, que a concessão da ordem para determinar o imediato julgamento das impetrações na Corte a quo poderia redundar na injustiça de determinar-se que aqueles habeas corpus sejam colocados em posição privilegiada com relação a de outros tantos jurisdicionados, que também se consideram titulares de direito líquido e certo à apreciação dos respectivos pleitos.
+Nesse sentido, menciono, entre outros, os seguintes precedentes: HC 105.856/MG, Rel. Min. Ayres Britto, HC 105.532/MS, Rel. Min. Gilmar Mendes, HC 103.189/CE, Rel. Min. Cármen Lúcia, HC 106.147/MS e HC 105.016/RS, Rel. Min. Dias Toffoli e HC 107.248/MG, HC 106.539/MG, HC 104.486/SP e HC 102.937/RS, todos de minha relatoria.
+Logo, não se justifica a interferência desta Suprema Corte, neste momento.
+Ante o exposto, com base no art. 192 do Regimento Interno desta Suprema Corte (com a redação conferida pela Emenda Regimental 30/2009), denego a ordem.
+Comunique-se o teor desta decisão ao impetrante/paciente no local onde se encontra custodiado.
+Publique-se.
+Brasília, 7 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
