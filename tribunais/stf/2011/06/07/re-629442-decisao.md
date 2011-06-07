@@ -1,0 +1,24 @@
+LibreOffice
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela ilegitimidade da Taxa de Verificação do Cumprimento de Posturas e Normas Urbanísticas - TVPNU, instituída pelo Município de Criciúma/SC.
+Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, a constitucionalidade da referida exação.
+A pretensão recursal merece acolhida.
+O acórdão recorrido está em desacordo com a jurisprudência do Supremo Tribunal Federal firmada no sentido de que a liberação, a fiscalização e o controle quanto à prática de atividades profissionais e econômicas e quanto à localização, às instalações e ao funcionamento de estabelecimentos em geral, quando realizados dentro da competência de quaisquer dos entes federados e objetivando o atendimento da respectiva legislação, caracterizam exercício regular do poder de polícia passível de sujeição ao pagamento de taxa, a exemplo do que se observa do julgamento do RE 198.904/RS, Rel. Min. Ilmar Galvão, cuja ementa segue transcrita:
+“TRIBUTÁRIO. MUNICÍPIO DE PORTO ALEGRE. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO E FUNCIONAMENTO. ESCRITÓRIO DE ADVOGADO. CONSTITUCIONALIDADE.
+O Supremo Tribunal Federal tem sistematicamente reconhecido a legitimidade da exigência, anualmente renovável, pelas Municipalidades, da taxa em referência, pelo exercício do poder de polícia, não podendo o contribuinte furtar-se à sua incidência sob alegação de que o ente público não exerce a fiscalização devida, não dispondo sequer de órgão incumbido desse mister.
+Recurso extraordinário conhecido e provido”.
+No mesmo sentido, menciono as seguintes decisões, entre outras: AI 618.346-AgR/MG, Rel. Min. Gilmar Mendes; RE 554.035-AgR/MG, Rel. Min. Cezar Peluso; AI 533.487-AgR/MG, Rel. Min. Eros Grau; AI 527.814-AgR/MG, Rel. Min. Carlos Britto; RE 216.207/MG e RE 276.564/SP, Rel. Min. Ilmar Galvão; RE 222.246-AgR/SP, Rel. Min. Néri da Silveira; RE 188.908-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 222.252-AgR/SP, Rel. Min. Ellen Gracie; AI 258.392/SP, Rel. Min. Octavio Gallotti; AI 511.807/SP, Rel. Min. Cármen Lúcia; RE 222.250/SP, Rel. Min. Joaquim Barbosa; RE 581.922/SP e RE 589.824/SC, de minha relatoria.
+Além disso, no que diz respeito ao argumento da utilização de base de cálculo própria de impostos, esta Corte, em Sessão Plenária de 3/2/2010, corroborada pela discussão que envolveu o julgamento do RE 576.321-RG-QO/SP, de minha relatoria, aprovou a Súmula Vinculante 29, com o seguinte teor:
+“É constitucional a adoção, no cálculo do valor de taxa, de um ou mais elementos da base de cálculo própria de determinado imposto, desde que não haja integral identidade entre uma base e outra”.
+Ressalto, por oportuno, que no julgamento do RE 576.321-RG-QO/SP, de minha relatoria, asseverei que não há como se exigir correspondência precisa com o valor despendido na prestação do serviço ou no exercício do poder de polícia. Basta uma equivalência razoável entre o valor pago pelo contribuinte e o custo individual do serviço público ou o valor da atuação estatal. Nesse sentido, transcrevo trecho da ementa do julgamento da ADI 2.551-MC-QO/MG, Rel. Min. Celso de Mello:
+“(...)
+TAXA: CORRESPONDÊNCIA ENTRE O VALOR EXIGIDO E O CUSTO DA ATIVIDADE ESTATAL.
+- A taxa, enquanto contraprestação a uma atividade do Poder Público, não pode superar a relação de razoável equivalência que deve existir entre o custo real da atuação estatal referida ao contribuinte e o valor que o Estado pode exigir de cada contribuinte, considerados, para esse efeito, os elementos pertinentes às alíquotas e à base de cálculo fixadas em lei.
+- Se o valor da taxa, no entanto, ultrapassar o custo do serviço prestado ou posto à disposição do contribuinte, dando causa, assim, a uma situação de onerosidade excessiva, que descaracterize essa relação de equivalência entre os fatores referidos (o custo real do serviço, de um lado, e o valor exigido do contribuinte, de outro), configurar-se-á, então, quanto a essa modalidade de tributo, hipótese de ofensa à cláusula vedatória inscrita no art. 150, IV, da Constituição da República. Jurisprudência. Doutrina.
+(...)”.
+No caso em questão, o valor da taxa varia de acordo com o ramo de atividade exercida pelo contribuinte e a extensão do seu estabelecimento, critérios que traduzem direta equivalência com o custo do poder de polícia exercido, uma vez que as normas urbanísticas a serem atendidas dependerão da atividade exercida e, com isso, será maior ou menor a dificuldade em fiscalizar.
+Isso posto, com base nos precedentes acima mencionados, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A), para julgar constitucional a Taxa de Verificação do Cumprimento de Posturas e Normas Urbanísticas - TVPNU, instituída pelo Município de Criciúma/SC.
+Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+Publique-se.
+Brasília, 7 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
