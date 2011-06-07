@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 1ª Região que manteve sentença concessiva de segurança, em acórdão assim ementado (fls. 391):
+“PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. ENSINO SUPERIOR. DECADÊNCIA NÃO VERIFICADA. LITISCONSÓRCIO PASSIVO NECESSÁRIO. NÃO-CONFIGURAÇÃO. REGRAS DO VESTIBULAR/2005 DA UFBA. RESOLUÇÃO Nº 01/02 DA UNIVERSIDADE. NORMA DE SOBREDIREITO. RESOLUÇÃO 01/04. SISTEMA DE COTAS. INAPLICABILIDADE AO PROCESSO SELETIVO INICIADO EM 2004.
+1. Decadência não verificada, porquanto a contagem do prazo tem início a partir da ciência do ato impugnado (Lei 1.533/51, art. 18), qual seja a não-inclusão do nome do Impetrante na relação de candidatos selecionados para a matrícula, uma vez que não se insurge ele contra o edital do vestibular.
+2. Desnecessidade de citação de eventual candidato que tenha ingressado no curso superior no lugar do Impetrante, visto que a pretensão deduzida no writ não é subtrair a vaga de nenhum outro aluno, mas tão-somente assegurar-lhe o direito ao ingresso na Universidade, o qual foi alcançado mediante aprovação em concurso vestibular. Preliminares rejeitadas.
+3. Se a Resolução nº 01/02 do Conselho de Ensino, Pesquisa e Extensão (CONSEPE) da Universidade Federal da Bahia, que instituiu normas do vestibular do citado estabelecimento de ensino, dispôs que suas eventuais alterações vigorariam nos anos subseqüentes à respectiva edição, não poderia a Resolução nº 01/04, de julho/2004, ser aplicada ao processo seletivo iniciado nesse ano.
+4. Segundo a diretriz doutrinário-jurisprudencial decorrente da interpretação do nosso ordenamento jurídico, havendo mais de um fundamento a ser apreciado no âmbito do processo e se um deles versar sobre questão de constitucionalidade, podendo o Julgador definir a controvérsia mediante a aplicação do outro fundamento, que não aquele pertinente à questão da constitucionalidade, como sucede, in casu, imperioso que se adote essa solução para dirimência do caso concreto.
+•   Apelação da UFBA e remessa oficial desprovidas.”
+O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos 205 e 207, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação (fls. 332-345), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 07 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
