@@ -1,0 +1,1 @@
+Art. 89-A. As entidades responsáveis pela organização de competições desportivas profissionais deverão disponibilizar equipes para atendimento de emergências entre árbitros e atletas, nos termos da regulamentação.
