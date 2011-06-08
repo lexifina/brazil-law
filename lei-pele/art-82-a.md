@@ -1,0 +1,1 @@
+Art. 82-A. As entidades de prática desportiva de participação ou de rendimento, profissional ou não profissional, promoverão obrigatoriamente exames periódicos para avaliar a saúde dos atletas, nos termos da regulamentação.
