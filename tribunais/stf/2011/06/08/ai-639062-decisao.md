@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa possui o seguinte teor (fls. 15):
+“APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. RITO ORDINÁRIO. Funcionário Público. Médica que trabalha no Centro de Tratamento Intensivo (CTI) do Hospital Universitário Pedro Ernesto. Supressão do adicional de periculosidade a partir de janeiro de 2000. Cobrança do benefício na base de 30% dos seus vencimentos. Exames radiológicos efetuados no CTI durante os procedimentos médicos. Demanda objetivando o restabelecimento do referido acréscimo estipendiário. Sentença a quo que julgou procedente o pedido. Recurso voluntário ofertado pela parte ré. Manutenção do decisum. Na hipótese em comento, percebe-se que a servidora permanece exposta às condições insalubres e perigosas, sendo, portanto, merecedora da gratificação pertinente aos respectivos riscos. Desinfluente, in casu, o tempo em que a servidora fica exposta ao perigo. Prevalência do disposto no art. 7º, XXXIII, da Constituição Federal e art. 83, XVIII, da Constituição do estado. Precedentes jurisprudenciais nesse sentido. RECURSO CONHECIDO E DESPROVIDO, EM SEDE DE REEXAME NECESSÁRIO”
+A alegação de ofensa ao art. 5º, II demanda o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, o que dá margem ao descabimento do recurso extraordinário.
+Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o disposto no art. 39, § 3º ao basear o percebimento do adicional no 7º, XXIII da Carta Magna, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+Do exposto, nego seguimento ao recurso.
+Publique-se.
+Brasília, 08 de junho de 2011.
+Ministro J OAQUIM B ARBOSA
+Relator
+Documento assinado digitalmente
