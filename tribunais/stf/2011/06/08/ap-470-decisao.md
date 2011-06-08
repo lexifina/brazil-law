@@ -1,0 +1,13 @@
+DESPACHO (referente à petição nº 32687/2011): Junte-se.
+O procurador-geral da República, na petição acima, pede a concessão do prazo de 30 dias para a apresentação das suas alegações finais, tendo em vista “a grande complexidade do feito, que conta com cerca de 40 acusados, envolvendo uma diversidade fatos e crimes”, bem como “o volume de provas amealhadas no curso da instrução”.
+Anoto que a defesa do réu Paulo Rocha, na petição de fls. 42.026-42.027, havia requerido a concessão de “prazo sucessivo de 90 dias às partes quando da abertura de prazo para memoriais”.
+Formulado precipitadamente, ainda na fase de diligências, o pedido do réu Paulo Rocha acabou sendo indeferido na decisão de fls. 41.053-41.074, por se revelar absolutamente excessivo o prazo de 90 dias pleiteado, especialmente se considerado o fato de que tal prazo, na prática, redundaria em 6 meses, já que a acusação, a prevalecer o requerimento sob enfoque, também gozaria de 90 dias para suas alegações finais.
+Este processo singulariza-se, entre outras coisas, pela sua complexidade e pela sua excepcional dimensão. Mas é preciso ter em perspectiva algo notável, que o contrasta em relação às ações criminais que historicamente tiveram curso perante esta Suprema Corte: os autos foram integralmente digitalizados desde o início. Vale dizer, a todo momento e até mesmo simultaneamente, os autos estão inteiramente acessíveis às partes. Esse ganho tecnológico, portanto, minimiza, sem sombra de dúvida, as inquietações das partes quanto à exiguidade dos prazos fixados na legislação processual.
+Mas não é só. As partes tiveram um extenso período para se prepararem para a apresentação das suas alegações finais, haja vista o longo tempo decorrido desde a data em que deferi as diligências finais (iniciadas em fevereiro de 2011, conforme decisão de fls. 41.053-41.074).
+Assim, dada a inegável excepcionalidade do caso concreto, entendo que a concessão de 30 dias, para que as partes, sucessivamente, apresentem suas alegações finais, mostra-se razoável e proporcional à complexidade do processo, que apresenta elevado número de réus, inúmeros fatos a eles imputados e grande volume de provas.
+Por essas razões, concedo o prazo sucessivo de 30 dias para que a acusação e, em seguida, os réus apresentem suas alegações finais, ficando desde logo esclarecido que tal prazo, conforme exposto no despacho de fls. 44.830-44.831, começará a correr, para a Procuradoria-Geral da República, a partir de 8.6.2011.
+Declaro encerrada a instrução deste processo.
+Publique-se e intimem-se.
+Brasília, 8 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
