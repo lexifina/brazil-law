@@ -1,0 +1,21 @@
+DECISÃO
+PENSÃO – EX-COMBATENTE – REGÊNCIA – AGRAVO DESPROVIDO.
+1. Na interposição deste agravo, foram atendidos os pressupostos de recorribilidade que lhe são pertinentes. A peça, firmada por profissional da advocacia regularmente constituído, restou protocolada no prazo legal, tendo vindo aos autos os documentos de traslado obrigatório.
+2. O Tribunal Regional Federal da 1ª Região confirmou a sentença do juízo, ante fundamentos assim sintetizados (folha 183):
+CONSTITUCIONAL, E ADMINISTRATIVO – MANDADO DE SEGURANÇA – MILITAR – REVERSÃO DE PENSÃO ESPECIAL À FILHA DE EX-COMBATENTE, MAIOR DE 21 ANOS – ARTIGO 53, II, ADCT – LEIS N.S 5.315/67, 4.242/63, 3.765/60 E 8.59/90 – COMPROVAÇÃO DE REQUISITOS – ORIENTAÇÃO JURISPRUDENCIAL DO STJ – SENTENÇA MANTIDA.
+1. O art. 53, II, do ADCT da Constituição Federal de 1988 assegurou ao ex-combatente, que tenha efetivamente participado de operações bélicas durante a Segunda Guerra Mundial, direito à pensão especial, mediante efetiva comprovação, nos termos dos art. 1º da Lei n. 5.315/67, sendo extensivo o conceito aos militares que se deslocaram de suas unidades para missões de patrulhamento e vigilância em defesa do litoral brasileiro.
+2. Comprovada a condição de ex-combatente (Lei n. 5.315/67) ou de dependência deste, mediante acervo documental, é devida a pensão especial.
+3. Conquanto a Lei n. 8.059/90 tenha restringido o direito de pensão aos filhos menores ou inválidos, faz-se necessário examinar a plausibilidade jurídica do pleito à luz da legislação anterior, vez que o óbito do instituidor do benefício ocorreu em 21/01/78, portanto, sob vigência das Leis n. 4.242/63 e 3.765/60, que permitam a percepção da pensão especial às autoras, ainda que casadas ou maiores de 21 (vinte e um) anos. Demais, referidas leis foram recepcionadas pela Lei Maior e vigeram até serem revogadas pela Lei n. 8.059/90, que não pode retroagir para modificar direito adquirido. Precedente do TRF 1ª Região (AC 94.01.18576-0/BA, Rel. Juiz RICARDO MACHADO RABELO(Conv), 1ª Turma, DJ 15/10/98).
+4. A teor do artigo 15 da Lei n. 3.765/60, a reversão do benefício requerido ocorrerá no valor correspondente à pensão de 2º Sargento.
+5. Apelação da União e remessa oficial desprovidas.
+6. Recurso adesivo das autoras desprovido.
+3. A matéria foi enfrentada pelo Tribunal quando do julgamento do Mandado de Segurança nº 21707, no qual fui designado redator do acórdão. Concluiu o Supremo pela incidência da norma contida no inciso III do artigo 53 do Ato das Disposições Constitucionais Transitórias quando o óbito do ex-combatente ocorrer na vigência da Constituição Federal de 1888. No caso, tendo o instituidor da pensão falecido em 21 de janeiro de 1978 (folha 181), o direito à pensão é regido pelas normas em vigor nessa data. Confiram com as seguintes ementas:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PENSÃO DE EX-COMBATENTE. REVERSÃO DO BENEFÍCIO À FILHA. OBSERVÂNCIA DA LEGISLAÇÃO VIGENTE À ÉPOCA DO ÓBITO DO INSTITUIDOR DO BENEFÍCIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(RE-AgR 516.677, Relatora Ministra CÁRMEN LÚCIA, Primeira Turma, DJe 6.2.2009)
+1. RECURSO. Extraordinário. Inadmissibilidade. Pensionista. Ex-combatente. Reversão. Filha. Regência pela legislação em vigor na data do óbito do ex-combatente. Pensão correspondente a Segundo Sargento. Lei nº 4.242/63. Jurisprudência assentada. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado.
+(RE-AgR 478.577, Relator Ministro CEZAR PELUSO, Segunda Turma, DJe. 1º.2.2008)
+4. Diante dos precedentes, estando a decisão constante no acórdão impugnado mediante o extraordinário em consonância com a jurisprudência do Supremo, conheço do agravo e o desprovejo.
+5. Publiquem.
+Brasília, 8 de junho de 2011.
+Ministro MARCO AURÉLIO
+Relator
