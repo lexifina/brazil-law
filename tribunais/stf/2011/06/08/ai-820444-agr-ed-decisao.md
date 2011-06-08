@@ -1,0 +1,10 @@
+1.  Trata-se de embargos de declaração opostos de acórdão que negou provimento ao agravo regimental por entender inexistente direito adquirido a regime jurídico e incidentes os óbices das Súmulas STF 279, 280, 284 e 287.
+2.  Preliminarmente, o presente recurso não merece prosperar. Verifico que o acórdão embargado foi publicado no Diário da Justiça Eletrônico em 18.5.2011, quarta-feira (certidão de fl. 751), exaurindo-se o qüinqüídio legal (art. 557, § 1º, do CPC, c/c art. 317, caput, do RISTF) em 23.5.2011, segunda-feira. Entretanto, os embargos de declaração via fac-símile somente foram interpostos no protocolo da Secretaria desta Corte no dia 24.5.2011 (fls. 753-779) e os seus originais em 25.5.2011 (fls. 782-808), tendo transitado em julgado o acórdão ora embargado, conforme certidão à fl. 751. Revela-se, portanto, intempestivo o presente recurso.
+ Cito o AI 535.340-EDv-ED-AgR/MG, rel. Min. Celso de Mello, Plenário, DJe 08.11.2010; AI 583.254-AgR-AgR/RJ, rel. Min. Marco Aurélio, 1ª Turma, DJe 13.11.2009; AI 653.421-AgR/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 19.9.2008; e RE 456.666-AgR-ED-AgR/PR, rel. Min. Eros Grau, 2ª Turma, DJ 09.02.2007.
+3.  Nem se alegue a sua apresentação tempestiva perante o Superior Tribunal de Justiça em 23.5.2011 (fls. 812-838), pois o protocolo que efetivamente conta para a verificação do prazo é o da Secretaria desta Corte.
+ Nesse sentido, aliás, é a jurisprudência deste Supremo Tribunal Federal. Menciono, pois, entre outros julgados: RE 436.029-AgR-EDv-AgR-ED/RS, rel. Min. Ricardo Lewandowski, Plenário, DJe 13.12.2010; AI 685.986-ED/SP, de minha relatoria, Plenário, DJe 13.6.2008; AI 761.683-AgR-ED/RJ, rel. Min. Cármen Lúcia, 1ª Turma, DJe 1º.10.2010; AI 637.406-AgR-AgR/MG, rel. Min. Eros Grau, 2ª Turma, DJe 23.11.2007; e AI 593.848-AgR/RJ, rel. Min. Carlos Britto, 1ª Turma, DJ 30.3.2007.
+4.  Ante o exposto, não conheço dos presentes embargos de declaração (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 8 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
