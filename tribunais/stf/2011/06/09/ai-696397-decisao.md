@@ -1,0 +1,22 @@
+DECISÃO:
+Vistos.
+Flávio Capobianco e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário com fundamento nas alíneas “a” e “c” do permissivo constitucional e assentado em contrariedade aos artigos 5º, inciso XXXVI, e 86, inciso II, alínea “d”, da Constituição Federal.
+Insurgem-se, no apelo extremo, contra acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, proferido em sede de agravo de instrumento em execução de precatório, assim ementado:
+“AGRAVO DE INSTRUMENTO EXECUÇÃO DE SENTENÇA – RETARDO NO PAGAMENTO – JUROS – CESSAÇÃO DOS COMPENSATÓRIOS.
+Na execução de sentença, após a vigência da EC – 30/00, há cessação dos juros compensatórios, mas não dos moratórios, em caso de retardo no pagamento nas épocas devidas do parcelamento.
+Recurso provido em parte” (fl. 35).
+Opostos embargos de declaração (fls. 40 a 43), foram rejeitados (fls. 44 a 46).
+Decido.
+Preliminarmente, destaco que o acórdão dos embargos de declaração foi publicado em 22/2/07, como expresso na certidão de folha 47, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, haja vista que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelos recorrentes. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte..
+Por outro lado, conforme jurisprudência desta Corte, não se admite a incidência de juros moratórios ou compensatórios, para efeito de pagamento de precatório, mediante a regra instituída pelo artigo 33 do Ato de Disposições Constitucionais Transitórias, quando não configurado o inadimplemento ou atraso na liquidação das parcelas. Somente serão devidos juros moratórios, se houver atraso no pagamento. Nesse sentido:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. DESAPROPRIAÇÃO INDIRETA. PRECATÓRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que não incidem juros de mora e compensatórios no período compreendido pelo art. 33 do Ato das Disposições Constitucionais Transitórias. Somente serão cabíveis os juros moratórios se houver atraso no pagamento. Precedentes. 2. Desapropriação indireta. Justa indenização. Impossibilidade do reexame de provas. Incidência da Súmula 279 do Supremo Tribunal” (AI nº 643.732/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/6/09).
+“CONSTITUCIONAL. ADMINISTRATIVO. DESAPROPRIAÇÃO. PRECATÓRIO. PARCELAMENTO. ART. 33 DO ADCT. JUROS COMPENSATÓRIOS E MORATÓRIOS. EXCLUSÃO. INCIDÊNCIA DE JUROS MORATÓRIOS NO PAGAMENTO DE PARCELAS PAGAS EM ATRASO. EXPEDIÇÃO DE NOVO PRECATÓRIO. PRECEDENTES. I. - Excluem-se os juros moratórios e compensatórios do pagamento de precatórios decorrentes de desapropriação, realizado conforme o art. 33 do ADCT, contanto que se observem as épocas próprias dos vencimentos das prestações. Os juros moratórios são cabíveis nos casos de inadimplência da Fazenda Pública no pagamento do parcelamento previsto no art. 33 do ADCT. RE 155.979/SP, Min. Marco Aurélio, "DJ" de 23.02.2001; 400.413-AgR/SP, Min. Carlos Britto, "DJ" de 08.11.2004, inter plures. II. - Agravo não provido” (RE nº 438.172/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 16/12/05).
+O acórdão recorrido se ajusta a essa orientação, na medida em que consignou que “a agravante é inadimplente confessa, considerando a certidão de fls. 30, uma vez que deixou de efetuar todos os pagamentos do parcelamento (...). Assim, o cabimento dos juros moratórios é de rigos, excluídos apenas os compensatórios que resultaram cessados” (fl. 37).
+Por fim, com relação à alínea “c” do permissivo constitucional, igualmente, não prospera o apelo, uma vez que o acórdão recorrido não julgou válida lei local contestada em face da Constituição Federal, razão pela qual fica inviabilizado o processamento do recurso extremo, nesse particular.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Brasília, 9 de junho de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
