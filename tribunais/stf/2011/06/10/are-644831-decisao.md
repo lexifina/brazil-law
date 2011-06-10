@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RECURSO EM JUIZADO ESPECIAL. INTEMPESTIVIDADE DO PREPARO. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA JURISDIÇÃO, DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+2. A Primeira Turma Recursal dos Juizados Especiais Cíveis e Criminais do Distrito Federal e dos Territórios julgou recurso, nos termos seguintes:
+“JUIZADOS ESPECIAIS. PREPARO INTEMPESTIVO. DESERÇÃO. RECURSO NÃO CONHECIDO.
+1. O preparo é pressuposto objetivo de admissibilidade do recurso inominado e, na forma do § 1º do artigo 42 da Lei n. 9.099/95, deve ser feito, independentemente de intimação, nas quarenta e oito horas seguintes à interposição.
+2. O prazo fixado por hora é contado minuto a minuto, a teor do que dispõe o § 4º do art. 132 do Código Civil.
+3. Recurso não conhecido” (fl. 108).
+3. A decisão agravada teve com fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+4. O Agravante argumenta que:
+“não trata o presente caso de uma análise à legislação infraconstitucional e nem mesmo de uma violação reflexa à Constituição Federal.
+Ao contrário, o presente caso trata de uma violação grave e direta à Carta Magna, uma vez que impossibilitou o acesso ao duplo grau de jurisdição, de existência e possibilidade previstas no artigo 42, § 1º, da Lei n. 9.099/95, em detrimento ao artigo 5º, XXXV e LV, da Constituição Federal de 1988” (fl. 138).
+No recurso extraordinário, alega que a Turma Recursal teria contrariado os inc. XXXV e LV do art. 5º da Constituição.
+Apreciada a matéria trazida na espécie, DECIDO.
+5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo de instrumento, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+6. Razão jurídica não assiste ao Agravante.
+A Juíza Relatora observou que:
+“Da detida análise do feito, concluo pelo não conhecimento do presente recurso, haja vista que deserto.
+O art. 54 da Lei n. 9.099/95 dispõe que o acesso ao Juizado Especial independerá, em primeiro grau de jurisdição, do pagamento de custas, taxas ou despesas. Não obstante, os recursos, salvo a concessão de gratuidade de justiça, reclamam preparo, na forma do § 1º do art. 42 da mesma lei, o qual compreende todas as despesas processuais, inclusive aquelas dispensadas em primeiro grau de jurisdição, devendo ser feito, independentemente de intimação, nas quarenta e oito horas seguintes à interposição, sob pena de deserção.
+O recurso foi interposto no dia 5 de março de 2010, sexta-feira (certidão de fl. 97), expirando o prazo para o preparo no dia 7 de março 2010, que por cair no domingo, foi prorrogado até o fim do primeiro minuto do início do expediente forense do dia 8 de março de 2010, segunda-feira. Ocorre, contudo, que as guias de preparo foram apresentadas de forma extemporânea apenas às 13h56 do dia 8 de março de 2010, conforme se verifica no comprovante de pagamento (fl. 95/verso).
+Com efeito, o prazo fixado por hora é contado de minuto a minuto, a teor do que dispõe o § 4º do art. 132 do Código Civil, e não se interrompe nos feriados, conforme as expressas disposições dos arts. 175 e 178 do CPC.
+Sobre a forma da contagem do prazo fixado em horas, confira-se o claro precedente do e Superior Tribunal de Justiça:
+‘Ação de prestação de contas. Segunda fase. Prazo para apresentação das contas. Prazo fixado em horas. Contagem. Precedentes da Corte. 1. Como já assentou a Corte, o prazo fixado em horas conta-se minuto a minuto. No caso, irrelevante o fato de não constar da certidão a hora da intimação. O Acórdão recorrido beneficiou a recorrente com a prorrogação do início para o primeiro minuto do dia seguinte ao da juntada do mandado, adiando o seu termo final para o momento da abertura do expediente forense do dia seguinte ao do encerramento do prazo de 48h, considerando que este caiu no domingo. 2. Recurso especial não conhecido’ (RESP 416.689/SP; Ministro CARLOS ALBERTO MENEZES DIREITO; T3 – TERCEIRA TURMA; DJ 17/02/2003, p. 272).
+(...)
+Nesses termos, e em observância ao art. 42, § 1º, da Lei n. 9.099/95, não conheço do recurso. Condeno a recorrente ao pagamento das custas processuais. Sem honorários em razão da ausência de advogado constituídos nos autos pela recorrida” (fls. 109-110).
+Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (arts. 42, § 1º, e 54 da Lei n. 9.099/1995, art. 132, § 4º, do Código Civil e arts. 175 e 178 do Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+Nesse sentido:
+“RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Recurso inominado julgado deserto. Ofensa constitucional indireta. Ausência de razões consistentes. Decisão mantida. Agravo Regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (RE 572.068-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 15.8.2008).
+7. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional (Código de Processo Civil), configurariam apenas ofensa constitucional indireta.
+Nesse sentido:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+Publique-se.
+Brasília, 10 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
