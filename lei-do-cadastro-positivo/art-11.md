@@ -1,0 +1,2 @@
+Art. 11. Desde que autorizados pelo cadastrado, os prestadores de serviços continuados de água, esgoto, eletricidade, gás e telecomunicações, dentre outros, poderão fornecer aos bancos de dados indicados, na forma do regulamento, informação sobre o adimplemento das obrigações financeiras do cadastrado.
+Parágrafo único. É vedada a anotação de informação sobre serviço de telefonia móvel na modalidade pós-paga.

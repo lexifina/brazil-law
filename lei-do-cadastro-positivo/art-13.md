@@ -1,0 +1,1 @@
+Art. 13. O Poder Executivo regulamentará o disposto nesta Lei, em especial quanto ao uso, guarda, escopo e compartilhamento das informações recebidas por bancos de dados e quanto ao disposto no art. 5º.
