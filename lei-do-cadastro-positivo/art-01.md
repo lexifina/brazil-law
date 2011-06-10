@@ -1,0 +1,2 @@
+Art. 1º Esta Lei disciplina a formação e consulta a bancos de dados com informações de adimplemento, de pessoas naturais ou de pessoas jurídicas, para formação de histórico de crédito, sem prejuízo do disposto na Lei nº 8.078, de 11 de setembro de 1990 - Código de Proteção e Defesa do Consumidor.
+Parágrafo único. Os bancos de dados instituídos ou mantidos por pessoas jurídicas de direito público interno serão regidos por legislação específica.
