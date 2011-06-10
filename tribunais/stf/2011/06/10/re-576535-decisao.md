@@ -1,0 +1,14 @@
+LibreOffice Trata-se de recurso extraordinário contra acórdão que, com base no art. 57 da Lei Complementar estadual sul-mato-grossense 53/1990, entendeu válida a promoção de policial militar decorrente de transferência para a reserva remunerada após 30 anos de serviço ativo.
+Neste RE, alegou-se, em suma, ofensa aos arts. 5º, XXXV, LIV e LV, 22, XXI, 40, §§ 2º, 3º, 7º e 8º, 42, § 2º, 60, § 4º, e 93, IX, da mesma Carta.
+A pretensão recursal não merece acolhida. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+É certo, ainda, que, para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar norma infraconstitucional local (Lei Complementar estadual 53/1990), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/90. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 473.602-AgR/MS, Rel. Min. Cármen Lúcia, Primeira Turma).
+“CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROMOÇÃO DO MILITAR. INTERPRETAÇÃO DA LEI COMPLEMENTAR 53/90. SÚMULA STF 280.
+1. Para se concluir, como pretende a parte agravante, necessário seria o reexame de legislação local, o que é defeso nesta via extraordinária (Súmula STF 280). Precedentes.
+2. Agravo regimental improvido” (AI 762.655-AgR/MS, Rel. Min. Ellen Gracie, Segunda Turma).
+No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: RE 574.945-ED/MS e RE 633.421-AgR/MS, Rel. Min. Cármen Lúcia; AI 562.165-AgR/MS, Rel. Min. Eros Grau; AI 685.889/MS, de minha relatoria.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 10 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
