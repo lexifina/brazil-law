@@ -5,3 +5,4 @@ I - fortalecer as práticas sócio-culturais e a língua materna de cada comunid
 II - manter programas de formação de pessoal especializado, destinado à educação escolar nas comunidades indígenas;
 III - desenvolver currículos e programas específicos, neles incluindo os conteúdos culturais correspondentes às respectivas comunidades;
 IV - elaborar e publicar sistematicamente material didático específico e diferenciado.
+§ 3º No que se refere à educação superior, sem prejuízo de outras ações, o atendimento aos povos indígenas efetivar-se-á, nas universidades públicas e privadas, mediante a oferta de ensino e de assistência estudantil, assim como de estímulo à pesquisa e desenvolvimento de programas especiais.
