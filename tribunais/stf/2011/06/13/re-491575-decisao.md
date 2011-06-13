@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário que impugna acórdão assim ementado:
+“REPETIÇÃO DE INDÉBITO. INDEVIDO DESCONTO DE IMPOSTO DE RENDA. CONTRIBUINTE COM MAIS DE 65 ANOS DE IDADE. 1. A Emenda Constitucional nº 20, de 16 de dezembro de 1998, revogou, no artigo 17, a imunidade prevista no inciso II do § 2º do artigo 153, da Carta Magna. 2. Desprovimento do recurso” (fl. 149).
+No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa ao artigo 153, § 2º, II, do texto constitucional.
+Nas razões recursais, alega-se, em síntese, que:
+“Não se poderia conceber, pois, a hipótese de não realizar descontos pertinentes ao imposto de renda, por meio de retenção na fonte, e muito menos, por via de conseqüência, a devolução dos montantes anteriormente retidos pelo Município, consoante pedido formulado na inicial. O magistério tribunalício do Excelso Pretório assim não autorizava; muito ao revés, o STF apontou para a não auto-aplicabilidade e eficácia limitada da norma insculpida no art. 153, parágrafo 2º, inciso II, da Carta da República” (fl. 156).
+Decido.
+Razão assiste ao recorrente.
+Esta Corte firmou entendimento segundo o qual não é auto-aplicável o artigo 153, § 2º, II, da Constituição Federal (com redação anterior à Emenda Constitucional nº 20, de 16 de dezembro de 1998), sendo válidos os limites e restrições fixados na Lei nº 7.713/88, com suas posteriores alterações.
+Nesse sentido: RE 296.234, Rel. Moreira Alves, Primeira Turma, DJ 22.6.2001; RE 351.755, Rel. Min. Moreira Alves, Primeira Turma, DJ 31.10.2002; RE-AgR 363.790, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.10.2006; RE-AgR 367.952, de minha relatoria, Segunda Turma, DJ 5.5.2006; AI-AgR 499.269, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 28.4.2006; AI-AgR 515.912, Rel. Min. Eros Grau, Primeira Turma, DJ 17.12.2004; e RE 200.485, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 20.3.1998, com acórdão assim ementado:
+“IMPOSTO DE RENDA NA FONTE. PROVENTOS. BENEFICIÁRIOS COM IDADE SUPERIOR A SESSENTA E CINCO ANOS. ART. 153, § 2º, INC. II, DA CONSTITUIÇÃO FEDERAL. LEI Nº 7.713/88. O Supremo Tribunal Federal, no julgamento do Mandado de Segurança 22.584 (Sessão do dia 17.04.97), proclamou entendimento no sentido de que o art. 153, § 2º, II, da Constituição Federal, ao estabelecer que o imposto de renda "não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho", não é auto-aplicável, estando a depender de lei que fixará os termos e os limites dessa não-incidência. E, até que advenha a lei regulamentando o exercício desse direito, continuam válidos os limites e restrições fixados na Lei nº 7.713/88 com suas posteriores alterações. Recurso extraordinário conhecido, mas improvido”.
+Ante o exposto, dou provimento ao recurso extraordinário, para declarar que o artigo 153, § 2º, II, da Constituição Federal, até sua revogação pela Emenda Constitucional nº 20/98, não era auto-aplicável e, em consequência, julgar improcedente a ação (arts. 21, § 2º, do RISTF, e 557, §1º-A, do CPC).
+Invertidos os ônus da sucumbência.
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
