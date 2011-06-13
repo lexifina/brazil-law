@@ -1,0 +1,18 @@
+DECISÃO: Torno sem efeito a decisão de fls. 286, tendo em vista que a presente controvérsia refere-se a matéria diversa daquela de que cuida o paradigma citado, e julgo prejudicado o agravo regimental.
+    Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “Recurso Cível. Ação de Indenização por Danos Morais e Materiais. Negativa de atendimento médico e de inclusão de recém-nascida como dependente de plano de saúde. Improcedência da alegação de não vencimento do prazo de carência determinado no contrato do plano de saúde. Caso de urgência e emergência. Carência de 48 horas devidamente cumprida a quando da solicitação de atendimento. Infringência por parte do recorrente ao art. 4º, XLIX do contrato. Danos morais devidamente configurados. Danos materiais igualmente comprovados. Dever de indenizar. Configuração de litigância de má-fé. Aplicação da penalidade do art. 18 do CPC. Recurso conhecido e improvido.” (fl. 218)
+    Não foram opostos embargos declaratórios.
+    No extraordinário, alega-se violação aos artigos 5º, incisos II, XXXV, XXXVI, LIV e LV, e § 2º; e 93, IX, da Constituição Federal (224-246).
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Código de Defesa do Consumidor, Código Civil Brasileiro, Lei n. 9.656/98) e com interpretação de cláusulas constantes em contrato (Súmula 454/STF). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Além disso, o Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+    Nesse sentido, cito, entre outros o AI 813.287, Segunda Turma, Rel. Min. Ellen Gracie, DJe 11.10.2010; e o AI-AgR 681.515, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 20.6.2008, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. MAJORAÇÃO DE CONTRAPRESTAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+    Ademais, é firme a jurisprudência desta Corte que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Além disso, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Por último, ressalto que esta via excepcional não viabiliza pretensão cujo exame demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de junho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
