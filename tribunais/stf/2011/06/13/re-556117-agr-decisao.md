@@ -1,0 +1,24 @@
+1.  Trata-se de agravo regimental de decisão (fls. 176-177) que negou seguimento ao recurso extraordinário – em que se discute a concessão de bolsa de estudos do Programa Prouni por instituição particular de ensino superior – com base nos seguintes fundamentos:
+ a) ausência de prequestionamento de alguns dos dispositivos constitucionais dados como violados no apelo extremo (artigos 5º, II, e 109, I, da CF);
+ b) eventual ofensa à Constituição Federal (artigos 207 e 209) seria indireta, além de depender do reexame de fatos e provas (Súmula STF 279).
+2.  No presente recurso, a recorrente alega que, ao contrário do afirmado pela decisão agravada, houve o devido prequestionamento da matéria constitucional, porquanto interpôs embargos de declaração para preencher tal requisito. No mérito, argumenta que houve afronta direta à Constituição Federal, sustentando, em síntese, o seguinte:
+“Como demonstrado na petição do recurso extraordinário, o cerne da questão constitucional cuja resposta o agravante procura pode-se resumir na seguinte indagação: cabe ao Judiciário compelir a escola particular a fornecer bolsa de estudos, oriunda ou não do PROUNI, em face do disposto nos artigos 5º, II, 109, I, 207 e 209 da Constituição da República?
+A toda evidência, a contrariedade ao texto constitucional não poderia ser mais direta, particularmente no que tange aos artigos 5º, II, 109, I, 207 e 209 da Constituição da República...” (fl. 199)
+(...)
+“Em suma, não resta dúvida de que o agravante, no exercício de sua autonomia administrativa e orçamentária (garantida pelo artigo 207 da CR/88), concedeu bolsas de estudo adicionais para alunos ingressantes no curso superior, respeitando, como lhe cabia, as diretrizes da Lei 11.096/05 e do Decreto 5.493/05, observando, por conseqüência, as normas da educação nacional, como manda o artigo 209, I, da CF/88” (fl. 202).
+3.  Assiste razão à agravante. Constato que houve equívoco na decisão agravada tão-somente quanto à ausência de tal requisito em relação aos artigos 5º, II, e 109, I, da CF, cujos dispositivos foram suscitados no recurso inominado (fls. 99-104) e nos embargos de declaração opostos contra o aresto recorrido (fls. 125-129), o que afasta o óbice previsto nas Súmulas STF 282 e 356.
+4.  Dessa forma, reconsidero a decisão agravada quanto ao item 4 (fl. 176) e passo a analisar a questão dos autos, sob o enfoque dos artigos 5º, II, e 109, I, da CF, dados como violados no apelo extremo, que foram devidamente prequestionados.
+5.  Ainda assim, o recurso não merece prosperar, porquanto, para concluir pela alegada ofensa à Constituição Federal, no caso dos autos, da mesma forma, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional (art. 3º da Lei 10.259/01).
+ Veja-se, a propósito, o RE 525.971-AgR/PR, de minha relatoria, 2ª Turma, unânime, DJe 03.04.2009, assim ementado:
+“PROCESSO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPETÊNCIA. AÇÃO RESCISÓRIA. JUIZADO ESPECIAL FEDERAL. TURMA RECURSAL. OFENSA INDIRETA. LEI 9.099/95.
+1.  O Tribunal Regional Federal declinou da competência para julgar ação rescisória de julgados de Turma Recursal. Ofensa ao art. 108, I, b, da Constituição Federal, no caso, se existente, seria indireta, porquanto dependente do exame da Lei 9.099/95, matéria, pois, de índole processual.
+2.  O agravante pretende o reexame da interpretação que o Tribunal de origem, no regular exercício de sua competência, conferiu às normas infraconstitucionais, o que é inviável em sede de recurso extraordinário.
+3.  Agravo regimental improvido”.
+ Aponto, ainda, o AI 504.621/PE, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ 24.09.2004, assim ementado:
+“RECURSO. Extraordinário. Inadmissibilidade. Juizado Especial. Competência. Valor da causa. Matéria processual. Ofensa indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, como a de ordem processual”.
+ Além disso, quanto à alegada ofensa ao art. 5º, II, da CF, incide o óbice da Súmula STF 636: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+8.  Diante do exposto, reconsidero, em parte, a decisão agravada (art. 557, § 1º, do CPC) para tão-somente considerar prequestionados os artigos 5º, II, e 109, I, da CF e decidir a questão com base nesses dispositivos e assim fazendo, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 13 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
