@@ -1,0 +1,19 @@
+D ECIS Ã O: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça de Mato Grosso do Sul a seguir ementado:
+“APELAÇÃO – AÇÃO DECLARATÓRIA C/C COBRANÇA DE DIFERENÇA SALARIAL – DECRETO N. 12.008/2005 – ENQUADRAMENTO NA FUNÇÃO DE GESTOR DE RECURSOS HUMANOS – REQUISITOS NECESSÁRIOS – ESCOLARIDADE PREVISTA PARA A FUNÇÃO – POSTERIOR EDIÇÃO DO DECRETO 12.076/2006 – REENQUADRAMENTO NA FUNÇÃO DE TÉCNICO DE RECURSOS HUMANOS – ATO NULO – REVISÃO DO ATO – POSSIBILIDADE DA ADMINISTRAÇÃO – PODER DE AUTOTUTELA – IRREDUTIBILIDADE DE VENCIMENTOS – NÃO-OCORRÊNCIA.
+Para requerer o enquadramento na função de gestor de recursos humanos, o servidor deve preencher os requisitos constantes no Decreto n. 12.008/2005, especialmente, a escolaridade prevista para a função.
+Constatado que, por erro, houve enquadramento de servidor em categoria superior daquela que deveria estar, pode a Administração Pública anular seu próprio ato, já que eivado de ilegalidade, dele não originado direito”. (fl. 149)
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXVI, LV, e 37, XV, do Texto Constitucional.
+Os recorrentes sustentam, em síntese, que não lhes foi facultado o direito de ampla defesa. Salientam, ainda, a violação do princípio da irredutibilidade salarial.
+Decido.
+O acórdão recorrido está em consonância com o entendimento desta Corte, no sentido de que é permitido à Administração Pública rever seus atos, a qualquer tempo, quando eivados de erro ou ilegalidade (Súmula 473 do STF). Nesse sentido, confira-se o seguinte julgado:
+“ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO. SÚMULA STF 473. PRINCÍPIOS DA SEGURANÇA JURÍDICA E DA BOA FÉ. RESSARCIMENTO AO ERÁRIO DE VALORES RECEBIDOS A MAIOR. HORAS EXTRAS. DESNECESSIDADE. PRESCRIÇÃO. MATÉRIA PRECLUSA. 1. A Administração pode, a qualquer tempo, rever seus atos eivados de erro ou ilegalidade (Súmula STF 473), porém o reconhecimento da ilegalidade do ato que majorou o percentual das horas extras incorporadas aos proventos não determina, automaticamente, a restituição ao erário dos valores recebidos, uma vez comprovada a boa-fé da impetrante, ora agravada. Precedentes. 2. Encontra-se preclusa a questão envolvendo o não- reconhecimento de prescrição do ressarcimento em relação às parcelas pretendidas e que são posteriores ao qüinqüênio que antecederam à propositura da ação. 3. Agravo regimental improvido”. (grifei) (AI-AgR 490.551, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe 3.9.2010)
+Ademais, ressalte-se que o Plenário desta Corte, no julgamento do RE 298.694, Rel. Min. Sepúlveda Pertence, DJ 23.4.2004, firmou entendimento no sentido de que “Irredutibilidade de vencimentos: garantia constitucional que é modalidade qualificada da proteção ao direito adquirido, na medida em que a sua incidência pressupõe a licitude da aquisição do direito a determinada remuneração”.
+Nesses termos, tendo em vista o reconhecimento da ilegalidade do enquadramento dos servidores, não verifico, no caso, ofensa à irredutibilidade salarial.
+Por fim, a discussão acerca da violação do contraditório e da ampla defesa demanda o reexame do conjunto-fático probatório, providência vedada em sede de recurso extraordinário, nos termos do enunciado 279 da Súmula do STF.
+Além disso, é descabida a invocação da alínea “c” do art. 102, III, da CF/88, pois o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição Federal.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
