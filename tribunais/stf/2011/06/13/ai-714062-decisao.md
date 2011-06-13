@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+“APELAÇÃO – EMBARGOS À EXECUÇÃO – ORDINÁRIA DE ANULAÇÃO DE TÍTULO – INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA – NOTAS PROMISSÓRIAS – LEGITIMIDADE PASSIVA 'AD CAUSAM' – DESCONTO DE CHEQUES – AGIOTAGEM – Reconhecida que a empresa tem legitimidade 'ad causam' para figurar no pólo passivo da ação ordinária em face da condição de endossatário de uma das notas promissórias garantidoras do cumprimento da confissão sendo ainda a responsável pelo envio dos títulos a protesto – Demonstrado que os apelados atuaram como agente financeiro e cobraram juros onzenários da composição da dívida – Alegação verossímil e comprovada nos autos – Desrespeito ao art. 5º do Decreto nº 22.626/33 – Invertidos os ônus da sucumbência – Apelo provido.” (Fls. 121)
+Nas razões de recurso extraordinário, alega-se como violados os arts. 5º, LV e LXXVIII; e 93, IX, da Carta Magna.
+O recurso extraordinário, alegando que o acórdão recorrido ofende o preceito do art. 5º, LXXVIII, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 desta Corte).
+Ademais, inexiste a alegada afronta aos arts. 5º, LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+Além disso, o acórdão impugnado decidiu a causa com base na legislação infraconstitucional e nas provas dos autos, sendo que eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário. Incide o óbice das súmulas 279 e, mutatis mutandis, 636 desta Corte.
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
