@@ -1,0 +1,10 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+“AÇÃO DE COBRANÇA. (FUNDO DE COMPENSAÇÃO DE VARIAÇÕES SALARIAIS-FCVS – SFH). Duplicidade de financiamento. Quitação de saldo devedor residual pelo FCVS. Pedido de restituição da importância. As restituições contidas nas Leis 8.004 e 8.100, ambas de 1990, referentes à quitação pelos contratos celebrados anteriormente à vigência desses diplomas legais. A Lei 4.380/64, vigente no momento de conclusão dos negócios, embora vedasse o financiamento de mais de um imóvel pelo Sistema Financeiro de Habitação, na mesma localidade, não impunha como penalidade pelo descumprimento a perda da cobertura pelo FCVS. Somente após as alterações introduzidas pela Lei 10.150/2000, estabeleceu-se que, no âmbito do Sistema Financeiro de Habitação, o descumprimento do preceito legal que proíbe a duplicidade de financiamento dá ensejo à perda da cobertura do saldo devedor residual pelo FCVS de um dos financiamentos. Precedentes do Superior Tribunal de Justiça. Sentença confirmada, mas por fundamento diverso. Recurso não provido. (m.v.). ” (fls. 160)
+Nas razões de recurso extraordinário, o ora agravante alega como violado o art. 5º, II e XXXVI, da Constituição.
+A análise da apontada violação ao texto da Constituição demandaria o exame prévio da legislação infraconstitucional e do contrato. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide nas Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+Nesse sentido, AI 661.735 (rel. min. Cármen Lúcia, DJe de 30.03.2010), AI 727.412 (rel. min. Ellen Gracie, DJe de 07.05.2009) e AI 588.593 (rel. min. Gilmar Mendes, DJ de 17.05.2006).
+Do exposto, nego seguimento ao agravo.
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
