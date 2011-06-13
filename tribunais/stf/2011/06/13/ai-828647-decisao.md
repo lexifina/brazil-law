@@ -1,0 +1,22 @@
+D ECIS Ã O:
+Vistos.
+Luiz Carlos de Arruda interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, caput e inciso LIV, da Constituição Federal.
+Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim fundamentado na parte que interessa:
+“In casu, numa Ação Investigatória de Paternidade que se propõe contra o Agravante, este insurge-se da parte contrária ter indicado reconhecido e respeitável laboratório de genética, adotado pelo Juiz a quo. Taxa o Magistrado de parcial, além de adotar, a parte contrária, o médico como testemunhal no feito.
+Data venia, as discussões carreadas são sem o menor fomento de agasalho recursal. Se o Agravante quisesse mesmo desatar a dúvida da paternidade, paralelamente, poderia ter ido com os demais interessados, sem mando, ao laboratório, que julga recomendável.
+O Juiz é livre para indicar quem quiser para perito, desde que qualificado e, in casu, o é, como outros mais o são na capital e no interior, registrando mais, que temos apreciado - e com agrado - laudos de laboratórios genéticos, salvo engano, até da própria cidade de Uberlândia.
+Não há que se falar em suspeição de juiz, pois uma simples indicação de um perito - e respeitável - não induz à presunção de parcialidade, no que, de pronto, repilo.
+Quanto ao fato do perito ser arrolado como testemunha, é fato de somenos, pois se ele for a testemunha, tendo feito o laudo, ele só pode restringir-se aos esclarecimentos técnico-periciais descritos na lei adjetiva civil que o Agravante – como Advogado - e seus Advogados devem - ou deveriam - saber como nós” (fls. 47/48).
+Opostos embargos de declaração (fls. 54 a 59), foram rejeitados (fls. 70 a 72).
+Decido.
+Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 4/10/2, conforme expresso na certidão de folha 74, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP - AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+“AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+Ressalte-se, por fim, que o Tribunal de origem decidiu a lide amparado nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário.
+Nego provimento ao agravo.
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro D IAS T OFFOLI
+Relator
+Documento assinado digitalmente
