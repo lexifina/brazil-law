@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“RECURSO DE REVISTA - CERCEAMENTO DE DEFESA - SUSPEIÇÃO DE TESTEMUNHA - QUITAÇÃO - EFEITOS - SÚMULA Nº 330 DO TST - PRESCRIÇÃO DO FGTS - RETIFICAÇÃO DA CTPS - AVISO PRÉVIO - PARCELAS RESCISÓRIAS - HORAS EXTRAS - DIFERENÇAS DO FGTS - CORREÇÃO DO FGTS - ÍNDICE APLICÁVEL - HONORÁRIOS PERICIAIS O Recurso de Revista não comporta conhecimento pelas violações apontadas, nem por divergência jurisprudencial. Recurso de Revista não conhecido.” (fl. 448)
+Não foram opostos embargos declaratórios.
+No apelo extremo, sustenta-se que ocorreu violação à garantia constitucional do ato jurídico perfeito, estampado no artigo 5º, inciso XXXVI, da Constituição Federal, em razão do acórdão recorrido não ter reconhecido a rescisão do contrato de trabalho homologada.
+Verifico que o Tribunal de origem examinou a controvérsia à luz da legislação infraconstitucional (Consolidação das Leis Trabalhistas) e do Enunciado 330 do Tribunal Superior do Trabalho. A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+Sobre o tema, confiram-se os julgamentos do RE-AgR 581.142, Rel. Min. Celso de Mello, 2ª Turma, DJe 3.10.2008, e do AI-AgR 745.618, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 12.6.2009, cuja ementa dispõe:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. VÍNCULO EMPREGATÍCIO E APLICAÇÃO DA SÚMULA 330 DO TRIBUNAL SUPERIOR DO TRABALHO: CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+Ademais, enfatizo que é firme a jurisprudência desta Corte que mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada, do ato jurídico perfeito (art. 5º, XXXVI) são insuficientes para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido os julgamentos do RE-AgR 559.816, Rel. Min. Ellen Gracie, DJe 4.5.2011; e AI-AgR 635.789, Rel. Min. Dias Toffoli, DJe 27.4.2011, cuja ementa transcrevo:
+“Agravo regimental no agravo de instrumento. Artigo 5º, inciso XXXVI, da Constituição Federal. Ato jurídico perfeito. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido.”
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 13 de junho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
