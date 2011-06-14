@@ -1,0 +1,32 @@
+DECISÃO:
+    Vistos.
+    Banco Finasa S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 48, inciso XIII, e 192, § 3º, da Constituição Federal e 25 do Ato das Disposições Constitucionais Transitórias.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Recursal Mista dos Juizados Especiais do Estado de Mato Grosso do Sul, assim ementado:
+    “RECURSO CÍVEL - AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO - APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR - MITIGAÇÃO DO 'PACTA SUNT SERVANDA' - JUROS - LIMITAÇÃO EM 12 % AO ANO - CAPITALIZADOS ANUALMENTE - COMISSÃO DE PERMANÊNCIA - INAPLICABILIDADE - SUBSTITUIÇÃO PELO IGPM-FGV - RESTITUIÇÃO DOS VALORES PAGOS A MAIOR - POSSIBILIDADE - RECURSO DO RECLAMANTE CONHECIDO E PARCIALMENTE PROVIDO - RECURSO DO RECLAMADO CONHECIDO E IMPROVIDO.
+    As Instituições Financeiras submetem-se aos ditames do Código de Defesa do Consumidor, pois prestadoras de serviços consoante conceito esculpido no art. 3°, § 2°, do CDC.
+    Segundo a legislação vidente os juros contratados, remuneratórios ou moratórios, encontra limitação em 12% ao ano, com capitalização anual, salvo se autorizada de forma diversa em legislação especial.
+    Vedada a comissão de permanência, porque é índice unilateralmente estabelecido por uma das partes, adota-se o IGPM-FGV por melhor refletir a variação da moeda.
+    Deve haver a restituição ao consumidor de valores pagos a maior, sendo que não há necessidade de liquidação de sentença e sim de meros cálculos aritméticos”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A jurisprudência desta Corte firmou entendimento no sentido de que a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Nesse sentido, anote-se:
+    “1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+    2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+    3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+    I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+    II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+    III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+    Ademais, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 804.209/MS, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria referente à limitação dos juros remuneratórios nos contratos celebrados posteriormente à Emenda Constitucional nº 40/03. A decisão do Pleno está assim ementada:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral”.
+    Essa decisão, nos termos do artigo 543-A, § 5º, do Código de Processo Civil, com a redação da Lei nº 11.418/06, “valerá para todos os recursos sobre matéria idêntica, que serão indeferidos liminarmente”.
+    Por fim, ressalte-se que o acórdão recorrido decidiu as demais questões amparado exclusivamente na legislação infraconstitucional (Código Civil e Código de Defesa do Consumidor) e nas provas dos autos. Nesse caso, a alegada ofensa aos dispositivos constitucionais apontados como violados, se houvesse, seria indireta ou reflexa, o que não enseja reexame na via do recurso extraordinário. Incidência das Súmulas 279 e 636 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. CÉDULA DE CRÉDITO COMERCIAL. JUROS: APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DO DECRETO N. 22.626/33. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 617.814/GO-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/12/2008).
+    “1. Recurso extraordinário: descabimento: controvérsia de natureza infraconstitucional (Código de Defesa do Consumidor), decidida com base em fatos e provas, de reexame vedado no recurso extraordinário: incidência, mutatis mutandis, das Súmula 636 e Súmula 279. 2. Alegações improcedentes de negativa de prestação jurisdicional ou de violação do art. 5º, XXXV e LV, da Constituição Federal” (AI nº 597.064/BA-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    No mesmo sentido as seguintes decisões monocráticas: AI nº 821.596/MS, Relatora a Ministra Cármen Lúcia, DJe de 10/5/11; AI nº 791.802/MS, Relator o Ministro Ayres Brito, DJe de 27/9/10, e RE nº 611.227/MS, Relator o Ministro Eros Grau, DJe de 13/4/10.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 14 de junho de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
