@@ -1,0 +1,23 @@
+D ECIS Ã O: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça a seguir ementado:
+“RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. TÉCNICO-CIENTÍFICO DO ESTADO DO RIO GRANDE DO SUL. PROMOÇÃO POR MERECIMENTO. PERIODICIDADE ANUAL. LEI ESTADUAL 8.186/86 E DECRETO ESTADUAL Nº 30.476/81. RECONHECIMENTO DO DIREITO À PROMOÇÃO COM EFEITOS RETROATIVOS. APLICAÇÃO DAS SÚMULAS 269 E 271/STF NO QUE TOCA AOS EFEITOS PATRIMONIAIS. PRESCRIÇÃO. NÃO-OCORRÊNCIA.
+1. Os servidores Técnico-Científicos do Estado do Rio Grande do Sul que tiverem reconhecido seu direito à promoção por merecimento têm direito à observância da periodicidade anual prevista na legislação específica, bem como à fixação do termo inicial da promoção em 1º de julho (arts. 7º da Lei Estadual nº 8.186/86 e 42, § 1º, do Decreto Estadual nº 30.476/81).
+2. Ante a demora da Administração de quase nove anos em reconhecer o direito da impetrante à promoção por merecimento, deve-se reconhecer o seu direito à promoção com efeitos retroativos a contar de 1º de julho de 1996, data em que deveria ocorrer.
+3. Recurso ordinário provido em parte, para reconhecer todos os efeitos retroativos do ato de promoção da impetrante a partir de 1º de julho de 1996, ressalvados os efeitos financeiros, que devem ser buscados nas vias ordinárias”. (fl. 144)
+No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º; 5º, XXXV, LIV,LV; 25; 37, caput; 61, § 1º, II; 84, VI e XXV; 93, IX; 169, § 1º, I e II; do Texto Constitucional.
+O recorrente sustenta, em síntese, a inexistência de direito subjetivo à promoção, ao argumento de que “compete à Administração, analisando as questões conjunturais vigentes, elaborar juízo de conveniência de uma promoção, independentemente de lapso temporal (...)” (fl. 211).
+Aduz, ainda, que “não existe previsão legal para o deferimento de efeitos retroativos do ato de promoção”. (fl. 214)
+Decido.
+Inicialmente, registre-se que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em violação aos arts. 5º, XXXV, LIV, LV, e 93, IX, da Constituição Federal.
+Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (grifei) (AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Pleno, DJe 13.8.2010)
+Quanto ao mérito, o Tribunal a quo, interpretando a legislação local aplicável ao caso (Lei Estadual nº 8.186/86 e Decreto Estadual nº 30.476/81), entendeu que a recorrida fazia jus à promoção pleiteada, inclusive com efeitos retroativos.
+Nesses termos, para se concluir de forma diversa do consignado pelo acórdão recorrido, necessária a análise da legislação local, providência vedada em sede de recurso extraordinário, conforme disposto no enunciado 280 da Súmula do STF.
+Nesse sentido, os seguintes precedentes: AI-AgR 764.144, de minha relatoria, Segunda Turma, DJe 8.2.2011; RE-AgR 612.769, Rel. Min. Ayres Britto, Segunda Turma, DJe 15.2.2011; RE-AgR 633.421, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.4.2011; AI-AgR 803.599, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010.
+Na hipótese, a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa.
+Ademais, importante frisar que, preenchidos os requisitos, os servidores públicos têm direito à promoção legalmente prevista, não constituindo este ato discricionariedade da Administração, que se encontra submetida ao princípio da legalidade.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 14 de junho de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
