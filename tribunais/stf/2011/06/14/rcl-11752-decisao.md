@@ -1,0 +1,30 @@
+1.  Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Universidade de São Paulo – USP, com fundamento nos artigos 102, I, l, da Constituição Federal; 156 do RISTF; e 13 da Lei 8.038/1990, contra o acórdão proferido pela Terceira Turma (6ª Câmara) do Tribunal Regional do Trabalho da 15ª Região que negou provimento ao recurso ordinário nos autos do Processo 0100800-93.2008.5.15.0137.
+ O reclamante sustenta, em síntese, que o acórdão do TRT, ora impugnado, entendeu ser aplicável ao caso a Súmula TST 331, o qual, a seu ver, concluiu pela inconstitucionalidade do art. 71, § 1º, da Lei 8.666/1993.
+ Argumenta, dessa forma, que, ao aplicar tal entendimento consubstanciado na Súmula TST 331, o aresto atacado ofendeu a autoridade da decisão proferida na ADC 16, que declarou constitucional o referido dispositivo legal.
+ Requer a concessão de medida liminar, ressaltando a possibilidade de trânsito em julgado da decisão reclamada, uma vez que a Súmula TST 333 impede o conhecimento do recurso de revista no caso de matéria já sumulada.
+2.  Requisitaram-se informações, que foram devidamente prestadas pela Secretária da 3ª Turma do TRF da 15ª Região (Petição 32.776/2011), nas quais relata que a decisão impugnada foi proferida em 13.12.2010 e que os autos “atualmente encontram-se aguardando análise de recurso de revista interposto pela ora reclamante”.
+3.  A via estreita da reclamação (Constituição, art. 102, I, l) pressupõe a ocorrência de usurpação de competência do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que neste último caso cuide-se da mesma relação jurídica em apreço na reclamação e das mesmas partes. Logo, seu objeto é, e só pode ser, a verificação de uma dessas hipóteses, para se sanar imediatamente o abuso, acaso verificado.
+ Verifico, no presente caso, a ocorrência de confronto entre o ato emanado do juízo reclamado e o que expressamente decidiu esta Corte no julgamento da Ação Declaratória de Constitucionalidade 16/DF.
+ É que a decisão impugnada na presente reclamação afastou a aplicação do art. 71, § 1º, da Lei 8.666/1993, que não permite a transferência de responsabilidades por encargos trabalhistas para os entes públicos, aplicando ao caso o que dispõe o inciso IV da Súmula TST 331.
+ Contudo, o Plenário do Supremo Tribunal Federal julgou em 24.11.2010 a Ação Declaratória de Constitucionalidade 16/DF, rel. Min. Cezar Peluso, e declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993 (DJe 03.12.2010).
+ Ademais, o Plenário desta Suprema Corte, em 24.11.2010, ao julgar os agravos regimentais interpostos nas Reclamações 6.970/SP, 7.218/AM, 7.425/PE, 7.740/AM, 7.517/DF, 7.611/DF, 7.668/AM, 8.134/AM, 8.220/DF, 8.599/AM, 8.814/RO, 9.019/SE, 9.104/SC e 10.169/RS, rel. Min. Ricardo Lewandowski, casos semelhantes ao presente, cassou as decisões impugnadas, sob o entendimento de que houve efetivamente ofensa à autoridade da Súmula Vinculante 10.
+ Naquela ocasião, fui designada redatora para o acórdão proferido no julgamento da Reclamação 8.150-AgR/SP e redigi a seguinte ementa:
+“AGRAVO REGIMENTAL EM RECLAMAÇÃO. ARTIGO 71, PARÁGRAFO 1º, DA LEI 8.666/1993. INCISO IV DA SÚMULA TST 331. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA POR DÉBITOS TRABALHISTAS ORIUNDOS DE PRESTAÇÃO DE SERVIÇOS TERCEIRIZADOS. ATRIBUIÇÃO DE RESPONSABILIDADE SUBSIDIÁRIA AO TOMADOR DOS SERVIÇOS. AFRONTA À AUTORIDADE DA SÚMULA VINCULANTE 10 DEVIDAMENTE CONFIGURADA. ARTIGO 103-A, PARÁGRAFO 3º, DA CONSTITUIÇÃO FEDERAL. AGRAVO REGIMENTAL PROVIDO. PROCEDÊNCIA DA RECLAMAÇÃO.
+1. Acórdão que entendeu ser aplicável ao caso o que dispõe o inciso IV da Súmula TST 331, sem a conseqüente declaração de inconstitucionalidade do art. 71, § 1º, da Lei 8.666/1993 com a observância da cláusula da reserva de Plenário, nos termos do art. 97 da Constituição Federal.
+2. Não houve no julgamento do Incidente de Uniformização de Jurisprudência TST-IUJ-RR-297.751/96 a declaração formal da inconstitucionalidade do art. 71, § 1º, da Lei 8.666/1993, mas apenas e tão-somente a atribuição de certa interpretação ao mencionado dispositivo legal.
+3. Informações prestadas pela Presidência do Tribunal Superior do Trabalho.
+4. As disposições insertas no art. 71, § 1º, da Lei 8.666/1993 e no inciso IV da Súmula TST 331 são diametralmente opostas.
+5. O art. 71, § 1º, da Lei 8.666/1993 prevê que a inadimplência do contratado não transfere aos entes públicos a responsabilidade pelo pagamento de encargos trabalhistas, fiscais e comerciais, enquanto o inciso IV da Súmula TST 331 dispõe que o inadimplemento das obrigações trabalhistas pelo contratado implica a responsabilidade subsidiária da Administração Pública, se tomadora dos serviços.
+6. O acórdão impugnado, ao aplicar ao presente caso a interpretação consagrada pelo Tribunal Superior do Trabalho no item IV do Enunciado 331, esvaziou a força normativa do art. 71, § 1º, da Lei 8.666/1993.
+7. Ocorrência de negativa implícita de vigência ao art. 71, § 1º, da Lei 8.666/1993, sem que o Plenário do Tribunal Superior do Trabalho tivesse declarado formalmente a sua inconstitucionalidade.
+8. Ofensa à autoridade da Súmula Vinculante 10 devidamente configurada.
+9. Agravo regimental provido.
+10. Procedência do pedido formulado na presente reclamação.
+11. Cassação do acórdão impugnado”.
+4.  Ante o exposto, com fundamento no art. 161, parágrafo único, do RISTF, julgo procedente o pedido formulado na presente reclamação para cassar a decisão proferida pela Terceira Turma do Tribunal Regional do Trabalho da 15ª Região, nos autos do Recurso Ordinário 0100800-93.2008.5.15.0137.
+5.  À Secretaria, para que proceda à anotação dos nomes dos procuradores indicados para fins de intimação, conforme requerido.
+6.  Comunique-se esta decisão ao Tribunal Regional do Trabalho da 15ª Região e ao Juízo da 3ª Vara do Trabalho de Piracicaba/SP.
+ Publique-se.
+ Brasília, 14 de junho de 2011.
+  Ministra Ellen Gracie
+    Relatora
