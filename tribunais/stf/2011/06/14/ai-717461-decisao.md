@@ -1,0 +1,16 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto pelo Clube Curitibano contra acórdão do TJ/PR que julgou parcialmente procedentes os embargos à execução apenas para permitir a taxa SELIC como indexador do débito. Destaco da ementa do aresto impugnado:
+“1. Preenchendo a CDA todos os requisitos formais exigidos pelo art. 202 do CTN e art. 2º, parágrafos 5º e 6º da Lei 6.830/80, afasta-se a nulidade alegada do título, tornando o débito cobrado líquido e certo.
+2. O auto administrativo de infração goza de presunção de veracidade e autenticidade, não se desconstituindo por alegações de irregularidades não comprovadas.
+3. Não há excesso de penalidade quando se verifica a reincidências nas infrações cometidas.
+4. Ao Clube compete fiscalizar o comportamento dos associados e coibir abusos em suas dependências, sendo ele o responsável por infração à Lei do Sossego Público perante o Município que lhe concede o Alvará para funcionamento.
+5. O artigo 161, § 1º do CTN prevê a possibilidade de regulamentação da taxa de juros por Lei extravagante, de maneira que, ante expressa previsão legal em lei municipal, nenhuma ilegalidade ou inconstitucionalidade milita contra a incidência da taxa Selic na correção do tributo” (fl. 38).
+2.  No RE, alega o agravante afronta ao art. 5º, LIV e LV, da CF, pleiteando a nulidade da CDA – sob o argumento de que não foram preenchidos os requisitos formais previstos no art. 202 do CTN e na Lei 6.830/80 – e das decisões proferidas pela instância de origem.
+3.  O recurso não merece prosperar porque, para se concluir pela alegada violação à Constituição Federal, seria necessário o reexame de fatos e provas (Súmula STF 279), o que impede o trânsito do apelo extremo.
+4.  Ademais, a jurisprudência desta Corte entende que a discussão dos autos, relativa à validade da Certidão da Dívida Ativa, envolve matéria infraconstitucional, hipótese inviável nesta via. Nesse sentido: AI 760.924-AgR/RS, de minha relatoria, 2ª Turma, DJe 18.12.2009 e RE 404.663-AgR/RS, rel. Min. Cármen Lúcia, 1ª Turma, DJe 14.8.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL PROPOSTA PELA FAZENDA PÚBLICA. INEXIGIBILIDADE DO PRÉVIO PROCESSO DE CONHECIMENTO. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA - CDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+5.  Ademais, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – prestação jurisdicional, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+6.  Ante o exposto, nego seguimento ao agravo (art. 557, caput, do CPC).
+   Publique-se.
+   Brasília, 14 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
