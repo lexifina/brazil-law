@@ -1,0 +1,11 @@
+1.  Trata-se de recurso extraordinário interposto contra acórdão o qual reconheceu a imunidade tributária do INSS em relação à cobrança do IPTU.
+2.  Nas razões do RE, sustenta-se ofensa ao artigo 150, II, VI, a, §2º e §4º, da Constituição Federal.
+3.  Admitido o recurso extraordinário na origem, subiram os autos.
+4.  O presente recurso não merece prosperar. Verifico que para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório dos autos, hipótese inviável em sede extraordinária. Incide, no caso, o óbice da Súmula STF 279.
+ Nesse sentido, menciono os seguintes julgados: RE 611.245/RJ, rel. Min. Celso de Mello, DJe 28.03.2011; RE 601.752/RJ, rel. Min. Joaquim Barbosa, DJe 19.10.2010; AI 395.862-AgR/MG, rel. Min. Cezar Peluso, 2ª Turma, DJe 1º.07.2009; RE 378.136-AgR/DF, rel. Min. Cármen Lúcia, 1ª Turma, Dje 05.02.2010; e AI 744.269-AgR/RJ, rel. Min. Ayres Britto, 1ª Turma, DJe 06.08.2010, cujo acórdão está assim ementado:
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IPTU. IMUNIDADE. INCIDÊNCIA DA SÚMULA 279 DESTA NOSSA CORTE. EXTENSÃO ÀS AUTARQUIAS. ALÍNEA "A" DO INCISO VI DO ART. 150 DA MAGNA CARTA DE 1988. PRECEDENTES. SÚMULA 724 do STF. 1. A imunidade tributária recíproca dos entes políticos, prevista na alínea "a" do inciso VI do art. 150 da Constituição Republicana, "é extensiva às autarquias, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes". Precedentes: AI 495.774-AgR, da relatoria do ministro Sepúlveda Pertence; bem como os REs 212.370-AgR, da relatoria do ministro Sepúlveda Pertence; e 220.201, da relatoria do ministro Moreira Alves. 2. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame dos fatos e provas constantes dos autos. Providência vedada na instância extraordinária. 3. Aplicação das súmulas 279 e 724 do STF. 4. Agravo regimental desprovido”.
+5.  Ante o exposto, com fundamento no art. 557, caput, do CPC, nego seguimento ao recurso extraordinário.
+ Publique-se.
+ Brasília, 14 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
