@@ -1,0 +1,22 @@
+DESPACHO
+MANDADO DE INJUNÇÃO. ALEGADA AUSÊNCIA DE NORMA REGULAMENTADORA DO ART. 40, § 4º, INC. I, II E III, DA CONSTITUIÇÃO DA REPÚBLICA. REQUISIÇÃO DE INFORMAÇÕES E VISTA AO PROCURADOR-GERAL DA REPÚBLICA.
+Relatório
+1. Mandado de injunção, com pedido de medida liminar, impetrado pelo Sindicato dos Trabalhadores em Estabelecimentos de Ensino Superior do Oeste do Paraná - Sinteoeste, em 2.7.2010, contra pretensa omissão legislativa imputada ao Presidente da República.
+2. O Impetrante alega que possui “legitimidade ativa ad causam ampla para a defesa dos direitos individuais homogêneos de toda a categoria ou de apenas parte dela, como acontece no presente caso, em que se postula em prol dos servidores públicos da Unioeste e que exercem atividades que lhes garantem o direito a uma aposentadoria especial (art. 40, § 4º, incisos I a III, da CF)” (fl. 2).
+Argumenta que “os substituídos são servidores públicos estaduais, ocupantes de cargos docente ou agente universitário, no desenvolvimento das mais diversas funções junto aos 05 (cinco) campus da Universidade Estadual do Oeste do Paraná (Unioeste), nas cidades de Cascavel/PR, Foz do Iguaçu/PR, Francisco Beltrão/PR, Marechal Cândido Rondon/PR e Toledo/PR” (fl. 4).
+Sustenta que “não obstante a situação especial/excepcional a que estão submetidos boa parte dos substituídos, os mesmos não podem requerer a aposentadoria especial, devido à falta de regulamentação legal para o disposto nos incisos I a III, do parágrafo 4º, do artigo 40, da Constituição Federal, o que leva o Impetrante a buscar o Poder Judiciário para ver tutelado o direito daqueles” (fl. 5).
+Argumenta que “ante a falta da norma regulamentadora específica há, então, que se adotar, em interpretação integrativa, analogicamente, as disposições constantes da Lei n. 8213/1991, artigos 57 e 58, que regulamentam o benefício para os trabalhadores vinculados ao RGPS” (fl. 6).
+Requer liminar “para determinar às autoridades administrativas estaduais paranaenses responsáveis pela concessão da aposentadoria aos substituídos que, quando dos seus pedidos e até o final da presente, sejam os mesmos analisados e concedidos tão somente à luz dos requisitos constantes dos artigos 57 e 58, da Lei n. 8.213, de 1991” (fl. 8).
+Pede seja reconhecida “a falta de norma regulamentadora do direito à aposentadoria especial dos substituídos (artigo 40, parágrafo 4º, incisos I a III, da CF) e o consequente estado de mora do Impetrado para, removendo o obstáculo criado pela omissão, determinar às autoridades administrativas estaduais paranaenses competentes que, quando dos pedidos de aposentadoria dos substituídos, sejam os mesmos analisados e concedidos tão somente à luz dos requisitos constantes dos artigos 57 e 58, da Lei n. 8.213, de 1991” (fl. 8).
+3. Em 6.7.2010, o Vice-Presidente do Supremo Tribunal Federal indeferiu o pedido de medida liminar (doc. 22).
+4. Em 28.9.2010, determinei ao Impetrante que, no prazo de dez dias, suprissem as falhas relativas aos elementos processuais que viabilizariam o trâmite do presente mandado de injunção (doc. 25), o que ocorreu em 19.10.2010 (docs. 26, 27 e 28).
+Examinados os elementos havidos nos autos, DECIDO.
+5. O mandado de injunção é garantia constitucional prestante, exclusivamente, a viabilizar direitos ou liberdades constitucionais, bem como a soberania, a cidadania e a nacionalidade, quando não puderem ser exercidos por ausência de norma regulamentadora (art. 5º, inc. LXXI, da Constituição da República).
+Pressupõe, portanto, a existência de preceito constitucional dependente da regulamentação por outra norma, esta de categoria inferior na hierarquia dos tipos normativos.
+6. Na espécie vertente, o Impetrante alega que a ausência da norma regulamentadora do art. 40, § 4º, inc. I, II e III, da Constituição da República tornaria inviável o exercício do direito à aposentadoria especial dos servidores substituídos nesta ação, pois os termos para sua aposentação deveriam ser definidos por lei complementar.
+7. Notifique-se o Impetrado para, querendo, prestar informações no prazo de dez dias (art. 24, parágrafo único, da Lei n. 8.038/1990 c/c art. 7º, inc. I, da Lei n. 12.016/2009 e art. 203 do Regimento Interno do Supremo Tribunal Federal).
+8. Na sequência, vista ao Procurador-Geral da República (arts. 52, inc. IX, e 205 do Regimento Interno do Supremo Tribunal Federal e art. 103, § 1º, da Constituição da República).
+Publique-se.
+Brasília, 14 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
