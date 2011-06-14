@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo regimental contra a decisão de fls. 114, em que neguei seguimento ao recurso extraordinário do Estado de Sergipe, ante a incidência da Súmula 280/STF.
+    2. Pois bem, o agravante sustenta que a “jurisprudência dessa Augusta Corte Suprema, em casos específicos da referida vantagem sergipana, ultrapassando os supostos óbices apontados pela decisão aqui agravada, concluiu que o aludido adicional de etapa alimentar não tem natureza genérica e requer condições específicas para sua percepção, circunstância que inviabiliza a extensão do pagamento aos inativos” (fls. 122).
+    3. Tenho que a insurgência merece acolhida. Isso porque, nos termos da jurisprudência do Supremo Tribunal Federal, a verba denominada “etapa alimentar” possui natureza indenizatória, pelo que somente é devida nos casos especificados na Lei estadual 2.241/1979. Inviável, portanto, sua extensão aos aposentados. Leia-se, a propósito, a ementa do RE 411.998, da relatoria do ministro Gilmar Mendes:
+    “Recurso extraordinário. 2. Adicional de etapa alimentar. Extensão aos militares inativos. Impossibilidade. Verba de natureza indenizatória. Inexistência de caráter genérico. 3. Recurso extraordinário conhecido e provido.”
+    4. No mesmo sentido, vejam-se os seguintes julgados, todos oriundos do mesmo ente federado e alusivos à mesma questão: AIs 607.034, da relatoria do ministro Joaquim Barbosa; 633.846, da relatoria da ministra Cármen Lúcia; e 744.724, da relatoria do ministro Ricardo Lewandowski; bem como RE 423.389, da relatoria do ministro Gilmar Mendes.
+    Ante o exposto, reconsidero a decisão agravada, e, com base no § 1º-A do art. 557 do Código de Processo Civil, dou provimento ao recurso extraordinário, nos termos acima expostos. Determino a inversão dos ônus sucumbenciais e fixo os honorários advocatícios em R$ 50,00 (cinqüenta reais) por parte sucumbente. Fica ressalvada a hipótese de concessão dos benefícios da Justiça Gratuita, caso em que serão aplicáveis as isenções previstas no art. 3º da Lei 1.060/1950, bem como o disposto no art. 12 da referida lei.
+    Publique-se.
+    Brasília, 14 de junho de 2011.
+Ministro AYRES BRITTO
+Relator
