@@ -1,0 +1,22 @@
+D ECIS Ã O: Trata-se de reclamação constitucional ajuizada pela União contra decisão do Tribunal Superior do Trabalho, proferida nos autos do RE-ED-AIRR 56040-97.1989.5.13.0002, que, ao concluir pela incidência de juros de mora, em regime de precatório, durante o prazo previsto na Constituição para pagamento, teria violado a Súmula Vinculante 17, segundo a qual, “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos”.
+Ao apreciar o pedido, neguei seguimento à ação, com base nas informações prestadas, segundo as quais o valor do precatório devido não foi pago no prazo constitucional (fl. 2 da Petição 59.411), razão pela qual são devidos os juros de mora, não se aplicando a Súmula Vinculante 17 ao caso.
+A União interpõe agravo regimental contra essa decisão, no qual alega, em síntese, que o pagamento do precatório estava de acordo com o prazo constitucional, pelo fato de que “o ofício requisitório principal foi expedido em 2.12.1991 e apresentado em 4.12.1991, tendo sido pago em 20.7.1993. O segundo precatório, referente ao saldo remanescente, foi expedido em 27.6.1994 e apresentado em 7.7.1994, tendo sido pago em 22.1.1996”.
+É o breve relatório.
+Passo a decidir.
+Assiste razão à agravante.
+Preliminarmente, cito parte da decisão Tribunal Regional do Trabalho da 13ª Região, que dispõe:
+“Ora, tratando-se de precatório complementar, consubstanciado em saldo remanescente, cujo valor não fora totalmente pago, embora escoado o prazo legal para tanto, os cálculos de atualização da dívida devem incluir juros de mora e correção monetária até o efetivo pagamento, a fim de evitar-se o enriquecimento ilícito do devedor. Não há falar-se, portanto, que no interregno temporal entre a inscrição e o vencimento do precatório são incabíveis juros de mora” (fls. 2-3 do Documento Comprobatório 4).
+Verifico que o tribunal reclamado sustenta que o precatório complementar deve ser pago imediatamente, pois não se submete ao prazo constitucional para pagamento previsto no artigo 100, § 1º, da Constituição Federal.
+Ocorre que essa fundamentação não se sustenta, tendo em vista que a Carta Magna não faz qualquer diferenciação quanto ao precatório complementar, como se pode observar pelo art. 100, § 5º:
+“É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em julgado, constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente”.
+Neste sentido, cito os seguintes precedentes: RE-AgR 571.222, Rel. Min. Eros Grau, Segunda Turma, DJe 16.5.2008; RE-AgR 577.465 Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.11.2009. Este último, ementado nos seguintes termos:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRECATÓRIO COMPLEMENTAR. NÃO INCIDÊNCIA DE JUROS DE MORA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O Supremo Tribunal Federal afastou a caracterização da mora no prazo constitucional para pagamento de precatórios e não há que se falar em incidência de juros de mora. Tampouco há ofensa à coisa julgada, pois a determinação judicial ao pagamento de juros moratórios será observada sempre que se verificar a demora injustificada”.
+No presente caso, o pagamento da dívida não ocorreu após o prazo constitucional. De acordo com os documentos comprobatórios que instruem o processo, o precatório complementar foi apresentado em 7.7.1994 (documento probatório, f. 28), após 1º de julho de 1994 e, portanto, correspondente ao ano de 1995; e seu pagamento ocorreu no ano seguinte, em 22.1.1996 (documento probatório, f. 30), antes do esgotamento do prazo constitucional, que se encerraria em 31.12.1996.
+De igual forma, o pagamento do precatório principal obedeceu o prazo constitucional, uma vez que sua apresentação ocorreu em 4.12.1991 (documento comprobatório, fl. 20) e o pagamento se efetivou em 20.7.1993 (documento comprobatório, fl. 21).
+Ante o exposto, reconsidero a decisão agravada e, com base na jurisprudência desta Corte (art. 161, parágrafo único, RISTF), conheço da reclamação e julgo-a procedente, para determinar que se exclua o valor relativo aos juros de mora do montante da execução no processo 56040-97.1989.5.13.0002.
+Comunique-se.
+Publique-se.
+Brasília, 14 de junho de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente
