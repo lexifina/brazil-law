@@ -1,0 +1,13 @@
+D ECIS Ã O:  1. Trata-se de agravo regimental contra decisões que rejeitaram pedido de extensão dos efeitos da suspensão concedida ao Mandado de Segurança nº 990.10.076122-6, em trâmite no Tribunal de Justiça de São Paulo, por ausência de demonstração de grave lesão.
+Alega o agravante, em síntese, que o dano decorreria do chamado “efeito multiplicador”, porquanto esta Presidência já teria deferido vários pedidos de suspensão em casos idênticos, que versam sobre sequestro de verbas públicas decorrente de precatórios não adimplidos.
+Determinei a intimação do agravante, para informar se algum dos sequestros já fora efetivado. Por meio da Petição STF nº 31973/2011, o Município de São Paulo noticia que foram levantados os valores apenas no sequestro referente ao Mandado de Segurança nº 994.08.003504-4.
+2. É caso de reconsideração.
+Com efeito, já foram concedidas medidas de contracautela em processos que tratam da questão relativa à incidência da EC nº 62/09 sobre os pedidos de sequestro anteriores à entrada em vigor da nova sistemática constitucional (SS nº 4320, DJe de 3.2.2011, SS nº 4326, DJe de 8.2.2011 e SS nº 4360, DJe de 2.5.2011), muitos deles ajuizados para suspender vários mandados de segurança, com diversos impetrantes.
+Nesses termos, demonstrado o efeito multiplicador, com a consequente lesão à economia pública, que conforme jurisprudência desta Corte é elemento suficiente para autorizar o deferimento do incidente de suspensão:
+“SERVIDOR PÚBLICO. Vencimentos. Vantagens pessoais anteriores à EC nº 41/03. Concessão. Inadmissibilidade. Teto Remuneratório. Efeito multiplicador. Grave lesão à ordem econômica. Suspensão concedida. Repercussão geral reconhecida no RE nº 606.358. Agravo regimental não provido. Expressiva quantidade de feitos idênticos, muitos deles em casos de litisconsórcio, sobre possibilidade de exclusão de vantagens anteriores à EC nº 41/2003, para efeito de cálculo remuneratório, caracteriza o chamado efeito multiplicador, que autoriza suspensão de segurança” (STA nº 533-AgR, de minha relatoria, Plenário, DJe de 7.6.2011 – grifo nosso).
+3. Ante o exposto, reconsidero as decisões proferidas nos pedidos de extensão formulados nas Petições STF nº 14392/2011, nº 14087/2011, nº 12900/2011, nº 9940/2011 e nº 5572/2011, para deferir os pedidos de extensão de suspensão dos Mandados de Segurança nº 990.10.237993-0, nº 990.10.519272-6, nº 0588043.07.2010, nº 0588992.31.2010, nº 0588995-83.2010, nº 0010966-42.2011, nº 0010961-20.2011.8.26.0000, nº 0010963-87.2011.8.26.0000, julgando prejudicado o pedido de extensão ao Mandado de Segurança nº 990.10.076122-6, por perda superveniente de objeto.
+Publique-se. Int..
+Brasília, 14 de junho de 2011.
+Ministro C EZAR P ELUSO
+Presidente
+Documento assinado digitalmente
