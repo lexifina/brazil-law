@@ -1,0 +1,11 @@
+DIREITO   PENAL   E   PROCESSUAL   PENAL . RECURSO   EXTRAORDIN ÁRIO. CONSTITUCIONALIDADE , OU   N ÃO, DA   REALIZA Ç ÃO DE   PROCEDIMENTOS   INVESTIGAT ÓRIOS DE   NATUREZA   PENAL   PELO   MINIST ÉRIO P ÚBLICO. REPERCUSS ÃO GERAL   RECONHECIDA . INTERCEPTA Ç ÕES TELEF ÔNICAS. EVENTUAL   EXIST ÊNCIA DE   NULIDADE . VIOLA Ç ÃO, OU   N ÃO, DOS   PRINC ÍPIOS DO   IN   DUBIO   PRO   REO , DO   NE   BIS   IN   IDEM , DA   LEGALIDADE , DO   DEVIDO   PROCESSO   LEGAL   E   DA   PROPORCIONALIDADE . CIRCUNST ÂNCIA AGRAVANTE   DA   REINCID ÊNCIA. APLICA Ç ÃO. IMPOSSIBILIDADE   DA   DEVOLU Ç ÃO DO   PROCESSO   AO   TRIBUNAL   DE   ORIGEM (ART. 328, PAR ÁGRAFO ÚNICO, DO   RISTF ). SOBRESTAMENTO   DO   FEITO .
+D ECIS Ã O: Discute-se nestes recursos extraordinários (i) a constitucionalidade, ou não, da realização de procedimento investigatório de natureza penal pelo Ministério Público; (ii) a eventual existência de nulidade nas interceptações telefônicas realizadas; (iii) a violação, ou não, do princípios do in dubio pro reo, do ne bis in idem, da legalidade, do devido processo legal e da proporcionalidade; e (iv) a possibilidade da aplicação, in casu, da circunstância agravante da reincidência.
+O Supremo Tribunal Federal reconheceu a repercussão geral do primeiro tema – constitucionalidade, ou não, da realização de procedimento investigatório de natureza penal pelo Ministério Público – que será submetido à apreciação do Pleno desta Corte nos autos do RE 593.727, Relator o Ministro Cezar Peluso.
+O Plenário da Corte, ao apreciar a questão de ordem nos autos do RE 540.410, Relator o Ministro Cezar Peluso, DJe de 04.09.2008, decidiu também estender a aplicabilidade do instituto da repercussão aos recursos interpostos contra acórdãos publicados anteriormente a 3 de maio de 2007.
+Contudo, não é possível determinar a devolução do feito ao Tribunal de origem, nos termos do artigo 328, parágrafo único, do RISTF c/c o artigo 543-B e seus parágrafos do CPC, em razão da necessidade de as demais questões suscitadas nos apelos extremos serem submetidas à apreciação desta Corte.
+Ex positis, determino o sobrestamento do feito até o julgamento do mérito do RE 593.727, Relator o Ministro Cezar Peluso.
+Publique-se.
+Brasília, 14 de junho de 2011.
+Ministro L UIZ F UX
+Relator
+Documento assinado digitalmente
