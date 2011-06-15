@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Acórdão assim ementado (fls. 199/200):
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. SERVIDORES PÚBLICOS DO DISTRITO FEDERAL. PARCELAS DE QUINTOS/DÉCIMOS INCORPORADAS. MODO DE REAJUSTE. LEI Nº 159, ARTIGO 6º. VINCULAÇÃO AO CARGO DE SECRETÁRIO DE ESTADO DO GOVERNO DO DISTRITO FEDERAL. MODIFICAÇÃO. LEI DISTRITAL Nº 1.141/96. ARTIGO 37, XIII, DA CONSTITUIÇÃO FEDERAL. CONSONÂNCIA. DIREITO ADQUIRIDO. INEXISTÊNCIA. IRREDUTIBILIDADE SALARIAL. NÃO-OCORRÊNCIA.
+    1. 'A Constituição Federal, com a redação dada pela Emenda nº 19/1998, veda expressamente no inciso XIII, do art. 37, a vinculação ou equiparação remuneratória entre carreiras do serviço público. A remuneração relativa aos cargos em comissão é reajustada pelo índice geral aplicado aos servidores públicos distritais, ficando a vantagem pessoal quintos atrelada aos vencimentos do cargo efetivo, conforme estipula a Lei-DF nº 1.141/96, que revogou expressamente o art. 6º da Lei nº 159/91' (MSG nº 20030020051180, Conselho Especial, Relator Des. LÉCIO RESENDE, DJ de 21/1/2004, p. 23).
+    2. Não há que se falar em direito adquirido do servidor público em relação à permanência do regime legal de reajuste de determinada vantagem incorporada ao vencimento, notadamente quando lei posterior veio a revogar esse regime jurídico.
+    3. Ocorrendo modificação legal no modo de reajuste de determinada parcela de gratificação de servidor público, não há espaço para se argumentar sobre redutibilidade de vencimento, haja vista que se trata de expectativa de correção não-verificada.
+    4. Recurso desprovido.”
+    2. Pois bem, a parte recorrente sustenta violação aos incisos XXXV, XXXVI e LV do art. 5º, ao inciso XV do art. 37 e ao inciso IX do art. 93, todos do Magno Texto.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo “não-provimento do recurso”.
+    4. Tenho que a insurgência não merece acolhida. É que a matéria em questão foi apreciada pelo Plenário do STF, no julgamento do RE 563.965, da relatoria da ministra Cármen Lúcia. Ocasião em que foi confirmado o entendimento de que não há direito adquirido à manutenção da forma de cálculo da remuneração de servidores públicos, ou seja, não existe direito adquirido a regime jurídico. Tampouco cabe falar em ofensa à garantia da irredutibilidade de vencimentos se preservado o valor nominal da remuneração do servidor. Na oportunidade, fiquei vencido, na companhia do ministro Marco Aurélio.
+    5. À derradeira, observo que a jurisdição foi prestada de forma completa, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte recorrente, o que não caracteriza cerceamento de defesa.
+    Ante o exposto, rendo-me, democraticamente, ao pensar majoritário dos eminentes ministros do Supremo Tribunal Federal e, frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de junho de 2011.
+Ministro AYRES BRITTO
+Relator
