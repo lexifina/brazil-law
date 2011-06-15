@@ -1,0 +1,14 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+“ADMINISTRATIVO – SERVIDOR PÚBLICO – GDAT – GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TRIBUTÁRIA – MEDIDA PROVISÓRIA Nº 1.915/99 – APOSENTADOS E PENSIONISTAS – PRECEDENTE DO TRF 1ª REGIÃO.
+1- Os servidores públicos aposentados e pensionistas da Carreira Auditoria Fiscal com benefícios concedidos até 30 de julho de 1999, têm direito à percepção da GDAT – Gratificação de Desempenho de Atividade Tributária criada pela MP 1.915/99.
+2- Precedente do TRF – 1ª Região (AMS 1999.34.00.028469-8/DF, Rel. Des. Federal Antônio Sávio de Oliveira Chaves, 1ª Turma, DJ 23/10/2001; Argüição de Inconstitucionalidade na AMS 1999.34.00.029597-9/DF, Rel. Des. Fed. Tourinho Neto, Corte Especial, DJ de 11/10/2004).
+3- Apelação e Remessa Oficial improvidas” (fl. 146).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, aos arts. 5º, caput, XXXV, LIV e LV, 40, § 8º, e 93, IX, da mesma Carta.
+O agravo não merece acolhida.
+Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+Além disso, o acórdão recorrido está em harmonia com o entendimento do Tribunal, que tem consignado que a Gratificação de Desempenho de Atividade Tributária - GDAT possui caráter geral, sendo extensível, pois, aos servidores públicos inativos. Nesse sentido, menciono as seguintes decisões, entre outras: RE 537.651-AgR/RS e AI 752.902/DF, Rel. Min. Joaquim Barbosa; RE 435.718-AgR/SE, Rel. Min. Eros Grau; RE 349.465-AgR/SC, RE 401.720-AgR-ED/MG e RE 443.226/RJ, Rel. Min. Gilmar Mendes; RE 397.872/DF, RE 481.194/RS e RE 455.503/PR, Rel. Min. Ayres Britto; RE 606.334/RJ, Rel. Min. Ellen Gracie; RE 476.254/PR e RE 441.199/RS, Rel. Min. Sepúlveda Pertence.
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 15 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
