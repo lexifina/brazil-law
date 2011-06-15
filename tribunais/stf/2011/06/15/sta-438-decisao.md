@@ -1,0 +1,27 @@
+Decisão: 1. Trata-se de pedido de suspensão de tutela antecipada, formulado pela União, contra decisão proferida pelo Tribunal Regional Federal da 3ª Região, nos autos do Agravo de Instrumento nº 2009.03.00.01694-0/SP.
+Na origem, Márcia Pompermayer de Freitas ajuizou ação ordinária, com pedido de antecipação de tutela, (perante a 3ª Vara Federal de Bauru/SP), com o objetivo de ver reconhecido o direito de continuar exercendo as atribuições de Advogada da União na Cidade de Bauru/SP.
+O pedido de antecipação de tutela foi inicialmente rejeitado. O TRF da 3ª Região, ao julgar o agravo de instrumento, deferiu a tutela recursal nos seguintes termos:
+“MEDIDA CAUTELAR. SERVIDOR. LOTAÇÃO. EXERCÍCIO PROVISÓRIO. AUSÊNCIA DE CONCURSO PÚBLICO DE REMOÇÃO. LIMINAR. REQUISITOS. CARACTERIZAÇÃO.
+1. A agravante, embora lotada no Núcleo de Assessoramento Jurídico de Cuiabá, desde 2001 tem exercício provisório em Bauru, local em que constitui família. A agravante recebeu ordem para retornar à Cuiabá. Ocorre, porém, que houve a remoção de ofício, no interesse da Administração, de dois servidores para a Procuradoria-Seccional da União em Bauru.
+2. Mostra-se relevante a alegação no sentido de que não teria havido concurso público de remoção para a Procuradoria Seccional de Bauru. Em princípio, cumpre à União formalizar as pretensões dos servidores mediante regular concurso de remoção do qual a recorrente poderia participar em igualdade de condições, obviando o risco de que o interesse de uns seja encampado pela Administração ao proceder a remoção ex officio.
+3. Preenchidos os requisitos do art. 273 do Código de Processo Civil, em especial o fundado receio de dano irreparável ou de difícil reparação, deve ser deferida a liminar requerida nos autos originários.
+4. Agravo regimental prejudicado. Agravo de instrumento provido”.
+No incidente de suspensão de que ora se cuida, a requerente alega haver grave risco de lesão à ordem público-administrativa, bem como ofensa a disposições constitucionais e legais.
+Aduz, em síntese que:
+“(...) a tutela provisória concedida pelo Tribunal a quo atinge a autonomia administrativa e funcional da Advocacia-Geral da União – a envolver indevidamente o mérito administrativo -, e de magnitude constitucional, prevista no art. 131 da Lei Maior, em inegável afronta ao princípio constitucional da separação de poderes.
+Não é demais lembrar que a decisão que se pretende suspender, como vazada, deu primazia ao interesse pessoal da autora em detrimento da lei e da supremacia do interesse público, particularmente aqueles relativos ao cumprimento das atribuições constitucionais previstas pela Advocacia Geral da União”.
+2. É caso de suspensão.
+De acordo com o regime legal de contracautela (Leis nº 8.437/92, nº 9.494/97 e nº 12.016/09, e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR/RS, rel. Min. Carlos Velloso, Plenário, DJ 06.4.2001; SS nº 2.187-AgR/SC, rel. Min. Maurício Corrêa, DJ 21.10.2003; e SS nº 2.465/SC, rel. Min. Nelson Jobim, DJ 20.10.2004).
+Está preenchido o requisito, pois em jogo, aqui, suposta violação aos arts. 131 e 226 da Constituição da República.
+Nesses termos, a Corte tem entendido, com base nas diretrizes normativas que disciplinam as medidas de contracautela, não ser vedado ao Presidente do Supremo Tribunal Federal proferir juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal, quando a decisão contra a qual se pede a suspensão seja contrária às normas jurídicas. Nesse sentido: SS nº 846-AgR, Rel. Min. SEPÚLVEDA PERTENCE, de 29.5.96; e SS nº 1.272-AgR, Rel. Min. CARLOS VELLOSO, de 18.5.2001.
+Na espécie, em juízo de razoabilidade do direito invocado pela requerente, verifico que a permanência da autora na unidade de Bauru/SP provocará grave lesão à ordem pública, na sua acepção jurídico-administrativa, consistente em prejuízo à regular administração de servidores da Advocacia Geral da União.
+De fato, a permanência da autora, por força de decisão judicial, em lotação diversa daquela para a qual foi originalmente designada, impossibilita, em princípio, a distribuição de advogados públicos conforme prévia orientação e determinação da Administração, com vistas à satisfação do interesse público.
+Ademais, há presente o risco de caracterização do denominado “efeito multiplicador”, pois o caso revela determinação de lotação provisória de servidor público, sem existência da respectiva vaga e sem obediência aos critérios objetivos para remoção, com nítido potencial de multiplicação de feitos de idêntica natureza: STA nº 324 (Rel. Min. GILMAR MENDES, DJe de 5.8.2009); STA nº 312 (Rel. Min. GILMAR MENDES, DJe de 16.4.2009); e STA nº 304 (Rel. Min. GILMAR MENDES, DJe de 27.4.2009).
+3. Ante o exposto, defiro o pedido, para suspender os efeitos da tutela antecipada, proferida pelo TRF da 3ª Região, nos autos do Agravo de Instrumento nº 2009.03.00.01694-0/SP.
+Exp. ofício e telex ao TRF da 3ª Região e ao Juízo da 3ª Vara Federal de Bauru/SP.
+Publique-se. Int..
+Brasília, 15 de junho de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
