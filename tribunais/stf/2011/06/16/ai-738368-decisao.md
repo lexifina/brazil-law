@@ -1,0 +1,10 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual decidiu pela impossibilidade de o Ministério Público determinar, diretamente, a quebra de sigilo fiscal de contribuinte, independente da existência de ordem judicial (fls. 231-236).
+ No RE, sustenta-se ofensa ao artigo 129, VIII, da Constituição Federal.
+2.  O recurso não merece prosperar. Em casos semelhantes ao dos presentes autos, esta Corte tem se pronunciado no sentido de que o Ministério Público não tem legitimidade para determinar a quebra de sigilo fiscal de contribuinte, pois, para tanto, faz-se imprescindível autorização por decisão judicial fundamentada. Nesse sentido, menciono os seguintes julgados: RE 215.301/CE, rel. Min. Carlos Veloso, 2ª Turma, DJ 28.5.1999; RE 535.478/SC, de minha relatoria, 2ª Turma, DJe 21.11.2008; HC 89.083/MS, rel. Min. Marco Aurélio, 1ª Turma, DJe 06.02.2009; e RE 318.136-AgR/RJ, rel. Min. Cezar Peluso, 2ª Turma, DJe 06.10.2006, este último assim ementado:
+“1. RECURSO. Extraordinário. Inadmissibilidade. Instituições Financeiras. Sigilo bancário. Quebra. Requisição. Ilegitimidade do Ministério Público. Necessidade de autorização judicial. Jurisprudência assentada. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar a agravante a pagar multa ao agravado”.
+ O acórdão recorrido não divergiu desse entendimento.
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 16 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
