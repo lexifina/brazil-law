@@ -1,0 +1,12 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação ao art. 37, caput, da Constituição Federal e à Súmula STF 473, contra acórdão que confirmou a sentença de reconhecimento do direito das impetrantes à integralidade dos proventos com todas as vantagens e benefícios adquiridos antes da Emenda Constitucional 20/98, nos seguintes termos (fls. 194-199):
+“ADMININSTRATIVO – SERVIDORA APOSENTADA – REVISÃO DOS PROVENTOS – SUPRESSÃO DE ADICIONAL – DECURSO DE MAIS DE CINCO ANOS – DECADÊNCIA – CONVALIDAÇÃO DO ATO – ART. 65 DA LEI ESTADUAL Nº 14.184/02. Na hipótese de o ato viciado for favorável ao administrado, o Poder Público disporá de cinco anos para anulá-lo, prazo esta decadencial. Findo esse prazo sem manifestação da Administração, convalidado estará o ato e definitivos serão os efeitos dele decorrentes, salvo comprovada má-fé, inocorrente na espécie”.
+ A Corte de origem asseverou que fundamentou a questão na Lei Estadual 14.184/2002 e nos fatos e provas contidas nos autos (fls. 240-241).
+2.  O recurso não merece prosperar. Preliminarmente, falta ao instrumento o traslado do inteiro teor do acórdão recorrido. É dizer, a folha de número 3 do voto proferido nos embargos de declaração (fls. 205-207) integrante do acórdão recorrido não integra os autos do presente agravo de instrumento. E, segundo reiterada orientação desta Corte, é encargo da parte recorrente fiscalizar a inteireza do traslado. Vejam-se: AI 726.783-AgR/RS, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 19.12.2008; AI 816.232-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 14.02.2011; e AI 801.176-AgR/SP, rel. Min. Cezar Peluso, Tribunal Pleno, DJe 15.02.2011.
+3.  Ademais, verifica-se que o art. 37, caput, da CF/1988, não se encontra prequestionado, porque não abordado pelo acórdão recorrido e, embora suscitado nos embargos de declaração opostos para satisfazer o requisito do prequestionamento, não foi oportunamente apontado nas razões do recurso de apelação (Súmulas STF 282 e 356).
+ Nesse sentido: AI 796.638-AgR-ED-ED/SP, de minha relatoria, 2ª Turma, DJe 27.4.2011; e RE 541.819-AgR/MG, rel. Min. Marco Aurélio, 1ª Turma, DJe 13.4.2011.
+4.  Por fim, para o exame das violações alegadas, seria necessária a análise de fatos e de provas, além da legislação local (Súmulas STF 279 e 280), hipóteses inviáveis em sede extraordinária.
+5.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+ Publique-se.
+ Brasília, 16 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
