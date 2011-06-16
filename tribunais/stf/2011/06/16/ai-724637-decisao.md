@@ -1,0 +1,38 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão proferido pelo TJ/PR, o qual reformou decisão singular que julgou procedente o pedido de nulidade dos atos praticados pelo Tribunal de Contas referente à Resolução 6.828/99, que não aprovou a prestação de contas apresentada pelo Município de Itaipulândia concernente a convênios celebrados com o Estado do Paraná.
+2.  O Tribunal de origem, para dar provimento ao recurso do Estado do Paraná, afastou o alegado cerceamento de defesa e a suposta ausência de intimação pessoal do representante do Município recorrente, com base na interpretação das provas dos autos e no art. 30 do Regimento Interno do Tribunal de Contas do Estado do Paraná, nestes termos:
+“Não há que se falar em irregularidade por ausência de intimação pessoal do representante legal do Município porque a norma reguladora daquele procedimento era o Regimento Interno do Tribunal de Contas, publicado no DOE 199, pág. 6, em 29 de outubro de 1969, e vigência à época...” (fl. 19).
+(...)
+“O douto sentenciante constatou nulidade no processo administrativo pela ausência de prova de intimação dos recorridos para a sessão de julgamento, nos termos do art. 30 e seguintes daquele Regimento Interno.
+Interpretou o douto sentenciante que seria imprescindível o chamamento dos responsáveis pela prestação de contas para comparecer àquele ato de julgamento, bem como, que a prova desta intimação competia ao recorrente” (fl. 20).
+(...)
+“Infere-se deste normativo que não há obrigatoriedade de convocação do representante da Administração para prestar esclarecimentos em sessão, isso na medida em que já teve oportunidade de apresentar defesa no processo, sendo caso de seu chamamento para participar da sessão de julgamento apenas e tão-somente quando, por discricionariedade do Tribunal Pleno, este entender que a questão demanda tal intervenção” (fl. 23).
+(...)
+“A fundamentação da decisão objurgada é objetiva e está adstrita à interpretação de que o Regimento Interno do Tribunal de Contas do Estado do Paraná impunha que, para a sessão de julgamento, fosse intimado o representante da Administração e os recorridos alegaram que não foram intimados, incumbindo ao ente da Administração, comprovar o cumprimento daquela regra procedimental.
+Neste caso, não houve a mácula ao devido processo legal, nem tampouco aos princípios dele decorrentes, quais sejam, o da ampla defesa e do contraditório, na medida em que foram respeitadas as regras procedimentais vigentes ao tempo daquele julgamento” (fl. 23).
+3.  Nas razões do RE, sustentam os agravantes ofensa ao art. 5°, LIV e LV, da CF, alegando que “ficou devidamente demonstrado que os recorrentes não foram intimados pelo TCE/PR da sessão de julgamento das contas objeto do presente, para que pudessem gozar do direito de oferecer memoriais e de efetuar a sustentação oral”(fl. 32). E, ao final, pleiteiam:
+ a) a concessão de efeito suspensivo ao recurso extraordinário;
+ b) a decretação da nulidade do procedimento administrativo de nº 31435-6/98, do Tribunal de Contas do Estado do Paraná.
+4.  O presente recurso não merece prosperar. Verifico que, para se concluir pela alegada afronta ao art. 5º, LIV, e LV, da CF, seriam necessários o reexame dos fatos e das provas em que se baseou o Tribunal a quo para afirmar que não houve desrespeito a tais princípios constitucionais e a análise de norma infraconstitucional (RITCE/PR), hipóteses inviáveis nos termos das Súmulas STF 279 e 280.
+ A propósito, aponto o RE 358.565-AgR/MS, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 15.04.2005; o AI 662.686-AgR/BA, rel. Min. Dias Toffoli, 1ª Turma, DJe 22.10.2010; e o AI 797.580-AgR/RS, 1ª Turma, unânime, DJe 12.11.2010, assim ementados:
+“AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO, DA AMPLA DEFESA. VIOLAÇÕES DEPENDENTES DE REEXAME PRÉVIO DE NORMAS INFERIORES. OFENSA CONSTITUCIONAL INDIRETA.
+As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.
+Agravo regimental a que se nega provimento” (destaque nossos).
+(...)
+“Agravo regimental no agravo de instrumento. Processo administrativo. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes.
+1. Para analisar a alegação do agravante de que o processo administrativo não ofendeu o artigo 5º, inciso LV, da Constituição Federal, seria imprescindível a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil”.
+(...)
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSO ADMINISTRATIVO PARA ANULAÇÃO DE ATO ADMINISTRATIVO. CONTROVÉRSIA SOBRE A OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO: IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+ Ademais, no caso, o Tribunal de origem quanto à intimação da sessão de julgamento também asseverou:
+“Da leitura do decisum em exame se infere que, na primeira fase do processo administrativo, não se constatou cerceamento de defesa, eis que instados o Município e seu Prefeito, apresentaram esclarecimentos através de ofício. Sobreveio, então, decisão proferida em sessão de julgamento que culminou na edição da Resolução 6828/99, cuja anulação visam os autores desta actio.
+O recurso deduzido contra esta decisão foi corretamente julgado intempestivo, na medida em que dispunha o agravado de 10 (dez) dias para tanto, contados a partir da data de intimação e esta se realizou através de publicação no Diário Oficial do Estado de nº 5590, de 30 de setembro de 1999, como se infere da informação contida às fls. 185, e o pedido de reconsideração na esfera administrativa foi protocolado em 23 de março de 2000, conforme consta às fls. 10” (fl. 19).
+ E o Plenário desta Corte, no MS 26.732-AgR/DF, DJe 15.08.2008, concluiu no sentido de que, nesse caso, não é imprescindível a intimação prévia e pessoal da data em que será realizada a sessão de julgamento, circunstância que não afronta os postulados da ampla defesa e do devido processo legal, cujo aresto está assim ementado:
+“MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. JULGAMENTO DE RECURSO DE RECONSIDERAÇÃO. INTIMAÇÃO PESSOAL DA DATA DA SESSÃO. DESNECESSIDADE.
+1. Não se faz necessária a notificação prévia e pessoal da data em que será realizada a sessão de julgamento de recurso de reconsideração pelo Tribunal de Contas da União. Ausência de ofensa aos princípios da ampla defesa e do devido processo legal quando a pauta de julgamentos é publicada no Diário Oficial da União.
+2. O pedido de sustentação oral pode ser feito, conforme autoriza o art. 168 do Regimento Interno do Tribunal de Contas da União, até quatro horas antes da sessão. Para tanto, é necessário que os interessados no julgamento acompanhem o andamento do processo e as publicações feitas no Diário Oficial da União.
+3. Agravo regimental ao qual se nega provimento”.
+5.  Do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput), prejudicado o exame do pedido de efeito suspensivo (fl. 43).
+ Publique-se.
+ Brasília, 16 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
