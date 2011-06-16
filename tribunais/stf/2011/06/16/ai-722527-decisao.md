@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que considerou legal a acumulação de proventos de aposentadoria com a remuneração de cargo público.
+ No RE, sustenta-se ofensa aos artigos 2º, 37, caput e XVI, e 169, I, da Constituição Federal.
+2.  O recurso não merece prosperar. O Supremo Tribunal Federal firmou jurisprudência no sentido da possibilidade de acumulação de proventos de aposentadoria com remuneração quando decorrentes de cargos públicos cujos ingressos se deram antes da entrada em vigor da Emenda Constitucional 20/98, pois a referida emenda, em seu art. 11, excetuou da proibição de acumular os membros de poder e os inativos, servidores e militares, que, até a sua publicação, tenham ingressado novamente no serviço público por concurso público de provas ou de provas e títulos, ou pelas demais formas previstas pela Constituição Federal. Nesse sentido: AI 483.076-AgR-AgR/PR, rel. Min. Gilmar Mendes, 2ª Turma, DJe 1º.12.2010; e RE 415.974-AgR/AM, rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.02.2011, este último assim ementado:
+“EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ACUMULAÇÃO DE PROVENTOS E REMUNERAÇÃO. ART. 11 DA EMENDA CONSTITUCIONAL N. 20/98. CONVALIDAÇÃO DE ACUMULAÇÃO EM EVENTUAL DESACORDO COM O ART. 37, INC. XVI, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO”.
+ O acórdão recorrido não divergiu desse entendimento. Para tanto, destaco o seguinte trecho do voto condutor do acórdão recorrido:
+“Ora, da leitura dos referidos dispositivos constitucionais, pode-se afirmar que, de fato, a situação do impetrante se enquadra na regra de transição prevista no referido art. 11 da EC 20/98, à medida que, tendo sido readmitido no cargo de Analista de Informática, em 02/01/2004, em virtude de sua demissão, ocorrida em 04/01/1990, ter sido considerada ilegal/inconstitucional, os efeitos da concessão da anistia – Lei nº 8878/94 - , sem sombra de dúvidas, devem retroagir à data do ato ilegal (exceto os financeiros, por expressa vedação contida na norma inserta no art. 6º deste diploma legal)“ (fl. 23).
+3.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 16 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
