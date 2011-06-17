@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendeu não estarem presentes os pressupostos de admissibilidade de ação rescisória.
+    2.  No RE, a parte recorrente alega violação aos arts. 2º, 5º, II, LV, 37, X, XIII, 61, § 1º, II, a, 63, I, e 169, § 1º, da Constituição Federal.
+    3.  O recurso não merece prosperar. O acórdão recorrido tratou de matéria de índole processual relativa a pressuposto de cabimento de ação rescisória. Trata-se, portanto, de questão infraconstitucional, cuja análise é inviável na via extraordinária, por não implicar em ofensa direta ao texto constitucional. É o que se percebe da leitura do seguinte trecho da ementa:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO RESCISÓRIA. INDEFERIMENTO DA PETIÇÃO INICIAL. REAJUSTE DE 28,86%. COMPENSAÇÃO DE REAJUSTES CONFERIDOS PELA LEI Nº 8.627/93. INOCORRÊENCIA DE COISA JULGADA. POSSIBILIDADE DE COMPENSAÇÃO NA EXECUÇÃO DO JULGADO.
+    O cabimento da ação rescisória está vinculado necessariamente à existência de coisa julgada sore a matéria, o que, vale dizer, pressupõe ter ocorrido litigiosidade sobre o ponto enfocado” (fl. 66).
+          Nesse sentido posicionam-se ambas as Turmas desta Corte: AI 483.783-AgR/SP, de minha relatoria, 2ª Turma, 28.08.2009; AI 671.572-AgR/RJ, rel. Min. Celso de Mello, 2ª Turma, DJe 30.11.2007; RE 483.325-AgR/PE, rel. Min. Dias Toffoli, 1ª Turma, DJe 24.6.2011; e RE 609.215-ED/PE, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 22.02.2011.
+          Ressalte-se, apenas a título de argumentação, que o Supremo Tribunal Federal, no julgamento do AI 751.478/SP, rel. Min. Dias Toffoli, Plenário virtual, DJe 20.8.2010, declarou a inexistência de repercussão geral da matéria referente aos pressupostos de admissibilidade de ação rescisória.
+    4. Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.4.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.3.2009.
+    5. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 17 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
