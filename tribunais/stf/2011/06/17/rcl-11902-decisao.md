@@ -1,0 +1,17 @@
+D ECIS Ã O: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Instituto Nacional de Seguro Social (INSS) contra decisão do Tribunal Superior do Trabalho, proferida nos autos do RR 71400-45.1992.5.21.0002, que, ao negar seguimento ao recurso de revista, com base em anterior entendimento firmado naquela Corte no sentido da inconstitucionalidade do artigo 1º-B da Lei 9.494/1997, com a redação dada pela Medida provisória 2.180-35/2001, teria violado a autoridade da decisão deste Supremo Tribunal Federal proferida por ocasião do julgamento da Medida Cautelar na Ação Declaratória de Constitucionalidade 11.
+Referido artigo alterou, por meio de medida provisória, o prazo para interposição de embargos à execução contra a Fazenda Pública de 5 para 30 dias.
+No presente caso, os embargos à execução opostos pela Fazenda Pública não foram conhecidos, ao fundamento de intempestividade da petição, uma vez que se declarou a inconstitucionalidade da medida provisória que aumentou o prazo. Referida decisão foi mantida pelo Tribunal Superior do Trabalho, por meio de acórdão assim ementado:
+“RECURSO DE REVISTA. EMBARGOS À EXECUÇÃO. INTEMPESTIVIDADE. INCONSTITUCIONALIDADE DA MEDIDA PROVISÓRIA nº 2.180/2001. O Plenário desta Corte, em 4/8/2005, no Incidente de Uniformização de Jurisprudência suscitado no RR-70/1992-011-04-00.7, declarou a inconstitucionalidade do art. 4º da Medida Provisória nº 2180-35/2001, que ampliou os prazos fixados nos arts. 730 do CPC e 884 da CLT. Assim, o lapso temporal para a oposição de embargos continua sendo o prazo previsto no art. 884 da CLT. Recurso de revista de que não se conhece”.
+A presente ação volta-se contra essa decisão.
+É o breve relatório.
+Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+Passo a decidir.
+Inicialmente, verifico que esta Corte, ao julgar a Medida Cautelar na Ação Declaratória de Constitucionalidade 11, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 28.3.2007, deferiu o pedido de medida liminar para determinar a suspensão do trâmite de todos os processos em que se discuta a constitucionalidade do art. 1º-B da Lei 9.494/1997, na redação dada pela Medida Provisória 2.180-35/2001. O acórdão possui a seguinte ementa:
+“FAZENDA PÚBLICA. Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei Federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35”.
+A decisão reclamada contraria o entendimento deste Tribunal, uma vez que se fundamentou na inconstitucionalidade do referido art. 1º-B.
+Ante o exposto, com base na jurisprudência desta Corte (artigo 160, parágrafo único), conheço da reclamação e julgo-a procedente, para anular o acórdão reclamado e determinar a suspensão do julgamento do processo 71400-45.1992.5.21.0002, até o julgamento da Ação Declaratória de Constitucionalidade 11 por esta Corte.
+Publique-se.
+Brasília, 17 de junho de 2011.
+Ministro G ILMAR M ENDES
+Relator
+Documento assinado digitalmente.
