@@ -1,0 +1,9 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual entendeu que a ocorrência do fato gerador é o termo inicial para a contagem do prazo prescricional para pleitear a repetição de indébito de tributo declarado inconstitucional pelo STF e reconheceu a prescrição.
+2.  Nas razões do RE, sustenta-se ofensa aos artigos 37, caput, e 52, X, da Constituição Federal.
+3.  O recurso não merece prosperar. O Supremo Tribunal Federal possui entendimento de que é infraconstitucional a discussão sobre o prazo prescricional da repetição de indébito de tributo declarado inconstitucional por esta Corte. Nesse sentido: RE 563.490/SP, de minha relatoria, DJe 15.03.2011; AI 551.535-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, DJe 18.4.2008; RE 509.908-AgR/PR, rel. Min. Ayres Britto, 1ª Turma, DJe de 1º.02.2008; AI 680.694-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.10.2009; AI 435.914-AgR/MG, de minha relatoria, 2ª Turma, DJe 19.3.2010; e AI 619.163-AgR/SP, rel. Min. Eros Grau, 2ª Turma, DJe 13.11.2009, este último assim ementado:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento”.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 17 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
