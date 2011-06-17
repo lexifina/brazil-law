@@ -1,0 +1,15 @@
+1. Trata-se de agravo nos próprios autos contra decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual manteve sentença que julgou improcedente o pedido de interdição da ora agravada.
+    2. Nas razões do RE, sustenta-se ofensa ao princípio constitucional da dignidade da pessoa humana e ao artigo 5º da Constituição Federal.
+    3. O recurso não merece prosperar. Preliminarmente, no tocante à alegação de ofensa ao art. 5º, verifico que a agravante, nas razões do recurso extraordinário, não demonstrou, com a objetividade necessária, de que forma tal violação teria ocorrido. Inviável, portanto, o processamento do recurso extraordinário, dada a incidência, na espécie, do óbice da Súmula STF 284. Nesse sentido: AI 275.275/PR, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 24.8.2001; RE 291.568/MG, rel. Min. Cezar Peluso, DJe 13.8.2009; e AI 787.085/CE, rel. Min. Ricardo Lewandowski, DJ 12.3.2010.
+          Ressalte-se, ainda, o esclarecimento do Min. Marco Aurélio ao asseverar que, “a não ser assim, ter-se-á que a simples argüição de desatendimento à Carta Federal ensejará a subida do recurso extraordinário, o que se mostra discrepante da organicidade e dinâmica do Direito.” (AI 464.106/RS, DJ 04.6.2004).
+    4. Ainda que superados estes óbices, constato que para o exame das violações alegadas, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. É o que se percebe da leitura do seguinte trecho do voto condutor do acórdão recorrido (fls. 107-108):
+    “O ordenamento jurídico autoriza a interdição de pessoa que, por enfermidade ou deficiência mental, não tiver o necessário discernimento para os atos da vida civil (CC/2002, arts. 3º, II e 1.767, I). (..)
+    Os atestados (fls. 14 e 15) emitidos pelo médico que vem acompanhando a interditanda referem que esta se encontra em tratamento ambulatorial desde 1987, em razão de retardo mental moderado – códigos 314.1 (CID IX) / F (CID X) -, e não tem condições de exercer atividade laborativa e de gerir a própria vida.
+    Mais adiante (fl. 42-43), noticia-se que o tratamento psiquiátrico iniciou-se aproximadamente aos 5 (cinco) anos de idade e há referência a uso regular dos fármacos carbamazepina 400 mg/dia (anticonvulsivante e estabilizador do humor) e alprazolam (benzodiazepínico).
+    De outro lado, submeteu-se a interditanda a exame pericial e a perita louvada do juízo – Drª. Juliana Garbayo dos Santos – emitiu minucioso laudo concluindo por sua aptidão para exercer os atos da vida civil.
+    O parecer pericial é conclusivo em afirmar (fls. 39-50) e reafirmar (fls. 58-62) que a interditanda é portadora de retardo mental leve - código F70 (CID X) -, não constatada incapacidade para a gerência dos atos de sua vida (fls. 46; 49-quesito 9; 59 e ss).
+    5. Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (CPC, art. 544, § 4º, II, b ).
+          Publique-se.
+          Brasília, 17 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
