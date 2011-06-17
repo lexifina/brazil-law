@@ -1,1 +1,2 @@
-Art. 82. Fica autorizado o financiamento para aquisição de equipamento de energia solar e contratação de mão de obra para sua instalação em moradias cujas famílias aufiram no máximo renda de 6 (seis) salários mínimos.
+Art. 82. Fica autorizado o custeio, no âmbito do PMCMV, da aquisição e instalação de equipamentos de energia solar ou que contribuam para a redução do consumo de água em moradias.
+Parágrafo único. No caso de empreendimentos com recursos do FAR, poderão ser financiados também equipamentos de educação, saúde e outros equipamentos sociais complementares à habitação, nos termos do regulamento.
