@@ -1,8 +1,8 @@
-Art. 6º-B. Para a concessão de subvenção econômica nas operações de que trata o inciso III do art. 2º, fica estabelecido que a instituição ou agente financeiro participante só poderá receber recursos até o máximo de quinze por cento do total ofertado em cada oferta pública, na forma do regulamento.
-§ 1º O Poder Executivo Federal disporá necessariamente sobre os seguintes aspectos:
+Art. 6º-B. Para a concessão de subvenção econômica nas operações de que trata o inciso III do art. 2º, fica estabelecido que a instituição ou agente financeiro participante só poderá receber recursos até o máximo de 15% (quinze por cento) do total ofertado em cada oferta pública, na forma do regulamento, considerado o limite de 100 (cem) unidades habitacionais por Município.
+§ 1º O Poder Executivo federal disporá necessariamente sobre os seguintes aspectos:
 I - valores e limites das subvenções individualizadas a serem destinadas a cada beneficiário;
 II - remuneração das instituições e agentes financeiros pelas operações realizadas;
 III - quantidade, condições e modalidades de ofertas públicas de cotas de subvenções; e
-IV - tipologia e padrão das moradias e da infraestrutura urbana.
-§ 2º O Conselho Monetário Nacional - CMN definirá as instituições e agentes financeiros do Sistema Financeiro da Habitação - SFH que poderão realizar as operações de que trata o caput, desde que também autorizadas pelo Banco Central do Brasil e pelo Ministério das Cidades, no âmbito de suas competências.
+IV - tipologia e padrão das moradias e da infraestrutura urbana, com observância da legislação municipal pertinente.
+§ 2º As operações de que trata o caput poderão ser realizadas pelos bancos múltiplos, pelos bancos comerciais, pelas sociedades de crédito imobiliário, pelas companhias hipotecárias, por órgãos federais, estaduais e municipais, inclusive sociedades de economia mista em que haja participação majoritária do poder público, que operem no financiamento de habitações e obras conexas, e pelas cooperativas de crédito que tenham entre seus objetivos o financiamento habitacional a seus cooperados, desde que tais instituições e agentes financeiros sejam especificamente autorizados a operar o programa pelo Banco Central do Brasil e pelo Ministério das Cidades, no âmbito de suas competências.
 § 3º Os Estados e os Municípios poderão complementar o valor das subvenções econômicas com créditos tributários, benefícios fiscais, bens ou serviços economicamente mensuráveis, assistência técnica ou recursos financeiros.

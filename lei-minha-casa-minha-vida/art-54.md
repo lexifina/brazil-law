@@ -8,4 +8,4 @@ IV - recuperação de áreas degradadas e daquelas não passíveis de regulariza
 V - comprovação da melhoria das condições de sustentabilidade urbano-ambiental, considerados o uso adequado dos recursos hídricos e a proteção das unidades de conservação, quando for o caso;
 VI - comprovação da melhoria da habitabilidade dos moradores propiciada pela regularização proposta; e
 VII - garantia de acesso público às praias e aos corpos d´água, quando for o caso.
-§ 3º A regularização fundiária de interesse social em áreas de preservação permanente poderá ser admitida pelos Estados, na forma estabelecida nos §§ 1º e 2º deste artigo, na hipótese de o Município não ser competente para o licenciamento ambiental correspondente.
+§ 3º A regularização fundiária de interesse social em áreas de preservação permanente poderá ser admitida pelos Estados, na forma estabelecida nos §§ 1º e 2o deste artigo, na hipótese de o Município não ser competente para o licenciamento ambiental correspondente, mantida a exigência de licenciamento urbanístico pelo Município.
