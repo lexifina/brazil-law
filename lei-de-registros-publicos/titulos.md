@@ -82,6 +82,5 @@ Da Remição do Imóvel Hipotecado
 CAPÍTULO XI
 Do Registro Torrens
 CAPÍTULO XII
-Do Registro da Regularização Fundiária Urbana
 DO REGISTRO DA REGULARIZAÇÃO FUNDIÁRIA URBANA
 TÍTULO VI
