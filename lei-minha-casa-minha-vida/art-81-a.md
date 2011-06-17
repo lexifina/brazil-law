@@ -1,0 +1,1 @@
+Art. 81-A. Os limites de renda familiar expressos nesta Lei constituem valores máximos, admitindo-se a atualização nos termos do § 6º do art. 3º, bem como a definição, em regulamento, de subtetos de acordo com as modalidades operacionais praticadas.
