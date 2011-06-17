@@ -1,0 +1,1 @@
+Artigo 2º - Os membros do Conselho de Orientação do Fundo de Desenvolvimento da Região Metropolitana de São Paulo serão indicados em até 30 (trinta) dias contados da data da constituição do Fundo de Desenvolvimento da Região Metropolitana de São Paulo.
