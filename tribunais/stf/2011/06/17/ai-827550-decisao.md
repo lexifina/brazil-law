@@ -1,0 +1,11 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual determinou a cessação dos descontos de contribuição para a assistência à saúde de Policial Militar do Estado do Rio de Janeiro e indeferiu o pedido de devolução dos valores descontados em data anterior ao ajuizamento da ação.
+ No RE, a parte agravante alega violação aos arts. 5º, XVII e XX, 40, 149, 194, 196, 201 e 203 da Constituição Federal.
+2.  O recurso não merece prosperar. Preliminarmente, verifico que, com exceção do art. 149 da Carta Maior, os demais dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+3.  Ademais, a jurisprudência desta Corte firmou-se no sentido de que a controvérsia relativa à contribuição para o fundo de saúde dos militares é de natureza infraconstitucional. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido: AI 798.552/RJ, rel. Min. Cármen Lúcia, DJe 20.5.2010; RE 593.948-AgR/RJ, rel. Min. Luiz Fux, 1ª Turma, DJe 09.5.2011; e AI 730.709-AgR/RJ, de minha relatoria, 2ª Turma, DJe 08.02.2011, este último assim ementado:
+“PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MUNICIPAL. CONTRIBUIÇÃO COMPULSÓRIA PARA PLANO DE SAÚDE. REEXAME DE LEGISLAÇÃO LOCAL: IMPOSSIBILIDADE. SÚMULA STF 280 . 1. Conforme consignado na decisão agravada, para examinar as alegadas ofensas à Constituição Federal e divergir da conclusão a que chegou o Tribunal de origem, cumpriria examinar a legislação local (Lei Complementar Municipal 67/2003). Assim, eventual ofensa à Constituição Federal, se existente, seria meramente reflexa. Incidência, na espécie, da Súmula STF 280. 2. Agravo regimental a que se nega provimento”.
+ Frise-se que o Supremo Tribunal Federal manifestou-se pela inexistência de repercussão geral da matéria no RE 586.620-RG/RJ, de minha relatoria, Plenário Virtual, DJe 04.12.2009.
+4.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+ Publique-se.
+ Brasília, 17 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
