@@ -1,0 +1,15 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual reconheceu a ilegitimidade passiva do ora agravado, determinou sua exclusão do presente feito e declarou a disponibilidade de seus bens.
+          No RE, sustenta-se ofensa ao artigo 5º, LV, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido nem suscitados nos embargos de declaração opostos para satisfazer o requisito do prequestionamento. Incidem, na espécie, as Súmulas STF 282 e 356.
+    3. Ademais, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. É o que se percebe da leitura da ementa do acórdão recorrido. Veja-se:
+    “(...)
+    2. A tipificação do alegado ilícito que teria sido praticado pelo Prefeito falecido enquadra-se na figura jurídica de crime de responsabilidade; e, não, de ato de improbidade. A Lei nº 8.429/92 cuida das sanções aplicáveis aos agentes públicos, generalizadamente, enquanto que o Decreto-Lei nº 201 de 27 de fevereiro de 1967, dispõe, especificamente, sobre a responsabilidade de Prefeitos e Vereadores. Como é consabido, a lei especial prevalece sobre a geral. A nitidez com que o artigo 1º do referido decreto-lei descreve os crimes de responsabilidade, mais pertinentemente ao caso em exame em seu inciso I, não deixa dúvida quanto ao correto posicionamento da matéria ora versada.
+    3. A possibilidade de a responsabilidade recair sobre "o sucessor daquele que causar lesão ao patrimônio público ou se enriquecer ilicitamente" está sujeita às cominações da lei até o limite do valor da herança e está prevista no artigo 8º da Lei nº 8.429/92, que não se aplica, conforme visto acima, ao caso em estudo. Assim, a constrição de bens fica desamparada de base legal.
+    (...)
+    Há portanto, de ser reconhecida a ilegitimidade de parte do espólio do falecido Prefeito, declarando a disponibilidade dos bens da parte agravante." (fls. 17-17v.).
+    4. Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, devido processo legal, contraditório e ampla defesa – a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.03.2009.
+    5. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 17 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
