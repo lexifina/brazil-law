@@ -1,0 +1,20 @@
+DECISÃO
+PRISÃO PREVENTIVA – AMEAÇA A TESTEMUNHA – ENQUADRAMENTO NO PERMISSIVO LEGAL – HABEAS CORPUS – LIMINAR INDEFERIDA.
+1. A Assessoria prestou as seguintes informações:
+A paciente foi denunciada juntamente com o cônjuge, Willians de Sousa. Segundo a peça acusatória, os dois, visando o recebimento de herança e agindo em concurso e com unidade de desígnios, por motivo torpe, com emprego de meio cruel e mediante recurso que dificultou a defesa das vítimas, praticaram homicídio contra os genitores da paciente, quando esses já se encontravam deitados. Dessa forma, teriam infringido o disposto no artigo 121, incisos I (motivo torpe), III (meio cruel) e IV (recurso que dificultou a defesa dos ofendidos), combinado com o § 4º, segunda parte (contra pessoa maior de sessenta anos), na forma do artigo 29, combinado ainda com o artigo 61, inciso II, alínea “e” (contra ascendente), por duas vezes, na forma do artigo 69, todos do Código Penal.
+Ao receber a peça acusatória, o Juízo da Primeira Vara Criminal da Comarca de Barueri/SP acolheu a manifestação do Ministério Público e determinou a prisão preventiva da paciente e do corréu. Teve em conta a presença de indícios da autoria e a prova da materialidade do delito, que consignou ser gravíssimo, a causar o repúdio da sociedade. Além disso, consoante assentou, a proximidade dos réus com as diversas testemunhas a serem ouvidas em Juízo, principalmente parentes e vizinhos dos acusados, indicaria a necessidade da medida constritiva da liberdade para conveniência da instrução criminal, mormente diante de notícia trazida ao processo quanto à ameaça a testemunha Cláudia Muniz Pires.
+Os mandados de prisão, devidamente cumpridos, foram juntados ao processo.
+Contra a decisão, foi impetrado habeas corpus no Tribunal de Justiça do Estado de São Paulo. Alegou-se a ausência dos requisitos indispensáveis à prisão preventiva e a existência de constrangimento ilegal em razão de a acusada estar sendo mantida em cela comum e não em sala de estado-maior, assegurada ante o disposto na Lei nº 8.906/1994 (Estatuto da Ordem dos Advogados do Brasil). O relator da impetração indeferiu o pedido de concessão de liminar.
+A defesa da paciente formalizou idêntica medida no Superior Tribunal de Justiça. O Presidente daquele Tribunal, no período de férias forenses, ressaltou o óbice previsto no Verbete nº 691 da Súmula do Supremo e discorreu sobre os fundamentos da ordem da prisão cautelar, que entendeu hígidos. Segundo anotou, o fato de a paciente encontrar-se em cela diversa e isolada dos presos comuns, na falta de sala de estado-maior, cumpre à finalidade prevista na Lei nº 8.906/94.
+A inicial deste habeas volta-se contra a referida decisão. O impetrante reitera tão só a tese atinente à ausência dos requisitos legais para a imposição da medida constritiva, pois não estariam demonstrados os elementos concretos a autorizá-la.
+Pede a concessão de liminar, no sentido de suspender, até o julgamento final da impetração, a ordem de prisão e determinar a expedição de alvará de soltura em favor da paciente, assegurando-lhe o direito de permanecer em liberdade. No mérito, pleiteia a confirmação da providência.
+2. Colho do ato do Juízo, como matéria a respaldar a prisão preventiva, o seguinte:
+Importante ressaltar que, com a segregação cautelar dos denunciados, imprime-se celeridade à marcha processual, propicia-se a rápida formação da culpa, preserva-se a boa instrução criminal, mormente diante da notícia trazida aos autos dando conta que a testemunha Cláudia Muniz Pires teria sido ameaçada pela ré Roberta, consoante se verifica a fls. 363 e 405.
+A última assertiva, quanto à ameaça perpetrada pela paciente a certa testemunha, justifica o ato de constrição extravagante.
+3. Indefiro a liminar.
+4. A tramitação do habeas não implica o prejuízo daquele em curso no Superior Tribunal de Justiça – de nº 193.011. Oficiem ao relator, encaminhando cópia deste pronunciamento.
+5. Colham o parecer da Procuradoria Geral da República.
+6. Publiquem.
+Brasília – residência –, 18 de junho de 2011, às 17h50.
+Ministro MARCO AURÉLIO
+Relator
