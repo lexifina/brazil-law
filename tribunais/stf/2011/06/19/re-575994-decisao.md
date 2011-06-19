@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. 1. PROGRESSIVIDADE DAS ALÍQUOTAS DO IMPOSTO PREDIAL E TERRITORIAL URBANO E TAXAS DE LIMPEZA PÚBLICA E DE CONSERVAÇÃO DE VIAS E LOGRADOUROS: INCONSTITUCIONALIDADE. PRECEDENTES. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO NESTES PONTOS. 2. TAXA DE SEGURANÇA PÚBLICA: SERVIÇO DE EXTINÇÃO DE INCÊNDIO. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Embargo à execução fiscal – IPTU e taxas (conservação de vias, limpeza pública, coleta de lixo, prevenção e extinção de incêndios) – Exercício de 1998 – Município de São Bernardo do Campo – Ausência dos requisitos de especificidade e divisibilidade – Incompatibilidade com o disposto no art. 145, II, CF e art. 79 do CTN – Cobrança indevida – IPTU – Alegada progressividade de alíquotas sem observância dos requisitos constitucionais – Ocorrência – Execução extinta – Sentença mantida – Recursos da Municipalidade improvidos” (fl. 180).
+     Os embargos declaratórios opostos foram assim julgados:
+    “A maior parte do julgado ora embargado está fundado na questão constitucional, não admitindo a progressividade de alíquotas do IPTU de 1998 em São Bernardo do Campo” (fl. 198).
+    2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 145, § 1º, 150, inc. II, e 156, inc. II e § 1º, e 182, § 4º, da Constituição da República.
+    Alega que “o IPTU (...) poderia ser lançado através de alíquotas progressivas, de forma a assegurar o cumprimento da função social da propriedade” (fl. 210).
+    Sustenta que “não há previsão de progressividade de alíquotas, (...) mesmo que considerássemos as alíquotas da Lei n. 4.558/97 como progressivas, estas seriam constitucionais por força do § 1º do artigo 156 da CF” (fl. 215).
+    Assevera que “os serviços públicos de limpeza pública / coleta de lixo, preservação e conservação de ruas e logradouros e prevenção de extinção de incêndios possuem caráter divisível e específico” (fl. 219).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Quanto à progressividade do Imposto Predial e Territorial Urbano e as taxas de limpeza pública e de preservação e conservação de ruas e logradouros, razão jurídica não assiste ao Recorrente.
+    4. Este Supremo Tribunal assentou ser inconstitucional a lei municipal que tenha instituído a cobrança do Imposto sobre a Propriedade Predial e Territorial Urbana, por meio de alíquotas progressivas, antes da Emenda Constitucional n. 29/00. Incide na espécie a Súmula 668 do Supremo Tribunal Federal:
+    “É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana.”
+    5. No que concerne às taxas de limpeza pública e de conservação de vias e logradouros, este Supremo Tribunal decidiu pela sua inconstitucionalidade ao julgar o Recurso Extraordinário 204.827, Relator o Ministro Ilmar Galvão, DJ 25.4.1997.
+    Afirmou também que o fato gerador dessas taxas é a prestação de serviço inespecífico, não mensurável, indivisível e insuscetível de ser referido a determinado contribuinte, devendo ser custeado por meio do produto da arrecadação dos impostos gerais.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. TAXA DE CONSERVAÇÃO DE VIAS E LOGRADOUROS PÚBLICOS. INCONSTITUCIONALIDADE. TAXAS DE LIMPEZA PÚBLICA DOMICILIAR E DE MANUTENÇÃO DA REDE DE ÁGUA E ESGOTO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE FATOS E PROVAS (SÚMULAS 279 E 280 D0 SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 653.547-AgR, de minha relatoria, Primeira Turma, DJ 22.10.2009) .
+    “Município de Santo André: inconstitucionalidade da taxa de limpeza pública, por ter como fato gerador prestação de serviço não específico nem mensurável, indivisível e insusceptível de ser referido a determinado contribuinte; legitimidade da taxa de segurança, exigida para cobrir despesas com manutenção dos serviços de prevenção e extinção de incêndios: precedente: RE 206.777, 25.02.1999, Pleno, Ilmar Galvão, DJ 30.4.99. RE provido, em parte” (RE 247.563-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 28.4.2006).
+    Desse entendimento não divergiu o acórdão recorrido.
+    6. Quanto ao ponto no qual se discute a constitucionalidade da taxa de segurança pública pela utilização potencial dos serviços de extinção de incêndios, este Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional suscitada no julgamento eletrônico do Recurso Extraordinário n. 561.158, Relator o Ministro Marco Aurélio.
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    Cumpre ressalvar que apesar de o Recurso Extraordinário n. 561.158, paradigma da repercussão geral, ter tido pedido de desistência homologado, o Ministro Relator irá substituí-lo por outro no momento oportuno, pois se reconhece a repercussão geral da questão constitucional não limitada ao recurso extraordinário a ela vinculado.
+    7. Pelo exposto:
+    a) nego seguimento ao recurso quanto à cobrança de Imposto Predial e Territorial Urbano nos termos da Lei Municipal n. 1.354/1979, e à cobrança das taxas de limpeza pública e de preservação e conservação de ruas e logradouros (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal);
+    b) determino, após o trânsito em julgado dessa decisão, a devolução destes autos ao Tribunal a quo para que, quanto à taxa de segurança pública, seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 19 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
