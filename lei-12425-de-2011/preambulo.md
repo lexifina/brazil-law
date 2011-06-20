@@ -1,0 +1,2 @@
+Altera a Lei nº 8.745, de 9 de dezembro de 1993, no tocante à contratação de professores.
+Faço saber que a Presidente da República adotou a Medida Provisória nº 525, de 2011, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
