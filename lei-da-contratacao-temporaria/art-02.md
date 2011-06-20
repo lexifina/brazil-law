@@ -23,7 +23,7 @@ X - admissão de professor para suprir demandas decorrentes da expansão das ins
 § 1º A contratação de professor substituto de que trata o inciso IV do caput poderá ocorrer para suprir a falta de professor efetivo em razão de:
 I - vacância do cargo;
 II - afastamento ou licença, na forma do regulamento; ou
-III - nomeação para ocupar cargo de direção de reitor, vice-reitor, pró-reitor e diretor de campus.
-§ 2º O número total de professores de que trata o inciso IV do caput não poderá ultrapassar vinte por cento do total de docentes efetivos em exercício na instituição federal de ensino.
+III - nomeação para ocupar cargo de direção de reitor, vicereitor, pró-reitor e diretor de campus.
+§ 2º O número total de professores de que trata o inciso IV do caput não poderá ultrapassar 20% (vinte por cento) do total de docentes efetivos em exercício na instituição federal de ensino.
 § 3º As contratações a que se refere a alínea h do inciso VI serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração pública.
 § 4º Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
