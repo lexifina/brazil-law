@@ -1,0 +1,37 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PENSÃO MILITAR: TETO REMUNERATÓRIO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 37, INC. XI, DA CONSTITUIÇÃO DA REPÚBLICA. EMENDA CONSTITUCIONAL N. 19/1998. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 2º Região:
+    “Previdenciário e administrativo. Pensão militar. Teto. Mandando de segurança. I- Se o falecido receberia se vivo fosse, remuneração como ex-Ministro do Supremo Tribunal Militar, e não como militar, a pensão por ele deixada está sujeita ao teto estabelecido no art. 37, inc. XI, da Constituição da República, com a antiga redação, mas terá como parâmetro a remuneração dos Ministros do Supremo Tribunal Federal e não remuneração do Ministro do Exército, como quer a autoridade coatora e foi reconhecida a sentença recorrida. II- Apelação a que se dá provimento.”
+    Lê-se do voto condutor do acórdão recorrido:
+    “O teto salarial abrange os proventos dos aposentados e a pensão devida aos dependentes do servidor falecido. As vantagens de caráter pessoal, as quais, de acordo com a jurisprudência do Supremo Tribunal Federal, não incluem no cálculo do teto de remuneração. Não são auto-aplicáveis as normas do art. 37, inc. XI, e 39 § 4º, da Constituição da República, com redação que lhes deu a Emenda Constitucional n. 19/98.
+    Até que se edite a lei definidora de subsídio mensal a ser pago a Ministro do Supremo Tribunal Federal, prevalecerão os limites máximos (tetos) estabelecidos para os três Poderes da República, nos termos da redação originária do art. 37, inc. XI da Constituição da República. Determino que o limite máximo ou teto dos proventos das Apelantes corresponderá à remuneração paga, atualmente, a Ministro do Supremo Tribunal Federal”.
+    2 . A Recorrente alega que o Tribunal a quo teria contrariado o art. 37, inc. XI, da Constituição da República.
+    Argumenta que “o pagamento de remuneração de servidor público sem a aplicação do abate-teto, em afronta, ao disposto no art. 37, inc. XI da Constituição da República”.
+     Aponta que “com o advento da Emenda Constitucional n. 19/1998, que por sua vez deu nova redação ao inc. XI do art. 37 da Carta Constitucional de 1988, foram revogados as exceções assentadas no aludido art. 61 da Lei n. 8.112/90, sendo que o novo teor do mencionado dispositivo constitucional é bastante claro em apregoar que qualquer espécie remuneratória, percebida cumulativamente ou não, inclusive as vantagens pessoais, hão de se submeter ao novo teto salarial estabelecido, qual seja, o subsídio percebido pelos Ministros do Supremo Tribunal Federal”.
+    Anota que “não há que se falar em direito adquirido ao regime jurídico anterior a Emenda, ainda no que se refira ao aspecto patrimonial. Em consequência, não há, na matéria ora em exame, a incidência de qualquer cláusula pétrea, restando plena a possibilidade do poder constituinte derivado alterar as normas constitucionais referentes ao regime jurídico dos servidores públicos, com vistas a promover a melhor adequação da Constituição da República à realidade vigente, possibilitando a permanência em vigor da atual Carta Magna”.
+     Sustenta que “o texto constitucional não abre exceções para qualquer tipo de vantagem remuneratória, quer de caráter pessoal ou não, cumprindo destacar que tal mandamento constitucional é auto-aplicável, em nenhum momento fazendo referência à necessidade de que advenha uma lei posterior para regulamentar a matéria”.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. Discute-se nos autos a incidência do teto constitucional sobre as vantagens pessoais dos Recorridos durante o período de vigência da Emenda Constitucional n. 19/1998.
+    A jurisprudência deste Supremo Tribunal Federal é pacífica quanto à exclusão das vantagens pessoais do cálculo do teto constitucional durante o período de vigência da Emenda Constitucional n. 19/1998.
+    Nesse sentido:
+    “III. Servidor público: teto de vencimentos (CF, art. 37, XI): subsistência integral do sistema anterior à EC 19/98, até a fixação dos subsídios dos Ministros do Supremo Tribunal: consequente imunidade à incidência do teto do respectivo Poder das vantagens de caráter individual, conforme a jurisprudência firmada sob o regime anterior à alteração constitucional ainda ineficaz: precedente.
+    IV. Vencimentos: teto: exclusão das vantagens de caráter individual, entre as quais se inclui a parcela incorporada à remuneração do servidor em razão do exercício pretérito de cargo em comissão ou similar.” (RE 285.706, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 26.4.2002)
+    “CONSTITUCIONAL. ADMINISTRATIVO. MAGISTRADO. REMUNERAÇÃO: TETO. VANTAGEM PESSOAL: ADICIONAL POR TEMPO DE SERVIÇO. Lei 11.564, de 1998, do Estado de Pernambuco. C.F., art. 37, XI, art. 48, XV. EC 19/98.
+    I – Enquanto não editada a lei referida no inciso XV do art. 48, acrescentado pela EC 19/98, não tem aplicação o sistema instituído pelo inciso XI do artigo 37, da C.F., redação da EC 19/98. Precedentes do STF.
+    II – Não inclusão, no teto da remuneração, da vantagem pessoal do adicional por tempo de serviço.
+    III – Inconstitucionalidade da Lei 11.564/98, do Estado de Pernambuco, que dispõe sobre a fixação de subsídio mensal dos membros do Poder Judiciário de Pernambuco.
+    IV – Mandado de segurança indeferido.” (AO 864, Relator o Ministro Carlos Velloso, Plenário, DJ 12.11.2004)
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. EXCLUSÃO DE VANTAGENS PESSOAIS DO TETO REMUNERATÓRIO. EMENDA CONSTITUCIONAL 19/98. EMENDA CONSTITUCIONAL 41/2003 NÃO APLICÁVEL.
+    1. O Supremo Tribunal Federal possui entendimento no sentido da impossibilidade de auto-aplicação das normas dos arts. 37, XI, com a redação dada pela EC 19/98, e 39, § 4º, da Carta Magna. Assim, as vantagens pessoais são excluídas do teto de remuneração, até a promulgação da lei de fixação do subsídio de Ministro do Supremo Tribunal Federal.
+    2. Impossibilidade de aplicação de regras previstas na Emenda Constitucional 41/2003 para período anterior à sua vigência.
+    3. Agravo regimental improvido.” (RE 524.824-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 25.6.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TETO REMUNERATÓRIO. EXCLUSÃO DAS VANTAGENS PESSOAIS. PERÍODO POSTERIOR À EMENDA CONSTITUCIONAL N. 19/98 E ANTERIOR À NORMA DA EMENDA CONSTITUCIONAL N. 41/03. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, no período anterior à Emenda Constitucional n. 41/03, ainda que posterior à Emenda Constitucional n. 19/98, as vantagens pessoais estavam excluídas do teto remuneratório.” (RE 491.480-AgR, de minha relatoria, Primeira Turma, DJe 21.8.2009)
+    Não há, pois, o que prover quanto às alegações da parte recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2011.
+  Ministra CÁRMEN LÚCIA
+Relatora
