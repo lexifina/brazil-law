@@ -1,0 +1,15 @@
+LibreOffice Trata-se de embargos de declaração opostos de decisão que, em juízo de reconsideração, deu provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no art. 328, parágrafo único do RISTF, determinou a devolução destes autos ao Tribunal de origem para que seja observado, quanto ao recurso extraordinário, o disposto no art. 543-B do CPC, visto que nele discute-se questão idêntica à apreciada no RE 579.431-QO/RS.
+Os embargantes sustentam, em suma, que:
+“Nos fundamentos e no dispositivo da decisão do Agravo Regimental (interposto por Henrique Castellari e outros, datado de 20.10.2010) o Relator afirma que ‘o julgado merece reforma. Assim, reconsidero a decisão de fls. 171-172, e passo à análise do recurso’.
+Com esta afirmação, tudo indica que o Relator irá reformar a decisão recorrida, qual seja, a que deu provimento ao Agravo de Instrumento e ao Recurso Extraordinário interposto pela União” (fl. 210).
+Inicialmente, cumpre salientar, que a reconsideração da decisão que deu provimento ao agravo de instrumento para conhecer do recurso extraordinário e dar-lhe provimento, deu-se, única e exclusivamente, para que o referido recurso aguarda-se o julgamento, por este Supremo Tribunal Federal, de processo no qual foi reconhecida a repercussão geral do tema discutido no acórdão recorrido, nos termos do art. 543-B do Código de Processo Civil, e não porque a União tinham razão com relação ao mérito, como deixa a entender os ora embargantes.
+Ademais, melhor sorte não assiste aos embargantes no concernente à alegação de que
+“(...) também não há que se falar em sobrestamento do feito até a decisão final do RE 579.431-QO/RS (cuja repercussão geral foi reconhecida), dado que a discussão, neste processo, sobre a incidência de juros moratórios em precatório complementar entre a data da conta exeqüenda e a data da efetiva expedição das requisições de pagamento, já restou definida com TRÂNSITO EM JULGADO EM RECURSO PRETÉRITO (A.I. n. 2003.01.00.030645-6/MG)” (fl. 216).
+Isso porque, a matéria aqui discutida guarda semelhança à questão a ser apreciada no RE 579.431-QO/RS, como se vê do seguinte excerto retirado da manifestação da Min. Cármen Lúcia, acerca da repercussão geral:
+“(...) Ministro Menezes Direito, num caso de que cuidamos – a relatoria foi do Ministro Gilmar Mendes -, não haveria juros de mora a incidir, porque não haveria mora da Fazenda se, entre a expedição do precatório até 1º de julho de um ano, o seu pagamento se deu exatamente dentro do prazo, ou seja, até o final do exercício subsequente.
+No caso específico dos autos, o Tribunal Regional Federal da 4ª Região entendeu serem devidos juros de mora, mas no período compreendido entre a data da feitura do cálculo e a da expedição de requisição de pequeno valor. Este caso aqui, ainda que guarde alguns elementos parecidos, não se enquadra rigorosamente no precedente porque são datas, situações e tratamentos jurídicos diferentes.”
+Isso posto, não conheço dos embargos de declaração (art. 21, § 1º, do RISTF).
+Publique-se.
+Brasília, 21 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
