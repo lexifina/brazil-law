@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF04 nº 61, de 13 de junho de 2011
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: INDENIZAÇÃO POR DANO PATRIMONIAL. RECEITA TRIBUTÁVEL. RECEITAS FINANCEIRAS. ALÍQUOTA ZERO.
+A indenização por "redução na margem de comercialização" constitui receita sobre a qual incide a Cofins, sendo aplicável a legislação vigente no momento de sua disponibilização. São considerados como receitas financeiras os juros e a correção monetária calculados, por força de decisão judicial, sobre o valor originário de indenização. Sobre tais receitas incide a alíquota zero, conforme o disposto no art. 1º do Decreto nº 5.442, de 2005.
+DISPOSITIVOS LEGAIS: Lei nº 9.718, de 1998; art. 9º; Lei nº 10.833, de 2003, art. 1º. Legislação Infralegal: Decreto nº 3.000, de 1999, art. 373; Decreto nº 5.442, de 2005; art. 1º; Instrução Normativa SRF nº 247, de 2002, arts. 1º e 13.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: INDENIZAÇÃO POR DANO PATRIMONIAL. RECEITA TRIBUTÁVEL. RECEITAS FINANCEIRAS. ALÍQUOTA ZERO. A indenização por "redução na margem de comercialização" constitui receita sobre a qual incide a Contribuição para o PIS/PASEP, sendo aplicável a legislação vigente no momento de sua disponibilização. São considerados como receitas financeiras os juros e a correção monetária calculados, por força de decisão judicial, sobre o valor originário de indenização. Sobre tais receitas incide a alíquota zero, conforme o disposto no art. 1º do Decreto nº 5.442, de 2005.
+DISPOSITIVOS LEGAIS: Lei nº 9.718, de 1998; art. 9º; Lei nº 10.637, de 2002, art. 1º. Legislação Infralegal: Decreto nº 3.000, de 1999, art. 373; Decreto nº 5.442, de 2005; art. 1º; Instrução Normativa SRF nº 247, de 2002, arts. 1º e 13.
+[arquivo anexo: SC SRRF04-Disit nº 61-2011.pdf]
