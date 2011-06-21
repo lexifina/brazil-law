@@ -1,0 +1,10 @@
+LibreOffice Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+“APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. CUSTAS PROCESSUAIS. ESTADO DO RIO GRANDE DO SUL. Tendo em conta a nova realidade legislativa estadual (LE nº 12.613/07) e constitucional, com a consagração na CF de 1998, mediante a EC nº 45/04, da efetiva autonomia do Poder Judiciário, direcionam-se, atualmente, as receitas oriundas do pagamento das taxas, custas e emolumentos para o custeio dos serviços judiciais. Custas processuais que, assim, devem ser recolhidas pelo Estado sendo inaplicável o parágrafo único do artigo 11 da Lei nº 8.121/85. Inafastabilidade das pessoas jurídicas de direito público da obrigação pelo pagamento da taxa judiciária conforme disposto na LE 8.960/89. Precedentes jurisprudenciais. APELAÇÃO DESPROVIDA, MANTIDA A SENTENÇA EM REEXAME NECESSÁRIO” (fl. 76).
+No RE, fundado no art. 102, III, a, da Constituição, alegou-se arts. 1º, 2º, 25, 98, § 2º, 99, 132, 135, 145, II, 146, III, 150, I, e 165 da mesma Carta.
+O agravo não merece acolhida. Isso porque, os Ministros desta Casa, no AI 826.496-RG/RS, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos – Revogação de isenção de taxas judiciárias, custas e emolumentos concedida por lei estadual ao Estado do Rio Grande do Sul – decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação ementa do referido julgado:
+“Custas e emolumentos cobrados da Fazenda Pública pelo Judiciário estadual. Controvérsia quanto à subsistência de isenção na legislação estadual. Discussão restrita ao âmbito infraconstitucional. Repercussão geral rejeitada”
+Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+Publique-se.
+Brasília, 21 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
