@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANOS MATERIAIS E MORAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra julgado do Tribunal de Justiça do Amazonas, que manteve a condenação da Recorrente ao pagamento de indenização por danos morais e materiais à Recorrida, com base no art. 14 do Código de Defesa do Consumidor.
+    Tem-se no julgado recorrido:
+    “No caso, discutem-se erros nos procedimentos assecuratórios da cooperativa médica, ou seja, defeitos na própria prestação do serviço, dentre os quais, avulta-se, a ausência de estrutura para uma situação emergencial, como a intercorrência de parada cardiocirculatória da Apelada. Não somente o fato de no hospital, local escolhido para a cirurgia, não possuir unidade de terapia intensiva, mas também não se encontrar no local nenhuma unidade deste porte que fosse móvel, como demonstram as provas dos autos.
+    A demora na chegada da unidade móvel gerou sequelas irreversíveis, uma vez que cada segundo que o cérebro passou sem receber a devida oxigenação, traduzia-se na sentença de estado vegetativo que se encontra a Apelada, atualmente. Inclusive, o § 1º do artigo 14 do Código de Defesa do Consumidor exara que o serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar.
+    Ademais, qualquer que seja a cirurgia, ainda que mais simples o procedimento operatório, traz ínsito o risco, mostrando-se razoável o hospital oferecer o mínimo de estrutura para eventualidades, porquanto presta o serviço assumindo o risco inerente à atividade. Devendo o prestador de serviço produzir provas em contrário, como bem estabelece o § 3º do artigo 14 do Codex Consumerista” (fl. 829 – grifos nossos).
+    2. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 1º, inc. IV, 5º, 170, parágrafo único, e 199 da Constituição da República, que “garante[m] o direito à livre iniciativa” (fl. 850), e o princípio da razoabilidade.
+    Assevera que, “no caso concreto, todos os procedimentos corretos foram utilizados e todas as cautelas observadas” (fl. 851).
+    Alega ser “irrazoável [sua] condenação (...) ao pagamento de indenização por danos materiais no valor de R$ 100.000,00, [que] se mostra exorbitante e incompatível com a realidade dos fatos” (fl. 853).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. A solução da controvérsia sobre responsabilidade por dano material e moral e sobre o valor da respectiva indenização demandaria o reexame de prova, o que atrai a incidência da Súmula n. 279 do Supremo Tribunal e não viabiliza o recurso extraordinário.
+    Ademais, seria imprescindível a análise das normas infraconstitucionais aplicáveis à espécie vertente (Código de Defesa do Consumidor e Código Civil), o que não se admite em recurso extraordinário.
+    Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO: DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 709.133-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO RECORRIDO QUE MAJOROU O QUANTUM FIXADO PELA SENTENÇA. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 666.068-AgR, de minha relatoria, Primeira Turma, DJe 7.11.2008 – grifos nossos).
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Danos materiais e morais. Indenização. Questão infraconstitucional. Matéria fática. Agravo regimental improvido. Súmula 279. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco que dependa de reexame de provas” (AI 581.555-ED-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 1º.9.2006 – grifos nossos).
+    5. Nada há, pois, a prover quanto às alegações da Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
