@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+“AGRAVO INTERNO. DECISÃO MONOCRATICA EM APELAÇÃO CÍVEL QUE NEGOU SEGUIMENTO AO RECURSO COM AMPARO NO ARTIGO 557, CAPUT, DO CPC. AÇÃO PELO RITO ORDINÁRIO. PREVIDÊNCIA COMPLEMENTAR. PREVI-BANERJ. VÍCIO DE CONSENTIMENTO. ATO ANULÁVEL. DECADÊNCIA. EXTINÇÃO DO PROCESSO COM RESOLUÇÃO DO MÉRITO, COM FULCRO NO ART. 269, IV, DO CPC. INCONFORMISMO DA AUTORA. PRETENSÃO DE DESCONSTITUIR TERMO DE ADESÃO CELEBRADO COM O ESTADO, POR VÍCIO DE CONSENTIMENTO. NÃO SE TRATA DE NULIDADE E SIM DE ANULABILIDADE DO NEGÓCIO JURÍDICO, SENDO APLICÁVEL, IN CASU, O PRAZO DECADENCIAL DE 4 (QUATRO) ANOS, REGRA PREVISTA NO ART. 178, § 9º, V DO CC/1916 E ART. 178 DO CC/2002, CONTADOS DO DIA EM QUE CESSOU A COAÇÃO. TERMO DE ADESÃO FIRMADO EM 24/11/1998. AÇÃO OBJETIVANDO A ANULAÇÃO DO REFERIDO NEGÓCIO JURÍDICO PROPOSTA EM 26.11.2008. SENTENÇA QUE NÃO MERECE REPAROS. NÃO DEMONSTRADO O DESACERTO DA DECISÃO IMPUGNADA, NÃO HÁ COMO PROSPERAR A IRRESIGNAÇÃO, TANTO MAIS QUANDO NADA DE NOVO É TRAZIDO QUE JUSTIFIQUE SUA REFORMA. MATÉRIA EXPRESSAMENTE ANALISADA NO DECISUM IMPUGNADO. DECISÃO QUE SE MANTÉM. IMPROVIMENTO DO RECURSO.” (fl. 252)
+Não forma opostos embargos declaratórios.
+No extraordinário, alega-se violação ao direito adquirido previsto no artigo 5º, inciso XXXVI, da Constituição Federal (261-289).
+Verifico que para se chegar à solução diversa do acórdão recorrido quanto à alegação de nulidade do negócio jurídico, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF.
+Além disso, observo que o Tribunal de origem examinou a controvérsia à luz da legislação infraconstitucional (Código de Processo Civil e Código Civil Brasileiro). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+Nesse sentido, RE-AgR 581.885, Rel. Min. Ellen Gracie, 2ª Turma, DJe 7.11.2008 e AI-AgR 698.625, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 3.4.2009, cuja ementa dispõe:
+“AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PRESCRIÇÃO. APLICAÇÃO DO CÓDIGO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+Por último, ressalto que segundo pacífica jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada, do ato jurídico perfeito (art. 5º, XXXVI) são insuficientes para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido o RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010.
+Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+Publique-se.
+Brasília, 21 de junho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
