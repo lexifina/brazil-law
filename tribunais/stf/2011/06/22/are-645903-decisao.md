@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. 1) DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO: SÚMULA N. 284 DO SUPREMO TRIBUNAL. 2) CONTRATO DE PLANO DE SAÚDE: SÚMULA N. 454 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da 3ª Turma Recursal Cível dos Juizados Especiais de São Paulo:
+    “Ao firmar o contrato, o Autor tinha conhecimento de que a inclusão do cônjuge e herdeiros ocorreria na forma estipulada na cláusula 1ª.
+    Decorridos mais de cinco anos do seu casamento e nascimento de seu filho, solicitou a inclusão de ambos, comprovando a dependência.
+    Contudo, não basta a prova da relação de dependência econômica para gerar a inclusão, mas também a concordância expressa da outra parte, no caso, da seguradora, como se extrai da cláusula 3ª do contrato que estampa as condições gerais.
+    Há que se respeitar, pois, o que se contratou, não violando a lei a recusa da Recorrente em admitir os dependentes, porquanto esses não o eram à época da entrada em vigor da Lei n. 9.656/1998, cujo art. 35, diversamente do que constou na sentença (fl. 49), não prevê expressamente o dever da Recorrente em admitir a inclusão de dependentes” (fls. 99-100 – grifos nossos).
+    2. O Recorrente alega que a Lei n. 9.656/1998 teria sido aplicada retroativamente, o que contrariaria o art. 5º, inc. XXXVI, da Constituição da República.
+    Assevera, ainda, que o Juízo a quo teria contrariado os arts. 5º, inc. XXXII, 170, inc. V, e 226 da Constituição, “já que o contrato firmado pelo Recorrente com a Recorrida permitia a inclusão de dependentes a qualquer tempo” (fl. 132).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de incidência da Súmula n. 279 do Supremo Tribunal e ausência de ofensa constitucional direta (fl. 145).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos mesmos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Juízo de origem ressaltou que: a) a pretensão do Agravante não teria respaldo no contrato firmado com a Agravada; b) a Lei n. 9.656/1998 não seria aplicável à espécie, pois “os dependentes (...) não o eram à época da entrada em vigor da Lei n. 9.656/1998“ (fl. 100); c) ainda que pudesse ser aplicada, essa Lei “não prevê expressamente o dever da Recorrente em admitir a inclusão de dependentes” (fl. 100).
+    Assim, a alegação de aplicação retroativa da Lei n. 9.656/1998 não tem relação com os fundamentos do julgado recorrido, o que atrai a incidência da Súmula n. 284 do Supremo Tribunal e não enseja o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE: RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 grifos nossos).
+    “1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008 grifos nossos).
+    7. Além disso, a Súmula n. 454 do Supremo Tribunal não viabiliza a análise da alegação de que “o contrato (...) permitia a inclusão de dependentes a qualquer tempo” (fl. 132). Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO DO CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS (SÚMULAS 279 E 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 722.542-ED, de minha relatoria, Primeira Turma, DJe 27.2.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITCUINOAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DE FATOS E PROVAS E DE CLÁUSULAS CONTRATUAIS. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de norma infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A incidência do óbice da Súmula 279-STF inviabiliza o recurso extraordinário quando evidenciada a necessidade do revolvimento de matéria fático-probatória. 3. É vedado o reexame de cláusulas contratuais, nos termos da Súmula 454-STF. Agravo regimental a que se nega provimento” (AI 528.896-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 5.2.2005 – grifos nossos).
+    8. Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de junho de 2011.
+ Ministra CÁRMEN LÚCIA
+Relatora
