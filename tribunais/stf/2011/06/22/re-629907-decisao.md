@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E TRABALHISTA. ALEGADA CONTRARIEDADE AO ART. 5º, INC. II E XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. ART. 489 DO CÓDIGO DE PROCESSO CIVIL. MATÉRIAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “RECURSO DE REVISTA. DIFERENÇAS SALARIAIS DECORRENTES DE PLANOS ECONÔMICOS. AÇÃO RESCISÓRIA JULGADA PROCEDENTE. AÇÃO DE REPETIÇÃO DE INDÉBITO. DESCABIMENTO COLISÃO DE PRINCÍPOS. O cabimento de ação de repetição de indébito, para cobrança de diferenças salariais decorrentes de planos econômicos, exige apreço a compreensão da coisa julgada como corolário do princípio da segurança jurídica, que, na hipótese, sobrepõe-se à proteção da propriedade. Os valores recebidos de boa-fé, relativos ao IPC de junho de 1987 e à URP de fevereiro de 1989, ante o princípio da segurança jurídica, não merecem repetição, ainda que procedente a ação rescisória lançada contra o título que os autorizar. Precedentes. Recurso de revista conhecido e desprovido”.
+    2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 5º, inc. II e XXXVI, da Constituição da República.
+    Argumenta que “a coisa julgada não pode ser usada para proteger o pagamento de um valor indevido [e que] o acórdão recorrido consagra violação ao princípio constitucional da legalidade quando nega provimento a Recurso de Revista no qual se demonstrou que tanto a decisão rescindenda, quanto a decisão proferida em primeiro grau deveriam ser mantidas, pois o TRT da 4ª Região proferiu decisão que consagra claríssimas violações a garantias constitucionais”.
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. Ao julgar o recurso de revista, o Tribunal Superior do Trabalho assentou que:
+    “Em síntese: os valores recebidos a título de boa-fé, relativos ao IPC de junho de 1987 e à URP de fevereiro de 1989, ante o princípio da segurança jurídica, não devem ser repetidos pelos trabalhadores, pois a estabilidade jurídica, no caso concreto, se sobrepõe à proteção do patrimônio da Autora”.
+    Assim, manteve-se incólume o fundamento do acórdão proferido pelo Tribunal Regional do Trabalho da 4ª Região, nos termos seguintes:
+    “Nos termos do artigo 489 do CPC, ‘A ação rescisória não suspende a execução da sentença rescindenda.’ Por esta razão, ainda que ajuizada a ação rescisória, procedeu-se normalmente as vias da execução no processo originário, levada a efeito em outubro/99. E a ação rescisória só transitara em julgado em agosto/2000.
+    Por esta razão, não há falar em recebimento de valores indevidos, na medida em que resta presumida a boa-fé dos beneficiários do direito”.
+    Concluir de modo diverso do acórdão recorrido, quanto à aplicação do art. 489 do Código de Processo Civil e à configuração da boa-fé, demandaria a análise dessa legislação infraconstitucional, o que não viabiliza o recurso extraordinário.
+    Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI da Constituição da República, se dependente do exame da legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    5. Ademais, a alegada contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, que dispõe: “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    6. Nada há, pois, a prover quanto às alegações da Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
