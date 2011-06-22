@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. ADMINISTRATIVO. ANULAÇÃO DE INFRAÇÃO ADMINISTRATIVA. ALEGADA AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “MANDADO DE SEGURANÇA. Impetrante que objetiva anulação de auto de infração e imposição de multa. Não cabimento. Notificações feitas às pessoas habilitadas, respeitados os prazos previstos no RICMS. Inexistência de nulidade. Recurso improvido ” (fl. 413).
+    3. A Recorrente afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Assevera que “o não conhecimento do recurso de apelação cerceou a oportunidade do recorrente se defender no processo e principalmente demonstrar a existência do seu direito” (fl. 249).
+    4. O recurso extraordinário foi inadmitido pelo Presidente do Tribunal a quo, sob os fundamentos de que não teria havido ofensa direta à Constituição e a matéria em debate seria de natureza infraconstitucional (fls. 542-543).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, de dispositivos do Código de Processo Civil e da Lei n. 12.016/2009), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO. CÁLCULO DO CONTADOR. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II, XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 818.642-AgR, de minha relatoria, Primeira Turma, DJe 22.2.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. CABIMENTO. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. PRECEDENTES. 1. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional e das provas dos autos. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 667830 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 22.10.2010).
+    “AGRAVO REGIMENTAL. CONTRATO DE ARRENDAMENTO MERCANTIL. REVELIA. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXVI, LIV E LV DA CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. Não cabe recurso extraordinário para exame de matéria infraconstitucional. Agravo regimental a que se nega provimento” (AI 667.712-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 31.1.2011).
+    8. Ademais, o Tribunal de origem concluiu inexistir direito líquido e certo a amparar a Recorrente, pois “a apelante não apresenta prova suficiente a demonstrar ter a autoridade impetrada agido de forma arbitrária ou ferindo os princípios constitucionais da ampla defesa e do contraditório”.
+     Tem-se no acórdão recorrido:
+    “Não é verdade que não tenha sido notificada como afirma, ao mencionar que em momento algum recebeu notificações do Fisco ou auto de infração e de imposição de multa, pois, como se vê nos autos em apenso (mandado de segurança nº 25.226/06), seu preposto 'Squema – Escritório Contábil S/S Ltda.', de Antonio Carlos Marques Pinto, os recebeu, onde prazos foram estabelecidos para apresentar ao Fisco documentos a serem analisados e, no AIIM prazo para defesa ” (fl. 400).
+    Concluir de forma diversa demandaria o reexame do conjunto probatório constante dos autos e de tudo quanto posto e amplamente apreciado pelo Tribunal a quo, o que não é cabível em recurso extraordinário, conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSO ADMINISTRATIVO PARA ANULAÇÃO DE ATO ADMINISTRATIVO. CONTROVÉRSIA SOBRE A OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO: IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 797.580-AgR, de minha relatoria, Primeira Turma, DJe 12.11.2010)
+    “AGRAVO REGIMENTAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. PUNIÇÃO DISCIPLINAR. OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário o reexame das provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 235.282-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 26.3.2010).
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
