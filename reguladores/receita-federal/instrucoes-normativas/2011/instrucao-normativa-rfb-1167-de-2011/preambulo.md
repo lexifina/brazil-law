@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1167, de 21 de junho de 2011
+Altera a Instrução Normativa RFB nº 1.147, de 19 de abril de 2011, que dispõe sobre o ingresso de bens procedentes do exterior destinados à utilização exclusiva nos 5º Jogos Mundiais Militares RIO2011 - 5º JMM.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 372, no inciso II do art. 562, e nos arts. 579 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
