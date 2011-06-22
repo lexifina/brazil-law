@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    O Supremo Tribunal Federal, por meio de decisão monocrática proferida pelo saudoso Ministro Menezes Direito, determinou a devolução destes autos à origem, para que fosse aplicado o disposto no artigo 543-B, do Código de Processo Civil, reconhecida que fora a repercussão geral da matéria constitucional aqui em discussão, nos autos do RE nº 563.965/RN, de relatoria da Ministra Cármen Lúcia.
+    Quando do julgamento do mérito da aludida questão, nos autos do mencionado recurso paradigma, esta Suprema Corte reafirmou a constitucionalidade do instituto da estabilidade financeira, bem como a ausência de direito adquirido à manutenção de regime jurídico, ao mesmo tempo em que reconheceu a constitucionalidade de legislação que venha a alterar forma de cálculo de gratificações.
+    Sua ementa restou assim redigida:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE. 1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico. 2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração. 3. Recurso extraordinário ao qual se nega provimento” (DJe de 20/3/09).
+    Na sequência, o recorrente, noticiando tal fato ao Tribunal de origem, postulou a retratação do acórdão proferido por aquela Corte regional, ou a devolução dos autos ao Supremo Tribunal Federal.
+    O Plenário do Tribunal de Justiça do Estado do Amazonas, então, optou pela manutenção da anterior decisão proferida nos autos, o que foi feito por meio de acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. FUNCIONÁRIA PÚBLICA – CARGO DE CONFIANÇA – CONTAGEM DE TEMPO PARA EFEITO DE QUINQUENIO. DIREITO ADQUIRIDO.
+    ‘O funcionário que contar seis anos completos, consecutivos ou não, de exercício em cargo ou função de confiança, fará jus a ter adicionada ao vencimento do respectivo cargo efetivo, como vantagem pessoal, a importância equivalente a um quinto:
+    I – Da diferença entre a remuneração do cargo em comissão do cargo em comissão e o vencimento do cargo efetivo;
+    II – Do valor da função gratificada.
+    § 1º - O acréscimo a que se refere esse artigo ocorrerá a partir do sexto ano, à razão de um quinto por ano completo de exercício de cargo ou função de confiança até completar o décimo ano’ (art. 82, do Estatuto dos Funcionários Públicos Civis do Amazonas).
+    - Segurança concedida” (fls. 385/386).
+    Postulou o recorrente, a seguir, o retorno dos autos a esta Suprema Corte, o que foi determinado pelo Presidente daquela Corte regional.
+    É o relatório.
+    O Tribunal de origem, ao reapreciar a causa, depois que esta Suprema Corte já havia julgado o mérito do recurso em que reconhecida a repercussão geral da matéria constitucional objeto do litígio, manteve o entendimento dantes adotado, e que se mostrava contrário à tese firmada pelo Supremo Tribunal Federal acerca do tema.
+    Assim e admitido o processamento do recurso extraordinário, os autos tornaram a esta Corte.
+    Ressalte-se, desde logo, que o recurso extraordinário em tela preenche todos os pressupostos de admissibilidade indispensáveis, a admitir seu pleno conhecimento pelo Supremo Tribunal Federal.
+    E, ainda, seguindo o trâmite legal instituído para casos em que o instituto da repercussão geral está reconhecido nos autos, deveria o Tribunal de origem exercer o juízo de retratação e aplicar à espécie, a tese jurídica firmada pelo Supremo Tribunal Federal, conforme previsto no artigo 543-B, § 3º, do Código de Processo Civil.
+    Tendo em vista que o Tribunal de Justiça do Estado do Amazonas decidiu manter o entendimento contrário à tese aqui firmada sobre o tema, incide a hipótese prevista no artigo 543-B, § 4º, do diploma de ritos, incumbindo a esta Suprema Corte a cassação ou reforma liminar da decisão contrária à orientação já firmada por esta Corte, impondo-se, in casu, a aplicação da segunda dessas hipóteses.
+    E isso porque, insistiu o Tribunal de origem na existência do direito adquirido da servidora ao percebimento da aludida vantagem, em aberto confronto com o que restou decidido no acórdão paradigma, em que se reafirmou a pacífica jurisprudência do Supremo Tribunal Federal sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico, concluindo-se, ainda, que a alteração de forma de cálculo de gratificações e, consequentemente, a recomposição da remuneração de servidores públicos não ofende a Constituição da República de 1988.
+    Mister, pois, a pronta reforma dessa decisão.
+    Observo, ainda, que o aludido acórdão, ora reformado, determinou, a seu final, que as autoridades acoimadas de coatoras, de imediato, atualizassem os proventos da impetrante, conforme a decisão então proferida, o que foi feito em claro confronto à decisão desta Suprema Corte sobre o tema, já proferida nos autos do acórdão paradigma, dantes referido e, o que é mais grave, em aberto desrespeito à ordem emanada do então Presidente do Supremo Tribunal Federal, Ministro Gilmar Mendes, nos autos do SS nº 3.886, cuja cópia se encontra às fls. 315 a 318.
+    Ante o exposto, dou provimento ao recurso extraordinário para, reformando liminarmente o acórdão recorrido, adequá-lo ao entendimento firmado pelo Supremo Tribunal Federal no julgamento do RE 563.965/RN, denegando, destarte a segurança impetrada por meio do presente mandamus.
+    Custas pela impetrante, não havendo que se falar em condenação em honorários de advogado, nos termos da Súmula nº 512, do Supremo Tribunal Federal.
+    Dê-se ciência desta decisão à Presidência do Tribunal de Justiça do Estado do Amazonas e extraiam-se cópias dos autos, encaminhando-se ao Conselho Nacional de Justiça,para as providências cabíveis, em face do supra noticiado.
+    Publique-se.
+    Brasília, 22 de junho de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
