@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF06 nº 61, de 22 de junho de 2011
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: COMÉRCIO VAREJISTA E ATACADISTA DE BATERIAS. Permanece reduzida a 0% (zero por cento) a alíquota da contribuição da COFINS relativamente à receita bruta auferida por comerciante atacadista ou varejista com a venda de acumuladores elétricos de chumbo para arranque dos motores de pistão, qualquer que seja a capacidade destes, porquanto tais produtos sujeitam-se à tributação concentrada no primeiro elo da cadeia produtiva, ou seja, a cargo dos fabricantes e importadores dos referidos produtos.
+DISPOSITIVOS LEGAIS: Lei nº 10.485/2002, artigo 3º, II, § 2º e Anexo I, Anexo do Decreto nº 6.006/2006 (Tabela do IPI), Seção XVI, Capítulo 85, Ato Declaratório Executivo RFB nº 12/2010 e Regra Geral para Interpretação do Sistema Harmonizado nº 1.
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: COMÉRCIO VAREJISTA E ATACADISTA DE BATERIAS. Permanece reduzida a 0% (zero por cento) a alíquota da contribuição para o PIS relativamente à receita bruta auferida por comerciante atacadista ou varejista com a venda de acumuladores elétricos de chumbo para arranque dos motores de pistão, qualquer que seja a capacidade destes, porquanto tais produtos sujeitam-se à tributação concentrada no primeiro elo da cadeia produtiva, ou seja, a cargo dos fabricantes e importadores dos referidos produtos.
+DISPOSITIVOS LEGAIS: Lei nº 10.485/2002, artigo 3º, II, § 2º e Anexo I, Anexo do Decreto nº 6.006/2006 (Tabela do IPI), Seção XVI, Capítulo 85, Ato Declaratório Executivo RFB nº 12/2010 e Regra Geral para Interpretação do Sistema Harmonizado nº 1.
+[arquivo anexo: SC SRRF06-Disit nº 61-2011.pdf]
