@@ -1,0 +1,2 @@
+Institui o Projeto Escola de Fábrica, autoriza a concessão de bolsas de permanência a estudantes beneficiários do Programa Universidade para Todos - PROUNI, institui o Programa de Educação Tutorial - PET, altera a Lei nº 5.537, de 21 de novembro de 1968, e a Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
