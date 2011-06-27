@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. INSTITUIÇÕES FINANCEIRAS. JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO MENSAL DOS JUROS. 1. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO NESTE PONTO. 2. CAPITALIZAÇÃO MENSAL DOS JUROS: QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Norte:
+    “Apelação Cível. Revisão contratual. Relação de consumo caracterizada. Aplicação do Código de Defesa do Consumidor. Juros remuneratórios. Inaplicabilidade do art. 192, § 3º, da Constituição Federal e da Lei de Usura. Fixação unilateral e abusiva de tais encargos. Redução admissível. Busca do equilíbrio contratual. Prática de anatocismo. Capitalização de juros caracterizada. Vedação de tal prática pelo ordenamento jurídico. Inteligência da Súmula 121 do Supremo Tribunal Federal. Conhecimento e não provimento do apelo.
+    (...)
+    Por outro lado, o fato de não ser auto-aplicável o já revogado art. 192, § 3º, da Carta Magna, não induz, necessariamente, ao conhecimento de validade dos juros estabelecidos no instrumento contratual.
+    Com efeito, em observância a Código de Defesa do Consumidor, não se pode legitimar os juros que tenham sido fixados de forma discriminada e unilateral por apenas uma das partes” (fls. 716 e 724).
+    2. O Recorrente alega que o Tribunal a quo teria afrontado os arts. 62 e 192, § 3º, da Constituição da República, ao declarar a inconstitucionalidade da Medida Provisória n. 2.170-36/2001.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Quanto aos juros remuneratórios, cumpre ressalvar que, diversamente do alegado pelo Recorrente, o acórdão recorrido não entendeu ser auto-aplicável o art. 192, § 3º, da Constituição da República, mas aplicou o Código de Defesa do Consumidor para rever as cláusulas referentes aos juros cobrados. Assim, a alegada ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS EM 12% AO ANO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E DA TAXA SELIC. CONTROVÉRSIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 614.273-AgR, de minha relatoria, Primeira Turma, DJ 24.8.2007).
+    E
+    “EMENTAS: RECURSO. Extraordinário. Inadmissibilidade. Taxa de juros. Limitação. Fundamentação com base na legislação infraconstitucional. Ofensa constitucional indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 585.833-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 6.10.2006).
+    4. Quanto ao ponto no qual se discute a constitucionalidade da capitalização mensal de juros (art. 5º da Medida Provisória n. 2.170/2001), este Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional suscitada no julgamento eletrônico do Recurso Extraordinário n. 568.396, Relator o Ministro Marco Aurélio. Esse tema também é objeto da Ação Direta de Inconstitucionalidade n. 2.316 e do Recurso Extraordinário n. 592.377.
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário, na parte relativa aos juros remuneratórios (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) e determino, após o trânsito em julgado dessa decisão, a devolução destes autos ao Tribunal a quo para que, quanto à capitalização mensal dos juros, seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 27 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
