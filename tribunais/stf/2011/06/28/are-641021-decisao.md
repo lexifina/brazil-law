@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROCESSO ADMINISTRATIVO DISCIPLINAR. PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DA MORALIDADE, PROBIDADE, RAZOABILIDADE E LEGALIDADE. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “AÇÃO ORIGINÁRIA DE MANDADO DE SEGURANÇA. OFICIAL DE JUSTIÇA. IRREGULARIDADES NO EXERCÍCIO DAS FUNÇÕES. PENA DE SUSPENSÃO. PRAZO LEGAL ULTRAPASSADO. PRESCRIÇÃO CONSUMADA. VIA ORDINÁRIA. SEGURANÇA EM PARTE CONCEDIDA. 1. O processo administrativo disciplinar deve ser concluído com imposição de pena em 140 dias, ou seja, o dobro do prazo previsto no art. 152 da Lei nº 8.112, de 1990, com o acréscimo de 20 dias previsto no art. 167 da mesma lei, conforme entendimento fixado pelo egrégio Supremo Tribunal Federal no RMS 23.436-DF. 2. Excedido o prazo, cessa a interrupção do prazo prescricional. E, lavrada a decisão administrativa após consumado o biênio prescricional, está consumada a prescrição. 3. Segurança parcialmente concedida para invalidar o ato administrativo e determinar o cancelamento de anotações do registro funcional do impetrante” (fl. 1094).
+    2. Afirma que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. LXIX, 37, inc. XVI e § 10, da Constituição da República.
+    Sustenta que “o impetrante não comprovou, de modo claro e induvidoso, com a inicial do 'writ', que a demora operou-se por culpa ou deliberada intenção dos Impetrados, não tendo sido demonstrado ato, comissivo ou omissivo, das Autoridades notificadas como coatoras”(fl. 1154).
+    Ressalta que “o fato do decurso de tempo entre a instauração e a conclusão do processo administrativo disciplinar decorreu dos sucessivos requerimentos, instrução probatória ampla, recursos e demais atos praticados pelo próprio Impetrante, razão pela qual concorreu, diretamente, para o transcurso do prazo assinalado pela v. Decisão embargada” (fl. 1154).
+    Alega que “a aplicação da prescrição intercorrente estaria premiando o procedimento intentado pelo próprio Impetrante” (fl. 1154).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de ausência de prequestionamento (fls. 1146-1147).
+    Examinados os elementos havidos nos autos, DECIDO .
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Cumpre afastar, inicialmente, o óbice imposto pela decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, a matéria constitucional posta à apreciação foi suscitada no momento processual adequado.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+    7. O Tribunal a quo asseverou que:
+    “O art. 290, II, da Lei Complementar Estadual nº 59, de 2001, dispõe que a ação disciplinar prescreverá em dois anos, no caso de infração punível com suspensão (...) Ora, o prazo de 140 dias foi excedido em muito porque instaurado o processo administrativo em 30.10.2003. Mas a decisão administrativa somente foi lavrada em 27.01.2006 (...) O biênio prescricional, contado a partir de 19.03.2003, estava há muito superado. Portanto, a prescrição intercorrente está mesmo consumada, o que torna pertinente a pretensão, eis que foi lesado o direito líquido e certo do impetrante” (fl. 1057).
+    Concluir de modo diverso do que assentado no acórdão recorrido demandaria o reexame da legislação infraconstitucional aplicável à espécie (Lei Complementar n. 59/2001 e Lei n. 8.112/1990). Assim a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie, providência vedada na instância extraordinária. 2. Violação às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. 3. Agravo regimental desprovido” (AI 766.515-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe, 1º.2.2011, grifos nosso).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DESAPROPRIAÇÃO. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A Corte tem se orientado no sentido de que a discussão sobre o prazo prescricional demanda análise de legislação infraconstitucional, A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (AI 763.823-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe, 11.4.2011, grifos nosso).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
