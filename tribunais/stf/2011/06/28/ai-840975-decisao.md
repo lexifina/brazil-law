@@ -1,0 +1,8 @@
+DECISÃO: Ausente o indispensável prequestionamento da matéria constitucional, que não se admite implícito (RTJ 125/1368 - RTJ 131/1391 - RTJ 144/300 - RTJ 153/989), incidem as Súmulas 282 e 356 desta Corte (RTJ 159/977).
+           De outro lado, cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, do contraditório, do devido processo legal e dos limites da coisa julgada podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 161/284 - AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO - AI 153.310-AgR/RS, Rel. Min. SYDNEY SANCHES - AI 185.669-AgR/RJ, Rel. Min. SYDNEY  SANCHES - AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO - AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO - RE 254.948/BA, Rel. Min. CELSO DE MELLO, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+           A espécie ora em exame não foge aos padrões acima mencionados, refletindo, por isso mesmo, possível situação de ofensa indireta às prescrições da Carta Política, circunstância essa que impede - como precedentemente já enfatizado - o próprio conhecimento do recurso extraordinário (RTJ 120/912, Rel. Min. SYDNEY SANCHES - RTJ 132/455, Rel. Min. CELSO DE MELLO).
+           Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+           Publique-se.
+           Brasília, 28 de junho de 2011.
+Ministro CELSO DE MELLO
+Relator
