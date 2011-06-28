@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Dionísia da Silva interpõe agravo de instrumento contra a decisão (fls. 118/119) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, inciso LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Sexta Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, que negou provimento ao Recurso em Sentido Estrito nº 360.788.3 (fls. 60 a 67).
+    Os embargos de declaração opostos (fls. 70 a 74) foram acolhidos apenas para registrar que não ocorreu violação ao dispositivo constitucional mencionado (fls. 75 a 80).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 22/5/09 (fl. 81), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, ão é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Sobre eventual transgressão ao dispositivo constitucional em questão, forçoso concluir que o Tribunal a quo ao decidir a questão se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Anote-se que a jurisprudência desta Suprema Corte é assente no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário.
+    Nesse sentido, anote-se:
+    “Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento” (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08);
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. 2. Agravo Regimental ao qual se nega provimento” (AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07).
+    Como se não bastasse, eventual análise acerca da alegada violação do princípio constitucional objeto do recurso demandaria o necessário reexame do conjunto fático-probatório, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula nº 279 da Corte.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 28 de junho de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
