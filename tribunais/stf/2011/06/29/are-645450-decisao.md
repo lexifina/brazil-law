@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna do acórdão com a seguinte ementa:
+    “Agravo de decisão monocrática do relator negando seguimento a apelo municipal e a reexame necessário, na forma do art. 557 'caput' do CPC – Mandado de segurança - Concurso público de ingresso para preenchimento de cargos de Professor de Ciências em Escolas Municipais - Alegação de que preterido candidato aprovado em certame anterior e ainda com prazo de validade - Direito líquido e certo à nomeação – Inteligência do art. 37, IV, da Constituição Federal e Súmula 15 do STF - Segurança concedida - Decisório que se sustenta - Recurso desprovido.” (fl. 167)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 37, IV, da Carta Magna.
+    O recorrente sustenta:
+    “Ainda que tivessem sido chamados os 206 candidatos do concurso de Professor Adjunto, o recorrido não teria sido alcançado, uma vez que somados os 555 candidatos do concurso de 2004 (professor adjunto) com os 206 do concurso de 2007 (professor titular), temos um total de 761 candidatos convocados.” (fl. 196)
+    Argumenta que “(...) realizou, em 2004, concurso de ingresso para o cargo de Professor Adjunto e, em 2007, concurso de ingresso e acesso para o cargo de Professor Titular, tendo em vista que se trata de cargos diferentes, para vagas diferentes”. (fl. 197 – grifo no original)
+    Sustentam ainda que com a edição da Lei municipal 14.660/2007, que alterou a carreira de magistério, deixou de existir o cargo de professor adjunto com lotação na Diretoria Regional de Educação.
+    Decido.
+    O recurso não merece prosperar.
+    O acórdão recorrido encontra-se em harmonia com a atual jurisprudência desta Corte no sentido de que o candidato aprovado em concurso público possui direito subjetivo à nomeação para a posse nos cargos vagos existentes, bem como naqueles que vierem a vagar no prazo de validade do concurso.
+    Dessa forma, configura prática incompatível com o texto constitucional a abertura de novo certame para o preenchimento de vaga prevista em concurso anterior, ainda válido, no qual remanesce candidato aprovado e ainda não convocado. Nesse sentido, RE-AgR 419.013, Rel. Min. Carlos Velloso, Segunda Turma, DJ 25.6.2004, e RE 227.480, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 21.8.2009, cuja ementa dispõe:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO DE APROVADOS EM CONCURSO PÚBLICO. EXISTÊNCIA DE VAGAS PARA CARGO PÚBLICO COM LISTA DE APROVADOS EM CONCURSO VIGENTE: DIREITO ADQUIRIDO E EXPECTATIVA DE DIREITO. DIREITO SUBJETIVO À NOMEAÇÃO. RECUSA DA ADMINISTRAÇÃO EM PROVER CARGOS VAGOS: NECESSIDADE DE MOTIVAÇÃO. ARTIGOS 37, INCISOS II E IV, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO. 1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso. 2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário. 3. Recurso extraordinário ao qual se nega provimento.”
+    Ademais, o acórdão recorrido, ao citar trecho da sentença, assentou:
+    “(...) não vencido o prazo de validade do concurso no qual aprovado o impetrante (cf. fls. 12 c.c. 20), não podia a Administração convocar candidatos, para o mesmo cargo, de certame posterior (fl. 21), sem falar que a Lei Municipal nº 14.660/07, a unificar carreiras de professor adjunto e titular, prevê o aproveitamento dos candidatos aprovados no concurso do qual participou o ora postulante (professor adjunto), (...).” (fl. 169)
+    Assim, para dissentir do acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas analisados, bem como o exame da legislação local (Lei Municipal nº 14.660/07), o que é inviável pela via extraordinária, conforme as Súmulas 279 e 280.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 29 de junho de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
