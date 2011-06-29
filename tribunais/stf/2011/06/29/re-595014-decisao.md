@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu devida a inclusão dos juros legais no pagamento das parcelas previstas no art. 78 do ADCT.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 33 e 78 do ADCT.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido encontra-se em desacordo com a orientação da Corte que, ao julgar o RE 155.979/SP, Relator Ministro Marco Aurélio, entendeu pela exclusão dos juros moratórios e compensatórios do pagamento de precatórios decorrentes de desapropriação, contanto que sejam respeitadas as épocas próprias de vencimento das prestações. O acórdão possui a ementa a seguir transcrita:
+    “JUROS – DÉBITO DA FAZENDA – ARTIGO 33 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. O preceito no artigo 33 do Ato das Disposições Constitucionais Transitórias encerra uma nova realidade. Faculta-se ao Estado a satisfação dos valores pendentes de precatórios, neles incluídos os juros remanescentes. Observadas as épocas próprias das prestações – vencimentos – impossível é cogitar da mora, descabendo, assim, a incidência dos juros, no que pressupõem inadimplemento e, portanto, a ‘mora solvendi’. Os compensatórios têm a incidência cessada em face da referência apenas aos remanescentes e às parcelas tidas como iguais e sucessivas”.
+    Ademais, o Plenário do Supremo Tribunal Federal, no julgamento do RE 590.751-RG/SP, de minha relatoria, entendeu que a interpretação conferida pela Corte ao art. 33 do ADCT aplica-se, também, ao art. 78 do mesmo Ato, ante a identidade teleológica dos dois dispositivos. Desse modo, concluiu-se pela não incidência de juros moratórios e compensatórios sobre as frações resultantes do parcelamento de precatórios previsto naquelas duas normas. Por oportuno, destaco a ementa do referido acórdão:
+    “CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC 30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO. NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO.
+    I – O art. 78 do ADCT possui a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.
+    II – Não se mostra possível, em sede de recurso extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF.
+    III - A discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de legislação ordinária, que não dá ensejo à abertura da via extraordinária.
+    IV - Recurso extraordinário parcialmente provido”.
+    No mesmo sentido, as seguintes decisões entre outras: RE 463.349-AgR/SP, Rel. Min. Cármen Lúcia; RE 396.389/SP, Rel. Min. Gilmar Mendes; RE 519.990-AgR-ED/SP, Rel. Min. Ellen Gracie.
+    Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 29 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+– Relator –
