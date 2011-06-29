@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região a seguir ementado:
+    “ADMINISTRATIVO – GRATIFICAÇÕES ELEITORAIS – CHEFES DE CARTÓRIO E ESCRIVÃES ELEITORAIS – LEIS 8.350/91, 8.868/94, 9.421/96 – LEGALIDADE DA RESOLUÇÃO N. 19.784/97 E DA PORTARIA 158/2002 DO COLENDO TSE – PRECEDENTE DESTE TRF – REMESSA OFICIAL E APELAÇÃO INTERPOSTAS PELA UNIÃO PROVIDAS.
+    1. A presente demanda objetiva o reconhecimento da inconstitucionalidade e ilegalidade da Resolução 19.784/97 e da Portaria 158/02, ambas expedidas pelo egrégio Tribunal Superior Eleitoral, a fim de que se declara o direito dos autores a perceberem o valor correspondente à integralidade da FC durante o período em que exerceram o cargo de Escrivães Eleitorais e/ou Chefes de Cartório.
+    2. O Pleno deste egrégio Tribunal Regional Federal da 5ª Região já se manifestou pela legalidade da Resolução 19.784/97 e da Portaria 158/02, devendo as gratificações mensais de Chefe de Cartório e Escrivão Eleitoral serem pagas em montante correspondente a apenas o ‘valor base’ das FCs respectivas, tendo em vista que o novo sistema remuneratório não permite que os servidores do Poder Judiciário recebam o ‘valor cheio’ da função, quando fazem a opção pela percepção cumulativa com a remuneração do cargo efetivo.
+    3. A Resolução 19.784/97 e a Portaria 158/02, ambas do TSE, apenas estabelecem para os servidores requisitados os mesmos requisitos exigidos dos servidores do Poder Judiciário da União para a percepção de função comissionada, não limitando nem ampliando a extensão dos diplomas legislativos, mas apenas atuando secundum legem, a fim de estabelecer uma interpretação sistemática das normas de regência (Leis 9.461/96 e 10.745/02).
+    4. Remessa oficial e apelação da União providas. Honorários advocatícios devidos pela parte vencida no valor de R$ 500,00 (quinhentos reais)”. (fl. 232)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, II; e 37, X e XV, do Texto Constitucional, ao argumento de que não é admissível ao Administrador alterar a remuneração dos servidores públicos por meio de Resolução e Portaria.
+    Decido.
+    No caso, não verifico a ilegalidade da Resolução 19.784/97 e da Portaria 158/02, uma vez que, conforme bem assentado pelo Tribunal de origem, os referidos diplomas legais
+    “apenas estabelecem para os servidores requisitados os mesmos requisitos exigidos dos servidores do Poder Judiciário da União para a percepção de função comissionada, não limitando nem ampliando a extensão dos diplomas legislativos, mas apenas atuando secundum legem, a fim de estabelecer uma interpretação sistemática das normas de regência (Leis 9.461/96 e 10.745/02)
+    A Justiça Eleitoral, tão-somente, interpretou o sistema novo introduzido pela Lei 9.421/96, em face da Lei 8.868/94, dando-se aos chefes de cartório ou aos escrivães eleitorais, o mesmo tratamento dos demais funcionários públicos do Poder Judiciário da União”. (fl. 227)
+    Ademais, em nenhum dos dispositivos constitucionais mencionados pelos recorrentes verifica-se a obrigação do pagamento de função cheia aos servidores públicos, matéria esta de índole infraconstitucional, regulada atualmente pela Lei 11.416/2006.
+    Nesses termos, inviável o processamento do recurso extraordinário, uma vez que a violação constitucional, se existente, se daria de forma reflexa. Nesse sentido, confira-se o RE 635.039, da relatoria do Min. Ricardo Lewandowski, DJe 7.6.2011.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 29 de junho de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
