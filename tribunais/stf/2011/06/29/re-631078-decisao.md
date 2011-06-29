@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL - CONSTITUCIONAL E ADMINISTRATIVO - AÇÃO DE REVISÃO DE PROVENTOS DE INATIVIDADE - APOSENTADORIA POR INVALIDEZ - CUMULAÇÃO DO AUXÍLIO INVALIDEZ COM O ADICIONAL DE INATIVIDADE - IMPOSSIBILIDADE - INTELIGÊNCIA DO ART. 37, INCISO XIV DA CONSTITUIÇÃO FEDERAL - VANTAGENS COM A MESMA NATUREZA - GRATIFICAÇÃO DE PERICULOSIDADE E AUXÍLIO- MORADIA E GRATIFICAÇÃO ESPECIAL - PAGAMENTO INDISTINTO - APLICAÇÃO DO ART. 40,§8º DA CF COM REDAÇÃO ANTERIOR À EMENDA Nº 41/2003- PRINCÍPIO CONSTITUCIONAL DA ISONOMIA - EXTENSÃO DE VANTAGENS PECUNIÁRIAS CONFERIDAS AOS SERVIDORES EM ATIVIDADE - CUSTAS E HONORÁRIOS ADVOCATÍCIOS REDIMENSIONADOS - RECURSO CONHECIDO E PROVIDO PARCIALMENTE - DECISÃO UNÂNIME.
+    1- Pela inteligência do art. 37, inciso XIV da CF/88, torna-se inviável acumular o auxílio-invalidez com o adicional de inatividade decorrente de reforma por incapacidade laborativa, por terem a mesma natureza, ou seja, a inaptidão para o trabalho.
+    2- A regra da paridade, prevista no artigo 40, §8º da Constituição Federal, com a redação anterior à Emenda Constitucional nº41/2003, alcança todas as vantagens pecuniárias de caráter geral. Desta forma, as gratificações concedidas em caráter genérico ao pessoal da ativa devem ser extensivas aos inativos e pensionistas por força do artigo 40, § 8º, da Constituição Federal “(fls 128-129).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 37, caput, e 40, § 8º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a decisão recorrida dirimiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Estaduais 2.148/1977 e 2.241/1979) e na análise do conjunto fático-probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, bem como do acervo probatório que instrui este processo, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 280 e 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 281.260-AgR/SE, Rel. Min. Maurício Corrêa; RE 249.216-AgR/SE, Rel. Min. Carlos Britto; RE 309.210/SE, Rel. Min. Ellen Gracie; RE 544.717/SE, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
