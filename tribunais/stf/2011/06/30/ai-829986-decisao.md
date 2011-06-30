@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco. O acórdão recorrido possui a seguinte ementa (fls. 68):
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDORES MILITARES. SOLDO INFERIOR A VENCIMENTO BÁSICO DE REFERÊNCIA. POSSIBILIDADE. REMUNERAÇÃO TOTAL SUPERIOR AO SALÁRIO MÍNIMO. INOCORRÊNCIA DE VIOLAÇÃO A DIREITO ADQUIRIDO. RECURSO DE AGRAVO DESPROVIDO À UNANIMIDADE. 1. Embora os soldos percebidos pelos agravados sejam inferiores a R$ 130,00 (cento e trinta reais), valor mínimo estabelecido na Lei nº 11.216/95 e correspondente ao Vencimento Básico de Referência, a jurisprudência do STJ é pacífica no sentido de que se tal inferioridade se faz possível, desde que a remuneração total seja igual ou ultrapasse o salário mínimo. 2. Inteligência do art. 7º, IV da CF. 3. Portanto, não existe, na espécie, violação ao instituto do direito adquirido. 4. Decisão unânime.”
+    O agravante, no recurso extraordinário, alega ofensa aos artigos 7º, IV; 37 e 39, § 3º, da Constituição federal.
+    Não prospera o recurso.
+    A jurisprudência desta Corte firmou-se no sentido de que a garantia do salário mínimo é aplicável à remuneração do policial militar, não ao vencimento básico ou soldo. Neste sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR MILITAR ESTADUAL: ESTADO DE PERNAMBUCO. SALÁRIO-MÍNIMO. I. - A Lei estadual que garante aos servidores militares estaduais soldo não inferior ao salário-mínimo deve ser interpretada como referindo-se à remuneração do servidor. II. - Precedentes do STF: RE 198.982, Ilmar Galvão, Plenário; RE 197.072/SC, Marco Aurélio, Plenário, "DJ" de 08.6.01; RE 199.088/SC, Ilmar Galvão, Plenário, "DJ" de 18.5.01. III. - Voto vencido do Ministro Carlos Velloso: ressalva do entendimento pessoal. IV. - Agravo não provido.” (RE 304.842-AgR, min. rel. Carlos Velloso, Segunda Turma, DJ 19.12.2002)
+    “Servidor público: salário mínimo. 1. É da jurisprudência do STF que a remuneração total do servidor é que não pode ser inferior ao salário mínimo (CF, art. 7º, IV). 2. Ainda que os vencimentos sejam inferiores ao mínimo, se tal montante é acrescido de abono para atingir tal limite, não há falar em violação dos artigos 7º, IV, e 39, § 2º, da Constituição. 3. Inviável, ademais, a pretensão de reflexos do referido abono no cálculo de vantagens, que implicaria vinculação constitucionalmente vedada (CF, art. 7º, IV, parte final).” (RE 439.360-AgR, min. rel. Sepúlveda Pertence, Primeira Turma, DJ 02.09.2005)
+    “Agravo regimental em agravo de instrumento. 2. Militar. Soldo. Vinculação ao salário mínimo. Impossibilidade. 3. Remuneração total não inferior ao salário-mínimo. Precedentes. 4. Agravo regimental a que se nega provimento.” (AI 584.955-AgR, min. rel. Gilmar Mendes, Segunda Turma, DJ 15.09.2006).
+    O acórdão recorrido não divergiu desse entendimento.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
