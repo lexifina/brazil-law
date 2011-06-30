@@ -1,0 +1,11 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual concluiu pela inexistência de direito da parte ora agravante à complementação de aposentadoria nos termos das Leis Estaduais 4.819/58 e 200/74.
+    2. Nas razões do RE, sustenta-se ofensa aos artigos 5º, XXXVI, 40, § 3º e 201, § 9º, todos da Constituição Federal.
+    3.  O recurso não merece prosperar, dado que o acórdão recorrido decidiu a questão com fundamento na legislação infraconstitucional aplicável à espécie (Leis Estaduais 4.819/58 e 200/74). Assim, eventual ofensa à Constituição Federal seria indireta e reflexa. Incide, no presente caso, o óbice da Súmula STF 280. Vejam-se: AI 782.774/SP, de minha relatoria, DJe 12.05.2011; RE 591.414/SP, rel. Min. Cezar Peluso, DJe 15.12.2008; RE 594.848/SP, rel. Min. Ricardo Lewandowski, DJe 15.4.2009; AI 601.549-ED-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 27.3.2009; AI 657.855/SP, rel. Min. Menezes Direito, DJe 26.5.2009, e, no mesmo sentido:
+    “(...) 2. RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Complementação de aposentadoria. Lei nº 4.819/58 e LC nº 200/74, do Estado de São Paulo. Ofensa a direito local. Súmula 280. Agravo regimental não provido. A questão relativa à complementação de aposentadoria fundada na Lei estadual nº 4.819/58 e na Lei Complementar estadual nº 200/74, é infraconstitucional, cujo reexame não é admitido em recurso extraordinário“(AI 418.313/SP-AgR, 1ª Turma, rel. Min. Cezar Peluso, DJ 02.6.2006).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEIS ESTADUAIS Ns. 4.819/58, 1.386/51 E 200/74. OFENSA INDIRETA. INTERPRETAÇÃO DE NORMA LOCAL. Controvérsia afeta à interpretação de norma local, incidência da Súmula 280. Eventual ofensa à Constituição do Brasil adviria, quando muito, de forma indireta. Agravo regimental a que se nega provimento“(AI 568.155/SP-AgR, 2ª Turma, rel. Min. Eros Grau, DJ 1º.9.2006).
+    4. Ademais, esta Corte manifestou-se pela inexistência de repercussão geral da matéria no RE 585.392-RG/SP, de minha relatoria, DJe 18.12.2009.
+    5. Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
