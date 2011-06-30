@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+           Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o RE 429.306/PR, Rel. Min. JOAQUIM BARBOSA, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. IMPORTAÇÃO. ARRENDAMENTO MERCANTIL (LEASING). INCIDÊNCIA.
+    1. Recurso extraordinário em que se argumenta a não incidência do II e do IPI sobre operação de importação de sistema de tomografia computadorizada, amparada por contrato de arrendamento mercantil.
+    2. Alegada insubmissão do arrendamento mercantil, que seria um serviço, ao fato gerador do imposto de importação (art. 153, I, da Constituição). Inconsistência. Por se tratar de tributos diferentes, com hipóteses de incidência específicas (prestação de serviços e importação, entendida como a entrada de bem em território nacional - art. 19 do CTN), a incidência concomitante do II e do ISS não implica bitributação ou de violação de pretensa exclusividade e preferência de cobrança do ISS.
+    3. Violação do princípio da isonomia (art. 150, II, da Constituição), na medida em que o art. 17 da Lei 6.099/1974 proíbe a adoção do regime de admissão temporária para as operações amparadas por arrendamento mercantil. Improcedência. A exclusão do arrendamento mercantil do campo de aplicação do regime de admissão temporária atende aos valores e objetivos já antevistos no projeto de lei do arrendamento mercantil, para evitar que o leasing se torne opção por excelência devido às virtudes tributárias e não em razão da função social e do escopo empresarial que a avença tem.
+    4. Contrariedade à regra da legalidade (art. 150, I, da Constituição), porque a alíquota do imposto de importação foi definida por decreto, e não por lei em sentido estrito. O art. 153, § 1º, da Constituição estabelece expressamente que o Poder Executivo pode definir as alíquotas do II e do IPI, observados os limites estabelecidos em lei.
+    5. Vilipêndio do dever fundamental de prestação de serviços de saúde (art. 196 da Constituição), pois o bem tributado é equipamento médico (sistema de tomografia computadorizada). Impossibilidade. Não há imunidade à tributação de operações ou bens relacionados à saúde. Leitura do princípio da seletividade.
+    Recurso extraordinário conhecido, mas ao qual se nega provimento.”
+           Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (RE 396.254/PR, Rel. Min. JOAQUIM BARBOSA - RE 612.083/PR, Rel. Min. CÁRMEN LÚCIA, v.g.).
+           O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+           Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+           Publique-se.
+           Brasília, 30 de junho de 2011.
+    Ministro CELSO DE MELLO
+    Relator
