@@ -1,0 +1,13 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto por ofensa ao artigo 8º, VIII, da Constituição Federal contra acórdão do Tribunal Superior do Trabalho que deu provimento ao recurso de revista para afastar a estabilidade provisória do reclamante e excluir a condenação de reintegração no emprego, nos seguintes termos (fls. 532-536):
+    “ESTABILIDADE SINDICAL. Nos termos do item II da Súmula 266 do TST, ‘o art. 522 da CLT, que limita a sete o número de dirigentes sindicais, foi recepcionado pela Constituição Federal de 1988’. Recurso de revista conhecido e provido”.
+    2. Os embargos de declaração opostos (fls. 545-551) foram “acolhidos tão-somente para acrecer à fundamentação do acórdão as razões ora consignadas no voto” (fls. 552-554).
+    3. A Corte Trabalhista asseverou que não há violação direta à norma constitucional, e, se houvesse, seria meramente reflexa (fls. 575-576).
+    4. O agravante sustenta, em síntese, que, além da violação direta à norma constitucional garantidora da estabilidade do dirigente sindical, inclusive dos suplentes, “o número de membros do órgão representativo da classe depende do âmbito territorial de atuação da citada entidade”.
+    5. O agravo não merece prosperar. O acórdão recorrido, ao tratar do número de dirigentes sindicais que fazem jus à estabilidade provisória, no termos do art. 522 da CLT, assentou entendimento consonante com a orientação da Suprema Corte no sentido de que a estabilidade dos dirigentes sindicais somente pode ser assegurada nos limites do art. 522 da CLT, dispositivo esse que foi recepcionado pelo inciso I do art. 8º da Constituição Federal. Nesse sentido, RE 193.345/SC, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 28.5.1999; AI 277.432-AgR, rel. Min. Nelson Jobim, 2ª Turma, unânime, DJ 27.10.2000; e AI 507.409-ED, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 1º.7.2005, entre outros julgados.
+          É o que se depreende do seguinte trecho do voto proferido no Tribunal Superior do Trabalho:
+    “(...) a autonomia sindical assegurada pelo art. 8º, inciso I da Carta da República não garante ao Sindicato o direito de eleger qualquer quantidade de membros para sua administração, reivindicando, para todos, o status de dirigente estável no emprego. A liberdade de auto-organização deve ser exercida nos limites da lei, sob risco de configurar exercício abusivo de direito” (fl. 535v.).
+    6.  Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
