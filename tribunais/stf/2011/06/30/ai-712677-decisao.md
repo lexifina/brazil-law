@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor:
+    “ REINTEGRAÇÃO DE POSSE - CERCEAMENTO DE DEFESA - JUNTADA DE AUTO DE CONSTATAÇÃO - AUSÊNCIA DE VISTA ÀS PARTES - CONTRATO DE COMODATO - POSSE INDIRETA DOS BENS - INCORPORAÇÃO E SUCESSÃO - SUCUMBÊNCIA MÍNIMA. - Não configura cerceamento de defesa a juntada de auto de constatação elaborado por oficial de justiça informando a existência dos bens objeto da ação de reintegração de posse, pois a parte tinha conhecimento da existência de tais bens em seu estabelecimento comercial e acompanhou a realização da diligência. - Na espécie, restando comprovado nos autos que a autora incorporou a empresa que cedeu os bens em comodato, sucedendo-a em direitos e deveres, improcede a alegação de ausência de comprovação da posse indireta dos bens. - Tendo a parte autora decaído de parte mínima de seu pedido, deve ser aplicado o parágrafo único do art. 21 do Código de Processo Civil, que dispõe que as custas e os honorários advocatícios devem ser suportados inteiramente pela parte vencida.” (Fls. 234)
+    Alega-se, no recurso extraordinário, violação do art. 5º, LV, da Constituição, com a determinação de diligência, ex officio, para se aferir quais bens se encontravam no posto de gasolina.
+    Inviável o recurso.
+    A análise da apontada ofensa ao art. 5º, LV, da Constituição, nos moldes como ventilada nas razões recursais, demandaria o exame prévio da legislação processual infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. Trata-se, portanto, de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, também, a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
