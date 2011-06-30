@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a) interposto de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa tem o seguinte teor (fls. 457):
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. CONSTITUCIONAL. SERVIDORES CELETISTAS DA EXTINTA SUDENE. REAJUSTE SALARIAL. RECLAMAÇÃO TRABALHISTA AJUIZADA EM 1989. DEFERIMENTO. EXECUÇÃO DOS VALORES. DEFERIMENTO PARCIAL. VIGÊNCIA DA LEI 8.112/90. OBRIGAÇÃO ADIMPLIDA. SENTENÇA TRANSITADA EM JULGADO NO TST. NOVA AÇÃO DE EXECUÇÃO DA SENTENÇA, AGORA PROPOSTA NA JUSTIÇA FEDERAL. INCOMPETÊNCIA ABSOLUTA. ARTIGOS 109, I E 114 DA CF/88. SÚMULA 97 DO STJ. AUSÊNCIA DE PRESSUPOSTO PROCESSUAL. EXTINÇÃO NOS TERMOS DOS ARTIGOS 267, IV E 586 DO CPC. APELAÇÃO IMPROVIDA. PRECEDENTES DO STJ.
+    1. Reclamação trabalhista ajuizada por servidores celetistas da extinta SUDENE em outubro de 1989, objetivando reajustar suas remunerações de acordo com os percentuais da URP de abril de 1988 e de fevereiro de 1989.
+    2. Processo de execução que transcorreu integralmente na Justiça do Trabalho, com trânsito em julgado no Tribunal Superior do Trabalho.
+    3. O Eg. TST entendeu que a Justiça do Trabalho era competente para julgar o pleito, não vislumbrando ofensa aos artigos 109, I, e 114 da Constituição Federal. Ademais, reiterou decisão do TRT da 6ª Região segundo a qual o crédito principal já teria sido pago, sendo alusivo a diferenças referentes ao período anterior à vigência da Lei 8.112/90.
+    2. “Se o pedido se refere a verbas oriundas de contrato de trabalho, havidas em data anterior ao citado diploma, a competência é da justiça laboral” (STJ, 3ª Seção, ac 14.071, rel Min. Cid Flaquer Scartezzini, AC de 26 – 9 – 1995, DJU, 4 dez. 1995, p. 42078).
+    3. Aplicação da Súmula 97 do STJ: “Compete à Justiça do Trabalho processar e julgar reclamação de servidor público relativamente a vantagens trabalhistas anteriores à instituição do regime jurídico único”.
+    4. Destarte, é absolutamente incompetente a Justiça federal para a execução de valores tidos como não recebidos pelos exeqüentes, sob pena de ofensa à coisa julgada constituída no âmbito do órgão jurisdicional competente.
+    5. Apelação improvida.”
+    Nas razões do recurso, indica-se ofensa ao disposto nos arts. 5º, XXXVI, 109, I, e 114, I, da Constituição federal.
+    É o relatório. Decido.
+     O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+    Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+    No presente caso, o recurso extraordinário trata sobre os temas em que a repercussão geral já foi reconhecida pelo Supremo Tribunal Federal, no julgamento do RE 590.880-RG (rel. min. Ellen Gracie, DJe de 20.02.2009), assim ementado:
+    “Processo Civil. Execução. Definição da competência para, após a instituição do regime jurídico único dos servidores públicos federais (Lei nº 8.112/90), julgar os efeitos de decisão anteriormente proferida pela Justiça do Trabalho. Inexigibilidade do título executivo judicial (artigo 884, § 5º, da CLT). Reajuste do Plano Collor a servidores públicos federais. Decisão do Supremo Tribunal Federal. Extensão do precedente aos casos com trânsito em julgado. Coisa julgada (artigo 5º, XXXVI, da Constituição Federal). Existência de repercussão geral, dada a relevância das questões versadas.”
+    Do exposto, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
