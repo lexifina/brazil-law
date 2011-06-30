@@ -1,0 +1,14 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por considerá-lo intempestivo. O acórdão está assim ementado:
+    “Apelação Cível. Embargos à Execução Fiscal. ICMS. A não cumulatividade dá-se com a compensação do que for devido em cada operação com o montante efetivamente cobrado nas anteriores e não do que supostamente deveria ter sido cobrado em razão da discussão sobre o diferencial de alíquotas baseado em suposta inconstitucionalidade da Resolução nº 07/80, já superada pelo STF e pela emenda nº 23/83. inteligência do art. 155, II, § 2º, I, da CF/88. Recurso de Apelação e Remessa Necessária providos” (fls. 40-41).
+          No RE, sustenta-se ofensa aos artigos 155, § 2º, I, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que a decisão agravada foi publicada no Diário da Justiça em 1º.7.2004, quinta-feira (certidão de fl. 48), exaurindo-se o decêndio (art. 544 do CPC, com redação anterior à Lei 12.322/2010) em 17.8.2004, segunda-feira. Entretanto, a petição de recurso extraordinário foi protocolada em 05.12.2005, segunda-feira (fl. 64), após o exaurimento do prazo legal de dez dias. Revela-se, portanto, intempestivo o presente recurso.
+    3. Nesse sentido cito o AI 733.478/BA, rel. Min. Dias Toffoli, DJe 09.5.2011, caso semelhante ao dos presentes autos, em que constam como agravado e agravante as mesmas partes, do qual destaco o seguinte trecho:
+    “A irresignação não merece prosperar.
+    Verifica-se que o recurso extraordinário foi interposto em 5/12/05 (fl. 64). Todavia, o acórdão recorrido foi publicado em 1°/7/04 (fl. 47), sendo notória, portanto, a intempestividade do referido recurso.
+    Ocorre que o ora agravante justifica o transcurso desse lapso temporal em virtude da nomeação de novo patrono e a impossibilidade deste mandatário ter acesso aos autos devido à retenção dos mesmos por outro advogado anteriormente constituído pelo agravante. Na petição do recurso extraordinário dispõe o ora agravante que em face deste fato foi ‘devolvido in totum o prazo recursal’ e que, por isso, ‘não há que se falar em preclusão temporal, e por conseguinte em intempestividade do presente recurso’ (fl. 67). Porém, o despacho que apreciou o pedido de restituição desse prazo recursal, assim consignou: ‘Deixo de deferir o quanto requerido sobre o transcurso in albis do prazo recursal em razão da nomeação do novo patrono’ (fl. 59).
+    Observa-se, ainda, que o despacho de folha 61, somente deferiu o pedido de vistas dos autos, não podendo, portanto, a data da publicação desta decisão ser parâmetro para o termo inicial da fruição do prazo recursal do recurso extraordinário. Portanto, intempestivo o apelo extremo”.
+    4. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
