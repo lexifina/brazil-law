@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, em que se alega violação do disposto no art. 93, IX, da Constituição.
+    Transcrevo a ementa (991):
+    “AÇÃO DE RESPONSABILIDADE CIVIL POR ATOS DE IMPROBIDADE ADMINISTRATIVA- DANOS A INTERESSE DIFUSO- ADEQUAÇÃO DO MEIO PROCESSUAL-INTERPRETAÇÃO DO ART. 1º, IV, DA LEI 7.347/85- LEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO DECORRENTE DO DISPOSTO NO ART. 129, III, DA C.F.- AGRAVO RETIDO NÃO PROVIDO.
+    PROCESSO CIVIL- DESPACHO DANDO POR ENCERRADA A INSTRUÇÃO- REQUERIMENTO DE PRODUÇÃO DE PROVA DESPICIENDA OU INCABÍVEL- AGRAVO RETIDO NÃO PROVIDO.
+    AÇÃO DE RESPONSABILIDADE CIVIL POR ATOS DE IMPROBIDADE ADMINISTRATIVA- PLANO DE ATENDIMENTO À SAÚDE- PAS- LEI MUNICIPAL 11.866/95- SAÍDA DE DINHEIRO DOS COFRES PÚBLICOS EM FAVOR DE EMPRESA QUE NADA FORNECEU À COOPERPAS/MED 1- RESPONSABILIZAÇÃO DO SECRETÁRIO MUNICIPAL DE SAÚDE, QUE DISPENSOU LICITAÇÃO EXIGÍVEL, DOS MÉDICOS RESPONSÁVEIS PELO MÓDULO 1 DE ATENDIMENTO E PELA COOPERPAS/MED 1 E DA EMPRESA CONTRATADA PARA GERENCIAR E ASSESSORAR O SISTEMA- AÇÃO PROCEDENTE- SENTENÇA CONFIRMADA.”
+    Inexiste a alegada ofensa ao art. 93, IX, da Constituição. Com efeito, o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a parte agravante.
+    Do exposto, nego seguimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
