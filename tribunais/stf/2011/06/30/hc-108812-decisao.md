@@ -1,0 +1,15 @@
+Decisão:
+    Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra decisão singular de Ministro do Superior Tribunal de Justiça (relator do HC 206.871). Decisão que indeferiu o provimento cautelar ali requestado.
+    2. Pois bem, antes mesmo de um pronunciamento de mérito por parte do Superior Tribunal de Justiça e do Tribunal de Justiça de São Paulo, o impetrante renova a tese de que o decreto prisional da paciente não se acha regularmente fundamentado. Paciente inicialmente denunciada por latrocínio, na forma do § 3º do artigo 157 do Código Penal. Estes os principais fundamentos da impetração: a) não se comprovou a efetiva participação da acusada no delito; b) “a paciente é pessoa íntegra, de bons antecedentes e que jamais respondeu a qualquer processo crime”; c) estão preenchidos os requisitos necessários à concessão de liberdade provisória (artigo 310 do CPP). Donde o pedido de concessão liminar da ordem para que a paciente aguarde o desfecho do processo-crime, em liberdade.
+    3. Ultimada esta síntese da causa, decido. Fazendo-o, lembro a pacífica jurisprudência deste Supremo Tribunal Federal no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, Rel. Min. Moreira Alves; HC 76.347-QO, Rel. Min. Moreira Alves; HC 79.238, Rel. Min. Moreira Alves; HC 79.748, Rel. Min. Celso de Mello; e HC 79.775, Rel. Min. Maurício Corrêa). Jurisprudência que deu origem à súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.”
+    4. É certo que esse entendimento jurisprudencial sumular comporta relativização, mas apenas quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). O que não me parece ser o caso dos autos. Caso em que a leitura prefacial das peças que instruem este processo não favorece o imediato acatamento das teses defensivas. Para cimentar esse ponto de vista, reproduzo uma pequena passagem do decreto prisional:
+    “[...]
+    É certo que as circunstâncias do delito apontam personalidade dotada de estruturação criminosa, demonstrando alta periculosidade por parte dos acusados [...] Não obstante, vale ressaltar que a decretação da prisão se impõe para a segurança das testemunhas, dentre as quais parentes da própria vítima...
+    [...]”
+    (Grifos acrescidos)
+    5. Por tudo quanto posto, não tenho como remover o óbice da Súmula 691 do STF. Motivo pelo qual nego seguimento ao habeas corpus e determino o arquivamento dos autos (art. 38 da Lei nº 8.038/90, combinado com o § 1º do artigo 21 do RI/STF). O que não impede a rediscussão da matéria nas instâncias judicantes competentes.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
