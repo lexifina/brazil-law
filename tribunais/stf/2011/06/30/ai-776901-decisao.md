@@ -1,0 +1,31 @@
+Decisão: Trata-se de decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça de Minas Gerais assim ementado:
+    “Apelação cível. Ação declaratória. Ato administrativo. Servidor público do Poder Judiciário detentor de função pública. Precariedade. Dispensa ‘ad nutum’. Possibilidade. Recurso não provido.
+    1. O ingresso no serviço público através de concurso é norma constitucional e, tão-somente, aos servidores concursados é garantido o direito à estabilidade após o cumprimento de requisitos legais.
+    2. É inconstitucional a efetividade prevista na Emenda Constitucional estadual n. 49, de 2001.
+    3. O art. 106, ‘e’, da Lei Estadual n. 869, de 1952, determina a exoneração automática do detentor de função pública, após a homologação do resultado do concurso para provimento de cargo ocupado.
+    4. O servidor público contratado a título precário pode ser dispensado a qualquer tempo a critério e conveniência da Administração Pública, dispensando-se, em tais casos, a instauração de procedimento administrativo.
+    5. Apelação cível conhecida e não provida, mantida a sentença que rejeitou a pretensão inicial”. (fl. 391)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, LIV, e LV; 37, caput, da Carta Magna.
+    O recorrente alega, em síntese, que, apesar de ter sido designado para cargo público sem prévia aprovação em concurso público, possui efetividade nos termos da Emenda Constitucional estadual n. 49/2001.
+    Salienta que sua dispensa foi arbitrária, pois violou os princípios da legalidade, da ampla defesa e do contraditório.
+    Decido.
+    O recorrente aduz ser efetivo no cargo nos termos da Emenda Constitucional estadual n. 49/2001, contudo o Tribunal de origem assentou que a efetividade prevista no referido diploma legal é inconstitucional, in verbis:
+    “Acrescento, no que tange à Emenda Constitucional estadual nº 49, de 2001, que este Tribunal, reiteradamente, vem decidindo pela sua inconstitucionalidade”. (fl. 396)
+    Ademais, apenas se adquire efetividade em cargo público mediante prévia aprovação em concurso, ressalvada a hipótese prevista no artigo 19 do ADCT, não configurada no caso dos autos.
+    Nesse sentido, pacífica a jurisprudência desta Corte no sentido de ser obrigatória a aprovação em concurso público para ingresso no serviço público após a promulgação da Constituição Federal de 1988; confira-se:
+    “Ação Direta de Inconstitucionalidade. 2. Art. 3º da Lei no 5.077/1995, do Estado do Espírito Santo, que permite o provimento de cargos efetivos por meio de contrato administrativo a ser formalizado pelo Poder Judiciário local. 3. Violação ao artigo 37, II, da Constituição da República, que dispõe sobre a exigência de concurso público para a investidura em cargo ou emprego público. 4. Ação Direta de Inconstitucionalidade julgada procedente.” (ADI 2.912, de minha relatoria, Pleno, DJe 14.12.2007).
+     Por outro lado, o Tribunal a quo assentou:
+    “(...) o recorrente não é titular de cargo, mas exercente de função pública em caráter precário, ou seja, sem garantia de permanência no serviço público e não se insere nas situações previstas nos artigos 105 e 106 dos Atos das Disposições Constitucionais Transitórias da Constituição do Estado de Minas Gerais”. (fl. 395)
+    Tendo em vista a precariedade da designação, nos termos em que ficou assentado pelo acórdão recorrido, não verifico violação ao contraditório e à ampla defesa no ato de exoneração do servidor.
+    Nesse sentido, confira-se a jurisprudência do STF:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. ESTABILIDADE. 1. O Supremo firmou entendimento no sentido de que 'tratando-se de servidor público arregimentado sem a aprovação em concurso público e que, à época da entrada em vigor da Carta de 1988, não contava com cinco anos de prestação de serviços, descabe cogitar de ilegalidade na ruptura do vínculo' [RE n. 223.380, Relator o Ministro Marco Aurélio, DJ de 30.3.2001]. Agravo regimental a que se nega provimento”. (RE-AgR 472.049 Rel. Min. Eros Grau, Segunda Turma, DJe 2.2.2007)
+    Nesses termos, para se concluir de forma diversa, seria imprescindível a análise da legislação estadual pertinente (ADCT da Constituição Estadual de Minas Gerais e Lei Complementar Estadual n. 869/52), providência vedada no âmbito do recurso extraordinário, por força da Súmula 280 desta Corte.
+    Por fim, ressalte-se que a jurisprudência do STF firmou-se no sentido de que a afronta aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional (Súmula 636 do STF).
+    Cito, a propósito, os seguintes precedentes: RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.4.2011; e AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, da CF. OFENSA INDIRETA. ALEGADA OFENSA AO ART. 5º, II, da CONSTITUIÇÃO. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III Agravo regimental improvido”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
