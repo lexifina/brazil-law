@@ -1,0 +1,23 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual decidiu que compete à Justiça do Trabalho julgar ação de despejo decorrente da relação de emprego.
+          No RE, sustenta-se ofensa ao artigo 114, IX, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas, cláusulas contratuais (Súmulas STF 279 e 454) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. É que o Tribunal de origem decidiu que o contrato de locação é acessório ao contrato de trabalho firmado entre as partes, decorrente, portanto, da relação de emprego. Veja-se:
+    “Assim foi proferida a decisão do agravo de instrumento:
+    'Cabe salientar que a própria agravante admite ser o contrato de locação acessório ao de trabalho, e que sua rescisão relaciona-se à extinção do vínculo empregatício mantido com o agravado Otávio Rodrigues da Silva.
+    'Portanto, sendo a ação de despejo oriunda da relação de trabalho, competente é a Justiça do Trabalho para o seu processamento e julgamento, nos termos do art. 114, inc. I e IX, da Constituição Federal, com redação da Emenda Constitucional n° 45, de 2004, que teve a finalidade de ampliar sua competência.
+    'Neste sentido, aliás, vem decidindo esta Corte:
+    'AGRAVO DE INSTRUMENTO. COMPETÊNCIA. AÇÃO DE DESPEJO. LOCAÇÃO ACESSÓRIA A CONTRATO DE TRABALHO. JUSTIÇA COMUM OU JUSTIÇA DO TRABALHO. ART. 114, I, DA CF/88, CONFORME EMENDA CONSTITUCIONAL 45/2004. Na medida em que o contrato de locação é acessório ao de trabalho, e a rescisão motivada na extinção da relação de emprego, possível concluir que a ação de despejo é oriunda da relação de trabalho. Caracterizada, pois, a hipótese prevista no art. 114, I, da CF, que determina a competência da Justiça do Trabalho. Relevante ainda o fato de existir precedente nesse sentido, em litígio semelhante, já que a autora litiga com vários ex-empregados no mesmo Foro; o que recomenda decisão uniforme. Decisão mantida. Negado seguimento ao recurso”'(Agravo de Instrumento Nº 70023028442, Décima Quinta Câmara Cível, Tribunal de Justiça do RS, Relator: Paulo Roberto Felix, Julgado em 22/02/2008).
+    'Por conseguinte, forte no art. 557, caput, do CPC, nego seguimento ao agravo, por manifestamente improcedente'.
+    O recurso manejado contra a decisão reproduzida não merece ser provido. Isso porque os argumentos trazidos pela agravante, a rigor, não constituem elementos novos, que porventura pudessem mudar os rumos da decisão ora hostilizada ” (fl. 114v.-115).
+          Dessa forma, para que se defina a competência para o julgamento da ação quanto ao pedido de despejo, é necessário investigar se essa pretensão decorre da relação de trabalho existente entre as partes.
+    3.  Ademais, o Supremo Tribunal Federal, no julgamento do Conflito de Competência 7.204/MG, rel. Min. Ayres Britto, DJ 09.12.2005, assentou que a interpretação do art. 114, I, da CF/88 (alterado pela EC 45/2004), deveria conduzir ao entendimento de que a Justiça do Trabalho seria competente para julgar as ações decorrentes da relação de emprego. Na oportunidade, o Ministro Relator consignou que:
+    “Justamente no art. 114, que proclama a competência da Justiça especial aqui tantas vezes encarecida. Competência que de pronto se define pelo exclusivo fato de o litígio eclodir entre trabalhadores e empregadores”.
+          No mesmo julgado, extrai-se o voto do Ministro Cezar Peluso o seguinte excerto:
+    “Essa conjugação conduz, portanto, a meu ver, ao seguinte resultado prático: são, agora, da competência exclusiva da Justiça do Trabalho todas as ações oriundas da relação de trabalho, sem exceção alguma, trate-se de ações acidentárias típicas ou de indenização de outra espécie e de outro título”.
+          Nesse mesmo sentido: AI 634.728-AgR/GO, rel. Min. Ayres Britto, 1ª Turma, DJe 06.8.2010; RE 552.522-AgR/RS, de minha relatoria, 2ª Turma, DJe 19.11.2010; e RE 563.495-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.02.2011, este último assim ementado:
+    “Agravo regimental em recurso extraordinário. 2. Ação oriunda da relação de trabalho. EC 45/2004. Competência da Justiça Trabalhista. 3. Aproveitamento dos atos praticados pela Justiça comum. Precedentes. 4. Agravo regimental a que se nega provimento”.
+          O acórdão recorrido não divergiu desse entendimento.
+    4. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
