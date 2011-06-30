@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ILEGITIMIDADE "AD CAUSAM" - Banco que recebe duplicatas apenas para cobrança, sob endosso-mandato, não é parte legítima para responder a ação de cobrança de indenização por alegados danos moral e material em razão de protesto - Sentença de extinção do processo com base no inciso VI do art. 267 do Cód. de Proc. Civil mantida -Apelação improvida.” (fl. 178).
+    No RE, fundado no art. 102, III, da Constituição, alegou-se violação ao art. 5º, X, da mesma Carta, bem como a Sumula 28 do STF.
+    O agravo não merece acolhida. Isso porque para se chegar a conclusão diversa à adotada pelo acórdão recorrido no que se refere à inexistência de danos morais ou materiais indenizáveis, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. O que inviabiliza o extraordinário. Nesse sentido, trago à colação recentes julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido – ocorrência, na espécie, de dano moral indenizável – necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – Agravo regimental improvido” (AI 763.419-AgR/PR de minha relatoria, Primeira Turma).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA À CARACTERIZAÇÃO DE DANOS MORAIS E À ADEQUAÇÃO DO MONTANTE INDENIZATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o revolvimento dos fatos e provas constantes dos autos. Providência vedada nesta via processual do recurso extraordinário, a teor da Súmula 279 do STF. 2. Agravo regimental desprovido” (RE 602.233-AgR/DF, Rel. Min. Ayres Britto, Segunda Turma)
+     Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
