@@ -1,0 +1,13 @@
+1. Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Município de Prata – MG contra o processamento da Reclamação Trabalhista 0000918-20.2011.5.03.0063 perante a Vara do Trabalho de Ituiutaba, do Tribunal Regional do Trabalho da 3ª Região.
+          Diz o reclamante que a atuação do juízo reclamado se mostra atentatória à autoridade da decisão proferida pelo Plenário desta Corte na Ação Direta de Inconstitucionalidade 3.395-MC/DF, que suspendeu toda e qualquer interpretação dada ao inciso I do artigo 114 da Constituição Federal, na redação atribuída pela Emenda Constitucional 45/2004, que inclua na competência da Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, tendo por base vínculo de ordem estatutária ou jurídico-administrativa.
+          Ressalta ainda que os contratos firmados entre o Município e o autor da reclamação trabalhista detêm vínculos de trabalho disciplinados pelo regime estatutário, regidos pela Lei Municipal 002/2006 (Estatuto dos Servidores Públicos do Município de Prata – MG).
+          Nesse contexto, solicita, liminarmente, a suspensão da tramitação da reclamatória trabalhista especialmente em virtude de audiência designada para o dia 09.6.2011.
+          Ao final, requer que este Supremo Tribunal Federal “julgue procedente a presente Reclamação, reconhecendo que a tramitação da Reclamatória Trabalhista nº 00918-2011-063-03-00-6, com realização de audiências e demais atos processuais, desrespeita a autoridade de decisões proferidas por esta Corte, especialmente a constante dos autos da Ação Direta de Inconstitucionalidade nº 3.395”.
+    2. Requisitaram-se informações, que foram devidamente prestadas nos seguintes termos:
+    “Em atenção ao Ofício datado de 06/06/2011, informo a V. Exa. que foi distribuída a reclamação trabalhista acima epigrafada, onde foi designada audiência inicial para o dia 09/06/2011.
+    Ainda, informo a V. Exa. que na referida audiência foi reconhecida a incompetência desta Justiça Especializada para conhecer, instruir e julgar o feito, que envolve o Município e seu servidor, determinando-se, por conseqüência, a remessa dos autos à Justiça Estadual”.
+    3. Preliminarmente, ante o reconhecimento da incompetência da Justiça Laboral para julgar a Reclamação Trabalhista 0000918-20.2011.5.03.0063 pelo Juízo da Vara do Trabalho de Ituiutaba e a determinação de remessa dos autos à Justiça Comum Estadual, julgo prejudicado o pedido formulado nesta reclamação, por perda superveniente do seu objeto (art. 21, IX, do RISTF).
+       Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
