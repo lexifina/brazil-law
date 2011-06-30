@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão emanada da Quinta Turma do E. Superior Tribunal de Justiça, consubstanciada em acórdão assim ementado:
+    “EXECUÇÃO PENAL. FALTA GRAVE. POSSE DE 'CHIP' DE APARELHO CELULAR. CONDUTA FOI PRATICADA APÓS A ENTRADA EM VIGOR DA LEI N.º 11.466, DE 29 DE MARÇO DE 2007. PERDA DOS DIAS REMIDOS. ALTERAÇÃO DA DATA-BASE PARA PROGRESSÃO DE REGIME. MATÉRIA NÃO DEDUZIDA NO RECURSO ORIGINÁRIO. INVIABILIDADE DE ANÁLISE POR ESTA CORTE. SUPRESSÃO DE INSTÂNCIA.
+    1. É inarredável concluir que a posse de 'chip', sendo acessório essencial para o funcionamento do aparelho telefônico, tanto quanto o próprio celular em si, caracteriza falta grave.
+    2. Com a edição da Lei n.º 11.466, de 29 de março de 2007, passou-se a considerar falta grave tanto a posse de aparelho celular, como a de seus componentes, tendo em vista que a 'ratio essendi' da norma é proibir a comunicação entre os presos ou destes com o meio externo. Entender em sentido contrário, permitindo a entrada fracionada do celular, seria estimular uma burla às medidas disciplinares da Lei de Execução Penal.
+    3. No caso dos autos verifica-se que a matéria relacionada a alteração da data-base para fins de concessão de benefício, diante do cometimento de falta grave, não foi suscitada nas instâncias ordinárias, o que inviabiliza a apreciação por esta Corte, sob pena de supressão de instância.
+    4. Ordem parcialmente conhecida, e nessa parte denegada.”
+(HC 133.986/RS, Rel. Min. LAURITA VAZ - grifei)
+           O exame dos fundamentos em que se apóia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+           É que a decisão objeto do presente “writ” constitucional ajusta-se à orientação jurisprudencial que ambas as Turmas desta Suprema Corte firmaram na matéria em análise, no sentido de que a posse de “chip” pode ser enquadrada como falta disciplinar de natureza grave, nos termos do art. 50, VII, da Lei de Execução Penal (Lei nº 7.210/84):
+    “'HABEAS CORPUS'. EXECUÇÃO PENAL. FALTA DISCIPLINAR DE NATUREZA GRAVE. POSSE DE DOIS CHIPS DE APARELHO DE TELEFONE CELULAR. CARACTERIZAÇÃO. TELEOLOGIA DA NORMA. PROIBIÇÃO DA POSSE DO TELEFONE E SEUS COMPONENTES. ORDEM DENEGADA.
+    1. A Lei de Execução Penal (Lei 7.210/1984) institui um amplo sistema de deveres, direitos e disciplina carcerários. O tema que subjaz a este 'habeas corpus' diz com tal sistema, especialmente com as disposições normativas atinentes à disciplina penitenciária. Disciplina que o legislador entende ofendida sempre que o condenado 'tiver em sua posse, utilizar ou fornecer aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo' (inciso VII do art. 50 da LEP).
+    2. Em rigor de interpretação jurídica, o que se extrai da Lei de Execução Penal é a compreensão de que o controle estatal tem de incidir sobre o aparelho telefônico, mas na perspectiva dos seus componentes. É dizer: a Lei 11.466/2007 encampou a lógica finalística de proibir a comunicação a distância intra e extramuros. Pelo que a posse de qualquer artefato viabilizador de tal comunicação faz a norma incidir de pleno direito.
+    3. Tal maneira de orientar a discussão não implica um indevido alargamento da norma proibitiva. Norma que faz menção expressa à posse, ao uso e ao fornecimento de 'aparelho telefônico, de rádio ou similar'. E o fato é que o chip faz parte da compostura operacional do telefone celular. Não tem outra serventia senão a de se acoplar ao aparelho físico em si para com ele compor uma unidade funcional. Donde se concluir que o referido artefato nem sequer é de ser tratado como mero acessório do aparelho telefônico, sabido que acessório é aquilo 'que se junta ao principal, sem lhe ser essencial; detalhe, complemento, achega'. Ele se constitui em componente do aparelho e com ele forma um todo operacional pró-indiviso.
+    4. Ordem denegada, cassada a liminar.”
+(HC 105.973/RS, Rel. Min. AYRES BRITTO - grifei)
+    “CONSTITUCIONAL E PENAL. ACESSÓRIOS DE CELULAR APREENDIDOS NO AMBIENTE CARCERÁRIO. FALTA GRAVE CARACTERIZADA. INTELIGÊNCIA AO ART. 50, VII, DA LEI 7.210/84, COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI 11. 466/2007. INEXISTÊNCIA DE OFENSA AO PRINCIPIO DA RESERVA LEGAL. INTERPRETAÇÃO EXTENSIVA. POSSIBILIDADE. PRECEDENTE.
+    1. Pratica infração grave, na forma prevista no art. 50, VII, da Lei 7.210/84, com as alterações introduzidas pela Lei 11.466/2007, o condenado à pena privativa de liberdade que é flagrado na posse de acessórios de aparelhos celulares em unidade prisional.
+    2. A interpretação extensiva no direito penal é vedada apenas naquelas situações em que se identifica um desvirtuamento na 'mens legis'.
+    3. A punição imposta ao condenado por falta grave acarreta a perda dos dias remidos, conforme previsto no art. 127 da Lei 7.210/84 e na Súmula Vinculante nº 9, e a conseqüente interrupção do lapso exigido para a progressão de regime.
+    4. Negar provimento ao recurso.”
+(RHC 106.481/MS, Rel. Min. CÁRMEN LÚCIA - grifei)
+           Sendo assim, sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+           2. Ouça-se a douta Procuradoria-Geral da República.
+           Publique-se.
+           Brasília, 30 de junho de 2011.
+Ministro CELSO DE MELLO
+Relator
