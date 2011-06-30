@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a e c, da Constituição federal) de acórdão de Turma Recursal, cuja ementa é do seguinte teor (fls. 237):
+    “Ementa – atraso de vôo – ação indenizatória – responsabilidade configurada – solidariedade entre os fornecedores, (art. 7º, par. único, CDC) – problemas enfrentados pelos fornecedores não podem ser opostos ao consumidor – risco da atividade – greve de controladores de vôo, fato previsível e amplamente divulgado em razão da crise aérea existente – possibilidade de ressarcimento, pelo fornecedor, junto à União – cancelamento de vôo – atraso que resultou em perda de conexão – perda de dias de pacote aos dias perdidos – impossibilidade de compensação dos dias perdidos por outro tipo de atividade, mesmo que usufruído pelo passageiro, ao passo que o consumidor não pode ser submetido a condição a que não deu causa – solução justa e equânime – sentença mantida.”
+    Nas razões do recurso extraordinário, a parte ora agravante alega violação dos arts. 1º, IV, 5º, XXXII, 170, IV, V, IX e parágrafo único e 180, da Constituição federal.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos constitucionais supracitados, versa questões constitucionais não ventiladas na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ademais, as questões constitucionais suscitadas não podem ser analisadas sem prévio exame da legislação infraconstitucional (Código de Defesa do Consumidor) e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+    Em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição.
+    Do exposto, conheço do agravo, mas nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
