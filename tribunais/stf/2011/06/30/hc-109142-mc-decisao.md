@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Habeas corpus preventivo, com pedido de liminar, impetrado pelo advogado Sandro de Lima Vetzcoski em favor de Diego Sorano Camorena, apontando como autoridade coatora o Ministro Celso Limongi, do Superior Tribunal de Justiça, que, monocraticamente, julgou prejudicado o HC nº 192.182/SP, impetrado àquela Corte.
+    Sustenta o impetrante, em síntese, a falta de fundamentação apta a justificar a necessidade da medida constritiva do paciente, bem como a ausência dos pressupostos previstos no art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que seja expedido contramandado de prisão em favor do paciente e, no mérito, pede confirmação.
+    Examinados os autos, decido.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada dos autos representar manifesto constrangimento ilegal, o que não se verifica na espécie.
+    No caso, volta-se este habeas corpus contra ato do Ministro Celso Limongi que, monocraticamente, julgou prejudicado o writ impetrado ao Superior Tribunal de Justiça em favor do paciente.
+    Transcrevo o teor daquela decisão:
+    “Trata-se de 'habeas corpus' impetrado em benefício de Diego Sorano Camorena, sob alegação de coação ilegal por parte do Tribunal de Justiça do Estado de São Paulo. Consta da inicial que o paciente fora denunciado, no início do ano de 2009, por suposta prática do delito de homicídio. E que, após diligências e envio do relatório por parte da autoridade policial, o MM. Juiz decretou a sua prisão preventiva. Diante da ausência dos requisitos da prisão preventiva, foi solicitada a sua revogação. O pedido foi atendido, expedindo-se contramandado de prisão. No entanto, no dia 25 de outubro de 2010, foi novamente decretada a prisão provisória. E, desta vez, o pedido de revogação foi indeferido. Impetrado 'habeas corpus' perante o Tribunal estadual, indeferiu-se a liminar. Sustenta o impetrante que não existe nenhum motivo para o decreto prisional. E que a suposta testemunha referida na decisão que decretou a prisão sequer existe. Pleiteia o impetrante o deferimento de liminar, para que seja revogada a prisão preventiva do paciente; e a concessão da ordem, ao final, para tornar definitiva tal medida (fls. 1 a 22).
+    O pedido liminar foi indeferido (fls. 74).
+    Prestadas as informações de fls. 77/78, instruídas com os documentos de fls. 79/125, o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 130/131). Eis a ementa do parecer:
+    'Direito Processual Penal. Liberdade provisória. Habeas corpus contra decisão liminar.
+    - Aplicação da súmula 691/STF.
+    - Parecer pelo não conhecimento do writ.'
+    É o relatório.
+    Em consulta ao 'site' do Tribunal apontado como coator, verifiquei que o mérito do 'habeas corpus' impetrado pelo paciente foi julgado em 10 de fevereiro de 2011. A e. Quinta Câmara de Direito Criminal daquela Corte, por unanimidade de votos, denegou a ordem.
+    A jurisprudência da Sexta Turma diz que o julgamento do mérito de 'habeas corpus' pelo Tribunal de origem não prejudica o exame aqui da impetração, desde que, é claro, seja patente a ilegalidade. Confiram-se, por exemplo, o 'habeas corpus' nº 68.706/MS, relatora Ministra Maria Thereza de Assis Moura, DJe de 17/8/2009; o 'habeas corpus' nº 134.390/MG, relator Ministro Og Fernandes, DJe de 31/8/2009; e o 'habeas corpus' nº 133.921/SP, relator Ministro Celso Limongi (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+    No caso, entendo que não há ilegalidade flagrante a ser corrigida. Eis a fundamentação adotada pelo Tribunal de origem, na decisão que indeferiu o pedido liminar:
+    'Outrossim, consoante se dessume das peças juntadas aos autos - dentre as quais não se encontram cópias dos autos do do inquérito policial e da denúncia -, ao paciente é imputada a prática, em tese, de dois crimes hediondos (homicídios qualificados), em concurso de agentes, bem assim que, após a revogação da prisão temporária, também decretada em seu desfavor, o paciente não foi mais localizado, circunstâncias que evidenciam, concretamente, o risco que sua liberdade, a esta altura, representaria à ordem pública, diante da periculosidade que demonstrou. '
+    Assim, como o mérito do 'writ' foi apreciado pelo Tribunal estadual e como não há patente ilegalidade a ser sanada, a presente impetração, que se volta contra decisão liminar, está prejudicada.
+    Em face do exposto, julgo prejudicada a impetração, nos termos dos artigos 659 do Código de Processo Penal; 38 da Lei nº 8.038/90; e 34, inciso XI, do Regimento Interno”.
+    Pelo que se tem na decisão proferida pelo Superior Tribunal de Justiça, não se vislumbra, neste momento, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o julgado proferido por aquela Corte encontra-se suficientemente motivado a justificar a formação de seu convencimento, além de estar em sintonia com jurisprudência deste Supremo Tribunal, preconizada no sentido de que a superveniente alteração do quadro processual faz instaurar situação de prejudicialidade da ordem de habeas corpus (HC nº 82.056/RJ-QO, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 15/10/04).
+     Perfilhando esse entendimento: HC nº102.780/SP-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 11/4/11; HC nº 95.447/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/11/10; e HC nº 102.319/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 1º/10/10, entre outros.
+     De outra parte, à primeira vista, ressalto não haver nenhum ato configurador de flagrante constrangimento ilegal praticado contra o paciente advindo da decisão que indeferiu a revogação da sua prisão preventiva, não sendo os argumentos ora apresentados suficientes para colocá-lo em liberdade, liminarmente e per saltum, como pretende a impetração.
+    Com essas considerações, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com cópia da decisão ora questionada, dispenso as informações da autoridade coatora.
+    Oficie-se, contudo, ao Juízo de Direito da Vara do Júri da Comarca de Guarulhos/SP para que preste informações atualizadas acerca da Ação Penal nº 224.01.2009.072438-9 à qual responde o paciente, bem como forneça cópia da decisão que decretou sua prisão preventiva.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
