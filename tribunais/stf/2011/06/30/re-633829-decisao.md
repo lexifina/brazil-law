@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário que discute o montante a ser restituído a título de indébito tributário, em razão do reconhecimento da inconstitucionalidade de contribuição previdenciária.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, que o valor a ser repetido deve corresponder à totalidade das parcelas recolhidas.
+    O recurso não merece acolhida. É que os Ministros desta Corte, no RE 633.329-RG/RS, Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral da controvérsia em questão (definir o montante a ser restituído, em razão de valores recolhidos compulsoriamente, com base em norma declarada inconstitucional), por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Ressalte-se, inclusive, que o Tribunal possui larga jurisprudência no sentido de que, reconhecida a inconstitucionalidade de obrigação tributária ou a constitucionalidade de crédito em favor do contribuinte, as questões que se seguem quanto à eventual determinação da norma aplicável em substituição à declarada inconstitucional, bem como a interpretação da legislação que define a prescrição, a correção monetária, os juros, o direito à compensação e a fixação exata do montante a que o contribuinte tem direito em cada caso concreto possuem nítido caráter infraconstitucional ou dependem do exame de provas.
+    Daí a necessidade de que essas questões sejam decididas pelas instâncias ordinárias.
+    Com esse raciocínio, destaco os seguintes precedentes, entre outros: RE 387.316-AgR-ED-ED/PR e RE 422.005-ED/RJ, Rel. Min. Ellen Gracie; RE 489.845-AgR/SP e RE 415.802-ED/PR, Rel. Min. Joaquim Barbosa; RE 512.483-ED/PR, Rel. Min. Cármen Lúcia; RE 447.436-ED/RS, Rel. Min. Celso de Mello; RE 480.191-AgR/SP e RE 509.908-AgR/PR, Rel. Min. Ayres Britto; RE 523.855-ED/RJ e RE 327.677-ED/SC, Rel. Min. Gilmar Mendes; RE 343.937-ED/SC e RE 499.634-ED-ED/SC, de minha relatoria.
+    Por fim, com a não interposição do recurso especial, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+    Isso posto, não conheço do recurso (CPC, art. 543-A, § 5º).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
