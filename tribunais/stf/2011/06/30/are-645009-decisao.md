@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, proferido por Colégio Recursal, que entendeu serem indevidos juros e encargos financeiros previstos em contrato bancário a partir do cancelamento de cartão de crédito .
+    Alega-se violação do disposto nos arts. 5º, II, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição federal.
+    O recurso não merece seguimento.
+    Inicialmente, observo que a parte ora agravante, nas razões do recurso extraordinário, se limita a alegar, em preliminar, que “a matéria objeto do presente Recurso Extraordinário é de grande relevância, pois além de implicar na violação de princípios constitucionais, tais como o da isonomia, ampla defesa e da legalidade. Entender que tal matéria não tem relevância e deixar de apreciar as razões do inconformismo do recorrente, é impedir o direito de defesa daquele que está sendo acusado injustamente e mais, impedir a apreciação das alegações deste Recorrente pelo Poder Judiciário” (sic – fls. 178).
+    É patente, pois, que não há desenvolvimento suficiente da argumentação acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Ademais, verifico que inexiste a alegada ofensa aos arts. 5°, XXXV, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    Verifico, ainda, que a alegada ofensa ao art. 5º, XXXVI, da Constituição federal não foi ventilada no acórdão recorrido e também não foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Por fim, ainda que superados tais óbices, saliento que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional, de cláusulas contratuais e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279, 454 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
