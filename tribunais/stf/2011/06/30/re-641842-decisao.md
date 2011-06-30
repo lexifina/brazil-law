@@ -1,0 +1,18 @@
+1. Trata-se de recurso extraordinário contra acórdão do TJDF que negou provimento à apelação da parte recorrente – na qual pleiteava pensão pela morte de seu filho, que era soldado da Polícia Militar do Distrito Federal – por considerar constitucional o art. 1º, b, da Lei 3.765/60, o qual estipula um prazo de carência de dois anos de efetivo exercício e de contribuição para o recebimento do benefício. Da ementa do aresto impugnado destaco:
+    “Não se mostra inconstitucional a exigência feita por lei de um prazo de carência de efetivo exercício e de contribuição com a pensão militar, para aquisição de determinado benefício ” (fl. 257).
+    2. Nas razões do RE, interposto com fundamento no artigo 102, III, a e c, da CF, sustenta-se ofensa aos artigos 5º, caput, 40, § 5º, e 42 (redação anterior às EC 19 e 20) da CF.
+    3. Admitido o recurso na origem (fls. 311-312), subiram os autos.
+    4.  O apelo extremo não merece prosperar. Verifico que o Tribunal a quo decidiu a questão com fundamento na análise da legislação infraconstitucional aplicável à espécie (Lei 3.765/60). Assim, eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta. Incide, no presente caso, o óbice da Súmula STF 280.
+          Nesse sentido, menciono as seguintes decisões: RE 529.276/DF, rel. Min. Joaquim Barbosa, DJe 30.05.2011; e o AI 809.176/RS, rel. Min. Cármen Lúcia, DJe 09.05.2011. Desta última, transcrevo a ementa:
+    “AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. ACIDENTE DE SERVIÇO. MORTE. PENSÃO. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA PRESTAÇÃO JURISDICIONAL, DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO FUNDAMENTADO. AGRAVO AO QUAL SE NEGA SEGUIMENTO”.
+    5. Quanto à alínea c, o recurso também não logra êxito, porquanto o aresto atacado não julgou válida lei ou ato normativo local contestado em face da Constituição.
+          Veja-se, a respeito, o AI 792.964-ED/SP, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 25.03.2011, de cujo voto condutor do acórdão recorrido destaco:
+    “3. Como afirmado na decisão agravada, o recurso extraordinário da Agravada é incabível por ausência da circunstância que legitimaria sua interposição com base na alínea c do inc. III do art. 102 da Constituição da República.
+    Ao contrário do que supõe a Agravada, para a interposição de recurso com fundamento no art. 102, inc. III, alínea c, da Constituição, não basta que o acórdão recorrido tenha declarado a constitucionalidade de lei estadual contestada ‘em face desta Constituição’. É preciso que o acórdão recorrido aplique a lei local apesar da Constituição, vale dizer, o acórdão recorrido faz prevalecer a lei local em detrimento da Constituição.
+    Nesse sentido:
+    ‘RECURSO EXTRAORDINÁRIO – ALÍNEA “C” DO INCISO III DO ARTIGO 102 DA CONSTITUIÇÃO FEDERAL. A conclusão sobre o cabimento do recurso extraordinário pela alínea “c” do inciso III do artigo 102 da Constituição Federal pressupõe haja a Corte de origem homenageado a lei estadual em detrimento da Carta. Inexistente tal fato, impossível é entender pelo trânsito do extraordinário' (AI 138.298-AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 30.4.1992)”.
+    6. Ante o exposto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+                Ministra Ellen Gracie
+                      Relatora
