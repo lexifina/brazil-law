@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão do Tribunal de Justiça do Rio Grande do Sul, cuja ementa é do seguinte teor (fls. 291):
+    “APELAÇÃO CÍVEL. EMPRESA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. TROCA DE TRANSFORMADOR. RESPONSABILIDADE PELAS DESPESAS DE OPERAÇÃO E MANUTENÇÃO DAS INSTALAÇÕES. DISPOSIÇÃO CONVENIAL. CORTE NO FORNECIMENTO DO SERVIÇO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CABIMENTO.
+    I - Concluída a obra destinada ao fornecimento de energia elétrica, e por não dispor o Agravado de ato autorizativo do Poder Concedente, incorporaram-se todos os bens e instalações ao patrimônio da concessionária, passando a ser desta a responsabilidade pelas despesas de operação e manutenção.
+    II - As concessionárias de serviços públicos figuram no rol dos fornecedores a que faz menção o artigo 3º do Código do Consumidor; e dentre os serviços públicos ou de interesse público destaca-se a energia elétrica, que atende diretamente as necessidades dos consumidores. Quando acusam defeito, impõe-se o dever de indenizar independente da apuração da culpa (Código do Consumidor – artigo 14).
+    Tendo o corte violado o direito que tem o consumidor de ver prestado o serviço público modo adequado, eficiente, seguro e contínuo, porque essencial (Código do Consumidor – art. 22), a par de submeter a constrangimentos e desconfortos que soam óbvios, hão de ser reparados os danos resultantes da interrupção pelo que tem de despropositada, arbitrária, abusiva e medieval.
+    Apelo desprovido. Recurso adesivo parcialmente provido. Unânime.”
+    Nas razões do recurso extraordinário, a parte ora agravante alega ofensa aos arts. 2º; 5º, II (princípio da legalidade); 22, IV; 37, XXI; 175, parágrafo único, I e II, da Constituição federal.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os arts. 2º; 5º, II; 22, IV; 37, XXI, da Carta Magna, versa questões constitucionais não ventiladas na decisão recorrida, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ainda que superado o referido óbice, a análise da suposta ofensa ao texto constitucional demandaria o exame prévio da legislação infraconstitucional (Código de Defesa do Consumidor, Código Civil e Resolução 456/2000, da ANEEL). É pacífico o entendimento deste Tribunal no sentido de não ser admissível alegação de ofensa que, advindo de má aplicação, interpretação ou inobservância de normas infraconstitucionais, seria meramente indireta ou reflexa. Inclusive, a Súmula 636 do Supremo Tribunal Federal assim dispõe:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, observo que o acórdão impugnado decidiu a causa com base na interpretação das cláusulas do contrato firmado entre as partes. Ora, fica claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame de cláusulas contratuais e, também, dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279 e 454 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
