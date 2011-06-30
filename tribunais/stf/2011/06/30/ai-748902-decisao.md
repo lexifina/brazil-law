@@ -1,0 +1,11 @@
+1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 2ª Região o qual decidiu que a eliminação do teto para o cálculo do recolhimento da contribuição previdenciária, nos termos Decreto-lei 2.329/86, não colide com princípios constitucionais.
+    2. No RE, a parte recorrente alega ofensa ao art. 165, XVI, da Constituição Federal de 1967 e 195, § 5º, da CF/88.
+    3. O recurso não merece prosperar. O Supremo Tribunal Federal entende que é constitucional a revogação, pelo Decreto-Lei 2.318/86, do limite da contribuição previdenciária do empregador, fixado em vinte salários mínimos, pois a norma prevista no art. 165, XVI, da Constituição Federal de 1967, também adotada na Carta de 1988 (art. 195, § 5º), tem como objetivo evitar o déficit nas contas da Previdência Social, com a criação indiscriminada de benefícios, sem a necessidade da correspondente fonte de custeio.
+          Nesse sentido: RE 231.538/SP, rel. Min. Ilmar Galvão, unânime, 1ª Turma, DJ 21.02.2003; RE 541.810/RJ, de minha relatoria, DJe 24.3.2011; RE 194.242-AgR/SP, rel. Min. Gilmar Mendes, 2ª Turma, DJ 02.6.2006; AI 622.981-AgR/SP, rel. Min. Eros grau, 2ª Turma, DJe 15.6.2007; AI 724.582-AgR/SP, rel. Min. Joaquim Barbosa, 2ª Turma DJe 06.4.2011; e RE 202.294/SP, de minha relatoria, 2ª Turma, DJe 19.12.2003, este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO SOCIAL DO EMPREGADOR. LIMITE DE VINTE VEZES O VALOR DO MAIOR SALÁRIO MÍNIMO. DL Nº 2.318/86. OFENSA AO ART. 165, XVI E PAR. ÚNICO, DA CF/69. INOCORRÊNCIA. A norma do art. 165, parágrafo único, da Constituição anterior tinha como objetivo evitar o déficit nas contas da Previdência Social, resultante da criação indiscriminada de benefícios, sem a correspondente fonte de custeio. Impertinente a interpretação no sentido de que a majoração de alíquotas de contribuições sociais só se mostra possível, quando houver instituição de novos benefícios ou aumento dos já existentes. Precedente: RE 231.538, DJ de 21/02/2003. Recurso extraordinário conhecido, mas improvido”.
+          O acórdão recorrido não divergiu dessa orientação.
+    4. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
