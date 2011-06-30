@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “ADMINISTRATIVO. DESAPROPRIAÇÃO. IMÓVEL RURAL. REFORMA AGRÁRIA. VALOR DA TERRA. BENFEITORIAS. JUROS COMPENSATÓRIOS. JUROS MORATÓRIOS. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+    1. Merece confirmação o decreto sentencial, em desapropriação, que fixa a indenização, em sintonia com laudo pericial, firmado por profissional eqüidistante dos interesses das partes, e que, devidamente fundamentado, expressa o preço de mercado do imóvel, envolvendo o valor da terra nua, a vegetação natural e as benfeitorias (LC 76/93 – art. 12, § 2º).
+    2. Devendo a desapropriação configurar uma operação branca, sem enriquecer nem empobrecer o proprietário, que tem direito a uma justa indenização, dela devem fazer parte, segundo a jurisprudência tradicional, hoje consagrada legalmente, os juros compensatórios de 12% ao ano, destinados a compensar o proprietário pela perda antecipada do imóvel, decorrente da imissão do desapropriante na posse; e os juros de mora de 6% ao ano, devidos em razão do atraso no pagamento da indenização, contados na forma prevista no art. 15 - B do Decreto-lei nº 3.365/41 (MP nº 2.183-56, de 24/08/2001).
+    3. Na desapropriação, os honorários advocatícios devem ser fixados entre meio e cinco por cento do valor da diferença entre a oferta e a indenização (art. 27, §§ 1º e 3º, I do Decreto-lei nº 3.365/41, com a redação da MP nº 2.183-56, de 24/08/2001), verba que, na hipótese, eleva-se para 3%, em atenção ao nível do trabalho do profissional.
+    4. Parcial provimento da apelação dos expropriados. Improvimento da apelação do INCRA e da remessa oficial.” (fl. 152).
+    No recurso extraordinário o recorrente sustenta violação ao art. 5º, XXII, XXIV, LIV e LV, da Constituição Federal. Argumenta a realização de uma nova perícia, aduzindo que:
+    “(...) com o intuito de preservação dos direitos constitucionais atinentes, eis que de uma clareza meridiana que um fato novo ocorrera e alterou toda a situação fática antes apresentada, mormente quando este fato foi reconhecido, explicitamente, pelo próprio perito judicial em plena audiência realizada, justamente para que se prestasse esclarecimento sobre o laudo avaliatório”. (fl. 168) (grifei)
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal a quo, com base no conjunto fático-probatório, entendeu ser desnecessária a produção de nova perícia. É o que se extrai do seguinte trecho do acórdão recorrido:
+    “Não há falar-se, portanto, na produção de nova perícia, pois o laudo pericial de fls. 432-526, cumpridamente fundamentado e a salvo de críticas técnicas válidas, com ampla demonstração técnica e fotográfica, avalia o imóvel de forma criteriosa, segundo o preço de mercado na sua região, sendo, de resto, elaborado por perito da confiança do juízo, eqüidistante dos interesses das parte.” (fl. 145) (grifei).
+    Nesse contexto, verifica-se que, para examinar-se a tese do recorrente, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível, nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, Primeira Turma, DJ de 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, Segunda Turma, DJ de 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, Segunda Turma, DJe de 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 5.2.2010.
+    Incide, portanto, a Súmula 279/STF, segundo a qual não cabe recurso extraordinário para simples reexame de prova.
+    Ademais, no tocante ao suposto cerceamento de defesa (art. 5º, LIV e LV), a jurisprudência desta Corte é no sentido de que a alegação de violação aos limites objetivos dos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, ofensa meramente reflexa às normas constitucionais. Nesse sentido, AI-AgR 610.585, Rel. Min. Ayres Britto, Primeira Turma, DJe 5.5.2009, e AI-AgR 752.841, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
