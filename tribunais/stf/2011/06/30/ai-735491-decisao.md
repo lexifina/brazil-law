@@ -1,0 +1,17 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por alegada violação aos arts. 5º, XXXVI, e 114, VIII, da Constituição Federal, em que se ressalta “a necessidade de incidência das contribuições previdenciárias sobre as diferenças salariais firmadas pela r. Sentença e a ofensa à coisa julgada” (fls. 101-114). O Tribunal Superior do Trabalho não conheceu do recurso de revista de decisão do TRT da 2ª Região, o qual versou sobre a homologação de acordo relativo às parcelas de natureza exclusivamente indenizatória após o trânsito em julgado da sentença, cujo acórdão porta a seguinte ementa (fls. 89-95):
+    “CONTRIBUIÇÃO PREVIDENCIÁRIA – ACORDO HOMOLOGADO APÓS SENTENÇA TRANSITADA EM JULGADO – PARCELAS EXCLUSIVAMENTE DE NATUREZA INDENIZATÓRIA.
+    (…)
+    3. Na hipótese em exame, não resta violado o art. 114, VIII, da Constituição Federal, pois ele exige a execução, de ofício, das contribuições previdenciárias, mas desde que elas sejam cabíveis, não sendo essa a hipótese discutida nos autos. Ademais, as parcelas objeto do acordo foram devidamente discriminadas e todas elas têm natureza jurídica indenizatória, não incidindo a contribuição previdenciária pleiteada.
+    4. Quanto ao art. 5º, XXXVI, da CF, não houve malferimento ao preceito nele contido.
+    (…)
+    6. Além disso, não se pode cogitar de ofensa à coisa julgada, porquanto o anterior título executivo judicial foi substituído pelo termo de conciliação, que igualmente ostenta a natureza de título executivo, nos termos dos arts. 831, parágrafo único, e 876 da CLT”.
+    2. O agravo não merece prosperar. O Tribunal de origem concluiu que não houve violação às normas constitucionais em que se fundou a insurgência, dada a licitude da decisão homologatória do acordo fundado no art. 832, § 3º, da CLT, e, além disso, a competência da Corte Trabalhista para a execução de contribuição previdenciária não foi afastada, tão-somente se definiu a sua não-incidência sobre as parcelas de natureza indenizatória.
+          Portanto, rever a decisão impugnada, para concluir de modo diverso, implicaria, além do reexame da legislação infraconstitucional em que se fundou o acórdão recorrido (arts. 43 da Lei 8.212/1991; e 764, § 3º, 831, parágrafo único, e 876 da CLT), o revolvimento de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279). É o que se infere da conclusão do acórdão recorrido, bem resumido pela decisão agravada (fls. 117-120):
+    “A decisão recorrida concluiu que, quando existem na petição inicial verbas de natureza salarial e indenizatória, não há impedimento legal para que as partes transacionem o pagamento apenas das verbas de natureza indenizatória, sobre as quais não incide a contribuição previdenciária (fl. 261).
+    Enfatizou que ‘não há vedação a que sejam acordadas apenas verbas de natureza jurídica indenizatória, sendo necessário que todos os títulos objeto do acordo estejam devidamente discriminados, possibilitando o exame da incidência, ou não, da contribuição previdenciária em cada caso’ e, ainda, que ‘as parcelas que foram objeto do acordo encontram-se nos limites estabelecidos na sentença de origem’ (fl. 260)”.
+          Nesse sentido: AI 760.826-AgR/SP, 2ª Turma, rel. Min. Eros Grau, Dje 12.02.2010; AI 30.129-AgR/SP, 1ª Turma, rel. Min. Dias Toffoli, Dje 22.11.2010.
+    3. Ante o exposto, nego seguimento ao presente agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
