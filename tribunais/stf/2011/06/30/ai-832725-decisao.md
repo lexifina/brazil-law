@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+    “AGRAVO REGIMENTAL. Rescisória. Locação de Imóveis. Execução de título extrajudicial representado por crédito locativo. Sentença de improcedência dos embargos do devedor confirmada por acordão. Indeferimento da petição inicial da ação rescisória. Confirmação. A rescisória fundada em violação a literal disposição de lei não permite o reexame de fatos ou provas, quiça de documentação não apresentada no curso do processo originário. Ademais, o acórdão rescindendo não admitiu um fato inexistente, mas convicção resultante de prova documental, cumprindo frisar que o erro autorizador da rescisória não decorre da justiça ou injustiça pertinente à valoração da prova, além do que deve recair sobre matéria não controvertida e não decidida no ato rescindendo, já que o artigo 485, inciso IX, § 2º, do Código de Processo Civil, excetua a possibilidade de rescisão se discutido e decido judicialmente o fato, particularmente que autorizou reputar-se inepta a petição inicial. Recurso desprovido.” (Fls. 558)
+    Alega-se violação ao disposto nos arts. 5º, XXII e XXXVI; e 6º da Constituição Federal.
+    O recurso extraordinário, alegando que o acórdão recorrido ofende o preceito dos arts. 5º, XXII e XXXVI; e 6º da Constituição Federal, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 desta Corte).
+    Do exposto, nego seguimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
