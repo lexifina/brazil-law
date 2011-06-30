@@ -1,0 +1,15 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual não conheceu do recurso de revista sob o entendimento de que o Estado de Alagoas deve responder subsidiariamente pelos débitos trabalhistas assumidos pela Companhia Alagoana de Recursos Humanos e Patrimoniais - CARHP.
+          No RE, alega-se ofensa ao artigo 173, § 1º, II, da Constituição Federal.
+    2. Preliminarmente, verifico que a discussão referente à responsabilidade subsidiária por obrigações decorrentes da relação de trabalho limita-se ao exame da legislação infraconstitucional (Lei Estadual 6.145/00). Nesse sentido, cito o AI 832.248/AL, rel. Min. Joaquim Barbosa, DJe 07.02.2011, AI 839.845/AL, rel. Min. Ricardo Lewandowski, DJe 06.4.2011, AI 833.498/AL, rel. Min. Ayres Britto, Dje 18.3.2011, AI 806.304/AL, rel. Min. Cármen Lúcia, DJe 18.8.2010 e AI 703.402-AgR/AL, rel. Min. Eros Grau, 2ª Turma, DJe 23.5.2008, este assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO PARCIAL. TRABALHISTA. OFENSA INDIRETA. RESPONSABILIDADE SUBSIDIÁRIA. INFRACONSTITUCIONAL. 1. O Tribunal a quo não se manifestou explicitamente sobre todos os preceitos constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Responsabilidade subsidiária do tomador de serviços. Legislação ordinária (Enunciado n. 331/TST e Lei n. 8.666/93). Agravo regimental a que se nega provimento”.
+    3.  Ademais, o acórdão recorrido limitou-se a tratar de matéria processual, relativa a pressuposto de admissibilidade de recurso trabalhista. Assim, a alegada contrariedade a dispositivo constitucional somente poderia ocorrer de forma indireta, a depender do exame da legislação infraconstitucional, sem margem para o acesso à via extraordinária.
+          Sobre o tema ambas as Turmas desta Corte têm reiterado esse entendimento: AI 486.403-AgR/RS, rel. Min. Ayres Britto, 1ª Turma, DJ 22.4.2005; AI 480.496-AgR/PE, rel. Min. Celso de Mello, 2ª Turma, DJ 17.02.2006; e RE 574.197-AgR/RS, de minha relatoria, 2ª Turma, DJe 03.4.2009.
+    4. Ressalte-se, por fim, que este Tribunal, em 14.8.2009, no julgamento do RE 598.365/MG, rel. Min. Ayres Britto, Plenário Virtual, unânime, decidiu pela inexistência de repercussão geral da matéria relacionada ao requisito de admissibilidade de recurso de competência de corte diversa, cujo acórdão contém a seguinte ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    5. Ante o exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
