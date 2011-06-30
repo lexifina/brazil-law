@@ -1,0 +1,10 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão que entendeu ser indevida a correção monetária de créditos escriturais de ICMS.
+          No RE, a parte recorrente alega violação aos arts. 5º, caput, e 153, § 2º, I da Constituição Federal.
+    2.  O recurso não merece prosperar. Em casos semelhantes ao dos presentes autos, o Supremo Tribunal Federal tem decidido no sentido de que não é possível a correção monetária dos créditos escriturais do ICMS. Nesse sentido: RE 389.458-AgR/SP, rel. Min. Ayres Britto, 2ª Turma DJe 25.10.2010; RE 449.106-AgR/RS, rel. Min. Marco Aurélio, 1ª Turma, DJe 06.5.2011; e RE 275.507-ED/SP, de minha relatoria, 2ª Turma, DJe 29.6.2011, este último assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. ICMS. SALDO CREDOR. CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREVISÃO LEGAL. AFRONTA AOS PRINCÍPIOS DA ISONOMIA E NÃO-CUMULATIVIDADE. INOCORRÊNCIA. CORREÇÃO DA RESTITUIÇÃO DE VALORES A PARTIR DA DATA DO REQUERIMENTO E O EFETIVO PAGAMENTO. QUESTÃO PRECLUSA. 1. Embargos de declaração recebidos como agravo regimental diante da manifesta infringência do julgado e consoante iterativa jurisprudência do Supremo Tribunal Federal. 2. Não constitui ofensa aos princípios da isonomia e da não-cumulatividade o fato de a legislação estadual desautorizar a correção monetária de créditos escriturais e saldos credores de ICMS. Precedentes. 3. A questão relativa à correção da diferença dos valores a serem apurados entre a data do requerimento da restituição e o efetivo pagamento pelo Estado de São Paulo está preclusa, dado o acolhimento dos embargos de declaração proferidos na instância de origem e a não-impugnação pela recorrente no momento oportuno. 3. Agravo regimental a que se nega provimento”.
+          O acórdão recorrido não divergiu desse entendimento.
+    3. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
