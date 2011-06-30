@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que entendeu que o afastamento de servidora em virtude de licença para tratamento de saúde não seria causa para a cessação da percepção de auxílio-alimentação.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, LIV, 37, caput, e 97 da mesma Carta.
+    O agravo não merece acolhida.
+    O acórdão recorrido não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição, mas apenas interpretou a legislação infraconstitucional aplicável à espécie e, como se sabe, é pacífica a jurisprudência desta Corte no sentido do não cabimento de recurso extraordinário por ofensa a normas infraconstitucionais, sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito os seguintes precedentes: AI 684.976-AgR/MG, Rel. Min. Cármen Lúcia; AI 736.977-AgR/CE e RE 369.256-AgR/PR, Rel. Min. Ellen Gracie; AI 785.709-AgR-AgR/RS, Rel. Min. Eros Grau; RE 586.046/BA, Rel. Min. Cezar Peluso; AI 791.673-AgR/SC, de minha relatoria.
+    Além disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, faz-se necessário analisar normas infraconstitucionais locais (Lei estadual 11.647/00), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. No mesmo sentido, em caso análogo ao dos autos, confira-se: AI 841.507/SC, Rel. Min. Cármen Lúcia.
+    Por fim, observa-se que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
