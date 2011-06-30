@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE: MORTE DO SEGURADO POSTERIOR À VIGÊNCIA DA LEI N. 9.032/1995. PRINCÍPIO  TEMPUS REGIT ACTUM. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. PERDA DO OBJETO. RECURSO PREJUDICADO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “PREVIDENCIÁRIO E PROCESSUAL CIVIL. PENSÃO POR MORTE CONCEDIDA ANTES DA LEI N° 9.032/95. MAJORAÇÃO DO PERCENTUAL DA RENDA MENSAL INICIAL PARA 100%. CABIMENTO. PRECEDENTES DESTA CORTE E DO STJ. Resp nº 413.763/RN.
+    I - Pensionista da Previdência Social tem direito a majoração do seu benefício para 80 e 100%, referente ao disposto no art. 75, da Lei nº 8.213/91, com redação alterada pela Lei nº 9.032/95. Precedentes desta Corte Regional e, agora, do STJ (REsp n° 413.763/RN);
+    II – Apelação e remessa oficial improvidas” (fl. 72).
+    Os embargos de declaração opostos foram rejeitados (fl.88).
+    2. O Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXVI, da Constituição da República.
+    Argumenta, em síntese, que “se a pensão da demandante foi concedida sob a égide da legislação anterior, com DIB (data de início de benefício) anterior à edição da Lei n. 9.031/1995, não se pode aplicar os termos do art. 75 da Lei n. 8.213/1991, com a redação introduzida por aquele diploma legal, [sob pena de] fazer letra morta do dispositivo constitucional que consagra o ato jurídico perfeito e resguarda das mutações legais a situação jurídica já definitivamente concretizada, e consumada segundo a lei vigente ao tempo em que se efetuou” (fl. 104, grifos do original).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Em juízo de retratação (art. 543-B, § 3º, do Código de Processo Civil), o Desembargador Relator corrigiu erro contido no acórdão recorrido, proferindo a seguinte decisão:
+    ”A decisão de fls. 120/121, da lavra do Des. Federal Marcelo Navarro, Vice-Presidente desta eg. Corte, determinou o retorno dos autos a esta Relatoria, a fim de que seja considerada a possibilidade de se adequar o acórdão de fls. 72, que julgou a apelação cível de nº 396665, ao posicionamento sedimentado pelo STF, quanto à aplicação do princípio da irretroatividade das leis, nos casos de revisão do percentual incidentes sobre as cotas de pensão por morte, em face do manejo de recurso extraordinário do INSS, a respeito da questão, acostado às fls. 96/107. Consoante o recente entendimento do STF, de certo, é indevida a majoração do valor da pensão por morte, quanto a benefícios concedidos antes da edição da Lei nº 8.213/91, com a alteração dada com a edição da Lei nº 9.032/95. No entanto, tal não é o caso em análise. O benefício da autora fora concedido em 1997, decorrente de óbito ocorrido no mesmo ano, ou seja, já após a edição da inovação trazida por àquela última legislação. Assim, deve ser mantido inalterado o julgado, pois não se trata de aplicação retroativa de normas. É verdade que o acórdão considerou tal tese, certamente, induzido a erro, ante as razões consignadas no próprio apelo do INSS. Entretanto, a morte do instituidor ocorrera após as alterações introduzidas pela novel legislação, sendo esta que merece aplicação. Desta feita, considerando a manutenção da decisão vergastada, voltem os autos à Vice-Presidência desta Corte. Intime-se” (fl. 125, grifos nossos).
+    O Recorrente, intimado, pediu o prosseguimento do feito (fl. 127).
+    4. Como se observa, o pedido do Recorrente é no sentido de que seja aplicada ao caso a lei vigente à data de início de benefício, determinando-se “a manutenção do benefício (...) na forma como originalmente foi concedido” (fl. 107).
+    Todavia, o Juízo a quo alterou o principal fundamento do acórdão recorrido, qual seja a aplicação retroativa da Lei n. 9.032/1995, afirmando que o Recorrido teve o benefício instituído na vigência desta lei.
+    Desse modo, o objeto do recurso extraordinário (acórdão que determinou a aplicação retroativa da Lei n. 9.032/1995) não subsiste, o que importa no seu prejuízo.
+    5. Pelo exposto, julgo prejudicado o presente recurso extraordinário, por perda superveniente do objeto (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal e art. 557 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
