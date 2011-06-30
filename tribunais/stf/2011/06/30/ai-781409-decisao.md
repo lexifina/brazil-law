@@ -1,0 +1,10 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual decidiu que o contribuinte não possui direito de credita-se do ICMS referente à aquisição de bens de consumo, destinados ao ativo fixo, serviços de comunicação e energia elétrica.
+          No RE, sustenta-se ofensa ao artigo 155, § 2º, I, da Constituição Federal.
+    2. O recurso não merece prosperar. A decisão impugnada está em consonância com a jurisprudência do Supremo Tribunal Federal, no sentido da inexistência de direito de o contribuinte creditar-se do imposto pago na aquisição de energia elétrica, serviços de comunicação, bens do ativo fixo e de uso e consumo. Leia-se, a propósito, as ementas dos seguintes julgados: AI 761.990-AgR/GO, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 1º.02.2011; AI 752.939-AgR/PR, rel. Min. Ayres Britto, 2ª Turma, DJe 28.4.2011; e RE 547.725-AgR-ED/SC, rel. Min. Gilmar Mendes, 2ª Turma, DJe 21.6.2011, este último assim ementado:
+    “Embargos de declaração em agravo regimental em recurso extraordinário. 2. ICMS. Creditamento. Limitações impostas pela LC 102/2000. Questão devidamente apreciada no acórdão embargado com base na jurisprudência dominante do Supremo Tribunal Federal. Ausência de omissão no ponto. 3. Pronunciamento não conclusivo do Plenário sobre tema afim, no julgamento da cautelar na ADI 2.325. Circunstância objetiva não considerada no acórdão embargado e apta a afastar a má-fé do recorrente. Omissão sanada para descaracterizar a abusividade do recurso e relevar a multa aplicada, tornando-a insubsistente. 4. Embargos de declaração parcialmente acolhidos”.
+          O acórdão recorrido não divergiu desse entendimento.
+    3. Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
