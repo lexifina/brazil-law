@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1169, de 29 de junho de 2011
+Estabelece procedimentos especiais de controle, na importação ou na exportação de bens e mercadorias, diante de suspeita de irregularidade punível com a pena de perdimento.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010 e tendo em vista o disposto nos arts. 34 e 793 a 795 do Decreto nº 6.759, de 5 de fevereiro de 2009, no art. 36 da Lei nº 8.630, de 25 de fevereiro de 1993 e no art. 68 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001, resolve:
