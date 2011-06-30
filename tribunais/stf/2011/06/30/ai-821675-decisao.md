@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu o recurso extraordinário interposto contra acórdão o qual deu parcial provimento à apelação para condenar o Estado de Minas Gerais ao pagamento de férias proporcionais e à restituição de valores descontados sob a denominação de “débito de auxílio transporte” (fls. 216-222).
+    2.  No RE, sustenta-se ofensa aos artigos 37, II, IX, 39, § 3º, da Constituição Federal.
+    3.  O presente recurso não merece prosperar, visto que para o exame das violações alegadas, seriam necessários o reexame de fatos e provas e a análise de legislação local (Leis Estaduais 10.254/90 e 14.050/93), o que faz incidir as Súmulas STF 279 e 280, respectivamente. É o que se percebe da seguinte leitura do trecho do voto condutor do acórdão recorrido (fls. 219-221):
+          “Em relação ao alegado direito ao recebimento de valores referentes às férias proporcionais, entendo que razão assiste ao apelante, haja vista que os documentos apresentados, notadamente a contagem de tempo de serviço na Escola Estadual Anita Brina Brandão (f. 21), comprova sua designação para o ano de 2002 e o respectivo exercício, razão pela qual faz jus às férias proporcionais, referentes ao cargo PA5. Esse documento público prevalece sobre os quadros informativos juntados pelo Estado de Minas Gerais às f. 54/55, nos quais sequer há data de elaboração”.
+    (…)
+    O Estado de Minas Gerais fundamentou esse ato no argumento de que nesse mês o Apelante recebeu o vencimento do outro cargo, o que gerou aumento em sua remuneração, ultrapassando o montante previsto nos artigos 52 e 53 da Lei Estadual n.º14.050/93, para concessão desse benefício.
+    Todavia, essa alegação não prospera porque a considerável majoração em sua remuneração no referido mês, como afirmado pelo Estado de Minas Gerais, refere-se à percepção, em uma única parcela, dos vencimentos atrasados do outro cargo para o qual o Apelante foi designado, e não que sua remuneração mensal, paga regularmente, ultrapasse o valor previsto nessa Lei”.
+    4. Por fim, apenas a título de argumentação, ressalta-se que no AI 776.522-RG/RS, rel. Min. Dias Toffoli, Plenário Virtual, DJe 26.3.2010, em que se discutiu acerca da incidência do terço constitucional sobre a integralidade do período de férias gozadas por professores regidos sob contrato temporário, o Supremo Tribunal Federal manifestou-se pela inexistência de repercussão geral.
+    5.  Ante o exposto, nego seguimento ao presente agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
