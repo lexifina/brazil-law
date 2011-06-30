@@ -1,0 +1,13 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação aos arts. 5º, II, XXXV, XXXVI, LIV e LV, 7º, XXVI, e 8º, III, da Constituição Federal contra acórdão do Tribunal Superior do Trabalho que negou provimento ao agravo da decisão a qual negou seguimento a recurso de revista de decisão do TRT da 3ª Região (fls. 128-133).
+    2. O agravo não merece prosperar, pois rever a decisão do Tribunal a quo, para concluir de modo diverso, implicaria o reexame de fatos e de provas, o que é vedado em via extraordinária (Súmula STF 279). É o que se infere da conclusão do acórdão recorrido, bem resumido pela decisão agravada (fls. 148-149):
+    “Em relação ao tema 'transação extrajudicial – acordo coletivo', entendeu inviável o revolvimento de fatos e de provas em sede de Recurso de Revista, nos termos da Súmula nº 126 do TST. Quanto ao tema 'liquidação extrajudicial – juros de mora', concluiu, em síntese, que a existência de empresa em liquidação extrajudicial no pólo passivo não afasta a incidência de juros de mora, porquanto há condenação a responsáveis solidários que não se encontram em liquidação extrajudicial”.
+    3. Ademais, verifica-se que o acórdão recorrido limitou-se a tratar de matéria processual, relativa a pressuposto de cabimento de recurso trabalhista. E este Tribunal, em 14.8.2009, no julgamento do RE 598.365/MG, rel. Min. Ayres Britto, Plenário Virtual, unânime, decidiu pela inexistência de repercussão geral da matéria relacionada ao requisito de admissibilidade de recurso de competência de corte diversa, cujo acórdão contém a seguinte ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+          E, conforme estabelecem os artigos 543-A, § 5º, do Código de Processo Civil, 326 e 327do Regimento Interno do Supremo Tribunal Federal, a decisão de inexistência de repercussão geral proferida por este Tribunal valerá para todos os recursos sobre questão idêntica.
+    4. Ante o exposto, nego seguimento ao presente agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
