@@ -1,0 +1,11 @@
+1.   Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual manteve a sentença e entendeu pela responsabilidade solidária da operadora de turismo nos danos causados ao agravado em virtude de atraso no transporte aéreo.
+          No RE, sustenta-se ofensa aos arts. 5º, XXXII, 170, V, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos constitucionais dado como violados não se encontram prequestionados, porque não abordados pelo acórdão recorrido, tampouco foram opostos os embargos de declaração para satisfazer o requisito do prequestionamento. Incidem, na espécie, portanto, as Súmulas STF 282 e 356.
+    3. Ademais, para o exame das violações alegadas, seriam necessários o reexame de fatos e provas, cláusulas contratuais (Súmulas STF 279 e 454) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+          Nesse sentido cito o RE 575.803-AgR/RJ, rel. Min. Cezar Peluso, 2ª Turma, DJe 18.12.2009, AI 843.309-AgR/RJ, rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.6.2011 e RE 351.750/RJ, rel. Min. Marco Aurélio, 1ª Turma, DJe 25.9.2009, este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO. DANOS MORAIS DECORRENTES DE ATRASO OCORRIDO EM VOO INTERNACIONAL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. NÃO CONHECIMENTO. 1. O princípio da defesa do consumidor se aplica a todo o capítulo constitucional da atividade econômica. 2. Afastam-se as normas especiais do Código Brasileiro da Aeronáutica e da Convenção de Varsóvia quando implicarem retrocesso social ou vilipêndio aos direitos assegurados pelo Código de Defesa do Consumidor. 3. Não cabe discutir, na instância extraordinária, sobre a correta aplicação do Código de Defesa do Consumidor ou sobre a incidência, no caso concreto, de específicas normas de consumo veiculadas em legislação especial sobre o transporte aéreo internacional. Ofensa indireta à Constituição de República. 4. Recurso não conhecido”.
+    4. Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (CPC, art. 544, § 4º, II, b).
+          Publique-se.
+          Brasília, 30 de junho de 2011.
+Ministra Ellen Gracie
+Relatora
