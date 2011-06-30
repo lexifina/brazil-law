@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, cuja ementa tem o seguinte teor (fls. 124/125):
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO – RECURSO DO ESTADO – AÇÃO DE COBRANÇA – PRELIMINAR – PRESCRIÇÃO – REJEITADA – MÉRITO – REMUNERAÇÃO DE POLICIAIS MILITARES PAGA EM DESACORDO COM A LEI N. 2.180/2000 – GRATIFICAÇÕES DE HABILITAÇÃO POLICIAL MILITAR E TEMPO DE SERVIÇO – ETAPA ALIMENTAÇÃO – EXCEÇÕES – VALORES A SEREM PAGOS ALÉM DO VALOR DE REFERÊNCIA – VALOR DE REFERÊNCIA ADOTADO COMO VENCIMENTO BÁSICO – VERBAS DEVIDAS – CORREÇÃO MONETÁRIA – INPC/IBGE – JUROS DE MORA – 6% AO ANO – TERMO INICIAL – CITAÇÃO VÁLIDA – HONORÁRIOS ADVOCATÍCIOS – REDUÇÃO – OBSERVÂNCIA DA NORMA CONTIDA NO ART. 20, § 4º, DO CPC – RECURSO IMPROVIDO – SENTENÇA RATIFICADA.
+    Rejeita-se a argüida prescrição trienal, uma vez que, em se tratando de dívidas cobradas em face da Fazenda Pública, aplica-se o art. 1º do Decreto 20.910/32, que prevê prazo prescricional de cinco anos, notadamente porque esta é norma específica e prevalece sobre o disposto no artigo 206, § 3º, V, do Novo Código Civil, que é norma geral.
+    As gratificações de tempo de serviço e de habilitação policial militar são gratificações incorporáveis, por força do art. 96 da Lei n. 120/80, daí por que (sic) estão entre as 'vantagens de incorporações definitivas' e, via de conseqüência, estão entre as exceções previstas na parte final do artigo 2º da Lei n. 2.180/2000, não compondo a remuneração bruta para fins de cálculo do valor de referência e devendo ser pagas em separado.
+    O valor da etapa alimentação, por sua vez, também é exceção, por ser 'vantagem de caráter provisório', já que apenas é devida ao policial militar quando não lhe for fornecida a alimentação por sua organização policial militar (OPM) no rancho, ou quando, por imposição de horário de trabalho e distância de sua residência, seja obrigado a fazer refeição fora desta.
+    O Valor de Referência é o vencimento básico do cálculo das gratificações incorporáveis e da etapa alimentação, devendo estas ser adicionadas a este (Valor de Referência) e não ao soldo, que está revogado pela Lei 2.180/00.
+    Os juros moratórios devem incidir a partir da data da citação válida, momento em que o devedor é constituído em mora, no percentual de 6% ao ano, conforme a Medida Provisória 2.180-35, de 28.04.1999, que alterou a redação do artigo 1º da Lei . 9.494/97.
+    Conforme entendimento reiterado deste Colegiado, O IGPM/FGV é o índice que melhor reflete a inflação.
+    Nas causas em que é vencida a Fazenda Pública, a fixação dos honorários advocatícios deve ser feita consoante apreciação eqüitativa do juiz, atendidas as normas das alíneas 'a', 'b' e 'c' do § 3º do art. 20 do CPC.”
+    O tema debatido nos autos está adstrito à interpretação de direito local, o que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280 desta Corte. Nesse sentido: AI 674.274-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 26.06.2009) e RE 559.548-AgR, rel. min. Ellen Gracie, Segunda Turma, DJe de 28.11.2008).
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de junho de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
