@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    CPR Indústria e Comércio de Plásticos Ltda. interpõe recurso extraordinário contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA. MUNICÍPIO DE DUQUE DE CAXIAS. LEI MUNICIPAL 1.715/03. CONSTITUCIONALIDADE RECONHECIDA PELO ÓRGÃO ESPECIAL DESTE E. TRIBUNAL DE JUSTIÇA NA ARGUIÇÃO DE INCONSTITUCIONALIDADE Nº 78/2006. VINCULAÇÃO DOS ÓRGÃOS FRACIONÁRIOS, NA FORMA DO ART. 103 DO RITJRJ. REFORMA DA SENTENÇA. CONDENAÇÃO DA PARTE AUTORA AO PAGAMENTO DAS CUSTAS E HONORÁRIOS ADVOCATÍCIOS. PROVIMENTO DO RECURSO.
+    Insurge-se, no apelo extremo, fundado na alínea “a ”e “c”, do permissivo constitucional, contra o reconhecimento da inconstitucionalidade da Lei Municipal nº 1.715/03, do Município de Duque de Caxias, por suposta violação dos artigos 1º, 149-A e 150, incisos I e III, da Constituição Federal.
+    Depois de apresentadas contrarrazões (folhas 438 a 457), o recurso foi admitido, na origem (folha 464), subindo os autos a esta Corte.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que a recorrente pretende que esta Corte declare a inconstitucionalidade de medida provisória editada pelo chefe do poder executivo municipal, sob o argumento de ausência de previsão da adoção de tal ato normativo, na carta estadual. À toda evidência, pretende a recorrente que esta Corte reexamine direito local, o que é vedado na esfera do extraordinário, a teor da Súmula nº 280/STF.
+    De mais a mais, o acórdão recorrido ajusta-se à jurisprudência já sedimentada neste Supremo Tribunal Federal no sentido da perfeita legalidade e constitucionalidade da instituição, pelos Municípios, da contribuição de iluminação pública, nos moldes em que disposto pelo recorrido.
+    Nesse sentido, transcreve-se a ementa do acórdão proferido pelo Pleno desta Corte, em autos, ademais, em que reconhecida a repercussão geral da matéria constitucional em discussão, que assim dispôs:
+    “CONSTITUCIONAL. TRIBUTÁRIO. RE INTERPOSTO CONTRA DECISÃO PROFERIDA EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE ESTADUAL. CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA - COSIP. ART. 149-A DA CONSTITUIÇÃO FEDERAL. LEI COMPLEMENTAR 7/2002, DO MUNICÍPIO DE SÃO JOSÉ, SANTA CATARINA. COBRANÇA REALIZADA NA FATURA DE ENERGIA ELÉTRICA. UNIVERSO DE CONTRIBUINTES QUE NÃO COINCIDE COM O DE BENEFICIÁRIOS DO SERVIÇO. BASE DE CÁLCULO QUE LEVA EM CONSIDERAÇÃO O CUSTO DA ILUMINAÇÃO PÚBLICA E O CONSUMO DE ENERGIA. PROGRESSIVIDADE DA ALÍQUOTA QUE EXPRESSA O RATEIO DAS DESPESAS INCORRIDAS PELO MUNICÍPIO. OFENSA AOS PRINCÍPIOS DA ISONOMIA E DA CAPACIDADE CONTRIBUTIVA. INOCORRÊNCIA. EXAÇÃO QUE RESPEITA OS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSO EXTRAORDINÁRIO IMPROVIDO. I - Lei que restringe os contribuintes da COSIP aos consumidores de energia elétrica do município não ofende o princípio da isonomia, ante a impossibilidade de se identificar e tributar todos os beneficiários do serviço de iluminação pública. II - A progressividade da alíquota, que resulta do rateio do custo da iluminação pública entre os consumidores de energia elétrica, não afronta o princípio da capacidade contributiva. III - Tributo de caráter sui generis, que não se confunde com um imposto, porque sua receita se destina a finalidade específica, nem com uma taxa, por não exigir a contraprestação individualizada de um serviço ao contribuinte. IV - Exação que, ademais, se amolda aos princípios da razoabilidade e da proporcionalidade. V - Recurso extraordinário conhecido e improvido” (RE nº 573.675/SC, Relator o Ministro Ricardo Lewandowski, DJe de 22/05/09).
+    A decisão atacada ajusta-se a tal entendimento, fato a acarretar a rejeição do presente recurso.
+    Ante o exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de junho de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
