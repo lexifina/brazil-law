@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado (fl. 100):
+    “Administrativo – Mandado de segurança – Docente estadual admitido em substituição sob a égide da Lei 500/74 e em gozo de licença saúde – Redução de vencimentos em razão do retorno dos titulares dos cargos – Possibilidade – Mitigação salarial que ocorreria mesmo se em exercício estivesse o impetrante – Direito líquido e certo inexistente – Precedente deste Tribunal – Sentença concessiva da ordem que se reforma – Apelo e reexame necessário providos”.
+    Opostos embargos declaratórios, estes foram rejeitados, ao fundamento de inexistência de falhas no acórdão recorrido (fl. 122).
+    No apelo extremo, interposto com esteio na alínea “a” do permissivo constitucional, a recorrente sustenta violação ao artigo 6º da Constituição Federal que prevê, entre outros, a saúde como dever social. Alega, ainda, a inobservância ao princípio da legalidade, insculpido no artigo 37, caput, da Lei Maior, tendo em vista que, no seu entender, não foi aplicada a legislação pertinente ao caso, qual seja, o art. 91, parágrafo único da LC 444/85 (fls. 144-145). Por fim, aduz ser notória a admissão de servidores temporários nos termos da Lei 500/74, aos quais a Administração não confere os direitos mais elementares.
+    Segundo os fundamentos da decisão agravada, o apelo extremo não pode ser admitido, porque a análise da questão demandaria o exame de matéria infraconstitucional (fl. 157-158).
+    No presente agravo sustenta-se que a matéria constitucional foi devidamente prequestionada e repisam-se os argumentos expostos no recurso extraordinário.
+    É o relatório.
+    Primeiramente, observo que o agravo de instrumento não refuta o fundamento de inadmissão do recurso extraordinário utilizado pela decisão agravada.
+    No caso concreto não se discute a existência de prequestionamento, mas, sim, o fato de o núcleo da controvérsia cingir-se a matéria infraconstitucional.
+    Com efeito, a celeuma diz respeito à correta interpretação de norma que disciplina o licenciamento de servidor por motivo de saúde, observando-se, ademais, as particularidades do magistério, carreira em que vige o sistema de atribuições de aulas.
+    É o que se extrai dos seguintes trechos do acórdão recorrido (fls. 101-102):
+    “Inconcusso o direito de o servidor licenciado por problema de saúde receber seus vencimentos durante o período de afastamento, inclusive os ocupantes de função-atividade (arts. 191 da Lei 10.261/68; 25, II; e 26 da Lei 500/74).
+    Acontece que a carreira docente apresenta algumas particularidades que a diferenciam dos demais ramos do funcionalismo, como, por exemplo, a atribuição anual de aulas.
+    (...)
+    Desse modo, havendo notícia de que os mestres substituídos retornaram à atividade (fl. 50) e ausente indicativo de que o acionante participou do procedimento de atribuição de aulas do período seguinte, escorreita a adequação de seus vencimentos e carga horária, fato esse que, por sinal, ocorreria ainda que não estivesse ele licenciado”.
+    Nesse contexto, segundo pacífica jurisprudência desta Corte, mera alegação de violação ao primado constitucional da legalidade ou de direitos sociais, como o da saúde, são insuficientes para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma mediata.
+    Sobre o tema, cito o RE-AgR 522767, Rel. Min. Marco Aurélio, Primeira Turma, DJe 12.4.2011 e o AI-AgR 820524, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.3.2011 e o AI-AgR 768904, Rel. Min. Ellen Gracie, Segunda Turma, DJe, 1.7.2010, o último ementado nos seguintes termos:
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SUSPENSÃO DO PAGAMENTO DE SERVIDOR EM PERÍODO DE LICENÇA MÉDICA. ART. 37, CAPUT, CF/88. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DO PREQUESTIONAMENTO IMPLÍCITO. LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULAS STF 279 E 282. 1. O dispositivo constitucional tido como violado não foi prequestionado pelo acórdão recorrido, nem pelos embargos de declaração opostos. Súmula STF 282. 2. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Precedentes. 3. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, caput, da Constituição Federal. 4. Inexistência de argumento capaz de infirmar a decisão impugnada, que deve ser mantida pelos seus próprios fundamentos. 5. Agravo regimental improvido”.
+    Portanto, em razão de o pedido da parte estar imediatamente relacionado ao art. 191 da Lei 10.261/68 e ao art. 26 da Lei 500/74, evidencia-se, in casu, violação meramente reflexa à norma Constitucional.
+    Assim, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 1º de julho de 2011.
+ Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
