@@ -1,0 +1,26 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por José Alfredo Luiz Jorge em favor de ANDRÉ RICARDO BONETTI ROSA, no qual aponta como autoridade coatora o Ministro Haroldo Rodrigues (Desembargador Convocado do TJ/CE), que indeferiu a liminar no HC 180.993/SP do Superior Tribunal de Justiça.
+    O impetrante/paciente narra, de início, que foi denunciado pela suposta prática dos crimes previstos nos arts. 1º, II, e 11 da Lei 8.137/1990, sendo absolvido pelo juízo de primeiro grau.
+    Informa, em seguida, que, contra a sentença absolutória, o Ministério Público do Estado de São Paulo interpôs apelação, tendo o Tribunal de Justiça daquele Estado dado provimento ao recurso para condená-lo à pena de dois anos de reclusão, a qual foi substituída pela restritiva de direitos consistente na prestação de serviços à comunidade, pelo prazo de dois anos.
+    Relata, também, que a defesa apresentou recurso especial, não admitido na origem, sendo interposto o respectivo agravo de instrumento para o Superior Tribunal de Justiça, ao qual o Ministro Relator negou seguimento. Interposto o agravo regimental, este restou igualmente desprovido, ocorrendo o trânsito em julgado da condenação para a defesa em 2/3/2010. Diz, em acréscimo, que a sentença tornou-se definitiva para a acusação em 18/8/2008.
+    Aduz, desse modo, que, já na fase de execução da reprimenda, a pedido da defesa, o juízo da execução reconheceu a extinção da punibilidade pela ocorrência da prescrição, mas acrescentou, como efeito da condenação, a suspensão de seus direitos políticos.
+    Contra esse decisum, a defesa manejou agravo em execução, sendo desprovido o recurso. Opostos embargos de declaração, este foram acolhidos para anular o acórdão anterior, tendo o TJ/SP, em seguida, determinado a comunicação do édito condenatório à Justiça Eleitoral, a quem compete adotar as medida relacionadas aos direitos políticos do condenado.
+    Inconformada com essa providência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, tendo o Ministro Relator indeferido a liminar em 2/9/2010, estando o processo concluso desde 8/11/2010.
+    É contra essa decisão que se insurge o impetrante/paciente.
+    Sustenta, em síntese, que se encontra submetido a constrangimento ilegal, em razão de ato praticado pelo Juízo da Execução, que, acolhendo proposição do Ministério Público, “IMPÔS MAIOR GRAVAME AO ACÓRDÃO CONDENATÓRIO PROFERIDO PELO TRIBUNAL DE JUSTIÇA, acrescentando-lhe penalidade não estabelecida no ato judicial condenatório e para a qual, quando fixada, é exigida fundamentação idônea no título executivo judicial”.
+    Explica, ademais, que a “causa de pedir a concessão da ordem de habeas corpus está circunscrita ao excesso de execução criminal, à ilegalidade do ato do Juízo da Execução Criminal que agravou a penalidade que foi imposta” (grifos no original).
+    Assevera, também, “embora requerida a urgência de entrega da prestação jurisdicional, no âmbito Superior Tribunal de Justiça a medida acauteladora foi indeferida e o processo, com parecer do Ministério Público Federal, permanece concluso desde 8 de novembro de 2010, perpetuando, desse modo, o constrangimento ilegal ao qual está submetido o paciente”.
+    Alega, em seguida, que o caso sob análise autoriza a superação do enunciado da Súmula 691/STF, ante o flagrante constrangimento ilegal concretizado contra ele.
+    Enfatiza, outrossim, a ofensa ao art. 92, I, a e b, e parágrafo único, do Código Penal, assentando, também, a não incidência do art. 15, III, da Constituição Federal, pelos motivos que expôs.
+    Requer, ao final, liminarmente, a suspensão dos efeitos do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que confirmou a decisão do juízo da execução, suspendendo-se, também, o ato do juízo criminal. Alternativamente, pede, em liminar, “seja determinado ao Superior Tribunal de Justiça a adoção de medidas necessárias à célere entrega da prestação jurisdicional (...)” (grifos no original).
+    No mérito, postula a concessão da ordem para “expurgar o acréscimo indevido à execução penal praticado pelo Juízo Criminal”.
+    É o relatório suficiente. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, a liminar pleiteada confunde-se com o próprio mérito da impetração, o qual será apreciado no momento oportuno pela Turma julgadora.
+    Quanto à suposta demora no julgamento do HC 180.993/SP do Superior Tribunal de Justiça, tenho, reiteradamente, me rendido à observação de que o excesso de trabalho que assoberba aquela Corte é digno de flexibilizar, em alguma medida, o princípio constitucional da razoável duração do processo, pelo menos neste primeiro exame da impetração.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Solicitem-se informações ao Ministro Relator do HC 180.993/SP do Superior Tribunal de Justiça.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 1º de julho de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
