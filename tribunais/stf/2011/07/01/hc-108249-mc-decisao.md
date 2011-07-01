@@ -1,0 +1,17 @@
+DECISÃO
+HOMICÍDIO CONSUMADO E HOMICÍDIO TENTADO – PRISÃO EM FLAGRANTE – IMPETRAÇÃO EM CURSO NO SUPERIOR TRIBUNAL DE JUSTIÇA – LIMINAR INDEFERIDA – REITERAÇÃO DA MEDIDA NO SUPREMO – EXCEPCIONALIDADE NÃO VERIFICADA – JULGAMENTO DE FUNDO.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente-impetrante foi preso em flagrante no dia 16 de janeiro de 2011, porque, em uma festa de rodeio realizada na Comarca de Veranópolis, Estado do Rio Grande do Sul, teria efetuado disparos com arma de fogo, ocasionando a morte de uma pessoa e provocando ferimentos em outra. Homologado o flagrante, a defesa requereu o relaxamento da prisão.
+    O Juízo daquela Comarca não acolheu o pedido. Anotou a necessidade de manter-se a prisão, considerada a presença de requisito indispensável à custódia preventiva: o resguardo da ordem pública, ante a gravidade concreta do delito.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul, ao indeferir ordem de habeas corpus, destacou haver o episódio gerado comoção social, pois fora praticado em local público, colocando-se em risco a integridade de pessoas alheias à discussão. Disse também da existência de grande número de testemunhas, que mereciam ser preservadas para proporcionarem melhor elucidação dos fatos. Entendeu necessária a manutenção da custódia processual, tendo em conta a ordem pública, o bom andamento do processo e a aplicação da lei penal.
+    Na idêntica medida formalizada no Superior Tribunal de Justiça – de nº 200.689/RS –, o Ministro Celso Limongi, Desembargador do Tribunal de Justiça do Estado de São Paulo, convocado, deixou de implementar a providência acauteladora pretendida. Apontou que a constrição da liberdade acabou mantida em razão da periculosidade concreta do ora paciente-impetrante, evidenciada pelo modo como a conduta criminosa fora praticada.
+    Neste habeas, o paciente-impetrante volta-se contra essa decisão. Sustenta estarem ausentes os requisitos indispensáveis à preventiva, pois a tanto não seriam suficientes os fundamentos relacionados à gravidade abstrata do crime, a periculosidade do agente, o clamor social e o risco à instrução processual. Afirma ser primário, de bons antecedentes, e ter família constituída. Destaca, alfim, que a prisão processual não pode confundir-se com aquela decorrente de sentença penal condenatória transitada em julgado, sob risco de ofensa ao princípio da não culpabilidade ante a antecipação da pena. Assevera estar-se diante de situação a autorizar a relativização do óbice previsto no Verbete nº 691 da Súmula do Supremo.
+    Pede a concessão de liminar, determinando-se a expedição de alvará de soltura, para assegurar-lhe o direito de permanecer em liberdade até o julgamento final da ação penal. No mérito, pleiteia a confirmação da medida acauteladora que vier a ser deferida.
+    2. Observem a circunstância de o paciente-impetrante haver sido preso em flagrante e ter contra si denúncia quanto a homicídio qualificado e tentado, aludindo-se a qualificadora. De início, incide o disposto na Lei nº 8.072, artigo 1º, inciso I, conjugado com o inciso XLIII do artigo 5º da Constituição Federal.
+    O contexto não apresenta excepcionalidade a ditar, no campo precário e efêmero, a atuação do relator como porta-voz do Colegiado. Há de aguardar-se o crivo deste último.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 1º de julho de 2011, às 19h15.
+Ministro MARCO AURÉLIO
+Relator
