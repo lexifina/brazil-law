@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário interposto de acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “NULIDADE DO PROCEDIMENTO ADMINISTRATIVO. PERDIMENTO. DECRETO-LEI Nº 1.455/76. EQUIPAMENTO DE RADIOTERAPIA USADO.
+    Não há falar que o perdimento administrativo de bens previsto no Decreto-lei nº 1.455/76 não foi recepcionado pelo CF/88, porquanto o inc. LIV do art. 5º estabelece que “ninguém será privado da liberdade ou de seus bens sem o devido processo legal”, respeitado no caso vertente, em que se submeteu a empresa a procedimento administrativo regular no qual se apurou irregularidade na importação, resultando na decretação de perdimento do equipamento de radioterapia importado.
+    Para a internação no território nacional de equipamento de radioterapia usando faz-se necessária a apresentação de Laudo Técnico de Vistoria e Avaliação, consoante os termos do art. 23 da Portaria DECEX 08/91. Todavia, essa exigência de natureza extrafiscal não foi observada pelo importador, culminando com o ingresso no país de equipamento com mais de 26(vinte e seis) anos de uso, o que se afigura uma temeridade, uma vez que é potencialmente lesivo aos usuários, os quais acreditam estar se valendo de tecnologia moderna/avançada enquanto, na realidade, sequer as condições técnicas as do equipamento são conhecidas, porquanto desembaraçado como novo.”(fl. 358)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos XXII, XXIII, LVI, XLV, XLVII, LIV, LV e LVII; 13; 93, IX; 150, IV; e170, caput e inciso II, da Constituição Federal.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, destaco que para se concluir de forma diversa do acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas constantes dos autos, providência vedada em sede de recurso extraordinário, por força da Súmula 279 do STF.
+    Para melhor ilustrar transcrevo trecho da alegação trazida pela parte recorrente: “... a decisão administrativa que levou absurda conclusão de que o aparelho importado era usado e não novo se fulcrou em documento estrangeiro juntados pelo fisco e não vertido para vernáculo, há de se perquirir se tal afronta e contraria o art. 13 da Constituição Federal.” (fl. 389)
+    Com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, o Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte segundo a qual o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No tocante ao suposto cerceamento de defesa (art. 5º, LV e LIV), a jurisprudência desta Corte é no sentido de que a alegação de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, ofensa meramente reflexa às normas constitucionais. Confiram-se os seguintes precedentes: AI-AgR 610.585, Rel. Min. Ayres Britto, Primeira Turma, DJe 5.5.09, e AI-AgR 752.841, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.10.
+    Finalmente, verifico que quanto a violação do art. 13 da Constituição Federal, incide no caso concreto o óbice da Súmula 283 desta Suprema Corte, na medida em que a decisão que ensejou o recurso extraordinário se assenta em fundamento não enfrentado pelo recorrente.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 6 de julho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
