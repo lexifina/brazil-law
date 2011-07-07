@@ -1,0 +1,1 @@
+Art. 6º-D. As instalações dos Cras e dos Creas devem ser compatíveis com os serviços neles ofertados, com espaços para trabalhos em grupo e ambientes específicos para recepção e atendimento reservado das famílias e indivíduos, assegurada a acessibilidade às pessoas idosas e com deficiência.

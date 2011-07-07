@@ -1,0 +1,2 @@
+Art. 24-A. Fica instituído o Serviço de Proteção e Atendimento Integral à Família (Paif), que integra a proteção social básica e consiste na oferta de ações e serviços socioassistenciais de prestação continuada, nos Cras, por meio do trabalho social com famílias em situação de vulnerabilidade social, com o objetivo de prevenir o rompimento dos vínculos familiares e a violência no âmbito de suas relações, garantindo o direito à convivência familiar e comunitária.
+Parágrafo único. Regulamento definirá as diretrizes e os procedimentos do Paif.
