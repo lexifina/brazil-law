@@ -1,3 +1,3 @@
 Art. 24. Os programas de assistência social compreendem ações integradas e complementares com objetivos, tempo e área de abrangência definidos para qualificar, incentivar e melhorar os benefícios e os serviços assistenciais.
 § 1º Os programas de que trata este artigo serão definidos pelos respectivos Conselhos de Assistência Social, obedecidos os objetivos e princípios que regem esta lei, com prioridade para a inserção profissional e social.
-§ 2º Os programas voltados ao idoso e à integração da pessoa portadora de deficiência serão devidamente articulados com o benefício de prestação continuada estabelecido no art. 20 desta lei.
+§ 2º Os programas voltados para o idoso e a integração da pessoa com deficiência serão devidamente articulados com o benefício de prestação continuada estabelecido no art. 20 desta Lei.
