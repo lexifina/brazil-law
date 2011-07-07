@@ -1,0 +1,2 @@
+Altera a Lei nº 8.689, de 27 de julho de 1993, que dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS e dá outras providências, para que a prestação de contas dos gestores do Sistema Único de Saúde - SUS ao Poder Legislativo estenda-se à esfera federal de governo.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
