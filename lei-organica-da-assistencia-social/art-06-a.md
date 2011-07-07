@@ -1,0 +1,4 @@
+Art. 6º-A. A assistência social organiza-se pelos seguintes tipos de proteção:
+I - proteção social básica: conjunto de serviços, programas, projetos e benefícios da assistência social que visa a prevenir situações de vulnerabilidade e risco social por meio do desenvolvimento de potencialidades e aquisições e do fortalecimento de vínculos familiares e comunitários;
+II - proteção social especial: conjunto de serviços, programas e projetos que tem por objetivo contribuir para a reconstrução de vínculos familiares e comunitários, a defesa de direito, o fortalecimento das potencialidades e aquisições e a proteção de famílias e indivíduos para o enfrentamento das situações de violação de direitos.
+Parágrafo único. A vigilância socioassistencial é um dos instrumentos das proteções da assistência social que identifica e previne as situações de risco e vulnerabilidade social e seus agravos no território.
