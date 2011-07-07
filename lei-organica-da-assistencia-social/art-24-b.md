@@ -1,0 +1,2 @@
+Art. 24-B. Fica instituído o Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos (Paefi), que integra a proteção social especial e consiste no apoio, orientação e acompanhamento a famílias e indivíduos em situação de ameaça ou violação de direitos, articulando os serviços socioassistenciais com as diversas políticas públicas e com órgãos do sistema de garantia de direitos.
+Parágrafo único. Regulamento definirá as diretrizes e os procedimentos do Paefi.

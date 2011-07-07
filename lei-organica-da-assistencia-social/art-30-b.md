@@ -1,0 +1,1 @@
+Art. 30-B. Caberá ao ente federado responsável pela utilização dos recursos do respectivo Fundo de Assistência Social o controle e o acompanhamento dos serviços, programas, projetos e benefícios, por meio dos respectivos órgãos de controle, independentemente de ações do órgão repassador dos recursos.
