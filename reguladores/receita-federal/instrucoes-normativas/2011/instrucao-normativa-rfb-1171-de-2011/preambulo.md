@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1171, de 7 de julho de 2011
+Estabelece procedimentos para o arrolamento de bens e direitos e propositura de medida cautelar fiscal.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 1º a 4º da Lei Nº 8.397, de 6 de janeiro de 1992, nos arts. 64 e 64-A da Lei Nº 9.532, de 10 de dezembro de 1997, e no art. 32 da Lei Nº 11.941, de 27 de maio de 2009, resolve:
