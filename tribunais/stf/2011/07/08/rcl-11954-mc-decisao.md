@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo BANCO CENTRAL DO BRASIL, contra acórdão prolatado no Recurso Ordinário nº 00642-2008-031-01-00-7 pela Sétima Turma do Tribunal Regional do Trabalho da 1ª Região, e contra decisão monocrática que negou seguimento a recurso de revista do recorrente, para manter a condenação subsidiária da autarquia ao pagamento de verbas trabalhistas devidas por empresa terceirizada prestadora de serviços de vigilância e segurança, com fundamento no item IV da Súmula 331 do TST.
+    Alega a reclamante afronta ao comando da Súmula Vinculante nº 10, pois a decisão reclamada teria declarado a inconstitucionalidade incidental do art. 71, § 1º, da Lei nº 8.666/1993, sem obediência ao princípio da reserva de plenário, bem como à autoridade da decisão proferida na ADC nº 16, de minha relatoria, que declarou a constitucionalidade do dispositivo mencionado. Requer a concessão de medida liminar inaudita altera pars para suspender a decisão proferida nos autos do Recurso Ordinário nº 00642-2008-031-01-00-7.
+    2. É caso de liminar.
+    O deferimento de medida liminar, como se sabe, exige a presença concomitante do chamado fumus boni iuris , consistente na razoabilidade jurídica da pretensão, bem como do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+    É que, segundo a opção político-legislativa, somente na coexistência desses requisitos, isto é, diante de alegação de direito subjetivo cuja existência apareça, ao mesmo tempo, como provável e sob risco de dano grave e iminente, se legitima transgressão da cadeia procedimental ordinária, prevista na lei, para, antes ainda da cognição final, profunda e plena, da causa, conceder-se decisão tuitiva provisória.
+    Na espécie, entendo presente o fumus boni iuris, consubstanciado no confronto entre a decisão reclamada e a proferida pelo Plenário desta Corte no julgamento da ADC nº 16, de minha relatoria (DJe 6.12.2010), oportunidade em que a Corte declarou a constitucionalidade do art. 71, § 1º, da Lei nº 8666/1993.
+    Ao afastar a aplicação do dispositivo mencionado, com fundamento no entendimento esposado na Súmula 331, item IV, do TST, a decisão reclamada violou o princípio da reserva de plenário, enunciado na Súmula Vinculante nº 10:
+    “Viola a cláusula de reserva de Plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Em casos análogos ao presente, a Corte tem se manifestado nos termos desta ementa exemplar:
+    “Ementa: Agravo Regimental em Reclamação. 2. Direito do Trabalho. Súmula 331, IV, do Tribunal Superior do Trabalho. Acórdão de Órgão Fracionário. Violação à Cláusula de Reserva de Plenário. Súmula Vinculante 10. Ocorrência. Responsabilidade Subsidiária da Administração Pública. Afastamento. Art. 71, § 1º, da Lei 8.666/1993. Constitucionalidade. Precedente. ADC 16. Agravo Regimental a que se dá provimento, para reconsiderar a decisão agravada e julgar procedente a reclamação” (Rcl nº 9.894, Rel Min. GILMAR MENDES, DJe 17.2.2011. No mesmo sentido: Rcl nº 8150, Rel. para acórdão Min. ELLEN GRACIE, DJe 3.3.2011; Rcl nº 11486-MC, Rel. Min. LUIZ FUX, DJe 17.6.2011; Rcl nº 11853, Rel. Min. CÁRMEN LÚCIA, DJe 20.6.2011; e Rcl nº 11849-MC, Rel. Min. AYRES BRITTO, DJe 22.6.2011).
+    Por fim, também se encontra presente o periculum in mora, ante a possibilidade de trânsito em julgado da decisão reclamada.
+    3. Ante o exposto, defiro a medida liminar, para suspender a decisão proferida nos autos do AIRR nº 0064200-90.2008.5.01.0031.
+    Oficie-se à autoridade reclamada para que preste informações, nos termos do art. 157 do RISTF.
+    Após, distribua-se na forma regimental.
+    Publique-se. Int..
+    Brasília, 8 de julho de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
