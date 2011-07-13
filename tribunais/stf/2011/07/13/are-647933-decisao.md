@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna acórdão proferido pela 3ª Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro.
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição federal, sustenta-se ofensa ao artigo 5º, II, XXXV, XXXVI e LV, do texto constitucional.
+    Nas razões recursais, alega-se, em síntese, que “não há falha na prestação de serviço, afigurando-se a negativa praticada pela recorrente em legítimo direito já que não há a cobertura para o procedimento pretendido, ou melhor, não há a obrigatoriedade da recorrente em fornecer o material da marca escolhida pela recorrida sem que exista ao menos uma justificativa para tal pleito, não havendo, por conseguinte, o dever de indenizar e/ou compensar pelo dano moral, conforme, data venia, condenou o magistrado, em especial no montante pelo mesmo arbitrado” (fl. 88).
+     Decido.
+    O recurso não merece prosperar.
+     In casu, restou expressamente consignado na sentença que:
+    “Trata-se, indiscutivelmente, de relação jurídica de consumo, com aplicação das normas contidas na Lei nº 8.078/1990, sendo cabível, ante a configuração da hipossuficiência da autora, a inversão do ônus da prova, conforme estabelece o artigo 6º, VIII, CDC, já deferida em decisão de fls. 14.
+    Assim sendo, incumbia a ré comprovar que não negou a liberação da referida prótese, necessária à cirurgia da autora, ônus do qual não se desincumbiu.
+    Como se verifica nos documentos de fls. 11, trazidos aos autos pela autora, lhe foi diagnosticado um quadro de coxartrose bilateral, com necessidade de intervenção cirúrgica para colocação de prótese total de quadril. Todavia, o procedimento não foi autorizado pela ré quando solicitado pelo autor, nem tampouco após a decisão de fls. 14.
+    Dúvidas não restam, portanto, que a colocação da referida prótese, por meio de cirurgia, é essencial para evitar o agravamento da doença em questão, sendo certo, portanto, que a referida prótese está aliada a uma cirurgia não eletiva, não tendo pois qualquer caráter estético.
+    Assim sendo, não se configura a hipótese de excludente de cobertura por plano de saúde hospitalar, exceção essa relativa tão somente a próteses de cunho estético, conforme estabelece o artigo 10, inciso I, da Lei nº 9.656/98.
+    (...)
+    Quanto ao pedido de indenização extrapatrimonial, em face da ré, há que se reconhecer a incidência do dano moral indenizável, evidenciado pelo próprio fato.
+    (...)
+    No que tange à fixação do quantum debeatur, não resultou comprovado qualquer prejuízo moral de natureza extraordinária que justifique o excessivo valor pleiteado. No tocante à sua quantificação, deve o julgador pautar-se pelo princípio da lógica do razoável, sem esquecer do caráter punitivo e inibidor da reincidência que deve revestir dita condenação, sem que tal medida sirva também de fator de legitimação do enriquecimento sem causa. Destarte, com base em tais premissas, entende este julgador por fixar o valor da indenização devida pela requerida ao requerente em R$ 8.000,00 (oito mil reais)” (fls. 50-51).
+     Para entender de forma diversa, faz-se imprescindível a análise dos fatos e provas constantes dos autos, o reexame da legislação infraconstitucional aplicável ao caso (CDC e Lei nº 9.656/98) e a interpretação de cláusulas contratuais, o que não enseja a abertura da via extraordinária, nos termos das Súmulas 279, 454 e 636 do STF.
+     Cito, a propósito, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PLANO DE ASSISTÊNCIA À SAÚDE. REALIZAÇÃO DE CIRURGIA. SISTEMA CO-PARTICIPATIVO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – A apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor), do reexame dos fatos e provas constantes nos autos e do contrato celebrado entre as partes. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido” (AI-AgR 805.960, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+    “CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. CONTROVÉRSIA DECIDIDA COM FUNDAMENTO NA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS STF 279 E 454. 1. Concluir de forma diversa do assentado no julgado do Tribunal de origem demandaria a prévia análise de fatos, provas, cláusulas contratuais (Súmulas STF 279 e 454) e da legislação infraconstitucional aplicável à espécie (CDC e Lei 9.656/98), hipóteses inviáveis em sede extraordinária. Precedentes. 2. Agravo regimental improvido” (AI-AgR 761.879, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.9.2010).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de julho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
