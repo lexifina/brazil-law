@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1172, de 13 de julho de 2011
+Altera a Instrução Normativa SRF nº 242, de 6 de novembro de 2002, que dispõe sobre o controle de internação de mercadorias da Zona Franca de Manaus para o restante do território nacional.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 505, 506, 508, 509, 551 e 578 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
