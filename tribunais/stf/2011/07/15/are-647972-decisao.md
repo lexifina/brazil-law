@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. 1. INCIDÊNCIA DA PRESCRIÇÃO BIENAL. O art. 37 da CF/88 não foi devidamente prequestionado no Regional, motivo pelo qual não pode ser examinado nesta Instância Superior, a teor da Súmula nº 297/TST. O art. 7º, XXIX, da CF/88 não está violado em sua literalidade, pois a tese do Regional é a de que, não obstante tenha se consumado a prescrição bienal, o ente público praticou ato que importou na renúncia à prescrição, ao celebrar contrato de parcelamento da dívida relativa aos depósitos do FGTS junto à Caixa Econômica Federal, quando já ultrapassados dois anos do término do vínculo empregatício. 2. EXCLUSÃO DA MULTA DIÁRIA. OBRIGAÇÃO DE FAZER. O art. 100 da Constituição Federal está incólume, pois a determinação confirmada pela segunda instância é apenas para que sejam fornecidos os dados necessários à identificação dos requerentes para fins de recolhimento de FGTS, de forma a tornar eficaz o provimento jurisdicional, havendo imposição de multa tão somente para a hipótese de descumprimento dessa obrigação. Ou seja, não houve determinação para que haja pagamento fora de precatório. Agravo de instrumento conhecido e não provido.” (fl. 139)
+    Segundo os fundamentos da decisão agravada, o apelo extremo não pode ser admitido porque:
+    “ (...) o acórdão impugnado fundamentou-se, exclusivamente, na aplicação de dispositivos infraconstitucionais. No presente caso, para se chegar à conclusão diversa, seria necessário reexaminar a interpretação dada à norma infraconstitucional (art. 191 do Código Civil). Assim, eventual ofensa ao texto constitucional somente se daria por via reflexa.(...)” . (fl. 167- verso)
+    No apelo extremo, sustenta-se que ocorreu violação à regra inscrita no art. 7º, XXIX, da Constituição da República.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional. A ofensa à Constituição, se ocorrente, seria indireta, O que não enseja a abertura da via extraordinária.
+    Nesse sentido, RE-AgR 581.885, Rel. Min. Ellen Gracie, 2ª Turma, DJe 7.11.2008 e AI-AgR 698.625, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 3.4.2009, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PRESCRIÇÃO. APLICAÇÃO DO CÓDIGO CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+    Ademais, ressalto que esta via excepcional não viabiliza pretensão cuja análise demande verificações probatórias, conforme enunciado 279 da Súmula desta Corte.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 15 de julho de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
