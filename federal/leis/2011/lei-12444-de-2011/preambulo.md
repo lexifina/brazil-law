@@ -1,0 +1,4 @@
+LEI Nº 12.444, DE 15 DE JULHO DE 2011
+Denomina Viaduto Engenheiro Ernesto de Souza Diniz o viaduto localizado na BR- 230, no cruzamento com a Avenida Tancredo Neves, na cidade de João Pessoa, no Estado da Paraíba.
+A P R E S I D E N T A D A R E P Ú B L I C A
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
