@@ -1,0 +1,9 @@
+DECISÃO: 1. Trata-se de mandado de segurança, com pedido de liminar, impetrado contra decisão proferida por “DESEMBARGADOR DA TRIGÉSIMA QUINTA CAMARA DE DIREITO PRIVADO DO ESTADO DE SÃO PAULO” (p. 1), “com o fim específico de REFORMAR A DECISÃO DO ILUSTRISSIMO DESEMBARGADOR DANDO ASSIM PROVIMENTO AO RECURSO DE APELAÇAO, modificando assim a r. sentença proferida pelo MM. Juiz de Primeira Instancia da 2° Vara Cível da Comarca de Diadema – SP., nos autos do Processo n° 161.01.2000.002607-8/0., Numero de Ordem: 415/2000” (p. 8 – destaque no original).
+    2. Incompetente esta Corte.
+          É velha e aturada a jurisprudência deste Tribunal, no sentido de lhe escapar à competência originária a cognição de mandado de segurança contra ato de tribunais que não aqueles catalogados no art. 102, I, “d”, da Constituição da República. É que o rol dessa disposição constitucional é taxativo (cf. MS nº 24.909, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 07.06.2004; MS nº 24.762, Rel. Min. MARCO AURÉLIO, DJ de 27.05.2004; MS nº 22.427, Rel. Min. MOREIRA ALVES, DJ de 07.02.1996; MS nº 24.674-QO, Rel. Min. MARCO AURÉLIO, DJ de 26.03.2004; MS nº 24.856, Rel. Min. JOAQUIM BARBOSA, DJ DE 06.04.2004; MS n.° 27.975, Rel. Min. CÁRMEN LÚCIA, DJ de 08/05/2009, MS nº 24.994, DJ de 06/10/2004; MS nº 25.911, DJ de 05/04/2006; MS nº 25.978, DJ de 26/05/2006; MS nº 27.543, DJ de 08/10/2008, e MS nº 27.346, DJ de 02/10/2008, todos de minha relatoria).
+          Aplica-se, na hipótese, a súmula 624, que enuncia:
+    “Não compete ao Supremo Tribunal Federal conhecer originariamente de mandado de segurança contra atos de outros tribunais”.
+    3. Ante o exposto, nego seguimento ao mandado de segurança, nos termos do art. 13, V, "c", do RISTF, e art. 38 da Lei nº 8.038/90. Arquivem-se oportunamente. Publique-se.
+          Brasília, 18 de julho de 2011.
+          Ministro CEZAR PELUSO
+                  Presidente
