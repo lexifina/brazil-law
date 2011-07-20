@@ -1,0 +1,27 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JULIANY DA ROCA CANÇANÇÃO, contra decisão do Superior Tribunal de Justiça, que lhe denegou a ordem requerida no RHC nº 196.674.
+    A paciente foi presa e denunciada pela suposta prática dos delitos tipificados nos arts. 33, caput, 35 e 40, I, todos da Lei nº 11.343/2006, em virtude de operações da Polícia Federal no combate ao tráfico internacional de entorpecentes.
+    Contra a decisão da 5º Vara Federal de Campo Grande, da Seção Judiciária de Mato Grosso do Sul que decretou a prisão preventiva, a defesa impetrou habeas corpus junto ao TRF da 3ª Região, o qual lhe denegou a ordem. Novo pedido de writ foi impetrado perante o STJ, que o denegou nos seguintes termos:
+    “HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO OU CONCESSÃO DE LIBERDADE PROVISÓRIA ORDEM PÚBLICA E APLICAÇÃO DA LEI PENAL. ORDEM DENEGADA.
+    Consoante assinalado pelo Juiz impetrado, a paciente fazia do tráfico ilícito de drogas o seu meio de vida e sustento, tendo, inclusive, dado continuidade às atividades criminosas do grupo, mesmo após a prisão em flagrante de um de seus integrantes. Ademais, pelo que consta a paciente não comprovou o desempenho em trabalho lícito e, ao que tudo indica, seria ela uma das responsáveis pela distribuição de maconha e cocaína entre os usuários brasileiros.”
+    Aduzem, agora, as impetrantes:
+    (i) o não preenchimento dos requisitos exigidos pelo art. 312 do CPP;
+    (ii) a impossibilidade de prisão preventiva com fundamento na gravidade do delito; e
+    (iii) a possibilidade de concessão da liberdade provisória, tendo em vista que a medida extrema, neste caso, não é automática, nem se presume a periculosidade do agente, nos termos da pacífica jurisprudência e da Lei nº 11.464/2007, que revogou o inc. II do art. 2º da Lei dos Crimes Hediondos.
+    Requerem as impetrantes o deferimento da liminar para, “ expedição de Alvará de Soltura em favor da Paciente JULYANY DA ROSSA CANÇANÇÃO, já que demonstrado de plano que os requisitos para prisão preventiva estão ausentes”. No mérito, a confirmação da liminar.
+    2. Nos termos do art. 13, VIII, do RISTF, decido.
+    Não é caso de liminar.
+    Extrai-se da decisão de primeiro grau fundamentos relevantes que sustentam a prisão preventiva da ora paciente ao resumir parte da conversa telefônica interceptada, com autorização judicial, dos integrantes da suposta quadrilha internacional:
+    “DIA 09/04/2010- RESUMO: MARILENE DIZ QUE QDO CHEGAR EM CASA VAI IR SACAR O DINHEIRO PARA ENTREGAR PARA CLEBER (CARTÃO DO BANCO ESTÁ EM CASA COM A FILHA JULYANY DEPÓSITO DO VALOR DO FRETE FOI FEITO POR SOCORRO (r$ 3.700,00) FOI NA CONTA DE JULYANY. FILHA DE MARILENE.)” (fls. 128 do apenso I)”
+    “DIA 12/04/2010- RESUMO: JULYANY FALA PARA SOCORRO SOBRE A PRISÃO DE CLÉBER. JU DIZ QUE MARILENE IRIA VISITÁ-LA (SOCORRO). JÚ DIZ QUE NÃO QUER NEM VOLTAR PARA CASA. DIZ QUE ESTÁ COM MEDO DE CLÉBER DELATÁ-LAS. JULYANY AVISA QUE DANIEL QUEBROU O CHIP. SOCORRO DIZ QUE VAI MUDAR TB.” (fls. 140, do apenso I).”
+    “DIA12/04/2010- RESUMO: JULYANY FALA P DANIEL QUE MARI PEDIU PARA LIGAR PARA DEGAICHE. ADVOGADO VAI VER O QUE CLEBER FALOU NO INTERROGATÓRIO. DANIEL DIZ QUE CLEBER FALOU ALGO. FALOU O NOME DELE (DANIEL). MARILENE DIZ QUE JÁ ESTÁ COM SOCORRO.” (fls.142 do apenso I).
+    Assim, não é preciso grande raciocínio para perceber que contra a paciente existem grandes indícios de pertencer a quadrilha destinada ao tráfico internacional de entorpecentes e que sua participação na empresa é de significativa importância. A toda evidência, o fundamento relevante da decretação da custódia cautelar está na premente necessidade de garantia da ordem pública.
+    Em casos tais, esta Corte tem mantido o decreto de prisão preventiva, v.g.: "(...) garantia da ordem pública, por sua vez, visa, entre outras coisas, a evitar a reiteração delitiva, assim resguardando a sociedade de maiores danos. Sendo a paciente, segundo afirma a acusação, um dos principais membros da quadrilha, teme-se que, em liberdade, continue a comandar esse esquema criminoso, restabelecendo o elo com os integrantes que se encontram em outros países ou foragidos. Ao contrário do que se alega na petição inicial, existem nos autos elementos concretos, e não meras conjecturas, que apontam a paciente como importante integrante da organização criminosa em comento" (HC nº 84.658, Rel. Min. JOAQUIM BARBOSA. Cf., ainda, HC nº 84.680, Rel. Min. CARLOS BRITTO; HC nº 84.352, Rel. Min. MARCO AURÉLIO).
+    Nesse sentido, tenho decidido:
+    “AÇÃO PENAL. Prisão preventiva. Decretação para garantia da ordem pública. Tráfico internacional de medicamentos com propriedades entorpecentes. Quadrilha com organização requintada e complexa. Causa legal caracterizada. Constrangimento ilegal inexistente. HC denegado. Aplicação do art. 312 do CPP. Precedente. É legal, a título de garantia da ordem pública, o decreto de prisão preventiva de membros de quadrilha que, com organização requintada e complexa, se dedica a tráfico internacional de medicamentos com propriedades entorpecentes” (HC nº 91.228, de minha relatoria, DJ de 14.9.2007).
+    3. Ante ao exposto, indefiro o pedido de liminar, sem prejuízo de nova apreciação pelo Relator sorteado.
+    Requisitem-se informações e submetam-se os autos a oportuna e livre distribuição.
+    Publique-se. Int..
+    Brasília, 20 de Julho de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
