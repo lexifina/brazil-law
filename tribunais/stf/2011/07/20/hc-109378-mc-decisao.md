@@ -1,0 +1,32 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FLÁVIO GUSTAVO ELIAS MARTINS, contra decisão do Superior Tribunal de Justiça, que lhe denegou a ordem requerida no HC nº 199.341.
+    O paciente foi preso em flagrante, pela suposta prática dos delitos tipificados no art. 33 da Lei nº 11.343/2006, pela posse de cerca de 25 pedras de “crack”.
+    O juízo singular manteve a prisão cautelar, sob o fundamento de o art. 44 da Lei 11.343/06 não admite a concessão de liberdade provisória, o que, por sua vez, decore da inafiançabilidade prevista no art. 5º, XLII, da Constituição Federal, e para garantir a ordem pública, diante da gravidade do delito. A defesa impetrou habeas corpus junto ao TJMG, que lhe denegou a ordem. Novo pedido de writ foi impetrado perante o STJ, que o denegou nos seguintes termos:
+    “HABEAS CORPUS . PRISÃO EM FLAGRANTE. TRÁFICO ILÍCITO DE DROGAS. INDEFERIMENTO DO PEDIDO DE LIBERDADE PROVISÓRIA. VALIDADE DA VEDAÇÃO CONTIDA NO ART. 44 DA LEI N.º 11.343/06. ORDEM DENEGADA.
+    1. O Paciente foi preso em flagrante delito na posse de 25 (vinte e cinco) pedras de substância amarelada, semelhante ao "crack".
+    2. É firme a orientação da Quinta Turma deste Superior Tribunal de Justiça no sentido de que a vedação expressa da liberdade provisória nos crimes de tráfico ilícito de entorpecentes é, por si só, motivo suficiente para impedir a concessão da benesse ao réu preso em flagrante por crime hediondo ou equiparado, nos termos do disposto no art. 5.º, inciso XLIII, da Constituição da República, que impõe a inafiançabilidade das referidas infrações penais.
+    Precedentes desta Turma e do Supremo Tribunal Federal.
+    3. Ordem denegada.”
+    Aduz, agora, o impetrante, a inconstitucionalidade do art. 44 da Lei nº 11.343/2006, e a consequente impossibilidade de se utilizar tal dispositivo como fundamento suficiente para a denegação do writ. Cita precedentes da Corte no sentido de não considerar suficiente a mera referência à vedação legal como fundamento da prisão cautelar.
+    Requer o impetrante “seja concedida a ordem do presente habeas corpus para garantir à paciente sua liberdade provisória”.
+    2. Nos termos do art. 13, VIII, do RISTF, decido.
+    É caso de liminar.
+    O acórdão do Superior Tribunal de Justiça fundamentou a manutenção da prisão cautelar do ora paciente em uma única razão: a proibição de liberdade provisória constante do art. 44 da Lei de Drogas. A decisão do juízo singular afirma, por sua vez, não ser necessário que se motive concretamente a negativa ao pedido de liberdade provisória, diante da vedação legal.
+    O Plenário desta Corte discute, no julgamento do HC nº 100.949, a constitucionalidade da vedação prevista no art. 44 da Lei de Drogas. Ademais, a Segunda Turma tem decidido pela necessidade de fundamentação da custódia preventiva nos termos do art. 312 do CPP, sendo insuficiente a mera referência ao art. 44 da Lei nº 11.343/06, ou à inafiançabilidade dos crimes hediondos prevista no texto constitucional (HC nº 93.056, Rel. Min. CELSO DE MELLO, DJ 15/05/2009; HC nº 98.966, Rel. Min. EROS GRAU, DJ 30/04/2010; HC nº 99.043, Rel. Min. GILMAR MENDES, DJ 10/09/2010).
+     Acolhendo a posição majoritária na Turma, já afirmei não me parecer razoável conferir plena vigência ao princípio da presunção de inocência e, ao mesmo tempo, compatibilizá-lo com a interpretação de que a própria Constituição Federal determina a prisão de um acusado antes do trânsito em julgado de sentença penal condenatória (HC nº 99.043/MC, DJ 22/05/2009). É o que, salvo melhor juízo, parece ocorrer no caso, em que se busca extrair a fundamentação da custódia preventiva do paciente à tipificação legal de conduta a ele atribuída antes do julgamento.
+    3. A decisão do juízo singular faz referência, ainda, à gravidade abstrata do delito de tráfico de drogas e à necessidade da prisão para evitar que “esta sociedade venha a se sentir desprotegida e atemorizada”.
+    Mas tal motivo não é bastante a ensejar a prisão preventiva. Isto seria uma finalidade da pena – prevenção geral –, que não pode, sem ofensa à Constituição, garantidora da presunção de inocência (art. 5º, inc. LVII), ser transportada para a prisão preventiva, eis que ambas possuem natureza diversa. Tenho afirmado que a incompatibilidade da presunção de periculosidade e prisão cautelar “se revela ainda mais grave quando se tem em conta a referência à função de pronta reação do delito como forma de aplacar o alarme social; aqui se parte de um dado emotivo, instável e sujeito a manipulações, para impor à consciência do juiz uma medida muito próxima à idéia de justiça sumária” (ANTONIO MAGALHÃES GOMES FILHO, “Presunção de Inocência e Prisão Cautelar”, SP, Saraiva, 1991, p. 68. Grifei).
+    É o que tem decidido a Corte:
+    “AÇÃO PENAL. Prisão preventiva. Decreto fundado na gravidade do delito, a título de garantia da ordem pública. Inadmissibilidade. Razão que não autoriza a prisão cautelar. Constrangimento ilegal caracterizado. Precedentes.
+    É ilegal o decreto de prisão preventiva que, a título de necessidade de garantir a ordem pública, se funda na gravidade do delito” (HC n° 92.302, Rel. Min. CEZAR PELUSO, DJ 13/06/2008).
+    “AÇÃO PENAL. Prisão preventiva. Decreto fundado na gravidade do delito. Inadmissibilidade. Razão que não autoriza a prisão cautelar. Constrangimento ilegal caracterizado. Precedentes. HC concedido.
+    É ilegal o decreto de prisão preventiva que se funda na gravidade do delito.” (HC n° 94.122, Rel. Min. CEZAR PELUSO, DJ 17/11/2008).
+    Afastadas as razões que fundaram a manutenção da custódia preventiva do ora paciente, impõe-se a concessão da liminar requerida.
+    3. Ante o exposto, concedo a liminar, expedindo-se alvará de soltura em favor do paciente, para que, se por al não estiver preso, aguarde em liberdade o julgamento deste habeas corpus, sem prejuízo de nova análise pelo Ministro Relator.
+    Comunique-se, com urgência, por ofício e fac-símile, o inteiro teor desta decisão ao juízo de Direito da 1ª Vara de Tóxicos da comarca de Belo Horizonte/MG, ao Tribunal de Justiça do Estado de Minas Gerais e ao Superior Tribunal de Justiça.
+    Estando os autos devidamente instruídos, dê-se vista dos autos à Procuradoria-Geral da República.
+    Submetam-se, após, os autos à distribuição na forma regimental.
+    Publique-se. Int..
+    Brasília, 20 de julho de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
