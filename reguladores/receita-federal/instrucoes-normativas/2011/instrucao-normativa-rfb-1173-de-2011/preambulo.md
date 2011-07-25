@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1173, de 22 de julho de 2011
+Dispõe sobre a habilitação dos Eventos a se realizarem nos meses de julho e agosto de 2011 relacionados com a Copa das Confederações Fifa 2013 e a Copa do Mundo Fifa 2014, e das pessoas físicas e jurídicas a eles relacionadas para efeito de fruição dos benefícios de que trata a Lei Nº 12.350, de 20 de dezembro de 2010.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 7º, 8º, 9º, 10, 11, 12, 13, 14, 15 e 22 da Lei Nº 12.350, de 20 de dezembro de 2010, resolve:
