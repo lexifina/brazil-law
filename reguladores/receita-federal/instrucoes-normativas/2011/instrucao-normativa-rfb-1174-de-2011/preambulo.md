@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1174, de 22 de julho de 2011
+Dispõe sobre o despacho aduaneiro de bens procedentes do exterior destinados à utilização nos eventos a serem realizados em julho e agosto de 2011 referentes à Copa das Confederações Fifa 2013 e à Copa do Mundo Fifa 2014.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no arts. 3º, 4º, 6º e 29 da Lei nº 12.350, de 20 de dezembro de 2010, resolve:
