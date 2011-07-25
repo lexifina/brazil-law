@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1176, de 22 de julho de 2011
+Estabelece os procedimentos para habilitação e coabilitação ao Regime Especial de Tributação para Construção, Ampliação, Reforma ou Modernização de Estádios de Futebol (Recopa), de que trata o Decreto nº 7.319, de 28 de setembro de 2010.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 17 do Decreto nº 7.319, de 28 de setembro de 2010, resolve:
