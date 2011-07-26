@@ -1,0 +1,251 @@
+ANEXO ÚNICO
+
+QUADRO GLOBAL DE EFETIVO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DO ACRE
+
+POSTO OU GRADUAÇÃO BM
+
+QUADROS
+
+QBMEC
+
+QOBMS
+
+QOABM
+
+TOTAL
+
+CORONEL
+
+2
+
+-
+
+-
+
+2
+
+TENENTE CORONEL
+
+6
+
+1
+
+-
+
+7
+
+MAJOR
+
+12
+
+3
+
+4
+
+19
+
+CAPITÃO
+
+15
+
+3
+
+6
+
+24
+
+PRIMEIRO TENENTE
+
+19
+
+3
+
+8
+
+30
+
+SEGUNDO TENENTE
+
+25
+
+3
+
+11
+
+39
+
+SUBTENENTE
+
+30
+
+-
+
+-
+
+30
+
+PRIMEIRO SARGENTO
+
+56
+
+-
+
+-
+
+56
+
+SEGUNDO SARGENTO
+
+96
+
+-
+
+-
+
+96
+
+TERCEIRO SARGENTO
+
+1.448
+
+1.448
+
+CABO
+
+SOLDADO
+
+TOTAL GERAL
+
+1.751
+
+Art. 3º A partir de 1º de janeiro de 2012, o Anexo Único da Lei n. 2.010, de 2008, passa a vigorar com a seguinte redação:
+
+“ANEXO ÚNICO
+
+QUADRO GLOBAL DE EFETIVO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DO ACRE
+
+POSTO OU GRADUAÇÃO BM
+
+QUADROS
+
+QBMEC
+
+QOBMS
+
+QOABM
+
+TOTAL
+
+CORONEL
+
+2
+
+-
+
+-
+
+2
+
+TENENTE CORONEL
+
+6
+
+1
+
+-
+
+7
+
+MAJOR
+
+12
+
+3
+
+4
+
+19
+
+CAPITÃO
+
+15
+
+3
+
+6
+
+24
+
+PRIMEIRO TENENTE
+
+19
+
+3
+
+10
+
+32
+
+SEGUNDO TENENTE
+
+25
+
+3
+
+15
+
+43
+
+SUBTENENTE
+
+30
+
+-
+
+-
+
+30
+
+PRIMEIRO SARGENTO
+
+56
+
+-
+
+-
+
+56
+
+SEGUNDO SARGENTO
+
+96
+
+-
+
+-
+
+96
+
+TERCEIRO SARGENTO
+
+1.448
+
+1.448
+
+CABO
+
+SOLDADO
+
+TOTAL GERAL
+
+1.757
+
+". (N.R)
+
+Art. 4º Esta Lei entra em vigor na data de sua publicação.
+
+Rio Branco, 22 de julho de 2011, 123º da República, 109º do Tratado de Petrópolis e 50º do Estado do Acre.
+
+TIÃO VIANA
+
+Governador do Estado do Acre
