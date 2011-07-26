@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1177, de 25 de julho de 2011
+Altera a Instrução Normativa RFB nº 1.110, de 24 de dezembro de 2010, que dispõe sobre a Declaração de Débitos e Créditos Tributários Federais (DCTF).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 100 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional (CTN), e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
