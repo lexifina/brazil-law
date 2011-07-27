@@ -1,0 +1,41 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WILSON APARECIDO DOS SANTOS SILVA, contra decisão do Superior Tribunal de Justiça, que lhe denegou a ordem requerida no HC nº 199.276.
+    O paciente foi preso em flagrante, pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35, caput, todos da Lei nº 11.343/2006.
+    Contra a decisão da 4ª Vara Criminal da Comarca de Campo Grande (MS), que indeferiu o pedido de liberdade provisória, a defesa impetrou habeas corpus ao Tribunal de Justiça do Mato Grosso do Sul, o qual lhe denegou a ordem. Novo pedido de writ foi impetrado perante o STJ, que o denegou nos seguintes termos:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDODE LIBERDADE PROVISÓRIA. IMPOSSIBILIDADE. ART. 44, CAPUT, DA LEI 11.343/06. VEDAÇÃO LEGAL. PREVISÃO LEGAL NÃO REVOGADA PELA NOVA REDAÇÃO DO ART. 2º DA LEI Nº 8.072/90, CONFERIDA PELA LEI 11.464/07. ALEGAÇÃO DE CONDIÇÕES PESSOAIS FAVORÁVEIS COMO FUNDAMENTO PARA A CONCESSÃO DE LIBERDADE PROVISÓRIA. INSUFICIENTE. ORDEM DENEGADA.
+    1. A Quinta Turma do Superior Tribunal de Justiça vem decidindo no sentido de que ao acusado por tráfico de drogas, cumprindo prisão cautelar, é vedada a concessão de liberdade provisória. Tal proibição legal, contida no art.44 da Lei nº 11.343/06, não foi revogada com a alteração do art. 2º, II, da Lei 8.072/90, pela Lei nº 11.464/07.
+    2. O reconhecimento da Repercussão Geral pelo Supremo Tribunal Federal no RE 601.384/RS, sob a relatoria do Min. MARCO AURÉLIO, com referência ao mérito deste writ, em regra, não tem o condão de sobrestar os processos pendentes de julgamento nesta Corte.
+    3. As Turmas componentes da Terceira Seção do Superior Tribunal de Justiça já cristalizaram o entendimento de inexistir constrangimento ilegal quando a manutenção da custódia cautelar, suficientemente fundamentada, retratar a necessidade da medida para as garantia da ordem pública e aplicação da lei penal.
+    4. “Ordem denegada.”
+    Aduz, agora, a impetrante:
+    (i) o não preenchimento dos requisitos exigidos pelo art. 312 do CPP;
+    (ii) a impossibilidade de prisão preventiva com fundamento na gravidade do delito; e
+    (iii) a possibilidade de concessão da liberdade provisória, tendo em vista que a medida extrema, neste caso, não é automática, nem se presume a periculosidade do agente, nos termos da pacífica jurisprudência e da Lei nº 11.464/2007, que revogou o inc. II do art. 2º da Lei dos Crimes Hediondos.
+    Requer a impetrante o deferimento da liminar “...para imediata expedição de alvará de soltura em favor do paciente, sob pena de graves e irreversíveis conseqüências, de forma que seja concedida a liberdade provisória ao caso concreto...”. No mérito, a confirmação da liminar.
+    2. Nos termos do art. 13, VIII, do RISTF, decido.
+    Não é caso de liminar.
+    Cansa-se esta Corte de decidir que a gravidade do delito não é elemento apto a ensejar a decretação da prisão preventiva:
+    “AÇÃO PENAL. Prisão preventiva. Decreto fundado na gravidade do delito, a título de garantia da ordem pública. Inadmissibilidade. Razão que não autoriza a prisão cautelar. Constrangimento ilegal caracterizado. Precedentes.
+    É ilegal o decreto de prisão preventiva que, a título de necessidade de garantir a ordem pública, se funda na gravidade do delito” (HC n° 92.302, Rel. Min. CEZAR PELUSO, DJ 13/06/2008).
+    “AÇÃO PENAL. Prisão preventiva. Decreto fundado na gravidade do delito. Inadmissibilidade. Razão que não autoriza a prisão cautelar. Constrangimento ilegal caracterizado. Precedentes. HC concedido.
+    É ilegal o decreto de prisão preventiva que se funda na gravidade do delito.” (HC n° 94.122; 2ª Turma; Rel. Min. CEZAR PELUSO; j. 19/8/2008).
+    “AÇÃO PENAL. Prisão preventiva. Decreto fundado na gravidade concreta do delito e em suposta insensibilidade moral dos réus, primários. Inadmissibilidade. Razões que não autorizam a prisão cautelar. Constrangimento ilegal caracterizado. HC concedido.
+    É ilegal o decreto de prisão preventiva que se funda na gravidade concreta do delito e na suposta insensibilidade moral do réu.” (HC n° 83.806; 1ª Turma; Rel. Min. JOAQUIM BARBOSA; j. 09/03/2004).
+    Mas ao negar a liberdade provisória, o Magistrado de primeiro grau o fez com base em fundamentos concretos, os de envolvimento do paciente em empresa destinada à traficância, deixando claro que a decisão foi tomada para assegurar a manutenção da ordem pública, in verbis:
+    “O pedido deve ser indeferido momento processual, haja vista que no caso em tela estão presentes os requisitos do art. 312 do Código de Processo Penal, que, a contrario sensu, impede a concessão de liberdade provisória.
+    Com efeito, a manutenção de prisão de cunho cautelar, decorrente de prisão em flagrante, depende da presença dos requisitos para a decretação da prisão preventiva, os quais ressaem expressos do art. 312 do Código de Processo Penal, tais sejam: indícios suficientes de autoria e prova materialidade do crime, somando-se a isso algum dos seguintes fundamentos: a garantia da ordem pública ou econômica, a conveniência da instrução criminal e para assegurar a aplicação da lei penal, ex vi do disposto no art. 312 do Código de Processo Penal.
+    No caso em tela reputo presentes tais requisitos.
+    Primeiro, há nos autos prova da existência do crime e indício suficientes da autoria, tanto que o requerente foi preso em flagrante com um papelote contendo cocaína.
+    Somado a isso, no momento dos fatos, a menor AMANDA JANUÁRIA DA SILVA estava embalando em recipientes plásticos substância análoga à maconha, sendo que chegou a afirmar aos policiais militares que trabalha no local acondicionando entorpecentes, que WILSON é responsável por fazer as entregas das drogas e “JOÃO DE DEUS” pelo abastecimento de entorpecentes no local.
+    Referidos circunstâncias demonstram que o requerente praticou o delito em concurso de agentes, tratando-se de atividade organizada, com requintes de organização criminosa.
+    (...)
+    Por isso, sem prejuízo de renovação do pedido, INDEFIRO O PEDIDO DE LIBERDADE PROVISÓRIA formulado por WILSON APARECIDO DOS SANTOS SILVA.”
+    Extraem-se, portanto, da decisão de primeiro grau, fundamentos relevantes que sustentam a prisão preventiva do ora paciente. Não é preciso grande raciocínio para perceber que contra o paciente existem grandes indícios de pertencer a quadrilha destinada ao tráfico de entorpecentes e que sua participação na empresa é significativa. A toda evidência, o fundamento relevante da decretação da custódia cautelar está na premente necessidade de garantia da ordem pública.
+    Em casos tais, esta Corte tem mantido o decreto de prisão preventiva, v.g.: "(...) garantia da ordem pública, por sua vez, visa, entre outras coisas, a evitar a reiteração delitiva, assim resguardando a sociedade de maiores danos. Sendo a paciente, segundo afirma a acusação, um dos principais membros da quadrilha, teme-se que, em liberdade, continue a comandar esse esquema criminoso, restabelecendo o elo com os integrantes que se encontram em outros países ou foragidos. Ao contrário do que se alega na petição inicial, existem nos autos elementos concretos, e não meras conjecturas, que apontam a paciente como importante integrante da organização criminosa em comento" (HC nº 84.658, Rel. Min. JOAQUIM BARBOSA. Cf., ainda, HC nº 84.680, Rel. Min. CARLOS BRITTO; HC nº 84.352, Rel. Min. MARCO AURÉLIO).
+    Nesse sentido, tenho decidido:
+    “AÇÃO PENAL. Prisão preventiva. Decretação para garantia da ordem pública. Tráfico internacional de medicamentos com propriedades entorpecentes. Quadrilha com organização requintada e complexa. Causa legal caracterizada. Constrangimento ilegal inexistente. HC denegado. Aplicação do art. 312 do CPP. Precedente. É legal, a título de garantia da ordem pública, o decreto de prisão preventiva de membros de quadrilha que, com organização requintada e complexa, se dedica a tráfico internacional de medicamentos com propriedades entorpecentes” (HC nº 91.228, de minha relatoria, DJ de 14.9.2007).
+    3. Ante ao exposto, indefiro o pedido de liminar, sem prejuízo de nova apreciação pelo Ministro Relator.
+    Publique-se. Int..
+    Brasília, 27 de Julho de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
