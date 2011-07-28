@@ -1,0 +1,23 @@
+DECISÃO
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO – BIÊNIO – LIMINAR DEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente foi preso preventivamente em 17 de maio de 2009, porque, em tese, teria praticado crime de homicídio, na forma tentada. Na sentença de pronúncia, ficou mantida a custódia processual, com o objetivo de assegurar a ordem pública e garantir a aplicação da lei penal. Consignou-se ser o paciente um dos suspeitos de planejar fuga em massa da cadeia pública local – inclusive mediante a utilização de armas de fogo –, a qual não se consumou porque os agentes carcerários teriam descoberto o plano a tempo.
+    Contra essa decisão, foi interposto recurso em sentido estrito. Concomitantemente, veio a ser impetrado habeas corpus no Tribunal de Justiça do Estado de Mato Grosso, alegando-se excesso de prazo de prisão. Não houve o acolhimento do pedido de concessão de liminar e, no mérito, o Tribunal indeferiu a ordem.
+    Na idêntica medida formalizada no Superior Tribunal de Justiça – nº 194.689/MT –, o Ministro Félix Fischer, Vice-Presidente, deixou de implementar a providência acauteladora pretendida, por não verificar, de plano, a existência de ilegalidade no ato impugnado.
+    Os impetrantes, buscando infirmar esse pronunciamento, reiteram a tese de excesso de prazo de custódia sem a formação de culpa. Sustentam estar configurada, então, situação em que se admite a relativização do óbice previsto no Verbete nº 691 da Súmula do Supremo. Pedem a revogação do ato que implicou a preventiva.
+    Ante a deficiência da instrução processual, Vossa Excelência solicitou informações à autoridade apontada como coatora, ao Tribunal de Justiça e ao Juízo da Vara Única da Comarca de Vera/MT, visando a complementação do processo com a juntada de cópia da decisão atacada, da ordem de custódia preventiva e do mandado de prisão devidamente cumprido bem assim de comprovação do estágio da tramitação do Processo-Crime nº 47/2009. Os impetrantes anteciparam a notícia e os órgãos judiciários mencionados prestaram esclarecimentos, acompanhados das peças solicitadas.
+    Vossa Excelência anotou a ausência de pedido formal de liminar e, estando no processo os elementos indispensáveis à compreensão da controvérsia, determinou o encaminhamento à Procuradoria Geral da República.
+    Os impetrantes buscaram a reconsideração desse pronunciamento e requereram a apreciação do pedido de concessão de medida acauteladora. Vossa Excelência, ante as informações prestadas pela Assessoria, instou-os a explicitar o pleito referente à liminar. Esclareceram ser no sentido da expedição de alvará de soltura, para assegurar-se ao paciente o direito de aguardar em liberdade o julgamento da impetração.
+    Nesse interregno, a Procuradoria Geral da República preconizou a realização de diligência, objetivando a juntada de reprodução do acórdão proferido no recurso em sentido estrito interposto contra a sentença de pronúncia bem como da petição de recurso especial protocolada pelo Ministério Público contra o julgado relativo ao mencionado recurso. Consignou que, depois de anexadas as peças, o processo deveria retornar para formalização de parecer.
+    Vossa Excelência deferiu a diligência. Os impetrantes, antecipando-se, providenciaram a juntada da documentação.
+    Está pendente de exame o pedido de concessão de liminar e o cumprimento da decisão de Vossa Excelência, no sentido do retorno do processo à Procuradoria Geral da República, para emissão de parecer.
+    Anoto que este habeas foi distribuído por prevenção, pois Vossa Excelência é relator do Habeas Corpus nº 103.132, tendo como causa de pedir a superveniente ausência dos requisitos indispensáveis à prisão preventiva. A liminar foi indeferida.
+    Cópia da decisão encontra-se na contracapa do processo eletrônico impresso pelo Gabinete.
+    2. Cumpre ao Estado aparelhar-se objetivando o julgamento da ação penal, o término do processo, em prazo hábil, principalmente quando há prisão provisória. É injustificável o espaço de tempo desta última sem que tenha sido realizado o Júri. O paciente foi preso em 17 de maio de 2009.
+    3. Defiro a medida acauteladora. Expeçam o alvará de soltura, a ser cumprido com os cuidados próprios, vale dizer, caso o paciente não esteja sob custódia por motivo diverso do retratado, em termos de prisão preventiva, no Processo nº 47/2009, da Comarca de Vera, Estado de Mato Grosso.
+    4. A concessão da liminar não implica o prejuízo do habeas corpus em curso no Superior Tribunal de Justiça – nº 194.689-MT. Remetam cópia desta decisão ao relator.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 28 de julho de 2011, às 17h50.
+Ministro MARCO AURÉLIO
+Relator
