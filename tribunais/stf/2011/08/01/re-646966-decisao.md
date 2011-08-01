@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. DESNECESSIDADE DA VINCULAÇÃO DE RECEITA DA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE AO BENEFÍCIO. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra decisão do Tribunal Regional Federal da 5ª Região, que julgou apelação em ação ordinária nos termos seguintes:
+    “ADMINISTRATIVO E CONSTITUCIONAL. ASSOCIAÇÃO DE PLANTADORES DE CANA. SUBSTITUTO PROCESSUAL. LEGITIMIDADE ‘AD CAUSAM’. PRECEDENTES. INTERVENÇÃO NO DOMÍNIO ECONÔMICO. CANA-DE-AÇÚCAR. POLÍTICA DE EQUALIZAÇÃO DE CUSTOS. LEI N. 10.336/2001, LEI N. 10.453/2002 (ART. 3º, I) E DECRETO N. 4.353/2002 (ART. 1º, V). REPASSE AOS PRODUTORES DO NORDESTE DOS RECURSOS OBTIDOS COM A ARRECADAÇÃO DA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO-CIDE/COMBUSTÍVEIS. INEXISTÊNCIA DA OBRIGATORIEDADE. PROVIMENTO DO APELO E DA REMESSA OFICIAL.
+    1. As associações e sindicatos são considerados substitutos processuais dos seus representados, sendo desnecessária a autorização expressa destes últimos para que ditas entidades de direito civil possam representá-los em juízo. Precedentes. Preliminar de ilegitimidade ‘ad causam’ suscitada pela União rejeitada;
+    2. A política de equalização dos preços da cana-de-açúcar, para compensar os produtores da região nordeste é apenas uma das medidas previstas na Lei n. 10.453/2002, cabendo ao Poder Executivo a escolha da forma e da intensidade das medidas de intervenção no domínio econômico a serem aplicadas; demais disso, a referida lei é constitucional, mormente quanto estabelece termo para a equalização que (também) estabelecia, justo pela discricionariedade própria que outorga ao Executivo para determinar a política do setor de combustíveis;
+    3. Inexiste, assim, obrigação de repasse dos recursos da Contribuição de Intervenção no domínio econômico – CIDE/COMBUSTÍVEIS (para a equalização dos custos da cana-de-açúcar) diretamente em favor dos produtores;
+    4. À falta de legislação estabelecendo a sistemática para compensação dos produtores de cana destinada à produção de álcool combustível, não cabe ao Poder Judiciário estabelecer as políticas públicas de intervenção no domínio econômico;
+    5. Apelação e remessa oficial providas” (fl. 533).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado a alínea a do inc. II do § 4º do art. 177 da Constituição.
+    Argumenta que:
+    “Atrita com o Texto Constitucional, a mais não poder, a manipulação orçamentária de recursos da CIDE para destino diverso do estabelecido em disposições encasteladas no Pergaminho de 1988, art. 177, § 4º, II, ‘a’, sem embargo das restrições constitucionais a produto da atividade legiferante do constituinte derivado, localizada na alínea ‘c’ do inciso II do art. 177 da CR.
+    (...)
+    Atinge as raias de inconstitucionalidade, sem azo a dúvidas, destinações diversas das modeladas no Texto Fundamental, seja aquela definida na alínea ‘c’ do inciso II do § 4º do art. 177, como propriamente demonstrado pelo r. articulista, sejam aquelas outras denunciadas por diversas fontes autorizadas, bem captadas pela r. sentença, proferida pelo juízo de 1º grau, e que passaram ao largo do debate empreendido pelo TRF da 5ª Região que, sem atinar para essas questões, preferiu, com um simplismo indescritível, afirmar que a procedência do pedido autoral implicaria atuação indevida do Poder Judiciário na atuação destinada ao Poder Executivo.
+    Sobre essa questão da interferência do Poder Judiciário na seara do Poder Executivo, é importante dizer que as omissões orçamentárias promovidas, de engenharia, pelo Ente Federal não teriam o condão de fazer inexistente, extinto ou inalcançável a norma constitucional que garante a vinculação de parte da verba arrecadada pela CIDE ‘ao pagamento de subsídios a preços ou transporte de álcool combustível, gás natural e seus derivados de petróleo’, conforme a norma do artigo 177, § 4º, II, ‘c’, da Carta Magna” (fls. 582-583).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    O Desembargador Federal Relator observou que:
+    “O ‘meritum causae’, por sua vez, é mais simples do que o que parece, e ambienta o ponto do debate em que o ente público tem plenas razões.
+    A política de equalização dos preços da cana-de-açúcar, para compensar os produtores da região nordeste, é apenas uma das medidas previstas na Lei n. 10.453/2002, cabendo ao Poder Executivo a escolha da forma e da intensidade das medidas de intervenção no domínio econômico a serem aplicadas; demais disso, a referida lei é constitucional, mormente quanto estabelece termo para a equalização que (também) estabelecia, justo pela discricionariedade própria que outorga ao Executivo para determinar a política do setor de combustíveis.
+    Inexiste, assim, obrigação de repasse dos recursos da Contribuição de Intervenção no domínio econômico CIDE/COMBUSTÍVEIS (para a equalização dos custos da cana-de-açúcar) diretamente em favor dos produtores.
+    Penso que, à falta de uma legislação estabelecendo a sistemática para compensação dos produtores de cana destinada à produção de álcool combustível, não cabe ao Poder Judiciário estabelecer as políticas públicas de intervenção no domínio econômico, máxime porque a atuação, se mantida, representaria funda agressão ao primado constitucional da separação dos poderes.
+    Em resumo, pontuo o seguinte: os autos tratam uma demanda legítima; um pretender defensabilíssimo, o qual deve, nada obstante, frequentar outros fóruns de discussão, notadamente os políticos, e não os jurisdicionais” (fl. 534).
+    O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, que assentou a desnecessidade de vinculação da receita, resultante da arrecadação da Contribuição de Intervenção no Domínio Econômico – CIDE, ao benefício proporcionado.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. DESNECESSIDADE DE EDIÇÃO DE LEI COMPLEMENTAR PARA CRIAÇÃO DA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO – CIDE E DE VINCULAÇÃO DIRETA ENTRE O CONTRIBUINTE E O BENEFÍCIO PROPORCIONADO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 564.901-AgR, de minha relatoria, Primeira Turma, DJe 21.2.2011).
+    Nada há a prover quanto às alegações da Recorrente.
+    4. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
