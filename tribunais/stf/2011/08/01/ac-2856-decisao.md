@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO REGIMENTAL NA AÇÃO CAUTELAR. CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO. RECONHECIMENTO DA REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL DEBATIDA. DEVOLUÇÃO DOS AUTOS. BAIXA DOS AUTOS À ORIGEM.
+Relatório
+    1. Ação cautelar, com pedido de medida liminar, ajuizada por Kikuo Endo e outro, em 20.4.2011, com o objetivo de que seja concedido efeito suspensivo ao Agravo de Instrumento n. 816.512.
+O caso
+    2. Os Requerentes relatam que “interpuseram a Exceção de Pré-Executividade, que deu origem ao Agravo de Instrumento no Segundo Grau de Jurisdição, sendo, tal expediente, objeto do Recurso Extraordinário, insurgiram-se, aqueles, contra a penhora de seu único imóvel de propriedade e moradia, em que pese este ter sido dado em garantia (fiança) de contrato locatício” (fl. 3).
+    Informam que “o imóvel penhorado, mesmo sem ter tido sua constrição levada à matrícula imobiliária, foi praceado e, em 16.02.2011, arrematado”, além disso, “o Juízo de Primeiro Grau de Jurisdição, já despachou que, pago o preço, a arrematação é boa, determinando-se a expedição de mandado de imissão de posse, restando apenas o recolhimento da diligência do oficial de justiça. E nesta mesma data, as partes foram intimadas acerca de que a carta de arrematação já estaria pronta para ser retirada” (fl. 3).
+    Os Requerentes noticiam a interposição de recurso extraordinário, não admitido na origem, e, na sequência, de agravo de instrumento.
+    Com o objetivo de que seja concedido efeito suspensivo àquele agravo de instrumento, os Requerentes ajuízam a presente ação cautelar.
+    3. Afirmam que “se a penhora for considerada nula ou anulada, veja-se que, injustamente, os Requerentes (que não têm para onde ir) já terão perdido a posse do bem e o Credor, ora Requerido, levantado a importância que lhe coube” (fl. 3).
+    Aduzem que “demonstraram que não tinham condições de arcarem com as custas processuais e honorários advocatícios, motivo pelo qual obtiveram os benefícios da Justiça Gratuita” (fl. 3).
+    Argumentam que “não têm para onde ir e nem têm saúde para suportar mudanças, especialmente se o Recurso Extraordinário lhes trouxer sucesso. Aliás, o tempo normal para o julgamento de tal recurso poderá ser maior até que o tempo de vida dos Requerentes” (fl. 4).
+    Sustentam que a “questão do tempo e da idade dos Recorrentes, aliada ao fato de que, se a penhora for considerada nula ou anulada, aqueles, injustamente, já terão perdido a posse do bem (ou até morrido, tendo passado pelo dissabor da perda da moradia) e o Credor, ora Requerido, já terá levantado a importância que lhe coube. E a reparação de tudo isso poderá ser irreparável, ou de difícil reparação” (fl. 4).
+    Asseveram estarem presentes os requisitos necessários para o deferimento da medida liminar.
+    Requerem sejam “liminarmente sustados e suspensos, os atos expropriatórios do imóvel arrematado, especialmente o de imissão de posse, até o julgamento do Recurso Extraordinário” (fl. 4).
+    4. Em 14.9.2010, a Presidência deste Supremo Tribunal Federal determinou a devolução dos autos do Agravo de instrumento n. 816.512 ao Tribunal de origem para que fosse observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    5. Em 30.5.2011, determinei que os Reclamantes emendassem a inicial, o que ocorreu em 20.6.2011.
+    Examinados os elementos havidos nos autos, DECIDO.
+    6. Este Supremo Tribunal assentou que cabe ao Tribunal de origem a análise da medida acauteladora ajuizada com a finalidade de dar efeito suspensivo a recurso extraordinário sobrestado, nos termos do art. 543-B do Código de Processo Civil. Nesse sentido:
+    “QUESTÃO DE ORDEM. AÇÃO CAUTELAR. RECURSO EXTRAORDINÁRIO. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO E O SOBRESTAMENTO, NA ORIGEM, EM FACE DO RECONHECIMENTO DE REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. ARTIGOS 543-B, § 1º, DO CPC, E 328-A, DO RISTF. SÚMULAS STF 634 E 635. JURISDIÇÃO CAUTELAR QUE DEVE SER PRESTADA PELOS TRIBUNAIS E TURMAS RECURSAIS A QUO, INCLUSIVE QUANTO AOS RECURSOS ADMITIDOS, PORÉM SOBRESTADOS NA ORIGEM. (...) 3. Compete ao Tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada. 4. Questão de ordem resolvida com a declaração da incompetência desta Suprema Corte para a apreciação da ação cautelar que busca a concessão de efeito suspensivo a recurso extraordinário sobrestado na origem, em face do reconhecimento da existência da repercussão geral da questão constitucional nele discutida” (AC 2.177-MC-QO, Rel. Min. Ellen Gracie, Plenário, DJe 20.2.2009, grifos nossos).
+    Tem-se, assim, que quando ajuizada a presente ação cautelar, o agravo de instrumento a que ela se refere já tinha sido devolvido ao Tribunal estadual.
+    7. Pelo exposto, declino da competência e determino a remessa dos autos desta ação cautelar ao Tribunal de Justiça de São Paulo, a fim de que sejam apensados aos autos do Agravo de instrumento n. 816.512.
+    Esclareço que as circunstâncias fático-jurídicas que autorizariam o deferimento da medida cautelar devem ser apreciadas pelo Tribunal de origem, órgão competente para processar e julgar a presente ação cautelar.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
