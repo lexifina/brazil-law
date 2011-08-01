@@ -1,0 +1,13 @@
+Decisão: vistos, etc.
+    O caso é de recurso ordinário em habeas corpus, manejado contra acórdão do Superior Tribunal de Justiça. Acórdão que validou a custódia preventiva do paciente.
+     2. Pois bem, a Defensoria Pública do Distrito Federal postula a concessão de liberdade provisória a Carlos Henrique Silva Costa. Isto sob o argumento da falta de fundamentação idônea para a manutenção da prisão em flagrante do paciente. Nos dizeres da recorrente “bem se sabe que a própria danosidade do fato ínsita à sua tipicidade não constitui óbice à concessão da liberdade provisória, mormente porque, no caso dos autos, não se tem presente nenhum motivo que, em tese, autorizasse a decretação da prisão preventiva.”
+    3. Feita esta síntese do pedido, decido. Fazendo-o, anoto, de saída, que, em consulta à página do Tribunal de Justiça do Distrito Federal e Territórios na internet, observei que o paciente foi condenado a 5 anos e 6 meses de reclusão pelo delito de tráfico de entorpecentes e a 1 ano e 3 meses de detenção pelo crime de posse ilegal de munição de uso permitido. Oportunidade em que o Juízo negou ao recorrente o direito de apelar em liberdade, nos termos seguintes:
+    “O acusado foi preso em flagrante mantendo em depósito 65 g cocaína e na posse de 17 munições calibre .38 e foi apontado como sendo o responsável pela venda de droga na região de Jardim Roriz, Planaltina. Por outro lado, utilizava um circuito de monitoramento por vídeo em sua residência, no intuito de dificultar a ação da polícia e evitar a sua prisão. CARLOS também é reincidente, sendo a reiteração criminosa uma constante em sua vida. Por fim, mesmo trabalhando como auxiliar de pintor e pedreiro, tinha consigo quase R$ 930,00. Todos esses elementos indicam seu forte engajamento no submundo das drogas e a escolha do crime como meio de vida.”
+    4. Assim postas as coisas, tenho que o pedido não é de ser conhecido. Isso porque o acórdão impugnado examinou, tão somente, a decisão do Juízo de primeiro grau que indeferiu pedido de liberdade provisória. Pelo que não se pode entrar no mérito da referida decisão, dada a prejudicialidade causada pela superveniência de sentença condenatória (sentença constitutiva, é certo, de novo título para a prisão do recorrente). Noutro dizer, os motivos que levaram o magistrado a manter a prisão do acusado são novos, devendo ser impugnados na instância própria, vedando-se ao Supremo Tribunal Federal sobre eles se manifestar, pena de inadmissível supressão de instância.
+    5. Esse o quadro, não conheço do pedido. O que faço nos termos do §1º do art. 21 do RI/STF.
+    Publique-se.
+    Intime-se.
+    Brasília, 1º de agosto de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
