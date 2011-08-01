@@ -1,0 +1,15 @@
+1. A matéria objeto do recurso extraordinário que se pretende ver conhecido por esta Corte foi objeto de exame de existência de repercussão geral no RE 611.162, de minha relatoria, com a seguinte manifestação:
+    “REPERCUSSÃO GERAL NO RECURSO EXTRAORDINÁRIO 611162
+    1. Trata-se de recurso extraordinário fundamentado no art. 102, III, a, da Constituição Federal interposto contra acórdão que determinou o reenquadramento da servidora pública do Município de Santos segundo o Plano de Cargos, Carreiras e Salários – PCCS e o Plano de Avaliação de Desempenho – PAV, nos termos da Lei Complementar Municipal 162/1995 e alterações.
+    Alega-se violação aos arts. 5º, I, II, 37, X, XIV, e 169 e parágrafos, todos da Constituição Federal. Sustenta a inconstitucionalidade da Lei Complementar Municipal 162/1995.
+    2. Observados os demais requisitos de admissibilidade do presente recurso extraordinário, passo à análise da existência de repercussão geral.
+    3. Esta Corte firmou entendimento de que a discussão relativa ao pagamento de diferenças em razão de reenquadramento de servidor público municipal segundo Plano de Cargos e Salários previsto na Lei Complementar Municipal 162/1995 não viabiliza o acesso ao recurso extraordinário por ser matéria eminentemente infraconstitucional e restrita ao âmbito do direito local (Súmula STF 280). Decidiram ainda que sua revisão implicaria reexame de fatos e provas, o que é vedado em sede de extraordinário (Súmula STF 279).
+    Nesse sentido, cito: AI 689.921-AgR, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 19.2.2009; AI 605.780-AgR, rel. Min. Cármen Lúcia, 1ª Turma, DJe 12.3.2009; AI 721.209-AgR, rel. Min. Eros Grau, 2ª Turma, DJe 14.5.2009; RE 556.641, rel. Min. Cezar Peluso, DJ 30.10.2007; AI 739.202, rel. Min. Dias Toffoli, DJe 23.11.2009; AI 661.552, rel. Min. Gilmar Mendes, DJe 6.5.2008; e AI 726.816, rel. Min. Marco Aurélio, DJe 17.12.2009.
+    4. Verifico que este Tribunal decidiu ser possível a aplicação dos efeitos da ausência de repercussão geral nos casos em que não há sequer matéria constitucional a ser discutida em recurso extraordinário, tendo em vista tratar-se de matéria infraconstitucional. Cito o RE 584.608, de minha relatoria, o RE 583.747, rel. Min. Menezes Direito, o RE 598.363, rel. Min. Carlos Britto, e o RE 588.944, rel. Min. Cezar Peluso.
+    5. Assim, ante a impossibilidade do exame de matéria infraconstitucional em recurso extraordinário, manifesto-me pela inexistência de repercussão geral de questão constitucional”.
+          Dessa forma, nos casos de matérias submetidas ao Plenário para a análise da existência de repercussão geral, é possível, nos termos do art. 328 do RISTF, a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    2. Assim, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e determino a devolução dos presentes autos à Corte de origem, para observância do citado art. 543-B do CPC.
+          Publique-se.
+          Brasília, 1° de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
