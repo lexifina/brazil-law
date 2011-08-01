@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 94):
+    “MANDADO DE SEGURANÇA. PENSIONISTAS. VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO REFERENTE À REVISÃO DAS PENSÕES DOS PENSIONISTAS DE SERVIDORES FALECIDOS. PRELIMINAR REJEITADA. LEGISLAÇÃO PREVIDENCIÁRIA ESTADUAL NÃO RECEPCIONADA PELA CARTA 88, APÓS A EMENDA CONSTITUCIONAL Nº 20/98. CONCESSÃO DA ORDEM.”
+    2. Pois bem, a parte recorrente aponta ofensa ao art. 2°, aos incisos LIV e LV do art. 5° e ao inciso IX do art. 93, todos da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo “não conhecimento e, no mérito, pelo desprovimento do recurso extraordinário”.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o Supremo Tribunal Federal, ao julgar o MI 211, redator para o acórdão o ministro Marco Aurélio, decidiu que o § 5º do art. 40 do Magno Texto, cuja redação originária estatuía que “o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido”, é norma auto-aplicável.
+    5. É dizer: na data da promulgação da Carta de 1988, todos os pensionistas adquiriram o direito de receber o benefício à base de 100% dos vencimentos ou proventos do servidor falecido.
+    6. Confiram-se, a propósito, os REs 162.091, da relatoria do ministro Sepúlveda Pertence; 462.051, da minha relatoria; 504.271, da relatoria do ministro Eros Grau; 550.042, da relatoria do ministro Menezes Direito; 552.670-AgR, da relatoria do ministro Gilmar Mendes; e 563.187, da relatoria da ministra Cármen Lúcia.
+    7. De mais a mais, a alegada ofensa ao art. 2º da Lei Maior não prospera, dado ser firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+    8. Por outra volta, anoto que a alegada ofensa às garantias do devido processo legal, do contraditório e da ampla defesa apenas ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que são exemplos o AI 517.643-AgR, da relatoria do ministro Celso de Mello; e o AI 273.604-AgR, da relatoria do ministro Moreira Alves.
+    9. À derradeira, pontuo que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
