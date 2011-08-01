@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “TRIBUTÁRIO - IPTU - PROGRESSIVIDADE - EC 29/00 - POSSIBILIDADE - DECRETO EXECUTIVO – MAJORAÇÃO INDIRETA DA BASE DE CÁLCULO DE IMPOSTO – IMPOSSIBILIDADE. Após o advento da EC 29/00, o ordenamento jurídico possibilitou a instituição de progressividade fiscal no que se refere ao IPTU, em razão do valor do imóvel. A pretexto de revisão de dados cadastrais, não é permitido à Administração, utilizando-se de critérios subjetivos, majorar obliquamente a base de cálculo de tributo, por meio de Decreto” (fl. 155).
+    No RE, interposto com base no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, LIV, LV, e § 2º, 60, § 4º, IV, 68, § 1º, 145, § 1º, 150, I, 156, § 1º, e 182, § 4º, II, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido está em consonância com o entendimento firmado pelo Plenário desta Corte, que no julgamento do RE 586.693/SP, Rel. Min. Marco Aurélio, deu provimento ao recurso por entender que é legitima a cobrança do Imposto sobre Propriedade Predial e Territorial Urbana (IPTU) calculado com base em alíquota progressiva, em razão do valor venal do imóvel, previsto em lei posterior a EC 29/2000. Por oportuno, trago à colação ementa do referido julgado:
+    “NULIDADE – JULGAMENTO DE FUNDO – ARTIGO 249, § 2º, DO CÓDIGO DE PROCESSO CIVIL. Quando for possível decidir a causa em favor da parte a quem beneficiaria a declaração de nulidade, cumpre fazê-lo, em atenção ao disposto no artigo 249, § 2º, do Código de Processo Civil, homenageando-se a economia e a celeridade processuais, ou seja, alcançar-se o máximo de eficácia da lei com o mínimo de atividade judicante, sobrepondo-se à forma a realidade.
+    IMPOSTO PREDIAL E TERRITORIAL URBANO – PROGRESSIVIDADE – FUNÇÃO SOCIAL DA PROPRIEDADE – EMENDA CONSTITUCIONAL Nº 29/2000 – LEI POSTERIOR. Surge legítima, sob o ângulo constitucional, lei a prever alíquotas diversas, presentes imóveis residenciais e comerciais, uma vez editada após a Emenda Constitucional nº 29/2000”
+    Isto posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+-Relator -
