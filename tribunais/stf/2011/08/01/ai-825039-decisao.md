@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL INICIAL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE. SÚMULAS N. 282, 356 E 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+    “DIREITO PROCESSUAL CIVIL E PREVIDENCIÁRIO – AGRAVO INTERNO – REVISÃO DA RENDA MENSAL INICIAL – RENÚNCIA A SALÁRIOS DE CONTRIBUIÇÃO – IMPOSSIBILIDADE. - O benefício de aposentadoria por tempo de serviço foi concedido à parte autora dentro da vigência da Lei 8.213/91 em sua redação originária que estabelecia, expressamente, a contagem dos 36 (trinta e seis) últimos salários de contribuição imediatamente anteriores ao afastamento da atividade laboral ou da data da entrada do requerimento na via administrativa. - Impossibilidade de renúncia em relação a alguns salários de contribuição para valer-se de outros que poderiam ser mais vantajosos, mesmo que dentro do período de máximo de 48 (quarenta e oito) meses, sob pena de se promover uma burla às leis que regem todo o sistema previdenciário nacional. - Indevida a revisão da renda mensal inicial, conforme pleiteado, eis que apurada em conformidade com a legislação vigente à época da aposentadoria do segurado. - Agravo interno a que se nega provimento” (fl. 110).
+    2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmulas n. 282 e 356 do Supremo Tribunal Federal (fls. 252-253).
+    3. O Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. II, da Constituição da República.
+    Argumenta que “a Turma, ao contrário do que afirmado pela ilustre Desembargadora Federal Vice-Presidente, expressamente se pronunciou quanto ao artigo 5º, inciso II, [da Constituição]” (fl. 9).
+    Sustenta que “o que a parte autora está a pleitear é a mera aplicação do dispositivo de lei, a saber a redação original do artigo 29 da Lei n. 8.213/91, cujo tempo de vigência esta em sintonia com o da concessão do benefício” (fl. 9).
+    Assevera que “não havendo vedação legal expressa para o segurado renunciar a um ou mais dos salários-de-contribuição que compõe o cálculo do benefício, não cabe ao julgador restringir tal disponibilidade constitucional, prevista no art. 5º, inciso II” (fl. 10).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O dispositivo constitucional suscitado no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. Precedentes. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 646.853-AgR, de minha relatoria, Primeira Turma, DJe 13.2.2009).
+    “A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+    6. Ademais, a alegada contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, que dispõe não caber “recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”, na espécie vertente ao art. 29 da Lei n. 8.213/1991.
+    Nesse sentido:
+    “Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 745.965-AgR, Gilmar Mendes, Segunda Turma, DJe 26.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE E DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO ” (RE 631.736-ED, de minha relatoria, Primeira Turma, DJE 8.4.2011).
+     Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
