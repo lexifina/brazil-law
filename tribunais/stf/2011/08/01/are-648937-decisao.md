@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL PELA PRESTAÇÃO DE SERVIÇOS ASSISTENCIAIS EM SAÚDE. LEI MUNICIPAL N. 13.493/2003. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Servidores públicos municipais – Gratificação Especial pela Prestação de Serviços Assistenciais em Saúde, instituída pela Lei Municipal n. 11.716/1995, alterada pelas Leis Municipais n. 13.493/2003 e 13.652/2003. Pretensão à inclusão da gratificação no cálculo do décimo terceiro salário e abono de férias. Admissibilidade, a partir da edição da Lei n. 13.652/2003, que estendeu o benefício indistintamente a todos os servidores pertencentes aos quadros da Secretaria Municipal da Saúde, perdendo por completo, à luz de sua moldura legal, a característica de gratificação 'propter laborem'. Recursos oficial e voluntário parcialmente providos” (fl. 218).
+    2. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 2º, 37, caput e inc. XIV, 39, § 1º, e 169 da Constituição da República.
+    Argumenta que “a inclusão na base de cálculo de qualquer indenização ou vantagem pecuniária, inclusive 1/3 de férias, décimo terceiro salário, significará fazer 'tabula rasa' da legislação municipal” (fl. 240).
+    Sustenta que:
+    “o legislador municipal, ao excluir a pleiteada gratificação da base de cálculo do 1/3 constitucional sobre férias e do 13º salário, já que os vencimentos dos autores acrescido da gratificação em comento não se caracteriza como 'salário normal' (CR/88: art. 7º, XVII), visto o caráter transitório da gratificação, ou 'remuneração integral (CR/88: art. 7º, VIII), pois a remuneração, no caso em testilha, contém parcelas variáveis, outorgadas para prover situações precárias ou temporárias, posteriormente eliminadas do valor total (quando os autores não preencherem os requisitos legais), sem que isto atinja direito dos autores” (fl. 240-241).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de que a) “os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido, que contém fundamentação adequada para lhe dar respaldo”; b) não estaria “evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’ e ‘d’ do permissivo constitucional”; c) a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 257-258).
+    Analisada a matéria posta à apreciação, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo de instrumento, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem decidiu a controvérsia com base na legislação municipal (Leis ns. 11.716/1995; 13.493 e 13.652/2003). Para se concluir de forma diversa seria necessária a análise dessas leis, o que não viabiliza a interposição válida do recurso extraordinário. Incide na espécie vertente a Súmula 280 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. GRATIFICAÇÃO ESPECIAL PELA PRESTAÇÃO DE SERVIÇOS ASSISTENCIAIS EM SAÚDE. CONTROVÉRSIA CIRCUNSCRITA À LEGISLAÇÃO MUNICIPAL PERTINENTE. INCIDÊNCIA DA SÚMULA 280 DO STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado de São Paulo demandaria o reexame da legislação local aplicada à espécie. Providência vedada na instância extraordinária. 2. Agravo regimental desprovido” (AI 759.552-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 3.11.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL PELA PRESTAÇÃO DE SERVIÇOS ASSISTENCIAIS EM SAÚDE: INCLUSÃO NA COMPOSIÇÃO DO DÉCIMO TERCEIRO SALÁRIO E NA BASE DE CÁLCULO DO ABONO DE FÉRIAS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DAS SÚMULAS 280 E 283 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 765.925-AgR, de minha relatoria, Primeira Turma, DJe 24.9.2010).
+    E ainda: AI 783.340, Rel. Min. Ellen Gracie, DJe 16.8.2010, trânsito em julgado em 26.8.2010.
+    7. Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
