@@ -1,0 +1,48 @@
+ADMINISTRATIVO. SERVIDORES PÚBLICOS FEDERAIS. REVISÃO GERAL ANUAL. VANTAGEM PECUNIÁRIA INDIVIDUAL. EXAME DE NORMA INFRACONSTITUCIONAL. LEI Nº 10.698/03. IMPOSSIBILIDADE DO JUDICIÁRIO CONCEDER AUMENTO REMUNERATÓRIO. SÚMULA 339 DO STF.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. O recurso extraordinário é inadmissível quando a aferição de violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional encerra ofensa reflexa e oblíqua. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11)
+3. Ao Poder Judiciário é vedado conceder aumento a servidores públicos ou a militares com fundamento no princípio da isonomia, uma vez que não possui atribuição legislativa. Súmula 339 do STF, verbis: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia”. Precedentes: RE 630.768-AgR, primeira turma, Rel. Min. Cármen Lúcia, Dje de 07/04/11, e RE 524.020-AgR, segunda turma, Rel. Min Gilmar Mendes, Dje de 15/10/10.
+4. Recurso extraordinário a que se nega seguimento.
+    Decisão: Trata-se de recurso extraordinário interposto por Maria do Carmo Oliveira Lima e outros, com fulcro no art. 102, III, “a”, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, nos termos da seguinte ementa:
+    Constitucional e Administrativo. Revisão geral anual. Lei 10.697/03. Vantagem pecuniária. Revisão pelo Poder Judiciário. Impossibilidade.
+    1. A Lei 10.698/2003 aumentou os vencimentos dos servidores através de vantagem pecuniária, e não, de reajuste geral anual, como ocorreu na Lei 10.697/2003.
+    2. Tratando-se de vantagem pecuniária, é vedada ao Judiciário a concessão do índice de 13,23%, sob pena de afronta ao princípio da separação dos poderes.
+    3. Aplicação da Súmula 339, do STF. Precedentes desta eg. 3ª Turma, da minha relatoria: AC 402277/PE, julgamento em 19 de fevereiro de 2009.
+    4. Apelação improvida.
+    Noticiam os autos que os recorrentes ajuizaram ação ordinária em face da Fundação Nacional de Saúde – FUNASA, objetivando a aplicação do percentual de 13,23% nos seus vencimentos.
+    A sentença julgou improcedente o pedido.
+    O acórdão recorrido confirmou a sentença sob o fundamento de a Lei 10.698/2003 ter instituído vantagem pecuniária individual no valor de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos), e não uma revisão geral.
+    Em sede de recurso extraordinário, os recorrentes alegam violação do artigo 37, X, da Constituição Federal.
+    Foram apresentadas contrarrazões.
+    Relatados, decido.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Cinge-se a controvérsia na identificação da natureza do pagamento da vantagem no valor fixo de R$ 59,87 (cinquenta e nove reais e oitenta e sete centavos), estatuída pela Lei 10.698/03, se revisão geral ou vantagem pecuniária individual, e na extensão a todos os servidores públicos federais pelo Judiciário, em obediência ao princípio da isonomia.
+    As razões norteadoras do acórdão objurgado calcaram-se na análise da legislação que regula a matéria; verbis:
+    Veja-se que a Lei 10.698/03 ressalta, inclusive, que sobre a vantagem por ela instituída incidirão as revisões gerais e anuais de remuneração dos servidores públicos federais, o que corrobora a sua natureza de vantagem pecuniária individual, e não de revisão de caráter generalizado. Portanto, o acréscimo nos vencimentos dos servidores decorreu da instituição de vantagem pecuniária, e não de reajuste geral anual, como ocorreu na Lei 10.697/03.
+    A aferição da violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional, o que encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Como exemplos, merecem transcrição as ementas dos seguintes julgados, in verbis:
+    AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - REEXAME DE FATOS E PROVAS - IMPOSSIBILIDADE - SÚMULA 279/STF - RECURSO IMPROVIDO .
+    - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. Precedentes .
+    - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta , só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes .
+    - Não cabe recurso extraordinário, quando interposto com o objetivo de discutir questões de fato ou de examinar matéria de caráter probatório. Precedentes .
+    (AI 738.145-AgR, Rel. Ministro Celso de Mello, 2ª Turma, DJe 25/02/11)
+    DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 e 356. MATÉRIA DE ORDEM PÚBLICA. FALTA DE PEÇA NO TRASLADO. RAZÕES DE APELAÇÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO DE SUSPOSTA OMISSÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO infraconstitucional. INEXISTÊNCIA DE OMISSÃO.
+    1. A questão constitucional invocada no recurso extraordinário não foi objeto de debate e de decisão no acórdão recorrido. Desatendido o pressuposto recursal do prequestionamento, imprescindível para o conhecimento do apelo extremo. Exigência do cumprimento desse requisito recursal, ainda que a questão suscitada seja de ordem pública. Precedentes. Súmulas STF 282 e 356.
+    2. Ausência de cópia das razões de apelação. Segundo reiterada orientação do Supremo Tribunal, é encargo da própria agravante fiscalizar a inteireza do traslado, a fim de se possibilitar a análise de eventual omissão do acórdão.
+    3. A jurisprudência desta Corte é pacífica em não admitir o recurso extraordinário quando o deslinde da controvérsia dependa do reexame da análise da legislação infraconstitucional, pois, nesse caso, eventual ofensa à Constituição Federal seria indireta ou reflexa.
+    4. Agravo regimental a que se nega provimento.
+    (AI 482.317-AgR, Rel. Ministra Ellen Gracie, 2ª Turma, DJe 15/03/11).
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11).
+    Por fim, é pacífico nesta Suprema Corte o entendimento de que não cabe ao Poder Judiciário, que não tem atribuição legislativa, conceder aumento com fundamento no princípio da isonomia. Súmula 339 do STF: “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.”
+    Sobre a aplicação da referida súmula, confira-se o entendimento de Roberto Rosas:
+    A fixação de vencimentos e seu aumento competem ao Poder Legislativo, que examina o projeto de iniciativa do Poder Executivo (RTJ 54/384). Ao Judiciário somente cabe examinar a lesão ao princípio constitucional da igualdade. Não cabe o exame da justa ou injusta situação do servidor, que deveria estar em nível mais alto; o princípio “à função igual corresponde igual remuneração” é constitucional, com base na isonomia (RTJ 71/889, 75/198 e 68/423; exercício de funções diversas das correspondentes ao cargo de que é titular – RTJ 80/871, 78/307, 81/937; isonomia – RTJ 76/966, 81/202, 101/120, 105/391, 107/1.207, 106/1.221, 109/217 e 109/369).
+    Não houve alteração após a Constituição Federal de 1988. O princípio da isonomia deve ser concretizado pelo legislador (RMS 21.512-7, DJU 19.2.1993; Adílson Dallari, Regime Constitucional dos Servidores Públicos, p. 65). (ROSAS, Roberto, in, Direito Sumular, Malheiros).
+    Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1) REAJUSTE DE PROVENTOS DE JUÍZES CLASSISTAS COM BASE NO PRINCÍPIO DA ISONOMIA: INCONSTITUCIONALIDADE. SÚMULA N. 339 DO SUPREMO TRIBUNAL FEDERAL. 2) AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 630.768-AgR, Rel. Ministra Cármen Lúcia, 1ª Turma, Dje de 07/04/11).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. 2. Equiparação de vencimentos com fundamento no princípio da isonomia: incidência da Súmula 339 do Supremo Tribunal Federal. 3. Impossibilidade de fixação do piso salarial em múltiplos do salário mínimo. Precedentes. Agravo regimental ao qual se nega provimento. (RE 524.020-AgR, Rel. Ministro Gilmar Mendes, 2ª Turma, Dje de 15/10/10).
+    Ex positis, nego seguimento ao recurso extraordinário com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
