@@ -1,0 +1,10 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA - PRESCRIÇÃO. ANISTIA. TERMO INICIAL. Constatada possível violação do artigo 7º, XXIX, da CF/88, impõe-se o provimento do Agravo de Instrumento para determinar o processamento do Recurso de Revista. Agravo de Instrumento conhecido e provido.
+    RECURSO DE REVISTA - PRESCRIÇÃO. ANISTIA. TERMO INICIAL. O termo inicial do prazo prescricional para o Autor postular em juízo o retorno ao cargo anteriormente ocupado é a data da Portaria n.º 25 da Comissão Especial de Anistia, de 25/11/1994, que anistiou o Reclamante, pois foi a partir da resistência da Reclamada em dar cumprimento ao referido comando de readmissão que se configurou a lesão ao direito previsto na Lei n.º 8.878/94. Assim, tendo a presente Reclamatória sido proposta apenas em 24/09/1997, restou prescrita a pretensão do Autor, nos termos do artigo 7º, XXIX, "a", da CLT. Recurso de Revista conhecido e provido” (fl. 210).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXIX, da mesma Carta, sob o argumento de que é “impossível o conhecimento do recurso de revista patronal, visto que a violação ao artigo 7º, XXIX, da Constituição Federal, quando muito, seria reflexa”.
+    O agravo não merece acolhida. Isso porque os Ministros desta Casa, no RE 598.365/MG, Rel. Min. Carlos Britto, por unanimidade, recusaram o recurso extraordinário ante a ausência de repercussão geral sobre os pressupostos de admissibilidade de recursos de Cortes diversas, por não se tratar de matéria constitucional. Decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
