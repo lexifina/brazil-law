@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Acórdão assim ementado (fls. 140):
+    “MANDADO DE SEGURANÇA. HORA EXTRAORDINÁRIA. EXPEDIÇÃO DE DECRETO PELO GOVERNADOR DO ESTADO FIXANDO LIMITE MÁXIMO PARA REALIZAÇÃO DAQUELA. DISCRICIONARIEDADE DA ADMINISTRAÇÃO PÚBLICA. ORDEM DO COMANDANTE-GERAL DA POLÍCIA MILITAR, ALBERGADA PELO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO, PERMITINDO A REALIZAÇÃO DE HORA EXTRA EM QUANTIDADE SUPERIOR À ARBITRADA NO CITADO DECRETO. POSTERIOR BLOQUEIO DA REMUNERAÇÃO DEVIDA AOS IMPETRANTES. ILEGALIDADE. DIREITO LÍQUIDO E CERTO DAQUELES À CONTRAPRESTAÇÃO PECUNIÁRIA. SEGURANÇA CONCEDIDA.”
+    2. Pois bem, a parte recorrente aponta ofensa ao caput e incisos XIII e XVI do art. 7º, aos §§ 10 e 11 do art. 42 (redação anterior à EC 18/1998) e ao inciso VIII do art. 142 da Magna Carta de 1988. Sustenta, em síntese, que, “não tendo o legislador constituinte, atribuído aos Policiais Militares, direito a horas extraordinárias e jornada de trabalho segundo certos limites temporais, vedado restou ao legislador local assim proceder, do que decorre a inconstitucionalidade do artigo 3º e da expressão 'nas mesmas bases da remuneração do serviço extraordinário e do trabalho noturno' contida no artigo 2º, ambos da Lei Complementar estadual nº 137/95, no que cuida de fixar a jornada de trabalho dos Policiais Militares e a concessão de horas extraordinárias” (sic, fls. 185).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina “pelo não-provimento” do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça. Leia-se, a propósito, a ementa do AI 784.572-AgR, da relatoria da ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL MILITAR. HORA EXTRAORDINÁRIA. 1. POSSIBILIDADE DE LEGISLAÇÃO INFRACONSTITUCIONAL DISPOR SOBRE VANTAGEM OU GARANTIA NÃO VEDADA OU NÃO DISCIPLINADA PELA CONSTITUIÇÃO DA REPÚBLICA. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. INCABÍVEL RECURSO PELA ALÍNEA D DO ART. 102, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    5. No mesmo sentido: o RE 235.623, da relatoria do ministro Sepúlveda Pertence.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
