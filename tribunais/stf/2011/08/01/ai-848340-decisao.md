@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA: SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com fundamento no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto decisão monocrática de Desembargador Federal do Tribunal Regional Federal da 4ª Região, que negou seguimento à apelação do Recorrente e deu provimento à apelação do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA (fls. 340-346).
+    Os embargos de declaração opostos foram rejeitados por decisão monocrática (fl. 355).
+    3. No recurso extraordinário, o Agravante alega que teriam sido contrariados os arts. 1º, inc. III, 5º, inc. LV, 37, caput, 93, inc. IX, da Constituição da República.
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 281 deste Supremo Tribunal.
+    5. Nas razões do agravo de instrumento, o Agravante afirma que existem “mais de 80 processos que tratam do mesmo tema (...), distribuídos entre as 3ª e 4ª Turmas do E. TRF da 4ª Região, (...), onde o Relator sujeitou a análise da mesa julgadora o tema constante do caso presente. Por esta premissa, podemos aludir que o tema já foi suplantado em instância originária, e que a propositura do recurso naquele grau de jurisdição apenas serviria ao propósito de postergar o andamento do feito, o que não é o objetivo do Agravante” (fl. 5).
+    Analisados os elementos havidos nos autos, DECIDO.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Este Supremo Tribunal Federal assentou que a decisão possibilitadora do recurso extraordinário é aquela proferida em única ou última instância, conforme o disposto no inc. III do art. 102 da Constituição da República, pois é necessário o esgotamento da jurisdição na origem.
+    Na espécie vertente, o recurso extraordinário foi interposto contra decisão monocrática, contra a qual ainda seria cabível a interposição do agravo interno previsto no § 1º do art. 557 do Código de Processo Civil.
+    Essa circunstância atrai a incidência da Súmula n. 281 do Supremo Tribunal Federal e não viabiliza o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA DO TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA. VIA RECURSAL NÃO ESGOTADA NA ORIGEM. SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Inviável o agravo de instrumento no qual não são impugnados todos os fundamentos da decisão que não admitiu o recurso extraordinário. Precedentes. 2. A decisão monocrática de relator que nega seguimento a recurso de apelação não é decisão de última instância, pois pode ser impugnada por agravo” (AI 651.750-AgR, de minha relatoria, Primeira Turma. DJe 17.4.2009 grifos nossos).
+    “PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA QUE DÁ PROVIMENTO À APELAÇÃO, PARA REFORMAR A SENTENÇA. SÚMULA 281 DO STF. I - Recurso extraordinário interposto contra decisão monocrática que deu provimento à apelação para reformar a sentença, sendo ainda cabível o recurso de agravo previsto no art. 557, § 1º, do CPC. Ante a ausência de decisão de única ou última instância, incide o óbice da Súmula 281 do STF. II - Agravo não provido” (RE 488.827-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009 grifos nossos).
+    “1. RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Recurso Extraordinário. Exaurimento das instâncias ordinárias. Não ocorrência. Agravo regimental não provido. Súmula 281 . Não se admite recurso extraordinário quando ainda cabível a interposição de recurso nas instâncias ordinárias . 2. RECURSO. Extraordinário. Falta de recolhimento de preparo. Inadmissibilidade. Agravo Regimental não provido. É dever da parte recorrente, no ato da interposição do recurso, comprovar o recolhimento do preparo sob pena de deserção” (AI 567.358-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 28.3.2008 grifos nossos).
+    Não há, pois, o que prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
