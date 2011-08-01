@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Sindicato Nacional dos Docentes das Instituições de Ensino Superior (ANDES - Sindicato Nacional) interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5°, caput e inciso II, 40, parágrafo 8°, da Constituição Federal e 7° da Emenda Constitucional n° 41/03.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. DOCENTES INATIVOS E PENSIONISTAS. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA - GED. LEI Nº 9.678/1998. LEI Nº 11.087/2005.
+    1. Conforme assentado pelo Supremo Tribunal Federal, somente as gratificações ou vantagens concedidas aos servidores da ativa, com características de generalidade e impessoalidade, é que se estendem aos inativos. Precedentes do STF: ADI 778/DF; RE 223.881/SP, 217.110/SP, 219.329/SP, 289.680/SP, 265.949/SP e 224.279/SP; e AI 324.773/SP (DJ de 19.12.94, 13.08.99, 02.02.2001, 03.02.98, 11.10.2001, 05.8.2002, 09.10.2003, 24.10.2001, respectivamente).
+    2 A Lei nº 11.087/2005, resultado da conversão da Medida Provisória nº 208/2004, em nada alterou a natureza jurídica da referida gratificação. Continuou a prever regras distintas de cálculo para servidores ativos e inativos, justificadamente em razão de inexistirem meios de averiguação do desempenho dos últimos.
+    3. Com relação ao fato de não ter ocorrido a avaliação dos docentes, isso não significa que jamais será realizada - o que por si derruba a tese de se tratar de "aumento disfarçado". Além disso, tal como na redação anterior, o legislador não igualou a situação dos ativos a dos inativos justamente pela ausência de critérios para que isso pudesse ser feito” (fl. 222).
+    Opostos embargos de declaração (fls. 224 a 226), foram rejeitados (fls. 227/228).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    A jurisprudência da Corte está consolidada no sentido de que a discussão acerca da possibilidade de extensão aos inativos e pensionistas de gratificação debatida nestes autos, bem como sobre a natureza jurídica da vantagem, está restrita à interpretação da legislação infraconstitucional e ao reexame dos fatos e provas que compõem a lide, operações vedadas em sede de recurso extraordinário. Incidência da Súmulas nº 279 e 280/STF. Anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA – GED. NATUREZA JURÍDICA E POSSIBILIDADE DE EXTENSÃO AOS INATIVOS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 636.578/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 16/5/11).
+    “RECURSO EXTRAORDINÁRIO – LEI Nº 9.678/98 - GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA (GED) - EXTENSÃO AOS SERVIDORES INATIVOS – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – PRECEDENTES – RECURSO IMPROVIDO” (RE nº 600.122/AL-AgR, Segunda Turma, Relator o Ministro Celso de Melllo, DJe de 15/3/11).
+    No mesmo, sentido as seguintes decisões monocráticas: AI nº 813.372/BA, Relator o Ministro Ayres Britto, DJe de 20/9/10; RE nº 560.517/RS, Relator o Ministro Marco Aurélio, DJe de 28/9/10; RE nº 598.067/AL, Relator o Ministro Ricardo Lewandowski, de 2/6/10; AI nº 742.295/MG, Relatora a Ministra Ellen Gracie, DJe de 24/11/09; RE nº 470.786/RS, Relator o Ministro Cezar Peluso, DJ de 20/3/06.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1° de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
