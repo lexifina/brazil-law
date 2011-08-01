@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado (fls. 213):
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. SERVIDOR PÚBLICO DO FISCO DO ESTADO DE GOIÁS. EQUIPARAÇÃO DOS VALORES DA GRATIFICAÇÃO DE ENCARGO COM A GRATIFICAÇÃO DE REPRESENTAÇÃO ESPECIAL CONCEDIDA AOS SERVIDORES EM ATIVIDADE. IMPOSSIBILIDADE. VANTAGEM PRO LABORE FACIENDO. CARÁTER TRANSITÓRIO.
+    1. Os Agravantes não trouxeram argumento capaz de infirmar as razões consideradas no julgado agravado, razão pela qual deve ser mantido por seus próprios fundamentos.
+    2. Ressalte-se que a gratificação especial almejada pelos Recorrentes, ora Agravantes, consoante demonstram os autos, tem caráter diferenciado, na medida em que se trata de vantagem pecuniária de natureza transitória, vinculada ao desempenho da função, não passível, portanto, de incorporação.
+    3. Agravo regimental desprovido.”
+    2. Opostos embargos declaratórios, foram eles rejeitados, porque não configuradas as hipóteses de embargabilidade constantes do art. 535 do Código de Processo Civil.
+    3. Pois bem, a parte recorrente aponta violação ao § 8° do art. 40 da Magna Carta de 1988. Alega que a Gratificação por Condições Especiais de Trabalho – GCET, “ao contrário da clara disposição legal, está sendo concedida a todos os servidores ocupantes do mesmo cargo em que se deu a aposentadoria dos Recorrentes” (fls. 249). Sustenta que a “lei utilizada pela autoridade coatora para fundamentar a concessão do benefício aos servidores da ativa trata, de fato, como já dito acima, de uma gratificação específica, que exigiria em tese vários requisitos para a sua concessão. Entretanto, defendeu-se e provou-se nos autos que essa gratificação rotulada de específica vem sendo aplicada de forma geral, disfarçando um verdadeiro aumento salário, outorgada apenas aos servidores da ativa, em patente violação ao comando constitucional” (sic, fls. 250).
+    4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Sandra Cureau, opina pelo não-conhecimento do apelo extremo.
+    5. Tenho que a insurgência não merece acolhida. No caso, o Superior Tribunal de Justiça indeferiu pedido de extensão da vantagem denominada “Gratificação por Condições Especiais de Trabalho – GCET” aos proventos dos recorrentes (servidores públicos estaduais aposentados).
+    6. Entendeu a instância judicante de origem que o referido acréscimo é pago em razão de critérios estabelecidos em lei, que somente são de ser implementados por servidor em atividade (pro labore faciendo), tornando-se incompatível a sua extensão a servidores aposentados.
+    7. De se ver, portanto, que o acórdão recorrido afina com a orientação do STF no sentido de que apenas as vantagens de natureza genérica, concedidas a servidores da ativa, são extensíveis aos aposentados e pensionistas (§ 8º do art. 40 da Lei Maior, em sua redação anterior à EC 41/2003).
+    8. À derradeira, ressalto que a análise da natureza jurídica de parcelas remuneratórias devidas a servidores não enseja a abertura da via recursal extraordinária, ante a indispensabilidade de se rever a interpretação dada pelo Tribunal de origem à legislação infraconstitucional pertinente. Pelo que é de incidir a Súmula 280/STF.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
