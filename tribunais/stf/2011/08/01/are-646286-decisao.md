@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que rejeitou embargos de declaração opostos contra julgado que deu parcial provimento a recurso inominado a fim de excluir da condenação a indenização por danos morais.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, III, 5º, II, X, XXXII, XXXV e LV, e 93, IX, da mesma Carta.
+    O agravo merece acolhida.
+    Da análise dos autos, observa-se que a ora agravante opôs embargos de declaração contra o acórdão que deu parcial provimento ao recurso inominado, os quais foram rejeitados (fl. 113).
+    Contra essa decisão, a agravante opôs novos embargos de declaração, que não foram conhecidos sob o único argumento de que a sentença teria sido mantida pelos seus próprios fundamentos (fl. 130).
+    Verifica-se, no entanto, que o acórdão proferido no julgamento do recurso inominado, ao contrário do que foi consignado, não manteve a sentença pelos seus próprios fundamentos, mas deu parcial provimento ao recurso para excluir da condenação a indenização por danos morais (fl. 100).
+    Ressalte-se que a previsão do art. 93, IX, da Constituição Federal, não exige o exame detalhado de cada uma das alegações ou fatos. Contudo, ainda que sucintamente, o acórdão ou decisão deverá ser fundamentado, o que não ocorreu no presente caso. Nesse sentido, transcrevo ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (Grifos meus).
+    Isso posto, dou provimento ao agravo para conhecer e dar provimento ao recurso extraordinário (Art. 544, § 4º, II, c, do CPC), a fim de que seja proferido novo julgamento dos embargos de declaração pelo Colégio Recursal da 20ª Circunscrição Judiciária da Comarca de Itu-SP, respeitando o preceituado no art. 93, IX, da Constituição Federal .
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
