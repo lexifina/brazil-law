@@ -1,0 +1,21 @@
+Decisão: 1. Trata-se de pedido de suspensão de tutela antecipada ajuizado pelo Estado do Rio de Janeiro, em face da decisão proferida nos autos da Ação de Conhecimento nº 0254160-37.2010.8.19.0001, em tramitação na 3ª Vara de Fazenda Pública da Capital, confirmada, em parte, pelo Tribunal de Justiça carioca no Agravo de Instrumento nº 0047050-71.2010.8.19.0000.
+    A decisão impugnada determinou que o requerente custeasse o tratamento de saúde do autor -, paciente portador de insuficiência renal crônica e de outras enfermidades que dificultam-lhe a locomoção -, em clínica particular próxima ao local em que reside, uma vez que a unidade de saúde conveniada ao SUS que lhe prestava assistência fora fechada e a opção para continuidade da hemodiálise se daria em localidade distante.
+    Alega o requerente, em síntese, grave lesão à ordem e finanças públicas. Sustenta, ainda, falta de dotação orçamentária para cumprimento da obrigação imposta, aumento de despesa, desequilíbrio na política fiscal e potencial efeito multiplicador. Aduz, por fim, manifesta contrariedade à ordem constitucional (art. 199, §§ 1º e 2º).
+    Quanto ao mais, tece argumentos acerca do mérito da causa, da forma de custeio do sistema de saúde carioca e dos requisitos estabelecidos para inclusão de pacientes no programa de tratamento fora de domicílio.
+    A Procuradoria-Geral da República manifesta-se pelo indeferimento do pedido.
+    2. É caso de extinção anômala do processo.
+    Nos termos do art. 297 do RISTF, do art. 25 da Lei n° 8.038/90 e do art. 4° § 4º da Lei n° 8.437/92, a suspensão, pelo Presidente do Supremo Tribunal Federal, de execução de decisões concessivas de segurança, de liminar e de antecipação dos efeitos de tutela contra o Poder Público, somente é admissível diante da coexistência de três requisitos, a saber: (i) que tais decisões sejam proferidas em única ou última instância pelos tribunais locais ou federais; (ii) que a discussão travada na origem tenha potencial de causar grave lesão à ordem, à saúde, à segurança ou à economia públicas; e (iii) que a controvérsia seja de índole constitucional (cf. Rcl nº 497-AgR /RS, rel. Min. CARLOS VELLOSO , Plenário, DJ 06.4.2001; SS nº 2.187-AgR , rel. Min. MAURÍCIO CORRÊA , DJ 21.10.2003; e SS nº 2.465 , rel. Min. NELSON JOBIM , DJ 20.10.2004).
+    Não se encontra aqui, todavia, o segundo requisito elementar do regime legal de contracautela.
+    É que o requerente não comprovou que a decisão ora impugnada seria capaz de gerar grave lesão à ordem pública e econômica.
+    A jurisprudência desta Corte assentou que a potencialidade danosa da decisão deve ser comprovada de forma inequívoca pelo requerente, dado o caráter excepcional do pedido de suspensão. Nesse sentido, o Ministro CELSO DE MELLO , então na Presidência da Corte, decidiu, na SS nº 1.185 (DJ 4.8.1999), que:
+    “A existência da situação de grave risco ao interesse público, alegada para justificar a concessão da drástica medida de contracautela, há de resultar cumpridamente demonstrada pela entidade estatal que requer a providência excepcional autorizada pelo art. 4º da Lei nº 4.348/64. Não basta, para esse efeito, a mera e unilateral declaração de que, da execução da decisão concessiva da liminar mandamental, resultará comprometido o interesse público”.
+    Por outro lado, como bem destacou a Procuradoria-Geral da República:
+    “(...)
+    A ponderação dos valores em conflito, neste caso, portanto, leva ao indeferimento do pedido de contracautela, uma vez que a suspensão dos efeitos da decisão pode ocasionar danos graves e irreparáveis à saúde e à vida do paciente, parecendo indubitável, na espécie, o chamado perigo de dano inverso, a demonstrar a elevada plausibilidade da pretensão veiculada na ação originária, minando, em contrapartida, a razoabilidade da suspensão re3querida” (Petição eletrônica STF nº 31040/2001 – fl. 7).
+    Quanto aos demais argumentos, estes guardam nítido cunho de recurso, quando a orientação desta Corte está em que a via da suspensão não é sucedâneo recursal (cf. SL n° 14, Rel. MAURÍCIO CORRÊA , DJ 03.10.2003; e SL n° 80, Rel. NELSON JOBIM , DJ 19.10.2005).
+    3. Ante o exposto, nego seguimento ao pedido (artigo 21, § 1.º, do RISTF). Arquivem-se.
+    Publique-se.
+    Brasília, 1 de agosto de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
