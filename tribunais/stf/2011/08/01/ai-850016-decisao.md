@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CERCEAMENTO DE DEFESA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO, DE CLÁUSULAS CONTRATUAIS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “FUNDO DE INVESTIMENTO FINANCEIRO. VOLATILIZAÇÃO DO CAPITAL. RISCO. TRANSAÇÃO. PROVAS. O JUIZ É O DESTINATÁRIO DA PROVA. CERCEAMENTO DE DEFESA. DESCUMPRIMENTO DO ART. 331 DA LEI DE RITOS.
+    1. Nos estritos termos do art. 130 do Código de Processo Civil, caberá ao juiz, de ofício ou a requerimento da parte, determinar a realização das provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+    2. O juiz é o destinatário da prova, cabendo-lhe velar pela rápida solução do litígio, assegurando a igualdade das partes.
+    3. Havendo julgamento antecipado da lide, não se pode falar em nulidade do processo pela ausência da conciliação prevista no art. 331 da Lei de Ritos.
+    4. Se o investidor, vítima de desastre cambial que afetou toda a economia brasileira, teve total prejuízo do capital aplicado mas, resolve, livremente, celebrar uma transação, na tentativa de salvar parte do capital investido, não pode depois alegar a nulidade deste ato jurídico.
+    5. É lícito aos interessados prevenirem ou terminarem o litígio mediante concessões mútuas (art. 1.025 do Código Civil Brasileiro).
+    6. A nulidade dos negócios jurídicos, como de sabença, depende da comprovação da ocorrência de erro, dolo ou coação.
+    7. Caracteriza-se a coação pelo fundado temor de dano à pessoa do coacto, sua família ou seus bens.
+    8. A transação é negócio jurídico extintivo das obrigações produzindo entre as partes o efeito da coisa julgada, e só se rescinde por dolo, violência ou erro essencial quanto à pessoa ou coisa controversa (art. 1030 do Código Civil).
+    9. O inc. I do art. 51 do Código de Defesa do Consumidor visa resguardar o consumidor que, mesmo antes de sofrer qualquer tipo de lesão, no momento ainda da formação do contrato, poderia ser compelido a renunciar a algum direito, ou dele dispor, ainda que parcialmente.
+    10. O direito, em si, não pode ser transacionado, pois é indisponível.
+    11. Surgido o conflito, no entanto, o consumidor pode transigir com relação aos efeitos patrimoniais, ou seja, pode dispor sobre a quantia, o prazo e a forma de pagamento, sem que estas concessões importem em renúncia de direitos.
+    12.Rejeição das preliminares. Manutenção da sentença. Desprovimento do apelo”(fls. 19-22).
+    3. O Agravante alega que teria sido contrariado o art. 5º, inc. LV, da Constituição da República.
+    Afirma que “o acórdão recorrido, prestigiando a sentença monocrática, extinguiu o processo sem exame de mérito, não permitiu ao recorrente provar a coação sofrida quando da assinatura da denominada transação assinada em favor do Banco Boavista e sua DTVM” (fl. 40).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que inexiste ofensa constitucional direta (fl. 79-85).
+    Analisados os elementos havidos nos autos, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem decidiu a controvérsia com base na legislação processual ordinária e no conjunto probatório constante dos autos. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA E CONTRADITÓRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. CF/88, ART. 5º, LV. SÚMULA STF 279. OFENSA CONSTITUCIONAL INDIRETA. (...)” (AI 656.624-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 16.4.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. ATO DE IMPROBIDADE ADMINISTRATIVA. INDEFERIMENTO DE PROVA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. APLICAÇÃO DE MULTA CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 do SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 612.996-AgR, de minha relatoria, Primeira Turma, DJe 5.3.2010).
+    “EMENTA: AGRAVO REGIMENTAL. CONSÓRCIO. DESISTÊNCIA DO CONSORCIADO. CÓDIGO DE DEFESA DO CONSUMIDOR. CLÁUSULAS CONTRATUAIS. REEXAME DE PROVA. Esta colenda Corte, no julgamento do RE 252.524-AgR, Rel. Min. Ilmar Galvão, consignou o entendimento de que esse tipo de controvérsia não dá margem ao cabimento de recurso extraordinário. No mesmo sentido o RE 388.314-AgR, Rel. Min. Nelson Jobim. Análise de legislação infraconstitucional (Código de Defesa do Consumidor). Incidência, ainda, das Súmulas 279 e 454 desta Casa Maior da Justiça brasileira. Agravo regimental a que se nega provimento” RE 400.267-AgR/AC, Rel. Min. Ayres Britto, Primeira Turma, DJ 10.9.2004).
+    7. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Defesa do Consumidor e Lei n. 9.099/1995), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
