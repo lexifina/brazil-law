@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra decisão que extinguiu processo de execução fiscal ao fundamento de que a dívida executada deveria ser cobrada de terceira pessoa, que a assumiu.
+    Neste RE, interposto com base no art. 102, III, c e d, da Constituição, alegou-se, em suma, ofensa ao art. 37, caput (princípio da legalidade), da mesma Carta, bem como aos princípios constitucionais da separação de poderes e da motivação das decisões judiciais.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. É o caso dos autos, no que se refere à suposta ofensa ao princípio da separação de poderes.
+    Ademais, a exigência de motivação das decisões judiciais (art. 93, IX, da Constituição) não impõe que elas sejam exaustivamente fundamentadas. O que se busca é que o julgador informe, de forma clara, as razões de seu convencimento, tal como ocorreu.
+    É certo, ainda, que a decisão recorrida dirimiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Complementar Municipal 337/2003). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Tribunal a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Além disso, o Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada à norma infraconstitucional pelo Juízo a quo (Súmula 636 do STF).
+    Por fim, nos termos do art. 102, III, c e d, da Constituição, é cabível o recurso extraordinário quando a decisão recorrida julga válida lei ou ato de governo local contestado em face da mesma Carta ou julgar válida lei local contestada em face de lei federal. Porém, a decisão recorrida não assentou a validade da Lei Complementar Municipal 337/2003 em face da Constituição ou de qualquer lei federal. O recorrente sequer contesta a validade do diploma legal mencionado ante disposições constitucionais ou de lei federal. Portanto, o presente recurso não se enquadra em nenhum dos permissivos constitucionais suscitados pelo recorrente.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
