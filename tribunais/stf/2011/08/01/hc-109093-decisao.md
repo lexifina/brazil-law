@@ -1,0 +1,28 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL, PENAL E PROCESSUAL PENAL. ART. 89 DA LEI 8.666/93: NATUREZA DO DELITO. CONDENAÇÃO NA PRIMEIRA INSTÂNCIA. PENDÊNCIA DE APELAÇÃO NO TRIBUNAL REGIONAL FEDERAL. DESCARACTERIZAÇÃO DO PERICULUM IN MORA. ORDEM DENEGADA NO TRIBUNAL REGIONAL FEDERAL E NO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DO PERICULUM IN MORA. LIMINAR INDEFERIDA E VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Habeas corpus, com pedido liminar, impetrado por Síldilon Maia Thomaz do Nascimento, advogado, em favor de Rui Álvaro de Faria, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no Habeas Corpus nº 159.896.
+    2. Esclarece o Impetrante tramitar na “3ª Turma do Tribunal Regional Federal da 5ª Região uma apelação criminal manejada em ação penal movida pelo Ministério Público contra o Paciente”, porque fora condenado na primeira instância a cinco anos de reclusão, em regime inicial semiaberto, pela prática de crime tipificado no art. 89 da Lei 8.666/93.
+    Afirma ter impetrado habeas corpus no Tribunal Regional Federal da 5ª Região, a despeito da interposição do recurso de apelação, “sob o argumento de que a inexistência de dano ao patrimônio público impede a condenação pela prática de tal crime”, sendo a ordem denegada.
+    Noticia a existência de uma segunda impetração, no Superior Tribunal de Justiça, cujo desfecho não destoou do primeiro habeas corpus:
+    “HABEAS CORPUS . CRIME DE DISPENSA OU INEXIGIBILIDADE DE LICITAÇÃO FORA DAS HIPÓTESES LEGAIS. ART. 89 DA LEI 8.666/93. CRIME DE MERA CONDUTA. COMPROVAÇÃO DE NECESSIDADE DE PREJUÍZO DA ADMINISTRAÇÃO PÚBLICA. DESNECESSIDADE. DELITO QUE SE PERFAZ INDEPENDENTEMENTE DE RESULTADO NATURALÍSTICO. DOLO CONSIGNADO PELAS INSTÂNCIAS ORDINÁRIAS.
+    1. Segundo a jurisprudência mais recente de ambas as Turmas integrantes da Terceira Seção deste Superior Tribunal de Justiça, o crime previsto no art. 89 da Lei 8.666/93 ("dispensar ou inexigir licitação fora das hipóteses previstas em lei, ou deixar de observar as formalidades pertinentes à dispensa ou à inexigibilidade ") é de mera conduta, não se exigindo a constatação de resultado naturalístico (demonstração de efetivo prejuízo para a Administração Pública) para a sua consumação.
+    2. Concretamente, as instâncias ordinárias, soberanas na análise do contexto fático-probatória, consignaram a existência de dolo na dispensa das licitações fora das hipóteses legais.
+    3. Ordem denegada.”
+    3. Contra esse acórdão, o Impetrante alega ser “o patrimônio público no seu aspecto material (e não moral, como quis fazer parecer o magistrado sentenciante de primeiro grau)” o objeto jurídico do crime previsto no art. 89 da Lei 8.666/93, pelo que a sua consumação ocorre com a constatação do efetivo prejuízo, o que não ocorreu no presente caso.
+    Assinala ser “inadmissível que, para o mesmo caso (dispensa ou inexigibilidade de licitação fora das hipóteses legais), possa o cidadão ser responsabilizado penalmente independentemente de causar prejuízo ao patrimônio público, ao passo que somente possa ser responsabilizado civilmente quando vier a causar tal prejuízo”.
+    Destaca a existência de precedentes do Superior Tribunal de Justiça, nos quais se firmou “o entendimento no sentido de que o crime previsto no art. 89 da Lei 8.666/93 só é punível se resultar em prejuízo econômico ao erário”.
+    Argumenta estarem presentes o fumus boni iuris, “que decorre do fato de que o crime de dispensa indevida de licitação” somente é punível quando ocorrer o efetivo prejuízo ao patrimônio público, e o periculum in mora, consistente no “risco do Paciente ver negado o seu apelo perante o Tribunal Regional Federal da 5ª Região e do dano à imagem sofrido pelo mesmo em decorrência da exploração midiática da condenação de primeiro grau”.
+    4. Requer liminar, “determinando-se a suspensão da apelação criminal nº ACR 7226-RN, originária da 9ª Vara Federal da Seção Judiciária do Rio Grande do Norte, até que seja julgado o mérito do presente writ”, e pede a concessão da ordem, “para o fim de que seja cassada a condenação imposta ao Paciente e os acórdãos em habeas corpus ora impugnados”.
+    Examinada a matéria nos seus aspectos essenciais, DECIDO.
+    5. Os elementos fáticos e jurídicos apresentados nesta impetração não autorizam a liminar.
+    A questão destes autos está submetida à apreciação do Tribunal Regional Federal da 5ª Região, que examina a apelação interposta pelo Paciente.
+    Ainda que sejam mantidas a sentença de primeiro grau e, por conseguinte, a condenação, poderá o Paciente interpor outros recursos às instâncias superiores, sem qualquer risco ao direito de ir e vir, considerando que se lhe assegurou o direito de recorrer em liberdade (evento 5, p. 12) e o entendimento sedimentado neste Supremo Tribunal no sentido de não se admitir a execução da pena sem o trânsito em julgado da condenação (Habeas Corpus nº 84.078, relator o Ministro Eros Grau, p. 26.2.2010).
+    Essas observações desfiguram o periculum in mora, indispensável ao deferimento da liminar.
+    Ademais, a convergência de decisões das instâncias precedentes (juízo federal de Caicó, Tribunal Regional Federal da 5ª Região e Superior Tribunal de Justiça), contrárias à tese advogada pelo Impetrante (eventos 5, 7 e 10), não permite o delineamento do fumus boni iuris e também inviabiliza a pretendida liminar.
+    6. Pelo exposto, ausente a plausibilidade jurídica, indefiro a liminar.
+    7. Suficiente a instrução, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
