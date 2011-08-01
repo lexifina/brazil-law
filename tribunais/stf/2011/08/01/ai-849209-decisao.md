@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “A não homologação ocorreu em virtude de o apenado, durante o Procedimento Administrativo Disciplinar, não estar assistido por defensor.
+    (...) Inequivocamente ocorreu clara afronta as disposições normativas tanto do art. 59 da LEP: “praticada a falta disciplinar, deverá ser instaurado o procedimento para sua apuração, conforme regulamento, assegurado o direito de defesa”; como do inc. LV do art. 5º da Constituição Federal (...).
+    O Procedimento Administrativo Disciplinar é peça essencial para apuração das transgressões disciplinares imputadas aos apenados, e como tal é o único instrumento legítimo para impor restrições aos direitos executórios.
+    O disposto no art. 59 da Lei de Execução Penal não possibilita qualquer tipo de imprecisão (...).
+    Conclusivamente, nulo o procedimento administrativo, deslegitimado o reconhecimento da falta disciplinar e, portanto, das sanções da mesma natureza” (fls. 21-23 – grifos nossos).
+    3. No recurso extraordinário, o Agravante sustenta contrariedade aos “princípios do devido processo legal, do contraditório e da ampla defesa, na medida em que o acórdão, em matéria de execução penal, ao interpretar o dispositivo constante do artigo 59 da Lei de Execução Penal, acabou por vulnerar esses vetores” (fl. 41).
+    Assevera que “a exigência de instauração de procedimento administrativo disciplinar (PAD) para verificar a prática de falta grave pleo Recorrido é despicienda, na medida em que o Apenado foi ouvido em audiência de justificação, na presença de Defensor Público, assegurados a ampla defesa e o contraditório” (fl. 44).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a inexistência de ofensa constitucional direta (fls. 17-18).
+    O Agravante alega que estariam presentes os pressupostos de admissibilidade do recurso extraordinário.
+     Analisados os elementos havidos nos autos, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, do art. 59 da Lei de Execução Penal), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI 757.450-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 4.12.2009 – grifos nossos).
+    7. Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 38 da Lei 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
