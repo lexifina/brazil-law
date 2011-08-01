@@ -1,0 +1,20 @@
+Despacho:
+    Vistos.
+    Fábio do Prado Totti interpõe recurso extraordinário contra acórdão do Tribunal Regional Federal da 1ª Região que entendeu que o recorrente não fazia jus à repetição do indébito dos valores pagos a título de imposto de renda incidentes sobre os benefícios da previdência privada.
+    Alega contrariedade ao art. 5°, XXXVI, da CF/88.
+    O recurso especial paralelamente interposto teve seguimento negado com transito em julgado (fl. 424).
+    Decido.
+    A irresignação não merece prosperar.
+    Esta Corte tem entendimento pacífico de que supostas violações ao art. 5°, XXXVI, do Texto Maior, como no caso em apreço, configuram-se como meras ofensas indiretas à Constituição Federal, o que inviabiliza o apelo extremo. Nesse sentido:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGADA OFENSA AOS ARTS. 5º, II, XXXVI, LIV E LV DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II - A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes. III – Agravo regimental improvido.” (AI 775.056/RS, Primeira Turma, Rel. Min. Ricardo Lewandowski, Dje 10/11/10)
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA OFENSA AO ART. 5º, CAPUT, I, XXXV, XXXVI, LIV E LV, CF/1988. COISA JULGADA. LITISPENDÊNCIA. TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA. OFENSA INDIRETA. 1. Necessidade do revolvimento de legislação infraconstitucional para se concluir pela afronta à Constituição Federal. 2. Alegação de ofensa aos princípios da legalidade, da prestação jurisdicional, do direito adquirido, do ato jurídico perfeito, dos limites da coisa julgada, do devido processo legal, do contraditório e da ampla defesa configura, quando muito, ofensa meramente reflexa à Constituição Federal. Precedentes. 3. Agravo regimental a que se nega provimento. ” (AI 692.591/SC, Segunda Turma, Rel. Min. Ellen Gracie, Dje 10/6/11)
+    Especialmente sobre a discussão objeto do presente processo, qual seja a incidência do imposto de renda de pessoa física sobre valores recebidos de previdência privada, há entendimento no sentido de que a análise de eventual afronta ao texto constitucional ensejaria o reexame de norma infraconstitucional, o que não é permitido em sede de recurso extraordinário. Veja-se:
+    “TRIBUTÁRIO. PREVIDÊNCIA PRIVADA. IMPOSTO DE RENDA. LEIS 7.713/88 E 9.250/95: MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - A apreciação do tema constitucional, no caso, depende do prévio exame de normas infraconstitucionais (Leis 7.713/88 e 9.250/95). A afronta à Constituição, se ocorrente, seria indireta. II - Recurso protelatório. Aplicação de multa. III - Agravo regimental improvido. ” (RE 511.883/PR, Primeira Turma, Rel. Min. Ricardo Lewandowski, Dje 24/9/09)
+    Ademais, no que se refere a período posterior à Lei nº 9.250/95, o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 628.002/SP, Relatora a Ministra Ellen Gracie, concluiu pela ausência da repercussão geral da matéria constitucional. A decisão do Plenário está assim ementada:
+    “TRIBUTÁRIO. INCIDÊNCIA DO IMPOSTO DE RENDA SOBRE BENEFÍCIO DE PREVIDÊNCIA COMPLEMENTAR APÓS A LEI 9.250/95. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.” (Dje n.º 224, publicado em 23/11/2010)
+    Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
