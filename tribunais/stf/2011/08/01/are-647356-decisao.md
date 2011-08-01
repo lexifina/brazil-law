@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ALEGADA OFENSA AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado da Primeira Turma Recursal do Rio de Janeiro:
+    “Acordam os Juízes que integram a Turma Recursal dos JECs, por unanimidade, em conhecer do recurso e negar-lhe provimento para manter a sentença por seus próprios fundamentos, na forma prevista no art. 46 da Lei de Regência, não conhecendo de qualquer violação de princípio jurídico-constitucionais de garantia e destacando que as questões aduzidas no recurso foram debatidas oralmente pelos integrantes do colegiado, com a percuciência necessária, não sendo transcritas as conclusões em homenagem aos princípios informativos previstos no art. 2º da Lei n. 9.099/95, condenando-se o recorrente nas custas e honorários de 10% do valor da condenação, observado o art. 12 da Lei n. 1.060/50, valendo esta súmula como acórdão” (fl. 34).
+    O julgado mantido pelo acórdão recorrido teve a seguinte fundamentação:
+    “o cheque é uma ordem de pagamento à vista e, compulsando os autos e pelas próprias alegações da parte autora, verifico que o cheque foi emitido pela parte ré, sendo esta a responsável pelo seu pagamento.
+    Dessa forma, é procedente o pedido de danos materiais” (fl. 18).
+    3. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República.
+    Argumenta que “o acórdão da Turma Recursal não apresentou qualquer fundamentação, limitou-se a ratificar a sentença proferida pelo Juizado Especial Cível” (fl. 39).
+    4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que não teria havido contrariedade direta à Constituição da República (fls. 52-53).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Lei n. 9.099/1995), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. NOVAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, INC. LIV E LV, E 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 783.547-AgR, de minha relatoria, Primeira Turma, DJe 23.9.2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado do Rio de Janeiro demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No caso, a jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente, o que não configura o alegado cerceamento de defesa. Logo, não cabe falar em afronta à Carta Magna de 1988. 3. Agravo regimental desprovido” (AI 785.219-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 7.10.2010).
+    9. Nada há a prover quanto às alegações da Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
