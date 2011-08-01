@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTROVÉRSIA SOBRE O TIPO DE ATIVIDADE. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. OFENSA CONSTITUCIONAL INDIRETA.  INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “TRIBUTÁRIO. ATIVIDADE DE TINGIMENTO DE FIOS. SERVIÇO PRESTADO SOB ENCOMENDA. INCIDÊNCIA DO ISS. POSICIONAMENTO DO STJ.
+    1. "A 'industrialização por encomenda', elencada na Lista de Serviços da Lei Complementar 116/2003, caracteriza prestação de serviço (obrigação de fazer), fato jurídico tributável pelo ISSQN, não se enquadrando, portanto, nas hipóteses de incidência do ICMS (circulação de mercadoria - obrigação de dar - e prestações de serviço de comunicação e de transporte transmunicipal)" (REsp nº 888.852/ES).
+    2. '(a) sobre operações 'puras' de circulação de mercadoria e sobre os serviços previstos no inciso II, do art. 155 da CF (transporte interestadual e internacional e de comunicações) incide ICMS; (b) sobre as operações 'puras' de prestação de serviços previstos na lista de que trata a LC 116/03 incide ISSQN; (c) e sobre operações mistas, incidirá o ISSQN sempre que o serviço agregado estiver compreendido na lista de que trata a LC 116/03 e incidirá ICMS sempre que o serviço agregado não estiver previsto na referida lista' (REsp nº 1.092.206/SP)” (fl. 267).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição da República, se tivesse ocorrido, seria indireta (fls. 409-410).
+    4. A Agravante alega que teria sido contrariado o art. 153, inc. IV, 155, inc. II, e 156, inc. III, da Constituição da República.
+    Sustenta que “a industrialização sob encomenda não pode ser enquadrada como prestação de serviços” (fl. 369).
+    Argumenta que “na chamada industrialização por encomenda não existe qualquer esforço pessoal do devedor e as prestações são marcadas por produções em série” (fl. 371).
+    Afirma que “todas as [suas] atividades (...) são prestadas na cadeia de industrialização/comercialização e por isso não pode sofrer tributação do ISS” (fl. 375).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de origem fundamentou-se no exame de provas e na interpretação da Lista de serviços da Lei Complementar n. 116/2003 e concluiu que a atividade exercida pela Recorrida caracterizaria prestação de serviços, razão pela qual seria devido o Imposto sobre Serviços – ISS.
+    Para se concluir de modo diverso, seriam imprescindíveis o reexame do conjunto fático-probatório constante dos autos e a análise daquela legislação infraconstitucional, o que não se admite em recurso extraordinário. Incide na espécie a Súmula n. 279 deste Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ENQUADRAMENTO DA ATIVIDADE PRESTADA PELO CONTRIBUINTE PARA FINS DE INCIDÊNCIA DO ICMS OU ISS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. II – A discussão acerca da definição da atividade prestada pelo contribuinte para fins de incidência do ICMS ou do ISS demanda o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise da legislação infraconstitucional aplicável à espécie, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. III – Agravo regimental improvido” (RE 248.301-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.5.2011) .
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. NATUREZA JURÍDICA DO SERVIÇO PRESTADO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 787.973-ED, da minha relatoria, Primeira Turma, DJe 24.9.2010).
+    “TRIBUTÁRIO. ISS. DECRETO-LEI 406/68.MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. 1. Verificar se a prestação de serviços de sociedade profissional se enquadra no disposto no art. 9º, § 3º, do Decreto-lei 406/68, demandaria o prévio exame de fatos e provas (Súmula STF 279) e de legislação infraconstitucional. Precedentes. 2. Agravo regimental improvido” (AI 730.786-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 14.5.2010).
+    7. Não há, pois, o que prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
