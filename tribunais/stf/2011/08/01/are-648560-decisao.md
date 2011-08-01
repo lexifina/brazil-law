@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO – MILITAR – RESTABELECIMENTO DO ADICIONAL DE INATIVIDADE – MEDIDA PROVISÓRIA N. 2.131/2000 – DECESSO REMUNERATÓRIO NÃO VERIFICADO – INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. HONORÁRIOS ADVOCATÍCIOS – SENTENÇA MANTIDA” (fl. 158).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 37, XV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão atacado não divergiu do entendimento firmado por esta Corte no sentido de que os servidores públicos não têm direito adquirido à manutenção de determinada fórmula de composição da remuneração, uma vez que não há direito adquirido a regime jurídico. Contudo, a modificação do regime remuneratório do servidor não pode resultar em decesso nos seus vencimentos. Nesse sentido, trago à colação recentes julgados proferidos por este Tribunal:
+    “Agravo regimental em agravo de instrumento. 2. Servidor público militar. Adicional de inatividade. Extinção pela Medida Provisória 2.131/2000. Inexistência de direito adquirido a regime jurídico. Precedentes. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento” (AI 638.807-AgR/RJ, Rel. Min. Gilmar Mendes).
+    “EMBARGOS DECLARATÓRIOS CONVERTIDOS EM AGRAVO REGIMENTAL. ADICIONAL DE INATIVIDADE. MILITARES. MP 2.131/2000 E REEDIÇÕES. ALEGADA OFENSA A DIREITO ADQUIRIDO E À REGRA DE IRREDUTIBILIDADE DE VENCIMENTOS. ÓBICE DO ENUNCIADO 287 DA SÚMULA/STF. O agravante não impugnou as razões expendidas na decisão agravada, razão por que incide o óbice do enunciado 287 da Súmula/STF. Ainda que assim não fosse, não há direito adquirido a regime jurídico. Portanto, o legislador é livre para estabelecer nova fórmula de composição remuneratória, desde que mantenha o valor nominal das parcelas eventualmente suprimidas. Agravo regimental a que se nega provimento” (AI 665.622-ED/RS, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
