@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. INEXISTÊNCIA DE DIREITO AO CRÉDITO PRESUMIDO NAS AQUISIÇÕES DE INSUMOS OU MATÉRIAS-PRIMAS NÃO TRIBUTADAS OU SUJEITAS À ALÍQUOTA ZERO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO PROVIDO.
+Relatório
+    1. Em 13 de fevereiro de 2003, a Ministra Ellen Gracie, então Relatora, negou seguimento ao recurso extraordinário interposto pela União contra julgado do Tribunal Regional Federal da 4ª Região, o qual reconheceu o direito de utilização dos créditos de Imposto sobre Produto Industrializado – IPI relativos à insumos adquiridos sob o regime de não-tributação ou sujeitos à alíquota zero. A decisão agravada teve a seguinte fundamentação:
+    “A controvérsia restou resolvida pelo Plenário deste Supremo Tribunal por ocasião do julgamento do RE 353.667, concluído na sessão de 12/12/2002, por maioria, rel. Min. Nelson Jobim, quando se decidiu que a orientação firmada no RE 212.484 - no sentido de que a aquisição de matéria-prima isenta de IPI gera direito ao creditamento do valor do imposto que teria sido pago caso não houvesse a isenção - aplica-se às hipóteses de insumos não tributados ou tributados à alíquota zero.
+    Estando o acórdão recorrido em consonância com o decidido pelo Plenário desta Corte, nego seguimento ao recurso (art. 577, caput, do CPC)” (fl. 116).
+    2. Intimada dessa decisão em 12.3.2003 (fl. 119), interpõe a União, ora Agravante, em 3.4.2003, tempestivamente, agravo regimental (fls. 121-127).
+    3. Alega que, “na hipótese dos insumos adquiridos à alíquota zero, não haveria (...) nada a se creditar (o crédito de zero é zero)” (fl. 126).
+    Sustenta que “o Plenário desse Excelso Pretório não deliberou acerca da alíquota a ser aplicada, que deverá ser objeto de determinação pelo Poder Judiciário – ainda que ao arrepio da regra do art. 153, § 1° e dos princípios da seletividade e da separação de poderes, como sempre restou sustentado pela Fazenda Nacional -, em face da ausência de percentual legal aplicável” (fl. 126).
+    4. Houve mudança na jurisprudência do Supremo Tribunal Federal quanto ao tema aqui tratado, reconsidero a decisão proferida pela Ministra Ellen Gracie (fl. 116), ficando prejudicadas as razões do agravo regimental (121-127).
+    Passo à apreciação do recurso extraordinário.
+    5. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “Tributário. IPI. Isenção ou alíquota zero. Creditamento. Possibilidade. Princípio constitucional da não-cumulatividade.
+    1. De acordo com o princípio da não-cumulatividade, é vedada a sucessiva incidência do imposto sobre o valor total do objeto tributado e que venha a sobrecarregar o preço final do produto destinado ao consumo. Desta forma, impede-se a tributação 'em cascata'.
+    2. A Suprema Corte entendeu que o princípio da não-cumulatividade utilizou a expressão 'montante cobrado' para referir não apenas o imposto efetivamente devido, mas também o que seria devido na falta de isenção ou não-incidência.
+    3. Não sendo reconhecido o crédito quando da aquisição de matérias-primas livres do tributo, insubsistente a isenção, pois o pagamento, na prática, seria apenas postergado, suportando o beneficiador do produto a sua própria carga e aquela decorrente da benesse concedida.
+    4. Apelação e remessa oficial improvidas” (fl. 71).
+    6. A Recorrente alega que teria sido contrariado o art. 153, § 3º, inc. II, da Constituição da República.
+    Requer “o provimento do presente recurso extraordinário para, restabelecendo o sentido do art. 153, § 3°, inciso II, declarar ser inviável o reconhecimento de créditos na aquisição de insumos não-tributados ou sujeitos à alíquota zero” (fl. 89).
+    Analisados os elementos constantes nos autos, DECIDO.
+    7. Razão jurídica assiste à Recorrente.
+    8. A União insurge-se quanto ao creditamento do IPI relativo às aquisições de matérias-primas sujeitas à alíquota zero ou não tributadas.
+    9. No julgamento dos Recursos Extraordinários n. 353.657, Relator o Ministro Marco Aurélio e n. 370.682, Relator o Ministro Ilmar Galvão, em 25.6.2007, este Supremo Tribunal Federal assentou a impossibilidade de se conferir crédito tributário aos contribuintes adquirentes de insumos não-tributados ou sujeitos à alíquota zero, em razão da ausência de recolhimento do imposto, donde a incapacidade de gerar crédito.
+    Confira-se:
+    “IPI - INSUMO - ALÍQUOTA ZERO - AUSÊNCIA DE DIREITO AO CREDITAMENTO. Conforme disposto no inciso II do § 3º do artigo 153 da Constituição Federal, observa-se o princípio da não-cumulatividade compensando-se o que for devido em cada operação com o montante cobrado nas anteriores, ante o que não se pode cogitar de direito a crédito quando o insumo entra na indústria considerada a alíquota zero. IPI - INSUMO - ALÍQUOTA ZERO - CREDITAMENTO - INEXISTÊNCIA DO DIREITO - EFICÁCIA. Descabe, em face do texto constitucional regedor do Imposto sobre Produtos Industrializados e do sistema jurisdicional brasileiro, a modulação de efeitos do pronunciamento do Supremo, com isso sendo emprestada à Carta da República a maior eficácia possível, consagrando-se o princípio da segurança jurídica” (RE 353.657, Rel. Min. Marco Aurélio, Plenário, DJe 7.3.2008).
+    “EMENTA: Recurso extraordinário. Tributário. 2. IPI. Crédito Presumido. Insumos sujeitos à alíquota zero ou não tributados. Inexistência. 3. Os princípios da não-cumulatividade e da seletividade não ensejam direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados ou sujeitos à alíquota zero. 4. Recurso extraordinário provido” (RE 379.682-AgR, Rel. Min. Ilmar Galvão, Plenário, DJe 19.12.2007).
+    10. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para reformar o acórdão recorrido e excluir o crédito de Imposto sobre Produto Industrializado – IPI nas operações referentes às aquisições de insumos não tributadas ou sujeitas à alíquota zero.
+    Considerando-se a Súmula n. 512 do Supremo Tribunal Federal, deixo de condenar a empresa ao pagamento de honorários advocatícios de sucumbência.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
