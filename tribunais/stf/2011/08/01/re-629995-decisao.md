@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO ESPECIAL PARCIALMENTE PROVIDO. PERDA DO OBJETO. RECURSO EXTRAORDINÁRIO PREJUDICADO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. AÇÃO DE COBRANÇA (LEI-RS N. 10395/95).
+    1. Postulando a servidora prestação de trato sucessivo e de natureza alimentar, não se caracteriza a prescrição do fundo de direito, aplicando-se a prescrição quinquenal na forma da Súmula n. 85, do Egrégio STJ. Ressalvado o entendimento pessoal do Relator.
+    2. Diante da jurisprudência pacificada dos Tribunais Superiores e desta Corte, é de ser reconhecida a irregularidade da supressão dos reajustes concedidos pela Lei-RS n. 10.395/95, ressalvado o entendimento pessoal do Relator, com consequente condenação do Estado ao pagamento das diferenças salariais daí decorrentes, acrescidos de correção monetária pelo IGP-M, e de juros de mora de 6% ao ano (Lei n. 9494/97, art. 1º-F), respeitada a prescrição quinquenal, arcando o ente público com o pagamento das custas processuais e de honorários advocatícios.
+    Apelação Provida”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXV, e 100 da Constituição da República.
+    Argumenta que “quando provocado, é imprescindível que o Tribunal manifesta-se expressamente sobre a norma invocada, sob pena de afronta ao art. 5º, XXXV”.
+    Sustenta que “ao determinar a imediata implantação das parcelas vencidas (após o ajuizamento da demanda), bem como das vincendas a partir da decisão proferida em apelação, antes do trânsito em julgado, afrontou o disposto no art. 100, § 1º-A, da Constituição Federal”.
+    Aponta que “a norma [art. 100, § 1º – A, da Constituição da República], na verdade, exige o trânsito em julgado da decisão para a execução dos débitos da fazenda pública, independentemente de se tratar de vencidos ou vincendos” (grifos nosso).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. O recurso extraordinário está prejudicado.
+    4. O Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial n. 908.529, nos seguintes termos:
+    “De início, o inconformismo não prospera com relação à apontada ausência de prestação jurisdicional. É que, apesar de rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente. É de salientar que, tendo encontrado motivação suficiente para fundar a decisão, não fica o órgão julgador obrigado a responder, um a um, os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado.
+     No mérito, melhor sorte assiste ao Estado recorrente. Isto, porque, em se tratando de condenação contra a Fazenda Pública para pagar quantia certa (no caso reajuste a servidor público), a execução deve obedecer o disposto nos arts. 100 da Constituição Federal e 730 do CPC. Motivo pelo qual, imprescindível a ocorrência do trânsito em julgado do título executivo, para que se proceda ao pagamento.
+    (...)
+    Ante o exposto, com fulcro no art. 557, § 1º-A, do CPC, dou parcial provimento ao recurso especial para, reformando o acórdão recorrido, determinar que a execução seja realizada na forma dos arts. 100 da Constituição Federal e 730 do CPC ” (grifos nosso).
+    Consta na página do sitio do Superior Tribunal de Justiça na internet que essa decisão transitou em julgado em 9.9.2010.
+    5. O Supremo Tribunal Federal assentou que, quando atendida a pretensão do Recorrente pela decisão do Superior Tribunal de Justiça, fica prejudicado o recurso extraordinário por perda superveniente do objeto. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO PREJUDICADO PELO JULGAMENTO DO RECURSO ESPECIAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 499.375-AgR, de minha relatoria, Primeira Turma, DJe 22.6.2007, grifos nosso).
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENÇÃO DE REFORMA DO JULGADO: IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO PREJUDICADO. SUBSTITUIÇÃO DO ACÓRDÃO DO TRF PELO DO STJ. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. Inexistência de omissão, contradição, obscuridade ou erro material a sanar. A parte embargante repisa argumentos já devidamente apreciados por esta Turma. 3. O acórdão do Superior Tribunal de Justiça substituiu o acórdão proferido pelo Tribunal Regional Federal, nos termos do art. 512 do CPC. 4. Provimento dos embargos de divergência em recurso especial que não terá o condão de considerar íntegros os fundamentos trazidos pelo acórdão do TRF que não mais existe. 5. Não-interposição de novo recurso extraordinário do acórdão proferido nos embargos de divergência em recurso especial, apesar de vencida a ora embargante. 6. Embargos de declaração rejeitados” (RE 539.785-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 4.5.2011, grifos nosso).
+    6. Pelo exposto, julgo prejudicado o presente recurso extraordinário, por perda do objeto (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
