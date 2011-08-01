@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. HORAS EXTRAS E ADICIONAL NOTURNO. REFLEXOS NOS DSRs.
+    Inviável o conhecimento da revista por violação literal do artigo 7º, inciso XXVI, da CF, pois a Corte Regional não negou validade à negociação coletiva celebrada entre as partes, apenas ressaltou ser impossível reconhecer, mediante negociação coletiva, como quitados os reflexos das horas extras nos descansos semanais remunerados, que não foram pagos pela reclamada.
+    Agravo de instrumento desprovido
+    DIFERENÇAS DE REMUNERAÇÃO. JORNADA NOTURNA E ABONO.
+    A Corte de Regional se limitou a registrar que as verbas referentes à 'diferença remuneração da jornada noturna' e 'abono' são de natureza jurídica salarial, nos termos do artigo 458 da CLT, motivo pelo qual as partes, ainda que mediante negociação coletiva, não poderiam pactuar, alterando a natureza das referidas verbas pagas no curso do contrato de trabalho. Dessarte, impossível reconhecer-se literalmente violado o artigo 7º, inciso XI, da CF, que dispõe sobre a desvinculação da participação nos lucros ou resultados à remuneração do trabalhador, pois este tema nem sequer foi objeto de recurso. Incidência da Súmula nº 297 do TST
+    Agravo de instrumento desprovido” (fl. 222)
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se violação ao art. 7º, XXVI, da mesma Carta.
+    O agravo não merece acolhida. Isso porque a apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais, bem como, a interpretação de cláusula integrante de acordo coletivo de trabalho, o que atrai a incidência da Súmula 454 do STF. Nesse sentido, menciono recente julgado da Segunda Turma desta Corte, qual seja o AI 727.809-AgR/RN, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACORDO COLETIVO DE TRABALHO. CLÁUSULAS. VALIDADE. MATÉRIA INFRACONSTITUCIONAL. A questão relativa à validade de cláusulas inseridas em acordo coletivo de trabalho implica o exame da matéria infraconstitucional que disciplina a espécie, circunstância que inviabiliza o seguimento do extraordinário. Agravo regimental a que se nega provimento.” (RE 588.901-AgR/SC, Rel. Min. Eros grau, Segunda Turma).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA TRABALHISTA. 1. VALIDADE DE CLÁUSULA DE ACORDO COLETIVO DE TRABALHO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. 2. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pelo Tribunal Superior do Trabalho demandaria o reexame da legislação ordinária aplicada à espécie, bem como a análise de cláusulas de acordo coletivo de trabalho. Providências vedadas na instância recursal extraordinária. 2. Incidência das Súmulas 282 e 356/STF. Agravo regimental desprovido” (AI 634.660-AgR/MA, Rel. Min. Ayres Britto, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
