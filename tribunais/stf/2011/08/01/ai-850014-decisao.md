@@ -1,0 +1,15 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “EMBARGOS DO DEVEDOR – EXECUÇÃO DE CÉDULA RURAL – DIREITO À SECURITIZAÇÃO NÃO DEMONSTRADO – CAPITALIZAÇÃO DE JUROS PERMITIDA – MULTA DE MORA – ILEGALIDADE DA TR CUMULADA COM OUTRA TAXA DE REMUNERAÇÃO. (...)” (fl. 432).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, LIV e LV, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ressalta-se, ademais, que o Pleno desta Corte, quando do julgamento do ARE 639.228-RG/RJ, Rel. Min. Cezar Peluso, decidiu pela ausência de repercussão geral do tema referente à violação aos princípios da ampla defesa e do contraditório nos casos de indeferimento de produção de provas, por se tratar de matéria restrita ao âmbito infraconstitucional. Por oportuno, trago à colação trecho da manifestação proferida pelo Ministro Presidente no indigitado julgado:
+    “(...) A questão suscitada no presente recurso extraordinário versa sobre a suposta violação do princípio da ampla defesa e do contraditório, previstos no art. 5º, LV, da Constituição Federal, nos casos de indeferimentos, pelo juiz, dos pedidos de produção de provas requeridos no âmbito do processo judicial.
+    Verifica-se, no entanto, que o acórdão impugnado decidiu a causa com base em interpretação e aplicação de legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. (...)
+    Ora, é pacífica a jurisprudência desta Corte no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. (...)
+    Isto posto, não havendo questão constitucional por examinar, não se pode reconhecer a existência da repercussão geral (art. 324, §2º, do RISTF)”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
