@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Mário Romero Pellegrini de Souza e Ivan Pellegrini de Souza interpõem agravo de instrumento contra a decisão (fls. 95/96) que não admitiu recurso extraordinário, assentado em contrariedade aos arts. 5º, inciso LV e 93, inciso IX, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão proferido pela Oitava Turma do Tribunal Regional Federal da 4ª Região no julgamento da Apelação Criminal nº 1998.04.01.077652 (fls. 50 a 63).
+    Os embargos de declaração opostos (fls. 67/68) foram rejeitados (fls. 71 a 77).
+    Examinados os autos, decido.
+    Inicialmente, verifica-se que a publicação da decisão nos embargos declaratórios, conforme expresso na certidão de folha 78, ocorreu no DJ de 13/11/02, não sendo exigível, conforme decidido na Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    No caso, a irresignação não merece prosperar.
+    Sobre eventual transgressão ao art. 5º, inciso LV, da Constituição Federal, forçoso concluir que o Tribunal a quo ao decidir a questão se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Anote-se que a jurisprudência desta Suprema Corte é assente no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal.
+    Nesse sentido, anote-se:
+    “Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento” (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08);
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL: OFENSA INDIRETA À CONSTITUIÇÃO. PRECEDENTES. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Apesar dos argumentos do Agravante, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, entre outros, configuram ofensa reflexa à Constituição da República. 2. Agravo Regimental ao qual se nega provimento” (AI nº 649.191/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/6/07).
+    E, ainda: AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Ressalte-se, outrossim, que não há falar em violação do art. 93, inciso IX, da Constituição da República, pois a jurisdição foi prestada, no caso em espécie, mediante decisão suficientemente motivada, não obstante contrária à pretensão dos ora agravantes, tendo o Juízo de origem e o Tribunal a quo, como bem se observa da sentença e dos acórdãos proferidos, respectivamente, justificado suas razões de decidir.
+    Anote-se que o art. 93, inciso IX, da Constituição, não exige que o órgão judicante se manifeste sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+    Diante desse quadro, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
