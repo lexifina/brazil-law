@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 257):
+    “EMBARGOS INFRINGENTES. PARCELA REMUNERATÓRIA DE JUIZ CLASSISTA APOSENTADO.
+    Os juízes temporários da União somente fazem jus a benefícios e vantagens que lhes tenham sido expressamente outorgados em legislação específica.
+    De se considerar que a legislação que se pretende estender ao caso em concreto, não contemplou a magistratura classista trabalhista pura e simplesmente.”
+    2. Pois bem, os recorrentes apontam violação ao inciso XXXVI e caput do art. 5°, ao § 1° do art. 39, ao inciso XV do art. 37 e ao inciso III do art. 95 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça, no sentido de que as vantagens e benefícios dispensados aos juízes togados não são extensíveis aos juízes classistas, que possuem regramento próprio. Reproduzo, por ilustrativa, a seguinte passagem da ementa do MS 21.466, da relatoria do ministro Celso de Mello:
+    “[...] Os representantes classistas da Justiça do Trabalho, ainda que ostentem títulos privativos da magistratura e exerçam função jurisdicional nos órgãos cuja composição integram, não se equiparam e nem se submetem, só por isso, ao mesmo regime jurídico-constitucional e legal aplicável aos magistrados togados. A especificidade da condição jurídico-funcional dos juízes classistas autoriza o legislador a reservar-lhes tratamento normativo diferenciado daquele conferido aos magistrados togados. O juiz classista, em conseqüência, apenas faz jus aos benefícios e vantagens que lhe tenham sido expressamente outorgados em legislação específica. Assiste-lhe o direito de ver computado, para efeito de gratificação adicional por tempo de serviço, tão-somente o período em que desempenhou a representação classista nos órgãos da Justiça do Trabalho, excluído, portanto, desse computo, o lapso temporal correspondente a atividade advocatícia. A interpretação dada pelo Supremo Tribunal Federal, no julgamento da Rp. nº 1.490-DF, ao art. 65, VIII, da LOMAN e ao art. 1. do Decreto-lei nº 2.019/79 concerne, estritamente, aos magistrados togados.”
+    5. No mesmo sentido, vejam-se os REs 599.890-AgR, da relatoria do ministro Ricardo Lewandowski; 630.768-AgR, da relatoria da ministra Cármen Lúcia; e 594.589-AgR, da relatoria do ministro Eros Grau; o MS 22.498, da relatoria do ministro Moreira Alves; bem como a ADI 1.878, da relatoria do ministro Ilmar Galvão.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
