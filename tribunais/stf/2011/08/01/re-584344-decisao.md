@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. INSTITUIÇÕES FINANCEIRAS. JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO MENSAL DOS JUROS. 1. JUROS REMUNERATÓRIOS: CONCLUSÃO DE AUSÊNCIA DE REPERCUSSÃO GERAL NO JULGAMENTO DO AGRAVO DE INSTRUMENTO N. 804.209, POR ESTE SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO NESTE PONTO. 2. CAPITALIZAÇÃO MENSAL DOS JUROS: QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “JUROS REMUNERATÓRIOS. Sendo inadmissível a excessiva onerosidade do contrato, a cobrança de juros abusivos é nula, especialmente em período de estabilidade econômica. Juros reduzidos para 12% ao ano. Aplicação do art. 51, IV, do CDC. CAPITALIZAÇÃO DE JUROS. O anatocismo é vedado em contratos da espécie, por ausência de permissão legal, ainda que expressamente convencionado. (...) Tendo sido suscitada a questão da limitação constitucional dos juros, é de ser referido que o Supremo Tribunal Federal, julgando a ADIN-4, decidiu que o art. 192, p. 3º, não é auto-aplicável, matéria sobre a qual já não paira mais qualquer controvérsia, ante a Edição da Emenda Constitucional nº 40 de 29.05.03 que revogou o aludido parágrafo” (fls. 101 e 104).
+    2. O Recorrente alega que o Tribunal a quo teria afrontado os arts. 62 e 192, § 3º, da Constituição da República, ao limitar os juros remuneratórios em 12% ao ano e ao declarar a inconstitucionalidade da Medida Provisória n. 2.170-36/2001.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Quanto aos juros remuneratórios, razão jurídica não assiste ao Recorrente.
+    No julgamento do Agravo de Instrumento n. 804.209, Relator o Ministro Gilmar Mendes, este Supremo Tribunal assentou a inexistência de repercussão geral da questão discutida nestes autos:
+    “Juros. Limitação em 12% ao ano. Contratos celebrados após o advento da Emenda Constitucional n. 40/2003. Legislação Infraconstitucional. Inexistência de repercussão geral” (DJ 15.10.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Assim, nego seguimento ao presente recurso extraordinário na parte que se refere ao juros remuneratórios.
+    4. Quanto ao ponto no qual se discute a constitucionalidade da capitalização mensal de juros (art. 5º da Medida Provisória n. 2.170/2001), este Supremo Tribunal Federal reconheceu a existência de repercussão geral da questão constitucional suscitada no julgamento eletrônico do Recurso Extraordinário n. 568.396, Relator o Ministro Marco Aurélio. Esse tema também é objeto da Ação Direta de Inconstitucionalidade n. 2.316 e do Recurso Extraordinário n. 592.377.
+    Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário quanto aos juros remuneratórios, por ausência de repercussão geral do tema (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal) e determino, após o trânsito em julgado dessa decisão, a devolução destes autos ao Tribunal a quo para que, quanto à capitalização mensal dos juros, seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
