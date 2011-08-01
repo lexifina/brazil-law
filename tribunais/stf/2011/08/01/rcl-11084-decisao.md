@@ -1,0 +1,82 @@
+DECISÃO
+RECLAMAÇÃO. CONSTITUCIONAL. PRISÃO DE ADVOGADA. PRERROGATIVA PROFISSIONAL DE RECOLHIMENTO EM SALA DE ESTADO MAIOR. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 1.127/DF. RECLAMAÇÃO QUE GUARDA IDENTIDADE ABSOLUTA COM A RECLAMAÇÃO N. 11.016. MESMAS PARTES, PEDIDO E CAUSA DE PEDIR. LITISPENDÊNCIA. RECLAMAÇÃO EXTINTA.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada por Maricilda de Oliveira Goes, em 21.12.2010, contra ato do juízo da 2ª Vara Criminal da Comarca de Limeira/SP, que teria descumprido a decisão proferida pelo Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade n. 1.127/DF.
+    2. Em 28.12.2010, o Presidente do Supremo Tribunal Federal, Ministro Cezar Peluso, requisitou informações à autoridade reclamada para, posteriormente, apreciar o requerimento de medida liminar.
+    3. As informações foram prestadas e os autos distribuídos em 1º.2.2011.
+    4. Reiterado o requerimento de medida liminar, a Ministra Ellen Gracie, então Relatora, submeteu à Presidência deste Supremo Tribunal a proposta de que este feito viesse-me em redistribuição, por prevenção, em face da Reclamação n. 11.016, ajuizada também pela ora Reclamante contra a mesma autoridade ora Reclamada:
+    “1. Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Maricilda de Oliveira Goes contra ato proferido pelo Juiz de Direito da 2ª Vara Criminal da Comarca de Limeira – SP, que supostamente teria descumprido decisão desta Corte exarada nos autos da ADI 1.127/DF.
+    2. Em 2.11.2010, a reclamante, inscrita na OAB/SP sob o número 112.178, foi presa em flagrante pela suposta prática dos crimes previstos nos arts. 33 e 35 da Lei 11.343/06, estando recolhida em uma das celas da Penitenciária Estadual Feminina Sant'Ana – SP. O Juiz de Direito da 2ª Vara Criminal da Comarca de Limeira – SP, ao solicitar informações à autoridade policial quanto à possibilidade de remoção da reclamante para Sala de Estado-Maior, indeferiu o pedido de prisão domiciliar.
+    Argumenta, em síntese, que o magistrado de primeira instância descumpriu decisão desta Suprema Corte proferida nos autos da ADIN 1.127/DF, que reconheceu a constitucionalidade do art. 7º, V, da Lei 8.906/94. Sustenta que o recolhimento da reclamante deve ser feita em Sala de Estado-Maior ou, na sua falta, em prisão domiciliar.
+    Requer a concessão de provimento liminar para que Maricilda de Oliveira Goes seja removida imediatamente para dependência que se qualifique como Sala de Estado-Maior ou, na sua ausência, para prisão domiciliar. No mérito, solicita que a presente reclamação seja julgada procedente.
+    3. Em 21.12.2010, a presente reclamação foi autuada e imediatamente encaminhada à Presidência desta Suprema Corte, que, em regime de plantão, solicitou informações à autoridade reclamada. Posteriormente, no dia 4.2.2011, os autos foram distribuídos, de forma livre, à minha relatoria em razão do disposto no art. 70, § 1º, do RISTF, que determina a livre distribuição da 'decisão que tenha como causa de pedir o descumprimento de súmula vinculante ou de decisão dotada de efeito erga omnes'.
+    Ora, não fazia sentido atribuir ao relator de uma ação direta já definitivamente julgada ou ao Ministro que tenha proposto determinada súmula vinculante já editada – procedimentos desvinculados de quaisquer interesses subjetivos – a relatoria de todas as reclamações posteriores que tenham como fundamento o desrespeito a esses mesmos pronunciamentos.
+    4. Todavia, verifico que o objeto do presente feito já está sendo submetido à apreciação desta Suprema Corte nos autos da Reclamação 11.016, da relatoria da eminente Ministra Cármen Lúcia, que, em 1º.2.2011 (antes da distribuição da presente Reclamação 11.084), deferiu pedido de liminar, determinando que a reclamada, Maricilda de Oliveira Goes, fosse transferida para Sala de Estado-Maior ou, na inexistência desta, para prisão domiciliar, cujo local e condições deveriam ser especificadas pelo juízo reclamado – Juiz de Direito da 2ª Vara Criminal da Comarca de Limeira-SP.
+    5. Examinando ambas as reclamações (11.016 e 11.084), constato que os feitos possuem a mesma origem, as mesmas partes, o mesmo objeto e a mesma causa de pedir.
+    Dessa maneira, convém ponderar que o reconhecimento da prevenção de competência da Ministra Cármen Lúcia, que deferiu o pedido de liminar na Rcl 11.016 anteriormente à distribuição desta Rcl 11.084, justifica-se para evitar que sejam proferidas decisões contraditórias no âmbito desta Corte acerca do mesmo ato reclamado”.
+    5. Em 30.6.2011, o Presidente do Supremo Tribunal Federal, Ministro Cezar Peluso, determinou que os presentes autos viessem-me em redistribuição:
+    “2. É caso de redistribuição.
+    Da análise dos autos e do sítio eletrônico do STF, verifico que a presente Rcl nº 11.084 e a Rcl nº 11.016 possuem identidade de origem, partes, causa de pedir e pedido.
+    A Rcl nº 11.016 foi distribuída em 9.12.2010 à Min. CÁRMEN LÚCIA. Já a presente reclamação foi distribuída à Min. ELLEN GRACIE em 4.2.2011.
+    Tendo em vista que, aparentemente, a inicial da Rcl nº 11.084 reproduz, na íntegra, o conteúdo da Rcl nº 11.016, encaminhe-se os autos, por litispendência (CPC, art. 301, § 3º), à eminente Ministra CÁRMEN LÚCIA”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    6. Como afirmado pelos Ministros Cezar Peluso e Ellen Gracie, a presente e a Reclamação n. 11.016, ainda em trâmite, guardam identidade de origem, partes, causa de pedir e pedido.
+    Em 1º.2.2011, deferi medida liminar na Reclamação n. 11.016, ajuizada pela ora Reclamante contra a mesma autoridade ora Reclamada:
+    “1. Reclamação, com pedido de medida liminar, ajuizada por Maricilda de Oliveira Goes, em 9.12.2010, contra ato do juízo da 2ª Vara Criminal da Comarca de Limeira/SP, que teria descumprido a decisão proferida pelo Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade n. 1.127/DF.
+    (...)
+    2. Em 2.11.2010, Maricilda de Oliveira Goes, Drielle Cardozo dos Santos e Fellipe Roberto Cardozo dos Santos foram presos em flagrante pela suposta prática da infração penal descrita no art. 33, 34 e 35 da Lei 11.343/2006.
+    Em 3.11.2010, Maricilda de Oliveira Goes, advogada inscrita na Ordem dos Advogados do Brasil, Seccional de São Paulo, sob o n. 112.178, requereu ao juízo da 2ª Vara Criminal da Comarca de Limeira/SP sua 'imediata remoção (...) para dependência que se qualifique como 'Sala de Estado Maior', com instalações e comodidades condignas, assim reconhecidas pela OAB e, na sua falta, prisão domiciliar', pois estaria custodiada em cela da Delegacia de Polícia de Limeira.
+    Em 4.11.2010, o juiz da 2ª Vara Criminal da Comarca de Limeira/SP decidiu:
+    'No tocante ao pedido de remoção da autuada Maricilda para 'Sala de Estado Maior' ou dependência equivalente a tal, oficie-se à Autoridade Policial para as providências legais, ficando indeferido o pedido de prisão domiciliar, ante a gravidade do fato, em tese praticado.
+    Em caso de ausência da cela especial a averiguada deverá ser removida para Presídio com acomodações adequadas'.
+    É contra essa decisão que Maricilda de Oliveira Goes ajuíza a presente Reclamação.
+    3. A Reclamante sustenta, em síntese, que a autoridade judiciária Reclamada teria descumprido a decisão proferida pelo Supremo Tribunal Federal no julgamento da Ação Direta de Inconstitucionalidade n. 1.127/DF.
+    Afirma que, conforme atestado de permanência carcerária juntado aos autos, a Reclamante estaria custodiada desde 5.11.2010 na Penitenciária Estadual Feminina de Sant'ana, estabelecimento prisional cuja população carcerária teria excedido sua capacidade.
+    Ressalta que o art. 7º, inc. V, da Lei 8.906/1994 não preveria o recolhimento do advogado em estabelecimento 'equivalente' à sala do Estado Maior, tampouco condicionaria a concessão de prisão domiciliar ao exame da gravidade do delito em tese praticado.
+    Assevera 'não ha[ver] sala de estado maior em São Paulo a ser disponibilizada para a prisão legal em tal espaço na forma determinada [pelo o art. 7º, inc. V, da Lei 8.906/1994]' (fl. 6).
+    Pondera que, 'mesmo se estivesse em cela isolada [na Penitenciária Estadual Feminina de Sant'ana], a lei não estaria sendo atendida, uma vez que não se trata de 'Sala de Estado Maior', com instalações e comodidades condignas, conforme determina a lei' (fl .8).
+    Requer medida liminar para 'assegurar o cumprimento da norma prevista no art. 7º, inc. V, da Lei n. 8.906/94 (Estatuto da Advocacia), (...) devendo a RECLAMANTE ser transferida para uma sala como tal definida aquela que se tenha na forma interpretada na Ação Direta de Inconstitucionalidade n. 1.127 e na Reclamação n. 4.535, ou, na inexistência desta, para prisão domiciliar, cujo local e condições, incluídas as de vigilância, deverão ser especificados pelo Juízo da 2ª Vara Criminal da Comarca de Limeira/SP' (fl. 15, grifos no original).
+    No mérito, pede seja confirmada a medida liminar.
+    4. Em 15.12.2010, oficiei a Seccional da Ordem dos Advogados do Brasil em São Paulo para que informasse sobre a regularidade da inscrição da Reclamada e as medidas eventualmente adotadas sobre o caso.
+    5. Em 21.12.2010, por meio da Petição STF n. 74.926, a Reclamante reiterou o requerimento de medida liminar e juntou aos autos cópia de ofícios nos quais o Comandante do 36º Batalhão de Polícia Militar do Interior de São Paulo e o Comandante do 13º Regimento de Cavalaria Mecanizada da Polícia Militar noticiam ao Delegado da Delegacia de Investigações sobre Entorpecentes de Limeira/SP que não dispõem de salas próprias para o recolhimento de presos.
+    6. Em 18.1.2011, a Seccional da Ordem dos Advogados do Brasil informou que a 'advogada Maricilda de Oliveira Goes está regularmente inscrita no quadro de advogados dessa Seccional, sob o n. 112.178' (Petição STF n. 1.421).
+    Examinados os elementos havidos nos autos, DECIDO.
+    7. O que se põe em foco na presente Reclamação é se a decisão do juízo da 2ª Vara Criminal da Comarca de Limeira/SP que indeferiu o pedido de prisão domiciliar e determinou que, na ausência de sala de Estado Maior ou dependência equivalente, fosse a Reclamada removida para presídio público descumpriu a decisão proferida no julgamento da Ação Direta de Inconstitucionalidade n. 1.127/DF.
+    8. A Lei n. 8.906/1994 (Estatuto do Advogado) estabelece:
+    'Art. 7º São direitos do advogado:
+    (...)
+    V - não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, assim reconhecidas pela OAB, e, na sua falta, em prisão domiciliar' (grifos nossos).
+    9. Em 17.5.2006, no julgamento da Ação Direta de Inconstitucionalidade n. 1.127/DF, Relator para o Acórdão o Ministro Ricardo Lewandowski, o Plenário deste Supremo Tribunal decidiu:
+    'EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 8.906, DE 4 DE JULHO DE 1994. ESTATUTO DA ADVOCACIA E A ORDEM DOS ADVOGADOS DO BRASIL. DISPOSITIVOS IMPUGNADOS PELA AMB. PREJUDICADO O PEDIDO QUANTO À EXPRESSÃO 'JUIZADOS ESPECIAIS', EM RAZÃO DA SUPERVENIÊNCIA DA LEI 9.099/1995. AÇÃO DIRETA CONHECIDA EM PARTE E, NESSA PARTE, JULGADA PARCIALMENTE PROCEDENTE.
+    I - O advogado é indispensável à administração da Justiça. Sua presença, contudo, pode ser dispensada em certos atos jurisdicionais.
+    II - A imunidade profissional é indispensável para que o advogado possa exercer condigna e amplamente seu múnus público. (...)
+    V - A prisão do advogado em sala de Estado Maior é garantia suficiente para que fique provisoriamente detido em condições compatíveis com o seu múnus público. (...)
+    X - O controle das salas especiais para advogados é prerrogativa da Administração forense. (...)
+    XIII - Ação direta de inconstitucionalidade julgada parcialmente procedente' (DJe 17.6.2010, grifos nossos).
+    Naquela assentada, foi reconhecida a constitucionalidade do art. 7º, inc. V, da Lei 8.906/1994 (Estatuto da Advocacia), declarando, apenas, a inconstitucionalidade da expressão 'assim reconhecidas pela OAB'. Reconheceu-se, portanto, a validade constitucional da norma que assegura aos advogados o direito de ser recolhido em sala do Estado Maior e, na sua falta, em prisão domiciliar.
+    10. Sem prejuízo de análise mais aprofundada sobre o cabimento da reclamação na espécie vertente, concluo ser o caso o deferimento da liminar requerida, pois, nesse exame inicial, parece que a decisão reclamada contraria o que decidido na Ação Direta de Inconstitucionalidade 1.127/DF.
+    O juízo da 2ª Vara Criminal da Comarca de Limeira determinou a verificação da existência ou não de sala do Estado Maior ou dependência equivalente e, em caso de inexistência, que a Reclamante fosse removida para presídio público, indeferindo o pedido de prisão domiciliar formulado nos autos.
+    O atestado de permanência carcerária emitido pela Penitenciária Feminina de Sant'ana em 6.12.2010 informa que a Reclamante está recolhida naquele estabelecimento prisional desde 5.11.2010, o que induz ao reconhecimento da inexistência de sala de Estado Maior em Limeira/SP. Essa circunstância é corroborada pelos ofícios expedidos pelo Comandante do 36º Batalhão de Polícia Militar do Interior de São Paulo e pelo Comandante do 13º Regimento de Cavalaria Mecanizada da Polícia Militar.
+    Em julgados deste Supremo Tribunal, em habeas corpus, tem-se deferido a prisão domiciliar aos advogados onde não exista na localidade sala com as características daquela prevista no art. 7º, inc. V, da Lei 8.906/94, enquanto não transitada em julgado a sentença penal condenatória.
+    (...)
+    No julgamento da mencionada Reclamação n. 4.535, o Ministro Sepúlveda Pertence especificou as características da sala de Estado Maior (...).
+    11. Na espécie vertente, a Reclamante está recolhida em cela de estabelecimento prisional comum. Assim, ainda que dotada de condições dignas, como, aliás, seria desejável fossem todas as celas, é certo não ser sala com as características e finalidades determinadas pela legislação vigente e acentuadas pela jurisprudência deste Supremo Tribunal Federal.
+    12. Pelo exposto, sem prejuízo de uma análise mais detida quando do julgamento do mérito da presente reclamação, defiro o pedido de medida liminar para assegurar o cumprimento da norma prevista no art. 7º, inc. V, da Lei n. 8.906/1994, devendo a Reclamante ser transferida para sala de Estado Maior, ou na inexistência desta, para prisão domiciliar, cujo local e condições, inclusive de vigilância, deverão ser especificados pelo juízo Reclamado.
+    13. Requisitem informações ao juízo da 2ª Vara Criminal da Comarca de Limeira/SP, encaminhando-lhe cópia desta decisão (art. 14, inc. I, da Lei n. 8.038/90 e art. 157 do Regimento Interno do Supremo Tribunal Federal)” (transcrição conforme o original).
+    Aplicando-se o Código de Processo Civil subsidiariamente ao processo penal , tem-se que:
+    “Art. 301. (...)
+    § 1º Verifica-se a litispendência ou a coisa julgada, quando se reproduz ação anteriormente ajuizada.
+    § 2º Uma ação é idêntica à outra quando tem as mesmas partes, a mesma causa de pedir e o mesmo pedido.
+    § 3º Há litispendência, quando se repete ação, que está em curso (...)”.
+    Caracterizada está, portanto, a litispendência entre a presente e a Reclamação n. 11.016.
+    Caso é, pois, de extinção deste processo sem resolução de mérito, conforme estabelece o art. 267, inc. V e § 3º, do Código de Processo Civil:
+    “Art. 267. Extingue-se o processo, sem resolução de mérito:
+    (...)
+    V - quando o juiz acolher a alegação de perempção, litispendência ou de coisa julgada;
+    (...)
+    § 3º O juiz conhecerá de ofício, em qualquer tempo e grau de jurisdição, enquanto não proferida a sentença de mérito, da matéria constante dos ns. IV, V e Vl; todavia, o réu que a não alegar, na primeira oportunidade em que Ihe caiba falar nos autos, responderá pelas custas de retardamento”.
+    7. Pelo exposto, julgo extinta a presente reclamação, ficando prejudicado, por óbvio, o exame do requerimento de medida liminar (art. 267, inc. V e § 3º, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
