@@ -1,0 +1,10 @@
+1. Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. INCORPORAÇÃO DE AUXÍLIO MORADIA AO PAGAMENTO DE PROVENTOS A POLICIAL MILITAR DA RESERVA. O AUXÍLIO MORADIA INSTITUÍDO PELA LEI ESTADUAL Nº 658/83 DEVE SER CONSIDERADO PRO LABORE FACIENDO. TRATA-SE DE VERBA DE NATUREZA INDENIZATÓRIA FUNDADA EM SITUAÇÃO ESPECÍFICA DO SERVIDOR EM ATIVIDADE, O QUAL NÃO DEVERÁ INTEGRAR A BASE DE CÁLCULO PARA PAGAMENTO DOS PROVENTOS AO POLICIAL MILITAR INATIVO. SENTENÇA MANTIDA. RECURSO IMPROVIDO” (fl. 100).
+    2. No RE, sustenta-se, com fundamento no art. 102, III, a e c, que o acórdão recorrido “contrariou o parágrafo 8º do artigo 93 da EC. 01/69; contrariou o parágrafo 4º do artigo 40 da CF/88; contrariou o parágrafo 8º da EC. 20/98 e contrariou os artigos 6º e 7º da EC. 41/2000 e julgou válida uma Lei Estadual contestada por disposição constitucional dando, interpretação divergente da que lhe foi atribuída por outros Tribunais e outras Câmaras Cíveis do próprio Tribunal de Justiça” (fl. 223).
+    3. Preliminarmente, verifico que os dispositivos, aos quais se alegou violação, não foram prequestionados, porque não abordados pelo acórdão recorrido, ao qual não foram opostos embargos de declaração para satisfazer o requisito do prequestionamento (Súmulas STF 282 e 356).
+    4. Quanto ao permissivo constitucional referente a alínea c, observo que a parte recorrente fundamenta o seu recurso na divergência de interpretação atribuída a outros Tribunais e outras Câmaras Cíveis do próprio Tribunal de Justiça; entretanto, alegado dissenso jurisprudencial não se refere ao contido no mencionado dispositivo constitucional, o qual determina a competência do STF para julgamento do RE quando a decisão recorrida julgar válida lei ou ato de governo local contestado em face da Constituição Federal. Verifico, portanto, a incidência, neste ponto, da Súmula STF 284.
+    5. Ante o exposto, nego seguimento ao recurso (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 1º de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
