@@ -1,0 +1,26 @@
+DECISÃO
+RESPONSABILIDADE OBJETIVA DO MUNICÍPIO. INDENIZAÇÃO. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO  SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu o recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+    ”AÇÃO CIVIL PÚBLICA AMBIENTAL – PARCELAMENTO IRREGULAR DO SOLO E LOTEAMENTO CLANDESTINO – DANOS URBANÍSTICOS E AMBIENTAIS – LEGITIMIDADE PASSIVA DOS CO-RÉUS – LOTEADORES/PROPRIETÁRIOS DA GLEBA QUE AUFERIRAM LUCROS COM O FATO. Respondem objetivamente pelo loteamento clandestino os proprietários da gleba, que a receberam e continuam na prática ilegal, vendendo lotes e auferindo lucros.
+    AÇÃO CIVIL PÚBLICA AMBIENTAL – PARCELAMENTO IRREGULAR DO SOLO E LOTEAMENTO CLANDESTINO – DANOS URBANÍSTICOS E AMBIENTAIS – LEGITIMIDADE PASSIVA 'AD CAUSAM' DA MUNICIPALIDADE. O Município pode ser responsabilizado objetivamente, na seara ambiental, tanto se for causador direto do dano, quanto na hipótese em que a Administração Pública tem o dever de fiscalizar as atividades desenvolvidas pelos particulares, não somente quanto às atividades existentes, mas como no caso dos autos, previamente à instalação e implantação de unidades e atividades cujo funcionamento e local em que situadas causarão degradação ambiental. 'In casu', a omissão das autoridades públicas municipais contribuiu para o estabelecimento de fato do loteamento irregular, permitindo os danos ambientais, urbanísticos e ao consumidor, cujas proporções são objeto da vertente ação civil pública.
+    AÇÃO CIVIL PÚBLICA AMBIENTAL – PARCELAMENTO IRREGULAR DO SOLO E LOTEAMENTO CLANDESTINO – DANOS URBANÍSTICOS E AMBIENTAIS COMPROVADOS. A implantação de parcelamento irregular, sem os aparelhamentos públicos necessários previamente à venda dos lotes (falta de pavimentação de ruas, inexistência de rede coletora de esgoto, lançamento de dejetos ' in natura' diretamente em curso d'água) causa inquestionável dano ambiental e urbanístico, que deve ser reparado na forma possível, concretamente ou mediante indenização (...) ” (fls. 20-21).
+    3. O Agravante alega que o Tribunal de origem teria contrariado os arts. 2º e 37, § 6º, da Constituição da República.
+    Sustenta que “não existe nexo de causalidade entre a atuação da Municipalidade, ora agravante, e os atos ilícitos praticados que resultaram em danos ambientais e urbanísticos, não podendo a Administração Pública ser responsabilizada por atos praticados por terceiros” (fl. 10).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. O Tribunal de origem afirmou a responsabilidade objetiva do Município de São Paulo porque permitiu loteamento clandestino, deixando de fiscalizar suficientemente a realização de parcelamento de solo urbano, o que acarretou graves impactos ambientais na região ocupada, com base nas provas colhidas no processo e devidamente apreciadas.
+    O Tribunal a quo assentou que:
+    “(...) No caso vertente, cumpria aos entes públicos, em suas específicas esferas de competência, fiscalizar, regulamentar, equacionar e impedir a implantação do loteamento clandestino, que terminou por se formar em total desacordo com a Lei Federal nº 6.766/79, e sem qualquer espécie de infra-estrutura básica, fatos demonstrados pela falta de estudos estratégicos de ocupação, falta de pavimentação a permitir voçorocas de toda sorte, inexistência de rede coletora de esgotos e lançamento dos dejetos produzidos pela coletividade que ali se instalou em córrego d'água vizinho, sem qualquer tratamento, com evidentes danos ao meio ambiente e à saúde pública (...)” (fl. 27).
+    Concluir de modo diverso exigiria, necessariamente, o reexame dos elementos probatórios constantes dos autos, o que é vedado em recurso extraordinário. Incide, no caso, a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “RESPONSABILIDADE DO ESTADO. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS QUE FUNDAMENTARAM A DECISÃO DO TRIBUNAL A QUO. SÚMULA 279 DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL DESPROVIDO” (AI 477.802-AgR, de minha relatoria, Primeira Turma, DJ 9.2.2007).
+    E:
+    “AGRAVO REGIMENTAL. AFRONTA AO ATO JURÍDICO PERFEITO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO DESPROVIDO. Não é possível, na via extraordinária, o reexame de fatos e provas do processo, na forma do enunciado 279 da Súmula do Supremo Tribunal Federal” (AI 548.648-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+    E, ainda: AI 581.555-ED-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJ 1º.9.2006; AI 540.069-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, 26.8.2006; AI 541.716-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 2.9.2005; e AI 416.159-AgR/MG, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 25.4.2003.
+    5. Nada há, pois, a prover quanto às alegações da parte agravante.
+    6. Pelo exposto, nego seguimento a este agravo (Súmula 279 do Supremo Tribunal Federal, art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 557, caput, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
