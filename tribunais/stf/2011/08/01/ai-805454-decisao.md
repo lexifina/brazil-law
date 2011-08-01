@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Rio Grande do Sul interpõe agravo de instrumento contra a decisão (fls. 10 a 12) que não admitiu recurso extraordinário, assentado em contrariedade ao art. 5º, inciso LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Primeira Câmara Criminal do Tribunal de Justiça estadual no julgamento do agravo em execução nº 70026723098, assim ementado:
+    “LEI 7.210/84. EXECUÇÕES PENAIS. AGRAVO EM EXECUÇÃO.
+    AUSÊNCIA DE DEFENSOR PÚBLICO OU ADVOGADO NO INTERROGATÓRIO EM PROCEDIMENTO ADMINISTRATIVO PARA APURAÇÃO DE FALTA GRAVE.
+    Ainda no processo administrativo para apuração de falta grave, tem direito o apenado a estar acompanhado de Defensor. Assessor Jurídico da Penitenciária, ainda que titulado, não dispõe de capacidade postulatória para fazer às de Defensor.
+    PAD irregular, desconstituído.
+    COMPOSIÇÃO DO CONSELHO. PRESENÇA DE PENAS DOIS MEMBROS. MERA IRREGULARIDADE.
+    AGRAVO IMPROVIDO. UNÂNIME” (fl. 14).
+    O agravante, nas razões do extraordinário, alega que “o decisum, ao decretar a nulidade do PAD, afastando o cometimento de falta grave imputada ao apenado, ao argumento de que violados os vetores da ampla defesa e do contraditório, porquanto insuficiente para a defesa técnica do imputado a presença de assessor jurídico designado para o ato de interrogatório, acabou por contrariar o artigo 5º, inciso LV, da Constituição Federal” (fl. 24).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o agravante foi intimado do acórdão recorrido em 9/4/09 (fl. 17), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    O julgado proferido pelo Tribunal a quo está em perfeita sintonia com a jurisprudência da Corte, firme no sentido de que, em procedimento administrativo disciplinar, instaurado para apurar o cometimento de falta grave por réu condenado, tendo em vista estar em jogo a liberdade de ir e vir, deve ser observado amplamente o princípio do contraditório, com a presença de advogado constituído ou defensor público nomeado, devendo ser-lhe apresentada defesa, em observância às regras específicas contidas na LEP (arts. 1º, 2º, 10, 44, III, 15, 16, 41, VII e IX, 59, 66, V, alínea 'a', VII e VIII, 194), no CPP (arts. 3º e 261) e na própria CF/88 (art. 5º, LIV e LV) (RE nº 398.269/RS, Segunda Turma, Relator o Ministro Gilmar Mendes , DJe de 26/2/10).
+    Perfilhando esse entendimento, destaco:
+    “Recurso ordinário em habeas corpus. 2. Execução criminal. Prática de falta grave pelo apenado. 3. Paciente que não foi acompanhado por defensor durante a realização dos atos referentes ao processo administrativo-disciplinar. 4. Nulidade. Inobservância dos princípios do contraditório e da ampla defesa. 5. Recurso conhecido e provido” (RHC nº 104.584/RS, Segunda Turma, Relator o Ministro Gilmar Mendes , DJe de 6/6/11);
+    “HABEAS CORPUS. CONDENADO SUBMETIDO A SINDICÂNCIA PARA APURAÇÃO DE FALTA DISCIPLINAR DE NATUREZA GRAVE. DEFESA TÉCNICA. Formalidade a ser observada, sob pena de nulidade do procedimento - que pode repercutir na remição da pena, na concessão de livramento condicional, no indulto e em outros incidentes da execução -, em face das normas do art. 5º, LXIII, da Constituição, e do art. 59 da LEP, não sendo por outra razão que esse último diploma legal impõe às unidades da Federação o dever de dotar os estabelecimentos penais de serviços de assistência judiciária, obviamente destinados aos presos e internados sem recursos financeiros para constituir advogado (arts. 15 e 16). Habeas corpus deferido” (HC nº 77.862/SP, Tribunal Pleno, Relator o Ministro Ilmar Galvão , DJ de 2/4/04).
+    Ressalte-se que, no caso em espécie, a presença de assistente jurídico da penitenciária não garante a observância dos princípios constitucionais do contraditório e da ampla defesa, pois sem o devido acompanhamento de advogado ou de defensor público nomeado.
+    De outra parte, não encontra respaldo na jurisprudência da Corte a pretensão do agravante de evocar a aplicabilidade, ao caso concreto, da Súmula Vinculante nº 5, que assim dispõe: “A falta de defesa técnica por advogado no processo administrativo disciplinar não ofende a Constituição.”
+    Com efeito, esse enunciado é aplicável apenas em procedimentos de natureza cível (AI nº 844.933/RS, decisão monocrática, Relator o Ministro Ayres Britto , DJe de 28/6/11; AI nº 844.394/RS, decisão monocrática, Relator o Ministro Gilmar Mendes , DJe de 24/5/11; e AI nº 840.465/RS, decisão monocrática Relator o Ministro Luiz Fux , DJe de 18/5/11, entre outros).
+    Com essas considerações, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
