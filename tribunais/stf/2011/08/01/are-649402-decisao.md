@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ALTERAÇÃO DA JORNADA DE TRABALHO. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE LEGISLAÇÃO LOCAL. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas:
+    “EMENTA: Direito administrativo. Servidor público estadual. Pretensão. Alteração da jornada de trabalho (aumento). Falta de preenchimento dos requisitos legais ao tempo do requerimento administrativo. É improcedente o pedido inicial formulado por servidor público estadual, cujo objeto é o deferimento da extensão da jornada de trabalho pleiteada, à demonstração que não preenchia integralmente os requisitos legais, ao tempo do requerimento administrativo. Primeiro recurso provido e segundo e terceiros recursos prejudicado” (fl. 253).
+    2. A Recorrente alega que teriam sido contrariados os arts. 5º, caput, 7º, inc. XVI, 37, caput, e 39, § 3º, da Constituição da República.
+    Sustenta que “não cabe falar, no presente caso, em discricionariedade da Administração Pública, posto que a Recorrente preencheu todos os requisitos legais para ser reenquadrada, sendo estes reconhecidos pela Recorrida em documentos anexado aos autos” (fl. 303).
+    Assevera que “não há, diante dos fatos e em atenção aos preceitos expostos, outra solução justa senão a do reconhecimento do direito da Recorrente a ver-se reenquadrada na jornada de 24 (vinte e quatro) horas semanais desde a data de sua opção, 28.11.2006, sendo inadmissível abrigar a omissão do administrador público sob o pálio do poder discricionário, dada a ilegitimidade e ilegalidade da conduta alternativa por ele adotada” (fl. 308).
+    3. O recurso extraordinário foi inadmitido ao fundamento de que incidiria na espécie as Súmulas n. 279 e 280 do Supremo Tribunal Federal (fls. 325-327).
+    4. No agravo interposto, pede o provimento do recurso extraordinário e a reforma do acórdão recorrido.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. O Tribunal de origem asseverou que
+    “Extrai-se dos autos que a requerente (Médica Psiquiatra), em 28.11.2006, requereu extensão de sua jornada de trabalho para 24 horas semanais, conforme o Termo de f. 84-TJ, em razão da faculdade prevista no art. 9º, §§ 1º e 2º, da Lei Estadual nº 15.462/2005.
+    (...)
+    Tem-se que a requerida (FHEMIG) não estava obrigada a efetuar o reenquadramento da requerente na carga horária de 24 horas semanais, diante da simples formalização (28.11.2006). O pedido condicionava-se, também, ao atendimento de outros critérios previamente estabelecidos, como (a) o interesse da Administração Pública, (b) a aprovação da Câmara de Coordenação Geral, Planejamento, Gestão e Finanças e (c) a redução do número de contratos administrativos de médicos.
+    Verifico que a CCGPGF autorizou, inicialmente, a extensão da carga horária mensal para 24 horas a 286 médicos (f. 194-TJ).
+    Posteriormente (f. 132-TJ), foram autorizadas novas extensões a 426 médicos, de maneira escalonada, sendo 238 em maio de 2008, 94 médicos em outubro de 2008 e outros 94 em abril de 2009.
+    No caso, observo que, apenas a partir de 23.10.2008 (f. 171-TJ), a apelante obteve o direito ao citado reenquadramento, segundo a ordem escalonada manifestada através do interesse da Administração Pública, motivo pelo qual não há como deferir a pretensão requerida na inicial.
+    Pensar de forma diferente constituiria verdadeira usurpação, pelo Poder Judiciário, de atribuições do Poder Executivo” (fl. 256).
+    8. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional local (Lei Estadual n. 15.462/2005). Assim, a alegada ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal.
+     Ademais, para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos. Concluir de forma diversa demandaria, necessariamente, o reexame das provas contidas nos autos e devidamente apreciadas nas instâncias originárias, hipótese incabível em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PROCESSO ADMINISTRATIVO: DEMISSÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280) E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO PELA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 695.904-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 279 E 280/STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado de Sergipe demandaria o reexame dos fatos e provas constantes dos autos, bem como a análise da legislação ordinária aplicada à espécie. Providências vedadas na instância extraordinária, conforme as Súmulas 279 e 280/STF. 2. Agravo regimental desprovido” (RE 621.489-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 17.12.2010).
+    9. Além disso, não merece prosperar a insurgência da Agravante, pois este Supremo Tribunal assentou que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de norma infraconstitucional, na espécie vertente, a Lei Estadual n. 15.462/2005, configuraria ofensa constitucional indireta.
+    Nesse sentido: AI 485.087-AgR, de minha relatoria, Primeira Turma, DJe 26.6.2009. AI 605.287-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 30.4.2009; e RE 590.843-AgR, de minha relatoria, Primeira Turma, DJe 6.4.2010.Nesse sentido: AI 605.287-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 30.4.2009; e RE 590.843-AgR, de minha relatoria, Primeira Turma, DJe 6.4.2010.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
