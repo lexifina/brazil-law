@@ -1,0 +1,29 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão, que, confirmado, em sede de embargos de declaração (fls. 340/341), pelo E. Tribunal Regional Federal da 4ª Região, está assim ementado (fls. 330):
+    “TRIBUTÁRIO - ENTIDADE DE FINS FILANTRÓPICOS - IPI E IMPOSTO DE IMPORTAÇÃO - IMUNIDADE RECONHECIDA.
+    1. Na importação de bens que se destinam ao uso exclusivo do ente importador, a imunidade do art. 150, VI, 'c', da Constituição, abrange os impostos indiretos, que adquirem características de impostos diretos, onerando o usuário final dos bens. 2. Comprovada a satisfação dos requisitos previstos no artigo 14 do CTN.”
+           A parte ora recorrente, ao deduzir o apelo extremo em questão, sustentou que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 150, VI, alínea “c”, da Constituição da República.
+           Cumpre ressaltar, inicialmente, que o acórdão recorrido, ao julgar a controvérsia relativa ao atendimento dos requisitos necessários ao reconhecimento da imunidade tributária da instituição ora recorrida, entendeu-os existentes, assim procedendo em face de estrita consideração do conjunto fático-probatório produzido nos autos, o que faz incidir, na espécie, a restrição contida na Súmula 279/STF, que veda o reexame de fatos e provas em sede recursal extraordinária.
+           A mera análise do acórdão em referência demonstra que o E. Tribunal Regional Federal da 4ª Região, para julgar a controvérsia suscitada na presente causa, apoiou-se, essencialmente, em aspectos fático-probatórios, a seguir destacados (fls. 327v./328):
+    “Dadas tais premissas, observo que a impetrante é uma entidade sem fins lucrativos, cujos administradores prestam-lhe serviços gratuitos. Aplica a totalidade de seus rendimentos em melhoramentos e manutenção dos serviços que presta na área da saúde. De seu estatuto social extrai-se:
+    'Art. 3º - São objetivos da Associação, diretamente, ou através de entidade de que participe:
+    a) promover a melhoria da qualidade de vida e a satisfação das pessoas, mediante a prática da melhor medicina, através de uma organização hospitalar auto-sustentável;
+    b) prestar serviços na área da saúde, sem distinção de condições sociais, nacionalidade ou credo religioso;
+    c) criar e manter unidades de ensino técnico- -hospitalares, escolas de enfermagem e outros departamentos que julgue convenientes para melhor atendimento de sua finalidade;
+    d) prestar auxílio a comunidades carentes integrada aos esforços da sociedade, mediante assistência hospitalar e comunitária, educacional, creches, combate ao câncer e clínica pastoral;
+    e) promover e participar de programas de parceria escola e empresa;
+    f) investir no conhecimento humano e nas mais avançadas tecnologias, bem como promover, participar, incentivar e subsidiar encontros científicos e publicações conexas às atividades antes referidas.
+    (...)
+    Art. 11 - As rendas da Associação são aplicadas, exclusivamente, na consecução dos fins sociais, não podendo distribuir resultados a qualquer título.'
+    Para reforçar suas alegações no sentido de que cumpre plenamente essas finalidades, juntou aos autos seu estatuto, pelo qual é uma associação civil sem fins lucrativos, beneficente, assistencial e educacional (art. 1°), sendo sua receita aplicada exclusivamente no país (art. 3º, § 3º). Já o art. 10 determina que as rendas da associação são aplicadas, exclusivamente, na consecução dos fins sociais, não podendo distribuir resultados a qualquer título. Também consta do estatuto que 'Não haverá remuneração direta ou indireta pelo exercício de cargo ou função em qualquer órgão estatutário da Associação'. (art. 12).
+    Portanto, ela preenche os requisitos do art. 14 do CTN.”
+           Cabe enfatizar, neste ponto, que o Supremo Tribunal Federal, ao pronunciar-se sobre controvérsias assemelhadas à que se registra no presente caso, tem reiteradamente afirmado que a constatação do atendimento dos requisitos necessários ao reconhecimento da imunidade tributária traduz matéria que se circunscreve ao domínio da prova, achando-se pré-excluída, por isso mesmo, do âmbito do recurso extraordinário (AI 260.325/SP, Rel. Min. ILMAR GALVÃO - AI 406.402/SP, Rel. Min. CARLOS VELLOSO - AI 554.527/SP, Rel. Min. CARLOS VELLOSO):
+    “CONSTITUCIONAL. IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. C.F., art. 150, VI, 'c'. PROVA.
+    I. - O acórdão entendeu que a ora agravante não faz jus à imunidade prevista no art. 150, VI, 'c', da C.F., a partir do exame de matéria fática: a interessada não comprovou a existência dos requisitos previstos na norma infraconstitucional. Impossibilidade do reexame de prova em sede extraordinária. Súmula 279-STF.
+    II. - Agravo não provido.”
+(AI 388.740-AgR/SP, Rel. Min. CARLOS VELLOSO - grifei)
+           Vê-se, portanto, que a pretensão ora deduzida pela parte recorrente revela-se processualmente inviável, pois - considerada a jurisprudência que se vem de referir - o recurso extraordinário não permite que se reexaminem, nele, em face de seu estrito âmbito temático, questões de fato ou aspectos de índole probatória (RTJ 161/992 - RTJ 186/703), ainda mais quando tais circunstâncias, como sucede na espécie, se mostram condicionantes da própria resolução da controvérsia jurídica, tal como enfatizado no acórdão recorrido, cujo pronunciamento sobre matéria de fato reveste-se, quanto a ela, de inteira soberania (RTJ 152/612 - RTJ 153/1019 - RTJ 158/693, v.g.), o que impede a discussão em torno do atendimento, pela instituição ora recorrida, dos requisitos essenciais ao reconhecimento da imunidade tributária em questão.
+           Sendo assim, e pelas razões expostas, não conheço do presente recurso extraordinário.
+           Publique-se.
+           Brasília, 1º de agosto de 2011.
+Ministro CELSO DE MELLO
+Relator
