@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DANOS MORAIS. IMPOSSIBILIDADE DE REEXAME DE PROVAS EM RECURSO EXTRAORDINÁRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da Turma Recursal dos Juizados Especiais Cíveis e Criminais do Rio de Janeiro, que manteve a sentença por seus próprios fundamentos, condenando a Recorrente ao pagamento de indenização por danos morais.
+    Foram fundamentos da sentença:
+    “Devido à presunção de veracidade e boa-fé que se confere às alegações autorais e inversão do ônus da prova, considera-se que houve falha no serviço uma vez que a parte Ré deve ser mais diligente ao prestar seus serviços.
+    Sabe-se que o fornecedor de serviços, consoante o art. 14 do Código de Defesa do Consumidor responde, independentemente de culpa, pelos danos causados ao consumidor decorrentes de defeitos na prestação de serviços. Trata-se de responsabilidade objetiva pelo fato do serviço, fundada na teoria do risco do empreendimento, segundo a qual todo aquele que se dispõe a exercer alguma atividade no campo do fornecimento de bens e serviços tem o dever de responder pelos fatos e vícios resultantes do empreendimento, independentemente de culpa.
+    Provado o dano, o fornecedor de serviços só afasta a sua responsabilidade se demonstrar a ocorrência de uma das causas que excluem o nexo causal: inexistência de defeito; culpa exclusiva do consumidor ou de terceiro. Assim, não tendo a parte Ré logrado demonstrar a ocorrência de qualquer causa excludente do nexo causal, impõe-se reconhecer a sua responsabilidade em relação aos danos causados à parte Autora, nos termos do art. 14 da Lei 8.078/90. É inegável que a parte Autora sofreu danos morais, haja vista a imposição abusiva de cobranças, potencializando ainda mais a sua vulnerabilidade no mercado de consumo (art. 4º, I, CDC)” (fl. 88).
+    2. A Recorrente alega que teria sido contrariado o art. 5º, inc. X, da Constituição da República.
+    3. O recurso extraordinário foi inadmitido aos fundamentos de que a ofensa à Constituição, se tivesse ocorrido, seria indireta e a incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 180-182).
+    4. No agravo interposto, pede o provimento do recurso extraordinário e a reforma do acórdão recorrido.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Código de Defesa do Consumidor). Assim, a alegada ofensa à Constituição, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    7. Ademais, para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos. Concluir de forma diversa demandaria, necessariamente, o reexame das provas contidas nos autos e devidamente apreciadas nas instâncias originárias, incabível em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DANO MORAL. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DE PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 600.110-AgR, de minha relatoria, Primeira Turma, DJ 30.11.2007).
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. INDENIZAÇÃO. DANO MORAL E DANO MATERIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido – ocorrência, na espécie, de dano moral e material indenizável -, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como, a análise de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes. II – A apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor), do reexame dos fatos e provas constantes nos autos e do contrato celebrado entre as partes. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. III – Agravo regimental improvido” (AI 696.403-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 30.6.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
