@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO - SERVIDOR PÚBLICO - MAGISTÉRIO - APOSENTADORIA - INCORPORAÇÃO DA GRATIFICAÇÃO POR TRABALHO EM REGIME ESPECIAL - POSSIBILIDADE - art. 72 DA LEI ESTADUAL nº 11.050/93 - LEGALIDADE DO ATO - REVISÃO PELA ADMINISTRAÇÃO - PRAZO QÜINQÜENAL. As gratificações especiais, via de regra, não devem integrar os proventos dos servidores. Contudo, caso haja previsão legal para tanto, tal incorporação torna-se devida. É o caso da previsão contida no artigo 72 da Lei 11.050/93, que impõe os proventos dos ocupantes de regime especial compostos pela gratificação instituída pela Lei 7.109/77. Legal o ato de incorporação da gratificação aos proventos. A revisão dos atos administrativos do poder público devem respeitar o prazo decadencial qüinqüenal previsto na Lei Estadual 14.184/02” (fl. 171)
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se violação aos arts. 5º, XXXV e XXXVI, 37, caput, 71, III, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido negou seguimento ao recurso de apelação sob os seguintes fundamentos: a) legalidade da incorporação das gratificações aos proventos dos servidores; e b) decadência do direito da administração pública de rever seus próprios atos.
+    Verifico, no entanto, que, na petição do recurso extraordinário, o recorrente não atacou todos fundamentos da decisão supracitada, limitando-se a repetir as razões de mérito, atinentes à inocorrência de decadência quinquenal, tendo em vista que o ato ilegal não pode gerar direito adquirido.
+    Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 548.094-AgR/DF e RE 561.869-AgR/RJ, Rel. Min. Cezar Peluso; RE 452.272-AgR/SE, Rel. Min. Sepúlveda Pertence; AI 469.221-AgR/SP, Rel. Min. Cármen Lúcia; AI 672.744-AgR/BA, Rel. Min. Ellen Gracie; RE 544.591-AgR/RN e AI 634.686-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
