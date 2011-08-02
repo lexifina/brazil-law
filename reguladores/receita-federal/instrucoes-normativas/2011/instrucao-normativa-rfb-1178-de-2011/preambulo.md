@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1178, de 1º de agosto de 2011
+Dispõe sobre a prorrogação do prazo de entrega do Demonstrativo de Apuração de Contribuições Sociais (Dacon) relativo a fatos geradores ocorridos nos meses de abril a julho de 2011, e altera a Instrução Normativa RFB nº 1.015, de 5 de março de 2010, que dispõe sobre o Dacon.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
