@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Estado da Paraíba, que deu parcial provimento à apelação defensiva para, mantendo a condenação dos recorrentes, fixar o regime semiaberto para o início do cumprimento das reprimendas.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, LV, da mesma Carta, aos argumentos de que não houve o indispensável arrolamento de testemunhas na defesa prévia, bem como que as alegações finais ofertadas teriam sido ineficazes.
+    A pretensão recursal não merece acolhida. É que os recorrentes não demonstraram, em preliminar fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso, consoante determina o art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e o art. 327, § 1º, do RISTF.
+    O Tribunal, ao julgar Questão de Ordem no AI 664.567/RS, Rel. Min. Sepúlveda Pertence, decidiu que
+    “a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007” (DJ de 6/9/2007).
+    No mesmo sentido decidiu o Plenário deste Tribunal, no julgamento do RE 569.476-AgR/SC, Rel. Min. Ellen Gracie.
+    No caso sob exame, a publicação do acórdão ora questionado ocorreu em 7/7/2010 (fl. 225), não tendo os recorrentes se desincumbido do referido ônus processual, o que torna o recurso inviável.
+    Ainda que fosse possível superar tal óbice, o recurso não prosperaria. Isso porque é firme a jurisprudência desta Corte no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
