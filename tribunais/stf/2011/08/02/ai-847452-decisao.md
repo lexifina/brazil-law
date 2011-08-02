@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário criminal.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    O agravo não merece acolhida. É que os agravantes, apesar de sustentarem a existência de repercussão geral, não demonstraram as razões pelas quais entendem que a questão constitucional versada no recurso extraordinário seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa, limitando-se a afirmar que o recurso seria cabível, “(...) uma vez que o tema foi prequestionado no Venerando acórdão bem como sua repercussão geral, sendo por conseguinte a matéria que originou este apelo derradeiro, decidida de forma definitiva, por unanimidade em segunda instância” (fl. 709).
+    Destacaram, ademais, neste agravo, que, “a propósito da repercussão geral, trata-se, em verdade, de um critério objetivo para aferição da relevância, no caso em tela se tratando (sic) de direito penal é de ordem pública, assim da maior relevância social” (fl. 7).
+    Ora, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III - Agravo regimental improvido”.
+    Ainda que pudesse ser superado tal óbice, o recurso não prosperaria. Como se sabe, o entendimento deste Tribunal é assente no sentido de que a afronta aos princípios constitucionais da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, cito, entre outros, os seguintes julgados: AI 580.465-AgR/SP, Rel. Min. Cármen Lúcia; AI 757.450-AgR/MT, Rel. Min. Eros Grau; AI 803.857-AgR/RS, Rel. Min. Celso de Mello; AI 812.678-AgR/PR, Rel. Min. Ellen Gracie; AI 513.804-AgR/MG, Rel. Min. Joaquim Barbosa.
+    Ademais, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, mais precisamente avaliar a idoneidade ou não das provas que embasaram a condenação, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 2 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
