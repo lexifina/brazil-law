@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 40, de 1º de agosto de 2011
+Dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) na operação de crédito.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no Decreto nº 6.306, de 14 de dezembro de 2007, declara:
+Artigo único. A utilização do cartão de crédito para pagamento de contas utilizando a função crédito, referida na Resolução nº 3.919, de 25 de novembro de 2010, sujeita-se à incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) à alíquota prevista na alínea " b" do inciso I do art. 7º do Decreto nº 6.306, de 14 de dezembro de 2007.
