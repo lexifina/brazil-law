@@ -1,0 +1,15 @@
+1.  Trata-se de agravo de decisão que inadmitiu recurso extraordinário por alegada violação ao arts. 135 da Constituição Federal, contra acórdão que manteve a condenação do Município ao pagamento dos honorários advocatícios em favor da Defensoria Pública Estadual, nos seguintes termos (fls. 152-162):
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. DIREITO PÚBLICO NÃO ESPECIFICADO. FORNECIMENTO INTERNAÇÃO E TRANSFERÊNCIA HOSPITALAR.
+    (…)
+    HONORÁRIOS FADEP – MUNICÍPIO. É possível a condenação do Município ao pagamento de honorários advocatícios em favor da Defensoria Pública, pois, no caso, não se opera o instituto da confusão”.
+          A Corte de origem asseverou que a apontada violação à norma constitucional do art. 135 não foi prequestionada, além de depender de anterior afronta de dispositivo infraconstitucional (fls. 192-193).
+    2. O agravante sustenta, em síntese (fls. 196-200), que não procede a negativa de seguimento do extraordinário sob fundamento de falta de prequestionamento, pois a matéria foi “ventilada” e, se o acórdão recorrido “não se manifestou expressamente, não significa que não apreciou a questão”. Além disso, na análise do requisitos recursais, foi ultrapassado o limite da análise dos requisitos recursais dos pressupostos gerais e constitucionais indispensáveis ao prosseguimento do recurso (fls. 196-200).
+    3. Está correta a decisão que não admitiu o RE. Com efeito, não houve prequestionamento de matéria constitucional tida por violada, porque não abordada pelo acórdão recorrido, ao qual não foram opostos embargos de declaração, não sendo satisfeito, portanto, o requisito do prequestionamento (Súmulas STF 282 e 356).
+          A jurisprudência sedimentada desta Corte não admite, em princípio, o chamado “prequestionamento implícito”. Nesse sentido, colaciono, entre muitos outros, os seguintes julgados: AI 508.555-AgR/MG, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, rel. Min. Eros Grau, 1 ª Turma, DJ 05.8.2005; AI 413.963-AgR/SC, rel. Min. Celso de Mello, 2ª Turma, DJ 1º.4.2005; e AI 253.566-AgR/RS, 1ª Turma, rel. Min. Sepúlveda Pertence, DJ 03.3.2000.
+    4. Ademais, para o exame da violação alegada no apelo extremo, seria necessária a análise de legislação infraconstitucional (Lei Estadual 10.298/1994), hipótese inviável em sede extraordinária, dado o óbice da Súmula STF 280. Veja-se AI 624.081-AgR/RS, 1ª Turma, rel. Min. Ricardo Lewandowiski, DJe 19.9.2008; e RE 425.277-AgR/MA, 2ª Turma, da minha relatoria, DJ 24.6.2005.
+    5. Frise-se, por fim, que o Presidente do Tribunal de origem tem competência para exercer o prévio juízo de admissibilidade de recursos dirigidos a esta Corte, sem que essa verificação signifique vinculação na análise dos pressupostos recursais, uma vez que se trata de ato revestido de provisoriedade, cabendo ao Supremo Tribunal exercer um segundo juízo de admissibilidade dos recursos de sua competência.
+    6. Ante o exposto, conheço do agravo para negar-lhe provimento (CPC, art. 544, § 4º, II, a).
+          Publique-se.
+          Brasília, 2 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
