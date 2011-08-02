@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que estendeu a servidor público estadual inativo a Gratificação de Encargos Especiais, sob o fundamento de que tal gratificação possui caráter geral.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se afronta aos arts. 18, 37, X, e 40, § 8º (redação anterior à EC 41/2003), da mesma Carta, ao argumento de que a Gratificação de Encargos Especiais tem natureza pro labore faciendo e, por isso, não é extensível aos servidores inativos.
+     A pretensão recursal não merece acolhida.
+    Isso porque a verificação da natureza da gratificação em exame demandaria a análise das normas infraconstitucionais locais pertinentes ao caso, o que inviabiliza o recurso extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, cito as seguintes decisões, entre outras: RE 576.086-AgR/RJ, Rel. Min. Ayres Britto; AI 704.092-AgR/RJ, Rel. Min. Eros Grau; RE 594.847/RJ, Rel. Min. Dias Toffoli.
+    Ademais, o entendimento adotado pelo Tribunal a quo está em consonância com a jurisprudência desta Corte no sentido de que, reconhecida a natureza geral de determinada gratificação, deve ela ser estendida aos servidores inativos, por força do art. 40, § 8º (redação anterior à EC 41/2003), da CF. Nesse sentido, trago à colação os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO AOS INATIVOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Não diverge da jurisprudência deste Supremo Tribunal Federal o acórdão do Tribunal a quo que estende gratificação a servidores inativos quando reconhecida a sua natureza de reajuste salarial. 2. Impossibilidade de analisar a legislação estadual. Incide, no caso, a Súmula 280 deste Supremo Tribunal” (RE 611.4566-AgR/RJ, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Gratificação de encargos especiais - GEE. Extensão. Ativos e inativos. Possibilidade. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 642.478-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Por fim, consoante entendimento deste Tribunal, a regra da paridade de vencimentos (art. 40, § 4º, da CF/88, redação original) dispensa a exigência de edição de lei para estender ao inativo, em cada caso, o benefício ou vantagem outorgada ao servidor em atividade. Assim, uma vez incidente o mencionado dispositivo da Constituição, fica afastada a aplicação da Súmula 339 do STF (RE 395.186-AgR/RJ, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
