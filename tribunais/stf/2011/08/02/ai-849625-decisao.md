@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Tenho que a insurgência não merece acolhida. É que a jurisprudência desta nossa Casa de Justiça se orienta no sentido de que os embargos declaratórios não servem para prequestionar ofensa à Constituição Federal não ventilada nos autos anteriormente. Confiram-se, a propósito, o AI 454.763-AgR, da minha relatoria; bem como os REs 205.455, da relatoria do ministro Sepúlveda Pertence; e 268.553-AgR, da relatoria do ministro Carlos Velloso.
+    2. Diante da patente ausência de prequestionamento do dispositivo constitucional tido por violado no apelo extremo (inciso LV do art. 5º), é de incidir no caso a Súmula 282/STF.
+    3. De mais a mais, a alegada ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência deste Tribunal, que me parece juridicamente correta, de que é exemplo o AI 517.643-AgR, da relatoria do ministro Celso de Mello. Esta a ementa do julgado:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+    4. Não bastasse, pontuo que a solução da causa exigiria o reexame do conjunto fático-probatório dos autos, providência vedada neste momento processual (Súmula 279/STF).
+    5. À derradeira, anoto que o aresto impugnado, ao contrário do consignado pela parte agravante, está devidamente fundamentado. Ora, é firme nesta Supremo Tribunal Federal o entendimento de que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+    Ante o exposto, e frente ao art. 38 da Lei 8.038/1990 e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 02 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
