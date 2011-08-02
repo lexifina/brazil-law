@@ -1,0 +1,33 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DANOS MORAIS. USUÁRIO DE TRANSPORTE PÚBLICO. PASSE LIVRE. AGRESSÃO. RESPONSABILIDADE OBJETIVA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF.
+1. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 113):
+    “AGRAVO RETIDO. INOBSERVÂNCIA DO RITO ADOTADO. APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANOS MORAL. AUSÊNCIA DE PROVAS DESCONTITUTIVAS DO DIREITO DO AUTOR. QUANTUM INDENIZATÓRIO. SUCUMBÊNCIA RECÍPROCA. INOCORRÊNCIA. RECURSOS CONHECIDOS E DESPROVIDOS.
+    I – Não pode a Recorrente valer-se da sua desídia para desvaler o comando sentencial, notadamente quando foi devidamente intimada e advertida sobre o rito adotado na ação.
+    Agravo retido desprovido.
+    II – Não tendo logrado a Apelante a fazer prova que lhe cabia quanto a fato desconstitutivo do direito do Apelado, e, por outro lado, tendo este provado o alegado na exordial, há que ser reconhecida a indenização.
+    III – O quantum pedido na exordial a título de indenização por dano moral é meramente estimativo, não ocorrendo sucumbência parcial se a condenação é fixada em valor menor.
+    Apelação desprovida.”
+    No recurso extraordinário a ora agravante alegou violação ao art. 37, § 6º, da CF. Sustentou-se que eventual dano sofrido pelo ora agravado teria se dado por culpa exclusiva do mesmo, que não teria se identificado através de sua carteira de beneficiário do passe livre, portanto, o acórdão recorrido não teria analisado adequadamente a exclusão da responsabilidade objetiva da concessionário de serviço público, e também a aplicação da responsabilidade subjetiva.
+     O recurso extraordinário teve o seu seguimento negado na origem sob a alegação de se tratar de matéria que tem solução em normas infraconstitucionais.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A questão dos autos diz respeito a responsabilidade da concessionária de serviço de transporte público municipal pelos danos causados por seus funcionários que teriam recusado transportar pessoa deficiente beneficiária do passe livre porque acharam que o documento apresentado seria falso. Consta ainda que o ora agravado teria sofrido agressões, sendo certo que tanto a deficiência auditiva, quanto as agressões foram provadas documentalmente, além de haver testemunhas dos fatos alegados. A tese da agravante consiste na culpa exclusiva da vítima, afastando sua responsabilidade objetiva no caso em comento.
+    Ora, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor, verbis, “Para simples reexame de prova não cabe recurso extraordinário”.
+    Por oportuno, vale destacar preciosa lição de Roberto Rosas acerca da Súmula n. 279/STF, qual seja:
+    “Chiovenda nos dá os limites da distinção entre questão de fato e questão de direito. A questão de fato consiste em verificar se existem as circunstâncias com base nas quais deve o juiz, de acordo com a lei, considerar existentes determinados fatos concretos. A questão de direito consiste na focalização, primeiro, se a norma, a que o autor se refere, existe, como norma abstrata (Instituições de Direito Processual, 2a ed., v. I/175).
+    Não é estranha a qualificação jurídica dos fatos dados como provados ( RT 275/884 e 226/583). Já se refere a matéria de fato quando a decisão assenta no processo de livre convencimento do julgador (RE 64.051, Rel. Min. Djaci Falcão, RTJ 47/276); não cabe o recurso extraordinário quando o acórdão recorrido deu determinada qualificação jurídica a fatos delituosos e se pretende atribuir aos mesmos fatos outra configuração, quando essa pretensão exige reexame de provas (ERE 58.714, Relator para o acórdão o Min. Amaral Santos, RTJ 46/821). No processo penal, a verificação entre a qualificação de motivo fútil ou estado de embriaguez para a apenação importa matéria de fato, insuscetível de reexame no recurso extraordinário (RE 63.226, Rel. Min. Eloy da Rocha, RTJ 46/666).
+    A Súmula 279 é peremptória: Para simples reexame de prova não cabe recurso extraordinário. Não se vislumbraria a existência da questão federal motivadora do recurso extraordinário. O juiz dá a valoração mais conveniente aos elementos probatórios, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes. Não se confunda com o critério legal da valorização da prova (RTJ 37/480, 56/65) (Pestana de Aguiar, Comentários ao Código de Processo Civil, 2a ed., v. VI/40, Ed. RT; Castro Nunes, Teoria e Prática do Poder Judiciário, 1943, p. 383). V. Súmula 7 do STJ”. (in, Direito Sumular, 14ª ed. São Paulo, Malheiros).
+    Nesse sentido:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. ASSALTO NO INTERIOR DE TRANSPORTE COLETIVO INTERMUNICIPAL. DANOS MORAIS. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA STF 279.
+    1.A análise da indenização civil por danos morais reside no âmbito da legislação infraconstitucional. Precedentes.
+    2.Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal - responsabilidade extracontratual do Estado.
+    3.Agravo regimental improvido.” (RE 556.461-AgR, 2ª Turma, Dje de 24.04.09).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 2 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
