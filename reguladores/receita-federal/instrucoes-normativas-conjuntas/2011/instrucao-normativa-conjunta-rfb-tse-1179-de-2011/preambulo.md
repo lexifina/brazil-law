@@ -1,0 +1,3 @@
+Instrução Normativa Conjunta RFB / TSE nº 1179, de 2 de agosto de 2011
+Altera a Instrução Normativa RFB/TSE nº 1.019, de 10 de março de 2010, que dispõe sobre atos, perante o Cadastro Nacional da Pessoa Jurídica (CNPJ), dos comitês financeiros de partidos políticos e de candidatos a cargos eletivos, inclusive vices e suplentes.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL E A DIRETORA-GERAL DA SECRETARIA DO TRIBUNAL SUPERIOR ELEITORAL, no uso das atribuições que lhes conferem o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e o inciso I do art. 116 do Regulamento Interno da Secretaria do Tribunal Superior Eleitoral, resolvem:
