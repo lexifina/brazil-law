@@ -1,0 +1,20 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão do TJ/SP assim ementado:
+    “AÇÃO ORDINÁRIA – Anulação de ato administrativo e liberação de veículo – Apreensão de veículo efetuando transporte coletivo remunerado irregular – A sanção não comporta mitigação por não ter natureza de multa de trânsito, e sim por ser uma violação à prestação de serviço público sem a devida permissão – Liberação do veículo independente do pagamento da multa, porém condicionada ao pagamento da taxa de remoção e a trinta diárias de estadia – Recursos da Municipalidade e recurso do autor parcialmente providos” (fl. 131).
+    2. No RE, alega o Município de São Paulo afronta ao art. 30, V, da CF, sustentando, em síntese, o seguinte:
+    “O sistema de lotação como transporte remunerado de passageiros foi criado pela Lei Municipal 12.893/99, de 28.10.99, que estabeleceu as exigências a serem cumpridas pelos interessados para a obtenção do necessário cadastramento para a realização da atividade.
+    (…)
+    Estando o transportador realizando irregularmente o transporte na forma de lotação, sujeita-se ao poder de polícia administrativo municipal, com as sanções dele decorrentes – previstas em lei.
+    As sanções impostas pela Municipalidade são por ela previstas em lei, com base em distribuição constitucional de competência. Ao limitar o número de diárias a serem cobradas pela Municipalidade o v. Acórdão recorrido ofendeu a Constituição da República, pois subtraiu ao Município competência que lhe assegurou a Carta Magna” (fl. 160).
+          Ao final, pleiteia o provimento do apelo extremo para “afastar a limitação do número de diárias cobradas pela Municipalidade” (fl. 161).
+    3. A decisão agravada (fls. 177-178) negou trânsito ao apelo extremo por concluir que “a análise demandaria o exame de matéria infraconstitucional”.
+    4.  O recurso não merece prosperar. O Tribunal de origem, ao contrário do afirmado pelo recorrente, não decidiu a controvérsia envolvendo a redução de diárias para liberação de veículo, por afastar a competência do Município para regulamentar e fiscalizar o transporte de passageiros, nos termos do art. 30, I e V, da CF, mas por concluir não estar a Administração Municipal vinculada aos valores praticados pelo Estado e, ainda, por ausência de norma estadual que trate da matéria, nestes termos:
+     “Contrariamente a quanto afirma o autor, evidente o poder-dever da Municipalidade de regulamentar e fiscalizar o transporte de passageiros, o que se aduz pela letra do artigo 30 incisos I e V da Constituição da República, que declara ser do Município a competência para organizar o transporte coletivo local. E quem detém o poder regulamentar, fiscalizar e punir, por conseqüência também o pode deter para fixar os valores relativos aos serviços que presta pelo seu poder de polícia, remoção e estadia, não estando pois vinculada a Administração Municipal aos valores praticados pelo Estado eis que, aliás bem anotado na origem, inexiste norma estadual que cuide da matéria” (fls. 133-134).
+    5. Dessa forma, o recurso extraordinário encontra-se deficiente de fundamentação, nos termos da Súmula STF 284.
+    6. Ademais, está correta a decisão agravada, porquanto a pretensão do recorrente de ver aplicada, no caso, a Lei Municipal 11.037/91 – instituidora do Sistema Municipal de Transporte Público (fl. 159) – e a Lei Municipal 12.893/99 (fl. 160) encontra óbice na Súmula STF 280, o que impede também o trânsito do recurso extraordinário.
+          Nesse sentido, o AI 699.010/SP, rel. Min. Cármen Lúcia, DJe 21.02.2008, de cuja decisão destaco:
+    “6. Conforme reconhece o Agravante, a solução da controvérsia demandaria a análise da Lei n. 12.893/99 do Município de São Paulo, o que é vedado pela Súmula 280 do Supremo Tribunal Federal”.
+    7. Diante do exposto, nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+          Publique-se.
+          Brasília, 03 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
