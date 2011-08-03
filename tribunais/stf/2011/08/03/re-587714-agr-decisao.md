@@ -1,0 +1,15 @@
+Trata-se de agravo regimental contra decisão que negou seguimento ao recurso extraordinário, sob o fundamento de que não é lícito, em liquidação de sentença, nem em processo de execução, alterar os critérios dispostos na sentença exequenda para atualização dos cálculos elaborados em execução, sob pena de ofensa à coisa julgada.
+    A agravante sustenta, em suma, que a decisão agravada deve ser reformada, ao argumento de que esta Corte já firmou entendimento no sentido de que as normas contidas na Medida Provisória 2.180-35/2001 possuem natureza processual, o que ensejaria sua aplicação imediata, a partir de sua publicação, afastando, assim, o instituto da coisa julgada.
+    Reconsidero a decisão de fl. 257 e passo a examinar o recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão que, em embargos à execução de sentença contra a Fazenda Pública, entendeu serem devidos os juros de mora no no patamar de 1% ao mês.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal merece acolhida. Isso porque ambas as Turmas desta Corte fixaram entendimento no sentido de que a norma do art. 1º-F, da Lei 9.494/1997, modificada pela Medida Provisória 2.180-35/2001, é aplicável aos processos em curso. Confira-se:
+    “EMENTA: AGRAVO DE INSTRUMENTO – CONDENAÇÃO JUDICIAL – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – VERBAS REMUNERATÓRIAS DEVIDAS A SERVIDORES E EMPREGADOS PÚBLICOS – LIMITAÇÃO DOS JUROS DE MORA EM 6% (SEIS POR CENTO) AO ANO – VALIDADE JURÍDICO-CONSTITUCIONAL DO ART. 1º-F DA LEI Nº 9.494/97, NA REDAÇÃO DADA PELA MP Nº 2.180-35/2001 – POSSIBILIDADE DE SUA APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO – ENTENDIMENTO PREVALECENTE NO STF – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO” (AI 791.897-AgR/RS, Segunda Turma, Rel. Min. Celso de Mello).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. CONSTITUCIONALIDADE DO ART. 1º-F DA LEI N. 9.494/1997. APLICAÇÃO IMEDIATA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 828.778-AgR/RS, Primeira Turma, Rel. Min. Cármen Lúcia).
+    No mesmo sentido, destaco as seguintes decisões, entre outras: AI 837.443-ED/PE, Rel. Min. Gilmar Mendes; RE 559.445-AgR/PR, Rel. Min. Ellen Gracie, AI 771.555-AgR/RS, de minha relatoria.
+     Assim, aplica-se a Medida Provisória 2.180-35, de 24 de agosto de 2001, ao presente caso, em razão de sua natureza processual, ainda que a ação principal tenha sido ajuizada antes do início da vigência de tal comando normativo, por força do princípio do tempus regit actum.
+    Isso posto, reconsidero a decisão de fl. 257 e, com base no art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para fixar os juros de mora em 6% ao ano a partir da vigência da MP 2.180/2001. Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 3 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
