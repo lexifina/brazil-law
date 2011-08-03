@@ -1,0 +1,22 @@
+Decisão: Trata-se de embargos de divergência opostos contra acórdão da Egrégia Primeira Turma assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO PROFERIDO COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL E NO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (DJe 20.5.2011).
+    A embargante aduz que esse julgado teria divergido de acórdão da Segunda Turma, RE 215.984, Rel. Min. Carlos Velloso, Segunda Turma, DJ 28.6.2002, condensado na seguinte ementa:
+    “CONSTITUCIONAL. DANO MORAL: FOTOGRAFIA: PUBLICAÇÃO NÃO CONSENTIDA: INDENIZAÇÃO: CUMULAÇÃO COM O DANO MATERIAL: POSSIBILIDADE. Constituição Federal, art. 5º, X. I. Para a reparação do dano moral não se exige a ocorrência de ofensa à reputação do indivíduo. O que acontece é que, de regra, a publicação da fotografia de alguém, com intuito comercial ou não, causa desconforto, aborrecimento ou constrangimento, não importando o tamanho desse desconforto, desse aborrecimento ou desse constrangimento. Desde que ele exista, há o dano moral, que deve ser reparado, manda a Constituição, art. 5º, X. II. - R.E. conhecido e provido”.
+    Prosseguindo, em suma, sustenta:
+    “A fotografia da revista em questão foi retirada pelos profissionais da recorrente, sendo portanto, um material de sua produção que chegou a ser utilizado no convite de formatura do recorrido, logo uma foto selecionada para a revista a fim de revelar ao público exclusivo ramo de formatura o serviço de foto e vídeo que empresa realiza nos eventos” (fl. 174).
+    Decido.
+    O recurso não reúne condições de transitar.
+    No caso, o embargante, para demonstrar o suposto dissenso jurisprudencial, não se desincumbiu do ônus de proceder ao cotejo analítico entre o acórdão embargado e o paradigma invocado.
+    Com efeito, à luz de firme jurisprudência deste Supremo Tribunal Federal, não restou atendido requisito preconizado no artigo 331, caput, do RISTF, que impõe a demonstração da divergência, “mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados”.
+    Sobre esse aspecto, entre outros, confiram-se: AI-AgR-ED-EDv-AgR 746.185, de minha relatoria, Tribunal Pleno, DJe 9.3.2011; AI-AgR-AgR-ED-EDv-AgR 609.855, Rel. Min. Ellen Gracie, Tribunal Pleno, DJe 28.5.2010; RE-EDv-ED-AgR 247.416, Rel. Min. Celso de Mello, Tribunal Pleno, DJ 24.11.2000. Da ementa deste último, extrai-se:
+    “ DESCUMPRIMENTO, PELA PARTE EMBARGANTE, DO DEVER PROCESSUAL DE PROCEDER AO CONFRONTO ANALÍTICO ENTRE O ACÓRDÃO DADO COMO DIVERGENTE E A DECISÃO EMBARGADA - INSUFICIÊNCIA DA MERA TRANSCRIÇÃO DA EMENTA DO ACÓRDÃO PARADIGMA – PRECEDENTES (...)” .
+     Ademais, vê-se que os acórdãos contrapostos não se referem ao mesmo plano decisório, sendo certo que, diferentemente do paradigma invocado, o embargado sequer avançou sobre o mérito, circunstância que de per se já afasta a verificação de dissenso.
+     Nesse sentido, destaquem-se os seguintes julgados: RE-EDv 148.858, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 7.8.2009, e AI-AgR-ED-EDv-AgR 506019, Rel. Min. Eros Grau, Tribunal Pleno,DJe 6.8.2010, que foi assim resumido:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NÃO-CABIMENTO. 1. Cabem embargos de divergência quando o acórdão atacado analisa o mérito do recurso extraordinário. 2. Incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão. Agravo regimental a que se nega provimento” (grifei).
+    Aliás, a vocação jurídico-processual dos embargos de divergência, apesar de possibilitar a modificação do acórdão embargado quando prevalece o entendimento de paradigma antagonizante, exclui qualquer pretensão de reexaminar a questão deduzida, mormente quando esta reclamar o revolvimento de aspectos fáticos-probatórios, como sói ocorrer em tema de indenização por dano moral.
+     Ante o exposto, por serem manifestamente inadmissíveis, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento aos embargos de divergência.
+    Publique-se.
+    Brasília, 3 de agosto de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
