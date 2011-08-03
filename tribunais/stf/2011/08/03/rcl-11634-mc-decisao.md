@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, em face do Tribunal de Justiça estadual, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Súmula Vinculante nº 10.
+    O reclamante sustenta, em síntese, que a Quinta Câmara Criminal daquele Tribunal de Justiça, ao deixar de aplicar o disposto nos art. 52 da Lei nº 7.210/84, com a redação da Lei nº 10.792/03, sem a observância da cláusula de reserva de plenário (art. 97 da Constituição Federal), violou o entendimento desta Suprema Corte consubstanciado na Súmula Vinculante nº 10. Aduz, para tanto, que:
+    “(...)
+    O acórdão recorrido deixou de aplicar o artigo 52, caput, da LEP, com a redação da Lei n.° 10.792/03, por entender que esse dispositivo viola o princípio da presunção de inocência, como se observa da ementa da decisão que apreciou o agravo em execução (fl. 85):
+    ‘Execução penal. Falta grave. 1. Desnecessidade de PAD para apurar a falta grave prevista no art. 52 da LEP (cometimento de fato previsto como crime doloso). 2. Reconhecimento de falta grave pela prática de fato previsto como crime doloso, por força do princípio constitucional da presunção de inocência, reclama sentença condenatória transitada em julgado. Agravo improvido. Unânime.’
+    Ocorre que, como é sabido, é vedado aos órgãos fracionários dos Tribunais Estaduais, por força da cláusula de reserva de plenário (full bench) do artigo 97 da Constituição Federal de 1988, proceder ao controle de constitucionalidade de dispositivos legais editados sob a sua égide – como é o caso do aludido artigo 52, caput, da LEP – sem a instauração do incidente disciplinado pelos artigos 480, 481 e 482 do Código de Processo Civil.
+    E, com a vênia da fundamentação do acórdão analisado, não se cuida de hipótese de interpretação conforme a Constituição.
+    A interpretação conforme a Constituição, como é sabido, dá-se quando um dispositivo legal somente se reveste de validade constitucional com a atribuição de um determinado sentido, ou seja, quando se deve adicionar ao texto um sentido determinado que garanta a sua compatibilidade com o ordenamento constitucional.
+    Contudo, a interpretação conforme a Constituição deve respeitar os limites semânticos do próprio texto, o que não foi observado pela Câmara julgadora no caso dos autos.
+    Ocorre que a decisão que deixar de aplicar parte de um dispositivo legal, a pretexto de proceder à sua interpretação conforme, de fato, leva a efeito a declaração de inconstitucionalidade parcial, com redução de texto, que reclama a instauração de incidente de inconstitucionalidade.
+    Ora, o texto legal ‘a prática de fato previsto como crime doloso constitui falta grave’, constante do caput do artigo 52 da LEP, não autoriza a interpretação no sentido de que ‘a condenação pela prática de crime doloso transitada em julgado constitui falta grave’, como se extrai do acórdão recorrido, sob pena de a norma sobrepujar os limites semânticos do texto, a pretexto de lhe adicionar sentido.
+    Ou seja, o texto ‘a prática de fato previsto como crime doloso’ não pode ser interpretado como ‘condenação pela prática de crime doloso transitada em julgado’, o que parece bastante simples, devendo-se, portanto, proceder como rigorosamente determina o artigo 97 da Magna Carta, mediante a instauração de incidente de inconstitucionalidade desse dispositivo, por ser a única forma de o Tribunal de Justiça, deixar de aplicar o aludido texto legal.
+    Assim, em se entendendo parcialmente nula a determinação legal no sentido de que a prática de fatos previstos como crimes dolosos constituem falta grave – nos exatos termos do artigo 52, caput, da LEP –, necessária a instauração de incidente de inconstitucionalidade para expungi-la do ordenamento jurídico, não se podendo, simplesmente, deixar de aplicar a legislação vigente.
+    Do exposto, resulta que a decisão emitida pelo Colegiado deixou de observar a Súmula Vinculante n.° 10 do STF, o que autoriza o ajuizamento da presente reclamação” (fls. 2 a 4 da inicial).
+    Essa é a razão pela qual se insurge o reclamante neste incidente.
+    Requer, liminarmente, “a cassação da decisão que afastou a aplicação do artigo 52, caput, da LEP – com a redação da Lei n.° 10.792/03 –, para a devida instauração de incidente de inconstitucionalidade (...)” e, no mérito, pede confirmação.
+    Determinei a emenda da inicial, por ausência de indicação do valor da causa, o que foi atendido tempestivamente.
+    Examinados os autos, decido.
+    O Plenário desta Suprema Corte, em 18/6/08, no julgamento do RE nº 482.090/SP, Relator o Ministro Joaquim Barbosa, interposto contra acórdão de Turma do Superior Tribunal de Justiça, que afastou a incidência da Lei Complementar nº 118/05, sem a observância da cláusula de reserva de plenário, firmou entendimento no sentido de que se reputa “declaratório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios diversos alegadamente extraídos da Constituição”.
+    Concluiu o Plenário pelo provimento do recurso para reformar o acórdão atacado e determinar o retorno dos autos ao Tribunal de origem para que fosse observada a norma do art. 97 da Constituição Federal.
+    Ressaltou-se, também, que essa orientação se aplicava aos casos nos quais, após a prolação do acórdão recorrido, o Tribunal de origem, por meio de seu Pleno ou de sua Corte Especial, haja declarado a inconstitucionalidade da norma legal impugnada.
+    Nessa hipótese, incidiria a norma do art. 481, parágrafo único, do Código de Processo Civil. Nessa mesma sessão foi aprovada a Súmula Vinculante nº 10 deste Tribunal, com a seguinte redação:
+    “Viola a cláusula de reserva de Plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência no todo ou em parte”
+    A situação demonstrada na presente reclamação, em exame preliminar, assemelha-se ao teor da Súmula Vinculante nº 10 desta Corte.
+    Diante desse quadro, defiro o pedido de liminar, tão somente, para suspender o curso do processo em que proferida a decisão reclamada.
+    Comunique-se, solicitando informações à autoridade reclamada (art. 157 do RISTF), inclusive para que informe se houve eventual manifestação de seu órgão especial ou do tribunal pleno acerca da inconstitucionalidade da norma em questão.
+    Publique-se.
+    Brasília, 3 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
