@@ -1,0 +1,18 @@
+DECISÃO
+    Vistos.
+    Trata-se de recurso extraordinário fundado na alínea “a” do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região, segundo o qual os valores tomados à título de empréstimo compulsório sobre o consumo de energia elétrica devem ser devolvidos ao contribuinte com atualização integral e que a União Federal, por força do disposto no § 3º do art. 4º da Lei n.º 4.156/62, é responsável solidária, juntamente com a Eletrobrás, na devolução dos valores cobrados. (fls. 371/372)
+    A União alega ter o acórdão recorrido contrariado o artigo 2; 5, II; 22, VI e 150, § 4 da Constituição Federal e o artigo 34, § 12 do Ato das Disposições Constitucionais Transitórias. Argumenta que a correção monetária aplicada é inconstitucional.
+    Decido.
+    A irresignação não merece prosperar.
+    A Corte possui entendimento pacífico no sentido de que, no caso em apreço, eventuais ofensas à constituição seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais. Nesse sentido:
+    1. Empréstimo compulsório sobre energia elétrica instituído pela L. 4.156/61: exigibilidade, nos termos do art. 34, § 12, ADCT ( RE 146.615, Corrêa, Pleno, 30.6.95). 2. Recurso extraordinário: descabimento: questões relativas ao prazo de prescrição dos créditos da agravada, à incidência da correção monetária, aos juros e à taxa Selic, de âmbito infraconstitucional; alegada ofensa aos dispositivos constitucionais dados como violados, que, se houvesse, seria indireta ou reflexa: incidência do princípio da Súmula 636. 3. Agravo regimental manifestamente infundado: condenação da agravada ao pagamento de multa, nos termos do art. 557, § 2º, C.Pr.Civil. ( AI 618.070/RS-AgR, Ministro Sepúlveda Pertence, 1ª Turma, Dj de 2/3/07)
+    EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA EM BENEFÍCIO DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A. (ELETROBRÁS). LEI 4.156/1962. ADCT, ART. 34, § 12. O Plenário do Supremo Tribunal Federal reconheceu que a regra prevista no art. 34, § 12, do ADCT preservou a exigibilidade do empréstimo compulsório instituído pela Lei 4.156/1962, com as alterações posteriores, até o exercício de 1993. DEVOLUÇÃO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. EXAME DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento. (AI 591.381/SC-Agr, Ministro Joaquim Barbosa , 2ª Turma, Dj de 6/3/09)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RESTITUIÇÃO. LEGITIMIDADE AD CAUSAM DA UNIÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE nº 583.117/PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 25/9/09).
+    Ademais, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 735.933/RS, Relator o Ministro Gilmar Mendes , concluiu pela ausência da repercussão geral da matéria constitucional referente à correção monetária nos casos de restituição do empréstimo compulsório sobre o consumo de energia elétrica. A decisão do plenário está assim ementada:
+    EMPRÉSTIMO COMPULSÓRIO SOBRE CONSUMO DE ENERGIA ELÉTRICA. Lei 4.156/62. RESTITUIÇÃO. CRITÉRIOS DE CORREÇÃO MONETÁRIA. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. (Dje nº 235, publicado em 06/12/2010)
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
