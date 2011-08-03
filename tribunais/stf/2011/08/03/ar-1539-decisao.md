@@ -1,0 +1,21 @@
+DECISÃO: vistos, etc.
+    Trata-se de ação rescisória, proposta pela União, com base no inciso V do art. 485 do CPC, objetivando a desconstituição do acórdão proferido pela Segunda Turma desta nossa Casa de Justiça, no julgamento do RE 168.696 (sob a relatoria do ministro Carlos Velloso). Acórdão assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. FINSOCIAL. LEI Nº 7.689/88, ART. 9º. D.L. 1.940/82. INCONSTITUCIONALIDADE DO ART. 9ª DA LEI 7.689/88. VIGÊNCIA DO D.L. 1.940/82, COM AS ALTERAÇÕES HAVIDAS ANTERIORMENTE À CF/88, ATÉ A EDIÇÃO DA LEI COMPLEMENTAR Nº 70, DE 1991.
+    I. – O Supremo Tribunal Federal declarou a inconstitucionalidade do art. 9º da Lei 7.689, de 15.12.88, do art. 7º da Lei 7.787, de 30.06.89, do art. 1º da Lei 7.894, de 24.11.89 e do art. 1º da Lei 8.147, de 28.12.90, ficando esclarecido que o D.L. 1.940/82, com as alterações havidas anteriormente à CF/88, continuou em vigor até a edição da Lei Complementar nº 70, de 1991. Quer dizer, até a edição da Lei Complementar nº 70/91, o FINSOCIAL seria cobrado na forma do D.L. 1.940/82, com as alterações havidas anteriormente à CF/88.
+    II. – RE nº 150.764-PE, Relator p/ acórdão Ministro Marco Aurélio, “DJ” de 02.04.93.
+    III. - R.E. conhecido (alínea “b”), mas não provido.”
+    2. Pois bem, a autora afirma que houve violação literal ao inciso I do art. 195 da Constituição Federal, ao art. 56 do ADCT, ao art. 7º da Lei 7.787/1989, ao art. 1º da Lei 7.894/1989 e ao art. 1º da Lei 8.147/1990. Sustenta, em síntese, a validade constitucional das majorações de alíquota do FINSOCIAL quanto às empresas unicamente prestadoras de serviço.
+    3. Regularmente citada, a empresa contribuinte não apresentou contestação (fls. 158-167).
+    4. Sobreveio, então, o despacho saneador (fls. 306), por meio do qual as partes foram intimadas para apresentar razões finais. Em resposta, a União ratificou os termos da inicial, e a empresa contribuinte se manifestou pela improcedência da ação (fls. 318/321).
+    5. Deu-se que a Procuradoria-Geral da República, em parecer da lavra do à época Procurador-Geral Geraldo Brindeiro, opinou pela procedência do pedido.
+    6. Ultimado esse resumo dos acontecimentos, passo a decidir. De saída, relembro que, quando foi proferido o acórdão que a União busca rescindir, havia, no âmbito do Supremo Tribunal Federal, divergência jurisprudencial acerca da questão de fundo discutida na presente ação.
+    7. Isso não obstante, tenho que a ação em exame comporta seguimento. É que, nos termos da jurisprudência desta nossa Casa de Justiça, não se aplica aos casos como o presente (que envolve interpretação controvertida de matéria de índole constitucional) a Súmula 343/STF. Súmula cuja dicção é a seguinte:
+    “ Não cabe ação rescisória por ofensa a literal dispositivo de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais” .
+    8. Leia-se, nesse mesmo sentido, entre outros, o RE 328.812-AgR, da relatoria do ministro Gilmar Mendes.
+    9. Feito esse esclarecimento, anoto que a mencionada divergência jurisprudencial teve fim com o julgamento, pelo Plenário deste Tribunal, do RE 187.436, da relatoria do ministro Marco Aurélio. Julgamento em que foi assentada a constitucionalidade das majorações de alíquota do Finsocial de que tratam as Leis 7.787/1989, 7.894/1989 e 8.147/1990, no tocante às empresas exclusivamente prestadoras de serviços (como é o caso da parte ré).
+    10. Na esteira desse entendimento, o Plenário julgou procedente ação rescisória ajuizada pela União com o objetivo de desconstituir acórdão que deixara de aplicar as mencionadas majorações de alíquota a empresa exclusivamente prestadora de serviços. Refiro-me à Ação Rescisória 1.409, da relatoria da ministra Ellen Gracie (Sessão de 26/03/2009). Naquela ocasião, o Tribunal, resolvendo questão de ordem, autorizou os relatores a julgar monocraticamente ações rescisórias que versem sobre a mesma controvérsia.
+    Nessa contextura, julgo procedente a ação. O que faço para rescindir o acórdão proferido no RE 168.696 e dar provimento ao apelo extremo interposto pela União. Condeno a empresa contribuinte ao pagamento das custas e da verba honorária, que fixo em 10% (dez por cento) do valor da condenação.
+    Publique-se.
+    Brasília, 03 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
