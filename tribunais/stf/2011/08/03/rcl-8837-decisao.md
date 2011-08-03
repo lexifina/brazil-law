@@ -1,0 +1,12 @@
+DECISÃO
+RECLAMAÇÃO – PEDIDO MANIFESTAMENTE IMPROCEDENTE – NEGATIVA DE SEQUÊNCIA.
+    1. O Estado de São Paulo formalizou esta reclamação considerada a decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395-6/DF. Visa suspender mandado de segurança em trâmite na 8ª Vara do Trabalho de São Paulo/SP, impetrado com o objetivo de reintegrar empregada pública, demitida por justa causa em razão do abandono de emprego, com fundamento no artigo 482, alínea “i”, da Consolidação das Leis do Trabalho, combinado com o artigo 256, inciso I e parágrafo único, da Lei estadual nº 10.261/68.
+    Discorre sobre o tema de fundo do processo, apontando o descompasso com a medida acauteladora deferida na mencionada ação direta de inconstitucionalidade, da relatoria do Ministro Cezar Peluso. Segundo aduz, a Justiça do Trabalho não tem competência para apreciar matéria que envolva relação jurídica caracterizada como administrativa. Diz do equívoco da menção à Consolidação das Leis do Trabalho no contrato da impetrante, porquanto a verdadeira natureza é de contratação temporária por excepcional interesse público, ou seja, o vínculo é administrativo, e não trabalhista.
+    Embora devidamente intimadas, não houve manifestação da interessada e da autoridade reclamada.
+    2. Não concorre a pertinência do pleito. A liminar concedida na citada ação direta de inconstitucionalidade ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Carta Federal, na redação dada pela Emenda Constitucional nº 45/2004, que implique reconhecimento da competência da Justiça do Trabalho para apreciar conflitos atinentes a regime especial, de caráter jurídico-administrativo. Conforme se depreende dos documentos juntados ao processo, há, em síntese, o envolvimento de conflito trabalhista, presente a articulação, como causa de pedir, da regência do vínculo pela Consolidação das Leis do Trabalho.
+    Observem que o ato administrativo impugnado no mandado de segurança teve como fundamento a Consolidação das Leis do Trabalho, que é aplicável somente em relações típicas de emprego. A par desse aspecto, as peças anexadas ao processo (folha 18 a 20) revelam o caráter trabalhista da relação existente entre o Estado de São Paulo e Gilda Almeida Souza.
+    3. Ante o disposto no artigo 21, § 1º, do Regimento Interno do Supremo, nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 3 de agosto de 2011.
+Ministro MARCO AURÉLIO
+Relator
