@@ -1,0 +1,13 @@
+1.  Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual negou provimento à apelação e entendeu pela legalidade da multa aplicada pelo Instituto de Metrologia, Normatização e Qualidade e Industrial – INMETRO.
+          No RE, sustenta-se ofensa aos artigos 5º, II, LIV, LV, XXXV, da Constituição Federal.
+    2. O recurso não merece prosperar. Preliminarmente, verifico que, com exceção do art. 5º, LV, da CF, os dispositivos aos quais se alegou violação não se encontram prequestionados, porque não abordados pelo acórdão recorrido, nem opostos embargos de declaração para satisfazer o requisito do prequestionamento. Incidem, na espécie, portanto, as Súmulas STF 282 e 356.
+    3. Ademais, constato que para o exame das violações alegadas seria necessária a análise de fatos e provas (Súmulas STF 279) e de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+          Nesse sentido, cito o AI 738.912-AgR/MG, rel. Min. Cármem Lúcia, 1ª Turma, DJe 23.5.2011, AI 763.293-AgR/ES, rel. Min. Eros Grau, 2ª Turma, DJe 20.11.2009 e o AI 731.897-AgR/RJ, rel. Min. Cármem Lúcia, 1ª Turma, DJe 15.5.2009, este último assim ementado:
+     “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ALEGAÇÃO DE NULIDADE DE AUTO DE INFRAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+    4.  Quanto às alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+          Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+    5.  Ante o exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 04 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
