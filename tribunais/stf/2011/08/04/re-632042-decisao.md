@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTROVÉRSIA SOBRE A POSSIBILIDADE DE REPETIÇÃO DA CONTRIBUIÇÃO PARA O CUSTEIO DE ASSISTÊNCIA MÉDICA INSTITUÍDA PELA LEI N. 7.672/1982 DO RIO GRANDE DO SUL: INEXISTÊNCIA DE REPERCUSSÃO GERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra julgado do Tribunal de Justiça do Rio Grande do Sul, que julgou improcedente pedido de repetição de valores (3,6%) descontados dos proventos do Recorrente a título de Contribuição para o Custeio de Assistência à Saúde (Lei gaúcha n. 7.672/1982), sob os fundamentos de que não teria havido pedido expresso de desligamento do plano de assistência e os respectivos serviços teriam sido prestados ou postos à disposição de todos os beneficiários.
+    2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 40, § 12, 149, § 1º, e 195, inc. II, da Constituição da República.
+    Alega que teria direito à repetição da totalidade do desconto instituído pela Lei n. 7.672/1982 do Estado do Rio Grande do Sul, “nos termos do entendimento assentado pelo c. Supremo Tribunal Federal, que entendeu ser indevida a contribuição compulsória destinada à assistência médica incidente sobre os proventos dos servidores públicos estaduais inativos” (fl. 146 – grifos nossos).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Este Supremo Tribunal assentou a natureza infraconstitucional e a inexistência de repercussão geral da questão relativa à possibilidade, ou não, de repetição dos valores pagos a título de Contribuição para o Custeio de Assistência Médica (Lei gaúcha n. 7.672/1982):
+    “1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça do Rio Grande do Sul que decidiu pela impossibilidade de se restituir aos servidores públicos estaduais percentual de contribuição previdenciária destinada à assistência médica e descontado compulsoriamente. Consta da ementa:
+    'APELAÇÃO CIVIL. SERVIDOR INATIVO. CONTRIBUIÇÃO PREVIDENCIÁRIA. RESTITUIÇÃO DE 9%. CONDENAÇÃO À RESTITUIÇÃO TÃO SOMENTE DOS 5,4%.
+    I - No que concerne à contribuição destinada à assistência médica efetuada no percentual de 3,6 pontos, prevista pelo art. 43, a, da Lei Estadual n. 7.672/82, tenho que o referido desconto tem natureza jurídica diversa da contribuição previdenciária de 5,4%, embora componha a montante contributivo de 9% previsto como contribuição una na Lei Estadual n. 7.672/82. Enquanto um se destinava ao custeio da previdência social, com caráter, portanto, nitidamente previdenciário, o outro se destina à manutenção e prestação de serviços médicos, caracterizando clara contraprestação pelo oferecimento do plano de saúde IPÊ-SAÚDE.
+    Assim, o mesmo raciocínio aplicável às diversas ações que se discute a devolução das contribuições do Fundo de Assistência à Saúde criado pela Lei Estadual nº 12.066/2004 pode ser utilizada neste caso, isto é, o direito à saúde é direito universal, razão pela qual o Estado e suas autarquias, embora possam oferecer plano de saúde capaz de atender as necessidades médicas de seus servidores, não podem fazê-lo com caráter obrigatório.
+    A repetição dos valores, entretanto, somente procede se o servidor manifestou inequívoca desvinculação do plano, deixando de usufruir dos serviços médicos. Descabida a restituição após o período de tempo longo em que a parte autora, se não usufruiu, teve à suas disposição a prestação assistencial (...)'.
+    Sustenta o recorrente, com base no art. 102, III, a e c, violação dos artigos 195, II; 40, § 12º e 149, § 1º, da Constituição Federal. Requer, em síntese, que seja dado provimento ao recurso extraordinário para determinar a devolução dos valores descontados compulsoriamente a título de contribuição previdenciária, correspondente ao valor de 3,6% (...).
+    2. Não há questão constitucional.
+    A questão suscitada neste recurso versa somente sobre o direito de os servidores públicos estaduais serem restituídos dos valores descontados compulsoriamente a título de contribuição previdenciária.
+    Registre-se que o Supremo Tribunal Federal, na ADI 3106 / MG, Min. Rel. Eros Grau, Dje de 24/9/2010, e no RE 573.540 / MG, Min Rel. Gilmar Mendes, Dje de 11/6/2010, deixou assentada a inconstitucionalidade de norma estadual que cria contribuição compulsória destinada à assistência médica de servidor público.
+    Desta forma, a restituição de valores descontados compulsoriamente, previstos em norma declarada inconstitucional, é matéria de índole infraconstitucional e deve ser decidida pelo juízo da execução do título.
+    Verifica-se, portanto, que o acórdão impugnado, no particular, decidiu a causa com base em legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta” (RE 633.329, Rel. Min. Cezar Peluso, Plenário Virtual, manifestação de 6.5.2011 – grifos nossos).
+    5. Nada há, pois, a prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
