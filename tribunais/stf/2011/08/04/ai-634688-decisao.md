@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Banco do Brasil S.A. (Incorporador do Banco Nossa Caixa S.A.) interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXVI e LV, 93, inciso IX, e 96, incisos I e II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara do extinto Tribunal de Alçada Civil do Estado de São Paulo, assim ementado:
+    “CONDIÇÕES DA AÇÃO – Mandado de segurança – Impossibilidade jurídica do pedido – Instrução do feito suficiente para a verificação da violação ou não de direito líquido e certo da impetrante – Desnecessária de produção de provas – Impetração tempestiva, eis que dentro do prazo do art. 18 da Lei 1.533/51 – legitimidade ativa caracterizada, eis que a impetrante é cônjuge do proprietário de alguns dos bens imóveis arrematados – Preliminares afastadas.
+    COMPETÊNCIA – Foro privilegiado – Instituição bancária – Nossa Caixa Nosso Banco S/A – Sociedade de economia mista – Realização de atividades objetivando o lucro na aplicação de recursos financeiros – Inexistência de prerrogativa para utilização do foro privativo de Fazenda Pública – Jurisprudência consolidada – incompetência absoluta que constitui matéria de ordem pública podendo ser argüida a qualquer tempo e grau de jurisdição – Mandado de segurança visando a suspensão da arrematação – Admissibilidade – Segurança concedida, restando prejudicada a análise das demais questões suscitadas pela impetrante” (fl. 625).
+    Opostos embargos de declaração (fls. 634 a 643), foram rejeitados (fls. 648/649).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 10/1/06, como expresso na certidão de folha 651, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar.
+    No que se refere aos artigos 5º, inciso LV, e 93, inciso IX, da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    No tocante às demais alegações, acórdão atacado se limitou a aplicar a legislação infraconstitucional pertinente ao caso. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “PROCESSUAL CIVIL E DO TRABALHO. COMPETÊNCIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - Questão decidida com base na legislação infraconstitucional (Código de Processo Civil). Eventual ofensa à Constituição, se ocorrente, seria indireta. II - Agravo regimental improvido” (RE nº 572.956/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 24/9/10).
+    Ressalte-se, por fim, que o acórdão recorrido consignou que “apesar de ter a NOSSA CAIXA NOSSO BANCO 'in casu', o seu foro fixado nesta Capital, não tem a natureza jurídica de empresa pública, ante a mudança estrutural pela qual passou a CAIXA ECONÔMICA ESTADUAL S/A, eis que sociedade de economia mista, portanto pessoas jurídica de direito privado” (fl. 626). Essa orientação não diverge do teor da jurisprudência da Corte. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA. Súmula 556 STF. C.F., art. 170, § 1º, ou art. 170, § 1º, II, EC 19/98. I. - É competente a justiça comum para julgar as causas em que é parte sociedade de economia mista, cujo foro é o das empresas privadas e não o foro da Fazenda Pública. Súmula 556. STF. CF, art. 173, § 1º, ou art. 173, § 1º, II, CF, com a EC 19/98. II. - Agravo não provido” (AI nº 337.615/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/2/02).
+    Nego provimento ao agravo.
+    Publique-se.
+    Brasília, 4 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
