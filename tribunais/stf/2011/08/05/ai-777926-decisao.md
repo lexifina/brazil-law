@@ -1,0 +1,23 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário manejado contra acórdão (fls. 66-79) proferido pelo TJ/DF assim ementado:
+    “AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL CUMULADA COM DEVOLUÇÃO DE PARCELAS PAGAS – RESCISÃO CONTRATUAL – RETORNO DAS PARTES AO STATUS QUO ANTE.
+    I – A validade do ato jurídico reclama agente capaz, objeto lícito e forma prescrita ou não defesa em lei. Padecendo de ilicitude o objeto impõe-se a rescisão do contrato celebrado entre as partes, voltando estas ao status quo ante.
+    II – Recurso conhecido e não provido. Maioria” (fl. 66).
+    2. No RE, sustenta-se ofensa aos artigos 5º, II, LIV, LV, e 93, IX, da CF.
+    3. O recurso não merece prosperar. Preliminarmente, verifico que os dispositivos acima mencionados não foram prequestionados, porque não abordados no acórdão recorrido, ao qual não foram opostos embargos de declaração.
+          Ademais, a jurisprudência sedimentada desta Corte não admite, em princípio, o chamado “prequestionamento implícito”. Nesse sentido, colaciono, entre muitos outros, os seguintes julgados: AI 508.555-AgR/MG, rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 14.10.2005; RE 217.849-AgR/ES, rel. Min. Eros Grau, 1 ª Turma, DJ 05.8.2005; AI 413.963-AgR/SC, rel. Min. Celso de Mello, 2ª Turma, DJ 1º.4.2005; e AI 253.566-AgR/RS, 1ª Turma, rel. Min. Sepúlveda Pertence, DJ 03.3.2000.
+    4. Dessa forma, não basta apenas apontar, na petição do apelo extremo, os dispositivos constitucionais dados como contrariados, para se ter como preenchido tal pressuposto.
+          Veja-se, a propósito, o AI 696.326-AgR/DF, de minha relatoria, 2ª Turma, unânime, DJe 21.05.2010, assim ementado:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ARTIGOS 5º, LIV E LV; 6º; E 93, IX, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356.
+    1. O artigo 6º da Constituição Federal não se encontra prequestionado, porque, embora suscitado nos embargos de declaração opostos, não foi argüido nas razões do recurso interposto perante o Tribunal a quo.
+    2. Os artigos 5º, LIV e LV, e 93, IX, sequer foram suscitados nos embargos de declaração. Se a alegada ofensa à Constituição surge com a prolação do acórdão proferido em embargos de declaração, impõe-se a oposição de novos embargos declaratórios, a fim de que seja suprido o requisito do prequestionamento.
+    3. Agravo regimental improvido”.
+    5. Verifico, ainda, que, para o exame da alegada ofensa à CF, seriam necessários o reexame de fatos e provas (Súmula STF 279) e a análise de legislação infraconstitucional, hipóteses inviáveis em sede extraordinária.
+    6. Ademais, quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, devido processo legal, contraditório, ampla defesa –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário.
+          Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+    7.  Por fim, no que tange à suposta ofensa ao artigo 93, IX, da CF/88, verifico que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, de minha relatoria, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074-AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+          Sobre o assunto, ressalte-se, ainda, que esta Corte tem o seguinte entendimento: “o que a Constituição exige, no inc. IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada” (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, DJe 13.08.2010.
+    8.  Ante o exposto, nego seguimento ao agravo de instrumento.
+          Publique-se.
+          Brasília, 05 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
