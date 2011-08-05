@@ -1,0 +1,12 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário interposto contra acórdão o qual negara provimento aos embargos infringentes em ação rescisória, em que se discutiu a competência para seu julgamento e a decadência para a emenda de sua petição inicial.
+          No RE, sustenta-se ofensa ao artigo 5º, LIV, da Constituição Federal.
+    2. O Ministério Público Federal opinou pela negativa de seguimento do presente agravo (fls. 1.846-1.849).
+    3. O recurso não merece prosperar. Quanto às alegações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, a jurisprudência desta Corte está sedimentada no sentido de que podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Nesse sentido: AI 372.358-AgR/SP, Rel. Min. Celso de Mello, 2ª Turma, unânime, DJ 26.06.2002; RE 461.286-AgR/MS, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJ 15.9.2006; AI 682.065-AgR/RS, rel. Min. Eros Grau, 2ª Turma, unânime, DJe 04.04.2008; e AI 662.319-AgR/RR, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 06.03.2009.
+          Ademais, destaco do parecer do Ministério Público Federal:
+    “Cumpre observar, neste sentido, que pacífico o entendimento dessa Suprema Corte no sentido de que as alegações de desrespeito ao postulado do devido processo legal podem configura, quando muito, situação de ofensa meramente reflexa ao texto da Constituição, não viabilizando, portanto, o apelo extremo
+    Ademais, as teses suscitadas pelos agravantes/recorrentes, que, como exposto na decisão de inadmissão, referem-se a ‘campos do direito processual, como os limites dos poderes instrutórios do juiz, adstrição/correlação (art. 128 e art. 460 do CPC), decadência (207 do Código Civil), princípio da isonomia (inciso I do art. 125 do CPC), dentre outros’, além de, como dito, não prescindirem do prévio exame de normas ordinárias, restaram precluas, nos termos do enunciado da Súmula/STF nº 283, com o trânsito do aresto proferido pelo colendo Superior Tribunal de Justiça.”
+    4. Ante o exposto, nego seguimento ao recurso (art. 557, caput, do CPC).
+          Publique-se.
+          Brasília, 05 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
