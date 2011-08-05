@@ -1,0 +1,19 @@
+1. Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de MARCEANDRO DA COSTA CRUZ, em que se aponta como autoridade coatora o Ministro Haroldo Rodrigues (Desembargador convocado do TJ/CE), relator do HC 197.996/SP, anteriormente ajuizado perante o Superior Tribunal de Justiça.
+    2. No caso sob análise o ora paciente, juntamente de outros dois suspeitos, após representação do Ministério Público do Estado de São Paulo, teve sua prisão preventiva decretada pelo Juízo de Direito da 3ª Vara Criminal da Comarca de Guarulhos – SP.
+          Oferecida a inicial acusatória, sobreveio sentença, que condenou o paciente e os outros dois réus à pena total de vinte e um anos e quatro meses de reclusão, pela prática dos delitos tipificados nos artigos 148, § 2º; 158, § 1º, 299, parágrafo único, e 316, todos do Código Penal. A Magistrada sentenciante fixou o regime prisional inicial fechado, negou o direito de apelar em liberdade e decretou a perda das funções públicas dos acusados.
+          O Tribunal de Justiça do Estado de São Paulo denegou habeas corpus impetrado pela defesa, no qual se insurgia contra a negativa ao direito de o paciente recorrer em liberdade da sentença condenatória.
+          No Superior Tribunal de Justiça, o Ministro Haroldo Rodrigues indeferiu a liminar no HC 197.996/SP. Daí a presente impetração.
+    3. Neste writ, o impetrante, preliminarmente, pugna pelo afastamento do óbice ao conhecimento do feito consubstanciado na Súmula 691/STF. No mérito, o impetrante alega, em suma, ausência de motivos concretos e de fundamentação válida para a manutenção da segregação cautelar do paciente.
+          Assim, requer o deferimento de medida liminar no presente habeas corpus, a fim de que se conceda ao paciente o benefício da liberdade provisória ou, subsidiariamente, se aplique, em substituição à preventiva, uma das medidas cautelares do art. 319 do Código de Processo Penal, com a redação dada pela Lei 12.403/11.
+    4. A liminar no HC 197.996/SP foi indeferida nos termos da seguinte decisão:
+    “Cuida-se de habeas corpus impetrado em favor de Marceandro da Costa Cruz, condenado por cárcere privado, extorsão, falsidade ideológica, formação de quadrilha e concussão, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo, no qual se busca assegurar ao paciente o direito de recorrer em liberdade.
+    A liminar, na via eleita, não tem previsão legal, sendo criação da jurisprudência para casos em que a urgência, necessidade e relevância da medida se mostrem evidenciadas de forma indiscutível na própria impetração e nos elementos de prova que a acompanham.
+    No caso, o constrangimento não se mostra com a nitidez imprimida na inicial, estando a exigir um exame mais detalhado dos elementos de convicção carreados aos autos, o que ocorrerá por ocasião do julgamento definitivo.
+    Ante o exposto, indefiro a liminar”.
+    5. Ressalto que o rigor na aplicação da Súmula 691/STF – segundo a qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” – tem sido abrandado por julgados desta Corte apenas em hipóteses excepcionais de flagrante ilegalidade ou abuso de poder na denegação da tutela de eficácia imediata. Nesses termos, enumero as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ de 25.06.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ de 1º.09.2006; e HC 88.229/SE, Rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, julgado em 10.10.2006.
+          Contudo, não vislumbro a presença de qualquer um dos pressupostos que autorizam o afastamento da orientação contida na Súmula 691/STF, sob pena de supressão de instância.
+    6. Ante o exposto, indefiro liminarmente o presente writ.
+          Publique-se.
+          Brasília, 5 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
