@@ -1,0 +1,1 @@
+Art. 59. É transformado o cargo, de Natureza Especial, de Secretário Nacional de Políticas sobre Drogas no cargo, de Natureza Especial, de Assessor Chefe da Assessoria Especial do Presidente da República.
