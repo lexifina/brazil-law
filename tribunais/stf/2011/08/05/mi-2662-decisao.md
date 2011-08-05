@@ -1,0 +1,11 @@
+Trata-se de mandado de injunção impetrado por servidor público federal aposentado em 13.11.2006, no qual assevera que a omissão legislativa na elaboração da norma prevista no artigo 40, § 4º, da Constituição Federal, impediu-lhe de exercer seu direito à aposentadoria com contagem de tempo especial, circunstância que lhe teria obrigado a se aposentar com rendimentos proporcionais ao tempo de serviço.
+          Requer o impetrante, assim, o reconhecimento da mora legislativa e a determinação de averbação, em sua ficha funcional, da contagem do tempo em regime especial de insalubridade para o fim de aposentadoria especial a partir de 1990, aplicando-se ao caso concreto o art. 57 da Lei 8.213/91.
+          2. O mandado de injunção tem por única finalidade garantir o exercício efetivo de um direito subjetivo constitucionalmente assegurado, cuja plena fruição esteja obstada pela ausência de norma regulamentadora.
+          Todavia, o impetrante, como visto, já ostenta a condição de servidor público aposentado. Falta-lhe, portanto, interesse processual em obter, na via injuncional, o reconhecimento de situação jurídica que já lhe foi concedida pelo Poder Público. A ausência de regulamentação legal do art. 40, § 4º, da Carta Magna, não constitui óbice ao exercício, pelo impetrante, de sua aposentadoria. A pretensão de reexame de seu ato de aposentação, embora legítima, não encontra cabimento em sede de mandado de injunção. Foi o que, a propósito, decidiu recentemente o Plenário desta Suprema Corte no julgamento do MI 2.924-ED, cuja ementa, da lavra da eminente Ministra Cármen Lúcia, possui o seguinte teor (acórdão publicado no DJe em 16.5.2011):
+    “EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. REVISÃO DE ATO DE APOSENTADORIA. ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DOS PRESSUPOSTOS DE CABIMENTO DO MANDADO DE INJUNÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+          3. Ante o exposto, em consonância com a jurisprudência consolidada sobre o tema ora versado e, ainda, com base no art. 21, § 1º, do Regimento Interno, nego seguimento ao presente mandado de injunção.
+          Arquivem-se os autos.
+          Publique-se.
+          Brasília, 5 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
