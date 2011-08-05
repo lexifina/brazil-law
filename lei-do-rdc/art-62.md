@@ -1,0 +1,1 @@
+Art. 62. São criados, no Quadro de Pessoal do Comando da Aeronáutica, 100 (cem) cargos efetivos de Controlador de Tráfego Aéreo, de nível intermediário, integrantes do Grupo-Defesa Aérea e Controle de Tráfego Aéreo, código Dacta-1303.

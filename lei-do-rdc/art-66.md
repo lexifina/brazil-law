@@ -1,0 +1,1 @@
+Art. 66. Para os projetos de que tratam os incisos I a III do art. 1º desta Lei, o prazo estabelecido no inciso II do § 1º do art. 8º da Medida Provisória nº 2.185-35, de 24 de agosto de 2001, passa a ser o de 31 de dezembro de 2013.
