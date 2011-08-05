@@ -21,9 +21,11 @@ XIX - regular as autorizações de horários de pouso e decolagem de aeronaves c
 XX - compor, administrativamente, conflitos de interesses entre prestadoras de serviços aéreos e de infra-estrutura aeronáutica e aeroportuária;
 XXI - regular e fiscalizar a infra-estrutura aeronáutica e aeroportuária, com exceção das atividades e procedimentos relacionados com o sistema de controle do espaço aéreo e com o sistema de investigação e prevenção de acidentes aeronáuticos;
 XXII - aprovar os planos diretores dos aeroportos;
+XXIII - (revogado);
 XXIV - conceder ou autorizar a exploração da infra-estrutura aeroportuária, no todo ou em parte;
 XXV - estabelecer o regime tarifário da exploração da infra-estrutura aeroportuária, no todo ou em parte;
 XXVI - homologar, registrar e cadastrar os aeródromos;
+XXVII - (revogado);
 XXVIII - fiscalizar a observância dos requisitos técnicos na construção, reforma e ampliação de aeródromos e aprovar sua abertura ao tráfego;
 XXIX - expedir normas e padrões que assegurem a compatibilidade, a operação integrada e a interconexão de informações entre aeródromos;
 XXX - expedir normas e estabelecer padrões mínimos de segurança de vôo, de desempenho e eficiência, a serem cumpridos pelas prestadoras de serviços aéreos e de infra-estrutura aeronáutica e aeroportuária, inclusive quanto a equipamentos, materiais, produtos e processos que utilizarem e serviços que prestarem;
@@ -43,6 +45,7 @@ XLIII - decidir, em último grau, sobre as matérias de sua competência;
 XLIV - deliberar, na esfera administrativa, quanto à interpretação da legislação, sobre serviços aéreos e de infra-estrutura aeronáutica e aeroportuária, inclusive casos omissos, quando não houver orientação normativa da Advocacia-Geral da União;
 XLV - deliberar, na esfera técnica, quanto à interpretação das normas e recomendações internacionais relativas ao sistema de segurança de vôo da aviação civil, inclusive os casos omissos;
 XLVI - editar e dar publicidade às instruções e aos regulamentos necessários à aplicação desta Lei;
+XLVII - (revogado);
 XLVIII - firmar convênios de cooperação técnica e administrativa com órgãos e entidades governamentais, nacionais ou estrangeiros, tendo em vista a descentralização e fiscalização eficiente dos setores de aviação civil e infra-estrutura aeronáutica e aeroportuária; e
 XLIX - contribuir para a preservação do patrimônio histórico e da memória da aviação civil e da infra-estrutura aeronáutica e aeroportuária, em cooperação com as instituições dedicadas à cultura nacional, orientando e incentivando a participação das empresas do setor.
 § 1º A ANAC poderá credenciar, nos termos estabelecidos em norma específica, pessoas físicas ou jurídicas, públicas ou privadas, de notória especialização, de acordo com padrões internacionalmente aceitos para a aviação civil, para expedição de laudos, pareceres ou relatórios que demonstrem o cumprimento dos requisitos necessários à emissão de certificados ou atestados relativos às atividades de sua competência.

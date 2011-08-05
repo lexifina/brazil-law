@@ -1,5 +1,5 @@
 Art. 11. Compete à Diretoria:
-I - propor, por intermédio do Ministro de Estado Chefe da Secretaria de Aviação Civil da Presidência da República, ao Presidente da República, alterações do regulamento da ANAC.
+I - propor, por intermédio do Ministro de Estado Chefe da Secretaria de Aviação Civil da Presidência da República, ao Presidente da República, alterações do regulamento da Anac;
 II - aprovar procedimentos administrativos de licitação;
 III - conceder, permitir ou autorizar a prestação de serviços aéreos;
 IV - conceder ou autorizar a exploração da infra-estrutura aeronáutica e aeroportuária;
