@@ -1,0 +1,14 @@
+1. Trata-se de mandado de injunção no qual se aponta a inexistência de regulamentação do art. 40, § 4º, da Constituição Federal, que autoriza a fixação de um regime diferenciado de aposentação em favor dos servidores públicos portadores de deficiência ou que exerçam atividades arriscadas ou prejudiciais à saúde e à integridade física.
+          Alega o impetrante, ocupante do cargo de Técnico do Seguro Social do INSS, que conta com 25 anos de exercício em atividade insalubre e que a ausência de regulamentação do art. 40, § 4º, da Carta Magna, o tem impedido de exercer seu direito a aposentadoria especial.
+          Requer, ao final, que esta Suprema Corte, por meio da aplicação integrativa do art. 57 da Lei 8.213/91, assegure, primeiramente, “o reconhecimento do tempo de serviço prestado sob condições insalubres/perigosas na condição de especial” (fl. 7). Pede, em seguida, que lhe seja reconhecido, igualmente, o direito ao abono de permanência, “em razão de que o mesmo tem interesse em continuar exercendo sua atividade laboral no referido órgão” (fl. 8).
+          2. O presente mandado de injunção mostra-se incabível, pois não pretende que seja viabilizado o efetivo exercício de um direito constitucionalmente previsto que esteja com sua fruição obstaculizada pela ausência de norma legal regulamentadora.
+          Como visto, o impetrante sequer demonstrou interesse no usufruto da aposentadoria, tendo, ao contrário, externado sua pretensão de permanecer em atividade no cargo público que ocupa, circunstância que demonstra a inexistência do pressuposto da demonstração de concreta inviabilidade da plena fruição do referido direito.
+          A via injuncional, portanto, não se mostra adequada para o atendimento da pretensão ora revelada, consubstanciada no mero cômputo diferenciado do tempo de serviço prestado para o fim de obtenção do abono de permanência.
+          3. O Plenário deste Supremo Tribunal, em pelo menos duas recentes ocasiões (MI 2.195-AgR, julg. em 23.2.2011, e MI 1.477-ED, julg. em 19.5.2011, ambas de relatoria da eminente Ministra Cármen Lúcia) asseverou o completo descabimento da presente pretensão em sede injuncional. A ementa do último julgado citado tem o seguinte teor (publicado no DJe em 10.6.2011):
+    “ EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. CONTAGEM E AVERBAÇÃO DE TEMPO DE SERVIÇO PARA FUTURO PEDIDO DE APOSENTADORIA ESPECIAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+          4. Ante o exposto, em consonância com a jurisprudência consolidada sobre o tema ora versado e, ainda, com base no art. 21, § 1º, do Regimento Interno, nego seguimento ao presente mandado de injunção.
+          Arquivem-se os autos.
+          Publique-se.
+          Brasília, 5 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
