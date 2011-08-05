@@ -1,0 +1,2 @@
+Art. 67. A Lei nº 12.350, de 20 de dezembro de 2010, passa a vigorar acrescida do seguinte art. 62-A:
+"Art. 62-A. Para efeito da análise das operações de crédito destinadas ao financiamento dos projetos para os Jogos Olímpicos e Paraolímpicos, para a Copa das Confederações da Federação Internacional de Futebol Associação - Fifa 2013 e para a Copa do Mundo Fifa 2014, a verificação da adimplência será efetuada pelo número do registro no Cadastro Nacional da Pessoa Jurídica (CNPJ) principal que represente a pessoa jurídica do mutuário ou tomador da operação de crédito."

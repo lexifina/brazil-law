@@ -1,0 +1,1 @@
+Art. 42. Os contratos para a execução das obras previstas no plano plurianual poderão ser firmados pelo período nele compreendido, observado o disposto no caput do art. 57 da Lei nº 8.666, de 21 de junho de 1993.

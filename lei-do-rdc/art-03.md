@@ -1,0 +1,1 @@
+Art. 3º As licitações e contratações realizadas em conformidade com o RDC deverão observar os princípios da legalidade, da impessoalidade, da moralidade, da igualdade, da publicidade, da eficiência, da probidade administrativa, da economicidade, do desenvolvimento nacional sustentável, da vinculação ao instrumento convocatório e do julgamento objetivo.

@@ -1,0 +1,2 @@
+Art. 51. O Ministério da Defesa e o Ministério do Planejamento, Orçamento e Gestão adotarão, até 1º de junho de 2011, as providências necessárias para a efetivação das transferências de que trata esta Lei, inclusive quanto à movimentação das dotações orçamentárias destinadas aos órgãos transferidos.
+Parágrafo único. No prazo de que trata o caput, o Ministério da Defesa prestará o apoio administrativo e jurídico necessário para garantir a continuidade das atividades da Secretaria de Aviação Civil.
