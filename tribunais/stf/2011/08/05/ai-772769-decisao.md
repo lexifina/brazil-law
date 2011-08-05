@@ -1,0 +1,12 @@
+1. Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário por violação ao art. 5º, caput, I, XXXV, XXXVI, XLI, e LV, da Constituição Federal contra acórdão que, ao reconhecer a ocorrência da coisa julgada material, negou provimento à apelação de sentença que, nos termos do art. 267, V, do Código de Processo Civil, extinguiu o processo. O acórdão recorrido contém a seguinte ementa (fls. 284-306):
+    “ADMINISTRATIVO – EFETIVAÇÃO EM SERVENTIA JUDICIAL – COISA JULGADA – MATÉRIA DECIDIDA EM MANDADO DE SEGURANÇA COM DECISÃO TRÂNSITA EM JULGADO.
+    1. O fato de se tratar de ação mandamental não impede o acolhimento da litispendência ou coisa julgada, pois o que importa, além da identidade de partes, pedido e causa de pedir, é que ambas as ações conduzam ao mesmo resultado, sendo irrelevante que os ritos sejam diversos (STJ, Edcl no AgRg no MS 8483/DF, Min. Luiz Fux). Desse modo, afronta a coisa julgada material a renovação do pedido e da causa de pedir, mesmo que por fundamento diverso”.
+    2. O Tribunal de origem apontou insuficiência na fundamentação recursal (fls. 573-574).
+    3. A insurgência não merece prosperar. Preliminarmente, não houve prequestionamento de matéria constitucional tida por violada, porque não abordada pelo acórdão recorrido, tampouco pelos embargos de declaração que foram opostos (fls. 318-325), não sendo satisfeito, portanto, o requisito do prequestionamento (Súmula STF 282).
+    4. Ademais, a agravante apresentou recurso especial para afastar o fundamento infraconstitucional do aresto impugnado, relativo à incidência do art. 267, V, do CPC, ao qual foi negado seguimento, remanescendo, por conseguinte, definitivo tal fundamento (AgRg no REsp 962.141/SC, rel. Min. Denise Arruda, DJe 26.8.2009 – fls. 602-612).
+          Dessa forma, por ser o fundamento de caráter infraconstitucional suficiente per se para manter o acórdão recorrido quanto à coisa julgada e à litispendência da ação, inviável o prosseguimento do extraordinário em razão do óbice previsto na Súmula STF 283. Vejam-se, a respeito, o AI 488.683/SP, de minha relatoria, DJ 15.8.2005; e o AI 554.104-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, unânime, DJe 23.10.2009.
+    5. Ante o exposto, com fundamento no art. 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+          Publique-se.
+          Brasília, 05 de agosto de 2011.
+Ministra Ellen Gracie
+Relatora
