@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CERCEAMENTO DE DEFESA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. TRABALHISTA. HORA-EXTRA. IMPOSSIBILIDADE DE ANÁLISE DE FATOS, DE PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. CERCEAMENTO DE DEFESA. O indeferimento da juntada de prova emprestada, produzida em feito do qual não participou a parte contrária, e tendo em vista a expressa discordância desta, não caracteriza cerceamento de defesa, mas, sim, respeito aos princípios do contraditório e da ampla defesa. Ileso o artigo 5º, LV, da Constituição Federal.
+    HORAS EXTRAS. O acórdão recorrido está em harmonia com a Súmula n. 338, II, do Tribunal Superior do Trabalho.
+    REFLEXOS DAS HORAS NA GRATIFICAÇÃO SEMESTRAL. A decisão regional está em conformidade com a Súmula n. 115 do Tribunal Superior do Trabalho. Agravo de Instrumento a que se nega provimento” (fl. 123).
+    2. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. II, XXXV, LIV e LV e 7º, inc. XXVI, da Constituição da República.
+    Alega que, “ao contrário do entendimento do acórdão recorrido, a questão não se resume à aceitação de prova emprestada , mas sim à apresentação de documento novo, cuja juntada era indispensável para o esclarecimento dos fatos e deslinde da controvérsia, uma vez que a referida ata desconstituía o depoimento prestado pela única testemunha ouvida pelo Autor” (fls. 132-133).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de que inexiste ofensa constitucional direta (fls. 141-142).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4.  O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal de origem decidiu a controvérsia com base na legislação processual ordinária e no conjunto probatório constante dos autos. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário. Incide na espécie a Súmula 279 do Supremo Tribunal Federal. Nesse sentido:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA E CONTRADITÓRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. CF/88, ART. 5º, LV. SÚMULA STF 279. OFENSA CONSTITUCIONAL INDIRETA. (...)” (AI 656.624-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 16.4.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSUAL CIVIL. ATO DE IMPROBIDADE ADMINISTRATIVA. INDEFERIMENTO DE PROVA. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. APLICAÇÃO DE MULTA CIVIL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 do SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 612.996-AgR, de minha relatoria, Primeira Turma, DJe 5.3.2010).
+    7. O Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Consolidação das Leis Trabalhistas), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    8. Ademais, a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe: “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de agosto de 2011.
+ Ministra CÁRMEN LÚCIA
+Relatora
