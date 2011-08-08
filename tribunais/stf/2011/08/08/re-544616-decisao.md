@@ -1,0 +1,15 @@
+Decisão:
+    Município de São Paulo, com fundamento na alínea “a” do permissivo constitucional, interpõe recurso extraordinário, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL – Taxa de conservação de vias e logradouros públicos, taxa de limpeza pública e taxa de combate a sinistros – Município de São Paulo – Exercício de 1998 – Reexame necessário – Valor pretendido pela Municipalidade que não supera 60 salários mínimos – Incabível recurso oficial (art. 475, §2º, CPC) – Apelação – Tempestividade constatada – Preliminar em contra-razões de apelação devidamente afastada – Ausência dos requisitos da especificidade e divisibilidade – Incompatibilidade com o disposto no art. 145, II , CF e art. 79 do CTN – Cobrança indevida – Sentença mantida – RECURSO NÃO PROVIDO E REEXAME NECESSÁRIO NÃO CONHECIDO” (fls. 60).
+    Sustenta a recorrente violação do artigo 145, inciso II, da Constituição Federal.
+    Decido.
+    A irresignação merece prosperar.
+    Esta Corte pacificou seu entendimento, considerando constitucional tal tributo, haja vista a existência de serviço específico e divisível. Nesse sentido, os seguintes julgados:
+    “TAXA DE COMBATE A SINISTROS. MUNICÍPIO DE SÃO PAULO. CONSTITUCIONALIDADE. PREQUESTIONAMENTO. EXISTÊNCIA. A matéria constitucional invocada no recurso extraordinário está prequestionada conforme orientação desta Corte. Nos termos da jurisprudência deste Tribunal, é constitucional a Taxa de Combate a Sinistros, instituída pelo município de São Paulo, uma vez que possui como fato gerador a prestação de serviço específico e divisível. Agravo regimental conhecido, mas ao qual se nega provimento” (RE n° 396.996/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 17/4/09).
+    “TRIBUTÁRIO. TAXA DE COLETA, REMOÇÃO E DESTINAÇÃO DE LIXO. TAXA DE COMBATE A SINISTROS. UTILIZAÇÃO DE ELEMENTOS DA BASE DE CÁLCULO PRÓPRIA DE IMPOSTOS. CONSTITUCIONALIDADE. I - A Corte tem entendido como específicos e divisíveis os serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, desde que essas atividades sejam completamente dissociadas de outros serviços públicos de limpeza realizados em benefício da população em geral (uti universi) e de forma indivisível. II - Legitimidade da taxa de combate a sinistros, uma vez que instituída como contraprestação a serviço essencial, específico e divisível. III - Constitucionalidade de taxas que, na apuração do montante devido, adote um ou mais dos elementos que compõem a base de cálculo própria de determinado imposto, desde que não se verifique identidade integral entre a base de cálculo da taxa e a do imposto. IV - Agravo regimental improvido” (RE n° 557.957/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 26/6/09).
+    Pelo exposto, conheço do recurso extraordinário e lhe dou provimento para reconhecer como devida a taxa de combate a sinistros prevista na legislação do Município de São Paulo.
+    Publique-se.
+    Brasília, 8 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
