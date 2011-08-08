@@ -1,0 +1,17 @@
+DECISÃO:
+    Vistos.
+    Terezinha Zibetti interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao art. 37, inciso II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “AÇÃO ORDINÁRIA DE COBRANÇA DE DIREITOS TRABALHISTAS. APELAÇÃO CÍVEL. FUNCIONÁRIA PÚBLICA MUNICIPAL CONTRATADA PELO REGIME CELETISTA E POSTERIORMENTE TRANSPOSTA PARA O REGIME ESTATUTÁRIO. DURAÇÃO DO TRABALHO. 20 HORAS PELO REGIME ESTATUTÁRIO. TRABALHO DE MAIS DE 20 HORAS NO REGIME CELETISTA. HORAS EXTRAS. INEXISTÊNCIA” (fl. 261).
+    Decido.
+    Anote-se, inicialmente, que o acordão recorrido foi publicado em 2/6/06, conforme expresso na certidão de folha 270, não sendo exigível a demonstração da repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação.
+    É pacífico o entendimento desta Corte no sentido de que aos servidores que migraram do regime celetista para o estatutário não há direito adquirido a regime jurídico, em face da impossibilidade de coexistência das vantagens dos dois regimes funcionais. Nesse sentido, anote-se:
+    “Mandado de Segurança. 2. Ato do Presidente da 2a Câmara do Tribunal de Contas da União que recusou (a) o registro de aposentadoria da impetrante, (b) declarou a ilegalidade de sua concessão, (c) determinou à Universidade Federal de Goiás que suspendesse o pagamento de horas extras e (d) expedisse novo ato concessório. 3. Alegada violação à coisa julgada, ao ato jurídico perfeito, ao direito adquirido e à irredutibilidade de vencimentos, por terem as horas extras sido incorporadas ao salário da impetrante em razão de decisão judicial com trânsito em julgado. 4. Conversão do regime contratual em estatutário. Extinção do contrato de trabalho. Reconhecimento do direito às horas extras em reclamação trabalhista em data anterior. 5. Novo ordenamento jurídico. Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e das Fundações Públicas Federais. Lei no 8.112, de 11.12.90. Incompatibilidade de manutenção de vantagem que, à época, podia configurar-se. Precedentes. 6. Mandado de Segurança indeferido” (MS nº 24.381/DF, Plenário, Relator o Ministro Gilmar Mendes, DJ de 3/9/04).
+    “Mandado de segurança, contra ato imputado ao Presidente do Tribunal de Contas da União. Ato administrativo que determinou a suspensão de pagamento de horas extras incorporadas ao salários dos impetrantes, por decisão do TCU. 2. Entendimento assente no Tribunal de Contas deflui da aplicação de preceitos atinentes à limitação que as normas administrativas impõem à incidência da legislação trabalhista sobre os servidores públicos regidos pela CLT, à época em que tal situação podia configurar-se. 3. Entendimento no sentido de que não é possível a coexistência das vantagens dos dois regimes funcionais. Ao ensejo da transferência do impetrante para o sistema estatutário, ut Lei n.º 8.112/90, há de ter o regime próprio desta Lei, ressalvada, tão-só, a irredutibilidade dos salários. 4. Mandado de segurança indeferido” (MS nº 22.455/DF, Plenário, Relator o Ministro Neri da Silveira , DJ de 7/6/02);
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 8 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
