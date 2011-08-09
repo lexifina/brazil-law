@@ -1,0 +1,15 @@
+DECISÃO: Na espécie, o paciente/impetrante pleiteia a extensão dos efeitos da decisão proferida pela 2ª Turma do Supremo Tribunal Federal nos autos do HC 99.043/PE, que concedeu a ordem em benefício do corréu Ilson José de Oliveira (DJe 10.9.2010), nos termos da ementa transcrita:
+    “Habeas Corpus. 2. Sentença que negou ao paciente o direito de apelar em liberdade. Insubsistência dos requisitos autorizadores da segregação cautelar. A prisão preventiva, pela excepcionalidade que a caracteriza, pressupõe decisão judicial devidamente fundamentada, amparada em elementos concretos que justifiquem a sua necessidade, não bastando apenas aludir-se a qualquer das previsões do artigo 312 do Código de Processo Penal. 3. Constrangimento ilegal caracterizado. 4. Ordem concedida”.
+    Consta da sentença proferida pelo Juízo de Direito da 6ª Vara Criminal da Comarca da Capital/PE:
+    “julgo PROCEDENTE a denúncia de fls. 02, para condenar, como em verdade condeno os acusados, ALEXANDRE JOSÉ FERREIRA, AMARO SÉRGIO DA SILVA, ILSON JOSÉ DE OLIVEIRA e SILVANICE ALVES DA SILVA, qualificados nos autos, os três primeiros nas penas do art. 157, § 3º, in fine, c/c o art. 29 ambos do Código Penal e art. 1º, inc. II da Lei 8072/90, e a última nas penas do art. 342, § 1º, do Código Penal.
+    Aos réus ALEXANDRE JOSÉ FERREIRA, AMARO SÉRGIO DA SILVA, ILSON JOSÉ DE OLIVEIRA, tenho: Atendendo o disposto no art. 59 do Código Penal tenho: Culpabilidade - concreta e de alta reprovabilidade; Antecedentes - há noticia, apenas de ALEXANDRE JOSÉ FERREIRA e AMARO SÉRGIO DA SILVA de suas vidas pregressas, devendo, no entanto, presumir-se primários Conduta Social - apesar de suas primariedades, tenho-as como irregular. Motivos do Crime - injustificáveis-. Circunstâncias – normais para este tipo de infração CONDUTA DA VÍTIMA: Não se apurou que as tenham concorrido para a cena criminosa; Para os réus ALEXANDRE JOSÉ FERREIRA, AMARO SÉRGIO DA SILVA e ILSON JOSÉ DE OLIVEIRA, a cada um, fixo a pena base em 26(vinte e seis) anos de reclusão e 100(cem dias multa, a ser cobrada na base de 1/30(um trinta avos) do salário mínimo, o que torno em definitivo na ausência de atenuantes e agravantes e de causas que aumente ou diminua a pena. Deverão cumprir a pena sob o regime, inicialmente, fechado).
+    Em face de gravidade do delito, considerado Hediondo, não lhes concedo o direito de responder em liberdade.
+    Recomendem-se os réus ALEXANDRE JOSÉ FERREIRA, AMARO SÉRGIO DA SILVA e ILSON JOSÉ DE OLIVEIRA na prisão onde se encontram”.
+    Constatando a identidade de situações, considerados os corréus Alexandre José Ferreira e Amaro Sérgio da Silva, nos termos do art. 580 do CPP, defiro o pedido de extensão para cassar o decreto de prisão preventiva proferido pelo Juízo de origem nos autos n. 0063253-67.2007.8.17.0001 (numeração antiga: 001.2007.063253-8).
+    Expeça-se os alvarás de soltura com as cautelas cabíveis.
+    Comunique-se.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
