@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. IMPOSIÇÃO DE MULTA DIÁRIA EM CASO DE NÃO CESSAÇÃO DE DESCONTOS NA CONTA CORRENTE. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO 287, DA SÚMULA DO STF.
+1. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna os fundamentos da decisão agravada. Inteligência do Enunciado 287 da Súmula do STF, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”.
+2. Agravo de que não se conhece.
+    Decisão: Trata-se de agravo manejado contra decisão de fls. 51/52, que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão prolatado pelo Colégio Recursal da Circunscrição de Votuporanga, do Estado de São Paulo.
+    A instância judicante de origem negou provimento ao Agravo de Instrumento interposto pelo Banco recorrente contra decisão que fixou multa diária no caso de não cessação de descontos na conta corrente do agravado. Consignou que a multa é meio de coerção legítimo e o perigo da demora está evidenciado.
+    Nas razões do recurso extraordinário, o recorrente aponta ofensa aos artigos 5º, II, da Constituição Federal. Sustenta a impossibilidade de imposição de astreintes, porquanto, segundo entende, seus atos foram praticados em estrita consonância com a legislação vigente e o pactuado entre as partes.
+    O Juiz Presidente do Colégio Recursal negou seguimento ao apelo extremo por entender que: i) não há o prequestionamento da matéria constitucional; ii) a controvérsia demanda a análise de legislação infraconstitucional.
+    Nas razões de agravo, reitera-se as razões expendidas no apelo extremo.
+    É o relatório. DECIDO.
+    O recurso não reúne condições de admissibilidade, uma vez que o agravante não impugnou todos os fundamentos da decisão agravada que pretendia ver reformada, especificamente em relação à natureza da controvérsia, de índole infraconstitucional. Incide, portanto, o Enunciado 287 da Súmula do STF, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”.
+    Como de sabença, o agravo de instrumento interposto contra decisão denegatória do processamento de recurso extraordinário, que não tenha atacado especificamente os fundamentos da decisão agravada não merece conhecimento (artigo 544, § 4º, I, do Código de Processo Civil, introduzido pela Lei n.º 12.322/2010, verbis: No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator: I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada).
+    Noutro giro, o recurso não lograria êxito. Isso porque a alegação de ofensa ao princípio da legalidade, quando sua verificação demanda a análise de normas de natureza infraconstitucional, não viabiliza a abertura da instância extraordinária. Inteligência do Enunciado 636, da Súmula do STF, adiante transcrita: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    A propósito, cito as considerações do professor Roberto Rosas, in Direito Sumular, 12ª edição, Editora Malheiros, verbis:
+    “O Recurso Extraordinário é cabível por contrariedade a dispositivo constitucional, de forma direta. Se a invocação do princípio da legalidade (CF – art. 5º, II) demanda exame da lei ordinária para justificar esse princípio, então, não há matéria a ser examinada no recurso extraordinário.”
+    Ex positis, não conheço do agravo, com fundamento no disposto no artigo 544, § 4º, I, do CPC.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
