@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENDIÁRIO. GRATIFICAÇÃO “PRÊMIO DE PRODUTIVIDADE” ESTENDIDA AOS SERVIDORES INATIVOS E SEUS PENSIONISTAS. FISCAIS DE RENDA DO ESTADO DO RIO DE JANEIRO. PEDIDO DE ATUALIZAÇÃO ANUAL PELA UFIR DE 2006. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. SÚMULA 279 DO STF.
+1. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+3. In casu, o Tribunal a quo entendeu que as pensionistas não conseguiram comprovar nos autos que os servidores ativos (paradigmas) recebiam a gratificação “Prêmio de Produtividade” atualizada pela UFIR de 2006.
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a” e “c”, da CF, em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 190):
+    “AGRAVO INTERNO. Decisão do relator que, com base no art. 557, caput, do CPC, negou seguimento a recuso em confronto com a jurisprudência dominante quanto à inexistência de direito líquido e certo de pensionista de fiscal de renda ter o valor de prêmio de produtividade reajustado segundo índice sequer aplicado para atualização dos valores percebidos pelos fiscais em atividade. Agravo a que se nega provimento.”
+    No recurso extraordinário as ora agravantes alegaram violação ao art.40 § 4º (atual § 8º), da CF. Sustentaram em síntese que têm direito líquido e certo a “(...) obtenção da atualização da verba 'Prêmio de Produtividade' com base nas variações da UFIR de 2006, como estabelecido no processo administrativo nº. E-34/12551/2006.” (fl. 227).
+    O apelo extremo teve o seu seguimento negado na origem sob o fundamento no óbice da Súmula 279 do STF.
+    É o relatório. DECIDO.
+    Sem razão os agravantes.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A controvérsia posta nos autos diz respeito a pedido de atualização anual da gratificação percebida pelos pensionistas (prêmio de produtividade) a partir de 2001 segundo a UFIR de 2006.
+    O pedido foi indeferido em mandado de segurança sob o fundamento de que “nenhuma prova há de que os fiscais de rendas em atividade contem com essa atualização anual. Ao contrário, as manifestações dos entes públicos nos autos afirmam que tal não existe e que o acordo deduzido em sede administrativa, firmado com o sindicato da categoria, fez aplicação da UFIR de 2001, sendo esse o valor que permanecem percebendo, desde então, os ativos e inativos que fazem jus ao prêmio de produtividade. Logo, as autoras estariam a buscar tratamento diverso e divergente daquele resultante do acordo.” (fl. 164).
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular n. 279/STF, que veda a esta Corte, em sede de recurso extraordinário, sindicar matéria fática. Confiram-se, à guisa de exemplo, os seguintes precedentes, in verbis:
+    “AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. AUSÊNCIA DE PREQUESTIONAMENTO. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com o enunciado 279 da Súmula do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 783.269 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje de 02.03.2011) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA E CONTRADITÓRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. CF/88, ART. 5º, LV. SÚMULA STF 279. OFENSA CONSTITUCIONAL INDIRETA. 1. Omissis. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa. Incidência da Súmula STF 279. 3. Omissis. 4. Agravo regimental improvido” (AI 656624 AgR, Relatora Min. Ellen Gracie, Segunda Turma, Dje de 16.04.2010) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
