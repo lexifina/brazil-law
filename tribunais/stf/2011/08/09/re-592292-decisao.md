@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “AÇÃO DECLARATÓRIA – CORREÇÃO MONETÁRIA – PLANOS ECONÔMICOS – SUBMISSÃO AS REGRAS DO CONTRATO – INVOCAÇÃO DE DIREITO TOMADA COM BASE EM PRINCÍPIO CONSTITUCIONAL E REGRA INTRODUTÓRIA DO CÓDIGO CIVIL – IMPROCEDÊNCIA AFIRMADA AO PEDIDO – INCONFORMISMO DA AUTORA VENCIDA – PREVALÊNCIA PARCIAL DO JULGADO – TITULOS EMITIDOS EM CARÁTER PRO SOLUTO – SUBMISSÃO ÀS REGRAS DE ORDEM PÚBLICA TOMADAS EM RESPEITO AOS PLANOS ECONÔMICOS MODIFICADORES DO SISTEMA FINANCEIRO NACIONAL – IMPROCEDÊNCIA REAFIRMADA AO PEDIDO – DECISÃO MANTIDA NO MÉRITO – RECURSO NÃO PROVIDO” (fl. 222).
+    Neste RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, ofensa ao art. 5º, XXXVI, da mesma Carta, bem como ao art. 6º da LICC, aos arts. 82 e 115 do CC/1916, e ao art. 128 do CPC.
+    Sustentou-se, ainda, a inaplicabilidade das regras advindas com o “Plano Real”, instituído pela MP 542/1994, convertida na Lei 9.069/1995, ao contrato de compra e venda firmado pelas partes.
+    A pretensão recursal não merece acolhida.
+    É que a apreciação do tema constitucional, no caso, depende do prévio exame das normas infraconstitucionais aplicáveis à espécie (MP 542/1994 e Lei 9.069/1995). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões: AI 619.384/SP, Rel. Min. Joaquim Barbosa; AI 769.001/MS, Rel. Min. Cezar Peluso; AI 332.724/SP, Rel. Min. Sepúlveda Pertence.
+    É certo, ainda, que o Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “(...) a pretensão declaratória de império da correção incidente, tal qual o contratado, mostra-se estancada pela natureza 'pro soluto' emprestada aos títulos, que lhes retira o vínculo contratual, sujeitando-os as regras de respeito incondicional à ordem pública e as edificadas pela implantação de novo sistema monetário, de forma a não configurar o direito postulado sobre os argumentos condutores da exordial, que até estariam a merecer amparo, se natureza diversa tivesse sido consignada aos títulos emitidos.
+    (...) os títulos emitidos em caráter 'pro soluto', mostram-se a salvo das regras invocadas, tomadas com base na invocação do ato jurídico perfeito, dos fins sociais da aplicação da lei em oposição à aplicação dos princípios gerais do respeito à ordem pública” (fls. 223-224).
+    Ocorre que, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas contratuais, o que inviabiliza o recurso extraordinário, a teor das Súmulas 279 e 454 do STF.
+    Por fim, o aresto impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
