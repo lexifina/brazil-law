@@ -1,0 +1,31 @@
+AGRAVO DE INSTRUMENTO. CIVIL. AÇÃO DE DANOS MATERIAIS E MORAIS. ACÓRDÃO QUE AFASTA A CONDENAÇÃO POR DANOS MORAIS. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO E VIOLAÇÃO À INTIMIDADE. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. O prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário, sendo certo que eventual omissão do acórdão recorrido reclama embargos de declaração.
+2. As Súmulas 282 e 356 do STF dispõem, respectivamente, verbis: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+3. Agravo de instrumento a que se nega seguimento (art. 557 c.c art. 544 do CPC).
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF, em oposição a acórdão da 1ª Turma Recursal Mista dos Juizados Especiais Cíveis e Criminais do Estado do Mato Grosso do Sul, assim ementado (fl. 37):
+    “RECURSO INOMINADO CÍVEL – EMPRESA LOCADORA DE VEÍCULO – DEVER DE INFORMAÇÃO – COMPENSAÇÃO PECUNIÁRIA POR DANO MORAL – INEXISTÊNCIA – DANOS MATERIAIS – RECURSO PARCIALMENTE PROVIDO.
+    A empresa locadora de veículos tem o dever de informar o consumidor sobre a legislação local que afeta diretamente o objeto do negócio.
+    Sofrendo o consumidor prejuízo em razão de falta de informação, responde a prestadora de serviço pelos danos materiais, cuja reparação deve feita de forma simples.
+    Os danos morais são aqueles que atingem a dignidade da pessoa humana. Meros incômodos vividos no cotidiano não se afiguram como dano moral passível de indenização.”
+    No recurso extraordinário o ora agravante alegou violação aos arts. 5º, X, e 93, IX, da CF. Sustentou-se em síntese que o acórdão recorrido não teria motivado a decisão que julgou improcedente o pedido de reparação por danos morais, sendo que, na mesma senda, teria desrespeitado o direito a inviolabilidade da intimidade e da vida privada do ora agravante.
+    O apelo extremo teve o seu seguimento negado na origem sob o fundamento na falta de prequestionamento da questão constitucional.
+    É o relatório. DECIDO.
+    Sem razão o agravante.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Verifica-se, na espécie, que os artigos da Constituição Federal que o a agravante considera violados (arts. 5º, X e 93, IX da CF) não foram debatidos no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar eventual omissão, faltando, ao caso, o necessário prequestionamento da questão constitucional, que deve ser explícito, o que inviabiliza a pretensão de exame do recurso extraordinário. Incide, portanto, o óbice das Súmulas 282 e 356 do STF, verbis: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+    A respeito da aplicação das referidas súmula, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: 'quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado'.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).”
+    E:
+    'Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão '(RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (ROSAS, Roberto, in Direito Sumular, Malheiros).
+    Ainda nesse sentido:
+    “Recurso extraordinário: prequestionamento explícito: exigibilidade. O requisito do prequestionamento assenta no fato de não ser aplicável à fase de conhecimento do recurso extraordinário o princípio jura novit curia: instrumento de revisão in jure das decisões proferidas em única ou última instância, o RE não investe o Supremo de competência para vasculhar o acórdão recorrido, à procura de uma norma que poderia ser pertinente ao caso, mas da qual não se cogitou. Daí a necessidade de pronunciamento explícito do Tribunal a quo sobre a questão suscitada no recurso extraordinário: Sendo o prequestionamento, por definição, necessariamente explícito, o chamado prequestionamento implícito não é mais do que uma simples e inconcebível contradição em termos”. (AI 253.566-AgR, rel. Min. Sepúlveda Pertence, DJ 03/03/00).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
