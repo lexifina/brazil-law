@@ -1,0 +1,29 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sétima Turma do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO DE REVISTA.
+    1 - INSTALAÇÃO E MANUTENÇÃO DE REDE. TERCEIRIZAÇÃO. ATIVIDADE-FIM. ILEGALIDADE. VÍNCULO RECONHECIDO COM O TOMADOR DOS SERVIÇOS. O serviço de instalação e manutenção de rede/linha constitui atividade que possibilita a própria oferta de telecomunicação, ou seja, é um serviço essencial ao alcance dos objetivos empresariais, enquadrando-se, portanto, na definição de atividade-fim das empresas de telecomunicações. Caso em que vedada a terceirização. Inteligência dos arts. 60, § 1º e 94, II, da Lei nº 9.472/97. A situação dos autos atrai a incidência do entendimento consagrado na Súmula nº 331, item I, do TST e no art. 942 do CCB. O reconhecimento do vínculo de emprego resulta da prática ilícita dos reclamados em fraude à legislação trabalhista. Recurso de revista não conhecido.
+    2- ADICIONAL DE PERICULOSIDADE. SISTEMA ELÉTRICO DE POTÊNCIA. EXTENSÃO DO DIREITO AOS CABISTAS, INSTALADORES E REPARADORES DE LINHAS E APARELHOS EM EMPRESA DE TELEFONIA.
+    Decisão regional em consonância com a Orientação Jurisprudencial nº 347 da SBDI-1 do TST, que estabelece que é devido o adicional de periculosidade aos empregados cabistas, instaladores e reparadores de linhas e aparelhos de empresas de telefonia , desde que, no exercício de suas funções, fiquem expostos a condições de risco equivalente ao do trabalho exercido em contato com sistema elétrico de potência. Recurso de revista não conhecido” (fl. 568).
+    No recurso extraordinário sustenta-se violação dos artigos 5º, incisos II e XXXVI, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação.
+    A alegada violação do artigo 5º, inciso II, da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não ampara o apelo extremo. Incidência da Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    No tocante à terceirização e o reconhecimento do vínculo empregatício diretamente com a tomadora do trabalho, o acórdão recorrido decidiu com base na legislação infraconstitucional pertinente e nas provas dos autos, cujo o reexame não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. TERCEIRIZAÇÃO. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE RELAÇÃO EMPREGATÍCIA E SOBRE A NATUREZA DA ATIVIDADE PRESTADA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 828.518, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 12/4/11).
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Princípio da legalidade. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes.
+    1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF.
+    2. A alegação de afronta ao princípio da legalidade, se dependente de reexame de normas infraconstitucionais, pode configurar apenas ofensa indireta ou reflexa à Constituição da República. Súmula nº 636/STF.
+    3. O recurso extraordinário não se presta ao reexame dos fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    4. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI nº 751.904/MG, Primeira Turma, de minha relatoria, DJe de 6/8/10).
+    “1. Justiça do Trabalho: competência para dizer da existência ou não de vínculo empregatício: precedentes. 2. RE: descabimento: questão relativa à caracterização de vínculo empregatício, que demanda reexame de matéria de fato e de provas inviável no recurso extraordinário (Súmula 279). 3. Agravo regimental: motivação da decisão agravada: necessidade de impugnação: precedentes” (AI nº 376.709/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 3/2/06).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO QUE RECONHECEU A EXISTÊNCIA DE VÍNCULO EMPREGATÍCIO ENTRE O BANCO DO BRASIL E EX-ESTAGIÁRIO DAQUELA INSTITUIÇÃO FINANCEIRA. Solução da controvérsia que demanda o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF. Ofensa à Carta de Outubro que, se existente, ocorreria de modo reflexo ou indireto, impedindo a abertura da via extraordinária. Precedente: RE 231.480-AgR, Relator ministro Gilmar Mendes. Agravo regimental manifestamente infundado, ao qual se nega provimento. Condenação da parte recorrente a pagar multa de dez por cento sobre o valor da causa, a ser revertida em favor do agravado, nos termos do art. 557, § 2º, do Código de Processo Civil” (RE nº 249.840/PR-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 1º/4/05).
+    “Recurso extraordinário. Agravo Regimental. 2. Ofensa reflexa e indireta à Constituição Federal. 3. Reexame de provas. Súmula 279. 4. Agravo regimental desprovido” (RE nº 231.480/PR-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 23/8/02).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: AI nº 841.540/MG, Relator o Ministro Ricardo Lewandowski, DJe de 1/4/11, e AI nº 841.565/RJ, Relator o Ministro Gilmar Mendes, DJe de 29/3/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
