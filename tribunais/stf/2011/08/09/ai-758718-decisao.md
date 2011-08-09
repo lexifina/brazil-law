@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “MANDADO DE SEGURANÇA COLETIVO. CUSTEIO DE PREVIDÊNCIA. LEI ESTADUAL QUE CRIOU A PARANAPREVIDÊNCIA – SERVIÇO SOCIAL AUTÔNOMO (Nº 12.398/98). CONTRIBUIÇÃO COBRADA DE SERVIDORES ATIVOS E INATIVOS. INCONSTITUCIONALIDADE FORMAL, POR NÃO TER SIDO EDITADA COMO LEI COMPLEMENTAR, MAS SIM COMO LEI ORDINÁRIA. PREVISÃO CONFISCATÓRIA. INCONSTITUCIONALIDADE DECRETADA. 1. Não se nega que a contribuição para custeio da previdência tem natureza tributária. Ostentando tal índole, somente pode ser instituído o regime, por meio de lei complementar, como determinou o artigo 146, da Constituição Federal. E sendo ordinária a lei que instituiu a PARANAPREVIDÊNCIA, não há como se negar sua flagrante inconstitucionalidade, sob o aspecto formal. 2. Além disso, o percentual previsto, somado aos outros tributos pagos pelos servidores paranaenses, sem sombra de dúvida, promoveu um evidente confisco, ainda mais para aqueles que se colocaram na faixa de 27,5% de imposto de renda. 3. Não deve ser observada a reserva de plenário, nos termos do art. 97, CF/88 e 481, do CPC, pois, além da inconstitucionalidade ser causa de pedir e não pedido, a quaestio já foi enfrentada pelo Órgão especial desta Corte. Mandado de segurança concedido” (fls. 112).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa aos artigos 37, XV; 145, §1º; 150, II; 154, I; 194, V; e 195, § 4º, do texto constitucional
+    Nas razões recursais, alega-se, em síntese, que a progressividade da alíquota dá atendimento ao princípio da legalidade e da equidade, bem como preserva o equilíbrio financeiro e atuarial do Fundo de Previdência do Estado do Paraná.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque a tese que embasa a vertente pretensão contraria a jurisprudência que se firmou em torno da questão suscitada pelo Plenário deste Supremo Tribunal Federal.
+    No caso, em harmonia com o resultado do acórdão recorrido, prevalece, nesta Suprema Corte, entendimento segundo o qual a instituição de alíquotas progressivas na cobrança de contribuição previdenciária de servidores públicos é inconstitucional, porquanto tal exação não se enquadra nas restritas espécies tributárias às quais o Texto Constitucional prescreve essa característica.
+    Com efeito, essa compreensão, notadamente a partir dos judiciosos fundamentos revelados no julgamento da ADI-MC 2.010, Rel. Min. Celso de Mello, Tribunal Pleno, DJ 12.4.2002, vem iterativamente sendo aplicada em sucessivos julgados, de modo a representar inequivocamente a jurisprudência dominante sobre o tema em exame.
+    A propósito, entre outros, confiram-se os seguintes precedentes: AI-AgR 676.442, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.11.2010; RE-AgR 365.318, Rel. Min. Cármen , Primeira Turma, DJe 26.6.2009; RE-AgR 414.915, Rel. Min. Ellen Gracie, Segunda Turma, DJ 20.4.2006; RE-AgR 386.098, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 27.2.2004.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente
