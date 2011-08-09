@@ -1,0 +1,9 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. IPERGS. PENSÃO. I. INCLUSÃO DE CÔNJUGE VARÃO COMO DEPENDENTE, INDEPENDENTEMENTE DE COMPROVAÇÃO DA INVALIDEZ E DEPENDÊNCIA ECONÔMICA. PRINCÍPIO DA ISONOMIA. ART. 5º, I, DA CONSTITUIÇÃO FEDERAL. DIREITO À PENSÃO RECONHECIDO. PEDIDO PROCEDENTE. II. AUTARQUIA CONDENADA AO PAGAMENTO DAS PRESTAÇÕES PREVIDENCIÁRIAS VENCIDAS E VINCENDAS EM VALORES CORRESPONDENTES À INTEGRALIDADE DOS VENCIMENTOS DA SERVIDORA, INCLUINDO VANTAGENS PESSOAIS. EFICÁCIA CONTIDA DA NORMA INSCULPIDA NO § 7º DO ART. 40, C/C O INCISO XI DO ART. 37 DA MAGNA CARTA (EC Nº 19/98). INCIDÊNCIA DE CORREÇÃO MONETÁRIA PELO IGP-M DESDE CADA VENCIMENTO, ALÉM DE JUROS LEGAIS DE 1% AO MÊS A CONTAR DO TRÂNSITO EM JULGADO. SUCUMBÊNCIA REDIMENSIONADA. APELO PROVIDO” (fl. 103).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, I e § 1º, 37, 195, § 5º, e 201, V, da mesma Carta.
+    No caso, o recurso extraordinário versa sobre o tema referente à previsão de requisitos legais diferenciados entre homens e mulheres para a concessão de pensão por morte de ex-servidores públicos, cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (AI 846.973/RS, Min. Presidente).
+    Isso posto, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário se discute questão que será apreciada no AI 846.973/RS.
+    Publique-se.
+    Brasília, 9 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
