@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Reconsidero a decisão agravada. É que o inciso IV do art. 7º do Magno Texto está devidamente prequestionado e, segundo a jurisprudência desta Casa de Justiça (RE 328.812-ED, da relatoria do ministro Gilmar Mendes), a Súmula 343/STF não tem aplicação quando a ação rescisória versar ofensa a normas constitucionais.
+    2. Prossigo, então, para anotar que trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Goiás. Acórdão que julgou improcedente ação rescisória ajuizada por policial militar aposentado, mantendo o julgado que garantiu a ele o direito ao recebimento, a título de soldo básico, de valor nunca inferior ao do salário mínimo fixado em lei, bem como a incidência sobre esse soldo das vantagens pessoais devidas legalmente aos militares.
+    3. Tenho que a insurgência merece acolhida. De saída, consigno que o inciso IV do art. 7º consagra o que se pode chamar, em termos estipendiários, de mínimo existencial. Mínimo existencial sem o qual já não se pode falar de dignidade da pessoa humana. Mais: quando o § 3º do art. 39 da Constituição Republicana manda aplicar aos servidores públicos o inciso IV do art. 7º, por certo que está a se referir à categoria do salário mínimo como um todo pró-indiviso.
+    4. Pois bem, não obstante esse meu ponto de vista, o acórdão recorrido destoa da jurisprudência desta nossa Casa de Justiça, segundo a qual é o montante final da remuneração do servidor que não pode ser inferior ao salário mínimo, pouco importando que o seu vencimento básico o seja. Leia-se, a propósito, a Súmula Vinculante 16:
+    “Os artigos 7º, IV, e 39, § 3º (redação da EC 19/98), da Constituição, referem-se ao total da remuneração percebida pelo servidor público.”
+    5. Nesse mesmo sentido, menciono os seguintes precedentes, oriundos do mesmo ente federado: RE 609.169, da relatoria do ministro Joaquim Barbosa; e AI 581.691, da relatoria da ministra Cármen Lúcia.
+    Ante o exposto, e frente ao disposto nos §§ 3º e 4º do art. 544 do Código de Processo Civil, na redação anterior à da Lei 12.322/2010, provejo o agravo para conhecer o recurso extraordinário e dar-lhe provimento.
+    Publique-se.
+    Brasília, 10 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
