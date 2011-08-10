@@ -1,0 +1,23 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por José Antonio Duarte Alvares, Luciano Salles Chiappa e Marcelo Silva Moura em favor de PEDRO HENRY NETO, no qual aponta como autoridade coatora o Ministro Joaquim Barbosa, Relator da Ação Penal 470 desta Corte.
+    Os impetrantes narram, inicialmente, que o paciente, juntamente com outras trinta e nove pessoas, está sendo processado, nos autos da Ação Penal 470, pela suposta prática dos delitos previstos nos arts. 288 e 317, do Código Penal, e no art. 1º, V e VII, § 1º, II, da Lei 9.613/1998.
+    Dizem, mais, que após o recebimento da denúncia foram expedidas cartas de ordem para a oitiva de todas as testemunhas arroladas pela acusação e pela defesa.
+    Prosseguem aduzindo que por ocasião do depoimento de algumas das testemunhas estavam presentes apenas o representante do Ministério Público Federal e os patronos constituídos por parte dos acusados, sem que fosse designado, contudo, defensor ad hoc para os réus que não se fizeram representar por seus advogados.
+    Sustentam, em síntese, que a falta de designação de defensor técnico para esses corréus provocou cerceamento de defesa, gerando a nulidade absoluta da ação penal, “eis que a presença do defensor, seja constituído ou não, é elemento necessário para a validação daquele ato”.
+    Asseveram, outrossim, que teria havido ofensa ao princípio constitucional do devido processo legal, uma vez que, nos termos do art. 133 da Constituição Federal, o advogado é indispensável à administração da justiça. Afirmam, ainda, que os arts. 261 e 263 do Código de Processo Penal corroboram tal assertiva.
+    Ressaltam, também, que a análise do art. 5º, LXXIV, da Carta da República, que obriga os Estados a prestarem assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, se realizada em conjunto com os mencionados dispositivos do Código de Processo Penal, permite concluir que “é dever do magistrado nomear ao acusado defensor dativo para a realização dos atos processuais, principalmente quando se trata de atos onde é oportunizado o contraditório, como no presente caso”.
+    Argumentam, então, que o princípio constitucional do contraditório foi “ferido de morte”, haja vista que não foi oportunizado ao paciente, bem como a outros corréus, o direito de se fazer acompanhar de advogado, ainda que ad hoc, na audiência para a oitiva das testemunhas referidas, ao passo que o representante do Ministério Público esteve sempre presente. Mencionam, por fim, a violação ao princípio da ampla defesa.
+    Em abono aos argumentos expendidos, trazem alguns precedentes do Superior Tribunal de Justiça, nos quais foi reconhecida a nulidade absoluta do ato de oitiva de testemunha sem a presença de defensor.
+    Requerem, ao final, a concessão de medida liminar para que seja imediatamente suspensa a Ação Penal 470.
+    No mérito, pedem a anulação do processo a partir da oitiva das testemunhas de acusação, cujo depoimento foi prestado sem a presença de defensor do paciente e de outros corréus.
+    Alternativamente, postulam a anulação dos referidos depoimentos e sua consequente renovação, para só depois se encerrar a instrução criminal.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, tenho que esta impetração não comporta seguimento.
+    Como se sabe, a jurisprudência deste Tribunal já assentou não ser cabível a impetração de habeas corpus contra ato jurisdicional do próprio Supremo Tribunal Federal. Nesse sentido transcrevo a ementa do HC 86.548/SP, Rel. Min. Cezar Peluso, julgado pelo Plenário, em 16/10/2008:
+    “HABEAS CORPUS. Ação de competência originária. Impetração contra ato de Ministro Relator do Supremo Tribunal Federal. Decisão de órgão fracionário da Corte. Não conhecimento. HC não conhecido. Aplicação analógica da Súmula 606. Precedentes. Voto vencido. Não cabe pedido de habeas corpus originário para o tribunal pleno, contra ato de ministro ou outro órgão fracionário da Corte” (DJe 18/12/2008 – grifos meus).
+    Cito, ainda, no mesmo sentido, o HC 91.207/RJ, Redator para o acórdão Min. Eros Grau, HC 97.250-AgR/SP, Rel. Min. Ellen Gracie, HC 92.324/SP, do qual fui Redator para o acórdão, e o HC 91.551/RJ, Rel. Min. Marco Aurélio.
+    Ademais, a nulidade alegada pelos impetrantes pode ser combatida por meio do recurso de agravo regimental, previsto no art. 317 do Regimento Interno desta Corte.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 10 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
