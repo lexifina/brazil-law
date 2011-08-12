@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL – EXECUÇÃO FISCAL – DEFERIMENTO DE BLOQUEIO DE ATIVOS FINANCEIROS ATÉ O LIMITE DO DÉBITO: POSSIBILIDADE (LEI N. 11.382/2006) – NOMEAÇÃO DO EXECUTADO COMO DEPOSITÁRIO DE BEM IMÓVEL (AR. 659, §5º, DO CPC) SEGUIMENTO NEGADO – AGRAVO INTERNO NÃO PROVIDO. (...).” (fl. 88)
+    Opostos embargos declaratórios, os mesmos foram rejeitados (fl. 106).
+    No apelo extremo, a recorrente sustenta violação aos artigos 1º, IV; 5º, II e LV; 93, IX; e 170, da Constituição Federal.
+    O acórdão recorrido entendeu que:
+    “Em relação ao bloqueio via BACENJUD, é desnecessário o exaurimento das outras modalidades de tentativas de localização de bens móveis ou imóveis uma vez que a lei não o exige. O ônus, in casu, é do credor apontar bens penhoráveis. A seu turno, o art. 11 da LEF imprime “ao dinheiro” o primeiro valor penhorável. A recente alteração do CPC pela Lei n. 11.382/2006 reforça tal possibilidade: (...).” (fl. 153)
+    O Tribunal a quo decidiu a questão com base em legislação infraconstitucional (Lei da Execução Fiscal e Código de Processo Civil). Desse modo, para se entender de forma diversa, seria necessária a prévia análise da mencionada legislação, procedimento incabível na via extraordinária.
+    Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, 2ª Turma, DJe 24.2.2011, e do AI-AgR 807.815, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 25.11.2010, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA ON LINE. SISTEMA BACEN JUD. ALEGADA QUEBRA DE SIGILO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão com base na legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. IV - Agravo regimental improvido.”
+    Ademais, é firme a jurisprudência desta Corte que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Além disso, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ainda, ressalto que esta via excepcional não viabiliza pretensão cujo exame demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+    Por último, quanto à alegada violação ao artigo 170, da Constituição Federal, caracteriza-se, na hipótese, ausência de prequestionamento, uma vez que o mencionado dispositivo apenas foi suscitado no apelo extremo, não tendo sido debatido no acórdão recorrido.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 12 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
