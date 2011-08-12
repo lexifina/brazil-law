@@ -1,0 +1,13 @@
+Decisão: vistos, etc.
+    Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Anivaldo Lemes de Morais contra ato “omissivo, iminente e atentatório a direito líquido e certo” do Conselho Nacional de Justiça.
+    2. Argui o autor que “foi nomeado, através da Portaria nº 07, de 15 de agosto de 1975, do Diretor do Foro da Comarca de Porangatu/GO (...) para exercer a função de ESCREVENTE AUTORIZADO E SUBOFICIAL DO CARTÓRIO DE REGISTRO DE PESSOAS JURÍDICAS, TÍTULOS E DOCUMENTOS E PROTESTOS, TABELIÃO (2º) DE NOTAS E ESCRIVÃO (2º) DO CÍVEL DA COMARCA DE PORANGATU/GO (...) e, durante a vacância da referida Serventia, ocorrida pela aposentadoria do então Titular em 15 de abril de 2004, (...) foi nomeado pela Portaria 02/2004 (...) para RESPONDER PELA SERVENTIA da Comarca de Porangatu-GO.” Noticia também que o Decreto Judiciário nº 525/2008 do Tribunal de Justiça do Estado de Goiás revogou a aludida portaria, sob o fundamento de que “o ingresso na atividade notorial e de registro depende de concurso público consoante o disposto no art. 236, §3º da Constituição Federal de 1988 e art. 15 da lei 8.935/94”.
+     3. Alega o impetrante violação a seu direito líquido e certo. É que o o afastamento das atividades cartorárias pelo Decreto Judiciário nº 525/2008 violou as garantias da ampla defesa e do contraditório. Ademais, sustenta o acionante possuir direito adquirido à efetivação na titularidade da serventia. Daí requerer a concessão de provimento liminar para “suspender os efeitos do Decreto 525, de 29 de abril de 2008, relativamente ao impetrante, até que seja julgado o mérito do presente writ”.
+    4. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo que não merece seguimento o presente mandado de segurança. É que o impetrante, afastado da serventia extrajudicial há mais de dois anos, pretende, na verdade, ser reconduzido ao posto que ocupava até 30/04/2008. Mas o fato é que esse afastamento se deu por ato do Tribunal de Justiça do Estado de Goiás (Decreto Judiciário 525/2008), em cumprimento à determinação do Conselho Nacional de Justiça no Pedido de Providências nº 861. De qualquer forma, como a declaração de vacância, no caso, se deu em 2008, escoou-se há muito o prazo decadencial de cento e vinte dias de que trata o art. 23 da Lei 12.016/2009.
+    5. Ante o exposto, nego seguimento ao mandado de segurança.
+    6. Intime-se o Advogado-Geral da União desta decisão.
+    7. Defiro o benefício de justiça gratuita.
+    Publique-se.
+    Brasília, 12 de agosto de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
