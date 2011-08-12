@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRABALHISTA. HORAS IN ITINERE. IMPOSSIBILIDADE DE ANÁLISE DE FATOS, DE PROVAS, DO CONTRATO DE TRABALHO E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “I - AGRAVO DE INSTRUMENTO DO RECLAMANTE (EM APENSO) – PROVIMENTO HORAS IN ITINERE - PERCURSO INTERNO. Constatada possível contrariedade à Orientação Jurisprudencial Transitória nº 36 da SBDI-1 do TST, merece ser provido o apelo para determinar o processamento do recurso denegado. Agravo de Instrumento a que se dá provimento.
+    II - RECURSO DE REVISTA DO RECLAMANTE PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Preliminar não analisada nos termos do art. 249, §2º, do CPC. HORAS IN ITINERE - PERCURSO INTERNO. O acórdão regional contraria a Orientação Jurisprudencial Transitória nº 36 da C. SBDI-1. HORAS EXTRAS - MINUTOS RESIDUAIS - SÚMULA Nº 366 DO TST. Pertinência da Súmula nº 366 do TST. Recurso de Revista conhecido e provido.
+    III - RECURSO DE REVISTA DA RECLAMADA . PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL - OMISSÃO - SÚMULA Nº 297, III, DO TST. Incidência da Súmula nº 297, item III, do TST. RECURSO ORDINÁRIO NÃO CONHECIDO POR IRREGULARIDADE DE REPRESENTAÇÃO. O Recurso de Revista não comporta conhecimento, a teor do art. 896 da CLT. Recurso de Revista não conhecido” (fls. 282-283, grifos no original).
+    2. A Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. II, da Constituição da República.
+     Afirma que “ao contrário do que sustenta o v. aresto, (...), a OJT n. 36, da SBDI-1 (antiga OJ n. 98 da SBDI-1) é de restrita aplicação aos empregados da Açominas e traduz situação fática absolutamente distinta da debatida nestes autos. A legislação trabalhista em vigor estabelece, como regra, que o tempo despendido pelo empregado até seu local de trabalho não é considerado de trabalho, não sendo portanto remunerado (...). O trajeto em questão é feito a pé na maioria das vezes e, em razão da proximidade, não demanda mais do que 5 minutos” (fl. 354-355, grifos no original).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de que: a) inexiste ofensa constitucional direta e b) incide na espécie a Súmula 636 do Supremo Tribunal Federal (fl. 376-377).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal Superior do Trabalho examinou a controvérsia com apoio nos fatos e nas provas dos autos, em orientações jurisprudenciais do Tribunal Superior do Trabalho e em interpretação de normas infraconstitucionais e do contrato firmado entre as partes, procedimento que não pode ser validamente adotado em recurso extraordinário. Incidem na espécie as Súmulas 279 e 454 do Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. HORAS IN ITINERE. ACORDO COLETIVO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI 706.968-AgR/PR, de minha relatoria, Primeira Turma, DJ 13.3.2009).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PAGAMENTO DE HORAS IN ITINERE. IMPOSSIBILIDADE DE ANÁLISE DE ACORDO COLETIVO DE TRABALHO. SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI 824.649-AgR/SC, de minha relatoria, Primeira Turma, DJ 24.3.2011).
+    7. Ademais, a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice na Súmula 636 do Supremo Tribunal Federal, que dispõe: “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de agosto de 2011.
+ Ministra CÁRMEN LÚCIA
+Relatora
