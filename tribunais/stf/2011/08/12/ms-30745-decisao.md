@@ -1,0 +1,49 @@
+DECISÃO
+MANDADO DE SEGURANÇA. ATO COATOR OMISSIVO DO PRIMEIRO-SECRETÁRIO DO SENADO FEDERAL. ATO ADMINISTRATIVO QUE NÃO DECORRE DE SUA FUNÇÃO NA MESA DO SENADO FEDERAL. ART. 102, INC. I, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA. DEVOLUÇÃO DOS AUTOS.
+Relatório
+    1. Mandado de segurança, com pedido de medida liminar, impetrado por Rubens de Araújo Lima, em 7.1.2011, contra ato omissivo do Primeiro-Secretário do Senado Federal.
+O caso
+    2. Em 10.6.2010, pela Portaria n. 41 de 2010, o Primeiro-Secretário do Senado Federal determinou o afastamento, por sessenta dias, de Rubens de Araújo Lima do cargo de policial legislativo federal (fl. 5 dos documentos).
+    O Impetrante relata que se teria apresentado, após cumprir a suspensão determinada, para o desempenho de suas atividades em 13.8.2010, quando foi informado de que seus pertences e sua identidade funcional não seriam devolvidos.
+    Alega que essa retenção caracterizaria prorrogação indevida dos efeitos da Portaria n. 41/2010 e que estaria, assim, “desempenhando sua atividade policial sem identidade, sem armamento institucional, sem rádio, sem distintivo e demais aparatos específicos” (fl. 3 da petição inicial).
+    Por esse motivo teria formulado requerimentos ao Diretor da Secretaria de Polícia do Senado Federal, à Comissão Diretora daquela Casa Legislativa e, finalmente, ao Primeiro-Secretário do Senado Federal.
+    Sustenta que o Requerimento n. 021446/10-5, apresentado ao Primeiro-Secretário do Senado Federal em 17.8.2010 (fls. 6-7 dos documentos), não teria sido despachado, o que teria ensejado novo requerimento em 20.12.2010 (Requerimento n. 031258/10-7), que também aguardaria despacho (fls. 52-63 dos documentos).
+    Em razão dessa alegada omissão do Primeiro-Secretário do Senado Federal, Rubens de Araújo Lima impetrou o presente mandado de segurança, em 7.1.2011, no juízo da 9ª Vara Federal da Seção Judiciária do Distrito Federal.
+    Argumentou que haveria “violação ao [seu] direito líquido e certo (...) à correta duração dos efeitos da suspensão prevista no art. 147 da Lei n. 8.112/90; (...) a obter resposta da Administração Pública em tempo hábil de suas solicitações; bem como (…) em não ter seu documento de identificação pessoal indevidamente retido” (fl. 4 da inicial).
+    Ponderou que competiria ao Primeiro-Secretário do Senado Federal, conforme determina o art. 201 da Resolução n. 58/1972 (antigo art. 453), “velar pelas apurações de irregularidades constantes ou não de processos administrativos no Senado Federal” (fl. 6 da inicial).
+    Requereu medida liminar “para que a Autoridade Coatora devolva, de imediato, os documentos indevidamente recolhidos e retidos” (fl. 9 da inicial).
+    No mérito, pediu fosse concedida a segurança “no sentido de determinar à Autoridade Coatora que devolva os pertences recolhidos por força da Portaria 41/2010, principalmente a identificação retida indevidamente”.
+    3. Em 10.1.2011, o juízo da 9ª Vara Federal da Seção Judiciária do Distrito Federal declarou sua incompetência para processar e julgar o presente mandado de segurança em razão do que dispõe o art. 102, inc. I, alínea d, da Constituição da República (fls. 73-74 dos documentos).
+    4. Em 11.7.2011, os autos foram encaminhados a este Supremo Tribunal (fl. 77 dos documentos).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O mandado de segurança não pode ser conhecido.
+    O art. 102, inc. I, alínea d, da Constituição da República estabelece as hipóteses de competência do Supremo Tribunal Federal para conhecer de mandado de segurança:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o 'habeas-data' contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    Este Supremo Tribunal assentou que sua competência para processar mandado de segurança impetrado contra ato de integrantes das Mesas do Senado Federal e da Câmara dos Deputados justifica-se apenas quando o alegado ato coator decorrer do exercício da função daquele parlamentar na Mesa Diretora da respectiva Casa Legislativa.
+    Nesse sentido:
+“EMENTA: AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. COMPETÊNCIA DO STF PARA PROCESSAR E JULGAR MANDADO DE SEGURANÇA CONTRA ATO DO PRIMEIRO SECRETÁRIO DA CÂMARA DOS DEPUTADOS. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO ATO COATOR.
+    1. Se o ato do Primeiro Secretário da Câmara dos Deputados decorre de sua função na Mesa Diretora da Casa Legislativa, deve ser analisado pelo Supremo Tribunal Federal, em virtude do disposto no artigo 102, I, d, da Constituição Federal.
+    2. Hipótese de ilegitimidade passiva do Primeiro Secretário, visto que o writ foi impetrado com fundamento em notícia veiculada por servidor da Casa Legislativa de que a autoridade impetrada teria proibido ao impetrante o acesso a documentos de seu interesse, inexistindo, assim, prova pré-constituída do ato coator.
+    3. Não cabe ao STF baixar os autos em diligência para pedir informações, se o impetrante teve oportunidade de requerer confirmação do ato impugnado à autoridade impetrada. Entendimento da maioria.
+    Agravo Regimental a que se nega provimento, extinguindo-se o processo sem julgamento do mérito ” (MS 24.099-AgR/DF, Rel. Min. Maurício Corrêa, Plenário, DJ 2.8.2002, grifos nossos).
+    Ainda:
+“EMENTA: AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. ATO DO PRIMEIRO SECRETÁRIO DA CÂMARA DOS DEPUTADOS. COMPETÊNCIA DO STF. ART. 102, I, "D", DA CB/88. IMPOSSIBILIDADE MATERIAL DO PEDIDO. DIREITO LÍQUIDO E CERTO. AUSÊNCIA. 1. O Supremo Tribunal Federal é competente para julgar mandado de segurança impetrado contra o Primeiro Secretário da Câmara dos Deputados se o ato coator decorre de sua função na Mesa Diretora [art. 102, I, "d", da CB/88 c/c art. 19, I, do Regimento Interno da Câmara dos Deputados]. Precedente [MS n. 24.099, Relator o Ministro MAURÍCIO CORREA, DJ 02.08.2002]. 2. Não há falar-se em direito líquido e certo a ser amparado por mandado de segurança quando o pedido deduzido na inicial é impossível de ser atendido pela autoridade coatora. 3. Agravo regimental improvido” (MS 24.189-AgR/DF, Rel. Min. Eros Grau, Plenário, DJ 30.9.2005, grifos nossos).
+    6. No caso dos autos, o ato coator omissivo que se imputa ao Primeiro-Secretário do Senado Federal não decorre do exercício de suas atribuições na Mesa daquela Casa Legislativa, mas de função administrativa por ele exercida.
+    A suspensão a que foi submetido o Impetrante se fundou no art. 193 da Resolução n. 58/1972 do Senado Federal, que atribui ao Primeiro-Secretário do Senado Federal competência para aplicar essa pena disciplinar:
+    “Art. 193. Para imposição de pena disciplinar, são competentes:
+    II - o Primeiro-Secretário, nos casos de suspensão por mais de 30 (trinta) e até 90 (noventa) dias e de destituição de função;”
+    O Impetrante alega que estaria ocorrendo uma prorrogação indevida da suspensão e que, para corrigir essa situação, teria formulado requerimentos cuja apreciação seria de competência do Primeiro-Secretário do Senado Federal em razão do que estabelece o art. 201 da Resolução n. 58/1972 do Senado Federal:
+    “Art. 201. A autoridade que tomar conhecimento de irregularidade nos serviços do Senado Federal é obrigada a levá-la ao conhecimento do Primeiro-Secretário, que determinará a sua apuração imediata, mediante sindicância ou processo administrativo, assegurando-se ao acusado ampla defesa” (grifos nossos).
+    Assim, o ato coator omissivo imputado à parte passiva deste mandado de segurança decorre de função administrativa, relativo às atividades internas daquela Casa Legislativa, e não de funções atribuídas à sua Mesa Diretora.
+    7. No julgamento do Mandado de Segurança n. 23.977/DF, este Supremo Tribunal assentou que, em se tratando de ato administrativo de natureza interna, não imputável à Mesa Diretora da Casa Legislativa, a competência para processar e julgar o mandado de segurança é da Justiça Federal, em razão do que dispõe o art. 109, inc. VIII, da Constituição da República
+    Nesse sentido, a ementa daquele julgado:
+    “EMENTA: COMPETÊNCIA. Originária. Não caracterização. Mandado de segurança. Impetração contra ato omissivo do presidente da Câmara dos Deputados. Omissão não imputável à Mesa da Câmara. Feito da competência da Justiça Federal. Pedido não conhecido. Interpretação do art. 102, I, "d", da CF. Precedente. Não compete ao Supremo, mas à Justiça Federal, conhecer de mandado de segurança impetrado contra ato, omissivo ou comissivo, praticado, não pela Mesa, mas pelo presidente da Câmara dos Deputados” (MS 23.977/DF, Rel. Min. Cezar Peluso, Plenário, DJ 27.8.2010, grifos nossos).
+    A competência para conhecer do presente mandado de segurança é, portanto, do juízo da 9ª Vara Federal da Seção Judiciária do Distrito Federal .
+    8. Cumpre registrar que, no julgamento dos Embargos de Declaração no Mandado de Segurança n. 25.087/SP, Relator o Ministro Ayres Britto, DJ 11.5.2007, o Plenário deste Supremo Tribunal decidiu que, em caso de não conhecimento do mandado de segurança por incompetência manifesta e existindo risco de perecimento do direito, há de se encaminhar os autos ao Tribunal competente.
+    9. Pelo exposto, não conheço do mandado de segurança e determino a imediata remessa dos autos, com urgência e prioridade, ao juízo da 9ª Vara Federal da Seção Judiciária do Distrito Federal (art. 21, inc. VI, da Lei Complementar n. 35/1979 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), a fim de que seja apreciado o pedido como de direito.
+    Publique-se .
+    Brasília, 12 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
