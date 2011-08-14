@@ -1,0 +1,42 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Marina Alves Gaulia em favor de SÉRGIO DE FIGUEIREDO PAULA, contra decisão da Ministra Maria Thereza de Assis Moura, que indeferiu o pedido de liminar no HC 201.374/SP do Superior Tribunal de Justiça.
+    Consta dos autos que o paciente foi condenado à pena de quatro anos e oito meses de reclusão, no regime semiaberto, pela prática da infração prevista no art. 155, § 4º, II, combinado com o art. 71, ambos do Código Penal, por ter subtraído energia elétrica nos períodos de 8/3/2001 a 19/4/2002 e 6/2/2003 a 2/4/2003, sendo intimado pessoalmente da sentença condenatória em 28/9/2006, oportunidade em que, por meio de petição subscrita juntamente com seu advogado então constituído, afirmou que não teria interesse em recorrer.
+    O trânsito em julgado da condenação deu-se em 31/10/2006, tendo o paciente, patrocinado por novo defensor, requerido a devolução do prazo para interpor apelação, sendo o pleito deferido pelo juízo de primeiro grau.
+    Inconformado, o Ministério Público do Estado de São Paulo interpôs correição parcial no Tribunal de Justiça daquele Estado, que deu provimento ao recurso para determinar fosse iniciada a execução da reprimenda imposta ao paciente, expedindo-se, para tanto, o respectivo mandado de prisão.
+    Contra essa determinação, a defesa manejou habeas corpus no Superior Tribunal de Justiça (HC 96.300/SP), que concedeu a ordem para anular o julgamento da correição parcial, ante a intimação do antigo advogado, e não do atualmente constituído, em acórdão assim ementado:
+    “PROCESSO PENAL. HABEAS CORPUS. FURTO. RENÚNCIA AO DIREITO DE APELAR. VÍCIO DE CONSENTIMENTO RECONHECIDO PELO JUIZ. DEVOLUÇÃO DO PRAZO. CORREIÇÃO PARCIAL MINISTERIAL. INTIMAÇÃO DA DATA E DO RESULTADO DA SESSÃO DE JULGAMENTO EM NOME DE ANTIGO ADVOGADO. ILEGALIDADE. RECONHECIMENTO.
+    1. Reconhece-se a irregularidade da intimação de advogado, cuja procuração fora revogada, da data e do resultado da sessão de julgamento de correição parcial.
+    2. Ordem concedida para anular o trânsito em julgado, determinando-se ao Tribunal a quo que refaça o julgamento da correição parcial, intimando-se o novo advogado constituído da data da sessão de julgamento e de todos os atos subsequentes”.
+    Julgando os embargos de declaração opostos pela impetrante, a Sexta Turma daquela Corte assegurou o direito de o paciente recorrer em liberdade.
+    A apelação, por sua vez, foi julgada prejudicada, sob o entendimento de que o trânsito em julgado da sentença condenatória não decorreu de nenhum vício processual, devendo, por consequência, produzir o seu efeito imediato, qual seja, a instauração do processo de execução da reprimenda.
+    Na sequência, sobreveio o novo julgamento da correição parcial, tendo a Corte Estadual decidido, igualmente, pela prejudicialidade do pleito, haja vista “que a pretensão ministerial foi acolhida na apelação, deixando sem objeto este pedido correcional”.
+    Ainda irresignada, a defesa impetrou novo writ no Superior Tribunal de Justiça, tendo a Ministra Relatora indeferido a tutela de urgência.
+    É contra essa última decisão que se insurge a impetrante.
+    Destaca, de início, que o paciente sofre flagrante constrangimento ilegal, justificando, assim, a flexibilização do enunciado da Súmula 691 desta Suprema Corte.
+    Sustenta, em seguida, a nulidade da ação penal, argumentando, em síntese, que o paciente não foi tecnicamente defendido, tendo em vista que o advogado então constituído apresentou alegações finais em uma única página, “por meio 03 (três) singelos parágrafos”, além de não ter se manifestado sobre os documentos juntados por determinação do juízo processante, sobrevindo, então, a sentença condenatória.
+    Relata, ainda, em reforço a sua tese, que o advogado teria recomendado ao paciente que não recorresse da condenação, sob o risco de ver a sua pena dobrada, fazendo com que ele também assinasse a petição de renúncia recursal, não observando, contudo, que não houve recurso da acusação.
+    No mais, traz ensinamentos doutrinários e jurisprudenciais acerca das nulidades absoluta e relativa, asseverando que, na hipótese dos autos, trata-se de nulidade absoluta.
+    Referindo-se, também, sobre o enunciado da Súmula 523 desta Corte, segundo a qual, “no processo penal, a falta da defesa constitui nulidade absoluta, mas a sua deficiência só o anulará se houver prova de prejuízo para o réu”, diz que, ante a ausência de defesa técnica, resta evidente o prejuízo causado ao paciente, devendo o processo ser anulado.
+    Requer, ao final, liminarmente, a concessão da ordem liberatória ao paciente, até o julgamento final deste writ. No mérito, pede a confirmação da liminar pleiteada para que o paciente permaneça em liberdade até o julgamento habeas corpus impetrado no Superior Tribunal de Justiça.
+    É o relatório suficiente. Decido.
+    A decisão impugnada tem, no que importa, o seguinte teor:
+    “(...)
+    Como já adiantado, a presente ordem foi distribuída por prevenção ao HC 96.300, no qual a ordem concedida para anular o julgamento da correição parcial.
+    Em relação à nulidade da ação penal pela ocorrência de cerceamento de defesa, tem-se que se trata de matéria complexa, a exigir um mergulho no evolver da ação penal, apreciação cuja profundidade cognitiva é imprópria para este átrio processual.
+    De mais a mais, tem-se o óbice da ausência do aresto do prévio writ, o que dificulta sobremaneira a apreciação do pleito preambular.
+    Em idêntico trilho, é patente a inviabilidade de se aferir a nulidade da apelação, que teria se abeberado de argumentos lançados na correição parcial.
+    Ademais, a liminar pleiteada, nos termos em que deduzida, imbrica-se com o mérito da impetração, sendo prudente, portanto, reservar-lhe o exame ao órgão colegiado, conforme entendimento já exarado por este Sodalício:
+    [...] a provisão cautelar não se presta à apreciação da questão de mérito do writ, por implicar em exame prematuro da matéria de fundo da ação de habeas corpus, de competência da turma julgadora, que não pode ser apreciada nos limites da cognição sumária do Relator. Por outras palavras, no writ, não cabe medida satisfativa antecipada. (HC 17.579/RS, Rel. Min. Hamilton Carvalhido, DJ 09.08.2001).
+    Não comparecem, pois, os requisitos para o deferimento da medida de urgência.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações à autoridade apontada como coatora.
+    Após, ao Ministério Público Federal para parecer” (grifos no original).
+    Pois bem. A superação do teor da Súmula 691 desta Corte somente seria justificável no caso de flagrante teratologia, ilegalidade manifesta ou abuso de poder, situações nas quais não se enquadra a decisão ora atacada.
+    Ainda que em juízo de mera delibação, não encontro naquela decisão as hipóteses antes mencionadas, aptas a justificar a superação do referido verbete.
+    Verifica-se que a Ministra Relatora, ao indeferir a liminar requerida, registrou a inexistência dos requisitos para o deferimento da medida, ressaltando, inclusive, que, “em relação à nulidade da ação penal pela ocorrência de cerceamento de defesa, tem-se que se trata de matéria complexa, a exigir um mergulho no evolver da ação penal, apreciação cuja profundidade cognitiva é imprópria para este átrio processual”. Acentuou, ainda, que “a liminar pleiteada, nos termos em que deduzida, imbrica-se com o mérito da impetração, sendo prudente, portanto, reservar-lhe o exame ao órgão colegiado (...)”.
+    Não há, nesse ato, qualquer ilegalidade flagrante, tampouco abuso de poder. Muito pelo contrário, não se pode exigir, nessa fase processual, que o Relator esgote os fundamentos pelos quais a ordem deva ou não ser concedida. Se os argumentos da impetrante não foram suficientes para, a priori, formar o convencimento daquela Magistrada, caberá ao Colegiado respectivo, depois de instruído o processo, analisar as questões postas sob exame, não havendo, nesse procedimento, qualquer constrangimento ilegal.
+    Ante esse quadro, é de todo conveniente aguardar o pronunciamento definitivo do Superior Tribunal de Justiça, não sendo a hipótese de se abrir, nesse momento, a via de exceção.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a este habeas corpus. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 14 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
