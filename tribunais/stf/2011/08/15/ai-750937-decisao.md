@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Município de Campinas interpõe agravo de instrumento contra decisão que não admitiu o recurso extraordinário, fundamentado na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo que afastou a exigibilidade do IPTU e da Taxa de Sinistros, nos exercícios de 1996 a 2000.
+    No apelo extremo, alega o Município recorrente contrariedade ao disposto nos artigos 30; 145, I e II; §§ 1º e 2º; 156, § 1º; e 182,§ 4º, da Constituição Federal, requerendo, tão somente, a manutenção da tributação do IPTU pela alíquota mínima. (fl. 314 e 325)
+    Decido.
+    A irresignação merece prosperar.
+    No caso dos autos, verifico que foram concedidos descontos escalonados por faixas. A progressividade inconstitucional de alíquotas do IPTU na forma de isenções parciais foi apreciada pelo Plenário da Corte no RE nº 194.036, Relator o Ministro, DJ 20/6/97. Essa decisão foi reafirmada no RE nº 456.513, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 14/11/03, cuja ementa é a seguinte:
+    “EMENTA: IPTU: progressividade. 1. O STF firmou o entendimento - a partir do julgamento do RE 153.771, Pleno, 20.11.96, Moreira Alves - de que a única hipótese na qual a Constituição admite a progressividade das alíquotas do IPTU é a do art. 182, § 4º, II, destinada a assegurar o cumprimento da função social da propriedade urbana. 2. Manifestou-se também o plenário da Corte pela inconstitucionalidade da cobrança do IPTU de forma progressiva, estabelecida mediante a concessão de isenções parciais, variáveis conforme o valor venal do imóvel (RE 167.036, Ilmar Galvão, DJ 20.06.97)” (AI n° 456.513/SP-ED, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 14/11/03).
+    O Plenário da Corte novamente se pronunciou sobre o tema, em julgamento de 01/08/2011, nos autos do RE nº 355.046/SP. Na ocasião a Relatora Ministra Ellen Gracie asseverou que concessão de isenção parcial do IPTU inversamente proporcional ao valor dos imóveis, configura sistemática disfarçada de alíquotas progressivas. Concluiu, ainda, o Plenário da Corte, na esteira do voto da Relatora, pela aplicação da alíquota mínima constante da legislação impugnada.
+    Com efeito, esta Suprema Corte firmou entendimento no sentido de que a pecha de inconstitucionalidade alcança tão-somente a parte do dispositivo que erige a progressividade de alíquotas, mantendo-se incólume a legislação impugnada quanto ao dever de pagar o tributo, que, no entanto, se dará no grau mais baixo prescrito em lei.
+    Esclareço que a manutenção da cobrança do tributo pela alíquota mínima não traduz invasão de competência do Poder Legislativo pelo Poder Judiciário, nem em inovação legislativa. Trata-se de declaração de inconstitucionalidade parcial de dispositivo normativo, com redução de texto, que somente é vedado quando do reconhecimento do vício sobre parte da norma resulte evidente inversão ou distorção do sentido da lei.
+    Ante o exposto, dou provimento ao agravo de instrumento e, desde já, conheço do extraordinário e dou-lhe provimento para que seja aplicada a alíquota mínima equivalente ao percentual obtido, mediante a aplicação do maior desconto previsto na legislação vigente à época do fato gerador da obrigação, de acordo com a destinação do imóvel, na esteira da jurisprudência desta Corte.
+    Dada a sucumbência recíproca, fixo as custas e honorários advocatícios em 10% sobre o valor da causa, a serem distribuídos e compensados proporcionalmente, na forma do art. 21, caput do Código de Processo Civil.
+    Publique-se.
+    Brasília, 15 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
