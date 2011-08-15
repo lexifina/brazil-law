@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Ronan Maria Pinto e outros interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. Confirmação da inexistência de fundamento para o prosseguimento do recurso obstaculizado, ante a inexistência de violação legal, incidindo os Enunciados 266 e 297” (fl. 631).
+    Opostos embargos de declaração (fls. 634 a 639), foram rejeitados (fls. 643/644).
+    Alegam os recorrentes violação do artigo 5, inciso LIV, da Constituição Federal. Pretendem seja determinada “a exclusão dos recorrentes do processo de execução bem como anulando todos os atos constritivos contra os mesmos, inclusive determinado a restituição dos valores arrestado de suas contas bancárias já que não fizeram parte de nenhuma fase processual e portanto não podem ser responsabilizados por algo que não fizeram parte” (fl. 671).
+    Contra- arrazoado (fls. 675 a 681), o recurso extraordinário (fls. 659 a 671) não foi admitido (fl. 683), tendo seguimento em razão da decisão proferida pelo Ministro Sepúlveda Pertence em agravo de instrumento (fl. 706).
+    O Ministério Público Federal opina, em parecer da lavra do então Subprocurador-Geral da República, Dr. Roberto Monteiro Gurgel Santos, pelo “não conhecimento do recurso” (fls. 714/715).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 6/5/05, conforme expresso na certidão de folha 645, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar.
+    A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Especificamente sobre o tema, o AI nº 840.077/SP, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 22/6/11, proferido em caso idêntico ao dos autos, em que se discute à possibilidade de constrição judicial de bens dos sócios no caso de inexistência de patrimônio da sociedade quando da execução:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. EXECUÇÃO. PENHORA. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    No mesmo sentido, as seguintes decisões monocráticas: AI nº 825.383/SP, Relatora a Ministra Ellen Gracie, DJ de 6/12/10, e AI nº 720.140/SP, Relator o Ministro Menezes Direito, DJ de 1º/10/08.
+    Demais disso, para ultrapassar o entendimento do Tribunal local sobre a responsabilidade patrimonial dos sócios pelas dívidas da sociedade da qual participaram e acolher a tese dos autores demandaria, também, o reexame das provas dos autos, operação vedada nesta instância, a teor da Súmula nº 279/STF.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
