@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. ACIDENTE DO TRABALHO. DANO MORAL E/OU PATRIMONIAL. PRESCRIÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. LIDE DECORRENTE DA NOVA COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DESPROVIMENTO. Não merece provimento o agravo de instrumento que tem por objetivo o processamento do recurso de revista, quando não demonstrada violação literal de dispositivo constitucional ou legal, nem divergência jurisprudencial apta ao confronto de tese. Agravo de instrumento desprovido” (fl. 398)
+    Opostos embargos de declaração (fls. 403 a 405), foram rejeitados (fls. 416 a 418).
+    No recurso extraordinário (fls. 429 a 432), sustenta-se violação do artigo 7°, inciso XXIX, da Constituição Federal, uma vez que no caso em tela incide a prescrição relativa às ações trabalhistas.
+    Decido.
+    Colhe-se do voto condutor do acórdão recorrido:
+    “A manutenção do r. decisum agravado, pelas próprias razões de decidir é medida que se impõe, após cuidadosa análise da matéria.
+     Extrai-se da v. decisão embargada ter ocorrido o acidente de trabalho em 23/12/1995, portanto, a prescrição a ser aplicada para a pretensão de indenização por dano moral é a trienal prevista no artigo 206, § 3°, do Código Civil de 2002, observada a regra de transição prevista no art. 2.028, do mencionado diploma legal. Ressalte-se que o Código Civil passou a viger em 12.01.2003 e que a presente ação foi ajuizada em 24/10/2006.
+    Considerada que na data da lesão, vigia o prazo prescricional vintenário previsto no artigo 177 do Código Civil de 1916 e aplicada a regra de transição prevista no art. 2.028 do novo Código Civil, na data em que este entrou em vigor não havia transcorrido metade do prazo prescricional da lei anterior. Logo, não há prescrição a ser aplicada, já que pela regra de transição o autor tem três anos para buscar o direito à reparação por dano moral por acidente de trabalho, contados da vigência do referido diploma legal em 12.1.2003. Ajuizada a ação em 24/10/2006, não está prescrita a pretensão de indenização por dano moral em decorrência de acidente de trabalho.
+    Nenhum dos argumentos trazidos conseguem desconstituir os fundamentos do r. despacho, eis que não demonstrado requisito a possibilitar o processamento do recurso de revista interposto” (fl. 399).
+    Desse modo, não merece prosperar o recurso, uma vez que nos termos da jurisprudência desta Corte, a questão relativa à incidência da prescrição está restrita à interpretação da legislação infraconstitucional e ao reexame das provas dos autos, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido:
+    “CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO POR DANO MORAL. RELAÇÃO DE EMPREGO. PRAZO PRESCRICIONAL. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE OFENSA À CONSTITUIÇÃO. 1. Inviável o processamento de extraordinário para debater matéria infraconstitucional sob o argumento de violação ao art. 7º, XXIX, da Constituição Federal. 2. A discussão relativa ao prazo prescricional para propositura da ação de indenização por danos morais derivados da relação de emprego depende de prévio exame de fatos e provas (Súmula STF 279) e da legislação infraconstitucional. 3. Agravo regimental improvido” (AI nº 806.626/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 25/10/10);
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRAZO PRESCRICIONAL. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A discussão relativa ao prazo prescricional para propositura da ação situa-se no campo infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 485.013/PB–AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 13/4/07);
+    Nesse sentido, as seguintes decisões monocráticas: RE n° 582.214/PR, Relator o Ministro Cezar Peluso, DJe de 14/4/08; AI n° 839.754/MG, Relatora a Ministra Cármen Lúcia, DJe de 18/3/11; e AI n° 840.370/MG, Relator o Ministro Gilmar Mendes, DJe de 29/4/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
