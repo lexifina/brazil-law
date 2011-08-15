@@ -1,0 +1,37 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. GESTANTE. LICENÇA MATERNIDADE. ESTABILIDADE PROVISÓRIA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DA JURISDIÇÃO, DO DEVIDO PROCESSO LEGAL, DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO FUNDAMENTADO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal Regional Federal da 4ª Região julgou apelação em mandado de segurança nos termos seguintes:
+    “MILITAR TEMPORÁRIO. GESTANTE. ESTABILIDADE.
+    É garantido à servidora militar gestante a estabilidade no trabalho, nos termos do disposto nos arts. 10, II, ‘b’, do ADCT e 7º, inc. XVIII, c/c o art. 145, § 3º, inc. VIII, da CR/88” (fl. 108).
+    Os embargos declaratórios opostos foram assim julgados:
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. MATÉRIA JÁ EXAMINADA. PREQUESTIONAMENTO.
+    1. Havendo manifestação expressa a respeito da questão proposta em sede de agravo de instrumento, é incabível a oposição de embargos visando a modificação do julgado.
+    2. A contradição a ser afastada por este meio diz respeito à própria decisão atacada, e não frente à pretensão dos demandantes.
+    3. O Tribunal não está vinculado ao exame de todos os dispositivos legais ou constitucionais invocados pela parte, mas apenas dos que sejam pertinentes e relevantes à prestação jurisdicional.
+    4. Acolhida a pretensão de prequestionamento, para evitar que a inadmissibilidade dos recursos às instâncias superiores decorra exclusivamente da ausência de menção expressa aos dispositivos tidos pela parte como violados, que tenham sido implicitamente considerados no acórdão, por serem pertinentes à matéria decidida” (fl. 120).
+    3. A decisão agravada teve os seguintes fundamentos para a inadmissibilidade do recurso extraordinário: a) “No concernente à suposta violação aos arts. 5º e 93 da Constituição da República, a pretensão recursal não merece trânsito, na medida em que a alegada ofensa a preceito constitucional somente se verificaria de modo indireto e reflexo”; e b) a circunstância de que a o julgado recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    4. A Agravante argumenta que:
+    “a r. decisão de fl. não merece prosperar, sob o risco de ofensa aos princípios constitucionais do contraditório, da ampla defesa (artigo 5º, LV) e do devido processo legal (artigo 5º, LIV). Acrescente-se o inciso XXXV do artigo 5º, uma vez que há manifesta lesão e ameaça à direito da agravante, porquanto compelida a submeter-se à r. decisão que, ‘data venia’, não prestou jurisdição dentro dos limites da respectiva competência, pois a letra ‘a’ do inciso III do artigo 102 da Constituição Federal dispõe que compete a esse E. STF a apreciação da matéria de fundo do recurso inadmitido – onde se incluem os artigos mencionados no recurso (...) contrariando, assim, dispositivos aplicáveis à espécie, como demonstrado no recurso inadmitido” (fl. 5).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXIV, XXXV, LIV e LV, 7º, inc. XVIII, 93, inc. IX, e 142, § 3º, da Constituição e art. 10, inc. II, alínea b, do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    Anote-se, inicialmente, quanto à alegação de nulidade do acórdão por ofensa ao inc. IX do art. 93 da Constituição da República, que embora em sentido contrário à pretensão da Agravante, o julgado recorrido apresentou suficiente fundamentação. E, tal como se firmou na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    6. Registre-se o que observado pelo Desembargador Federal Relator:
+    “Adoto como razões de decidir o parecer do MPF, oferecido nesta instância (fls. 90/92):
+    ‘Ao que se observa da análise dos autos, a impetrante prestou serviço militar na qualidade de Oficial Temporária Farmacêutica-Bioquímica, desde 28 de fevereiro de 2000, tendo sido licenciada em 27 de fevereiro de 2007, quando se encontrava em estado de gestação.
+    Assim, tendo em vista as disposições constitucionais, que garantem à toda mulher com vínculo de trabalho a garantia de licença-maternidade, há de ser mantido o provimento sentencial, posto que, quando do início da gestação, estava presente tal vínculo’” (fls. 104-104 v.).
+    O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, que assentou que a estabilidade provisória do inc. XVIII do art. 7º da Constituição da República é extensível às militares que estiverem em licença maternidade, nos termos do inc. VIII do art. 142 da Constituição.
+    Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Estabilidade provisória. Gestante. 3. Militar temporária. 4. Benefício constitucionalmente assegurado. Precedentes do STF. 5. Agravo regimental a que se nega provimento” (AI 811.376-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 23.3.2011).
+    7. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional (Código de Processo Civil), configurariam apenas ofensa constitucional indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
