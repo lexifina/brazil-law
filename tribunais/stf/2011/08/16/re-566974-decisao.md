@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Conselho Federal de Engenharia Arquitetura e Agronomia – CONFEA interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. CONSELHO FEDERAL DE ENGENHARIA, ARQUITETURA E AGRONOMIA – CONFEA. EMPRESAS QUE SE DEDICAM À INDUSTRIALIZAÇÃO, COMÉRCIO E MANUTENÇÃO DE ELEVADORES. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA BITRIBUTAÇÃO. DELEGAÇÃO DO PODER DE TRIBUTAR. VIOLAÇÃO AOS ARTS. 150, DA CF, 7º E 97, DO CTN.
+    1. A Anotação de Responsabilidade Técnica – ART, instituída expressamente como TAXA pela Lei 6.994/82, configura-se como manifestação do exercício do Poder de Polícia conferido ao sistema CONFEA-CREA para fiscalização do exercício das profissões englobadas pelo Conselho, nos termos do art. 145, II, da Constituição Federal de 1988.
+    2. A Lei 6.496/77, art. 2º, § 2º, delegou o poder de tributar ao CONFEA, ao determinar que esse órgão deveria fixar os critérios e os valores das taxas da ART ad referendum do Ministro do Trabalho. A fixação das alíquotas da taxa da ART (Lei 6.994/82, art. 2º, parágrafo único) igualmente fora delegada ao CONFEA, desde que observado o limite máximo de cinco MVRs.
+    3. Referidas Leis não observaram, ao instituir a taxa da ART, o Princípio da Legalidade Tributária, da Tipicidade e a regra do art. 97 do CTN, ao atribuir ao CONFEA a competência para fixar a alíquota e as bases de cálculo, a cominação de penalidade para ações contrárias aos seus dispositivos, elementos que a própria lei deve definir de modo taxativo e completo.
+    4. Apelação e remessa oficial a que se nega provimento.(fl. 546).
+    Alega o recorrente violação ao artigo 150, I da Constituição Federal. Sustenta a constitucionalidade da cobrança da “ART – Anotação de Responsabilidade Técnica” por se tratar de preço público.
+    Opostos embargos de declaração (fls. 548/551) foram rejeitados (fl. 714).
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o acórdão recorrido não destoa da jurisprudência da Corte, que reconhece a natureza jurídica autárquica dos Conselhos de Fiscalização Profissional. Quanto às taxas de determinadas obrigações impostas compulsoriamente pelos Conselhos observo que tais exações por possuírem regime jurídico tributário, devem respeito ao sistema principiológico tributário, inclusive ao princípio da legalidade estrita.
+    Portanto, as disposições legislativas de criação dos conselhos de fiscalização profissional que lhes atribuem competência para livremente fixar e alterar os valores das contribuições e taxas que lhes são devidas não foram recepcionadas pela atual ordem constitucional.
+    Nesse sentido, anote-se:
+    TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSELHO REGIONAL DE ENGENHARIA ARQUITETURA E AGRONOMIA DO ESTADO DE SANTA CATARINA. AUTARQUIA. CONTRIBUIÇÕES. NATUREZA TRIBUTÁRIA PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. INCIDÊNCIA. ANUIDADES. CORREÇÃO MONETÁRIA. DISCUSSÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – As contribuições devidas ao agravante, nos termos do art. 149 da Constituição, possui natureza tributária e, por via de consequência, deve-se observar o princípio da legalidade tributária na instituição e majoração dessas contribuições. Precedentes. II – A discussão acerca da atualização monetária sobre as anuidades devidas aos conselhos profissionais, possui natureza infraconstitucional. Precedentes. III - Agravo regimental improvido” (AI-AgR 768.577, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.11.2010).
+    Nesse mesmo sentido as seguintes decisões monocráticas: RE 438.142, Relator o Ministro Cezar Peluso, DJ 17/3/05 e RE 465.330, Relator o Ministro Gilmar Mendes, DJ de 3/4/06.
+    Mesmo que assim não fosse, o reexame do acórdão impugnado demandaria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie (Lei nº 6.496/77 e Resolução nº 370/92). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Tem-se violação reflexa à Constituição, quando o seu reconhecimento depende de rever a interpretação dada à norma ordinária pela decisão recorrida, caso em que é a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local”. (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
