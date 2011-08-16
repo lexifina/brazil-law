@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “I) AGRAVO DE INSTRUMENTO - CONFIRMAÇÃO DE TRANCAMENTO - FUNDAMENTO DIVERSO DO ADOTADO PELO JUÍZO DE ADMISSIBILIDADE "A QUO" - PRINCÍPIOS DA CELERIDADE E DA ECONOMIA PROCESSUAIS - ORIENTAÇÃO JURISPRUDENCIAL 282 DA SBDI-1 DO TST. Os princípios da celeridade e da economia processuais, que regem o Processo do Trabalho e determinam o máximo de atuação da lei com o mínimo de atividade processual (CLT, art. 765), e a Orientação Jurisprudencial 282 da SBDI-1 do TST autorizam a manutenção do despacho agravado, por fundamento diverso do adotado pelo juízo de admissibilidade "a quo", que negou seguimento ao recurso da Reclamada por deserção, não caracterizada.
+    II) INDENIZAÇÃO POR DANOS MORAIS E PENSÃO MENSAL - AGRESSÕES FÍSICAS SOFRIDAS PELO RECLAMANTE, POR PARTE DO PREPOSTO DA EMPREGADORA - CULPA DA EMPRESA CARACTERIZADA - DEMONSTRAÇÃO DA RESPONSABILIDADE SUBJETIVA - ART. 7º, XXVIII, DA CARTA MAGNA.
+    1. Para a existência do dever de reparar o dano causado, alguns pressupostos devem estar presentes, sem os quais o próprio instituto da responsabilidade se torna inaplicável à hipótese, quais sejam, o dano experimentado pelo ofendido, a ação ou a omissão do causador, o nexo de causalidade e a culpa ou o dolo do agente. Trata-se do estabelecimento do nexo causal entre lesão e conduta omissiva ou comissiva do empregador, sabendo-se que o direito trabalhista brasileiro alberga tão-somente a teoria da responsabilidade subjetiva, derivada de culpa ou dolo do agente da lesão em matéria trabalhista (CF, art. 7º, XXVIII).
+    2. "In casu", o Regional concluiu que eram devidas as pleiteadas indenizações por danos materiais e morais decorrentes das agressões sofridas pelo Reclamante por parte do seu superior hierárquico, que resultaram na interdição e na incapacidade definitiva do Obreiro para o trabalho. Nesse sentido, consignou que a responsabilidade da Empresa decorria da caracterização de sua culpa pelos atos praticados pelo preposto.
+    3. Assim, diante do quadro fático traçado pelo Regional, afigura-se correta a condenação, pois a empresa efetivamente responde pelos atos danosos causados pelo seu preposto, sendo, ademais, a responsável pela qualidade das relações e do ambiente de trabalho, cabendo a ela adotar medidas compatíveis com os direitos da personalidade constitucionalmente protegidos.
+    Agravo de instrumento desprovido.” (fl. 224)
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu que:
+     “(...)diante do quadro fático traçado pelo Regional, conclui-se que, efetivamente, restou configurado nos autos a culpa da Empregadora, pois, conforme demonstrado, a agressão física sofrida pelo Reclamante por parte do preposto das Empregadoras atraiu para as Reclamadas a culpa pelos danos causados ao Obreiro(...)” (fl. 227)
+    Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Incide, portanto, a Súmula 279/STF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1o do RISTF, e 557 do CPC).
+    Publique-se.
+    Brasília, 16 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
