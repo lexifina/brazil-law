@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO CIVIL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. IMPOSSIBILIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS, DE PROVAS E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e Territórios:
+    “CIVIL – PREVIDÊNCIA PRIVADA – SISTEL – REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO – SUPLEMENTAÇÃO DE APOSENTADORIA – RECÁLCULO – PEDIDO DE PREVALÊNCIA DO REGULAMENTO VIGENTE À ÉPOCA DA ADESÃO – IMPOSSIBILIDADE – DIREITO ADQUIRIDO – NÃO CONFIGURAÇÃO – AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E DO ATO JURÍDICO PERFEITO – APLICAÇÃO DO REGULAMENTO VIGENTE NA DATA DA CONCESSÃO DO BENEFÍCIO – SENTENÇA MANTIDA.
+    1. ‘Não tem o beneficiário direito adquirido ao reajustamento de prestação de entidade de previdência privada, segundo os parâmetros da época da adesão ao plano, incidindo sobre as prestações futuras as leis modificativas desse reajustamento’. Precedentes do STJ.
+    2. Se o associado, no momento da alteração estatutária, ainda não tinha direito ao benefício de aposentadoria suplementar, inexiste ofensa a direito adquirido ou desrespeito a ato jurídico perfeito, sendo, portanto, descabido o pedido de aplicação das normas do regulamento vigente à época ao plano de benefícios.
+    3. Recurso conhecido e não provido”.
+    No voto condutor do acórdão recorrido consta que:
+    “A questão central da matéria em debate cinge-se em estabelecer qual o regulamento deve nortear o pagamento do benefício: se aquele vigente por ocasião da adesão ao plano de benefícios ou aquele vigente à época da aposentadoria da apelante (…) De fato, entendo que as normas estatutárias que devem reger o ato de concessão devem ser aquelas vigentes à época da aposentadoria e efetiva concessão do beneficio, consoante determina a Lei Complementar nº 109/2001 (…) Ademais, não consta dos autos que as modificações no regulamento foram feitas em desconformidade com o procedimento de alteração estatutária”.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXV, LIV e LV, e 93, inc. IX, da Constituição da República.
+    Argumenta, no recurso extraordinário, que “a alteração processada pela Entidade Fechada de Previdência Complementar SISTEL foi realizada de forma unilateral, em prejuízo a participante, e em total desrespeito ao ato jurídico perfeito”.
+    Assevera que “as alterações regulamentares são possíveis (…) Mas não se pode empreender que essas alterações sejam prejudiciais aos participantes”.
+    Sustenta que “o recorrente aderiu ao plano de previdência privada da empresa ré na década de 80 e recebeu seu benefício de concessão na década de 90, ou seja, ambas as situações ocorreram antes da entrada em vigor da Lei Complementar 109/2001”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de que a ofensa à Constituição, se tivesse ocorrido, seria indireta, além da incidência das Súmulas n. 279 e 454 do Supremo Tribunal Federal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Quanto ao mérito, concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame de cláusulas contratuais e de provas constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, a teor do que dispõem as Súmulas n. 279 e 454 deste Supremo Tribunal.
+    O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (art. 6º da Lei de Introdução ao Código Civil e art. 122 do Código Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Neste sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. MIGRAÇÃO PARA NOVO PLANO DE PREVIDÊNCIA PRIVADA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DE CLÁUSULAS DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA PRIVADA. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 760.386-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010, grifei).
+    “Agravo regimental em agravo de instrumento. 2. Migração para um novo plano de previdência privada. Interpretação de cláusulas contratuais. Matéria infraconstitucional. Enunciados das súmulas 279, 454 e 636. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 753488-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 07.6.2011).
+    Nada há, pois, a prover quanto às alegações da parte agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
