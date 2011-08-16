@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Vandira Barbosa de Medeiros Feitosa interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão dos Juizados Especiais Federais Cíveis do Estado do Rio Grande do Norte que julgou improcedente ação declaratória que ajuizou com o intuito de ver reconhecido tempo de serviço exercido em regime rural.
+    Opostos embargos de declaração (fls. 60 a 64), foram rejeitados (fls. 65).
+    Contra-arrazoado (fl. 6), o recurso extraordinário (fls. 66 a 69) foi admitido (fl. 74).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 19/4/07, como expresso na certidão de folha 5, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação, uma vez que a recorrente não indica nas razões do recurso extraordinário qual dispositivo constitucional teria sido violado pelo acórdão recorrido, limitando-se a manifestar sua irresignação contra o julgado. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL. FALTA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL TIDO POR VIOLADO. Não se conhece de recurso extraordinário no qual não se aponta o dispositivo constitucional tido por violado. Agravo regimental a que se nega provimento” (AI nº 603.864/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/2/07).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO. QUESTÃO CONSTITUCIONAL: NÃO-INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. I. - Inatacados os fundamentos da decisão agravada, torna-se inviável o recurso. Precedentes. II. - O recurso extraordinário é inviável se a questão constitucional não é posta com clareza, com a indicação expressa das normas constitucionais que se dizem ofendidas. III. - Agravo não provido” (AI nº 527.232/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 23/8/05).
+    Ademais, o acórdão recorrido julgou improcedente a demanda exclusivamente sob os seguintes fundamentos:
+    “Da análise dos autos, verifico que o conjunto probatório juntado pela autora é demasiado frágil, visto que é muito posterior ao tempo que a demandante pretende ver averbado. Foram juntadas declarações do Sindicato e de particulares, todas datadas de 2004. O único documento contemporâneo aos fatos diz respeito ao genitor da parte autora (ficha de associado ao sindicato), que não é prova suficiente de que esta de fato trabalhou na agricultura. Além disso, no CNIS juntado pelo INSS há registros de contratos de trabalho a partir de 1978, período concomitante com o tempo que a postulante pretende ver reconhecido.
+    Por sua vez, as testemunhas ouvidas em audiência de instrução, embora tenham afirmado que a autora trabalhou na agricultura no período, ajudando seu pai, também não se mostraram convincentes em seus depoimentos” (fl. 49).
+     Com efeito, o fundamento segundo o qual a autora não trouxe “prova suficiente de que esta de fato trabalhou na agricultura” (fl. 49) não foi sequer enfrentado no recurso extraordinário, o que faz incidir na espécie a orientação da Súmula nº 283 desta Corte, que assim dispõe, in verbis:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL. RAZÕES EXTRAORDINÁRIAS QUE NÃO SE INSURGEM CONTRA TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange a todos eles. Súmula 283/STF. Agravo regimental não provido” (RE nº 408.184/MG-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 30/9/05).
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. FUNDAMENTO INFRACONSTITUCIONAL NÃO RECORRIDO. CONHECIMENTO DO EXTRAORDINÁRIO. IMPOSSIBILIDADE. VÍCIOS NO JULGADO. INEXISTÊNCIA. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange a todos eles. Matéria expressamente esclarecida no acórdão recorrido. Vícios no julgado. Inexistência. Embargos de declaração rejeitados” (RE nº 162.926/SP-AgR-ED, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 4/4/03).
+    Por outro lado, conforme verificado, o Tribunal de origem apreciou a questão com base no conjunto fático-probatório dos autos, o que não pode ser revisto na sede extraordinária em razão do óbice da Súmula nº 279 da Corte.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
