@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que os ora recorrentes, ex-empregados da Companhia Auxiliar de Empresas Elétricas Brasileiras – CAEEB, não são alcançados pela anistia concedida pela Lei 8.878/1994, sob o fundamento de que estes foram demitidos devido à extinção da referida empresa pública federal por meio de regular ato legislativo, razão pela qual não se configurou hipótese de motivação política.
+    Neste RE, fundado no 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II e XXXVI, 7º, I, e 37, caput (princípio da moralidade administrativa), da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.029/1990 e 8.878/1994; Decretos 99.226/1990 e 1.499/1995). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Outrossim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Ademais, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo juízo a quo (Súmula 636 do STF).
+    Por fim, o tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 840.087/DF, com trânsito em julgado certificado à fl. 220), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
