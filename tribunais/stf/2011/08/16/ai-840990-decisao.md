@@ -1,0 +1,35 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CIVIL. CONTRATO DE FINANCIAMENTO. CONSTRUÇÃO DE REDE ELÉTRICA. PROPRIEDADE RURAL. RESTITUIÇÃO DE VALORES. ÍNDICE DE CORREÇÃO MONETÁRIA. REPERCUSSÃO GERAL NÃO EXAMINADA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, LV E XXXVI, E 93, IX, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11).
+3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes.
+4. Agravo a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto por BERTILO ALBINO KLEIN E OUTROS, contra decisão que não admitiu seu recurso extraordinário.
+    Noticiam os autos que os ora agravantes ajuizaram ação de cobrança cumulada com restituição de valores em face da RIO GRANDE ENERGIA S/A. Sobreveio sentença julgando procedente a ação, condenando a recorrida a restituir os valores referidos na inicial, atualizados monetariamente pelo IGP-M.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento ao recurso da ré.
+    Opostos embargos de declaração pela ora agravada, foram parcialmente acolhidos para reconhecer que o valor investido pelo consumidor deverá ser corrigido monetariamente, inicialmente, pela incidência do OTN, posteriormente pelo BTN, e, por fim, pelo IGP-M.
+    Os recorrentes opuseram novos embargos de declaração que restaram rejeitados.
+    Irresignados com o teor do acórdão prolatado, os recorrentes interpuseram recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, sustentando a preliminar de repercussão geral e apontando como violados os arts. 5º, XXXVI e LV, e 93, IX, da Carta Federal, insurgindo-se contra o índice de correção monetária adotado no acórdão dos embargos de declaração.
+    Brevemente relatados, DECIDO .
+    O agravo de instrumento não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. À guisa de exemplos, merece transcrição a ementa dos seguintes julgados, in verbis:
+    AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - REEXAME DE FATOS E PROVAS - IMPOSSIBILIDADE - SÚMULA 279/STF - RECURSO IMPROVIDO .
+    - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. Precedentes .
+    - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta , só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes .
+    - Não cabe recurso extraordinário, quando interposto com o objetivo de discutir questões de fato ou de examinar matéria de caráter probatório. Precedentes .
+    (AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11)
+    DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 e 356. MATÉRIA DE ORDEM PÚBLICA. FALTA DE PEÇA NO TRASLADO. RAZÕES DE APELAÇÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO DE SUSPOSTA OMISSÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. INEXISTÊNCIA DE OMISSÃO.
+    1. A questão constitucional invocada no recurso extraordinário não foi objeto de debate e de decisão no acórdão recorrido. Desatendido o pressuposto recursal do prequestionamento, imprescindível para o conhecimento do apelo extremo. Exigência do cumprimento desse requisito recursal, ainda que a questão suscitada seja de ordem pública. Precedentes. Súmulas STF 282 e 356.
+    2. Ausência de cópia das razões de apelação. Segundo reiterada orientação do Supremo Tribunal, é encargo da própria agravante fiscalizar a inteireza do traslado, a fim de se possibilitar a análise de eventual omissão do acórdão.
+    3. A jurisprudência desta Corte é pacífica em não admitir o recurso extraordinário quando o deslinde da controvérsia dependa do reexame da análise da legislação infraconstitucional, pois, nesse caso, eventual ofensa à Constituição Federal seria indireta ou reflexa.
+    4. Agravo regimental a que se nega provimento.
+    (AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11)
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (AI n. 646.103-AgR, Rel. Ministra CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11).
+    Demais disso, a jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 16 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
