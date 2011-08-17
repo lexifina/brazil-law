@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Espírito Santo. Acórdão assim ementado (fls. 117):
+    “REMESSA NECESSÁRIA EM MANDADO DE SEGURANÇA – SUPLETIVO – TEORIA DO FATO CONSUMADO – SITUAÇÃO CONSOLIDADA – REMESSA CONHECIDA – SENTENÇA MANTIDA – DECISÃO POR MAIORIA
+    1 – Tendo o aluno já concluído grande parte do curso superior para o qual foi aprovado, adota-se a teoria do fato consumado, em face do princípio da razoabilidade e proporcionalidade. 2 – Precedentes. 3 – Remessa conhecida e improvida, para manter a sentença em todos os seus termos. 4 – Decisão por maioria.”
+    2. Pois bem, a parte recorrente aponta violação aos incisos II, XXXV, LIV e LV do art. 5º, ao inciso XXIV do art. 22, ao caput do art. 37 e ao inciso I do art. 208, todos da Magna Carta de 1988. Afirma, em síntese, que a afronta aos citados dispositivos constitucionais é decorrente do reconhecimento à recorrida do direito de se submeter a exame supletivo em desacordo com a Lei federal 9.394/1996. Aduz que a referida lei, em seu art. 38, “visou propiciar escolarização a todos quantos, jovens e adultos, embora detentores de conhecimentos e habilidades adquiridos por meios informais, não tiveram aceso ou continuidade de estudos no ensino fundamental e médio na idade própria, fixando-se, como requisito essencial à realização do exame 'in casu' dos autos, conclusão para o ensino médio, idade mínima de 18 (dezoito) anos” (fls. 167). Sustenta, por fim, não ser aplicável, ao caso, a teoria do fato consumado.
+    3. Tenho que a insurgência não merece acolhida. Isso porque, para chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame da legislação infraconstitucional pertinente. Providência inviável neste momento processual. É que a pacífica jurisprudência desta nossa Casa de Justiça não admite falar em violação direta à Constituição Federal se, primeiramente, for necessário dar pela vulneração de texto infraconstitucional.
+    4. No mesmo sentido, vejam-se os AIs 431.734, da relatoria da ministra Ellen Gracie; 461.698, da relatoria do ministro Joaquim Barbosa; e REs 262.397, da relatoria do ministro Eros Grau e 291.150, da relatoria do ministro Néri da Silveira.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
