@@ -1,0 +1,60 @@
+Decisão: Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado de Minas Gerais em face de decisão prolatada pelo eminente Ministro Humberto Martins, do Superior Tribunal de Justiça, que não conheceu do conflito no qual se discute o Juízo competente para o julgamento de Execução Fiscal proposta pela União em comarca que não é sede de vara da Justiça Federal (Juízo da 4ª Vara Cível de Araguari/MG).
+    O referido Juízo estadual, investido de jurisdição federal, por força do disposto no art. 109, § 3º, da Constituição da República, no curso da execução fiscal, promoveu a remessa dos autos ao Juízo da 2ª Vara Cível daquela comarca, que havia decretado a falência da executada.
+    Dos autos, depreende-se que a União ajuizou ação de execução fiscal contra Libra Calçados Ltda. ME, na comarca de Araguari, onde não há varas da Justiça Federal. Os autos foram distribuídos por sorteio, inicialmente, ao Juízo da 1ª Vara Cível. Posteriormente, foi criada a 4ª Vara Cível (fl. 22), tendo sido os autos para lá redistribuídos.
+    Assim, o Juízo da 4ª Vara Cível daquela comarca passou a estar investido de jurisdição federal, conforme dispõe o artigo 109, § 3º, da Constituição Federal, combinado com o artigo 15 da Lei nº 5.010/66.
+    Ante a notícia da decretação da falência da executada pelo Juízo da 2ª Vara Cível de Araguari, o Juízo da 4ª Vara Cível determinou fossem os autos remetidos para aquela Vara (fl. 47v).
+    O referido Juízo da 2ª Vara Cível entendeu não ter competência para julgar o feito, ocasião em que suscitou o conflito negativo, determinando o envio dos autos ao Tribunal de Justiça do Estado de Minas Gerais (fls. 54/56).
+    Às fl. 58v, o Procurador da Fazenda Nacional requereu fossem os autos enviados ao Superior Tribunal de Justiça, ante a existência de um cenário fático que comportava, de um lado, um juiz de direito (Juízo universal da falência) e, de outro, um juiz de direito investido de jurisdição federal (Juízo que preside a execução fiscal).
+    Então, os autos foram remetidos ao Superior Tribunal de Justiça, conforme requerido pelo Procurador da Fazenda Nacional, e distribuídos ao eminente Ministro Humberto Martins, que não conheceu do conflito.
+    Com isso, os autos retornaram ao Tribunal de Justiça de Minas Gerais, onde foram distribuídos ao eminente Desembargador Moreira Diniz, que suscitou o presente conflito de competência perante esta Corte.
+    É o relatório.
+    Decido.
+    Consoante relatado, subjacente ao conflito negativo de competência submetido ao crivo desta Corte há outro – envolvendo dois juízes de direito do Estado de Minas Gerais, sendo um deles investido de jurisdição federal – que não foi conhecido pelo Min. Humberto Martins, do Superior Tribunal de Justiça, nos seguintes termos:
+    “Para que o conflito negativo de competência seja conhecido no Superior Tribunal de Justiça é necessário que ocorra divergência de opiniões de Juízos vinculados a Tribunais distintos, o que não é o caso dos autos.
+    (…)
+    Ante o exposto, não conheço do presente conflito de competência, remetendo os autos ao Tribunal de Justiça do Estado de Minas Gerais para o seu julgamento”. ( CC 109.402/MG, DJe 27.04.2010)
+    Na esteira do que dispõe a alínea o do inciso I do art. 102 da Constituição Federal de 1988, cabe ao Supremo Tribunal Federal processar e julgar, originariamente, os conflitos de competência entre o Superior Tribunal de Justiça e quaisquer tribunais; entre Tribunais Superiores, ou entre estes e qualquer outro tribunal .
+    Por isso, conheço do conflito e passo à análise do mérito.
+    O § 3º do art. 109 da Constituição Federal dispõe que serão processadas e julgadas na justiça estadual as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal .
+    É a hipótese dos autos.
+    No caso há, de um lado, um juiz de direito investido de jurisdição federal (juiz da 4ª Vara Cível de Araguari/MG) presidindo a Execução Fiscal nº 0035.03.023462-5 – ajuizada pela União em comarca que não possui vara da Justiça Federal – e, de outro, um juiz de direito (juiz da 2ª Vara Cível de Araguari/MG) que, em outra demanda, decretou a falência da executada, Libra Calçados Ltda. ME.
+    Por determinação expressa do § 4º do referido art. 109 da Constituição Federal, o juiz de direito investido de jurisdição federal, no exercício deste mister, encontra-se vinculado ao Tribunal Regional Federal da área de sua jurisdição.
+    Com efeito, deflagrado o conflito negativo de competência entre o Juízo que preside a execução fiscal, vinculado, na espécie, ao Tribunal Regional Federal da 1ª Região, e o Juízo universal da falência, vinculado ao Tribunal de Justiça do Estado de Minas Gerais, ressalta a competência do Superior Tribunal de Justiça para dirimi-lo, porquanto tais juízes, ainda que originariamente integrantes da mesma carreira, isto é, pertencentes à magistratura mineira, por construção de índole constitucional, encontram-se vinculados a tribunais diversos.
+    Isso é o que sem depreende do exame dos artigos 108, inciso I, alínea e, e inciso II, da Constituição Federal. Confira-se:
+    “Art. 108. Compete aos Tribunais Regionais Federais:
+          I – processar e julgar, originariamente:
+          e) os conflitos de competência entre juízes federais vinculados ao Tribunal;
+          II – julgar, em grau de recurso, as causas decididas pelos juízes federais e pelos juízes estaduais no exercício da competência federal da área de sua jurisdição”.
+    O artigo 109 da Constituição Federal corrobora esta opção constitucional:
+    “Art. 109. Aos juízes federais compete processar e julgar:
+          (…)
+          § 3º Serão processadas e julgadas na Justiça estadual, no foro do domicílio dos segurados ou beneficiários, as causas em que forem parte instituição de previdência social e segurado, sempre que a comarca não seja sede de vara do juízo federal, e, se verificada essa condição, a lei poderá permitir que outras causas sejam também processadas e julgadas pela Justiça estadual.
+          § 4º Na hipótese do parágrafo anterior, o recurso cabível será sempre para o Tribunal Regional Federal na área de jurisdição do juiz de primeiro grau”. (grifei)
+    A leitura desses dispositivos leva à inequívoca conclusão de que o Constituinte vinculou o juiz estadual investido de jurisdição federal ao Tribunal Regional Federal da área de sua jurisdição.
+    Essa a razão pela qual a jurisprudência, há muito, tem utilizado como critério para a solução de conflitos de competência a vinculação jurisdicional do juízos envolvidos, e não a vinculação administrativa.
+    De fato, não se trata de opção jurisprudencial, mas de imposição da própria Constituição Federal, conforme se pode vislumbrar a partir da leitura dos dispositivos transcritos. Por essa razão, para todos os efeitos, o juízo estadual que atua sob competência delegada considera-se, na hipótese, como se pertencente à carreira da magistratura federal.
+    Portanto, para se dirimir conflito negativo de competência, deve-se levar em consideração, por óbvio, não a vinculação administrativa dos juízos envolvidos, mas a competência que estão a exercer, para se estabelecer devidamente a quem cabe solucionar o impasse.
+    Por essa razão, em conflito entre juízes vinculados a tribunais distintos (art. 105, I, d, CF/88), o Superior Tribunal de Justiça deve atuar para trazer a solução, uma vez que possui esta atribuição constitucional e jurisdição nacional. Confira-se:
+    “PREVIDENCIÁRIO. COMPETÊNCIA. CONFLITO NEGATIVO. COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. JUÍZOS ESTADUAL E FEDERAL. [...].
+    1. Compete ao Superior Tribunal de Justiça dirimir conflito entre juízes vinculados a tribunais diversos, segundo inteligência do art. 105, I, d , da Constituição . [...]. 3. Conflito conhecido para declarar a competência do Juízo Federal”. (CC 91.129/GO, Rel. Min. Arnaldo Esteves Lima, Terceira Seção, DJe 27.05.2008)
+    Ainda o STJ, com o mesmo entendimento, mas em sentido inverso, a despeito da decisão proferida pelo eminente Min. Humberto Martins no caso em exame, editou, há muito, a Súmula 3: “Compete ao Tribunal Regional Federal dirimir conflito de competência verificado, na respectiva região, entre juiz federal e juiz estadual investido de jurisdição federal”.
+    Em outras palavras, se os juízes vinculam-se jurisdicionalmente ao mesmo Tribunal, a este cabe dirimir conflito que porventura ocorra entre aqueles; todavia, se o conflito acontece entre juízes vinculados jurisdicionalmente a tribunais diversos, ainda que administrativamente estejam vinculados ao mesmo Tribunal, compete ao Superior Tribunal de Justiça solucionar o impasse, nos termos do art. 105, I, d, da CF/88.
+    Este não é apenas o entendimento do Superior Tribunal de Justiça, mas é também o deste Supremo Tribunal Federal, consoante pode-se verificar da leitura da ementa do acórdão proferido no Conflito de Competência 7.081-6/MG, Rel. Min. Sydney Sanches, Plenário, DJ 27.09.2002:
+    “DIREITO CONSTITUCIONAL, PENAL E PROCESSUAL PENAL.
+    CONFLITO NEGATIVO DE COMPETÊNCIA, ENTRE A TURMA RECURSAL DO JUIZADO ESPECIAL CRIMINAL DA COMARCA DE BELO HORIZONTE E O TRIBUNAL DE ALÇADA DO ESTADO DE MINAS GERAIS.
+    COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA DIRIMI-LO (ART. 105, I, d, DA C.F.). E NÃO DO SUPREMO TRIBUNAL FEDERAL (ART. 102, I, o).
+    1. As decisões de Turma Recursal de Juizado Especial, composta por Juízes de 1° Grau, não estão sujeitas à jurisdição de Tribunais estaduais (de Alçada ou de Justiça).
+    2. Também as dos Tribunais de Alçada não se submetem à dos Tribunais de Justiça.
+    3. Sendo assim, havendo Conflito de Competência, entre Turma Recursal de Juizado Especial e Tribunal de Alçada, deve ele ser dirimido pelo Superior Tribunal de Justiça, nos termos do art. 105, I, d, da C.F., segundo o qual a incumbência lhe cabe, quando envolva tribunal e juizes a ele não vinculados .
+    4. Conflito não conhecido, com remessa dos autos ao Superior Tribunal de Justiça, para julgá-lo, como lhe parecer de direito”. (grifei)
+    Ainda nesse sentido, cito a regra geral insculpda no seguinte precedente: RE-RG 590.409, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, Dje 28.10.2009, assim ementado:
+    “CONFLITO NEGATIVO DE COMPETÊNCIA. JUIZADO ESPECIAL E JUÍZO FEDERAL DE PRIMEIRA INSTÂNCIA, PERTENCENTES À MESMA SEÇÃO JUDICIÁRIA. JULGAMENTO AFETO AO RESPECTIVO TRIBUNAL REGIONAL FEDERAL. JULGAMENTO PELO STJ. INADMISSIBILIDADE. RE CONHECIDO E PROVIDO. I. [...] II - A competência do STJ para julgar conflitos dessa natureza circunscreve-se àqueles em que estão envolvidos tribunais distintos ou juízes vinculados a tribunais diversos (art. 105, I, d , da CF) . III - Os juízes de primeira instância, tal como aqueles que integram os Juizados Especiais estão vinculados ao respectivo Tribunal Regional Federal, ao qual cabe dirimir os conflitos de competência que surjam entre eles. IV - Recurso extraordinário conhecido e provido”. (grifei)
+    Cumpre salientar, ainda, que não se aplicam ao presente caso os precedentes desta Corte naquilo em que voltados para a solução de conflitos entre juízes de Juizados Especiais Federais e Juízes Federais.
+    Nesses casos, excepcionalmente o Supremo decidiu no sentido de que compete ao respectivo Tribunal Regional Federal solucionar o impasse, conforme o distinguishing feito no julgado transcrito acima.
+    Destarte, assiste razão ao Desembargador Moreira Diniz, do TJMG, pois afirmou em seu voto que a competência para o deslinde da controvérsia é do Superior Tribunal de Justiça, uma vez que os fatos subjacentes ao caso se amoldam ao preceito insculpido no art. 105, I, d, da Constituição Federal de 1988.
+    Ante o exposto, conheço do presente Conflito para declarar a competência do Superior Tribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da Constituição Federal.
+    Publique-se.
+    Brasília, 17 de agosto de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
