@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EMBRAGOS INTERPOSTOS ANTERIORMENTE À VIGÊNCIA DA LEI N. 11.496/07 – ARGUIÇÃO DE NULIDADE DO ACÓRDÃO EMBRAGADO POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL Decisão contrária ao interesse da parte e eventual error in judicando não configuram abstenção da atividade julgadora. DIÁRIAS DE VIAGENS – IMPOSSIBILIDADE DE INORPORAÇÃO AO SALÁRIO – SÚMULA N. 101 DO TST. Consoante jurisprudência da Corte, as diárias de viagem excedentes a 50% (cinquenta por cento) do salário do empregado têm natureza salarial, integrando-o para todos os efeitos legais. O pagamento das diárias e sua integração, entretanto, só ocorrem em casos de efetivo deslocamento do empregado. Assim, cessada a causa do pagamento, cessa também a obrigação do empregador, não se perpetuando ao longo da contratualidade. Inteligência da Súmula n. 101 do TST, que dispõe: “Integram o salário, pelo seu valor e para efeitos indenizatórios, as diárias de viagem que excedam a 50% (cinquenta por cento) do salário do empregado, enquanto perduram as viagens.” Embargos não conhecidos.” (fl. 307)
+    O recurso não merece prosperar. A matéria dos presentes autos reside no campo infraconstitucional, porquanto o Tribunal a quo decidiu a questão com base na legislação infraconstitucional (CLT) e jurisprudência do Tribunal Superior do Trabalho (Súmula n. 101 do TST) , cuja análise é inviável em sede extraordinária. Eventual ofensa à Constituição, se existente, seria meramente reflexa ou indireta.
+    Ademais, segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu no sentido de que o pagamento das diárias e sua integração só ocorrem em casos de efetivo deslocamento do empregado. No caso dos autos, restou provado que cessou a causa do pagamento e por consequência a obrigação do empregador, conforme dispõe a Súmula n. 101 do TST.
+    Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Incide, portanto, a Súmula 279/STF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1o do RISTF, e 557 do CPC).
+    Publique-se.
+    Brasília, 17 de agosto de 2010.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
