@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA – TRIBUTÁRIO – ICMS – MERCADORIAS VENDIDAS A PRAZO – INCIDÊNCIA SOBRE O ACRÉSCIMO FINANCEIRO – CREDITAMENTO – IMPOSSIBILIDADE – PRECEDENTES – RECURSO DA AUTORA E REMESSA PREJUDICADOS. Enquanto na ‘venda financiada’ existem dois negócios, compreendendo compra e venda e financiamento, observado que o acréscimo surge particularmente em face do custo do dinheiro, na venda a prazo o acréscimo é decorrente da contrapartida pelas facilidades inerentes ao negócio jurídico. Em face dessa fundamental diferença, na venda a prazo o valor da operação constitui base de cálculo do ICMS. (ADIN 84-5/MG, DJ de 15.2.96). Agravo regimental provido. (AgRg no REsp. 195812/SP, Rel. Min. Francisco Falcão, j. 6.8.02, DJU 21.10.02). Integram a base de cálculo do ICMS o valor do produto, assim como os encargos financeiros nas vendas a prazo, sobretudo quando não houver prova de que o financiamento foi efetuado por instituição financeira ou por cartão de crédito” (fls. 198).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, alega-se violação aos artigos 5º, LV; e 155, § 2º, I, do texto constitucional.
+    Aduz, em suma, violação ao princípio do devido processo legal. Por fim, sustenta que “a correção monetária não compõe o preço da mercadoria. Compõe, sim, o pagamento, mas jamais o preço da mercadoria. E, para tanto, sabe-se que o ICMS não tributa o pagamento, mas tão-somente a mercadoria” (fls. 245).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque esta Corte firmou entendimento no sentido de que a afronta aos princípios constitucionais da legalidade, do contraditório, da ampla defesa, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional.
+    Cito, a propósito, os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011 e AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011.
+    Ademais, consoante a dominante jurisprudência deste Supremo Tribunal Federal firmada em torno da questão suscitada, revela-se inviável o subjacente recurso extraordinário.
+    Sobre esse aspecto, confiram-se os seguintes precedentes: AI-AgR 817.074, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 6.4.2011; AI- AgR 662.050, Rel. Min. Ellen Gracie, Segunda Turma, DJe 15.3.2011; RE- AgR 246.575, Rel. Min. Marco Aurélio, Primeira Turma, DJe 17.9.2010; AI- AgR 453.995, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.12.2007; AI-AgR 551.658, Rel. Min. Eros Grau, Segunda Turma, DJ 2.6.2006; AI-AgR 418.410, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 12.5.2006; AI-AgR 488.717, de minha relatoria, Segunda Turma, DJ 12.5.2006. Deste último, extrai-se o seguinte resumo:
+    “Agravo regimental em agravo de instrumento. 2. Tributário. ICMS. Vendas a prazo ou à vista. Cobrança diferenciada. Impossibilidade. Precedentes. 3. Agravo regimental a que se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 18 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
