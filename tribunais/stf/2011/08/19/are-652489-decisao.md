@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. MULTA COMINATÓRIA (ASTREINTES). PROCESSO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. NÃO CABIMENTO. OBRIGAÇÃO CONVENCIONAL OU DECORRENTE DE DECISÃO JUDICIAL PRECLUSA. EXIGIBILIDADE. I – Não é cabível a imposição de multa cominatória (astreintes) por omissão na exibição de documento objeto de medida cautelar. Precedentes do STJ. II – É exigível, no entanto, a obrigação de pagar a multa se decorrente de convenção entre as partes ou se de decisão judicial preclusa. Recurso conhecido e improvido” (fls. 184).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, II, XXXV e LV, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “há um erro crucial na análise da presente impugnação, haja vista que a pena de multa não restou fixada em razão do descumprimento do acordo celebrado entre as partes, como quer fazer crer o recorrido” (fls. 208).
+    Decido.
+     A pretensão recursal não merece prosperar.
+    Para entender de forma diversa do que decidido nas instâncias originárias, faz-se imprescindível a análise dos fatos e provas constantes dos autos e o reexame da legislação infraconstitucional aplicável à espécie. Eventual ofensa à Constituição, acaso existente, se daria de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Nesse sentido a jurisprudência de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXIBIÇÃO DE DOCUMENTOS. MULTA DIÁRIA. MÁ INTERPRETAÇÃO, APLICAÇÃO OU INOBSERVÂNCIA DE NORMAS PROCESSUAIS. IMPOSSIBILIDADE DE CABIMENTO DO RECURSO EXTRAORDINÁRIO. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido” (AI-AgR 779.808, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.8.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. Violação às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. 3. Agravo regimental desprovido” (AI-AgR 800.071, Rel. Min. Ayres Britto, Segunda Turma, DJe 26.11.2010).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, e 544, § 4º, II, “b”, do CPC).
+     Publique-se.
+     Brasília, 19 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
