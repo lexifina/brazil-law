@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO CÍVEL _ AÇÃO CIVIL PÚBLICA E IMPROBIDADE ADMINISTRATIVA - Prescrição afastada - Lapso temporal entre o conhecimento da falta cometida pelo servidor e o ajuizamento da presente ação que não perfez o prazo quinquenal - Inteligência do artigo 23, inciso II, da Lei n° 8.429/92, combinado com o artigo 261, inciso II, parágrafo único, da Lei n° 10.261/68 (Estatuto dos Funcionários Públicos Civis do Estado) - Oficial de justiça que, no exercício de suas funções, solicitou vantagem indevida para cumprir diligência - Instauração de processo administrativo para apurar a falta que culminou na pena de demissão a bem do serviço público - Condenação na esfera criminal por prática de corrupção passiva - Provas testemunhais aptas a confirmarem a ocorrência dos fatos imputados ao servidor - Prática de improbidade administrativa - Artigo 11 da Lei n° 8.429/92 - Rol exemplificativo - Ofensa aos princípios da Administração Pública - Violação dos deveres da honestidade, moralidade e integridade na função pública - Penas bem aplicadas e dosadas que devem ser mantidas - Confirmação da r. sentença a quo de procedência - Improvimento” (fl. 381 – grifos nossos).
+    Tem-se no julgado recorrido:
+    “Melhor sorte não logrou o réu na esfera penal, cuja sentença penal condenatória reconheceu a prática do delito de corrupção passiva (artigo 317, caput, do Código Penal), condenando-o a pena de um ano de reclusão e pagamento de dez dias-multa, no mínimo legal, convertendo-se a pena privativa de liberdade por pena restritiva de direito (…).
+    Sua conduta atentou contra os princípios administrativos, violando ao deveres de honestidade, imparcialidade, legalidade às instituições, tal como preceitua o artigo 11 da Lei n° 8.429/92.
+    Aliás, a fim de estancar qualquer argumentação acerca da inaplicabilidade do supracitado artigo ao caso sub judice:
+    "Frise-se, também, que o conceito estampado no 'caput' do art. 11 segue a mesma técnica redacional empregada na descrição das demais categorias de improbidade administrativa (arts. 9° e 10), isto é, apresenta uma conceituação aberta e exemplificativa em seus incisos ('notadamente')" (Marino Pazzaglini Filho, Lei de improbidade administrativa comentada, 2ª edição, São Paulo: Atlas, 2005. p. 110).
+    Ademais, não haveria necessidade da legislação descrever taxativamente as condutas consideradas ímprobas, pois é dever do servidor atuar com retidão e integridade na função pública, atentando-se aos seus deveres funcionais descritos no Estatuto que o rege, ainda mais considerando que a conduta imputada a ele configura infração penal” (fl. 384 – grifos nossos).
+    3. No recurso extraordinário, o Agravante alega que o caput do art. 11 da Lei n. 8.429/1992, ao dispor não ser taxativo o rol de condutas descritas nos incisos, “dificulta a defesa do Recorrente, dando azo à concessão de uma discricionariedade exacerbada ao órgão acusador” (fl. 400), o que contrariaria o art. 5º, inc. LV, da Constituição (ampla defesa e contraditório).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 446-447).
+    O Agravante assevera que estariam presentes os pressupostos para o processamento do recurso extraordinário.
+    Analisados os elementos havidos nos autos, DECIDO.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois é constitucional a matéria objeto do recurso extraordinário.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+    6. A alegação de inconstitucionalidade do art. 11 da Lei n. 8.429/1992 não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento ” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
