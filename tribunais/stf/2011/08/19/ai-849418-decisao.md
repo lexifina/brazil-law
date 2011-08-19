@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Acórdão assim ementado (fls. 65):
+    “CIVIL E PROCESSO CIVIL – PREVIDÊNCIA PRIVADA – SISTEL – AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO – PREJUDICIAL – PRESCRIÇÃO QUINQUENAL – PRESTAÇÃO DE TRATO SUCESSIVO – SUPLEMENTAÇÃO DE APOSENTADORIA – RECÁLCULO – PEDIDO DE PREVALÊNCIA DO REGULAMENTO VIGENTE A ÉPOCA DA ADESÃO – IMPOSSIBILIDADE – DIREITO ADQUIRIDO – NÃO CONFIGURAÇÃO – AUSÊNCIA DE VIOLAÇÃO AOS PRINCÍPIOS DA SEGURANÇA JURÍDICA E DO ATO JURÍDICO PERFEITO – APLICAÇÃO DO REGULAMENTO VIGENTE NA DATA DA CONCESSÃO DO BENEFÍCIO.
+    1. A suplementação de aposentadoria por tempo de serviço consiste em uma renda mensal vitalícia, a implicar relação jurídica de trato sucessivo, cujo fator se renova a cada mês, razão pela qual não há de se falar em prescrição do fundo de direito.
+    2. 'Não tem o benefício direito adquirido ao reajustamento de prestação de entidade de previdência privada, segundo os parâmetros da época da adesão ao plano, incidindo sobre as prestações futuras as leis modificativas desse reajustamento”, Precedentes do STJ.
+    3. PREJUDICIAL DE PRESCRIÇÃO REJEITADA. APELAÇÃO CONHECIDA E NÃO PROVIDA.
+    2. Pois bem, a parte recorrente sustenta ofensa ao inciso XXXVI do art. 5º, §§ 3º e 4º do art. 201 e ao caput do art. 202 da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação infraconstitucional pertinente, o revolvimento do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais. Providências vedadas pelas Súmulas 279 e 454/STF.
+    4. De mais a mais, a controvérsia acerca dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 754.994-AgR, da minha relatoria; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello, este último assim ementado, na parte que interessa ao deslinde da causa:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    [...]
+    - A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da ‘res judicata’, torna incabível o recurso extraordinário.
+    É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, ‘in concreto’, dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional, podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 19 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
