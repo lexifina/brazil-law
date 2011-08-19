@@ -1,0 +1,25 @@
+DECISÃO: vistos, etc.
+    Trata-se de dois recursos extraordinários, o primeiro interposto por Metalúrgica Siemsen Ltda; e o segundo, pela União, ambos com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão, assim ementado (fls. 459):
+    “TRIBUTÁRIO - CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO - CPMF - RECEITAS ORIUNDAS DAS OPERAÇÕES DE EXPORTAÇÕES - EMENDA CONSTITUCIONAL Nº 33/2001.
+    1 - O contribuinte não tem direito de excluir da base de cálculo da CSSL as receitas oriundas das operações de exportação efetuadas a partir da Emenda Constitucional nº 33/2001, pois sua base de cálculo é o lucro líqüido, que não se confunde com a receita.
+    2 - No caso da CPMF, embora incida, juridicamente, sobre as movimentações financeiras, onera direta e imediatamente as receitas das exportações, pois o exportador não tem como recebê-las senão através de uma operação de câmbio, operada por via bancária, o que se reflete em encarecimento de nossos produtos, em conflito com os objetivos da isenção.
+    3 - No trato das imunidades deve o julgador adotar a interpretação teleológica, de forma a resguardar o bem jurídico que o constituinte buscou excluir da tributação. A ênfase deve ser posta nos efeitos concretos da tributação, e não nos critérios de classificação dos impostos adotados por normas infraconstitucionais.
+    4 - O art. 149, § 2º, I, da CF/88, com a redação dada pela EC nº 33/01, ao vedar a incidência das contribuições sociais e de intervenção no domínio econômico sobre as receitas decorrentes de exportação, objetivou reduzir os custos de nossos produtos e torná-los mais competitivos no mercado externo, dentro da filosofia segundo a qual devemos exportar mercadorias, e não tributos.
+    5 - Apelo parcialmente provido para excluir da base de cálculo da CPMF as receitas oriundas das operações de exportação efetuadas a partir da Emenda Constitucional nº 33/2001.”
+    2. Pois bem, a Metalúrgica Siemsen Ltda alega ter direito de excluir as receitas decorrentes de exportações da base de cálculo da CSLL. A seu turno, a União defende que a empresa contribuinte não tem direito a exclusão das mencionadas receitas da base de cálculo da CPMF.
+    3. Feito esse o breve relatório, passo ao decidir. Ao fazê-lo, observo que o Plenário do Supremo Tribunal Federal, no julgamento do RE 474.132, sob a relatoria do ministro Gilmar Mendes, decidiu que a imunidade constante do inciso I do § 2º do art. 149 do Magno Texto de 1988, introduzido pela EC 33/2001, não abrange a Contribuição Social sobre o Lucro Líquido (CSLL), tendo em conta a distinção ontológica entre os conceitos de lucro e receita. Leia-se, a propósito, trecho do meu voto proferido no mencionado julgamento:
+    “[...] as grandezas econômicas são distinguidas, são separadas. Receita ou faturamento é grandeza; lucro é outra grandeza. Então, são duas bases imponíveis numa linguagem de Direito Tributário, ou dois fatos geradores. Lucro é uma coisa, receita é outra coisa.
+    Ora, se é assim – eu espero não estar equivocado –, no artigo 149, as receitas oriundas da exportação não se confundem com o lucro que venha a ser, eventualmente, obtido a partir de ingressos originários de receita de exportação, mas a se definir mediante a consideração de outros elementos. O lucro é um outro momento, a compreender, claro, o ingresso, mas incorporando a exclusão de custos, a exclusão de despesas. E ambas as grandezas se prestam autonomamente como fato gerador de tributo.”
+    4. De mais a mais, o Pleno desta nossa Casa de Justiça também já decidiu a questão envolvendo a incidência da CPMF sobre as receitas decorrentes de exportação.
+    5. Com efeito, após reconhecer a presença de repercussão geral, o STF decidiu o mérito da controvérsia, em acórdão assim ementado :
+    “CONSTITUCIONAL. IMUNIDADE TRIBUTÁRIA. ART. 149, § 2º, I, DA CONSTITUIÇÃO FEDERAL. EXTENSÃO DA IMUNIDADE À CPMF INCIDENTE SOBRE MOVIMENTAÇÕES FINANCEIRAS RELATIVAS A RECEITAS DECORRENTES DE EXPORTAÇÃO. IMPOSSIBILIDADE. INTERPRETAÇÃO ESTRITA DA NORMA. RECURSO EXTRAORDINÁRIO DESPROVIDO.
+    I O art. 149, § 2º, I, da Constituição Federal é claro ao limitar a imunidade apenas às contribuições sociais e de intervenção no domínio econômico incidentes sobre as receitas decorrentes de exportação.
+    II Em se tratando de imunidade tributária a interpretação há de ser restritiva, atentando sempre para o escopo pretendido pelo legislador.
+    III A CPMF não foi contemplada pela referida imunidade, porquanto a sua hipótese de incidência movimentações financeiras - não se confunde com as receitas.
+    IV Recurso extraordinário desprovido.”
+    (RE 566.259, da relatoria do ministro Ricardo Lewandowski)
+    Ante o exposto, frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso da Metalúrgica Siemsen Ltda, e, com suporte no § 1º-A do art. 557 do CPC, dou provimento ao apelo extremo da União. Ônus da sucumbência conforme fixados na sentença de primeiro grau.
+    Publique-se.
+    Brasília, 19 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
