@@ -1,0 +1,19 @@
+DECISÃO
+INQUÉRITO – AUTUAÇÃO – LANÇAMENTO DO NOME DO INVESTIGADO – INICIAIS – IMPROPRIEDADE – RETIFICAÇÃO.
+CRIME CONTRA A HONRA – ARTIGO 324 DO CÓDIGO ELEITORAL – PRESCRIÇÃO – PRAZO – CONTAGEM ESPECIAL – INCIDÊNCIA.
+    1. A Assessoria prestou as seguintes informações:
+    O Ministério Público Federal ofereceu denúncia contra Roberto Requião de Mello e Silva pela prática do crime previsto no artigo 324 do Código Eleitoral. Segundo alegado, teria ele, na condição de candidato ao cargo de Governador do Estado do Paraná, feito afirmações ofensivas à honra do também candidato Álvaro Dias, durante debate realizado pela Rádio Transamérica Light em 26 de outubro de 2002, acusando-o de ter sido beneficiário de um esquema de corrupção existente na Prefeitura de Maringá/PR e de haver recebido dinheiro de origem ilícita para financiamento de campanha (folha 159 a 161).
+    Após o oferecimento da denúncia, foi determinada a expedição de ofício à Assembleia Legislativa do Estado do Paraná solicitando licença para instauração do processo-crime contra o investigado. O ofício foi recebido em 23 de março de 2004. Desde então, suspendeu-se o prazo prescricional.
+    Noticiada a reeleição do investigado para Governador do Estado do Paraná, novo ofício foi expedido à Assembleia Legislativa requerendo autorização para processar o investigado (folha 212). Não houve resposta e o Superior Tribunal determinou o arquivamento temporário dos autos, com a suspensão do prazo prescricional (folha 219).
+    O investigado renunciou ao mandato de Governador para concorrer ao cargo de Senador da República. Em virtude da eleição e da diplomação do candidato, o Ministério Público Federal requereu, perante o Superior Tribunal, a remessa dos autos ao Supremo. O inquérito foi distribuído a Vossa Excelência.
+    A Procuradoria Geral da República, à folha 263 à 265, observa que a pena máxima cominada ao crime previsto no artigo 324 do Código Eleitoral é de dois anos, prescrevendo em 4 anos, conforme dispõe o artigo 109, inciso V, do Código Penal. No entanto, em pesquisa realizada no sítio do Senado Federal, verificou-se que o investigado conta com setenta anos de idade, incidindo a regra prevista no artigo 115 do Código Penal, reduzindo-se pela metade o prazo da prescrição, que passou a ser de dois anos. Anota, a seguir, que os fatos datam de 26 de outubro de 2002, a suspensão do prazo prescricional, de 23 de março de 2004 (folha 182) e a renúncia ao mandato de Governador do Paraná, de 29 de março de 2010. Destaca que o primeiro lapso temporal foi superior a um ano e quatro meses e, desde 29 de março de 2010, já se passou mais de um ano. Assim, considerando que, desde a data dos fatos já transcorreram mais de dois anos, há de ser reconhecido o transcurso do prazo da prescrição da pretensão punitiva no caso em exame.
+    Requer a declaração da extinção da punibilidade de Roberto Requião de Mello e Silva, tendo em vista a prescrição da pretensão punitiva, nos termos do artigo 107, inciso IV, do Código Penal, e, por conseguinte, o arquivamento dos autos.
+    2. Em primeiro lugar, há de glosar-se o lançamento, no cabeçalho, das iniciais – em vez do nome completo – do investigado mediante o inquérito.
+    Em segundo lugar, conforme ressaltado pela Procuradoria Geral da República, incidiu a prescrição da pretensão punitiva considerado o prazo prescricional de quatro anos, que, na espécie, em razão da idade do envolvido, é contado pela metade.
+    3. Retifiquem a autuação, presente a publicidade dos atos públicos em geral.
+    4. Ante o disposto no artigo 3º, inciso II, da Lei nº 8.038/90, declaro a ocorrência da prescrição da pretensão punitiva.
+    5. Após a providência alusiva à retificação e às ciências cabíveis, arquivem.
+    6. Publiquem.
+Brasília – residência –, 21 de agosto de 2011, às 18h55.
+Ministro MARCO AURÉLIO
+Relator
