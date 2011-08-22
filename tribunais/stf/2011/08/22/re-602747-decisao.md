@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERVENÇÃO DA UNIÃO NO DOMÍNIO ECONÔMICO – LEI DELEGADA Nº 4/62 – RECEPÇÃO PELA CARTA DE 1988 – INVIABILIDADE – NEGATIVA DE SEGUIMENTO.
+    1. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    2. A par desse aspecto, a recepção da Lei Delegada nº 4/62 pela Carta de 1988 repousa na regra de que “a lei reprimirá o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros” (§ 4º do artigo 173 da Constituição Federal de 1988). Por sua vez, o artigo 174 revela a atuação do Estado como “agente normativo e regulador da atividade econômica”, exercendo, na forma da lei, “as funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo para o setor privado”. Daí a impossibilidade de considerar-se conflitante com os novos ares constitucionais aquela lei delegada, no que cuida, justamente, da atividade na área econômica, objetivando coibir abusos. Confiram o que se contém na seguinte ementa:
+    FISCALIZAÇÃO - LEI DELEGADA Nº 4/62 - RECEPÇÃO PELA CONSTITUIÇÃO FEDERAL DE 1988. A Lei Delegada nº 4/62 foi recepcionada pela Constituição Federal de 1988, no que revela o instrumento normativo como meio para reprimir o abuso do poder econômico que vise à dominação dos mercados, à eliminação da concorrência e ao aumento arbitrário dos lucros - § 4º do artigo 173 -, bem como quanto à atuação fiscalizadora do Estado - artigo 174, ambos da Carta Política em vigor. (AI 268857 AgR, Relator(a): Min. MARCO AURÉLIO, Segunda Turma, julgado em 20/02/2001, DJ 04-05-2001 PP-00011 EMENT VOL-02029-11 PP-02361).
+    3. Nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 22 de agosto de 2011.
+Ministro MARCO AURÉLIO
+Relator
