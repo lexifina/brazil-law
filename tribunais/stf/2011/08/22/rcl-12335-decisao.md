@@ -1,0 +1,18 @@
+Decisão: Cuida-se de Reclamação Constitucional, com pedido de medida cautelar, proposta pela Universidade de São Paulo, com vistas a cassar a sentença prolatada pelo Juízo da 52ª Vara do Trabalho de São Paulo, que teria ofendido o efeito vinculante da decisão da Ação Declaratória de Constitucionalidade nº 16, ao condenar, com base no item IV do enunciado da Súmula nº 331 do Tribunal Superior do Trabalho, subsidiariamente, a Universidade de São Paulo – USP (2ª reclamada) a pagar créditos trabalhistas reconhecidos ao Sr. Isaac Ferreira Araújo, que havia ajuizado reclamação trabalhista contra a sociedade empresarial Corporação Gutty de Segurança Patrimonial e Vigilância Ltda. (1ª reclamada) nos autos do processo autuado sob o nº 01242-2010-052-02-00-9.
+    Na espécie, a i. sentenciante da 52ª Vara do Trabalho de São Paulo afastou a aplicação do § 1º do art. 71 da Lei nº 8666/93, condenando a USP, subsidiariamente, a pagar ao autor da reclamação trabalhista créditos decorrentes da relação de emprego mantida entre este e a Corporação Gutty de Segurança Patrimonial e Vigilância Ltda.
+    Nesse ponto, trago à balha trecho da sentença que corrobora essa afirmação, in verbis:
+    “Dessa forma, diante da patente inconstitucionalidade do artigo 71 da lei 8.666/93, aplica-se ao caso em tela o disposto na súmula 331, IV do TST. E nem se diga que referida súmula também está marcada pela inconstitucionalidade, vez que tal argüição carece do mínimo fomento jurídico, porquanto a eiva da inconstitucionalidade se dirige à lei, com a qual não se equipara a súmula, que consagra o entendimento jurisprudencial superior acerca da interpretação de normas legais alusivas a determinado tema.
+    Reconheço, portanto, a responsabilidade subsidiária da 2ª demandada com relação ao pagamento das verbas deferidas nesta decisão, salvo com relação ao pagamento das multas dos artigos 467 e 477 da CLT e multas normativas, dado que ao inadimplemento não deu causa”. (grifei)
+    […]
+    Em razão do quanto exposto e à vista do que mais dos autos consta, rejeito as preliminares arguidas e, no mais, julgo PROCEDENTES EM PARTE os pedidos formulados por Isaac Ferreira Araújo, para condenar Corporação Gutty de Segurança Patrimonial e Vigilância Ltda. ao pagamento das seguintes verbas deferidas na fundamentação […] A 2ª reclamada, Universidade de São Paulo – USP, será RESPONSÁVEL SUBSIDIÁRIA pelo pagamento das verbas deferidas nessa decisão, salvo com relação às multas dos arts. 467 e 477 da CLT e multas normativas”. (grifei)
+    É o relatório.
+    Passo a decidir.
+    Dispenso a remessa dos autos à douta Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    A decisão atacada, ao afastar a incidência do § 1º do art. 71 da Lei nº 8.666/1993, entrou em rota de colisão com o entendimento vinculante firmado no acórdão resultante do julgamento da ADC 16, Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 3.12.2010, que ratificou sua constitucionalidade, malferindo, destarte, decisum decorrente de processo objetivo, cujos efeitos são vinculantes e irradiam-se erga omnes.
+    Ante o exposto, com fulcro no parágrafo único do art. 161 do RISTF, conheço da reclamação e julgo seu pedido procedente para cassar o acórdão reclamado, exclusivamente no que diz respeito à responsabilidade subsidiária da Universidade de São Paulo – USP, e determinar que outro seja proferido em seu lugar, em conformidade com a decisão deste Supremo Tribunal Federal sobre a constitucionalidade do art. 71, § 1º, da Lei nº 8.666/1993, proferida na ADC 16.
+    Publique-se.
+    Intime-se.
+    Brasília, 22 de agosto de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
