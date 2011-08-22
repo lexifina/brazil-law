@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA - DESCABIMENTO. EXECUÇÃO. AGRAVO DE PETIÇÃO. Não merece ser provido o agravo de instrumento em que não se consegue infirmar os fundamentos do despacho denegatório do processamento do recurso de revista. Agravo de instrumento conhecido e desprovido.” (fl. 179)
+    Opostos embargos declaratórios, os mesmos foram rejeitados (fl. 190).
+    No apelo extremo, a recorrente sustenta violação aos artigos 5º, caput, incisos XXXV, LXXXVIII; 7º, inciso X, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Código de Processo Civil e Consolidação das Leis Trabalhistas). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Ainda, verifico que para se chegar à solução diversa do acórdão recorrido faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 desta Corte.
+    Sobre o tema, confiram-se o AI-AgR 839.498, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 5.5.2011; e o AI-AgR 813.557, Segunda Turma, Rel. Min. Ellen Gracie, DJe 21.2.2011, cuja ementa dispõe:
+    “TRABALHISTA E PROCESSUAL CIVIL. AMPLA DEFESA. CONTRADITÓRIO. DEVIDO PROCESSO LEGAL. IGUALDADE. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. PRECEDENTES. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 279. DECISÃO CONTRÁRIA AOS INTERESSES DAS PARTES NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. 1. A ofensa aos postulados constitucionais da ampla defesa, do contraditório, do devido processo legal e da igualdade, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 2. Apreciação do recurso extraordinário que requer a análise de fatos e provas da causa (Súmula STF 279), além do reexame de legislação infraconstitucional (Lei 6.404/76 e CPC), hipóteses inviáveis nesta via. 3. Decisão fundamentada contrária aos interesses das partes não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental a que se nega provimento.”
+    Ademais, com relação à discussão dos pressupostos de admissibilidade de recurso da competência de outro Tribunal, observo que esta Corte já apreciou a matéria dos autos no julgamento do RE-RG 598.365, Rel. Min. Ayres Britto, publicado em 26.3.2010, oportunidade em que rejeitou a repercussão geral, tendo em vista que a natureza da matéria reveste-se de índole infraconstitucional:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 22 de agosto de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
