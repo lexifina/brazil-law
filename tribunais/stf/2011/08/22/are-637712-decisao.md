@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal de Justiça do Estado do Goiás, após consignar que a Lei estadual nº 10.460/88, com redação dada pela Lei estadual nº 14.210/02, e o Decreto estadual nº 5.629/02, foram declarados inconstitucionais quando do julgamento da Arguição de Inconstitucionalidade nº 345-1/199(200702244125), negou provimento a pedido formulado em apelação, ante fundamentos assim sintetizados (folha 283):
+    APELAÇÃO CÍVEL. ANULAÇÃO DE ATO JURÍDICO. SERVIDOR PÚBLICO. PROCESSO ADMINISTRATIVO DISCIPLINAR REGULAR. PENA DE DEMISSÃO APLICADA POR AUTORIDADE INCOMPETENTE. NULIDADE. Declarada a Inconstitucionalidade da Lei que modificou a redação do art. 312, inciso III, alínea “a”, da Lei Estadual nº 10.460/88 e, por corolário, do Decreto nº 6.441/06, o ato administrativo resultante da delegação de competência para aplicação da pena de demissão deve ser anulado, por ter sido praticado por autoridade absolutamente incompetente, colidindo frontalmente com o disposto no art. 37, inciso XII, parágrafo único da Constituição Estadual. Precedentes do STJ e da Corte Especial Goiana. APELAÇÃO CONHECIDA E IMPROVIDA.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 22 de agosto de 2011.
+Ministro MARCO AURÉLIO
+Relator
