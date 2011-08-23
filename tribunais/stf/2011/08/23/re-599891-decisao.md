@@ -1,0 +1,20 @@
+Trata-se de recursos extraordinários interpostos contra acórdão que, com base nas Leis estaduais 2.701/1972 e 3.211/1978, restabeleceu o pagamento de auxílio-moradia a militar inativo.
+    No RE do Instituto de Previdência e Assistência dos Servidores do Estado do Espírito Santo - IPAJM, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 40, § 4º, da mesma Carta.
+    Por sua vez, no RE do Estado do Espírito Santo, fundado no art. 102, III, a, da Lei Maior, sustentou-se, em síntese, ofensa aos arts. 37, caput, 40, §§ 1º, 3º e 4º, e 149, § 1º, da mesma Carta.
+    As pretensões recursais não merecem acolhida.
+    Bem examinados os autos, verifico que o recurso extraordinário do Instituto de Previdência e Assistência dos Servidores do Estado do Espírito Santo - IPAJM é extemporâneo, porquanto protocolizado em 2/2/2007, antes da publicação do acórdão proferido nos embargos declaratórios opostos pelo Estado do Espírito Santo, que se deu em 19/4/2007.
+    Com efeito, esta Corte firmou entendimento no sentido de considerar intempestivo o recurso extraordinário interposto antes da publicação do acórdão dos embargos de declaração opostos contra o aresto de que se recorre, sem que haja a devida ratificação do ato e ainda que mantida substancialmente a decisão embargada. Nesse sentido, menciono as seguintes decisões, entre outras: AI 742.998-AgR/SP, Rel. Min. Eros Grau; RE 449.252-AgR/AL, Rel. Min. Cármen Lúcia; AI 619.519-ED/MG, Rel. Min. Cezar Peluso; AI 699.119-AgR/SC, Rel. Min. Menezes Direito; AI 502.004-AgR/MG, Rel. Min. Carlos Britto; AI 375.124-AgR-ED/MG, Rel. Min. Celso de Mello; AI 571.064-AgR/RS, de minha relatoria.
+    Melhor sorte não assiste ao recurso extraordinário interposto pelo Estado do Espírito Santo.
+    Inicialmente, observo que os arts. 37, caput, e 149, § 1º, da Constituição não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos para suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis estaduais 2.701/1972 e 3.211/1978). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Esse é o entendimento de ambas as Turmas desta Corte, conforme se observa nas ementas dos seguintes julgados:
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. ESPÍRITO SANTO. AUXÍLIO-MORADIA. POLICIAL MILITAR INATIVO. LEIS 2.701/72 e 3.211/78. MATÉRIA INFRACONSTITUCIONAL. ENUNCIADO 280 DA SÚMULA/STF.
+    Agravo regimental a que se nega provimento” (RE 527.123-AgR/ES, Segunda Turma, Rel. Min. Joaquim Barbosa).
+    “Recurso extraordinário. Auxílio-moradia.
+    - Do exame dos autos, verifica-se que o acórdão recorrido, para decidir como decidiu, não se fundou na extensão prevista no § 4º do artigo 40 da Constituição, mas, sim, em texto expresso da Lei estadual n. 3.211/78 que alterou a Lei estadual anterior n. 2.701/72, estabelecendo, em seu artigo 3º, que 'as disposições desta Lei se aplicam aos policiais militares na inatividade'. Inexiste, pois, no caso, a alegada má aplicação do referido dispositivo constitucional que, como salientado, não serviu de fundamento para o acórdão recorrido, estribado este exclusivamente em texto legal estadual para cujo exame não é cabível o recurso extraordinário.
+    Recurso extraordinário não conhecido” (RE 232.027/ES, Primeira Turma, Rel. Min. Moreira Alves).
+    No mesmo sentido, destaco as seguintes decisões: RE 526.916-AgR/ES, Rel. Min. Eros Grau; RE 422.489-AgR/ES, Rel. Min. Ellen Gracie.
+    Isso posto, nego seguimento aos recursos extraordinários (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
