@@ -1,0 +1,44 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. PROVA EMPRESTADA E REQUISIÇÃO DE TESTEMUNHA. POSSIBILIDADE. PRECEDENTES. ALTERAÇÃO DE COMPETÊNCIA. IRREGULARIDADE NÃO DEMONSTRADA. AUSÊNCIA DE FUMUS BONI IURIS. PACIENTE EM LIBERDADE. INEXISTÊNCIA DE PERICULUM IN MORA. LIMINAR INDEFERIDA. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Habeas corpus, com pedido liminar, impetrado por Alexandre de Sá Domingues, Rodrigo de Souza Rezende, Ricardo Fanti Iacono e Fernando Faria Júnior, advogados, em favor de Wagner Meira Alves, contra acórdão do Superior Tribunal de Justiça, que denegou a ordem pedida no Habeas Corpus nº 180.194.
+    2. Embora os Impetrantes não tenham historiado os fatos, apura-se que o Paciente está sendo processado no Primeiro Tribunal do Júri da Comarca de São Paulo, por crime tipificado no art. 121, § 2º, I, III e IV, com a agravante do art. 62, I, c/c o art. 29, caput, do Código Penal.
+     Segundo a denúncia, ela teria contribuído para a morte de João Carlos Ganme, ocorrida “no dia 21 de outubro de 1999, por volta das 16h15, em um escritório localizado à Rua Augusta, nº 1.118, térreo, sala 13”, em São Paulo, organizando “a cooperação dos demais participantes, planejando o crime e financiando todas as despesas necessárias à sua execução” (evento 2, p. 2/7).
+     Em 17.2.2009, o Ministério Público pediu que se requisitassem ao juízo da 7ª Vara Federal “a íntegra do relatório final de análise da investigação Operação Kolibra, subscrito pelo agente da polícia federal Ho Huan”, e ao Departamento da Polícia Federal a presença do responsável pelo relatório (Ho Huan), que seria ouvido como testemunha do juízo (evento 2, p. 8/9).
+    Em 16.3.2009, os requerimentos foram indeferidos, por duas vezes (evento 2, p. 10 e 14/15, respectivamente).
+    Em 19.11.2009, após nova provocação do Ministério Público, aqueles requerimentos foram deferidos (evento 2, p. 20).
+    Voltando-se contra a decisão de primeiro grau, impetrou-se habeas corpus no Tribunal de Justiça de São Paulo, sendo denegada a ordem (evento 2, p. 49).
+    Impetrou-se outro habeas corpus no Superior Tribunal de Justiça e a Quinta Turma denegou a ordem, em 28.6.2011, nos termos seguintes:
+     “ HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. COGITADA NULIDADE. PLEITO DE AFASTAMENTO DE PROVA EMPRESTADA NO PLENÁRIO DO JURI A SER REALIZADO. OITIVA DE TESTEMUNHA. ALEGADA SUSPEIÇÃO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. No direito Processual Penal é admissível a utilização de prova emprestada, "desde que não constitua o único elemento de convicção a respaldar o convencimento do julgador (Precedentes do c. Pretório Excelso e do STJ)" (HC 155.149/RJ, 5.ª Turma, Rel. Min. FELIX FISCHER, DJe de 14/06/2010).
+    2. A cogitada utilização abusiva de provas emprestadas ou a participação de testemunha pretensamente suspeita são questões que não estão em condições de serem examinadas, incontinenti , na via estreita do habeas corpus, podendo ser suscitadas, eventual e oportunamente, no processo originário, observado o contraditório e a ampla defesa.
+    3. Ordem denegada.”
+    (Evento 2, p. 87)
+    2. Voltando-se contra essa decisão, alegam os Impetrantes desejar o Ministério Público “se utilizar de informações oriundas das investigações preliminares de processo que tramita na justiça federal, tão somente para denegrir a imagem do acusado em face dos jurados que o julgarão”, o que seria inadmissível num Estado Democrático de Direito, que repudia o “Direito Penal do Autor”.
+    Afirmam ser necessário “impedir que as provas oriundas de processo sigiloso, de conteúdo totalmente estranho aos fatos tratados na denúncia, sejam levianamente utilizados pelo Ministério Público”.
+    Criticam a possibilidade da oitiva da testemunha Ho Yuan, “especialmente como do juízo, haja vista ser a mesma absolutamente suspeita, além de não conhecer quaisquer fatos referentes ao caso tratado nestes autos”.
+    Assinalam a incorreção de ser o julgamento realizado em outro lugar, que não “o plenário nº 5”, sob pena de se ferir “o princípio do juiz natural”.
+    Listam as quatro razões que inviabilizariam “a efetivação dos pleitos da acusação, deferidos pelo Magistrado de primeira instância”, e que foram “ratificados pelo Tribunal de Justiça do Estado de São Paulo e pelo Superior Tribunal de Justiça”, a saber:
+    “O processo do qual a prova requerida se origina corre em “sigilo”, não foi sequer julgado em primeira instância, e não tem qualquer correlação com os fatos tratados no processo epigrafado, ademais tal prova não foi produzida sob o crivo do contraditório;
+    A testemunha arrolada pelo juízo não tem conhecimento sobre os fatos tratados na denúncia, além de ser absolutamente suspeita, pois certamente intentará defender a correção das provas por ela própria produzidas (relatório de investigação);
+    A decisão do Magistrado que oficiou o juízo da 7ª Vara Federal Criminal de São Paulo constitui verdadeira “subversão de instância”, ferindo, de forma oblíqua, o princípio do “juiz natural”, pois a retirada do julgamento do plenário nº 5 afastou a juíza que era contrária à produção daquelas provas;
+    Por fim, e mais absurdo, o Ministério Público Estadual obteve prova oriunda de processo que tramita sob “sigilo” na Justiça Federal e não requereu sua juntada diretamente aos autos porque sabia que obteve tal prova de forma ilícita e ou ilegítima, motivo pelo qual requereu que o juízo oficiasse a 7ª Vara Federal de São Paulo com o intuito deliberado de convalidar a referida prova (verdadeira lavagem de prova).”
+    (Evento 1, p. 9/10)
+    4. Requerem liminar, “determinando-se a suspensão do julgamento perante o e. Tribunal do Júri até a decisão final do presente mandamus”, e pedem a concessão da ordem, “para que seja cassada definitivamente a decisão judicial de fls. 2.898, desentranhando-se os documentos que porventura já tenham sido juntados ao processo de origem, indeferindo-se a oitiva da testemunha do juízo Ho Yuan e determinando-se, ainda, o retorno do julgamento para o plenário nº 5, em respeito ao princípio do juiz natural”.
+    Examinada a matéria nos seus aspectos essenciais, DECIDO.
+    5. Os elementos fáticos e jurídicos apresentados nesta impetração não autorizam o deferimento de liminar.
+    As matérias tratadas neste habeas corpus foram enfrentadas nos primeiro e segundo graus estaduais e no Superior Tribunal de Justiça, que validaram a requisição de informações e a indicação de testemunha para ser ouvida em plenário no julgamento pelo Tribunal do Júri.
+    A convergência de entendimento sobre a matéria nas três instâncias precedentes sinalizam a regularidade do processo e a existência de fundamentos para o prosseguimento da ação penal, com o julgamento pelo tribunal do júri.
+    Ademais, a requisição da prova colhida em outro processo, ou em inquérito que deu ensejo à outra ação penal contra o Paciente por fato diverso, e a indicação de testemunha tida como suspeita não significam, necessariamente, que serão utilizadas em plenário. Nesta hipótese, não estaria contaminado o julgamento, porque este Supremo Tribunal decidiu que “repousando o decreto condenatório em elementos diversos e silenciando quanto à prova emprestada, descabe cogitar de nulidade” (Habeas Corpus nº 98.200, relator o Ministro Marco Aurélio, j. 25.08.09).
+    No mesmo sentido são os Habeas Corpus nº 95.019 e 95.186, relator o Ministro Ricardo Lewandowski, j. 15.09.09 e 26.5.09, respectivamente; e Habeas Corpus nº 89.468, relator o Ministro Ayres Britto, j. 15.05.2007.
+    Verifica-se, ainda, que os Impetrantes temem que o Conselho de Sentença possa condenar o Paciente com base apenas em levantamentos oriundos dessas provas, desprezando-se as demais. Trata-se de mera conjectura, que não pode servir para justificar o deferimento de medida liminar, especialmente porque lança dúvidas sobre a capacidade do juiz-presidente de impedir abusos durante os debates, na forma prevista no art. 497 do Código de Processo Penal.
+    Observa-se, ainda, não terem os Impetrantes apresentado elementos cognitivos mínimos que demonstrassem o indevido deslocamento de competência. Por conseguinte, neste juízo preliminar, deve prevalecer a regularidade constatada nos acórdãos precedentes.
+    Esses levantamentos desfiguram o fumus boni iuris, indispensável à liminar.
+    Por último, apura-se que o Paciente não está preso, tendo lhe sido assegurado o direito de aguardar o julgamento em liberdade até o trânsito em julgado de eventual condenação.
+     Essa constatação descaracteriza o periculum in mora.
+     7. Pelo exposto, ausente a plausibilidade jurídica, indefiro a liminar.
+     8. Suficiente a instrução, vista à Procuradoria-Geral da República.
+    Publique-se .
+    Brasília, 23 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
