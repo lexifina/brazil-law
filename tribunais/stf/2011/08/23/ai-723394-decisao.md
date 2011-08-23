@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Município de Santo André interpõe agravo de instrumento contra decisão que não admitiu o recurso extraordinário, fundamentado na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Embargos à Execução Fiscal – IPTU – Imunidade tributária prevista no artigo 155, parágrafo 3º, da Constituição Federal limitada às operações relativas à energia elétrica – Não incidência sobre o patrimônio imobiliário de empresa concessionária de serviço público – Imunidade recíproca (art. 150, inciso VI, “a”, da CF/88) não se aplica às sociedades de economia mista concessionárias de serviços públicos, aplicando-se à elas a regra do 3º, do mesmo artigo – Inteligência do art. 173, § 1º, II, e § 2º, da CF/88 e do art. 13 do CTN – Taxa de limpeza pública – Serviço prestado uti universi – Cobrança Inconstitucional – Recurso parcialmente provido” (fls.148)
+    No apelo extremo, alega o Município recorrente contrariedade ao disposto no artigo 145, II da Constituição Federal, requerendo, tão somente, a manutenção das taxas de limpeza pública/coleta de lixo.
+    Decido.
+    Não merece prosperar a irresignação.
+    Observo, inicialmente, que o acórdão recorrido limitou-se a apreciar a questão relativa à Taxa de limpeza pública, inovando, assim, o agravante nas razões recursais, insurgindo-se a respeito da taxa de coleta de lixo domiciliar, que não foi suscitada, oportunamente, sequer por meio de embargos de declaração, carecendo, pois, do necessário prequestionamento. Incide, na espécie, as Súmulas 282 e 356 desta Corte.
+    No que diz respeito à taxa de limpeza pública, é pacífico o entendimento pela inconstitucionalidade da exação. Conforme assentado pelo Plenário desta Corte no julgamento do RE nº 199.969/SP, Relator o Ministro Ilmar Galvão, DJ de 6/2/98, a referida taxa tem “por fato gerador prestação de serviço inespecífico, não mensurável, indivisível e insuscetível de ser referido a determinado contribuinte, não sendo de ser custeado senão por meio do produto da arrecadação dos impostos gerais”.
+    Este entendimento vem sendo aplicado por julgados de ambas as Turmas do Supremo Tribunal Federal. Sobre o tema, anote-se:
+    “1. Embargos de declaração convertidos em agravo regimental. 2. IPTU: progressividade. O STF firmou o entendimento - a partir do julgamento do RE 153.771, Pleno, 20.11.96, Moreira Alves - de que a única hipótese na qual a Constituição - antes da EC 29/00 - admitia a progressividade das alíquotas do IPTU era a do art. 182, § 4º, II, destinada a assegurar o cumprimento da função social da propriedade urbana. 3. Taxa de Limpeza Pública: inconstitucionalidade: assentou o plenário do STF (RE 199.969, Galvão, DJ 6.2.98), que ela tem por fato gerador prestação de serviço inespecífico, não mensurável, indivisível e insuscetível de ser referido a determinado contribuinte. 4. Município de São Bernardo do Campo: legitimidade da taxa para cobrir despesas com extinção de incêndios: precedente: RE 206.777, 25.02.1999, Pleno, Ilmar Galvão, DJ 30.4.99” (AI nº 408.062/SP-ED, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 4/8/06).
+    “Agravo regimental em agravo de instrumento. 2. Taxa de Limpeza Pública. Inconstitucionalidade. 3. Decisão proferida em conformidade com a jurisprudência desta Corte. Precedentes. 4. Agravo regimental a que se nega provimento” (RE nº 412.431/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 3/3/2006).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 23 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
