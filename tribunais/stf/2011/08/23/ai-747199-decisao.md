@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. FORMA DE APURAÇÃO. “CÁLCULO POR DENTRO”. CONSTITUCIONALIDADE.
+1. É constitucional a sistemática de apuração do ICMS denominada “cálculo por dentro”. Precedentes: RE 212.209, Plenário, Redator para acórdão o Min. Nelson Jobim, DJ de 14.02.2003; AI 658.710-AgR, Primeira Turma, Dje de 01.08.2011; AI 633.911-AgR, Segunda Turma, Rel. Min. Eros Grau, Dje de 31.01.2008.
+2. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 22):
+    “EMBARGOS À EXECUÇÃO FISCAL – ICMS – Auto-lançamento equivalente a confissão da dívida – Inexigível procedimento administrativo – CDA que goza de presunção de liquidez e certeza – Correção monetária sobre o principal, os juros moratórios e a multa – Legalidade da Taxa Selic – Cumulação da multa moratória com os juros de mora admissível – Embargos improcedentes – Recurso providos (oficial e voluntário) não provido o da embargante”.
+    Cuida-se na origem de embargos à execução fiscal onde se discutiu a regularidade da forma de cálculo do ICMS, além da inconstitucionalidade da taxa SELIC nas ações tributárias.
+    O acórdão recorrido considerou constitucionais tanto a forma de cálculo do ICMS estabelecida no art. 33 da Lei estadual nº 6.374/89 (denominado “cálculo por dentro”), como a utilização da taxa SELIC no cálculo dos débitos dos contribuintes com a Fazenda Pública Estadual.
+    Contra essa decisão foi interposto recurso extraordinário onde o ora agravante alegou violação ao art. 155, § 2º, I, da CF. Sustentou em síntese a inconstitucionalidade da forma de cálculo do ICMS aduzindo que: “a forma de cálculo do ICMS, qual seja, 'por dentro' ou com sua 'base de cálculo cheia', incorre na incidência do imposto sobre ele mesmo (bis in idem), pois assim ocorre quando o contribuinte destaca o valor do tributo sobre a nota cheia, ou seja, agregado com o próprio tributo previamente recolhido” (fl. 50).
+    O agravo foi inadmitido na origem sob o fundamento de que não haveria sido atendidas quaisquer hipóteses de cabimento do recurso extraordinário.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, ou se a questão constitucional já foi resolvida no mérito, estando pacificado o entendimento por esta Corte, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O Supremo Tribunal Federal decidiu pela constitucionalidade da sistemática de apuração do ICMS que inclui o valor do imposto na sua própria base de cálculo, é o que se depreende do julgamento do RE 212. 209, Plenário, Redator para acórdão o Min. Nelson Jobim, DJ de 14.02.2003 cuja decisão possui a seguinte ementa:
+    “Constitucional. Tributário. Base de cálculo do ICMS: inclusão no valor da operação ou da prestação de serviço somado ao próprio tributo. Constitucionalidade. Recurso desprovido.”
+    Ainda nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. CÁLCULO POR DENTRO: CONSTITUCIONALIDADE. PRECEDENTE DO PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Supremo Tribunal Federal assentou a constitucionalidade da sistemática de apuração do ICMS denominada cálculo por dentro” (AI 658.710-AgR, Primeira Turma, Dje de 01.08.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. BASE DE CÁLCULO. INCLUSÃO DO MONTANTE DO PRÓPRIO IMPOSTO. CÁLCULO "POR DENTRO". CONSTITUCIONALIDADE. 1. O Pleno do Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário n. 212.209, Redator para o acórdão o Ministro Nelson Jobim, DJ de 14.2.03, fixou entendimento no sentido de ser constitucional a base de cálculo do ICMS correspondente ao valor da operação ou prestação de serviço somado ao montante do próprio imposto [cálculo 'por dentro'].” Precedentes. 2. Agravo regimental a que se nega provimento. (AI 633.911-AgR, Segunda Turma, Rel. Min. Eros Grau, Dje de 31.01.2008).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 544, § 4º, II, “a”, do CPC e no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 23 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
