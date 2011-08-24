@@ -1,0 +1,20 @@
+DECISÃO:
+    Vistos.
+    ABREDI – ASSOCIAÇÃO DE BARES E RESTAURANTES DIFERENCIADOS E SINDICATOS DE HOTÉIS, RESTAURANTES, BARES E SIMILARES DE SÃO PAULO interpõem recurso extraordinário (fls. 307 a 333), com fundamento na alínea “a”, do permissivo constitucional, contra acórdão da Quarta Câmara de Direito Público do Tribunal de Justiça paulista, assim ementado:
+    “MANDADO DE SEGURANÇA – Estabelecimento comercial - Horários de funcionamento – Competência do Município para legislar e regular o comércio em seu território – Inexistência de ofensa a direito subjetivo líquido e certo – Ordem denegada – Recurso não provido” (fl. 301).
+    Alegam os recorrentes violação dos artigos 1º, 5º, inciso XII, 6º, 7º e 170, da Constituição Federal, consubstanciada pelo reconhecimento de constitucionalidade de lei municipal que disciplina o horário de funcionamento do comércio no Município de São Paulo.
+    Depois de apresentadas contrarrazões (fls. 339 a 360), o recurso não foi admitido, na origem (fls. 372/373), o que ensejou a interposição do presente agravo de instrumento.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 9/1/06, conforme expresso na certidão de folha 305, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação, contudo, não merece prosperar.
+    E isso porque a decisão atacada encontra-se em consonância com a pacífica jurisprudência deste Supremo Tribunal Federal a respeito do tema, segundo a qual, é de competência dos municípios instituir a disciplina do funcionamento do comércio, no âmbito de seus respectivos territórios.
+    Citem-se, para exemplificar, os seguintes precedentes:
+    “Ação direta de inconstitucionalidade. 2. Portaria n° 17/2005, do Estado do Maranhão, que altera e fixa os horários de funcionamento dos estabelecimentos que comercializam bebidas alcoólicas no Estado. 3. Generalidade, abstração e autonomia que tornam apto o ato normativo para figurar como objeto do controle de constitucionalidade. 4. Competência do Município para legislar sobre horário de funcionamento de estabelecimentos comerciais (art. 30, I, CF/88). Matéria de interesse local. Precedentes. Entendimento consolidado na Súmula 645/STF. 5. Ação julgada procedente” (ADIn nº 3.691/MA, Relator o Ministro Gilmar Mendes, Tribunal Pleno, DJe de 9/5/08).
+    “Município: competência para a fixação de horário de funcionamento de estabelecimento comercial: incidência da Súmula 645” (AI nº 565.882-AgR/RS, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJe de 31/8/07).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. NORMAS ADMINISTRATIVAS MUNICIPAIS QUE DISCIPLINAM O HORÁRIO DE FUNCIONAMENTO DO COMÉRCIO LOCAL. COMPETÊNCIA DO MUNICÍPIO PARA OS ASSUNTOS DE SEU INTERESSE: ART. 30, I, DA CONSTITUIÇÃO. Os Municípios têm autonomia para regular o horário do comércio local, desde que não infrinjam leis estaduais ou federais válidas, pois a Constituição lhes confere competência para legislar sobre assuntos de interesse local. Agravo Regimental a que se nega provimento” (AI nº 622.405-AgR/MG, Relator o Ministro Eros Grau, Segunda Turma, DJe de 15/6/07).
+    “CONSTITUCIONAL. ADMINISTRATIVO. MUNICÍPIO: FARMÁCIAS: HORÁRIO DE FUNCIONAMENTO: COMPETÊNCIA MUNICIPAL. C.F., arts. 30, I; 5º, caput, XIII e XXXII; 170, IV, V e VIII. I. - Competência do Município para estabelecer horário de funcionamento de estabelecimentos comerciais: C.F., art. 30, I. II. - Precedentes do STF: RE 182.976-SP, Velloso, 2ª Turma, 12.12.97; RE 174.645-SP, M. Corrêa, 2ª T., 17.11.97; RE 274.542-SP, M. Alves, 1ª T., 05.6.2001; RE 189.170-SP, M. Corrêa, Plenário, 1º.02.2001. III. - Negativa de seguimento ao RE. Agravo não provido” (RE nº 252.344-AgR/SP, Relator o Ministro Carlos Velloso, Segunda Turma, DJ de 21/9/01).
+    Ante o exposto, nego seguimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro DIAS TOFFOLI
+Relator
