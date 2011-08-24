@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TAXA DE COLETA DE LIXO DE PRÉDIOS PÚBLICOS. LEI COMPLEMENTAR MUNICIPAL N. 16/1998. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO LOCAL: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “EMENTA: TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. TAXA DE COLETA DE LIXO. PRÉDIO PÚBLICO. COBRANÇA. AUSÊNCIA DE PREVISÃO NA LEI INSTITUIDORA. RECURSO IMPROVIDO. 1. É ilegal, em face da UFPB, a cobrança da denominada taxa de coleta de resíduos-TCR, uma vez que a Lei Complementar n° 16/98, do Município de João Pessoa, não incluiu na base de cálculo do tributo os prédios públicos. Precedentes deste Colendo Tribunal Regional Federal. 2. Apelação improvida” (fl. 110).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado o art. 145, inc. II, da Constituição da República.
+    Argumenta que “o Município de João Pessoa cobra a TCR referente aos serviços de coleta de resíduos prestados nos imóveis da União, com base no entendimento jurisprudencial e doutrinário mais atual, que a Lista de Imóveis contida na LC n. 16/98 é taxativa somente quanto ao gênero, porém sem se afastar de tal caráter, comporta interpretação ampla e analógica, razão pela qual os imóveis públicos são uma espécie, da qual o gênero é 'comercial sem/com produção de lixo'” (fl. 133, grifos no original).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. No voto condutor do acórdão recorrido, o Desembargador Relator afirmou:
+    “Inicialmente , impende registrar que a Certidão de Inscrição na Dívida Ativa questionada através dos embargos propostos pela Universidade Federal da Paraíba, e ora sob apreciação desta Eg. Turma, refere-se à cobrança de taxa municipal de coleta de lixo, motivo pelo qual afasto, por completo, a possibilidade de aplicação da imunidade tributária prevista no art. 150, VI, da Constituição Federal, tendo em vista que tal limitação trata, unicamente, de impostos, não alcançando qualquer outro tributo.
+    No entanto, in casu, o ente municipal efetua cobrança de taxa de coleta de resíduos-TCR contra a Universidade Federal da Paraíba-UFPB ao argumento de que o ente público se enquadra na modalidade 'comercial sem produção de lixo orgânico', a teor do art. 3º, inc. II, da LC 16/98. (...)
+    Desta forma, é ilegal a cobrança da denominada taxa de coleta de resíduos-TCR, uma vez que a Lei Complementar n. 16/98, do Município de João Pessoa não incluiu na base de cálculo do tributo os prédios públicos” (fl. 105).
+    5. O Tribunal de origem fundamentou-se na interpretação e na aplicação de dispositivos da Lei Complementar municipal n. 16/1998. Concluir de modo diverso demandaria a análise dessas normas infraconstitucionais, o que é vedado em recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ADULTERAÇÃO DE COMBUSTÍVEL. CASSAÇÃO DA INSCRIÇÃO NO CADASTRO DE CONTRIBUINTES DO IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS DO ESTADO DE SÃO PAULO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 790.363-AgR, de minha relatoria, Primeira Turma, DJe 24.8.2010).
+    6. Ao julgar o Recurso Extraordinário n. 638.319/PB, caso análogo ao vertente, o Ministro Marco Aurélio decidiu:
+    “RECURSO EXTRAORDINÁRIO – LEI LOCAL – INTERPRETAÇÃO – AUSÊNCIA DE ADEQUAÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. Salta aos olhos o descompasso entre a decisão atacada e as razões do extraordinário. Na primeira, o Tribunal de origem decidiu a controvérsia mediante interpretação conferida à Lei Complementar Municipal nº 16/98. Concluiu não haver a referida norma previsto a cobrança da Taxa de Coleta de Resíduos sobre os imóveis públicos (folha 101): (...)
+    Desta forma, é ilegal a cobrança da denominada taxa de coleta de resíduos – TCR, uma vez que a Lei Complementar nº 16/98, do Município de João Pessoa, não incluiu na base de cálculo do tributo os prédios públicos. (...)
+    No extraordinário, o recorrente afirma ter o Tribunal Regional Federal da 5ª Região afrontado ao disposto no artigo 145, inciso II, da Constituição da República, visto ter afirmado não existir na citada Lei Complementar “a categoria de imóvel público, quando, na verdade, tal espécie de imóveis está inserida dentro da categoria de imóveis denominados ‘comercial sem produção de lixo orgânico’ e ‘comercial com produção de lixo orgânico’” (folha 131). Busca-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Em momento algum, adotou-se tese contrária aos preceitos constitucionais evocados pelo recorrente. Está-se diante de hipótese cujo deslinde final da lide ocorre no âmbito da justiça local.
+    2. Nego seguimento a este extraordinário” (DJ 18.5.2011).
+    Na mesma linha, o RE 628.815/PB, Rel. Min. Ricardo Lewandowski, decisão monocrática, DJ 8.8.2011; RE 640.897/PB, Rel. Min. Marco Aurélio, decisão monocrática, DJ 22.6.2011; RE 545.913/PB, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 7.4.2011; e RE 523.237/PB, Rel. Min. Dias Toffoli, decisão monocrática, DJ 20.10.2010.
+     Nada há a prover quanto às alegações do Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
