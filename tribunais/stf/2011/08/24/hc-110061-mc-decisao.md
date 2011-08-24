@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Anderson Pereira Vicente, preso em flagrante pelo crime de tráfico ilícito de entorpecentes (art. 33 da Lei nº 11.343/06), buscando a liberdade provisória do paciente.
+    Aponta como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 177.934/MG, impetrado àquela Corte, Relator o Ministro Gilson Dipp.
+    Sustenta a impetrante, basicamente, o constrangimento ilegal imposto ao paciente, pois ausentes os fundamentos legais para justificar a sua custódia cautelar, nos termos do art. 312 do Código de Processo Penal.
+    Aduz-se, ainda, que:
+    “(...)
+    No caso do delito de tráfico de drogas, equiparado a crime hediondo, a Lei 8.072/90 vedava a concessão de liberdade provisória o que foi reiterado na nova Lei de Drogas (Lei 11.343/06), mais precisamente em seu art. 44, ou seja, desde 08.10.2006 (data em que entrou em vigor esta última lei). Portanto, tal proibição quanto à concessão de liberdade provisória encontrava-se presente tanto na lei geral (Lei dos Crimes Hediondos) quanto na lei especial (Lei de Drogas).
+    Todavia, deve-se atentar que tal cenário delineado no parágrafo anterior foi completamente alterado com o advento da Lei 11.464/2007 (vigente desde 29.03.2007) que, modificando a redação do art. 2°, II, da Lei 8.072/90, aboliu a vedação quanto à liberdade provisória.
+    Portanto, como se vê, houve uma sucessão de leis processuais materiais no tempo, fenômeno regido pelo princípio da posteridade, isto é, a lei posterior revoga a lei anterior (essa revogação, como sabemos, pode ser expressa ou tácita; no caso, a Lei 11.464/2007, que é geral, derrogou expressamente a parte do art. 44 da Lei 11.343/2006, que é especial), ou seja, desapareceu do aludido art. 44 a proibição da liberdade provisória, porquanto a lei nova revogou (derrogou) explicitamente a antiga. Obrigatoriedade da aplicação também da lei mais benéfica ao réu.
+    Por seu turno, o art. 2° da Lei dos Crimes Hediondos, alterado pela Lei 11.464/2007, passou a dizer o seguinte: 'Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: I – anistia, graça e indulto; II – fiança'.
+    Ou seja, antes do advento da Lei 11.464/2007 o antigo art. 2° proibia a fiança e a liberdade provisória e, agora, só veda a fiança, ou seja, fazendo-se uma interpretação a contrario sensu caberá liberdade provisória nos crimes hediondos, na prática da tortura, no tráfico ilícito de entorpecentes e drogas afins e no terrorismo” (fls. 5/6 da inicial – grifos no original).
+    Ao final, deixa a impetrante subentendido a existência de excesso de prazo na prisão cautelar do paciente ao afirmar que ele “encontra-se preso desde 28 de fevereiro de 2010, sem sequer haver sentença condenatória” (fl. 24 da inicial).
+    Requer o deferimento da liminar para conceder ao paciente o benefício da liberdade provisória e, no mérito, pede a sua confirmação.
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que:
+    “(...)
+    O paciente foi denunciado pela suposta prática do crime tipificado no art. 33, caput, da Lei n° 11.343/2006, sendo que se encontra preso desde o dia 28/02/2010, sem o devido julgamento.
+     Diante da constatação da inexistência de motivos para a manutenção da prisão cautelar, foi pleiteado o pedido de liberdade provisória que, porém, restou infrutífero tendo sido negado o pedido sem qualquer motivo plausível que acarretasse na manutenção da prisão cautelar do paciente.
+    Dessa forma, a defesa impetrou Habeas Corpus perante o Tribunal de Justiça do Estado de Minas Gerais que denegou a ordem (...).
+    (...)
+    Insatisfeito com a decisão, impetrou HABEAS CORPUS junto ao Superior Tribunal de Justiça que também indeferiu o pedido, não guardando observância em relação à nova Lei 11.464/2007 (vigente desde 29/03/2007) que alterou a redação do art. 2º, II, da Lei 8.072/90, para além de não se ter observado os princípios constitucionais da dignidade da pessoa humana, o devido processo legal e a presunção de inocência (...)” (fls. 3/4 da inicial – grifos no original).
+    Transcrevo o teor do julgado proferido pelo Superior Tribunal de Justiça:
+    “CRIMINAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PACIENTE PRESO EM FLAGRANTE. PLEITO DE CONCESSÃO DE LIBERDADE PROVISÓRIA. ART. 44 DA LEI Nº 11.343/07. VEDAÇÃO LEGAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    I. A Lei nº 11.343/2006 contém disposição expressa que veda a concessão de liberdade provisória a réus presos em flagrante pela prática do delito de tráfico de drogas, sendo que, em se tratando de lei especial, não se mostra plausível a tese de que tal dispositivo foi derrogado tacitamente pela Lei nº 11.464/2007.
+    II. Em que pese o STF, nos autos do RE nº 601.384/RS, ter se manifestado pela existência de repercussão geral, a constitucionalidade do art. 44 da Lei 11.343/06 ainda não foi dirimida, devendo prevalecer o entendimento consolidado no âmbito desta Turma até o julgamento final da matéria pelo Pretório Excelso, no sentido da existência de vedação expressa à concessão de liberdade provisória aos acusados pela prática do delito de tráfico de entorpecentes (Precedentes).
+    III. Ordem denegada, nos termos do voto do Relator”.
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos demonstrar manifesto constrangimento ilegal, o que não ocorre na espécie.
+    Pelo que se tem no julgado proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste momento, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o acórdão proferido por aquela Corte encontra-se suficientemente motivado a justificar a formação de seu convencimento.
+    Ademais, anoto que, não obstante a existência nesta Suprema Corte de precedentes, inclusive da minha lavra, admitindo a possibilidade de concessão de liberdade provisória em se tratando de prisão em flagrante pelo delito de tráfico de entorpecentes, quando ausentes os pressupostos autorizadores da constrição cautelar, a decisão proferida pelo Juízo de Direito da Vara Criminal, da Infância e da Juventude da Comarca de Ubá/MG, à primeira vista, indicou elementos concretos e individualizados, aptos a demonstrar a necessidade da segregação provisória do paciente, nos termos do art. 312 do Código de Processo Penal.
+    De outra parte, acerca do eventual excesso de prazo na prisão do paciente, anoto que o tema não foi submetido ao crivo Superior Tribunal de Justiça. Com efeito, sua apreciação, de forma originária, neste momento, configuraria verdadeira supressão de instância não admitida. Nesse sentido, os julgados seguintes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com cópia do inteiro teor do julgado ora questionado, dispenso as informações da autoridade coatora.
+    Oficie-se, contudo, ao Juízo de Direito da Vara Criminal, da Infância e da Juventude da Comarca de Ubá/MG para que preste informações pormenorizadas e atualizadas acerca da ação penal à qual responde o paciente.
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
