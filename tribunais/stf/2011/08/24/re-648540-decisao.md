@@ -1,0 +1,30 @@
+CIVIL E PROCESSUAL CIVI. RECURSO EXTRAORDINÁRIO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA ON LINE. BACEN JUD. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. A controvérsia sub judice possui índole infraconstitucional, por isso que eventual ofensa à Constituição operar-se-ia de forma indireta, circunstância que inviabiliza a admissão do extraordinário. Precedente: AI 807.715-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ de 15.11.10.
+4. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto pela CAIXA ECONÔMICA FEDERAL, com respaldo no art. 102, inciso III, alínea “a”, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região. Eis a ementa do julgado (fl. 240):
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA ON-LINE. UTILIZAÇÃO DO SISTEMA BACEN JUD. QUEBRA DE SIGILO BANCÁRIO. IMPOSSIBILIDADE.
+    Merecem ser prestigiadas as salvaguardas constitucionais, de modo que a simples ausência de patrimônio penhorável não é suficiente para ensejar a quebra do sigilo bancário, que somente deve ser outorgada excepcionalissimamente; ou seja, em presença de indícios de ilicitude e de fraude objetivando a ocultação de bens.”
+    Noticiam os autos que o Juiz da 1ª Vara Federal de Florianópolis/SC, em sede de execução fundada em título extrajudicial, determinou a penhora on line sobre contas correntes do recorrido, através do sistema BACEN JUD.
+    Irresignado, o recorrido interpôs agravo de instrumento, alegando que a execução deve ocorrer pelo meio menos gravoso ao devedor, a quem compete a escolha do bem que garantirá o juízo.
+    Afirmou ainda ter nomeado um bem imóvel à penhora, razão pela qual não seria necessário o bloqueio de sua conta corrente.
+    Sustentou por fim que, nos termos do arrigo 649, inciso IV, do CPC, são absolutamente impenhoráveis “os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal”.
+    O Tribunal Regional Federal da 4ª Região deu provimento ao agravo. Contra esta decisão, a Caixa Econômica Federal interpôs este recurso extraordinário, no qual alega violação do disposto no artigo 5º, incisos X e XII, da Constituição Federal, verbis:
+    “Art. 5º (...)
+    X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, assegurado o direito a indenização pelo dano material ou moral decorrente de sua violação;
+    (...)
+    XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou instrução processual penal;”
+    Alega que “a Constituição Federal garante o direito à preservação da intimidade, bem como o sigilo da informação, mas a Carta Magna também se preocupa em dotar o processo judicial de efetividade, caracterizada pelo resultado útil, ainda que, para a consecução desse objetivo, tenha de invadir a esfera de privacidade do indivíduo” (fl. 298).
+    Destaca ainda que “o dinheiro ocupa a primeira posição na ordem preferencial de bens penhoráveis, justamente por possibilitar, de forma mais efetiva e célere, a satisfação do crédito. Assim, o acesso a informações relativas aos depósitos em dinheiro e aplicações financeiras de titularidade do devedor torna-se cada vez mais necessário, tendo em vista que ampliaria as chances de êxito das demandas judiciais” (fl. 301).
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A controvérsia sub judice possui índole infraconstitucional, por isso que eventual ofensa à Constituição operar-se-ia de forma indireta, circunstância que inviabiliza a admissão do extraordinário. Nesse sentido, o AI 807.715-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJ de 15.11.10, assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA ON LINE. SISTEMA BACEN JUD. ALEGADA QUEBRA DE SIGILO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão com base na legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. IV - Agravo regimental improvido.”
+    Ex positis, nego seguimento ao recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
