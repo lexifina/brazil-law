@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro.
+    2. Da leitura dos autos, observo que a instância judicante de origem concedeu a ordem no mandado de segurança impetrado e anulou o ato administrativo que excluiu o impetrante, ora recorrido, do concurso público para o cargo de inspetor de segurança e administração penitenciária do estado do Rio de Janeiro.
+    3. Pois bem, a parte recorrente alega ofensa ao art. 2º a ao inciso LIV do art. 5º da Magna Carta de 1988.
+    4. Tenho que o inconformismo não merece acolhida. No caso, a 12ª Câmara Cível do TJ/RJ entendeu que os dispositivos do edital do certame, que descrevem as vedações ensejadoras de inabilitação para a investidura no cargo de inspetor de segurança, não se aplicam ao recorrido. Leia-se do julgado a parte que interessa ao deslinde da causa (fls. 182/183):
+    “De acordo com as provas colacionadas aos autos, notadamente a cópia do edital às fls. 62/79, um dos requisitos para a posse no cargo de inspetor de segurança e administração penitenciária é que o candidato não tenha sido preso ou processado criminalmente, não esteja respondendo a inquérito policial ou policial militar, ou, ainda, não tenha sido condenado por crime ou contravenção. (item 3.9).
+    A Comissão Geral de Acompanhamento e Observação de Candidatos, após Investigação de Comportamento Social, deliberou pelo desligamento do candidato do certame (fls. 28/30) sob a seguinte motivação: omissão de envolvimento em delito que deu origem a ação penal.
+    Entretanto, o item 15.4 revela que a participação no Curso de Formação só se dá após a aprovação na indigitada Investigação, sendo certo que o impetrante concluiu esse curso, o que demonstra o atuar confuso da Administração Pública.
+    O impetrante, por seu turno, comprovou a inexistência de antecedentes criminais (fls. 31/40), bem como o benefício da transação penal, homologada pelo juízo da 2ª Vara Criminal Regional de Bangu, nos termos do art. 84, parágrafo único, da Lei nº 9.099/95, com a consequente extinção de punibilidade do fato que lhe fora imputado – porte ilegal de arma (art. 10 da Lei nº 9.437/97) – muito antes da realização do concurso público.
+    Destarte, o cenário leva, inequivocamente, à anulação do ato impugnado, tendo-se em vista a observância dos princípios da proporcionalidade e razoabilidade.”
+    5. Nessa contextura, entendo que a análise realizada pelo Tribunal carioca não abordou o mérito administrativo, pelo que não há falar em violação ao art. 2º da Constituição Republicana.
+    6. Com efeito, é firme no Supremo Tribunal Federal o entendimento de que “o regular exercício da função jurisdicional, por isso mesmo, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes” (MS 23.452, da relatoria do ministro Celso de Mello).
+    7. De mais a mais, ressalto que o apego da Administração Pública às normas editalícias publicadas por ela, Administração, homenageia a um só tempo o princípio da segurança jurídica – querem as partes estar seguras de que o edital será respeitado – e o princípio da lealdade. Lealdade naquele sentido de que a Administração Pública tem de corresponder às expectativas por ela mesma geradas nos administrados. É o que, na doutrina alemã e na doutrina portuguesa, toma o nome de “proteção da confiança”.
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
