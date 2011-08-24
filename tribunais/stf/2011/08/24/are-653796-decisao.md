@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. JUSTIÇA DO TRABALHO. PRELIMINAR DE INCOMPETÊNCIA. PRESCRIÇÃO. APOSENTADORIA. COMPLEMENTAÇÃO. JULGAMENTO ULTRA PETITA. RESONSABILIDADE SOLIDÁRIA. COMPENSAÇÃO. JUSTIÇA GRATUITA. Não configurada violação direta e literal de preceito da lei federal ou da Constituição da República, nem divergência jurisprudencial válida e específica, nos moldes das alíneas -a- e -c- do artigo 896 da CLT, inviável o trânsito da revista e, consequentemente, o provimento do agravo de instrumento.”(fls. 473).
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV, XXXVI, LIV e LV, da mesma Carta.
+    O agravo não merece acolhida.
+    Ressalte-se a princípio que o art. 5º, XXXVI, da Constituição não foi objeto de debate e decisão prévia pelo Tribunal de origem. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, este Tribunal por meio de remansosa jurisprudência, vem entendendo que em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
