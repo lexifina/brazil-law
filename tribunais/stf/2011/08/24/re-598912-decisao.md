@@ -1,0 +1,22 @@
+Despacho:
+    Vistos.
+    O Serviço Autônomo de Água e Esgoto do Município de Aimorés – SAAE interpõe recurso extraordinário contra acórdão do Tribunal de Justiça do Estado do Minas Gerais, assim ementado:
+    “MANDADO DE SEGURANÇA – TRIBUTÁRIO – AUTARQUIA MUNICIPAL – LEGITIMIDADE PASSIVA – PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ÁGUA E ESGOTO – REMUNERAÇÃO ATRAVÉS DE TARIFA – IMUNIDADE RECÍPROCA – INEXISTÊNCIA – INTERPRETAÇÃO RESTRITIVA DO ART. 150, §2°, DA CONSTITUIÇÃO FEDERAL. “A parte passiva no mandado de segurança é a pessoa pública interessada, que contesta o pedido e representa a autoridade coatora.” A cobrança de tarifa decorrente da prestação de serviço de tratamento e distribuição de água e esgoto impede o reconhecimento da imunidade recíproca, tendo em vista o disposto no art. 150, §3°, da CF. As normas que garantem benefícios em matéria fiscal devem ser interpretadas restritivamente, vez que retiram direitos da Autoridade Tributária. “Não se presume o intuito de abrir mão de direitos inerentes à autoridade suprema. A outorga deve ser feita em termos claros, irretorquíveis; fica provada até à evidência, e se não estender além das hipóteses figuradas no texto; jamais será inferida de fatos que não indiquem irresistivelmente a inexistência da concessão ou de um contrato que a envolva”” (fl. 204)
+    Alega contrariedade ao art. 150,VI, ”a”, §2°, da CF/88.
+    O recurso especial teve seguimento negado, com transito em julgado (fl. 344).
+    O Ministério Público Federal se manifestou pelo não conhecimento do recurso (fls. 350/351).
+    Decido.
+    A irresignação merece prosperar.
+    O acórdão destoa da jurisprudência desta Corte que é assente no sentido de que o fator fundamental para que um entidade pública seja respaldada pela imunidade prevista no art. 150, VI, “a”, da Carta Magna, é o caráter da atividade desenvolvida, ou seja, a prestação inequívoca de um serviço público, não descaracterizando a referida imunidade, a cobrança de tarifas.
+    Assim restou assentado nos seguintes precedentes: INCRA (RE 242.827/PE. Rel. Min. Menezes Direito, Dje 23/10/08), Empresa Brasileira de Correios e Telegráfos – ECT (ACO 789/PI, sob minha relatoria, Dje 14/10/10), e Empresa Brasileira de Infra-Estrutura Aeroportuária – INFRAERO (RE 524.615/BA, Rel. Min. Eros Grau, Dje 02/10/08).
+    No presente caso, tem-se uma autarquia municipal que desenvolve um serviço público, devendo, assim, estar sob a salvaguarda da imunidade recíproca.
+    Nesse sentido:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. AUTARQUIA. SERVIÇO PÚBLICO DE ÁGUA E ESGOTAMENTO. ATIVIDADE REMUNERADA POR CONTRAPRESTAÇÃO. APLICABILIDADE. ART, 150, §3º DA CONSTITUIÇÃO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL. 1. Definem o alcance da imunidade tributária recíproca sua vocação para servir como salvaguarda do pacto federativo, para evitar pressões políticas entre entes federados ou para desonerar atividades desprovidas de presunção de riqueza. 2. É aplicável a imunidade tributária recíproca às autarquias e empresas públicas que prestem inequívoco serviço público, desde que, entre outros requisitos constitucionais e legais não distribuam lucros ou resultados direta ou indiretamente a particulares, ou tenham por objetivo principal conceder acréscimo patrimonial ao poder público (ausência de capacidade contributiva) e não desempenhem atividade econômica, de modo a conferir vantagem não extensível às empresas privadas (livre iniciativa e concorrência). 3. O Serviço Autônomo de Água e Esgoto é imune à tributação por impostos (art. 150, VI, a e §§ 2º e 3º da Constituição). A cobrança de tarifas, isoladamente considerada, não altera a conclusão. Agravo regimental conhecido, mas ao qual se nega provimento.” (RE 399.307/MG, Segunda Turma, Rel. Min. Joaquim Barbosa, Dje 29/4/10)
+    No mesmo sentido as seguintes decisões monocráticas: RE nº 486.306/MG-AgRm Ministra Cármen Lúcia, Dje 5/5/11; AI nº 813.700/ES, Relator Ministro Gilmar Mendes, Dje 1/7/11; RE nº 392.839/MG-AgR, Relator o Ministro Celso de Mello, Dje 13/12/10.
+    Diante do exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para conceder a ordem de mandado de segurança impetrado pela ora recorrente.
+    Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+    Publique-se.
+    Brasília, 24 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
