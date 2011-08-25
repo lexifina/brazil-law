@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTROVÉRSIA SOBRE A LEGITIMIDADE DA TAXA DE SAÚDE SUPLEMENTAR (LEI N. 9.961/2000): AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+    “TRIBUTÁRIO. TAXA DE SAÚDE SUPLEMENTAR. LEI 9.961/00. PODER DE POLÍCIA. CONSTITUCIONALIDADE.
+    1. A Agência Nacional de Saúde é competente para fiscalizar as atividades concernentes à promoção da saúde (Lei nº 9.961/2000).
+    2. Constatado o efetivo poder de polícia exercido pela Agência, justifica-se a criação da taxa de saúde suplementar.
+    3. Legítima a exigência da mencionada taxa, instituída pela Lei 9.961/00, que guarda proporcionalidade em relação ao número de usuários e contratos de saúde, pois quanto maior o número destes, mais intensa e trabalhosa a atividade de fiscalização necessária ao fim último, que é o bem-estar social.
+    4. Inexiste inconstitucionalidade ou bitributação indevida, tendo em vista que, nos termos dos incisos I e II do art. 20 da Lei n.º 9.961/00, as bases de cálculo são distintas, sendo, no primeiro caso, cobrada pela fiscalização por planos de assistência à saúde, em função do número de usuários de cada plano, e, no segundo, por registro de produto, registro de operadora, alteração de dados referentes ao produto, alteração de dados referentes à operadora e pedido de reajuste de contraprestação pecuniária.
+    5. Desnecessidade de lei complementar para a instituição da referida taxa, pois o art. 154, I, da Constituição, refere-se tão somente a imposto.
+    6. Recurso conhecido e improvido” (fl. 337 – grifos nossos).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 145, inc. II, da Constituição da República, pelas seguintes razões:
+    “A taxa referida no inciso I do art. 20 da Lei n. 9.960/2000 leva em consideração o número total de contratos de planos de saúde firmados, o que não guarda qualquer sorte de referibilidade, ou seja, de pertinência entre o valor da taxa e o poder de polícia desempenhado pela ANS. Isso porque, ao estipular que a ora Recorrente pague o valor de R$ 2,00 por plano de saúde contratado, a Lei está adotando como elemento quantitativo do fato gerador um dado relativo à atividade praticada pelo contribuinte, e não propriamente à atividade estatal” (fls. 362-363).
+    Assevera que, “tratando-se efetivamente de uma incidência tributária decorrente de fato jurídico que não revela a prática de qualquer ação estatal direta e imediatamente referida ao contribuinte, fica clara a natureza jurídica de imposto da exação em questão, e tendo em vista que não foi instituída por lei complementar, evidente também a infração ao artigo 154, inc. I, da Carta Magna” (fl. 363).
+    Sustenta, ainda, que os fatos geradores descritos nos incisos I e II do art. 20 da Lei n. 9.961/2000 seriam idênticos, o que traduziria bis in idem (“o poder de polícia concernente à fiscalização de todos aqueles que atuam no ramo de saúde já vem sendo remunerado pela taxa instituída no inciso II” - fl. 368).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. Pela jurisprudência do Supremo Tribunal, é infraconstitucional a questão relativa à legitimidade da Taxa de Saúde Suplementar (Lei n. 9.961/2000):
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. TAXA DE SAÚDE SUPLEMENTAR. LEI 9.961/00. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. MOMENTO DE OCORRÊNCIA DO FATO GERADOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O entendimento adotado por ambas as Turmas desta Corte é no sentido de que a discussão referente à legitimidade da Taxa de Saúde Suplementar, instituída pela Lei 9.961/00, depende da análise de norma infraconstitucional e, por isso, a afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - A controvérsia sobre o momento de ocorrência do fato gerador da Taxa de Saúde Suplementar demanda o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedente. III - Agravo regimental improvido” (AI 745.649-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 15.6.2011 – grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TAXA DE SAÚDE SUPLEMENTAR. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. O debate sobre a legitimidade da taxa de saúde suplementar demanda exame de legislação infraconstitucional, o que torna inadmissível o recurso extraordinário. Agravo regimental a que se nega provimento” (AI 634.885-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 1º.10.2010 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. TAXA DE SAÚDE SUPLEMENTAR. LEI N. 9.961/2000. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 505.636-AgR, de minha relatoria, Primeira Turma, Dje 26.6.2009 – grifos nossos).
+    5. Nada há a prover quanto às alegações da Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
