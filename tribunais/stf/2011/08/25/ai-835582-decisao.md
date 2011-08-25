@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) FALTA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. 2) ART. 5º, INC. LV, DA CONSTITUIÇÃO: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “Afirma o Agravante que o ato da inscrição em dívida ativa suspendeu o curso do prazo prescricional por 180 dias, conforme prevê o § 3º do artigo 2º da Lei 6.830/80.
+    O colendo Superior Tribunal de Justiça, contudo, já assentou que somente a citação regular do Executado deve ensejar a interrupção da prescrição, bem assim que, tratando-se de dívida tributária, nem há de se cogitar da suspensão de 180 (cento e oitenta) dias do lustro prescricional em virtude da inscrição do débito na dívida ativa, prevista na Lei de Execuções Fiscais, senão vejamos:
+    “PROCESSO CIVIL E TRIBUTÁRIO – EXECUÇÃO FISCAL – PRESCRIÇÃO – ART. 2º, § 3º DA LEI 6.830/80 (SUSPENSÃO POR 180 DIAS) – NORMA APLICÁVEL SOMENTE ÀS DÍVIDAS NÃO TRIBUTÁRIAS – SÚMULA 106/STJ: AFASTAMENTO NO CASO CONCRETO.
+    1. Em execução fiscal, o art. 8º, § 2º, da LEF deve ser examinado com cautela, pelos limites impostos no art. 174 do CTN, de tal forma que só a citação regular tem o condão de interromper a prescrição.
+    2 - A norma contida no art. 2º, § 3º, da Lei 6.830/80, segundo a qual a inscrição em dívida ativa suspende a prescrição por 180 (cento e oitenta) dias ou até a distribuição da execução fiscal, se anterior àquele prazo, aplica-se tão somente às dívidas de natureza não tributárias, porque a prescrição das dívidas tributárias regula-se por lei complementar, no caso o art. 174 do CTN.
+    3. Se decorridos mais de cinco anos entre a constituição definitiva do crédito tributário e a citação pessoal do exequente, ocorre a prescrição.
+    4. Inaplicável ao caso concreto a Súmula 106/STJ porque ajuizada a execução fiscal quando já escoado o prazo prescricional.
+    5. Recurso especial improvido” (RESP 708227, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 19/12/2005, p. 335)” (fls. 74-75 – grifos nossos).
+    3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. LV, da Constituição da República, pois “o v. acórdão na apelação foi omisso sobre ponto relevante ao correto deslinde da controvérsia” (fl. 117).
+    Assevera ainda que, ao afastar (com base no art. 174 do Código Tributário Nacional) a aplicabilidade do art. 2º, § 3º, da Lei n. 6.830/1980 à execução de dívida ativa de natureza tributária, o Tribunal de origem (por meio de órgão fracionário) teria declarado implicitamente a inconstitucionalidade do segundo dispositivo, o que contrariaria o art. 97 da Constituição.
+    4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a inexistência de ofensa constitucional direta e a ausência de prequestionamento do art. 97 da Constituição (fl. 131).
+    O Agravante sustenta a presença dos requisitos de admissibilidade do recurso extraordinário.
+    Analisados os elementos havidos nos autos, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O art. 97 da Constituição não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento ” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, do Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    8. Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
