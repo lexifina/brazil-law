@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA NO RECURSO EXTRAORDINÁRIO. DECISÃO PROFERIDA EM SESSÃO PLENÁRIA. ART. 332 DO REGIMENTO INTERNO DESTE SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. EMBARGOS NÃO ADMITIDOS.
+Relatório
+    1. Embargos de divergência opostos contra o seguinte julgado proferido pelo Plenário deste Supremo Tribunal:
+    “RECURSO EXTRAORDINÁRIO. MATÉRIA CONSTITUCIONAL COM REPERCUSSÃO GERAL RECONHECIDA. TRIBUTÁRIO. ICMS. MAJORAÇÃO DE ALÍQUOTA. AUSÊNCIA DE VINCULAÇÃO DE RECEITA DE IMPOSTOS. INEXISTÊNCIA DE VIOLAÇÃO AO ARTIGO 167, IV, DA CONSTITUIÇÃO FEDERAL. RECURSO EXTRAORDINÁRIO CONHECIDO E IMPROVIDO. 1. A Lei paulista 9.903, de 30.12.1997, apenas impôs a divulgação, pelo Chefe do Executivo, do emprego dos recursos provenientes do aumento da alíquota de 17 para 18%, previsto no mesmo diploma. 2. A proibição de vinculação de receita de impostos prevista no art. 167, IV, da Constituição Federal, impede a fixação de uma prévia destinação desses recursos, o que não se verificou no presente caso. 3. Recurso extraordinário conhecido e improvido” (fl. 226).
+    2. A Embargante alega ser “notório que, em geral, não são admissíveis tais embargos em relação a julgados do Pleno, posto que as decisões em Plenário traduzam a evolução jurisprudencial. Todavia, no caso em exame, roga-se venia para expor as razões do inconformismo, tendo em vista que fora decidido em caso recente, onde os fundamentos da decisão são os mesmos, mas os resultados divergentes, instalando a insegurança jurídica sobre a questão” (fl. 286).
+    Assevera que “a divergência se instalou à medida que o fundamento suficiente para a conclusão dos julgados foi a existência, ou não, de prorrogações das leis paulistas a partir da Lei n. 9.903/1997” (fl. 290).
+    Requer o provimento dos embargos de divergência “para o fim de reformar o v. acórdão para reconhecer, assim, como se fez no paradigma, que as Leis n. 9.903/1997 e seguintes apenas prorrogaram as leis anteriores, em especial a Lei n. 6.556/1989, que teve julgado inconstitucional os artigos que tratavam da ‘vinculação’ de receitas, em afronta ao art. 168, inc. IV, da Constituição” (fl. 290).
+    Examinada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Embargante.
+    4. O art. 330 do Regimento Interno do Supremo Tribunal Federal dispõe serem cabíveis embargos de divergência contra decisão de Turma quando, “em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário”.
+    Portanto, são incabíveis embargos de divergência contra acórdão prolatado pelo Plenário deste Supremo Tribunal:
+    “PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO CONTRA ACÓRDÃO DO PLENÁRIO QUE MANTÉM DECISÃO QUE NEGA SEGUIMENTO A AGRAVO DE INSTRUMENTO, SEM EXAME DO MÉRITO, POR AUSÊNCIA DE REQUISITOS PROCESSUAIS. NÃO CABIMENTO. ART. 330 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL - RISTF. AGRAVO REGIMENTAL IMPROVIDO. I – Consoante o art. 330 do RISTF, os embargos de divergência são cabíveis contra decisão de Turma, não, entretanto, contra acórdão do Plenário. II – Não são cabíveis embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento cujo seguimento foi negado, sem exame do mérito do recurso extraordinário, apenas por ausência de requisitos processuais. Precedente. III – Agravo regimental improvido”. (AI 770.101-ED-EDv-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 13.12.2010).
+    E
+    “1. RECURSO. EMBARGOS DE DIVERGÊNCIA. (...). 2. RECURSO. Embargos de divergência. Inadmissibilidade. Impugnação a acórdão do Plenário. Precedentes. Recurso não conhecido. Cabem embargos de divergência contra acórdão de Turma que divirja de julgado da outra Turma ou do Pleno, não, porém, contra acórdão do Plenário” (AI 722.219-AgR-EDv, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 7.8.2009 – grifos nossos).
+    5. Pelo exposto, não admito os embargos de divergência (art. 335 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de agosto de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
