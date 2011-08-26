@@ -1,0 +1,35 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CSLL. CONCEITO DE LUCRO. LEI 9.249/95. MATÉRIA INFRACONSTITUCIONAL. AGRAVO A QUE SE NEGA SEGUIMENTO..
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+2 . Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+3 . In casu, a controvérsia foi dirimida por meio da interpretação conferida à norma infraconstitucional aplicável a espécie (art. 151, CTN).
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário em oposição a acórdão do Tribunal Regional Federal da 3ª Região, assim ementado (fl. 197):
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. OFERECIMENTO DE EXCEÇÃO DE PRÉ- EXECUTIVIDADE. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 151, DO CTN.
+    1. Embora admitida em nosso direito por construção doutrinária e jurisprudencial, a interposição de exceção de pré-executividade, por si só, não tem o condão de suspender a exigibilidade do crédito objeto da execução fiscal.
+    2. A suspensão da exigibilidade do crédito tributário somente ocorre quando incidente uma das hipóteses previstas no art. 151, do Código Tributário Nacional, sendo que a suspensão da execução fiscal para manifestação da exeqüente a respeito das alegações da executada não implica a suspensão da exigibilidade do crédito, uma vez que não se enquadra às hipóteses do artigo citado.
+    3. No caso vertente, não se configura qualquer das hipóteses de suspensão da exigibilidade do crédito. Os documentos colacionados pelo agravado não permitem concluir houve o alegado pagamento do débito exeqüendo.
+    4. Agravo de instrumento provido.”
+    No recurso extraordinário a ora agravante alegou violação aos arts. 5º, caput, II, XXXV, LIV e LV, LXXVIII, e 93, IX, da CF. Sustentou-se em síntese que ao revogar a decisão monocrática do magistrado a quo, no sentido de suspender a exigibilidade de créditos tributários cuja a ora agravante alega já estarem quitados, o acórdão recorrido laborou em violação aos referidos dispositivos constitucionais, e que não teria se atentado a peculiaridade do caso, sob o argumento de que a alegação de pagamento dos tributos não se configura em hipótese para suspensão do crédito tributário nos termos do art. 151 do CTN.
+    O recurso extraordinário teve o seu seguimento negado na origem com fundamento na jurisprudência desta Corte que não admite a extensão de isenções fiscais via judicial sem leis que as prevejam.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A controvérsia dos autos cinge-se em saber se a suspensão do crédito tributário determinado pelo juízo de 1ª instância para que se possa oferecer contraditório à União para que esta se manifeste a respeito da hipótese de extinção pelo pagamento dos mesmos créditos, ofende ao disposto no art. 151, do CTN.
+    Nesse diapasão, verifica-se que a controvérsia em questão foi solucionada com arrimo em normas subalternas, isso porque, antes de se verificar qualquer violação à Constituição, seria necessário o reexame das normas infraconstitucionais que disciplinam a espécie, o que não é admissível em cognição extraordinária. Nesse sentido, confira-se:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. ART. 9º, §10º, DA LEI 9.249/95. INCLUSÃO DE JUROS SOBRE CAPITAL LÍQUIDO NA BASE DE CÁLCULO DA CSLL. SÚMULA STF 279. OFENSA REFLEXA.
+    1. Para examinar as alegações de ofensa à Constituição Federal e divergir da conclusão a que chegou o Tribunal de origem, cumpriria, primeiramente, analisar fatos, provas (Súmula STF 279) e legislação infraconstitucional (Lei 9.249/95). Assim, eventual ofensa à Constituição Federal, se existente, seria meramente reflexa, o que elide o processamento do recurso extraordinário. Precedentes.
+    2. Agravo regimental improvido.” (RE 495.982-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 21.10.2010).
+    Ademais, o Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seriam indiretas ou reflexas, o que, por si só, não desafia a instância extraordinária. Nesse sentido, entre outros:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, Primeira Turma, Rel. Min. Cármen Lúcia, Dje de 18/08/10) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+    1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+    2. Aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+    3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+    4. Agravo regimental improvido” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 26 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
