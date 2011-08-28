@@ -1,0 +1,17 @@
+DECISÃO
+CONCURSO PÚBLICO – FRAUDE – TIPOLOGIA – SUSPENSÃO DA AÇÃO PENAL – HABEAS CORPUS – LIMINAR INDEFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA – MANUTENÇÃO DO QUADRO.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente foi denunciado, por suposta infração do disposto nos artigos 171, § 3º (estelionato, cometido em detrimento de entidade de direito público ou de instituto de economia popular, assistência social ou beneficência), e 288 (quadrilha ou bando) do Código Penal, perante o Juízo da 3ª Vara da 4ª Subseção Judiciária Federal de Santos/SP, pois haveria, juntamente com mais de trinta corréus, obtido vantagem ilícita por meio de fraudes em que utilizada cola eletrônica em concurso para o cargo de Auditor Fiscal da Receita Federal.
+    O Tribunal Regional Federal da 3ª Região indeferiu o pedido de habeas, refutando a tese relativa à inexistência de justa causa para a ação penal. Anotou que a atipicidade da conduta somente poderia ser declarada a partir do exame de provas. Idêntica medida foi formalizada no Superior Tribunal de Justiça – o Habeas Corpus nº 208.969/SP. O Ministro Adilson Vieira Macabu, Desembargador convocado do Tribunal de Justiça do Estado do Rio de Janeiro, não acolheu o pleito de liminar, pois não vislumbrou ilegalidade no ato impugnado.
+    A inicial deste habeas volta-se contra esse pronunciamento. Alega-se atipicidade da conduta imputada ao paciente, consoante decidido pelo Supremo no Inquérito nº 1145/PB, quando ficou assentado que, por faltar previsão legal, a prática de cola eletrônica, embora consubstancie uma fraude, não é crime, não podendo ser equiparada ao estelionato ou à falsidade ideológica. Evidenciada a atipicidade da conduta, ressalta-se impor-se a relativização do óbice previsto no Verbete nº 691 da Súmula do Supremo e, em passo seguinte, o trancamento da ação penal.
+    Pede-se a concessão de liminar no sentido de sobrestar o andamento da Ação Penal nº 0004615-83.2010.403.6104, em trâmite perante o Juízo da 3ª Vara Federal de Santos e, consequentemente, determinar o imediato levantamento das constrições à liberdade do paciente e suspender a eficácia das ordens de sequestro e de arresto dos bens móveis e imóveis, até o julgamento desta impetração. Sucessivamente, no tocante à preventiva, pretende-se o deferimento de prisão domiciliar. No mérito, pleiteia-se o trancamento em definitivo da ação penal, em virtude da ausência de justa causa para a persecução criminal, considerando-se a atipicidade da conduta imputada ao paciente.
+    Anoto que, relativamente à ordem de prisão preventiva, o impetrante, por meio de petição eletrônica encaminhada em 10 de agosto de 2011, noticiou a revogação do ato que a determinou, motivo pelo qual, no ponto, o habeas perdera o objeto.
+    2. Relativamente à prisão preventiva, tem-se a perda de objeto da impetração. A ordem foi revogada em 15 de julho de 2011.
+    Quanto ao tipo penal, nota-se que a acusação está ligada a fraude em concurso público, havendo sido contratados técnicos na área, para elaboração de respostas que foram repassadas por meio de ponto eletrônico. E isso teria ocorrido, logicamente, mediante pagamento.
+    Deve-se aguardar o crivo do Colegiado. Não cabe, em ato precário e efêmero, sobrestar o andamento da ação penal em curso.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 28 de agosto de 2011.
+Ministro MARCO AURÉLIO
+Relator
