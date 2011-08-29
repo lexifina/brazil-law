@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    A União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV e LV; 93, inciso IX; 97 e 146, inciso III, alínea b da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão do Tribunal Regional Federal da 1ª Região que restou assim ementando:
+    PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. DECRETAAÇÃO DE OFÍCIO.IMPOSSIBILIDADE.ARGUIÇÃO PELA DEFENSÓRIA PÚBLICA DA UNIÃO.
+    1. Assentado pelo STF que as contribuições sociais tem natureza tributária, deve ser aplicado o prazo prescricional estabelecido pelo CTN.
+    2. O art. 40 da Lei 6.830/80 deve ser interpretado em harmonia com o art. 174 do Código Tributário Nacional, sob pena de admitir a imprescritibilidade da dívida fiscal.
+    3. A prescrição, quando envolver direitos patrimoniais, só poderá ser decretada pelo juiz se argüida pela parte a quem aproveita. Inteligência dos artigos 193 e 194 do Código Civil, 128 e 219, § 5º do Código de Processo Civil..
+    4. A Argüição da prescrição intercorrente pelo representante da Defensória Pública da União possibilita a extinção do feito pelo juízo a quo.
+    5. A simples manifestação da exeqüente nos autos, requerendo diligencias para impulsionar o feito executivo, não tem o condão de, por si só, impedir a fluência do prazo prescricional, haja vista que as hipóteses de interrupção da prescrição qüinqüenal estão taxativamente descritas no art. 174, parágrafo único do CTN.
+    6. Apelação da Fazenda Nacional a que se nega provimento. (fls. 83).
+    Opostos embargos de declaração (fls. 87/101), foram rejeitados (fls. 114).
+    Decido.
+    Afasto a alegada ofensa à cláusula de reserva de plenário contida no art. 97 da Constituição Federal, pois o Tribunal de origem não afastou a aplicação das normas previstas na Lei nº 6.830/80, apenas interpretou-as com a amplitude que entendeu suficientemente correta.
+    Não se verifica também negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então agravante, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie , DJ de 18/5/01).
+    No que tange à alegada violação ao art. 5°, XXXV e LV, do Texto Maior, esta Corte possui entendimento pacífico no sentido de que as alegações de afronta ao dispositivo constitucional em tela, configuram-se, em regra, como no presente caso, meras ofensas reflexas, sendo, dessa forma, incabível a interposição de apelo extremo. Veja-se:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III Agravo regimental improvido. (AI 812481 AgR/RJ, Primeira Turma, Rel. Min. Ricardo Lewandowski , Dje 31/01/2011.)
+    Quanto a pretensa violação do artigo 146, III, alínea, b, não prospera a irresignação, haja vista a natureza infraconstitucional da matéria sob enfoque, envolvendo a disciplina da forma de contagem do prazo prescricional de que dispõem as autoridades fiscais para cobrar o crédito tributário (art. 40, da Lei de Execuções Fiscais Lei 6.830/1980), em consonância com o art. 174 do Código Tributário Nacional. Veja-se:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. DECRETAÇÃO DE OFÍCIO. LEIS NS. 6.830/80 E 11.280/06. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento. (AI 713295 AgR/SP, Segunda Turma, Rel. Min. Eros Grau, Dje 14/08/08).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO: SUSPENSÃO E INTERRUPÇÃO. LEI N. 6.830/80. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA . AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (RE 593.311-AgR, Relatora Min. Cármen Lúcia , Primeira Turma, DJe 18.9.2009).
+    Para arrematar, observo que este Supremo Tribunal Federal Federal já decidiu pela ausência de repercussão geral de questões envolvendo interrupção de prazo prescricional, como se vê do RE nº 602.883/SP, Relatora a Ministra Ellen Gracie, assim ementado:
+    EMENTA – TRIBUTÁRIO. EXECUÇÃO FISCAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONFLITO ENTRE A APLICAÇÃO DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN, COM REDAÇÃO ANTERIOR À LC 118/05, E A DO ART. 8º, § 2º, DA LEI 6.830/80. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 29 de agosto de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
