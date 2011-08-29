@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III no art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 190):
+    “APELAÇÃO CÍVEL. TRIBUTÁRIO. IPTU DO MUNICÍPIO DE PORTO ALEGRE. NULIDADE DAS CDA'S. PRESUNÇÃO DE CERTEZA E LIQUIDEZ NÃO-DESCONSTITUÍDA PELA PARTE. PERÍODO POSTERIOR À EC N. 29/00: CONSTITUCIONALIDADE DA PROGRESSIVIDADE DA ALÍQUOTA. PRECEDENTES DA CÂMARA. TAXA SELIC. JUROS DE MORA. MULTA. PREVISÃO LEGAL.
+    A presunção de certeza e liquidez de que gozam as certidões de dívida ativa somente pode ser derrogada em face de prova irrefutável que lhes reputem nulas, de inequívoca demonstração daquele que lhe aponta os defeitos. Após a Emenda Constitucional nº 29/00, a progressividade das alíquotas do IPTU restou permitida. No Município de Porto Alegre, com a edição da Lei Complementar nº 461/00, a alíquota progressiva passou a existir validamente. A publicação e a vigência da Lei ocorreu em 29/12/00, portanto, os lançamentos de IPTU que tenham se dado a partir de 2001, com alíquotas progressivas, são corretos. Taxa Selic, multa e juros de mora legalmente previstos.
+    APELO DESPROVIDO, REJEITADA A PRELIMINAR, POR MAIORIA.
+    3. Pois bem, a parte recorrente alega ofensa aos incisos LIV e LV do art. 5º, ao § 1º do art. 145, à alínea “b” do inciso III do art. 146, ao § 4º do art. 182 e ao § 3º do art. 192, todos da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida. É que o Plenário do Supremo Tribunal Federal, após reconhecer a presença de repercussão geral da matéria sob exame, decidiu o mérito da controvérsia. Na oportunidade, entendeu pela constitucionalidade da progressividade fiscal da alíquota do IPTU, instituída pela EC 29/2000. Leia-se, a propósito, a ementa do RE 586.693, da relatoria do ministro Marco Aurélio, na parte que interessa ao deslinde da causa:
+    “IMPOSTO PREDIAL E TERRITORIAL URBANO – PROGRESSIVIDADE – FUNÇÃO SOCIAL DA PROPRIEDADE – EMENDA CONSTITUCIONAL Nº 29/2000 – LEI POSTERIOR. Surge legítima, sob o ângulo constitucional, lei a prever alíquotas diversas, presentes imóveis residenciais e comerciais, uma vez editada após a Emenda Constitucional nº 29/2000.”
+    5. À derradeira, ressalto que o Plenário desta nossa Casa de Justiça, ao apreciar o RE 582.461, da relatoria do ministro Gilmar Mendes, decidiu pela legitimidade da utilização da Taxa Selic como índice de atualização dos débitos tributários pagos em atraso.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
