@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE SECRETÁRIO DE ESTADO. INCORPORAÇÃO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. OFENSA REFLEXA. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário.
+2. As Súmulas 282 e 356 do STF dispõem respectivamente, verbis: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+3. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+4. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto por PAULO CEZAR MARTINS GAMA, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 215/216, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a, do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia, ementado nos seguintes termos (fl. 147), verbis:
+    “Servidor. Origem. Antigo Território Federal. Vínculo remuneratório com o Estado. Posterior retorno do ônus à União.
+    Se o servidor público do antigo Território permanece à disposição do Estado com ônus para este, as relações jurídicas atinentes à remuneração são com o Estado e não com a União, por isso irrelevante o fato de o ônus da remuneração retornar à União para modificar a competência do foro, se a matéria discutida na Justiça Estadual refere-se àquele período anterior.
+    Policial militar. Oficial-comandante. Proventos. Equivalência a Secretário de Estado. Gratificação temporária decorrente do cargo. Inatividade. Incorporação. Teto remuneratório.
+    O policial militar que exerce o cargo temporário de Comandante-Geral, com proventos equivalentes a de Secretário de Estado, em decorrência de gratificação temporária, ao passar para a reserva, deixa de receber tal vantagem que não incorpora aos vencimentos.
+    É regra legal a fixação de teto remuneratório, cujo servidor ativo ou inativo não poderá receber montante superior ao percebido por Secretário de Estado, excetuadas as vantagens de caráter pessoal.”
+    Os embargos de declaração opostos foram rejeitados (fls. 162/165).
+    Nas razões do apelo extremo, sustenta no mérito, violação do disposto nos artigos 129, III e 102, I, “a” da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo, sob o fundamento de que não houve o devido prequestionamento da matéria e, a ofensa à Constituição Federal, se ocorrente, seria indireta.
+    É o Relatório. DECIDO.
+    Melhor sorte não socorre ao agravante.
+    A interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado como meio de se aferir a admissão da impugnação tenha sido debatido no acórdão recorrido, sob pena de padecer o recurso da imposição jurisprudencial do prequestionamento.
+    Com efeito, impende asseverar que a exigência do prequestionamento não é mero rigorismo formal que pode ser afastado pelo julgador a qualquer pretexto. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas a este Supremo Tribunal Federal, cuja competência fora outorgada pela Constituição Federal, em seu art. 102. Nesse dispositivo não há previsão de apreciação originária por este Pretório Excelso de questões como as que ora se apresentam. A competência para a apreciação originária de pleitos no C. STF está exaustivamente arrolada no antecitado dispositivo constitucional, não podendo sofrer ampliação na via do recurso extraordinário.
+    In casu, dessume-se dos autos que a recorrente furtou-se em prequestionar, em momento oportuno, o dispositivo constitucional apontado como violado nas razões do apelo extremo, atraindo, inarredavelmente, o óbice da ausência de prequestionamento, requisito essencial à admissão do mesmo.
+    Deveras, a simples oposição dos embargos de declaração, sem o efetivo debate, no Tribunal de origem, acerca da matéria versada pelos dispositivos constitucionais apontados como violados, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência do óbice erigido pelo enunciado da Súmula 282/STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada”.
+    Demais disso, a violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10, entre outros.
+    Ex Positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
