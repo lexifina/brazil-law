@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III no artigo 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 430):
+    “RECURSO DE EMBARGOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CRÉDITO PREVIDENCIÁRIO. EXECUÇÃO. HABILITAÇÃO NO JUÍZO UNIVERSAL DA FALÊNCIA. NÃO-CONHECIMENTO. Esta Justiça Especializada não detém competência para proceder à execução dos créditos decorrentes de suas sentenças em desfavor da massa falida, cabendo tal prerrogativa ao juízo falimentar. A atuação da Justiça do Trabalho, à luz do art. 114 do Texto Constitucional e das disposições da Lei de Falências (Lei nº 11.101/05), ao apreciar e julgar as Reclamatórias Trabalhistas movidas em desfavor da massa falida, vai até a quantificação do crédito obreiro, passando-se, por conseguinte, à sua habilitação no quadro geral de credores. A determinação de habilitação do crédito previdenciário no Juízo Universal Falimentar não ofende, assim, a literalidade do art. 114, VIII, da Constituição Federal, pelo que incólume o art. 896 do estatuto legal consolidado. Embargos não conhecidos.”
+    2. Pois bem, a parte recorrente sustenta violação ao inciso VIII do art. 114 da Magna Carta.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo desprovimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o acórdão recorrido afina com a jurisprudência desta nossa Corte, firmada no sentido de que, declarada a falência da empresa reclamada, as execuções em curso na Justiça do Trabalho devem prosseguir no juízo falimentar (CC 7.116, da relatoria da ministra Ellen Gracie).
+    5. Confiram-se, ainda, as seguintes decisões monocráticas, alusivas, especificamente, à incompetência da Justiça Laboral, ante a superveniência da falência da empresa reclamada, para a execução de contribuição previdenciária decorrente de sentença proferida pelo juízo especializado: AI 823.493, da relatoria do ministro Joaquim Barbosa; RE 560.044, da relatoria do ministro Cezar Peluso; e RE 563.996, da relatoria do ministro Ricardo Lewandowski.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
