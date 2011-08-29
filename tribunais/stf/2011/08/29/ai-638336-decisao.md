@@ -1,0 +1,11 @@
+DECISÃO
+REPERCUSSÃO GERAL INADMITIDA – AÇÃO TRABALHISTA – FUNDO DE GARANTIA DO TEMPO DE SERVIÇO – PRESCRIÇÃO – TERMO INICIAL – LEI COMPLEMENTAR Nº 110/2001 – DESPROVIMENTO.
+    1. Afasto do sobrestamento anteriormente determinado.
+    2. O Tribunal, no Recurso Extraordinário nº 584.608/SP, da relatoria da Ministra Ellen Gracie, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo ao marco inicial da prescrição para ação de cobrança da diferença de 40% (quarenta por cento) sobre os depósitos do Fundo de Garantia do Tempo de Serviço – FGTS, decorrente da atualização monetária em razão dos expurgos inflacionários reconhecidos mediante a Lei Complementar nº 110/2001, e à responsabilidade do empregador pelo respectivo pagamento.
+    Também foi nesse sentido o recente pronunciamento do Plenário no exame do incidente de repercussão geral no Recurso Extraordinário nº 541.856/ES, de minha relatoria, no qual fiquei vencido.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    3. Ante o quadro, considerado o fato de o recurso veicular matéria similar, ressalvada a óptica pessoal, nego provimento ao agravo.
+    4. Publiquem.
+Brasília, 29 de agosto de 2011.
+Ministro MARCO AURÉLIO
+Relator
