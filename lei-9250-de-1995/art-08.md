@@ -12,6 +12,7 @@ b) a pagamentos de despesas com instrução do contribuinte e de seus dependente
 7. R$ 3.091,35 (três mil, noventa e um reais e trinta e cinco centavos) para o ano-calendário de 2012;
 8. R$ 3.230,46 (três mil, duzentos e trinta reais e quarenta e seis centavos) para o ano-calendário de 2013;
 9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) a partir do ano-calendário de 2014;
+9. R$ 3.375,83 (três mil, trezentos e setenta e cinco reais e oitenta e três centavos) a partir do ano-calendário de 2014;
 c) à quantia, por dependente, de:
 1. R$ 1.584,60 (mil, quinhentos e oitenta e quatro reais e sessenta centavos) para o ano-calendário de 2007;
 2. R$ 1.655,88 (mil, seiscentos e cinqüenta e cinco reais e oitenta e oito centavos) para o ano-calendário de 2008;
@@ -21,10 +22,12 @@ c) à quantia, por dependente, de:
 6. R$ 1.974,72 (mil, novecentos e setenta e quatro reais e setenta e dois centavos) para o ano-calendário de 2012;
 7. R$ 2.063,64 (dois mil, sessenta e três reais e sessenta e quatro centavos) para o ano-calendário de 2013;
 8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) a partir do ano-calendário de 2014;
+8. R$ 2.156,52 (dois mil, cento e cinquenta e seis reais e cinquenta e dois centavos) a partir do ano-calendário de 2014;
 d) às contribuições para a Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios;
 e) às contribuições para as entidades de previdência privada domiciliadas no País, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social;
 f) às importâncias pagas a título de pensão alimentícia em face das normas do Direito de Família, quando em cumprimento de decisão judicial, inclusive a prestação de alimentos provisionais, de acordo homologado judicialmente, ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil;
 g) às despesas escrituradas no Livro Caixa, previstas nos incisos I a III do art. 6º da Lei nº 8.134, de 27 de dezembro de 1990, no caso de trabalho não-assalariado, inclusive dos leiloeiros e dos titulares de serviços notariais e de registro.
+h) (VETADO).
 § 1º A quantia correspondente à parcela isenta dos rendimentos provenientes de aposentadoria e pensão, transferência para a reserva remunerada ou reforma, pagos pela Previdência Social da União, dos Estados, do Distrito Federal e dos Municípios, por qualquer pessoa jurídica de direito público interno, ou por entidade de previdência privada, representada pela soma dos valores mensais computados a partir do mês em que o contribuinte completar sessenta e cinco anos de idade, não integrará a soma de que trata o inciso I.
 § 2º O disposto na alínea a do inciso II:
 I - aplica-se, também, aos pagamentos efetuados a empresas domiciliadas no País, destinados à cobertura de despesas com hospitalização, médicas e odontológicas, bem como a entidades que assegurem direito de atendimento ou ressarcimento de despesas da mesma natureza;
@@ -33,3 +36,4 @@ III - limita-se a pagamentos especificados e comprovados, com indicação do nom
 IV - não se aplica às despesas ressarcidas por entidade de qualquer espécie ou cobertas por contrato de seguro;
 V - no caso de despesas com aparelhos ortopédicos e próteses ortopédicas e dentárias, exige-se a comprovação com receituário médico e nota fiscal em nome do beneficiário.
 § 3º As despesas médicas e de educação dos alimentandos, quando realizadas pelo alimentante em virtude de cumprimento de decisão judicial, de acordo homologado judicialmente ou de escritura pública a que se refere o art. 1.124-A da Lei nº 5.869, de 11 de janeiro de 1973 - Código de Processo Civil, poderão ser deduzidas pelo alimentante na determinação da base de cálculo do imposto de renda na declaração, observado, no caso de despesas de educação, o limite previsto na alínea b do inciso II do caput deste artigo.
+§ 4º (VETADO).
