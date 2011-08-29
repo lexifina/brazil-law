@@ -1,0 +1,18 @@
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. ADMINISTRATIVO. GDATA. SERVIDORES INATIVOS. APLICAÇÃO. CRITÉRIO. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Cuida-se de embargos declaratórios, convertidos em agravo regimental, opostos contra decisão proferida pelo E. Min. EROS GRAU, que negou seguimento ao recurso extraordinário interposto pela União, nos seguintes termos: (fl. 142):
+    “DECISÃO: Discute-se nestes autos a extensão da Gratificação de Desempenho de Atividade de Apoio Técnico-Administrativa aos servidores inativos.
+    2. Deixo de apreciar a existência da repercussão geral, vez que o artigo 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+    3. A Segunda Turma deste Tribunal, ao julgar o AI n. 716.043-AgR, Relator o Ministro Celso de Mello, Sessão de 2.6.09, fixou entendimento no sentido de que:
+    'E M E N T A: AGRAVO DE INSTRUMENTO – GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA (GDATA) E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE (GDPGTAS) – EXTENSÃO DE AMBAS AS GRATIFICAÇÕES AOS SERVIDORES INATIVOS – POSSIBILIDADE – PRECEDENTES FIRMADOS PELO SUPREMO TRIBUNAL FEDERAL – RECURSO IMPROVIDO.'
+          Nego seguimento ao recurso com fundamento no disposto no artigo 21,§ 1º, do RISTF.”
+    A agravante afirma que nas razões do apelo extremo “impugna primeiramente o entendimento de se estender a GDATA aos servidores inativos e pensionistas e, em caráter subsidiário, o patamar de 30 (trinta) pontos arbitrado pelo acórdão recorrido para a referida gratificação em favor da parte autora, então recorrida. (...) Assim, ao ser negado seguimento ao recurso extraordinário apenas com base na jurisprudência assentada por essa excelsa Corte que estendeu aos inativos o direito à GDATA , sem se referir ao segundo pedido formulado no apelo extremo, a decisão embargada incorreu em omissão” (fl. 149).
+    Ressalta ainda que “o entendimento pacífico dessa Suprema Corte, ao contrário do aplicado no acórdão recorrido, é no sentido de se aplicar o índice de 10 (dez) pontos no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004” (fl. 151).
+    É o relatório. DECIDO.
+    De fato, a decisão impugnada foi omissa no tocante à aplicação, ou não, em relação aos servidores públicos inativos, dos critérios de cálculo estabelecidos para os servidores em atividade da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA.
+    Ocorre que o Supremo Tribunal Federal reconheceu a repercussão geral deste tema, que está submetido à apreciação do Pleno desta Corte e encontra-se pendente de julgamento dos embargos declaratórios opostos nos autos do RE 597.154, relator o Ministro Presidente.
+     Destarte, aplicando a decisão plenária proferida no julgamento do RE 579.431, secundada, a posteriori, pelos AI 503.064-AgR-AgR, Relator o Ministro Celso de Mello, AI 811.626-AgR-AgR, Relator o Ministro Ricardo Lewandowski, e RE 513.473-ED, Relator o Ministro Cézar Peluso, determino a devolução dos autos ao Tribunal de origem, consoante o disposto no artigo 328, parágrafo único, do RISTF, combinado com o artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 29 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
