@@ -1,0 +1,10 @@
+DECISÃO: O presente agravo de instrumento insurge-se contra decisão que negou trânsito a recurso extraordinário interposto pela parte ora agravante.
+           Os fundamentos em que se apoiou esse juízo negativo de admissibilidade evidenciam a inviabilidade do apelo extremo em questão, especialmente se examinados em face da própria jurisprudência predominante nesta Suprema Corte.
+           Na realidade, o Supremo Tribunal Federal, tendo em vista a natureza do recurso extraordinário, vem salientando que essa modalidade de recurso excepcional não se revelará admissível nos casos de ofensa reflexa ao texto da Constituição (RTJ 120/912 - RTJ 132/455 - RTJ 161/284) ou de exame de fatos e provas (Súmula 279/STF - RTJ 196/1011 - RTJ 191/1089) ou de ausência de prequestionamento explícito (RTJ 125/1368 - RTJ 131/1391 - RTJ 144/300) ou de alegada transgressão a direito local (Súmula 280/STF - RTJ 201/810 - RTJ 194/381) ou de pretendido desrespeito aos postulados da legalidade, da inafastabilidade do controle jurisdicional, da plenitude de defesa, da coisa julgada e da motivação dos atos decisórios (Súmula 636/STF - RTJ 191/343-344) ou, ainda, de decisões emanadas de outros Tribunais que se ajustem à jurisprudência prevalecente no âmbito desta Corte Suprema (RTJ 192/373 - AI 401.057-AgR/SP - AI 722.238-AgR/RJ - AI 829.788/ES, v.g.).
+           A diretriz jurisprudencial que venho de mencionar aplica-se, por inteiro, ao caso em exame, tal como consignado nas razões de ordem jurídico-processual que dão suporte à decisão ora agravada.
+           Observo, finalmente, por relevante, que a douta Procuradoria-Geral da República, ao opinar nesta sede recursal, manifestou-se pelo improvimento do presente recurso, apoiando-se em fundamentos, que acolho, evidenciadores da inviabilidade processual do recurso extraordinário em questão.
+           Sendo assim, em face das razões expostas e acolhendo, ainda, os fundamentos que dão suporte à decisão ora agravada, nego provimento ao presente agravo de instrumento.
+           Publique-se.
+           Brasília, 30 de agosto de 2011.
+  Ministro CELSO DE MELLO
+  Relator
