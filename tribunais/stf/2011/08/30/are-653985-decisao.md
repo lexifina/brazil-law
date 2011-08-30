@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO – RECURSO DE REVISTA INADMISSÍVEL – DESPROVIMENTO. Agravo de instrumento a que se nega provimento, porquanto o recurso de revista, versando sobre responsabilização subsidiária do Estado de Alagoas, não reúne condições de admissibilidade, tropeçando no óbice da Súmula 333 do TST.
+    Agravo de instrumento desprovido” (fl. 146).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, II e LV, e 173 da mesma Carta.
+    O Agravo não merece acolhida. Isso porque, a questão relativa à responsabilidade do Estado de Alagoas quanto aos débitos trabalhistas da Companhia Alagoana de Recursos Humanos e Patrimoniais – CARHP- cinge-se ao plano infraconstitucional, o que inviabiliza o recurso extraordinário. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, confiram-se as seguintes decisões em casos análogos ao dos autos: AI 813.665/AL, Rel. Min. Joaquim Barbosa e AI 806.304/AL, Rel. Min. Cármen Lúcia, AI 826.980/AL e AI 827.393, de minha relatoria.
+    Ademais, o Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
