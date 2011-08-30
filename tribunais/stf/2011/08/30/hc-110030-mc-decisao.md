@@ -1,0 +1,20 @@
+Decisão: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que validou a prisão cautelar do paciente. Eis a ementa do julgado:
+    “HABEAS CORPUS. CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PLEITO PELO RELAXAMENTO DA PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS AUTORIZADORAS PRESENTES. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INOCORRÊNCIA.
+    1. O fato de estar inserido no rol dos delitos hediondos ou equiparados não basta para a imposição da constrição cautelar, por ser necessária a existência de circunstâncias a demonstrar a adoção desta medida excepcional.
+    2. A prisão preventiva só deverá ser decretada quando devidamente atendidos os requisitos legais das garantias das ordens pública e econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria.
+    3. As Turmas componentes da Terceira Seção do Superior Tribunal de Justiça já cristalizaram o entendimento de inexistir constrangimento ilegal quando a prisão, suficientemente fundamentada, retratar a necessidade da medida para as garantia da ordem pública e aplicação da lei penal.
+    4. Improcede a alegação de excesso de prazo para o encerramento da instrução criminal, diante da complexidade das circunstâncias dos procedimentos, sendo que, na espécie, a eventual demora se encontra justificada pela razoabilidade.
+    5. Ordem denegada.”
+    2. Pois bem, a Defensoria Pública do Espírito Santo, impetrante, insiste na alegação de excesso de prazo do aprisionamento provisório do paciente, denunciado pelo delito de homicídio qualificado (incisos I e IV do § 2º do art. 121 do CP). Isto para requerer, liminarmente, o relaxamento da prisão de Auceberg Pereira de Oliveira.
+    3. Feita esta síntese do pedido, decido. Fazendo-o, anoto, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir do julgador uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, não tenho por configurados, de plano, os requisitos necessários à concessão do provimento cautelar requestado. É que o exame de eventual excesso de prazo no aprisionamento provisório é de se dar em cada caso concreto. Isto é, atento o julgador às peculiaridades do processo em que estiver oficiando (como, por exemplo, o número de réus e de testemunhas arroladas, a complexidade do feito e o comportamento dos patronos dos acusados, que não podem ser os causadores do retardamento do processo). Retardamento que não tenho como, agora, debitar, tão-somente, ao Poder Judiciário. Até porque o exame prefacial do andamento da ação penal a que responde o paciente não sinaliza para desídia do Juízo Processante.
+    5. Por tudo quanto posto, indefiro o provimento cautelar requerido; reservando-me, é claro, para um mais detido exame da causa por ocasião do julgamento de mérito desta ação constitucional.
+    6. Requisitem-se, com a máxima urgência, informações circunstanciadas ao Juízo da 4ª Vara Criminal da Comarca de Vila Velha/ES; facultada a prestação de esclarecimentos sobre a petição inicial deste habeas corpus (cuja cópia acompanhará o expediente).
+    7. Corrija-se a autuação deste habeas corpus, atentando-se a Secretaria para a correta indicação da impetrante.
+    Intime-se.
+    Publique-se.
+    Brasília, 30 de agosto de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
