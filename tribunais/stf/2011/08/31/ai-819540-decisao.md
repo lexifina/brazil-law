@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL _ ANULAÇÃO DE MULTA E LIBERAÇÃO DE VEÍCULO - Apreensão pela Municipalidade de ônibus vindo de outro Estado, que, em regime de fretamento, transportava pessoas para compras na cidade - Inexigibilidade de condufrete ou credencial pelo Estado de origem, que não exime o condutor de portar os documentos necessários, descriminados no Termo de Autorização pela Agência Reguladora - Medida administrativa regular- Inteligência dos artigos 231, inciso VIII, e 269, inciso I, ambos da Lei n°. 9.503/97 e do Decreto Municipal n° 42.423/02 - Liberação do veículo - Necessidade de pagamento de despesas de remoção e estadia, esta limitada a 10 (dez) diárias - Encargos suportados pelo Poder Público para custodiar o veículo apreendido - - Multa - Inexigibilidade - Cobrança que deve ser feita na via própria, sob pena de se instaurar execução forçada de natureza administrativa - Inconstitucionalidade - Entendimento desta C. 12a Câmara - R. sentença a quo que julgou improcedente a ação - Reforma em parte do r. decisum _ Provimento em parte” (fl. 46).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 30, V, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, a apreciação do tema constitucional, no caso, depende do prévio exame de norma infraconstitucional (Lei 9.503/97), bem como do reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, AI 685.784-Agr/SP, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. APREENSÃO DE VEÍCULO E IMPOSIÇÃO DE MULTA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
