@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, proferido pelo Tribunal de Justiça de Minas Gerais, cuja ementa possui o seguinte teor:
+    “Administrativo e Constitucional. Serviço público. Delegação. Transporte coletivo rodoviário intermunicipal. Contrato. Objeto. Alteração. Implantação de novo itinerário. Criação de linha. Concessão ou permissão. Licitação. Na delegação para exploração de serviço público há se atender, em qualquer hipótese, a exigência constitucional de licitação pública para o regime de concessão ou permissão. Em caso de concessão ou de permissão de serviço de transporte coletivo intermunicipal, a deliberação que, ao deferir pedido da concessionária, cancela o itinerário primitivo, transforma a rota alternativa e temporária em definitiva e implanta outro itinerário, promove alteração substancial do objeto da delegação, cria nova linha e, por via oblíqua, autoriza sua exploração, em detrimento da exigência contida no art. 175, caput, da Constituição Federal. Rejeita-se a preliminar e confirma-se a sentença no reexame necessário, prejudicados os recursos voluntários.”
+    Alega-se violação do disposto nos arts. 22, XXVII, e 175 da Constituição.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos arts. 22, XXVII, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto dos embargos de declaração de fls. 99-104, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ademais, na hipótese dos autos, concluir diversamente do Tribunal de origem demandaria o prévio exame da legislação infraconstitucional, de cláusulas contratuais e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279, 280, 454 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
