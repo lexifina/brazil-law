@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Tenho que a insurgência não merece acolhida. É que a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, é firme no sentido da legitimidade das majorações da alíquota da exação sob exame, inclusive sob o prisma do princípio da isonomia constitucional tributária. Leia-se, à propósito, a ementa do RE 331.690, da relatoria do ministro Moreira Alves:
+    “FINSOCIAL. Empresas exclusivamente prestadoras de serviços. Constitucionalidade das majorações da alíquota.
+    - Embora o recurso extraordinário deva dirigir-se contra os fundamentos do acórdão proferido na ação rescisória e não os do julgado rescindendo, no caso o aresto recorrido se adstringiu a reproduzir as razões da decisão rescindenda, razão por que o presente recurso extraordinário somente poderia atacá-las como o fez.
+    - No julgamento do RE 187.436, o Plenário desta Corte, por maioria de votos, se manifestou pela constitucionalidade, no tocante às empresas exclusivamente prestadoras de serviços, das majorações de alíquota do FINSOCIAL determinadas pelo artigo 7º da Lei n. 7.787/89, pelo artigo 1º da Lei n. 7.894/89 e pelo artigo 1º da Lei n. 8.147/90, sob o fundamento de que o artigo 56 do ADCT não alcançou essas empresas, conforme assentado no RE 150.755, mostrando-se, assim, a contribuição do artigo 28 da Lei n. 7.738/89 harmônica com o previsto no artigo 195, I, da Constituição Federal, e decorrendo daí a legitimidade das majorações da alíquota que se seguiram, sem ofensa, ainda, ao princípio constitucional da isonomia tributária.
+    Dessa orientação, uma vez que tanto o acórdão rescindendo como o aresto ora recorrido partem da premissa de fato – o que não pode ser reexaminado em recurso extraordinário adstrito que está as questões de direito constitucional – de que as empresas em causa são exclusivamente prestadoras de serviço, divergiu o acórdão ora recorrido.
+    Recurso extraordinário conhecido e provido.”
+    2. De mais a mais, o Plenário do Supremo Tribunal Federal, após reconhecer a presença de repercussão geral da matéria sob exame, decidiu o mérito da controvérsia. Na oportunidade, entendeu pela legitimidade da incidência da Taxa Selic para atualização de débitos tributários. Leia-se, a propósito, a ementa do RE 582.461, da relatoria do ministro Gilmar Mendes, na parte que interessa ao deslinde da causa:
+    “1. Recurso extraordinário. Repercussão geral.
+    2. Taxa Selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
