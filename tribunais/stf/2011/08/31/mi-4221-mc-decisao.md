@@ -1,0 +1,17 @@
+Trata-se de mandado de injunção, com pedido de medida liminar, impetrado por Paulo Roberto Lopes, contra omissão da Presidente da República, em virtude da ausência de regulamentação do art. 40, § 4º, I e II da Constituição Federal.
+    Sustenta o impetrante, em suma, que durante todo o período laboral exerceu atividade de risco, conforme reconhecido pela própria Administração Pública e que, assim, teria garantido o direito à contagem especial para fins de concessão de aposentadoria, na forma do artigo 40, § 4º da Constituição Federal.
+    É o relatório.
+    Passo a decidir o pedido liminar.
+    A jurisprudência desta Corte firmou-se no sentido de que o deferimento de medidas liminares é incabível em ação de mandado de injunção. Oportuna a transcrição da decisão proferida no MI 542-MC/SP, Rel. Min. Celso de Mello:
+    “Trata-se de mandado de injunção, com pedido de medida liminar, impetrado com o objetivo de tornar efetiva a norma inscrita no art. 192, § 3º, da Constituição, que estabelece em 12% a/a o limite das taxas de juros reais.
+    Há pedido de medida liminar, sem especificação, no entanto, do alcance e do conteúdo da providência cautelar pretendida.
+    Somente essa circunstância bastaria para justificar o indeferimento da medida liminar. Existe, porém, uma outra razão que impede a concessão initio litis da providência em causa. A jurisprudência do Supremo Tribunal Federal - tendo presente a natureza da decisão injuncional (RTJ 133/11, Rel. Min. MOREIRA ALVES) - tem reputado incabível, em sede de mandado de injunção, a outorga de providência de natureza cautelar, especialmente quando o alcance desta ultrapassa os limites em que se deve conter o pronunciamento final do órgão judiciário (MI 335-DF, Rel. Min. CELSO DE MELLO).
+    Indefiro, pois, o pedido de medida liminar”.
+    Nesse mesmo sentido, cito, entre outras, as seguintes decisões: MI 631-MC/MS, Rel. Min. Ilmar Galvão; MI 636-MC/PR, Rel. Min. Maurício Corrêa; MI 652-MC/RJ, Rel. Min. Ellen Gracie; MI 692-MC/DF, Rel. Min. Carlos Britto; e MI 694-MC/PR, Rel. Min. Marco Aurélio.
+    Destaco, ainda, que em relação aos servidores que exerçam atividades de risco, o parâmetro para a concessão de aposentadoria especial, até que seja editada a norma a que se refere o art. 40, § 4º, II, do texto constitucional, ainda não foi definido pelo Supremo Tribunal Federal.
+    O tema é objeto dos Mandados de Injunção 844/DF, de minha relatoria, e 833/DF, de relatoria da Min. Cármen Lúcia, que tiveram o julgamento suspenso em razão do pedido de vista do Min. Ayres Britto.
+    Isso posto, indefiro o pedido de liminar e determino o sobrestamento deste feito até o julgamento dos Mandados de Injunção 833/DF e 844/DF.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
