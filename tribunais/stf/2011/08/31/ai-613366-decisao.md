@@ -1,0 +1,26 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. COMPETÊNCIA. JUSTIÇA FEDERAL. ICMS. AUTORIDADE FEDERAL. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO.
+1. O prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário.
+2. As Súmulas 282 e 356 do STF dispõem respectivamente, verbis: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+3. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo ESTADO DO RIO DE JANEIRO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 162/163, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a, do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Regional Federal da 2ª Região, ementado nos seguintes termos (fl. 87), verbis:
+    “AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. COMPETÊNCIA. JUSTIÇA FEDERAL. ICMS. AUTORIDADE FEDERAL. EMENDA 33/01
+    1. Não assiste razão ao Agravante no que tange à competência da Justiça Federal, como bem discorreu a Ilustre representante do Parquet, no seu parecer, o qual incorporo ao presente: “Merece reforma parcial a decisão agravada. Sendo competente a Justiça Federal para processar e julgar mandado de segurança contra ato de autoridade federal, no caso o Inspetor da Receita Federal face à exigência de comprovação de pagamento do ICMS na importação de equipamento; é competente a Justiça Federal para apreciar todas as questões necessárias à verificação da legalidade do ato apontado coator, inclusive a questão da exigibilidade de tributo estadual. Nesse caso, é imprescindível a citação do Estado destinatário do tributo, tal como ocorreu na hipótese dos autos.”
+    2. Já, no que se refere ao ICMS, mostram-se pertinentes as afirmações do Agravante, eis que a Emenda Constitucional nº 33/01, apenas explicitou na Constituição Federal, a questão da sujeição passiva tributária, o que já estava contido no Parágrafo único, do artigo 4º da Lei Complementar nº 87/96.
+    3. Noutro eito, o objeto social da parte agravada indica que a coisa importada possui destinação mercantil, qualificando-se como mercadoria, logo devendo ser recolhido do ICMS pertinente.
+    Agravo de Instrumento conhecido e parcialmente
+    provido. ”
+    Opostos embargos de declaração, pela agravada, restaram rejeitados (fls. 131/136).
+    Nas razões do apelo extremo, sustenta no mérito, violação do disposto nos artigos 109, 125 e 237, da Constituição Federal, porquanto “no caso concreto, o único ato praticado pela autoridade estadual foi delegar competência à autoridade federal para, no que diz respeito ao ICMS, exigir a comprovação do recolhimento do tributo no momento do desembaraço aduaneiro das mercadorias”.
+    O Tribunal a quo negou seguimento ao apelo extremo, sob o fundamento de que não houve o devido prequestionamento, esbarrando no óbice das Súmulas 282 e 356 da Suprema Corte
+    É o Relatório. DECIDO.
+    Melhor sorte não socorre ao agravante.
+    A interposição do recurso extraordinário impõe que o dispositivo constitucional tido por violado como meio de se aferir a admissão da impugnação tenha sido debatido no acórdão recorrido, sob pena de padecer o recurso da imposição jurisprudencial do prequestionamento.
+    Com efeito, impende asseverar que a exigência do prequestionamento não é mero rigorismo formal que pode ser afastado pelo julgador a qualquer pretexto. Ele consubstancia a necessidade de obediência aos limites impostos ao julgamento das questões submetidas a este Supremo Tribunal Federal, cuja competência fora outorgada pela Constituição Federal, em seu art. 102. Nesse dispositivo não há previsão de apreciação originária por este Pretório Excelso de questões como as que ora se apresentam. A competência para a apreciação originária de pleitos no C. STF está exaustivamente arrolada no antecitado dispositivo constitucional, não podendo sofrer ampliação na via do recurso extraordinário.
+    In casu, dessume-se dos autos que a recorrente furtou-se em prequestionar, em momento oportuno, o dispositivo constitucional apontado como violado nas razões do apelo extremo, atraindo, inarredavelmente, o óbice da ausência de prequestionamento, requisito essencial à admissão do mesmo.
+    Deveras, a simples oposição dos embargos de declaração, sem o efetivo debate, no Tribunal de origem, acerca da matéria versada pelos dispositivos constitucionais apontados como violados, não supre a falta do requisito do prequestionamento, viabilizador da abertura da instância extraordinária. Incidência do óbice erigido pelo enunciado da Súmula 282/STF, de seguinte teor: “É inadmissível o recurso extraordinário, quando não ventilada na decisão recorrida, a questão federal suscitada”.
+    Ex Positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
