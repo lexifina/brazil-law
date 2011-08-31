@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE FISCALIZAÇÃO AGROPECUÁRIA (GDAFA). MEDIDA PROVISÓRIA 2.048/2000. EXTENSÃO AOS INATIVOS. LIMITE MÁXIMO. CONTROVÉRISA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 528.237-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 03/08/2011; e RE 597.371-AgR, Rel. Min. Ayres Britto, 2ª Turma, Dje de 03/03/2011.
+2. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento manejado contra decisão de fls. 77/82, que inadmitiu recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL APOSENTADO. RECEBIMENTO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DOS FISCAIS FEDERAIS AGROPECUÁRIOS – GDAFFA. POSSIBILIDADE.
+    1. Editada a Medida Provisória nº 2.048-26, em 29/06/2000, posteriormente reeditada sob nº 2.229-43, que transformou os cargos de Fiscal de Defesa Agropecuária e de Médico Veterinário em cargos de Fiscal Agropecuário, atribuindo-lhes a Gratificação de Desempenho de Atividade de Fiscalização Agropecuária (GDAFFA), com o percentual de 25% até a regulamentação da gratificação.
+    2. Editada a Lei nº 10.883/2004, reestruturou-se a remuneração dos ocupantes dos cargos da Carreira de Fiscal Federal Agropecuário.
+    3. Com o advento da Medida Provisória nº 431, de 14.05.2008, a GDAFFA foi substituída pela Gratificação de Desempenho de Atividade dos Fiscais Federais Agropecuários – GDAFFA, sendo extensível aos servidores inativos, sob pena de vulneração ao princípio constitucional da isonomia, insculpido no art. 40, § 8.º, da Constituição Federal.
+    4. Apelação e remessa oficial providas.” (fl. 41)
+    Nas razões de recurso extraordinário, a União indica ofensa ao artigo 40, § 8º, da Constituição Federal, sustentando que a instância judicante de origem aplicou o princípio da paridade constitucional de maneira equivocada. Isso porque, segundo alega, a partir da edição da Medida Provisória nº 441/2008 essa gratificação deverá ser paga ao impetrante conforme a “última pontuação que lhe foi atribuída e que serviu de base para a percepção da GDAFA multiplicada pelo valor do ponto constante do Anexo da Lei, conforme disposto no § 3º do art. 5º da Lei nº 10.883/2004, conforme redação da Lei nº 11.784/2008.” (fl. 68).
+    Os embargos de declaração opostos restaram providos, tão-somente para fins de prequestionamento.
+    Foram apresentadas contrarrazões.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que incide o disposto na Súmula 286 desta Corte.
+    Nas razões de agravo de instrumento, alega-se que a matéria em questão ainda não foi apreciada pelo Supremo Tribunal Federal.
+    É o breve relatório. DECIDO.
+    A irresignação não merece prosperar.
+    A violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+    Com efeito, verifico que a controvérsia foi decidida pelo Tribunal a quo à luz de interpretação da legislação infraconstitucional (Medida Provisória 2.048-26/2000 e Lei 10.883/2004), avultando-se incabível a insurgência recursal extraordinária para rediscussão da matéria.
+    Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Administrativo. Servidor público. Gratificação de Desempenho de Atividade de Fiscalização Agropecuária (GDAFA). MP nº 2.048/2000. Extensão a inativos. Natureza da vantagem. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Incidência das Súmulas nº 636 e nº 279/STF. Precedentes. 1. O Tribunal de origem concluiu pela extensão ao agravado, servidor público aposentado, da Gratificação de Desempenho de Atividade de Fiscalização Agropecuária (GDAFA), com fundamento na MP nº 2.048/2000. 2. Inviável no recurso extraordinário a análise de ofensa reflexa à Constituição Federal. 3. Agravo regimental não provido.” (RE 528.237-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe de 03/08/2011).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. 1. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE FISCALIZAÇÃO AGROPECUÁRIA – GDAFA. EXTENSÃO AOS APOSENTADOS. LIMITE MÁXIMO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 2. PRECEDENTES. 3. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º E AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. PRECEDENTES. 1. Entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação ordinária pertinente (Medida Provisória 2.048/2000), providência vedada neste momento processual. 2. De mais a mais, observo que a jurisdição foi prestada de forma completa, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte recorrente, o que não configura cerceamento de defesa. Agravo regimental desprovido.” (RE 597.371-AgR, Rel. Min. Ayres Britto, 2ª Turma, Dje de 03/03/2011).
+    Ex positis, nego seguimento ao agravo de instrumento com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
