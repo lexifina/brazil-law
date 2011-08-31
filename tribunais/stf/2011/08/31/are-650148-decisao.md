@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA DE ANULAÇÃO DE ATO ADMINISTRATIVO. APELAÇÕES CÍVEIS. PRELIMINAR DE NULIDADE PROCESSUAL POR AUSÊNCIA DE CITAÇÃO DE LITISCONSORTES NECESSÁRIOS PASSIVOS. REJEITADA. MÉRITO. REVISÃO DE QUESTÕES OBJETIVAS DE CONCURSO PÚBLICO PELO PODER JUDICIÁRIO. POSSIBILIDADE. ERRO NA ELABORAÇÃO DE QUESTÃO DEMONSTRADO. QUESTÃO QUE POSSUI ALTERNATIVA CORRETA DIVERSA DA APRESENTADA PELO GABARITO OFICIAL. QUESTÃO ANULADA. POSSIBILIDADE. QUESTÃO QUE POSSUI 2 (DUAS) RESPOSTAS CORRETAS. ANULAÇÃO QUE SE IMPÕE. SENTENÇA MANTIDA. RECURSOS CONHECIDOS E IMPROVIDOS EM CONSONÂNCIA PARCIAL COM O PARECER DO REPRESENTANTE DO PARQUET, APENAS NO TOCANTE A QUESTÃO PRELIMINAR” (fls. 302-303).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º e 37, caput, da mesma Carta.
+    O agravo merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com a jurisprudência desta Corte no sentido de que “não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas” (RE 243.056-AgR/CE, Rel. Min. Ellen Gracie). No mesmo sentido, menciono as seguintes decisões, entre outras: RE 560.551-AgR/RS, Rel. Min. Eros Grau; RE 442.411/RS, Rel. Min. Carlos Velloso; MS 268.244/CE, Rel. Min. Moreira Alves; e AI 827.001-AgR/RJ, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES OBJETIVAS. IMPOSSIBILIDADE. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que ao Poder Judiciário não é dado substituir banca examinadora de concurso público, seja para rever os critérios de correção das provas, seja para censurar o conteúdo das questões formuladas. Agravo regimental a que se nega provimento”.
+    Isso posto, com base nos precedentes acima mencionados, conheço do agravo (art. 544, § 4º, II, c, do CPC) para dar provimento ao recurso extraordinário. Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator
