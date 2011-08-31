@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Cuida-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho.
+    2. Da leitura dos autos, observo que a instância judicante de origem, ao julgar a controvérsia objeto do apelo extremo, decidiu que: a) nos termos da Orientação Jurisprudencial 342/SBDI-1 do TST, “é inválida cláusula de acordo ou convenção coletiva de trabalho contemplando a supressão ou redução do intervalo intrajornada porque este constitui medida de higiene, saúde e segurança do trabalho, garantido por norma de ordem pública (art. 71 da CLT e art. 7º, XXII, da CF/1988), infenso à negociação coletiva.”; b) “na apuração das horas extras, [é de ser] considerado o período referente ao percurso entre a portaria e o local da prestação de serviços como horas in itinere, mais reflexos, tudo conforme se apurar em liquidação de sentença” (fls. 315).
+    3. Pois bem, a parte recorrente sustenta ofensa ao inciso II do art. 5º, aos incisos XI e XXVI do art. 7º, bem como aos incisos III e VI do art. 8º da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida. Primeiro, porque o Supremo Tribunal Federal assentou que não há questão constitucional a ser examinada na discussão alusiva à validade de norma coletiva de trabalho que estabeleça a redução do intervalo intrajornada e, em conseqüência, deu pela ausência do requisito da repercussão geral (AI 825.675, sob a relatoria do ministro Gilmar Mendes).
+    5. Quanto ao mais, ressalto que eventual ofensa ao Magno Texto, se existente, apenas ocorreria de modo reflexo ou indireto. Vejam-se, no mesmo sentido, os seguintes julgados: AIs 826.997, da relatoria da ministra Cármen Lúcia; 838.976, da relatoria do ministro Ricardo Lewandowski; 840.594, da relatoria do ministro Gilmar Mendes; 844.823, da relatoria do ministro Joaquim Barbosa; bem como o ARE 647.504, da relatoria do ministro Dias Toffoli.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 31 de agosto de 2011.
+Ministro AYRES BRITTO
+Relator
