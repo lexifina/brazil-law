@@ -1,0 +1,20 @@
+Decisão: Trata-se de reclamação constitucional ajuizada pela Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (CODEVASF) contra sentença proferida pelo juízo da Vara do Trabalho de Sabará - MG, que, ao afastar a incidência do art. 71, § 1º, da Lei 8.666/1993, com base na Súmula 331, IV, do TST, teria ofendido a autoridade da decisão proferida pelo Supremo Tribunal Federal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, DJe 6.12.2010, bem como violado a Súmula Vinculante 10, assim redigida:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    A sentença reclamada consignou que:
+    “O disposto no art. 71 da Lei. 8.666/93 não tem o condão de elidir tal responsabilidade, mesmo após o recente entendimento firmado pelo Supremo Tribunal Federal, sob pena de ofensa ao princípio constitucional de valorização do trabalho humano, fundamento do Estado Democrático, e na diretriz que prevê a responsabilidade das pessoas jurídicas de direito público pelos danos (de forma ampla) que seus agentes causarem a terceiros, sempre que comprovada a culpa.
+    (…)
+    Vale ressaltar, ainda, que a citada Lei de Licitações tem como âmbito de aplicação a relação entre a Administração Pública e seus contratados, e não diz respeito ao trabalhador, que vende a sua força de trabalho, mão de obra da qual a Administração Pública se beneficia. Em verdade, o art. 71 da Lei 8.666/93 não é oponível ao trabalhador. Dentro desta perspectiva, salienta-se que o referido artigo se justifica diante de outro dispositivo do mesmo diploma legal, inc. IV, art. 80, que confere ao ente público o dever de reter os créditos devidos à empresa com quem contrata, até o limite dos prejuízos causados.
+    Portanto, a interpretação do art. 71 deve ser feita em conjunto com todo o teor do diploma legal e não de forma isolada. E também a sua interpretação à luz da Constituição que traz como princípio o valor social do trabalho e a ordem econômica fundada na valorização do trabalho humano. Tudo isto não implica negar a aplicação do art. 71, mas interpretá-lo de forma lógico-sistemática”. (fls. 212-213).
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Inicialmente, verifico que o Tribunal Superior do Trabalho, para editar o item IV da Súmula 331, procedeu à declaração de inconstitucionalidade parcial sem redução de texto do art. 71, § 1º, da Lei 8.666/1993, que afasta a responsabilidade subsidiária da Administração Pública na terceirização de mão-de-obra.
+    Técnica similar de decisão foi adotada pelo juízo reclamado, motivo pelo qual seria necessária a expressa declaração de inconstitucionalidade do dispositivo legal citado.
+    Ademais, a própria sentença reclamada mencionou o julgamento da ADC 16, Rel. Min. Cezar Peluso, DJe 6.12.2010, no qual esta Corte declarou a compatibilidade do art. 71, § 1º, da Lei 8.666/1993, com a Constituição, mas, ainda assim, decidiu contrariamente ao entendimento firmado neste Tribunal.
+    Registre-se, todavia, que a alegação de conduta omissiva por parte da Administração Pública foi argumento utilizado para a edição da Súmula 331, IV, do TST, mas essa fundamentação não mais se sustenta após o julgamento da referida ADC 16, uma vez que é contrária à literalidade do art. 71, § 1º, da Lei 8.666/1993.
+    Ante o exposto, com base na jurisprudência desta Corte (art. 161, parágrafo único, RISTF), conheço da reclamação e julgo-a procedente, para cassar a sentença reclamada e determinar que outra seja proferida em seu lugar, tendo em vista a decisão deste Supremo Tribunal Federal sobre a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, proferida na ADC 16.
+    Comunique-se.
+    Publique-se.
+    Brasília, 1º de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
