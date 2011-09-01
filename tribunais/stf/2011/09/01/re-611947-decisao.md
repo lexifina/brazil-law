@@ -1,0 +1,31 @@
+Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+    “PROCESSUAL CIVIL. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. CONSELHO PROFISSIONAL. NATUREZA JURÍDICA DE DIREITO PÚBLICO. NULIDADE DE CONTRATAÇÃO DIRETA. NECESSIDADE DE CONCURSO PÚBLICO.
+    1. É pacífico o entendimento de que os Conselhos Regionais de Fiscalização Profissional possuem personalidade jurídica de direito público, estando submetidos às exigências constantes no art. 37 da CF.
+    2. O art. 58 da Lei 9.649/98 que conferia natureza jurídica de direito privado as entidades de fiscalização de profissões, permitindo a contração direta de pessoal, foi declarado inconstitucional pelo STF no julgamento da ADIn nº 1717.
+    3. Desde a publicação da concessão da liminar (25.02.2000) pelo STF, em sede de ADIn nº 1.717, que suspendeu a eficácia do art. 58 da Lei nº 9.649/98, os Conselhos Profissionais estão obrigados a realizar suas contratações mediante concurso público.
+    4. É nulo qualquer ato de contratação de pessoal efetuado pelo Conselho Regional de Psicologia da 13ª Região – CRP-13 PB/RN sem a observação do disposto no art. 37 da CF.
+    5. Apelação improvida” (fl. 322).
+    Neste RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa ao art. 102, § 2º, da mesma Carta, ao argumento de que não foi observado o efeito vinculante da decisão proferida pelo STF na ADI 3.026/DF .
+    Sustentou-se que o acórdão recorrido, com apoio na ADI 1.717/DF, incorreu em equívoco ao considerar que os conselhos profissionais têm natureza jurídica de direito público. Para tanto, afirmou-se que esse entendimento foi superado no julgamento da ADI 3.026/DF, ocasião em que se assentou a natureza de direito privado dos aludidos conselhos.
+    O Subprocurador-Geral da República Wagner de Castro Mathias Netto opinou pelo desprovimento do recurso.
+    A pretensão recursal não merece prosperar.
+    Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+    Além disso, não prospera a pretensão de estender-se os efeitos da ADI 3.026/DF aos conselhos de fiscalização profissional. É que, nesse julgamento, o Supremo Tribunal Federal reconheceu a natureza especial da Ordem dos Advogados do Brasil e a distinguiu dos órgãos de fiscalização profissional, consoante se observa nos seguintes trechos da ementa da mencionada ação direta de inconstitucionalidade:
+    “(...)
+    3. A OAB não é uma entidade da Administração Indireta da União. A Ordem é um serviço público independente, categoria ímpar no elenco das personalidades jurídicas existentes no direito brasileiro.
+    (…)
+    7. A Ordem dos Advogados do Brasil, cujas características são autonomia e independência, não pode ser tida como congênere dos demais órgãos de fiscalização profissional. A OAB não está voltada exclusivamente a finalidades corporativas. Possui finalidade institucional.
+    (…)”
+    Corroborando esse entendimento, destaco do parecer da Procuradoria Geral da República:
+    “Com efeito, na ADI 3026, o STF posicionou-se pela possibilidade de contratação direta de pessoal, pela OAB, em face da sua natureza institucional, jurídica e independente.
+    No entanto, o próprio precedente confirma que não se pode equiparar a OAB às autarquias especiais e agências, que são pertencentes à administração indireta, e estão obrigadas a realizar concurso público para a contratação de pessoal.
+    Os Conselhos Profissionais são nítidas autarquias, que atuam em atividade típica do Estado, sob delegação, e têm poder de polícia, de punir de tributar, razão por que se lhes aplicam os princípios da administração pública, dentre os quais, o da legalidade e da necessidade de concurso público (...)” (fl. 445).
+    Assim, contrariamente ao que sustentado pela recorrente, o que foi decidido na ADI 3.026/DF, Rel. Min. Eros Grau, não se aplica à hipótese dos autos, que envolve conselho de fiscalização profissional.
+    Por fim, o acórdão recorrido, apoiado no entendimento firmado na ADI 1.717/DF, Rel. Min. Sydney Sanches, não destoa da jurisprudência desta Corte no sentido da natureza autárquica dos conselhos de fiscalização profissional. Nesse sentido, cito o MS 21.797/RJ, Rel. Min. Carlos Velloso, cuja ementa segue transcrita
+    “CONSTITUCIONAL. ADMINISTRATIVO. ENTIDADES FISCALIZADORAS DO EXERCÍCIO PROFISSIONAL. CONSELHO FEDERAL DE ODONTOLOGIA: NATUREZA AUTÁRQUICA. Lei 4.234, de 1964, art. 2º. FISCALIZAÇÃO POR PARTE DO TRIBUNAL DE CONTAS DA UNIÃO. I. - Natureza autárquica do Conselho Federal e dos Conselhos Regionais de Odontologia. Obrigatoriedade de prestar contas ao Tribunal de Contas da União. Lei 4.234/64, art. 2º. C.F., art. 70, parágrafo único, art. 71, II. II. - Não conhecimento da ação de mandado de segurança no que toca à recomendação do Tribunal de Contas da União para aplicação da Lei 8.112/90, vencido o Relator e os Ministros Francisco Rezek e Maurício Corrêa. III. - Os servidores do Conselho Federal de Odontologia deverão se submeter ao regime único da Lei 8.112, de 1990: votos vencidos do Relator e dos Ministros Francisco Rezek e Maurício Corrêa. IV. - As contribuições cobradas pelas autarquias responsáveis pela fiscalização do exercício profissional são contribuições parafiscais, contribuições corporativas, com caráter tributário. C.F., art. 149. RE 138.284-CE, Velloso, Plenário, RTJ 143/313. V. - Diárias: impossibilidade de os seus valores superarem os valores fixados pelo Chefe do Poder Executivo, que exerce a direção superior da administração federal (C.F., art. 84, II). VI. - Mandado de Segurança conhecido, em parte, e indeferido na parte conhecida”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: RE 364.750/RS, Rel. Min. Dias Toffoli; RE 559.814/SP, RE 434.297/PB e RE 607.571/PE, Rel. Min. Cármen Lúcia; RE 419.797/MG, Rel. Min. Ellen Gracie; AI 791.759/PE, Rel. Min. Gilmar Mendes; MS 26.803-MC/DF, Rel. Min. Marco Aurélio.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
