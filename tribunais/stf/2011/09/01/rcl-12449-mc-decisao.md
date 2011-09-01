@@ -1,0 +1,43 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional eletrônica, com pedido liminar, ajuizada pela União em face do Tribunal Regional do Trabalho da 22ª Região, cuja decisão teria contrariado a eficácia da Súmula Vinculante nº 17.
+    a) peticionou ao e. TRT-22ª Região a fim de demonstrar a existência de erro material na expedição de precatório no tocante à incidência de juros moratórios;
+    b) o pedido foi negado pelo Desembargador-Presidente, sob o argumento de que a Emenda Constitucional nº 62/2009 prevê a atualização dos valores constantes de precatórios até o seu efetivo pagamento;
+    c) opostos embargo declaratórios, foram rejeitados, o que deu ensejo à interposição de recurso de revista;
+    d) “[é] pacífica a jurisprudência desse Supremo Tribunal no sentido de que a inclusão de juros de mora desde a expedição do precatório viola a sistemática do art. 100, da CR/88. Com efeito, não há que se cogitar do pagamento de juros moratórios se o pagamento é tempestivo.”;
+    d) não obstante, após a aprovação da súmula vinculante 17, ter-se alterado a redação do art. 100 da CF/88, não houve mudança normativa quanto à incidência de juros de mora na expedição de precatório, mas apenas uma “mudança topográfica do § 1° para o § 5°, permanecendo a mesma redação”, motivo pelo qual permanece o entendimento do STF consubstanciado na Súmula Vinculante nº 17;
+    e) “[a] despeito da distinção entre a redação atual e a anterior, continua a haver o lapso constitucional para o pagamento pela Fazenda Pública, dentro do qual não há que se falar em mora”.
+    Requer a concessão de medida liminar para suspender o pagamento do juros de mora incidentes entre a data de expedição do precatório e seu efetivo pagamento, ante a possibilidade de dano irreparável ao interesse público, tendo a União que “pagar encargos de uma mora que não existiu”.
+    Requer seja julgada procedente a presente reclamação para cassar a decisão reclamada, garantindo a aplicação da súmula vinculante nº 10.
+    É o relatório.
+    A reclamante juntou documentos por meio eletrônico, de entre eles o acórdão do e. TRT-22ª Região que desrespeitaria a Súmula Vinculante nº 17, assim fundamentado:
+    “Com efeito, o § 12, do art. 97, do ADCT, acrescido pela Emenda Constitucional nº 62/2009, de 10-12-2009, preconiza que os juros moratórios incidirão até a data do efetivo pagamento, verbis:
+     Art. 97, §12. A partir da promulgação desta Emenda Constitucional, a atualização de valores de requisitórios, após sua expedição, até o efetivo pagamento, independentemente de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta de poupança, e, para fins de compensação da mora, incidirão juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando excluída a incidência de juros compensatórios. (destaques acrescidos).
+    (...)
+    Em que pese a existência de jurisprudência, limitando a incidência de juros moratórios até a data da inscrição do precatório, a Emenda Constitucional nº 62/2009 prevê que os valores constantes de precatórios serão atualizados até a data do efetivo pagamento. Assim, corretos os valores apurados pelo Setor de Cálculos/SEJ, eis que atualizados observando-se a regra constitucional vigente.“
+    Quando do julgamento do RE nº591.085/RG-QO - oportunidade em que proposta a edição de súmula vinculante sobre a matéria -, o Ministro Ricardo Levandowski assim manifestou-se:
+    “O Plenário, no julgamento do RE 298.616/SP, Relator o Ministro Gilmar Mendes, decidiu que somente se descumprido o prazo constitucional previsto para o pagamento dos precatórios, qual seja, até o final do exercício seguinte, 'poder-se-ia falar em mora e, em conseqüência, nos juros a ela relativos, como penalidade pelo atraso no pagamento'. Esse mesmo posicionamento já havia sido adotado pela la Turma, PR ocasião do julgamento do RE 305. 186/SP, Relator o Ministro limar Galvão. Os referidos julgados portam as seguintes ementas:
+    (...)
+    Observo que o entendimento foi estabelecido levando-se em conta a redação original do art. 100, §1º da Constituição. Entretanto, tal dispositivo foi modificado pela EC 30/2000, mas não a ponto de infirmar a orientação do Tribunal sobre a matéria, muito pelo contrário, pois, conforme ressaltado pelo Min. Gilmar Mendes no voto proferido por ocasião do julgamento do RE 298. 616/SP:
+    'É relevante notar que a Emenda n° 30/2000 deu nova redação ao § lº do art. 100, e tornou mais clara a não-incidência de juros moratórios, ao dispor, de forma expressa, que os valores serão atualizados monetariamente até o pagamento, no final do exercício, não se falando em expedição de precatório complementar'“ (grifou-se).
+    Na Sessão Plenária de 29/10/2009, o STF aprovou a edição da Súmula Vinculante nº 17, com seguinte redação:
+    “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+    Ressalto que a alteração no regime constitucional de pagamento de título judicial pelas Fazendas Públicas Federal, Estaduais, Distrital e Municipais, empreendida pela EC nº 62/2009, não logrou modificar o prazo para pagamento dos precatórios judiciários apresentados até 1º de julho, que deverá ser cumprido até o final do exercício financeiro seguinte à sua inclusão em orçamento, após o que, conforme jurisprudência pacificada desta Suprema Corte, incidirá juros de mora.
+    Para uma melhor compreensão, transcrevo o § 1º, antes da alteração dada pela EC nº 62/2009; e o § 5º, atualmente vigente, do artigo 100 da Constituição Federal de 1988:
+    “Art. 100 (...)
+    § 1º - É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos constantes de precatórios judiciários, apresentados até 1º de julho, data em que terão atualizados seus valores, fazendo-se o pagamento até o final do exercício seguinte.”
+    “Art. 100 (...)
+    § 5º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em julgado, constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente.”
+    A jurisprudência consolidada desta Corte, portanto, mantém-se adequada ao novo regime de pagamento por precatórios judiciais pela Fazenda Pública, no tocante à configuração da mora no pagamento. Vide:
+    “Recurso Extraordinário. 2. Precatórios. Juros de mora. 3. Art. 100, § 1º, da Constituição Federal. Redação anterior à Emenda 30, de 2000. 4. Inclusão no orçamento das entidades de direito público. Apresentação até 1º de julho, data em que terão seus valores atualizados. 5. Prazo constitucional de pagamento até o final do exercício seguinte. 5. Descaracterização da mora, quando não há atraso na satisfação dos débitos. 5. Recurso extraordinário provido” (RE nº 28.616/CE, Relator o Ministro Gilmar Mendes, Tribunal Pleno, DJ de 3/3/2010).
+    “CONSTITUCIONAL. CRÉDITO DE NATUREZA ALIMENTAR. JUROS DE MORA ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO E A DO EFETIVO PAGAMENTO. C.F., ART. 100, § 1.º (REDAÇÃO ANTERIOR À EC 30/2000). Hipótese em que não incidem juros moratórios, por falta de expressa previsão no texto constitucional e ante a constatação de que, ao observar o prazo ali estabelecido, a entidade de direito público não pode ser tida por inadimplente. Orientação, ademais, já assentada pela Corte no exame da norma contida no art. 33 do ADCT. Recurso extraordinário conhecido e provido” (RE nº 305.186/SP, Relator o Ministro Ilmar Galvão, Tribunal Pleno, DJ de 18/10/2002).
+     Em exame preliminar, o caso dos autos reclama a incidência inaudita altera pars da Súmula Vinculante nº 17.
+    Nesse sentido, os seguintes precedentes: Rcl nº 10.695/SP, DJe de 17/2/11, e Rcl nº 10.315/PB-AgR, DJe de 17/06/2011, de relatoria do Ministro Gilmar Mendes, ambos.
+    Ante o exposto, defiro o pedido de liminar para suspender o pagamento de juros de mora incidentes entre a data de expedição do precatório e o exercício financeiro seguinte à sua inclusão no orçamento da União, ressalvada nova apreciação do quadro uma vez apresentadas as informações e colhida a manifestação do Ministério Público Federal.
+    Notifique-se a digna autoridade reclamada, a fim de que preste as informações, no prazo de lei.
+    Após, remetam-se os autos à douta Procuradoria-Geral da República para manifestação como custos legis. (art. 16 da Lei nº 8.038/90).
+    Publique-se. Int..
+    Brasília, 1º de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
