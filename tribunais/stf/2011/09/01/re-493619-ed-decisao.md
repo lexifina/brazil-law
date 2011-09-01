@@ -1,0 +1,11 @@
+DECISÃO: Conheço, preliminarmente, dos presentes embargos de declaração como recurso de agravo (RTJ 145/664 - RTJ 153/834 - AI 243.159-ED/DF, Rel. Min. NÉRI DA SILVEIRA - AI 243.832-ED/MG, Rel. Min. MOREIRA ALVES - Rcl 4.395-ED/SP, Rel. Min. CEZAR PELUSO, v.g.).
+           E, ao fazê-lo, reconsidero a decisão proferida a fls. 311/312, ficando prejudicado, em conseqüência, o exame do recurso de agravo interposto a fls. 315/318.
+           Passo, em conseqüência, a apreciar o apelo extremo deduzido pela parte ora recorrente.
+           O presente recurso extraordinário insurge-se contra acórdão que se apóia em vários fundamentos, dos quais alguns possuem caráter infraconstitucional.
+           Cabe acentuar, neste ponto, que, em situações nas quais o tema de índole meramente legal deixa de ser apreciado pelo E.  Superior Tribunal de Justiça - seja porque não interposto o pertinente recurso especial, seja porque, embora deduzido o apelo excepcional em questão, a parte recorrente nele não impugna o referido fundamento de natureza infraconstitucional, seja, ainda, porque denegado processamento ao recurso especial (a que não se seguiu a utilização do cabível agravo de instrumento), seja, finalmente, porque o recurso especial não foi conhecido ou provido -, a jurisprudência desta Suprema Corte, em ocorrendo qualquer dessas   hipóteses, tem aplicado a doutrina constante da Súmula 283/STF.
+           Isso significa, portanto, presente o contexto em exame, que a ausência de impugnação dos fundamentos legais subjacentes ao acórdão recorrido, que se revelavam suscetíveis de impugnação em sede recursal adequada, basta para conferir, por si só, em qualquer das situações acima referidas, subsistência autônoma à decisão ora questionada nesta causa, precisamente em decorrência da preclusão dos fundamentos infraconstitucionais mencionados, tal como adverte o magistério jurisprudencial que o Supremo Tribunal Federal firmou na matéria (RTJ  151/261-262 - AI 237.774-AgR/SP, Rel. Min. MAURÍCIO CORRÊA - RE 168.517/RS, Rel. Min. ILMAR GALVÃO - RE 273.834/RJ, Rel. Min. CELSO DE MELLO, v.g.).
+           Sendo assim, considerando as razões expostas, e atento à Súmula 283 desta Suprema Corte, não conheço do presente recurso extraordinário.
+           Publique-se.
+           Brasília, 1º de setembro de 2011.
+Ministro CELSO DE MELLO
+Relator
