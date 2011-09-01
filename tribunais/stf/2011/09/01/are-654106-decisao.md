@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo visando impugnar decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO. SUSPENSÃO CONDICIONAL DO PROCESSO. REVOGAÇÃO.
+    Impõe-se a revogação da suspensão condicional do processo, se o réu, no curso do prazo, vem a ser processado por outro crime. Recurso ministerial provido” (fl. 62).
+    Os embargos declaratórios opostos (fls. 69/70), foram rejeitados (fls. 73/74).
+    A agravante, nas razões do extraordinário, sustenta que “a Constituição Federal consagrou, em seu art. 5º, inciso LVII, o princípio da não culpabilidade (estado de inocência, presunção de inocência, desconsideração prévia da culpabilidade), o § 3º do art. 89 da Lei 9.099/95 deve ser interpretado de acordo com a Constituição, e não em sua estrita literalidade” (fl. 90).
+    Examinados os autos, passo a decidir.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao art. 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. Posteriormente, a matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os arts. 543-A e 543-B ao Código de Processo Civil e, por fim, o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução.
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no AI nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento no sentido de que os recursos extraordinários em geral e, em consequência, as causas criminais, interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em espécie, esse requisito formal não foi cumprido, pois o acórdão proferido em sede de embargos declaratórios foi publicado em 2/5/11 (fl. 76), quando plenamente exigível a demonstração formal da repercussão geral.
+    Aliás, tal entendimento já foi confirmado pelo Tribunal Pleno desta Corte Suprema em diversas oportunidades. Confira-se:
+    “Agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Ausência da preliminar formal. 4. Agravo de instrumento a que se nega provimento” (AI nº 733.503/DF, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 29/05/09);
+    “Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar formal e fundamentada sobre a repercussão geral, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes, em tópico destacado na petição de recurso extraordinário. 2. É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral previstas no art. 323, § 1º, do RISTF. Precedente. 3. A ausência dessa preliminar permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). 4. Agravo regimental desprovido” (RE nº 569.773 - AgR/SP, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe 23/05/08).
+    Com essas considerações, conheço do agravo para, nos termos dos arts. 21, 1º § do RISTF e 38 da Lei nº 8.038/90, negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
