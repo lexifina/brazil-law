@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela ilegitimidade da Portaria 400/2004 do Ministério da Fazenda, na parte em que prevê a dedução nos repasses das cotas de complementação da União ao FUNDEF, sob o fundamento de que o § 7º do art. 3º do Decreto 2.264/1997 – que regulamentava a Lei 9.424/1996 a qual dispõe sobre referido fundo – vedava qualquer ajuste relacionado ao pagamento dessa complementação ao longo do respectivo exercício de competência.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 100, da mesma Carta, bem como ao art. 60, § 1º, do ADCT.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 100 da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir a omissão, é inviável o recurso, a tero da Súmula 356 do STF.
+    Além disso, os Ministros desta Corte, no RE 636.978-RG/PI, Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral da controvérsia relativa à forma de cálculo do valor mínimo anual por aluno (VMAA) e a definição do repasse a título de complementação da União ao FUNDEF, por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “Extraordinário. Inadmissibilidade. FUNDEF. Cálculo do valor mínimo nacional por aluno. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a forma de cálculo do valor mínimo nacional por aluno (VMNA) a ser repassado ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério (FUNDEF), versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
