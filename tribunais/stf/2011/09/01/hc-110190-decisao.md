@@ -1,0 +1,11 @@
+Decisão: vistos, etc.
+    De próprio punho, Rivail Curvelo Lucena de Lima postula a concessão de liberdade provisória. Isto sob o argumento de falta de fundamentação válida da decisão que decretou seu aprisionamento cautelar.
+    2. Pois bem, a inicial não se acha instruída com qualquer documento capaz de sinalizar a ocorrência da ilegalidade reportada na inicial deste habeas corpus. Não é só: em consulta à página do Superior Tribunal de Justiça na internet observei que ali tramita o HC 209.354. Ação constitucional impetrada em 10 de junho de 2011 e que se acha na fase de ouvida do Ministério Público Federal.
+    3. Assim postas as coisas, tenho por aplicável o óbice da Súmula 691/STF, verbis: “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.”
+    4. É certo que tal jurisprudência comporta relativização, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). Mas não me parece ser este o caso dos autos. Até porque a Constituição Federal de 1988, ao cuidar do habeas corpus (inciso LXVIII do artigo 5º), autoriza o respectivo manejo sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção. Mas a Constituição não para por aí e arremata o seu discurso normativo pela seguinte forma: por ilegalidade ou abuso de poder. Saltando aos olhos que ilegalidade e abuso de poder não se presumem, pois, aí, a presunção é exatamente inversa. E, nesse caso, ou os autos dão conta de uma vistosa violência indevida, de um cerceio absolutamente antijurídico por abuso de poder ou por ilegalidade, ou do habeas corpus não se pode socorrer o paciente. Ilegalidade ou abuso de poder que não sobressaem do exame prefacial deste processo.
+    5. Por tudo quanto posto, nego seguimento ao habeas corpus (art. 38 da Lei nº 8.038/90 c/c § 1º do artigo 21 do RI/STF). O que não impede a rediscussão da matéria na instância própria.
+    Publique-se.
+    Brasília, 1º de setembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
