@@ -1,0 +1,4 @@
+LEI N° 12.473, DE 1° DE SETEMBRO DE 2011
+Denomina Rodovia Tenente-Brigadeiro Murillo Santos o trecho rodoviário compreendido entre a Base Aérea de Natal, no Estado do Rio Grande do Norte, e o entroncamento com a BR-101.
+A P R E S I D E N T A D A R E P Ú B L I C A
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
