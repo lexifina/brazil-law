@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 114):
+    “TRIBUTÁRIO. IPTU – ISENÇÃO. TAXAS DE ILUMINAÇÃO PÚBLICA E LIMPEZA PÚBLICA – INCONSTITUCIONALIDADE. Imóvel declarado de utilidade pública, para fins de desapropriação, goza de isenção, nos termos do art. 82 da Lei Municipal nº 5.839/90. Os serviços de iluminação e limpeza públicas não possuem o caráter de especificidade e divisibilidade imprescindível à instituição válida de taxas a eles correspondentes. Taxas que apresentam base de cálculo própria de impostos, reveladora da capacidade econômica dos contribuintes, violam o disposto no art. 145, § 2º da CF/88.”
+    2. Pois bem, a parte recorrente sustenta ofensa ao inciso II do art. 145, ao inciso III do art. 151, aos §§ 1º e 2º do art. 173, todos da Constituição Federal, bem como ao art. 41 do ADCT.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do à época Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo desprovimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. De saída, pontuo que, à exceção do inciso II do art. 145 e do § 2º do art. 173, os demais dispositivos constitucionais tidos por violados não foram apreciados pelo aresto impugnado. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, conforme as Súmulas 282 e 356/STF.
+    5. Por outra volta, anoto que entendimento diverso do adotado pela instância judicante de origem exigiria a análise da legislação infraconstitucional pertinente. Providência que não tem lugar na via recursal extraordinária, nos termos da Súmula 280/STF. Precedentes: AIs 512.419-AgR, da relatoria da ministra Cármen Lúcia; 531.401, da relatoria do ministro Sepúlveda Pertence; 601.934, da relatoria do ministro Cezar Peluso; 710.491-AgR, da relatoria do ministro Ricardo Lewandowski.
+    6. Quanto à Taxa de Limpeza e Conservação de Vias Públicas, o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta, no sentido de que limpeza e conservação de vias públicas se referem a atividades estatais que se traduzem em prestação de utilidades inespecíficas, indivisíveis e insuscetíveis de ser vinculadas a determinado contribuinte, não se podendo custear senão por meio do produto da arrecadação dos impostos gerais (REs 234.605, 233.332 e 206.777). Tal posição foi reafirmada no julgamento do RE 576.321, da relatoria do ministro Ricardo Lewandowski.
+    7. De mais a mais, consigno que o serviço de iluminação pública não é de ser remunerado mediante taxa (Súmula 670/STF).
+    8. À derradeira, no tocante à alínea “c” do inciso III do art. 102 da Constituição Federal, é de incidir a Súmula 284/STF.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 02 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
