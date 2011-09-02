@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão, que, emanada do E. Superior Tribunal Militar, restou consubstanciada em acórdão assim ementado:
+    “Roubo e cárcere privado. Insustentável o decreto absolutório fundado na incerteza em relação à autoria, quando as confissões dos Acusados, na fase investigatória, são corroboradas por depoimentos, convergentes e harmônicos, de testemunhas idôneas e do Ofendido, que reconheceram os Apelados. Em crimes envolvendo roubo de vultosa quantia de dinheiro e de armamentos militares, praticados com violência por indivíduos de alta periculosidade, a regra é o silêncio das vítimas e das testemunhas, assumindo, pois, relevância probatória a declaração do Ofendido, ainda mais quando corroborada com outras provas dos autos. Apelo do Ministério Público Militar provido à unanimidade para reformar a sentença. Decisão majoritária no que se refere ao 'quantum' da pena imposta.”
+(APELAÇÃO nº 2003.01.049272-0/SP, Rel. Min. Gen. Ex. VALDESIO GUILHERME DE FIGUEIREDO - grifei)
+           O exame dos fundamentos em que se apóia a presente impetração parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual, especialmente se se considerar, à luz do art. 9º, III, “a”, do Código Penal Militar, que o comportamento do ora paciente, não obstante civil, ajustar-se-ia às circunstâncias de ordem pessoal (vítimas militares em situações de atividade) e de lugar (local sujeito à administração militar), sem se mencionar, ainda, o fato de que referida ação delituosa atingiu o próprio patrimônio militar (fuzis e pistolas).
+           Sendo assim, e sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+           Publique-se.
+           Brasília, 02 de setembro de 2011.
+Ministro CELSO DE MELLO
+Relator
