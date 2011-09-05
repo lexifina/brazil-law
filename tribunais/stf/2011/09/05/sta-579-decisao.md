@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de pedido de suspensão de tutela antecipada ajuizado pela União, com o objetivo de suspender os efeitos de decisão proferida nos autos da Ação Ordinária nº 0001970-23.2011.4.05.8100.
+    Na origem, Guy Barroso Silva, Analista de Finanças e Controle da Controladoria-Geral da União, ajuizou ação, com pedido de liminar, requerendo remoção provisória, até decisão final no processo, de Brasília/DF para Fortaleza/CE. Alegou que a cônjuge seria servidora pública do Ministério da Fazenda, transferida ex officio para a capital cearense e que, por possuírem uma filha em idade escolar, necessitaria ser lotado na mesma cidade.
+    A liminar foi deferida nos seguintes termos:
+    “Em nome da proteção à família (art. 226, CF/88 c.c. O art. 36, parágrafo único, III, ‘a’ da Lei nº 8.112/90), é perfeitamente verossímil a tese segundo a qual o varão faz jus à pretendida remoção para Fortaleza (CE), na medida em que sua companheira foi removida ex officio, no interesse da administração, para esta Capital”.
+    Contra a decisão foi interposto agravo de instrumento, ainda pendente de julgamento, e idêntico pedido de suspensão, rejeitado pelo Presidente do Tribunal Regional Federal da 5ª Região e pelo Plenário da Corte.
+    Daí o presente pedido de suspensão de segurança. A requerente aduz, para tanto: a) a unidade de lotação originária do servidor apresentaria deficiência de pessoal; b) a decisão eliminaria a discricionariedade da administração em dispor de seus recursos humanos; c) a lotação pela vida judicial prejudicaria outros servidores mais antigos, que supostamente tenham interesse na remoção para a mesma localidade; e d) a transferência de ofício da cônjuge do servidor não teria provocado ruptura da coabitação dos interessados, pois ambos já viveriam em cidades distintas – ele em Brasília e ela em Mossoró/RN.
+    2. Não é caso de suspensão.
+    De acordo com o regime legal de contracautela (Leis n° 12.016/09, nº 8.437/92 e nº 9.494/97, e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    Está preenchido o requisito, pois em jogo, aqui, suposta violação ao art. 226 da Constituição da República, que teria sido afrontado pelo Juízo local. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+    No caso, não houve, entretanto, efetiva comprovação da ocorrência de grave lesão. É que a requerente se limitou a alegar que a decisão impugnada provocaria danos à ordem administrativa, com prejuízo da distribuição da força de trabalho, sem, contudo, provar de forma inequívoca e concreta a ocorrência de grave lesão aos valores sociais protegidos pelas medidas de contracautela.
+    Ora, suposto dano invocado pela Fazenda Pública não se presume, conforme entendimento da Corte:
+    “SISTEMA ÚNICO DE SAÚDE - SUS. Pretensão de fornecimento de medicamento registrado na Anvisa (Myozyme). Deferimento. Alegação de grave dano à economia pública, ante o alto custo. Ausência de demonstração. Agravo regimental não provido. Não se presume, nos processos de suspensão, grave lesão aos interesses públicos tutelados, a qual deve estar provada de plano pela Fazenda Pública.” (STA nº 361-AgR, de minha relatoria, DJe de 13.8.2010).
+    É oportuno advertir, aliás, que a Fazenda Pública tem desde logo o ônus de provar, com base em todo o acervo documental de que dispõe, a existência concreta de risco de “grave lesão”.
+    Por fim, verifico que o pedido formulado guarda nítido cunho de recurso, quando a orientação desta Corte está em que a via da suspensão não é sucedâneo recursal (cf. SL n° 14, Rel. Min. MAURÍCIO CORRÊA, DJ 03.10.2003; e SL n° 80, Rel. NELSON JOBIM, DJ 19.10.2005).
+    3. Ante o exposto, nego seguimento ao pedido (art. 21, § 1º, RISTF).
+    Publique-se. Int..
+    Brasília, 5 de setembro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
