@@ -1,0 +1,37 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. DOENÇA PROFISSIONAL. NECESSIDADE DE ATESTADO EMITIDO PELO INSTITUTO NACIONAL DO SEGURO SOCIAL – INSS. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DA ANÁLISE DE CLÁUSULA DE ACORDO COLETIVO DE TRABALHO: INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal Superior do Trabalho julgou agravo de instrumento nos termos seguintes:
+    “AGRAVO. DECISÃO MONOCRÁTICA. DOENÇA PROFISSIONAL. ATESTADO DO INSS. ORIENTAÇÃO JURISPRUDENCIAL N. 154 DA SBDI-1. CANCELAMENTO.
+    Esta Corte, em sessão plenária, realizada no dia 12/10/2009, ao julgar o Incidente de Uniformização de Jurisprudência suscitado nos autos do processo TST-ERR-736.593/2001.0, concluiu pelo cancelamento da OJ n. 154 da SBDI-1, sob o fundamento de que carece de amparo jurídico a exigência constante de cláusula de instrumento normativo segundo a qual a doença profissional deve ser atestada por médico do INSS, como condição para o reconhecimento do direito à estabilidade. Agravo a que se nega seguimento” (fl. 539).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e a incidência da Súmula n. 454 do Supremo Tribunal Federal.
+    4. A Agravante argumenta que:
+    “ao revés do exposto no r. despacho denegatório, a Eg. Turma não negou provimento ao recurso da ora recorrente sob o fundamento de que a comprovação da doença profissional em juízo afasta a exigência de atestado do INSS para o reconhecimento da estabilidade provisória prevista em norma coletiva, pois, (...), o não provimento do recurso decorreu do cancelamento da OJ n. 154 da SBDI-1, do TST, (...).
+    (...)
+    Assim, ‘data maxima venia’, equivoca-se o r. despacho denegatório ao negar seguimento ao apelo extremo sob o fundamento de que ‘seria imprescindível o reexame dos termos firmados em norma coletiva de trabalho’, vez que o acórdão impugnado pelo Recurso Extraordinário parte da premissa da exigência do atestado pela norma coletiva, por isso que aplica o entendimento que cancelou a OJ 154/SBDI-1, do C. TST.
+    (...)
+    Ao contrário do exposto no r. despacho denegatório, certo que a lide não foi resolvida com base em fatos ou na legislação infraconstitucional, pois a única norma que determina o reconhecimento e assegura a validade dos instrumentos normativos é o texto constitucional, motivo pelo qual, reitera-se, a vulneração se dá pela forma direta.
+    Ademais, o artigo 7º, inciso XXVI, da Carta Magna, é claro e não permite divagações ou dá margem à interpretações, posto que, havendo instrumento normativo, deve ser sumariamente respeitado e aplicado ao caso, até porque é de conhecimento que tal instrumento faz lei entre as partes a que se direcionou” (fls. 565-566).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o inc. XXVI do art. 7º da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo de instrumento, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    O Ministro Relator do caso no Tribunal Superior do Trabalho observou que:
+    “A agravante pugna pela reforma da decisão proferida. Sustenta que, nos embargos de declaração, pretendeu a manifestação expressa da Corte ‘a quo’ quanto à cláusula da norma coletiva que, para o reconhecimento de doença profissional, exige atestado do INSS como condição ‘sine qua non’, além de pronunciamento acerca da OJ n. 154 da SBDI-1, mas que restaram omissos tais questionamentos.
+    A respeito do tema, vale ressaltar que esta Corte, em sessão plenária, realizada no dia 12/10/2009, ao julgar o Incidente de Uniformização de Jurisprudência suscitado nos autos do processo TST-ERR-736.593/2001.0, concluiu pelo cancelamento da OJ n. 154 da SBDI-1, sob o fundamento de que carece de amparo jurídico a exigência constante de cláusula de instrumento normativo segundo a qual a doença profissional deve ser atestada por médico do INSS, como condição para o reconhecimento do direito à estabilidade.
+    Tal fato deve-se a idéia de que o direito à estabilidade não pode ser suprimido em face de mera falta de formalidade quanto à apuração de doença profissional pelo INSS. Com efeito, a forma como será apurada a doença, se pelo INSS ou por meio de perícia perante o Poder Judiciário, não pode se sobrepor ao fato de o trabalhador ser portador de uma enfermidade adquirida durante o contrato laboral, sob pena de a norma coletiva impedir o reconhecimento do próprio direito à estabilidade.
+    Portanto, ajuizada reclamação trabalhista buscando a reintegração no emprego tendo como fundamento doença profissional, e restando constatada a moléstia em juízo, o correspondente provimento judicial não pode ser afastado pelo simples fato da ausência de atestado do INSS.
+    Diante disso, não há margem para a alegação de afronta ao artigo 7°, XXVI, da CF/88, a pretexto da inobservância ao estabelecido em cláusula convencional.
+    Não há margem para que o instrumento coletivo condicione o exercício do direito de ação, constitucionalmente tutelado no inciso XXXV do artigo 5° da CF/88, ao preenchimento de requisito não previsto expressamente em lei, mormente quanto ao prévio exaurimento da via administrativa.
+    Por idêntico fundamento, não se pode admitir que essa mesma garantia seja mitigada pela inexistência de atestado do INSS, perfeitamente suprível pelo laudo pericial produzido em juízo, o qual goza das mesmas prerrogativas. Incólume, pois, o artigo 7º, XXVI, da Constituição da República” (fls. 528-528 v. - grifei).
+    Conforme se verifica, concluir de forma diversa do que foi decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos e a análise de cláusula de acordo coletivo, procedimentos incabíveis de serem adotados validamente em recurso extraordinário, nos termos do que dispõem as Súmulas n. 279 e 454 deste Supremo Tribunal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ESTABILIDADE PROVISÓRIA. APLICAÇÃO DE ACORDO COLETIVO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 719.914-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
