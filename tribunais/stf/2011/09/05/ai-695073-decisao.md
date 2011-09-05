@@ -1,0 +1,21 @@
+DECISÃO:
+    Vistos.
+    Agravo de instrumento interposto pela União contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 37, 40, § 8º, e 61, § 1º, inciso II, alínea “a”, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro que manteve a sentença de primeiro grau na parte em que decidiu “condenar a Ré a corrigir a pontuação do pólo ativo para fins de GDATA – Gratificação de Desempenho de Atividade Técnico-Administrativa –, apenas de modo a que se situe na casa de trinta pontos, desde a entrada em vigor da Lei 10.404/2002, até a entrada em vigor da Medida Provisória 198/2004, de 15/07/2004;” (fl. 45).
+    Aduz a agravante, nas razões do recurso extraordinário, que “estabelecendo a lei expressamente que a gratificação é paga com base na produtividade, encontrando-se atrelada à avaliação institucional e individual, não há de se admitir sua extensão indiscriminada aos inativos – que, por óbvio, não são passíveis de avaliação alguma – na mesma proporção devida aos servidores ativos, sob pena de atuar o Judiciário como legislador positivo, em clara afronta aos ditames da separação dos Poderes e da legalidade, albergados nos artigos 2º e 37 da Constituição de 1988” (fl. 88).
+    Pugna pela reforma do acórdão recorrido, nos seguintes termos:
+    “Na hipótese, todavia, de rechaçada tal argumentação, requer a União seja, ao menos, afastado o pagamento da GDATA em patamares superiores a 10 (dez) pontos, no interregno entre junho de 2002 e a conclusão dos efeitos do último ciclo de avalização (artigo 1º da Medida Provisória nº 198/2004), conforme já decidido por essa d. Corte” (fl. 90).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    O Plenário deste Supremo Tribunal Federal, na sessão de 19 de fevereiro de 2009, ao apreciar a questão de ordem suscitada pelo Ministro Presidente no Recurso Extraordinário nº 597.154/PB, reconheceu a existência de repercussão geral da matéria tratada nestes autos.
+    Na sessão Plenária de 29/10/09, por sua vez, esta Corte aprovou a Súmula Vinculante nº 20, consolidando o direito de servidores inativos receberem a Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) nesses termos, in verbis:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa- GDATA, instituída pela Lei 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete virgula cinco) pontos no período de fevereiro a maio de 2002 e,nos termos do art. 5º, parágrafo único, da Lei 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da Medida Provisória 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    Assim, como o acórdão recorrido (confirmando a sentença neste ponto) decidiu de forma mais benéfica para a União, ora agravante, uma vez que fixou a GDATA no patamar de 30 pontos no período em que esta Corte considerou aplicável o valor de 37,5 pontos, deixo de aplicar a orientação consolidada na referida súmula vinculante ao caso dos autos para que não fique configurada a reformatio in pejus.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 5 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
