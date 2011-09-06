@@ -1,0 +1,16 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública do Estado do Espírito Santo em favor de DIEGO REGO RIBEIRO, contra acórdão da Quinta Turma do Superior Tribunal de Justiça que deu provimento ao Resp 1.166.048/ES.
+    A impetrante narra, de início, que o Ministério Público do Estado do Espírito Santo ofereceu denúncia contra o paciente pela suposta prática do delito capitulado no art. 33, combinado com o art. 40, VI, ambos da Lei 11.343/2006.
+    Aduz, mais, que, diante do indeferimento do pedido de liberdade provisória, a defesa manejou writ no Tribunal de Justiça capixaba, tendo obtido êxito em seu pleito.
+    Contra essa decisão, o Ministério Público estadual interpôs recurso especial para o Superior Tribunal de Justiça, ocasião em que o Ministro Relator lhe deu provimento para restabelecer a decisão que havia indeferido o pedido de liberdade provisória, sendo o julgado mantido pela Quinta Turma da Corte Superior em sede de agravo regimental.
+    É contra esse decisum que se insurge a impetrante.
+    Alega, em suma, que o art. 44 da Lei 11.343/2006, o qual veda expressamente a liberdade provisória aos acusados da prática do crime de tráfico de drogas, vem sendo objeto de reflexão acerca de sua inconstitucionalidade e que, atualmente, encontram-se pendentes de julgamento pelo Plenário desta Corte dois habeas corpus que tratam do tema, quais sejam o HC 92.687/MG e o HC 100.949/SP.
+    Entende, ainda, que, nos termos dos arts. 543-B e 543-C do Código de Processo Civil, o STJ não poderia ter julgado o recurso especial em questão por se tratar de recurso representativo de controvérsia a qual teve a repercussão geral reconhecida pelo STF (RE 601.384/RS) e que a postura que deveria ter sido adotada pela Corte Superior seria a de sobrestar o referido recurso.
+    Sustenta, nessa esteira, que “se a constitucionalidade de um dos impedimentos abstratos trazidos pelo art. 44 da Lei de Drogas encontra-se em análise no âmbito do Supremo Tribunal Federal, nada melhor do que aguardar a manifestação da Corte Constitucional sobre a matéria”.
+    Requer, ao final, seja deferida medida liminar para recolher imediatamente o mandado de prisão expedido contra o paciente e permitir que aguarde em liberdade o julgamento definitivo deste writ. No mérito, pede a concessão da ordem para “garantir a liberdade do paciente até seu final julgamento, afastando-se a inconstitucional vedação apriorística prevista no art. 44 da Lei de Drogas” e, ainda, para “cassar a decisão proferida pelo Superior Tribunal de Justiça, sobrestando, via de consequência, o Resp 1.166.048/ES, até o julgamento do RE 601.384”.
+    É o relatório. Decido.
+    Este habeas corpus não comporta seguimento. Isso porque, em contato telefônico mantido pela Secretaria do Gabinete com a 5ª Vara Criminal da Serra - Comarca da Capital/ES, obteve-se a informação de que, em 30/3/2011, nos autos do Processo 048.08.025978-0, foi proferida sentença absolutória em favor do paciente, que se encontra em liberdade.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a este writ.
+    Publique-se.
+     Brasília, 6 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
