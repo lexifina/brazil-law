@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão do Colendo Tribunal Superior do Trabalho, no que interessa, assim ementado:
+    “I – RECURSO DE REVISTA INTERPOSTO PELA TELEMAR NORTE LESTE S.A. UNICIDADE CONTRATUAL. VÍNCULO DE EMPREGO. TERCEIRIZAÇÃO – LICITUDE. Decisão recorrida em conformidade com a Súmula nº 331, I, desta Corte, tendo em vista que, com fundamento no conjunto fático-probatório delineado, manteve a sentença na qual foi considerado que o vínculo de emprego do trabalhador está configurado com a tomadora dos serviços, uma vez que o trabalhador prestava serviços correspondentes às atividades-fim da empresa e a contratação por intermédio de várias empresas interpostas se configurou fraudulenta. Reexame do conjunto fático-probatório vedado nesta fase recursal (incidência da Súmula nº 126 do TST). Recurso não conhecido, nesse ponto” (fls. 1.462).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II e XXXVI; e 170, III, do texto constitucional e ofensa à Súmula Vinculante nº 10 do STF.
+    Nas razões recursais, alega-se que, ao reconhecer a ilegalidade da terceirização e reconhecer o vínculo empregatício diretamente com a recorrente, o acórdão recorrido teria violado o artigo 94, da Lei nº 9.472/97 e o artigo 25, da Lei nº 8.987/95, que permitem a terceirização, inclusive, em atividades-fim no campo das telecomunicações.
+    Decido.
+    O recurso não merece prosperar.
+    No presente caso, o acórdão recorrido decidiu que “conforme o quadro fático delineado, o Tribunal Regional manteve a sentença na qual foi reconhecido o vínculo de emprego com a recorrente, com base na valoração da prova testemunhal produzida pelo reclamante. Concluiu que o reclamante trabalhava, efetivamente, para a ora agravante, exercendo ocupação ligada à atividade-fim da empresa, de forma que a contratação por intermédio de várias empresas interpostas se configurou fraudulenta” (fls. 1.470).
+    Para se entender de forma diversa do que firmado pelo Tribunal a quo e decidir acerca da licitude da terceirização de serviços de que se cuida, faz-se imprescindível o reexame do conjunto fático-probatório constante dos autos, providência vedada na via do apelo extremo, nos termos da Súmula 279 do STF.
+    Ademais, o acórdão recorrido decidiu a controvérsia com base na legislação infraconstitucional aplicável ao caso. Evidencia-se, in casu, ofensa meramente reflexa aos dispositivos constitucionais invocados. Incide, portanto, a Súmula 636 desta Corte.
+     Nesse sentido: AI-AgR 745.486, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.6.2009; AI-AgR 762.271, Rel. Min. Eros Grau, Segunda Turma, DJe 20.11.2009; AI-AgR 751.904, Rel. Min. Dias Toffoli, Primeira Turma, DJe 6.8.2010 e AI-AgR 791.247, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 11.11.2010, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. TERCEIRIZAÇÃO. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE RELAÇÃO EMPREGATÍCIA E SOBRE A NATUREZA DA ATIVIDADE PRESTADA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+     Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+     Brasília, 6 de setembro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
