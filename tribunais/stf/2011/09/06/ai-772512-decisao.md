@@ -1,0 +1,26 @@
+DECISÃO:
+    Vistos.
+    Femina Clínica de Ginecologia e Obstetrícia S/C Ltda. interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário fundado na alínea “a” do permissivo constitucional.
+    O acórdão regional restou assim ementado:
+    TRIBUTÁRIO - CSLL E IRPJ - BASE DE CÁLCULO - SERVIÇOS HOSPITALARES - ABRANGÊNCIA - ART. 15, § 1º, III, "A", e ARTIGO 20 DA LEI Nº 9.249/95 - ART. 30 DA LEI 10.833/2003 - RETENÇÃO.
+    1 - O art. 15, § 1º, III, a, da Lei nº 9.249/95 e artigo 20 da Lei nº 9.249/95, ao fixar a base de cálculo mais reduzida para o IRPJ e CSSL incidente sobre os rendimentos da prestação de serviços hospitalares, teve em conta o maior custo embutido na receita bruta desses serviços, pela exigência de estrutura física (prédios, móveis, equipamentos, etc), humana (médicos, enfermeiros, etc) e operacional (prestação de serviços ininterruptos).
+    2 - A via estreita do mandado de segurança pressupõe a existência de direito líquido e certo e deve estar fundada em prova pré-constituída. Não há como aferir, apenas com os documentos juntados, se o impetrante tinha ou não o direito pleiteado. Ordem denegada, ressalvando-se à parte o recurso às vias ordinárias.
+    3 - A retenção das contribuições ao PIS e CSLL, nos termos do art. 30 da Lei 10.833/2003, sendo mera técnica arrecadatória, não ofende o princípio da isonomia.
+    No apelo extremo alega o recorrente violação ao disposto no artigo 150, II, e 246, 196 e 197 da Constituição Federal. Sustenta que a retenção das contribuições ao PIS, IRPJ e CSLL não poderia ser objeto de regulamentação por Medida Provisória, o que inquina de inconstitucional o regime instituído pelo art. 30 da Lei nº 10.833/2003 (conversão da MP 135/03). Aduz, ademais, violação do princípio da isonomia tributária ao se exigir que parte dos contribuintes tenha o valor das contribuições retidas, enquanto outra parcela fica excluída da norma. Requer, também, seja reconhecido o seu direito ao recolhimento do IRPJ e da CSLL, “sob o regime do lucro presumido, com bases de cálculo de 8% e 12%, respectivamente, tendo em vista que seus serviços são equiparados a serviços hospitalares”.
+    Contrarrazões, pela União, às fls. 63/79.
+    Decido.
+    A irresignação não merece prosperar.
+    O exame da controvérsia relativa à sistemática de retenção na fonte de tributos devidos por pessoas jurídicas prestadoras de serviços, introduzida pela Lei nº 10.833/03 situa-se no campo infraconstitucional.
+    Assim, eventual ofensa aos dispositivos constitucionais apontados como violados, caso ocorresse, seria meramente reflexa, o que não dá suporte ao presente recurso extraordinário.
+    Nesse sentido, confira-se:
+    TRIBUTÁRIO. IRPJ E CSL. INSTRUÇÃO NORMATIVA SRF 45/2000. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DA LEGALIDADE, IRRETROATIVIDADE E ISONOMIA TRIBUTÁRIA. OFENSA REFLEXA. 1. O Tribunal de origem decidiu a questão com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (IN/SRF 45 e Leis 9.964/2000, 9.718/1998 e 9.430/1996). Assim, eventual ofensa à Constituição Federal seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. 2. Agravo regimental a que se nega provimento. (RE 494.592-AgR, Rel. Min. Ellen Gracie, 2ª Turma, DJe 14/3/2011)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – CSLL. ALÍQUOTA DIFERENCIADA. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA TRIBUTÁRIA. IMPOSSIBILIDADE DE ATUAR O PODER JUDICIÁRIO COMO LEGISLADOR POSITIVO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 552.118-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 25/4/2011)
+    No mesmo sentido, confira-se, ainda, as seguintes decisões: AI 820.765, Rel. Min. Cármen Lúcia, DJe 6/12/10; RE 513.414, Rel. Min. Cezar Peluso, DJe 18/2/10; e RE 570.775, de minha relatoria, DJe 24/8/10.
+    Ademais, nos autos do AI nº 803.140/RS, de relatoria do Ministro Gilmar Mendes, o Tribunal, por meio do Plenário Virtual, decidiu pela ausência de repercussão geral da matéria concernente à definição de serviços hospitalares e afins, nos moldes previstos na Lei nº 9.249/95, para fins de caracterização da sujeição passiva tributária, uma vez que se circunscreve ao âmbito das normas infraconstitucionais, bem como demanda o reexame de fatos e provas, conforme ementa que segue:
+    Tributário. 2.Exceção prevista no artigo 15, §1º, inciso III, alínea “a”, da Lei 9.249/95, que prescreve os sujeitos passivos da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ) com bases de cálculo, respectivamente, de 12% e de 8% sobre receita bruta. Definição de serviços hospitalares e afins. 3. Discussão que se circunscreve ao âmbito normativo infraconstitucional, bem como que demanda o reexame dos aspectos fático-probatórios subjacentes aos requisitos do enquadramento pretendido. 4. Ausência de contencioso constitucional. Repercussão geral rejeitada.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 6 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
