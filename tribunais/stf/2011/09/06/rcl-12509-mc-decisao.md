@@ -1,0 +1,22 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada em favor de ANTONIO CARLOS DINIZ COSTA, contra decisão liminar proferida pelo relator da revisão criminal nº 0004319-75.2011.8.10.0000 (proc. nº 021056/2011), Desembargador Raimundo Nonato de Souza, do Tribunal de Justiça do Estado do Maranhão.
+    Consta da inicial que o reclamante foi condenado à pena de 4 (quatro) anos de reclusão pela prática dos delitos previstos nos artigos 12 e 18, inc. III, da Lei nº 6.368/76.
+    A sentença condenatória transitou em julgado no dia 28.08.2010.
+    Inconformada, a defesa do ora reclamante ajuizou revisão criminal, na qual requereu (a) o afastamento da causa de aumento de pena prevista no inc. III do art. 18 da Lei nº 6.368/76, (b) a substituição da pena privativa de liberdade por restritiva de direitos e, alternativamente, (c) a fixação do regime aberto para o cumprimento da pena.
+    O pedido de liminar foi indeferido pelo relator da revisão criminal ao fundamento de que estariam ausentes os requisitos autorizadores da medida de urgência pretendida.
+    Contra essa decisão, sobreveio a presente reclamação, na qual se alega que a decisão liminar proferida pelo relator da aludida revisão criminal teria contrariado o teor do enunciado da Súmula Vinculante 26 desta Corte, que possui a seguinte redação:
+    “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do art. 2º da lei n. 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo determinar, para tal fim, de modo fundamentado, a realização de exame criminológico”.
+    O reclamante requer, liminarmente, a suspensão da execução da sentença condenatória até o julgamento final da presente reclamação. No mérito, reproduz os pedidos formulados na revisão criminal, quais sejam: (a) o afastamento da causa de aumento de pena prevista no inc. III do art. 18 da Lei nº 6.368/76, (b) a substituição da pena privativa de liberdade por restritiva de direitos e, alternativamente, (c) a fixação do regime aberto para o cumprimento da pena.
+    É o relatório.
+    Decido.
+    A parte ora reclamante, pretendendo justificar a utilização da presente medida processual, invocou violação à autoridade da súmula vinculante nº 26, quando, na verdade, objetiva que esta Corte verifique o acerto ou desacerto dos fundamentos utilizados na decisão proferida pelo relator da revisão criminal em tramitação no Tribunal do Maranhão, ato decisório este desprovido de qualquer cunho de definitividade.
+    Nesse ponto, a jurisprudência deste Tribunal é firme no sentido de que a reclamação constitucional não pode ser utilizada como um atalho processual destinado à submissão imediata do litígio ao exame direto desta Suprema Corte.
+    Ademais, as funções constitucionais a que aludem os artigos 102, I, “l”, e 103-A, § 3º, todos da Constituição Federal, não atribuíram à reclamação a qualidade de sucedâneo recursal nem tampouco a configurou como instrumento viabilizador do reexame do conteúdo do ato reclamado.
+    Nesse sentido, cito, dentre outros tantos, Rcl 5.684-AgR/PE, rel. min. Ricardo Lewandowski, Rcl 5.465-ED/ES, rel. min. Cármen Lúcia, Rcl 4.713/SC, rel. min. Ricardo Lewandowski, Pet 2.847, rel. min. Carlos Velloso, Rcl 2.279/MA, rel. min. Ellen Gracie, Rcl 2.481/MS, rel. min. Carlos Velloso, Rcl 968/DF, rel. min. Marco Aurélio, merecendo destaque o seguinte julgado:
+    “(...) O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. (...).” (Rcl 6.534-AgR/MA, Rel. Min. CELSO DE MELLO, Pleno)
+    Por fim, ad argumentandum tantum, não há que se falar no recebimento da presente reclamação como habeas corpus, já que o Supremo Tribunal Federal não possui competência para processar e julgar habeas corpus contra ato da autoridade reclamada, uma vez que esta não figura no taxativo rol do art. 102, inc. I, “i”, da Constituição Federal.
+    Do exposto, nego seguimento à reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 06 de setembro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
