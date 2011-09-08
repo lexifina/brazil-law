@@ -1,0 +1,23 @@
+DECISÃO:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea "a" do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “QUESTÃO DE ORDEM. AGRAVO DE INSTRUMENTO. ERRO MATERIAL. FUNDAMENTOS DO VOTO.
+     Deve-se suscitar questão de ordem para alterar os fundamentos do voto, por erro material, adequando-os à decisão da Turma de dar parcial provimento ao agravo de instrumento” (fl. 57)
+    Opostos embargos de declaração (fls. 62 a 65), foram acolhidos para fins de prequestionamento (fls. 70 a 73).
+    Alega o recorrente contrariedade aos artigos 5º, incisos XXXV, LIV e LV, e 100 da Constituição Federal.
+    Sem contrarrazões (fls. 106v), o recurso extraordinário (fls. 90 a 105) foi admitido (fl. 108).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fls. 112/113 e 115) negou seguimento ao recurso especial interposto paralelamente ao extraordinário, sob o fundamento de que, “Tendo sido proferida decisão negando seguimento ao Resp n 760.762/RS, DJU de 21/6/2006, manejado contra o acórdão que julgou apelação desafiando sentença proferida na ação ordinária na qual foi deferido o pedido de tutela antecipada objeto do presente apelo, nada mais há a ser aqui examinado” (fls. 112/113).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão proferido em agravo de instrumento interposto contra decisão de Primeira Instância que deferiu a tutela antecipada.
+    Conforme salientado, o Superior Tribunal de Justiça consignou que a ação “perdeu seu objeto” (fl. 112), em razão do trânsito em julgado do recurso especial interposto contra o acórdão que apreciou o recurso de apelação da sentença de primeiro grau, à qual se vinculam os autos deste agravo de instrumento.
+    Com efeito, o acórdão proferido na apelação substitui a decisão monocrática que o precedeu, a qual, por isso, não pode mais produzir efeitos jurídicos; desse modo, a apreciação da pretensão formulada no presente recurso extraordinário encontra-se, assim, prejudicada pela decisão havida no segundo grau de jurisdição e posteriormente no julgamento do recurso especial.
+    É o que dispõe o artigo 512 do Código de Processo Civil, in verbis: “O julgamento proferido pelo tribunal substituirá a sentença ou a decisão recorrida no que tiver sido objeto de recurso”.
+    Nesse sentido, o trânsito em julgado da decisão proferida na ação principal implica ausência de interesse recursal no julgamento deste recurso extraordinário, diante da perda do objeto da decisão de primeiro grau, objeto do acórdão do agravo de instrumento que deu ensejo à interposição do apelo extremo ora examinado. Sobre o tema, anote-se:
+    “PROCESSO CIVIL . RECURSO EXTRAORDIN ÁRIO PREJUDICADO . SUBSTITUI Ç ÃO DO AC ÓRDÃO DO TRF PELO DO STJ . PRECLUS ÃO DAS QUEST ÕES CONSTITUCIONAIS : INEXIST ÊNCIA. 1. O acórdão do Superior Tribunal de Justiça substituiu o acórdão proferido pelo Tribunal Regional Federal, nos termos do art. 512 do CPC. Precedentes. 2. O recurso extraordinário, interposto do acórdão do TRF, no caso, está prejudicado pela perda superveniente de seu objeto. 3. Inexistência, no caso, de preclusão das questões constitucionais, notadamente porque foi interposto recurso extraordinário do acórdão que deu provimento ao recurso especial, tendo inclusive sido oferecidas contra-razões pela ora agravante. 4. Agravo regimental a que se nega provimento” (RE nº 524.069/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 4/5/11).
+    “RECURSO - INTERPOSIÇÃO SIMULTÂNEA DO ESPECIAL E DO EXTRAORDINÁRIO - PREJUÍZO. Ocorre o prejuízo do extraordinário quando o recorrente haja logrado êxito no julgamento do especial. O Direito é orgânico e dinâmico, sendo certo que, à luz do disposto no artigo 512 do Código de Processo Civil, o julgamento proferido pelo Tribunal substituiria a sentença ou a decisão recorrida objeto do recurso. AGRAVO - ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL - MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé.” (RE nº 436.109/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 26/8/05).
+    Ante o exposto, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o recurso extraordinário, dada a perda superveniente de seu objeto.
+    Publique-se.
+    Brasília, 8 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
