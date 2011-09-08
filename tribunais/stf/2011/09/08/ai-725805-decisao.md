@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Município de Governador Valadares interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI, e 37, inciso XIV, da Constituição Federal e artigo 17 do ADCT.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “SERVIDOR MUNICIPAL. PROFESSORES. BIÊNIO. SUPRESSÃO. LEI MUNICIPAL. ILEGALIDADE. AFRONTA A DIREITO ADQUIRIDO. QÜINQÜENIO E BIÊNIO. FUNDAMENTOS DISTINTOS. AUSÊNCIA. AFRONTA AO ART. 17 DO ADCT. SENTENÇA CONFIRMADA. - Uma vez adquirido o biênio, esse benefício integra a remuneração do servidor, sendo ilegal sua supressão. - Os adicionais qüinqüênio e biênio não se confundem, possuindo natureza distintas, já que o primeiro é devido a todo servidor público municipal, de modo geral, exigido apenas o transcurso do tempo de serviço, e o segundo, pago como um incentivo à docência, ligado a determinados cargos ou funções que exigem regime especial de trabalho”(fl. 214).
+    Opostos embargos de declaração (fls. 221 a 227), foram rejeitados (fls. 229 a 232).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem decidiu a controvérsia interpretando a legislação local pertinente (Lei Municipal nº 3.583/92 e Lei Complementar nº 15/98). Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Incidência da Súmula nº 280/STF. Anote-se:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MAGISTÉRIO. RESTABELECIMENTO DO PAGAMENTO DOS BIÊNIOS. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO MUNICIPAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 592.025/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 13/3/09)
+    “O Tribunal a quo, embora reconhecendo que alguns dos autores aposentaram-se após a edição da LC 645/89, do Estado de São Paulo, asseverou que eles não haviam completado o biênio exigido por esta norma para a concessão do adicional de magistério, no momento em que passaram à inatividade, desacolhendo sua pretensão por este fundamento. Estando essa questão restrita à observância da legislação paulista, é de se aplicar a Súmula 280 à espécie. Embargos de declaração rejeitados” (RE nº 203.260/SP-ED, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 4/10/02).
+    Nesse mesmo sentido a seguinte decisão: AI nº 775.309/MG, Relatora a Ministra Cármen Lúcia, Dje de 22/2/10.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 8 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
