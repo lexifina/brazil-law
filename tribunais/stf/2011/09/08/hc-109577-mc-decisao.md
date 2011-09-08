@@ -1,0 +1,12 @@
+Decisão: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que conheceu parcialmente da impetração ali ajuizada e, nessa extensão, recusou o pedido de anulação da ação penal a que responde o paciente pelos delitos de inserção de dados falsos em sistema de informações em concurso formal com estelionato (por 35 vezes), de corrupção passiva (por 14 vezes), lavagem de dinheiro (por 2 vezes) e formação de quadrilha.
+    2. Pois bem, em nome próprio, o paciente-impetrante insiste no pedido de anulação do processo-crime em curso na Justiça Federal do Mato Grosso. Isto sob a alegação de nulidade da citação para responder aos termos da acusação. Não é só: liminarmente, o acionante requer a extensão do benefício da liberdade provisória, concedido à corré Neramy Rodrigues da Silva.
+    3. Feita esta síntese do pedido, decido. Fazendo-o, anoto, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, não estão configurados, desde logo, os requisitos necessários à concessão da liminar. Para além do caráter evidentemente satisfativo da antecipação requerida nestes autos, o fato é que a leitura preambular das peças que instruem este processo não me permite enxergar a flagrante ilegalidade a que se reporta a inicial. Noutros termos: a análise preliminar do quadro empírico retratado pela autoridade impetrada não favorece o imediato acatamento das teses defensivas.
+    5. Esse o quadro, indefiro a medida liminar requerida; reservando-me, é claro, a um mais detido exame da causa por ocasião do julgamento de mérito deste HC.
+    Dê-se vista dos autos, inicialmente, à Defensoria Pública da União para postular o que entender de direito.
+    Publique-se.
+    Brasília, 08 de setembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
