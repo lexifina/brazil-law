@@ -1,0 +1,24 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário com agravo, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado (fls. 225):
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535. INEXISTÊNCIA DE INDICAÇÃO DE VÍCIO NO ACÓRDÃO RECORRIDO. MERAS CONSIDERAÇÕES GENÉRICAS. SÚMULA N. 284 DO STF, POR ANALOGIA. COMPENSAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. CONTRIBUIÇÃO PREVIDENCIÁRIA. BASE DE CÁLCULO. AUXÍLIO-DOENÇA. PRIMEIROS 15 DIAS DE AFASTAMENTO. NÃO INCIDÊNCIA.
+    1. Não merece acolhida a pretensão da recorrente, na medida em que não indicou nas razões nas razões do apelo nobre em que consistiria exatamente o vício existente no acórdão recorrido que ensejaria a violação ao art. 535 do CPC. Desta forma, há óbice ao conhecimento da irresignação por violação ao disposto na Súmula n. 284 do STF, por analogia.
+    2. Não se depreende do acórdão recorrido o necessário prequestionamento do referido dispositivo legal, tampouco da tese jurídica aventada nas razões recursais, deixando de atender ao comando constitucional que exige a presença de causa decidida como requisito para a interposição do apelo nobre (art. 105, inc. III, da CR/88). Incidência, também, da Sumula n. 211 desta Corte.
+    3. Está assentado na jurisprudência desta Corte que os valores pagos a título de auxílio-doença e de auxílio-acidente, nos primeiros quinze dias de afastamento, não têm natureza remuneratória e sim indenizatória, não sendo considerados contraprestação pelo serviço realizado pelo segurado. Não se enquadram, portanto, na hipótese de incidência prevista para a contribuição previdenciária. Precedentes.
+    4. Recurso especial parcialmente conhecido e, nessa parte, não provido.”
+    2. Pois bem, a parte recorrente aponta ofensa aos incisos XXXV e LIV do art. 5º, ao inciso IX do art. 93, ao art. 97, e à alínea “a” do inciso I do art. 195, todos da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame da legislação infraconstitucional pertinente (Lei 8.212/1991). Providência vedada na instância recursal extraordinária.
+    4. No mesmo sentido, vejam-se os AIs 767.064, sob a relatoria da ministra Cármen Lúcia; 771.671, sob a relatoria do ministro Eros Grau; e 779.293, sob a relatoria do ministro Ricardo Lewandowski; bem como o RE 556.469, sob a relatoria do ministro Cezar Peluso.
+    5. De mais a mais, a alegada violação ao princípio de cláusula de reserva de plenário, inscrita no art. 97 do Magno Texto, é despicienda, dado que o aresto impugnado não afastou a aplicação de lei ou ato normativo do Poder Público. Como salientou a instância judicante de origem no julgamento dos embargos de declaração (fls. 250/251):
+    “[...]
+    Depreende-se do acórdão embargado não ter havido a negativa de vigência aos artigos 60, § 3º, da Lei n. 8.213/91, 22, inc. I, e 28, § 9º, da Lei n. 8.212/91, tampouco a violação à cláusula de reserva de plenário prevista no art. 97 da Constituição da República, mas apenas a interpretação dos referidos dispositivos legais.
+    No julgado concluiu-se que os valores pagos a título de auxílio-doença e de auxílio-acidente não têm natureza remuneratória e sim indenizatória, não sendo considerados contraprestação pelo serviço realizado pelo segurado. Não se enquadram, portanto, na hipótese de incidência prevista para a contribuição previdenciária.
+    Dessarte, não era pressuposto de tal conclusão a declaração de inconstitucionalidade de lei federal.
+    [...]”
+    6. À derradeira, afronta às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta, de que é exemplo o AI 517.643-AgR, sob a relatoria do ministro Celso de Mello. Esta a ementa do julgado:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 08 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
