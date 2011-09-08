@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. TRIBUTÁRIO. IPTU. IMUNIDADE. ENTIDADE DE ASSISTÊNCIA SOCIAL. ART. 150, VI, DA CF. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. A imunidade tributária prevista no art. 150, VI, “c”, da CF alcança todos os bens das entidades assistenciais de que cuida o referido dispositivo constitucional. Precedentes: RE 357.175-AgR, 2ª Turma, Rel. Min. Gilmar Mendes, Dje de 14.11.2007 e RE n. 390.451-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10.12.2004 .
+3. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+5. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 194-195, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 160), verbis:
+    “Execução Fiscal. IPTU. Fundação que goza de imunidade, reconhecida judicialmente. Decisão que não se restringe a imóveis específicos, mas a todos aqueles de propriedade da recorrente. Recurso provido. Litigância de má-fé do agravado reconhecida.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 150, VI, “c” e § 4º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que não houve ofensa direta ao texto constitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    Isto porque ambas as Turmas desta Suprema Corte firmaram entendimento nos termos do qual a imunidade tributária prevista no artigo 150, VI, “c” e § 4º, da Constituição Federal abrange todos os bens das entidades beneficentes, estejam os mesmos em uso ou vagos. Nesse sentido, traz-se à colação os seguintes julgados, verbis:
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Decisão em consonância com a jurisprudência desta Corte. Imunidade tributária. Vedação de instituição de impostos sobre o patrimônio, renda e serviços relacionados com as finalidades essenciais das entidades. Artigo 150, VI, 'c' e § 4o, da Constituição. Entidade de assistência social. IPTU. Lote vago. Precedente. 4. Agravo regimental a que se nega provimento” RE n. 357.175-AgR, 2ª Turma, Relator o Ministro Gilmar Mendes DJe de 14.11.2007.
+    “Imunidade tributária do patrimônio das instituições assistenciais (CF, art. 150, VI, c): sua aplicabilidade de modo a afastar a incidência do IPTU sobre imóvel de propriedade da entidade imune, ainda quando alugado a terceiro, sempre que a renda dos aluguéis seja aplicada em suas finalidades institucionais: precedentes” RE n. 390.451-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10.12.2004 .
+    Demais disso, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor, verbis, “Para simples reexame de prova não cabe recurso extraordinário”.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 8 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
