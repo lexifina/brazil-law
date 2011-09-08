@@ -1,0 +1,30 @@
+DIREITO PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO. PEDIDO DE RECONSIDERAÇÃO. REPERCUSSÃO GERAL PRESUMIDA. AUXÍLIO-ACIDENTE. POSSIBILIDADE, OU NÃO, DE PAGAMENTO EM VALOR INFERIOR AO SALÁRIO MÍNIMO. ART. 201, § 2º, DA CF/88. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+1. A repercussão geral é presumida quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante desta Corte (artigo 323, § 1º, do RISTF ).
+2. O Supremo Tribunal Federal, no julgamento do RE 173.888, Relator o Mi8nistro Sydney Sanches, DJ de 11.11.94, decidiu pela auto-aplicabilidade do então § 5º do artigo 201 da CF/88, verbis: "nenhum beneficio que substitua o salario de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário-mínimo" (sem grifos no original).
+3. Recurso extraordinário a que se nega seguimento.
+    Decisão: Trata-se de pedido de reconsideração formulado por Edimar Baptista Fernandes em face da seguinte decisão proferida pelo E. Min. Eros Grau (fl. 89):
+    “DECISÃO: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos --- fixação da renda mensal inicial de aposentadoria por invalidez precedida de auxílio-doença com fundamento no disposto no art. 29 da Lei n. 8.213/91, com a redação que lhe foi conferida pela Lei n. 9.876/99 --- que será submetida a exame do Pleno, nos autos do RE n. 583.834, Relator o Ministro Carlos Britto.
+    Sendo assim, determino a devolução do presente feito ao Tribunal a quo para que, nos termos do artigo 543-B do Código de Processo Civil, aguarde lá, sobrestado, a decisão desta Corte a propósito do mérito da controvérsia”.
+    O recorrente alega que a controvérsia submetida à apreciação desta Corte no recurso extraordinário apontado como paradigma (RE 583.834, Relator o Ministro Carlos Britto) é distinta do tema destes autos.
+    Destaca que a matéria sub examine não se refere à fixação da renda mensal inicial de aposentadoria por invalidez precedida de auxílio-doença, mas sim à possibilidade, ou não, de o segurado do Instituto Nacional do Seguro Social – INSS perceber o benefício do auxílio-acidente em valor inferior ao salário mínimo.
+    Requer a reconsideração da decisão impugnada.
+    É o relatório. DECIDO.
+    Assiste razão ao recorrente. De fato, in casu, discute-se a possibilidade, ou não, da percepção do auxílio-acidente em valor inferior ao salário mínimo.
+    Noticiam os autos que o recorrente ajuizou ação de revisão de benefício previdenciário contra o recorrido, sustentando que a percepção do auxílio-acidente em valor inferior ao salário mínimo violaria o disposto no artigo 201, § 2º, da Constituição Federal, verbis:
+    “Art. 201 (...)
+    § 2º Nenhum benefício que substitua o salário de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salário mínimo.”
+    A ação foi julgada improcedente sob o fundamento de que “o benefício que o autor recebe – auxílio-acidente – é calculado sobre um percentual do salário de benefício, sendo complementar a este. Ao contrário do auxílio-doença e da aposentadoria, cujas naturezas jurídicas permitem a invocação do disposto no art. 201, § 2º, da CRFB” (fl. 36).
+    O recorrente apelou e o TJ/RJ negou provimento ao recurso em decisão assim ementada (fl. 56):
+    “PREVIDENCIÁRIO. SUMÁRIO. AÇÃO DE REVISÃO DE BENEFÍCIO. PRETENSÃO DE RECEBER AUXÍLIO-ACIDENTE NO PERCENTUAL EQUIVALENTE AO VALOR DO SALÁRIO MÍNIMO. IMPOSSIBILIDADE, UMA VEZ QUE A VERBA PREVIDENCIÁRIA EM QUESTÃO TEM NATUREZA INDENIZATÓRIA E CARÁTER COMPLEMENTAR, DE SORTE QUE É CALCULADA SOBRE O PERCENTUAL DO SALÁRIO DE BENEFÍCIO. INAPLICABILIDADE, IN CASU, DO ART. 201, § 2º, DA CRB. PRECEDENTES DESTE TRIBUNAL ESTADUAL. SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO INCENSURÁVEL. RECURSO CONHECIDO E DESPROVIDO. UNÂNIME.”
+    O recorrente afirma que “o critério adotado pelo recorrido na manutenção do benefício do recorrente ofende a regra do § 2º do art. 201 da Constituição Federal, pois seu benefício está sendo pago em valor inferior ao previsto pelo dispositivo legal em comento” (fl. 63).
+    Destaca ainda que “analisando-se a redação do § 2º do art. 201 da Carta Magna, verifica-se que não foi feita qualquer limitação a auto-aplicabilidade do citado dispositivo para determinados benefícios, pois para fazê-lo, conforme anteriormente citado, por se tratar de norma proibitiva, teria de ser expressa nesse sentido” (fl. 63).
+    É o relatório. DECIDO.
+    Ab initio, deixo de apreciar a existência da repercussão geral, uma vez que o artigo 323, § 1º, do RISTF dispõe que "tal procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+    O Pleno do Supremo Tribunal Federal, no julgamento do RE 173.888, Relator o Ministro Sydney Sanches, DJ de 11.11.94, fixou o seguinte entendimento:
+    “EMENTA: - Direito Previdenciário. - Previdência Social. - Benefício mínimo. - Gratificação natalina. É pacífica a jurisprudência do Supremo Tribunal Federal, nas Turmas e no Plenário, segundo a qual são aplicáveis, a partir de 05 de outubro de 1988, data da promulgação da Constituição Federal, as normas dos parágrafos 5. e 6. de seu art. 201, 'in verbis': 'nenhum beneficio que substitua o salario de contribuição ou o rendimento do trabalho do segurado terá valor mensal inferior ao salario-minimo', (paragrafo 5.); 'a gratificação natalina dos aposentados e pensionistas terá por base o valor dos proventos do mês de dezembro de cada ano' (paragrafo 6.). R.E. conhecido e provido.” (Sem grifos no original).
+    Ex positis, nego seguimento ao recurso extraordinário com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 8 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
