@@ -1,0 +1,2 @@
+Art. 19-A. Terão prioridade na tramitação o inquérito e o processo criminal em que figure indiciado, acusado, vítima ou réu colaboradores, vítima ou testemunha protegidas pelos programas de que trata esta Lei.
+Parágrafo único. Qualquer que seja o rito processual criminal, o juiz, após a citação, tomará antecipadamente o depoimento das pessoas incluídas nos programas de proteção previstos nesta Lei, devendo justificar a eventual impossibilidade de fazê-lo no caso concreto ou o possível prejuízo que a oitiva antecipada traria para a instrução criminal.
