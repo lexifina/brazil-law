@@ -1,0 +1,14 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo de instrumento, sob o fundamento de que a jurisprudência desta Corte firmou-se no sentido de que, por se tratar de norma de direito fundamental, o princípio da defesa do consumidor é aplicável a toda atividade econômica.
+    A agravante sustenta, em suma, que
+    “(...) a ocorrência da repercussão geral do tema foi decretada no Agravo de instrumento nº 762.184” (fl. 425).
+    Bem reexaminados os autos, verifico que a decisão merece reforma. Assim, reconsidero a decisão de fls. 418-419, e passo à análise do recurso.
+    Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “DESERÇÃO – Custas – Alegação de recolhimento parcial do preparo – inocorrência – Circunstância em que o recolhimento efetuado pelo apelante cumpriu exatamente o cálculo do preparo efetuado pela Serventia a fl. 231 e tal cálculo está em consonância com o artigo 4º, II e § 2º da Lei nº 11.608/2003 – Preliminar arguida pela apelada afastada.
+    RESPONSABILIDADE CIVIL – Transporte aéreo – impedimento, por preposto da ré, de embarque da autora para retornar ao país de origem – Danos morais e materiais caracterizados – Descumprimento contratual por culpa exclusiva da ré – Inteligência dos artigos 6º, inciso VI e 14 do Código de Defesa do Consumidor – Inaplicabilidade das regras de transporte aéreo previstas na Convenção de Montreal – Condenação da ré ao pagamento de R$ 1.932,79, a título de danos materiais, e ao pagamento de 10 vezes o valor da viagem de volta não usufruída, a título de danos morais, corrigidos a partir da data do ajuizamento e juros de mora de 1% ao mês a partir da citação, deve ser mantida como dispôs a r. sentença – Recurso não provido” (fls. 322).
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se ofensa aos arts. 5º, § 2º, e 178, caput, da mesma Carta.
+    No caso, o recurso extraordinário versa sobre matéria - subsistência das normas do Código Brasileiro de Aeronáutica e da Convenção de Varsóvia perante a regra constitucional da indenizabilidade irrestrita – cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (AI 762.184-RG/RJ, Rel. Min. Gilmar Mendes, posteriormente substituído pelo RE 636.331-RG/RJ, de mesma relatoria).
+    Isso posto, reconsidero a decisão de fls. 418-419, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário se discute questão que será apreciada no RE 636.331-RG/MG.
+    Publique-se.
+    Brasília, 9 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
