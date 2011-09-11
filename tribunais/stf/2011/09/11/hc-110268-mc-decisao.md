@@ -1,0 +1,15 @@
+DECISÃO
+LIMINAR – TRANCAMENTO DE AÇÃO – INADEQUAÇÃO.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente foi denunciado por infração do disposto no artigo 334, segunda parte, do Código Penal (descaminho), porque teria sido surpreendido na posse de mercadorias de origem estrangeira desacompanhadas de documentos relativos à internalização em território nacional. Os bens foram avaliados em R$ 3.692,94 e os tributos devidos totalizavam R$ 1.469,48.
+    O Juízo da 1ª Vara Federal e Juizado Especial Federal Criminal de Cascavel, Subseção Judiciária do Estado do Paraná, rejeitou a denúncia assentando a atipicidade.
+    O Ministério Público Federal interpôs recurso em sentido estrito. O Tribunal Regional Federal da 4ª Região negou-lhe provimento. Protocolou-se recurso especial – de nº 1.241.940/PR –, ao qual a Quinta Turma do Superior Tribunal de Justiça deu provimento, pois, embora o valor do imposto devido não superasse o parâmetro de R$ 10.000,00 fixado no artigo 22 da Lei nº 10.522/2002 e pudesse ser admitida a aplicação do princípio da bagatela, haveria reiteração de condutas criminosas por parte do acusado, que ostenta outros registros criminais pela prática do delito de descaminho, o que afastaria a hipótese de insignificância e consequente atipicidade da conduta.
+    A inicial deste habeas volta-se contra esse acórdão. A Defensoria Pública da União sustenta ser o caso de aplicar-se o princípio da insignificância, tendo em vista o disposto na Lei nº 10.522/2002. Diz da impossibilidade de instaurar ação penal, ante a inexistência de lançamento definitivo em virtude do valor da mercadoria apreendida e da vedação de propositura de ação civil considerado o patamar de R$ 10.000,00 previsto em lei. Aduz que o fato de existirem outros procedimentos criminais não se mostraria suficiente para descaracterizar a atipicidade da conduta, porquanto a questão relacionada à reincidência não compõe nem interfere na definição do delito como sendo de bagatela. Desse modo, ante o princípio da insignificância, ressalta a atipicidade do fato, não cabendo falar em crime.
+    Pede a concessão de liminar no sentido de trancar a ação penal movida contra o paciente, por ausência de justa causa. No mérito, pleiteia a confirmação da medida acauteladora que vier a ser deferida.
+    2. Em primeiro lugar, tem-se pedido que envolve o que buscado no julgamento do mérito, ou seja, o trancamento de ação mediante decisão interlocutória precária e efêmera. Em segundo lugar, embora pudesse cogitar da ressalva do entendimento pessoal quanto ao que vem sendo assentado pela Turma em termos de insignificância, considerado o descaminho, há dado que revela fugir a espécie de tantas outras situações jurídicas. O Superior Tribunal de Justiça proveu o recurso especial porquanto o paciente já teria incidido na mesma prática anteriormente.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 11 de setembro de 2011, às 21h25.
+Ministro MARCO AURÉLIO
+Relator
