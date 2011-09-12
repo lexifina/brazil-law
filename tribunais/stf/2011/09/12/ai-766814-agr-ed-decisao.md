@@ -1,0 +1,19 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário contra decisão de Turma do Supremo Tribunal Federal que rejeitou embargos de declaração porque extemporâneos.
+    2. Pois bem, o recorrente tenta, por via oblíqua, restabelecer a discussão de mérito da causa, utilizando-se de peça de recurso extraordinário inviável para o fim pretendido.
+    3. Ora, os embargos declaratórios foram opostos extemporaneamente e, por isso, rejeitados em decisão unânime da Segunda Turma (fl. 179). O único instrumento processual cabível para dar continuidade ao processamento do feito seria: a) a renovação dos embargos de declaração, com o fim de alegar eventual equívoco quanto à contagem dos prazos; ou b) a interposição de agravo regimental para comprovar que os embargos foram devidamente ratificados. Não subsiste, assim, a tese do recorrente de que seria possível a interposição de novo recurso extraordinário contra decisão proferida pelo próprio Supremo Tribunal Federal, criando um inédito caminho para forçar a análise do mérito da causa, originariamente, pelo Plenário. Não há previsão regimental ou legal para este artifício.
+    4. Ao contrário, a Lei 8.038/1990, que institui as normas procedimentais dos processos no STF, prevê, em seu art. 39, que, contra decisão do Presidente do Tribunal, de Seção, de Turma ou de relator, somente caberá o recurso de agravo.
+    5. Confira-se, a propósito, a ementa do AI 297.864-AgR-AgR, da relatoria do ministro Néri da Silveira:
+    “Recurso extraordinário interposto contra acórdão proferido por Turma do STF. Inviabilidade jurídica e constitucional. 2. Agravo regimental a que se nega provimento”.
+    6. Na decisão monocrática que negou seguimento ao recurso extraordinário, da qual originou o agravo regimental citado acima, o ministro Néri da Silveira assim se pronunciou, no que importa ao deslinde da causa:
+    “2. Não há como admitir, por absoluta inviabilidade jurídica e constitucional, o apelo ora interposto. Quando a Constituição, no art. 102, III, estipula que cabe recurso extraordinário de decisão em ‘única ou última instância’, à evidência, quer se referir a decisão de outro juízo ou tribunal; nunca, porém, de decisão do próprio Supremo Tribunal Federal. Assim sucede nas hipóteses de recurso extraordinário contra decisão de Juizado Especial (CF, art. 98, I) ou de Tribunal de segundo grau ou, ainda, de Tribunal Superior, nos casos em que admissível o apelo derradeiro”.
+    7. No caso, persiste íntegro o fundamento adotado para rejeitar os embargos de declaração, o qual não foi devidamente rebatido mediante o instrumento processual adequado.
+    8. Por outro aspecto, a jurisprudência do Supremo Tribunal Federal, quando evidenciado o caráter nitidamente protelatório do recurso, tem admitido a imediata execução da decisão objeto do recurso extraordinário, a fim de evitar que o intuito procrastinatório do recorrente impeça o trânsito em julgado da condenação penal.
+    9. Vejam-se, a propósito, os AIs 260.266-AgR-ED-ED, da relatoria do ministro Sepúlveda Pertence; 522.065-AgR-ED-ED, da relatoria do ministro Celso de Mello; e 387.912-AgR-AgR-ED-ED e 441.402-AgR-ED-ED, ambos da relatoria do ministro Nelson Jobim, este último assim ementado:
+    “Penal. Segundos embargos declaratórios. Manifesto caráter protelatório. Imediata execução da decisão objeto de RE, independentemente da publicação do acórdão. Comunicação ao Tribunal de Justiça do Rio de Janeiro. Embargos declaratórios rejeitados.”
+    10. À derradeira, anoto que a reiteração do extraordinário mal disfarça a natureza abusiva do recurso manejado, o que autoriza a execução imediata do julgado, independentemente de seu trânsito em julgado.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso e determino a imediata execução do julgado.
+    Publique-se.
+    Brasília, 12 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
