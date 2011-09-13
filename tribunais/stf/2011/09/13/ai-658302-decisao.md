@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Mato Grosso do Sul, que versa sobre a correção monetária de auxílio-alimentação dos policiais civis do estado. Transcrevo a ementa (fls. 317):
+    “E M E N T A – APELAÇÃO CÍVEL – COBRANÇA – POLICIAL CIVIL – OCUPANTES DO CARGO DE DELEGADO DE POLÍCIA – AUXÍLIO-ALIMENTAÇÃO E GRATIFICAÇÃO DE INATIVIDADE – PRELIMINAR – NULIDADE DO DECISUM – NEGATIVA DE PRESTAÇÃO JURISDICIONAL – REJEITADA – MÉRITO – REAJUSTE BIMESTRAL PREVISTO NO DECRETO N. 7.434/93 – AFASTADO – ARTIGO 28, § 1º, DA LEI 9.069/95 – INCIDÊNCIA – INAPLICABILIDADE DA GARANTIA CONSTITUCIONAL DE IRREDUTIBILIDADE DE VENCIMENTOS – PERDA INFLACIONÁRIA – CONCESSÃO DE EVENTUAL CORREÇÃO – DISPONIBILIDADE FINANCEIRA E ORÇAMENTÁRIA DO ESTADO – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+    Não há falar em negativa de prestação jurisdicional quando não examinada legislação que não era imprescindível para o desate da lide, ainda mais quando resta enfrentada a questão relevante ao deslinde da controvérsia, apta ao convencimento do sentenciante.
+    Com o advento do Plano Real, instituído pela Lei Federal n. 9.069/95, houve a revogação tácita do Decreto 7.751/94, o qual adotava a correção bimestral com base no IGPM/FGV, das obrigações pecuniárias instituídas por lei.
+    A garantia da irredutibilidade de vencimentos, insculpida no inciso XV do art. 37 da Constituição Federal, não é sucedâneo de correção monetária, o que exclui sua aplicação para corrigir a desvalorização da moeda decorrente dos efeitos da inflação.
+    A Lei n. 9.069/95 não impôs nenhuma obrigação à Administração Pública no sentido de ter que corrigir anualmente o valor relativo ao auxílio-alimentação, visto que tal prerrogativa é inerente ao Chefe de Governo, conforme a possibilidade e disponibilidade financeira e orçamentária do Estado.”
+    Alega-se, no recurso extraordinário, violação dos arts. 5º, XXXV, XXXVI, 37, XV, da Constituição.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos artigos 5º, XXXVI, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ademais, inexiste a alegada afronta ao art. 5º, XXXV, da Constituição, porquanto o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões que lhe foram postas.
+    Por fim, verifico que o acórdão recorrido solucionou a questão pela análise do direito local (Decretos Estaduais 7.433/93, 7.751/94 e 8.878/97 e Lei estadual 120/1980), o que faz incidir ao caso o óbice da Súmula 280. Nesse sentido: AI 444.064 , rel. min. Sepúlveda Pertence, DJ 18.08.2003; AI 659.169 . rel. Min. Cármen Lúcia, DJe 07.08.2010; RE 516.744 , rel. min. Eros Grau, DJ 26.03.2007.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de setembro de 2011.
+Ministro Joaquim Barbosa
+Relator
