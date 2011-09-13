@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Daiane Saraiva Lopes, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 174.599/RS impetrado àquela Corte, Relatora a Ministra Laurita Vaz.
+    Sustenta a impetrante, em síntese, a aplicação da teoria do crime impossível. Aduz, para tanto, que:
+    “(...)
+    No caso concreto, narra que no primeiro suposto fato, ocorrido no dia 20.07.2007, nas dependências de um shopping, a ré teria tentado furtar peças de roupas. Contudo, se depreende dos autos que os depoimentos do segurança e da responsável pelo estabelecimento divergem substancialmente, bem como ausente Auto de Prisão em Flagrante e depoimento da mesma. O que põe em dúvida a acusação posta, inclusive.
+    Em relação ao segundo fato, igualmente prática de furto tentado, consubstancia-se na tentativa de furto de uma cafeteira, avaliada em R$ 199,00. Cumpre frisar que, conforme já se verifica na própria denúncia, o furto não se consolidou (tentado), assim não trouxe nenhum prejuízo à vitima (estabelecimento comercial), devido a seu suporte econômico. Assim, não se verifica nem a ameaça iminente ao patrimônio.
+      Data maxima venia, não poderia o Tribunal afastar a configuração do 'crime impossível', in casu, e denegar a ordem ao heróico remédio de conteúdo constitucional, uma vez que claramente se verifica a impossibilidade de ocorrer o delito.
+    Configurado está o 'crime impossível' pois o sistema de segurança utilizado em lojas e de shoppings é extremamente eficaz, não deixando brechas para que furtos aconteçam. Isso é, todos os movimentos são monitorados e os vigias estão sempre alertas para quaisquer eventualidades... O sistema é tão eficiente que acompanha as centenas de pessoas que passam pelos corredores das lojas e dos shoppings diariamente.
+      Em hipótese alguma o delito se consumaria. A qualquer momento a ação ilícita poderia ter sido evitada, sendo que, ante a vigilância efetiva, impossível seria a lesão ao bem jurídico tutelado, pois a res nunca saiu da esfera de disponibilidade da Loja. Portanto, foi correta a decisão que julgou pela rejeição da denúncia, na medida em que a impossibilidade do crime leva a inexistência do mesmo, corolário lógico: a absolvição” (fls. 4/5 da inicial).
+    Defende, ainda, a aplicação do princípio da insignificância ao argumento de que, verbis:
+    “(...) a ação da Paciente não ameaçou ou ofendeu substancialmente o bem jurídico tulelado pela norma penal, até porque, a vítima teve seu bem recuperado.
+      Diante destas perlustrações, é de se notar que o caso em tela se coaduna perfeitamente ao princípio bagatelar. Da conduta do agente não resultou dano ou perigo concreto relevante, de modo a lesionar ou fazer periclitar o bem na intensidade reclamada pelo Princípio da Ofensividade, acolhido na vigente Constituição da República (art. 98, inciso l), pois sua conduta não causou em momento algum dano relevante pelo inexpressivo valor da res furtiva e pelo fato ter sido na forma TENTADA, objetos avaliados em R$ 853,67 (oitocentos e cinquenta e três e sessenta e sete centavos) e, no dia 23/07/2009, no interior de outro estabelecimento comercial, tentou subtrair, uma cafeteira, no valor de R$ 199,00 (cento e noventa e nove reais, não poderia causar um dano suficiente de modo a submeter o paciente ao cárcere.
+    Devido a irrelevância social daquele fato, trata-se, sem sombra de dúvida, de crime de bagatela, onde se autoriza a aplicação do Princípio da Insignificância” (fl. 8 da inicial).
+    Requer, liminarmente, a concessão da ordem para o fim de absolver a paciente dos delitos por ela praticados, seja em razão da teoria do crime impossível ou em razão do princípio da insignificância (fl. 10 da inicial).
+    Indeferi o pedido de liminar e solicitei informações ao Juízo de Direito da 10ª Vara Criminal do Foro Central de Porto Alegre/RS. As informações foram devidamente prestadas e nelas tem-se a notícia de que foi declarada a extinção da punibilidade da paciente, tendo em vista a notícia de seu falecimento no curso da instrução processual (Petição/STF nº 39.543/11).
+    Ante o exposto, nos termos dos arts. 21, inciso IX, do RISTF e 38 da Lei nº 8.038/90, julgo prejudicado o habeas corpus.
+    Publique-se.
+    Brasília, 13 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
