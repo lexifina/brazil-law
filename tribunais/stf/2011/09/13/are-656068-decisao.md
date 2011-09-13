@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AUTO DE INFRAÇÃO LAVRADO PELA SUPERINTENDÊNCIA NACIONAL DO ABASTECIMENTO – SUNAB. LEI DELEGADA N. 4/1962 E CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 2ª Região:
+    “ADMINISTRATIVO. SUNAB – ANULAÇÃO DE AUTO DE INFRAÇÃO – TABELA DE PREÇOS. AFIXAÇÃO. LUGAR VISÍVEL. SONEGAÇÃO DE GÊNEROS.
+    1 – A competência da SUNAB para fiscalizar e regular preços de mercado tem sede na Lei Delegada n. 4/62, que autoriza a União Federal a intervir no domínio econômico para assegurar a livre distribuição de mercadorias e serviços essenciais ao consumo e uso do povo; o que abrange a política de fixação de preços (art. 2º, II).
+    2 – O regramento em epígrafe foi recepcionado pela atual Ordem Constitucional, na medida em que consentâneo com o disposto no § 3º do art. 174 do Texto Básico, não encontrando óbice no princípio da livre concorrência (art. 170, IV, CF/88), dada a incidência do princípio da unidade, a impor harmonização com os demais primados constitucionais, especialmente aquele atinente à defesa do consumidor (art. 170, V, CF/88).
+    3 – Fixadas essas premissas, no mais, é observar que toda a prédica recursal se encontra arrimada no cumprimento constante das normas atinentes ao tabelamento de preços, havido à época; próxima aos itens comercializados, e relativa à sonegação de gêneros, tal como consta do auto de infração (fls. 18, transcrita na sentença à fl. 125).
+    4 – Com efeito, não conseguiu a parte autora afastar a presunção de legitimidade do ato administrativo de autuação. E, nos termos do inciso I do art. 333 do CPC, cabe ao autor a prova do fato constitutivo do seu direito capaz de desfazer o título. Entretanto, se não demonstrar convenientemente um fato alegado prevalece a presunção de certeza que emana do título.
+    5 – Por derradeiro, como cediço, aplicar multa não se confunde com tributar, pelo que descabidas, outrossim, as ponderações adunadas no apelo.
+    6 – Apelação conhecida, porém desprovida” (fl. 167).
+    3. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, inc. II, e 150, inc. I, da Constituição da República.
+    Argumenta que “comprovou a absoluta ausência de sustentação fática na autuação ora combatida” (fl. 210).
+    Sustenta que “o auto de infração é nulo. A Lei exige que procedimentos certos sejam realizados e os mesmos não foram cumpridos” (fl. 212).
+    4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que não teria havido contrariedade direta à Constituição da República (fls. 233-241).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. O Supremo Tribunal Federal assentou que a Lei Delegada n. 4/1962 foi recepcionada pela Constituição da República:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. LEI DELEGADA N. 4/62. RECEPÇÃO PELA CONSTITUIÇÃO DE 1988. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de norma infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Este Tribunal possui orientação no sentido de que a Lei Delegada n. 04/62, que trata do poder de intervenção da União no domínio econômico, garantindo os serviços essenciais e a livre distribuição de mercadorias para consumo e uso, foi recepcionada pela Constituição de 1988. Precedentes. Agravo regimental a que se nega provimento” (AI 603.879-AgR, Rel. Min. Eros Grau, DJ 8.9.2006 - grifos nossos).
+    8. O Tribunal de origem decidiu a controvérsia com base na Lei Delegada n. 4/1962 e no Código de Processo Civil.
+    Concluir de modo diverso do acórdão recorrido demandaria a análise daquela legislação infraconstitucional, o que não é viável em recurso extraordinário.
+    Ademais, a pretensa contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice na Súmula n. 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. SÚMULA STF Nº 636. 1. Acórdão de origem que assentou a legitimidade de auto de infração lavrado pela extinta Superintendência Nacional do Abastecimento - SUNAB, com fundamento na legislação ordinária (Portarias Super 53/90 e 193/91 da SUNAB e Lei Delegada 4/62). 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa ao princípio da legalidade, pretende-se a exegese de legislação infraconstitucional. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. Incidência da Súmula STF nº 636. 3. Agravo regimental improvido” (RE 389.398-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 7.11.2003).
+    “CASO EM QUE ENTENDIMENTO DIVERGENTE DO ADOTADO PELO ACÓRDÃO RECORRIDO EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. A alegada ofensa à Carta da República, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. De outra parte, foi conferida prestação jurisdicional adequada, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante. Incidência, no caso, da Súmula 636 do STF. Agravo desprovido” (AI 528.871-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 9.12.2005).
+    9. Nada há a prover quanto às alegações da Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
