@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CIVIL. USUCAPIÃO. IMÓVEL FINANCIADO COM RECURSOS DO FUNDO DE GARANTIA POR TEMPO DE SERVIÇO – FGTS. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO FUNDAMENTADO. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal Regional Federal da 4ª Região, que decidiu:
+    “AÇÃO DE USUCAPIÃO. IMÓVEL OBJETO DE CONTRATO DE COMPRA E VENDA, EM QUE A CAIXA ECONÔMICA FEDERAL FIGUROU COMO CREDORA. FINANCIAMENTO COM RECURSOS DO FGTS. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. 1. Não é passível de ser adquirido por usucapião o imóvel financiado com recursos do FGTS relativos à carteira habitacional. 2. Sentença mantida” (fl. 166).
+    2. Os Recorrentes alegam que o Tribunal a quo teria contrariado os arts. 5º, inc. LV, 93, inc. IX, e 173, § 1º, inc. II, da Constituição.
+    Argumentam que:
+    “No que pertine a ilegitimidade da Caixa Econômica Federal acolhida pelo nobre julgador ‘a quo’, tem-se que tal entendimento não deve prevalecer. Isso porque a CEF detém toda a autonomia para veiculação, oferta e venda do imóvel usucapiendo, figurando a ENGEA [EMGEA] como proprietária para efeitos da matrícula imobiliária.
+    (...)
+    Logo, evidente fica que, no caso em apreço, que o acórdão ora hostilizado, ao declarar a impossibilidade de adquirir por usucapião imóvel supostamente financiado com recurso do FGTS relativos à carteira habitacional, não encontra respaldo frente aos preceitos descritos no inc. II do § 1º do art. 173 da CF, uma vez que julgou, equivocadamente, contrário ao dispositivo constitucional” (fls. 170 e 183).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste aos Recorrentes.
+    Quanto à alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República, anote-se, inicialmente, que o acórdão recorrido apresentou suficiente fundamentação, embora em sentido contrário à pretensão dos Recorrentes. E, tal como se firmou na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    4. Registre-se o que observado pela Desembargadora Federal Relatora:
+    “o imóvel em questão não é passível de ser adquirido por usucapião, pois financiado com recursos do FGTS relativos à carteira habitacional.
+    O imóvel está atrelado a um financiamento revestido de função social estabelecida em lei. Deve-lhe ser atribuído o mecanismo de proteção dispensado aos bens públicos” (fl. 164 v.).
+    Concluir de forma diversa do que decidido pelas instâncias originárias exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Leis n. 4.380/1964 e 8.036/1990). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “CONSTITUCIONAL. CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. USUCAPIÃO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal ‘a quo’ demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido” (AI 586.219-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.9.2009).
+    5. Ressalte-se, ao final, que este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional (Lei de Introdução ao Código Civil), configurariam apenas ofensa constitucional indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+    Nada há a prover quanto às alegações dos Recorrentes.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
