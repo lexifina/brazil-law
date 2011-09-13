@@ -1,0 +1,19 @@
+Decisão: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal Militar. Acórdão que deu pela competência da Justiça Castrense para o processamento dos pacientes pelo delito de uso de documento falso (art. 315 do CPM).
+    2. Pois bem, a Defensoria Pública da União, impetrante, insiste no pedido de declaração da incompetência absoluta da Justiça Militar para o julgamento dos pacientes. Isto sob a alegação de que
+    “[...] a denúncia imputa aos ora pacientes a prática de infração penal em detrimento de bens, serviços e interesses da CAIXA ECONÔMICA FEDERAL, que é uma empresa pública da UNIÃO. Assim, tem-se que a competência para processar e julgar infrações penais dessa natureza pertence à Justiça Federal, consoante a norma prevista no artigo 109, inciso IV, da Constituição da República.”
+    3. Nessa contextura, a acionante postula, liminarmente, a suspensão da ação penal militar nº 0000037-39.2009.7.06.0006, em curso na 6ª CJM.
+    4. Ultimada esta síntese da causa, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    5. No caso, tenho por atendidos os pressupostos da antecipação requerida na inicial deste habeas corpus. E assim afirmo porque no julgamento do HC 84.653, da relatoria do Ministro Sepúlveda Pertence, este Supremo Tribunal Federal admitiu a possibilidade de o juiz adiantar o juízo desclassificatório, sempre que “da qualificação jurídica do fato imputado depender a fixação da competência ou a eleição do procedimento a seguir”. Nesse mesmo sentido foi que a Segunda Turma desta Casa Brasileira de Justiça julgou o HC 94.226, de minha relatoria.
+    6. E o que se deu na concreta situação destes autos? O Juiz-Auditor da 6ª CJM, ao examinar a denúncia formalizada pelo Ministério Público Militar, deu pela suposta ocorrência de delito de estelionato contra a Caixa Econômica Federal e, por consequência, pela incompetência da Justiça Castrense. Leia-se:
+    “[...] a falsificação da declaração de reengajamento foi apenas meio para a realização do crime de estelionato, que teve como sujeito passivo a CEF.
+    Por outro lado, a infração penal em comento foi praticada contra a ordem financeira, razão pela qual deve incidir o art. 109, VI da CF, sendo competente a Justiça Federal.”
+    7. Assim postas as coisas, e mesmo considerando a tese prevalecente no julgamento do HC 98.526, da relatoria do ministro Ricardo Lewandowski, tenho que o caso é de deferimento da medida liminar. Isso porque nada há na denúncia que indique a vontade dos pacientes de se voltarem contra as Forças Armadas, tampouco a de impedirem a continuidade de eventual operação militar. Pelo que inexiste sinalização de que, deliberadamente, eles, pacientes, praticaram qualquer ato para se contrapor a instituição militar ou a qualquer de suas específicas finalidades, ou operações. Tudo a autorizar, por medida de cautela, a suspensão do andamento da ação penal 0000037-39.2009.7.06.0006 da 6ª CJM.
+    8. Dê-se vista dos autos à Procuradoria-Geral da República.
+    Comunique-se, com urgência.
+    Publique-se.
+    Intime-se.
+    Brasília, 13 de setembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
