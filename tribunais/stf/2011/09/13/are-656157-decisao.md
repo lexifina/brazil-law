@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário com agravo em face de decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça de São Paulo assim ementado:
+    “ANULATÓRIA – Multa aplicada pelo Réu pelo atraso no envio de documentos – Penalidade imputada em razão do regular exercício do Poder de Polícia do Tribunal de Contas do Estado – Observância à legislação pertinente – Art. 104, inc. II, da Lei Complementar Estadual nº 709/93 – O controle jurisdicional sobre decisões dos Tribunais de Contas é admissível, mas apenas para coibir ilegalidades e não para discutir os critérios adotados na dosagem da pena aplicada”. (fl. 341)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve violação ao artigo 5º, LV, do Texto Constitucional.
+     O recorrente defende, em síntese, que houve ofensa ao princípio do contraditório e da ampla defesa, em razão de sua não intimação pessoal “conforme decisão expressa no despacho de sanção e seguindo o que determina a Lei Estadual 709/93, artigos 90 e 91”. (fl. 386)
+    Decido.
+    Não assiste razão ao agravante.
+    A jurisprudência desta Corte firmou o entendimento no sentido de que a alegação de ofensa às garantias constitucionais do contraditório e da ampla defesa (art. 5º, LV, da CF) são insuficientes para viabilizar o processamento de recurso extraordinário quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido, AI-AgR 610.585, Rel. Min. Ayres Britto, 1ª Turma, DJe 5.5.2009, AI-AgR 752.841, Rel. Min. Ellen Gracie, 2ª Turma, DJe 25.6.2010 e AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, DA CF. OFENSA INDIRETA. ALEGADA OFENSA AO ART. 5º, II, DA CONSTITUIÇÃO. SÚMULA 636 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III Agravo regimental improvido”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 13 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
