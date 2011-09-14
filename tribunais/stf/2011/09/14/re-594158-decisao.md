@@ -1,0 +1,25 @@
+Decisão:
+    Augusto Cesar Soares Meirelles e outro (a) interpõem recurso extraordinário com fundamento na alínea a do permissivo constitucional contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. INDENIZAÇÃO DE HORAS EXTRAS EFETIVAMENTE TRABALHADAS. INCIDÊNCIA. MULTA. ALEGAÇÃO DE NATUREZA CONFISCATÓRIA. ATUALIZAÇÃO DO CRÉDITO TRIBUTÁRIO PELA TAXA SELIC. 1. A denominação não é determinante da natureza jurídica do instituto, daí porque se o pagamento visa remunerar o trabalho prestado em horário extraordinário, constitui salário, malgrado tenham-no chamado indenização os contraentes. 2. O pagamento feito pelo empregador ao empregado, mercê de horas extras trabalhadas, não pode ser havido como indenização do tempo de folga perdido, mas, sim, como retribuição pelos serviços prestados, daí porque é legítima a exigência do Fisco do imposto de renda incidente sobre o valor pago. 3. A Declaração Anual de Rendimentos, retificadora da original, substitui a primeira em todos os seus termos, daí porque o contribuinte que omite rendimentos tributáveis sujeita-se ao pagamento da multa correspondente à infração. 4. A Constituição Federal não tratou do tema "multa" daí porque discipliná-la é tarefa afeta ao legislador ordinário. 5. Na expressão "tributo com efeito de confisco" grafada pelo constituinte, não se compreende a multa, porquanto multa não é tributo. 6. A partir de 1.º de janeiro de 1996, a atualização dos créditos tributários devem observar unicamente a taxa SELIC (art. 39, § 4.º, da Lei n.º 9.250/95).7. Apelação dos autores improvida.8. Apelação da Fazenda Nacional e remessa oficial improvidas.” (fls. 392):
+    No recurso extraordinário, o recorrente alega ofensa ao artigo 7º, inciso XIV da Constituição Federal.
+    Às fls. 475, a decisão que admitiu o apelo extremo.
+    Interposto recurso especial, o mesmo teve seu seguimento negado (fls. 512/515).
+    Decido.
+    No que se refere ao artigo apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo se assim não fosse não prosperaria a irresignação. A jurisprudência desta Corte é firme no sentido de que a definição da natureza jurídica de verbas (se indenizatórias ou salariais), para fins de incidência do imposto de renda, pressupõe a prévia análise da legislação infraconstitucional, sendo que a suposta ofensa à Constituição Federal, se ocorresse, seria indireta. Nesse sentido, anote-se:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. INCIDÊNCIA SOBRE VERBAS PAGAS POR OCASIÃO DA RESCISÃO DO CONTRATO DE TRABALHO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. TRÂNSITO EM JULGADO DE RECURSO ESPECIAL. SÚMULA 283 DO STF. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido decidiu a questão com base na legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    II - Com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça, tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido (Súmula 283 do STF).
+    III - Agravo regimental improvido” (AI nº 682.072/SP-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe de 17/4/09).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSTO DE RENDA. INCIDÊNCIA. VALORES RECEBIDOS A TÍTULO DE GRATIFICAÇÃO POR RESCISÃO DE CONTRATO DE TRABALHO. CARÁTER JURÍDICO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA.
+    1. O Tribunal a quo não se manifestou explicitamente sobre o tema constitucional tido por violado. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. Controvérsia decidida à luz de legislação infraconstitucional. Ofensa indireta à Constituição do Brasil.
+    Agravo regimental a que se nega provimento” (AI nº 702.206/SP-AgR, Relator o Ministro Eros Grau, Segunda Turma, DJe de 27/2/09).
+    De mais a mais, o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do AI nº 705.941/SP, Relator o Ministro Cezar Peluzo, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A decisão do Plenário está assim ementada:
+    “RECURSO. Extraordinário. Incognoscibilidade. Rescisão de contrato de trabalho. Verbas rescisórias. Natureza Jurídica. Definição para fins de incidência de Imposto de Renda. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a definição da natureza jurídica de verbas rescisórias (salarial ou indenizatória), para fins de incidência de Imposto de Renda, versa sobre matéria infraconstitucional ” (Dje n.º 71, publicado em 23/04/2010)
+    Ante o exposto, nego seguimento ao recurso extraordinário
+    Publique-se.
+    Brasília, 14 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
