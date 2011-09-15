@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal Superior do Trabalho julgou improcedente pedido formulado em ação rescisória, ante fundamentos assim sintetizados (folha 3.672, anverso e verso):
+    AÇÃO RESCISÓRIA. DECISÃO RESCINDENDA. DECRETO-LEI Nº 2284/1986. CONVERSÃO DE SALÁRIOS DE CRUZEIROS PARA CRUZADOS.
+    Decisão rescindenda proferida em sede de ação rescisória, na qual a Subseção II Especializada em Dissídios Individuais desta Corte, após afastar a declaração de decadência do direito de ajuizar ação rescisória, adentrou o julgamento do mérito e deu provimento ao recurso ordinário interposto pela Companhia Espírito Santense de Saneamento - CESAN, a fim de julgar procedente a ação rescisória por esta ajuizada, consignando a tese de que -a conversão de salários de cruzeiros para cruzados, nos termos do Decreto-Lei nº 2284/1986, não afronta direito adquirido dos empregados-. Ação rescisória ajuizada pelos réus, com fundamento no art. 485, V e IX, do CPC, sob alegação de que alguns deles não foram regularmente citados.
+    ART. 47, PARÁGRAFO ÚNICO, DO CPC.
+    No termos do § 1º do art. 214 do CPC, o comparecimento espontâneo do Réu supre a falta de citação. O simples ato de contestar é o bastante para elidir eventual vício ou ausência de citação, não se exigindo a presença física do Réu, pois a mens legis do dispositivo é rechaçar a mácula quando inequivocamente demonstrado que o ato de comunicação, no caso, a citação, ainda que irregular, cumpriu seu desiderato. Outrossim, o próprio advogado dos Réus, ora Autores, no processo matriz, em sessão de julgamento do processo originário, no âmbito do TRT, declarou a ciência das notificações por todos os litisconsortes passivos. Portanto, inexiste o vício de citação invocado.
+    ART. 678, I, -c-, 2, DA CLT.
+    Se, mesmo nos casos de extinção do processo, sem resolução de mérito, o Tribunal ad quem está autorizado a adentrar o mérito da causa, em sendo a matéria exclusivamente de direito, tal possibilidade faz-se ainda mais evidente nas hipóteses em que, no tribunal a quo houve julgamento de mérito. A decisão rescindenda, ao afastar a declaração de decadência do direito de ajuizar ação rescisória, e adentrar o exame da questão de fundo, não incorreu na vulneração do dispositivo legal em epígrafe. Inteligência do art. 515, § 3º, do CPC c/c a Súmula nº 100, VII, desta Corte.
+    ERRO DE FATO.
+    Alegação dos autores de que o julgador originário examinou a demanda com percepção de que a pretensão dos reclamantes seria o reajuste salarial, quando o que ocorre, na realidade, é a busca da manutenção dos novos padrões salariais já consumados antes do advento da norma legal (Decreto-Lei nº 2.284/86). Ausência de erro de percepção, porquanto no julgado rescindendo houve exame da controvérsia exatamente sob o ângulo do critério adotado para a conversão dos salários em virtude da alteração do padrão monetário.
+    [...]
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília – Residência, 15 de setembro de 2011 – 10h 15.
+Ministro MARCO AURÉLIO
+Relator
