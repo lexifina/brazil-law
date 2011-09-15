@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão assim ementado:
+    “EMBARGOS INFRINGENTES – TAXA DE LIMPEZA PÚBLICA – LEI MUNICIPAL 5.641/1989 – SERVIÇO PÚBLICO INDIVISÍVEL E INESPECÍFICO – INCONSTITUCIONALIDADE – PRECEDENTES DO STF. Padece de inconstitucionalidade a Taxa de Limpeza Pública cobrada pelo Município de Belo Horizonte com base na Lei Municipal nº 5.641/89, em razão de se tratar de prestação de serviço desfrutada pelo cidadãos de forma genérica (uti universi), não sendo possível dividir ou especificar a parcela de atuação estatal utilizada individualmente por cada cidadão. Precedentes do STF.” (pág. 68 do documento eletrônico).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 145, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Supremo Tribunal Federal firmou entendimento no sentido da inconstitucionalidade da cobrança da taxa de limpeza pública, uma vez que não há a individualização dos serviços postos à disposição ou prestados, além de existir identidade com a base de cálculo de imposto. Nesse sentido:
+     “EMENTA: IMPOSTO PREDIAL E TERRITORIAL URBANO - IPTU. IMUNIDADE TRIBUTÁRIA. TAXA DE ILUMINAÇÃO PÚBLICA E TAXA DE COLETA DE LIXO E LIMPEZA PÚBLICA. MUNICÍPIO DE BELO HORIZONTE. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. 1- Para se aferir a imunidade tributária reconhecida pelo tribunal a quo seria necessário o reexame de fatos e provas. Incidência da Súmula 279 deste Tribunal. 2- A jurisprudência deste Supremo Tribunal é pacífica quanto à inconstitucionalidade da cobrança das taxas de iluminação pública e de coleta de lixo e limpeza pública. Precedentes.” (AI 481.619-AgR/MG, Rel. Min. Cármen Lúcia).
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IPTU. IMUNIDADE. INSTITUIÇÃO DE ENSINO. Imunidade tributária prevista no artigo 150, VI, c, da Constituição de 1988. Não impede o alcance do benéfico a circunstância de o imóvel encontrar-se locado. Precedentes. Agravo regimental a que se nega provimento.” (AI 527.892-AgR/MG, Rel. Min. Eros Grau).
+    “EMENTA: TRIBUTÁRIO. TAXAS DE LIMPEZA PÚBLICA E DE ILUMINAÇÃO PÚBLICA DO MUNICÍPIO DE BELO HORIZONTE. INCONSTITUCIONALIDADE. A decisão agravada está em conformidade com o entendimento firmado por ambas as Turmas desta Corte no sentido de que as Taxas de Limpeza Pública e de Iluminação Pública, instituídas pela Lei 5.641/1989 do Município de Belo Horizonte, são inconstitucionais. Agravo regimental a que se nega provimento.” (AI 505.095-AgR/MG, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (RISTF, art. 21, IX).
+    Publique-se.
+    Brasília, 15 de setembro de 2011.
+Ministro Ricardo Lewandowski
+Relator
