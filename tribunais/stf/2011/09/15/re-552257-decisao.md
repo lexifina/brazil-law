@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e b, da Constituição) interposto contra acórdão de Turma Recursal de Juizado Especial Federal que determinou o pagamento integral e sem parcelamento do percentual de 3,17%, reconhecido pela Medida Provisória 2.225/2001, sobre os vencimentos dos servidores públicos federais.
+    Insurge-se a recorrente contra o acórdão, com base na alínea a do permissivo constitucional, sob a alegação de violação à coisa julgada. Sustenta-se, ainda, com base na alínea b, do art. 102, III, a constitucionalidade do art. 1º-F da Lei 9.494/1997.
+    A questão relativa à ofensa ao art. 5º, XXXVI, da Carta Magna, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, em casos semelhantes: AI 626.840, rel. min. Menezes Direito, DJ de 09.05.2008; AI 608.138, rel. min. Gilmar Mendes, DJ de 30.05.2007; AI 599.421, rel. min. Ricardo Lewandowski, DJ de 03.10.2006; AI 558.581, rel. min. Cezar Peluso, DJ de 24.03.2006; AI 565.678, rel. min. Sepúlveda Pertence, DJ de 03.02.2006 e RE 430.084-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 24.06.2005.
+    Quanto à interposição com base na alínea b, embora a tese trazida pela recorrente tenha respaldo na jurisprudência desta Corte (RE 453.740, rel. min. Gilmar Mendes, DJ de 24.08.2007), constato que o acórdão recorrido não declarou a inconstitucionalidade do art. 1º-F da Lei 9.494/97, nem aplicou o Enunciado 32 das Turmas do Juizados Especiais Federais do Rio de Janeiro, cancelado antes da interposição do presente recurso, que previa a aplicação indiferenciada de juros de mora nas condenações impostas à Fazenda Pública, conforme alegado no apelo extremo.
+    Aplica-se ao ponto, portanto, a Súmula 284 desta Corte.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
