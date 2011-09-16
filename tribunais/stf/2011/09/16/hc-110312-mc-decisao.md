@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado por Rogério Pereira de Oliveira em favor de Cássio Murilo de Oliveira Matos, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 139.656/GO impetrado àquela Corte, Relator o Ministro Jorge Mussi.
+    Sustenta o impetrante, em linhas gerais, o constrangimento ilegal a ele imposto, uma vez que o pedido de produção de prova testemunhal formulado por sua defesa em pedido de restituição de coisa apreendida, que visava demonstrar a origem lícita do numerário apreendido em poder do paciente, restou indeferido pelo juízo de origem sem a devida fundamentação. Entende que o indeferimento daquela diligência teria afrontado os princípios da ampla defesa e do devido processo legal.
+    Assevera, ainda, que embora a ordem tenha sido concedida pela Quinta Turma do STJ, determinando a retomada do pedido de restituição e a oitiva de testemunhas requerida pela defesa, prova essa cujos efeitos se projetarão à ação penal instaurada contra o paciente, não houve declaração expressa nesse sentido por aquela Corte Superior, motivando a interposição de embargos declaratórios, que acabaram sendo rejeitados.
+    Requer o deferimento a liminar para “o fim de declarar a nulidade absoluta da ação penal nº 200800065918 – cujo trâmite ocorreu na Comarca de Formosa/GO – a partir da decisão proferida no incidente de restituição de coisa apreendida – declarada nula pela Quinta Turma do Colendo Superior Tribunal de Justiça, expedindo-se alvará de soltura em favor do Paciente, e, ao final, a confirmação da ordem” (fl. 15 da inicial – destaques conforme o original).
+    Examinados os autos, decido.
+    O Superior Tribunal de Justiça rejeitou os embargos de declaração opostos no habeas corpus em decisão assim fundamentada:
+    “EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. VÍCIO.INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+    1. Inexiste qualquer omissão, obscuridade ou contradição a serem sanadas, uma vez que a decisão recorrida apreciou a tese defensiva deduzida fundamentadamente, explicitando que a concessão da ordem se restringia à anulação da decisão no incidente de restituição de coisa apreendida, determinando-se a reabertura de prazo para a produção da prova testemunhal requerida.
+    2. Em momento algum se reconheceu, no acórdão embargado, a nulidade da íntegra da ação penal, até mesmo porque a simples anulação da decisão no incidente de restituição de coisa apreendida não teria o condão de afastar as conclusões a que chegou o Juízo de origem para condenar o paciente, que apontou outros elementos de convicção que comprovariam a prática do delito de tráfico de entorpecentes que lhe foi imputada.
+    3. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pela decisão embargada.
+    4. Embargos de declaração rejeitados.” (fls. 96/104 da inicial).
+    Essa é a razão pela qual se insurge o impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que não se verifica na espécie.
+    Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste momento, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o acórdão proferido por aquela Corte encontra-se suficientemente motivado a justificar a formação de seu convencimento, com expressa menção ao fato de não haver o acórdão embargado reconhecido “a nulidade da íntegra da ação penal, até mesmo porque a simples anulação da decisão no incidente de restituição de coisa apreendida não teria o condão de afastar as conclusões a que chegou o Juízo de origem para condenar o paciente, que apontou outros elementos de convicção que comprovariam a prática do delito de tráfico de entorpecentes que lhe foi imputada”.
+    Ademais, as razões invocadas pelo impetrante para o deferimento da medida excepcional possuem caráter nitidamente satisfativo, pois se confundem com o mérito da própria impetração, o que recomenda seu indeferimento conforme reiterada jurisprudência desta Suprema Corte. Nesse sentido: HC nº 94.888/SP-MC, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164/SP-MC, Relator o Ministro Cezar Peluso, DJ de 22/2/08; e HC nº 92.737/SP-MC, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07, entre outros.
+    Ante o exposto, indefiro o pedido de liminar.
+    Estando a impetração devidamente instruída com cópia do inteiro teor do acórdão impugnado, dispenso as informações da autoridade coatora.
+    Oficie-se, contudo, ao Juízo de Direito da 3ª Vara Criminal da Comarca de Formosa/GO para que preste informações atualizadas acerca da situação processual do paciente.
+    Publique-se.
+    Brasília, 16 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
