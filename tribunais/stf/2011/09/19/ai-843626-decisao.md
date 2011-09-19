@@ -1,0 +1,24 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CDA. CABIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO DE MULTA TRIBUTÁRIA. MATÉRIA INFRACONSTITUCIONAL. AGRAVO A QUE SE NEGA SEGUIMENTO.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+2 . In casu, a controvérsia foi dirimida por meio da interpretação conferida à norma infraconstitucional aplicável a espécie.
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário em oposição a acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 176):
+    “TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REQUISITOS.
+    O instituto da exceção de pré-executividade tem restrito âmbito de admissibilidade, adstrito a questões de ordem pública, como a ausência de pressupostos processuais e condições da ação, ou nulidade do título executivo, comprovada de plano pelo juízo.”
+    No recurso extraordinário a ora agravante alegou violação ao art. 5º, XXII e XXXV, da CF. Sustentou, em síntese, o cabimento da exceção de pré-executividade porque, in casu, a CDA objeto da presente lide estaria prescrita, uma vez que a multa aplicada não teria natureza tributária, e sim administrativa, não sendo aplicáveis os prazos prescricionais disciplinados no CTN. Sustenta ainda que a multa aplicada pela Administração Pública seria confiscatória.
+    O recurso extraordinário teve o seu seguimento negado na origem com fundamento na ausência de prequestionamento dos dispositivos constitucionais aventados.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A controvérsia dos autos cinge-se na discussão a respeito do cabimento da exceção de pré-executividade fundada no argumento da inexigibilidade de CDA onde a parte ora agravante sustenta estar a mesma prescrita, e, de outra forma, seria a multa confiscatória.
+    Nesse diapasão, verifica-se que a controvérsia em questão foi solucionada com arrimo em normas subalternas, isso porque, antes de se verificar qualquer violação à Constituição, seria necessário o reexame das normas infraconstitucionais que disciplinam a espécie, o que não é admissível em cognição extraordinária. Nesse sentido, confira-se:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REQUISITOS DE ADMISSIBILIDADE. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. II – A discussão acerca do cabimento da exceção de pré-executividade demanda a análise de normas infraconstitucionais. A ofensa à Constituição, se ocorrente, seria indireta. Precedentes. III – Agravo regimental improvido. (AI 816.428-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, Dje de 30.06.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. QUITAÇÃO. EXTINÇÃO DA EXECUÇÃO. CONTROVÉRSIA DE ÍNDOLE ESTRITAMENTE PROCESSUAL. ALEGAÇÃO DE AFRONTA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Ofensa às garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. 3. Agravo regimental desprovido.” (AI 739.038-AgR, Segunda Turma, Dje de 26.08.2011)
+    Ademais, o Supremo Tribunal Federal tem entendimento consolidado no sentido de que a matéria referente a prescrição não desafia a interposição do apelo extremo por se tratar de matéria afeta as normas infraconstitucionais. Nesse sentido, entre outros:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. SUSPENSÃO DO PRAZO. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. Agravo regimental a que se nega provimento.” (ARE 640.527-AgR, Segunda Turma, Rel. Min. Joaquim Barbosa, Dje de 01.08.2011) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 19 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
