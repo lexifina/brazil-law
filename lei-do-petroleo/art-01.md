@@ -11,4 +11,9 @@ IX - promover a livre concorrência;
 X - atrair investimentos na produção de energia;
 XI - ampliar a competitividade do País no mercado internacional.
 XII - incrementar, em bases econômicas, sociais e ambientais, a participação dos biocombustíveis na matriz energética nacional.
-XIII - garantir o fornecimento de biocombustíveis em todo o território nacional.
+XIII - garantir o fornecimento de biocombustíveis em todo o território nacional;
+XIV - incentivar a geração de energia elétrica a partir da biomassa e de subprodutos da produção de biocombustíveis, em razão do seu caráter limpo, renovável e complementar à fonte hidráulica;
+XV - promover a competitividade do País no mercado internacional de biocombustíveis;
+XVI - atrair investimentos em infraestrutura para transporte e estocagem de biocombustíveis;
+XVII - fomentar a pesquisa e o desenvolvimento relacionados à energia renovável;
+XVIII - mitigar as emissões de gases causadores de efeito estufa e de poluentes nos setores de energia e de transportes, inclusive com o uso de biocombustíveis.
