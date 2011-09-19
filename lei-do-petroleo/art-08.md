@@ -14,7 +14,7 @@ XII - consolidar anualmente as informações sobre as reservas nacionais de petr
 XIII - fiscalizar o adequado funcionamento do Sistema Nacional de Estoques de Combustíveis e o cumprimento do Plano Anual de Estoques Estratégicos de Combustíveis, de que trata o art. 4º da Lei nº 8.176, de 8 de fevereiro de 1991;
 XIV - articular-se com os outros órgãos reguladores do setor energético sobre matérias de interesse comum, inclusive para efeito de apoio técnico ao CNPE;
 XV - regular e autorizar as atividades relacionadas com o abastecimento nacional de combustíveis, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios.
-XVI - regular e autorizar as atividades relacionadas à produção, importação, exportação, armazenagem, estocagem, transporte, transferência, distribuição, revenda e comercialização de biocombustíveis, assim como avaliação de conformidade e certificação de sua qualidade, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios;
+XVI - regular e autorizar as atividades relacionadas à produção, à importação, à exportação, à armazenagem, à estocagem, ao transporte, à transferência, à distribuição, à revenda e à comercialização de biocombustíveis, assim como avaliação de conformidade e certificação de sua qualidade, fiscalizando-as diretamente ou mediante convênios com outros órgãos da União, Estados, Distrito Federal ou Municípios;
 XVII - exigir dos agentes regulados o envio de informações relativas às operações de produção, importação, exportação, refino, beneficiamento, tratamento, processamento, transporte, transferência, armazenagem, estocagem, distribuição, revenda, destinação e comercialização de produtos sujeitos à sua regulação;
 XVIII - especificar a qualidade dos derivados de petróleo, gás natural e seus derivados e dos biocombustíveis.
 XIX - regular e fiscalizar o acesso à capacidade dos gasodutos;
@@ -27,3 +27,6 @@ XXV - celebrar, mediante delegação do Ministério de Minas e Energia, os contr
 XXVI - autorizar a prática da atividade de comercialização de gás natural, dentro da esfera de competência da União;
 XXVII - estabelecer critérios para a aferição da capacidade dos gasodutos de transporte e de transferência;
 XXVIII - articular-se com órgãos reguladores estaduais e ambientais, objetivando compatibilizar e uniformizar as normas aplicáveis à indústria e aos mercados de gás natural
+Parágrafo único. No exercício das atribuições de que trata este artigo, com ênfase na garantia do abastecimento nacional de combustíveis, desde que em bases econômicas sustentáveis, a ANP poderá exigir dos agentes regulados, conforme disposto em regulamento:
+I - a manutenção de estoques mínimos de combustíveis e de biocombustíveis, em instalação própria ou de terceiro;
+II - garantias e comprovação de capacidade para atendimento ao mercado de combustíveis e biocombustíveis, mediante a apresentação de, entre outros mecanismos, contratos de fornecimento entre os agentes regulados.
