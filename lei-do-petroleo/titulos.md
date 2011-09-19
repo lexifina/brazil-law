@@ -42,6 +42,7 @@ Da Importação e Exportação de Petróleo,
 seus Derivados e Gás Natural
 CAPÍTULO IX
 Da Petrobrás
+CAPÍTULO IX-A
 DAS ATIVIDADES ECONÔMICAS DA INDÚSTRIA DE BIOCOMBUSTÍVEIS
 CAPÍTULO X
 Das Disposições Finais e Transitórias
