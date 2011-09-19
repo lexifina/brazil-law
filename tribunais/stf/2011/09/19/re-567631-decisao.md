@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a  e b, da Constituição) interposto de acórdão de Turma Recursal de Juizado Especial Federal que deu provimento parcial a recurso inominado, para julgar procedente pedido de cancelamento de desconto regulado pelo art. 31 da MP 2.215-10/2001 e determinar o ressarcimento parcial dos valores descontados.
+    Quanto à interposição com base na alínea a do permissivo constitucional, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito dos arts. 5º, XXXV, LIV e LV, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta das contrarrazões ao recurso inominado (fls. 49-52), deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ 15.09.2000).
+    Passo à análise da interposição com base no art. 102, III, b, da Constituição.
+    A recorrente sustenta que o acórdão impugnado declarou, incidentalmente, a inconstitucionalidade do artigo 31, §1º, da MP 2.131/2010 e do artigo 1º-F da Lei 9.494/1997. Alega-se, em síntese, a constitucionalidade do dispositivo que estipulou o prazo de 30 (trinta) dias para que militar renunciasse aos benefícios previstos na Lei 3.765/1960 e assim se exonerasse de contribuição adicional; in fine, impugna a condenação aos juros mora.
+     Quanto ao primeiro ponto, a Turma Recursal assim concluiu:
+    “Reconheço o direito do autor a renunciar, ainda que fora do prazo, ao regime instituído pela MP 2.131/2000.
+    (…)
+    De fato, em se tratando de benefício estritamente contraprestacional, não há motivo algum que justifique a impossibilidade de o potencial beneficiário, a qualquer tempo, deixar de contribuir e, consequentemente, de fazer jus ao benefício correspondente. Reforça tal juízo a constatação de que há militares que, como o autor, não são nem mesmo potenciais beneficiários, por não terem filhas mulheres.” (fls. 57 - grifei)
+    E ainda, no julgamento dos embargos de declaração:
+    “(...) tal norma, ao limitar temporalmente o prazo para renúncia, viola o princípio da razoabilidade, mais precisamente no que toca à vedação do excesso, já que há uma desproporção patente entre o seu custeio e o benefício, que, no caso, é inexistente” (fls. 68- grifei)
+    Verifico que o recurso extraordinário não impugnou a assertiva de que o instituto tem natureza contraprestacional, de forma a permitir a renúncia do beneficiário. Aplica-se, ao ponto, portanto, a Súmula 283 do Supremo Tribunal Federal.
+    Por outro lado, assiste razão ao recorrente, no que tange aos juros de mora. Com efeito, a decisão recorrida contraria orientação firmada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 453.740 (rel. min. Gilmar Mendes, DJ de 24.08.2007). Naquela oportunidade, a Corte declarou, incidentalmente e por maioria, a constitucionalidade do art. 1º-F da Lei 9.494/97, introduzido pela Medida Provisória 2.180-35/2001, por reputar inexistente violação do princípio da isonomia.
+    Do exposto, conheço do recurso extraordinário e dou-lhe parcial provimento, para reformar em parte a decisão recorrida, no que afastou a aplicação do art. 1º-F da Lei 9.494/1997, com a redação dada pela MP 2.180-35/2001.
+    Publique-se.
+    Brasília, 19 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
