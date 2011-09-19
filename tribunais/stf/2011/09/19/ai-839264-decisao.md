@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. OBRIGAÇÃO DE FAZER. DANOS MORAIS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. MATÉRIA INFRACONSTITUCIONAL.
+1. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+2 . Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário em oposição a acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 81):
+    “AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. AUTORA QUE REQUEREU A NULIDADE DE COBRANÇA, BEM COMO A INDENIZAÇÃO POR DANOS MORAIS. OBEDIÊNCIA AOS PRINCÍPIOS DO CONTRADITÓRIO E AMPLA DEFESA.
+    A conclusão do laudo pericial foi no sentido de que embora o hidrômetro nº G00SV00524 tenha sido considerado violado, no entendimento da ré, essa caracterização não evidencia a ocorrência de fraude no consumo do imóvel por parte da autora, eis que a própria ré assegura no laudo de aferição que o equipamento de medição estava em bom estado de funcionamento, sendo que, tal afirmação já consagra a exoneração de fraude.
+    Por se tratar de pessoa jurídica, cabia à autora comprovar danos à sua honra objetiva, não podendo a alegação de abalos aos sócios da sociedade dar ensejo aos danos morais alegados, de modo que não cabe a condenação da ré no pagamento de danos morais à autora. Sucumbência recíproca que se declarar. Recurso da ré a que se dá parcial provimento, para determinar a distribuição e compensação recíproca e proporcional dos honorários e despesas processuais, nos termos do disposto no artigo 21 do CPC.”
+    No recurso extraordinário a ora agravante alegou violação aos arts. 5º, LIV e LV, e 93, IX, da CF. Sustentou, em síntese, que não houve juntada dos autos da petição onde requereu a devolução do prazo para interposição de agravo de instrumento contra decisão interlocutória que negou a dilação probatória anteriormente feita, o que, ao entendimento da parte agravante, causou violação aos dispositivos constitucionais retrocitados.
+    O recurso extraordinário teve o seu seguimento negado na origem sob o fundamento de não ter havido o necessário prequestionamento da questão constitucional, além de que a controvérsia teria sido dirimida com amparo exclusivo em normas infraconstitucionais.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    A questão dos autos diz respeito a suposta violação dos princípios do contraditório, da ampla defesa e da fundamentação dos atos judiciais.
+    O Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seriam indiretas ou reflexas, o que, por si só, não desafia a instância extraordinária. Nesse sentido, entre outros:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, Primeira Turma, Rel. Min. Cármen Lúcia, Dje de 18/08/10) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+    1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+    2. Aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+    3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+    4. Agravo regimental improvido” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
