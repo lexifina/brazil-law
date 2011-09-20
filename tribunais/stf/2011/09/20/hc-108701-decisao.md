@@ -1,0 +1,16 @@
+Decisão: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Tribunal Superior Eleitoral. Acórdão que exibe a seguinte ementa:
+    “HABEAS CORPUS -INEXISTÊNCIA DE ILEGALIDADE. Não surgindo do contexto revelado no habeas corpus ato ilegal passível de alcançar, na ordem direta ou indireta, a liberdade de ir e vir do cidadão, impõe-se o indeferimento da ordem.”
+    2. Pois bem, numa petição inicial de difícil compreensão, o impetrante, em causa própria, requer o trancamento da ação penal nº 003/2005, em curso na 172ª Zona Eleitoral da Comarca de Registro/SP. O que faz, em síntese, nos termos seguintes:
+     “Os fatos revelados neste writ se concentram em vários pontos fundamentais para o melhor entendimento, vez que faltou justa causa, porque houve a incompetência do juízo em razão do local e da matéria, cerceamento de defesa, nom bis in idem, exceção de suspeição do magistrado.” (sic)
+    3. Prossigo neste relato para anotar que abri vista dos autos à Defensoria Pública da União. Defensoria que formulou pedido de redução da pena imposta ao paciente para, ao final, declarar-se extinta a punibilidade dele, paciente, pela prescrição da pretensão punitiva.
+    4. Feita esta síntese do pedido, decido. Fazendo-o, consigno, de saída, que as teses arguidas neste habeas corpus não foram suscitadas e discutidas nas instâncias precedentes. Pelo que não cabe a este Supremo Tribunal Federal examiná-las, per saltum, pena de indevida supressão de instância.
+    5. Acresce que a Constituição Federal de 1988, ao cuidar do habeas corpus (inciso LXVIII do artigo 5º), autoriza o respectivo manejo sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção. Mas a Constituição não para por aí e arremata o seu discurso normativo pela seguinte forma: por ilegalidade ou abuso de poder. Saltando aos olhos que ilegalidade e abuso de poder não se presumem, pois, aí, a presunção é exatamente inversa. E, nesse caso, ou os autos dão conta de uma vistosa violência indevida, de um cerceio absolutamente antijurídico por abuso de poder ou por ilegalidade, ou do habeas corpus não se pode socorrer o paciente. Ilegalidade ou abuso de poder que não sobressaem do exame prefacial das peças que estão a instruir este processo. Até porque não há ilegalidade ou abuso de poder se, no trajeto da aplicação da pena, o julgador explicita, coerentemente, os motivos de sua decisão. O inconformismo do acionante com a análise das circunstâncias do crime não é suficiente para indicar a evidente falta de motivação ou de congruência dos fundamentos da pena afinal fixada.
+    6. Assim postas as coisas, tenho que a leitura das peças que instruem este processo também não autoriza a supressão de instância requerida na inicial desta impetração. Mormente porque, nesta via processualmente contida do habeas corpus, fica extremamente difícil acatar as alegações defensivas sem que se proceda à renovação de atos de nítido conteúdo instrutório.
+    7. Por tudo quanto posto, não conheço do habeas corpus.
+    Publique-se.
+    Intime-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
