@@ -1,0 +1,32 @@
+DECISÃO
+    (Petições Avulsas STF ns. 73.715/2011, 74.927/2011 e 74.572/2011)
+MANDADO DE SEGURANCA.
+ASSISTÊNCIA LITISCONSORCIAL. IMPOSSIBILIDADE.   ART. 24 DA LEI N. 12.016/2009. JUNTADA DE NOVOS DOCUMENTOS. AUSÊNCIA DE DILAÇÃO PROBATÓRIA EM MANDADO DE SEGURANÇA. DEVOLUÇÃO DE PETIÇÕES. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Mandado de Segurança, com pedido de medida liminar, impetrado por Carlos Eduardo Martins da Cunha, em 29.7.2011, contra decisão proferida pelo Conselho Nacional de Justiça no Procedimento de Controle Administrativo n. 7172-71.2010.2.00.0000.
+    2. Em 18.8.2011, deferi a medida liminar para suspender os efeitos da decisão proferida pelo Conselho Nacional de Justiça no Procedimento de Controle Administrativo n. 7172-71.2010.2.00.0000, apenas no que concerne ao Impetrante, até o julgamento de mérito da presente ação.
+    3. Em 9.9.2011, a Associação dos Magistrados do Estado de Goiás – ASMEGO protocolou a Petição Avulsa STF n. 73.715/2011 por meio da qual ressalta que “a sentença a ser proferida poderá modificar direito subjetivo criado pelo ato impugnado em favor de outras pessoas” por ela representadas.
+    Requer seu ingresso no feito como assistente litisconsorcial e a revogação da medida liminar deferida.
+    4. Em 13.9.2011 e 15.9.2011, Carlos Eduardo Martins da Cunha, ora Impetrante, protocolou as Petições STF ns. 74.927/2011 e 74.572/2011 nas quais ressalta a impossibilidade de se admitir litisconsorte assistencial em sede de mandado de segurança e pede sejam juntados novos documentos.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. Sobre o tema da intervenção de terceiros, a jurisprudência deste Supremo Tribunal Federal tem, reiteradamente, decidido por sua impossibilidade no mandado de segurança.
+    Em 30.6.2009, ao examinar o pedido de intervenção como assistente litisconsorcial formulado no Mandado de Segurança n. 27.994/DF, o Ministro Celso de Mello sintetizou a jurisprudência deste Supremo Tribunal sobre o tema, nos termos seguintes:
+    “2. Renato Antonio de Liberali e Paulo César de Figueiredo (...) requerem ‘(...) sejam admitidos como assistentes litisconsorciais dos Impetrantes (...)’ (fls. 158).
+    Indefiro o ingresso, nesta causa, dos ora postulantes, não obstante hajam invocado a sua condição de assistentes litisconsorciais qualificados (CPC, art. 54).
+    É que o magistério jurisprudencial desta Suprema Corte firmou-se no sentido ‘do descabimento da assistência no mandado de segurança, tendo em vista o que dispõe o art. 19 da Lei nº 1.533/51, na redação dada pela Lei nº 6.071/74, que restringiu a intervenção de terceiros, no procedimento do 'writ', ao instituto do litisconsórcio’ (RTJ 123/722, Rel. Min. CÉLIO BORJA - grifei).
+    Esse entendimento - que tem sido reiterado, em inúmeras oportunidades, pelo Supremo Tribunal Federal (...) - encontra apoio, igualmente, no magistério da doutrina (CARLOS ALBERTO MENEZES DIREITO, ‘Manual do Mandado de Segurança’, p. 117, 4ª ed., 2003, Renovar):
+    ‘(...) não me parece possível enfrentar a expressa disposição legal. A Lei nº 6.071/74, alterando a redação do art. 19 da lei especial, sem meias-palavras, não alcançou a assistência, limitando-se a determinar a aplicação, ao processo do mandado de segurança, dos artigos do Código de Processo Civil que regulam o litisconsórcio. Desse modo, na linha do precedente do Supremo Tribunal Federal, entendo não ser admissível o assistente em mandado de segurança.’ (grifei)
+    Impende enfatizar, por necessário, que essa orientação tem sido reafirmada pelo Plenário do Supremo Tribunal Federal: ‘- Não assiste ao INCRA, seja na condição de assistente, seja na de terceiro prejudicado, seja, ainda, como litisconsorte passivo, legitimidade para intervir em processo de mandado de segurança no qual se impugne a validade jurídica de declaração expropriatória de imóvel rural, consubstanciada em decreto do Presidente da República editado para fins de reforma agrária. Precedentes. (...).’ (RTJ 182/548-549, Rel. Min. CELSO DE MELLO) (...)” (DJ 3.8.2009, grifos nossos).
+    Como se tinha no art. 19 da Lei n. 1.533/1951, com a alteração da Lei n. 6.071/1974, também a Lei n. 12.016/2009 não admitiu a intervenção de terceiros no mandado de segurança, sendo aplicável a essa ação mandamental apenas o litisconsórcio, nos termos seguintes:
+    “Art. 24. Aplicam-se ao mandado de segurança os arts. 46 a 49 da Lei no 5.869, de 11 de janeiro de 1973 - Código de Processo Civil”.
+    Para que a legislação vigente autorizasse a assistência em mandado de segurança, o art. 24 da Lei n. 12.016/2009 teria de fazer remissão aos arts. 50 a 55 do Código de Processo Civil, como fez, expressamente, em relação ao litisconsórcio.
+    6. Por meio das Petições STF ns. 74.927/2011 e 74.572/2011 o ora Impetrante requer a juntada de novos documentos.
+    O mandado de segurança não admite dilação probatória, motivo pelo qual todos os documentos devem ser trazidos pelo Impetrante junto com a petição inicial.
+    Nesse sentido, este Supremo Tribunal decidiu o Mandado de Segurança 25.325-AgR/DF :
+“EMENTA: MANDADO DE SEGURANÇA. DESAPROPRIAÇÃO. JUNTADA DE DOCUMENTOS APÓS O TÉRMINO DA INSTRUÇÃO DO PROCESSO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO. Consoante a doutrina e jurisprudência dominantes, no mandado de segurança, as provas devem existir e ser apresentadas no momento da impetração, salvo se não-acessíveis às partes, quando, então, deve o juiz determinar que a Administração ou quem as detenha as apresente. Impossibilidade de dilação probatória na via estreita do mandado de segurança. Após a instrução do writ, é inviável a pretensão do impetrante de juntar provas da produtividade do imóvel objeto da desapropriação, bem como da possibilidade de existência de desvio de finalidade na desapropriação deste bem. Indeferimento da juntada de documentos após o término da instrução do mandado de segurança. Agravo regimental a que se nega provimento. Decisão unânime” (Rel. Min. Joaquim Barbosa, Plenário, DJ 7.4.2006, grifos nossos).
+    7. Pelo exposto, indefiro o pedido de ingresso no feito como assistente litisconsorcial formulado pela Associação dos Magistrados do Estado de Goiás – ASMEGO na Petição STF n. 73.715/2011 e determino seja ela desentranhada, assim como as Petições STF ns. 74.927/2011 e 74.572/2011.
+    8. Cumpra-se a parte final da decisão de 18.8.2011 (DJe 25.8.2011).
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
