@@ -1,0 +1,14 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. RECORREÇÃO DE PROVA DISCURSIVA DE REDAÇÃO. POSSIBILIDADE. PROVIMENTO PARCIAL DO RECURSO ADMINISTRATIVO. REPERCUSSÃO NA NOTA DO CANDIDATO. APELAÇÃO PARCIALMENTE PROVIDA.
+    1. Tendo o recurso administrativo aviado pelo apelante sido julgado parcialmente procedente, com o reconhecimento, pela banca examinadora, da inexistência de 9 erros de pontuação equivocadamente apontados no espelho de avaliação da prova discursiva do candidato, a Administração deverá promover nova correção da prova, subtraindo os erros indevidamente computados, observando os critérios definidos no edital, uma vez que o Poder Judiciário não pode substituir-se à banca examinadora na aplicação dos critérios de correção.
+    2. “(...) Todavia, em face da limitação imposta ao Poder Judiciário de promover nova correção de prova, em substituição à banca examinadora na aplicação dos critérios de avaliação, somente é possível, no caso, a invalidação da correção já realizada e a determinação para que a comissão do concurso proceda nova correção do teste, adotando, rigorosamente, as disposições editalícias". (TRF 1ª Região, Sexta Turma, AC 2003.34.00.031010-0/DF, Desembargador Federal Souza Prudente, 18.06.2007 DJ p.110).
+    3. Apelação parcialmente provida” (fl. 326).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, caput, II, 37, caput, da mesma Carta.
+    O agravo merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com a jurisprudência desta Corte no sentido de que “não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora nos critérios de correção de provas e de atribuição de notas a elas” (RE 243.056- AgR/CE, Rel. Min. Ellen Gracie). No mesmo sentido, menciono as seguintes decisões, entre outras: RE 560.551-AgR/RS, Rel. Min. Eros Grau; RE 442.411/RS, Rel. Min. Carlos Velloso; MS 268.244/CE, Rel. Min. Moreira Alves; e AI 827.001-AgR/RJ, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES OBJETIVAS. IMPOSSIBILIDADE. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que ao Poder Judiciário não é dado substituir banca examinadora de concurso público, seja para rever os critérios de correção das provas, seja para censurar o conteúdo das questões formuladas. Agravo regimental a que se nega provimento”.
+    Isso posto, com base nos precedentes acima mencionados, conheço do agravo (art. 544, § 4º, II, c, do CPC) para dar provimento ao recurso extraordinário. Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
