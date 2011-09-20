@@ -1,0 +1,26 @@
+DECISÃO
+    Vistos.
+    João Marcilio Rodrigues Costa e outros interpõem recurso extraordinário, com fundamento nas alíneas “a” e “b” do permissivo constitucional, contra acórdão proferido pela Terceira Turma do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PROCESSUAL CIVIL – PROCESSO CAUTELAR – CARÁTER SATISFATIVO – IMPOSSIBILIDADE.
+    1 – Impossível a transmutação do instrumento de tutela preventiva e provisória em provimento antecipado e substitutivo de decisão final.
+    2 – As medidas e ações cautelares, apenas asseguram a futura satisfação do direito pleiteado, nunca o satisfaz, ainda que provisoriamente. A tutela cautelar exerce função de instrumento que assegura a realização dos direitos.
+    3 – O provimento cautelar nunca poderá ser satisfativo como pretendeu a parte autora, porque somente em casos excepcionais, quando não haja outro meio de evitar o perecimento do direito, através de alguma forma de proteção cautelar, é que se poderá legitimar uma sentença liminar de conseqüências definitivas e irreversíveis, o que não é o caso nos presentes autos.
+    4 – Apelação e Remessa necessária providas” (fl. 433).
+    Alegam os recorrentes violação dos artigos 1º, inciso V, 5º, incisos XII, XXXV, XXXVI e LV, 6º, caput, 37, caput, e 170, caput e inciso VIII, da Constituição Federal.
+    Contra-arrazoado (fls. 581 a 586), o recurso extraordinário (fls. 505 a 544) foi admitido (fls. 602/603).
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 3/5/04, conforme expresso na certidão de folha 442, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, verifica-se que o acórdão recorrido tratou, tão-somente, de matéria processual concernente aos pressupostos de cabimento e procedibilidade de ação cautelar. Assim, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “1. O processamento do extraordinário é inviável para debater matéria processual relativa a pressupostos de cabimento de ação cautelar. 2. Agravo regimental improvido” (AI nº 483.870/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 7/10/05).
+    “Processual. Controvérsia infraconstitucional. Ofensa indireta à CF. Reexame de fatos e provas (Súmula 279). Regimental não provido” (AI nº 444.843/PA-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 5/12/03)
+    Nesse mesmo sentido, destaco,ainda, as seguintes decisões monocráticas: ARE nº 640.911/SP, de minha relatoria, DJe de 3/6/11; AI nº 691.388/RJ, Relatora a Ministra Cármen Lúcia, DJe de 15/5/08 e AI nº 422.113/BA, Relator o Ministro Eros Grau, DJe de 15/5/08.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
