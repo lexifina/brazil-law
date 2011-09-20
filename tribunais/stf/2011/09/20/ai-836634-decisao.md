@@ -1,0 +1,18 @@
+AGRAVO DE INSTRUMENTO. AÇÃO DE REPETIÇÃO DE INDÉBITO. COBRANÇA DE ESGOTO DOMICILIAR. PAGAMENTO. TAXA OU TARIFA. RECURSO ESPECIAL PROVIDO. PERDA DO OBJETO DO RECURSO EXTRAORDINÁRIO. AGRAVO PREJUDICADO.
+1. O sistema de interposição dos recursos especial e extraordinário estabelecido no ordenamento jurídico pátrio determina que, quando da interposição de ambos, os autos sejam remetidos primeiro ao C.STJ, sendo que a apreciação do recurso extraordinário dependerá da não inocorrência de prejudicialidade deste pelo provimento do recurso especial (art. 543, “caput” e § 1º, CPC).
+2. In casu, o Superior Tribunal de Justiça deu parcial provimento ao recurso especial para reconhecer que o serviço de esgoto tem natureza de tarifa, determinando o retorno dos autos ao Tribunal a quo a fim de que sejam analisados os requisitos exigidos para a cobrança da tarifa. (RESP nº 686.231, Rel. Min. Mauro Campbell Marques, Dje de 27/08/09).
+3. Agravo de Instrumento PREJUDICADO.
+    Decisão: Cuida-se de agravo de instrumento interposto por WALTER TAVARES ALVES, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 97/100, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, ementado nos seguintes termos (fl. 55), verbis:
+    “APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C EXCLUSÃO DE COBRANÇA DE ESGOTO DOMICILIAR JULGADA IMPROCEDENTE. DEJETOS ORGÂNICOS DE IMÓVEL QUE NÃO SÃO LANÇADOS NA REDE DE ESGOTO DA CEDAE, MAS EXISTÊNCIA DELA COMPROVADA. SERVIÇO À DIPOSIÇÃO DO APELANTE. CARACTERIZAÇÃO DE TAXA. PAGAMENTO DEVIDO, POUCO IMPORTANDO QUE O INTERESSADO DELE NÃO SE UTILIZE. MEDIDA DE INTERESSE PÚBLICO, QUE OBRIGA A TODO GRUPO SOCIAL. A QUANTIA EM DINHEIRO DEVIDA À EMPRESA PODE SER ESTABELECIDA EM TARIFA, OU ATRAVÉS DO PRÓPRIO CONSUMO. DECRETO ESTADUAL Nº 553/76. AUSÊNCIA DE DEMONSTRAÇÃO DE QUE TENHA SIDO REVOGADO PELAS CONSTITUIÇÕES FEDERAL E ESTADUAL OU QUE A SENTENÇA NEGOU VIGÊNCIA À LEI 8.078/90. DESPROVIMENTO DO RECURSO. DECISÃO UNÂNIME.”
+    Os embargos de declaração opostos foram rejeitados (fls. 59/61).
+    O ora agravante interpôs simultaneamente recurso extraordinário e recurso especial contra o citado acordão recorrido. Nas razões do recurso extraordinário, alega o recorrente, violação dos artigos 145, 150, 170, 173 e 175 da Constituição Federal e sustenta que a cobrança de esgoto domiciliar como estabelecida no acordão recorrido “é ilegal e inconstitucional porque trata a espécie como taxa quando, na verdade, é um preço público baseado no sistema tarifário cujo serviço, por não ser prestado, reitere-se, não pode ser cobrado” (fl. 68).
+     O Tribunal a quo negou seguimento ao recurso por entender que o acordão baseou-se em exame de prova uma vez que se trata de matéria de fato e não de direito (fls. 97/100).
+     É o Relatório. DECIDO.
+    O agravo de instrumento está prejudicado.
+    Quando do julgamento do RESP nº 686.231, Rel. Min. Mauro Campbell Marques, Dje de 27.08.09, o STJ proferiu a seguinte decisão: “conheço parcialmente do recurso e, nessa parte, dou provimento ao recurso especial para reconhecer que o serviço de esgoto tem natureza de tarifa, determinando o retorno dos autos ao Tribunal a quo a fim de que sejam analisados os requisitos exigidos para a cobrança da tarifa”.
+    Ex positis, julgo PREJUDICADO o presente agravo de instrumento com fundamento no art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
