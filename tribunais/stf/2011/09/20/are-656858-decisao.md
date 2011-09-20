@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. PENSÃO ESPECIAL. DEFICIENTE HIPOSSUFICIENTE. VALOR NÃO INFERIOR AO SALÁRIO MÍNIMO. ESTIPULAÇÃO EXPRESSA DA CONSTITUIÇÃO DA REPÚBLICA E DA CONSTITUIÇÃO ESTADUAL. SEGURANÇA CONCEDIDA.
+    A lei n. 6.185/82, no ponto em que quantificou o valor da pensão especial do deficiente hipossuficiente, é incompatível com o art. 203, inc. V, da CR/88, e o art. 157, inc. V, da CE/89. Significa isso que a lei local não foi recepcionada pelas novas Cartas Políticas e, por extensão, são igualmente insubsistentes as alterações ulteriores introduzidas pela Lei n. 7.702/89 e pela Lei Complementar n. 322/06.
+    Segundo a jurisprudência pacífica e longeva deste Tribunal, o valor da pensão especial devida a pessoa deficiente e hipossuficiente não deve ser inferior ao salário mínimo, conforme incontroversa fixação dos textos constitucionais.(Mandado de Segurança n. 2008.080126-2, da Capital, relator Des. Newton Janke, j. Em 22.9.09)” (fls.35)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “c”, do texto constitucional, sustenta-se violação aos artigos 22, XXIII; 194 e 203, V da Constituição da República.
+    Nas razões recursais, alega-se, em síntese, que a garantia de um salário mínimo, prevista no texto da Constituição Federal, diz respeito a benefícios assistenciais devidos e pagos pela União, não possuindo o Estado de Santa Catarina, ora recorrente, o dever de suportar tal encargo.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    O acórdão recorrido decidiu a controvérsia dos autos com base na legislação infraconstitucional aplicável à espécie (Leis 6.185/82 e 7.702/89 e Constituição do Estado de Santa Catarina), donde se conclui que a ofensa à Constituição Federal, se ocorrente, se daria de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, a jurisprudência desta Corte: AI-AgR 673.431, Rel. Min. Eros Grau, Segunda Turma, DJe 7.12.2007; AI-AgR 710.491, Rel. Min. Ricardo Lewandowki, Primeira Turma, DJe 17.4.2009; e o RE-AgR 567.240, Rel. Min. Ellen Gracie, Segunda Turma, DJe 21.2.2011, este último com acórdão assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSÃO GRACIOSA. VALOR NÃO INFERIOR AO SALÁRIO MÍNIMO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. 1. À exceção do art. 7º, IV, da CF, os demais dispositivos constitucionais dados como violados não se encontram prequestionados (Súmulas STF 282 e 356). 2. O Supremo Tribunal Federal tem se posicionado no sentido de que a fixação de pensão especial no valor correspondente ao salário mínimo não fere o disposto no art. 7º, IV, da Constituição Federal. 3. Não procede a alegação de falta de fundamentação do acórdão recorrido. Decisão que contém motivação suficiente e adequada, embora contrária aos interesses da parte, não configura ofensa ao art. 93, IX, da CF. 4. Agravo regimental a que se nega provimento”.
+    Cito, ainda, decisões monocráticas proferidas em casos análogos ao dos autos: AI 652.969, Rel. Min. Dias Toffoli, DJe 12.4.2011; RE 629.816, Rel. Min. Cármen Lúcia, DJe 30.3.2011; RE 600.735, Rel. Min. Cármen Lúcia, DJe 17.12.2010; RE 568.914, Rel. Min. Ellen Gracie, DJe 8.10.2010; e AI 675.841, Rel. Min. Cármen Lúcia, DJe 4.5.2009.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
