@@ -1,0 +1,29 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União em favor de WELLINGTON DIAS CHAGAS, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem pleiteada no HC 193.434/SP, Rel. Min. Jorge Mussi.
+    A impetrante narra, de início, que o Ministério Público Federal ofereceu denúncia contra o paciente pela suposta prática dos delitos previstos nos arts. 289, § 1º (moeda falsa), 299 (falsidade ideológica) e 307 (identidade falsa), todos do Código Penal.
+    Informa, em seguida, que, em virtude de o paciente não ter sido localizado, o juízo processante decretou a revelia e a prisão preventiva deste, sendo nomeado um defensor dativo para patrocinar a sua defesa.
+    Relata, ainda, que o paciente restou condenado à pena de cinco anos de reclusão, tendo o Parquet Federal apelado dessa decisão. O Tribunal Regional Federal da 3ª Região, por sua vez, deu provimento ao recurso para majorar a reprimenda para cinco anos e quatro meses.
+    Diz, mais, que, baixados os autos à vara de origem, a magistrada sentenciante declarou a nulidade de todos os atos processuais, a partir do recebimento das contrarrazões à apelação, tendo em vista que o paciente não foi intimado pessoalmente da sentença condenatória, mas somente o seu defensor.
+    Destaca, outrossim, que, posteriormente, o TRF da 3ª Região anulou esse decisum, por entender que o juízo de primeiro grau não teria competência para declarar a nulidade dos referidos atos.
+    Buscando a nulidade do processo, por falta de intimação pessoal do paciente do decreto condenatório, a defesa manejou habeas corpus no Superior Tribunal de Justiça, sendo denegada a ordem, em acórdão assim ementado:
+    “HABEAS CORPUS. PROCESSUAL PENAL. ÉDITO CONDENATÓRIO COM TRÂNSITO EM JULGADO. RECONHECIMENTO DE NULIDADE ABSOLUTA NO CURSO DA AÇÃO PENAL PELO JUÍZO DA EXECUÇÃO. RESCISÃO DO ACÓRDÃO. IMPOSSIBILIDADE. COMPETÊNCIA FUNCIONAL ORIGINÁRIA DO TRIBUNAL PARA RESCINDIR SEUS JULGADOS. VIOLAÇÃO DO DEVIDO PROCESSO LEGAL. ORDEM DENEGADA.
+    1. Se é certo que nulidades absolutas podem ser reconhecidas a qualquer tempo e grau de jurisdição, certo também que tal afirmação deve ser interpretada de forma sistemática e não apenas literal. A esse conceito normativo outros se agregam formando um entendimento sistêmico do ordenamento jurídico. Em outras palavras, as regras passam a fazer sentido enquanto elementos de um conjunto e não analisadas isoladamente.
+    2. Não compete ao Juízo da Execução reconhecer uma nulidade, ainda que absoluta, ocorrida no curso de processo findo, ocasionando verdadeira rescisão de decisão proferida por instância superior. Seguindo tal raciocínio jurídico, o Superior Tribunal de Justiça, de igual modo, somente passa a ser competente ('ter o poder de exercer a jurisdição') para apreciar possível nulidade absoluta quando no exercício de sua competência funcional - originária ou recursal (art. 105 da Constituição Federal) - e não a qualquer momento do processo. Somente o Tribunal prolator da decisão final é competente para, nas hipóteses legais e pela via própria, rescindir, originariamente, seus julgados.
+    3. A não obediência à sistemática processual vigente gera tumulto e viola o princípio constitucional do devido processo legal.
+    4. A história nos ensina que a violação de princípios, ainda que sob a nobre proposta de se fazer justiça pontual, é sempre uma prática perigosa e nefasta.
+    NULIDADE. AUSÊNCIA DE INTIMAÇÃO DO RÉU. SENTENÇA CONDENATÓRIA. MATÉRIA NÃO ANALISADA PELA CORTE REGIONAL. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA NESTA PARTE.
+    1. Da análise dos autos, verifica-se que a Corte de origem não emitiu juízo de valor sobre a aventada nulidade, circunstância que evidencia a impossibilidade de análise da impetração por este Sodalício, sob pena de indevida prestação jurisdicional em supressão de instância.
+    2. Ordem parcialmente conhecida e, nesta extensão, denegada”.
+    É contra esse acórdão que se insurge a impetrante.
+    Alega, de início, que, por não ter sido localizado, o paciente não foi intimado pessoalmente da sentença condenatória e, mesmo assim, não foi providenciada a sua intimação editalícia, conforme prevê o art. 392 do Código de Processo Penal.
+    Assevera, também, que o art. 564, III, o, do mesmo diploma processual dispõe que ocorrerá nulidade quando não houver intimação, nas condições estabelecidas pela lei, para ciência de sentenças e despacho de que caiba recurso.
+    Daí por que afirma que “deve ser declarada a nulidade do feito a partir da decisão que determinou a remessa dos autos ao Tribunal Regional Federal, determinando-se a intimação do paciente e oportunizando ao mesmo a possibilidade de recorrer da sentença, nos termos do artigo 392 do Código Penal, sob pena de violação à garantia da ampla defesa”.
+    Requer, ao final, “seja concedida a medida liminar, para suspender a execução da condenação, e no mérito que seja concedida a ordem, declarando a nulidade dos autos da referida ação penal à partir da sentença de primeiro grau”.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Solicitem-se informações ao Juízo da 8ª Vara Federal Criminal da 1ª Subseção Judiciária de São Paulo acerca da execução da pena imposta ao paciente, nos autos da Ação Penal 2004.03.99.035341-5.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
