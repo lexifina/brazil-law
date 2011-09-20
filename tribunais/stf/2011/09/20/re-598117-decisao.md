@@ -1,0 +1,23 @@
+Decisão:
+    Milton Ricardo e Silva interpõe recurso extraordinário com fundamento na alínea a do permissivo constitucional contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. OMISSÃO DE RECEITAS. IMPOSTO DE RENDA. ARBITRAMENTO. ARTIGO 42 DA LEI 9.430/96. AUSÊNCIA DE PROVA DO CONTRIBUINTE A DESCARACTERIZAR O LANÇAMENTO TRIBUTÁRIO. IMPROVIMENTO DO APELO.
+    1. A presunção de que os valores mantidos em conta corrente bancária, cuja origem o titular não comprove, após ser intimado para tanto, mediante documentação hábil e idônea, tem fundamento na Lei nº 9.430/96; não há falar, portanto, em arbitrariedade ou ilegitimidade da conduta fiscal e do lançamento tributário. Na dicção da lei, os depósitos bancários sinalizam o acréscimo patrimonial não declarado, cuja origem cumpre ao contribuinte esclarecer.
+    2. Para que se aplique o entendimento consubstanciado na Súmula nº 182/TFR, é necessário que o lançamento tributário esteja fundado unicamente em depósitos bancários e não tenha sido possibilitada a apresentação de documentos e comprovantes que justifiquem o motivo pelo qual os valores depositados extrapolam a renda declarada do contribuinte. Se a ação fiscal intimou o contribuinte para explicar a origem dos recursos e empreendeu esforços para a investigação e elucidação dos fatos, não há falar em tributação baseada exclusivamente em extratos bancários. Nesse caso, os próprios depósitos bancários prestam-se como prova da omissão de receita.
+    3. Apelação improvida”. (fls. 651).
+    No recurso extraordinário, o recorrente alega ofensa aos artigos 5º, caput, incisos XXXV, XXXVI, LIV e LV; 93, inciso IX; 145, § 1º; 146, inciso III, alíneas a e b; 150, inciso III, alínea a, todos da Constituição Federal.
+    Às fls. 753, a decisão que admitiu o apelo extremo.
+    Interposto recurso especial, o mesmo foi improvido (fls. 822/823), com trânsito em julgado da decisão em 10/03/2009. (fls. 825)
+    Decido.
+    Não merece prosperar o apelo.
+    Inexiste a alegada negativa de prestação jurisdicional (artigo 93, IX), ou violação dos artigos 5º, XXXV, LIV e LV da Constituição Federal. A parte teve acesso aos recursos cabíveis na espécie e a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal a quo, como se observa do acórdão proferido, justificado suas razões de decidir.
+    Anote-se que o artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelas então recorrentes, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa , DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie , DJ de 18/5/01).
+    No mérito, melhor sorte não socorre o recorrente.
+    Para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional (Lei n.º 9.430/96), e também análise de fatos e provas (arbitrariedade da conduta fiscal e lançamento tributário), o que não é cabível em sede de recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. COMPENSAÇÃO. MANIFESTAÇÃO DE INCONFORMIDADE. LEI 9.340/96. ALEGADA OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a causa à luz da legislação infraconstitucional aplicável à espécie (Lei 9.430/96), o que é vedado reexaminar em sede extraordinária. II – A afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria, em regra, indireta ou reflexa. Precedentes. III - Agravo regimental improvido”. (AI 808240 AgR , Relator o Ministro Ricardo Lewandowski, Primeira Turma, Dje 24/11/2010).
+    “AGRAVO REGIMENTAL. AFRONTA AO DEVIDO PROCESSO LEGAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 279. AGRAVO DESPROVIDO. Não é possível, na via extraordinária, o reexame de fatos e provas do processo, na forma do enunciado 279 da Súmula do Supremo Tribunal Federal”. (AI 574.468-AgR, Relatora a Ministra Cármen Lúcia , Primeira Turma, DJ 16/2/07).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
