@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário que, firmado na alínea “a” do permissivo constitucional, impugna acórdão da Quarta Turma do Tribunal Regional Federal da 2ª Região assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. COMPENSAÇÃO DE PREJUÍZOS FISCAIS, NOS PERÍODOS-BASE DE 1989 E 1990. Nem da Constituição Federal, nem da Lei 7.689/88, emerge, surge qualquer direito à compensação de prejuízos fiscais, nos períodos – base de 1989 e 1990, na apuração da base de cálculo da CSL. Remessa necessária, tida por interposta, provida. Apelo da autora improvido” (fl. 224).
+    Alega-se violação dos artigos 5º, incisos II, XXXV, LIV e LV; 37, caput; 93, inciso IX; 145, § 1º; 150, inciso I, e 195, inciso I, alínea “c”, da Constituição Federal. Dessa forma, em suma, aduz-se:
+    “(...) ao contrário do que restou decidido pelo E. Tribunal a quo, as disposições da Lei nº 7.689/88 autorizam, sim, a dedução (compensação) dos prejuízos fiscais, verificados nos períodos-base de 1989 e 1990, na apuração da base de cálculo da CSLL, e isto porque a própria lei instituidora do tributo em questão não tratou, em momento algum, de impedir tal procedimento por parte dos contribuintes” (fl. 332).
+    Decido.
+    O recurso não reúne condições de transitar.
+    Isso porque, à luz da jurisprudência predominante deste Supremo Tribunal Federal, a pretensão deduzida no apelo extremo não decorre de questão constitucional, uma vez que reside no propósito de fazer prevalecer interpretação própria da Lei 7.689/88 e antagônica às disposições de Instruções Normativas da SRF 198/88 e 90/92.
+    Com efeito, essas circunstâncias podem revelar, no máximo, conflito de mera legalidade, que é incapaz de viabilizar o acesso à via recursal extraordinária, consoante o óbice preconizado no enunciado 636 da Súmula desta Corte.
+    Sobre esse aspecto, entre outros, confiram-se os seguintes precedentes: AI 752.390, Rel. Min. Luiz Fux, DJe 7.6.2011; AI 736.699, Rel. Min. Ricardo Lewandowski, DJe 6.4.2011; AI 755.927, Rel. Min. Cármen Lúcia, DJe 22.11.2010; AI-AgR 486.823, Rel. Min. Ayres Britto, Primeira Turma, DJ 11.3.2005; RE-AgR 363.810, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.2.2011. Este último teve a seguinte ementa:
+    “TRIBUTÁRIO. COMPENSAÇÃO DE PREJUÍZOS. BASE DE CÁLCULO DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO. CSLL. BENEFÍCIO ASSEGURADO POR LEI. VIOLAÇÃO POR INSTRUÇÕES NORMATIVAS. CONTENCIOSO INFRACONSTITUCIONAL. LEI 8.383/1991, ART. 44. INSTRUÇÕES NORMATIVAS 198/1988 E 90/1992. Da forma como posta a questão nas razões de agravo regimental, a discussão se resume à incompatibilidade das limitações postas pelas Instruções Normativas 198/1988 e 90/1992 à compensação de prejuízos autorizada pelo art. 44 da Lei 8.383/1991, de 31.12.1991. Eventual violação constitucional, se existente, seria indireta ou reflexa, pois o parâmetro de controle direto é a lei ordinária federal. Aplica-se à solução da controvérsia os mesmos fundamentos da Súmula 636/STF, com a devida ponderação. Agravo regimental ao qual se nega provimento”.
+    No tocante à alegação suscitada a pretexto do artigo 93, inciso IX, da Constituição Federal, reporto-me ao que decidido no AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Por fim, cumpre à instância de origem examinar o pedido formulado na petição de fls. 405/406 (protocolo 13085/2011).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
