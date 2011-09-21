@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário em face de acórdão do Tribunal Regional Federal da 1ª Região que entendeu ser competente a Justiça Comum Estadual para processamento e julgamento da suposta prática do crime de redução a condição análoga à de escravo (art. 149 do Código Penal).
+    Na espécie, o acórdão restou assim ementado:
+    “PENAL. PROCESSUAL PENAL. COMPETÊNCIA. CRIME DE REDUÇÃO A CONDIÇÃO ANÁLOGA DE ESCRAVO.
+    Não se tratando de crime contra a organização do trabalho, mas sim contra determinado grupo de trabalhadores, deve ser reconhecida a competência da Justiça Estadual para o processamento e julgamento de eventual ação penal. Precedentes da 3ª e da 4ª Turma.
+    Ressalva do ponto de vista do relator que entende tratar-se de competência da Justiça Federal.
+    Recurso a que se nega provimento”.
+    No recurso extraordinário, o recorrente alega ofensa ao art. 109, incisos VI e XI, da Constituição Federal, e pleiteia a reforma do acórdão recorrido para que seja declarada a competência da Justiça Federal para o processamento e julgamento da causa.
+    Decido.
+    Assiste razão ao agravante, porquanto o Plenário desta Corte, no julgamento do RE 398.041, Rel. Min. Joaquim Barbosa, DJe 19.12.2008, concluiu de forma divergente do acórdão recorrido.
+    Na oportunidade, esta Corte firmou o entendimento no sentido de que compete à Justiça Federal o julgamento da suposta prática do crime de redução a condição análoga à de escravo, tipificado no art. 149 do Código Penal, quando caracterizado crime contra a organização do trabalho.
+    O acórdão restou assim ementado:
+    “DIREITO PENAL E PROCESSUAL PENAL. ART. 149 DO CÓDIGO PENAL. REDUÇÃO Á CONDIÇÃO ANÁLOGA À DE ESCRAVO. TRABALHO ESCRAVO. DIGNIDADE DA PESSOA HUMANA. DIREITOS FUNDAMENTAIS. CRIME CONTRA A COLETIVIDADE DOS TRABALHADORES. ART. 109, VI DA CONSTITUIÇÃO FEDERAL. COMPETÊNCIA. JUSTIÇA FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. A Constituição de 1988 traz um robusto conjunto normativo que visa à proteção e efetivação dos direitos fundamentais do ser humano. A existência de trabalhadores a laborar sob escolta, alguns acorrentados, em situação de total violação da liberdade e da autodeterminação de cada um, configura crime contra a organização do trabalho. Quaisquer condutas que possam ser tidas como violadoras não somente do sistema de órgãos e instituições com atribuições para proteger os direitos e deveres dos trabalhadores, mas também dos próprios trabalhadores, atingindo-os em esferas que lhes são mais caras, em que a Constituição lhes confere proteção máxima, são enquadráveis na categoria dos crimes contra a organização do trabalho, se praticadas no contexto das relações de trabalho. Nesses casos, a prática do crime prevista no art. 149 do Código Penal (Redução à condição análoga a de escravo) se caracteriza como crime contra a organização do trabalho, de modo a atrair a competência da Justiça federal (art. 109, VI da Constituição) para processá-lo e julgá-lo. Recurso extraordinário conhecido e provido”.
+    Da mesma forma, este foi o entendimento da Segunda Turma ao julgar o HC 91.959, Rel. Min. Eros Grau, DJe 22.2.2008.
+    Verifica-se, no auto de prisão em flagrante, que supostamente vinte e cinco trabalhadores eram submetidos a extensa jornada de trabalho: “(...) trabalhavam de segunda a segunda com uma jornada diária de 05 horas da manhã até às 16 horas; (...) os trabalhadores informaram que não recebiam ameaças, no entanto lembraram que não sabiam voltar para a cidade e que para isso necessitavam da ajuda e orientação do gato, o que, segundo o Auditor, caracterizaria o cerceamento do direito de ir e vir ficando, subentendido que com isso eram também submetidos a trabalhos forçados, uma vez que se não trabalhassem, não comiam (...)”. (fl. 6)
+    Assim, é visível a afronta aos valores estruturantes da organização do trabalho e da proteção do trabalhador. Incide portanto o disposto no art. 109, inciso VI, da Constituição Federal.
+    Ante o exposto, e com base na jurisprudência desta Corte, dou provimento ao recurso extraordinário para cassar o acórdão recorrido e declarar a competência da Justiça Federal para processar e julgar a causa.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
