@@ -1,0 +1,26 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E ADMINISTRATIVO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PREJUDICIALIDADE. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. OFENSA REFLEXA. AGRAVO DESPROVIDO.
+1. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+2. A aferição da violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário.
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF face a acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “AGRAVO DE INSTRUMENTO – EXECUÇÃO FISCAL – EXCEÇÃO DE PRÉ-EXECUTIVIDADE – PEDIDO DE SUSPENSÃO DA EXECUÇÃO ANTE O PROTOCOLO DE COMPENSAÇÃO DE DÉBITO DE ICMS COM PRECATÓRIO – INDEFERIMENTO DO PEDIDO ADMINISTRATIVO – PERDA DO OBJETO – RECURSO NÃO PROVIDO.
+    Havendo notícia que o pedido de compensação de débitos tributários com precatórios foi indeferido, o recurso perdeu seu objeto, devendo a execução prosseguir normalmente, agora sem o óbice da pendência administrativa. Recurso não provido.”
+    No recurso extraordinário o ora agravante alegou violação aos arts. 5º, XXXV, LIV e LV, 37 e 93, IX, da CF/88. Asseverou em síntese a nulidade da decisão que julgou prejudicada a exceção de pré-executividade por ter notícias de que o pedido de compensação do débito fiscal com precatórios foi indeferido no âmbito administrativo, isso porque, o Estado do Paraná não teria observado o disposto na Lei Complementar Estadual nº 107/2005 que determina o ter o contribuinte a ciência formal da tramitação dos processos administrativos-tributários, assim, não sendo notificada formalmente da decisão que indeferiu pedido administrativo de compensação, o procedimento seria nulo.
+    O recurso teve seu seguimento negado sob o fundamento do óbice da Súmula 282 do STF
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar a alegação de ofensa aos referidos artigos constitucionais, isso por que o Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seriam indiretas ou reflexas, o que, por si só, não desafia a instância extraordinária. Nesse sentido, entre outros:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, Primeira Turma, Rel. Min. Cármen Lúcia, Dje de 18/08/10) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+    1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+    2. Aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+    3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+    4. Agravo regimental improvido” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
