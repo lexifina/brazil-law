@@ -1,0 +1,36 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROFESSOR ESTADUAL. PROMOÇÃO HORIZONTAL E VERTICAL. LEI ESTADUAL N. 110/95. NORMA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF.
+1. O direito à promoção na carreira do servidor público concedida com fundamento em normas locais não desafia o apelo extremo nos termos do enunciado da Súmula 280 do STF, verbis: “Por ofensa a direito local não cabe recurso extraordinário”. Precedentes: AI 666.992-AgR, 1ª Turma, Rel. Cármen Lúcia, DJe 13.3.2009 e RE 597.3204-AgR, Rel. Ayres Britto, DJe 3.11.2010).
+2. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF face a acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 178):
+    “SERVIDOR PÚBLICO MILITAR. REFORMA POR INCAPACIDADE PARA O SERVIÇO ATIVO DA BRIGADA MILITAR. AUSÊNCIA DE INVALIDEZ PERMANENTE. PRESCRIÇÃO ADMINISTRATIVA AFASTADA.
+    1. A prescrição do chamado fundo de direito deve ser afastada no caso concreto em vista dos requerimentos administrativos formulados pelo apelado, o último deles resolvido em 2006.
+    A reforma de policial militar, vítima de ferimento recebido em serviço e declarado incapaz definitivamente para o serviço ativo da Brigada Militar, mas não sendo reconhecido como inválido, não rende ensejo à promoção hierárquica, tão pouco pode pretender receber proventos correspondentes à graduação superior. Respeito ao princípio da legalidade.
+    APELAÇÃO PROVIDA.
+    REEXAME NECESSÁRIO PREJUDICADO.”
+    No recurso extraordinário o ora agravante alegou violação ao art. 5º, II, da CF/88. Asseverou, em síntese, que faz jus a ser reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediatamente superior (in casu, 2º sargento), uma vez que se enquadraria na hipótese prevista no art.114 da Lei Estadual nº 7.138/78, logo, o acórdão recorrido teria violado o princípio da legalidade ao determinar a reforma do ora agravante com percebimento de proventos integrais da posição hierárquica ocupada no momento da aposentação.
+    O recurso teve seu seguimento negado com fundamento no óbice das Súmulas 279 e 280 do STF.
+    É o relatório. DECIDO.
+    Sem razão o agravante.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Com efeito, a controvérsia dos autos cingiu-se em saber se o ora agravante - policial militar que adquiriu enfermidade permanente em uma das mãos proveniente do regular exercício da atividade policial – tem direito ao percebimento de proventos com base no soldo correspondente ao grau hierárquico imediatamente superior.
+    O acordão vergastado, com fundamento nas provas coligidas nos autos, e na legislação infraconstitucional aplicável a espécie, reformou a sentença para julgar improcedente o pedido pleiteado na inicial e determinar a reforma do autor com percebimento da pensão com proventos integrais, mas na mesma graduação que ocupava quando da sua reforma. Consta no acórdão recorrido que:
+     “(...) diante do contexto probatório, resta evidente que o demandante, que não foi declarado inválido, não possui o direito pleiteado, porquanto ausente previsão legal. O certo é que ele recebeu ferimento na manutenção da ordem pública, mas tal ferimento o tornou incapaz para o serviço ativo, dificultando a articulação dos dedos e o movimento da mão esquerda, não sendo doença invalidante.” (fl. 180v).
+    Destarte, verifica-se nesse contexto que a matéria foi decidida com amparo em norma infraconstitucional local, além do conjunto fático-probatório, o que por si só inviabiliza o recurso extraordinário.
+    Deveras, a este Pretório Excelso somente incumbe a guarda da Constituição Federal, não lhe cabendo o incursionamento em questões relativas a leis locais, porquanto a análise de referidas premissas por esta Corte Suprema esbarra no óbice do enunciado sumular nº 280/STF, litteris: "Por ofensa a direito local não cabe recurso extraordinário."
+    Sobreleva enfatizar, por oportuno, as lições do ilustre professor Roberto Rosas ao comentar a Súmula 280 deste Tribunal:
+    “A interpretação do direito local ou então a violação de direito local para possibilitar o recurso extraordinário é impossível, porque o desideratum do legislador e a orientação do STF são no sentido de instituir o apelo final no âmbito da lei federal, mantendo a sua supremacia.
+    A Súmula 280, seguindo nessa esteira, afirma que por ofensa a direito local não cabe recurso extraordinário.
+    Ressalte-se que, quando as leis estaduais conflitam no tempo, a matéria já está no plano do direito federal, porquanto o Direito Intertemporal é do âmbito da lei federal (RE 51.680, Rel. Min. Luiz Gallotti, DJU 1.8.1963).
+    Quanto às leis municipais adota-se o mesmo ponto concernente às leis estaduais. As Leis de Organização Judiciária são locais, estaduais, portanto não podem ser invocadas para a admissão de recurso extraordinário, sendo comum os casos onde surgem problemas no concernente ao julgamento da causa pelo tribunal a quo, discutindo-se a sistemática nos julgamentos: juízes impedidos, convocação de juízes etc. (RE 66.149, RTJ 49/356). Não será matéria de direito local se essa mesma sistemática é contrária à lei federal, verbi gratia, o Código de Processo Civil. Na mesma linha de raciocínio estão os regimentos internos dos tribunais.
+    'Não cabe recurso extraordinário por violação de lei federal, quando a ofensa alegada for a regimento interno de tribunal' (Súmula 399; RE 57.747, Rel. Min. Cândido Motta, RTJ 43/87; RTJ 54/197, 444 e 610; RE 85.909, Rel. Min. Cordeiro Guerra, RTJ 83/584; RE 81.855, Rel. Min. Soares Muñoz, RTJ 89/529).” (ROSAS, Roberto, in, Direito Sumular, Malheiros).
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E ADMINISTRATIVO. AUSÊNCIA DE DEMONSTRAÇÃO DO PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. MAGISTÉRIO PÚBLICO ESTADUAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (omissis)
+    2. Professor. Mudança de nível na carreira: impossibilidade da análise da Lei estadual n. 6.672/74. Ofensa constitucional indireta. Incidência da Súmula 280 do Supremo Tribunal.” (AI 666.992-AgR, 1ª Turma, Rel. Cármen Lúcia, DJe 13.3.2009) (grifo nosso).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO NA CARREIRA DO MAGISTÉRIO ESTADUAL. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO ESTADUAL. 1. Entendimento diverso do adotado pela Instância Judicante de origem demandaria a análise da legislação infraconstitucional pertinente, providência vedada neste momento processual, nos termos da Súmula 280 do STF. 2. Agravo regimental desprovido.” (RE 597.3204-AgR, Rel. Ayres Britto, DJe 3.11.2010).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
