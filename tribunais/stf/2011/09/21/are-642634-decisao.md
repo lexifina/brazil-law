@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Transcon Autarquia Municipal de Trânsito e Transporte de Contagem interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 30, incisos I e V, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “PROCESSUAL CIVIL. ILEGITIMIDADE PASSIVA DO MUNICÍPIO DE CONTAGEM. TRANSCON. TRANSPORTE IRREGULAR DE PASSAGEIROS. INFRAÇÃO. INCONSTITUCIONALIDADE DO ART. 7º, DA LEI MIUNICIPAL N° 3.548/02. I – O Município de Contagem é parte ilegítima para figurar no pólo passivo da ação em que se discute a legalidade de penalidades de trânsito aplicadas pela TRANSCON, autarquia municipal dotada de personalidade jurídica, receita e patrimônio próprio. A discussão da inconstitucionalidade de lei municipal, no âmbito do controle difuso exercido pelo Poder Judiciário não leva a inclusão do ente político no pólo passivo da demanda. II. O art. 7º, da Lei Municipal nº 3.548/02, padece de vício de inconstitucionalidade, pois impõe ao administrador sanção mais severa daquela estabelecida pelo Código de Trânsito Brasileiro para a infração consubstanciada no transporte irregular de passageiros, implicando ofensa à norma inserta no art. 22, XI, da Constituição Federal, que prevê a competência privativa da União para legislar sobre trânsito e transporte. Questão constitucional apreciada pela Corte Superior do Tribunal de Justiça no julgamento de incidente de inconstitucionalidade” (fl. 220).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07. Assim, conforme decidido pelo Plenário desta Corte na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, aplica-se ao presente recurso o instituto da repercussão geral.
+    Não merece prosperar a irresignação, uma vez o Plenário desta Corte concluiu, em sessão realizada por meio eletrônico, no exame do ARE nº 639.496/MG, Relator o Ministro Presidente, pela existência da repercussão geral da matéria constitucional versada nestes autos.
+    O Tribunal, no mérito, reafirmou a jurisprudência deste Supremo Tribunal Federal nesses termos, in verbis:
+    “A questão suscitada no presente recurso extraordinário versa, à luz do artigo 30, I e V, da Constituição Federal, sobre a competência suplementar de município para legislar sobre trânsito e transporte, e impor sanções mais gravosas que as previstas no Código de Trânsito Brasileiro CTB.
+     Há nesta corte decisão específica sobre o tema no sentido da inconstitucionalidade de norma municipal que impõe sanção mais gravosa que a prevista no CTB, por extrapolar a competência legislativa suplementar do município expressa no artigo 30, II, da Constituição Federal. Neste sentido: ARE 638574 / MG, Rel. Min. GILMAR MENDES, Dje 14.04.2011. Esta corte possui ainda jurisprudência firmada no sentido de que compete privativamente à União legislar sobre trânsito e transporte, impossibilitados os Estados-membros e municípios a legislar sobre a matéria enquanto não autorizados por Lei Complementar. Confiram-se: ADI 2432 / RN, Rel. Min. EROS GRAU, DJ 26.08.2005; ADI 2644 / PR, Rel. Min. ELLEN GRACIE, DJ 17.09.2003; ADI 2432 MC / RN, Rel. Min. NELSON JOBIM, DJ 21.09.2001.”
+    O acórdão recorrido está em sintonia com a decisão do Plenário desta Corte.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
