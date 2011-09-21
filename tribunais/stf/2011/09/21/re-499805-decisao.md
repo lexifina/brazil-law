@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 190):
+    “SERVIDOR PÚBLICO. Ação proposta visando o recebimento de horas credoras, com acréscimo de 50%, nos termos do art. 7º, inciso XVI, da CF/88. Sentença de procedência parcial mantida.
+    (…)
+    MÉRITO. Horas credoras que se deram em razão de trabalho extraordinário, desenvolvido além das oito horas diárias trabalhadas e contratadas. Não é lícito à Administração furtar-se à sua responsabilidade no pagamento das horas credoras, sob pena de locupletamento ilícito. Havendo prestação de serviço, certo é a sua remuneração. Todavia, não procede o pedido com relação ao acréscimo pecuniários de 50% sobre os valores devidos, pois incabível na esfera pública. Art. 7º, inciso XVI, da Constituição Federal, se aplica às relações privadas e não para servidores contratados para trabalhar no serviço público. O direito às horas credoras é reconhecido e estas se referem a trabalho extraordinário, cuja prescrição e retribuição difere das horas extras que possuem critério rigoroso de prescrição e não podem ser acumuladas. Verba honorária mantida. Preliminares rejeitadas, recursos improvidos e desacolhido o reexame necessário.”
+    Os recorrentes alegam ofensa ao disposto no art. 7º, XVI, da Constituição federal.
+    Verifico que os recorrentes não buscam demonstrar, nas razões do recurso extraordinário, o desacerto da decisão recorrida, uma vez que esta consignou “o disposto no art. 7º, inciso XVI, da Constituição Federal, se aplica às relações privadas e não para servidores contratados para trabalhar no serviço público” (fls. 194), enquanto aqueles se limitaram a alegar que fazem jus ao pagamento das horas credoras “com acréscimo de 50% (cinquenta por cento), nos termos do artigo 7º, inciso XVI, da Carta Federal” (fls. 201). Tal circunstância impede o conhecimento do recurso extraordinário por esta Corte, nos termos da Súmula 284/STF.
+    Ademais, ainda que assim não fosse, a solução da controvérsia demandaria necessariamente o exame da Lei estadual 10.261/1968 (Estatuto dos Funcionários Públicos Civis do Estado de São Paulo), o que inviabiliza o processamento do apelo extremo, ante o óbice da Súmula 280/STF.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
