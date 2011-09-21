@@ -1,0 +1,16 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO E CONSTITUCIONAL - AÇÃO DE COBRANÇA - DISCUSSÃO SOBRE DIFERENÇAS SALARIAS - PROVA DE QUITAÇÃO - ÔNUS DO DEVEDOR - INTELIGÊNCIA DO ART. 333 DO CPC - SENTENÇA MANTIDA. A prova de pagamento, a teor do artigo 319 e seguintes do Código Civil, exige quitação regular, não se admitindo presunção de pagamento, recaindo sobre o devedor o ônus de demostrá-la de forma efetiva e robusta. Quanto ao ônus da prova, dispõe o art. 333 do CPC que incumbe à autora, quanto ao fato constitutivo do seu direito, e ao réu quanto à existência de fato impeditivo, modificativo ou extintivo do direito da autora” (fl. 37).
+    No recurso extraordinário sustenta-se violação do artigo 5º, incisos, LIV e LV, da Constituição Federal.
+    Decido.
+    A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa, o que inviabiliza o trânsito do recurso extraordinário nesse ponto. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes.” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, por fim, que o Tribunal de origem decidiu a lide amparado, exclusivamente, na legislação infraconstitucional pertinente e nas provas dos autos, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
