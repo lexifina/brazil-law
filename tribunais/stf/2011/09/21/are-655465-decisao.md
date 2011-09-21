@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. 1) ART. 5º, INC. XXXV, DA CONSTITUIÇÃO: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. 2) NEGATIVA DE SEGUIMENTO A RECURSO ESPECIAL. PRECLUSÃO DAS QUESTÕES CONSTITUCIONAIS OPONÍVEIS AO JULGADO DO TRIBUNAL DE SEGUNDO GRAU. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça (proferido em agravo de instrumento contra negativa de seguimento a recurso especial):
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. INGRESSO NO PADRÃO INICIAL DA CARREIRA COM ALTERAÇÃO DE LEI POSTERIOR AO CERTAME. LEGALIDADE. PREVALÊNCIA DO EDITAL. IMPOSSIBILIDADE.
+    1. A jurisprudência consolidada do Superior Tribunal de Justiça é no sentido de aplicar a lei vigente na data da nomeação do servidor em cargo público, ainda que o edital do certame contivesse previsão de ingresso em outro padrão de carreira e de vencimento.
+    2. Agravo Regimental não provido” (fl. 436 – grifos nossos).
+    Tem-se nesse julgado:
+    “Consoante anotado na decisão agravada, segundo a orientação do STJ, não há falar em direito adquirido nesta hipótese, pois ao servidor público, para fins de enquadramento na carreira, aplica-se a lei vigente à época da sua nomeação, e não a lei em vigor ao tempo da realização do concurso público” (fl. 432 – grifos nossos).
+    O Tribunal de origem manteve o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO - ADMINISTRATIVO - SERVIDORES DO TRIBUNAL DE CONTAS DO ESTADO - PADRÃO REMUNERATÓRIO - CONCURSO PÚBLICO - LEGISLAÇÃO EM VIGOR - POSTERIOR APROVAÇÃO E NOMEAÇÃO - REVOGAÇÃO DE LEI - NOVO VENCIMENTO - ADOÇÃO DA ÉGIDE ANTERIOR - IMPOSSIBILIDADE - RECURSO DESPROVIDO. O padrão remuneratório do servidor é definido pela legislação em vigor na data de sua nomeação e posse, e não quando de sua inscrição no concurso público ou publicação do edital, momento em que há apenas mera expectativa de direito do candidato à aprovação. Recurso não provido” (fl. 247 – grifos nossos).
+    2. Os Recorrentes alegam que a rejeição dos embargos declaratórios opostos contra o julgado recorrido teria contrariado o art. 5º, inc. XXXV, da Constituição da República.
+    Sustentam, ainda, contrariedade ao art. 5º, inc. XXXVI, da Constituição, pois, “ao obterem classificação dentro do número de vagas previsto no edital do certame, (…) passaram a titularizar o direito à posse e, por via de consequência, ao regime jurídico então vigente, o que lhes garantiria, inequivocamente, a remuneração referente ao padrão segundo disposição expressa da derrogada Lei Estadual n. 11.349/1993” (fl. 465 – grifos nossos).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de ofensa constitucional direta (fls. 481-483).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos mesmos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, XXXV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, do Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    7. Ademais, o julgado proferido pelo Superior Tribunal de Justiça não substituiu o acórdão do Tribunal de Justiça de Minas Gerais, pois foi mantida a negativa de seguimento ao recurso especial interposto pelos ora Agravantes (art. 512 do Código de Processo Civil).
+    Assim, estão preclusas eventuais questões constitucionais relativas à matéria discutida no julgado do Tribunal de segundo grau (como a alegação de direito adquirido a regime jurídico remuneratório vigente na data de publicação de edital de concurso público). Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA: PRECLUSÃO DA MATÉRIA CONSTITUCIONAL. ART. 512 DO CÓDIGO DE PROCESSO CIVIL: AUSÊNCIA DE SUBSTITUIÇÃO PROCESSUAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 832.659-AgR, de minha relatoria, Primeira Turma, Dje 6.5.2011).
+    No mesmo sentido: RE 194.382, Rel. Min. Maurício Corrêa, Plenário, DJ 25.4.2003; RE 191.454, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 8.6.1999; RE 178.215, Rel. Min. Moreira Alves, Primeira Turma, DJ 6.8.1999.
+    8. Nada há a prover quanto às alegações dos Agravantes.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
