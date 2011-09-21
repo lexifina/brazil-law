@@ -1,0 +1,26 @@
+Trata-se de recurso ordinário em mandado de segurança, interposto por Hermano de Deus Nobre Alves, contra acórdão proferido pela Primeira Sessão do Superior Tribunal de Justiça que, nos autos do MS 12.116/DF, denegou a segurança pleiteada.
+    Em 9/6/2009 dei provimento ao recurso ordinário para determinar o cumprimento integral da Portaria 1.600, de 22/8/2005, do Ministério da Justiça.
+    Inconformada, a União interpôs agravo regimental, requerendo a reforma da mencionada decisão.
+    Às fls. 299-301, Maria do Carmo Veloso Nobre Alves, ex-esposa do recorrente, comunica o falecimento dele (cópia da certidão de óbito juntada à fl. 313) e requer “sua admissão nos autos como terceira interessada” (fl. 301).
+    Decido.
+    O Supremo Tribunal Federal tem entendido que o falecimento do impetrante de mandado de segurança gera a extinção do processo sem julgamento de mérito, sendo inadmissível a habilitação de eventuais herdeiros em razão da natureza mandamental do writ e por se tratar de direito personalíssimo. Nesse sentido, transcrevo o que decidido pelo Plenário, no julgamento do RE 140.616-ED-ED-ED/RJ, Rel. Min. Maurício Corrêa:
+    “(...) MANDADO DE SEGURANÇA DEFERIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO EXTRAORDINÁRIO INTERPOSTO PELA UNIÃO FEDERAL. FALECIMENTO DO IMPETRANTE ANTES DO JULGAMENTO DO RECURSO. PROVIMENTO DO EXTRAORDINÁRIO SEM OBSERVÂNCIA DESSE FATO EXTINTIVO. NULIDADE. SUBSTITUIÇÃO DA PARTE PELO ESPÓLIO. IMPOSSIBILIDADE. CONSEQUÊNCIA: EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO, POR SUPERVENIENTE AUSÊNCIA DE UMA DAS CONDIÇÕES DA AÇÃO.
+    1. Se por ocasião do julgamento do extraordinário em mandado de segurança já se verificava a ausência de uma das condições da ação, o recurso não poderia ser apreciado por esta Corte, uma vez que o falecimento do impetrante trouxe como consequência a inexistência de parte no polo passivo da relação processual, impossibilitando o desenvolvimento válido e regular do processo. Nulidade dos julgamentos proferidos nesta Corte.
+    2. Habilitação dos herdeiros por morte do impetrante. Impossibilidade, dado o caráter mandamental da ação e a natureza personalíssima do único direito postulado: a anistia prevista no art. 8º do ADCT-CF/88.
+    3. Nulidade dos julgamentos proferidos pelo Supremo Tribunal Federal. Existência de acórdão concessivo da segurança pelo Superior Tribunal de Justiça e interposição do recurso extraordinário pela União Federal. Considerações. Consequência da derradeira decisão proferida neste Tribunal em sede de embargos declaratórios: extinção do processo, sem julgamento do mérito.
+    3.1. Ao tempo da interposição do recurso extraordinário estavam presentes os pressupostos de sua constituição e de desenvolvimento do mandado de segurança. Deste modo, enquanto não extinto o feito pela ausência de uma das condições da ação, a União Federal continuava com interesse para recorrer, posto que foi vencida na instância originária.
+    3.2. Tendo falecido o impetrante antes do julgamento do recurso extraordinário, a solução da causa não pode se restringir à declaração de nulidade dos julgamentos proferidos nesta instância, sob pena de se restabelecer, por via oblíqua, o aresto proferido pelo Superior Tribunal de Justiça.
+    3.3. Em hipótese excepcional como a presente, o processo há de ser extinto sem julgamento do mérito, por não persistir uma das condições da ação: a possibilidade jurídica do deferimento de eventual direito líquido e certo reclamado.
+    4. Embargos de declaração conhecidos para invalidar as decisões proferidas pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça, declarando extinto o processo, sem julgamento do mérito, ressalvadas aos herdeiros as vias ordinárias para postular o direito à anistia post mortem do impetrante”.
+    Nessa mesma linha, foi o recente julgamento do RE 445.409-AgR/AM, Rel. Min. Dias Toffoli, conforme se observa da ementa abaixo transcrita:
+    “Agravo regimental em recurso extraordinário. Mandado de segurança. Impetrante que vem a falecer no curso do andamento do processo. Extinção decretada.
+    1. A decisão ora atacada reflete a pacífica jurisprudência desta Corte a respeito do tema, em que se reconhece ser de cunho personalíssimo o direito em disputa em ação de mandado de segurança.
+    2. Não há que se falar, portanto, em habilitação de herdeiros em caso de óbito do impetrante, devendo seus sucessores socorrer-se das vias ordinárias na busca de seus direitos.
+      3. Agravo regimental não provido”.
+    Com esse raciocínio, destaco ainda os seguintes precedentes, entre outros: MS 22.355/DF e MS 25.641/DF, Rel. Min. Eros Grau; RMS 25.775-AgR/DF, Rel. Min. Cármen Lúcia; AI 454.517/SP, Rel. Min. Ayres Britto; RE 141.123-AgR/DF, Rel. Min. Nelson Jobim.
+    Isso posto, julgo extinto o processo sem resolução de mérito, por ausência superveniente das condições da ação (CPC, art. 267, VI), ressalvando-se o direito de os herdeiros recorrerem às vias ordinárias.
+    Prejudicado, pois, o agravo regimental de fls. 247-257 e o pedido de fls. 299-301, em que Maria do Carmo Veloso Nobre Alves requer o ingresso no feito na qualidade de terceira interessada.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
