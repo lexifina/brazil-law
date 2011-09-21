@@ -1,0 +1,26 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MANDADO DE SEGURANÇA. INTIMAÇÃO PESSOAL DO REPRESENTANTE JUDICIAL DE ÓRGÃOS PÚBLICOS. MATÉRIA INFRACONSTITUCIONAL. (LEI 4.348/64 E LEI 10.910/04). AGRAVO A QUE SE NEGA SEGUIMENTO.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário
+2. In casu, antes de se verificar se há violação ao texto constitucional seria necessário rever a interpretação conferida na origem à legislação infraconstitucional aplicável a espécie (Lei 4.348/64 alterada pela Lei 10.910/04).
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF face a acórdão do Tribunal de Justiça do Estado da Bahia , assim ementado (fl. 408):
+    “AÇÃO RESCISÓRIA. DECADÊNCIA. NULIDADE DO PROCESSO. OFENSA A LITERAL DISPOSIÇÃO DE LEI. ERRO DE FATO. ART. 485, V, E IX, DO CPC.
+    A publicação do acórdão tendo ocorrido no DJ de 20/30 de junho de 2002, o seu trânsito em julgado somente ocorreu no dia 30 de agosto de 2002, em face da suspensão do prazo em decorrência das férias forenses. Ajuizada a ação rescisória em 26 de agosto de 2004, é a mesma tempestiva a teor do art. 495 do Código de ritos.
+    Rejeitada a preliminar de decadência.
+    A nulidade do processo pela ausência de citação do Estado da Bahia, a questão deve ser analisada a partir o exame do art. 7º da Lei 1.533/51, em consonância com o art. 3º da Lei nº 4.348/64, que atribuía às autoridades administrativas, cabia a cientificação de deferimento da medida liminar no mandamus ao representante judicial da pessoa jurídica, ao qual caberia tomar ou as providências processuais cabíveis.
+    Somente após a aprovação da Lei nº 10.910, de 15.07.2004, DOU 16.07.2004 – Ed. Extra, dando nova redação ao art. 3º da Lei nº 4.348/64, tornou-se obrigatória a intimação pessoal pelo juiz, no prazo de 48 (quarenta e oito) horas, das decisões judiciais em que suas autoridades administrativas figurem como coatoras. Violação de lei inexistente.
+    Inocorrente, igualmente, o de erro de fato resultante de atos ou de documentos da causa, apto a ensejar ação rescisória, uma vez que, no mandado de segurança, em que funcionou da defesa da autoridade indigitada coatora a Douta Procuradoria do Tribunal de Contas do Estado da Bahia, esta trouxe para os autos toda a prova, na qual se embasou a defesa, e foi devidamente examinada a considerada.
+    Rejeitada a preliminar de decadência. Improcedência da ação .”
+    No recurso extraordinário o ora agravante alegou violação aos arts. 5º, XXXV, LIV e LV, 93, IX, 131 e 132, da CF/88. Asseverou que em nome do devido processo legal e da ampla defesa caberia à Procuradoria Geral do Estado a responsabilidade pela defesa dos atos administrativos estaduais, e a sua não intimação para tanto implicaria na nulidade absoluta do writ, o que teria acontecido na espécie.
+    O recurso teve seu seguimento negado com fundamento no óbice da Súmula 282 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O Tribunal a quo negou provimento ao recurso do Estado da Bahia por que considerou dispensável a intimação pessoal do representante judicial do ente público ante a falta de norma que assim determinasse. Assim, considerou que somente após a edição da Lei 10.910/04, que deu nova redação ao art. 3º, da Lei 4.348/64, passou a ser obrigatória a intimação pessoal dos representantes judiciais da União, Estados, Distrito Federal e Municípios.
+    Destarte, a controvérsia foi dirimida com fulcro em normas infraconstitucionais que disciplinam a espécie, logo, antes de se verificar se há violação ao texto constitucional seria necessário rever a interpretação conferida na origem aos diplomas normativos pertinentes, por isso que eventual violação à Constituição é indireta ou reflexa, o que, por si só, não desafia a instância extraordinária. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. DECADÊNCIA. REQUISITO DE ADMISSIBILIDADE. INEXISTÊNCIA DE REPERCUSSÃO GERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – Os Ministros desta Corte, no AI 800.074-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema relativo ao preenchimento dos requisitos de admissibilidade do mandado de segurança, por não se tratar de matéria constitucional. II – Agravo regimental improvido.” (ARE 691.990-AgR, Primeira Turma, Rel. Min. Ricardo Lewandowski, Dje de 10.08.2011).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
