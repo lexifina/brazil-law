@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “DECLARATÓRIA. APELAÇÃO DOS AUTORES OBJETIVANDO A MAJORAÇÃO DOS HONORÁRIOS SUCUMBENCIAIS. FALTA DE RECOLHIMENTO DAS CUSTAS. GRATUIDADE DE JUSTIÇA DEFERIDA À PARTE, QUE NÃO SE ESTENDE AOS ADVOGADOS. AVISO Nº 55 DO ENCONTRO DE DESEMBARGADORES COM COMPETÊNCIA CÍVEL. DESERÇÃO. RECURSO INADMISSÍVEL. PEDIDO DE DESCONSTITUIÇÃO DA COBRANÇA RELATIVA AO ESGOTO SANITÁRIO. CONFISSÃO QUANTO À NÃO PRESTAÇÃO DO SERVIÇO, CORROBORADA POR PROVA PERICIAL EMPRESTADA. COBRANÇA QUE TEM NATUREZA JURÍDICA DE TARIFA OU PREÇO PÚBLICO, FICANDO CONDICIONADA À EFETIVA CONTRAPRESTAÇÃO. ADMISSÃO DE PROVA PERICIAL EMPRESTADA. MATÉRIA PRECLUSA. INADMISSÃO DO PRIMEIRO E DESPROVIMENTO DO SEGUNDO RECURSO”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    O agravo não merece acolhida.
+    O Pleno desta Corte, quando do julgamento do ARE 639.228-RG/RJ, Rel. Min. Cezar Peluso, decidiu pela ausência de repercussão geral da discussão sobre o tema versado nos autos - violação aos princípios da ampla defesa e do contraditório nos casos de indeferimento de produção de provas -, por se tratar de matéria restrita ao âmbito processual. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
