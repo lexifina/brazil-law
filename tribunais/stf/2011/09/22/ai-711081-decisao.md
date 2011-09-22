@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa tem o seguinte teor:
+    “ADMINISTRATIVO. LEI MUNICIPAL QUE CONCEDE AUMENTO DE VENCIMENTOS A SERVIDORES ATIVOS. PEDIDO DE REVISÃO DE PROVENTOS COM EXTENSÃO ÀS AUTORAS, SERVIDORAS APOSENTADAS, DO REFERIDO BENEFÍCIO NO PERÍODO QUE MENCIONAM, COM FULCRO NO § 8º DO ART. 40 DA CONSTITUIÇÃO DA REPÚBLICA. COBRANÇA DE DIFERENÇAS. JUSTIFICATIVA PELO ENTE PÚBLICO, QUANTO AO RETARDAMENTO EM CUMPRIR O REFERIDO DISPOSTIVO, ANTE A NECESSIDADE DE IDENTIFICAR FONTE DE CUSTEIO. IMPOSSIBILIDADE DE ACEITÁ-LA ANTE O DISPOSTO NO § 1º DO ART. 4º DA LEI DE RESPONSABILIDADE FISCAL. RECONHECIMENTO DO DIREITO NO PERÍODO REQUERIDO NA INICIAL, SENDO VEDADA SUA AMPLIAÇÃO EM SEDE DE APELAÇÃO.
+    DESPROVIMENTO DE AMBOS OS RECURSOS.” (Fls. 49)
+    No recurso extraordinário, o recorrente aponta violação ao disposto no art. 195, § 5º, da Carta Magna. Sustenta, em síntese, que “o art. 40, § 4º, da Constituição da República, ao estabelecer a aplicação da paridade de remuneração e benefícios entre servidores ativos e inativos, determina que esta deverá ocorrer na forma da lei” (fls. 63).
+    O acórdão impugnado concluiu pelo direito das servidoras aos benefícios conferidos aos servidores da ativa a partir da análise de norma infraconstitucional (Lei municipal 2.905/1998). Superar tais conclusões exigiria exame prévio da referida legislação, providência inviável no recurso extraordinário. Incide, na espécie, o óbice da Súmula 280/STF.
+    Ademais, a jurisprudência deste Tribunal assentou que, decorrendo a auto-aplicabilidade diretamente do texto constitucional, não pode ser ela subordinada à identificação da fonte de custeio total, nos termos do art. 195, § 5º, que é limitação dirigida à lei ordinária de criação, majoração ou extensão de prestações previdenciárias (cf. ADI 352, rel. min. Sepúlveda Pertence, DJ de 12.12.1997, e RE 215.401, rel. min. Néri da Silveira, DJ de 05.12.1997).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 22 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
