@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “RECURSO DE REVISTA. PRESCRIÇÃO APLICÁVEL. DIFERENÇAS SALARIAIS DECORRENTES DA CONVERSÃO EM URV. LEI N.º 8.880/94. SÚMULA N.º 294-TST. Em relação ao pedido de diferenças salariais decorrentes da conversão em URV, aplica-se a prescrição parcial, nos termos do que dispõe a Súmula n.º 294 desta Corte, já que se trata de parcela assegurada por preceito de lei. Revista conhecida e provida” (fl. 174).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa, aos arts. 5º, II e XXXVI, 7º, XXIX, e 37 da mesma Carta.
+    O agravo não merece acolhida.
+    Ressalta-se, preliminarmente, que à exceção do art. 7º, XXIX, os demais dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido:
+    Além disso, esta Corte fixou o entendimento no sentido de que a discussão acerca da prescrição trabalhista, se parcial ou total, é de natureza infraconstitucional. Incabível, portanto, o recurso extraordinário. Nesse sentido, trago à colação julgados de ambas as Turmas desta Corte:
+    “TRABALHISTA. CONTROVÉRSIA ACERCA DA ESPÉCIE DE PRESCRICÃO, SE TOTAL OU PARCIAL. ALEGADA VIOLAÇÃO AO INCISO XXIX DO ART. 7º DA CONSTITUIÇÃO FEDERAL. PRECEDENTES. Caso em que a suposta ofensa à Carta da República, se existente, dar-se-ia de forma reflexa ou indireta, não ensejando a abertura da via extraordinária. Precedentes: AIs 137.562-AgR, 200.733-AgR, 262.472-AgR, 289.207-AgR e 137.562-AgR. De mais a mais, foi conferida prestação jurisdicional adequada, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante, não se configurando cerceamento de defesa. Agravo desprovido” (AI 569.103-AgR/RS, Rel. Min. Carlos Britto, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Admissibilidade de recurso trabalhista. 3. Ofensa reflexa à CF/88. Precedentes. 4. Dicotomia entre espécies de prescrição - parcial ou total. Controvérsia infraconstitucional. Precedentes. 5. Decisão devidamente fundamentada. 6. Agravo regimental a que se nega provimento” (AI 617.001-AgR/AM, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
