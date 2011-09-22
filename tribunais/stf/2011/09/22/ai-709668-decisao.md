@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão prolatado por Tribunal de Justiça estadual no julgamento de ação direta de inconstitucionalidade.
+    O agravo de instrumento e o recurso extraordinário são extemporâneos.
+    O recurso extraordinário foi interposto em 18.10.2006, antes, portanto, da publicação do acórdão que julgou os embargos de declaração (em 08.02.2007, conforme certidão de fls. 73), sem que haja nos autos notícia de posterior ratificação do recurso.
+    Visto que o acórdão proferido em embargos de declaração é parte integrante do acórdão recorrido, somente a partir de sua publicação começa a fluir o prazo recursal. Esta Corte tem entendimento pacífico no sentido de que a interposição do recurso extraordinário só é cabível após a publicação no Diário da Justiça do acórdão de que se recorre, uma vez que é imprescindível o conhecimento dos fundamentos adotados pelo órgão julgador para que se possa impugná-los. Aplica-se ao caso o disposto na Súmula 281/STF.
+    Em sentido semelhante, confiram-se: RE 407.812-AgR (rel. Min. Cezar Peluso, DJ de 16.09.2005); AI 541.681-ED (rel. min. Carlos Velloso, DJ de 23.09.2005); RE 198.131-AgR (rel. min. Ellen Gracie, DJ de 18.11.2005) e RE 255.679-AgR (rel. min. Carlos Britto, DJ de 11.02.2005).
+    Quanto ao agravo de instrumento, verifico que a decisão que inadmitiu o recurso extraordinário foi publicada em 09.10.2007 (terça-feira), conforme certidão de fls. 95, tendo se esgotado o prazo para a interposição de agravo de instrumento em 19.10.2007 (sexta-feira), ao passo que o presente agravo foi protocolado em 29.10.2007.
+    Ressalte-se que o prazo recursal em dobro, previsto no art. 188 do Código de Processo Civil, não se aplica aos processos de controle abstrato de normas, mesmo para efeito de interposição de recurso extraordinário dirigido a esta Corte. Nesse sentido, o RE 579.760-ED (rel. min. Cezar Peluso, Segunda Turma, DJe de 20.11.2009):
+    “EMENTA: RECURSO. Embargos de declaração. Caráter infringente. Embargos recebidos como agravo. Controle abstrato de constitucionalidade de lei local em face de Constituição estadual. Processo de cunho objetivo. Prazo recursal em dobro. Inaplicabilidade. Recurso extraordinário não conhecido. Agravo regimental improvido. Precedentes. São singulares os prazos recursais das ações de controle abstrato de constitucionalidade, em razão de seu reconhecido caráter objetivo.”
+    Ainda nesse sentido, confiram-se: AI 767.954 (rel. min. Celso de Mello, DJe de 19.10.2009); RE 556.331 (rel. min. Marco Aurélio, DJ de 11.09.2009); RE 594.709 (rel. min. Cármen Lúcia, DJe de 10.06.2009).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 22 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
