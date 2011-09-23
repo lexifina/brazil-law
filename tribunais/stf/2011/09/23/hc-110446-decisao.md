@@ -1,0 +1,34 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. PRISÃO CAUTELAR DECORRENTE DE CONDENAÇÃO. FUNDAMENTAÇÃO. ORDENS DENEGADAS NO TRIBUNAL DE JUSTIÇA DO RIO DE JANEIRO E NO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA. LIMINAR INDEFERIDA. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Habeas corpus, com pedido liminar, impetrado por Dayanna da Rocha Pietrani, Rosana Miranda Nogueira e Carlos Eduardo Mota Ferraz, advogados, em favor de Bruno de Oliveira Alvarenga, apontando-se como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem pedida no Habeas Corpus nº 198.811.
+    2. Os Impetrantes noticiam terem sido o Paciente e “outros três rapazes” presos em flagrante, em 2.12.2009, acusados da prática de tentativa de latrocínio.
+    Em 20.8.2010, no juízo da 1ª Vara da Comarca de Santo Antônio de Pádua, o Paciente foi condenado a “quatro anos e oito meses de reclusão”, negando-se-lhe o direito de recorrer em liberdade.
+    Impetrou-se habeas corpus no Tribunal de Justiça do Rio de Janeiro, tendo a 2ª Câmara Criminal denegado a ordem.
+    No Superior Tribunal de Justiça também se denegou a ordem pedida:
+    “HABEAS CORPUS. LATROCÍNIO TENTADO. DIREITO DE RECORRER EM LIBERDADE. PACIENTE PRESO EM FLAGRANTE E QUE ASSIM PERMANECEU DURANTE TODA A INSTRUÇÃO CRIMINAL. PERSISTÊNCIA DOS MOTIVOS DO ENCARCERAMENTO. GRAVIDADE CONCRETA DO DELITO.MODUS OPERANDI. PERICULOSIDADE DO AGENTE NECESSIDADE DE ACAUTELAMENTO DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. Permanecendo o paciente segregado durante toda a instrução criminal por força de prisão em flagrante, tendo o Juízo de Primeiro Grau e o Tribunal a quo entendido por sua manutenção no cárcere, ante a persistência dos requisitos previstos no art. 312 do CPP, não deve ser revogada a custódia cautelar se, após a condenação, não houve alteração fática a ponto de autorizar a devolução do seu status libertatis.
+    2. Não fere o princípio da presunção de inocência e do duplo grau de jurisdição a vedação do direito de apelar em liberdade, se ocorrentes os pressupostos legalmente exigidos para a preservação do paciente na prisão.
+    3. Verificada a necessidade da custódia antecipada também para a garantia da ordem pública, em razão da gravidade concreta do delito em tese praticado, bem demonstrada pelo modus operandi empregado, além da nítida periculosidade do agente.
+    4. Ordem denegada.”
+    3. Voltando-se contra esse acórdão, argumentam os Impetrantes ser inadmissível “fundamentar um decreto de manutenção prisional no artigo 594 do Código de Processo Penal nos idos do ano de 2010”, porque este Supremo Tribunal reconhecera não ter sido aquele dispositivo “agasalhado pela ordem jurídico-constitucional de 1988”.
+    Apontam a existência de afronta ao art. 93, IX, da Constituição da República, “na medida em que os argumentos de periculosidade, dolo intenso e crime de roubo como causado de grande instabilidade no seio social” não estão “demonstrados com qualquer elemento empírico”, pelo que não podem sustentar a “garantia da ordem pública”.
+    Lembram estar o Paciente preso há um ano e dez meses, tempo esse “equivalente a 40% de sua pena”.
+    5. Requerem liminar, “para o fim de cassar o decreto de prisão que ora pesa contra o Paciente e assim restabelecer sua liberdade imediatamente”, e pedem a concessão da ordem, “mantendo-se o direito do Paciente em recorrer em liberdade até o trânsito em julgado da decisão condenatória”.
+    Examinada a matéria nos seus aspectos essenciais, DECIDO.
+    6. Os elementos fáticos e jurídicos apresentados nesta impetração não autorizam o deferimento de liminar.
+    Ao contrário do que afirmam os Impetrantes, a decisão de primeiro grau não se limitou às referências ao art. 594 do Código de Processo Penal.
+    Houve expressa alusão ao art. 312 e às razões que justificaram a prisão cautelar, a saber, “a periculosidade demonstrada pela ação e pela elevada intensidade do dolo” e a “grande instabilidade social na comunidade” decorrente do crime de roubo.
+    Esses argumentos foram destacados na segunda instância estadual, para quem “a custódia do Paciente revela-se necessária, como devidamente fundamentou a apontada autoridade coatora, haja vista, à periculosidade demonstrada pela violenta ação de subtração e pela elevada intensidade do dolo de tal conduta. Ademais, em risco estaria a ordem pública, vez que este tipo de crime de roubo causa grande instabilidade social na comunidade como um todo, e, ainda mais em localidades de proporções menores como a do caso em análise. Por fim, o crime foi cometido com dolo de premeditação e planejamento e o réu e os corréus responderam ao processo na condição de réus presos. Não se pode olvidar, pois, que haveria até mesmo uma contradictio in terminus se fosse o Paciente solto justamente no momento em que se faz presente o juízo de reprovação”.
+    O Superior Tribunal de Justiça trilhou linha de raciocínio idêntica, sublinhando “a necessidade da custódia antecipada para garantia da ordem pública, em razão da gravidade concreta do delito em tese praticado, bem demonstrada pelo modus operandi empregado, além da nítida periculosidade do agente”.
+    O acórdão questionado não destoa da orientação consolidada neste Supremo Tribunal, pois “a periculosidade do paciente, verificada pela gravidade in concreto do crime, bem como pelo modus operandi mediante o qual foram praticados os delitos” representam elementos idôneos para a prisão preventiva (Habeas Corpus n° 106.991, Relator o Ministro Ricardo Lewandowski, p. 26.4.2011)
+     Ademais, “a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de reconhecer que a prisão decorrente de sentença condenatória meramente recorrível não transgride a presunção constitucional de inocência, desde que a privação da liberdade do sentenciado - satisfeitos os requisitos de cautelaridade que lhe são inerentes - encontre fundamento em situação evidenciadora da real necessidade de sua adoção” (Habeas Corpus nº 99.914, relatora a Ministra Ellen Gracie, p. 30.4.2010).
+    Deve ser consignado, também, que as decisões das instâncias precedentes estão formalmente motivadas, não havendo, em princípio, agressão ao art. 93, IX, da Constituição da República.
+    Essas constatações desfiguram o “fumus boni iuris”, indispensável à liminar.
+    Por último, registro que a permanência do Paciente na prisão por um período correspondente a “40% (quarenta por cento) da pena” não repercute na liminar, pois razões outras, não apresentadas nesta impetração, podem ter inviabilizado o deferimento de benefícios previstos na Lei de Execução Penal.
+    7. Pelo exposto, ausente a plausibilidade jurídica, indefiro a liminar.
+    8. Suficiente a instrução, dada a urgência do caso, vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 23 de setembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
