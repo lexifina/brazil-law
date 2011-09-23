@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+    O recurso está prejudicado. É que o Superior Tribunal de Justiça deu por prejudicado o Recurso Especial nos seguintes termos:
+                      “[...]
+    1. Trata-se de recurso especial interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo que, em ação ação de desapropriação, decidiu pela "necessidade de prévia avaliação do imóvel e prévio depósito do valor real do bem" (fl. 94) para imissão provisória da posse. No recurso especial (fls. 201/217), o recorrente aponta violação ao art. 415, § 1º, 'c', do Decreto-Lei n. 3365/41, pois depositou montante maior do que "o valor venal cadastrado na Prefeitura para a apuração de IPTU", de forma que "era o caso de concessão da imissão provisória independentemente de 'avaliação judicial prévia'" (fl. 204). Sem contra-razões (fl. 275). Parecer ministerial às fls. 297/310.
+    2. No Parecer, o Ministério Público Federal consignou que (fls. 298/299):
+    ‘(...) conforme consulta ao sítio do Tribunal de Justiça do Estado de São Paulo (anexo), a referida avaliação foi realizada, o depósito do valor do bem ocorreu regularmente e a imissão na posse já foi determinada pelo juízo singular, verbis : Com base na avaliação prévia de fls.165/180, fixo o valor provisório do imóvel em R$154.588,30 (cento e cinquenta e quatro mil, quinhentos e oitenta e oito reais e trinta centavos), para julho de 2008. Caso a expropriante pretenda imitir-se na posse provisória do imóvel deverá depositar o valor acima no prazo de 20 (vinte) dias, tendo em vista o disposto no art.5º, inc. XXIV da Constituição Federal.(anexo)..........................................................................................................................................Diante dos depósitos de fls.37 e 202, defiro o pedido de imissão provisória na posse do imóvel, expeça-se mandado, devendo a Fazenda do Estado providenciar as peças necessárias, no prazo de 05 (cinco) dias. (...)’
+    A rigor, verifica-se do andamento processual da ação 0127397-05.2008.8.26.0053, que tramita na 12ª Vara de Fazenda Pública do Estado de São Paulo, que já foi inclusive proferida sentença de procedência do pedido de desapropriação, em 08.04.2011. Nessas circunstâncias, considerando que aqui o objeto da demanda seria apenas concessão da imissão provisória da posse independentemente de prévia avaliação judicial, é de se ter por prejudicado o recurso especial.
+    3. Diante do exposto, julgo prejudicado o recurso especial.”
+    2. Nessa contextura, o apelo extremo e, conseqüentemente, o agravo de instrumento manejado contra a decisão que negou trânsito ao recurso extraordinário perderam os respectivos objetos.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao inciso IX do art. 21 do RI/STF, julgo prejudicado o agravo.
+    Publique-se.
+    Brasília, 23 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
