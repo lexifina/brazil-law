@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor:
+    “AGRAVO - IRREGULARIDADE DE REPRESENTAÇÃO PROCESSUAL DESCARACTERIZADA - DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA - NÃO-PREENCHIMENTO DOS PRESSUPOSTOS ÍNTRINSECOS DO RECURSO DE REVISTA - MANUTENÇÃO DA DENEGAÇÃO DE SEGUIMENTO DO AGRAVO DE INSTRUMENTO POR FUNDAMENTO DIVERSO.
+    1. O agravo de instrumento da Reclamada-PETROBRÁS versava sobre as preliminares de incompetência da Justiça do Trabalho e de ilegitimidade passiva "ad causam" e sobre a extensão de reajuste salarial do pessoal da ativa aos aposentados.
+    2. O despacho-agravado denegou seguimento ao agravo de instrumento, por irregularidade de representação, nos termos da Súmula 395, IV, do TST.
+    3. Embora demonstrado que a irregularidade de representação não ocorria, a denegação de seguimento do agravo de instrumento deve ser mantida, porquanto a revista não reunia condições de admissibilidade.
+    4. Com efeito, o 19º TRT não tratou da preliminar de incompetência da Justiça do Trabalho, para julgar pleito que envolve as contribuições de previdência privada, pelo que o recurso de revista, no particular, enfrenta o óbice da Súmula 297, I, do TST. O mesmo se passa em relação à preliminar de ilegitimidade passiva ‘ad causa’. Quanto ao reajuste concedido ao pessoal da ativa, originador das diferenças de complementação de aposentadoria pleiteadas, o único aresto colacionado para o tema versa sobre hipótese fática diversa da dos autos, qual seja, da incorporação da parcela alusiva à participação nos lucros, quando a situação dos autos remete-se a reajuste salarial. Nesse ponto, o apelo esbarrava na Súmula 296, I, do TST.
+    Agravo desprovido.” (Fls. 286)
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, LIII; 7º, XXI; 8º, III; 114; e 202, caput e § 2º, da Constituição Federal.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 114, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 deste Tribunal).
+    Por outro lado, os fundamentos trazidos à colação pelo recurso extraordinário não são suficientes para desconstituir o acórdão recorrido, porque este partiu da premissa de não provimento por falta de atendimento dos pressupostos de admissibilidade recursal, enquanto o recurso extraordinário trata da matéria de fundo (competência da Justiça do Trabalho).
+    Ademais, a controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos de competência de outros tribunais cinge-se à norma processual, de ordem infraconstitucional. Desta feita, o Supremo Tribunal Federal, apreciando o RE 598.365-RG (rel. min. Ayres Britto, DJe de 26.03.2010), reafirmou a jurisprudência e não reconheceu a repercussão geral do tema. É o que se observa na ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso ‘elemento de configuração da própria repercussão geral’, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+     Quanto à extensão de benefícios os empregados aposentados, esta Corte reafirmou a jurisprudência ao rejeitar a existência de repercussão geral do tema, por ausência de matéria constitucional, conforme se depreende da ementa do RE 590.005-RG (rel. min. Cezar Peluso, Plenário Virtual, DJe de 18.12.2009):
+    “EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.”
+    Nesse sentido: AI 814.920 (rel. min. Cármen Lúcia, DJe de 15.10.2010).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 24 de setembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
