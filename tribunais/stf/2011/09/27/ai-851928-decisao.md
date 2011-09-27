@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL - ADMINISTRATIVO -PROGRESSÃO - DECRETO nº 36.033/94 - SERVIDOR DO DER - DIREITO ASSEGURADO - OMISSÃO DA AUTARQUIA - DIFERENÇAS SALARIAIS DEVIDAS - JUROS DE MORA DE 0,5% AO MÊS - ART. 1º-F DA LEI N. 9.494/97. O servidor do DER, preenchendo os requisitos legais, faz jus à progressão disciplinada pelo artigo 27 do Decreto Estadual nº 36.033/94, de sorte que, omitindo-se a autarquia em reconhecer o direito, forçoso concluir pela procedência do pedido referente às diferenças salariais daí decorrentes, respeitada eventual prescrição qüinqüenal. Os juros de mora de 0,5% (meio por cento) ao mês, a contar da citação, encontram guarida no art. 1º-F da Lei n. 9.494/97, que se destina a 'verbas remuneratórias devidas a servidores e empregados públicos.'” (fl. 271).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 2º, 5º, II, 37, caput, 61, § 1º, II, a, e 165 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, o aresto impugnado decidiu a questão posta nos autos com fundamento na interpretação das normas locais aplicáveis à espécie. Dessa forma, a verificação da alegada ofensa ao texto constitucional envolve a reapreciação da interpretação dada àquelas normas pelo Juízo a quo, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido, cito o AI 803.599-AgR/MG, de minha relatoria, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROGRESSÃO NA CARREIRA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. ALEGADA OFENSA AO ART. 5º, II, DA CF. OFENSA REFLEXA. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+    I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie (Lei 10.961/92 e Decreto 36.033/94). Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF.
+    II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais.
+    III – Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    IV - Agravo regimental improvido”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões: AI 809.974-AgR/MG, de minha relatoria; RE 634.452/MG e AI 836.348/MG, Rel. Min. Cármen Lúcia; AI 814.307/MG e AI 814.392/MG, Rel. Min. Ellen Gracie; AI 832.691/MG e AI 823.055/MG, Rel. Min. Gilmar Mendes; AI 794.028/MG, Rel. Min. Dias Toffoli; AI 766.164/MG, Rel. Min. Marco Aurélio; AI 772.763/MG, Rel. Min. Ayres Britto; AI 802.464/MG e AI 798.225/MG, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
