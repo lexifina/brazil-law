@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1195, de 26 de setembro de 2011
+Altera a Instrução Normativa RFB nº 1.073, de 1º de outubro de 2010, que dispõe sobre o controle aduaneiro informatizado da movimentação e Despacho Aduaneiro de Importação e de Exportação de Remessas Expressas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto na Resolução do Conselho Monetário Nacional nº 3.965, de 31 de março de 2011, resolve:
