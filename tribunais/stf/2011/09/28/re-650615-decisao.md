@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA C/C PEDIDO DE ASSISTÊNCIA JUDICIÁRIA E TUTELA ANTECIPADA. DESAPROPRIAÇÃO. CESSÃO DE DIREITOS À INDENIZAÇÃO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO À UNANIMIDADE.
+    O desapropriante pode desistir da desapropriação, mas deverá, em princípio, indenizar o proprietário, pelo período de ocupação do imóvel e pelos prejuízos que lhe decorreram deste ato.
+    No que diz respeito aos juros compensatórios e moratórios a matéria encontra-se devidamente sumulada pelo STF e STJ, quais sejam, as súmulas nº 618 e nº 69 respectivamente” (fl. 756).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LIV e LV, e 37, § 6º, da mesma Carta, ao argumento de que não foi comprovado o nexo causal entre o prejuízo suportado pelos recorridos e a ação estatal.
+    Sustentou-se, ainda, que, tendo sido preenchidos os requisitos do art. 255 do Regimento Interno do Superior Tribunal de Justiça, “o agravo merece ser provido para reformar a decisão recorrida, possibilitando-se o processamento do apelo excepcional indevidamente trancado” (fl. 971).
+    A pretensão recursal não merece acolhida.
+    É que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 426.383-AgR/PR, Rel. Min. Ellen Gracie; AI 591.043/SP, Rel. Min. Cármen Lúcia; AI 725.225/MG, Rel. Min. Marco Aurélio.
+    Por fim, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na sua fundamentação. Com efeito, o recorrente desenvolve argumentos com o propósito de “processar o apelo excepcional indevidamente trancado” (fl. 971), ao passo que o acórdão impugnado julgou apelação em ação de indenização por desapropriação indireta. Inadmissível, portanto, o recurso, nos termos da Súmula 284 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
