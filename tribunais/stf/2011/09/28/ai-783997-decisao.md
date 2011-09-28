@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que negou processamento a recurso extraordinário fundado no art. 102, III, “a”, da Constituição Federal, interposto contra acórdão assim ementado:
+    “Policial Militar – Ação Ordinária – Nulidade de ato demissório – absolvição criminal decretada com base no artigo 386, inciso V, do Código de Processo Penal – Independência entre as esferas de responsabilização administrativa e criminal – A sentença absolutória repercute na esfera administrativa apenas se reconhecer a inexistência do fato ou da autoria – Apelo não provido”. (fl. 274)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 5º, LIII, 41, §2º, 94 e 125, §5º do Texto Constitucional.
+    O recorrente aduz a nulidade do ato demissório, tendo em vista sua absolvição, pelos mesmos fatos, na esfera criminal.
+    Sustenta ainda que possui direito a ser julgado pelo Tribunal de Justiça Militar com a composição definida pela Constituição.
+    Decido.
+    Não assiste razão ao recorrente.
+    O acórdão recorrido consignou o seguinte:
+    “Inicialmente, cumpre observar que o Apelante não trouxe aos autos cópia da sentença criminal em que baseia suas pretensões, mas apenas certidão do feito, juntada à fl. 16 (Processo nº 245/00 da Comarca de Vargem Grande do Sul). Como consequência, não se pode aferir especificamente em que hipótese do mencionado inciso V baseou-se o decreto absolutório e quais os fundamentos para tanto.
+    Embora o § 3º do artigo 138 da Constituição Estadual preveja que a absolvição judicial referente ao ato que deu causa à demissão enseja a reintegração do servidor público militar, tal ocorre apenas em duas hipóteses específicas: reconhecimento de inexistência do fato ou da autoria. Isso se justifica pela independência entre as esferas de responsabilização administrativa e penal.
+    (…)
+    Assim, apenas nesses dois casos é que a sentença criminal absolutória produz efeitos na esfera administrativa para afastar eventual punição pelos mesmos fatos. Havendo resíduo, ou seja, se os fatos não forem rigorosamente os mesmos, a Administração tem o dever de apreciá-lo e, se necessário, aplicar a sanção pertinente. De acordo com a Súmula nº 18 do Supremo Tribunal Federal: ‘Pela falta residual, não compreendida na absolvição pelo juízo criminal, é admissível a punição administrativa do servidor público.’
+    Entretanto, a situação do Apelante não se amolda a nenhuma das duas exceções que autorizam a repercussão da decisão criminal na esfera administrativa. Conforme certificado à fl. 16, a absolvição decorreu de reconhecimento de circunstância que excluiu o crime ou isentou-o de pena, motivo pelo qual não há que se falar em vício do ato demissório, que permanece intacto”.
+    Tal entendimento está em sintonia com a jurisprudência desta Corte no sentido de que as instâncias penal e administrativa são independentes. Nesse sentido, confira-se:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROCESSO ADMINISTRATIVO DISCIPLINAR. 1) CONTROVÉRSIA SOBRE A OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO: IMPOSSIBILIDADE DO REEXAME DE PROVAS.
+    INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2) ABSOLVIÇÃO NA ESFERA CRIMINAL. DEMISSÃO EM PROCESSO ADMINISTRATIVO. INDEPENDÊNCIA DAS ESFERAS PENAL E ADMINISTRATIVA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 807.190/Sp-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/2/11).
+    “ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. DEMISSÃO. SERVIDOR PÚBLICO. ABSOLVIÇÃO NA ESFERA CRIMINAL. ART. 386, III, DO CPP. INDEPENDÊNCIA DAS INSTÂNCIAS PENAL E ADMINISTRATIVA. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. Embargos de declaração recebidos como agravo regimental, consoante iterativa jurisprudência do Supremo Tribunal Federal. 2. A absolvição na esfera criminal nos termos do art. 386, III, do CPP, no caso, não repercute na instância administrativa, porquanto são independentes. Precedentes. 3. O revolvimento de fatos e provas não é viável nesta via extraordinária (Súmula STF 279). 4. Agravo regimental improvido”. (AI nº 521.569/PE-ED, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 14/5/10).
+    Por fim, verifico que a discussão sobre a composição do Tribunal de Justiça Militar não foi debatida pelo Tribunal de origem, tampouco foram opostos embargos de declaração para sanar a eventual omissão, configurando-se, no caso, a ausência de prequestionamento a atrair a incidência da Súmula 356 do STF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
