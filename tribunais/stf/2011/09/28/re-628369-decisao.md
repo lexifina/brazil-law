@@ -1,0 +1,16 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão, que, proferido, em sede de Ação Direta de Inconstitucionalidade, pelo Órgão Especial do E. Tribunal de Justiça do Estado de São Paulo, está assim ementado (fls. 74):
+    “Ação direta de inconstitucionalidade. Lei nº 4.077, de 27 de junho de 2005. Norma de iniciativa parlamentar, que condiciona a doação de imóveis retomados pelo Município, por autorização legislativa, para sua retransmissão gratuita. Ausência de ofensa ao princípio da separação dos poderes. Adequação dos atos administrativos aos princípios da administração pública. Ação improcedente.”
+    O Município de Catanduva/SP, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido os preceitos inscritos nos artigos 2º e 29, todos da Constituição Federal.
+    A análise dos autos evidencia que o acórdão mencionado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na apreciação da controvérsia em causa.
+    Com efeito, o Plenário do Supremo Tribunal Federal, ao julgar a ADI 425/TO, Rel. Min. MAURÍCIO CORRÊA, fixou entendimento que desautoriza a pretensão ora deduzida pela parte recorrente:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. PRELIMINAR. CONSTITUIÇÃO DO ESTADO. PROCESSO LEGISLATIVO. (…). INICIATIVA. DOAÇÃO DE BENS DO ESTADO. (...).
+    …...................................................................................................
+    5. Lei 215/90. Ofensa ao princípio da separação dos Poderes por norma que atribui ao Governador autorização para dispor, segundo sua conveniência, de bens públicos do Estado, sem especificá-los. Instrumento anômalo de delegação de poderes. Inobservância do processo legislativo concernente às leis delegadas. Ação, no ponto, julgada procedente.
+    …...................................................................................................
+    Ação direta julgada procedente em parte para declarar a inconstitucionalidade da Lei estadual 215/90.”
+    Cabe registrar, finalmente, tratando-se da hipótese prevista no art. 125, § 2º, da Constituição da República, que o provimento e o improvimento de recursos extraordinários interpostos contra acórdãos proferidos por Tribunais de Justiça em sede de fiscalização normativa abstrata têm sido veiculados em decisões monocráticas emanadas dos Ministros Relatores da causa no Supremo Tribunal Federal, desde que, tal como sucede na espécie, o litígio constitucional já tenha sido definido pela jurisprudência prevalecente no âmbito deste Tribunal (RE 243.975/RS, Rel. Min. ELLEN GRACIE – RE 334.868-AgR/RJ, Rel. Min. AYRES BRITTO – RE 336.267/SP, Rel. Min. AYRES BRITTO – RE 353.350- -AgR/ES, Rel. Min. CARLOS VELLOSO – RE 369.425/RS, Rel. Min. MOREIRA ALVES – RE 371.887/SP, Rel. Min. CÁRMEN LÚCIA – RE 396.541/RS, Rel. Min. CARLOS VELLOSO – RE 415.517/SP, Rel. Min. CEZAR PELUSO – RE 421.271-AgR/RJ, Rel. Min. GILMAR MENDES – RE 444.565/RS, Rel. Min. GILMAR MENDES – RE 461.217/SC, Rel. Min. EROS GRAU – RE 501.913/MG, Rel. Min. MENEZES DIREITO – RE 592.477/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 601.206/SP, Rel. Min. EROS GRAU, v.g.).
+    Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro CELSO DE MELLO
+Relator
