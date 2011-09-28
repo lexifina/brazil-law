@@ -1,0 +1,23 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, manejado com suporte na alínea “a” do inciso III do artigo 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 317):
+    “ DECISÃO – Julgamento dos embargos declaratórios – Nulidade – Negativa de prestação jurisdicional – Inocorrência – Questões apreciadas de modo abrangente sentença – Objetivo de prestar caráter infringente aos declaratórios – Inadmissibilidade – Preliminar afastada.
+    PROCESSUAL – Existência de dois sindicatos representativos das escolas de educação infantil, um de abrangência estadual e outro, municipal – Réu na ação que representa a categoria no âmbito estadual – Contestante e reconvinte com representatividade municipal – Inocorrência – Convergência entre o réu e o contestante-reconvinte – Utilização de mais de uma nomenclatura oficial – Circunscrição, no entanto, ao Município – Procurações outorgadas e documento do CGC a comprovarem a identidade –
+    PERSONALIDADE JURÍDICA – Falta – Sindicato réu-reconvinte que não possui registro no Ministério do Trabalho – Desnecessidade – Discussão dos autos que gira em torno, exatamente, da possibilidade de sua criação – Inafastabilidade do Poder Judiciário – Aplicação do artigo 7º, parágrafo 2º, da IN 1/97 –
+    SINDICATO AUTOR COMO LEGÍTIMO REPRESENTANTE DOS ESTABELECIMENTOS DE ENSINO – Cessação – Situação que se modificou com a criação do sindicato apelado, que, passou a representar a categoria das escolas de educação infantil, no Município de São Paulo – Persistência quanto à categoria, ao menos no âmbito desta ação, nos demais Municípios do Estado –
+    LIBERDADE DE FILIAÇÃO – Afronta – Escolas que poderiam pretender não se desvincular do sindicato apelante – Incorrência – Limite da liberdade fixado no princípio da unicidade –
+    DESMEMBRAMENTO – Atrelamento ao sindicato primitivo – Desnecessidade – Liberdade de filiação – Oportunidade do desmembramento a ser apreciada, exclusivamente, pela categoria –
+    HONORÁRIOS ADVOCATÍCIOS – Desrespeito ao artigo 20, parágrafo 3° e suas alíneas, do C.P.C. - Afastamento – Sentença declaratória e de imposição de obrigação de não fazer – Arbitramento moderado -
+    - Improvimento.”
+    2. Pois bem, a parte recorrente sustenta violação ao inciso LV, do art. 5º e aos incisos I, II e V do art. 8 da Magna Carta. Sustenta: a) ser o único representante da categoria econômica do ramo de ensino em todo Estado de São Paulo, o que abrange, inclusive, as escolas de educação infantil do município paulistano; b) que o sindicato recorrido é de abrangência estadual e não municipal; e c) que “a criação do sindicato, ora recorrido, não revelou manifestação de vontade expressa da maioria dos integrantes da categoria econômica.” (fls. 338).
+    3. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Leia-se, a propósito, na parte que interessa, a ementa do RE 154.250-AgR, da relatoria do ministro Sepúlveda Pertence:
+    “I. Sindicato: unicidade e desmembramento.
+    1. O princípio da unicidade sindical (CF, art. 8º, II, da Constituição) não garante por si só ao sindicato a intangibilidade de sua base territorial: ao contrário, a jurisprudência do STF está consolidada no sentido da legitimidade constitucional do desmembramento territorial de um sindicato para constituir outro, por deliberação dos partícipes da fundação deste, desde que o território de ambos não se reduza a área inferior à de um município (v.g., MS 21.080, Rezek, DJ 1º.10.93; RE 191.231, Pertence, DJ 06.08.99; RE 153.534, Velloso, DJ 11.06.99; AgRgRE 207.910, Maurício, DJ 4.12.98; RE 207.780, Galvão, DJ 17.10.97; RE 180.222, Galvão, DJ 29.08.00).
+    2. No caso, o Tribunal a quo assentou que não houve superposição sindical total, mas apenas um desmembramento que originou novas organizações sindicais regionais cuja área de atuação é menor do que a do agravante, o que não ofende a garantia constitucional da unicidade.
+    [...]”.
+    4. Por outra volta, para se chegar à conclusão diversa da que chegou o acordão, acerca da abrangência e da representatividade do sindicato recorrido, seria necessário o reexame do conjunto probatório dos autos, providência vedada pela Súmula 279/STF.
+    5. À derradeira, incidem as Súmulas 282 e 356/STF.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
