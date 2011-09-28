@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 200):
+    “SERVIDOR PÚBLICO ESTADUAL - DISPENSA A PEDIDO – READMISSÃO – INADMISSIBILIDADE – INSTITUTO NÃO RECEPCIONADO PELA CONSTITUIÇÃO FEDERAL, INCOMPATÍVEL COM SEU ART. 37, INCISO II - AÇÃO IMPROCEDENTE - SENTENÇA CONFIRMADA.”
+    2. Pois bem, a parte recorrente aponta violação ao princípio constitucional da legalidade (caput do art. 37). Alega, em síntese, que a “Constituição Federal não exclui, em hipótese alguma, o Instituto da Readmissão, pois, como dito, se o legislador assim o desejasse, teria inserido tal impossibilidade de forma expressa.” Aduz que o “que não se pode admitir é apenas o exercício da hermenêutica onde a legislação nada menciona, até porque quem prestou concurso público e não foi demitido pelo Estado não pode ser tratado como aquele que nunca foi investido em cargo público.” Conclui que “não há que se falar em nova investidura, mas sim apenas em continuidade da investidura anterior” (fls. 223/224).
+    3. Tenho que a insurgência não merece acolhida. Isso porque a Administração Pública direta e indireta, ao prover cargos e empregos, deve obediência à regra do concurso público. Admitem-se somente duas exceções, previstas constitucionalmente, quais sejam, as nomeações para cargo em comissão e a contratação destinada ao atendimento de necessidade temporária e excepcional (incisos II e IX do art. 37 da Lei Maior). Precedentes: ADIs 1.500, da relatoria do ministro Carlos Velloso; 2.380, da relatoria do ministro Moreira Alves; e 890-MC, da relatoria do ministro Maurício Corrêa.
+    4. Deste modo, são incompatíveis com a Constituição Federal de 1988 movimentações funcionais que caracterizem provimento derivado de cargo efetivo, com inobservância da regra constitucional de acessibilidade por intermédio de concurso público, como é o caso da readmissão. Leia-se, a propósito, o seguinte trecho da ementa do RE 143.807, sob a relatoria do ministro Sepúlveda Pertence:
+    “I . Concurso público: exigência incontornável para que o servidor seja investido em cargo de carreira diversa.
+    À vista da Constituição de 1988, consolidou-se definitivamente no STF que - ressalvado exclusivamente o provimento derivado mediante promoção - que pressupõe a integração de ambos os cargos na mesma carreira -, são inadmissíveis quaisquer outras formas de provimento do servidor público, independentemente de concurso público, em cargo diverso daquele do qual já seja titular a qualquer título, precedido ou não a nova investidura de processo interno de seleção ou habilitação: precedentes.
+    [...]”
+    (Sem destaques no original.)
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro AYRES BRITTO
+Relator
