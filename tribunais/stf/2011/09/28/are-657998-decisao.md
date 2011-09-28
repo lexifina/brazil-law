@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna decisão da 1ª Turma Recursal Civel do Juizado Especial do Estado do Rio Grande do Sul com a seguinte ementa:
+    “AÇÃO DE COBRANÇA. COMERCIALIZAÇÃO DE UVA. DISCUSSÃO QUANTO AO PREÇO PAGO PELO QUILO DO PRODUTO. IMPOSSIBILIDADE DE ATRIBUIR VALOR INFERIOR AO ESTIPULADO PELO DECRETO Nº 6.399, DE 17 DE MARÇO DE 2008, QUE FIXA O PREÇO MÍNIMO PARA A UVA INDUSTRIAL DA SAFRA EM COMENTO.
+    1. Trata-se de ação de cobrança. Narra a parte autora que vendeu à requerida em torno de 20 tonelada de uva. Ocorre que, até o presente momento, a demandada não adimpliu com a totalidade do valor devido. Adveio sentença, no sentido da procedência, condenando a ré ao pagamento de R$ 2.424,98. Insurge-se a demandada.
+    2. Não merece provimento o recurso interposto. Ao contrário do que afirma o recorrente, o Decreto nº 6.399 não condiciona a contratação de EGF para imposição de preço mínimo. Nesse sentido recente julgado: ‘AÇÃO DE COBRANÇA. COMERCIALIZAÇÃO DE UVA. DISCUSSÃO QUANTO AO PREÇO PAGO PELO QUILO DO PRODUTO. IMPOSSIBILIDADE DE ATRIBUIR VALOR INFERIOR AO ESTIPULADO PELO DECRETO Nº 6.399, DE 17 DE MARÇO DE 2008, QUE FIXA O PREÇO MÍNIMO PARA A UVA INDUSTRIAL DA SAFRA 2007/2008, INDEPENDENTEMENTE DE NÃO SE TRATAR DE UVA NOBRE DESTINADA A FABRICAÇÃO DE VINHOS. DEVIDA A DIFERENÇA ESTIPULADA NA SENTENÇA. RECURSO IMPROVIDO (Recurso Cível Nº 71002341857, Segunda Turma recursal Cível, Turmas Recursais, Relator: Afif Jorge Simões Neto, julgado em 09/06/2010)’
+    3. No caso concreto, inexiste prova do preço ajustado para a compra da safra de uva vendida pelo requerente à demandada. Deste modo, deve ser usado como referência o preço mínimo estabelecido pelo governo federal.
+    4. Assim, Reconhecido o pagamento abaixo do patamar mínimo, impositiva era a procedência da demanda.
+    RECURSO DESPROVIDO”. (fl. 115)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa aos artigos 93, XI, e 170, do texto constitucional.
+    O recorrente, defende, em síntese, a negativa de prestação jurisdicional por ausência de fundamentação. Ademais, sustenta que o negócio jurídico celebrado entre as partes não necessita de intervenção estatal, bem como que o preço da uva fixado no Decreto 6.399/2008 é usado como parâmetro para aquisição pela CONAB, não existindo obrigatoriedade de obediência a este preço nas relações entre particulares.
+    Decido.
+    Não assiste razão à agravante.
+    Inicialmente, verifico que o processo encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 93, IX, da Constituição Federal. Nesse sentido, cito o AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Ademais, ressalto que a decisão recorrida consignou que, “no caso concreto, inexiste prova do preço ajustado para a compra da safra de uva vendida pelo requerente à demandada. Deste modo, deve ser usado como referência o preço mínimo estabelecido pelo governo federal”. (fls. 115)
+    Assim, para se entender de forma diversa do que fixado nas instâncias originárias, faz-se imprescindível a análise dos elementos fático-probatórios constantes dos autos providências vedadas na via do apelo extremo, conforme disposto no Verbete 279 da Súmula desta Corte.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
