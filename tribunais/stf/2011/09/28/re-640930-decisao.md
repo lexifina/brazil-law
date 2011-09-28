@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu indevida a aplicação do novo teto fixado pelas Emendas Constitucionais 20/1998 e 41/2003 para o fim de revisão dos benefícios previdenciários do regime geral concedidos antes de tais alterações.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 14 da EC 20/1998 e 5º da EC 41/2003.
+    A pretensão recursal merece acolhida.
+    Isso porque o acórdão recorrido está em dissonância com o entendimento firmado pelo Plenário desta Corte, no julgamento do RE 564.354/SE, Rel. Min. Cármen Lúcia, com repercussão geral reconhecida, no sentido de que devem ser aplicados os reajustes previstos nas Emendas Constitucionais 20/1998 e 41/2003 aos benefícios previdenciários limitados ao teto do regime geral estabelecido antes da vigência dessas normas. Confira-se a ementa do mencionado julgado:
+    “DIREITOS CONSTITUCIONAL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. ALTERAÇÃO NO TETO DOS BENEFÍCIOS DO REGIME GERAL DE PREVIDÊNCIA. REFLEXOS NOS BENEFÍCIOS CONCEDIDOS ANTES DA ALTERAÇÃO. EMENDAS CONSTITUCIONAIS N. 20/1998 E 41/2003. DIREITO INTERTEMPORAL: ATO JURÍDICO PERFEITO. NECESSIDADE DE INTERPRETAÇÃO DA LEI INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA IRRETROATIVIDADE DAS LEIS. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    1. Há pelo menos duas situações jurídicas em que a atuação do Supremo Tribunal Federal como guardião da Constituição da República demanda interpretação da legislação infraconstitucional: a primeira respeita ao exercício do controle de constitucionalidade das normas, pois não se declara a constitucionalidade ou inconstitucionalidade de uma lei sem antes entendê-la; a segunda, que se dá na espécie, decorre da garantia constitucional da proteção ao ato jurídico perfeito contra lei superveniente, pois a solução de controvérsia sob essa perspectiva pressupõe sejam interpretadas as leis postas em conflito e determinados os seus alcances para se dizer da existência ou ausência da retroatividade constitucionalmente vedada.
+    2. Não ofende o ato jurídico perfeito a aplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e do art. 5º da Emenda Constitucional n. 41/2003 aos benefícios previdenciários limitados a teto do regime geral de previdência estabelecido antes da vigência dessas normas, de modo a que passem a observar o novo teto constitucional.
+    3. Negado provimento ao recurso extraordinário”.
+    No mesmo sentido, cito os seguintes precedentes, entre outros: RE 579.510-AgR/PR, Rel. Min. Ayres Britto; AI 821.735-AgR/RS, Rel. Min. Celso de Mello; AI 842.053/RS, Rel. Min. Joaquim Barbosa.
+    Isso posto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário. Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
