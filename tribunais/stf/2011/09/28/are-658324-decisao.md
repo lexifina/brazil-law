@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. PRÊMIO INCENTIVO FUNDES. NATUREZA JURÍDICA. Tendo o agravo de instrumento logrado demonstrar que o recurso de revista preenchia os requisitos do art. 896 da CLT, quanto ao tema ‘prêmio incentivo Fundes – natureza jurídica’, dá-se provimento ao agravo de instrumento, para melhor análise da alegada divergência jurisprudencial. Agravo de instrumento provido. RECURSO DE REVISTA. PRÊMIO INCENTIVO FUNDES. NATUREZA JURÍDICA. O empregador público, da Administração direta, autárquica e fundacional, está sujeito, cumulativamente, às regras e princípios do Direito do Trabalho, que têm significativo fundo constitucional, e às regras e princípios objetivos do caput do art. 37 da Carta Magna (legalidade, impessoalidade, moralidade, publicidade, eficiência). Desse modo, as vantagens materiais concedidas aos servidores empregados não podem ser criadas informalmente ou irregularmente, obedecendo, regra geral, aos critérios procedimentais inerentes ao Poder Público e enfatizados pelo caput do art. 37 da Constituição. Na hipótese dos autos, em razão de a reclamada ostentar a condição de ente público, deve ser respeitado o princípio da legalidade administrativa, de maneira a se exigir a observância da Lei Estadual 8.975/94, que, ao criar o prêmio de incentivo Fundes, de forma transitória, determinou, expressamente, que tal parcela não seria incorporada aos vencimentos ou salários para nenhum fim. Recurso de revista conhecido e provido” (fls. 362).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 7º, VI; e 22, I, do texto constitucional.
+     Nas razões recursais, alega-se, em síntese, violação ao princípio da irredutibilidade salarial e à competência da União para legislar sobre Direito do Trabalho.
+     Decido.
+    A pretensão recursal não merece prosperar.
+     No caso dos autos, o Colendo Tribunal Superior do Trabalho, com fundamento nas Leis 8.975/94 e 9.185/94 e no Decreto nº 40.787/96, do Estado de São Paulo, reconheceu o caráter transitório do “prêmio de incentivo Fundes” e, por conseguinte, a sua não incorporação aos vencimentos dos recorrentes.
+     Nos termos da Súmula 280 do STF, é inadmissível o recurso extraordinário quando sua análise implique rever a interpretação dada pelo Tribunal a quo a normas infraconstitucionais locais, como no caso dos autos.
+    Nesse sentido: AI-AgR 674.810, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 13.3.2009, com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE INCENTIVO. INCLUSÃO NO CÁLCULO DO DÉCIMO TERCEIRO SALÁRIO E DAS FÉRIAS. LEI ESTADUAL N. 8.975/94. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Cito, ainda, decisões monocráticas proferidas em casos análogos ao dos autos: AI 838.673, Rel. Min. Cármen Lúcia, DJe 1.4.2011; AI 807.618, Rel. Min. Ricardo Lewandowski, DJe 20.8.2010; RE 572.026, Rel. Min. Ayres Britto, DJe 14.6.2010; e RE 536.657, Rel. Min. Cezar Peluso, DJe 19.3.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+     Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
