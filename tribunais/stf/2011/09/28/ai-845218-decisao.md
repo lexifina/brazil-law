@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão que não admitiu recurso extraordinário.
+    Verifico que não consta dos autos a cópia da certidão de publicação do acórdão dos embargos de declaração. As peças do instrumento devem ser apresentadas no momento da interposição do agravo, conforme preceitua o art. 544, § 1º, do Código de Processo Civil. A falta de qualquer das peças arroladas no dispositivo retro implica o não conhecimento do recurso.
+    Esta Corte já pacificou o entendimento segundo o qual compete ao Tribunal ad quem a verificação da tempestividade do recurso que há de julgar. Nesse sentido, o AI-AgR 606.767, Segunda Turma, Rel. Min. Gilmar Mendes, DJ 23.2.2007, e o AI-AgR 636.765, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 1º.6.2007, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. INTEMPESTIDADE. SUSPENSÃO DE PRAZO. FÉRIAS COLETIVAS. I - A EC 45/04 acrescentou o parágrafo XII ao art. 93 da Constituição Federal, que diz: "a atividade jurisdicional será ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau, funcionando, nos dias em que não houver expediente forense normal, juízes em plantão permanente". Assim, observa-se da redação do mencionado artigo que tal regra não se estende aos Tribunais Superiores. Precedente. II - A jurisprudência desta Corte tem se orientado no sentido de que compete ao Tribunal ad quem a verificação da tempestividade do recurso que há de julgar, pois a interposição do agravo devolve à esta Casa o exame irrestrito dos requisitos de admissibilidade do recurso extraordinário, dentre os quais, o da sua tempestividade. Precedentes. III - Agravo regimental improvido.”
+    Ademais, ambas as Turmas desta Corte têm decidido que o ônus de fiscalizar a correta formação do instrumento é exclusivo do agravante (AI-AgR 748.908, Primeira Turma, Rel. Min. Cármen Lúcia, DJ 14.8.2009, e AI-ED 666.472, Segunda Turma, Rel. Min. Joaquim Barbosa, DJ 7.8.2009).
+    Ante o exposto, nego seguimento ao recurso (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de setembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
