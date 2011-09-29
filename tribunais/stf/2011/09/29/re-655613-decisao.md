@@ -1,0 +1,28 @@
+RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. EMBARGOS DO DEVEDOR. TERMO INICIAL. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE. SÚMULA N. 636 DO STF. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. A controvérsia sub judice – termo inicial para oposição dos embargos do devedor – é de índole infraconstitucional, por isso que a eventual ofensa à Constituição opera-se de forma indireta, circunstância que inviabiliza a admissão do extraordinário. (Precedentes:: AI n. 145.680-AgR, Relator o Ministro Celso de Mello, 1ª Turma, DJ de 30.4.93; AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 9.12.94; RE n. 148.512, Relator o Ministro Ilmar Galvão, 1ª Turma, DJ de 2.8.96; AI n. 757.658-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJ de 24.11.09; e AI n. 488.805-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 25.06.04)
+4. Não cabe recurso extraordinário por ofensa ao princípio da legalidade, se houver necessidade de rever a interpretação dada a normas infraconstitucionais. Incidência da Súmula n. 636 do Supremo Tribunal Federal, verbis: não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+5. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto por BANCO DO NORDESTE DO BRASIL S/A com fulcro no art. 102, III, “a”, da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “EMENTA: Agravo de Instrumento – Interlocutória que determinou a intimação do executado sobre o bloqueio e o consequente depósito judicial para embargar. Reabertura de prazo dos embargos. Decisão interlocutória reformada para declarar precluído o prazo para embargar. Agravo provido.
+    - Inicia-se o prazo para embargar quando do depósito do dinheiro em processo de execução, sem necessidade de qualquer intimação do devedor.
+     - Agravo provido.”
+    Opostos embargos de declaração, estes foram rejeitados (fls. 239/241).
+    Em suas razões recursais, o recorrente aponta violação ao artigo 5º, II, da Constituição Federal, sustentando, em síntese, que “todo o iter processual no caso presente foi descumprido, fato incontroverso, uma vez que deveria ter sido lavrado o Termo de Penhora, sendo o Executado intimado para a assinatura do termo e, subsequente, do prazo para oposição de Embargos do devedor. No caso em tela, nada disso ocorreu ” (fl. 269).
+    Não foram apresentadas contrarrazões ao recurso extraordinário.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Verifica-se, na espécie, que a controvérsia sub judice – termo inicial para oposição dos embargos do devedor – é de índole infraconstitucional, por isso que a eventual ofensa à Constituição opera-se de forma indireta, circunstância que inviabiliza a admissão do extraordinário. Nesse sentido: AI n. 145.680-AgR, Relator o Ministro Celso de Mello, 1ª Turma, DJ de 30.4.93; AI n. 157.906-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 9.12.94; RE n. 148.512, Relator o Ministro Ilmar Galvão, 1ª Turma, DJ de 2.8.96; AI n. 757.658-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJ de 24.11.09; e AI n. 488.805-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 25.06.04, ementado nos seguintes termos:
+    “ EMENTA: 1. Agravo regimental: motivação da decisão agravada: necessidade de impugnação.
+    2. Recurso extraordinário: descabimento: questão referente ao início do prazo para ajuizamento de embargos de devedor, restrita ao plano processual ordinário, de reexame inviável no RE.”(Grifei)
+    Cabe salientar, que não cabe recurso extraordinário por ofensa ao princípio da legalidade, se houver necessidade de rever a interpretação dada a normas infraconstitucionais. Incidência da Súmula n. 636 do Supremo Tribunal Federal, verbis: não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Relativamente ao verbete sumular, traz-se a lume o comentário do ilustre professor Roberto Rosas, in Direito Sumular, 12ª edição, Editora Malheiros, verbis:
+    “O Recurso Extraordinário é cabível por contrariedade a dispositivo constitucional, de forma direta. Se a invocação do princípio da legalidade (CF – art. 5º, II) demanda exame da lei ordinária para justificar esse princípio, então, não há matéria a ser examinada no recurso extraordinário.”
+    Ex positis, NEGO SEGUIMENTO ao recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
