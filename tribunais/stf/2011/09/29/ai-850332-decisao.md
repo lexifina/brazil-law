@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO. VANTAGENS INCORPORADAS. REESTRUTURAÇÃO ADMINISTRATIVA. LEIS ESTADUAL 2.152/2000. MAJORAÇÃO CONFERIDA A SERVIDORES ATIVOS EXERCENTES DE CARGOS EM COMISSÃO RESULTANTES DA REFERIDA ALTERAÇÃO. EXTENSÃO AOS INATIVOS. ALEGAÇÃO DE DIREITO ADQUIRIDO. IMPOSSIBILIDADE.
+1. O servidor público não tem direito adquirido à forma de cálculo da gratificação incorporada em seus proventos. Precedente do Plenário com reconhecimento da repercussão geral e julgada no mérito: RE 563.965-RG, Rel. Min. Cármen Lúcia, DJe de 20.03.2009. Ainda nesse sentido: AI 820.509, Rel. Min. Ricardo Lewandowski, DJe de 22.11.2010; AI 802.127, Rel. Min. Cármen Lúcia, DJe de 04.08.2010; AI 774.417, Rel. Min. Dias Toffoli, DJe de 05.05.2010.
+2. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto em oposição a acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl.23):
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – SENTENÇA EXTRA E ULTRA PETITA – INOCORRÊNCIA – PRELIMINAR REJEITADA – SERVIDORES PÚBLICOS – INCORPORAÇÃO DOS PROVENTOS REFERENTES AO CARGO DE CONFIANÇA – LEI ESTADUAL N. 2.152/00 – RESSTRUTURAÇÃO DE CARGOS – EXTINÇÃO E CRIAÇÃO DE NOVAS FUNÇÕES E CARGOS.
+    (…)
+    Tendo a Lei n. 2.252/00 reformulado a estrutura dos órgãos da Administração, extinguindo o cargos ocupado pelo autor do mandamus e criando novos cargos com os quais aquele não guarda similitude, conforme previsto no seu artigo 77, § 1º não pairam dúvidas quanto à impossibilidade de que a gratificação de confiança incorporada à sua remuneração passe a ser calculada com amparo naquela devida ao ocupante de um dos novos cargos estabelecidos.
+    O servidor público não possui direito adquirido a regime jurídico, sendo-lhe garantido, tão somente, o direito à irredutibilidade dos vencimentos.”
+    Em suas razões os ora agravantes alegaram violação aos arts. 5º, XXXVI e LV, 7 º, IV, 37, X e XV, da CF. Sustentaram em síntese, que com o advento da Lei Estadual n° 2.152/00, o ora agravado deixou de repassar aos agravantes a majoração dos valores referentes aos cargos em comissão que exerciam quando em atividade ao argumento que os mesmos haviam sido extintos, contudo, a única mudança ocorrente teria sido na nomenclatura do cargo, o que teria causado uma situação de desigualdade entre os ora agravantes e os servidores ocupantes dos cargos em comissão que exercem as mesmas funções que exerciam, mas com outra denominação.
+    O apelo extremo teve o seu seguimento obstado na origem com fundamento no óbice das Súmulas 282 , 356 e 280 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    É que o Plenário do Supremo Tribunal Federal, ao julgar o RE 563.965-RG, da Relatoria da e. Ministra Cármen Lúcia, reconheceu a repercussão do tema em debate e reafirmou a jurisprudência no sentido d eque não há direito adquirido à manutenção da forma de cálculo da remuneração, desde que observado o princípio constitucional da irredutibilidade de vencimentos. Por oportuno, transcrevo a ementa do referido julgado:
+     “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR N. 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, conseqüentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Verifica-se que, in casu, os ora agravantes buscam a extensão da majoração do aumento por incorporação de cargo ou função nos moldes da Lei Estadual 2.152/00, tal pretensão foi fulminada pelo Tribunal a quo com fundamento no seguinte entendimento:
+    “Com efeito, edições da Lei 2.152/00 e dos diplomas subsequentes invocados pelos apelados não prejudicaram o padrão remuneratório dos recorridos por terem conferido nova vantagem ao atual ocupante do cargo comissionado pois, de acordo com as alegações trazidas na inicial, eles já incorporaram os vencimentos das funções antes ocupadas e mantêm suas situações perfeitamente estáveis e consolidadas, visto que continuam recebendo o valor relativo à incorporação, ainda que esse não venha a ser corrigido de maneira equivalente àqueles dos servidores em atividade atualmente, mesmo porque, não se pode olvidar a orientação trazida pela própria norma”(fl. 27).
+    Destarte, verifica-se que o acórdão recorrido está em consonância com a orientação jurisprudencial emanada por esta Suprema Corte.
+    Nesse sentido, destaco os seguintes precedentes: AI 820.509, Rel. Min. Ricardo Lewandowski, DJe de 22.11.2010; AI 802.127, Rel. Min. Cármen Lúcia, DJe de 04.08.2010; AI 774.417, Rel. Min. Dias Toffoli, DJe de 05.05.2010.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento (art. 21, § 1º do RISTF).
+    Publique-se. Int..
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
