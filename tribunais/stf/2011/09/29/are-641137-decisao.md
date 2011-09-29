@@ -1,0 +1,19 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REAJUSTE DE 28,86%. LEIS 8.622/93 E 8627/93. REPERCUSSÃO GERAL RECONHECIDA. JURISPRUDÊNCIA REAFIRMADA. AGRAVO DE INSTRUMENTO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de agravo de instrumento interposto por GUILHERME SANTOS LIMA E OUTROS, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 33-34, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea "a" do permissivo Constitucional, contra acórdão prolatado pela 2ª Turma Recursal dos Juizado Especiais Federais da Seção Judiciária do Paraná, que manteve a decisão de primeira instância por seus próprios fundamentos, em que se discute a extensão do reajuste de 28,86% aos servidores militares contemplados com índices inferiores pelas Leis 8.622/93 e 8.627/936, bem como à limitação temporal do aludido reajuste.
+    Os embargos de declaração foram parcialmente acolhidos.
+    Nas razões do apelo extremo, sustentam a preliminar de repercussão geral e, no mérito, apontam violação ao artigo 5º, caput, II, XXXVI, LIV e LV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por vislumbra ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+     A irresignação não prospera.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos para reafirmar a jurisprudência da Corte, nos autos do RE 584.313-QO-RG, Relator o Ministro Gilmar Mendes, DJe de 22.10.2010, a decisão restou assim ementada, verbis:
+    “Questão de ordem. Recurso Extraordinário. 2. Alegação de ofensa aos artigos 5º e 37, X, da Constituição Federal. Inexistência. 3. Há de estender-se o reajuste de 28,86% aos servidores militares contemplados com índices inferiores pelas Leis 8.622/93 e 8.627/93, já que se trata de revisão geral dos servidores públicos, observadas, entretanto, as compensações dos reajustes concedidos e a limitação temporal da Medida Provisória n.° 2.131, de 28.12.2000, atual Medida Provisória n.° 2.215-10, de 15.9.2001. 4. Questão de ordem acolhida para: (1) reconhecer a repercussão geral quanto à extensão do reajuste de 28,86% aos servidores civis e militares; (2) reafirmar a jurisprudência do Tribunal; (3) prover parcialmente o recurso, apenas para limitar as diferenças devidas à data em que entrou em vigor a Medida Provisória n.° 2.131, de 28.12.2000, atual Medida Provisória n.° 2.215-10, de 15.9.2001, que reestruturou as carreiras e a remuneração dos servidores militares; e (4) para autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Consta no voto do e. Relator que:
+    “Ressalte-se, entretanto, que também ficou pacificado nesta Corte que a MP n.º 2.131, de 28 de dezembro de 2000, ao reestruturar a remuneração dos militares, com a absorção das diferenças de reajustes eventualmente existentes, deve servir de limite temporal para a concessão do reajuste previsto nas referidas leis. Nesse sentido o RE 410.778, 2ª T., de minha relatoria, DJ 10.8.05, assim ementado:
+    ‘Recurso extraordinário. 2. Reajuste de 28,86%. Extensão aos militares. Compensação dos reajustes já concedidos. 3. Limitação temporal. Advento da MP n.º 2.131/2000. 4. Recurso extraordinário conhecido e parcialmente provido.’”
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF..
+    Publique-se. Intimações necessárias.
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
