@@ -1,0 +1,28 @@
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SERVIDOR. EXCLUSÃO DE VANTAGEM. IMPOSSIBILIDADE. PRAZO DECADENCIAL. § 1º DO ART. 54 DA LEI N. 9.784/99. REPERCUSSÃO GERAL NÃO EXAMINADA. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, II E 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF.
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes.
+3. Agravo a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto pela UNIVERSIDADE FEDERAL DO PARANÁ - UFPR, contra decisão que não admitiu seu recurso extraordinário.
+    Noticiam os autos que os ora agravados ajuizaram ação ordinária em face da agravada, objetivando a continuidade do pagamento da vantagem pessoal do artigo 5º do Decreto nº 95.689/88, que, por determinação do Tribunal de Contas da União, seria excluído de seus proventos e vencimentos. Sobreveio sentença julgando procedente a ação.
+    Em sede de apelação, o Tribunal Regional Federal da 4ª Região, reformou parcialmente a sentença.
+    Opostos embargos de declaração, restaram rejeitados.
+    Irresignada com o teor do acórdão prolatado, a recorrente interpôs recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, sustentando a preliminar de repercussão geral e apontando como violados os arts. 5º, II e LV, e 37, caput, da Carta Federal.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Extrai-se do voto condutor do acórdão hostilizado:
+    Por aplicação do § 1º do art. 54, e como a autora percebia a referida vantagem desde a edição da Lei nº 9.784/99, o prazo decadencial final para início da auditoria era 01/02/2004 (cinco anos após a edição da Lei).
+    Portanto, havia direito consolidado, uma vez que a Administração não deu início a revisão do ato dentro do prazo legal.”
+    Destarte, consoante se infere do excerto do voto do tribunal a quo a controvérsia foi solucionada com supedâneo na legislação infraconstitucional. E a violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido, invoco os seguintes julgados da Corte, in verbis:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PRAZO PARA ADMINISTRAÇÃO PÚBLICA REVER SEUS ATOS. DECADÊNCIA. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. PRECEDENTES. RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE ACÓRDÃO DO STJ. DESCABIMENTO. AGRAVO IMPROVIDO . I – Esta Corte, por meio de remansosa jurisprudência, tem entendido que a discussão sobre o prazo decadencial para a Administração rever seus atos, demanda a análise de normas infraconstitucionais. Precedentes. II - Somente admite-se recurso extraordinário de decisão do Superior Tribunal de Justiça se a questão constitucional impugnada for nova. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. Precedentes. III – Agravo regimental improvido
+    (AI 763708-AgR, Rel. Min. RICARDO LEWANDOWSKI, 1ª Turma, DJ 24.6.2011)
+    PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REFORMA DO JULGADO: IMPOSSIBILIDADE. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. Inexistência de omissão, contradição ou obscuridade a sanar. A embargante repisa argumentos já devidamente apreciados por esta Turma. 3. A questão relativa ao prazo decadencial para a Administração anular seus próprios atos demanda a análise da legislação infraconstitucional, no caso, a Lei 9.784/99, a Lei Distrital 2.834/2001 e o Decreto 20.910/32. Precedentes. 4. Embargos de declaração rejeitados.
+    (RE 556.187-AgR-ED, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 22.3.2011)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. DIREITO PROCESSUAL CIVIL E DO TRABALHO. PRAZO DECADENCIAL. A INSTÂNCIA JUDICANTE DE ORIGEM SE LIMITOU AO EXAME DE MATÉRIA ESTRITAMENTE PROCESSUAL. 2. ALEGAÇÃO DE AFRONTA AOS INCISOS XXXV E LV DO ART. 5º DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. No caso, a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte recorrente, o que não configura cerceamento de defesa. Agravo regimental desprovido.
+    (AI 829.814-AgR, Rel. Min. AYRES BRITTO, 2ª Turma, DJ 3.5.2011).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+     Publique-se. Int..
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
