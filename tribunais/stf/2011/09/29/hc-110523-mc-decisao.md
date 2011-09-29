@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão, que, emanada da Quinta Turma do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+     “'HABEAS CORPUS'. EXECUÇÃO PENAL. ROUBOS CIRCUNSTANCIADOS. SEQUESTROS. RECEPTAÇÃO QUALIFICADA. PRETENSÃO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. REQUISITOS OBJETIVO E SUBJETIVO AFASTADOS PELO JUIZ DA VEC E PELO TRIBUNAL ESTADUAL. LUGAR, TEMPO E FORMA DE EXECUÇÃO DIVERSOS. AUSÊNCIA DE UNIDADE DE DESÍGNIOS. REAL REITERAÇÃO CRIMINOSA. NECESSIDADE DE AMPLA DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DO 'MANDAMUS'. PRECEDENTES DO STJ. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+     1. A continuidade delitiva, segundo posição majoritária da doutrina e da jurisprudência, é uma ficção jurídica criada para beneficiar o criminoso eventual, de sorte que, não obstante a pluralidade de crimes, considera-se a existência de um só, conforme o preenchimento dos requisitos objetivos (delitos da mesma espécie, condições de tempo, lugar e modo de execução semelhantes) e subjetivos (unidade de desígnios).
+     2. Na hipótese, afirmou-se a inexistência dos requisitos objetivos e a falta de unidade de desígnios entre as ações perpetradas pelo agente, de forma que se mostra correta a não aplicação da fictícia continuidade delitiva, por ser a conduta do paciente merecedora de tratamento penal mais rigoroso.
+     3. A comprovação da existência dos requisitos objetivos e subjetivos para o reconhecimento da continuidade delitiva implica em ampla dilação probatória, providência sabidamente inviável em HC.
+     4. Ordem denegada, em consonância com o parecer ministerial.”
+           (HC 194.830/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO - grifei)
+           Busca-se, na presente sede processual, o reconhecimento da “(...) continuidade entre os delitos e, conseqüentemente, a unificação das penas (...)”.
+            Passo a apreciar o pedido de medida liminar formulado pela parte ora impetrante.
+           E, ao fazê-lo, reconheço que as razões constantes do acórdão ora questionado parecem descaracterizar - ao menos em juízo de estrita delibação - a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+           Com efeito, no que concerne ao pretendido reconhecimento da ocorrência, na espécie, de continuidade delitiva, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido da impossibilidade, em regra, do exame, em sede de “habeas corpus”, dos elementos probatórios que ensejam a descaracterização - recusada pela parte ora impetrante - do nexo de continuidade delitiva:
+    “(...) Questão que envolve exame de prova. Impossibilidade no âmbito do 'writ'. Não é o 'habeas corpus' meio processual adequado ao exame da ocorrência ou não de continuidade delitiva, já que é impossível chegar-se a tal conclusão sem reapreciação exaustiva de toda a matéria de fato para verificar a presença dos pressupostos do crime continuado. Precedentes do STF: HC 66.587, HC 68.217, HC 67.314, HC 65.820, RECr. n. 95.242, RvC. 4.631, RECr. 87.769, RECr. 89.830.
+    Pedido conhecido, mas indeferida a ordem de 'habeas corpus'.”
+(RTJ 157/930, Rel. Min. PAULO BROSSARD - grifei)
+    “Continuidade delitiva. Questão dependente do exame da prova, cujo deslinde não se mostra compatível com o rito do 'habeas corpus'.
+    Pedido indeferido com ressalva da manifestação de novo pedido de revisão, com assistência de advogado.”
+(HC 66.587/SP, Rel. Min. OCTAVIO GALLOTTI - grifei)
+    “(...) 2. Impossibilidade de apreciação, em 'habeas corpus', face à necessidade de reexame de prova, da alegação de que o caso configura não concurso material, mas concurso formal ou continuidade delitiva, figuras ensejadoras de protesto por novo júri.
+    3. Impossibilidade, também, de exame da alegação de inépcia e de nulidade do libelo e, por conseqüência, dos quesitos que o reproduziram, por haverem deixado de nomear o co-réu, executor dos crimes, face à ausência não apenas de tempestiva argüição (art. 477, c/c o 571, V, do CPP), mas também de prejuízo para o paciente.
+    4. Penas, por fim, fixadas pouco acima do mínimo legal, malgrado o reconhecimento da brutalidade, a hediondez e a selvageria com que foram praticados os crimes contra a mulher e filho do paciente, a mando e sob os olhos deste que, além disso, ofereceu condições materiais para que os corpos fossem 'desovados', em outro Estado, a centenas de quilômetros do local da chacina.
+    5. Ausência de constrangimento ilegal.
+    'Habeas corpus' indeferido.”
+(HC 72.339/MG, Rel. Min. ILMAR GALVÃO - grifei)
+           O exame dos vários precedentes que informam a jurisprudência prevalecente nesta Suprema Corte esclarece que se mostra inviável, na via sumaríssima do processo de “habeas corpus”, a discussão em torno do reconhecimento do nexo de continuidade delitiva, eis que o acolhimento de semelhante postulação impõe - qualquer que seja a hipótese em análise - a  avaliação da ocorrência, ou não (inadmissível nesta sede processual), de circunstâncias (pessoais, espaciais, temporais e operacionais) necessariamente sujeitas a ponderações fundadas em elementos de ordem fática e de caráter probatório (HC 71.735/SP, Rel. Min. CELSO DE MELLO - HC 85.153/RJ, Rel. Min. ELLEN GRACIE - RHC 85.577/RJ, Rel. Min. ELLEN GRACIE, v.g.).
+           A razão desse entendimento jurisprudencial repousa, essencialmente, na circunstância de que a ação de “habeas corpus” constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 - RTJ 129/1199 - RTJ 136/1221 - RTJ 163/650-651 - RTJ 165/877-878 - RTJ 186/237, v.g.):
+    “A ação de 'habeas corpus' constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+           (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+           Desse modo, e sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar, ante a inocorrência de seus pressupostos legitimadores.
+           Publique-se.
+           Brasília, 29 de setembro de 2011.
+Ministro CELSO DE MELLO
+Relator
