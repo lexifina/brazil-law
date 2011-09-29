@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. ADMINISTRATIVO. PROCESSUAL CIVIL. IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS – ITBI. RECEBIMENTO PELA SERVENTIA SEM REPASSAR AO ENTE PÚBLICO DESTINATÁRIO DO TRIBUTO. RESPONSABILIDADE OBJETIVA DO NOTÁRIO. LEI 8.935/94. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10
+2. In casu, a controvérsia foi decidida pelo Tribunal a quo à luz de interpretação da legislação infraconstitucional (Lei 8.935/94), avultando-se incabível a insurgência recursal extraordinária para rediscussão da matéria
+3. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”.
+4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+5. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto por DAVID RIBEIRO DE MENDONÇA, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fl. 339, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Colégio Recursal dos Juizados Especiais Cíveis e Criminais da 4ª Circunscrição Judiciária do Estado de São Paulo, do qual desta esse passo (fls. 258-259), verbis:
+    “O art. 22 da Lei n. 8.935/1994, estabelece que os notários e oficiais de registro responderão pelos danos que eles e seus prepostos causem a terceiros na prática de atos próprios da serventia, assegurando aos primeiros, direito de regresso no caso de dolo ou culpa”
+    Os embargos de declaração opostos foram rejeitados ante a ausência de enquadramento nas hipóteses elencadas no artigo 535 do CPC .
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 37, § 6º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que se almeja, na realidade, é a reapreciação de questões fáticas já exaustivamente analisadas.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    Como se pode depreender do excerto transcrito do v. acórdão recorrido, a controvérsia foi decidida à luz de interpretação da legislação infraconstitucional de regência. Esta Suprema Corte firmou jurisprudência nos termos da qual violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10, entre outros.
+    Demais disso, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor, verbis, “Para simples reexame de prova não cabe recurso extraordinário”.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
