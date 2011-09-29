@@ -1,0 +1,23 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREJUÍZO AO ERÁRIO MUNICIPAL APURADO POR TRIBUNAL DE CONTAS ESTADUAL. LEGITIMIDADE AD CAUSAM DO MUNICÍPIO PARA EXECUÇÃO JUDICIAL DA MULTA APLICADA. AGRAVO DESPROVIDO.
+1. A ação de cobrança decorrente de prejuízo apurado pelo Tribunal de Contas Estadual tem como legitimado ativo o ente federativo que teve seu patrimônio lesado. Precedentes: RE 223.037, Plenário, Rel. Min. Maurício Corrêa, DJ de 02.08.2002; RE 510.034-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 14.08.2008.
+2 . In casu, caberia ao Município de Cantagalo/RJ executar a multa aplicada ao ora recorrido pelo Tribunal de Constas do Estado do Rio de Janeiro.
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 190):
+    “EXECUÇÃO FISCAL. ILEGITIMIDADE ATIVA AD CAUSAM DO ESTADO DO RIO DE JANEIRO. ATO LESIVO AO ERÁRIO MUNICIPAL. DESPROVIMENTO DO AGRAVO.
+    - Lesão ao erário do Município de Cantagalo e cobrança efetuada pelo Estado do Rio de Janeiro, gerando ilegitimidade ativa deste último para figurar na relação processual.”
+    Contra essa decisão foi interposto recurso extraordinário onde se alegou violação ao art. 31, § 1º e 71, § 3º, da CF. Sustentou-se em síntese que: “(...) é evidente que se é atribuição do Tribunal de Contas do Estado do Rio de Janeiro proceder tal fiscalização, a legitimidade para postular em Juízo cobrança das multas impostas é da pessoa jurídica (pressuposto de existência do processo) a qual pertence aquele órgão (Tribunal de Contas), no caso: o Estado do Rio de Janeiro”. (fl. 203).
+    O recurso extraordinário teve seu seguimento negado na origem com fundamento no óbice da Súmula 283 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Com efeito, a jurisprudência desta Suprema Corte se fixou no sentido de que o legitimado para promover ação de execução de multa ou débito decorrente de prejuízos causados ao erário público, devidamente apurado pelo Tribunal de Contas Estadual, pertence ao ente federativo prejudicado, in casu, o Município.
+    Nesse sentido, o RE 223.037, Plenário, da Relatoria do Min. Maurício Corrêa, DJ de 02.08.2002 em acórdão assim ementado:
+     “RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE. COMPETÊNCIA PARA EXECUTAR SUAS PRÓPRIAS DECISÕES: IMPOSSIBILIDADE. NORMA PERMISSIVA CONTIDA NA CARTA ESTADUAL. INCONSTITUCIONALIDADE. 1. As decisões das Cortes de Contas que impõem condenação patrimonial aos responsáveis por irregularidades no uso de bens públicos têm eficácia de título executivo (CF, artigo 71, § 3º). Não podem, contudo, ser executadas por iniciativa do próprio Tribunal de Contas, seja diretamente ou por meio do Ministério Público que atua perante ele. Ausência de titularidade, legitimidade e interesse imediato e concreto. 2. A ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação imposta pelo Tribunal de Contas, por intermédio de seus procuradores que atuam junto ao órgão jurisdicional competente. 3. Norma inserida na Constituição do Estado de Sergipe, que permite ao Tribunal de Contas local executar suas próprias decisões (CE, artigo 68, XI). Competência não contemplada no modelo federal. Declaração de inconstitucionalidade, incidenter tantum, por violação ao princípio da simetria (CF, artigo 75). Recurso extraordinário não conhecido” (grifo nosso).
+    Ainda nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DO ACRE. IRREGULARIDADES NO USO DE BENS PÚBLICOS. CONDENAÇÃO PATRIMONIAL. COBRANÇA. COMPETÊNCIA. ENTE PÚBLICO BENEFICIÁRIO DA CONDENAÇÃO. 1. Em caso de multa imposta por Tribunal de Contas Estadual a responsáveis por irregularidades no uso de bens públicos, a ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação do TC. Precedente. Agravo regimental a que se nega provimento.” (RE 510.034-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe de 14.08.2008) (grifo nosso).”
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento (art. 544, § 4º, I, CPC).
+    Publique-se. Int..
+    Brasília, 29 de setembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
