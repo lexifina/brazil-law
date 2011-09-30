@@ -10,8 +10,9 @@ b) até o 3º (terceiro) dia útil subseqüente ao decêndio de ocorrência dos 
 c) até o último dia útil do mês subseqüente ao encerramento do período de apuração, no caso de rendimentos e ganhos de capital distribuídos pelos fundos de investimento imobiliário; e
 d) até o último dia útil do 2º (segundo) decêndio do mês subsequente ao mês de ocorrência dos fatos geradores, nos demais casos;
 II - IOF:
-a) até o 3º (terceiro) dia útil subseqüente ao decêndio de ocorrência dos fatos geradores, no caso de aquisição de ouro, ativo financeiro; e
-b) até o 3º (terceiro) dia útil subseqüente ao decêndio da cobrança ou do registro contábil do imposto, nos demais casos.
+a) até o terceiro dia útil subsequente ao decêndio de ocorrência dos fatos geradores, no caso de aquisição de ouro e ativo financeiro;
+b) até o último dia útil do mês subsequente ao de ocorrência dos fatos geradores, no caso de operações relativas a contrato de derivativos financeiros; e
+c) até o terceiro dia útil subsequente ao decêndio da cobrança ou do registro contábil do imposto, nos demais casos.
 Parágrafo único. Excepcionalmente, na hipótese de que trata a alínea d do inciso I do caput deste artigo, em relação aos fatos geradores ocorridos:
 I - no mês de dezembro de 2006, os recolhimentos serão efetuados:
 a) até o 3º (terceiro) dia útil do decêndio subseqüente, para os fatos geradores ocorridos no 1º (primeiro) e 2º (segundo) decêndios; e
