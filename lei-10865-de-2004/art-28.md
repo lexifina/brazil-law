@@ -18,4 +18,5 @@ XVI - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
 XVIII - bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS nº 114, de 11 de dezembro de 2009, quando adquiridos por órgãos da administração pública direta federal, estadual, distrital e municipal.
 XX - serviços de transporte ferroviário em sistema de trens de alta velocidade (TAV), assim entendido como a composição utilizada para efetuar a prestação do serviço público de transporte ferroviário que consiga atingir velocidade igual ou superior a 250 km/h (duzentos e cinquenta quilômetros por hora).
-Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XVIII do caput deste artigo.
+XXI - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
+Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XXI do caput.

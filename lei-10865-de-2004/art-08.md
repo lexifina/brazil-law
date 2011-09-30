@@ -47,6 +47,7 @@ XVIII - produtos classificados na posição 87.13 da Nomenclatura Comum do Merco
 XIX - artigos e aparelhos ortopédicos ou para fraturas classificados no código 90.21.10 da NCM;
 XX - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XXI - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
+XXIII - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
 II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII e XVIII a XXI do § 12 deste artigo.
