@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    José Nogueira e Vasconcelos e outros interpõem recurso extraordinário com fundamento na alínea a do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E TRIBUTÁRIO. RETENÇÃO DE IMPOSTO DE RENDA NA FONTE. IMUNIDADE DOS IDOSOS. ART. 153, § 2º, II DA CF/88.
+    O artigo 153, § 2º, II da CF/88 que assegurava a imunidade do Imposto de Renda na fonte e na declaração para os proventos dos idosos, não era auto-aplicável. Precedentes no col. STF.
+    Ausência de regulamento do dispositivo constitucional, ora revogado pela EC. N.º 20/98”. (fls. 117).
+    Opostos sucessivos embargos de declaração, foram improvidos. (fls. 161).
+    Alegam os recorrentes violação dos artigos 5º, inciso XXXVI e 153, § 2º, inciso II da Constituição Federal.
+    Interposto recurso especial simultaneamente ao recurso extraordinário, aquele foi rejeitado (fls. 379), com trânsito e julgado em 09/09/2009 (fls. 382).
+    Às fls. 204, a decisão que admitiu o apelo extremo.
+    Decido.
+    Não assiste razão jurídica aos recorrentes.
+    Inicialmente, no que tange às alegações de afronta à coisa julgada, esta Corte tem entendimento consolidado de que, se dependentes do reexame de normas infraconstitucionais, configura mera ofensa indireta ou reflexa à Constituição Federal, inviabilizadora do prosseguimento do recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. (AI nº 594.887/SP - AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJ de 30/11/07).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão recorrido limitou-se a interpretar normas infraconstitucionais . II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstituciona l. III. - Agravo não provido. (AI 531209, rel. min. Carlos Velloso , DJ 11.11.2005).
+     Quanto ao mérito, observo que a controvérsia se limita à autoaplicabilidade, ou não, do artigo 153, § 2º, II, da Constituição Federal, que dispunha acerca da não-incidência do imposto de renda, nos termos e limites fixados em lei , sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios a pessoa com idade superior a sessenta e cinco anos, cuja renda total decorra exclusivamente do trabalho.
+    Sobre a questão, o Tribunal Pleno desta Corte, na Sessão de 17.04.97, ao apreciar o MS 22584-MG, redator para o acórdão o Ministro Nelson Jobim, firmou entendimento no sentido de que a norma contida no artigo 153, § 2º, II, da Constituição, que vigorou até a edição da Emenda Constitucional n.º 20, de 15/12/98, era de eficácia contida, por necessitar de integração legislativa para limitar a não-incidência do tributo na forma nela prevista, e, portanto, não eram autoaplicáveis as suas disposições. Assim, não prospera a irresignação.
+    Para arrematar, destaco a decisão do RE 200.485, neste mesmo sentido. Veja-se:
+    “IMPOSTO DE RENDA NA FONTE. PROVENTOS. BENEFICIÁRIOS COM IDADE SUPERIOR A SESSENTA E CINCO ANOS. ART. 153, § 2º, INC. II, DA CONSTITUIÇÃO FEDERAL. LEI Nº 7.713/88. O Supremo Tribunal Federal, no julgamento do Mandado de Segurança 22.584 (Sessão do dia 17.04.97), proclamou entendimento no sentido de que o art. 153, § 2º, II, da Constituição Federal, ao estabelecer que o imposto de renda "não incidirá, nos termos e limites fixados em lei, sobre rendimentos provenientes de aposentadoria e pensão, pagos pela previdência social da União, dos Estados, do Distrito Federal e dos Municípios a pessoa com idade superior a sessenta e cinco anos, cuja renda total seja constituída, exclusivamente, de rendimentos do trabalho", não é auto-aplicável, estando a depender de lei que fixará os termos e os limites dessa não-incidência. E, até que advenha a lei regulamentando o exercício desse direito, continuam válidos os limites e restrições fixados na Lei nº 7.713/88 com suas posteriores alterações. Recurso extraordinário conhecido, mas improvido”. (RE 200.485, Relator Min. Ilmar Galvão, 1ª Turma, DJ de 20/03/98)
+    Ante ao exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de setembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
