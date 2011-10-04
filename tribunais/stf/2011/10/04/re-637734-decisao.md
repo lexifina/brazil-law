@@ -1,0 +1,8 @@
+REPERCUSSÃO GERAL RECONHECIDA. LIGAÇÕES TELEFÔNICAS. PULSOS EXCEDENTES À FRANQUIA MENSAL. ESPECIFICAÇÃO. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos sobre a possibilidade, ou não, de cobrança de ligações telefônicas sem a especificação dos pulsos excedentes à franquia mensal, que será submetida à apreciação do Pleno desta Corte nos autos do RE 561.574, Relator o Ministro Marco Aurélio.
+    Em consequência, devolva-se o feito ao Tribunal de origem (art. 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 4 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
