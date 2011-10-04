@@ -1,0 +1,33 @@
+DECISÃO
+    Vistos.
+    A ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO interpõe recurso extraordinário (folhas 268 a 285) contra acórdão proferido pelo Órgão Especial do Tribunal de Justiça daquele Estado, assim ementado:
+    “Ação direta de Inconstitucionalidade de Lei – Lei Estadual nº 10.380, de 24 de setembro de 1999, que dispôs sobre o transporte gratuito e obrigatório de Policiais Militares fardados em todos os ônibus intermunicipais do Estado de São Paulo – Legitimidade ‘ad causam’ do autor reconhecida – Procedência da ação, outrossim – Ofensa pela lei em questão aos artigos 5º; 47, XVIII e II; 120 e 159, parágrafo único, da Constituição Paulista” (fls. 235).
+    Opostos embargos de declaração (folhas 253 a 255), foram rejeitados (folhas 262/263).
+    Insurge-se, no apelo extremo, fundado na alínea “a” do permissivo constitucional, contra alegada contrariedade aos artigos 2º, 84, inciso II e 175 caput, da Constituição Federal, em razão de ter sido reconhecida a inconstitucionalidade da Lei nº 10.380/99, do Estado de São Paulo, que dispunha sobre a gratuidade a policiais militares fardados, na utilização de ônibus intermunicipais.
+    O recurso foi contra-arrazoado (folhas 302 a 312) e admitido, na origem (folhas 326 a 328), subiram os autos a esta Suprema Corte.
+    Por fim, o parecer da douta Procuradoria-Geral da República é pelo desprovimento do recurso (folhas 338 a 341).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que a decisão recorrida considerou inválida o referido diploma legal, sob o fundamento de que seu conteúdo estaria em desavença com a norma do artigo 47, inciso XVIII, da Constituição Estadual.
+    De fato, assim dispôs, sobre o tema, aquela decisão regional:
+    “Nos termos do artigo 47, XVIII, da Constituição do Estado, compete privativamente ao Governador enviar à Assembleia Legislativa projeto de lei sobre regime de concessão ou permissão de serviços públicos, o que se conjuga com o inciso II, do aludido dispositivo constitucional, reservando ao Governador exercer, com auxílio dos Secretários de Estado, a direção superior da Administração Federal” (folha 239).
+    Vê-se, portanto, que para a eventual análise acerca da efetiva inconstitucionalidade de que padeceria a referida lei estadual, mister seria o necessário reexame do conjunto fático-probatório constante dos autos, bem assim de normas infraconstitucionais utilizadas em sua fundamentação, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279 e 280 do STF.
+    Nesse sentido, cite-se o seguinte precedente:
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Ação direta de inconstitucionalidade estadual. LC nº 25 do Município de Florianópolis. Ofensa reflexa à Constituição. Súmula 280. Agravo regimental não provido. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de norre 4mas infraconstitucionais, seria apenas indireta à Constituição da República. 2. RECURSO. Extraordinário. Inadmissibilidade. Ausência de razões consistentes. Decisão mantida. Agravo regimental não provido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE n 477.940/SC-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 14/11/08).
+    E, de igual teor, podem ser citadas as seguintes decisões monocráticas: RE nº 432.095/MT, Relatora a Ministra Cármen Lúcia, DJ de 16/12/09, RE nº 554.536/RJ, Relator o Ministro Eros Grau, DJ de 12/6/08, RE nº 581.220/SP, Relator o Ministro Ricardo Lewandowski, DJ de 30/4/08 e RE nº 368.748/SP, relator o Ministro Carlos Velloso, DJ de 25/5/05, do qual destaco o seguinte trecho:
+    “Assim posta a questão, o recurso não é de ser conhecido, por isso que incide, na espécie, a Súmula 283. É que não há falar em recurso extraordinário contra acórdão proferido em ação direta estadual se o fundamento invocado não encontra correspondência na Constituição Federal. Do exposto, nego seguimento ao recurso”.
+    E, de fato, conforme supra ressaltado, a decisão atacada tomou por fundamento, dentre outros, a norma do artigo 47, inciso XVIII, da Constituição Estadual paulista, que assim dispõe, in verbis:
+    “Artigo 47 - Compete privativamente ao Governador, além de outras atribuições previstas nesta Constituição:
+(...)
+    XVIII - enviar à Assembléia Legislativa projeto de lei sobre o regime de concessão ou permissão de serviços públicos”
+    Ora, tal norma, ao contrário do asseverado pelo recorrente, não encontra parâmetro na Constituição Federal, sendo absolutamente diversa do contido no artigo 175 da Constituição Federal que dispõe, in verbis:
+    “Incumbe ao Poder Público, na forma da lei, diretamente ou sob o regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos”
+    Vê-se, assim, da simples leitura de ambas as normas, que essa última em nada se refere com a anterior e que, assim, tal parte do fundamento da decisão atacada é de índole eminentemente infraconstitucional, insuscetível, destarte, de ser apreciado em recurso extraordinário
+    A presente irresignação, portanto, não merece prosperar.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 4 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
