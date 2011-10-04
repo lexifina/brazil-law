@@ -1,0 +1,18 @@
+Decisão:
+    Sindicato Nacional das Empresas de Arquitetura e Engenharia Consultiva - SINAENCO interpõe agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão proferido pela Décima Quinta Câmara de Direito Público do Tribunal de Justiça de São Paulo assim ementado:
+    “MANDADO DE SEGURANÇA – ISSQN – Lei Municipal nº 13.474/02 – Sociedades uniprofissionais – Engenheiros e arquitetos – Afronta aos princípios da isonomia/ igualdade tributária, capacidade contributiva e legalidade administrativa – Inocorrência – Obrigações acessórias, que não se sustentam, ante os termos do art. 113 par. 2. do CTN – Segurança concedida nessa parte – Apelos, do contribuinte, oficial e da municipalidade, improvidos – Sentença mantida” (fls. 126)
+    Alega contrariedade aos arts. 145, §1º e 156, III da Constituição Federal, e aos princípios da Proporcionalidade, da Razoabilidade, da capacidade contributiva.
+    Decido.
+    Não merece prosperar a irresignação.
+    Verifico que o acórdão recorrido, no que diz respeito à majoração do valor do tributo, decidiu da seguinte forma:
+    “descabendo examinar-se aqui o argumento acerca da majoração elevada do respectivo valor, já que a questão demanda dilação probatória, inviável em sede de mandado de segurança, por isso aqui merecendo registro a aparente inexistência, na espécie, de ofensa aos mencionados princípios constitucionais da isonomia e capacidade contributiva, pois a aludida lei Municipal nada mais fez do que dar comprimento ao artigo 9º, § 3º, do Decreto Lei nº 406/68...” (fls. 178)
+    A análise realizada pelo acórdão recorrido, no que tange ao objeto do apelo extremo interposto pela recorrente, ficou adstrita a legislação infraconstitucional quando entendeu que a utilização do mandado de segurança como via processual para o caso concreto seria inadequada, tendo em vista a ausência de prova pré constituída. Incabível, dessa forma, o presente recurso. Nesse sentido:
+    “AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. REQUISITO DE ORDEM PROCESSUAL. MATÉRIA INFRACONSTITUCIONAL. A jurisprudência desta Corte é no sentido de que o direito líquido e certo é pressuposto do mandado de segurança de ordem processual e nada tem a ver com o mérito da demanda. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição federal. Reexame de fatos e provas: impossibilidade (Súmula 279/STF). Agravo regimental ao qual se nega provimento”. (AI nº 469.482/MGAgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, Dje 233, publicação em 02/12/2010).
+    Ademais, para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, quanto à alegada ofensa aos referidos princípios constitucionais, seria necessário o reexame de fatos e provas bem como da legislação infraconstitucional local (Lei Municipal 13.474/02), o que encontra óbice nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “ALEGAÇÃO DE EFEITO CONFISCATÓRIO E DE OFENSA AO PRINCÍPIO DA CAPACIDADE CONTRIBUTIVA. SÚMULA 279 DO STF (...). Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, quanto à alegada ofensa aos princípios da capacidade contributiva e da vedação ao confisco, seria necessário o reexame de fatos e provas, o que encontra óbice na Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI 505.908-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 14.8.2009 – grifo nosso).
+    Diante do exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 4 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
