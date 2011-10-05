@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por João Vieira Neto, Bianca Laurentino Serrano Barbosa e Viviane da Silva Felix em favor de IVANILDO ROMÃO DA SILVA, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem pleiteada no HC 207.907/PE, Rel. Min. Gilson Dipp.
+    Os impetrantes narram, de início, que, por fato ocorrido em 6/3/2000, o paciente foi denunciado em 22/12/2004, pela suposta prática de homicídio qualificado tentado (art. 121, § 2º, I, combinado com o art. 14, II, ambos do CP), o que resultou na sua prisão preventiva em 10/12/2010.
+    Prosseguem, relatando que o indiciamento do paciente deu-se por Portaria do Delegado de Polícia Civil em 6/3/2000, tendo a referida autoridade policial se valido da qualificação indireta, “sem ter imbuído NENHUM esforço para encontrá-lo, frise-se, tendo toda sua qualificação, características, filiação, até DATA DE NASCIMENTO” (grifos no original).
+    Destacam, mais adiante, que a prisão preventiva foi solicitada sem ao menos a polícia ter, efetivamente, buscado a localização do paciente, tendo a magistrada processante, em 5/1/2005, decretado a custódia cautelar, “sem qualquer alicerce de fundamento, de maneira genérica, sem demonstrar nenhum dos requisitos da prisão preventiva, eivada de ilações, tanto o é, que após (sic) o Juízo de Piso diligenciou (simplesmente) e encontrou o Paciente em cidade do mesmo Estado da Federação (Pernambuco)” (grifos no original).
+    Contra o decreto de prisão, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de Pernambuco e, posteriormente, outro no Superior Tribunal de Justiça, sendo a ordem denegada em ambas as impetrações.
+    É contra o acórdão da Corte Superior que se insurgem os impetrantes.
+    Afirmam, inicialmente, que o paciente nunca foi, de fato, procurado pela autoridade policial, que só levou em consideração o depoimento de uma parenta para atestar que estaria ele em local incerto e não sabido.
+    Aduzem, mais, que a magistrada de primeiro grau despachou, “sem qualquer fundamentação lógica e antenada com as com as informações colhidas na cártula inquisitorial, decidindo pela prisão preventiva sem esclarecer qual a coexistência entre as suas hipóteses”.
+    Asseveram, ainda, que a citação por edital deu-se com base tão somente na equivocada informação da autoridade policial, uma vez que o paciente residia na cidade de Capina, no Estado de Pernambuco, lugar para o qual nunca foi expedido mandado de intimação, tanto que, após um simples Ofício à Justiça Eleitoral, o juízo logrou encontrá-lo naquela localidade.
+    Daí por que alegam que a prisão processual não encontra encontra amparo em qualquer das hipóteses previstas no art. 312 do CPP e foi efetivada apesar de ser o paciente primário e portador de enfermidade que se agrava com passar do tempo, sem a devida assistência para a sua saúde.
+    Sustenta, por fim, que, com o advento da Lei 12.403/2011, a segregação cautelar tornou-se exceção (art. 282, § 6º, do CPP), só cabível nas hipóteses em que não se possa aplicar uma ou mais das medidas cautelares substitutivas.
+    Requer, ao final, liminarmente, a suspensão do decreto de prisão preventiva, até o julgamento final deste writ, com a consequente expedição do alvará de soltura, “aplicando-se todas as medidas cautelares insculpidas no art. 319 do CPP” e, alternativamente, o deferimento da prisão domiciliar. No mérito, pede a concessão da ordem para revogar a prisão cautelar e restabelecer a liberdade do paciente.
+    É o relatório suficiente. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, no caso concreto a liminar pleiteada tem caráter satisfativo, confundindo-se com o próprio mérito da impetração, o qual será oportunamente examinado pela Turma julgadora.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 5 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
