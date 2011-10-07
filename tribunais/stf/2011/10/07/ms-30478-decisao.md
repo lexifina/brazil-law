@@ -1,0 +1,32 @@
+Despacho: Trata-se de pedido de redistribuição do feito, em virtude da aposentadoria da eminente Ministra ELLEN GRACIE.
+    A Ministra Relatora indeferiu o pedido liminar formulado (Dje 11.5.2011), sob os seguintes fundamentos:
+    5. Não vislumbro, neste juízo prévio, a plausibilidade jurídica do pedido formulado no presente writ . Entendo que a fumaça do bom direito não está evidenciada diante da densidade jurídica dos argumentos postos nas informações prestadas. Nesse sentido extraio os seguintes excertos das informações elaboradas pela Advocacia-Geral da União:
+    “As sindicâncias que antecederam a instauração do processo Administrativo Disciplinar em questão foram de natureza investigatória e não punitiva. Isso é fato, como restou assentado pela Comissão Processante às fls. 5.446/5.447, do Relatório Final,
+    (...)
+    O presente Processo Administrativo Disciplinar foi instaurado pela Portaria 56 de 28 de Abril de 2006, data a partir da qual restou interrompido o curso da prescrição. Considerados os 140 dias para a conclusão e julgamento, a prescrição da pretensão punitiva, no caso do impetrante, que é de cinco anos, ocorrerá somente no dia 14 de setembro de 2.011.
+    (...)
+    Além do mais, as provas trazidas aos autos e sintetizadas no Relatório Final do Colegiado (fls. 5.586/5.588), configuram, sem dúvida, improbidade administrativa, a ensejar a indicação do inciso IV do art. 132 da Lei n. 8.112, de 11/12/1990.
+    (...)
+    24. O Processo Administrativo Disciplinar transcorreu normalmente, tendo sido observadas as formalidades legais e constitucionais, nos termos do art. 143, 253 e 156, todos da lei 8.112, de 11 de dezembro de 1990, e do artigo 5º, inciso LV, da Constituição Federal.
+    25. Foram ouvidas, ao todo, 27 (vinte e sete) testemunhas.
+    26. Diante de tais fatos, o Trio Processante afastou os argumentos da defesa, por considerá-los insuficientes para desconstituir a convicção da prática de infrações administrativas pelo impetrante, concluindo pela responsabilização dele, pelas seguintes condutas (5.625/5.626):
+    deixar de aplicar a multa contratual à empresa Cobra Tecnologia S/A, prevista na Lei nº 8.666/93, violando o disposto no artigo 117, inciso IX, da Lei n. 8.112/90, de 11/12/1990 (valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública);
+    prorrogar, informalmente, o contrato entre a Cobra Tecnologia S/A e o MTE, mesmo diante do inadimplemento por parte da contratada e da determinação do Tribunal de Contas da União, violando o disposto no artigo 117, o inciso IX, da Lei n. 8.112/90, de 11/12/1990 (valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública);
+    permitiu que a empresa contratada executasse os serviços mediante a sub-contratação da empresa AAC – Serviços de Informática Ltda. (Compnet), o que era expressamente vedada pelo contrato assinado, configurando-se afronta ao artigo 117, inciso XV, da Lei n. 8.112/90, de 11/12/1990 (proceder de forma desidiosa) ”.
+    Ademais, quanto à alegação de prescrição da pretensão punitiva, verifico que o ato impugnado guarda convergência com o entendimento firmado pelo Plenário desta Corte no julgamento do MS 23.299/PR, Rel. Min. Sepúlveda Pertence, no sentido de que a instauração do processo disciplinar interrompe a prescrição. Veja-se a ementa desse julgado:
+    “I. Cassação de aposentadoria pela prática, na atividade, de falta disciplinar punível com demissão (L. 8.112/90, art. 134): constitucionalidade, sendo irrelevante que não a preveja a Constituição e improcedente a alegação de ofensa do ato jurídico perfeito. II. Presidente da República: competência para a demissão de servidor de autarquia federal ou a cassação de sua aposentadoria. III. Punição disciplinar: prescrição: a instauração do processo disciplinar interrompe o fluxo da prescrição, que volta a correr por inteiro se não decidido no prazo legal de 140 dias, a partir do termo final desse último. IV. Processo administrativo-disciplinar: congruência entre a indiciação e o fundamento da punição aplicada, que se verifica a partir dos fatos imputados e não de sua capitulação legal”.
+    6. Constato, ainda, que o pedido de medida liminar ora formulado se reveste de conteúdo eminentemente satisfativo, já que se confunde com o mérito da própria impetração, o que não recomenda o seu deferimento.
+    7. Saliente-se, por fim, que o fato de existir perigo na demora em um determinado caso, por si só, não autoriza o magistrado a conferir provimento cautelar para uma parte. Para a concessão de medida liminar é necessária a existência concomitante da fumaça do bom direito e do perigo na demora.
+    No presente caso, não há que falar em fumaça do bom direito, porquanto não se verifica, em princípio, a plausibilidade jurídica do pedido formulado no presente writ.
+    8. Ante o exposto, indefiro o pedido de liminar“.
+    Dessa decisão, o impetrante interpôs agravo regimental (Pet/STF n º 27.334/2011) pendente de julgamento.
+    Requer a redistribuição do feito em razão (i) da pendência de apreciação do recurso interposto contra a decisão que indeferiu o pedido liminar, (ii) da urgência, inerente a essa espécie de medida, (iii) dos prejuízos que vem sofrendo o impetrante que, com o passar do tempo, poderão tornar-se cada vez mais graves e danosos, e (iv) do fato de que o cargo está vago há mais de 30 dias. Caso não seja esse o entendimento, requer a submissão do agravo regimental à mesa do Pleno para julgamento.
+    2. O pedido liminar, como se vê, foi exaustivamente apreciado pela Relatora, Min. ELLEN GRACIE, razão pela qual não se justifica a aplicação da excepcionalíssima via da redistribuição dos autos, conforme dispõe o art. 68 do RISTF.
+    3. Quanto ao pedido subsidiário, é de competência do Relator levar o feito a julgamento, nos termos do art. 317, § 2º, do RISTF:
+    § 2º O agravo regimental será protocolado e, sem qualquer outra formalidade, submetido ao prolator do despacho, que poderá reconsiderar o seu ato ou submeter o agravo ao julgamento do Plenário ou da Turma, a quem caiba a competência, computando-se também o seu voto.
+    4. Ante o exposto, indefiro os pedidos. À Secretaria para que aguarde o sucessor da Min. ELLEN GRACIE (cf. art. 38, IV, a, do RISTF).
+    Publique-se. Int..
+    Brasília, 7 de outubro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
