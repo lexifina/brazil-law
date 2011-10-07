@@ -1,0 +1,27 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL E PROCESSUAL PENAL. HABEAS CORPUS INDEFERIDO NO TRIBUNAL DE JUSTIÇA DE SANTA CATARINA. HABEAS CORPUS NÃO CONHECIDO NO SUPERIOR TRIBUNAL DE JUSTIÇA. FUNDAMENTOS DE MÉRITO NÃO ANALISADOS NAS INSTÂNCIAS PRECEDENTES. DUPLA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com pedido liminar, impetrado por Antônio Bissoli, acadêmico de direito, em favor de Luciano Dias Marins, apontando-se como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou o Habeas Corpus nº. 156.422.
+    2. Do que se extrai da inicial, que chama atenção pela atecnia, o Relator do habeas corpus impetrado em favor do Paciente no Tribunal de Justiça de Santa Catarina dele não conheceu, ao fundamento de ter sido precariamente instruído.
+    3. Contra aquela decisão monocrática, impetrou-se habeas corpus no Superior Tribunal de Justiça, que, em sua composição colegiada, também dele não conheceu, porque a questão não fora debatida na instância estadual.
+    4. Questionando o acórdão do Superior Tribunal de Justiça, argumenta, após historiar a movimentação do processo na primeira instância, a existência de “nulidade constitucional” no curso da ação penal, pois “não é somente o defensor constituído que deve ser intimado novamente, mas também, a pessoa do acusado, para que, no prazo legal, constitua nova defensor de sua preferência”. Nessa perspectiva, “o Magistrado não tem o condão de nomear defensor dativo, sem antes intimar ou consultar o acusado”, pois “isso fere a Constituição Federal de 1988 e a Convenção Americana dos Direitos Humanos (Pacto de São José da Costa Rica)”.
+    Listando precedentes do Superior Tribunal de Justiça e deste Supremo Tribunal, afirma ser “a nomeação da advogada dativa, Dra. Maria Tereza Zanella Capra, irregular, pois atuou no processo como pessoa estranha, sem que houvesse sido intimado o Paciente para constituir novo defensor, bem como não houve renúncia dos patronos anteriormente inseridos no contexto da ação criminal”.
+    4. O pedido está formulado nos termos seguintes:
+    “Diante do exposto, requer-se a concessão da ordem liminarmente, a fim de anular o processo crime 065.05.001437-9, a partir do ponto viciado em face de ter[em] sido cercados os direitos do Paciente de defender-se com advogado de sua preferência ao teor da Constituição Federal de 1988 e da Convenção Americana dos Direitos Humanos (Pacto de São José da Costa Rica).”
+    Examinada a matéria nos aspectos essenciais, DECIDO.
+    5. Os elementos fáticos e jurídicos da impetração desautorizam o prosseguimento deste habeas corpus no Supremo Tribunal.
+    6. O tema debatido pelo Impetrante nesta ação, suposta irregularidade de nomeação de defensor dativo, não foi enfrentado nas instâncias precedentes.
+    No Tribunal de Justiça de Santa Catarina, indeferiu-se a petição inicial do habeas corpus, porque a instrução precária não autorizava “o exame daquilo que, na sua visão (do Impetrante), traduziu o alegado constrangimento ilegal”.
+    A pesquisa no sítio eletrônico do Superior Tribunal de Justiça mostra que a Quinta Turma não conheceu da ordem, porque reconheceu a necessidade de se ter o pronunciamento da segunda instância estadual catarinense sobre o tema apresentado na impetração:
+    “HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO E CORRUPÇÃO DE MENOR. NULIDADE. NOMEAÇÃO INDEVIDA DE DEFENSOR DATIVO. TRIBUNAL DE ORIGEM NÃO CONHECEU DA ORDEM IMPETRADA. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. ORDEM NÃO CONHECIDA.
+    1. As questões acerca da suposta "indevida" nomeação do defensor dativo não foram apreciadas pelo Tribunal de origem, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, evitando-se, com tal medida, a ocorrência de supressão de instância (Precedentes STJ).
+    3. Ordem não conhecida.”
+    No voto condutor, destacou o Ministro Jorge Mussi que “as questões acerca da suposta "indevida" nomeação do defensor dativo não foram apreciadas pelo Tribunal de origem, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, evitando-se, com tal medida, a ocorrência de supressão de instância”.
+     7. O acórdão questionado não destoa da jurisprudência consolidada neste Supremo Tribunal, segundo o qual não se viabiliza a atuação jurisdicional quando o ato impugnado pela via do habeas corpus não tenha sido enfrentado na instância precedente. Afinal, “a supressão de instância impede que sejam conhecidos, em sede de habeas corpus, argumentos não veiculados nos Tribunais inferiores (Agravo Regimental no Habeas Corpus nº 100.795, relator o Ministro Luiz Fux, p. 19.9.2011).
+    No mesmo sentido, dentre outros, Habeas Corpus nº 107.371, relator o Ministro Dias Toffoli, p. 06.10.2011; Habeas Corpus nº 100.595, relatora a Ministra Ellen Gracie, p. 9.3.2011; Habeas Corpus nº 106.675, relator o Ministro Ayres Britto, p. 13.6.2011.
+    Assim, o exame do pedido formulado pelo Impetrante, neste momento, traduziria dupla supressão de instância, pois sequer se apreciou o mérito da impetração na segunda instância estadual.
+    8. Pelo exposto, sob pena de contrariedade às regras constitucionais e legais de competência, nego seguimento ao presente habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal e art. 38 da Lei n. 8.038/1990), ficando, por óbvio, prejudicado o pedido de medida liminar.
+    Publique-se.
+    Brasília, 7 de outubro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
