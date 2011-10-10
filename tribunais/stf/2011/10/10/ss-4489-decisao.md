@@ -1,0 +1,29 @@
+Decisão: 1. Trata-se de pedido de suspensão de segurança, formulado pelo Município de Fortaleza/CE, contra decisão proferida pelo Tribunal de Justiça cearense.
+    Na origem, 130 (cento e trinta) aprovados em concurso público para o Programa de Saúde da Família, dentro do número de vagas previstas em edital, impetraram a ordem, para garantia de direito líquido e certo de nomeação para os cargos de dentistas e enfermeiros.
+    O Tribunal de Justiça deu provimento à apelação, em acórdão assim ementado:
+    “APELAÇÃO CÍVEL. PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. NOMEAÇÃO DE CANDIDATOS APROVADOS DENTRO DO NÚMERO DE VAGAS PRESVISTAS NO EDITAL. DIREITO LÍQUIDO E CERTO À NOMEAÇÃO E À POSSE NO CARGO. PRECEDENTES DO STF E STJ. APELAÇÃO PROVIDA.
+    1. O candidato aprovado em concurso público, dentro do número de vagas previstas no edital do certame, possui direito líquido e certo à nomeação e à posse no cargo.
+    2. A existência de empregados terceirizados exercendo a função daqueles que aguardam convocação para tomar posse ofende princípios básicos da Administração Pública.
+    3. Precedentes do STF e STJ.
+    4. Recurso conhecido e provido”.
+    O requerente alega que a modificação jurisprudencial do STF não poderia ser aplicada de forma retroativa ao caso que ora se analisa, porque o certame fora levado a público em 2005, quando a jurisprudência desta Corte ainda seria no sentido de não haver direito subjetivo à nomeação dentro do número de vagas. Afirma que a questão será objeto de recurso extraordinário:
+    “A tese, portanto, consagrada nesse RE paradigma, de que o candidato tem direito adquirido à vaga prevista em Edital, não será contestada, mas apenas o momento temporal em que a Administração Pública estaria obrigada a não mais seguir o efeito vinculante da ADIN 2931-RJ, de 2006”.
+    Sustenta, ainda, que haveria lesão à economia pública, pois as despesas anuais com a contratação dos 130 profissionais seria de aproximadamente dez milhões de reais, o que não estaria previsto na lei orçamentária local. Aduz que existiriam duzentas e vinte e duas equipes completas do Programa de Saúde da Família, número supostamente suficiente para as necessidades locais.
+    2. Não é caso de suspensão.
+    A Corte tem entendido, com base nas diretrizes normativas que disciplinam as medidas de contracautela, não ser vedado ao Presidente do Supremo Tribunal Federal proferir juízo mínimo de delibação a respeito das questões jurídicas presentes na ação principal e caracterizado pela probabilidade de a decisão, contra a qual se pede a suspensão, ser contrária a norma ou normas jurídicas (cf. SS nº 846-AgR, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 29.5.1996; e SS nº 1.272-AgR, Rel. Min. CARLOS VELLOSO, DJ de 18.5.2001).
+    Tal entendimento, contudo, não permite juízo cognitivo aprofundado, que esgote antecipadamente a questão levada a juízo (cf. SS nº 2.932-AgR, Rel. Min. ELLEN GRACIE, Plenário, DJe de 25.4.2008).
+    No caso, o requerente confirma que não contestará a tese sobre direito subjetivo à nomeação dentro do número de vagas, mas “(...) o momento temporal em que a Administração Pública estaria obrigada a não mais seguir o efeito vinculante da ADIN 2931-RJ, de 2006”.
+    Nesses termos, saber qual a jurisprudência que a Administração Pública deveria observar à época dos fatos guarda inadmissível caráter de recurso (SL nº 80, Rel. Min. NELSON JOBIM, DJ de 19.10.2005), uma vez que a questão não foi objeto de consideração no julgamento do RE nº 598.099 (Rel. Min. GILMAR MENDES, Plenário, DJe de 3.10.2011), no qual se reconheceu existência de direito subjetivo.
+    Ademais, nesse precedente foram fixadas, com rigor, as situações excepcionais que, uma vez demonstradas pela Administração Pública, permitiriam a não convocação dos aprovados: superveniência, imprevisibilidade, gravidade e necessidade, nenhum dos quais apontado no incidente de que se cuida.
+    Ressalto, ainda, que tal julgamento apenas consagrou mudança jurisprudencial que já se vinha operando no âmbito desta Corte. É o que se vê, por exemplo, no RE nº 227.480 (Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 21.8.2009):
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO DE APROVADOS EM CONCURSO PÚBLICO. EXISTÊNCIA DE VAGAS PARA CARGO PÚBLICO COM LISTA DE APROVADOS EM CONCURSO VIGENTE: DIREITO ADQUIRIDO E EXPECTATIVA DE DIREITO. DIREITO SUBJETIVO À NOMEAÇÃO. RECUSA DA ADMINISTRAÇÃO EM PROVER CARGOS VAGOS: NECESSIDADE DE MOTIVAÇÃO. ARTIGOS 37, INCISOS II E IV, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+    1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso.
+    2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário.
+    3. Recurso extraordinário ao qual se nega provimento”.
+    Por fim, consta do acórdão, cuja eficácia se pretende suspender, a ocorrência de contratações em caráter de terceirização na rede pública municipal para os mesmos cargos objeto do concurso: “A contratação de pessoal para desempenhar funções inerentes aos cargos dos candidatos que aguardam nomeação constitui ato administrativo eivado de desvio de finalidade, preterindo direito líquido e certo do candidato aprovado no concurso público”. Tal conduta já não era admitida pela jurisprudência desta Corte à época do certame, de modo que não prosperam as alegações do requerente, no sentido de haver risco de grave lesão aos interesses públicos.
+    3. Ante o exposto, nego seguimento ao pedido (RISTF, art. 21, § 1º).
+    Publique-se. Int..
+    Brasília, 10 de outubro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
