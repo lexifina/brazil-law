@@ -1,0 +1,2 @@
+Autoriza a prorrogação de contratos por tempo determinado firmados com fundamento na alínea "g" do inciso VI do art. 2º da Lei nº 8.745, de 9 de dezembro de 1993, e dá outras providências.
+Faço saber que a PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 538, de 2011, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
