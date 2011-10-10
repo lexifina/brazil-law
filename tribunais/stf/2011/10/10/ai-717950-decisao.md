@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “PRESCRIÇÃO – Repetição do indébito – Reconhecimento de nulidade de cláusula contratual que prevê a atualização monetária – Inaplicabilidade do art. 178, §9º, V do CC/16 – Inocorrência do vício de consentimento ou social – Reconhecimento de nulidade de cláusula com base em violação a expresso texto de lei – Aplicação da regra geral do art. 177 do CC/16 – Prescrição vintenária – Hipótese ainda em que nulidade não se convalida, podendo ser reconhecida a qualquer tempo – Recurso improvido. CONTRATO – Antecipação de receita orçamentária (ARO) – Peculiaridade do contrato que não afastam seu caráter de operação financeira que se submete às normas do CDC – Cláusula que prevê atualização monetária pela ANBID – Potestatividade caracterizada – Entendimento sumulado (Súmula 176 do STF) – Restituição devida – Recurso improvido.” (fl. 432)
+    Opostos embargos declaratórios, estes foram rejeitados, com aplicação da multa por litigância de má-fé (fls. 479-481).
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos XXXVI e LV; e 93, inciso IX, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Código Civil Brasileiro e Código de Defesa do Consumidor) e com interpretação de cláusulas contratuais. Para se concluir de forma diversa, seria necessária a análise das mencionadas cláusulas, o que não enseja a abertura da via extraordinária.
+    Incide, portanto, o Enunciado de Súmula 454 do Supremo Tribunal Federal.
+    Sobre o tema, confiram-se o AI-AgR 457.496, 2ª Turma, Min. Ellen Gracie, DJe 12.5.2006; e o AI-AgR 576.744, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 13.3.2009, cuja ementa dispõe:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    Ademais, ressalto que esta via excepcional não viabiliza pretensão cuja análise demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+    Além disso, verifico que, em relação à alegação de cerceamento do direito de defesa em razão do indeferimento de produção de prova, esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do ARE-RG 639.228, oportunidade em que rejeitou a existência de repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+    Por último, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa ocasião, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
