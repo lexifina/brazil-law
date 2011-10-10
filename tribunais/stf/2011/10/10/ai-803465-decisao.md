@@ -1,0 +1,20 @@
+Decisão:
+    Vistos
+    Estado de Roraima interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput e incisos II, e LIV, e 37, caput, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Câmara única do Tribunal de Justiça do Estado de Roraima, assim ementado:
+    “REEXAME NECESSÁRIO - CONCURSO PÚBLICO - CURSO DE FORMAÇÃO DE SOLDADOS POLICIAIS MILITARES - LIMITAÇÃO DE IDADE MÁXIMA PARA ACESSO AO CURSO DE FORMAÇÃO - AUSÊNCIA DE PREVISÃO LEGAL - IMPOSSIBILIDADE – SENTENÇA CONFIRMADA” (fl. 17).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que firmou entendimento no sentido de que o limite de idade para inscrição em concurso público só se legitima quando previsto em lei e possa ser justificado pela natureza das atribuições do cargo a ser preenchido.  Nesse sentido, os seguintes acórdãos:
+     “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. LEI N. 7.289/84: AUSÊNCIA DE FIXAÇÃO DE IDADE MÁXIMA PARA INGRESSO NA CORPORAÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 599.171/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/09).
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. LIMITE DE IDADE. LEI ESPECÍFICA. SÚMULA 683 DO STF. ALEGADA OFENSA AO ART. 93, IX, DA CF. AGRAVO IMPROVIDO. I - o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte, no sentido de que o limite de idade para inscrição em concurso público só se legitima quando previsto em lei e possa ser justificado pela natureza das atribuições do cargo a ser preenchido. II - Não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. III - Agravo regimental improvido.
+(AI nº 722.490/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 6/3/09).
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. LIMITAÇÃO DE IDADE. PREVISÃO NA LEI 2.066/1976 DO ESTADO DE SERGIPE. INEXISTÊNCIA. A fixação do limite de idade apenas no edital do concurso não tem o condão de suprir a exigência constitucional de que tal requisito seja estabelecido por lei. Agravo regimental a que se nega provimento (RE nº 463.382/SE-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/2/07).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que a alegada violação do artigo 5º, inciso II, da Constituição Federal, seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ante o exposto, nego provimento ao agravo de instrumento
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
