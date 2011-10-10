@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário com agravo contra decisão de inadmissibilidade de apelo extremo que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. POLICIAL MILITAR. HORAS EXTRAS. INCLUSÃO DOS ADICIONAIS DE TEMPO DE SERVIÇO E RISCO DE VIDA NA BASE DE CÁLCULO. CÁLCULO DO DIVISOR CORRETO. AUSÊNCIA DE PROVA DO PAGAMENTO DAS HORAS EXTRAS SOMENTE SOBRE O VENCIMENTO BÁSICO. O valor da hora extra é calculado nos termos do Art. 1º da Lei nº 11.649/01, alterada pelo Decreto nº 40.987/01, que estabelece a base para o cálculo do valor da hora, para fins de pagamento de gratificação por exercício de serviço extraordinário, o vencimento básico dos cargos ocupados pelos respectivos servidores, acrescido da gratificação por risco de vida. A inclusão na base de cálculo do valor do adicional por risco de vida, nos termos do art. 2º, § 5º, do Decreto nº 40.987/2001, alterado pelo Decreto nº 41.449, é descabido, pois não há qualquer prova de que as horas extras vêm sendo pagas em desconformidade com o estabelecido em lei. Art. 333, I, do CPC. No caso de 40 horas semanais divididas por 6 dias, apresentam quociente que, multiplicado por 30 dias, apresenta um resultado de 200 horas. Incabível a aplicação do divisor de 160 horas para o cálculo das horas extras. APELO DESPROVIDO. (Apelação Cível Nº 70037364114, Quarta Câmara Cível, Tribunal de Justiça do RS, Relator: José Luiz Reis de Azambuja, Julgado em 18/05/2011)”. (fl. 111)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, os recorrentes sustentam a repercussão geral da matéria deduzida no recurso. No mérito, alegam que houve ofensa aos artigos 1º, IV; 5º, caput e XXXV; 7º, VI e XVI; e 39, § 3ª, do texto constitucional.
+    Defendem que “No caso em tela, deixou de observar o recorrido que o pagamento das referidas horas devem ser acrescidas de um percentual fixado em 50 % cada uma, conforme disposto no inciso XVI do artigo 7º, ratificado pelo § 3º do artigo 39, ambos da Carta Maior de 1988” (fl. 184). Ademais, sustentam que a legislação estadual também prevê o pagamento do adicional de 50%.
+    Decido.
+    Não assiste razão aos recorrentes.
+    Primeiramente, verifico que a controvérsia posta nos autos – referente à revisão da forma de cálculo da gratificação por labor extraordinário – está restrita ao âmbito da interpretação da legislação infraconstitucional (LC 11.649/01 e Decreto nº 40.987/01). Assim, eventual ofensa à Constituição Federal, se houvesse, seria indireta, hipótese que impede a admissão de recurso extraordinário.
+    Ainda que assim não fosse, segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu que:
+    “Já no que tange ao pleito da inclusão na base de cálculo do valor percebido pelo autor do adicional por risco de vida, (…) entendo que o apelante não fez qualquer prova de que as horas extras vêm sendo pagas em desconformidade com o estabelecido em lei (...)”. (fl. 176) (grifei)
+    Desse modo, para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: AI 832.774, de minha relatoria, DJe 10.2.2011; AI 801.331, Rel. Min. Ricardo Lewandowski, DJe 8.6.2010; e AI 783.499, Rel. Min. Cármen Lúcia, DJe 9.4.2010.
+    Incide, portanto, a Súmula 279/STF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
