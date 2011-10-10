@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento contra decisão que inadmitiu o recurso extraordinário interposto com fundamento no art. 102, III, “a”, da Constituição Federal em face de acórdão do Tribunal de Justiça do Espírito Santo a seguir ementado:
+    “REMESSA EX-OFFICIO COM APELAÇÃO VOLUNTÁRIA – AÇÃO DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO – CONTAS IRREGULARES – NÃO APROVAÇÃO PELO TRIBUNAL DE CONTAS – AUSÊNCIA DE MOTIVAÇÃO – VÍCIO INSANÁVEL – PRELIMINARES REJEITADAS – SENTENÇA MANTIDA – RECURSOS IMPROVIDOS.
+    1. Não procede a alegação de carência de ação arguida pelo Estado pela sua ilegitimidade passiva, pois sendo a CESAN uma empresa pública, e, sendo o Estado o maior detentor da maior participação societária, caracterizado está o interesse no desfecho da questão.
+    2. Comprovada a relação jurídica material ente o apelado e a Cesan, onde o apelado também sofrerá as consequências diretas do julgamento procedente ou improcedente do pedido de nulidade das decisões administrativas, razão pela qual tem a Cesan legitimidade passiva para figurar no polo passivo da relação processual.
+    3. Não há que se falar em invasão de competência do magistrado, eis que este apenas se limitou em apreciar o pedido de nulidade dos atos administrativos formulado pelo autor/apelado, segundo este, desprovido de motivação.
+    4. Verifica-se que as razões de rejeição das contas que se encontravam sob a responsabilidade do apelado e principalmente de apreciação do recurso da rejeição não foram devidamente fundamentadas. O magistrado singular sentenciou de forma perfeitamente escorreita, restringindo-se simplesmente a anular os acórdãos por falta de fundamentação, vez que eivados de vício insanável, não havendo razão para reforma da sentença de piso”. (fl. 199)
+    No apelo extremo, aponta-se violação aos arts. 37 e 70 da Constituição Federal, ao argumento de que a atuação do Tribunal de Contas se deu dentro dos ditames da legalidade e amparada pelo Texto Constitucional.
+    O recorrente aduz, preliminarmente, sua ilegitimidade passiva ad causam. No mérito, sustenta que os acórdãos do Tribunal de Contas do Estado, ora impugnados, foram devidamente motivados:
+    “(...) o Tribunal de consta do Estado do Espírito Santo agiu em estrita observância aos preceitos legais, ao contrário do que afirma o ora recorrido, objetivando o cumprimento de sua missão constitucional, de modo a proceder a fiscalização não apenas formalmente, mas materialmente, dos atos praticados pelo ordenador de despesas.
+    Dessa feita, o Tribunal de Contas apreciou não apenas o aspecto formal dos atos, mas a legitimidade destes mesmos atos, demonstrando, de forma cabal, as irregularidades cometidas e que motivaram a aplicação das penalidades.
+    Não ocorreu assim, a falta de motivação nas decisões atacadas, que na verdade encontram-se estas fortemente estribadas nos levantamentos técnicos efetivados e foram proferidas com a garantia ao ordenador de despesas da mais ampla defesa, como se pode constatar da documentação juntada nesses autos”. (fls. 263-264)
+    Decido.
+    Inicialmente, destaco que esta Corte firmou entendimento no sentido de que a discussão acerca da legitimidade ad causam demanda a prévia análise da legislação infraconstitucional, o que inviabiliza o prosseguimento do recurso extraordinário quanto a este ponto, tendo em vista que a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa. Nesse sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 587.112, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 4.6.2010)
+    Ademais, quanto ao mérito, não verifico violação constitucional a dar ensejo ao prosseguimento do apelo.
+    Isso porque, o acórdão recorrido, ao determinar que as decisões do Tribunal de Contas Estadual devem ser fundamentadas, não afrontou o princípio da legalidade (art. 37 da CF), nem mesmo as atribuições das Cortes de Contas previstas no art. 70 da CF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
