@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor (fls. 110):
+    “EMENTA
+    Servidores inativos e pensionistas da ex-FEPASA. Pretendido recebimento de reajustes concedidos aos funcionários da CPTM decorrentes de inúmeros dissídios e acordos coletivos. Reconhecida a ilegitimidade passiva da CPTM e a prescrição em relação aos dissídios e acordos anteriores a cinco anos da propositura da ação. Sentença de procedência em relação aos demais. Apelação das partes. Ilegitimidade da CPTM. Artigo 4º, § 1º da Lei Estadual nº 9.343/96. Questão da prescrição que não foi objeto de recurso pelos autores. Inadmissibilidade de extensão dos reajustes aos inativos e pensionistas da ex-FEPASA. Absorção do pessoal da FEPASA pela CPTM que excluiu os empregados que fazem jus à complementação de aposentadoria. Item 9 do Instrumento de Protocolo. Acordos e dissídios que não atingem os autores. Improvido o recurso dos autores e providos o reexame necessário e a apelação da Fazenda, para julgar improcedente a ação.”
+    No recurso extraordinário, a parte agravante alega ofensa ao artigo 40, § 8º, da Constituição federal.
+    O Supremo Tribunal Federal, no julgamento do RE 610.223-RG (rel. min. Ellen Gracie, DJe de 25.06.2010 – Tema 273), recusou o recurso extraordinário ante a ausência de repercussão geral do tema tratado no presente feito, por não haver questão constitucional a ser dirimida. Eis a ementa do referido acórdão:
+    “EXTENSÃO AOS APOSENTADOS E PENSIONISTAS DA ANTIGA FEPASA DE VANTAGENS SALARIAIS CONCEDIDAS AOS FERROVIÁRIOS EM ATIVIDADE COM BASE EM ACORDO COLETIVO. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Do exposto, nos termos dos arts. 543-A, caput e § 5º; 557, caput, do Código de Processo Civil, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
