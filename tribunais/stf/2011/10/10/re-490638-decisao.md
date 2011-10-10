@@ -1,0 +1,23 @@
+Decisão:
+    Vistos,
+    Associação dos Servidores do Superior Tribunal de Justiça – ASSTJ interpõe recurso extraordinário com fundamento na alínea a do permissivo constitucional contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. PESSOA FÍSICA. CORREÇÃO DA TABELA. MANDADO DE SEGURANÇA. LEGITIMIDADE ATIVA. MATÉRIA DE RESERVA LEGAL.
+    1. As entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados, judicial ou extrajudicialmente, na defesa dos seus interesses, nos termos da Constituição Federal (art. 5º, XXI). Precedente do STF.
+    2. A correção monetária das bases de cálculo das tabelas do imposto de renda e das respectivas deduções constitui matéria de reserva legal, não competindo ao Judiciário estabelecê-la, exercendo indevidamente função legislativa. Precedentes (STF – RE nº 234.003/RS).
+    3. Apelação parcialmente provida. Remessa prejudicada”. (fls. 271).
+    Opostos embargos de declaração (fls. 273/283), foram rejeitados (fls. 288).
+    No recurso extraordinário, a recorrente alega ofensa aos artigos 145 § 1º e 150, I e IV, todos da Constituição Federal.
+    Às fls. 366, a decisão que admitiu o apelo extremo.
+    Interposto recurso especial paralelamente ao extraordinário, aquele foi improvido (fls. 387).
+    Decido.
+    Não merece prosperar o apelo.
+    O acórdão recorrido está em consonância com a jurisprudência desta Corte.
+    Na sessão de 1º de agosto 2011, o Pleno da Corte, ao apreciar o mérito do Recurso Extraordinário n.º 388.312, Relator o Ministro Marco Aurélio, entendeu que a correção da tabela progressiva do imposto de renda não afronta os princípios da proibição do confisco ou da capacidade contributiva, e que o Poder Judiciário não pode impor atualização monetária na ausência de previsão legal, já que isto é afeto a competência dos Poderes Executivo e legislativo na organização econômica e financeira do país.
+    Entendeu, ainda, que ao converter em reais uma medida de valor e parâmetro de atualização monetária de tributos e de referência para a base de cálculo da tabela progressiva do imposto de renda (UFIR), o poder público buscou a conformação da ordem econômica, segundo princípios constitucionalmente assentados, com objetivo claro de combate à inflação crônica daquela época, para realização dos objetivos fundamentais da República, expostos no art. 3º da Constituição Federal. Este entendimento encontra-se publicado no Informativo desta Corte de n.º 634. Veja-se:
+    “O Poder Judiciário não pode substituir o Legislativo na correção da tabela do Imposto de Renda Pessoa Física IRPF. Esse o entendimento da maioria do Plenário ao concluir julgamento de recurso extraordinário e negar-lhe provimento. Na espécie, o acórdão recorrido indeferira pedido de correção das tabelas do imposto de renda ao fundamento de que a sua não atualização, por si só, não violaria os princípios constitucionais da capacidade contributiva e do não confisco (artigos 146, III, a, e 150, II e IV) v. Informativos 405, 434 e 592. Em preliminar, ante a falta de prequestionamento, não se conheceu do recurso quanto ao art. 146, III, a, da CF. No mérito, prevaleceu o voto proferido pela Min. Cármen Lúcia que, em síntese, asseverara não caber ao Poder Judiciário substituir-se aos Poderes Executivo e Legislativo na análise do momento econômico e do índice de correção adequados para a retomada, ou mera aproximação, do quadro estabelecido entre os contribuintes e a lei, quando de sua edição, devendo essa omissão ficar sujeita apenas ao princípio da responsabilidade política, traduzido principalmente na aprovação ou rejeição dos atos de governo nos julgamentos ulteriores do eleitorado . A Min. Ellen Gracie salientou a necessidade de se ter critérios para a aplicação de correção monetária, sob pena de se perpetuar a cultura inflacionária. Afirmou cuidar-se de matéria que se situaria no plano das políticas econômica e monetária e que se vincularia às circunstâncias e à necessidade de recomposição do equilíbrio das relações. Por fim, o Colegiado aduziu caber ao legislador, pretendendo modificar ou revogar a imposição tributária anteriormente instituída, legislar novamente e que sua omissão implicaria manutenção das regras vigentes” . Vencido o Min. Marco Aurélio, que, na parte conhecida, provia o extraordinário. RE 388312/MG, rel. orig. Min. Marco Aurélio, red. p/ o acórdão Min. Cármen Lúcia, 1º.8.2011. (RE-388312).
+    Ante ao exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
