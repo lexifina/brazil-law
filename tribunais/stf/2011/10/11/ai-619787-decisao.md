@@ -1,0 +1,39 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA N. 282 DO SUPREMO TRIBUNAL. ALEGADO DESCUMPRIMENTO DO CONTRATO. IMPOSSIBILIDADE DE REEXAME DE PROVAS, DE CLÁUSULAS CONTRATUAIS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Rondônia:
+    “COOPERATIVA DA UNIMED. EXCLUSIVIDADE DE COOPERADOS. CONFIGURA ABUSO DE PODER ECONÔMICO E PREJUÍZO À LIVRE CONCORRÊNCIA.
+    É inegável a ilegalidade do ato praticado pela UNIMED, ao defender a unimilitância dentro do regime da cooperativa, visto que contraria as previsões legais vigentes. A prática do unimilitarismo infringe os arts. 20, incs. I, II e IV e 21, incs. IV, V e VI, da Lei n. 8.884/94, entre outras” (fl. 105).
+    2. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional, e a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 1930-1932).
+    3. A Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. XVIII, da Constituição da República.
+    Argumenta ser possível “estabelecer limitações aos seus cooperativados, relativamente à prestação de serviços médicos a outras entidades, especialmente para aquelas que, segundo entendimento da classe, atuem de forma mercantilista, uma vez que a UNIMED foi instituída para combater esse modo de exploração do profissional da medicina” (fl. 1164).
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. Registre-se o que afirmado pelo Desembargador Relator ao apreciar os embargos infringentes da Agravante:
+    “No presente caso, verifica-se que a UNIMED/RO está exigindo de seus cooperados a exclusividade na prestação dos serviços médicos, proibindo que estes sejam credenciados de outras instituições semelhantes, sob ameaça de eliminação do seu quadro de associados, caso não aceitem as condições impostas.
+    Tal atitude da UNIMED/RO fere dispositivos constitucionais, bem como dispositivos infraconstitucionais em vigor no Ordenamento Jurídico Brasileiro.
+    Senão, vejamos: o médico é um profissional liberal, cuja liberdade de exercício da profissão lhe é assegurada pelo art. 5º, inc. XIII, da Constituição Federal, bem como em seu art. 10, inc. IV, a CF assegura uma ordem econômica, fundada na valorização do trabalho, observado dentre outros o princípio da livre concorrência.
+    Na legislação infraconstitucional, a Lei n. 9.656/98 em seus comandos, inibe restrições à atividade profissional liberal impedindo o desvirtuamento desta característica natural da atividade” (fls. 1054-1055).
+    6. O art. 5º, inc. XVIII, da Constituição não foi objeto de debate e decisão prévios no Tribunal de origem.
+     Tem-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, é que pode, e deve, haver a oposição de embargos declaratórios para que se supra a omissão, como é próprio desse recurso. Apenas, pois, nos casos de omissão do órgão julgador sobre a matéria constitucional que tenha sido arguída na causa, é que os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+     Isso porque, ainda que opostos, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de sua condição processual. Assim, os embargos declaratórios não servem para suprir a omissão da parte que não tenha cuidado de providenciar o necessário questionamento em momento processual próprio.
+    Confiram-se, a propósito, os seguintes julgados:
+    “1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+    “I. RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998).
+    Dessa forma, não foi atendido o requisito do prequestionamento. Incide na espécie a Súmula n. 282 do Supremo Tribunal, pois a questão constitucional não foi suscitada nos embargos opostos contra os termos da decisão recorrida.
+    Nesse sentido:
+     “A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário” (AI 413.963-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 1º.4.2005).
+    7. O Tribunal de origem considerou válida sanção imposta pelo Conselho Administrativo de Defesa Econômica (CADE) à ora recorrente, em razão de seu estatuto social conter cláusula de exclusividade, contrariamente ao que dispõe a Lei 9.656/98.
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+    O reexame do acórdão impugnado imporia, ainda, a interpretação da legislação infraconstitucional aplicável à espécie (Leis 5.764/71, 8.884/94 e 9.656/98) e das cláusulas do suposto contrato firmado pelas partes. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 454 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DAS CLÁUSULAS CONTRATUAIS E DAS PROVAS (SÚMULAS N. 279 E 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO“ (AI 822.898-AgR, de minha relatoria, Primeira Turma, DJe 21.2.2011).
+    E:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional aplicada à espécie, bem como a análise do acervo fático-probatório dos autos e de cláusulas contratuais. Providências vedadas neste momento processual. 2. Agravo regimental desprovido” (AI 769.024 -AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 21.3.2011 ).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de outubro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
