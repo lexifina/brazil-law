@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    "RECLAMAÇÃO TRABALHISTA – Ação proposta na Justiça do Trabalho - Envio à Justiça Comum - Cargo em comissão – Exoneração do serviço – Desnecessidade de motivação e procedimento administrativo ao ato - Recurso desprovido". (fl. 484)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 19 do ADCT e aos arts. 5º, LIV e LV, e 114, I, da Carta Magna.
+    A agravante alega que deve ser beneficiada com a estabilidade prevista no art. 19 do ADCT, uma vez que já contava com cinco anos de serviço contínuo na Administração Pública por ocasião da promulgação da Constituição Federal. Sustenta que, por isso, não pode ser demitida sem a existência de procedimento disciplinar. Argumenta ainda a incompetência absoluta da Justiça Comum estadual para apreciar demandas que versem sobre relação de trabalho.
+    Decido.
+    O recurso não merece prosperar.
+    Na espécie, de acordo com o acórdão recorrido, a agravada era ocupante de cargo em comissão. Confira-se:
+    “Tem-se que o ocupante de cargo em comissão pode ser exonerado a qualquer tempo, sem necessidade de procedimento administrativo ou motivação, assim, é o cargo que menos segurança confere ao seu titular, em termos de permanência”. (fl. 486)
+    Depreende-se desse trecho que o acórdão impugnado está em consonância com o disposto no artigo 19, § 2º, do ADCT e com a jurisprudência da Corte no sentido de que a estabilidade prevista nesse preceito não se aplica aos ocupantes de cargos, funções e empregos de confiança ou em comissão, como é o caso da agravada.
+    Nesse sentido, transcrevo parte do voto proferido pelo Min. Carlos Velloso, no RE-AgR 205.939, Segunda Turma, DJ 26.2.99, na parte que interessa:
+    “Ninguém ignora que a estabilidade do art. 19, ADCT, não se aplica aos ocupantes de cargos, funções ou empregos de confiança ou em comissão. Isto está expresso no § 2º do art. 19, ADCT, e é em tal sentido a jurisprudência do Supremo Tribunal Federal, de que é exemplo o decidido no MS 21.680-DF, Relator o Ministro Sepúlveda Pertence (DJ de 23.9.94) e no RE 146.332-SP, Relator o Ministro Octávio Gallotti (RTJ 143/335). Concorri, com o meu voto, para que se firmasse essa jurisprudência (MS 21.680-DF).
+    É certo, também, que o tempo de serviço prestado em cargo, funções e empregos de confiança ou em comissão, não será computado para os fins do artigo 19, ADCT. Isto está expresso no § 2º do art. 19, ADCT. Mas está expresso, também, no mesmo § 2º do citado art. 19, ADCT, que esse tempo será computado quando se tratar de servidor.
+    É ler:
+    Art. 19.
+    § 2º. O disposto neste artigo não se aplica (...) cujo tempo de serviço não será computado para os fins do caput deste artigo, exceto se se tratar de servidor”. (grifo nosso)
+    Melhor sorte não assiste à agravante quanto à alegada necessidade de procedimento administrativo para exoneração de cargo em comissão. Com efeito, o ocupante desse cargo depende de concurso público e sua demissão é, ordinariamente, ad nutum, isto é, sujeita à completa vontade da autoridade que tenha feito a nomeação, prescindindo de qualquer procedimento administrativo. Nesse sentido, o MS nº 22.644-7/DF, Rel. Min. Maurício Corrêa, DJ 19.11.1999. Destaque-se o voto do Ministro Ilmar Galvão nesse processo, do qual transcreve-se o seguinte trecho:
+    “Não bastasse a circunstância de tratar-se de dispositivo contido em ato normativo destituído de força para inovar na ordem jurídica, é fácil de ver que pressupõe ele falta cometida por pessoa estranha à Administração, no exercício de cargo de confiança, demissível ad nutum e sujeita por isso mesmo, a processo sumário”. (grifo nosso)
+    No que concerne à competência para julgar a presente demanda, a jurisprudência do Supremo Tribunal Federal tem-se firmado no sentido de que compete à Justiça Comum processar e julgar as causas instauradas entre Poder Público e servidor a ele vinculado por relação de ordem jurídico-administrativa. Nesse sentido, cito a decisão cautelar proferida na ADI-MC 3.395, Rel. Min. Cezar Peluso, DJ 10.11.2006, cuja ementa possui o seguinte teor:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+     Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 11 de outubro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
