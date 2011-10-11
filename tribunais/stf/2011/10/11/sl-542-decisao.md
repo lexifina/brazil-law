@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de pedido de suspensão de liminar, formulado pela Fundação Universidade de Itaúna/MG, contra decisão proferida pelo juízo da 1ª Vara Cível da Comarca de Itaúna. A requerente informa ter ajuizado idêntico pedido de suspensão junto ao Presidente do Tribunal de Justiça mineiro, que o indeferiu.
+    Na origem, Juliana Machado Alves impetrou a ordem, para garantia de direito líquido e certo de renovação de matrícula no curso de Ciência da Computação. Alegou que, devido a equívoco de datas, “(...) no dia 13 de julho do corrente ano a mesma acessou a internet na tentativa de imprimir o boleto do mês de julho referente à matrícula, entretanto, não obteve êxito, uma vez que o documento não se encontrava disponível no site da Universidade”.
+    A liminar foi concedida, nos seguintes termos:
+    “Analisando melhor a questão e considerando ainda evidente o risco de grave dano à impetrante, em razão da proximidade do início do próximo semestre letivo, defiro a medida liminar pleiteada apenas para determinar à autoridade coatora a efetivação da matrícula.
+    Quando ao pedido liminar de matrícula para continuação do curso, cabível, por ora, a sua concessão, em função da adimplência com a instituição de ensino”.
+    A requerente faz diversas considerações sobre suposta incompetência para julgamento da impetração, com alegação de que a Justiça Federal seria o juízo competente. Sustenta que a decisão, “(...) ao paralisar a eficácia de preceito básico consubstanciado na Constituição Federal, no que se refere à competência absoluta da Justiça Federal (art. 109, VIII), afeta, gravemente, a ordem institucional da Universidade de Itaúna”.
+    2. Não é caso de suspensão.
+    De acordo com o regime legal de contracautela (Leis n° 12.016/09, nº 8.437/92 e nº 9.494/97, e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    No caso, não houve efetiva comprovação da ocorrência de grave lesão aos interesses públicos tutelados pelo regime geral de contracautela. É que o requerente se limitou a alegações quanto a suposta incompetência do juízo prolator da decisão impugnada, questão, portanto, relativa ao mérito da causa.
+    Ora, o suposto dano invocado pela Fazenda Pública não se presume. Conforme entendimento da Corte:
+    “Suspensão de segurança . Potencialidade danosa do ato decisório. Necessidade de comprovação inequívoca de sua ocorrência. Excepcionalidade da medida de contracautela ( Lei nº 4.348/64 , art. 4º). Em tema de suspensão de segurança, não se presume a potencialidade danosa da decisão concessiva do writ mandamental.
+    A existência da situação de grave risco ao interesse público, alegada para justificar a concessão da drástica medida de contracautela, há de resultar cumpridamente demonstrada pela entidade estatal que requer a providência excepcional autorizada pelo art. 4º da Lei nº 4.348/64. Não basta, para esse efeito, a mera e unilateral declaração de que, da execução da decisão concessiva do mandado de segurança, resultarão comprometidos os valores sociais protegidos pela medida de contracautela (ordem, saúde, segurança e economia públicas). Pedido indeferido”. (SS nº 1.266, Rel. Min. CELSO DE MELLO, DJ de 7.4.1998).
+    É oportuno advertir, aliás, que a Fazenda Pública tem desde logo o ônus de provar, com base em todo o acervo documental de que dispõe, a existência concreta de risco de “grave lesão”.
+    Por fim, verifico que o pedido formulado guarda nítido cunho de recurso, quando a orientação desta Corte está em que a via da suspensão não é sucedâneo recursal (cf. SL nº 14, Rel. Min. MAURÍCIO CORRÊA, DJ de 3.10.2003; e SL nº 80, Rel. Min. NELSON JOBIM, DJ de 19.10.2005).
+    3. Ante o exposto, nego seguimento ao pedido (RISTF, art. 21, § 1º).
+    Publique-se. Int..
+    Brasília, 11 de outubro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
