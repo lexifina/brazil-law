@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, “a”, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Pará, cuja ementa possui o seguinte teor (fls. 70):
+    “Apelação Cível – Mandado de Segurança – Redução de proventos de aposentadoria – supressão da incidência de Gratificação de Escolaridade – Ilegalidade – Ofensa à Decisão do Tribunal de Contas do Estado do Pará – Apelação Conhecida e Improvida por Unanimidade.”
+    No recurso extraordinário, o estado do Pará alega ofensa ao disposto nos arts. 5º, II, XXXV e LV; 37, caput e XIV; 84, IV; e 93, IX, todos da Carta Magna, bem como ao art. 17 do ADCT.
+    Observo, de início, que inexiste a alegada ofensa aos arts. 5º, XXXV e LV, e 93, IX, porquanto o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+    A análise da apontada violação aos arts. 5º, II, e 37, caput, da Constituição demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, a Súmula 636 desta Corte.
+    Ademais, o Tribunal a quo decidiu a controvérsia acerca da incidência da Gratificação de Escolaridade sobre o cálculo da remuneração do cargo em comissão com base na legislação estadual (Lei 5.810/1994 - Regime Jurídico único dos Servidores do Estado do Pará), circunstância que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280 desta Corte. Em casos análogos ao presente, confiram-se: AI 492.199-AgR (Primeira Turma, rel. min. Cezar Peluso, DJ de 11.11.2005), AI 469.253-AgR (Primeira Turma, rel. min. Cármen Lúcia, DJe de 07.08.2009), RE 367.746 (rel. min. Ellen Gracie, DJ de 04.11.2005) e RE 446.945 (rel. min. Dias Toffoli, DJe de 07.05.2010).
+    Por fim, quanto à alegação do recorrente de observância ao princípio legalidade e possibilidade assegurada à Administração de anular seus próprios atos, este Supremo Tribunal Federal, apreciando o RE 594.296 (rel. min. Dias Toffoli), no qual fora reconhecida a repercussão geral da questão constitucional, assim decidiu:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento.” (grifei)
+    Desse entendimento, não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 11 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
