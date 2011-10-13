@@ -1,0 +1,27 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto contra decisão de inadmissibilidade de apelo extremo que impugna acórdão do Tribunal de Justiça do Estado de Roraima, assim ementado:
+    “APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA – POLICIAL CIVIL – ESCALA DE SERVIÇO – REGIME DE REVEZAMENTO EM ESCALA DE PLANTÃO – HORAS LABORADAS ALÉM DA JORNADA SEMANAL DE TRABALHO PREVISTA EM LEI – DEVIDO O PAGAMENTO DAS HORAS EXCEDIDAS – ADICIONAIS NOTURNOS – SÚMULA 213 DO STF – PROVA ACERCA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR – AUSÊNCIA - ÔNUS DA PROVA DA ADMINISTRAÇÃO PÚBLICA – ARTIGO 333, INCISO II, DO CPC – PRESCRIÇÃO QUINQUENAL – APELO PROVIDO EM PARTE – REFORMA PARCIAL DA SENTENÇA.
+    1. Os servidores públicos estaduais, inclusive o policial civil, que trabalham além das quarenta horas semanais determinadas na Lei 53/01, mesmo em escala de revezamento (24h por 72h de descanso) têm direito ao recebimento das horas extras.
+    2. Súmula 213 do STF: ‘É devido o adicional de serviço noturno, ainda que sujeito o empregado ao regime de revezamento’.
+    3. Comprovado o vínculo de trabalho entre o autor e o ente público e existindo nos autos provas suficientes do direito do autor, recai sobre a administração pública o ônus de comprovar que já efetuou o seu pagamento, a teor do que dispõe o artigo 333, inciso II, do CPCivil.
+    4. Súmula 85 do STJ: ‘Nas relações jurídicas de trato sucessivo em que a fazenda pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior a propositura da ação’.
+    5. Recurso provido em parte.”
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve violação aos artigos 7º, XIII, e 39, § 3º, do texto constitucional.
+    O recorrente consigna o seguinte:
+    “No caso sub examine, verifica-se que o trabalho realizado pelo apelado em horário noturno faz parte de sua jornada normal de trabalho, justamente pelo regime especial a que está obrigado, em razão da natureza dos serviços prestados pelos policiais civis, que abrange os dias úteis, finais de semana e feriados, nos turnos diurno e noturno”. (fl. 130)
+    Ademais, sustenta que seriam extraordinárias apenas as horas que ultrapassarem a carga horária de 200 horas mensais e não a de 160 horas como entendeu o tribunal.
+    Decido.
+    O recurso não merece prosperar.
+    No caso dos autos, discute-se a possibilidade de pagamento de horas extras e de adicional noturno a policiais civis, em virtude de sua jornada diferenciada de trabalho, estabelecida em lei estadual. Nesse sentido, o acórdão recorrido asseverou o seguinte:
+    “(...) o Estado de Roraima editou a Lei 055/2001, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Roraima, contudo ela nada fala a respeito da carga horária dos policiais civis.
+    De outro lado, a Lei 053/01, a qual dispõe sobre o regime jurídico dos servidores públicos civis estaduais, deve ser aplicada no vertente caso, considerando que o policial civil também é servidor público estadual e por haver disciplinar (sic) de forma geral a questão desta lide (...)” (fl. 105).
+    Verifico que o acórdão impugnado decidiu a controvérsia com base na legislação local (Leis 53/2001 e 55/2001) e entendeu serem extraordinárias as horas que excedam a jornada de 160 horas mensais e que é devido o adicional de trabalho noturno. Assim, para se concluir de maneira diversa, faz-se necessária a análise da referida legislação infraconstitucional, providência vedada em sede de recurso extraordinário, conforme disposto na Súmula 280 do STF.
+    Nesse sentido, cito os seguintes precedentes da Primeira Turma desta Corte, assim ementados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.068/1976, 2.148/1977 E 3.868/1977 E DECRETO 21.892/2003. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido”. (RE-AgR 606.516/SE, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.5.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PAGAMENTO DE HORAS EXTRAS. NECESSIDADE DO REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS: IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 607.714/SE, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.9.2010)
+     No tocante ao adicional noturno, ressalto que o Supremo Tribunal Federal já apreciou essa questão no julgamento do AI-RG 783.172, Rel. Min. Dias Toffoli, DJe 4.6.2010, oportunidade em que rejeitou a repercussão geral, tendo em vista que a natureza da matéria reveste-se de índole infraconstitucional.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de outubro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
