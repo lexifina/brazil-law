@@ -1,0 +1,6 @@
+Art. 3º-B. Verificada a existência de ocupações em áreas propícias à ocorrência de escorregamentos de grande impacto ou processos geológicos correlatos, o município adotará as providências para redução do risco, dentre as quais, a execução de plano de contingência e de obras de segurança e, quando necessário, a remoção de edificações e o reassentamento dos ocupantes em local seguro..
+§ 1º A efetivação da remoção somente se dará mediante a prévia observância dos seguintes procedimentos:
+I - realização de vistoria no local e elaboração de laudo técnico que demonstre os riscos da ocupação para a integridade física dos ocupantes ou de terceiros; e
+II - notificação da remoção aos ocupantes acompanhada de cópia do laudo técnico e, quando for o caso, de informações sobre as alternativas oferecidas pelo poder público para assegurar seu direito à moradia.
+§ 2º Na hipótese de remoção de edificações, deverão ser adotadas medidas que impeçam a reocupação da área.
+§ 3º Aqueles que tiverem suas moradias removidas deverão ser abrigados, quando necessário, e cadastrados pelo Município para garantia de atendimento habitacional em caráter definitivo, de acordo com os critérios dos programas públicos de habitação de interesse social.
