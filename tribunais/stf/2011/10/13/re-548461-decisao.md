@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão Tribunal de Justiça do Estado da Bahia. Acórdão assim ementado (fls. 483):
+    “AGRAVO REGIMENTAL – CUMPRIMENTO DE SENTENÇA MANDAMENTAL – SUBMISSÃO DE VALORES ATRASADOS AO REGIME DE PRECATÓRIO – IMPOSSIBILIDADE DE DEVOLUÇÃO DE IMPORTÂNCIAS JÁ PAGAS – NATUREZA ALIMENTAR DO CRÉDITO – BOA-FÉ DOS IMPETRANTES – IMPROVIMENTO DO RECURSO.
+    Inadmissível a tentativa de, por via oblíqua, mediante regimental, rediscutir matéria já decidida unanimemente pelo Plenário do Tribunal, irresignando-se contra decisão que consistiu apenas em esclarecer o acolhimento de regimental anteriormente manejado com o objetivo de viabilizar o cumprimento da segurança.”
+    2. Pois bem, a parte recorrente alega violação ao caput do art. 100 da Magna Carta de 1988. Insurge-se contra o reconhecimento da legitimidade dos pagamentos já efetuados pelo próprio Estado da Bahia à conta de um denominado “extravagante parcelamento informal dos créditos” (fls. 658). Aduz que o pagamento de tais valores devem ser submetidos à disciplina constitucional do precatório. Pede o reconhecimento do direito do ente público a perseguir, pelas vias próprias, o estorno dos valores já pagos à parte recorrida.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Edson Oliveira de Almeida, opina pelo “não provimento do recurso”.
+    4. Tenho que a pretensão não merece acolhida. De saída, consigno que o Supremo Tribunal Federal já firmou o entendimento no sentido de que o caráter alimentar do crédito contra a Fazenda Pública não dispensa o regime de precatório de que trata o art. 100 do Magno Texto (RE 334.279, da relatoria do ministro Sepúlveda Pertence).
+    5. Contudo, cabe ressaltar que, no caso dos autos, a segurança foi concedida para garantir aos impetrantes – professores aposentados – a incorporação aos seus proventos dos valores relativos a aulas suplementares ministradas. Na fase executória do julgado, os impetrantes peticionaram nos autos informando que a Administração, de maneira espontânea, havia efetuado o pagamento dos valores referente às parcelas atrasadas diretamente a cada um deles, ou seja, sem expedição de precatório.
+    6. De se ver, portanto, que foi o próprio Estado da Bahia quem não observou o art. 100 da Constituição Federal. E o fez por livre vontade, sem que houvesse determinação judicial para tanto.
+    7. Ora, tendo em vista que os servidores aposentados não concorreram para a equivocada sistemática adotada, recebendo de boa-fé os valores que lhes era devido, entendo que não é razoável determinar-se a repetição de tais valores e a realização de novo pagamento por meio do regime de precatório. Isso malferiria os princípios da boa-fé e da segurança jurídica, e penalizaria a quem não deu causa ao erro sob exame.
+    8. À derradeira, incide no caso a Súmula 279/STF.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de outubro de 2011.
+Ministro AYRES BRITTO
+Relator
