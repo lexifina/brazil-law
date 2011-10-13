@@ -1,0 +1,2 @@
+Art. 1º O aviso prévio, de que trata o Capítulo VI do Título IV da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, será concedido na proporção de 30 (trinta) dias aos empregados que contem até 1 (um) ano de serviço na mesma empresa.
+Parágrafo único. Ao aviso prévio previsto neste artigo serão acrescidos 3 (três) dias por ano de serviço prestado na mesma empresa, até o máximo de 60 (sessenta) dias, perfazendo um total de até 90 (noventa) dias.
