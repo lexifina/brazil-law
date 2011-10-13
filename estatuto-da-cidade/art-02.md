@@ -12,6 +12,7 @@ d) a instalação de empreendimentos ou atividades que possam funcionar como pó
 e) a retenção especulativa de imóvel urbano, que resulte na sua subutilização ou não utilização;
 f) a deterioração das áreas urbanizadas;
 g) a poluição e a degradação ambiental;
+h) a exposição da população a riscos de desastres naturais;.
 VII - integração e complementaridade entre as atividades urbanas e rurais, tendo em vista o desenvolvimento socioeconômico do Município e do território sob sua área de influência;
 VIII - adoção de padrões de produção e consumo de bens e serviços e de expansão urbana compatíveis com os limites da sustentabilidade ambiental, social e econômica do Município e do território sob sua área de influência;
 IX - justa distribuição dos benefícios e ônus decorrentes do processo de urbanização;

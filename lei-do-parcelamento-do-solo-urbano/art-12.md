@@ -1,2 +1,3 @@
 Art. 12. O projeto de loteamento e desmembramento deverá ser aprovado pela Prefeitura Municipal, ou pelo Distrito Federal quando for o caso, a quem compete também a fixação das diretrizes a que aludem os arts. 6º e 7º desta Lei, salvo a exceção prevista no artigo seguinte.
-Parágrafo único. O projeto aprovado deverá ser executado no prazo constante do cronograma de execução, sob pena de caducidade da aprovação.
+§ 1º O projeto aprovado deverá ser executado no prazo constante do cronograma de execução, sob pena de caducidade da aprovação.
+§ 2º § 2º Nos municípios inseridos no cadastro nacional de que trata o art. 3º-A da Lei nº 12.340, de 2010, a aprovação do projeto de que trata o caput ficará vinculada ao atendimento dos requisitos constantes da carta geotécnica de aptidão à urbanização prevista no inciso V do § 2º do referido dispositivo.
