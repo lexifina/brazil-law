@@ -1,0 +1,26 @@
+Decisão: Trata-se de ação direta de inconstitucionalidade, com pedido de medida liminar, ajuizada pelo procurador-geral da República, atendendo a solicitação da Procuradoria Geral de Justiça de Goiás, contra a Lei 13.137/1997 e a Lei 13.416/1998, ambas do Estado de Goiás, que criaram o Município de Ipiranga de Goiás.
+    O requerente alega ofensa ao disposto no art. 18, § 4º, da Constituição Federal, afirmando que essa é norma constitucional de eficácia jurídica limitada, razão por que, enquanto não for promulgada a legislação complementar que lhe complete a eficácia e lhe dê efetiva aplicação, está constitucionalmente proibida qualquer alteração e criação de municípios.
+    Requereu o deferimento da medida liminar para suspender as normas atacadas e, no mérito, a declaração de inconstitucionalidade das referidas leis estaduais.
+    Adotei o rito do art. 12 da lei 9.868/1999.
+    Em suas informações, a fls. 360-367, a Assembléia Legislativa sustenta que a Lei federal 10.521/2002 assegura a instalação dos municípios cujo processo de criação tenha sido iniciado antes da promulgação da Emenda Constitucional 15/96, desde que cumpridos os requisitos da legislação anterior e que tenha sido realizado o plebiscito. Afirma que o processo legislativo de criação do Município de Ipiranga de Goiás teve início em 1993 e transcorreu regularmente, tendo sido preenchidos todos os requisitos legais referentes à criação de municípios, em especial com a realização de plebiscito na área territorial emancipada (fls. 363).
+    Afirma, ainda, que a lei 13.416/1998 apenas alterou a lei 13.137/1997 para retificar a natureza jurídica da localidade emancipada e sua denominação, bem como para fixar o percentual da parcela de ICMS devida ao novo município.
+    O Advogado-Geral da União, a fls. 505-511, assevera que o Supremo Tribunal Federal tem entendido ser a existência da lei complementar referida no artigo 18, § 4º, da Constituição Federal requisito indispensável para a criação, incorporação, fusão e desmembramento de municípios.
+    O procurador-geral da República, em seu parecer a fls. 513-516, ratifica os termos da inicial por ele proposta e manifesta-se pela procedência do pedido.
+    É o breve relato.
+    Decido.
+    Com o advento da Emenda Constitucional 57/2008, esta ação direta de inconstitucionalidade perdeu seu objeto.
+    De fato, a referida emenda constitucional acrescentou ao Ato das Disposições Constitucionais Transitórias – ADCT o art. 96, cuja redação é a seguinte:
+     Art. 96. Ficam convalidados os atos de criação, fusão, incorporação e desmembramento de Municípios, cuja lei tenha sido publicada até 31 de dezembro de 2006, atendidos os requisitos estabelecidos na legislação do respectivo Estado à época de sua criação.
+    No presente caso, as leis ora atacadas foram publicadas em 25 de julho de 1997 e 12 de janeiro 1999, respectivamente.
+    No Estado de Goiás, a emancipação e a criação de Municípios estavam sujeitas ao atendimento dos requisitos previstos na Lei Complementar Estadual nº 04, de 21 de julho de 1990. Segundo os documentos anexados aos autos, as leis ora atacadas foram elaboradas de acordo com os requisitos previstos na referida lei complementar estadual.
+    Dessa forma, as leis ora atacadas se enquadram na convalidação promovida pela Emenda Constitucional 57/2008.
+    Nesse sentido, decidiu o Plenário desta Corte, no julgamento da ADI 2.381-AgR, Min. Cármen Lúcia, DJe 08.04.2011:
+    EMENTA: AGRAVO REGIMENTAL NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CRIAÇÃO DO MUNICÍPIO DE PINTO BANDEIRA/RS. AÇÃO JULGADA PREJUDICADA PELA EDIÇÃO SUPERVENIENTE DA EMENDA CONSTITUCIONAL N. 57/2008. ALEGAÇÃO DE CONTRARIEDADE À EMENDA CONSTITUCIONAL N. 15/1996 E DEFINIÇÃO DA SITUAÇÃO JURÍDICA POR MEIO DA DECISÃO CAUTELAR. IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Nos termos do art. 317, § 4º, do Regimento Interno do Supremo Tribunal Federal, o agravo regimental não tem efeito suspensivo. 2. A Lei n. 11.375/1999 do Rio Grande do Sul é ato normativo existente e autônomo, pelo que pode ser objeto de ação direta de inconstitucionalidade. 3. Decisões cautelares têm caráter precário e provisório, necessariamente substituídas por decisões finais definitivas. 4. Com o advento da Emenda Constitucional n. 57/2008, foram convalidados os atos de criação de Municípios cuja lei tenha sido publicada até 31.12.2006, atendidos os requisitos na legislação do respectivo estado à época de sua criação. 5. A Lei n. 11.375/1999 foi publicada nos termos do art. 9º da Constituição do Estado do Rio Grande do Sul, alterado pela Emenda Constitucional n. 20/1997, pelo que a criação do Município de Pinto Bandeira foi convalidada. 6. Agravo regimental ao qual se nega provimento.
+    Na mesma linha de entendimento, as seguintes decisões monocráticas: ADI 3.699, rel. min. Ricardo Lewandowski; ADI 3.524, rel. min. Dias Toffoli; ADI 3.097, rel. min. Marco Aurélio.
+    Do exposto, com fundamento no art. 21, IX do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o pedido, por perda superveniente de seu objeto. Fica prejudicada a análise do pedido de medida liminar.
+    Publique-se.
+    Arquive-se.
+    Brasília, 14 de outubro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
