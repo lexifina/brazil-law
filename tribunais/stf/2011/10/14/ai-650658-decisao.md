@@ -1,0 +1,9 @@
+AGRAVO DE INSTRUMENTO. ART. 544 DO CPC. SERVIDOR ESTADUAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI ESTADUAL Nº 4.819/58 E LEI COMPLEMENTAR ESTADUAL Nº 200/74. MATÉRIA CUJA SOLUÇÃO ENCONTRA-SE EM INTERPRETAÇÃO DE DIREITO LOCAL. REPERCUSSÃO GERAL REJEITADA. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: A controvérsia tratada nos autos já foi apreciada no RE 585.392 – RG, da relatoria da Min. Ellen Gracie, Dje de 17.12.2009, em que o Plenário desta Corte decidiu rejeitar sua repercussão geral, uma vez que a matéria está restrita a análise de norma infraconstitucional local. O referido recurso está assim ementado:
+    “SERVIDOR ESTADUAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI ESTADUAL 4.819/58 E LEI COMPLEMENTAR ESTADUAL 200/74. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 585392 RG, Relator(a): Min. ELLEN GRACIE, julgado em 05/11/2009, DJe-237 DIVULG 17-12-2009 PUBLIC 18-12-2009 EMENT VOL-02387-10 PP-01758 )”
+    Ex positis, NÃO CONHEÇO do agravo de instrumento.
+    Publique-se. Int..
+    Brasília, 14 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
