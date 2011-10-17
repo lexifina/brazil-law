@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Banco Volkswagen S/A interpõe agravo de instrumento contra a decisão (fls. 248 a 254) que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos II, LXVII e 192 §º 3, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Terceira Turma Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DEPÓSITO – PRISÃO CIVIL – DEPOSITÁRIO INFIEL – IMPOSSIBILIDADE – LIMITAÇÃO DE JUROS REMUNERATÓRIOS EM 12% AO ANO – INCIDÊNCIA DO DECRETO 22.626/33 – CAPITALIZAÇÃO MENSAL DE JUROS – PRÁTICA ILEGAL – ANATOCISMO – SÚMULA 121 DO STF – CRIME DE USURA – COMISSÃO DE PERMANÊNCIA – NÃO INCIDÊNCIA – HONORÁRIOS ADVOCATÍCIOS – MANTIDOS – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+    Deve ser afastada a aplicação da pena de prisão civil, por não ser cabível no instituto da alienação fiduciária.
+    Em que pese a revogação do art. 192, § 3º, da Constituição Federal, prevalece o entendimento de que é ilegal a cobrança de juros remuneratórios superiores a 12% ao ano.
+    A CF não recepcionou o art. 4º da lei 4.595/64, que dava ao Conselho Monetário Nacional a competência para fixar a taxa de juros, devendo ser aplicadas as regras do Decreto nº 22.626/33, que ainda se encontra em vigor.
+    A capitalização mensal de juros, denominada anatocismo, é prática vedada pelo nosso ordenamento jurídico, tanto que o STF editou a Súmula 121, que estabelece ser vedado a capitalização de juros.
+    Segundo entendimento dominante, a capitalização de juros só é admissível quando legislação especial a autorizar, como é o caso do Decreto Lei n. 167/67 (art. 5º), do Decreto-Lei n. 413/69 (art. 5º c/c 14, VI) e da Lei n.º 6.840/80 (art. 5º). Fora dessas hipóteses, vigora a regra da capitalização anual (Decreto n. 22.626/33).
+    É inaplicável a comissão de permanência aos contratos bancários, quer seja cumulada ou não com a correção monetária e juros.
+    Se a parte decaiu de parte mínima do pedido, deve responder pelos honorários advocatícios” (fl. 189).
+    O agravante, nas razões do extraordinário, alega afronta aos dispositivos constitucionais suso mencionados, pois o Tribunal de origem “entendeu não ser aplicável ao contrato de alienação fiduciária, o instituto da ação de depósito, bem como a prisão civil capitulada pela Constituição Federal e, fixou a taxa de juros no patamar de 12% ao ano, sob o argumento de que a norma do art. 192, § 3º da CF/88 é auto-aplicável e que às operações realizadas por instituições financeiras se aplica a Lei de Usura” (fl. 211).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 27/9/05, conforme expresso na certidão de folha 191, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar.
+    No que se refere à suposta ofensa ao artigo 5º, incisos II e LXVII, da Carta da República, este Tribunal reconheceu, no exame do RE nº 562.051/MT, de relatoria do Ministro Cezar Peluso, a existência de repercussão geral quanto à discussão acerca da legitimidade da prisão civil de depositário infiel devedor de contrato garantido por alienação fiduciária e, também, de depositário judicial infiel, frente ao status normativo supralegal dos tratados internacionais de direitos humanos subscritos pelo Brasil. Esse julgado ficou assim ementado:
+    “Recurso. Extraordinário. Prisão civil. Inadmissibilidade reconhecida pelo acórdão impugnado. Depositário infiel. Questão da constitucionalidade das normas infraconstitucionais que prevêem a prisão. Relevância. Repercussão geral reconhecida. Apresenta repercussão geral o recurso extraordinário que verse sobre a questão de constitucionalidade das normas que dispõem sobre a prisão civil de depositário infiel” (DJe de 12/9/08).
+    Na sessão Plenária de 3/12/08, ao apreciar conjuntamente o mérito dos Recursos Extraordinários nsº 349.703/RS, Relator o Ministro Ayres Britto, e 466.343/SP, Relator o Ministro Cezar Peluso, e do Habeas Corpus nº 87.585/TO, Relator o Ministro Marco Aurélio, esta Corte reconheceu a impossibilidade da prisão civil de depositário infiel devedor de contrato garantido por alienação fiduciária. No ponto, entendeu-se que a circunstância de o Brasil haver subscrito o Pacto de São José da Costa Rica, que restringe a prisão civil por dívida ao descumprimento inescusável de prestação alimentícia, e com a introdução do aludido Pacto no ordenamento jurídico nacional, restaram derrogadas as normas estritamente legais definidoras da custódia do depositário infiel.
+    Esse posicionamento restou consolidado com a edição da Súmula Vinculante nº 25, que assim dispõe:
+    “É ilícita a prisão civil de depositário infiel, qualquer que seja a modalidade do depósito.”
+    O acórdão recorrido não se afastou dessa orientação, por consequência a pretensão da parte agravante, neste ponto, não merece ser acolhida.
+    De outra feita, no tocante à limitação dos juros, melhor sorte tampouco socorre o ora agravante, uma vez que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do AI nº 844.474/MS, Relator o Ministro Presidente, concluiu pela ausência da repercussão geral da matéria referente à possibilidade de aplicação aos contratos bancários do artigo 1º da Lei de Usura, que limita a taxa de juros em 12% ao ano, em virtude da natureza infraconstitucional da discussão. Da manifestação do Relator, destacam-se os seguintes fundamentos:
+    “(...)
+    A questão da possibilidade, ou não, de se aplicar aos contratos bancários o art. 1º da Lei de Usura, que limita a taxa de juros a 12% ao ano, não alcança relevo constitucional.
+    Verifica-se que o acórdão impugnado decidiu a causa com base em interpretação e aplicação de legislação infraconstitucional, especificamente o Decreto 22.626/33 (Lei de Usura) e a Lei 8.078/1990 (Código de Defesa do Consumidor), de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    Neste sentido há decisões nesta Corte, confiram-se: AI 574599 AgR / RS, Rel. Min. CEZAR PELUSO, DJ de 13/10/2006; AI 642056 AgR / RS, Rel. Min. ELLEN GRACIE, DJe 21/6/2010; AI 617814 AgR / GO, Rel. Min. CÁRMEN LÚCIA, DJ de 19/12/2008; AI 821596 / MS, Rel. Min. CÁRMEN LÚCIA, DJe 10/5/2011” (DJe de 1º/9/11).
+    Com essas considerações, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 17 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
