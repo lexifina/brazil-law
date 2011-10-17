@@ -1,0 +1,19 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EX-POLICIAL MILITAR DO ANTIGO DISTRITO FEDERAL. EQUIPARAÇÃO AOS MILITARES FEDERAIS. INAPLICABILIDADE DA LEI 5.959/73, UMA VEZ QUE O ORA AGRAVADO INATIVOU-SE EM 1958. MATÉRIA INFRACONSTITUCIONAL.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 518.862, Rel. Min. Joaquim Barbosa, DJe de 06.09.2010; AI 738.384, Rel. Marco Aurélio, DJe de 15.05.2010; RE 433.016, Rel. Min. Ayres Britto, DJe de 24.11.2009; RE 503.525, Rel. Min. Ellen Gracie, DJe de 18.06.2009.
+2. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de Agravo de Instrumento contra decisão que inadmitiu recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF, em oposição a acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 82):
+    “ADMINISTRATIVO. SERVIDORES MILITARES DO ANTIGO DISTRITO FEDERAL. EQUIPARAÇÃO AOS MILITARES FEDERAIS. PRESCRIÇÃO DO PRÓPRIO FUNDO DO DIREITO. LEI Nº 5.959/73. 1. Com o advento da Lei nº 5.959, de 10 de dezembro de 1973, caracterizando a lesão do direito dos servidores, diante da transferência, para o âmbito estadual, da fixação e do reajuste dos vencimentos dos integrantes da Polícia Militar e do Corpo de Bombeiros do antigo Distrito Federal, inicia-se o prazo prescricional para pleitear o E. TRF 2ª Região. 2. Ajuizada a presente ação em 13 de maio de 1998 – quase vinte anos após o decurso do lapso prescricional – forçoso reconhecer a preliminar suscitada pelo apelante. 3. Remessa Necessária e Apelações providas. Prejudicado o agravo retido da União Federal e o requerimento de expedição de ofício do apelado.”
+    Opostos embargos de declaração, esses foram providos, com efeitos infringentes, para afastar a prescrição de fundo de direito em conformidade com a legislação de regência quando da inativação do ora agravado, além de reconhecer a ilegitimidade passiva do ESTADO DO RIO DE JANEIRO.
+    No recurso extraordinário a UNIÃO alegou violação ao art. 5º, XXXVI, da CF, além do art. 153, § 3º, da EC nº 1/69.
+    O apelo extremo teve o seu seguimento obstado na origem sob o fundamento de que a matéria objeto do recurso está adstrita a interpretação de normas infraconstitucionais.
+    É o relatório. DECIDO.
+    Preliminarmente, a intimação do acórdão recorrido ocorreu em 05.06.2006, logo, a agravante está desobrigada da apresentação da preliminar formal e fundamentada da repercussão do caso, conforme decisão do Plenário desta Corte quando do julgamento da QO-AI 664.567, da Relatoria do Ministro Sepúlveda Pertence, DJ de 06/09/07, proferida nos seguintes temos:
+    “a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007 ” (grifo nosso).
+    Sem razão a agravante.
+    A controvérsia posta nos autos foi decidida exclusivamente com amparo na legislação infraconstitucional de regência. A violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerram violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 518.862, Rel. Min. Joaquim Barbosa, DJe de 06.09.2010; AI 738.384, Rel. Marco Aurélio, DJe de 15.05.2010; RE 433.016, Rel. Min. Ayres Britto, DJe de 24.11.2009; RE 503.525, Rel. Min. Ellen Gracie, DJe de 18.06.2009, entre outros.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se.
+    Brasília, 17 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
