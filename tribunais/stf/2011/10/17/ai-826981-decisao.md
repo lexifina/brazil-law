@@ -1,0 +1,11 @@
+DECISÃO: Compulsando os autos, verifico que na decisão de fls. 242 determinei o sobrestamento dos autos à Secretaria, por entender que o tema do recurso tem pertinência com a controvérsia das ADC 16 e RE 603.397. Entretanto, melhor análise dos autos revela a possibilidade de julgamento da causa, razão pela qual reconsidero a referida decisão.
+    Passo ao exame do recurso extraordinário.
+    O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+    Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+    No presente caso, o recurso extraordinário trata sobre tema em que a repercussão geral já foi reconhecida pelo Supremo Tribunal Federal no julgamento do RE 635.546-RG (rel. min. Marco Aurélio, DJe de 04.05.2011 – tema 383), cuja ementa transcrevo:
+    “ISONOMIA - PRESTAÇÃO DE SERVIÇO TERCEIRIZADO - EMPREGADOS DO QUADRO FUNCIONAL DA TOMADORA - ADMISSIBILIDADE DO TRATAMENTO IGUALITÁRIO NA ORIGEM - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO GERAL CONFIGURADA. Possui repercussão geral a controvérsia acerca da possibilidade de se reconhecer aos empregados terceirizados os mesmos direitos conferidos aos trabalhadores contratados pela tomadora dos serviços e vinculados à Administração Pública, a teor do princípio da isonomia e da proibição preceituada no artigo 7º, inciso XXXII, da Carta Maior, no que tange à distinção laborativa.”
+    Do exposto, dou provimento ao presente agravo de instrumento para admitir o recurso extraordinário, e, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 17 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
