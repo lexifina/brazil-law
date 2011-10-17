@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de são Paulo.
+    É firme a orientação do Supremo Tribunal Federal no sentido de que constitui ônus da parte agravante infirmar todos os fundamentos em que se baseou a decisão agravada para negar seguimento ao recurso extraordinário. Confira-se, a título exemplificativo, os seguintes julgados:
+    “Agravo regimental em agravo de instrumento. 2. Matéria criminal. Recurso especial. STJ. Pena-base acima do mínimo legal. Art. 59 do CP. Competência da Corte Superior. 3. Ofensa reflexa à CF/88 e ausência de prequestionamento da matéria constitucional (art. 5º, inc. LV). 3. Fundamento inatacado. Art. 317, § 1º, do RISTF. 4. Agravo regimental a que se nega provimento.” (AI 417.058, rel. min. Gilmar Mendes, DJ de 04.04.2003)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO MONOCRÁTICA. Inviável o agravo regimental quando não são atacados, de forma convincente, cada um dos fundamentos da decisão que obsta o processamento do recurso (art. 317, § 1º, RI/STF).” (AI 540.250, rel. min. Ellen Gracie, DJ de 31.03.2006)
+    No mesmo sentido, os seguintes precedentes: AI 488.369 (rel. min. Sepúlveda Pertence, DJ de 02.04.2004), AI 488.975 (rel. min. Gilmar Mendes, DJ de 31.05.2004), AI 482.984 (rel. min. Cezar Peluso, DJ de 20.05.2004) e AI 503.582 (rel. min. Nelson Jobim, DJ de 25.05.2004).
+    No presente recurso, o agravante não impugnou a assertiva de que falta ao recurso extraordinário a preliminar formal de repercussão geral. Disso decorre que o agravante não logrou desincumbir-se do ônus que lhe cabia, conforme exigência do art. 317, § 1º, do RISTF.
+    Ademais, a decisão agravada está de acordo com o entendimento desta Corte, pois o Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.” (DJ de 06.09.2007).
+    Verifico que a publicação da decisão impugnada deu-se em 09.11.2010 (fls. 260) e a interposição do recurso extraordinário não se fez acompanhar da devida demonstração, nas razões recursais, da existência de repercussão geral, o que inviabiliza o apelo extraordinário.
+    Por fim, o recurso extraordinário não pode ser conhecido, pois o recorrente em momento algum sustenta, em suas razões, uma suposta ofensa a dispositivo da Constituição, não sendo possível aferir o que busca com o presente recurso constitucional. Impõe-se, assim, a aplicação da Súmula 284 do Supremo Tribunal Federal, in verbis:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Do exposto, nego seguimento ao agravo (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º e art. 327, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 17 de outubro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
