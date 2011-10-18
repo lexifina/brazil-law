@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS - IBAMA com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 18):
+PROCESSUAL CIVIL  EXECUÇÃO FISCAL EM VARA ESTADUAL  PAGAMENTO DE POSTAGEM DE CARTA DE CITAÇÃO  CUSTAS  AGRAVO DE INSTRUMENTO NÃO PROVIDO.
+1 - A partir da CF/88 a isenção de custas dos entes federais na Justiça Estadual depende de lei própria. A isenção de custas a tais entes somente tem aplicação na Justiça Federal.
+2 - Se a autarquia federal não possui instrumento que garanta o pagamento das despesas necessárias à citação do executado na Justiça Estadual, é exigível o prévio recolhimento desses gastos em face do Aviso n. 40 da CGTJMG que adotou entendimento de que necessário o prévio recolhimento dos "gastos relativos à citação postal, por se tratar de despesas processuais".
+3 - Agravo de instrumento não provido.
+4 - Peças liberadas pelo Relator, em Brasília, 18 de outubro de 2011., para publicação do acórdão.
+A parte recorrente aponta violação aos arts. 8º, I e 39 da Lei nº 6.830/80. Sustenta, em síntese, que "as despesas processuais - sobretudo a que destina à citação do executado - não são devidas por parte da União e suas Autarquias, à exceção das despesas sucumbenciais, o que não é o caso dos autos. Assim, tendo em vista que no processo de execução fiscal o exequente não requereu que a citação fosse feita de forma diversa daquela estabelecida na legislação, conclui-se pela ilegalidade da exigência do pagamento da verba destinada ao serviço de postagem." (fl. 25)
+É o relatório.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Feita essa observação, verifica-se que a matéria pertinente aos arts. 8º, I e 39 da Lei nº 6.830/80 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
