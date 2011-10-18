@@ -1,0 +1,32 @@
+Decisão: 1. Trata-se de pedido de suspensão de segurança, ajuizado pelo Estado do Amazonas, com a finalidade de sustar a execução de acórdãos proferidos pelo Tribunal de Justiça do Estado do Amazonas, nos autos dos Mandados de Segurança nº 2010.001697-0 e nº 2009.000228-3.
+    Na origem, José Barbosa de Souza Filho, Fernando Barbosa Viana e Mauro Mendes de Mello impetraram mandados de segurança, com o objetivo de incorporar, às suas remunerações, vantagem pessoal denominada “adicional por tempo de serviço”, nos termos do art. 210 da Lei estadual nº 2.271/94, bem como garantir a inclusão da Gratificação de Exercício de Atividade Policial, no cálculo do Adicional por Tempo de Serviço.
+    Os acórdãos impugnados possuem as seguintes ementas:
+    “ADMINISTRATIVO – POLÍCIA CIVIL – ADICIONAL POR TEMPO DE SERVIÇO – PRELIMINAR DE ILEGITIMIDADE PASSIVA AD CAUSAM – REJEITADA – RELAÇÃO DE TRATO SUCESSIVO – DECADÊNCIA – INOCORRÊNCIA. BASE DE CÁLCULO – VENCIMENTO BASE ACRESCIDO DA GRATIFICAÇÃO DE EXERCÍCIO DE ATIVIDADE POLICIAL.
+    - Em se tratando de atualização da vantagem pessoal denominada ‘quintos’ de servidor ativo, resta comprovada a competência do Secretário de Estado de Administração, motivo por que rejeito a preliminar suscitada de ilegitimidade passiva ad causam.
+    - Não se opera decadência no prazo previsto no art. 18 da Lei n. 1533/51, quando se trata de ato omisso, referente ao pagamento de vantagem pecuniária de servidor público cuja lesão se renova mês a mês.
+    - A base de cálculo do adicional por tempo de serviço recebido pelos servidores da Polícia Civil do Estado do Amazonas é o do art. 210 da Lei n. 2.531/99 e não o do art. 94 da Lei nº 1.726/86. Portanto, havendo majoração nos vencimentos do servidor, o adicional por tempo de serviço também deve ser alterado.
+    - No cálculo do Adicional por Tempo de Serviço deve ser abrangido a Gratificação de Exercício de Atividade Policial.
+    Mandado de segurança conhecido e provido” (MS nº 2010.001697-0).
+    “MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. ADICIONAL DE GRATIFICAÇÃO DE CARGO OU FUNÇÃO DE CONFIANÇA. DIREITO ADQUIRIDO PRESTAÇÃO DE TRATO SUCESSIVO.
+    - Rejeição das preliminares de impossibilidade jurídica do pedido e ilegitimidade da parte.
+    - A alegada decadência não se aplica, uma vez que, em se tratando de ato omissivo continuado, que envolve obrigação de trato sucessivo, o prazo para ajuizamento da ação mandamental se renova mês a mês, não há falar em decadência do direito da impetração;
+    - Também há de ser rechaçada a alegada ocorrência de prescrição, uma vez que inocorrente, visto que inexiste lei, no âmbito estadual, prevendo prazo prescricional para que a Administração Pública revise seus atos eivados de ilegalidades;
+    - Diante das provas carreadas aos autos antevejo que a própria Administração reconheceu o direito do impetrante à percepção do quinquênio, consoante documentação acostada à exordial;
+    - Precedentes desta Corte.
+    Segurança concedida, em consonância com o parecer ministerial” (MS nº 2009.000228-3).
+    No presente pedido de suspensão de segurança, alega o requerente, em síntese, a ocorrência de grave lesão à ordem e à economia públicas e potencial efeito multiplicador. Sustenta ameaça às finanças do Estado, além de manifesta contrariedade à ordem constitucional.
+    2. É caso de suspensão.
+    De acordo com o regime legal de contracautela (Leis nº 12.016/09, nº 8.437/92, nº 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. CARLOS VELLOSO, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 21.10.2003 e; SS nº 2.465, Rel. Min. NELSON JOBIM, DJ de 20.10.2004).
+    Está preenchido o requisito, pois em jogo, aqui, suposta violação aos arts. 5º, XXXVI, e 37, XIII e XIV, da Constituição da República, que teria sido afrontado pelo Tribunal de Justiça local ao atualizar a vantagem pleiteada. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+    A interpretação sistemática da Lei nº 12.016, de 7 de agosto de 2009, não deixa dúvida da inaplicabilidade de execução provisória de decisão judicial em mandado de segurança que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamento de qualquer natureza (cfr. § 2° do art. 7° c/c o § 3.° do art. 14). Em outras palavras, as decisões concessivas de segurança com tais objetos somente podem ser executadas após o trânsito em julgado.
+    No mesmo sentido, aliás, é o parecer do Procurador-Geral da República, Roberto Monteiro Gurgel dos Santos:
+    “(...) Ficou demonstrada a possibilidade de grave lesão à ordem pública, na acepção de ordem jurídico-constitucional, uma vez que as decisões questionadas constituem afronta ao estabelecido pela Lei nº 12.016/2009, no sentido da impossibilidade de execução provisória de decisão em mandado de segurança que tenha por objeto a compensação de créditos tributários, a entrega de mercadorias e bens provenientes do exterior, a reclassificação ou equiparação de servidores públicos e a concessão de aumento ou a extensão de vantagens ou pagamentos de qualquer natureza, sendo certo que as decisões concessivas de segurança com tais objetos somente podem ser executadas após o trânsito em julgado do writ (...)”.
+    Há, ademais, a probabilidade de concretização do denominado efeito multiplicador (SS nº 1.836-AgR/RJ, Ministro CARLOS VELLOSO, Plenário, DJ de 11.10.2001), à vista da possibilidade de aumento de demandas semelhantes.
+    3. Ante o exposto, defiro o pedido, para suspender os efeitos dos acórdãos proferidos pelo TJAM, nos autos dos Mandados de Segurança nº 2010.001697-0 e nº 2009.000228-3, até o trânsito em julgado ou ulterior deliberação desta Corte.
+    Exp. com urgência telex e ofício ao Tribunal de Justiça do Estado.
+    Publique-se. Int..
+    Brasília, 18 de outubro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
