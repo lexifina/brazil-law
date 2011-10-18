@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Estado do Ceará interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Ceará, assim ementado:
+    “Recurso de Apelação em Mandado de Segurança – Proventos – Art. 40 § 4°, Constituição Federal.
+    - O escopo da regra constitucional garantidora da integralidade das aposentadorias e pensões é o de preservar, em favor do aposentado ou do pensionista, tudo aquilo que não for de natureza extraordinária. É dizer, as vantagens inerentes ao cargo, ainda que compensem despesas ou desgastes decorrentes do seu exercício hão de ser mantidas integralmente no recesso do servidor ou como pensão aos seus sucessores.
+    - A superveniência de lei nova não pode prejudicar situações definitivamente constituídas, que se mantém preservadas como direito adquirido, mercê das garantias constitucionais.
+    - Recurso improvido” (fl. 116).
+    Opostos embargos de declaração (fls. 120/121), foram rejeitados (fls. 127 a 129).
+    Alega o recorrente violação dos artigos 37, inciso XIV, 40, parágrafo 8°, e 42, parágrafo 2°, da Constituição Federal e 17 do ADCT.
+    Apresentadas as contrarrazões (168 a 174), o recurso extraordinário (fls. 142 a 152) foi admitido (fls. 188 a 192).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fl. 194), negou seguimento ao recurso especial interposto simultaneamente ao extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 13/6/05, conforme expresso na certidão de folha 125, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Merece prosperar a irresignação.
+    O entendimento desta Corte, firmado no no julgamento do RE nº 288.304/CE-AgR, Plenário, Relator o Ministro Ilmar Galvão, DJ de 11/10/01, é no sentido de que a Lei estadual nº 11.167/86, ao instituir o adicional de inatividade, baseado em tempo de serviço - fator que já servia de fundamento para a “gratificação por tempo de serviço” -, ofende a norma do inciso XIV do art. 37 da CF/88, em sua redação original, combinado com o art. 17 do ADCT, dispositivos que não deixaram espaço para alegação de direito adquirido.
+    Seguindo essa orientação, anote-se as seguintes decisões:
+    “AGRAVO REGIMENTAL. POLICIAIS MILITARES. ADICIONAL DE INATIVIDADE INSTITUÍDO PELA LEI 11.167/1986, DO ESTADO DO CEARÁ. GRATIFICAÇÃO POR TEMPO DE SERVIÇO. ART. 37, XIV, DA CONSTITUIÇÃO (redação original). PRECEDENTE DO PLENÁRIO: RE 288.304. O art. 557, § 1º-A, do CPC, autoriza o Relator a dar provimento ao recurso se a decisão recorrida estiver em manifesto confronto com Súmula ou com jurisprudência dominante da Corte. A decisão agravada está em conformidade com a orientação firmada no Tribunal, no sentido de afastar a incidência sucessiva de adicionais de idêntico título ou igual fundamento, nos termos do disposto no art. 37, XIV, da Constituição (em sua redação original). Agravo regimental a que se nega provimento” (RE n° 449.583/CE-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJe de 16/5/11);
+    “CONSTITUCIONAL E ADMINISTRATIVO. LEI 11.167/86 DO ESTADO DO CEARÁ. ADICIONAL DE INATIVIDADE. 1. Afastamento da incidência recíproca de adicionais de igual título ou idêntico fundamento, nos termos do art. 37, XIV, da Constituição Federal, em obediência ao precedente do Plenário: RE 288.304/CE. 2. Agravo regimental improvido” (RE nº 449.671/CE-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 23/4/09);
+    “Policiais militares. Indenização adicional de inatividade. - O Plenário desta Corte, ao julgar o RE 288.304, assim decidiu: 'ESTADO DO CEARÁ. POLICIAIS MILITARES. INDENIZAÇÃO ADICIONAL DE INATIVIDADE INSTITUÍDA PELA LEI Nº 11.167/86. PARÁGRAFO 5º DO ARTIGO 154 DA CONSTITUIÇÃO ESTADUAL (INTRODUZIDO PELA EC/21/95). Diploma legal que, além de instituir vantagem funcional sobre tempo de serviço, fator que já era considerado para a concessão da denominada 'gratificação por tempo de serviço', mandou incluir esta na base de cálculo daquela, revelando-se ofensivo ao inciso XIV do art. 37 da CF, em sua redação original. Recurso conhecido e provido'. - Dessa orientação, que afastou também a alegação de ofensa ao artigo 5º, XXXVI, da Constituição, divergiu o acórdão recorrido. Recurso extraordinário conhecido e provido” (RE nº 265.733/CE, Primeira Turma, Relator o Ministro Moreira Alves, DJ de 19/12/01).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 362.216/CE, Relator o Ministro Joaquim Barbosa, DJe de 4/11/09; RE nº 451.949/CE, Relator o Ministro Cezar Peluso, DJe de 5/8/09; e RE nº 601.754/CE, Relatora a Ministra Cármen Lúcia, DJe de 17/9/09.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+    Publique-se.
+    Brasília, 18 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
