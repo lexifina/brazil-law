@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA. BENS OFERECIDOS À PENHORA. TÍTULOS DA DÍVIDA PÚBLICA. PRESCRIÇÃO. IMPRESTABILIDADE DOS TÍTULOS. ALEGAÇÃO DE AFRONTA AOS ARTS. 5º, XXXV, LIV E LV, E 93, IX, DA CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes.
+3. Agravo a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto por COOPERATIVA AGROINDUSTRIAL ALEGRETE, contra decisão que não admitiu seu recurso extraordinário.
+    Noticiam os autos que a agravante ajuizou ação declaratória objetivando quitar diferentes parcelamentos firmados com o Estado agravado, mediante a oferta de títulos da dívida pública. Sobreveio sentença julgando improcedente a ação.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul, manteve a sentença de improcedência da ação, ao fundamento de que os títulos oferecidos pela devedora são imprestáveis.
+    Opostos embargos de declaração, restaram rejeitados.
+    Irresignada com o teor do acórdão prolatado, a recorrente interpôs recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, apontando como violados os arts. 5º, XXXV, LIV e LV, e 93, IX, da Carta Federal.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    Ab initio, a violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 596.682, Rel. Min. Carlos Britto, DJe de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, DJe de 08/09/10, entre outros.
+    Demais disso, a jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Nesse sentido são os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta.”
+    (AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental improvido.”
+    (AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 18 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
