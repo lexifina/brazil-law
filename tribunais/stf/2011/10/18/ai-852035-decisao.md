@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Apelação Cível – Ação anulatória de ato administrativo – Exclusão dos quadros da Corporação – Trânsito em julgado da sentença de mérito – Coisa julgada – Extinção da ação sem julgamento do mérito – Recurso improvido” (fl. 70).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, XXXVI e LV, 37, caput, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida.
+    Verifica-se que o Tribunal a quo assim concluiu sobre a matéria posta nos autos:
+    “É necessário ressaltar, contudo, que, conforme os argumentos expendidos sobre a coisa julgada, por força do art. 464 do CPC, uma vez transitada em julgado a sentença de mérito, ficam preclusas todas as questões deduzidas, como também aquelas dedutíveis ao momento do ajuizamento da ação. Nesta linha de entendimento, tendo em vista que os argumentos que fundamentam a nulidade do ato administrativo de expulsão do militar poderiam ter sido deduzidos quando do ajuizamento da primeira ação, considero que o trânsito em julgado da sentença do processo anterior impede que seja reaberta a discussão sobre eles. Mais claramente, como o militar não alegou o que já poderia ter alegado quando do ajuizamento da primeira ação, não pode ele fazê-lo após o trânsito em julgado da sentença.
+    (…)
+    A consideração de ofensa à coisa julgada é questão prejudicial ao conhecimento das demais questões” (fl. 83).
+    Desse modo, para dissentir do entendimento firmado pelo acórdão recorrido seria necessária a análise da legislação infraconstitucional. É que este Tribunal tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+    Outrossim, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Por fim, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator
