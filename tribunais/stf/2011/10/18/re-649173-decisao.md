@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+    “ADMINISTRATIVO. REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO EM AÇÃO ORDINÁRIA. POLICIAIS MILITARES EM ATIVIDADE. INDENIZAÇÃO POR FÉRIAS NÃO GOZADAS. PRESCRIÇÃO. INOCORRÊNCIA. PRELIMINAR REJEITADA. INDENIZAÇÃO ADMISSÍVEL. NÃO INCIDÊNCIA DO TERÇO CONSTITUCIONAL AOS PERÍODOS DE FÉRIAS ANTERIORES À CONSTITUIÇÃO FEDERAL DE 1988.
+    RECURSO VOLUNTÁRIO E REMESSA OFICIAL PARCIALMENTE PROVIDOS. SENTENÇA REFORMADA, EM PARTE” (fl. 112).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV e XXXVI, e 93, IX, da mesma Carta.
+    Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, a orientação desta Corte, por meio de remansosa jurisprudência, é que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis estaduais 3.933/1981 e 6.932/1996). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido: AI 799.622-AgR/RJ, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
