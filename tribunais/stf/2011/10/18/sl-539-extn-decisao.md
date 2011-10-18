@@ -1,0 +1,21 @@
+(PETIÇÃO STF Nº 81460/2011)
+    Decisão: 1. Trata-se do primeiro pedido de extensão aos Mandados de Seguranças nºs 0182844.35.2011, 0229784.58.2011 e 0229787- 13.2011 , em trâmite no Tribunal de Justiça de São Paulo, dos efeitos da suspensão concedida nesses autos aos Mandados de Seguranças nºs 0182844.35.2011, 229784.58.2011, 0182836.58.2011, 0197154.46.2011, 0198404.17.2011, 0182860.86.2011, 0180189.90.2011, 0180179.46.2011, 0180163.92.2011 e 0152082.36.2011.
+    Na origem, Cotra S/A Empresa Comercial e Exportadora impetrou a ordem, contra ato do Presidente do Tribunal de Justiça paulista, consubstanciado na extinção do pedido de sequestro de verbas municipais. A constrição fora declarada extinta por superveniência da EC nº 62/2009. Mas o Órgão Especial da Corte a quo julgou inconstitucional a nova sistemática implementada pela referida emenda, determinando o prosseguimento do sequestro.
+    O requerente sustenta ter aderido à nova sistemática constitucional de pagamento de precatórios. Com a decisão impugnada, caso haja determinação de sequestro haveria grave lesão à ordem e economia públicas, pois a Fazenda seria obrigada a suportar constrições de suas verbas orçamentárias, além de promover o regular pagamento facultado pela EC nº 62/2009.
+    2. É caso de extensão.
+    De acordo com o regime legal de contracautela (Leis nº 12.016/09, nº 8.437/92 e nº 9.494/97, e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    A cognição do pedido exige, ainda, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR, Rel. Min. CARLOS VELLOSO, Plenário, DJ de 06.4.2001; SS nº 2.187-AgR, Rel. Min. MAURÍCIO CORRÊA, DJ de 21.10.2003; e SS nº 2.465, Rel. Min. NELSON JOBIM, DJ de 20.10.2004). Está preenchido o requisito, pois em jogo, aqui, interpretação sobre o disposto no art. 100 da Constituição da República, nos termos da EC nº 62/2009.
+    A sistemática de contracautela permite, ainda, que o Presidente do Tribunal estenda os efeitos da suspensão a liminares supervenientes cujo objeto seja idêntico, mediante simples aditamento do pedido original.
+    Verifico, no caso, identidade de objeto entre a decisão que se pretende suspender e a que já foi suspensa, que também versa sobre determinação de prosseguimento de pedido de sequestro de verbas públicas, ante a entrada em vigor da EC nº 62/2009.
+    Está caracterizado, aqui, evidente risco de grave lesão à economia e à ordem públicas, pois o requerente, além de sofrer o sequestro de recursos, deverá, cumulativamente, manter o cumprimento do regime especial instituído pela Emenda Constitucional, que subtrai percentual da receita corrente líquida municipal, nos termos do art. 97 do ADCT.
+    Verifico, ainda, que esta Presidência tem sido provocada a decidir diversos incidentes idênticos, o que demonstra a ocorrência do chamado “efeito multiplicador”, que provoca lesão à economia e à ordem públicas.
+    Esta realidade encontra reforço no fato de que o Órgão Especial do Tribunal de Justiça declarou a inconstitucionalidade da EC nº 62/09, o que implicará, em tese, o deferimento dos pedidos de sequestro de todos os precatórios ainda não adimplidos.
+    Por fim, a questão relativa à constitucionalidade da EC nº 62/09 é objeto de quatro ações diretas de inconstitucionalidade nesta Corte, todas de relatoria do Min. AYRES BRITTO: ADI nº 4357, ADI nº 4372, ADI nº 4400 e ADI nº 4425, e cujo julgamento já foi iniciado na sessão plenária de 06.10.2011.
+    Nesses termos, julgo oportuno aguardar pronunciamento da Corte, para maior segurança jurídica de todos os interessados, sobretudo em tema que envolve a complexa questão dos precatórios, objeto de intensa controvérsia e algumas moratórias constitucionais.
+    3. Ante o exposto, defiro o pedido de extensão, para suspender a execução da decisões proferidas nos autos dos Mandados de Seguranças nºs 0182844.35.2011, 0229784.58.2011 e 0229787- 13.2011
+    Exp. com urgência telex e ofício ao Tribunal de Justiça de São Paulo.
+    Publique-se. Int..
+    Brasília, 18 de outubro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
