@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Tenho que a insurgência não merece acolhida. É que o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça, no sentido de que limpeza e conservação de vias públicas se referem a atividades estatais que se traduzem em prestação de utilidades inespecíficas, indivisíveis e insuscetíveis de ser vinculadas a determinado contribuinte, não se podendo custear senão por meio do produto da arrecadação dos impostos gerais (REs 234.605, 233.332 e 206.777). Tal posição foi reafirmada no julgamento do RE 576.321, da relatoria do ministro Ricardo Lewandowski.
+    2. Vejam-se, ainda, em casos símiles as seguintes decisões: AIs 787.295, da relatoria do ministro Gilmar Mendes; 829.494 e 837.484, da relatoria do ministro Joaquim Barbosa; 837.453, da relatoria da ministra Cármen Lúcia; e 841.508, da relatoria do ministro Ricardo Lewandowski.
+    3. De mais a mais, anoto que a controvérsia acerca dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 754.994-AgR, da minha relatoria; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello, este assim ementado, na parte que interessa ao deslinde da causa:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    [...]
+    - A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da res judicata, torna incabível o recurso extraordinário.
+    É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, in concreto, dos limites subjetivos (CPC , art. 472) e/ou objetivos (CPC , arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional , podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes.
+    [...]“
+    4. À derradeira, incide a Súmula 454/STF.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1° do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 19 de outubro de 2011.
+Ministro AYRES BRITTO
+Relator
