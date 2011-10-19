@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, que condenou a ora recorrente ao pagamento de indenização por danos morais e materiais.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 37, § 6º, da mesma Carta.
+    O agravo não merece acolhida. Ressalte-se, preliminarmente, que o art. 37, § 6º, da Constituição Federal não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+    Além disso, para dissentir do acórdão recorrido quanto à configuração do dever de indenizar por danos materiais e morais, necessário seria o reexame do conjunto fático-probatório dos autos, nos termos da Súmula 279 do STF, e da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor), inviabilizando assim o extraordinário. Nesse sentido:
+    “DIREITO DO CONSUMIDOR. RESPONSABILIDADE DO PRESTADOR DE SERVIÇOS. DANOS MORAIS E MATERIAIS. ARTS. 5º, V, X; E 93, IX, DA CONSTITUIÇÃO FEDERAL. INDENIZAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL E SÚMULA STF 279. 1. A análise da indenização por responsabilidade prevista no Código do Consumidor, no caso, reside no âmbito da legislação infraconstitucional. Alegada ofensa à Constituição Federal, se existente, seria de forma indireta, reflexa. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 5º, V e X, da Constituição Federal. 3. Decisão fundamentada, contrária aos interesses da parte, não constitui ofensa ao artigo 93, IX, da Constituição Federal. Precedentes. 4. Agravo regimental improvido” (AI 715.690-AgR/RJ, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
