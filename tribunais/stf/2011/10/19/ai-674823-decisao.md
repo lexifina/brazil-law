@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “Ementa: AGRAVO INTERNO. DECISÃO QUE JULGOU LIMINARMENTE AGRAVO DE INSTRUMENTO COM SUPORTE NO ART. 557, § 1º-A, DO CPC. PREVIDÊNCIA PÚBLICA. IPERGS. APLICAÇÃO DE MULTA PARA A HIPÓTESE DE NÃO-PAGAMENTO DO PRECATÓRIO. 1. Do julgamento de plano do recurso. É perfeitamente possível o julgamento liminar da matéria em questão, uma vez que já pacificada por esta Câmara. Interpretação analógica do caput do art. 557 do CPC, aplicável ao § 1º do mesmo dispositivo de lei. Aplicável a jurisprudência desta Corte. Preliminar afastada. 2. Na hipótese de não-pagamento do precatório no prazo máximo de 72 horas úteis, a contar da ciência desta decisão, de se fixar a multa no percentual de 20% sobre o valor do precatório, nos termos do art. 14, inciso V, parágrafo único, c/c o art. 600, III, e art. 601, do CPC. Recurso improvido.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, XXXV e LV, e 100, § 2º, da Constituição federal.
+    Inexiste a alegada ofensa ao art. 5º, XXXV e LV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, tendo enfrentado as questões que lhe foram postas, em observância aos princípios do contraditório e da ampla defesa.
+    Quanto à outra afirmação de afronta constitucional, o Supremo Tribunal Federal, apreciando o RE 608.852-RG (rel. min. Ellen Gracie, DJe de 04.06.2010) não reconheceu a repercussão geral do tema tratado no presente recurso, por entender que tratava-se de alegação de ofensa indireta ou reflexa à Constituição, em acórdão assim ementado:
+    “ADMINISTRATIVO. PAGAMENTO DE PRECATÓRIO FORA DO PRAZO LEGAL. APLICAÇÃO DE MULTA PREVISTA NOS ARTS. 14, V, 600 E 601, TODOS DO CPC. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO FEDERAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
