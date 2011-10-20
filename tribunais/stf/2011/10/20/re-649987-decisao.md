@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO. AÇÃO DE COBRANÇA. CONTRIBUIÇÃO SINDICAL. NECESSIDADE DE PUBLICAÇÃO DE EDITAIS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O Recurso Extraordinário não é servil ao exame de matérias que possuem natureza de índole exclusivamente infraconstitucional, porquanto apreciar tais premissas significaria exceder competência que, por expressa determinação da Carta Maior, não assiste a esta Corte Suprema, cujas atribuições estão exaustivamente arroladas no art. 102 da Constituição Federal.
+2. In casu, o acórdão recorrido concluiu pela obrigatoriedade de as entidades sindicais promoverem a publicação de editais concernentes ao recolhimento da contribuição sindical, conforme previsto no art. 605 da Consolidação das Leis do Trabalho.
+3. Recurso extraordinário a que se nega seguimento.
+    Decisão: Trata-se de recurso extraordinário interposto pela Confederação Nacional da Agricultura e Pecuária do Brasil - CNA, com fulcro no art. 102, inciso III, alínea “a”, da Carta Magna, para adversar acórdão do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    APELAÇÃO CÍVEL – AÇÃO SUMÁRIA DE COBRANÇA – CONTRIBUIÇÃO CONFEDERATIVA RURAL – RECOLHIMENTO EM FAVOR DA CONFEDERAÇÃO NACIONAL DA AGRICULTURA – PRODUTOR RURAL NÃO SINDICALIZADO – INADIMISSIBILIDADE – ÔNUS DA PROVA – ART. 333, I, DO CPC – RECURSO IMPROVIDO.
+    Estabelecendo a Constituição Federal, no inciso V do art. 80 que “ninguém será obrigado a filiar-se ou a manter-se filiado a sindicato”, não está o produtor rural não sindicalizado obrigado a contribuir para o custeio do sistema confederativo da representação sindical da categoria, porque se trata de contribuição convencional, fixada em assembléia, onde se tem direito a discuti-la e a votar somente os filiados, Ademais, mister se faz a demonstração dos empregados que estariam sindicalizados, mediante o registro de suas matrículas. Tal ônus é do autor, ex vi do art. 333, I do CPC e não demonstrado o fato constitutivo de seu direito, torna-se inviável a pretensão que se sustenta no desconto da contribuição confederativa.
+    Em sede de recurso extraordinário, a recorrente alega violação aos arts. 8º, IV, in fine, 93, IX, e 149 da Constituição Federal.
+    A recorrente sustenta que “a contribuição sindical não depende do animus do contribuinte se associar ao sindicato e de ter interesse em contribuir para a confederação, eis que a teor do art. 545 da CLT menciona que outras contribuições precisam ser autorizadas pelo empregado para que o patrão proceda o desconto no salário daquele, ‘salvo quanto à contribuição sindical, cujo desconto independe dessa formalidade.”
+    Alega que “os recorridos foram notificados extrajudicialmente para o pagamento da contribuição perseguida, conforme noticia o libelo, não havendo impugnação da sobredita assertiva, logo, trata-se de fato incontrovertido, na dicção do art. 334, III, do CPC, via de conseqüência, verdadeiro por presunção, nos moldes do art. 302, caput, do mesmo diploma.”
+    É o relatório. DECIDO.
+     A irresignação não prospera.
+    O acórdão recorrido concluiu pela obrigatoriedade de as entidades sindicais promoverem a publicação de editais concernentes ao recolhimento da contribuição sindical, conforme previsto no art. 605 da Consolidação das Leis do Trabalho.
+    Ressaltou ainda a necessidade de filiação para efeito de viabilizar a cobrança da contribuição sindical.
+    Destarte, verifica-se que o presente recurso não reúne condições de admissibilidade, uma vez que a quaestio iuris foi solucionada pelo Tribunal de origem à luz de interpretação exclusivamente infraconstitucional. Nesse sentido, trago à colação julgados de ambas as Turmas deste Tribunal, verbis:
+    “SINDICATO. Contribuição sindical rural. Cobrança pela Confederação Nacional da Agricultura. Publicação de editais. Procedimento disciplinado pelo art. 605 da Consolidação das Leis do Trabalho. Afronta ao art. 37 da Constituição da República. Não ocorrência. Matéria, ademais, infraconstitucional. Recurso extraordinário não conhecido. É infraconstitucional a questão sobre forma por observar para publicação de editais relativos à contribuição sindical rural” (RE 575.067, Rel. Min. Cezar Peluso, DJ 5.6.2008).
+    Ex positis, nego seguimento ao recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 20 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
