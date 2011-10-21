@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EMBARGOS INFRINGENTES. CESSÃO DE CRÉDITOS. CEF. UNIÃO. REFINANCIAMENTO DA DÍVIDA. LEI 8.727/93. A CEF estava obrigada a englobar seus créditos junto ao município, no programa de refinanciamento, por expressa disposição do § único do art. 14 da Lei 8.727/93. Não há, portanto, “artifício” ou “mecanismo e triangulação” na cessão de créditos da CEF à União.” (fl. 113)
+    Opostos embargos declaratórios, estes foram rejeitados (fl. 119).
+    No apelo extremo, sustenta-se que ocorreu violação ao ato jurídico perfeito previsto no artigo 5º, inciso XXXVI, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Código de Processo Civil, Lei n. 8.727/1993, Lei n. 4.380/64, Lei n. 4.728/65, Decreto-lei n. 2.065/8) e com interpretação de cláusulas contidas em contratos. Para se concluir de forma diversa, seria necessária a análise das mencionadas cláusulas, o que não enseja a abertura da via extraordinária.
+    Incide, portanto, a Súmula 454 do Supremo Tribunal Federal.
+    Sobre o tema, confiram-se o AI-AgR 837.182, 1ª Turma, Min. Cármen Lúcia, DJe 13.4.2011; e o RE-AgR 575.575, 2ª Turma, Rel. Min. Ayres Britto, DJe 25.4.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 454 DO STF. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento de cláusulas contratuais. Providências vedadas na instância extraordinária. 2. Agravo regimental desprovido.”
+    Ademais, ressalto que esta via excepcional não viabiliza pretensão cuja análise demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+    Além disso, segundo firme jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada, do ato jurídico perfeito, do direito adquirido (art. 5º, XXXVI) é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido o RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010; e o AI-AgR 775.056, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.11.2010, cuja ementa dispõe:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGADA OFENSA AOS ARTS. 5º, II, XXXVI, LIV E LV DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II - A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes. III – Agravo regimental improvido.” (grifamos)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 21 de outubro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
