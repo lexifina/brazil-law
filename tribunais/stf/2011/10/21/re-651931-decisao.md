@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário não se revela viável, eis que o acórdão contra o qual se insurge ajusta-se à orientação jurisprudencial firmada pelo Supremo Tribunal Federal.
+    Com efeito, o Plenário desta Suprema Corte, ao julgar o RE 370.682- -ED/SC, Rel. Min. GILMAR MENDES, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora recorrente:
+    “Embargos de declaração em recurso extraordinário. 2. Não há direito a crédito presumido de IPI em relação a insumos isentos, sujeitos à alíquota zero ou não tributáveis. 3. Ausência de contradição, obscuridade ou omissão da decisão recorrida. 4. Tese que objetiva a concessão de efeitos infringentes para simples rediscussão da matéria. Inviabilidade. Precedentes. 5. Embargos de declaração rejeitados.” (grifei)
+    Cumpre destacar, por oportuno, ante a inquestionável procedência de suas observações, a seguinte passagem do voto do eminente Ministro GILMAR MENDES, proferido por ocasião do mencionado julgamento plenário:
+    “Diversamente do que vinha entendendo até então, com destaque para o julgamento do RE 212.484, Redator p/ acórdão Min. Nelson Jobim, esta Corte decidiu que toda e qualquer hipótese exonerativa (isenção, alíquota zero ou não-tributação) não gera crédito para a compensação com o montante devido na operação subseqüente.” (grifei)
+    Cabe observar, por necessário, que essa orientação plenária vem sendo observada em sucessivas decisões, que, proferidas no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (AI 520.680/SC, Rel. Min. CÁRMEN LÚCIA – AI 651.013-AgR/BA, Rel. Min. CÁRMEN LÚCIA – RE 352.424/PR, Rel. Min. CEZAR PELUSO – RE 459.553/SC, Rel. Min. EROS GRAU – RE 477.180-AgR/RS, Rel. Min. DIAS TOFFOLI – RE 539.821/MG, Rel. Min. AYRES BRITTO – RE 541.355/AL, Rel. Min. CELSO DE MELLO – RE 566.551-AgR/RS, Rel. Min. ELLEN GRACIE – RE 566.819/RS, Rel. Min. MARCO AURÉLIO – RE 592.917-AgR/RJ, Rel. Min. LUIZ FUX – RE 640.096/RS, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e pelas razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 21 de outubro de 2011.
+Ministro CELSO DE MELLO
+Relator
