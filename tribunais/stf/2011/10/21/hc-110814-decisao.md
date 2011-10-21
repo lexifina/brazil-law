@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DANIEL ELIAS BATISTA contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça no Habeas Corpus nº 164.998-MG.
+    Consta da impetração que o paciente foi condenado ao cumprimento da pena de 4 anos, 10 meses e 10 dias de reclusão, pela prática do crime de tráfico de drogas, sendo aplicada, na dosimetria da pena, a causa de diminuição prevista no §4º do art. 33 da Lei nº 11.343/06 no patamar de 1/6 (um sexto).
+    No presente habeas corpus, a impetrante sustenta que a causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06 deveria ter sido aplicada no seu quantum máximo (2/3 – dois terços), e não no patamar mínimo (1/6 – um sexto), como ocorreu no acórdão proferido pelo Tribunal de Justiça de Minas Gerais, alegando-se para tanto que o paciente é primário, possui bons antecedentes, não se dedica à atividade criminosa nem integra organização criminosa.
+    Por fim, requer a substituição da pena privativa de liberdade por restritiva de direitos, caso a pena definitiva, após a aplicação da causa de diminuição no patamar máximo, seja fixada em um quantum inferior a quatro anos de reclusão.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada deste Tribunal, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    Ao compulsar os autos, verifico que “a natureza e a quantidade da droga apreendida (109 pedras de crack), suficiente para mais de uma centena de usuários”, foram os principais fundamentos para limitar a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/06 no patamar mínimo de 1/6.
+    No mesmo sentido da fundamentação utilizada pelo Tribunal de Justiça de Minas Gerais, destaco o seguinte precedente desta Corte:
+    “A causa especial de diminuição de pena de que trata o § 4º do artigo 33 da Lei n. 11.343/2006 pode ser aplicada em apenas 1/6 (um sexto), num intervalo de 1/6 (um sexto) a 2/3 (dois terços), com fundamento na quantidade de entorpecente, que é critério preponderante fixado na lei, revelando a justeza da sanção no caso concreto. Precedentes: HC 98.900, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 30/11/2010 e HC 94.559, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 04/11/2010” (HC 104.195/MS (rel. min. Luiz Fux, DJe nº 111, publicado em 10.06.2011)).
+    Além disso, para se alcançar a conclusão pretendida pela impetrante, de modo a aplicar a causa de diminuição da pena em seu quantum máximo, imprescindível é a realização de aprofundado reexame do acervo fático-probatório, o que é inadmissível na via processual do habeas corpus.
+    Corroborando o exposto, cito, dentre tantos outros, os seguintes julgados:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGA. PENA-BASE ACIMA DO MÍNIMO LEGAL DEVIDAMENTE FUNDAMENTADA. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006 EM SEU GRAU MÁXIMO (2/3). (...).
+    I – Está devidamente motivada a quantidade de pena fixada pelo juízo de primeiro grau e pelo Superior Tribunal de Justiça, além de mostrar-se proporcional ao caso em apreço, sendo certo que não se pode utilizar “o habeas corpus para realizar novo juízo de reprovabilidade, ponderando, em concreto, qual seria a pena adequada ao fato pelo qual condenado o Paciente” (HC 94.655/MT, Rel. Min. Cármen Lúcia).
+    (...)
+    III – O juiz não está obrigado a aplicar o máximo da redução prevista, quando presentes os requisitos para a concessão desse benefício, tendo plena liberdade de aplicar a redução no patamar conforme seja necessário e suficiente para reprovação e prevenção do crime, segundo as peculiaridades de cada caso concreto. Do contrário, seria inócua a previsão legal de um patamar mínimo e um máximo.
+    IV – Recurso desprovido” (RHC 106.719/DF, Rel. min. Ricardo Lewandowski, DJe nº 56, de 24.03.2011).
+    “O magistrado não está obrigado a aplicar a causa de diminuição prevista no § 4º do art. 33 da Lei nº 11.343/06 em seu patamar máximo quando presentes os requisitos para a concessão de tal benefício, tendo plena liberdade para aplicar a redução no quantum reputado adequado de acordo com as peculiaridades do caso concreto” (HC 99.440/SP, da minha relatoria, DJe nº 090, publicado em 16.05.2011).
+    Assim, havendo circunstâncias judiciais desfavoráveis oportunamente analisadas pelo tribunal a quo, justificada está a aplicação da causa de diminuição da pena no patamar de 1/6 (um sexto), conforme art. 33, § 4º, da Lei nº 11.343/06.
+    Por fim, permanecendo inalterada a pena fixada em 4 anos, 10 meses e 10 dias de reclusão, fica prejudicado o pedido subsidiário de substituição da pena privativa de liberdade por restritiva de direitos, haja vista que a substituição pretendida somente é permitida para pena privativa de liberdade inferior a 4 (quatro) anos (art. 44, inc. I, do Código Penal).
+    Ante todo o exposto, denego a ordem pretendida, conforme me autoriza o art. 192, caput, do Regimento Interno deste Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 21 de outubro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
