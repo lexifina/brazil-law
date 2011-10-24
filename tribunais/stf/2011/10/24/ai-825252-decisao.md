@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário o qual impugna acórdão que manteve decisão que julgou improcedente impugnação ao cumprimento de sentença (fls. 379-384).
+    Não foram opostos embargos declaratórios.
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos II, XXXVI, LIV e LV, e 93, IX, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação processual (Código de Processo Civil) e do conjunto fático-probatório dos autos (Enunciado de Súmula 279 do STF). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Sobre o tema, confiram-se os julgamentos do AI-AgR 755.900, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 30.4.2010; e do RE-AgR 611.625, Rel. Min. Ayres Britto, 2ª Turma, DJe 14.10.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO MANEJADO EM EXECUÇÃO POR QUANTIA CERTA. ALEGAÇÃO DE EXCESSO NOS VALORES APURADOS EM LIQUIDAÇÃO DE SENTENÇA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279/STF. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado de São Paulo demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância recursal extraordinária. 2. Agravo regimental desprovido.”
+    Além disso, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade (art. 5º, inciso II, CF), quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado de Súmula 636/STF). Sobre o tema, confiram-se o AI-AgR 825.423, Rel. Min. Ricardo Lewandowski, DJe 27.6.2011; e o AI-AgR 745.965, de minha relatoria, DJe 29.6.2011:
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento”.
+    Ademais, ressalto que é firme a jurisprudência desta Corte no sentido de que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
