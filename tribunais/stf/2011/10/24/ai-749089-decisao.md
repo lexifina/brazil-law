@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 4ª Região.
+    Transcrevo a ementa (fls. 86):
+    “TRIBUTÁRIO. ADUANEIRO. HABILITAÇÃO DE PESSOA FÍSICA RESPONSÁVEL PELA PESSOA JURÍDICA JUNTO AO SISCOMEX. ILEGALIDADE DA IN/SRF 455/2004.
+    1. A Instrução Normativa 455/04, ao preconizar o indeferimento sumário dos pedidos de credenciamento no SISCOMEX quando não preenchidos determinados requisitos não previstos pelo legislador, extrapolou os limites dentro dos quais deve ser instituída, que se restringem a esmiuçar os preceitos da lei e dos regulamentos visando à sua execução.
+    2. No caso, o indeferimento sumário não se compagina com a Lei 9.784/99, tampouco com a norma inscrita no art. 5.º, incisos LIV e LV, da Constituição Federal, relativa à garantia do substantive process of law e seus corolários, os princípios do contraditório e da ampla defesa.
+    3. A restrição não é estritamente necessária, mas mesmo desinfluente aos fins a que se propõe. A proteção dos interesses fazendários se coaduna com o procedimento do despacho aduaneiro, em que verificadas as condições de regularidade da importação. A habilitação no SISCOMEX que importe sufragar o despacho aduaneiro não é ato administrativo coberto pela discricionariedade, mas sim ato que apresenta-se em contrariedade com o ordenamento jurídico pátrio.
+    4. Apelação provida.”
+    Alega-se, no recurso extraordinário, violação do art. 237 da Constituição. Sustenta-se que o acórdão recorrido deixou de considerar a competência do Ministério da Fazenda, especificadas nas Leis 8.630/1993 e 9.779/1999, para regular o comércio exterior.
+    Decido.
+    O recurso extraordinário não impugnou o fundamento de que a restrição à inscrição do ora recorrido no SISCOMEX ofendeu o art. 5º, LV e LIV, da Constituição. Aplica-se ao caso, portanto, a Súmula 283 do Supremo Tribunal Federal.
+    Ademais, o Supremo Tribunal Federal entende pacificamente que a discussão sobre os limites do poder regulamentar instituído por lei é de natureza infraconstitucional, sendo incabível sua análise em recurso extraordinário, o qual só admite o exame de ofensa direta à Constituição federal.
+    Nesse sentido:
+    E M E N T A: ADIN - SISTEMA NACIONAL DE DEFESA DO CONSUMIDOR (SNDC) - DECRETO FEDERAL N. 861/93 - CONFLITO DE LEGALIDADE - LIMITES DO PODER REGULAMENTAR - AÇÃO DIRETA NÃO CONHECIDA. - Se a interpretação administrativa da lei, que vier a consubstanciar-se em decreto executivo, divergir do sentido e do conteúdo da norma legal que o ato secundário pretendeu regulamentar, quer porque tenha este se projetado ultra legem, quer porque tenha permanecido citra legem, quer, ainda, porque tenha investido contra legem, a questão caracterizará, sempre, típica crise de legalidade, e não de inconstitucionalidade, a inviabilizar, em conseqüência, a utilização do mecanismo processual da fiscalização normativa abstrata. - O eventual extravasamento, pelo ato regulamentar, dos limites a que materialmente deve estar adstrito poderá configurar insubordinação executiva aos comandos da lei. Mesmo que, a partir desse vício jurídico, se possa vislumbrar, num desdobramento ulterior, uma potencial violação da Carta Magna, ainda assim estar-se-á em face de uma situação de inconstitucionalidade reflexa ou oblíqua, cuja apreciação não se revela possível em sede jurisdicional concentrada. (ADI 996-MC, rel. min. Celso de Mello, Tribunal Pleno, DJ de 06.05.1994)
+    Confira-se, ainda: RE 342.512 (rel. min. Dias Toffoli, DJe 12.02.2010); RE 398.145 (rel. min. Ayres Britto, DJe 09.12. 2009).
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
