@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e d, da Constituição federal) interposto de acórdão, prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa possui o seguinte teor:
+    “Embargos de declaração em agravo inominado em agravo de instrumento. Embargante que, em execução fiscal, insurge-se contra o recolhimento da taxa judiciária. O art. 39 da Lei 6830/80 não se aplica ao caso, porque é vedado à União instituir isenção de tributo de competência estadual (art. 151, III, da Carta Magna). Isenção prevista no art. 17, IX da Lei Estadual 3350/99 que não contempla a taxa judiciária. Recurso provido para sanar a omissão apontada, com manifestação expressa no sentido de se afastar a incidência dos art. 39 da Lei 6830/80 e 17, IX, da Lei Estadual 3350/99.” (fls. 116)
+    Alega-se violação do disposto nos arts. 5º, XXXV; 93, IX; 150, VI, a e § 2º, e 151, III, da Constituição federal.
+    O recurso não merece seguimento.
+    Inicialmente, verifico que inexiste a alegada ofensa aos arts. 5°, XXXV, e 93, IX, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    O Tribunal de origem entendeu que o art. 39 da Lei federal 6.830/1980, que dispõe que a Fazenda Pública não está sujeita ao pagamento de custas e emolumentos nos processos de execução fiscal, não seria aplicável no âmbito das Justiças estaduais, pois à União é vedado instituir isenções de tributos da competência dos Estados, do Distrito Federal ou dos Municípios (art. 151, III, da Constituição federal). Tal conclusão foi impugnada apenas com a alegação de que haveria ofensa ao disposto no art. 150, VI, a e § 2º, da Constituição federal.
+    Observo que a alegada ofensa ao art. 150, VI, a e § 2º, da Constituição federal foi suscitada originariamente em embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmula 282/STF).
+    Ademais, ainda que superado tal óbice, saliento que esta Corte fixou entendimento no sentido de que a imunidade prevista nas alíneas do inciso VI do art. 150 da Constituição federal aplica-se apenas aos impostos, não alcançando as taxas. Nesse sentido: RE 364.202 (rel. min. Carlos Velloso, DJ de 28.10.2004) e AI 458.856-AgR (rel. min. Eros Grau, DJ de 20.04.2007).
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
