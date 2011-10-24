@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 366):
+    “RECURSO DE EMBARGOS INTERPOSTO NA VIGÊNCIA DA LEI 11.496/2007. ADICIONAL DE INSALUBRIDADE. LIMPEZA DE BANHEIRO E COLETA DE LIXO EM HOTEL. ORIENTAÇÃO JURISPRUDENCIAL N.º 4 DA SBDI-1 . Partindo-se da premissa fática delineada pela Turma e pelo Regional, verifica-se que a Reclamante desempenhava as atividades de limpeza e coleta de lixo de sanitários de um hotel. Ora, diversamente do alegado pela Reclamante, o fato de o exercício das funções de limpeza de sanitários ocorrer em um hotel não é hábil a afastar a aplicação do item II da Orientação Jurisprudencial n.º 4 desta Subseção, visto que o lixo de um hotel não pode ser equiparado ao lixo urbano de vias públicas, tal como consignado pela Turma. MULTA DO ARTIGO 538, PARÁGRAFO ÚNICO, DO CPC. Não tendo a parte embargante demonstrado dissenso jurisprudencial específico quanto à multa dos Embargos de Declaração, a admissão do seu Apelo encontra-se obstaculizada pela Súmula n.º 296, I, desta Corte. Recurso de Embargos não conhecido.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV, LIV e LV, 7º, XXIII, e 93, IX, da Constituição federal. Sustenta-se a ocorrência de negativa de prestação jurisdicional e a procedência do pedido de adicional de periculosidade.
+    É o relatório. Decido.
+    A análise da violação do art. 7º, XXIII, da Constituição, na forma como foi veiculada, demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Por outro lado, não procede a alegação de afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+    Do exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
