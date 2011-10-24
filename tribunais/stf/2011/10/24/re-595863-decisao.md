@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal Regional Federal, cuja ementa possui o seguinte teor:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PARA O PIS E COFINS. RECEITAS PROVENIENTES DAS VENDAS DE PRODUTOS FARMACÊUTICOS, PERFUMARIA E COSMÉTICOS. ALÍQUOTA ZERO. EMPRESAS OPTANTES DO SIMPLES. VEDAÇÃO. ART. 2º, PARÁGRAFO ÚNICO, DA LEI Nº 10.147/2000.
+    1 - O legislador pode, de acordo com interesses econômicos e sociais, estimular e beneficiar determinados setores da economia, ao mesmo tempo em que pode deixar de conceder determinado benefício a empresas que já desfrutam de sistema fiscal mais vantajoso.
+    2 - O parágrafo único do art. 2º da Lei nº 10.147/2000 não viola os princípios da capacidade contributiva e da isonomia e não colide com o art. 179 da Constituição.” (fls. 171)
+    Alega-se violação do disposto nos arts. 5º, I; 150, II; 170, IX, e 179 da Constituição federal.
+    O recurso não merece seguimento.
+    Por ocasião do julgamento da medida cautelar na ADI 1.502, esta Corte afastou a densidade da argumentação pertinente à inconstitucionalidade de regime de apuração alternativo, posto à disposição do contribuinte, com o objetivo de simplificar a tributação das operações de serviços de transporte.
+    Registro, por oportuno, a ementa do precedente:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONVÊNIOS ICM Nº 46/89 E ICMS Nº 38/89 (PARÁGRAFO ÚNICO DAS RESPECTIVAS CLÁUSULAS SEGUNDAS), QUE ESTARIAM A IMPEDIR O PRESTADOR DE SERVIÇO DE TRANSPORTE RODOVIÁRIO DE UTILIZAR CRÉDITOS FISCAIS RELATIVOS A ENTRADAS TRIBUTADAS, COM OFENSA AOS PRINCÍPIOS DA ISONOMIA, DA NÃO-CUMULATIVIDADE E DA COMPETÊNCIA TRIBUTÁRIA ESTADUAL. REQUERIMENTO DE CAUTELAR. Dispositivo que, ao revés, se limita a estabelecer compensação automática para a redução da carga tributária operada por efeito da cláusula anterior, como parte do sistema simplificado de contabilização e cálculo do tributo incidente sobre as operações sob enfoque, constituindo, por isso, parte do sistema idealizado e posto à livre opção do contribuinte. Assim, eventual suspensão de sua vigência, valeria pela conversão do referido sistema em simples incentivo fiscal não objetivado pelos diplomas normativos sob enfoque , transformado, por esse modo, o Supremo Tribunal Federal em legislador positivo, papel que lhe é vedado desempenhar nas ações da espécie. Conclusão que desveste de qualquer plausibilidade os fundamentos da inicial. Cautelar indeferida.” (ADI 1.502-MC, rel. min. Ilmar Galvão, DJ de 14.11.1996)
+    Apesar de versar sobre ICMS, tal entendimento aplica-se igualmente à hipótese dos autos, sendo constitucional a vedação à fruição de benefício existente no regime geral de apuração dos tributos em questão, estabelecida pela legislação infraconstitucional, quando imposta junto a sistema de apuração simplificado, ao qual o contribuinte pode aderir opcionalmente, sopesando os ônus e benefícios inerentes à sua escolha.
+    Dessa orientação não divergiu o Tribunal de origem.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
