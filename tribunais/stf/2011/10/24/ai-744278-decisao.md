@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul, cuja ementa tem o seguinte teor:
+    “AÇÃO DE ANULAÇÃO DE ATO JURÍDICO – EXCLUSÃO DO APELANTE DO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR – LEGALIDADE DO ATO – NÃO-PREENCHIMENTO DO REQUISITO DE BOA CONDUTA DO CANDIDATO TENDO EM VISTA A PRÁTICA DE CRIMES – RECURSO IMPROVIDO.
+    O fato de haver condenação do apelante à pena de multa no crime de tentativa de estelionato e transação penal no delito de dirigir embriagado, mesmo que na infração de moeda falsa tenha sido absolvido por insuficiência de provas, é apto a demonstrar, inequivocamente, a conduta desabonadora do candidato, não havendo irregularidade ou ilicitude de sua exclusão do curso de formação de Soldados da Polícia Militar.” (Fls. 22)
+    No recurso extraordinário, alega o ora agravante que houve violação ao disposto nos arts. 1º, III; 3º, IV; 5º, II, XIII, XXXV, LIV e LV; 37, I e II; e 93, IX, da Carta Magna. Argumenta que foi excluído do Curso de Formação de Soldados da Polícia Militar em razão de condenação criminal por crime do qual já cumpriu pena (fls. 36).
+    Verifico que inexiste a alegada afronta aos arts. 5º, XXXV, LIV, LV e 93, IX, da Constituição federal, porquanto o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões suscitadas com a devida fundamentação, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa.
+    Ademais, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte. Nesse sentido, confiram-se: AI 397.788 (rel. min. Cezar Peluso, DJE de 16.10.2008); AI 422.053 (rel. min. Ellen Gracie, DJ de 13.09.2005); AI 577.596-AgR (rel. min. Cármen Lúcia, DJE de 10.04.2008) e AI 358.744 (rel. min. Sepúlveda Pertence, DJ de 27.08.2004).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
