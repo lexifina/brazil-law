@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado da Bahia, cuja ementa possui o seguinte teor (fls. 254):
+    “Administrativo. Servidor Público Estadual. Conversão de vencimentos. UR. Lei 8880/94. Significativa perda de 11,98% dos vencimentos.
+    1. Exegese do art. 22, da Lei nº 8.880/94, que dispõe sobre a forma de conversão dos vencimentos e proventos dos servidores públicos em URV’s, impõe a utilização de seu valor na data em que se efetuou o pagamento e não a do último dia de cada mês. Afronta à garantia constitucional da irredutibilidade dos vencimentos.
+    2. O art. 168, da Carta Magna, ao disciplinar a liberação de recursos orçamentários destinados aos Poderes Legislativo, Judiciário e ao Ministério Público, toma como parâmetro o dia vinte de cada mês, quando são creditadas as dotações que incluem recursos para o pagamento de pessoal.
+    3. Jurisprudência pacífica do STF e do STJ, sobre a matéria.
+    4. Recursos de Apelação e Reexame Necessário improvidos.” (grifo original)
+    No recurso extraordinário, o ora agravante aponta violação aos arts. 5º, XXXV, 37, XV, 93, IX, 128, I, e 168, todos da Carta Magna.
+    Observo, de início, que inexiste a alegada ofensa aos arts. 5º, XXXV, e 93, IX, porquanto o o Tribunal de origem prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o 128, I, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, a fundamentação do recurso extraordinário não demonstra de que forma o acórdão recorrido teria violado os arts. 37, XV, e 168, impedindo a exata compreensão da controvérsia. Impõe-se a aplicação da Súmula 284 desta Corte.
+    Por fim, o Tribunal a quo concluiu que “o critério de conversão utilizado para os servidores que recebiam seus vencimentos em data anterior ao último dia de cada mês resultou em perda significativa do valor real da remuneração desses servidores(...)”. Eventual modificação desse entendimento implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, o que inviabiliza o processamento do recurso, ante a vedação contida na Súmula 279/STF.
+    Nesse sentido, RE 540.591-AgR (rel. Min, Ricardo Lewandowski, Primeira Turma, DJe de 31.10.2007) e RE 544.938-ED (rel. min. Cármen Lúcia, Primeira Turma, DJe de 09.05.2008). Transcrevo a ementa deste último:
+    EMENTA: EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. VENCIMENTOS. CONVERSÃO EM UNIDADE REAL DE VALOR - URV. APLICABILIDADE DA LEI N. 8.880/94. NÃO-OCORRÊNCIA DE PERDA NA CONVERSÃO. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A análise do fundamento de que não houve perda na conversão em URV dos vencimentos dos servidores demandaria o reexame de fatos e provas apreciados no acórdão recorrido. Incide, no caso, a Súmula 279 deste Supremo Tribunal Federal. 2. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
