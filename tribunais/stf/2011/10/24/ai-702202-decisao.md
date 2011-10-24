@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado São Paulo, cuja ementa possui o seguinte teor (fls. 16):
+    “Exceção de incompetência – Contrato de franquia – Inexistência de qualquer razão de direito que autorize o deslocamento da competência para o foro do autor/agravante. - Relação de direito pessoal – Incidência da regra geral de competência do artigo 94 e do artigo 100, inciso V, ‘a’, do CPC., tendo em vista tratar-se de pessoa jurídica. - Cláusula de eleição de foro que não é abusiva, tendo em vista que coincide com o lugar da sede da franqueadora. - Situação de hipossuficiência não caracterizada. - Agravo não provido, v.u.”
+    No recurso extraordinário, a parte ora agravante alega violação do disposto no art. 5º, XXXV e LV, da Constituição. Sustenta que o acórdão recorrido fere garantias constitucionais, na medida em que não reconhece sua condição de hipossuficiência e não afasta a cláusula de eleição de foro firmada entre as partes.
+    Verifico que o Tribunal a quo, apreciando a legislação infraconstitucional aplicável ao caso, decidiu que a relação jurídica estabelecida entre as partes no contrato de franquia não se caracteriza como relação de consumo, não sendo, portanto, a hipótese de aplicação do Código de Defesa do Consumidor, e restando válida a cláusula de eleição de foro, eis que ausente qualquer abuso.
+    Assim, a análise da suposta violação aos dispositivos constitucionais apontados demandaria o exame prévio de normas infraconstitucionais (Código de Defesa do Consumidor, Código Civil e Código de Processo Civil), de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Ademais, para rever o entendimento firmado no acórdão recorrido, no sentido de se reconhecer a alegada hipossuficiência da agravante e o prejuízo decorrente da aplicação da cláusula de eleição de foro, seria necessário o reexame de fatos e provas. Isto inviabiliza a abertura da via extraordinária, ante o óbice da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
