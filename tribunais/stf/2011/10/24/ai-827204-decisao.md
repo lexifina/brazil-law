@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “RECURSO DE REVISTA. HONORÁRIOS ADVOCATÍCIOS. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. Não obstante a recente jurisprudência se incline a reconhecer ao sindicato, como substituto processual, o direito aos honorários advocatícios, esses, no Processo do Trabalho, não decorrem da mera sucumbência, mas do requisito suplementar da insuficiência financeira, nos moldes consubstanciados no artigo 14 da Lei nº 5.584/70. Na espécie, verifica-se que o Regional não consignou se os substituídos percebem salário inferior ao dobro do salário mínimo ou encontram-se em situação econômica que não lhes permita demandar sem prejuízo do próprio sustento ou das respectivas famílias. Razão pela qual não se poderia deferir ao sindicato a verba honorária. Recurso de revista conhecido e provido, no particular.” (fl. 127)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 150-157).
+    No apelo extremo, sustenta-se que ocorreu violação ao artigo 8º, inciso III, da Constituição Federal, em razão de o Tribunal a quo ter autorizado o sindicato recorrido a atuar como substituto processual na controvérsia.
+    Verifico que a jurisprudência desta Corte fixou entendimento no sentido de que o artigo 8º, inciso III, da Constituição Federal assegura a ampla legitimidade ativa ad causam dos sindicatos para intervenção no processo como substitutos da categoria que representam.
+    Sobre o tema, confiram-se o AI-AgR 672.406, 2ª Turma, Min. Eros Grau, DJe 7.12.2007; e o AI-AgR 453.031, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 7.12.2007, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. SUBSTITUIÇÃO PROCESSUAL. SINDICATO. ART. 8º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTE DO PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Processual: agravo de instrumento corretamente instruído. Matéria constitucional examinada pelo Tribunal a quo. Impugnação do acórdão proferido na ação rescisória. 2. A jurisprudência deste Supremo Tribunal Federal firmou-se no sentido da ampla legitimidade dos sindicatos para atuar na defesa dos direitos subjetivos individuais e coletivos de seus integrantes. 3. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.”
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
