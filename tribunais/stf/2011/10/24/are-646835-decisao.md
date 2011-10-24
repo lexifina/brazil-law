@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 89):
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. INTEGRAÇÃO DA GRATIFICAÇÃO SEMESTRAL. O Tribunal Regional, soberano na análise do conjunto probatório, deliberou que a gratificação semestral é parcela fixa e salarial e, por isso, deve integrar a base de cálculo da participação nos lucros e resultados (PLR), conforme determina a norma coletiva instituidora do benefício. Esclareceu que, nesta norma, não há exigência alguma no sentido de que apenas as parcelas mensais repercutam na PLR. Nos termos em que foi colocada, a decisão não ofendeu direta e literalmente os artigos 611 da CLT e 7º, XXVI, da Constituição Federal, como exige o artigo 896, “c”, da CLT, pois a Corte “a quo” simplesmente interpretou as normas convencionais. Agravo de instrumento a que se nega provimento.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, LIV e LV, e 7º, XXVI, da Constituição federal.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos do art. 5º, II, XXXV, LIV e LV, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ademais, o Tribunal a quo limitou-se ao exame de admissibilidade do recurso de revista.
+    A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos de competência de outros tribunais cinge-se à norma processual, de ordem infraconstitucional. Desta feita, o Supremo Tribunal Federal, apreciando o RE 598.365-RG (rel. min. Ayres Britto, DJe de 26.03.2010), não reconheceu a repercussão geral do tema. É o que se observa na ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+     E, ainda que superado o óbice supra, a garantia constitucional de reconhecimento e proteção dos acordos e convenções coletivas de trabalho não afasta a possibilidade de sua revisão, que no caso em exame se fez especialmente à luz da legislação infraconstitucional, evidenciando tratar-se de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Inclusive, observo que a aferição de eventual afronta à Constituição implicaria necessário reexame da cláusula da norma coletiva. Incide, na espécie, o óbice das Súmulas 279 e 454, deste Tribunal.
+     Nesse sentido: RE 239.619 (rel. min. Cezar Peluso, DJ de 15.05.2006), AI 617.006-AgR (rel. min. Sepúlveda Pertence, DJ de 23.03.2007), AI 657.176-AgR (rel. min. Sepúlveda Pertence, DJ de 31.08.2007), AI 750.752 (rel. min. Cármen Lúcia, DJe de 27.05.2009) e AI 656.720 (rel. min. Cármen Lúcia, DJe de 22.11.2007).
+     Do exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
