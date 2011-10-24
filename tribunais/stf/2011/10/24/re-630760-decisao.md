@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado Alagoas que versou sobre a acumulação de vencimentos e proventos.
+    O acórdão recorrido está assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CAUSA PETENDI DISTINTA DA ANTERIOR. COBRANÇA DE VALORES JUNTO AO ENTE ESTATAL. PRESCRIÇÃO QÜINQÜENAL. INTELIGÊNCIA DO ART. 1º DO DECRETO Nº 20.910/32. ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS. POSSIBILIDADE. DICÇÃO DO ART. 11 DA CONSTITUIÇÃO FEDERAL. RECURSO CONHECIDO. PRELIMINARES REJEITADAS. UNANIMEMENTE. IMPROVIMENTO. SENTENÇA MANTIDA, NA ÍNTEGRA, POR MAIORIA.” (Fls. 22)
+    O Estado alega violação ao disposto no art. 37, XVI, § 10, da Carta Magna. Sustenta, em síntese, que “a recorrida não poderia acumular cargos públicos de socióloga no Estado de Alagoas e Consultora Jurídica no Município de Maceió na Atividade, donde conclui-se que não pode receber vencimentos e proventos de tais cargos, por inacumuláveis” (fls. 53).
+    É o relatório.
+    Esta Corte já firmou entendimento no sentido de que é permitida a cumulação de vencimentos e proventos quando se tratar de cargos acumuláveis na atividade. Nesse sentido: RE 163.204 (rel. min. Carlos Velloso, Tribunal Pleno, DJ de 31.03.1995); RE 252.540-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 18.03.2005); RE 286.107-AgR (rel. min. Ellen Gracie, Segunda Turma, DJ de 04.03.2005) e RE 431.994-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 03.03.2006).
+    No entanto, com o advento da Emenda Constitucional 20/1998, este Tribunal passou a entender que os servidores inativos que reingressaram no serviço público mediante concurso público, e pelas demais formas previstas na Constituição, antes da referida emenda, tiveram seus direitos resguardados de perceberem cumulativamente vencimentos e proventos, de quaisquer cargos. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS. SUPERVENIÊNCIA DA EC-20/98. Servidor público. Acumulação de cargos. Nomeação e posse antes da promulgação da Emenda Constitucional 20/98. Observância do disposto no artigo 11 da referida emenda constitucional, que exclui da vedação de acumular proventos e vencimentos a situação dos servidores inativos que tenham ingressado novamente no serviço público por concurso de provas ou de provas e títulos, e pelas demais formas previstas na Constituição, até a data de sua publicação. Convalidação de atos administrativos anteriormente praticados em desacordo com as disposições do artigo 37, XVI, da Constituição do Brasil. Precedentes. Agravo regimental não provido.” (RE 190.326-AgR (rel. min. Eros Grau, Primeira Turma, DJ de 24.06.2005).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
