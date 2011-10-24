@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário(art. 102, III, a e c, da Constituição federal) interposto de acórdão do Tribunal de Justiça de São Paulo, cuja ementa tem o seguinte teor (fls. 260):
+    “INDENIZAÇÃO. Fazenda Pública. Autores cuja residência foi alagada por refluxo de esgoto da rede municipal. Responsabilidade objetiva da Municipalidade. Indenização pelos danos morais cujo arbitramento comporta redução de modo a assegurar o cumprimento de suas finalidades, sem excesso. Termo inicial dos juros que deve corresponder à data da citação, observada a taxa de 6% ao ano, de acordo com as normas do Código Civil de 1916, vigente à época do evento. Recursos oficial, que se considera interposto, e voluntário da Municipalidade providos em parte, improvido o dos autores.”
+    No recurso extraordinário, o ora agravante alega violação do disposto nos arts. 5º, V e X, e 37, § 6º, da Carta Magna. Sustenta que há aplicação indevida do art. 37, § 6º, já que “não houve a prática de qualquer ato comissivo por parte de agente público” (fls. 305). Afirma, ainda, que o “(...) reflexo de esgoto na casa dos autores – não se encaixa em nenhuma das hipóteses constitucionais, visto que não há qualquer ofensa à intimidade, a vida privada, a honra ou a imagem dos autores, muito menos agravo por informação incorreta” (sic - fls. 309).
+    É o relatório. Decido.
+    Verifico que concluir diversamente do tribunal de origem demandaria o prévio exame do quadro fático-probatório, de forma que eventual ofensa à Constituição federal, acaso existente, seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 do STF).
+    Em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição. Acrescento, também, que a petição recursal não oferece qualquer fundamentação no que se refere a esse particular, o que permite a invocação da súmula 284 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
