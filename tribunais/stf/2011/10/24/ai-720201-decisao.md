@@ -1,0 +1,17 @@
+DECISÃO: Desentranhe-se a Petição 32.902/2011, procedendo-se a sua devolução ao seu i.signatário. É que não sendo parte nos autos, não pode pleitear em juízo, circunstância essa que obsta a análise do contido no expediente referido.
+    Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa tem o seguinte teor:
+    “ADMINISTRATIVO – MILITAR TEMPORÁRIO – LICENCIAMENTO – INCAPACIDADE TEMPORÁRIA – EPILEPSIA – LAUDO PERICIAL – ART. 430 DO REGULAMENTO INTERNO E DOS SERVIÇOS GERAIS DO EXÉRCITO – ASSISTÊNCIA MÉDICO-HOSPITALAR – CONDIÇÃO DE ADIDO ATÉ PARECER MÉDICO DEFINITIVO – SENTENÇA REFORMADA.
+    1. O Estatuto dos Militares (Lei nº 6.880/80), em seu art. 3º, § 1º, estabelece que os militares temporários (inciso II) recebem o mesmo tratamento especial dado aos militares de carreira, cujo ingresso se dá pela incorporação ao efetivo militar. O art. 50, inciso III, letra ‘e’, do referido Estatuto, assegura ao militar o direito à assistência médico-hospitalar, podendo permanecer agregado à sua unidade quando for afastado temporariamente do serviço ativo por ter sido considerado incapaz após 1 ano de tratamento (art. 82, I, da Lei nº 6.880/80).
+    2. In casu, depois de constatada a doença, conforme parecer neurológico do Hospital das Forças Armadas, datado de 15/04/2003, que atestou que o autor deveria ficar afastado do serviço por 120 (cento e vinte) dias para acompanhamento neurológico e avaliação mais precisa com vistas ao diagnóstico, seguiu-se a sua licença do Exército, em 05/06/2003, por conclusão do tempo de serviço, de acordo com a letra ‘a’ do § 3º, inciso II, do art. 121, do Estatuto dos Militares c/c art. 149 da LSM, sendo que, ao ser inspecionado para fins de licenciamento, obteve o seguinte parecer: ‘INCAPAZ temporariamente para o serviço do exército’.
+    3. Devidamente comprovada a incapacidade temporária do autor à época do licenciamento, há de se lhe reconhecer o direito à reintegração na condição de adido à sua unidade até que seja emitido parecer médico definitivo, merecendo, dessa forma, ser desconstituído o ato que o licenciou em 05/06/2003 (art. 430 do Regulamento Interno e dos Serviços Gerais do Exército).
+    4. Honorários advocatícios devidos pela União, fixados em R$ 1.000,00 (hum mil reais).
+    5. Sentença reformada.
+    6. Apelação da União e Remessa Oficial improvidas. Apelação do autor provida.” (Fls. 28)
+    Nas razões de recurso extraordinário, alega-se que o acórdão recorrido violou o disposto nos arts. 37, caput; e 165 da Constituição Federal.
+    O acórdão impugnado reconheceu o direito do recorrido de ser reintegrado à sua unidade como adido, até parecer médico definitivo, ao passo que a recorrente, nas razões de recurso extraordinário, afirma que o recorrido não teria direito à reforma e nem à assistência médico-hospitalar. Incide, portanto, o enunciado da Súmula 284 do Supremo Tribunal Federal.
+    Ademais, a análise das supostas violações à Carta Magna demandaria exame prévio da legislação infraconstitucional que disciplina o licenciamento e a assistência médico-hospitalar do militar temporário, sendo que eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
