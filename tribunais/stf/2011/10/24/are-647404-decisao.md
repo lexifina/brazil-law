@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 202):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA - DESCABIMENTO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Não há que se cogitar de nulidade por negativa de prestação jurisdicional, quando a decisão atacada manifesta tese expressa sobre todos os aspectos manejados pela parte, em suas intervenções processuais oportunas, ainda que de forma contrária a seus desígnios. 2. COISA JULGADA. Ausente a violação constitucional apontada, não prospera o apelo. Agravo de instrumento conhecido e desprovido.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXVI, e 93, IX, da Constituição federal. Sustenta-se que o Tribunal a quo negou prestação jurisdicional e que é indevido impor ao recorrente o pagamento dos débitos fiscais e previdenciários.
+    É o relatório. Decido.
+    Ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ademais, a tese de ofensa ao art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 372.358-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 28.06.2002), AI 360.265-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 20.09.2002), AI 401.735-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 01.04.2005), AI 451.773-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJ de 01.09.2006), RE 374.498-AgR (rel. min. Carlos Britto, Primeira Turma, DJ de 22.10.2004).
+    Do exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 24 de outubro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
