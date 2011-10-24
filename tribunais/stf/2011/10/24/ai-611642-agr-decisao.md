@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO REGIMENTAL – REDISTRIBUIÇÃO – RELEVÂNCIA DA MATÉRIA – PRONUNCIAMENTO JUDICIAL COM CARGA DECISÓRIA – CAPÍTULOS AUTÔNOMOS – PRECLUSÃO MAIOR – AÇÃO RESCISÓRIA – PRAZO DECADENCIAL – JUÍZO DE RETRATAÇÃO – PROCESSAMENTO DO RECURSO EXTRAORDINÁRIO.
+    1. A Ministra Cármen Lúcia negou provimento ao agravo, mediante a decisão de folha 2032 a 2037, ante os seguintes fundamentos:
+    [...]
+    6. O Superior Tribunal de Justiça decidiu a controvérsia nos termos seguintes:
+    “(...) volto a dizer que sentença é uma só. A sentença é o ato que põe termo ao processo art. 162, 1º, do CPC, vale dizer, extingue o processo (art. 269, I, CPC).
+    No art. 269, inciso I, está dito que se extingue o processo com julgamento de mérito quando o juiz acolher ou rejeitar o pedido do autor.
+    Não há, no processo brasileiro, coisa julgada material de capítulos de sentença. Aliás, não se diga que Pontes de Miranda fez tal afirmação, porque o ilustre jurista definiu com precisão coisa julgada formal e coisa julgada material.
+    A coisa julgada em meio ao processo, a chamada coisa julgada formal, que, na verdade, é preclusão (art. 473/CPC), não constitui coisa julgada material, e nem poderia, porque o processo é um caminhar para a frente, e não se pode imaginar que a parte irrecorrida da sentença pudesse constituir coisa julgada oponível às partes. Não é essa a coisa julgada consagrada na Constituição ou na Lei de Introdução e no CPC. Coisa julgada material é a sentença de que não cabe mais recurso, e sentença é ato que põe termo ao processo (art. 162, § 1º do CPC).
+    O prazo para a ação rescisória conta-se do trânsito em julgado da sentença. No CPC, talvez por vezo de não se repetir expressão, diz-se decisão, e, neste caso, cogita-se de sentença transitada em capítulos. Mas é Barbosa Moreira que, interpretando Pontes de Miranda, defende o trânsito em julgado de parte da sentença, quem diz da sinonímia jurídica entre sentença ‘rescindenda’ e ‘decisão’, como diz o CPC no art. 495. É ver a nota 314 nos Com. ao CPC, art. 495 do renomado processualista, pág. 250, 4ª ed. Forense.
+    Em outro artigo, diz o art. 463 que o juiz não pode modificar decisão, e que constitui coisa julgada a sentença indiscutível, não mais sujeita a recursos (art. 467/CPC).
+    Ora, como contar o prazo para a ação rescisória? Como se admitir ações rescisórias em julgados no mesmo processo? É impossível conceber-se a existência de uma ação em curso, ou seja, a pretensão submetida ao julgamento do Estado e, no seu curso, enquanto a ação existir, várias ações rescisórias no seu bojo, como bem assinalou o eminente Ministro Franciulli Netto.
+    Se isso é posto dentro da realidade brasileira de morosidade excessiva do Judiciário por força mesmo desse processo, que não acaba nunca, vai-se ao absurdo de imaginar que seja possível, por exemplo, a parte perder o prazo da rescisória, porque houve retardamento na decisão do seu recurso especial ou do seu recurso extraordinário.
+    (...)
+    Parece-me – volto a dizer que continuo convencido e que insisto, em prol, quem sabe, de fazer com que se discuta, ao menos dentro da lei e nos termos que ela põe –, em respeito à unicidade da sentença, porque sentença é una, não se divide, não pode ser fracionada para efeito da ação rescisória, que não se pode admitir ataque à parte de sentença irrecorrida, enquanto em curso o processo, pedindo mil vênias aos ilustres Ministros que pensam em contrário.
+    Por tais razões, vencido no conhecimento dos embargos de divergência, os rejeito” (fls. 1.702-1.704).
+    7. A controvérsia sobre o prazo para o ajuizamento da ação rescisória foi decidida com base na interpretação e aplicação da legislação processual vigente. Para se concluir de forma diversa, seria necessária a análise dessa legislação infraconstitucional. Assim, a pretensa ofensa à Constituição da República, se tivesse ocorrido, seria indireta.
+    Nesse sentido, os seguintes julgados:
+    “EMENTA: EMBARGOS DECLARATÓRIOS CONTRA ACÓRDÃO QUE NEGOU PROVIMENTO A AGRAVO REGIMENTAL, NO QUAL SE DISCUTIU ACERCA DO PRAZO DECADENCIAL PARA O AJUIZAMENTO DE AÇÃO RESCISÓRIA. A DECISÃO EMBARGADA, À LUZ DA JURISPRUDÊNCIA DESTA COLENDA CORTE, AFIRMOU NÃO SER CASO DE OFENSA DIRETA À CARTA MAGNA. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE. Vícios inexistentes, explicitada que se acha no acórdão embargado a ausência dos aludidos pressupostos do recurso extraordinário. Pretensão de se renovar o julgamento do regimental, não se mostrando, para isso, adequada a via adotada. Embargos rejeitados” (AI 417.114-AgR-ED, Rel. Min. Carlos Britto, Primeira Turma, DJ 30.4.2004).
+    E:
+    “EMENTA: Agravo regimental em agravo de instrumento. 2. Agravo de instrumento que versa sobre prazo decadencial para propositura de ação rescisória. Ofensa reflexa. 3. Razões do agravo regimental dissociadas dos fundamentos desenvolvidos na decisão recorrida. 4. Súmula 284/STF. 5. Agravo regimental a que se nega provimento” (AI 437.138-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 6.8.2004).
+    E ainda: AI 435.981-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 4.8.2006; RE 385.171-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 5.11.2004; e AI 435.587-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 7.5.2004.
+    Nada há, pois, a prover quanto às alegações da parte agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Na peça de folha 2041 a 2066, a agravante insiste na natureza constitucional da controvérsia e na circunstância de a rescisória haver sido ajuizada após o decurso do prazo decadencial. Evoca precedentes do Supremo.
+    À folha 2078, a Ministra Cármen Lúcia declarou-se suspeita, por motivo de foro íntimo, sendo o agravo a mim redistribuído.
+    2. Na interposição deste agravo, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por profissionais da advocacia regularmente constituídos, foi protocolada no prazo legal.
+    Observem a organicidade e a dinâmica do Direito. Se surgirem, no processo, conflitos de interesses autônomos, é possível a acumulação de pedidos. Muito embora isso não seja a praxe, o jurisdicionado pode reconhecer a sintonia de pronunciamento, considerada certa controvérsia, com a ordem jurídica, vindo, então, a protocolar recurso parcial. Assim ocorrendo, a ordem natural das coisas e a disciplina própria ao Direito revelam a preclusão maior quanto ao que decidido e não impugnado.
+    Dessa forma não entendeu o Superior Tribunal de Justiça, que admitiu a ação rescisória depois de passados dois anos da decisão proferida, contra a qual o ora agravado não se teria insurgido. Estaria configurada a mitigação de ato jurídico perfeito e acabado por excelência que é a coisa julgada, base maior do afastamento do descompasso que abalou a paz social.
+    3. Ante o quadro, reconsidero a decisão que implicou o desprovimento do agravo, para que o recurso extraordinário seja processado.
+    4. Uma vez recebido o processo, autuem o extraordinário, distribuindo-o por prevenção – provimento do agravo de instrumento –, apensando os autos deste agravo e colhendo o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília, 24 de outubro de 2011.
+Ministro MARCO AURÉLIO
+Relator
