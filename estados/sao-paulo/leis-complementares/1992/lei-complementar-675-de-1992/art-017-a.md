@@ -1,0 +1,6 @@
+Artigo 17-A - Ao se aposentar, o policial civil receberá carteira funcional com indicação dessa condição, que lhe dará direito ao porte permanente de arma de fogo. (NR)
+Parágrafo único - Será recolhida a carteira funcional nas seguintes hipóteses: (NR)
+I - morte do policial; (NR)
+II - cassação da aposentadoria; (NR)
+III - uso indevido da arma; (NR)
+IV - conduta incompatível com a condição de policial civil aposentado. (NR)

@@ -1,0 +1,1 @@
+Artigo 3° - Os cargos vagos existentes na data da publicação desta lei complementar serão enquadrados nas classes das respectivas carreiras policiais de acordo com a quantidade a ser fixada no decreto a que se refere o artigo 3° desta lei complementar.

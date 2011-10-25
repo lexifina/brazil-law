@@ -1,0 +1,2 @@
+Artigo 4° - Fica assegurada aos candidatos aprovados e remanescentes do último concurso de ingresso nas carreiras policiais civis, até que seja expirado o seu prazo de validade, a nomeação para cargo de 4ª Classe, desde que cumpridas todas as etapas previstas nos respectivos Editais e Regulamento da Academia de Polícia até então em vigor.
+Parágrafo único - Os policiais civis nomeados na forma deste artigo só poderão concorrer à promoção por merecimento após 3 (três) anos contados da data da respectiva nomeação.

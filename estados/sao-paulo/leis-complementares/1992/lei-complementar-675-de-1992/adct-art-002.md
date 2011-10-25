@@ -1,0 +1,5 @@
+Artigo 2° - As promoções por antigüidade e por merecimento dos titulares de cargos e dos ocupantes de funções-atividades das carreiras policiais civis, não processadas até a data da publicação desta lei, ficam substituídas por promoção a ser executada na seguinte conformidade:
+I - no prazo de 30 (trinta) dias, contados da data da publicação desta lei complementar, poderão ser promovidos, por antigüidade, às 4ª, 3ª, 2ª e 1ª Classes e Classe Especial da respectiva carreira, até 30% (trinta por cento) da quantidade global dos seus integrantes, existentes na data da abertura do processo seletivo especial de promoção;
+II - a classificação será geral e única para cada carreira policial civil e determinada pelo tempo de efetivo exercício, até 28 de fevereiro de 1991, na respectiva carreira policial;
+III - a promoção será feita para qualquer classe, desde que o tempo de efetivo exercício na respectiva carreira, apurado até 28 de fevereiro de 1991, seja superior à soma dos interstícios necessários para atingir aquela classe, respeitado o limite percentual fixado no inciso I e obedecida a ordem de classificação por antigüidade.
+Parágrafo único - Vetado.
