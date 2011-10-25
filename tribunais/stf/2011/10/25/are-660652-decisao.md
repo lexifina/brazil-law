@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão, cuja ementa segue transcrita:
+    “EMPREGADO PÚBLICO DE FUNDAÇÃO PÚBLICA. ESTABILIDADE. ART. 41 DA CONSTITUIÇÃO DA REPÚBLICA. -O servidor público celetista da administração direta, autárquica ou fundacional é beneficiário da estabilidade prevista no artigo 41 da Constituição da República- (Incidência da Súmula 390, item I, do TST). Recurso de Revista de que se conhece e a que se dá provimento” (fl. 598).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 41 da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido está em harmonia com a jurisprudência desta Corte no sentido de que a estabilidade prevista no caput do art. 41 da Constituição Federal, na redação anterior à EC 19/98, alcança todos os servidores da administração pública direta e das entidades autárquicas e fundacionais, incluindo os empregados públicos aprovados em concurso público, porém, desde que tenham cumprido o estágio probatório antes do advento da referida emenda. Nesse sentido:
+    “1. RECURSO. Agravo de instrumento. Ofensa constitucional. Caracterização. Recurso conhecido. Deve ser conhecido agravo de instrumento quando a questão de fundo é eminentemente constitucional, mas sem que isso implique consistência do recurso extraordinário. 2. RECURSO. Extraordinário. Inadmissibilidade. Ofensa ao art. 41 da Constituição Federal. Inexistência. Empregado público. Aprovação em concurso público e cumprimento do estágio probatório antes da EC 19/98. Estabilidade. Precedentes. Agravo regimental não provido. Faz jus à estabilidade prevista no art. 41 da Constituição Federal, em sua redação original, o empregado público que foi aprovado em concurso público e cumpriu o período de estágio probatório antes do advento da EC nº 19/98.” (AI 510.994-AgR/SP, Rel. Min. Cezar Peluso – grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
