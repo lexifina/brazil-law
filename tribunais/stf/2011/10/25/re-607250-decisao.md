@@ -1,0 +1,14 @@
+DECISÃO : vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 172):
+    “CONSTITUCIONAL E ADMINISTRATIVO. DEFENSOR DATIVO. ISONOMIA. DEFENSOR PÚBLICO. IMPOSSIBILIDADE PELA AUSÊNCIA DE VÍNCULO COM A ADMINISTRAÇÃO. INEXISTÊNCIA DE DIREITO DE OPÇÃO. ART. 22, ADCT/88 E ART. 137 DA LC 80/94.
+    1. Os defensores dativos, nomeados na forma do Provimento nº 210/81 do Conselho da Justiça Federal, não possuem o direito de opção para o cargo de Defensor Público, previsto no art. 22 do ADCT e no art. 137 da Lei Complementar nº 80/94, uma vez que não exerciam cargo público, sendo que suas designações não geraram vínculo funcional entre o advogado e a Administração Pública.
+    2. Apelação não provida.”
+    2. Pois bem, a parte recorrente alega ofensa ao art. 22 do ADCT.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina “pelo não-conhecimento do recurso extraordinário; caso conhecido, pelo desprovimento”.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o aresto recorrido afina com o entendimento adotado pela Primeira Turma desta nossa Casa de Justiça no julgamento do RE 205.168, da relatoria do ministro Moreira Alves. Na ocasião, ficou consignado que é exigida a qualidade de servidor público para investidura na função de defensor público em decorrência da opção prevista no art. 22 do ADCT. Leia-se, a propósito, a ementa do julgado:
+    “Contratado por prestadora de serviços que, em virtude de convênio entre esta e o Estado, foi posto a serviço deste e então colocado para exercer a função de defensor público até a data em que foi instalada a Assembléia Nacional Constituinte. Art. 22 do ADCT da Constituição Federal. - O Plenário desta Corte, ao julgar o RE 161.712, decidiu, por maioria de votos, que ‘servidor investido na função de defensor público até a data em que foi instalada a Assembléia Nacional Constituinte tem direito à opção pela carreira, independentemente da forma da investidura originária. Interpretação do artigo 22 do ADCT’. - Falta ao recorrido um dos requisitos indispensáveis para a opção prevista no artigo 22 do ADCT da Constituição Federal segundo a orientação adotada pelo Plenário desta Corte: a qualidade de servidor público, ainda que independentemente da forma da investidura originária, para poder fazer a opção entre sua situação funcional antes do exercício da função de defensor público e a carreira deste. Recurso extraordinário conhecido e provido.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro AYRES BRITTO
+Relator
