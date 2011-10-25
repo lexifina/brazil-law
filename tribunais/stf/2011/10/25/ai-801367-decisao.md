@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento remetido ao Tribunal de Justiça do Estado de Minas Gerais, por meio do despacho de fl. 73, que determinou a devolução dos autos para que se cumpra o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no recurso está representada na sistemática da repercussão geral no tema 41, no RE-RG 563.965.
+    Chegando ao Tribunal a quo, os autos foram reenviados ao STF, sob a alegação de que a questão do processo trata de tema diverso do processo paradigma ao qual foi vinculado.
+    Decido.
+    Após detida análise, verifico que a vinculação ao precedente indicado, RE-RG 563.965, está equivocada, tendo em vista que a matéria debatida nestes autos é diversa da controvérsia do paradigma citado, motivo pelo qual reconsidero o despacho de devolução (fl. 73) e passo ao julgamento do recurso.
+    Trata-se de agravo de instrumento contra a decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AÇÃO ORDINÁRIA – SERVIDORES PÚBLICOS – GRATIFICAÇÃO ESPECIAL – INCORPORAÇÃO – INOCORRÊNCIA. Não tendo a Lei Estadual nº 11.728/94 suprimido a gratificação especial de que trata a Lei nº 9529/87, deve a mesma ser assegurada ao servidor aposentado ou da ativa, ocupante de cargo em comissão. Não havendo ocorrido a referida supressão pela citada Lei Estadual, não foi negado o direito dos autores, não havendo que se falar em prescrição do fundo de direito, mas tão somente das parcelas vencidas há mais de cinco (05) anos da propositura da ação”. (fl. 11)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente aponta violação aos arts. 2º; 37, caput, XIV; 93, IX e 169, do Texto Constitucional.
+    O recorrente defende, em síntese, a nulidade do acórdão recorrido por negativa de prestação jurisdicional e ausência de fundamentação. Ademais, sustenta violação ao princípio da legalidade. Além disso, aduz que a concessão da gratificação, conforme consignada no acórdão recorrido, gera efeito cascata. Por fim, alega violação ao princípio da autonomia dos Poderes e da vedação de despesa pública sem a devida dotação orçamentária.
+    Não assiste razão ao recorrente.
+    Verifico que o acórdão recorrido decidiu a causa com fundamento na legislação infraconstitucional (Leis 9.529/1987 e 11.725/1994 do Estado de Minas Gerais) e entendeu que a Lei 11.725/1994 não revogou a gratificação especial dos servidores ocupantes de cargo em comissão instituída pela Lei estadual 9.529/1987. Assim, para se entender de forma distinta, seria necessária a análise da legislação local, o que é vedado pela Súmula 280 do STF, conforme a pacífica jurisprudência desta Corte.
+     Nesse sentido, cito precedentes de ambas as Turmas desta Corte, assim ementados:
+    “AGRAVO REGIMENTAL. SERVIDOR PÚBLICO ESTADUAL. GRATIFICAÇÃO ESPECIAL PARA OCUPANTES DE CARGOS OU FUNÇÕES COMISSIONADAS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE DIREITO LOCAL. O Tribunal a quo decidiu a questão em debate com base na interpretação dada às Leis estaduais 11.728, de 1994 e 9.529, de 1987. Assim, para se chegar a conclusão diversa, seria necessária a análise de norma local, o que não é permitido em recurso extraordinário, à luz da Súmula 280 desta Corte. Agravo regimental a que se nega provimento.”
+(AI-AgR 490.312, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 16.6.2006)
+    “SERVIDOR PÚBLICO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. Precedentes. II - Agravo regimental improvido”. (AI-AgR 689.921, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 20.2.2009).
+     Cito, ainda, as seguintes decisões monocráticas: AI 792.827/MG, Rel. Min. Ministra Cármen Lúcia, DJe 5.5.2010; AI 786.474/MG, Rel. Min. Ministra Cármen Lúcia, DJe 9.4.2010; AI 718478, Rel. Min. Dias Toffoli, DJe 12.8.2010.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º do RISTF e art. 557, caput do Código de Processo Civil).
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente .
