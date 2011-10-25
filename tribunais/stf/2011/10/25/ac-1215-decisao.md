@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Cuida-se de ação cautelar proposta pela Akzo Nobel Ltda (sucessora da Oxylin Indústria e Comércio Ltda) em face da União, com o objetivo de conferir efeito suspensivo ao recurso extraordinário nº 505.548/SP, no sentido se suspender a exigibilidade dos valores relativos à diferença proveniente dos recolhimentos que a requerente fez a título de CONFINS, conforme LC nº 70/91, e que deveria ser recolhido pela aplicação da Lei nº 9.718/98.
+    No processo principal, proferi decisão de mérito, cujos fundamentos transcrevo:
+    “Anote-se, inicialmente, que o acórdão recorrido foi publicado em 5/10/05, como expresso na certidão de folha 344, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação merece prosperar, em parte.
+    Ressalte-se, inicialmente, que o Plenário deste Supremo Tribunal Federal, na sessão de 10/9/08, ao apreciar Questão de Ordem no Recurso Extraordinário nº 585.235/MG, Relator o Ministro Cezar Peluso, reconheceu a existência de repercussão geral da matéria referente à base de cálculo do PIS e da COFINS e reafirmou a jurisprudência desta Corte acerca do tema.
+    No julgamento do RE nº 527.602/SP, Relator para o acórdão o Ministro Marco Aurélio, por sua vez, o Plenário deste Supremo Tribunal Federal reafirmou a jurisprudência assentada no julgamento dos Recursos Extraordinários nºs 346.084/PR, Relator o Ministro Ilmar Galvão, DJ de 1º/9/06, e 357.950/RS, 358.273/RS e 390.840/SC, Relator o Ministro Marco Aurélio, DJ de 15/8/06, no sentido da inconstitucionalidade do artigo 3o, § 1o, da Lei nº 9.718/98, por entender que a ampliação da base de cálculo da contribuição ao PIS e da COFINS, na forma prevista no referido dispositivo legal, violou a redação original do artigo 195, inciso I, da Constituição Federal, e declarou a constitucionalidade do artigo 8º da mencionada lei.
+    Dessa forma, ao julgar constitucional a ampliação da base de cálculo da COFINS, promovida pelo artigo 3º, § 1º, da Lei nº 9.718/98, o Tribunal de origem divergiu da orientação fixada pelo Plenário desta Corte.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento parcial para, reformando o acórdão recorrido, reafirmar a jurisprudência desta Corte no sentido da inconstitucionalidade do artigo 3º, § 1º, da Lei nº 9.718/98, ficando garantido ao recorrente o direito de recolher a COFINS com base na legislação anterior disciplinadora da referida exação. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+    Determino o desapensamento da Ação Cautelar nº 1.215/SP, a qual, oportunamente, deverá retornar para decisão.”
+    É o relatório.
+    A natureza da cautelar está precisamente na conservação de direitos ou situações fáticas, até que o mérito da controvérsia seja examinado na ação principaliter.
+    Em pesquisa realizada no Módulo de Acompanhamento Processual MAP, constata-se que o recurso extraordinário a que se pretende conferir efeito suspensivo, RE nº 505.548/SP, transitou em julgado em 6/12/2010.
+    Tem-se por evidente a perda superveniente de interesse processual no prosseguimento da cautelar, ante a decisão proferida no recurso extraordinário, por meio da qual se reconheceu o direito de recolher a CONFINS com base em legislação anterior.
+    É assente nesta Corte o posicionamento acerca da prejudicialidade desta espécie de ação quando do julgamento do feito principal, citando-se para exemplificar a ementa do seguinte precedente:
+    “Agravo regimental. Ação cautelar. Recurso extraordinário. Efeito suspensivo. Perda de objeto. 1. O agravo de instrumento, autuado nesta Corte sob o nº 700.329, interposto contra a decisão que não admitiu o recurso extraordinário, ao qual pretende o agravante seja conferido efeito suspensivo, foi desprovido, por decisão de minha relatoria, em 22/4/08. Dessa decisão, foi interposto agravo regimental, desprovido por acórdão desta Primeira Turma em 11/11/08, conforme se pode verificar no sítio eletrônico do Supremo Tribunal Federal. Destarte, perdeu objeto a cautelar. 2. Agravo regimental desprovido (AC nº 2000/SP-AgR, Relator o Ministro Menezes Direito, Primeira Turma, DJe de 13/3/09)”.
+    Nesse sentido, ainda, confiram-se os arestos proferidos na AC nº 2.006/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 6/2/09 e AC nº 2008/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 6/6/08.
+    Ante o exposto, julgo prejudicada a presente ação cautelar por perda superveniente de seu objeto (artigo 21, IX, RISTF).
+    Publique-se. Arquive-se.
+    Brasília, 25 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
