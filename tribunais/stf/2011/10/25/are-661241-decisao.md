@@ -1,0 +1,17 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUTORIDADE COATORA. PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS. LEGITIMIDADE PASSIVA.
+    1. A autoridade coatora no mandado de segurança não é somente aquela que emitiu determinação ou ordem para certa providencia administrativa a ser implementada por outra autoridade, mas, também, a que executa diretamente o ato. Precedentes.
+    2. Na hipótese, a presente impetração não se volta contra o entendimento firmado na orientação normativa eficaz exarada pelo TCU, mas sim em desfavor de ato da competência do Presidente do Tribunal Distrital.
+    3. Cabe ao Presidente do Tribunal de Justiça do Distrito Federal e Territórios responder como autoridade coatora em mandado de segurança no qual se questiona a supressão de vantagem (VRD). Precedentes.
+    4. Agravo regimental improvido” (fl. 416).
+    No RE, fundado no art. 102, III, a, b, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV, 37, caput, 71, 74, 102, I, d, da mesma Carta.
+    O agravo não merece acolhida.
+    Verifica-se, preliminarmente, que, com exceção do art. 71, os demais dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento.
+    Além disso, para dissentir da conclusão adotada pelo acórdão recorrido, no que se refere à legitimidade do Presidente do Tribunal de Justiça do Distrito Federal e Territórios para figurar no polo passivo da ação de mandado de segurança, seria necessária a análise da legislação infraconstitucional. É que a controvérsia diz respeito ao cabimento da via mandamental, matéria disciplinada pela Lei 12.016/09. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões: AI 706.249/SC, Rel. Min. Gilmar Mendes e RE 380.544-AgR/DF, Rel. Min. Ayres Britto, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. LEGITIMIDADE DA AUTORIDADE TIDA POR COATORA PARA FIGURAR NO PÓLO PASSIVO DA AÇÃO DE MANDADO DE SEGURANÇA. CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido”.
+    Por fim, observa-se que a recorrente não demonstrou de que forma o acórdão recorrido teria declarado a inconstitucionalidade de tratado ou lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
