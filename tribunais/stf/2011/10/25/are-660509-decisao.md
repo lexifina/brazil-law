@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “RECURSO INOMINADO. SUSPENSÃO DE AUMENTO DE MENSALIDADES DE PLANO DE SAÚDE – GEAP – FUNDAÇÃO DE SEGURIDADE SOCIAL. PRELIMINAR DE INCOMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL REJEITADA. ILEGALIDADE DA RESOLUÇÃO GEAP/CONDEL Nº 418/2008, NO TOCANTE A FIXAÇÃO DE CONTRIBUIÇÃO PARA FINANCIAMENTO DO PLANO, A PARTIR DO CRITÉRIO DE VALORES FIXOS POR BENEFICIÁRIO, EM SUBSTITUIÇÃO A ANTERIOR FIXAÇÃO DE CONTRIBUIÇÃO PROPORCIONAL
+    (...)” (fl. 393).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida. É que a recorrente não demonstrou na petição de recurso extraordinário de que forma os mencionados dispositivos constitucionais foram violados. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Ainda que superado tal óbice, o recurso não prosperaria. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
