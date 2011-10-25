@@ -1,0 +1,12 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA – JUÍZO DE DIREITO E SUPERIOR TRIBUNAL DE JUSTIÇA – INADMISSIBILIDADE.
+    1. Trata-se de conflito negativo de competência entre o Juízo do Trabalho de Itajubá/MG e o Juízo da 2ª Vara Cível da aludida Comarca, que veio ao Supremo em razão da alínea “o” do inciso I do artigo 102 da Constituição Federal. O Superior Tribunal de Justiça, defrontando-se com conflito negativo suscitado pelo Juízo do Trabalho, assentou a competência do Juízo de Direito para apreciar a causa. A ação de indenização foi formalizada em face de Mohallem Engenharia Ltda., postulando o interessado o pagamento de danos materiais e morais decorrentes de acidente de trabalho.
+    Na decisão de folha 449 do apenso 3, o Juízo da 2ª Vara Cível da Comarca de Itajubá/MG declina da competência, acentuando a revisão jurisprudencial efetuada pelo Supremo no Conflito de Competência nº 7.204/MG, relator Ministro Ayres Britto, acórdão publicado no Diário da Justiça de 9 de dezembro de 2005. Aponta a nova redação do artigo 114 da Carta da República, atribuída pela Emenda Constitucional nº 45/2004, e assinala que o processo está pendente de julgamento de mérito.
+    O Procurador-Geral da República, em parecer, afirma caber à Justiça do Trabalho a apreciação da matéria, ante o advento da Emenda Constitucional nº 45/2004 e a inexistência de decisão de mérito, conforme entendimento adotado pelo Supremo no mencionado conflito de competência.
+    2. Constato que o presente conflito foi instaurado pelo Juízo de Direito da 2ª Vara Cível de Itajubá/MG, sucessivamente ao acórdão proferido pelo Superior Tribunal de Justiça.
+    Atentem para a instrumentalidade e a organicidade própria ao direito instrumental. Descabe a juízo de direito inobservar pronunciamento de tribunal superior, ao qual se encontra hierarquicamente vinculado, a pretexto de ter ocorrido modificação na jurisprudência do Supremo sobre a matéria. Incumbia aos interessados buscar a reforma da decisão mediante as vias pertinentes. No mais, a hipótese versada no conflito não se enquadra na competência versada no artigo 102, inciso I, alínea “o”, da Carta, porque não se trata de divergência entre o Superior Tribunal de Justiça e outro tribunal.
+    3. Ante o exposto, não conheço do conflito. Devolvam o processo ao Juízo de Direito da 2ª Vara Cível de Itajubá/MG.
+    4. Publiquem.
+Brasília, 25 de outubro de 2011.
+Ministro MARCO AURÉLIO
+Relator
