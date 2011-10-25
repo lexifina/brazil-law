@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 22):
+    “TRIBUTÁRIO. AÇÃO DE EXECUÇÃO FISCAL. EMBARGOS DO DEVEDOR. LEGITIMIDADE DA INCIDÊNCIA DE ICMS SOBRE A ENTRADA DE MERCADORIA IMPORTADA DO EXTERIOR, AINDA QUANDO SE TRATAR DE BEM DESTINADO AO ATIVO FIXO DO ESTABELECIMENTO. A CORREÇÃO MONETÁRIA DAS OBRIGAÇÕES TRIBUTÁRIAS DEVE SEMPRE OCORRER - ART. 73, DA LEI ESTADUAL Nº 6.537/73. LEGÍTIMA E LEGAL A INSTITUIÇÃO DA TRD E DA UFIR COMO ÍNDICE DE ATUALIZAÇÃO MONETÁRIA. EXTINTO UM INDEXADOR, A CORREÇÃO PASSA A OCORRER POR OUTRO INDEXADOR OFICIAL. A MULTA É DEVIDA E INCIDE SOBRE O DÉBITO MONETARIAMENTE ATUALIZADO. CONSTITUÍDO DEFINITIVAMENTE O CRÉDITO, INOCORRE A RETROAÇÃO PREVISTA NO ART. 106, INCISO II, ‘C’, DO CTN, QUE TRATA DA AUSÊNCIA DE DECISÃO DEFINITIVA, NA INSTÂNCIA ADMINISTRATIVA. APELAÇÃO IMPROVIDA.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso I do art. 153, à alínea “a” do inciso IX e inciso I do § 2º do art. 155 da Magna Carta.
+    3. A seu turno, o Superior Tribunal de Justiça, ao julgar o recurso especial interposto simultaneamente ao recurso extraordinário que ora se examina, acolheu parcialmente a pretensão da parte recorrente no tocante à multa moratória aplicada e ao índice de correção monetária. No ponto, o apelo extremo perdeu o objeto.
+    4. Quanto à questão remanescente, tenho que a insurgência não merece acolhida. É que o aresto impugnado afina com a jurisprudência desta nossa Casa de justiça, que me parece juridicamente correta, quanto à impossibilidade de compensação de créditos de ICMS em decorrência da aquisição de bens destinados ao consumo ou à integração no ativo fixo do estabelecimento, anteriormente ao advento da Lei Complementar 87/1996.
+    5. Precedentes: AIs 494.950-AgR, da relatoria do ministro Carlos Velloso; 537.061, da relatoria do ministro Marco Aurélio; e 544.488, da relatoria do ministro Cezar Peluso; bem como REs 334.819 e 433.575-AgR, da relatoria do ministro Sepúlveda Pertence; e 400.782, da relatoria do ministro Cezar Peluso.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de outubro de 2011.
+Ministro AYRES BRITTO
+Relator
