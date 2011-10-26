@@ -1,0 +1,3 @@
+Art. 19-M. A assistência terapêutica integral a que se refere a alínea d do inciso I do art. 6º consiste em:
+I - dispensação de medicamentos e produtos de interesse para a saúde, cuja prescrição esteja em conformidade com as diretrizes terapêuticas definidas em protocolo clínico para a doença ou o agravo à saúde a ser tratado ou, na falta do protocolo, em conformidade com o disposto no art. 19-P;
+II - oferta de procedimentos terapêuticos, em regime domiciliar, ambulatorial e hospitalar, constantes de tabelas elaboradas pelo gestor federal do Sistema Único de Saúde - SUS, realizados no território nacional por serviço próprio, conveniado ou contratado.
