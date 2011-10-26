@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, incisos I e II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “Administrativo. Concurso público. Polícia Militar - MG. Exame. audiométrico. Contra-indicação. Descabimento. Provas produzidas. A contra-indicação de candidato em concurso público destinado ao provimento de cargos da Polícia Militar de Minas Gerais, no exame audiométrico, não prevalece, quando é contrariada por outros elementos de prova produzidos. Recurso não provido.” (fl. 210).
+    Opostos embargos de declaração (fls. 217 a 223), foram rejeitados (fls. 226 a 228).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Colhe-se do voto condutor do acórdão recorrido:
+    “Na espécie, o item 4.7 do edital, ao tratar dos exames de sanidade física e mental, reporta-se à Resolução Conjunta n° 3.692, de 2002, que dispõe sobre as inspeções e perícias de saúde na Polícia Militar (f. 28-T J). Esta resolução contém a relação das doenças e alterações incapacitantes para admissão do candidato no exercício do cargo policial.
+    A teor das cópias dos documentos de f. 18 a 98-TJ, o apelado foi considerado inapto para o exercício do cargo de soldado da Polícia Militar de Minas Gerais, no exame· médico de audiometria.
+    Todavia, consoante a prova documental de f . 123/128 e 139-TJ, verifico que o requerente posteriormente foi considerado apto em todos os exames preliminares e complementares de saúde, incluído o de audiometria, do, concurso promovido segundo o Edital n° 07/2006.
+    Nesse sentido é o exame de f. 15-TJ.
+    Logo, a partir desses elementos de prova, concluo que a contra-indicação do requerente em exame de audiometria não prevalece, tendo em vista que foi contrariada por outros elementos probatórios.
+    Em reexame necessário, confirmo a sentença, prejudicado o recurso voluntário” (fls. 197/198).
+    Nesse caso, para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão do recorrente seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame dos fatos e provas que compõem a lide, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. REPROVAÇÃO EM EXAME MÉDICO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. POSSIBILIDADE DE EXIGÊNCIA DE EXAME MÉDICO QUANDO PREVISTO EM LEI E COM A ADOÇÃO DE CRITÉRIOS OBJETIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 593.873/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/09).
+    “Agravo regimental em agravo de instrumento. 2. Concurso público. Polícia Civil. Teste de aptidão física. 3. Matéria restrita ao âmbito da legislação infraconstitucional. Precedente. 4. Agravo regimental a que se nega provimento”. (AI n° 406.098/PR-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 1°/2/08);
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAMES MÉDICOS. REPROVAÇÃO. OFENSA INDIRETA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 279. I - Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora. II - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. III - A exigência do art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. IV - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. V - Ausência de novos argumentos. VI - Agravo regimental improvido” (AI nº 610.149/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 14/11/07);
+    “1. Recurso extraordinário: descabimento: debate restrito ao plano normativo estadual (exame dos procedimentos adotados para a exclusão ou baixa de militares, nos termos da L. 5.301/69): incidência da Súmula 280.
+    2. Recurso extraordinário: inviabilidade para o reexame dos fatos da causa, que devem ser considerados na versão do acórdão recorrido (Súmula 279): precedentes.
+    3. Agravo regimental: necessidade de impugnação de todos os fundamentos da decisão agravada (RISTF, art. 317, § 1º)” (AI nº 446.197/MG-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 18/3/05).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 26 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
