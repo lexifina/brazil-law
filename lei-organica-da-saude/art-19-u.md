@@ -1,0 +1,1 @@
+Art. 19-U. A responsabilidade financeira pelo fornecimento de medicamentos, produtos de interesse para a saúde ou procedimentos de que trata este Capítulo será pactuada na Comissão Intergestores Tripartite.
