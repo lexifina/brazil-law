@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO ORDINÁRIA. ADMINISTRATIVO. SERVIDORES DO INSTITUTO ESTADUAL DE FLORESTAS. PEDIDO DE REAJUSTE DE 10%, DE ACORDO COM O DEC. EST. 36.829/95. PREJUDICIAL DE MÉRITO. INOCORRÊNCIA DA PRESCRIÇÃO DO FUNDO DE DIREITO. SÚMULA 85 do Superior Tribunal de Justiça. RECONHECIMENTO DA PRESCRIÇÃO QÜINQÜENAL DAS PARCELAS VENCIDAS ANTES DOS CINCO ANOS ANTERIORES À PROPOSITURA DA AÇÃO. O reajuste geral de 10%, referido no Decreto 36.829/95, estende-se aos servidores do Instituto Estadual de Florestas (IEF), como integrantes de um dos quadros especiais mencionados no Decreto 36.033/94, ao qual aquele primeiro Decreto faz remissão expressa” (fl. 144).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, X, da mesma Carta.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional local aplicável à espécie (Decretos Estaduais 36.033/94, 36.829/95 e Lei 10.961/92). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 731.759/MG, Rel. Min. Marco Aurélio; AI 801.199/MG, e AI 729.137-AgR/MG Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE VENCIMENTOS. DECRETO N. 36.829/95. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
