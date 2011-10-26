@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1202, de 19 de outubro de 2011
+Aprova a V Emenda à Nomenclatura do Sistema Harmonizado de Designação e de Codificação de Mercadorias e dá outras providências
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, em face da competência que lhe foi delegada pelo art. 2º do Decreto nº 766, de 3 de março de 1993, e tendo em vista a Recomendação do Conselho de Cooperação Aduaneira de 26 de junho de 2009, resolve:
