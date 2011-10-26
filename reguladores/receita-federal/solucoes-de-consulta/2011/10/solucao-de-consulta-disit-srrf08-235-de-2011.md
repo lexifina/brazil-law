@@ -1,0 +1,12 @@
+Solução de Consulta Disit/SRRF08 nº 235, de 22 de setembro de 2011
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+NÃO-CUMULATIVIDADE. DIREITO DE CRÉDITO. INSUMOS. AQUISIÇÃO DE PARTES E PEÇAS DE REPOSIÇÃO E SERVIÇOS DE MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS. Os valores referentes à aquisição de partes e peças de reposição e aos serviços prestados para manutenção das máquinas e equipamentos empregados na produção de bens destinados à venda, podem compor a base de cálculo dos créditos a serem descontados da Cofins não-cumulativa, desde que essas partes e peças não sejam incorporados ao ativo imobilizado da empresa.
+Dispositivos Legais: Lei 10.833, de 2003, art. 3°, inciso II; IN SRF n° 404, de 2004, art. 8°, § 4°, I.
+Assunto: Contribuição para o PIS/Pasep
+NÃO-CUMULATIVIDADE. DIREITO DE CRÉDITO. INSUMOS. AQUISIÇÃO DE PARTES E PEÇAS DE REPOSIÇÃO E SERVIÇOS DE MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS. Os valores referentes à aquisição de partes e peças de reposição e aos serviços prestados para manutenção das máquinas e equipamentos empregados na produção de bens destinados à venda, podem compor a base de cálculo dos créditos a serem descontados da Contribuição para o PIS/Pasep não-cumulativo, desde que essas partes e peças não sejam incorporados ao ativo imobilizado da empresa.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 3º, inciso II; IN SRF 247, de 2002, art. 66, § 5°, I Assunto:
+Processo Administrativo Fiscal
+É ineficaz a consulta, não produzindo efeitos, quando não versar sobre a interpretação de dispositivos da legislação tributária. O processo de consulta de que tratam os arts. 48 a 50 da Lei nº 9.430, de 1996, e arts. 43 a 56 do Decreto nº 70.235, de 1972, presta-se unicamente a fornecer ao sujeito passivo a interpretação adotada pela RFB para determinada norma tributária, a qual discipline situações por ele enfrentadas e cujo sentido não lhe seja claro. Dada a finalidade para a qual está voltado, o processo de consulta não é o meio adequado para esclarecer dúvidas relativas a questões práticas e operacionais sobre a forma correta de proceder à apropriação de créditos (segundo a sistemática da não cumulatividade da contribuição para o PIS/Pasep e a Cofins) que deixaram de ser contabilizados a seu tempo, ou seja, apropriação extemporânea dos referidos créditos. Para tal fim, a RFB mantém em sua unidade os serviços de orientação denominados "Plantão Fiscal".
+Dispositivos Legais: Decreto nº 70.235, de 1972, art. 52, I, c/c art. 46.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 235-2011.pdf]
