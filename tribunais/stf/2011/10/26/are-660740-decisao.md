@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Estado de Minas Gerais interpõe recurso extraordinário com agravo, com fundamento nas alíneas “a” do permissivo constitucional, contra acórdão do Superior Tribunal de Justiça, assim ementado:
+    “PROCESSO CIVIL – TR – CORREÇÃO MONETÁRIA – ÍNDICE APLICÁVEL.
+    1. A TR e a TRD são consideradas pelo STJ e pelo STF taxa remuneratória, trazendo em seus componentes não só a correção monetária, mas a taxa de juros, sendo imprestáveis para mera atualização de débito fiscal.
+    2. Recurso especial provido” (fls. 380).
+    Alega o recorrente contrariedade aos artigos 5º, XXXVI e 150, incisos III, “a”, ambos da Constituição Federal.
+    Decido.
+    A irresignação merece prosperar, uma vez que o acórdão recorrido divergiu do entendimento jurisprudencial desta Corte, que é pacifico no sentido da constitucionalidade da utilização da Taxa Referencial Diária - TRD como juros de mora incidentes sobre débitos tributários a partir de fevereiro de 1991, conforme disposto no art. 9º da Lei nº 8.177/91, alterado pelo art. 30 da Lei nº 8.218/91. Confira-se:
+    “Agravo Regimental em Recurso Extraordinário. 2. Afastamento da aplicação da TRD sobre débitos tributários. Impossibilidade. 3. Precedentes. 4. Negado provimento ao agravo” (RE 409.994-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 2.2.2007)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI N. 8.177/91, ALTERADA PELA LEI N. 8.218/91. INCIDÊNCIA DA TAXA REFERENCIAL DIÁRIA - TRD. IRRETROATIVIDADE. Medida provisória n. 294, que resultou na Lei n. 8.177/91, já determinava a incidência, a partir de fevereiro de 1991, da TRD sobre impostos, multas e demais obrigações fiscais e parafiscais. Lei n. 8.218/91, artigo 30. Aplicação retroativa. Inexistência. Agravo regimental não provido” (RE nº 282.066/RS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 15/4/05).
+    “Recurso extraordinário. TRD como juros de mora, instituída pelas Leis 8.177/91 e 8.218/91. Revela-se indireta a alegada ofensa aos artigos 150, III, "b" e 192, § 3º da CF, por demandar o prévio exame dessas leis. Ainda que assim não fosse, a tese esposada no extraordinário foi rejeitada pelo Plenário desta Corte no julgamento da ADIMC 835, rel. Min. Carlos Velloso. Agravo regimental desprovido” (RE n 230.098/PE-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 2/8/02).
+    No que diz respeito à Taxa Referencial - TR como índice de correção monetária nos débitos tributários, a jurisprudência desta corte também é pacífica no sentido de não ser vedada sua utilização como índice de correção, desde que posteriores a vigência da Lei nº 8.177/91. Nesse sentido, anote-se:
+    “EMENTA: CONSTITUCIONAL. CORREÇÃO MONETÁRIA. UTILIZAÇÃO DA TR COMO INDICE DE INDEXAÇÃO. I. - O Supremo Tribunal Federal, no julgamento das ADIns 493, Relator o Sr. Ministro Moreira Alves, 768, Relator o Sr. Ministro Marco Aurelio e 959-DF, Relator o Sr. Ministro Sydney Sanches, não excluiu do universo jurídico a Taxa Referencial, TR, vale dizer, não decidiu no sentido de que a TR não pode ser utilizada como indice de indexação. O que o Supremo Tribunal decidiu, nas referidas ADIns, e que a TR não pode ser imposta como indice de indexação em substituição a indices estipulados em contratos firmados anteriormente a Lei 8.177, de 01.03.91. Essa imposição violaria os princípios constitucionais do ato jurídico perfeito e do direito adquirido. C.F., art. 5., XXXVI. II. - No caso, não há falar em contrato em que ficara ajustado um certo indice de indexação e que estivesse esse indice sendo substituido pela TR. E dizer, no caso, não há nenhum contrato a impedir a aplicação da TR. III. - R.E. não conhecido” (RE 175.678, Relator(a): Min. CARLOS VELLOSO, Segunda Turma, DJ 04-08-1995)
+    Ante o exposto, conheço do agravo de instrumento e, desde já, dou provimento ao recurso extraordinário, para julgar improcedente o pedido inicial.
+     Condeno o recorrido no pagamento das custas e em honorários de advogado, nos termos do artigo 20, § 4º, do Código de Processo Civil, em 10% sobre o valor dado à causa.
+    Publique-se.
+    Brasília, 26 de outubro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
