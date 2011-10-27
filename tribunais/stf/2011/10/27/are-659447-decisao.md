@@ -1,0 +1,15 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. PROCESSO DISCIPLINAR CONTRA DELEGADO DA POLÍCIA CIVIL DO ESTADO DE GOIÁS. FALTA FUNCIONAL TAMBÉM CAPITULADA COMO CRIME. CONDENAÇÃO PENAL. PRAZO PRESCRICIONAL. PENA EM CONCRETO. ARTS. 109 E 110 DO CÓDIGO PENAL.
+    1. Segundo o art. 322, § 2º, da Lei Estadual n. 10.460/88, caracterizando o mesmo fato crime e ilícito administrativo, o prazo de extinção da punibilidade do delito se aplica à falta funcional.
+    2. Existindo sentença penal condenatória, o prazo da prescrição na esfera administrativa computa-se pela pena em concreto, nos termos dos arts. 109 e 110 do Código. Penal. Precedente da Terceira Seção deste Tribunal.
+    3. A independência das esferas civil, administrativa e penal diz respeito à punição, permitindo à Administração impor sanção ao servidor sem que haja anterior julgamento no âmbito criminal ou civil. Isso não impede, entretanto, que seja adotado o modelo de prescrição imposto no art. 110 do Código Penal.
+    4. Condenado o servidor à pena de 3 (três) anos de reclusão, a prescrição calculada com base na sanção aplicada ao caso concreto se dá em 8 (oito) anos, nos termos do art. 110, § 1º, c/c art. 109, inciso IV, ambos do Código Penal.
+    5. Segundo o § 1º do art. 322 da Lei n. 10.460/88, o termo inicial para a contagem do prazo prescricional é a data em que a falta for praticada. Por isso, passados mais de onze anos entre a suposta prática e a instauração do processo disciplinar, é imperioso reconhecer a prescrição”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º e 37 da mesma Carta.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Código Penal e Lei Estadual 10.460/88). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 641.021/MG, Rel. Min. Cármen Lúcia; AI 732.208-AgR/SP, Rel. Min. Joaquim Barbosa e AI 763.823-AgR/SP, de minha relatoria, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DESAPROPRIAÇÃO. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A Corte tem se orientado no sentido de que a discussão sobre o prazo prescricional demanda análise de legislação infraconstitucional, A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 27 de outubro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
