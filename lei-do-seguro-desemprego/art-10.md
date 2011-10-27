@@ -1,2 +1,2 @@
-Art. 10. É instituído o Fundo de Amparo ao Trabalhador (FAT), vinculado ao Ministério do Trabalho, destinado ao custeio do Programa de Seguro-Desemprego, ao pagamento do abono salarial e ao financiamento de programas de desenvolvimento econômico.
+Art. 10. É instituído o Fundo de Amparo ao Trabalhador (FAT), vinculado ao Ministério do Trabalho e Emprego, destinado ao custeio do Programa de Seguro-Desemprego, ao pagamento do abono salarial e ao financiamento de programas de educação profissional e tecnológica e de desenvolvimento econômico.
 Parágrafo único. O FAT é um fundo contábil, de natureza financeira, subordinando-se, no que couber, à legislação vigente.
