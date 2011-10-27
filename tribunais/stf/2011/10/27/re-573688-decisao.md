@@ -1,0 +1,14 @@
+DECISÃO : vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 28):
+    “REPRESENTAÇÃO POR INCONSTITUCIONALIDADE. A lei de iniciativa do legislativo municipal, que modifica a estrutura administrativa do município, não respeita o princípio da independência dos Poderes, uma vez que aquela iniciativa é privativa do Chefe do Poder Executivo Municipal. Competência do Tribunal de Justiça do Estado para conhecer da matéria. Preliminar rejeitada. Representação acolhida.”
+    2. Pois bem, a parte recorrente alega ofensa ao art. 2º, ao art. 61 e ao § 2º do art. 125 da Magna Carta de 1988. Sustenta que a Lei Municipal 3.174/2001 não dispõe “sobre criação, estruturação ou atribuições de qualquer órgão do Poder Executivo: apenas estabelecem parâmetros que serão observados na execução de tais atribuições” (sic, fls. 43).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo desprovimento do recurso.
+    4. Tenho que a insurgência não merece acolhida. No caso, o Tribunal carioca afirmou que a Lei Municipal 3.174/2001 trata de matéria afeta à competência exclusiva do chefe do Poder Executivo Municipal, pois, ao criar o Conselho Municipal de Trabalho, alterou a estrutura administrativa do Município e envolveu órgãos do Poder Executivo, inclusive da esfera estadual. Ora, para divergir desse entendimento seria necessária a análise da referida lei, providência que é vedada nesse momento processual conforme a Súmula 280/STF.
+    5. De mais a mais, anoto que o entendimento adotado pela instância judicante de origem afina com a jurisprudência desta nossa Casa de Justiça no sentido de que é da competência privativa do chefe do Poder Executivo a iniciativa de leis que versem sobre alteração e estrutura de órgão da Administração Pública. Leia-se, a propósito, a ementa do RE 627.255, da relatoria da ministra Cármen Lúcia:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSO LEGISLATIVO. LEI MUNICIPAL QUE DISPÕE SOBRE ATRIBUIÇÃO DE ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA. INICIATIVA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO”.
+    6. Nesse mesmo sentido, vejam-se os seguintes precedentes: RE 396.970-AgR, da relatoria do ministro Eros Grau, AIs 769.012, da relatoria do ministro Celso de Mello, 778.815, da relatoria do ministro Ricardo Lewandowski, ADIs 2.646, da relatoria do ministro Maurício Corrêa e 3.751, da relatoria do ministro Gilmar Mendes.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 27 de outubro de 2011.
+Ministro AYRES BRITTO
+Relator
