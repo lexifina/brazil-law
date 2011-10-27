@@ -1,0 +1,9 @@
+DECISÃO: A controvérsia jurídica objeto do recurso extraordinário a que se refere o presente agravo já foi dirimida pela colenda Segunda Turma do Supremo Tribunal Federal, que, ao julgar o RE 357.175- -AgR/MG, Rel. Min. GILMAR MENDES, fixou entendimento consubstanciado em acórdão assim ementado:
+    “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Decisão em consonância com a jurisprudência desta Corte. Imunidade tributária. Vedação de instituição de impostos sobre o patrimônio, renda e serviços relacionados com as finalidades essenciais das entidades. Artigo 150, VI, ‘c’ e § 4º, da Constituição. Entidade de assistência social. IPTU. Lote vago. Precedente. 4. gravo regimental a que se nega provimento.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte (AI 762.024/MG, Rel. Min. ELLEN GRACIE – RE 598.091-AgR/DF, Rel. Min. CELSO DE MELLO – RE 600.752/PR, Rel. Min. RICARDO LEWANDOWSKI – RE 632.022/MG, Rel. Min. AYRES BRITTO, v.g.), a propósito da mesma questão ora versada nesta sede recursal.
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para dar provimento ao recurso extraordinário a que ele se refere, em ordem a julgar procedente a ação ordinária ajuizada pela parte ora recorrente, eis que o acórdão objeto do apelo extremo está em confronto com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 27 de outubro de 2011.
+Ministro CELSO DE MELLO
+Relator
