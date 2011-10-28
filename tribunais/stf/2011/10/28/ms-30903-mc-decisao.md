@@ -1,0 +1,21 @@
+Decisão: Trata-se de mandado de segurança impetrado por Francisco das Chagas Aben-Athar Vieira contra ato do presidente da Câmara dos Deputados que destituiu o impetrante do cargo comissionado que ocupava naquela casa legislativa e lhe impôs pena de incompatibilidade para o serviço público pelo prazo de cinco anos.
+    O impetrante alega a ocorrência de nulidade insanável no processo administrativo disciplinar que resultou na dispensa. Segundo argumenta, a nulidade teria sido praticada ao não se determinar a juntada de cópia dos documentos produzidos durante a fase de sindicância aos autos do processo administrativo disciplinar. Esse fato teria cerceado o direito de defesa do impetrante, a quem não teria sido oferecida a oportunidade de contraditar as provas produzidas durante a sindicância.
+    O impetrante também sustenta que os fatos apurados no processo administrativo disciplinar não permitem chegar à capitulação adotada pela comissão processante e pela autoridade impetrada. Nessa linha de defesa, argumenta que a fundamentação adotada pela autoridade impetrada não conseguiu demonstrar obtenção de vantagem indevida pelo impetrante.
+    As informações prestadas pelo presidente da Câmara dos Deputados sustentam, preliminarmente, a incompetência deste Supremo Tribunal Federal para julgar o presente writ. Valem-se, nesse argumento, de jurisprudência recente desta Corte na qual teria sido afirmado que a competência deste Supremo Tribunal Federal para julgar o mandado de segurança contra ato do presidente da Câmara dos Deputados se configura apenas quando aquela autoridade pratica ato de natureza política em delegação ou representação de competência originalmente atribuída à Mesa daquela casa legislativa.
+    O presidente da Câmara dos Deputados sustenta, também, que o impetrante não demonstrou a natureza do prejuízo decorrente do suposto cerceamento de defesa, sendo impossível afirmar, da mera leitura da inicial, que se trataria de nulidade insanável.
+    As informações argumentam, ainda, que as alegações do impetrante só poderiam ser confirmadas mediante dilação probatória, em especial a produção de provas testemunhais, providência que não é permitida no rito processual do mandado de segurança.
+    É o relatório.
+    Decido.
+    Com efeito, a fundamentação jurídica do ato coator da presente impetração revela que a atuação do presidente da Câmara dos Deputados não ocorreu em representação ou substituição da Mesa daquela casa legislativa, mas no exercício de competência privativa legalmente atribuída àquela autoridade.
+    É este o inteiro teor do inciso I do art. 141 da Lei 8.112/1990, dispositivo mencionado como fundamento do ato coator:
+    Art. 141. As penalidades disciplinares serão aplicadas:
+    I - pelo Presidente da República, pelos Presidentes das Casas do Poder Legislativo e dos Tribunais Federais e pelo Procurador-Geral da República, quando se tratar de demissão e cassação de aposentadoria ou disponibilidade de servidor vinculado ao respectivo Poder, órgão, ou entidade; (grifei)
+    Demonstrada a existência de previsão legal suficiente para a atuação exclusiva do presidente da Câmara dos Deputados, fica afastada a presença indireta da Mesa no polo passivo do presente writ, requisito que, se configurado, autorizaria o reconhecimento da competência desta Corte, de acordo com a orientação adotada no MS 23.977, rel. min. Cezar Peluso, Pleno, DJe 26.08.2010 (ementa transcrita a seguir):
+    COMPETÊNCIA. Originária. Não caracterização. Mandado de segurança. Impetração contra ato omissivo do presidente da Câmara dos Deputados. Omissão não imputável à Mesa da Câmara. Feito da competência da Justiça Federal. Pedido não conhecido. Interpretação do art. 102, I, "d", da CF. Precedente. Não compete ao Supremo, mas à Justiça Federal, conhecer de mandado de segurança impetrado contra ato, omissivo ou comissivo, praticado, não pela Mesa, mas pelo presidente da Câmara dos Deputados.
+    Ante o exposto, declaro a incompetência deste Supremo Tribunal Federal para julgar o mandado de segurança.
+    Remeta-se à Justiça Federal.
+    Publique-se.
+    Brasília, 28 de outubro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
