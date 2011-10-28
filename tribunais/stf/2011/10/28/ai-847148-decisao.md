@@ -1,0 +1,34 @@
+AGRAVO DE INSTRUMENTO. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTADO ONDE SITUADO O ESTABELECIMENTO IMPORTADOR. PRECEDENTES.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. O Sujeito ativo do ICMS é o estado-membro em que localizado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada, independentemente de onde ocorra o desembaraço aduaneiro. Precedentes: ARE n. 642.416-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 17.08.2011 e AI n. 642.416-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º.02.2011.
+3. Eis o teor da ementa do acórdão recorrido, “APELAÇÃO REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA.
+PRELIMINARES RECURSAIS.
+4. LEGITIMIDADE ATIVA. DESCONSTITUIÇÃO DOS TERMOS DE DEPÓSITO. Mostra-se presente a legitimidade das impetrantes no pedido de desconstituição dos termos de depósito firmados, já que o motivo que os origino, ou seja, o não-reconhecimento de ICMS, é a questão de mérito da demanda, na qual se discutia a exigibilidade do imposto, sendo irrelevante o fato dos termos terem sido firmados por terceiro. Ademais, é consequência lógica da declaração de inexistência de relação jurídica tributária entre as impetrantes e o Estado a anulação dos atos tendentes à exigência do tributo. Preliminar rejeitada.
+5. CABIMENTO DO MANDADO DE SEGURANÇA. Sendo o pedido deduzido no mandamus claro e preciso no sentido da ordem à autoridade coatora de inexigibilidade do ICMS sobre mercadorias importadas, mostra-se adequada a pretensão mandamental deduzida pela via do mandado de segurança, existindo o interesse processual. Preliminar rejeitada.
+6. ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTADO ONDE SITUADO O ESTABELECIMENTO IMPORTADOR. O sujeito ativo do ICMS é o Estado onde estiver situada a sede do estabelecimento importador, sendo irrelevante se o produto ingressou em Estado diverso ou se a empresa do destino final do produto esteja localizada no Estado em que houve o desembaraço aduaneiro.”
+7. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo ESTADO DO RIO GRANDE DO SUL, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 162-165, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (fl. 109), verbis:
+    “APELAÇÃO REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA.
+    PRELIMINARES RECURSAIS.
+    1. LEGITIMIDADE ATIVA. DESCONSTITUIÇÃO DOS TERMOS DE DEPÓSITO. Mostra-se presente a legitimidade das impetrantes no pedido de desconstituição dos termos de depósito firmados, já que o motivo que os origino, ou seja, o não-reconhecimento de ICMS, é a questão de mérito da demanda, na qual se discutia a exigibilidade do imposto, sendo irrelevante o fato dos termos terem sido firmados por terceiro. Ademais, é consequência lógica da declaração de inexistência de relação jurídica tributária entre as impetrantes e o Estado a anulação dos atos tendentes à exigência do tributo. Preliminar rejeitada.
+    2. CABIMENTO DO MANDADO DE SEGURANÇA. Sendo o pedido deduzido no mandamus claro e preciso no sentido da ordem à autoridade coatora de inexigibilidade do ICMS sobre mercadorias importadas, mostra-se adequada a pretensão mandamental deduzida pela via do mandado de segurança, existindo o interesse processual. Preliminar rejeitada.
+    ICMS. IMPORTAÇÃO. SUJEITO ATIVO. ESTADO ONDE SITUADO O ESTABELECIMENTO IMPORTADOR. O sujeito ativo do ICMS é o Estado onde estiver situada a sede do estabelecimento importador, sendo irrelevante se o produto ingressou em Estado diverso ou se a empresa do destino final do produto esteja localizada no Estado em que houve o desembaraço aduaneiro.
+    Preliminares rejeitadas, apelo desprovido, sentença mantida em reexame necessário.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 155, § 2º, IX “a” e XII, “d”, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    É que o acórdão recorrido está em harmonia com a jurisprudência desta Suprema Corte, como se pode depreender do teor da ementa dos seguintes julgados, verbis:
+    “Agravo regimental no recurso extraordinário com agravo. 2. Tributário. ICMS. Importação. 3. Sujeito ativo. estado-membro em que localizado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada, independentemente de onde ocorra o desembaraço aduaneiro. 4. Incidência da Súmula 279. 5. Agravo regimental a que se nega provimento” (ARE n. 642.416-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 17.08.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO DE MERCADORIA. SUJEITO ATIVO DA RELAÇÃO TRIBUTÁRIA. ESTADO DO ESTABELECIMENTO DO DESTINATÁRIO JURÍDICO. AGRAVO IMPROVIDO
+    I - Nos termos do art. 155, § 2º, IX, a, da Constituição Federal, o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada. Precedentes.
+    II - Na definição do destinatário da mercadoria importada, não devem prevalecer os pactos particulares mantidos entre as partes envolvidas na importação, mas a efetiva destinação do bem importado. Precedentes.
+    III - Agravo regimental não provido” (AI n. 642.416-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º.02.2011).
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 28 de outubro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
