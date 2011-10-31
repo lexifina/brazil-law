@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSO – MINISTÉRIO PÚBLICO – SUSPEIÇÃO – HABEAS CORPUS – LIMINAR – RELEVÂNCIA NÃO DEMONSTRADA – INDEFERIMENTO DA CAUTELAR.
+    1. A Assessoria prestou as seguintes informações:
+    Os impetrantes buscam a anulação do Processo-Crime nº 222.2008.005342-2, em curso no Juízo da Segunda Vara Criminal da Comarca de Jaboatão dos Guararapes/PE, no qual o paciente foi denunciado, com mais quatro pessoas, em razão da infração do disposto no artigo 14 da Lei nº 10.826/2003 (porte ilegal de arma de fogo de uso permitido). Alegam que a Promotora de Justiça Érika Loaysa averbara suspeição, porque o ex-marido estaria atuando como advogado. No entanto, teria voltado a funcionar no processo, quando jamais poderia fazê-lo.
+    Ante esses fatos, formalizaram pedido de habeas no Tribunal de Justiça do Estado de Pernambuco. A ordem não foi deferida, sob o argumento de que a Promotora de Justiça somente voltara a atuar após a renúncia do patrocínio da causa pelo escritório de advocacia do ex-marido, que não teria subscrito qualquer peça processual, a não ser a de renúncia ao mandato. Assentou-se, ainda, a ausência de comprovação de prejuízo para a defesa, razão por que não se impunha a declaração de nulidade.
+    Contra o referido acórdão impetrou-se idêntica medida no Superior Tribunal de Justiça – Habeas Corpus nº 145.368/PE. O Ministro Napoleão Nunes Maia Filho não acolheu o pedido de liminar. Na sequência, a Quinta Turma do Superior Tribunal indeferiu a ordem, porque: a) segundo as informações prestadas pelo Juiz Criminal, a Promotora de Justiça afirmou suspeição e solicitou afastamento do processo após o ingresso do ex-cônjuge como um dos advogados do paciente, motivo pelo qual mostrar-se-ia insubsistente a alegação de nulidade; b) o advogado renunciou aos poderes outorgados pelo paciente e não teria praticado qualquer ato no processo, a não ser o de renúncia ao mandato; c) a defesa não demonstrou qualquer prejuízo.
+    A inicial deste habeas volta-se contra esse acórdão. Os impetrantes reafirmam as causas de pedir a declaração de nulidade do processo. Requerem o deferimento de medida acauteladora, para determinar o sobrestamento do processo-crime que está em fase de apelação, até o julgamento desta impetração. No mérito, pleiteiam a declaração de nulidade do processo, a partir de 15 de dezembro de 2008, dia em que a Promotora de Justiça, que averbou suspeição, voltou a atuar.
+    Anoto que o paciente foi condenado à pena de dois anos de reclusão, sendo-lhe deferido o benefício da suspensão condicional da pena. Tramita no Tribunal estadual a Apelação nº 217.146-6, distribuída à Segunda Câmara Criminal.
+    2. Observem as balizas relativas à atuação do Ministério Público. A promotora apenas voltou a atuar no processo ante a renúncia implementada, relativamente aos poderes recebidos, pelo ex-marido e este, além disso, não subscreveu qualquer peça.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 31 de outubro de 2011, às 10h15.
+Ministro MARCO AURÉLIO
+Relator
