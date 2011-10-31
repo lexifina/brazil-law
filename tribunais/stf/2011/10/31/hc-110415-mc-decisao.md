@@ -1,0 +1,15 @@
+DECISÃO
+TRÁFICO DE ENTORPECENTES – SUBSTITUIÇÃO DA PENA RESTRITIVA DA LIBERDADE DE IR E VIR PELA DE DIREITOS – ÓBICE LEGAL – AFASTAMENTO PELO SUPREMO – RESSALVA DO ENTENDIMENTO PESSOAL – LIMINAR DEFERIDA EM PARTE.
+    1. A Assessoria prestou as seguintes informações:
+    O Tribunal de Justiça do Estado do Espírito Santo deu parcial provimento à apelação interposta pelo paciente e, em consequência, reformou, em parte, a sentença proferida pelo Juízo da 7ª Vara Criminal de Vila Velha/ES, reduzindo a sanção de quatro para três anos e oito meses de reclusão, em regime inicialmente fechado, por infração do disposto no artigo 33 da Lei nº 11.343/2006.
+    O recurso especial interposto contra o referido acórdão não foi admitido, e a Ministra Laurita Vaz não conheceu do Agravo de Instrumento nº 1.209.041/ES. A decisão transitou em julgado em 4 de março de 2010. O Juízo determinou a expedição de mandado de prisão.
+    O paciente formalizou habeas no Superior Tribunal de Justiça – de nº 217.025/ES –, pleiteando a declaração de nulidade do acórdão da apelação quanto à dosimetria da pena e, sucessivamente, o direito à substituição dessa por restritivas de direitos. A Ministra Laurita Vaz, relatora, indeferiu o pedido de liminar, por confundir-se com o mérito da causa.
+    A inicial deste habeas volta-se contra essa decisão. Os impetrantes afirmam que o paciente preenche os requisitos do artigo 44 do Código Penal, tendo em consideração a penalidade aplicada e as condições pessoais do sentenciado – primariedade, bons antecedentes e não possuir personalidade voltada para o crime. Asseguram que a hipótese, consoante o acórdão proferido no Habeas Corpus nº 101.291, relator Ministro Eros Grau, admite a relativização do óbice previsto no Verbete nº 691 da Súmula do Supremo, visto que, observadas as disposições dos artigos 33, § 2º, e 44, § 2º, segunda parte, do Código Penal, o paciente tem direito à substituição da pena privativa de liberdade pela restritiva de direito.
+    Pedem a concessão de liminar, no sentido de determinar a expedição de salvo-conduto em favor do paciente – ante a iminência de dar-se cumprimento à sentença penal condenatória transitada em julgado – e a substituição da pena privativa de liberdade pela restritiva de direitos. No mérito, pleiteiam a confirmação da providência.
+    2. O Supremo, no julgamento do Habeas Corpus nº 97.256/RS, julgado em 16 de dezembro de 2010, assentou a inconstitucionalidade do óbice à substituição da pena restritiva de liberdade pela de direitos, considerado o disposto no artigo 44 da Lei nº 11.343/2006. Tendo ficado vencido, na oportunidade, presente a visão da ilustrada maioria, ressalvo o entendimento pessoal.
+    3. Defiro a medida acauteladora não para assegurar a liberdade do paciente até o julgamento final deste habeas, mas para o Juízo vir a apreciar a aludida substituição, afastado o que previsto na Lei de Drogas.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 31 de outubro de 2011.
+Ministro MARCO AURÉLIO
+Relator
