@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EXECUÇÃO FISCAL. SUSPENSÃO. PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS. LEI N. 9.964/2000. GARANTIA DO DÉBITO E HOMOLOGAÇÃO DA OPÇÃO PELO COMITÊ GESTOR. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto pela Indústria Têxtil São Cristóvão, com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. PROGRAMA DE RECUPERAÇÃO FISCAL – REFIS. INGRESSO. DÉBITO SUPERIOR A R$ 500.000,00. NECESSIDADE DE GARANTIA DO DÉBITO E DE HOMOLOGAÇÃO DA OPÇÃO PELO COMITÊ GESTOR. MATÉRIA PACIFICADA. SÚMULA N. 437/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO” (fl. 169).
+    Rejeitaram-se os embargos de declaração opostos pela ora Recorrente (fl. 188).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. II, LIV e LV, 93, inc. IX, e 150, inc. II, da Constituição da República.
+    Sustenta, em síntese, que “a medida mais adequada, proporcional à hipótese que se apresenta é permitir que a empresa continue a pagar os seus ‘débitos’ de forma parcelada, sem exigências indiretas (nem mesmo mediante reforço de garantia). Apenas assim se estará realmente atingindo os fins colimados pela Lei n. 9.964/2000” (fl. 230).
+    Pede o provimento do recurso extraordinário para que seja anulado o acórdão proferido nos embargos de declaração ou, alternativamente, requer a sua reforma no sentido de “ver declarado o direito à suspensão da exigibilidade do crédito tributário parcelado no âmbito do REFIS, objeto da execução fiscal de origem, mesmo que não garantida integralmente a dívida” (fls. 231-232).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. A alegação de nulidade do acórdão por ofensa ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+    Como se tem na jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional”(RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    5. Na espécie vertente, o Superior Tribunal de Justiça deu provimento ao recurso especial interposto pelo INSS para acolher a tese da autarquia e manter a penhora realizada na execução “não tendo havido a homologação da opção pelo Comitê Gestor”, com base na análise da Lei n. 9.964/2000, do Decreto n. 3.431/2000 e da Súmula n. 437 daquele Superior Tribunal.
+    Este Supremo Tribunal assentou que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, no caso, a Lei n. 9.964/2000, o Decreto n. 3.431/2000 e a Súmula n. 437 do Superior Tribunal de Justiça, configurariam ofensa constitucional indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. (...). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854-AgR, de minha relatoria, Primeira Turma, DJe 25.11.2010 – grifos nossos).
+    E
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. (...) TRIBUTÁRIO. REFIS. LEI 9.964/2004. EXCLUSÃO DO PROGRAMA. ALEGADA OFENSA AO ART. 5º, LIV E LV, DA CF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. (...). III – A questão referente à exclusão de contribuinte do REFIS situa-se em âmbito infraconstitucional. Eventual ofensa à Constituição, se ocorrente, seria indireta. Precedentes. IV - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. V - Agravo regimental improvido” (RE 594.923-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011 – grifos nossos).
+    Não há, pois, o que prover quanto às alegações da Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
