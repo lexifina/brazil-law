@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. ISENÇÃO DE CONTRIBUIÇÃO PARA O IPASGO-SAÚDE. REVOGAÇÃO. INEXISTÊNCIA DE DIREITO ADQUIRIDO” (fl. 209).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido e do ato jurídico perfeito situa-se no campo infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR/AL, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “DIREITO ADQUIRIDO. ATO JURÍDICO PERFEITO. OFENSA INDIRETA. 1. A discussão constitui matéria de índole infraconstitucional, cujo exame se mostra inviável no âmbito extraordinário. 2. Agravo regimental a que se nega provimento” (AI 832.920-AgR/RJ, Rel. Min. Ellen Gracie).
+    Outrossim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. CONTRIBUIÇÃO COMPULSÓRIA DOS SERVIDORES DO ESTADO PARA A SAÚDE. IMPOSSIBILIDADE. PRECEDENTE. A controvérsia foi decidida com fundamento na legislação local, incidência da Súmula n. 280 deste Tribunal. Agravo regimental a que se nega provimento” (AI 747.279-AgR/MA, Rel. Min. Eros Grau).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de novembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
