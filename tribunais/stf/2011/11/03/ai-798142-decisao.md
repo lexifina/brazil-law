@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “DIREITO PROCESSUAL CIVIL – AGRAVO (ARTIGO 557, § 1º, DO CÓDIGO DE PROCESSO CIVIL) – DISCUSSÃO SOBRE O CONTEÚDO DA JURISPRUDÊNCIA DOMINANTE - IMPERTINÊNCIA” (fl. 602).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37 da mesma Carta.
+    O agravo não merece acolhida. Isso porque o Tribunal de origem não divergiu do entendimento firmado por esta Corte no sentido de que é regular a classificação regionalizada não obstante a unidade da carreira. Nesse sentido, AI 615.292/DF, Rel. Min. Marco Aurélio; RE 571.039/DF, Rel. Min. Ayres Britto; RMS 23.479/DF, Rel. Min. Cezar Peluso e AI 478.039-AgR/DF, Rel. Min. Carlos Velloso, cuja ementa segue transcrita:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. CONCURSO PÚBLICO. AUDITOR FISCAL DO TESOURO NACIONAL. CLASSIFICAÇÃO REGIONALIZADA. LEGALIDADE. I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. II. - Decisão contrária aos interesses da parte não configura negativa de prestação jurisdicional. III. - Alegação de ofensa ao devido processo legal: CF, art. 5º, LV: se ofensa tivesse havido, seria ela indireta, reflexa, dado que a ofensa direta seria a normas processuais. E a ofensa a preceito constitucional que autoriza a admissão do recurso extraordinário é a ofensa direta, frontal. IV. - Alegação de ofensa ao inciso IX do art. 93, CF: improcedência, porque o que pretendem os recorrentes, no ponto, é impugnar a decisão que lhes é contrária, certo que o acórdão está suficientemente fundamentado. V. - Concurso público para o cargo de Auditor Fiscal do Tesouro Nacional: regularidade da classificação regionalizada. Precedentes. VI. - Agravo não provido” (grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de novembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
