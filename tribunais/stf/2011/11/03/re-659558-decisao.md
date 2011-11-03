@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 414):
+    “Indenização por danos morais e materiais – Responsabilidade civil do Estado – Homicídio praticado por preso foragido de unidade carcerária de outro Estado da Federação – Ausência de nexo de causalidade – Falha de serviço dos agentes de segurança que não ficou demonstrada – Doutrina e jurisprudência nesse sentido – Improcedência mantida – Apelação a que se nega provimento.”
+    2. Pois bem, a parte recorrente aponta ofensa aos incisos XXXIII, XXXV, XXXVI, LIII, LIV, LV, LVI, alínea “a” do inciso XXXIV do art. 5º, ao § 6º do art. 37 e ao art. 144, todos da Magna Carta de 1988. Sustenta que a causalidade reside no fato de os agentes estatais terem sido omissos no dever de agir, já que, antes da consumação do homicídio, a vítima relatou às autoridades policiais as ameaças que vinha recebendo de seu ex-namorado. Afirma que o indeferimento de produção de provas viola o contraditório, a ampla defesa e o devido processo legal.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo não-conhecimento do recurso.
+    4. Tenho que a insurgência não merece acolhida. De saída, pontuo que os incisos XXXIII, XXXV, XXXVI, LIII, LVI e a alínea “a” do inciso XXXIV do art. 5º, bem como o art. 144 da Constituição Federal não foram apreciados pelo aresto impugnado, tampouco foram suscitados nos embargos declaratórios opostos. Falta, portanto, o necessário prequestionamento, conforme a Súmula 282/STF.
+    5. De mais a mais, observo que foi à luz do conjunto fático-probatório dos autos que a instância judicante de origem concluiu pela inexistência de nexo de causalidade entre o fato danoso e o ato omissivo atribuído à autoridade pública. Logo, conclusão diversa da adotada pelo aresto impugnado encontraria óbice na Súmula 279/STF.
+    6. À derradeira, ressalto que o Supremo Tribunal Federal assentou a ausência de repercussão geral da questão alusiva à obrigatoriedade de observância das garantias constitucionais do processo ante o indeferimento, pelo juiz, de determinada diligência probatória em processo judicial (ARE 639.228, da relatoria do ministro Cezar Peluso).
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 03 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
