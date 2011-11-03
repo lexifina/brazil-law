@@ -1,0 +1,28 @@
+DECISÃO:
+    Vistos.
+    Caixa Econômica Federal – CEF interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sexta Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “PROCESSUAL CIVIL. FGTS. EXECUÇÃO DE SENTENÇA. TERMO DE ADESÃO. AUSÊNCIA DE EXPRESSA CONCORDÂNCIA. AÇÃO ANULATÓRIA DO REFERIDO ACORDO. HOMOLOGAÇÃO JUDICIAL. IMPOSSIBILIDADE.
+    I – Firmado o acordo extrajudicial, a sua homologação pelo juízo do feito fica condicionada à aquiescência das partes, veiculada por intermédio de seus procuradores regularmente constituídos nos autos. A ausência de expressa concordância aos termos da transação inibe a homologação judicial, ante a descaracterização de convergência de vontades, não devendo admitir-se, na espécie, qualquer cláusula impositiva de renúncia irretratável à garantia fundamental do pleno acesso à Justiça (CF, art. 5º, inciso XXXV).
+    II – De ver-se que, na espécie, houve ação anulatória do termo de adesão, no qual restou vitoriosa a recorrente, visto ser exageradamente prejudicial à sua pretensão nestes autos.
+    III - Ademais, nos termos do disposto no artigo 842, última parte, do Código Civil, se a transação recair sobre direitos contestados em juízo, será feita por termo nos autos, assinados pelos transigentes e homologado pelo juiz, não caracterizando, portanto, violação ao ato jurídico perfeito (art. 5º, XXXVI, da Constituição Federal) a decisão que deixa de homologar o acordo extrajudicial, ante a ausência de expressa concordância de uma das partes com os seus termos, aplicando-se, na espécie, o enunciado da Súmula Vinculante nº 01/STF, ante a ponderação das circunstâncias do caso concreto.
+    IV – Apelação provida. Sentença anulada” (fl. 159).
+    Alega a recorrente violação dos artigos 5º, incisos XXXVI, LIV e LV, da Constituição Federal.
+    Sem contrarrazões (fl. 175verso), o recurso extraordinário (fls. 168 a 173) foi admitido (fls. 183/184).
+    Decido.
+    A irresignação não merece prosperar.
+    O Plenário desta Corte, em sessão realizada por meio eletrônico, concluiu, no exame do RE nº 591.068/PR-QO, Relator o Ministro Gilmar Mendes, pela existência da repercussão geral da matéria constitucional versada nestes autos. Trata-se da discussão acerca da existência de ofensa a ato jurídico perfeito por decisão que desconsidera a validade dos acordos comprovadamente firmados com a Caixa Econômica, decorrentes do termo de adesão previsto na Lei Complementar nº 110/01, para pagamento das diferenças relativas aos expurgos inflacionários sobre os saldos das contas vinculadas de FGTS.
+    No mérito, o Plenário reafirmou o entendimento consolidado na Súmula Vinculante nº 1, segundo o qual, ofende a garantia constitucional do ato jurídico perfeito a decisão que, sem ponderar as circunstâncias do caso concreto, desconsidera a validez e a eficácia de acordo constante de termo de adesão instituído pela Lei Complementar 110/2001.
+    O presente caso, entretanto, cuida de questão diversa daquela examinada por esta Corte na ocasião do julgamento do RE nº 418.918/RJ, Pleno, Relatora a Ministra Ellen Gracie, RTJ 195/321, e consolidada na Súmula Vinculante nº 1 desta Corte.
+    No julgamento do mencionado recurso extraordinário, foi declarada a inconstitucionalidade do Enunciado nº 21 das Turmas Recursais da Seção Judiciária do Rio de Janeiro, que afastava a aplicação do acordo firmado por trabalhadores com a ora agravante, nos termos da Lei Complementar nº 110/2001, por vício de consentimento. Naquele caso específico, a validade do acordo, celebrado antes do ajuizamento da ação judicial, foi afastada pelo Tribunal local de ofício e sem que fossem analisadas as peculiaridades do caso concreto.
+    Nos presentes autos, o acórdão recorrido examinou as particularidades do caso, concluindo pela impossibilidade de homologação judicial do termo de adesão, nos seguintes termos:
+    “Com efeito, na hipótese dos autos, não há que se falar em homologação de acordo, eis que o mesmo, para que produza seus efeitos na esfera judicial, depende de expressa concordância das partes com todas suas cláusulas e, enquanto não for judicialmente homologado, afigura-se integralmente recusável por qualquer das partes, não havendo como admitir-se qualquer cláusula de acordo que imponha renúncia, de forma irretratável, à garantia fundamental de pleno acesso à Justiça, como no caso (CF, art. 5º, inciso XXXV).
+    Ainda que, na espécie, houve ação anulatória do termo de adesão em referência, no qual restou vitoriosa a recorrente, visto ser exageradamente prejudicial ao pedido da apelante.
+    Em sendo assim, tornar-se-ia ilegítimo violar a coisa julgado, no caso, validando o referido termo de adesão.
+    …...................................................................................................
+    Registre-se, ainda, que nos termos do artigo 842, última parte, do Código Civil, se a transação recair sobre direitos contestados em juízo, deverá ser feita por termo nos autos, assinados pelos transigentes e homologado pelo juiz, não caracterizando, portanto, violação ao ato jurídico perfeito (art. 5, XXXVI, da Constituição Federal) a decisão que deixa de homologar o acordo extrajudicial, ante a ausência de expressa concordância de uma das partes com os seus termos, como na espécie dos autos.” (fls. 155/156).
+    Assim, não merece prosperar a irresignação da recorrente.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
