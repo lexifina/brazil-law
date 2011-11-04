@@ -1,0 +1,26 @@
+Decisão: Vistos, etc.
+    Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. LIBERDADE PROVISÓRIA. INDEFERIMENTO. MANUTENÇÃO PELO TRIBUNAL IMPETRADO. REITERAÇÃO CRIMINOSA. DESTACADA QUANTIDADE DE ENTORPECENTE. GARANTIA DA ORDEM PÚBLICA. VEDAÇÃO LEGAL À CONCESSÃO DO BENEFÍCIO. FUNDAMENTAÇÃO IDÔNEA E CONSTITUCIONAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. Verifica-se a necessidade da custódia cautelar para fazer cessar a reiteração criminosa, quando há notícias de que o paciente já respondeu por porte de droga e furtos, circunstância que revela a sua propensão a atividades ilícitas, demonstra a sua periculosidade e a real possibilidade de que, solto, volte a delinquir.
+    2. Não caracteriza constrangimento ilegal a negativa de concessão de liberdade provisória ao flagrado no cometimento em tese do delito de tráfico de entorpecentes, praticado na vigência da Lei 11.343/06, notadamente em se considerando o disposto no art. 44 da citada lei especial, que expressamente proíbe a soltura clausulada nesse caso, mesmo após a edição e a entrada em vigor da Lei 11.464/2007, por encontrar amparo no art. 5º, XLIII, da Constituição Federal, que prevê a inafiançabilidade de tal infração. Precedentes da Quinta Turma e do Supremo Tribunal Federal.
+    3. Condições pessoais favoráveis não têm, em princípio, o condão de, por si sós, garantirem a concessão da liberdade provisória, se há nos autos elementos suficientes a demonstrar a necessidade da custódia antecipada, como ocorre in casu.
+    CUSTÓDIA CAUTELAR. INCIDÊNCIA DA LEI N. 12.403/2011. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECLAMO NÃO CONHECIDO NESSE PONTO.
+    1. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, da aplicação da Lei n. 12.403/2011, tendo em vista que essa matéria não foi analisada pelo Tribunal impetrado tornando-se descabido conhecer-se do reclamo nesse ponto, sob pena de incidir-se na indevida supressão de instância.
+    2. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada.”
+    2. Pois bem, a Defensoria Pública da União, impetrante, alega que a prisão provisória do paciente se acha embasada, tão somente, na gravidade abstrata do delito de tráfico de entorpecentes. Argumenta que a segregação cautelar do acusado não se faz necessária, até mesmo pela “flagrante inconstitucionalidade do artigo 44 da Lei nº 11.343/06, que veda a concessão de liberdade provisória para o delito de tráfico de drogas”. Donde o pedido de concessão de medida cautelar “para a imediata expedição de alvará de soltura em favor do paciente”.
+    3. Ultimada esta apertada síntese da causa, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, não tenho como acolher o provimento cautelar requestado. É que, ao contrário do que afirma a defesa, a decisão de indeferimento da liberdade provisória do paciente não está fundamentada, exclusivamente, na proibição contida no artigo 44 da Lei nº 11.343/2006. Para cimentar esse ponto de vista, reproduzo a seguinte passagem da decisão de Primeiro Grau:
+    “[...]
+    Em análise percuciente do feito, em que pese os argumentos expendidos pela Defesa, entendo que é inviável a a concessão de liberdade provisória, tendo em vista que estão presentes as hipóteses que autorizam a prisão preventiva, nos termos dos artigos 310, 311 e 312, do Código de Processo Penal.
+    […]
+    O ‘periculum libertatis’, tendo em vista que, neste momento de cognição inicial, é crível que o investigado mantinha um ponto de distribuição de drogas, ou seja, há relatos nos autos de que mantinha um verdadeiro ‘disque-drogas’, nesta cidade de Dourados, o que, por óbvio, demonstra a gravidade concreta do caso em comento.
+    [...]”
+    5. Esse o quadro, indefiro a liminar requerida; reservando-me, é claro, a um mais detido exame da causa por ocasião do julgamento do mérito deste processo.
+    6. Requisitem-se, com a máxima urgência, informações atualizadas, e circunstanciadas, ao Juízo de Direito da 1ª Vara Criminal da Comarca de Dourados/MS. Informações a serem instruídas com cópia das principais peças processuais.
+    7. Prestadas as informações, dê-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Intime-se.
+    Brasília, 04 de novembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
