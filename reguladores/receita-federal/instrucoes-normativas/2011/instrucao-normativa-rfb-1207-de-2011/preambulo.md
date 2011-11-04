@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1207, de 3 de novembro de 2011
+Dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) nas operações com derivativos.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 2º e 3º da Medida Provisória nº 539, de 26 de junho de 2011, no art. 8º da Medida Provisória nº 545, de 29 de setembro de 2011, nos arts. 32-C e 66 do Decreto nº 6.306, de 14 de dezembro de 2007, e na Portaria MF nº 464, de 22 de setembro de 2011, resolve:
