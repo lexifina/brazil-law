@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “b” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 2ª Região, assim ementado, na parte que interessa:
+    “CONSTITUCIONAL – TRIBUTÁRIO- FINSOCIAL- INCONSTITUCIONALIDADE DA MAJORAÇÃO DAS ALÍQUOTAS – COMPENSABILIDADE – PRESCRIÇÃO – CORREÇÃO MONETÁRIA – HONORÁRIOS DE ADVOGADO – REDUÇÃO.
+    (…)
+    2- O Plenário desta E. Corte de Justiça entende que não há distinção entre as empresas prestadoras de serviço, sendo inconstitucionais as majorações de alíquotas referente ao FINSOCIAL, conforme transcrição fonográfica do julgamento do processo n° 97.02.00689-9” (fl. 356).
+    Opostos embargos de declaração (fls. 360 a 364), não foram conhecidos (fls. 370 a 372). Contra essa decisão foi interposto recurso especial que foi provido para anular o referido acórdão dos embargos declaratórios (fls. 404 a 406). A nova decisão dos embargos de declaração negou provimento ao referido recurso (fls. 412 a 417).
+    Aduz a recorrente que o Supremo Tribunal Federal “reconheceu a constitucionalidade das normas que majoraram a alíquota do FINSOCIAL, relativamente às empresas exclusivamente prestadoras de serviços” (fl. 426).
+    Sem contrarrazões (fl. 463V), o recurso extraordinário (fls. 422 a 429) foi admitido (fls. 466/467 ).
+    Decido.
+    Verifico inicialmente que o Tribunal de origem no julgamento dos embargos de declaração (fl. 415) consignou que a “(Empresa de Transportes Irmãos Silva Ltda) é exclusivamente prestadora de serviço”. (fl. 415).
+    Diante disso, a irresignação merece prosperar, uma vez o Supremo Tribunal Federal entendeu pela constitucionalidade dos aumentos introduzidos pelas Leis nºs 7.787/89, 7.894/89 e 8.147/90, no que concerne à contribuição ao FINSOCIAL devida por empresas dedicadas exclusivamente a atividades de prestação de serviços. Nesse sentido, a Súmula n° 658/STF:
+    “SÃO CONSTITUCIONAIS OS ARTS. 7º DA LEI 7787/1989 E 1º DA LEI 7894/1989 E DA LEI 8147/1990, QUE MAJORARAM A ALÍQUOTA DO FINSOCIAL, QUANDO DEVIDA A CONTRIBUIÇÃO POR EMPRESAS DEDICADAS EXCLUSIVAMENTE À PRESTAÇÃO DE SERVIÇOS” (DJ de 9/10/03).
+    Colhem-se, ainda, os seguintes julgados:
+    “E M E N T A: EMBARGOS DE DECLARAÇÃO - CARÁTER INFRINGENTE - EXCEPCIONALIDADE - FINSOCIAL - QUALIFICAÇÃO JURÍDICA DA EMPRESA CONTRIBUINTE - DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL - EMBARGOS DE DECLARAÇÃO RECEBIDOS. - O Supremo Tribunal Federal, a propósito da controvérsia pertinente ao FINSOCIAL, declarou - relativamente às entidades seguradoras (RE 275.300-AgR/SP), às empresas comerciais (RTJ 147/1024) e às empresas mistas - a inconstitucionalidade das majorações das alíquotas instituídas pelo art. 9º da Lei nº 7.689/88, pelo art. 7º da Lei nº 7.787/89, pelo art. 1º da Lei nº 7.894/89 e pelo art. 1º da Lei nº 8.147/90, proclamando subsistir, até o advento da Lei Complementar nº 70/91, a vigência do Decreto-lei nº 1.940/82, com as alterações nele introduzidas anteriormente à promulgação da Carta Política de 1988. Precedentes. - Essa diretriz jurisprudencial não se aplica às empresas exclusivamente prestadoras de serviços, pois, quanto a estas, o Supremo Tribunal Federal confirmou a constitucionalidade do art. 28 da Lei nº 7.738/89 (RTJ 149/259 - RTJ 152/971), vindo a assentar, posteriormente (RE 187.436-ED/RS), a plena legitimidade constitucional das majorações das alíquotas concernentes ao FINSOCIAL, previstas no art. 7º da Lei nº 7.787/89, no art. 1º da Lei nº 7.894/89 e no art. 1º da Lei nº 8.147/90.Precedentes” (RE n° 275.300/SP-AgR-ED, Segunda Turma, Relator Ministro Celso de Mello, Dje de 23/8/11 – Grifo nosso).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. FINSOCIAL. EMPRESA EXCLUSIVAMENTE PRESTADORA DE SERVIÇOS. SÚMULA N. 658 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI n° 619.369/DF- AgR, Primeira Turma, Relator a Ministra Cármen Lúcia, Dje de 26/6/09).
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para julgar improcedente a ação quanto à Empresa de Transportes Irmãos Silva Ltda.
+    Ficam mantidos os honorários fixados na origem, em virtude da sucumbência mínima das empresas recorridas.
+    Publique-se.
+    Brasília, 4 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
