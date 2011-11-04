@@ -1,0 +1,34 @@
+DECISÃO: Compulsando os autos, verifico que na decisão de fls. 114 determinei o sobrestamento dos autos à Secretaria, por entender que o tema do recurso tem pertinência com a controvérsia da ADI 3.127. Entretanto, melhor análise dos autos revela a possibilidade de julgamento da causa, razão pela qual reconsidero a referida decisão.
+    Passo ao exame do recurso.
+    Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa tem o seguinte teor (fls. 46):
+    “ADMINISTRATIVO. FGTS. LEVANTAMENTO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ADMISSÃO NO SERVIÇO PÚBLICO SEM CONCURSO. NULIDADE DO CONTRATO. VALORES DO FGTS DEVOLVIDOS AO MUNICÍPIO-EMPREGADOR. ILEGALIDADE. CONDENAÇÃO DA CEF. ISENÇÃO DO ART.29-C DA LEI N.º 8.036/90. INAPLICABILIDADE.
+    - Compete à Justiça Federal o julgamento das causas relativas à movimentação do FGTS, excluídas apenas às decorrentes de litígio envolvendo relação de emprego.
+    - Precedentes STJ.
+    - Devolução dos valores do FGTS ao Município-empregador, em virtude da anulação de contrato de trabalho.
+    - Ilegalidade da devolução, em face do entendimento consolidado na jurisprudência do STJ, mesmo antes da MP nº 2.164/40-2001, de que tais valores integram o patrimônio do trabalhador.
+    - A isenção da MP nº 2.164-41/2001, que deu nova redação o art. 29-C da Lei nº 8.036/90, fere o princípio da igualdade processual das partes. (TRF 5ª Região, 3ª Turma, AC 348470/RN, Rel. Des. Federal Ridalvo Costa, DJ 15/04/2005).
+    - Preliminarmente, excluo, de ofício, o Município de Mossoró da lide;
+    - Apelação provida.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 37, II e § 2º, e 114 da Constituição federal. Sustenta-se que a devolução dos depósitos fundiários ao município-empregador é consequência da declaração de nulidade do contrato de trabalho e tem previsão nas normas internas da recorrente, mesmo antes da edição da Medida Provisória 2.164-40/2001. Afirma que o Tribunal a quo aplicou retroativamente a mencionada medida provisória. Alega também a competência da Justiça do Trabalho para apreciar o feito, uma vez que a situação “é semelhante àquela em que o empregador ao longo de todo o período de vigência do contrato simplesmente deixou de realizar os depósitos em conta vinculada do FGTS, em favor do empregado” (cf. fls. 63) e a necessidade de chamamento do Município de Mossoró ao processo.
+    É o relatório. Decido.
+    Cinge-se o debate à legalidade da devolução dos depósitos fundiários mediante requerimento do município-empregador, em face da declaração de nulidade do contrato de trabalho.
+    Primeiramente, verifico que, na espécie, a relação de base entre o trabalhador e a Caixa Econômica Federal não decorre do contrato de trabalho. A agravante é o agente operador do Fundo e a parte agravada pretende apenas o levantamento dos valores depositados no FGTS.
+    Por outro lado, sob a égide da Constituição pretérita, este Tribunal pacificou entendimento no sentido de reconhecer a competência da Justiça Comum Federal nos casos que o gestor do FGTS, a época o Banco Nacional de Habitação, integrasse a lide. Confiram a título de exemplo: RE 105.476 (rel. min. Francisco Rezek, DJ de 09.08.1985), RE 110.894 (rel. min. Carlos Madeira, DJ de 21.11.1986), CJ 6.243 (rel. min. Décio Miranda, DJ de 12.12.1980) e RE 115.312 (rel. min. Carlos Madeira, DJ de 18.03.1988), cuja ementa deste último transcrevo:
+    “- FUNDO DE GARANTIA POR TEMPO DE SERVIÇO. Pedido de levantamento do saldo. Havendo intervenção da Caixa Econômica Federal, sucessora do BNH, a competência, em sede litigiosa ou de jurisdição voluntária, é da Justiça Federal. Emenda Constitucional nº 1/69, art. 125, I.”
+    Após a promulgação da Constituição de 1988, verifica-se no mesmo sentido os seguintes julgados: RE 199.423 (rel. min. Octavio Gallotti, DJ de 24.05.2000), RE 131.088 (rel. min. Nelson Jobim, DJ de 09.08.2000), RE 280.498 (rel. min. Carlos Velloso, DJ de 25.08.2004), RE 542.050 (rel. Min. Ricardo Lewandowski, DJ de 28.05.2007) e RE 544.344 (rel. Min. Ricardo Lewandowski, DJ de 31.05.2007).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Também não prospera a discussão sobre o chamamento do Município de Mossoró ao processo uma vez que não houve indicação do dispositivo constitucional violado, o que atrai a aplicação da Súmula 284.
+    Assinalo, por oportuno, que as alegações sobre os efeitos da nulidade do contrato de trabalho e a constitucionalidade do art. 19-A da Lei 8.036/1990 não tem o condão de alterar os fundamentos adotados no acórdão recorrido.
+    Isso porque o Tribunal a quo tão somente julgou ilegal o ato de devolução dos valores depositados em favor do trabalhador. Em outras palavras, entendeu-se que a Caixa Econômica Federal não tinha o direito de movimentar a conta do trabalhador. Transcrevo a conclusão do acórdão impugnado (fls. 40 e 43):
+    “Note-se que o fato de haver sido estornado os valores da conta vinculada após o depósito e devolvidos ao empregador, não outorga à causa natureza trabalhista, pois o fundamento jurídico do pedido é a ilegalidade do ato da CEF de devolver os depósitos fundiários que, em tese, pertenceriam a ora apelante.
+    Não há nada que identifique a lide como trabalhista. Não se está discutindo relação de emprego, nem mesmo a legalidade do ato que declarou a nulidade do contrato de trabalho. A pretensão deduzida é a de movimentação da conta vinculada do FGTS. Se por qualquer razão a CEF dela se desfez, não é matéria a ser tratada na Justiça Trabalhista.
+    (…)
+    O ato da CEF de devolver os depósitos ao Município empregador é ilegal porque ela, na qualidade de gestora do FGTS, não tem poderes para dispor de quantia integrante do patrimônio do trabalhador, entregando a terceiro, ainda que este fosse o depositante-empregador.
+    Portanto, deve a CEF assumir o ônus pelo ato ilegal, arcando com o pagamento dos valores que se encontravam depositados na conta vinculado do FGTS em nome da apelante, ainda que, indevidamente, tenham sido devolvidos ao empregador, facultado a ela a ação regressiva contra o Município de Mossoró.”
+    Desta feita, constata-se que a argumentação no recurso extraordinário é insuficiente para infirmar as conclusões do acórdão recorrido. Incide o óbice da Súmula 284 desta Corte.
+    Ainda superados os obstáculos supra, as questões constitucionais suscitadas não podem ser analisadas sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 4 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
