@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário com agravo contra decisão de inadmissibilidade de apelo extremo que impugna acórdão assim ementado:
+    “AGRAVO EM AGRAVO DE INSTRUMENTO. SUCESSÃO TRABALHISTA. DISPENSA IMOTIVADA. INCORPORAÇÃO AO CONTRATO DE TRABALHO DE NORMA ESTADUAL ANTERIOR À PRIVATIZAÇÃO. A alegação de violação do art. 5º, II, da Constituição Federal e a tese de que o Decreto Estadual 21.325/91 foi revogado pelo Decreto 24.004/96 constitui inovação recursal. Ademais, não se vislumbra ofensa direta e literal ao art. 173, § 1º, II, da Constituição Federal, porquanto a matéria foi decidida sob enfoque da incorporação ao contrato de trabalho da reclamante das condições previstas em norma estadual. Assim, se houvesse violação, esta seria meramente reflexa. Agravo não provido.” (fl 381)
+    Nas razões do recurso extraordinário, sustenta-se, em síntese, que houve violação aos artigos 7º, I, e 173, § 1º, da Constituição Federal.
+    Não assiste razão ao recorrente.
+    O dispositivo constitucional em questão (artigo 7º, I) não foi devidamente prequestionado, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem, na espécie, as Súmulas nº 282 e 356 desta Corte.
+    Ainda que assim não fosse, a verificação da alegação de violação ao artigo 173, § 1º, da Constituição Federal, no acórdão impugnado demandaria a interpretação da legislação infraconstitucional aplicável à espécie, qual seja, o Decreto Estadual nº 21.325/91. Dessa forma, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido, o AI-AgR 706.565, Rel Min. Dias Toffoli, Primeira Turma, DJe 25.10.2010 e o RE-AgR 602.293, Rel. Min. Ricardo Lewandowski, Segunda turma, DJe 29.9.201130.4.2010, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REEXAME DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS FEDERAIS E LOCAIS. OFENSA REFLEXA. SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I – A verificação da alegada ofensa ao texto constitucional envolve o reexame da interpretação dada pelo juízo a quo à legislação infraconstitucional, federal e local, aplicável ao caso. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. II - Agravo regimental improvido.”
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 7 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
