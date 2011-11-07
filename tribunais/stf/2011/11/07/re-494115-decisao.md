@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Ceará. Acórdão assim ementado (fls. 93):
+    “MANDADO DE SEGURANÇA. ADMINISTRATIVO. SERVIDOR PÚBLICO. EXERCÍCIO DE CARGO COMISSIONADO. GRATIFICAÇÃO. INCORPORAÇÃO. ESTABILIDADE FINANCEIRA. REAJUSTE ATRELADO AO VALOR DA GRATIFICAÇÃO INCORPORADA. INEXISTÊNCIA DE LEI DISPONDO O CONTRÁRIO. DIREITO ADQUIRIDO.
+    I – Pacífico o entendimento do STF a inexistência de conflito entre a chamada cláusula de estabilidade financeira e o disposto no art. 37, XIII, da CF/88, que proíbe vinculação entre vencimentos;
+    II – Inexistindo lei que desvincule o valor do benefício da chamada estabilidade financeira do valor da gratificação incorporada, o benefício continua a ela umbilicalmente atrelado, como conseqüência do direito adquirido;
+    III -Segurança concedida”.
+    2. Pois bem, a parte recorrente aponta violação ao caput e inciso XIII do art. 37 do Magno Texto. Sustenta que o aresto impugnado “reconhece direito adquirido onde ele não existe, além de afirmar que inexistindo lei em sentido contrário, teria o requerente direito a uma vinculação vencimental que se mostra absolutamente inconstitucional” (sic, fls. 132).
+    3. Tenho que a insurgência não merece acolhida. É que a “estabilidade financeira”, como se sabe, garante ao servidor público, após certo tempo de exercício de cargo em comissão ou assemelhado, a continuidade da percepção da diferença entre os vencimentos desse cargo e os do seu cargo efetivo.
+    4. Ocorre que a jurisprudência do Supremo Tribunal Federal admite que tal benefício seja desvinculado dos vencimentos do cargo em comissão que ensejou a sua incorporação, desde que essa desvinculação seja feita por lei, o que não ocorreu no presente caso (segundo o quadro delineado pela instância judicante de origem). Assim consignou o acórdão (fls. 97):
+    “No entanto, no presente caso, o Estado do Ceará não editou norma desvinculando o valor do benefício da chamada estabilidade financeira do valor da comissão incorporada, pelo que o benefício continua a ela umbilicalmente atrelado. Apenas estabeleceu que tal vantagem não será computada para cálculo de benefício financeiros que devam incidir sobre o vencimento base (art. 3º, Lei 11.847/91), tendo, em seguida, editado a Lei nº 12.913, de 17.06.1999, revogando por completo a norma anterior, pelo que, a partir de então deixou de existir o direito à incorporação de tal vantagem, sem ofensa, obviamente, ao direito adquirido daqueles que já a tinham incorporado.
+    […]
+    Embora o STF tenha firmado o entendimento (RE 235.299 AgR/PE) de que o servidor beneficiário da chamada estabilidade financeira não tem direito adquirido à preservação do regime legal de atrelamento do valor dela ao vencimento do respectivo cargo em comissão, mostrando-se válida a lei que submete os reajustes de remuneração aos critérios das revisões gerais dos vencimentos do funcionalismo, o fato é que, no caso do Estado do Ceará, não houve lei que submetesse os reajustes do valor incorporado a título de estabilidade financeira aos critérios da revisão geral dos servidores, donde não tem como se aplicar tal entendimento”.
+    5. De se ver, portanto, que o aresto impugnado afina com a jurisprudência dessa nossa Casa de Justiça.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RISTF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 07 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
