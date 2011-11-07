@@ -1,0 +1,32 @@
+Decisão
+    Vistos.
+    Balbino José Silva Neto e outros interpõem recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Grupo I da 2ª Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “APELAÇÃO CÍVEL – CONSTITUCIONAL E ADMINISTRATIVO – SERVIDORES PÚBLICOS ESTADUAIS – GRATIFICAÇÃO DE PERICULOSIDADE – INCIDÊNCIA SOBRE VENCIMENTO E GRATIFICAÇÃO DE PRODUTIVIADDE – INCONSTITUCIONALIDADE – PRECEDENTES JURISPRUDENCIAIS – RECURSO CONHECIDO E IMPROVIDO – DECISÃO UNÂNIME.
+    1. O Tribunal de Justiça de Sergipe declarou inconstitucional o art. 2º da Lei 3.563/94 (ineriu o parágrafo único do art. 8º da Lei 2.270/80), que autoriza o cálculo da gratificação de periculosidade sobre a remuneração do servidor do Fisco (efeito cascata), nenhum efeito jurídico pode resultar de norma inconstitucional.
+    2. Caracterizada infração ao art. 37, XIV, da CF/88, mesmo antes da Emenda 19/98, face à vedação de efeito cascata, mediante o pagamento de gratificação de periculosidade incidente sobre o vencimento adicionado à gratificação de produtividade.
+    3. Precedentes Jurisprudenciais do STJ e deste Tribunal de Justiça”.
+    Alegam os recorrentes violação dos artigos 37, incisos XIV e XV, da Constituição Federal, uma vez que foi suprimido adicional de periculosidade que recebiam por força de lei.
+    Contra-arrazoado, o recurso extraordinário não foi admitido (fl. 282).
+    Decido.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado em 18/11/09, quando já era plenamente exigível a demonstração da repercussão geral.
+    Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+    Com efeito, a decisão atacada colide com a pacífica jurisprudência desta Corte que entende que não incide a vedação prevista na redação original da norma do inciso XIV, do artigo 37, da Constituição Federal, quando as gratificações em questão não tiverem sido concedidas sobre o mesmo título, ou idêntico fundamento.
+    No caso presente, como as referidas gratificações são de espécies distintas, o cálculo de um delas pode partir do montante do vencimento básico do servidor, acrescido da outra.
+    Nesse sentido, os seguintes julgados:
+    “1. Servidor público do Estado de Sergipe: acórdão que garantiu a servidor inativo o direito de incorporar ao seus proventos a gratificação de periculosidade calculada sobre o vencimento padrão mais a produtividade: não incidência do art. 37, XIV, da Constituição Federal, dada a diversidade de fundamentos das vantagens. 2. Agravo regimental: necessidade de impugnação de todos os fundamentos da decisão agravada: precedentes” (RE nº 449.128/SE- AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence , DJ de 19/5/06).
+    “Vantagens funcionais em 'cascata': vedação constitucional que, conforme o primitivo art. 37, XIV, da Constituição (hoje alterado pela EC 19/99), só alcançava as vantagens concedidas 'sob o mesmo título ou idêntico fundamento': não incidência, ao tempo, da proibição no caso concreto: diversidade do título de concessão, no Estado do Ceará, da ' indenização adicional de inatividade e da gratificação adicional de tempo de serviço' , o que permitia a inclusão da segunda na base de cálculo da primeira” (RE nº 231.663/CE, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 28/4/2000).
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. LEI ESTADUAL 11.171/86. EMENDA CONSTITUCIONAL 19/98.
+    I. - A forma de cálculo das vantagens incorporadas aos proventos dos agravados, prescrita pela Lei estadual 11.171/86, não implica o cômputo de acréscimos sob o mesmo título ou idêntico fundamento.
+    II. - Inexistência de violação à redação originária do art. 37, XIV, da Constituição, vigente à época em que os servidores passaram para a inatividade.
+    III. - Agravo não provido” (RE nº 393.704/CE-AgR, Segunda Turma, Relator o Ministro Carlos Velloso , DJ de 16/12/05).
+    Anotem-se, também, as seguintes decisões monocráticas: RE nº 487.565/SE, Relator o Ministro Celso de Mello, DJe de 2/6/10; RE nº 315.377/SE, Relatora a Ministra Ellen Gracie, DJ de 12/12/01; e RE nº 269.345/SE, Relator o Ministro Ricardo Lewandowski, DJ de 13/8/07.
+    Diga-se, em arremate, que a alegada ausência de cópia do julgado referido no acórdão atacado e utilizada na fundamentação do despacho denegatório de seguimento do apelo extremo foi sanada com a interposição do agravo de instrumento, em que anexada cópia desse acórdão.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do agravo e dou provimento ao recurso extraordinário para julgar a ação procedente, nos termos em que proposta, invertida a sucumbência arbitrada na origem.
+    Publique-se.
+    Brasília, 7 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
