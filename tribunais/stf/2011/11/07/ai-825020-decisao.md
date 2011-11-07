@@ -1,0 +1,34 @@
+Decisão.
+    Vistos.
+    Banco Citibank S. A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXV, XXXVI, LIV e LV, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Sexta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “REVISÃO CONTRATUAL COM PEDIDO LIMINAR. REVISÃO DOS CONTRATOS. POSSIBILIDADE. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS EM 12% A.A. NÃO CABIMENTO. SÚMULA VINCULANTE 7. AUSENTE A DEMONSTRAÇÃO DAS TAXAS PACTUADAS. LIMITAÇÃO DOS JUROS À TAXA MÉDIA DE MERCADO. POSSIBILIDADE. SENTENÇA MANTIDA.
+    - De acordo com o que estabelece o Código de Defesa do Consumidor, em seu art. 6°, é possível a revisão contratual, não implicando ofensa ao ato jurídico perfeito (art. 5°, inciso XXXVI), uma vez que a própria Constituição Federal/88, também determina a defesa do consumidor e todo aquele que sofrer ameaça ou lesão de direito (art. 5°, inciso XXXV).
+    - Se os contratos possuem taxas ilegais e abusivas, estas não devem permanecer, devendo-se intervir para alcançar o equilíbrio contratual entre as partes, relativizando o princípio do pacta sunt servanda.
+    - A norma do § 3° do art. 192 da Constituição, revogada pela EC 40/2.003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicabilidade condicionada à edição de lei complementar.
+    - Ausente a demonstração de pactuação dos juros remuneratórios, a fixação dos juros deve ser feita segundo a média de mercado nas operações da espécie, divulgada pelo Banco Central.
+    - Se apurado excesso na cobrança de valores ou encargos indevidamente cobrados, possível é a devolução dos mesmos.
+    Apelação Cível desprovida.
+    Recurso Adesivo prejudicado” (fls. 1358/1359).
+    Opostos embargos de declaração (fls. 1369 a 1372), foram rejeitados (fls. 1384 a 1387).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão da recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    A jurisprudência deste Supremo Tribunal Federal está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP - AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, esta Corte firmou entendimento no sentido de que a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Nesse sentido, anote-se:
+    “1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+    2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+    3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+    I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+    II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+    III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+    Nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 7 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
