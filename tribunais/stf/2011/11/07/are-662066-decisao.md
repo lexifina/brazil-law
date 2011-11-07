@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. GRATIFICAÇÃO PELO EXERCÍCIO DE ATIVIDADE DE EDUCAÇÃO ESPECIAL. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE LEI ESTADUAL: SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Pará:
+    “EMENTA: ADMINISTRATIVO. MANDADO DE SEGURANÇA. PRELIMINARES. REJEITADAS. SERVIDOR PÚBLICO. GRATIFICAÇÃO PELO EXERCÍCIO DE ATIVIDADE NA ÁREA DE EDUCAÇÃO ESPECIAL. SEGURANÇA PARCIALMENTE CONCEDIDA.
+    1. Inexiste decadência do direito à impetração quando a demanda versa sobre prestação de trato sucessivo, como a reivindicação de gratificação que compõe a remuneração mensal do servidor, pois nesta hipótese a lesão renova mensalmente o prazo para impetração do Writ.
+    2. Nas prestações de trato sucessivo a prescrição somente atinge as prestações vencidas antes do quinquênio anterior à propositura da ação, ou que não ocorre na estreita via do Writ, que só produz efeitos patrimoniais a partir da impetração, ex vi Sumulas n.º 85 do STJ e 271 do STF.
+    3 O exercício de atividade funcional junto a estabelecimento de ensino especial assegura ao servidor, inclusive temporário, o recebimento de gratificação de educação especial, na forma estabelecida no art. 31, inciso XIX, da Constituição Estadual e art. 246 da Lei n.º 5.810/94.
+    4 Segurança parcialmente concedida à unanimidade” (fl. 169).
+    3. O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 37 da Constituição da República e 17 do Ato das Disposições Constitucionais Transitórias.
+    Alega que “ao proferir a decisão, o Egrégio Tribunal de Justiça do Estado do Pará, no instante em que reconheceu o direito de receber a remuneração às impetrantes, sem levar em consideração a inconstitucionalidade dos artigos 132 e 246 da Lei nº 5.810/94, viola assim o contido no art. 37 fim da Constituição Federal” (fl. 230).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 280 do Supremo Tribunal Federal e a inexistência de ofensa constitucional direta (fl. 245).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. O reexame do acórdão impugnado demandaria a interpretação da legislação infraconstitucional aplicável à espécie (Lei estadual n. 5.810/1994). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA: OCUPANTE DE CARGO EM COMISSÃO. LEI ESTADUAL N. 5.810/94. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULAS 279 E 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 469.253-AgR/PA, de minha relatoria, Primeira Turma, DJ 7.8.2009).
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. ESTADO DO PARÁ. ART. 130 DA LEI 5.810/1994 (REGIME JURÍDICO ÚNICO). MATÉRIA INFRACONSTITUCIONAL. LEGISLAÇÃO LOCAL. Esta Corte, em várias ocasiões, concluiu que a discussão relativa aos requisitos do adicional do art. 130 da lei 5.810/1994 - adicional por ano de exercício de cargo de confiança ou função comissionada - não possui status constitucional. Precedentes: AI 197.358; AI 282.573-AgR. Agravo regimental a que se nega provimento” (RE 216.166-AgR/PA, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 28.5.2010).
+    “EMENTAS: 1. RECURSO. Extraordinário. Inadmissibilidade. Acórdão recorrido. Fundamentação autônoma. Não impugnação. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, fundamentação da decisão agravada. 2. RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Inativo. Extensão de vantagem: Gratificação de escolaridade (Leis estaduais nºs 5.020/82 e 5.810/94, do Estado do Pará). Interpretação de lei local. Agravo regimental não provido. Aplicação da súmula 280. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República” (AI 492.199-AgR/PA, Rel. Min. Cezar Peluso, Primeira Turma, DJ 11.11.2006).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
