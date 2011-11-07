@@ -1,0 +1,19 @@
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. ART. 544 DO CPC. PLURALIDADE DE ADVOGADOS.  PRESENÇA NOS AUTOS, DE REQUERIMENTO EXPRESSO PARA QUE AS INTIMAÇÕES FOSSEM EFETUADAS "APENAS" EM NOME DO SUBSTABELECIDO. INTIMAÇÃO REALIZADA A PATRONO DIVERSO. ALEGAÇÃO DE VIOLAÇÃO AOS PRINCÍPIOS DA PUBLICIDADE, DA AMPLA DEFESA E CONTRADITÓRIO. ARTS. 5º, LIV, LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL. SUBIDA DOS AUTOS.
+1. É admissível o provimento do agravo de instrumento para melhor exame da admissão do recurso extraordinário, ao nuto do Relator.
+2. Agravo de instrumento provido, determinando-se a subida do recurso extraordinário.
+    Decisão: Trata-se de agravo de instrumento interposto por FUNDAÇÃO BRTPREV, com fulcro no art. 544 do Código de Processo Civil, no intuito de ver reformada a r. decisão de fls. 1.040/1.041 e versos, que inadmitiu seu recurso extraordinário interposto com arrimo na alínea "a", do permissivo constitucional, firmada nos seguintes fundamentos: (i) ausência de prequestionamento dos dispositivos constitucionais suscitados, e (ii) a violação reflexa ao texto da Carta Magna não viabiliza o apelo extremo.
+    Noticiam os autos que Marco Aurélio Rodrigues Vieira e Outros ajuizaram ação postulando o pagamento de diferenças de correção monetária sobre o resgate da reserva de poupança e os valores das contribuições anteriores a março/1977, sendo julgado improcedente o pedido, o que ensejou a interposição de recurso de apelação, sendo ao final, provido, com o trânsito em julgado em 08/03/2004.
+    Os ora recorridos promoveram a liquidação do julgado, homologado por sentença o valor constante nos cálculos de fls. 674/711, retificados parcialmente à às fls. 753/773, sendo mantida a decisão em grau de recurso. A entidade de previdência privada foi intimada por mandado ao pagamento do débito no valor de R$ 92.625,95, acrescidos de R$ 1.278,93 e R$ 431,60 relativos a custas processuais.
+    Interposto agravo de instrumento por Fundação Brtprev em face do não reconhecimento de nulidade pela ausência de intimação do advogado constituído por substabelecimento e da aplicação da multa do art. 475-J do CPC, sendo o seguimento obstado pela decisão de fls. 939/941 e versos, o que deu ensejo à interposição de agravo interno. O acórdão recorrido está assim ementado, verbis:
+    “AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA. IMPUGNAÇÃO À EXECUÇÃO. FUNDAÇÃO BRTPREV. NULIDADE POR AUSÊNCIA DE INTIMAÇÃO DO ADVOGADO CONSTITUÍDO POR SUBSTABELECIMENTO AFASTADA. INTIMAÇÃO PESSOAL DO DEVEDOR PARA A INCIDÊNCIA DA MULTA DO 475-J DO CPC. DESNECESSIDADE. DECISÃO MANTIDA." (fl. 958).
+    Foram opostos embargos de declaração, tendo sido rejeitados.
+    Nas razões do apelo extremo, a recorrente sustenta, preliminarmente, estar caracterizada a necessária repercussão geral, e no mérito, aponta violação aos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal. Sustenta, em síntese, que o procurador do recorrente Dr. Fabrício Zir Bothomé não constou nas Notas de Expedientes intimatórias, desde o julgamento da apelação. Assevera, ainda, que foi requerido nas contrarrazões da apelação, expressamente, o seu cadastramento para o recebimento das intimações, sendo que o Tribunal a quo entendeu que, havendo mais de um advogado substabelecido representando a recorrente, a intimação veiculada em nome de qualquer um deles, seria suficiente para a validade do ato.
+    Contrarrazões às fls. 1.033/1.038.
+    Brevemente relatados, DECIDO.
+    É cediço ser admissível o provimento do agravo de instrumento para melhor exame da admissão do recurso extraordinário, ao nuto do relator.
+    Ex positis, DOU PROVIMENTO ao presente agravo de instrumento, determinando a subida do recurso extraordinário, para melhor exame.
+    Publique-se. Int..
+    Brasília, 7 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
