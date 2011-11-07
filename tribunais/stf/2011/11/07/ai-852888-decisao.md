@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+          “(...) ACORDO JUDICIAL. SIMULAÇÃO. ANULAÇÃO DA DISCRIMINAÇÃO EFETUADA. REEXAME DE FATOS E PROVAS. Somente mediante o revolvimento do arcabouço fático-probatório delineado seria possível desconstituir o entendimento firmado pela Corte regional no sentido de que comprovada, a existência de simulação no acordo homologado, de tal modo que a verificação de eventual afronta aos preceitos tidos como violados esbarra no óbice da Súmula 126/TST.
+    CONTRIBUIÇÃO PREVIDENCIÁRIA. ACORDO JUDICIAL. HOMOLOGAÇÃO. QUADRO FÁTICO CONDIZENTE COM AUSÊNCIA DE DISCRIMINAÇÃO DAS PARCELAS. PARCELAS INDENIZATÓRIAS DISCRIMINADAS. INCIDÊNCIA SOBRE O VALOR TOTAL.
+    Nos termos da Orientação Jurisprudencial 368/SDI-I do TST, "é devida a incidência das contribuições para a Previdência Social sobre o valor total do acordo homologado em juízo, independentemente do reconhecimento de vínculo de emprego, desde que não haja discriminação das parcelas sujeitas à incidência da contribuição previdenciária, conforme parágrafo único do art. 43 da Lei nº 8.212, de 24.07.1991, e do art. 195, I, "a", da CF/1988." Incidência do art. 896, § 4º, da CLT e da Súmula 333/TST.
+    Recurso de revista não-conhecido.”(fls. 128-129)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, II, XXXV, XXXVI, LIV e LV, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “o acórdão recorrido, ao manter a incidência da contribuição previdenciária em desacordo ao expressamente registrado na conciliação levada a termo pelas partes, viola frontalmente o artigo 5º, XXXVI, da CF/88 ante o patente desrespeito à coisa julgada.”(fl. 172).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que a controvérsia relativa ao teor do acordo firmado entre reclamante e reclamado em audiência e à existência ou não de simulação na referida conciliação resultou do exame dos elementos fático-probatórios constantes dos autos pelas instâncias originárias, que não podem ser revistos em sede de recurso extraordinário, nos termos da Súmula 279 desta Corte.
+    Nesse sentido, os seguintes precedentes: AI-AgR 709.133, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 6.2.2009 e RE-AgR 563.802, Rel. Min. Ellen Gracie, Segunda Turma, DJe 3.4.2009, este último com acórdão assim ementado:
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANOS MORAIS. REDUÇÃO DO VALOR DA CONDENAÇÃO. ART. 5º V e X CF/88. 1. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais,
+    pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta ou reflexa ao art. 5º, V e X da Constituição Federal. 2. Agravo regimental não provido”.
+    Ademais, segundo pacífico entendimento do STF, mera alegação de violação aos primados constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, XXXV, LIV e LV) é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa.
+    Sobre o tema, confiram-se o AI-AgR 726.766, 2ª Turma, Rel. Min. Ellen Gracie, DJe 21.5.2010; e o AI-AgR 660.254, 1ª Turma, Rel. Min. Dias Toffoli, DJe 14.5.2010, cuja ementa assim dispõe:
+    “Agravo regimental no agravo de instrumento. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Indeferimento de diligência probatória. Ausência de violação à Constituição Federal. Precedentes. 1. As alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República. 2. O indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. 3. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil.”
+     Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, e 544, § 4º, II, “b”, do CPC).
+    Publique-se. Int.
+    Brasília, 7 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
