@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1209, de 7 de novembro de 2011
+Estabelece requisitos e procedimentos para o exercício das profissões de despachante aduaneiro e de ajudante de despachante aduaneiro.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL, SUBSTITUTA, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no § 3º do art. 5º do Decreto-Lei nº 2.472, de 1º de setembro de 1988, e nos arts. 808 a 810 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
