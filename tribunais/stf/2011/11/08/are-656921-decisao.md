@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que determinou a devolução, pela recorrente, de valores pagos a maior pela União, em razão de erro material.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    O agravo não merece acolhida. Isso porque esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Ayres Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes , sendo que deste último extraio a ementa:
+    “Agravo regimental em agravo de instrumento. 2. Embargos à execução. Ofensa ao art. 5º, XXXVI (princípio da coisa julgada), da Constituição Federal. Questão que não se examina em face de execução. Limites da coisa julgada. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento”.
+    No que se refere à alegação de que os valores pagos a maior são insuscetíveis de devolução ao erário por terem sido recebidos de boa fé, melhor sorte não lhe assiste. É que a recorrente não indicou o dispositivo constitucional supostamente violado pela decisão a quo. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes e AI 470.069-AgR/PR, Rel. Min. Ayres Britto
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de novembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
