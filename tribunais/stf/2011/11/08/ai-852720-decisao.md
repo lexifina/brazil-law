@@ -1,0 +1,11 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo no qual a parte ora agravante sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar, no tocante à alegada violação ao preceito inscrito no art. 5º, inciso LV, da Constituição Federal, que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    De outro lado, cabe observar, quanto à discussão sobre o caráter alegadamente confiscatório da multa imposta por lei, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impende registrar, finalmente, que o Plenário desta Suprema Corte, após reconhecer configurada a existência de repercussão geral do tema, julgou o fundo da controvérsia constitucional (igualmente objeto de veiculação nesta causa), proferindo decisão consubstanciada em acórdão assim ementado:
+    “1. Recurso extraordinário. Repercussão geral.
+    2. Taxa Selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária. (…).”
+    Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 08 de novembro de 2011.
+Ministro CELSO DE MELLO
+Relator
