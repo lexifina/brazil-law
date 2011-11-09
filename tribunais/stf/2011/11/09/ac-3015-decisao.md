@@ -1,0 +1,31 @@
+DECISÃO
+AÇÃO CAUTELAR. PEDIDO DE MEDIDA LIMINAR. AGRAVO DE INSTRUMENTO NO RECURSO EXTRAORDINÁRIO. EFEITO SUSPENSIVO CONCEDIDO SOMENTE EM CASOS EXCEPCIONAIS. EXCEPCIONALIDADE NÃO CONFIGURADA. AÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Ação cautelar, com pedido de medida liminar, ajuizada por Francisco Hildemburgo Costa Bezerra, em 21.10.2011, com o objetivo de obter efeito suspensivo ao Agravo de Instrumento no Recurso Extraordinário n. 0003123-62.2010.8.22.003.
+O caso
+    2. O agravo de instrumento foi interposto por Francisco Hildemburgo Costa Bezerra contra o seguinte julgado do Presidente do Tribunal de Justiça de Rondônia:
+    “Tratou-se de mandado de segurança, impetrado pelo recorrente, visando à anulação do Processo Administrativo Disciplinar nº 107/2010, bem como à reintegração ao cargo de Vereador do Município de Jaru/RO. A ordem foi concedida em 1º grau. Em sede de apelação, a decisão foi reformada, para denegar a segurança. Opostos embargos declaratórios, estes foram rejeitados.
+    Daí o inconformismo do recorrente.
+    Analisando as razões recursais, vê-se que as matérias tratadas nos artigos precitados não foram discutidas em momento algum pelo Tribunal de origem, ao tempo que o recorrente, não se valendo, nessa parte, dos embargos declaratórios para sanar no v. acórdão a omissão em tela (Súmula 356 do STF), fez com que o presente recurso incidisse no teor da Súmula 282 do STF.
+    Ademais, a contrariedade ao texto constitucional tem de ser direta e não por via meramente reflexa. No presente caso, no intuito de demonstrar eventual violação das normas constitucionais citadas, o recorrente se debruçou sobre normas infraconstitucionais, ou seja, os arts. 128, 460, 467, 505, 515 e 516, todos do CPC.
+      Posto isso, não admito este recurso extraordinário.”
+    3. O Autor alega “o Tribunal rondoniense atribuiu, por sua conta e risco, uma nova competência ao cargo de prefeito municipal de Jaru/RO e, com o mesmo cajado, também elasteceu quem são os legitimados a oferecer, no Município de Jaru/RO, denúncia em processo administrativo de cassação de mandato de vereador.”
+    Ressalta que “quem define a competência administrativa e a legitimidade para a prática do ato é exclusivamente a lei.”
+    Assevera presentes os requisitos necessários para o deferimento da medida liminar.
+    Requer medida liminar, “pois presentes os seus requisitos, para o fim de atribuir efeito suspensivo ao Recurso Extraordinário interposto pelo Requerente junto ao Egrégio Tribunal de Justiça do Estado de Rondônia nos autos nº 0003123-62.2010.8.22.0003, em trâmite na 2ª Câmara Especial Cível.”
+    Pede seja confirmada, em caráter definitivo, a cautelar deferida liminarmente.
+    Examinados os elementos havidos na espécie, DECIDO.
+    4. Apesar de argumentar a plausibilidade jurídica do pedido de suspensão de execução e o perigo de dano irreparável ou de difícil reparação, a pretensão do Autor, nesse momento processual, não se afigura plausível.
+    Este Supremo Tribunal decidiu pelo indeferimento do pedido de efeito suspensivo a agravo de instrumento interposto contra decisão que não tenha admitido o recurso extraordinário.
+    Na assentada de 18.5.1993, no julgamento do agravo Regimental na Petição n. 721/SP, Relator o Ministro Celso de Mello, a Primeira Turma deste Supremo Tribunal decidiu:
+    “AGRAVO DE INSTRUMENTO - EFEITO SUSPENSIVO - INVIABILIDADE NAS HIPÓTESES DE INADMISSÃO DO RECURSO EXTRAORDINÁRIO - MEDIDA CAUTELAR INOMINADA INDEFERIDA LIMINARMENTE - agravo REGIMENTAL IMPROVIDO. - O recurso extraordinário não dispõe, em regra, de efeito suspensivo (Lei nº 8.038/90, art. 27, par. 2.), circunstância esta que legitima, até mesmo, a própria execução provisória do julgado recorrido. - A outorga de efeito suspensivo ao recurso extraordinário - ato que se incluí na esfera de privativa competência do Supremo Tribunal Federal - reveste-se, sempre, de caráter excepcional, sendo vedada a sua concessão naquelas hipóteses em que o apelo extremo tenha sofrido juízo negativo de admissibilidade na instância 'a quo', ainda que interposto, nos termos do art. 28 da Lei n. 8.038/90, agravo de instrumento para a Suprema Corte” (DJ 13.8.1993, grifos nossos).
+    5. Apenas em situações excepcionalíssimas, o Supremo Tribunal Federal tem deferido o efeito suspensivo a recurso na forma aqui pretendida, quando se patenteiam a plausibilidade jurídica do recurso extraordinário e o risco de perecimento do direito, o que não se dá na espécie.
+    Em caso análogo ao presente, a Segunda Turma deste Supremo Tribunal negou seguimento ao Agravo Regimental na Ação Cautelar 2.744/PR, Relator o Ministro Joaquim Barbosa, pela qual se pretendia atribuir efeito suspensivo a agravo de instrumento:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AÇÃO CAUTELAR. EFEITO SUSPENSIVO. AGRAVO DE INSTRUMENTO. AUSÊNCIA DOS PRESSUPOSTOS. Segundo orientação firmada por esta Corte, a atribuição de efeito suspensivo ou de tutela recursal ao agravo de instrumento é medida excepcional, que somente se justifica se houver densa probabilidade de conhecimento e de provimento do próprio recurso extraordinário. No caso em exame discute-se a a aplicação dos princípios do contraditório e da ampla defesa ao processo falimentar, em especial ao curso que tomou o pedido de falência em relação à ora agravante. Não há excepcionalidade que justifique a superação imediata dos precedentes desta Corte acerca do caráter infraconstitucional das violações constitucionais alegadas. Ademais, se há recurso especial pendente de exame, sem a inversão de julgamento nos termos do art. 543, § 2º, do CPC e sem inequívoca matéria constitucional de ressalto, deve-se prestigiar o poder de cautela conferido ao Superior Tribunal de Justiça. Agravo regimental ao qual se nega provimento” (DJe 25.4.2011, grifos nossos).
+    6. Assim, na esteira dos precedentes deste Supremo Tribunal, tem-se como não atendidos os requisitos exigidos em ação cautelar, não podendo, portanto, prosperar o pedido ora formulado.
+    7. Pelo exposto, nego seguimento à presente ação cautelar, ficando prejudicado, por óbvio, o pedido de medida liminar (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Arquive-se.
+    Brasília, 9 de novembro de 2011.
+ Ministra CÁRMEN LÚCIA
+Relatora
