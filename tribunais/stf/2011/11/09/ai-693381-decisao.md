@@ -1,0 +1,12 @@
+Decisão: Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou provimento à Apelação na qual a parte ora recorrente pleiteara a estabilidade prevista no art. 19 do Ato das Disposições Constitucionais Transitórias (ADCT) e respectivos direitos e vantagens. Eis a ementa (fls. 16):
+    “ADMINISTRATIVO. FUNDAÇÃO DE DIREITO PRIVADO (METROPLAN – FUNDAÇÃO METROPOLITANA DE PLANEJAMENTO). VÍNCULO EMPREGATÍCIO. REGIME JURÍDICO ÚNICO. IMPOSSIBILIDADE. DISTINÇÃO ENTRE ESTABILIDADE E EFETIVIDADE NO SERVIÇO PÚBLICO. A CONSTITUIÇÃO FEDERAL PREVÊ QUE O ACESSO A CARGO PÚBLICO EFETIVO OCORRE ATRAVÉS DE CONCURSO PÚBLICO DE PROVAS E TÍTULOS (ART. 37, II). TRANSPOSIÇÃO PARA O REGIME JUÍDICO ÚNICO, INCONSTITUCIONALIDADE DO ART. 276, § 2º, DA LCE Nº 10.098/94. HIPÓTESE DE SERVIDOR PÚBLICO LATU SENSU, NA CATEGORIA DE EMPREGADO PÚBLICO, NÃO PODENDO SER BENEFICIADO PELO REGIME JURÍDICO AFEITO AOS SERVIDORES PÚBLICOS STRICTO SENSU, REGIDOS PELO VÍNCULO ESTATUTÁRIO OU ADMINISTRATIVO. JURISPRUDÊNCIA COLACIONADA QUE DEVE SER INTERPRETADA À LUZ DAS NOVAS DISPOSIÇÕES CONSTITUCIONAIS (EC Nº 19/98), MODIFICANDO O ART. 37 DA CARTA MAGNA, PARA ARREDAR O REGIME ÚNICO, PODENDO SER ADOTADO O ESTATUTÁRIO OU CELETISTA. FUNDAÇÃO INSTITUÍDA PELO ESTADO, NATUREZA JURÍDICA DE DIREITO PRIVADO PREVISTA EM SUA CONSTITUIÇÃO. FIGURA DA ESTABILIDADE NO SERVIÇO PÚBLICO (ART. 19 ADCT) QUE TAMBÉM NÃO SE APLICA. VERBA HONORÁRIA MANTIDA. AÇÃO IMPROCEDENTE. SENTENÇA CONFIRMADA. APELAÇÃO DESPROVIDA.
+     Alega o recorrente ofensa aos artigos 22, XXVII; 37, XVII, XIX; 39; 71, II, III , IV; 150, § 2º; 163, II, da Constituição e 19 do ADCT/88. Assevera que a natureza pública da fundação recorrida autorizaria fosse beneficiado pela estabilidade excepcional prevista na disposição transitória.
+    Não prospera o recurso.
+    Verifico inicialmente que, com exceção do que diz respeito ao art. 19 do ADCT, a decisão impugnada não examinou as supostas violações à Constituição. Incide, no ponto, o óbice das Súmulas 282 e 356 desta Corte.
+    Ademais, esta Corte já decidiu que a questão da natureza jurídica da fundação para fins de aplicação da estabilidade excepcional do art. 19 do ADCT envolve ofensa indireta à Constituição (AI 239.048-AgR, rel. min. Nelson Jobim, Segunda Turma, DJ 05.11.1999; AI 209.205, rel. min. Ilmar Galvão, Primeira Turma, DJ 21.08.1998).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 9 de novembro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
