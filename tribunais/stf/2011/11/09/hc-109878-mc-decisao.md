@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Cuida-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão proferido pelo Superior Tribunal de Justiça. Acórdão que validou a pena imposta ao paciente pelo delito de tráfico de entorpecentes.
+    2. Pois bem, a Defensoria Pública do Espírito Santo, impetrante, insiste na tese de ilegalidade na dosimetria da pena afinal aplicada ao paciente. Estes os fundamentos da impetração: a) o aumento da pena-base está embasado em análise abstrata das circunstâncias judiciais; b) as instâncias precedentes não justificaram validamente a escolha do percentual de diminuição da pena pela incidência do §4º do art. 33 da Lei 11.343/2006; c) redimensionada a sanção, o caso é de substituição da pena privativa de liberdade por penas restritivas de direito.
+    3. Presente esta moldura, a impetrante pugna pela concessão de liminar, por entender caracterizada a plausibilidade jurídica do pedido. No mérito, o pleito é de concessão da ordem para a correção na dosimetria da pena.
+    4. Feita esta síntese do pedido, decido. Fazendo-o, anoto, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    5. No caso, não estão configurados, desde logo, os requisitos necessários à concessão da liminar. É que a via processualmente estreita do habeas corpus só se presta a rever a pena quando for evidente a ilegalidade ou o abuso de poder. E desde que inexistam motivação [formalmente idônea] de mérito e a congruência lógico-jurídica entre os motivos declarados e a conclusão (v.g., HC 69.419, Pertence, RTJ 143/600) (HC 70.362, da relatoria do ministro Sepúlveda Pertence). O que, ao menos nesse exame prefacial da causa, não me parece ser o caso dos autos. Motivo pelo qual indefiro a medida liminar requerida; reservando-me, é claro, a um mais detido exame da causa por ocasião do julgamento de mérito deste HC.
+    6. Abra-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Intime-se.
+    Brasília, 09 de novembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
