@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário com agravo contra decisão de inadmissibilidade de apelo extremo que impugna acórdão assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO. PENHORA ELETRÔNICA. BLOQUEIO DE NUMERÁRIO. LEGALIDADE. ART. 655-A, CPC.
+    1. Não configura ilegalidade a efetivação de penhora eletrônica incidente sobre numerário mantido pelo devedor, até o limite da execução, a fim de garantir a satisfação do crédito, não havendo falar em proteção do sigilo bancário, ante a expressa previsão do artigo 655-A, §1º, do CPC.
+    2. Segundo jurisprudência do colendo STJ, é possível a penhora sobre dinheiro depositado em conta bancária de titularidade de pessoa jurídica, sem que haja afronta ao princípio da menor onerosidade da execução previsto no art. 620 do CPC.
+    3. Recurso não provido”.
+    No apelo extremo, a recorrente sustenta violação aos artigos 5º, incisos X, XXII, XXXV, LIV, LV e 93, IX, da Constituição Federal
+     O acórdão recorrido assim entendeu:
+     “(...) compulsando os autos, não se divisa qualquer abusividade ou ilegalidade apta a ser afastada nesta sede recursal, tendo a d. Magistrada se valido da nova disciplina legal para dar efetividade à justa perspectiva do credor em ver satisfeita a obrigação espelhada na sentença judicial executada, não sendo possível extrair a ilação – apregoada pela Recorrente – de que tenha a decisão ora recorrida malferido a inviolabilidade do seu sigilo bancário (...)”.
+     O Tribunal a quo decidiu a questão com base em legislação infraconstitucional (Lei da Execução Fiscal e Código de Processo Civil). Desse modo, para se entender de forma diversa, seria necessária a prévia análise da mencionada legislação, procedimento incabível na via extraordinária.
+     Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, 2ª Turma, DJe 24.2.2011, e do AI-AgR 807.815, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 25.11.2010, cuja ementa dispõe:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. BLOQUEIO DE ATIVOS FINANCEIROS. PENHORA ON LINE. SISTEMA BACEN JUD. ALEGADA QUEBRA DE SIGILO BANCÁRIO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão com base na legislação infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Não há contrariedade ao art. 93, IX, da Magna Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. O mencionado dispositivo constitucional não impõe seja a decisão exaustivamente fundamentada, mas sim o que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. IV - Agravo regimental improvido.”
+     Ademais, é firme a jurisprudência desta Corte no sentido que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+     Além disso, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que o STF já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+     Ainda, ressalto que esta via excepcional não viabiliza pretensão cuja análise demande o reexame do conjunto fático-probatório constante dos autos (Súmula 279).
+     Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 10 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
