@@ -1,0 +1,31 @@
+DECISÃO
+MANDADO DE SEGURANÇA. ATO DO CORREGEDOR NACIONAL DE JUSTIÇA. DECLARAÇÃO DE VACÂNCIA DE SERVENTIA EXTRAJUDICIAL. MEDIDA LIMINAR INDEFERIDA. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Mandado de segurança, com pedido de medida liminar, impetrado, em 20.6.2011, por Eudina Alves Viana Rodrigues de Oliveira contra ato do Corregedor Nacional de Justiça, que incluiu o Cartório Único de Lagoa dos Gatos/PE, de titularidade da Impetrante, em lista de serventias vagas.
+O caso
+    2. A Impetrante afirma que teria sido aprovada em concurso público para exercer o cargo de tabeliã e escrivã do Cartório do Ofício Único do Município de Lagoa dos Gatos/PE.
+    Relata que seu cartório teria sido incluído na lista provisória de serventias declaradas vagas na Resolução n. 80/2009 do Conselho Nacional de Justiça, motivo pelo qual propôs impugnação nos termos do art. 2º dessa Resolução.
+    Explica que o Cartório do Ofício Único do Município de Lagoa dos Gatos/PE não estava incluído na lista definitiva de serventias declaradas vagas publicada em 12.7.2010.
+    Alega que teria sido afastada do Cartório de Lagoa dos Gatos/PE, de sua titularidade há mais de quarenta anos, pelo Conselho da Magistratura do Estado (Processo n. 004/2005-6), com fundamento no art. 236 da Constituição da República, sem que tivesse oportunidade do contraditório e da ampla defesa.
+    Assevera que, por esse motivo, impetrou o Mandado de Segurança n. 171762-2 no Tribunal de Justiça de Pernambuco, pendente de julgamento (fl. 3 da petição inicial).
+    Sustenta que o cartório de sua titularidade obedeceria às exceções ao art. 236 da Constituição da República, dispostas nos arts. 31 e 32 do Ato das Disposições Constitucionais Transitórias, pois teria sido oficializado em 1981, com fundamento na Lei estadual n. 8.879/1981, “a qual dispunha que a referida serventia funcionaria como anexo do Cartório de Registro de Imóveis e seus anexos, com a denominação de Cartório do Único Ofício” (fl. 3 da petição inicial).
+    A Impetrante pretende evitar que o cartório de sua titularidade seja incluído no edital do concurso a ser realizado pelo Tribunal de Justiça de Pernambuco.
+    Pondera que haveria “óbvio perigo de danos graves, quando menos de difícil reparação, assim para a Administração, como para a Impetrante e outros interessados por acaso candidatos ao concurso pertinente”. Argumenta, ainda, que “o retardo, em que se resolve a liminar, não embaraça[ria] o funcionamento dos serviços cartorários no âmbito da circunscrição da serventia de titularidade da ora Impetrante, nem produz[iria] dano irreversível a ninguém, dado que, (...) sempre possível ser[ia] o cumprimento da indigitada resolução, visto que estabelece, a cada semestre, a publicação da lista de serventias vagas, para abertura e realização do concurso público de provimento respectivo” (fls. 7-8 da petição inicial).
+    Requer medida liminar para determinar que a “Autoridade Coatora inclua o Cartório Único de Lagoa dos Gatos na lista de Pendências Judiciais junto ao Conselho Nacional de Justiça” (fl. 8 da petição inicial).
+    No mérito, pede seja concedida a segurança “determinando a inclusão do Cartório Único da Comarca de Lagoa dos Gatos/PE na lista de Pendências Judiciais, até julgamento do seu processo junto ao TJPE” (fl. 8 da petição inicial).
+    3. Em 1º.8.2011, determinei fosse o Conselho Nacional de Justiça notificado para prestar informações a fim de esclarecer sobre o andamento do Mandado de Segurança n. 171762-2, impetrado por Eudina Alves Viana Rodrigues de Oliveira no Tribunal de Justiça de Pernambuco.
+    4. Em 15.8.2011, a Corregedora Nacional de Justiça informou que a petição inicial do Mandado de Segurança n. 171762-2 foi indeferida pelo Desembargador Relator, pois “haviam transcorrido mais de 120 dias entre o ato coator e a impetração” (fl. 6 das informações). Essa decisão transitou em julgado em 16.8.2010.
+    Conclui que “não se pode[ria] reconhecer que o Cartório do Ofício Único de Lagoa dos Gatos estaria provido, porque houve a decisão de perda da delegação retro referida, nem que a serventia estaria dentre as que enfrentam pendência judicial” (fl. 6 das informações).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O mandado de segurança foi impetrado no prazo legal. O ato apontado como coator data de 30.1.2011, do qual conheceu a Impetrante em 25.2.2011, conforme comprova o documento n. 2 juntados aos autos.
+    6. Para deferir a medida liminar em mandado de segurança, o art. 7º, inc. III, da Lei n. 12.016/2009 e o § 1º do art. 203 do Regimento Interno do Supremo Tribunal exigem a conjugação de relevante fundamento e a circunstância de que do ato impugnado possa resultar a ineficácia da medida caso essa venha a ser deferida somente ao final.
+    O ato tido como coator fundamentou-se em que o Mandado de Segurança n. 171762-2, que tramitava no Tribunal de Justiça de Pernambuco e que autorizava a permanência do Cartório Único de Lagoa dos Gatos na lista de serventias providas, foi extinto sem julgamento de mérito, por decisão que transitou em julgado em 16.8.2010.
+    A Impetrante requer medida liminar para que se determine à “Autoridade Coatora [que] inclua o Cartório Único de Lagoa dos Gatos na lista de Pendências Judiciais junto ao Conselho Nacional de Justiça” (fl. 8 da petição inicial).
+    Não traz, no entanto, argumentos que demonstrem porque, após o trânsito em julgado do Mandado de Segurança n. 171762-2, teria direito líquido e certo à manutenção do Cartório Único de Lagoa dos Gatos na lista de serventias com pendências judiciais.
+    Assim, nesse exame preliminar e precário, próprio das liminares, não está demonstrada a relevância dos fundamentos expendidos nesta ação a justificar o deferimento do requerimento liminar formulado.
+    7. Pelo exposto, sem prejuízo da regular apreciação da matéria no julgamento do mérito, indefiro a medida liminar requerida (art. 7º, inc. III, da Lei n. 12.016/2009).
+    8. Prestadas as informações requisitadas, vista ao Procurador-Geral da República (art. 12 da Lei n. 12.016/2009 e art. 52, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
