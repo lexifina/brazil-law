@@ -1,0 +1,2 @@
+Altera a Lei Complementar no 123, de 14 de dezembro de 2006, e as Leis nos 5.889, de 8 de junho de 1973, 11.101, de 9 de fevereiro de 2005, 9.099, de 26 de setembro de 1995, 11.598, de 3 de dezembro de 2007, 8.934, de 18 de novembro de 1994, 10.406, de 10 de janeiro de 2002, e 8.666, de 21 de junho de 1993; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
