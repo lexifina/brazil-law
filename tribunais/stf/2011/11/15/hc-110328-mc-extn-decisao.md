@@ -1,0 +1,25 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – CORRÉUS – EXTENSÃO – DEFERIMENTO.
+    1. A Assessoria prestou as seguintes informações:
+    Tem este teor a decisão mediante a qual Vossa Excelência deferiu a liminar em favor do paciente:
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUFICIÊNCIA – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente está submetido à investigação em curso no Inquérito Policial Militar nº 000019-13.2011.7.03.0303, sendo-lhe imputada a prática do delito de roubo, ocultação e uso de um fuzil automático leve (FAL) e respectiva munição, que se encontravam no posto P3 da 13ª Companhia de Depósito de Armamentos e Munição das Forças Armadas.
+    Ante os fatos apurados, o Ministério Público Militar requereu a prisão preventiva do investigado. O Juiz-Auditor Substituto da 3ª Auditoria da 3ª Circunscrição Judiciária Militar indeferiu o pleito. Posteriormente, presentes novas informações, o Ministério Público Militar formalizou outro pedido de prisão, que veio a ser acolhido. Anotou-se a circunstância de existirem indícios da participação do paciente na conduta delituosa e a necessidade de assegurar a garantia da ordem pública, em face da personalidade voltada para o crime, sendo capaz de ameaçar testemunhas, visando comprometer a aplicação da lei penal.
+    Contra a referida decisão, impetrou-se habeas no Superior Tribunal Militar. A ordem não foi concedida. O Tribunal destacou estar devidamente fundamentado o ato mediante o qual determinada a prisão cautelar, ressaltando a suposta participação do paciente no roubo de um Fuzil FAL e respectivas munições, que teriam sido utilizados pelos outros três indiciados e integrantes da quadrilha, para a prática de roubo em agência bancária.
+    A inicial deste habeas volta-se contra esse acórdão. A Defensoria Pública da União sustenta que a custódia está calcada em alusões genéricas, não tendo sido demonstrada a presença de elementos concretos a autorizarem a medida excepcional. Diz ser preciso observar-se o princípio da não culpabilidade, sendo insuficientes os indícios de autoria e a prova da materialidade do delito.
+    Pede a concessão de liminar no sentido de suspender os efeitos do acórdão impugnado, até decisão final desta impetração, assegurando-se ao paciente o direito de aguardar em liberdade o julgamento do habeas. No mérito, pleiteia o deferimento da ordem, confirmando-se a medida acauteladora e assegurando-se o direito de permanecer solto enquanto espera o julgamento do processo-crime que vier a ser ajuizado com base no referido inquérito.
+    2. Observem a legislação de regência. Enquanto o artigo 254 do Código de Processo Penal Militar prevê a necessidade de ter-se a prova do fato delituoso e indícios suficientes de autoria, o artigo seguinte impõe que a prisão antecipada vise a garantia da ordem pública, a conveniência da instrução criminal, o afastamento do acusado perigoso do meio social, o campo propício à aplicação da lei penal militar e a guarda da hierarquia e da disciplina militares quando ameaçadas ou atingidas com a liberdade do indiciado ou acusado.
+    Nota-se, na decisão atacada, que a custódia resultou de indícios da colaboração do paciente com o roubo de armamento. Fez-se alusão à circunstância de a permanência em liberdade afrontar os princípios basilares da hierarquia e da disciplina militares, mas não se apontou no que esses predicados próprios às Forças Armadas estariam em risco se o envolvido nas investigações ficasse solto.
+    Uma coisa é ter-se a suspensão do soldado das atividades que vem desenvolvendo no órgão militar. Algo diverso é, a partir da premissa sobre a culpa, dizer-se ameaçada a instituição.
+    3. Defiro a medida acauteladora para afastar, em relação ao paciente, o ato de constrição.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+    Brasília – residência –, 26 de setembro de 2011, às 20h10.
+    Os corréus Diego Antunes Soares, Hugo Guilherme Capiera Rodrigues, Paulo Roberto Severo do Nascimento e Willian Vendrúsculo de Córdova – contra os quais, no mesmo ato, também foi determinada a prisão preventiva – requerem a extensão dos efeitos da medida cautelar deferida em favor do paciente, por se encontrarem na mesma situação processual.
+    2. A situação dos corréus, quanto ao ato que a 3ª Auditoria da 3ª Circunscrição Judiciária Militar veio a implementar no IPM nº 19-13.2011.7.03.0303, é idêntica. Conforme disposto no artigo 580 do Código de Processo Penal, cabe deferir a extensão.
+    3. Cumpram os alvarás de soltura com as cautelas próprias, ou seja, caso os beneficiários da extensão, Diego Antunes Soares, Hugo Guilherme Capiera Rodrigues, Paulo Roberto Severo do Nascimento e William Vendrúsculo de Córdova, não estejam presos por motivos diversos do examinado, isso considerada a referência, na decisão da 3ª Auditoria da 3ª Circunscrição Judiciária Militar, à circunstância de estarem custodiados pela Justiça Comum.
+    4. Publiquem.
+Brasília – residência –, 15 de novembro de 2011, às 19h20.
+Ministro MARCO AURÉLIO
+Relator
