@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 208):
+    “Mandado de Segurança. Decisão que fixa multas pelo descumprimento da ordem, com base nos artigos 601 e 644, do Código de Processo Civil. Inconformismo do Estado do Rio de Janeiro. Improvimento do Agravo Regimental.
+    Em se tratando de PENSÕES RETIDAS, estando comprovado o ATO ARBITRÁRIO e ilegal da Administração Pública, a sentença, que concedeu a segurança, tem o caráter auto-executório, razão pela qual deve ser cumprida imediatamente, com a liberação total, posto que a retenção dolosa, por parte da Administração, apresenta-se delituosa, a exemplo do disposto no Inciso X, do artigo 7º, da Constituição Federal de 1988, caracterizando a resistência, ao cumprimento da decisão, ato atentatório à dignidade da Justiça, na forma do Inciso III, do artigo 600, do Código de Processo Civil, o que justifica a aplicação da multa prevista no artigo 601, que se lhe segue, e a do artigo 644, do mesmo Código, o que se faz necessário, para que não haja mais tergiversação alguma.”
+    2. Pois bem, a parte recorrente alega violação ao art. 100 da Carta Magna de 1988. Defende que “deve ser inteiramente reformado o v. acórdão a quo, já que entendeu desnecessária a expedição de Precatório, bem como reformada a condenação no pagamento de multa de 20% do valor da pensões retidas e de astreintes por atraso no pagamento” (fls. 355).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo provimento do apelo extremo.
+    4. Tenho que a insurgência merece acolhida. Isso porque o Supremo Tribunal Federal já firmou o entendimento no sentido de que o caráter alimentar do crédito contra a Fazenda Pública e a circunstância de que tais valores sejam decorrentes de sentença concessiva de segurança não dispensam o regime de precatório de que trata o art. 100 do Magno Texto.
+    5. Precedentes: AI 589.584-AgR, da relatoria da ministra Ellen Gracie; e REs 334.279, da relatoria do ministro Sepúlveda Pertence; 507.319, da minha relatoria; 590.842, da relatoria do ministro Cezar Peluso; e 631.932, da relatoria do ministro Ricardo Lewandowski.
+    Isso posto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. Sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
