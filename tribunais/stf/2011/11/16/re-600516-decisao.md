@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que considerou inválida a exclusão do autor do Quadro de Pessoal da Secretaria da Assembleia Legislativa Estadual de Alagoas, visto que não foi precedida de devido processo legal.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação ao art. 5º, LV e LXIX, da mesma Carta. Alegou-se, também, que inexiste direito líquido e certo à reintegração do recorrido, haja vista que não há nos autos prova pré-constituída acerca das afirmações do impetrante.
+    A pretensão recursal não merece acolhida.
+    A verificação da procedência do argumento do recorrente quanto à ausência de prova pré-constituída e ao não cabimento, no caso, de mandado de segurança demandaria o reexame do conjunto fático-probatório dos autos – o que é vedado pela Súmula 279 do STF – e de normas infraconstitucionais, sendo certo que eventual ofensa à Constituição, nesse ponto, seria apenas reflexa, o que inviabiliza o recurso extraordinário. Nesse sentido: AI 800.074-RG/SP, Rel. Min. Gilmar Mendes, Plenário; RE 612.702-AgR/AL, Rel. Min. Cármen Lúcia, Primeira Turma; AI 665.191-AgR/SP, Rel. Min. Joaquim Barbosa, Segunda Turma.
+    Ademais, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, no sentido de que não pode a Administração exonerar servidores, mesmo que não estáveis, sem a observância de procedimento específico, em que seja assegurado o direito à ampla defesa e ao contraditório. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “CONSTITUCIONAL. ADMINISTRATIVO. EXONERAÇÃO DE SERVIDOR PÚBLICO. CONTRADITÓRIO E AMPLA DEFESA. I. - Servidor público, ainda que não goze de estabilidade excepcional, não pode ser exonerado do cargo sem a observância do devido processo legal. II. - Agravo não provido” (RE 409.997-AgR/AL, Rel. Min. Carlos Velloso, Segunda Turma) .
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESTADO DE RONDÔNIA. POLICIAIS MILITARES. PROCESSO ADMINISTRATIVO DISCIPLINAR. LICENCIAMENTO EX OFFICIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.
+    A jurisprudência da Corte tem se firmado no sentido de que a ausência de processo administrativo ou a inobservância aos princípios do contraditório e da ampla defesa torna nulo o ato de demissão de servidor público, seja ele civil ou militar, estável ou não.
+    Agravo regimental a que se nega provimento” (RE 196.554-AgR/RO, Rel. Min. Eros Grau, Primeira Turma).
+    Com esse raciocínio, destaco, ainda, os seguintes precedentes: RE 594.296/MG, Rel. Min. Dias Toffoli; AI 848.515/PE, Rel. Min. Marco Aurélio; RE 574.546/RS e ARE 640.423/MG, Rel. Min. Ayres Britto; RE 223.904/MG, Rel. Min. Ellen Gracie; RE 222.532/MG, Rel. Min. Sepúlveda Pertence; RE 223.927-AgR/MG, Rel. Min. Maurício Corrêa; RE 240.735-AgR/MG, Rel. Min. Eros Grau; RE 351.489/PR, Rel. Min. Gilmar Mendes; RE 568.863/AM, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
