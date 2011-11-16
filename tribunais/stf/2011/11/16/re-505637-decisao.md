@@ -1,0 +1,19 @@
+DECISÃO: vistos, etc.
+    Trata-se de três recursos extraordinários, todos interpostos com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana.
+    2. Da leitura dos autos, observo que o Tribunal Regional Federal da 4ª Região, em apelação cível, decidiu que empresa contribuinte do IPI tem direito ao aproveitamento de créditos do mesmo imposto, presumidamente gerado pela aquisição de insumos sob o regime de isenção, não-tributação ou da alíquota zero. Mais: entendeu que não incide correção monetária sobre créditos escriturais e aplicou ao caso o Decreto 20.910/1932, que estabelece o prazo prescricional de cinco anos.
+    3. Muito bem. Contra esse entendimento, insurgem-se a União, alegando inexistir direito ao aproveitamento de tais créditos, e D’Itália Indústria de Móveis Ltda., pedindo a incidência de correção monetária sobre valores pretéritos.
+    4. Por outro lado, o Superior Tribunal de Justiça, ao apreciar recurso especial interposto por D’Itália Indústria de Móveis Ltda., manteve a aplicação da prescrição qüinqüenal, contada a partir do ajuizamento da ação, mas entendeu ser devida a correção monetária sobre os créditos em exame, quando o ente público impôr resistência ao seu aproveitamento.
+    5. A União interpõe novo apelo em que afirma não incidir correção monetária sobre créditos escriturais de IPI.
+    6. Feito o relato, passo a decidir. Fazendo-o, anoto que merece acolhida o apelo da União contra acórdão do TRF/4ª Região. É que o Plenário do Supremo Tribunal Federal, ao apreciar os REs 353.657 e 370.682, entendeu que a utilização dos créditos alusivos à alíquota zero e à não-tributação ofende o inciso II do § 3º do art. 153 da Constituição Federal. Esta Casa de Justiça concluiu que a não-cumulatividade pressupõe, salvo previsão expressa da própria Carta Magna, tributo devido e já recolhido e que, nestes casos, não há parâmetro normativo para se definir a quantia a compensar. Ressaltou, que, ao ser admitida a apropriação dos créditos, o produto menos essencial proporcionaria uma compensação maior, sendo o ônus decorrente dessa operação suportado indevidamente pelo Estado.
+    7. De mais a mais, consigno que o STF firmou o entendimento no sentido de que a aquisição de insumos isentos constitui hipótese exoneratória que também não gera créditos de IPI a ser compensados. Leia-se, a propósito, a ementa do RE 566.819, da relatoria do ministro Marco Aurélio:
+    “IPI – CRÉDITO. A regra constitucional direciona ao crédito do valor cobrado na operação anterior.
+    IPI – CRÉDITO – INSUMO ISENTO. Em decorrência do sistema tributário constitucional, o instituto da isenção não gera, por si só, direito a crédito.
+    IPI – CRÉDITO – DIFERENÇA – INSUMO – ALÍQUOTA. A prática de alíquota menor – para alguns, passível de ser rotulada como isenção parcial – não gera o direito a diferença de crédito, considerada a do produto final.”
+    8. Outros precedentes: AI 736.994-AgR, da relatoria do ministro Ricardo Lewandowski; bem como REs 370.682-ED, da relatoria do ministro Gilmar Mendes; 372.345-AgR-AgR, da relatoria da ministra Cármen Lúcia; 547.640-AgR, da relatoria do ministro Luiz Fux; e 566.551-AgR, da relatoria da ministra Ellen Gracie.
+    9. Nessa contextura, tenho que os demais apelos extremos perderam os respectivos objetos.
+    10. Determino o desapensamento do RE 582.796.
+    Ante o exposto, com fundamento no § 1º-A do art. 557 do Código de Processo Civil, dou provimento ao recurso extraordinário interposto pela União contra acórdão do TRF/4ª Região. Ficam invertidos os ônus da sucumbência. Quanto ao mais, frente ao art. 557 do mesmo CPC e ao inciso IX do art. 21 do RI/STF, julgo prejudicado o apelo extremo da empresa D’Itália Indústria de Móveis Ltda., interposto contra acórdão do TRF/4ª Região, e o da União, contra acórdão do STJ.
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
