@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) PROCURAÇÃO. SUBSTABELECIMENTO. VALIDADE. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE PROCESSO CIVIL. 2) ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI E LV, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Alienação fiduciária. Ação de rescisão contratual cumulada com indenização. Bem apreendido em ação de depósito por dívida anterior à sua compra. Responsabilidade que não pode ser imputada ao credor fiduciário, que não vendeu o veículo, mas apenas financiou o negócio de compra e venda. Recurso provido para reconhecer a ilegitimidade passiva” (fl. 78).
+    Os embargos de declaração foram acolhidos:
+    “Embargos de Declaração. Omissão quanto à preliminar de ausência de procuração judicial dos advogados subscritores do recurso. Substabelecimento sem prazo de validade outorgado quando a procuração ainda não estava vencida. Embargos acolhidos sem alteração do julgado ” (fl. 85).
+    No voto condutor dos embargos de declaração consta que:
+    “A capacidade postulatória dos advogados substabelecidos remanesce, vez que, no caso, é independente da procuração. O que determina a legitimidade é o momento do ato que vinculou o substabelecimento e, na época, o prazo da procuração ainda não tinha expirado. Acresce que o advogado substabelecido prosseguiu na defesa do Embargado desde a defesa até a interposição do recurso” (fl. 86).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta e a ausência de prequestionamento (fls. 128-129).
+    4. O Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXVI e LV, da Constituição da República.
+    Argumenta que “o v. Acórdão (…) entendeu que, o não oferecimento oportuno de contestação não implica, necessariamente, a procedência da ação, deixando de examinar os pressupostos processuais, como a ausência de procuração” (fl. 114).
+    Sustenta que “o Egrégio Tribunal do Estado não apreciou as razões arguidas em [contrarrazões] de apelação” (fl. 114).
+    Afirma que “o próprio Egrégio Tribunal reconhece a não validade da procuração (…) assim, se a procuração não tem validade, o substabelecimento também não tem” (fl. 115).
+    Pondera, também, que “em verdade, se trata de pressuposto processual e recursal, nos termos do artigo 463, II, e 515, § 1º ambos, do CPC” (fl. 116).
+    Analisada a matéria posta à apreciação, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Cumpre afastar, inicialmente, o óbice imposto pela decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, os dispositivos constitucionais foram suscitados em momento processual adequado.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+    7. O Tribunal a quo resolveu a controvérsia com base no Código de Processo Civil e reconheceu a capacidade postulatória dos advogados substabelecidos. Concluir de forma diversa do que decidido pelo Tribunal de origem demandaria a análise dessa legislação infraconstitucional, procedimento inviável em recurso extraordinário. Nesse sentido:
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ÔNUS DE PROVA DO AUTOR. AUSÊNCIA DE PREQUESTIONAMENTO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE PROCESSO CIVIL: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 660.252-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009, grifei).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI 631.775-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009, grifei).
+    8. Ademais, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI e LV, da Constituição da República, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+    Nada há, pois, a prover quanto às alegações da parte agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
