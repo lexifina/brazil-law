@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. POLICIAL MILITAR. EXAME ANTROPOMÉTRICO (SANIDADE FÍSICA). LEI ESTADUAL N. 5.301/1996: POSSIBILIDADE. PRECEDENTE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “Ação ordinária. Concurso público. Soldado da Polícia Militar. Candidato. Reprovação no exame antropométrico. Índice de massa corpórea. Altura. Resolução. Legalidade. Conclusão médica não infirmada. É improcedente o pedido inicial proposto pela parte autora, visando ao prosseguimento nas etapas do concurso público destinado ao provimento de cargos de soldado da Polícia Militar, quando está demonstrado que não preenche os requisitos necessários e legais para o exercício das funções militares. Recurso não provido” (fl. 67).
+    No voto condutor do acórdão recorrido consta que:
+    “As normas do concurso público em questão fundamentam-se na Lei Estadual nº 5.301/69, que prevê a sanidade física e mental como requisitos para acesso aos cargos da Polícia Militar de Minas Gerais.
+    Não afasto a possibilidade de os critérios para o ingresso na carreira serem regulamentados por meio de Resolução (…) A requerente foi considerada inapta nos exames preliminares de saúde, tendo em vista que possui índice de massa corpórea e altura (…) em desacordo com a Resolução nº 3.692/02 e Lei Estadual nº 5.301/69” (fl. 70, grifei).
+    Os embargos de declaração opostos foram rejeitados (fl. 78).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 104-105).
+    4. A Agravante alega que teriam sido contrariados os arts. 5º, inc. II, XXXV, 37, caput, e inc. I, II, e 93, inc. IX, da Constituição da República.
+    Argumenta que “foi eliminada [do concurso] no fundamento de não possuir altura exigida e peso inferior ao que dispõem o edital e a resolução conjunta 3692/02” (fl. 5).
+    Afirma que “apresentou argumentos e fatos a serem analisados, porém a decisão combatida não se pronunciou a respeito (…) Logo, há de se concluir que de fato houve negativa de prestação jurisdicional” (fl. 6).
+    Sustenta que “as exigências do exame [antropométrico] não atingida [por ela] apenas tiveram previsão em edital, que não é lei em sentido formal“ (fl. 11).
+    Analisada a matéria posta à apreciação, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Quanto ao mérito, o Supremo Tribunal Federal assentou que o acesso aos cargos públicos, mediante concurso público, pode demandar não apenas conhecimentos específicos, mas também exigências físicas, "de acordo com a natureza e a complexidade do cargo" (art. 37, inc. II, da Constituição da República).
+    A lei mineira, a resolução e o edital do concurso levaram em conta que os policiais militares, portadores de arma de fogo, necessitariam de sanidade física para o exercício de suas funções, cujos requisitos foram fixadas em lei, em resolução e no edital, do que decorre não haver afronta aos arts. 5º, inc. II, e 37, caput e inc. II, da Constituição da República. Nesse sentido:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. OFENSA À CONSTITUIÇÃO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. PREVISÃO LEGAL. CRITÉRIOS. REEXAME. SÚMULA 279-STF. I. - Exame psicotécnico como condição para ingresso no serviço público: se é a lei que o exige, não pode ser dispensado, sob pena de ofensa à Constituição (art. 37, I). II. - Exame psicotécnico realizado com base em critérios objetivos: legitimidade. III. - O reexame dos critérios utilizados na realização do exame psicotécnico não é cabível na via recursal extraordinária, a teor da Súmula 279-STF. IV. - Agravo não provido” (AI 562.928-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 24.2.2006, grifei).
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO PARA INGRESSO NA CARREIRA DE DELEGADO DE POLÍCIA. ALTURA MÍNIMA. REQUISITO. RAZOABILIDADE DA EXIGÊNCIA. 1.  Razoabilidade da exigência de altura mínima para ingresso na carreira de delegado de polícia, dada a natureza do cargo a ser exercido. Violação ao princípio da isonomia. Inexistência. Recurso extraordinário não conhecido" (RE 140.889, Redator para o Acórdão Ministro Maurício Corrêa, Segunda Turma, DJ 8.6.2006, grifei).
+    “CONCURSO PÚBLICO - AGENTE DE POLÍCIA - ALTURA MÍNIMA - VIABILIDADE. Em se tratando de concurso público para agente de polícia, mostra-se razoável a exigência de que o candidato tenha altura mínima de 1,60m. Previsto o requisito não só na lei de regência, como também no edital de concurso, não concorre a primeira condição do mandado de segurança, que é a existência de direito líquido e certo” (RE 148.095-AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 3.4.1998, grifei).
+    Ainda as seguintes decisões monocráticas: AI 621.879, de minha relatoria, DJe 18.2.2008; AI 658.038, Relator o Ministro Joaquim Barbosa, DJe 12.6.2009; AI 531.501, Relator o Ministro Gilmar Mendes, DJ 17.5.2005; e AI 478.301, Relator o Ministro Joaquim Barbosa, DJ 17.2.2005.
+    Nada há, pois, a prover quanto às alegações da parte agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
