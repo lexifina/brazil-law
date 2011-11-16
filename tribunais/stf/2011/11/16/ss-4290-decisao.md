@@ -1,0 +1,25 @@
+Despacho: 1. Trata-se de pedido de suspensão de segurança, ajuizado pelo Município de Belo Horizonte, com a finalidade de sustar a execução do acórdão proferido pelo Tribunal de Justiça de Minas Gerais, nos autos da Remessa Necessária no Mandado de Segurança nº 1.0024.08.097830-7/002(1) – numeração única 0978307-53.2008.8.13.0024.
+    A decisão impugnada, determinou ao Município abster-se de aplicar redutor salarial sobre vantagens pessoais incorporadas aos estipêndios dos impetrantes -, servidores municipais inativos.
+    Alega o requerente, em síntese, grave lesão à ordem e à economia públicas e potencial efeito multiplicador. Sustenta ameaça às finanças do Estado, além de manifesta contrariedade à ordem constitucional.
+    2. É caso de suspensão.
+    De acordo com o regime legal de contracautela (Leis nºs 12.016/09, 8.437/92, 9.494/97 e art. 297 do RISTF), compete a esta Presidência suspender execução de decisões concessivas de segurança, de liminar ou de tutela antecipada, proferidas em única ou última instância, pelos tribunais locais ou federais, para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas.
+    A cognição do pedido exige, contudo, demonstração da natureza constitucional da controvérsia (cf. Rcl nº 497-AgR , Rel. Min. Carlos Velloso , Plenário, DJ de 06.4.2001; SS nº 2.187-AgR , Rel. Min. Maurício Corrêa , DJ de 21.10.2003 e; SS nº 2.465 , Rel. Min. Nelson Jobim , DJ de 20.10.2004).
+    Está preenchido o requisito, pois em jogo, aqui, suposta violação aos arts. 5º, XXXVI, e 37, XI, da Constituição da República (na redação da EC nº 41/2003), que teria sido afrontado pelo Tribunal de Justiça local ao afastar teto remuneratório. Não há dúvida, portanto, de que a matéria discutida na origem se reveste de índole constitucional.
+    Em consulta aos andamentos processuais nos sítios eletrônicos do Superior Tribunal de Justiça e do Tribunal de Justiça local, verifico que a decisão ora mencionada não transitou em julgado e, portanto, não pode ser executada provisoriamente, porquanto concedeu aos impetrantes, aumento de vantagens, ao afastar do teto salarial, as vantagens pessoais, objeto da controvérsia.
+    E, ainda que fosse possível, no caso, executar a decisão proferida, o recurso não prosperaria.
+    Esta Corte já pacificou entendimento segundo o qual configura lesão à ordem pública a possibilidade de os agravantes perceberem seus proventos ou remuneração acima do limite estabelecido no art. 37, XI, da Constituição da República, com a redação dada pela Emenda Constitucional nº 41/2003. Nesse sentido, cite-se: SS nº 2583-AgR ; SS nº 2973-AgR ; SS nº 2663-AgR ; SS nº 2932-A gR e, SS nº 2447-AgR , Plenário, Rel. ELLEN GRACIE, DJ 25.4.2008, este último assim ementado:
+    “AGRAVO REGIMENTAL. SUSPENSÃO DE SEGURANÇA. OCORRÊNCIA DE GRAVE LESÃO À ORDEM PÚBLICA, CONSIDERADA EM TERMOS DE ORDEM JURÍDICO-CONSTITUCIONAL. TETO. SUBTETO. ART. 37, XI, DA CONSTITUIÇÃO DA REPÚBLICA, REDAÇÃO DA EMENDA CONSTITUCIONAL 41/03. DECRETO ESTADUAL 48.407/04.
+    1. Os agravantes não lograram infirmar ou mesmo elidir os fundamentos adotados para o deferimento do pedido de suspensão.
+    2. No presente caso, a imediata execução da decisão impugnada impede, em princípio, a aplicação da regra inserta no art. 37, XI, da Constituição da República, que integra o conjunto normativo estabelecido pela Emenda Constitucional 41/2003.
+    3. Na suspensão de segurança não se aprecia o mérito do processo principal, mas tão-somente a ocorrência dos aspectos relacionados à potencialidade lesiva do ato decisório em face dos interesses públicos relevantes consagrados em lei, quais sejam, a ordem, a saúde, a segurança e a economia públicas.
+    4. Possibilidade de ocorrência do denominado 'efeito multiplicador'.
+    5. Precedentes do Plenário.
+    6. Agravo regimental improvido”.
+    Não obstante a jurisprudência citada tratar da questão específica do abate teto instituído pelo Decreto paulista nº 48.407/2004, há neste Tribunal mais de quarenta pedidos de contracautela sobre o tema do teto remuneratório nos termos estabelecidos pela EC nº 41/2003, e que abrangem outras unidades da Federação, a saber, Amazonas, Rio de Janeiro, Bahia, Maranhão, Piauí.
+    Por outro lado, é evidente que a repetição de idênticos pedidos de suspensão, formulados por mais de quatro Estados federados, caracteriza o chamado efeito multiplicador, com notória lesão à economia pública ( SS nº 1836-AgR , Rel. Min. CARLOS VELLOSO , DJ de 11.10.2001), fundamento que seria suficiente, portanto, para procedência do pedido de suspensão.
+    3. Nestes termos, defiro o pedido para suspender a execução do acórdão proferido pelo Tribunal de Justiça de Belo Horizonte, nos autos da Remessa Necessária no Mandado de Segurança nº 1.0024.08.097830-7/002(1) – numeração única 0978307-53.2008.8.13.0024, até seu trânsito em julgado ou ulterior deliberação desta Corte.
+    Exp. com urgência telex e ofício ao Tribunal de Justiça de Minas Gerais, para que cumpra esta decisão imediatamente.
+    Publique-se. Intime-se.
+    Brasília, 16 de novembro de 2010.
+    Ministro CEZAR PELUSO
+    Presidente
