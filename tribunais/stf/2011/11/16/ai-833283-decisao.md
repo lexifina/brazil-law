@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput, e 37, inciso XV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07. Assim, conforme decidido pelo Plenário desta Corte na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, aplica-se ao presente recurso o instituto da repercussão geral.
+    No que se refere ao artigo 37, inciso XV, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, o acordão recorrido não divergiu da orientação firmada pelo Plenário desta Corte, no julgamento do RE nº 173.252/SP, Relator o Ministro Moreira Alves, publicado no DJ de 18/5/01, no sentido de que continua em vigor a Súmula nº 339 desta Corte, que prevê a impossibilidade do Poder Judiciário aumentar vencimentos de servidor, sob o fundamento de isonomia. Sobre o tema, anote-se:
+    “Servidor público. Isonomia. Artigo 39, § 1º, da Constituição Federal. Súmula 339 do STF.
+    - Esta Corte, como demonstram os precedentes invocados no parecer da Procuradoria-Geral da República, tem entendido que continua em vigor, em face da atual Constituição, a súmula 339 (‘Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia’), porquanto o § 1º do artigo 39 da Carta Magna é preceito dirigido ao legislador, a quem compete concretizar o princípio da isonomia, considerando especificamente os casos de atribuições iguais ou assemelhadas, não cabendo ao Poder Judiciário substituir-se ao legislador. Contra lei que viola o princípio da isonomia é cabível, no âmbito do controle concentrado, ação direta de inconstitucionalidade por omissão, que, se procedente, dará margem a que dessa declaração seja dada ciência ao Poder Legislativo para que aplique, por lei, o referido princípio constitucional; já na esfera do controle difuso, vício dessa natureza só pode conduzir à declaração de inconstitucionalidade da norma que infringiu esse princípio, o que, eliminando o benefício dado a um cargo quando deveria abranger também outros com atribuições iguais ou assemelhadas, impede a sua extensão a estes.
+    Dessa orientação divergiu o acórdão recorrido.
+    Recurso extraordinário conhecido e provido”.
+    Aplicando essa orientação, destacam-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. EQUIPARAÇÃO SALARIAL DE SERVIDORES. REAJUSTE DE PROVENTOS COM FUNDAMENTO EM ISONOMIA. IMPOSSIBILIDADE. SÚMULA 339 DO STF. PRECEDENTES. AGRAVO IMPROVIDO. I – A teor do Súmula 339 do STF, não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia. Precedentes. II – Agravo regimental improvido” (AI nº 804.582/CE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 30/11/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. JUIZ CLASSISTA. 1. CONDIÇÃO JURÍDICO-FUNCIONAL ESPECÍFICA: POSSIBILIDADE DE TRATAMENTO NORMATIVO DIFERENCIADO. 2. EQUIPARAÇÃO DE VENCIMENTOS COM FUNDAMENTO NO PRINCÍPIO DA ISONOMIA: INCIDÊNCIA DA SÚMULA N. 339 DO SUPREMO TRIBUNAL FEDERAL. 3. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 608.812/SC-AgR, Primeira Turma, Relator o Ministro Cármen Lúcia, DJe de 2/3/11).
+    No mais, o acórdão atacado decidiu com base na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 280/STF. Nesse sentido: AI nº 774.945/SP, Relator o Ministro Gilmar Mendes, DJe de 28/9/10.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
