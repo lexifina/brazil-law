@@ -1,0 +1,31 @@
+PENAL. HABEAS CORPUS. FALSIFICAÇÃO DE DOCUMENTO PARTICULAR (ART. 298 DO CP). NEGATIVA DA SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CONVENCIMENTO DO JUÍZO ACERCA DA INSUFICIÊNCIA DA SUBSTITUIÇÃO. INTELIGÊNCIA DOS ARTS. 44, III E 77, III, DO CP. AUSÊNCIA DE RISCO À LIBERDADE DE IR E VIR. INEXISTÊNCIA DA PLAUSIBILIDADE JURÍDICA DA TESE SUSTENTADA. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do STJ que confirmou decisão monocrática assim resumida:
+    AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. PENAL. CRIME CONTRA A FÉ PÚBLICA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. CONDIÇÕES JUDICIAIS DESFAVORÁVEIS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. ENUNCIADO 83/STJ.
+    - Tomando por orientação os entendimentos reiterados desta Corte é firme a interpretação de que a concessão do benefício de suspensão do processo ou substituição da pena privativa por restritiva subordina-se ao exame prévio de requisitos objetivos e subjetivos. Assim, declarado, nas instâncias ordinárias, a existência de condições judiciais desfavoráveis, não há como reconhecer o preenchimento dos requisitos de ordem subjetiva.
+    - O Tribunal a quo decidiu em consonância com o entendimento jurisprudencial sedimentado por esta Corte. Súmula 83-STJ.
+    - Agravo de Instrumento improvido.
+    Eis a ementa do acórdão ora impugnado, verbis:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO COMBATIDA. AGRAVO NÃO CONHECIDO. PRECEDENTES.
+    1. Incide o enunciado 182, da Súmula desta Corte, quando a parte agravante deixa de impugnar, especificamente, todos os fundamentos da decisão agravada.
+    2. Agravo regimental não conhecido.
+    Consta nos autos que a paciente foi condenada, em sede de apelação, às penas de dois anos de reclusão e multa pela prática do crime de falsificação de documento particular (art. 298 do Código Penal), concedido sursis e negada a substituição por restritivas de direitos, nos seguintes termos:
+    Permanecendo o juízo de censura formado pelo artigo 298 do CP. Porém, embora com as considerações lançadas naquele decisum e que são pertinentes a audácia desempenhada na atividade delituosa, o destemor da conduta ilícita, a imensa quantidade de cartões clonados, o desafio endereçado à ordem social, levando ao acréscimo nas penas bases pelo artigo 298 do CP a cada um dos denunciados, em mais num ano na restritiva de liberdade, totalizando em 2(dois) anos de reclusão para cada, e correspondendo a pecuniária em 50 (cinqüenta) dias-multa. E, assim é de se permanecer, com sursis por três anos, nas condições do artigo 78 parágrafo 2o letras "a", "b" e "c" do CP.
+    Não fazendo jus à substituição pois a audácia empregada e o desajuste econômico que visavam estabelecer não permitem a consideração de que seja suficiente a substituição.
+    Daí a interposição de recurso especial que, desprovido monocraticamente, ensejou a interposição do agravo regimental, cujo desfecho foi o mesmo no Colegiado.
+    Nesta impetração, sustenta-se que os requisitos para a concessão do sursis são os mesmos da substituição por restritiva de direitos e que esta deveria prevalecer sobre a suspensão condicional da pena, segundo o art. 77, inciso III, do Código Penal.
+    Segundo argumenta, se o Tribunal de Justiça do Estado do Rio de Janeiro concluiu pela presença dos requisitos para a concessão do sursis, deveria fazer substituir a pena corporal por restritivas de direitos, presente a pena inferior a 4 anos e o crime praticado sem violência ou grave ameça a pessoa (art. 44, I do CP).
+    Aduz que o acórdão da Quinta Turma do STJ, ao desprover o agravo regimental por ausência de impugnação de todos os fundamentos da decisão recorrida incorreu em equívoco, porquanto a questão seria pontual e não careceria de maiores discussões.
+    Requer, liminarmente, seja sobrestada a execução em relação à paciente até o julgamento definitivo do presente writ e, no mérito, seja reconhecido o direito da paciente à substituição da pena privativa de liberdade por restritivas de direitos.
+    É o relatório. Passo a votar.
+    Para o deferimento do pedido de medida acauteladora, há que se fazerem presentes os requisitos atinentes à urgência do provimento jurisdicional invocado (periculum in mora) e à plausibilidade jurídica da tese sustentada (fumus boni juris).
+    In casu, nota-se a ausência desses pressupostos, porquanto a pena corporal está suspensa, não havendo risco maior à liberdade de ir e vir, sendo certo que a substituição por restritivas de direitos foi indeferida pelo TJ/RJ ante circunstâncias judiciais desfavoráveis, que conduziram aquele Tribunal ao convencimento acerca da insuficiência das penas restritivas de direitos ao caso concreto, nos seguintes termos:
+    Permanecendo o juízo de censura formado pelo artigo 298 do CP. Porém, embora com as considerações lançadas naquele decisum e que são pertinentes a audácia desempenhada na atividade delituosa, o destemor da conduta ilícita, a imensa quantidade de cartões clonados, o desafio endereçado à ordem social, levando ao acréscimo nas penas bases pelo artigo 298 do CP a cada um dos denunciados, em mais num ano na restritiva de liberdade, totalizando em 2(dois) anos de reclusão para cada, e correspondendo a pecuniária em 50 (cinqüenta) dias-multa. E, assim é de se permanecer, com sursis por três anos, nas condições do artigo 78 parágrafo 2o letras "a", "b" e "c" do CP.
+    Não fazendo jus à substituição pois a audácia empregada e o desajuste econômico que visavam estabelecer não permitem a consideração de que seja suficiente a substituição.
+    Consectariamente, o ato do STJ que endossou esse acórdão não gerou, em princípio, constrangimento ilegal, máxime porque extrai-se dos arts. 44, III e 77, III do Código Penal a precedência da substituição apenas se essa medida for suficiente, e não foi esse o convencimento do Juízo e do Tribunal de Justiça no caso sub judice.
+    Ex positis, indefiro a liminar.
+    Ao Ministério Público Federal para a emissão de parecer.
+    Publique-se.
+    Brasília, 16 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
