@@ -1,0 +1,32 @@
+Despacho: 1. O Min. LUIZ FUX remeteu este Agravo de Instrumento à Presidência com o seguinte despacho:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE PREVENÇÃO. RECURSO NÃO-CONHECIDO. LIVRE DISTRIBUIÇÃO DO FEITO.
+    Sr. Presidente,
+    A recorrente alega que (fls. 752):
+    ‘Consoante expressamente colacionado no item I da petição de interposição do presente Agravo de Instrumento, a matéria que desafiou a interposição do Recurso Extraordinário – onde por ora fora negado seguimento – é totalmente conexa com o objeto do Mandado de Segurança nº 28. 046/DF ajuizado contra ato do Colendo Conselho Nacional de Justiça, já que ambos versam sobre ilegalidades praticadas pelo e. Tribunal de Justiça do Espírito Santo em concurso público para o ingresso na carreira da magistratura daquele Estado.
+    Destarte, com o devido respeito e acatamento aos senhores serventuários da distribuição, mas o presente Agravo de Instrumento deve, consoante determinam as regras da prevenção – artigo 69, do RISTF, ser redistribuído ao Ministro relator do processo principal, o Mandado de Segurança nº 25.813/ES, qual seja o Eminente Ministro Ayres Brito’.
+    O artigo 69 do RISTF determina:
+    ‘O conhecimento do mandado de segurança, do habeas corpus e do recurso civil ou criminal torna preventa a competência do Relator, para todos os recursos posteriores, tanto na ação quanto na execução, referentes ao mesmo processo’.
+    O presente agravo de instrumento não foi conhecido, conforme decisão monocrática proferida pelo Ministro Eros Grau.
+    ‘DECISÃO: Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário.
+    2. O recurso extraordinário é intempestivo. Os embargos infringentes interpostos contra acórdão que negou provimento ao recurso ordinário foram considerados incabíveis pela decisão de fl. 490.
+    3. Essa decisão não merece reforma. O entendimento deste Tribunal é pacífico no sentido de que recursos não conhecidos por intempestivos ou incabíveis não suspendem ou interrompem o prazo para a interposição do extraordinário [RE n. 239.421-AgR, Relator o Ministro Octavio Gallotti, DJ de 7.12.00, e RE n. 201.990-AgR, Relator o Ministro Néri da Silveira, DJ de 24.11.00]. Daí porque o recurso extraordinário é intempestivo. Nego seguimento ao agravo com fundamento no artigo 21, § 1º, do RISTF’.
+    Submeto a presente situação à apreciação da Presidência deste Tribunal para que se corrija eventual equívoco na distribuição em relação à prevenção apontada e indico, por oportuno, o posicionamento deste Tribunal no HC 90.985 e no HC 92.190, situações semelhantes à presente, quando se decidiu pela livre distribuição do feito.
+    Remetam-se à Presidência (art. 13, VII, do RISTF).”
+    2. É caso de redistribuição.
+    Verifico agora, em consulta aos autos e ao sítio eletrônico desta Corte, que este AI nº 803.075 e o MS nº 28.046 possuem identidade de partes e causas de pedir.
+    Este AI nº 803.075 foi distribuído ao Ministro EROS GRAU em 16.6.2010 e redistribuído ao Min. LUIZ FUX em 3.3.2011 (art. 38 IV, a, RISTF). O MS nº 28.046, por sua vez, foi distribuído ao Min. AYRES BRITTO em 1º.6.2009, que indeferiu o pedido de liminar (Dje 4.9.2009).
+    Conforme orientação desta Presidência, a distribuição de ação ou recurso gera prevenção para todos os processos posteriores vinculados por conexão ou continência, e somente não se caracterizará a prevenção, se o relator, sem apreciar pedido de liminar, nem o mérito da causa, negar-lhe seguimento, não conhecer ou julgar prejudicado o pedido, declinar da competência, ou homologar pedido de desistência por decisão transitada em julgado, nos termos do artigo 69, § 2º, do RISTF.
+    Ora, os fundamentos que recomendam a reunião dos processos são a economia processual e a possibilidade de julgamentos contraditórios sobre a mesma causa. MONIZ de ARAGÃO, reavivando a conhecida tese de PESCATORE sobre conexão, sublinha que,
+    “ para que esta se caracterize [conexão] é indiferente que os elementos ‘comuns’ sejam, ou não, idênticos. Tanto poderá ocorrer identidade entre um, ou dois deles, como poderá dar-se de serem ‘comuns’, isto é, semelhantes. A comunhão, ou semelhança, pode levar à identidade parcial. Assim é que são ‘comuns’ as ‘ações’ se em uma delas a causa petendi mediata for a mesma, embora seja diversa a causa petendi imediata. O mesmo acontecerá se o pedido mediato for idêntico, conquanto o pedido imediato seja diverso. Nesses casos haverá identidade, em parte, e semelhança ocorrerá quanto ao todo.” (Conexão e ‘tríplice identidade’. In: Ajuris, v. 10, n. 28, p. 72-80, jul. 1983.
+    De fato, a existência de conexão entre duas ou mais ações define-se à luz dos pedidos e das causas de pedir, e não, da identidade de partes, a qual somente releva para a análise de litispendência, consoante a regra do art. 103 do CPC. NELSON NERY JR e ROSA M. A. NERY relembram:
+    “A igualdade de todos os componentes da causa de pedir (próxima e remota) é exigida para a configuração de litispendência ou coisa julgada, que se caracterizam quando há duas ou mais ações idênticas (CPC 301 § 2.°). Uma ação só é idêntica à outra se contiverem ambas as mesmas partes, o mesmo pedido (mediato e imediato) e a mesma causa de pedir (próxima e remota).” (Código de processo civil comentado e legislação processual civil extravagante em vigor. 7.ª edição, rev. e ampl.. São Paulo: RT, 2003, pág. 504).
+    Cumpre sobretudo cotejar as causas de pedir dos dois feitos, para dar logo pela existência de conexão com base em que
+    "constitui-se a causa petendi do fato ou do conjunto de fatos a que o autor atribui a produção do efeito jurídico por ele visado." (BARBOSA MOREIRA. O Novo processo civil brasileiro. Rio de Janeiro: Forense, 2001, p. 15-16).
+    É certo que doutrina usa distinguir causa de pedir (i) remota (razão mediata do pedido) e (ii) próxima (razão imediata do pedido), mas sustenta que haverá conexão ainda que, entre as ações, seja comum a causa de pedir, quanto a uma ou outra espécie.
+    Na hipótese, a causa de pedir mediata é idêntica em ambos os processos, qual seja, a discussão sobre ilegalidades praticadas pelo Tribunal de Justiça do Espírito Santo em concurso público para o ingresso na carreira da magistratura daquele Estado.
+    3. Diante do exposto, determino a redistribuição do feito ao Min. AYRES BRITTO.
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
