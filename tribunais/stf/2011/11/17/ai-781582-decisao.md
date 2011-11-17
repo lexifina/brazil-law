@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Unibanco - União de Bancos Brasileiros S. A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+    “AGRAVO DE INSTRUMENTO – AÇÃO ORDINÁRIA – CUMPRIMENTO DE CONTRATO DE HONORÁRIOS – RESCISÃO – TEMPESTIVIDADE QUE SE AFERE PELA INTIMAÇÃO ELETRÔNICA – REJEIÇÃO DAS PRELIMINARES ARGUIDAS NO PROCESSO DE ORIGEM – ILEGITIMIDADE PASSIVA – IMPOSSIBILIDADE JURÍDICA DO PEDIDO – CERCEAMENTO DE DEFESA – INOCORRÊNCIA - RECURSO IMPROVIDO.
+    Das decisões interlocutórias, havendo as partes procuradores constituídos, considera-se válida a intimação realizada por órgão oficial.
+    Alegada a má-conduta do Agravante na rescisão do contrato entabulado entre as partes, presente sua legitimidade passiva.
+    Não há impossibilidade jurídica no pedido em demanda que não é vedada pelo ordenamento jurídico.
+    Ademais, ao julgador de primeiro grau, como destinatário da prova a ser produzida, compete avaliar sua necessidade e pertinência, inclusive, no que concerne aos quesitos para perícia” (fl. 1.842).
+    Opostos embargos de declaração (fls. 1853 a 1861), foram rejeitados (fls. 1891 a 1897).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja visto que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP – AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes ” (AI nº 360.265/RJ - AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02). ]
+    Ademais, este Supremo Tribunal Federal já assentou que o indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, anote-se:
+    “Agravo regimental. Recurso extraordinário. Ação de indenização por dano causado por acidente de trânsito. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência.
+    1. Não incorre em ofensa à ampla defesa o indeferimento de diligência probatória tida por desnecessária.
+    2. Não se abre a via do recurso extraordinário para o reexame de fatos e provas. Incidência da Súmula nº 279 desta Corte.
+    3. Agravo regimental desprovido” (AI nº 631.856/AM-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+    “PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+    II - Este Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. III - Agravo regimental improvido” (AI nº 616.277/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/9/08).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
