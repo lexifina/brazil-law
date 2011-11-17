@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça Militar do Estado de São Paulo. Acórdão assim ementado (fls. 374):
+    “Apelação Criminal. Nulidade. Princípio da identidade física do Juiz. Inaplicabilidade. Cerceamento de Defesa. Questão Preclusa. Inversão da ordem de votação pelos juízes. Afastamento. Higidez processual. Alegada condenação contrária à evidência dos autos. Improcedência. Concussão caracterizada pela exigência de vantagem econômica de civil supostamente envolvido em receptação. Prova robusta. Recurso improvido. São improcedentes as arguições de nulidade fundadas na pretendida aplicação de princípio restrito ao procedimento comum, no âmbito da legislação especial; na existência de mera irregularidade processual, eis que já convalidada na origem; e no deslocamento da presidência do Conselho ao Juiz de Direito, decorrente de alteração da norma constitucional. Concussão caracterizada pela ação policial que constata negociação de bens de origem ilícita por comerciante e dele exige vantagem econômica para não encaminhá-lo à Delegacia de Polícia. Prova harmônica. Apreensão de valores com o réu denotando exaurimento da conduta. Condenação mantida.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso LV do art. 5º, ao § 5º do art. 125, ambos da Carta Magna, bem como ao princípio da oralidade, previsto na EC 45/2004.
+    3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar à conclusão pretendida pelo recorrente, se fazem necessários o reexame do conjunto fático-probatório dos autos (Súmula 279/STF), bem como a análise da legislação infraconstitucional pertinente (Código de Processo Penal Militar e Lei 11.719/2008), providências vedadas neste momento processual.
+    4. De mais a mais, anoto que as alterações legislativas efetuadas no Código de Processo Penal não produzem reflexo na disciplina castrense, que é especial quanto àquela.
+    Ante o exposto, e frente ao art. 38 da Lei 8.038/1990 e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro AYRES BRITTO
+sRelator
