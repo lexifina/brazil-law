@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO IMPROVIDO. CONTRATO DE EMPRÉSTIMO. DESCONTOS REALIZADOS EM CONTRA-CHEQUE SEM DEMONSTRAÇÃO CABÍVEL. INVERSÃO DO ÔNUS DA PROVA. INTELIGÊNCIA DO ART. 6º INCISO VIII DO CDC. OCORRÊNCIA DOS DANOS MORAIS MOTIVADOS PELOS INFORTÚNIOS CAUSADOS PELAS COBRANÇAS SUCESSIVAS. FIXAÇÃO ATRIBUIDA COM RAZOABILIDADE PROPORCIONALIDADE. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS” (fl. 36).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida. É que a recorrente não demonstrou na petição de recurso extraordinário de que forma os mencionados dispositivos constitucionais foram violados. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Ainda que superado tal óbice, o recurso não prosperaria. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Ademais, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
