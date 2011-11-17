@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+    “COMPLEMENTAÇÃO DE APOSENTADORIA – Banco do Brasil – Aposentados Sustentam que teriam direito a receber a complementação do Banco do Brasil decidida em Assembleia Geral realizada em 1947, e que a transferência para a PREVI teria se dado sem nenhuma alteração – Impossibilidade – Os autores não se insurgiram contra a criação da PREVI pois tiveram assegurado que a complementação (e não suplementação) era de responsabilidade do Banco – Não há possibilidade de discutir contratos e acertos feitos entre os autores e o Banco há mais de trinta anos – Se fosse alteração de convenção de trabalho, há muito já teria ocorrido a prescrição – Recurso desprovido”. (fl. 140)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, aponta ofensa ao artigo 5º, XXXVI, do Texto Constitucional.
+    O recorrente defende, em síntese, que a obrigação de complementar a aposentadoria surgiu na assembleia de acionistas realizada em 1947, e que, em razão disso, possui direito adquirido a esse benefício.
+    Ademais, sustenta que:
+    “a adesão ao sistema PREVI não significa desistência ao benefício de complementação pago pelo Banco do Brasil, por parte dos Recorrentes. Ao contrário, diante das características e sistemáticas próprias de cada um, no que se refere ao aporte de capital, modo de filiação e cálculo de [sic] benefício, não se pode concluir de outra forma que não seja a coexistência dos dois sistemas, até porque as fontes de custeio são distintas”. (fl. 224)
+    Além disso, aduz que, em 24.12.1997, ocorreu uma novação, o que afastaria a prescrição, porém esta não foi considerada pelo Tribunal de origem.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, quanto à prescrição, ressalte-se que é pacífico o entendimento do Supremo Tribunal Federal segundo o qual a discussão relativa a prazo prescricional não ofende diretamente a Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Confiram-se os seguintes precedentes: AI-AgR 486.246, Segunda Turma, Rel. Min. Ellen Gracie, DJe 6.8.2010; e AI-AgRg 764.126, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011.
+    Ademais, verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Portaria n. 966/1947) e na interpretação de cláusulas contidas em contratos. Assim, para se concluir de forma diversa, seria necessário o reexame das mencionadas cláusulas e dos fatos e provas, o que não enseja a abertura da via extraordinária.
+    Incidem, portanto, os Verbetes 279 e 454 das Súmulas de Jurisprudência do Supremo Tribunal Federal.
+    Nesse sentido, segue a transcrição das ementas de precedentes de ambas as Turmas desta Corte que tratam de questão idêntica à deste caso:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PORTARIA N. 966/47. COMPETÊNCIA. REEXAME DE PROVAS E DE CLÁUSULAS CONTRATUAIS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Compete à Justiça do Trabalho o julgamento de controvérsia relativa à complementação de aposentadoria paga pelo Banco do Brasil a seus ex-empregados, com fundamento na Portaria n. 966/47. 2. Reexame de fatos e provas e de cláusulas de contrato. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE-AgR 590.072/DF, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PORTARIA N. 966/1947. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 598.730/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 13.3.2009)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 17 de novebro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
