@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais. Acórdão assim ementado (fls. 172):
+    “ADMINISTRATIVO - AÇÃO CIVIL PÚBLICA - CONTRATAÇÃO TEMPORÁRIA DE SERVIDORES - PRORROGAÇÕES ININTERRUPTAS - BURLA AO CONCURSO PÚBLICO - VIOLAÇÃO AO ARTIGO 37 DA CF/88 - NULIDADE DOS CONTRATOS - RESSARCIMENTO PELOS CONTRATADOS DAS VERBAS SALARIAIS PERCEBIDAS - EFETIVA PRESTAÇÃO DO SERVIÇO - DIREITO CONSTITUCIONAL À PERCEPÇÃO DAS VERBAS LABORAIS - PROVIMENTO PARCIAL DO PEDIDO - SENTENÇA CONFIRMADA. A prorrogação ininterrupta de contratos administrativos temporários desrespeita a regra instituída no artigo 37 da Constituição Federal. Mesmo sendo nulo o ato administrativo consubstanciado em prorrogar ininterruptamente a contratação de servidor por tempo determinado, sem prévio concurso público, o mesmo faz jus ao pagamento das verbas laborais referentes aos dias efetivamente trabalhados, nos termos do disposto no artigo 7º da Constituição Federal e sob pena de enriquecimento ilícito da Administração Pública Municipal.”
+    2. Pois bem, a parte recorrente aponta violação aos incisos XXXVI e LIV do art. 5º, ao caput do art. 37 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo desprovimento do apelo extremo.
+    4. Tenho que insurgência não merece acolhida. Isso porque a Administração Pública direta e indireta, ao prover seus cargos e empregos públicos, deve obediência à regra do concurso público. Admitem-se somente duas exceções, previstas constitucionalmente: as nomeações para cargo em comissão e a contratação destinada ao atendimento de necessidade temporária e excepcional (incisos II e IX do art. 37 do Magno Texto).
+    5. De mais a mais, entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação infraconstitucional pertinente, o revolvimento do conjunto fático-probatório dos autos (súmula 279/STF) e a interpretação de cláusulas contratuais (súmula 454/STF). Providências vedadas neste momento processual.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
