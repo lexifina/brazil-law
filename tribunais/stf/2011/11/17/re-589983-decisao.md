@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 283):
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO AO SESC E SENAC. EMPRESA PRESTADORA DE SERVIÇOS. PRECEDENTES DO STJ. PRELIMINARES REJEITADAS.
+    I. Rejeitada a preliminar de inadequação da via eleita e a conseqüente extinção do processo sem julgamento do mérito, eis que os documentos comprobatórios do recolhimento das contribuições estão presentes nos autos, não havendo necessidade de dilação probatória.
+    II. Rejeitada também a preliminar de ilegitimidade passiva ad causam argüida pelo SEBRAE/MG, eis que não se trata, in casu, de litisconsórcio passivo necessário, mas sim de assistência litisconsorcial, que é facultativa, nos termos do artigo 50 do Código de Processo Civil. Sendo o SEBRAE/MG ‘integrante e vinculado ao Sistema SEBRAE, e recebedor de recursos provenientes da contribuição social destinada ao aludido sistema, possui, por si, legitimidade passiva em demandas que questionem a legalidade e constitucionalidade da aludida exação.
+    III. Esta Corte adotou o entendimento firmado pelo egrégio STJ que se posicionou no sentido de que as empresas prestadoras de serviços estão sujeitas a recolher a contribuição para o SESC, SENAC e SEBRAE. Entende o STJ que as referidas contribuições são compulsórias e visam a concretizar a promessa constitucional, contida no princípio da valorização do trabalho humano, constante no art. 170 da Constituição, e que as empresas de prestação de serviço, quando auferem lucros, são estabelecimentos comerciais.
+    IV. Apelações e remessa oficial providas.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso VI do art. 16 e ao art. 180, ambos da Constituição Federal de 1937, bem como, ao inciso I do art. 150 da Magna Carta de 1988 e ao inciso I do art. 25 do ADCT.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. Isso porque, para dissentir da conclusão adotada pela instância judicante de origem, no tocante à contribuição para o SESC e SENAC, faz-se indispensável o reexame da legislação infraconstitucional pertinente. Logo, eventual ofensa à Magna Carta de 1988, se existente, apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária.
+    5. Precedentes: AIs 479.168-AgR, da relatoria do ministro Cezar Peluso; 587.416-AgR, da relatoria da ministra Ellen Gracie; 613.469-AgR, da relatoria da ministra Cármen Lúcia; 635.996, da relatoria do ministro Dias Toffoli; 687.353, da relatoria do ministro Marco Aurélio; e 818.204, da relatoria do ministro Ricardo Lewandowski; bem como REs 520.004, da relatoria do ministro Menezes Direito; 535.655-ED, da relatoria do ministro Sepúlveda Pertence; 553.053-AgR, da relatoria do ministro Eros Grau; e 613.236, da relatoria do ministro Marco Aurélio.
+    6. À derradeira, anoto que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 396.266, da relatoria do ministro Carlos Velloso, já decidiu pela constitucionalidade da contribuição destinada ao Sebrae.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
