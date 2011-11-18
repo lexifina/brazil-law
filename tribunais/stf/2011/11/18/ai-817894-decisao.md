@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa tem o seguinte teor (fls. 23):
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. SERVIÇO DE TRANSPORTE COLETIVO MUNICIPAL E ESCOLAR. NECESSIDADE DE LICITAÇÃO PARA A OUTORGA. A delegação de concessão ou permissão para a execução do serviço público de transporte coletivo e escolar está subordinada ao princípio da obrigatoriedade de prévia licitação, no escopo de assegurar a igualdade de condições a todos os concorrentes e a seleção da proposta mais vantajosa para a Administração (CF/88, arts. 37, XXI e 175; Lei n° 8.666/93, arts.1º, 2º e 3º; Lei n° 8.987/95, art. 40). As concessões em caráter precário, as que estiverem com prazo vencido e as que estiverem em vigor por prazo indeterminado, como no caso dos autos, terão validade máxima até o dia 31 de dezembro de 2010, de acordo com o § 3º do art. 42 da Lei n° 8.987/95. Portanto, não há fundamento legal para compelir a Administração Pública à realização de novas concessões de serviço público de transporte coletivo. No que toca ao serviço de transporte escolar, o mesmo foi precedido de licitação, conforme prova carreada aos autos. Apelo provido. Ação julgada improcedente.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 37, XXI, e 93, IX, da Constituição federal. Sustenta-se a incidência de negativa de prestação jurisdicional e a inconstitucionalidade do art. 42, § 3º, da Lei 8.987/1995, pois adiou indevidamente a realização de processo licitatório das concessões de transporte urbano.
+    É o relatório. Decido.
+    O mérito da controvérsia refere-se à determinação do Tribunal a quo de que as concessões em caráter precário, as que estiverem com prazo vencido e as que estiverem em vigor por prazo indeterminado teriam validade até 31.12.2010.
+    Assim, em face do transcurso do prazo, julgo prejudicado o presente agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
