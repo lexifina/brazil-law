@@ -19,4 +19,15 @@ XVII - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM
 XVIII - bens relacionados em ato do Poder Executivo para aplicação nas Unidades Modulares de Saúde de que trata o Convênio ICMS nº 114, de 11 de dezembro de 2009, quando adquiridos por órgãos da administração pública direta federal, estadual, distrital e municipal.
 XX - serviços de transporte ferroviário em sistema de trens de alta velocidade (TAV), assim entendido como a composição utilizada para efetuar a prestação do serviço público de transporte ferroviário que consiga atingir velocidade igual ou superior a 250 km/h (duzentos e cinquenta quilômetros por hora).
 XXI - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
-Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XXI do caput.
+XXII - produtos classificados nos códigos 8443.32.22, 8469.00.39 Ex 01, 8714.20.00, e 9021.40.00, todos da TIPI;
+XXIII - calculadoras equipadas com sintetizador de voz classificadas no código 8470.10.00 da TIPI;
+XXIV - teclados com colmeia classificados no código 8471.60.52 da TIPI;
+XXV - indicadores ou apontadores - mouses - com entrada para acionador classificados no código 8471.60.53 da TIPI;
+XXVI - linhas braile classificadas no código 8471.60.90 da TIPI;
+XXVII - digitalizadores de imagens - scanners - equipados com sintetizador de voz classificados no código 8471.90.14 da TIPI;
+XXVIII - duplicadores braile classificados no código 8472.10.00 da TIPI;
+XXIX - acionadores de pressão classificados no código 8471.60.53 da TIPI;
+XXX - lupas eletrônicas do tipo utilizado por pessoas com deficiência visual classificadas no código 8525.80.19 da TIPI;
+XXXI - implantes cocleares classificados no código 9021.90.19 da TIPI; e.
+XXXII - próteses oculares classificadas no código 9021.90.89 da TIPI.
+Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XXXII do caput.
