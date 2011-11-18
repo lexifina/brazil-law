@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Rio de Janeiro que afastou limite de idade para ingresso na Academia de Bombeiro Militar, previsto somente em edital de concurso público, porque entendeu ser desarrazoada sua aplicação no caso concreto.
+    Alega-se, no recurso extraordinário, ofensa aos arts. 5º, caput, e 142, § 3º, X, da Constituição. Defende a aplicação do limite etário previsto em edital, sob o fundamento de que a previsão editalícia cumpre ordem constitucional.
+    Decido.
+    Observo que o acórdão recorrido não afastou a aplicação do limite máximo de idade em razão da ausência de previsão legal, nem considerou a norma abstrata inválida, de tal sorte que a questão trazida se circunscreve à aplicação de cláusula de edital ao caso concreto. Neste exercício, o Tribunal de Justiça nada mais fez que interpretar a norma à luz do princípio da razoabilidade. Transcrevo:
+    “Por conseguinte, o edital do caso vertente nenhuma censura merece por haver estabelecido limites etários para o ingresso na Academia de formação de Oficial Bombeiro Militar. Mas, como notam a sentença e os pareceres ministeriais, o impetrante, ora apelado, distingue-se da regra geral pelo fato de ser soldado policial militar há quatro anos, a induzir a presunção de que está perfeitamente adaptado ao peculiar regime castrense, o que, para ele, torna desarrazoada e desproporcional a exigência etária, mormente quando se verifica que ultrapassa a idade mínima fixada em não mais do que cinco meses e, na prova de conhecimento, obteve colocação que o habilita a ingressar na academia (22º colocado em 120 vagas).”
+    À luz da jurisprudência desta Corte, não cabe recurso extraordinário para reexaminar a interpretação de cláusula de concurso. Confira-se, nesse sentido, o AI 251.195-AgR (rel. min. Octavio Gallotti, DJ de 26.05.2000), cuja ementa possui o seguinte teor:
+    “Não cabe recurso extraordinário para interpretação de cláusula de concurso, nem para resolver suposto conflito entre ela e as instruções do processo seletivo ou dispositivo de lei ordinária.”
+    No mesmo sentido, confiram-se ainda: AI 384.050-AgR (rel. min. Carlos Velloso, DJ de 10.10.2003); RE 120.951-AgR (rel. min. Néri da Silveira, DJ de 08.10.1999); RE 476.783-AgR (rel. min. Ellen Gracie, DJe de 21.11.2008) e AI 720.769-AgR (rel. min. Eros Grau, DJe de 17.10.2008).
+    Por fim, a análise das peculiaridades do caso concreto implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
