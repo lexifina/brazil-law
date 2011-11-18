@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, cuja ementa tem o seguinte teor (fls. 93):
+    “APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – LEI ESTADUAL N. 2.152/00 – REFORMULAÇÃO DA ESTRUTURA DOS ÓRGÃOS DA ADMINISTRAÇÃO – NÃO VIOLAÇÃO AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS – REAJUSTE PARITÁRIO AOS VENCIMENTOS DOS NOVOS CARGOS – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+    O apelante não possui o direito de ter o valor da vantagem decorrente da função incorporada reajustada de acordo com o cargo comissionado novo criado, em razão da modificação do regime jurídico a que o apelante estava submetido, em relação ao qual não há, sabidamente, direito adquirido em sua manutenção.
+    Conforme a orientação jurisprudencial do STF, não existe violação às garantias constitucionais do direito adquirido e da irredutibilidade de vencimentos (CF, art. 37, XV), decorrente da modificação para o futuro do regime de vencimentos do servidor público, que não implique diminuição no quantum percebido pelo servidor.”
+    No recurso extraordinário, a parte ora agravante alega vulneração do disposto nos artigos 5º, XXXVI e 37, XV, da Constituição federal.
+    A jurisprudência pacífica desta Corte está orientada no sentido de que, uma vez respeitada a irredutibilidade dos vencimentos, não existe direito adquirido a regime jurídico (cf. RE 219.075, rel. min. Ilmar Galvão, DJ de 29.10.1999; RE 393.314-AgR, rel. min. Eros Grau, DJ de 29.04.2005 e RE 600.837-AgR, rel. min. Celso de Melo, Segunda Turma, DJ e 03.12.2009), este último assim ementado:
+    “RECURSO EXTRAORDINÁRIO - SERVIDOR PÚBLICO ESTATUTÁRIO - INALTERABILIDADE DO REGIME JURÍDICO - DIREITO ADQUIRIDO - INEXISTÊNCIA - REMUNERAÇÃO - PRESERVAÇÃO DO MONTANTE GLOBAL - AUSÊNCIA DE OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS - RECURSO IMPROVIDO. - Não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração, e, em conseqüência, não provoque decesso de caráter pecuniário. Precedentes.”
+    Também o Pleno, no RE 563.965, rel. min. Cármen Lúcia, DJe de 20.03.2009, após reconhecer a repercussão geral da matéria, reafirmou o entendimento da ausência de direito adquirido a regime jurídico. Confira-se a ementa:
+    DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ademais, verifico que restou consignado no acórdão recorrido: “(...) não houve redução dos vencimentos com a reestruturação do quadro do funcionalismo estadual” (fls. 97).
+    Ora, resta claro que uma eventual modificação desse entendimento implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, bem como o exame prévio da legislação local aplicável ao caso. Isso inviabiliza o processamento do recurso, ante a vedação contida nas Súmulas 279 e 280 desta Corte.
+    Confira-se, em casos análogos ao presente, os seguintes precedentes: AI 658.871-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 07.12.2007); AI 774.417 (rel. min. Dias Toffoli, DJe de 23.04.2010) e AI 802.127 (rel. min. Cármen Lúcia, DJe de 04.08.2010).
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 18 de novembro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
