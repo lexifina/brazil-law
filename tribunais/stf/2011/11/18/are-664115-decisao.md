@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “AÇÃO DECLARATÓIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR LUCROS CESSANTES E DANOS MORAIS – GARANTIA PELA EMPRESA PRESTADORA DE SERVIÇOS – AUSÊNCIA DE NEXO ENTRE O CONSERTO E DOS DEFEITOS POSTERIORES – OBRIGAÇÃO AFASTADA – DÉBITO AINDA NÃO PAGO – PEDIDO CONTRAPOSTO PROCEDENTE – OBRIGAÇÃO DE PAGAMENTO DAS AUTORAS LIMITADA AO VALOR DOS CHEQES NÃO COMPENSADOS. – Inexistente nos autos qualquer evidência de que o defeito apresentado no veículo de propriedade das autoras tem qualquer relação com os serviços prestados anteriormente pela requerida, impõe-se seja mantida a sentença que julgou improcedentes os pedidos iniciais, de declaração de inexistência de débito, indenização de lucros cessantes e por danos morais, acolhendo-se, por outro lado, o pedido reconvencional quanto ao débito comprovadamente ainda não pago pelas ora apelantes”. (fl. 138)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 149-151).
+    No apelo extremo, sustenta-se que ocorreu violação ao artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Verifico que, para se chegar à solução diversa do acórdão recorrido, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF.
+    Sobre o tema, confiram-se o AI-AgR 839.498, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 5.5.2011; e o AI-AgR 689.231, Segunda Turma, Rel. Min. Ayres Britto, DJe 9.3.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 2. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º E AO INCISO IX DO ART. 93 DA MAGNA CARTA. INSUBSISTÊNCIA. 1. Caso em que entendimento diverso do adotado pelo Tribunal Superior do Trabalho demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada neste momento processual. 2. No caso, a jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses do recorrente, o que não configura o alegado cerceamento de defesa. Agravo regimental desprovido”.
+    Além disso, ressalto que é firme a jurisprudência desta Corte no sentido de que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
