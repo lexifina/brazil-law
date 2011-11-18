@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor:
+    “AÇÃO ORDINÁRIA. ADMINISTRATIVO E CONSTITUCIONAL. SERVIDORES DA EXTINTA MINASCAIXA. ALEGAÇÕES DE SUPRESSÃO DE VANTAGEM PESSOAL E AUSÊNCIA DE REAJUSTE. IMPROCEDÊNCIA DO PEDIDO. SENTENÇA REFORMADA. VIOLAÇÃO DAS LEIS Nº 10.470/91 E 11.816/95. OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DO DIREITO ADQUIRIDO E DA IRREDUTIBILIDADE DE VENCIMENTOS . 1. Os ex-empregados da extinta autarquia Minas Caixa, absorvidos pelo Estado de Minas Gerais quando de sua extinção, têm direito à percepção das parcelas devidas a título de vantagem pessoal, bem como aos percentuais de reajuste salarial concedidos aos demais servidores. 2. A supressão de vantagem pessoal dos ex-servidores daquela autarquia constitui ofensa manifesta aos princípios constitucionais do direito adquirido e da irredutibilidade de vencimentos, pois a Lei Estadual nº 10.470/91 assegurou a tais servidores o direito à sua percepção, e com incidência, sobre ela, dos reajustes de vencimentos concedidos ao funcionalismo em geral.” (Fls. 235)
+    No recurso extraordinário, o agravante alega que o acórdão impugnado violou o disposto no art. 37, caput e XIV, da Carta Magna, ao entender que a vantagem pessoal compõe toda a remuneração básica.
+    A controvérsia foi examinada à luz do direito local, o que desautoriza a admissão do recurso extraordinário. Incide, no caso, o óbice da Súmula 280/STF. Nesse sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: ESTADO DE MINAS GERAIS: MINASCAIXA. Lei 10.470/91 do Estado de Minas Gerais. I. - Questão decidida a partir de interpretação de norma local. II. - Agravo não provido.” (RE 385-878-AgR, rel. min. Carlos Velloso, DJ de 26.09.2003).
+    Somam-se a esse os seguintes precedentes, julgados por decisão monocrática: AI 482.991-AgR (rel. min. Nelson Jobim, DJ de 25.05.2004), RE 424.780 (rel. min. Ayres Britto, DJ de 30.09.2004), RE 260.842 (rel. min. Cezar Peluso, DJ de 08.04.2005) e RE 436.223 (rel. min. Eros Grau, DJ de 08.08.2005).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
