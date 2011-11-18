@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 152):
+    “SERVIDOR PÚBLICO INATIVO – Indenização pelas horas credoras ou de compensação não usufruídas oportunamente por absoluta necessidade de serviço, com o acréscimo de 50% previsto pelo artigo 7º, XVI, da Constituição Federal – Inadmissibilidade – A verba é devida a título de indenização do trabalho no período correspondente, dada em reparação ao dano pela não fruição do direito, todavia não ensejando o acréscimo constitucional de 50%, voltado à remuneração do serviço extraordinário, o que superaria o valor do dano – Sentença de parcial procedência da ação mantida – Recursos improvidos”.
+    2. Pois bem, a parte recorrente aponta afronta ao inciso XVI do art. 7º da Magna Carta de 1988. Sustenta que “todo o trabalho extraordinário, quer prestado após às 8 horas diárias, quer prestado em apurações de eleições, concursos, etc., deve ser indenizado com o acréscimo de 50%, sob pena de locupletamento indevido por parte do Estado, além de contrariar dispositivo constitucional federal assecuratório de tal direito” (sic, fls. 173).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo “não conhecimento e, caso superado o óbice, pelo provimento do recurso extraordinário” (fls. 219).
+    4. Tenho que a insurgência merece acolhida. Isto porque, a Constituição Federal assegura o direito dos servidores públicos de remuneração do serviço extraordinário superior, no mínimo, em cinquenta por cento à do normal.
+    5. Conforme o parecer proferido pelo Ministério Público Federal às fls. 216/219, as denominadas “horas-credoras” são horas extraordinárias de trabalho, devendo ser pagas com acréscimo. Leia-se o seguinte trecho do referido parecer ministerial:
+    “Na hipótese dos autos, as denominadas “horas-credoras” nada mais são do que horas extraordinárias de trabalho, devendo ser remuneradas com acréscimo, porquanto se cuida de garantia individual do trabalhador de observância obrigatória em um Estado Democrático de Direito.
+    Desse modo, o parâmetro constitucional insculpido no art. 7º, XIV, pode até ser majorado, mas jamais diminuído sob o pretexto de que as horas credoras não se confundem com as horas extraordinárias.”
+    6. Assim, consignado que as “horas-credoras” são horas trabalhadas extraordinariamente, os recorrentes têm direto à remuneração das referidas horas com o acréscimo constitucional.
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. O que faço para determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, a fim de que sejam apuradas as horas extras efetivamente trabalhadas e, consequentemente, pago o adicional devido, conforme o inciso XVI do art. 7º do Magno Texto.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
