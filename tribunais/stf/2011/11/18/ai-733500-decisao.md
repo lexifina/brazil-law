@@ -1,0 +1,15 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 4ª Região assim ementado (fls. 233):
+    “ADMINISTRATIVO. SINDICATO DOS TRABALHADORES DA JUSTIÇA DO TRABALHO NO PARANÁ. CONCURSO PÚBLICO. PROVIMENTO DE CARGOS DO TRIBUNAL REGIONAL DO TRABALHO DA 9ª REGIÃO. SUPERVENIÊNCIA DA LEI N° 9.421/96. PLANO DE CARREIRA DOS SERVIDORES DO PODER JUDICIÁRIO. ENQUADRAMENTO INICIAL NOS NÍVEIS ESTABELECIDOS NO EDITAL DE CONCURSO. DIREITO INEXISTENTE. OFENSA AO PRINCÍPIO DA ISONOMIA. AFASTAMENTO.
+    1. Os candidatos aprovados em concursos públicos não têm direito adquirido à nomeação e, muito menos, ao enquadramento inicial nos cargos previstos no respectivo edital que foram extintos por lei superveniente.
+    2. O ingresso nas carreiras judiciárias, instituídas pela Lei n.° 9.421, de 24 de novembro de 1996, dar-se-á por meio de concurso público, no primeiro padrão da classe "A" do respectivo cargo.
+    3. Não há que falar em ofensa ao princípio da isonomia no tratamento dos concursados aprovados, porquanto o advento da Lei n.° 9.421 alterou a disciplina das carreiras judiciárias, afastando, a partir de sua vigência, a possibilidade de adoção de padrões revogados.
+    4. Apelo improvido.”
+    No recurso extraordinário, alega-se violação dos arts. 5º, XXXV, LIV e LV, e 93, IX e do art. 37, caput, sob o fundamento de que o acórdão recorrido ofende o princípio implícito da lealdade. Sustenta-se que os substituídos prestaram concurso público sob a égide da Lei 8.460/1992 e, no transcurso do certame, foi editada a Lei 9.421/1996, que transformou as carreiras dos servidores do Poder Judiciário da União e previu novo enquadramento dos servidores já investidos. Argui-se que os substituídos, embora nomeados sob a égide a nova lei, devem receber o mesmo tratamento daqueles que já eram efetivos à época da mudança de regime e estavam na classe da carreira correspondente à prevista no edital de concurso público como a do provimento inicial, e que foram beneficiados pelo novo enquadramento.
+    Decido.
+    Inexiste ofensa aos arts. 5º, XXXV, LIV e LV, e 93, IX, uma vez que o acórdão recorrido inequivocamente prestou juridição, com observância dos princípios do contraditório e ampla defesa, estando devidamente fundamentado, ainda que com sua fundamentação não concorde o ora agravante.
+    Ademais, o acórdão recorrido julgou a lide pela interpretação das regras de transição constantes da Lei 9.421/1996, principalmente arts. 5º e 21. O recurso extraordinário, portanto, não pode ser admitido, pois a alegada ofensa demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional. No mesmo sentido, RE 597.806, rel. Min. Ayres Britto, DJe 22.09.2011.
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
