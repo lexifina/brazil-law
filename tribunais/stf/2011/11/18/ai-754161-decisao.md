@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “APELAÇÃO CÍVEL. TRIBUTÁRIO. AÇÃO DECLARATÓRIA. IPTU. MUNICÍPIO DE LONDRINA. LEI MUNICIPAL 7303/97, ART. 175. PREVISÃO DE ALÍQUOTAS PROGRESSIVAS PARA IMÓVEIS NÃO EDIFICADOS, QUE VARIAM DE 3% A 7%. INCONSTITUCIONALIDADE, NOTADAMENTE PELA AUSÊNCIA DE OBSERVAÇÃO DO ART. 5º DO ESTATUTO DA CIDADE (Lei Nº 10.257/01). APLICAÇÃO DA ALÍQUOTA MÍNIMA PREVISTA PARA O IMÓVEL TRIBUTADO, QUE NO CASO É DE 3%, POR SE TRATAR DE IMÓVEL NÃO EDIFICADO E DE METRAGEM INFERIOR A 10.000 M2. TAXA DE CONSERVAÇÃO DE VIAS E LOGRADOUROS PÚBLICOS. INCONSTITUCIONALIDADE. ORIENTAÇÃO DO STF E DESTE TRIBUNAL DE JUSTIÇA. REPETIÇÃO DE INDÉBITO DOS VALORES PAGOS A MAIS DO REALMENTE DEVIDO. DESNECESSIDADE DE COMPROVAÇÃO PRÉVIA DE TODOS OS PAGAMENTOS. POSSIBILIDADE DE DEMONSTRAÇÃO EM FASE DE LIQUIDAÇÃO DE SENTENÇA. INÉPCIA DA INICIAL NÃO CARACTERIZADA. Recurso conhecido e provido em parte.
+    RECURSO ADESIVO. INSURGÊNCIA QUANTO À DISTRIBUIÇÃO DA SUCUMBÊNCIA. SENTENÇA MANTIDA. SUCUMBÊNCIA RECÍPROCA CARACTERIZADA E FIXADA DE ACORDO COM OS PEDIDOS ACOLHIDOS E REJEITADOS. Recurso conhecido e não provido.” (fls. 221-222)
+    Alega-se violação do disposto nos arts. 30; 156, § 1º, e 182, § 4º, da Constituição federal.
+    O recurso não merece seguimento.
+    A despeito das alegações da parte ora agravante, verifica-se que a hipótese dos autos é de IPTU progressivo no tempo, de natureza extrafiscal, pois tem como fundamento a função social da propriedade. Com efeito, a progressividade em questão tem por base o tempo em que o imóvel permanece não edificado sob o domínio do mesmo contribuinte (fls. 43).
+    No caso, o Tribunal de origem concluiu que a legislação municipal que embasou o laçamento do IPTU não respeitou a ordem de penalidades a serem impostas ao proprietário do solo urbano não edificado, subutilizado ou não utilizado, prevista na Lei federal 10.257/2001 (Estatuto da Cidade). Trata-se de fundamento suficiente que não foi impugnado nas razões do recurso extraordinário, sendo aplicável o disposto nas Súmulas 283 e 284/STF.
+    Ademais, ainda que superado tal óbice, observo que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à Constituição seria meramente indireta ou reflexa (Súmulas 280 e 636/STF).
+    Por fim, saliento que o Pleno do Supremo Tribunal Federal, no julgamento do RE 153.771 (redator para o acórdão min. Moreira Alves, DJ de 05.09.1997), decidiu que é inconstitucional qualquer progressividade, em se tratando de IPTU, que não atenda exclusivamente ao disposto no art. 156, § 1º, e às limitações expressamente constantes dos §§ 2º e 4º do art. 182, ambos da Constituição federal.
+    Dessa orientação não divergiu o tribunal de origem.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
