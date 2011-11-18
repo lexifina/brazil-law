@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a e b, da Constituição) no qual se alega a violação dos arts. 5º , XXXV e LV, 93, IX, e 97, da Carta Magna, por acórdão prolatado pelo Tribunal Regional Federal da 4ª Região.
+    Inexiste a alegada ofensa ao art. 5º, XXXV e LV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, tendo enfrentado as questões que lhe foram postas, em observância aos princípios do contraditório e da ampla defesa.
+    Ademais, não ocorre a afirmada contrariedade ao art. 93, IX, da Constituição, porquanto o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a ora agravante.
+    Quanto à questão da reserva de Plenário, observo que a simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, tão-somente por si, violação da orientação firmada pelo Supremo Tribunal Federal. Por exemplo, é possível que dada norma não sirva para desate do quadro submetido ao crivo jurisdicional pura e simplesmente porque não há subsunção. Para caracterização da ofensa ao art. 97 da Constituição, que estabelece a reserva de Plenário (full bench) para declaração de inconstitucionalidade, é necessário que a causa seja decidida sob critérios diversos, alegadamente extraídos da Constituição, de modo a levar ao afastamento implícito ou explícito da norma por incompatibilidade com a Constituição.
+    No presente caso não era necessário instaurar o procedimento do art. 97 da Lei Maior, pois o acórdão vergastado não considerou inconstitucionais os arts. 1.062 e 1.063 do Código Civil de 1916, nem o art. 1º da Lei 4.414/64, mas apenas entendeu que a presente situação subsumia-se ao art. 3º, do Decreto-Lei 2.322/87, nos termos da jurisprudência do Superior Tribunal de Justiça.
+    Por fim, no tocante à letra b do inciso III do art. 102 da Constituição, é incabível o recurso extraordinário, porque o acórdão recorrido não declarou a inconstitucionalidade de lei federal.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
