@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa possui o seguinte teor (fls. 99):
+    “AÇÃO ORDINÁRIA – CONCURSO PÚBLICO – TESTE PSICOLÓGICO – CONTRA-INDICAÇÃO – PEDIDO DE ANULAÇÃO DO ATO PARA REINTEGRAÇÃO DO AUTOR AO QUADRO DA CORPORAÇÃO MILITAR – ALEGADA FALTA DE PREVISÃO LEGAL E SUBJETIVIDADE DO TESTE – MANDADO DE SEGURANÇA ANTERIORMENTE IMPETRADO, COM O MESMO OBJETO, SOB OS MESMOS FUNDAMENTOS – DEFERIMENTO DE LIMINAR – ACÓRDÃO DENEGATÓRIO DA SEGURANÇA – APRECIAÇÃO DO MÉRITO DA PRETENSÃO, AFIRMANDO A LEGALIDADE E CLAREZA DO ATO E A INEXISTÊNCIA DO DIREITO PRETENDIDO – COISA JULGADA – REDISCUSSÃO DO MÉRITO – IMPOSSIBILIDADE. TEORIA DO FATO CONSUMADO – INAPLICABILIDADE. SENTENÇA CONFIRMADA – RECURSO DESPROVIDO.”
+    No recurso extraordinário, o ora agravante alega violação do disposto nos arts. 5º, XXXV e LV; 37, I e II; e 93, IX, da Constituição federal.
+    Inicialmente, observo que inexiste a alegada ofensa ao art. 5º, XXXV e LV, e 93, IX, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o agravante.
+    Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o princípio da legalidade (art. 37, I e II, da Carta Magna), versa questão constitucional não ventilada na decisão recorrida, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ainda que superados os referidos óbices, a análise da alegada inexistência de coisa julgada, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário.
+    Nesse sentido, em casos semelhantes: AI 626.840, rel. min. Menezes Direito, DJ 09.05.2008; AI 608.138, rel. min. Gilmar Mendes, DJ 30.05.2007; AI 599.421, rel. min. Ricardo Lewandowski, DJ 03.10.2006; AI 558.581, rel. min. Cezar Peluso, DJ de 24.03.2006; AI 565.678, rel. min. Sepúlveda Pertence, DJ de 03.02.2006 e RE 430.084-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 24.06.2005.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
