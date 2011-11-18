@@ -1,0 +1,12 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cujo trecho da ementa tem o seguinte teor (fls. 114):
+    “PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. I - Assentado o fato inconcusso de as questões relevantes e pertinentes ao deslinde da controvérsia terem sido motivadamente examinadas, impõe-se a ilação de a decisão não se ressentir do vício que a recorrente diz tê-la inquinado, motivo pelo qual não há falar em ofensa aos artigos 458 do CPC, 832 da CLT e 93, IX, da Constituição. II – Recurso não conhecido. INTERVALO INTRAJORNADA – REDUÇÃO – ACORDO COLETIVO – INVALIDADE. I – A matéria já se acha pacificada no âmbito deste Tribunal, por meio da Orientação Jurisprudencial nº 342 da SBDI-1: "É inválida cláusula de acordo ou convenção coletiva de trabalho contemplando a supressão ou redução do intervalo intrajornada porque este constitui medida de higiene, saúde e segurança do trabalho, garantido por norma de ordem pública". II - Não se vislumbra a ofensa ao artigo 7º, XXVI, da Constituição e infirma-se eventual divergência jurisprudencial com os paradigmas citados, porque superados, nos termos do § 4º do artigo 896 da CLT. III – Recurso não conhecido. (...)”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV e LV, 7º, XIII, XXII e XXVI, e 93, IX, da Constituição federal. Sustenta-se a ocorrência de negativa de prestação jurisdicional e a validade da cláusula da norma coletiva que reduz o intervalo intrajornada.
+    É o relatório. Decido.
+    Ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Por outro lado, quanto à redução do intervalo intrajornada, é de se destacar que o Supremo Tribunal Federal, apreciando o AI 825.675-RG (rel. min. Gilmar Mendes, DJe de 25.03.2011), não reconheceu a repercussão geral do tema.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
