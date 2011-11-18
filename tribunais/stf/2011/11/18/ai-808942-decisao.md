@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa tem o seguinte teor (fls. 302):
+    “APELAÇÃO CÍVEL. - SERVIDOR PÚBLICO. MUNICÍPIO DE SANTA CRUZ DO SUL. PRELIMINARES. INEXISTÊNCIA DE INOVAÇÃO EM SEDE RECURSAL. NULIDADE DA SENTENÇA POR AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL COMPLETA. INOCORRÊNCIA. MÉRITO. TRANSPOSIÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. PRETENSÃO DE MANUTENÇÃO DE VANTAGENS RECONHECIDAS NA JUSTIÇA DO TRABALHO. IMPOSSIBILIDADE. ADEQUAÇÃO DO NOVO VÍNCULO À LEGISLAÇÃO MUNICIPAL APLICÁVEL. PRINCÍPIO DA LEGALIDADE.
+    REJEITARAM AS PRELIMINARES E NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.”
+    Nas razões do recurso extraordinário, a ora agravante alega violação do disposto nos arts. 7º, VI e 37, XV, da Constituição federal.
+    É o relatório. Decido.
+    É assentada a jurisprudência desta Corte no sentido de que a transposição do regime estatuário para o regime celetista implica a extinção do contrato de trabalho, não cabendo a alegação de direito adquirido a vantagens obtidas anteriormente ou irredutibilidade de vencimentos. Como bem explicitado pelo ministro Sepúlveda Pertence:
+    “É pacífico o entendimento desta Corte no sentido de que é incabível a manutenção do pagamento vantagens incorporadas ao salário dos servidores à época de sua sujeição ao regime da CLT - após a vigência do regime estatutário, quando se operou a extinção dos contratos de trabalho e a transformação dos empregos em cargos públicos. Não há, portanto, como invocar-se ofensa ao direito adquirido ou à irredutibilidade de vencimentos.
+    Assim se decidiu, por exemplo, no julgamento do MS 22.455, 22.4.2002, de relatoria do em. Ministro Néri da Silveira, que, na ocasião, acentuou: ‘É de clareza palmar a impossibilidade de que permaneçam, no regime estatutário, vigente a partir da Lei nº 8.112/90, as vantagens concedidas pelas autarquias e fundações públicas a seus servidores, ao abrigo do regime celetista, posto que, com o ingresso destes no Regime Jurídico Único, operou-se a extinção da relação de emprego, adrede existente, e criou-se um novo vínculo jurídico, com o qual as vantagens não se conformam. (...)’” (AI 572.366, rel. min. Sepúlveda Pertence, DJ de 27.04.2006).
+    Confiram-se, no mesmo sentido, os seguintes precedentes: AI 310.274-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.03.2002), AI 388.853-AgR (rel. min. Ellen Gracie, Segunda Turma, DJ de 04.03.2005) e RE 425.579-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJe de 08.06.2007). Destaco a ementa deste último:
+    “Servidores do CNPq: Gratificação Especial: inexistência de direito adquirido.
+    Ao julgar o MS 22.094, Pleno, 02.02.2005, Ellen Gracie, DJ 25.02.2005, o Supremo Tribunal decidiu que os servidores do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, quando convertidos de celetistas em estatutários, não fazem jus à incorporação da Gratificação Especial, dada a inexistência de direito adquirido a regime jurídico.”
+    Ante o exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 18 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
