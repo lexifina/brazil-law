@@ -48,9 +48,20 @@ XIX - artigos e aparelhos ortopédicos ou para fraturas classificados no código
 XX - artigos e aparelhos de próteses classificados no código 90.21.3 da NCM;
 XXI - almofadas antiescaras classificadas nos Capítulos 39, 40, 63 e 94 da NCM.
 XXIII - projetores para exibição cinematográfica, classificados no código 9007.2 da NCM, e suas partes e acessórios, classificados no código 9007.9 da NCM.
+XXIV - produtos classificados nos códigos 8443.32.22, 8469.00.39 Ex 01, 8714.20.00, e 9021.40.00, todos da TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006;
+XXV - calculadoras equipadas com sintetizador de voz classificadas no código 8470.10.00 da TIPI;
+XXVI - teclados com colmeia classificados no código 8471.60.52 da TIPI;
+XXVII - indicadores ou apontadores - mouses - com entrada para acionador classificados no código 8471.60.53 da TIPI;
+XXVIII - linhas braile classificadas no código 8471.60.90 da TIPI;
+XXIX - digitalizadores de imagens - scanners - equipados com sintetizador de voz classificados no código 8471.90.14 da TIPI;
+XXX - duplicadores braile classificados no código 8472.10.00 da TIPI;
+XXXI - acionadores de pressão classificados no código 8471.60.53 da TIPI;
+XXXII - lupas eletrônicas do tipo utilizado por pessoas com deficiência visual classificadas no código 8525.80.19 da TIPI;
+XXXIII - implantes cocleares classificados no código 9021.90.19 da TIPI; e.
+XXXIV - próteses oculares classificadas no código 9021.90.89 da TIPI.
 § 13. O Poder Executivo poderá regulamentar:
 I - o disposto no § 10 deste artigo; e
-II - a utilização do benefício da alíquota 0 (zero) de que tratam os incisos I a VII e XVIII a XXI do § 12 deste artigo.
+II - a utilização do benefício da alíquota zero de que tratam os incisos I a VII, XVIII a XXI, e XXIV a XXXIV do § 12.
 § 14. Ficam reduzidas a 0 (zero) as alíquotas das contribuições incidentes sobre o valor pago, creditado, entregue, empregado ou remetido à pessoa física ou jurídica residente ou domiciliada no exterior, referente a aluguéis e contraprestações de arrendamento mercantil de máquinas e equipamentos, embarcações e aeronaves utilizados na atividade da empresa.
 § 15. Na importação de etano, propano e butano, destinados à produção de eteno e propeno, e de nafta petroquímica, quando efetuada por centrais petroquímicas, as alíquotas são de:
 I - 1,0% (um por cento), para a Contribuição para o Pis/Pasep-Importação; e
