@@ -1,0 +1,10 @@
+DECISÃO : O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC (Informativo 516, de 27.08.2008).
+    Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+    No presente caso, o recurso extraordinário trata sobre tema cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (Tema 484 - RE 650.898-RG , rel. min. Marco Aurélio, DJe 26.10.2011):
+    “PROCESSO OBJETIVO – TRIBUNAL DE JUSTIÇA – CONFLITO DE LEI MUNICIPAL COM A CONSTITUIÇÃO FEDERAL – CRIVO IMPLEMENTADO – SUBSÍDIO – GRATIFICAÇÃO DE FÉRIAS, 13º SALÁRIO E VERBA INDENIZATÓRIA – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL CONFIGURADA.
+    Possui repercussão geral a controvérsia acerca da viabilidade de órgão especial de tribunal de justiça, no julgamento de ação direta de inconstitucionalidade em que se impugna lei municipal, verificar a existência de ofensa ao Diploma Maior. Igualmente, tem repercussão geral a questão relativa à possibilidade, ou não, de haver a satisfação de subsídio acompanhada do pagamento de outra espécie remuneratória.”
+    Do exposto, dou provimento ao presente agravo de instrumento para admitir o recurso extraordinário, e, nos termos do art. 328 do RISTF (na redação dada pela Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
