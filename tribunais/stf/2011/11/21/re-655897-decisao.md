@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo (fls. 130):
+    “PENSÃO DE SERVIDOR FALECIDO. Pretensão ao recebimento da pensão equivalente à totalidade do vencimento do servidor falecido, com pagamento das diferenças que vem percebendo, de 75% para 100%, acrescidas de correção monetária e de juros, com respectivo apostilamento. Sentença a quo que julgou improcedente a ação, sob fundamento de que a autora não é beneficiária de servidor público estadual, mas de segurado da Carteira de Previdência das Serventias não Oficializadas da Justiça do Estado, não podendo ser (sic) valer do disposto no art. 40, §§ 7º e 8º da CF. Inadmissibilidade. Servidor público estadual que contribuía para o Instituto de Previdência do Estado- IPESP. Autarquia que é responsável pela complementação dos benefícios da carteira de previdência das serventias não oficializadas. Emenda Constitucional nº 20/98 que deu nova redação ao § 7º, do art. 40 da Constituição Federal, dispondo que a concessão do benefício da pensão por morte será igual ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento, observado o disposto no § 3º. Valor que deve corresponder à totalidade dos vencimentos ou proventos do servidor falecido. Decisum de primeiro grau reformado. Recurso provido.”
+    O recorrente alega que o disposto no art. 40, § 7º refere-se apenas aos servidores ocupantes de cargos públicos. Nessa perspectiva, não se incluem no mencionado regramento aqueles que exercem suas funções em serventias extrajudiciais, como seria o caso do instituidor da pensão ora em comento.
+    Acrescenta que os integrantes de serventias extrajudiciais são regidos pela Lei 10.393, de 16.12.1970 e, portanto, são contribuintes de uma carteira autônoma privada.
+    É o breve relatório.
+    Decido.
+    Não obstante a indicação de dispositivos constitucionais, a peça recursal apenas confronta normas locais. Assim, a fundamentação do recurso extraordinário impede a exata compreensão da controvérsia, impondo-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+    Ademais, a análise das questões constitucionais tal como suscitadas remete à interpretação de normas de direito local, de modo que é inviável o recurso extraordinário, ante a vedação contida na Súmula 280 do Supremo Tribunal Federal.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
