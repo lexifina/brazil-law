@@ -1,0 +1,18 @@
+DECISÃO: Vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 443):
+    “AGRAVO DE INSTRUMENTO - AÇÃO ORDINÁRIA - COMPETÊNCIA - INTERESSE MANIFESTADO PELA UNIÃO - DESLOCAMENTO PARA A JUSTIÇA FEDERAL – ADMISSIBILIDADE - INTELIGÊNCIA DO ARTIGO 109, I, DA CF E NOS TERMOS DA SÚMULA 150 DO C. STJ COMPETE À JUSTIÇA FEDERAL DIZER SE HÁ, OU NÃO, INTERESSE DA UNIÃO FEDERAL - RECURSO IMPROVIDO.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso I do art. 109 da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. Isso porque, nos termos da jurisprudência do Supremo Tribunal Federal, apenas à Justiça Federal compete dizer se há, ou não, interesse da União em determinado feito. Leia-se, a propósito, a ementa do RE 144.880, da relatoria do ministro Celso de Mello:
+    “RECURSO EXTRAORDINÁRIO - AÇÃO DE USUCAPIÃO - IMÓVEL USUCAPIENDO QUE CONFRONTA COM TERRENO DE MARINHA - INTERVENÇÃO DA UNIÃO FEDERAL - DESLOCAMENTO DA CAUSA PARA O ÂMBITO DA JUSTIÇA FEDERAL (CF, ART. 109, I) - INCOMPETÊNCIA ABSOLUTA DO TRIBUNAL DE JUSTIÇA ESTADUAL PARA JULGAR RECURSO DA UNIÃO FEDERAL CONTRA DECISÃO DO MAGISTRADO LOCAL QUE NEGOU A REMESSA DO PROCESSO À JUSTIÇA FEDERAL - RECURSO EXTRAORDINÁRIO CONHECIDO E PROVIDO.
+    A COMPETÊNCIA DA JUSTIÇA FEDERAL ESTÁ SUJEITA A REGIME JURÍDICO DEFINIDO NA CONSTITUIÇÃO DA REPÚBLICA.
+    - A competência outorgada à Justiça Federal possui extração constitucional e reveste-se, por isso mesmo, de caráter absoluto e improrrogável, expondo-se, unicamente, às derrogações fixadas no texto da Constituição da República.
+    SOMENTE À JUSTIÇA FEDERAL COMPETE DIZER SE, EM DETERMINADA CAUSA, HÁ, OU NÃO, INTERESSE DA UNIÃO FEDERAL.
+    - A legitimidade do interesse jurídico manifestado pela União só pode ser verificada, em cada caso ocorrente, pela própria Justiça Federal (RTJ 101/881), pois, para esse específico fim, é que a Justiça Federal foi instituída: para dizer se, na causa, há, ou não, interesse jurídico da União (RTJ 78/398).
+    O ingresso da União Federal numa causa, vindicando posição processual definida (RTJ 46/73 - RTJ 51/242 - RTJ 164/359), gera a incompetência absoluta da Justiça local (RT 505/109), pois não se inclui, na esfera de atribuições jurisdicionais dos magistrados e Tribunais estaduais, o poder para aferir e dizer da legitimidade do interesse da União Federal, em determinado processo (RTJ 93/1291 - RTJ 95/447 - RTJ 101/419 - RTJ 164/359).
+    INTERVENÇÃO PROCESSUAL DA UNIÃO EM CAUSA INSTAURADA PERANTE A JUSTIÇA DO ESTADO-MEMBRO: A QUESTÃO DA ATRIBUIÇÃO PARA JULGAR RECURSO CONTRA DECISÃO DE MAGISTRADO ESTADUAL, QUE, SEM DECLINAR DE SUA COMPETÊNCIA EM FAVOR DA JUSTIÇA FEDERAL, DECLARA, DESDE LOGO, INEXISTIR INTERESSE JURÍDICO DA UNIÃO NA CAUSA.
+    - A competência para processar e julgar recurso interposto pela União Federal, contra decisão de magistrado estadual, no exercício da jurisdição local, que não reconheceu a existência de interesse federal na causa e nem determinou a remessa do respectivo processo à Justiça Federal, pertence ao Tribunal Regional Federal (órgão judiciário de segundo grau da Justiça Federal comum), a quem incumbe examinar o recurso e, se for o caso, invalidar o ato decisório que se apresenta eivado de nulidade, por incompetência absoluta de seu prolator. Precedentes (STF).”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
