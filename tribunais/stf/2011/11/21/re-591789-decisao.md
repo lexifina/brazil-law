@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Pará. Acórdão assim ementado (fls. 12):
+    “Reexame e Sentença – Ação de Execução contra a Fazenda Pública – Decisão que determinou a expedição de precatório – Observância aos requisitos de validade do artigo 458 do Código de Processo Civil – Relatório e fundamentação sucintos – Ausência de Impugnação da fazenda Pública do Valor executado – Legalidade da expedição do precatório. Reexame conhecido para manter in totum a sentença proferida.”
+    2. Pois bem, a parte recorrente alega violação ao § 1º do art. 100 da Magna Carta de 1988 e ao art. 78 do ADCT. Defende que o “precatório requisitório somente se instaure com o trânsito em julgado da decisão condenatória” (fls. 33) e que seja assegurada a “liquidação do crédito na forma estabelecida no artigo 78 ADCT, determinando-se ainda, a restituição dos valores que foram seqüestrados” (fls. 34).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Ela Wiecko V. de Castilho, opina pelo conhecimento e provimento do apelo extremo.
+    4. Tenho que a insurgência merece parcial acolhida. Isso porque o entendimento da instância judicante de origem destoa da jurisprudência do Supremo Tribunal Federal, que reconhece a impossibilidade de expedição do precatório antes do trânsito em julgado da sentença condenatória. Precedentes: REs 463.936-ED, da relatoria do ministro Joaquim Barbosa; e 421.233-AgR, da relatoria do ministro Carlos Velloso.
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso extraordinário. O que faço tão-somente para reconhecer a impossibilidade de expedição de precatório antes do trânsito em julgado da sentença condenatória e, consequentemente, para liberar os valores sequestrados ao Município de Marabá/PA. Fixo os honorários advocatícios, devidos pela parte recorrida, em 5% (cinco por cento) sobre os mencionados valores que se encontram sequestrados.
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
