@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 327):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. 1. SERPRO. INCORPORAÇÃO DA FUNÇÃO COMISSIONADA AUXILIAR (FCA). O Regional entendeu que não restou configurada a correspondência entre o valor pago sob a rubrica de Função Comissionada para Auxiliar - FCA e a alegada atribuição extraordinária ou adicional de apoio. Nesse passo, descabe a invocada contrariedade à Súmula 372, I, do TST, porquanto referido verbete não se refere ao caso dos autos, mas, sim, à hipótese de percepção de gratificação pelo efetivo exercício de função de confiança, e de retorno ao cargo efetivo. 2. HONORÁRIOS ADVOCATÍCIOS. Tendo o Regional consignado expressamente que a reclamante preencheu os requisitos legais para que lhe fossem deferidos os honorários advocatícios, para se entender de outro modo, seria necessária a revisão do conjunto fático-probatório, o que é inviável, a teor da Súmula 126 do TST. Agravo de instrumento conhecido e não provido.”
+     Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, LIV e LV, e 37, caput, da Constituição federal. Sustenta-se que houve negativa de prestação jurisdicional, que a gratificação de função não tem natureza salarial e que é indevida a condenação em honorários visto que a sentença tem conteúdo meramente declaratório.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos do art. 5º, II, XXXV, LIV e LV, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Impende ressaltar que ausência de prequestionamento do art. 5º, II, refere-se tão-somente ao tema condenação em honorários.
+    Quanto à discussão sobre natureza da gratificação de função, verifico que eventual ofensa a Constituição demandaria o exame prévio da legislação infraconstitucional e do regulamento do empregador, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide o óbice das Súmulas 454 e 636 desta Corte.
+     Do exposto, conheço do agravo para negar seguimento ao recurso (art. 544, § 4º, II, b, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
