@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cujo trecho da ementa tem o seguinte teor (fls. 949):
+    “ (...) GRATIFICAÇÃO DE FUNÇÃO. ACORDO COLETIVO. Debate-se, “in casu”, o pedido do autor, pertinente às diferenças salariais, em razão de o cálculo da gratificação de caixa não estar vinculado ao seu vencimento padrão, o que ocasionou a redução salarial vedada no art. 468 da CLT. Na presente hipótese, de acordo com o laudo pericial, o cálculo da gratificação de caixa, feito pelo reclamado, obedeceu aos termos do acordo coletivo da categoria. Firmou-se, neste Tribunal Superior, o entendimento de que, a partir da promulgação da Constituição Federal em 1988, foi permitida a inserção, no âmbito da negociação coletiva, do princípio da flexibilização das relações de trabalho. Por ser um instrumento do qual as partes podem se valer para regulamentar as relações de trabalho, a norma inserida em convenção ou acordo coletivo de trabalho há de prevalecer, com respaldo na Constituição Federal. Violação demonstrada do art. 7º, XXVI, da Constituição Federal. Recurso de revista de que se conhece parcialmente e a que se dá provimento.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 5º, XXXVI, da Constituição federal. Sustenta-se que a aplicação da norma coletiva ao caso viola o direito adquirido à fórmula de cálculo da gratificação em exame. Alega-se que o empregador sempre pagou a gratificação calculada sobre o o vencimento padrão do obreiro.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 5º, XXXVI, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+     Ainda que superado o óbice supra, impossível chegar a conclusão diversa sem o reexame dos fatos, da cláusula da norma coletiva e da legislação infraconstitucional. Incide, na espécie, o óbice das Súmulas 279, 454 e, mutatis mutandis, 636 deste Tribunal.
+     Do exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
