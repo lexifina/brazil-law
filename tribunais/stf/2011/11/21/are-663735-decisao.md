@@ -1,0 +1,24 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado (fls. 203):
+    “AGRAVO REGIMENTAL. HABEAS CORPUS . ARGUMENTOS INSUFICIENTES PARA ALTERAR A DECISÃO AGRAVADA. ESTELIONATO. CRIME INSTANTÂNEO DE EFEITOS PERMANENTES.
+    1. A agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa do provimento ao agravo regimental.
+    2. A jurisprudência da Sexta Turma deste Tribunal firmou entendimento no sentido de que o delito de estelionato previdenciário tem natureza de crime instantâneo de efeitos permanentes e consuma-se com o recebimento da primeira prestação do benefício indevido, marco que deve ser considerado para a contagem do lapso da prescrição da pretensão punitiva.
+    3. Agravo regimental a que se nega provimento.”
+    2. Pois bem, a parte recorrente sustenta ofensa ao incisos XLI, XLVI e XXXIX do art. 5º, ao art. 194, ao caput e § 5º do art. 195 e ao caput e §§ 1º e 9º do art. 201, todos da Magna Carta de 1988.
+    3. Tenho que a insurgência merece acolhida. É que o aresto impugnado destoa da jurisprudência desta nossa Casa de Justiça no sentido de que o crime de estelionato contra a Previdência Social em caso como o destes autos tem caráter permanente, o que fixa como termo inicial do prazo prescricional a data da cessação da permanência.
+    4. Confira-se, a propósito, a ementa do HC 104.880, da minha relatoria:
+    “HABEAS CORPUS. CRIME MILITAR. ESTELIONATO PREVIDENCIÁRIO. BENEFICIÁRIO DAS PARCELAS INDEVIDAS. CRIME PERMANENTE. PRESCRIÇÃO. TERMO INICIAL. HIGIDEZ DA PRETENSÃO PUNITIVA. ORDEM INDEFERIDA.
+    1. Em tema de estelionato previdenciário, o Supremo Tribunal Federal tem uma jurisprudência firme quanto à natureza binária da infração. Isso porque é de se distinguir entre a situação fática daquele que comete uma falsidade para permitir que outrem obtenha a vantagem indevida, daquele que, em interesse próprio, recebe o benefício ilicitamente. No primeiro caso, a conduta, a despeito de produzir efeitos permanentes no tocante ao beneficiário da indevida vantagem, materializa, instantaneamente, os elementos do tipo penal. Já naquelas situações em que a conduta é cometida pelo próprio beneficiário e renovada mensalmente, o crime assume a natureza permanente, dado que, para além de o delito se protrair no tempo, o agente tem o poder de, a qualquer tempo, fazer cessar a ação delitiva. Precedentes.
+    2. No caso, o paciente, indevidamente, sacou os valores depositados na conta-corrente de sua falecida irmã no período de janeiro de 2000 a maio de 2005. É falar: em proveito próprio, ele cometeu a fraude contra a Administração Militar. Donde ressai a natureza permanente da infração, a atrair a incidência do inciso III do art. 111 do Código Penal.
+    3. Habeas corpus indeferido.”
+    5. No mesmo sentido, vejam-se as seguintes decisões: RHC 105.761, da relatoria do ministro Ricardo Lewandowski; HC 102.774, da relatoria da ministra Ellen Gracie; HC 86.467, da relatoria do ministro Marco Aurélio.
+    6. E o que se deu na concreta situação dos autos? Como assinalou o voto-condutor do acórdão do Tribunal Regional Federal da 2ª Região, “o acusado nunca foi servidor do INSS e não só providenciou todos os documentos necessários à concessão indevida das aposentadorias, como também recebeu os valores pertinentes aos beneficiários, durante os períodos mencionados na denúncia, eis que detinha mandato, outorgado pelos mesmos, mediante procuração lavrada em Cartório (fls. 242/243). Desta forma, o dies a quo para a contagem do prazo prescricional deve ser a data em que a autarquia previdenciária deixou de ser induzida em erro, tendo em vista que a ação tipificada no crime de estelionato é a obtenção de vantagem ilícita (para si ou para outrem), em prejuízo alheio, induzido ou mantendo alguém em erro (mediante artifício, ardil ou qualquer outro meio fraudulento)”. Donde ressai a natureza permanente da infração, a atrair a incidência do inciso III do art. 111 do Código Penal, in verbis :
+    “Art. 111 - A prescrição, antes de transitar em julgado a sentença final, começa a correr:
+    [...]
+    III - nos crimes permanentes, do dia em que cessou a permanência;”
+    7. Assim postas as coisas, não há que se falar em prescrição da pretensão punitiva.
+    Ante o exposto, provejo o agravo para conhecer do recurso extraordinário e dar-lhe provimento. O que faço para afastar a prescrição da pretensão punitiva e restabelecer o acórdão do Tribunal Regional da 2ª Região.
+    Publique-se.
+    Brasília, 21 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
