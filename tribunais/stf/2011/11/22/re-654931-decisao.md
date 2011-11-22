@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PROCESSUAL CIVIL. DEMISSÃO. PRESCRIÇÃO RECONHECIDA. DECRETO N. 20.910/1932. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL. ADMINISTRATIVO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. SERVIDOR PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. DEMISSÃO. ATO JURÍDICO DE EFEITO CONCRETO. PRESCRIÇÃO RECONHECIDA. 1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada. 2. É assente no Superior Tribunal de Justiça, o entendimento de que, se o ato jurídico modifica ou extingue determinada vantagem ou direito de servidor público, a prescrição alcança o próprio fundo de direito e a partir da publicação do ato há de ser contado o respectivo prazo prescricional 3. Agravo regimental a que se nega provimento”.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. X e LV, e 37, caput, 41, § 1º, da Constituição da República.
+    Argumenta que “se o servidor foi demitido de forma nula, deveria a Administração saná-lo imediatamente, reintegrando-o, fundado no princípio da legalidade e no seu poder de auto-tutela (Súmula 473/STF)”.
+    Afirma que a “Administração não poderia adotar outro comportamento, frente ao ato maculado de vício insanável, sob pena de o administrador incorrer em improbidade administrativa (art. 10, IX e 11 da Lei 8.429/92). O objeto do ato invalidador é, pois, a retirada do mundo jurídico da demissão nula, isto é, o ato viciado por estar em desacordo com a Constituição”.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. No voto condutor do acórdão recorrido, o Ministro Haroldo Rodrigues asseverou:
+    “A hipótese é de agravo regimental em ataque à decisão resumida nos seguintes termos:
+    ‘ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL RODOVIÁRIO FEDERAL. DEMISSÃO. ATO JURÍDICO DE EFEITO CONCRETO. PRESCRIÇÃO RECONHECIDA. 1. É assente no Superior Tribunal de Justiça, o entendimento de que, se o ato jurídico modifica ou extingue determinada vantagem ou direito de servidor público, a prescrição alcança o próprio fundo de direito e a partir da publicação do ato há de ser contado o respectivo prazo prescricional 2. Recurso especial provido.’
+    Alega o agravante, em resumo, que não há falar em prescrição na presente hipótese, na medida em que se trata de ato eivado de nulidade. (...)
+    O inconformismo não merece abrigo.
+    Como antes afirmado, este Superior Tribunal de Justiça já pacificou entendimento segundo o qual, se o ato jurídico modifica ou extingue determinada vantagem ou direito de servidor público, a prescrição alcança o próprio fundo de direito e a partir da publicação do ato há de ser contado o respectivo prazo prescricional.
+    Em reforço, anotem-se:
+    A-"ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. DIÁRIAS. SUPRESSÃO DA VANTAGEM POR DECRETO. RECONHECIMENTO DA PRESCRIÇÃO DE FUNDO DE DIREITO. 1. O Superior Tribunal de Justiça possui orientação consolidada no sentido de que a prescrição, quando se pretende configurar ou restabelecer uma situação jurídica, deve ser contada a partir do momento em que o direito foi atingido de forma inequívoca, incidindo, conseqüentemente, sobre o próprio fundo de direito. (...)" (AgRg no REsp n.º 1.186.985/MS, Relator o Ministro HERMAN BENJAMIN , DJe de 2/2/2011)
+    B-"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. SUPRESSÃO DE VANTAGEM. LEI ESTADUAL N. 11.091/93. PRESCRIÇÃO DO FUNDO DE DIREITO. OCORRÊNCIA. INAPLICABILIDADE DA SÚMULA 85/STJ. (...)" (AgRg no AgRg no Ag n.º 1.310.321/MG, Relator o Ministro MAURO CAMPBELL MARQUES , DJe de 14/12/2010)
+    Ante o exposto, nego provimento ao agravo regimental.
+    É como voto”.
+    5. A controvérsia relativa ao reconhecimento da prescrição foi analisada com base na legislação infraconstitucional (Decreto n. 20.910/1932). Concluir de forma diversa demandaria o reexame desse decreto, procedimento que não pode ser validamente adotado em recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. PRESCRIÇÃO. DECRETO N. 20.910/1932. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(ARE 651.130-AgR/DF, de minha relatoria, Primeira Turma, DJ 7.10.2011).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. QUESTÃO AFETA À OCORRÊNCIA DA PRESCRIÇÃO. CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO FEDERAL. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido” (RE 612.799-AgR/RS, Rel. Min. Ayres Britto, Segunda Turma, DJ 26.11.2010).
+    6. A alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República dependeria do exame daquela legislação infraconstitucional (Decreto n. 20.910/1932), o que não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “AGRAVO REGIMENTAL. INEXISTÊNCIA DE OFENSA AOS ARTIGOS 5º, XXXV, LIV E LV, e 93, IX, DA CONSTITUIÇÃO. O Tribunal de origem prestou jurisdição por acórdão devidamente fundamentado, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa. Ainda que assim não fosse, esta Corte firmou entendimento no sentido de que, em regra, as alegações de afronta aos mencionados princípios configuram, quando muito, ofensa indireta ou reflexa à Constituição da República. Agravo regimental a que se nega provimento” (AI 602.224-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 7.12.2010).
+    Nada há a prover quanto às alegações do Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
