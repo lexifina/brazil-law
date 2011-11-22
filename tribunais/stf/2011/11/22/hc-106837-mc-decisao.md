@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão, que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “'HABEAS CORPUS' PREVENTIVO. OBJETIVO DE ASSEGURAR A POSSIBILIDADE DE SUSTENTAÇÃO ORAL. AGRAVO EM EXECUÇÃO. DIREITO DE OPOSIÇÃO DE EMBARGOS INFRINGENTES. EM CASO DE DECISÃO DESFAVORÁVEL À DEFESA E PROFERIDA POR MAIORIA. AGRAVO JÁ JULGADO. ACÓRDÃO COM TRÂNSITO EM JULGADO.
+    1. Pleiteiam os impetrantes seja assegurado o direito de sustentar oralmente quando do julgamento do Agravo em Execução nº 990.09.248521-0 interposto na origem, bem como deferida a faculdade de poder opor embargos infringentes, caso a decisão proferida pelo colegiado seja desfavorável e majoritária.
+    2. Entretanto, em consulta à página eletrônica oficial do Tribunal de Justiça do Estado de São Paulo, verifica-se que o referido agravo já foi julgado, tendo o acórdão transitado em julgado para a defesa em 25.2.10. Assim, o presente 'writ' se encontra prejudicado, já que esvaziado seu objeto.
+    3. Ordem prejudicada.”
+(HC 148.711/SP, Rel. Min. OG FERNANDES - grifei)
+           Busca-se, nesta sede processual, seja concedida a ordem para determinar ao E. Superior Tribunal de Justiça que “examine a matéria, anulando-se o acórdão que julgou prejudicado o pedido”, alegando-se, em síntese, que “a 6ª Turma do STJ não apreciou se o julgamento do agravo seria nulo, ou não, por falta de oportunidade de sustentação oral, e se teria havido, ou não, cerceamento de defesa” (grifei).
+           Sendo esse o contexto, passo a apreciar o pedido de medida liminar. E, ao fazê-lo, entendo que o exame do contexto delineado nos presentes autos parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+           É que, em consulta aos registros processuais que o E. Tribunal de Justiça do Estado de São Paulo mantém em sua página oficial na “Internet”, constatei que a petição do impetrante manifestando interesse em proceder à sustentação oral no julgamento do Agravo em Execução Penal nº 0248521-80.2009.8.26.0000, somente veio a ser protocolada no dia 15/03/2010, vale dizer, após a realização do julgamento em questão, que ocorreu em 17/12/2009, tendo o acórdão transitado em julgado para a defesa em 25/02/2010.
+           Assinalo, ainda, por necessário, que inexiste, nos autos, cópia de qualquer outra manifestação do impetrante em realizar a sustentação oral de suas razões, motivo pelo qual, aparentemente, não se registra, na espécie, qualquer situação configuradora de nulidade que pudesse infirmar a validade do julgamento que teria ocorrido de modo plenamente regular e legítimo.
+           Sendo assim, sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+           Publique-se.
+           Brasília, 22 de novembro de 2011.
+Ministro CELSO DE MELLO
+Relator
