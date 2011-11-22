@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário interposto, com base nas alíneas “a” e “b” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 5ª Região. Acórdão assim ementado (fls. 190):
+    “Constitucional e Administrativo. Servidores ativos, inativos e pensionistas. Contribuição social instituída pela Lei n. 9.783/99. Progressividade que não se aplica às Contribuições sociais, conforme se constata na disposição contida no art. 153, § 2º, I, da Constituição Federal. Contribuição que apresenta natureza de tributo confiscatório, em afronta ao previsto no art. 150, IV, da Constituição Federal. Suspensão pelo STF da eficácia de dispositivos que prevêem a incidência do tributo sobre os proventos dos inativos e pensionistas. Remessa oficial improvida.”
+    2. Pois bem, a parte recorrente aponta violação ao caput e inciso XXXVI do art. 5º; ao inciso VI do art. 7º; ao inciso XV do art. 37; ao § 4º do art. 40; ao caput, alínea “b” e incisos II e IV do art. 150; ao inciso I do § 2º do art. 153; ao inciso I do art. 154; ao parágrafo único e inciso IV do art. 194; bem como ao § 4º do art. 195, todos da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra da Subprocuradora-Geral Sandra Cureau, opina pelo parcial conhecimento do recurso e, no mérito, pelo desprovimento do apelo extremo.
+    4. Tenho que o recurso não merece acolhida. É que o Supremo Tribunal Federal assentou a inconstitucionalidade da cobrança de contribuição previdenciária sobre os proventos da inatividade e as pensões de servidores públicos no tocante ao período posterior à EC 20/1998 (não estão em causa as implicações da EC 41/2003). Menciono, a título de exemplo, os seguintes precedentes: REs 358.375-AgR e 364.240-AgR-ED, sob a relatoria do ministro Celso de Mello; 367.094-AgR e 382.607-AgR, sob a relatoria do ministro Sepúlveda Pertence; 369.429-AgR e 381.987-AgR, sob a relatoria do ministro Gilmar Mendes; bem como 358.441-AgR-AgR e 369.097-AgR-AgR, sob minha relatoria.
+    Ante o exposto, e considerando que não estão em causa as implicações da EC 41/2003, frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
