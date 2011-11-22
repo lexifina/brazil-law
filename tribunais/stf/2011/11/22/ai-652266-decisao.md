@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Estado do Pará interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5°, incisos LIV e LV, 25 37, 39, 93, inciso IX, 169, da Constituição Federal e 17 do Ato das Disposições Constitucionais Transitórias.
+    Insurge-se, no apelo extremo, contra acórdão das Câmaras Reunidas do Tribunal de Justiça do Estado do Pará, assim ementado:
+    “ PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. INOCORRÊNCIA DE VIOLAÇÃO À LITERAL. DISPOSIÇÃO DE LEI.
+    1. Os argumentos expendidos pelo autos são apenas discordâncias quanto à aplicação e interpretação das leis estaduais que embasaram o julgado rescindendo, não havendo violação a disposição literal da lei.
+    2. A simples divergência entre a interpretação do autor e o acórdão rescindendo não configura caso de ‘violação à literal disposição de lei’ (fl. 72). bb v
+    Opostos embargos de declaração (fls. 80 a 84), não foram providos (fls. 85 a 89).
+    Decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido dos embargos de declaração em 17/2/06, como expresso na certidão de folha 121, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação merece prosperar, haja vista que o acórdão recorrido não está em sintonia com a jurisprudência desta Corte que firmou entendimento no sentido de que não incumbe a órgão do Poder Judiciário, que não é dotado de poder legiferante, determinar aumento de vencimentos de servidores públicos, calcado na aplicação do princípio da isonomia.
+    Nesse sentido, os seguintes precedentes:
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUMENTO DE VENCIMENTOS. ISONOMIA. SÚMULA 339 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO I - Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia (Súmula 339 do STF). Precedentes. II - Agravo regimental improvido” (AI nº 701.472-AgR/CE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14/8/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ISONOMIA. VENCIMENTOS. SÚMULA 339/STF. 1. A jurisprudência deste Tribunal firmou-se no sentido de que "continua em vigor, em face da atual Constituição, a Súmula 339 --- '[n]ão cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos, sob fundamento de isonomia' ---, porquanto o § 1º do artigo 39 da Carta Magna é preceito dirigido ao legislador, a quem compete concretizar o princípio da isonomia, considerando especificamente os casos de atribuições iguais ou assemelhadas, não cabendo ao Poder Judiciário substituir-se ao legislador". Precedentes. 2. Agravo regimental a que se nega provimento” (RE nº 402.364-AgR/PA, Relator o Ministro Eros Grau, Segunda Turma, DJe de 18-05-2007).
+     E, especificamente sobre a matéria aqui em debate, destaque-se a existência de antigo precedente desta Corte, proferido em caso similar, referente à mesma unidade da Federação, ora recorrente:
+     “ADMINISTRATIVO. ESTADO DO PARÁ. ENGENHEIROS AGRÔNOMOS DA SECRETARIA DE AGRICULTURA. PRETENDIDOS VENCIMENTOS CORRESPONDENTES A OITO VEZES E MEIA O VALOR DO SALÁRIO MÍNIMO, COMO RECONHECIDO A PARTE DA CATEGORIA PELA JUSTIÇA DO TRABALHO. O princípio constitucional da separação dos poderes impede que os Juízes e Tribunais -- que não dispõem de função legislativa -- contemplem servidores públicos com vantagens funcionais não previstas em lei, a título de aplicação do princípio da isonomia. Orientação jurisprudencial do STF consagrada na Súmula nº 339. Recurso conhecido e provido” (RE nº 242.968/PA, Primeira Turna, Relator o Ministro Ilmar Galvão, DJ de 29/10/99).
+    Forte em tais premissas e como a decisão rescindenda, de fato, diverge de pacífica posição deste Supremo Tribunal Federal a respeito do tema, impõe-se o provimento do recurso, para o acolhimento da ação rescisória.
+    Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento ao recurso extraordinário para reformar o acórdão recorrido e julgar procedente a ação rescisória, para os fins propostos pelo ora agravante, denegando a segurança impetrada pelos agravados. Custas pelos vencidos, sem condenação em honorários de advogado, nos termos da Súmula nº 512 desta Corte.
+    Publique-se.
+    Brasília, 22 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
