@@ -1,0 +1,5 @@
+# Lei nº 2.638, de 22 de novembro de 2011, do Estado de Rondônia
+
+AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR ATÉ O MONTANTE DE R$ 2.660.000,00 EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS SECRETARIA DE ESTADO DO PLANEJAMENTO E COORDENAÇÃO GERAL - SEPLAN, DEPARTAMENTO DE ESTRADAS DE RODAGEM E TRANSPORTES DO ESTADO DE RONDÔNIA - DER E SECRETARIA DE ESTADO DOS ESPORTES DA CULTURA E DO LAZER - SECEL.
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/5551>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2011/5551/5551_texto_integral.pdf>
