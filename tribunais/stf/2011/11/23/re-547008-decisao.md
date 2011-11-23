@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Universidade Federal do Rio de Janeiro - UFRJ interpõe recurso extraordinário, com fundamento na alíneas “a” e “b” do permissivo constitucional, contra decisão do relator da 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, assim fundamentada:
+    “Trata-se de recurso de sentença, proferida pelo MM. Juízo do(a) 5 VF SÃO JOAO DE MERITI, que julgou parcialmente procedente o pedido de pagamento das diferenças decorrentes da aplicação do índice de 3,17%, sem o parcelamento previsto no art. 11 da MP2225/01.
+    Verifico tratar-se de hipótese em que o M.M. Juiz singular seguiu a orientação já firmada pelo STJ, e pelas Turmas Recursais dos Juizados Especiais Federais que culminou na elaboração do Enunciado n°23, in verbis:
+    ‘É inconstitucional a imposição de pagamento parcelado do resíduo decorrente da aplicação do índice de 3,17% aos vencimentos dos servidores públicos federais do executivo previsto no art. 11 da MP 2225/2001.’
+    Assim sendo, entendo que deva ser mantida a sentença proferida que condenou o(a) UFRJ-UNIVERSIDADE FEDERAL DO RIO DE JANEIRO a pagar à autora a importância já fixada, descontadas as parcelas já pagas à este título, referente ao resíduo de 3,17%, de uma só vez, por seus próprios fundamentos.
+    Ante o exposto, autorizado pelo art. 557 do CPC, NEGO SEGUIMENTO AO RECURSO, condenando o recorrente ao pagamento de honorários advocatícios no valor de R$ 327,00” (fl. 50).
+    Opostos dois embargos de declaração sucessivamente (fls. 52 a 58 e fls. 67 a 69), ao primeiro deu-se parcial provimento apenas para suprir as omissões argüidas (fls. 62 a 65) e o segundo foi rejeitado (fls. 131 a 133).
+    Alega a recorrente contrariedade ao artigo 5º, caput e inciso XXXVI, da Constituição Federal. Sustenta, também, a inconstitucionalidade do artigo 1º-F da Lei 9.494/97.
+    Sem contra-razões (fl. 146), o recurso extraordinário (fls. 136 a 144) foi admitido (fls.147).
+    Decido.
+    Não merece prosperar a irresignação, haja vista que, nos termos do artigo 102, inciso III, alínea “a”, da Constituição Federal, o recurso extraordinário é cabível apenas de decisão proferida em última ou única instância, o que não é o caso dos autos, uma vez que o recurso inominado interposto da decisão de primeiro grau foi extinto por decisão monocrática do Relator.
+    A Turma Recursal conheceu e proveu os primeiros embargos de declaração, interpostos contra a referida decisão monocrática, para determinar a forma de pagamento dos valores referentes ao índice de 3,17% aos proventos da recorrida, e a aplicação de juros de mora em 1% ao mês (fl. 62). Ressalte-se que os julgamentos dos embargos de declaração, mesmo que realizados pela Turma, apenas complementam a referida decisão monocrática.
+    Assim, este julgado ainda dava margem à interposição de agravo regimental (artigo 557, § 1º, do Código de Processo Civil). Incidência da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO DE ÚLTIMA OU ÚNICA INSTÂNCIA. INEXISTÊNCIA. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. 1. A decisão capaz de viabilizar o recurso extraordinário é aquela proferida em única ou última instância. Incidência da Súmula n. 281 deste Tribunal. 2. Agravo regimental a que se nega provimento” (AI nº 657.528/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 28/9/07).
+    “Agravo regimental no agravo de instrumento. Recurso especial julgado por decisão monocrática. Embargos de declaração julgados por decisão colegiada. Complementação da decisão anterior. Não esgotadas as instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. O julgamento colegiado dos embargos declaratórios não tem, em regra, o efeito de substituir, mas sim de aclarar ou complementar a decisão embargada quando há omissão, contradição ou obscuridade. 3. Agravo regimental desprovido” (AI nº 633.489/DF–AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 21/8/09).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 431.361/RJ, Relator o Ministro Sepúlveda Pertence, DJ de 6/10/04, e RE nº 463.759/PR, Relatora a Ministra Ellen Gracie, DJ de 3/2/06.
+    Ademais, o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 598.365/MG, Relator o Ministro Ayres Britto, decidiu pela ausência da repercussão geral das questões relativas a pressupostos de admissibilidade de recursos da competência de Cortes diversas. A manifestação do relator nesse feito está assim ementada:
+    “PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE CORTES DIVERSAS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL DA PRETENSA QUESTÃO CONSTITUCIONAL.”
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
