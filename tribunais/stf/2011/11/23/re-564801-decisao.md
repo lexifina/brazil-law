@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de dois recursos extraordinários, interpostos com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 190 e verso):
+    “TRIBUTÁRIO. PIS. COFINS. ISENÇÃO. EXCLUSÃO DA BASE DE CÁLCULO AS VERBAS PROVENIENTES DE VENDAS REALIZADAS À ZONA FRANCA DE MANAUS E À AMAZÔNIA OCIDENTAL. DECRETO-LEI 288/67. DECRETO-LEI 356/68. ARTIGO 40 DOS ADCT. POSSIBILIDADE. ADIN 2.348-9/AM. COMPENSAÇÃO. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. TRANSFERÊNCIA DE ENCARGO FINANCEIRO. HONORÁRIOS ADVOCATÍCIOS.
+    1. O art. 40 do ADCT preserva a Zona Franca de Manaus como área de livre comércio, estendendo às exportações destinadas a estabelecimentos situados naquela região os benefícios fiscais presentes nas exportações ao estrangeiro, como forma de dar concreção aos preceitos enfeixados nos artigos 3º, III, 151, in fine, e 170, VII, da CF.
+    2. A equiparação da Amazônia Ocidental à Zona Franca de Manaus quanto aos efeitos dos favores fiscais a esta concedidos não foi mantida na nova ordem constitucional, sendo que o alargamento, por analogia, do art. 40 ADCT, feriria o princípio que veda ao Judiciário legislar de forma positiva.
+    3. O e. STF já se pronunciou sobre a matéria, suprimindo a expressão ‘a empresa estabelecida na Franca de Manaus’ constante no art. 14, § 2º, I, da Medida Provisória 2.037-24/00, agora convertida na MP 2.158-35/01, mantendo a expressão ‘na Amazônia Ocidental’, pelo que soa desinfluente entender pela não sujeição ao PIS e à COFINS das exportações nacionais destinadas a esta região.”
+    2. Pois bem, Tigre S/A – Tubos e Conexões aponta violação ao art. 40 do ADCT/88. Pede a exclusão da cobrança da contribuição ao PIS e da Cofins sobre as receitas de vendas efetuadas à Amazônia Ocidental.
+    3. A União alega ofensa ao art. 40 do ADCT/88 e ao § 6º do art. 150 da Magna Carta de 1988. Pugna pela incidência do PIS e da Cofins para as receitas decorrentes de operações com a Zona Franca de Manaus.
+    4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo não-conhecimento do apelo extremo da empresa contribuinte e pelo parcial conhecimento do recurso da União e, nesta extensão, pelo seu desprovimento.
+    5. Tenho que as insurgências não merecem acolhida. É que o entendimento da instância judicante de origem afina com a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta.
+    6. Com efeito, o Plenário desta Casa de Justiça, ao apreciar a ADI 2.348-MC, da relatoria do ministro Marco Aurélio, suspendeu dispositivos da MP 2.037-24/00, por entender que ofende o art. 40 do ADCT a exclusão da isenção do PIS e da Cofins quanto aos produtos destinados à Zona Franca de Manaus. Na oportunidade, foi ressaltado que o mencionado art. 40 do ADCT refere-se apenas à Zona Franca de Manaus, o que impede a extensão de seus efeitos para a Amazônia Ocidental.
+    7. Outros precedentes: REs 512.632, da relatoria do ministro Ricardo Lewandowski; RE 640.653, da relatoria do ministro Gilmar Mendes; 626.296, da relatoria da ministra Cármen Lúcia.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento aos recursos.
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
