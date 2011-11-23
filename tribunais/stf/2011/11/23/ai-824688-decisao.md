@@ -1,0 +1,33 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. EXECUÇÃO ALICERÇADA EM CERTIDÃO DE DECISÃO DO TRIBUNAL DE CONTAS COM IMPUTAÇÃO DE DÉBITO. EFICÁCIA DE TÍTULO EXECUTIVO (ART. 71, PARÁGRAFO 3º DA CF) AGRAVO RETIDO. CASO DE DESPROVIMENTO.
+    A certidão de decisão do Tribunal de contas de que resulte imputação de débito tem eficácia de título executivo (CF – art. 71, parágrafo 3º)
+    O artigo 71, inciso II da Constituição Federal comete aos Tribunais de Contas o julgamento da regularidade das contas dos administradores, o que implica investi-lo no exercício de função judicante; e quando decide, o faz conclusiva e definitivamente sem dar lugar a nova apreciação do Judiciário.
+    A definitividade do pronunciamento do Tribunal de Contas repercute na execução para cobrança do valor da irregularidade ou da ilegalidade da despesa, notadamente por não ensejar discussão sobre a liquidez da dívida, ainda que arguida em embargos, seja porque implicaria na reabertura do processo de tomada e julgamento das contas o que é impensável, pena de torná-lo inútil formalismo, seja porque para o mister carecem de jurisdição os órgãos do Poder Judiciário.
+    Dentre as atribuições dos Tribunais de Contas está a de aplicar sanções previstas em lei aos responsáveis por ilegalidade da despesa ou irregularidade das constas (CF – art. 71, VIII). Cuida-se de competência exclusiva que se insere no poder de fiscalização dos atos de gestão da coisa pública com vistas à observância dos princípios e das normas de administração.
+    Agravo retido e apelo desprovidos. Unânime”. (fl. 199)
+    No apelo extremo alega-se violação aos artigos 71; 22; e 5º, incisos LV e XXXV, da Constituição Federal.
+    O recorrente sustenta que o Tribunal de Contas Estadual não seria legitimado para emitir certidões de suas decisões com caráter de título executivo, pois o único ente com este mister constitucional seria o Tribunal de Contas da União.
+    Argumenta ainda que:
+    “(...) a decisão do TJRGS vai de encontro dos princípios elementares do Estado Democrático de Direito ao dizer que não tem jurisdição para revisar a decisão do Tribunal de Contas do Estado (...)”. (fl. 236)
+    O tema de fundo do recurso extraordinário diz respeito à possibilidade de Tribunal de Contas do estado emitir certidões com eficácia de título executivo extrajudicial, tal como permitido ao Tribunal de Contas da União pela Constituição Federal.
+    O recurso extraordinário foi inadmitido pelo Tribunal de origem. Segundo os diversos fundamentos aduzidos na decisão agravada, o apelo extremo não pode ser admitido, pois não se vislumbrou violação aos dispositivos constitucionais apontados, mormente porque:
+     “(...) não prosperam as alegações recursais, na medida em que a questão foi solvida com base no artigo 71, § 3º da CF, o qual confere eficácia de título executivo às decisões do Tribunal de Contas, como já referido na análise do recurso especial (RE nº 223037/SE) (...)”. (fl. 296-verso).
+    Com efeito, verifico que esta Corte já apreciou a matéria no RE 223.037, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJe 2.08.2002.
+    Nesse julgamento ficou consignado que a Constituição Federal, ao conferir eficácia de título executivo às decisões do TCU de que resultem imputação de débito ou multa (art. 71, § 3º, da CF), não lhe outorgou legitimidade para executá-las.
+    Ainda nesse julgamento ficou consignado expressamente que os Tribunais de Contas Estaduais devem seguir a mesma disciplina constitucional aplicável ao Tribunal de Contas da União, em razão do princípio da simetria. Confira-se o seguinte trecho do brilhante voto do Ministro Maurício Corrêa no referido RE 223.037, DJe 2.8.2002:
+    “(...) o princípio da simetria há de ser observado na estruturação das Cortes de Contas estaduais, conforme jurisprudência pacífica do Tribunal, inclusive quanto às atribuições do respectivo Ministério Público, “órgão de extração constitucional(...) que encontra-se consolidado na intimidade estrutural dessa Corte de Contas (...)”.
+    Nesse sentido o ADI-MC 1964-ES, Rel. Min. Sepúlveda Pertence, DJ 07/05/99, cuja ementa dispõe:
+    “Tribunal de Contas dos Estados: competência: observância compulsória do modelo federal: inconstitucionalidade de subtração ao Tribunal de Contas da competência do julgamento das contas das Mesas das Câmaras Municipais - compreendidas na previsão do art. 71, II, da Constituição Federal, para submetê-las ao regime do art. 71, c/c art. 49, IX, que é exclusivo da prestação de contas do Chefe do Poder Executivo local (CF, art. 31, § 2º): precedente (ADIn 849, 11.2.99, Pertence): suspensão cautelar parcial dos arts. 29, § 2º e 71, I e II, da Constituição do Estado do Espírito Santo.”
+    De forma ainda mais explícita, no sentido da observância do modelo federal pelas cortes de contas estaduais, confira-se:
+    “Os Estados-membros estão sujeitos, em matéria de organização, composição e atribuições fiscalizadoras dos seus Tribunais de Contas, ao modelo jurídico estabelecido pela Constituição da República. Essa subordinação normativa ao padrão federal deriva de cláusula explícita consubstanciada no art. 75, caput, da Carta Política, que assim dispõe, verbis:
+    “As normas estabelecidas nesta seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados (...).”
+    O Supremo Tribunal Federal, tendo presente essa realidade jurídico-normativa, já proclamou, na análise das funções institucionais cometidas a esse importante órgão estatal de controle externo, que
+    “(...) O regramento dos Tribunais de Contas estaduais, a partir da Constituição de 1988 - inobstante a existência de domínio residual para sua autônoma formulação - é matéria cujo relevo decorre da nova fisionomia assumida pela Federação brasileira e, também, do necessário confronto dessa mesma realidade jurídico-institucional com a jurisprudência do Supremo Tribunal Federal, que, construída ao longo do regime constitucional precedente, proclamava a inteira submissão dos Estados-membros, no delineamento do seu sistema de controle externo, ao modelo jurídico plasmado na Carta da República.
+    (ADI 849-MC, Rel. Min. Celso de Mello, DJ 08.04.94)
+    Desse modo, a decisão agravada está em perfeita consonância com a jurisprudência pacífica desta Corte.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
