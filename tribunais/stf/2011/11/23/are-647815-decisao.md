@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça.
+    2. Da leitura dos autos, depreendo que a instância judicante de origem manteve decisão que indeferira reclamação ajuizada com fundamento na alínea “f” do inciso I do art. 105 da Constituição Federal. Ao fazê-lo, assentou que não foram preenchidos os requisitos para seu cabimento e que a reclamação “não se presta como sucedâneo recursal” (fls. 594).
+    3. Pois bem, a parte recorrente aponta ofensa aos incisos XXXIV, LIV e LV do art. 5º da Magna Carta de 1988.
+    4. Feito o breve relatório, passo a decidir. De saída, pontuo que não é possível aplicar ao presente caso a decisão proferida no RE 598.365, da minha relatoria, em que o Supremo Tribunal Federal assentou a ausência de repercussão geral da questão alusiva ao cabimento de recurso de competência de outros Tribunais. Isso porque os presentes autos não cuidam de recurso, mas de instituto que possui natureza jurídica distinta, a reclamação. Leia-se, a propósito, a ementa da ADI 2.212-1, da relatoria da ministra Ellen Gracie:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 108, INCISO VII, ALÍNEA I DA CONSTITUIÇÃO DO ESTADO DO CEARÁ E ART. 21, INCISO VI, LETRA J DO REGIMENTO DO TRIBUNAL DE JUSTIÇA LOCAL. PREVISÃO, NO ÂMBITO ESTADUAL, DO INSTITUTO DA RECLAMAÇÃO. INSTITUTO DE NATUREZA PROCESSUAL CONSTITUCIONAL, SITUADO NO ÂMBITO DO DIREITO DE PETIÇÃO PREVISTO NO ARTIGO 5º, INCISO XXXIV, ALÍNEA A DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA DE OFENSA AO ART. 22, INCISO I DA CARTA.
+    1. A natureza jurídica da reclamação não é a de um recurso, de uma ação e nem de um incidente processual. Situa-se ela no âmbito do direito constitucional de petição previsto no artigo 5º, inciso XXXIV da Constituição Federal. Em consequência, a sua adoção pelo Estado-membro, pela via legislativa local, não implica em invasão da competência privativa da União para legislar sobre direito processual (art. 22, I da CF).
+    [...]
+    4. Ação direta de inconstitucionalidade improcedente.”
+     (Sem destaques no original.)
+    5. Prossigo, então, para anotar que a insurgência não merece acolhida. Isso porque o acórdão impugnado examinou questões meramente processuais. Logo, afronta à Magna Carta apenas ocorreria de modo reflexo ou indireto, o que não enseja a abertura da via recursal extraordinária. Nesse mesmo sentido, veja-se o RE 445.384-AgR, da relatoria da ministra Ellen Gracie:
+    “DIREITO PROCESSUAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECLAMAÇÃO. PRESSUPOSTOS DE ADMISSIBILIDADE. ART. 105, I, f, DA CONSTITUIÇÃO FEDERAL. NATUREZA PROCESSUAL. OFENSA INDIRETA. 1. É inadmissível recurso extraordinário que, a pretexto de ofensa a princípios constitucionais, objetive a análise de legislação infraconstitucional. 2. O Superior Tribunal de Justiça limitou-se a tratar de matéria processual relativa ao cabimento da reclamação, nos termos do art. 105, I, f (parte final), da Constituição Federal, cuja discussão não enseja cabimento de recurso extraordinário. 3. A alegada violação aos postulados da prestação jurisdicional e do devido processo legal configura, quando muito, ofensa meramente reflexa. 4. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 5. Agravo regimental improvido.”
+    6. Confira-se, ainda, o AI 840.947-AgR, da minha relatoria.
+    Isso posto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
