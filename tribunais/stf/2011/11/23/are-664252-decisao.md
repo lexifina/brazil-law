@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSUMIDOR. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO PROBATÓRIO, DE CLÁUSULAS CONTRATUAIS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Conselho Recursal dos Juizados Cíveis e Criminais do Tribunal de Justiça do Rio de Janeiro que manteve incólume sentença que julgou procedente a ação indenizatória da Recorrida ao fundamento de que seria “incontroversa a irregularidade da contratação, que se escora até mesmo pelo contrato que veio com a resposta” (fl. 77).
+    2. A Recorrente afirma que o Tribunal a quo teria contrariado o arts. 5º, inc. LV, da Constituição da República.
+    Argumenta que “ficou demonstrado que a Recorrente não é parte legítima para figurar no pólo passivo da presente demanda, comprovando a ciência da Recorrida da existência de contrato com pessoa jurídica diversa da Recorrente” (fl. 166).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de inexistir ofensa constitucional direta e incidência da Súmula 279 do Supremo Tribunal Federal (fls. 181-182).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de origem decidiu a controvérsia com base na legislação processual ordinária, no conjunto probatório constante dos autos e no contrato firmado entre as partes. Eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+    Ademais, concluir de forma diversa demandaria a análise de fatos e provas, procedimento incabível de ser adotado validamente no recurso extraordinário. Incidem na espécie as Súmulas 279 e 454 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE PLANO DE SAÚDE. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DAS CLÁUSULAS CONTRATUAIS E DAS PROVAS (SÚMULAS N. 279 E 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI 822.898-AgR/RJ, de minha relatoria, Primeira Turma, DJ 21.2.2011).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA E CONTRADITÓRIO. LEGISLAÇÃO INFRACONSTITUCIONAL. CF/88, ART. 5º, LV. SÚMULA STF 279. OFENSA CONSTITUCIONAL INDIRETA. (...)” (AI 656.624-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 16.4.2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. INDENIZAÇÃO. DANO MORAL E DANO MATERIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido – ocorrência, na espécie, de dano moral e material indenizável -, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como, a análise de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF. Precedentes. II – A apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor), do reexame dos fatos e provas constantes nos autos e do contrato celebrado entre as partes. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. III – Agravo regimental improvido”(AI 696.403-AgR/SP, Ricardo Lewandowski, Primeira Turma, DJ 30.6.2011).
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
