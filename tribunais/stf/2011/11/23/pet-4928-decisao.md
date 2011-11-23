@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    É do seguinte teor a manifestação do Procurador-Geral da República, Roberto Monteiro Gurgel Santos (fls. 09/10):
+    “Trata-se de pedido formulado por Rosaldino Francisco da Silva, Francisco das Chagas Souza, Marcos Antõnio Sabino da Silva e Maria das Graças Almeida Brito da Silva para que seja juntado à Petição Avulsa nº 71.007 o termo de declarações da última requerente. Na citada petição avulsa, foi solicitada pelos peticionantes a instauração de inquérito em razão da suposta participação do Deputado Federal Protógenes Pinheiro de Queiroz na prática dos crimes previstos nos arts. 147, 157, § 2°, incisos I e II, e 163, parágrafo único, incisos I e IV, todos do Código Penal, de que teriam sido autores integrantes de movimentos sociais durante invasão de fazendas da empresa Agropecuária Santa Bárbara Xinguara S/A ocorrida em 23 de março de 2009.
+    2. Em razão dos mesmos fatos já havia sido instaurado o Inquérito nº 3126, de relatoria do Ministro Ayres Britto, já arquivado em razão da consumação da prescrição da pretensão punitiva estatal.
+    3. Conforme manifestou-se o Ministério Público Federal nos autos da Petição Avulsa nº 71.007,
+    7. Muito embora as palavras proferidas pelo Parlamentar possam ser tidas como incitação à prática de crimes, não há como atrbiuir-lhe coautoria nos crimes de roubo, dano qualificado, ameaça e constrangimento ilegal praticados durante o processo de invasão da Fazenda Santa Bárbara, uma vez que a frase, por ter sido dita de forma genérica e sem destinatários específicos, não é suficiente para caracterizar instigação apta à configuração de auxílio moral aos autores dos supostos delitos.
+    8. Em verdade, não só pela evidente ausência de dolo ou culpa quanto à eventual prática por terceiros dos crimes previstos nos arts. 147, 157, § 2°, incisos I e II, e 163, parágrafo único, incisos I e IV, todos do Código Penal, como pela nítida inexistência de potencialidade lesiva na conduta do parlamentar, atribuir-lhe a condição de partícipe de eventuais infrações penais, implicaria o reconhecimento de sua responsabilidade objetiva, o que não é permitido pelo sistema penal brasileiro (cópia anexa)
+    4. Com base nos argumentos acima transcritos, solicitou-se o arquivamento da Petição Avulsa nº 71.007 em razão da atipicidade da conduta atribuída ao Deputado Federal Protógenes Pinheiro de Queiroz.
+    5. Ante o exposto, o Procurador-Geral da República requer, igualmente, o arquivamento do presente feito.”
+    2. Presente esta moldura, tenho que o parecer é de ser acolhido. É que, nos casos de crime ensejador de ação penal pública, quando o Chefe do Ministério Público Federal se pronuncia pelo arquivamento do inquérito, o que se tem é um juízo técnico acerca de prática delitiva. Juízo manifestado por quem, de modo constitucional (inciso I do artigo 129 da CF/88), detém a privatividade da propositura da ação penal pública. Por esta razão, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que tal pronunciamento formal seja acolhido sem possibilidade de questionamento.
+    Por tudo quanto posto, acolho o parecer ministerial público para determinar o arquivamento do presente requerimento.
+    Intime-se.
+    Publique-se.
+    Brasília, 23 de novembro de 2011.
+Ministro Ayres Britto
+Relator
