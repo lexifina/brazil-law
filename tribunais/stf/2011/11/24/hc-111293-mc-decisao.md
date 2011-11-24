@@ -1,0 +1,22 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RAIMUNDO NONATO DO NASCIMENTO, contra decisão monocrática proferida pelo relator do HC nº 224.756/CE, min. Vasco Della Giustina, do Superior Tribunal de Justiça.
+    Conta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, no regime inicial fechado, pela prática do crime previsto no art. 214 do Código Penal.
+    Inconformada, a defesa interpôs apelação ao Tribunal de Justiça do Estado do Ceará, que negou provimento ao recurso, e impetrou habeas corpus ao Superior Tribunal de Justiça, o qual está pendente de julgamento de mérito.
+    Sobreveio, então, o presente habeas corpus, no qual se requer a fixação do regime semiaberto para o início da pena imposta ao ora paciente.
+    Para tanto, alega que, declarada a inconstitucionalidade da antiga redação do art. 2º, § 1º, da Lei nº 8.072/90, o regime inicial de cumprimento de pena aplicável aos crimes hediondos cometidos antes da edição da Lei nº 11.464/07 deve obedecer à regra geral prevista no art. 33 do Código Penal.
+    É o relatório.
+    Decido.
+    A decisão atacada é de cunho monocrático e, como regra, diante do que dispõe a Súmula 691 desta Corte, seria inviável o conhecimento do writ.
+    Contudo, o caso apresenta peculiaridades que autorizam a superação do óbice da Súmula 691 desta Corte e a aplicação do art. 192 do RISTF.
+    Consta dos autos que o fato típico imputado ao ora paciente ocorreu em 25 de agosto de 2003, antes, portanto, da entrada em vigor da Lei nº 11.464, de 28 de março de 2007.
+    Nesse ponto, é da jurisprudência desta Corte que a Lei nº 11.464/2007, no tocante ao regime inicial de cumprimento da pena, somente é aplicável aos fatos ocorridos após a sua vigência, haja vista a garantia da irretroatividade da lei penal mais gravosa, merecendo destaque o seguinte julgado:
+    “EXECUÇÃO. Criminal. Pena. Tráfico de drogas. Regime inicial fechado. Incidência do art. 2, § 1º, da Lei 8.072/90, com a redação determinada pela Lei nº 11.464/07. Fato ocorrido antes da vigência da lei. Retroatividade de lei penal mais gravosa. Inadmissibilidade. (...) Incidência do art. 33, § 2º, 'b', do Código Penal. HC concedido. Aplicação da súmula 719. (...)
+    A garantia da irretroatividade da lei penal mais gravosa impõe a aplicação, aos fatos praticados antes da edição da Lei nº 11.464/07, da regra geral do art. 33, § 2, 'b', do Código Penal, para o estabelecimento do regime inicial de cumprimento de pena.
+    (...)
+    Disso decorre ser inaplicável ao caso o disposto no art. 2º, § 1º, da Lei nº 8.072/1990, na redação determinada pela Lei nº 11.464/2007. Tal dispositivo, que impõe aos condenados por crimes hediondos ou equiparados o cumprimento de pena em regime inicialmente fechado, representa lei penal mais gravosa em relação à regra geral do Código Penal, vigente a partir da declaração de inconstitucionalidade, pelo Plenário da Corte, do dispositivo que impunha a tais casos o cumprimento de pena em regime integralmente fechado (HC nº 82.959, Rel. Min. MARCO AURÉLIO, DJ 01/09/2006).
+    A garantia de irretroatividade de lei penal mais gravosa, inscrita no art. 5º, XL, da Constituição Federal e desde há muito recordada nesta Corte (RE nº 452.991, Rel. Min. MARCO AURÉLIO, DJ 21/08/2009; HC nº 97.602, Rel. Min. CARLOS BRITTO, DJ 24/04/2009; RHC nº 93.469 Rel. Min. CÁRMEN LÚCIA, DJ 03/04/2009; HC nº 93.669, Rel. Min. RICARDO LEWANDOWSKI, DJ 16/05/2008), impõe a aplicação, aos fatos praticados antes da edição da Lei nº 11.464/07, do disposto no art. 33, § 2º, ‘b’, do Código Penal. Assim, o condenado não reincidente, cuja pena seja superior a 04 (quatro) anos e não exceda a 08 (oito), poderá, desde o princípio, cumprir a pena regime semi-aberto” (HC 98.365/SP, rel. min. Cezar Peluso, DJe nº 27, publicado em 12.02.2010).
+    Diante do exposto, considerando que o caso em comento é daqueles que autorizam a superação do entendimento firmado na Súmula n° 691 do STF, concedo parcialmente a ordem, de ofício, com base no caput do art. 192 do RISTF, para determinar ao juízo do feito de origem ou, se já tiver ocorrido o trânsito em julgado da sentença condenatória, ao juízo da execução da pena, que proceda a nova fixação do regime inicial para o cumprimento da pena imposta ao paciente, motivadamente, nos termos do art. 33, § 3º, do Código Penal e da Súmula nº 719 desta Corte.
+    Publique-se.
+    Brasília, 24 de novembro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
