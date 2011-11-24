@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III no art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 94):
+    “EXECUÇÃO FISCAL. A embargante não tem legitimidade para pleitear a diminuição da alíquota declarada inconstitucional se não provar que deixou de repassar o tributo para o consumidor final. A correção do tributo pela UFESP é legal e constitucional. Tanto o débito quanto a multa devem ser corrigidos e acrescidos de juros previstos em lei. A multa não exige processo administrativo para ser cobrada, todavia mister se faz a sua redução para 20%. Não se aplica o revogado DL 1.736/79 ao ICMS. Honorários fixados no mínimo legal não podem ser diminuídos. Recurso da embargante parcialmente provido. Reexame necessário e apelação da Fazenda, providos para restabelecer a alíquota.”
+    2. Pois bem, a parte recorrente alega ofensa ao inciso IV do art. 167, todos da Magna Carta de 1988. Pede para ser “declarada a nulidade da Certidão de Dívida Ativa, a inconstitucionalidade da majoração da alíquota, a inexigibilidade de correção monetária e juros de mora antes do vencimento e a impossibilidade da cobrança da multa de 20%, por ausência de procedimento administrativo regular” (fls. 108).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo desprovimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. De saída, anoto que o Supremo Tribunal Federal, no julgamento do RE 183.906, firmou orientação no sentido da inconstitucionalidade da Lei 6.556/1989, que majorou o percentual do ICMS no Estado de São Paulo, de 17% para 18%, destinando a diferença à Caixa Econômica estadual, para financiamento de programas habitacionais de interesse popular.
+    5. No caso, conforme se depreende do aresto impugnado, a recorrente, contribuinte de direito, não logrou comprovar que o tributo pago indevidamente não foi repassado ao contribuinte de fato, nos termos da Súmula 546/STF. Portanto, entendimento diverso do adotado pela instância judicante de origem exigiria o reexame do acervo fático-probatório dos autos, providência vedada neste momento processual (Súmula 279/STF).
+    6. À derradeira, pontuo que a parte recorrente não apontou os dispositivos constitucionais tidos por violados, no tocante às demais questões suscitadas no apelo sob exame. Pelo que é de incidir a Súmula 284/STF.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
