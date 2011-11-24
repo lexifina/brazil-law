@@ -1,0 +1,50 @@
+DECISÃO: Trata-se de “recurso ordinário constitucional”, com pedido de medida liminar, interposto contra decisão proferida pela colenda Primeira Turma do Supremo Tribunal Federal, que indeferiu pedido de “habeas corpus” impetrado em favor do ora paciente, nos autos do HC 103.716/SP, Rel. p/ o acórdão Min. LUIZ FUX.
+           Em consulta aos registros processuais que esta Suprema Corte mantém em sua página na “Internet”, constatei que a decisão em referência acha-se consubstanciada em acórdão assim ementado:
+    “PROCESSUAL PENAL E CONSTITUCIONAL. 'HABEAS CORPUS'. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA PELO 'MODUS OPERANDI'. PACIENTE MEMBRO DE ORGANIZAÇÃO CRIMINOSA. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. ORDEM INDEFERIDA.
+    1. A prisão preventiva se justifica quando demonstrada sua real necessidade mediante a satisfação dos pressupostos a que se refere o artigo 312 do CPP.
+    2. A periculosidade do agente concretamente demonstrada, acrescida da possibilidade de reiteração criminosa e a participação em organização criminosa são motivos idôneos para a manutenção da custódia cautelar, a fim de garantir a ordem pública (HC n. 104.699/SP, 1ª Turma, Relatora a Ministra Cármen Lúcia, DJ de 23.11.10 e HC n. 103.107/MT, 1ª Turma, Relator o Ministro Dias Toffoli, DJ de 29.11.10).
+    3. 'In casu', a prisão preventiva foi satisfatoriamente fundamentada na garantia da ordem pública, porquanto o paciente é 'portador de vasta e perigosa antecedência infracional, ocupante de elevado status na hierarquia da facção criminosa que se intitula Primeiro Comando da Capital (PCC), da qual é ocupante malgrado custodiado em unidade prisional de regime disciplinar diferenciado'. Ademais, foi constatado que o paciente, mesmo preso, vinha negociando o tráfico de drogas por meio de telefone celular.
+    4. Atos que implicaram a interceptação telefônica não podem ser examinados no presente 'writ', sob pena de supressão de instância, uma vez que a matéria não foi conhecida pelo STJ. Precedentes: HC 100595/SP, Relatora Min. ELLEN GRACIE, Segunda Turma, julgado em 22/2/2011, DJ de 9/3/2011; HC 100616/SP, Relator Min. JOAQUIM BARBOSA, Segunda Turma, Julgamento em 08/02/2011, DJ de 14/3/2011; HC 103835/SP Relator: Min. RICARDO LEWANDOWSKI, Primeira Turma, Julgamento em 14/12/2010, DJ de 8/2/2011; HC 98616/SP, Relator: Min. DIAS TOFFOLI, Órgão Julgador: Primeira Turma, Julgamento em 14/12/2010.
+    5. Ordem denegada.”
+(HC 103.716/SP, Rel. p/ o acórdão Min. LUIZ FUX - grifei)
+           Sendo esse o contexto, passo a examinar a questão pertinente à admissibilidade, na espécie, do presente “recurso ordinário constitucional”.
+           Tenho para mim que se revela processualmente inviável o presente recurso, porque inexistente, em nosso ordenamento positivo, previsão legal de utilização de “recurso ordinário” contra julgamentos denegatórios de “habeas corpus” emanados do Supremo Tribunal Federal.
+           Esse comportamento processual da parte ora recorrente evidencia a ocorrência, no caso, de erro grosseiro, apto a inviabilizar o próprio conhecimento do recurso e a obstar a invocação do postulado da fungibilidade recursal.
+           A ocorrência, na espécie, de erro grosseiro evidente torna inaplicável o princípio da fungibilidade recursal, consoante iterativa  jurisprudência firmada por esta Suprema Corte (RTJ 132/1374, Rel. Min. CELSO DE MELLO - Pet 2.223-QO/MA, Rel. Min. ILMAR GALVÃO - Pet 2.285/SP, Rel. Min. CELSO DE MELLO - Pet 3.324/DF, Rel. Min. NELSON JOBIM - Pet 3.824/SP, Rel. Min. MARCO AURÉLIO - RE 96.393/PI, Rel. Min. FRANCISCO REZEK).
+           A jurisprudência do Supremo Tribunal Federal, bem por isso, tem negado aplicabilidade ao postulado da fungibilidade recursal, sempre que a errônea interposição de um recurso por outro - tal como ocorre no caso - revelar desconhecimento inescusável, por parte do recorrente, quanto à existência de norma legal expressa, indicativa da espécie recursal cabível e adequada (RTJ 105/792 - RTJ 105/1275 - RTJ 120/458 - RTJ 132/194 - RTJ 142/472):
+    “Não se deve aplicar o princípio da fungibilidade recursal (artigo 579 e parágrafo do CPP), quando evidenciado erro grosseiro na substituição de um recurso por outro.
+    'Habeas corpus' indeferido.”
+(HC 72.039/ES, Rel. Min. FRANCISCO REZEK - grifei)
+           Cabe fazer, neste ponto, uma observação final: o “recurso de 'habeas corpus'”, a que se refere o art. 310 do RISTF, nada mais é do que um recurso ordinário, previsto na Constituição, interponível, para o Supremo Tribunal Federal, de decisões denegatórias de “habeas corpus” emanadas dos Tribunais Superiores da União (CF, art. 102, II, “a”).
+           Inadequada, pois, a via recursal eleita, que não guarda qualquer pertinência nem compatibilidade com o princípio da tipicidade ou da legalidade dos recursos.
+           Nem se alegue que, no caso, tratar-se-ia de ação de “habeas corpus” (e não de “recurso ordinário”), eis que, mesmo se assim o fosse, não haveria como dela conhecer. É que não se revela admissível o remédio constitucional do “habeas corpus” contra decisões emanadas de qualquer das Turmas do Supremo Tribunal Federal.
+           Como se sabe, a jurisprudência desta Suprema Corte firmou-se no sentido da inadmissibilidade de “habeas corpus”, quando impetrado contra decisão de qualquer das Turmas deste Tribunal (RTJ 141/517, Rel. Min. CELSO DE MELLO - RTJ 160/530, Rel. Min. CELSO DE MELLO, v.g.), “pois a Turma é o próprio Tribunal” (RTJ 88/477 - HC 67.768/SP, Rel. Min. MOREIRA ALVES - HC 80.375-AgR/RS, Rel. Min. MAURÍCIO CORRÊA - HC 80.725/SP, Rel. Min. CARLOS VELLOSO - HC 80.869-AgR/SP, Rel. Min. NÉRI DA SILVEIRA - HC 82.289/MG, Rel. Min. CELSO DE MELLO, v.g.).
+           Essa orientação - inadmissibilidade do “writ” constitucional, cuidando-se de julgamentos colegiados - tem sido invariavelmente acolhida pelo Supremo Tribunal Federal, cujo reiterado magistério jurisprudencial repele o cabimento do “habeas corpus” quando venha ele a ser impetrado contra decisões proferidas, em sede de outro processo de “habeas corpus”, por qualquer das suas Turmas (RTJ 62/47 - RTJ 81/54 - RTJ 92/625 - RTJ 99/1064 - RTJ  105/974 - RTJ 141/226 - RTJ 141/517 - RTJ 146/597):
+    “'Habeas corpus'. Descabimento contra decisão de uma das Turmas do próprio Supremo Tribunal Federal. Precedentes. Pedido não conhecido.”
+(RTJ 95/1053, Rel. Min. DJACI FALCÃO - grifei)
+    “'Habeas corpus'. Impetração contra decisão do Supremo Tribunal em recurso extraordinário criminal. Inviabilidade.
+    Coação ilegal atribuída à Turma do Supremo Tribunal Federal, por decisão em recurso extraordinário criminal. A Turma, quando julga os feitos de sua competência, representa o Supremo Tribunal Federal. Inviabilidade da impetração.”
+(RTJ 126/175, Rel. Min. FRANCISCO REZEK - grifei)
+    “'Habeas corpus' contra acórdãos de Turma do Supremo Tribunal Federal, proferidos em outro 'habeas corpus' e em embargos declaratórios.
+    Descabimento, segundo firme jurisprudência da Corte. Súmula 606.
+    'Habeas corpus' não conhecido.”
+(RTJ 137/224, Rel. Min. SYDNEY SANCHES - grifei)
+    “I. 'Habeas corpus': não cabimento.
+    Assente a jurisprudência do Supremo Tribunal em que não cabe 'habeas corpus' contra decisão de uma de suas Turmas: precedentes. (...).”
+(HC 87.017-AgR/RS, Rel. Min. SEPÚLVEDA PERTENCE, Pleno - grifei)
+           Cumpre reconhecer, desse modo, que a análise da jurisprudência constitucional do Supremo Tribunal Federal (HC  67.768/SP, Rel. Min. MOREIRA ALVES - HC 80.375-AgR/RS, Rel. Min. MAURÍCIO CORRÊA - HC 80.725/SP, Rel. Min. CARLOS VELLOSO - HC  80.869-AgR/SP, Rel. Min. NÉRI DA SILVEIRA, Pleno) permite concluir que decisões proferidas em sede de “habeas corpus”, por qualquer das Turmas do Supremo Tribunal Federal, como no caso, são insuscetíveis de impugnação ulterior, perante o Pleno desta Corte, quer pela via (incabível) do recurso ordinário constitucional, quer pela utilização (inviável) de nova ação de “habeas corpus”:
+    “I. 'Habeas corpus': não cabimento.
+    Assente a jurisprudência do Supremo Tribunal em que não cabe 'habeas corpus' contra decisão de uma de suas Turmas: precedentes. (...).”
+(HC 87.017-AgR/RS, Rel. Min. SEPÚLVEDA PERTENCE, Pleno - grifei)
+           Impõe-se registrar, finalmente, por relevante, que essa orientação jurisprudencial - que tem apoio na Súmula 606/STF - foi reafirmada pelo Plenário desta Suprema Corte:
+    “'HABEAS CORPUS' - IMPETRAÇÃO CONTRA DECISÃO COLEGIADA DE TURMA DO SUPREMO TRIBUNAL FEDERAL - INADMISSIBILIDADE - EXTINÇÃO LIMINAR DO PROCESSO DE 'HABEAS CORPUS' POR DECISÃO MONOCRÁTICA DO RELATOR DA CAUSA - LEGITIMIDADE - RECURSO DE AGRAVO IMPROVIDO.
+    - Não cabe, para o Plenário, impetração de 'habeas corpus' contra decisão colegiada de qualquer das Turmas (ou do próprio Pleno) do Supremo Tribunal Federal, ainda que resultante do julgamento de outros processos de 'habeas corpus' (Súmula 606/STF) ou proferida em sede de recursos em geral, inclusive aqueles de natureza penal (RTJ 88/108 - RTJ 95/1053 - RTJ 126/175). Precedentes.
+    - Não se mostram admissíveis embargos infringentes contra decisão majoritária do Plenário (ou das Turmas) do Supremo Tribunal Federal, se tal decisão vem a ser proferida em causa diversa daquelas enunciadas, taxativamente, em rol exaustivo ('numerus clausus'), no art. 333 do RISTF. Precedentes.
+    - Não se revela viável a interposição de embargos de divergência contra acórdãos proferidos, pelo Supremo Tribunal Federal, quer em sede originária de 'habeas corpus', quer, ainda, no âmbito de recurso ordinário em 'habeas corpus'. Precedentes.”
+           (HC 88.247-AgR-AgR/RJ, Rel. Min. CELSO DE MELLO)
+           Sendo assim, tendo em vista as razões expostas, não conheço do presente “recurso ordinário constitucional”, restando prejudicado, em consequência, o exame do pedido de medida liminar.
+           Arquivem-se os presentes autos.
+           Publique-se.
+           Brasília, 24 de novembro de 2011.
+Ministro CELSO DE MELLO
+Relator
