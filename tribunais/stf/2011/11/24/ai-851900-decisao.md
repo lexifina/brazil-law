@@ -1,0 +1,24 @@
+AGRAVO DE INSTRUMENTO. TRABALHISTA. ESTABILIDADE. REINTEGRAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+2. Deveras, o C. TST decidiu a controvérsia por meio da interpretação conferida da norma infraconstitucional que disciplina a espécie (Lei 5.540/68).
+3. In casu, o acórdão recorrido assentou:
+AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. REINTEGRAÇÃO. Apesar de não haver consenso quanto à aplicação do disposto nos arts. 37, I, da Lei nº 5.540/68 e 53, V, da Lei nº 9.394/96 aos estabelecimentos particulares ou privados de ensino superior, é certo que a reclamada não possibilitou à autora, em relação ao seu despedimento, o direito ao contraditório e à ampla defesa, por meio de processo administrativo. Assim, aplica-se a garantia de emprego e a consequente reintegração, a partir da melhor interpretação do regulamento geral da empresa reclamada. Entendimento diverso esbarra na Súmula nº 126 desta Corte.
+INTERVALO INTERJORNADAS. Esta Corte Superior já firmou o entendimento que a supressão do intervalo mínimo interjornadas acarreta, por analogia, os mesmos efeitos previstos no § 4º do art. 71 da CLT e na Súmula nº 110 do TST. Nesse sentido a Orientação Jurisprudencial nº 355 da SBDI-1 desta Corte. Agravo de instrumento a que se nega provimento.”
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento interposto contra a decisão de fls., que inadmitiu recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão prolatado pelo Tribunal Superior do Trabalho, assim ementado (fl. 68):
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. REINTEGRAÇÃO. Apesar de não haver consenso quanto à aplicação do disposto nos arts. 37, I, da Lei nº 5.540/68 e 53, V, da Lei nº 9.394/96 aos estabelecimentos particulares ou privados de ensino superior, é certo que a reclamada não possibilitou à autora, em relação ao seu despedimento, o direito ao contraditório e à ampla defesa, por meio de processo administrativo. Assim, aplica-se a garantia de emprego e a consequente reintegração, a partir da melhor interpretação do regulamento geral da empresa reclamada. Entendimento diverso esbarra na Súmula nº 126 desta Corte.
+    INTERVALO INTERJORNADAS. Esta Corte Superior já firmou o entendimento que a supressão do intervalo mínimo interjornadas acarreta, por analogia, os mesmos efeitos previstos no § 4º do art. 71 da CLT e na Súmula nº 110 do TST. Nesse sentido a Orientação Jurisprudencial nº 355 da SBDI-1 desta Corte. Agravo de instrumento a que se nega provimento.”
+    Nas razões de recurso extraordinário, a ASSOCIAÇÃO PARANAENSE DE CULTURA aponta ofensa aos artigos 5º, II, 7º, I, e 170, da Constituição Federal. Sustenta em síntese a impossibilidade da garantia de estabilidade de emprego sem o amparo de previsão legal.
+    O Tribunal Superior do Trabalho negou seguimento ao apelo extremo sob o fundamento de que a lide foi dirimida com amparo em normas infraconstitucionais sendo que eventual ofensa à Constituição Federal, caso ocorrente, seria meramente reflexa.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    No que tange ao mérito, verifica-se que o E. TST decidiu a controvérsia por meio da interpretação conferida a norma infraconstitucional aplicável a espécie (Lei 5.540/68). Assim, o acórdão impugnado mediante o extraordinário revela interpretação de normas infraconstitucionais, não ensejando o cabimento do apelo extremo. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+    Nesse sentido:
+    “TRABALHISTA. ESTABILIDADE. REINTEGRAÇÃO NO EMPREGO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL DESPROVIDO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 524.300-AgR, Primeira Turma, Rel. Min. CÁRMEN LÚCIA)
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 24 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
