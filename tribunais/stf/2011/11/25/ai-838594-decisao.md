@@ -1,0 +1,30 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL NÃO EXAMINADA. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REDUÇÃO DE PROVENTOS LEI ESTADUAL N. 10.460/88. SÚMULA 280 DO STF.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. O direito local acaso violado por decisão judicial não autoriza a interposição de recurso extraordinário. Precedentes: AI 818.468-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 18/05/2011 e RE 598.694-AgR, Rel. Min. Ayres Britto, 2ª Turma, DJe de 02/03/2011.
+3. In casu o acórdão recorrido assentou: “MANDADO DE SEGURANÇA. DECADÊNCIA. NÃO OCORRÊNCIA. AGENTE POLICIAL. APOSENTADORIA POR INVALIDEZ. REDUÇÃO DE PROVENTOS INTEGRAIS. IMPOSSIBILIDADE.
+1. O legislador constituinte no inciso I do § 1º do art. 40 da CF, determinou que em caso de invalidez permanente (condição geral) a aposentadoria deve ser fixada com proventos proporcionais, porém, no caso específico de invalidez decorrente de acidente em serviço, moléstia profissional ou doença grave (condição específica), porque a situação não permite escolha pelo servido, a aposentadoria se dará de forma excepcional, ou seja, com proventos integrais.
+2. Não há decadência, pois se trata de prestação de trato sucessivo, sendo que por este motivo o prazo para interposição do mandado de segurança se renova a cada mês.
+3. Restando comprovado o nexo de causalidade entre o acidente de trabalho e a invalidez acometida ao impetrante, este tem o direito líquido e certo de receber aposentadoria integral em razão de acidente de trabalho.
+Segurança concedida.”
+4. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo ESTADO DE GOIÁS, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 276-278, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Goiás assim ementado (fls. 153-154), verbis:
+    “MANDADO DE SEGURANÇA. DECADÊNCIA. NÃO OCORRÊNCIA. AGENTE POLICIAL. APOSENTADORIA POR INVALIDEZ. REDUÇÃO DE PROVENTOS INTEGRAIS. IMPOSSIBILIDADE.
+    1. O legislador constituinte no inciso I do § 1º do art. 40 da CF, determinou que em caso de invalidez permanente (condição geral) a aposentadoria deve ser fixada com proventos proporcionais, porém, no caso específico de invalidez decorrente de acidente em serviço, moléstia profissional ou doença grave (condição específica), porque a situação não permite escolha pelo servido, a aposentadoria se dará de forma excepcional, ou seja, com proventos integrais.
+    2. Não há decadência, pois se trata de prestação de trato sucessivo, sendo que por este motivo o prazo para interposição do mandado de segurança se renova a cada mês.
+    3. Restando comprovado o nexo de causalidade entre o acidente de trabalho e a invalidez acometida ao impetrante, este tem o direito líquido e certo de receber aposentadoria integral em razão de acidente de trabalho.
+    Segurança concedida.”
+    Os embargos de declaração opostos foram rejeitados ante a ausência de enquadramento nas hipóteses elencadas no artigo 535 do CPC .
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 40, § 1º, I, §§ 3º e 17, na redação da Emenda 41/2003, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    É que a controvérsia foi decidida à luz de interpretação de norma local, no caso sub examine, a Lei Estadual n. 10.820/91. Incide, in casu, o óbice erigido pelo enunciado da Súmula n. 280 do Supremo Tribunal Federal, de seguinte teor, verbis: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido, traz-se à colação julgados de ambas as Turmas desta Suprema Corte, verbis:
+          “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO PREVIDENCIÁRIO. CONVERSÃO DE PROVENTOS PROPORCIONAIS EM INTEGRAIS. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 818.468-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 18/05/2011).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONVERSÃO DOS PROVENTOS PROPORCIONAIS EM INTEGRAIS. 1. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 2. ALEGAÇÃO DE AFRONTA A GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA. 1. Entendimento diverso do adotado pela instância judicante de origem exigiria a análise das Leis estaduais 8.974/1981 e 10.460/1988, bem como da Constituição estadual goiana. Providência vedada neste momento processual. 2. Violação a garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. Precedentes. Agravo regimental desprovido” (RE 598.694-AgR, Rel. Min. Ayres Britto, 2ª Turma, DJe de 02/03/2011).
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 25 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
