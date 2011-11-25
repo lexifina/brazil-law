@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo de instrumento interposto contra acórdão da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio Grande do Sul, que inadmitiu o recurso extraordinário, ao fundamento de ser indevida a inclusão da gratificação natalina nos salários de contribuição ou no período base de cálculo de benefícios previdenciários, mesmo no regime anterior ao advento da Lei nº 8.870/1994.
+    Irresignado, o recorrente alega violação ao art. 5º, inciso XXXVI, da Constituição Federal de 1988.
+    Passo a decidir.
+    A pretensão não comporta trânsito constitucional.
+    O acórdão recorrido examinou a controvérsia posta nos autos à luz da legislação infraconstitucional. A verificação da ocorrência ou não de violação ao direito adquirido, ao ato jurídico perfeito e/ou à coisa julgada, em regra, como na espécie, não desafia a instância extraordinária, haja vista situar-se em âmbito infraconstitucional.
+    Nesse sentido, entre outros, os seguintes precedentes: AI-AgR 135.632, Rel. Min. Celso de Mello, Primeira Turma, DJ 03.09.1999; e RE-AgR 583.857, Rel. Min. Ellen Gracie, Segunda Turma, DJ 16.08.2011, este cuja ementa transcrevo:
+    “PROCESSUAL CIVIL E PROCESSUAL DO TRABALHO. ART. 557, DO CPC. JULGAMENTO MONOCRÁTICO: POSSIBILIDADE. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXV, XXXVI E LIV, DA CF/88. OFENSA REFLEXA. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. 1. O art. 557 do CPC autoriza o relator a negar seguimento a recurso que esteja em confronto com súmulas ou jurisprudência do tribunal onde é julgado. Precedentes. 2. A jurisprudência dessa Corte está sedimentada no sentido de que as legações de ofensa a incisos do artigo 5º da Constituição Federal – legalidade, prestação jurisdicional, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório, ampla defesa e juiz natural –, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. 3. O Supremo Tribunal Federal manifestou-se pela inexistência de repercussão geral da matéria no RE 751.478-RG/SP, rel. Min. Dias Toffoli, Plenário Virtual, DJe 20.8.2010. 4. Agravo regimental a que se nega seguimento”.
+    Ante exposto, com fulcro nos arts. 21, § 1º, do RISTF e 557, caput, do Código de Processo Civil, nego seguimento ao agravo de instrumento.
+    Publique-se. Intimem-se.
+    Brasília, 25 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
