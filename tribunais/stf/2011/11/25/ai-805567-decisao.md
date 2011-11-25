@@ -1,0 +1,22 @@
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. AÇÃO DE INDENIZAÇÃO DECORRENTE DA RELAÇÃO DE TRABALHO. REPERCUSSÃO GERAL NÃO FUNDAMENTADA.
+1. A repercussão geral é requisito de admissibilidade do apelo extremo, por isso que o recurso extraordinário é inadmissível quando não apresentar preliminar formal de transcendência geral ou quando esta não for suficientemente fundamentada. (Questão de Ordem no AI n. 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6.9.07).
+2. Deveras, o recorrente fundamenta a ocorrência da repercussão geral tão somente no fato de que o acórdão é contrário à jurisprudência do Superior Tribunal de Justiça.
+3. In casu, o acórdão recorrido assentou: Competência da Justiça do Trabalho – Autos remetidos à Justiça Trabalhista – Ação de indenização por danos materiais e imateriais ajuizada em face de ex-empregadoras do autor que deixaram de repassar as contribuições previdenciárias descontadas do seu salário durante o período do vínculo laboral, prejudicando seu pedido de aposentadoria por tempo de contribuição – pretensão de regularizar sua situação perante o INSS cumulada com pedido de indenização por dano imaterial – Causa de pedir e pedido afeitos à matéria cuja competência original pertence à Justiça Especializada (EC 45/2004), independentemente da aplicação de normas de direito civil para solução da lide – Agravo desprovido.
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto por JOSÉ CARDOSO FILHO, contra decisão que não admitiu seu recurso extraordinário.
+     O Tribunal de Justiça do Estado de São Paulo manteve a sentença monocrática que declarou a incompetência absoluta da Justiça Estadual para analisar e resolver a lide, em acórdão assim ementado:
+    Competência da Justiça do Trabalho – Autos remetidos à Justiça Trabalhista – Ação de indenização por danos materiais e imateriais ajuizada em face de ex-empregadoras do autor que deixaram de repassar as contribuições previdenciárias descontadas do seu salário durante o período do vínculo laboral, prejudicando seu pedido de aposentadoria por tempo de contribuição – pretensão de regularizar sua situação perante o INSS cumulada com pedido de indenização por dano imaterial – Causa de pedir e pedido afeitos à matéria cuja competência original pertence à Justiça Especializada (EC 45/2004), independentemente da aplicação de normas de direito civil para solução da lide – Agravo desprovido.
+    Não foram opostos embargos de declaração.
+    Irresignado com o teor do acórdão prolatado, o recorrente interpôs recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, sustentando a preliminar de repercussão geral e apontando como violado o art. 5º, caput e XXXVI, da Carta Federal.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    O agravante não fundamentou adequadamente a preliminar de repercussão geral, como exige a legislação de regência. Alega a ocorrência da repercussão geral porque o acórdão recorrido é contrário à jurisprudência do Superior Tribunal de Justiça.
+    Relativamente ao tema, esta Suprema Corte decidiu que a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas incidirá quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007. (Questão de Ordem no AI n. 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6.9.07).
+    No caso sub examine , a intimação do acórdão recorrido deu-se em data posterior à fixada naquele julgamento, o que reclama a exigência de tal preliminar.
+    Para atendimento do novo requisito de admissibilidade não basta a simples afirmação de que o tema tenha repercussão geral, faz-se necessária a fundamentação adequada que supra as exigências do disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06 e art. 327, § 1º, do RISTF. In casu, a agravante não se desonerou de demonstrar existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa, deixando inócua a preliminar apresentada.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 25 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
