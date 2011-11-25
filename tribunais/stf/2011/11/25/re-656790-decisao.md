@@ -1,0 +1,8 @@
+RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ARTIGO 40, § 21, DA CONSTITUIÇÃO FEDERAL (ACRESCENTADO PELA EMENDA CONSTITUCIONAL N. 47/05). IMUNIDADE TRIBUTÁRIA. INATIVOS E PENSIONISTAS PORTADORES DE DOENÇAS INCAPACITANTES. EFICÁCIA DA NORMA. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos – eficácia da norma de imunização tributária prevista no art. 40, § 21 da Constituição (EC n. 47/05), se plena (independente de intermediação por lei federal ou lei local), limitada (dependente de intermediação por lei federal ou lei local) ou contextual (em razão do transcurso do tempo, caracterizado pela omissão legislativa); e a possibilidade de o Judiciário utilizar as hipóteses estabelecidas em lei local específica para os casos de aposentação especial (Lei n. 10.098/1994) para o reconhecimento da imunidade tributária – que será submetida à apreciação do Pleno desta Corte, nos autos do RE n. 630.137, Relator o Ministro Joaquim Barbosa.
+    Destarte, aplicando a decisão Plenária no RE n. 579.431, secundada, a posteriori pelo AI n. 503.064-AgR-AgR, Rel. Min. CELSO DE MELLO; AI n. 811.626-AgR-AgR, Rel. Min. RICARDO LEWANDOWSKI, e RE n. 513.473-ED, Rel. Min. CEZAR PELUSO, determino a devolução dos autos ao Tribunal de origem (art. 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 25 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
