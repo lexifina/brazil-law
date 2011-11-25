@@ -1,0 +1,23 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 2ª Região. Acórdão assim ementado (fls. 197):
+    “TRIBUTÁRIO – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO – INSTITUIÇÕES FINANCEIRAS – ISONOMIA – ANTERIORIDADE TRIMESTRAL.
+    O art. 19, parágrafo único, da Lei nº 9.249/95 e do art. 72, III, do ADCT não ofendem o princípio da isonomia, que não é absoluto, notadamente quando a maior oneração de um tributo é compensada pela isenção de outro.
+    Os mesmos dispositivos, além disso, não afrontam o princípio da anterioridade trimestral, conforme decidiu o Plenário na AMS Nº 97.04.21096-5.
+    Ressalva do entendimento do relator, que está submetido, em questões de constitucionalidade, à orientação majoritária da Turma e do Pleno.”
+    2. Pois bem, a parte recorrente defende seu direito de “calcular e recolher a Contribuição Social sobre o Lucro Líquido – CSLL apurado mensalmente, bem como no encerramento dos exercícios financeiros, à alíquota aplicável às pessoas jurídicas em geral (8% atualmente), e não mediante a aplicação de alíquotas superiores, como 18% e 30%, bem como para que o Recorrido se abstenha de praticar quaisquer atos tendentes a exigir o recolhimento da Contribuição Social sobre à alíquota superior a 8%, uma vez reconhecida a quebra dos Princípios da Isonomia e da Anterioridade, pois com a elevação da alíquota de 18% para 30%, a EC 10, 4.3.96, não observou o período nonagesimal, verificando-se assim, um descaso com os Princípios Constitucionais” (fls. 223).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Haroldo Ferraz da Nóbrega, opina pelo desprovimento do recurso.
+    4. Tenho que a insurgência merece parcial acolhida. De saída, anoto que a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, considera juridicamente impossível o pedido de declaração de inconstitucionalidade de textos normativos que estabelecem distinção entre as alíquotas da Contribuição Social sobre o Lucro Líquido – CSLL incidentes sobre as instituições financeiras e sobre as empresas jurídicas em geral.
+    5. Precedentes: ARE 649.723, da relatoria da ministra Cármen Lúcia; bem como REs 308.392, da relatoria do ministro Dias Toffoli; 335.275-AgR-Segundo, da relatoria do ministro Ricardo Lewandowski; 499.813-AgR, da relatoria do ministro Joaquim Barbosa; e 552.118-AgR, da relatoria da ministra Cármen Lúcia; e 370.590-AgR, da relatoria do ministro Eros Grau.
+    6. Por outro lado, esta nossa Casa de Justiça, após reconhecer a presença de repercussão geral, decidiu pela aplicação da anterioridade nonagesimal no tocante a majoração da alíquota da CSSL, promovida pela EC 10/1996. Leia-se, a propósito, a ementa do RE 587.008, da relatoria do ministro Dias Toffoli:
+    “Recurso extraordinário – Emenda Constitucional nº 10/96 – Art. 72, inciso III, do Ato das Disposições Constitucionais Transitórias (ADCT) - Contribuição Social sobre o Lucro (CSLL) – Alíquota de 30% (trinta por cento) - Pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91 – Alegada violação ao art. 195, § 6º, da Constituição Federal.
+    1. O poder constituinte derivado não é ilimitado, visto que se submete ao processo consignado no art. 60, §§ 2º e 3º, da Constituição Federal, bem assim aos limites materiais, circunstanciais e temporais dos §§ 1º, 4º e 5º do aludido artigo.
+    2. A anterioridade da norma tributária, quando essa é gravosa, representa uma das garantias fundamentais do contribuinte, traduzindo uma limitação ao poder impositivo do Estado.
+    3. A emenda Constitucional nº 10/96, especialmente quanto ao inciso III do art. 72 do Ato das Disposições Constitucionais Transitórias – objeto de questionamento - é um novo texto que veicula nova norma, e não mera prorrogação da emenda anterior.
+    4. Hipótese de majoração da alíquota da CSSL para as pessoas jurídicas referidas no § 1º do art. 22 da Lei nº 8.212/91.
+    5. Necessidade de observância do princípio da anterioridade nonagesimal contido no art. 195, § 6º, da Constituição Federal.
+    6. Recurso Extraordinário a que se nega provimento.”
+    Ante o exposto, e considerando as disposições do § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso. O que faço apenas para determinar que seja observado o princípio da anterioridade de que trata o § 6º do art. 195 da Constituição Federal de 1988, no tocante à majoração da alíquota da CSSL, promovida pela EC 10/1996. Sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 25 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
