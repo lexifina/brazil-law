@@ -1,0 +1,28 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 2ª Região. Acórdão assim ementado (fls. 65):
+    “FRAUDE NA OBTENÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PRESCRIÇÃO. INOCORRÊNCIA. SUSPEIÇÃO DE INTÉRPRETE. PRECLUSÃO. AUTORIA. COMPROVAÇÃO.
+    1. Não sendo o réu servidor do INSS, o dies a quo para a contagem do prazo prescricional deve ser a data em que a autarquia previdenciária deixou de ser induzida em erro, tendo em vista que a ação tipificada no crime de estelionato é a obtenção de vantagem ilícita (para si ou para outrem), em prejuízo alheio, induzindo ou mantendo alguém em erro (mediante artifício, ardil ou qualquer outro meio fraudulento.
+    2. O estelionato é crime comum - que pode ser praticado por qualquer pessoa -, não exigindo qualquer condição especial do sujeito ativo, podendo ser praticado por quem não seja servidor do INSS.
+    3 O art. 29 do Código Penal, ao tratar do concurso de agentes, prevê a responsabilidade penal daquele que, de qualquer modo, concorre para o crime, incidindo nas mesmas penas cominadas ao delito, na medida de sua culpabilidade.
+    4. A exceção de suspeição não pode ficar à disposição do réu, no tocante ao momento de suscitá-la, pois, em se tratando de nulidade relativa, sujeita-se à preclusão.
+    5. Apelação não provida.”
+    2. Pois bem, a parte recorrente alega ofensa ao inciso III do art. 1º e aos incisos XXXVI e XLVI do art. 5º da Magna Carta de 1988.
+    3. Bem vistas as coisas, determinei a remessa dos autos (despacho de fls. 156) à douta Procuradoria-Geral da República, para que se pronunciasse a respeito da prescrição. Em parecer da lavra do Subprocurador-Geral Mario José Gisi, opinou a PGR pelo “prosseguimento do feito por restar intocada a pretensão punitiva do estado” (fls. 165).
+    4. Tenho que o recurso não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça, no sentido de que o crime de estelionato contra a Previdência Social, em caso como o destes autos, tem caráter permanente, o que fixa como termo inicial do prazo prescricional a data da cessação da permanência.
+    5. Confira-se, a propósito, a ementa do HC 104.880, da minha relatoria:
+    “HABEAS CORPUS . CRIME MILITAR. ESTELIONATO PREVIDENCIÁRIO. BENEFICIÁRIO DAS PARCELAS INDEVIDAS. CRIME PERMANENTE. PRESCRIÇÃO. TERMO INICIAL. HIGIDEZ DA PRETENSÃO PUNITIVA. ORDEM INDEFERIDA.
+    1. Em tema de estelionato previdenciário, o Supremo Tribunal Federal tem uma jurisprudência firme quanto à natureza binária da infração. Isso porque é de se distinguir entre a situação fática daquele que comete uma falsidade para permitir que outrem obtenha a vantagem indevida, daquele que, em interesse próprio, recebe o benefício ilicitamente. No primeiro caso, a conduta, a despeito de produzir efeitos permanentes no tocante ao beneficiário da indevida vantagem, materializa, instantaneamente, os elementos do tipo penal. Já naquelas situações em que a conduta é cometida pelo próprio beneficiário e renovada mensalmente, o crime assume a natureza permanente, dado que, para além de o delito se protrair no tempo, o agente tem o poder de, a qualquer tempo, fazer cessar a ação delitiva. Precedentes.
+    2. No caso, o paciente, indevidamente, sacou os valores depositados na conta-corrente de sua falecida irmã no período de janeiro de 2000 a maio de 2005. É falar: em proveito próprio, ele cometeu a fraude contra a Administração Militar. Donde ressai a natureza permanente da infração, a atrair a incidência do inciso III do art. 111 do Código Penal.
+    3. Habeas corpus indeferido.”
+    6. No mesmo sentido, vejam-se as seguintes decisões: RHC 105.761, da relatoria do ministro Ricardo Lewandowski; HC 102.774, da relatoria da ministra Ellen Gracie; HC 86.467, da relatoria do ministro Marco Aurélio.
+    7. E o que se deu na concreta situação dos autos? Como assinalou o voto-condutor do acórdão do Tribunal Regional Federal da 2ª Região, “o acusado nunca foi servidor do INSS e não só providenciou todos os documentos necessários à concessão indevida das aposentadorias, como também recebeu os valores pertinentes aos beneficiários, durante os períodos mencionados na denúncia, eis que detinha mandato, outorgado pelos mesmos, mediante procuração lavrada em Cartório (fls. 242/243). Desta forma, o dies a quo para a contagem do prazo prescricional deve ser a data em que a autarquia previdenciária deixou de ser induzida em erro, tendo em vista que a ação tipificada no crime de estelionato é a obtenção de vantagem ilícita (para si ou para outrem), em prejuízo alheio, induzido ou mantendo alguém em erro (mediante artifício, ardil ou qualquer outro meio fraudulento)”. Donde ressai a natureza permanente da infração, a atrair a incidência do inciso III do art. 111 do Código Penal, in verbis :
+    “Art. 111 - A prescrição, antes de transitar em julgado a sentença final, começa a correr:
+    [...]
+    III - nos crimes permanentes, do dia em que cessou a permanência;”
+    8. Assim postas as coisas, não há que se falar em prescrição da pretensão punitiva.
+    9. À derradeira, pontuo que entendimento diverso do adotado pela instância judicante de origem demandaria a análise da legislação infraconstitucional pertinente e o reexame do acervo fático-probatório dos autos (Súmula 279/STF), providências vedadas neste momento processual.
+    Ante o exposto, e frente ao art. 38 da Lei 8.038/1990 e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
