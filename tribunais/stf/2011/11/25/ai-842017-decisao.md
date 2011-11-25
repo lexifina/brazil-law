@@ -1,0 +1,27 @@
+AGRAVO DE INSTRUMENTO. PENAL E PROCESSUAL PENAL. TRIBUNAL DO JÚRI. CONDENADO COMO INCURSO NO CRIME PREVISTO NO ART. 121, § 3º, DO CÓDIGO PENAL. APELAÇÃO. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. APELO DO MINISTÉRIO PÚBLICO PROVIDO. INTEMPESTIVIDADE. INCIDÊNCIA DA SÚMULA N. 699/STF.
+1. O prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8038/90, não se aplicando o disposto a respeito nas alterações da Lei 8950/94 ao Código de Processo Civil. (Súmula n. 699/STF)
+2. Consequentemente, afigura-se inadmissível o agravo de instrumento, porquanto a decisão que inadmitiu o recurso extraordinário foi disponibilizada no Diário da Justiça eletrônico em 7.6.2010 (segunda-feira), considerando-se como data de publicação o dia 8.6.2010 (terça-feira), encerrando-se em 14.6.2010 o prazo para interposição do recurso. O agravo somente foi interposto em 18.6.2010 (sexta-feira), decorridos, assim, mais de 5 (cinco) dias entre a data da intimação da decisão agravada e a interposição do agravo.
+3. In casu, o acórdão recorrido assentou: APELAÇÃO CRIME. COMPETÊNCIA DO JÚRI. NULIDADE. ART. 478, I, DO CPP. NULIDADE. PRELIMINAR.
+O art. 478 do CPP veda às partes, sob pena de nulidade, fazer referências à decisão de pronúncia, às decisões posteriores que julgaram admissível a acusação ou à determinação do uso de algemas como argumento de autoridade que beneficiem ou prejudiquem o acusado, bem como ao silêncio do acusado ou à ausência de interrogatório por falta de requerimento, em seu prejuízo. Assim, a alusão realizada em plenário à decisão de indeferimento da prisão preventiva do acusado, não afronta o disposto no artigo 478, I, do CPP, sendo clara a vedação legal, não cabendo interpretação analógica.
+Preliminar rejeitada.
+DECISÃO CONTRÁRIA À PROVA DOS AUTOS. APELO MINISTERIAL. EXCESSO CULPOSO NA LEGÍTIMA DEFESA PRÓPRIA. INEXISTÊNCIA DE VERTENTE PROBATÓRIA. IMPOSSIBILIDADE DE RECONHECIMENTO.
+Não há como reconhecer o excesso culposo na legítima defesa própria, diante da existência de prova testemunhal que demonstra já haver o réu ameaçado a vítima de morte, e, havendo, o réu, disparado 6 tiros contra a vítima, acertando 3 tiros com perfurações, 2 delas com saída de balas, e, ainda, ferindo a cabeça da vítima com pedras, causando fratura com afundamento craniano e exposição de tecido cerebral, verificando-se que a garrucha do ofendido estava descarregada e com os projeteis intactos. Caso dos autos em que a decisão dos jurados, no sentido de reconhecer o excesso culposo em legítima defesa, foi manifestamente contrária à prova dos autos, devendo ser anulado o júri, com base no art. 593, inciso III, letra “d”, do Código de Processo Penal, para que outro julgamento seja proferido.
+PRELIMINAR REJEITADA. APELO MINISTERIAL PROVIDO.
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto por PEDRO PAULINO DA SILVA, contra decisão que não admitiu seu recurso extraordinário.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul, ante as provas carreadas nos autos, deu provimento ao recurso do Ministério Público para anular o julgamento que condenara o réu por homicídio culposo (art. 121, § 3º, do CP), para que fosse proferido novo veredicto.
+    Opostos embargos de declaração, restaram rejeitados.
+    Irresignado com o teor do acórdão prolatado, o recorrente interpôs recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, sustentando a preliminar de repercussão geral e apontando como violado o art. 5º, LIII, LIV e LV, da Carta Federal , e arts. 613, combinado com 265, § 1º, do CPP e art. 453, II, do CPC.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    É de sabença que um dos requisitos para admissão dos recursos é a tempestividade, devendo o recorrente, em se tratando de agravo de instrumento em matéria criminal, obedecer o prazo de 5 (cinco) dias para sua interposição, conforme o estabelecido no art. 28 da Lei n. 8.038/90, não se aplicando o art. 544 do Código de Processo Civil.
+    In casu, foi disponibilizada a decisão que inadmitiu o recurso extraordinário no Diário de Justiça eletrônico em 7.6.2010 (segunda-feira), considerando-se como data de publicação o dia 8.6.2011 (terça-feira), encerrando-se em 14.6.2010 o prazo para interposição do recurso. Contudo, depreende-se do registro de protocolo do agravo de instrumento, que sua interposição, no juízo a quo, se deu em 18.6.2010 (sexta-feira), fora, portanto, do quinquídio legal.
+    O agravante não acostou aos autos nenhum impedimento legal que demonstrasse justa causa para a interposição intempestiva.
+    A Súmula 699/STF estatui que o prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8038/90, não se aplicando o disposto a respeito nas alterações da Lei 8950/94 ao Código de Processo Civil.
+    Desse modo, configura-se inviável a análise do presente recurso, visto que eivado de intempestividade, um vez que entre a data de publicação da decisão agravada e a interposição do agravo de instrumento, decorreu prazo superior ao prescrito na legislação de regência.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 25 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
