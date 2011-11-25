@@ -1,0 +1,12 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CUMULATIVA DE MAIS DE UM RECURSO CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGALMENTE AUTORIZADAS. INADMISSIBILIDADE. PRINCÍPIO DA UNIRRECORRIBILIDADE OU SINGULARIDADE RECURSAL. NÃO CONHECIMENTO DO SEGUNDO RECURSO.
+    Decisão: Analisando os autos, verifico que a parte ora agravante interpôs dois recursos contra a mesma decisão monocrática proferida às fls. 789/793, respectivamente: embargos de declaração (fls. 796/804 e 816/823); e, posteriormente, o presente agravo regimental (fls. 806/814 e 825/832).
+    Ocorre, que o nosso sistema processual adota o princípio da unirrecorribilidade, ou singularidade dos recursos, segundo o qual “para cada ato judicial recorrível há um único recurso previsto pelo ordenamento, sendo vedada a interposição simultânea ou cumulativa de mais outro visando a impugnação do mesmo ato judicial” (JUNIOR, NELSON NERY, “Princípios Fundamentais - Teoria Geral dos Recursos”, p. 93, item n. 2.4, 5ª ed., 2000, RT), ressalvadas as hipóteses legalmente autorizadas, como ocorre, por exemplo, na hipótese prevista no artigo 541 do Código de Processo Civil.
+    A exceção, entretanto, não alcança o presente caso, em que se evidencia a ocorrência de preclusão consumativa, impondo-se, consequentemente, o não conhecimento do segundo recurso interposto. Nesse sentido, à guisa de exemplo, cito o seguinte julgado:
+    “E M E N T A: RECURSO DE AGRAVO - CUMULATIVA INTERPOSIÇÃO DE DOIS (2) RECURSOS CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGAIS - INADMISSIBILIDADE - OFENSA AO POSTULADO DA SINGULARIDADE DOS RECURSOS - NÃO-CONHECIMENTO DO SEGUNDO RECURSO - EXAME DO PRIMEIRO RECURSO - AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetível de conhecimento o segundo recurso, quando interposto contra a mesma decisão. Doutrina.”[...] (AI n. 589.022-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJ de 08.09.06)
+    Ex positis, não conheço do agravo regimental.
+    Publique-se.
+    Brasília, 25 de novembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
