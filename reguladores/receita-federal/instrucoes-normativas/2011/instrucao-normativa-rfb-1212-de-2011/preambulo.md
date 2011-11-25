@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1212, de 24 de novembro de 2011
+Prorroga o prazo de apresentação da Declaração de Débitos e Créditos Tributários Federais (DCTF), de que trata a Instrução Normativa RFB nº 1.110, de 24 de dezembro de 2010, relativa ao mês de setembro de 2011.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe confere o inciso III e XXVIII do art. 261 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e na Instrução Normativa RFB nº 1.110, de 24 de dezembro de 2010, resolve:
