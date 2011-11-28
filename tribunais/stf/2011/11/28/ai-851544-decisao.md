@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 374):
+    “RECURSO DE REVISTA. EXECUÇÃO. CÁLCULOS DA LIQUIDAÇÃO. ALEGAÇÃO DE INCORREÇÃO. PRECLUSÃO. OFENSA AO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA QUE NÃO SE RECONHECE. Não demonstrada a alegada violação direta e literal de dispositivo da Constituição da República, única hipótese autorizada pelo legislador ordinário para o processamento do recurso de revista nos feitos em execução, forçoso decidir pelo não conhecimento do recurso de revista. A discussão acerca da preclusão da oportunidade para arguir a incorreção dos cálculos da liquidação reveste-se de contornos nitidamente processuais e, portanto, infraconstitucionais. Nesse contexto, não se divisa ofensa à literalidade do artigo 5º, XXXVI, da Constituição da República. Recurso de revista de que não se conhece.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 5º, XXXVI, da Constituição federal. Sustenta-se que as compensações previstas na decisão exequenda não foram consideradas nos cálculos da liquidação, configurando ofensa à coisa julgada e bis in idem. Alega-se que ofensa à coisa julgada é matéria de ordem pública não sujeita à preclusão.
+    É o relatório. Decido.
+    Cinge-se a controvérsia à suposta violação da coisa julgada em razão do indeferimento do pedido de compensação apresentado na segunda atualização de cálculos de liquidação.
+    O Tribunal Regional manteve o indeferimento porque entendeu preclusa a alegação de ofensa à coisa julgada e constatou que “[e]mbora tenha apresentado os índices repassados aos salários, não logrou êxito em demonstrar a efetividade de sua assertiva, isto porque não ofereceu nenhuma prova de que realmente houve a concessão dos questionados reajustes, além de não haver identidade quanto ao fato gerador e a natureza jurídica entre os reajustes concedidos e requeridos” (cf. fls. 330 e 375).
+    O Tribunal a quo, conforme a ementa consignada no relatório, não conheceu do recurso de revista (art. 896, § 2º, da CLT).
+    Desta feita, a questão constitucional suscitada não pode ser analisada sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
