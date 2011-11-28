@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “PROCESSO CIVIL E DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS E ESTÉTICOS. PREQUESTIONAMENTO. AUSÊNCIA. ACIDENTE DE TRÂNSITO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PRETENSÃO DE RECONHECIMENTO DE CULPA CONCORRENTE DA VÍTIMA. CONDUÇÃO DE MOTOCICLETA SEM HABILITAÇÃO E DE CHINELOS. ANÁLISE DA SITUAÇÃO FÁTICA RELATIVA AO ACIDENTE QUE EXCLUI A CONCORRÊNCIA DE CULPAS. DANO MATERIAL. NÃO LIMITAÇÃO DAS CIRURGIAS. VIOLAÇÃO DO ART. 946 DO CC. INOCORRÊNCIA. FATOS NOVOS. LIQUIDAÇÃO POR ARTIGOS. RECUPERAÇÃO INTEGRAL DO DANO. COMPENSAÇÃO POR DANOS MORAIS E ESTÉTICOS. MINORAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. CONDENAÇÃO. DANO MORAL. MONTANTE INFERIOR AO POSTULADO. SUCUMBÊNCIA RECÍPROCA. INEXISTÊNCIA. SÚMULA 326/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ (...)”. (fl. 980)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 1.017-1.021).
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, inciso XXXVII; e 93, inciso IX, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz dos elementos fático-probatórios constantes dos autos e da legislação infraconstitucional pertinente ao caso (Código Civil e Código de Processo Civil). Eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incide, portanto, o Enunciado de Súmula 279 do STF.
+    Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA. ATROPELAMENTO. INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 836.286, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.4.2011).
+    “Agravo regimental em agravo de instrumento. 2. Ausência de nexo causal entre expedição de decreto legislativo e acidente aéreo. Danos morais e materiais indevidos 3. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279 do STF. 4. Agravo regimental a que se nega provimento” (AI-AgR 771.490, de minha relatoria, Segunda Turma, DJe 7.2.2011).
+    Ademais, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Por último, quanto à alegada violação ao artigo 5º, inciso XXXVII, da Constituição Federal, caracteriza-se, na hipótese, ausência de prequestionamento, uma vez que o mencionado dispositivo apenas foi suscitado no apelo extremo, não tendo sido debatido no acórdão recorrido.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
