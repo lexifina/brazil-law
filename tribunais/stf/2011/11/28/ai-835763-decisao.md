@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão que, reformando parcialmente a sentença, julgou procedente ação civil pública por ato de improbidade administrativa.
+    A ementa do acórdão recorrido está assim redigida (fls. 397):
+    “AÇÃO CIVIL PÚBLICA - EX-PREFEITO - IMPROBIDADE ADMINISTRATIVA - COMPETÊNCIA - MINISTÉRIO PÚBLICO - LEGITIMIDADE - PRESCRIÇÃO - COMPRA - PEÇAS DE TRATOR E CAMINHÃO - NOTAS DE EMPENHO - NOTAS FISCAIS - EMPRESA - INEXISTÊNCIA - MERCADORIA - ENTREGA - PROVA - AUSÊNCIA - DANO - INDENIZAÇÃO. Conforme disposição do art. 37, §5º, da Constituição Federal, a ação de ressarcimento ao erário é imprescritível. A ação de natureza cível movida contra o agente público, ainda que por improbidade administrativa, não confere a este agente público nenhum privilégio de foro. Detém o Ministério Público legitimidade para promover ação visando o ressarcimento de danos ao erário público. A expedição e liquidação de nota de empenho calcada em nota fiscal emitida por empresa sem existência no plano fiscal, mesmo em se desconsiderando a sua inexistência no plano material, já configura improbidade administrativa, mormente se não comprovada, por outro meio, e através de prova robusta, a entrega da mercadoria.”
+    No recurso extraordinário, o ora agravante alega ofensa aos arts. 29, X e 37, caput, da Constituição da República.
+    É o relatório. Decido.
+    O Ministério Público, como ente imbuído da defesa do patrimônio público e dos interesses de toda a coletividade (art. 129, III, da Constituição federal e art. 1º da Lei 7.347/1985 e alterações), é parte legítima para as ações civis públicas que visem a reaver dinheiros públicos ilicitamente desviados ou que tenham sido malversados.
+    Nesse sentido, confira-se a decisão unânime a que chegou o Plenário desta Corte por ocasião do julgamento do RE 208.790 (rel. min. Ilmar Galvão, DJ de 15.12.2000):
+    “CONSTITUCIONAL. MINISTÉRIO PÚBLICO. AÇÃO CIVIL PÚBLICA PARA PROTEÇÃO DO PATRIMÔNIO PÚBLICO. ART. 129, III, DA CF. Legitimação extraordinária conferida ao órgão pelo dispositivo constitucional em referência, hipótese em que age como substituto processual de toda a coletividade e, conseqüentemente, na defesa de autêntico interesse difuso, habilitação que, de resto, não impede a iniciativa do próprio ente público na defesa de seu patrimônio, caso em que o Ministério Público intervirá como fiscal da lei, pena de nulidade da ação (art. 17, § 4º, da Lei nº 8.429/92). Recurso não conhecido.”
+    No mesmo sentido são as decisões proferidas no AI 491.081-AgR (rel. min. Carlos Velloso, DJ de 07.05.2004) e no AI 383.919-AgR (rel. min. Sepúlveda Pertence, DJ de 11.04.2003).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ademais, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Por fim, verifico que a alegada ofensa aos referidos dispositivos demanda também o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
