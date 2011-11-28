@@ -1,0 +1,16 @@
+DECISÃO : Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é do seguinte teor (fls. 59):
+    “AÇÃO CIVIL PÚBLICA. Licitação na modalidade Carta-Convite.
+    PRELIMINARES de ilegitimidade ativa; que o arresto deve obedecer aos arts. 813 e 821 do CPC; que o ingresso da Municipalidade de Alto Alegre deu-se antes de ocorrer a citação; que são partes ilegítimas passivas; nulidade da citação e da sentença; suspensão do processo até o término da ação penal; e, intempestividade das contestações afastadas.
+    AGRAVO RETIDO, improvido.
+    INCIDENTE DE FALSIDADE contra certidão emanada de Oficial de Justiça. Intempestividade. Inteligência do art. 390 do CPC. Ocorrência de preclusão. Além do mais, trata-se de documento público. Incidente não conhecido.
+    LITIGÂNCIA DE MÁ-FÉ, afastada.
+    MÉRITO. Evidente fraude no procedimento licitatório. Violação dos princípios da moralidade e legalidade. São nulos os procedimentos licitatórios, pois atentam contra o princípio da competitividade, que rege os procedimentos licitatórios. Visível a ilegalidade e o dano ao patrimônio público. Entre os particulares, vige o princípio segundo o qual tudo é permitido desde que não seja ilícito. À Administração, por seu turno, só é permitido aquilo que esteja em estrita observância ao princípio da legalidade estrita, onde o Poder Público para adquirir, alienar, locar bens, contratar etc., necessita de um procedimento preliminar, rigoroso, determinado, chamado licitação que busca satisfazer, em síntese, o respeito aos princípios da isonomia, impessoalidade, igualdade de todos perante a lei e a obediência aos reclamos da probidade administrativa imposta pelo art. 37, da Carta Magna c/c art. 3º, da Lei Federal 8.666/93. Sentença mantida. Preliminares rejeitadas: agravo retido e apelos improvidos; incidente de falsidade não conhecido; e, afastado o decreto de litigância de má-fé.”
+    No recurso extraordinário, a parte agravante alega ofensa aos arts. 5º, LIV e LV e 93, IX, da Constituição federal. Sustenta, em síntese, nulidade da citação por falta de requisito essencial, tendo em vista que “(...) uma das cópias do mandado que deveria citar os réus, dentre eles o RECORRENTE, não foi instruída com a devida contra-fé (fls. 94 - grifos originais).
+    O recurso não merece seguimento.
+    Não há violação aos dispositivos constitucionais supracitados, pois o acórdão recorrido inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o agravante.
+    Ainda que superado o referido óbice, a discussão acerca da alegada nulidade da citação demandaria o reexame das normas processuais infraconstitucionais e das provas que fundamentaram o acórdão recorrido, de modo que a alegada violação aos dispositivos constitucionais, se houvesse, seria indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
