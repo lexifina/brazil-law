@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. LEI COMPLEMENTAR N. 110/2001. CONSTITUCIONALIDADE. OBSERVÂNCIA DA ANTERIORIDADE GERAL. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “PROCESSUAL CIVIL. FGTS. CONTRIBUIÇÕES SOCIAIS. LEI COMPLEMENTAR 110/2001. DECISÃO DO STF. MC NA ADI 2.556/DF.
+    1. O Plenário do Supremo Tribunal Federal ao examinar a Lei Complementar 110/2001, em Medida Cautelar na ADI nº 2.556/DF, decidiu que seus artigos 1º e 2º são constitucionais e as exações por eles criadas possuem natureza tributária de contribuição social geral, submetendo-se à regência do art. 149 da Constituição Federal, que remete ao art. 150, III, b (anterioridade anual).
+    2. Sucumbência recíproca, não havendo condenação em honorários de advogado e sendo reduzida a restituição de custas a 50% (cinquenta por cento), vencido nesta parte o Relator.
+    3. Remessa oficial e apelação da União parcialmente providas.
+    4. Apelação da parte autora prejudicada” (fl. 39).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado o art. 149 da Constituição da República.
+    Argumenta que “as contribuições sociais instituídas pela Lei Complementar nº 110/2001 não se destinam a financiar os programas sociais a que o FGTS se propõe” (fl. 67).
+    Sustenta que “a exação questionada (…) não se insere, inegavelmente, em nenhuma das finalidades previstas pelo art. 149 da Carta Magna de 1988” (fl. 69).
+    Requer seja o recurso extraordinário “inteiramente provido para declarar a inexistência de relação jurídico-tributária que obrigue a mesma a efetuar o recolhimento da contribuição social instituída pelo art. 2º, da Lei Complementar nº 110/2001” (fl. 72).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente
+    4. Este Supremo Tribunal Federal assentou serem constitucionais as contribuições sociais instituídas pelos arts. 1º e 2º da Lei Complementar n. 110/2001. Afirmou, ainda, que essas contribuições teriam natureza de contribuições sociais gerais e estariam submetidas ao princípio da anterioridade previsto no art. 150, inc. III, alínea b, da Constituição da República. Nesse sentido:
+    “Ação direta de inconstitucionalidade. Impugnação de artigos e de expressões contidas na Lei Complementar federal nº 110, de 29 de junho de 2001. Pedido de liminar. - A natureza jurídica das duas exações criadas pela lei em causa, neste exame sumário, é a de que são elas tributárias, caracterizando-se como contribuições sociais que se enquadram na sub-espécie "contribuições sociais gerais" que se submetem à regência do artigo 149 da Constituição, e não à do artigo 195 da Carta Magna. - Não-ocorrência de plausibilidade jurídica quanto às alegadas ofensas aos artigos 145, § 1º, 154, I, 157, II, e 167, IV, da Constituição. - Também não apresentam plausibilidade jurídica suficiente para a concessão de medida excepcional como é a liminar as alegações de infringência ao artigo 5º, LIV, da Carta Magna e ao artigo 10, I, de seu ADCT. - Há, porém, plausibilidade jurídica no tocante à argüição de inconstitucionalidade do artigo 14, "caput", quanto à expressão "produzindo efeitos", e seus incisos I e II da Lei Complementar objeto desta ação direta, sendo conveniente, dada a sua relevância, a concessão da liminar nesse ponto. Liminar deferida em parte, para suspender, "ex tunc" e até final julgamento, a expressão "produzindo efeitos" do "caput" do artigo 14, bem como seus incisos I e II, todos da Lei Complementar federal nº 110, de 29 de junho de 2001” (ADI 2.556-MC, Rel. Min. Moreira Alves, Tribunal Pleno, DJ 8.8.2003).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÕES SOCIAIS GERAIS. LC 110/2001. ARTIGOS 1º E 2º. CONSTITUCIONALIDADE. 2. As exações previstas na LC 110/2001 enquadram-se na espécie de contribuições sociais gerais, submetidas à regência do artigo 149 da Constituição do Brasil. 3. A inconstitucionalidade foi proclamada tão-somente em face do disposto no artigo 150, III, "b", da Constituição, que veda a cobrança de contribuições no mesmo exercício financeiro em que haja sido publicada a lei que as instituiu. Agravo regimental a que se dá provimento” (RE 535.041-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 9.5.2008).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES SOCIAIS INSTITUÍDAS PELOS ARTS. 1º E 2º DA LEI COMPLEMENTAR N. 110/2001: CONSTITUCIONALIDADE. PRECEDENTES DO PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 527.128-AgR, de minha relatoria, Primeira Turma, DJe 13.2.2009).
+    Dessa orientação não divergiu o acórdão recorrido.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
