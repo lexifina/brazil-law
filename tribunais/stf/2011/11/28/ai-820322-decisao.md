@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Calçados Ferracini Ltda interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, incisos XXIII e XXIX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Agravo retido - Inicial que preenche os requisitos do art. 282, do CPC, sem a necessidade da juntada dos documentos constantes da medida cautelar apensada - Inaplicabilidade do chamamento ao processo [art. 77, do CPC] - Não cabimento da suspensão do processo por causa prejudicial externa [art. 265, IV, "a", CPC] - Ação de nulidade na Justiça Federal do Rio de Janeiro que, além de posterior, já foi Julgada improcedente e mantida pelo Tribunal Regional Federal da 2ª Região - Não provimento.
+    Abstenção de uso de solados registrados como desenho Industrial de titularidade da autora [DI 6302275-3, DI 6302999-5 e DI 6303476-0] - Desenhos industriais válidos e mantidos pela Justiça Federal do Rio de Janeiro e Tribunal Regional Federal da Segunda Região – Não comprovação do estado da técnica - Ausência de prova de contrafação pela ré - Ré que também possui o registro dos seus solados junto ao INPI [DI 6402293-5 e DI 6403990-0) - Afastada a contrafação e o dever de indenizar - Não provimento” (fl. 153).
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que os dispositivos constitucionais apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, colhe-se do voto condutor do acórdão recorrido:
+    “(...)
+    Assim, há decisão judicial confirmando a validade dos registros dos desenhos industriais em questão, devendo esse direito prevalecer. Não há como sustentar nestes autos a nulidade dos desenhos industriais.
+    Diante da validade dos desenhos industriais, há de se verificar se estes foram, de fato violados pelos solados apreendidos da loja ré.
+    Foi realizado laudo pericial às fls. 467/485 e 507/526. A autora contesta o laudo diante da qualificação do perito que é economista e professor universitário, sendo que a ré, no momento anterior à perícia também o questionou, desistindo da impugnação apenas em contra-razões de apelação. De fato, além de o perito não possuir conhecimentos técnicos correspondentes ao objeto de lide [desenhos industriais], a perícia foi realizada sem a confrontação entre os memoriais descritivos dos desenhos industriais da autora e os solados físicos apreendidos no estabelecimento da ré, mas apenas através de respostas aos quesitos formulados pelas partes.
+    (...)
+    No caso do DI 6302275-3, o fato de o desenho do recorte do salto da ré ser da mesma forma geométrica do protegido pela autora, não acarreta contrafação. Além do mais, a ré é detentora do desenho industrial DI 6402293-5, conforme documentos de fls. 334/344, que possui o mesmo recorte no salto. O DI 6402293-5 em nome da ré foi questionado administrativa e judicialmente pela autora. No INPI houve decisão pelo provimento da nulidade administrativa, esta utilizada como fundamento para a procedência da ação judicial na Justiça Federal do Rio de Janeiro. Porém, o Tribunal Regional Federal, na apelação cível AC/424529 reformou a decisão e julgou improcedente o pedido de nulidade .
+    Com relação ao DI 6302999-5, também não há qualquer evidência de contrafação apenas porque há semelhança entre o formato do salto e parte da lateral dos solados. No caso, aparentemente, o formato do salto utilizado e a lateral do calçado” (fls. 160/161).
+    Desse modo, verifica-se que o Tribunal de origem decidiu a lide com fundamento na legislação infraconstitucional e nos fatos e provas que compõe a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
