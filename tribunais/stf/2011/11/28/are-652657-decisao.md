@@ -1,0 +1,18 @@
+DECISÃO : Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja conclusão tem o seguinte teor (fls. 263 v.):
+    “Colhe-se do acórdão recorrido (fls. 212/215) ter o Colegiado de origem mantido a sentença que reconheceu a natureza salarial da gratificação (FCA), determinando a incorporação ao salário do reclamante, por força do disposto nos arts. 457, § 1º, e 468 da CLT.
+    Consignou o Regional que o reclamante recebe pagamento de gratificação em razão do exercício da função comissionada desde julho de 2007, conforme evidenciam a ficha financeira das fls. 50-70 e os registros funcionais do empregado, fls. 40-41, documentos juntados aos autos que regulamenta a concessão e pagamento da função comissionada para auxiliar (FCA).
+    Asseverou também que não há falar em violação ao princípio da legalidade (art. 5º, II, e 37, caput, ambos da CF), porquanto a prática da reclamada não se trata de mera infração administrativa. Tampouco há desrespeito ao interesse público, pois o trabalhador não pode responder pela má administração, consoante lhe assegura a legislação trabalhista, já que, no caso, a pretensão inicial tem amparo na legislação trabalhista, e a violação do princípio ocorreu, na verdade, quando esta restou descumprida pelo agravante.
+    Nesse contexto, não se vislumbra ofensa à literalidade do art. 468; ao contrário, o julgado com ele se harmoniza.
+    Quanto aos dispositivos constitucionais, estando a decisão amparada nos artigos 457, § 1º, e 468 da CLT, na norma GP/053, bem como na Súmula nº 51 desta Corte, descarta-se a indigitada ofensa aos arts. 5º, II, e 37, caput, pois tal violação, se houvesse, não seria direta, mas quando muito por via reflexa, insuscetível de pavimentar o acesso ao TST, a teor da alínea “c” do art. 896 da CLT.
+    Também não prospera a denúncia de contrariedade à Súmula nº 372, item I, porquanto a decisão não foi debatida à luz desse verbete sumular.
+    No que tange aos arestos trazidos à colação (fl. 220) não atendem aos requisitos da Súmula 296, I, desta Corte para a identificação da divergência com a decisão recorrida, na medida em que nenhum deles aborda as particularidades factuais do acórdão recorrido, ou seja, ter seguido pagamento da gratificação em desrespeito à norma interna da reclamada.
+    Do exposto, nego provimento ao agravo de instrumento.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXXV, LIV e LV, e 37, caput, da Constituição federal. Sustenta-se que houve negativa de prestação jurisdicional e que a gratificação de função não é incorporável ao salário.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos do art. 5º, XXXV, LIV e LV, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Quanto à controvérsia sobre a incorporação da gratificação de função, verifico que eventual ofensa a Constituição demandaria o exame prévio da legislação infraconstitucional e do regulamento do empregador, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide o óbice das Súmulas 454 e 636 desta Corte.
+    Do exposto, conheço do agravo para negar seguimento ao recurso (art. 544, § 4º, II, b, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
