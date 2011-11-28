@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa é do seguinte teor (fls. 108):
+    “APELAÇÃO CÍVEL. Indenização. Danos materiais e lucros cessantes no período investigado pericialmente, de janeiro de 1991 até a data da sentença. Agravo retido. Despacho saneador que indefere inclusão da União Federal no pólo passivo. Correta a decisão agravada, por inexistência de litisconsórcio necessário e pelo fato de competir à ré a prestação do serviço público de eletricidade. Responsabilidade da concessionária. Aplicação do artigo 37, § 6º da Constituição Federal. Responsabilidade objetiva. Ausência de causas excludentes da responsabilidade da apelante. Aplicação do Código de Defesa do Consumidor. Artigos 22 e 14 do CDC. Laudo pericial em apenso, em 3 (três) volumes. Perícia detalhada e aprofundada. Afundamento de tensão. Existência de conduta (prestação de serviço defeituoso), dano (repercussões negativas causadas no processo de produção da autora) e nexo de causalidade. Dever de indenizar inafastável. Correta a sentença monocrática. Improvimento do recurso.”
+    No recurso extraordinário, a ora agravante aponta violação do art. 37, § 6º, da Carta Magna. Sustenta, em síntese, que “no caso de relação contratual com obrigações para ambas as partes o grau de culpa de uma delas – no caso da ré – tem de ser avaliado segundo os termos do que ficou ajustado.” (fls. 117).
+    É o relatório. Decido.
+    A análise da suposta ofensa ao artigo supracitado da Constituição, do modo como formulado nas razões do extraordinário, demandaria o prévio exame do quadro fático-probatório e do contrato, o que é vedado no âmbito de cognição do recurso extraordinário, por força do disposto nas Súmulas 279 e 454.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
