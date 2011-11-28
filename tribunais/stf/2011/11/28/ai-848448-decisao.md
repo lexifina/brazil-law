@@ -1,0 +1,12 @@
+DECISÃO : Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto pela União (art. 102, III, a , da Constituição) de acórdão, prolatado pelo Tribunal Regional Federal da 4ª Região, que estabeleceu que a responsabilidade solidária da recorrente, quanto à devolução do empréstimo compulsório sobre energia elétrica da Lei 4.156/1962, não se restringe ao valor nominal dos débitos, estendendo-se, também, aos juros e correção monetária.
+    Nas razões do recurso extraordinário, a União alega ofensa ao disposto nos artigos 2º; 5º, II; 22, VI e 97, da Constituição Federal.
+    Não merece prosperar o recurso.
+    A análise da alegada afronta aos arts. 2º e 5º, II, da Carta Magna, demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional. Nesse sentido: RE 345.160-AgR (rel. min. Nelson Jobim, Segunda Turma, DJ de 29.11.2002), AI 602.530-AgR (rel. min. Ayres Britto, Primeira Turma, DJe de 06.08.2010) e AI 608.967-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJe de 10.08.2007).
+    Confirmando a orientação supra, o Supremo Tribunal Federal, no julgamento do AI 735.933-RG (rel. min. Gilmar Mendes, Plenário, DJe de 06.12.2010), recusou o recurso extraordinário ante a ausência de repercussão geral do tema, por não haver questão constitucional a ser dirimida. Eis a ementa do referido acórdão:
+    “Empréstimos compulsórios sobre o consumo de energia elétrica. Lei 4.156/62. Restituição. Critérios de correção monetária. Matéria restrita ao âmbito infraconstitucional. Repercussão geral rejeitada.”
+    Quanto à ofensa ao art. 97 da Constituição federal, o acórdão objurgado não exerceu o controle da compatibilidade vertical da lei em face da Constituição, mas deu, conforme seu juízo, uma interpretação consentânea com os princípios constitucionais. Pretender mudar essa exegese no âmbito do recurso extraordinário é incabível, pois é firme a orientação da Corte no sentido de que, quando a ofensa se irradia de má aplicação ou interpretação de norma infraconstitucional, não há afronta direta, mas reflexa à Constituição. No mesmo sentido, confiram-se os seguintes precedentes: AI 510.980 (rel. min. Eros Grau), AI 496.332 (rel. min. Cezar Peluso) e AI 498.225 (rel. min. Gilmar Mendes).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro Joaquim Barbosa
+Relator
