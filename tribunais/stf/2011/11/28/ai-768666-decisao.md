@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 232):
+    “MANDADO DE SEGURANÇA – FEBRABAN – Lei Municipal determinando segurança pessoal especializada em postos de serviço de auto-atendimento das instituições bancárias associadas da impetrante – Decadência com termo inicial no término do prazo para os bancos se adaptarem à lei – Art. 515, § 3º, do CPC – Tema de peculiar interesse – Nega-se provimento ao recurso e, por outro motivo, denega-se a segurança, prejudicada a medida cautelar inominada, cassada a liminar.”
+    No recurso extraordinário, o ora agravante alega ofensa ao disposto nos arts. 5º, caput e LIV; 21, VIII e XXVI; 22, I, VI e XVI; 30; 48, XIII; 144; e 192, todos da Constituição federal. Sustenta, em síntese, que o município não tem competência para legislar sobre segurança bancária.
+    No presente caso, o recurso extraordinário trata sobre tema análogo em que a repercussão geral foi reconhecida para reafirmar a jurisprudência dessa Corte. Confira o RE 610.221-RG (rel. min. Ellen Gracie, Plenário, DJe de 20.08.2010 – tema 272), cuja ementa transcrevo:
+    “DEFINIÇÃO DO TEMPO MÁXIMO DE ESPERA DE CLIENTES EM FILAS DE INSTITUIÇÕES BANCÁRIAS. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR. ASSUNTO DE INTERESSE LOCAL. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Destaque-se que o precedente tangenciou outras questões referentes aos serviços bancários, conforme se extrai da manifestação da relatora:
+    “Ambas as Turmas desta Corte firmaram o entendimento de que os municípios têm competência para legislar sobre assuntos de interesse local, tais como medidas que propiciem segurança, conforto e rapidez aos usuários de serviços bancários. Nesse sentido: AC 1.124-MC, rel. Min. Marco Aurélio, 1ª Turma, DJ 04.08.2006; AI 491.420-AgR, rel. Min. Cezar Peluso, 1ª Turma, DJ 24.03.2006; AI 709.974-AgR, rel. Min. Cármen Lucia, 1ª Turma, DJe 26.11.2009; RE 432.789, rel. Min. Eros Grau, 1ª Turma, DJ 07.10.2005; AI 347.717-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 05.08.2005; AI 747.245-AgR, rel. Min. Eros Grau, 2ª Turma, DJe 06.08.2009; AI 574.296, rel. Min. Gilmar Mendes, 2ª Turma, DJ 16.06.2006; RE 559.650, rel. Min. Carlos Britto, DJe 02.12.2009.” (Grifei.)
+    Desse entendimento, não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 28 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
