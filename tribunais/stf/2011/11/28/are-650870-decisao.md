@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição) contra acórdão que recorrido mantivera condenação da parte recorrente no pagamento de compensação do dano moral decorrente de publicação de matéria jornalistica ofensiva à honra da parte recorrida. Eis a ementa (899):
+    “APELAÇÃO CÍVEL – AÇÃO DE REPARAÇÃO DE DANOS MORAIS – PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO POR VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE – AFASTADA – AGRAVO RETIDO – LEGITIMIDADE PASSIVA AD CAUSAM DE PROPRIETÁRIO E DIRETORES DE VEÍCULO DE COMUNICAÇÃO – ORIENTAÇÃO EXTRAÍDA DA SÚMULA 221 DO SUPERIOR TRIBUNAL DE JUSTIÇA – AGRAVO IMPROVIDO – LIBERDADE DE INFORMAÇÃO JORNALÍSTICA – MATÉRIA VEICULADA QUE CRIA NA MENTE DO LEITOR UMA CERTEZA ACERCA DOS ATOS IMORAIS E CONDUTAS DELITUOSAS SUPOSTAMENTE PRATICADOS PELOS DEMANDANTES, SEM QUE SE TENHA CONHECIMENTO SE SÃO VERÍDICOS – ABUSO DO DIREITO DE INFORMAR – DANO MORAL CONFIGURADO – RECURSO IMPROVIDO.
+    Se nas recursais, o recorrente demonstra de maneira suficiente as razões de fato e de direito pelos quais entende que a sentença estaria equivocada, dando perfeitas condições para o juízo ad quem apreciar seu recurso, não há falar em violação ao princípio da dialeticidade.
+    Em sede de veiculação de notícia na imprensa que possa violar direito e causar dano a outrem, todos aqueles que concorrerem para a prática do ato, incluindo o proprietário do veículo de comunicação, são partes legítimas para integrar o polo passivo de ação de responsabilidade civil ajuizada pelo ofendido – inteligência da Súmula 221 do STJ.
+    A liberdade de imprensa não é um direito absoluto, de modo que, em caso de abuso do direito de informar, com manifesto desrespeito à honra de terceiros, tal ato é passível de análise pelo Poder Judiciário, com a consequente responsabilização cível e criminal de seu autor ou autores, pois, não obstante a função extremamente relevante desempenhada pela imprensa, o constituinte originário não estabeleceu no Texto Constitucional uma imunidade aos profissionais ligados a essa área.
+    A veiculação de matéria jornalística que cria na mente do leitor uma certeza acerca de fatos que não se tem conhecimento se são verdadeiros e que possuem extrema gravidade, envolvendo a parte autora em atos imorais e em condutas delituosas, caracteriza abuso no exercício da liberdade de informação, passível de indenização por dano moral.”
+    Alega a parte recorrente vulneração dos artigos 5º, IV, IX, XIV e 220, §§ 1º, 2º e 6º, da Constituição federal.
+    Não prospera o recurso.
+    A análise das supostas afrontas à Constituição demandaria avaliação do contexto fático-probatório que orientou a decisão impugnada, circunstância que inviabiliza o recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se. Int..
+    Brasília, 28 de novembro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
