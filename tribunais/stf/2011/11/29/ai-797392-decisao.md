@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão denegatória de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 659):
+    “RESPONSABILIDADE CIVIL. ADVOGADO E LITIGANTE. EXERCÍCIO REGULAR DO DIREITO DE DEFESA. ABUSO DE DIREITO. OCORRÊNCIA. DANOS MORAIS. EXISTÊNCIA.
+    O advogado e seu cliente devem guardar certos limites no exercício do direito de defesa. Havendo abuso, comete-se ato ilícito. Existindo dano, mesmo que exclusivamente moral, e nexo de causalidade, estão presentes os pressupostos para a responsabilidade civil. Peculiaridades do caso concreto.
+    APELO DO AUTOR PROVIDO. PREJUDICADOS OS DOS RÉUS”.
+    2. Pois bem, a parte recorrente alega violão ao inciso X do art. 5º e ao art. 133 da Magna Carta de 1988. Sustenta que “o presente recurso visa demonstrar que aqueles fatos incontroversos de forma alguma constituíram conduta contrária ao direito por parte dos recorrentes, pois o seu agir estava amparado na lei” (sic, fls. 960).
+    3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o revolvimento do conjunto fático-probatório dos autos. Providência vedada nesse momento processual, conforme a Súmula 279/STF. Leia-se, por esclarecedor, o seguinte trecho do acórdão (fls. 663-verso):
+    “Ao contrário do que foi afirmado na sentença proferida, no caso dos autos, parece que houve, sim, abuso no exercício do direito de defesa. Nada importa que a petição tenha sido firmada apenas por Rafael Bicca Machado, pois inegável que a demanda em questão foi patrocinada pela sociedade de advogados formada também pelo autor, o que se constata por meio do timbre desta sociedade existente na petição inicial e na própria procuração outorgada pelo cliente.
+    O que realmente interessa é a simples constatação de que o réu poderia ter suscitado exatamente a mesma defesa sem ter utilizado qualquer expressão pejorativa, ou seja, poderia razoavelmente argüir a ausência de interesse processual, em razão do advogado patrocinador daquela causa conhecedor os procedimentos administrativos para a troca de produtos com defeito, sem a elaboração de frases como as que se seguem:
+    […]
+    O que se retira destes autos é uma verdadeira sucessão de ataques entre as partes. Certo é que não cabe, nesse momento, avaliar se o autor e seus sócios agiram de modo ético, tarefa que é de competência exclusiva da Ordem dos Advogados do Brasil (Lei nº 8.906/94, art. 44, II, c/c art. 70). Importa aqui, a constatação de que o réu Domingos Fernando Refinetti, sócio da requerida Machado, Meyer, Sebdacz e Ópice Advogados, ao que parece, resolveu contra-atacar, agredindo com palavras totalmente desnecessárias para sua defesa, acusando o autor de condutas anti-éticas. Ultrapassou os limites da inviolabilidade garantida ao advogado no exercício de sua profissão. Abusou do direito de defesa [...]”.
+    6. Nesse mesmo sentido, vejam-se o AI 674.825, da relatoria do ministro Sepúlveda Pertence; e o RE 567.573, da minha relatoria.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
