@@ -1,0 +1,22 @@
+DECISÃO: No presente habeas corpus, a defesa requer a concessão da ordem a fim de que seja fixado o regime inicial aberto para o cumprimento de pena.
+    Na espécie, o paciente, preso em flagrante no dia 11 de fevereiro de 2010, foi denunciado pela suposta prática do crime previsto no art. 33 da Lei 11.343/2006, pois traria consigo certa quantidade de droga destinada a consumo de terceiros.
+    Finda a instrução, foi condenado à pena de 1 anos e 8 meses de reclusão, em regime inicial fechado, bem como ao pagamento de 166 dias-multa, tendo-lhe sido negado o direito de recorrer em liberdade.
+    Concomitantemente à interposição da apelação, a Defensoria Pública impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, objetivando a correção do regime inicial de cumprimento de pena, tendo a ordem sido denegada.
+    Por reputar flagrante constrangimento ilegal, a defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, destacando a necessidade e urgência da concessão da liminar, ao argumento de que, considerada a data da prisão e a pena fixada na sentença, o paciente já teria cumprido integralmente a sanção em regime inadequado quando da análise do mérito da apelação. A liminar foi indeferida pelo Ministro OG Fernandes.
+    Daí o presente habeas corpus perante este STF.
+    Em 1º de agosto de 2011, não obstante reputar que os dados colacionados à inicial causassem, de início, perplexidade, indeferi o pedido de liminar, em razão de o habeas encontrar-se mal instruído.
+    Diante dessa decisão, constatando o equívoco na correta formação do writ, em 17 de agosto de 2011, a Defensoria Pública do Estado de São Paulo peticionou no sentido de colacionar ao feito os documentos necessários à análise da liminar.
+    Diante da documentação apresentada, em 12 de setembro de 2011, superei a restrição prevista na Súmula 691 STF, a fim de deferir o pedido de liminar, para sustar os efeitos a sentença até o julgamento final deste writ.
+    Passo a decidir.
+    Deveras, em sessão realizada em 1º.9.2010, o Plenário desta Suprema Corte, ao analisar o HC n. 97.256/RS, de relatoria do Min. Ayres Britto, por maioria, declarou, incidenter tantum, a inconstitucionalidade da expressão “vedada a conversão em penas restritivas de direitos”, constante do § 4º do art. 33 da Lei n. 11.343/2006, e da expressão “vedada a conversão de suas penas em restritivas de direitos”, contida no referido art. 44 do mesmo diploma legal.
+    Dessarte, ante a declaração incidental de inconstitucionalidade da expressão “vedada a conversão em penas restritivas de direitos”, constante do § 4º do art. 33 da Lei n. 11.343/2006, e da expressão “vedada a conversão de suas penas em restritivas de direitos”, contida no referido art. 44 do mesmo diploma legal, deve ser reconhecida, diante da avaliação do caso concreto, a possibilidade da concessão do benefício da substituição da pena, segundo os requisitos do art. 44 do Código Penal.
+    Por outro lado, destaco que a Segunda Turma deste Supremo Tribunal Federal, em recentes julgados, teve o ensejo de permitir aos magistrados de primeiro grau, diante da análise do caso concreto, deliberar sobre a fixação do regime inicial de cumprimento de pena aos condenados por tráfico de drogas, nos termos do que previsto no art. 33 do CP, a despeito do quanto disposto no art. 2º, § 1º, da Lei 8.072/90, com a redação dada pela Lei 11.464/2007, que dispõe que os condenados por crimes hediondos, pela prática da tortura, por tráfico ilícito de entorpecentes e drogas afins e por terrorismo cumprirão a pena em regime inicialmente fechado. À guisa de exemplo, cito os seguintes precedentes: HC 106.135/MG, HC 106.313/MG e HC 108.264/ES, todos de minha relatoria.
+    Não obstante esses precedentes, das informações prestadas pelo Tribunal de Justiça do Estado de São Paulo, colho que o paciente progrediu para o regime semiaberto em 14 de fevereiro de 2011, tendo, por fim, em 29 de junho de 2011, progredido para o regime aberto.
+    Considerando que o paciente já se encontra no regime aberto, não há qualquer consequência jurídica a ser reconhecida, carecendo a impetração de interesse de agir.
+    Assim sendo, julgo prejudicado o presente habeas corpus e, por conseguinte, torno sem efeito a medida cautelar anteriormente concedida.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 29 de novembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
