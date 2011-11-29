@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja ementa tem o seguinte teor:
+    “MANDADO DE SEGURANÇA. APOSENTADORIA. CONTAGEM DE TEMPO DE SERVIÇO PRESTADO EM EMPRESA PÚBLICA TRANSFORMADA EM AUTARQUIA – ADMINISTRAÇÃO INDIRETA. PREVISÃO NA LEI Nº 6.486/93. POSSIBILIDADE. INCORPORAÇÃO DE VANTAGEM DENOMINADA QUINTOS. DIREITO ADQUIRIDO.
+    Percebe-se dos autos que o impetrante incorporou a vantagem pecuniária em questão, à luz da Lei nº 6.486, de 05 de outubro de 1993, que transformou a EMATER em autarquia, não havendo, portanto, que se falar na interpretação restritiva do § 4º, do art. 28, da CE, que dispõe sobre a vantagem denominada quintos, em relação ao mesmo, já que perde sentido a alegação de que ele seria ocupante de cargo em empresa pública, posto que com tal transformação, o impetrante passou a ser ocupante de cargo em autarquia, ou seja, órgão integrante da administração indireta.
+    Ademais, o inciso I, do art. 7º, da lei transformadora, assegurou aos empregados todos os direitos adquiridos, inclusive a contagem de tempo de serviço. De modo que, com a conjugação dos dispositivos citados, resta assegurado o direito do impetrante de computar o tempo de serviço em questão e, via de conseqüência, a mantença da incorporação da vantagem dos quintos, já incorporada no seu patrimônio.
+    Concessão da segurança.” (Fls. 245)
+    O recorrente alega violação aos arts. 5º, XXXV; 93, IX; 102, III, § 2º; e 173, § 1º, da Constituição Federal.
+    O recurso extraordinário, alegando que o acórdão recorrido ofende o preceito do art. 102, III, § 2º, da Constituição, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ademais, o Tribunal a quo reconheceu o direito de servidor público estadual perceber a vantagem denominada quintos com base na interpretação da Lei estadual 6.486/1993. A análise da suposta violação aos apontados dispositivos constitucionais demandaria o prévio exame de legislações locais, o que inviabiliza a abertura da via extraordinária ante o óbice da Súmula 280/STF. Nesse sentido: RE 526.808 (rel. min. Ricardo Lewandowski, DJe de 18.02.2010).
+    Por outro lado, inexiste a alegada afronta aos arts. 5º, XXXV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora recorrente.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de novembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
