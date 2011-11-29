@@ -1,0 +1,13 @@
+Decisão: vistos, etc.
+    Trata-se de mandado de segurança, aparelhado com pedido de medida liminar, impetrado por Viviane Carvalho Morais Cardoso contra ato do Conselho Nacional de Justiça. Pedido de medida liminar “para o fim de suspender os efeitos do ato coator, consubstanciado na decisão proferida no PCA 200710000007238 (…) e, por aspecto e conseqüência, determinar que o TJ/GO mantenha suspensos, até o julgamento final da presente impetração, todos os concursos para ingresso e remoção na atividade notarial e de registro e, trâmite no Estado de Goiás, bem como quaisquer atos que resultem na realização ou conclusão de certames dessa espécie.”
+    2. Pois bem, antes de analisar o pedido de medida liminar, solicitei informações à autoridade apontada como coatora. Informações que foram prestadas mediante a Petição nº 73.181/2008.
+    3. Feito esse aligeirado relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo delibatório em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional ( periculum in mora) , perceptíveis de plano. Requisitos a ser aferidos primo oculi , portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, tenho por ausentes os requisitos para a concessão da liminar. Começo por dizer que não vislumbro perigo da demora na prestação jurisdicional. Isso diante do já alongado período de tempo desde a impetração do mandamus. Ademais, em pesquisa ao sítio eletrônico do Tribunal de Justiça do Estado de Goiás, verifiquei que o concurso para ingresso na atividade notarial que se pretende suspender já se encontra obstado por decisão da Ministra Ellen Gracie no MS 28.375. O que reforça a conclusão de ausência de risco iminente de prejuízo irreparável para a impetrante.
+    5. Ante o exposto, indefiro o pedido de medida liminar, sem prejuízo de u’a mais detida análise quando do julgamento do mérito.
+    6. Oficie-se ao Advogado-Geral da União para que a pessoa jurídica interessada, querendo, ingresse no processo, na qualidade de litisconsorte passivo.
+    7. Encaminhe-se o processo ao Procurador-Geral da República.
+    8. Intime-se o Advogado-Geral da União desta decisão.
+    Brasília, 29 de novembro de 2011.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
