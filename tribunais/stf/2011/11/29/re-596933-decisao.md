@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça.
+    2. Da leitura dos autos, observo que instância judicante de origem desproveu recurso ordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, que, em sede de mandado de segurança, manteve ordem de sequestro de rendas públicas do Município de Mauá/SP.
+    3. No que interessa ao deslinde da controvérsia sob exame, anoto que o STJ adotou os seguintes fundamentos: a) a discussão quanto à titularidade do crédito ficou postergada para o momento do levantamento da quantia depositada, logo o seqüestro requerido apenas por um dos beneficiários nada tem de ilegal; b) houve manifesta inovação da lide quando o Município recorrente sustentou, nas suas razões de recurso ordinário, a impossibilidade de seqüestro da quantia necessária à satisfação integral do débito, sob pena de violação da ordem cronológica de apresentação dos precatórios; c) manteve a decisão do Tribunal paulista, que, no tocante à pretendida compensação, assentou: "No mais, quanto ao indicado interesse fiscal, o momento é inadequado para se viabilizar eventual compensação de créditos. Primeiro, porque não se sabe qual é a parte cabente da requerente do seqüestro Indústria de Cerâmica Cerqueira Leite S/A; segundo, porque ultrapassada a competência da nobre Presidência do Tribunal de Justiça a análise de pedido desse jaez. O foro de discussão pretendido pelo impetrante, com efeito, é inadequado, impondo-se, à saciedade, a denegação da ordem".
+    4. Pois bem, a parte recorrente sustenta violação ao inciso LIV do art. 5º e ao caput do art. 100 da Magna Carta de 1988. Aduz, ainda, ofensa ao § 2º do art. 78 do ADCT.
+    5. Tenho que a insurgência não merece acolhida. É que, para chegar à conclusão pretendida pela parte recorrente, seriam necessários o reexame da legislação infraconstitucional pertinente e a análise do conjunto fático-probatório dos autos (Súmula 279/STF), providências vedadas neste momento processual.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
