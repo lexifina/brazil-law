@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário contra acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fl. 195):
+    “1. Apelação em face de sentença que julgou improcedente pedido de nulidade de auto de infração lavrado pelo IMETRO, em razão de comercialização de produtos (alimentos) com indicação de peso com erro para menos, em limite superior ao tolerado.
+    2. O art. 5º, da Lei nº 5.966/73, permite ao Instituto Nacional de Metrologia, Normatização de atividade de sua competência, exceto as de metrologia legal.
+    3. A autuação da apelante se deu com irrestrita observância das normas legais em vigor e está fundamentada no Laudo de Exame da amostra do produto, com registro de erro relativo, para menos, superior ao legalmente estabelecido no art. 1º, da Portaria INMETRO 02/82.
+    4. Precedente deste Eg. TRF (AC 93.02.02853-4). 5. Apelação a que se nega provimento”.
+     No apelo extremo, interposto com fundamento na alínea “a” do permissivo constitucional (fls. 218-227), a recorrente sustenta que a portaria na qual se baseia sua autuação viola o princípio da legalidade. Sustenta, ainda, que suposta irregularidade não teria sido praticada com dolo e que o ato administrativo praticado pelo IMETRO encontra-se desmotivado.
+    Contrarrazões às fls. 235-241.
+    Inicialmente, O Tribunal a quo não admitiu o recurso extraordinário, ao fundamento de estar configurada ofensa meramente reflexa à Constituição Federal (FL. 243), o que ensejou a interposição de agravo de instrumento.
+    Às fls. 249, determinei a subida do recurso extraordinário para melhor apreciação da matéria.
+    É o relatório.
+    Não assiste razão à agravante.
+     O Tribunal de origem decidiu a controvérsia exclusivamente com base na Lei 5.966/73 e na Portaria INMETRO 02/1982. Concluir de forma diversa demandaria a análise prévia das mencionadas normas.
+    Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário, nos termos do Verbete 280 da Súmula de Jurisprudência do STF. Nesse sentido, confira-se o AI-AgR 817.264/RJ, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.3.2011, com acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. INMETRO. APLICAÇÃO DE PENALIDADE. LEI 5.966/73. DÉBITO NÃO TRIBUTÁRIO. ALEGADA NULIDADE DA CDA ANTE A CONTRARIEDADE AOS ARTS. 5º, II, XXXVI, LV, 93, IX, IX, E X, E 150, I, DA CF. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – A apreciação dos temas constitucionais, no caso, depende do prévio exame da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor e Lei 5.966/73). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – A alegada violação aos postulados constitucionais do devido processo legal, ampla defesa e contraditório, quando dependentes de exame de legislação infraconstitucional, configurariam, em regra, ofensa constitucional indireta. Precedentes. III - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.. Precedentes. IV - Agravo regimental improvido”.
+    Ademais, a controvérsia, tal como posta, possui manifesta índole infraconstitucional, o que inviabiliza seu acesso à via extraordinária, por força de óbice consubstanciado na inteligência do Enunciado 636 da Súmula desta Suprema Corte. Nesse sentido, destaca-se o RE-AgR 410.484/PR, Rel. Min. Ellen Gracie, DJ 3.2.2006, Segunda Turma, em caso análogo, assim ementado:
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INMETRO. LEI 5.966/73. PORTARIAS. MATÉRIA INFRACONSTITUCIONAL. 1. Cotejo entre a Lei 5.966/73 e suas portarias regulamentadoras. Questão de legalidade. Incidência da Súmula STF nº 636. 2. Agravo regimental improvido”.
+    No que diz respeito à alegação de ausência de dolo na alteração do peso do produto comercializado, o Tribunal a quo – ao analisar o acervo probatório – concluiu que a ora recorrente não logou demonstrar qualquer excludente de responsabilidade, ou seja, não elidiu a presunção de legitimidade da multa por meio de prova de que a alteração no peso deu-se por obra de eventual manuseio de consumidores ou por conta da refrigeração. É o que se extrai do seguinte trecho do acórdão recorrido:
+    “Por outro lado, os incidentes que porventura ocorrem, causando diminuição de peso, são de inteira responsabilidade da empresa autuada (apelante), porquanto é seu dever responder pela quantidade indicada no envoltório da mercadoria, até sua aquisição pelo consumidor. Se o produto está sujeito a perda de peso, o risco não pode ser assumido pelo consumidor, que em nada contribuiu para essa perda”.
+    Portanto, incide no caso concreto o óbice da Súmula 279, que obsta a análise de fatos e provas em sede de recurso extraordinário.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF
+    e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 30 de novembro de 2011.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
