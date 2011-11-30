@@ -1,0 +1,52 @@
+DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se sustenta que o ato judicial ora questionado - emanado do E. Tribunal de Justiça do Estado de São Paulo - teria desrespeitado o enunciado constante da Súmula Vinculante nº 17/STF, que possui o seguinte teor:
+    “Durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.” (grifei)
+            O Município Estância Balneária de Praia Grande, para justificar a alegação de desrespeito ao referido enunciado vinculante, sustenta, em síntese, o que se segue:
+    “Vale-se o Município Estância Balneária de Praia Grande  do presente instrumento para preservar autoridade de decisão desta Suprema Corte, cuja violação traz prejuízo  ao erário e, portanto, à coletividade. Trata-se da não obediência, pelo acórdão da 6ª Câmara de Direito Público do TJ/SP, prolatado no A.I. n. 990.10.063267-1, Relator o Desembargador Evaristo dos Santos, à Súmula Vinculante n. 17.
+    O acórdão supra referido, do TJ/SP, negou provimento a Agravo de Instrumento interposto pela Municipalidade (em ação ordinária de indenização por apossamento administrativo - desapropriação indireta), e terminou por manter a decisão que indeferiu a exclusão dos juros, moratórios e compensatórios, da quitação do precatório.
+    Observa-se, por oportuno, que o mencionado acórdão, datado de 22.03.10 e publicado em 15.04.10, sendo posterior a Súmula Vinculante n. 17, aprovada por este Supremo Tribunal Federal em Sessão Plenária de 29.10.09 e publicada em 10.11.09, devia-lhe obediência.
+    Contudo, do teor da decisão em questão verifica-se não ter a mesma respeitado a citada súmula (n. 17), violando, assim, a autoridade de decisão deste Tribunal.
+    De fato, a 'mens legis' do art. 78 do ADCT é a mesma do art. 33 do mesmo Ato, pois, embora não se confundam, têm as mesmas origem e finalidade, não havendo motivo para se conferir interpretação diversa.
+    A não incidência de juros moratórios e compensatórios durante o parcelamento constitucional, desde que as parcelas sejam pagas na integralidade e no prazo determinado, é matéria já pacificada neste Supremo Tribunal Federal, como se pode observar nos seguintes precedentes: RE 585.787-SP, Rel. Min. Ricardo Lewandowski; RE 402.892-SP, Rel. Min. Sepúlveda Pertence; RE 471.122-SP, Rel. Min. Dias Toffoli; AI 643.732-SP-AgR, Rel. Min. Cármen Lúcia; RE 438.172-SP-AgR, Rel. Min. Carlos Velloso; RE  421.616-SP-AgR, Rel. Min. Ricardo Lewandowski; RE 396.389-SP, Rel. Min. Gilmar Mendes; RE 439.501-SP e RE 459.574-SP, Rel. Min. Eros Grau.
+    Conforme se pode verificar nos precedentes acima mencionados, a incidência de juros legais, nos termos do artigo 78 do ADCT, somente ocorre para a consolidação do valor do débito, até a data de início de vigência da Emenda Constitucional nº 30, e não no decorrer do parcelamento constitucional, quando efetuado o pagamento no 'quantum' e prazo devidos.” (grifei)
+           Impende observar, considerados os elementos contidos nestes autos, que o ato objeto da presente reclamação não desrespeitou a autoridade da Súmula Vinculante nº 17/STF.
+           É que os fundamentos que dão suporte à decisão ora impugnada revelam-se absolutamente estranhos às razões subjacentes ao paradigma de confronto invocado pela parte ora reclamante.
+           Com efeito, a decisão ora reclamada, proferida pelo E. Tribunal de Justiça do Estado de São Paulo, restou consubstanciada em acórdão assim ementado:
+    “EXECUÇÃO CONTRA A FAZENDA
+    Cabível a fluência dos juros moratórios e compensatórios, uma vez que o art. 33 do ADCT, como norma provisória que é, não possui hierarquia para se sobrepor às normas constitucionais permanentes, que encerram princípios como da justa indenização e da coisa julgada.
+    Recurso não provido.” (grifei)
+           Vê-se, daí, que o ato ora impugnado não pode ser qualificado como transgressor da autoridade da Súmula Vinculante que a parte reclamante invoca como referência paradigmática, eis que os fundamentos em que se apoiou são estranhos à própria “ratio decidendi” subjacente à Súmula Vinculante nº 17/STF.
+           Esse fato - incoincidência dos fundamentos - inviabiliza o próprio conhecimento da presente reclamação pelo Supremo Tribunal Federal.
+           É que as razões de decidir invocadas no ato judicial questionado revelam-se substancialmente diversas daquelas que deram suporte à Súmula Vinculante nº 17/STF (que se refere ao “período previsto no parágrafo 1º do artigo 100 da Constituição”, na sua redação original), o que basta para afastar, por inocorrente, a alegação de desrespeito à autoridade daquele pronunciamento sumular do Supremo Tribunal Federal, inviabilizando-se, desse modo, o acesso à via reclamatória.
+           É importante ressaltar, nos casos em que se sustenta desrespeito à autoridade de decisão ou de enunciado sumular vinculante do Supremo Tribunal Federal, que os atos questionados na reclamação, considerado o respectivo contexto, hão de se ajustar, com exatidão e pertinência, à Súmula Vinculante desta Suprema Corte invocada como paradigma de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada com o parâmetro de controle emanado deste Tribunal.
+           Vale transcrever, por relevante, trecho de decisão proferida pelo eminente Ministro DIAS TOFFOLI, na Rcl 11.840/SP - ajuizada pela própria parte ora reclamante -, na qual se analisou matéria idêntica à que se examina nesta sede processual:
+    “Observe que a redação do enunciado de Súmula Vinculante nº 17, reflete a jurisprudência consolidada do STF, de acordo com os precedentes que lhe deram origem, nos quais se discutiu, especificamente, a incidência dos juros no período previsto no art. 100, § 1º, da Constituição Federal.
+    A matéria em discussão na decisão reclamada não se adequa ao enunciado de súmula vinculante acima aludido. O caso dos autos discute a aplicação de juros de mora no período do parcelamento previsto no art. 78 do ADCT.
+    .......................................................
+    Não existindo pertinência temática entre a decisão reclamada e a Súmula Vinculante nº 17, mostra-se inadequada a utilização da via da reclamação constitucional, conforme item 1 do capítulo II desta decisão.
+    O autor pretende, em verdade, a revisão de decisão do e. TJSP no Agravo de Instrumento nº 0537554- -63.2010.8.26.0000, contra a qual, segundo alegativa do reclamante na peça vestibular, pende recurso extraordinário.
+    .......................................................
+    Não pode o autor valer-se da via excepcional da reclamação constitucional para se furtar a submeter ao trâmite do recurso adequado colocado à sua disposição, ainda quanto à incidência da sistemática de repercussão geral da tese que informa a decisão tomada nos autos originários.” (grifei)
+           Cumpre destacar, finalmente, um outro aspecto, que, assinalado em sucessivas decisões desta Corte, afasta a possibilidade jurídico-processual de emprego da reclamação, notadamente naqueles casos em que a parte reclamante busca a revisão de certo ato decisório, por entendê-lo, p. ex., incompatível com a jurisprudência do Supremo Tribunal Federal.
+           É que, considerada a ausência, na espécie, dos pressupostos que poderiam legitimar o ajuizamento da reclamação, este remédio constitucional não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto desta Suprema Corte.
+           Com efeito, tal como já referido, a reclamação - constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, “l”, da Carta Política (RTJ 134/1033) - não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual, consoante adverte a jurisprudência do Supremo Tribunal Federal:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. RECLAMAÇÃO: NÃO É SUCEDÂNEO DE RECURSO OU DE AÇÃO RESCISÓRIA.
+    I. - A reclamação não pode ser utilizada como sucedâneo de recurso ou de ação rescisória.
+    II. - Reclamação não conhecida.”
+(RTJ 168/718, Rel. Min. CARLOS VELLOSO, Pleno - grifei)
+    “Não cabe reclamação destinada a invalidar decisão de outro Tribunal, que haja porventura divergido da jurisprudência do Supremo Tribunal, firmada no julgamento de causa diferente, mesmo em se tratando de controvérsias de porte constitucional.
+    Também não é a reclamação instrumento idôneo de uniformização de jurisprudência, tampouco sucedâneo de recurso ou rescisória, não utilizados tempestivamente pelas partes.”
+(Rcl 724-AgR/ES, Rel. Min. OCTAVIO GALLOTTI, Pleno - grifei)
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO. AFRONTA À DECISÃO PROFERIDA NA ADI 1662-SP. INEXISTÊNCIA. AUSÊNCIA DE IDENTIDADE OU SIMILITUDE DE OBJETOS ENTRE O ATO IMPUGNADO E A EXEGESE DADA PELO TRIBUNAL.
+    .......................................................
+    A questão da responsabilidade do Estado pelas dívidas da instituição financeira estatal revela tema afeto ao processo de execução que tramita na Justiça do Trabalho, não guardando pertinência com o objeto da presente ação. A reclamação não pode servir de sucedâneo de outros recursos ou ações cabíveis.”
+(Rcl 1.852-AgR/RN, Rel. Min. MAURÍCIO CORRÊA - grifei)
+    “O despacho acoimado de ofender a autoridade da decisão do Supremo Tribunal Federal negou seguimento, por razões processuais suficientes, ao recurso ordinário interposto contra acórdão em mandado de segurança. Por esse fundamento não é cabível reclamação, eis que a decisão da Corte Maior não cuida da matéria.
+    .......................................................
+    A reclamação não pode servir de sucedâneo de recursos e ações cabíveis, como decidiu esse Plenário nas Rcl Ag.Rg 1852, relator Maurício Correa e Rcl Ag.Rg. 724, rel. Min. Octávio Gallotti. (...).”
+(Rcl 1.591/RN, Rel. Min. ELLEN GRACIE - grifei)
+           Sendo assim, e pelas razões expostas, não conheço, por inadmissível, da presente reclamação, julgando prejudicado, em conseqüência, o exame do pedido de medida cautelar.
+           Arquivem-se os presentes autos.
+           Publique-se.
+           Brasília, 30 de novembro de 2011.
+Ministro CELSO DE MELLO
+Relator
