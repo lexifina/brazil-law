@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Rose Mary Fernandes da Costa em face da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, cuja decisão teria contrariado o entendimento firmado na súmula vinculante nº 20.
+    Na peça vestibular, a reclamante alega que:
+    a) na qualidade de pensionista de servidor público civil federal, ajuizou ação no Juizado Especial Federal para receber o valor referente à Gratificação de Desempenho Técnico-Administrativa – GDTA, conforme pontuação de servidor em atividade;
+    b) foi proferida decisão, por que se condenou o IBAMA ao pagamento da GDTA, observada a prescrição quinquenal, no correspondente a: fevereiro a maio de 2002 – 37,5 potos; junho de 2002 a outubro de 2004 – 30 pontos; e maio de 200 a outubro de 2004 – 60 pontos;
+    c) opostos embargos declaratórios, deu-se “parcial provimento ao recurso para ‘adequar a pontuação à forma do RE 476279/DF, devendo a GDATA ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002, 10 (dez) pontos de junho de 2002 a abril de 2004, 30 (trinta) pontos de maio a 15 de julho de 2004 e 60 (sessenta pontos) de 16 de julho de 2004 até que seja instituída nova disciplina para a aferição de avaliação de desempenho individual e institucional, observando-se a prescrição qüinqüenal, mantendo-se, no mais, a sentença recorrida.’”;
+    d) opostos novos aclaratórios, a fim de adequar a decisão ao teor da Súmula Vinculante nº 20, a pretensão não foi atendida, mantendo-se “um quarto período compreendido entre maio e 15 de julho de 2004 com pontuação de 30 (trinta) pontos (e não a devida correspondente a 60 pontos), conforme fixado pelo Supremo Tribunal Federal”;
+    e) “não tendo a decisão produzido efeitos de imutabilidade em razão da coisa julgada, perfeitamente cabível a oposição dos embargos de declaração de fls. 196/205, uma vez que em se tratando de Súmula Vinculante, ainda sendo cabível recursos na mesma relação jurídica processual, não pode haver julgamento diverso conteúdo obrigatória, por se tratar de matéria de ordem pública que pode ser argüida, nas instâncias ordinárias, a qualquer tempo e grau de jurisdição, para fazer incidir o entendimento pacificado pelo Supremo Tribunal Federal com efeitos vinculantes nos termos da Lei nº 11.417/2006”
+    f) requer seja deferida a liminar de forma a suspender os efeitos da decisão reclamada;
+    g) a reclamação deve ser julgada procedente para “cassar as decisões contrárias ao entendimento contido no enunciado da Súmula Vinculante nº 20 do STF e para declará-las nulas, determinando que outras sejam proferidas com a correta aplicação da referida súmula vinculante”.
+    A autora postula o benefício da justiça gratuita.
+    É o relatório.
+    A reclamante juntou cópia do inteiro teor do Processo nº 2007.51.51.078415-3/02, por que comprova a interposição de pedido de uniformização de interpretação de lei federal (art. 14 da Lei nº 10.259/2001), pendente de julgamento, o que afasta a incidência da Súmula nº 734/STF.
+    O que se discute na presente reclamação é a pontuação para cálculo dos valores devidos a título de Gratificação de Desempenho Técnico-Administrativa – GDATA a pensionista de servidor inativo. A reclamante sustenta que ao instituir 30 (trinta) pontos para o período “de maio a 15 de julho de 2004”, a autoridade reclamada negou eficácia à Súmula Vinculante nº 20, que para o referido período previu a incidência de 60 (sessenta) pontos.
+    A súmula vinculante nº 20 do STF possui a seguinte redação:
+    “A Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA, instituída pela Lei nº 10.404/2002, deve ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da Lei nº 10.404/2002, no período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o artigo 1º da Medida Provisória nº 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos”.
+    Na decisão proferida no RE nº 525.180/DF, o Ministro Gilmar Mendes, aplicando o entendimento firmado pelo Plenário desta Suprema Corte no RE nº 476.279/DF (que fundamentou a edição da aludida súmula vinculante), expôs claramente os períodos aludidos no precedente e a pontuação que deverá ser aplicada em cada um deles. Transcrevo:
+    “1) 37,5 pontos, nos termos do art. 6º da Lei 10.404, de 2002, no período de fevereiro a maio de 2002;
+    2) 10 pontos, conforme art. 5 o , II, da citada lei, no período de junho de 2002 a abril de 2004;
+    3) 60 pontos, nos termos do art. 1 o da Lei 10.971, de 2004, a partir de maio de 2004 até que seja instituída nova disciplina para aferição de avaliação de desempenho individual e institucional, e sejam concluídos os efeitos do último ciclo de avaliação” (RE nº 525.180/DF, Relator o Ministro Gilmar Mendes, decisão monocrática, DJ de 12/6/2007).
+    O acórdão em que sustentado entendimento contrário à eficácia da Súmula Vinculante nº 20 está assim fundamentado:
+    “(...) os valores da GDATA devidos aos inativos e pensionistas estão indicados no RE 476279/DF, cuja cópia da ementa se transcreve a seguir: “Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA - instituída pela L. 10.404/2002: extensão a inativos: pontuação variável conforme a sucessão de leis regentes da vantagem. RE conhecido e provido, em parte, para que a GDATA seja deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002 e nos termos do art. 5º, parágrafo único, da L. 10.404/2002, para o período de junho de 2002 até a conclusão dos efeitos do último ciclo de avaliação a que se refere o art. 1º da MPv. 198/2004, a partir da qual passa a ser de 60 (sessenta) pontos.” (RE 476279/DF, rel. Min. Sepúlveda Pertence, 19.4.2007).
+    Assim, a pontuação a ser observada deve ser a seguinte:
+    a) de fevereiro a maio de 2002 – cômputo dos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos;
+    b) de junho de 2002 a abril de 2004 – cômputo dos valores correspondentes a 10 (dez) pontos;
+    c) de maio a 15 de julho de 2004 – cômputo dos valores correspondentes a 30 (trinta) pontos;
+    d) a partir de 16 de julho de 2004 até que seja instituída nova disciplina para a aferição de avaliação de desempenho individual e institucional – cômputo dos valores correspondentes a 60 (sessenta) pontos”.
+    Há plausibilidade na tese jurídica defendida pela reclamante no sentido de que, ao incluir um quarto período (“de maio a 15 de julho de 2004”), a decisão reclamada afrontou o paradigma invocado, que fixou uma pontuação única a partir de maio de 2004, qual seja, a de 60 pontos.
+    Ante o exposto, e reservada nova apreciação do quadro uma vez apresentadas as informações pela autoridade reclamada e colhida a manifestação do Ministério Público Federal, defiro o pedido liminar para suspender os efeitos da decisão reclamada.
+    Solicitem-se informações à autoridade reclamada.
+    Com ou sem informações, vista à douta Procuradoria-Geral da República para manifestação como custos legis.
+    Publique-se.
+    Brasília, 30 de novembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
