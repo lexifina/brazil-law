@@ -1,0 +1,12 @@
+DECISÃO
+CONFLITO DE COMPETÊNCIA – JUÍZO DE DIREITO E SUPERIOR TRIBUNAL DE JUSTIÇA – INADMISSIBILIDADE.
+    1. A interessada Maria Aparecida da Silva ajuizou perante o Juízo da 3ª Vara Cível de Duque de Caxias/RJ ação de indenização postulando o pagamento de danos materiais e morais decorrentes de acidente de trabalho. O Juízo declinou da competência, ordenando a remessa do processo à Justiça do Trabalho (folha 71 a 75). Houve a interposição de recurso especial, no qual restou proferida decisão pelo Superior Tribunal de Justiça determinado o prosseguimento do feito junto à Justiça comum estadual (folhas 172 e 173). O processo foi recebido pelo Juízo da 7ª Vara Cível da aludida Comarca, que veio a suscitar o conflito negativo de competência em referência (folha 300 a 302).
+    Na decisão de folhas 180 e 181, o suscitante acentua a revisão jurisprudencial efetuada pelo Supremo no Conflito de Competência nº 7.204/MG, relator Ministro Ayres Britto, acórdão publicado no Diário da Justiça de 9 de dezembro de 2005. Aponta a nova redação do artigo 114 da Carta da República, atribuída pela Emenda Constitucional nº 45/2004, e assinala que o processo está pendente de julgamento de mérito.
+    O Procurador-Geral da República, em parecer, afirma caber à Justiça do Trabalho a apreciação da matéria, ante o advento da Emenda Constitucional nº 45/2004 e a inexistência de decisão de mérito, conforme entendimento adotado pelo Supremo no mencionado conflito de competência.
+    2. Constato que o presente conflito foi instaurado pelo Juízo de Direito da 7ª Vara Cível de Duque de Caxias/MG, sucessivamente à decisão proferida pelo Superior Tribunal de Justiça.
+    Atentem para a instrumentalidade e a organicidade própria ao direito instrumental. Descabe a juízo de direito inobservar pronunciamento de tribunal superior, ao qual se encontra hierarquicamente vinculado, a pretexto de ter ocorrido modificação na jurisprudência do Supremo sobre a matéria. Incumbia aos interessados buscar a reforma da decisão mediante as vias pertinentes. No mais, a hipótese versada no conflito não se enquadra na competência versada no artigo 102, inciso I, alínea “o”, da Carta, porque não se trata de divergência entre o Superior Tribunal de Justiça e outro tribunal.
+    3. Ante o exposto, não conheço do conflito. Devolvam o processo ao Juízo de Direito da 7ª Vara Cível de Duque de Caxias/RJ.
+    4. Publiquem.
+Brasília, 30 de novembro de 2011.
+Ministro MARCO AURÉLIO
+Relator
