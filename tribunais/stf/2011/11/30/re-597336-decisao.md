@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Piauí.
+    2. Da leitura dos autos, observo que a instância judicante de origem, em sede de ação de cobrança de proventos atrasados, ajuizada por servidora aposentada do Município de Campo Maior/PI, manteve a condenação do ente público municipal ao pagamento de R$ 6.000,00 (seis mil reais).
+    3. Pois bem, a parte recorrente aponta violação ao inciso IX do art. 93 e ao caput e aos § 3º e 4º do art. 100, todos da Magna Carta de 1988. Pede preliminarmente a decretação de nulidade do acórdão recorrido e a devolução dos autos à origem para que proceda novo julgamento. No mérito, afirma que o valor da condenação se situa acima daquele definido pela Lei municipal 001/2005 como “obrigações de pequeno valor”, pelo que a eventual execução do julgado deve seguir o rito do precatório requisitório.
+    4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo parcial provimento do apelo extremo.
+    5. Tenho que a insurgência merece parcial acolhida. Isso porque as dívidas da Fazenda Pública precisam seguir o disposto no art. 100 da Constituição Federal. Confira-se, a propósito, a ementa do RE 597.835-AgR, da relatoria do ministro Ricardo Lewandowski:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. ART. 100 E PARÁGRAFOS DA CONSTITUIÇÃO FEDERAL. I A jurisprudência do Supremo Tribunal Federal possui o entendimento no sentido de que é necessária a expedição de precatório para fins de pagamento de débitos da Fazenda Pública decorrente de decisões judiciais. Precedentes. II Esta Corte também firmou a orientação de que até no caso de crédito alimentício há a obrigatoriedade da observância do regime de precatórios para o pagamento do débito fazendário. Precedentes. III - Agravo regimental improvido.”
+    6. De mais a mais, para chegar à conclusão pretendida pela parte recorrente, seriam necessários o reexame da legislação infraconstitucional pertinente e a análise do conjunto fático-probatório dos autos (Súmula 279/STF), providências vedadas neste momento processual.
+    7. À derradeira, pontuo que, somente no momento próprio e diante da fixação do valor exeqüendo, será determinado se o caso é de expedição de requisitório por precatório ou por requisição de pequeno valor.
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso. O que faço, tão-somente, para determinar a observância da sistemática traçada no art. 100 da Carta Magna de 1988 em execução contra a Fazenda Pública. Mantido o aresto impugnado quanto aos ônus da sucumbência.
+    Publique-se.
+    Brasília, 30 de novembro de 2011.
+Ministro AYRES BRITTO
+Relator
