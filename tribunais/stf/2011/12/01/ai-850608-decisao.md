@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo de instrumento revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Primeira Turma desta Suprema Corte, ao julgar o RE 480.129/DF, Rel. Min. MARCO AURÉLIO, fixou entendimento que torna acolhível a pretensão de direito material deduzida pela parte ora agravante:
+    “CONCURSO PÚBLICO - PARÂMETROS - EDITAL. O edital de concurso, desde que consentâneo com a lei de regência em sentido formal e material, obriga candidatos e Administração Pública.” (grifei)
+    Cumpre destacar, por oportuno, ante a inquestionável procedência de suas observações, o seguinte fragmento constante do voto que o eminente Ministro AYRES BRITTO proferiu no julgamento que venho de referir:
+    “Um edital, uma vez publicado - norma regente, interna, da competição, na linguagem de Hely Lopes Meireles -, gera expectativas nos administrados; expectativas essas que hão de ser honradas pela Administração Pública. Ela também está vinculada aos termos do edital que redigiu e publicou.” (grifei)
+    Cabe ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão idêntica à versada nesta causa, concernente à vinculação jurídica da Administração Pública ao conteúdo do edital de concurso público, que constitui, desde que em harmonia com a lei, o estatuto de regência do certame (AI 695.434/RS, Rel. Min. CÁRMEN LÚCIA – RE 192.568/PI, Rel. Min. MARCO AURÉLIO – RE 410.311/MT, Rel. Min. DIAS TOFFOLI – RE 434.708/RS, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo de instrumento, para, desde logo, conhecer e dar provimento ao recurso extraordinário (CPC, art. 544, § 4º, na redação anterior à Lei nº 12.322/2010), em ordem a julgar procedente a ação ordinária ajuizada pela parte ora agravante, condenando, ainda, a agravada, ao pagamento da verba honorária, que fixo em 10% (dez por cento) sobre o valor da condenação (CPC, art. 20, § 4º), a ser apurada em execução de sentença.
+    Publique-se.
+    Brasília, 1º de dezembro de 2011.
+Ministro CELSO DE MELLO
+Relator
