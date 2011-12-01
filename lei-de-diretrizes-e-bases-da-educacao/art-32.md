@@ -8,3 +8,4 @@ IV - o fortalecimento dos vínculos de família, dos laços de solidariedade hum
 § 3º O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas a utilização de suas línguas maternas e processos próprios de aprendizagem.
 § 4º O ensino fundamental será presencial, sendo o ensino a distância utilizado como complementação da aprendizagem ou em situações emergenciais.
 § 5º O currículo do ensino fundamental incluirá, obrigatoriamente, conteúdo que trate dos direitos das crianças e dos adolescentes, tendo como diretriz a Lei nº 8.069, de 13 de julho de 1990, que institui o Estatuto da Criança e do Adolescente, observada a produção e distribuição de material didático adequado.
+§ 6º O estudo sobre os símbolos nacionais será incluído como tema transversal nos currículos do ensino fundamental.
