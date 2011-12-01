@@ -70,3 +70,8 @@ II - 4,6% (quatro inteiros e seis décimos por cento), para a Cofins-Importaçã
 § 17. O disposto no § 14 deste artigo não se aplica aos valores pagos, creditados, entregues, empregados ou remetidos, por fonte situada no País, à pessoa física ou jurídica residente ou domiciliada no exterior, em decorrência da prestação de serviços de frete, afretamento, arrendamento ou aluguel de embarcações marítimas ou fluviais destinadas ao transporte de pessoas para fins turísticos.
 § 18. O disposto no § 17 deste artigo aplicar-se-á também à hipótese de contratação ou utilização da embarcação em atividade mista de transporte de cargas e de pessoas para fins turísticos, independentemente da preponderância da atividade.
 § 19. A importação de álcool, inclusive para fins carburantes, fica sujeita à incidência da Contribuição para o PIS/Pasep-Importação e da Cofins-Importação, fixadas por unidade de volume do produto, às alíquotas de que trata o § 4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998, independentemente de o importador haver optado pelo regime especial de apuração e pagamento ali referido.
+§ 21. A alíquota de que trata o inciso II do caput fica acrescida de 1,5 (um inteiro e cinco décimos) pontos percentuais, na hipótese da importação dos bens classificados na Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto nº 6.006, de 28 de dezembro de 2006:
+I - nos códigos 3926.20.00, 40.15, 42.03, 43.03, 4818.50.00, 63.01 a 63.05, 6812.91.00, 9404.90.00 e nos Capítulos 61 e 62;
+II - nos códigos 4202.11.00, 4202.21.00, 4202.31.00, 4202.91.00, 4205.00.00;
+III - nos códigos 6309.00, 64.01 a 64.06; e.
+IV - nos códigos 94.01 a 94.03.
