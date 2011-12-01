@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. REMOÇÃO, A PEDIDO. PROTEÇÃO ESTATAL À FAMÍLIA (ART. 226, CAPUT, DA CONSTITUIÇÃO FEDERAL). INTERPRETAÇÃO EXTENSIVA DO ART. 36, III, 'A' DA LEI Nº 8.112/90, EM FACE DA SUA FINALIDADE. PRECEDENTE JURISPRUDENCIAL.
+    - 'Por se tratar de instituto que protege essencialmente a família, como preconiza o art. 226 da Carta Magna, deve a remoção funcional (art. 36, III, 'a', da Lei 8.112/90) merecer interpretação extensiva, para incluir-se sob o seu pálio a postulação do servidor cujo cônjuge reside em local diverso do seu, tendo ali exercício em cargo público efetivo, de sorte a que o dispositivo constitucional em apreço não sofra redução de aplicabilidade.' (AGTR 26974-PE, Relator o Desembargador Federal NAPOLEÃO MAIA FILHO, DJ: 25/02/2000, p. 2187).
+    - Apelação improvida" (fl. 219).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, caput, 37, caput, e 226 da mesma Carta.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido está em dissonância com a orientação desta Corte firmada no sentido de afastar a incidência do art. 226 da Lei Maior como fundamento para remoção de servidor público na hipótese de lotação inicial de candidato aprovado em concurso público, conforme se observa do julgamento do RE 587.260-AgR/RN, Rel. Min. Eros Grau, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REMOÇÃO. SERVIDOR PÚBLICO. ARTIGO 226 DA CONSTITUIÇÃO DO BRASIL. CONCURSO PÚBLICO. LOTAÇÃO INICIAL.
+    O Supremo Tribunal Federal, em caso análogo ao presente, afastou a incidência do art. 226 da Constituição do Brasil como fundamento da concessão de remoção de servidor público quando o feito, como ocorre nestes autos, refere-se não à remoção para acompanhar cônjuge ou companheiro e sim à lotação inicial de candidato aprovado em concurso público, cujo edital previa expressamente a possibilidade de sua lotação em outros Estados da Federação. Precedente.
+    Agravo regimental a que se nega provimento”.
+    Cumpre ressaltar que o recorrido Luis Wagner Mota Sales participou de um certame de caráter nacional, ciente da possibilidade de ser lotado em qualquer unidade da Federação. Não se trata aqui, portanto, de remoção para acompanhar cônjuge, mas de lotação inicial. Nesse passo, destaco o entendimento da Min. Ellen Gracie, proferido no julgamento do MS 26.070-MC/DF:
+    “A Administração Pública se deve nortear pelos princípios da supremacia do interesse público e da impessoalidade. (…).
+    Não cabe ao Poder Judiciário estabelecer a lotação de candidatos aprovados em concurso público. Esse é um juízo que só cabe à Administração, que sabe das reais necessidades do serviço público. Cumpre, sim, ao Poder Judiciário intervir quando há perseguições, preterições ou abusos por parte da Administração, hipóteses que não vislumbro presentes neste caso”.
+    Por oportuno, registro que o Supremo Tribunal Federal, no julgamento do MS 23.058/DF, Rel. Min. Ayres Britto, julgou válida a remoção servidor para proteger a unidade familiar. Entretanto, a hipótese dos autos difere da situação descrita no referido precedente que trata da remoção para acompanhar cônjuge em decorrência da transferência de ofício, no interesse da Administração, do esposo da impetrante. Nota-se que, no aludido julgado, não se discutiu o direito à remoção na hipótese de lotação inicial de candidato aprovado em concurso público. Logo, inaplicável tal aresto ao presente caso.
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 1º de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
