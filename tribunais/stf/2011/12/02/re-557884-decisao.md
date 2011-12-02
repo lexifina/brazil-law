@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 166):
+    “SISTEMA FINANCEIRO DE HABITAÇÃO. CASA PRÓPRIA. EQUIVALÊNCIA SALARIAL. SALDO DEVEDOR. TR.
+    1. Para manter-se o equilíbrio econômico-financeiro entre a prestação do imóvel e o salário do mutuário, deve ser observada a equivalência salarial.
+    2. Segundo o entendimento da Segunda Seção desta Corte, o saldo devedor pode ser reajustado pela TR, índice de reajuste das cadernetas de poupança.
+    3. Apelo da C.E.F provido em parte. “
+    2. Pois bem, a parte recorrente alega violação aos incisos XXXV, XXXVI, LIII, LIV e LV do art. 5º, e ao inciso IX do art. 93 da Magna Carta de 1988. Sustenta a impossibilidade de aplicação da TR aos contratos anteriores à Lei 8.177/1991.
+    3. Tenho que a insurgência não merece acolhida. Isso porque, ao apreciar caso semelhante, esta nossa Casa de Justiça entendeu que a Taxa Referencial (TR) continua em vigor, podendo ser utilizada como índice indexador. Confira-se, a propósito, a ementa do AI 175.678, da relatoria do ministro Carlos Velloso:
+    “CONSTITUCIONAL. CORREÇÃO MONETÁRIA. UTILIZAÇÃO DA TR COMO INDICE DE INDEXAÇÃO. I. - O Supremo Tribunal Federal, no julgamento das ADIns 493, Relator o Sr. Ministro Moreira Alves, 768, Relator o Sr. Ministro Marco Aurélio e 959-DF, Relator o Sr. Ministro Sydney Sanches, não excluiu do universo jurídico a Taxa Referencial, TR, vale dizer, não decidiu no sentido de que a TR não pode ser utilizada como índice de indexação. O que o Supremo Tribunal decidiu, nas referidas ADIns, e que a TR não pode ser imposta como índice de indexação em substituição a índices estipulados em contratos firmados anteriormente a Lei 8.177, de 01.03.91. Essa imposição violaria os princípios constitucionais do ato jurídico perfeito e do direito adquirido. C.F., art. 5., XXXVI. II. - No caso, não há falar em contrato em que ficara ajustado um certo índice de indexação e que estivesse esse índice sendo substituído pela TR. E dizer, no caso, não há nenhum contrato a impedir a aplicação da TR. III. - R.E. não conhecido.
+    4. De mais a mais, no julgamento do AI 153.516-AgR, da relatoria do ministro Moreira Alves, entendeu-se que, constando do contrato cláusula de que a correção monetária seria feita com a aplicação do índice do BTN ou PELA APLICAÇÃO DO ÍNDICE DE CORREÇÃO DAS CADERNETAS DE POUPANÇA , não há falar em ofensa ao princípio do ato jurídico perfeito e do direito adquirido, no fato de observar a TR como fator de indexação de contratos celebrados antes da Lei 8.117/1991, dado ser este, a TR, o índice de correção das cadernetas de poupança.”
+    5. No caso dos autos, as partes elegeram como índice de reajuste do saldo devedor o adotado para remuneração básica dos depósitos de poupança. Assim, é possível a utilização da TR, uma vez que constitui índice de correção das cadernetas de poupança. Neste mesmo sentido, veja-se o RE 571.887.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 2 de dezembro de 2011.
+    Ministro AYRES BRITTO
+    Relator
