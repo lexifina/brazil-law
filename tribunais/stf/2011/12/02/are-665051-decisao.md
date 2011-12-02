@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRABALHISTA. CONTROVÉRSIA SOBRE ESPÉCIE DE PRESCRIÇÃO (PARCIAL OU TOTAL): QUESTÃO INFRACONSTITUCIONAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “Tratando-se de pedido de diferença de complementação de aposentadoria oriunda de norma regulamentar, a prescrição aplicável é a parcial, não atingindo o direito de ação, mas, tão somente, as parcelas anteriores ao quinquênio” (Súmula n. 327 desta Corte superior)” (fl. 546).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 7º, inc. XXVI, e 37, caput, da Constituição da República ao não pronunciar a prescrição da pretensão dos ora Recorridos.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de ofensa constitucional direta (fl. 570).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A questão relativa à espécie de prescrição trabalhista (parcial ou total) tem natureza infraconstitucional, pelo que não pode ser analisada em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. 1) PRESSUPOSTOS DE CABIMENTO DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS: INEXISTÊNCIA DE REPERCUSSÃO GERAL. 2) PRESCRIÇÃO TOTAL OU PARCIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. 3) ALEGADO DESCUMPRIMENTO DO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 840.736-AgR, de minha relatoria, Primeira Turma, Dje 26.5.2011 – grifos nossos).
+    “CONSTITUCIONAL E TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ART. 5º, II, LIV E LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PRESCRIÇÃO. FGTS. DICOTOMIA ENTRE AS ESPÉCIES TOTAL E PARCIAL. ART. 7º, XXIX DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. 1. A possível violação aos postulados da legalidade, da ampla defesa, do contraditório, do devido processo legal, da motivação dos atos decisórios e da prestação jurisdicional configura ofensa reflexa à CF. 2. A jurisprudência firmada em ambas as Turmas do STF é no sentido de que a relação da dicotomia entre as espécies de prescrição - parcial ou total - reside, exclusivamente, no âmbito infraconstitucional. 3. O tema relativo à discussão do prazo prescricional trintenário do FGTS não possui índole constitucional, porque depende de prévio exame da legislação infraconstitucional. 4. Agravo regimental improvido” (AI 782.236-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 14.5.2010 – grifos nossos).
+    “TRABALHISTA. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA PROCESSUAL TRABALHISTA. DIFERENÇAS DE COMPLEMENTAÇÃO DE APOSENTADORIA. PRESCRIÇÃO TOTAL OU PARCIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a causa à luz da legislação processual trabalhista. A afronta à Constituição, se ocorrente, seria indireta. II - A Corte tem se orientado no sentido de que a discussão acerca da incidência da prescrição total ou parcial no pedido de devolução de valores descontados mensalmente da complementação de aposentadoria situa-se no âmbito infraconstitucional. Precedentes. III - Agravo regimental improvido” (AI 714.508-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 5.6.2009 – grifos nossos).
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de dezembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
