@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 302/303):
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. TERRENOS DE MARINHA. TAXA DE OCUPAÇÃO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. INADMISSIBILIDADE. QUALIFICAÇÃO DOS IMÓVEIS COMO TERRENOS DE MARINHA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE (SÚMULA 7/STJ). FALTA DE PREQUESTIONAMENTO (SÚMULAS 282 E 356 DO STF). PROCESSO ADMINISTRATIVO DE DEMARCAÇÃO. FIXAÇÃO DA LINHA PREAMAR MÉDIA DE 1831. CONVOCAÇÃO DOS INTERESSADOS CERTOS MEDIANTE EDITAL. ILEGALIDADE. NECESSIDADE DE CITAÇÃO PESSOAL (ART. 11 DO DECRETO-LEI 9.760/46). OFENSA AO DEVIDO PROCESSO LEGAL (CF/88, ART. 5º, LIV E LV). NULIDADE. PRECEDENTES DO STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.
+    [...]
+    4. A citação dos interessados no procedimento demarcatório de terrenos de marinha e acrescidos, sempre que identificados e certo o domicílio, deverá realizar-se pessoalmente. Somente no caso de existirem interessados incertos poder-se-á realizar a convocação editalícia (Decreto-Lei 9.760/46, art. 11).
+    5. A Administração Pública, ao proceder à convocação por edital dos recorrentes, proprietários com título registrado no Cartório de Imóveis e endereços certos, não lhes assegurou o pleno exercício do contraditório e da ampla defesa, violando, destarte, o devido processo legal constitucionalmente assegurado (CF/88, art. 5º, LIV e LV).”
+    2. Pois bem, a parte recorrente aponta violação aos incisos XXXV e LV do art. 5º, ao inciso IX do art. 93 e ao art. 97, todos da Carta Magna de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opina pelo não-conhecimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação infraconstitucional pertinente (art. 11 do Decreto-Lei 9.760/1946). De se ver, portanto, que a alegada ofensa ao Magno Texto, se existente, apenas ocorreria de modo reflexo ou indireto, o que não enseja a abertura da via extraordinária.
+    5. Por outro lado, pontuo que o Superior Tribunal de Justiça não declarou a inconstitucionalidade do art. 11 do Decreto-Lei 9.760/1946, nem afastou a sua incidência ao caso sob exame. Pelo que não há violação ao art. 97 da Constituição Federal.
+    6. À derradeira, ressalto que o aresto impugnado está devidamente fundamentado. Note-se que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 02 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
