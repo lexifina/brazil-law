@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal Regional Federal, cuja ementa possui o seguinte teor:
+    “IMPOSTO DE RENDA. FISCALIZAÇÃO. RECEITA FEDERAL. LEGALIDADE. OBRIGATORIEDADE DE PRESTAÇÃO DE INFORMAÇÕES.
+    A fiscalização, pela Receita Federal, para fins de aferição da higidez das atividades das pessoas jurídicas e físicas, bem como para demonstração de sua regularidade fiscal, é poder/dever das autoridades fazendárias. No que tange ao Imposto de Renda, o exercício é regulado pelo Decreto 3.000/99 (RIR), que determina estarem todas as pessoas, físicas ou jurídicas, contribuintes ou não, obrigadas a prestar as informações e os esclarecimentos exigidos.” (fls. 18)
+    Alega-se violação do disposto nos arts. 5º, II, X, XII, e XXXVI da Constituição federal.
+    O recurso não merece seguimento.
+    O Tribunal de origem assim se pronunciou sobre a questão versada nos autos:
+    “Considerando que nestes autos não há qualquer quebra de sigilo fiscal contra a empresa autora, mas exclusivamente discussão acerca da legalidade do procedimento fiscal contra ela instaurado e da obrigatoriedade de apresentar as informações requisitadas pela SRF, não há interesse na discussão acerca da LC 105/2001 e da Lei 9.311/96 (com a alteração trazida pela Lei 10.174/01). Qualquer decisão a respeito destas normas seria nula por violar o instituto da litispendência, tendo em vista que a impugnação aos atos administrativos de cruzamento de dados e lançamento de IRPF é objeto de ação ordinária específica. Ademais, o contribuinte cujo sigilo fiscal foi quebrado sequer é parte nestes autos.
+    O ato de fiscalização da Receita Federal ora discutido, ao qual estão sujeitas todas as pessoas físicas e jurídicas que mantenham para com a União relação jurídico tributária, é regrada pelo Decreto 3.000/99. A norma em comento regulamenta a tributação, a fiscalização, a arrecadação e a administração do Imposto de Renda e Proventos de Qualquer Natureza (…).
+    É claro da documentação acostada aos autos, inclusive do próprio mandado guerreado e trazido pela autora, que a Fazenda Nacional exclusivamente requereu informações sobre determinadas situações, sem em nenhum momento requerer quebra de sigilo bancário. Tais pedidos, inclusive, encontra respaldo no RIR/99 (…).” (fls. 15, verso, e 16)
+    A conclusão pela existência de litispendência em relação à questão da quebra de sigilo fiscal, fundamento infraconstitucional suficiente, não foi impugnada na via própria do recurso especial perante o Superior Tribunal de Justiça. Aplica-se, portanto, o disposto na Súmula 283/STF.
+    Ademais, ainda que superado tal óbice, verifico que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 5 de dezembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
