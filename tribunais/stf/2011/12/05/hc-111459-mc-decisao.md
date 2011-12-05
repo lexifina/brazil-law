@@ -1,0 +1,27 @@
+EXECUÇÃO PENAL. HABEAS CORPUS. FALTA GRAVE. PRÁTICA DE CRIME DOLOSO (ART. 14 DA LEI Nº 10826/2003). PERDA INTEGRAL DOS DIAS REMIDOS E REINÍCIO DA CONTAGEM DO PRAZO PARA A CONCESSÃO DE BENEFÍCIOS. MODIFICAÇÃO LEGISLATIVA. LEI Nº 12.433/2011. LIMITAÇÃO DA PERDA AO MÁXIMO DE UM TERÇO. LEI PENAL MAIS FAVORÁVEL. RETROAÇÃO (ART. 5º, XL, DA CRFB E ART. 2º, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL). LIMINAR DEFERIDA PARA QUE SE OBSERVE O LIMITE MÁXIMO DE 1/3 NA SANÇÃO DE PERDA DO TEMPO REMIDO.
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do STJ confirmatório de decisão assim resumida:
+    RECURSO ESPECIAL. EXECUÇÃO PENAL. NOVO CRIME DOLOSO PRATICADO NO TRANSCURSO DO CUMPRIMENTO DA PENA. HOMOLOGAÇÃO DE FALTA GRAVE. EFEITOS. REGRESSÃO. NOVA DATA-BASE. PROGRESSÃO DE REGIME PRISIONAL. INCIDÊNCIA DA SÚMULA VINCULANTE N.º 09. PRECEDENTES.
+    - É pacífica a orientação das Turmas componentes da Terceira Seção desta Corte no sentido de que a prática de crime doloso durante o transcurso do cumprimento da pena, resulta em cometimento de falta grave (art. 52, da Lei nº 7.210/84).
+    - Desnecessário o trânsito em julgado da condenação do novo delito para que se reconheça a falta grave, porquanto é de cunho administrativo e obedece aos mesmos parâmetros da ampla defesa e do contraditório exigidos no processo penal.
+    - Cristalizou-se na jurisprudência da Quinta Turma desta Corte que o cometimento de falta grave pelo apenado importa a alteração da data-base para o reinício da contagem dos prazos necessários para a obtenção dos requisitos objetivos, a fim de ser favorecido com os benefícios executórios, no que tange ao restante do cumprimento da reprimenda. - O cometimento da falta grave ocasiona a perda do direito ao tempo remido, reiniciando novo período a partir da data da infração disciplinar (Súmula Vinculante n.º 09).
+    - Recurso especial provido parcialmente.
+    Consta nos autos que o paciente, que cumpre pena de 23 anos e 11 meses de reclusão desde 5/4/1999, encontrava-se em regime semiaberto quando foi denunciado pela prática do crime de porte ilegal de arma de fogo (art. 14 da Lei nº 10.826/2003), vindo, em consequência, a regredir no regime de cumprimento de pena (art. 118, I, da LEP) e a perder os dias remidos, na sua integralidade, reiniciando o prazo de contagem para novos benefícios a partir da prática do novo delito.
+     Nesta impetração, articula-se com a aplicação retroativa da Lei nº 12.433/2011, na parte em que alterou o art. 127 da LEP para limitar a sanção de perda dos dias remidos a 1/3.
+    Requer, liminarmente, “seja auferido o real cômputo dos dias remidos ao paciente, até decisão final” e, no mérito, seja assegurado o direito do paciente de reaver os dias remidos.
+    É o relatório. Decido.
+    O deferimento de medida liminar reclama a demonstração da presença dos requisitos da urgência da tutela jurisdicional (periculum in mora) e da plausibilidade jurídica da tese sustentada (fumus boni juris).
+    In casu, esses pressupostos restaram comprovados, porquanto a perda dos dias remidos na sua integralidade poderá impedir nova progressão de regime, o que demonstra a necessidade de pronto atendimento do pleito cautelar.
+    Outrossim, a tese sustentada é relevante, porquanto a Lei nº 12.433/2011 limitou a perda dos dias remidos ao máximo de 1/3, mostrando-se, assim, mais favorável em relação ao regramento anterior, que previa a perda integral.
+    Com efeito, a perda de todos os dias remidos representava verdadeiro desestímulo ao trabalho durante o cumprimento da pena, convertendo o labor em um investimento de alto risco para os detentos.
+    Desenvolvendo esse raciocínio, nota-se que a ratio essendi da alteração legislativa residiu em prestigiar a segurança jurídica e a proteção da confiança legítima.
+    No caso sub judice, o STJ, ao prover o recurso especial do Ministério Público, não observou essa limitação, até porque ela foi inserida no ordenamento jurídico positivo após o julgamento do recurso especial.
+    Consectariamente, é imperiosa a incidência imediata e retroativa da lei penal mais benéfica, por força do disposto no art. 5º, inciso XL, da Constituição Federal (“A lei penal não retroagirá, salvo para beneficiar o réu”) e no art. 2º, parágrafo único, do Código Penal, verbis:”A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado”. Nesse sentido é o seguinte precedente da Corte:
+    Habeas Corpus. 2. Execução penal. 3. Falta disciplinar grave. 4. Pleito de concessão da ordem a fim de que a perda dos dias remidos pelo apenado seja proporcional e observe os parâmetros previstos no art. 127 da Lei 7.210/84, nos termos das modificações promovidas pela Lei 12.433/2011. 5. Norma penal mais benéfica. Retroatividade. 6. Ordem concedida (HC 110040, rel. Min. Gilmar Mendes, 2ª Turma, DJ de 28/11/2011)
+    Ademais, a título exemplificativo, confiram-se as liminares deferidas nos seguintes processos: HC 111143 MC, rel. Min. Dias Toffoli, DJ de 21/11/2011; HC 110317 MC, rel. Min. Ayres Britto, DJ de 23/9/2011; HC 109851 MC, rel. Min. Gilmar Mendes, DJ de 19/8/2011.
+    Ex positis, DEFIRO A LIMINAR, em menor extensão, apenas para determinar à Vara de Execuções Criminais da Comarca de São Luiz Gonzaga/RS que observe o limite máximo de 1/3 na sanção de perda dos dias remidos.
+    Publique-se.
+    Oficie-se.
+    Brasília, 5 de dezembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
