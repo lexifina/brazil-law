@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de ação cautelar preparatória, ajuizada pelo Estado do Maranhão contra a União.
+    2. Alega o autor, em síntese, que a União violou o devido processo legal. Daí requerer, liminarmente, sejam suspensos os efeitos da inscrição dele, autor, “no CAUC, em decorrência dos atos de que cuidam os Convênios nº 470799, 446517, 644903, 488724, 701376 e 638543, até o julgamento da ação ordinária que será, tempestivamente, intentada pelo Requerente visando anular osa atos administrativos de inscrição do Requerente”. Mais: seja determinado ao “Departamento Nacional de Obras Contra as Secas – DNOCS [que] repasse ao Estado do Maranhão os recursos oriundos dos Convênios de nº 730970/2009 e 723700/2009 celebrados com o Estado do Maranhão e libere o repasse dos recursos referentes ao aludido convênio” (sic).
+    3. Prossigo para anotar que, em atenção ao despacho por mim proferido no dia 24/10/2011, a ré se manifestou acerca das alegações do autor. Ao fazê-lo, afirmou que a Direção-Geral do DNOCS encaminhou ofícios ao Estado do Maranhão “informando expressamente” a situação de inadimplência do autor. O que impossibilitava a “liberação via SICONV dos recursos oriundos dos Convênios 73970/2009 e 723700/2009 para recuperação das Barragens Flores e Pericumã respectivamente” (sic).
+    4. Pois bem, resumida a questão nestes termos, anoto que existem vários precedentes desta nossa Corte deferindo pedidos similares ao presente. Lembro, a propósito, a AC 1.732-REF-MC, sob a relatoria do ministro Marco Aurélio e que exibe a seguinte ementa:
+    “AÇÃO CAUTELAR – LIMINAR – CADASTRO DE INADIMPLENTES – CONTRADITÓRIO – INOBSERVÂNCIA – LIMINAR DEFERIDA. Ante a não-observância do contraditório, precedendo a inserção do Estado no cadastro de inadimplentes, surge a relevância do pedido formulado de afastamento da pecha, presente também o risco de manter com plena eficácia o quadro.”
+    (sem destaques no original)
+    5. No mesmo sentido, leiam-se o “Referendo na Tutela Antecipada na Ação Cível Originária 1.576”, da relatoria do ministro Celso de Mello, bem como a Medida Cautelar na Ação Cautelar 2.702, sob a relatoria da ministra Ellen Gracie.
+    Ante o exposto, não tendo a União comprovado que a inscrição do autor no CAUC foi precedida de contraditório, defiro, em parte, a liminar requerida, nos termos do inciso V do art. 21 do RI/STF. O que faço, tão-somente, para determinar que a ré se abstenha de considerar as pendências cadastrais alusivas aos Convênios 470799, 446517, 644903, 488724, 701376 e 638543 na análise dos requisitos para a liberação dos recursos atinentes aos Convênios 730970/2009 e 723700/2009.
+    Publique-se e comunique-se.
+    Brasília, 05 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
