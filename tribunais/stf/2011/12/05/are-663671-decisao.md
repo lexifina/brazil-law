@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais que versa sobre pedido de progressão funcional de servidores municipais fundado na Lei municipal nº 7.169/1996. Eis a ementa (fls. 136):
+    “EMENTA: ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. LEI MUNICIPAL 7.169/96. DIREITO ASSEGURADO AO SERVIDOR – O servidor tem direito à progressão horizontal prevista pela legislação municipal, inclusive com a possibilidade de sua aplicação automática desde que preenchidos os requisitos legais, não cabendo à administração pública municipal furtar-se a cumprir a lei que ela mesmo editou. - Ocorre aqui o contrário da hermenêutica bíblica, haja vista que neste caso o Criador (Município) deve curvar-se diante de sua Criatura (Lei) tudo em homenagem ao princípio da legalidade que governa todo ato administrativo.”
+    No recurso extraordinário, o ora agravante alega violação do disposto no artigo 37, XIV, da Constituição.
+    Não prospera o recurso. A aferição da alegada afronta à Constituição, exige, na espécie, a análise prévia das normas que disciplinam o regime jurídico dos servidores municipais, incidindo, no caso, o óbice da Súmula 280 desta Corte. Nesse sentido: AI 729.380-AgR, rel. min. Ricardo Lewandowski, DJe de 06.03.2009; AI 772.061-AgR, rel. min. Eros Grau, DJe de 26.02.2010; RE 394.415-AgR, rel. min. Carmem Lúcia, DJe 23.10.2009; RE 427.323, rel. min. Carlos Britto, DJ 15.05.2006 e AI 508.184, rel. min. Gilmar Mendes, DJ de 03.02.2006.
+    Do exposto, nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 5 de dezembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
