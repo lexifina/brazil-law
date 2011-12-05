@@ -1,0 +1,38 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. TAXA DE EXPEDIÇÃO DE DIPLOMA. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE NORMAS INFRALEGAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Primeira Turma Recursal dos Juizados Especiais Cíveis e Criminais do Distrito Federal decidiu:
+    “ENSINO SUPERIOR. TAXA PARA EXPEDIÇÃO E REGISTRO DE DIPLOMA. COMPETÊNCIA DA JUSTIÇA COMUM. COBRANÇA ABUSIVA.
+    1. A discussão acerca da legalidade de cobrança de taxa para registro e expedição de diploma de aluno de instituição de ensino particular superior não revela exercício de função federal delegada, o que conduz à competência da justiça comum, porquanto o ato em tela é meramente de gestão.
+    2. Não é ‘ultra petita’ a sentença que analisa a lide nos exatos contornos do pedido e da causa de pedir, mesmo que de sua fundamentação constem normas não invocadas pelo autor.
+    3. O valor da causa deve corresponder ao proveito econômico vindicado (inc. I do art. 259 do Código de Processo Civil). Na hipótese, o valor da causa deve ser fixado em R$ 260,00 (duzentos e sessenta reais), que é o importe perseguido pelo autor.
+    4. É abusiva a cobrança de taxa para a expedição e registro de diploma, expressamente vedada por Resoluções do Conselho Federal de Educação e não contemplada nas Leis n. 9.131/95 e 9.394/96. Tais serviços não são eventuais ou extraordinários e, portanto, já estão englobados no valor das mensalidades pagas pelos alunos. Por fim, o Código de Defesa do Consumidor, em seu art. 51, IV, tem como írritas as cláusulas contratuais que estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada ou sejam incompatíveis com a boa-fé ou a equidade.
+    5. Recurso conhecido e parcialmente provido, tão-só para fixar o valor da causa em R$ 260,00 (duzentos e sessenta reais). Quanto ao mais, sentença mantida por seus próprios fundamentos, com a súmula de julgamento servindo de acórdão, na forma do art. 46 da Lei n. 9.099/95. Sem condenação em custas e honorários, por incabíveis (Lei n. 9.099/95, art. 55, segunda parte)” (fl. 144).
+    Os embargos declaratórios opostos foram assim julgados:
+    “JUIZADOS ESPECIAIS. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO A SER SUPRIDA OU OBSCURIDADE, CONTRADIÇÃO E DÚVIDA A SEREM DISSIPADAS. DECISÃO EMBARGADA VAZADA NA FORMA DO ART. 46 DA LEI N. 9.099/95. PRESQUESTIONAMENTO. MATÉRIA DEBATIDA.
+    1. Os embargos de declaração têm por escopo sanar julgados eivados pela obscuridade, contradição, omissão ou dúvida (art. 48 da Lei n. 9.099/95) e até mesmo corrigir erro material. Mas não se prestam, salvo em casos excepcionais, para conferir efeito modificativo da decisão.
+    2. O julgador não está obrigado a se manifestar expressamente sobre todos os argumentos trazidos pela parte, quando tenha encontrado motivo suficiente para embasar a sua convicção.
+    3. Inexiste nulidade por falta de fundamentação, quando a decisão é vazada na forma do art. 46 da Lei n. 9.099/95, segundo o qual ‘o julgamento em segunda instância constará apenas da ata, com a indicação suficiente do processo, fundamentação sucinta e parte dispositiva’ e ‘se a sentença for confirmada pelos próprios fundamentos, a súmula do julgamento servirá de acórdão’.
+    4. No caso de embargos de declaração opostos exclusivamente para fins de embasar eventual interposição futura de recursos especial e/ou extraordinário (Súmula n. 98 do STJ e Súmulas n. 282 e 256 do STF), o prequestionamento essencial vincula-se à matéria debatida.
+    5. Embargos conhecidos e rejeitados” (fl. 159).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    4. O Agravante argumenta que “é patente e direta a ofensa aos artigos 5º, inciso II, art. 93, inciso IX e art. 207, todos da Constituição Federal” (fl. 211).
+    No recurso extraordinário, alega que a Turma Recursal teria contrariado os arts. 5º, inc. II, 93, inc. IX, e 207 da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    Quanto à alegação de nulidade do acórdão por contrariedade ao inc. IX do art. 93 da Constituição da República, embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação. E, tal como se firmou na jurisprudência deste Supremo Tribunal:
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 21.5.1993).
+    7. O Juiz Relator afirmou na decisão recorrida:
+    “É abusiva a cobrança de taxa para a expedição e registro de diploma, expressamente vedada por Resoluções do Conselho Federal de Educação e não contemplada nas Leis números 9.131/95 e 9.394/96. Tais serviços não são eventuais ou extraordinários e, portanto, já estão englobados no valor das mensalidades pagas pelos alunos. Por fim, o Código de Defesa do Consumidor, em seu art. 51, IV, tem como írritas as cláusulas contratuais que estabeleçam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada ou sejam incompatíveis com a boa-fé ou a equidade” (fl. 144).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional e das normas infralegais aplicadas à espécie (Leis n. 9.131/1995 e 9.394/1996, Código de Defesa do Consumidor e Resoluções n. 1/1983 e 3/1989 do Conselho Federal de Educação). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Taxa de expedição de diploma. Prequestionamento. Ausência. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas n. 282 e 356/STF. 2. Inadmissível em recurso extraordinário a análise de legislação infraconstitucional e o exame de ofensa reflexa à Constituição Federal. 3. Agravo regimental não provido” (AI 788.419-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1.8.2011).
+    A decisão agravada, embasada nos dados constantes do julgado recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de dezembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
