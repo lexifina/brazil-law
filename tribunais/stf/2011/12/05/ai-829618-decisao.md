@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Telemar Norte Leste S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 7º, incisos VI e XXVI, e 8º, III, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Turma, do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. CARGA HORÁRIA SEMANAL. HORAS EXTRAS. DIVISOR. BASE DE CÁLCULO. Não demonstrada nenhuma das hipóteses de cabimento do recurso de revista previstas no art. 896 da CLT. Fundamentos da decisão denegatória não desconstituídos. Agravo de instrumento a que se nega provimento”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07. Assim, conforme decidido pelo Plenário desta Corte na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, aplica-se ao presente recurso o instituto da repercussão geral.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem acerca do cabimento das horas extras seria necessária interpretação de normas infraconstitucionais, bem como o reexame de aspectos fáticos e circunstanciais da lide, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. HORAS EXTRAS. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DO STF. TURNOS ININTERRUPTOS. INTERVALO INTRAJORNADA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais, bem como, da interpretação de cláusula integrante de norma coletiva de trabalho, o que atrai a incidência da Súmula 454 do STF. Precedentes. II – Os Ministros desta Casa, no AI 825.675-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos – Convenção e acordo coletivo. Majoração da jornada em turnos ininterruptos de revezamento - decisão que vale para todos os recursos sobre matéria idêntica. III - Agravo regimental improvido” (AI nº 836.213/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/9/10).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. INTERVALO INTRAJORNADA. HORAS EXTRAS. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DE PROVAS INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 791.308/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/9/10).
+    “ACÓRDÃO QUE DECIDIU CONTROVÉRSIA RELATIVA A HORAS EXTRAORDINÁRIAS COM BASE NA PROVA DOS AUTOS E NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. Questão restrita ao âmbito infraconstitucional, não ensejando apreciação em recurso extraordinário. Incidência, ainda, da Súmula 279. Agravo desprovido” (AI nº 310.217/PR-AgR, Primeira Turma, Relator o Ministro Ilmar Galvão, DJe de 22/6/01).
+    No mesmo sentido, as seguintes decisões monocráticas: AI nº 640.292/RS, Relatora a Ministra Cármen Lúcia, Dje de 24/9/08, AI nº 718.278/RS, Relatora a Ministra Ellen Gracie, Dje de 12/2/10 e AI nº 641.512/RS, Relatora a Ministra Cármen Lúcia, Dje de 22/10/08.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 5 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
