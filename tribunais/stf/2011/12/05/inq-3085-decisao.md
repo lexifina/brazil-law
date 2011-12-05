@@ -1,0 +1,16 @@
+DECISÃO
+INQUÉRITO – AUTUAÇÃO – LANÇAMENTO DAS INICIAIS DOS INVESTIGADOS – IMPROPRIEDADE.
+COMPETÊNCIA – PRERROGATIVA DE FORO – MANIFESTAÇÃO DO PROCURADOR-GERAL DA REPÚBLICA – ACOLHIMENTO.
+    1. A Assessoria prestou as seguintes informações:
+    O inquérito foi instaurado a partir de representação na qual noticiada a existência de pagamento de comissões ilícitas a parlamentares, depósitos em contas no exterior, não declaradas, e eventualmente lavagem de dinheiro, praticada por empresários ligados a deputados federais. Na referida representação, menciona-se a utilização de aeronave particular pertencente a Fernando Antônio Simões, coproprietário da empresa Júlio Simões Transportes e Serviços Ltda., pelos Deputados Rodrigo Maia e Valdemar da Costa Neto, o que demonstraria a relação de amizade entre os parlamentares e os dois empresários. Afirma-se, no citado documento, que o Deputado Federal Valdemar da Costa Neto “(...) pressiona técnicos do IBAMA e força emissão de Laudos no Ministério da Defesa para aprovar aterro em local inadequado”.
+    Em nova representação, diz-se de irregularidades em contratos firmados entre a Prefeitura do Rio de Janeiro/RJ e a empresa Júlio Simões Transportes e Serviços Ltda. para coleta de lixo e criação de novo aterro sanitário no Município.
+    O Juízo da 4ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro, ante a possibilidade de envolvimento de parlamentares federais nos atos investigados, declarou-se incompetente e determinou a remessa dos autos ao Supremo (folha 156).
+    O Procurador-Geral da República, no parecer de folha 167 a 171, anota que as informações contidas na documentação que instrui os autos não trazem indícios concretos da prática de crimes pelos Deputados Federais Rodrigo Maia e Valdemar da Costa Neto, havendo apenas acusações genéricas com base na possível relação de amizade entre os parlamentares e os empresários Fernando Antônio Simões e Júlio Simões. Ressalta existirem, no entanto, indícios de cometimento de delitos por pessoas que não possuem prerrogativa de foro.
+    Requer, por isso, a devolução do inquérito ao Juízo da 4ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro, para que sejam tomadas as providências cabíveis, sem prejuízo do retorno do procedimento ao Supremo caso surjam, nos fatos investigados, indícios de envolvimento de autoridade com prerrogativa de foro.
+    2. Inicialmente, observem ser a publicidade elemento básico em se tratando da Administração Pública – gênero. Nada justifica que, na autuação, em vez de lançar-se o nome completo dos envolvidos, por sinal, homens públicos, registrarem-se apenas as iniciais.
+    No mais, a manifestação do titular de possível ação penal é irrefutável. Concluiu não haver indícios suficientes à sequência do inquérito quanto àqueles que detêm a prerrogativa de foro. Logicamente, vindo à balha outros elementos, o Juízo de origem irá analisá-los e, se for o caso, suscitará o curso do procedimento no Supremo.
+    3. À Judiciária, para fazer constar da autuação os nomes completos dos investigados. Após, baixem os autos do inquérito ao Juízo da 4ª Vara Federal Criminal da Seção Judiciária do Rio de Janeiro.
+    4. Publiquem.
+Brasília – residência –, 5 de dezembro de 2011, às 11h25.
+Ministro MARCO AURÉLIO
+Relator
