@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. 1) AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA CONCLUSÃO DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 3) ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “Apelação Cível. Servidor Público Municipal. Ação de cobrança de adicional de insalubridade. Preliminar de nulidade da sentença rejeitada. Artigo 46 da Lei Complementar Municipal nº 61/2003. Utilização do salário mínimo como indexador. Violação do artigo 7º, inciso IV, da Constituição Federal e Súmula Vinculante nº 04 do STF. Inconstitucionalidade declarada pelo Pleno do TJ/SE. Ausência de suporte legal válido para se cobrar o adicional pretendido. Adicional devido a partir da edição da Lei Municipal nº 79/2009. Apelo parcialmente provido. Reforma parcial da sentença. Sucumbência recíproca. Unânime.”
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, e 102, § 2º, da Constituição da República e a Súmula Vinculante n. 4 do Supremo Tribunal Federal.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência das Súmulas n. 280 e 284 do Supremo Tribunal Federal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A matéria constitucional suscitada no recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração pelo ora Agravante com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PREQUESTIONAMENTO. NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 795.452-AgR, de minha relatoria, Primeira Turma, DJe 26.10.2011).
+    7. Na espécie vertente, o ora Agravado, servidor público municipal, ajuizou ação ordinária para receber adicional de insalubridade.
+    O Tribunal de origem deu parcial provimento ao apelo do Agravado para “condenar o Município ao pagamento do adicional de insalubridade a partir de 08 de abril de 2009, data da vigência da Lei Municipal nº 79/2009” (grifos nossos).
+    A Desembargadora Maria Aparecida Gama da Silva asseverou que
+          “Inexiste base legal constitucional para concessão do adicional de insalubridade, quer dizer, embora haja a previsão legislativa para os servidores públicos do Município de Aracaju recebam adicional de insalubridade, com o reconhecimento da inconstitucionalidade do citado art. 46 da Lei nº 61/2003, que determinava o módulo de cálculo desse adicional a partir da vinculação ao salário mínimo, deixa de existir suporte jurídico para se obter a cobrança de valores retroativos da mencionada verba.
+    Nesta linha, cumpre-se destacar que somente com a edição da Lei Municipal nº 79/2009 é que emergiu o direito do autor ao percebimento do dito adicional. E esta lei por sua vez, não tem o condão de retroagir para atingir situações pretéritas.”
+    No recurso extraordinário, o Agravante afirma que “a controvérsia dos autos resume-se a discutir a concessão de adicional de insalubridade sob a luz a art. 45, h, da Lei Complementar nº 61/2003.”
+    Portanto, a argumentação do Agravante está dissociada da matéria tratada nos autos e da conclusão do acórdão recorrido. Incide na espécie a Súmula n. 284 deste Supremo Tribunal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DEFICIENTE : RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DA MATÉRIA VERSADA NO JULGADO RECORRIDO. INCIDÊNCIA DA SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 740.817-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009).
+    “1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284 . Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida . 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008, grifos nossos).
+    8. Ademais, não merece prosperar a insurgência do Agravante, pois este Supremo Tribunal assentou que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais configurariam, se fosse o caso, ofensa constitucional indireta.
+    Nesse sentido: AI 485.087-AgR, de minha relatoria, Primeira Turma, DJe 26.6.2009; AI 605.287-AgR-ED, Rel. Min. Cezar Peluso, Segunda Turma, DJe 30.4.2009; e RE 590.843-AgR, de minha relatoria, Primeira Turma, DJe 6.4.2010.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de dezembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
