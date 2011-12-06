@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI MUNICIPAL QUE CRIA CARGOS EM COMISSÃO. MERA NOMENCLATURA DO CARGO EM COMISSÃO SEM ESPECIFICAÇÃO DE ATRIBUIÇÕES QUE CORRESPONDAM ÀS DE CHEFIA, DIREÇÃO OU ASSESSORAMENTO. VIOLAÇÃO AO ART. 37, V, DA CONSTITUIÇÃO FEDERAL E ARTIGO 32, CAPUT, DA CONSTITUIÇÃO ESTADUAL. INCONSTITUCIONALIDADE DECLARADA. É INCONSTITUCIONAL A LEI MUNICIPAL NA PARTE QUE CRIA CARGO EM COMISSÃO DE DIREÇÃO, CHEFIA OU ASSESSORAMENTO SEM QUE AS ATRIBUIÇÕES DO CARGO CORRESPONDAM A TAIS FUNÇÕES, EM VERDADEIRA BURLA À EXIGÊNCIA DO CONCURSO PÚBLICO E AO PRINCÍPIO DA IMPESSOALIDADE. CONCESSÃO DE PRAZO DE SEIS MESES PARA QUE O MUNICÍPIO SE AMOLDE À DECISÃO. ARTIGO 27, DA LEI FEDERAL Nº 9.868/1999.
+    REJEITADAS AS PRELIMINARES. AÇÃO JULGADA PROCEDENTE. UNÂNIME” (fl. 323).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 18, caput, 30, I, e 37, II e V, da mesma Carta.
+    O agravo não merece acolhida.
+    Ressalte-se preliminarmente que os arts. 18, caput, e 30, I, da Constituição Federal, não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Outrossim, o acórdão recorrido está em consonância com a jurisprudência desta Corte, no sentido de que é inconstitucional a criação de cargos em comissão que não tenham caráter de assessoramento, chefia ou direção e que não demandem relação de confiança entre o servidor nomeado e o seu superior hierárquico. Nesse sentido, destaco os seguintes julgados proferidos pelo Plenário deste Tribunal:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 37, II E V. CRIAÇÃO DE CARGO EM COMISSÃO. LEI 15.224/2005 DO ESTADO DE GOIÁS. INCONSTITUCIONALIDADE.
+    É inconstitucional a criação de cargos em comissão que não possuem caráter de assessoramento, chefia ou direção e que não demandam relação de confiança entre o servidor nomeado e o seu superior hierárquico, tais como os cargos de Perito Médico-Psiquiátrico, Perito Médico-Clínico, Auditor de Controle Interno, Produtor Jornalístico, Repórter Fotográfico, Perito Psicológico, Enfermeiro e Motorista de Representação.
+    Ofensa ao artigo 37, II e V da Constituição Federal.
+    Ação julgada procedente para declarar a inconstitucionalidade dos incisos XI, XII, XIII, XVIII, XIX, XX, XXIV e XXV do art. 16-A da lei 15.224/2005 do Estado de Goiás, bem como do Anexo I da mesma lei, na parte em que cria os cargos em comissão mencionados” (ADI 3.602/GO, Rel. Min. Joaquim Barbosa).
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL QUE CRIA CARGOS EM COMISSÃO. VIOLAÇÃO AO ART. 37, INCISOS II E V, DA CONSTITUIÇÃO. 2. Os cargos em comissão criados pela Lei nº 1.939/1998, do Estado de Mato Grosso do Sul, possuem atribuições meramente técnicas e que, portanto, não possuem o caráter de assessoramento, chefia ou direção exigido para tais cargos, nos termos do art. 37, V, da Constituição Federal. 3. Ação julgada procedente” (ADI 3.706/MS, Rel. Min. Gilmar Mendes).
+    Nesse mesmo sentido, cito as seguintes decisões: RE 491.293/SP, Rel. Min. Dias Toffoli; RE 557.642/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
