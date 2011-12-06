@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Rio Grande do Sul. Acórdão assim ementado (fls. 216):
+    “PREVIDENCIÁRIO. INSS. NEXO CAUSAL NÃO CONFIGURADO. BENEFÍCIO INDEVIDO. Conforme se depreende da redação do art. 19, da Lei n.º 8.213/91, são exigidas duas condições para que se caracterize o acidente do trabalho e faça jus o segurado à benefício previdenciário. A primeira, que o sinistro tenha ocorrido como decorrência de uma atividade a serviço da empresa ou em virtude do exercício do trabalho dos segurados relacionados no art. 11, inciso VII (segurados especiais). A segunda, que o acidente tenha gerado lesão corporal ou perturbação funcional que cause morte, perda ou redução, permanente ou temporária, da capacidade para o trabalho. Inexistindo comprovação do nexo de causalidade entre a moléstia apresentada e as atividades laborais da segurada, não há benefício de natureza acidentária a ser alcançado. APELO DO RÉU PROVIDO, PREJUDICADO O EXAME DO APELO DA AUTORA.”
+    2. Pois bem, a parte recorrente alega violação ao inciso II do art. 108 e aos §§ 3º e 4º do art. 109 da Magna Carta.
+    3. A Procuradoria da República em parecer da lavra do Subprocurador-Geral Paulo de Tarso Braz Lucas opina pelo provimento do apelo extremo.
+    4. Tenho que o recurso não merece acolhida. É que, para se chegar a conclusão diversa da adotada pelo aresto recorrido, se faz necessário o reexame da legislação infraconstitucional pertinente e o revolvimento do conjunto fático-probatório (Súmula 279/STF), providências vedadas neste momento processual.
+    5. De mais a mais, o Plenário desta Casa de Justiça, ao apreciar o RE 638.483 da relatoria do ministro Cezar Peluso, reconheceu a repercussão geral da questão constitucional analisada e resolveu reafirmar a jurisprudência do Supremo Tribunal Federal no sentido de que à Justiça estadual competente processar e julgar a matéria referente ao recebimento de benefício previdenciário decorrente de acidente de trabalho.
+    Ante o exposto, com a ressalva do meu entendimento pessoal, acedo, democraticamente, ao pensar majoritário dos ministros do Supremo Tribunal Federal e, frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 06 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
