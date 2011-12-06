@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça da Bahia cuja ementa tem o seguinte teor (fls. 104):
+    “MANDADO DE SEGURANÇA. CERTAME. AGENTE DE POLÍCIA CIVIL. EDITAL SAEB/001-97. LEI ESTADUAL 7.146/97. REQUISITOS DE ADMISSÃO. TESTE APTIDÃO FÍSICA. PREVISÃO LEGAL. AUSÊNCIA. OFENSA À DIREITO LÍQUIDO E CERTO.
+    I – O prazo decadencial de 120 dias para a Impetração do mandamus é contado a partir do ato concreto realizado sob a égide de cláusula editalícia reputada ilegal e não da publicação do edital. PRELIMINAR REJEITADA.
+    II – A exigência de realização de Teste de Aptidão Física no Edital SAEB/001-97 não se coaduna com a Lei Estadual nº 7.146/97, vez que este não é exigido, trazendo como requisitos para provimento dos cargos da Policia Civil, apenas, a) a inexistência de registro de antecedentes policiais ou criminais; b) procedimento irrepreensível e idoneidade moral; e c) temperamento adequado ao exercício da função policial civil (artigo 11), sem qualquer referência a prova de esforço físico, o que passou a existir após a edição da Lei Estadual nº 11.369/2009.
+    III – Norma editalícia de concurso público não pode limitar o que a lei não restringiu. Assim, a exigência do teste de aptidão física sem prévia previsão legal fere direito líquido e certo do Impetrante, razão da concessão da ordem pretendida.”
+    No recurso extraordinário, aponta-se violação do disposto nos arts. 5º, caput, e 37, I e II, da Carta Magna. Argumenta-se que houve desrespeito ao princípio da isonomia uma vez que os demais candidatos submeteram-se às mesmas provas ou etapas do concurso, em igualdade de condições e regras.
+    Em casos análogos ao presente, esta Corte firmou entendimento no sentido de que a controvérsia sobre o exame de aptidão física em concurso público, envolve análise de legislação infraconstitucional, de sorte que se ofensa tivesse havido à Constituição, teria sido ela indireta, reflexa, o que inviabilizaria a via extraordinária. Assim, haverá a incidência da Súmula 636 desta Corte. Nesse sentido as ementas a seguir transcritas:
+    “Agravo regimental em agravo de instrumento. 2. Concurso público. Polícia Civil. Teste de aptidão física. 3. Matéria restrita ao âmbito da legislação infraconstitucional. Precedente. 4. Agravo regimental a que se nega provimento”. (AI 406.098-AgR, rel. min. Gilmar Mendes, Segunda Turma, DJ de 1.02.2008)
+    “Concurso público. Exame de aptidão física. Recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário: incidência, mutatis mutantis, da Súmula 636”.
+    No mesmo sentido, ainda, o AI 410.690-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 14.09.2007), o AI 419.187-AgR (rel. min. Nelson Jobim, Segunda Turma, DJ de 29.04.2003) e o AI 710.384 (rel. min. Menezes Direito, DJ de 09.09.2008).
+    Do exposto, conheço do agravo e nego nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 06 de dezembro 2011.
+Ministro JOAQUIM BARBOSA
+Relator
