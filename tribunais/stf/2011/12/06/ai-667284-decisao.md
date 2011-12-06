@@ -1,0 +1,17 @@
+DECISÃO
+    Vistos.
+    Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º; 37, caput e 169, § 1º, incisos I e II, da Constituição Federal.
+    Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça mineiro, assim ementado:
+    “ADMINISTRATIVO – TEMPO DE SERVIÇO PRESTADO À INICIATIVA PRIVADA – ADICIONAL POR TEMPO DE SERVIÇO – INTEGRAÇÃO AO CÁLCULO – EMENDA CONSTITUCIONAL Nº 09/1993 – PRESCRIÇÃO. O tempo de serviços prestados na iniciativa privada pode integrar o cálculo de adicionais, desde que tenha se completado em data anterior à publicação da Emenda Constitucional nº 09/93, independentemente da data do requerimento administrativo” (fl. 389).
+    Opostos embargos de declaração (fls. 397 a 400), foram rejeitados (fls. 403 a 405).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 14/12/05, conforme expresso na certidão de folha 406, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem, interpretando a legislação local, concluiu que “antes de ser alterado pelo poder constituinte derivado, o artigo 36, § 7º, da CEMG, garantia a comunicação do tempo de serviço na esfera privada às esfera pública no que respeitava à aposentadoria e aos adicionais. Tal garantia vigorou até 13/07/93, quando foi suprimida, por força da EC nº 09/93, a viabilidade de o servidor público valer-se de seu anterior tempo de serviço no setor privado para integrar quinquênios ou outras espécies de adicionais, restando, tão somente, a garantia relativa à aludida contagem para fins de aposentadoria” (fl. 393).
+    Assim, a discussão acerca da contagem do tempo de serviço para efeitos de percepção de adicionais está restrita à interpretação da legislação local, cuja revisão resta vedada em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, anote-se:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AVERBAÇÃO DE TEMPO DE SERVIÇO. CONSTITUIÇÃO DO ESTADO DE MINAS GERAIS, ART. 36, § 7º, E EMENDA 09/93 À CONSTITUIÇÃO MINEIRA. OFENSA INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO STF. I - O acórdão recorrido decidiu a questão dos autos com base em normas locais Constituição Mineira, art. 36, § 7º, e Emenda 09/93 à Constituição estadual, sendo certo, assim, que a ofensa à Constituição Federal, se ocorrente, seria indireta, o que não autoriza a admissão do recurso extraordinário. Incidência da Súmula 280 do STF. II - Agravo improvido” (AI nº 487.395/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/10/06).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: AI nº 794.412/ MG, Relatora a Ministra Cármen Lúcia, DJe de 5/5/10; RE nº 544.607/MG, Relator o Ministro Cezar Peluso, DJe de 18/2/10; AI nº 852.646/MG, Relator o Ministro Gilmar Mendes, DJe de 11/11/11 e AI nº 743.577/MG, Relator o Ministro Joaquim Barbosa, DJe de 8/11/11.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 6 de dezembro de 2011.
+Ministro DIAS TOFFOLI
+Relator
