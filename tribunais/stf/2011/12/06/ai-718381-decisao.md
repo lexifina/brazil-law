@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “DIREITO DO CONSUMIDOR. CONSIGNAÇÃO EM PAGAMENTO. ABASTECIMENTO DE ÁGUA E ESGOTO. IRREGULARIDADE DA MEDIÇÃO. CONSUMO MÉDIO. CORREÇÃO DA COBRANÇA.
+    Maioria das faturas apresentando faturamento medido, sem discrepar das cobranças efetuadas, em menor freqüência, pelo consumo médio. Possibilidade de cobrança da tarifa mínima. Enunciado nº 84 da Súmula desta Corte. Faturamento com base no consumo médio devidamente regulamentada pelo art. 108, caput e § 1º, do Decreto Estadual nº 553/76, nas hipóteses em que não seja possível a aferição do consumo real por problemas no medidor.
+    Sucessivas irregularidades no hidrômetro, inclusive com violações de seu selo e a inversão da engrenagem da relojoaria, impedindo a medição do consumo real. Correta substituição e selagem do hidrômetro, permitindo a efetiva discriminação pelo medidor, com o conseqüente aumento dos valores das faturas. Inexistência de provas dos fatos constitutivos do direito alegado. Ônus que incumbia à apelante. Art. 333, I, CPC. Inexistência de plausibilidade à inversão do ônus probatório por falta de razoabilidade e verossimilhança. Perfil de consumo que se manteve, não se constatando qualquer cobrança que escape à média de sua utilização e nem indícios de irregularidade no faturamento.
+    Imprestabilidade do parecer técnico trazido apenas em sede recursal. Infringência dos artigos 396 a 398 do CPC. Supressão de instância e violação ao contraditório.
+    Desprovimento do recurso.” (fls. 246)
+    Alega-se violação dos princípios da ampla defesa, do contraditório, do devido processo legal e da isonomia.
+    Decido.
+    Inicialmente, afasto o argumento da decisão agravada de que o recurso extraordinário não teria atendido ao disposto nos art. 102, § 3º, da Constituição federal, e 543-A, § 2º, do Código de Processo Civil, pois o Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007” (DJ de 06.09.2007), e, no caso dos autos, a intimação do acórdão recorrido se deu em 23.02.2007, conforme certidão de fls. 256.
+    No entanto, verifico recurso extraordinário não teria condições de êxito, por outros fundamentos.
+    Observo que inexistem as alegadas ofensas à Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    Ademais, saliento que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 6 de dezembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
