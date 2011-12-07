@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “CONSTITUCIONAL E ADMINISTRATIVO - PENSÃO ESTATUTÁRIA - NETO MENOR SOB GUARDA - PRORROGAÇÃO ATÉ 24 ANOS - ESTUDANTE UNIVERSITÁRIO - DEPENDÊNCIA ECONÔMICA.
+    I - O fundamento do benefício securitário pensão é a garantia da continuidade do provimento dos dependentes do segurado/funcionário após o evento de sua morte e a tal desiderato deve ser dado o mais amplo sentido, propiciando o amparo de relevantes valores a que faz alusão a Carta Federal de 1988, dentre eles a educação (art. 205);
+    II - Vista por este prisma, a pretensão de que seja estendida a pensão estatutária até que o Autor complete 24 anos, para que conclua o seu estudo universitário, mostra-se plenamente compatível com o espírito da atual Constituição Federal, não havendo, assim, afronta a qualquer dos princípios incutidos pelo seu art. 37, apesar do art. 217 da Lei 8.112/90 não prever esta situação em seu texto de forma expressa;
+    III - A própria Lei 8.112/90, em seu art. 197, considera como dependente econômico do servidor, para fins de percepção de salário-família, o filho maior, até 24 anos, desde que seja estudante. A caracterização, como dependente, do filho estudante até os 24 anos, também aparece no parágrafo 1º do art. 35 da Lei 9.250/95, legislação que versa sobre o imposto de renda;
+    IV - Ora, se o art. 77, 'c', da Lei 5.774/71, legislação direcionada para os militares, equipara o neto órfão ao filho, para efeitos de pensão, bem como a Medida Provisória nº 2.215-10/2001, prevê o pensionamento dos filhos maiores estudantes universitários até os 24 anos, por analogia, não deveria se opor a Administração em estender a pensão do Autor pelo simples fato de que seu benefício está subordinado a regime jurídico distinto, em nítida afronta ao princípio constitucional da isonomia;
+    V - Recurso provido” (fl. 180).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 40, § 7º, e 205 da mesma Carta.
+    A Procuradoria Geral da República manifestou-se pelo não conhecimento do recurso (fls. 333-338).
+    A pretensão recursal não merece acolhida. Quanto à alegada ofensa ao art. 40, § 7º, da Constituição, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 3.765/1960, 5.774/1971, 8.112/1990 e 9.250/1995, e MP 2.215/2001). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono a seguintes decisões, entre outras: RE 594.838-AgR/PE, Rel. Min. Eros Grau; RE 541.445/RN, AI 782.266/RN e AI 640.307/RJ, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 7 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
