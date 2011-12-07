@@ -1,0 +1,29 @@
+1980DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEPÓSITO RECURSAL. COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. DESERÇÃO. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal Superior do Trabalho decidiu:
+    “RECURSO DE REVISTA. 1. HORAS EXTRAS. ÔNUS DA PROVA. DESNECESSIDADE DE NOTIFICAÇÃO PARA JUNTADA DE CARTÃO DE PONTO. SÚMULA N. 338 DO TST. O entendimento do Tribunal Superior do Trabalho é no sentido de que é desnecessária a notificação da empregadora para que apresente cartões de ponto. A não juntada, implica em presunção relativa da veracidade da jornada de trabalho alegada na petição inicial. Assim, no caso, deve ser restabelecida a sentença, no aspecto, pois o Regional assentou que não houve notificação da reclamada para que apresentasse os referidos controles de ponto, e que o obreiro não se desincumbiu do ônus de comprovar a existência de horas extras. 2. RADIOLOGISTA. SALÁRIO PROFISSIONAL. A jurisprudência iterativa desta Corte, representada pela Orientação Jurisprudencial da SBDI-2 71 do TST, é no sentido de que a vinculação do piso salarial da categoria ao salário mínimo é possível quando não ocorra correção automática do piso em razão do aumento do valor do salário mínimo. Nesses casos, não há falar, portanto, em contrariedade à Súmula Vinculante n. 4 do STF. Assim, a decisão regional deve ser reformada para se adequar ao disposto na Súmula n. 358 do TST, segundo a qual o salário profissional dos técnicos em radiologia é igual a dois salários mínimos. Recurso de revista conhecido e provido” (fl. 290).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que “competia à Ré [ora Agravante] efetuar o depósito recursal de forma a integralizar o valor da condenação. Ao deixar de fazê-lo, tem-se por deserto o apelo” (fl. 347).
+    4. A Agravante argumenta que:
+    “a respeitável decisão que indeferiu a admissibilidade recursal limita-se a sustentar deserção.
+    E esse agravo rebate justamente a negativa de subida de recurso extraordinário, uma vez que o preparo foi devidamente recolhido, conforme comprovante que acompanha este recurso” (fl. 356).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o inc. LV do art. 5º da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos próprios autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    Verifica-se que o recurso extraordinário foi interposto em 3 de novembro de 2010, mas a Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social – GFIP, que comprovaria a integralização do valor da condenação pela ora Agravante, data de 26 de setembro de 2011.
+    Este Supremo Tribunal assentou que cabe à Agravante a comprovação do preparo do recurso extraordinário no momento da sua interposição, nos termos do art. 59 do Regimento Interno do Supremo Tribunal Federal e do art. 511, caput, do Código de Processo Civil.
+    Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. DESERÇÃO: AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DO PREPARO. EMBARGOS DE
+    DECLARAÇÃO REJEITADOS. 1. É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que compete à parte recorrente comprovar o recolhimento do preparo no ato da interposição do recurso. Precedentes. 2. Determinação de baixa imediata dos autos à origem” (AI 754.794-AgR-ED-EDv-ED, de minha relatoria, Plenário, DJe 20.8.2010).
+    7. Registre-se, também, que concluir de forma diversa do que decidido pela instância originária demandaria a análise prévia da legislação infraconstitucional aplicada à espécie (§ 1º do art. 899 da Consolidação das Leis do Trabalho – CLT). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “DIREITO DO TRABALHO E DIREITO PROCESSUAL CIVIL. DESERÇÃO. AUSÊNCIA DE COMPROVAÇÃO DO DEPÓSITO RECURSAL NO ATO DA INTERPOSIÇÃO DO APELO. ART. 899, § 1º, DA CLT. PRESSUPOSTO DE ADMISSIBILIDADE. DEPÓSITO RECURSAL. OFENSA REFLEXA. INTERPRETAÇÃO DE NORMA PROCESSUAL. 1. Em matéria trabalhista, o recorrente além de cumprir as regras previstas no CPC, também está submetido às exigências da legislação específica, sem que tal fato signifique invasão de competência. 2. O debate acerca do recolhimento de custas ou de depósito recursal não autoriza a interposição de recurso extraordinário ante a exigência de interpretação de norma processual infraconstitucional. Precedentes. 3. Agravo regimental improvido” (AI 720.216-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 11.9.2009).
+    A decisão agravada está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de dezembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
