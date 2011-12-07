@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Superior do Trabalho. Leia-se do julgado, na parte que interessa ao deslinde da causa (fls. 154/155):
+    “Por outro lado, não há que se falar em violação direta e literal ao art. 169, §1º, inciso I, da CF, uma vez que este preceito não dispõe especificamente sobre a obrigatoriedade ou não do cumprimento de convenções coletivas por sociedade de economia mista.
+    Note-se que o Regional, na verdade, resolveu a questão com base no art. 173, § 1º, II, da CF, que dispõe sobre a sujeição das sociedades de economia mista ao regime jurídico próprio das empresas privadas, inclusive quanto aos direitos e obrigações trabalhistas, levando-se à observância do art. 7º, XXVI, da CF, que determina o reconhecimento das convenções e acordos coletivos de trabalho.
+    Cumpre observar, ainda, que o art. 169, § 1º, inciso II, da CF, ressalva as sociedades de economia mista quanto à autorização específica exigida na lei de diretrizes orçamentárias.
+    Quanto ao art. 623 da CLT, o Regional quedou-se totalmente silente sobre o citado preceito, e a falta de prequestionamento atrai o óbice previsto no En. 297/TST.
+    No tocante ao art. 209, § 5º, inciso I, da Constituição Estadual, a revista, também, não merecia ser processada porque pelo art. 896 da CLT, somente cabe recurso de revista, em se tratando de norma estadual, quando comprovada divergência sobre norma que exceda a jurisdição do Tribunal prolator da decisão recorrida, e este não é o caso dos autos”.
+    2. Pois bem, a parte recorrente alega violação ao inciso I do § 1º do art. 169 da Magna Carta de 1988. Sustenta que “as sociedades de economia mista – como, in casu, a recorrente – somente podem responder por vantagens e aumentos de remuneração, ainda que decorrentes de convenção coletiva, na hipótese de haver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes” (sic, fls. 163).
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do, à época, Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo não-conhecimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pela instância judicante de origem afina com a jurisprudência desta nossa Casa de Justiça.
+    5. Com efeito, ao julgar o MS 22.160, da relatoria do ministro Sydney Sanches, o Plenário do STF concluiu que o “art. 169, parágrafo único, da C.F., segundo o qual ‘a concessão de qualquer vantagem’ pelos ‘órgãos e entidades da administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público, só poderá ser feita ‘se houver prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes’ e ‘se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista”. (sem destaque no original).
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 7 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
