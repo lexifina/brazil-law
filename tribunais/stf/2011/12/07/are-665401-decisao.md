@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. 1) EMBARGOS DECLARATÓRIOS CONTRA NEGATIVA DE SEGUIMENTO A RECURSO EXTRAORDINÁRIO: NÃO INTERRUPÇÃO (OU SUSPENSÃO) DO PRAZO RECURSAL. 2) INTEMPESTIVIDADE (SÚMULA N. 699 DO SUPREMO TRIBUNAL). RECURSO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da 2ª Turma Recursal Criminal dos Juizados Especiais do Rio de Janeiro, que manteve a condenação do ora Recorrente pela prática do crime do art. 308 do Código de Trânsito Brasileiro, mas substituiu a prestação de serviços à comunidade por prestação pecuniária e diminuiu o valor do dia-multa fixado na sentença.
+    Tem-se nesse julgado:
+    “Há também nas pretensões recursais a alegação de que não foram observados os direitos dos acusados à transação penal e suspensão condicional do processo. No entanto, verifica-se às fls. 22 e 86 que tais institutos, direito subjetivo dos acusados, foram plenamente observados. Porém, não foram aceitas as condições propostas pelo Ministério Público. De modo que, tal argumentação também não merece prosperar.
+    No tocante à avaliação da prova procedida na sentença, esta também não estar a merecer reparos” (fls. 403-404 – grifos nossos).
+    2. O Recorrente alega que o Juízo a quo teria contrariado os arts. 5º, inc. LIV e LV, e 93, inc. IX, da Constituição da República, pelas seguintes razões: a) “a corrida, disputa ou competição, elementar do tipo do artigo 308 do CTB (…), não está comprovada” (fl. 466); b) não teria sido observado o art. 89 da Lei n. 9.099/1995; c) rejeição dos embargos declaratórios opostos contra o julgado recorrido.
+    3. O recurso extraordinário foi inadmitido pelo Juízo a quo sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 279 do Supremo Tribunal (fls. 491-495).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O agravo é intempestivo.
+    A publicação da decisão agravada ocorreu no DJe de 24.8.2011 (fl. 617), o prazo começou a fluir em 25.8.2011 e findou em 29.8.2011.
+    O agravo, no entanto, foi protocolizado no dia 3.10.2011 (fl. 512), quando exaurido o prazo de cinco dias previsto no art. 28 da Lei 8.038/90 (Súmula n. 699 do Supremo Tribunal: “o prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil”).
+    Nesse sentido:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE: INCIDÊNCIA DA SÚMULA 699 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é de cinco dias o prazo para a interposição do agravo de instrumento em recurso extraordinário criminal, conforme o art. 28 da Lei n. 8.038/90, não revogado, em matéria penal, pela Lei n. 8.950/94, de âmbito normativo restrito ao Código de Processo Civil. Incide, no caso, a Súmula 699 do Supremo Tribunal Federal. 2. Agravo Regimental desprovido” (AI 640.461-AgR, de minha relatoria, DJ 22.6.2007).
+    E ainda: AI 655.692-AgR, Rel. Min. Ricardo Lewandowski, DJ 31.8.2007, e AI 476.707-AgR, Rel. Min. Cezar Peluso, DJ 11.3.2005, entre outros.
+    7. Ressalte-se que a interposição de recurso manifestamente incabível (embargos de declaração contra a decisão que não admitiu o recurso extraordinário – fls. 500-502) não interrompeu nem suspendeu o prazo recursal, nos termos da jurisprudência do Supremo Tribunal:
+    “DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. O agravo de instrumento é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão do Presidente do Tribunal de Origem que nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo Regimental a que se nega provimento” (AI 602.116-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 26.10.2007).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DECISÃO QUE NÃO ADMITE O RECURSO EXTRAORDINÁRIO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. RECURSO INCABÍVEL. AGRAVO DE INSTRUMENTO INTEMPESTIVO. I- Não cabem embargos de declaração da decisão que não admite o recurso extraordinário. II- Recurso incabível não tem o efeito de suspender o prazo recursal. III- Agravo regimental improvido” (AI 588.190-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 8.6.2007).
+    8. Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, não conheço deste agravo (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Brasília, 7 de dezembro de 2011.
+Ministra CÁRMEN LÚCIA
+Relatora
