@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 269):
+    “RECURSO ORDINÁRIO EM AÇÃO RESCISÓRIA. PREJUDICIAL. DECADÊNCIA. AÇÃO AJUIZADA PELO MINISTÉRIO PÚBLICO DO TRABALHO.
+    1. De acordo com o entendimento contido na Súmula 100, item VI, na hipótese de colusão das partes, o prazo decadencial para o ajuizamento da ação rescisória somente começa a fluir para o Ministério Público, que não interveio no processo principal, a partir do momento em que tem ciência da fraude.
+    2. In casu, deve ser considerado como termo inicial a data de 09.06.2005, quando o Ministério Público do Trabalho teve acesso à relação de ações trabalhistas que foram ajuizadas em face da Empresa-ré, ocasião em que tomou ciência da prática de ato simulado na reclamação trabalhista em que foi proferida a sentença homologatória que ora se pretende rescindir.
+    3. Neste diapasão, tendo em vista que a ciência do Parquet deu-se em 09.06.2005 e a ação rescisória foi ajuizada apenas em 27.06.2008, em desobediência ao prazo previsto no artigo 495 do CPC, impende seja reconhecida a decadência.
+    4. Recurso ordinário a que se dá provimento para julgar extinto o feito, com resolução do mérito, nos termos do artigo 269, IV, do CPC.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV, 93, IX, 127 e 129 da Constituição federal. Sustenta-se a nulidade do acórdão recorrido em razão da negativa de prestação jurisdicional e o afastamento da pronúncia da decadência.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 127 e 129, versa questões constitucionais não ventiladas na decisão recorrida, faltando-lhe, pois, o indispensável prequestionamento (Súmula 282).
+    Ainda que superado o óbice supra, o Tribunal a quo aplicou a orientação de que o dies a quo para ajuizamento da ação rescisória é a data de ciência da fraude pelo Ministério Público e não a da conclusão dos procedimentos administrativos. Não vislumbro, portanto, tal como posta a controvérsia, ofensa direta aos arts. 127 e 129 da Constituição federal.
+    Por fim, inexiste a alegada afronta aos arts. 5º, XXXV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+    Ademais, ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010, tema 339), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Do exposto, conheço do agravo para negar seguimento ao recurso (art. 544, § 4º, II, b, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 9 de dezembro de 2011.
+Ministro JOAQUIM BARBOSA – Relator
