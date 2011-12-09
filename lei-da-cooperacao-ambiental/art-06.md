@@ -1,0 +1,1 @@
+Art. 6º As ações de cooperação entre a União, os Estados, o Distrito Federal e os Municípios deverão ser desenvolvidas de modo a atingir os objetivos previstos no art. 3º e a garantir o desenvolvimento sustentável, harmonizando e integrando todas as políticas governamentais.
