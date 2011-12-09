@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro. Acórdão assim ementado (fls. 144/145):
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. RECURSO DO IMPETRANTE CONTRA A SENTENÇA QUE DENEGOU A SEGURANÇA. PROMESSA DE COMPRA E VENDA. IMPOSTO DE TRANSMISSÃO DE BENS IMÓVEIS – ITBI. ESCRITURA DEFINITIVA. A QUITAÇÃO DO PREÇO EM PROMESSA DE COMPRA E VENDA NÃO CONSTITUI FATO GERADOR DO ITBI. O FATO GERADOR DO TRIBUTO CORRESPONDE AO MOMENTO DO REGISTRO DA ESCRITURA DEFINITIVA. RECURSO DE APELAÇÃO DO IMPRETRANTE PARA REFORMAR A SENTENÇA E CONCRETIZAR A NÃO-INCIDÊNCIA, NO RECOLHIMENTO, DOS JUROS DE MORA. Os juros de mora, incidentes no recolhimento do imposto, considerados antes do registro definitivo do domínio são ilegais e contrários à Lei Maior. Entendimento firmado no Superior Tribunal de Justiça no sentido de que a promessa de compra e venda sem registro, muito embora hábil para instruir ação de adjudicação compulsória, não faz nascer o fato gerador de imposto de transmissão de bens imóveis. Precedentes desta E. Corte Estadual. RECURSO PROVIDO.”
+    2. Pois bem, a parte recorrente alega violação ao § 7º do art. 150 e ao inciso II do art. 156 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo desprovimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. É que o entendimento da instância judicante de origem afina com a jurisprudência assentada pelo Plenário no julgamento da RP 1.121 no sentido de que “o compromisso de compra e venda, no sistema jurídico brasileiro, não transmite direitos reais nem configura cessão de direitos à aquisição deles, razão por que é inconstitucional a lei que o tenha como fato gerador de imposto sobre a transmissão de bens imóveis e de direitos a ele relativos”.
+    5. Precedentes: AIs 454.767, sob a relatoria do ministro Joaquim Barbosa; 646.443, sob a relatoria do ministro Marco Aurélio; 522.048, sob a relatoria do ministro Gilmar Mendes; e 764.432, sob a relatoria do ministro Dias Toffoli.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 09 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
