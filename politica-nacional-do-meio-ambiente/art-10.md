@@ -1,5 +1,5 @@
-Art. 10 - A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadoras de recursos ambientais, considerados efetiva e potencialmente poluidores, bem como os capazes, sob qualquer forma, de causar degradação ambiental, dependerão de prévio licenciamento de órgão estadual competente, integrante do Sistema Nacional do Meio Ambiente - SISNAMA, e do Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA, em caráter supletivo, sem prejuízo de outras licenças exigíveis.
-§ 1º - Os pedidos de licenciamento, sua renovação e a respectiva concessão serão publicados no jornal oficial do Estado, bem como em um periódico regional ou local de grande circulação.
-§ 2º Nos casos e prazos previstos em resolução do CONAMA, o licenciamento de que trata este artigo dependerá de homologação do IBAMA.
-§ 3º O órgão estadual do meio ambiente e o IBAMA, esta em caráter supletivo, poderão, se necessário e sem prejuízo das penalidades pecuniárias cabíveis, determinar a redução das atividades geradoras de poluição, para manter as emissões gasosas, os efluentes líquidos e os resíduos sólidos dentro das condições e limites estipulados no licenciamento concedido.
-§ 4º Compete ao Instituto Brasileiro do Meio Ambiente e Recursos Naturais Renováveis - IBAMA o licenciamento previsto no caput deste artigo, no caso de atividades e obras com significativo impacto ambiental, de âmbito nacional ou regional.
+Art. 10. A construção, instalação, ampliação e funcionamento de estabelecimentos e atividades utilizadores de recursos ambientais, efetiva ou potencialmente poluidores ou capazes, sob qualquer forma, de causar degradação ambiental dependerão de prévio licenciamento ambiental.
+§ 1º Os pedidos de licenciamento, sua renovação e a respectiva concessão serão publicados no jornal oficial, bem como em periódico regional ou local de grande circulação, ou em meio eletrônico de comunicação mantido pelo órgão ambiental competente.
+§ 2º (Revogado).
+§ 3º (Revogado).
+§ 4º (Revogado).
