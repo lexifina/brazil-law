@@ -1,0 +1,2 @@
+Art. 5º O ente federativo poderá delegar, mediante convênio, a execução de ações administrativas a ele atribuídas nesta Lei Complementar, desde que o ente destinatário da delegação disponha de órgão ambiental capacitado a executar as ações administrativas a serem delegadas e de conselho de meio ambiente.
+Parágrafo único. Considera-se órgão ambiental capacitado, para os efeitos do disposto no caput, aquele que possui técnicos próprios ou em consórcio, devidamente habilitados e em número compatível com a demanda das ações administrativas a serem delegadas.

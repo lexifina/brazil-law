@@ -1,0 +1,5 @@
+Art. 14. Os órgãos licenciadores devem observar os prazos estabelecidos para tramitação dos processos de licenciamento.
+§ 1º As exigências de complementação oriundas da análise do empreendimento ou atividade devem ser comunicadas pela autoridade licenciadora de uma única vez ao empreendedor, ressalvadas aquelas decorrentes de fatos novos.
+§ 2º As exigências de complementação de informações, documentos ou estudos feitas pela autoridade licenciadora suspendem o prazo de aprovação, que continua a fluir após o seu atendimento integral pelo empreendedor.
+§ 3º O decurso dos prazos de licenciamento, sem a emissão da licença ambiental, não implica emissão tácita nem autoriza a prática de ato que dela dependa ou decorra, mas instaura a competência supletiva referida no art. 15.
+§ 4º A renovação de licenças ambientais deve ser requerida com antecedência mínima de 120 (cento e vinte) dias da expiração de seu prazo de validade, fixado na respectiva licença, ficando este automaticamente prorrogado até a manifestação definitiva do órgão ambiental competente.

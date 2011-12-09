@@ -1,0 +1,1 @@
+Art. 11. A lei poderá estabelecer regras próprias para atribuições relativas à autorização de manejo e supressão de vegetação, considerada a sua caracterização como vegetação primária ou secundária em diferentes estágios de regeneração, assim como a existência de espécies da flora ou da fauna ameaçadas de extinção.
