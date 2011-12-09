@@ -1,1 +1,1 @@
-Art. 12. Salvo no que entende com as instituições públicas referidas no artigo 4º, as infrações ao disposto nesta lei serão punidas, segundo o caráter e a gravidade, com a multa de cem a cinco mil cruzeiros.
+Art. 12. As infrações ao disposto nesta Lei serão punidas, com multa de R$ 40,25 (quarenta reais e vinte e cinco centavos) a R$ 4.025,33 (quatro mil e vinte e cinco reais e trinta e três centavos), segundo a natureza da infração, sua extensão e a intenção de quem a praticou, aplicada em dobro no caso de reincidência e oposição à fiscalização ou desacato à autoridade.
