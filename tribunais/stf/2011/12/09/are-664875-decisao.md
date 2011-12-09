@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “Competência absoluta do Juizado da Fazenda Pública. A Fazenda Pública não tem foro privilegiado, mas privativo nas comarcas em que encontram varas especializadas. Inteligência dos artigos 94 a 101 do Código de Processo Civil. Recurso não provido”. (fl. 425)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, do texto constitucional, sustenta-se violação ao artigo 5º, inciso LV, da Constituição da República.
+    Nas razões recursais, alega-se, em síntese, o seguinte:
+     “(...) obstado os meios de recursos inerentes ao caso, trouxe prejuízo aos Recorrentes, que tiveram sua ação extinta sem apreciação de mérito, deixando o Judiciário de cumprir com seu mister, que é a prestação jurisdicional, merecendo que seja decretada a nulidade de todos os atos processuais, desde o momento em que foi cerceado o direito ao contraditório e a ampla defesa dos Autores, que seria exercido através do recurso de Agravo de Instrumento contra a decisão que declarou a incompetência da 10ª Vara da Fazenda Pública da Capital (...)”. (fl. 111)
+    Segundo os diversos fundamentos aduzidos na decisão agravada, o apelo extremo não pode ser admitido porque:
+     “ (…) apesar de o Recorrente expressamente aludir ao art. 5º da Carta Magna, para tentar demonstrar uma suposta agressão, teve que, inicialmente, apontar uma eventual distorção dos citados preceitos de ordem infraconstitucional, para somente depois de transcorrer a extensa e longa via oblíqua (...)”. (fl. 133).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o acórdão recorrido não ultrapassou o exame de admissibilidade do recurso de revista.
+    O acórdão recorrido decidiu a controvérsia dos autos com base na legislação infraconstitucional aplicável à espécie, donde se conclui que a ofensa à Constituição Federal, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, confiram-se as seguintes decisões em casos análogos ao dos autos: AI-ED 815.503, Rel. Min. Ricardo Lewandowski, DJe 25.2.2011, AI-AgR 795.867, Rel. Min. Luiz Fux, DJe 19.5.2011 e AI-AgR 776.601, Rel Min. Dias Toffoli, DJe 19.9.2011, assim ementado:
+    “Agravo regimental no agravo de instrumento. Competência do Relator. Negativa de prestação jurisdicional. Não ocorrência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Reexame de cláusulas contratuais e de fatos e provas. Impossibilidade. Precedentes. 1. É competente o Relator (artigo 557, caput, do Código de Processo Civil e artigo 21, parágrafo 1º, do Regimento Interno do Supremo Tribunal Federal) para negar seguimento “ao recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com a súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal, ou de Tribunal Superior.” 2. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada. 3. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 4. Inadmissível em recurso extraordinário o reexame da legislação infraconstitucional, de cláusulas contratuais e dos fatos e provas dos autos. Incidência das Súmulas nº 636, 454 e 279/STF. 5. Agravo regimental não provido”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se. Int.
+    Brasília, 9 de dezembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
