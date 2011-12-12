@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Instituto Nacional do Seguro Social - INSS interpõe recurso extraordinário, com fundamento na alínea a do permissivo constitucional, contra despacho monocrático referendado pela Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado de Pernambuco, assim proferido:
+    “Trata-se de recurso inominado formulado pelo INSS em face da sentença que julgou procedente o pedido de revisão de aposentadoria por tempo de serviço.
+    2. Consoante os artigos 53, I e II e 54, da Lei 8.213/91, a aposentadoria por tempo de serviço consistirá numa renda mensal de a) para mulher, 70% dos salários-de-benefícios aos 25 anos de serviço, mais 6% deste para cada novo ano completo de atividade, até o máximo de 100% do salário-benefício aos 30 anos de serviço; b) para o homem, 70% do salário-benefício aos 30 anos de serviço, mais de 6% deste para cada novo ano completo de atividade, até o máximo de 100% do salário-de-benefício aos 35 anos de serviço.
+    3. No caso, o tempo laborado pela parte autora é o exigido para a percepção do coeficiente máximo de 100% de salário-de-benefício, como renda mensal.
+    4. As determinações dos arts. 53, I e II, e 54, da Lei 8.213/91, que fixaram a renda mensal até o coeficiente máximo de 100% do salário-de-benefício, para quando o segurado completar 30 anos de serviço, se mulher, 35 anos de serviço, se homem, são aplicáveis aos benefícios concedidos antes de sua edição, mas observando-se os efeitos financeiros somente a partir da publicação da referida Lei, não havendo falar em retroatividade da lei.
+    5. Inexistência de ofensa ao direito adquirido, pois, no presente caso, têm-se a incidência imediata da lei nova que majora percentuais referentes às cotas dos benefícios previdenciários, com efeitos a serem produzidos somente a partir de sua vigência.
+    6. Vedada a ofensa ao ato jurídico perfeito, ao direito adquirido e à coisa julgada (art. 5°, XXXVI, da CF/88, e art. 6° da LICC, alcançando as relações interiores nos efeitos a serem produzidos em decorrência da continuidade das relações, a partir de sua vigência (Precedentes: STJ, RESP 413331, Quinta Turma, DJ 04/08/2003, p. 361).
+    7. Recurso improvido. Custas e honorários a cargo do INSS, estes fixados em 10% do valor da condenação (art. 55 da Lei 9.099/95)” (fl. 69).
+    Opostos embargos de declaração (fl. 72), foram rejeitados (fls. 74 a 76).
+    Aduz o recorrente contrariedade aos artigos 5º, inciso XXXVI, e 195, parágrafo 5º, da Constituição Federal, requerendo a manutenção do benefício na forma como originalmente concedido.
+    Contrarrazoado (fls. 82 a 87), o recurso foi admitido na origem (fl. 89), subindo os autos a esta Suprema Corte.
+    Decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão dos embargos de declaração em 2/10/06, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    E, ainda, que no caso dos autos se trata de revisão do benefício previdenciário de aposentadoria do recorrido, levando em consideração a contagem de tempo de serviço prestado em atividade considerada especial pela legislação previdenciária e não sobre a aplicação retroativa da Lei n° 8.213/91 determinando a revisão para 100% da renda mensal inicial.
+    Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte está consolidada no sentido de que a análise da atividade exercida e os requisitos para aposentadoria estão restritos à interpretação da legislação infraconstitucional pertinente (Leis nºs 8.213/91, 9.032/95) e aos fatos e provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONTAGEM DO TEMPO DE SERVIÇO. TERMO INICIAL DA CONCESSÃO DA APOSENTADORIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI nº 671.330/SP-AgR, Primeira Turma, Relatora a Ministra C ármen Lúcia , DJe de 4/2/10).
+    Recurso extraordinário: descabimento: questão relativa à contagem de tempo de serviço especial para efeito de aposentadoria decidida à luz de legislação infraconstitucional (L. 8.213/91): alegada violação a dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta, que não enseja reexame no RE: incidência, mutatis mutandis , da Súmula 636.(AI nº 329.355/SC-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence , DJ de 5/6/06).
+    Nessa conformidade, ainda, os seguintes precedentes: AI nº 606.122/RN, Relator o Ministro Ricardo Lewandowski , DJe de 15/6/10, RE nº 480.739/RS, Relator o Ministro Joaquim Barbosa , DJ de 11/3/10 e AI nº 449.542/MG, Relatora a Ministra Ellen Gracie , DJ de 12/2/10.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
