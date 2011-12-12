@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Condomínio Edifício Florêncio Costa interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário fundado na alínea “a” do permissivo constitucional, interposto contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+    “TRIBUTÁRIO – MANDADO DE SEGURANÇA – SERVIÇO DE TRATAMENTO DE ESGOTO – CONTRAPRESTAÇÃO – TARIFA – TAXA
+    Constitui tarifa (preço público) – e não taxa (tributo) – a contraprestação devida pelo usuário do serviço de coleta de esgoto prestado por sociedade de economia mista em regime de concessão (AI nº. 225.143, Min. Marco Aurélio; RE 207.609, Min. Néri Silveira).” (fls. 511)
+    O recorrente, no apelo extremo, alega afronta aos artigos 5º, inciso II, 37, caput, e 93, IX, todos da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação.
+    Inicialmente, afasto a alegada afronta ao artigo 93, IX, da Constituição Federal, posto que o acórdão recorrido encontra-se devidamente motivado e fundamentado, embora contrário ao interesse da ora agravante.
+    Quanto a alegada afronta aos artigos 5º, II e 37 da CF, o entendimento desta Corte é pacífico no sentido de que as violações ao mencionados preceitos constitucionais configuram-se, em regra meras ofensas reflexas, sendo, dessa forma, incabível a interposição de apelo extremo. Nesse sentido, Veja-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO POR MORTE. ALEGAÇÃO DE VIOLAÇÃO AO ARTIGO 37, XIV, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. MATÉRIA INFRACONSTITUCIONAL. 1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal federal. 2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Min. CÁRMEM LÚCIA, 1ª Turma, DJ 18.03.11. 3. As alegações de ofensa aos postulados da legalidade, do devido processo legal, da ampla defesa, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se ocorrente, seria indireta ou reflexa . Precedentes: AI n. 803.857-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 17.03.11; AI n. 812.678-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 08.02.11; AI n. 513.804-AgR, Rel. Min. JOAQUIM BARBOSA, 1ª Turma, DJ 01.02.11 . 4. In casu, o acórdão recorrido decidiu a lide com aplicação de normas infraconstitucionais, por isso que eventual violação à Constituição o foi de forma indireta ou reflexa, o que inviabiliza a admissibilidade do recurso extraordinário. 5. O recurso extraordinário não é servil ao exame de questões que demandam o revolvimento do contexto fático-probatório encartado nos autos, em face do óbice erigido pela Súmula 279 do STF, de seguinte teor: Para reexame de prova não cabe recurso extraordinário. 6. Agravo regimental desprovido”. (AI 720614 AgR, Relator(a): Min. LUIZ FUX , Primeira Turma, julgado em 21/06/2011, DJe-125 DIVULG 30-06-2011 PUBLIC 01-07-2011 EMENT VOL-02555-04 PP-00710) – Grifo nosso.
+    Ademais, ainda que assim não fosse, a Segunda Turma deste Tribunal, no RE 447.536-ED, 28.6.2005, Carlos Velloso, em que recorrida a mesma concessionária, decidiu:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS À DECISÃO DO RELATOR: CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO: TAXA DE ESGOTO SANITÁRIO. PRESTAÇÃO DE SERVIÇO POR CONCESSIONÁRIA. NATUREZA JURÍDICA DE PREÇO PÚBLICO.
+    I. - Embargos de declaração opostos à decisão singular do Relator. Conversão dos embargos em agravo regimental.
+    II. - A jurisprudência do Supremo Tribunal Federal é no sentido de que não se trata de tributo, mas de preço público, a cobrança a título de água e esgoto. Precedentes.
+    III. - Embargos de declaração convertidos em agravo regimental. Não-provimento deste.”
+    Nesse mesmo sentido, cito ainda as seguintes decisões monocráticas: AI 712.617/SC, Relator o Ministro Marco Aurélio, Dje 12/8/10; RE 471.119/SC, Relator a Ministra Ellen Gracie, DJ 24/2/06 e RE 429.664/SC, Relator o Ministro Cezar Peluso, DJ 4/10/04.
+    Diante do exposto, nos termos da jurisprudência desta Corte, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 12 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
