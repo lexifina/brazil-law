@@ -1,0 +1,19 @@
+Despacho:
+    Vistos.
+    Roberto Antônio Ladeia e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 7, inciso X, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Sétima Turma do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO CONTRA SENTENÇA QUE JULGOU IMPROCEDENTES OS EMBARGOS À EXECUÇÃO - PRETENSÃO DE DESBLOQUEIO DE CONTA - BLOQUEIO NÃO PREJUDICIAL À SUBSISTÊNCIA - RECURSO IMPROVIDO“
+    Do voto do Relator do acórdão atacado destacam-se os seguintes fundamentos:
+    “Devo ressaltar que os extratos de fls. 143/156 demonstram que o recorrente não possui apenas uma única fonte de renda, não sendo a conta do Banco do Brasil exclusiva para o recebimento de salário, conforme ofício de fl. 160.
+    Percebe-se, também, que o recorrente não terá a sua subsistência prejudicada com o bloqueio, tendo em vista o saldo bancário à época do bloqueio. Ademais, o recorrente apenas alegou tratar-se de conta salário, nada mencionando sobre eventual prejuízo a sua subsistência.”
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. SUBSTITUIÇÃO DE BEM. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 728.878/GO-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/3/09).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. NOMEAÇÃO DE BENS À PENHORA. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. ALEGAÇÃO DE OFENSA AO ARTIGO 93, IX, DA CONSTITUIÇÃO FEDERAL. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, mas, sendo prescindível que a mesma se funde na tese suscitada pela parte. Precedente: AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13,08.2010. 5. Agravo regimental a que se nega provimento.” (AI nº 738.998/GO-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 17/10/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 12 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
