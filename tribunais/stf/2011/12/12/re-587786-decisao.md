@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 5ª Região. Acórdão assim ementado (fls. 85):
+    “TRIBUTÁRIO. IMUNIDADE. CONTRIBUIÇÃO PREVIDENCIÁRIA. ENTIDADES DE ASSISTÊNCIA SOCIAL. ART. 195, § 7º, DA CF/88. LEI 8.212/91, ART. 55. LEI 9.732/98. ADIN 2028-MC-DF. RESTITUIÇÃO. JUROS DE MORA.
+    - A imunidade gozada por entidade de assistência social, sem fins lucrativos, que preenchia os requisitos estabelecidos pela Lei nº 8.212/91, art. 55, não pode ser revogada ante o surgimento da novel sistemática introduzida pela Lei nº 9.732/98.
+    - O STF referendando liminar na ADIN 2028-MC-DF suspendeu a eficácia do artigo 1º, na parte em que alterou a redação do art. 55, III, da Lei nº 8.212/91 e acrescentou-lhe os §§ 3º, 4º e 5º; e dos artigos 4º, 5º e 7º, da Lei 9.732/98, por entender que houve desvirtuamento do conceito constitucional de entidade beneficente de assistência social, resultando em limitação da imunidade.
+    - Com o advento da Lei nº 9.250/95, a partir de 1º.01.96, os juros de mora, tanto na repetição de indébito como na compensação passaram a ser devidos pela taxa SELIC que conglomera fator de correção monetária e juros de mora, excluindo quaisquer outros índices, sob pena de bis in idem.
+    - Apelação desprovida e remessa parcialmente provida.”
+    2. Pois bem, a parte recorrente defende que “o gozo da imunidade prevista no art. 195, § 7º da CF depende do preenchimento dos requisitos contidos no art. 55 da Lei 8.212/91, excluindo-se apenas as alterações consideradas inconstitucionais por esse Pretório Excelso, afastando, ainda, suposto direito adquirido à manutenção da imunidade” (fls. 133).
+    3. Tenho que a insurgência não merece acolhida. De saída, tendo em vista que a instância judicante de origem afastou a aplicação ao caso dos §§ 3º, 4º e 5º do inciso III do art. 55 da Lei 8.212/1991, que foram acrescentados pela Lei 9.732/1998, a parte recorrente carece de interesse em recorrer, ante a ausência de sucumbência, no tocante à incidência do art. 55 da Lei 8.212/1991, em sua redação original.
+    4. De mais a mais, para se chegar a entendimento diverso do adotado pelo TRF/5ª Região – que reconheceu a imunidade tributária à entidade de assistência social porque foram preenchidos os requisitos do art. 55 da Lei 8.212/1991 –, são necessários a análise da legislação infraconstitucional pertinente e o reexame do conjunto fático-probatório dos autos. Logo, eventual ofensa ao Texto Constitucional, se existente, apenas ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via recursal extraordinária.
+    5. À derradeira, pontuo que o Supremo Tribunal Federal decidiu que não há questão constitucional a ser examinada e, em conseqüência, deu pela ausência do requisito da repercussão geral na matéria envolvendo o preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/1991. Precedente: RE 642.442, da relatoria do ministro Presidente.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 12 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
