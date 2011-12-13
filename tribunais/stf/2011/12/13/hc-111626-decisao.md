@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Edson Penha Barbosa, apontando como autoridade coatora o Superior Tribunal Militar, que negou provimento ao Recurso de Apelação nº 29-69.20009.7.09.0009/MS.
+    Sustenta a impetrante, em linhas gerais, que a vedação contida na alínea “a” do inciso II do art. 88 do Código Penal Militar seria incompatível com a Carta da República. Por essa razão, entende que essa proibição apriorística e abstrata da suspensão condicional da pena (sursis) pela prática do crime de deserção não teria sido recepcionada pela Constituição.
+    Aduz, ainda, que, “ao pinçar alguns delitos para marcar-lhes com a vedação da concessão do ‘sursis’, o legislador de exceção invadiu indevidamente o âmbito de atuação do Poder Judiciário, procurando retirar do Juiz Natural o seu poder-dever de individualizar a pena em cada caso concreto que é submetido à sua apreciação” (fl. 19 da inicial – grifos conforme o original).
+    Requer o deferimento da liminar para suspender “os efeitos da sentença condenatória proferida pelo Juízo da Auditoria Militar da 9ª Circunscrição Judiciária Militar em desfavor do paciente no bojo da ação penal militar nº 0000029-69.2009.7.09.0009/MS, com o sobrestamento da execução da condenação imposta, até a decisão final de mérito, vez que presentes todos os requisitos autorizadores da medida excepcional”. No mérito, pede a concessão da ordem para “declarar, em sede de controle difuso de constitucionalidade, inerente a todos os Órgãos do Poder Judiciário, a não recepção pela Constituição Federal de 1988, do artigo 88, inciso II, alínea ‘a’, do Código Penal Militar, por ofensa ao Princípio da Individualização da Pena, insculpido no artigo 5º, inciso XLVI, da Lei Maior”, bem como seja determinado “o Juízo da Auditoria da 9ª Circunscrição Judiciária Militar que examine o preenchimento dos requisitos objetivos e subjetivos para a concessão do sursis ao paciente”  (fl. 21 da inicial - grifos conforme o original).
+    Examinados os autos, decido.
+    O writ não deve ser conhecido.
+    É que a Secretaria desta Suprema Corte certificou existência de outro habeas corpus impetrado em favor do ora paciente. Trata-se do HC nº 111.168/MS, de minha relatoria, que se encontra em trâmite nesta Suprema Corte.
+    Com efeito, verifica-se que a presente impetração apresenta exatamente o mesmo objeto e causa de pedir do HC nº 111.168/MS. Dessa maneira, não há razão para o prosseguimento do presente feito, visto que se trata de mera reiteração de impetração anterior.
+    Aliás, tal circunstância conduz, inevitavelmente, ao não-conhecimento do writ. Nesse sentido as seguintes decisões monocráticas: HC nº 110.804/TO, de minha relatoria, DJe de 3/11/11; HC nº 97.731/SP, Relator o Ministro Ricardo Lewandowski, DJ de 10/2/09; HC nº 96.776/BA, Relator o Ministro Menezes Direito, DJ de 21/1108; HC nº 83.131/SP, Relator o Ministro Celso de Mello, DJ de 15/8/03; e HC nº 80.636/MG, Relator o Ministro Nelson Jobim, DJ de 5/9/01.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus e determino o seu arquivamento, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 13 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
