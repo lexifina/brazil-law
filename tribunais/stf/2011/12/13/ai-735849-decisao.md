@@ -1,0 +1,17 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PRESTAÇÃO DE CONTAS – CONTRATO DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO – Dever de prestar contas próprio do contrato – Relação de mandato existente – Interesse de agir presente – Emissão das faturas que não inibe a propositura da ação – Procedência da ação mantida – Recurso improvido” (fl.178).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 170, IV, da mesma Carta.
+    O agravo não merece acolhida.
+    Preliminarmente, ressalte-se, que falta o necessário prequestionamento do art. 170, IV, da CF/88. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. Por oportuno, colaciono ementa do AI 700.144-AgR/RJ, de minha relatoria:
+    “TRIBUTÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. CONTRIBUIÇÕES SOCIAIS. EMPRESÁRIOS. AUTÔNOMOS E AVULSOS. LC 84/96. CONSTITUCIONALIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 287 DO STF. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II - A Contribuição social instituída pela Lei Complementar n. 84/96 teve sua constitucionalidade declarada pelo Plenário do STF, no julgamento do RE 228.321/RS. III - As razões do recurso não infirmam o fundamento da decisão agravada, o que atrai a incidência da Súmula 287 do STF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido”.
+    Por fim, no concernente à alegada violação ao art. 5º, LV, da Constituição, melhor sorte não ocorre a agravante. É que esta Corte firmou entendimento no sentido de que o recurso extraordinário não é o instrumento recursal adequado para discutir questão de índole processual ordinária relativa à aplicação de multa prevista no art. 538 do CPC, em razão de caráter protelatório dos embargos de declaração. Nesse sentido, menciono o RE 583.908/RN, Rel. Min. Ellen Gracie, cuja ementa segue transcrita, no que importa:
+    “(...) ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, XXXV E LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PRECEDENTES. APLICAÇÃO DE MULTA DO ART. 538, PARÁGRAFO ÚNICO DO CPC. MATÉRIA INFRACONSTITUCIONAL.
+    (...)
+    A via extraordinária não é adequada para debater matéria processual de índole infraconstitucional, relativa ao reexame do julgamento proferido em grau de embargos de declaração no qual foi aplicada multa, para verificar caráter protelatório do recurso apresentado do Tribunal de origem.
+    5.A imposição de multa fundada no parágrafo único do art. 538 do Código de Processo Civil não oferece implicação constitucional, pois a violação ao art. 93, IX, da Constituição Federal, se existente, se daria de maneira reflexa ou indireta. Precedentes.
+    6.Agravo regimental a que se nega provimento”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
