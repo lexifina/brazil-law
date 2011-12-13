@@ -1,0 +1,10 @@
+DECISÃO: O recurso extraordinário – a que se refere o presente agravo – revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Primeira Turma desta Suprema Corte, ao julgar o AI 820.495/SC, Rel. Min. CÁRMEN LÚCIA, fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. POLICIAL CIVIL. LEI COMPLEMENTAR N. 51/1985: RECEPÇÃO PELA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ADICIONAL DE PERMANÊNCIA PREVISTO NA LEI COMPLEMENTAR ESTADUAL N. 55/92: IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO DO RECURSO PELA ALÍENEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    O exame da causa em que interposto o recurso extraordinário em questão evidencia que o acórdão impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    De outro lado, cabe enfatizar que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010), inclusive no que concerne à hipótese prevista no art. 102, III, “c”, da Constituição, pois, quanto a esta, não ficou demonstrado, pela parte agravante, que o acórdão recorrido julgou válida lei de governo local contestado em face da Constituição da República.
+    Publique-se.
+    Brasília, 13 de dezembro de 2011.
+Ministro CELSO DE MELLO
+Relator
