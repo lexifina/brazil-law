@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1214, de 12 de dezembro de 2011
+Dispõe sobre os limites para remessa de valores, isentos do Imposto sobre a Renda Retido na Fonte (IRRF), destinados à cobertura de gastos pessoais, no exterior, de pessoas físicas residentes no País, em viagens de turismo, negócios, serviço, treinamento ou missões oficiais.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 60 da Lei nº 12.249, de 11 de junho de 2010, resolve:
