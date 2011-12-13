@@ -1,0 +1,11 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “AÇÃO RESCISÓRIA. PREVIDENCIÁRIO. REVISÃO DE AUXÍLIO-ACIDENTE. INCIDÊNCIA IMEDIATA DAS NOVAS REGRAS DISPOSTAS EM LEI PREVIDENCIÁRIA, COM APLICAÇÃO A FATO PRETÉRITO. POSIÇÃO DO SUPREMO TRIBUNAL FEDERAL, QUE CONSIDEROU A INTERPRETAÇÃO INCOMPATÍVEL COM A CONSTITUIÇÃO FEDERAL: RECURSO EXTRAORDINÁRIO N. 416.827/SC. VIOLAÇÃO À LITERAL DISPOSIÇÃO DE LEI: ART. 5º, INCISO XXXVI, E ART. 195, § 5º, AMBOS DA CONSTITUIÇÃO FEDERAL, E ART. 86, § 1º, DA LEI N. 8.213, DE 24.7.1991, COM REDAÇÃO DADA PELA LEI N. 9.032, DE 28.4.1995. JULGADO RESCINDIDO, AFASTADA, CONTUDO, A OBRIGAÇÃO DE RESTITUIÇÃO DOS VALORES EVENTUALMENTE JÁ PAGOS: PREVALÊNCIA DA BOA-FÉ DO SEGURADO E DA NATUREZA DO CARÁTER ALIMENTAR DO BENEFÍCIO ACIDENTÁRIO.
+(...)” (fl. 129).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, 37, 97, e 105, III, da mesma Carta.
+    O agravo não merece acolhida. Isso porque os dispositivos constitucionais apontados como violados não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
