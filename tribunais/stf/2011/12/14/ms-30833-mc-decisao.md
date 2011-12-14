@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de mandado de segurança impetrado pela ORDEM DOS ADVOGADOS DO BRASIL – SECCIONAL DE SANTA CATARINA, com vistas a atacar ato praticado pelo CONSELHO NACIONAL DE JUSTIÇA.
+    Consta dos autos que o CONSELHO NACIONAL DE JUSTIÇA, ao apreciar o PCA nº 381-52.2011.2.00.0000, proposto pela impetrante, reconheceu a não incidência da regra do quinto constitucional sobre o número total dos magistrados em exercício no Tribunal de Justiça de Santa Catarina.
+    Argumenta a parte autora que a Lei Complementar Estadual nº 122/94 (e outros atos normativos idênticos, que se seguiram), ao criar o cargo de Juiz de Direito substituto de segundo grau junto ao Tribunal de Justiça de Santa Catarina, ofendeu a garantia do quinto constitucional, por ter criado cargos de caráter permanente cujas funções materialmente identificam-se às atribuições dos desembargadores, sem que, contudo, sejam considerados para fins de estabelecimento do número de magistrados egressos do ministério público e da advocacia.
+    Ao ajuizar a demanda, alega a impetrante, em síntese, que estão presentes o fumus boni iuris – uma vez que o provimento dos cargos de Juiz de Direito de segundo grau viola a regra do quinto constitucional – e o periculum in mora – traduzido na iminência de provimento dos dois últimos cargos de Juiz de Direito de segundo grau, motivos determinantes à concessão da medida liminar.
+    Decido.
+    O caráter controvertido e inovador da questão jurídica objeto da demanda revela incerteza quanto à qualidade do direito subjetivo objeto da ação mandamental. Com efeito, consoante depreende-se da Lei Complementar nº 339/2006, o cargo de Juiz de Direito de Segundo Grau integra a magistratura de primeiro grau (art. 26, IV, combinado com art. 36, parágrafo único), cujo provimento dar-se-á por remoção dentre os magistrados integrantes da última entrância. Assim, não obstante possam desempenhar os Juízes de Direito de Segundo Grau funções típicas de desembargadores, porque atuando perante o Tribunal de Justiça, a eles não se equiparam, pelo simples fato de não terem se submetido ao procedimento estabelecido no art. 93, III, da CF, vale dizer, não foram promovidos ao cargo de desembargador.
+    Essa circunstância parece afastar, numa primeira análise, que sejam os cargos de Juiz de Direito de Segundo Grau considerados para fins de concretização do quinto constitucional, o qual tem por parâmetro os cargos efetivos de segundo grau, quais sejam, desembargadores.
+    De outro lado, a alteração de normas de organização do Poder Judiciário estadual reclama intervenção de caráter duradouro, o que se mostra incompatível com a natureza provisória inerente à medida liminar.
+    Ante o exposto, indefiro a liminar.
+    Remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 14 de dezembro de 2011.
+    Ministro GILMAR MENDES
+    Relator
