@@ -1,0 +1,22 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Carlos Eduardo D’Avila Garcia Isaias, em face do Procurador-Geral da República e do Diretor-Geral do CESPE, em razão de sua eliminação do concurso público para provimento de cargos do Ministério Público da União.
+    O impetrante alega que se inscreveu para concorrer às vagas destinadas ao cargo de Técnico de Informática e que logrou êxito na prova objetiva, contudo não teria conseguido alcançar a nota mínima para a aprovação na prova discursiva.
+    Afirma que não conseguiu acessar o espelho de correção da prova discursiva no sítio eletrônico do CESPE, o que impossibilitou a interposição de recurso contra o resultado provisório da referida prova, violando seu direito líquido e certo.
+    Por fim, requer a concessão de medida liminar para que seja disponibilizada cópia do espelho da avaliação da sua prova discursiva, bem a reabertura do prazo para interposição de recurso administrativo contra o resultado provisório da referida prova. No mérito, pugna pela confirmação da liminar e concessão definitiva da segurança.
+    Decido.
+    A questão central do mandado de segurança refere-se à possível violação a direito líquido e certo do impetrante, por supostamente não ter obtido adequado acesso ao espelho de correção de sua prova discursiva e consequentemente à interposição de recursos.
+    Contudo, verifico desde logo que os documentos juntados aos autos não demonstram as alegações trazidas na petição inicial.
+    Colhe-se do documento de fl. 80 – “Documentos Comprobatórios” – referente a um e-mail encaminhado pelo impetrante ao CESPE, que ele sequer acessou o sítio eletrônico da instituição no período disponibilizado para interposição de recurso contra o resultado provisório da prova discursiva, porque estava viajando, motivo pelo qual solicitava cópia da avaliação de sua prova e a reabertura do prazo interposição de recurso.
+    Registre-se que, em 15.10.2010, foi publicado o Edital n. 19 PGR/MPU, o qual divulgava o resultado provisório da prova discursiva e assim dispunha sobre a interposição de recursos:
+    “3 DOS RECURSOS DA PROVA DISCURSIVA
+    3.1 Os candidatos poderão ter acesso à prova discursiva avaliada e aos espelhos de avaliação, bem como interpor recurso contra o resultado provisório na prova discursiva, das 9 horas do dia 20 de outubro de 2010 às 18 horas do dia 21 de outubro de 2010, observado o horário oficial de Brasília/DF, no endereço eletrônico http://www.cespe.unb.br/concursos/mpu2010 por meio do Sistema Eletrônico de Interposição de Recurso”.
+    Nesses termos, tendo em vista o disposto no item 15.2 do Edital 1 PGR/MPU, que assenta a responsabilidade do candidato de acompanhar todos os atos, editais e comunicações referentes ao concurso que fossem publicados no diário oficial e/ou divulgados na internet, resta evidenciada a desídia do impetrante, não caracterizando violação a direito líquido e certo a dar ensejo ao prosseguimento da presente ação mandamental.
+    Ainda que assim não fosse, não há nos autos documento ou prova que demonstre como fato certo e inequívoco a ocorrência de mau funcionamento do sítio eletrônico do CESPE que tivesse impossibilitado o acesso do impetrante ao espelho de correção de sua prova discursiva, ocasionando indisponibilidade dos candidatos para interposição de recursos.
+    Nesse sentido, é preciso destacar que o mandado de segurança, em razão de não admitir dilação probatória, exige a demonstração incontroversa e pré-constituída dos fatos e provas que evidenciam o direito líquido e certo da impetração, nos termos da pacificada jurisprudência desta Corte (MS-AgR-AgR 26.552/DF, Rel. Celso de Mello, DJe 16.10.2009).
+    Além disso, o item 3.1.1 do Edital n. 19 PGR/MPU assim determina:
+    “3.1.1 O CESPE/UnB não arcará com prejuízos advindos de problemas de ordem técnica dos computadores, falhas de comunicação, congestionamento das linhas de comunicação, bem como de outros fatores, de responsabilidade do candidato, que impossibilitem a visualização da prova discursiva avaliada e do espelho de avaliação, bem como a interposição de recursos”.
+     Ante o exposto, na linha da jurisprudência desta Corte, ante a manifesta improcedência do presente writ, nego seguimento ao mandado de segurança e julgo prejudicado o pedido liminar (art. 21, §1º, e 205 do RISTF).
+    Publique-se.
+    Brasília, 14 de dezembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
