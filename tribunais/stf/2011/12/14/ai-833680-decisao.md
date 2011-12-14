@@ -1,0 +1,18 @@
+Decisão
+    Vistos.
+    Caixa de Previdência dos Funcionários do Banco do Brasil - Previ interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXVI, e LV, 195, § 5º, e 202 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Apelação cível. Previdência Privada. Alteração unilateral do índice de correção do benefício, ocasionando perdas a beneficiários já aposentados. Ilegalidade. Exegese do art. 17, parágrafo único, da Lei Complementar 109/2001. Jurisprudência do TJ/RJ. Acerto da sentença. Recurso conhecido e desprovido”(fl. 263 ).
+    Opostos embargos de declaração (fls. 269 a 275), foram rejeitados (fls. 278 a 282).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere ao artigo 5º, inciso LV, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, a jurisprudência desta Corte é pacífica no sentido de que a controvérsia relativa à fixação de índice de correção monetária dos benefícios das entidades de previdência privada está situada no plano infraconstitucional, bem como depende do exame das provas dos autos e dos contratos celebrados entre as partes. Assim, a violação do texto constitucional, se houvesse, seria indireta ou reflexa, o que não enseja reexame na via do recurso extraordinário. Nesse sentido, anote-se:
+    “EMBARGOS DECLARATÓRIOS CONVERTIDOS EM AGRAVO REGIMENTAL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. VALIA. REGULAMENTO INTERNO QUE VINCULA OS REAJUSTES DE SEUS BENEFÍCIOS AOS CRITÉRIOS APLICÁVEIS À PREVIDÊNCIA SOCIAL. ART. 58, ADCT. NECESSIDADE DE EXAME DE CLAÚSULAS REGULAMENTARES. ÓBICE DO ENUNCIADO 454 DA SÚMULA/STF. Agravo regimental a que se nega provimento”(RE nº 222.086/RJ-ED, Segunda Turma, Relator o Ministro Joaquim Barbosa, Dje de 1º/10/10).
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. ÍNDICES DE REAJUSTE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS DO REGULAMENTO DA ENTIDADE DE PREVIDÊNCIA. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”(AI nº 671.796/ES-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/03/09).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
