@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “MANDADO DE SEGURANÇA. VÍTIMA DE ACIDENTE RADIOLÓGICO COM CÉSIO 137. PENSÃO ESPECIAL. AGRAVO REGIMENTAL PREJUDICADO. PRESCRIÇÃO AFASTADA. PROVA PRÉ CONSTITUÍDA. PRESUNÇÃO DE IRRADIAÇÃO. PREENCHIMENTO DOS REQUISITOS MENCIONADOS NA LEI N. 14.226/02. CONCESSÃO DO WRIT” (fl. 153).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, XXXV, LIV e LXIX, e 93, IX, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, os Ministros desta Corte, no AI 800.074-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca do preenchimento dos requisitos de admissibilidade do mandado de segurança, por entenderem que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Por oportuno, trago à colação trecho da manifestação proferida no referido julgado:
+    “A questão a ser analisada diz respeito ao preenchimento dos requisitos do mandado de segurança.
+    Em que pese à ação mandamental ser um remédio constitucional por excelência, a admissibilidade do writ se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009.
+    Ademais, a análise da demonstração do direito líquido e certo ou da existência de prova pré-constituída exige o revolvimento de provas, inviável em sede de recurso extraordinário”.
+    Ressalte-se, ainda, que como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
