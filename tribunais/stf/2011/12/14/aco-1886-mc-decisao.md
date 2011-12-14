@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Cuida-se de ação cautelar proposta pelo Estado de Santa Catarina em face da União, por meio da qual se requer a concessão de medida liminar para a suspensão da inscrição do ente federado como inadimplente no Cadastro Único de Convênio – CAUC.
+    A ação foi originalmente processada no Juízo da 1ª Vara Federal de Florianópolis/SC, sendo recepcionada nesta Corte como ação cível originária após o julgamento de procedência da Rcl nº 10.582, Relatora a Ministra Ellen Gracie, na qual se reconheceu a usurpação de competência originária do STF para a causa federativa (art. 102, I, “f”, da CF/88).
+    Afirmou o autor, na inicial de fls. 2/16, que:
+    a) celebrou convênio com a União, através do Ministério da Saúde (Convênio nº 3078/2004), com o objetivo de obter recursos para a construção de unidades de saúde;
+    b) a vigência do convênio teria se encerrado em 4/9/09, passo em que deveria devolver à União os valores recebidos, devidamente corrigidos pelos índices aplicáveis aos débitos para com a Fazenda Nacional;
+    c) tendo em vista a aplicação dos recursos em caderneta de poupança, o crédito foi atualizado pelos respectivos índices de correção, perfazendo montante de R$ 891.600,42, valor pago à União;
+    d) a ré reclamou diferença de R$ 330.324,79, em relação aos valores apresentados pelo Estado, já que o cálculo da atualização monetária deveria ter seguido o previsto no art. 54 da Lei nº 8.383/91, no art. 16 do Decreto-lei nº 2.323/87, e nas demais normas estabelecidas pelo TCU e pela Secretaria do Tesouro Nacional – STN, fato que levou a inscrição do ente federado no CAUC como inadimplente.
+    O autor justificou a presença da plausibilidade jurídica do pedido com fundamento no art. 1º-F da Lei nº 9.494/97, o qual determinou a correção dos débitos com a Fazenda Pública pelos índices da caderneta de poupança, defendendo, ainda, a inaplicabilidade das normas infralegais para a correção do débito e a ausência de observância do contraditório ou ampla defesa antes do ato de inscrição.
+    Sustentou, ademais, a presença do risco na demora da prestação jurisdicional, em suma, pela impossibilidade de celebração de novos convênios com a União, com o fim de angariar recursos públicos, diante da existência da inscrição de inadimplência.
+    Prestou caução de garantia por meio de depósito do valor da diferença objetada (fl. 144).
+    A liminar havia sido deferida pelo juízo de primeiro grau, cujos efeitos, porém, foram anulados no julgamento da Rcl nº 10.582.
+    A União apresentou contestação (fls. 148/156), na qual alega a ausência dos pressupostos de concessão da tutela de urgência, já que a correção monetária da dívida deveria obedecer os termos do convênio, com a utilização da taxa SELIC. Sustenta, ainda, que o ente federado não foi impedido de receber transferências constitucionais e legais, ou transferências voluntárias destinadas às áreas de saúde, educação e assistência social (art. 25, § 3º, da Lei Complementar nº 101/2000).
+    Por fim, ambas as partes se manifestaram no sentido da ausência de interesse na produção de novas provas (fl. 165 e fl. 166).
+    É o relatório.
+    A cautelar é de ser deferida.
+    Verifico, nesse juízo preliminar, que o autor já efetuou o pagamento do débito, no montante que entende correto, realizando, em reforço, o depósito judicial da quantia correspondente à diferença pleiteada pela União, fato que configura a prestação de garantia nitidamente idônea e que autoriza a suspensão da inscrição do ente no CAUC.
+    Ademais, a presença de risco de inefetividade da prestação jurisdicional é assente, tendo em vista que a suspensão de transferências voluntárias ao Estado de Santa Catarina, ainda que para serviços públicos não contemplados pela restrição do art. 25, § 3º, da LC 101/2000, gera grave prejuízo à população e ao próprio ente federado, tolido da possibilidade de obtenção de recursos públicos de origem federal.
+    A jurisprudência da Corte reconhece esse risco e autoriza o deferimento de provimentos cautelares a fim de se suspender os efeitos da suposta inadimplência. Vide:
+    “AÇÃO CAUTELAR. INSCRIÇÃO DE ESTADO-MEMBRO NO CADASTRO ÚNICO DE EXIGÊNCIAS PARA TRANSFERÊNCIAS VOLUNTÁRIAS – CAUC. ÓBICE À CELEBRAÇÃO DE CONVÊNIOS E REPASSE DE VALORES. CONVÊNIOS N. 383.671/1999 E 383.689/1999. SUPERINTENDÊNCIA DE DESENVOLVIMENTO DO NORDESTE – SUDENE. SUSPENSÃO DO REGISTRO DE INADIMPLÊNCIA. MEDIDA LIMINAR DEFERIDA. REFERENDO. 1. O Supremo Tribunal Federal tem reconhecido a ocorrência de conflito federativo em situações nas quais a União, valendo-se de registros de supostas inadimplências dos Estados no Cadastro Único de Convênios – Cauc, impossibilita sejam celebrados novos convênios entre Estados e entidades federais. 2. O registro da entidade federada, por suposta inadimplência, nesse cadastro federal pode sujeitá-la a efeitos gravosos, com desdobramentos para a transferência de recursos. 3. Em cognição primária e precária, estão presentes a fumaça do bom direito e o perigo da demora. 4. Medida liminar referendada” (AC nº 2.864/PI-MC-REF, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 22/08/11).
+    Nesse sentido: AC nº 2.636/PE, Pleno, Relatora a Ministra Cármen Lúcia, DJe de 22/08/11 e AC nº 2.270/ES, Pleno, Relator o Ministro Cezar Peluso, DJe de 1/2/11.
+    Tenho, por fim, afastada a alegação de periculum in mora reverso, já que, na eventual improcedência da demanda principal, o direito da ré é respaldado pela caução oferecida pelo Estado, sem prejuízo da apuração de eventuais diferenças.
+    Ante o exposto, defiro a liminar para determinar a imediata suspensão da restrição cadastral do Estado de Santa Catarina no sistema CAUC, relativamente à inadimplência do Convênio nº 3078/2004.
+    Diante do estágio adiantado do processo e da ausência de interesse na produção de provas, colham-se as razões finais das partes, sucessivamente, no prazo de cinco dias.
+    Em seguida, abra-se vista dos autos à Procuradoria-Geral da República.
+    Sem prejuízo, diante da informação contida à fl. 167 de que a presente ação correu em apenso à Ação Ordinária nº 5005699-17.2010.404.7200, feito principal, cuja competência de apreciação, inegavelmente, também é desta Corte, oficie-se o Juízo da 1ª Vara Federal de Florianópolis/SC para que remeta os autos daquela ação ordinária.
+    Comunique-se. Publique-se. Intime-se.
+    Brasília, 14 de dezembro de 2011.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
