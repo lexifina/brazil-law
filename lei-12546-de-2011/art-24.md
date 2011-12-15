@@ -1,0 +1,1 @@
+Art. 24. Sem prejuízo do disposto na Lei Complementar nº 116, de 31 de julho de 2003, é o Poder Executivo autorizado a instituir a Nomenclatura Brasileira de Serviços, Intangíveis e outras Operações que Produzam Variações no Patrimônio (NBS) e as Notas Explicativas da Nomenclatura Brasileira de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Nebs).

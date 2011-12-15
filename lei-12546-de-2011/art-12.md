@@ -1,0 +1,2 @@
+Art. 12. O art. 7º da Lei nº 11.033, de 21 de dezembro de 2004, passa a vigorar com a seguinte redação:
+" Art. 7º As pessoas jurídicas que aufiram as receitas de que trata o inciso XXIII do art. 10 da Lei nº 10.833, de 29 de dezembro de 2003, são obrigadas a instalar equipamento emissor de cupom fiscal em seus estabelecimentos, ou outro sistema equivalente para controle de receitas, na forma disciplinada pela Secretaria da Receita Federal do Brasil." (NR)

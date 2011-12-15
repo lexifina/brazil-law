@@ -1,0 +1,1 @@
+Art. 48. É alterado o texto da coluna "FATOS GERADORES" do item 9.1 do Anexo II da Lei nº 9.782, de 26 de janeiro de 1999, que passa a vigorar com a seguinte redação: "Registro, revalidação ou renovação de registro de fumígenos, com exceção dos produtos destinados exclusivamente à exportação".
