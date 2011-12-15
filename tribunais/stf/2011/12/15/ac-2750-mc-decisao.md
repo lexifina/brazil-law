@@ -1,0 +1,24 @@
+Decisão: Trata-se de ação cautelar preparatória, com pedido de liminar, proposta pelo Estado do Ceará contra a União e o Departamento Nacional de Obras contra as Secas (DNOCS), para que se abstenham de promover inscrição do referido Estado-Membro junto ao Cadastro Único de Exigências para Transferências Voluntárias (CAUC), bem como ao Sistema Integrado e Administração Financeira (SIAFI), em decorrência da Prestação de Contas e/ou da Tomada de Contas Especial relacionadas com o Convênio PGE 50/1998, até o julgamento da ação principal a ser intentada.
+    Aduz o autor que o referido Convênio obteve 17 aditivações, sendo que, na 17ª aditivação, identificada de PGE 185/2004, ao Convênio PGE 50/1998 foi alocado o valor de R$150.000,00. Ocorre que tal valor permaneceu intacto e que a primeira providência, na atual gestão, da Secretaria de Desenvolvimento Agrário foi devolver de imediato o principal de R$150.00,00, acrescido atualização monetária no período de dezembro de 2005 a setembro de 2010, que geraram o montante devido de R$ 195.148,14.
+    Afirma que o DNOCS acusou recebimento do valor ressarcido pela Secretaria de Desenvolvimento Agrário, mas cobrou juros, orçados em R$95.937,74 (noventa e cinco mil, novecentos e trinta e sete reais e setenta e quatro centavos), indicando que inscreveria o Estado no rol de inadimplentes junto ao SIAFI, bem como instauraria Tomada de Contas Especial, caso o débito não fosse quitado.
+    O Estado do Ceará argui a inobservância dos princípios da ampla defesa e do devido processo legal, em âmbito administrativo, e que a não concessão da liminar perseguida inviabilizará totalmente o repasse de verbas federais necessárias à implementação de políticas públicas pelo Requerente .
+    É o relatório.
+    Decido.
+    Neste juízo prévio, vislumbro a plausibilidade jurídica do pedido e das alegações formuladas pela parte autora. Entendo que a fumaça do bom direito está evidenciada nos argumentos postos e nas informações apresentadas, bem como que há perigo na demora.
+    Verifico que está demonstrada a urgência no deferimento da liminar, pois a inscrição do autor no cadastro CAUC/SIAFI poderia impedir a celebração de convênios essenciais ao Estado e à sua população.
+    A alegação de que a inscrição do Estado em registro como o CAUC/SIAFI, ao argumento de que a inviabilidade de formalizar acordos e convênios e de receber repasses de verbas pode gerar prejuízos sensíveis ao Estado-membro, supostamente devedor, (inclusive com a paralisação de serviços essenciais) não é nova neste Supremo Tribunal Federal.
+    Em diversos precedentes análogos, a Corte já se manifestou pela concessão da liminar para afastar a inscrição de estados em registro como estes, que possam, de alguma forma, impedir que contraiam novos empréstimos e agravar ainda mais a situação dos entes. Nesse sentido, os seguintes precedentes: AC-MC no 223/AP, de minha relatoria, decisão monocrática, DJ 23.4.2004; AC-MC no 259/AP, Rel. Min. Marco Aurélio, Tribunal Pleno, unânime, DJ 3.12.2004; ACO 1738 MC/AC, Rel. Min. Cármen Lúcia, decisão monocrática, DJe 9.3.2011.
+    Esta Corte tem reiteradamente afirmado sua posição. Confira-se, entre outros, o recente julgado da AC 2864 MC-REF, Rel. Min. Cármen Lúcia, Plenário, DJe 22.08.2011, assim ementado:
+    AÇÃO CAUTELAR. INSCRIÇÃO DE ESTADO-MEMBRO NO CADASTRO ÚNICO DE EXIGÊNCIAS PARA TRANSFERÊNCIAS VOLUNTÁRIAS CAUC. ÓBICE À CELEBRAÇÃO DE CONVÊNIOS E REPASSE DE VALORES. CONVÊNIOS N. 383.671/1999 E 383.689/1999. SUPERINTENDÊNCIA DE DESENVOLVIMENTO DO NORDESTE SUDENE. SUSPENSÃO DO REGISTRO DE INADIMPLÊNCIA. MEDIDA LIMINAR DEFERIDA. REFERENDO.
+    1. O Supremo Tribunal Federal tem reconhecido a ocorrência de conflito federativo em situações nas quais a União, valendo-se de registros de supostas inadimplências dos Estados no Cadastro Único de Convênios Cauc, impossibilita sejam celebrados novos convênios entre Estados e entidades federais.
+    2. O registro da entidade federada, por suposta inadimplência, nesse cadastro federal pode sujeitá-la a efeitos gravosos, com desdobramentos para a transferência de recursos.
+    3. Em cognição primária e precária, estão presentes a fumaça do bom direito e o perigo da demora.
+    4. Medida liminar referendada .
+    Pelo exposto, presentes os requisitos para a concessão do pedido cautelar, defiro a medida liminar, até o julgamento final da ação principal, para impedir a inserção do autor no Cadastro Único de Exigências para Transferências Voluntárias (CAUC), bem como no Sistema Integrado de Administração Financeira (SIAFI).
+    Comunique-se esta decisão à União.
+    Cite-se a União para, querendo, contestar a presente ação no prazo legal.
+    Publique-se.
+    Brasília, 15 de dezembro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
