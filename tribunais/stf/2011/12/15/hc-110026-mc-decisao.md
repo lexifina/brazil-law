@@ -1,0 +1,53 @@
+PROCESSUAL PENAL. HABEAS CORPUS. INCÊNDIO MAJORADO (ART. 250, § 1º, II, “A”, DO CP). PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA PELO MODUS OPERANDI. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA CONCRETAMENTE DEMONSTRADA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE FUMUS BONI JURIS. LIMINAR INDEFERIDA.
+    Decisão: Cuida-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça denegatório de idêntica medida. Eis o teor do ato ora impugnado:
+    HABEAS CORPUS. INCÊNDIO EM CASA HABITADA. PRISÃO EM FLAGRANTE. REQUISITOS PARA A CUSTÓDIA ANTECIPADA. PREENCHIMENTO. REITERAÇÃO CRIMINOSA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. ORDEM DENEGADA.
+    1. Não há que se falar em constrangimento ilegal quando devidamente apontados os motivos ensejadores da preservação da custódia antecipada, notadamente para a garantia da ordem pública, para o fim de fazer cessar a reiteração criminosa, circunstância que demonstra a sua potencial periculosidade e a real possibilidade de que, solto, volte a delinquir.
+    2. Habeas corpus denegado.
+    Consta nos autos que o paciente, preso em flagrante em 8/9/2010 e denunciado pela prática de incêndio em casa destinada a habitação (art. 250, § 1º, II, “a”, do Código Penal), impetrou sucessivos habeas corpus perante o TJ/MG e o STJ, ambos denegados.
+    Nesta impetração, sustenta-se fundamentação inidônea do ato que implicou a prisão preventiva do paciente, porquanto ausente a demonstração concreta dos requisitos do art. 312 do Código de Processo Penal.
+    Aduz-se que o fato de o paciente responder a outros processos, sem que haja condenação transitada em julgado, não pode fundamentar a prisão preventiva para garantia da ordem pública, afirmando-se que o prejuízo à vítima, ex-companheira do paciente, foi de apenas R$ 540,00.
+    Alega-se, ainda, excesso de prazo na formação da culpa, porquanto o paciente encontra-se preso desde 8/9/2010.
+    Requer, liminarmente, seja assegurado ao paciente o direito de responder ao processo em liberdade e, no mérito, a confirmação da liminar.
+    Ante a deficiência na instrução do writ, determinei fossem solicitadas informações, as quais vieram aos autos, viabilizando o exame do pedido de medida acauteladora.
+    É o relatório. Decido.
+    Preliminarmente, trata-se de habeas corpus substitutivo de recurso ordinário, em utilização promíscua do writ que deve ser evitada, sob pena de banalização da garantia constitucional.
+    No mais, o pedido de medida liminar não reúne condições de ser deferido ante a ausência da plausibilidade jurídica da tese aventada.
+    Com efeito, o ato que implicou a prisão preventiva do paciente está em consonância com a jurisprudência pacífica desta Corte, porquanto é cediço que a gravidade in concreto do delito ante o modus operandi empregado e a possibilidade de reiteração criminosa são motivos idôneos para a manutenção da custódia cautelar, a fim de garantir a ordem pública. Nesse sentido, confiram-se os seguintes precedentes:
+    Ementa: PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. FUGA DO DISTRITO DA CULPA. MODUS OPERANDI. GRANDE QUANTIDADE E NATUREZA DA SUBSTÂNCIA. GRAVIDADE CONCRETA. PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA, PARA PRESERVAÇÃO DA INSTRUÇÃO CRIMINAL E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. ORDEM DENEGADA.
+    1. A fuga do distrito da culpa é dado conducente à decretação da prisão preventiva para garantir a instrução criminal e assegurar a aplicação da lei penal. Precedentes: HC 101356/RJ, rel. Min. Ayres Britto, 2ª Turma, DJ 2-3-2011; HC 101934/RS, rel. Min. Joaquim Barbosa, DJ de 14/9/2010; HC 95.159/SP, rel. Min. Ricardo Lewandowski, DJ 12.06.2009; HC 102021/PA, rel. Min. Ellen Gracie, 2ª Turma, DJ de 24/9/2010; HC 98145/RJ, Rel. Min. Cármen Lúcia, Pleno, DJ de 25/6/2010; HC 101309/PE, Rel. Min. Ayres Britto, 1ª Turma, DJ de 7/5/2010.
+    2. A gravidade in concreto do delito ante o modus operandi empregado, enseja também a decretação da medida para garantia da ordem pública por força da expressiva periculosidade do agente.
+      3. In casu, o paciente sofre a imputação do tráfico de 2.110 gramas de cocaína, dado concreto extraído dos autos que, mercê da quantidade e da natureza da substância, permite concluir pela periculosidade social do paciente.
+    4. Parecer do MPF pela denegação da ordem.
+    5. Ordem DENEGADA. (HC 101132, rel. Min. Luiz Fux, 1ªTurma, DJ de 1/7/2011)
+    Ementa: PROCESSUAL PENAL E PENAL. HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO (ART. 159, § 1º, DO CÓDIGO PENAL). DEPOIMENTOS DAS TESTEMUNHAS E INTERROGATÓRIO DA VÍTIMA INCONSISTENTES E CONTRADITÓRIOS, A IMPLICAR INOCÊNCIA. TEMA INSUSCETÍVEL DE EXAME NO RITO ESTREITO DO WRIT. LIBERDADE PROVISÓRIA INDEFERIDA COM FUNDAMENTO NA GARANTIA DA ORDEM PÚBLICA, AFETADA PELA PERICULOSIDADE CONCRETAMENTE DEMONSTRADA PELO MODUS OPERANDI DA PRÁTICA CRIMINOSA. IDONEIDADE. PRECEDENTES. IMPROCEDÊNCIA DA ALEGAÇÃO DE QUE O ÚNICO SUSTENTÁCULO DA PRISÃO É O FLAGRANTE.
+    1. A periculosidade social do agente, revelada pela natureza do crime e do modus operandi, autoriza a segregação cautelar, após as razões que conduziram à rejeição da liberdade provisória serem confirmadas em severa condenação, fruto da análise percuciente da irrefutável prova de acusação.
+    2. O tema concernente à inocência do paciente, fundada em inconsistências e contradições nos depoimentos das testemunhas e no interrogatório da vítima, deve ser analisado na ação penal, sob o crivo do contraditório e da ampla defesa, e não no rito estreito do habeas corpus, que não comporta exame aprofundado de fatos e provas (RHC 103.542, Rel. Min. LUIZ FUX, 1ª Turma, DJe de 27/09/11; HC 92.844, Rel. Min. JOAQUIM BARBOSA, 2ª Turma, DJe de 19/12/02; HC 90.201, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJ e de 31/08/07, e HC 89.721, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJ de 16/02/07).
+    3. A periculosidade in concreto do paciente, aferida pelo modus operandi da prática criminosa, constitui fundamento idôneo à prisão preventiva para garantia da ordem pública. Precedentes: HC 102.475/SC, Rel. Min. MARCO AURÉLIO, Relator p/ o acórdão Min. LUIZ FUX, Primeira Turma, DJe de 16/09/11; HC 104.522/MG, Rel. Min. MARCO AURÉLIO, Rel. p/ o acórdão Min. LUIZ FUX, Primeira Turma, DJe de 16/09/11; HC 105.725/SP, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJe de 18/08/11; HC 103.107/MT, 1ª Turma, Relator o Ministro Dias Toffoli, DJ de 29.11.10; HC 104.410/GO, Rel. Min. ELLEN GRACIE, DJe de 30/06/11; e HC 97.891/SP, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 19/10/10.
+    4. In casu, o paciente e outros sequestraram a vítima e impingiram a ela intenso sofrimento físico e psicológico, sufocando-a com saco plástico, agredindo-a fisicamente e a ameaçando de morte a todo o instante, caso não declinasse o nome da pessoa que arcaria com os trezentos mil reais exigidos para libertá-la. Presos em flagrante, o paciente foi denunciado e condenado a 15 (quinze) anos de reclusão pelo crime de extorsão mediante sequestro, tipificado no art. 159, § 1º, do Código Penal, mantida a prisão preventiva pelos mesmos fundamentos da decisão que indeferiu a liberdade provisória.
+    5. O paciente permanece preso não somente em razão do flagrante, mas, antes, porque o Juiz indeferiu a liberdade provisória com fundamento na necessidade da segregação cautelar para garantia da ordem pública, considerada a real periculosidade dele e de e seus comparsas, representada pelo modus operandi da prática delituosa, e que foi reiterada na sentença.
+    6. Ordem denegada.
+    Ementa: PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO INTERNACIONAL DE DROGAS (ART. 35 DA LEI Nº 11.343/06). PRISÃO PREVENTIVA PARA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA PELO MODUS OPERANDI. PACIENTE MEMBRO DE ORGANIZAÇÃO CRIMINOSA. FUNDAMENTOS IDÔNEOS. GRAVIDADE CONCRETA. SENTENÇA CONDENATÓRIA. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES. ORDEM DENEGADA.
+    1. A gravidade in concreto do delito ante o modus operandi empregado, acrescida da possibilidade de reiteração criminosa e da participação em associação dedicada à prática de crimes são motivos idôneos para a manutenção da custódia cautelar, a fim de garantir a ordem pública (HC 103716, rel. Min. Luiz Fux, 1ª Turma, julgado em 2/8/2011; HC n. 104.699/SP, 1ª Turma, Relatora a Ministra CÁRMEN LÚCIA, DJ de 23.11.10 e HC n. 103.107/MT, 1ª Turma, Relator o Ministro Dias Toffoli, DJ de 29.11.10).
+    2. In casu, o paciente foi condenado por associação para o tráfico internacional de drogas no estado do Pará, dado concreto ensejador, inclusive, de decreto condenatório, o que permite concluir pela sua periculosidade social.
+    3. Parecer do MPF pela denegação da ordem.
+    4. Ordem DENEGADA. (HC 101717, rel. Min. Luiz Fux, 1ª Turma, DJ de 14/9/2011)
+    (grifos adicionados)
+    No caso sub judice, confira-se o que consignado pelo Juízo, verbis:
+    […]
+    o réu é contumaz na prática de crimes, conforme Certidão de Antecedentes Criminais de fls. 17/20 dos autos nº 015771417.2010 em apenso.
+    Desta forma, a prisão cautelar do acusado é necessária e conveniente para a garantia da ordem pública, um dos fundamentos que autorizam a prisão preventiva. (e-STJ fl. 49)
+    […]
+    Já o TJ/MG, por sua vez, assentou:
+    [...]
+    Observa-se que a liberdade do paciente realmente coloca em risco a ordem pública, em razão da sua periculosidade, concretizada não apenas na gravidade do delito, mas também na sua reiteração em atividades delituosas, autorizando, portanto sua custódia cautelar como forma de amenizar o clima de insegurança na comunidade. (e-STJ fl. 75, grifo nosso)
+    […]
+    Consectariamente, a prisão provisória, confirmada em seus termos na sentença condenatória superveniente, fez-se em harmonia com a jurisprudência da Corte, no que considera idônea a fundamentação alusiva à periculosidade do paciente revelada pelo modus operandi adotado e à probabilidade de reiteração criminosa concretamente demonstrada.
+    Ademais, a alegação de excesso de prazo na formação da culpa restou prejudicada com o advento de sentença condenatória, conforme noticiado pelo Juízo à fl. 2 do v. 7:
+    O processo foi sentenciado em 23.08.2011, tendo o MM. Juiz Titular julgado procedente o pedido e condenado o réu, nos exatos termos da peça exordial, conforme cópia anexa, estando com transcurso de prazo para eventual recurso.
+    Ex positis, à ausência do fumus boni juris, indefiro a liminar.
+    Ao Ministério Público Federal para a emissão de parecer.
+    Publique-se.
+    Brasília, 15 de dezembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
