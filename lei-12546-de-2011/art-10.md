@@ -1,0 +1,1 @@
+Art. 10. Ato do Poder Executivo instituirá comissão tripartite com a finalidade de acompanhar e avaliar a implementação das medidas de que tratam os arts. 7º a 9º, formada por representantes dos trabalhadores e empresários dos setores econômicos neles indicados, bem como do Poder Executivo federal.

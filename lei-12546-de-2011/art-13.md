@@ -1,0 +1,3 @@
+Art. 13. O art. 19-A da Lei nº 11.196, de 21 de novembro de 2005, passa a vigorar com a seguinte redação:
+" Art. 19-A. A pessoa jurídica poderá excluir do lucro líquido, para efeito de apuração do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido (CSLL), os dispêndios efetivados em projeto de pesquisa científica e tecnológica e de inovação tecnológica a ser executado por Instituição Científica e Tecnológica (ICT), a que se refere o inciso V do caput do art. 2º da Lei nº 10.973, de 2 de dezembro de 2004, ou por entidades científicas e tecnológicas privadas, sem fins lucrativos, conforme regulamento.
+..................................................................................." (NR)
