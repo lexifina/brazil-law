@@ -1,0 +1,1 @@
+Art. 4º-A. Na parte interna dos locais em que se vende bebida alcoólica, deverá ser afixado advertência escrita de forma legível e ostensiva de que é crime dirigir sob a influência de álcool, punível com detenção.
