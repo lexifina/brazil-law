@@ -1,0 +1,4 @@
+Art. 11-B. Compete ao Presidente do Inmetro autorizar a realização de acordos ou transações de créditos não tributários e não inscritos em dívida ativa, de valor até R$ 500.000,00 (quinhentos mil reais), até o limite de 50% (cinquenta por cento), e o parcelamento administrativo em prestações mensais e sucessivas, até o máximo de 60 (sessenta).
+§ 1º Quando o valor do crédito for superior ao limite fixado no caput, o acordo ou a transação, sob pena de nulidade, dependerá de prévia e expressa autorização do Ministro de Estado do Desenvolvimento, Indústria e Comércio Exterior.
+§ 2º O valor de cada prestação mensal, por ocasião do pagamento, será acrescido de juros e multa de mora, na forma da legislação vigente para títulos federais.
+§ 3º As competências previstas neste artigo poderão ser delegadas.

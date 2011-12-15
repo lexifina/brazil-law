@@ -1,0 +1,5 @@
+Art. 11-A. O lançamento das taxas previstas nesta Lei ocorrerá pela emissão de guia específica para o seu pagamento, regulamentada pela Secretaria do Tesouro Nacional, com efeito de notificação e de constituição dos créditos tributários do Inmetro.
+§ 1º O contribuinte poderá impugnar o lançamento das taxas previstas nesta Lei perante a autoridade que constituiu o crédito tributário do Inmetro, no prazo de 30 (trinta) dias, a contar de sua notificação.
+§ 2º Caberá recurso da decisão sobre a impugnação de que trata o § 1º, interposto ao Presidente do Inmetro, no prazo de 30 (trinta) dias, a contar da notificação do contribuinte.
+§ 3º O contribuinte deverá comprovar o recolhimento das taxas previstas nesta Lei anteriormente à realização dos serviços metrológicos e dos registros de objetos com avaliação da conformidade compulsória.
+§ 4º O Inmetro poderá definir, excepcionalmente, em regulamento, prazos para o recolhimento das taxas previstas nesta Lei, considerando-se a singularidade da atividade desempenhada pelo contribuinte.
