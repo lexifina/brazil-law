@@ -1,0 +1,28 @@
+DECISÃO
+MANDADO DE SEGURANÇA – DECADÊNCIA – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. Eis as informações prestadas pela Assessoria:
+    No mandado de segurança, com pedido de liminar, o impetrante impugna ato do Presidente do Supremo. Segundo narra, ajuizou ação de rito ordinário contra o Estado de Minas Gerais objetivando evitar a redução remuneratória decorrente da aplicação da Lei nº 14.683/2003, que teria transformado os acréscimos resultantes do direito à percepção da gratificação de cargo em comissão em “vantagem pessoal”, desvinculando-os para fins de reajustes.
+    Assevera que o pedido fora julgado improcedente pelo Juízo. O Tribunal de Justiça, em apelação, reformou a sentença, vencido o relator. Em seguida, o Estado de Minas Gerais interpôs embargos infringentes, sendo mantido o acórdão embargado, e, depois, recurso extraordinário, sobrestado, conforme o artigo 543-B, § 1º, do Código de Processo Civil, ante o fato de ter-se reconhecido, no Recurso Extraordinário nº 563.965-7/RN, da relatoria da Ministra Cármen Lúcia, a repercussão geral da controvérsia.
+    Consoante aduz, com o julgamento do mencionado recurso, o Desembargador Vice-Presidente do Tribunal local entendeu que o extraordinário do Estado estava em consonância com a jurisprudência do Supremo, razão pela qual os embargos infringentes foram levados a outro julgamento da Terceira Câmara daquele Tribunal. Na segunda oportunidade, o Colegiado, por maioria, veio a observar o precedente do Supremo.
+    Salienta que interpôs embargos infringentes contra essa nova decisão, tendo em vista a reforma, por maioria, do pronunciamento anterior. Ao recurso foi negada sequência, por manifesto descabimento. O trânsito do extraordinário que protocolara teria sido obstado, havendo formalizado, então, agravo de instrumento, autuado no Supremo sob o nº 837.834/MG. Conforme esclarece, o Presidente deste Tribunal determinou a baixa do recurso à origem, para ser julgado como agravo regimental. Eis a decisão ora atacada:
+    DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que, com fundamento no art. 543-B do CPC, negou seguimento a recurso extraordinário.
+    2. Incognoscível o recurso.
+    Na sessão plenária do dia 19/11/2009, a Corte, por unanimidade, resolveu questão de ordem no AI n° 760.358 (Rel. Min. GILMAR MENDES), no sentido de não conhecer de agravo de instrumento contra decisão de Tribunal a quo que aplica o disposto no art. 543-B do CPC. Ficou decidido, também, devolver o agravo de instrumento ao Tribunal de origem para que o julgue como agravo regimental.
+    3. Diante do exposto, com fundamento no art. 557, caput , do CPC, e art. 21, § 1º, do RISTF, não conheço do agravo de instrumento e determino a remessa destes autos ao Tribunal de origem para que processe o feito como agravo regimental.
+    Publique-se. Int.
+    Brasília, 22 de fevereiro de 2011.
+    Ministro CEZAR PELUSO
+    Presidente
+    Segundo informa, o agravo veio a ser desprovido monocraticamente no Tribunal estadual.
+    Articula com a adequação da via eleita, afirmando ser cabível o mandado contra decisão judicial quando não existir outra medida, no sistema recursal, para corrigir desvios. No mérito, diz da inexistência de similitude entre a pretensão formulada contra o Estado de Minas Gerais e o paradigma observado. Consoante argumenta, o pedido que veiculou concerne apenas à utilização do instituto da vantagem pessoal para efetuar o pagamento de diferença salarial resultante de parcela adquirida pelo tempo de serviço em cargo em comissão, com a consequente redução dos vencimentos, não se relacionando com a manutenção de regime jurídico. Assevera que tal modificação também teve impactos na percepção de quinquênios, porquanto, agora, são calculados somente sobre a remuneração do cargo efetivo, sem considerar os acréscimos convertidos em vantagem pessoal.
+    Busca ver deferida liminar para determinar-se o julgamento do Recurso Extraordinário nº 1.0024.05.696629-4/006. No mérito, pede a confirmação da providência.
+    O processo encontra-se concluso para a apreciação do pedido de concessão de medida acauteladora.
+    2. Retifiquem a autuação, fazendo constar a classe processual correta – mandado de segurança.
+    Da leitura da petição inicial depreende-se que o impetrante pretende a revisão da decisão mediante a qual o Presidente do Supremo, Ministro Cezar Peluso, no Agravo de Instrumento nº 837.834/MG, determinou a baixa dos autos à origem para a observância do precedente revelado no julgamento do Recurso Extraordinário nº 563.965-7.
+    Na Questão de Ordem no Agravo de Instrumento nº 760.358, da relatoria da Ministra Ellen Gracie, fiz ver a impropriedade do mandado de segurança para dar seguimento a recurso extraordinário retido na origem, sendo mais consentânea com a organicidade do Direito processual a utilização da reclamação constitucional. Isso porque não existe direito líquido e certo à tramitação de certo recurso, mas há usurpação de competência do Supremo quando olvidado o alcance do precedente firmado na repercussão geral e trancado o respectivo agravo de instrumento. Essa discussão, porém, revela-se imprópria à espécie diante de outros elementos a inviabilizar o julgamento.
+    O ato impugnado veio à balha em 22 de fevereiro de 2011, com publicação no Diário da Justiça de 15 de março de 2011. Ora, este mandado de segurança somente foi impetrado em 20 de setembro de 2011, após, portanto, o prazo decadencial de cento e vinte dias, previsto no artigo 23 da Lei nº 12.016/2009.
+    3. Ante o quadro, nego seguimento à impetração.
+    4. Publiquem.
+Brasília, 15 de dezembro de 2011.
+Ministro MARCO AURÉLIO
+Relator
