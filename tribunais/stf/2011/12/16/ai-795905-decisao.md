@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, interposto com suporte nas alíneas “a” e “d” do inciso III do art. 102 da Constituição Republicana, contra acórdão da Turma Nacional de Uniformização de Jurisprudência dos Juizados Especias.
+    2. Da leitura dos autos, observo que a instância judicante de origem concedeu o benefício previdenciário de um salário mínimo a idoso, desconsiderando a renda do grupo familiar.
+    3. Pois bem, a parte recorrente aponta violação aos incisos XXXV, LIV e LV do art. 5º, ao inciso I do art. 22 e ao inciso V do art. 203 da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida, no que toca à ofensa às garantias constitucionais do processo. É que a alegada afronta, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que é exemplo o AI 517.643-AgR, da relatoria do ministro Celso de Mello. Esta é a ementa do julgado:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO .
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito , situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta , só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes .”
+    5. Por outro lado, o Supremo Tribunal Federal concluiu pela presença de repercussão geral no tocante à legitimidade dos requisitos para a concessão do benefício assistencial de que tratam o inciso V do art. 203 da Constituição Federal e a Lei 8.742/1993 (RE 567.985, sob a relatoria do ministro Marco Aurélio).
+    Ante o exposto, frente ao caput do art. 557 do CPC, nego seguimento ao recurso no ponto em que se alega ofensa ao devido processo legal. Na parte em que se discute à legitimidade dos requisitos para a concessão do benefício assistencial, dou provimento ao agravo de instrumento para admitir o recurso extraordinário e, com base no parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 16 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
