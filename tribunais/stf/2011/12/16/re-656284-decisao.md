@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PIS E COFINS. LOCAÇÃO DE MÃO-DE-OBRA. LEIS 10.637/2002 E 10.833/2003. BASE DE CÁLCULO. SALÁRIOS E ENCARGOS SOCIAIS E TRABALHISTAS. INCLUSÃO. RECEITA BRUTA. ENTENDIMENTO COM BASE EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA N. RESP 1.141.065/SC. ARTIGO 543-C, DO CPC.
+    1. Agravo regimental interposto contra decisão que negou seguimento ao recurso especial, reconhecendo que os valores destinados ao pagamento de salários e demais encargos trabalhistas dos trabalhadores temporários, assim como a taxa de administração cobrada das empresas tomadoras de serviços, integram a base de cálculo do PIS e da Cofins.
+    2. O recurso especial n. 1.141.065/SC, por ser representativo da matéria em discussão, cujo entendimento encontra-se pacificado nesta Corte, foi considerado recurso repetitivo e submetido ao regime de julgamento previsto pelo artigo 543-C do Código de Processo Civil, regulamentado pela Resolução n. 8 do dia 7 de agosto de 2008, do STJ.
+    3. O mencionado recurso, da relatoria do eminente Ministro Luiz Fux, foi submetido a julgamento pela Primeira Seção na data de 9/12/2009, no qual o STJ ratificou orientação no sentido de que a base de cálculo do PIS e da Cofins, independentemente do regime normativo aplicável (Leis Complementares 7/70 e 70/91 ou Leis ordinárias 10.637/2002 e 10.833/2003), abrange os valores recebidos pelas empresas prestadoras de serviços de locação de mão de obra temporária (regidas pela Lei 6.019/74 e pelo Decreto 73.841/74), a título de pagamento de salários e encargos sociais dos trabalhadores temporários.
+    4. Agravo regimental não provido.”
+    2. Pois bem, a parte recorrente aponta ofensa ao § 1º do art. 145, aos incisos I e IV do art. 150, ao inciso III do art. 153, ao inciso I do art. 154, e às alíneas “b” e “c” do inciso I do art. 195, todos da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. É que o entendimento da instância judicante de origem não destoa da jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta. Leia-se, a propósito, a ementa do RE 608.830-AgR, da relatoria da ministra Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL COFINS E PROGRAMA DE INTEGRAÇÃO SOCIAL PIS. BASE DE CÁLCULO. EMPRESAS PRESTADORAS DE SERVIÇOS TERCEIRIZADOS. RECEITA BRUTA E FATURAMENTO: SINONÍMIA DE TERMOS, SIGNIFICANDO AMBOS O TOTAL DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    4. Precedentes: REs 371.258-AgR, da relatoria do ministro Cezar Peluzo; e 390.840, da relatoria do ministro Marco Aurélio; bem como ARE 645.618, da relatoria da ministra Cármen Lúcia.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
