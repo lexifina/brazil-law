@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de FRANCISCO DAS CHAGAS DA SILVA e JÉFERSON MARTINS, contra decisão do Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), que negou provimento ao AREsp 20.465/MG do Superior Tribunal de Justiça.
+    Consta dos autos que FRANCISCO foi condenado à pena de dois anos e seis meses de reclusão, com a agravante de reincidência (art. 61, I, do CP), em regime semiaberto, e JÉFERSON, à pena de dois anos de reclusão, em regime aberto, pela prática do crime de furto qualificado (art. 155, § 4º, IV, do CP), por terem subtraído dezenove peças de alumínio para boxe de banheiro e três torneiras de aço inox, bens que foram restituídos à vítima. Ambos foram beneficiados com a atenuante de confissão espontânea (art. 65, III, d, do CP).
+    A impetrante narra, ainda, que, buscando a absolvição dos pacientes por aplicação do princípio da insignificância e, alternativamente, o reconhecimento de furto privilegiado, a defesa interpôs apelação no Tribunal de Justiça do Estado de Minas Gerais, que deu parcial provimento ao recurso apenas para reduzir a reprimenda fixada ao paciente FRANCISCO.
+    Relata, na sequência, que a Defensoria interpôs recurso especial, mas o pleito não foi admitido na origem, o que ensejou a interposição do respectivo agravo. Diz que, submetido aquele recurso ao Superior Tribunal de Justiça, o Ministro Relator negou-lhe provimento, em decisão assim fundamentada:
+    “Não merece prosperar a presente irresignação recursal.
+    Isto porque, in casu, resulta evidente a ausência da técnica própria indispensável à apreciação do recurso. Nesta instância excepcional, é obrigação da parte recorrente indicar com clareza o dispositivo legal tido como violado, sob pena de o inconformismo ser inadmitido.
+    Nas razões de seu apelo, não se faz suficiente à parte alegar a ocorrência das hipóteses do permissivo constitucional. É indispensável seja deduzida a necessária fundamentação, com a finalidade de demonstrar o cabimento do recurso, por violação, negativa de vigência ou divergência interpretativa de norma legal devidamente indicada, sendo insuficiente, para tanto, a formulação de alegações genéricas.
+    É cediço na Corte que a ausência de indicação expressa do dispositivo legal tido por malferido, nas razões do especial, configura deficiência na fundamentação do recurso, atraindo o óbice do verbete sumular nº 284/STF, verbis: 'É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia'.
+    (…)
+    Ante o exposto, nego provimento ao agravo em recurso especial” (grifos meus).
+    É contra essa decisão que se insurge a impetrante.
+    Após trazer algumas considerações doutrinárias, lembra que, no julgamento do HC 84.412/SP, Rel. Min. Celso de Mello, esta Corte fixou quatro aspectos objetivos a serem considerados para a aplicação do princípio da insignificância, quais sejam: “a) a mínima ofensividade da conduta do agente; b) a ausência de periculosidade social da ação; c) o reduzido grau de reprovabilidade do comportamento; e, por fim, d) a inexpressividade da lesão jurídica causada”.
+    Argumenta, assim, que estão presentes os vetores mencionados, haja vista o pequeno valor dos bens subtraídos, o que torna forçosa a aplicação do princípio da insignificância.
+    Por fim, sustenta, em reforço, que a reincidência deve interferir apenas na segunda fase da fixação da pena, por constituir circunstância pessoal do agente, e não no exame da possibilidade de aplicação do princípio ora discutido, pois este exclui a própria tipicidade da conduta.
+    Requer, ao final, o deferimento da medida liminar “para obstar o acórdão proferido pelo Superior Tribunal de Justiça”. No mérito, pede a concessão da ordem, “a fim de que seja reconhecida a aplicação do princípio da insignificância para reconhecer a atipicidade da conduta e para absolver os pacientes” (grifos no original).
+    É o relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, a impetrante não instruiu a ação com cópia do acórdão que julgou a apelação defensiva, do recurso especial e do respectivo agravo, sem os quais não é possível verificar se os fundamentos foram adequadamente suscitados nas instâncias antecedentes.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Solicitem-se informações ao Relator do AREsp 20.465/MG do Superior Tribunal de Justiça para que informe se foi interposto recurso contra a decisão ora questionada e para que envie cópia do acórdão que julgou a apelação defensiva, do recurso especial e do respectivo agravo.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
