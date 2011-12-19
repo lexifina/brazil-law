@@ -1,0 +1,24 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada por RYCHARDSON MACEDO BERNARDO, contra decisões do Tribunal Regional Federal da 5ª Região e do Juiz Substituto da 2ª Vara Federal da Seção Judiciária do Estado do Rio Grande do Norte
+    Inicialmente, o reclamante narra que, em 12/9/2011, foi deflagrada a operação “Pecado Capital” por suposto desvio de verbas públicas e que o Juízo Estadual da 7ª Vara Criminal da Comarca de Natal determinou sua custódia cautelar, a ser cumprida no Comando Geral da Polícia Militar do Rio Grande do Norte.
+    Diz, em seguida, que, em 22/9/2011, foi oferecida denúncia contra o reclamante pela suposta prática dos crimes de quadrilha, lavagem de dinheiro e peculato. Informa que o juízo estadual declinou da competência em favor da Justiça Federal.
+    Aduz que o juízo federal ratificou todos os atos instrutórios até então praticados pelo magistrado estadual, inclusive a decisão acerca do local destinado à custódia do reclamante.
+    Assevera, dessa forma, que, formulado pedido de liberdade provisória em seu favor, o juízo da causa entendeu pela manutenção da prisão preventiva, o que deu ensejo à impetração de habeas corpus no Tribunal Regional Federal da 5ª Região, que denegou a ordem.
+     Informa, ademais, que, em 16/11/2011, foi protocolado pedido de prisão domiciliar ao Juízo Federal da 2ª Vara Federal da Seção Judiciária do Rio Grande do Norte, mas o magistrado processante se deu por suspeito e o pleito ainda não foi apreciado.
+    Aduz, então, que a atual situação carcerária a que está submetido viola o decidido na ADI 1127, que reconheceu a validade constitucional do art. 7º, V, da Lei 8.906/1994, que garante ao advogado a prerrogativa de “não ser recolhido preso, antes de sentença transitada em julgado, senão em sala de Estado Maior, com instalações e comodidades condignas, e, na sua falta, em prisão domiciliar”.
+    Acrescenta, também, que, “consoante se infere do teor do Ofício nº 707/2011 – COPE/SEJUC (Doc. 05), não há sala de Estado Maior em todo o Estado do Rio Grande do Norte” e, a corroborar o teor desse ofício, há o Ofício 830/2011 – GCG, do Comando Geral da Polícia Militar do RN, que consigna que a Polícia Militar daquele Estado “não se encontra preparada para receber custódia de advogados como preceitua o art. 7, V, do Estatuto da Ordem dos Advogados do Brasil”.
+    Alega, outrossim, que ainda sob a jurisdição estadual, o Juízo da 7ª Vara Criminal, referindo-se ao Ofício 707/2011 – COAPE/SEJUC, proferiu decisão mantendo o reclamante no local em que atualmente se encontra, o que viola a prerrogativa profissional do advogado.
+     Ressalta, ainda, que a sala de Estado Maior deve ser uma sala que apenas ocasionalmente pode servir para o fim de aprisionamento e que não deve possuir, por óbvio, grades. Diz, contudo, que se encontra custodiado em sala com fechadura, o que contraria o entendimento firmado por esta Corte.
+    Acrescenta que a sala de Estado Maior não se confunde com a prisão especial, na qual o detento fica separado dos presos comuns. Aquela deve ser destituída de grades ou portas fechadas pelo lado de fora, segundo afirmação feita pelo Ministro Ayres Britto no HC 91.089/SP.
+    Em reforço à tese defendida, traz alguns precedentes desta Corte que reconheceram o direito à prisão domiciliar quando não há, no local em que o réu se encontra custodiado, sala de Estado Maior.
+     Ao final, requer, liminarmente, seja o reclamante colocado em prisão domiciliar e, alternativamente, pede a superação da Súmula 691 desta Corte, em razão do excesso de prazo para a conclusão da instrução processual, relaxando-se a prisão preventiva.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, tenho que o caso é de indeferimento da liminar.
+    Embora o reclamante alegue que está detido no Comando Geral da Polícia Militar do Estado do Rio Grande do Norte, em local que não se enquadra no conceito de sala de Estado Maior, não há, nos autos, qualquer comprovação dessa afirmativa, o que recomenda sejam solicitadas informações ao juízo reclamado sobre o tratamento dispensado ao custodiado.
+    Não vislumbro, assim, no exame perfunctório que se faz possível nessa fase processual, o fumus boni iuris necessário para a concessão da medida liminar requerida.
+    Ademais, a cautelar pleiteada, na hipótese, tem caráter satisfativo, confundindo-se com o próprio mérito da reclamação, o qual será oportunamente examinado.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento de mérito, indefiro a medida liminar.
+    Solicitem-se informações ao Juízo Federal da 2ª Vara da Seção Judiciária do Estado do Rio Grande do Norte e ao Comando Geral da Polícia Militar daquele Estado sobre o local e as condições em que se encontra custodiado o reclamante.
+    Publique-se.
+    Brasília, 19 de dezembro de 201.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
