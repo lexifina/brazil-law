@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a , da Constituição federal) de acórdão assim ementado (fls.96):
+    “EXECUÇÃO – PENHORA DE IMÓVEL – EMBARGOS DE TERCEIRO – CÔNJUGE SEPARADO – ÚNICO BEM A ELA ATRIBUÍDO NA SEPARAÇÃO – PRETENSÃO NA EXONERAÇÃO DA CONSTRIÇÃO SOB A ALEGAÇÃO DE SE TRATAR DE BEM DE FAMÍLIA – NÃO ACOLHIMENTO – FRAUDE À EXECUÇÃO CONFIGURADA. 1 – Aproveitando à família a dívida contraída pelo marido, no caso decorrente de delito de apropriação indébita qualificada, os bens reservados da mulher, assim como a sua meação não estão imunes à constrição judicial à satisfação do crédito executado, nos exatos termos do art. 246, parágrafo único, constitui-se ato de fraude à execução, nos termos do art. 593, II, do CPC e, assim, sem efeito em relação ao processo de execução. 2 – A atribuição do único imóvel da família à mulher, quando da separação, em momento em que tramita contra o marido ação de índole indenizatória e criminal condenatória por ato ilícito contra o patrimônio, constitui-se ato de fraude à execução, nos termos do art. 593, II, do CPC e, assim, sem efeito em relação ao processo de execução 3 – Em sendo calcada a execução e sentença penal condenatória, inexiste restrição à penhora do bem de família, porquanto incidente a exceção a que alude o inciso VI, do art. 3º, da Lei nº 8.009/90”
+    Nas razões do recurso extraordinário, o agravante alega violação ao art. 5º, LIII e 125, da Constituição federal.
+    Observo, inicialmente, que não foram prequestionadas as supostas ofensas à Constituição. Incide, no caso, o óbice da Súmula 282-STF.
+    Por outro lado, verifico que a decisão impugnada fundou-se nas circunstâncias do caso concreto para reconhecer a fraude à execução e a inaplicabilidade das regras da Lei nº 8.009/90. Inviável afastar essa conclusão sem o reexame da prova documental e da legislação infraconstitucional que rege a espécie, o que dá margem ao descabimento do recurso extraordinário (Súmula 279 do STF).
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se. Int..
+    Brasília, 19 de dezembro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
