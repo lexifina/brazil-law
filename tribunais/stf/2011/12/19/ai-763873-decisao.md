@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição) de acórdão do Tribunal Regional Federal da 3ª Região, que afastou a responsabilidade do Estado pelo acidente que vitimou a parte ora agravante. Eis a ementa ( Fls. 674):
+    “RESPONSABILIDADE CIVIL DO ESTADO – ACIDENTE AUTMOBILÍSTICO – FERNÃO DIAS – DANOS A VEÍCULO – DANOS MATERIAIS E MORAIS – NECESSIDADE DE CARACTERIZAÇÃO DE NEXO DE CAUSALIDADE ENTRE O DANO E ATO DA ADMINISTRAÇÃO.
+    I- Para a caracterização da referida responsabilidade há de existir nexo de causalidade entre o ato praticado e o prejuízo arcado pelo administrado e, de outra parte, para que reste evidenciada a responsabilidade estatal pelo dano, impende que o ato seja ilícito ou sendo lícito, tenha sido afrontado o preceito constitucional da igualdade. Aliás, deve ser consignado que inclusive no caso de caracterização de falta do serviço - “faute du service” dos franceses, não está dispensado o requisito da causalidade, isto é, do nexo de causalidade entre a ação omissiva atribuída ao poder público e o dano causado a terceiro.
+    2- As provas trazidas aos autos pelo autor não serviram para demonstrar e justificar a alegação do autor de que teria perdido o rumo da estrada fazendo com que derivasse para a esquerda alcançando o canteiro que separa os leitos das estradas, tal assertiva não se revela suficiente para comprovar as alegações do autor. O que se conclui é no sentido de que tendo sido iniciado o trajeto da curva em velocidade acima da compatível com a curva, não teve o condutor possibilidade de evitar a derrapagem e consequentemente invasão ao canteiro central. Portanto, a vítima, ora apelante, concorreu com culpa para o desfecho do acidente.
+    3- Recurso do autor improvido e providas a apelação da autarquia e a remessa oficial.
+    Não prospera o recurso.
+    O acórdão recorrido se fundou na prova pericial e testemunhal para concluir pela culpa exclusiva da vítima. Esclareceu-se que “(...) o local onde aconteceu o acidente automobilístico em comento não representava perigo para o condutor. Aliás, resta evidenciado que o autor ou não conduzia o veículo com a velocidade compatível para o local, ou com a necessária atenção”(fls. 672).
+    Afastar essas conclusões implicaria reexame da matéria fático-probatória, o que dá margem ao descabimento do recurso extraordinário (Súmula 279). Nesse sentido: AI 568.163, rel. min. Cármen Lúcia, DJ de 15.04.2008; AI 731.925, rel. min. Cármen Lúcia, DJ de 28.11.2008; RE 496.158, rel. min. Cezar Peluso, DJ de 25.09.2006.
+    Ademais, se o acórdão recorrido efetivamente afastou o nexo de causalidade entre os danos experimentados pela parte ora agravante e a alegada falta do serviço público e, ainda, a responsabilidade exclusiva da vítima, não há que se falar em vulneração ao art. 37, § 6º, da Constituição.
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
