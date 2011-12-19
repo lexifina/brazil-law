@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO PROVISÓRIA SOBRE MOVIMENTAÇÃO OU TRANSMISSÃO DE VALORES E DE CRÉDITOS E DE DIREITOS DE NATUREZA FINANCEIRA – CPMF. EMENDA CONSTITUCIONAL 31/00. INCONSTITUCIONALIDADE. INEXISTÊNCIA.
+    1. A Emenda Constitucional n° 31/00 determina a edição de lei complementar apenas para a regulamentação do Fundo de Combate e Erradicação da Pobreza, o mesmo não se constatando com a majoração da alíquota da CPMF.
+    2. A Emenda Constitucional, por ser norma hierarquicamente superior, é instrumento hábil a regulamentar matéria reservada à legislação infraconstitucional, como a majoração da alíquota da CPMF.
+    3. O princípio da anterioridade nonagesimal foi observado com o Decreto n° 3.775/01, que, ao regulamentar o art. 80 do Ato das Disposições Constitucionais Transitórias, determinou que a CPMF deveria incidir à alíquota de trinta e oito centésimos por cento, no período de 18 de março de 2001 até 17 de junho de 2002.
+    4. Apelação e remessa oficial providas.”
+    Sustenta-se, em síntese, a violação dos arts. 59, e 150, I e IV, da Constituição federal, assim como dos princípios da isonomia e da capacidade contributiva.
+    Sem razão o recorrente
+    O acórdão recorrido, ao afirmar que a majoração da alíquota da CPMF é constitucional, por ter ocorrido via Emenda Constitucional 31/00, e não por decreto, está em harmonia com o entendimento do Supremo Tribunal Federal, no sentido de que é possível a criação ou majoração de tributo por emenda constitucional, como se depreende da ementa infra transcrita:
+    EMENTA: Recurso extraordinário. Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Crédito e de Direito de Natureza Financeira - CPMF (art. 75 introduzido no ADCT pela Emenda Constitucional nº 21/99). - Tendo o Pleno desta Corte, ao julgar a ADI 2.031, relatora a eminente Ministra Ellen Gracie, dado pela improcedência da ação quanto ao artigo 75, §§ 1º e 2º, introduzido no ADCT pela Emenda Constitucional nº 21/99, isso implica, em virtude da "causa petendi" aberta em ação dessa natureza, a integral constitucionalidade desses dispositivos com eficácia "erga omnes". - Ademais, é de notar-se que, nesse julgamento, se afastou, inclusive, a alegação de ofensa ao artigo 150, I, da Carta Magna por causa da perda de eficácia das Leis 9.311/96 e 9.539/97 pela promulgação tardia dessa Emenda, bem como se firmou o entendimento de que Emenda Constitucional pode criar ou majorar tributo, além de se decidir que não ocorreu violação do disposto no artigo 60, § 2º, da Carta Magna pela supressão, por parte da Câmara dos Deputados, da expressão "ou restabelecê-la", sem que a proposta houvesse retornado ao Senado. Recurso extraordinário não conhecido. (RE 357576, rel. min. Moreira Alves, Primeira Turma, DJ de 14.03.2003 - grifei)
+    Ademais, o entendimento firmado por esta Corte na ADI 2.031 (rel. min. Ellen Gracie, Tribunal Pleno, DJ de 17.10.2003) demonstra a inocorrência da alegada violação dos princípios da isonomia, da capacidade contributiva e da vedação ao confisco.
+    Tais fundamentos são plenamente aplicáveis ao presente caso, para afastar de alegação de inconstitucionalidade do Decreto 3.775/01, que regulou o art. 80 do ADCT, tratando da Contribuição Provisória sobre Movimentação Financeira (CPMF).
+    Nesse sentido: RE 566.666, rel. min. Ricardo Lewandowski, DJ de 19/04/2010.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011
+Ministro JOAQUIM BARBOSA
+Relator
