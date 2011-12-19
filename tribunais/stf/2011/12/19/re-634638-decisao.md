@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 2ª Região. Acórdão assim ementado (fls. 106/107):
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. LICENÇA PRÊMIO INDENIZADA. NÃO INCIDÊNCIA DA EXAÇÃO. CABÍVEL A RESTITUIÇÃO DOS VALORES RECOLHIDOS COM A DEVIDA CORREÇÃO MONETÁRIA. CUSTAS E HONORÁRIOS PELA RÉ.
+    A matéria em questão encontra-se pacificada na jurisprudência dos Tribunais e do Superior Tribunal de Justiça, no sentido de que não incide imposto de renda sobre o pagamento de licença-prêmio não gozada, por ter tal verba natureza indenizatória, não configurando acréscimo patrimonial de qualquer natureza ou renda a configurar a hipótese de incidência do Imposto de Renda tipificada no art. 43 do CTN. Tal entendimento restou consolidado no enunciado da Súmula nº 136 do eg. STJ.
+    Tendo a eg. Corte Superior se posicionado, no caso de férias não gozadas, pela desnecessidade de comprovação de que as mesmas não teriam sido usufruídas por necessidade do serviço, o mesmo raciocínio deve ser aplicado à licença-prêmio não gozada, uma vez que se trata de uma presunção em favor do empregado.
+    Cabível a restituição dos valores que foram descontados dos autores a título de imposto de renda sobre licença-prêmio indenizada, devendo os mesmos ser corrigidos pelos mesmos índices aplicados pela União Federal na correção de seus créditos tributários, acrescidos de juros de mora de 1% ao mês, desde o pagamento indevido, visto que o mesmo tratamento dispensado ao contribuinte deve naturalmente ser aplicado ao Fisco, sob pena de se violar o princípio constitucional da isonomia.
+    A Ré deverá arcar com os honorários advocatícios, fixados em 10% sobre o valor da condenação, a teor do art. 20, §3º do CPC e conforme entendimento pacificado tanto no Colendo Superior Tribunal de Justiça quanto nesta Egrégia Turma, devendo, ainda, devolver as custas processuais pagas pela Parte Autora.”
+    2. Pois bem, a parte recorrente aponta ofensa ao caput do art. 5º e ao inciso II do art. 150 da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. É que o Plenário do Supremo Tribunal Federal, após reconhecer a presença de repercussão geral da matéria sob exame, decidiu o mérito da controvérsia. Na oportunidade, entendeu pela legitimidade da incidência da taxa Selic para atualização de débitos tributários. Leia-se, a propósito, a ementa do RE 582.461, da relatoria do ministro Gilmar Mendes, na parte que interessa ao deslinde da causa:
+    “1. Recurso extraordinário. Repercussão geral.
+    2. Taxa Selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro AYRES BRITTO
+Relator
