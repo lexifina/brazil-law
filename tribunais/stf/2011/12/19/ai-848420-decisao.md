@@ -1,0 +1,8 @@
+AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO E CONSTITUCIONAL. REPRESENTATIVIDADE SINDICAL DE MICRO E PEQUENAS INDÚSTRIAAS ARTESANAIS. REPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 488 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF. DEVOLUÇÃO DOS AUTOS À ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+     Decisão: Cuida-se de agravo nos próprios autos interposto, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte no RE nº 646.104/SP, relator o Ministro Dias Toffoli, e que corresponde ao Tema nº 488 da Gestão por Temas da Repercussão Geral. Trata-se do tema “em que se discute, à luz dos artigos 8º, I e II; 146; 170 e 179, da Constituição Federal, se o Sindicato da Micro e Pequena Indústria do Tipo Artesanal do Estado de São Paulo – SIMPI possui, ou não, representatividade sindical relativamente às micro e pequenas empresas com até 50 empregados e, em conseqüência, se faz jus ao recebimento de contribuição sindical, considerados os princípios da liberdade e da unicidade sindical, bem como o tratamento constitucional diferenciado dispensado a essas sociedades empresariais”.
+    Ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário, que, no entanto, deverá permanecer SOBRESTADO na origem para que se observe o disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
