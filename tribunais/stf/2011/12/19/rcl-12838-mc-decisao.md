@@ -1,0 +1,21 @@
+Decisão: Trata-se de medida cautelar em reclamação constitucional proposta por Banco Bradesco S.A. que tem como objetivo suspender execução provisória de multa imposta em virtude de suposto descumprimento de ordem judicial.
+    O reclamante relata que a ordem judicial supostamente descumprida determinou a reintegração do empregado José Ailson Rego Baltazar com fundamento no decreto estadual 21.325/1991.
+    A norma estadual apontada supostamente teria outorgado estabilidade no emprego aos servidores e empregados públicos da administração pública direta e indireta, autarquias, empresas públicas e sociedades de economia mista do Estado do Ceará.
+    O reclamante, ao incorporar, em 2005, banco que então se encontrava sob o controle acionário do Estado do Ceará, estaria obrigado a respeitar a integração do decreto estadual 21.325/1991 aos contratos de trabalho mantidos pelo banco incorporado, ainda que referida norma estadual tenha sido revogada em 1996, antes da operação de incorporação.
+    O reclamante argumenta que a suposta estabilidade do empregado contraria a jurisprudência deste Supremo Tribunal Federal que reconheceu que as unidades da Federação não podem criar hipótese de estabilidade no emprego. Nessa linha de argumentação, entre os acórdãos mencionados pelo reclamante, prepondera a ADI 1.302-MC, rel. min. Marco Aurélio, Pleno, DJ 20.10.1995, ocasião em que foi deferida a liminar para suspender a aplicação de dispositivo da constituição do Estado do Rio Grande do Norte que previa estabilidade de empregado de empresa pública estadual ou sociedade de economia mista com participação societária do estado-membro.
+    Ainda nessa linha de argumentação, o reclamante sugere que a ordem judicial supostamente descumprida deveria ter se limitado à imposição do dever de fundamentar a dispensa do empregado, sem a imposição, contudo, do dever de reintegrar o empregado dispensado. Observa, também, que desde a dispensa do empregado, chegou ao conhecimento do reclamante a informação de que o empregado José Ailson Rego Baltazar dedicou-se, na qualidade de advogado e na vigência do vínculo empregatício, à defesa judicial de interesses contrários aos do reclamante, circunstância que constituiria justa causa para a dispensa.
+    Para demonstrar a existência de periculum in mora, o reclamante aponta para o risco de sofrer penhora de valor elevado (cerca de R$ 89 milhões).
+    As informações prestadas pelo Tribunal Regional do Trabalho da 7ª Região salientam que o entendimento daquela corte regional é no sentido da incorporação do decreto estadual 21.325/1991 ao contrato de trabalho do empregado dispensado pelo reclamante, circunstância que tornaria possível o reconhecimento da estabilidade prevista naquela norma, ainda que o regulamento estadual tenha sido posteriormente revogado.
+    É o relatório.
+    Decido.
+    À primeira vista, observo que a presente reclamação parece cumprir o papel que seria do recurso ordinário cabível contra a ordem judicial impugnada. Neste tipo de situação, a jurisprudência deste Supremo Tribunal Federal é contrária à utilização da reclamação constitucional.
+    Impressiona-me, contudo, o fato de a execução da multa judicial ter alcançado o astronômico valor de R$ 89.130.000,00 (oitenta e nove milhões, cento e trinta mil reais), circunstância que, em análise perfunctória, parece indicar a necessidade de esclarecimento preciso dos contornos e limites jurídicos da situação de fato.
+    Registro, por outro lado, que, na linha do afirmado pelo reclamante, a decisão proferida na ADI 1.302-MC efetivamente reconheceu a inconstitucionalidade de norma estadual que atribuía estabilidade a empregados públicos estaduais. Ainda que se possa cogitar da inaplicabilidade daquele precedente ao caso dos autos, tendo em vista se tratar de dispositivos normativos diferentes, o fato é que, à primeira vista, as situações em jogo efetivamente se parecem, tomando-se como corretas as alegações expendidas pelo reclamante.
+    Ante o exposto, defiro a medida cautelar para suspender a execução da multa judicial até decisão final nesta reclamação.
+    Comunique-se.
+    Abra-se vista à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
