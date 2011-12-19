@@ -1,0 +1,19 @@
+Decisão: Cuida-se de habeas corpus, com pedido de liminar, contra decisão de Ministro do Superior Tribunal de Justiça, relator de idêntico writ impetrado perante aquela Corte,
+    Consta dos autos que o paciente foi condenado à pena de dois anos de reclusão, em regime aberto, pela prática do delito previsto no art. 155, § 4º, I, do Código Penal, em virtude de ter subtraído R$ 50,00 (cinquenta reais) e uma caderneta de anotações da Sociedade Linha Tinta, mediante rompimento de uma telha de vidro.
+    Em primeiro grau, foi deferido ao sentenciado o direito de cumprir a pena em prisão domiciliar, a medida em que inexistia na localidade Casa de Albergado para o cumprimento da reprimenda. O Tribunal de Justiça do Rio Grande do Sul, no entanto, deu provimento a Agravo interposto pelo Ministério Público para determinar o recolhimento do ora paciente a estabelecimento comum, sob a alegação de que, apesar da inexistência de Casa de Albergado na Comarca, a hipótese não estaria inserida no rol previsto no art. 117 da LEP. Argumentou-se que “Não é justo que o Judiciário mande a sociedade ordeira pagar a conta dos desmandos do administrador”.
+    Essa decisão foi combatida perante o Superior Tribunal de Justiça por habeas corpus, cujo pedido de liminar foi negado sob o fundamento de que não haveria “ilegalidade flagrante no acórdão atacado, fazendo-se ausentes os requisitos indispensáveis ao atendimento do pleito de urgência”.
+    In continenti, foi impetrado novo writ, perante esta Suprema Corte, no intuito de restabelecer a sentença de primeiro grau.
+    É o relatório. Passo a decidir.
+    Não é o caso de aplicar-se o enunciado nº 691 da Súmula da Jurisprudência dominante do Supremo Tribunal Federal, ante o evidente vício que inquina a decisão ora atacada.
+    O aludido óbice já restou superado diversas vezes por esta Corte. Neste sentido, o Tribunal Pleno já decidiu que “abrandado o rigor da Súmula 691/STF nos casos em que (i) seja premente a necessidade de concessão do provimento cautelar e (ii) a negativa de liminar pelo tribunal superior importe na caracterização ou manutenção de situações manifestamente contrárias ao entendimento do Supremo Tribunal Federal” (HC 95009, Relator(a): Min. EROS GRAU, Tribunal Pleno, julgado em 06/11/2008, DJe-241 DIVULG 18-12-2008 PUBLIC 19-12-2008 EMENT VOL-02346-06 PP-01275 RTJ VOL-00208-02 PP-00640).
+    Outros precedentes podem ser relacionados: HC n. 85.185/SP, Min. Cezar Peluso, Pleno, por maioria, DJ 1º.9.2006; HC n. 84.014/MG, Min. Marco Aurélio, 1ª Turma, unânime, DJ 25.6.2004; e HC n.90.387, Min. Gilmar Mendes, 2ª Turma, unânime, DJ 28.9.2007.
+    Com efeito, o art. 33, § 1º, c, do Código Penal reza que se considera “regime aberto a execução da pena em casa de albergado ou estabelecimento adequado”. Evidente que, à míngua de estabelecimento adequado na localidade, não pode o sentenciado ser punido com regime prisional mais severo do que aquele indicado na sentença condenatória, sob pena de mácula aos princípios da legalidade (art. 5º, XXXIX, da CRFB) e da individualização da pena (art. 5º, XLVI, da CRFB).
+    Nesse sentido é a jurisprudência do Pretório Excelso, verbis:
+    PENA - CUMPRIMENTO - REGIME SEMIABERTO. Incumbe ao Estado aparelhar-se visando à observância irrestrita das decisões judiciais. Se não houver sistema capaz de implicar o cumprimento da pena em regime semiaberto, dá-se a transformação em aberto e, inexistente a casa do albergado, a prisão domiciliar.
+    (HC 96169, Relator(a): Min. MARCO AURÉLIO, Primeira Turma, julgado em 25/08/2009, DJe-191 DIVULG 08-10-2009 PUBLIC 09-10-2009 EMENT VOL-02377-02 PP-00331)
+    Ex positis, concedo a liminar para determinar o imediato recolhimento do paciente a prisão domiciliar, se por al não estiver preso, nos exatos termos da sentença de primeiro grau.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
