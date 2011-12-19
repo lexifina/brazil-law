@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ELEITORAL. INDEFERIMENTO DO PEDIDO DE EFEITO SUSPENSIVO NO AGRAVO DE INSTRUMENTO EM RECURSO ESPECIAL ELEITORAL. AUSÊNCIA DO PERICULUM IN MORA. DECISÃO INTERLOCUTÓRIA. APLICAÇÃO DO ART. 542, § 3º, DO CPC. ALEGAÇÃO DE VIOLAÇÃO AOS ARTS. 5º, XXXV, LIV, LV E LVI, E 93, IX. OFENSA INDIRETA OU REFLEXA.
+1. O recurso extraordinário somente é cabível contra decisão de única ou última instância quando decidido o mérito da demanda.
+2. O parágrafo 3º do art. 542 do CPC determina que: “recurso extraordinário, ou o recurso especial, quando interposto contra decisão interlocutória em processo de conhecimento, cautelar, ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para a interposição do recurso contra a decisão final, ou para as contrarrazões”.
+3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854, 1ª Turma, Rel. Min. Cármen Lúcia, AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie.
+4. In casu, o acórdão recorrido assentou:
+“Agravo de instrumento. Recurso criminal. Efeito suspensivo.
+- Se o agravante cinge-se a protestar pela atribuição de efeito suspensivo a recurso, sem apresentar prova de que a decisão condenatória, em ação penal, estaria sendo executada, evidencia-se ausente o periculum in mora, a justificar o deferimento dessa pretensão.
+Agravo regimental a que se nega provimento.”
+5. Recurso extraordinário com agravo a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário com agravo interposto contra decisão que não admitiu o apelo extremo interposto em oposição a acórdão do Tribunal Superior Eleitoral ementado nos seguintes termos:
+    “Agravo de instrumento. Recurso criminal. Efeito suspensivo.
+    - Se o agravante cinge-se a protestar pela atribuição de efeito suspensivo a recurso, sem apresentar prova de que a decisão condenatória, em ação penal, estaria sendo executada, evidencia-se ausente o periculum in mora, a justificar o deferimento dessa pretensão.
+    Agravo regimental a que se nega provimento.”
+    Nas razões do extraordinário, JOSÉ CUSTÓDIO NUNES alegou violação aos arts. 5º, XXXV, LIV, LV e LVI, e 93, IX, da Constituição Federal.
+    O recurso teve o seguimento obstado na origem sob fundamento de não haver ofensa direta à Constituição que justifique a subida do extraordinário, além do óbice erigido pela Súmula 279 do STF.
+    É o relatório. DECIDO.
+    O agravo não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Com efeito, a controvérsia dos autos refere-se a decisão que, em sede de agravo de instrumento contra decisão que negou seguimento ao recurso especial eleitoral, indeferiu o pedido de efeito suspensivo ao recurso, sob o fundamento de não ter sido constatado o periculum in mora que justificasse a medida.
+    Destarte, verifica-se que o presente recurso foi interposto contra decisão interlocutória que indeferiu o pleito de efeito suspensivo, sem que a matéria de fundo tenha sido efetivamente examinada pelo Tribunal a quo. Assim, verifica-se que o presente recurso deveria permanecer sobrestado na origem para, se for o caso, ser ratificado quando do julgamento do meritum causae, nos termos do art. 542, § 3º, do CPC, in verbis:
+    “Art. 542 - Recebida a petição pela secretaria do tribunal, será intimado o recorrido, abrindo-se-lhe vista, para apresentar contra-razões:
+    (omissis)
+    § 3º - O recurso extraordinário, ou o recurso especial, quando interposto contra decisão interlocutória em processo de conhecimento, cautelar, ou embargos à execução ficará retido nos autos e somente será processado se o reiterar a parte, no prazo para a interposição do recurso contra a decisão final, ou para as contra-razões.”
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DECISÃO NÃO DEFINITIVA. RECURSO EXTRAORDINÁRIO RETIDO. APLICAÇÃO DO ART. 542, § 3º, DO CPC. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. INDEFERIMENTO MOTIVADO DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO IMPROVIDO. I - O recurso extraordinário interposto de decisão interlocutória, não definitiva, que não põe termo ao processo, deverá ficar retido nos autos e somente será processado se o reiterar a parte no prazo para a interposição do recurso contra a decisão final ou no prazo para as contrarrazões. Precedentes. II - Não existe no presente caso qualquer situação excepcional a ensejar a não-aplicação do disposto no art. 542, § 3º, do CPC. III - Os Ministros desta Corte, no ARE 639.228-RG/RJ, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral do tema - observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial - por se tratar de matéria infraconstitucional IV - Agravo regimental a que se nega provimento.” (ARE 646.366-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 14.12.2011 – grifos nossos).
+    Ademais, o Supremo Tribunal Federal tem entendimento consolidado no sentido de que as alegadas violações ao princípio da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas infraconstitucionais, seriam indiretas ou reflexas, o que, por si só, não desafia a instância extraordinária. Nesse sentido, entre outros:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 804.854, Primeira Turma, Rel. Min. Cármen Lúcia, Dje de 18/08/10) (grifo nosso).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279.
+    1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279).
+    2. Aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes.
+    3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF.
+    4. Agravo regimental improvido” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, Dje de 25/10/10) (grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao recurso extraordinário com agravo.
+    Publique-se. Int..
+    Brasília, 19 de dezembro de 2011.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
