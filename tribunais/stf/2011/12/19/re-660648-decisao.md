@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a) interposto de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 185):
+    “RECURSO DE EMBARGOS. AVISO PRÉVIO INDENIZADO. ESTABILIDADE. PROJEÇÃO. ARTIGO 19 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. O aviso prévio indenizado implica na garantia de direitos até a data do término daquele prazo, com o pagamento de salários, com reajustes genericamente concedidos, e os decorrentes de tempo de serviço, com mais 1/12 de férias e 13º salário. É entendimento consagrado no Precedente 40 da SDI1. Por outro lado, o artigo 19 do ADCT, tem requisito indispensável para a concessão da estabilidade, qual seja, a de que o servidor esteja em exercício na data da promulgação da Constituição da República, o que, não ocorreu na hipótese dos autos. Recurso de embargos a que se dá provimento.”
+    Nas razões do recurso, indica-se ofensa ao disposto no art. 5º, II, XXXV e LV, da Constituição federal e nos arts. 10, a, e 19 do ADCT. Sustenta-se que houve negativa de prestação jurisdicional e que o recorrente deve ser beneficiado pelas estabilidades previstas nos referidos dispositivos do ADCT.
+    É o relatório. Decido.
+    Determinei no AI 416.222 a subida dos presentes autos para melhor exame. De fato a controvérsia principal cinge-se ao reconhecimento da estabilidade prevista do art. 19 do ADCT. Inclusive essa é a causa de pedir e sob essa ótica foi examinada a controvérsia pelo Tribunal a quo bem como pelas instâncias ordinárias.
+    Portanto é inovatória a alegação de ofensa ao art. 10, a, do ADCT, o que implica o óbice da Súmula 282 deste Tribunal.
+    Consequentemente, não vislumbro a alegada afronta ao art. 5º, XXXV e LV, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o recorrente.
+    Quanto à alegação de ofensa ao preceito do art. 5º, II, tal questão constitucional também não foi ventilada na decisão recorrida nem foi objeto de embargos de declaração, faltando ao recurso, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Finalmente, no que tange à eventual ofensa ao art. 19 do ADCT, a questão constitucional suscitada, na forma como foi posta, não pode ser analisada sem prévio exame da legislação infraconstitucional e das provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 19 de dezembro de 2011.
+Ministro JOAQUIM BARBOSA
+Relator
