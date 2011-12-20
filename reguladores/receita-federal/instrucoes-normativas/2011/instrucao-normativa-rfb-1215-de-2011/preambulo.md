@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1215, de 15 de dezembro de 2011
+Aprova modelo de Comprovante de Rendimentos Pagos e de Imposto sobre a Renda Retido na Fonte.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL - SUBSTITUTA, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no § 1º do art. 19 da Lei nº 8.383, de 30 de dezembro de 1991, no art. 86 da Lei nº 8.981, de 20 de janeiro de 1995, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, no parágrafo único do art. 941, e nos arts. 943 e 965 do Decreto nº 3.000, de 26 de março de 1999, Regulamento do Imposto sobre a Renda 1999 (RIR/1999), resolve:
