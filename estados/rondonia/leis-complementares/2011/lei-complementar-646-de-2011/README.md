@@ -1,0 +1,5 @@
+# Lei Complementar nº 646, de 20 de dezembro de 2011, do Estado de Rondônia
+
+ALTERA DISPOSITIVOS DA LEI COMPLEMENTAR N° 622, DE 11 DE JULHO DE 2011, QUE "ESTABELECE NORMAS PARA CONSIGNAÇÕES EM FOLHA DE PAGAMENTO DOS SERVIDORES PÚBLICOS ATIVOS, INATIVOS, PENSIONISTAS E EMPREGADOS PÚBLICOS DA ADMINISTRAÇÃO DIRETA, AUTÁRQUICA E FUNDACIONAL DO PODER EXECUTIVO DO ESTADO DE RONDÔNIA E CRIA A ESTRUTURA DA COMISSÃO ESPECIAL DE CONSIGNAÇÕES - CECON".
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/5583>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2011/5583/5583_texto_integral.pdf>
