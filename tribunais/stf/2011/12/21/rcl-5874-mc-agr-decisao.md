@@ -1,0 +1,9 @@
+Decisão: Trata-se de reclamação constitucional, ajuizada pelo Município de Miracema do Tocantins/TO, para garantir autoridade de decisão da Min. ELLEN GRACIE nos autos da SS nº 3289, em que foi suspensa decisão proferida nos autos do Mandado de Segurança nº 3566/2007, em trâmite no Tribunal de Justiça do Tocantins.
+    Em consulta ao andamento processual no sítio eletrônico do Superior Tribunal de Justiça na internet (www.stj.jus.br), verifico que já transitou em julgado a referida impetração, impugnada por agravo de instrumento contra decisão denegatória de recurso especial, de modo que está prejudicada a reclamação de que se cuida.
+    Nesses termos, julgo extinto o processo, sem resolução de mérito (art. 267, VIII, do CPC).
+    Arquivem-se os autos.
+    Publique-se. Int..
+    Brasília, 21 de dezembro de 2011.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
