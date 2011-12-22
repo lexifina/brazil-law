@@ -1,0 +1,4 @@
+Instrução Normativa RFB nº 1218, de 21 de dezembro de 2011
+Altera a Instrução Normativa RFB nº 1.052, de 5 de julho de 2010, que intitui a Escrituração Fiscal Digital da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 11 da Lei nº 8.218, de 29 de agosto de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, nos arts. 10 e 11 da Medida Provisória nº 2.200-2, de 24 de agosto de 2001, no art. 35 da Lei nº 12.058, de 13 de outubro de 2009, e no Decreto nº 6.022, de 22 de janeiro de 2007,
+RESOLVE:
