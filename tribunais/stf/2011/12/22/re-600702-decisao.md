@@ -1,0 +1,9 @@
+DECISÃO
+REPERCUSSÃO GERAL ADMITIDA – MATÉRIA IDÊNTICA – EXECUÇÃO DA FAZENDA – FRACIONAMENTO – ARTIGO 100, §§ 3º E 4º, DA CONSTITUIÇÃO FEDERAL – JUROS DA MORA – ARTIGO 1º-F DA LEI Nº 9.494/97 – LIMITAÇÃO A 6% AO ANO – APLICAÇÃO IMEDIATA - BAIXA À ORIGEM.
+    1. O Supremo, no Recurso Extraordinário nº 568.645-1/SP, concluiu pela repercussão geral do tema relativo à possibilidade, em face da redação do § 3º e do § 4º do artigo 100 da Carta da República, de ser fracionado o valor da execução proposta contra a Fazenda Pública, isso considerando-se os diversos credores, em ação plúrima.
+    Acresce que o Plenário Virtual, reconhecendo a repercussão geral da matéria, no Agravo de Instrumento nº 842.063/RS, reafirmou jurisprudência no sentido de entender em harmonia com a Carta da República a aplicação imediata do artigo 1º-F da Lei nº 9.494/97, incluído pela Medida Provisória nº 2.180-35/2001, mesmo às ações ajuizadas em período anterior à vigência do dispositivo. Fiquei vencido quanto ao julgamento, em sede virtual, do mérito do extraordinário, sem a devida reunião do Colegiado. Não posso, contudo, ignorar o precedente.
+    2. Ante o quadro, considerado o fato de o recurso veicular as mesmas matérias, havendo a intimação do acórdão de origem ocorrido posteriormente à data em que iniciada a vigência do sistema da repercussão geral, bem como presente o objetivo maior do instituto – evitar que o Supremo, em prejuízo dos trabalhos, tenha o tempo tomado com questões repetidas -, determino a devolução do processo ao Tribunal de Justiça do Distrito Federal e dos Territórios. Faço-o com fundamento no artigo 328, parágrafo único, do Regimento Interno desta Corte, para os efeitos do artigo 543-B do Código de Processo Civil.
+    3. Publiquem.
+Brasília, 22 de dezembro de 2011.
+Ministro MARCO AURÉLIO
+Relator
