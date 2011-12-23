@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1222, de 22 de dezembro de 2011
+Altera a Instrução Normativa SRF nº 672, de 30 de agosto de 2006, que dispõe sobre a retificação de erros no preenchimento de Documento de Arrecadação de Receitas Federais (Darf) e de Documento de Arrecadação do Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte (Darf-Simples).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, resolve:
