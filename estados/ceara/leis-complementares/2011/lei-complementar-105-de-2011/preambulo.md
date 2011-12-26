@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 105, DE 21.12.11 (D.O. 26.12.11)
+ACRESCE E ALTERA DISPOSITIVOS À LEI COMPLEMENTAR Nº 14, DE 15 DE SETEMBRO DE 1999, E DÁ OUTRAS PROVIDÊNCIAS.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
