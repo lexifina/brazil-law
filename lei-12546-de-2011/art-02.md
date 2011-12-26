@@ -14,4 +14,11 @@ II - bens que tenham sido importados.
 § 7º A empresa comercial exportadora é obrigada ao recolhimento do valor atribuído à empresa produtora vendedora se:
 I - revender, no mercado interno, os produtos adquiridos para exportação; ou
 II - no prazo de 180 (cento e oitenta) dias, contado da data da emissão da nota fiscal de venda pela empresa produtora, não houver efetuado a exportação dos produtos para o exterior.
-§ 8º O recolhimento do valor referido no § 7º deverá ser efetuado até o décimo dia subsequente ao do vencimento do prazo estabelecido para a efetivação da exportação, acrescido de multa de mora ou de ofício e de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic), para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do mês subsequente ao da emissão da nota fiscal de venda dos produtos para a empresa comercial exportadora até o último dia do mês anterior ao do pagamento, e de 1% (um por cento) no mês do pagamento.
+§ 8º O recolhimento do valor referido no § 7º deverá ser efetuado até o décimo dia subsequente:
+I - ao da revenda no mercado interno; ou
+II - ao do vencimento do prazo estabelecido para a efetivação da exportação.
+§ 9º O recolhimento do valor referido no § 7º deverá ser efetuado acrescido de multa de mora ou de ofício e de juros equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC, para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do mês subsequente ao da emissão da nota fiscal de venda dos produtos para a empresa comercial exportadora até o último dia do mês anterior ao do pagamento, e de um por cento no mês do pagamento.
+§ 10. As pessoas jurídicas de que tratam os arts. 11-A e 11-B da Lei nº 9.440, de 14 de março de 1997, e o art. 1º na Lei nº 9.826, de 23 de agosto de 1999, poderão requerer o REINTEGRA.
+§ 11. Do valor apurado referido no caput:
+I - dezessete inteiros e oitenta e quatro centésimos por cento corresponderão a crédito da Contribuição para o PIS/PASEP; e
+II - oitenta e dois inteiros e dezesseis centésimos por cento corresponderão a crédito da COFINS.
