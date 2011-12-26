@@ -1,0 +1,9 @@
+Anexo I
+ATESTADO DE RESIDÊNCIA FISCAL NO BRASIL
+[arquivo anexo: Anexo I.doc]
+Anexo II
+ATESTADO DE RENDIMENTOS AUFERIDOS NO BRASIL POR NÃO RESIDENTES
+[arquivo anexo: Anexo II.doc]
+Anexo III
+ATESTADO DE RESIDÊNCIA FISCAL NO EXTERIOR
+[arquivo anexo: Anexo III.doc]
