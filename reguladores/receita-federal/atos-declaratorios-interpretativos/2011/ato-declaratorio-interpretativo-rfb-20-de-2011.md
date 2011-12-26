@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 20, de 23 de dezembro de 2011
+Dispõe sobre a alíquota do IOF aplicável nas operações de câmbio referentes a recursos captados no exterior a título de empréstimos externos.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no inciso XXII do art. 15-A do Decreto nº 6.306, de 14 de dezembro de 2007, declara:
+Artigo Único. A alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro ou relativas a Títulos ou Valores Mobiliários - IOF, nas operações de câmbio realizadas por instituição bancária para fins de repasse, no País, de recursos captados no exterior, contratada pelo prazo de até 720 dias, ainda que destinada a financiamento em operação de crédito interno, é de 6% (seis por cento).
