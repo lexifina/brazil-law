@@ -1,0 +1,14 @@
+DECISÃO: Vistos, etc.
+    O caso é de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que validou o aprisionamento cautelar do paciente.
+    2. Pois bem, o acionante insiste no pedido de concessão de liberdade provisória a Rauryanderson Gomes de Olivieira, preso em flagrante por supostos delitos de tráfico de entorpecentes, resistência e desacato. Isto por fundamentos que assim sintetizo: a) a manutenção da prisão em flagrante está embasada, tão somente, na vedação à liberdade provisória, contida no art. 44 da Lei 11.343/2006; b) não há motivação idônea para a prisão cautelar do paciente. Paciente que, se condenado, terá direito à substituição da pena privativa de liberdade, por penas restritivas de direitos.
+    3. Nessa contextura, a defesa requer, liminarmente, a expedição de alvará de soltura em nome do paciente e do correú Wallace Rabelo. No mérito, o pedido é de confirmação da liminar eventualmente deferida.
+    4. Ultimado esse breve retrospecto da causa, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    5. No caso, tenho por desatendidos os pressupostos do provimento cautelar requestado. Em primeiro lugar, porque, em linha de princípio, a manutenção da prisão em flagrante do paciente não se acha embasada, tão somente, na vedação legal (art. 44 da Lei 11.343/2006). Cito, por amostragem, trecho do acórdão objeto da impetração:
+    “[...] a autoridade impetrada apontou elementos concretos dos autos que evidenciam a necessidade da custódia antecipada para a garantia da ordem pública, dada a gravidade concreta dos delitos em tese perpetrados, evidenciada pela quantidade, natureza e diversidade de entorpecentes capturados quando da prisão do paciente […].”
+    6. Esse o quadro, indefiro a medida cautelar requestada.
+    7. Oficie-se, uma vez ainda, ao Juízo de Direito da 1ª Vara de Entorpecentes do Distrito Federal para que informe a este Supremo Tribunal Federal o andamento atualizado do processo-crime a que responde o paciente.
+    Publique-se.
+    Brasília, 29 de dezembro de 2011.
+Ministro AYRES BRITTO
+Vice-Presidente
+    (inciso VIII do artigo 13, c.c. o artigo 14 – RI/STF)
