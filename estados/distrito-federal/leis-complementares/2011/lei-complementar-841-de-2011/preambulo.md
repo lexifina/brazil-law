@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR Nº 841, DE 29 DE DEZEMBRO DE 2011
+(Autoria do Projeto: Poder Executivo)
+Altera o uso dos lotes que menciona, na Região Administrativa do Varjão - RA XXIII.
+O GOVERNADOR DO DISTRITO FEDERAL, FAÇO SABER QUE A CÂMARA LEGISLATIVA DO DISTRITO FEDERAL DECRETA E EU SANCIONO A SEGUINTE LEI:
