@@ -1,0 +1,9 @@
+PODER LEGISLATIVO
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+LEI Nº 3697 de 26/12/2011
+
+ESTIMA a receita e fixa a despesa do Estado para o exercício financeiro de 2012.
+
+CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
