@@ -1,0 +1,18 @@
+Solução de Consulta Disit/SRRF08 nº 295, de 11 de novembro de 2011
+Assunto: Contribuição para o PIS/Pasep
+ALÍQUOTA ZERO. VENDA NO MERCADO INTERNO. AERONAVES, EQUIPAMENTOS.
+A alíquota zero da contribuição para o PIS/Pasep, de que trata o inciso IV do art. 28 da Lei nº 10.865, de 2004, aplica-se à receita bruta decorrente da venda, no mercado interno, de aeronaves classificadas na posição 88.02 da Tipi, suas partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, tintas, anticorrosivos, lubrificantes, equipamentos, serviços e matérias-primas a serem empregados na manutenção, conservação, modernização, reparo, revisão, conversão e industrialização de equipamentos de aeronaves classificadas na posição 88.02 da NCM, conforme redação dada pela Lei 11.727, de 23 de junho de 2008.
+MONTAGEM
+Durante o período de 26 de julho de 2004 a 23 de junho de 2008, aplica-se a alíquota zero da contribuição para o PIS/Pasep, de que trata o inciso IV do art. 28 da Lei nº 10.865, de 2004, à receita bruta decorrente da venda, no mercado interno, de partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados nas operações de industrialização, do tipo montagem, de equipamentos de aeronaves classificadas na posição 88.02 da NCM, porquanto vigorava nesse período a redação dada pela Lei nº 10.925, de 2004.
+Dispositivos Legais: Lei nº 10.865, de 2004, art. 28, inciso IV, na redação dada pela Lei nº 10.925, de 2004, e alterado pela Lei nº 11.727, de 2008.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+ALÍQUOTA ZERO. VENDA NO MERCADO INTERNO. AERONAVES, EQUIPAMENTOS.
+A alíquota zero da Cofins, de que trata o inciso IV do art. 28 da Lei nº 10.865, de 2004, aplica-se à receita bruta decorrente da venda, no mercado interno, de aeronaves classificadas na posição 88.02 da Tipi, suas partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, tintas, anticorrosivos, lubrificantes, equipamentos, serviços e matérias-primas a serem empregados na manutenção, conservação, modernização, reparo, revisão, conversão e industrialização de equipamentos de aeronaves classificadas na posição 88.02 da NCM, conforme redação dada pela Lei 11.727, de 23 de junho de 2008.
+MONTAGEM
+Durante o período de 26 de julho de 2004 a 23 de junho de 2008, aplica-se a alíquota zero da Cofins, de que trata o inciso IV do art. 28 da Lei nº 10.865, de 2004, à receita bruta decorrente da venda, no mercado interno, de partes, peças, ferramentais, componentes, insumos, fluidos hidráulicos, lubrificantes, tintas, anticorrosivos, equipamentos, serviços e matérias-primas a serem empregados nas operações de industrialização, do tipo montagem, de equipamentos de aeronaves classificadas na posição 88.02 da NCM, porquanto vigorava nesse período a redação dada pela Lei nº 10.925, de 2004.
+Dispositivos Legais: Lei nº 10.865, de 2004, art. 28, inciso IV, na redação dada pela Lei nº 10.925, de 2004, e alterado pela Lei nº 11.727, de 2008.
+Assunto: Processo Administrativo Fiscal
+É ineficaz a consulta, não produzindo efeitos, quando formulada sem a indicação dos dispositivos da legislação tributária que ensejaram a sua apresentação, bem assim aquela formulada em tese, com referência a fato genérico, que não contenha descrição detalhada de seu objeto e a indicação das informações necessárias à elucidação da matéria.
+Dispositivos Legais: Instrução Normativa RFB n° 740, de 2007, art. 15, inciso I e II; e Parecer Normativo CST n.º 342, de 1970.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 295-2011.pdf]
