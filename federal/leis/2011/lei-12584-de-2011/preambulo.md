@@ -1,0 +1,4 @@
+LEI Nº 12.584, DE 30 DE DEZEMBRO DE 2011
+Denomina Rodovia Manoel Ferreira Lago Filho o trecho da rodovia BR-146 entre as cidades de Passos e Bom Jesus da Penha, ambas no Estado de Minas Gerais.
+A P R E S I D E N T A D A R E P Ú B L I C A
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
