@@ -1,0 +1,1 @@
+Art. 5º-A O beneficiário, a que se referem os incisos I e II do caput do art. 2º, poderá solicitar às instituições de que trata o art. 1º cópia do Informe de Rendimentos Financeiros no prazo estabelecido no art. 5º, salvo por decisão judicial ou sucessão universal.
