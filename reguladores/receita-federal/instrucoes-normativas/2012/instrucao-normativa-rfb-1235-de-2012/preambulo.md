@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1235, de 11 de janeiro de 2012
+Altera a Instrução Normativa SRF Nº 698, de 20 de dezembro de 2006, que estabelece normas para emissão de comprovantes de rendimentos pagos ou creditados a pessoas físicas e jurídicas decorrentes de aplicações financeiras, aprova modelo de Informe de Rendimentos Financeiros e dá outras providências.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL - SUBSTITUTA, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 587, de 21 de dezembro de 2010, resolve:
