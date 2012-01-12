@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1238, de 11 de janeiro de 2012
+Altera a Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação previdenciária e de arrecadação das contribuições sociais destinadas à Previdência Social e as destinadas a outras entidades ou fundos, administradas pela Secretaria da Receita Federal do Brasil e dá outras providências.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL - SUBSTITUTA, no uso da atribuição que lhe confere o inciso III do art. 273 da Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 2º e 3º da Lei nº 11.457, de 16 de março de 2007, no art. 1º da Lei nº 12.402, de 2 de maio de 2011, e na Lei nº 12.470, de 31 de agosto de 2011, resolve:
