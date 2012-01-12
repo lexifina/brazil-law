@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1236, de 11 de janeiro de 2012
+Altera a Instrução Normativa RFB Nº 1.022, de 5 de abril de 2010, que dispõe sobre o imposto sobre a renda incidente sobre os rendimentos e ganhos líquidos auferidos nos mercados financeiro e de capitais.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL - SUBSTITUTA, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF Nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 45 da Lei Nº 12.350, de 20 de dezembro de 2010, e nos arts. 1º a 5º da Lei Nº 12.431, de 24 de junho de 2011, resolve:
