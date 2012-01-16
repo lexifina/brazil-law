@@ -1,0 +1,1 @@
+Art. 37. Os órgãos fiscalizadores examinarão, prioritariamente, na prestação de contas de recursos públicos prevista no art. 56 da Lei Complementar nº 101, de 4 de maio de 2000, o cumprimento do disposto no art. 198 da Constituição Federal e nesta Lei Complementar.
