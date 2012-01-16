@@ -1,0 +1,1 @@
+Art. 34. A prestação de contas prevista no art. 37 conterá demonstrativo das despesas com saúde integrante do Relatório Resumido da Execução Orçamentária, a fim de subsidiar a emissão do parecer prévio de que trata o art. 56 da Lei Complementar nº 101, de 4 de maio de 2000.

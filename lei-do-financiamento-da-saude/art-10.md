@@ -1,0 +1,1 @@
+Art. 10. Para efeito do cálculo do montante de recursos previsto no § 3º do art. 5º e nos arts. 6º e 7º, devem ser considerados os recursos decorrentes da dívida ativa, da multa e dos juros de mora provenientes dos impostos e da sua respectiva dívida ativa.

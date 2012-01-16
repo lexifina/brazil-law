@@ -1,0 +1,1 @@
+Art. 29. É vedado aos Estados, ao Distrito Federal e aos Municípios excluir da base de cálculo das receitas de que trata esta Lei Complementar quaisquer parcelas de impostos ou transferências constitucionais vinculadas a fundos ou despesas, por ocasião da apuração do percentual ou montante mínimo a ser aplicado em ações e serviços públicos de saúde.

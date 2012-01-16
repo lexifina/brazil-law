@@ -1,0 +1,1 @@
+Art. 33. O gestor de saúde promoverá a consolidação das contas referentes às despesas com ações e serviços públicos de saúde executadas por órgãos e entidades da administração direta e indireta do respectivo ente da Federação.

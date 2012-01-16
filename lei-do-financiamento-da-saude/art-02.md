@@ -1,0 +1,5 @@
+Art. 2º Para fins de apuração da aplicação dos recursos mínimos estabelecidos nesta Lei Complementar, considerar-se-ão como despesas com ações e serviços públicos de saúde aquelas voltadas para a promoção, proteção e recuperação da saúde que atendam, simultaneamente, aos princípios estatuídos no art. 7º da Lei nº 8.080, de 19 de setembro de 1990, e às seguintes diretrizes:
+I - sejam destinadas às ações e serviços públicos de saúde de acesso universal, igualitário e gratuito;
+II - estejam em conformidade com objetivos e metas explicitados nos Planos de Saúde de cada ente da Federação; e
+III - sejam de responsabilidade específica do setor da saúde, não se aplicando a despesas relacionadas a outras políticas públicas que atuam sobre determinantes sociais e econômicos, ainda que incidentes sobre as condições de saúde da população.
+Parágrafo único. Além de atender aos critérios estabelecidos no caput, as despesas com ações e serviços públicos de saúde realizadas pela União, pelos Estados, pelo Distrito Federal e pelos Municípios deverão ser financiadas com recursos movimentados por meio dos respectivos fundos de saúde.
