@@ -1,0 +1,2 @@
+Art. 6º Os Estados e o Distrito Federal aplicarão, anualmente, em ações e serviços públicos de saúde, no mínimo, 12% (doze por cento) da arrecadação dos impostos a que se refere o art. 155 e dos recursos de que tratam o art. 157, a alínea "a" do inciso I e o inciso II do caput do art. 159, todos da Constituição Federal, deduzidas as parcelas que forem transferidas aos respectivos Municípios.
+Parágrafo único. (VETADO).

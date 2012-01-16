@@ -1,0 +1,1 @@
+Art. 8º O Distrito Federal aplicará, anualmente, em ações e serviços públicos de saúde, no mínimo, 12% (doze por cento) do produto da arrecadação direta dos impostos que não possam ser segregados em base estadual e em base municipal.

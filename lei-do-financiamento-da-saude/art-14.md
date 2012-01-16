@@ -1,0 +1,1 @@
+Art. 14. O Fundo de Saúde, instituído por lei e mantido em funcionamento pela administração direta da União, dos Estados, do Distrito Federal e dos Municípios, constituir-se-á em unidade orçamentária e gestora dos recursos destinados a ações e serviços públicos de saúde, ressalvados os recursos repassados diretamente às unidades vinculadas ao Ministério da Saúde.

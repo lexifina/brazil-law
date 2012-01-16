@@ -1,0 +1,1 @@
+Art. 11. Os Estados, o Distrito Federal e os Municípios deverão observar o disposto nas respectivas Constituições ou Leis Orgânicas sempre que os percentuais nelas estabelecidos forem superiores aos fixados nesta Lei Complementar para aplicação em ações e serviços públicos de saúde.

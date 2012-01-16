@@ -1,0 +1,9 @@
+Art. 24. Para efeito de cálculo dos recursos mínimos a que se refere esta Lei Complementar, serão consideradas:
+I - as despesas liquidadas e pagas no exercício; e
+II - as despesas empenhadas e não liquidadas, inscritas em Restos a Pagar até o limite das disponibilidades de caixa ao final do exercício, consolidadas no Fundo de Saúde.
+§ 1º A disponibilidade de caixa vinculada aos Restos a Pagar, considerados para fins do mínimo na forma do inciso II do caput e posteriormente cancelados ou prescritos, deverá ser, necessariamente, aplicada em ações e serviços públicos de saúde.
+§ 2º Na hipótese prevista no § 1º, a disponibilidade deverá ser efetivamente aplicada em ações e serviços públicos de saúde até o término do exercício seguinte ao do cancelamento ou da prescrição dos respectivos Restos a Pagar, mediante dotação específica para essa finalidade, sem prejuízo do percentual mínimo a ser aplicado no exercício correspondente.
+§ 3º Nos Estados, no Distrito Federal e nos Municípios, serão consideradas para fins de apuração dos percentuais mínimos fixados nesta Lei Complementar as despesas incorridas no período referentes à amortização e aos respectivos encargos financeiros decorrentes de operações de crédito contratadas a partir de 1º de janeiro de 2000, visando ao financiamento de ações e serviços públicos de saúde.
+§ 4º Não serão consideradas para fins de apuração dos mínimos constitucionais definidos nesta Lei Complementar as ações e serviços públicos de saúde referidos no art. 3º:
+I - na União, nos Estados, no Distrito Federal e nos Municípios, referentes a despesas custeadas com receitas provenientes de operações de crédito contratadas para essa finalidade ou quaisquer outros recursos não considerados na base de cálculo da receita, nos casos previstos nos arts. 6º e 7º;
+II - (VETADO).

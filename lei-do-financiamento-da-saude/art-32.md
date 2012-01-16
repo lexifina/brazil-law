@@ -1,0 +1,2 @@
+Art. 32. Os órgãos de saúde da União, dos Estados, do Distrito Federal e dos Municípios manterão registro contábil relativo às despesas efetuadas com ações e serviços públicos de saúde.
+Parágrafo único. As normas gerais para fins do registro de que trata o caput serão editadas pelo órgão central de contabilidade da União, observada a necessidade de segregação das informações, com vistas a dar cumprimento às disposições desta Lei Complementar.

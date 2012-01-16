@@ -1,0 +1,1 @@
+Art. 12. Os recursos da União serão repassados ao Fundo Nacional de Saúde e às demais unidades orçamentárias que compõem o órgão Ministério da Saúde, para ser aplicados em ações e serviços públicos de saúde.

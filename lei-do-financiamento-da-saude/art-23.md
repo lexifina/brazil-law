@@ -1,0 +1,2 @@
+Art. 23. Para a fixação inicial dos valores correspondentes aos recursos mínimos estabelecidos nesta Lei Complementar, será considerada a receita estimada na lei do orçamento anual, ajustada, quando for o caso, por lei que autorizar a abertura de créditos adicionais.
+Parágrafo único. As diferenças entre a receita e a despesa previstas e as efetivamente realizadas que resultem no não atendimento dos percentuais mínimos obrigatórios serão apuradas e corrigidas a cada quadrimestre do exercício financeiro.
