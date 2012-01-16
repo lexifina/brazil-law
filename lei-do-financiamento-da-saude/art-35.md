@@ -1,0 +1,1 @@
+Art. 35. As receitas correntes e as despesas com ações e serviços públicos de saúde serão apuradas e publicadas nos balanços do Poder Executivo, assim como em demonstrativo próprio que acompanhará o relatório de que trata o § 3º do art. 165 da Constituição Federal.
