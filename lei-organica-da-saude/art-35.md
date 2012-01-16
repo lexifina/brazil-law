@@ -6,7 +6,6 @@ IV - desempenho técnico, econômico e financeiro no período anterior;
 V - níveis de participação do setor saúde nos orçamentos estaduais e municipais;
 VI - previsão do plano qüinqüenal de investimentos da rede;
 VII - ressarcimento do atendimento a serviços prestados para outras esferas de governo.
-§ 1º Metade dos recursos destinados a Estados e Municípios será distribuída segundo o quociente de sua divisão pelo número de habitantes, independentemente de qualquer procedimento prévio.
 § 2º Nos casos de Estados e Municípios sujeitos a notório processo de migração, os critérios demográficos mencionados nesta lei serão ponderados por outros indicadores de crescimento populacional, em especial o número de eleitores registrados.
 § 3º (Vetado).
 § 4º (Vetado).
