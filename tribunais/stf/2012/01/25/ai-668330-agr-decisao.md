@@ -1,0 +1,41 @@
+Decisão:
+    Santa Cruz Seguro S.A. interpõe tempestivo agravo regimental (fls. 354 a 357), contra decisão de folhas 349 a 351, da lavra do Ministro Menezes Direito, que negou provimento ao agravo de instrumento, com a seguinte fundamentação:
+          “DECISÃO
+    Vistos.
+    Santa Cruz Seguros S. A. interpõe agravo de instrumento contra o despacho que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput e incisos I e II, e 150, incisos I e II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão assim ementado:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ADMINISTRADORES, AUTÔNOMOS E AVULSOS. LEI COMPLEMENTAR Nº 84/96. CONSTITUCIONALIDADE. EMPRESA SEGURADORA. CORRETOR DE SEGURO.
+    1. Não há de se falar, in casu, em ofensa aos princípios da não-cumulatividade e da bitributação, previstos no art. 154, inciso I, da Constituição Federal, por não ter a contribuição previdenciária questionada a natureza de imposto ou taxa.
+    2. O corretor de seguros presta um serviço à seguradora, por exercer uma relação de intermediação entre a seguradora e o segurado, em razão do que a seguradora coloca seus serviços à disposição de quem deseje contratá-lo.
+    3. A remuneração dos corretores de seguros é paga pela empresa seguradora, que, por força de contrato, assume o ônus do seu pagamento.
+    4. Inexistência de vício de inconstitucionalidade a macular a Lei Complementar nº 84/96.
+    5. Apelação improvida” (fl. 208).
+    Opostos embargos de declaração (fls. 211 a 213), foram desacolhidos (fls. 218 a 223).
+    Decido.
+    Não merece prosperar a irresignação, uma vez que o acórdão recorrido decidiu em consonância com a jurisprudência desta Corte.
+    O Plenário deste Tribunal, no julgamento do RE nº 228.321, Relator o Ministro Carlos Velloso, declarou a constitucionalidade das contribuições sociais instituídas pela Lei Complementar nº 84/96. Naquela oportunidade, ficou assentado que:
+    “... quando o § 4º, do art. 195, da C.F., manda obedecer a regra da competência residual da União – art. 154, I – não estabelece que as contribuições não devam ter fato gerador ou base de cálculo de impostos. As contribuições, criadas na forma do § 4º, do art. 195, da C.F., não devem ter, isto sim, fato gerador e base de cálculo próprios das contribuições já existentes.
+    É que deve ser observado o sistema. E o sistema é este: tratando-se de contribuição, a Constituição não proíbe a coincidência da sua base de cálculo com a base de cálculo do imposto, o que é vedado, expressamente, relativamente às taxas (CF, art. 145, § 2º).
+    Ora, no ponto, não há falar que a contribuição instituída pela Lei Compl. nº 84, de 1996, tenha fato gerador ou base de cálculo de contribuição já existente. É dizer, não há contribuição outra, a cargo de empresas ou pessoas jurídicas, inclusive cooperativas , que incida sobre remunerações ou retribuições pagas ou creditadas pelo serviço que lhes prestem, sem vínculo empregatício, os segurados empresários, autônomos ou avulsos.”
+    No mesmo sentido, anote-se:
+    “PREVIDÊNCIA SOCIAL. CONTRIBUIÇÃO INSTITUÍDA PELA LC 84/96. ALEGADA INCONSTITUCIONALIDADE. Diploma legal cuja constitucionalidade foi declarada pelo Plenário do STF no julgamento do RE 228.321. Agravo desprovido” (RE 326562-AgR, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 19/12/02).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL. LEI COMPLEMENTAR Nº 84/96. CONSTITUCIONALIDADE. I. - O Supremo Tribunal Federal, no julgamento do RE 228.321, decidiu pela constitucionalidade da contribuição social incidente sobre a remuneração ou retribuição pagas ou creditadas aos segurados empresários, trabalhadores autônomos, avulsos e demais pessoas físicas, objeto do artigo 1º, I, da Lei Complementar nº 84/96, contribuição essa a cargo das empresas e pessoas jurídicas, incluindo neste rol as cooperativas. II. - Agravo não provido” (AI-AgR  407671, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 20/5/05).
+    No que tange à alegação de que, “em consonância com a lei que rege a matéria, o serviço de corretagem não é prestado à seguradora, mas, sim, ao segurado, e que as comissões repassadas pela seguradora ao corretor são feitas por conta e ordem do próprio segurado, ficando esse repasse fora do campo de incidência da contribuição previdenciária instituída pela LC 84/96” (fl. 305), o acórdão atacado limitou-se a aplicar a legislação infraconstitucional pertinente ao caso; a alegada violação do princípio da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário.
+    Nego provimento ao agravo.
+    Intime-se.
+    Brasília, 20 de setembro de 2007”.
+    Aduz a agravante, in verbis, que:
+    “(...) a matéria controvertida não é de natureza infraconstitucional. A razão de ser de toda a controvérsia reside na correta interpretação do artigo 195 da Constituição em sua redação original. Exigi-se, para ser válida a cobrança da contribuição previdenciária, que a remuneração paga pela empresa ao então profissional autônomo corresponda a uma efetiva prestação de serviços” (fl. 356).
+    Decido.
+    Exerço o juízo de retratação.
+    Compulsando os autos, verifico que, consoante consignado pelo Tribunal de origem, a agravante não cuidou de juntar aos autos procuração ou substabelecimento conferindo poderes aos advogados que subscrevem o recurso extraordinário. Com efeito, a jurisprudência desta Corte considera inexistente o recurso interposto por advogado sem o instrumento de mandato outorgado pela parte e que não se aplica, na via extraordinária, o art. 13 do Código de Processo Civil, haja vista que é dever do recorrente, na data da interposição do recurso, zelar pela regularidade de representação. Nesse sentido, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. O recurso interposto por advogado que não tenha procuração nos autos é inexistente. Inaplicabilidade do art. 13 do Código de Processo Civil na via extraordinária. Precedente” (AI nº 818.208/RO-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 24/2/11).
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRETENSÃO DE REFORMA DO JULGADO: IMPOSSIBILIDADE. AUSÊNCIA DE PROCURAÇÃO DA SUBSCRITORA DO AGRAVO REGIMENTAL. ARTIGOS 13 E 37, 2ª PARTE, DO CPC: INAPLICABILIDADE. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. A interposição de recursos não se enquadra na categoria dos atos reputados urgentes. O art. 13 do CPC não é aplicável em sede extraordinária. Precedentes. 3. Embargos de declaração rejeitados” (AI nº 527.231/SP-AgR-ED, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/9/10).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA. AUSÊNCIA DE PROCURAÇÃO CONFERINDO PODERES AOS ADVOGADOS QUE SUBSCREVERAM A PETIÇÃO RECURSAL. APRESENTAÇÃO EXTEMPORÂNEA. INAPLICABILIDADE DO ART. 13 DO CPC. De acordo com a jurisprudência desta Corte, o recurso interposto por advogado sem procuração nos autos é inexistente. Ademais, não se aplica ao recurso extraordinário o disposto no art. 13 do Código de Processo Civil. Tratando-se de serviços advocatícios prestados por sociedade de advogados, as procurações devem ser outorgadas individualmente aos causídicos e não à sociedade de advogados. Agravo regimental a que se nega provimento” (RE nº 543.289/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 20/3/09).
+    Diante do exposto, reconsidero a decisão agravada e nego provimento ao agravo de instrumento, ficando prejudicado o agravo regimental de fls. 354/357.
+    Por fim, com relação à alegação consignada na folha 355, determino à Secretaria Judiciária que providencie a regularização no tocante ao número de origem da presente lide.
+    Publique-se.
+    Brasília, 25 de janeiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
