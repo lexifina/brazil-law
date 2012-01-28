@@ -1,0 +1,21 @@
+DECISÃO
+COMPETÊNCIA – REGIME ESPECIAL – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 3.395 – RECLAMAÇÃO – RELEVÂNCIA DEMONSTRADA – LIMINAR DEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O Município de Tupã/SP formalizou esta medida considerada a decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395-6/DF. Visa suspender reclamação trabalhista em trâmite no Tribunal Superior do Trabalho, por meio da qual se busca o reconhecimento de direito trabalhista – auxílio-alimentação – de servidor público.
+    Alega que o interessado foi admitido em 15 de dezembro de 1987, pelo regime celetista, e em 18 de julho de 1989, passou a ter o respectivo vínculo regido pelo estatuto jurídico único dos servidores públicos municipais de Tupã, instituído pela Lei municipal nº 2.979, em cumprimento ao comando contido no artigo 39 da Constituição Federal.
+    Discorre sobre o tema de fundo do processo, asseverando o descompasso com a medida acauteladora deferida na mencionada ação direta de inconstitucionalidade, da relatoria do Ministro Cezar Peluso. Menciona como precedentes as decisões formalizadas nas Reclamações nº 10.669/SP, relatora Ministra Ellen Gracie, publicada no Diário da Justiça eletrônico de 6 de dezembro de 2010, e nº 10.851/SP, relatora Ministra Cármen Lúcia, veiculada no Diário da Justiça de 18 de fevereiro de 2011, entre outros.
+    Requer a concessão de medida acauteladora para suspender, até o julgamento final desta reclamação, a tramitação do processo trabalhista. No mérito, busca ver cassado o acórdão proferido no Recurso Ordinário nº 00103-2008-065-15-00-9, de modo a garantir a autoridade do acórdão formalizado na Ação Direta de Inconstitucionalidade nº 3.395/DF.
+    O Regional informa haver reformado a sentença proferida pelo Juízo da Vara do Trabalho de Tupã, declarando a competência material da Justiça trabalhista para apreciar a controvérsia. Noticia a interposição de recurso de revista pelo Município, ao qual foi negado seguimento.
+    O Tribunal Superior do Trabalho comunica o desprovimento do agravo de instrumento em recurso de revista. Seguiu-se a interposição de embargos à Subseção I da Seção Especializada em Dissídios Individuais e, posteriormente, de agravo, que restou desprovido. Aduz não ter desrespeitado a autoridade da decisão proferida na Ação Direta de Inconstitucionalidade nº 3.395/DF, pois em momento algum se manifestou acerca do objeto da reclamação trabalhista.
+    O interessado, José de Souza Rocha, apesar de intimado, quedou silente, conforme certidão da Secretaria Judiciária.
+    Acompanham a inicial os documentos eletronicamente juntados. Esta reclamação foi formalizada em 2 de maio de 2011.
+    O processo veio concluso para apreciação do pedido de liminar.
+    2. A ementa do acórdão que se aponta inobservado é explícita:
+    INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do trabalho. Incompetência reconhecida. Causas entre o poder público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o poder público e servidor que lhe seja vinculado por relação jurídico-estatutária.
+    O Tribunal Regional do Trabalho fez referência, no julgamento do recurso ordinário, à lei orgânica municipal que instituiu o regime estatutário. A partir da premissa de a mencionada lei ter assegurado direitos e vantagens adquiridos até a respectiva vigência, assentou a competência da Justiça do Trabalho. A decisão discrepa da óptica estampada no acórdão relativo à apreciação da Medida Cautelar na Ação Direta de Inconstitucionalidade nº 3.395-6. A razão mostra-se simples: o que questionado na reclamação trabalhista resulta do regime dito estatutário, ou seja, do regime especial decorrente da lei do Município reclamante.
+    3. Defiro a liminar para suspender, até o exame final desta reclamação, o processo trabalhista envolvido na espécie.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 28 de janeiro de 2012, às 20h25.
+Ministro MARCO AURÉLIO
+Relator
