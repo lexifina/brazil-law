@@ -1,0 +1,18 @@
+Decisão:
+    Vistos,
+    A União interpõe agravo regimental contra decisão proferida pelo Ministro Menezes Direito, que negou seguimento ao recurso extraordinário, por intempestividade, ante a ausência de ratificação do recurso extraordinário interposto do acórdão da apelação, após o julgamento dos embargos de declaração de fls. 242/246.
+    Requer a União a revisão da decisão, posto que “não houve a regular intimação da UNIÃO (FAZENDA NACIONAL), ora recorrente extraordinária, do acórdão que apreciou os embargos declaratórios opostos pela recorrida perante o Tribunal Regional Federal”, sendo certo, ainda, que “não teve oportunidade processual para manifestar sua ratificação ao recurso extraordinário antes interposto”. Aduz que, “os autos em tela apresentam vício de magnitude tal – qual seja, a falta de intimação de relevante ato processual - que resta apto a ensejar a nulidade processual desde a Corte de origem, em observância ao que disciplina o sistema processual das nulidades disposto do Diploma processual Civil pátrio”. (grifos no original).
+    Por fim, requer a declaração de nulidade dos atos processuais posteriores ao julgamento dos ED na Corte de origem, ou,
+    “considerando a ausência de modificação do quadro jurídico já desenhado”,...”seja a presente manifestação tomada como ratificação suficiente a sanar o vício impugnado, de forma que o RE seja conhecido e tenha seu processamento viabilizado...”
+    Decido.
+    Exerço o juízo de retratação.
+    Ao compulsar os autos, verifico que, de fato, não houve intimação da União (Fazenda Nacional) do acórdão que julgou os embargos de declaração de fls. 242/246. Tampouco a União foi intimada dos atos processuais posteriores, inclusive do despacho que admitiu o recurso extraordinário (fl. 264).
+    Dessa forma, inviável a declaração de intempestividade por ausência de ratificação do recurso extraordinário de fls. 183/191. Todavia, por medida de economia processual e considerando a ausência de prejuízo, não se justifica o retorno dos autos ao juízo de origem. É de se acolher o pedido alternativo da União no sentido de declarar sanado o vício impugnado. Recebo a manifestação como ratificação do recurso extraordinário de fls. 183/191 e passo à sua apreciação.
+    Observo que esta Corte concluiu pela existência da repercussão geral da matéria constitucional versada nestes autos ao examinar o RE nº 591.340/SP. O assunto corresponde ao Tema nº 117 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da “constitucionalidade, ou não, dos artigos 42 e 58 da Lei nº 8.981/95, bem como dos artigos 15 e 16 da Lei nº 9.065/95, no que limitaram em 30%, para cada ano-base, o direito do contribuinte de compensar os prejuízos fiscais do Imposto de Renda sobre a Pessoa Jurídica – IRPJ e da base de cálculo negativa da Contribuição Social sobre o Lucro Líquido – CSLL”.
+    A Segunda Turma desta Corte na análise da Questão de Ordem suscitada no Recurso Extraordinário nº 483.994/RN, Relatora a Ministra Ellen Gracie , decidiu adotar para os agravos regimentais e embargos de declaração interpostos contra decisões monocráticas de mérito o mesmo procedimento relativo à devolução dos autos à origem.
+    Ante o exposto, reconsidero a decisão agravada e, nos termos do artigo 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos ao Tribunal de origem, devendo ser aplicado quanto ao apelo extremo, o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 30 de janeiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
