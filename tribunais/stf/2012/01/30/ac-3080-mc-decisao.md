@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de ação cautelar, com pedido de liminar, ajuizada pelo Sindicato das Empresas de Compra, Venda, Locação e Administração de Imóveis Residenciais e Comerciais de São Paulo – SECOVI/SP, em face do Sindicato dos Condomínios de Prédios e Edifícios Comerciais, Industriais, Residenciais e Mistos Intermunicipal do Estado de São Paulo – SINDCOND/SP, com o objetivo de atribuir efeito suspensivo ao AI nº 853.816 (Rel. Min. CÁRMEN LÚCIA).
+    Alega o requerente, em síntese, que, em razão do restabelecimento do registro sindical do SINDICOND/SP, em 3.1.2012 (cf. DOU de 3.1.2012, Sção 1, p. 133), para “representar a categoria dos condomínios de prédios e edifícios comerciais, industriais residenciais e mistos com abrangência abrangência Intermunicipal e base territorial nos municípios de Adamantina, Aguaras de São Pedro, Americana, Andradina, Araçatuba, Araraquara, Araras, Assis, Avaré, Bauru, Botucatu, Catanduva, Descalvado, Fernandópolis, Jales, Jaú, Leme, Limeira, Lins, Marília, Mogi Guaçu, Olímpia, Ourinhos, Piracicaba, Piraju, Pirassununga, Presidente Prudente, Presidente Venceslau, Rio Claro, Santa Fé do Sul, São Carlos, São José do Rio Preto, São Pedro, Taquaritinga e Votuporanga – SP”, nos termos do parecer da Advocacia-Geral da União (Parecer CONJUR nº 604/2011-MTE/CGU/AGU), se conferiu, à entidade sindical ora requerida, legitimidade para efetuar a cobrança do “imposto sindical”, relativo ao ano de 2012, nos municípios contidos em sua base territorial.
+    Aduz, ainda, que:
+    “Caso o SINDICOND/SP consiga impor esse recolhimento da contribuição sindical do ano de 2012, somente por meio de outra ação judicial, de cobrança a ser ajuizada pelo SECVI contra o SINDICOND/SP, é que será possível reparar o dano que ocorrerá.
+    A hipótese portanto é de ocorrência de dano que somente será possível de ser reparado por meio de ‘outra ação’, porque, quanto ao período de 2012, o recurso extraordinário da SECOVI somente prestará – na hipótese de êxito – como título jurídico para instruir futura ação [...]”.
+    Requer a atribuição de efeito suspensivo ao AI nº 853.816, para sustar os efeitos do acórdão proferido pelo TRF da 1ª Região, nos autos da AMS nº 2002.34.00.010655-7/DF, com o objetivo de obstar a cobrança do “imposto sindical” pelo SINDICOND/SP.
+    Alega, por fim, provável risco de perecimento de direito, visto que o vencimento da cobrança ocorrerá dia 31.1.2012.
+    Entende presentes os requisitos necessários para o deferimento da medida liminar.
+    Os autos vieram-me conclusos em 30.1.2012.
+    2. Não é caso de liminar.
+    É que a atribuição de efeito suspensivo ao AI nº 853.816 (Rel. Min. CÁRMEN LÚCIA), hoje, dia 30.1.2012, provocaria grave insegurança jurídica às categorias envolvidas, no que tange, sobretudo, à identificação do sujeito ativo da contribuição sindical compulsória, na medida em que, conforme devidamente comprovado pelo requerente nos autos desta ação cautelar, houve, desde o dia 3.1.2012, ampla divulgação, no sítio eletrônico do SINDCOND/SP, com amparo em decisão judicial (TRF1ª Reg. - AMS nº 2002.34.00.010655-7/DF) e administrativa (Parecer CONJUR nº 604/2011-MTE/CGU/AGU), do restabelecimento de seu registro sindical (i), bem como de que o recolhimento da contribuição compulsória, com vencimento em 31.1.2012, deveria realizar-se em favor dessa entidade (ii).
+    Ademais, não há risco de perecimento do direito invocado, diante da possibilidade de reversão dos valores recolhidos ao requerente, na hipótese de eventual provimento do recurso extraordinário.
+    3. Do exposto, indefiro o pedido de liminar, sem prejuízo de ulterior apreciação do pedido pela Relatora do AI nº 853.816, Min. CÁRMEN LÚCIA.
+    Distribua-se por dependência
+    Publique-se. Int..
+    Brasília, 30 de janeiro de 2012.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
