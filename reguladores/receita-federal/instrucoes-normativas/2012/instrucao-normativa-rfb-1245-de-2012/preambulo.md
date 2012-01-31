@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1245, de 30 de janeiro de 2012
+Dispõe sobre os procedimentos de controle aduaneiro relativos à aplicação do Regime de Tributação Unificada (RTU) na importação, por via terrestre, de mercadorias procedentes do Paraguai.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, , no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto na Lei nº 11.898, de 8 de janeiro de 2009, e no Decreto nº 6.956, de 9 de setembro de 2009, resolve:
