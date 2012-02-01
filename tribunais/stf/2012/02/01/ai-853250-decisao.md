@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa tem o seguinte teor (fls. 238):
+    “ADMINISTRATIVO E CONSTITUCIONAL. SINDICATO – SUBSTITUTO PROCESSUAL – AUSÊNCIA DE REGISTRO NO MINISTÉRIO DO TRABALHO – APELAÇÃO E REMESSA OFICIAL, TIDA POR INTERPOSTA, PREJUDICADAS.
+    1. O Sindicato ajuíza a presente ação como substituto processual, com amparo no art. 5º, LXX, “b”, da CF/88 e no art. 240, “a”, da Lei 8.112/90.
+    2. Ainda que devidamente autorizado, conforme art. 4º, “IV” do seu estatuto e ata de assembléia geral, não está o Sindicato devidamente registrado no Ministério do Trabalho. Precedentes: AC 1998.01.00.093408-8/RO, Rel. Juiz Amílcar Machado e REsp 384.212/MG, Rel. Min. Hamilton Carvalhido, DJ de 04/03/2002.
+    3. Processo julgado extinto (art. 267, IV do CPC). Apelação e remessa oficial, tida por interposta, prejudicadas.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV e LV, 8º, I, II e III, 37, VI, e 93, IX, da Constituição federal. Sustenta-se a ocorrência de negativa de prestação jurisdicional e a legitimidade do sindicato-recorrente, uma vez que não seria essencial o registro no Ministério do Trabalho.
+    É o relatório. Decido.
+    Sem razão.
+    A exigência de registro no Ministério do Trabalho não ofende a liberdade sindical (art. 8º, I) por não configurar autorização estatal, dando eficácia ao princípio da unicidade sindical (art. 8º, II) ao manter um cadastro único de sindicatos. Confira-se a ementa da ADI 1.121 (medida liminar, rel. min. Celso de Mello, DJ de 06.10.1995, RTJ 159/413):
+    “(...) REGISTRO SINDICAL E LIBERDADE SINDICAL.
+    - A jurisprudência do Supremo Tribunal Federal, ao interpretar a norma inscrita no art. 8º, I, da Carta Política - e tendo presentes as várias posições assumidas pelo magistério doutrinário (uma, que sustenta a suficiência do registro da entidade sindical no Registro Civil das Pessoas Jurídicas; outra, que se satisfaz com o registro personificador no Ministério do Trabalho e a última, que exige o duplo registro: no Registro Civil das Pessoas Jurídicas, para efeito de aquisição da personalidade meramente civil, e no Ministério do Trabalho, para obtenção da personalidade sindical) -, firmou orientação no sentido de que não ofende o texto da Constituição a exigência de registro sindical no Ministério do Trabalho, órgão este que, sem prejuízo de regime diverso passível de instituição pelo legislador comum, ainda continua a ser o órgão estatal incumbido de atribuição normativa para proceder a efetivação do ato registral. Precedente: RTJ 147/868, Rel. Min. SEPÚLVEDA PERTENCE.
+    O registro sindical qualifica-se como ato administrativo essencialmente vinculado, devendo ser praticado pelo Ministro do Trabalho, mediante resolução fundamentada, sempre que, respeitado o postulado da unicidade sindical e observada a exigência de regularidade, autenticidade e representação, a entidade sindical interessada preencher, integralmente, os requisitos fixados pelo ordenamento positivo e por este considerados como necessários a formação dos organismos sindicais. (...)”.
+    Nesse mesmo sentido, a Corte editou a Súmula 677: “Até que lei venha a dispor a respeito, incumbe ao Ministério do Trabalho proceder ao registro das entidades sindicais e zelar pela observância do princípio da unicidade”.
+    Colaciono, também, os seguintes julgados: RE 134.300 (rel. min. Sepúlveda Pertence, DJ de 14.10.1994), MI 144 (rel. min. Sepúlveda Pertence, DJ de 28.05.1993) e RE 572.570 (rel. min. Cezar Peluso, DJe de 03.11.2009).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
