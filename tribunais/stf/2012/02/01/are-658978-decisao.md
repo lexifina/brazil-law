@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DEMISSÃO DE SERVIDOR PÚBLICO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+    “ADMINISTRATIVO DE DEMISSÃO – MOTIVAÇÃO DIFERENTE DO RELATÓRIO DA COMISSÃO DE INQUÉRITO – REINTEGRAÇÃO - IMPOSSIBILIDADE. PRECEDENTES.
+    1. Não se sustenta a alegação de cerceamento de defesa, à vista do regular desenvolvimento do processo administrativo.
+    2. A atuação da autoridade processante não está restrita ao relatório final da Comissão de Inquérito, podendo decidir diferentemente, fundamentando. Precedente do Pleno do STF: (STF MS 20355)
+    3. O servidor infringiu o disposto no artigo 195, IV da Lei 1.711/52 e de acordo como artigo 207 da mesma Lei sujeita-se à pena de demissão. Processo Administrativo revisto em instância superior que ratificou as conclusões da autoridade processante.
+    4. Apelação não provida” (fl. 134).
+    No voto condutor do acórdão recorrido tem-se que:
+    “o procedimento administrativo que culminou com a demissão do apelante, foi conduzido dentro da legalidade, pautando-se pelos ditames da ampla defesa e do contraditório, o que se pode deduzir pela ausência de manifestação recursal neste sentido.
+    A Comissão de Inquérito foi regularmente constituída após as conclusões da sindicância conforme Portarias GD/830/R/62 de 22/04/80, 0830/GD/77 de 09/06/80 e GD 0830/121 de 06/10/80 do Delegado da Receita Federal em Campinas, com a finalidade de apurar as denúncias sobre irregularidades apontadas na carta anônima dirigida ao Sr. Ministro de Estado e da Fazenda, encaminhada pelo Sr. Superintendente Regional da Receita Federal , 8ª RF.
+    Consta dos autos que a Comissão de Inquérito apurou irregularidades no trabalho de fiscalização empreendido pelo apelante nas empresas que menciona (fls. 34), caracterizando lesão aos cofres públicos, fatos esses que não foram convincentemente rebatidos no recurso” (fls. 130-131).
+    3. O Recorrente afirma que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV, LV e LVII da Constituição da República.
+    Argumenta que “o Delegado da Receita, após a defesa e as conclusões da 2ª Comissão, inseriu nos autos o seu Relatório/Acusatório (...), no qual propôs a demissão do servidor (...) por ‘lesão aos cofres públicos’ – sem dar vista ao acusado – causando a demissão do servidor, por essa suposta infração, invocada como motivo do ato demissório – embora o Delegado da Receita já tivesse confessado a inexistência de prova da materialidade e autoria dessa absurda acusação – e, ainda, negado a sua ocorrência” (fl. 187).
+    Sustenta que, “como as duas Comissões reconheceram a inocência do servidor em face da acusação de ‘proveito pessoal’ – e não estavam contrárias à prova dos autos – deveriam ter sido fielmente acatadas pela autoridade instauradora (Delegado da Receita), para determinar o arquivamento do processo, na forma do art. 167, § 4º, [da Lei n. 8.112/1990]” (fl. 190).
+    4. O recurso extraordinário foi inadmitido pelo Tribunal de origem, sob o fundamento de que incidiriam na espécie as Súmulas n. 279, 282 e 356 do Supremo Tribunal Federal (fls. 217-218).
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise de legislação infraconstitucional (Lei n. 1.711/1952 e Lei n. 8.112/1990, suscitada pelo Agravante) e o reexame dos elementos fático-probatórios constantes dos autos, o que inviabiliza o recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. SUPRESSÃO DE VANTAGEM. LEI N. 1.711/52. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 789.031-AgR, de minha relatoria, Primeira Turma, DJe 23.9.2010 – grifos nossos).
+    “Recurso extraordinário: descabimento: acórdão recorrido que decidiu a questão à luz da legislação infraconstitucional (Leis 1.711/52, 6.732/79 e 8.112/90): alegada ofensa ao texto constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI 329.755-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 4.2.2005 – grifos nossos).
+    “CONSTITUCIONAL. ANÁLISE DE NORMA INFRACONSTITUCIONAL. LEI 8.112/90. OFENSA INDIRETA À CONSTITUIÇÃO. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. ALEGADA OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado. IV - Agravo regimental improvido” (AI 685.872-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 12.3.2009 – grifos nossos).
+    8. Nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
