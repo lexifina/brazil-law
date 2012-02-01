@@ -1,0 +1,21 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CÓDIGO DE PROCESSO CIVIL. MULTA DO ART. 475-J. CONTROVÉRSIA SOBRE NECESSIDADE DE INTIMAÇÃO DO ADVOGADO DA PARTE: QUESTÃO INFRACONSTITUCIONAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “Caso o devedor condenado ao pagamento de quantia certa ou já fixada em liquidação não cumpra a obrigação nos 15 (quinze) dias que se seguirem ao trânsito em julgado, incide a multa de 10 % prevista no caput do art. 475-J do CPC, sendo desnecessária nova intimação para efetuar o pagamento” (fl. 36 – grifos nossos).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado os princípios do devido processo legal e segurança jurídica ao concluir pela desnecessidade de intimação do advogado da parte para a aplicação da multa do art. 475-J do Código de Processo Civil.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 279 do Supremo Tribunal (fl. 69).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. É infraconstitucional a questão relativa à interpretação e aplicação do art. 475-J do Código de Processo Civil, não podendo ser objeto de recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE PROCESSO CIVIL (CPC) E NA CONSOLIDAÇÃO DAS LEIS DO TRABALHO (CLT): OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. 2. A controvérsia decidida com base no Código de Processo Civil e na Consolidação das Leis do Trabalho não viabiliza o processamento do recurso extraordinário: Ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 702.113-AgR, de minha relatoria, Primeira Turma, Dje 13.3.2009 – grifos nossos).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NORMAS PROCESSUAIS. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. AGRAVO IMPROVIDO. I - Ausência de prequestionamento das questões constitucionais suscitadas. Incidência das Súmulas 282 e 356 do STF. II - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. III - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. IV - Agravo regimental improvido” (AI 631.775-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009 – grifos nossos).
+    7. Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
