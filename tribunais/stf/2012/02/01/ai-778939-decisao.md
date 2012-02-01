@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição federal) interposto de acórdão, prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, cuja ementa possui o seguinte teor:
+    “TRIBUTÁRIO - TAXA FLORESTAL - CONSTITUCIONALIDADE - PRECEDENTES DO STF - LEI ESTADUAL Nº 7.163/77 (ART. 207, § 2º) - DEDUÇÃO DOS VALORES JÁ QUITADOS. 1) Conforme entendimento pacificado no Pretório Excelso, são legítimas as exigências referentes à Taxa Florestal. 2) Conforme preceitua o artigo 207, § 2º, da Lei nº 7.163/77, devem ser deduzidos, do montante devido pelo contribuinte, a título de Taxa Florestal, os valores já recolhidos, por ocasião da concessão da licença para desmate. Recurso Apelatório parcialmente provido.” (fls. 12)
+    Alega-se violação do disposto nos arts. 5º, LV, e 145, II, da Constituição federal.
+    O recurso não merece seguimento.
+    Inicialmente, verifico que inexiste a alegada ofensa ao art. 5°, LV, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    Quanto à alegada inconstitucionalidade do art. 2º da Lei estadual 9.120/1985, observo que o Tribunal de origem deixou de apreciar a questão sob o fundamento de que a matéria não teria sido objeto da peça inaugural, não integrando, portanto, a controvérsia. Conclusão diversa demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Por fim, ainda que superado tal óbice, saliento que faltam ao instrumento cópias da lei estadual que se alega inconstitucional e dos documentos que alegadamente comprovariam a veiculação oportuna da argumentação no sentido da inconstitucionalidade da referida lei. Trata-se de peças essenciais à compreensão da controvérsia, cuja ausência acarreta o não conhecimento do agravo (Súmula 288/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
