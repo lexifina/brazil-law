@@ -1,0 +1,27 @@
+Trata-se de reclamação proposta pelo Estado do Amazonas contra decisão do juízo da 12ª Vara do Trabalho de Manaus, proferida nos autos da Ação Civil Pública 0001504-28-2010.5.0012, que teria desrespeitado o acórdão proferido na ADI 3.395/DF.
+    O reclamante narra que referida ação civil pública foi proposta pelo Ministério Público do Trabalho a fim de
+    “apurar o descumprimento de normas relativas ao meio ambiente do trabalho, especialmente no que se refere às condições de trabalho dos funcionários do Hospital 28 de Agosto, localizado em Manaus”.
+    A ação foi julgada parcialmente procedente, nos seguintes termos:
+    “(...)
+    Por estes fundamentos, e por tudo o mais que dos autos conste, rejeito as preliminares suscitadas pelo Reclamado, e no mérito, julgo PARCIALMENTE PROCEDENTE a presente Ação Civil Pública, para efeito de condenar o Requerido ESTADO DO AMAZONAS – SECRETARIA DE ESTADO DA SAÚDE, para que, no prazo de 180 dias e sob pena de decidir em multa diária, fixada no valor de R$ 1.000,00 (um mil reais), a reverter em favor do FAT – Fundo de Amparo ao Trabalhador, até o efetivo cumprimento das determinações abaixo discriminadas, a adotar as seguintes medidas, nas dependências do Hospital e Pronto Socorro 28 de Agosto:
+    I – Elaborar norma com os procedimentos de segurança a serem adotados pelos trabalhadores no manuseio, armazenamento, descarte de resíduos dos serviços de saúde, especialmente os materiais perfurocortantes, mediante o fornecimento de equipamentos de proteção individual a material próprio ao acondicionamento destes resíduos, bem como manter políticas de capacitação e divulgação destes procedimentos;
+    II – Elaborar um Programa de Prevenção de Riscos Ambientais – PPRA e Programa de Controle Médico de Saúde Ocupacional – PCMSO, os quais deverão conter estudos ergonômicos em todos os setores, incluindo os fatores biomecânicos, a organização do trabalho e, ainda, disposições acerca dos procedimentos de segurança a serem adotados pelos trabalhadores na realização de exames de raio X, bem como a instalar uma Comissão Interna de Prevenção de Acidentes – CIPA nas dependências do Hospital 28 de Agosto;
+    III – Implementar o dimensionamento do SESMT, de acordo com o número de funcionários existentes no hospital e seu grau de risco, nos termos da Norma Regulamentadora nº 04”.
+    O Estado do Amazonas argumenta, em suma, que esse decisum afronta diretamente o decido na ADI 3.35/DF, pois a competência para processar o feito é da Justiça comum, uma vez que trata de de temas relativos à saúde, higiene e segurança do trabalho de servidores vinculados ao Poder Público por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    Requer, dessa forma, o deferimento da liminar, sustentando o perigo da demora na fixação da multa diária até a execução das obrigações impostas na sentença de mérito. Além disso, alega que o prazo de 180 dias para seu cumprimento é por demais exíguo.
+    É o relatório.
+    Decido o pedido liminar.
+    Em uma análise perfunctória, própria da medida em espécie, parece-me que a decisão reclamada não afronta, em tese, o conteúdo do acórdão proferido por ocasião do julgamento da ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, que porta a seguinte ementa:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Em diversas oportunidades, esta Corte já se pronunciou, com fundamento no citado julgamento, que as causas intentadas por servidor contra a Administração Pública devem ser processadas na Justiça comum, a qual compete decidir sobre a existência, a validade e a eficácia das relações entre servidores e o poder público, fundadas em vínculo jurídico-administrativa (Rcl 9.527-AgR/PI de minha relatória).
+    No caso em exame, contudo, a referida Ação Civil Pública
+    “tem por finalidade exigir do Poder Público amazonense o cumprimento de normas relativas à higiene, saúde e segurança dos trabalhadores e, portanto, não se volta à discussão em torno de qualquer direito que decorra do regime jurídico-administrativo, mas sim, de típico direito social trabalhista, de alcance coletivo geral, pouco importando a eventual diversidade dos regimes jurídicos dos trabalhadores abrangidos na situação discutida, haja vista que, todos eles, indistintamente, estão submetidos às mesmas condições de trabalho”.
+    Como se observa, parece-me que não se discute a validade, a existência ou a eficácia das relações entre servidores e o poder público, porém normas relativas à saúde, higiene e segurança do trabalho, o que não afastaria a incidência da Súmula 736 do STF, in verbis:
+    “COMPETE À JUSTIÇA DO TRABALHO JULGAR AS AÇÕES QUE TENHAM COMO CAUSA DE PEDIR O DESCUMPRIMENTO DE NORMAS TRABALHISTAS RELATIVAS À SEGURANÇA, HIGIENE E SAÚDE DOS TRABALHADORES”.
+    Por essas razões, indefiro o pedido liminar.
+    Requisitem-se informações.
+    Após, ouça-se a Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro Ricardo Lewandowski
+Relator
