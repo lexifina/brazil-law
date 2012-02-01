@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Habeas corpus , sem pedido de liminar, impetrado pela Defensoria Pública da União em favor de Valter Hugo Nunes de Figueiredo, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 134.487/RS, Relator o o Ministro Felix Fischer, impetrado àquela Corte.
+     Sustenta a impetrante, em síntese, que “[a]o paciente foi imposta medida de segurança pela absolvição imprópria pelo cometimento do delito descrito no art. 121 caput do CP. Internado desde 17.06.1983, o paciente cumpre a medida há 27 anos e 4 meses. O juízo da execução, em 04.08.2008 proferiu sentença reconhecendo a extinção da medida, pela prescrição, e determinando a alta progressiva. Inconformado, o Ministério Público agravou, sendo em segunda instância reformada a decisão de reconhecimento da prescrição da medida. A Defesa impetrou HC perante o STJ, tendo o Superior Tribunal negado provimento ao mesmo, ao argumento de que o prazo máximo de duração da medida se segurança é de 30 anos, não se aplicando a regra do art. 109 do CP.” (fl. 2 da inicial).
+    Aventa que, “não poderia ser, o parágrafo 1º do art. 97 do CP, ao estabelecer que o tratamento ambulatorial e a internação serão por prazo indeterminado, contrariou a proibição às penas perpétuas, sendo inerente à própria individualização da pena o direito do apenado de saber a duração da sanção imposta. Como bem colocado na sentença monocrática, a controvérsia porventura existente seria entre se considerar prescrita a medida de segurança pela pena mínima do delito ou por sua pena máxima. No caso em exame, o paciente praticou o delito descrito no caput do art. 121, de modo que a prescrição, ainda que se adotasse o entendimento da pena máxima cominada, se daria em 20 anos. Como já relatado, a internação do paciente já completou 27 anos!” (fl. 3 da inicial).
+     Requer a concessão da ordem para que se “reconheça e declare a prescrição da medida de segurança imposta a Valter Hugo Nunes de Figueiredo” (fl. 4 da inicial).
+    Não havendo pedido de liminar, e estando a impetração devidamente instruída com as peças necessárias ao entendimento da questão, dispensei as informações da autoridade coatora.
+    O Ministério Público Federal, em parecer do ilustre Subprocurador-Geral da República Dr. Mario José Gisi, manifestou-se pela denegação da ordem, com a concessão ex officio do writ, para restabelecer a decisão do Juízo de primeiro grau quanto à continuidade do regime de desinternação progressiva fora do âmbito do Instituto Psiquiátrico Forense.
+    Examinados os autos, decido.
+    Sucede que, conforme informação obtida perante a Vara de Execuções de Penas e Medidas Alternativas (VEPMA) da Comarca de Porto Alegre/RS, foi declarada extinta a pena imposta ao paciente (Execução Penal nº 2485357), com ocorrência de trânsito em julgado e subsequente arquivamento, estando atualmente o paciente em liberdade.
+    Ante o quadro, fica evidenciada a perda de objeto, razão pela qual, nos termos dos artigos 21, inciso IX, do RISTF e 38 da Lei nº 8.038/90, julgo prejudicado o presente habeas corpus.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
