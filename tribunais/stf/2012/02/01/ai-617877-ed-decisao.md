@@ -1,0 +1,33 @@
+Decisão
+    Vistos.
+    Marisa de Fátima Kempe da Silva opõe embargos de declaração (fls. 152/153 - fax e 155/156- original) contra decisão de folhas 147 a 149, da lavra do Ministro Sepúlveda Pertence, que conheceu do agravo de instrumento para dar provimento ao recurso extraordinário interposto pela ora embargante, com a seguinte fundamentação:
+    “Agravo de instrumento de decisão que inadmitiu RE, contra acórdão do Tribunal de Justiça do Estado do São Paulo assim ementado (f. 94):
+    'SERVIDOR PÚBLICO MUNICIPAL. Pretensão à percepção de atualização dos vencimentos nos moldes da Lei Complementar do Município de Limeira nº 112/93, que prevê reajustes trimestrais de acordo com a variação do INPC. Sentença que deixou de aplicar o diploma legal por inconstitucionalidade reconhecida incidenter tantum. Incompatibilidade da norma municipal com o disposto nos artigos 37, XIII, 169, parágrafo único, I e II, em sua redação original. Declaração de inconstitucionalidade que opera efeitos ex tunc. Pedido julgado improcedente pela sentença. Recurso da autora improvido.
+    SERVIDOR PÚBLICO MUNICIPAL. Pretensão à percepção de acordo com a variação da URV. Medida Provisória nº 434/94, convertida na Lei nº 8.880/94 – Autonomia dos municípios. Inexistência de determinação legal que os obrigue a converter em URV os salários de seus servidores. Pedido julgado procedente pela sentença. Recurso oficial e voluntário providos'.
+    Alega o RE violação do artigo 22, VI, da Constituição Federal.
+    Aduz, em suma, que a conversão dos vencimentos em URV, determinada por lei federal – Lei 8.880/94 –, é de observância compulsória pelos Municípios, não podendo o agravado se esquivar de seu cumprimento.
+    Decido.
+    No julgamento do RE 291.188, 1a T, Pertence , RTJ 183/1.148, firmou que a lei federal que disciplina a alteração do padrão monetário é de observância compulsória pelos Estados, pelo Distrito Federal e os Municípios, inclusive com relação aos vencimentos dos respectivos servidores, nos termos da ementa que segue:
+    'Direito Monetário: competência legislativa privativa da União: critérios de conversão em URV dos valores fixados em Cruzeiro Real: aplicação compulsória a Estados e Municípios, inclusive aos vencimentos dos respectivos servidores, que impede a incidência de diferente legislação local a respeito.
+    1. Em todas as Federações, o estabelecimento do sistema monetário foi sempre típica e exclusiva função legislativa do ordenamento central; e estabelecer o sistema monetário - escusado o óbvio - consiste primacialmente na criação e eventual alteração do padrão monetário.
+    2. A alteração do padrão monetário envolve necessariamente a fixação do critério de conversão para a moeda nova do valor das obrigações legais ou negociais orçadas na moeda velha; insere-se, pois, esse critério de conversão no âmbito material da regulação do ‘sistema monetário’, ou do Direito Monetário, o qual, de competência legislativa privativa da União (CF, art. 22, VI), se subtrai do âmbito da autonomia dos Estados e Municípios.
+    3. A regra que confia privativamente à União legislar sobre ‘sistema monetário’ (art. 22, VI) é norma especial e subtrai, portanto, o Direito Monetário , para esse efeito, da esfera material do Direito Econômico , que o art. 24, I, da Constituição da República inclui no campo da competência legislativa concorrente da União, do Estados e do Distrito Federal.
+    4. Dado o papel reservado à URV na transição entre dois padrões monetários, o Cruzeiro Real e o Real (L. 8880/94), os critérios legais para a conversão dos valores expressos em cruzeiros reais para a URV constituiu uma fase intermediária de convivência com a moeda antiga na implantação do novo sistema monetário.
+    5. Compreendem-se, portanto, ditos critérios da conversão em URV no âmbito material de regulação do sistema monetário , objeto de competência legislativa privativa da União.
+    6. A conversão em URV dos valores fixados para a remuneração dos servidores públicos locais - segundo a lei federal institutiva do novo sistema monetário -, não representou aumento de vencimentos, não sendo oponíveis, portanto, à sua observância compulsória por Estados e Municípios, as regras dos arts. 167 e 169 da Constituição da República.
+    7. Correta a decisão do Tribunal local que, em conseqüência, deu aplicação aos critérios da conversão de vencimentos e proventos em URV , ditados por lei federal (L. 8880/94, art. 22) e afastou a incidência da lei estadual que os contrariou (L. est. 6612/94-RN): RE não conhecido'.
+    No mesmo sentido, v.g. SS 665-AgR, Gallotti , RTJ 153/750; RREE 276.813-AgR, 10.09.2002, 2a T, Jobim ; 306.297-AgR, 30.04.2002, 2a T, Velloso ; 329.724-AgR, 24.09.2002, 2a T, Celso ; 298.175, 19.11.2002, 1a T, Moreira ; 342.342-AgR, 29.10.2002, 1a T, Ilmar .
+    Na linha dos precedentes, provejo o agravo, que converto em recurso extraordinário (art. 544, §§ 3º e 4º, do C.Pr.Civil) e, desde logo, dou provimento a este (art. 557, § 1º-A, do C.Pr.Civil) para determinar a aplicação da limitação temporal, nos termos dos precedentes citados, distribuídos em proporção os ônus da sucumbência”.
+    Alega a embargante que a decisão embargada padece de obscuridade, uma vez que ”em todos os precedentes citados não há qualquer menção à limitação temporal da forma como aludido na r. decisão” (fl. 96).
+    Aduz, in verbis, que:
+    “Os precedentes citados por V. Exa. restringem-se a declarar a obrigatoriedade da aplicação da norma contida na Lei Federal nº 8.880/94, que possui caráter monetário, portanto, de aplicação compulsória a todos os entes da Federação.
+    Não há qualquer menção ou citação de limitação, ainda que temporal, que pudesse esclarecer o real alcance da r. decisão ora prolatada, havendo, assim, obscuridade sobre tal ponto” (fls. 155/156).
+    Decido.
+    A irresignação não merece prosperar.
+    A decisão embargada foi publicada no dia 13 de novembro de 2006, segunda-feira (fl. 150). Iniciado o prazo recursal de 5 dias no primeiro dia útil subseqüente, 14 de novembro de 2006, terça-feira, terminou no dia 18 de novembro de 2006, prorrogando-se até o dia 20 do mesmo mês, segunda-feira. Todavia, a petição dos embargos de declaração, recebida via fax (fls. 152/153), foi protocolada nesta Corte sob o nº 177.135 somente em 21 de novembro de 2006, terça-feira (fl. 152), quando já expirado o prazo para apresentação de recurso.
+    Destarte, são intempestivos os embargos de declaração, razão pela qual deles não conheço.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
