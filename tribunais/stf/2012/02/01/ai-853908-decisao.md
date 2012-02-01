@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. SERVIDOR. ESCRIVÃES ELEITORAIS E CHEFES DE CARTÓRIO. GRATIFICAÇÃO MENSAL ELEITORAL. BASE DE CÁLCULO. LEI 9421/96. RESOLUÇÃO 19784/97 E PORTARIA 158/2002 DO TSE. LEGALIDADE. BENEFICIÁRIO DA JUSTIÇA GRATUITA. HONORÁRIOS.
+    - A questão posta a deslinde cinge-se à averiguação da legalidade da Resolução nº 19784/97 e da Portaria nº 158/2002, ambas expedidas pelo Tribunal Superior Eleitoral, no que tange aos critérios de cálculo da gratificação mensal paga aos Escrivães Eleitorais e aos Chefes de Cartório das Zonas Eleitorais do interior dos Estados.
+    - "1. A Resolução 19.784/97 e a Portaria 158/02, ambas do TSE, que estabeleceram, para os servidores requisitados, exercentes das funções de Chefes de Cartório e Escrivães Eleitorais, o valor do pró-labore, não limitaram nem ampliaram a extensão dos diplomas legislativos, mas apenas estabeleceram uma interpretação sistemática das normas de regência, quais sejam, as Leis 9.461/96 e 10.745/02. 2. Inexiste ilegalidade na fixação da gratificação mensal em montante correspondente a apenas o valor-base da FC-01 (Chefe de Cartório) e FC-03 (Escrivão Eleitoral), sem o acréscimo da APJ e da GAJ, quando, pelo novo sistema remuneratório, os próprios Servidores do Poder Judiciário não podem perceber o 'valor cheio' da função, quando optaram pela percepção cumulativa com a remuneração do cargo efetivo." (TRF - 5ª Região, AC 378449/01-AL, Pleno, Relator: Desembargador Federal Rogério Fialho Moreira - Convocado, DJU de 01.08.2007, pág.: 352).
+    - Inaplicabilidade do disposto no art. 11, § 2º e no art. 12 da Lei nº 1060/50 aos beneficiários da justiça gratuita, como é o caso dos autores.
+    - Ausência de condenação dos promoventes no pagamento de honorários advocatícios.
+    Remessa obrigatória provida.
+    Apelação prejudicada” (fl. 155).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, 37, X, XV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 9.421/1996 e 10.745/2002; Resolução 19.784/1997 e Portaria 158/2002, ambas do TSE). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 597.908/PE, Rel. Min. Cármen Lúcia; RE 635.039, de minha relatoria; RE 605.947-AgR/RS, Rel. Min. Luiz Fux; ARE 650.416-AgR/CE e AI 845.624-AgR/PE, Rel. Min. Gilmar Mendes.
+    Além disso, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo juízo a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
