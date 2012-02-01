@@ -1,0 +1,22 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MOACIR PEREIRA DA SILVA, contra decisão proferida pelo Superior Tribunal de Justiça no REsp nº 1.286.964/SP, que considerou dispensável a apreensão da arma para a caracterização da causa de aumento de pena prevista no art. 157, § 2º, inc. I, do Código Penal, desde que presentes outros elementos probatórios que atestem o seu efetivo emprego para reduzir a capacidade de resistência da vítima quando do cometimento do delito.
+    Extrai-se da impetração que o paciente foi condenado à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, pela prática do crime previsto no art. 157, § 2º, inc. I, do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso para afastar a incidência da causa de aumento relativa ao emprego de arma e, por conseguinte, fixou a pena em 4 anos e 8 meses de reclusão.
+    Na sequência, o Ministério Público do Estado de São Paulo interpôs Recurso Especial ao Superior Tribunal de Justiça, que deu provimento ao recurso para restabelecer a sentença condenatória.
+    Sobreveio, então, o presente habeas corpus, no qual a impetrante requer a concessão da ordem para afastar a causa de aumento de pena decorrente do uso de arma, prevista no art. 157, § 2º, inc. I, do Código Penal, alegando, para tanto, que não houve apreensão da arma supostamente utilizada na prática do delito.
+    Sustenta-se, ainda, a nulidade da decisão impugna, uma vez que o relator teria excedido os limites cognitivos inerentes ao recurso especial ao reexaminar o acervo probatório constante dos autos, o que seria inadmissível conforme dispõe a Súmula nº 7 do STJ.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    A decisão impugnada está em harmonia com o entendimento firmado pelo Plenário desta Corte no julgamento do HC 96.099 (rel. min. Ricardo Lewandowski, DJe nº 104, de 04.06.2009), segundo o qual “a qualificadora do art. 157, § 2º, I, do Código Penal pode ser evidenciada por qualquer meio de prova, em especial pela palavra da vítima – reduzida à impossibilidade de resistência pelo agente – ou pelo depoimento de testemunha presencial”.
+    No caso, conforme ressaltado pelo juízo sentenciante, a utilização da arma na prática do crime pelo paciente foi cabalmente comprovada pelos depoimentos das vítimas e das testemunhas, provas estas suficientes ao reconhecimento da causa de aumento de pena, estando, portanto, as decisões proferidas pela instância de origem e pelo Superior Tribunal de Justiça em plena harmonia com a jurisprudência desta Corte.
+    Por fim, no tocante à suposta nulidade da decisão impugnada, entendo que também não assiste razão à impetrante.
+    Como se sabe, a via processual do recurso especial não admite a realização de novo exame probatório. Contudo, tal sede recursal permite a reapreciação da solução jurídica adotada no caso e que pode ter afrontado norma federal em decorrência de interpretação e aplicação equivocadas.
+    Além disso, o reexame de provas inadmitido nos recursos excepcionais não se confunde com a análise concernente à avaliação dos critérios jurídicos inerentes à utilização da prova.
+    Nesse ponto, abalizada doutrina assenta que “analisar se uma prova poderia provar não é o mesmo que examinar a convicção que a decisão recorrida formou a partir das provas valoradas” (MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz. Prova. 2. ed. São Paulo: Editora Revista dos Tribunais, 2011, p. 370). É o que efetivamente se verifica no caso.
+    O relator da decisão impugnada, ao constatar a equivocada exclusão de prova hábil à comprovação da utilização de arma (conforme entendimento firmado pelo Plenário deste Supremo Tribunal), limitou-se a asseverar a eficácia do meio de prova, sem, contudo, proceder a qualquer ponderação valorativa do acervo probatório reunido nos autos, agindo, portanto, dentro dos limites cognitivos inerentes ao recurso especial.
+    Ante todo o exposto, denego a ordem pleiteada, conforme me autoriza o art. 192, caput, do Regimento Interno deste Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
