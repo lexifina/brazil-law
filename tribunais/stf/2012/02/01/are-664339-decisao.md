@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão o qual reconheceu a possibilidade de conversão de tempo especial em comum após 28/5/1998, para fins de aposentadoria.
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 195, § 5º, e 201, § 1º, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o Tribunal de origem assim decidiu:
+    “ (…) o Perfil Profissiográfico Previdenciário – PPP serve como documento hábil à comprovação de agentes nocivos, mesmo em caso de ruído, se prevê o seu nível, dispensando a apresentação de laudo técnico (PEDILEF nº 2006.51.63.000174-1/RJ, Rel. Juiz Fed. Otávio Henrique Martins Port, DJ 15.09.2009); b) Observando-se a evolução legislativa, considera-se especial a atividade exposta a ruído superior aos seguintes níveis: 80 dB(A) após 18.11.2003. Aplica-se a legislação vigente no período da prestação laboral, não sendo possível a aplicação retroativa da norma mais benéfica;
+    (…)
+    a) o PPP, sempre que firmado por médico o engenheiro do trabalho, é suficiente como meio de prova da atividade especia; b) na dúvida entre as informações contidas no PP e no laudo ambiental, prestigia-se a força conclusiva deste por ser elaborado a partir das constatações diretas observadas no local da prestação laboral; c) laudo extemporâneo: não havendo comprovação, pelo INSS, de alteração significativa nas condições gerais do trabalho ou de função, a prova decorrente do laudo ambiental, mesmo que extemporâneo, é suficiente para o reconhecimento da especialidade” (fl. 180-181).
+    Nesse contexto, resta claro que entender de forma diversa e verificar se o recorrido exerceu atividade insalubre a justificar a conversão do tempo de serviço especial em comum ou analisar o preenchimento dos requisitos para a concessão da aposentadoria, faz-se imprescindível a revisão dos fatos e provas constantes dos autos, providência vedada em sede de recurso extraordinário, nos termos da Súmula 279 do STF.
+    Ademais, para dissentir do que estabelecido no acórdão recorrido, seria necessário o exame da legislação infraconstitucional aplicável à espécie (Leis 9.528/97 e 9.032/95, e Decreto 357/91), incabível, portanto, o extraordinário. Nesse sentido, cito os seguintes precedentes: RE 594.742/RS, Rel. Min. Dias Toffoli; AI 765.844/SC e RE 594.403/SE, Rel. Min. Joaquim Barbosa; RE 573.575/SP, Rel. Min. Ellen Gracie; AI 809.883/RS, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
