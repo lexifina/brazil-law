@@ -1,0 +1,10 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Pernambuco. Acórdão assim ementado, na parte que interessa ao deslinde da causa:
+    “PROCESSUAL CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. SENTENÇA EXTITINVA (SEM APRECIAÇÃO DO MÉRITO) FUNDADA NA FALTA DE PRESSUPOSTOS E CONDIÇÕES DA AÇÃO. INEXISTÊNCIA DE RAZÕES DO CONVENCIMENTO. ANULAÇÃO DO JULGADO. APRECIAÇÃO DO MÉRITO NO SEGUNDO GRAU. ART. 515, § 3º, CPC.CONCURSO PÚBLICO. APROVAÇÃO DO CANDIDATO NA PROVA DE CONHECIMENTOS. REPROVAÇÃO NO TESTE DE APTIDÃO FÍSICA. IMPUGNAÇÃO. REALIZAÇÃO DE EXAMES PERANTE UMA JUNTA PARTICULAR. CONSTATAÇÃO DO CANDIDATO ESTAR APTO PARA O CARGO POSTULADO. PROSSEGUIMENTO NO CERTAME. PRINCÍPIO CONSTITUCIONAL DA PROPORCIONALIDADE. […] 3. Havendo no edital do concurso previsão para poder ser impugnada a eliminação do certame por inaptidão física , deve ser acolhido laudo técnico elaborado por uma junta médica particular, comprobatório da capacidade do concorrente, podendo este prosseguir no certame. 4. Os conflitos dos bens jurídicos conflitantes devem ser ponderados com o menor sacrifício possível – princípio constitucional da proporcionalidade. Apelação a que se dá provimento. Decisão unânime.”
+    2. Pois bem, a parte recorrente alega ofensa ao art. 2º e aos incisos I e II do art. 37 da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. Isso porque os dispositivos da Magna Carta de 1988 tidos por violados foram suscitados de modo inaugural nos embargos de declaração opostos ao aresto impugnado, o que não atende ao requisito do prequestionamento. Logo, é de incidir a Súmula 282/STF. Precedentes: AIs 133.690-AgR, da relatoria do ministro Celso de Mello; e 502.659-AgR, da relatoria do ministro Sepúlveda Pertence.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
