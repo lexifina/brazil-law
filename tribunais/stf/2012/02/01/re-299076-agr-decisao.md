@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Instituto de Assistência dos Servidores do Estado do Rio de Janeiro – IASERJ interpõe tempestivo agravo regimental contra a decisão de fls. 206/207, da lavra do eminente Ministro Sepúlveda Pertence, que deu provimento ao recurso extraordinário, com a seguinte fundamentação:
+    “RE, a, de acórdão do Tribunal de Justiça do Rio de Janeiro que negou aos recorrentes a extensão da gratificação de encargos especiais - prevista no Estatuto dos Funcionários Públicos do Estado do Rio de Janeiro (Decreto Lei nº 220/75) - por entender ser esta vantagem remuneratória de caráter pessoal, concedida em razão de merecimento do servidor.
+    Alega o RE, em síntese, a violação do artigo 40, § 4º, da Constituição Federal.
+    Decido.
+    Com efeito, a jurisprudência pacífica do Supremo Tribunal Federal é de que a gratificação de encargos especiais questionada é “vantagem remuneratória deferida, de forma geral, às categorias de servidores, tratando-se, em verdade, de melhoria de vencimentos sob o rótulo de gratificação, hipótese que comporta a extensão determinada, na forma do art. 40, § 4º, da Constituição Federal” (v.g., AI 207.594-AgR, 17.3.98, 2ª T, Velloso; AI 245.315-AgR, 22.8.2000, 1ª T, Sydney; AI 322.215-AgR, 7.8.2001, 2ª T, Maurício, entre outros).
+    Ressalte-se, ainda, que não se verifica invasão da esfera legislativa pelo Judiciário em confronto com a Súmula 339.
+    Como assinalei, entre outros, no RE 214.724, 1ª T, 2.10.98, a regra constitucional de paridade dos proventos de aposentadoria com os vencimentos do cargo correspondente “tem precisamente o sentido de dispensar que a lei estenda ao inativo, em cada caso, o benefício ou vantagem que outorgue ao servidor em atividade: logo, quando incide, o dispositivo constitucional ilide a aplicação da Súmula 339”.
+    Na mesma linha, diversos precedentes do Tribunal, v.g., RE 234.800, 14.12.98, 1ª T, Ilmar Galvão e o AI 185.106-AgR, 08.04.97, 1ª T, Moreira Alves.
+    O acórdão recorrido diverge desta orientação.
+    Assim, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do C.Pr.Civil), invertidos os ônus da sucumbência”.
+    Alega o agravante, em síntese, que no caso dos autos não pode ser aplicado o artigo 40, parágrafo 4°, da Constituição Federal, para buscar a extensão de gratificação aos inativos, em razão da declaração da inconstitucionalidade do art. 4° da Lei Estadual n° 2.365/94, pelo Tribunal de Justiça do Rio de Janeiro, ressaltando que, “nos casos julgados pelo STF a gratificação foi concedida por lei, enquanto no presente caso a gratificação foi concedida por ato administrativo” (fl. 212).
+    É o relatório.
+    Decido.
+    Merece prosperar a irresignação.
+    Colhe-se do voto condutor, a seguinte fundamentação:
+    “Como bem posto pelo Ilustre Procurador de Justiça Augusto Dourado que examinou com percuciência a hipótese temos que a concessão da indigitada gratificação de Encargos Especiais foi concedida pelo Governador Estado administrativamente – no processo n° E-08/906847/94, que lha estendeu aos servidores de apoio de nível médio, a qual já havia sido concedida ao Pessoal de Nível Superior da Área de Saúde do Estado anteriormente.
+    Ocorre que recentemente em acórdão do Colendo 4° Grupo de Câmaras Cíveis, no exame da Segurança Impetrada sob o n° 618/96, o art. 4° da Lei Estadual n° 2.365, de 09.12.94, que assegurava a incorporação da Gratificação de Encargos Especiais, a título de direito pessoal, foi considerada inconstitucional pelo Egrégio Órgão Especial no julgamento da representação por Inconstitucionalidade n° 11/95, constante por cópia às fls. 94.
+    (...)
+    Assim à conta de tais fundamentos é de se dar provimento ao recurso, para julgar-se improcedente a pretensão” (fl. 160/161).
+    Nesse diapasão, o Ministro Néri da Silveira, em decisão proferida no Recurso Extraordinário n° 221.021/RJ, DJ de 15/3/02, assim consignou:
+    "observa-se que o tema de fundo trata da norma inscrita no art. 4º, da Lei 2.365/94, que foi declarada inconstitucional pelo Tribunal estadual na Representação de Inconstitucionalidade n.º 11/95, o que significa dizer que estaria prejudicado o recurso em exame.
+    (...) a declaração de inconstitucionalidade dessa incorporação pelo Tribunal de origem, a qual tem eficácia retroativa (ex tunc) e para todos (erga omnes), após o trânsito em julgado do aresto, desfaz, desde sua origem, o ato declarado inconstitucional, juntamente com todas as conseqüências dele derivadas, alcançando, ainda, atos pretéritos com base nela praticados, ou seja, o recebimento irregular das gratificações pelos servidores em atividades, vinculando, por isso, o próprio Tribunal 'a quo'”.
+    Desse modo, a declaração, pelo Tribunal de Justiça do Estado do Rio de Janeiro, da inconstitucionalidade da norma em que baseado o recurso extraordinário dos ora agravados, impede a reforma do acordão recorrido e torna inviável a admissão desse apelo extremo.
+    Anotem-se, nesse sentido, os seguintes precedentes:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO: GRATIFICAÇÃO. Lei 2.365/94, art. 4º, do Estado do Rio de Janeiro. REPRESENTAÇÃO DE INCONSTITUCIONALIDADE NO TRIBUNAL LOCAL. I. - A norma do art. 4º da Lei 2.365/94, do Estado do Rio de Janeiro, foi declarada inconstitucional pelo Tribunal local, em representação de inconstitucionalidade da citada norma frente à Constituição estadual, em decisão que transitou em julgado. Eficácia erga omnes dessa decisão, tornando inviável recurso que ataca acórdão que decidiu com base na mencionada declaração de inconstitucionalidade. II. - Precedentes do STF. III. - Agravo não provido. (RE n° 285.728/RJ-AgR, Relator o Ministro Carlos Velloso, DJ de 9/5/03);
+    “Agravo regimental. - O despacho agravado teve como não prequestionadas apenas as questões relativas aos incisos LIV e LV do artigo 5º e ID do artigo 93 da Constituição, e os agravantes não demonstram o contrário. - A declaração de inconstitucionalidade de norma estadual em face da Constituição estadual, quando se torna irrecorrível, tem eficácia "erga omnes", vinculando, por isso, necessariamente o Tribunal local de que ela emanou, como corretamente salientou o acórdão recorrido. Agravo a que se nega provimento” (AI n° 255.353/RJ-AgR, Relator o Ministro Moreira Alves, DJ de 10/8/00).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: RE n° 313.414/RJ, Relator o Ministro Eros Grau, DJ de 7/4/05; RE n° 357.434/RJ, Relator o Ministro Nelson Jobim, DJ de 16/4/04; e RE n° 282.947/RJ, Relatora a Ministra Ellen Gracie, DJ de 29/10/02, posteriormente mantida, pela Segunda Turma desta Corte, por meio de acórdão assim ementado:
+    “1. A declaração de inconstitucionalidade da norma estadual que ampara a pretensão dos agravantes, pelo Tribunal de Justiça local em sede de Representação transitada em julgado, possui eficácia erga omnes, o que torna inviável a admissão do presente extraordinário. Precedente AI 255.353 - AgR/RJ. 2. Agravo regimental improvido” (RE nº 282.947-AgR/RJ, Relatora a Ministra Ellen Gracie, DJ de 6/8/04).
+    Ante o exposto, reconsidero a decisão agravada e, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1° de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
