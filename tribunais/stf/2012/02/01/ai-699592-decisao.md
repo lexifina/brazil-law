@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 67):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. JUROS DE MORA. TAXA APLICÁVEL. A questão da incidência dos juros de mora, nos débitos trabalhistas, inclusive quanto à taxa aplicável, foi analisada segundo a regra da especialidade da norma, e aplicação da Lei 8177, sem que houvesse manifestação expressa do Tribunal Regional sobre a Medida Provisória 2180-35, no enfoque de inconstitucionalidade formal ou material, ou da regra da isonomia e prevalência do interesse público, do que resulta a ausência de prequestionamento da matéria expressa nos artigos 2º, 5º, caput e incisos II e XXXVI e 62 da Constituição Federal. Hipótese de aplicação do óbice definido na Súmula 297, TST.
+    Agravo de instrumento a que se nega provimento.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 2º, 5º, caput, I, II, XXXV, LIV e LV, 37, caput, e 62 da Constituição federal e no art. 2º da Emenda Constitucional 32/2001. Sustenta-se a aplicação de juros de mora nas condenações contra a Fazenda Pública não superiores a 6% ao ano.
+    É o relatório. Decido.
+    A manutenção da decisão do Tribunal Regional contraria orientação firmada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 453.740 (rel. min. Gilmar Mendes, DJ de 24.08.2007). Naquela oportunidade, a Corte declarou, incidentalmente e por maioria, a constitucionalidade do art. 1º-F da Lei 9.494/97, introduzido pela Medida Provisória 2.180-35/2001, por reputar inexistente violação do princípio da isonomia.
+    Ademais, é oportuno mencionar que posteriormente esta Corte, ao examinar a repercussão geral do AI 842.063 (rel. min. Presidente, DJe de 02.09.2011, tema 435), reafirmou a jurisprudência no sentido da aplicação imediata do art. 1º-F da Lei 9.494/1997, com a redação dada pela Medida Provisória 2.180-35/2001.
+    Do exposto, com base no art. 544, § 3º e § 4º, do Código de Processo Civil (redação anterior a Lei 12.322/2010), dou provimento ao agravo e o converto em recurso extraordinário, para, nos termos do art. 557, § 1º-A, do referido diploma legal, dele conhecendo, dar-lhe provimento, para determinar a aplicação do art. 1º-F da Lei 9.494/1997, com a redação dada pela MP 2.180-35/2001.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
