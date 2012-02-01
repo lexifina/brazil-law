@@ -1,0 +1,10 @@
+DECISÃO
+IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – BASE DE CÁLCULO – INSUMOS – DIREITO AO CRÉDITO – OFENSA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE – AGRAVO DE INSTRUMENTO DESPROVIDO.
+    1. O tema em discussão no recurso extraordinário diz respeito ao direito do contribuinte de utilizar-se de crédito de Imposto sobre Circulação de Mercadorias e Serviços com relação a bens adquiridos para uso e consumo e bens para o ativo permanente, em período anterior à vigência da Lei Complementar nº 87/96, bem como no período posterior, regido pela Lei Complementar nº 92, de 1997.
+    2. Na espécie, no que tange ao direito ao crédito em relação a bens integrados ao ativo fixo e insumos, cumpre perquirir o elo entre a mercadoria adquirida e a atividade, em si, na produção da própria empresa. Assim, a aquisição de equipamentos que irão integrar o ativo fixo da empresa não gera o direito ao crédito, tendo em conta que a adquirente mostra-se, na realidade, como consumidora final. Esse enquadramento harmoniza-se com a premissa segundo a qual, vindo a vender tais bens, sobre o negócio jurídico não se dará a incidência do ICMS. Hipótese diversa se verifica quando se trata de aquisição de energia elétrica, gastos com comunicação, ou gastos com matéria-prima adquirida e que venha a ser consumida ou integrada ao produto final, na condição de elemento indispensável à respectiva composição que, em última análise, afiguram-se como verdadeiros insumos.
+    3. Acresça–se que, em 23 de setembro de 2004, o Plenário, julgando as limitações ao aproveitamento do crédito do Imposto sobre Circulação de Mercadorias e Serviços, consubstanciadas em restrições temporais, concluiu que não houve ofensa ao princípio da não-cumulatividade, por entender que leis complementares poderiam fixar a regulamentação dos créditos, haja vista a previsão constitucional – artigo 155, § 2º, inciso XII, alínea “c”.
+    4. Diante do exposto, conheço do agravo e o desprovejo.
+    5. Publiquem.
+Brasília, 1° de fevereiro de 2012.
+Ministro MARCO AURÉLIO
+Relator
