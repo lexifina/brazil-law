@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. ALEGADA CONTRARIEDADE ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO RECORRIDO SUFICIENTEMENTE FUNDAMENTADO. IMPOSSIBILIDADE DO REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Colégio Recursal dos Juizados Especiais Cíveis e Criminais de São Paulo:
+    “Concessionária Pública – Obra em via Pública – Divergência Datas – Contradição Testemunhas – Inversão do Ônus da Prova – Inaplicável – Improvimento” (fl. 193).
+    2. No recurso extraordinário, a Agravante afirma que o Colégio Recursal teria contrariado os arts. 37, caput e § 6º, e 93, inc. IX, da Constituição da República.
+    Sustenta que a decisão recorrida “olvidou-se de mencionar acerca da requerida aplicabilidade do Código de Defesa do Consumidor, notadamente quanto à inversão do ônus da prova” (fl. 212).
+    Alega que, “em decorrência de obras na Alameda Ribeirão Preto com a Almirante Marques Leão (..), de responsabilidade da Recorrida (...), veio a escorregar e cair frontalmente como o rosto no chão, causando-lhe sérias lesões” e assevera que “referidos fatos foram confessados na pela de defesa apresentada pela Recorrida (...), restando, pois, incontroversos” (fl. 213).
+    Defende que “a negligência – falta de cuidado dos funcionários da Sabesp – restou patente, vez que a se desvencilho dos deveres de cuidados mínimos de proteção e segurança quando da prestação so serviços, ou seja, não colocaram qualquer aviso, sinalização ou indicação dos perigos que sujeitavam os transeuntes do local” (fl. 214).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta, ausência de prequestionamento e incidência da Súmula n. 283 do Supremo Tribunal Federal (fls. 225-233).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Consta do voto do Relator:
+    “A r. sentença não merece reparos, devendo ser mantida pelos seus próprios fundamento.
+    Em que pese a aplicação do CDC ao caso presente, inviável a inversão do ônus da prova, em vista da inverossimilhança do relato, bem como ausência de hipossuficiência em relação à prova pretendida.
+    Nenhuma das testemunhas arroladas presenciou o fato em questão, queda da recorrente, controversa a narrativa diante da impugnação específica da parte adversa.
+    O documento juntado pela recorrida comprova a data da obra realizada na mencionada rua, em dia posterior ao indicado na inicial, em local diverso e próximo, tudo a denotar a inveracidade do relato contido na exordial.
+    Ademais, a peça inicial é contraditória, afirmando que havia sinalização de passagem inicialmente, e posteriormente que inexistia qualquer advertência quanto à realização da obra.
+    Da mesma forma, a prova oral colhida mostrou-se contraditória, conforme relatado em sentença, infirmando inclusive o relato da recorrente quanto aos custos de tratamento e outros pontos relevantes. Nenhuma testemunha imparcial foi arrolada, em que pese o episódio ter ocorrido em via pública.
+    Não comprovado o ilícito extracontratual atribuído à concessionária, não prospera a pretensão indenizatória deduzida” (fl. 194).
+    7. Como se observa, não procede a alegação de nulidade do acórdão recorrido por contrariedade ao art. 93, inc. IX, da Constituição da República.
+    Embora em sentido contrário à pretensão da Agravante, o julgado recorrido apresentou suficiente fundamentação. E, como se firmou na jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    8. Quanto ao mérito, o Colégio Recursal examinou os elementos dos autos e concluiu ser improcedente o pedido de indenização formulado na inicial, pois a Agravante não teve êxito em comprovar a ocorrência do ilícito extracontratual atribuído à concessionária.
+    Concluir de forma diversa demandaria, necessariamente, o reexame das provas devidamente apreciadas, o que não é viável em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESTITUIÇÃO DE VALORES. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 660.889-AgR, de minha relatoria, Primeira Turma, DJe 14.12.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. ACIDENTE FÉRREO. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279/STF. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. Agravo regimental a que se nega provimento” (AI 802.014-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.10.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
