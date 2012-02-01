@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Julgamento antecipado. Capitalização. Alegação de sua ocorrência. Prova. Necessidade e utilidade para fins de conciliação do tema controvertido. Recurso de apelação que se dá provimento para restabelecer a instrução processual para esse fim” (fl. 8).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    O agravo não merece acolhida. o acórdão recorrido decidiu a causa com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NORMAS PROCESSUAIS. ALEGADA OFENSA AO ART. 5º, XXXV, XXXVI, DA CF. OFENSA REFLEXA. RECURSO INTERPOSTO COM BASE NO ART. 102, III, c. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - A alegada violação ao art. 5º, XXXV, da Constituição, pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. III - O acórdão não julgou válida lei ou ato de governo local contestado em face da Constituição, incabível, portanto, o conhecimento do recurso pela alínea c, do art. 102, III, da CF. IV - Recurso protelatório. Aplicação de multa. V - Agravo regimental improvido” (AI 748.147-AgR/SP, de minha relatoria).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
