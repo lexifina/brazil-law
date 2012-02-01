@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 931):
+    “RECURSO DE EMBARGOS EM RECURSO DE REVISTA. ACÓRDÃO PUBLICADO NA VIGÊNCIA DA LEI Nº 11.496/2007. PRESCRIÇÃO PARCIAL. COMPLEMENTAÇÃO DE APOSENTADORIA. DIFERENÇAS DECORRENTES DE NORMA REGULAMENTAR. Da análise do acórdão embargado, vê-se que o reclamante percebia complementação de aposentadoria, tendo postulado na presente reclamação trabalhista apenas o pagamento de diferenças decorrentes da aplicação dos mesmos índices utilizados pelo INSS para reajuste de seus benefícios, conforme previsão em norma regulamentar. Constata-se, portanto, que se trata de diferenças de complementação de aposentadoria que vem sendo paga, atraindo a incidência da prescrição parcial, nos termos da Súmula 327 do TST. Bem aplicada a Súmula 327/TST pela Turma, a pretensão da Reclamada CVRD encontra obstáculo no item II do artigo 894 da CLT. Precedentes desta SBDI-1. Embargos não conhecidos.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 7º, XXIX, da Constituição federal. Sustenta-se o desacerto da decisão recorrida por não pronunciar a prescrição total.
+    É o relatório. Decido.
+    O art. 7º, XXIX, da Constituição, aponta tão somente o prazo prescricional. Inexiste no texto constitucional regramento acerca da espécie de prescrição, se total ou parcial, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 569.103-AgR, rel. min. Ayres Britto, DJ de 10.08.2006; AI 559.476-AgR, rel. min. Ayres Britto, DJ de 08.09.2006; AI 520.706-AgR, rel. min. Ellen Gracie, DJ de 03.02.2006; RE 573.016, rel. min. Gilmar Mendes, DJ de 11.02.2008.
+    Do exposto, conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
