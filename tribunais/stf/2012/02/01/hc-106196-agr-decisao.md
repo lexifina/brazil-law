@@ -1,0 +1,16 @@
+1.  Trata-se de agravo regimental contra decisão que indeferiu liminarmente o presente habeas corpus, impetrado contra o Relator do HC 187.171/MT, Ministro Haroldo Rodrigues (Desembargador convocado do TJCE), do Superior Tribunal de Justiça.
+          Os pacientes foram presos em flagrante delito transportando e comercializando cocaína. O flagrante foi homologado pelo Juiz de Direito da 1ª Vara Criminal da Comarca de Rondonópolis-MT.
+          Inconformada, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Mato Grosso, que denegou a ordem pleiteada. Contra tal ato, impetrou-se o referido HC 187.171/MT, que, por intermédio da decisão monocrática proferida pelo eminente relator, indeferiu o pedido de liminar.
+          Alegam os impetrantes, em síntese, a falta de fundamentação idônea da decisão que homologou a prisão em flagrante dos pacientes, visto que pautou-se somente na vedação legal à liberdade provisória disposta no art. 44 da Lei 11.343/06. Sustentam ainda a possibilidade de abrandamento do enunciado da Súmula 691/STF.
+          Requerem a concessão de provimento liminar para que se determine a expedição do competente alvará de soltura em favor dos pacientes. No mérito, solicitam o deferimento do writ .
+    2.  Em 16.11.2010, a eminente Ministra Ellen Gracie indeferiu liminarmente o writ em razão da incidência do enunciado da Súmula 691/STF - segundo o qual “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    3.  Inconformada, a defesa interpôs agravo regimental contra a referida decisão monocrática.
+    4.  A Procuradoria-Geral da República manifestou-se pelo desprovimento do agravo regimental.
+    5.  Todavia, em consulta ao sítio eletrônico da Corte Superior na internet (www.stj.jus.br) , verifico que, em 29.4.2011, sobreveio decisão monocrática proferida pelo eminente relator, Ministro Haroldo Rodrigues (Desembargador convocado do TJCE), negando seguimento ao HC 187.171/MT.
+          Para tanto, o relator fundamentou que “foi indeferido o pedido de liberdade provisória formulado em favor dos pacientes, cuja decisão constitui novo título judicial a amparar a custódia cautelar, estando, consequentemente, superada a alegação da ausência de motivação do despacho que homologou a prisão em flagrante”.
+    6.  Neste contexto, o Supremo Tribunal Federal já assentou que a superveniência do julgamento de mérito do habeas corpus pelo Superior Tribunal de Justiça substitui o título questionado na impetração, tornando, dessa maneira, prejudicado o writ que ataca decisão de indeferimento do pedido de liminar. Precedentes: HC 102.780-AgR/SP, rel. Min. Ayres Britto, 2ª Turma, DJe 11.4.2011; HC 94.412-AgR/RJ, rel. Min. Cármen Lúcia, 1ª Turma, DJe 22.10.2010; e HC 88.469-AgR/SP, rel. Min. Cármen Lúcia, 1ª Turma, DJe 6.11.2006.
+    7.  Ante o exposto, tendo em conta a decisão que negou seguimento ao HC 187.171/MT do Superior Tribunal de Justiça, fica evidente a perda superveniente de objeto desta impetração, razão por que julgo prejudicado o presente agravo regimental.
+          Publique-se. Arquive-se.
+          Brasília, 1º de fevereiro de 2012.
+Ministra ROSA WEBER
+Relatora
