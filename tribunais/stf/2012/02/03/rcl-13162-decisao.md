@@ -1,0 +1,18 @@
+Decisão: Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Botuporã-BA, contra decisão Tribunal Regional do Trabalho da 5ª Região, proferida no Processo 0001186-96.2010.5.05.0631, ao argumento de nulidade do julgamento que declarou a competência da Justiça do Trabalho para apreciar a causa.
+    O reclamante alega violação à decisão cautelar proferida nos autos da ADI-MC 3.395, Rel. Min. Cezar Peluso, DJ 10.11.2006, que suspendeu qualquer interpretação do art. 114, I, da Constituição Federal, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculado por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+    O Min. Cezar Peluso indeferiu o pedido de medida liminar por não vislumbrar situação de urgência que justificasse a atuação da Presidência desta Corte (art. 13, VIII, RISTF) e submeteu os autos à livre distribuição.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Passo a decidir.
+    A jurisprudência deste Supremo Tribunal Federal tem-se firmado no sentido de que compete à Justiça Comum processar e julgar as causas instauradas entre Poder Público e servidor a ele vinculado por relação de ordem jurídico-administrativa. Nesse sentido, cito a decisão cautelar proferida na ADI-MC 3.395, Rel. Min. Cezar Peluso, DJ 10.11.2006, cuja ementa possui o seguinte teor:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária.”
+    Sobre a extensão dessa decisão a causas em que se discute a licitude da contratação promovida pelo Poder Público, cito o Agravo Regimental na Reclamação 8.197, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 16.4.2011, com a seguinte ementa:
+    “ADMINISTRATIVO E PROCESSUAL. CARGO EM COMISSÃO. REGIME JURÍDICO-ADMINISTRATIVO. AUSÊNCIA DE ARGUMENTOS SUSCEPTÍVEIS DE MODIFICAR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. É competente a Justiça comum para processar e julgar ações relativas a conflitos relativos a vínculo jurídico-administrativo entre o Poder Público e seu agente. 2. Irregularidade na contratação de servidores pode dar ensejo à nulidade do contrato, com todas as consequências daí decorrentes, mas não altera a natureza jurídica de cunho administrativo que se estabelece originalmente. 3. Agravo regimental não provido”.
+    A decisão reclamada é contrária a essa orientação, pois concluiu pela competência da Justiça do Trabalho para processar e julgar relação jurídica estabelecida entre o Município de Botuporã-BA e os seus servidores.
+    Ante o exposto, com base na jurisprudência desta Corte, conheço da reclamação e julgo-a procedente, para cassar todos os atos tomados pela Justiça do Trabalho e determinar a remessa dos autos à Justiça Comum.
+    Comunique-se.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
