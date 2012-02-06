@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1) PROVIMENTO DO RECURSO ESPECIAL: PERDA DE OBJETO DO RECURSO EXTRAORDINÁRIO E RESPECTIVO AGRAVO. 2) LEIS N. 8.987/1995 E 9.427/1996 E RESOLUÇÃO N. 456/2000 DA AGÊNCIA NACIONAL DE ENERGIA ELÉTRICA: QUESTÕES INFRACONSTITUCIONAIS. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CORTE NO FORNECIMENTO DE ENERGIA ELÉTRICA POR INADIMPLÊNCIA. IMPOSSIBILIDADE. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR.
+    A energia elétrica é bem essencial a todos, constituindo serviço público indispensável, que a privatização não desnatura, subordinado ao princípio da continuidade de sua prestação (artigo 22 do CDC), por isso que impossível sua interrupção, até por sua característica nitidamente monopolista.
+    Apelo desprovido, por maioria” (fl. 124).
+    3. No recurso extraordinário, a Agravante alega que:
+    “Houve o acórdão recorrido por proibir a suspensão do fornecimento de energia elétrica, deixando de aplicar ao caso concreto a exceção prevista no art. 6º, § 3º, da Lei n. 8.987/1995 (previsão expressa de corte nas hipóteses previstas).
+    Ao obstar a aplicação desse dispositivo, o Tribunal acabou por violar os [arts. 1º, 2º, 5º, inc. II e LV, 22, inc. IV, e 175, inc. I e II, da Constituição da República]” (fl. 184).
+    Afirma que “o art. 17, parágrafo único, da Lei n. 9.427/1996, que disciplina o regime de concessão do serviço público de energia elétrica, enseja a suspensão do fornecimento” (fl. 182).
+    Assevera, ainda, que “a manutenção da decisão proferida pelo Tribunal a quo representaria o afastamento por completo de disposições expressas contidas tanto na Resolução n. 456/2000 [quanto] na Lei n. 8.987/1995” (fl. 186).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de ofensa constitucional direta (fls. 197 v.-198).
+    A Agravante sustenta a presença dos pressupostos de admissibilidade do recurso extraordinário.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O presente agravo está parcialmente prejudicado, por perda superveniente de objeto.
+    Ao julgar o Recurso Especial 1.192.168 (trânsito em julgado em 5.9.2011 – www.stj.jus.br), interposto pela ora Agravante contra o julgado recorrido, o Superior Tribunal de Justiça decidiu:
+    “1. Em verdade, a Primeira Seção e a Corte Especial do STJ entendem legal a suspensão do serviço de fornecimento de energia elétrica pelo inadimplemento do consumidor, após aviso prév4io, exceto quanto aos débitos antigos, passíveis de cobrança pelas vias ordinárias de cobrança.
+    2. Admitir o inadimplemento por um período indeterminado e sem a possibilidade de suspensão do serviço é consentir com o enriquecimento sem causa de uma das partes, fomentando a inadimplência generalizada, o que compromete o equilíbrio financeiro da relação e a própria continuidade do serviço, com reflexos inclusive no princípio da modicidade.
+    3. Embargos de declaração acolhidos, com efeitos modificativos, para, sanando a omissão apontada, dar parcial provimento ao recurso especial” (grifos nossos).
+    Assim, atendida a pretensão da Agravante, o recurso extraordinário e o agravo respectivo perderam, no ponto, o objeto. Nesse sentido: RE 429.799-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 26.8.2005; e RE 252.245, Rel. Min. Carlos Velloso, Segunda Turma, DJ 6.9.2001.
+    6. A questão remanescente (possibilidade de interrupção do fornecimento de energia elétrica em virtude de débitos antigos) tem natureza infraconstitucional (Leis n. 8.987/1995 e 9.427/1996 e Resolução n. 456/2000 da Agência Nacional de Energia Elétrica), como reconhece a Agravante, não podendo ser objeto de recurso extraordinário. Nesse sentido:
+    “Embargos declaratórios em agravo regimental em recurso extraordinário. 2. Pretensão de efeito infringente a partir da mera reprodução dos argumentos já refutados. 3. Constitucionalidade do art. 3º, I, da Lei 8.200 reconhecida pela Corte. Precedentes. 4. Normas infralegais de execução da Lei 8.200/91. Matéria estranha ao campo do recurso extraordinário. 5. Embargos declaratórios rejeitados” (RE 372.328-AgR-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 30.6.2006 – grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SOLUÇÃO DA CONTROVÉRSIA QUE DEMANDA O REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional pertinente (cotejo entre a Resolução da ANTT 233/2003, o Decreto 2.512/1998 e as Leis 8.987/1995 e 10.233/2001). Providência vedada neste momento processual. 2. Agravo regimental desprovido” (AI 736.056-AgR, Rel. Min. Ayres Britto, Segunda Turma, Dje 25.4.2011 – grifos nossos).
+    “Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 508.047-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 21.11.2008).
+    “Recurso extraordinário: descabimento, quando fundado na alegação de ofensa reflexa à Constituição. 1. Tem-se violação reflexa à Constituição, quando o seu reconhecimento depende de rever a interpretação dada a norma ordinária pela decisão recorrida, caso em que é a hierarquia infraconstitucional dessa última que define, para fins recursais, a natureza de questão federal. 2. Admitir o recurso extraordinário por ofensa reflexa ao princípio constitucional da legalidade seria transformar em questões constitucionais todas as controvérsias sobre a interpretação da lei ordinária, baralhando as competências repartidas entre o STF e os tribunais superiores e usurpando até a autoridade definitiva da Justiça dos Estados para a inteligência do direito local” (AI 134.736-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 17.2.1995).
+    7. Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, julgo prejudicado o presente agravo de instrumento quanto ao corte de fornecimento de energia elétrica pelos débitos recentes do consumidor (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal), e a ele nego seguimento em relação à parte remanescente (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
