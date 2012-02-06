@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) contra decisão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor:
+    “REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. PROFESSOR ESTADUAL. MAGISTÉRIO. TEMPO DE SERVIÇO. APOSENTADORIA. ABONO DE 17%. ART. 285, II, DA CONSTITUIÇÃO ESTADUAL. APLICAÇÃO. TEMPO DE SERVIÇO PRESTADO ANTES DA EC Nº 20/98. DIREITO ADQUIRIDO. QUINQUÊNIO E ADICIONAL TRINTENÁRIO. DIREITO RECONHECIDO. HONORÁRIOS ADVOCATÍCIOS. ADEQUAÇÃO AO ART. 20, §§ 3º E 4º, DO CPC. - Sobre o tempo trabalhado no magistério, até a edição da EC nº 20/98, deve incidir o abono de 17%, pois, para fins de aposentadoria, o cômputo do tempo de serviço rege-se pela lei vigente quando de sua prestação.” (Fls. 90).
+    O ora agravante alega violação ao disposto nos arts. 5º, XXXVI; 37, II; e 40, § 10, da Constituição Federal. Sustenta, em síntese, que o servidor não possui direito à aplicação do abono de 1.17 em seu tempo de serviço de magistério anterior a Emenda Constitucional 20/1998, vez que não fez o requerimento antes da alteração constitucional.
+    É o relatório. Decido.
+    O Tribunal a quo consignou que o servidor adquiriu o direito ao acréscimo do índice de 1.17 sobre o tempo de efetivo exercício de magistério, à época em que a legislação vigente (art. 285, inc. II, da Constituição do Estado de Minas Gerais) permitia tal benesse (fls. 94). Concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação estadual e do quadro fático-probatório, o que atrai as vedações das Súmulas 279 e 280/STF. Nesse sentido: RE 482.038 (rel. min. Sepúlveda Pertence, DJ de 31.08.2006); AI 633.082 (rel. min. Cármen Lúcia, DJ de 17.08.2007); RE 461.498-AgR (rel. min. Eros Grau, DJe de 26.05.2008) e RE 564.992-AgR (rel. min. Marco Aurélio, DJe de 17.04.2009).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 6 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
