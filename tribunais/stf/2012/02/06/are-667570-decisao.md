@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+    “EMENTA: DUPLO GRAU DE JURISIDIÇÃO. APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. LEGITIMIDADE PASSIVA. ISS. CONSTRUÇÃO CIVIL. I – Como ao Secretário de Finanças do Município é delegada a competência para executar a política tributária no âmbito municipal, correta se apresenta a sua presença no pólo passivo da impetração, porquanto lhe é conferido poder para cessar a ilegalidade confrontada. II – Comprovado nos autos que sobre a obra executada pelo impetrante não incide Imposto Sobre serviços – ISS, porquanto trata-se de construção em terreno próprio, sem exploração econômica de atividade de administração, empreitada ou subempreitada de obra, ilegal e arbitrária a exigência de prévio recolhimento do ISS, como condição para o prosseguimento de processo administrativo de conversão do ITU para IPTU. Recurso de Apelação e duplo grau de jurisdição conhecidos e desprovidos. Sentença mantida” (fl. 190).
+    Opostos embargos de declaração (fls. 197/239), foram conhecidos e desprovidos (fls. 244/251).
+    No recurso extraordinário sustenta-se violação do artigo 5º, inciso LXIX, da Constituição Federal, sob o argumento de que o tribunal ad quem teria se equivocado ao decidir pela existência de direito líquido e certo para não submeter o contribuinte à cobrança de ISS, ante a falta de prestação de serviço.
+    Interposto recurso especial paralelamente ao extraordinário, aquele teve negado seguimento (fls. 374/verso e 375), com trânsito da decisão.
+    Decido.
+    Razão jurídica não assiste ao recorrente.
+    Verifico que a análise da matéria referente à demonstração de existência de direito líquido e certo a fim de averiguar a existência dos pressupostos de cabimento de ação mandamental, demanda a prévia apreciação do conjunto fático-probatório constante nos autos, bem como de norma infraconstitucional aplicável à espécie, notadamente a Lei n° 1.533/51, conforme se verifica no voto condutor do acórdão recorrido:
+    “(...) evidencia-se a existência de direito líquido e certo em favor do impetrante. Resta claro a inocorrência de fato gerador, posto que ausente a prestação de serviços, uma vez que o impetrante não promoveu a circulação econômica de qualquer bem” (fl. 187).
+    Dessa forma, além de enfrentar o óbice da Súmula nº 279 desta Corte, a pretensão do recorrente não se traduz em ofensa direta à Constituição Federal, o que inviabiliza o processamento do presente recurso.
+    Ademais, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança. Da manifestação do Relator destacam-se os seguintes fundamentos:
+    “(...)
+    A questão a ser analisada diz respeito ao preenchimento dos requisitos do mandado de segurança.
+    Em que pese à ação mandamental ser um remédio constitucional por excelência, a admissibilidade do writ se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009.
+    Ademais, a análise da demonstração do direito líquido e certo ou da existência de prova pré-constituída exige o revolvimento de provas, inviável em sede de recurso extraordinário” (DJe de 6/12/10).
+    Colhem-se, ainda, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n.º 582.662/BA-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/6/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. PRESSUPOSTOS. CABIMENTO. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. Ofensa indireta à Constituição do Brasil, eis que imprescindível o reexame do cabimento e das condições da ação, nos termos da Lei n. 1.533/51 e do Código do Processo Civil. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo Regimental ao qual se nega provimento” (RE n.º 438.583/RJ-AgR Segunda Turma, Relator o Ministro Eros Grau, DJe 15/8/08).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE mandado DE SEGURANÇA. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional e do reexame de provas. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 685.313/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/4/09).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
