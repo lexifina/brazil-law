@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de RODRIGO CAVALCANTI TOFANO contra acórdão proferido pelo Superior Tribunal de Justiça no julgamento do HC nº 220.862/SP.
+    Consta dos autos que o paciente foi condenado à pena total de 14 anos e 7 meses de reclusão, em regime inicial fechado, pela prática, em concurso material, dos crimes previstos nos artigos 159, § 1º, e 157, § 2º, incisos I e II, todos do Código Penal.
+    No presente habeas corpus, a impetrante pleiteia o reconhecimento da continuidade delitiva entre os crimes de extorsão mediante sequestro e roubo imputados ao paciente.
+    Para tanto, alega que, apesar de os crimes não serem da mesma espécie, teriam sido praticados nas mesmas condições de tempo, espaço e modo de execução.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada deste Tribunal, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    A pretensão da impetrante consiste na reapreciação das circunstâncias motivadoras da condenação imposta ao paciente, de forma a alcançar o reconhecimento de que as condutas praticadas caracterizariam continuidade delitiva.
+    Ocorre que para a caracterização da alegada continuidade delitiva é imprescindível o preenchimento de requisitos objetivos (mesmas condições de tempo, lugar e modus operandi) e subjetivos (unidade de desígnios), conforme preconiza o art. 71 do Código Penal, sendo certo que o cumprimento de tais condições somente poderia ser constatado por esta Corte mediante a realização de aprofundado reexame fático e do lastro probatório coligido nos autos, o que é inviável no âmbito do habeas corpus.
+    Nesse ponto, destaco os seguintes precedentes:
+    “Recurso ordinário em habeas corpus. Penal. Crime de furto. Paciente condenado a 10 anos e 10 meses de reclusão por crimes de furto. Continuidade delitiva não configurada. Necessidade de unidade de desígnios. Reexame de fatos e provas. Imprópria a via estreita do habeas corpus. Recurso não provido.
+    1. A via estreita do habeas corpus é inadequada para a incursão em aspectos fáticos do processo e para a dilação probatória tendente a comprovar a existência dos requisitos objetivos e subjetivos para o reconhecimento da continuidade delitiva.
+    2. Recurso ordinário a que se nega provimento” (RHC 107.761/MS, rel. min. Dias Toffoli, DJe nº 175, publicado em 13.09.2011).
+    “O reconhecimento do nexo de continuidade delitiva não se revela viável em sede de “habeas corpus”, quando essencial, ao exame dessa “fictio juris”, a análise de elementos probatórios complexos produzidos no processo penal de conhecimento. O rito sumaríssimo do processo de “habeas corpus” mostra-se incompatível com a apreciação de pleito cujo acolhimento dependa da necessidade de exame aprofundado de fatos e/ou de provas. Precedentes” (HC 103.149/RS, rel. min. Celso de Mello, DJe nº 105, publicado em 11.06.2010).
+    No mesmo sentido, dentre outros: HC 105.798/GO, rel. min. Celso de Mello, DJe nº 096, publicado em 23.05.2011; HC 98.681/SP, da minha relatoria, DJe nº 073, publicado 18.04.2011; HC 98.949/MS, também da minha relatoria, DJe nº 020, publicado em 01.02.2011; e HC 96.784/BA, rel. min. Ellen Gracie, DJe nº 022, publicado em 05.02.2010).
+    Ainda que fosse superado o óbice quanto à admissibilidade, melhor sorte não adviria à impetração, haja vista que a jurisprudência deste Tribunal é firme no sentido da impossibilidade de reconhecimento da continuidade delitiva para crimes de espécies distintas.
+    Nesse sentido, anoto os seguintes julgados:
+    "Para configurar o crime continuado, na linha adotada pelo Direito Penal brasileiro, é imperioso que o agente: a) pratique mais de uma ação ou omissão; b) que as referidas ações ou omissões sejam previstas como crime; c) que os crimes sejam da mesma espécie; d) que as condições do crime (tempo, lugar, modo de execução e outras similares) indiquem que as ações ou omissões subseqüentes efetivamente constituem o prosseguimento da primeira. É assente na doutrina e na jurisprudência que não basta que haja similitude entre as condições objetivas (tempo, lugar, modo de execução e outras similares)" (RHC 93.144, rel. min. Menezes Direito, DJE de 9.5.2008).
+    “Delitos de roubo qualificado e de latrocínio. Crime continuado. Reconhecimento. Inadmissibilidade. Tipos de objetividades jurídicas distintas. Inexistência da correlação representada pela lesão do mesmo bem jurídico. Crimes de espécies diferentes. HC denegado. Inaplicabilidade do art. 71 do CP” (HC 87.089, rel. min. Cezar Peluso, DJE de 26.6.2009).
+    “O instituto da continuidade delitiva é modalidade de concreção da garantia constitucional da individualização da pena, a operar mediante benefício àqueles que, nas mesmas circunstâncias de tempo, modo e lugar de execução, cometem crimes da mesma espécie” (HC 93.536, rel. min. Carlos Britto, DJE de 7.8.2009).
+    Ante todo o exposto, denego a ordem pretendida, conforme me autoriza o art. 192, caput, do Regimento Interno deste Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
