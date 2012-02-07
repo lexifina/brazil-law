@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “RECURSO DE AGRAVO. INCORPORAÇÃO DA GRATIFICAÇÃO DE POLICIAMENTO EXTENSIVO AOS PROVENTOS DOS INATIVOS E PENSIONISTAS. GRATIFICAÇÃO DE CARÁTER GERAL ART. 40, § 7º E 8º, DA CF/88. RECURSO IMPROVIDO. DECISÃO UNÂNIME. (...)” (fl. 23 do apenso 1).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 40, §§ 7º e 8º, e 37, X, da mesma Carta.
+    O agravo não merece acolhida. O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Complementar Estadual 59/2004). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, o AI 797.341-AgR/PE, Rel. Min. Luiz Fux, 1ª Turma, o qual possui a seguinte ementa:
+    “INATIVOS E PENSIONISTAS. CONTEXTO FÁTICO DELINEADO PELO TRIBUNAL A QUO. ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. LEI COMPLEMENTAR 59/2004. INCIDÊNCIA DA SÚMULA 280 DO STF.
+    1. Em princípio, não cabe ao Supremo Tribunal Federal a revisão das conclusões dos tribunais locais no que se refere à extensão das gratificações e vantagens aos aposentados por suposta violação do artigo 40, § 8º (anteriormente, artigo 40, § 4º), da Constituição Federal. A esta Corte incumbe apenas a correção de erro flagrante na aplicação da regra de extensão, nos casos em que a vantagem de nítido caráter geral seja estendida a apenas uma parte do universo de inativos, deixando de fora outra parte nas mesmas condições, ou de outra forma, nos casos em que vantagem de nítido caráter restrito seja deferida a todos os aposentados, sem a apreciação das particularidades de cada situação.
+    2. Esta Corte já pacificou sua jurisprudência no sentido de que a análise da natureza da Gratificação de Risco de Policiamento Ostensivo, prevista na Lei Complementar 59/2004, depende de exame da legislação local, o que atrai a incidência da Súmula 280, verbis: “Por ofensa a direito local não cabe recurso extraordinário.” Precedentes: AI 795.765-AgR, Rel. Min. Cármen Lúcia, 1ª Turma, DJe de 02/09/2010; AI 831.281-AgR, Rel. Min. Ayres Britto, 2ª Turma, DJe de 31/05/2011.
+    3. Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
