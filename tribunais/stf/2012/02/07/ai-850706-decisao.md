@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+    “Administrativo. Servidor Público Federal. Reajuste. 3,0%. Diferença entre os índices de 28,86% e o de 31,87%. Leis 8.622/93 e 8.627/93. O STF definiu o índice de 28,86% [leis 8.622/93 e 8.627/93], concedido aos militares, como sendo de revisão geral do funcionalismo público federal, extensivo aos demais servidores públicos, não cogitando, para efeito de equiparação isonômica, do índice de 31,87%, auferido pelas maiores patentes das Forças Armadas (generais, brigadeiros e almirantes). Apelação improvida”. (fl. 170)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, a recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, alega que houve ofensa ao artigo 37, X, do texto constitucional.
+    A recorrente aduz que:
+    “(...) houve a concessão de um reajuste no percentual de 28,86%, valendo-se da invocação do artigo 37, X, da CF, para os servidores do Poder Judiciário e depois estendido aos demais servidores civis do executivo, restando, desta forma, uma flagrante distinção de percentuais de reajuste salarial, pois foi concedido 28,86...% (sic) de reajuste para servidores civis e 31,87...% (sic) para oficiais generais da patente de Brigadeiro ou equivalente.
+    (…)
+    Busca-se, então, nesta demanda, sob o fundamento similar do já consagrado 28,86%, a incorporação e o pagamento retroativo do percentual de 3,0033118%, consistente na diferença entre o maior aumento e aquele já reconhecido (31,8728485% - 28,8695367%)”. (fls. 217-218) (grifo no original)
+    Decido.
+    Não assiste razão à agravante.
+    O acórdão recorrido está em harmonia com a jurisprudência desta Corte, que firmou o entendimento no sentido de que as Leis 8.622/1993 e 8.627/1993 concederam uma revisão geral aos servidores públicos da ordem de 28,86%, nos termos do artigo 37, X da Constituição Federal. Nesse sentido, destaca-se o RE-AgR 432.362/PE, Rel. Min. Carlos Britto, DJ 4.11.2005, assim ementado:
+    “SERVIDORES MILITARES. LEIS 8.622/93 E 8.627/93. REVISÃO GERAL DE VENCIMENTOS, DA ORDEM DE 28,86%, NA FORMA DO INCISO X DO ART. 37 DA LEI DAS LEIS (REDAÇÃO ANTERIOR À EC 19/98). DIREITO AO REAJUSTE DE 31,87%. INEXISTÊNCIA. INTERPRETAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O Plenário, ao julgar o RMS 22.307 e o RMS 22.307-ED, decidiu, por maioria, que as Leis nº 8.622/93 e nº 8.627/93 concederam uma revisão geral aos servidores públicos da ordem de 28,86% (nem mais, nem menos), nos termos do inciso X do art. 37 da Carta de Outubro (redação anterior à EC 19/98). 2. A eventual concessão de índice maior esbarra na necessidade de reexaminar a dita legislação infraconstitucional, procedimento a um só tempo inócuo -- porque o Pleno já se manifestou a respeito -- e vedado em sede de recurso extraordinário. Daí a natureza meramente reflexa ou indireta da alegada violação ao Magno Texto. 3. Precedente: RE 419.075, 1ª Turma, Relator Ministro Marco Aurélio. Agravo regimental desprovido”. (grifo nosso)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
