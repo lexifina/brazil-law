@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. ISS. SERVIÇO DE CONSERVAÇÃO DE REDE DE ENERGIA ELÉTRICA. PEDIDO DECLARATÓRIO DE NÃO-INCIDÊNCIA POR NÃO CONSTAR EXPLICITAMENE NA LISTA. DESCABIMENTO. 1. O princípio numerus clausus da Lista Anexa à LC 116/03, não quer dizer que o serviço deve constar explicitamente no sub-item quando é usada a locução e congêneres. Quando usada esta expressão, utilizada, os serviços nominados no sub-item são apenas espécies do gênero indicado no item. Assim, quando o sub-item 7.05 refere Reparação, conservação e reforma de edifício, estradas, pontes, portos e congêneres, não quer dizer que apenas os citados estão sujeitos ao ISS, e sim que os citados são exemplos do gênero serviços de conservação, no qual se incluem todas as espécies, inclusive os de conservação de rede de energia elétrica. Dentro do gênero, a interpretação não é restrita, e sim ampla. O fato de não constar especificamente conservação de rede de energia elétrica, não exclui a incidência de ISS, tendo em conta o complemento e congêneres; logo, importa é que se trata de serviço de conservação. 2. Apelação provida.”
+    Sustenta-se, em síntese, a violação do arts. 5º, II, 37, caput, 146, e 155, § 3º, da Constituição.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 155, § 3º, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Quanto à alegação de afronta aos arts. 5º, II, 37, caput, e 146, da Carta Magna, o seu exame demanda necessariamente a análise de legislação infraconstitucional (Lei Complementar 116/03). Dessa forma, qualquer ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+    Inclusive, a Súmula nº 636 do Supremo Tribunal Federal dispõe literalmente:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
