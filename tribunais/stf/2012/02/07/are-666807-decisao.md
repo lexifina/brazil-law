@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (fl. 180):
+    “ADMINISTRATIVO – APELAÇÃO CÍVEL/REEXAME NECESSÁRIO – AÇÃO CIVIL PÚBLICA – ADMINISTRAÇÃO PÚBLICA MUNICIPAL – FISCALIZAÇÃO DE OCUPAÇÃO DE CALÇADAS – INGERÊNCIA DO PODER JUDICIÁRIO SOBRE ATRIBUIÇÕES DO PODER EXECUTIVO – IMPROCEDÊNCIA DO PEDIDO - HONORÁRIOS ADVOCATÍCIOS – CONDENAÇÃO DO ESTADO – DESCABIMENTO – MÁ-FÉ – NÃO CONSTATAÇÃO – SENTENÇA REFORMADA “.
+    No recurso extraordinário, interposto pelo Ministério Público Estadual, com fundamento na alínea a do permissivo constitucional, alega-se, em síntese, que o acórdão recorrido viola os artigos 1º, III, 2º e 5º, inciso XXXV, da Constituição Federal. Entende o recorrente que o Poder Judiciário pode ser provocado para compelir o Poder Executivo do Município de Patrocínio/MG a fiscalizar a ocupação de suas calçadas e passeios públicos por estabelecimentos comerciais, tendo em vista que a Constituição Federal protege a ordem urbanística e o meio ambiente.
+     Sustenta, ainda, que o Tribunal a quo reconheceu a existência de prova produzida, atestada, inclusive por registro fotográfico, tendo, contudo, procedido a equívoca valoração quando deixou de reconhecer evidente omissão do Poder Público no que diz respeito à fiscalização do cumprimento da legislação pertinente (fl. 217).
+    Às fls. 235-236, o Tribunal a quo inadmitiu o presente recurso, ao fundamento de que os dispositivos constitucionais apontados como malferidos não foram objeto de discussão e debate pelo colegiado.
+    É o relatório.
+    No caso, o acórdão recorrido assenta-se em dois fundamentos autônomos e suficientes. Primeiramente, apresenta motivação de índole constitucional no sentido de que o controle da Administração Pública pelo Poder Judiciário “não alcança os atos políticos, que são controlados pelo cidadão, mediante processo eleitoral”(fl. 183) e, na sequência, fundamenta, com fulcro no acervo probatório, que há comprovação nos autos de que a municipalidade tem realizado fiscalização periódica.
+    Com efeito, o Tribunal a quo, após manifestar-se sobre a impossibilidade de ingerência do Poder Judiciário no caso concreto, acrescentou, com base em fatos e provas, a seguinte motivação (fl. 184):
+    “Ainda que assim não fosse, justo reconhecer que não se verifica a alegada omissão da administração municipal de Patrocínio na fiscalização das posturas, porquanto diversas autuações vêm sendo procedidas, notadamente em razão de indevida ocupação do espaço público destinado à circulação de pedestres (fls. 81/96-TJ)”.
+    No presente apelo extremo, o Parquet não refuta as provas colhidas às fls. 81-86. Ademais, nem poderia fazê-lo nesta via, porque é defesa, em sede de recurso extraordinário, a análise das provas colhidas nos autos, a teor da Súmula 279/STF.
+    Assim, subsistente o fundamento suficiente de natureza fático-probatória, incide no caso concreto o óbice da Súmula 283 desta Suprema Corte, segundo o qual “é inadmissível o recurso extraordinário, quando a decisão recorrida se assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
