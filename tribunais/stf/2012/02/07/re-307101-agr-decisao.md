@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo regimental contra decisão de meu antecessor, ministro Ilmar Galvão, que negou seguimento ao recurso extraordinário por entender que eventual ofensa à Magna Carta apenas ocorreria de modo reflexo ou indireto.
+    2. Os agravantes sustentam que o deslinde da controvérsia prescinde da análise da legislação ordinária.
+    3. Pois bem, após reexaminar detidamente os autos, entendo que, no particular, têm razão os agravantes. Pelo que reconsidero a decisão agravada e passo ao exame do mérito do apelo extremo.
+    4. No caso, o recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, foi manejado contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios.
+    5. Da leitura dos autos, observo que a instância judicante de origem manteve a sentença que denegou o mandado de segurança impetrado por policiais civis distritais. E o fez assentando a impossibilidade de cumulação das vantagens da Lei Distrital 851/1995 com aquelas da Lei Federal 9.264/1996, que passou a regular o mesmo tema (remuneração dos policiais civis), mas conferiu aos servidores anteriormente admitidos o direito de opção pelo antigo regime.
+    6. A seu turno, os recorrentes apontam afronta ao inciso XXXVI e caput do art. 5º, ao inciso XV do art. 37 e ao § 1º do art. 39, todos do Magno Texto.
+    7. Tenho que a insurgência não merece acolhida. Isso porque o aresto impugnado afina com a jurisprudência desta nossa Casa de Justiça, de que são exemplos os REs 289.042, da relatoria do ministro Sepúlveda Pertence; 344.450, da relatoria da ministra Ellen Gracie; 393.365, da relatoria do ministro Gilmar Mendes; e 289.320, da relatoria do ministro Moreira Alves, este último assim fundamentado:
+    “[...]
+    No mérito, inexiste a alegada afronta ao princípio da isonomia (arts. 5º, ‘caput’, e 39, §§ 1º e 2º, da Constituição), porquanto a Lei nova em causa instituiu para os servidores que recebiam sua remuneração pelo sistema da legislação anterior a opção para permanecerem neste último ou para passarem ao novo, opção essa que evidentemente não se poderia dar aos que ingressassem na carreira depois do advento do novo sistema remuneratório, sem que com isso haja quebra do princípio isonômico, até porque para o ingresso nesse novo sistema remuneratório pelos antigos servidores bastará fazer essa opção. O que não é possível é pretenderem, como pretendem, continuar a perceber sua remuneração pelo sistema antigo com a percepção de gratificações do novo sistema remuneratório, criando-se assim um terceiro sistema de remuneração para eles.
+    Ademais, não há, também, no caso, ofensa ao princípio constitucional da irredutibilidade de vencimentos, até porque se o padrão remuneratório da Lei anterior for superior ao da Lei nova, os ora agravantes não a terão sofrido porque não fizeram a opção por ele no prazo estabelecido. E não estando os recorridos obrigados a optar pelo regime novo, não há que se falar em ofensa a direito adquirido por acarretar a opção voluntária a esse regime a renúncia às parcelas aludidas no parágrafo único do art. 9º da Lei 9.264/98, sendo de observar ainda que não há direito adquirido a regime jurídico.”
+    (Sem destaques no original.)
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 07 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
