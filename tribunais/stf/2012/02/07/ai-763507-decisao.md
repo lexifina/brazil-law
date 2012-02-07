@@ -1,0 +1,11 @@
+DECISÃO : Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa possui o seguinte teor:
+    “ADMINISTRATIVO – AÇÃO ORDINÁRIA – SERVIDOR INATIVO – REVISÃO DE APOSENTADORIA – AUSÊNCIA DE PROCEDIMENTO ADMINISTRATIVO – NULIDADE DO ATO. É nulo o ato administrativo de revisão da aposentadoria do servidor público que não é precedido do devido procedimento administrativo, que assegure ao interessado o exercício do contraditório e da ampla defesa.” (Fls. 102)
+    Alega-se ofensa ao disposto nos arts. 5º, LV; e 37, caput, da Constituição Federal.
+    Este Supremo Tribunal Federal, apreciando o RE 594.296 (rel. min. Dias Toffoli), no qual fora reconhecida a repercussão geral da questão constitucional, assim decidiu:
+    “Em conclusão de julgamento, o Plenário desproveu recurso extraordinário em que questionada a legalidade de decisão administrativa por meio da qual foram cancelados 4 qüinqüênios anteriormente concedidos a servidora pública e determinada a devolução dos valores percebidos indevidamente. O ente federativo sustentava que atuara com fundamento no poder de autotutela da Administração Pública e aludia à desnecessidade, na hipótese, de abertura de qualquer procedimento, ou mesmo de concessão de prazo de defesa à interessada, de modo que, após a consumação do ato administrativo, a esta incumbiria recorrer ao Poder Judiciário v. Informativo 638. Afirmou-se que, a partir da CF/88, foi erigido à condição de garantia constitucional do cidadão, quer se encontre na posição de litigante, em processo judicial, quer seja mero interessado, o direito ao contraditório e à ampla defesa. Asseverou-se que, a partir de então, qualquer ato da Administração Pública capaz de repercutir sobre a esfera de interesses do cidadão deveria ser precedido de procedimento em que se assegurasse, ao interessado, o efetivo exercício dessas garantias.” RE 594296/MG, rel. Min. Dias Toffoli, 21.9.2011. (Informativo 641, de 28.09.2011; grifei).
+    Desse entendimento não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
