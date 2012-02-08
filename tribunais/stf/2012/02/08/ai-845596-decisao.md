@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Município de Alpinópolis interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 39, § 4º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado;
+    “EMENTA: AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. CONTRATO TEMPORÁRIO. DÉCIMO-TERCEIRO SALÁRIO. FÉRIAS. CRÉDITO DO SERVIDOR. INEXISTÊNCIA DE PROVA DE PAGAMENTO. ART. 333 II DO CPC. ÔNUS DA PROVA. HONORÁRIO. - Constitui direito de ex-servidor, ainda que contrato temporariamente com base no art. 37 IX da CR, a percepção de remuneração pelo tempo efetivamente trabalho com todos os seus consectários legais “ex vi” do art. 39 c/c o art. 7º da CR/88 reconhecidas a todo trabalhador. - Ausente a prova de pagamento das verbas reclamadas pelo servidor a dívida existe e deve ser solvida, sob pena de enriquecimento ilícito do Poder Público mediante jactância daquele. - Cabe à municipalidade a prova da quitação da obrigação resultante da efetiva prestação de serviços pelo servidor, a teor do disposto no art. 333 II do CPC”.
+    Opostos embargos de declaração (fls. 269 a 262), foram rejeitados (fls. 275 a 278).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o artigo 39, § 4º, da Constituição Federal, que dispõe sobre o pagamento de remuneração na forma de subsídios, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acórdão recorrido encontra respaldo na jurisprudência deste Supremo Tribunal Federal, no sentido de ser devida a extensão dos direitos previstos no art. 7º da Constituição Federal ao servidor contratado temporariamente, com base no art. 37, IX, da Carta da República. Anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. DIREITOS SOCIAIS. DÉCIMO TERCEIRO E TERÇO DE FÉRIAS. APLICABILIDADE A CONTRATOS TEMPORÁRIOS SUCESSIVAMENTE PRORROGADOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 649.393-AgR/MG, Primeira Turma, Rel. Min. Cármen Lúcia).
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CARGO COMISSIONADO. EXONERAÇÃO. VERBAS RESCISÓRIAS: CONSTITUCIONALIDADE. PRECEDENTE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO” (RE 548.510 ED/MG, Rel. Min. Cármen Lúcia).
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. CARGO COMISSIONADO. EXONERAÇÃO. VERBAS RESCISÓRIAS: CONSTITUCIONALIDADE. PRECEDENTE. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO” (RE 608.027/MG, Rel. Min. Cármen Lúcia).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
