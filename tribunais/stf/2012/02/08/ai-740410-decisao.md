@@ -1,0 +1,22 @@
+DECISÃO
+    Vistos.
+    Fundação SISTEL de Seguridade Social interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sétima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “AÇÃO DE COBRANÇA – previdência privada – saldo de reserva de poupança – súmula 289 do STJ.
+    Recurso provido” (fl. 133).
+    Opostos embargos de declaração (fls. 140 a 148), foram rejeitados (fls. 149 a 156).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o inciso XXXVI do artigo 5º da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, a jurisprudência desta Corte é pacífica no sentido de que a controvérsia relativa à incidência de correção monetária nos valores restituídos aos associados desligados das entidades de previdência privada está situada no plano infraconstitucional, bem como depende do exame das provas dos autos e dos contratos celebrados entre as partes. Assim, a violação do texto constitucional, se houvesse, seria indireta ou reflexa, o que não enseja reexame na via do recurso extraordinário. Nesse sentido, anote-se:
+    “Agravo regimental no agravo de instrumento. Matéria restrita ao âmbito infraconstitucional. Análise de cláusulas contratuais. Precedentes. 1. Controvérsias situadas no âmbito da legislação infraconstitucional não amparam o recurso extraordinário. 2. Incabível o exame de cláusulas contratuais em sede de recurso extraordinário. Súmula nº 454/STF. 3. Agravo regimental desprovido” (AI nº 652.980/RJ-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+    “Previdência privada. Associados retirantes da Caixa de Previdência dos Funcionários do Banco do Brasil - PREVI. Recurso extraordinário: descabimento: controvérsia relativa à incidência de correção monetária decidida à luz da legislação infraconstitucional pertinente e de cláusulas contratuais: a alegada violação do dispositivo constitucional invocado, se ocorresse, seria reflexa ou indireta, que não enseja reexame em recurso extraordinário: incidência das Súmulas 636 e 454” (AI nº 624.666/RJ-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 10/8/07).
+    “Agravo regimental em agravo de instrumento. 2. Contribuições pagas por associado desligado de plano de previdência privada. Devolução. Correção monetária. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento” (AI nº 522.498/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 6/5/05).
+    Ressalte-se, por fim, que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do RE nº 582.504/RJ, Relator o Ministro Cezar Peluso, concluiu pela ausência da repercussão geral da matéria constitucional versada nesse feito. A decisão do Plenário está assim ementada:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional”.
+    Nego provimento ao agravo.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
