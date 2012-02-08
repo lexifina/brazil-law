@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Direito Administrativo. Rioprevidência. Revisão de benefício. Servidora aposentada. Gratificação por encargos especiais – SEPLAG. Aumento dado a todos os servidores da ativa no cargo de técnico previdenciário I. Pretensão de extensão do aumento da gratificação. Cabimento. Natureza genérica e remuneratória. Precedentes deste tribunal de Justiça. Aplicação do art. 557 do CPC. Agravo. Descabimento”. [...] (fl. 235).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 37, X, 61, § 1º, II, a, 84, II, 167, II, e 169 da mesma Carta.
+    O agravo não merece acolhida. Isso porque a jurisprudência desta Corte firmou-se no sentido de que a controvérsia sobre a natureza da vantagem concedida demanda o exame da legislação infraconstitucional aplicável ao caso. A afronta à Constituição, se ocorrente, seria indireta. Inviável, portanto, o recurso extraordinário.
+    Ademais, o entendimento adotado pelo Tribunal a quo está em consonância com a jurisprudência desta Corte no sentido de que, reconhecida a natureza geral de determinada gratificação, deve ela ser estendida aos servidores inativos, por força do art. 40, § 8º (redação anterior à EC 41/2003), da CF. Nesse sentido, transcrevo a ementa do AI 750.325-AgR/SE, Rel. Min. Eros Grau:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. EXTENSÃO AOS INATIVOS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A jurisprudência deste Tribunal é firme no sentido de que apenas as vantagens de caráter geral podem ser estendidas aos inativos. Precedentes. 2. A análise da natureza jurídica da parcela discutida --- se vantagem pessoal ou geral --- depende do exame da legislação infraconstitucional que disciplina a espécie. 3. Análise de legislação de direito local. Providência vedada nesta instância. Súmula 280 do STF. Agravo regimental a que se nega provimento”.
+    Nesse mesmo sentido: ARE 646.365/RJ, Rel. Min. Luiz Fux; AI 840.085/RS e AI 840.051/RS, Rel. Min. Cármen Lúcia; AI 826.898/RS, Min. Gilmar Mendes; ARE 654.492/RS e RE 647.701/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
