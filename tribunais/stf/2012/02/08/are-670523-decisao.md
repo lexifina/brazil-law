@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 205):
+    “AÇÃO ANULATÓRIA – MULTA – PROGRAMA DE SILÊNCIO URBANO.
+    I – Autora autuada pelo “Programa de Silêncio Urbano – PSIU” por funcionar além de horário definido em lei – Não preenchimento dos requisitos legais necessários para escapar do enquadramento legal – Ausência de elementos críveis que levem a entendimento contrário.
+    II – O princípio constitucional do não confisco não se reporta às sanções por atos ilícitos, pois elemento da estrutura limitativa do Estado ao poder de tributar, de natureza ôntica diversa das multas. O valor da multa, além disso, tem expressão previsão legal e se encontra razoado diante das circunstancia [sic] que envolvem esta espécie de fiscalização. Agravo retido desprovido. Recurso de apelação desprovido.”
+    No recurso extraordinário, o ora agravante alega violação do disposto nos arts. 5º, LV, 37, caput, 145 e 150, IV, todos da Constituição.
+    Consigno, inicialmente, que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a norma da Constituição federal, afirmando-se, em preliminar, que o caso possui repercussão geral, uma vez que “refletira diretamente em centenas de estabelecimentos da Capital de São Paulo, os quais sofrem pesadas multas, tal como a imposta ao Recorrente, de caráter confiscatório” (fls. 223).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    No tocante à alegação de cerceamento de defesa em razão do julgamento antecipado da lide, a Segunda Turma desta Corte, ao julgar pretensão análoga à ora formulada, fixou o seguinte entendimento:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. IMPROCEDÊNCIA. VIOLAÇÃO DE NORMAS DO CÓDIGO DE PROCESSO CIVIL. COMPETÊNCIA DO STJ EM RECURSO ESPECIAL.
+    1. O julgamento antecipado da lide, quando a questão proposta é exclusivamente de direito, não viola o princípio constitucional da ampla defesa e do contraditório. Precedente.
+    2. Esta Corte já decidiu que 'se houve julgamento antecipado da lide sem a oportunidade para produção de provas cabíveis, podia e devia o ora agravante ter interposto Recurso Especial para o Superior Tribunal de Justiça, submetendo, a seu exame, a alegação de violação a normas do Código de Processo Civil, a esse respeito. Não o tendo feito, preclusas ficaram essas questões infraconstitucionais, como as de caráter estritamente processual' (AGRAG Nº 150.179/MG, DJ de 19/12/96).
+    Agravo regimental a que se nega provimento.” (AI 203.793-AgR, rel. min. Maurício Corrêa, DJ de 19.12.1997).
+    Ademais, a análise da suposta ofensa ao art. 37, caput, demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, a Súmula 636 desta Corte que dispõe literalmente:
+    Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.
+    Por fim, verifico que o Tribunal a quo decidiu a controvérsia com base no conjunto de fatos e provas carreado aos autos. Concluir diversamente demandaria o reexame do quadro fático-probatório, circunstância vedada no estrito âmbito de cognição do recurso extraordinário. Incide a Súmula 279 desta Corte.
+    Do exposto, nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 08 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
