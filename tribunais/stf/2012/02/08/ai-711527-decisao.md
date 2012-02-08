@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário, interposto de acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiro, que, seguindo entendimento do STF, reconheceu a inconstitucionalidade da incidência do ISS sobre a locação de bens móveis, com efeitos ex tunc.
+    Sustenta-se, em síntese, a violação dos arts. 97 e 156, III, da Constituição, e, em caráter subsidiário, pede a modulação dos efeitos da declaração de inconstitucionalidade em questão, para aplicar-se a ela efeitos ex nunc.
+     Preliminarmente, em relação à alegada ofensa ao princípio da reserva de Plenário, registro o seguinte precedente da Corte:
+    “EMENTA: Controle incidente de constitucionalidade de normas: reserva de plenário (Const., art. 97): inaplicabilidade, em outros tribunais, quando já declarada pelo Supremo Tribunal, ainda que incidentemente, a inconstitucionalidade da norma questionada: precedentes.
+    1. A reserva de plenário da declaração de inconstitucionalidade de lei ou ato normativo funda-se na presunção de constitucionalidade que os protege, somado a razões de segurança jurídica.
+    2. A decisão plenária do Supremo Tribunal, declaratória de inconstitucionalidade de norma, posto que incidente, sendo pressuposto necessário e suficiente a que o Senado lhe confira efeitos erga omnes, elide a presunção de sua constitucionalidade: a partir daí, podem os órgãos parciais dos outros tribunais acolhê-la para fundar a decisão de casos concretos ulteriores, prescindindo de submeter a questão de constitucionalidade ao seu próprio plenário.” (RE 191.905, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 29.08.1997).
+    No mesmo sentido, decidiu a Segunda Turma, ao julgar o AI 168.149-AgR, rel. min. Marco Aurélio, DJ de 04.08.1995.
+    Em relação à questão de fundo, o Pleno do Supremo Tribunal Federal, por ocasião do julgamento do RE 116.121 (rel. para o acórdão min. Marco Aurélio, DJ 25.05.2001), considerou inconstitucional a incidência do Imposto sobre Serviços-ISS sobre os contratos de locação de bens móveis. Assim ficou redigida a ementa do acórdão:
+    “FIGURINO CONSTITUCIONAL. A supremacia da Carta Federal é conducente a glosar-se a cobrança de tributo discrepante daqueles nela previstos.
+    IMPOSTO SOBRE SERVIÇOS - CONTRATO DE LOCAÇÃO. A terminologia constitucional do Imposto sobre Serviços revela o objeto da tributação. Conflita com a Lei Maior dispositivo que imponha o tributo considerado contrato de locação de bem móvel. Em Direito, os institutos, as expressões e os vocábulos têm sentido próprio, descabendo confundir a locação de serviços com a de móveis, práticas diversas regidas pelo Código Civil, cujas definições são de observância inafastável - artigo 110 do Código Tributário Nacional.”
+    No mesmo sentido são ainda as seguintes decisões: AI 485.707-AgR (rel. min. Carlos Velloso, DJ 10.12.2004) e RE 413.098–AgR (rel. min. Carlos Velloso, DJ 1º.04.2005).
+    A impossibilidade da incidência do ISS culminou com a adoção da Súmula Vinculante 31.
+    Dessa orientação não divergiu o acórdão recorrido.
+    No tocante ao pedido subsidiário, evidentemente, a possibilidade que o sistema jurídico confere ao Supremo Tribunal Federal para modular no tempo os efeitos da declaração de inconstitucionalidade e a destinação do produto da arrecadação ao exercício de atividades estatais não podem redundar na imunização do Estado ao dever de zelar pela validade das normas jurídicas que cria, favorecendo, assim, a especulação legal.
+    Observo que a questão suscitada pelo recorrente já foi enfrentada pela Segunda Turma do Supremo Tribunal Federal. Com efeito, por ocasião do julgamento do RE 364.304-AgR (rel. min. Gilmar Mendes, DJ de 06.11.2006), a Segunda Turma ponderou, nas palavras do eminente ministro-relator, não haver “indicação objetiva de repercussão financeira eventualmente sofrida pela municipalidade.
+    Nesse sentido, confira-se, ainda, o RE 490.277-AgR, (rel. min. Gilmar Mendes, Segunda Turma, DJ de 28.03.2008), cuja ementa transcrevo:
+    “Agravo regimental em recurso extraordinário. 2. Tributário. ISS. Incidência sobre locação de bens móveis. Impossibilidade. Precedentes. 3. Declaração de efeitos meramente prospectivos. Ausência de risco à segurança jurídica ou excepcional interesse social. 4. Agravo regimental a que se nega provimento.”
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
