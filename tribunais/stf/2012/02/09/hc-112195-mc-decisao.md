@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União em favor de Cristian Gomes dos Santos, contra decisão proferida pelo Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), relator do HC n. 227.223/SP, do Superior Tribunal de Justiça.
+    Conforme consta dos autos, o paciente foi condenado à pena de 1 ano e 8 meses de reclusão, em regime inicial fechado, bem como ao pagamento de multa, pela prática do delito tipificado no art. 33, caput, e § 4º, da Lei 11.343/2006, negado o benefício da substituição da pena privativa de liberdade por restritiva de direitos.
+    Inconformada, a defesa interpôs apelação. A 11ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso.
+    Contra essa decisão a defesa interpôs recurso especial, que não foi admitido, dando ensejo à interposição de agravo de instrumento, que não foi conhecido.
+    Foi interposto agravo regimental, pendente de julgamento.
+    Impetrou-se, então, o HC n. 227.223/SP, com pedido de medida liminar, perante o Superior Tribunal de Justiça.
+    O Ministro Vasco Della Giustina (Desembargador Convocado do TJ/RS) indeferiu o pedido de medida liminar.
+    Daí o presente habeas impetrado perante esta Corte.
+    Neste writ, a defesa reitera os fundamentos submetidos a exame do Superior Tribunal de Justiça, para requerer, inclusive liminarmente, seja garantido ao paciente o direito ao cumprimento da pena em regime aberto, bem como a substituição da pena privativa de liberdade por restritivas de direitos.
+    Passo a decidir.
+    Em princípio, a jurisprudência desta Corte é no sentido da inadmissibilidade da impetração de habeas corpus, nas causas de sua competência originária, contra decisão denegatória de liminar em ação de idêntica natureza articulada perante tribunal superior, antes do julgamento definitivo do writ (cf. HC-QO n. 76.347/MS, Min. Moreira Alves, 1ª Turma, unânime, DJ 8.5.1998; HC n. 79.238/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 6.8.1999; HC n. 79.776/RS, Min. Moreira Alves, 1ª Turma, unânime, DJ 3.3.2000; HC n. 79.775/AP, Min. Maurício Corrêa, 2ª Turma, maioria, DJ 17.3.2000; HC n. 79.748/RJ, Min. Celso de Mello, 2ª Turma, maioria, DJ 23.6.2000; HC n. 101.275/SP, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJe 5.3.2010; e HC n. 103.195, Min. Cezar Peluso, 2ª Turma, unânime, DJe 23.4.2010).
+    Esse entendimento está representado na Súmula n. 691/STF; eis o teor: Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar .
+    É bem verdade que o rigor na aplicação da Súmula n. 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC n. 84.014/MG, Min. Marco Aurélio, 1ª Turma, unânime, DJ 25.6.2004; HC n. 85.185/SP, Min. Cezar Peluso, Pleno, por maioria, DJ 1º.9.2006; e HC n. 90.387, da minha relatoria, 2ª Turma, unânime, DJ 28.9.2007).
+    Na hipótese dos autos, à primeira vista, entendo caracterizada situação ensejadora do afastamento da incidência da Súmula n. 691/STF.
+    Em sessão realizada em 1º.9.2010, o Plenário desta Suprema Corte, ao analisar o HC n. 97.256/RS, de relatoria do Min. Ayres Britto, por maioria, declarou, incidenter tantum, a inconstitucionalidade da expressão vedada a conversão em penas restritivas de direitos , constante do § 4º do art. 33 da Lei n. 11.343/2006, bem como da expressão vedada a conversão de suas penas em restritivas de direitos, contida no referido art. 44 do mesmo diploma legal.
+    Ante o exposto, defiro parcialmente o pedido de medida liminar, a fim de determinar ao Juízo da 2ª Vara Criminal da Comarca de Marília/SP o exame, no caso, da possibilidade de substituição da pena reclusiva por restritiva de direitos, nos termos do julgado do Plenário nos autos do HC 97.256.
+    Publique-se.
+    Brasília, 9 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
