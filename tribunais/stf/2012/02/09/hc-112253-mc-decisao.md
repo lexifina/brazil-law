@@ -1,0 +1,11 @@
+Decisão: Vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, em que se alega demora no julgamento do HC 200.415/STJ. E o que diz o acionante? Fala que:
+    “na data de 21/03/2011 foi protocolizada ordem de habeas corpus perante o STJ, no qual consta a Min. Laurita Vaz como relatora pelo mesmo motivo [demora no julgamento do recurso defensivo pelo TJ-SP], ou seja, o excesso de prazo para julgamento do mesmo processo no TJ, e até a presente data não se tem nenhuma decisão quanto à ilegalidade sofrida pela paciente, conforme se denota pelo documento impresso pela internet, onde já se passaram mais de 300 dias sem nenhuma decisão sobre a ilegalidade e o constrangimento no qual a paciente vem sofrendo, afrontando, mais uma vez, o Princípio Constitucional.” (sic, fls. 04/05)
+     2. Nessa contextura, o acionante postula, de logo, a imediata soltura da paciente para que ela aguarde, em liberdade, o desfecho do processo-crime. No mérito, o pedido é de confirmação do provimento cautelar.
+    3. Feita esta síntese do pedido, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, não enxergo de imediato a presença dos pressupostos da medida cautelar. Até porque a análise de eventual demora no julgamento habeas corpus pela Corte Superior de Justiça competirá à Segunda Turma deste Supremo Tribunal Federal. Pelo que indefiro a liminar requestada. Solicitem-se informações à autoridade impetrada. Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 09 de fevereiro de 2012.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
