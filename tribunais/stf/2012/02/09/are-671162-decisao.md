@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. APROVAÇÃO EM CONCURSO PÚBLICO PARA O CARGO DE PROFESSOR FORA DO NÚMERO DE VAGAS OFERTADAS NO CERTAME. EXCEDENTE. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. MERA EXPECTATIVA DE DIREITO. PROCESSO SELETIVO PARA CONTRATAÇÃO TEMPORÁRIA REALIZADO CONFORME OS DITAMES LEGAIS E DENTRO DA VIGÊNCIA DO CONCURSO PARA O PREENCHIMENTO DE CARGO EFETIVO. AUSÊNCIA DE ILEGALIDADE.
+    1. A aprovação em concurso público, fora da quantidade de vagas previstas em edital, não gera direito à nomeação, mas mera expectativa de direito.
+    2. As contratações temporárias não indicam preterição quanto aos candidatos aprovados fora das vagas disponíveis, uma vez que, sendo legalmente previstas, servem apenas para suprir excepcional interesse público. Não implicam, portanto, em provimento de um cargo público, mas tão somente no exercício de certa função pública. Assim, não pode ser determinada a nomeação para um cargo público, para o qual não se demonstrou a existência de vagas.
+    3. Ausência do direito líquido e certo à nomeação.
+    4. Agravo improvido” (fl. 190).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, II e IV, da mesma Carta.
+    O agravo não merece acolhida. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Ressalte-se, ainda, que a mera menção no relatório pelo Colegiado do Tribunal de origem acerca dos dispositivos constitucionais arguidos pelo ora agravante na petição de apelação não afasta a incidência da Súmula 282 do STF. Seguindo essa linha de entendimento, confira-se:
+    “1. RECURSO PREQUESTIONAMENTO. O prequestionamento não exsurge de mera referência à matéria versada no relatório do acórdão impugnado. Diz-se prequestionado determinado tema quando o Órgão Julgador haja emitido juízo explícito a respeito de forma clara, porquanto o conhecimento do recurso não pode ficar ao sabor da capacidade intuitiva dos integrantes do Órgão, muito menos deve alicerçar-se na presunção do extraordinário – de decisão implícita contra expresso dispositivo legal” (RE 175.505-AgR/SP, Rel. Min. Marco Aurélio, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
