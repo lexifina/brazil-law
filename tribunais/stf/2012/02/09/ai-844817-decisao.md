@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+    O acórdão recorrido tem a seguinte ementa:
+    “Ementa:
+    PREVIDENCIÁRIO - CAIXA BENEFICENTE DA GUARDA CIVIL E FISCAIS DE TRÂNSITO - PENSÃO POR MORTE - BENEFÍCIO PREVIDENCIÁRIO - ART. 40, §7º, CONSTITUIÇÃO FEDERAL - AUTO-APLICABILIDADE - INTEGRALIDADE - DIREITO A DIFERENÇA RETROATIVA - JUROS DE MORA - HONORÁRIOS. A pensão oriunda da Caixa Beneficente da Guarda Civil, da qual o servidor falecido era beneficiário, passou a ter natureza previdenciária a partir da Lei Estadual nº 11.406/94, que atribuiu ao Estado a responsabilidade pelo pagamento, através da Secretaria de Estado da Fazenda. O benefício da pensão por morte deve corresponder à totalidade da remuneração do servidor falecido, conforme disposto nos §§ 3º e 7º do artigo 40 da Constituição Federal de 1988, com redação dada pela E.C. nº 20/98, não havendo que se falar na necessidade de indicação de fonte de custeio para o cumprimento do referido preceito constitucional. Os juros moratórios nas ações relativas a benefícios previdenciários incidem no percentual de 1% ao mês, dado o caráter alimentar do débito. Vencida a Fazenda Pública, os honorários devem ser fixados com moderação, consoante apreciação eqüitativa do Juiz, pelo que a verba fixada deve ser reduzida, levando-se em conta a pouca complexidade da causa, diante da reiterada Jurisprudência a respeito, a prescindibilidade de dilação probatória e o trâmite rápido do processo.”
+    O agravante alega que a agravada não tem direito à integralidade do valor da pensão por morte. Salienta que a pensão percebida pela viúva tem caráter assistencial.
+    Decido.
+    Destaco, inicialmente, que o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 2º; 37; 195, § 5º e 201, versa questões constitucionais não ventiladas na decisão recorrida. Ao inovar nos autos, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356.
+    O tema debatido nos autos está adstrito à interpretação de direito local, o que inviabiliza a abertura da via extraordinária, ante o óbice contido na Súmula 280. Nesse sentido: AI 533.409-AgR (rel. min. Carlos Britto, DJ de 17.11.2006); AI 603.030-AgR (rel. min. Sepúlveda Pertence, DJ de 13.04.2007) e RE 547.277-AgR (rel. min. Eros Grau, DJ de 12.09.2008).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 09 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
