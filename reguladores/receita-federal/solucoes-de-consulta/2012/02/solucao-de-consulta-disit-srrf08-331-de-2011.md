@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 331, de 20 de dezembro de 2011
+Assunto: Imposto sobre a Importação - II Zona Franca de Manaus. Saída de Peças Importadas. As peças de reposição de procedência estrangeira destinadas a reposição e conserto de motores sujeitam-se, na saída da Zona Franca de Manaus para outros pontos do território nacional, ao pagamento dos impostos suspensos na importação, conforme disposto na legislação vigente. Dispositivos Legais: Lei nº 5.172, de 1966 (CTN), art. 111, inciso II e Decreto nº 6.759, de 2009, art. 509 (RA/2009).
+[arquivo anexo: SC SRRF08-Disit nº 331-2011.pdf]
