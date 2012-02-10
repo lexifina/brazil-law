@@ -1,0 +1,15 @@
+DECISÃO
+HABEAS CORPUS – LIMINAR – APELAÇÃO – CRIVO DO ÓRGÃO NATURAL – SUSPENSÃO – INDEFERIMENTO.
+    1. A Assessoria prestou as seguintes informações:
+    Requer-se, neste habeas, a declaração de incompetência da Justiça Militar para processar e julgar os pacientes. Foram eles denunciados pela prática do crime previsto no artigo 311, cabeça, do Código Penal Militar (falsificação de documentos), porque, com a finalidade de ludibriar o Departamento de Trânsito – DETRAN e se verem dispensados do pagamento de algumas taxas, “criaram diversas atas de reuniões nas quais uma fictícia comissão atestava a realização de cursos de legislação, de prática de direção veicular e de aprovação do pretendente à CNH em, ‘Exame de Aptidão de conduta de Automóvel e Adaptação à Direção de Viatura Militar”. O paciente Sandro Zimmermann também foi denunciado por uso de documento falso (artigo 315 do Código Penal Militar), pois apresentou essas atas ao DETRAN com a consciência de que eram falsificadas. Todos os pacientes, à época dos fatos, eram militares.
+    Proferida sentença condenatória pela Auditoria da 3ª Circunscrição Judiciária Militar, na Ação Penal nº 0000013-97.2006.7.03.0103-RS, os pacientes interpuseram recursos de apelação para o Superior Tribunal Militar, que se encontram pendentes de julgamento naquele Tribunal.
+    Conforme alega a impetrante, a conduta dos pacientes não se amolda aos tipos capitulados na denúncia, mas no delito previsto no artigo 171 do Código Penal. Afirma que, segundo descrito na peça acusatória, o propósito dos pacientes era obter vantagem ilícita mediante a indução do DETRAN a erro. Defende ter a falsificação das aludidas atas de reunião constituído apenas meio para a prática de estelionato contra entidade da Administração Civil. Assevera a incompetência da Justiça Militar e menciona, entre os precedentes citados, decisão liminar proferida por Vossa Excelência no Habeas Corpus   n° 110.038/BA.
+    Em âmbito liminar, requer a suspensão do processo em trâmite no Superior Tribunal Militar e dos efeitos da sentença condenatória. No mérito, busca a declaração de nulidade da ação penal militar e o declínio da competência em favor da Justiça comum.
+    Há, no processo, notícia de que o julgamento das apelações interpostas está agendado para 14 de fevereiro de 2012.
+    2. Observem a organicidade do Direito, especialmente do instrumental. Observem a grandeza do habeas corpus, reservando-o a situações em que haja risco à liberdade de ir e vir. Observem que a atuação do relator como porta-voz do Colegiado é sempre exceção, cabendo ao órgão a que integrado julgar a impetração. O pedido formulado para obstaculizar, no campo precário e efêmero da medida acauteladora, a sequência, no Superior Tribunal Militar, do recurso por excelência, que é a apelação, não se coaduna com a ordem natural do processo.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 10 de fevereiro de 2012, às 14h50.
+Ministro MARCO AURÉLIO
+Relator
