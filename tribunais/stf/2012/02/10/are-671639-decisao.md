@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. PREQUESTIONAMENTO NÃO DEMONSTRADO. SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra julgado da Segunda Turma Recursal da Seção Judiciária de Santa Catarina, que manteve sentença de primeira instância que indeferira pedido de concessão de aposentadoria por idade de trabalhador rural, por julgar não estarem preenchidos os requisitos legais exigidos.
+    3. O Recorrente alega que teriam sido contrariados os arts. 1º, inc. III, e 7º, inc. IV, da Constituição da República.
+    Afirma que “foi negado ao recorrente o reconhecimento do seu labor rural, sob alegação de inexistência de elementos materiais. Ora Excelências, o próprio labor rural é pautado por sua característica marcante que é a informalidade, o contrato tácito. Com o advento da Constituição Federal que traz uma série de garantias aos trabalhadores rurais, juntamente com a evolução da legislação, bem como da jurisprudência sobre o tema, é inegável, no caso concreto, o reconhecimento do labor rural” (fl. 251).
+    4. O recurso extraordinário foi inadmitido pela Presidente da Segunda Turma Recursal sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 304-305).
+    5. No agravo interposto, o Agravante reitera os argumentos do recurso extraordinário.
+    Examinados os elementos havidos nos autos, DECIDO.
+    6. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    7. Inicialmente, cumpre considerar se teria sido atendida a exigência de prequestionamento do dispositivos constitucionais supostamente contrariados.
+    Tem-se cumprido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente.
+    Na espécie vertente, o Agravante alegou contrariedade aos arts. 1º, inc. III, e 7º, inc. IV, da Constituição apenas no recurso extraordinário. A Turma Recursal a quo não se manifestou sobre a alegada inconstitucionalidade até mesmo por não ter sido instada a fazê-lo, pois não foram opostos embargos de declaração. Portanto, está ausente o requisito do prequestionamento, indispensável ao conhecimento do recurso extraordinário. Incidem na espécie as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Confiram-se, a propósito, os seguintes julgados:
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apóia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o 'prequestionamento implícito' da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE 353.514-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 1º.10.2010).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foi objeto dos embargos de declaração opostos, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 595.297-AgR, de minha relatoria, Primeira Turma, DJe 26.6.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
