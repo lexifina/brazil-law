@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Reconsidero a decisão de fls. 518.
+    2. Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Rondônia. Acórdão assim ementado (fls. 354):
+    “Pressupostos de admissibilidade. Adicional de isonomia. Policiais civis. Litigância de má-fé.”
+    3. Pois bem, a parte recorrente alega afronta ao art. 2º, ao caput e incisos X e XIII do art. 37 e ao § 1º do art. 39 (na redação dada pela Emenda Constitucional 19/1998), todos da Magna Carta.
+    4. Tenho que a insurgência não merece acolhida. Isso porque a parte recorrente não se desincumbiu do dever processual de apresentar preliminar, formal e fundamentada, de repercussão geral das questões constitucionais versadas no apelo extremo. Descumpriu, portanto, a exigência de que trata o § 3º do art. 102 da Constituição Federal, incluído pela EC 45/2004 e regulamentado pelo § 2º do art. 543-A do Código de Processo Civil, na redação da Lei 11.418/2006.
+    5. Com efeito, o Plenário do Supremo Tribunal Federal, ao apreciar a Questão de Ordem no AI 664.567, sob a relatoria do ministro Sepúlveda Pertence, assentou que a exigência do requisito constitucional da repercussão geral se aplica aos recursos extraordinários interpostos contra decisões cuja intimação se deu a partir de 3 de maio de 2007, data da publicação da Emenda Regimental 21. Mais: na mesma ocasião, foi decidido que a repercussão geral passou a integrar a disciplina constitucional de todos os recursos extraordinários, inclusive criminais.
+    6. Em nova apreciação da matéria, no julgamento do RE 569.476-AgR, sob a relatoria da ministra Ellen Gracie, o mesmo Plenário dispôs que “a demonstração de que as questões constitucionais suscitadas, além de relevantes do ponto de vista econômico, político, social ou jurídico, ultrapassam os interesses subjetivos das partes, deverá ser apresentada em um tópico destacado na petição do seu recurso”. Logo, não há falar em demonstração implícita da repercussão geral.
+    7. De mais a mais, ainda que superado o óbice apontado, outro não seria o resultado.
+    8. Com efeito, a parte recorrente deixou subsistir fundamento autônomo, suficiente, por si só, à manutenção do julgado. Noutro modo de repetir a idéia: os recorrentes não se insurgiram contra a afirmação de que “a ação rescisória não serve como segunda chance ao recurso de apelação e, por esse motivo, não se presta à análise da justiça ou injustiça da decisão. Diante disso, as argumentações do Estado, relativas ao impacto na folha de pagamento, não podem ser apreciadas nesta via, além de não dizerem respeito à questão jurídica controvertida. A questão relativa à modificação das parcelas referentes à remuneração dos substituídos por meio da Lei Ordinária n. 1.041/02 igualmente não modifica o julgamento, tendo em vista ter sido posterior à edição da LC n. 125/94 ” (fls. 360). Pelo que é de se aplicar a Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. “
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
