@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Estado de Alagoas interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 173, parágrafo 1º, inciso II da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. ADMISSIBILIDADE. RECURSO DE REVISTA.
+    EXECUÇÃO. ILEGITIMIDADE PASSIVA DO ESTADO. SOCIEDADE DE ECONOMIA MISTA. RESPONSABILIDADE DO SÓCIO-MAJORITÁRIO.
+    O acórdão regional confirma a legitimidade do Estado de Alagoas para responder por obrigações trabalhistas inadimplidas por sociedade de economia mista de que o ente federativo é sócio majoritário e controlador. No caso concreto, o Regional atesta que restou comprovada a ausência de autonomia financeira da CARHP. Súmula 266/TST. Precedentes.
+    Agravo de instrumento a que se nega provimento”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por outro lado, o Tribunal de origem decidiu a controvérsia acerca da responsabilidade subsidiária do agravante quanto aos débitos trabalhistas da Companhia Alagoana de Recurso Humanos e Patrimoniais – CARHP amparado na legislação local pertinente (Lei estadual nº 6.145/00). Colhe-se do acórdão recorrido:
+    “(...)
+    Verifica-se que o Tribunal Regional, soberano na apreciação de fatos e provas, asseverou que o Estado de Alagoas é o instituidor, sócio majoritário e controlador da CARHP. Consignou, ainda, haver previsão expressa na legislação do próprio recorrente de sua responsabilidade subsidiária pelas dívidas da CARHP (art. 52 e 53 da Lei Estadual 6.145/2000). Por fim, assentou que a responsabilidade patrimonial que remanesce ao Estado de Alagoas decorre do liame que o vincula à devedora principal (CARHP)”.
+    Nesse caso, para ultrapassar o entendimento firmado pelo Tribunal de origem e acolher a pretensão do recorrente, seria necessário o reexame da referida legislação infraconstitucional local, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte.
+    Anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. 1. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE VIOLAÇÃO REFLEXA À CONSTITUIÇÃO FEDERAL. 2. ALEGAÇÃO DE OFENSA AO INCISO LV DO ART. 5º DO MAGNO TEXTO. INSUBSISTÊNCIA.
+    1. Caso em que entendimento diverso do adotado pelo Tribunal Superior do Trabalho demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância recursal extraordinária.
+    2.De mais a mais, não há falar em cerceamento de defesa, agravo regimental desprovido” (AI nº 800.163/AL-AgR, Segunda Turma, Relator o Ministro Ayres Brito, DJe de 14/12/2010).
+    Aplicando essa orientação, tem-se as seguintes decisões de Ministros desta Corte: AI nº 833.006/AL, Relatora a Ministra Cármen Lúcia, DJe de 23/2/11; AI nº 836.225/AL, Relator o Ministro Ricardo Lewandowski, DJe de 21/2/11; AI nº 832.248/AL, Relator o Ministro Joaquim Barbosa, Dje de 7/2/11; e AI nº 806.304/AL, Relatora a Ministra Cármen Lúcia, DJe de 18/8/10.
+    Nego provimento ao agravo.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
