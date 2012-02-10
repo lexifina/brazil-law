@@ -1,0 +1,13 @@
+Decisão: Neste agravo regimental, o Estado do Rio de Janeiro diz que a natureza jurisdicional do ato que é indicado como causador do dano pode ser aferida no relatório do acórdão recorrido. Não se aplicaria, portanto, a súmula 279, porque não é necessário apreciar fatos e provas para se chegar ao tema constitucional tratado no recurso.
+    De fato, não se aplicam os precedentes mencionados na decisão agravada (RE 547.428-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ 20.03.2009; RE 279.242-AgR. rel. min. Carlos Britto, Primeira Turma, DJ 29.09.2006). Naqueles precedentes, ao contrário deste processo, não estava evidente a natureza jurisdicional do ato imputado ao Estado.
+    Reconsidero a decisão de fls. 292-293.
+    Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Rio de Janeiro (TJRJ) em ação ordinária que condenou o Estado a indenizar prejuízo decorrente de ato judicial.
+    O ato causador do dano determinou o levantamento de quantia depositada pela recorrida nos autos de execução que foi posteriormente anulada desde a liquidação. A ordem de levantamento fora expedida sem observar a necessidade de caução. A recorrida não logrou sucesso em ações contra os exeqüentes e tampouco contra o juiz (art. 133, do Código de Processo Civil).
+    O recorrente alega violação ao art. 107 da Emenda Constitucional 1/69. Argumenta que o ato judicial causador do dano é ato jurisdicional. Diz que o art. 107 não era aplicável aos juízes, já que estes são agentes públicos e não meros “funcionários” (termo utilizado naquele dispositivo constitucional). Relembra que a tese da irresponsabilidade do Estado por ato jurisdicional era respaldada por esta Corte no período anterior à Constituição de 1988. Nessa linha de argumentação, indica como paradigma o acórdão proferido no RE 111.609, rel. min. Moreira Alves, Primeira Turma, RTJ 145/268 .
+    Como bem apontado, esta Corte não reconhecia a responsabilidade estatal por ato jurisdicional no período anterior à Constituição de 1988. Essa conclusão apenas foi reiterada no julgado mencionado pelo recorrente (RE 111.609), já que era o entendimento tradicional (ver RE 32.518, rel. p. acórdão min. Vilas Boas, Segunda Turma, RTJ 39/190; RE 69.568, rel. min. Luiz Gallotti, Primeira Turma, RTJ 56/273; RE 70.121, rel. p. acórdão min. Djaci Falcão, Pleno, RTJ 64/689).
+    Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso para julgar improcedente a ação, condenando a recorrida ao pagamento das custas e honorários, estes fixados em R$500,00 (quinhentos reais).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
