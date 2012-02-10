@@ -1,0 +1,14 @@
+Trata-se de Reclamação, com pedido de liminar, proposta pela União contra acórdão proferido pela Primeira Turma do Tribunal Superior do Trabalho no Processo 201300-80.2005.5.15.0006, com fundamento no artigo 102, I, l, da Constituição Federal, e no artigo 156 do RISTF.
+          O citado acórdão, em relação à alegação de incompetência da Justiça do Trabalho, decidiu da seguinte forma:
+    “INCOMPETÊNCIA ABSOLUTA. INOVAÇÃO. ARGUIÇÃO NÃO VEICULADA NAS RAZÕES DO RECURSO ORDINÁRIO. PRECLUSÃO. Constitui inovação recursal a alegação de incompetência da Justiça do Trabalho somente quando da interposição de embargos de declaração ao acórdão prolatado pela Corte regional por ocasião do julgamento do recurso ordinário. Hipótese em que caracterizada a preclusão da matéria, não se configurando a alegada violação dos artigos 109 e 144 da Constituição da República e 795, § 1º, da Consolidação das Leis do Trabalho. Recurso de revista de que não se conhece”.
+          A reclamante sustenta que o acórdão do Tribunal Superior do Trabalho teria ofendido a decisão proferida por esta Corte no julgamento da ADI 3.395-MC, Pleno, rel. Min. Cezar Peluso, DJ 10.11.2006:
+    “EMENTA: INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+       A reclamação prevista no artigo 102, I, l, da Constituição Federal é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, de desobediência à súmula vinculante ou de descumprimento de decisão desta Corte com efeito vinculante.
+          No presente caso, não verifico a ocorrência de qualquer dessas hipóteses.
+          A decisão reclamada considerou ser impossível o exame da incompetência da Justiça do Trabalho, em decorrência da preclusão. Essa possível violação do artigo 114 da Constituição Federal não fora alegada na interposição do recurso ordinário.
+          Dessa forma, o acórdão do Tribunal Superior do Trabalho não conheceu do recurso de revista por aspecto processual, não tendo havido exame em relação à competência da Justiça do Trabalho, matéria apreciada no julgamento da citada ADI.
+       Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação, restando prejudicado o exame de pedido liminar.
+          Publique-se.
+          Brasília, 10 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
