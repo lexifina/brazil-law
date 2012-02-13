@@ -1,0 +1,35 @@
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. TRIBUTÁRIO. ICMS. DERIVADOS DO PETRÓLEO. SUBSTITUIÇÃO TRIBUTÁRIA. IMUNIDADE. ART. 155, § 2º, X, B, DA CONSTITUIÇÃO FEDERAL.
+1. A imunidade tributária prevista no art. 155, § 2º, x, b, da C.F., restringe-se ao Estado de origem, não abrangendo o Estado de destino da mercadoria, onde são tributadas todas as operações que compõem o ciclo econômico por que passam os produtos, independentemente de se tratar de consumidor final ou intermediário.
+2. Acórdão hostilizado em consonância com a Jurisprudência da Corte. Precedentes.
+3. In casu, o acórdão recorrido assentou: APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. OPERAÇÃO INTERESTADUAL DE ÓLEO LUBRIFICANTE. SUBSTITUIÇÃO TRIBUTÁRIA. IMUNIDADE.
+I. A imunidade tributária assegurada às operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados (art. 155, § 2º, inc. X, b, da CF/88), não abrange as operações internas subsequentes. Precedentes do STF.
+II. Hipótese em que a lei tributária atribui responsabilidade pelo pagamento do ICMS devido nas operações subsequentes, promovidas por contribuintes deste Estado, às empresas que realizam operações interestaduais de “combustíveis, lubrificantes e outros produtos, derivados ou não do petróleo”.
+Apelação improvida.
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Cuida-se de agravo de instrumento interposto por CHEVRON BRASIL LTDA, contra decisão que não admitiu seu recurso extraordinário.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio Grande do Sul manteve a sentença de improcedência dos embargos à execução fiscal,consignando:
+    APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. ICMS. OPERAÇÃO INTERESTADUAL DE ÓLEO LUBRIFICANTE. SUBSTITUIÇÃO TRIBUTÁRIA. IMUNIDADE.
+    I. A imunidade tributária assegurada às operações que destinem a outros Estados petróleo, inclusive lubrificantes, combustíveis líquidos e gasosos dele derivados (art. 155, § 2º, inc. X, b, da CF/88), não abrange as operações internas subsequentes. Precedentes do STF.
+    II. Hipótese em que a lei tributária atribui responsabilidade pelo pagamento do ICMS devido nas operações subsequentes, promovidas por contribuintes deste Estado, às empresas que realizam operações interestaduais de “combustíveis, lubrificantes e outros produtos, derivados ou não do petróleo”.
+    Apelação improvida.
+    Opostos embargos de declaração, restaram rejeitados.
+    Irresignada com o teor do acórdão prolatado, a recorrente interpôs recurso extraordinário com fulcro no art. 102, III, a, da Constituição Federal, apontando como violado o art. 155, § 2º, x, b, da Carta Federal, sustentando, em síntese, que a operação que destina a outro Estado da Federação derivado de petróleo para fins de utilização em processo industrial, é hipótese de não incidência de ICMS.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    O acórdão impugnado ajusta-se a jurisprudência da Casa que, no julgamento do RE 198.088, Rel. Min. ILMAR GALVÃO, decidiu:
+    TRIBUTÁRIO. ICMS. LUBRIFICANTES E COMBUSTÍVEIS LÍQUIDOS E GASOSOS, DERIVADOS DO PETRÓLEO. OPERAÇÕES INTERESTADUAIS. IMUNIDADE DO ART. 155, § 2º, X, B, DA CONSTITUIÇÃO FEDERAL. Benefício fiscal que não foi instituído em prol do consumidor, mas do Estado de destino dos produtos em causa, ao qual caberá, em sua totalidade, o ICMS sobre eles incidente, desde a remessa até o consumo. Conseqüente descabimento das teses da imunidade e da inconstitucionalidade dos textos legais, com que a empresa consumidora dos produtos em causa pretendeu obviar, no caso, a exigência tributária do Estado de São Paulo. Recurso conhecido, mas desprovido.
+    No mesmo sentido, invoco os seguintes julgados:
+    SUBSTITUIÇÃO TRIBUTÁRIA. COMBUSTÍVEL E OUTROS DERIVADOS DE PETRÓLEO. LEGITIMIDADE. PRECEDENTES. A legitimidade do regime de recolhimento do ICMS por substituição tributária foi afirmada pelo Supremo Tribunal Federal, no RE 213.396, de minha relatoria. Entendimento reiterado nos REs 220.308, Relator Ministro Marco Aurélio, e 216.867, Relator Ministro Moreira Alves, entre outros. A imunidade ou hipótese de não-incidência contemplada na alínea "b" do inc. X do § 2.º do art. 155 restringe-se ao Estado de origem, não abrangendo o Estado de destino da mercadoria, onde são tributadas todas as operações que compõem o ciclo econômico por que passam os produtos, independentemente de se tratar de consumidor final ou intermediário. Entendimento adotado no julgamento do RE 198.088, de que fui relator. No mesmo sentido, o RE 227.466-AgR, Relator Ministro Sepúlveda Pertence, o RE 272.127-AgR, Relatora Ministra Ellen Gracie, e o RE 201.703, Relator Ministro Moreira Alves. Agravo regimental desprovido.
+    (RE 190.992-AgR, Rel. Min. ILMAR GALVÃO, Primeira Turma, DJ 19.12.2002)
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. LUBRIFICANTES E COMBUSTÍVEIS LÍQUIDOS E GASOSOS, DERIVADOS DO PETRÓLEO. OPERAÇÕES INTERESTADUAIS. IMUNIDADE DO ARTIGO 155, § 2º, X, B, DA CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.
+    (AI 749.431-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 9.10.2009)
+    ICMS: incidência, no Estado de destino, na venda de petróleo e derivados por distribuidora situada numa unidade da Federação para consumidor final localizado noutra (RE 198.088, Pl., 17.05.00); exigência de lei estadual a respeito não prequestionada.
+    (RE 227.466-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 10.9.2002)
+    ICMS. Operações interestaduais. Artigo 155, § 2º, X, "b", da Constituição. - O Plenário desta Corte, ao julgar o RE 198.088, assim decidiu: "TRIBUTÁRIO. ICMS. LUBRIFICANTES E COMBUSTÍVEIS LÍQUIDOS E GASOSOS, DERIVADOS DO PETRÓLEO. OPERAÇÕES INTERESTADUAIS. IMUNIDADE DO ART. 155, § 2º, X, B, DA CONSTITUIÇÃO FEDERAL. Benefício fiscal que não foi instituído em prol do consumidor, mas do Estado de destino dos produtos em causa, ao qual caberá, em sua totalidade, o ICMS sobre eles incidente, desde a remessa até o consumo. Conseqüente descabimento das teses da imunidade e da inconstitucionalidade dos textos legais, com que a empresa consumidora dos produtos em causa pretendeu obviar, no caso, a exigência tributária do Estado de São Paulo. Recurso conhecido, mas desprovido." - Dessa orientação divergiu o acórdão recorrido. Recurso extraordinário conhecido e provido.
+    (RE 201.703, Rel. Min. MOREIRA ALVES, Primeira Turma, DJ 14.12.2001)
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 21, § 1º, do RISTF. .
+    Publique-se. Int..
+    Brasília, 13 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
