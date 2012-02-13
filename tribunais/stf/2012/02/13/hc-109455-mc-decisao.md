@@ -1,0 +1,37 @@
+Execução penal. Habeas corpus. Receptação e uso de documento falso (CP, arts. 180 e 304). Pena privativa de liberdade reduzida a patamar compatível com a substituição por outra restritiva de direitos e com o regime aberto. Consequências do crime: significativos prejuízos suportados pelas vítimas. Circunstância judicial tida como parâmetro para a imposição de regime mais severo e para a não conversão da pena privativa de liberdade em restritiva de direitos (CP, arts. 33, § 3º, e 44, III). Ausência do fumus boni iuris. Liminar indeferida.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    HABEAS CORPUS. PENAL. RECEPTAÇÃO E USO DE DOCUMENTO FALSO. PLEITO DE ABSOLVIÇÃO. REAPRECIAÇÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. DOSIMETRIA. EXACERBAÇÃO DA PENA-BASE. INIDONEIDADE DA FUNDAMENTAÇÃO JUDICIAL APRESENTADA PARA JUSTIFICAR A AVALIAÇÃO NEGATIVA DA CULPABILIDADE DO AGENTE. REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA.
+    1. A apreciação da tese de inocência do Paciente demanda, inevitavelmente, o reexame da matéria fático-probatória, o qual, como é sabido, não se coaduna com a via estreita do writ. Precedentes.
+    2. O julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, para aplicar, de forma justa e fundamentada, a reprimenda que seja necessária e suficiente para reprovação do crime.
+    3. Quanto à culpabilidade, verifica-se, da simples leitura da sentença condenatória, que a fundamentação apresentada pelo julgador – a de que a prática do crime constitui incentivo à criminalidade – não se mostra apta a ensejar a exasperação da reprimenda, por tratar-se de consideração vaga, genérica, sem fundamentação objetiva.
+    4. Em relação às consequências do crime, não se verifica a arguida falta de fundamentação do acréscimo da pena-base, na medida em que a sentença apontou elementos concretos circundantes da conduta criminosa que notoriamente extrapolam aqueles normais à espécie, tendo em vista o elevado prejuízo suportado pelas vítimas.
+    5. Fixada a pena-base acima do mínimo legal, porque considerada, no caso concreto, circunstância judicial desfavorável ao réu, tem-se por justificada a fixação de regime prisional semiaberto, a teor do disposto no art. 33, §§ 2º e 3º, c.c o art. 59, ambos do Código Penal.
+    6. Não há como se conceder o benefício da substituição da pena privativa de liberdade por penas restritivas de direitos, à luz do disposto no art. 44, inciso III, do Código Penal. Precedente.
+    7. Habeas corpus conhecido em parte e, nessa extensão, concedida parcialmente a ordem para, mantida a condenação, reformar a sentença de primeiro grau e o acórdão impugnados, no tocante à dosimetria da pena, a fim de reduzir a reprimenda do Paciente para 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, mais 46 dias-multa.
+    O paciente foi condenado, em 12 de dezembro de 2006, a 2 (dois) anos e 15 (quinze) dias de reclusão, pelo crime de receptação (CP, art. 180), e a 3 (três) anos, 2 (dois) meses e 15 (quinze) dias de reclusão, pelo delito de uso de documento falso (CP, art. 304), em concurso material (CP, art. 69) totalizando 5 (cinco) anos e 3 (três) meses de reclusão, em regime semiaberto.
+    O Tribunal de Justiça do Distrito Federal proveu, parcialmente, o recurso de apelação do paciente para reconhecer a atenuante da confissão espontânea e, consequentemente, reduzir a pena para 4 (quatro) anos, 11 (onze) meses e 15 (quinze) dias de reclusão.
+    Inconformada, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, impugnando a dosimetria da pena e requerendo a absolvição, por falta de provas.
+    O writ restou deferido, parcialmente, para afastar a circunstância judicial atinente à culpabilidade, porquanto lastreada em afirmações vagas e genéricas, e reduzir a pena para 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, mantido o regime semiaberto e a vedação à substituição da pena privativa de liberdade por restritiva de direitos.
+    De acordo com informações obtidas no sítio eletrônico do Tribunal de Justiça do Distrito Federal, o Juiz da Oitava Vara Criminal do Distrito Federal extinguiu a punibilidade em relação ao crime de receptação (CP, art. 180), pela ocorrência da prescrição da pretensão executória, remanescendo a execução da pena de 2 (dois) anos e 2 (dois) meses de reclusão relativa ao delito de uso de documento falso (CP, art. 304).
+    O impetrante alega, em causa própria, que tendo o Superior Tribunal de Justiça reduzido a pena à quantidade inferior a 4 (quatro) anos de reclusão, exsurge o direito ao regime aberto e à substituição da pena privativa de liberdade por outra restritiva de direitos, sendo certo que o paciente é primário, possui bons antecedentes e conta com quase 70 (setenta) anos de idade.
+    Sustenta que as consequências do crime, consistente nos prejuízos experimentados pelas vítimas, estão atreladas ao delito de receptação e, portanto, não guardam qualquer relação com o crime de uso de documento falso, que, por essa razão, deve ter a pena redimensionada para o mínimo legal.
+    Requer “a concessão de liminar para determinar a suspensão da execução penal até o deslinde desta impetração, o deferimento da substituição de pena e a alteração do regime de cumprimento da pena para o aberto”. Pleiteia, ainda, “a redução da pena-base para o crime de uso de documento falso para o mínimo legal”.
+    É o relatório.
+    DECIDO.
+    Ab initio, registro que o impetrante foi preso em 26 de janeiro de 2012, por efeito da execução da pena.
+    Em que pese as reduções operadas pelo Tribunal de Justiça do Distrito Federal e pelo Superior Tribunal de Justiça resultarem em quantidade de pena privativa de liberdade compatível com a substituição por restritiva de direitos (CP, art. 44, I) e com a fixação do regime aberto (CP, art. 33, § 2º, c), a circunstância judicial atinente às consequências do crime, consistentes no significativo prejuízo suportado pelas vítimas, que não foram ressarcidas, indicam, prima facie, a não recomendação de regime de cumprimento mais benéfico do que o fixado na sentença e nem a substituição da pena privativa de liberdade por restritiva de direitos.
+    Deveras, o § 3º do art. 33 e o art. 44, III, do Código Penal, preveem como parâmetro, para a fixação do regime prisional e para a substituição da pena, não somente a quantidade da pena, mas, também, a análise das circunstâncias judiciais arroladas no art. 59, verbis:
+    “Art. 33 (omissis)
+    § 3º A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+    Art. 44. As penas restritivas de direito são autônomas e substituem as privativas de liberdade, quando:
+    …
+    III – a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias judiciais indicarem que essa substituição seja suficiente.”
+    Ex positis, não tendo por caracterizado o fumus boni iuris, INDEFIRO a liminar.
+    Comunique-se.
+    Requisitem-se informações ao Juízo da 8ª Vara Criminal do Distrito Federal e ao Juízo da Vara de Execuções Penais de Brasília, remetendo-se-lhes cópia da inicial e desta decisão.
+    Após, dê-se vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 13 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
