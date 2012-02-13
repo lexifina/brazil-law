@@ -1,0 +1,10 @@
+RECURSO EXTRAORDINÁRIO. POSSIBILIDADE DE CONCESSÃO DE ESPÉCIE REMUNERATÓRIA A DETENTOR DE MANDATO ELETIVO REMUNERADO POR SUBSÍDIO. REPERCUSSÃO GERAL RECONHECIDA. TEMA nº 484 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos. Trata-se do Tema n.º 484 da Gestão por Temas da Repercussão Geral, submetido à apreciação do Pleno nos autos do RE nº 650.898/RS, Relator o Ministro Marco Aurélio, “em que se discutem, à luz dos artigos 7º, VIII e XVII, 29, V, e 39, §§ 3º e 4º, da Constituição Federal, a possibilidade, ou não, de órgão especial do tribunal de justiça analisar, em sede de controle concentrado, a constitucionalidade lei municipal contestada em face da Constituição Federal, bem assim a possibilidade, ou não, de concessão de terço constitucional de férias, gratificação natalina e verba de representação a detentores de mandato eletivo que percebem subsídio”, e que se encontra pendente de julgamento.
+    In casu, o acórdão recorrido assentou:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – LEI MUNICIPAL – 13º SALÁRIO – OCUPANTES DE CARGOS ELETIVOS – PREVISÃO EM LEI MUNICIPAL – AUSÊNCIA DE EXPRESSA VEDAÇÃO CONSTITUCIONAL – VERBA QUE NÃO SE CONFUNDE COM AS DESCRITAS NO ART. 39, § 4º DA CF RECEPCIONADO PELO ART. 165, § 1º DA CARTA ESTADUAL – IMPROCEDÊNCIA DA REPRESENTAÇÃO” (fl. 96).
+    Destarte, aplicando a decisão Plenária no RE n. 579.431, secundada, a posteriori pelo AI nº 503.064-AgR-AgR, Relator o Ministro CELSO DE MELLO; AI nº 811.626-AgR-AgR, Relator o Ministro RICARDO LEWANDOWSKI, e RE nº 513.473-ED, Relator o Ministro CEZAR PELUSO, determino a devolução dos autos ao Tribunal de origem (artigo 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
