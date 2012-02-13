@@ -1,0 +1,19 @@
+DECISÃO:
+    Vistos.
+    O Instituto Nacional de Seguro Social – INSS interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos XXXV, XXXVI, LIV, e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “PREVIDENCIÁRIO. MANDADO DE SEGURANÇA. REVISÃO ADMINISTRATIVA DE BENEFÍCIO. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. DECADÊNCIA. APOSENTADORIA. EX-COMBATENTE. APLICAÇÃO DA NORMA VIGENTE À ÉPOCA DA CONCESSÃO. REAJUSTAMENTOS CONFORME A LEI 5.698/71. IMPOSSIBILIDADE.
+    1. Rejeitada a preliminar de ilegitimidade passiva. 2. O prazo decadencial estipulado pela Lei 9.784/99 só passou a viger para os benefícios concedidos após sua edição, não reabrindo prazos para a Autarquia revisar benefícios concedidos anteriormente, no caso, há mais de 25 anos. A meu juízo, o decurso desse tempo, por si só, aliado a boa-fé da pensionista que tem mais de 70 anos de idade, já seriam suficientes para o reconhecimento do instituto da decadência do direito de revisão por parte da Administração. 3. A aposentadoria de ex-combatente rege-se pela legislação vigente ao tempo em que preenchidos os requisitos necessários à sua obtenção, é dizer, concedido o benefício na vigência da Lei 4.297/63 – portanto anteriormente à Lei 5.698/71 – em observância ao princípio tempus regit actum, aquela norma regerá também os reajustamentos devidos ao amparo, ainda que daí resulte renda mensal superior ao teto estabelecido pelo RGPS”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que para ultrapassar o entendimento do Tribunal de origem, seria necessário o reexame da legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário. Portanto, a alegada violação aos dispositivos constitucionais, se ocorresse, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSÃO ESPECIAL DE EX-COMBATENTE. MATÉRIA DE ORDEM INFRACONSTITUCIONAL. 1. A questão tratada nos autos diz respeito à aplicação da lei 4.297/63 e do Decreto 2.172/97, de índole infraconstitucional, não autorizando a apreciação por esta Corte. Precedentes. 2. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos. 3. Agravo regimental improvido” (RE nº 368.433/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 6/8/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EX-COMBATENTE. TETO DE REMUNERAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 372.711/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 12/3/09).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
