@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão da Primeira Turma Cível e Criminal dos Juizados Especiais do Estado da Bahia.
+    2. Da leitura dos autos, observo que o colegiado de origem, ao apreciar processo em que se discute cláusula de contrato bancário, reformou a sentença de primeiro grau para fixar a taxa de juros moratórios em 2% (dois por cento) ao mês. Manteve-a, contudo, no ponto em que proibiu a capitalização de juros, ainda que expressamente convencionada.
+    3. Pois bem, a parte recorrente alega violação aos incisos XXXV, XXXVI e LIV do art. 5º da Constituição Federal. Afirma que a instância judicante de origem, embora provocada, não se pronunciou sobre a questão da MP 2.170-36/2001, que institui a capitalização mensal de juros, nem sobre a inaplicabilidade do Código Civil Brasileiro ao caso.
+    4. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral da República Francisco Adalberto Nóbrega, opina pelo não-conhecimento do apelo extremo.
+    5. De saída, anoto que a aplicação, ou não, do novo Código Civil Brasileiro ao caso não extrapola os limites do âmbito infraconstitucional. Logo, ofensa à Constituição Federal, se existente, ocorreria de modo reflexo ou indireto, o que impede, no ponto, a abertura da via extraordinária.
+    6. Por outro lado, anoto que o Supremo Tribunal Federal concluiu pela presença de repercussão geral na matéria envolvendo a constitucionalidade da capitalização mensal dos juros, nos termos da Medida Provisória 2.170-36 (RE 568.396, substituído pelo RE 592.377, ambos da relatoria do ministro Marco Aurélio). Esta nossa Casa de Justiça assentou ainda que, em casos como o presente, o regime de que trata o art. 543-B do Código de Processo Civil é aplicável inclusive aos recursos extraordinários interpostos contra acórdãos cuja intimação houver ocorrido antes de 03/05/2007 (Questão de Ordem no RE 540.410, da relatoria do ministro Cezar Peluso).
+    Ante o exposto, e frente ao caput do art. 557 do CPC, nego seguimento ao recurso extraordinário no tocante à taxa de juros remuneratórios. Quanto ao mais, em obediência ao parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do CPC.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
