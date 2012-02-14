@@ -1,0 +1,55 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Evaldo Fernandes Campos e outros, em favor de José Fernando Barreto Muniz, buscando seja anulada a sentença de pronúncia proferida em desfavor do paciente.
+    Apontam como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 214.792/SE, impetrado àquela Corte, Relator o Ministro Gilson Dipp.
+    Sustentam os impetrantes, em síntese, que o constrangimento ilegal imposto ao paciente decorre da decisão que o pronunciou como incurso nas sanções do art. 121, § 2º, inc. II; art. 121, § 2º, incs. II e IV, c/c art. 14, inc. II; art. 129, caput, e art. 331, combinados com os arts. 29 e 69, todos do Código Penal. Aduzem, para tanto, que o juízo de piso não teria demonstrado de forma fundamentada os motivos ensejadores da sua pronúncia, violando, portanto, o que dispõe o art. 93, inc. IX, da Carta da República.
+    Asseveram, ainda, que o Tribunal de Justiça do Estado de Sergipe, quando da análise do recurso em sentido estrito, teria se utilizado de linguagem excessiva, restando demonstrada a sua intenção de suprir as alegadas lacunas da sentença de pronúncia impugnada.
+    Assentam também a presença de periculum in mora, tendo em vista que o julgamento do paciente pelo Tribunal do Júri está designado para o dia 24/2/12.
+    Requerem, ao final, o deferimento da liminar para suspender a “sessão plenária de julgamento do Paciente pelo Tribunal do Júri Popular, já designada para o dia 24/02/2012, às 08 horas” (fl. 26 da inicial). No mérito, pedem a concessão da ordem “para que sejam anuladas a decisão confirmatória da pronúncia pelo STJ e a própria pronúncia afim de que outra seja prolatada (...)” (fl. 27 da inicial – grifos no original).
+    Examinados os autos, decido.
+    Narram os impetrantes, na inicial, que:
+    “(...) que o paciente em companhia do Sr. EDÊNIO SOUZA PAIXÃO, na madrugada do dia 16 de julho de 1992, produziu lesões corporais em face de JOSÉ OLAVO DOS SANTOS ROLLEMBERG, JOSÉ JOAQUIM NETO e EMÍLIO SANTANTA, sendo-lhes imputadas as figuras delitivas descritas nos artigos 121,§ 2º, incisos II e IV c/c art. 14, inciso II contra duas vítimas; art. 129 caput e arts. 307 e 331 todos do Código Penal Pátrio.
+    Ocorre que, o paciente fora pronunciado (fls. 290/291), diga-se de passagem, com decisão eivada de vício, enquanto que os demais delitos foram abarcados pelo fenômeno processual da prescrição intercorrente, nos termos da Legislação Substantiva Penal.
+    (…)
+    Interposto o Recurso em Sentido Estrito, adveio o seu improvimento (fls. 310/317), mantendo in totum a malsinada sentença do magistrado de piso.
+    (…)
+    Acontece que, em face da ilegalidade que se volta contra o paciente, foi impetrado habeas corpus perante o Superior Tribunal de Justiça, pleiteando a reforma da sentença de pronúncia em razão da ausência de fundamentação pelo juízo de 1º Grau e pelo excesso de linguagem do Tribunal de Justiça de Sergipe.
+    Quanto do julgamento do HC impetrado, a 5ª Turma do STJ, por decisão unânime de seus membros, acordou em denegar a ordem, nos termos do voto do relator (...)” (fls. 2/3 da inicial – grifos no original).
+    Eis a ementa daquele julgado:
+    “CRIMINAL. HABEAS CORPUS. TENTATIVAS DE HOMICÍDIO DUPLAMENTE QUALIFICADOS. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA DA SENTENÇA DE PRONÚNCIA NÃO EVIDENCIADA. EXCESSO DE LINGUAGEM DO ACÓRDÃO PROFERIDO EM SEDE DE RECURSO EM SENTIDO ESTRITO. INOCORRÊNCIA. ORDEM DENEGADA.
+    I. Hipótese na qual a sentença de pronúncia, embora de forma sucinta, apresentou as razões que motivaram a formação da convicção do magistrado acerca da materialidade dos delitos e da presença de indícios da autoria das condutas pelo acusado.
+    II. Constatada a materialidade do crime contra a vida e diante dos indícios da autoria, cabe ao Tribunal do Júri, cuja competência é prevista na Constituição Federal, decidir acerca da culpabilidade do acusado e da existência de provas suficientes à sua condenação, sendo que a sentença de pronúncia caracteriza mero juízo de admissibilidade da acusação (Precedente).
+    III. Acórdão impugnado que se restringiu ao exame da argumentação relativa à falta de fundamentação da pronúncia, não se vislumbrando excesso de linguagem, tendo o Tribunal a quo exposto, nos exatos termos da lei, as razões que motivaram a manutenção da sentença de primeiro grau.
+    IV. Passados mais de 14 anos desde a prolação da sentença de pronúncia alegadamente ilegal, não cabe ao impetrante, em sede de writ, buscar desconstituir tal decisum, assim como a acórdão colegiado que manteve a submissão do paciente a julgamento pelo Júri, por suposta ausência de fundamentação idônea de tais julgados evidenciado-se o intuito de adiar a sessão aprazada para fevereiro de 2012.
+    V. Ordem denegada, nos termos do voto do Relator”.
+    Essa é a razão pela qual se insurgem os impetrantes neste writ.
+    Como se sabe, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que não ocorre na hipótese presente.
+    Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste momento, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o julgado proferido por aquela Corte encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    De outra parte, registro que o Juízo de Direito da 5ª Vara Criminal da Comarca de Aracaju/SE ao pronunciar o paciente assim decidiu, in verbis:
+    “A materialidade do crime está devidamente comprovada nas fls. 88, 89, 90 e 91, através dos laudos de exame de lesões corporais acoplados.
+    Depois da instrução, ficou o convencimento através dos veementes indícios de que sejam os réus os autores do crime. A provas colhidas foram suficientes.
+    Os elementos constitutivos de crime de tentativa de homicídio estão presentes.
+    Assim, e por tudo mais que dos autos consta JULGO PROCEDENTE a DENÚNCIA e em consequência PRONUNCIO A FERNANDO BARRETO MUNIZ e EDÊNIO SOUZA PAIXÃO, alhures qualificados como incurso nas sanções previstas no art. 121, parágrafo 2º, inciso II; Artigo. 121, parágrafo 2º, incisos II e IV, c.c. artigo 14, inciso II; Artigo 129, ‘caput’, e artigo 331, todos combinados com os artigos 29 e 69, todos do Código Penal. Devendo os réus serem submetidos a julgamento pelo Tribunal do Júri na primeira sessão desimpedida" (fls. 3/4 do anexo 3 – grifos conforme o original).
+    Em uma análise da sentença de pronúncia, efetivada em juízo de estrita delibação, tenho que ela apresenta, embora e forma sucinta, os motivos ensejadores do convencimento daquele magistrado acerca da existência de materialidade e de indícios suficientes de autoria, especificando os dispositivos legais nos quais incurso o paciente, bem como as circunstâncias qualificadoras, conforme dispõe o art. 413, caput e § 1º, do Código de Processo Penal.
+    Portanto, a meu ver, o ato em questão atende aos parâmetros exigidos para esse momento de mero juízo de admissibilidade da acusação.
+    Igualmente, não vislumbro, por ora, que o Tribunal de Justiça estadual, ao negar provimento o recurso em sentido estrito, tenha se utilizado de linguagem excessiva, visto que assentou as razões que motivaram a manutenção da pronúncia de acordo com as normas legais.
+    Transcrevo excerto daquele julgado, na parte que interessa:
+    “(...)
+    Acontece que, para submeter os acusados a julgamento perante o Conselho de Sentença, ao Juízo natural, basta tão somente que o MM. Juiz monocrático esteja convencido da existência do crime e de indícios de que os réus sejam os seus autores.
+    Diante disso, circunscreve-se o objeto de análise deste recurso estritamente às premissas exigidas em lei, e, nesse caso, o Magistrado a quo disse em sua respeitável sentença, que diante da prova colhida nos autos, que entendeu suficiente para a fase, comprovou-se a materialidade e convenceu-se que a autoria do delito foi efetivamente dos dois pronunciados.
+    Ora, a prova testemunhal, emitida perante a autoria policial, logo após presos em flagrante os réus, como também em juízo, não discrepa da participação dos dois acusados na prática dos delitos. Subsistem laudos de lesões corporais e inclusive laudo de apreensão de vários objetos,como armas (a escopeta e revólveres), talões de cheque, relógio e documentos de terceiros, que configuram a materialidade do delito, estando atendidos os requisitos do art. 408 do CPP, para pronúncia dos mesmos.
+    As testemunhas e as vítimas registram também em seus depoimentos a forma em que foram agredidas, ameaçadas, uma dela, inclusive - José Joaquim Neto - a afirmar que o recorrente era quem comandava a ação, e que Muniz dizia que Edênio era o seu subalterno e que deveria fazer o que determinasse, e que efetivamente a intenção dos réus era mesmo a de matar; demonstrando cabalmente a intenção, a premeditação e a torpeza motivadora da vontade de matar, que restou em tentativa, não porque quiseram ou desistiram, mas por ato alheio as suas vontades, que foi a interferência de terceiros e a sorte das vítimas atingidas que não morreram.
+    Está evidente nos autos a prova de materialidade do crime de homicídio tentado contra as vítimas, e não meras lesões, e a participação protagonizada não só pelo réu Edênio, mas pelo recorrente, cujas razões do seu recurso não vêm a elidir o que ressai do contexto probatório constante dos autos.
+    Ademais, o princípio jurídico adotado nessa fase é o do in dubio pro societate, eis que a pronúncia é juízo de admissibilidade da acusação, submetendo o feito à apreciação do Tribunal do Júri, com a possibilidade de ampla defesa para os pronunciados, não restando dúvidas que o réu deve mesmo ficar pronunciado e ir a julgamento pelo Tribunal do Júri
+    (…)
+    Diante de tal caso é lídimo o convencimento a que fora levada o digno Magistrado de primeira instância que comunga com os ditames normativos e encarna o preceito do retromencionado artigo 408 do CPP.
+    Insto posto, voto pelo conhecimento do Recurso em Sentido Estrito para lher negar provimento, confirmando, assim, a sentença monocrática em todos os seus fundamentos” (fls. 9 a 12 do anexo 3 – grifos conforme o original).”
+    Nesse passo, carecem de plausibilidade jurídica os fundamentos aventados pelos impetrantes para obstar o julgamento do paciente pelo Tribunal do Júri, que está designado para o dia 24/2/12.
+    Com essas considerações, indefiro a liminar requerida.
+    Oficie-se ao Superior Tribunal de Justiça para que forneça a esta Suprema Corte cópia do inteiro teor do julgado ora impugnado.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
