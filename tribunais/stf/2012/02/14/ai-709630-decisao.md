@@ -1,0 +1,20 @@
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IPI. INSUMOS ISENTOS. CREDITAMENTO. REPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 136. DEVOLUÇÃO DOS AUTOS À ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Cuida-se de agravo de instrumento interposto com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute, entre outra matéria, o direito ao creditamento a título de IPI em decorrência de aquisição de insumos isentos, não tributáveis ou sujeitos à alíquota zero.
+    Foi reconhecida a repercussão geral do tema o qual está submetido à apreciação do Pleno desta Corte e encontra-se pendente de julgamento nos autos do RE nº 590.809, Relator o Ministro Marco Aurélio.
+    In casu, o acórdão recorrido restou assim ementado (fls. 443/443):
+    TRIBUTÁRIO – IPI – NÃO-CUMULATIVIDADE – INSUMOS ISENTOS, SUJEITOS À ALÍQUOTA ZERO E NÃO-TRIBUTADOS – PRODUTO FINAL TRIBUTADO – CREDITAMENTO – IMPOSSIBILIDADE.
+    1. O princípio da não-cumulatividade tem como objetivo impedir a incidência sucessiva do tributo nas fases da produção de determinado bem, permitindo que seja descontado o valor pago na etapa anterior. Desse modo, permite-se apenas a compensação do valor pago de IPI na operação anterior, efetuando-se novo cálculo do tributo agora sobre o “novo” produto industrializado.
+    2. É equivocada a idéia de que o IPI é um imposto sobre o valor agregado, pois vem sendo individualmente tributado em cada etapa do processo produtivo com o mero benefício do desconto do valor cobrado a esse título na etapa anterior.
+    3. O contribuinte não tem direito a se creditar do IPI relativo a insumos isentos ou com alíquota zero, como se tributados fossem. Os produtos intermediários foram dissolvidos no processo de industrialização do produto final, que será adotado como base de cálculo final para a apuração do IPI devido, não havendo que se falar em créditos fictícios nessa técnica de tributação.
+    4. A Constituição da República ao tratar do assunto expressamente reconhece a compensação com o montante cobrado, ou seja, incidente nas operações anteriores. Não existindo cobrança, não há o que se compensar, concluindo-se que o texto constitucional realmente estabeleceu a proibição de creditamento nos casos em que não houve cobrança ou pagamento do tributo.
+    5. Para a compensação, essencial a verificação do ônus tributário, motivo pelo qual inviável nos casos de não-incidência, alíquota zero ou isenção dos insumos.
+    6. Não há direito automático à escrituração do IPI nessas hipóteses, apenas pela circunstância de não ter a Constituição expressamente afastado a sua possibilidade como fez com o ICMS (artigo 155, parágrafo 2º, II, a).
+    Embora ambos estejam submetidos à regra da não-cumulatividade, o IPI tem regra clara e própria exigindo compensação do montante cobrado nas operações anteriores.
+    7. O STF vinha entendendo que a não-cumulatividade visava garantir a tributação pelo valor agregado, admitindo o creditamento do IPI nos casos de insumos isentos, sujeitos à alíquota zero ou não tributados. Contudo, a questão retornou recentemente à discussão na Corte Constitucional (RE 353.657/PR) com forte tendência de posicionamento contrário que afasta o reconhecimento dos precedentes antigos e a pacificação da matéria.
+    8. O critério que considera a alíquota do produto final como parâmetro para apurar o crédito referente ao insumo não encontra respaldo legal e acarreta ofensa aos princípios da isonomia e da essencialidade.
+    Ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário, que, no entanto, deverá permanecer SOBRESTADO na origem para que se observe o disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
