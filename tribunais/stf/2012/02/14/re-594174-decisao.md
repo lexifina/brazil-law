@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina. Acórdão assim ementado (fls. 13):
+    “MANDADO DE SEGURANÇA – TRIBUTÁRIO – IPTU – ALÍQUOTA PROGRESSIVA – HIPÓTESE DISTINTA DA PREVISTA NO ART. 182, § 4º – INCONSTITUCIONALIDADE DAS LEIS ANTERIORES A EMENDA N. 29/00 – NECESSIDADE DE EDIÇÃO DE NOVA NORMA – LCM N. 561/05 – PROGRESSIVIDADE HÍGIDA A PARTIR DE 2006 – APELO PARCIALMENTE PROVIDO.
+    ‘É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional n. 29/00, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana’ (Súmula n. 668 do Excelso Pretório).
+    ‘Mudando a norma constitucional sem que se afecte a norma legislativa antecedente (que com ela continua conforme), nenhum efeito se registra: a norma legislativa era válida e válida continua – à face da Constituição como um todo. Inversamente, se a norma legislativa era contrária à Constituição antes da revisão (embora não declara inconstitucional) e agora fica sendo conforme à nova norma constitucional, nem por isso é convalidada ou sanada: ferida de raiz, não pode apresentar-se agora como se fosse uma nova norma, sob pena de se diminuir a função essencial da Constituição’. (Jorge Miranda). Incogitável nesse contexto a possibilidade de represtinação.”
+    2. Pois bem, o recorrente alega ofensa ao art. 156 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Sandra Cureau, opina pelo desprovimento do recurso.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o Supremo Tribunal Federal firmou o entendimento de que “é inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana” (Súmula 668/STF). Entendimento reafirmado na apreciação da Questão de Ordem suscitada no AI 712.743, da relatoria da ministra Ellen Gracie, momento em que ficou reconhecida a existência de repercussão geral do tema.
+    5. Quanto à cobrança do tributo com base na Lei Complementar municipal 561/2005, confira-se trecho do parecer ministerial que adoto como razão de decidir:
+    “no caso em exame, a lei complementar que alterou o Código Tributário Municipal, para instituir a progressividade do IPTU com base no valor do imóvel, é posterior à EC 29/00, que previu essa possibilidade no art. 156, § 1º, I, da Constituição Federal.
+    Contudo, as leis municipais que prevêem as alíquotas progressivas em razão do valor do imóvel, que são utilizadas para a cobrança do imposto, são anteriores à EC 29/2000 e, portanto, inconstitucionais, nos termos da Súmula nº 668.
+    Nesse ponto, cumpre ressaltar que não foi adotada por esse Supremo Tribunal Federal a tese da constitucionalidade superveniente, prevalecendo o entendimento segundo o qual a lei inconstitucional é ato nulo desde a sua origem , não podendo ser sanado por diploma superveniente (RE 390.840/MG, Rel. Ministro Marco Aurélio).”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
