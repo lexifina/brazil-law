@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO CIVIL. PROCESSO CIVIL. LEI DE IMPRENSA. REPORTAGEM JORNALÍSTICA. DANOS MORAIS. INDENIZAÇÃO. DECADÊNCIA. ART. 56, DA ELI Nº 5.250/67. INEXISTÊNCIA. QUANTUM CONDENATÓRIO. PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. SENTENÇA MANTIDA. RECURSOS IMPROVIDOS. 1. Não há falar-se em sujeição ao prazo decadencial ´previsto no art. 56, da Lei nº 5.250/67, visto a Constituição Federal de 1988 não prevê prazo para indenização por dano moral sofrido; 2. Atitude abusiva da imprensa, sob a invocação da liberdade de expressão, veicular notícia sem uma apuração detalhada dos fatos, esbarrando em violação de direitos subjetivos, quanto à honra, à imagem e a intimidade da pessoa humana; 3. Matéria jornalística que desabona a imagem da autora, caracterizando ato ilícito passível de indenização; 4. Quantum condenatório fixado em valor justo. Observância aos princípios da razoabilidade e moderação. 5. Sentença mantida. 6. Apelações conhecidas e improvidas”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, IV e XIV, e 220, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Com efeito, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DANO MORAL. MATÉRIA JORNALÍSTICA. AUSÊNCIA DE OFENSA À IMAGEM. LIBERDADE DE INFORMAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF.
+    1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+    2. A Súmula 279/STF dispõe verbis: 'Para simples reexame de prova não cabe recurso extraordinário'.
+    3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Precedentes: RE n. 389.096-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 25.09.2009 e AI n. 763.419-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 10.11.2010.
+    4. Agravo regimental a que se nega provimento” (ARE 638.730-AgR/DF, Rel. Min. Luiz Fux).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA À CARACTERIZAÇÃO DE DANOS MORAIS E À ADEQUAÇÃO DO MONTANTE INDENIZATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF.
+    1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o revolvimento dos fatos e provas constantes dos autos. Providência vedada nesta via processual do recurso extraordinário, a teor da Súmula 279 do STF.
+    2. Agravo regimental desprovido” (RE 602.233-AgR/DF, Rel. Min. Ayres Britto).
+    Seguindo essa mesma orientação, entre outros: AI 763.419-AgR/PR e AI 797.481/DF, de minha relatoria; RE 516.836-AgR/DF e RE 605.664/CE, Rel. Min. Dias Toffoli; RE 464.916-AgR/SP e RE 607.755/MT, Rel. Min. Cármen Lúcia; AI 493.335/RS, Rel. Min. Joaquim Barbosa; AI 766.309-AgR/RS, Rel. Min. Eros Grau; AI 394.622-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 375.095-AgR/RJ, Rel. Min. Nelson Jobim.
+    Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
