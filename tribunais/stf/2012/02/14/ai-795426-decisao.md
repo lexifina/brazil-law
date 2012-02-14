@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 1ª Região, cuja ementa tem o seguinte teor (fls. 80):
+    “PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. OCUPAÇÃO DE TERRA INDÍGENA POR PARTICULAR. AUSÊNCIA DE INTERESSE JURÍDICO-PROCESSUAL DO MUNICÍPIO DE PACARAIMA E DO ESTADO DE RORAIMA NA LIDE. AGRAVO RETIDO PROVIDO. INTERDITO POSSESSÓRIO EM CURSO PERANTE O STF. RELAÇÃO DE DEPENDÊNCIA ENTRE AS AÇÕES QUE SE RECONHECE. POSSIBILIDADE DE INCIDÊNCIA DO ART. 265, IV, 'A', DO CPC.
+    1. Restringindo-se o objeto da lide à defesa de comunidades indígenas da suposta ocupação de suas terras por particulares, falece interesse processual do Município de Pacaraima e do Estado de Roraima para a causa.
+    2. O interdito proibitório em curso perante o STF (ACO 499/RR), no qual a Funai se insurge contra a criação e instituição do Município de Pacaraima, supostamente por se encontrar no interior da mesma terra indígena, possui objeto distinto da presente ação pública, sendo indevida, em conseqüência, a extinção do feito sem julgamento do mérito, como ocorreu na espécie. Nulidade da sentença de que se declara.
+    3. Afigura-se, presente, de qualquer sorte, a existência de uma relação de dependência entre o interdito proibitório (em curso na Suprema Corte) e a presente ação, que poderia, a princípio, justificar a suspensão deste processo, mediante a aplicação do art. 265, IV, a, do Código de Processo Civil, uma vez que a causa submetida a exame pelo STF contém questão prejudicial ao deslinde da controvérsia travada nestes autos.
+    4. Agravo retido a que se dá provimento, para desconstituir a decisão que determinou a integração da relação processual pela citação do Município de Pacaraima e do Estado de Roraima.
+    5. Apelação provida para declarar a nulidade da sentença que extinguiu o processo sem resolução do mérito, ficando facultado ao Juízo de origem, aplicar à causa a norma do art. 265, IV, a, do CPC, até que sobrevenha decisão final nos autos da ACO 499/RR, em curso perante o STF.”
+    Nas razões do recurso extraordinário, o ora recorrente alega ofensa aos arts. 102, I, f e 231, caput, §§ 1º, 2º, 4º e 6º, da Carta Magna. Sustenta, em síntese, que:
+    “O interesse recursal, constituído pela utilidade de nova decisão, é patente, haja vista tratar-se, mesmo que de modo indireto, da contestação da criação do Município de Pacaraima, por estar este situado em Terra Indígena, pelo que se pretende sua desintrusão por todos os que lá se encontram, pois, com fundamento no art. 231, § 6º, da Carta Política, seria nula de pleno direito sua ocupação” (fls. 102)
+    É o relatório. Decido.
+    O recurso extraordinário, alegando que o acórdão recorrido ofende o art. 102, I, f, da Constituição, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356 do STF).
+    Ainda que superado o referido óbice, verificar a legitimidade passiva do agravante demandaria o exame prévio da legislação infraconstitucional (Código de Processo Civil), de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Nesse sentido, AI 795.329-AgR (rel. min. Luiz Fux, Primeira Turma, DJe de 14.09.2011) e AI 813.218 (rel. min. Ellen Gracie, DJe de 06.10.2010).
+    Ademais, com o trânsito em julgado da decisão do Superior Tribunal de Justiça, por ocasião do julgamento do recurso especial (REsp 992.717), permanece suficiente fundamento infraconstitucional adotado pelo acórdão recorrido. Essa situação inviabiliza o recurso extraordinário, nos termos da Súmula 283/STF.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
