@@ -1,0 +1,12 @@
+Trata-se de dois agravos contra decisão que negou seguimento a recursos extraordinários interpostos de acórdão, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO A QUE SE NEGOU SEGUIMENTO. INTERPOSIÇÃO SUCESSIVA DE AGRAVOS REGIMENTAIS. PRECLUSÃO CONSUMATIVA E PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. NÃO-CONHECIMENTO DO SEGUNDO RECURSO INTERPOSTO. SÚMULA VINCULANTE N.º 23/STF. INAPLICABILIDADE. INOCORRÊNCIA DE GREVE. AÇÃO RESCISÓRIA. COMPETÊNCIA CONSTITUCIONAL DO ÓRGÃO PROLATOR. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. NECESSIDADE. SÚMULA 182/STJ” (fl. 248).
+    No RE interposto pelo Sindicato dos Conferentes de Carga e Descarga do Porto de Santos, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 114, I e IX, da mesma Carta.
+    Por sua vez, no RE do Sindicato dos Consertadores de Carga e Descarga nos Portos do Estado de São Paulo, fundado no art. 102, III, a, da Constituição, sustentou-se violação ao art. 114, I, da mesma Carta.
+    Os agravos não merecem acolhida. Isso porque, é pacífico o entendimento nesta Corte de que não cabe rever, em recurso extraordinário, decisão do Superior Tribunal de Justiça que inadmitiu agravo de instrumento em recurso especial. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CARTA POLÍTICA - REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL (STJ) - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO DA REPÚBLICA - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que a discussão em torno dos requisitos de admissibilidade do recurso especial, dirigido ao Superior Tribunal de Justiça, não viabiliza o acesso à via recursal extraordinária, por tratar-se de tema de caráter eminentemente infraconstitucional, exceto se o julgamento emanado dessa Alta Corte judiciária apoiar-se em premissas que conflitem, diretamente, com o que dispõe o art. 105, III, da Carta Política. Precedentes” (AI 442.654-AgR/PE, Rel. Min. Celso de Mello).
+    Nesse mesmo sentido: AI 521.875-AgR/SP, Rel. Min. Joaquim Barbosa; AI 442.654-AgR/PE, Rel. Min. Celso de Mello; AI 394.048-AgR/MG, Rel. Min. Sidney Sanches.
+    Isso posto, nego seguimento aos recursos (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
