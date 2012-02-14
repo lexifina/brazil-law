@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (fls. 183):
+    “APELAÇÃO CÍVEL – ADMINISTRATIVO – AÇÃO ORDINÁRIA – TRANSPORTE IRREGULAR DE PASSAGEIROS – APREENSÃO DE VEÍCULO – IMPUTAÇÃO DE MULTA E LIBERAÇÃO CONDICIONADA AO SEU PAGAMENTO – TRANSCON – ART. 7º, DA LEI MUNICIPAL 3.548/02 – ILEGALIDADE – COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE TRÂNSITO E TRANSPORTE – NEGAR PROVIMENTO AO RECURSO. No momento em que a Municipalidade, dentro de sua competência legislativa suplementar, regula de forma diversa fato já previsto em Lei Federal, prevendo sanções mais gravosas, usurpa de competência da União, o que enseja inconstitucionalidade do dispositivo. Se o art. 7º, da Lei nº 3.548/02, do Município de Contagem, sanciona o transporte clandestino de passageiros de forma mais gravosa que o Código de Trânsito Brasileiro, extrapola os limites fixados na legislação federal, e, desta forma, os valores relativos ao reboque e à permanência do veículo em depósito, bem como a multa em quantia superior, são indevidos.”
+    2. Pois bem, a parte recorrente alega ofensa aos incisos I e V do art. 30 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo “não conhecimento do recurso e, acaso conhecido, pelo seu desprovimento”.
+    4. Tenho que a insurgência não merece acolhida. Isso porque, no julgamento do ARE 639.496, da relatoria do ministro Cezar Peluso, o Plenário Virtual desta Casa de Justiça resolveu reafirmar a jurisprudência do STF no sentido de que é inconstitucional a lei municipal que estabelece sanção mais gravosa que a prevista no Código de Trânsito Brasileiro, porque viola a competência privativa da União para legislar sobre trânsito e transporte.
+    Ante o exposto, com a ressalva do meu entendimento pessoal, acedo, democraticamente, ao pensar majoritário dos ministros do Supremo Tribunal Federal e, frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
