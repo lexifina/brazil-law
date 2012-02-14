@@ -1,0 +1,20 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo. Acórdão assim ementado (fls. 55):
+    “AÇÃO REPARATÓRIA POR ATO DE IMPROBIDADE ADMINISTRATIVA – Contrato administrativo 16/LIM–PURB/95 – aditamentos elaborados sem procedimento licitatório – inadmissibilidade – objeto que fugiu ao edital – infringência da Lei nº 8.666/93 – matéria preliminar rejeitada, não conhecido o agravo retido e desprovidas as apelações, mantida, a deliberação monocrática, em consequência, integralmente.”
+    2. Pois bem, a parte recorrente alega, em síntese, violação ao art. 18, ao inciso XXVII do art. 22, ao inciso XXI do art. 37, ao inciso IX do art. 93, e aos incisos III e IX do art. 129, todos da Magna Carta de 1988.
+    3. Tenho que o agravo não merece acolhida. De saída, anoto que é firme nesta Casa de Justiça a jurisprudência no sentido de que o Ministério Público tem legitimidade para defender o patrimônio público. Confiram-se, a propósito, as ementas seguintes:
+    “Ministério Público: legitimação para propor ação civil pública para proteção do patrimônio público (CF, art. 129, III): precedentes (v.g. RREE 267.023 e 234.439, 30.04.2002, 1ª T., Moreira; 227.159, Néri, RTJ 186/690; 208.790, 27.9.2000, Ilmar Galvão, DJ 15.12.2000, RTJ 176/957).“
+    (AI 495.632-AgR, sob a relatoria do ministro Sepúlveda Pertence.)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DE PROVAS. MINISTÉRIO PÚBLICO FEDERAL. LEGITIMIDADE ATIVA. 1. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. 2. O Ministério Público tem legitimidade ativa para propor ação civil pública para a proteção do patrimônio público e social, do meio ambiente, mas também de outros interesses difusos e coletivos. Agravo regimental a que se nega provimento.”
+    (AI 718.547-AgR, sob a relatoria do ministro Eros Grau.)
+    2. Vejam-se, ainda, os seguintes julgados: AIs 718.547-AgR, sob a relatoria do ministro Eros Grau; e 578.159, sob a relatoria da ministra Cármen Lúcia; bem como REs 163.231, sob a relatoria do ministro Maurício Corrêa; 208.790, sob a relatoria do ministro Ilmar Galvão; 459.138-AgR, sob a relatoria do ministro Gilmar Mendes; e 262.134-AgR, sob a relatoria do ministro Celso de Mello.
+    3. Quanto ao mérito, ressalto que, para se chegar a conclusão diversa da adotada pela instância judicante de origem, se fazem necessários o reexame da legislação infraconstitucional pertinente e a análise do conjunto fático-probatório dos autos (Súmula 279/STF), providências vedadas neste momento processual.
+    4. Precedentes: RE 570.598, sob a relatoria da ministra Ellen Gracie; AI 653.882, sob a relatoria do ministro Celso de Mello; e AI 728.723, sob a relatoria do ministro Joaquim Barbosa, este último assim ementado:
+    “AGRAVO REGIMENTAL. IMPROBIDADE ADMINISTRATIVA. LEI 8.429/92. INDISPONIBILIDADE DE BENS. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 279 DA SÚMULA/STF.
+    Agravo regimental a que se nega provimento.”
+    5. À derradeira, pontuo que o aresto impugnado, ao contrário do consignado pela parte agravante, está devidamente fundamentado. Ora, é firme no Supremo Tribunal Federal o entendimento de que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, sob a relatoria do ministro Sepúlveda Pertence).
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 14 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
