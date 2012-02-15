@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO DE REVISTA. 1. HORAS IN ITINERE. SUPRESSÃO ATRAVÉS DE NORMA COLETIVA. IMPOSSIBILIDADE. Segundo jurisprudência pacífica desta Corte Superior, as horas in itinere, a partir da alteração do artigo 58 da CLT, promovida pela Lei nº 10.243/2001, passaram a gozar de natureza de norma de ordem pública, não sendo passíveis de supressão mediante negociação coletiva. Incidência da Súmula nº 333 e do artigo 896, § 4º, da CLT. Precedentes. Recurso de revista não conhecido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXVI, da mesma Carta.
+    O agravo não merece acolhida. Isso porque a apreciação dos temas constitucionais, no caso, depende da interpretação de cláusula integrante de acordo coletivo de trabalho e da legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho). Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessária a interpretação de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF, bem como seria imprescindível a análise de normas infraconstitucionais, o que inviabiliza o recurso extraordinário. Nesse sentido, menciono os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PAGAMENTO DE HORAS IN ITINERE. IMPOSSIBILIDADE DE ANÁLISE DE ACORDO COLETIVO DE TRABALHO. SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 824.649-AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACORDO COLETIVO DE TRABALHO. CLÁUSULAS. VALIDADE. MATÉRIA INFRACONSTITUCIONAL. A questão relativa à validade de cláusulas inseridas em acordo coletivo de trabalho implica o exame da matéria infraconstitucional que disciplina a espécie, circunstância que inviabiliza o seguimento do extraordinário. Agravo regimental a que se nega provimento” (RE 588.901-AgR/SC, Rel. Min. Eros grau, Segunda Turma).
+    No mesmo sentido, cito, ainda, as seguintes decisões em casos análogos: ARE 653.160/BA, Rel. Min. Ayres Britto; ARE 650.168/MG, Rel. Min. Gilmar Mendes; e ARE 657.368/BA, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
