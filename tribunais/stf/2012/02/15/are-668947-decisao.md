@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “TRIBUTÁRIO. EXECUÇÃO FISCAL. AGRAVO LEGAL. IMUNIDADE TRIBUTÁRIA. REQUISITOS. INTELIGÊNCIA D ARTIGO 557, CAPUT E § 1º, DO CPC”.(fl. 76)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, inciso LV; 93,IX e 150, § 4º, todos da Constituição da República.
+    O recorrente afirma que o Tribunal a quo teria contrariado os artigos 5º, II; 24, I; 30, I, II, III; 37 e 145, III, da Constituição Federal.
+    Argumenta que :
+    “(...)De acordo com os elementos probatórios constantes dos autos e já referidos na preliminar de violação aos artigos 5], LV e 93, IX, da CF, tem-se que a área total do imóvel objeto de tributação alcança 382,1 ha, existindo, em tal imóvel, 385 animais de grande e médio porte, a denotar que a atividade ali desenvolvida não guarda relação com a atividade fim da autora. A demandante, aliás, não esclarece tal particularidade, tampouco ouras circunstâncias referentes à utilização do imóvel, calcando a pretensão unicamente na alegação genérica de afetação às finalidades sociais.” (fls. 97-verso e 98)
+    O recurso extraordinário foi inadmitido pelo Tribunal de origem. Segundo os diversos fundamentos aduzidos na decisão agravada, o apelo extremo não pode ser admitido porque, “(...)a análise da questão invocada implicaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 279 do Supremo Tribunal Federal (...)”. (fl. 104).
+    O tema de fundo do recurso extraordinário diz respeito à aplicação da imunidade prevista no artigo 150, § 4º da Constituição Federal.
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, a sentença confirmada pelo acórdão recorrido decidiu o seguinte:
+     (...)considerando que não há nos autos nenhuma referência, ou documentos que demonstrem desvio de finalidade no que diz respeito a utilização do imóvel e considerando a existência de entendimento solidificado no sentido de que o que deve preponderar na definição da imunidade é a destinação dos recursos obtidos com a gestão do patrimônio, entendo que, no presente caso, o imóvel em questão está sob o pálio imunizador do art. 150, VI, c, da CF (...)”.(fl. 41)
+    Para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Incide, portanto, a Súmula 279/STF.
+    Ademais, enfatizo que é firme a jurisprudência desta Corte que mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa e do contraditório é insuficiente para viabilizar o processamento de recurso extraordinário quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido os julgamentos do RE-AgR 559.816, Rel. Min. Ellen Gracie, DJe 4.5.2011; e AI-AgR 635.789, Rel. Min. Dias Toffoli, DJe 27.4.2011, cuja ementa transcrevo:
+    Agravo regimental no agravo de instrumento. Artigo 5º, inciso XXXVI, da Constituição Federal. Ato jurídico perfeito. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas 636 e 279/STF. 2. Agravo regimental não provido.
+    Por derradeiro, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte também já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 15 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
