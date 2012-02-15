@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de liminar, impetrado por Ana Lúcia Carlos Pereira, em favor de Cláudio Renato dos Santos.
+    Nestes autos, a defesa questiona decisão proferida pela Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem requerida nos autos do HC 170.505/SP.
+    Na espécie, o paciente foi denunciado perante a 2ª Vara Criminal, Anexo do Júri, Execuções Criminais, Corregedoria Permanente dos Presídios e Polícia Judiciária da Comarca de Praia Grande/SP, pela suposta prática dos crimes previstos nos artigos 180 e 159, §§ 1º e 3º, c/c os artigos 29 e 69, todos do CP.
+    Aduz o impetrante que o paciente está preso preventivamente desde o dia 27 de fevereiro de 2009, tendo sido requisitada sua apresentação para comparecimento à audiência de instrução e julgamento com antecedência de mais de 40 dias.
+    Informa, contudo, que, ao se encaminhar à carceragem a fim de encontrar seu cliente, foi informado de que esse não havia sido conduzido, em razão da necessidade de comparecimento a ato processual em comarca distinta. Na oportunidade, outros acusados, corréus no mesmo processo, também não se encontravam presentes.
+    Diante dessa conjuntura, a despeito de os advogados dos demais acusados não se contraporem à realização da audiência, houve por bem o patrono não participar, temendo que a sua presença pudesse convalidar o vício de ausência do denunciado.
+    Ressalta que, malgrado os esforços, a ação penal manteve o seu curso ordinário, tendo o paciente, ao fim, sido condenado, em primeira instância, à pena de 30 anos de reclusão.
+    Adverte que, diante desse contexto fático, impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, pleiteando fosse declarada a nulidade da ação penal pela não apresentação do paciente à audiência e, ainda, pelo desrespeito ao art. 212, parágrafo único, do CPP. A ordem foi denegada.
+    Contra essa decisão a defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que denegou a ordem.
+    Daí o presente habeas corpus perante este Supremo Tribunal Federal.
+    Sustenta que o paciente é alvo de constrangimento ilegal, ao argumento de que a sua ausência na audiência de instrução e julgamento importaria em evidente desrespeito ao direito à autodefesa, em seus dois aspectos, o direito de audiência e o direito de presença, eivando o processo de insanável nulidade absoluta.
+    Consigna o desacerto da decisão proferida pelo Superior Tribunal de Justiça na parte em que reputa bastar a intimação da defesa técnica para suprimento da obrigação legal e constitucional de ciência à parte contrária para a realização de atos processuais.
+    Assevera que a defesa técnica não torna prescindível a autodefesa e que — de acordo com a Constituição Federal, o Pacto de São José da Costa Rica e o Pacto Internacional sobre Direitos Civis e Políticos — é direito do paciente comparecer a todos os atos processuais.
+    Atesta que, “em uma audiência onde seria (e foi) produzida prova em desfavor do ora paciente – a qual, portanto, o mesmo tinha total interesse –, o mesmo não se fez presente, apesar de ter sido requisitado, e em outro ato processual, acerca de testemunha que nada tinha de relação consigo, eis que em outro processo sequer constou como denunciado, o Estado teve todo o trabalho de levá-lo ao referido ato processual, desperdiçando tempo e dinheiro, sendo que neste último nada, absolutamente nada, foi produzido em seu proveito e/ou prejuízo”.
+    E prossegue: “Ao tomar tal atitude, o que o Estado gerou ao acusado? Retirou deste a possibilidade de acompanhar uma importantíssima audiência no juízo originário, onde vítima e testemunhas de acusação tinham algo a dizer em seu desfavor, mas, por tal circunstância (estar em trânsito em outra comarca, sem qualquer relação com o referido ato processual), não teve a possibilidade de acompanhar”.
+    Articula, por outro lado, violação ao princípio do devido processo legal, pois invertida a ordem de formulação das perguntas. Enfatiza que o paciente não se viu processado na forma prescrita em lei, em frontal desrespeito ao artigo 212, parágrafo único, do Código de Processo Penal — com a redação dada pela Lei 11.690/2008 —, tendo em vista que o magistrado formulou perguntas a todas as vítimas e testemunhas em primeiro lugar, quando, de acordo com o referido dispositivo, sua atuação deveria se dar em último lugar, de forma complementar.
+    Por fim, destaca que, atualmente, é aguardada a apresentação de razões de apelação pelo paciente em face da sentença condenatória (Apelação Criminal 900000-64.2007.8.26.0477).
+    Diante de todo o exposto, requer, em caráter liminar, a suspensão cautelar do processo originário (Processo 477.01.2007.005642-2), atualmente em fase de recurso de apelação (Apelação Criminal 900000-64.2007.8.26.0477), até o julgamento final deste writ; por conseguinte, e diante do acolhimento do pleito anterior, postula a imediata a soltura do paciente.
+    No mérito, propugna pela concessão da ordem, a fim de anular a ação penal desde a audiência de instrução, ante a indevida ausência do paciente, determinando, ainda, ao magistrado, que obedeça à ordem prevista no art. 212, parágrafo único, do CPP. Diante do tempo da segregação cautelar, pleiteia a revogação definitiva do mandado de prisão expedido em desfavor do paciente.
+    Passo a decidir.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    No caso dos autos, em princípio, não estão presentes os requisitos exigidos para a concessão da medida cautelar. É que, ao menos em uma análise preliminar, reputo consistentes os fundamentos exarados pelo Superior Tribunal de Justiça ao denegar a ordem requerida nos autos do HC 170.505/SP.
+    Ademais, a defesa não apresentou os necessários documentos ao exame do pleito.
+    Ante o exposto, indefiro o pedido de liminar.
+    Solicitem-se informações pormenorizadas ao Tribunal de Justiça do Estado de São Paulo (Apelação Criminal 900000-64.2007.8.26.0477), bem como remetam-se, com prioridade, todas as atas que formalizaram as audiências de instrução e julgamento.
+    Solicite-se, ainda, ao Superior Tribunal de Justiça o envio de cópia integral do HC 170.505/SP.
+    Após, abra-se vista destes autos ao Procurador-Geral da República (RI/STF, art. 192).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
