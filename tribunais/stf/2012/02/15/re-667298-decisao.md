@@ -1,0 +1,40 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL ADMINISTRATIVO. CONCURSO PÚBLICO. EXISTÊNCIA DE CANDIDATOS APROVADOS. CONTRATAÇÃO DE TEMPORÁRIOS. PRETERIÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE.
+1. A ocupação precária, por comissão, terceirização, ou contratação temporária, de atribuições próprias do exercício de cargo efetivo vago, para o qual há candidatos aprovados em concurso público vigente, configura ato administrativo eivado de desvio de finalidade, equivalente à preterição da ordem de classificação no certame, fazendo nascer para os concursados o direito à nomeação, por imposição do artigo 37, inciso IV, da Constituição Federal (AI n. 776.070-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJe de 22.03.11). (Precedentes: RE n. 555.141-AgR, Relatora a Ministra Ellen Gracie, 2ª Turma, DJe de 24.2.11; AI n. 777.644-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJe de 14.05.10; SS n. 4.196-AgR, Relator o Ministro Cezar Peluso, Pleno, DJe de 27.8.10; AI n. 684.518-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJe de 29.5.09; AI n. 440.895-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 20.10.06; RE n. 273.605, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 28.6.02, entre outros).
+2.  In casu, o acórdão recorrido assentou:
+“ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR. ALEGAÇÃO DE PRETERIÇÃO. CONTRATAÇÃO DURANTE O PRAZO DE VIGÊNCIA DO CERTAME.
+Muito embora a aprovação em concurso público gere tão somente expectativa de direito, a contratação de terceiro para o mesmo cargo para o qual houve candidato classificado gera direito líquido e certo à nomeação.”
+3. Recurso extraordinário a que se nega seguimento.
+    Decisão: cisão: Cuida-se de recurso extraordinário interposto pela UNIVERSIDADE FEDERAL DE PELOTAS - UFPEL, com fulcro no art. 102, III, “a”, da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. PROFESSOR. ALEGAÇÃO DE PRETERIÇÃO. CONTRATAÇÃO DURANTE O PRAZO DE VIGÊNCIA DO CERTAME.
+    Muito embora a aprovação em concurso público gere tão somente expectativa de direito, a contratação de terceiro para o mesmo cargo para o qual houve candidato classificado gera direito líquido e certo à nomeação.”
+    Opostos embargos de declaração, estes restaram rejeitados (fls. 202).
+    Em segundos embargos opostos pela ora recorrente, deu-se a este parcial provimento apenas para sanar a omissão no julgado (fl. 209):
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO NO JULGADO. INDENIZAÇÃO.
+    Sanada omissão no julgado, a demandada deve ser condenada ao pagamento de indenização correspondente à remuneração que a parte autora teria direito desde outubro de 2007, até a data em que o demandante efetivamente entrou em exercícios no cargo de Professor Assistente.”
+    A recorrente, em suas razões recursais, alega que o acórdão recorrido violou o artigo 37, inciso IV, da Constituição Federal, sustentando, em síntese, que “não há preterição da parte autora com a contratação temporária, vez que não se destina ao preenchimento da vaga e do cargo reservados ao concurso público. A vaga destinada ao concurso público é de caráter permanente, somente criada por lei e regida pela Lei 8.112/90“ (fl. 226).
+    Foram apresentadas contrarrazões ao recurso extraordinário (fls. 256/270).
+    É o relatório. DECIDO.
+    Não assiste razão ao recorrente.
+    O acórdão recorrido está em consonância com o entendimento deste Supremo Tribunal Federal no sentido de que “a ocupação precária, por comissão, terceirização, ou contratação temporária, de atribuições próprias do exercício de cargo efetivo vago, para o qual há candidatos aprovados em concurso público vigente, configura ato administrativo eivado de desvio de finalidade, equivalente à preterição da ordem de classificação no certame, fazendo nascer para os concursados o direito à nomeação, por imposição do artigo 37, inciso IV, da Constituição Federal” (AI n. 776.070-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJe de 22.03.11).
+    No mesmo sentido, cito, entre outros, os seguintes julgados:
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRARODINÁRIO. CF/88, ART. 37, IX. CONTRATAÇÃO TEMPORÁRIA PARA O MAGISTÉRIO MUNICIPAL. PRETERIÇÃO DE APROVADOS EM CONCURSO PÚBLICO.
+    1.A regra constitucional é o provimento de cargo público mediante concurso.
+    2. Comprovada a necessidade de contratação de pessoal, os candidatos aprovados em concurso público serão nomeados em detrimento de contratações temporárias. Precedentes.
+    3.Agravo regimental a que se nega provimento.” (RE n. 555.141-AgR, Relatora a Ministra Ellen Gracie, 2ª Turma, DJe de 24.2.11).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. TERCEIRIZAÇÃO DE VAGA. PRETERIÇÃO DE CANDIDATOS APROVADOS. DIREITO À NOMEAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1.Uma vez comprovada a existência da vaga, sendo esta preenchida, ainda que precariamente, fica caracterizada a preterição do candidato aprovado em concurso.
+    2.Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal.
+          Agravo regimental a que se nega provimento.” (AI n. 777.644-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJe de 14.05.10).
+    “EMENTA: SERVIDOR PÚBLICO. CONCURSO PÚBLICO. Cargo. Nomeação. Preterição da ordem de classificação e contratação precária. Fatos não demonstrados. Segurança concedida em parte. Suspensão. Indeferimento. Inexistência de lesão à ordem pública. Agravo regimental improvido. Não há risco de grave lesão à ordem pública na decisão judicial que determina seja observada a ordem classificatória em concurso público, a fim de evitar preterição de concursados pela contratação de temporários, quando comprovada a necessidade do serviço.” (SS n. 4.196-AgR, Relator o Ministro Cezar Peluso, Pleno, DJe de 27.8.10).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRETERIÇÃO DE APROVADOS PARA PROVIMENTO DE CARGO EFETIVO. RENOVAÇÃO DE CONTRATOS TEMPORÁRIOS. IMPOSSIBILIDADE. PRECEDENTES.
+    O Supremo Tribunal Federal fixou entendimento no sentido de que, comprovada a necessidade de contratação de pessoal, deve-se nomear os candidatos aprovados no certame em vigor em detrimento da renovação de contrato temporário.
+    Agravo regimental a que se nega provimento”. (AI 684.518-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJe 29.05.09).
+    “EMENTA: 1. Concurso público: terceirização da vaga: preterição de candidatos aprovados: direito à nomeação: uma vez comprovada a existência da vaga, sendo esta preenchida, ainda que precariamente, fica caracterizada a preterição do candidato aprovado em concurso.
+    2. Recurso extraordinário: não se presta para o reexame das provas e fatos em que se fundamentou o acórdão recorrido: incidência da Súmula 279.” (AI n. 440.895-AgR, Relator o Ministro Sepúlveda Pertence, 1ª Turma, DJ de 20.10.06).
+    “EMENTA: - Recurso extraordinário. Administrativo. Concurso Público. 2. Acórdão que negou provimento à apelação, assentando a inexistência de direito subjetivo à nomeação de candidatos aprovados em concurso para provimento de cargo de Professor Assistente. 3. Criação de dois cargos de Professor Assistente no Departamento de Filosofia e Teoria Geral do Direito, quando se encontrava em pleno curso o tempo de eficácia do concurso público. Ocorrência de contratação de professores e renovação de contrato. 4. Precedente da Turma no RE 192.569-PI, em que se assegurou a nomeação de concursados, eis que existentes vagas e necessidade de pessoal. 5. Constituição, art. 37, IV. Prequestionamento verificado. 6. Recurso extraordinário conhecido e provido.” (RE n. 273.605, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 28.6.02).
+    Ex positis, NEGO SEGUIMENTO ao recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
