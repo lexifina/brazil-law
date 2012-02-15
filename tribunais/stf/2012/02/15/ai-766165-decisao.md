@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Pernambuco, cuja ementa tem o seguinte teor (fls. . Transcrevo a ementa (fls. 159):
+    “CONSTITUCIONAL E PROCESSUAL CIVIL. INDENIZAÇÃO. ACIDENTE DE VIAÇÃO. CASO FORTUITO. DESCARACTERIZAÇÃO. RESPONSABILIDADE OBJETIVA DO ESTADO. PRELIMINARES REJEITADAS. REEXAME NECESSÁRIO IMPROVIDO. DECISÃO UNÂNIME.
+    - Os efeitos advenientes de declaração da incompetência absoluta do Juízo, alcançam apenas os atos decisórios, ficando excluídos todos os outros praticados no processo, por mais importantes que sejam para o deslinde da causa (artigo 113, § 2º, do CPC);
+    - O Juízo competente, para o qual foi remetido o processo, não encontrando dificuldade em razão de não haver presidido a audiência de instrução, pode livremente examinar a prova oral já coligida para os autos, sem que isso acarrete nulidade do processo (artigo 132, parágrafo único, do CPC);
+    - Nas ações decorrentes de acidentes de veículos, a responsabilidade civil do Estado se assenta no risco administrativo e independe de prova de culpa, bastando que o lesado, para obter indenização, demonstre nexo causal existente entre o fato e o dano (artigo 37, § 6º, da Constituição da República).
+    - Descaracteriza-se a ocorrência de caso fortuito, quando o Estado não demonstra a realização das necessárias manutenções no veículo de sua propriedade. Foram opostos embargos de declaração, os quais foram acolhidos por acórdão nestes.”
+    Nas razões do recurso extraordinário, a parte ora agravante alega violação dos arts.37, § 6º e 96, I, a, da Constituição federal. Sustenta-se erro no julgado, em razão da aplicação da teoria do risco administrativo, quando, em caso de omissão, a responsabilidade é subjetiva, concluindo que“não restou comprovada a relação de causa e efeito entre o evento danoso e a alegada e não provada omissão do recorrente quanto à realização das manutenções preventivas e corretivas no veículo oficial” (fls. 199).
+    É o relatório. Decido.
+    Embora o acórdão recorrido tenha discorrido sobre a responsabilidade objetiva do Estado, foi aferida a culpa do agravante, na modalidade negligência. Transcrevo (fls. 163):
+    “A confissão do apelante no sentido de que o veículo de sua propriedade sofreu avaria antes do evento, ao contrário, contribui, de forma decisiva, para o deslinde da questão posta em Juízo, em favor da recorrida. É que o Estado tem a obrigação de manter os seus veículos em condições de trafegabilidade, realizando revisões periódicas, para evitar riscos aos transeuntes”
+    Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+    Ademais, se o acórdão recorrido efetivamente reconheceu os danos experimentados pela parte agravada, o nexo de causalidade entre os referidos danos e a omissão do agente público e, ainda, a inexistência de excludentes do dever de indenizar, não há que se falar em vulneração ao art. 37, § 6º, da Constituição.
+    Quanto à apontada violação do art. 96, I, a, da Carta Magna, verifico que o acórdão recorrido decidiu a questão por meio da aplicação das normais infraconstitucionais que regem a matéria (Resolução 148/2001 e Lei Complementar 35/1979). Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
