@@ -1,0 +1,16 @@
+DECISÃO:  Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado:
+    “APELAÇÃO – EMBARGOS À EXECUÇÃO FISCAL – ISS – AUTARQUIA – RESPONSABILIDADE PELO PAGAMENTO – IMUNIDADE NÃO CARACTERIZADA – ART. 150, § 2º, DA CF – INAPLICABILIDADE.
+    A denominada imunidade recíproca não abrange os serviços que sejam prestados por terceiros à autarquia, ainda que a legislação municipal atribua a esta a responsabilidade pelo respectivo pagamento. RECURSO PROVIDO.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, LV, e 150, VI, a, e § 2º, da Constituição.
+    Sem razão o agravante.
+    A imunidade tributária não alcança as entidades previstas no art. 150, VI, da Constituição, na hipótese delas serem eleitas responsáveis ou substitutas tributárias. Os fatos jurídicos tributários se referem a outras pessoas, contribuintes. Se estas pessoas não gozarem da imunidade, descabe estender-lhes a salvaguarda constitucional.
+    Nesse sentido:
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ENTIDADE DE ASSISTÊNCIA SOCIAL E EDUCAÇÃO SEM FINS LUCRATIVOS. INAPLICABILIDADE ÀS HIPÓTESES DE RESPONSABILIDADE OU SUBSTITUIÇÃO TRIBUTÁRIA. IMPOSTO SOBRE OPERAÇÃO DE CIRCULAÇÃO DE MERCADORIAS - ICM/ICMS. LANÇAMENTO FUNDADO NA RESPONSABILIDADE DO SERVIÇO SOCIAL DA INDÚSTRIA - SESI PELO RECOLHIMENTO DE TRIBUTO INCIDENTE SOBRE A VENDA DE MERCADORIA ADQUIRIDA PELA ENTIDADE. PRODUTOR-VENDEDOR CONTRIBUINTE DO TRIBUTO. TRIBUTAÇÃO SUJEITA A DIFERIMENTO. Recurso extraordinário interposto de acórdão que considerou válida a responsabilização tributária do Serviço Social da Indústria - SESI pelo recolhimento de ICMS devido em operação de circulação de mercadoria, sob o regime de diferimento. Alegada violação do art. 150, IV, c da Constituição, que dispõe sobre a imunidade das entidades assistenciais sem fins lucrativos. A responsabilidade ou a substituição tributária não alteram as premissas centrais da tributação, cuja regra-matriz continua a incidir sobre a operação realizada pelo contribuinte. Portanto, a imunidade tributária não afeta, tão-somente por si, a relação de responsabilidade tributária ou de substituição e não exonera o responsável tributário ou o substituto. Recurso extraordinário conhecido, mas ao qual se nega provimento.” (RE 202987, rel. min. Joaquim Barbosa, Segunda Turma, DJ de 25.09.2009 - grifei)
+    Já no tocante à alegação de ofensa ao art. 5º, LV, da Carta Magna, transcrevo trecho do aresto vergastado:
+    “Por outro lado, não houve o alegado cerceamento de defesa no procedimento administrativo, visto que a embargante não impugnou o fato de ter recebido a notificação da infração em 12 de setembro de 2000, havendo nos autos, inclusive, comprovação do recebimento (cf. fls. 17)” (fls. 66)
+    A análise do recurso extraordinário, nesse ponto, implica o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
