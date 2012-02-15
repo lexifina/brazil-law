@@ -1,0 +1,46 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. TRÂNSITO EM JULGADO DE FUNDAMENTO INFRACONSTITUCIONAL AUTÔNOMO: SÚMULA N. 283 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Rondônia:
+    “Apelação cível. Servidor público. Contratação sem concurso público. Reenquadramento. Demissão. Transcurso de longo período. Prescrição administrativa. Ocorrência. Coisa julgada. Inexistência. Reintegração. Possibilidade. Devolução de FGTS. Reconhecimento de vínculo estatutário.
+    A Administração Pública tem o prazo de cinco anos para anular os atos administrativos favoráveis aos seus servidores, findo este prazo, convalidado estará o ato, qualquer que seja o vício.
+    Não há coisa julgada quando a ação apresenta causa de pedir diversa.
+    O ato de demissão pela Administração Pública, após transcorridos mais de quinze anos da contratação de servidor sem concurso público, viola o princípio da segurança jurídica.
+      Para mitigar os efeitos do ato administrativo anulado pelo poder público, deverão ser considerados o longo tempo transcorrido e as justas expectativas geradas ao administrado.
+      Em virtude da readmissão da servidora com vínculo estatutário, devido torna-se a devolução da quantia recebida a título de FGTS” (fl. 161 – grifos nossos).
+    Tem-se nesse julgado:
+    “Consta que o Apelado fora admitido no serviço público em Julho de 1990 pelo Tribunal de Justiça, em regime celetista, sem realizar concurso público, sendo enquadrado definitivamente no quadro de pessoal do TJRO com amparo no art. 8º do [ADTCE/RO], norma posteriormente declarada inconstitucional pelo STF.
+    Também consta que decorrido mais de 13 anos, o TJRO instaurou processo administrativo para verificar a situação funcional da autor, anulou seu enquadramento e o dispensou.
+    (…)
+    Quanto à insurgência, em relação ao reconhecimento da prescrição ou decadência, este Tribunal em julgamento de caso semelhante, já analisou a questão, na qual reconheceu a perda do direito do Estado em revisar o ato administrativo tido por ilegal, situação que ensejou a reintegração do servidor.
+    (…)
+    Quanto ao mérito propriamente dito, não se discute o fato de que o apelado foi contratado sem concurso público, em desrespeito às regras constitucionais.
+    Após a promulgação da atual Constituição, é sabido que o ingresso no quadro de pessoal da administração pública, direta ou indireta, dá-se por meio de concurso público de provas e títulos, salvo nos casos de cargos de confiança.
+    No entanto, postula a nulidade do ato administrativo que culminou com sua demissão e a reintegração, além do pagamento dos salários retroativos.
+    O Estado promoveu a admissão do apelado no ano de 1990, pelo regime celetista e, no ano de 1994 reenquadrou-o ao regime estatutário e, somente, após transcorridos mais de doze anos, o demitiu ante a constatação de que sua contratação fora irregular.
+    O ato que efetivou o apelante no serviço público, sem a prévia aprovação em concurso público e após a vigência da norma prevista no art. 37, II, da Constituição Federal, é induvidosamente ilegal, no entanto, o transcurso de mais de doze anos gerou efeitos que, para o apelante, eram irreversíveis.
+    Destaco que o argumento usado pela Administração de que o ato foi praticado em respeito ao princípio da legalidade, não é de todo aceitável, pois atenta indiscutivelmente contra o princípio da boa-fé objetiva e também viola a segurança jurídica.
+    (…)
+    A singularidade extrema do presente caso impõe a prevalência do princípio da segurança jurídica na ponderação com o princípio da legalidade. Não há como fechar os olhos à realidade apresentada nos autos.
+    (…)
+    Conforme se colhe do jugado que se deve ter é que o retorno do servidor ao serviço público está sendo permitido apenas em razão de, após sopesar os princípios constitucionais, ter-se optado em dar preferência aos princípios da segurança jurídica e da boa-fé, em detrimento do princípio da legalidade, tendo em vista o longo período de tempo pelo qual perdurou a situação.
+    (…)
+    Por fim, ressalvo ainda que foi garantido ao servidor, quando de sua demissão, o recebimento do valor de referente ao FGTS que fazia jus em face do seu ingresso no cargo de servidor estatutário ter sido considerado inconstitucional pelo STF, montante que, caso o servidor seja readmitido como estatutário, deverá ser de alguma forma reembolsado ao erário, o que entendo deva ser efetivado em parcelas mensais, a serem fixadas por meio do procedimento específico.
+    Em face do exposto, dou provimento parcial ao recurso do Estado de Rondônia para, apesar de manter a decisão de readmissão do servidor, afastar o pagamento dos salários pelo período em que esteve fora do serviço público e, ainda, determinar que os valores recebidos a título de FGTS sejam devolvidos aos cofres públicos” (fls. 164-170 – grifos nossos).
+    2. O Recorrente sustenta contrariedade aos princípios da legalidade, impessoalidade e moralidade e ao art. 37, inc. II, da Constituição da República, pelas seguintes razões: a) “houve uma visível recusa do Chefe do Poder Judiciário local, com a conivência dos interessados, de, permissa venia, ‘empurrar com a barriga’ a inconstitucionalidade declarada, e, não dar efeito algum à decisão proferida pela mais alta Corte do Poder Judiciário, para somente agora alegar ‘princípios da boa-fé e da segurança jurídica’ para justificar a manutenção de situação alheia à Constituição, às Leis e às decisões judiciais definitivas, transitadas em julgado, as quais impuseram a tomada de iniciativas administrativas” (fl. 220); b) “a decisão proferida está longe de justificar a ‘segurança jurídica’; antes, pelo contrário, abala-a, principalmente se considerarmos que a declaração de inconstitucionalidade em debate, que se deu nos idos de 1993, tem, indiscutivelmente, efeito erga omnes” (fl. 222); c) os atos impugnados estariam “eivados de vício insanável, não produzindo efeitos no mundo jurídico, sendo insuscetível de convalidação temporal, em razão do interesse público envolvido” (fl. 224).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal (fls. 339-341).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O fundamento infraconstitucional autônomo do julgado recorrido (consumação da decadência pelo decurso do prazo de cinco anos) não foi objeto do recurso especial (fls. 185-203) interposto pelo Agravante (ao qual foi negado seguimento por decisão transitada em julgado – fls. 337-338 e 353).
+    Assim, incide na espécie vertente a Súmula n. 283 do Supremo Tribunal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. LIMITES OBJETIVOS DA COISA JULGADA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 628.266-AgR, de minha relatoria, Primeira Turma, Dje 1º.2.2011 – grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FUNDAMENTO INFRACONSTITUCIONAL. TRÂNSITO EM JULGADO. INCIDÊNCIA DA SÚMULA 283/STF. AMPLA DEFESA. CONTRADITÓRIO. DEVIDO PROCESSO LEGAL. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O fundamento infraconstitucional, suficiente para a manutenção do acórdão impugnado, transitou em julgado. Incidência da Súmula 283 do Supremo. 2. O reexame da matéria fático-probatória é inviável em sede extraordinária por incidir o óbice da Súmula 279 do STF. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento” (RE 584.545-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 28.11.2008 – grifos nossos).
+    7. Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
