@@ -1,0 +1,51 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CRIAÇÃO DE NOVOS NÍVEIS NA CARREIRA: INAPLICABILIDADE DO ART. 40, § 8º, DA CONSTITUIÇÃO DA REPÚBLICA (INCLUÍDO PELA EMENDA CONSTITUCIONAL N. 20/1998). JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO PROVIDO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro (proferido em apelação em ação ordinária):
+    “Agravo Inominado. Direito Administrativo. Obrigação de Fazer. Servidor Público aposentado. Oficial de Justiça. Revisão de [provento] de aposentadoria. O servidor que se aposentar na classe mais elevada da carreira tem o direito à equiparação salarial ao servidor da ativa que também ocupe a classe mais alta.
+    Artigo 7º da Emenda constitucional nº 41/03. A Resolução 23/2002 criou uma desigualdade funcional, violando o art. 40, §8º, da Constituição da República, bem como o § 3º da Lei estadual 3.893/2002.
+    Recurso desprovido” (fl. 263 – grifos nossos).
+    Tem-se nesse julgado:
+    “Insta ser enfatizado que a Lei Estadual nº 3.893/2002 reestruturou a carreira dos serventuários do Poder Judiciário, estabelecendo como o mais alto índice da carreira o índice 2000.
+    No entanto, verifica-se que a Resolução nº 23/2002, que regulamentou a lei acima mencionada, estabeleceu condições para o escalonamento na carreira, porém somente para os oficiais de Justiça em atividade, mantendo os inativos na mesma classe e índices em que se aposentaram, fato que resultou na redução dos seus proventos.
+    Observa-se que a Resolução 23/20002 criou uma desigualdade funcional, violando o art. 40, § 8º da Constituição da República, bem como o § 3º da Lei estadual 3.893/2002.
+    Sendo evidente o direito dos autores de perceberem rendimentos correspondentes aos recebidos por aqueles servidores que integram o nível mais alto da carreira de Oficial de Justiça, como tão bem fundamentou a douta Procuradoria de Justiça em seu parecer acostado às fls. 235/238, o qual adoto na forma regimental.
+    Nesse passo, se o servidor se aposentou na classe mais elevada da carreira, tem o direito à equiparação salarial ao servidor da ativa que também ocupe a classe mais alta, sendo necessário o seu reenquadramento funcional para preservar a paridade, art.7º da Emenda constitucional nº 41/2003.
+    Outrossim, a modificação por reclassificação ou transformação do cargo em que se deu a aposentadoria dos Autores, legitima-os a postularem a equiparação funcional” (fls. 264-265 – grifos nossos).
+    2. O Recorrente sustenta contrariedade aos arts. 2º, 37, inc. XIII, e 40, § 8º (antes da alteração pela Emenda Constitucional n. 41/2003), da Constituição da República, pois “a regra de paridade não guarda qualquer relação com o que de fato pretendem os Recorridos, isto é, ser reenquadrados no último índice da carreira, de modo que possam continuar a ostentar tal posição perante seus pares” (fl. 274).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de incidência das Súmulas n. 279, 280 e 282 do Supremo Tribunal (fls. 308-312).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar os fundamentos da decisão agravada, pois a matéria objeto do recurso extraordinário é estritamente jurídico-constitucional e foi prequestionada.
+    Além disso, embora tenha aludido à Lei Estadual nº 3.893/2002, o Tribunal de origem asseverou que essa Lei tivera por objeto único a criação de novos padrões da carreira dos servidores do Poder Judiciário local e que a Resolução n. 23/2002 (não a Lei) disciplinara a situação dos inativos.
+    Assim, a lide foi solucionada apenas com base no princípio da paridade entre ativos e inativos (art. 7º da Emenda Constitucional n. 41/2003).
+    Passo à análise do recurso extraordinário.
+    6. Razão jurídica assiste ao Recorrente.
+    7. Pela jurisprudência do Supremo Tribunal, o art. 40, § 8º, da Constituição da República (antes da alteração pela Emenda Constitucional n. 41/2003) e o art. 7º da Emenda Constitucional n. 41/2003 não conferem ao inativo aposentado no último nível da carreira o direito ao reenquadramento no nível mais elevado instituído após sua aposentadoria. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LEI 13.666/02. REENQUADRAMENTO. REGIME JURÍDICO. DIREITO ADQUIRIDO. INEXISTÊNCIA. PRECEDENTES. RECURSO DESPROVIDO. 1. O agravo regimental não merece provimento nas hipóteses em que a decisão monocrática chancela jurisprudência pacífica da Corte em recurso extraordinário interposto contra acórdão que contrariou decisão da Suprema Corte. 2. A questão constitucional posta nestes autos é relativa a reenquadramento de servidor inativo em outro nível da carreira, ainda que tenha sido aposentado no último nível desta. 3. Sob esse enfoque o Supremo Tribunal Federal, em casos idênticos, firmou entendimento segundo o qual o servidor público não tem direito adquirido a regime jurídico. Precedentes: AI 807.800-AgR, Rel. Ministra Ellen Gracie, Segunda Turma, DJe de 28/04/2011; AI 633501-AgR, Rel. Ministro Gilmar Mendes, Segunda Turma, Dje de 18/04/2008; AI 765.708-AgR, Rel. Ministro Ricardo Lewandowski, Primeira Turma, Dje de 30/11/2010; AI 720.940-AgR, Rel. Ministra Cármen Lúcia, Primeira Turma, Dje de 20/08/2009. 4. Deveras, havendo alteração no escalonamento dos níveis de referência da carreira a que pertence o servidor inativo é possível seu reenquadramento em outro nível, ainda que tenha sido aposentado no último nível desta, por isso não há que se aduzir à violação do direito adquirido e do princípio da isonomia, uma vez não ocorrente redução dos proventos do servidor inativo. Precedente: AI 720.940-AgR, Rel. Ministra Cármen Lúcia. Extrai-se do voto condutor do acórdão: “(...) 2. Como assentado na decisão agravada, o Supremo Tribunal Federal firmou entendimento no sentido de que inexiste direito adquirido a regime jurídico e a fórmula de composição da remuneração dos servidores públicos, desde que não acarrete redução no valor nominal dos vencimentos, o que não ocorreu na espécie. 3. Ademais, o princípio da paridade previsto no art. 40, § 8°, da Constituição da República apenas garante aos servidores inativos a correspondência remuneratória com os servidores em atividade ocupantes do cargo no qual se aposentaram”. 3. Agravo regimental a que nega provimento” (RE 632.406-AgR, Rel. Min. Luiz Fux, Primeira Turma, Dje 15.9.2011 – grifos nossos).
+    “Ao apreciar o AI 456.877, proferi a seguinte decisão (fls. 112-113):
+    ‘Trata-se de agravo contra decisão que negou processamento a recurso extraordinário fundado no art. 102, III, 'a', da Constituição Federal, interposto em face de acórdão assim ementado:
+    `EMENTA: LEI ESTADUAL - CRIAÇÃO E AMPLIAÇÃO - PLANO DE CARREIRA - TCMG - BENEFÍCIOS ESTENDIDOS AOS SERVIDORES INATIVOS - ART. 40, § 8º, DA CF/88. `O art. 40, § 8º, da Carta Magna estendeu aos inativos os acréscimos decorrentes de transformação ou reclassificação do cargo ou da função em que forem aposentados; é de se notar que os servidores postulantes não teriam condições de cumprir a exigência feita pela Administração para fazerem jus à promoção da carreira de TCU-28 para TCU-35, pelo simples fato de estarem aposentados, sendo justo, portanto, o ajustamento de suas remunerações conforme dispõem as Leis 11.816/95 e 12.974/98'.
+    Alega-se violação ao art. 40, § 8º (§ 4o - da redação original), da Carta Magna.
+    Esta Corte ao julgar o RE 323.857, Rel. Ellen Gracie, 2a T., DJ 06.08.04, assim decidiu:
+    `CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REPOSICIONAMENTO DE SERVIDORES ATIVOS NO NÍVEL DA CARREIRA. EXTENSÃO AOS APOSENTADOS. IMPOSSIBILIDADE.
+    1. Não se encontra prequestionado o tema relativo à suposta ocorrência de prescrição da pretensão dos recorridos (Súmulas STF no 282 e 356).
+    2. É inviável estender a servidores inativos as vantagens pecuniárias decorrentes de reposicionamento, na carreira, dos servidores da ativa, com fundamento no art. 40 § 4º (redação original) da CF/88. Precedentes: RMS 21.665, DJ de 08/04/1994 e RE 194.647, DJ de 03/04/1998.
+    3. Recurso extraordinário conhecido em parte e, nesta parte, provido.'
+    Assim, dou provimento ao agravo e converto-o em recurso extraordinário (art. 544, §§ 3º e 4º, do CPC), para dar-lhe provimento’
+    (…)
+    O cerne da questão está circunscrito ao direito dos agravantes, servidores inativos, de obterem reposicionamento na carreira, tendo em vista o que decidido pelo Tribunal de Contas do Estado de Minas Gerais a partir da interpretação dada à Lei Estadual no 11.349, de 1993.
+    Os agravantes não trouxeram argumentos capazes de modificar o posicionamento deste Tribunal.
+    (…)
+    Esta Corte decidiu que a discussão sobre mero reposicionamento de servidores na carreira não é extensivo aos inativos, v.g., o RE 323.857, Rel. Ellen Gracie, 2a T., DJ 06.08.04 (…).
+    Nesse mesmo sentido o RMS 21.665, 2a T., Rel. Carlos Velloso, DJ 08.04.94.
+    Assim, nego provimento ao agravo regimental” (AI 456.877-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 20.4.2006 – grifos nossos).
+    Dessa orientação jurisprudencial divergiu o julgado recorrido.
+    8. Pelo exposto, dou provimento ao agravo e, desde logo, ao recurso extraordinário (art. 544, § 4º, inc. II, alínea c, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal).
+    Ficam invertidos os ônus de sucumbência, ressalvada a concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 15 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
