@@ -1,0 +1,16 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 133):
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI 8.870/94. ART. 25, I, II E § 1º. CONSTITUCIONALIDADE.
+    1. O art. 25-I e II e seu § 1º, da Lei n. 8.870/94 não padece de vício de inconstitucionalidade visto que o legislador apenas suprimiu uma fonte (folha de salários) para concentrar-se em outra (faturamento), daí por que a contribuição social questionada inserir-se entre as previstas no art. 195-I da CF/88 e dispensar, conseqüentemente, lei complementar. Com efeito, no art. 25-I a alusão à receita bruta proveniente da comercialização de sua produção, como base de cálculo da contribuição, é equiparável à noção corrente de faturamento. Precedentes STF: ADIN 1.103-DF, Min. Néri da Silveira, e desta Turma: AMS 1999.71.00.021023-7/RS, rel. Juiz Alcides Vettorazzi (convocado).
+    2. O fato de já existir contribuição previdenciária incidente sobre o faturamento – COFINS – não inibe a imposição da contribuição atacada vez que o bis in idem não é vedado pelo ordenamento e, ademais, cuida-se de mesma contribuição para a mesma finalidade com mesma hipótese de incidência.
+    3. Ausência de maltrato ao art. 194, p.u., V, e 150-II, ambos da CF/88, porquanto a exação recai sobre todas as empresas agroindustriais.
+    4. Apelação e remessa oficial providas.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso I do art. 3º, ao inciso II do art. 150, ao inciso V do art. 194, e ao inciso I do art. 195, todos da Magna Carta de 1988. Pede a não-aplicação ao caso do inciso I e do § 1º do inciso II, ambos do art. 25 da Lei 8.870/1994, desobrigando-lhe da obrigação de recolher a contribuição previdenciária sobre o valor da comercialização da produção rural.
+    5. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Eitel Santiago de Brito Pereira, opina pelo desprovimento do apelo extremo.
+    6. Tenho que a insurgência merece acolhida. Isso porque, nos termos da jurisprudência desta nossa Casa de Justiça, a Constituição Federal autorizou a incidência da contribuição social sobre a comercialização da produção rural tão somente para os contribuintes que exerçam sua atividade em regime de economia familiar (§ 8º do art. 195 da CF/1988). Desta forma, somente por lei complementar, nos termos do § 4º do art. 195 do Magno Texto, se poderia validamente exigir, para outros contribuintes, a exação em análise, incidente sobre a comercialização da produção rural.
+    7. Precedentes: ADI 1.103, redador para o acórdão o ministro Maurício Correa; bem como REs 363.852, da relatoria do ministro Marco Aurélio; 541.385-ED e 550.057-AgR, da relatoria do ministro Dias Toffoli; 435.693 e 591.392, da relatoria do ministro Luiz Fux; 597.027, da relatoria da ministra Cármen Lúcia; e 596.177, da relatoria do ministro Ricardo Lewandowski.
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso. Sem condenação em honorários advocatícios (Súmula 512/STF).
+    Publique-se.
+    Brasília, 16 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
