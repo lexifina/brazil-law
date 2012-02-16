@@ -9,4 +9,4 @@ III - utiliza local ou bem de qualquer natureza de que tem a propriedade, posse,
 Pena - detenção, de 1 (um) a 3 (três) anos, e multa de 100 (cem) a 300 (trezentos) dias-multa.
 § 3º Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem:
 Pena - detenção, de 6 (seis) meses a 1 (um) ano, e pagamento de 700 (setecentos) a 1.500 (mil e quinhentos) dias-multa, sem prejuízo das penas previstas no art. 28.
-§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
