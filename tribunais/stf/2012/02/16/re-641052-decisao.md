@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela inclusão dos valores destinados ao pagamento de salários e demais encargos trabalhistas dos trabalhadores temporários na base de cálculo do PIS e da COFINS devidos pelas empresas prestadoras de serviço de locação de mão-de-obra temporária.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 195, I, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido está em consonância com o entendimento desta Corte no sentido de que, para a definição da base de cálculo para a incidência do PIS e da COFINS, a receita bruta e o faturamento são termos sinônimos e consistem na totalidade das receitas auferidas com a venda de mercadorias, de serviços ou de mercadorias e serviços. Nesse sentido, destaco o julgamento do RE 608.830-AgR/PR, Rel. Min. Cármen Lúcia, e do RE 371.258-AgR/SP, Rel. Min. Cezar Peluso, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA FINANCIAMENTO DA SEGURIDADE SOCIAL – COFINS E PROGRAMA DE INTEGRAÇÃO SOCIAL – PIS. BASE DE CÁLCULO. EMPRESAS PRESTADORAS DE SERVIÇOS TERCEIRIZADOS. RECEITA BRUTA E FATURAMENTO: SINONÍMIA DE TERMOS, SIGNIFICANDO AMBOS O TOTAL DOS VALORES AUFERIDOS COM A VENDA DE MERCADORIAS, DE SERVIÇOS OU DE MERCADORIAS E SERVIÇOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 608.830-AgR/PR, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “RECURSO. Extraordinário. COFINS. Locação de bens imóveis. Incidência. Agravo regimental improvido. O conceito de receita bruta sujeita à exação tributária envolve, não só aquela decorrente da venda de mercadorias e da prestação de serviços, mas a soma das receitas oriundas do exercício das atividades empresariais” (RE 371.258-AgR/SP, Rel. Min. Cezar Peluso, Segunda Turma).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 643.823/PR e AI 776.446/RS, Rel. Min. Dias Toffoli; RE 656.284/DF, Rel. Min. Ayres Britto; ARE 645.618/PR, RE 630.728/SP e 621.675/RS, Rel. Min. Cármen Lúcia; RE 390.840/MG, Rel. Min. Marco Aurélio.
+    Assim, os valores dos salários e encargos sociais dos trabalhadores temporários repassados pelas empresas tomadoras de serviços às empresas prestadoras de serviços terceirizados integram a base de cálculo do PIS e da COFINS devidos pelas últimas, uma vez que os referidos valores estão compreendidos no conceito de faturamento.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
