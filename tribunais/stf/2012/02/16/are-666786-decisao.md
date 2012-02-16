@@ -1,0 +1,19 @@
+Decisão: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “JUIZADOS ESPECIAIS – CIVIL – DENUNCIAÇÃO CALUNIOSA – DOLO DE AGIR – RIVALIDADE DE CHAPAS PARA A REGÊNCIA DE CONDOMÍNIO – DANOS MORAIS CONFIGURADOS – RAZOABILIDADE E PROPORCIONALIDADE NO QUANTUM INDENIZATÓRIO – SENTENÇA MANTIDA – RECURSO CONHECIDO E NÃO PROVIDO.
+    1. Dar causa a instauração de inquérito policial, apontando o possível autor do delito, constitui, em regra, exercício regular de direito, salvo quando comprovado o dolo, que se configurou no caso, por ter sido a notitia criminis pautada em rivalidade de chapas oponentes para regência de condomínio.
+    2. O arbitramento do quantum indenizatório deve ser moderado e equitativo, evitando-se que se converta o dano em instrumento de enriquecimento indevido.
+    3. Observados os princípios da razoabilidade e da proporcionalidade, sentença que fixa valor de R$ 4000,00 (quatro mil reais) à título de reparação por dano moral e, ainda, que considera a gravidade do dano, os incômodos e constrangimentos experimentados pelo autor, deve ser confirmada.
+    4. Sentença mantida pelos próprios fundamentos, com Súmula de julgamento servindo de acórdão, na forma do artigo 46 da Lei 9.099/95. Recurso conhecido e não provido. Condenado o recorrente vencido ao pagamento das custas e honorários advocatícios que fixo em 10% (dez por cento) sobre o valor da condenação.” (fl. 216)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, LV e LIV, e ao artigo 93, IX, todos da Constituição da República.
+    Com base no exame de provas, o Tribunal de origem entendeu ser cabível a indenização por danos morais arbitrada e manteve a sentença de primeiro grau por seus próprios fundamentos. Concluir de modo diverso demandaria o reexame do conjunto fático-probatório constante dos autos, o que não viabiliza o recurso extraordinário. Nesse sentido o AI-AgR 653.547, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 23.10.2009:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. INDENIZAÇÃO POR DANO MORAL. CARACTERIZAÇÃO DO DANO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA STF 279. MATÉRIA INFRACONSTITUCIONAL. 1. O Tribunal de origem reconheceu a responsabilidade civil do ora agravado com fundamento nos fatos e provas da causa, tendo concluído pela existência de excesso autorizador da reparação por danos morais. Incide, na espécie, o óbice da Súmula STF 279. 2. Agravo regimental a que se nega provimento”.
+    O acórdão recorrido à luz das provas carreadas nos autos reconheceu categoricamente, que:
+    “(...) Dar causa a instauração de inquérito policial, apontando o possível autor do delito, constitui, em regra, exercício regular do direito, salvo quando comprovado o dolo, que se configurou no caso, por ter sido a notitia criminis pautada em rivalidade de chapas oponentes para a regência de4 condomínio (...)”(nosso grifo). (fl. 216)
+     Para que fosse possível reverter tal assertiva, seria necessário reabrir a instrução probatória, circunstância vedada no julgamento do recurso extraordinário (Súmula 279/STF).
+    Além disso, com relação à alegada ofensa aos artigos 5º, LIV e LV, e ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 16 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
