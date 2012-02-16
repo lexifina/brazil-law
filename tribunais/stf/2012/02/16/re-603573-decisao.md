@@ -1,0 +1,19 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão da Tribunal de Justiça do Estado do Maranhão. Acórdão assim ementado (fls. 374/375):
+    “APELAÇÃO CÍVEL. CONSTITUCIONAL E PREVIDENCIÁRIO. AÇÃO ORDINÁRIA. FUNBEM. INCONSTITUCIONALIDADE DA COBRANÇA DO FUNDO. LEI ESTADUAL REVOGADA. EFEITOS RESIDUAIS CONCRETOS. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. POSSIBILIDADE. RESTITUIÇÃO DE VALORES. CABIMENTO. EMBARGOS DE DECLARAÇÃO QUE NÃO SE APRESENTAM PROTELATÓRIOS. EXCLUSÃO DA MULTA DE 1%. RELAÇÃO DE TRATO SUCESSIVO. PRESCRIÇÃO QUINQUENAL. APELO PARCIALMENTE PROVIDO.
+    I – Por se tratar de prestações de trato sucessivo, a prescrição não atinge o fundo de direito, sendo atingidas apenas as prestações vencidas antes do qüinqüídio anterior à propositura da ação, nos exatos termos da Súmula nº 85 do STJ.
+    II – É inviável o controle concentrado de constitucionalidade de norma já revogada, porém, se esta gerou efeitos residuais concretos, o Poder Judiciário deve se manifestar sobre as relações jurídicas dela decorrentes, por meio do controle difuso. Precedente do STF.
+    III – Declarada a inconstitucionalidade incidentalmente da lei que instituiu o tributo, há para o contribuinte o direito à restituição dos valores retirados do seu patrimônio sem justificativa legal.
+    IV – Verificando-se que a intenção dos Embargos de Declaração interpostos não possuem caráter protelatório, mas visam tão somente obter pronunciamento de matéria não apreciada na sentença, conforme dispõe o artigo 535 do CPC e a súmula 98 do STJ, é de ser afastada, por injustificável, a imposição da multa prevista no art. 538 do CPC.
+    V – A sentença também merece reparos no capítulo referente ao valor fixado na medida que, em se tratando de prestações de trato sucessivo, se deve levar em consideração a prescrição qüinqüenal, sendo devidos os valores limitados no período de cinco anos, contados a partir do ajuizamento da ação.
+    VI – Apelo parcialmente provido.”
+    2. Pois bem, a parte recorrente aponta violação ao art. 100, ao caput e inciso V do art. 194, ao § 5º do art. 195, ao § 1º do art. 198, ao caput do art. 204, e ao art. 249, todos da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo não-conhecimento do apelo extremo e, caso conhecido, pelo seu desprovimento.
+    4. Tenho que a insurgência não merece acolhida. É que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 573.540, da relatoria do ministro Gilmar Mendes, concluiu que os Estados-Membros não têm legitimidade para cobrar, de forma compulsória, contribuição destinada à saúde de seus servidores. Na oportunidade, firmou-se o entendimento no sentido de que não há óbice constitucional ao oferecimento dos serviços de saúde pelo Estado aos seus servidores, desde que a adesão e a “contribuição” não sejam compulsórias.
+    5. De mais a mais, observo que o art. 100 do Magno Texto, tido por violado, não foi apreciado pela instância judicante de origem. Tampouco foi suscitado nos embargos declaratórios opostos para suprir eventual omissão. Falta, portanto, o necessário prequestionamento, nos termos das Súmulas 282 e 356/STF.
+    6. À derradeira, ressalto que o Supremo Tribunal Federal assentou que não há questão constitucional a ser examinada e, em conseqüência, deu pela ausência do requisito da repercussão geral, quanto à controvérsia envolvendo a restituição a servidores estaduais dos valores alusivos à cobrança compulsória de contribuição destinada à saúde (RE 633.329, da relatoria do ministro Presidente).
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento a recurso.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
