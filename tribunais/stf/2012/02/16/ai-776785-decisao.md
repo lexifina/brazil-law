@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “Alienação fiduciária – Busca e apreensão – Liminar – Depósito das parcelas – Revogação – Admissibilidade – Recurso improvido. Eventual discussão acerca da suficiência do depósito efetuado não impede a revogação da medida liminar e a manutenção do bem na posse do devedor fiduciante”. (fl. 89)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 103-104).
+    No apelo extremo, sustenta-se que ocorreu violação ao artigo 5º, incisos XXII, LIV e LV, da Constituição Federal.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz dos elementos fático-probatórios constantes dos autos, de cláusulas contratuais (Cédula de crédito bancário n. 13969541) e da legislação infraconstitucional pertinente ao caso (Código de Processo Civil, Código Civil Brasileiro, Decreto-Lei 911/69). Eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incidem, portanto, os Enunciados 279 e 454 da Súmula do STF.
+    Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO DE IMÓVEL. RESTITUIÇÃO DE VALORES. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA "C" DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. IMPROCEDÊNCIA. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação infraconstitucional pertinente, de cláusulas contratuais, bem como a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No tocante à alínea "c" do inciso III do art. 102 da Carta Magna de 1988, é de se aplicar a Súmula 284 do STF. 3. Agravo regimental desprovido” (AI-AgR 724.461, Rel. Min. Ayres Britto, Segunda Turma, DJe 15.10.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO PARA AQUISIÇÃO DE IMÓVEIS. PRESTAÇÕES. 1. ALEGADA OFENSA AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. OFENSA AO ART. 93, INC. IX, DA CONSTITUIÇÃO FEDERAL: INEXISTÊNCIA. 3. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 730.781, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.6.2009).
+    Ademais, ressalto que é firme a jurisprudência desta Corte no sentido de que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 16 de fevereiro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
