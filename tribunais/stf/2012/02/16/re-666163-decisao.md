@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado (fls. 251):
+    “AGRAVO DE INSTRUMENTO. ELETROBRÁS. EMPRÉSTIMO COMPULSÓRIO. OBRIGAÇÕES AO PORTADOR. COBRANÇA. DESNECESSIDADE DA INTERVENÇÃO DA UNIÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. MUDANÇA DE ORIENTAÇÃO PARA SE ALINHAR À DO STJ.
+    1. Considerando a solidariedade entre a União e a Eletrobrás, prevista no art. 4º, § 3º, da Lei 4.156/62, o credor pode cobrar tanto de um devedor, de alguns quanto de todos, e considerando que, no caso, a parte elegeu apenas a Eletrobrás, economia mista, por sua vez não contemplada na competência rationae personae da Justiça Federal (CF, art. 109, I), a competência é da Justiça Estadual. Mudança de orientação para se alinhar à do STJ.”
+    2. Pois bem, a parte agravante alega ofensa ao inciso I do art. 109 da Magna Carta de 1988, bem como ao § 12 do art. 34 do ADCT.
+    3. Tenho que a insurgência não merece acolhida. Isso porque o entendimento da instância judicante de origem afina com a jurisprudência dessa nossa Casa de Justiça. Confiram-se, a propósito, as seguintes ementas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SOCIEDADE DE ECONOMIA MISTA. INGRESSO DA UNIÃO. INOCORRÊNCIA. COMPETÊNCIA. JUSTIÇA COMUM. 1. A jurisprudência do Supremo é firme no sentido de que "as sociedades de economia mista só têm foro na Justiça federal, quando a União intervém como assistente ou opoente" [Súmula 517]. 2. Não tendo a União requerido seu ingresso na causa para sustentar eventual interesse no feito, não há que se falar em incompetência da Justiça estadual para conhecer da demanda. Daí a legitimidade do Ministério Público estadual para atuar na causa, não do Ministério Público Federal. Agravo regimental a que se nega provimento.”
+    (RE 400.291-AgR, da relatoria do ministro Eros Grau.)
+    “COMPETÊNCIA. JUIZ FEDERAL. NÃO E POSSIVEL DESLOCAR A COMPETÊNCIA, AO JUIZ FEDERAL, PARA PROCESSAR E JULGAR AÇÃO DE COBRANÇA, ENTRE PARTICULARES, SEM QUE SUCEDA INTERVENÇÃO DA UNIÃO, OU DE AUTARQUIA FEDERAL, OU DE EMPRESA PÚBLICA FEDERAL, A TEOR DO ART. 109, DA CONSTITUIÇÃO, NA CONDIÇÃO DE AUTORA, RE, ASSISTENTE OU OPOENTE. HIPÓTESE EM QUE O BNH, OU SEU SUCESSOR, NÃO INTERVEIO NO FEITO. CONFLITO CONHECIDO, PARA DECLARAR-SE A COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA SUSCITADO.”
+    (CJ 6.866, da relatoria do ministro Néri da Silveira.)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL. ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. IMPOSSIBILIDADE DE DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. 2) ALEGAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO: QUESTÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (RE 588.134-AgR, da relatoria da ministra Cármen Lúcia.)
+    4. De mais a mais, quanto à discussão sobre a responsabilidade solidária da União nos créditos oriundos do empréstimo compulsório sobre o consumo de energia elétrica, o Supremo Tribunal Federal assentou que não há questão constitucional a ser examinada e, em conseqüência, deu pela ausência do requisito da repercussão geral (AI 810.097, da relatoria do ministro Gilmar Mendes).
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
