@@ -1,0 +1,29 @@
+Trata-se de agravo regimental interposto contra decisão que julgou prejudicado o recurso extraordinário. Eis o teor da decisão agravada:
+    “Trata-se de recurso extraordinário contra acórdão proferido pelo Pleno do Tribunal de Justiça do Estado do Piauí, em sede de mandado de segurança, assim ementado:
+    'MANDADO DE SEGURANÇA. Programa de Desligamento Voluntário (PDV). A ilegalidade apontada encontra-se comprovada de plano, posto que a Segurança pleiteada está embasada em Decreto Legislativo. Segurança concedida.'
+    Neste RE, com base no art. 102, III, a, da Constituição Federal, alegou-se ofensa aos arts. 2º, 5º, XXXVI, bem como ao art. 61, § 1º, II, c, combinado com o art. 25, todos da mesma Carta.
+    O recorrente, o Estado do Piauí, sustenta, em síntese, que a Lei estadual 4.865/96, que criou e estabeleceu as regras sobre o Programa de Demissão Voluntário, é formalmente perfeita, e, diante disso, não poderia ser revogada por Decreto Legislativo estadual, o DL 121/98, que determina a reintegração e fundamenta a pretensão dos recorridos.
+    O presente recurso perdeu o objeto.
+    Com efeito, em consulta ao sítio do Estado do Governo do Piauí, observei a edição do Decreto estadual 11.302, de 30 de janeiro de 2004, que 'dispõe sobre a reintegração de servidores por força de irregularidades constatadas nos atos de adesões e demissões relativos ao PDV, com fulcro no Decreto Legislativo nº 121/98, de 12 de novembro de 1998, e dá outras providências'.
+    Isso posto, julgo prejudicado o recurso (RISTF, art. 21, IX)” (fls. 716-717).
+    O agravante sustenta, em suma, a não prejudicialidade do recurso extraordinário, sob o argumento de que o Decreto estadual utilizado como fundamento para julgar prejudicado o recurso extraordinário não abrange todos os integrantes do polo passivo do referido recurso.
+    Assiste razão ao agravante, uma vez que não era o caso de se julgar prejudicado o recurso extraordinário em sua totalidade. Assim, reconsidero, em parte, a decisão de fls. 716-717 e passo a examinar o recurso no que se refere aos servidores eventualmente não abrangidos pelo Decreto estadual 11.302/2004.
+    Trata-se de recurso extraordinário interposto contra acórdão que entendeu que o Decreto Legislativo 121/1998, que sustou os deferimentos de adesão a Programa de Desligamento Voluntário (PDV) e determinou a reintegração dos autores, encontra respaldo no art. 63, II e V, da Constituição Estadual de 1989, bem como na Constituição Federal de 1988.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 2º, 5º, XXXVI, 25, e 61, § 1º, II, c, da mesma Carta.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do recurso (fls. 764-766).
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Decreto Legislativo 121/1998 e Constituição estadual). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “RECURSO EXTRAORDINÁRIO – MOLDURA FÁTICA. Na apreciação do enquadramento do recurso extraordinário em um dos permissivos constitucionais, parte-se da moldura fática delineada pela Corte de origem. Impossível é pretender substituí-la para, a partir de fundamentos diversos, chegar-se a conclusão sobre a ofensa a dispositivo da Lei Básica Federal.
+    RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL. O recurso extraordinário não é meio próprio a alcançar-se exame de controvérsia equacionada sob o ângulo estritamente legal.
+    AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (RE 456.989-AgR/PI, Rel. Min. Marco Aurélio, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. PLANO DE DEMISSÃO VOLUNTÁRIA. REINTEGRAÇÃO. DECRETO LEGISLATIVO N. 121/98. AUSÊNCIA DE PREQUESTIONAMENTO. LEGISLAÇÃO LOCAL. OFENSA REFLEXA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DO EXTRAORDINÁRIO COM FUNDAMENTO NA ALÍNEA 'C' DO ARTIGO 102, III, DA CONSTITUIÇÃO. INVIABILIDADE.
+    1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. A controvérsia foi decidida com fundamento na legislação local. Incidência da Súmula n. 280 do Supremo Tribunal Federal.
+    3. Acórdão recorrido que não julgou válida lei ou ato de governo local contestado em face da Constituição. Inviabilidade da admissão do recurso extraordinário interposto com fundamento na alínea 'c' do artigo 102, III, da Constituição.
+    Agravo regimental a que se nega provimento” RE 598.125-AgR/PI, Rel. Min. Eros Grau, Segunda Turma).
+    Isso posto, dou provimento ao agravo regimental, reconsidero parcialmente a decisão de fls. 716-717, apenas no que se refere à julgada prejudicialidade do apelo extremo em relação aos autores não abrangidos pelo Decreto Legislativo 11.302/2004 e, nessa parte, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
