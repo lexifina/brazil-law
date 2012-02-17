@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Superior Tribunal de Justiça, assim ementado:
+    “TRIBUTÁRIO. AÇÃO ORDINÁRIA DE REPETIÇÃO DE INDÉBITO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA. PAGAMENTOS EFETUADOS EM PERÍODO EM QUE NÃO HAVIA ISENÇÃO EM VIGOR. SUPERVENIÊNCIA DE REMISSÃO DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE DE RESTITUIÇÃO DOS VALORES PAGOS. CRÉDITO JÁ EXTINTO PELO PAGAMENTO. INTERPRETAÇÃO LITERAL DA NORMA CONCESSIVA DE ISENÇÃO.
+    1. Discute-se nos autos o sentido e o alcance dos institutos da remissão e da isenção, à luz do Código Tributário Nacional, contidos em lei municipal, para fins de aferição da possibilidade de restituição dos valores pagos a título de Imposto sobre Serviços de Qualquer Natureza.
+    2. Com relação ao prequestionamento dos dispositivos legais tidos por violados, é cediço que não é necessário que sejam expressamente citados pelo acórdão recorrido, desde que a questão jurídica neles esposada seja debatida pelo Tribunal de origem.
+    3. O pagamento de tributo do qual o contribuinte é isento enseja a repetição de indébito. Diversamente, o pagamento de tributo posteriormente submetido a norma remissiva não enseja repetição de indébito. Inteligência dos arts. 156, I e IV, e 175, I, do CTN.
+    4. O art. 111, II, do CTN prevê que a lei tributária que trata de isenção deve ser interpretada literalmente. Sendo assim, o caso dos autos não é daqueles elencados no art. 165 do CTN que permitem a restituição de tributo, tendo em vista que a exação era devida na época do seu pagamento tendo sido somente em data posterior objeto de remissão. Inversão dos ônus sucumbenciais.
+    5. Recurso especial provido.”
+    Sustenta-se, em síntese, a violação do art. 150, II, da Constituição federal, com o fim de poder repetir valores pagos a título de ISS entre 1º de janeiro de 2001 e 27 de julho de 2001, em razão de remissão concedida aos contribuintes (do mesmo ramo da agravante) por lei municipal.
+    O Supremo Tribunal Federal entende que não cabe ao Poder Judiciário, em face do princípio da isonomia, estender tratamento tributário diferenciado a contribuinte não previsto pela lei, sob pena de afronta ao princípio fundamental da separação dos poderes. É que nesse caso, o Poder Judiciário faria o papel de legislador positivo, função estranha à competência que a Constituição lhe conferiu.
+    Nesse sentido:
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. PIS/PASEP E COFINS. EXTENSÃO DE TRATAMENTO DIFERENCIADO. ISONOMIA. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. 1. O acolhimento da postulação da autora --- extensão do tratamento tributário diferenciado concedido às instituições financeiras, às cooperativas e às revendedoras de carros usados, a título do PIS/PASEP e da COFINS --- implicaria converter-se o STF em legislador positivo. Isso porque se pretende, dado ser ínsita a pretensão de ver reconhecida a inconstitucionalidade do preceito, não para eliminá-lo do mundo jurídico, mas com a intenção de, corrigindo eventual tratamento adverso à isonomia, estender os efeitos da norma contida no preceito legal a universo de destinatários nele não contemplados. Precedentes. Agravo regimental não provido. (RE 402748 AgR, rel min. Eros Grau, Segunda Turma, DJ de 16.05.2008)
+    Com o mesmo entendimento: RE 408.238, rel. min. Cármen Lúcia, DJ de 25.09.2008 e RE 376.011, rel. min. Ricardo Lewandowski, DJ de 23/04/2008.
+    Esse entendimento é plenamente aplicável ao presente caso, pois da mesma forma que não é possível estender tratamento tributário diferenciado a contribuinte não previsto pela lei, também não é possível conceder remissão fiscal de forma diversa da prevista em lei.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
