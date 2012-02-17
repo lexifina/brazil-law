@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, que entendeu devido o desconto de dias paralisados em movimento grevista de servidores públicos.
+    A ora agravante alega violação ao disposto no art. 37, VII, da Constituição.
+    Esta Corte firmou o entendimento de que, até que haja regulamentação específica, aplicam-se aos servidores públicos as normas que regem o direito de greve dos trabalhadores submetidos ao regime celetista, conforme se extrai do MI 708, de relatoria do min. Gilmar Mendes, DJ de 31.10.2008:
+    “EMENTA: MANDADO DE INJUNÇÃO. GARANTIA FUNDAMENTAL (CF, ART. 5º, INCISO LXXI). DIREITO DE GREVE DOS SERVIDORES PÚBLICOS CIVIS (CF, ART. 37, INCISO VII). EVOLUÇÃO DO TEMA NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL (STF). DEFINIÇÃO DOS PARÂMETROS DE COMPETÊNCIA CONSTITUCIONAL PARA APRECIAÇÃO NO ÂMBITO DA JUSTIÇA FEDERAL E DA JUSTIÇA ESTADUAL ATÉ A EDIÇÃO DA LEGISLAÇÃO ESPECÍFICA PERTINENTE, NOS TERMOS DO ART. 37, VII,
+      JURÍDICA E À EVOLUÇÃO JURISPRUDENCIAL NA INTERPRETAÇÃO DA OMISSÃO LEGISLATIVA SOBRE O DIREITO DE GREVE DOS SERVIDORES PÚBLICOS CIVIS, FIXAÇÃO DO PRAZO DE 60 (SESSENTA) DIAS PARA QUE O CONGRESSO NACIONAL LEGISLE SOBRE A MATÉRIA. MANDADO DE INJUNÇÃO DEFERIDO PARA DETERMINAR A APLICAÇÃO DAS LEIS Nos 7.701/1988 E 7.783/1989. 1. SINAIS DE EVOLUÇÃO DA GARANTIA FUNDAMENTAL DO MANDADO DE INJUNÇÃO NA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL (STF).
+    (...)
+    6.4. Considerados os parâmetros acima delineados, a par da competência para o dissídio de greve em si, no qual se discuta a abusividade, ou não, da greve, os referidos tribunais, nos âmbitos de sua jurisdição, serão competentes para decidir acerca do mérito do pagamento, ou não, dos dias de paralisação em consonância com a excepcionalidade de que esse juízo se reveste. Nesse contexto, nos termos do art. 7º da Lei no 7.783/1989, a deflagração da greve, em princípio, corresponde à suspensão do contrato de trabalho. Como regra geral, portanto, os salários dos dias de paralisação não deverão ser pagos, salvo no caso em que a greve tenha sido provocada justamente por atraso no pagamento aos servidores públicos civis, ou por outras situações excepcionais que justifiquem o afastamento da premissa da suspensão do contrato de trabalho (art. 7o da Lei no 7.783/1989, in fine).
+    (...)
+    6.7. Mandado de injunção conhecido e, no mérito, deferido para, nos termos acima especificados, determinar a aplicação das Leis nos 7.701/1988 e 7.783/1989 aos conflitos e às ações judiciais que envolvam a interpretação do direito de greve dos servidores públicos civis.”
+    Nesta perspectiva, são legítimos os descontos realizados nos vencimentos dos servidores relativamente aos dias não trabalhados.
+    Confiram-se ainda: RE 539.042 (rel. min. Ricardo Lewandowski, DJe de 18.02.2010) e RE 538.923 (rel. min. Cármen Lúcia, DJe de 16.03.2010).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
