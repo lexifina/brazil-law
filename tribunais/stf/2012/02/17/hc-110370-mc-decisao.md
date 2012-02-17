@@ -1,0 +1,17 @@
+Decisão: Vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que recusou a tese da insignificância penal da conduta protagonizada pela paciente.
+    2. Pois bem, a Defensoria Pública da União, impetrante, insiste no pedido de restabelecimento da sentença absolutória, proferida pelo Juízo Singular. Isto sob as alegações de ineficácia total do meio empregado pela paciente na tentativa de subtração de gêneros alimentícios e de insignificância material da conduta. Conduta assim narrada pela inicial acusatória:
+    “Extrai-se dos autos que a ora denunciada conduzia um carrinho de compras contendo vários produtos, inclusive duas bandejas de bacalhau, mas em determinado momento um fiscal da loja percebeu que ela havia escondido as mesmas embaixo de sua blusa com o intuito de sair do recinto sem pagar por elas.”
+    3. Nessa contextura, a acionante postula a concessão de provimento cautelar para sustar os efeitos da condenação da paciente. No mérito, o pedido é restabelecimento da sentença que reconheceu a atipicidade penal da conduta.
+    4. Já me encaminhando para o desfecho deste relato, consigno que solicitei informações prévias à autoridade impetrada. Informações que dão conta da higidez da pretensão executória estatal quanto à condenação impugnada neste habeas corpus e da expedição de mandado de prisão contra a paciente para o cumprimento da pena em regime prisional semiaberto.
+    5. Feito este breve relato, decido. Fazendo-o, anoto, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    6. No caso, tenho por configurados, desde logo, os requisitos necessários à concessão da liminar. Digo isso porque, em linha de princípio, a conduta protagonizada pela paciente se amolda às diretivas do princípio da insignificância, listadas no HC 109.134, de minha relatoria. Especialmente porque ela, conduta, revela um atabalhoamento ou amadorismo tal na sua execução que antecipa a sua própria frustração; isto é, já antecipa a sua marcante propensão para a forma não mais que tentada de infração penal.
+    7. Com efeito, a leitura preliminar das peças que instruem este processo me permite enxergar a mínima ofensividade da ação da paciente a que a inicial se reporta. Pelo que defiro a medida liminar requestada. O que faço para determinar a suspensão dos efeitos da condenação proferida nos autos da ação penal nº 024.06.022.453-2 (originária da 6ª Vara Criminal de Vitória/ES).
+    8. Dê-se vista dos autos à Procuradoria-Geral da República.
+    Comunique-se, de imediato, inclusive via fac-símile, ao Juízo da 8ª Vara Criminal de Vila Velha Privativa das Execuções Penais para que tome as providências necessárias ao recolhimento do mandado de prisão.
+    Publique-se.
+    Intime-se.
+    Brasília, 17 de fevereiro de 2012.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
