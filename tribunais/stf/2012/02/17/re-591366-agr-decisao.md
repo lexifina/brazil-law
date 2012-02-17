@@ -1,0 +1,30 @@
+Decisão: Trata-se de agravo interno contra ato por meio do qual determinei a devolução destes autos à origem para fins de observância do disposto no art. 543-B do Código de Processo Civil (fl. 490).
+    Irresignada, a recorrida no extraordinário, ora agravante, adverte que a questão trazida no apelo extremo não coincide com a do paradigma indicado. Dessa forma, em síntese, argumenta:
+    “(...) o reajuste pleiteado é decorrente de acordos, oriundos de reclamações trabalhistas individualizadas nas quais houve concessões mútuas. O que os autores buscam na presente ação é a majoração de proventos, através de extensão de acordos homologados por decisões trabalhistas transitadas em julgado, dos quais não participaram” (fl. 502).
+    Examinados os autos, constatei a consistência dessa narrativa.
+    O ato que determina a devolução dos autos pela sistemática da repercussão geral não está sujeito à impugnação recursal. Todavia, reconheço que, no caso, seu conteúdo traduz consequência de erro material.
+    Com efeito, ao aplicar analogicamente o artigo 463, inciso I, do Código de Processo Civil, reconsidero-o para tornar sem efeito a devolução ordenada em primeiro momento.
+    Passo ao exame do recurso extraordinário.
+    O apelo extremo, interposto com base na alínea “a” do permissivo constitucional, impugna acórdão Segunda Turma do Tribunal Regional Federal da 1ª Região, no que interessa, assim ementado:
+    “(...)
+    7. As decisões judiciais somente aproveitam ou prejudicam as partes litigantes, nos respectivos processos, não podendo ser estendidas em benefício de terceiros estranhos à lide.
+    8. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos dos servidores públicos sob o fundamento de isonomia (STF, Súmula 339)” (fls. 354/355).
+    Alega-se violação do artigo 5º, caput e inciso XXXVI, da Constituição Federal. Dessa forma, em suma, aduz-se:
+    “(...) que a decisão, ora recorrida, não levou em consideração que o reajuste foi concedido ante a existência de uma Lei anterior (Lei 4.354/64) e que pertenciam os recorrentes a categoria beneficiada pelo reajuste, simplesmente denominou-os de terceiros, ao fundamento de que não fizeram parte dos Acordos Trabalhistas, não poderiam obter os mesmos benefícios concedidos aos reclamantes dos referidos acordos. Esqueceu-se, portanto, que a Lei tem caráter genérico, quando absurdamente lançou os recorrentes na categoria de terceiros” (fl. 411).
+    Decido.
+    A pretensão deduzida no recurso extraordinário não reúne condições de lograr êxito, por dois motivos.
+    Primeiro, porque a verificação de eventual benefício decorrente da Lei 4.354/64, por refletir juízo de cognição estritamente legal, não autoriza o exame dessa questão pela via extraordinária, o que atrai o óbice preconizado no Enunciado 636 da Súmula de Jurisprudência deste Supremo Tribunal Federal.
+    Nesse sentido, destaquem-se: RE-AgR 163.414, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 30.4.2010; AI-AgR 774.416, Rel. Min. Marco Aurélio, Primeira Turma, DJe 11.3.2011; AI- AgR 758.267, Rel. Min. Eros Grau, Segunda Turma, DJe 4.12.2009.
+    Segundo, porque a tese recorrente reside essencialmente no objetivo de conferir efeito erga omnes ao acordo judicial formalizado perante a Justiça do Trabalho, o que contraria a jurisprudência predominante deste Supremo Tribunal Federal sobre o tema.
+    Nesse sentido, entre outros, confiram-se: AI-AgR 97.281, Rel. Min. Alfredo Buzaid, Primeira Turma, DJ 8.5.1984; RE-AgR 273.698, Rel. Min. Ellen Gracie, Segunda Turma, DJ 15.4.2005. Este último foi condensado na seguinte ementa:
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. REAJUSTE DEFERIDO MEDIANTE DECISÃO JUDICIAL. EXTENSÃO A SERVIDORES QUE NÃO INTEGRARAM A AÇÃO. PRINCÍPIO DA ISONOMIA. ART. 206, V, DA CF/88. 1. Busca-se no presente feito o pagamento das diferenças de vencimento decorrentes da ruptura da isonomia salarial ocorrida quando os docentes ex-celetistas tiveram reposição salarial decorrente de decisão judicial proferida em ação movida pela entidade sindical e da qual foram excluídos os antigos estatutários e os docentes admitidos após fevereiro de 1989. 2. A discussão sobre os limites subjetivos da coisa julgada restringe-se ao âmbito processual ordinário, cujo exame se mostra inviável em sede extraordinária. 3. Não há como invocar o princípio da isonomia para estender o êxito em um processo judicial para pessoas que não faziam parte da demanda. Aplicabilidade da Súmula STF nº 339 ao caso dos autos. 4. O art. 206, V da CF/88, a exemplo do princípio da isonomia, também não pode ser usado pelo Poder Judiciário para aumentar os vencimentos dos servidores da educação, sem previsão em lei. 5. Agravo regimental improvido” (grifei).
+    Sobre esse ponto, em voto proferido em 15.10.2007, no julgamento do MS 24.529, Tribunal Pleno, ao tratar de debate análogo, esclareci em obiter dictum:
+    “A coisa julgada é instituto de direito processual civil, de sede constitucional (CF, art. 5º, XXXVI) destinado a garantir segurança jurídica às partes litigantes. Ademais, assim como sustentado pelo Ministério Público Federal, a coisa julgada na Reclamação Trabalhista no 2363/1991 aproveitaria somente aos ora impetrantes” .
+    Nessa mesma assentada, ao demonstrar a preocupação que o tema proporciona, registrei:
+    “É necessário realizar uma distinção entre a situação constatada nestes autos - na qual a Justiça do Trabalho manifestou-se expressamente sobre a incorporação de benefícios específicos - e outras circunstâncias nas quais as sentenças e acórdãos trabalhistas convolam-se em mandados genéricos de incorporação de benefícios indevidos em desfavor da Administração Pública”.
+    Ante o exposto, nego seguimento ao recurso extraordinário e, em consequência, julgo prejudicado o agravo interno de fls. 498-507, nos termos do artigo 557, caput, do Código de Processo Civil e artigo 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
