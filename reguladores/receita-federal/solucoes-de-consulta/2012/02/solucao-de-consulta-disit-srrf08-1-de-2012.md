@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF08 nº 1, de 3 de janeiro de 2012
+Assunto: Imposto sobre a Renda de Pessoa Física - IRPF GANHO DE CAPITAL. ALIENAÇÃO DE BENS E DIREITOS. SUSPENSÃO DOS EFEITOS DO NEGÓCIO JURÍDICO. IRRELEVÂNCIA PARA A QUALIFICAÇÃO DO FATO GERADOR. A suspensão dos efeitos do negócio jurídico tributável não faz desaparecer o fato gerador e sua correspondente obrigação tributária, nascida na celebração de situação jurídica definitivamente constituída, nos termos do direito aplicável. Dispositivos Legais: Arts. 116, II e 118, II, do Código Tributário Nacional; art. 117, § 4º, do Decreto n° 3.000, de 26.03.1999 (RIR/99); Portaria MF n° 80 de 01.03.79.
+[arquivo anexo: SC SRRF08-Disit nº 1-2012.pdf]
