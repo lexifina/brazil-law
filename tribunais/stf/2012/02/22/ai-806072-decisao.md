@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “RECURSO ORDINÁRIO. IRREGULARIDADE DE REPRESENTAÇÃO. SUBSTABELECIMENTO NÃO AUTENTICADO.
+     (...).
+    REINTEGRAÇÃO. ESTABILIDADE ASSEGURADA EM NORMA INTERNA PATRONAL. NULIDADE DA DISPENSA. ‘Norma regulamentar. Vantagens e opção pelo novo regulamento. Art. 468 da CLT. I - As cláusulas regulamentares, que revoguem ou alterem vantagens deferidas anteriormente, só atingirão os trabalhadores admitidos após a revogação ou alteração do regulamento’. Esse é o teor do item I da Súmula nº 51 da jurisprudência do Tribunal Superior do Trabalho, em consonância com o qual foi prolatado o acórdão em sede de recurso ordinário. Incidência da previsão restritiva do § 5º do artigo 896 da CLT obstativa do reexame do tema mediante recurso de revista (...) .” (fls. 110-111)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II, LV e XXXVI; e 7º, inciso XXVI, do texto constitucional.
+    Passo à análise do mérito.
+    Nas razões recursais, alega-se ofensa constitucional em razão do conhecimento dos embargos da parte recorrida, opostos para afastar a estabilidade decorrente de norma regulamentar. Sustenta-se que:
+    (…) as condições e vantagens estabelecidas por regulamento de empresa incorporam-se definitivamente aos contratos individuais de trabalho, não podendo ser alteradas em prejuízo do empregado, somente tendo efeito àqueles admitidos posteriormente à revogação/supressão da vantagem”. (fl. 208)
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque a questão examinada no acórdão recorrido está adstrita à interpretação de cláusulas de acordo coletivo formalizado perante a Justiça do Trabalho, o que atrai para a espécie o óbice da Súmula 454/STF. Nesse sentido, cito o AI 819.938, Min. Rel. Cármen Lúcia, DJe 10.11.2010; e ARE 650.182, Rel. Min. Luiz Fux, DJe 7.12.2011.
+    Ademais, ressalto que o Plenário desta Suprema Corte, por meio eletrônico, no exame no AI-RG 731.954, Rel. Min. Cezar Peluso, DJe 18.12.2009, rejeitou a repercussão geral de controvérsia análoga a destes autos, em acórdão assim ementado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Contrato individual de trabalho. Acordo coletivo. Direito de incorporar àquele cláusulas neste pactuadas. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa ao direito a incorporação a contrato individual de trabalho de cláusulas normativas pactuadas em acordos coletivos, versa sobre matéria infraconstitucional.”
+    Por fim, no tocante à suposta afronta ao art. 5º, LV, o entendimento desta Corte é no sentido de que a mera alegação de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, ofensa reflexa às normas constitucionais. Desse modo, inviável o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma mediata. Confira-se o AI-AgR 518.630, Rel. Min. Carlos Velloso, Segunda Turma, DJ 1.4.2005, cuja ementa dispõe:
+    CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. TRABALHISTA. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. OFENSA À CONSTITUIÇÃO. I. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão limita-se a interpretar cláusula integrante de acordo coletivo de trabalho. II. - Alegação de ofensa ao devido processo legal: CF, art. 5º, LV: se ofensa tivesse havido, seria ela indireta, reflexa, dado que a ofensa direta seria a normas processuais. E a ofensa a preceito constitucional que autoriza a admissão do recurso extraordinário é a ofensa direta, frontal. III. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional. IV. - Agravo não provido”.
+    Ante ao exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
