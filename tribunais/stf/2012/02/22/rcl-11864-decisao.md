@@ -1,0 +1,38 @@
+1. Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul contra ato proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 10.
+    2. Narra a inicial que Alexsander Ceciliano Zanonato foi preso em flagrante no dia 6.2.2011 pela prática do crime previsto no art. 33 da Lei 11.343/06. O pedido de liberdade provisória foi indeferido pelo magistrado de primeiro grau.
+          Contra tal ato, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Rio Grande do Sul, que concedeu a ordem pleiteada. Inconformado com a decisão colegiada, o Parquet estadual interpôs recursos especial e extraordinário, ainda em fase de admissibilidade.
+          O Reclamante argumenta, em síntese, que o ato da Corte local violou frontalmente o enunciado contido na Súmula Vinculante nº 10, visto que prolatado por órgão fracionário, afastou a incidência do art. 44 da Lei 11.343/06 com fundamento em argumentos constitucionais.
+          Requer a concessão de provimento liminar para o fim de cassar a decisão que afastou a aplicação do artigo 44 da Lei 11.343/06, com a instauração do respectivo incidente de inconstitucionalidade. No mérito, requer que a presente reclamação seja julgada procedente.
+    3.  A via estreita da reclamação constitucional (art. 102, I, l, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+          Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    4. O art. 103-A, §3º, da Constituição Federal tem a seguinte redação:
+    “Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre a matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    (…).
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula conforme o caso”.
+    5. O objeto desta reclamação diz com o alegado descumprimento pela decisão atacada, proferida pela Corte Estadual, concessiva da ordem de habeas corpus em favor de Alexsander Ceciliano Zanonato, do enunciado da Súmula Vinculante nº 10, que dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta a sua incidência, no todo ou em parte”.
+       Para o exame da matéria, considero oportuno transcrever excertos do ato reclamado:
+    “(...).
+    Em que pese os argumentos expendidos nas decisões, impõe-se a concessão da liberdade provisória ao paciente.
+    Entendo que os fatos mencionados pela magistrada a quo são apenas a narrativa do próprio delito imputado ao paciente, qual seja, o tráfico de drogas. Ainda que haja indícios de autoria e materialidade, indispensável que a decisão aponte quais os motivos que, no caso concreto, ensejam a prisão cautelar, a qual só tem lugar em situações especiais, com base em fatos que justificquem a excepcionalidade da medida, atendendo aos termos do art. 312 do CPP.
+    É cediço que não constitui fundamento idôneo à prisão preventiva a invocação da gravidade abstrata do delito imputado, mesmo que seja equiparado a hediondo, consoante o reiterado entendimento da Suprema Corte...
+    Também não há qualquer indício concreto no sentido de que o paciente, se posto em liberdade, colocaria em risco a ordem pública. É certo que há constrangimento ilegal quando o decreto de prisão preventiva se encontra fundado em meras conjecturas acerca da possibilidade de tornar o paciente a delinquir. Alexsander não registra quaisquer antecedentes criminais (fl. 61 do apenso), além de ter comprovado nos autos do writ possuir emprego lícito e residência fixa (fl. 46 e ss).
+    Ressalto que diante da nova redação do art. 2º da Lei nº 8.072/90 (Lei dos Crimes Hediondos), dada pela Lei nº 11.464/07, foi restituído aos acusados o direito de esperar o julgamento em liberdade, uma vez que a mencionada lei excluiu da vedação legal de concessão de liberdade provisória todos os crimes hediondos e os delitos a eles equiparados, como o delito de tráfico de entorpecentes e drogas afins.
+    A Sexta Turma do Superior Tribunal de Justiça vem reiteradamente afirmando a possibilidade de concessão da liberdade provisória aos acusados de tráfico de entorpecentes. Nesse sentido:
+    (…).
+    Não se desconhece que a jurisprudência ainda oscila a respeito do tema. Atualmente, a questão pende de análise pelo Plenário do Supremo Tribunal Federal, já havendo, no entanto, votos proferidos no sentido da inconstitucionalidade da vedação do art. 44 da Lei 11.343/06, conforme noticiado no Informativo 611 da Corte.
+    (…)
+    Dessa forma, entendo que no caso dos autos não há demonstração efetiva do preenchimento dos requisitos elencados no artigo 312 do Código de Processo Penal, já que não foi demonstrada a necessidade de segregação do paciente, salvo o próprio delito, em tese, por ele praticado.
+    Daí por que concedo a ordem para determinar a imediata soltura do paciente, se por al não estiver preso”.
+    6.  Com efeito, da leitura da decisão reclamada, verifico, neste juízo prévio, que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte Estadual para conceder a ordem de habeas corpus a Alexsander Ceciliano Zazonato em razão da inexistência dos requisitos autorizadores da manutenção de sua prisão preventiva.
+    7.  Destarte, não vislumbro, neste momento, que a autoridade reclamada tenha declarado, explícita ou implicitamente, a inconstitucionalidade do art. 44 da Lei 11.343/06, ou em outras palavras, violado o enunciado da Súmula Vinculante 10.
+          Além disso e embora o tema seja controvertido nesta Corte, a decisão atacada encontra respaldo em julgados da 2ª Turma desta Corte (v.g. HC 101.505/SC e 100.742/SC).
+          Não verifico, portanto, a plausibilidade jurídica do pedido de medida liminar, para concessão da tutela emergencial pleiteada.
+    8.  Ante o exposto, indefiro o pedido de liminar.
+       Oficie-se ao Juiz de Direito da 1ª Vara Criminal de Tramandaí-RS para que preste informações referentes à situação desta Ação Penal 21100014941.
+          Notifique-se o interessado Alexsander Ceciliano Zanonato, bem como seu advogado para que possa se manifestar nesta reclamação.
+          Após, colha-se a manifestação do Ministério Público Federal.
+          Publique-se.
+          Brasília, 22 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
