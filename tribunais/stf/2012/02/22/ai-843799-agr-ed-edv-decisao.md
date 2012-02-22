@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE DIVERGÊNCIA ENTRE AS TURMAS. ART. 332 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO. EMBARGOS NÃO ADMITIDOS.
+Relatório
+    1. Embargos de divergência opostos contra o seguinte julgado proferido pela Segunda Turma do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - PRETENDIDO REEXAME DA CAUSA - CARÁTER INFRINGENTE - INADMISSIBILIDADE - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    - Não se revelam cabíveis os embargos de declaração, quando a parte recorrente - a pretexto de esclarecer uma inexistente situação de obscuridade, omissão ou contradição - vem a utilizá-los com o objetivo de infringir o julgado e de, assim, viabilizar um indevido reexame da causa. Precedentes” (fl. 2432).
+    2. O Embargante argumenta que, “ocorrendo (...) omissão em se apreciar e solucionar questão afeta a direito e garantia individual do embargante, cuja continuidade de discussão sobre a mesma se apresentava impossível, por não existir outro recurso próprio a aferir e a afastar a lesão decorrente, entendeu o acórdão divergente, em caso aparelhado, de emprestar o caráter infringente aos embargos de declaração, ressalvando, apenas, a existência de omissão e/ou erro evidente” (fl. 2460).
+    Requer o provimento dos embargos de divergência e do recurso extraordinário.
+    Examinada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Embargante.
+    Os embargos de divergência são cabíveis contra decisão de Turma deste Supremo Tribunal que divergir de julgado da outra Turma ou do Plenário (art. 330 do Regimento interno do Supremo Tribunal Federal).
+    4. Na espécie vertente, a Segunda Turma concluiu que são incabíveis os embargos de declaração quando, a pretexto de esclarecer inexistente situação de obscuridade, omissão ou contradição, são utilizados com o objetivo de infringir o julgado e de, assim, viabilizar indevido reexame da causa.
+    A Primeira Turma do Supremo Tribunal tem posicionamento idêntico:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS” (AI 721.834-AgR-ED, de minha relatoria, Primeira Turma, DJe 1º.2.2012).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. REJEIÇÃO. 1. O inconformismo, que tem como real escopo a pretensão de reformar o decisum, não há como prosperar, porquanto inocorrentes as hipóteses de omissão, contradição ou obscuridade, sendo inviável a revisão em sede de embargos de declaração, em face dos estreitos limites do art. 535 do CPC. 2. O magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão. 3. A pretensão de revisão do julgado, em manifesta pretensão infringente, revela-se inadmissível, em sede de embargos. Precedentes. 4 . Embargos de declaração REJEITADOS” (AI 769.514-AgR-ED, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.10.2011).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. II - O embargante busca tão somente a rediscussão da matéria e os embargos de declaração, por sua vez, não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. III - Embargos de declaração rejeitados” (ARE 641.583-AgR-ED, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.11.2011).
+    5. Nos termos do art. 332 do Regimento Interno do Supremo Tribunal Federal, “não cabem embargos se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada”.
+    Assim, ausente a pretensa divergência, incabíveis os presentes embargos. Nesse sentido:
+    “I – Embargos de divergência: inadmissibilidade, ‘quando houver jurisprudência firme do Plenário no mesmo sentido da decisão embargada’ (Súmula 247)” (RE 433.257-AgR-EDEDv-AgR, Rel. Min. Sepúlveda Pertence, DJ 16.2.2007).
+    “AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO EXTRAORDINÁRIO. CONSONÂNCIA DA DECISÃO EMBARGADA COM O ACÓRDÃO PROFERIDO PELO TRIBUNAL PLENO. INADMISSIBILIDADE DO RECURSO. Embargos de divergência. Não-cabimento. A teor do disposto no artigo 332 do Regimento Interno desta Corte, não cabem embargos se a jurisprudência do Plenário estiver firmada no sentido da decisão embargada. Agravo regimental não provido” (RE 153.781-EDv-AgR, Rel. Min. Maurício Corrêa, DJ 25.4.2003).
+    Nada há, pois, a prover quanto às alegações do Embargante.
+    6. Pelo exposto, não admito os embargos de divergência (art. 335 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
