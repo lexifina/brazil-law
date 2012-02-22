@@ -1,0 +1,34 @@
+Execução penal. Habeas corpus impetrado contra decisão de Relator, do STJ, que indeferiu liminar em idêntica via processual. Penas restritiva de direitos. Descumprimento das condições impostas. Reconversão em pena privativa de liberdade. Agravo em execução. Ausência de efeito suspensivo. Mera continuidade da execução de título judicial transitado em julgado, que não se desvirtua ante decisão que resolve incidente em execução. Ratio essendi do art. 197 da LEP. Liminar indeferida.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra ato do Ministro OG FERNANDES, do STJ, consubstanciado em decisão, que indeferiu pedido cautelar em idêntica via processual, cujo teor é o seguinte:
+    “Vistos, etc.
+    Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido de liminar, impetrado em favor de Jaime Fiomaro dos Santos, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que não conheceu do writ impetrado, por entender que a via eleito era incabível para exame do caso.
+    Neste writ, alega a impetrante que, ao contrário do entendimento firmado no acórdão recorrido, a doutrina é firme em admitir a impetração de habeas corpus para atribuição de efeito suspensivo ao agravo em execução, de modo a resguardar a liberdade do paciente.
+    Acrescenta que a decisão impugnada originariamente é teratológica pois, ao decidir pela conversão da pena privativa de direitos em pena privativa de liberdade, teria extrapolado o pedido do Parquet, valendo-se, ainda, de provas produzidas apenas em sede de investigação.
+    Requer, liminarmente, o deferimento do pleito para ‘atribuir efeito suspensivo à decisão proferida pelo Juízo da Comarca de Fernandópolis/SP, mantida pelo Tribunal ad quem’ (fl. 14), até o julgamento do presente writ.
+    No mérito, pugna pela concessão da medida ou, subsidiariamente, seja determinado o exame do mérito do habeas corpus originário.
+    Solicitei previamente informações, que foram prestadas às fls. 549/639.
+    Decido.
+    Da análise dos autos, em sede de cognição sumária, não verifico manifesta ilegalidade a ensejar o deferimento da medida de urgência, uma vez que o constrangimento ilegal não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+    Ante o exposto, indefiro a liminar.”
+    Depreende-se dos autos que o paciente responde a quatro execuções penais, sendo certo que em relação a uma delas cumpria pena privativa de liberdade, em regime aberto, e nas demais penas restritivas de direitos.
+    Por descumprimento da pena alternativa em uma das execuções, o Juiz da Execução a reconverteu em pena privativa de liberdade, em regime semiaberto, e procedeu à unificação com a outra pena da mesma espécie.
+    Posteriormente, acolheu embargos de declaração do Ministério Público e determinou a reconversão de todas as penas restritivas de direitos em privativas de liberdade.
+    Inconformado, o paciente interpôs agravo em execução e, simultaneamente, habeas corpus com pedido de efeito suspensivo no recurso de agravo, o qual restou não conhecido pelo TJ/SP em acórdão assim ementado:
+    “HABEAS CORPUS – EFEITO SUSPENSIVO AO RECURSO DE AGRAVO EM EXECUÇÃO – Descabimento: A ação constitucional de habeas corpus não se presta a atribuir efeito suspensivo ao agravo em execução. Ordem não conhecida. “
+    A impetrante alega, em síntese, que a negativa de efeito suspensivo ao agravo traduz indevida antecipação da pena a ser eventualmente confirmada em decisão transitada em julgado.
+    Sustenta, ademais, que o ato coator é teratológico, porquanto carente de fundamentação.
+    Requer seja excepcionada a Súmula 691/STF e concedida a liminar a fim de atribuir efeito suspensivo ao agravo em execução e, no mérito, o deferimento do writ, confirmando-se o provimento cautelar.
+    É o relatório.
+    DECIDO.
+    A Súmula 691/STF veda o conhecimento de habeas corpus impetrado contra a decisão proferida por relator de tribunal superior que, em idêntica via processual, indefere pedido de liminar, verbis: “NÃO COMPETE AO SUPREMO TRIBUNAL FEDERAL CONHECER DE HABEAS CORPUS CONTRA DECISÃO DO RELATOR QUE, EM 'HABEAS CORPUS' REQUERIDO A TRIBUNAL SUPERIOR, INDEFERE A LIMINAR”. Não obstante, o Supremo Tribunal Federal firmou entendimento no sentido de que, em situações teratológicas ou de flagrante ilegalidade, é possível a flexibilização da referida Súmula:
+    CONSTITUCIONAL. PENAL. PROCESSUAL PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA POR CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. LIMINAR INDEFERIDA PELO RELATOR, NO STJ. SÚMULA 691-STF. A Súmula 691-STF, que não admite habeas corpus impetrado contra decisão do Relator que, em HC requerido a Tribunal Superior, indefere liminar, admite, entretanto, abrandamento: diante de flagrante violação à liberdade de locomoção, não pode a Corte Suprema, guardiã-maior da Constituição, portanto dos direitos e garantias constitucionais, quedar-se inerte. Prisão preventiva decretada por conveniência da instrução criminal. Conversa, pelo telefone, do paciente com outro co-réu, conversa essa interceptada com autorização judicial. Compreende-se no direito de defesa estabelecerem os co-réus estratégias de defesa. No caso, não há falar em aliciamento e constrangimento de testemunhas. Ademais, o co-réu já foi ouvido em Juízo. Paciente com residência no distrito da culpa, onde tem profissão certa; não há notícia de que haja procrastinado a instrução ou o julgamento, tendo se apresentado à prisão imediatamente após a decretação desta. A prisão preventiva, principalmente a esta altura, constitui ilegalidade flagrante. Liminar deferida. (HC 86.864/SP, Rel. Ministro Ricardo Lewandowski, DJ de 16/12/2005).
+    O caso sub examine não justifica, à primeira vista, exceção à Súmula 691 desta Corte, e consequentemente, supressão de instância.
+    O artigo 197 da Lei de Execução Penal dispõe que “Das decisões proferidas pelo Juiz caberá agravo, sem efeito suspensivo”, a evidenciar que a decisão ora impugnada não é teratológica e, portanto, não há justificativa para a pretendida exceção da Súmula 691/STF. [grifei]
+    Destarte, a reconversão da pena restritiva de direitos em privativa de liberdade, pelo descumprimento das condições impostas na pena alternativa, não configura antecipação do cumprimento da pena, por essa razão impõe-se a continuidade da execução do título judicial transitado em julgado, que não se desvirtua em razão da reconversão da pena, emergindo daí a ratio essendi do artigo 197 da Lei n. 7.210/84, ao vedar efeito suspensivo a agravo das decisões em incidentes da execução.
+    Ex positis, INDEFIRO a liminar.
+    Estando os autos suficientemente instruídos, dê-se vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 22 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
