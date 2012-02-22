@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “CIVIL – APELAÇÃO CÍVEL – AÇÃO REVISIONAL DE CONTRATO – CAPITALIZAÇÃO DE JUROS – POSSIBILIDADE A PARTIR DA EDIÇÃO DA MEDIDA PROVISÓRIA Nº 2.170-36. A possibilidade de capitalização mensal dos juros é admitida, desde que contratada na vigência da Medida Provisória nº 2.170-36. Apelos improvidos”. (fl. 49)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 96-98).
+    Decido.
+    Não assiste razão à agravante.
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, inciso XXXVI; 195, §5º; e 202, da Constituição Federal. Em síntese, alega-se ofensa ao ato jurídico perfeito, em face da distorção dos índices de correção monetária impostos pelo Poder Judiciário – diferentes dos previstos entre as partes.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz dos elementos fático-probatórios constantes dos autos, das cláusulas constantes do regulamento da entidade privada e da legislação infraconstitucional pertinente ao caso (Código de Defesa do Consumidor, Código de Processo Civil). Eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incidem, portanto, os Enunciados de Súmula 279 e 454 do STF.
+    Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO DE IMÓVEL. RESTITUIÇÃO DE VALORES. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA "C" DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. IMPROCEDÊNCIA. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação infraconstitucional pertinente, de cláusulas contratuais, bem como a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No tocante à alínea "c" do inciso III do art. 102 da Carta Magna de 1988, é de se aplicar a Súmula 284 do STF. 3. Agravo regimental desprovido” (AI-AgR 724.461, Rel. Min. Ayres Britto, Segunda Turma, DJe 15.10.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO PARA AQUISIÇÃO DE IMÓVEIS. PRESTAÇÕES. 1. ALEGADA OFENSA AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. OFENSA AO ART. 93, INC. IX, DA CONSTITUIÇÃO FEDERAL: INEXISTÊNCIA. 3. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 730.781, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.6.2009).
+    Além disso, segundo firme jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada e do ato jurídico perfeito (art. 5º, XXXVI) é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido o RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
