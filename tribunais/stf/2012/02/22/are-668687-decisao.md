@@ -1,0 +1,25 @@
+Decisão: Trata-se de recurso extraordinário com agravo contra acórdão do III Colégio Recursal dos Juizados Especiais Cíveis do Estado de Pernambuco que negou provimento a recurso que versa sobre reparação de danos morais.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 5º, II, XXXIV, “a”, LIV e LV; e 93, IX, do texto constitucional.
+    Nas razões recursais, a recorrente alega que agiu embasada no princípio da legalidade e da boa-fé, aduzindo que não configura conduta típica de calúnia o direito constitucional de petição.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, os argumentos trazidos no extraordinário não são suficientes para infirmar os fundamentos do acórdão recorrido.
+    Verifico que, em momento algum, o acórdão recorrido invalidou o direito de petição da recorrente, conforme se extrai do seguinte trecho da ementa:
+    “A representação à Corregedoria é instrumento próprio para apuração de irregularidades, não merecendo censura, em razão do consagrado direito de petição, aquele que relata fatos, que entende inadequados, à autorizada competente, desde que haja com cuidado e moderação”.
+    Com efeito, depreende-se que o tribunal a quo não questiona esse direito. De outro modo, garante-o, ressalvando apenas que este não pode ser exercido de forma excessiva e agressiva, destinando a outrem impropérios, acusações e considerações de ordem pessoal (fl. 95).
+    Além disso, a decisão impugnada, ao concluir pela existência do dano moral e do dever de indenização, baseou-se nos fatos e provas constantes nos autos, conforme se extrai do excerto a seguir:
+    “Não se pode admitir que, sob o pálio de que estão sendo interpretados fatos no exercício da livre manifestação do pensamento, pessoas acusem, ao seu talante e sem razoável fundamentação, quem quer que seja. Conforme demonstra a certidão juntada à f. 08, o autor é magistrado de conduta ilibada, não existindo nos seus assentos profissionais o registro de qualquer punição disciplinar.
+    (…).
+    (…) a representante (aqui recorrente) reconheceu a presença do recorrido nas audiências que ensejaram a formulação da representação; e, mesmo assim, mencionou na ‘denúncia’ que o magistrado não estava presente nas solenidades. De tal forma, só se pode concluir que ela agiu de má-fé, com intuito único de prejudicar a pessoa e a carreira do autor, nitidamente extrapolando os limites do bom senso, já que ausentes quaisquer provas, mesmo que indiciárias, a comprovar a tese levada ao conhecimento da Corregedoria-Geral da Justiça. O dano moral, no caso, comprova-se pela ofensa à honra subjetiva e à reputação profissional do magistrado que teve sua conduta desnecessariamente questionada por membros dos órgãos da Justiça”. (fls. 97/97v.)
+    Desse modo, para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte.
+    Incide, portanto, a Súmula 279 do STF.
+    Nesse sentido, AI-AgR 535.985, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 26.8.2005; e RE-AgR 541.858, Rel. Min. Ellen Gracie, Segunda Turma, DJe 19.12.2008, cuja ementa dispõe:
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. INDENIZAÇÃO. DANO MORAL. MAJORAÇÃO DA CONDENAÇÃO. ART. 220, CF/88. REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. 1. Para eventuais reforma do acórdão recorrido e provimento do recurso extraordinário, é imprescindível o reexame de fatos e provas, inviável em sede extraordinária. Incidência da Súmula STF 279. 2. É inviável o processamento do extraordinário para debater matérias processuais, de índole infraconstitucional, por suposta negativa de prestação jurisdicional e deficiência na sua fundamentação. 3. Agravo regimental improvido.”
+    Com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No que concerne ao suposto cerceamento de defesa (art. 5º, LIV e LV), o entendimento do Supremo Tribunal Federal é no sentido de que a mera alegação de ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal configura, quando muito, violação indireta das normas constitucionais. Nesse sentido, AI-AgR 610.585, Rel. Min. Ayres Britto, Primeira Turma, DJe 5.6.2009, e AI-AgR 752.841, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
