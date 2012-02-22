@@ -1,0 +1,30 @@
+1. Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada pela Defensoria Pública do Estado de São Paulo contra ato proferido pelo Tribunal de Justiça do Estado de São Paulo, que supostamente teria contrariado o enunciado da Súmula Vinculante nº 26.
+    2. Narra a inicial que o Juiz de Direito da 2ª Vara de Execuções Criminais da Comarca de Presidente Prudente – SP deferiu o pedido de progressão de regime em favor do apenado José Gonçalves. Naquela assentada, o magistrado de primeiro grau ressaltou a desnecessidade, in casu, de realização do exame criminológico.
+          Contra tal decisão, o Parquet Estadual interpôs o Agravo em Execução 990.09.267680-6 perante o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso para determinar o retorno do apenado ao regime mais gravoso, uma vez que considerou obrigatório e imprescindível o exame criminológico sem fundamentar a sua realização no caso em evidência.
+          Argumenta a Reclamante, em síntese, que o ato reclamado proferido pela Corte Estadual, ao considerar o exame criminológico obrigatório sem fundamentação idônea para o caso do apenado, violou o enunciado da Súmula Vinculante nº 26.
+          Requer a concessão de provimento liminar para o fim de afastar a exigência do exame criminológico e determinar o retorno do sentenciado ao regime semiaberto. No mérito, solicita que a presente reclamação seja julgada procedente.
+    3.  A via estreita da reclamação constitucional (art. 102, I, l, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+          Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+    4. Em consulta ao sítio do Superior Tribunal de Justiça na internet (www.stj.jus.br), verifico que, em 14.2.2011, o eminente Ministro Og Fernandes, relator do HC 169.263/SP, também impetrado contra o acórdão ora atacado, proferiu a seguinte decisão monocrática (transitada em julgado em 11.3.2011):
+    “(...).
+    Trata-se de habeas corpus impetrado em favor de José Gonçalves, qualificado nos autos, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+    Formulado pedido de progressão para o regime semiaberto junto ao Juiz da Vara de Execuções Criminais da Comarca de Presidente Prudente, teve deferido o benefício, na data de 31 de agosto de 2009, por entender estarem preenchidos os requisitos legais.
+    Contra essa decisão, insurgiu-se o Ministério público e interpôs agravo em execução junto ao Tribunal de origem, o qual proveu o recurso para cassar a decisão singular que concedera a progressão ao paciente, determinando o retorno do mesmo ao regime fechado, devendo aguardar a realização de exame criminológico.
+    (…).
+    Nos termos da jurisprudência assente nos Tribunais Superiores, o art. 112 da Lei de Execução Penal, com a redação introduzida pela Lei nº 10.792/03, estabelece que, para a concessão da progressão de regime, há necessidade do preenchimento cumulativo dos requisitos objetivo e subjetivo, a saber: ter o sentenciado cumprido ao menos 1/6 (um sexto) da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, nada explicitando acerca da necessidade do exame criminológico, podendo o Magistrado, excepcionalmente, determinar a realização de tal exame, diante das peculiaridades da causa, desde que o faça em decisão concretamente fundamentada.
+    A realização de exame criminológico, antes obrigatória, deixou de sê-lo a partir das alterações introduzidas pela Lei 10.792/03. Isso não exclui, porém, que o magistrado, caso entenda necessário, exija a prévia submissão do apenado ao referido exame.
+    (…).
+    Na hipótese dos autos, o Juiz da Vara de Execuções Criminais concedeu progressão de regime ao ora paciente, dispensando a realização do exame criminológico, por entender preenchidos os requisitos objetivo e subjetivo.
+    Por sua vez, o Tribunal Paulista, no julgamento do agravo em execução, assim se manifestou:
+    (…) In casu, além de ter longa pena a cumprir (TCP em 18/04/2025 – fls. 11), resultado de gravíssimas infrações penais, o agravado tem contra si o fato de já ter sido beneficiado com livramento condicional e, no curso deste, tornando a reincidir (fls. 12).
+    A gravidade abstrata do delito, a longa pena a cumprir ou mesmo o cometimento de falta grave – praticada em 03/02/2003 – não constituem fundamento suficiente para se negar a progressão, sobretudo quando há atestado recente de bom comportamento carcerário.
+    Desse modo, carece de fundamentação idônea o acórdão impugnado, porquanto não apontou qualquer motivação concreta que demonstrasse o demérito do apenado.
+    (…).
+    Pelo exposto, concedo a ordem com o intuito de restabelecer a decisão do Juiz da Execução, que deferiu ao paciente a progressão ao regime semiaberto”.
+    5.  Sendo assim, o ato reclamado – acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo –, que considerou obrigatória a realização do exame criminológico para a progressão de regime do apenado sem exarar fundamentação idônea para tanto, foi cassado pela decisão monocrática proferida em sede de Habeas Corpus.
+       Com o restabelecimento da decisão de primeiro grau – que concedeu o benefício de progressão de regime de José Gonçalves sem a realização do exame criminológico –, não mais subsiste a presente reclamação por perda superveniente de objeto.
+    6.  Ante o exposto, com fundamento nos arts. 38 da Lei 8.038/90 e 21, IX , do RISTF, julgo prejudicada a presente reclamação.
+       Publique-se. Arquive-se.
+          Brasília, 22 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
