@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “Ação de cobrança. Loteamento aberto ou fechado. Equiparação a condomínio de fato para efeitos de cobrança de contribuição pela associação, formada para administrar os serviços e cobrar os seus custos. O princípio que veda o enriquecimento ilícito ou sem causa deve prevalecer sobre o que garante a liberdade de associação. O réu é proprietário de dois lotes e deve arcar com a contribuição de cada um, ainda que seus loes tenham sido unificados perante a prefeitura. Recurso improvido. “ (fl. 155)
+    O recorrente afirma que o Tribunal a quo teria contrariado o artigo 5º, incisos II e XX, da Constituição Federal.
+    Argumenta que:
+     “(...) a insurgência é referente a cobrança de duas taxas, ignorando a unificação de lotes legalmente prevista, portanto, o sacrifício e sepultamento da garantia pétrea do inciso XX, do art. 5º da CF/88 não se revelava adequado, até porque, essa questão era secundária, ao passo que a cobrança em si não era lícita e, por não ser o embargante associado evidente que o estatuto não poderia ser a ele aplicado, quando no máximo, em entendimento do próprio acórdão, a contribuição de apenas 01(uma) taxa diante da unificação comprovada e incontroversa nos autos (...)”. (fl. 231)
+    O recurso extraordinário foi inadmitido pelo Tribunal de origem. Segundo os diversos fundamentos aduzidos na decisão agravada, o apelo extremo não pode ser admitido porque, “(...) as exigências constitucionais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar, no julgado, as premissas nas quais assentada a decisão (...). (fl. 283).
+    O tema de fundo do recurso extraordinário diz respeito à possibilidade de cobrança de despesas realizadas por Associação de Moradores independentemente de sua associação, mas em razão de ser o agravante proprietário de lotes.
+    A questão alusiva à equiparação de associação sem fins lucrativos a condomínios para efeito de autorizar-se a cobrança de quotas para o rateamento de despesas se situa no campo infraconstitucional. Logo a adoção de entendimento diverso demandaria o reexame da legislação ordinária pertinente, quais sejam: o Decreto-Lei n. 271/67, a Lei n. 4.591/64, a Lei n. 6.766/79, bem como o estatuto da associação.
+    Ademais, segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu que:
+    “(...) Não se pode ignorar a realidade de formação de condomínios de fato em loteamentos fechados, surgidos em razão da insegurança que paia sobre a sociedade de um modo geral. E do mesmo modo, em loteamentos que, apesar de abertos, permitem que se estabeleça um parâmetro com os fechados, por conta da sua localização e forma de constituição fática, o que, em consequência, torna possível que serviços sejam efetivamente prestados de modo a propiciar mais segurança e conforto aos moradores (...)”. (fl. 156)
+    Para entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Incide, portanto, a Súmula 279/STF.
+    Por derradeiro, a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice na Súmula n. 636 do Supremo Tribunal Federal, que dispõe que não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    Ante ao exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Publique-se. Int..
+    Brasília, 22 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
