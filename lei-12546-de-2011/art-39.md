@@ -1,0 +1,1 @@
+Art. 39. Compete à Secretaria da Receita Federal do Brasil realizar a verificação de origem não preferencial no curso do despacho aduaneiro ou durante a realização de ações fiscais aduaneiras iniciadas após o desembaraço de mercadorias e aplicar, quando cabível, as penalidades pecuniárias estabelecidas nesta Lei.
