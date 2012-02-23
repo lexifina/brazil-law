@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de José Venâncio Pereira, buscando seja limitado ao patamar estabelecido pela Lei nº 12.433/11, a revogação do tempo a ser remido pelo paciente.
+    Aponta como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que rejeitou os embargos de declaração opostos no agravo regimental no REsp nº 1.239.184/RS interposto àquela Corte, Relatora a Ministra Laurita Vaz.
+    A impetrante sustenta o constrangimento ilegal imposto ao paciente ao argumento de que:
+    “(...) foi provido o recuso especial do ‘parquet’ para declarar a perda total dos dias remidos, com o reinício da contagem do prazo legal necessário à concessão do benefício da progressão de regime, alterando-se a data base e mantendo-se a interrupção do lapso temporal.
+    Contudo, declarou-se a perda integral dos dias remidos - matéria que foi devolvida em sede de recurso de embargos face à omissão por lei mista mais benéfica ao paciente -, sem apreciar o cometimento da falta grave, para o efeito de remissão, à luz da novel regra prevista no artigo 127 da Lei de Execução Penal, com a redação da Lei 12.433/2011.
+    Importa consignar que ao apreciar o recurso de embargos declaratórios, a Quinta Turma do órgão coator decidiu que seria inviável a apreciação da questão trazida pela nova redação do artigo 127 da lei de execução penal, por não ter sido devolvida no recurso especial pelo Ministério Público estadual e porque o Tribunal de origem não apreciou a questão.
+    Obviamente que não poderia. Primeiro, porque o recurso não foi aventado pelo paciente, já que a decisão do tribunal gaúcho lhe foi favorável; segundo, porque a lei mais benéfica, por sua ultratividade, quando do recurso especial interposto, não estava ainda em vigor. Ademais, por ser norma mais benéfica, deve o tribunal de ofício aplicá-la, sob pena de manifesto constrangimento ilegal” (fls. 2/3 da inicial – grifos conforme o original).
+    Aduz, ainda, que:
+    “(...) a nova redação não prevê mais a perda total dos dias remidos, logo, essa regra perdeu sua razão de ser, passando o limite a ser de 1/3 (um terço).
+    Deveras, não há mais perda total dos dias remidos, em razão da ultratividade da norma mais benéfica. Muito embora os fatos narrados sejam “anteriores à égide da Lei nº 12.403/11 – a qual modificou substancialmente a sistemática das prisões no ordenamento pátrio –, aplicam-se, desde já, as diretrizes estabelecidas na referida reforma” (fl. 3 da inicial – grifos conforme o original).
+    Requer o deferimento da liminar para que se determine “a suspensão da execução penal até o final julgamento da presente ação constitucional, para todos os efeitos” e, no mérito, pede a concessão da ordem “para reconhecer o limite até 1/3 da perda dos dias remidos para o livramento condicional, respeitando a alteração da data base esse limite temporal” ou, ainda, que, “em caso desse Colendo Tribunal não conceder diretamente o limite máximo previsto no artigo 127 da LEP, requer seja determinado o juízo da execução penal que, atento à proporcionalidade e ao artigo 59 do Código Repressivo, aplique o quantum necessário, dentro das novas balizas estabelecidas pela supracitada lei” (fl. 4 da inicial).
+    Examinados os autos, decido.
+    Em síntese, são esses os fundamentos da decisão proferida pelo Superior Tribunal de Justiça ao prover parcialmente o recurso especial do Parquet estadual:
+    “RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. INCIDÊNCIA DA SÚMULA N.º 284 DA SUPREMA CORTE. DISSÍDIO JURISPRUDENCIAL DEMONSTRADO. INTERRUPÇÃO DO PRAZO PARA OBTENÇÃO DE BENEFÍCIOS. PROGRESSÃO DE REGIME: CABIMENTO. LIVRAMENTO CONDICIONAL, COMUTAÇÃO DE PENA E INDULTO: IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. SÚMULA N.º 441 DESTA CORTE. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO”  (fl. 41 do anexo 4).
+    A defesa do paciente interpôs, então, agravo regimental, que foi desprovido pela Quinta Turma daquela Corte de Justiça em julgado assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. EXECUÇÃO PENAL. FALTA GRAVE. REINÍCIO DO PRAZO PARA A OBTENÇÃO DO BENEFÍCIO DA PROGRESSÃO DE REGIME PRISIONAL. NÃO INCIDÊNCIA QUANTO A OUTROS BENEFÍCIOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO.
+    1. Esta Corte já se posicionou no sentido de que o cometimento de falta grave pelo sentenciado impõe o reinício do cômputo do prazo da pena para obtenção de progressão de regime prisional.
+    2. Não tendo o Agravante trazido tese jurídica capaz de modificar o posicionamento anteriormente firmado, mantenho, na íntegra, a decisão recorrida por seus próprios fundamentos.
+    3. Agravo regimental desprovido” (fl. 30 do anexo 5).
+    Os embargos de declaração opostos pela defesa foram rejeitados pelo colegiado, com os seguintes fundamentos:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VÍCIO DE ESCLARECIMENTO NÃO CONFIGURADO. REDISCUSSÃO. EMBARGOS REJEITADOS.
+    1. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existente no julgado. No caso, inexiste omissão a ser sanada, pois o tema relacionado ao limite de perda dos dias remidos em razão do cometimento de falta grave, surgido com a novel redação do art. 127 da Lei de Execuções Penais (alterada pela edição da Lei n.º 12.403/2011), não foi provocado por meio de recurso especial ou sequer debatido pelo julgado da Corte de origem.
+    2. Embargos de declaração rejeitados” (fl. 41 do anexo 5).
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada nos autos representar manifesto constrangimento ilegal.
+    Pelo que se depreende dos julgados proferidos pelo Superior Tribunal de Justiça, não se vislumbra, neste momento, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, as decisões proferidas por aquela Corte encontram-se suficientemente motivadas, restando justificado o convencimento formado.
+    Ademais, conforme noticiado pela própria impetrante, a questão posta à apreciação neste writ não foi analisada pelo Superior Tribunal de Justiça. Portanto sua análise, de forma originária, neste ensejo, configuraria verdadeira supressão de instância não admitida. Nesse sentido, os precedentes seguintes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    Ante o exposto, indefiro o pedido de liminar.
+    Estando a impetração devidamente instruída com as peças necessárias à perfeita compreensão da controvérsia, dispenso as informações da autoridade coatora.
+    Abra-se vista à Procuradoria-Geral da República.
+    Intime-se.
+    Brasília, 23 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
