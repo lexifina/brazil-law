@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de ADRIANO DOS SANTOS contra decisão proferida pelo Superior Tribunal de Justiça nos autos do REsp 1.244.852/RS.
+    Consta da impetração que o paciente, durante o cumprimento da pena de 13 anos, 2 meses e 20 dias de reclusão, cometeu a falta grave prevista no art. 50, inc. II, da Lei nº 7.210/84 (fuga), reconhecida mediante apuração no Processo Administrativo Disciplinar nº 343/2010.
+    No presente habeas corpus, a impetrante sustenta a nulidade do processo administrativo que resultou na imposição de sanção pela prática de falta grave, haja vista que o paciente não teria sido assistido por advogado ou defensor público durante o seu interrogatório.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada deste Tribunal, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    Ao compulsar os autos, verifico as seguintes informações prestadas pelo Juízo da Vara de Execuções Criminais da Comarca de Porto Alegre/RS (petição 5458/2012):
+    “Em 15.03.2010 aportou em juízo o PAD 343/2010, imputando a prática de falta grave em razão de fuga empreendida pelo paciente em 09.01.2010 com recaptura em flagrante delito no dia 11.02.2010, sendo que após esta fuga o apenado ainda evadiu em 20.12.2010 com recaptura na mesma data.
+    Em sede administrativa, o paciente foi ouvido acompanhado de agente penitenciário designado para realizar sua defesa. Os membros do Conselho Disciplinar Permanente opinaram pela aplicação da sanção disciplinar de 30 dias de isolamento, acatado pelo Corregedor Geral Penitenciário”.
+    Em casos análogos, a jurisprudência desta Corte firmou o entendimento de que a assistência prestada por defensor habilitado é imprescindível para a realização dos atos referentes ao processo administrativo disciplinar. Nesse ponto, destaco o seguinte precedente:
+    “Ao compulsar os autos, verifico do acórdão proferido pelo TJ/RS que os depoimentos do paciente e das testemunhas no procedimento administrativo-disciplinar foram colhidos sem a necessária e inafastável presença do defensor. Nesses termos, imperioso concluir que não houve garantia plena de defesa, restando violados os princípios constitucionais do contraditório e da ampla defesa, sobretudo se se levar em conta que, em uma última análise, se encontra em jogo a liberdade de ir e vir.
+    Não desconheço, por outro lado, que o Supremo Tribunal Federal aprovou o texto da Súmula Vinculante n. 5, que dispõe: “A falta de defesa técnica por advogado no processo administrativo-disciplinar não ofende a Constituição”.
+    Todavia, consoante decidido por meio do RE 398.269/RS, de minha relatoria, esse enunciado é aplicável apenas em procedimentos de natureza não-criminal. Dessarte, em procedimento administrativo-disciplinar, instaurado para apurar o cometimento de falta grave por réu condenado, tendo em vista estar em jogo a liberdade de ir e vir, deve ser observado amplamente o princípio do contraditório, com a presença de advogado constituído ou defensor público nomeado, devendo ser-lhe apresentada defesa, em observância às regras específicas contidas na LEP (arts. 1º, 2º, 10, 44, III, 15, 16, 41, VII e IX, 59, 66, V, alínea 'a', VII e VIII, 194), no CPP (arts. 3º e 261) e na própria CF/88 (art. 5º, LIV e LV)” (RHC 104.584/RS, rel. min. Gilmar Mendes, DJe nº 107, publicado em 06.06.2011).
+    Assim, concedo a ordem pretendida, conforme me autoriza o art. 192, caput, do Regimento Interno deste Supremo Tribunal Federal, para anular a audiência de interrogatório do ora paciente realizada no PAD 343/2010, bem como dos demais atos subsequentes, e determinar a renovação dos atos inerentes ao procedimento disciplinar com a necessária presença de advogado constituído ou de defensor público nomeado para promover a assistência jurídica do apenado.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
