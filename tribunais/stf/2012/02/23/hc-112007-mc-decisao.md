@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de habeas corpus, impetrado pela Defensoria Pública da União, em favor de Kalley Kennedy Oliveira dos Santos, contra acórdão exarado pelo Superior Tribunal Militar, que, dando provimento a correição parcial, desconstituiu decisão de 1º grau a qual havia reconhecido a prescrição da pretensão punitiva em favor do paciente.
+    Na espécie, o paciente foi denunciado pela suposta prática do crime previsto no art. 187 do CPM (deserção), porquanto deixou sua Organização Militar, sem autorização superior, em 29.8.2008.
+    Em 9.9.2008, apresentou-se voluntariamente. Submetido à inspeção de saúde, foi considerado apto para o serviço militar, tendo sido reincorporado.
+    Denúncia recebida em 27.3.2009.
+    Em decisão proferida em 7.7.2009, o Conselho de Justiça decidiu anular o processo, ao fundamento de que o acusado deveria ser tratado como civil, pois – tendo completado o tempo de serviço militar obrigatório – somente não fora licenciado em razão de responder ao processo.
+    Interposta correição parcial (nº 2009.01.002049-1-DF), o Superior Tribunal Militar cassou a decisão, determinando o prosseguimento do feito.
+    Em nova decisão, o Conselho Permanente de Justiça para o Exército, em 19.5.2011, nos termos do art. 125, VI, c/c o art. 129, ambos do CPM, declarou extinta a punibilidade do paciente, nos seguintes termos:
+    “A partir do recebimento da denúncia temos a interrupção do prazo previsto no art. 132 e início do lapso temporal prescricional da ação penal em razão do processo, cuja contagem segue o previsto no disposto no art. 125 do CPM.
+    O crime de deserção tem pena máxima de dois anos, sendo que o lapso prescricional em abstrato previsto no art. 125, VI, do CPM é de quatro anos.
+    Todavia, o fato do autor do delito ser menor de vinte e um anos reduz pela metade o prazo prescricional, conforme estabelecido no art. 129, o que implica na redução do prazo do crime de deserção, no caso concreto, para dois anos.
+    Este período de dois anos já foi ultrapassado nos presentes autos, o que implica o necessário reconhecimento da prescrição da ação penal e consequente extinção da punibilidade”.
+    Contra essa decisão o Juiz-Auditor Corregedor da Justiça Militar da União interpôs correição parcial, sob a alegação de sucessivas falhas procedimentais no feito. Entre elas a desconsideração de que o paciente teria consumado nova deserção – com sua exclusão do serviço ativo da Marinha a partir de 14.1.2010 –, tendo sido capturado em 21.10.2010 e passando novamente a desertar em 7.4.2011.
+    O Superior Tribunal Militar – acolhendo a tese de trânsfuga – deu provimento à correição, a fim de desconstituir a decisão proferida pelo Conselho Permanente de Justiça para o Exército, determinando o sobrestamento do feito até a captura do paciente.
+    Daí o presente habeas corpus perante este Supremo Tribunal Federal.
+    Sustenta a Defensoria Pública da União que a regra prevista no art. 132 do CPM aplica-se exclusivamente ao trânsfuga, isto é, àquele que permanece em estado de deserção.
+    Aduz que houve a interrupção do prazo prescricional com o recebimento da denúncia, ocorrido em 27.3.2009, nos termos do art. 125, § 5º, I, do CPM; que não se aplica o disposto no art. 132 do CPM; e ainda que, sendo o paciente menor de 21 anos na data dos fatos e não tendo havido qualquer outra interrupção ou suspensão do prazo, correta estaria a decisão do Conselho Permanente de Justiça, que declarou a extinção da punibilidade.
+    Ressalta, também, que, no presente caso, não foi sequer determinada a suspensão do feito com a nova deserção, exatamente por não estar essa circunstância descrita nos §§ do art. 125 do CPM.
+    Nesses termos, requer a concessão de liminar a fim de suspender o Processo nº 514/09-4 — que deu origem à Correição Parcial 67-37.2008.7.01.0301. No mérito, pleiteia a concessão da ordem em definitivo.
+    Passo a decidir.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora. No caso dos autos, em princípio, reputo presentes os requisitos exigidos para a concessão da medida cautelar.
+    É que, ao menos em uma análise preliminar, reputo consistentes os fundamentos exarados pela impetrante, sobretudo pelo fato de o fumus boni iuris estar devidamente caracterizado em precedentes de ambas as Turmas desta Corte, os quais trago à colação:
+    “CONSTITUCIONAL E PENAL MILITAR. CRIME DE DESERÇÃO. REINCORPORAÇÃO. ART. 132 DO CÓDIGO PENAL MILITAR. APLICAÇÃO RESTRITA AOS FORAGIDOS. PRESCRIÇÃO. CAUSAS DE SUSPENSÃO E DE INTERRUPÇÃO. IRREGULARIDADE NA SUSPENSÃO DE PROCESSO. IRRELEVÂNCIA.
+    1. As causas de suspensão e de interrupção da prescrição encontram-se expressamente previstas nos §§ 2º e 3º do art. 125, do Código Penal Militar, nelas não se incluindo a prática de nova deserção.
+    2. A regra do art. 132 do Código Penal Militar aplica-se apenas aos desertores foragidos. Precedentes.
+    3. Eventual irregularidade na decisão que suspende o curso do processo não repercute na fluência do prazo prescricional, porque exaustivas as hipóteses de suspensão e de interrupção.
+    4. Conceder a ordem” – (HC 106.545/RJ, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.4.2011).
+    “Habeas Corpus. Direito Penal Militar. Crimes de deserção. Reincorporação ao serviço militar ativo. Causas suspensivas e interruptivas da prescrição. Inocorrência. Taxatividade do art. 125 do Código Penal Militar. Prescrição consumada. Ordem concedida. A prática de um segundo crime de deserção não suspende nem interrompe o prazo prescricional atinente à ação penal movida em razão de crime de deserção antecedente (dentre outros, HC 106.545, rel. min. Cármen Lúcia, DJe nº 70, de 13.04.2011). Declaração de extinção da punibilidade ante o reconhecimento da prescrição da pretensão punitiva. Conceder a ordem” – (HC 100.802/RJ, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 8.6.2011).
+    “HABEAS CORPUS. PENAL MILITAR. DESERÇÃO. PRESCRIÇÃO. O sistema do CPM configura duas hipóteses para a questão da prescrição, em caso de deserção. A primeira se refere ao militar que deserta e posteriormente é reincorporado, porque se apresentou voluntariamente ou foi preso. A este é aplicável uma norma geral relativa à prescrição prevista no CPM, art. 125. A segunda, é dirigida ao trânsfuga, ou seja, aquele que permanece no estado de deserção. A ele é aplicável a norma especial do CPM, art. 132. Nessa situação, só gozará a extinção da punibilidade ao atingir os limites de idade. O prazo prescricional só se configura com o advento dos 45 anos para os praças e 60 anos para os oficiais” – (HC 79.432/PR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 15.10.1999).
+    Assim, defiro o pedido de liminar para suspender o Processo 514/09-4 — que deu origem à Correição Parcial 67-37.2008.7.01.0301 — até o julgamento final deste writ.
+    Estando os autos suficientemente instruídos, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 23 de fevereiro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
