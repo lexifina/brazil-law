@@ -1,0 +1,2 @@
+Art. 44. A Secex e a Secretaria da Receita Federal do Brasil notificarão uma à outra por escrito a abertura e a conclusão dos respectivos processos de investigação de origem não preferencial e os conduzirão de forma coordenada.
+Parágrafo único. Em caso de abertura de investigação por um órgão sobre determinado produto e empresa que já tenham sido objeto de investigação anterior por outro órgão, as informações obtidas por este e suas conclusões deverão ser levadas em consideração no processo de investigação aberto.

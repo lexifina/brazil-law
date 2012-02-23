@@ -1,0 +1,1 @@
+Art. 42. Excetuado o caso previsto no art. 41 desta Lei, a falta de comprovação da origem não preferencial sujeitará o importador à multa de 30% (trinta por cento) sobre o valor aduaneiro da mercadoria.

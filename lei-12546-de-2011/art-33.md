@@ -1,0 +1,1 @@
+Art. 33. A Secretaria da Receita Federal do Brasil e a Secex, no âmbito de suas competências, promoverão a verificação de origem não preferencial sob os aspectos da autenticidade, veracidade e observância das normas previstas nos arts. 28 a 45 desta Lei ou em seus regulamentos.

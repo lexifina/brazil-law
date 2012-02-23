@@ -1,0 +1,1 @@
+Art. 30. Nos casos em que a aplicação de medida de defesa comercial tiver sido estabelecida por ato específico da Camex com base na origem dos produtos, a cobrança dos valores devidos será realizada pela Secretaria da Receita Federal do Brasil, considerando as regras de origem não preferenciais estabelecidas nos arts. 31 e 32 desta Lei.

@@ -1,0 +1,1 @@
+Art. 43. A aplicação de penalidades relacionadas com a comprovação de origem não prejudica a cobrança, provisória ou definitiva, de direito antidumping ou compensatório ou, ainda, de medidas de salvaguarda, pela Secretaria da Receita Federal do Brasil.
