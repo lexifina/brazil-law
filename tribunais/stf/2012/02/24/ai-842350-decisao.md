@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    A União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 150, § 6º e 153, § 3º, II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da Quarta Região, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. MATÉRIAS-PRIMAS E INSUMOS ISENTOS, NÃO-TRIBUTADOS OU TRIBUTADOS À ALÍQUOTA ZERO. PRODUTO FINAL TRIBUTADO. POSSIBILIDADE DE CREDITAMENTO. PRESCRIÇÃO. ENERGIA ELÉTRICA.
+    1. O princípio da não-cumulatividade, insculpido no artigo 153, § 3°, II, da Constituição Federal, deve ser observado em todas as etapas do processo produtivo, inclusive se houver o emprego de matérias-primas ou insumos isentos, não-tributados ou tributados à alíquota zero no processo de industrialização do produto. Se for eliminada a possibilidade de aproveitamento do crédito de IPI referente a insumos adquiridos sem a incidência dessa exação, estar-se-á anulando o tratamento privilegiado, pois a alíquota do tributo recairá sobre a totalidade do valor do produto industrializado e não somente sobre o valor agregado.
+    2. A restrição imposta pelo art. 155, § 2°, II, da Constituição, está adstrita ao ICMS.
+    3. A distinção doutrinária entre isenção, não-tributação e tributação à alíquota zero não constitui óbice ao direito de crédito do IPI, visto que, na prática, todas são formas de desoneração tributária. Embora o art. 11 da Lei n° 9.779/99 não abarque a hipótese dos autos, reforça essa tese, porquanto o legislador avalizou a igualdade de tratamento às situações de isenção e tributação com alíquota zero, resguardando a regra constitucional da não-cumulatividade do IPI.
+    4. Aplicabilidade do artigo 1° do Decreto n° 20.910/32 combinado com o Decreto-Lei nº 4.597/42, ou seja, o contribuinte terá direito à escrituração de créditos do IPI nos 5 (cinco) anos anteriores à propositura da ação.
+    5. O crédito referente à energia elétrica não faz parte do valor escritural do IPI” (fl. 1088).
+    O recurso especial paralelamente interposto ao extraordinário, em decisão transitada em julgado, teve seu seguimento negado.
+    Decido.
+    A irresignação merece prosperar.
+    Verifico que a recorrente, em seu apelo extremo, insurge-se tão somente quando ao recolhimento de créditos na aquisição de insumos não tributados ou sujeitos à alíquota zero.
+    Nesse ponto, o Plenário desta Corte, no julgamento do RE nº 370.682/SC, Relator para o acórdão o Ministro Gilmar Mendes, firmou a inteligência no sentido da impossibilidade de se conferir crédito tributário aos contribuintes adquirentes de insumos não tributados ou sujeitos à alíquota zero, em razão da ausência de recolhimento do imposto. Colhe-se a ementa do referido julgado:
+    “Recurso extraordinário. Tributário. 2. IPI. Crédito Presumido. Insumos sujeitos à alíquota zero ou não tributados. Inexistência. 3. Os princípios da não-cumulatividade e da seletividade não ensejam direito de crédito presumido de IPI para o contribuinte adquirente de insumos não tributados ou sujeitos à alíquota zero. 4. Recurso extraordinário provido” (RE n° 370.682/SC, Tribunal Pleno, Relator o Ministro Gilmar Mendes , DJe de 19/12/07).
+    No julgamento do RE nº 353.657/PR, Relator o Ministro Marco Aurélio, o Tribunal reafirmou esse entendimento, concluindo, igualmente, que admitir o creditamento pela alíquota da operação final, quando o insumo é desonerado do tributo, conflita com a letra do inciso II do § 3º do artigo 153 da Constituição Federal que versa sobre a compensação do montante cobrado nas operações anteriores. Anote-se a ementa:
+    “IPI - INSUMO - ALÍQUOTA ZERO - AUSÊNCIA DE DIREITO AO CREDITAMENTO. Conforme disposto no inciso II do § 3º do artigo 153 da Constituição Federal, observa-se o princípio da não-cumulatividade compensando-se o que for devido em cada operação com o montante cobrado nas anteriores, ante o que não se pode cogitar de direito a crédito quando o insumo entra na indústria considerada a alíquota zero. IPI - INSUMO - ALÍQUOTA ZERO - CREDITAMENTO - INEXISTÊNCIA DO DIREITO - EFICÁCIA. Descabe, em face do texto constitucional regedor do Imposto sobre Produtos Industrializados e do sistema jurisdicional brasileiro, a modulação de efeitos do pronunciamento do Supremo, com isso sendo emprestada à Carta da República a maior eficácia possível, consagrando-se o princípio da segurança jurídica” (RE n° 353.657/PR, Tribunal Pleno, Relator o Ministro Marco Aurélio , DJe de 7/3/08).
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário para reconhecer a impossibilidade do creditamento na aquisição de insumos não tributados ou sujeitos à alíquota zero.
+    Dada a sucumbência recíproca, fixo as custas e honorários advocatícios em 10% sobre o valor da causa, a serem distribuídos e compensados proporcionalmente, na forma do art. 21, caput do Código de Processo Civil.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
