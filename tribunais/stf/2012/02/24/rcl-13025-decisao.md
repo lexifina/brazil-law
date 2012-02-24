@@ -1,0 +1,29 @@
+DECISÃO
+RECLAMAÇÃO. ACESSO AO INQUÉRITO POLICIAL. ALEGADO DESCUMPRIMENTO DA SÚMULA VINCULANTE N. 14 DO SUPREMO TRIBUNAL FEDERAL. ACESSO DISPONÍVEL. RECLAMAÇÃO PREJUDICADA.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada por Maria Aparecida Feitosa Rodrigues, Francisco Rodrigues da Silva e Valdomiro Santos Evangelista, advogados do ora Interessado Fernando Alves da Silva, contra supostos atos do juízo da Comarca de Primeira Entrância de Ibirajuba/PE, que teria sido designado para “responder por comarca de segunda entrância (…), ou seja, pela 4ª Vara Criminal de Caruaru/PE”, da delegada Natália Barbosa de Medeiros, “que oficia na Delegacia de Crimes contra a Administração Pública e Serviços Públicos (…) de Pernambuco”, e Sara Souza Silva, “que oficia na Central de Inquérito do Ministério Público da Comarca de Caruaru/PE”, os quais teriam descumprido a Súmula Vinculante n. 14 do Supremo Tribunal Federal.
+    2. Os Reclamantes afirmam que, decretada a prisão preventiva do ora Interessado Fernando Alves da Silva, teriam comparecido ao Fórum da Comarca de Caruaru/PE para ter ciência dos fundamentos dessa prisão e não teriam obtido acesso ao inquérito policial, remetido com carga à delegada Natália Barbosa de Medeiros.
+    Ressaltam que se dirigiram à Delegacia de Crimes contra a Administração Pública e Serviços Públicos de Pernambuco e, com fundamento na Súmula Vinculante n. 14 do Supremo Tribunal Federal, pediram a extração de cópia do inquérito, o que teria sido indeferido.
+    Asseveram que retornaram à Comarca de Caruaru/PE e apresentaram pedido de revogação da prisão preventiva, também indeferido.
+    Afirmam que o inquérito foi encaminhado ao Ministério Público de Pernambuco e a Promotora de Justiça Sara Souza Silva não teria admitido a extração de cópia.
+    Este o teor dos pedidos:
+    “a) nos termos do art. 14, inciso II, da Lei 8.038/90, a concessão da medida cautelar liminar pleiteada, consistente na imediata ordem para que os reclamados, solidariamente, franqueiem aos procuradores dos representados o acesso amplo aos autos de inquérito ou de ação penal, mediante certidão, sem esconder nenhum documento, sob pena de responsabilidade criminal e funcional por este fato, posto que presentes estão, salvo melhor juízo, o fumus boni iuris (subversão à Súmula n. 14/STF) e o periculum in mora, revelado pela prisão que se eterniza e sem que o representado tenha conhecimento dos fundamentos da sua prisão e dos motivos de sua não revogação;
+    b) requisição das informações aos reclamados (...), caso V. Exª entenda necessário;
+    c) a colheita de parecer da Procuradoria Geral da República, salvo se V. Exª entender de julgar procedente a reclamação por ser matéria já reiterada e até sumulada;
+    d) a concessão definitiva da reclamação no seu meritum causae, confirmando-se a medida cautelar, reconhecendo o direito emergente da Súmula n. 14/STF”.
+    3. Em 9.12.2011, ressaltei que, antes de apreciar a medida liminar requerida, para perfeito esclarecimento do quadro posto para decisão preliminar, eram necessárias informações das autoridades ora Reclamadas, que deveriam prestá-las no prazo máximo de 48 horas.
+    4. As informações foram prestadas e os advogados do ora Interessado Fernando Alves da Silva, subscritores da presente reclamação, protocolaram petição de desistência em 20.12.2011 (Petição/STF n. 94.287/2011).
+    Examinada a matéria posta à apreciação, DECIDO.
+    5. Embora na procuração juntada aos presentes autos pelos advogados subscritores da presente reclamação não conste especificamente outorga de poderes para desistir pelo Interessado Fernando Alves da Silva, a presente reclamação está prejudicada, por perda superveniente de objeto.
+    6. Tem-se nas informações prestadas pelo juízo da 4ª Vara Criminal da Comarca de Caruaru/PE que:
+    “Como pode ser aferido, as alegações feitas pelos reclamantes são completamente dissociadas da verdade. Todas as vezes que os advogados habilitados nos autos de n. 0004434-19.2011.8.17.0480, que tramita perante esta vara, estiveram no âmbito desta 4ª Vara Criminal para fins de consultar os referidos autos, tiveram amplo acesso aos mesmo, tendo, inclusive, o reclamante Francisco Alves dos Santos, advogado do interessado, retirado cópias de peças dos autos, conforme certidão expedida pela Chefia de Secretaria desta Vara, que ora faço anexar. Improcede, pois, qualquer alegativa em sentido diverso, uma vez que não há que se falar, ao menos no âmbito deste juízo, em descumprimento de Súmula Vinculante expedida por esse Excelso Tribunal. Os autos referidos, desde que estivessem fisicamente nesta vara, obviamente, foram apresentados em sua integralidade para os advogados habilitados, ora reclamantes (…).
+    Por fim, data máxima vênia, o pedido formulado pelos reclamantes não tem objeto, uma vez que é, sempre foi e será franqueado aos advogados devidamente habilitados nos autos o acesso ao mesmo, ao menos por parte deste juízo” (grifos nossos).
+    Dessa forma, o acesso pretendido pelos Reclamantes foi disponibilizado.
+    7. Essa disponibilização é corroborada pelo que se tem na petição de desistência (Petição/STF n. 94.287/2011):
+    “[E]m 5 de dezembro de 2011, a senhora chefe de secretaria do juízo franqueou a extração de cópia dos autos em apartado, já que as demais cópias do inquérito (…) já tinham sido fornecidas pela reclamada Natália Barbosa de Medeiros, omitindo-se em relação aos autos autuados em apartado.
+    6) À vista do exposto, não existe alternativa, senão requerer a extinção da presente reclamação por perda superveniente de objeto” (grifos nossos).
+    8. Pelo exposto, julgo prejudicada a presente reclamação, por perda superveniente de objeto (art. 38 da Lei n. 8.038/1990 e art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
