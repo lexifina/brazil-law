@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+    “PREVIDENCIÁRIO – MUNICÍPIO DE IPATINGA – SERVIDORA PÚBLICA MUNICIPAL APOSENTADA PELO REGIME GERAL DE PREVIDÊNCIA – ESTABILIDADE PELO ART. 19 DO ADCT DA CF/88 – PRETENSÃO À COMPLEMENTAÇÃO COM OS VENCIMENTOS DO SERVIDOR EM ATIVIDADE – DIREITO RECONHECIDO – JUROS DE MORA E CORREÇÃO MONETÁRIA – APLICAÇÃO DA LEI 11.960/09 – HONORÁRIOS ADVOCATÍCIOS. Sendo a previdência social matéria atinente à competência concorrente (art. 24, XII, CF/88) o Município, utilizando-se de sua competência suplementar e de interesse local (art. 30, I e II, CF/88), pode legislar sobre os interesses previdenciários de seus servidores, incluídos os servidores estabilizados, sendo perfeitamente possível a aplicação da Lei 1.311/94, alterada pela Lei 1.579/98. Aos servidores municipais de Ipatinga, aposentados pelo INSS, cujo benefício previdenciário corresponde a valor inferior ao recebido quando em exercício, fazem jus à complementação da aposentadoria paga pelos cofres públicos municipais, enquanto estiver vigente a Lei 1.311/94, alterada pela Lei 1.579/98, sendo a procedência do pedido medida que se impõe. Embora regulados por norma de direito material, os juros moratórios se renovam mês-a-mês, por se tratar de obrigação de trato sucessivo, atraindo a incidência da lei vigente a cada vencimento. Dessa forma, a partir de 30.06.2009, os juros de mora e a correção monetária deverão obedecer ao disposto no novo art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei 11.960/09. Vencida a Fazenda Pública, os honorários advocatícios devem ser fixados em quantia suficiente para remunerar o trabalho do profissional, sem onerar excessivamente o Poder Público, atendida a equidade determinada no § 4º do art. 20 do CPC e as normas das alíneas “a”, “b” e “c” do parágrafo anterior”. (fl. 94)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 19 do ADCT.
+    O recorrente aduz o seguinte:
+    “Tendo em vista que a Recorrida foi admitida no serviço público municipal em 21/02/1976, ou seja, antes da promulgação da Constituição de 1988, não há que se falar em complementação de proventos prevista na Lei Municipal nº 1.311/1994, uma vez que a mesma destina-se apenas a servidores titulares de cargo de provimento efetivo.” (fl. 132)
+    Decido.
+    Não assiste razão ao recorrente.
+    Nos autos, discute-se quais servidores públicos municipais fariam jus à complementação da aposentadoria, nos termos do art. 10 da Lei Municipal n. 1.311/1994.
+    O Tribunal de origem, interpretando a legislação local aplicável ao caso (Lei Municipal n. 1.311/94), consignou que os servidores estabilizados pelo art. 19 do ADCT também têm direito à complementação da aposentadoria prevista na referida Lei Municipal, a saber:
+    “(...) verifica-se que o legislador municipal não restringiu tal direito somente aos servidores detentores de cargo público efetivo, como quer levar a crer o apelante, eis que se assim pretendesse o legislador o faria expressamente, não cabendo, então, ao intérprete restringir o campo de atuação da norma onde a lei não o faz”. (fl. 97)
+    Assim, para se entender de forma distinta, seria necessária a análise da legislação local, providência vedada no âmbito do recurso extraordinário nos termos da Súmula 280 do STF.
+    Nesse sentido, confira-se a jurisprudência desta Corte:
+    “ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO MUNICIPAL. COMPLEMENTAÇÃO DE APOSENTADORIA. AUSÊNCIA DE PREQUESTIONAMENTO. LEGISLAÇÃO LOCAL. REEXAME DE FATOS E PROVAS. SÚMULA 279 E 280. PRECEDENTES.
+    1. Se a questão constitucional invocada no recurso extraordinário não foi objeto de debate no acórdão recorrido, nem opostos os embargos de declaração, fica desatendido o pressuposto recursal do prequestionamento, imprescindível para o conhecimento do apelo extremo.
+    2. Análise do recurso extraordinário que envolve interpretação de direito local (Leis Municipais 1.579/98 e 1.311/94) e matéria fático-probatória, o que faz incidir a Súmula STF 280.
+    3. Agravo Regimental a que se nega provimento”. (RE-AgR 571.694, Rel. Min. Ellen Gracie, DJe 27.06.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, § 4º, II, “b”, do CPC ).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2011.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
