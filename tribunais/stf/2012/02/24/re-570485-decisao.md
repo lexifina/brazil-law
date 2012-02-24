@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E TRIBUTÁRIO. IMUNIDADE PREVISTA NO ART. 195, § 7º, DA CONSTITUIÇÃO DA REPÚBLICA APLICÁVEL A ENTIDADES QUE PRESTAM ASSISTÊNCIA SOCIAL NA EDUCAÇÃO. PRECEDENTES. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “TRIBUTÁRIO. IMUNIDADE. PREENCHIMENTO DOS REQUISITOS DO ART. 55 DA LEI 8.212/91. Mantida a sentença que julgou procedente o pedido de declaração de imunidade para a autora, já que nos autos há cópia dos documentos exigidos pelo art. 55, II, da Lei nº 8.212/91.
+    Solução da questão em nível infraconstitucional, presente que estão o certificado e declaração exigidos por lei” (fl. 135).
+    2. A Recorrente alega que teria sido contrariado o art. 195, § 7°, da Constituição da República.
+    Argumenta que “a imunidade em relação aos impostos abrange as instituições de educação e as de assistência social, enquanto a imunidade das contribuições previdenciárias compreende somente as entidades de assistência social. (…) Assim, ao contrário do decidido, a entidade recorrida não pode atrair a imunidade das contribuições para a Seguridade Social por ser instituição educacional” (fl. 174).
+    Apreciada a matéria trazida na espécie, DECIDO .
+    3. Razão de direito não assiste à Recorrente.
+    4. O Supremo Tribunal Federal firmou o entendimento de que a imunidade tributária prevista no art. 195, § 7º, da Constituição da República compreende as entidades que prestam assistência social na educação. Nesse sentido:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 12, ‘CAPUT’, INCISO IV E 19, ‘CAPUT’, E PARÁGRAFOS 1º, 2º, 3º, 4º E 5º DA LEI Nº 10.260, DE 13/7/2001. INSTITUIÇÕES DE ENSINO SUPERIOR. FUNDO DE FINANCIAMENTO AO ESTUDANTE DE ENSINO SUPERIOR (FIES). EXIGÊNCIA, PELO ART. 19 DA MENCIONADA LEI, DE APLICAÇÃO DO EQUIVALENTE À CONTRIBUIÇÃO DE QUE TRATA O ART. 22 DA LEI Nº 8.212/91 NA CONCESSÃO DE BOLSAS DE ESTUDO. VIOLAÇÃO AO DISPOSTO NO ART. 195, § 7º DA CONSTITUIÇÃO FEDERAL. IMUNIDADE QUE SE ESTENDE ÀS ENTIDADES QUE PRESTAM ASSISTÊNCIA SOCIAL NO CAMPO DA SAÚDE E DA EDUCAÇÃO. ART. 12, CAPUT DA REFERIDA LEI. FIXAÇÃO DE CONDIÇÕES PARA RESGATE ANTECIPADO DE CERTIFICADOS JUNTO AO TESOURO NACIONAL. INEXISTÊNCIA DE INCONSTITUCIONALIDADE. ART. 12, INCISO IV. RESGATE CONDICIONADO À AUSÊNCIA DE LITÍGIO JUDICIAL TENDO COMO OBJETO CONTRIBUIÇÕES SOCIAIS ARRRECADADAS PELO INSS OU CONTRIBUIÇÕES RELATIVAS AO SALÁRIO EDUCAÇÃO. APARENTE AFRONTA AO ART. 5º, XXXV. (...)” (ADI 2.545-MC, Rel. Min. Ellen Gracie, Plenário, DJ 7.2.2003).
+    “Em uma série de precedentes, esta Corte tem assegurado o benefício constitucional independentemente do valor cultural relativo do objeto de ensino. Basta que a educação tenha por centro conhecimento técnico ou acadêmico de induvidosa seriedade.
+    Nesse sentido, o Supremo Tribunal Federal reconheceu a aplicação da imunidade à Sociedade Brasileira de Cultura Inglesa (RE 249.980-AgR, rel. min. Ilmar Galvão, Primeira Turma, DJ de 14.06.2002, RE 183.216-AgR-EDcl, rel. min. Marco Aurélio Segunda Turma, DJ de 02.06.2000 e AI 38.802, rel. min. Evandro Lins, Primeira Turma, DJ de 16.03.1967), ao Conselho Cultural Thomas Jefferson (RE 354.988-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 20.04.2006), à Associação Salgado de Oliveira de Educação e Cultura – ASOEC (AI 437.780-AgR, rel. min. Cezar Peluso, Primeira Turma, DJ de 05.08.2005), à Fundação Cultural de Belo Horizonte (RE 97.797, rel. min. Aldir Passarinho, Segunda Turma, DJ de 11.11.1983), e à Associação de Cultura Franco-Brasileira (AI 76.422-AgR, rel. min. Cordeiro Guerra, Segunda Turma, DJ de 10.09.1979)” (RMS 242.283-AgR, Rel. Min. Joaquim Barbosa, DJe 13.8.2010).
+    Não há, pois, o que prover quanto às alegações da parte recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
