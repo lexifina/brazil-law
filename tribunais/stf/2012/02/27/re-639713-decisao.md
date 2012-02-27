@@ -1,0 +1,13 @@
+1. Trata-se de recurso extraordinário criminal interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao agravo em execução interposto pelo Ministério Público Estadual e, de ofício, restabeleceu os dias remidos pelo apenado.
+          Colho da respectiva ementa:
+    “AGRAVO EM EXECUÇÃO. AUDIÊNCIA PARA OITIVA DO APENADO. DESNECESSIDADE, NO CASO CONCRETO. RESTABELECIDO OS DIAS REMIDOS.
+    1. Não se vislumbrando a possibilidade de regressão de regime, não faz mister a realização da audiência de justificação da fuga. Isolamento de vinte dias, suficientes.
+    2. Tenho que a perda dos dias remidos, nos termos do artigo 127 da LEP ofende o princípio da isonomia (art. 5º, caput, da CF) e o da proporcionalidade, o qual se infere da inserção na Carta Magna dos princípios e garantias fundamentais (art. 1º , caput, e 5º, caput, da CF). Isto porque redunda em tratamento igualitário ao apenado que trabalha e ao que não trabalha. Ademais, para efeitos de apuração da falta grave, será mais gravoso ao réu que trabalha, pois ai que não trabalhou somente será imposta a sanção disciplinar a que se refere o artigo 59 da LEP, ao passo que o réu trabalha, além da pena disciplinar, recebe outra sanção, ou seja, a perda dos dias remidos ou por remir o trabalho”.
+          Argumenta o recorrente, em síntese, violação dos arts. 1º, incisos II e IV, e 5º, incisos XXXVI e XLVI, e 6º, todos da Constituição Federal, uma vez que a Corte Estadual entendeu que a remição dos dias trabalhados constitui direito adquirido do apenado e que a perda dos dias remidos afrontaria os princípios constitucionais da proporcionalidade e da individualização da pena.
+    2. Examinando os autos, constato que o Superior Tribunal de Justiça, na análise do REsp interposto contra o referido acórdão do TJRS, por intermédio da decisão monocrática da lavra do eminente Ministro Jorge Mussi, verificou a extinção da punibilidade do recorrido em razão da concessão de indulto, e, por conseguinte, julgou prejudicado o recurso pela perda superveniente de objeto (fls. 139-143).
+    3. Conforme informações juntadas aos autos (fl. 143), prestadas pelo Escrivão da Vara de Execuções Criminais da Comarca de Porto Alegre, o recorrido, João Jerônimo Maurel Rosa, está em liberdade, beneficiado pelo indulto, e o respectivos autos da execução baixaram ao arquivo em 18.3.2009.
+    4. Ante o exposto, julgo prejudicado o presente recurso extraordinário em razão da perda de objeto.
+          Publique-se.
+          Brasília, 27 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
