@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo de instrumento contra decisão inadmissibilidade de recurso extraordinário que impugna acordão, no que interessa, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO. OCORRÊNCIA PARCIAL. PREQUESTIONAMENTO. TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO (II). IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI). ISENÇÃO. MERCADORIAS IMPORTADAS POR NAVIO DE BANDEIRA ESTRANGEIRA. ACORDO NÃO HOMOLOGADO PELO CONGRESSO NACIONAL. APLICAÇÃO DA TR/TRD. JUROS DE MORA. TERMO INICIAL. Existência de certa omissão no r. acórdão recorrido, acerca do termo inicial de incidência da TR como juros de mora. O Supremo Tribunal Federal, quando do julgamento da ADIn n. 835/DF, em que se questionou a possibilidade de retroação do art. 30 da Lei n. 8.218/91, indeferiu medida cautelar de suspensão da eficácia da referida norma, considerando que não houve violação do princípio do ato jurídico perfeito ou do direito adquirido, uma vez que, a partir de fevereiro de 1991, já se aplicava a TRD sobre débitos fiscais de qualquer natureza que não foram pagos na data de seu vencimento, conforme disposto na Lei n. 8.177/91. […] Embargos declaratórios parcialmente providos”.
+    A recorrente sustenta violação aos arts. 5º, XXXVI; e 150, I e III, a e § 6º, da Constituição Federal de 1988.
+    Passo a decidir.
+    Sem razão a agravante.
+    É constitucional a aplicação da TR/TRD como juros de mora (Leis 8.177/91 e 8.218/91) no parcelamento de débito para com a Fazenda Nacional, cuja incidência se deu a partir de fevereiro de 1991.
+    Nesse sentido, entre outros, os seguintes precedentes: ADI-MC 835, Rel. Min. Carlos Velloso, Tribunal Pleno, DJ 28.05.1993; RE-AgR 429.132, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 14.11.2011; e RE-AgR-ED 567.673, Rel. Min. Ellen Gracie, Segunda Turma, DJ 07.02.2011, este cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DÉBITOS TRIBUTÁRIOS. TR-TRD COMO JUROS DE MORA. ART. 9º DA LEI 8.177/91. REDAÇÃO DO ART. 30 DA LEI 8.218/91. AFRONTA AOS PRINCÍPIOS DA IRRETROATIVIDADE E ANTERIORIDADE. INEXISTÊNCIA. OMISSÃO. EMBARGOS ACOLHIDOS PARA ESCLARECIMENTOS SEM ALTERAÇÃO DO JULGADO. 1. É constitucional a aplicação da TR-TRD como juros de mora (Leis 8.177/91 e 8.218/91) no parcelamento de débito para com a Fazenda Nacional, cuja incidência se deu a partir de fevereiro de 1991. Precedentes. 2. Afastada a hipótese de erro material no que tange à data dos fatos geradores. 3. Embargos de declaração acolhidos tão-somente para prestar esclarecimentos quanto à omissão apontada, sem alteração do julgado”.
+    Ante o exposto, com fulcro nos arts. 21, § 1º, do RISTF e 557, caput, do Código de Processo Civil, nego seguimento ao recurso.
+    Publique-se. Intimem-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
