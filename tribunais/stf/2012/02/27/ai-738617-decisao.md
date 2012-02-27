@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+    “Despejo. Imóvel rural. Exploração de atividade agro-industrial. Ação julgada improcedente. Denúncia do contrato pela locadora, limitando-se a manifestar desinteresse na continuidade da locação. Relação regida pelo Estatuto da Terra. Necessidade de motivação do ato. Princípios da Justiça Social e da Função Social da Propriedade Rural. Ineficácia da notificação. Desnecessidade de discussão sobre a retomada para uso próprio. Ausência, de toda forma, de elementos que atestem a sinceridade do pedido como sendo de uso próprio. Ausência de pedido expresso para apreciação de agravo retido. Requerimento de tutela antecipada pela autora. Agravo retido não conhecido e improvimento da apelação, prejudicado pedido de tutela antecipada.” (Fls. 1.106)
+    No recurso extraordinário, a ora agravante alega violação ao art. 5º, XXXV e XXII, da Carta Magna.
+    Inexiste a alegada afronta ao art. 5º, XXXV, da Constituição Federal, pois o acórdão recorrido inequivocamente prestou jurisdição, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+    Ademais, a análise da alegada ofensa ao art. 5º, XXII, nos moldes como ventilada nas razões recursais, demandaria o exame prévio da legislação infraconstitucional que disciplina a ação de despejo de imóvel rural arrendado e das provas que fundamentaram as conclusões da decisão recorrida. Trata-se, portanto, de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, também, a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
