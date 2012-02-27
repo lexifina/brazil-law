@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de Andreos de Carvalho, buscando a liberdade provisória do paciente.
+    Embora a impetrante aponte como autoridade coatora o relator do HC nº 152.289/SP no Superior Tribunal de Justiça, o número do processo na origem e os documentos que instruem a impetração indicam, na verdade, que este writ volta-se contra ato do Ministro Jorge Mussi, daquela Corte de Justiça, que indeferiu a liminar no HC nº 209.593/SP.
+    Inicialmente, argumenta a impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais, sustenta, em síntese, a falta de fundamentação apta a justificar a necessidade da medida constritiva do paciente, bem como a ausência dos pressupostos previstos no art. 312 do Código de Processo Penal. Nesse contexto, aduz que o juízo de origem não teria justificado as circunstâncias que afastariam a aplicação das medias cautelares diversas da prisão à espécie.
+    Assevera, ainda, o excesso de prazo na prisão cautelar do paciente, visto que ele encontra-se segregado há mais de 2 (dois) anos sem que tenha se encerrado a instrução criminal.
+    Por fim, alega ser o paciente primário e de bons antecedentes.
+    Requer o deferimento da liminar para conceder o benefício da liberdade provisória ao paciente e, no mérito, pede a sua confirmação.
+    Examinados os autos, decido.
+    Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Transcrevo o teor da decisão ora questionada:
+    ”Trata-se de habeas corpus com pedido de liminar impetrado pela Defensoria Pública, em favor de ANDREOS DE CARVALHO, contra acórdão da 6ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo que denegou o Writ nº 0546402-39.2010.8.26.0000, afastando a alegação de excesso de prazo e mantendo a segregação cautelar do paciente, preso em flagrante no dia 24-12-2009 e denunciado pela suposta prática dos delitos previstos nos art. 157, § 2º, inciso I, do Código Penal e art. 303, parágrafo único c/c art. 302, parágrafo único, inciso II, ambos da Lei nº 9.503/97, por sete vezes, na forma do art. 70, caput, do Código Penal.
+    Sustentam os impetrantes a ocorrência de excesso de prazo para encerramento da instrução criminal e que a Corte de origem não teria apresentado fundamentação idônea que justificasse a manutenção da custódia cautelar dos pacientes, tendo em vista que a decisão foi baseada na gravidade abstrata do delito deixando de apontar elementos concretos que demonstrassem a existência de quaisquer das hipóteses previstas no art. 312 do CPP, a fim de justificar a necessidade da medida, malferindo, assim, as determinações do art. 5º, incisos LXXVIII e LVII, da Constituição Federal.
+    Reclamam que estaria configurado o excesso de prazo para a formação da culpa posto que o paciente encontra-se no cárcere deste 24-12-2009 e o processo está suspenso aguardando que o Tribunal a quo aprecie um conflito negativo de competência suscitado pela Juíza Presidente do IV Tribunal do Júri em 10-1-2011.
+    Afirmam que a pendência do julgamento do conflito negativo de competência afastaria a aplicação da Súmula nº 52 do Superior Tribunal de Justiça, na medida em que ainda não estaria definido qual o juízo competente para o julgamento, e, no caso de ser atribuída a competência para o Tribunal do Júri seria necessária a realização de nova instrução criminal, o que atrasaria ainda mais o andamento do feito.
+    Argumentam que, estando ausentes os requisitos autorizadores da custódia preventiva e sendo o paciente primário e possuidor de bons antecedentes, faz ele jus à liberdade provisória, nos termos do art. 310, parágrafo único do Código de Processo Penal.
+    Requerem, liminarmente e no mérito, o relaxamento da prisão em flagrante por excesso de prazo ou o deferimento da liberdade provisória ao paciente, expedindo-se em seu favor o competente alvará de soltura.
+    É o relatório.
+    A concessão de liminar em sede de habeas corpus reserva-se aos casos excepcionais de ofensa manifesta ao direito de ir e vir, e desde que preenchidos os pressupostos legais, consistentes no fumus boni iuris e no periculum in mora.
+    In casu, mostra inviável acolher-se a pretensão sumária, porquanto a motivação que dá suporte à pretensão liminar confunde-se com o mérito do writ, devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo.
+    Diante do exposto, indefiro a liminar.
+    Solicitem-se informações à autoridade apontada como coatora e ao Juízo de primeiro grau.
+    Após, dê-se vista ao Ministério Público Federal” (fls. 1/2 do anexo 3).
+    Não há como ter-se por desprovida de fundamentação ou teratológica a decisão que entende não haver elementos suficientes, demonstrados de plano, para o deferimento da liminar. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que tanto caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    A pretensão da impetrante é trazer ao conhecimento desta Suprema Corte, de forma precária, questões não analisadas, definitivamente, no Superior Tribunal de Justiça, em flagrante intenção de suprimir a instância antecedente.
+    Vale ressaltar, ainda, que o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano. Com muito maior rigor deve ser tratada a questão, portanto, quando a pretensão formulada for contrária à súmula desta Suprema Corte.
+    Ademais, anoto que a impetração encontra-se deficientemente instruída, uma vez que não consta dos autos cópia da decisão que teria homologado a prisão em flagrante do ora paciente. Com efeito, a ausência desse documento impede que se analise o alegado constrangimento ilegal decorrente da suposta falta de fundamentação apta a justificar a manutenção da medida constritiva.
+    De outra parte, à primeira vista, entendo não estar configurado o alegado excesso de prazo na conclusão da instrução criminal, pois os documentos que instruem a impetração, além de não indicarem inércia por parte do Poder Judiciário, demonstram que o feito tem regular processamento. Para dissipar qualquer dúvida a respeito, revela-se pertinente um pedido de informações atualizadas ao juízo de origem.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro o pedido de liminar.
+    Solicitem-se informações à autoridade coatora e ao Juízo de Direito da 20ª Vara Criminal da Comarca de São Paulo para que informe a esta Suprema Corte o andamento completo e atualizado da ação penal à qual responde o paciente, bem como forneça cópia da decisão que teria homologado a sua prisão em flagrante.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
