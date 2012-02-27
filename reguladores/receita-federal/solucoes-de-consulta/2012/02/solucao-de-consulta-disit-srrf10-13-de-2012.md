@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 13, de 23 de janeiro de 2012
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: PRESTAÇÃO DE SERVIÇOS DE REPROGRA- FIA COM DISPONIBILIZAÇÃO DE OPERADOR. RETENÇÃO DE 11%. INAPLICABILIDADE. A prestação de serviços de reprografia com a disponibilização de operador, ainda que realizada nas dependências da contratante, não está sujeita à retenção de que trata o art. 31 da Lei nº 8.212, de 1991. DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31, caput, e §§ 3º e 4º; RPS, de 1999, art. 219, § 2º; Instrução Normativa RFB nº 971, de 2009, arts. 117 a 119.
+[arquivo anexo: SC SRRF10-Disit nº 013-2012.pdf]
