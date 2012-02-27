@@ -1,0 +1,24 @@
+1. Trata-se de habeas corpus com pedido de medida liminar impetrado em favor de MÁRIO GOMES ALVES FILHO contra acórdão da Quinta Turma do Superior Tribunal de Justiça proferido no HC 198.160/PA, de relatoria do Ministro Gilson Dipp.
+    2. No caso sob análise, o paciente foi condenado no Juízo Federal da 3ª Vara Criminal da Seção Judiciária do Estado do Pará à pena de treze anos e quatro meses de reclusão, em regime inicialmente fechado, por violação ao art. 35 da Lei 11.343/06. O paciente respondeu preso ao processo penal e o Magistrado sentenciante manteve sua prisão após a condenação.
+          O Tribunal Regional Federal da 1ª Região denegou pedido de habeas corpus em que se buscava garantir ao paciente o direito de recorrer em liberdade da sentença condenatória.
+          No Superior Tribunal de Justiça, a Quinta Turma denegou o HC 198.160/PA. Daí a presente impetração.
+    3. Neste writ, o impetrante alega, em suma, ausência de fundamentação válida para a manutenção da segregação cautelar do paciente. Também aduz que o membro do Ministério Público Federal manifestou pela absolvição do paciente em suas alegações finais.
+          Assim, requer o deferimento de medida liminar, a fim de que se determine a imediata soltura do paciente.
+    4. A Quinta Turma do Superior Tribunal de Justiça denegou o HC 198.160/PA nos seguintes termos:
+    “CRIMINAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. APELO EM LIBERDADE. ART. 44 DA LEI 11.343/07. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    I. Em que pese o Supremo Tribunal Federal, nos autos do Recurso Extraordinário n.º 601.384/RS, ter se manifestado pela existência de repercussão geral, a constitucionalidade do art. 44 da Lei 11.343/06 ainda não foi dirimida, devendo prevalecer o entendimento consolidado no âmbito desta Turma até o julgamento final da matéria pelo Pretório Excelso, no sentido da existência de vedação expressa à concessão de liberdade provisória aos acusados pela prática do delito de tráfico de entorpecentes.
+    II. Considerando-se a validade da proibição prevista no art. 44 da Lei n.º 11.343/2006 no que se refere à concessão de liberdade provisória, conclui-se também pela vedação ao apelo em liberdade a réu que não pode ser beneficiado com o direito à liberdade provisória. Precedentes.
+    III. Ordem denegada, nos termos do voto do Relator”.
+    5. Com efeito, da leitura do acórdão impugnado na inicial, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte para a denegação da ordem.
+          Ressalto que, para fins de apreciação do pedido de medida liminar, é necessário aferir se o ato atacado de caracteriza patente constrangimento ilegal. Na hipótese dos autos, as razões do aresto hostilizado mostram-se relevantes e, em um primeiro exame, sobrepõem-se aos argumentos lançados no writ.
+          Ademais, verifico, neste exame prefacial, que a liminar pleiteada no caso possui natureza nitidamente satisfativa, já que se confunde com o mérito da impetração.
+          Sem embargo da controvérsia a respeito da possibilidade da concessão ou não de liberdade provisória para acusados de crime de tráfico de drogas, observa-se que a situação do paciente é diferente, pois já foi condenado, sem trânsito em julgado, pelo referido crime a penas de treze anos e quatro meses de reclusão. A manutenção da prisão na sentença mostra-se consentânea com a jurisprudência deste Supremo Tribunal Federal:
+    "EMENTA: HABEAS CORPUS. PENAL. PROCESSUAL PENAL. PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA. OMISSÃO QUANTO AO DIREITO DE APELAR EM LIBERDADE. RÉUS QUE RESPONDERAM À AÇÃO PENAL PRESOS. CRIMES DE TÓXICOS. ILEGALIDADE. INOCORRÊNCIA. ORDEM DENEGADA. I - O direito de apelar em liberdade para os delitos contidos na Lei 11.343/2006 é excepcional, desafiando fundamentação própria. II - Não há ilegalidade em manter presos, para apelar, réus que responderam a ação penal nessa condição. III - Inexistência de ilegalidade ou de abuso de poder. IV - Ordem denegada." (HC 92.612/PI - 1.ª Turma do STF - Rel.: Min. Ricardo Lewandowski - un. j. 11/03/2008 - DJe 065, 11/04/2008) (Grifou-se).
+          No mesmo sentido, encontram-se vários outros julgados (v.g.: HC 102015, HC 101817, HC 98.679 e HC 102281).
+          Quanto ao fato do MPF ter requerido a sua absolvição em primeiro grau, cumpre ponderar que o juiz, em decisão fundamentada, discordou do parecer, e que não cabe no habeas corpus a avaliação das provas.
+          Desse modo, não vislumbro a presença do requisito do fumus boni iuris para a concessão da tutela pleiteada.
+    6. Ante o exposto, indefiro o pedido de liminar. Encontrando-se os autos plenamente instruídos, sendo desnecessárias as informações, colha-se a manifestação do Procurador-Geral da República.
+          Publique-se.
+          Brasília, 27 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
