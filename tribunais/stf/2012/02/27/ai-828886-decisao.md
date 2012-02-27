@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EXECUÇÃO FISCAL. INSUFICIÊNCIA DE BENS. PENHORA. FATURAMENTO DA EMPRESA. EXAURIMENTO DE BUSCAS DE BENS. ART. 620 DO CPC. POSSIBILIDADE. A interposição de recurso especial não tem o condão de suspender o feito executivo. Inexiste nos autos qualquer comprovação de que a ação consignatória verse sobre os mesmos créditos cobrados na execução fiscal em tela. E ainda que fossem os mesmos, os depósitos mensais efetuados pela agravante consistem na parcela incontroversa dos débitos, portanto, não alcançando a sua integralidade. Ademais, ao que tudo indica, a liquidez e certeza de tais títulos depende da eventual procedência dessa ação, o que compromete a liquidez e certeza do oferecimento. A penhora sobre o faturamento é medida de caráter extremo, sendo admissível somente quando inexistirem bens passíveis de penhora em nome da executada ou quando restarem apenas bens de difícil alienação. Ainda nesses casos, a penhora não pode ser de molde a inviabilizar a empresa, devendo, por isso, ser fixada proporcionalmente. A observância do princípio insculpido no artigo 620 do CPC não significa permitir constrição patrimonial de acordo com a vontade do devedor, porquanto a menor onerosidade, diretriz que orienta o processo de execução, não significa que a cobrança não deva ser ultimada de forma útil ao credor” (fl. 22).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, XIII e XXII; 145, § 1º; 150, IV; 170, VII e VIII; e 226, § 7º, do texto constitucional.
+    A recorrente insurge-se, em síntese, contra a penhora efetuada sobre seu faturamento mensal.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem decidiu que “o deferimento de penhora sobre faturamento é medida de caráter extremo, sendo admissível quando inexistirem bens livres e desembaraçados capazes de garantir os débitos em execução ou quando existirem apenas bens de difícil alienação. É o caso dos autos” (fl. 19).
+    Verifico que o acórdão recorrido decidiu a controvérsia relativa à ordem legal da penhora com base na legislação processual aplicável à espécie, donde se conclui que eventual ofensa à Constituição, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido: AI-AgR 785.219, Rel. Min. Ayres Britto, Segunda Turma, DJe 8.10.2010; AI-AgR 763.295, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.9.2011; AI-AgR 285.125, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 2.2.2001; e o AI-AgR 407.520, de minha relatoria, Segunda Turma, DJ 15.8.2003, este último com acórdão assim ementado:
+    “Agravo regimental em agravo de instrumento. 2. Penhora em dinheiro. Impossibilidade de aferição se os valores penhorados pertencem às reservas bancárias e da alegada infração à ordem processual de penhora. Matéria restrita ao âmbito da legislação infraconstitucional. Precedentes. 3. Agravo regimental a que se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
