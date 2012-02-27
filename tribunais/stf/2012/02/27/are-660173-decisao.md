@@ -1,0 +1,23 @@
+Decisão:
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO – MANDADO DE SEGURANÇA - DECADÊNCIA – AFASTADA - IMPOSTO DE RENDA – REGIME DE APURAÇÃO SEMESTRAL – LEI Nº 7.450/85 E DECRETO-LEI Nº 2.341/87 - VIGÊNCIA - DECRETO-LEI Nº 2.354/87 – APURAÇÃO ANUAL – APLICABILIDADE PARA AS DEMONSTRAÇÕES FINANCEIRAS FUTURAS.
+    1. Afastada a alegação de decadência para a impetração do mandado de segurança.
+    2. No imposto de renda é essencial que se verifique a lei aplicável, ou seja, aquela que regerá o período de apuração, em atendimento aos princípios da legalidade, anterioridade e irretroatividade.
+    3. Na apuração das demonstrações financeiras de 30 de junho de 1.987 a legislação aplicável e vigente à época era a Lei nº 7.450/85 e o Decreto lei nº 2.341/87.
+    4. O regime de apuração semestral do tributo veio a ser alterado em 24 de agosto de 1.987 pelo Decreto-lei nº 2.354, razão pela qual a alteração dessa sistemática só pode ter aplicação para as demonstrações financeiras futuras, em atendimento aos princípios da irretroatividade e da segurança jurídica.
+    5. Precedentes do C. STJ e do Tribunal Regional Federal da 4a Região” (fls. 160).
+    Alega a recorrente que a aplicação do Decreto-Lei nº 2.354/87, com relação ao cálculo do imposto de renda realizado até 30/06/87, com base no regime semestral, não viola o artigo 153, § 29 da Constituição Federal de 1967.
+    Contra-arrazoado (fls. 220/233), o recurso extraordinário (fls. 209/ 215) foi inadmitido (fls. 235/236), sendo então interposto o agravo de instrumento de fls. 238/241.
+    Decido.
+    Não assiste razão jurídica à recorrente.
+    Verifico que o Tribunal de origem asseverou que “quando o impetrante efetuou a apuração de suas demonstrações financeiras em 30 de junho de 1.987, o fez com base na legislação aplicável e vigente à época, ou seja, a Lei n.º 7.450/85 e o Decreto-lei nº 2.341/87. Vigorava na época, o regime de apuração semestral do tributo, que somente veio ser alterado em 24 de agosto de 1.987, com o Decreto-Lei n.º 2.354”( fls. 158/159).
+    Desta forma, para concluir de forma diversa do que foi decidido pelo Tribunal de origem demandaria a análise prévia de legislação infraconstitucional aplicável à espécie (Decretos-Leis nºs. 2.341/87 e 2.354/87 e Lei n° 7.450/85). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido, os seguintes julgados:
+    “RECURSO EXTRAORDINÁRIO - EXIGIBILIDADE DO RECOLHIMENTO DO imposto renda ANTES DA OCORRÊNCIA DO FATO GERADOR - decreto-LEI Nº 2.354/87, LEI Nº 7.787/89 E LEI Nº 7.799/89 - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes” (RE nº 228.196/MG-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 2/2/07).
+    “ACÓRDÃO QUE CONCLUIU PELA VALIDADE DA COBRANÇA ANTECIPADA DE imposto DE renda E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO, NOS TERMOS DO decreto-LEI Nº 2.354/87 E DA LEI Nº 7.799/89. Matéria circunscrita ao âmbito de interpretação de normas de natureza infraconstitucional, significando que eventual ofensa à Carta somente se daria de forma reflexa e indireta. Questão, ademais, insuscetível de apreciação em sede extraordinária ante a falta de prequestionamento dos temas constitucionais invocados. Agravo regimental desprovido” (AI nº 238.846/RS-AgR, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 16/2/01).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO DE RENDA. LUCROS E DIVIDENDOS DISTRIBUÍDOS ANTECIPADAMENTE. INCIDÊNCIA DE CORREÇÃO MONETÁRIA AO MONTANTE A SER TRIBUTADO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - O Tribunal de origem decidiu a controvérsia atinente à atualização monetária dos lucros ou dividendos distribuídos antecipadamente, com base em normas infraconstitucionais aplicáveis à espécie (decretos-Lei 2.341/87 e 2.429/88). Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. . II Agravo regimental improvido” (AI nº 736.845/SP-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe de 11/03/11).
+    Ante ao exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
