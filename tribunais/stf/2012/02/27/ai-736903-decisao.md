@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+    “NOTA PROMISSÓRIA - Ação declaratória de inexigibilidade de título de crédito cumulada com pedido de indenização por danos morais, reunida a medida cautelar de sustação de protesto para julgamento conjunto - Emissão da cártula por filho e irmão dos representantes legais da autora, que, valendo-se das dependências da sociedade, sempre negociou em nome da pessoa jurídica, fazendo transparecer sua capacidade de representação da sociedade empresária - Aplicação da teoria da aparência de molde a conferir segurança e estabilidade às relações jurídicas, tutelando a boa-fé negocial - Preservação dos direitos de quem tinha sérios motivos para supor que contratava com propostos da pessoa jurídica que contraiu a obrigação cambial -Inadmissibilidade da postulação voltada ao reconhecimento da inexigibilidade da cártula - Sentença reformada - Pedidos cautelar e principal julgados improcedentes, liberado o título para o protesto - Recurso de apelação interposto pela ré provido, prejudicado o recurso adesivo manifestado pela autora. “
+    Nas razões de recurso extraordinário, o ora agravante alega como violados os princípios do contraditório e da ampla defesa.
+    Inexiste a alegada afronta ao art. 5º, LV, da Constituição Federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
