@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra a parte do acórdão que entendeu que a Lei Municipal 2.257/2006, editada em 28/12/2006, somente passou a produzir os seus efeitos quanto às alíquotas progressivas após a data de 28/3/2007, de acordo com o princípio da anterioridade nonagesimal.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 150, III, c, da mesma Carta, ao fundamento de que os efeitos da referida norma não poderiam ser aplicáveis aos fatos geradores ocorridos em 1º de janeiro de 2007, tendo em vista o princípio da noventena.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem, ao analisar a questão posta nos autos, asseverou que:
+    “(...) O artigo 2º da Lei Municipal nº 1.105/89 do Município de Ipatinga considera ocorrido o fato gerador do IPTU no dia 01 de Janeiro de cada exercício financeiro. Acontece que não estamos diante de um fato gerador instantâneo, mas diversamente, de fato gerador continuado entendido este como a situação jurídica que se perpetua no tempo, verdadeiro status jurídico, como é a propriedade de imóvel urbano.
+    (...)
+    A Lei Municipal nº 2.257/2006 que entrou em vigor em 01.01.2007 somente não produziu seus efeitos até o dia 28.03.2007, por imperativo constitucional (noventena), apenas e tão somente quanto às alíquotas progressivas. Entre 01.01.2007 a 28.03.2007 não pode a Fazenda Pública cobrar de seus contribuintes alíquotas superiores ao mínimo. Pode cobrar alíquotas mínimas durante esse período, por que a lei nova, nesta parte, não afronta o princípio da anterioridade nonagesimal do art. 150, III, 'c', da CRFB/88. Quanto à alíquota mínima não houve, em verdade, instituição ou aumento de tributo. Após essa data (28.03.2007), a Lei Municipal nº 2.257/2006 é válida e eficaz, incidindo, pro rata temporis dessa data em diante até o final do exercício (31.12.2007)” (fls. 106-108).
+    Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, quanto à ofensa, ou não, ao princípio da anterioridade nonagesimal, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional local aplicável à espécie (Leis Municipais 1.105/1989 e 2.257/2006), o que inviabiliza o extraordinário, nos termos da Súmula 280 desta Corte. Nesse sentido, menciono as seguintes decisões: RE 633.791/MG e AI 789.999/MG, Rel. Min. Luiz Fux; RE 630.881/MG, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
