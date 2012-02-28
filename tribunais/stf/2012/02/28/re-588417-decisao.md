@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja ementa tem o seguinte teor:
+    “DIREITO CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. REINTEGRAÇÃO DE POSSE. AUTONOMIA DO JUÍZO POSSESSÓRIO EM RELAÇÃO AO JUÍZO PETITÓRIO. IMPOSSIBILIDADE DA FORMULAÇÃO DE REQUERIMENTO PETITÓRIO NA PENDÊNCIA DE AÇÃO POSSESSÓRIA. APLICABILIDADE DA REGRA TRAZIDA NO ARTIGO 923 DO CÓDIGO DE PROCESSO CIVIL. ALEGAÇÃO DE INÉPCIA DA INICIAL. INOCORRÊNCIA. PETIÇÃO INICIAL QUE SINGULARIZA SATISFATORIAMENTE O BEM RECLAMADO. PETIÇÃO APTA A MOVIMENTAR A JURISDIÇÃO ESTATAL. LASTRO PROBATÓRIO QUE DEMONSTRA O EXERCÍCIO DA POSSE PELO AUTOR. VALORAÇÃO DA PROVA PELO MAGISTRADO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. DEMONSTRAÇÃO SUFICIENTE DO ESBULHO. PROCEDÊNCIA DA DEMANDA REINTEGRATÓRIA QUE SE IMPÕE. MANUTENÇÃO DO JULGADO.” (Fls. 201)
+    A parte recorrente alega como violado o disposto no art. 5º, II e XXIII, da Constituição Federal.
+    O Tribunal a quo assentou que “Na hipótese dos autos, pelo estudo tanto da prova pericial como testemunhal reunida no feito, infere-se que o autor efetivamente exercia a posse sobre o bem reclamado como expressão máxima de sua propriedade, inexistindo precariedade da prova neste sentido” (fls. 207). Concluir diversamente do acórdão recorrido demandaria reexame do conjunto probatório dos autos, o que é vedado no âmbito do recurso extraordinário, em razão do disposto na Súmula 279 desta Corte.
+    Ademais, a análise das apontadas violações à Constituição requer sejam previamente examinadas as normas infraconstitucionais que fundamentaram o acórdão recorrido. Eventual ofensa à Constituição, se existente, seria indireta ou reflexa, hipótese em que não se admite o recurso extraordinário.
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
