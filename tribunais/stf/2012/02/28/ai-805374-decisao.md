@@ -1,0 +1,18 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo de instrumento contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 5ª Região. Acórdão assim ementado (fls. 30):
+    “TRIBUTÁRIO. COMPENSAÇÃO. PIS. PRESCRIÇÃO QÜINQÜENAL. LEI Nº 9.718/98. LEI 9.430/96. ART. 170 – A DO CTN. TAXA SELIC.
+    1. Mandado de Segurança impetrado objetivando o reconhecimento da inconstitucionalidade dos Decretos-Leis nºs 2.445 e 2.449/88, da Medida Provisória nº 1.212 e suas reedições, assim como o direito à compensação dos valores recolhidos indevidamente a título do PIS.
+    2. A presente ação foi proposta em 30.11.2005, após o advento da Lei Complementar nº 118/05, devendo se submeter ao prazo prescricional de 5 (cinco) anos, previsto na nova redação do Código Tributário Nacional.
+    3. O colendo Supremo Tribunal Federal declarou a inconstitucionalidade do disposto no art. 3º, § 1º da Lei nº 9.718/98 por considerar que o ordenamento jurídico brasileiro não contempla a figura da constitucionalidade superveniente.
+    4. A Ação foi proposta em 2005, destarte, os valores recolhidos indevidamente a título de Contribuição para o PIS podem ser compensados com quaisquer tributos administrados pela Receita Federal, no entanto, deve ser observado o disposto no art. 170 – A do CTN.
+    5. Com o advento da Lei 9.250/95, a partir de 1º de janeiro de 1996, os juros de mora passaram ser devidos pela taxa SELIC à aplicação da taxa SELIC. Apelações e Remessa Necessária providas em parte”.
+    2. Pois bem, a parte recorrente aponta ofensa ao art. 2º, ao inciso II do art. 5º, ao parágrafo único do art. 62 e ao inciso I do art. 150, todos da Magna Carta de 1988. Requer a declaração de “inconstitucionalidade da Medida Provisória nº 1.212/95 e todas as suas posteriores reedições” (fls. 76).
+    3. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pela instância judicante de origem não destoa da jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, no sentido de reconhecer o não-engessamento da contribuição ao PIS pelo art. 239 do Magno Texto e a constitucionalidade da mencionada exação, notadamente com as alterações introduzidas pela Lei 9.715/1998 para os fatos geradores ocorridos a partir da contagem do prazo nonagesimal da MP 1.212/1995.
+    4. Precedentes: ADI 1.417, da relatoria do ministro Octavio Gallotti; AIs 312.650-AgR, 509.581 e 658.243-AgR, da relatoria do ministro Joaquim Barbosa; 520.091-AgR-AgR, da relatoria do ministro Sepúlveda Pertence; 617.899-AgR e 749.301, da relatoria do ministro Gilmar Mendes; 623.375, da relatoria da ministra Cármen Lúcia; e 677.536, da relatoria do ministro Marco Aurélio; bem como REs 400.287-AgR e 407.567, da relatoria do ministro Ricardo Lewandowski; 456.197-AgR, da relatoria do ministro Eros Grau; e 592.315-AgR, da relatoria do ministro Dias Toffoli.
+    5. De mais a mais, o Superior Tribunal de Justiça negou seguimento ao recurso especial manejado simultaneamente ao apelo extremo. Pelo que permanecem incólumes os fundamentos infraconstitucionais do aresto impugnado. O que atrai a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.”
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
