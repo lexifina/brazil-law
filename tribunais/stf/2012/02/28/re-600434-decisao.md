@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Piauí. Acórdão assim ementado (fls. 257):
+    “PROCESSUAL CIVIL – APELAÇÃO – AÇÃO DE REVISÃO DE PROVENTOS DE APOSENTADORIA – INCORPORAÇÃO DE GRATIFICAÇÃO – SUPRESSÃO – IMPOSSIBILIDADE. Faz jus o Apelado à revisão dos seus proventos, posto que concedidos de forma inferior ao disposto na legislação aplicável que já havia determinado a incorporação de gratificação quando da época sua aposentadoria, não podendo lei posterior alterar situação já consolidada. Apelação conhecida e não provida.”
+    2. Pois bem, o recorrente alega violação aos incisos XXXVI, LIV e LV do art. 5º, ao caput e inciso X do art. 37, ao § 8º do art. 40 (redação da EC 20/1998), ao § 1º do art. 42, ao inciso X do § 3º do art. 142, aos incisos I e II do § 1º do art. 169 e ao § 5º do art. 195, todos da Magna, bem como ao art. 7º da EC 41/2003.
+    3. Tenho que o recurso não merece acolhida. Isso porque, segundo a doutrina de Helly Lopes Meireles e a jurisprudência deste nosso Tribunal, o direito à aposentadoria é adquirido “com o preenchimento das requisitos exigidos pela lei da época, de modo que, se o servidor não a requereu na vigência desta, sua situação não se alterará pela edição de lei modificadora” (in Direito Administrativo brasileiro, Hely Lopes Meirelles, 27 ª edição, Malheiros Editores, São Paulo, págs. 430/431).
+    4. A título de exemplo, vejam-se os seguintes julgados: REs 266.927, da relatoria do ministro Ilmar Galvão; 348.607, da relatoria do ministro Eros Grau e o 269.407-AgR, da relatoria do ministro Carlos Velloso. Este último assim ementado:
+     “CONSTITUCIONAL. PREVIDENCIÁRIO. APOSENTADORIA: PROVENTOS: DIREITO ADQUIRIDO. I. - Proventos de aposentadoria: direito aos proventos na forma da lei vigente ao tempo da reunião dos requisitos da inatividade, mesmo se requerida após a lei menos favorável. Súmula 359-STF: desnecessidade do requerimento. Aplicabilidade à aposentadoria previdenciária. Precedentes do STF. II. - Agravo não provido”.
+    5. De mais a mais, ressalto que, para se chegar à conclusão pretendida pela parte recorrente, se faz necessário o reexame da legislação infraconstitucional pertinente. Providência vedada neste momento processual, conforme a Súmula 280/STF.
+    Isso posto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
