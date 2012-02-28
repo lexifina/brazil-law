@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violado o disposto no art. 5º, II, XL e LVII, da Carta Magna.
+    Consta dos autos que o Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso de apelação interposto pelo ora agravante, para reduzir a pena aplicada, mantendo, no mais, a condenação pelo art. 89, caput, da Lei 8.666/1993. Eis o teor da ementa do referido julgado (fls. 691):
+    “APELAÇÃO. EX-PREFEITO MUNICIPAL. ART. 89 DA LEI DE LICITAÇÕES. PRESTAÇÃO DE SERVIÇOS DE RADIOFUSÃO. INEXIGIBILIDADE DE LICITAÇÃO AFASTADA. VALOR NOMINAL DO CONTRATO. LEI Nº 9.648/98. IRRETROATIVIDADE.
+    Comprovado que outras rádios, além daquela contratada sem licitação, eram capazes de alcançar o município, havia viabilidade de competição e, portanto, a licitação era imperativa. Com o advento da Lei nº 9.648, operou-se simples adaptação dos Valores-limite das várias modalidades de licitações ao novo sistema monetário, vigente com o advento do Plano Real. Portanto, como não causou modificação essencial no tipo penal em questão, desautorizada a aplicação retroativa dessas disposições. Recurso parcialmente provido.”
+    Os embargos de declaração opostos foram desacolhidos.
+    Dessa decisão foi interposto recurso especial, ao qual o Superior Tribunal de Justiça negou provimento, em acórdão cuja ementa tem o seguinte teor (fls. 883):
+    “RECURSO ESPECIAL. CRIME PREVISTO NO LEI DE LICITAÇÕES. EX-PREFEITO. PRESTAÇÃO DE SERVIÇOS DE RADIODIFUSÃO. INEXIGIBILIDADE DE LICITAÇÃO. VALOR SUPERIOR AO PREVISTO NA NORMA REGULADORA. DOLO ESPECÍFICO. PRESCINDIBILIDADE. SUPERVENIÊNCIA DA LEI Nº 9.648/98. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+    1. Não cabe a declaração de inexigibilidade do processo licitatório quando há a comprovação de que é viável a competição, configurando-se o crime do art. 89 da Lei nº 8.666/93 com a mera declaração do agente de que o certame seria inviável, sendo irrelevante a inexistência de dolo específico em causar lesão ao erário.
+    2. A superveniência da Lei nº 9.648/98 trouxe apenas a alteração dos valores nominais relacionados às modalidades de licitação, não podendo ser aplicada retroativamente a fim de afastar a tipicidade do ato ilegal, já que o crime em comento, segundo a pacífica jurisprudência desta Corte, é de mera conduta e se consuma no momento em que há a declaração de inexigibilidade do processo.
+    3. Recurso especial a que se nega provimento.”
+    Foi interposto recurso extraordinário, em que alega-se violação ao princípio da legalidade, pois o acórdão recorrido deixou de aplicar a Lei 9.648/1998, que alterou o limite para dispensa de licitação, entendendo tratar-se de mera atualização e não de abolitio criminis.
+    Sustenta-se que, quando a denúncia foi oferecida e recebida, a nova lei já estava em vigor, e que, pelos princípios da legalidade e da anterioridade, a conduta já era considerada atípica.
+    Decido.
+    O recurso não merece seguimento.
+    O Plenário desta Corte já decidiu ser inviável o recurso extraordinário que — interposto de acórdão do Superior Tribunal de Justiça em recurso especial — suscita questões constitucionais que foram ou deveriam ter sido debatidas em segundo grau. Assim, só caberá recurso extraordinário da decisão do STJ no recurso especial se a oportunidade para a discussão da questão constitucional ali tiver surgido originariamente. Confira-se:
+    “EMENTA - Recurso extraordinário: interposição de decisão do STJ em recurso especial: inadmissibilidade, se a questão constitucional de que se ocupou o acórdão recorrido já fora suscitada e resolvida na decisão de segundo grau e, ademais, constitui fundamento suficiente da decisão da causa.
+    1. Do sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e de recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária.
+    2. Não se contesta que, no sistema difuso de controle de constitucionalidade, o STJ, a exemplo de todos os demais órgãos jurisdicionais de qualquer instância, tenha o poder de declarar incidentemente a inconstitucionalidade da lei, mesmo de oficio; o que não é dado àquela Corte, em recurso especial, é rever a decisão da mesma questão constitucional do tribunal inferior; se o faz, de duas uma: ou usurpa a competência do STF, se interposto paralelamente o extraordinário ou, caso contrário, ressuscita matéria preclusa.
+    (...)” (AI 145.589-AgR, rel. min. Sepúlveda Pertence, Tribunal Pleno, DJ de 24.06.1994)
+    No mesmo sentido, entre outros: AI 364.277–AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 28.06.2002); AI 436.046–AgR (rel. min. Ayres Britto, Primeira Turma, DJ de 01.04.2005); AI 808.345-AgR (rel. min. Ayres Britto, Segunda Turma, DJ de 14.02.2011); AI 618.700 (rel. min. Sepúlveda Pertence, DJ de 26.02.2007).
+    Do exposto, nego seguimento ao recurso (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
