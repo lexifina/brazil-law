@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Superior Tribunal de Justiça, cuja ementa transcrevo (fls. 148 ):
+    “EMENTA
+    AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENSÃO POR MORTE. MAJORAÇÃO DO BENEFÍCIO AFASTADA. RESTITUIÇÃO DE PARCELAS PREVIDENCIÁRIAS PAGAS POR FORÇA DE ANTECIPAÇÃO DE TUTELA. VERBA ALIMENTAR RECEBIDA DE BOA FÉ PELA SEGURADA.
+    1- Não há a violação ao art. 130, § único da Lei nº 8.213/91, pois esse dispositivo exonera o beneficiário da previdência social de restituir os valores recebidos por força da liquidação condicionada, não guardando, pois, exata congruência com a questão tratada nos autos.
+    2- O pagamento realizado a maior, que o INSS pretende ver restituído, foi decorrente de decisão suficientemente motivada, anterior ao pronunciamento definitivo da Suprema Corte, que afastou a aplicação da lei previdenciária mais benéfica a benefício concedido antes da sua vigência. Sendo indiscutível a boa-fé da autora, não é razoável determinar a sua devolução pela mudança do entendimento jurisprudencial por muito tempo pacífica perante esse Superior Tribunal de Justiça.
+    3- Cabe ressaltar que, entendimento diverso desse implicaria afronta ao princípio da irrepetibilidade dos alimentos, que não agasalha a hipótese do credor dos alimentos vir a ser compelido a devolver as parcelas percebidas por força de decisão judicial.
+    4- Não há falar em violação ao art. 115 da Lei nº 8.213/91, pois esse regulamenta a hipótese de desconto administrativo, sem necessária autorização judicial, nos casos em que a concessão a maior se deu por ato administrativo do Instituto agravante, não agraciando os casos majorados por força de decisão judicial.
+    5- Agravo regimental a que se nega provimento.”
+    O recorrente aponta violação do art. 97, da Constituição federal. Afirma que a legislação não excepciona, para efeitos de devolução, os casos de verba alimentar. Ademais, sustenta que a reserva de plenário não foi observada ao deixar de aplicar a legislação, importando tal atitude numa verdadeira declaração de inconstitucionalidade. Por fim, alega que os valores recebidos por força de antecipação de tutela, revogada ou reformada, são repetíveis.
+    É o relatório. Decido.
+    No tocante ao art. 97, não é necessário instaurar o procedimento do dispositivo constitucional, pois o acórdão objurgado não exerceu o controle da compatibilidade vertical da lei em face da Constituição, mas deu, conforme seu juízo, uma interpretação consentânea com os princípios constitucionais. Nesse sentido: AI 820.685-AgR (rel. min. Ellen Gracie, Segunda Turma, DJe de 10.05.2011).
+    No mérito, esta Corte firmou o entendimento de que a questão da devolução de valores recebidos em antecipação de tutela não ultrapassa o exame de normas infraconstitucionais, configurando ofensa meramente reflexa ao texto constitucional. Confiram-se:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PREVIDENCIÁRIO. 1. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELA PARTE BENEFICIÁRIA EM RAZÃO DE ANTECIPAÇÃO DE TUTELA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. O JULGAMENTO PELA ILEGALIDADE DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO NÃO IMPORTA NA OBRIGATORIEDADE DA DEVOLUÇÃO DAS IMPORTÂNCIAS RECEBIDAS DE BOA-FÉ. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 746.442-AgR, rel. min. Cármen Lúcia, Primeira Turma, DJe de 23.10.2009)
+    “EMENTA Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Lei nº 9.032/95. Tutela antecipada. Devolução dos valores recebidos.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. A devolução ou não dos valores recebidos em razão da antecipação de tutela é questão a ser dirimida nas instâncias ordinárias.
+    3. Agravo regimental não provido.” (RE 517.681-ED, rel. min. Dias Toffoli, Primeira Turma, DJe de 23.11.2010)
+    E ainda: AI 822.207 (rel. min. Ellen Gracie, DJe de 16.05.2011); AI 798.480 (rel. min. Celso de Mello, DJe de 08.04.2011) e AI 841.940 (rel. min. Ricardo Lewandowski, DJe de 12.04.2011).
+    Ademais, o Supremo Tribunal Federal, ao apreciar o AI 841.473-RG (rel. min. Cezar Peluso, DJe de 01.09.2011 - Tema 425 ), não reconheceu a repercussão geral do tema tratado naquele recurso, por não se tratar de matéria constitucional. Eis a ementa do referido acórdão:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
