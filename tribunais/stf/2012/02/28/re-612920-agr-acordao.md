@@ -1,0 +1,352 @@
+Supremo Tribunal Federal
+DJe 29/03/2012
+Inteiro Teor do Acórdão - Página 1 de 8
+
+Ementa e Acórdão
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 612.920 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: WALDIR DE OLIVEIRA LOPES FILHO
+: MARCELO ROLLIN PINHEIRO E OUTRO(A/S)
+EMENTA
+
+Agravo regimental no recurso extraordinário. GDATA. Súmula
+Vinculante nº 20. Ausência de interesse recursal.
+1. A ausência de utilidade no provimento do recurso denota a
+carência de interesse recursal do agravante.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata do julgamento e das
+notas taquigráficas, por unanimidade de votos, em negar provimento ao
+agravo regimental, nos termos do voto do Relator.
+Brasília, 28 de fevereiro de 2012.
+MINISTRO DIAS TOFFOLI
+Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836003.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 8
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 612.920 RIO DE JANEIRO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: UNIÃO
+: ADVOGADO -GERAL DA UNIÃO
+: WALDIR DE OLIVEIRA LOPES FILHO
+: MARCELO ROLLIN PINHEIRO E OUTRO(A/S)
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+União interpõe tempestivo agravo regimental contra decisão pela
+qual neguei seguimento ao recurso extraordinário de fls. 255 a 259, com a
+seguinte fundamentação:
+“União interpõe recurso extraordinário, com fundamento
+na alínea a do permissivo constitucional, contra acórdão da
+Sétima Turma Especializada do Tribunal Regional Federal da 2ª
+Região, assim ementado:
+‘ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL
+COMUM FEDERAL INATIVO. GRATIFICAÇÃO DE
+DESEMPENHO
+DE
+ATIVIDADE
+TÉCNICOADMINISTRATIVA. LEI Nº 10.404/2002 E DECRETO Nº
+4.247/2002. GRATIFICAÇÃO DE DESEMPENHO DE
+ATIVIDADE
+TÉCNICO-OPERACIONAL
+EM
+TECNOLOGIA MILITAR. LEIS Nºs 9.657/1998 E
+11.355/2006. APLICAÇÃO ÀS APOSENTADORIAS JÁ
+CONCEDIDAS. IMPOSSIBILIDADE DE PAGAMENTO
+EM SEUS LIMITES MÁXIMOS. CARÁTER PRO LABORE
+FACIENDO. POSSIBILIDADE DE PAGAMENTO EM
+LIMITES PRÓPRIOS DO SERVIDOR PÚBLICO CIVIL
+COMUM FEDERAL ATIVO. CARÁTER EX FACTO
+OFFICII. PRINCÍPIO JURÍDICO DA ISONOMIA.
+PRECEDENTE DO STF.
+I. A GDATA Gratificação de Desempenho de
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836000.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 8
+
+RE 612.920 AGR / RJ
+Atividade Técnico-Administrativa e a GDATEM
+gratificação de desempenho de atividade técnicooperacional
+em
+tecnologia
+militar
+são
+pagas,
+primordialmente, ao servidor público civil comum federal
+ativo, em razão de determinado desempenho individual
+do servidor público civil comum federal ativo no exercício
+de cargo público efetivo e também de determinado
+desempenho institucional da entidade ou do órgão em
+cujo quadro de pessoal o cargo público efetivo se encontra
+lotado.
+II. Como é faticamente impossível a aferição de
+determinado desempenho individual do servidor público
+civil comum federal que, no momento da instituição da
+vantagem pecuniária em foco, já tinha passado à
+inatividade já que não há mais, por parte deste, exercício
+de cargo público efetivo, os diplomas normativos
+pertinentes previram que àquele e ao respectivo
+pensionista seria paga a GDATA e a GDATEM em seus
+limites mínimos, e nunca em seus limites máximos de 100
+(cem) pontos.
+III. Contudo, deve-se destacar que, recentemente, o
+STF veio a destacar que os diplomas normativos supra
+referidos conferiram à GDATA ontologicamente similar à
+GDATEM, vantagem pecuniária propter laborem, um
+duplo caráter: pro labore faciendo, de modo eminente, em
+razão de a pontuação variar conforme determinado
+desempenho individual no exercício de cargo público
+efetivo; e, também, ex facto officii, de modo excepcional,
+em razão de a pontuação ser firmada pela simples
+ocupação daquele.
+IV. Focando a segunda situação jurídica supra
+descrita, o STF veio a reconhecer, em favor do servidor
+público civil comum federal que, no momento da
+instituição da vantagem pecuniária em foco, já tinha
+passado à inatividade, e em favor do respectivo
+pensionista, a percepção da GDATA da seguinte forma: de
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836000.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 8
+
+RE 612.920 AGR / RJ
+fevereiro de 2002 até maio de 2002, no limite de 37,5 (trinta
+e sete inteiros e cinco décimos) pontos; de junho de 2002
+até a data da conclusão dos efeitos jurídicos do último
+ciclo de avaliação de desempenhos institucional e
+individual realizada conforme as regras originais, no
+limite de 10 (dez) pontos ou 30 (trinta) pontos; e da data
+subseqüente a esta em diante, no limite de 60 (sessenta)
+pontos.
+V. Assim, nesse passo, deve-se reconhecer, em favor
+do servidor público civil comum federal que, no momento
+da instituição da vantagem pecuniária em foco, já tinha
+passado à inatividade, e em favor do respectivo
+pensionista, a percepção da GDATEM da seguinte forma:
+de junho de 2006 até agosto de 2008, no limite de 75
+(setenta e cinco) pontos; de setembro de 2008 até a data da
+conclusão dos efeitos jurídicos do primeiro ciclo de
+avaliação de desempenhos institucional e individual
+realizada conforme as regras originais, no limite de 30%
+(trinta por cento), 40% (quarenta por cento) ou 50%
+(cinqüenta) por cento do respectivo referencial funcional; e
+da data subseqüente à da conclusão dos efeitos jurídicos
+do primeiro ciclo de avaliação supra referido em diante,
+no limite de 80 (oitenta) pontos‘ (fls. 178 e 179).
+Opostos embargos de declaração (fls. 151 a 158), foram
+rejeitados (fls. 160 e 161).
+Alega a recorrente violação dos artigos 2º, 5º, caput, 37,
+caput, 61, § 1º, inciso II, alínea a, e 169 da Constituição Federal
+Contra-arrazoado (fls. 209 a 216), o recurso extraordinário
+(fls. 189 a 200) foi admitido (fl. 220).
+O Superior Tribunal de Justiça, em decisão transitada em
+julgado (fl. 247), negou provimento ao recurso especial
+interposto paralelamente ao extraordinário
+Decido.
+Anote-se, inicialmente, que o recurso extraordinário foi
+interposto contra acórdão publicado após 3/5/07, quando já era
+plenamente exigível a demonstração da repercussão geral da
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836000.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 8
+
+RE 612.920 AGR / RJ
+matéria constitucional objeto do recurso, conforme decidido na
+Questão de Ordem no Agravo de Instrumento nº 664.567/RS,
+Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de
+6/9/07. Todavia, apesar da petição recursal haver trazido a
+preliminar sobre o tema, não é de se proceder ao exame de sua
+existência, uma vez que, nos termos do artigo 323 do Regimento
+Interno do Supremo Tribunal Federal, com a redação
+introduzida pela Emenda Regimental nº 21/07, primeira parte, o
+procedimento acerca da existência da repercussão geral
+somente ocorrerá quando não for o caso de inadmissibilidade
+do recurso por outra razão.
+Não merece prosperar a irresignação, uma vez que o
+acórdão atacado está em sintonia com a jurisprudência do
+Plenário deste Supremo Tribunal Federal que, após reconhecer
+a repercussão geral do tema, firmou entendimento de que são
+extensíveis aos servidores inativos as vantagens de caráter
+geral, concedidas aos servidores ativos, de acordo com o artigo
+40, § 8º, da Constituição Federal. Nesse sentido, anote-se:
+‘1. Questão de ordem. Repercussão Geral. Recurso
+Extraordinário. 2. GDATA e GDASST. 3. Servidores
+inativos. Critérios de cálculo. Aplicação aos servidores
+inativos dos critérios estabelecidos aos ativos, de acordo
+com a sucessão de leis de regência. 4. Jurisprudência
+pacificada na Corte. 5. Questão de ordem acolhida para
+reconhecer a repercussão geral, reafirmar a jurisprudência
+do tribunal, desprover o recurso, autorizar a devolução
+aos tribunais de origem dos recursos extraordinários e
+agravos de instrumento que versem sobre o mesmo tema e
+autorizar as instâncias de origem à adoção dos
+procedimentos do art. 543-B, § 3º, do Código de Processo
+Civil’ (RE nº 572.052/RN-RG-QO, Tribunal Pleno, Relator o
+Ministro Gilmar Mendes, DJe de 29/05/09).
+No mesmo sentido, o seguinte julgado:
+‘AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO.
+DIREITO
+ADMINISTRATIVO.
+SERVIDORES
+INATIVOS.
+EXTENSÃO
+DA
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836000.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 8
+
+RE 612.920 AGR / RJ
+GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE
+TÉCNICO
+ADMINISTRATIVA
+GDATA
+E
+DE
+GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE
+TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR
+GDATEM.
+SÚMULA
+VINCULANTE
+N.
+20.
+PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE
+NEGA SEGUIMENTO’ (AI nº 811.409/PB-AgR, Primeira
+Turma, Relatora a Ministra Carmén Lúcia, DJ de
+24/3/2011).
+Ante o exposto, nos termos do artigo 557, caput, do
+Código de Processo Civil, nego seguimento ao recurso
+extraordinário.”
+
+Pretende a União seja reconsiderada a decisão agravada “a fim de
+adequar a pontuação da GDATA, no 2º período, ao valor fixo de 10 (dez) pontos,
+conforme Súmula Vinculante nº 20” (fl. 269).
+É o relatório.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836000.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 7 de 8
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 612.920 RIO DE JANEIRO
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+O inconformismo não merece prosperar.
+De fato, o Plenário do Supremo Tribunal Federal, no julgamento do
+RE nº 476.279/DF, decidiu que os servidores inativos têm direito à
+percepção da Gratificação de Desempenho de Atividade TécnicoAdministrativa (GDATA), na proporção em que ela se caracterizar como
+geral, nos termos da Lei n º 10.404/2002.
+Essa orientação foi consolidada na Súmula Vinculante nº 20, que
+dispõe:
+“A Gratificação de Desempenho de Atividade TécnicoAdministrativa – GDATA, instituída pela Lei nº 10.404/2002,
+deve ser deferida aos inativos nos valores correspondentes a
+37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro
+a maio de 2002 e, nos termos do artigo 5º, parágrafo único, da
+Lei nº 10.404/2002, no período de junho de 2002 até a conclusão
+dos efeitos do último ciclo de avaliação a que se refere o artigo
+1º da Medida Provisória no 198/2004, a partir da qual passa a
+ser de 60 (sessenta) pontos.”
+
+Não obstante tal entendimento, o que se tem é que o acórdão
+recorrido manteve a sentença de primeiro grau que julgou
+“PARCIALMENTE PROCEDENTE O PEDIDO, para condenar a União ao
+pagamento das diferenças relativas a Gratificação de Desempenho de
+Atividade Técnico-Administrativa no valor correspondente a 30 (trinta)
+pontos (60 pontos menos 30), durante o período de 1º de maio de 2004,
+até 30 de junho/2006” (fl. 85).
+Assim, tenho por ausente um dos pressupostos de admissibilidade
+do recurso, a saber, o interesse recursal.
+Ante o exposto, voto pelo não provimento do agravo regimental.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1836001.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 8 de 8
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 612.920
+PROCED. : RIO DE JANEIRO
+RELATOR : MIN. DIAS TOFFOLI
+AGTE.(S) : UNIÃO
+ADV.(A/S) : ADVOGADO-GERAL DA UNIÃO
+AGDO.(A/S) : WALDIR DE OLIVEIRA LOPES FILHO
+ADV.(A/S) : MARCELO ROLLIN PINHEIRO E OUTRO(A/S)
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos do voto do Relator. Unânime. Presidência do Senhor Ministro
+Dias Toffoli. 1ª Turma, 28.2.2012.
+
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+Sessão os Senhores Ministros Marco Aurélio, Cármen Lúcia, Luiz Fux
+e Rosa Weber.
+Subprocurador-Geral da República, Dr. Rodrigo Janot.
+Carmen Lilian Oliveira de Souza
+Coordenadora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 1810845
