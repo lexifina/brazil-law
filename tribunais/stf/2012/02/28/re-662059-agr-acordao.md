@@ -1,0 +1,415 @@
+Supremo Tribunal Federal
+DJe 13/03/2012
+Inteiro Teor do Acórdão - Página 1 de 10
+
+Ementa e Acórdão
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 662.059 RIO GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: CIRO CARLOS EMERIM SIMONI
+: JOÃO AFFONSO DA CÂMARA CANTO
+: TRIBUNAL SUPERIOR ELEITORAL
+
+EMENTA:
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO.
+PROCESSO
+CIVIL.
+REPRESENTAÇÃO
+PROCESSUAL. PARTE ASSISTIDA POR MAIS DE UM ADVOGADO
+NA MESMA PROCURAÇÃO. PUBLICAÇÃO EM NOME DE UM
+DELES. EFICÁCIA DO ATO INTIMATÓRIO. AUSÊNCIA DE
+NULIDADE.
+1. A parte assistida por mais de um advogado pode ser intimada nos
+autos pela publicação que só mencione o nome de um deles, exceto no
+caso de substabelecimento outorgado sem reserva de poderes, hipótese
+em que é indispensável constar da publicação da intimação o nome do
+advogado substabelecido. (Precedentes: RE n. 164.577-AgR, Relator o
+Ministro Maurício Corrêa, 2ª Turma, DJ de 30.05.97; Pet n. 1.263-AgR,
+Relator o Marco Aurélio, Pleno, DJ 10.10.01; RE n. 255.967-AgR, Relator o
+Ministro Gilmar Mendes, 2ª Turma, DJ de 24.06.05; AI n. 458.274-AgR,
+Relator o Ministro Dias Toffoli, 1ª Turma, DJe de 25.05.11; AI n. 819.663AgR, Relator o Ministro Dias Toffoli, 1ª Turma, DJe de 25.05.11, entre
+outros).
+2. In casu, o acórdão originariamente recorrido assentou:
+“Na minuta de folhas 64 a 81, o agravante defende a
+tempestividade deste regimental, porque a intimação,
+divulgada no Diário da Justiça, teria sido feita no nome do
+Doutor João Affonso da Câmara Canto, não constando o do
+Doutor Lieverson Luiz Perin. Alega-se haver instrumento de
+mandato credenciando os dois profissionais.
+A decisão atacada mediante este agravo foi publicada no
+Diário Eletrônico da Justiça Eleitoral de 13 de junho de 2011,
+segunda-feira (certidão de folha 42). Excluído tal dia da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798258.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 10
+
+RE 662.059 AGR / RS
+contagem, o termo final ocorreu no dia 16 de junho seguinte
+(quinta-feira). Este recurso somente veio a ser protocolado, via
+fac-símile, em 21 de junho de 2011 (folha 43), portanto fora do
+prazo fixado em lei. Os originais foram formalizados no dia 22
+subsequente (folha 64).]
+De qualquer forma, atentem para o fato de o
+credenciamento de mais de um profissional da advocacia não
+ensejar as inserções pretendidas. A parte deve indicar a
+preferência no registro do nome de um deles. Não o fazendo,
+como na espécie, observar-se-á o que disposto no artigo 236 do
+Código de Processo Civil quanto às intimações e, no tacante à
+autuação, a regra do lançamento de nome seguido da expressão
+‘e outros”.
+
+3. Ademais, o agravante não trouxe nenhum argumento capaz de
+infirmar a decisão hostilizada, razão pela qual a mesma deve ser mantida
+por seus próprios fundamentos.
+4. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata de julgamento e das
+notas taquigráficas, por unanimidade de votos, em negar provimento ao
+agravo regimental, nos termos do voto do Relator.
+Brasília, 28 de fevereiro de 2012.
+LUIZ FUX – Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798258.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 10
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 662.059 RIO GRANDE DO SUL
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. LUIZ FUX
+: CIRO CARLOS EMERIM SIMONI
+: JOÃO AFFONSO DA CÂMARA CANTO
+: TRIBUNAL SUPERIOR ELEITORAL
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de agravo
+regimental interposto pelo CIRO CARLOS EMERIM SIMONI, em face de
+decisão de minha lavra assim ementada:
+“RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL.
+REPRESENTAÇÃO PROCESSUAL. PARTE ASSISTIDA POR
+MAIS DE UM ADVOGADO NA MESMA PROCURAÇÃO.
+PUBLICAÇÃO EM NOME DE UM DELES. EFICÁCIA DO ATO
+INTIMATÓRIO. AUSÊNCIA DE NULIDADE.
+1. A parte assistida por mais de um advogado pode ser
+intimada nos autos pela publicação que só mencione o nome de
+um deles, exceto no caso de substabelecimento outorgado sem
+reserva de poderes, hipótese em que é indispensável constar da
+publicação da intimação o nome do advogado substabelecido.
+(Precedentes: RE n. 164.577-AgR, Relator o Ministro Maurício
+Corrêa, 2ª Turma, DJ de 30.05.97; Pet n. 1.263-AgR, Relator o
+Marco Aurélio, Pleno, DJ 10.10.01; RE n. 255.967-AgR, Relator o
+Ministro Gilmar Mendes, 2ª Turma, DJ de 24.06.05; AI n.
+458.274-AgR, Relator o Ministro Dias Toffoli, 1ª Turma, DJe de
+25.05.11; AI n. 819.663-AgR, Relator o Ministro Dias Toffoli, 1ª
+Turma, DJe de 25.05.11, entre outros).
+2. In casu, o acórdão recorrido assentou:
+‘Na minuta de folhas 64 a 81, o agravante defende a
+tempestividade deste regimental, porque a intimação,
+divulgada no Diário da Justiça, teria sido feita no nome do
+Doutor João Affonso da Câmara Canto, não constando o do
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798259.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 10
+
+RE 662.059 AGR / RS
+Doutor Lieverson Luiz Perin. Alega-se haver instrumento de
+mandato credenciando os dois profissionais.
+A decisão atacada mediante este agravo foi publicada no
+Diário Eletrônico da Justiça Eleitoral de 13 de junho de 2011,
+segunda-feira (certidão de folha 42). Excluído tal dia da
+contagem, o termo final ocorreu no dia 16 de junho seguinte
+(quinta-feira). Este recurso somente veio a ser protocolado, via
+fac-símile, em 21 de junho de 2011 (folha 43), portanto fora do
+prazo fixado em lei. Os originais foram formalizados no dia 22
+subsequente (folha 64).]
+De qualquer forma, atentem para o fato de o
+credenciamento de mais de um profissional da advocacia não
+ensejar as inserções pretendidas. A parte deve indicar a
+preferência no registro do nome de um deles. Não o fazendo,
+como na espécie, observar-se-á o que disposto no artigo 236 do
+Código de Processo Civil quanto às intimações e, no tacante à
+autuação, a regra do lançamento de nome seguido da expressão
+‘e outros’”.
+3. Recurso extraordinário a que se nega seguimento.”
+
+Em suas razões de agravar, o agravante sustenta que “embora o
+candidato seja representado por dois procuradores, o presente
+profissional habilitado não foi sequer citado na intimação publicada, que
+se resumiu a considerá-lo como: ‘outro’, não indicando nome OAB ou
+endereço capaz de poder alegar para a intimação. Dessa Forma Interpôs o
+presente agravo regimental, que espera seja recebido e provido, para
+melhor análise do mérito da prestação de contas do candidato Ciro
+Emerin Simoni” (fl. 176). Ao final, requer a reconsideração da decisão
+hostilizada, com o consequente conhecimento e provimento do recurso
+extraordinário.
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798259.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 5 de 10
+
+28/02/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 662.059 RIO GRANDE DO SUL
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Não assiste razão ao
+agravante.
+Em suma, os fundamentos da decisão agravada restaram assim
+consignados:
+"Cuida-se de recurso extraordinário interposto por CIRO
+CARLOS EMERIM SIMONI, com fulcro no art. 102, III, ‘a’, da
+Constituição Federal de 1988, em face de v. acórdão prolatado
+pelo Tribunal Superior Eleitoral, assim ementado:
+‘AGRAVO REGIMENTAL – INTEMPESTIVIDADE –
+NEGATIVA DE SEGUIMENTO.’
+Não foram opostos embargos de declaração.
+Em suas razões recursais, o recorrente aponta violação ao
+art. 5º, caput, da Constituição Federal, e aos princípios da ampla
+defesa e do contraditório, sustentando, em síntese, que ‘a
+decisão publicada no Diário Eletrônico de 02 de setembro de
+2011 (sexta feira) negando seguimento ao regimental ante a
+extemporaneidade deixa de reconhecer a necessidade de
+intimação de todos profissionais credenciados para exercer
+defesa do recorrente. Ao denominar o profissional ‘outro’ torna
+impossível a rela ciência do profissional, ofendendo a ampla
+defesa’ (fl.109).
+Não foram apresentadas contrarrazões ao recurso
+extraordinário.
+É o relatório. DECIDO.
+O recurso não merece prosperar.
+O Tribunal a quo, ao proferir o acórdão recorrido,
+consignou, verbis:
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798260.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 10
+
+RE 662.059 AGR / RS
+
+‘Na minuta de folhas 64 a 81, o agravante defende a
+tempestividade deste regimental, porque a intimação,
+divulgada no Diário da Justiça, teria sido feita no nome do
+Doutor João Affonso da Câmara Canto, não constando o do
+Doutor Lieverson Luiz Perin. Alega-se haver instrumento de
+mandato credenciando os dois profissionais.
+A decisão atacada mediante este agravo foi publicada no
+Diário Eletrônico da Justiça Eleitoral de 13 de junho de 2011,
+segunda-feira (certidão de folha 42). Excluído tal dia da
+contagem, o termo final ocorreu no dia 16 de junho seguinte
+(quinta-feira). Este recurso somente veio a ser protocolado, via
+fac-símile, em 21 de junho de 2011 (folha 43), portanto fora do
+prazo fixado em lei. Os originais foram formalizados no dia 22
+subsequente (folha 64).]
+De qualquer forma, atentem para o fato de o
+credenciamento de mais de um profissional da advocacia não
+ensejar as inserções pretendidas. A parte deve indicar a
+preferência no registro do nome de um deles. Não o fazendo,
+como na espécie, observar-se-á o que disposto no artigo 236 do
+Código de Processo Civil quanto às intimações e, no tacante à
+autuação, a regra do lançamento de nome seguido da expressão
+‘e outros’.
+O Supremo Tribunal Federal fixou jurisprudência no
+sentido de que se a parte a ser intimada é assistida por mais de
+um advogado nos autos e a publicação mencionou o nome de
+um deles, é de todo eficaz o ato intimatório, exceto no caso de
+substabelecimento outorgado, sem reserva de poderes, hipótese
+em que é indispensável constar da publicação da intimação o
+nome do advogado substabelecido. Á guisa de exemplo, cito os
+seguintes julgados:
+‘EMENTA: AGRAVO REGIMENTAL EM RECURSO
+EXTRAORDINÁRIO.
+REPRESENTAÇÃO
+PROCESSUAL.PARTE ASSISTIDA POR MAIS DE UM
+ADVOGADO NA MESMA PROCURAÇÃO. PUBLICAÇÃO
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798260.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 10
+
+RE 662.059 AGR / RS
+EM NOME DE UM DELES. EFICÁCIA DO ATO
+INTIMATÓRIO. NULIDADE INEXISTENTE.
+1 - Se a parte a ser intimada tem mais de um advogado
+constituído nos autos e a publicação mencionou o nome de um
+deles, é de todo eficaz o ato intimatório.
+1.1 - A publicação no órgão oficial deve trazer os nomes
+das partes e de seu advogado, não os nomes de todos os
+advogados por ela constituídos.
+1.2 - Substabelecimento outorgado, com reserva de
+poderes, em que é facultado aos procuradores agirem em
+conjunto ou separadamente, independentemente da ordem de
+nomeação. Intimação efetuada em nome de um deles. Nulidade
+inexistente.
+2. Substabelecimento outorgado, sem reserva de poderes.
+Somente nessa hipótese é indispensável constar da publicação
+da intimação o nome do advogado substabelecido.
+Agravo regimental não provido.’ (RE n. 164.577-AgR,
+Relator o Ministro Maurício Corrêa, 2ª Turma, DJ de 30.05.97)
+‘PUBLICAÇÕES - ATOS PROCESSUAIS. As publicações
+aperfeiçoam-se com a veiculação de dados que permitam a
+identificação do processo, entre os quais, os nomes das partes e
+dos profissionais da advocacia que as representem.
+Credenciados diversos advogados, suficiente é que se lance o
+nome de um deles, independentemente da ordem de
+credenciamento ou de assinaturas nas peças. A exceção é
+revelada por requerimento indicando certo advogado.’(Pet n.
+1.263-AgR, Relator o Marco Aurélio, Pleno, DJ 10.10.01)
+‘EMENTA: Agravo regimental em recurso extraordinário.
+2.
+Intempestividade
+do
+Recurso
+Extraordinário.
+3.
+Representação Processual. Parte assistida por mais de um
+advogado. Publicação em nome de um deles. Precedentes. 4
+Agravo regimental a que se nega provimento.’ (RE n. 255.967AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJ de
+24.06.05)
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798260.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 10
+
+RE 662.059 AGR / RS
+
+‘EMENTA: 1. Agravo regimental: motivação da decisão
+agravada: necessidade de impugnação.
+2. Recurso extraordinário: descabimento: pretensa
+violação de dispositivos constitucionais cujo exame demandaria
+o revolvimento de fatos e reexame de prova, inviáveis no
+extraordinário (Súmula 279).
+3.Intimação: parte representada por mais de um
+advogado. Segundo a jurisprudência consolidada do Tribunal, a
+circunstância de ter sido feita a apenas um dos advogados da
+parte não invalida a intimação: precedente.’ (AI n. 458.274-AgR,
+Relator o Ministro Dias Toffoli, 1ª Turma, DJe de 25.05.11)
+‘EMENTA
+Agravo regimental no agravo de instrumento. Matéria
+Criminal. Intempestividade. Súmula nº 699/STF. Precedentes.
+Agravante representado por mais de um advogado. Ausência
+de ressalva quanto ao recebimento de intimação. Validade da
+publicação feita em nome de um deles. Precedentes.
+1. O agravante não observou o prazo de cinco dias para a
+interposição do agravo de instrumento, conforme estabelece o
+art. 28 da Lei nº 8.038/90, não revogado, em matéria penal, pela
+Lei nº 8.950/94, de âmbito normativo restrito ao Código de
+Processo Civil. Incidência da Súmula nº 699/STF.
+2. Havendo mais de um advogado constituído, sem
+nenhuma ressalva quanto ao recebimento de intimação, basta,
+para sua validade, que a publicação seja feita em nome de um
+deles.
+3. Agravo regimental não provido.” (AI n. 819.663-AgR,
+Relator o Ministro Dias Toffoli, 1ª Turma, DJe de 25.05.11)
+No caso sub judice, sendo a parte assistida por mais de
+uma advogado na mesma procuração (fl. 97), correta a decisão
+recorrida.
+Ex positis, NEGO SEGUIMENTO ao recurso extraordinário,
+com fundamento no artigo 21, § 1º, do RISTF.”
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798260.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 10
+
+RE 662.059 AGR / RS
+
+Em que pesem os argumentos expendidos nas razões de agravar,
+resta evidenciado das razões recursais que o agravante não trouxe
+nenhum argumento capaz de infirmar a decisão hostilizada, razão pela
+qual a mesma deve ser mantida por seus próprios fundamentos.
+Ex positis, nego provimento ao agravo regimental.
+É como voto.
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1798260.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 10 de 10
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 662.059
+PROCED. : RIO GRANDE DO SUL
+RELATOR : MIN. LUIZ FUX
+AGTE.(S) : CIRO CARLOS EMERIM SIMONI
+ADV.(A/S) : JOÃO AFFONSO DA CÂMARA CANTO
+AGDO.(A/S) : TRIBUNAL SUPERIOR ELEITORAL
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos do voto do Relator. Unânime. Presidência do Senhor Ministro
+Dias Toffoli. 1ª Turma, 28.2.2012.
+
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+Sessão os Senhores Ministros Marco Aurélio, Cármen Lúcia, Luiz Fux
+e Rosa Weber.
+Subprocurador-Geral da República, Dr. Rodrigo Janot.
+Carmen Lilian Oliveira de Souza
+Coordenadora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 1810881
