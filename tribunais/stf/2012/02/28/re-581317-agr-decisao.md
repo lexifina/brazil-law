@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+    Reconsidero a decisão de fls. 343.
+    2. Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Paraná.
+    3. Da leitura dos autos, observo que a instância judicante de origem considerou legítima a cobrança de alíquotas progressivas do IPTU alusivo ao exercício de 2001, com base na Lei Complementar municipal 28/1999.
+    4. Pois bem, o recorrente alega ofensa ao inciso IV do § 4º do art. 60, ao § 1º do art. 145, ao inciso II e à alínea “a” do inciso III do art. 150, ao inciso I e ao § 1º (redação original) do art. 156, ao § 2º e ao inciso II do § 4º do art. 182, todos da Magna Carta de 1988.
+    5. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do, à época, Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo provimento do recurso.
+    6. Tenho que a insurgência merece parcial acolhida. Isso porque, no tocante ao IPTU do exercício de 2000, o Supremo Tribunal Federal, por meio da Súmula 668, firmou o entendimento de que “é inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana”. Entendimento reafirmado na apreciação da Questão de Ordem suscitada no AI 712.743, da relatoria da ministra Ellen Gracie, momento em que ficou reconhecida a existência de repercussão geral do tema.
+    7. Nesse mesmo sentido, vejam-se os seguintes julgados, ambos alusivos ao IPTU do Município de Curitiba: REs 416.205-AgR, sob a relatoria do ministro Gilmar Mendes; e 428.675-AgR, sob a relatoria do ministro Cezar Peluso.
+    8. De mais a mais, quanto à repristinação da lei anterior para aplicar ao IPTU do exercício de 1999, pontuo que está em discussão nesta Casa de Justiça a possibilidade de, reconhecida a inconstitucionalidade de norma que institui a cobrança do IPTU com alíquotas progressivas antes da EC 29/2000, aplicar-se a menor alíquota fixada no diploma legal vigente no momento da ocorrência do fato gerador (RE 602.347, da relatoria do ministro Ricardo Lewandowski).
+    Ante o exposto, e considerando as disposições do § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso. O que faço tão-somente para reconhecer a inconstitucionalidade da alíquota progressiva do IPTU, referente ao exercício de 2000, instituída anteriormente ao advento da EC 29/2000. No mais, frente ao parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil, no tocante à possibilidade de cobrança do IPTU pela menor alíquota.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro AYRES BRITTO
+Relator
