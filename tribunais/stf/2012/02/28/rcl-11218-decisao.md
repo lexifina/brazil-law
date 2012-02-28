@@ -1,0 +1,28 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, proposta pela CARTEIRA DE PREVIDÊNCIA COMPLEMENTAR DOS ESCRIVÃES, NOTÁRIOS E REGISTRADORES (CONPREVI), contra decisão do Juízo da 11ª Vara Cível de Curitiba-PR que, ao afastar a aplicação da Lei 7.567/1982 do Estado do Paraná, teria violado a Súmula Vinculante 10 desta Corte.
+    Em virtude do afastamento da referida norma, a reclamante informa que foi proferida sentença para declarar nulo o ato de filiação obrigatória do Sr. FERNANDO MACEDO GUIMARÃES ao sistema de previdência comandado por ela e, em consequência, a CONPREVI foi condenada a restituir todos os valores pagos a título de contribuição.
+    Contra essa decisão foi interposta apelação, entretanto o Tribunal de Justiça do Estado do Paraná, por órgão fracionário, manteve a condenação, em acórdão assim fundamentado:
+    “Com efeito, a filiação obrigatória à previdência privada da CONPREVI, instituída pela Lei nº 7567/1982, e parcialmente modificada pela Lei Estadual nº 12.830/2000, viola o princípio constitucional da livre associação, atendendo dispositivos constitucionais, ante o caráter complementar e a natureza privada das entidades de previdência privada.
+    A Constituição Federal, ao tratar do regime de previdência complementar disciplinou a natureza e a voluntariedade da contribuição à previdência privada, de caráter complementar e facultativo, senão vejamos:
+    ‘Art. 202. O regime de previdência privada, de caráter complementar e organizado de forma autônoma em relação ao regime geral de providência social, será facultativo, baseado na constituição de reservas que garantam o benefício contratado, e regulado por lei complementar’.
+    A CONPREVI, como consta do artigo 1º da Lei Estadual nº 7.567/82 modificado pelo artigo 1º da Lei nº 12.830/2000, também de âmbito estadual, tem definida sua funcionalidade nos seguintes termos:
+    ‘Art. 1º. Fica alterada a denominação da Carteira de Previdência dos Servidores do Poder Judiciário, criado pela Lei nº 7.567, de 8 de janeiro de 1982, para Carteira de Previdência Complementar dos Escrivães, Notários e Registradores, não remunerados pelos cofres públicos, com autonomia financeira, patrimônio próprio, administrada pelo Conselho de Previdência Complementar - CONPREVI, e regido por esta lei’.
+    E, sendo a CONPREVI entidade de natureza privada, dotada de autonomia administrativa, financeira e tendo patrimônio próprio, por certo que a imposição de contribuição compulsória ao Autor mostra-se indevida, pois a contrario sensu, não se trata de previdência oficial, que estatui o regime obrigatório das contribuições dos servidores públicos”.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Decido.
+    Inicialmente, registro que a Reclamação foi ajuizada contra ato do Juízo da 11ª Vara Cível de Curitiba-PR, órgão jurisdicional singular não sujeito ao princípio da reserva de plenário.
+    Tendo em vista, entretanto, que a decisão impugnada foi mantida por órgão fracionário do Tribunal de Justiça do Estado do Paraná, recebo esta reclamação como insurgência também contra este ato.
+    Ainda assim, melhor sorte não assiste à reclamante.
+    Registro que a Súmula Vinculante 10 não se aplica quando há precedente do plenário (ou órgão especial) do tribunal prolator da decisão ou deste Supremo Tribunal Federal sobre o tema, nos termos do que dispõe o art. 481, § 1º, do Código de Processo Civil:
+    “Art. 481. [...]
+    Parágrafo único. Os órgãos fracionários dos tribunais não submeterão ao plenário, ou ao órgão especial, a arguição de inconstitucionalidade, quando já houver pronunciamento destes ou do plenário do Supremo Tribunal Federal sobre a questão.”
+    Embora o acórdão reclamado não tenha se desincumbido do ônus de indicar a existência de precedente deste Supremo Tribunal Federal, consigno que esta Corte já teve a oportunidade de apreciar o tema referente a ato normativo local que torna obrigatória filiação ou adesão a regime de previdência privada de caráter complementar. Cito os seguintes precedentes desta Corte: Ação Direta de Inconstitucionalidade 3.464, Rel. Min. Menezes Direito, Tribunal Pleno, DJe 6.3.2009; Ação Direta de Inconstitucionalidade 1.416, de minha relatoria, Tribunal Pleno, DJ 14.11.2002; Embargos de Declaração no Recurso Extraordinário 600.392, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.11.2011; e Agravo Regimental no Recurso Extraordinário 482.207, Rel. Min. Eros Grau, Segunda Turma, DJe 29.5.2009, este último com a seguinte ementa:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REGIME DE PREVIDÊNCIA PRIVADA. CARÁTER COMPLEMENTAR. ADESÃO. FACULDADE. LIBERDADE DE ASSOCIAÇÃO. 1. A faculdade que tem os interessados de aderirem a plano de previdência privada decorre de norma inserida no próprio texto constitucional [artigo 202 da CB/88]. 2. Da não-obrigatoriedade de adesão ao sistema de previdência privada decorre a possibilidade de os filiados desvincularem-se dos regimes de previdência complementar a que aderirem, especialmente porque a liberdade de associação comporta, em sua dimensão negativa, o direito de desfiliação, conforme já reconhecido pelo Supremo em outros julgados. Precedentes. Agravo regimental a que se nega provimento”.
+    O acórdão reclamado está de acordo com esses precedentes.
+    Ante o exposto, nego seguimento à reclamação, com fundamento no art. 21, § 1º, do RISTF.
+    Arquive-se.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
