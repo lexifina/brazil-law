@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inamitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 207):
+    “EMENTA: Agravo de instrumento. Decisão que determinou imediato depósito de correção monetária em ação desapropriação – Inteligência do Provimento 257 do Conselho Superior de Magistratura – A não atualização do valor evidencia enriquecimento sem causa por parte do Banco – Matéria pacificada pelo Tribunal de Justiça – Recurso desprovido.”
+    No recurso extraordinário, o ora agravante alega ofensa ao disposto nos arts. 5º, II e XXXVI, e 37, § 6º, da Constituição federal.
+    Verifico que a alegada violação aos dispositivos constitucionais não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356 desta Corte).
+    Ainda que assim não fosse, a análise das supostas ofensas passariam necessariamente pela violação das regras processuais infraconstitucionais que disciplinam o depósito judicial e os encargos do depositário, configurando-se, pois, de maneira reflexa. O Supremo Tribunal Federal, em decisão da Primeira Turma, já teve oportunidade de se manifestar em sentido semelhante ao ora formulado. Confira-se:
+    “EMENTA:DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL.RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE. AGRAVO. 1. Não conseguiu o agravante demonstrar o desacerto da decisão que, na instância de origem, indeferiu o processamento do Recurso Extraordinário, nem o da que negou seguimento ao Agravo de Instrumento.2. Na verdade, é pacífica a jurisprudência do Supremo Tribunal Federal, no sentido de não admitir, em R.E., alegação de ofensa indireta à Constituição Federal, por má interpretação ou aplicação e mesmo inobservância de normas infraconstitucionais, inclusive aquelas sobre aplicabilidade, ou não, de índices inflacionários para correção de depósitos judiciais. 3.(...). 4. Agravo improvido.” (AI 258.819–AgR, rel. min. Sydney Sanches, DJ 10.12.2002)
+    No mesmo sentido, o AI 592.811 (rel. min. Cármen Lúcia, DJ 14.05.2008).
+    Por fim, com o trânsito em julgado da decisão do Superior Tribunal de Justiça — que negou provimento ao Agravo Regimental no Recurso Especial 1.093.687 (cf. consulta à internet) —, permanece suficiente o fundamento infraconstitucional adotado pelo acórdão recorrido. Essa situação inviabiliza o apelo extremo, nos termos da Súmula 283/STF.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2012.
+Ministro Joaquim Barbosa
+Relator
