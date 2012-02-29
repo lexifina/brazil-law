@@ -1,0 +1,11 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. TÍTULO EXECUTIVO JUDICIAL TRANSITADO EM JULGADO. DESCONSTITUIÇÃO. MP 2.180-35. REPERCUSSÃO GERAL RECONHECIDA - DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia relativa à possibilidade de desconstituição, mediante a aplicação do texto normativo inserido no artigo 741 do Código de Processo Civil pela MP 2.180, de título executivo judicial fundado em norma posteriormente declarada inconstitucional, submetendo-as à apreciação do Pleno nos autos do RE 611.503, Relator o Ministro Ayres Britto, e do RE 586.068, Relatora a Ministra Ellen Gracie.
+    In casu, o acórdão recorrido assentou:
+    APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. PRETENSÃO ARRIMADA NA INEXIGIBILIDADE DO TÍTULO JUDICIAL. ARTIGO 741, II, DO CPC. ARTIGOSS. 166 E 366 DA LEI ORGÂNICA DO MUNICÍPIO DE NITERÓI. INSCONSTITUCIONALIDADE.
+    A pretensão do apelante não pode ser acolhida, pois a execução não poderia ter sido extinta com base no artigo 741, II, e parágrafo único do CPC. Diante da interpretação restritiva que deve ser dada à referida norma, verifica-se que a declaração de inconstitucionalidade, levada a efeito pelo Órgão Especial deste Tribunal, por meio da argüição de inconstitucionalidade de nº 2005.017.00022, publicada em 24/03/2006, não pode servir de fundamento para a inexigibilidade do título judicial, posto que a sentença transitou em julgado antes da referida declaração. Interpretação restritiva do artigo 741, II, do CPC, com base no princípio da segurança jurídica e na garantia constitucional da coisa julgada, que neste caso não pode ser relativizada. Sentença que se anula, determinando-se o julgamento dos embargos à execução.
+    Ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, dou provimento ao agravo para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil”.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
