@@ -1,0 +1,18 @@
+DECISÃO :  Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de Goiás, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO. CÁLCULOS DO CONTADOR JUDICIAL. FÉ PÚBLICA. PRESUNÇÃO DE VERACIDADE.
+    I – Tendo os cálculos obedecido aos ditames legais, não há que se falar em necessidade de nova remessa e feitura dos mesmos, posto que foram observadas todas as formalidades para se aplicar as devidas atualizações e correções, mormente porque o Contador Judicial é detentor de fé pública, gozando, portanto, de credibilidade e legitimidade.
+    APELO CONHECIDO E IMPROVIDO”
+    Transcrevo ainda trecho do voto do relator da apelação (fls. 117):
+    “Examinando os cálculos elaborados pela Contadora Judicial (fls. 33/34) bem como as informações prestadas pelo mesmo às fls. 50, verifica-se que os mesmos se encontram corretos, uma vez que foram efetuados com a observância ao que fora determinado no acórdão executado (fls. 223/230) dos autos de embargos à execução em apenso.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, XXXV, XXXVI, 146, III, a e b, 150, I, e 155, II, da Constituição.
+    Inexiste a alegada ofensa ao art. 5º, XXXV, da Constituição, pois o acórdão recorrido, ao julgar o recurso interposto, inequivocamente prestou jurisdição, tendo enfrentado as questões que lhe foram postas.
+    Já a alegada afronta ao art. 5º, XXXVI, por demandar o exame prévio dos limites objetivos da coisa julgada em face da legislação processual infraconstitucional, é indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido, em casos semelhantes: AI 626.840, rel. min. Menezes Direito, DJ de 09.05.2008; AI 608.138, rel. min. Gilmar Mendes, DJ de 30.05.2007; AI 599.421, rel. min. Ricardo Lewandowski, DJ de 03.10.2006; AI 558.581, rel. min. Cezar Peluso, DJ de 24.03.2006; AI 565.678, rel. min. Sepúlveda Pertence, DJ de 03.02.2006 e RE 430.084-AgR, rel. min. Ellen Gracie, Segunda Turma, DJ de 24.06.2005.
+    Ademais, a análise da violação à coisa julgada neste caso implica o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Quanto aos arts. 146, III, a e b, 150, I, e 155, II, da Constituição, o recurso extraordinário versa questões não ventiladas na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+    “- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+    Agravo a que se nega provimento.”
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
