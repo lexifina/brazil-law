@@ -1,0 +1,22 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E TRABALHO. CONTRATO NULO. CONTRATAÇÃO SEM CONCURSO PÚBLICO. POSTERIOR PRIVATIZAÇÃO DA EMPRESA RECLAMADA. CONVALIDAÇÃO DO VÍCIO. EFEITOS JURÍDICOS.  SUBIDA DO RECURSO EXTRAORDINÁRIO.
+1. É admissível o provimento do agravo de instrumento para melhor exame do recurso extraordinário, ao arbítrio do Relator.
+2. Agravo de instrumento provido, determinando-se a subida do recurso extraordinário.
+3. In casu, o acórdão recorrido assentou: “PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL. O Regional analisou devidamente a matéria relativa à caracterização do vínculo empregatício, fundamentando-se, para tanto, nas provas documentais e testemunhais carreadas aos autos e enfrentando os argumento suscitados pela parte, não havendo falar, pois, em nulidade do julgado por negativa de prestação jurisdicional. Recurso de revista não conhecido. CONTRATO NULO. CONTRATAÇÃO SEM CONCURSO PÚBLICO. POSTERIOR PRIVATIZAÇÃO DA EMPRESA RECLAMADA. VÍCIO CONVALIDADO. EFEITOS JURÍDICOS. A jurisprudência desta Corte, quanto aos efeitos da nulidade do contrato de trabalho realizado sem a submissão prévia do empregado a concurso público com empresa que posteriormente foi privatizada, é no sentido de que a posterior privatização da empresa, mediante sucessão trabalhista implementada nos termos dos arts. 10 e 448 da CLT, tem o efeito de convalidar a contratação inicialmente irregular, afastando-se, assim, o vício de nulidade. Tem-se entendido, pois, que o contrato, nessas circunstâncias, produz todos os efeitos advindos de um contrato válido, desde a contratação da empregado, não havendo cogitar, assim, de nulidade da contratação e, consequentemente, de violação do art. 37, inciso II, da CF/88 e de conflito com a Orientação Jurisprudencial n° 85 da SBDI-1 do TST, convertida na Súmula n° 363 do TST. Revista não conhecida.”
+    Decisão: Cuida-se de agravo nos próprios autos interposto pela Companhia Vale do Rio Doce - Cvrd, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 406/407, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Superior do Trabalho, ementado nos seguintes termos (fl. 342), verbis:
+    PRELIMINAR DE NULIDADE DO ACÓRDÃO REGIONAL.
+    O Regional analisou devidamente a matéria relativa à caracterização do vínculo empregatício, fundamentando-se, para tanto, nas provas documentais e testemunhais carreadas aos autos e enfrentando os argumento suscitados pela parte, não havendo falar, pois, em nulidade do julgado por negativa de prestação jurisdicional.
+    Recurso de revista não conhecido.
+    CONTRATO NULO. CONTRATAÇÃO SEM CONCURSO PÚBLICO. POSTERIOR PRIVATIZAÇÃO DA EMPRESA RECLAMADA. VÍCIO CONVALIDADO. EFEITOS JURÍDICOS.
+    A jurisprudência desta Corte, quanto aos efeitos da nulidade do contrato de trabalho realizado sem a submissão prévia do empregado a concurso público com empresa que posteriormente foi privatizada, é no sentido de que a posterior privatização da empresa, mediante sucessão trabalhista implementada nos termos dos arts. 10 e 448 da CLT, tem o efeito de convalidar a contratação inicialmente irregular, afastando-se, assim, o vício de nulidade. Tem-se entendido, pois, que o contrato, nessas circunstâncias, produz todos os efeitos advindos de um contrato válido, desde a contratação da empregado, não havendo cogitar, assim, de nulidade da contratação e, consequentemente, de violação do art. 37, inciso II, da CF/88 e de conflito com a Orientação Jurisprudencial n° 85 da SBDI-1 do TST, convertida na Súmula n° 363 do TST.
+    Revista não conhecida.
+    Opostos embargos de declaração estes restaram rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos arts. 5º, XXXVI, e 37, II e § 2º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que, além da ausência do necessário prequestionamento, o exame da controvérsia atrela-se à prévia análise de legislação infraconstitucional.
+    É o Relatório. DECIDO.
+    É cediço ser admissível o provimento do agravo de instrumento para melhor exame do recurso extraordinário, ao arbítrio do Relator.
+    Destarte, dou provimento ao agravo de instrumento e determino a subida do recurso extraordinário, para melhor exame.
+    Publique-se.
+    Brasília, 29 de fevereiro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
