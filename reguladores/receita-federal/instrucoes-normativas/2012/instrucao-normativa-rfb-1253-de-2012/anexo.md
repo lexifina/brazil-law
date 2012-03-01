@@ -1,0 +1,4 @@
+ANEXO ÚNICO
+LEIAUTE DO ARQUIVO DE IMPORTAÇÃO DE DADOS DE CRÉDITO DO REINTEGRA
+Anexo Único
+[arquivo anexo: Anexo Único.doc]

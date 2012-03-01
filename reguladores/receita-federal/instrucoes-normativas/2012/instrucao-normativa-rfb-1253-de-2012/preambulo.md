@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1253, de 1º de março de 2012
+Aprova o Programa Pedido de Restituição, Ressarcimento ou Reembolso e Declaração de Compensação (PER/DCOMP 5.1) e o leiaute do arquivo de importação de dados de crédito do Reintegra.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 74 da Lei nº 9.430, de 27 de dezembro de 1996, no art. 17 da Lei nº 10.833, de 29 de dezembro de 2003, no art. 4º da Lei nº 11.051, de 29 de dezembro de 2004, no art. 30 da Lei nº 11.941, de 27 de maio de 2009, e no art. 62 da Lei nº 12.249, de 11 de junho de 2010, resolve:
