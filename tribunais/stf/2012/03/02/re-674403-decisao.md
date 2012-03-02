@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “b” do inciso III do art. 102 da Constituição Republicana, contra acórdão da Turma Recursal Suplementar dos Juizados Especiais Federais da Seção Judiciária do Paraná.
+    2. Da leitura dos autos, observo que a instância judicante de origem, ao julgar procedente pedido de concessão de aposentadoria rural a trabalhador “bóia-fria”, dispensou a apresentação de início de prova material, admitindo-se, tão-somente, prova testemunhal.
+    3. Pois bem, a parte recorrente aponta violação aos incisos II, XXXV e LIV do art. 5º e ao inciso IX do art. 93, todos da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida. É que, para se chegar a conclusão diversa da adotada pelo colegiado de origem, se fazem necessários o reexame da legislação infraconstitucional pertinente e a análise do conjunto fático-probatório dos autos (Súmula 279/STF), providências vedadas na instância extraordinária. Precedentes: AIs 609.983-AgR, da minha relatoria; 848.610, da relatoria do ministro Luiz Fux; 848.623, da relatoria do ministro Gilmar Mendes; e 852.351, da relatoria da ministra Cármen Lúcia.
+    5. No que se refere à alegada ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que é exemplo o AI 517.643-AgR, da relatoria do ministro Celso de Mello. Esta é a ementa do julgado:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes”.
+    6. De mais a mais, anoto que o aresto impugnado, ao contrário do consignado pela parte agravante, está devidamente fundamentado. Ora, é firme nesta nossa Corte o entendimento de que “a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, da relatoria do ministro Sepúlveda Pertence).
+    7. À derradeira, no tocante à alínea “b” do inciso III do art. 102 da Constituição Federal, é de incidir a Súmula 284 do STF
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 02 de março de 2012.
+Ministro AYRES BRITTO
+Relator
