@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário com agravo em face de decisão que negou seguimento ao apelo extremo interposto contra acórdão do Tribunal de Justiça de São Paulo assim ementado:
+    “SERVIDOR PÚBLICO ESTADUAL. Inativo. 1. Gratificação por Atividade de Suporte Administrativo – GASA (Lei Complementar n. 876/00) é vantagem salarial concedida genérica e indiscriminadamente aos servidores públicos em atividade nas Secretarias de Estado e Autarquias . 2. Equiparação salarial entre servidores ativos e inativos ou pensionistas devida nos termos do art. 40, § 8º, CF, acrescentado pela EC 20/98. Matéria pacificada pelo Colendo STF. Precedentes. 3. A supressão do regime de paridade entre proventos de aposentadoria e pensões e vencimentos de servidores públicos em atividade não atinge os inativos e pensionistas cujos proventos ou pensões estivessem sendo pagos na data da publicação da EC 41/03 (art. 7º). Sentença mantida. Recurso não provido”. (fl. 360)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 40, § 8º, do texto constitucional.
+    O recorrente alega, em síntese, que a Gratificação por Atividade de Suporte, criada pela LC 876/2000, do Estado de São Paulo, possui como destinatários apenas os servidores ativos, tendo em vista sua natureza propter laborem faciendo, sendo vedada sua incorporação aos proventos dos servidores inativos.
+    Decido.
+    Não assiste razão ao recorrente.
+    O acórdão recorrido está em consonância com a jurisprudência desta Corte, que se firmou no sentido de que a Gratificação por Atividade de Suporte (GASA), concedida em virtude da LC 876/2000, do Estado de São Paulo, possui caráter genérico e, em razão disso, deve ser estendida aos servidores inativos.
+    Nesse sentido confira-se o entendimento de ambas as Turmas desta Corte sintetizado nas seguintes ementas:
+    “EXTENSÃO, AOS SERVIDORES INATIVOS DO ESTADO DE SÃO PAULO, DE GRATIFICAÇÕES DE CARÁTER GENÉRICO, COMO A GASA, INSTITUÍDAS POR DIPLOMAS LEGISLATIVOS LOCAIS - POSSIBILIDADE - ENTENDIMENTO JURISPRUDENCIAL FIRMADO POR AMBAS AS TURMAS DO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO”. (RE-AgR 545.076/SP, Rel. Min. Celso de Mello, Segunda Turma, DJe 1º.7.2010)
+    “Agravo regimental no agravo de instrumento. Gratificação por Atividade de Suporte Administrativo (GASA). Extensão aos inativos. Precedentes. 1. A jurisprudência desta Corte consolidou o entendimento de que a Gratificação por Atividade de Suporte Administrativo (GASA), concedida pela Lei Complementar do Estado de São Paulo n.° 876/2000, tem caráter genérico e, em razão disso, deve ser estendida aos servidores inativos. 2. Agravo regimental não provido”. (AI-AgR 622.376/SP, Rel. Min. Dias Toffoli, Primeira Turma, DJe 23.3.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se. Brasília, 5 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
