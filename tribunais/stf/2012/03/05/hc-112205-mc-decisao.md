@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSO – NULIDADE – AUDIÇÃO DAS TESTEMUNHAS – QUESTIONAMENTOS IMPLEMENTADOS PELO JUÍZO E PELAS PARTES – ORDEM – ARTIGO 212 DO CÓDIGO DE PROCESSO PENAL – NATUREZA DA NULIDADE – PRONÚNCIA – SUSPENSÃO DO PROCESSO – LIMINAR INDEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    Impugna-se o acórdão do Superior Tribunal de Justiça, no Habeas Corpus nº 182.562/SP, mediante o qual se afastou pleito de nulidade processual. O julgamento foi resumido na seguinte ementa:
+    [...]
+    3. Em que pese a oitiva das testemunhas não ter sido procedida com perguntas feitas direta e primeiramente pelo Ministério Público e depois pela defesa, inobservando-se, portanto, a ordem prevista no art. 212 do Código de Processo Penal, certo é que o ato cumpriu sua finalidade, ou seja, houve a produção das provas requeridas, sendo oportunizada às partes, ainda que em momento posterior, a formulação de questões às testemunhas ouvidas, respeitando-se o contraditório e a ampla defesa constitucionalmente garantidos, motivo pelo qual não houve qualquer prejuízo efetivo à paciente.
+    4. Eventual inobservância à ordem estabelecida no referido preceito legal cuida-se de vício relativo, devendo ser arguido no momento processual oportuno juntamente da demonstração da ocorrência efetiva do prejuízo sofrido pela parte, sob pena de preclusão, porquanto vige no cenário das nulidades o brocado pas de nullité sans grief positivado na letra do art. 563 do Código de Processo Penal, ou seja, em matéria penal, nenhuma nulidade será declarada se não demonstrado prejuízo (Precedentes STJ e STF).
+    5. Na hipótese dos autos, constatado que a defesa da paciente arguiu a irregularidade ocorrida na oitiva das testemunhas por meio de habeas corpus impetrado perante a Corte Estadual somente após a prolação da decisão de pronúncia em seu desfavor, isto é, não suscitada a nulidade na primeira oportunidade para defesa se pronunciar após a ocorrência do ato maculado - no caso, nas alegações finais -, a pretensão do impetrante de invalidação da instrução criminal encontra-se fulminada pelo fenômeno da preclusão.
+    6. Ordem denegada. (Relator Ministro Jorge Mussi, Quinta Turma, julgado em 5 de maio de 2011, publicado no Diário eletrônico da Justiça de 16 de junho de 2011)
+    Conforme alega a impetrante, a inversão da ordem de inquirição das testemunhas resulta em ofensa à atual redação do artigo 212 do Código de Processo Penal e constitui causa de nulidade absoluta, que não está sujeita à preclusão nem à necessidade de demonstração de prejuízo. Afirma representar o aludido preceito garantia do sistema penal acusatório e da imparcialidade do magistrado, implicando a inobservância violação ao devido processo legal. Menciona como precedente a Medida Cautelar no Habeas Corpus nº 107.318, da relatoria de Vossa Excelência.
+    Em âmbito liminar, requer a suspensão do Processo nº 266.01.2003.003139-0, em trâmite na 1ª Vara Judicial da Comarca de Itanhaém, São Paulo, até o julgamento definitivo da impetração. No mérito, busca a anulação do processo-crime desde a audiência de instrução bem como o desentranhamento dos documentos relacionados à prática do citado ato processual.
+    A impetração foi distribuída por prevenção a Vossa Excelência, em virtude da relatoria do Habeas Corpus n°102.246, no qual revogada a prisão preventiva da paciente, pronunciada pelo cometimento do delito previsto no artigo 121, § 2°, inciso II, do Código Penal (homicídio qualificado por motivo fútil).
+    Está o habeas concluso para apreciação da medida acauteladora.
+    2. A suspensão de processo-crime é medida extrema no que afastada, temporariamente, a jurisdição. O questionamento sobre a ordem de veiculação de perguntas prevista no artigo 212 do Código de Processo Penal, a revelar, ou não, formalidade essencial, há de ser objeto de julgamento definitivo no Colegiado. Vale notar, no caso, a fase em que teria ocorrido a inversão – anterior à pronúncia.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 5 de março de 2012, às 11h10.
+Ministro MARCO AURÉLIO
+Relator
