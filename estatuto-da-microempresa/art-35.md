@@ -1,0 +1,1 @@
+Art. 35. Aplicam-se aos impostos e contribuições devidos pela microempresa e pela empresa de pequeno porte, inscritas no Simples Nacional, as normas relativas aos juros e multa de mora e de ofício previstas para o imposto de renda, inclusive, quando for o caso, em relação ao ICMS e ao ISS.
