@@ -1,0 +1,3 @@
+Art. 18-B. A empresa contratante de serviços executados por intermédio do MEI mantém, em relação a esta contratação, a obrigatoriedade de recolhimento da contribuição a que se refere o inciso III do caput e o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e o cumprimento das obrigações acessórias relativas à contratação de contribuinte individual.
+§ 1º Aplica-se o disposto no caput em relação ao MEI que for contratado para prestar serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+§ 2º O disposto no caput e no § 1º não se aplica quando presentes os elementos da relação de emprego, ficando a contratante sujeita a todas as obrigações dela decorrentes, inclusive trabalhistas, tributárias e previdenciárias.

@@ -1,0 +1,2 @@
+Art. 63. O CODEFAT poderá disponibilizar recursos financeiros por meio da criação de programa específico para as cooperativas de crédito de cujos quadros de cooperados participem microempreendedores, empreendedores de microempresa e empresa de pequeno porte bem como suas empresas.
+Parágrafo único. Os recursos referidos no caput deste artigo deverão ser destinados exclusivamente às microempresas e empresas de pequeno porte.
