@@ -1,0 +1,1 @@
+Art. 8º Será assegurado aos empresários entrada única de dados cadastrais e de documentos, resguardada a independência das bases de dados e observada a necessidade de informações por parte dos órgãos e entidades que as integrem.

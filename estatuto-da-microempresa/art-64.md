@@ -1,0 +1,6 @@
+Art. 64. Para os efeitos desta Lei Complementar considera-se:
+I - inovação: a concepção de um novo produto ou processo de fabricação, bem como a agregação de novas funcionalidades ou características ao produto ou processo que implique melhorias incrementais e efetivo ganho de qualidade ou produtividade, resultando em maior competitividade no mercado;
+II - agência de fomento: órgão ou instituição de natureza pública ou privada que tenha entre os seus objetivos o financiamento de ações que visem a estimular e promover o desenvolvimento da ciência, da tecnologia e da inovação;
+III - Instituição Científica e Tecnológica - ICT: órgão ou entidade da administração pública que tenha por missão institucional, dentre outras, executar atividades de pesquisa básica ou aplicada de caráter científico ou tecnológico;
+IV - núcleo de inovação tecnológica: núcleo ou órgão constituído por uma ou mais ICT com a finalidade de gerir sua política de inovação;
+V - instituição de apoio: instituições criadas sob o amparo da Lei nº 8.958, de 20 de dezembro de 1994, com a finalidade de dar apoio a projetos de pesquisa, ensino e extensão e de desenvolvimento institucional, científico e tecnológico.
