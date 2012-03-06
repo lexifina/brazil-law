@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Luiz Carlos Soares dos Santos interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 8° do Ato das Disposições Constitucionais Transitórias.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO. DECISÃO QUE NEGA SEGUIMENTO À APELAÇÃO. ARTIGO 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. ANISTIA. MILITAR TEMPORÁRIO. PORTARIA Nº 1.104/GM3/64. NÃO COMPROVA MOTIVAÇÃO POLÍTICA.
+    1. O agravante, além de licenciado com quatro anos de serviço, não se desincumbiu do ônus de provar que o licenciamento se deu, em razão, única e exclusiva, de motivação política. Os documentos carreados aos autos não revelam o conteúdo político da norma inquinada, tampouco há prova de eventual perseguição de cunho político que tenha sido vítima o Autor. Não há nos autos nenhum indício de participação do Autor em atos políticos a sugerir que tenha sido excluído dos quadros da Aeronáutica, por motivos ideológicos. O simples fato de a Portaria ter sido editada num momento histórico conturbado não é suficiente para se inferir manifesto cunho de perseguição política ao ato administrativo questionado. Ademais, a jurisprudência é firme no sentido de que os militares que ingressaram posteriormente à edição da Portaria 1.104/GM3 não têm direito à anistia (STJ, 3ª Região, MS 10.269/DF, Rel. Min. Gilson Dipp). Portanto, não faz jus ao reconhecimento de sua condição de anistiado político.
+    2 - Agravo Interno improvido” (fl. 178).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Colhe-se do voto condutor, os seguintes fundamentos:
+    “O agravante, além de licenciado com quatro anos de serviço, não se desincumbiu do ônus de provar que o licenciamento se deu, em razão, única e exclusiva, de motivação política. Os documentos carreados aos autos não revelam o conteúdo político da norma inquinada, tampouco há prova de eventual perseguição de cunho político de que tenha sido vítima o Autor.
+    Não há nos autos nenhum indício de participação do Autor em atos políticos a sugerir que tenha sido excluído dos quadros da Aeronáutica, por motivos ideológicos”.
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia sobre a natureza jurídica do ato que levou a exclusão do militar com fundamento na legislação infraconstitucional e nos fatos e provas que compõe a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. ANISTIA. IMPOSSIBILIDADE DO REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 735788/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia DJe de 25/6/09);
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MILITAR. ANISTIA. ART. 8º DO ADCT. NATUREZA DO ATO DE EXPULSÃO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – A controvérsia acerca da natureza jurídica do ato de expulsão do militar, para efeito de concessão da anistia prevista no art. 8º do ADCT, requer o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 do STF. II - Agravo regimental improvido” (RE n° 601.202/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 9/11/10);
+    Nesse sentido, as seguintes decisões monocráticas: AI n° 814.492/BA, Relatora a Ministra Cármen Lúcia, DJe de 15/2/11; e RE n° 643.361/DF, Relator o Ministro Ayres Britto, DJe de 1°/8/11.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 6 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
