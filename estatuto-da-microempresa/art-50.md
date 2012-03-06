@@ -1,0 +1,1 @@
+Art. 50. As microempresas e as empresas de pequeno porte serão estimuladas pelo poder público e pelos Serviços Sociais Autônomos a formar consórcios para acesso a serviços especializados em segurança e medicina do trabalho.

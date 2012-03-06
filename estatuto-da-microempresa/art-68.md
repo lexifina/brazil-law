@@ -1,0 +1,1 @@
+Art. 68. Considera-se pequeno empresário, para efeito de aplicação do disposto nos arts. 970 e 1.179 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), o empresário individual caracterizado como microempresa na forma desta Lei Complementar que aufira receita bruta anual até o limite previsto no § 1º do art. 18-A.

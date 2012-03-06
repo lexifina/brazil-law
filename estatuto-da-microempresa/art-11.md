@@ -1,0 +1,1 @@
+Art. 11. Fica vedada a instituição de qualquer tipo de exigência de natureza documental ou formal, restritiva ou condicionante, pelos órgãos envolvidos na abertura e fechamento de empresas, dos 3 (três) âmbitos de governo, que exceda o estrito limite dos requisitos pertinentes à essência do ato de registro, alteração ou baixa da empresa.
