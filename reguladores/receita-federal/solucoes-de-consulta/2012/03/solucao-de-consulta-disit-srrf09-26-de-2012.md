@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 26, de 7 de fevereiro de 2012
+Assunto: Obrigações Acessórias NOTA FISCAL. PREENCHIMENTO DO VALOR DO FRETE. MERCADORIAS DESTINADAS À EXPORTAÇÃO. A obrigatoriedade de preenchimento do valor do frete na Nota Fiscal utilizada para instruir despacho de exportação impõe-se apenas quando essa despesa seja cobrada separadamente do preço da mercadoria. Dispositivos Legais: Lei Complementar nº 87, de 1996, art. 13, § 1º, II; Lei nº 4.502, de 1964, art. 14, II, § 1º; Lei nº 7.798, de 1989, art. 15; Convênio Sinief s/nº, de 1970, art. 19, V, "f" e "g", alterado pelo Ajuste SINIEF nº 03/94, de 29 de setembro de 1994; IN SRF nº 28, de 27 de abril de 1994, art. 16, I.
+[arquivo anexo: SC SRRF09-Disit nº 026-2012.pdf]
