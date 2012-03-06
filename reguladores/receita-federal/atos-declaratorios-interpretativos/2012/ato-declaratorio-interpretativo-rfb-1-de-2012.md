@@ -1,0 +1,5 @@
+Ato Declaratório Interpretativo RFB nº 1, de 2 de março de 2012
+Dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) na operação de câmbio.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 15-A, incisos XX e XXII, e 66 do Decreto nº 6.306, de 14 de dezembro de 2007, declara:
+Art. 1º A alíquota de 6,38% (seis inteiros e trinta e oito centésimos por cento) estabelecida no inciso XX do art. 15-A do Decreto nº 6.306, de 14 de dezembro de 2007, aplica-se inclusive ao cumprimento das obrigações decorrentes das aquisições de bens e serviços do exterior com pagamento referenciado em reais por seus usuários.
+Art. 2º O prazo médio mínimo a que se refere o inciso XXII do art. 15-A do Decreto nº: 6.306, de 2007, corresponde a 1080 (mil e oitenta) dias.
