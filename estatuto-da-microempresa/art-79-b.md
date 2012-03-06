@@ -1,0 +1,1 @@
+Art. 79-B. Excepcionalmente para os fatos geradores ocorridos em julho de 2007, os tributos apurados na forma dos arts. 18 a 20 desta Lei Complementar deverão ser pagos até o último dia útil de agosto de 2007.

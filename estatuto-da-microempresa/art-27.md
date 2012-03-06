@@ -1,0 +1,1 @@
+Art. 27. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional poderão, opcionalmente, adotar contabilidade simplificada para os registros e controles das operações realizadas, conforme regulamentação do Comitê Gestor.

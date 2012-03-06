@@ -1,0 +1,1 @@
+Art. 61. Para fins de apoio creditício às operações de comércio exterior das microempresas e das empresas de pequeno porte, serão utilizados os parâmetros de enquadramento ou outros instrumentos de alta significância para as microempresas, empresas de pequeno porte exportadoras segundo o porte de empresas, aprovados pelo Mercado Comum do Sul - MERCOSUL.

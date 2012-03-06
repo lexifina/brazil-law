@@ -1,0 +1,7 @@
+Art. 39. O contencioso administrativo relativo ao Simples Nacional será de competência do órgão julgador integrante da estrutura administrativa do ente federativo que efetuar o lançamento, o indeferimento da opção ou a exclusão de ofício, observados os dispositivos legais atinentes aos processos administrativos fiscais desse ente.
+§ 1º O Município poderá, mediante convênio, transferir a atribuição de julgamento exclusivamente ao respectivo Estado em que se localiza.
+§ 2º No caso em que o contribuinte do Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de que não se consiga identificar a origem, a autuação será feita utilizando a maior alíquota prevista nesta Lei Complementar, e a parcela autuada que não seja correspondente aos tributos e contribuições federais será rateada entre Estados e Municípios ou Distrito Federal.
+§ 3º Na hipótese referida no § 2º deste artigo, o julgamento caberá ao Estado ou ao Distrito Federal.
+§ 4º A intimação eletrônica dos atos do contencioso administrativo observará o disposto nos §§ 1º-A a 1º-D do art. 16.
+§ 5º A impugnação relativa ao indeferimento da opção ou à exclusão poderá ser decidida em órgão diverso do previsto no caput, na forma estabelecida pela respectiva administração tributária.
+§ 6º Na hipótese prevista no § 5º, o CGSN poderá disciplinar procedimentos e prazos, bem como, no processo de exclusão, prever efeito suspensivo na hipótese de apresentação de impugnação, defesa ou recurso.

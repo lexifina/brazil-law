@@ -1,0 +1,1 @@
+Art. 54. É facultado ao empregador de microempresa ou de empresa de pequeno porte fazer-se substituir ou representar perante a Justiça do Trabalho por terceiros que conheçam dos fatos, ainda que não possuam vínculo trabalhista ou societário.

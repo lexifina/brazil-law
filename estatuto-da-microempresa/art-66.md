@@ -1,0 +1,1 @@
+Art. 66. No primeiro trimestre do ano subseqüente, os órgãos e entidades a que alude o art. 67 desta Lei Complementar transmitirão ao Ministério da Ciência e Tecnologia relatório circunstanciado dos projetos realizados, compreendendo a análise do desempenho alcançado.
