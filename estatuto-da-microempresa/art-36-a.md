@@ -1,0 +1,1 @@
+Art. 36-A. A falta de comunicação, quando obrigatória, do desenquadramento do microempreendedor individual da sistemática de recolhimento prevista no art. 18-A desta Lei Complementar nos prazos determinados em seu § 7º sujeitará o microempreendedor individual a multa no valor de R$ 50,00 (cinquenta reais), insusceptível de redução.

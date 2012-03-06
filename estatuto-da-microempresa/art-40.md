@@ -1,0 +1,1 @@
+Art. 40. As consultas relativas ao Simples Nacional serão solucionadas pela Secretaria da Receita Federal, salvo quando se referirem a tributos e contribuições de competência estadual ou municipal, que serão solucionadas conforme a respectiva competência tributária, na forma disciplinada pelo Comitê Gestor.

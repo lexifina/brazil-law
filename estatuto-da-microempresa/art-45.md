@@ -1,0 +1,7 @@
+Art. 45. Para efeito do disposto no art. 44 desta Lei Complementar, ocorrendo o empate, proceder-se-á da seguinte forma:
+I - a microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado;
+II - não ocorrendo a contratação da microempresa ou empresa de pequeno porte, na forma do inciso I do caput deste artigo, serão convocadas as remanescentes que porventura se enquadrem na hipótese dos §§ 1º e 2º do art. 44 desta Lei Complementar, na ordem classificatória, para o exercício do mesmo direito;
+III - no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1º e 2º do art. 44 desta Lei Complementar, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+§ 1º Na hipótese da não-contratação nos termos previstos no caput deste artigo, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame.
+§ 2º O disposto neste artigo somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa ou empresa de pequeno porte.
+§ 3º No caso de pregão, a microempresa ou empresa de pequeno porte mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão.

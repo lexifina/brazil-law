@@ -1,0 +1,5 @@
+Art. 5º Os órgãos e entidades envolvidos na abertura e fechamento de empresas, dos 3 (três) âmbitos de governo, no âmbito de suas atribuições, deverão manter à disposição dos usuários, de forma presencial e pela rede mundial de computadores, informações, orientações e instrumentos, de forma integrada e consolidada, que permitam pesquisas prévias às etapas de registro ou inscrição, alteração e baixa de empresários e pessoas jurídicas, de modo a prover ao usuário certeza quanto à documentação exigível e quanto à viabilidade do registro ou inscrição.
+Parágrafo único. As pesquisas prévias à elaboração de ato constitutivo ou de sua alteração deverão bastar a que o usuário seja informado pelos órgãos e entidades competentes:
+I - da descrição oficial do endereço de seu interesse e da possibilidade de exercício da atividade desejada no local escolhido;
+II - de todos os requisitos a serem cumpridos para obtenção de licenças de autorização de funcionamento, segundo a atividade pretendida, o porte, o grau de risco e a localização; e
+III - da possibilidade de uso do nome empresarial de seu interesse.

@@ -1,0 +1,1 @@
+Art. 34. Aplicam-se à microempresa e à empresa de pequeno porte optantes pelo Simples Nacional todas as presunções de omissão de receita existentes nas legislações de regência dos impostos e contribuições incluídos no Simples Nacional.
