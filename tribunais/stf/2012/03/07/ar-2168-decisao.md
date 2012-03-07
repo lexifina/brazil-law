@@ -1,0 +1,35 @@
+Trata-se de ação rescisória, proposta por Juscelino Xavier de Souza Rocha e outros, cujo objetivo é rescindir a decisão monocrática proferida pelo Rel. Min. Joaquim Barbosa nos autos do RE 553.002/SC, cujo trânsito em julgado ocorreu em 10/9/2007.
+    A decisão rescindenda reformou acórdão do Tribunal Regional Federal da 4ª Região, afastando o direito de servidores públicos à indenização em decorrência de omissão no tocante à revisão de suas remunerações com a periodicidade determinada pelo art. 37, X, da Constituição Federal.
+    Os requerentes argumentam, em síntese, que o cabimento da indenização, com fundamento no referido inciso X, não é questão pacífica nesta Corte.
+    Noticiam, ainda, que esse tema
+    “está pendente de exame pelo plenário do Supremo Tribunal Federal e, dada sua repercussão geral, os feitos que tratam da mesma matéria vem sendo sobrestados até julgamento final dos seguintes Recursos Extraordinários: RE nº 424.584, Relator o Ministro Carlos Velloso, que conhecia do Recurso apresentado por um servidor em caso idêntico, e dava provimento ao mesmo; RE nº 565.089, Relator o Ministro Marco Aurélio, que concluiu pela repercussão geral do tema relativo à possibilidade de os servidores pleitearem indenização em virtude do não encaminhamento de projeto de lei destinado a viabilizar reajuste anual dos vencimentos” (fl. 3 – grifos no original).
+    Requerem, assim, a procedência do pleito, pugnando, contudo, seja sobrestado até o julgamento dos citados recursos extraordinários.
+    Citada, a União apresentou contestação, requerendo a improcedência do pedido, sob os seguintes fundamentos:
+    i) ausência de violação a literal dispositivo de lei, a autorizar o ajuizamento de ação rescisória;
+    ii) impossibilidade de utilizar a rescisória como sucedâneo recursal; e
+    iii) consolidação da jurisprudência pela improcedência do pleito indenizatório.
+    A Procuradoria Geral da República manifestou-se pela improcedência da ação, em parecer assim ementado:
+    “AÇÃO RESCISÓRIA. ART. 485, V, DO CPC. RECURSO EXTRAORDINÁRIO Nº 553.002-7/SC. AÇÃO ORDINÁRIA. SERVIDORES PÚBLICOS. VENCIMENTOS. REVISÃO GERAL ANUAL. ART. 37, X, DA CF. INÉRCIA DO PODER EXECUTIVO. INDENIZAÇÃO. INTERPRETAÇÃO SOBRE DISPOSITIVO CONSTITUCIONAL EM REDISCUSSÃO (RE Nº 565.089 E RE Nº 424.584). AUSÊNCIA DE AFRONTA A LITERAL DISPOSITIVO CONSTITUCIONAL. PARECER PELA IMPROCEDÊNCIA DA AÇÃO RESCISÓRIA”.
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, entendo incabível esta ação rescisória.
+    Isso porque o fundamento do pedido veiculado assenta-se, tão somente, na possibilidade de uma futura alteração da jurisprudência sedimentada deste Tribunal – de que não cabe indenização caso não seja elaborada a norma prevista no art. 37, X, do Texto Constitucional.
+    Ora, não há qualquer dispositivo no Código de Processo Civil, ou em qualquer diploma legal, que permita o sobrestamento de ação rescisória a fim de que se aguarde a eventual modificação da jurisprudência do Supremo Tribunal Federal.
+    O sobrestamento determinado pelo art. 543-B do CPC, em razão do reconhecimento de repercussão geral, só se aplica aos recursos extraordinários em curso, sobre idêntica questio juris, e que ainda não haja decisão transitada em julgado.
+    Ademais, como assentado pela Min. Cármen Lúcia na decisão que negou seguimento à AR 2.090/SC, que trata de igual temática,
+    “o cabimento da ação rescisória não prescinde da certeza sobre a contrariedade à norma constitucional efetivada na decisão rescindenda, sob pena de se ter, se confirmado o entendimento nela assentado, o ajuizamento de ação rescisória em ação rescisória com a mesma causa de pedir, mitigando, com esse procedimento, a almejada segurança jurídica que deve caracterizar os pronunciamentos judiciais, mormente os do Supremo Tribunal Federal.
+    (…)
+    Além disso, na presente ação rescisória, os Autores pretendem impedir o transcurso do prazo decadencial previsto no art. 495 do Código de Processo Civil, fundado na sua expectativa de que a jurisprudência dominante do Supremo Tribunal Federal seja alterada com o julgamento de mérito dos recursos extraordinários submetidos ao procedimento da repercussão geral.
+    Essa intenção está evidenciada no pedido de sobrestamento desta ação rescisória até o julgamento dos Recursos Extraordinários n. 424.584/MG e 565.089/SC, tornando-a uma espécie de ação de natureza preventiva e condicionada ou de recurso inominado com efeito suspensivo alheio à relação processual originária, o que contraria o sistema processual vigente”.
+    Como bem observou a Min. Cármen Lúcia, ao se admitir a pretensão dos autores, da forma em que proposta, seria burlado o prazo decadencial para propositura da ação rescisória, na expectativa de virada da jurisprudência, o que não se afigura razoável, sob pena, inclusive, admitida essa postura, de gerar insegurança jurídica, pois as demandas seriam eternizadas com fundamento nessa possibilidade de alteração jurisprudencial.
+    Nesse sentido também foi a observação da Procuradoria Geral da República que, por oportuno, transcrevo:
+    “Os autores (…), ao requererem o sobrestamento desta ação rescisória até o julgamento do Recurso Extraordinário nº 424.584-MG e Recurso Extraordinário nº 565.089-SC, submetidos ao procedimento da repercussão geral, pretendem impedir o transcurso do prazo decadencial previsto no artigo 495 do Código de Processo Civil na expectativa de que a jurisprudência dominante do STF seja alterada”.
+    Registro, ainda, que a 2ª Turma desta Corte concluiu o julgamento do RE 424.584/MG, Rel. para o acórdão Min. Joaquim Barbosa, oportunidade em que, mais uma vez, confirmou-se a jurisprudência pacífica então vigente, conforme se observa da ementa do acórdão:
+    “SERVIDOR PÚBLICO. REVISÃO GERAL DE VENCIMENTO. COMPORTAMENTO OMISSIVO DO CHEFE DO EXECUTIVO. DIREITO À INDENIZAÇÃO POR PERDAS E DANOS. IMPOSSIBILIDADE. Esta Corte firmou o entendimento de que, embora reconhecida a mora legislativa, não pode o Judiciário deflagrar o processo legislativo, nem fixar prazo para que o chefe do Poder Executivo o faça. Além disso, esta Turma entendeu que o comportamento omissivo do chefe do Poder Executivo não gera direito à indenização por perdas e danos. Recurso extraordinário desprovido”.
+    Por todas essas razões, sendo manifestamente incabível o pedido, nego seguimento a esta ação rescisória, nos termos do art. 21, § 1º, do Regimento Interno.
+    Condeno os autores ao pagamento das custas processuais e honorários advocatícios, que fixo em 10% sobre o valor da causa.
+    Faculto-lhes, ainda, o levantamento do depósito previsto no art. 488, II, do Código de Processo Civil, uma vez que a declaração de inadmissibilidade da presente ação rescisória se dá por decisão monocrática, não cabendo, por isso mesmo, a perda, a título de multa, do valor correspondente a ele, haja vista a não ocorrência de julgamento por unanimidade de votos.
+    Publique-se.
+    Brasília, 7 de março de 2012.
+Ministro Ricardo Lewandowski
+Relator
