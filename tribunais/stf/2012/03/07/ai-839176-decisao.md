@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “RECURSO. COBRANÇA DE COTAS CONDOMINIAIS. ALEGAÇÃO DE EXISTÊNCIA DE PROMESSA DE COMPRA E VENDA NÃO REGISTRADA EM CARTÓRIO. INEXISTINDO PROVA NOS AUTOS DE QUE O CONDOMÍNIO TIVESSE CONHECIMENTO DA SUPOSTA VENDA, NEM DE QUE O ADQUIRENTE TIVESSE EXERCIDO A POSSE DIRETA DO IMÓVEL, A RESPONSABILIDADE PELO PAGAMENTO DAS COTAS CONDOMINIAIS É DO PROMITENTE VENDEDOR. IDENTIFICADO O PROPRIETÁRIO DO IMÓVEL OU O RESPONSÁVEL PELO PAGAMENTO, FICAM AFASTADAS AS PRELIMINARES DE COMPLEXIDADE DA MATÉRIA E DE ILEGITIMIDADE PASSIVA DA EMPESA RÉ. (...)”. (fl. 145)
+    Opostos embargos declaratórios, estes foram parcialmente acolhidos a fim de corrigir erro material, cujo acórdão proferido teve o seguinte teor:
+    “Embargos de Declaração. Cobrança de cotas condominiais. Alegação de existência de contradições e omissões no acórdão vergastado. Pré-questionamento da matéria constitucional. Reexame do mérito incabível. Existência de erro material. Embargos parcialmente acolhidos”. (fl. 165)
+    No apelo extremo, sustenta-se que ocorreu violação ao artigo 5º, inciso XXII, da Constituição Federal.
+    Decido.
+    Não assiste razão à agravante.
+    Verifico que, para se chegar a solução diversa do acórdão recorrido quanto à alegação de ilegitimidade passiva ad causam, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF.
+    Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. RESCISÃO DE CONTRATO DE COMPRA E VENDA DE VEÍCULO. RESTITUIÇÃO DOS VALORES PAGOS. ALEGADA ILEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA DECIDIDA À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR E DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE-AgR 625.148, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 7.4.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. USO DE MARCA. INDENIZAÇÃO. ILEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL, DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454/STF. 1. Caso em que entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional aplicada à espécie, bem como a análise do acervo fático-probatório dos autos e de cláusulas contratuais. Providências vedadas neste momento processual. 2. Agravo regimental desprovido” (AI-AgR 738.781, Rel. Min. Ayres Britto, Segunda Turma, DJe 19.8.2011).
+    Além disso, com relação à alegação de complexidade da prova no âmbito dos Juizados Especiais, observo que o Supremo Tribunal Federal já apreciou matéria análoga à dos autos no julgamento do ARE-RG 640.671, DJe 6.9.2011, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 7 de março de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
