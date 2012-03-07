@@ -1,0 +1,14 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este manejado com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Amazonas, que, por meio do seu Presidente, negou seguimento ao recurso extraordinário interposto pela AMAZONPREV, por ausência de preparo.
+    2. Pois bem, a parte recorrente alega que “integra a Administração Indireta do Poder Executivo Estadual, em conformidade com inciso I do art. 11 da Lei Delegada n ° 67, de 18 de maio de 2007, gozando das prerrogativas processuais reservadas aos integrantes da Fazenda Pública” (fls. 333).
+    4. Tenho que o recurso não merece acolhida. De saída, anoto que, nos termos da jurisprudência do Supremo Tribunal Federal, o pagamento do preparo é de ser comprovado no ato de interposição do recurso. Confiram-se, por amostragem, os seguintes precedentes: RE 586.808-AgR, da relatoria do ministro Gilmar Mendes; bem como AIs 522.181-AgR, da minha relatoria; 799.010-ED, da relatoria do ministro Ricardo Lewandowski; e 753.114, da relatoria da ministra Cármen Lúcia, este último assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. DESERÇÃO: AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO DO PREPARO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    É pacífica a jurisprudência do Supremo Tribunal Federal no sentido de que compete à parte recorrente comprovar o recolhimento do preparo no ato da interposição do recurso. Precedentes.”
+    5. De mais a mais, a decisão agravada afina com a jurisprudência desta nossa Casa de Justiça no sentido de que a dispensa do preparo apenas beneficia os entes de direito público, não alcançando as pessoas jurídicas de direito privado, ainda que integrem a Administração Indireta. Leia-se a ementa do AI 783.136-AgR, da relatoria do ministro Eros Grau:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ENTIDADE PARAESTATAL. LEI ESTADUAL N. 12.398/98. PARANAPREVIDÊNCIA. INAPLICABILIDADE DE EXECUÇÃO PELO RITO DOS PRECATÓRIOS [ART. 730, CPC]. O Supremo Tribunal Federal fixou entendimento no sentido de que as entidades paraestatais que possuem personalidade de pessoa jurídica de direito privado não fazem jus aos privilégios processuais concedidos à Fazenda Pública. Precedentes. Agravo regimental a que se nega provimento.”
+    5. No mesmo sentido: AREs 787.990, da relatoria do ministro Luiz Fux; e 663.084, da relatoria do ministro Ricardo Lewandowski; bem como AIs 832.724, da relatoria do ministro Dias Toffoli; 829.116, da relatoria do ministro Celso de Mello; e 705.223, da relatoria da ministra Cármen Lúcia.
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 07 de março de 2012.
+Ministro AYRES BRITTO
+Relator
