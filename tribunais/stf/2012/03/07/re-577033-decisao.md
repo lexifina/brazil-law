@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado pelo Tribunal de Justiça do Estado de São Paulo, que entendeu ser inválida a cobrança da taxa de licença de localização e funcionamento, instituída pelo Município de Santos, de escritórios de advocacia.
+    Alega-se violação do disposto nos arts. 5º, caput e LV; 30, I e III, e 145, II, da Constituição federal.
+    Decido.
+    O Plenário do Supremo Tribunal Federal, no julgamento do RE 220.316 (rel. min. Ilmar Galvão, DJ de 26.06.2001), firmou o entendimento de que é constitucional a instituição de taxas similares pelos municípios em razão do exercício do poder de polícia. Nesse sentido:
+    “TRIBUTÁRIO. MUNICÍPIO DE PORTO ALEGRE. TAXA DE FISCALIZAÇÃO DE LOCALIZAÇÃO E FUNCIONAMENTO. ESCRITÓRIO DE ADVOGADO. CONSTITUCIONALIDADE. O Supremo Tribunal Federal tem sistematicamente reconhecido a legitimidade da exigência, anualmente renovável, pelas Municipalidades, da taxa em referência, pelo exercício do poder de polícia, não podendo o contribuinte furtar-se à sua incidência sob alegação de que o ente público não exerce a fiscalização devida, não dispondo sequer de órgão incumbido desse mister. Recurso extraordinário conhecido e provido.” (RE 198.904, rel. min. Ilmar Galvão, Primeira Turma, DJ de 27.09.1996)
+    “EMENTA: TAXA DE LICENÇA PARA LOCALIZAÇÃO E FUNCIONAMENTO. EXERCÍCIO DO PODER DE POLÍCIA. ART. 145, II, DA CONSTITUIÇÃO. - Ausência de prequestionamento - fundamento suficiente, que não restou impugnado pela agravante. - A cobrança da taxa de localização e funcionamento, pelo Município de São Paulo, prescinde da efetiva comprovação da atividade fiscalizadora, diante da notoriedade do exercício do poder de polícia pelo aparato administrativo dessa municipalidade. Precedentes. - Agravo regimental a que se nega provimento.” (RE 222.252-AgR, rel. min. Ellen Gracie, Primeira Turma, DJ de 18.05.2001)
+    Ademais, por ocasião do julgamento do RE 588.322 (rel. min. Gilmar Mendes), leading case de repercussão geral, o Pleno desta Corte reconheceu ser necessária a efetiva atividade do exercício de poder de polícia, que não se limita à fiscalização presencial (in loco).
+    Saliento que a orientação firmada por esta Corte não coloca a Administração em uma posição confortável. Dizer que a incidência do tributo prescinde de fiscalização porta a porta não implica reconhecer que o Estado pode permanecer inerte no seu dever de adequar a atividade pública e privada às balizas estabelecidas pelo sistema jurídico. A existência do órgão de fiscalização e a cobrança do tributo apenas reforçam a responsabilidade do Estado e de seus agentes pelas consequências advindas da inobservância do regramento que justifica a tributação.
+    Dessa orientação divergiu o Tribunal de origem.
+    Do exposto, dou provimento ao recurso extraordinário, para denegar a segurança.
+    Custas ex lege. Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 7 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
