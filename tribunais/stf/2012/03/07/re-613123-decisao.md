@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Empresa de Transportes Covre Ltda. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Regional Federal da 3º Região, assim ementado:
+    “APELAÇÃO EM MANDADO DE SEGURANÇA – PRELIMINAR ARGÜIDA PELA IMPETRANTE EM CONTRA-RAZÕES REJEITADA – CONTRIBUIÇÃO AO SEGURO ACIDENTE DO TRABALHO – SAT – ART. 7º, INCISO XXVIII, C.C ART. 195, I, DA CF – OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DA ISONOMIA – INOCORRÊNCIA – ART. 22 DA LEI Nº 8.212/91 – ATIVIDADE ECONÔMICA RELACIONADA COM O GRAU DE RISCO DEFINIDA POR DECRETO REGULAMENTAR – POSSIBILIDADE – APELO DO INSS E REMESSA OFICIAL PROVIDOS – SENTENÇA REFORMADA – DENEGADA A SEGURANÇA – REMESSA OFICIAL PROVIDOS – SENTENÇA REFORMADA – DENEGADA A SEGURANÇA – RECURSO DA IMPETRANTE PREJUDICADO.
+    1. O recurso do INSS está em consonância com o disposto no art. 514 do CPC e as razões recursais se contrapõem à sentença proferida. Rejeitada a preliminar suscitada pela impetrante, em suas contra-zaões.
+    2. A contribuição ao Seguro Acidente de Trabalho – SAT está prevista no art. 7º, inciso XXVIII, da CF.
+    3. É sobre o pagamento efetuado ao empregado que irá incidir a contribuição para o financiamento das prestações de acidente do trabalho, que fica a cargo do empregador (art. 195, I, da CF).
+    4. Estando a exação fundamentada no inciso I do art. 195 da CF, não há necessidade de que seja ela cobrada mediante lei complementar. (Precedentes do STF).
+    5. Não há ofensa ao princípio da legalidade. O art. 22 da Lei nº 8.212/91 descreve o sujeito passivo, a hipótese de incidência, a base de cálculo e as alíquotas 1%, 2% e 3%, de acordo com o grau de risco da atividade preponderante da empresa, preenchendo, assim, os requisitos necessários à cobrança da exação.
+    6. Não é inconstitucional a legislação que, ao fixar alíquotas distintas (1%, 2% e 3%) para a incidência da contribuição ao Seguro Acidente de Trabalho, remeteu ao regulamento dispor sobre o grau de risco das atividades desenvolvidas pelas empresas, dada a impossibilidade de a lei prever todas as condições sociais, econômicas e tecnológicas que emergem das atividades laborais. (Lei nº 8.212/91, com as modificações introduzidas pela Lei nº 9.528/97 e Lei nº 9.732/98).
+    7. Os decretos regulamentadores (nº 2.173/97 e nº 3.048/99), apenas explicitaram a lei, para propiciar a sua aplicação, não extrapolaram os seus limites.
+    8. Inocorre violação ao princípio da igualdade, eis que o tratamento diferenciado motivado pela norma é a atividade preponderante da empresa, de acordo com o seu grau de risco, de nada importando o fato de que os empregados com as mesmas funções possam acarretar tributação distinta.
+    9. Revestindo-se a exação de legalidade e constitucionalidade, não colhe a tese que defende a suspensão de sua exigibilidade ou a redução da alíquota. Do mesmo modo, não há que se falar em compensação dos valores recolhidos a esse título nem tampouco em recolhimento da prescrição e decadência dos valores a serem compensados.
+    10. Rejeitada a preliminar argüida pela impetrante em contra-razões. Apelo do INSS e remessa oficial providos. Sentença reformada. Denegada a segurança. Prejudicado o apelo da parte impetrante” (fls. 316/317).
+    Opostos embargos de declaração (fls. 324 a 327), foram parcialmente providos para esclarecer que a legalidade e constitucionalidade declaradas no acórdão recorrido tratam-se da contribuição exigida para custeio tanto dos benefícios decorrentes de acidente de trabalho, como também da aposentadoria especial. (fls. 331 a 335).
+    Contra-arrazoado (fls. 402 a 410), o recurso extraordinário (fls. 370 a 384) foi admitido (fl. 414).
+    O recurso especial paralelamente interposto ao extraordinário restou não provido, decisão esta transitada em julgado.
+    A recorrente sustenta contrariedade aos artigos 5º, II; 84, IV e 195 § 4º, da Constituição Federal. Aduzem, em síntese, a inconstitucionalidade da contribuição para custeio do SAT.
+    Decido.
+    A irresignação não merece prosperar, uma vez que o Plenário do Supremo Tribunal Federal, no julgamento RE nº 343.446/SC, Relator o Ministro Carlos Velloso, DJ de 4/4/03, decidiu pela constitucionalidade da contribuição para o custeio do Seguro de Acidente do Trabalho – SAT. Colhe-se o referido acórdão:
+    “CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO: SEGURO DE ACIDENTE DO TRABALHO – SAT. Lei 7.787/89, arts. 3º e 4º; Lei 8.212/91, art. 22, II, redação da Lei 9.732/98. Decretos 612/92, 2.173/97 e 3.048/99. C.F., artigo 195, § 4º; art. 154, II; art. 5º, II; art. 150, I.
+    I. – Contribuição para o custeio do Seguro de Acidente do Trabalho – SAT: Lei 7.787/89, art. 3º, II; Lei 8.212/91, art. 22, II: alegação no sentido de que são ofensivos ao art. 195, § 4º, c/c art. 154, I, da Constituição Federal: improcedência. Desnecessidade de observância da técnica da competência residual da União, C.F., art. 154, I. Desnecessidade de lei complementar para a instituição da contribuição para o SAT.
+    II. - O art. 3º, II, da Lei 7.787/89, não é ofensivo ao princípio da igualdade, por isso que o art. 4º da mencionada Lei 7.787/89 cuidou de tratar desigualmente aos desiguais.
+    III. - As Leis 7.787/89, art. 3º, II, e 8.212/91, art. 22, II, definem, satisfatoriamente, todos os elementos capazes de fazer nascer a obrigação tributária válida. O fato de a lei deixar para o regulamento a complementação dos conceitos de ‘atividade preponderante’ e ‘grau de risco leve, médio e grave’, não implica ofensa ao princípio da legalidade genérica, C.F., art. 5º, II, e da legalidade tributária, C.F., art. 150, I.
+    IV. – Se o regulamento vai além do conteúdo da lei, a questão não é de inconstitucionalidade, mas de ilegalidade, matéria que não integra o contencioso constitucional.
+    V. – Recurso extraordinário não conhecido”.
+    No mesmo sentido:
+    “EMENTA: Embargos de declaração em recurso extraordinário. 2. Decisão monocrática do relator. Embargos recebidos como agravo regimental. 3. Constitucionalidade da contribuição para o Seguro de Acidentes do Trabalho - SAT. Decisão em conformidade com a jurisprudência desta Corte. Precedentes. 4. Agravo regimental a que se nega provimento” (RE nº 362.246/ES-ED, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 14/11/07).
+    “EMENTA: Contribuição social para custeio do seguro de Acidentes do Trabalho - SAT: constitucionalidade da instituição, mediante lei ordinária, da referida contribuição - afastadas as alegações de ofensa aos princípios da isonomia e da legalidade - afirmada pelo plenário do Tribunal (cf. RE 343.446, 20.3.2003, Carlos Velloso, Inf. STF 301)” (AI nº 623.329/SP-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 14/9/07).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 7 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
