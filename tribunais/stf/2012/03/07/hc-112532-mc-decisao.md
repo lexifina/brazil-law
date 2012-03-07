@@ -1,0 +1,26 @@
+Despacho: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Maria Cláudia de Seixas e outros em favor de José Eduardo Comito Dutra Júnior, contra acórdão formalizado pela Sexta Turma do Superior Tribunal de Justiça, nos autos do HC n. 185.755/SP, Rel. Min. Maria Thereza de Assis Moura. Eis o teor da ementa desse julgado:
+    “HABEAS CORPUS. ATENTADO VIOLENTO AO PUDOR. DUAS VÍTIMAS. CONTINUIDADE DELITIVA RECONHECIDA. PRETENSÃO DE AFASTAR UMA DAS CONDENAÇÕES. ANTERIOR INTERPOSIÇÃO DE RECURSO ESPECIAL, NÃO ADMITIDO. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. VIA INADEQUADA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. EXAME APROFUNDADO DAS PROVAS. ORDEM DENEGADA.
+    1. É imperiosa a necessidade de racionalização do habeas corpus, a bem de se prestigiar a lógica do sistema recursal. As hipóteses de cabimento do writ são restritas, não se admitindo que o remédio constitucional seja utilizado em substituição a recursos ordinários (apelação, agravo em execução, recurso especial), tampouco como sucedâneo de revisão criminal.
+    2. Não é possível a formulação de habeas corpus após o não conhecimento do agravo de instrumento. Para o enfrentamento de teses jurídicas na via restrita, imprescindível que haja ilegalidade manifesta, relativa a matéria de direito, cuja constatação seja evidente e independa de qualquer análise probatória.
+    3. O writ não foi criado para a finalidade aqui empregada, de afastar a continuidade delitiva pelo reconhecimento da atipicidade de um dos delitos. A prevalecer tal postura, o recurso especial tornar-se-á totalmente inócuo. Certamente não foi essa a intenção do legislador constituinte ao prever o habeas corpus no art. 5º, LXVIII, da Constituição Federal, e, em seu art. 105, III, definir as hipóteses de cabimento do recurso especial ao Superior Tribunal de Justiça.
+    4. Não se vislumbra ilegalidade manifesta a ser reconhecida. A matéria suscitada demanda o exame aprofundado das provas carreadas aos autos, inviável nesta sede. O magistrado a quo e o Tribunal de origem, analisando detidamente os elementos de convicção produzidos, concluíram que há provas suficientes para configurar os crimes cometidos contra as duas vítimas, não sendo possível a inversão do decidido nesta sede.
+    5. Habeas corpus denegado”.
+    Conforme consta dos autos, o paciente foi condenado à pena de 4 anos e 8 meses de reclusão pela prática do delito tipificado no art. 214, caput, por duas vezes, c/c art. 224, a, c/c art. 225, §1º, inciso I, na forma do art. 71, caput, todos do Código Penal.
+    Inconformada, a defesa interpôs recurso de apelação perante o Tribunal de Justiça do Estado de São Paulo.
+    A 9ª Câmara do 5º Grupo da Seção Criminal, por maioria, negou provimento ao recurso. Vencido o Desembargador que votou pela absolvição do paciente em relação a um dos crimes, afastando a continuidade delitiva.
+    Contra essa decisão a defesa interpôs embargos infringentes, que foram rejeitados.
+    Impetrou-se, então, habeas corpus perante o Superior Tribunal de Justiça, cuja ordem foi denegada, consoante se depreende da ementa transcrita.
+    Neste writ, a defesa reitera os fundamentos submetidos a exame do Superior Tribunal de Justiça para requerer seja reconhecida a atipicidade do delito com relação a uma das vítimas, afastando, por consequência, a continuidade delitiva.
+    Requer a concessão de medida liminar “para sustar o andamento processual nos autos do agravo de instrumento 753.922, em trâmite perante este e. Supremo Tribunal Federal, até que haja apreciação e julgamento do mérito do presente writ. SUBSIDIARIAMENTE, em caráter liminar, seja expedida a ordem de SALVO-CONDUTO, diante da iminência de sofrer coação em sua liberdade de locomoção, com o trânsito em julgado do Agravo de Instrumento 753.922, em trâmite pela 2ª Turma deste E.STF, de relatoria do Min. JOAQUIM BARBOSA, sendo que a qualquer instante pode ser expedido mandado de prisão para cumprimento da pena no regime semiaberto, até o julgamento final do habeas corpus”.
+    Passo a decidir tão somente o pedido liminar.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora .
+    No caso dos autos, em princípio, não estão presentes os requisitos exigidos para a concessão da medida cautelar.
+    Compulsando os documentos juntados aos autos, bem como o andamento processual do AI 753.922/STF, de relatoria da Min. Cármen Lúcia, registro a ocorrência do trânsito em julgado da condenação, o que inviabiliza o pedido de suspensão do trâmite do agravo.
+    Ademais, quanto à possibilidade de suspensão dos efeitos da condenação, observo que as razões de decidir da Corte Estadual por ocasião do julgamento do recurso de apelação, a priori, são idôneas, tendo em vista que as provas colacionadas são suficientes para embasar a condenação do paciente pela prática do delito tipificado no art. 214, caput, por duas vezes, c/c art. 224, a, c/c art. 225, §1º, inciso I, na forma do art. 71, caput, todos do Código Penal.
+    Nesse contexto, salvo melhor juízo quanto ao mérito, indefiro o pedido de medida liminar.
+    Estando os autos suficientemente instruídos, abra-se vista ao Procurador-Geral da República.
+    Publique-se.
+    Brasília, 7 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
