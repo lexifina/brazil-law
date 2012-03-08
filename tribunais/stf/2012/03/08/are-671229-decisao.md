@@ -1,0 +1,19 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sexta Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. RITO SUMARÍSSIMO. CONVERSÃO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. ABONO EMERGENCIAL. ADICIONAL DE ATIVIDADES EXTERNAS. IMPOSSIBILIDADE DE CONCESSÃO A DIRIGENTES SINDICAIS. ACORDO COLETIVO DE TRABALHO. JUROS DE MORA. JUSTIÇA GRATUITA. PAGAMENTO DE DESPESAS PELO SINDICATO. HONORÁRIOS ADVOCATÍCIOS. DECISÃO DENEGATÓRIA. MANUTENÇÃO. Não há como assegurar o processamento do recurso de revista quando o agravo de instrumento interposto não desconstitui os fundamentos da decisão denegatória que subsiste por seus próprios fundamentos. Agravo de instrumento desprovido”.
+    No recurso extraordinário sustenta-se violação dos artigos 2º, 5º, incisos II, XXXV, LIV, LV e LXXIV, 21, inciso X, 22, inciso I, 37, caput, 44, 48, 97 e 114 da Constituição Federal.
+    Decido.
+    No que se refere aos artigos 2º, 5º, incisos XXXV e LV, 21, inciso X, 22, inciso I, 44, 48, 97 e 114 da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por ouro lado, não merece trânsito a alegada violação do artigo 5º, inciso II, da Constituição Federal, uma vez que a afronta ao referido dispositivo constitucional seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis :
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” .
+    Ademais, o Tribunal de origem decidiu a controvérsia em tela com base na legislação infraconstitucional pertinente e no regime contratual estabelecido entre as partes, cujo reexame é inviável em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, anote-se:
+    “DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POR DESEMPENHO DE FUNÇÃO - GADF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA. 1. É inadmissível recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal. 2. Agravo regimental improvido” (AI nº 769.895/MG, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 12/3/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE GRATIFICAÇÃO DE FUNÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL E DO REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 301.065/GO, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 5/2/10).
+    No mesmo sentido as seguintes decisões monocráticas: ARE nº 671.424/DF, Relator o Ministro Ricardo Lewandowski , DJe de 17/2/12; ARE nº 652.657/RS, Relator o Ministro Joaquim Barbosa , DJe de 7/12/11; e ARE nº 659.022/RS, Relator o Ministro Luiz Fux , DJe de 2/12/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 8 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
