@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – AÇÃO COLETIVA – COISA JULGADA. Os efeitos da coisa julgada erga omnes ou ultra partes, a que aludem os incisos II e III do art. 103 do Código de Defesa do Consumidor, não beneficiarão os autores das ações individuais, se não for requerida sua suspensão no prazo de trinta dias, a contar da ciência nos autos do ajuizamento da ação coletiva. Logo, como no presente caso não há notícia do referido requerimento pela parte autora, não há falar que a decisão da ação coletiva surtiu efeito para a reclamante. DANO MORAL – VALOR DA INDENIZAÇÃO. REVISTA ÍNTIMA. Tal abuso não se encontra no poder diretivo do empregador, sendo repudiado pela doutrina, pela jurisprudência e, principalmente, pelo ordenamento jurídico brasileiro (arts. 5º, V e X, da Constituição Federal e 159 do Código Civil). Agravo de instrumento desprovido”.
+    Opostos embargos declaratórios, estes foram rejeitados.
+    No apelo extremo, sustenta-se que ocorreu violação ao artigo 5º, incisos II, V, X, XXII e XXXVI, da Constituição Federal.
+    Decido.
+    Não assiste razão à agravante.
+    Verifico que, para se chegar à solução diversa do acórdão recorrido quanto à alegação de existência de coisa julgada e inocorrência de dano moral em razão da revista pessoal na empregada, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF.
+    Ademais, esta Corte consignou entendimento no sentido de que controvérsia referente aos limites objetivos da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+    Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009 e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido”.
+    Além disso, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado de Súmula 636/STF). Sobre o tema, confiram-se o AI-AgR 825.423, Rel. Min. Ricardo Lewandowski, DJe 27.6.2011; e o AI-AgR 745.965, de minha relatoria, DJe 29.6.2011:
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 8 de março de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
