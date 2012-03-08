@@ -1,0 +1,21 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pelo Município de Sertãozinho/SP, contra acórdão proferido, em 25/10/2011, pela 3ª Turma do Tribunal Regional do Trabalho da 15ª Região nos autos do Processo 0133500-80.2008.5.15.0054 RO.
+    O reclamante alega, em síntese, que o juízo reclamado, ao negar provimento ao recurso ordinário que interpôs, aplicou a Súmula 331, IV, do Tribunal Superior do Trabalho, promovendo, assim, o afastamento da incidência do art. 71, § 1º, da Lei 8.666/1993, e a manutenção da sentença que o condenou a responder subsidiariamente pelo pagamento de créditos trabalhistas devidos por empresa por ele contratada.
+    Defende, desse modo, a ocorrência de afronta ao que decidido por esta Corte no julgamento da Ação Declaratória de Constitucionalidade 16, Rel. Min. Cezar Peluso, bem como ao enunciado da Súmula Vinculante 10.
+    Requer, liminarmente, a suspensão dos efeitos da decisão colegiada reclamada. No mérito, pede a cassação do mencionado acórdão, “determinando que outro seja proferido, em consonância com a decisão proferida pelo Supremo Tribunal Federal”.
+    É o relatório necessário.
+    Decido.
+    Examinados os autos, tenho que é o caso de indeferimento do pedido de liminar.
+    Com efeito, o Plenário deste Tribunal, no julgamento da ADC 16, Rel. Min. Cezar Peluso, DJe de 9/9/2011, declarou a plena constitucionalidade do art. 71 da Lei 8.666/1993, por entender que a mera inadimplência da empresa prestadora contratada não poderia transferir automaticamente à Administração Pública a responsabilidade pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais resultantes da execução do contrato.
+    No entanto, reconheceu-se que isso não significaria que eventual omissão da Administração Pública, na obrigação de fiscalizar as obrigações do contratado, não pudesse gerar essa responsabilidade, se demonstrada a culpa in vigilando do ente público envolvido.
+    No caso em exame, a autoridade reclamada, a partir do conjunto fático-probatório presente nos autos da reclamação trabalhista, parece ter entendido configurada a culpa in vigilando do reclamante, condenando-o subsidiariamente ao pagamento das verbas não adimplidas. É o que se depreende da leitura do seguinte trecho da decisão reclamada:
+    “No caso dos autos, é incontroverso que a prestação de serviços da parte autora, contratada pela reclamada empregadora, se deu em favor da recorrente, tanto que foi reconhecida pela sentença. É fato, também, que o recorrente foi omisso quanto à fiscalização no cumprimento das obrigações trabalhistas por parte da contratada que contratou a parte reclamante. Agiu, portanto, com culpa in vigilando, e, dessa forma a Lei n. 8.666/1993 não pode constituir óbice à sua responsabilização, por afronta ao disposto no art. 67 do mesmo diploma legal, que disciplina o dever do contratante de fiscalizar o contrato” (grifos meus).
+    Dessa forma, não me parece, nessa análise perfunctória dos autos, própria do momento processual em espécie, que o órgão judiciário laboral apontado tenha afastado a aplicação do art. 71, § 1º, da Lei 8.666/1993. Nesse mesmo sentido, foi a decisão proferida pelo Ministro Celso de Mello na Rcl 12.519-MC/SP, caso análogo a este, em que S. Exa. assentou:
+    “De outro lado, e no que concerne ao suposto desrespeito à diretriz resultante da Súmula Vinculante nº 10/STF, não parece verificar-se, na decisão de que ora se reclama, a existência de qualquer juízo, ostensivo ou disfarçado, de inconstitucionalidade do art. 71 da Lei nº 8.666/1993.
+    Na realidade, tudo parece indicar que, em referido julgamento, o órgão reclamado teria apenas reconhecido, no caso concreto, a omissão do Poder Público, em virtude do descumprimento de sua obrigação de fiscalizar a fiel execução das obrigações trabalhistas pela contratada, não havendo, aparentemente, formulado juízo de inconstitucionalidade, o que afastaria, ante a inexistência de qualquer declaração de ilegitimidade inconstitucional, a pretendida ocorrência de transgressão ao enunciado constante da Súmula Vinculante 10/STF”.
+    Isso posto, indefiro o pedido de medida liminar.
+    Requisitem-se informações.
+    Após, ouça-se a Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 8 de março de 2012.
+Ministro Ricardo Lewandowski
+Relator
