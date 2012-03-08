@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “CONSIGNAÇÃO EM PAGAMENTO - SABESP - CABIMENTO - Recusa da concessionária à redução da tarifa (50%) para a entidade assistencial pela existência de débito - Possibilidade de discussão sobre questões de fato e de direito, inclusive a existência da dívida, bem como tudo quanto pertinente ao conhecimento de uma declaratória - A prestadora de serviços de saneamento básico é sociedade de economia mista, sujeita à lei e à Constituição Federal, submetendo-se ao controle do Judiciário e ao principio da universalidade da jurisdição (art. 5º, XXXV) - Natureza assistencial incontroversa - Não cabe à SABESP por meio de normas internas desqualificar a natureza da entidade, sob a alegação de que há débito pendente, pois tal critério não tem amparo legal para o fim de enquadramento do consumidor nesta ou naquela categoria - Relação de consumo - Cláusula abusiva, nula de pleno direito (art. 51. IV, CDC) - Regularidade dos depósitos evidenciada (art. 893, I, CPC) - Prestações periódicas - Possibilidade de consignação após a sentença - Efetividade e economia processual - Recurso improvido.” (fls. 92)
+    Alega-se violação do disposto nos arts. 2º; 5º, LV; 93, IX, e 175, da Constituição federal.
+    O recurso não merece seguimento.
+    Verifico que inexiste a alegada ofensa aos arts. 5°, LV, e 93, IX, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    Ademais, observo que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279, 280 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 8 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
