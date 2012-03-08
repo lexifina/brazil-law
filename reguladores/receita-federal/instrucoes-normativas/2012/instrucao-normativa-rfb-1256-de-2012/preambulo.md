@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1256, de 7 de março de 2012
+Altera a Instrução Normativa RFB nº 1.207, de 3 de novembro de 2011, que dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) nas operações com derivativos.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 3º da Lei nº 12.543, de 8 de dezembro de 2011, resolve:
