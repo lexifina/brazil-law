@@ -1,0 +1,13 @@
+DECISÃO
+EFEITO SUSPENSIVO – IMPROPRIEDADE DA VIA – INDEFERIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    CESP – Companhia Energética de São Paulo, em peça subscrita por profissional da advocacia regularmente credenciado, pleiteia a concessão de efeito suspensivo à Execução Trabalhista nº 129500-14-2006-5-15-0056 – em tramitação na Vara do Trabalho de Andradina – até o julgamento deste agravo, com o fim de evitar prejuízos futuros irreparáveis. Sustenta haver sido intimada, em 17 de fevereiro último, a promover a integração da sexta parte na folha de pagamento da competência de abril/2012, sob pena de multa diária de mil reais, tendo o Juízo consignado que a ação rescisória em andamento não suspende a execução.  Ressalta ser de quase 20% o acréscimo aos salários e aduz que, até a conclusão do processo, pode ocorrer de os reclamantes receberem um montante significativo, de difícil recuperação depois. Alega que o Tribunal Superior do Trabalho deu provimento ao recurso ordinário para julgar procedente o pedido formalizado na ação rescisória, assentando a improcedência dos pleitos constantes da reclamação trabalhista, conforme a cópia do acórdão anexada.
+    Observo não ter sido apresentado qualquer documento alusivo à referida execução trabalhista.
+    O processo está no Gabinete e revela ação rescisória ajuizada pela empresa.
+    2. Observem a organicidade atinente ao Direito instrumental. O provimento, no Tribunal Superior do Trabalho, do recurso ordinário interposto pela Companhia Energética de São Paulo, resultando, então, na procedência da ação rescisória formalizada perante o Tribunal Regional do Trabalho da 15ª Região, tem eficácia desconstitutiva relativamente ao pronunciamento originário e declaratória no tocante ao mérito da matéria. Em outras palavras, o julgamento do Superior retirou do mundo jurídico o acórdão anteriormente proferido pelo Regional – objeto da rescisão –, sendo descabido o prosseguimento da execução sem que haja título executivo judicial que lhe dê suporte.
+    Apesar de causar perplexidade a determinação do Juízo para que seja cumprida obrigação constante de ato insubsistente, a pretensão de garantir-se o respeito a acórdão do Tribunal Superior do Trabalho que já é eficaz na origem revela-se incongruente nos próprios termos e ofende o princípio básico de que o recurso aproveita a quem o interpõe. O tema não encontra solução nesta via, porquanto compete ao Tribunal Superior do Trabalho, se levado a atuar, zelar pela observância dos respectivos julgados.
+    3. Ante o quadro, indefiro o pedido formulado.
+    4. Publiquem.
+Brasília, 9 de março de 2012.
+Ministro MARCO AURÉLIO
+Relator
