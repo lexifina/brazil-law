@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 212):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. HOMOLOGAÇÃO DE ACORDO JUDICIAL – PARCELAS DE NATUREZA INDENIZATÓRIAS – INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA. A admissibilidade do recurso de revista contra acórdão proferido em agravo de petição depende de demonstração inequívoca de afronta direta à Constituição da República. Aplicabilidade da Súmula nº 266 desta Corte e do artigo 896, § 2º, da Consolidação das Leis do Trabalho.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXVI, e 97 da Constituição federal. Sustenta-se que é incabível a homologação do acordo visto que o provimento jurisdicional (condenação) transitou em julgado não sendo passível de mudança em fase de execução. Alega-se ainda que as partes não podem transigir sobre direito de terceiros. Conclui, afirmando que a decisão recorrida, ao deixar de aplicar o art. 832, § 6º, da CLT, violou a cláusula de reserva de plenário.
+    É o relatório. Decido.
+    A questão da apontada ofensa à coisa julgada, tal como posta, não pode ser analisada sem prévio exame da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Nesse sentido, RE 631.850-AgR (rel. min. Cármen Lúcia, DJe de 16.05.2011), AI 800.345 (rel. min. Marco Aurélio, DJe de 19.12.2011), AI 807.974 (rel. min. Gilmar Mendes, DJe de 28.06.2011), AI 804.434 (rel. min. Gilmar Mendes, DJe de 28.06.2011), AI 798.254 (rel. min. Marco Aurélio, DJe de 24.02.2011), AI 808.138 (rel. min. Ayres Britto, DJe de 06.10.2010), AI 806.547 (rel. min. Celso de Mello, DJe de 1º.09.2010), AI 808.146 (rel. min. Ayres Britto, DJe de 31.08.2010), AI 803.852 (rel. min. Marco Aurélio, DJe de 27.08.2010), entre outros.
+    Ademais, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 97, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 12 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
