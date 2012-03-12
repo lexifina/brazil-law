@@ -1,0 +1,30 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Maria Claudionora Amâncio Vieira em favor de Israel Amâncio Vieira contra decisão monocrática indeferitória da liminar no HC nº 173.587/SP, anteriormente aforado perante o Superior Tribunal de Justiça.
+       Narra a inicial que o paciente foi condenado pelo Juízo da comarca de Viradouro-SP à pena de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, no regime inicial semiaberto, por infração do disposto no art. 168, § 1º, III, e 171, ambos do Código penal.
+          Diante da inexistência de vaga no estabelecimento prisional adequado, o paciente passou a cumprir a pena em regime aberto. Entretanto, devido ao seu estado de saúde, está sendo submetido a tratamento médico na cidade de Campinas-SP.
+          Sem esclarecer pormenores sobre os fatos a ele imputados e os recursos porventura manejados, afirma que contra decisão do Tribunal de Justiça de São Paulo impetrou o HC nº 173.587/SP perante o Superior Tribunal de Justiça, oportunidade em que o Relator, Ministro Og Fernandes, indeferiu a liminar.
+          Salienta que o mencionado writ se encontra concluso ao Relator desde o dia 05.5.2011, ainda sem julgamento, não obstante ter o paciente 67 anos e ser portador de doença crônica. Sugere o agravamento do estado de saúde diante da iminência de prisão no regime semiaberto, daí evidenciado o perigo da demora para o deferimento da liminar.
+          Informa, ainda, que formulou perante o Superior Tribunal de Justiça pedido de extensão da liminar concedida em favor de co-acusado, nos autos do HC nº 170.780/SP, de Relatoria do Ministro Og Fernandes, conclusos para julgamento desde 16.11.2011.
+          Invocando os princípios constitucionais relativos à razoável duração dos processos e ao amparo à pessoa idosa, pleiteia, liminarmente, expedição de salvo-conduto, a fim de que o paciente permaneça em liberdade até decisão final dos habeas corpus ajuizados perante o Superior Tribunal de Justiça.
+          No mérito, requer a confirmação do pedido liminar e a determinação, à autoridade coatora, do imediato julgamento do habeas corpus de que trata o feito, bem como do pedido de extensão dos efeitos da liminar concedida no HC nº 170.780/SP.
+       O Ministro Og Fernandes, relator do HC nº 173.587/SP, indeferiu o pedido de liminar formulado no writ, nos seguintes termos:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de ISRAEL AMÂNCIO VIEIRA – condenado por apropriação indébita previdenciária e estelionato – contra acórdão proferido pelo Tribunal de Justiça de São Paulo.
+          Alega o impetrante, em essência, que a Sexta Turma desta Corte, por meio do HC-56.566/SP, “concedeu a ordem a fim de que fosse novamente julgada a apelação (…) com a prévia e indispensável intimação pessoal do defensor nomeado, porém tal decisão foi desrespeitada pela (…) Tribunal de Justiça do Estado de São Paulo,que (…) julgou que a ‘decretação da nulidade do julgamento do apelo de um dos acusados, por vício da intimação do seu defensor dativo, não pode beneficiar os demais corréus por absoluta falta de prejuízo e interesse’. Por isso, a Corte paulista determinou o desmembramento dos autos, a fim de que o julgamento no Tribunal Estadual fosse renovado apenas em relação ao corréu”.
+          Requer, em sede inicial, que o paciente seja imediatamente posto em liberdade.
+          Decido.
+          Da análise dos autos, em sede de cognição sumária, não verifico manifesta ilegalidade a ensejar o deferimento da medida de urgência. Observo que o habeas corpus impetrado nesta Corte, a que alude o impetrante, dirigiu-se em benefício de um único corréu, que contava com defensor dativo, o que me parece não ter sido o caso do paciente.
+          Assim, o constrangimento não se revela de plano, impondo uma análise mais detalhada dos elementos de convicção trazidos aos autos, o que ocorrerá por ocasião do julgamento do mérito.
+          Ante o exposto, indefiro o pedido liminar.(...)”
+          Infere-se dos trechos transcritos que o pedido de liberdade não encontra consonância com o objeto do HC nº 173.587/SP, que trata da extensão dos efeitos da anulação do julgamento da apelação realizado no Tribunal de Justiça.
+          Nesse sentido, o Ministro Og Fernandes indeferiu a liminar, ao entendimento de que a suscitada nulidade do julgamento da apelação beneficiando apenas um dos acusados não ensejou manifesta ilegalidade.
+          Destacou, na oportunidade, supostas diferenças na situação processual dos envolvidos, considerando que a defesa técnica do coacusado contava com patrocínio de defensor dativo. Ponderou que a apreciação do pleito reclamava aprofundamento da matéria, a ser realizada no julgamento colegiado.
+          Acresço que, embora o paciente tenha formulado pedido de liberdade naquele habeas corpus, a autoridade coatora não se pronunciou sobre a questão.
+          Desse modo, de todo inviável a análise do pedido, neste momento, pelo Supremo Tribunal Federal, sob pena de supressão de instância, em afronta às normas constitucionais de competência. Precedentes: HC 108.778/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 09.8.2011; HC 104.167/SP, rel. Min. Dias Toffoli, 1ª Turma, DJe 03.5.2011; HC 105.501, rel. Cármen Lúcia, 1ª Turma, DJe 13.4.2011; e HC 90.902/RS, rel. Min. Marco Aurélio, 1ª Turma, DJe 22.6.2007.
+          Nesse ponto, portanto, o habeas corpus sequer pode ser conhecido.
+          No que se refere à demora do julgamento, entendo que seria temerária a concessão de liminar antes de colher informações sobre o trâmite do processo.
+          Ante o exposto, indefiro o pedido de liminar.
+          Solicito, com urgência, informações ao Relator do HC nº 173.587/SP, Ministro Og Fernandes, do Superior Tribunal de Justiça acerca das eventuais circunstâncias ensejadoras da demora do julgamento do writ.
+          Após, vista ao Ministério Público Federal para parecer.
+          Publique-se.
+          Brasília,12 de março de 2012.
+Ministra Rosa Weber
+Relatora
