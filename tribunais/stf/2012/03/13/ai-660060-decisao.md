@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. BENEFÍCIO ANTERIOR À VIGÊNCIA DA LEI N. 9.032/1995. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça de São Paulo decidiu:
+    “ACIDENTE DO TRABALHO – REVISÃO DE BENEFÍCIO – AUXÍLIO-ACIDENTE – PRETENSÃO DE MODIFICAÇÃO DO PERCENTUAL PARA 50% APÓS A LEI N. 9.032/95 – INADMISSIBILIDADE – BENEFÍCIO CONCEDIDO COM ÉGIDE NA LEI VIGENTE À ÉPOCA DO INFORTÚNIO – IMPROCEDÊNCIA DO PEDIDO. Não se admite a majoração do benefício recebido pelo obreiro para 50% pela mera vigência de norma que altera o percentual de auxílio-acidente (Lei n. 9.032/95), quer porque os 40% que hoje percebe foram concedidos com base na lei vigente à época do acidente, quer porque ocorreria desrespeito a regra constitucional, pois não haveria a correspondente fonte de custeio para justificar tal alteração (art. 195, § 5º, da CF)” (fl. 38).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário: a) a insuficiência de argumentos para infirmar a fundamentação do acórdão recorrido; b) a ausência de contrariedade às normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas a, b, c e d do inc. III do art. 102 da Constituição da República; e c) a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta.
+    4. O Agravante reitera os argumentos expostos no recurso extraordinário e alega que o Tribunal a quo teria contrariado o § 5º do art. 195 da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Inicialmente, cumpre afastar os fundamentos da decisão agravada, pois a matéria posta a apreciação já foi julgada, em caso análogo, por este Supremo Tribunal, demonstrando-se cuidar de matéria constitucional, única a autorizar a análise em recurso extraordinário
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+    6. O Desembargador Relator observou:
+    “O benefício auxílio-acidente no percentual recebido atualmente pelo autor-recorrente (40%) foi concedido com base na legislação aplicável à época do infortúnio que o vitimou, ou seja, em atenção ao princípio ‘tempus regit actum’. Em outras palavras, o ordenamento jurídico existente no momento do acidente autorizava a concessão do benefício nos termos e no patamar que hoje recebe.
+    Aplicar as regras da Lei n. 9.032/1995, em casos como o presente, enseja, no fundo, modificar-se outros elementos referentes ao direito já consolidado, e não apenas o percentual. Não, por óbvio, o direito a continuar sendo segurado, mas o direito a um determinado valor base para os futuros pagamentos, tendo-se em vista que não se pode meramente elevar o percentual, isto pelo fato de o benefício que se concede não depender apenas disto, mas também do salário adotado para o cálculo. A citada norma também impôs outras alterações, como a impossibilidade de se optar entre o salário-de-contribuição e o de benefício. Passando, agora, a ser o cálculo necessariamente efetivado sobre este último. Desta feita, pretender-se apenas a alteração do percentual seria buscar a incidência da Lei n. 9.032/95 em parte, ou, mais precisamente, apenas naquilo que lhe for mais conveniente. Acrescente-se, ainda, que foi concedido tal amparo considerando-se as contribuições até então feitas pelo segurado, que são diversas das instituídas pela novel legislação” (fl. 40).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou a inaplicabilidade da Lei n. 9.032/1995 aos benefícios previdenciários concedidos antes de sua vigência:
+    “DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. AUXÍLIO-ACIDENTE. LEI N. 9.032/95. BENEFÍCIOS CONCEDIDOS ANTES DE SUA VIGÊNCIA. INAPLICABILIDADE. JURISPRUDÊNCIA PACIFICADA NA CORTE. MATÉRIA COM REPERCUSSÃO GERAL. REAFIRMAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL” (RE 613.033, Rel. Min. Dias Toffoli, Plenário, DJe 9.6.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
