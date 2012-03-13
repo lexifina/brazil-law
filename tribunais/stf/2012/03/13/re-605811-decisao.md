@@ -1,0 +1,15 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a , da Constituição) interposto de acórdão do Tribunal de Justiça de São Paulo, o qual reconheceu legítima a exclusão, no cálculo do teto remuneratório, de valores percebidos por servidor público a título de vantagem pessoal. Eis a ementa (fls. 691):
+    APELAÇÃO – Procuradores do Estado de São Paulo – verba honorária reduzida – inadmissibilidade – Emenda Constitucional nº 19/98 e Resolução GPG 139/02 – após a edição da Emenda Constitucional nº 19/98, extinguiu-se a isonomia de vencimentos para os cargos de atribuições iguais ou assemelhadas do mesmo Poder ou entre servidores dos Poderes Executivo, Legislativo e Judiciário, fazendo com que a remuneração dos Procuradores do Estado fosse disciplinada pelo artigo 39, parágrafo 4º, da Constituição Federal – a remuneração e o subsídio dos servidores que recebem dos cofres públicos não poderiam exceder o subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal – honorários advocatícios fixados em 10% sobre o valor da condenação – Recursos ‘ex-officio’ e voluntário da Fazenda do Estado improvidos; recurso dos autores provido.
+    Concluiu-se que as vantagens pessoais deveriam ser excluídas “(...) da base de cálculo do teto. E a verba honorária é de caráter pessoal, pois não é um benefício decorrente de trabalho em condições anormais ou excepcionais” (fls. 694).
+    Alega a parte recorrente vulneração do artigo 37, XI, da Constituição federal.
+    Não prospera o recurso, pois a decisão impugnada aplicou à espécie entendimento que, à época, prevalecia neste Tribunal quanto à questão afeta à limitação constitucional à remuneração de servidores públicos.
+    Esta Corte, em sessão administrativa de 24.06.1998, entendeu que as normas da EC 19/1998, referentes a teto remuneratório, não possuíam auto-aplicabilidade. Assim, a regulamentação anterior à emenda seria válida até que lei fixando o subsídio dos ministros desta Corte fosse editada, conforme estabelece o art. 48, XV, da Constituição federal.
+    Neste contexto, o Supremo Tribunal Federal já reconheceu a exclusão, mesmo após o advento da EC 19/1998, das parcelas de cunho pessoal para efeito de fixação de teto remuneratório dos servidores públicos. Confira-se, nesse sentido, o RE 362.211-AgR (rel. min. Cezar Peluso, DJ 04.03.2005), cuja ementa, na parte que interessa, transcrevo:
+    1. Servidor Público. Vencimentos. Teto. Vantagens pessoais percebidas pelo servidor público inativo. Exclusão. Art. 37, XI, da Constituição Federal, anterior à EC nº 19/98. Ainda após o advento da EC nº 19/98, continua vigente o sistema anterior excluindo-se do limite do teto as vantagens de caráter pessoal, por não editada a lei a que se refere o art. 48, XV, da Constituição.
+    Na mesma esteira, o AI 396.750 (rel. min. Sepúlveda Pertence, DJ 03.11.2004).
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 13 de março de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
