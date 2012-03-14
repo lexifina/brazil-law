@@ -1,0 +1,27 @@
+DECISÃO
+    Vistos.
+    Empresa Brasileira de Correios e Telégrafos – ECT interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 114 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma do Tribunal Regional Federal do 4º Região, assim ementado:
+    “TRIBUTÁRIO E PROCESSUAL CIVIL. CONTRIBUIÇÕES PARA O FGTS. EMPRESA PÚBLICA. CONTRATO DE PRESTAÇÃO DE SERVIÇO. VÍNCULO EMPREGATÍCIO. AUSÊNCIA DE COMPROVAÇÃO DE ILEGALIDADE DA COBRANÇA.
+    Não trouxe a parte qualquer elemento a comprovar o equívoco da Administração, de forma a desfazer o ato administrativo considerado abusivo. Sequer foi trazida aos autos cópia dos contratos de prestação de serviço que geraram a cobrança do FGTS.
+    Em outras situações, já restou chancelado, também, no mérito, o reconhecimento da relação do emprego relativamente a médicos e dentistas contratados pela empresa” (fl. 39).
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 10/3/06, conforme expresso na certidão de fl. 40, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, não devendo o presente recurso sequer ser conhecido, pois o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que o acórdão proferido pelo Tribunal de origem não cuidou explicitamente da referida norma, não tendo sido nem mesmo interpostos embargos de declaração, para sanar essa omissão. Incidem, na espécie, as Súmulas nºs 282 e 356 desta Corte.
+    No sentido dessa conclusão, cite-se o seguinte trecho do voto proferido pelo eminente Ministro Celso de Mello, nos autos do RE nº 294.267/RJ-AgR, Segunda Turma, DJ de 4/3/05, que bem aborda a questão:
+    “(...)
+    Impende advertir, neste ponto, na linha da orientação jurisprudencial firmada pelo Supremo Tribunal Federal, que o recurso extraordinário apenas deve ser apreciado nos estritos limites temáticos em que a controvérsia constitucional for examinada pelo Tribunal ‘a quo’ sem possibilidade de aplicação do princípio ‘jura novit curia’ (RTJ 173/335, Rel. Min. CELSO DE MELLO):
+    ‘Não se aplica ao julgamento do recurso extraordinário, pelo Supremo Tribunal Federal, o princípio ‘jura novit curia.’ (...).’ (RTJ 147/994-995, Rel. Min. CELSO DE MELLO)
+    ‘No exame do recurso extraordinário, no Supremo Tribunal Federal, não é aplicável o princípio ‘jura novit curia’ (...).’
+     (RE 99.978-ED/PR, Rel. Min. ALDIR PASSARINHO – grifei)
+    Isso significa, portanto, que a atividade jurisdicional desenvolvida pelo Supremo Tribunal Federal, em sede de recurso extraordinário, apresenta-se essencialmente limitada pela matéria constitucional, desde que esta, além de suscitada nas razões recursais deduzidas pela parte recorrente (RTJ 90/516, v.g.), tenha sido efetivamente prequestionada (debatida, portanto, de modo expresso, pelo acórdão recorrido).
+    Somente os temas de direito constitucional versados no acórdão impugnado (e igualmente veiculados no recurso extraordinário interposto) revelar-se-ão suscetíveis de apreciação pelo Supremo Tribunal Federal, cujo julgamento, no entanto, não poderá ‘exceder os limites da devolução, apreciando questões não ventiladas na decisão recorrida (...)’ (ADA PELLEGRINI GRINOVER, ANTONIO MAGALHÃES GOMES FILHO E ANTONIO SCARANCE FERNANDES, ‘Recursos no Processo Penal’ p. 298, item n. 196, 1996, RT).”
+    E dada a clareza com que cuidam dos aspectos concernentes ao prequestionamento, destaquem-se os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO - PREQUESTIONAMENTO - CONFIGURAÇÃO - RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente (...)” (RE nº 209.290/PE-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 22/5/09).
+    “(...) Diz-se prequestionada a matéria quando a decisão impugnada haja emitido juízo explícito a respeito do tema, inclusive mencionando o preceito constitucional previamente suscitado nas razões do recurso submetido à sua apreciação. Incidência da Súmula 282 do STF. Agravo regimental a que se nega provimento” (RE nº 288.929/SC-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 4/4/08).
+    Como se não bastasse, eventual análise acerca da alegada violação do princípio constitucional objeto do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula nº 279, desta Suprema Corte.
+    Ante o exposto, não conheço do agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de março de 2012.
+Ministro DIAS TOFFOLI
+Relator
