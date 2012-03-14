@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Maria Eufrasia da Silva, em favor de ADEVANDO PEREIRA MORAES, NEMIAS XAVIER DA SILVA e RAFAEL FERREIRA DA SILVA, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem pleiteada no HC 203.902/PE, Rel. Min. Jorge Mussi.
+    A impetrante narra, de início, que os pacientes foram denunciados pela suposta prática dos crimes previstos nos arts. 155, § 4°, II e IV, combinado com o art. 14, II, 298 e 288 (ADEVANDO) e 155, § 4°, II e IV, combinado com o art. 14, II, 288 e 304 (NEMIAS e RAFAEL) do Código Penal.
+    Ao final da instrução, todos foram condenados pelo Juízo da 16ª Vara Federal da Subseção Judiciária de Caruaru/PE, da seguinte forma: ADEVANDO, sete anos e dois meses de reclusão; NEMIAS, sete anos e dez meses de reclusão; e RAFAEL, seis anos e dez meses de reclusão, sendo-lhes negado o direito de recorrer em liberdade.
+    Relata ainda que, buscando a liberdade dos pacientes, a defesa manejou habeas corpus no Tribunal Regional Federal da 5ª Região e, posteriormente, outro writ no Superior Tribunal de Justiça, mas a ordem foi denegada em ambas as impetrações.
+    Destaca, outrossim, que a apelação interposta pela defesa no TRF da 5ª Região chegou naquela Corte Regional em 16/5/2011, mas o feito foi devolvido à origem, para a intimação dos réus quanto à decisão proferida nos embargos de declaração, sem efeitos modificativos.
+    No Superior Tribunal de Justiça, a ordem foi denegada em acórdão assim ementado:
+    “HABEAS CORPUS. FURTO QUALIFICADO, FALSIFICAÇÃO DE DOCUMENTO PARTICULAR, USO DE DOCUMENTO FALSO E QUADRILHA. DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. NECESSIDADE DE ACAUTELAMENTO DA ORDEM PÚBLICA. RISCO DE FUGA DO ESTABELECIMENTO PRISIONAL. APLICAÇÃO DA LEI PENAL. PRESOS EM FLAGRANTE E QUE ASSIM PERMANECERAM DURANTE TODA A INSTRUÇÃO CRIMINAL DIANTE DA PRESENÇA DOS REQUISITOS DA CUSTÓDIA CAUTELAR. PERSISTÊNCIA DOS MOTIVOS DO ENCARCERAMENTO PREVENTIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. Verificada a necessidade da custódia cautelar para a garantia da ordem pública, em razão da gravidade concreta dos delitos em tese praticados, demonstrada pelo modus operandi empregado, além da nítida periculosidade dos agentes.
+    2. O risco de fuga dos pacientes é motivação suficiente a embasar a vedação do direito de recorrer em liberdade, com o fim de assegurar a aplicação da lei penal.
+    3. Permanecendo os pacientes segregados durante toda a instrução criminal por força de prisão em flagrante, posteriormente convertida em preventiva, tendo o Juízo de Primeiro Grau e o Tribunal a quo entendido por sua manutenção no cárcere, ante a persistência dos requisitos previstos no art. 312 do CPP, não deve ser revogada a custódia cautelar se, após a condenação, não houve alteração fática a ponto de autorizar a devolução do seu status libertatis.
+    4. Não fere o princípio da presunção de inocência e do duplo grau de jurisdição a vedação do direito de apelar em liberdade, se ocorrentes os pressupostos legalmente exigidos para a preservação dos pacientes na prisão”.
+    É contra a decisão da Corte Superior que se insurge a impetrante.
+    Sustenta, em síntese, que as decisões que negaram aos pacientes o direito de recorrerem em liberdade não demonstraram os elementos objetivos que poderiam evidenciar o periculum libertatis, justificando as prisões apenas na periculosidade do crime, “no entanto, sequer houve crime, pois foram presos sem nenhum objeto, apenas sob suspeita”.
+    Salienta, em seguida, que a prisão cautelar deve pautar-se em um dos requisitos previstos no art. 312 do Código de Processo Penal, “o que não é o caso, pois os Pacientes não são perigosos, estão cumprindo além do necessário o cárcere, pois com a diminuição da pena (art. 14, Inc. II do CP), estão presos além do tempo legal”.
+    Assevera, por fim, que a denúncia refere-se a atos praticados em 2/7/2010, o que impede que os pacientes sejam condenados por atividades delituosas acontecidas anteriormente a essa data, como vem ocorrendo no caso sob exame.
+    Requer, ao final, liminarmente, a suspensão da decisão proferida pelo Tribunal Regional Federal da 5ª Região, que manteve as custódias cautelares, com a imediata expedição dos respectivos alvarás de soltura. No mérito, pede a revogação daquele decisum.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, a liminar pleiteada confunde-se com o próprio mérito da impetração, que será apreciado em momento oportuno pela Turma julgadora.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Dispenso as informações da autoridade apontada como coatora.
+    Oficie-se, contudo, ao Tribunal Regional Federal da 5ª Região, para que informe o atual andamento da apelação interposta pelos pacientes, bem como para que envie cópias do inteiro teor da sentença condenatória e do acórdão que julgou o HC 4.271/PE (0005030-54.2011.4.05.0000), manejado naquela Corte em favor dos pacientes.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 14 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
