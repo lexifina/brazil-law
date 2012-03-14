@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Reconsidero a decisão de fls. 733/734.
+    2. Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Superior Tribunal de Justiça. Acórdão assim ementado (fls. 637):
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. ACÓRDÃO RECORRIDO. OMISSÃO. NÃO-OCORRÊNCIA. DISTRIBUIÇÃO DE FEITOS NO STJ. PREVENÇÃO DO ÓRGÃO JULGADOR.
+    1. Nos termos do art. 71, caput, do RISTJ, ‘a distribuição do mandado de segurança, do habeas corpus e do recurso torna preventa a competência do relator para todos os recursos posteriores, tanto na ação quanto na execução referentes ao mesmo processo’. No entanto, o § 1º do mesmo artigo determina que ‘se o relator deixar o Tribunal ou transferir-se de Seção, a prevenção será do órgão julgador’. Desse modo, havendo a distribuição de recurso anterior a Ministro integrante da Primeira Turma, e tendo ele deixado o Tribunal ou se transferido de Seção — como ocorreu na hipótese dos autos — subsiste a competência da Primeira Turma para recursos subseqüentes referentes ao mesmo feito, devendo os mesmos serem distribuídos por prevenção de Turma, conforme consta da capa dos autos do presente agravo de instrumento.
+    2. Resolvida integralmente a lide, a oposição de embargos declaratórios com intuito meramente infringente impõe que os mesmos sejam rejeitados, sem que isso importe violação do art. 535 do CPC, pelo e. Tribunal a quo.
+    3. Havendo a sentença acolhido todos os pedidos formulados em ação civil pública, na qual foram discriminados os valores a serem ressarcidos, cujo montante corrigido pode ser obtido por mero cálculo aritmético, não há falar em necessidade de liquidação por arbitramento nem tampouco em ofensa à coisa julgada, pois o acórdão recorrido, confirmando a decisão do juízo da execução, não modificou comando contido na sentença transitada em julgado, apenas redirecionou o procedimento executivo para a técnica adequada.
+    4. Agravo regimental a que se nega provimento.”
+    3. Pois bem, o recorrente aponta ofensa ao inciso XXXVI do art. 5º da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida. Isso porque se encontra preclusa a questão constitucional que a parte recorrente objetiva ver apreciada.
+    5. Com efeito, “tendo em vista o sistema da Carta, em que os recursos especial e extraordinário devem ser interpostos concomitantemente — contencioso comum, recurso especial, contencioso constitucional, recurso extraordinário — a matéria constitucional, no caso, está preclusa. Preclusa porque, no momento próprio, não foi invocada mediante recurso extraordinário. A matéria constitucional que enseja recurso extraordinário de acórdão do Superior Tribunal de Justiça é aquela que surge no julgamento do recurso especial. A que vinha sendo debatida não seria objeto deste. Não interposto o RE do acórdão do Tribunal de 2º grau, questões constitucionais que vinham sendo debatidas precluem” (AI 364.277-AgR, da relatoria do ministro Carlos Velloso).
+    6. Vejam-se, no mesmo sentido, os AIs 145.589-AgR e 134.793-AgR.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de março de 2012.
+Ministro AYRES BRITTO
+Relator
