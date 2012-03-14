@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário com agravo interposto em face de decisão que inadmitiu o apelo extremo o qual impugna acórdão do Tribunal de Justiça do Estado da Bahia a seguir ementado:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE LIMINAR. GRATIFICAÇÃO POR CONDIÇÕES ESPECIAIS DE TRABALHO-GCET. POLICIAIS MILITARES DO ESTADO DA BAHIA. IMPROCEDÊNCIA DO PLEITO. AUSÊNCIA DE DIERITO À PERCEPÇÃO DA VANTAGEM, À FALTA DE ATENDIMENTO AOS REQUISITOS ESPECÍFICOS DA LEI 6.932/96, ART. 3º E SEUS INCISOS C/C A LEI N. 7.023/97. SENTENÇA CONFIRMADA. APELO NÃO PROVIDO.
+    Inexiste mínima prova do atendimento, pelos acionantes, aos requisitos específicos e condições legais que autorizam a percepção da verba. Como bem assinalou o a quo ‘a GCET é deferida ao servidor público em razão das atividades desempenhadas, as quais devem se enquadrar em uma das situações indicadas no art. 3º, da Lei 6.932/96’, ou seja, aludida vantagem atrela-se à prestação de serviço em condições não positivadas nestes autos”. (fl. 145)
+    No recurso extraordinário, aponta-se violação aos princípios da isonomia, legalidade e impessoalidade (arts. 5º, caput, e 37, caput, da CF).
+    Os recorrentes alegam que “trata-se de gratificação que tem como escopo as condições excepcionais na prestação dos serviços nas quais a parte recorrente encontra-se enquadrada”. (fl. 159)
+    Decido.
+    Não assiste razão aos recorrentes.
+    No caso, o Tribunal de origem, interpretando a legislação infraconstitucional aplicável ao caso (Leis Estaduais 6.932/96, 7.032/97 e 6.677/96) e examinado o conjunto fático-probatório que permeia a lide, assentou que os autores não comprovaram o atendimento dos requisitos e condições legais que autorizam a percepção da Gratificação por Condições Especiais de Trabalho – GCET.
+    Registre-se que para se entender de forma diversa do consignado pelo acórdão recorrido, imprescindível a análise e interpretação da legislação estadual aplicável á espécie, bem como o reexame dos fatos e provas constantes dos autos, providências vedadas no âmbito do recurso extraordinário, a teor do disposto nas Súmulas 280 e 279 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ESTABILIDADE FINANCEIRA. GRATIFICAÇÃO DE PLANTÃO. CUMPRIMENTO DOS REQUISITOS DA LC 03/90. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido entendeu que a incorporação da mencionada vantagem tem fundamento na Lei Complementar Estadual 03/90, bem como no preenchimento dos requisitos legais necessários para o seu recebimento. Para concluir em sentido diverso, faz-se necessária a análise de normas infraconstitucionais locais e o reexame das provas contidas nos autos, o que encontra óbice nas Súmulas 279 e 280 do STF. Precedentes. II – Agravo regimental improvido”. (AI-AgR 797.404, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 10.11.2010)
+    “Agravo regimental em agravo de instrumento. 2. Incorporação aos proventos de servidor inativo de verba referente à Gratificação de Representação de Gabinete. 3. Implementação dos requisitos estatuídos na Lei n. 10.722/82 do Estado do Ceará. 4. Necessário o reexame de fatos e provas e a análise de matéria infraconstitucional. 5. Incidência das Súmulas 279 e 280 do STF. 6. Agravo regimental a que se nega provimento”. (AI-AgR 779.070, de minha relatoria, Segunda Turma, 6.4.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
