@@ -1,0 +1,9 @@
+Despacho: Deferido o pedido de suspensão dos efeitos da decisão proferida nos autos do Mandado de Segurança nº 0384513-76.2010.8.26.0000, em trâmite no Tribunal de Justiça paulista, no sentido de determinar o prosseguimento de processo de sequestro de verbas públicas para pagamento de precatórios, o Estado de São Paulo opôs embargos de declaração, sob fundamento de omissão no decisum, porquanto não teria sido apreciado pedido de “efeito expansivo” dos limites subjetivos da suspensão concedida. Ainda no prazo para recurso, Itaguaré Agrícola e Industrial S.A. interpôs agravo regimental.
+     Em 12.9.2011, determinei a intimação do Estado de São Paulo, para juntar aos autos cópias das decisões proferidas nos mandados de segurança que desejava ver suspensos, ante a impossibilidade de concessão “em tese” da medida de contracautela, sem análise de cada caso concreto, bem como para manifestar-se quanto ao agravo regimental. Determinei, ainda, a remessa dos autos à Procuradoria-Geral da República, para parecer, nos termos do art. 103, § 1º, da Constituição da República.
+    Os autos retornaram-me conclusos apenas no dia 13.3.2012. Ante o transcurso do tempo entre os requerimentos iniciais do Estado de São Paulo e o retorno dos autos a esta Presidência, indispensáveis as informações sobre a situação processual de cada impetração.
+    Nesses termos, intime-se o Estado de São Paulo, para que informe se já foram executadas as medidas de sequestro de verbas públicas, dentre as impetrações que indicou no arquivo eletrônico “8 – Instrução – Anexo”, bem como para que informe se referidas impetrações foram objeto de outros pedidos de suspensão junto a esta Presidência.
+    Publique-se. Int..
+    Brasília, 15 de março de 2012.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
