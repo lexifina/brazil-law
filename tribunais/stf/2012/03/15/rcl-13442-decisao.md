@@ -1,0 +1,37 @@
+Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada pelo Ministério Público do Estado de Minas Gerais contra ato proferido pelo Tribunal de Justiça daquela unidade federativa, que, nos autos da Apelação Criminal 1.0058.10.003162-2/001, supostamente teria contrariado o enunciado da Súmula Vinculante nº 10.
+          Narra a inicial que Vinícius Augusto da Silva Marques foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa como incurso nas sanções do art. 33, caput, da Lei 11.343/2006.
+          O Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação Criminal 1.0058.10.003162-2/001, deu parcial provimento ao recurso defensivo, para fixar o regime inicial semiaberto. O Parquet Estadual opôs embargos de declaração, os quais foram rejeitados. Inconformado com a decisão colegiada, o Ministério Público interpôs recurso especial, ainda em fase de admissibilidade.
+          O Reclamante argumenta, em síntese, que o ato da Corte local violou frontalmente o enunciado contido na Súmula Vinculante nº 10, visto que prolatado por órgão fracionário, o qual afastou a incidência do art. 2º, § 1º, da Lei 8.112/90 com fundamento em argumentos constitucionais.
+          Requer a concessão de provimento liminar para o fim de suspender os efeitos da decisão proferida pela Corte Estadual. No mérito, pugna pela procedência da presente reclamação.
+       A via estreita da reclamação constitucional (art. 102, I, l, da Constituição da República) pressupõe a ocorrência de usurpação de competência originária do Supremo Tribunal Federal, a desobediência a súmula vinculante ou o descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que pertinente, nesta última hipótese, à mesma relação jurídica e às mesmas partes.
+          Há que examinar, portanto, a presença de uma dessas hipóteses, e com rigor, sob pena de desvirtuamento do instituto.
+          O objeto desta reclamação está consubstanciado no alegado descumprimento do enunciado da Súmula Vinculante nº 10, que dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta a sua incidência, no todo ou em parte”.
+       Para o exame da matéria, transcrevo excertos da decisão proferida pela Corte Estadual em sede de apelação criminal:
+    “(...).
+    É que, na esteira do entendimento que vem se sedimentando na Jurisprudência do STJ, e já fixado pelo Tribunal Pleno do STF, não vejo mais como me manter afastado da corrente que entende ser inconstitucional a vedação expressas no art. 44 da Lei 11.343/06, de substituição de penas, por ofensa direta à garantia constitucional de individualização da pena.
+    (…).
+    Enfim, se é verdade que a decisão proferida pelo Plenário do STF, no HC 97.256 não tem efetivamente força vinculante, como em qualquer outra atuação de controle incidenter tantum, acato a tese do Plenário como a tese constitucional, pois que, mesmo em controle concentrado, o Sodalício declarou, em tese, a inconstitucionalidade do art. 44 da Lei de Tóxicos no que pertine à vedação da substituição de penas, bem como, noutros tantos julgados, vem declarando a possibilidade de regime inicial de cumprimento de pena diverso do fechado nos crimes de tráfico.
+    Assim, sendo as circunstâncias judiciais do art. 59 do CP favoráveis ao acusado, tanto que a pena restou fixada no mínimo legal, entendo suficiente e mais acertado a fixação do regime semiaberto para o início do cumprimento da pena.
+    Pelo exposto, e com todo o respeito, divirjo parcialmente do relator e dou parcial provimento ao apelo para redefinir o regime inicial de cumprimento da pena para o semiaberto”.
+          A respeito do ato reclamado, colho ainda a manifestação do TJMG prolatada nos embargos de declaração:
+    “(...).
+    A contradição apontada pelo d. Procurador consiste, segundo ele, no fato de o acórdão afirmar que o art. 44 da Lei de Drogas trataria de matéria afeta a regime de cumprimento de pena, o que definitivamente não ocorre.
+    O acórdão, em momento algum, afirma tal disparate. Não. O que se diz no acórdão, para se afirmar inconstitucional a vedação de regime inicial de cumprimento de pena diferenciado do fechado (constante na Lei dos Crimes Hediondos), é que tal vedação de regime é inconstitucional pelos mesmo motivos que é inconstitucional a vedação da substituição da pena …
+    (…).
+    Ora, não há grande explanação acerca da inconstitucionalidade da vedação de regime diferenciado justamente porque o Excelso foi além, ele declarou inconstitucional a vedação de substituição de penas. É claro, é límpido que tal entendimento se estende à imposição legal de regime fechado.
+    (…).
+    Assim, além de o acórdão, em momento algum, afirmar que o art. 44 da Lei 11.343/06 trata de regime inicial de cumprimento de pena, não há qualquer contradição em se afirmar que a inconstitucionalidade de tal artigo, declarada pelo Plenário do STF, aduz à inexorável conclusão de que também é inconstitucional a imposição de fixação de regime fechado aos crimes da Lei 11.343/06, motivo pelo qual a declaração de inconstitucionalidade, por este Órgão fracionário do TJMG, não fere a cláusula constitucional de reserva de plenário (art. 97 da CF e S. Vin. n. 10)”.
+          Da leitura da decisões reclamadas, resta claro que a Primeira Câmara Tribunal de Justiça de Minas Gerais reputou inconstitucional a imposição obrigatória de regime inicial fechado para cumprimento de pena por tráfico de drogas.
+          Trata-se de previsão do art. 2º, § 1º, da Lei 8.112/90, embora a Corte de Apelação não tenha feito a ela referência.
+          Não há, por outro lado, precedentes do Supremo Tribunal Federal no sentido da inconstitucionalidade do art. 2º, § 1º, da Lei 8.112/90.
+          Pode-se é certo especular que esta Corte assim decidiria em vista do precedente no HC 97256/RS - Plenário - Rel. Min. Ayres Britto - por maioria - j. 01/09/2010 – Dje247, no qual foi afastado o óbice abstrato à substituição da pena privativa de liberdade por restritiva de direito em crime por tráfico e que estava previsto no art. 44 da Lei 11.343/2006. Mas ainda assim, são temas e normas diferentes.
+          Houve, portanto, violação do art. 97 da Constituição Federal e do enunciado da Súmula Vinculante 10.
+          Ante o exposto, defiro o pedido de liminar para suspender por ora o acordão prolatado pela Primeira Câmara Tribunal de Justiça de Minas Gerais na Apelação Criminal nº 1.0058.10.003162-2/001, no que se refere exclusivamente à substituição do regime fechado pelo regime semi-aberto para cumprimento da pena.
+          Comunique-se o Presidente do órgão julgador solicitando providências para cumprimento da decisão e franqueando a possibilidade da prestação de informações se for o caso.
+          Notifique-se o interessado Vinícius Augusto da Silva Marques, bem como seu defensor para que possa se manifestar nesta reclamação.
+          Após, colha-se a manifestação do Ministério Público Federal.
+          Publique-se.
+          Brasília, 15 de março de 2012.
+Ministra Rosa Weber
+Relatora
