@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL - AÇÃO DE NULIDADE E COBRANÇA - GRATIFICAÇÃO DE ATIVIDADE EM UNIDADE PENAL OU CORRECIONAL INTRA MUROS (GADI) - INSTITUIÇÃO PELA LEI ESTADUAL N° 13.666/2002 - REGULAMENTAÇÃO PELO DECRETO N° 2.471/04 - SUBSTITUIÇÃO DAS VANTAGENS CORRESPONDENTES AO RISCO DE VIDA, ZONA E INSALUBRIDADE - POSSIBILIDADE - IRREDUTIBILIDADE DOS VENCIMENTOS - RESPEITADO - RECURSO CONHECIDO E NÃO PROVIDO” (fl. 739).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV e LIV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de contrariedade aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configuram ofensa constitucional indireta” (AI 777.240-AgR/RS, Rel. Min. Cármen Lúcia).
+    Outrossim, quanto ao art. 5º, XXXV, da Constituição, observe-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
