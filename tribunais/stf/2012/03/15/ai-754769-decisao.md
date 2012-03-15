@@ -1,0 +1,31 @@
+Despacho: 1. A Min. CÁRMEN LÚCIA encaminhou este AI nº 754.769 à Presidência com o despacho de seguinte teor:
+    “1. Em 13.10.2011, por meio de petição, a Agravada requereu a redistribuição deste agravo de instrumento ao Ministro Gilmar Mendes, nos termos do art. 69 do Regimento Interno do Supremo Tribunal Federal.
+    A Agravada sustenta que 'o presente agravo decorre do mesmo processo que originou o AI 813.180', distribuído ao Ministro Gilmar Mendes.
+    2. Este agravo de instrumento e o Agravo de Instrumento n. 813.180 têm a mesma origem.
+    Ademais, verifica-se que, em 31.5.2011, a Segunda Turma deste Supremo Tribunal negou provimento ao agravo regimental interposto contra decisão que negou seguimento ao Agravo de Instrumento n. 813.180, Relator o Ministro Gilmar Mendes.
+    3. Pelo exposto, submeto estes autos ao Presidente deste Supremo Tribunal Federal para análise de eventual redistribuição deste agravo por prevenção.”
+    2. Não é caso de redistribuição.
+    Verifico dos autos e do sítio eletrônico desta Corte que este AI nº 754.769 foi sobrestado em 28.5.2009, para aguardar decisão do Superior Tribunal de Justiça.
+    Inconformada, a parte agravada requereu, por meio da PET/STF nº 72.427/2009, o regular processamento do feito, sendo indeferida, em 16.7.2009, nos seguintes termos:
+    “DECISÃO: Trata-se de petição na qual Destilaria Atenas Ltda. questiona ato de expediente que sobrestou o agravo de instrumento interposto pela União até o julgamento definitivo de recurso interposto perante o Superior Tribunal de Justiça.
+     Sustenta a peticionante, em síntese, a desnecessidade de se aguardar a decisão do STJ, sob o argumento de que a análise, por esta Corte, de agravo de instrumento de decisão denegatória de recurso extraordinário independe da tramitação do recurso especial.
+    Em princípio, cabe anotar que o ato que sobresta determinado recurso, aguardando a decisão do Superior Tribunal de Justiça, tem por finalidade atender à marcha normal do procedimento: garantir que o STJ aprecie o recurso especial antes da apreciação do recurso extraordinário por esta Corte, nos termos do disposto nos arts. 27 e 28 da Lei no 8.038, de 28 de maio de 1990. Desta forma, tal ato é irrecorrível, em face da ausência de conteúdo decisório.
+    Ressalte-se que esta Corte firmou entendimento segundo o qual não cabe recurso em face de despachos que não possuam caráter decisório. Nesse sentido, o AI-AgR-AgR 558.987, 2ª T., Rel. Cezar Peluso, DJ 7.8.2007, com a seguinte ementa:
+    'EMENTA: RECURSO. Agravo regimental. Despacho. Ausência de conteúdo decisório. Não cabimento. Agravo não conhecido. Precedentes. Não se admite agravo regimental de despacho que não tem conteúdo decisório.'
+          Assim, diante da ausência de qualquer prejuízo para as partes, uma vez que, após a decisão definitiva do Superior Tribunal de Justiça o recurso seguirá seu regular trâmite, nada há a deferir na Petição nº 72.427/2009.”(DJe nº 167, publicado em 4.9.2009)”
+    Em 21.6.2011, ainda inconformada, a parte agravada, por meio da PET/STF nº 35.379/2011, requereu, novamente, o regular processamento do feito, o qual, juntamente com a PET/STF nº 81.310/2011, aguarda manifestação desta Corte.
+    Ora, conforme exposto pelo Min. GILMAR MENDES, o ato que sobresta determinado recurso, aguardando a decisão do Superior Tribunal de Justiça, tem por finalidade atender à marcha normal do procedimento: garantir que o STJ aprecie o recurso especial antes da apreciação do recurso extraordinário por esta Corte, nos termos do disposto nos arts. 27 e 28 da Lei no 8.038, de 28 de maio de 1990. Desta forma, tal ato é irrecorrível, em face da ausência de conteúdo decisório.
+    Assim, a decisão que atribui a relatoria das causas a determinado Ministro, em respeito às normas regimentais de organização interna e à legislação processual, não contém operação valorativa capaz de lesar direito da parte.
+    É que se trata de decisão da Presidência como órgão revisor de atos meramente ordinatórios praticados pelos auxiliares da Justiça na distribuição, livre ou por prevenção, dos processos de competência da Corte.
+    No caso do Supremo Tribunal Federal, a Secretaria Judiciária é responsável pela distribuição de processos (RISTF, art. 355, e Resolução/STF nº 393/2009), que é feita por sorteio ou prevenção, mediante sistema informatizado, acionado automaticamente (RISTF, art. 66). A prevenção, acaso existente, é certificada nos autos com a indicação do processo para o qual o feito foi atraído pela existência de conexão ou continência.
+    Trata-se de despacho de mero expediente, contra o qual não cabe recurso, em sendo ato processual insuscetível de causar gravame às partes ou a terceiros, nos termos do art. 504, do CPC.
+    Outrossim, o AI nº 813.180, distribuído ao Min. GILMAR MENDES em 25.8.2010, ainda que possua a mesma origem deste AI nº 754.769, qual seja, a AC nº 1998.34.00.021580-4, do Tribunal Regional federal da 1ª Região, teve seu trânsito em julgado no dia 1º.9.2011 (DJe nº 160, publicado em 22.8.2011), ou seja, em momento posterior à distribuição deste AI nº 754.769, ocorrida em 13.10.2011 à Min. CÁRMEN LÚCIA.
+    Ora, os fundamentos que recomendam a reunião dos processos são a economia processual e a possibilidade de julgamentos contraditórios sobre a mesma causa. Confira-se, nesse sentido, a decisão proferida no HC-AgR nº 83.501 (Rel. Min. CARLOS VELLOSO, DJe de 26.9.2003):
+    “O procedimento interno de distribuição disciplinado por normas processuais e pelos respectivos dispositivos regimentais, determina o ministro relator do processo que em hipóteses específicas, por conveniência da instrução ou até mesmo para que se evitem decisões contraditórias, estará prevento para relatar, atraindo, em consequência, para si, os demais feitos que de alguma forma estejam entre si relacionados.” (Grifei)
+    Logo, afastada a possibilidade de decisões conflitantes em razão do trânsito em julgado da decisão proferida no AI nº 813.180, em 1º.9.2011, não se justifica a distribuição do feito por prevenção.
+    3. Diante do exposto, determino o retorno dos autos ao Gabinete do Relator, Ministra CÁRMEN LÚCIA.
+    Publique-se.
+    Brasília, 15 de março de 2012.
+Ministro Cezar Peluso
+Presidente
+Documento assinado digitalmente
