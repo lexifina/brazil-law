@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    O recurso não merece acolhida. De saída, anoto a ausência de prequestionamento dos dispositivos constitucionais tidos por violados (inciso XLVI do art. 5º e inciso XXI do art. 22), não havendo sido opostos embargos declaratórios para suprir eventual omissão.
+    2. Com efeito, tendo em conta as limitações da via recurso extraordinária, o apelo extremo é julgado no tocante ao que já foi discutido na instância judicante de origem. Se o órgão julgador não adotou entendimento explícito acerca da matéria deduzida nas razões recursais, não se pode pretender o seu exame neste momento processual. Incidem, portanto, as Súmulas 282 e 356/STF.
+    3. De mais a mais, para se chegar a conclusão diversa da adotada pelo Tribunal de origem, fazem-se necessários o reexame da legislação infraconstitucional pertinente (Código Penal Militar) e a análise do conjunto fático-probatório dos autos (Súmula 279/STF), providências vedadas na instância recursal extraordinária.
+    4. No que se refere à alegada ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, de que é exemplo o AI 517.643-AgR, da relatoria do ministro Celso de Mello.
+    5. À derradeira, anoto que o Plenário do Supremo Tribunal Federal já decidiu a matéria envolvendo a aplicação do inciso IX do art. 93 da Constituição Federal. Ao fazê-lo, acolheu questão de ordem para reconhecer a repercussão geral e reafirmar jurisprudência desta nossa Casa de Justiça. Leia-se, a propósito, a ementa do AI 791.292-QO-RG, da relatoria do ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de março de 2012.
+Ministro AYRES BRITTO
+Relator
