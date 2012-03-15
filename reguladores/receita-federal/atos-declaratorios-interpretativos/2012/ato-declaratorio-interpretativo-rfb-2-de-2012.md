@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 2, de 14 de março de 2012
+Altera o Ato Declaratório Interpretativo RFB nº 1, de 2 de março de 2012, que dispõe sobre a incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) na operação de câmbio.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no inciso XXII do art. 15-A do Decreto nº 6.306, de 14 de dezembro de 2007, no Decreto nº 7.683, de 29 de fevereiro de 2012, e no Decreto nº 7.698, de 9 de março de 2012, declara:
+Art. 1º O art. 2º do Ato Declaratório Interpretativo RFB nº 1, de 2 de março de 2012, passa a vigorar com a seguinte redação:
