@@ -1,0 +1,7 @@
+Decisão: O Supremo Tribunal Federal, apreciando o RE 598.365 , rel. min. Ayres Britto, não reconheceu a repercussão geral do tema tratado no presente processo (Processual civil. Pressupostos de admissibilidade de recursos da competência de cortes diversas. Matéria infraconstitucional. Ausência de repercussão geral em questão constitucional).
+    Do exposto, nos termos dos arts. 543-A, caput , e § 5º; 557, caput , do Código de Processo Civil e do art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de março de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
