@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    No caso, dei provimento ao agravo de instrumento e determinei a subida do recurso extraordinário para melhor exame da controvérsia (em 26/06/2007 – fls. 108). Pelo que a Secretaria Judiciária oficiou à instância judicante de origem para comunicar o teor da referida decisão e solicitar o encaminhamento dos autos principais a este Tribunal. Sucede que o ofício, encaminhado em 03/09/2007 (fls. 110) e reiterado em 28/07/2009 (fls. 112), obteve a seguinte resposta (em 05/03/2010 – fls. 114):
+    “Em resposta ao Ofício nº 3078/SEJ, informo a Vossa Excelência que o Processo nº 52748-3/2004 baixou ao juízo de origem em 06/11/2006. Não obstante, nesta data foi expedido ofício àquela unidade, solicitando a devolução dos autos, para posterior envio a esta Corte.”
+    2. Prossigo para anotar que até o momento os autos requisitados não foram encaminhados ao Supremo Tribunal Federal.
+    3. Acresce que a matéria em debate, antes controversa, foi apreciada e decidida pelo Plenário desta Casa de Justiça.
+    4. Presente essa moldura, não faz sentido aguardar a subida de um recurso que está fadado ao insucesso. Raciocínio, esse, que ganha força diante do inciso LXXVII do art. 5º da Magna Carta, segundo o qual “são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação”.
+    5. Dito isso, e tendo em conta que as peças constantes deste agravo de instrumento permitem o pronto julgamento da causa, passo ao exame do recurso. Fazendo-o, tenho que a insurgência não merece acolhida. Isso porque o Supremo Tribunal Federal, no julgamento do RE 571.572, da relatoria do ministro Gilmar Mendes, assentou que: a) a Justiça comum é competente para o julgamento da causa; b) não é caso de litisconsórcio passivo necessário a justificar a inclusão da Agência Nacional de Telecomunicações – Anatel na lide; c) a matéria não é complexa e dispensa produção de prova pericial; d) a questão de fundo — cobrança indevida de pulsos telefônicos além da franquia — é de índole eminentemente infraconstitucional.
+    6. Confiram-se, a propósito, os seguintes julgados, todos envolvendo a mesma matéria: REs 558.663-AgR, da relatoria do ministro Joaquim Barbosa; 561.574, da relatoria do ministro Marco Aurélio; 564.624-AgR, da relatoria do ministro Cezar Peluso; e 581.083-AgR, da relatoria da ministra Ellen Gracie; bem como AI 686.090-AgR, da relatoria do ministro Ricardo Lewandowski.
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de março de 2012.
+Ministro AYRES BRITTO
+Relator
