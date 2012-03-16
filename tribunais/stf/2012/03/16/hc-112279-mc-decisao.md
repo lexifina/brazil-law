@@ -1,0 +1,24 @@
+DECISÃO
+SUSPENSÃO DE PROCESSO-CRIME – CONTEXTO DECISÓRIO – RISCO IMEDIATO INEXISTENTE – HABEAS CORPUS – LIMINAR INDEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O ato atacado é o acórdão do Superior Tribunal de Justiça, relativo ao Habeas Corpus nº 205.968/SP, mediante o qual se indeferiu pleito de nulidade processual, formulado ante a alegação de ausência de intimação pessoal do defensor público da data da sessão de julgamento. Esta a ementa do julgado:
+    HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO INTERPOSTO POR ADVOGADO CONSTITUÍDO. INTIMAÇÃO DA SESSÃO DE JULGAMENTO POR IMPRENSA OFICIAL. INFORMAÇÃO DO MOMENTO EM QUE A DEFENSORIA PÚBLICA ASSUMIU A DEFESA DOS PACIENTES. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+    1. "A intimação do defensor constituído, do advogado do querelante e do assistente far-se-á por publicação no órgão incumbido da publicidade dos atos judiciais da comarca, incluindo, sob pena de nulidade, o nome do acusado" (art. 370, § 1º, do CPP).
+    2. In casu, o recurso em sentido estrito foi interposto, ao contrário do afirmado pela impetração, por patronos regularmente constituídos pelos pacientes. Ademais, a impetração não trouxe à colação qualquer documento que demonstre o momento que a Defensoria Pública assumiu a defesa dos pacientes, informação imprescindível para se aferir se houve qualquer mácula na intimação a ensejar ou não o cerceamento da defesa aventado.
+    REFORMATIO IN PEJUS. ART. 617 DO CPP. RECURSO INTERPOSTO PELO MINISTÉRIO PÚBLICO. COAÇÃO ILEGAL NÃO EVIDENCIADA. ORDEM DENEGADA.
+    1. O princípio da proibição da reformatio in pejus está previsto no art. 617 do Código de Processo Penal, que preceitua que "o tribunal, câmara ou turma atenderá nas suas decisões ao disposto nos arts. 383, 386 e 387, no que for aplicável, não podendo, porém, ser agravada a pena, quando somente o réu houver apelado da sentença".
+    2. No caso dos autos, a acusação interpôs recurso, o qual foi provido para reconhecer o crime conexo previsto no art. 10 da Lei nº 9.437/97 para um dos réus e acrescentar a qualificadora de motivo torpe para ambos corréus, não havendo falar em reformatio in pejus.
+    3. Ordem denegada. (HC 205968/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/09/2011, DJe 21/09/2011)
+    Conforme alega a impetrante, o recurso em sentido estrito da defesa foi, de fato, interposto por advogado constituído. No entanto, aduz, o julgamento proferido pelo Tribunal de Justiça do Estado de São Paulo, em 24 de novembro de 2004, foi posteriormente anulado pelo Superior Tribunal de Justiça, em 15 de novembro de 2009.
+    Sustenta que, à época do segundo julgamento pelo Tribunal de origem, em 2 de dezembro de 2010, a Defensoria Pública já tinha sido nomeada para atuar no processo-crime há mais de três anos. Segundo anota, a nomeação para a defesa do primeiro corréu deu-se em 8 de outubro de 2007 e, para a representação do segundo, no dia 14 de janeiro de 2008. Conforme ressalta, para a realização do segundo julgamento, não houve a intimação prévia e pessoal do defensor público, o que implica cerceamento de defesa e nulidade absoluta.
+    Sucessivamente, diz ter havido a reforma prejudicial. Consoante assevera, após a anulação do primeiro acórdão proferido pelo Tribunal local, ocorrida em virtude de habeas impetrado pela defesa perante o Superior Tribunal de Justiça, a situação dos réus foi agravada por ocasião do reexame dos recursos interpostos. Na primeira sessão, ambos os recursos foram desprovidos, mas, na segunda, o recurso em sentido estrito protocolado pelo Ministério Público foi provido para incluir nova qualificadora e crime conexo.
+    Narra estar a sessão do Tribunal do Júri marcada para 14 de junho de 2012. Requer, em âmbito liminar, a suspensão da Ação Penal nº 899/03, em trâmite na 1ª Vara do Tribunal do Júri da Comarca de São Paulo/SP. No mérito, busca a declaração de nulidade do acórdão, no qual, pela segunda vez, julgado o recurso em sentido estrito interposto pela defesa.
+    Está o habeas concluso para apreciação da medida acauteladora.
+    2. Em um primeiro momento, as premissas lançadas pelo Superior Tribunal de Justiça afastam a conclusão sobre a prática de ato ilegal. De qualquer modo, a problemática, quer da intimação pessoal da Defensoria Pública, quer da reforma prejudicial ao acusado, enseja exame definitivo. A suspensão de processo-crime é ato extremado e, no caso, o risco de ocorrer o julgamento pelo Tribunal do Júri faz-se projetado no tempo – a sessão estaria designada para 14 de junho deste ano.
+    3. Indefiro a medida acauteladora.
+    4. Colham o parecer da Procuradoria Geral da República, imprimindo preferência na tramitação deste processo.
+    5. À Assessoria, para acompanhar a sequência cabível.
+    6. Publiquem.
+Brasília – residência –, 16 de março de 2012, às 17h25.
+Ministro MARCO AURÉLIO
+Relator
