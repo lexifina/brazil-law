@@ -1,0 +1,19 @@
+DECISÃO
+PROVA – FEITURA – LIMINAR – DESCABIMENTO.
+HABEAS CORPUS – MEDIDA ACAUTELADORA – INADEQUAÇÃO.
+    1. A Assessoria prestou as seguintes informações:
+    Impugna-se acórdão da Sexta Turma do Superior Tribunal de Justiça, no Habeas Corpus n° 199.544/PR, mediante o qual afastada alegação de constrangimento ilegal, em decorrência de indeferimento pelo Juízo de diligências requeridas pela defesa.
+    O paciente foi denunciado pela prática do crime previsto no artigo 121, § 2°, incisos I e IV, do Código Penal (homicídio qualificado porque movido por sentimento de vingança e com uso de dissimulação). O Juízo da Vara Criminal da Comarca de Castro, Estado do Paraná, não acolheu pleito de produção de novas provas periciais formulado pela defesa. Assinalou que as dúvidas iniciais suscitadas pelos advogados constituídos já haviam sido esclarecidas pelo médico legista e pelo instituto de criminalística. Ressaltou não ter a defesa fundamentado a necessidade da realização das provas pretendidas. Consignou que os peritos afirmaram inexistir divergência a justificar a execução de nova perícia e destacou a possibilidade de a defesa indagá-los durante a audiência de instrução.
+    O Tribunal de Justiça do Estado do Paraná indeferiu o habeas formalizado. Entendeu estar devidamente motivada a decisão na qual negado o pedido de diligências. Assentou que a produção de provas é ato abrangido pela discricionariedade regrada do magistrado, podendo ele vedá-la se a considerar inútil, protelatória ou sem pertinência com a instrução do processo.
+    No Superior Tribunal, salientou-se ter o Juízo fundamentado, de maneira pormenorizada, o não acolhimento de cada um dos pedidos de produção de prova formulados pela defesa e determinado a expedição de ofício ao instituto de criminalística para que procedesse à remessa dos laudos faltantes, possibilitando aos advogados constituídos a requisição de novos esclarecimentos. Consignou-se a ausência de qualquer ofensa à ampla defesa, ao contraditório ou ao devido processo legal. Assentou-se não poder o Tribunal substituir o Juízo natural da causa na análise e utilização devida das provas produzidas durante a instrução, sob pena de usurpação de competência.
+    Neste habeas, o impetrante destaca a importância da perícia dentro do contexto probatório. Aduz não poder o requerimento de produção de nova prova ser indeferido em virtude de prévios esclarecimentos lacônicos prestados pelos peritos. Aponta a existência de defeitos formais na nomeação dos peritos e no laudo de necropsia. Defende a completa falta de metodologia da investigação policial, no que proporciona versões do fato distanciadas da realidade. Anota serem os destinatários finais da prova os jurados e não o juiz singular. Assevera a necessidade de busca da verdade real.
+    Em âmbito liminar, pleiteia o deferimento das diligências requeridas antes da realização da audiência de instrução, tudo a possibilitar o exercício pleno da defesa. No mérito, pugna pela declaração de nulidade da decisão, na qual indeferida a produção das provas.
+    Solicitadas informações, o Juízo noticia que a audiência de instrução ocorreu em 31 de janeiro de 2011, quando foram ouvidas todas as testemunhas residentes na comarca. O interrogatório do réu deu-se no dia 12 de setembro de 2011. Diz pender audiência a ser realizada por juízo deprecado, remarcada para 10 de abril de 2012, a pedido da defesa.
+    O habeas volta concluso para apreciação da medida acauteladora.
+    2. O Juízo viabilizou esclarecimentos, quanto ao laudo, na audiência de instrução. A par desse aspecto, o pleito acautelador visa o implemento de diligências antes mesmo da instrução referida. Mostra-se inadequado considerado o campo precário e efêmero próprio à liminar.
+    3. Indefiro-a.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 17 de março de 2012, às 20h50.
+Ministro MARCO AURÉLIO
+Relator
