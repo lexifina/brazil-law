@@ -1,0 +1,19 @@
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL, TRIBUTÁRIO E PROCESSUAL CIVIL. SOCIEDADES PRESTADORAS DE SERVIÇOS. COFINS. ISENÇÃO. LC 70/91 VERSUS LEI 9.430/96. REPERCUSSÃO GERAL RECONHECIDA. SOBRESTAMENTO DO PROCESSO.
+    Decisão: Trata-se de agravo regimental interposto em face de decisão monocrática proferida pelo Em. Min. Eros Grau, nos seguintes termos:
+    “DECISÃO: Agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no artigo 102, III, a, da Constituição do Brasil.
+    2. Alega-se, no extraordinário, ofensa ao disposto no artigo 5º, XXXVII e LIII, da CB/88.
+    3. Deixo de apreciar a existência da repercussão geral, vez que o art. 323, § 1º, do RISTF dispõe que "[t]al procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral.
+    4. O agravo não merece provimento. O acórdão recorrido está em consonância com o entendimento deste Tribunal, fixado no julgamento do RE n. 524.363-AgR-ED, Relator o Ministro Ricardo Lewandowski, DJe de 4.6.10, cuja ementa transcrevo:
+    EMENTA: EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COFINS. ISENÇÃO. REVOGAÇÃO. LEI 9.430/96. CONSTITUCIONALIDADE. MODULAÇÃO DOS EFEITOS AFASTADA. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS. I - O Plenário desta Corte, no julgamento dos recursos extraordinários 377.457/PR e 381.964/MG, Rel. Min. Gilmar Mendes, consolidou o entendimento no sentido da constitucionalidade da revogação, por meio da Lei 9.430/96, da isenção da COFINS concedida pela LC 70/91 às sociedades civis prestadoras de serviços profissionais, bem como afastou o pedido de modulação dos efeitos da decisão. Precedentes. II - Ausência dos pressupostos do art. 535, I e II, do Código de Processo Civil. III - Embargos de declaração rejeitados.
+    Nego seguimento ao agravo com fundamento no disposto no artigo 21, § 1º, do RISTF.”
+    Nas razões de agravo regimental, o recorrente afirma que a decisão não merece prosperar, tendo em vista que os recursos extraordinários mencionados como paradigmas não possuem efeito erga omnes. Insurge-se, ademais, quanto à ausência de modulação dos efeitos.
+    É o relatório. DECIDO.
+    De saída, observo que a matéria posta nos presentes autos – possibilidade de afastamento, sem observância do princípio da reserva de plenário, da aplicabilidade do artigo 56 da Lei 9.430/96, que revogou a isenção do pagamento da COFINS concedida às sociedades prestadoras de serviços pela LC 70/91, bem como a necessidade de edição de lei complementar para revogar o mencionado benefício fiscal – teve a sua repercussão geral reconhecida pelo Plenário desta Corte nos autos do RE 575.093, Rel. Min. Marco Aurélio. O precedente restou assim ementado:
+    “COFINS - SOCIEDADES CIVIS DE PRESTAÇÃO DE SERVIÇOS - LEI Nº 9.430/96 - PROCESSO LEGISLATIVO - ISENÇÃO - DISCIPLINA MEDIANTE LEI ORDINÁRIA - RESERVA DE PLENÁRIO. Possui repercussão geral controvérsia sobre a observância do processo legislativo e do princípio da reserva de Plenário, considerada revogação de isenção por meio de lei ordinária.”
+    Consoante o disposto no artigo 328, parágrafo único, do RISTF, a repercussão geral do tema constitucional, quando reconhecida, impõe que os recursos extraordinários fundamentados em controvérsia idêntica sejam devolvidos à instância de origem para aplicação do texto normativo inserido no artigo 543-B do Código de Processo Civil.
+    In casu, porém, considerando que a decisão monocrática foi proferida pelo Em. Min. Eros Grau, determino o sobrestamento do feito até o julgamento do paradigma.
+    Publique-se. Int..
+    Brasília, 19 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
