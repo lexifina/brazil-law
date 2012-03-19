@@ -1,0 +1,11 @@
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA PARA JULGAMENTO. JUSTIÇA COMUM OU TRABALHISTA. REPERCUSSÃO GERAL RECONHECIDA NOS AUTOS DO RE 586.453. MÉRITO. EXTENSÃO DOS BENEFÍCIOS CONCEDIDOS A TRABALHADORES ATIVOS NOS TERMOS DE ACORDO COLETIVO PARA OS EMPREGADOS INATIVOS. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+    Decisão: Cuida-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário.
+    A matéria tratada nos autos – Competência para processar e julgar causas que envolvam complementação de aposentadoria por entidades de previdência privada – teve sua repercussão geral reconhecida nos autos do RE 586.453, da Relatoria da E. Min. Ellen Gracie.
+    Por outro lado, em relação à concessão a inativos - beneficiários de plano de previdência privada complementar - de vantagem outorgada a trabalhadores em atividade, verifica-se que o Supremo Tribunal Federal já apreciou a matéria dos autos no julgamento do RE-RG 590.005, Rel. Min. Cezar Peluso, DJe 18.12.2009, oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional”.
+    Destarte, DOU PARCIAL PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário somente em relação à competência para julgamento das causas que envolvam a complementação de aposentadoria por entidades de previdência privada, que, no entanto, deverá permanecer SOBRESTADO na origem para que se observe o disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
