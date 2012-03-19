@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. FALSIDADE IDEOLÓGICA. PETIÇÃO DE RECURSO EXTRAORDINÁRIO PROTOCOLADA APÓS O TRANSCURSO DO PRAZO LEGAL. INTEMPESTIVIDADE. RECURSO COM AGRAVO NÃO CONHECIDO.
+1. O recurso extraordinário é intempestivo quando sua interposição se der após o julgamento dos embargos de declaração que não foram conhecidos por conta da intempestividade.
+2. Os embargos de declaração não conhecidos não tem o condão de interromper ou suspender o prazo legal para interposição de recursos. Precedentes: AI 653.421-AgR, Primeira Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe de 19.09.2008; AI 602.116-AgR, Segunda Turma, Rel. Min. JOAQUIM BARBOSA, DJe de 26.10.2007.
+3. In casu, o acórdão recorrido assentou:
+“APELAÇÃO. FALSIDADE IDEOLÓGICA. INCONFORMISMO DA DEFESA. MANTENÇA DO ‘DECISUM’ DE PRIMEIRO GRAU.
+- Alegação de incompetência da Justiça Militar da União para o processamento e julgamento do feito não procedente.
+- A falsidade ideológica na emissão de documentos relativos a embarcações, furto de regulares inspeções, emitidos ordinariamente pela Marinha é atividade típica de sua competência, em razão do seu mister constitucional. Tal respaldo encontra-se patenteado na LC nº 97/1999, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas e na Lei nº 9.537/97, que disciplina a segurança do tráfego aquaviário em águas sob jurisdição nacional.
+- Provas robustas que demonstram a autoria e a materialidade do delito.
+- Rejeição da preliminar de incompetência da Justiça Militar da União para o processamento e julgamento do Feito suscitada pela Defesa.
+- Desprovimento do Apelo defensivo. Manutenção da Sentença ‘a quo’.
+- Decisão unânime”
+4. Recurso com agravo não conhecido.
+    Decisão: Cuida-se de recurso com agravo contra decisão que negou seguimento a recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF face a acórdão do Superior Tribunal Militar que confirmou sentença condenatória do ora agravante por incurso no tipo previsto no art. 312 do CPM c.c art. 71 do CP à pena de 01 ano e 02 meses.
+    Opostos embargos de declaração, esses não foram conhecidos monocraticamente por intempestividade. Interposto agravo regimental, o órgão colegiado manteve a decisão monocrática assentando a intempestividade dos embargos.
+    Nas razões do recurso extraordinário, MOACIR NEPOMUCENO MARTINS JÚNIOR, assistido pela DEFENSORIA PÚBLICA DA UNIÃO, alegou violação aos arts. 5º, LIII, e 109, IV, da CF/88. Sustentou em síntese violação ao princípio do juiz natural, uma vez que a Justiça Castrense não teria competência para julgamento do feito, cabendo à Justiça comum federal conhecer das causas que tratem de suposta falsidade ideológica de documentos de natureza civil, emitidos em razão da prestação de serviços públicos federais de natureza civil.
+    O recurso teve seu seguimento negado com fundamento no óbice da Súmula 279 do STF e pelo argumento de que a matéria cinge-se ao exame de normas infraconstitucionais.
+    É o relatório. DECIDO.
+    O recurso não merece conhecimento.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    Ocorre que a petição de recurso extraordinário foi protocolada intempestivamente. Isso por que a intimação da Defensoria Pública da União em relação à conclusão do julgamento da apelação por ela interposta se deu em 02.05.2011. Os embargos de declaração opostos pela DPU não foram conhecidos, pois protocolados em 13.05.2011, ou seja, após o decurso do prazo legal. Destarte, uma vez não conhecidos os embargos, não houve interrupção do prazo para interposição do recurso extraordinário, que se encerrou no dia 1º.06.2011, todavia, o apelo extremo foi interposto somente em 19.09.2011.
+    A jurisprudência do Supremo Tribunal Federal é uníssona ao afirmar que os embargos de declaração não conhecidos por intempestividade não tem o condão de suspender ou interromper o prazo para interposição de outro recurso cabível. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO INTERPOSTO POR MEIO DE FAC-SÍMILE. PRAZO PARA APRESENTAÇÃO DE ORIGINAIS. CINCO DIAS IMPRORROGÁVEIS E CONTÍNUOS. EMBARGOS DECLARATÓRIOS NÃO CONHECIDOS NÃO INTERROMPEM OU SUSPENDEM PRAZO RECURSAL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. AGRAVO IMPROVIDO. I - Os originais do recurso devem ser entregues em Juízo até cinco dias da data do término do prazo recursal. II - Esse prazo é improrrogável e contínuo, ainda que se trate de dia sem expediente forense. III - Embargos declaratórios que não foram conhecidos por serem intempestivos, não suspendem nem interrompem o prazo para a interposição de outro recurso. IV - Agravo regimental improvido.” (AI 653.421-AgR, Primeira Turma, Rel. Min. RICARDO LEWANDOWSKI, DJe de 19.09.2008 - grifei).
+    “DECISÃO DE INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO DE EMBARGOS DECLARATÓRIOS INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE. O agravo de instrumento é intempestivo, porquanto prevalece nesta Corte o entendimento de que os embargos de declaração opostos da decisão do Presidente do Tribunal de Origem que nega seguimento a recurso extraordinário, por serem manifestamente incabíveis, não suspendem ou interrompem o prazo para a interposição de recurso. Agravo Regimental a que se nega provimento.” (AI 602.116-AgR, Segunda Turma, Rel. Min. JOAQUIM BARBOSA, DJe de 26.10.2007 - grifei).
+    Ex positis, NÃO CONHEÇO do recurso com agravo.
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
