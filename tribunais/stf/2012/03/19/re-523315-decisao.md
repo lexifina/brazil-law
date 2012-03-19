@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte nas alíneas “a” e “c” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+    2. Da leitura dos autos, observo que a instância judicante de origem: a) entendeu que a LC 212/1989 é inconstitucional porque prevê a progressividade das alíquotas do IPTU; b) determinou a aplicação da LC 7/1973, na sua redação original.
+    3. Tenho que a insurgência merece parcial acolhida. Isso porque a LC 7/1973, em sua redação original, também é de ser afastada, dado que estabelece progressividade fiscal do IPTU antes da EC 29/2000. Incide no caso a Súmula 668/STF. Súmula, essa, confirmada na apreciação da Questão de Ordem suscitada no AI 712.743, da relatoria da ministra Ellen Gracie, momento em que ficou reconhecida a existência de repercussão geral do tema.
+    4. De mais a mais, pontuo que está em discussão nesta Casa de Justiça a possibilidade de, reconhecida a inconstitucionalidade de norma que institui a cobrança do IPTU com alíquotas progressivas antes da EC 29/2000, aplicar-se a menor alíquota fixada no diploma legal vigente no momento da ocorrência do fato gerador (RE 602.347, da relatoria do ministro Ricardo Lewandowski).
+    5. À derradeira, ressalto que o STF assentou que, em casos como o presente, o regime de que trata o art. 543-B do Código de Processo Civil é aplicável inclusive aos recursos extraordinários interpostos contra acórdãos cuja intimação houver ocorrido antes de 03/05/2007 (Questão de Ordem no RE 540.410, da relatoria do ministro Cezar Peluso).
+    Ante o exposto, ante as disposições do § 1º-A do art. 557 do CPC, dou parcial provimento ao recurso para reconhecer que a LC 7/1973, na sua redação original, deve ser afastada porque não foi recepcionada pela Constituição Republicana. No mais, frente ao parágrafo único do art. 328 do RI/STF, determino o retorno dos autos à origem, a fim de que sejam observadas as disposições do art. 543-B do Código de Processo Civil, no tocante à possibilidade de cobrança do IPTU pela menor alíquota constante na LC 212/1989.
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministro AYRES BRITTO
+Relator
