@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. BEM DE FAMÍLIA. REQUISITOS. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO OPOSTOS POR CÔNJUGE DO EXECUTADO - SENTENÇA JULGANDO PROCEDENTE O PEDIDO E DETERMINANDO O LEVANTAMENTO DA PENHORA.
+    1. INSURGÊNCIA DO EXEQUENTE - 1.1 PREFACIAL DE JULGAMENTO ULTRA PETITA - ACOLHIMENTO - PEDIDO INICIAL VOLTADO UNICAMENTE AO RESGUARDO DA MEAÇÃO - NULIDADE DA SENTENÇA NO QUE FOI ALÉM DA PRETENSÃO DA EMBARGANTE, CONCEDENDO-LHE PROVIDÊNCIA SUPERIOR À PEDIDA NA EXORDIAL, COM A DESCONSTITUIÇÃO INTEGRAL DA PENHORA - ADEQUAÇÃO DO DECISUM AOS LINDES DO PEDIDO (ART. 460 DO CPC) - 1.2 AUSÊNCIA DE PROVAS REPELINDO A PRESUNÇÃO DE QUE A DÍVIDA CONTRAÍDA PELO MARIDO REVERTEU A BEM DA ENTIDADE FAMILIAR - ÔNUS PROBATÓRIO QUE RECAI SOBRE A POSTULANTE DO RESGUARDO À MEAÇÃO (ART. 333, I, DO CPC) - REFORMA DA SENTENÇA - 1.3 RECURSO CONHECIDO E PROVIDO.
+    'A prova de que o imóvel penhorado constitui bem de família nos termos do artigo 1º da Lei 8.009/90, deve ser produzida pela embargante, sob pena de manter-se a constrição' (TJSC, Apelação Cível n.º 2002.021778-1, de Canoinhas, rel. Des. Sérgio Roberto Baasch Luz, j. em 12.08.2004).
+    2. ALEGAÇÃO DE IMPENHORABILIDADE DO IMÓVEL POR SE TRATAR DE BEM DE FAMÍLIA, SUSCITADA EM SEGUNDO GRAU DE JURISDIÇÃO - POSSIBILIDADE DE A MATÉRIA SER VEICULADA A QUALQUER TEMPO - NECESSIDADE, TODAVIA, DE DILAÇÃO PROBATÓRIA, NA ESPÉCIE, PARA AVERIGUAR O PREENCHIMENTO DOS REQUISITOS PREVISTOS NA LEI N. 8.009/1990, SOBRETUDO ANTE NOTÍCIA DE ANTERIOR INDEFERIMENTO DE PRETENSÃO SIMILAR NOS AUTOS DA EXECUÇÃO, BEM COMO DE EVENTUAL ALIENAÇÃO DO IMÓVEL A TERCEIRO - ADMISSIBILIDADE DE A EMBARGANTE AVENTAR A MATÉRIA EM NOVA DEMANDA DE EMBARGOS DE TERCEIRO - NÃO CONHECIMENTO” (fl. 206).
+    2. A Recorrente alega que teriam sido contrariados os arts. 1º, inc. III, 5º, inc. LIV e LV, e 6º da Constituição da República.
+    Sustenta que:
+    “ao dar provimento ao recurso de apelação, reformando a r. sentença de primeiro grau e deixando de reconhecer o evidente caráter de impenhorabilidade do bem imóvel/de família, o v. acórdão violou as garantias constitucionais da dignidade da pessoa humana, da ampla defesa e do devido processo legal; deu aplicação equivocada ao artigo 460 do CPC (aludindo que a sentença foi ultra petita, quando na realidade esta declarou de ofício a impenhorabilidade do bem), aplicou erroneamente o artigo 333, I, do CPC (em detrimento da regra do artigo 3º da Lei 4.121) e afastou-se da norma dos artigos 130, 515, parágrafos 1º e 4º, e 535, inc. II, todos do CPC” (fl. 293).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República e a incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de modo diverso do acórdão recorrido demandaria a análise de legislação infraconstitucional (Lei n. 8.009/1990), o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Bem de família. Caracterização. Lei nº 8.009/90. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (AI 629.134-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1º.12.2011).
+    “Processual. Ação Rescisória. Bem de família. Ausência de prequestionamento. (Súmula 282). Controvérsia infraconstitucional. Ofensa indireta à CF. Reexame de fatos e provas (Súmula 279). Regimental não provido” (AI 765.714-AgR, Rel. Min. Nelson Jobim, Segunda Turma, DJ 7.5.2004).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
