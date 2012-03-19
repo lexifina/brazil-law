@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+    “AÇÃO DECLARATÓRIA DE NULIDADE DE DÉBITO FISCAL - ICMS - MERCADORIAS DADAS EM BONIFICAÇÃO - AUSÊNCIA DE PROVA - MULTA DE REVALIDAÇÃO - REDUÇÃO - POSSIBILIDADE. - Os descontos ditos promocionais, ou quaisquer espécies de bonificações cuja incondicionalidade não fique efetivamente comprovada, integram a base de cálculo do ICMS, porque fazem parte do valor da operação da qual decorre a saída da mercadoria. - A multa de revalidação, cobrada em conformidade com o Código Tributário Mineiro, não tem caráter de confisco, sim mera penalidade com o objetivo de combater a sonegação e coibir a inadimplência. Tal penalidade deve incidir à base de 50% (cinqüenta por cento) - e não de 100% (cem por cento) - sobre o valor do tributo, como preceitua a Lei Estadual 12.729/97 (art. 1º), que alterou a Lei Estadual 6.763/75.”
+    Sustenta-se, em síntese, a violação dos arts. 150, IV, e 155, II e § 2º, da Constituição federal.
+    O recurso não merece seguimento.
+    Verifico que concluir diversamente do Tribunal de origem quanto à validade da exação na hipótese dos autos demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    No que se refere à multa fiscal, observo que a parte ora recorrente se limita a afirmar, de forma genérica, que multa no percentual de 50% teria caráter confiscatório, sem trazer, contudo, argumentos adequados a caracterizar, de plano, a irrazoabilidade e a desproporcionalidade da multa fiscal aplicada em relação à hipótese dos autos. Portanto, eventual efeito confiscatório da multa somente seria aferível mediante exame do quadro fático-probatório, o que atrai novamente o óbice da Súmula 279/STF.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
