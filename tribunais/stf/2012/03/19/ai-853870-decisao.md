@@ -1,0 +1,21 @@
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. AVERBAÇÃO DE TEMPO DE SERVIÇO PRESTADO FORA DA ESFERA DISTRITAL. MATÉRIA REGULADA POR NORMAS LEGAIS (LEI 8.112/90 C.C LEIS DISTRITAIS 197/91, 211/91 E 362/92). MATÉRIA INFRACONSTITUCIONAL.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário
+2. In casu, o acórdão recorrido assentou:
+“MANDADO DE SEGURANÇA – TRIBUNAL DE CONTAS DO DISTRITO FEDERAL – TEMPO DE SERVIÇO FEDERAL – AVERBAÇÃO – TEMPO DE SERVIÇO FEDERAL – AVERBAÇÃO – TODOS OS EFEITOS – SEGURANÇA CONCEDIDA – MAIORIA. A Lei Distrital nº 362/92 assegura aos servidores do Tribunal de Contas do Distrito Federal os mesmos direitos, vantagens e benefícios concernentes aos servidores da Câmara Legislativa do Distrito Federal. O tempo de serviço prestado anteriormente à Administração Federal é averbável para todos os efeitos.”
+3. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e Territórios que deferiu a segurança pleiteada para conferir aos agravados o direito à averbação do tempo laborado para a Administração Pública Federal para todos os efeitos legais.
+    Nas razões do extraordinário, o DISTRITO FEDERAL alegou violação aos arts. 5º, II, 37, caput e 40, § 9º, da CF. Sustentou em síntese que i) o acórdão teria reconhecido direito contra expressa disposição legal (art. 103, I, Lei nº 8.112/90); ii) que a regra estabelecida no § 9º do art. 40 da CF diz respeito apenas para contagem de tempo de serviço para efeito de disponibilidade, e não para concessão de aposentadoria.
+    Recurso inadmitido na origem com entendimento de que se trataria de matéria decidida exclusivamente em normas infraconstitucionais.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar.
+    Preliminarmente, a intimação do acórdão recorrido ocorreu em 22.03.2005, logo, o agravante está desobrigado da apresentação da preliminar formal e fundamentada da repercussão do caso, conforme decisão do Plenário desta Corte quando do julgamento da QO-AI 664.567, da Relatoria do Ministro Sepúlveda Pertence, DJ de 06.09.2007.
+    A matéria posta nos autos diz respeito na origem a mandado de segurança proposto pelos ora agravados, servidores do Tribunal de Contas do Distrito Federal, a fim de obter a averbação de tempo de serviço prestado para a Administração Pública Federal, para todos os efeitos legais. O acórdão recorrido concedeu a segurança, fundamentando suas razões com a interpretação conferida às normas infraconstitucionais aplicáveis à espécie (Lei 8.112/90 c.c Leis Distritais 197/91, 211/91 e 362/92), chegando à conclusão que, no caso em comento, os agravados fariam jus à pretendida averbação. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. TEMPO DE SERVIÇO PRESTADO SOB CONDIÇÕES INSALUBRES. 1. JULGAMENTO DE CAUSAS DECORRENTES DO CONTRATO DE TRABALHO NO PERÍODO ANTERIOR À TRANSIÇÃO DO REGIME CELETISTA PARA ESTATUTÁRIO: COMPETÊNCIA DA JUSTIÇA DO TRABALHO. 2. AVERBAÇÃO EM PERÍODO POSTERIOR À INSTITUIÇÃO DO REGIME JURÍDICO ÚNICO. NECESSIDADE DE REGULAMENTAÇÃO LEGAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 481.502-AgR, Primeira Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 7.4.2011).
+    “RECURSO EXTRAORDINÁRIO - MATÉRIA LEGAL. O recurso extraordinário não é meio próprio a alcançar-se exame de controvérsia equacionada sob o ângulo estritamente legal. (...)”(RE 592.213-AgR, Primeira Turma, Rel. Min. MARCO AURÉLIO, DJe de 18.5.2010 – grifo nosso).
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento.
+    Publique-se. Int..
+    Brasília,19 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
