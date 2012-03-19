@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE CONTRATO CELEBRADO COM ENTIDADE FECHADA DE PREVIDÊNCIA COMPLEMENTAR. REPERCUSSÃO GERAL REJEITADA.
+    Decisão: Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso extraordinário em que se discute, à luz do art. 202, caput, da Constituição Federal, a obrigação, ou não, de revisão de contrato celebrado com entidade fechada de previdência complementar, a fim de equiparar o reajuste da complementação de aposentadoria custeada por esta entidade com aqueles reajustes que foram implementados pelo regime geral de previdência social
+    O agravo não merece ser conhecido.
+    A controvérsia tratada nos autos já foi analisada no AI 642.137 – RG, da relatoria do Min. Cezar Peluso, DJe de 15/09/11, em que o Plenário desta Corte decidiu rejeitar sua repercussão geral, uma vez que a matéria está restrita a análise de norma infraconstitucional. O referido agravo está assim ementado:
+    RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Complementação de aposentadoria. Revisão de contrato. Entidade fechada de previdência complementar. Regime geral de previdência social. Equiparação de reajustes. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto revisão de contrato celebrado com entidade fechada de previdência complementar, a fim de equiparar o reajuste da complementação de aposentadoria custeada por esta entidade com aqueles reajustes que foram implementados pelo regime geral de previdência social, versa sobre tema infraconstitucional.
+    In casu, o acórdão recorrido assentou:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNDAÇÃO BANRISUL DE SEGURIDADE SOCIAL. DIFERENÇA DE COMPLEMENTAÇÃO DE APOSENTADORIA. FATOR REDUTOR. REGULAMENTO VIGENTE. PRELIMINAR REJEITADA.
+    Da legitimidade passiva ad causam
+          A parte autora objetiva a cobrança de diferenças de complementação aposentadoria com a revisão de seu benefício, que é pago pela entidade ré, de sorte que a recorrente é parte legítima para figurar no pólo passivo da presente demanda, diante do vínculo obrigacional a que está submetida.
+    Mérito do recurso em exame
+          A parte autora objetiva a cobrança da diferença de complementação de aposentadoria entre os proventos pagos pelo Instituto Nacional de Seguridade Social (INSS) e àquele percebido da Fundação, pois entende que no seu benefício complementar deve ser adicionado o valor atinente ao fator previdenciário, o qual começou a ser deduzido pela Previdência Oficial, após as modificações inseridas pela Lei n.º 9.876/99.
+          A parte autora aderiu ao plano de previdência complementar oferecido pela parte demandada em 1975. Logo, quando do ingresso do postulante no referido plano o Regulamento Geral Benefícios vigente era aquele editado em 1964. Inteligência da Súmula n.º 288 do TST.
+          As disposições constantes no Regulamento de Benefícios da Fundação Banrisul, aprovado pela Secretária de Previdência Complementar, conforme ofício nº 07 de 06/01/1999, que a parte demandada utiliza como fundamento para pagamento do benefício complementar com base na legislação precedente não podem incidir no caso em tela. Isto se deve ao fato de que são posteriores à própria concessão do benefício complementar à parte postulante, bem como desfavoráveis em relação àquele vigente na data de ingresso da parte postulante no referido plano, pois, a toda evidência, importa em afronta ao contido na Súmula n.º 288 do TST antes mencionada.
+          Assim, se revela indevida a não observância pela Fundação demandada da dedução feita pelo INSS relativa ao “fator previdenciário”, após a entrada em vigor da Lei nº 9.876/99. Presente o fato de que o direito do postulante está previsto em contrato previdenciário mantido entre as partes e encontra respaldado no art. 13 do Regulamento Geral de Benefícios, vigente quando de seu ingresso no plano em questão.
+    Juros e correção monetária sobre as parcelas devidas
+          Os valores deverão ser atualizados monetariamente de acordo com os índices do IGP-M, desde o vencimento de cada parcela reconhecida como devida. No que tange aos juros moratórios, estes incidem sobre o quantum devido a partir da citação.
+    Do desconto previdenciário e da dedução do imposto de renda sobre as parcelas devidas
+          O cálculo do tributo deve levar em conta o fato gerador, tanto no que diz respeito à vantagem devida como ao lapso temporal referente a esta, sob hipótese alguma pode ser exigido sobre o somatório de todas as parcelas relativas ao beneficio reconhecido judicialmente.
+          Assim, o desconto previdenciário e à dedução do imposto de renda devem incidir sobre os valores do benefício devido, considerados mês a mês e sobre a parcela correspondente, na medida em que estão previstos em lei e são exigíveis quando deveriam ter sido disponibilizados o respectivo montante.
+    Rejeitada a preliminar e, no mérito, dado parcial provimento ao apelo.”
+    Ex positis, NÃO CONHEÇO do agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
