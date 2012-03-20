@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário com agravo contra decisão de inadmissibilidade de apelo extremo que impugna acórdão assim ementado:
+    “APELAÇÃO. CIVIL. PROCESSO CIVIL. AÇÃO ORDINÁRIA. MATÉRIA DECIDIDA E NÃO MAIS SUJEITA A RECURSO. COISA JULGADA. OCORRÊNCIA. SENTENÇA MANTIDA. PROCESSO CAUTELAR. MANUTENÇÃO DOS EFEITOS DA LIMINAR. IMPOSSIBILIDADE.
+Verificando-se que a questão exposta na inicial foi analisada em sede de Mandado de Segurança, com sentença não mais sujeita a recurso, mantém-se a decisão que reconheceu a coisa julgada e extinguiu o feito nos moldes do artigo 267, V, do Código de Processo Civil.
+    De acordo com o artigo 467 ‘denomina-se coisa julgada material a eficácia, que torna imutável e indiscutível a sentença, não mais sujeita a recurso ordinário ou extraordinário’
+Dispõe o inciso III do artigo 808 do Código de Processo Civil que ‘cessa a eficácia da medida cautelar se o juiz declarar extinto o processo principal, com ou sem julgamento do mérito’”. (fl. 313)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa aos artigos 5º, LIV e LV; e 93, IX, do texto constitucional.
+    No apelo extremo, sustenta-se que a presente demanda visa a anular a decisão administrativa final, por vícios formais e materiais, ao passo que o mandado de segurança atacou o procedimento administrativo, para que houvesse instrução probatória nessa sede.
+    Argumenta-se violação aos princípios do contraditório e da ampla defesa no processo administrativo, aduzindo que o recorrente não teve oportunidade de produzir prova do seu direito.
+    Decido.
+     O recurso não merece prosperar.
+    Verifico que, para se chegar à solução diversa do acórdão recorrido quanto à alegação de existência de coisa julgada, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF.
+    Além disso, esta Corte consignou o entendimento no sentido de que a controvérsia referente aos limites da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+    Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, Primeira Turma, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009; e do RE-AgR 397.227, Rel. Min. Ayres Britto, Primeira Turma, DJe 13.8.2010, este último assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido”.
+    Ademais, é firme a jurisprudência desta Corte no sentido de que suposta ofensa às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Observo ainda que, em relação à alegação de cerceamento do direito de defesa em razão do indeferimento de produção de prova, esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do ARE-RG 639.228, ocasião em que rejeitou a existência de repercussão geral, tendo em vista a natureza infraconstitucional da questão posta.
+    Por último, quanto à alegada ofensa ao artigo 93, IX, da Constituição Federal, ressalto que este Tribunal também já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
