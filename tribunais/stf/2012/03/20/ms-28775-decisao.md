@@ -1,0 +1,14 @@
+Como já assentado na decisão em que apreciei a medida cautelar, há conexão, em face da identidade da causa de pedir e do pedido, entre este writ, o MS 28.777/DF e o MS 28.797/DF, todos de minha relatoria, em que se questiona o mesmo ato administrativo do Conselho Nacional de Justiça (Procedimento de Controle Administrativo 0000110-14.2009.2.22.0000).
+    Sendo, pois, conexas as ações - e em observância aos princípios da celeridade e segurança jurídica - entendo devam ser reunidos os processos para tramitação e julgamento conjuntos, nos termos do art. 105 do Código de Processo Civil.
+    Assim, com o retorno dos autos do MS 28.797/DF da Procuradoria Geral da República, em 16/3/2012, determino o apensamento do MS 28.777/DF e do MS 28.797/DF a estes autos para a apreciação concomitante do mérito dessas ações mandamentais.
+    Determino, ainda, aos impetrantes que adotem, na Secretaria Judiciária desta Corte, as providências necessárias para a promoção da citação, na qualidade de litisconsortes passivos, de todos os demais candidatos aprovados que estejam ocupando as serventias previstas no edital do XLI Concurso Público para Admissão nas Atividades Notariais e/ou Registrais da Corregedoria Geral da Justiça do Estado do Rio de Janeiro, no prazo de dez dias, sob pena de extinção do processo (art. 47, caput e parágrafo único, do CPC).
+    Ressalto, por oportuno, trecho da decisão proferida pelo Min. Celso de Mello no MS 27.513-MC/DF:
+    “A efetivação dos atos citatórios em referência constitui providência essencial ao regular prosseguimento da presente ação mandamental, pois a eventual concessão do mandado de segurança terá o condão de afetar a esfera jurídica de referidos sujeitos processuais, que são aqueles que deram causa à instauração, perante o Conselho Nacional de Justiça, do procedimento administrativo de que resultou a deliberação ora impugnada.
+    É tão importante (e inafastável) a efetivação desses atos citatórios, com o conseqüente ingresso formal desses litisconsortes passivos necessários na presente causa mandamental - o que viabilizará, por imperativo constitucional, a instauração do contraditório -, que a ausência de referida medida, não obstante o rito especial peculiar ao mandado de segurança, poderá importar em nulidade processual, consoante adverte a jurisprudência dos Tribunais em geral, inclusive a desta Corte (RTJ 57/278 – RTJ 59/596 – RTJ 64/777 – RT 391/192, v.g.):
+    'No caso de litisconsórcio necessário, torna-se imprescindível a citação do litisconsorte, sob pena de nulidade do processo'.
+    (Revista dos Tribunais, vol. 477/220 – grifei)” (grifos no original).
+    Junte-se cópia deste despacho aos autos dos Mandados de Segurança 28.777/DF e 28.797/DF.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
