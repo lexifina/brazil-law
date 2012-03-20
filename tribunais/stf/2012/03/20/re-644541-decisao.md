@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário interposto contra acórdão que não reconheceu direito a crédito de ICMS pago na aquisição de insumos utilizados no processo produtivo da recorrente, mas que não integraram o produto final.
+    Ademais, o Tribunal de origem entendeu legítima a sistemática de compensação prevista pela Lei Complementar 102/2000, na hipótese de aquisição de bens destinados ao ativo fixo da empresa.
+    Por fim, assentou a necessidade de correção monetária dos créditos reconhecidos quando não foi possível seu aproveitamento à época própria ante injustificada resistência do Fisco. Entretanto, ressaltou a impossibilidade de correção, na espécie, ante o não reconhecimento dos créditos pleiteados pela recorrente.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se o direito ao crédito de ICMS decorrente da aquisição dos insumos mencionados.
+    Sustentou-se, ainda, a inconstitucionalidade das restrições impostas pela Lei Complementar 102/2000 ao aproveitamento de créditos pela obtenção de bens do ativo imobilizado.
+    Aduziu-se, por fim, a necessidade de correção monetária dos créditos requeridos.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, quanto ao reconhecimento de direito a crédito de ICMS decorrente da aquisição dos insumos utilizados no processo produtivo da recorrente, mas que não integram o produto final, verifico que o recurso ficou prejudicado. Isso porque o Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial 1.175.166/MG,
+    “determinando o retorno do autos para que o Tribunal de origem avalie se os insumos são aplicados e consumidos na atividade-fim da empresa, ainda que não integrem o produto final (prestação de serviço de transporte), caso em que a contribuinte terá direito ao creditamento pleiteado, nos termos do art. 20 da LC 87/1996” (fl. 2.234, com trânsito em julgado certificado à fl. 2.265).
+    No que concerne à alegada ilegitimidade da sistemática de compensação prevista pela Lei Complementar 102/2000, na hipótese de aquisição de bens destinados ao ativo permanente do contribuinte, não prospera o recurso. É que o acórdão recorrido está em conformidade com a jurisprudência desta Corte no sentido de que não ofende o princípio da não cumulatividade a limitação temporal imposta pela lei mencionada ao aproveitamento de créditos de ICMS decorrentes da aquisição de bens destinados ao ativo fixo da empresa. Nesse sentido, cito decisões de ambas as Turmas desta Corte:
+    “ICMS. LEI COMPLEMENTAR 102/2000. SISTEMÁTICA PARA A COMPENSAÇÃO DO TRIBUTO RESULTANTE DE AQUISIÇÃO DE BENS PARA O ATIVO FIXO. OFENSA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE. NÃO-OCORRÊNCIA. PEDIDO DA RECORRENTE DE SOBRESTAMENTO ATÉ JULGAMENTO DEFINITIVO DA ADI 2.325. IMPROCEDENTE.
+    1. A jurisprudência do Supremo Tribunal Federal entende que não ofende o princípio constitucional da não-cumulatividade a sistemática para compensação do ICMS resultante da aquisição de bens para o ativo fixo conforme previsto na LC 102/2000.
+    2. De mais a mais, é assente nesta Casa de Justiça que a 'existência de decisão plenária, proferida em sede de controle normativo abstrato, de que tenha resultado o indeferimento do pedido de medida cautelar, não impede que se proceda, desde logo, por meio do controle difuso, ao julgamento de causas em que se deva resolver, incidenter tantum, litígio instaurado em torno de idêntica controvérsia constitucional' (AI 384.121-AgR, da relatoria do ministro Celso de Mello).
+    3. Agravo regimental desprovido” (AI 752.939-AgR/PR, Rel. Min. Ayres Britto, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. AQUISIÇÃO DE MERCADORIAS DESTINADAS AO USO, AO CONSUMO E À INTEGRAÇÃO DO ATIVO FIXO: COMPENSAÇÃO. LEI COMPLEMENTAR N. 102/2000: INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA NÃO-CUMULATIVIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    O julgamento de medida cautelar em ação direta de inconstitucionalidade autoriza o exame imediato dos recursos sobre a controvérsia que nela se tenha cuidado” (RE 457.078-AgR/PA, Rel. Min. Cármen Lúcia, Primeira Turma).
+    No mesmo sentido, as seguintes decisões, entre outras: AI 630.641-AgR/SC, Rel. Min. Ayres Britto; RE 461.878-AgR/MG, Rel. Min. Eros Grau; ADI 2.325-MC, Rel. Min. Marco Aurélio.
+    Por fim, ante o não reconhecimento de créditos de ICMS neste extraordinário, fica prejudicada, nesta sede, a discussão acerca da necessidade de sua correção monetária.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
