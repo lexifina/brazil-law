@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a) interposto de acórdão do Superior Tribunal de Justiça, cuja ementa tem o seguinte teor (fls. 257):
+    “CONSTITUCIONAL. ADMINISTRATIVO. CORREGEDORIA-GERAL DA UNIÃO. PORTARIA N. 5, DE 26/6/2001. DENÚNCIA. AUTORIA. ANONIMATO. DIREITO DE RECEBER INFORMAÇÕES. SIGILO. SEGURANÇA DO ESTADO E DA SOCIEDADE. LEI N. 8.159/91. DECRETO N. 2.134/97. CONSTITUIÇÃO FEDERAL, ART. 5, V, XXXIII, XXXIV e XXXV.
+    1. Não é dado ao órgão público encarregado de apurar eventuais irregularidades praticadas no âmbito da Administração Pública, a pretexto de proteger a identidade do delator, atingir a esfera jurídica do acusado, de modo a cercear o exercício do seu legítimo direito de ação.
+    2. Se é certo que o sigilo de informações deve permear a conduta do agente público encarregado da tramitação, no âmbito da Corregedoria-Geral da República, dos processos envolvendo denúncias de irregularidades praticadas contra o patrimônio estatal – presente a necessidade de se evitar o vazamento perante terceiros de acusações muitas vezes inconsistentes e resguardar, com isso, a pessoa do denunciado –, por outro lado, não é menos correto assentir que tais cautelas não devem atingir a pessoa do investigado, que, em tais circunstâncias, ficaria em posição de nítida inferioridade perante o acusador e o próprio órgão processante.
+    3. Todo cidadão tem o direito de expressar livremente suas opiniões, constituindo tal prerrogativa um dos pilares do chamado Estado Democrático de Direito. Não se mostra, entretanto, razoável eximi-lo de prestar contas por eventuais abusos praticados em razão do irregular exercício desse direito.
+    4. Hipótese em que o informe requerido pelo impetrante longe está de configurar situação de risco à segurança do Estado ou à estabilidade da sociedade, de modo a tornar imprescindível a utilização da regra constitucional exceptiva do sigilo da informação.
+    5. Não há como se equiparar o anonimato do denunciante com o instituto da proteção à testemunha. Esta tem cara, tem endereço, tem um nome a zelar, tem compromisso com a verdade; o delator anônimo, ao contrário, pode se utilizar das facilidades inerentes a essa condição para macular, leviana e irresponsavelmente, a dignidade de possíveis desafetos, com o intuito de se promover ilicitamente.
+    6. Arquivadas as denúncias, classificadas pela CGU na rubrica de "documentos reservados", esvaziam-se também sob a perspectiva da Lei n. 8.159/91 e seu decreto regulamentador os argumentos deduzidos pela autoridade coatora com o propósito de justificar o indeferimento do pedido de informações de que tratam os autos.
+    7. Segurança concedida.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, IV, XXXIII e XXXIV, b; 37, caput, e 97 da Constituição federal.
+    Intimada conforme despacho a fls. 300, a União não se manifestou sobre interesse no prosseguimento do feito.
+    É o relatório. Decido.
+    O recorrido ajuizou mandado de segurança “contra ato do Ministro de Estado Corregedor-Geral da União, que, com base nos termos da Portaria n. 5, de 26/6/2001, indeferiu pedido de fornecimento de certidão com a identificação dos autores de denúncias de irregularidades a ele atribuídas, que culminaram com a instauração de diversos processos perante aquele órgão” (fls. 244).
+    Nas contrarrazões ao presente recurso, o impetrante informa que o acórdão recorrido foi integralmente cumprido, tendo sido fornecida a certidão contendo todas as informações solicitadas pelo recorrido. Sustenta, então, a perda de objeto do presente recurso (fls. 288).
+    É de se acolher o pleito do impetrante. A situação fática está consumada, de modo que não se poderá extrair do recurso extraordinário nenhum benefício prático ao recorrente.
+    Registro, outrossim, que o documento/dado foi classificado como sigiloso, no grau reservado, cuja restrição ao conhecimento do público se inviabiliza pelo prazo máximo de 5 (cinco) anos, prorrogável por igual período (Decreto 4.553/2002, art. 7º, IV e § único, que revogou o disposto no Decreto 2.134/1997, arts. 20, IV e 23).
+    Ocorre que já houve o transcurso do prazo previsto na aludida legislação, que culminou na desclassificação dos documentos/dados, tornando-os acessíveis ao público em geral.
+    Do exposto, julgo prejudicado o presente recurso em face da perda superveniente de objeto.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
