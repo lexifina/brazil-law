@@ -1,0 +1,21 @@
+Vistos.
+    O Ministério Público do Estado de São Paulo suscitou conflito negativo de atribuição em face do Ministério Público Federal, quanto aos fatos apurados no inquérito policial nº 777/2001, instaurado pela Polícia Civil do Estado de São Paulo para investigar a prática, em tese, dos crimes de calúnia e contra a organização do trabalho ocorridos quando da demissão de Antônio Brandão da Silva pela empresa SERBOM Armazéns Gerais Frigoríficos Ltda.
+    No curso do procedimento inquisitório, Antônio Brandão da Silva atribuiu à Nelci Alves de Oliveira, este gerente da SERBOM, a prática do delito de calúnia por insinuar que Antônio teria subtraído mercadorias da SERBOM.
+    Antônio afirmou, ainda, que “ tem conhecimento de que todos os ajudantes de carga e descarga da SERBOM trabalham sem registro “, o que poderia caracterizar, em tese, crime contra a organização do trabalho.
+    Reconhecida a extinção da punibilidade do crime de calúnia pela decadência do direito à propositura de ação penal privada, entendeu o Ministério Público do Estado de São Paulo que a análise do crime remanescente seria de competência da Justiça Federal.
+    O Ministério Público Federal no Estado de São Paulo, por sua vez, sustentou que a suposta prática do crime contra a organização do trabalho não atentou contra “ o sistema de órgãos e institutos que preservam coletivamente os direitos dos trabalhadores, nem tampouco trouxe relevantes reflexos na ordem pública “, afetando somente alguns empregados, não existindo justificativa para o deslocamento do feito para a Justiça Federal.
+    O feito foi inicialmente tratado como conflito de competência, e processado perante o Superior Tribunal de Justiça, que por sua vez concluiu pela hipótese de conflito de atribuições entre órgãos do Ministério Público, o que resultou no encaminhamento do feito à esta Suprema Corte.
+    Recebida como ação civil originária, não obstante a evidente natureza incidental de conflito de atribuições, o feito foi encaminhado à Procuradoria Geral da República.
+    Em sua manifestação o Procurador Geral da República opinou pelo reconhecimento da atribuição da Procuradoria da República no Estado de São Paulo para análise dos fatos tratados no inquérito policial.
+    É o relato. Decido.
+    Nos termos do art. 109, VI, da Constituição Federal, compete aos juízes federais processar e julgar “ os crimes contra a organização do trabalho “.
+    O plenário desta Suprema Corte, quando do julgamento do RE 398.041 de relatoria do eminente Ministro Joaquim Barbosa, firmou o seguinte entendimento:
+    “Quaisquer condutas que possam ser tidas como violadoras não somente do sistema de órgãos e instituições com atribuições para proteger os direitos e deveres dos trabalhadores, mas também dos próprios trabalhadores, atingindo-os em esferas que lhes são mais caras, em que a Constituição lhes confere proteção máxima, são enquadráveis na categoria dos crimes contra a organização do trabalho, se praticadas no contexto das relações de trabalho.”
+    Assim, consideram-se crimes contra a organização do trabalho tanto as condutas que violem o sistema de órgãos e instituições com atribuições para proteger os direitos e deveres dos trabalhadores, quanto aquelas perpetradas contra os próprios trabalhadores.
+    Presentes elementos que indicam a prática, em tese, do crime previsto no art. 230 do Código Penal, fixada está a competência da Justiça Federal para conhecimento e julgamento da causa, e consequentemente a atribuição do Ministério Público Federal para nela oficiar.
+    Ademais, conforme destacou a Procuradoria Geral da República existem, ainda, fortes indicativos da prática de condutas delitivas contra a Previdência Social, reforçando, uma vez mais, a competência da Justiça Federal para análise dos fatos, e consequentemente a atribuição do Ministério Público Federal para atuar.
+    Ante o exposto, conheço do conflito de atribuição, e declaro a atribuição do suscitado, Ministério Público Federal em São Paulo, para atuar nos fatos tratados no inquérito policial 777/2001 instaurado pela Polícia Civil de São Paulo.
+    Publique-se. Intimem-se.
+    Brasília, 20 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+Relator
