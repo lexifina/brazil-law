@@ -1,0 +1,22 @@
+DECISÃO
+HABEAS CORPUS. PENAL E CONSTITUCIONAL. IMPETRAÇÃO CONTRA ATO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. SÚMULA N. 606 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DA IMPETRAÇÃO. PRECEDENTES. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com pedido de medida liminar, impetrado por PAULO HENRIQUE DE MORAES SARMENTO e WILLIAM CÉSAR PINTO DE OLIVEIRA, advogados, em favor de WESLEY FERNANDO PEREIRA CHAVES e JANE CARDOSO DOS SANTOS, contra ato do Ministro Luiz Fux, deste Supremo Tribunal Federal, Relator da Reclamação n. 12.511.
+    2. Os Impetrantes alegam excesso de prazo para análise do pedido liminar formulado na reclamação, ajuizada, em favor dos Paciente, em 5.9.2011 e sustentam ser “inconcebível que um pedido de liminar, formulado por indivíduos que padecem no cárcere, aos quais a legislação garante prioridade, demore mais de 04 (quatro) meses para ser analisado pela Suprema Corte”, pelo que pedem:
+    “(...) Diante do todo o exposto, requer: a) a concessão liminar da ordem de habeas corpus, a fim de determinar seja imediatamente analisado o pedido de liminar formulada na Reclamação n.° 12.511; b) a concessão definitiva da ordem de habeas corpus, para confirmar a liminar e determinar seja a Reclamação n.° 12.511 submetida a julgamento em prazo razoável (...)”.
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A presente ação é juridicamente inviável. A jurisprudência consolidou-se no sentido de ser inadmissível habeas corpus contra ato comissivo ou omissivo de Ministro deste Supremo Tribunal.
+    Assim, por exemplo, a decisão do Ministro Gilmar Mendes, Relator do Habeas Corpus n. 90.234, concluindo ser incabível habeas corpus contra decisão de Ministro Relator do Supremo Tribunal Federal:
+    “(...) O órgão apontado como coator neste ‘writ’ é o Supremo Tribunal Federal, em virtude da decisão do Ministro Joaquim Barbosa, que denegou a ordem no HC nº 90.169/SC.
+    O não-cabimento de ‘habeas corpus’ contra atos jurisdicionais do Supremo Tribunal Federal, referentes a outros ‘habeas corpus’ impetrados perante esta mesma Corte é entendimento pacífico nesta Corte.
+    Incabível, portanto, a pretensão deduzida no presente ‘habeas’, que encontra óbice na jurisprudência deste Tribunal. Nesse sentido, arrolo os seguintes precedentes: HC nº 87.391/SP, Rel. Min. Carlos Velloso, decisão monocrática, ‘DJ’ de 01.02.2006; HC nº 85.468 (AgR), Rel. Min. Carlos Velloso, Tribunal Pleno, maioria, ‘DJ’ de 19.08.2005; HC nº 82.010, Rel. Min. Mauricio Corrêa, decisão monocrática, ‘DJ’ de 29.5.2002; HC nº 81.078/SP (AgR), Rel. Min. Moreira Alves, decisão monocrática, ‘DJ’ de 13.09.2001; e HC nº 76.799, Rel. Min. Octávio Gallotti, decisão monocrática, ‘DJ’ de 16.03.1998.
+    Em virtude do exposto, nego seguimento a este pedido de ‘habeas corpus’ por ser manifestamente incabível, nos termos do art. 21, § 1o, do RI/STF, ficando prejudicada, consequentemente, a apreciação da medida liminar (...)” (DJ 2.3.2007).
+    No julgamento do Habeas Corpus n. 86.548, Relator o Ministro Cezar Peluso, posicionei-me no sentido de que, embora o “caso não se subsuma integralmente à hipótese da súmula 606, por não se tratar de decisão de Turma nem do Plenário, em habeas corpus, entendo que as mesmas razões informadoras do seu enunciado servem a conduzir ao não conhecimento deste pedido” (excerto do voto do Ministro Cezar Peluso, Relator, DJe 19.12.2008).
+    A questão analisada no Habeas Corpus n. 86.548 também referia-se a impetração de habeas corpus contra ato do Ministro Relator da Reclamação n. 2.830, tendo sido decidido naquele julgamento:
+    “EMENTA: HABEAS CORPUS. Ação de competência originária. Impetração contra ato de Ministro Relator do Supremo Tribunal Federal. Decisão de órgão fracionário da Corte. Não conhecimento. HC não conhecido. Aplicação analógica da súmula 606. Precedentes. Voto vencido. Não cabe pedido de habeas corpus originário para o tribunal pleno, contra ato de ministro ou outro órgão fracionário da Corte” (DJe 19.12.2008).
+    No mesmo sentido, Habeas Corpus 96.954-AgR, Rel. Min. Ayres Britto, DJe 8.6.2011; HC 101.432, Relator o Ministro Marco Aurélio e Redator para o acórdão o Ministro Dias Toffoli, DJe 16.4.2010, entre outros.
+    4. Pelo exposto, nego seguimento ao presente habeas corpus (art. 21, § 1°, do Regimento Interno do Supremo Tribunal Federal), ficando, por óbvio, prejudicado o requerimento de medida liminar.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
