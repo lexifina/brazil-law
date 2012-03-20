@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal, cuja ementa transcrevo (fls. 50):
+    “PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. DIFERENÇAS RECEBIDAS DE BOA-FÉ. INCABÍVEL. DEVOLUÇÃO.
+    1. Incabível a restituição de valores alimentares recebidos por força de decisão judicial, posteriormente reformada, uma vez que as importâncias foram auferidas com absoluta boa-fé. 2. Precedentes jurisprudenciais.”
+    O recorrente aponta violação dos arts. 5º, II; 37; 97 e 105, III. Afirma que a legislação não excepciona, para efeitos de devolução, os casos de verba alimentar. Ademais, sustenta que a reserva de plenário não foi observada ao deixar de aplicar a legislação, importando tal atitude numa verdadeira declaração de inconstitucionalidade. Por fim, alega que os valores recebidos por força de antecipação de tutela, revogada ou reformada, bem como recebidos por erro administrativo são repetíveis.
+    É o relatório. Decido.
+    Verifico, inicialmente, que o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 5º, II; 37; 105, III, versa questões constitucionais não ventiladas na decisão recorrida. Ao inovar nos autos, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356.
+    No tocante ao art. 97, não é necessário instaurar o procedimento do dispositivo constitucional, pois o acórdão objurgado não exerceu o controle da compatibilidade vertical da lei em face da Constituição, mas deu, conforme seu juízo, uma interpretação consentânea com os princípios constitucionais. Nesse sentido: AI 820.685-AgR (rel. min. Ellen Gracie, Segunda Turma, DJe de 10.05.2011).
+    No mérito, esta Corte firmou o entendimento de que a questão da devolução de valores recebidos em antecipação de tutela não ultrapassa o exame de normas infraconstitucionais, configurando ofensa meramente reflexa ao texto constitucional. Confiram-se:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO E PREVIDENCIÁRIO. 1. DEVOLUÇÃO DE VALORES RECEBIDOS DE BOA-FÉ PELA PARTE BENEFICIÁRIA EM RAZÃO DE ANTECIPAÇÃO DE TUTELA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. O JULGAMENTO PELA ILEGALIDADE DO PAGAMENTO DO BENEFÍCIO PREVIDENCIÁRIO NÃO IMPORTA NA OBRIGATORIEDADE DA DEVOLUÇÃO DAS IMPORTÂNCIAS RECEBIDAS DE BOA-FÉ. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI 746.442-AgR, rel. min. Cármen Lúcia, Primeira Turma, DJe de 23.10.2009)
+    “EMENTA Embargos de declaração no recurso extraordinário. Conversão dos embargos declaratórios em agravo regimental. Lei nº 9.032/95. Tutela antecipada. Devolução dos valores recebidos.
+    1. Embargos de declaração recebidos como agravo regimental.
+    2. A devolução ou não dos valores recebidos em razão da antecipação de tutela é questão a ser dirimida nas instâncias ordinárias.
+    3. Agravo regimental não provido.” (RE 517.681-ED, rel. min. Dias Toffoli, Primeira Turma, DJe de 23.11.2010)
+    E ainda: AI 822.207 (rel. min. Ellen Gracie, DJe de 16.05.2011); AI 798.480 (rel. min. Celso de Mello, DJe de 08.04.2011) e AI 841.940 (rel. min. Ricardo Lewandowski, DJe de 12.04.2011).
+    Ademais, o Supremo Tribunal Federal, ao apreciar o AI 841.473-RG (rel. min. Cezar Peluso, DJe de 01.09.2011- Tema 425 ), não reconheceu a repercussão geral do tema tratado naquele recurso, por não se tratar de matéria constitucional. Eis a ementa do referido acórdão:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
