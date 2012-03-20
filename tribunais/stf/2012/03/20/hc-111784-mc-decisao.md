@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão, que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “'HABEAS CORPUS' LIBERATÓRIO. NARCOTRAFICÂNCIA E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO EM FLAGRANTE DELITO EM 27.03.2008, RELAXADA EM 06.04.2010, POR EXCESSO DE PRAZO. CONDENAÇÃO EM PRIMEIRO GRAU EM 21.05.2010. PENA FIXADA: 4 ANOS, 11 MESES E 10 DIAS DE RECLUSÃO, EM REGIME INICIAL FECHADO. NEGATIVA DO DIREITO DE APELAR EM LIBERDADE. DECISÃO DEVIDAMENTE FUNDAMENTADA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE DEMONSTRADA PELA QUANTIDADE E NATUREZA DA DROGA APREENDIDA (124 PEDRAS DE CRACK E 4 PORÇÕES DE COCAÍNA), HABITUALIDADE DA CONDUTA E PELO FATO DE O COMÉRCIO ILÍCITO TER OCORRIDO NAS IMEDIAÇÕES DE INSTITUIÇÃO DE ENSINO. RÉU QUE PERMANECEU PRESO DURANTE QUASE TODA A INSTRUÇÃO CRIMINAL. PARECER DO MPF PELA DENEGAÇÃO DA ORDEM. ORDEM DENEGADA.
+    1. Não há constrangimento ilegal na negativa do direito de aguardar em liberdade o julgamento do recurso de Apelação, por ocasião da prolação da sentença condenatória, daquele que foi preso em flagrante delito, assim respondendo a quase toda a ação penal por narcotraficância e associação para o tráfico de entorpecentes, tendo sua soltura se dado ao excesso de prazo para a finalização da instrução criminal e não à ausência dos pressupostos da prisão cautelar. Precedentes do STJ.
+    2. Ademais, a manutenção da prisão cautelar para apelar restou embasada na garantia da ordem pública, em razão da quantidade e da natureza da droga (124 pedras de crack e 4 porções de cocaína), e aos indícios de que o paciente faz desta atividade seu meio de vida, além de o comércio ter ocorrido nas imediações de instituição de ensino.
+    3. É inconciliável com a realidade processual manter-se o acusado preso durante quase toda a instrução e, após a sua condenação, colocá-lo em liberdade, porque depois de tal provimento judicial se tem como reforçado ou densificado o acervo incriminatório coletado contra o réu.
+    4. Ordem denegada, em consonância com o parecer ministerial.”
+(HC 189.476/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO - grifei)
+           O exame dos fundamentos em que se apóia o acórdão ora impugnado parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+           Sendo assim, e sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida liminar.
+           Publique-se.
+           Brasília, 20 de março de 2012.
+Ministro CELSO DE MELLO
+Relator
