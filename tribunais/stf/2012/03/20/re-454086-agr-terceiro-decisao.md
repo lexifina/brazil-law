@@ -1,0 +1,18 @@
+DECISÃO: Inicialmente, reconsidero a decisão de fl. 273, tendo em vista que a presente controvérsia refere-se a processo diverso do paradigma citado, e passo a julgar o recurso.
+    Trata-se de recurso extraordinário contra acórdão do Tribunal Superior do Trabalho assim ementado:
+    “AGRAVO - AÇÃO RESCISÓRIA - PLANOS ECONÔMICOS - IPC DE JUNHO DE 1987 E URPs DE ABRIL E MAIO DE 1988 - NÃO-INVOCAÇÃO DO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL NA PETIÇÃO INICIAL - ORIENTAÇÃO JURSIPRUDENCIAL Nº 34 DA SBDI-2 DO TST. A jurisprudência pacífica desta Corte, consubstanciada na Orientação Jurisprudencial nº 34 da SBDI-2, segue no sentido de que o pedido rescisório da condenação ao pagamento das diferenças salariais decorrentes de planos econômicos (‘in casu’, relativas ao IPC de junho de 1987 e às URPs de abril e maio de 1988) só procede se houver expressa invocação de malferimento do art. 5º, XXXVI, da Constituição Federal na inicial da ação rescisória. Assim, verificando-se que não foi invocada ofensa ao referido dispositivo constitucional na exordial, correto se mostra o despacho agravado, que denegou seguimento à remessa de ofício e ao recurso ordinário em ação rescisória, sob o fundamento de que a simples invocação de ofensa a dispositivo de norma infraconstitucional atrai a aplicabilidade das Súmulas n. 83 do TST e 343 do STF como óbice ao cabimento da ação rescisória, no caso de a matéria em debate ter sido incluída na Orientação Jurisprudencial do TST após a prolação da decisão rescindenda (OJ 77 da SBDI-2 do TST). Ademais, como na ação rescisória calcada no inciso V do art. 485 do CPC a indicação explícita e precisa do dispositivo legal violado constitui a causa de pedir da ação (OJ 33 da SBDI-2 do TST), não é excesso de formalismo desacolher a pretensão que não faz a invocação correta do dispositivo violado, já que a ação rescisória, como meio excepcional de revisão da coisa julgada, submete-se a pressupostos específicos de cabimento, que não admitem desconsideração pelo julgador.
+    Agravo desprovido”. (fl.208) (grifos no original)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, a recorrente alega violação ao art. 5º, XXXVI, do texto constitucional.
+    A recorrente – apesar de não ter feito menção expressa de violação ao art. 5º, XXXVI, da CF – sustenta, em síntese, que toda a discussão dos autos gira em torno do direito adquirido. Ademais, defende ser indevido pagamento dos reajustes do Plano Bresser (26,06%) e das URPs de abril e maio de 1998.
+    A Procuradoria-Geral da República manifestou-se pelo provimento do recurso em parecer assim ementado:
+    “Recurso Extraordinário. Extinção do processo. Ação rescisória. Excessivo formalismo. Decisão rescindenda em confronto com posição pacífica do STF. Pelo provimento da iniciativa”. (fl. 238)
+    Decido.
+    Assiste razão à recorrente.
+    O decisão rescindenda está em desconformidade com o Enunciado 671 da Súmula desta Corte, in verbis:
+    “Os servidores públicos e os trabalhadores em geral têm direito, no que concerne à URP de abril/maio de 1988, apenas ao valor correspondente a 7/30 de 16,19% sobre os vencimentos e salários pertinentes aos meses de abril e maio de 1988, não cumulativamente, devidamente corrigido até o efetivo pagamento”.
+    Ante o exposto, conheço do recurso e dou-lhe provimento, com base no artigo 557, § 1º-A, do CPC, para limitar a condenação ao pagamento das URPs referentes aos meses de abril e maio de 1988, em valor correspondente a 7/30 de 16,19% sobre os vencimentos e salários daquele período, sem reflexos nos meses de junho e julho de 1988.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
