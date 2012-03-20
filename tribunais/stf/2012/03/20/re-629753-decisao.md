@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é do seguinte teor (fls. 916):
+    “FERROVIÁRIO – ‘Salário compreensivo’ previsto no chamado ‘Contratão’ - Pretensão de inativos e pensionistas à restauração dos adicionais temporais percebidos no regime anterior – Competência da Justiça Comum Estadual – Legitimidade passiva da antiga FEPASA S/A e de sua sucessora, Rede Ferroviária Federal S/A – Crédito alegado que, não sendo de natureza trabalhistas, não se sujeita à prescrição bienal – Preliminares e prejudicial rejeitadas – Absorção dos antigos adicionais temporais pelo ‘salário compreensivo’ - Opção livremente manifestada pelos servidores – Inadmissibilidade da acumulação de vantagens dos sistemas novo e antigo – Pedido improcedente – Recurso improvido.”
+    Nas razões do recurso extraordinário, a parte ora agravante alega ofensa ao art. 5º, XXXVI, da Constituição federal.
+    É o relatório. Decido.
+    O Tribunal a quo concluiu que:
+    “Com efeito, os autores e os falecidos tiveram liberdade para optar entre o regime anterior e o novo, com prévia oportunidade de examinar as cláusulas e condições do segundo e prévio conhecimento da remuneração que passariam a perceber (fls. 515/538). Feita a opção, passaram a auferir as vantagens do novo sistema, arcando, outrossim, com eventuais desvantagens. Os vencimentos, no entanto, foram majorados. Agora, o que os apelantes pretendem é ser beneficiados com um regime misto, que contenha as vantagens do regime anterior e do novo. Pretendem a restauração de vantagem que auferiram no passado e que foi extinta por livre manifestação de vontade das partes” (fls. 919).
+    Verifico que o acórdão impugnado decidiu a causa com base na interpretação da legislação infraconstitucional (Decreto 35.530/1959) e das cláusulas do contrato firmado entre as partes. Ora, fica claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame de cláusulas contratuais e, também, dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279 e 454 desta Corte.
+    Nesse sentido, em casos semelhantes: AI 835.783-AgR (rel. min. Ayres Britto, Segunda Turma, DJe de 19.08.2011) e AI 793.610-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 17.11.2010).
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se.
+    Brasília, 20 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
