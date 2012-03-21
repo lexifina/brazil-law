@@ -1,0 +1,13 @@
+A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 626.489, verbis:
+          “DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIOS. DECADÊNCIA. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À FIXAÇÃO DE PRAZO DECADENCIAL. ABRANGÊNCIA. DIREITO ADQUIRIDO. SEGURANÇA JURÍDICA. REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL.
+    Cuida-se de recurso extraordinário, interposto com suporte nas alíneas a e b do inciso III do art. 102 da Constituição Federal, contra decisão de Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado de Sergipe.
+    2. Da leitura dos autos, observo que o Colegiado de origem afastou a decadência do direito no qual se funda a ação e determinou o prosseguimento da ação revisional previdenciária. Ressaltou que o prazo decadencial somente foi previsto pela Medida Provisória 1.523, de 27/06/1997, que por se tratar de instituto de direito material, é de ser aplicado apenas aos benefícios concedidos após a respectiva vigência da medida.
+    3. Pois bem, o INSS sustenta violação ao inciso XXXVI do art. 5º da Carta Magna de 1988. Argumenta que: a) houve má interpretação do dispositivo constitucional; b) os atos normativos, ao entrar em vigor, têm efeitos gerais e abrangem também as relações jurídicas em manutenção. Sob o ângulo da repercussão geral, afirma que a questão constitucional ora em debate transcende os interesses subjetivos das partes, atingindo a todos os benefícios previdenciários concedidos antes de 28/06/1997, data da edição da referida medida provisória. Daí afirmar que a discussão apresenta relevância econômica, jurídica e social.
+    4. Feito esse breve relatório, passo a votar. Ao fazê-lo, anoto que a questão constitucional posta em exame ultrapassa os interesses específicos das partes, sendo relevante sob o ponto de vista econômico, político, social e jurídico. Isso porque a aplicação de prazo decadencial aos benefícios previdenciários concedidos anteriormente à sua previsão legal passa pela interpretação de temas constitucionalmente sensíveis, como o direito adquirido, a segurança jurídica e a manutenção das relações constituídas.
+    5. De mais a mais, a tese a ser fixada pelo Supremo Tribunal Federal será aplicada a numerosos benefícios previdenciários. Ante o exposto, manifesto-me pela configuração do requisito da repercussão geral”.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais e Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 21 de março de 2012.
+Ministra Rosa Weber
+Relatora
