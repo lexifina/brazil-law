@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1260, de 20 de março de 2012
+Aprova a tradução das atualizações das Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias decorrentes de atualizações publicadas pela Organização Mundial das Alfândegas (OMA) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 2º do Decreto nº 435, de 28 de janeiro de 1992, e no art. 1º da Portaria MF nº 91, de 24 de fevereiro de 1994, resolve:
