@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Município de Campinas interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 7º, inciso XIII, e 37, incisos XVI e XVII, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Recurso Oficial e Apelação Cível.
+    Mandado de Segurança.
+    Ilegitimidade passiva – Não tendo a Prefeita do Município de Campinas e o Secretário de Assuntos Jurídicos e da Cidadania do Município de Campinas praticado diretamente o ato reputado ilegal, não têm os mesmos legitimidade passiva – Processo extinto com relação aos mesmos, sem julgamento do mérito, na forma do artigo 267, inciso VI, do Código de Processo Civil.
+    Acúmulo de cargos de Diretora de Escola Estadual e de Professora Municipal – Vedação imposta pelo Decreto Municipal nº 10.467/91, por ultrapassar 44 horas semanais – Ilegalidade do Decreto Municipal nº 10.467/91 reconhecida – Impossibilidade de limitação de direito por meio de decreto regulamentador – Exegese do artigo 37, inciso XVI, da Constituição Federal e do artigo 142, caput, da Lei Orgânica do Município de Campinas – Compatibilidade de horários entre o exercício do cargo de Diretor de Escola Estadual e Professor de Escola Municipal – Concessão da segurança mantida” (fl. 17).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que o artigo 7º, inciso XIII, da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. ACUMULAÇÃO REMUNERADA DE CARGOS. CONTROVÉRSIA DECIDIDA À LUZ DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Agravo regimental desprovido” (ARE nº 638.754/GO-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 22/2/12).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CUMULAÇÃO DE CARGOS OCORRIDA EM 1990. PROFISSIONAL DA SAÚDE. ART. 17, § 2º, DO ADCT E ART. 37, XVI, C, DA CONSTITUIÇÃO. IMPOSSIBILIDADE. VERIFICAÇÃO DE COMPATIBILIDADE DE HORÁRIOS. EXAME DE MATÉRIA FÁTICA. SÚMULA 279. AGRAVO IMPROVIDO.
+    I A regra prevista no art. 17, § 2º, do ADCT assegura a acumulação de dois cargos privativos de profissionais de saúde àqueles que, à época da promulgação da Carta de 1988, estavam exercendo os cargos.
+    II A redação original do art. 37, XVI, c, da Constituição autorizava apenas a acumulação de dois cargos privativos de médico, não abrangendo os cargos privativos de profissionais de saúde contemplados posteriormente pela Emenda Constitucional 34/2001.
+    III A verificação da compatibilidade de horários dos cargos exercidos pelo agravante demandaria o reexame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário, nos termos da Súmula 279 desta Corte. IV Agravo regimental improvido” (RE nº 570.213/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 25/5/11).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 21 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
