@@ -1,0 +1,26 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. COMETIMENTO DE FALTA GRAVE. INTERRUPÇÃO DA CONTAGEM DO LAPSO TEMPORAL PARA FINS DE PROGRESSÃO DE REGIME. LEI SUPERVENIENTE. RETROATIVIDADE DA NOVATIO LEGIS IN MELLIUS. REPERCUSSÃO GERAL RECONHECIDA NOS AUTOS DO RE 638.239.
+    Decisão: Cuida-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso extraordinário interposto em oposição a acórdão do C. Superior Tribunal de Justiça ementado nos seguintes termos:
+    "AGRAVO REGIMENTAL. HABEAS CORPUS. COMETIMENTO DE FALTA GRAVE CONSISTENTE EM NOVO CRIME. INTERRUPÇÃO DO LAPSO TEMPORAL PARA OBTENÇÃO DE FUTUROS BENEFÍCIOS DA EXECUÇÃO. AUSÊNCIA DE PREVISÃO LEGAL.
+    1. A Sexta Turma desta Corte Superior firmou compreensão no sentido de que, ante a ausência de previsão legal, a prática de falta grave - na qual se insere o cometimento de novo crime no curso da execução - não representa marco interruptivo para fins de concessão de futuros benefícios da execução, podendo, contudo, ser considerada por ocasião da análise do requisito subjetivo.
+    2. Agravo regimental a que se nega provimento."
+    Nas razões do extraordinário, o MINISTÉRIO PÚBLICO FEDERAL alegou violação ao art. 5º, II e XXXIX, da CF.
+    O apelo extremo teve o seguimento obstado na origem dada a ausência de prequestionamento, além de que a matéria tratada nos autos estaria restrita a matéria infraconstitucional.
+    É o relatório. DECIDO.
+    O Recurso merece ser provido.
+    Prima facie, atendidos os demais pressupostos admissionais, inclusive em relação à preliminar formal e fundamentada de repercussão geral, afasto os óbices levantados na origem, isso porque os preceitos constitucionais suscitados foram debatidos no acórdão de origem, uma vez que a controvérsia dos autos diz respeito exatamente à falta de previsão legal para interrupção do tempo de contagem para progressão de regime previstos na Lei de execuções penais. Assim, conheço do recurso.
+    Por outro lado, a matéria tratada nos autos teve sua repercussão geral reconhecida nos autos do RE 638.239, da Relatoria da E. Min. LUIZ FUX, ementado nos seguintes termos:
+    RECURSO EXTRAORDINÁRIO SOB A SISTEMÁTICA DO ART. 543-B DO CPC. EXECUÇÃO PENAL. PERDA DOS DIAS REMIDOS. ART. 127 DA LEI DE EXECUÇÃO PENAL. SUPERVENIÊNCIA DA LEI Nº 12.433/2011. NATUREZA PENAL EXECUTIVA. RETROATIVIDADE DA NOVATIO LEGIS IN MELLIUS. ART. 5º, XL, DA CONSTITUIÇÃO. DOUTRINA. CANCELAMENTO DA SÚMULA VINCULANTE Nº 9. RECURSO JULGADO PREJUDICADO, SEM PREJUÍZO DA APLICAÇÃO DA ORIENTAÇÃO FIXADA PELA CORTE AOS RECURSOS PENDENTES E FUTUROS.
+    1. A execução penal é regida por normas de caráter processual, administrativo e penal.
+    2. A forma de execução das penas e medidas de segurança, os direitos e obrigações dos internos e as garantias que se lhes devem outorgar, as permissões de saída, a liberdade condicional e o regime penitenciário dos estabelecimentos carcerários, dentre outras, são matérias regidas por regras que pertencem ao Direito Penal (CALDERÓN, Guillermo Oliver. Retroactividad e Irretroactividad de Las Leyes Penales. Santiago: Editorial Juridica de Chile, 2007. p. 192).
+    3. O art. 127 da Lei de Execução Penal, com a redação dada pela Lei nº 12.433/2011, dispõe: “Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar”.
+    4. A novel legislação, que favorece o sentenciado em matéria de perda dos dias de pena remidos, ante o seu inegável caráter penal executivo, deve retroagir para beneficiá-lo, nos termos do art. 5º, XL, da Constituição (“a lei penal não retroagirá, salvo para beneficiar o réu”).
+    5. A falta grave, no regime anterior, gerava a perda de todos os dias remidos, efeito que não mais subsiste, em razão da lex mitior, por isso que se impõe o cancelamento do enunciado sumular vinculante nº 9, verbis: “O disposto no artigo 127 da Lei 7.210/84 foi recebido pela ordem constitucional vigente e não se lhe aplica o limite temporal previsto no caput do artigo 58”.
+    6. Os recursos pendentes e futuros que veiculem a aplicação do art. 127 da Lei de Execução Penal, devem ser julgados sob a regra do art. 543-B do CPC, sendo mister considerar a índole penal da novel redação, de modo a que se decida pela retroatividade da norma estabelecida pela Lei nº 12.433/2011, por força do art. 5º, XL, da Constituição.
+    7. In casu, o Ministério Público pede a exclusão de todos os dias remidos anteriormente ao cometimento da falta grave pelo Recorrido.
+    8. Recurso julgado prejudicado, determinando-se: (i) a baixa ao juízo das execuções, para que decida de acordo com a novatio legis in mellius, conforme o art. 66, I, da Lei nº 7.210/84; (ii) o cancelamento da Súmula Vinculante nº 9, com fulcro no art. 5º da Lei nº 11.417/06.
+    Destarte, DOU PROVIMENTO ao recurso com agravo para admitir o recurso extraordinário, que, no entanto, deverá permanecer SOBRESTADO na origem para que se observe o disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 21 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
