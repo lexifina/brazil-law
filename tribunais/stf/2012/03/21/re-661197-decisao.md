@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado da Bahia. Acórdão assim ementado (fls. 85):
+    “MANDADO DE SEGURANÇA. CONCURSO. OFICIAL DE REGISTRO PÚBLICO. CANDIDATO APROVADO EM QUARTO LUGAR. QUANDO DISPONIBILIZADAS DUAS VAGAS PARA O CARGO DE OFICIAL DE REGISTRO PÚBLICO. DESISTÊNCIA. EXONERAÇÃO. DIREITO SUBJETIVO À NOMEAÇÃO. CNJ. ORIENTAÇÃO QUE NÃO IMPEDE A NOMEAÇÃO DE CANDIDATO APROVADO. SEGURANÇA CONCEDIDA.
+    O impetrante foi classificado em 4° (quarto) lugar quando estavam disponibilizadas 2 vagas para o cargo de Oficial de Registro Público, conforme edital do certame. Não houve lançamento de novo edital durante a vigência do concurso, nem contratação de terceira pessoa a título precário, durante o prazo de validade do concurso, para ocupar cargo para o qual o candidato foi aprovado.
+    In casu, a desistência e pedido de exoneração de candidatos aprovados em 3° e 2° (fls. 11 e 14), obrigam o Estado a nomear e dar posse ao impetrante, pois não se trata de questão afeta ao juízo de conveniência e oportunidade da Administração, mas sim de verdadeiro direito líquido e certo à nomeação, pois com a exoneração e desistência de candidatos aprovados em 2° e 3° lugar, a nomeação do 4° lugar é obrigatória, considerando-se que tais fatos ocorreram dentro do prazo de validade do concurso.
+    Como reiteradamente vem julgando o egrégio Superior Tribunal de Justiça, o candidato classificado, dentro do número de vagas disponibilizadas no edital, possui direito líquido e certo à nomeação no cargo para o qual prestou o concurso, devendo a Administração convocá-lo dentro do prazo da validade do certame. Indiscutivelmente, trata-se de ato vinculado, configurando direito subjetivo do candidato, ser nomeado e empossado naquele cargo. Segurança concedida.”
+    2. Pois bem, a parte recorrente alega violação ao art. 2º e ao caput do art. 37 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Wagner de Castro Mathias Netto, opina pelo desprovimento do apelo extremo.
+    4. Tenho que a insurgência não merece acolhida. É que os dispositivos constitucionais tidos por violados não foram objeto de análise pela instância judicante de origem, não havendo sido opostos embargos declaratórios para suprir eventual omissão (Súmulas 282 e 356/STF).
+    5. Com efeito, tendo em conta as limitações da via recursal extraordinária, o apelo extremo é julgado no tocante ao que já foi discutido no aresto recorrido. Se o órgão julgador não adotou entendimento explícito acerca da matéria deduzida nas razões recursais, não se pode pretender o seu exame nesta excepcional instância.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de março de 2012.
+Ministro AYRES BRITTO
+Relator
