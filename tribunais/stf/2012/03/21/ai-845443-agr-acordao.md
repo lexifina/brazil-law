@@ -1,0 +1,159 @@
+Supremo Tribunal Federal
+DJe 18/04/2012
+Inteiro Teor do Acórdão - Página 1 de 4
+
+Ementa e Acórdão
+
+21/03/2012
+
+PLENÁRIO
+
+AG.REG. NO AGRAVO DE INSTRUMENTO 845.443 BAHIA
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: ESTADO DA BAHIA
+: PROCURADOR-GERAL DO ESTADO DA BAHIA
+: UBIRAJARA CHAGAS CABRAL E OUTRO(A/S)
+: ROBERTTO LEMOS E CORREIA
+
+EMENTA: RECURSO. Agravo de instrumento. Inadmissibilidade.
+Peça obrigatória. Falta. Não conhecimento. Agravo regimental
+improvido. Aplicação da súmula 288. É ônus da parte agravante
+promover a integral e oportuna formação do instrumento, sendo vedada
+posterior complementação.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão Plenária, sob a Presidência do
+Senhor Ministro CEZAR PELUSO, na conformidade da ata de julgamento
+e das notas taquigráficas, por unanimidade e nos termos do voto do
+Relator, em negar provimento ao agravo regimental. Ausentes,
+justificadamente, os Senhores Ministros CELSO DE MELLO, CÁRMEN
+LÚCIA e, neste julgamento, os Senhores Ministros GILMAR MENDES e
+LUIZ FUX.
+Brasília, 21 de março de 2012.
+Ministro CEZAR PELUSO
+Presidente e Relator
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1879931.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 4
+
+21/03/2012
+
+PLENÁRIO
+
+AG.REG. NO AGRAVO DE INSTRUMENTO 845.443 BAHIA
+RELATOR
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MINISTRO PRESIDENTE
+: ESTADO DA BAHIA
+: PROCURADOR-GERAL DO ESTADO DA BAHIA
+: UBIRAJARA CHAGAS CABRAL E OUTRO(A/S)
+: ROBERTTO LEMOS E CORREIA
+
+RE LAT Ó RI O
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE):
+Trata-se de agravo regimental contra decisão que negou seguimento
+a agravo de instrumento, em razão da falta de peça obrigatória (cópia do
+inteiro teor da petição de recurso extraordinário).
+A parte recorrente pede seja reconsiderada a decisão agravada, pelas
+razões expostas às fls. 311-313, com o conseqüente provimento do
+recurso.
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1881027.
+
+Supremo Tribunal Federal
+Voto - MINISTRO PRESIDENTE
+
+Inteiro Teor do Acórdão - Página 3 de 4
+
+21/03/2012
+
+PLENÁRIO
+
+AG.REG. NO AGRAVO DE INSTRUMENTO 845.443 BAHIA
+
+VOTO
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE):
+1. A decisão agravada invocou e resumiu os fundamentos do
+entendimento invariável da Corte, cujo teor subsiste invulnerável aos
+argumentos do recurso, os quais nada acrescentaram à compreensão e ao
+desate da quaestio iuris.
+Quanto às alegações aduzidas no agravo regimental, é ônus da parte
+promover a integral e oportuna formação do instrumento, sendo vedada
+posterior complementação (súmula nº 288. No mesmo sentido, AI nº
+214.562-AgR, Rel. Min. MOREIRA ALVES, DJ de 11.9.98; AI nº 204.057AgR, Rel. Min. SYDNEY SANCHES, DJ de 1.10.99; AI nº 436.010-AgR,
+Rel. Min. CARLOS VELLOSO, DJ de 19.9.2003; AI nº 436.371-ED, Rel.
+Min. CELSO DE MELLO, DJ de 26.9.2003; AI nº 454.352-AgR, Rel. Min.
+CARLOS BRITTO, DJ de 13.2.2004; AI nº 431.665-AgR, Rel. Min.
+JOAQUIM BARBOSA, DJ de 30.4.2004; e AI nº 481.544-AgR, Rel. Min.
+CELSO DE MELLO, DJ de 7.5.2004).
+2. Isto posto, nego provimento ao agravo, mantendo a decisão
+agravada por seus próprios fundamentos.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1881028.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 4 de 4
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NO AGRAVO DE INSTRUMENTO 845.443
+PROCED. : BAHIA
+RELATOR : MINISTRO PRESIDENTE
+AGTE.(S) : ESTADO DA BAHIA
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DA BAHIA
+AGDO.(A/S) : UBIRAJARA CHAGAS CABRAL E OUTRO(A/S)
+ADV.(A/S) : ROBERTTO LEMOS E CORREIA
+Decisão: O Tribunal, por unanimidade e nos termos do voto do
+Relator, Ministro Cezar Peluso (Presidente), negou provimento ao
+agravo
+regimental.
+Ausentes,
+justificadamente,
+os
+Senhores
+Ministros Celso de Mello, Cármen Lúcia e, neste julgamento, os
+Senhores Ministros Gilmar Mendes e Luiz Fux. Plenário, 21.03.2012.
+Presidência do Senhor Ministro Cezar Peluso. Presentes à
+sessão os Senhores Ministros Marco Aurélio, Gilmar Mendes, Ayres
+Britto, Joaquim Barbosa, Ricardo Lewandowski, Dias Toffoli, Luiz
+Fux e Rosa Weber.
+Procurador-Geral
+Santos.
+
+da
+
+República,
+
+Dr.
+
+Roberto
+
+Monteiro
+
+Gurgel
+
+p/ Luiz Tomimatsu
+Secretário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 1885370
