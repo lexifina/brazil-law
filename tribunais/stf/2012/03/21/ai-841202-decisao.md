@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Miguel Sebastião Vieira interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos LIV e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da 8ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “ADMINISTRATIVO - MANDADO DE SEGURANÇA – SERVIDOR PÚBLICO MUNICIPAL - SUSPENSÃO DO PAGAMENTO DOS VENCIMENTOS - FALTAS INJUSTIFICADAS AO SERVIÇO, QUANDO JÁ NÃO SUBSISTIA A ORDEM DE AFASTAMENTO - VIOLAÇÃO A DIREITO LÍQUIDO E CERTO - INOCORRÊNCIA. 1 - Verificando-se que a suspensão do pagamento dos vencimentos ao servidor municipal não decorreu do ato da Autoridade que o
+    afastou do exercício das atividades, mas de suas sucessivas e injustificadas faltas, quando já havia a obrigação de retornar ao serviço, não há falar na prática de ato ilegal violador do direito líquido e certo do requerente. 2 – Recurso não-provido”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ALEGADA VIOLAÇÃO AO ART. 37, CAPUT, DA CONSTITUIÇÃO FEDERAL. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I – Esta Corte firmou orientação no sentido de que, em regra, a alegação de ofensa aos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. II - Agravo regimental improvido” (ARE nº 646.526/RN-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, Dje de 6/12/11).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 280/STF.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 21 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
