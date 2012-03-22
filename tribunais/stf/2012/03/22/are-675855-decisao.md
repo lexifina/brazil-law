@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul. Acórdão assim ementado, na parte que interessa ao deslinde da causa (fls. 109):
+    “AÇÃO INDENIZATÓRIA DECORRENTE DE RELAÇÃO DE TRABALHO. COMPETÊNCIA. ART. 114, VI DA CONSTITUIÇÃO FEDERAL, COM REDAÇÃO DADA PELA EC Nº 45/2004. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. COMPETÊNCIA ABSOLUTA. MATÉRIA DE ORDEM PÚBLICA. REEXAME DA QUESTÃO. POSSIBILIDADE.
+    Tendo o Supremo Tribunal Federal convalidado o entendimento de que, em se tratando de ação de indenização por acidente de trabalho, a competência é da Justiça do Trabalho, desimportando, por outro lado, quem seja ocupante do pólo ativo da demanda, se o trabalhador ou seus sucessores, impõe-se a declinação da competência. Súmula Vinculante 22 do STF. A existência de decisão anterior no mesmo processo pelo STF, reconhecendo a competência da Justiça Estadual, não está sujeita aos efeitos da preclusão por judicato, por versar matéria de ordem pública. Precedentes do Superior Tribunal de Justiça e desta Corte.”
+    2. Pois bem, ao apreciar o Conflito de Competência 7.204, da minha relatoria, o Plenário do Supremo Tribunal Federal entendeu que é da Justiça do Trabalho a competência para processar e julgar o pedido de indenização por danos morais e materiais, decorrentes de acidente do trabalho.
+    3. Não obstante, como imperativo de política judiciária, esta Casa de Justiça decidiu, por maioria, que o marco temporal da competência da Justiça Trabalhista é o advento da EC 45/2004. Emenda que explicitou a competência da Justiça especial na matéria em apreço.
+    4. Com efeito, o Supremo Tribunal Federal assentou que o novo entendimento atinge apenas os processos em trâmite na Justiça comum estadual ou federal e que estejam pendentes de julgamento de mérito. É dizer: as ações que tramitam na Justiça comum dos estados e federal, com sentença de mérito anterior à promulgação da EC 45/2004, lá continuam até o trânsito em julgado e correspondente execução. Quanto àquelas cujo mérito ainda não foi apreciado, hão de ser remetidas à Justiça do Trabalho, no estado em que se encontram, com total aproveitamento dos atos praticados até então.
+    5. No presente caso, já proferida sentença antes da publicação da EC 45/2004 (fls. 46-66), é de ser declarada a competência da Justiça comum.
+    Ante o exposto, e frente ao § 1º-A do art. 557 do CPC, dou provimento ao recurso.
+    Publique-se.
+    Brasília, 22 de março de 2012.
+Ministro AYRES BRITTO
+Relator
