@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Rio de Janeiro ementado nos seguintes termos:
+    “AGRAVO INOMINADO DEMANDANTE QUE, EMBORA APROVADA NAS DEMAIS FASES DO CONCURSO PÚBLICO, FOI REPROVADA NO EXAME MÉDICO, POR APRESENTAR QUADRO DE MIAOMATOSE. PATOLOGIA QUE SE MOSTRA ABSOLUTAMENTE IRRELEVANTE PARA O EXERCÍCIO DA FUNÇÃO DE AGENTE AUXILIAR DE CRECHE. LAUDO PERICIAL QUE ATESTE A AUSÊNCIA DE IMPEDIMENTOS AO EXERCÍCIO DO CARGO POR PARTE DA AUTORA, NA ÉPOCA DOS EXAMES. DEMANDANDANTE QUE LABORA, NA QUALIDADE DE TERCEIRIZADA, NA MESMA FUNÇÃO EM QUESTÃO, INEXISTINDO REGISTROS DE INCIDENTES DE QUALQUER ESPÉCIE. VALOR DA CONDENAÇÃO RELATIVO AOS HONORÁRIOS ADVOCATÍCIOS QUE MERECE REDUÇÃO PARA A QUANTIA DE R$ 1.000,00, COM FULCRO NO ART. 20, § 4º, DO CPC, EIS QUE FIXADO EM PATAMAR EXCESSIVO. AGRAVO INOMINADO A QUE SE NEGA PROVIMENTO”. (fl. 181)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 2º e 37, caput, do texto constitucional.
+    O recorrente alega que a “boa saúde” é requisito indispensável para ingresso no serviço público, conforme disposto no art. 16, VI, da Lei Municipal 94/79, que exige, expressamente, a inspeção médica para posse de qualquer candidato.
+    Aduz ainda ofensa ao princípio da separação de Poderes, “já que a definição quanto à aptidão do candidato ao funcionalismo público é tarefa do próprio poder que está realizado o processo de seleção, no caso o Poder Executivo Municipal”. (fl. 214)
+    Decido.
+    Não assiste razão ao recorrente.
+    A Lei Municipal 97/79, ao estabelecer a inspeção médica como requisito para posse no serviço público, não elencou quais as enfermidades seriam capazes de obstá-la. Assim, ofertou certa margem de discricionariedade ao administrador para determiná-las caso a caso.
+    Na espécie, verifica-se que o Tribunal de origem não afastou a aplicabilidade da mencionada norma municipal, tampouco questionou a realização do exame médico como requisito para investidura no serviço público. Se ateve apenas a consignar que, na hipótese, a atuação do administrador, dentro daquela margem de discricionariedade que lhe é conferida, extrapolou os princípios da razoabilidade e da proporcionalidade, o que autoriza a atuação do Poder Judiciário para sanar a ilegalidade existente. Confira-se:
+    “Inicialmente, faz-se necessário ressaltar que, embora, via de regra, seja vedado ao Poder Judiciário se imiscuir no mérito administrativo, o presente caso retrata hipótese de ilegalidade, por afronta aos princípios da razoabilidade e proporcionalidade, não se havendo falar em violação ao princípio da independência dos poderes”. (fl. 183)
+    Com efeito, o acórdão recorrido está em sintonia com a jurisprudência desta Corte, que se firmou no sentido de que é admissível ao Poder Judiciário o controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de Poder. Confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ATO ADMINISTRATIVO: POSSIBILIDADE DE CONTROLE DA LEGALIDADE PELO PODER JUDICIÁRIO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 796.832, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 23.2.2011)
+    Ademais, a Corte a qua assentou que o cerne da controvérsia “é saber se a enfermidade que a autora possuía à época do exame médico a tornava inapta a exercer a função de auxiliar de creche”. E consignou ainda que, “conforme esclarecido pelo l. Expert, na época do referido exame, não havia qualquer impedimento ao exercício da função pela demandante”.
+    Nesses termos, para se concluir de forma diversa, imprescindível o reexame do conjunto fático-probatório constante dos autos, providência vedada no âmbito do recurso extraordinário, a teor do disposto na Súmula 279 do STF.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 22 de março de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
