@@ -1,0 +1,11 @@
+DECISÃO: vistos, etc.
+    O recurso não merece acolhida. É que a ofensa às garantias constitucionais do processo, se existente, ocorreria de modo reflexo ou indireto. Nesse mesmo sentido é a jurisprudência desta nossa Casa de Justiça, que me parece juridicamente correta. Leia-se a ementa do AI 517.643-AgR, da relatoria do ministro Celso de Mello:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes”.
+    2. De mais a mais, no tocante ao inciso II do art. 5° da Constituição Federal, é de incidir a Súmula 636/STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.“
+    Ante o exposto, e frente ao art. 38 da Lei 8.038/1990 e ao § 1º do art. 21 do RI/STF, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 22 de março de 2012.
+Ministro AYRES BRITTO
+Relator
