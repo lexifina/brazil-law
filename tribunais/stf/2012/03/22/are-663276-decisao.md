@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA DE FUNDAMENTAÇÃO.
+1. A repercussão geral como novel requisito constitucional de admissibilidade do recurso extraordinário demanda que o reclamante demonstre, fundamentadamente, que a irresignação extrema encarta questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa (artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06, verbis: O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência de repercussão geral).
+2. Precedente: AI n. 797.515 – AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe de 28.02.11.
+3. In casu, o acórdão recorrido assentou:
+“APELAÇÃO CÍVEL – AÇÃO DE REINTEGRAÇÃO AO SERVIÇO ATIVO – POLICIAL MILITAR – REFORMA POR INVALIDEZ HÁ MAIS DE CINCO ANOS – CONFIGURAÇÃO DA PRESCRIÇÃO DO DIREITO AUTORIAL – INTELIGÊNCIA DO ART. 1º, DO DECRETO 22.910/32 – MANUTENÇÃO DO DECISUM – RECURSO IMPROVIDO – UNÂNIME.”
+4. Recurso com agravo não conhecido.
+    Decisão: Trata-se de agravo nos próprios autos contra decisão que inadmitiu recurso extraordinário interposto com fundamento no permissivo do art. 102, III, “a”, da CF, em oposição a acórdão do Tribunal de Justiça do Estado de Sergipe que desproveu o recurso da parte ora agravante por entender estar a pretensão a reversão de aposentadoria fulminada pela prescrição.
+    No recurso extraordinário, ROBSON SANTOS BOMFIM alegou violação aos arts. 1º, II, 2º, III, 4º, II, 5º, caput, II, X, XXXV, LIV e LV, §§ 1º e 2º, da CF/88, além do art. 153, § 15, da CF/67. Sustentou, em síntese, que não há falar em prescrição porque nunca deixou de ser militar, apenas fora reformado por invalidez, existindo uma relação de trato sucessivo fazendo jus à reversão ao serviço ativo pleiteada.
+    O apelo extremo teve o seu seguimento negado na origem na ausência de violação ao texto constitucional.
+    É o relatório. DECIDO.
+    O recurso é inadmissível.
+    A petição de recurso extraordinário não satisfaz os requisitos indispensáveis para o respectivo conhecimento por esta Corte. Isso porque a repercussão geral como novel requisito constitucional de admissibilidade do recurso extraordinário demanda que o reclamante demonstre, fundamentadamente, que a irresignação extrema encarta questões relevantes do ponto de vista econômico, político, social ou jurídico que ultrapassem os interesses subjetivos da causa (artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06, verbis: O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência de repercussão geral).
+    Esse entendimento restou assentado no julgamento do AI n. 797.515 – AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe de 28.02.11:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À PRELIMINAR DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto”.
+    In casu, o recorrente alegou em suas razões que: “não existe tese constitucional que não tenha relevância do ponto de vista econômico, político, social ou jurídico, e que não ultrapasse o interesse subjetivo da parte” (fl. 120). Destarte, reputo por não satisfeito o requisito processual.
+    Ex positis, NÃO CONHEÇO do recurso extraordinário com agravo, fundamentado no disposto no artigo 544, § 4º, I, do CPC.
+    Publique-se.
+    Brasília, 22 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
