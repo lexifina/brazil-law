@@ -1,0 +1,26 @@
+DECISÃO: Trata-se agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 189):
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. AGRAVO DE PETIÇÃO. EXECUÇÃO DE SENTENÇA. PENHORA - BEM DO SÓCIO. TEORIA DA DESCONSIDERAÇÃO DA PESSOA JURÍDICA.
+    A pessoa jurídica executada tornou-se insolvente e não indicou bens à penhora, não restando outra alternativa senão a execução dos bens do sócio com fulcro na Teoria da Desconsideração da Personalidade Jurídica. No caso dos autos, nota-se que nada mais se fez do que “levantar o véu” da personalidade jurídica da empresa a fim de atingir os bens dos sócios, que se utilizaram da entidade como anteparo e mediante abuso de direito, para enriquecimento pessoal. Incólume o art. 5º, incisos II, XXII, LIV e LV, da Constituição Federal.
+    Agravo de instrumento desprovido.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, II, XXII, LIII, LIV e LV, e 114, I, da Constituição federal. Sustenta-se a competência do juízo falimentar para julgar a causa. Alega-se ainda que houve má aplicação da regra da responsabilidade solidária prevista na CLT.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 114, I, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ressalte-se que a jurisprudência firmou-se no sentido de que o prequestionamento é exigido inclusive para questões de ordem pública. Confira-se:
+    “EMENTA: 1. Embargos de declaração convertidos em agravo regimental.
+    2. Imposto de renda de pessoa jurídica: correção monetária de suas demonstrações financeiras: L. 8.200/91, com a redação dada pela L. 8.683/93 (art. 3º, I): constitucionalidade reconhecida pelo plenário do Supremo Tribunal Federal, ao julgar o RE 201.465, Jobim, Inf. STF/266, quando se firmou o entendimento de que não cabe à norma constitucional a disciplina sobre o índice que melhor reflita a inflação para os fins de indexação dos balanços das empresas, afastadas, ainda, as alegações de indevida majoração de base de cálculo de imposto de renda, de irregular instituição de empréstimo compulsório, de confisco e de violação aos princípios da anterioridade, legalidade e isonomia.
+    3. Recurso extraordinário e prequestionamento: não dispensa o prequestionamento, segundo a jurisprudência da Corte, que a matéria seja de ordem pública, passível de conhecimento de ofício nas instâncias ordinárias: incidência das Súmulas 282 e 356: precedentes.
+    4. Agravo regimental: não se presta ao exame de matéria estranha à questão constitucional objeto do RE e que não pode ser originariamente decidida nesta instância.” (RE 219.703-ED, rel. min. Sepúlveda Pertence, DJ de 20.10.2006 - grifei)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.
+    2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, ainda que a questão verse sobre matéria de ordem pública, é necessário o prequestionamento.” (RE 593.505-AgR, rel. min. Cármen Lúcia, DJe de 13.11.2009)
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL.
+    1. Ao contrário do que sustenta o agravante, os embargos de declaração, para fins de prequestionamento, servem para suprir omissão do acórdão recorrido em relação à matéria suscitada no recurso cabível ou nas contra-razões e não para inovar matéria constitucional não debatida nos autos.
+    2. Ausente o prequestionamento do art. 129, III, da Constituição, dado como contrariado. Não prescinde desse requisito, inerente ao cabimento do recurso de natureza extraordinária, a circunstância de poder a ilegitimidade ativa ad causam ser analisada em qualquer grau de jurisdição.
+    3. Agravo regimental improvido.” (RE 434.420-AgR, rel. min. Ellen Gracie, DJ de 05.08.2005.)
+    De resto, a questão constitucional suscitada não pode ser analisada sem prévio exame da legislação infraconstitucional, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, mutatis mutandis, na Súmula 636 desta Corte.
+    No mesmo sentido, em outros casos que o agravante recorreu a esta Corte, confiram: AI 815.914 (rel. min. Marco Aurélio, DJe de 07.10.2010), AI 808.369 (rel. min. Celso de Mello, DJe de 24.09.2010), AI 802.620 (rel. min. Celso de Mello, DJe de 15.06.2010) e AI 758.918 (rel. min. Cezar Peluso, DJe de 08.03.2010).
+    Do exposto, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 23 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
