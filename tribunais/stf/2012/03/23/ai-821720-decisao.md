@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “APELAÇÃO. DIREITO TRIBUTÁRIO. AÇÃO DE COBRANÇA. EMPRÉSTIMO COMPULSÓRIO. PAGAMENTO. TÍTULO DA ELETROBRÁS. RESGATE. PRESCRIÇÃO.
+    A ação para haver crédito decorrente de título da ELETROBRÁS emitido como pagamento de empréstimo compulsório prescreve em cinco anos contados da data prevista para o seu resgate.
+    RECURSO DESPROVIDO. RELATOR VENCIDO.” (fls. 174)
+    Alega-se violação do disposto nos arts. 19, II; 93, IX; 173, § 1º, II, e § 2º, da Constituição federal.
+    O recurso não merece seguimento.
+    Inicialmente, verifico que inexiste a alegada ofensa ao art. 93, IX, da Constituição federal, pois o Tribunal de origem inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte.
+    Verifico, ainda, que as alegadas ofensas aos arts. 19, II, e 173, § 2º, da Constituição federal foram suscitadas originariamente em embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282/STF).
+    Ademais, observo que concluir diversamente do Tribunal de origem demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Nesse sentido:
+    “EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA EM BENEFÍCIO DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A. (ELETROBRÁS). LEI 4.156/1962. ADCT, ART. 34, § 12. O Plenário do Supremo Tribunal Federal reconheceu que a regra prevista no art. 34, § 12, do ADCT preservou a exigibilidade do empréstimo compulsório instituído pela Lei 4.156/1962, com as alterações posteriores, até o exercício de 1993. DEVOLUÇÃO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. EXAME DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento.” (AI 591.381-AgR, de minha relatoria, Segunda Turma, DJe de 06.03.2009)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ENÉRGIA ELÉTRICA. EMPRÉSTIMO COMPULSÓRIO. PRESCRIÇÃO. LEI N. 4.156/62 E DECRETO-LEI N. 644/69. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 621.427-AgR, rel. min. Cármen Lúcia, DJe de 08.05.2009)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO . DECRETO 20.910/32 . OFENSA REFLEXA . ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE, AMPLA DEFESA E CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO.” (AI 794.431-AgR, rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 25.11.2010)
+    “1. Empréstimo compulsório sobre energia elétrica instituído pela L. 4.156/61: exigibilidade, nos termos do art. 34, § 12, ADCT (RE 146.615, Corrêa, Pleno, 30.6.95). 2. Recurso extraordinário: descabimento: questões relativas ao prazo de prescrição dos créditos da agravada, à incidência da correção monetária , aos juros e à taxa Selic, de âmbito infraconstitucional; alegada ofensa aos dispositivos constitucionais dados como violados, que, se houvesse, seria indireta ou reflexa : incidência do princípio da Súmula 636. 3. Agravo regimental manifestamente infundado: condenação da agravada ao pagamento de multa, nos termos do art. 557, § 2º, C. Pr. Civil.” (AI 618.070-AgR, rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 02.03.2007)
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 23 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
