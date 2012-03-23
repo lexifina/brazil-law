@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO PREVIDENCIÁRIO. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “Apelação cível. Ação de consignação em pagamento. Princípio da fungibilidade. Conhecimento como declaratória. Preliminar acolhida. Julgamento com base no art. 515, § 3°, do CPC. Notários e Registradores. Não há direito adquirido a regime jurídico previdenciário. Cessação do pagamento de vantagens e/ou vencimentos à parte autora, bem como sua desvinculação do regime previdenciário próprio. Segundo atual posição do STF, os notários e registradores exercem atividade privada, daí decorrendo que devem ser remunerados por custas e emolumentos.
+    Por unanimidade, rejeitaram a preliminar de não conhecimento da apelação; por maioria, rejeitaram a preliminar de impropriedade da ação, vencido o relator; no mérito, por unanimidade, desproveram, com voto divergente do Relator quanto ao fundamento” (fl. 362).
+    2. No recurso extraordinário, a Agravante alega que teria sido contrariado os arts. 5°, § 2° e § 3°, 6°, caput, 40 e 236 da Constituição da República.
+    Sustenta que “não aceito a imposição de se jubilar aos 70 anos, consoante decisão do Pretório Excelso. Não é irresponsável para abrir mão do elo previdenciário. O Tribunal de Justiça criou uma figura espúria para esvaziar a decisão do Pretório Excelso que afastou a aposentadoria compulsória aos 70 anos” (fl. 414).
+    Argumenta que “o direito ao vínculo previdenciário integra os direitos e garantias individuais, e deve ser interpretado à luz do art. 5°, §§ 2° e 3°, da CF, conquanto inegável a supremacia da Constituição frente as tratados internacionais, mesmo os que versam sobre direitos humanos” (fl. 415).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do acórdão recorrido com a jurisprudência do Supremo Tribunal Federal (fls. 470-471).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A alegação de contrariedade aos arts. os arts. 5°, § 2° e § 3°, 6°, caput, e 40 da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento  ” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    6. Ademais, este Supremo Tribunal Federal assentou que não há direito adquirido a regime jurídico ou, como na espécie vertente, a regime previdenciário estatutário. Nesse sentido:
+    “EMENTA Agravo regimental no recurso extraordinário. Administrativo. Ocupantes de cargo em comissão. Filiação ao Regime Geral de Previdência Social. Advento da EC nº 20/98. Direito adquirido a regime jurídico previdenciário. Inexistência. Precedentes. 1. Os ocupantes de cargo em comissão de forma exclusiva estão sujeitos ao regime geral de previdência social. 2. É pacífica a jurisprudência desta Corte de que não há direito adquirido a regime jurídico, inclusive o previdenciário. 3. Aplica-se à aposentadoria a norma vigente à época do preenchimento dos requisitos para a sua concessão. 4. Agravo regimental não provido” (RE 409.295, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1°.8.2011).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. CARGO EM COMISSÃO. APOSENTADORIA APÓS A EMENDA CONSTITUCIONAL N. 20/98. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 461.196-AgR, de minha relatoria, DJe 3.3.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
