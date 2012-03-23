@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto contra decisão do Tribunal Regional Federal da 2ª Região, cuja ementa possui o seguinte teor (fls. 465):
+    “ADMINISTRATIVO – MILITAR TEMPORÁRIO – ESTABILIDADE – ISONOMIA COM O QUADRO FEMININO DE OFICIAIS - IMPOSSIBILIDADE.
+    I – O vínculo do militar temporário com a Administração tem natureza transitória, pelo que o seu ato de reengajamento depende da conveniência e oportunidade daquela;
+    II – O oficial do Quadro de Reserva Masculino da Aeronáutica só atinge a estabilidade após 10 anos de efetivo serviço nas Forças Armadas, inexistindo isonomia com o Quadro de Reserva Feminino, eis que são militares ocupante de Quadros distintos, com peculiaridades próprias, atribuições diferenciadas e estatutos jurídicos diversos;
+    III – Recurso desprovido.”
+    No recurso extraordinário, o recorrente aponta violação ao disposto nos art. 5º, caput, e 37, caput, da Constituição. Alega que é cabo militar de carreira e não temporário, como definido pela decisão recorrida. Aduz, ainda, que houve quebra do princípio da isonomia, seja pela falta de critério na avaliação dos militares, para fins de concessão de estabilidade, seja porque houve diferenciação no tratamento empregado aos cabos do quadro masculino e aqueles do quadro feminino. Sustenta, por fim, a nulidade do ato administrativo (por ofensa aos princípios da legalidade, impessoalidade, moralidade e publicidade).
+    Sem razão o recorrente.
+    A análise das alegadas ofensas demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, bem como implicaria reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Incidem as Súmulas 636 e 279 desta Corte.
+    Nesse sentido: RE 549.824 (rel. min. Cezar Peluso, DJe de 08.03.2010), RMS 21.614 (rel. min. Ilmar Galvão, DJ de 16.04.1993), RMS 21.461 (rel. min. Maurício Corrêa, DJ de 26.04.1996), RE 484.835-AgR (rel. min. Marco Aurélio, DJ de 18.12.2009) e RE 211.838-AgR (rel. min. Maurício Corrêa, DJ de 27.02.1998).
+    Ademais, a jurisprudência desta Corte é no sentido de que não há ofensa ao princípio da isonomia em se dar tratamento distinto a militares do corpo feminino e do corpo masculino, quando a distinção repousa na natureza das atribuições. Nesse sentido, a decisão proferida no AI 440.905-ED (rel. min. Gilmar Mendes, Segunda Turma, DJ de 30.11.2007), assim ementada:
+    “EMENTA: Embargos de declaração em agravo de instrumento. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. Desacerto da decisão não demonstrado. 4. Militar. Quadro masculino. Estabilidade. Isonomia com o corpo feminino. 5. Discriminação com base na natureza das atribuições e funções exercidas em razão do sexo. Ofensa ao princípio da isonomia. Inocorrência. Precedentes. 6. Agravo regimental a que se nega provimento”.
+    Por fim, as questões constitucionais debatidas no recurso extraordinário quanto à ofensa aos princípios da legalidade, impessoalidade, moralidade e publicidade, não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Por fim, com o trânsito em julgado da decisão do Superior Tribunal de Justiça no AgR no AgR no REsp 770.117 (fls. 572-576), permanece suficiente o fundamento infraconstitucional adotado pelo acórdão recorrido. Essa situação inviabiliza o apelo extremo, nos termos da Súmula 283/STF.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 23 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
