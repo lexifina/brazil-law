@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com fundamento na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Superior do Trabalho. Acórdão assim ementado (fls. 189):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. CONCURSO PÚBLICO. DETERMINAÇÃO JUDICIAL. AÇÃO CIVIL PÚBLICA. A Constituição da República atribui expressamente ao Ministério Público a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis (art. 127, caput), conferindo-lhe o instrumento da ação civil pública para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos (art. 129, III). Assim, o reconhecimento pelo Poder Judiciário da procedência de demanda intentada pelo Parquet concernente à afirmação e à obediência de princípios constitucionais da Administração Pública não viola o pacto federativo, a independência dos Poderes e a autonomia municipal. Incólumes os arts. 1º, 2º, 18, 30, I, da Constituição da República.”
+    2. Pois bem, a parte recorrente aponta violação aos arts. 1º e 2º, ao inciso LV do art. 5º, ao art. 18, ao inciso I do art. 30, e aos §§ 4º e 5º e incisos II e IX do art. 37 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Paulo da Rocha Campos, opina pelo desprovimento do apelo extremo.
+    4. Tenho que insurgência não merece acolhida. Isso porque a Administração Pública direta e indireta, ao prover seus cargos e empregos públicos, deve obediência à regra do concurso público. Admitem-se somente duas exceções, previstas constitucionalmente: as nomeações para cargo em comissão e a contratação destinada ao atendimento de necessidade temporária e excepcional (incisos II e IX do art. 37 do Magno Texto).
+    5. De mais a mais, entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação infraconstitucional pertinente, o revolvimento do conjunto fático-probatório dos autos (Súmula 279/STF) e a interpretação de cláusulas contratuais (Súmula 454/STF). Providências vedadas neste momento processual.
+    6. À derradeira, anoto que não há falar em violação ao princípio da separação de poderes. Isso porque é firme no Supremo Tribunal Federal o entendimento de que o regular exercício da função jurisdicional, desde que pautado pelo respeito à Constituição, não transgride o princípio da separação de poderes (MS 23.452, da relatoria do ministro Celso de Mello).
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 25 de março de 2012.
+Ministro AYRES BRITTO
+Relator
