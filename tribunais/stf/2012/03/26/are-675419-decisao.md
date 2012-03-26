@@ -1,0 +1,40 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. INVIABILIDADE DO REEXAME DE FATOS E PROVAS DOS AUTOS, DE CLÁUSULAS CONTRATUAIS, DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE NORMA INFRALEGAL. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça do Distrito Federal e Territórios decidiu:
+    “CIVIL. PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. PRAZO PRESCRICIONAL VINTENÁRIO. TERMO ‘A QUO’ DO LAPSO PRESCRICIONAL. TRANSFERÊNCIA DO BENEFÍCIO PARA A PREVI. PRESCRIÇÃO VERIFICADA. NOVAÇÃO. INEXISTÊNCIA. 1. Aplica-se a prescrição vintenária, prevista no artigo 177 do Código Civil de 1916, nos casos em que os ex-funcionários do Banco do Brasil buscam o pagamento da diferença da complementação da aposentadoria, na forma da Portaria n. 966/1947, em razão da migração desta obrigação para a PREVI. 2. O termo ‘a quo’ para a fluência do prazo prescricional fica adstrito à época em que ocorreu a efetiva violação do direito, ‘in casu’, a transferência da complementação da aposentadoria para a entidade PREVI em abril de 1967. Prescrição verificada. 3. Para que haja novação, imprescindível a ocorrência dos requisitos do artigo 360 do Código Civil, ou seja, o ‘animus novandi’ e a inequívoca intenção de extinguir obrigação anterior, que continuará plenamente válida, se ausentes as condições mencionadas ou a expressa intenção das partes em não novar. 4. Apelo não provido. Sentença mantida” (fl. 704).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e a incidência das Súmulas n. 279 e 454 do Supremo Tribunal Federal.
+    4. Os Agravantes argumentam que:
+    “A decisão que denegou seguimento ao recurso extraordinário não ataca os pressupostos de admissibilidade, mas sim as razões do mesmo, ao afirmar que a decisão recorrida está em consonância com o posicionamento desta Corte. Aqui, cabe ressaltar, como a própria sistemática já exige, as razões são endereçadas ao Tribunal Superior, não competindo ao Tribunal recorrido a análise do mérito” (fl. 792).
+    No recurso extraordinário, alegam que o Tribunal a quo teria contrariado o inc. XXXVI do art. 5º da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste aos Agravantes.
+    O Desembargador Relator afirmou:
+    “Na hipótese dos autos, tratando-se de fato ocorrido sob a vigência do Código Civil de 1916, tenho que deve subsistir a regra prevista no artigo 177, de onde se extrai a aplicabilidade da prescrição vintenária.
+    No que tange à prescrição quinquenal, afiguro descabida a ilação, da forma como pretendem os Apelantes, por não se tratar de direito lesionado em cada provento mensal percebido, mas sim na data em que ocorreu a supressão do direito à complementação previdenciária a que o Banco do Brasil restou obrigado.
+    Nesse descortino, deve considerar-se o termo ‘a quo’ do lapso prescricional na data em que efetivamente ocorreu a violação do direito.
+    Ao meu sentir, a pretensão dos Autores exsurgiu exatamente na época em que o Banco-Réu suprimiu o direito à complementação de aposentadoria prevista na Portaria n. 966, de 1947, ‘in casu’, com a filiação compulsória dos funcionários do Banco do Brasil na PREVI, em abril de 1967.
+    Ademais, não considero plausível a alegação de que, alternativamente, dever-se-ia considerar o termo inicial da prescrição na data da aposentadoria efetiva dos Apelantes, uma vez que a lesão ao direito ocorreu antes da inatividade, havendo, inclusive, ciência de tal fato no momento em que cada Recorrente aderiu à PREVI.
+    Em outro giro, analisando-se a ocorrência do prazo prescricional vintenário, não vislumbro a incidência de quaisquer das condições de suspensão ou interrupção previstas no Código Civil.
+    De igual sorte, inexiste novação em face do acordo firmado entre o Banco do Brasil e a PREVI, em 1997. Ademais, o próprio contrato, celebrado à época, evidencia em sua cláusula 11ª (décima primeira) o intuito de não novar a obrigação. Confira-se:
+    ‘O presente contrato é celebrado em caráter irrevogável e irretratável e obriga as partes, por si e seus sucessores, declarando estas não haver intenção de novar qualquer das obrigações do BANCO e da PREVI, reciprocamente, e desta em relação ao Plano de Benefícios’ (fl.113).
+    Ora, para que haja novação, imprescindível a existência dos requisitos consubstanciados no artigo 360 do Código Civil, com a inequívoca intenção de extinguir obrigação anterior, que continuará plenamente válida, caso ausentes as condições mencionadas, nos termos do artigo 361 do referido Diploma Legal.
+    O ‘animus novandi’ deve restar inequívoco, porquanto não passível de presunção. Na hipótese em testilha, não se mostra caracterizada a intenção de novar, haja vista a própria previsão contratual disposta em sentido diverso.
+    (...)
+    Portanto, no caso em apreço, incabível a aplicação do artigo 112 do Código Civil.
+    Dessa forma, imperioso o reconhecimento da prescrição, uma vez que a presente ação somente restou ajuizada em 17.03.2005.
+    Entendo não haver que se falar, igualmente, em direito adquirido, nos termos do art. 5º, inciso XXXVI, da Constituição Federal de 1988, uma vez que a proteção constitucional resta voltada para aqueles direitos já efetivamente consolidados ao tempo do surgimento de regra restritiva, o que não se coaduna com o caso dos autos.
+    Acresça-se, por oportuno, que a controvérsia diz respeito ao transcurso da prescrição pelo não exercício do direito de ação que os Apelantes detinham, o que mantém íntegro o direito; porém, torna-o inexigível, afastando qualquer discussão acerca do direito material propriamente considerado” (fls. 709-710 - grifei).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório e das cláusulas contratuais constantes dos autos, inviável em recurso extraordinário, nos termos do que dispõem as Súmulas n. 279 e 454 deste Supremo Tribunal.
+    O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional e da norma infralegal aplicadas à espécie (Código Civil e Portaria n. 966/1947). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. PORTARIA N. 966/1947. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 598.730-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2009).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
