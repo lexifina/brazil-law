@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios. Acórdão assim ementado (fls. 796):
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. SISTEL. REVISÃO DE BENEFÍCIO. DISCIPLINA ESTATUTÁRIA.
+    Os benefícios da previdência privada complementar devem ser disciplinados pelas regras estatutárias vigentes à época em que implementadas todas as condições para a aposentação.”
+    2. Pois bem, a parte recorrente aponta ofensa aos incisos XXXV, XXXVI, LVI e LV do art. 5º, ao inciso IX do art. 93 e aos §§ 1º e 6º do art. 202 da Magna Carta de 1988.
+    3. Tenho que a insurgência não merece acolhida. É que entendimento diverso do adotado pela instância judicante de origem exigiria o reexame da legislação infraconstitucional pertinente, o revolvimento do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais. Providências vedadas pelas Súmulas 279 e 454/STF.
+    4. De mais a mais, a suposta afronta às garantias constitucionais do processo ocorreria de modo reflexo ou indireto. No mesmo sentido é a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Leia-se, a propósito, a ementa do AI 517.643-AgR, sob a relatoria do ministro Celso de Mello:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO AOS PRECEITOS INSCRITOS NO ART. 5º, XXXV E LV, E NO ART. 93, IX, TODOS DA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - As alegações de desrespeito aos postulados da inafastabilidade do controle jurisdicional, do devido processo legal, da motivação dos atos decisórios e da plenitude de defesa, por dependerem de exame prévio e necessário da legislação comum, podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.”
+    5. Não bastasse, pontuo, ainda, que o Plenário do Supremo Tribunal Federal já decidiu a matéria envolvendo a aplicação do inciso IX do art. 93 da Constituição Federal. Ao fazê-lo, acolheu questão de ordem para reconhecer a repercussão geral e reafirmar jurisprudência desta nossa Casa de Justiça. Leia-se, a propósito, a ementa do AI 791.292-QO-RG, da relatoria do ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    6. À derradeira, incide no caso a Súmula 282/STF.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 26 de março de 2012.
+Ministro AYRES BRITTO
+Relator
