@@ -1,0 +1,20 @@
+DECISÃO
+PENA – CUMPRIMENTO – TRATAMENTO MÉDICO – VIABILIDADE – EXAME – SALVO-CONDUTO – DEFERIMENTO.
+    1. A Assessoria prestou as seguintes informações:
+    Busca-se infirmar o acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça no Habeas Corpus nº 212.526/DF, mediante o qual se negou ao paciente o direito a cumprir a pena privativa de liberdade em regime domiciliar. O julgamento foi sintetizado na seguinte ementa:
+    HABEAS CORPUS. EXECUÇÃO PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. CONDENAÇÃO TRANSITADA EM JULGADO. PEDIDO DE RECOLHIMENTO EM REGIME DOMICILIAR. IMPOSSIBILIDADE. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. FALTA DE COMPROVAÇÃO DE QUE O ESTADO DE SAÚDE DO PACIENTE NÃO PERMITE SEU RECOLHIMENTO NA UNIDADE PRISIONAL. ORDEM DENEGADA.
+    1. Não se descura que esta Corte Superior, em casos excepcionais, tem admitido a prisão domiciliar a condenados portadores de doenças graves, que estejam cumprindo pena em regime fechado, desde que demonstrada a impossibilidade de receberem o tratamento adequado no estabelecimento prisional.
+    2. No caso, indemonstrado o real estado de saúde do Paciente, porque o mandado de prisão para o inicial cumprimento da pena ainda não foi cumprido e o apenado não se submeteu aos exames médicos solicitados pelo Juízo das Execuções, para comprovar a absoluta impossibilidade de tratamento dentro da unidade prisional. Assim, o direito de recolhimento à prisão domiciliar não restou configurado.
+    3. Ordem denegada. (Rel. Ministra LAURITA VAZ, julgado em 13/12/2011, DJe 01/02/2012)
+    O Tribunal de Justiça do Distrito Federal e Territórios, por maioria, indeferira o mesmo pedido em habeas formalizado, cassando pleito liminar anteriormente acolhido pelo relator. Assinalou a existência de documentação a comprovar ser o paciente portador de cardiopatia grave e incurável, motivo que ensejou a incapacidade definitiva para o serviço militar aos 54 anos, segundo atestado da junta de inspeção da Polícia Militar do Distrito Federal. Reconheceu padecer o paciente de outras doenças igualmente gravosas, tais como diabetes melitus II, gota, distúrbio do metabolismo lipídeo severo e hipertensão arterial, a implicar acompanhamento médico contínuo.
+    No entanto, consignou ser necessário o exame pela equipe médica do presídio, de modo a avaliar-se a viabilidade de tratamento dentro da penitenciária ou na rede pública de saúde do Distrito Federal. Assentou a impossibilidade de se decidir, no caso concreto, pelo direito ao regime domiciliar, porquanto o paciente não se submeteu aos exames médicos requeridos pelo Juízo da Execução.
+    Neste habeas, o impetrante assevera ser o paciente maior de sessenta anos e portador de várias moléstias graves, que lhe impõem alimentação e medicação em horários rigidamente controlados. Destaca não poder o paciente frustrar a execução em virtude das próprias condições físicas e salienta a situação notoriamente precária do sistema penitenciário. Alega a falta de razoabilidade de submetê-lo ao cárcere para a realização de exames, haja vista o grave risco de piora do estado de saúde.
+    Em âmbito liminar, requer seja reconhecido o direito do paciente à prisão em regime domiciliar até que ocorra melhora do estado de saúde. No mérito, busca a confirmação da providência.
+    O habeas está concluso para apreciação da medida acauteladora.
+    2. Há verdadeiro círculo vicioso. O paciente, com receio de permanecer preso, não se apresenta para o exame médico indispensável a saber se, no local de cumprimento da pena, poderá receber tratamento. Encontra-se, ao que tudo indica, foragido. O caso enseja a concessão da medida acauteladora, mas sem o alcance pretendido – estabelecer-se, de imediato, a custódia domiciliar.
+    3. Defiro a liminar para que seja expedido salvo-conduto em benefício do paciente considerada a condenação que lhe foi imposta, condicionando-o, no entanto, a que compareça ao Juízo da execução penal para a realização dos exames cabíveis.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 26 de março de 2012, às 16h30.
+Ministro MARCO AURÉLIO
+Relator
