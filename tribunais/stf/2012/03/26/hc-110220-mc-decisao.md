@@ -1,0 +1,17 @@
+DECISÃO
+PROCESSO – SUSPENSÃO – AUSÊNCIA DE RISCO – LIMINAR INDEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O paciente foi denunciado pela suposta prática do delito previsto no artigo 155, § 4º, inciso I (furto qualificado pelo rompimento de obstáculo), do Código Penal, por haver subtraído um pacote de 5 Kg de arroz, aproximadamente 5 Kg de carne de porco, um pote de doce de figo, uma faca de cozinha, um cadeado com chave, um martelo e um alicate.
+    O Juízo da Vara Judicial da Comarca de Júlio de Castilhos julgou improcedente a denúncia e absolveu sumariamente o réu, por considerar a atipicidade da conduta, em virtude da irrelevância da lesão ao bem jurídico tutelado. O Ministério Público estadual interpôs apelação no Tribunal de Justiça do Estado do Rio Grande do Sul, que foi provida, ante a “lesividade da conduta” e a presença de “condições subjetivas desfavoráveis” ao autor, determinando-se a sequência regular do processo.
+    Contra essa decisão, formalizou-se habeas no Superior Tribunal de Justiça – de nº 186.853/RS. A 5ª Turma indeferiu a ordem. Consignou que o princípio da insignificância somente é aplicável quando “o bem jurídico tutelado sofreu mínima lesão e a conduta do agente expressa pequena reprovabilidade e irrelevante periculosidade”, o que não ocorreria no caso, pois o infrator seria contumaz, contando com condenação transitada em julgado contra si. Esse é o ato atacado.
+    Neste habeas, a impetrante sustenta que “não cabe ao Direito Penal se preocupar com infrações de pouca monta, insuscetíveis de causar dano à coletividade”. Afirma que o fato de ser reincidente não impede o reconhecimento da atipicidade da conduta, pois as circunstâncias subjetivas do paciente mostram-se irrelevantes para a aplicação do princípio da insignificância. Assevera que a prática gerou “reduzidíssimo grau de reprovabilidade” e “dano patrimonial inexpressivo”. Requer o deferimento de liminar para determinar-se a “suspensão do feito originário até o julgamento” do habeas. No mérito, busca o restabelecimento da decisão absolutória.
+    Em resposta às informações solicitadas por Vossa Excelência, o Juízo de origem comunica que se aguarda designação de data para a audiência de instrução no Processo-Crime nº 56/2.08.0000709-3.
+    O habeas encontra-se concluso para apreciação da medida acauteladora.
+    2. Está-se diante de quadro em que, ante a reforma da decisão mediante a qual o Juízo absolveu sumariamente o réu, o Tribunal de Justiça do Estado do Rio Grande do Sul acabou por determinar a sequência do processo-crime. Mostra-se impossível vislumbrar risco imediato à liberdade de ir e vir do paciente, não bastasse a circunstância de existir no mundo jurídico, quando a coisa furtada é de baixo valor, o furto privilegiado.
+    Vale frisar que o Tribunal de Justiça fez ver que teria ocorrido o rompimento de obstáculo, vindo o acusado a jogar fora parte da comida e quebrar o relógio de parede da vítima ao simples argumento de não gostar de tal objeto. Responderia ele a outros seis processos por furtos praticados, já havendo, em uma das ações, título judicial condenatório precluso na via da recorribilidade. Daí o afastamento da adequação da teoria da insignificância jurídica.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 26 de março de 2012, às 13h10.
+Ministro MARCO AURÉLIO
+Relator
