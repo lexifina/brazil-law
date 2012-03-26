@@ -1,0 +1,14 @@
+DECISÃO
+MANDADO DE INJUNÇÃO – APOSENTADORIA ESPECIAL – POLICIAL – INEXISTÊNCIA DE MORA – LEI COMPLEMENTAR Nº 51/1985 – NEGATIVA DE SEGUIMENTO.
+    1. O impetrante, investigador da polícia civil do Estado de São Paulo, argui a mora legislativa concernente à regulamentação do artigo 40, § 4º, da Constituição Federal.
+    A Presidente da República informou estar em tramitação projetos de lei objetivando sanar a omissão e o Procurador-Geral da República opinou pelo não conhecimento da ação.
+    2. No Recurso Extraordinário nº 567.110, de relatoria da Ministra Cármen Lúcia, o Supremo concluiu pela repercussão geral do tema relativo a saber se a Emenda Constitucional nº 20/1998 recepcionou, ou não, o artigo 1º, inciso I, da Lei Complementar nº 51/1985, que versa sobre os requisitos e critérios diferenciados para a concessão de aposentadoria a policiais cujas atividades forem exercidas, de forma exclusiva ou não, sob condições especiais que prejudiquem a saúde ou a integridade física.
+    Em 13 de outubro de 2010, o Tribunal julgou o mérito do recurso, assentando a recepção do mencionado artigo. A ementa foi lançada nos termos seguintes:
+    RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1º da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento.
+    3. Conforme decidiu o Supremo, a aposentadoria dos policiais encontra-se submetida ao regime especial previsto no artigo 1º da Lei Complementar nº 51/1985, recepcionada pela Constituição Federal. O preceito representa exatamente a disciplina do disposto no artigo 40, § 4º, da Lei Maior, quanto à categoria.
+    O cabimento do mandado de injunção pressupõe, a teor do inciso LXXI do artigo 5º da Carta, a ausência de norma regulamentadora. A irresignação com o regime estabelecido em lei não se resolve no campo do mandado de injunção, sob pena de este fazer as vezes de ação direta de inconstitucionalidade. Precedente: Agravo Regimental no Mandado de Injunção nº 575/DF, de minha relatoria.
+    4. Ante o quadro, nego seguimento ao pedido.
+    5. Publiquem.
+Brasília, 26 de março de 2012.
+Ministro MARCO AURÉLIO
+Relator
