@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violado o disposto no art. 5º, LV e LVII, da Carta Magna.
+    Consta dos autos que o ora recorrente foi condenado, juntamente com a corré, como incurso no art. 1º, I, da Lei 8.137/1990, à pena de 03 (três) anos e 06 (seis) meses de reclusão e multa, em regime aberto, com substituição da pena privativa de liberdade por duas penas restritivas de direitos.
+    Inconformado, apelou para o Tribunal Regional Federal da 2ª Região que, não obstante ter dado provimento ao apelo da corré para absolvê-la, negou provimento ao recurso, em acórdão cuja ementa tem o seguinte teor (fls. 1.219):
+    “PENAL – PROCESSO PENAL – ART. 1º, I, DA LEI 8.137/90 – SUPOSTA SIMULAÇÃO DE PATROCÍNIO DESPORTIVO COM O FIM DE REDUZIR A BASE DE CÁLCULO OFERECIDA À TRIBUTAÇÃO – PODER DE DECISÃO SOBRE A CONTABILIZAÇÃO DA INSTITUIÇÃO FINANCEIRA – DIRETOR ADMINISTRATIVO ESTATUTÁRIO – CONTRATO REGULAR – ADVOGADA EMPREGADA DA INSTITUIÇÃO FINANCEIRA E NÃO ESTATUTÁRIA.
+    I – Hipótese em que se condenam os apelantes por simulação do contrato de patrocínio desportivo, com base no tipo descrito no art. 1º, I, da Lei 8.137/90.
+    II – Patente que diante de um contrato de três milhões e meio de reais, a responsabilidade do diretor administrativo e estatutário não se esgota com a aferição da regularidade formal do contrato, esta, sim, afeta à Diretoria Jurídica. Referida responsabilidade do diretor administrativo se expande para o processamento do pagamento, bem como, para a fiscalização da efetiva utilização da importância liberada. Mantida, portanto, a condenação do Diretor Administrativo.
+    III – Há nos autos prova da participação do desportista GUIDO VERME, que conscientemente viabilizou a consecução da fraude fiscal ao colocar-se como alvo do patrocínio e omitir-se de prestar as informações verídicas ao fisco quanto à efetiva utilização dos recursos recebidos do banco patrocinador.
+    IV – Quanto à advogada da instituição financeira, empregada do banco, não pode responder pelo crime com base em sua experiência e destaque no mercado financeiro. O contrato não foi acusado de irregular e não havia nenhuma regra que limitasse o valor do patrocínio, ou nenhuma outra legislação que se possa apontar ter, a apelante, burlado. Foi condenada por ter fornecido aconselhamentos jurídicos ao controlador do banco, isso nada significa.
+    V – Negado provimento aos recurso do Diretor Administrativo Estatutário do Banco e ao recurso do desportista e provido o recurso da advogada empregada na mesma instituição.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões recursais, o recorrente alega que o acórdão recorrido violou os princípios constitucionais da ampla defesa e da presunção de não culpabilidade, ao admitir como argumento válido a embasar a condenação, a ausência de comprovação, perante o Fisco, de que o valor pago a título de patrocínio teria sido empregado nos moldes pactuados.
+    Sustenta que houve inversão do ônus da prova e que caberia à acusação, e não à defesa, comprovar o alegado, ou seja, que os recurso destinados ao patrocínio para competição esportiva não teriam sido empregados nos moldes pactuados entre o Banco Marka e a Federação Brasileira de Vela e Motor.
+    Decido.
+    O recorrente, ao alegar que o acórdão recorrido ofende os referidos preceitos, trata de matéria cuja suposta violação demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Ademais, verifico que o acórdão recorrido concluiu pela configuração da fraude fiscal e pela responsabilização do ora recorrente. Para dissentir do que ficou consignado seria necessário o reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de março de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
