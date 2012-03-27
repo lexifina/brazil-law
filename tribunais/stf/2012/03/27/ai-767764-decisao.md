@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Seatrade Agência Marítima Ltda interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 156, inciso III e § 3º, inciso II, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “TRIBUTÁRIO – MANDADO DE SEGURANÇA – ISSQN –MUNICÍPIO DE PARANAGUÁ SERVIÇOS DE AGENCIAMENTO MARÍTIMO E DE ARMADORES – INCIDÊNCIA DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA – POSSIBILIDADE – ITENS 10.6 E 20.01 DA LISTA DE SERVIÇOS ANEXO, A LC Nº 116/2003 – RECURSO DESPROVIDO”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que todos os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte. Nesse sentido, anote-se:
+    ““EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ENQUADRAMENTO DA ATIVIDADE PRESTADA PELO CONTRIBUINTE PARA FINS DE INCIDÊNCIA DO ICMS OU ISS. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. II – A discussão acerca da definição da atividade prestada pelo contribuinte para fins de incidência do ICMS ou do ISS demanda o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, bem como a análise da legislação infraconstitucional aplicável à espécie, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. III – Agravo regimental improvido” (RE n° 248.301/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 4/5/11)”.
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. SÚMULAS STF 282 E 356. 1. Não tendo sido apreciadas, pela instância a quo, as questões constitucionais em que se apóia o extraordinário, é imprescindível a oposição de embargos de declaração para suprir o prequestionamento. Súmulas STF 282 e 356. 2. O Supremo Tribunal não admite o "prequestionamento implícito" da questão constitucional. AI 413.963-AgR/SC, rel. Min. Celso de Mello, DJ 1º.04.2005. 3. Não há negativa de prestação jurisdicional quando a parte recorrente opta por não atacar o fundamento infraconstitucional, arrastando para si a preclusão temporal para viabilizar, em tese, a sua pretensão. 4. Agravo regimental improvido” (RE n° 353.514/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 1°/10/10).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 27 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
