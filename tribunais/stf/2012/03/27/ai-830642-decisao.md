@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRESCRIÇÃO. CORREÇÃO MONETÁRIA. JUROS.
+    (...)” (fl. 1.556).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XII, XXII, XXXV, LIV e LV, 37, 84, IV, 93, IX, 148 e 150, IV, da mesma Carta, bem como ao art. 34, § 12, do ADCT.
+    O agravo não merece acolhida. Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Decreto-Lei 1.512/1976 e Lei 4.156/1962). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA EM BENEFÍCIO DAS CENTRAIS ELÉTRICAS BRASILEIRAS S.A. (ELETROBRÁS). LEI 4.156/1962. ADCT, ART. 34, § 12. O Plenário do Supremo Tribunal Federal reconheceu que a regra prevista no art. 34, § 12, do ADCT preservou a exigibilidade do empréstimo compulsório instituído pela Lei 4.156/1962, com as alterações posteriores, até o exercício de 1993. DEVOLUÇÃO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA. PRESCRIÇÃO. EXAME DE NORMAS INFRACONSTITUCIONAIS. OFENSA REFLEXA À CONSTITUIÇÃO. Agravo regimental a que se nega provimento” (AI 591.381-AgR/SC, Rel. Min. Joaquim Barbosa, Segunda Turma – grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 27 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
