@@ -1,0 +1,31 @@
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PRAZO PARA INTERPOSIÇÃO. INOBSERVÂNCIA. IMPOSSIBILIDADE DE SER CONHECIDO EM VIRTUDE DA INTEMPESTIVIDADE VERIFICADA.
+1. É de cinco dias o prazo para interposição de recurso ordinário contra acórdão proferido pelo Superior Tribunal de Justiça em habeas corpus, nos termos do artigo 310 do regimento interno do supremo tribunal federal e do artigo 30 da Lei nº 8.038/90.
+2. In casu, o acórdão recorrido foi publicado no dia 30 de agosto de 2011 e interposição do recurso ocorreu em 16 de setembro de 2011, intempestivamente, razão por que a impugnação não pode ser conhecida.
+3. Recurso ao qual se nega seguimento.
+    Decisão: Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça, cuja ementa está assim redigida:
+    “HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. INOCÊNCIA. INVIABILIDADE DE EXAME NA VIA ELEITA. REITERAÇÃO DELITIVA. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. PERICULOSIDADE DO AGENTE. ORDEM PÚBLICA. RISCO DE EVASÃO DO DISTRITO DA CULPA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. ORDEM DENEGADA.
+    1. Para a decretação da segregação, não se exige prova concludente da autoria delitiva, reservada à condenação criminal, mas apenas indícios suficientes desta, que, pelo cotejo dos elementos que instruem o mandamus, se fazem presentes.
+    2. A análise acerca da negativa de autoria veiculada na inicial é questão que não pode ser dirimida na via sumária do habeas corpus, por demandar o reexame aprofundado das provas colhidas no curso da instrução criminal.
+    3. Não há que se falar em constrangimento ilegal quando a custódia cautelar está devidamente justificada, com base e elementos concretos dos autos, de risco efetivo de reiteração delitiva, haja vista que o paciente é suspeito também de envolvimento em outros crimes na região, tornando necessária a imposição da medida constritiva para a garantia da ordem pública, diante da real possibilidade de que, solto, volte a delinquir.
+    4. Evidenciada está a imprescindibilidade da segregação preventiva para a ordem pública também, em razão da gravidade concreta do delito em tese praticado e da periculosidade do agente, bem demonstrada pelo modus operandi empregado.
+    5. O risco de fuga do paciente do distrito da culpa é motivação suficiente a embasar a manutenção da custódia cautelar, ordenada para garantir a aplicação da lei penal e para assegurar a conveniência da instrução criminal.
+    6. Ordem denegada.”
+    Das informações prestadas pelo Juízo da 4ª Vara da Comarca de Bacabal/MA, que instruíram o habeas impetrado perante o Superior Tribunal de Justiça, colhem-se os fundamentos que serviram à imposição da custódia preventiva:
+    “(...) Este Juízo, ao editar a decisão encartada nos autos da Ação Penal, concluiu pela presença dos requisitos legais que autorizam o decreto cautelar, de cuja decisão pode se extraída a seguinte motivação, verbis:
+    Esmiuçando os autos, se constata que a quadrilha é de alta periculosidade, trabalhando organizadamente a mais de um ano, inclusive tendo realizado vários assaltos a banco neste Estado, sem falar em outros crimes contra o patrimônio.
+    Pela dinâmica do crime percebe-se que os mesmos não tem qualquer respeito pela vida humana, vez que, apenas com a informação de que havia segurança armada, já chegaram atirando contra todos que se encontravam e frente a casa da vítima, chegando a atingir o vigia.
+    Outrossim, o arsenal encontrado com os mesmos mostram a conexão do mesmo com crimes de grande repercussão, que abalam a credibilidade da Segurança Pública Estadual e coloca a população em situação de medo e impotência.
+    Sendo assim, entendemos exatamente justificados os requisitos da segurança da ordem pública, vez que soltos, os representados continuariam no seu intento de desafiar as normas jurídicas, com seus crimes audaciosos, colocando em risco toda a população do nosso Estado.
+    […] pelo que se extrai das peças que instruem o presente procedimento, não há nada que possa fixar os acusados no distrito da culpa, havendo fortes indícios de que poderão frustrar a aplicação da lei penal”.
+    Ao paciente e aos corréus é imputada a prática do crime previsto no artigo 157, § 2º, incisos I e II, do Código Penal (roubo, mediante o emprego de ameaça com uso de armas e concurso de pessoas), pois, consoante o voto-condutor deste julgado:
+    “(...) um bando composto por oito homens, fortemente armados, invadiu a residência dos pais do prefeito do município de Conceição do Lago Açu e exigiu, sob ameaça de morte, que o irmão do prefeito abrisse o cofre, de onde subtraíram a importância de R$ 147.000,00. Consta da peça inaugural que um dos envolvidos no esquema não só confessou a prática criminosa como esclareceu o papel de cada um no grupo, informando que neste assalto estava em companhia do paciente”.
+    Na inicial do recurso ordinário, sustenta-se que o ato mediante o qual o Juízo Criminal determinou a prisão preventiva é carente de fundamentação idônea, por estar calcado em conjecturas e ilações quanto à possibilidade de o paciente continuar a delinquir ou evadir-se do distrito da culpa. Assim, por entender ausentes os requisitos do artigo 312 do Código de Processo Penal, o impetrante pede a revogação da referida decisão e a expedição de alvará de soltura em favor do paciente.
+    O Ministério Público Federal manifestou-se no sentido do desprovimento do recurso.
+    É o breve relatório. Decido.
+    O acórdão recorrido foi publicado no Diário da Justiça eletrônico em 30 de agosto de 2011 e o recurso ordinário foi protocolado no dia 16 de setembro de 2011, consoante relatório de andamento processual colhido no sítio do Superior Tribunal de Justiça na internet, donde se verifica ter ultrapassado, em muito, o prazo de cinco dias previsto no artigo 310 do Regimento do Interno do Supremo e no artigo 30 da Lei nº 8.038/90 para a sua interposição. Evidenciada a intempestividade da impugnação, o recurso não pode ser conhecido.
+    Ex positis, com base no artigo 38 da Lei nº 8.038/90, nego seguimento ao recurso.
+    Publique-se. Int.
+    Brasília, 27 de março de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
