@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais, cuja ementa é do seguinte teor (fls. 228):
+    “AÇÃO DE OBRIGAÇÃO DE FAZER – SUSPENSÃO DO PROCESSO – IMPOSSIBILIDADE – CERTIDÃO DE TEMPO DE SERVIÇO – EXPEDIÇÃO PELA SEPLAG – VALIDADE – ANTERIOR À PORTARIA 154/2008. Não há falar em aplicação do art. 265, IV, a, do CPC se não há dependência entre as causas, que envolvem relações diversas entre partes diferentes. Somente se exigirão as formalidades da Portaria 154/2008 em relação às certidões de tempo de serviço expedidas posteriormente ao seu advento, restando ilegal a negativa do Município de Belo Horizonte em aceitar aquelas que são anteriores.”
+    Nas razões do recurso extraordinário, a parte agravante aponta violação do art. 37, caput, da Constituição. Sustenta, em síntese, que “prossegue inválida e irregular a certidão de tempo de serviço emitida pela SEPLAG, ainda que anteriormente à publicação da Portaria n. 154/08, face à necessidade de observância dos requisitos legais exigidos desde o advento do Decreto n. 3.0448/99.” (fls. 242).
+    É o relatório. Decido.
+    Consigno inicialmente que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    No recurso extraordinário, o ora agravante, afirma que “a matéria tratada no caso em questão repercute nos interesses jurídicos, econômicos e sociais de toda uma coletividade, o que torna necessário o exame do presente recurso extraordinário e, inevitavelmente, a sua procedência face as razões que serão demonstradas” (fls. 239).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais aventadas na petição de recurso extraordinário, e que ultrapassem os interesses subjetivos das partes. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995 (rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Ademais, mesmo que superado tal óbice, o recurso não merece provimento.
+    A análise da apontada violação ao princípio da legalidade exige, necessariamente, o exame da legislação infraconstitucional. Dessa forma, eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário. Aplica-se ao caso, mutatis mutandis, as Súmulas 280 e 636 do Supremo Tribunal Federal.
+    Do exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de março de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
