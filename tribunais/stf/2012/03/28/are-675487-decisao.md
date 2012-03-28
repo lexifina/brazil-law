@@ -1,0 +1,52 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. LEGATÁRIA. PENSÃO: ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça do Rio de Janeiro decidiu:
+    “AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA DO RELATOR DANDO PROVIMENTO AO RECURSO (§ 1º-A DO ART. 557 DO CPC). PROCESSO CIVIL. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO EM FACE DE RIOPREVIDÊNCIA. PENSÃO POR MORTE. TÍTULO DE PENSIONISTA OBTIDO EM 1987, ANTES DA NOVA CONSTITUIÇÃO DE 1988. LEGATÁRIA. SENTENÇA DE IMPROCEDÊNCIA. INCOSTITUCIONALIDADE DECLARADA PELO STF DE NORMAS INFRACONSTITUCIONAIS QUE PERMITIAM A PENSÃO A LEGATÁRIOS. A CONCESSÃO DE PENSÃO POR MORTE É REGIDA PELA LEI EM VIGOR NA DATA DO FALECIMENTO DO INSTITUIDOR DO BENEFÍCIO. DIREITO INCORPORADO AO PATRIMÔNIO DA AUTORA QUE NÃO SE CONFUNDE COM DIREITO ADQUIRIDO. O DIREITO INCORPORADO AO PATRIMONIO PREVALECE EM FACE DA CONSTITUIÇÃO DE 1988, POIS CONFIGURA SITUAÇÃO JURÍDICA CONSOLIDADA QUE, SE DESCONSTITUÍDA, AFRONTARIA OS PRINCÍPIOS DA DIGNIDADE HUMANA, DA BOA-FÉ E DA ESTABILIDADE DAS RELAÇÕES JURÍDICAS. A DECLARAÇÃO DE INCONSTITUCIONALIDADE NÃO PODE ATINGIR DIREITO INCORPORADO HÁ MAIS DE VINTE ANOS. PRECEDENTES DESTE TRIBUNAL DE JUSTIÇA. DIREITO À REVISÃO DO BENEFÍCIO, OBSERVANDO-SE A PRESCRIÇÃO QUINQUENAL CONTADA DA PROPOSITURA DA AÇÃO. EC 20/98. DIREITO À REVISÃO DO BENEFÍCIO. AS PENSÕES DEVEM CORRESPONDER A 100% DOS VENCIMENTOS DO SERVIDOR EM ATIVIDADE NA DATA DO SEU FALECIMENTO, ALCANÇANDO AS VANTAGENS DE CARÁTER GERAL E INCONDICIONADAS. SÚMULA N. 68 DO TJRJ. CONHECIMENTO DO AGRAVO INTERNO QUE SE NEGA PROVIMENTO” (fl. 157).
+    Os embargos declaratórios opostos foram assim julgados:
+    “Embargos de declaração. Omissão e contradição inexistentes, eis que o acórdão tratou expressamente da matéria, dando-lhe a solução mais adequada, com a qual não concorda o embargante, que entende por omissão o fato de não ter sido dada a abordagem que pretendia. Aplicação, ao caso, da Súmula n. 52 deste Tribunal. Prequestionamento de matéria. Embargos rejeitados” (fl. 174).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 283 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que:
+    “Inicialmente, deve-se destacar que a alegação, de que o acórdão recorrido se sustenta em mais de um argumento, não é verdadeira.
+    Com efeito, a decisão considera – a despeito de qualquer fundamentação em legislação local – na constitucionalidade do recebimento da pensão pela autora, ora recorrida.
+    Este é o único fundamento de índole constitucional que sustenta toda a conclusão do acórdão.
+    Deste modo, afastada a constitucionalidade do recebimento de pensão por legatárias, com base na violação aos artigos 40, §§ 7º, 8º e 12, 102, inciso I, letra ‘l’ e § 2º, 201, inciso V, ‘a’, da Constituição da República, fundamentos do recurso extraordinário, que teve seu seguimento negado, a pensão não pode ser para e o seu corolário lógico (revisão pretendida na presente demanda) não pode ser deferida” (fls. 226-227).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, 40, §§ 7º e 8º, 102, inc. I, alínea l e § 2º, e 201, inc. V, da Constituição.
+    Sustenta que:
+    “a principal questão abordada nestes autos relaciona-se à possibilidade de pagamento de benefício previdenciário em favor de pensionista na qualidade de legatária.
+    Deste modo, cumpre ressaltar que o pagamento de pensão a legatários tinha por fundamento o art. 286 da Constituição do Estado do Rio de Janeiro, a seguir transcrito: (...).
+    Ocorre que a referida norma foi declarada inconstitucional, em controle concentrado e com efeitos ‘ex tunc’ por esta E. Corte, através da ADI 240-6. (...).
+    Para reforçar estas assertivas, a Lei estadual n. 1.951, de 26 de janeiro de 1992, que alterou a redação do inciso VIII do art. 29 da Lei 285/79 para possibilitar o pagamento de pensão a legatários, também foi declarada inconstitucional, em sede de controle concentrado, pelo STF, no julgamento da ADI 762-9/RJ: (...).
+    Com efeito, diante da nulidade dos dispositivos declarados inconstitucionais e dos efeitos ‘ex tunc’ atribuídos a ambos, certo é que o réu/recorrente poderia simplesmente cessar o pagamento dos benefícios concedidos aos legatários. Todavia, em respeito aos princípios da boa-fé, da segurança jurídica e da confiança legítima dos pensionistas, optou pela manutenção do valor nominal da pensão.
+    Dessa forma, é inconstitucional o pagamento da pensão por legado, não há que se falar em direito à revisão em paridade com a remuneração dos servidores da ativa.
+    (...)
+    Deve-se ressaltar, por fim, que fere o princípio da razoabilidade garantir a beneficiários de pensão, na qualidade de legatários, ou seja, a pessoas capazes e com plenas condições de prover a própria subsistência, o direito a que os valores de suas pensões sejam revisados em paridade com a remuneração recebida por servidores em atividade” (fls. 186-187 e 196).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Cumpre, inicialmente, afastar o óbice imposto pela decisão agravada, pois no recurso extraordinário foram abrangidos todos os fundamentos do acórdão recorrido.
+    Todavia, a superação desse óbice não é suficiente para acolher a pretensão do Agravante.
+    7. O Desembargador Relator afirmou:
+    “A concessão do benefício previdenciário está sujeita à legislação vigente à época do óbito, que na hipótese dos autos se deu em 26 de outubro de 1987 e foi fundamentada no art. 286 da Constituição do Estado do Rio de Janeiro e no art. 29, VIII da Lei estadual n. 285/79. Em matéria previdenciária adota-se o regramento vigente no momento do falecimento do segurado. Vigora em nosso sistema jurídico o Princípio ‘Tempus Regis Actum’.
+    De fato, o dispositivo constitucional que autorizava a concessão de pensão aos legatários foi declarado inconstitucional pelo Supremo Tribunal Federal, em controle concentrado, através da ADIN 240-6 assim como a Lei estadual n. 1.951, de 26.01.1992 que alterou a redação do inciso VIII do art. 29 da Lei n. 285/79 para possibilitar o pagamento de pensão a legatários.
+    Ocorre que a autora teve seu direito reconhecido em 1987, há mais de vinte anos, antes da promulgação da Constituição de 1988, tratando-se de direito incorporado ao patrimônio da apelante por ocasião do falecimento da ex-servidora. Há de se convir que retirar da autora o benefício após o usufruto por tantos anos sem interferência da administração constitui ofensa aos princípios da dignidade da pessoa humana, da boa-fé e da estabilidade das relações jurídicas.
+    A Autora teve seu benefício implantado legalmente e incorporou ao seu patrimônio. Não há que se falar, ‘in casu’, em direito adquirido a receber pensão, mas sim em direito realizado, incorporado. Aquele que satisfaz determinados requisitos legais terá direito adquirido a determinado benefício; aquele que, no entanto, goza este benefício, não mais tem direito adquirido, mas sim direito incorporado.
+    Além do mais a Administração não mais poderia desconstituir o ato administrativo de concessão do benefício à autora, porque a Lei n. 9.784/99, em seus artigos 53 e 54 e o Decreto n. 20.910/32, estabelecem o prazo de cinco anos quer para anulação do ato administrativo quer para a prescrição. Ora, o ato em discussão tem mais de vinte anos.
+    Retirar o benefício da autora ou negar-lhe revisão seria lhe causar injusto dano, eis que conta com essa verba que possui natureza alimentar por, repita-se, mais de vinte anos.
+    (...)
+    A autora tem direito à pensão, assim como à sua revisão.
+    (...)
+    O caso vertente deverá ser analisado sob a ótica do previsto na Constituição Federal [§ 7º do art. 40], na Lei estadual n. 285/79 e no Decreto n. 30.886/2002.
+    Com base na legislação acima citada, o valor das pensões pagas pelo IPERJ será igual ao valor dos vencimentos ou proventos a que teria direito o servidor na data de seu falecimento, excluídas tão somente as vantagens temporárias, não incorporadas à referida remuneração” (fls. 160-161 e 163).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou que, em questões previdenciárias, aplicam-se as normas vigentes ao tempo da reunião dos requisitos de passagem para a inatividade (tempus regit actum).
+    Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. REGÊNCIA PELA LEGISLAÇÃO VIGENTE NA ÉPOCA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 606.449-ED, de minha relatoria, Primeira Turma, DJe 9.3.2011).
+    “PENSÃO – CONFLITO DE NORMAS NO TEMPO – REGÊNCIA. A regência da pensão faz-se considerada a legislação em vigor na data do falecimento do servidor, descabendo emprestar a texto de lei ou da Constituição eficácia retroativa, no que prevista a percepção pela totalidade dos vencimentos.” (RE 273.570, Relator o Ministro Marco Aurélio, Primeira Turma, DJ 5.5.2006)
+    Desse modo, os julgamentos proferidos nas Ações Diretas de Inconstitucionalidade n. 240 e 762 não são aplicáveis no caso, pois tiveram por objeto, respectivamente, o art. 283 da Constituição fluminense de 1989 e a Lei estadual n. 1.951/1992, normas posteriores ao falecimento do servidor que instituiu o benefício em favor da Recorrida.
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
