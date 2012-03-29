@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 1ª Região. Acórdão assim ementado (fls. 289):
+    “TRIBUTÁRIO. PIS. SUCATAS E RESÍDUOS INDUSTRIAIS. FATURAMENTO DO CONTRIBUINTE. LEI. 9.718/98. PRESCRIÇÃO DECENAL (TESE DOS 5 + 5 ANOS).
+    1. Apesar da Corte Especial deste Tribunal, na Argüição de Inconstitucionalidade na AMS 1999.01.00.0960053-2/MG, ter concluído, por maioria, pela constitucionalidade dos arts. 2º, 3º, caput e § 1º, e art. 8º, caput, da Lei 9.718/98, por força do parágrafo único do art. 354 do Regimento Interno, a posterior declaração de inconstitucionalidade, pelo STF, tão-somente do § 1º do art. 3º da Lei 9.718/98, fez cessar, nesse particular, a vinculação desta Turma.
+    2. Se o objeto social da autora compreende a industrialização, comércio, importação, exportação de artefatos de ferro e aço, metais não ferrosos, matérias plásticas, desenvolvimento, pesquisa, produção de equipamentos criogênicos e de metais especiais, execução de serviço de cromação e galvanização, serviços de manutenção de equipamentos, consertos, laminação de aços, fabricação de máquinas, dentre outros, podendo, ainda, dedicar-se a todas as atividades que, direta e indiretamente, se relacionem com o seu objeto principal, o produto da venda de sucatas e resíduos industriais deve ser considerado como faturamento tributado à luz da LC 07/70 e leis posteriores.
+    3. Prescrição decenal (tese dos 5 + 5 anos). Apelação a que se nega provimento.”
+    2. Pois bem, a parte recorrente aponta ofensa ao art. 146, ao inciso I do art. 195 e ao art. 239, todos da Magna Carta de 1988. Afirma que “a Autora, ora Recorrente, é conhecida empresa que comercializa aço e principalmente rodas de alumínio, ou seja, a comercialização de sucata nem de longe guarda relação com sua atividade fim e, portanto pode e deve ser entendida como parte integrante de sua receita, mas não como parte de seu faturamento” (sic, fls. 325).
+    3. Tenho que a insurgência não merece acolhida. Isso porque, para se chegar a conclusão diversa da adotada pelo Tribunal de origem, são necessários o reexame do conjunto fático-probatório dos autos e a análise do contrato social da empresa (Súmulas 279 e 454/STF), providências vedadas na instância recursal extraordinária.
+    4. De mais a mais, pontuo que o Superior Tribunal de Justiça negou provimento ao recurso especial manejado simultaneamente ao apelo extremo. Pelo que permanecem incólumes os fundamentos infraconstitucionais do aresto impugnado. O que atrai a incidência da Súmula 283/STF:
+    “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de março de 2012.
+Ministro AYRES BRITTO
+Relator
