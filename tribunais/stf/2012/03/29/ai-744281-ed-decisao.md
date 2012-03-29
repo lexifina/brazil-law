@@ -1,0 +1,20 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – INEXISTÊNCIA DE VÍCIO – DESPROVIMENTO.
+    1. Por meio da decisão de folhas 341 e 342, neguei provimento ao agravo, consignando:
+RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – FALTA DE PREQUESTIONAMENTO – INVIABILIDADE.
+    1. Muito embora não prevaleça a intempestividade do extraordinário, decretada na origem, tem-se, no caso, óbice ao processamento do recurso.
+    2. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Acresce que, no caso dos autos, o que sustentado nas razões do extraordinário não foi enfrentado pelo Órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nºs 282 e 356 da Súmula desta Corte. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    4. Conheço do agravo e o desprovejo.
+    5. Publiquem.
+    O embargante, nos declaratórios de folha 348 a 349, sustenta a existência de vício na decisão. Alega não ter sido esclarecido em que ponto ocorreu a falta de prequestionamento, bem como o motivo da decisão embargada ter afirmado que a análise do acórdão de origem demandaria a interpretação de normas estritamente legais.
+    A parte embargada apresentou a contraminuta de folha 355 apontando o acerto do ato atacado.
+    2. Na interposição destes embargos, foram observados os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente constituído (folhas 84 e 90), foi protocolada no prazo assinado em lei.
+    Não prospera a articulação do embargante. Atentem para o que decidido pelo Tribunal de origem. O Superior Tribunal de Justiça negou provimento ao recurso, assentando a intempestividade dos embargos declaratórios interpostos anteriormente. O deslinde da controvérsia deu-se sob o ângulo estritamente legal e não considerada a Carta da República. A conclusão adotada no acórdão prolatado pelo Colegiado de origem fez-se alicerçada em interpretação conferida à legislação de regência da matéria.
+    No mais, os dispositivos constitucionais tidos por violados não foram enfrentados pelo órgão julgador. Assim, padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nºs 282 e 356 da Súmula desta Corte. Atentem não para o apego à literalidade do Verbete nº 356, também da Súmula deste Tribunal, mas para a razão de ser do prequestionamento e, mais ainda, para o teor do Verbete nº 282 da referida Súmula. O instituto do prequestionamento significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se a decisão impugnada nada contém sobre o que versado no recurso, descabe assentar o enquadramento deste no permissivo constitucional. Assim decidiu o Supremo no julgamento do Agravo Regimental no Agravo de Instrumento nº 541.696-6/DF, de que fui relator, com acórdão publicado no Diário da Justiça de 24 de fevereiro de 2006, sintetizado na seguinte ementa:
+    RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – CONFIGURAÇÃO – RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido argüida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou entendimento explícito a respeito do fato jurígeno veiculado nas razões recursais, inviabilizada fica a conclusão sobre a violência ao preceito evocado pelo recorrente.
+    3. Ante o exposto, ausente qualquer vício no julgado, conheço dos embargos de declaração e os desprovejo.
+    4. Publiquem.
+Brasília, 29 de março de 2012.
+Ministro MARCO AURÉLIO
+Relator
