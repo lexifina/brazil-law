@@ -1,0 +1,15 @@
+Trata-se de recursos extraordinários interpostos contra acórdão que entendeu pela inconstitucionalidade de lei municipal de iniciativa do poder legislativo local que dispôs sobre o parcelamento de multa de trânsito e de taxa de estadia por apreensão de veículos, ao fundamento de que mencionada lei seria de iniciativa privativa do chefe do executivo.
+    Nestes recursos extraordinários, fundados no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º e 61, caput, da mesma Carta, sob o argumento de que a competência para iniciar processo legislativo sobre matéria tributária é concorrente entre os poderes legislativo e executivo.
+    As pretensões recursais não merecem acolhida.
+    Isso porque, diversamente do que foi alegado pelos recorrentes, a questão referente ao parcelamento de multas de trânsito e de taxa de estadia não possui natureza tributária.
+    Em verdade, a matéria tratada nos autos diz respeito a trânsito e transporte, cuja competência legislativa é privativa da União, nos termos do art. 22, XI, da Constituição. Afasta-se, portanto, a alegada competência municipal para legislar sobre o tema. Nesse sentido, transcrevo as ementas da ADI 3.196/ES, Rel. Min. Gilmar Mendes, e da ADI 2.432/RN, Rel. Min. Eros Grau:
+    “Ação Direta de Inconstitucionalidade contra a Lei estadual n° 7.738, publicada no Diário Oficial do Estado do Espírito Santo de 6 de abril de 2004. 2. Parcelamento de multas de trânsito. 3. Alegada ofensa à competência privativa da União para legislar sobre trânsito e transporte (art. 22, XI, da Constituição). 4. Precedentes: ADI 2064 MC, Rel. Min. MAURÍCIO CORRÊA, DJ 5.11.1999; ADI 2101, Rel. Min. MAURÍCIO CORRÊA, DJ 05.10.2001; ADI 2582, Rel. Min. SEPÚLVEDA PERTENCE, DJ 06.06.2003; ADI 2644, Rel. Min. ELLEN GRACIE, DJ 17.09.2003; ADI 2814, Rel. Min. CARLOS VELLOSO, DJ 05.02.2004, ADI 2432 MC, Rel. Min. NELSON JOBIM, DJ 21.09.2001, ADI 3444, Rel. Min. ELLEN GRACIE, DJ 03.02.2006, ADI 2432, Rel. Min. EROS GRAU, DJ 26.08.2005. 5. Ação procedente. 6. Declarada a inconstitucionalidade da Lei estadual n° 7.738, do Espírito Santo” (ADI 3.196/ES, Rel. Min. Gilmar Mendes).
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 7.723/99 DO ESTADO DO RIO GRANDE DO NORTE. PARCELAMENTO DE MULTAS DE TRÂNSITO. INCONSTITUCIONALIDADE FORMAL.
+    1. Esta Corte, em pronunciamentos reiterados, assentou ter, a Constituição do Brasil, conferido exclusivamente à União a competência para legislar sobre trânsito, sendo certo que os Estados-membros não podem, até o advento da lei complementar prevista no parágrafo único do artigo 22 da CB/88, legislar a propósito das matérias relacionadas no preceito.
+    2. Pedido de declaração de inconstitucionalidade julgado procedente” (ADI 2.432/RN, Rel. Min. Eros Grau).
+    Nesse mesmo sentido, cito: ADI 3.444/RS, Rel. Min. Ellen Gracie; ARE 636.968/MG, Rel. Min. Luiz Fux; AI 664.751/RJ, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento aos recursos (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
