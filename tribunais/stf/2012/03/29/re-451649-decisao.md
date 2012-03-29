@@ -1,0 +1,19 @@
+DECISÃO: vistos, etc.
+    Trata-se de recurso extraordinário, interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão do Tribunal Regional Federal da 4ª Região. Acórdão assim ementado (fls. 194):
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMUNIDADE. ART. 149, § 2º, INC. I, DA CF. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. CSLL. ABRANGÊNCIA. IMPOSSIBILIDADE.
+    1. A imunidade objetiva prevista no art. 149, § 2o, inc. I, da CF, abrange apenas as contribuições sociais que possuem o faturamento ou receita como base de cálculo, não abarcando aquelas incidentes sobre o lucro.
+    2. Inteligência do art. 149, § 2o, inc. I, da CF, c/c art. 111 do CTN.
+    3. Apelação desprovida.”
+    2. Pois bem, a parte recorrente aponta violação ao inciso I do § 2º do art. 149 da Magna Carta de 1988.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do à época Subprocurador-Geral Roberto Monteiro Gurgel Santos, opina pelo conhecimento e desprovimento do recurso.
+    4. Tenho que a insurgência não merece acolhida. É que a decisão recorrida afina com jurisprudência dessa nossa Casa de Justiça, que me parece juridicamente correta. De saída, anoto que o Plenário do Supremo Tribunal Federal, ao apreciar o RE 474.132, da relatoria do ministro Gilmar Mendes, na sessão Plenária do dia 10/08/2010, entendeu que a imunidade constante do inciso I do § 2º do art. 149 da Constituição Federal de 1988 não abrange a Contribuição Social sobre o Lucro Líquido – CSLL. Eis a ementa do julgado:
+    “Recurso extraordinário. 2. Contribuições sociais. Contribuição Social sobre o Lucro Líquido (CSLL) e Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF). 3. Imunidade. Receitas decorrentes de exportação. Abrangência. 4. A imunidade prevista no art. 149, § 2º, I, da Constituição, introduzida pela Emenda Constitucional nº 33/2001, não alcança a Contribuição Social sobre o Lucro Líquido (CSLL), haja vista a distinção ontológica entre os conceitos de lucro e receita. 6. Vencida a tese segundo a qual a interpretação teleológica da mencionada regra de imunidade conduziria à exclusão do lucro decorrente das receitas de exportação da hipótese de incidência da CSLL, pois o conceito de lucro pressuporia o de receita, e a finalidade do referido dispositivo constitucional seria a desoneração ampla das exportações, com o escopo de conferir efetividade ao princípio da garantia do desenvolvimento nacional (art. 3º , I, da Constituição). 7. A norma de exoneração tributária prevista no art. 149, § 2º, I, da Constituição também não alcança a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF), pois o referido tributo não se vincula diretamente à operação de exportação. A exação não incide sobre o resultado imediato da operação, mas sobre operações financeiras posteriormente realizadas. 8. Recurso extraordinário a que se nega provimento.“
+    5. Ademais, na mesma sessão, o Pleno desta nossa Casa de Justiça também decidiu o mérito do RE 564.413, da relatoria do ministro Marco Aurélio. Confira-se, a propósito, a ementa do mencionado recurso:
+    “IMUNIDADE – CAPACIDADE ATIVA TRIBUTÁRIA. A imunidade encerra exceção constitucional à capacidade ativa tributária, cabendo interpretar os preceitos regedores de forma estrita.
+    IMUNIDADE – EXPORTAÇÃO – RECEITA – LUCRO. A imunidade prevista no inciso I do § 2º do artigo 149 da Carta Federal não alcança o lucro das empresas exportadoras.
+    LUCRO – CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO – EMPRESAS EXPORTADORAS. Incide no lucro das empresas exportadoras a Contribuição Social sobre o Lucro Líquido.”
+     Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de março de 2012.
+Ministro AYRES BRITTO
+Relator
