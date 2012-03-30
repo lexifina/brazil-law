@@ -1,0 +1,26 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) ART. 5º, INC. XXXV E LV, DA CONSTITUIÇÃO: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. 2) CONSTITUCIONAL E TRIBUTÁRIO. CRÉDITO-PRÊMIO DE IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (DECRETO-LEI N. 499/1969): EXTINÇÃO EM 5 DE OUTUBRO DE 1990. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “TRIBUTÁRIO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. PRELIMINAR REJEITADA. IPI. EXPORTAÇÃO. CRÉDITO-PRÊMIO. EXTINÇÃO.
+    (…)
+    1. A declaração de inconstitucionalidade do art. 1º do Decreto-lei n.º 1.724/79 e do inciso I do art. 3º do Decreto-lei n.º 1.894/81 pelo Col. STF não tem o condão de afastar a aplicabilidade do Decreto-lei nº 1.658/79, que fixou a extinção definitiva do "crédito-prêmio à exportação" em 30/06/83.
+    2. Afora isso, a fruição desse benefício, de acordo com o art. 41 do ADCT, não poderia ultrapassar a data de 05.10.90, uma vez que o mesmo não foi restabelecido pela Lei n.º 8.402, de 08/01/92.
+    3. Apelação da União e remessa oficial providas. Apelo da impetrante prejudicado” (fl. 206 – grifos nossos).
+    Tem-se nesse julgado:
+    “O cerne da controvérsia a ser aqui dirimida consiste em saber se a impetrante faz ou não jus à fruição de crédito-prêmio de IPI relativo ao período de novembro de 1998 a novembro de 2003” (fl. 195 – grifos nossos).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 5º, inc. XXXV e LV, da Constituição da República ao rejeitar os embargos declaratórios opostos contra o julgado recorrido.
+    Sustenta, ainda, contrariedade ao § 1º do art. 41 do Ato das Disposições Constitucionais Transitórias, pois “o benefício do crédito-prêmio de IPI não foi abolido do nosso ordenamento jurídico-tributário” (fl. 297).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. Pela jurisprudência do Supremo Tribunal, a alegação de contrariedade ao art. 5º, inc. XXXV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, do Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    5. Ademais, este Supremo Tribunal assentou a extinção (em 5 de outubro de 1990) do crédito-prêmio de Imposto sobre Produtos Industrializados instituído pelo Decreto-Lei n. 491/1969:
+    “TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. CRÉDITO-PRÊMIO. DECRETO-LEI 491/1969 (ART. 1º). ADCT, ART. 41, § 1º. INCENTIVO FISCAL DE NATUREZA SETORIAL. NECESSIDADE DE CONFIRMAÇÃO POR LEI SUPERVENIENTE À CONSTITUIÇÃO FEDERAL. PRAZO DE DOIS ANOS. EXTINÇÃO DO BENEFÍCIO. RECURSO EXTRAORDINÁRIO CONHECIDO E DESPROVIDO. I - O crédito-prêmio de IPI constitui um incentivo fiscal de natureza setorial de que trata o do art. 41, caput, do Ato das Disposições Transitórias da Constituição. II - Como o crédito-prêmio de IPI não foi confirmado por lei superveniente no prazo de dois anos, após a publicação da Constituição Federal de 1988, segundo dispõe o § 1º do art. 41 do ADCT, deixou ele de existir. III - O incentivo fiscal instituído pelo art. 1º do Decreto-Lei 491, de 5 de março de 1969, deixou de vigorar em 5 de outubro de 1990, por força do disposto no § 1º do art. 41 do Ato de Disposições Constitucionais Transitórias da Constituição Federal de 1988, tendo em vista sua natureza setorial. IV - Recurso conhecido e desprovido” (RE 577.348, Rel. Min. Ricardo Lewandowski, Plenário, Dje 26.2.2010 – grifos nossos).
+    Dessa orientação jurisprudencial não divergiu o julgado recorrido.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
