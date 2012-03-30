@@ -1,0 +1,15 @@
+DECISÃO: vistos, etc.
+    Trata-se de dois recursos extraordinários. O primeiro, interposto por Carlos Sérgio de Melo Miranda, contra acórdão do Tribunal Regional Federal da 2ª Região. O segundo, manejado pela União, contra acórdão do Superior Tribunal de Justiça, este último assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. ANISTIA. ARTIGO 8º DO ADCT. DIREITO A TODAS AS PROMOÇÕES COMO SE NA ATIVA ESTIVESSE. DESNECESSIDADE DE APROVAÇÃO EM CURSOS OU AVALIAÇÃO DE MERECIMENTO. OBSERVÂNCIA DOS ‘PARADIGMAS’ E DO QUADRO AO QUAL INTEGRAVA O ANISTIADO.
+    1. O servidor público militar beneficiário de anistia política, nos termos do art. 8º, do ADCT, possui o direito às promoções como se estivesse na ativa, independente de aprovação em cursos ou avaliação de merecimento, devendo, apenas, ser observados a situação dos "servidores paradigmas" e o quadro ao qual integrava o anistiado.
+    2. Precedentes: AgRg no REsp 871.910/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/05/2010, DJe 21/06/2010; AgRg no REsp 1105938/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/05/2009, DJe 03/08/2009; REsp 769.000/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 18/10/2007, DJ 05/11/2007 p. 348
+    3. Agravo regimental desprovido."
+    2. De saída, observo que o Superior Tribunal de Justiça deu provimento ao recurso especial interposto por Carlos Sérgio de Melo Miranda simultaneamente ao extraordinário sob exame. Logo, já reconhecido o direito postulado na instância do recurso especial, o extraordinário, no ponto, perdeu o objeto.
+    3. Pois bem, a União, em seu recurso, alega violação ao caput e incisos XXXV, LIV e LV do art. 5º e ao inciso IX do art. 93 da Magna Carta de 1988, bem como ao art. 8º do ADCT. Sustenta que, “muito embora possuam os anistiados direito às promoções por merecimento, estas não podem ser concedidas em bases inteiramente abstratas, exigindo-se, portanto, a apresentação de paradigmas que possam ser seguidos”. Aduz que “o impetrante não trouxe aos autos qualquer situação paradigma, não sendo, pois, possível ao STJ presumir que o autor alcançaria a graduação obtida no STJ acaso não estivesse sido atingido pelo ato de exceção”.
+    4. Tenho que o recurso não merece acolhida. Isso porque entendimento diverso do adotado pela instância judicante de origem exigiria o reexame do conjunto fático-probatório dos autos. Providência vedada neste momento processual, nos termos da Súmula 279/STF.
+    5. De mais a mais, a jurisdição foi prestada de forma completa, em decisão devidamente fundamentada, embora em sentido contrário aos interesses da União, o que não caracteriza cerceamento de defesa.
+    Ante o exposto, e frente ao art. 557 do CPC e ao § 1º do art. 21 do RI/STF, julgo prejudicado o primeiro recurso extraordinário, interposto por Carlos Sérgio de Melo Miranda. Quanto ao apelo extremo da União, nego-lhe seguimento.
+    Publique-se.
+    Brasília, 30 de março de 2012.
+Ministro AYRES BRITTO
+Relator
