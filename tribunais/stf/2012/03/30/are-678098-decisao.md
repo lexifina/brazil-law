@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROGRESSÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. NÃO CABIMENTO DO RECURSO PELA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a e c, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “Apelação cível. Ação Ordinária. Progressão na carreira, em decorrência da conclusão de curso de graduação. Presença dos requisitos previstos no art. 6° da Lei 7.969/2000. Investigação de regularidade da instituição de ensino é insuficiente para obstar o direito pretendido de progressão na carreira. Procedência do pedido inicial. Sentença confirmada em reexame necessário. Recurso voluntário prejudicado” (fl. 110).
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts.18, 29 e 37 da Constituição da República.
+    Sustenta que “em nenhum momento foram apresentados documentos hábeis e suficientes à comprovação que os servidores frequentaram o curso nem tampouco que os certificados apresentados eram suficientes para que fosse reconhecido o direito a progressão na carreira, que é concedida em virtude da efetiva especialização, ampliação dos conhecimentos, o que de forma alguma pode ser dito em relação aos cursos analisados” (fl. 146).
+    Assevera que “o título apresentado, ainda que fosse considerado válido, não atende aos requisitos da Lei Municipal, o que o torna imprestável para a concessão da progressão, já que a mera apresentação do título não garante a obtenção da progressão, sendo necessário o cumprimento de requisitos legais e a avaliação do título” (fl. 149).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 279 e 280 do Supremo Tribunal Federal (fls. 164-165).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Desembargador Relator Roney Oliveira decidiu:
+    “A Lei Municipal n° 7.969/00 acrescentou a possibilidade de progressão na carreira os Servidores da Educação com a aprovação em concurso de especialização, conforme consta em seu art. 6°.
+    (…) No caso em comento, verifica-se que, pelos documentos colacionados aos autos (fls. 20/21- TJ), atestam que o curso realizado pela apelada, ‘Metodologia e a Didática do Ensino’ possui corpo docente com titulação mínima de mestre, carga horária de 364 horas e exigiu monografia, avaliada por professora com título de mestre, satisfazendo, portanto, três dos requisitos exigidos na legislação supracitada.
+    Assim, a simples ocorrência de investigação acerca da regularidade e idoneidade da instituição de ensino não se revela suficiente para obstar o direito da apelação a progressão na carreira” (fls. 112-114).
+    Concluir de forma diversa do julgado recorrido demandaria a análise dessa legislação local, inviável em recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal.
+    Ademais, para o deslinde da matéria posta à apreciação judicial, as instâncias originárias examinaram os elementos probatórios dos autos, que não podem ser reexaminados na via extraordinária, conforme a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. MUNICÍPIO DE BELO HORIZONTE. PROGRESSÃO HORIZONTAL REGULADA PELA LEI MUNICIPAL 7.169/1996. ALEGADA VIOLAÇÃO DO ART. 37, XIV, DA LEI MAIOR. OFENSA A DIREITO LOCAL. SÚMULA 280 DO STF. Agravo regimental a que se nega provimento” (ARE 660.724-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 7.3.2012).
+    “EMENTA Agravo regimental no recurso extraordinário. Legislação infraconstitucional. Lei Municipais nºs 7.169/96 e 8.690/03. Súmulas nºs 279 e 280. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional (Lei Municipais nºs 7.169/96 e 8.690/03) e o reexame dos fatos e das provas dos autos. Incidência da Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido” (RE 627.731-AgR, Rel. Min. Dias Toffoli, Primeira Turma, De 17.6.2011).
+    7. Por fim, cumpre ressaltar que o recurso extraordinário é incabível por ausência da circunstância que legitimaria sua interposição com base na alínea c do inc. III do art. 102 da Constituição da República.
+    O Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição. Incide na espécie a Súmula n. 284 do Supremo Tribunal Federal. Confira-se, a propósito, o seguinte julgado:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. 1. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA C DO ART. 102, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA (SÚMULA 284 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 763.681-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de março de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
