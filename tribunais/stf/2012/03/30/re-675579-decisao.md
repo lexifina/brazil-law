@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de agravo contra decisão obstativa de recurso extraordinário, este interposto com suporte na alínea “a” do inciso III do art. 102 da Constituição Republicana, contra acórdão da Turma Recursal dos Juizados Especiais Federais da 4ª Região.
+    2. Da leitura dos autos, observo que a instância judicante de origem considerou inconstitucional a fixação das anuidades profissionais por critérios previstos em resolução e não em lei, como autoriza o art. 2º da Lei 11.000/2004.
+    3. Pois bem, a parte recorrente aponta violação ao inciso IX do art. 93, ao inciso III do art. 146, ao art. 149, aos incisos I e III do art. 150 e aos § 5º e 6º do art. 195, todos da Magna Carta de 1988.
+    4. Tenho que a insurgência não merece acolhida. Isso porque o entendimento adotado pela instância judicante de origem afina com a jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta. Leia-se, a propósito, a ementa do RE 613.799-AgR, da relatoria do ministro Celso de Mello:
+    “RECURSO EXTRAORDINÁRIO. ANUIDADE COBRADA POR CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CARÁTER TRIBUTÁRIO DESSA CONTRIBUIÇÃO ESPECIAL (CF, ART. 149, CAPUT). NECESSÁRIA OBSERVÂNCIA DO PRINCÍPIO CONSTITUCIONAL DA RESERVA DE LEI FORMAL (CF, ART. 150, I). IMPOSSIBILIDADE DE CRIAÇÃO OU MAJORAÇÃO DE REFERIDAS EXAÇÕES TRIBUTÁRIAS MEDIANTE SIMPLES RESOLUÇÃO. PRECEDENTES DO STF. RECURSO DE AGRAVO IMPROVIDO.”
+    5. À derradeira, anoto que o Plenário do Supremo Tribunal Federal já decidiu a matéria envolvendo a aplicação do inciso IX do art. 93 da Constituição Federal. Ao fazê-lo, acolheu questão de ordem para reconhecer a repercussão geral e reafirmar jurisprudência desta nossa Casa de Justiça. Confira-se, a propósito, a ementa do AI 791.292-QO-RG, da relatoria do ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Ante o exposto, e frente ao caput do art. 557 do CPC e ao § 1º do art. 21 do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de março de 2012.
+Ministro AYRES BRITTO
+Relator
