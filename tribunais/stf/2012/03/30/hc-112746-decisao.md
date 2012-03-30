@@ -1,0 +1,47 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Helio Bialski e outros em favor de Alexandre Teodoro de Souza contra decisão monocrática da lavra do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que, nos autos do HC 234.537/SP, indeferiu liminarmente a petição inicial.
+          O paciente foi preso preventivamente e denunciado pela prática dos crimes tipificados nos arts. 33, 34 e 35 da Lei 11.343/06. O Ministério Público do Estado de São Paulo apontou Alexandre Teodoro de Souza como chefe da associação criminosa responsável pelo abastecimento de drogas de toda a região da grande São Paulo.
+          Narra a inicial que a investigação policial, ensejadora da peça acusatória, foi lastreada em interceptações telefônicas e diligências decorrentes desse elemento de prova.
+          A defesa do paciente assevera a ausência de acesso integral a tais elementos de prova acostados ao respectivo procedimento cautelar criminal.
+          Alega ainda excesso de prazo na prisão, pois esta teria ocorrido em outubro de 2011 e ainda não iniciada a instrução.
+          Reclama igualmente a substituição da prisão preventiva por medidas cautelares alternativas.
+          Tais fundamentos, no seu entendimento, justificariam a superação da Súmula nº 691 deste Supremo Tribunal Federal.
+          Passo a examinar.
+          Em meados de outubro de 2011, o magistrado de primeiro grau decretou a prisão preventiva de Alexandre Teodoro de Souza com fundamento na garantia da ordem pública e na aplicação da lei penal.
+          Inconformada, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu a medida emergencial.  Contra tal situação, impetrou-se o HC 234.537/SP ao Superior Tribunal de Justiça, que, mediante decisão prolatada pelo Ministro Jorge Mussi, indeferiu o writ forte no enunciado da Súmula nº 691/STF.
+          A decisão impugnada pelo presente habeas corpus, da lavra do Ministro Jorge Mussi, foi assim proferida:
+    “(...).
+    Esta Corte Superior, nos termos do verbete sumular nº 691 do Supremo Tribunal Federal, pacificou a orientação no sentido de que ‘não se admite habeas corpus contra decisão proferida pelo relator da impetração na instância de origem, excetuados os casos de indeferimento de pedido liminar em decisão inquestionavelmente teratológica, despida de qualquer razoabilidade’ (HC nº 86.415/SP, rel. Min. Laurita Vaz, Quinta Turma, j. Em 21.02.2008).
+    E, na hipótese, não se vislumbra flagrante ilegalidade na decisão monocrática que, em sede sumária, negou a pretensão deduzida, por não se verificar, de plano, a sustentada coação.
+    Por outro lado, mister destacar que o revolvimento das questões aventadas no writ originária, e aqui reiteradas, certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça impetrada, quando do julgamento do seu mérito.
+    Nesse passo, inexistindo a excepcionalidade necessária ao abrandamento do enunciado no verbete sumular mencionado, com fulcro nos arts. 38 da Lei nº 8.038/90 e 210 do Regimento Interno deste Superior Tribunal, indefiro liminarmente a petição inicial”.
+          É conhecida a Súmula 691 do Supremo Tribunal Federal, de seguinte teor:
+          “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+          O escopo da Súmula 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e respectivas competências.
+          A jurisprudência desta Suprema Corte, por outro turno, tem abrandado, em casos excepcionais, o rigor do mandamento sumular, conforme se observa nos seguintes precedentes: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; e HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+          Não vislumbro, na espécie, manifesto constrangimento ilegal apto a afastar o óbice da Súmula.
+          A prisão preventiva decretada em desfavor do paciente parece se justificar, já que apontado o paciente como chefe de grupo criminoso dedicado ao tráfico de drogas, com diversos registros criminais pretéritos.
+          Pelas interceptações telefônicas teria sido constatado que ele, juntamente com vários outro co-acusados, seriam responsáveis pelo fornecimento de drogas a diversos traficantes na região metropolitana de São Paulo/SP.
+          Consta na representação policial que, com traficantes que teriam recebido a droga do grupo de Alexandre, teriam sido apreendidos, em 09.3.2011, trinta e oito tijolos de maconha, 250 eppendorfs de cocaína, 743 gramas de cocaína avulsa e uma balança de precisão.
+          Consta também que teria sido realizada apreensão na chácara utilizada pelo grupo criminoso, desde feita do próprio paciente,, com prisão de diversos integrantes, inclusive do co-acusado Silvano Alexandre Bargosa, com apreensão de grande quantidade drogas, mais de cem quilos de cocaína, insumos e material para seu refinamento.
+          Na interceptação, teriam sido colhidos diversos diálogos de Alexandre com seus subordinados. Foi ainda constatado que Alexandre teria diversos registros criminais pretéritos.
+          Destaco alguns trechos da representação policial:
+          “Alexandre adquiria cocaína com alto teor de pureza e depois misturava com insumos como bicabornato de sódio, étr, fermento, aumentado dessa forma a quantidade inicial e consequentemente os lucros na revenda.
+          Verificando horas de gravação, os investigadores realizaram um relatório de degravação telefônica com algumas conversas que demonstram a ligação entre os indiciados, bem como comprovam a afirmação de serem eles traficantes
+          (…)
+          Conversas gravadas entre Silvano e Alexandre, no dia 19.4.2011, deixam claro a relação entre ambos, quando Alexandre diz se ele ‘seus braços e pernas’.
+          (…)
+          As últimas conversas gravadas entre Alexandre e Silvano, antes da prisão em flagrante, revelam a forma como eles preparavam as drogas, quando falam sobre cor, secagem, vitamina, ou seja, mistura realizada no liquidificador.
+          (...)”
+          “Os policiais ao realizarem pesquisas junto aos bancos de dados da polícia, bem como pela internet, constataram que Alexandre, seria integrante da organização criminosa primeiro comando da capital, possuindo indiciamentos pelos crimes de tráfico de entorpecentes, roubo, tentativa de homicídio, formação de quadrilha, e dano qualificado, além de ter sido surpreendido, em 23.12.2010, por guardas municipais da cidade de Indaiatuba, na posse de R$ 147.000,00 em dinheiro, cuja procedência não foi comprovada.”
+          Pelo relato probatório constante na representação policial, parece estarem presentes os pressupostos necessários para a decretação da prisão preventiva, a saber, a prova da materialidade do crime e indícios de autoria.
+          Pelo mesmo relato, também aparentam estar presentes os fundamentos, já que, da condição do paciente de chefe de grupo criminoso dedicado ao tráfico de drogas, se infere risco de reiteração delitiva e, por conseguinte, à ordem pública.
+          Nessas circunstâncias, a substituição da preventiva por medidas cautelares alternativas afigura-se manifestamente inadequada.
+                Quanto ao alegado cerceamento de defesa, o magistrado de primeiro grau, ao indeferir o pedido de vista dos autos do procedimento de interceptação telefônica, registrou que o essencial relativo ao paciente foi juntado ao feito principal e, naquele momento, o acesso da defesa aos autos, com diligências ainda em curso, comprometeria a continuidade das investigações. A revisão de tal decisão demandaria informações mais precisas acerca do que foi disponibilizado à Defesa e do que não foi. Se há ainda diligências em andamento, é em princípio legítimo o indeferimento de acesso ao material, máxime quando a autoridade coatora informa que os elementos necessários à defesa foram disponibilizados.
+          No tocante ao excesso de prazo para encerramento da instrução criminal, não há adequada demonstração, uma vez que, diversamente do alegado neste writ, a ação penal de origem não se encontra parada, mas em regular tramitação. Envolvendo crimes complexos, praticados por organização criminosa, com vários acusados, é de se tolerar alguma demora. De todo modo, seria necessário, para concluir por eventual excesso, colher prévias informações da autoridade coatora acerca da situação atual da ação penal e dos motivos de eventual demora.
+          Se o constrangimento ilegal não está evidenciado, se a resolução das questões demandaria a coleta de informações da autoridade coatora, o que se presume que também está sendo feito pelo Tribunal de Justiça do Estado de São Paulo e pelo Superior Tribunal de Justiça, é de todo inadequado suprimir duas instâncias e conhecer desde logo a matéria veiculada no presente writ.
+          Assim, pelo menos tendo por base o que consta dos autos, não vislumbro manifesta ilegalidade a autorizar a supressão de duas instâncias.
+          Ante o exposto, com base no art. 21, § 1º, do Regimento Interno e na Súmula nº 691/STF, nego seguimento ao presente habeas corpus.
+          Publique-se.
+          Brasília, 30 de março de 2012.
+Ministra Rosa Weber
+Relatora
