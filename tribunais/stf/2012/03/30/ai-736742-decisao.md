@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Brito & Moura Indústria Metalúrgica Ltda. interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 155, § 2º, I, da Constituição Federal.
+    Insurge no apelo extremo, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMBARGOS À EXECUÇÃO FISCAL – ICMS – Auto de Lançamento – Presunção de certeza e liquidez da certidão de dívida ativa – Desnecessidade do processo administrativo - Base de cálculo – Legalidade do chamado “cálculo por dentro” – Multa devida – Não aplicação da lei 9.198/96 – Juros devidos – Aplicabilidade da taxa Selic – Lei 10.175/98 – Recurso da embargante desprovido e recursos oficial e da Fazenda providos”.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 155, § 2º, I, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que assim não fosse, verifico que o Plenário desta Corte no julgamento do RE n° 582.461/SP-RG, Relator o Ministro Gilmar Mendes, DJe de 18/8/11, reconheceu a repercussão geral da matéria constitucional versada na presente lide.
+    Nesse julgamento, o Supremo Tribunal Federal firmou entendimento no sentido da constitucionalidade da inclusão do ICMS na sua própria base de cálculo. Anote-se a ementa do referido julgado:
+    “1. Recurso extraordinário. Repercussão geral.
+    2. Taxa Selic. Incidência para atualização de débitos tributários. Legitimidade. Inexistência de violação aos princípios da legalidade e da anterioridade. Necessidade de adoção de critério isonômico. No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou que a medida traduz rigorosa igualdade de tratamento entre contribuinte e fisco e que não se trata de imposição tributária.
+    3. ICMS. Inclusão do montante do tributo em sua própria base de cálculo. Constitucionalidade. Precedentes. A base de cálculo do ICMS, definida como o valor da operação da circulação de mercadorias (art. 155, II, da CF/1988, c/c arts. 2º, I, e 8º, I, da LC 87/1996), inclui o próprio montante do ICMS incidente, pois ele faz parte da importância paga pelo comprador e recebida pelo vendedor na operação. A Emenda Constitucional nº 33, de 2001, inseriu a alínea “i” no inciso XII do § 2º do art. 155 da Constituição Federal, para fazer constar que cabe à lei complementar “fixar a base de cálculo, de modo que o montante do imposto a integre, também na importação do exterior de bem, mercadoria ou serviço”. Ora, se o texto dispõe que o ICMS deve ser calculado com o montante do imposto inserido em sua própria base de cálculo também na importação de bens, naturalmente a interpretação que há de ser feita é que o imposto já era calculado dessa forma em relação às operações internas. Com a alteração constitucional a Lei Complementar ficou autorizada a dar tratamento isonômico na determinação da base de cálculo entre as operações ou prestações internas com as importações do exterior, de modo que o ICMS será calculado "por dentro" em ambos os casos.
+    4. Multa moratória. Patamar de 20%. Razoabilidade. Inexistência de efeito confiscatório. Precedentes. A aplicação da multa moratória tem o objetivo de sancionar o contribuinte que não cumpre suas obrigações tributárias, prestigiando a conduta daqueles que pagam em dia seus tributos aos cofres públicos. Assim, para que a multa moratória cumpra sua função de desencorajar a elisão fiscal, de um lado não pode ser pífia, mas, de outro, não pode ter um importe que lhe confira característica confiscatória, inviabilizando inclusive o recolhimento de futuros tributos. O acórdão recorrido encontra amparo na jurisprudência desta Suprema Corte, segundo a qual não é confiscatória a multa moratória no importe de 20% (vinte por cento).
+    5. Recurso extraordinário a que se nega provimento” (RE n° 582.461/SP-RG, Plenário, Relator o Ministro Gilmar Mendes, DJe de 18/8/11) (Grifo nosso).
+    Ante ao exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 30 de março de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
