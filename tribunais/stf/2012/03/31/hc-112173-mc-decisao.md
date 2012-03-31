@@ -1,0 +1,18 @@
+DECISÃO
+TRÁFICO DE ENTORPECENTES – FLAGRANTE – LIBERDADE PROVISÓRIA – LIMINAR INDEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    Vossa Excelência determinou à impetrante a emenda à inicial, ante o descompasso verificado entre a autoridade coatora apontada e a competência do Supremo. Feita a correção, impugna-se a decisão liminar proferida pelo Ministro Ari Pargendler, do Superior Tribunal de Justiça, mediante a qual foi indeferido pleito de liberdade provisória, no Habeas Corpus n° 229.815/SC.
+    O paciente foi preso em flagrante e condenado à pena privativa de liberdade de oito anos de reclusão, em regime inicial fechado, pela prática dos delitos previstos nos artigos 33 e 35 da Lei n° 11.343, de 2006. O Juízo da 1ª Vara Criminal da Comarca da Capital, Estado de Santa Catarina, negou-lhe o direito de apelar em liberdade, presente o artigo 44 da Lei de Tóxicos. No mais, afastou a preliminar de nulidade da interceptação telefônica determinada por Juiz de comarca diversa, pois, à época, durante o inquérito policial, ainda não era possível prever, com absoluta certeza, o juízo competente.
+    O Tribunal de Justiça do Estado de Santa Catarina indeferiu o habeas formalizado. Afirmou a inadequação da via eleita para examinar a arguição de ilegalidade de provas produzidas a partir de interceptações telefônicas. No mais, considerou a prisão cautelar devidamente fundamentada, haja vista a expressa vedação a conceder-se liberdade provisória nos casos como o narrado.
+    No Superior Tribunal, o Ministro não vislumbrou a ocorrência de ilegalidade manifesta, pois controverso o tema relativo à possibilidade de revogação da custódia cautelar no tocante a acusados do delito de tráfico de drogas.
+    Neste habeas, a impetrante salienta não buscar a análise do conteúdo das interceptações telefônicas, mas apenas a legalidade do ato que as autorizou. Conforme aduz, as interceptações foram determinadas por Juízo incompetente. Anota haver o Ministério Público estadual preconizado a liberdade provisória do paciente. Sustenta contrariedade ao princípio da presunção da inocência. Alega que à corré, IInez Teresinha Martins, assegurou-se o direito de apelar em liberdade, apesar de ter sido presa nas mesmas circunstâncias. Afirma ser o paciente primário e de bons antecedentes bem como possuir ocupação lícita.
+    Em âmbito liminar, requer seja assegurado ao paciente o direito de recorrer em liberdade. No mérito, pugna pela confirmação da providência.
+    Consulta ao sítio do Tribunal local indica estar pendente, no processo-crime, o julgamento de apelação interposta pela defesa.
+    2. Observem haver, formulado por profissional da advocacia, pedido único: a liberdade do paciente. Está ele preso ante flagrante e, então, não cabe acionar a Lei nº 12.403/2011, que deu nova redação ao artigo 310 do Código de Processo Penal. Em síntese, em virtude da regência especial do flagrante – Lei nº 11.343/2006 –, não há campo para a substituição pela preventiva. O artigo 44 dessa última lei mostra-se harmônico com o inciso LXVI do artigo 5º da Constituição Federal: “ninguém será levado à prisão ou nela mantido, quando a lei admitir a liberdade provisória, com ou sem fiança”. Em verdadeira opção político-normativa, o legislador veio a dispor sobre o obstáculo à citada liberdade.
+    3. Indefiro a medida acauteladora.
+    4. O curso deste habeas corpus não prejudica aquele formalizado no Superior Tribunal de Justiça, de nº 229.815/SC. Remetam cópia desta decisão ao relator.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 31 de março de 2012, às 19h55.
+Ministro MARCO AURÉLIO
+Relator
