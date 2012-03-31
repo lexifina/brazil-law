@@ -1,0 +1,16 @@
+DECISÃO
+COMPETÊNCIA – HABEAS CORPUS – DEVOLUÇÃO AO SUPERIOR TRIBUNAL DE JUSTIÇA.
+    1. A Assessoria prestou as seguintes informações:
+    A paciente foi denunciada pela prática dos crimes previstos nos artigos 288, combinado com o artigo 62, inciso I, do Código Penal, e 1º, inciso I, do Decreto-Lei nº 201/67, combinado com o artigo 62, inciso I, do Código Penal (quadrilha e desvio de bens ou rendas públicas, agravados por coação e indução de outrem a prática do delito, e realizados em concurso material). Ao receber a denúncia, o Tribunal de Justiça do Estado do Rio de Janeiro determinou-lhe o afastamento do cargo de prefeita do Município de Magé/RJ.
+    Formalizado habeas no Superior Tribunal de Justiça – de nº 154.197/RJ –, o Ministro Felix Fischer indeferiu o pedido de reconsideração do ato em que não acolhido o pleito liminar. Consignou descrever a denúncia a prática de crime em tese e estar o afastamento da paciente da prefeitura amparado em elementos concretos. Assentou a inexistência de constrangimento ilegal manifesto, não havendo razão para determinar a suspensão dos efeitos do acórdão do Tribunal local, no qual recebida a peça acusatória.
+    Posteriormente, o Ministro Gilson Dipp declinou da competência para o Supremo, ante a notícia da eleição para deputado federal de um dos corréus no processo-crime e da consequente remessa da Ação Penal nº 0041604-58.2008.8.19.000 para o Tribunal.
+    Distribuído o processo por prevenção a Vossa Excelência, haja vista prévia relatoria do Habeas nº 103.044/RJ, foi determinada a manifestação do Procurador-Geral da República, três preliminares. Primeiro, afirma não competir mais ao Supremo o julgamento deste habeas. Conforme aduz, o corréu Charles Cozzolino, outrora eleito deputado federal, não está mais investido na função. Segundo, menciona ter a presente impetração a mesma causa de pedir e pedido dos Habeas Corpus nº 103.044/RJ e nº 108.498/RJ, formalizados anteriormente. Terceiro, destaca a inadequação da via eleita para reintegrar a paciente ao cargo, haja vista a eleição de novo prefeito para o Município de Magé/RJ no mês de julho de 2011.
+    No mérito, opina pelo indeferimento do pleito. Diz estar fundamentado o afastamento da prefeita do cargo. No mais, ressalta o grave risco de mantê-la na prefeitura, tendo em conta a alta possibilidade de continuar a prática delitiva e obstruir a instrução processual.
+    O Habeas Corpus nº 103.044/RJ foi extinto sem julgamento de mérito, em virtude de pedido de desistência formulado pela impetrante. O Habeas Corpus n° 108.498/RJ foi remetido ao Superior Tribunal de Justiça, ante a notícia de que não mais existia o motivo que ensejou a competência do Supremo.
+    Neste habeas, o impetrante busca, em âmbito liminar, o retorno da paciente ao cargo de prefeita. No mérito, requer a anulação do acórdão no qual recebida a denúncia.
+    2. Conforme ressaltado pelo Ministério Público, o móvel da remessa deste processo ao Supremo – se é que se revelou procedente – não mais existe. Em síntese, o órgão apontado como coator é o Tribunal de Justiça do Estado do Rio de Janeiro.
+    3. Devolvam o processo ao Superior Tribunal de Justiça.
+    4. Publiquem.
+Brasília – residência –, 31 de março de 2012, às 20h05.
+Ministro MARCO AURÉLIO
+Relator
