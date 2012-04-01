@@ -1,0 +1,18 @@
+DECISÃO
+HABEAS CORPUS – PROCESSAMENTO NO SUPERIOR TRIBUNAL DE JUSTIÇA – DEMORA – LIMINAR – INADEQUAÇÃO.
+    1. A Assessoria prestou as seguintes informações:
+    O Juízo da 1ª Vara Judicial de Ibiúna, Estado de São Paulo, condenou o paciente à pena de 25 anos de reclusão, em regime inicial fechado, pelo cometimento dos delitos previstos nos artigos 121, § 2°, inciso IV, e 121, § 2°, incisos IV e V, combinados com o artigo 71, parágrafo único, do Código Penal (dois homicídios qualificados praticados de forma continuada).
+    Ao desprover a apelação interposta pela defesa, o Tribunal de Justiça do Estado de São Paulo rejeitou as preliminares de nulidade arguidas. Conforme assinalou, a manifestação do Ministério Público durante o julgamento pelo Tribunal do Júri não excedera os limites da acusação nem provocara qualquer inovação no processo a ponto de ocasionar prejuízo à defesa. Considerou que o indeferimento pelo Juiz-Presidente do pedido para interrogar novamente o réu não provoca qualquer nulidade, pois o magistrado pode vedar a produção de provas que julgue desnecessárias. Destacou que o fato de o advogado ter sido impedido pelo comandante da escolta policial de se comunicar com o acusado, no intervalo da sessão de julgamento, constitui evento extraprocessual e não guarda relação com nulidades eventualmente havidas no processo-crime. Afastou a arguição de quebra do sigilo da votação.
+    Em 19 de fevereiro de 2010, o paciente-impetrante formalizou o Habeas Corpus n° 162.443/SP, perante o Superior Tribunal de Justiça, que, até o momento, não foi apreciado.
+    Em âmbito liminar, insurge-se contra a demora no exame da impetração formalizada no Superior Tribunal há mais de dois anos. Requer o deferimento da ordem, de ofício, para anular o julgamento ocorrido no Tribunal do Júri.   No mérito, busca a confirmação da providência.
+    Sustenta a existência de diversas nulidades processuais. Alega ter o promotor inovado a acusação no transcurso da sessão. Afirma que o advogado de defesa foi impedido de falar com o réu durante o intervalo para o almoço. Narra ter o Juiz, no decorrer da votação, lido todos os votos depositados pelos jurados na urna. Segundo defende, a leitura deve ser interrompida quando a contagem chega a quatro votos num ou noutro sentido, sob pena de quebra do sigilo da votação. Ressalta que o indeferimento de novo interrogatório, em especial ante a inovação do libelo pelo promotor, constitui causa de nulidade, pois impediu o réu de apresentar a própria versão sobre os novos fatos narrados.
+    O habeas foi distribuído por prevenção, haja vista a prévia relatoria do Habeas Corpus nº 105.424/SP, no qual se pleiteia a liberdade provisória do paciente-impetrante.
+    Solicitadas informações, o relator do habeas formalizado no Superior Tribunal de Justiça esclareceu que o processo será levado a julgamento ainda neste mês de março. O Juízo noticiou que o trânsito em julgado do processo-crime depende do exame de agravos interpostos contra as decisões que implicaram a negativa de seguimento aos recursos extraordinário e especial protocolados pela defesa.
+    O habeas retorna concluso para apreciação da medida acauteladora.
+    2. Repetem-se os casos de demora no exame de habeas corpus formalizado no Superior Tribunal de Justiça. Solicitadas informações, vem a simples notícia de que será levado a julgamento. Na espécie, foi apontado, para tanto, o mês de março. De qualquer forma, o quadro está a ensejar o crivo do Colegiado, não cabe o implemento de medida acauteladora.
+    3. Indefiro-a.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 1º de abril de 2012, às 11h.
+Ministro MARCO AURÉLIO
+Relator
