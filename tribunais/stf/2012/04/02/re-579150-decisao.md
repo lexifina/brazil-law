@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário que impugna acórdão assim ementado:
+    “TRIBUTÁRIO. PIS/COFINS. ART. 3º, § 2º, III, LEI N. 9.718/98. NORMA DE EFICÁCIA LIMITADA. REVOGAÇÃO. MP 1991-18/2000 (ATUAL MP 2.158-35, DE 24.8.2001). COMPENSAÇÃO. IMPOSSIBILIDADE. PRINCÍPIOS TRIBUTÁRIOS. OFENSA. INOCORRÊNCIA. 1. Ao estabelecer como condição de eficácia da norma tributária a observância das normas regulamentadoras a serem expedidas pelo Poder Executivo, o art. 3º, § 2º, III, da Lei 9.718, de 1998, configura-se como dispositivo não auto-aplicável, tipificando-se em espécie de norma de eficácia limitada. 2. O preceito enfeixado no art. 99 do CTN, ao referir que ‘o conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos’, não impede a promulgação de diplomas legais que condicionem a sua eficácia à posterior regulamentação. 3. Não tendo sido expedidas pelo executivo as normas regulamentares previstas no comando legal inserto no artigo 3º, § 2º, da Lei nº 9.718/98 para o fim da exclusão dos valores referidos, não cabe ao Poder Judiciário autorizar as deduções em comento, imiscuindo-se na atividade administrativa, porquanto vedada sua atuação como legislador positivo. 4. Norma que, posteriormente, foi expressamente revogada com a edição da MP 1991-18/2000 não induz à presunção de auto-aplicabilidade, nem ofende os princípios da legalidade tributária e da hierarquia. 5. Apelo improvido” (fl. 16).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 150, I; e 239, do texto constitucional.
+     Nas razões recursais, aduz-se, em suma, que “o inciso III, § 2º, do artigo 3º da Lei 9.718/98 é auto-aplicável, irrelevante a ausência de norma regulamentadora não baixada pelo Poder Executivo” (fl. 50).
+     Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque este Supremo Tribunal Federal firmou entendimento no sentido de que a pretensão relacionada à dedução de receitas transferidas a terceiros da base cálculo das contribuições para o PIS e COFINS não decorre de preceito constitucional, porquanto constitui tema próprio de política fiscal, cuja regência normativa se insere na liberdade de conformação do legislador infraconstitucional.
+    Com efeito, a vertente controvérsia não traduz questão constitucional apta a abrir o acesso à via extraordinária.
+    Nesse sentido, entre outros, confiram-se: RE-AgR 552.778, Rel. Min. Ellen Gracie, Segunda Turma, DJe 27.2.2009; AI-AgR 521.175, Rel. Min. Marco Aurélio, Primeira Turma, DJe 25.6.2010; AI 744.471, Rel. Min. Marco Aurélio, DJe 16.11.2010; RE 430.186, Rel. Min. Ayres Britto, DJe 17.9.2008; AI 639.820, Rel. Min. Menezes Direito, DJe 30.10.2007, RE-AgR-ED 555.327, Rel. Min. Ellen Gracie, Segunda Turma, DJe 20.8.2010.
+    Da ementa deste último, destaque-se o seguinte excerto:
+    “1. A discussão relativa à impossibilidade de o contribuinte excluir da base de cálculo do PIS e COFINS os valores computados como receita, transferidos a terceira pessoa jurídica, configura ofensa indireta ou reflexa à Constituição Federal, sendo inadmissível o conhecimento por esta Corte. Precedentes”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 2 de abril de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
