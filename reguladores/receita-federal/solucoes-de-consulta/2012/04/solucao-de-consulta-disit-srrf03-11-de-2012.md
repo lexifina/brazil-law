@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF03 nº 11, de 28 de março de 2012
+Assunto: Imposto de Renda Pessoa Jurídica
+EMENTA: CONVERSÃO DE DEPÓSITO JUDICIAL. DEDUTIBILIDADE. LUCRO REAL. Considera-se despesa operacional aquela necessária à atividade da empresa e à manutenção da respectiva fonte pagadora. A despesa com o pagamento de tributo é dedutível na apuração do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido quando efetivamente paga ou incorrida em conformidade com o regime de competência.
+Os tributos cuja exigibilidade encontra-se suspensa por decisão judicial não se configuram como despesas pagas ou incorridas, ainda que garantidos por depósitos judiciais ou administrativos, dada a condição jurídica suspensiva imposta.
+Os valores dos depósitos judiciais, convertidos em renda a favor da União, imputam-se aos respectivos débitos, na data da conversão. A dedução dos valores convertidos, para efeito de determinação do lucro real e da base de cálculo da Contribuição Social sobre o Lucro Líquido deve ser realizada no período de apuração em que ocorreu a conversão, sem afetar as bases de cálculos dos referidos tributos de períodos de apuração anteriores, haja vista não caracterizar ajuste contábil de exercícios anteriores.
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), arts. 116 e 117; Lei nº 8.541, de 1992, art. 8º. Lei nº 6.404, de 1976, art. 187; Lei nº 9.703, de 1998, art. 1º; Decreto nº 3.000, de 1999, Regulamento do Imposto de Renda, arts. 344; Instrução Normativa SRF nº 28, de 1978.
+Novo segmento
+[arquivo anexo: SC SRRF03-Disit nº 11-2012.pdf]
