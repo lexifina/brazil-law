@@ -1,0 +1,14 @@
+Instrução CVM nº 505, de 2011
+Estabelece normas e procedimentos a serem observados nas operações realizadas com valores mobiliários em mercados regulamentados de valores mobiliários. A PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS - CVM torna público que o Colegiado, em reunião realizada em 21 de setembro de 2011, com fundamento nas alíneas "a" e "c" do inciso II do art. 18 da Lei nº 6.385, de 7 de dezembro de 1976, APROVOU a seguinte Instrução:
+CAPÍTULO I - DEFINIÇÕES Art. 1º Considera-se, para os efeitos desta Instrução: I – intermediário: a instituição habilitada a atuar como integrante do sistema de distribuição, por conta própria e de terceiros, na negociação de valores mobiliários em mercados regulamentados de valores mobiliários;
+II – operador especial: a pessoa natural ou firma individual habilitada a atuar em nome próprio ou de intermediário, na negociação de valores mobiliários em mercados organizados de valores mobiliários, nas hipóteses e condições definidas pela entidade administradora;
+III – comitente ou cliente: a pessoa natural ou jurídica, fundo de investimento, clube de investimento ou o investidor não residente, em nome do qual são efetuadas operações com valores mobiliários;
+IV – membro ou agente de compensação: a instituição financeira ou a instituição a ela equiparada responsável, perante aqueles a quem presta serviços e perante a entidade de compensação e liquidação, pela compensação e liquidação das operações com valores mobiliários sob sua responsabilidade;
+V – ordem: ato pelo qual o cliente determina que um intermediário negocie ou registre operação com valor mobiliário, em seu nome e nas condições que especificar; e
+VI – pessoas vinculadas:
+a) administradores, empregados, operadores e demais prepostos do intermediário que desempenhem atividades de intermediação ou de suporte operacional;
+b) agentes autônomos que prestem serviços ao intermediário; c) demais profissionais que mantenham, com o intermediário, contrato de prestação de serviços diretamente relacionados à atividade de intermediação ou de suporte operacional;
+d) pessoas naturais que sejam, direta ou indiretamente, controladoras ou participem do controle societário do intermediário;
+e) sociedades controladas, direta ou indiretamente, pelo intermediário ou por pessoas a ele vinculadas;
+f) cônjuge ou companheiro e filhos menores das pessoas mencionadas nas alíneas “a” a “d”; e g) clubes e fundos de investimento cuja maioria das cotas pertença a pessoas vinculadas, salvo se geridos discricionariamente por terceiros não vinculados.
+CAPÍTULO II – INTERMEDIAÇÃO EM MERCADOS REGULAMENTADOS Art. 2º A intermediação de operações em mercados regulamentados de valores mobiliários é privativa de instituições habilitadas a atuar como integrantes do sistema de distribuição, por conta própria e de terceiros, na negociação de valores mobiliários em mercados regulamentados de valores mobiliários.
