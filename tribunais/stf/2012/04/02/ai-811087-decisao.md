@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que, firme nas alíneas “a” e “c”do permissivo constitucional, impugna acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região assim ementado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. BTN’S CAMBIAIS. LEI Nº 7.777/89. ATUALIZAÇÃO MONETÁRIA DE CRITÉRIOS. LEIS 8.024/90 E 8.088/90. ALTERAÇÃO. IMPOSSIBILIDADE. BLOQUEIO INCONSTITUCIONALIDADE. IOF. LEI Nº 8.033/90, ART. 1º, I. CONSTITUCIONALIDADE.
+    1 – Os critérios de atualização monetária dos Bônus do Tesouro Nacional (BTNs) Cambiais, disciplinados pela Lei nº 7.777/89 e pelas Portarias/MF 147/80 e 179/80, não podem ser atingidos pelas alterações veiculadas nas Leis 8.024/90 e 8.088/90, sob pena de violação de ato jurídico perfeito, consolidado na vigência da lei anterior. Precedentes do STJ.
+    2 – No julgamento da argüição de inconstitucionalidade suscitada nos autos da AMS nº 36.225, Processo nº 90.03.032177-9, esta Corte reconheceu a inconstitucionalidade do bloqueio dos ativos financeiros determinado pelo art. 7° da Lei nº 8.024/90.
+    3 – O Plenário do E. Supremo Tribunal Federal, no julgamento do RE nº 223.144, assentou entendimento pela constitucionalidade do inciso I do artigo 1º da Lei nº 8.033/90.
+    4 – Preliminar ilegitimidade de parte do BACEN quanto ao IOF acolhida, rejeitadas as demais, e, no mérito, apelação da União provida, remessa oficial parcialmente provida e apelação do BACEN improvida”.
+    Alega-se, no recurso extraordinário, violação dos artigos 5º, inciso XXXVI, e 150, incisos I e IV, da Constituição Federal. Dessa forma, depois de reproduzir resumos de alguns julgados de Cortes Federais de segunda instância, em suma, argumenta-se:
+    “Como se vê, Ilustres Julgadores, o v. Acórdão de fls. está em desacordo com a pacífica posição jurisprudencial concernente à matéria versada na presente ação, daí porque aguarda-se o acolhimento do presente recurso extraordinário” (fl. 215).
+    Decido.
+    Razão não assiste à agravante.
+    Isso porque o articulado do apelo extremo não aponta como o acórdão impugnado teria contrariado os preceitos constitucionais invocados, circunscrevendo-se a embasar sua pretensão com a mera transcrição de dispositivos legais e de ementas de julgados realizados em tribunais federais.
+    Com efeito, a espécie atrai o óbice preconizado no Enunciado 284 da Súmula da Jurisprudência do Supremo Tribunal Federal.
+    Sobre esse aspecto, entre outros, confiram-se os seguintes precedentes: AI-AgR 786.680, Rel. Min. Ellen Gracie, Segunda Turma, DJe 30.6.2011; AI-AgR 807.379, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11.10.2011; AI-AgR 226.496, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19.11.1999; RE 240.647, Rel. Min. Moreira Alves, Primeira Turma, DJ 13.9.2002; RE 164.573, Rel. Min. Marco Aurélio, Segunda Turma, DJ 15.12.1995; AI-AgR 812.202, Rel. Min. Ellen Gracie, Segunda Turma, DJe 8.2.2011. Este último foi assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA STF 284. 1. É imprescindível para a admissão do apelo extremo que a fundamentação demonstre como os dispositivos constitucionais alegados foram violados pelo acórdão recorrido. Súmula STF 284. 2. Agravo regimental a que se nega provimento”.
+    No mais, verifico que o aresto recorrido está em consonância com a jurisprudência dominante desta Suprema Corte quanto às questões constitucionais por ele enfrentadas. Nesse sentido, destaquem-se: RE-AgR 567.707, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 2.3.2011; AI-AgR 726.863, Rel. Min. Celso de Mello, Segunda Turma, DJe 19.3.2012; RE-AgR 287.628, Rel. Min. Ayres Britto, Segunda Turma, DJe 19.3.2012. Este último foi assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IOF. INCISO I DO ART. 1º DA LEI 8.033/1990. CONSTITUCIONALIDDADE. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da constitucionalidade do inciso I do art. 1º da Lei 8.033/1990, que trata da incidência do IOF sobre transmissão ou resgate de títulos mobiliários, públicos e privados, inclusive de aplicações de curto prazo, tais como letras de câmbio, depósitos a prazo com ou sem emissão de certificado, letras imobiliárias, debêntures e cédulas hipotecárias. 2. Agravo desprovido”.
+    Ante o exposto, nego provimento ao agravo de instrumento (art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 2 de abril de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
