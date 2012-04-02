@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 100, § 1º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal
+Regional Federal da 4ª Região, assim ementado:
+    “PROCESSUAL – HONORÁRIOS ADVOCATÍCIOS – IMPENHORABILIDADE.
+    1 – A jurisprudência do Egrégio STJ tem-se posicionado no sentido de interpretar de forma ampla a expressão “salários”, contida no inciso IV do art. 649 do CPC, de modo a incluir os vencimentos dos médicos, a comissão percebida pelos leiloeiros e a remuneração percebida por diretores de sociedades anônimas (REsp 599602/PR, REsp 204066/RJ e REsp 20247/SP).
+    2 – A mesma inteligência deve ser aplicada aos honorários do profissional da advocacia” (fl. 85).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 25/1/06, conforme expresso na certidão de folha 85 verso, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, pois a jurisprudência da Corte está no sentido de que os honorários advocatícios têm natureza alimentar. Nesse sentido, por oportuno, o RE nº 470.407/DF, Relator o Ministro Marco Aurélio, cuja ementa segue transcrita:
+    “CRÉDITO DE NATUREZA ALIMENTÍCIA - ARTIGO 100 DA CONSTITUIÇÃO FEDERAL. A definição contida no § 1-A do artigo 100 da Constituição Federal, de crédito de natureza alimentícia, não é exaustiva. HONORÁRIOS ADVOCATÍCIOS - NATUREZA - EXECUÇÃO CONTRA A FAZENDA. Conforme o disposto nos artigos 22 e 23 da Lei nº 8.906/94, os honorários advocatícios incluídos na condenação pertencem ao advogado, consubstanciando prestação alimentícia cuja satisfação pela Fazenda ocorre via precatório, observada ordem especial restrita aos créditos de natureza alimentícia, ficando afastado o parcelamento previsto no artigo 78 do Ato das Disposições Constitucionais Transitórias, presente a Emenda Constitucional nº 30, de 2000. Precedentes: Recurso Extraordinário nº 146.318-0/SP, Segunda Turma, relator ministro Carlos Velloso, com acórdão publicado no Diário da Justiça de 4 de abril de 1997, e Recurso Extraordinário nº 170.220-6/SP, Segunda Turma, por mim relatado, com acórdão publicado no Diário da Justiça de 7 de agosto de 1998” (DJ de 14/8/07).
+    Nesse mesmo sentido:
+    “CONSTITUCIONAL. IMPOSSIBILIDADE DE INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. AGRAVO IMPROVIDO. I - É incabível a inovação de fundamento em agravo regimental, porquanto a matéria arguida não foi objeto de recurso extraordinário. II - O acórdão recorrido encontra-se em harmonia com a jurisprudência da Corte no sentido de que os honorários advocatícios têm natureza alimentar. III - Agravo regimental improvido” (AI nº 732.358/PR- AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/8/09).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. SUBMISSÃO AO REGIME CONSTITUCIONAL DOS PRECATÓRIOS, OBSERVADA ORDEM ESPECIAL. 1. Os honorários advocatícios incluídos na condenação pertencem ao advogado e possuem natureza alimentícia. A satisfação pela Fazenda Pública se dá por precatório, observada ordem especial restrita aos créditos de igual natureza. Precedentes: AIs 623.145, sob a relatoria do ministro Dias Toffoli; 691.824, sob a relatoria do ministro Marco Aurélio; 732.358-AgR, sob a relatoria do ministro Ricardo Lewandowski; e 758.435, sob a relatoria do ministro Cezar Peluso; REs 470.407, sob a relatoria do ministro Marco Aurélio; 538.810, sob a relatoria do ministro Eros Grau; e 568.215, sob a relatoria da ministra Cármen Lúcia; bem como SL 158-AgR. 2. Agravo regimental desprovido” (RE nº 415.950/RS- AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 24/8/11).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 2 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
