@@ -1,0 +1,25 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por José Cláudio dos Santos, em favor de NILTON DE MELO, em que aponta como autoridade coatora a Ministra Maria Thereza de Assis Moura, Relatora do HC 184.576/SE do Superior Tribunal de Justiça.
+    O impetrante narra, de início, que o paciente foi condenado à pena de 4 anos e 8 meses de reclusão, em regime inicial semiaberto, pela prática do crime de estelionato qualificado, previsto no art. 171, § 3º, combinado com o art. 71 (continuidade delitiva), do Código Penal, com o direito de recorrer em liberdade.
+    Diz em seguida que, inconformada, a defesa apelou para o Tribunal de Justiça do Estado de Sergipe, que deu parcial provimento ao recurso, apenas para reduzir a pena-base e redimensionar a sanção para 4 anos e 1 mês de reclusão, mantendo, no mais, a sentença de primeiro grau. Essa condenação transitou em julgado em 27/8/2010.
+    Relata ainda que, buscando a redução da reprimenda, a defesa manejou habeas corpus no Superior Tribunal de Justiça, e, em 8/10/2010, a Ministra Relatora indeferiu o pedido de liminar e solicitou informações ao TJ/SE. Contra o indeferimento da liminar, o impetrante interpôs agravo regimental, que não foi conhecido pela Turma julgadora, em 21/10/2010.
+    Aduz, outrossim, que requereu preferência no julgamento do writ em 5/11/2010, mas o pleito foi deferido somente em 5/1/2011. Informa, ademais, que ajuizou revisão criminal no Tribunal de Justiça de origem, sem sucesso, no entanto.
+    Registra que, no STJ, o habeas corpus foi concluso com o parecer ministerial em 3/3/2011, mas o feito continuava paralisado, fato que o motivou a comparecer pessoalmente naquele Tribunal, “quando foi informado das dificuldades enfrentadas por aquele Gabinete em julgar, no prazo almejado pelo próprio Gabinete, os feitos recebidos de todo o País – habeas corpus inclusive (...)” (grifos no original).
+    Afirma, na sequência, que
+    “(...) Em 09 de novembro de 2011 - dois meses depois daquela visita (item ‘1.17’ desta peça), sem qualquer sucesso -, o Impetrante ajuizou no STJ Petição, na qual postulou PREFERÊNCIA DE JULGAMENTO e OPORTUNIDADE PARA SUSTENTAÇÃO ORAL, bem como uma ORDEM LIMINAR INCIDENTAL, para SUSPENDER O MANDADO DE CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE fixada no v. Acórdão do Tribunal de Justiça (04 anos e um mês de reclusão), expedido pelo Juízo de 1º Grau. Essa Petição foi conclusa para a Ínclita Relatoria dois dias depois (em 11.11.2011); e, desde então, lá se encontra, sem decisão do Pedido de Liminar e sem previsão de data para Julgamento definitivo do Writ, conforme documento nº 05, já citado”.
+    Em nova visita ao STJ, ao perceber que aquela petição havia sido recebida como pedido de reconsideração, esclareceu que se tratava de um novo pedido incidental da medida liminar, ante a existência de “um FATO NOVO: o decurso de 395 DIAS sem julgamento da Impetração”, mas até o momento não houve qualquer decisão.
+    É contra a suposta demora na prestação jurisdicional que se insurge o impetrante.
+    Sustenta, em síntese, que
+    “(...) O excesso de prazo para decidir o aludido Habeas-corpus é manifesto e escancaradamente distante da razoabilidade concebida pela Emenda Constitucional 45/2004, quando esta fez acrescentar, ao elenco não-taxativo das garantias expressas no art. 5º da Constituição da República, o inciso LXXVIII, assegurando a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação”.
+    Requer, ao final, liminarmente, seja determinado à Ministra Relatora do HC 184.576/SE do STJ que examine os pedidos formulados na impetração em prazo razoável, “seja de natureza cautelar ou definitiva (…), visando fazer cessar o constrangimento decorrente da iminência de uma prisão desnecessária e manifestamente ilegal”.
+    Alternativamente, pede a suspensão dos efeitos do mandado de prisão expedido contra o paciente. No mérito, postula a redução da pena-base num patamar não superior a 3 anos de reclusão, viabilizando a substituição da pena privativa de liberdade por restritiva de direitos.
+    É o relatório suficiente. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Destaco, também, que a liminar pleiteada confunde-se com o próprio mérito da impetração, que será apreciado no momento oportuno pela Turma julgadora.
+    Isso posto, indefiro a medida liminar.
+    Solicitem-se informações ao Ministro Relator do HC 184.576/SE do Superior Tribunal de Justiça.
+    Oficie-se, ainda, ao Juízo da Vara Criminal da Comarca de Capela/SE, para que informe se já foi iniciada a execução da pena imposta ao paciente.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 3 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
