@@ -1,0 +1,21 @@
+Decisão: Vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça. Acórdão que determinou o prosseguimento da ação penal a que responde o paciente por suposto delito de descaminho. Eis a ementa do julgado:
+    “CRIMINAL. RESP. DESCAMINHO. ABSOLVIÇÃO SUMÁRIA APÓS O RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE. APLICAÇÃO ANALÓGICA DO ART. 397 DO CPP. IMPOSSIBILIDADE. RECURSO PROVIDO.
+    I - Hipótese na qual, recebida a denúncia, o réu foi sumariamente absolvido nos termos do art. 386, inc. III do CPP.
+    II- Não obstante a superveniência do art. 397, do Código de Processo Penal tenha possibilitado ao Juízo a absolvição sumária do réu, após o recebimento da denúncia e a apresentação de resposta, a absolvição nos termos do art. 386, inc. III do Código de Processo Penal, pressupõe todo o trâmite da ação penal iniciada com o recebimento da denúncia.
+    III - É inviável, na espécie, a aplicação analógica do art. 397, do CPP, considerando-se a inexistência de manifestação do réu - o qual foi citado e intimado apenas para o comparecimento à audiência prevista no § 1.º do art. 89 da Lei n.º 9.099/95 -, condição inafastável para a absolvição sumária de que trata o dispositivo em questão.
+    IV - Recurso conhecido e provido, para cassar o acórdão recorrido e a sentença por ele mantida, determinando o prosseguimento da ação penal instaurada pelo recebimento da denúncia.”
+    2. Pois bem, a Defensoria Pública da União, impetrante, insiste no pedido de trancamento da ação penal a que responde o paciente por suposto delito de descaminho. Isto sob a alegação de evidente erro de tipo quanto à conduta debitada ao paciente. Nos dizeres da impetração:
+    “a parte não tinha conhecimento sobre a procedência das máquinas apreendidas. Também não tinha conhecimento técnico de que alguns componentes eletrônicos das máquinas (placa-mãe) seriam de origem estrangeira e de importação proibida […] Ora, se o agente desconhece que a mercadoria é estrangeira, não se pode cogitar da prática dolosa de quaisquer das condutas imputadas, ainda que demonstrada a falta de documentação legal que acompanhasse as máquinas.”
+    3. Prossegue a acionante para aduzir que o caso é mesmo de absolvição sumária, tal como decidido pelo Juízo Processante. Isso porque “todos os documentos juntados à exordial do processo em questão são provas judiciais, fato que por si só possibilita o magistrado, sob a égide da livre persuasão racional, aplicar o art. 397 do CPP.”
+    4. Nessa contextura, o pedido de medida liminar é de suspensão dos efeitos do acórdão objeto da impetração. No mérito, a defesa requer o restabelecimento da decisão que absolveu sumariamente o paciente.
+    5. Feito este aligeirado relato da causa, decido. Fazendo-o, anoto, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    6. No caso, tenho por desatendidos os pressupostos da concessão do provimento cautelar requestado. É que, em linha de princípio, a previsão legal de absolvição sumária pressupõe o cumprimento no disposto no art. 396-A. O que, conforme o acórdão impugnado, não se deu na espécie.
+    7. Esse o quadro, indefiro a medida liminar requestada, reservando-me para um mais detido exame da causa quando no julgamento do mérito deste habeas corpus.
+    8. Solicitem-se informações ao Juízo Processante. Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Intime-se.
+    Brasília, 03 de abril de 2012.
+Ministro Ayres Britto
+Relator
+Documento assinado digitalmente
