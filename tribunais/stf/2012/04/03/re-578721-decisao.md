@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 488):
+    “Administrativo. EC nº 19/98. Procuradores do Estado. Vantagem “verba honorária”.
+    1. A EC nº 19/98 não alterou a sistemática remuneratória relativa à vantagem da “verba honorária”.
+    2. A vantagem “verba honorária”, até a vigência da EC º 41/03, encontrava (a) uma limitação na própria legislação local e outra (b) decorrente de dever ser inserida na base de cálculo para efeito do teto remuneratório decorrente da Lei Estadual nº 6.995/90.
+    3. Não demonstrada, individualmente, que a referida verba não foi paga em valores inferiores a tais limites, não procede a pretensão teórica ao recebimento de diferenças.
+    Recursos providos.”
+    Alega-se violação do disposto nos arts. 37, X e XIII, 39, § 4º, e 135, da Constituição.
+    Verifico que o Tribunal a quo partiu da interpretação da legislação aplicável ao caso (Leis complementares estaduais 93/1974, 205/1979, 258/1981, 308/1983, 677/1992 e 742/1993) para, então, concluir pela sujeição da “verba honorária” ao teto remuneratório, nos seguintes termos:
+    “(...) conforme demonstrado pelos extratos da legislação local, a chamada ‘verba honorária’ beneficiava TODOS OS SEUS MEMBROS INDEPENDENTEMENTE DE EXERCEREM OU NÃO ATIVIDADE CONTENCIOSA. Tratando-se de benefício geral não poderia ser considerado, sob qualquer aspecto, como vantagem pessoal. Por esse motivo, a LC nº 724/93 (art. 9º) era manifestamente inócua em afirmar que tal vantagem haveria de ser excluída do cálculo do teto remuneratório. (…) a vantagem ‘verba honorária’ encontrava (a) uma limitação na própria legislação local e outra (b) decorrente de dever ser inserida na base de cálculo para efeito do teto remuneratório decorrente da Lei Estadual nº 6.995/90.”
+    Para rever esse entendimento, seria necessário analisar a natureza jurídica da parcela mediante o prévio exame da legislação local. Tal circunstância é vedada no estrito âmbito de cognição do recurso extraordinário. Incide a Súmula 280 desta Corte.
+    Confira-se, em caso análogo, o seguinte precedente: ARE 640.608/SP, rel. min. Cármen Lúcia, DJe de 27.05.2011.
+    Ademais, os fundamentos trazidos à colação pelo recurso extraordinário não são suficientes para desconstituir a decisão recorrida, vez que nela se assentou que “Não existe, na argumentação da inicial, uma demonstração clara e lógica de como as supra citadas alterações modificaram os parâmetros da chamada vantagem ‘verba honorária’ para lhe alterar a forma de cálculo. Diante do princípio da reserva legal para a fixação de remuneração e subsídios, inaceitável trazer-se à colação espécies normativas espécies normativas de grau inferior com resoluções, pareceres normativos, etc. A inicial se fundamenta numa pretensa argumentação teórica da existência de diferenças que não foram comprovadas serem devidas, individualmente, a cada um dos apelados” (fls. 507). O apelo extraordinário se limitou a alegar que “a prática inconstitucional denunciada na presente ação repercutiu sobre vantagens pessoais, amesquinhando-as financeiramente”. Tal circunstância impede o conhecimento do recurso extraordinário por esta Corte, nos termos da Súmula 284/STF.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 03 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
