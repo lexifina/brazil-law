@@ -1,0 +1,27 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que teria usurpado a competência do Supremo Tribunal Federal ao conceder a ordem requerida no HC 206.229/RS, Rel. Min. Og Fernandes.
+    O reclamante narra, inicialmente, que a Defensoria Pública gaúcha impetrou habeas corpus no Superior Tribunal de Justiça, “sustentando que o cometimento de falta grave não tem o condão de interromper o lapso temporal para a concessão de benefícios, por ausência de previsão legal e sob pena de ofensa ao princípio da legalidade”.
+    Prossegue relatando que em 18/10/2011 a Sexta Turma daquele Tribunal concedeu a ordem ao paciente, em acórdão assim ementado:
+    “HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE FALTA GRAVE. REINÍCIO DO PRAZO PARA A OBTENÇÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL. PERDA DOS DIAS REMIDOS. NOVA REDAÇÃO DO ART. 127 DA LEP, DADA PELA LEI N.º 12.433/2011. CONCESSÃO DE OFÍCIO.
+    1. Prevalece neste órgão fracionário, a partir do julgamento do Habeas Corpus n.º 123.451/RS, a orientação segundo a qual, por ausência de previsão legal, em caso de prática de falta grave, não há a interrupção do lapso necessário para a obtenção de benefícios da execução penal, inclusive, progressão de regime.
+    2. A partir da edição da Lei n.º 12.433/2011, que modificou a redação dada ao art. 127 da Lei de Execução Penal, a perda dos dias remidos, que antes poderia ocorrer em sua totalidade, ficou limitada ao patamar de 1/3 (um terço).
+    3. A redução se dará por forma proporcional à gravidade da falta, pois observado o disposto no art. 57 da Lei de Execução Penal.
+    4. A modificação da decisão primeva por este Superior Tribunal de Justiça implicaria indevida supressão de instância, cabendo ao Juízo das Execuções avaliar a fração aplicável à espécie, respeitando o limite imposto na nova legislação.
+    5. Ordem concedida a fim de afastar a prática de falta grave como marco interruptivo da contagem dos prazos para obtenção de benefícios da execução e, de ofício, para determinar ao Juízo da Vara de Execuções Criminais da Comarca de Alegrete/RS, que examine a aplicação retroativa do art. 127 da Lei de Execução Penal ao caso concreto” (grifos no original).
+    É contra essa decisão que se insurge o reclamante.
+    Assevera, de início, que “tanto o pleito da Defensoria Pública como o acórdão do habeas corpus têm como base a suposta ausência de previsão legal (princípio da legalidade) para a alteração da data-base” (grifos no original).
+    Diz, em seguida, que, “uma vez estabelecida a natureza constitucional da matéria, a competência para análise da questão é do Supremo Tribunal Federal” (grifos no original).
+    Afirma, outrossim, que “o instituto do habeas corpus, no presente caso, vem sendo utilizado INDEVIDAMENTE como substitutivo de recurso extraordinário. TRATA-SE DE RECURSO EXTRAORDINÁRIO TRAVESTIDO DE HABEAS CORPUS”(grifos no original).
+    Noticia, também, que, “conforme recentíssima decisão do STF, a matéria em questão possui repercussão geral presumida, pois a constitucionalidade da alteração da data-base consiste em jurisprudência dominante da Corte”, e que, por isso, impõe-se o sobrestamento dos autos e processos que envolvam a matéria.
+    Salienta, ainda, que “o Superior Tribunal de Justiça vem concedendo diariamente, em profusão (centenas e talvez milhares de decisões nesse sentido), ordens de habeas corpus, inclusive em caráter liminar, suspendendo e cassando decisões que, diante da prática de falta grave, determinam o reinício da contagem do prazo para a progressão de regime”.
+    Registra, por fim, que, ante o quadro delineado, “em que se observa manifesta e flagrante usurpação de competência do STF pelo STJ, acarretando lesão a princípios constitucionais, assim como insegurança jurídica, deve ser utilizado, por analogia, o quanto decidido no RE 571.572-ED/BA”.
+    Requer, ao final, seja determinado, liminarmente, “o sobrestamento de todos os recursos, inclusive de ações de habeas corpus em tramitação nos Tribunais, que versem sobre a matéria objeto da reclamação constitucional” (grifos no original).
+    No mérito, pede a “procedência da presente reclamação, confirmando-se os pedidos liminares, determinando-se, uma vez ratificada a constitucionalidade da alteração da data-base, o procedimento previsto no art. 543-B, § 3º do CPC aos recursos e habeas corpus sobrestados”.
+    É o relatório suficiente. Decido.
+    Não obstante os argumentos expendidos na inicial, entendo que o caso é de não conhecimento da ação.
+    Isso porque o pedido formulado nesta reclamação não se enquadra em nenhuma das duas hipóteses autorizadoras referidas no art. 102, I, l, da Constituição Federal, ou seja, não se presta a preservar a competência da Suprema Corte ou a garantir a autoridade de suas decisões.
+    O reclamante alega usurpação da competência do Supremo Tribunal Federal porque o STJ teria decidido em sentido contrário à jurisprudência consagrada por esta Corte. Contudo, a reclamação constitucional não é o meio de impugnação adequado ao fim pretendido pelo reclamante, que poderá recorrer da decisão ora questionada.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a esta reclamação. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 3 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
