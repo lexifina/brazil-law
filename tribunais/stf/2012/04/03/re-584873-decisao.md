@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu que a escrituração do IPI pago em decorrência de importação de produto, para fins de creditamento do imposto, deve ser feito quando da entrada da mercadoria no estabelecimento, e não na ocasião do desembaraço aduaneiro.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 153, § 3º, II, da mesma Carta, ao argumento de que a postergação da escrituração do crédito do IPI viola o princípio da não-cumulatividade, visto que efetuou o pagamento do tributo no momento de seu recebimento, condição necessária para seu desembaraço aduaneiro.
+    A Procuradoria-Geral da República se manifestou pelo não conhecimento do recurso ou, se conhecido, pelo seu desprovimento (fls. 198-201).
+    A pretensão recursal não merece acolhida.
+    O art. 153, II, § 3º, da Constituição, de fato, prescreve a não-cumulatividade do imposto sobre produtos industrializados. O dispositivo mencionado, no entanto, não regulamenta os procedimentos que deverão ser observados na contabilização de créditos e débitos de IPI para fins de observância da norma mencionada, matéria à qual pertence a determinação do momento em que deverão ser escrituradas aquelas contas. Estes procedimentos devem ser devidamente disciplinados pelo ordenamento infraconstitucional.
+    A propósito, com razão o Subprocurador-Geral da República, Paulo da Rocha Campos, ao afirmar que:
+    “Com efeito, malgrado o princípio da não-cumulatividade encontre assento no dispositivo constitucional invocado pela recorrente como tendo sido malferido pelo Tribunal a quo, a estipulação da data do creditamento do valor pago a título de IPI não encontra foro constitucional, ficando relegada à norma de envergadura menor, vindo a matéria a ser disciplinada pelo Decreto 87.981/82 que, em seu art. 97, inciso I, fixou como data para a escrituração do creditamento do IPI o dia da entrada do produto no estabelecimento” (fl. 200).
+    Somente se poderia falar em violação à regra constitucional de não-cumulatividade do IPI nas hipóteses em que fosse negado ao contribuinte o direito a crédito garantido pela Constituição.
+    A decisão atacada não vedou à recorrente o aproveitamento dos créditos a que ela faz jus, apenas determinou que sua utilização fosse efetuada de acordo com o procedimento descrito na legislação infraconstitucional pertinente (Decretos 87.981/82 e 2.637/98 e CTN).
+    Desse modo, para se chegar a conclusão diversa daquela encontrada pelo Tribunal de origem, seria necessária a reinterpretação das normas infraconstitucionais por ele invocadas. A afronta à Constituição, se ocorrente, seria indireta, o que inviabiliza o recurso extraordinário.
+    Seguindo essa orientação, destaco os seguintes precedentes: AI 674.491-ED/SP e AI 802.372-AgR-AgR/SC, Rel. Min. Gilmar Mendes; RE 597.668-ED/MG, Rel. Min. Dias Toffoli; RE 564.784-AgR/RS, Rel. Min. Ellen Gracie; AI 769.023-AgR/PR, Rel. Min. Marco Aurélio; RE 586.496-AgR/RJ, Rel. Min. Cármen Lúcia; RE 599.437-AgR/SC, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 3 de abril de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
