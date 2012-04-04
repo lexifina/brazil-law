@@ -1,1 +1,1 @@
-Art. 28. Aplicam-se à apuração da base de cálculo e ao pagamento da contribuição social sobre o lucro líquido as normas da legislação vigente e as correspondentes aos arts. 1º a 3º, 5º a 14, 17 a 24, 26, 55 e 71, desta Lei.
+Art. 28. Aplicam-se à apuração da base de cálculo e ao pagamento da contribuição social sobre o lucro líquido as normas da legislação vigente e as correspondentes aos arts. 1º a 3º, 5º a 14, 17 a 24-B, 26, 55 e 71.
