@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça de São Paulo que tem a seguinte ementa (fls. 20):
+    “Prestação de Serviço. Declaratória. Condomínio que pretende medição específica e separada para o consumo de água e para a quantidade de esgoto gerado, deverá providenciar as modificações necessárias na parte hidráulica do imóvel, o que efetivamente, não constitui responsabilidade da concessionária. Apelo desprovido.”
+    O recorrente objetiva a restituição de valores pagos à recorrida, que reputa indevidos, a título de tarifa de água e esgotos. Sustenta a violação dos arts. 5º, caput, LV, 175, parágrafo único, III, da Constituição.
+    Decido.
+    Verifico inicialmente que o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 5º, caput, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356.
+    Ademais, a análise das supostas violações demanda o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 611.031-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 30.11.2007).
+    Também implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida e reexame da legislação local. Isso inviabiliza o processamento do recurso, ante a vedação contida nos enunciados das Súmulas 279 e 280 desta Corte. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIOS DE CLASSIFICAÇÃO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL FEDERAL E LOCAL. SÚMULA 280 DO STF. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais, federais e locais, que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Incidência da Súmula 280 desta Corte. Precedentes. II Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III Agravo regimental improvido.” (RE 627.760-AgR, rel. min. Ricardo Lewandowski, DJe de 05.09.2011)
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 09 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
