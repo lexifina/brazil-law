@@ -1,0 +1,9 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto de acórdão, prolatado pelo Tribunal Regional Federal da 4ª Região, que manteve a extinção do processo sem resolução do mérito, por inadequação da ação de consignação.
+    Sustenta-se, em síntese, violação dos arts. 5º, XXXV e LV, da Constituição federal, em razão do entendimento do Tribunal a quo sobre a inadequação da ação, e, quanto à matéria de fundo, alega afronta aos princípios da isonomia, da capacidade contributiva, da primazia do interesse público e da razoabilidade, além do art. 192 da Carta Magna.
+    Inicialmente, destaco que as normas e princípios constitucionais tidos por violados, e que guardam relação com o mérito da própria ação de consignação, não foram ventilados na decisão recorrida, tendo em vista a extinção do processo sem resolução de mérito. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282).
+    Quanto à análise da ofensa ao art. 5º, XXXV e LV, da Constituição, é indispensável a o exame das regras infraconstitucionais (Código de Processo Civil e Código Tributário Nacional) que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Nesse sentido, em casos análogos: AI 844.190-AgR (rel. min. Ayres Britto, Segunda Turma, DJe de 22.09.2011), AI 727.495-AgR (de minha relatoria, Segunda Turma, DJe de 08.10.2010), AI 800.203-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 24.09.2010), AI 676.030-AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 02.12.2010), AI 747.681 (rel. min. Luiz Fux, DJe de 28.09.2011) e AI 734.605 (rel. min. Marco Aurélio, DJe de 05.02.2010).
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 9 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
