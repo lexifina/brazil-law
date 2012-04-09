@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de dois agravos interpostos de decisão que não admitiu dois recursos extraordinários (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 667):
+    “DANO MORAL. FIXAÇÃO DO QUANTUM. PRINCÍPIO DA RAZOABILIDADE E DA PROPORCIONALIDADE. VIOLAÇÃO DO ARTIGO 5º, V E X, DA CONSTITUIÇÃO FEDERAL.
+    1. No caso em exame, a Corte Regional, soberana na análise dos fatos e provas produzidas nos autos, registrou que a condenação por danos morais decorreu do fato de ter o reclamado prestado informações à imprensa, mais precisamente ao Jornal Gazeta Mercantil, o que levou à publicação de matéria jornalística na qual apontava o reclamante, entre outros, como possíveis responsáveis por irregularidades na concessão de empréstimos bancários.
+    2. Por tais motivos, o Tribunal Regional do Trabalho da 2ª Região, reconheceu que o afastamento do autor se deu “sob acusação infundada”, o que resultou na condenação por dano moral na forma do pedido posto na exordial, momento em que aquela Corte deixou de arbitrar valor certo a título de danos morais, para, acolhendo o pedido da petição inicial, determinar que o valor fosse determinado pela soma dos salários mensais devidos ao reclamante desde a data de sua dispensa até o trânsito em julgado do presente processo.
+    3. Não obstante se reconhecer que, em tese, o tratamento recebido pelo reclamante poderia dar ensejo à condenação do banco reclamado por danos morais, não se considera razoável a fórmula da fixação do quantum condenatório adotada pelo Tribunal de origem, uma vez que da forma como posta a condenação, a impor o aumento do valor da condenação a cada recurso que a parte maneje, não há negar a ocorrência do manifesto cerceamento de defesa em desfavor do banco reclamado.
+    4. Embora o reclamado detenha capacidade econômica reconhecidamente avantajada, tenho que a fixação do quantum indenizatório levada a efeito pelo Tribunal a quo ultrapassa os limites da razoabilidade e da proporcionalidade e resultaria, caso mantido, em enriquecimento sem causa do reclamante.
+    5. Assim, levando-se em conta todos os parâmetros citados, bem como utilizando-se da jurisprudência desta Corte, em casos em que deferiu-se indenização por danos morais, fixa-se o quantum indenizatório no valor de R$ 300.000,00 (trezentos mil reais).
+    6. Recurso de embargos conhecido, no ponto, e provido.”
+    Nas razões do recurso extraordinário do Banco Santander, indica-se ofensa ao disposto no art. 5º, V e X, da Constituição federal. Sustenta-se que a dispensa por justa causa foi legítima ; que a desconstituição da justa causa no âmbito judicial não é motivo suficiente para condenação a título de reparação civil por dano moral; e que o valor da condenação é excessivo.
+    O recorrente Jair Martinelli tem como violados os mesmos dispositivos apontados no recurso extraordinário do Banco Santander. Alega-se, em síntese, que foi indevida a redução do valor da indenização visto que o Tribunal de origem não seu pautou pela razoabilidade e pelas circunstâncias do caso.
+    É o relatório. Decido.
+    Impossível chegar a conclusão diversa sem o reexame dos fatos e provas, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+    Ora, o art. 5º, V, da Constituição assegura a indenização por dano moral, mas não estabelece os parâmetros para a fixação do valor que, caso a caso, será capaz de dar satisfação à dor que o caracteriza. Por conseguinte, o exame dessa fixação não se situa no plano constitucional.
+    Do exposto, conheço dos agravos para negar-lhes provimento.
+    Publique-se.
+    Brasília, 9 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
