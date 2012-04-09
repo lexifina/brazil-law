@@ -1,0 +1,12 @@
+DECISÃO: Vistos, etc.
+    Trata-se de recurso ordinário, interposto contra acórdão do Superior Tribunal de Justiça, que extinguiu, sem resolução de mérito, o mandado de segurança impetrado por Thereza Cristina de Araújo Goyano. Fazendo-o, assentou que as autoridades apontadas como coatoras “não possuem legitimidade passiva ad causam nas demandas em que se discute a legalidade dos descontos efetuados na fonte, a título de Imposto de Renda, aos pensionistas de anistiado político” (fls. 80).
+    2. Pois bem, a recorrente sustenta a legitimidade do Ministro de Estado da Defesa e do Comandante da Marinha para figurar no pólo passivo da lide.
+    3. A seu turno, a Procuradoria-Geral da República, em parecer da lavra do Subprocurador-Geral Rodrigo Janot Monteiro de Barros, opinou pelo provimento do recurso.
+    4. Tenho que o inconformismo merece acolhida. Isso porque o acórdão recorrido destoa da jurisprudência do Supremo Tribunal Federal, de que é exemplo o RMS 26.959, cuja ementa ficou assim redigida pelo relator para o acórdão, ministro Menezes Direito:
+    “Recurso em mandado de segurança. Anistia política. Pensão militar. Imposto retido na fonte. Lei nº 10.559/02. Autoridade coatora. Legitimidade. 1. A folha de pagamento dos militares corre à conta do Ministério do Exército. O Ministro de Estado da Defesa e o Comandante do Exército, portanto, detêm o poder de determinar a interrupção dos descontos relativos ao imposto de renda feitos nos proventos da recorrente, exatamente o objeto da impetração. Legitimidade, assim, das citadas autoridades para figurar no pólo passivo do mandado de segurança. Recurso ordinário provido para reconhecer a legitimidade passiva das autoridades apontadas como coatoras e determinar a devolução dos autos ao Superior Tribunal de Justiça para a apreciação do mérito do mandado de segurança, inaplicável o art. 515, § 3º, do Código de Processo Civil.”
+    5. Nesse mesmo sentido, menciono as decisões singulares proferidas pelo ministro Joaquim Barbosa no RMS 27.583 (transitada em julgado em (05/03/2010) e pelo ministro Celso de Mello no RMS 26.643 (transitada em julgado em 09/08/2011) .
+    Ante o exposto, dou provimento ao recurso ordinário. O que faço para reconhecer a legitimidade passiva das autoridades apontadas como coatoras e determinar o retorno dos autos ao Superior Tribunal de Justiça, a fim de que o mérito do mandado de segurança seja apreciado.
+    Publique-se.
+    Brasília, 09 de abril 2012.
+ Ministro AYRES BRITTO
+ Relator
