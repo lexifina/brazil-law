@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. BOMBEIRO MILITAR. ATO DE BRAVURA. SUPRESSÃO. DECRETO ESTADUAL N.º 26.249/00. PRESCRIÇÃO DO FUNDO DE DIREITO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS CONSTANTES NA DECISÃO AGRAVADA. SÚMULA 287 DO STF.
+1. O agravo é inadmissível quando a sua fundamentação não impugna os fundamentos da decisão agravada. Inteligência do Enunciado nº 287 da Súmula do STF, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”.
+2. O agravante não impugnou todos os fundamentos da decisão agravada que pretendia ver reformada, especificamente em relação à ausência de prequestionamento das questões constitucionais.
+3. In casu, o acórdão recorrido assentou: “Direito Constitucional. Direito Administrativo. Gratificação por bravura revogada pelo Decreto nº 26.249/00. Decisão monocrática que manteve sentença de improcedência. Agravo Interno interposto pelo autor. Ato único de efeitos concretos. Não incidência do Enunciado nº 85 do STJ. Prescrição do Fundo de Direito. Recurso desprovido liminarmente”.
+4. Agravo não conhecido, nos termos do artigo 544, § 4º, I.
+    Decisão: Trata-se de agravo de instrumento interposto por Vagner Bargues Pereira, com fundamento no artigo 544 do Código de Processo Civil, com o objetivo de ver reformada a decisão de fls. 118-121 que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pela Segunda Câmara Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 90), verbis:
+    “Direito Constitucional. Direito Administrativo. Gratificação por bravura revogada pelo Decreto nº 26.249/00. Decisão monocrática que manteve sentença de improcedência. Agravo Interno interposto pelo autor. Ato único de efeitos concretos. Não incidência do Enunciado nº 85 do STJ. Prescrição do Fundo de Direito. Recurso desprovido liminarmente”.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação dos artigos 37, XV, e 60, § 4º, IV, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender que a matéria constitucional não foi prequestionada e que a alegada violação à Constituição Federal, se existisse, seria reflexa.
+    É o relatório. DECIDO.
+    A irresignação não merece prosperar, uma vez que o agravante não impugnou todos os fundamentos da decisão agravada que pretendia ver reformada, especificamente em relação à ausência de prequestionamento das questões constitucionais. Incide, portanto, o Enunciado n.º 287 da Súmula do STF, de seguinte teor: “Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia”.
+    Como de sabença, o agravo de instrumento interposto contra decisão denegatória do processamento de recurso extraordinário, que não tenha atacado especificamente os fundamentos da decisão agravada não merece conhecimento (artigo 544, § 4º, I, do Código de Processo Civil, introduzido pela Lei n.º 12.322/2010, verbis: “No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator: I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada”).
+    Ante o exposto, não conheço do agravo, nos termos do artigo 544, § 4º, I.
+    Publique-se.
+    Brasília, 9 de abril de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
