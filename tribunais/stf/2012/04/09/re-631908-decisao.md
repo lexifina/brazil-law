@@ -1,0 +1,28 @@
+DECISÃO:
+    Vistos.
+    A União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Terceira Seção do Superior Tribunal de Justiça, assim ementado:
+    “Militar reformado das Forças Armadas. Auxílio-invalidez (alteração do valor). Proventos (diminuição). Princípio da irredutibilidade de vencimentos (violação).
+    1. Caso em que a alteração da forma de cálculo do auxílio-invalidez dos militares das Forças Armadas determinada pela Portaria nº 931 do Ministro da Defesa acarretou redução no montante dos proventos do impetrante, em patente violação do princípio constitucional da irredutibilidade de vencimentos. Precedentes da Terceira Seção.
+    2. Ordem concedida para se assegurar ao impetrante a diferença de proventos resultante da aplicação da Portaria nº 931/MD” (fl. 103).
+    Opostos embargos de declaração (fls. 109 a 125), foram rejeitados (fls. 127 a 13).
+    Alega a recorrente contrariedade aos artigos 2º, 5º, incisos XXXVI e LXIX e 37, caput, e inciso XV, da Constituição Federal.
+    Sem contrarrazões (fl. 167), o recurso extraordinário (fls. 134 a 160) foi admitido (fl. 183/184).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    O Plenário desta Corte, em sessão realizada por meio eletrônico, concluiu, no exame do Recurso Extraordinário nº 563.965/RN, Relatora a Ministra Cármen Lúcia, pela existência da repercussão geral do tema constitucional versado no presente feito.
+    Na sessão Plenária de 11 de fevereiro de 2009, este Tribunal, ao apreciar o mérito do mencionado recurso extraordinário, afastou a alegação de ofensa à garantia de irredutibilidade da remuneração ou de proventos para, então, reafirmar o entendimento já consolidado nesta Corte no sentido de não haver direito adquirido à manutenção da forma de cálculo da remuneração, o que importaria em direito adquirido a regime jurídico. Na ocasião, considerou-se que, embora alterada a forma de cálculo das gratificações, não houve redução do montante percebido pela servidora.
+    Aplicando essa orientação, destacam-se as seguintes decisões: RE nº 592.630/AM, Relator o Ministro Ricardo Lewandowski, DJe de 24/4/09, e RE nº 399.050/PE, Relatora a Ministra Cármen Lúcia, DJe de 2/4/09.
+    Contudo, o acórdão recorrido concedeu a ordem “apenas para assegurar ao impetrante o direito à diferença de proventos resultante da aplicação da Portaria nº 931/MD” (fl. 102).
+    Com efeito, verifica-se que o STJ entendeu que houve redução no valor global dos proventos do recorrido, não ficando assegurada a irredutibilidade vencimental.
+    Desse modo, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação do acórdão recorrido, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. MILITAR. ALTERAÇÃO NO SISTEMA DE CÁLCULO DO AUXÍLIO-INVALIDEZ PELA MEDIDA PROVISÓRIA N. 2.131/2000. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE REXAME DE PROVAS EM RECURSO EXTRAORDINÁRIO: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (RE 535.687/PR-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ 17/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. ALTERAÇÃO NA FORMA DE COMPOSIÇÃO SALARIAL. PRESERVAÇÃO DO VALOR NOMINAL. OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. INOCORRÊNCIA. 1. Não há direito adquirido a regime jurídico, sendo possível, portanto, a redução ou mesmo a supressão de gratificações ou outras parcelas remuneratórias, desde que preservado o valor nominal da remuneração. Precedentes. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”(RE 593.711/PE-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe 17/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
