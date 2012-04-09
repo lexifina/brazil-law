@@ -1,0 +1,33 @@
+Penal. Habeas corpus. Tráfico e associação para o tráfico de entorpecentes (arts. 33 e 35 da Lei n. 11.343/2006). Penas-base fixadas acima do mínimo legal. Quantidade e qualidade da droga apreendida (art. 42 da Lei de Drogas): Circunstâncias preponderantes sobre as elencadas no art. 59 do Código Penal. Fundamentação idônea. Causa de diminuição da pena do art. 33, § 4º, da Lei de Entorpecentes. Paciente que não era somente integrante da organização criminosa, mas também seu chefe e responsável pela compra e movimentação da droga. Não cabimento da benesse legal. Ausência do fumus boni iuris. Liminar indeferida.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão da Quinta Turma do Superior Tribunal de Justiça, cuja ementa possui o seguinte teor:
+    “HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PENAS-BASE. MAJORAÇÃO. FUNDAMENTAÇÃO IDÔNEA. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4º, DA NOVA LEI DE TÓXICOS. NÃO APLICAÇÃO. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS. ORDEM DENEGADA.
+    1. A majoração da pena-base referente à condenação pelo crime de tráfico foi lastreada em fundamentação idônea, quantidade de entorpecente, nos termos do art. 42 da Lei nº 11.343/2006, que impõe ao Juiz considerar na fixação da pena-base, a natureza e a quantidade da droga.
+    2. Verifica-se, no que concerne à condenação pelo crime de associação para o tráfico, a adequação da fundamentação do aumento da pena-base acima do mínimo legal – lastreada no fato de o Paciente ser o chefe da organização criminosa, que comandava a atividade de vários outros traficantes, em operação abrangente, atingindo outras cidades da região.
+    3. Não havendo ilegalidade patente na fixação do quantum a ser majorado na aplicação da pena-base, é vedado, na estreita via do habeas corpus, proceder ao amplo reexame dos critérios considerados para a sua fixação, por demandar análise de matéria fático-probatória.
+    4. O Tribunal de origem considerou que o Paciente se dedicava à atividade criminosa do tráfico, motivo pelo qual ficou inviabilizada a aplicação da causa de diminuição inserta no § 4º do art. 33 da Lei nº 11.343/2006.
+    5. Para efeito de aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, ‘A conduta social do agente, o concurso eventual de pessoas, a receptação, os apetrechos relacionados ao tráfico, a quantidade de droga e as situações de maus antecedentes exemplificam situações caracterizadoras de atividades criminosas’ (STF, RHC 94.806/PR, 1ª Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 16/04/2010).
+    6. Não é possível, na estreita via do habeas corpus afastar o entendimento exarado pelas instâncias ordinárias quanto à dedicação do ora Paciente à atividade criminosa, por demandar incabível reexame do conjunto fático-probatório. Precedentes.
+    7. Ordem denegada.”
+    O paciente foi condenado a 6 (seis) anos e 8 (oito) meses de reclusão pela prática do crime de tráfico de entorpecentes (art. 33 da Lei n. 11.343/2006) e a 4 (quatro) anos de reclusão pelo crime de associação para o tráfico de entorpecentes (art. 35 da Lei n. 11.343/2006), totalizando 10 (dez) anos e oito meses de reclusão.
+    A defesa apelou sustentando ausência de fundamentação para a exacerbação da pena-base acima do mínimo legal e requerendo a aplicação da causa especial de diminuição da pena, prevista no § 4º do art. 33 da Lei de Entorpecentes, em razão de não ter ficado demonstrado no curso da instrução criminal que o paciente era dedicado ao tráfico de entorpecentes ou que integrava organização criminosa.
+    O apelo restou desprovido, sobrevindo, sucessivamente, habeas corpus no Superior Tribunal de Justiça e nesta Corte, ambos reiterando as razões da apelação.
+    Os impetrantes requerem “um provimento liminar para que imediatamente seja redimensionada a pena e antes da apreciação e julgamento do mérito deste habeas corpus, seja determinada a soltura do paciente, assim permanecendo até que o Colegiado se manifeste sobre o pleito e, no mérito, a confirmação da liminar”.
+    É o relatório. DECIDO.
+    Extraio da sentença o trecho relativo à dosimetria da pena, verbis:
+    “Do tráfico:
+    Fábio, embora primário, mantinha sob sua guarda indireta e movimentava, por longo tempo, quantidades expressivas de droga de grau de pureza maior que aquele comumente encontrada no mercado, em forma a demonstra a necessidade de fixação de sua pena base bem acima do mínimo legal. Além disso, era aquele que comandava a atividade de vários traficantes.
+    O princípio da individualização da pena não resistiria à fixação para o atacadista de drogas da mesma pena base daquele pequeno traficante, que pratica a venda para sustentar seu vício.
+    Além disso, restou demonstrado nos autos que a atividade de Fábio era abrangente, atingindo outras cidades da região (fls. 302, conversa 27 e fls. 305, conversa 01), de forma a apresentar maior perigo de dano social.
+    Dessa forma, a pena de Fábio é fixada em seis anos e oito meses de reclusão mais o pagamento de seiscentos e sessenta e seis dias-multa.”
+    “Da associação:
+    Fábio era o chefe da organização criminosa, sendo responsável pela compra e movimentação da droga. Dessa forma, incomensurável o dano social que vinha causando a organização da qual era líder.
+    Assim, a pena-base é de ser fixada acima do mínimo legal, ou seja, em quatro anos de reclusão mais o pagamento de novecentos e trinta e três dias multa.”
+    O artigo 42 da Lei n. 11.343/2006 determina que “O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente” [grifei], a evidenciar, in casu, impossibilidade da fixação da pena-base no mínimo legal, porquanto o Juiz consignou que o paciente “mantinha sob sua guarda indireta e movimentava, por longo tempo, quantidades expressivas de droga de grau de pureza maior que aquele comumente encontrada no mercado” [grifei].
+    Outrossim, a pretensão de que seja aplicada a causa de diminuição da pena, de que trata o § 4º do art. 33 da Lei n. 11.343/2006, é de todo improcedente, ante a circunstância de que o paciente não somente integrava a organização criminosa, como era o seu chefe e também responsável pela compra e movimentação da droga.
+    Ex positis, INDEFIRO a liminar, por não visualizar, prima facie, o fumus boni iuris.
+    Os autos estão suficientemente instruídos, por isso dispenso a requisição de informações e dou vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 9 de abril de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
