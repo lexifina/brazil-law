@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Jocelino Ramos de Carvalho Filho, Eduardo Cavalcante Ramos de Carvalho e Danilo Cavalcante Vieira, figurando como coator o Superior Tribunal de Justiça.
+    Pelo que se extrai dos autos, o magistrado de primeiro grau, após receber denúncia oferecida contra os pacientes pelo crime descrito no art. 121, § 2º, I e IV, c/c o art. 29 do Código Penal, decretou a prisão preventiva dos denunciados.
+    Dessa decisão, impetrou-se habeas corpus ao Tribunal de Justiça do Estado da Paraíba, que denegou a ordem.
+    Em seguida, impetrou-se o HC 218.458 ao STJ, que também denegou a ordem, em acórdão cuja ementa tem o seguinte teor:
+    “HABEAS CORPUS . CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS AUTORIZADORAS PRESENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIENTES. DECISÃO FUNDAMENTADA. PRECEDENTES.
+    1. O fato de estar inserido no rol dos delitos hediondos ou
+    equiparados não basta para a imposição da constrição cautelar, por ser necessária a existência de circunstâncias que demonstrem a adoção desta medida excepcional.
+    2. As Turmas componentes da Terceira Seção do Superior Tribunal de Justiça já cristalizaram o entendimento de inexistir constrangimento ilegal quando a prisão, suficientemente fundamentada, retratar a necessidade da medida para as garantia da ordem pública e aplicação da lei penal.
+    3. No caso concreto, a necessidade da manutenção da segregação cautelar, determinada na sentença condenatória, encontrava-se, à época, fundamentada na ausência dos pacientes aos atos judiciais para os quais foram devidamente notificados, o que demonstrou desprezo à atuação do Estado-Juiz, evidenciando que a captura se faz necessária para garantir a conveniência da instrução criminal.
+    4. O Superior Tribunal de Justiça, em orientação uníssona, entende que persistindo os requisitos autorizadores da segregação cautelar (art. 312 CPP), despiciendo os pacientes possuírem condições pessoais favoráveis.
+    5. Ordem denegada.”
+    Na sequência, sobreveio o presente habeas corpus, no qual se pede a revogação da prisão preventiva dos pacientes e o trancamento da ação penal.
+    Como causa de pedir, alega-se, em síntese, que o decreto prisional está baseado em meras suposições acerca da autoria e da necessidade de se garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal. Acrescenta-se que não há testemunhas oculares, sendo os pacientes denunciados apenas porque, dias antes, se envolveram em uma briga com a vítima e amigos. Diz-se, ainda, que os réus – todos primários, com residência fixa e ocupação lícita – não se evadiram do distrito da culpa (João Pessoa/PB); apenas retornaram para suas respectivas residências, em Pernambuco. Além disso, chegaram a peticionar, sem sucesso, ao delegado condutor do inquérito e ao juiz da causa, pedindo que fossem ouvidos. Ao final, enfatiza-se que a denúncia é inepta, por não satisfazer os requisitos do art. 41 do CPP, inviabilizando, assim, o exercício da ampla defesa.
+    É o relatório.
+    Decido.
+    Embora o decreto prisional tenha apontado a necessidade de se garantir a ordem pública, a conveniência da instrução criminal e a aplicação da lei penal, não se verifica em seu texto qualquer dado concreto a indicar porque a custódia cautelar seria necessária, segundo os parâmetros do art. 312 do Código de Processo Penal.
+    Noutras palavras, a decisão atacada, a par de enfatizar o clamor púbico decorrente do crime, bem como a gravidade deste, está apoiada apenas na suposição de que a liberdade dos pacientes colocaria em risco tanto a segurança da sociedade, quanto a livre colheita das provas e, ainda, a futura e eventual aplicação da lei penal. Ao afirmar a periculosidade dos denunciados, o juiz da causa apenas fez menção genérica ao modus operandi do ilícito, bem como a circunstâncias que já são elementares ou qualificadoras do próprio tipo.
+    Por outro lado, no que diz respeito ao pleito de trancamento da ação penal, observo que a denúncia, apesar de ater-se mais aos indícios de autoria e ao alegado motivo do crime, não chega a ser inepta, satisfazendo, ao menos à primeira vista, os requisitos do art. 41 do Código de Processo Penal. Além disso, os impetrantes não juntaram cópia da quinta folha da inicial acusatória, o que compromete a análise do seu inteiro teor.
+    Daí por que defiro parcialmente o pedido de liminar, a fim de revogar a prisão preventiva dos pacientes, os quais deverão comparecer a todos os atos do processo para os quais forem intimados, sob pena de decretação da sua prisão preventiva, a qual, de qualquer forma, poderá ser novamente decretada, caso demonstrados, concreta e fundamentadamente, os seus requisitos.
+    Solicitem-se informações ao Juízo de Direito da 2ª Vara do Tribunal do Júri da Comarca de João Pessoa /ES.
+    Recebidas as informações, dê-se vista à Procuradoria-Geral da República.
+    Publique-se, intimem-se e comunique-se.
+    Brasília, 9 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
