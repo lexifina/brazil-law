@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal Regional Federal, cuja ementa possui o seguinte teor:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. APOSENTADORIA DECORRENTE DE CEGUEIRA. ISENÇÃO CABÍVEL. DESNECESSIDADE DE EXAURIMENTO DAS VIAS ADMINISTRATIVAS. CORREÇÃO MONETÁRIA E JUROS DE MORA. APLICAÇÃO ISONÔMICA. HONORÁRIOS ADVOCATÍCOS.
+    O direito da autora à isenção do imposto de imposto de renda sobre seus proventos de aposentadoria decorrente de cegueira tem respaldo no art. 39 XXXIII do RIR 99 (Dec. 3000/99).
+    Não há necessidade de se exaurir a via administrativa para se ingressar com ação judicial, conforme o princípio constitucional do amplo acesso à justiça. O direito de ação é o direito subjetivo público de obter prestação jurisdicional do Estado para a solução de conflitos, inexistindo no caso óbice legal a impedir o ingresso da autora no judiciário a fim de obter a restituição do indébito, podendo ser compensados eventuais valores que tenham sido restituídos administrativamente.
+    Cabível a aplicação da taxa SELIC na correção monetária do indébito, visto que o mesmo tratamento dispensado ao contribuinte deve naturalmente ser aplicado ao Fisco, sob pena de se violar o princípio constitucional da isonomia. Os valores recolhidos indevidamente devem sofrer a incidência dos juros de mora a serem aplicados no percentual de 1% (um por cento) ao mês (na mesma intensidade que aqueles aplicados nos casos de mora do contribuinte - § 1º do art. 161, do CTN). Os juros moratórios devem incidir desde o pagamento indevido, em face do princípio constitucional da isonomia e do princípio do não locupletamento, que deixou de recepcionar o disposto no parágrafo único do artigo 167 do CTN e no enunciado da Súmula 188 do Eg. STJ, ressalvando-se que a aplicação da Taxa SELIC em nada atinge ou afeta a incidência de juros de mora, que serão devidos nos termos acima expostos.
+    Honorários fixados em 10% sobre o valor da condenação, a teor do art. 20, § 3º do CPC e conforme entendimento pacificado tanto no Colendo Superior Tribunal de Justiça quanto nesta Egrégia Turma, devendo, ainda, a Ré devolver as custas processuais pagas pela Parte Autora.” (fls. 128 e 129)
+    A recorrente, alegando violação do disposto no art. 5º, caput, e 150, II, da Constituição federal, sustenta a validade do disposto no parágrafo único do art. 97 do Código Tributário Nacional em face da Constituição federal.
+    Decido.
+    Ambas as Turmas desta Corte fixaram orientação no sentido do cabimento do art. 167, parágrafo único, do Código Tributário Nacional para o cálculo de juros, pertinentes aos indébitos tributários.
+    Confira-se, nesse sentido, o seguinte precedente:
+    “Tributo. Restituição do indébito. Procedência. Juros de mora. Taxa de 1% ao mês. Cômputo a partir do trânsito em julgado da sentença. Compensação. Competência da autoridade tributária. Teses assentadas pela jurisprudência do STF. Ausência de razões novas. Decisão mantida. Agravo improvido. Os juros de mora, na repetição de indébito tributário, são de 1% ao mês, desde o trânsito em julgado da sentença.” (RE 428.675-EDcl-AgR, rel. min. Cezar Peluso, Primeira Turma, DJ de 03.02.2006)
+    No mesmo sentido: AI 658.206-AgR (rel. min. Eros Grau, Segunda Turma, DJ de 28.09.2007) e AI 650.375-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 10.08.2007).
+    Do exposto, dou provimento ao recurso extraordinário.
+    Compensem-se proporcionalmente os ônus da sucumbência.
+    Publique-se.
+    Brasília, 9 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
