@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “MANDADO DE SEGURANÇA – SUSPENSÃO DE PAGAMENTO DE PENSÃO PELO CBMDF EM DECORRÊNCIA DE EXPULSÃO DE MILITAR DA CORPORAÇÃO – IMPOSSIBILIDADE – LEI 3.765” (fl. 222).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI e LV, 37, caput, 40, §§ 7º e 8º, e 42, § 2º, da mesma Carta.
+    O agravo não merece acolhida. O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação aplicável à espécie (Leis Distritais 3.765/1960 e 10.486/2002). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR EXCLUÍDO DA CORPORAÇÃO. PENSÃO POR MORTE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 654.107-AgR/MS, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEIS NS. 3.765/60 E 9.787/99. MORTE FICTA. MATÉRIA INFRACONSTITUCIONAL. OFENSA AO PRINCÍPIO DA LEGALIDADE. INVIABILIDADE. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. 1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição. Inviabilidade do extraordinário. 2. Incidência da Súmula n. 636 do STF: "não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida". 3. A Administração Pública somente poderia anular o ato, sem a instauração de procedimento administrativo, caso essa alteração não repercutisse no campo de interesses individuais. Agravo regimental a que se nega provimento” (AI 634.215-AgR/DF, Rel. Min. Eros Grau, Segunda Turma).
+    No mesmo sentido, cito, ainda, as seguintes decisões: AI 762.724/DF, Rel. Min. Ellen Gracie; AI 754.286/DF, Rel. Min. Gilmar Mendes; RE 591.474/DF, Rel. Min. Ayres Britto.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
