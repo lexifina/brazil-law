@@ -1,0 +1,5 @@
+# Lei nº 2.710, de 9 de abril de 2012, do Estado de Rondônia
+
+AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL POR SUPERÁVIT FINANCEIRO ATÉ O MONTANTE DE R$ 18.915.232,86, EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS FUNDO PARA INFRAESTRUTURA DE TRANSPORTE E HABILITAÇÃO - FITHA, DEPARTAMENTO DE ESTRADA DE RODAGEM E TRANSPORTES DO ESTADO DE RONDÔNIA - DER E AGÊNCIA ESTADUAL DE VIGILÂNCIA E SAÚDE - AGEVISA.
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/5678>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2012/5678/5678_texto_integral.pdf>
