@@ -1,0 +1,29 @@
+Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pela União, contra acórdão proferido pela 7ª Turma do Tribunal Superior do Trabalho, que teria ofendido a autoridade da decisão desta Suprema Corte nos autos da ADC 11-MC/DF, Rel. Min. Cezar Peluso.
+    A reclamante sustentou, em suma, que
+    “ao não conhecer o recurso de revista, também entendeu inválido o elastecimento do prazo entabulado pela Medida Provisória 2.180-35/2001, em função de suposta inobservância dos pressupostos de relevância e urgência, tomando de empréstimo o precedente o STF em que se julgou inconstitucional a ampliação do prazo da ação rescisória (ADI-MC 1910, reI. Min. Sepúlveda Pertence, em 22.4.2004), razão pela qual ofendeu a autoridade da ADC n° 11”.
+    Pugnou, assim, pela concessão da liminar a fim de suspender os efeitos da decisão proferida nos autos do Processo TST-RR-83585-26.2006.5.15.0024.
+    Deferi a liminar em 30/8/2011.
+    Informações prestadas pela autoridade coatora por meio da petição 76335/2011-STF.
+    A Procuradoria Geral da República opinou pela inadmissibilidade do feito, em parecer assim ementado:
+    “Reclamação. Processo de execução trabalhista. Prazo para oferecimento de embargos pela Fazenda Pública. Art. 1º-B da Lei 9.494/97. Ofensa à medida cautelar concedida pelo Supremo Tribunal Federal na ADC 11, em que determinada a suspensão dos processos que tratem da constitucionalidade do preceito em questão. Fundamento suficiente, diverso da inconstitucionalidade do alargamento do prazo para a oposição de embargos pela Fazenda Pública, para a manutenção do acórdão. Parecer pela inadmissibilidade da reclamação”.
+    É o relatório necessário. Decido.
+    Bem examinados os autos, tenho que a pretensão formulada não comporta seguimento.
+    Como relatado, esta reclamação tem como fundamento o suposto desrespeito ao decidido por esta Corte por ocasião do julgamento da ADC 11-MC/DF, Rel. Min. Cezar Peluso, cujo acórdão foi assim ementado:
+    “FAZENDA PÚBLICA. Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35”.
+    Observa-se que a medida cautelar foi deferida para suspender todos os processos em que se discutia a constitucionalidade do artigo 1º-B da MP 2.180-35, que ampliou o prazo dos embargos à execução oponíveis pela Fazenda Pública.
+    No caso em exame, todavia, como os embargos à execução foram recebidos como recurso ordinário, considerou-se intempestiva a interposição desta última espécie recursal. Além disso, o argumento do acórdão de que a postulação permaneceria intempestiva ainda que recebido como embargos à execução por considerar inconstitucional a MP 2.180-35, foi meramente subsidiário.
+    Dessa forma, mesmo que julgada procedente, a reclamação não teria o condão de tornar tempestivo os embargos, pois, mais uma vez, foram recebidos como recurso ordinário.
+    Nesse sentido foi a manifestação do Parquet, cujo trecho, por oportuno, transcrevo:
+    “(...)
+    Ademais, da simples leitura do acórdão impugnado constata-se que o argumento da inconstitucionalidade do alargamento do prazo para a oposição de embargos pela Fazenda Pública, embora mencionado pelo Tribunal reclamado, não foi o fundamento principal da sua decisão.
+    Ora, tendo o juiz da 1ª Vara do Trabalho de Jaú/SP e o Tribunal Regional do Trabalho da 15ª Região recebido os embargos como recurso ordinário, o prazo estipulado para esta espécie recursal é que deveria ser considerado, como de fato o foi, para fins de análise do preenchimento da condição de admissibilidade da tempestividade. Por isso, como bem salientou o Presidente do Tribunal Superior do Trabalho nas informações, a intempestividade, motivo do não conhecimento da manifestação da União, foi reconhecida com base no prazo estipulado para a interposição do recurso ordinário e não dos embargos à execução.
+    Assim, diante da existência de fundamento diverso suficiente para a manutenção do acórdão – inobservância do prazo para a interposição do recurso ordinário, eventual procedência da reclamação seria inócua”.
+    Dessa forma, diante da ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados do paradigma invocado, não merece seguimento a pretensão da reclamante.
+    Ressalto, por fim, que o Plenário deste Tribunal reconheceu a validade constitucional da norma legal que inclui, na esfera de atribuições do Relator, a competência para negar seguimento, por meio de decisão monocrática, a recursos, pedidos ou ações, quando inadmissíveis, intempestivos, sem objeto ou que veiculem pretensão incompatível com a jurisprudência predominante deste Tribunal.
+    Nesse sentido, nos termos do art. 21, § 1º, do Regimento Interno do STF, poderá o Relator:
+    “negar seguimento a pedido ou recurso manifestamente inadmissível, improcedente ou contrário à jurisprudência dominante ou a Súmula do Tribunal, deles não conhecer em caso de incompetência manifesta, encaminhando os autos ao órgão que repute competente, bem como cassar ou reformar, liminarmente, acórdão contrário à orientação firmada nos termos do art. 543-B do Código de Processo Civil”.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF). Cassada, consequentemente, a medida liminar.
+    Publique-se.
+    Brasília, 11 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
