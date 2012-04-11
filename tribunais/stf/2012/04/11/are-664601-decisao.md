@@ -1,0 +1,28 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Turma Recursal dos Juizados Especiais Cíveis do Estado do Rio de Janeiro. Colhe- se, no que interessa, parte do voto condutor do acórdão:
+    “Portanto, o fato de a Exequente não ter apresentado execução provisória, não obstaria o cumprimento do comando judicial.
+    A sentença judicial (fls. 76/78) estabeleceu de maneira cristalina no sentido de ‘condenar a ré na obrigação de fazer consistente na inclusão da autora como responsável pelo contrato firmado por MARIA CEZARINA PEREIRA, inscrição nº 155, no prazo de 30 (trinta) dias, sob pena de multa diária no importe de R$ 1.000,00 (hum mil reais), pelo atendimento’.
+    A executada não comprovou de modo satisfatório ter cumprido a decisão judicial no prazo estabelecido na sentença.
+    Aliás, os documentos encartados às fls. 145/146 não comprovam ter sido confeccionados à data da sentença, os boletos de fls. 117/134, certamente já indicariam o nome da Exequente.
+    A recorrida deveria ter comprovado nos autos, à época, e dentro do prazo estabelecido na sentença, ter sido cumprido sua obrigação, contudo, não o fez.
+    Logo, a multa é exigível. Todavia, seu valor é totalmente desproporcional e elevada.
+    A multa deve ser fixada dentro de um critério de razoabilidade e proporcionalidade.
+    A meu juízo, no caso em exame, o valor da multa que se acha justo é o proporcional ao valor de 20 (vinte) salários mínimos.
+    Por isso, pelo meu voto, conheço do recurso e dou parcial provimento, para condenar a Recorrida na multa do importe de 20 (vinte) salários mínimos” (206 a 208).
+    Opostos embargos de declaração por ambas as partes (fls. 210 a 212 e 214 a 217), foram rejeitados (fls. 219 a 223).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece trânsito a alegada violação do artigo 5º, inciso II, da Constituição Federal, uma vez que a afronta ao referido dispositivo constitucional seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, a jurisprudência desta Corte é no sentido de que a discussão acerca do valor da multa aplicada em razão de descumprimento de decisão judicial está restrita à interpretação da legislação processual ordinária e ao exame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS DOS AUTOS, AO QUE NÃO SE PRESTA O RECURSO EXTRAORDINÁRIO (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 660.733/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 20/2/09).
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Astreintes. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido” (ARE nº 658.085/SP-AgR, Primeira Turma, de minha Relatoria, DJe de 6/2/12).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: AI nº 759.766/RJ, Relatora a Ministra Cármen Lúcia, DJe de 4/8/09, e AI nº 598.134/RJ, Relator o Ministro Marco Aurélio, DJ de 7/5/07.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
