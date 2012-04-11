@@ -1,0 +1,2 @@
+Art. 10. O SINPDEC é constituído pelos órgãos e entidades da administração pública federal, dos Estados, do Distrito Federal e dos Municípios e pelas entidades públicas e privadas de atuação significativa na área de proteção e defesa civil.
+Parágrafo único. O SINPDEC tem por finalidade contribuir no processo de planejamento, articulação, coordenação e execução dos programas, projetos e ações de proteção e defesa civil.
