@@ -1,0 +1,2 @@
+Art. 16. Fica a União autorizada a conceder incentivo ao Município que adotar medidas voltadas ao aumento da oferta de terra urbanizada para utilização em habitação de interesse social, por meio dos institutos previstos na Lei nº 10.257, de 10 de julho de 2001, na forma do regulamento.
+Parágrafo único. O incentivo de que trata o caput compreenderá a transferência de recursos para a aquisição de terrenos destinados a programas de habitação de interesse social.

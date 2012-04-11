@@ -1,0 +1,1 @@
+Art. 31. Esta Lei entra em vigor na data de sua publicação, com exceção do disposto no § 2º do art. 12 da Lei nº 6.766, de 19 de dezembro de 1979, que entrará em vigor após decorridos 2 (dois) anos da data de sua publicação oficial.

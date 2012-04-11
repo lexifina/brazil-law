@@ -1,0 +1,1 @@
+Art. 17. Em situações de iminência ou ocorrência de desastre, ficam os órgãos competentes autorizados a transferir bens apreendidos em operações de combate e repressão a crimes para os órgãos de proteção e defesa civil.

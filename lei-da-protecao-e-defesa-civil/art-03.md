@@ -1,0 +1,2 @@
+Art. 3º A PNPDEC abrange as ações de prevenção, mitigação, preparação, resposta e recuperação voltadas à proteção e defesa civil.
+Parágrafo único. A PNPDEC deve integrar-se às políticas de ordenamento territorial, desenvolvimento urbano, saúde, meio ambiente, mudanças climáticas, gestão de recursos hídricos, geologia, infraestrutura, educação, ciência e tecnologia e às demais políticas setoriais, tendo em vista a promoção do desenvolvimento sustentável.
