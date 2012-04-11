@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Valdeci Souza da Silva interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, incisos XXXV, LIV e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “DIREITO PROCESSUAL CIVIL. AGRAVO INOMINADO. SFH. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. TR. ANATOCISMO. NEGATIVAÇÃO DE NOME. LEGALIDADE. AUSÊNCIA DE VALOR A SER REPETIDO. APLICAÇÃO DO CDC. RECURSO IMPROVIDO.
+    1. Desnecessário o exame técnico para o deslinde da controvérsia conforme precedentes do E. STJ, não ocorrendo o alegado cerceamento de defesa.
+    2. Legalidade da utilização da Taxa Referencial, no contrato de financiamento habitacional firmado na vigência da Lei 8.177/91, reconhecida por precedentes do E. STJ.
+    3. A matéria está pacificada na jurisprudência, no sentido de que o Sistema Sacre não implica anatocismo, permitindo que os juros sejam reduzidos progressivamente.
+    4. Não há ilegalidade na forma de amortização do saldo devedor.
+    5. Possível a inscrição do nome do devedor, em caso de inadimplência, nos órgãos de proteção ao crédito.
+    6. A ausência de ilegalidade na cobrança efetuada pelo credor revela a inexistência valor a ser devolvido.
+    7. Não se mostra razoável desconstituir a autoridade dos precedentes que orientam, firmemente, a conclusão que adotou a decisão agravada.
+    8. Agravo inominado improvido”.
+     Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os incisos XXXV e LIV do artigo 5° da Constituição Federal, indicados como violados no recurso extraordinário, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP – AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes ” (AI nº 360.265/RJ - AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, o acórdão recorrido decidiu a questão relativa à incidência da Taxa Referencial com base na norma do inciso XXXVI do art. 5º da Constituição. Esse fundamento, entretanto, não foi enfrentado no recurso extraordinário, o que faz incidir na espécie a Súmula nº 283 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles”.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 11 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
