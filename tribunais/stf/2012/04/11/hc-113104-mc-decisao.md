@@ -1,0 +1,28 @@
+Despacho:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado por César Octavio Brum em favor de Airton Gustavo Bernardo, apontando como autoridade coatora o Ministro Napoleão Nunes Maia Filho, do Superior Tribunal de Justiça, que negou provimento ao REsp nº 1.205.509/SP, impetrado àquela Corte.
+    Sustenta o impetrante que “conforme se verifica da leitura dos dispositivos (...), o art. 44, incs. I, II e III, do Código Penal, com a redação dada pela Lei n.° 9.714/98, é prevista a substituição da pena privativa de liberdade por restritiva de direitos quando a sanção corporal não seja superior a quatro anos, o crime não tenha sido cometido com violência ou grave ameaça, o réu não seja reincidente e as circunstâncias judiciais indicarem a suficiência da medida. No presente caso o paciente preenche os requisitos mencionados, uma vez que é primário e não possui maus antecedentes, assim diante de tal fato deveria ter ocorrido a substituição da pena privativa de liberdade por restritiva de direitos. Também não há como alegar que não ocorreu a substituição em razão de não ter sido atendido o disposto no inciso III do artigo 44 do CP, uma vez que na sentença de primeiro grau o Juiz singular apenas afirmou que era ‘contra indicada qualquer substituição da pena aplicada’, não fundamentando o motivo” (fls. 5/6 da inicial).
+    Em abono a esses argumentos aduz que “o DD. Promotor de Justiça, em suas alegações finais, pediu a substituição de pena privativa de liberdade por pena restritiva de direitos” (fl. 6 da inicial).
+    Requer o deferimento da liminar “determinando a substituição da pena privativa de liberdade por restritiva de direitos, nos termos do art. 44 do CP, expedindo-se o competente contramandado de prisão” e, no mérito, pede a confirmação definitiva da liminar” (fl. 7 da inicial – destaques conforme o original).
+    Examinados os autos, decido.
+    Narra o impetrante, na inicial, que:
+    “(...)
+    O paciente figura como réu, juntamente com Emerson Francisco Loyola Vidotto no processo n.º 050.01.030887-7 – Controle 1129/04, da 5ª Vara Criminal da Capital/SP, tendo sido ambos condenados à pena de 4 anos de reclusão em regime inicial fechado e a pena pecuniária de 20 dias-multa, fixado em 1/30 do salário mínimo vigente à época dos fatos, não substituindo a pena privativa de liberdade, por restritiva de direitos, sendo concedido o direito dos réus apelarem em liberdade.
+    Inconformado com a injusta decisão o paciente interpôs recurso de apelação, sendo mantida a sentença.
+    Não se conformando com a decisão de segunda instância o paciente interpôs recurso especial ao Egrégio Superior Tribunal de Justiça, mas foi negado o seguimento.
+    Diante de tal situação o paciente ingressou com agravo contra decisão denegatória de recurso especial, mas não teve o mérito analisado sob o argumento de que não foi juntada cópia da procuração, novamente não se conformando com decisão interpôs agravo regimental, mas foi mantida a decisão, não sendo analisado o mérito.
+    No entanto, o agravo do corréu Emerson Francisco Loyola Vidotto foi recebido como recurso especial e teve a pena reformada para dois anos e oito meses de reclusão em regime inicial semiaberto, no entanto, a pena privativa de liberdade não foi substituída por restritiva de direitos, sob o argumento da elevada culpabilidade do réu.
+    Os efeitos da decisão do STJ foram estendidos para o corréu Airton Gustavo, ora paciente” (fl. 2/3 da inicial – grifos conforme o original).
+    Transcrevo o teor da ementa da decisão ora questionada:
+    “PENAL. RECURSO ESPECIAL. AGENTE POLICIAL. PECULATO (ART. 312 DO CPB). CONDENAÇÃO À PENA DE 4 ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO. PRETENSÃO ABSOLUTÓRIA. REVOLVIMENTO AMPLO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. DOSIMETRIA DA PENA. VIOLAÇÃO DO ART. 59 DO CPB. AUSÊNCIA DE PROPORCIONALIDADE. UMA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (CULPABILIDADE). PENA-BASE FIXADA NO DOBRO DO MÍNIMO LEGAL. REDIMENSIONAMENTO NECESSÁRIO: 2 ANOS E 8 MESES DE RECLUSÃO. REGIME INICIAL SEMIABERTO. SUBSTITUIÇÃO POR RESTRITIVAS DE DIREITO. INADMISSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 44, III DO CPB. PARECER DO MPF PELO DESPROVIMENTO DO RECURSO. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO, PARA REDIMENSIONAR A PENA DO PACIENTE” (fl. 1 do anexo 15).
+    Essa é a razão pela qual se insurge o impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal, o que não vislumbro na hipótese presente.
+    Ademais, anoto que as razões invocadas pelo impetrante para o deferimento da medida excepcional possuem caráter satisfativo, pois se confundem com o mérito da própria impetração, o que recomenda seu indeferimento conforme reiterada jurisprudência desta Corte. Nesse sentido: HC nº 94.888-MC/SP, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164-MC/SP, Relator o Ministro Cezar Peluso, DJ de 22/2/08; e HC nº 92.737-MC/SP, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07, entre outros.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com as peças necessárias à perfeita compreensão da controvérsia, dispenso as informações da autoridade coatora.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 11 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
