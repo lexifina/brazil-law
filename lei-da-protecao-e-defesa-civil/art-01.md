@@ -1,0 +1,2 @@
+Art. 1º Esta Lei institui a Política Nacional de Proteção e Defesa Civil - PNPDEC, dispõe sobre o Sistema Nacional de Proteção e Defesa Civil - SINPDEC e o Conselho Nacional de Proteção e Defesa Civil - CONPDEC, autoriza a criação de sistema de informações e monitoramento de desastres e dá outras providências.
+Parágrafo único. As definições técnicas para aplicação desta Lei serão estabelecidas em ato do Poder Executivo federal.

@@ -1,0 +1,21 @@
+Art. 22. A Lei nº 12.340, de 1º de dezembro de 2010, passa a vigorar acrescida dos seguintes arts. 3º- A, 3º- B e 5º- A:
+" Art. 3º-A. O Governo Federal instituirá cadastro nacional de municípios com áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos, conforme regulamento.
+§ 1º A inscrição no cadastro previsto no caput dar-se-á por iniciativa do Município ou mediante indicação dos demais entes federados, observados os critérios e procedimentos previstos em regulamento.
+§ 2º Os Municípios incluídos no cadastro deverão:
+I - elaborar mapeamento contendo as áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos;
+II - elaborar Plano de Contingência de Proteção e Defesa Civil e instituir órgãos municipais de defesa civil, de acordo com os procedimentos estabelecidos pelo órgão central do Sistema Nacional de Proteção e Defesa Civil - SINPDEC;
+III - elaborar plano de implantação de obras e serviços para a redução de riscos de desastre;
+IV - criar mecanismos de controle e fiscalização para evitar a edificação em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos; e
+V - elaborar carta geotécnica de aptidão à urbanização, estabelecendo diretrizes urbanísticas voltadas para a segurança dos novos parcelamentos do solo e para o aproveitamento de agregados para a construção civil.
+§ 3º A União e os Estados, no âmbito de suas competências, apoiarão os Municípios na efetivação das medidas previstas no § 2º.
+§ 4º Sem prejuízo das ações de monitoramento desenvolvidas pelos Estados e Municípios, o Governo Federal publicará, periodicamente, informações sobre a evolução das ocupações em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos nos Municípios constantes do cadastro.
+§ 5º As informações de que trata o § 4º serão encaminhadas, para conhecimento e providências, aos Poderes Executivo e Legislativo dos respectivos Estados e Municípios e ao Ministério Público.
+§ 6º O Plano de Contingência de Proteção e Defesa Civil será elaborado no prazo de 1 (um) ano, sendo submetido a avaliação e prestação de contas anual, por meio de audiência pública, com ampla divulgação."
+" Art. 3º-B. Verificada a existência de ocupações em áreas suscetíveis à ocorrência de deslizamentos de grande impacto, inundações bruscas ou processos geológicos ou hidrológicos correlatos, o município adotará as providências para redução do risco, dentre as quais, a execução de plano de contingência e de obras de segurança e, quando necessário, a remoção de edificações e o reassentamento dos ocupantes em local seguro.
+§ 1º A efetivação da remoção somente se dará mediante a prévia observância dos seguintes procedimentos:
+I - realização de vistoria no local e elaboração de laudo técnico que demonstre os riscos da ocupação para a integridade física dos ocupantes ou de terceiros; e
+II - notificação da remoção aos ocupantes acompanhada de cópia do laudo técnico e, quando for o caso, de informações sobre as alternativas oferecidas pelo poder público para assegurar seu direito à moradia.
+§ 2º Na hipótese de remoção de edificações, deverão ser adotadas medidas que impeçam a reocupação da área.
+§ 3º Aqueles que tiverem suas moradias removidas deverão ser abrigados, quando necessário, e cadastrados pelo Município para garantia de atendimento habitacional em caráter definitivo, de acordo com os critérios dos programas públicos de habitação de interesse social."
+" Art. 5º-A. Constatada, a qualquer tempo, a presença de vícios nos documentos apresentados, ou a inexistência do estado de calamidade pública ou da situação de emergência declarados, o ato administrativo que tenha autorizado a realização da transferência obrigatória perderá seus efeitos, ficando o ente beneficiário obrigado a devolver os valores repassados, devidamente atualizados.
+Parágrafo único. Sem prejuízo do disposto no caput, ocorrendo indícios de falsificação de documentos pelo ente federado, deverão ser notificados o Ministério Público Federal e o Ministério Público Estadual respectivo, para adoção das providências cabíveis."
