@@ -1,0 +1,1 @@
+Art. 13. Fica autorizada a criação de sistema de informações de monitoramento de desastres, em ambiente informatizado, que atuará por meio de base de dados compartilhada entre os integrantes do SINPDEC visando ao oferecimento de informações atualizadas para prevenção, mitigação, alerta, resposta e recuperação em situações de desastre em todo o território nacional.
