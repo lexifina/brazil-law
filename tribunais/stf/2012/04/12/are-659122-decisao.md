@@ -1,0 +1,14 @@
+Provido o agravo à fl. 530, passo à análise do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra a parte do acórdão que entendeu que os servidores substituídos pelo ora recorrido fazem jus ao reposicionamento na carreira funcional e ao pagamento das diferenças salariais daí advindas.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 37, X, 39, § 1º, e 61, II, a, da mesma Carta, bem como à Súmula 339 do STF.
+    A Procuradoria Geral da República manifestou-se pelo desprovimento do recurso.
+    A pretensão recursal não merece acolhida.
+    O Tribunal Superior do Trabalho, com apoio nas normas infraconstitucionais pertinentes ao caso e no conjunto fático-probatório dos autos, assim dirimiu a controvérsia em exame:
+    “(...)
+    Conforme bem apreendido na origem, os documentos juntados aos autos e o teor da própria contestação levam a indesviável conclusão de que os substituídos efetivamente foram prejudicados quando do reposicionamento, fazendo jus à progressão de doze níveis com o pagamento das diferenças salariais daí advindas. O documento juntado às fls. 13/15, consistente em Parecer do Departamento Administrativo do Serviço Público nº 77 e em ofício circular nº 8, demonstram a disparidade ocorrida quando do reposicionamento dos servidores do executivo federal. Referem tais documentos que somente parte dos servidores foram beneficiados com o reposicionamento ora pretendido, sendo que a própria administração recomenda que a correção desta disparidade deve ser estendida a todos os servidores dos demais órgãos da administração federal direta e das autarquias federais, abrangidos pelo plano de cargos e salários previsto na Lei 5.645/70. Conforme previsão da referida lei, é garantida a todos os empregados ocupantes do mesmo cargo nos diversos órgãos e autarquias federais a percepção de idênticos vencimentos. Conforme já acima referido, a quebra desta isonomia resta devidamente demonstrada nos autos, não havendo qualquer elemento, nem tampouco alegação de que tais progressões foram observadas no momento oportuno ou posteriormente concedidas. Diante desta realidade resta efetivamente demonstrado o direito ora vindicado, motivo pelo qual deve ser integralmente mantida a sentença, no particular" (fls. 448-448v).
+    Desse modo, para divergir do acórdão recorrido, necessário seria o reexame dos fatos e provas dos autos, o que é vedado pela Súmula 279 do STF, e da legislação infraconstitucional aplicável à espécie (Lei 5.645/1970), sendo certo que eventual ofensa à Constituição seria meramente indireta. Inviável, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
