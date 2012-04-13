@@ -1,0 +1,1 @@
+Art. 11. Os serviços de transporte privado coletivo, prestados entre pessoas físicas ou jurídicas, deverão ser autorizados, disciplinados e fiscalizados pelo poder público competente, com base nos princípios e diretrizes desta Lei.

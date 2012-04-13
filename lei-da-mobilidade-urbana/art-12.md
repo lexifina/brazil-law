@@ -1,0 +1,1 @@
+Art. 12. Os serviços públicos de transporte individual de passageiros, prestados sob permissão, deverão ser organizados, disciplinados e fiscalizados pelo poder público municipal, com base nos requisitos mínimos de segurança, de conforto, de higiene, de qualidade dos serviços e de fixação prévia dos valores máximos das tarifas a serem cobradas.
