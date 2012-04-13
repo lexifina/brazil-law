@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Município de Caxias interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV e LIV, 37 caput, 93, inciso IX, e 100, §§ 3º e 5º, da Constituição Federal e ao artigo 87, caput e inciso II, do Ato das Disposições Constitucionais Transitórias.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “PROCESSO CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA CONTRA O MUNICÍPIO. SERVIDOR PÚBLICO MUNICIPAL. REMUNERAÇÃO ATRASADA. RESPONSABILIDADE DO MUNICÍPIO. AUSÊNCIA DE PROVA DE PAGAMENTO. ÔNUS DO RÉU – ART. 333, II, DO CPC – FIXAÇÃO DOS HONORÁRIOS MANTIDOS. RECURSO CONHECIDO E IMPROVIDO.
+    I – Comprovado o vínculo funcional e, por conseguinte, a prestação de serviços, o pagamento das verbas salariais demonstra-se obrigatório.
+    II – É do Município e não do ex-prefeito a responsabilidade pelo pagamento de salários por serviços àquele prestados.
+    III – Os honorários obedeceram aos parâmetros legais estabelecidos no art. 20, § 4º do Código de Processo Civil.
+    IV – Recurso conhecido e improvido” (fl. 126).
+    Opostos embargos de declaração (fls. 136 a 143), foram rejeitados (fls. 150 a 154).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 22/1/07, conforme expresso na certidão de folha 156, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Sustenta o recorrente que:
+    “A sentença de primeiro grau asseverou que o crédito da parte recorrida enquadra-se no âmbito de abrangência do § 3º do art. 100 da Constituição Federal cumulado com o inc. II do art. 87 do Ato das Disposições Constitucionais Transitórias.
+    (…)
+    Entretanto, conforme disposição normativa apregoada no § 5º do art. 100 da Constituição Federal, e no caput do art. 87 do Ato das Disposições Constitucionais Transitórias, o limite de trinta salários mínimos para os entes federados municipais possui vigência até que se promulgue e publique legislação ordinária municipal específica disciplinando o patamar que seria, então, considerado como obrigação ou despesa de pequeno valor.
+    Ora, nas razões de apelação demonstrou-se que o Município de Caxias possui lei ordinária específica que, em atendimento ao art. 100, § 5º, do art. 30 da CF e caput do art. 87, do ADCT, regulamenta o que vem a ser ‘despesa ou obrigação de pequeno valor’. Fala-se da Lei Municipal n. 1.613/2005. Nesse diploma legal estipulou-se que verbas de pequeno valor serão aquelas que não ultrapassem 02 (dois) salários mínimos.
+    (…)
+    Destarte, não restam dúvidas de que o valor objeto da condenação em comento ultrapassa o teto limite de 02 (dois) salários mínimos. Encontra-se submetido, portanto, ao regime dos precatórios judiciais disciplinado no caput do art. 100 de nossa Carta Magna, não podendo receber o tratamento mais benéfico disposto em seu § 3º, por não se enquadrar no patamar legal considerado como pequeno valor, bem como, ainda, não consistir em sentença judicial transitada em julgado” (fl. 190).
+    Razão lhe assiste, uma vez que no julgamento da Ação Direta de Inconstitucionalidade nº 2.868, em que foi redator para o acórdão o Ministro Joaquim Barbosa, o Plenário do Supremo Tribunal Federal firmou entendimento no sentido de que os Estados-membros podem estipular valor diverso do determinado no art. 87 do Ato das Disposições Constitucionais Transitórias, referente às obrigações de pequeno valor:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 5.250/2002 DO ESTADO DO PIAUÍ. PRECATÓRIOS. OBRIGAÇÕES DE PEQUENO VALOR. CF, ART. 100, § 3º. ADCT, ART. 87. Possibilidade de fixação, pelos estados-membros, de valor referencial inferior ao do art. 87 do ADCT, com a redação dada pela Emenda Constitucional 37/2002. Ação direta julgada improcedente” (DJ 12.11.2004).
+    Registre-se que, apesar de o referido precedente ser relativo a Estados-membros, é perfeitamente aplicável ao caso em tela. O artigo 87 do Ato das Disposições Constitucionais Transitórias prescreve que somente haverá a incidência de sua definição sobre importâncias de pequeno valor até que se dê a publicação oficial das respectivas leis definidoras pelos entes da Federação, na qual se incluem, induvidosamente, os municípios. Desse modo, resta nítida a incidência da Lei Municipal nº 1.613/05 ao ao caso em tela. Nesse sentido: AI nº 776.407/MA, Relatora a Ministra Cármen Lúcia, DJe de 1/6/10; e AI nº 804.874/MA, Relator o Ministro Ricardo Lewandowski, DJe de 20/8/10.
+    É de se ressaltar ainda que, conforme entendimento pacífico desta Corte, tem natureza processual a lei que regulamenta o procedimento de execução de obrigação de pequeno valor, alcançando, assim, as ações em curso. Sobre o tema:
+    “CONSTITUCIONAL. PREVIDENCIÁRIO. PRECATÓRIO. Lei nº 10.099, de 2000. I. - A Lei 10.099, de 19.12.2000, art. 1º, deu nova redação ao art. 128 da Lei 8.213, de 1991, alterado pela Lei 9.032, de 1995. Citada Lei 10.099, de 2000, é regulamentadora do §
+    3º do art. 100, da C.F. Porque tem natureza processual, aplica-se imediatamente, alcançando os processos em curso. II. - RE prejudicado. Agravo não provido” (RE nº 299.566/SC-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 1/3/02).
+    “Precatório: débito de pequeno valor: L. 10.099/00: RE prejudicado. Em face da aplicabilidade imediata da L. 10.099/00 - que regulamentou o art. 100, § 3º, CF, ao definir as obrigações de pequeno valor excluídas pela norma constitucional da
+    sistemática de pagamentos mediante expedição de precatórios -, desapareceu o objeto do recurso extraordinário, interposto contra decisão que, proferida antes do advento da referida lei, afirmara a necessidade dessa regulamentação” (RE nº 292.160/RS, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 4/5/01).
+    Ante o exposto, nos termos do artigo 544, § 3º, do Código de Processo Civil, com a redação da Lei nº 9.756/98, conheço do agravo e dou provimento ao recurso extraordinário para determinar que o valor da condenação fixado nos autos seja executado conforme os parâmetros da legislação municipal específica relativa às despesas e obrigações de pequeno valor.
+    Publique-se.
+    Brasília, 13 de de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
