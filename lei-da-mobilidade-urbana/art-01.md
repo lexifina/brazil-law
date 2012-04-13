@@ -1,0 +1,2 @@
+Art. 1º A Política Nacional de Mobilidade Urbana é instrumento da política de desenvolvimento urbano de que tratam o inciso XX do art. 21 e o art. 182 da Constituição Federal, objetivando a integração entre os diferentes modos de transporte e a melhoria da acessibilidade e mobilidade das pessoas e cargas no território do Município.
+Parágrafo único. A Política Nacional a que se refere o caput deve atender ao previsto no inciso VII do art. 2º e no § 2º do art. 40 da Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade).
