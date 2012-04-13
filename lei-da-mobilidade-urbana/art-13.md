@@ -1,0 +1,1 @@
+Art. 13. Na prestação de serviços de transporte público coletivo, o poder público delegante deverá realizar atividades de fiscalização e controle dos serviços delegados, preferencialmente em parceria com os demais entes federativos.

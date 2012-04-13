@@ -1,0 +1,1 @@
+Art. 20. O exercício das atribuições previstas neste Capítulo subordinar-se-á, em cada ente federativo, às normas fixadas pelas respectivas leis de diretrizes orçamentárias, às efetivas disponibilidades asseguradas pelas suas leis orçamentárias anuais e aos imperativos da Lei Complementar nº 101, de 4 de maio de 2000.

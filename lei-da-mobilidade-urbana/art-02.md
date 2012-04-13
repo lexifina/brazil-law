@@ -1,0 +1,1 @@
+Art. 2º A Política Nacional de Mobilidade Urbana tem por objetivo contribuir para o acesso universal à cidade, o fomento e a concretização das condições que contribuam para a efetivação dos princípios, objetivos e diretrizes da política de desenvolvimento urbano, por meio do planejamento e da gestão democrática do Sistema Nacional de Mobilidade Urbana.
