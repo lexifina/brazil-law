@@ -1,0 +1,1 @@
+Art. 26. Esta Lei se aplica, no que couber, ao planejamento, controle, fiscalização e operação dos serviços de transporte público coletivo intermunicipal, interestadual e internacional de caráter urbano.
