@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II, V, X, XXXV, XXXVI, LIV e LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Primeiro Colégio Recursal dos Juizados Especiais Cíveis da Comarca de São Paulo que manteve a seguinte decisão de primeiro grau:
+    “As questões pertinentes à falta de publicação do despacho de fls. 133 já foram superadas nestes autos, uma vez que houve restituição do prazo para a manifestação do executado (fl. 176), garantindo-se, assim, o respeito ao princípio do contraditório.
+    Embora reconhecida a inexigibilidade do débito descrito na inicial em sentença, o executado descontou da conta corrente de titularidade do exequente o respectivo valor (fl. 106), demonstrando o descumprimento da ordem judicial respectiva, o que certamente causou mais prejuízos ao correntista, que foi surpreendido com a operação.
+    Tal conduta determinou que esta magistrada arbitrasse nova multa, com fulcro no art. 461, § 5º, do CPC, a fim de coibir novas operações indevidas, além da fixação de perdas e danos, pois o exequente não pode suportar os abusos cometidos pela instituição.
+    Portanto, não há de se falar em excesso.
+    Posto isto, julgo improcedentes os embargos” (fl. 281).
+    Os embargos de declaração opostos foram rejeitados (fl. 298).
+    2. No recurso extraordinário, o Agravante afirma que o Colégio Recursal teria contrariado o art. 5º, inc. II, V, X, XXXV, XXXVI, LIV e LV, Constituição da República.
+    Argumenta que “o requerimento para publicação dos atos processuais em nome do patrono constituído não foi atendido e o Banco acabou sendo surpreendido com a aplicação de multa no valor de R$ 4.283,74” (fl. 310).
+    Assevera que “o recorrido pleiteou valor que não lhe é devido e o Banco recorrente já efetuou o pagamento integral da condenação, não havendo qualquer valor a ser complementado” (fl. 312).
+    Alega que “a imposição de astreinte deverá obedecer sempre aos critérios de proporcionalidade e razoabilidade, devendo obstar o enriquecimento sem causa da parte vencedora” (fl. 313).
+    Sustenta que seria “imperiosa a reforma do v. acórdão proferido, a fim de afastar a multa aplicada ao recorrente, face a inexistência de fundamento legal para tanto, bem como o entendimento jurisprudencial pacífico neste sentido” (fl. 315).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência ofensa constitucional direta e incidência das Súmulas n. 282, 283 e 356 do Supremo Tribunal Federal.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. II, V, X, XXXV, XXXVI, LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código de Processo Civil e Lei n. 9.099/1995), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ÔNUS DE PROVA DO AUTOR. AUSÊNCIA DE PREQUESTIONAMENTO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE PROCESSO CIVIL: IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 660.252-AgR/RJ, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, do direito adquirido, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, em regra, seria indireta ou reflexa. Precedentes. II – A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. III – Agravo regimental improvido” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXIBIÇÃO DE DOCUMENTOS. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 663.699-AgR, de minha relatoria, Primeira Turma, DJe 5.3.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
