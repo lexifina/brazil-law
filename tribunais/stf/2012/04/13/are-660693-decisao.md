@@ -1,0 +1,18 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL RECONHECIDA. PENAL. FALTA GRAVE. LAPSO TEMPORAL. INTERRUPÇÃO. PROGRESSÃO DE REGIME. LEI SUPERVENIENTE. NOVATIO LEGIS IN MELLIUS. RETROATIVIDADE. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos:
+    “RECURSO EXTRAORDINÁRIO SOB A SISTEMÁTICA DO ART. 543-B DO CPC. EXECUÇÃO PENAL. PERDA DOS DIAS REMIDOS. ART. 127 DA LEI DE EXECUÇÃO PENAL. SUPERVENIÊNCIA DA LEI Nº 12.433/2011. NATUREZA PENAL EXECUTIVA. RETROATIVIDADE DA NOVATIO LEGIS IN MELLIUS. ART. 5º, XL, DA CONSTITUIÇÃO. DOUTRINA. CANCELAMENTO DA SÚMULA VINCULANTE Nº 9. RECURSO JULGADO PREJUDICADO, SEM PREJUÍZO DA APLICAÇÃO DA ORIENTAÇÃO FIXADA PELA CORTE AOS RECURSOS PENDENTES E FUTUROS.
+    1. A execução penal é regida por normas de caráter processual, administrativo e penal.
+    2. A forma de execução das penas e medidas de segurança, os direitos e obrigações dos internos e as garantias que se lhes devem outorgar, as permissões de saída, a liberdade condicional e o regime penitenciário dos estabelecimentos carcerários, dentre outras, são matérias regidas por regras que pertencem ao Direito Penal (CALDERÓN, Guillermo Oliver. Retroactividad e Irretroactividad de Las Leyes Penales. Santiago: Editorial Juridica de Chile, 2007. p. 192).
+    3. O art. 127 da Lei de Execução Penal, com a redação dada pela Lei nº 12.433/2011, dispõe: “Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar”.
+    4. A novel legislação, que favorece o sentenciado em matéria de perda dos dias de pena remidos, ante o seu inegável caráter penal executivo, deve retroagir para beneficiá-lo, nos termos do art. 5º, XL, da Constituição (“a lei penal não retroagirá, salvo para beneficiar o réu”).
+    5. A falta grave, no regime anterior, gerava a perda de todos os dias remidos, efeito que não mais subsiste, em razão da lex mitior, por isso que se impõe o cancelamento do enunciado sumular vinculante nº 9, verbis: “O disposto no artigo 127 da Lei 7.210/84 foi recebido pela ordem constitucional vigente e não se lhe aplica o limite temporal previsto no caput do artigo 58”.
+    6. Os recursos pendentes e futuros que veiculem a aplicação do art. 127 da Lei de Execução Penal, devem ser julgados sob a regra do art. 543-B do CPC, sendo mister considerar a índole penal da novel redação, de modo a que se decida pela retroatividade da norma estabelecida pela Lei nº 12.433/2011, por força do art. 5º, XL, da Constituição.
+    7. In casu, o Ministério Público pede a exclusão de todos os dias remidos anteriormente ao cometimento da falta grave pelo Recorrido.
+    8. Recurso julgado prejudicado, determinando-se: (i) a baixa ao juízo das execuções, para que decida de acordo com a novatio legis in mellius, conforme o art. 66, I, da Lei nº 7.210/84; (ii) o cancelamento da Súmula Vinculante nº 9, com fulcro no art. 5º da Lei nº 11.417/06.”
+    A questão será submetida à apreciação do Pleno desta Corte, nos autos do RE n. 638.239-RG, Relator o Ministro Luiz Fux.
+    Destarte, DOU PROVIMENTO ao recurso com agravo para desde logo ADMITIR o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução dos autos ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 13 de abril de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
