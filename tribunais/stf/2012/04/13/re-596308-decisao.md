@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado::
+    “PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. REQUISIÇÃO DE PEQUENO VALOR – RPV. FRACIONAMENTO.
+    1. Não cabe a interpretação literal do § 4º do art. 100 da CF (EC 37/2002) – de considerar simplesmente proibida, em qualquer circunstância, a expedição de precatório e requisição de pequeno valor.
+    2. O mencionado dispositivo legal tem apenas o intuito de evitar que, na mesma execução, haja a utilização simultânea de dois sistemas de satisfação do credor exequente.
+    3. É perfeitamente possível, todavia, a expedição de requisição de pequeno valor para fins de pagamento de valores apurados posteriormente, mesmo que o primeiro pagamento tenha sido efetuado por precatório” (fl. 100).
+    Alega a recorrente violação do artigo 100, § 4º, da Constituição Federal, uma vez que “a decisão recorrida deferiu o fracionamento do crédito, permitindo que parte do crédito seja pago mediante precatório e parte por meio de RPV”.
+    Contra-arrazoado (fls. 110 a 116), o recurso extraordinário (fls. 102 a 106) foi admitido (fl. 119).
+    Decido.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário. A matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil, e o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução. Prevê o artigo 323 do Regimento Interno do Supremo Tribunal Federal, na redação da Emenda Regimental nº 21/07, que, quando não for o caso de inadmissibilidade do recurso extraordinário por outra razão, haverá o procedimento para avaliar a existência de repercussão geral na matéria objeto do recurso.
+    Esta Corte, com fundamento na mencionada legislação, quando do julgamento da Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em tela, o recurso extraordinário possui a referida preliminar e o apelo foi interposto contra acórdão publicado em 5/12/07 (fl. 101), quando já era plenamente exigível a demonstração da repercussão geral.
+    Os artigos 543-A, § 3º, do Código de Processo Civil e 323, § 1º, in fine, do RISTF, na redação da Emenda Regimental nº 21/07, prevêem que haverá repercussão geral sempre que o recurso impugnar decisão contrária a súmula ou jurisprudência dominante desta Corte, o que, efetivamente, ocorre no caso dos autos.
+    Com efeito, merece prosperar a irresignação, haja vista que o acórdão recorrido não encontra respaldo na jurisprudência desta Corte, no sentido de que o regime de pagamento, na execução contra a Fazenda Pública, é definido pelo valor global da obrigação. Sobre o tema, anote-se:
+    “1. Execução contra a Fazenda Pública: recurso extraordinário: descabimento: controvérsia relativa às exigências para a inclusão do precatório no orçamento, de natureza infraconstitucional, de exame inviável no RE. 2. Execução contra a Fazenda Pública: fracionamento do valor da execução em parcelas controversa e incontroversa, sem que isso implique em alteração de regime de pagamento, que é definido pelo valor global da obrigação: ausência, no caso, de violação do art. 100, §§ 1º e 4º, da Constituição Federal” (RE nº 484.770, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ 1/9/06).
+    “CONSTITUCIONAL. FRACIONAMENTO DE EXECUÇÃO. REQUISIÇÃO DE PEQUENO VALOR. COMPLEMENTO POSITIVO. IMPOSSIBILIDADE. 1. Esta Corte possui o entendimento de não ser possível o fracionamento da execução. 2. Agravo regimental improvido” (RE nº 501.840/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 8/10/09).
+    Nesse mesmo sentido, as seguintes decisões monocráticas: RE nº 545.320/SC, de minha relatoria, DJe de 3/6/11, e RE nº 595.978/PE, Relator o Ministro Joaquim Barbosa, DJe de 16/12/11.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para vedar o fracionamento da execução e determinar o pagamento do saldo remanescente por meio do regime de precatório.
+    Publique-se.
+    Brasília, 13 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
