@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão, que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “PROCESSUAL PENAL. ‘HABEAS CORPUS’. ROUBO CIRCUNSTANCIADO. PENA DE 17 ANOS DE RECLUSÃO, EM REGIME INICIAL FECHADO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. REVISÃO CRIMINAL. ABSOLVIÇÃO. SURGIMENTO DE NOVA PROVA, NÃO-JUNTADA AOS AUTOS. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA. JUSTIFICAÇÃO. ORDEM DENEGADA.
+    1. O entendimento adotado pelo Tribunal ‘a quo’ não merece reparos uma vez que, transitada em julgado a decisão condenatória para a defesa, o exame de novas provas somente pode ocorrer em sede de revisão criminal, desde que elas tenham sido produzidas mediante ação cautelar de justificação, sob pena de ser afrontada a garantia constitucional do contraditório, o que não ocorreu.
+    2. Ordem denegada.”
+    (HC 125.891/SP, Rel. Min. ARNALDO ESTEVES LIMA – grifei)
+    Busca-se, nesta sede processual, seja “anulada a sentença condenatória da ação penal nº 380/99 da 1ª Vara Criminal da Comarca de Itanhaém/SP”, sustentando-se, para esse efeito, que “consta nos autos do processo crime 380/99 da respectiva vara criminal, que na data de 17 de julho de 1999, o paciente teria praticado, na companhia de outros dois elementos, um roubo triplamente qualificado no art. 157 e seus agravantes do Código Penal, porém isto foi impossível ter acontecido, considerando que, na data de 19 de novembro de 1998, o mesmo paciente foi preso em flagrante delito pela 2ª Delegacia Policial de Boa Viagem – Recife/PE por infração do art. 157 c.c art. 14 II do CP (...)”.
+    O exame dos fundamentos em que se apóia a presente impetração parece descaracterizar, ao menos em juízo de estrita delibação, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 – RTJ 129/1199 – RTJ 136/1221 – RTJ 163/650-651 – RTJ 165/877-878 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela parte impetrante, parece tornar necessária a interpretação do conjunto probatório emergente do processo penal de conhecimento, o que, em princípio, constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198).
+    Sendo assim, sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+    Publique-se.
+    Brasília, 16 de abril de 2012.
+Ministro CELSO DE MELLO
+Relator
