@@ -1,0 +1,20 @@
+Trata-se de habeas corpus impetrado por Hildebrando Evangelista de Brito e outro em favor de Francisco de Assis Vieira Lucena contra conduta omissiva da Relatora do HC 139.341/MT, Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça.
+          O paciente foi denunciado pela prática, em tese, de dois homicídios engendrados na cidade de Cuiabá-MT em 27.12.1991. Consta dos autos que Francisco de Assis Vieira Lucena, por simples acerto de “prestação de serviços”, desferiu tiros de revólver em Dário Luiz Scherner e Pedro César Scherner, vitimando-os instantaneamente.
+          O magistrado de primeiro grau decretou a prisão preventiva em desfavor do paciente no dia 31.12.1991. Sobreveio sentença de pronúncia e a ratificação da constrição cautelar em 16.12.1995. Todavia, a prisão do paciente, foragido do distrito da culpa, foi efetivada somente em 15.10.2008, na municipalidade de Osasco-SP.
+          O Tribunal de Justiça do Estado do Mato Grosso, em sede de habeas corpus, manteve a decisão proferida pelo Juízo de Direito. Irresignada, a defesa impetrou o HC 139.341/MT ao Superior Tribunal de Justiça, que, mediante decisão da lavra da Ministra Maria Thereza de Assis Moura, indeferiu o pedido de tutela emergencial.
+          Argumentam os impetrantes, em síntese, demora no julgamento de mérito do HC 139.341/MT, o qual se encontra concluso à Relatora, com parecer do Ministério Público Federal, desde 14.7.2009. Sustenta ainda a possibilidade de abrandamento do enunciado da Súmula 691/STF e a ilegalidade da prisão preventiva.
+          Requerem a concessão de medida liminar, para fins de expedição do competente alvará de soltura em favor do paciente. No mérito, pugnam pelo deferimento do writ.
+          O alegado constrangimento ilegal ensejador da presente impetração consiste na imposição da prisão cautelar e na demora da prestação jurisdicional no âmbito do Superior Tribunal de Justiça.
+          Relativamente ao segundo tema, é imperativa a prévia solicitação de informações à Relatora do HC 139.341/MT, Ministra Maria Thereza de Assis Moura.
+          Quanto ao primeiro, passo à análise sumária da validade da prisão cautelar.
+          A segregação cautelar decretada e, posteriormente, mantida em desfavor do paciente, ao que me parece nesta análise de cognição sumária, foi fundamentada para assegurar a aplicação da lei penal, já que Francisco de Assis Vieira Lucena, apesar de ter ciência da ação penal instaurada contra si, permaneceu mais de 16 (dezesseis) anos em local incerto e não sabido.
+          Registro, por oportuno, que a 1ª Turma desta Corte Suprema em caso semelhante assentou que “a impetração de habeas corpus no Superior Tribunal de Justiça não confere ao Paciente o direito de aguardar o desfecho da ação em liberdade, especialmente quando se constatam o trânsito em julgado da condenação e a sua fuga do distrito da culpa, assumindo destino desconhecido até a sua prisão” (HC 109.217/SC, rel. Min. Cármen Lúcia, unânime, DJe 20.10.2011).
+          Em outra ocasião, a Colenda Turma destacou que “a análise da segregação cautelar do paciente autoriza o reconhecimento de que existem fundamentos concretos e suficientes para justificar a privação processual da sua liberdade, nos termos do art. 312 do Código de Processo Penal, especialmente em razão da sua evasão do distrito da culpa” (HC 105.532/SC, rel. Min. Dias Toffoli, por maioria, DJe 11.10.2011).
+          Ademais, reconhecer a invalidade da prisão cautelar representar supressão de instância, já que a matéria não foi conhecida pelo colegiado do Superior Tribunal de Justiça.
+          Nesse diapasão, não vislumbro a presença do requisito do fumus boni iuris necessário para concessão da tutela emergencial.
+          Ante o exposto, indefiro a liminar.
+          Solicitem-se, com urgência, informações à Relatora do HC 139.341/MT, Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, acerca das eventuais circunstâncias ensejadoras da demora do julgamento da citada impetração. Após, retornem os autos conclusos.
+          Publique-se.
+          Brasília, 16 de abril de 2012.
+Ministra Rosa Weber
+Relatora
