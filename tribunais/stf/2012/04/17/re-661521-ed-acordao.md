@@ -1,0 +1,779 @@
+Supremo Tribunal Federal
+DJe 25/05/2012
+Inteiro Teor do Acórdão - Página 1 de 17
+
+Ementa e Acórdão
+
+17/04/2012
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 661.521 MATO GROSSO DO
+SUL
+RELATOR
+EMBTE.(S)
+PROC.(A/S)(ES)
+PROC.(A/S)(ES)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: ESTADO DE MATO GROSSO DO SUL
+: PROCURADOR-GERAL DO ESTADO DE MATO
+GROSSO DO SUL
+: ULISSES SCHWARZ VIANA
+: PAULO CESAR GOMES NAVEGA
+: JORGE AUGUSTO BERTIN
+
+EMENTA: EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO.
+ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. PARIDADE.
+AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA REFLEXA. NÃO
+IMPUGNAÇÃO DE TODOS OS DISPOSITIVOS TIDOS COMO
+VIOLADOS. APLICAÇÃO DA SÚMULA Nº 283 DO STF.
+JULGAMENTO “EXTRA PETITA”. ANÁLISE DE MATÉRIA FÁTICOPROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 279 DO STF.
+DESPROVIMENTO DO AGRAVO REGIMENTAL.
+1. Os embargos de declaração opostos objetivando a reforma da
+decisão do Relator devem ser recebidos, por força do princípio da
+fungibilidade, como agravo regimental, que é o recurso cabível.
+(Precedentes: Rcl n. 11.022-ED, Relatora a Ministra Cármen Lúcia, Pleno,
+DJe de 7.4.2011; AI n. 547.827-ED, Relator o Ministro Dias Tofolli, 1ª
+Turma, DJe de 9.3.2011; RE n. 546.525-ED, Relator o Ministro Ellen Gracie,
+2ª Turma, DJe de 5.4.2011, entre outros).
+2. O requisito do prequestionamento é indispensável, por isso que
+inviável a apreciação, em sede de recurso extraordinário, de matéria
+sobre a qual não se pronunciou o Tribunal de origem. A simples oposição
+dos embargos de declaração, sem o efetivo debate acerca da matéria
+versada pelos dispositivos constitucionais apontados como malferidos,
+não supre a falta do requisito do prequestionamento, viabilizador da
+abertura da instância extraordinária. Incidência da Súmula n. 282 do
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947855.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 17
+
+RE 661.521 ED / MS
+Supremo Tribunal Federal, verbis: é inadmissível o recurso extraordinário,
+quando não ventilada na decisão recorrida, a questão federal suscitada.
+3. Os princípios da legalidade, do devido processo legal, da ampla
+defesa e do contraditório, da motivação das decisões judiciais, bem como
+os limites da coisa julgada, quando a verificação de sua ofensa dependa
+do reexame prévio de normas infraconstitucionais, revelam ofensa
+indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a
+abertura da instância extraordinária. Precedentes.
+4. Deveras, o recorrente limitou-se a reafirmar as razões do apelo
+extremo. Por essa razão, o requisito constitucional de admissibilidade
+recursal não restou atendido.
+5. Relativamente à nulidade do julgamento realizado “extra petita”,
+o pedido é inviável em sede de recurso extraordinário. Esta Corte possui
+entendimento de que não se revela cognoscível a insurgência que tem
+como escopo o incursionamento no contexto fático-probatório
+engendrado nos autos, face ao óbice da Súmula nº 279 desta Corte.
+6. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata de julgamento e das
+notas taquigráficas, por maioria de votos, em converter os embargos de
+declaração em agravo regimental e, por unanimidade de votos, em negar
+provimento ao agravo regimental, nos termos do voto do Relator.
+Brasília, 17 de abril de 2012.
+LUIZ FUX – Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947855.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 17
+
+17/04/2012
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 661.521 MATO GROSSO DO
+SUL
+RELATOR
+EMBTE.(S)
+PROC.(A/S)(ES)
+PROC.(A/S)(ES)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. LUIZ FUX
+: ESTADO DE MATO GROSSO DO SUL
+: PROCURADOR-GERAL DO ESTADO DE MATO
+GROSSO DO SUL
+: ULISSES SCHWARZ VIANA
+: PAULO CESAR GOMES NAVEGA
+: JORGE AUGUSTO BERTIN
+RELATÓRIO
+
+O SENHOR MINISTRO LUIZ FUX (RELATOR): Trata-se de embargos de
+declaração opostos pelo ESTADO DO MATO GROSSO DO SUL em face
+de decisão de minha lavra, assim ementada:
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO.
+SERVIDOR PÚBLICO MILITAR INATIVO. PROVENTOS.
+PARIDADE COM OS SERVIDORES DA ATIVA. AUSÊNCIA
+DE PREQUESTIONAMENTO DOS PRECEITOS DA
+CONSTITUIÇÃO TIDOS COMO VIOLADOS. OFENSA AO
+ARTIGO 93, IX, DA CONSTITUIÇÃO FEDERAL. OFENSA
+REFLEXA. NÃO IMPUGNAÇÃO DE TODOS OS
+DISPOSITIVOS. APLICAÇÃO DA SÚMULA 283 DO STF.
+INVIABILIDADE DO RECURSO EXTRAORDINÁRIO.
+1 . O requisito do prequestionamento é indispensável, por
+isso que inviável a apreciação, em sede de recurso
+extraordinário, de matéria sobre a qual não se pronunciou o
+Tribunal de origem.
+2 . A simples oposição dos embargos de declaração, sem o
+efetivo debate acerca da matéria versada pelos dispositivos
+constitucionais apontados como malferidos, não supre a falta
+do requisito do prequestionamento, viabilizador da abertura da
+instância extraordinária. Incidência da Súmula n. 282 do
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947856.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 17
+
+RE 661.521 ED / MS
+Supremo Tribunal Federal, verbis: é inadmissível o recurso
+extraordinário, quando não ventilada na decisão recorrida, a questão
+federal suscitada.
+3. A violação reflexa e oblíqua da Constituição Federal
+decorrente da necessidade de análise de malferimento de
+dispositivo infraconstitucional torna inadmissível o recurso
+extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto,
+Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de
+08/09/10.
+4. Os princípios da legalidade, do devido processo legal,
+da ampla defesa e do contraditório, da motivação das decisões
+judiciais, bem como os limites da coisa julgada, quando a
+verificação de sua ofensa dependa do reexame prévio de
+normas infraconstitucionais, revelam ofensa indireta ou reflexa
+à Constituição Federal, o que, por si só, não desafia a abertura
+da instância extraordinária. Precedentes.
+5. A decisão fundamentada, embora contrária à
+expectativa da parte, não importa em negativa de prestação
+jurisdicional ou ausência de fundamentação.
+6. A ausência de impugnação de todos os fundamentos da
+decisão agravada, atrai a incidência da Súmula 283/STF,
+aplicável ante a máxima hermenêutica ubi eadem ratio, ibi eadem
+legis dispositio: onde existe a mesma razão fundamental,
+prevalece a mesma regra de Direito. Precedentes.
+7. In casu , o recorrido restou assim ementado na parte que
+interessa:
+MANDADO DE SEGURANÇA. ALEGAÇÃO DE
+OCORRÊNCIA DE CONTINÊNCIA FALTA DE IDENTIDADE
+DE CAUSA DE PEDIR REJEITADA PRELIMINAR DE
+DECADÊNCIA INOCORRÊNCIA PRESTAÇÕES DE TRATO
+SUCESSIFOC PAGAMENTO DE PROVENTOS DE INATIVO
+INFERIORES
+AOS
+VENCIMENTOS
+PAGOS
+AOS
+SERVIDORES DA ATIVA VIOLAÇÃO AO ART. 40, § 8º, DA
+CONSTITUIÇÃO FEDERAL E DO DIREITO LÍQUIDO E
+CERTO DO IMPETRANTE.
+8. O acórdão recorrido não divergiu do entendimento
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947856.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 17
+
+RE 661.521 ED / MS
+pacificado nesta Corte.
+9 . Recurso Extraordinário a que se nega seguimento.
+
+Em suas razões recursais, sustenta o embargante que o acórdão do
+Tribunal de origem apresentou nulidade insanável, uma vez que julgou
+“extra petita” e obstou o pleno exercício do contraditório e da ampla
+defesa.
+Afirma que a resolução deste ponto é de elevada importância, pois
+houve a concessão de vantagem ao servidor militar, que não foi objeto do
+pedido na inicial.
+Ao final, requer a reforma da decisão hostilizada com o consequente
+conhecimento e provimento do recurso extraordinário.
+É o relatório.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947856.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 6 de 17
+
+17/04/2012
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 661.521 MATO GROSSO DO
+SUL
+VOTO
+O SENHOR MINISTRO LUIZ FUX (RELATOR): O Supremo Tribunal
+Federal tem conhecido dos embargos de declaração opostos objetivando a
+reforma da decisão do Relator, por força do princípio da fungibilidade,
+como agravo regimental, que é o recurso cabível. Nesse sentido, Rcl n.
+11.022-ED, Relatora a Ministra Cármen Lúcia, Pleno, DJe de 7.4.2011; AI
+n. 547.827-ED, Relator o Ministro Dias Tofolli, 1ª Turma, DJe de 9.3.2011;
+RE n. 546.525-ED, Relator o Ministro Ellen Gracie, 2ª Turma, DJe de
+5.4.2011, entre outros.
+Destarte, converto os embargos de declaração em agravo regimental,
+e passo a apreciá-lo.
+O recurso não merece prosperar.
+Em suma, os fundamentos da decisão agravada restaram assim
+consignados:
+”Trata-se de recurso extraordinário interposto pelo
+ESTADO DE MATO GROSSO DO SUL, com fulcro no art. 102,
+III, “a”, da Constituição Federal, contra acórdão proferido pela
+Terceira Seção Cível do Tribunal de Justiça do Estado de Mato
+Grosso do Sul, nos termos da seguinte ementa (fl. 285):
+MANDADO DE SEGURANÇA. ALEGAÇÃO DE
+OCORRÊNCIA DE CONTINÊNCIA – FALTA DE
+IDENTIDADE DE CAUSA DE PEDIR – REJEITADA –
+PRELIMINAR DE DECADÊNCIA – INOCORRÊNCIA
+PRESTAÇÕES DE TRATO SUCESSIFOC – PAGAMENTO
+DE PROVENTOS DE INATIVO INFERIORES AOS
+VENCIMENTOS PAGOS AOS SERVIDORES DA ATIVA –
+VIOLAÇÃO AO ART. 40, § 8 º, DA CONSTITUIÇÃO
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 7 de 17
+
+RE 661.521 ED / MS
+FEDERAL E DO DIREITO LÍQUIDO E CERTO DO
+IMPETRANTE.
+Não ocorre continência, se não fora apontado
+identidade de causa de pedir, como exige o art. 104 do
+Código de Processo Civil.
+Rejeita-se a alegação de decadência do direito de
+impetração de mandamus, se este tempo objeto prestações
+de trato sucessivo, renovando-se mês a mês o direito à
+impetração.
+Havendo a Administração Pública pago aos inativos
+proventos em valor inferior aos dos vencimentos pagos
+aos servidores da ativa, flagrante é a violação do art. 40, §
+8º, da Constituição Federal, razão por que impõe-se a
+concessão da segurança pleiteada pelo impetrante.
+Versam os autos sobre mandado de segurança, com
+pedido de liminar, impetrado por Paulo Cezar Gomes Navega,
+objetivando a correção de ato de autoridade referente ao
+pagamento de soldo, uma vez que encontra-se na reserva da
+Polícia Militar do Estado, fazendo jus ao mesmo valor
+percebido pelos policiais militares da ativa.
+O tribunal de origem concedeu a segurança sob o
+fundamento de que à Administração Pública cabe observar os
+ditames do artigo 40, § 8º, devendo pagar os proventos de
+policiais ativos e inativos no mesmo patamar.
+Opostos em embargos de declaração (fls. 314 a 329),
+restaram rejeitados (fls. 331 a 339).
+Em sede de recurso extraordinário, o ora recorrente alega
+violação dos artigos 2º, 5º, XXXV, LIV e LV, 22, XXI, 37, X e XIV,
+e 93, IX, da Constituição Federal. Sustenta, em síntese, que deve
+ser anulado o acórdão recorrido pois “a decisão foi extra petita”
+(fl. 350) e ainda que “a legislação estadual não pode dispor
+contrariamente à orientação dada pela legislação federal, sob
+pena de imediata ilegalidade e mediata inconstitucionalidade”
+(fl. 351).
+Foram apresentadas contrarrazões às fls. 427 à 443.
+É o relatório, DECIDO.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 8 de 17
+
+RE 661.521 ED / MS
+A irresignação não prospera.
+Verifica-se, na espécie, que os artigos da Constituição
+Federal que o o recorrente considera violados não foram
+debatidos no acórdão recorrido. Além disso, a simples oposição
+dos embargos de declaração sem o efetivo debate no Tribunal
+de origem, acerca da matéria versada pelos dispositivos
+constitucionais apontados como malferidos, não supre a falta
+do requisito do prequestionamento, viabilizador da abertura da
+instância extraordinária. Incidência da Súmula n. 282 do
+Supremo Tribunal Federal, verbis: É inadmissível o recurso
+extraordinário, quando não ventilada na decisão recorrida, a questão
+federal suscitada. Confiram-se, à guisa de exemplo, os seguintes
+precedentes deste Sodalício, verbis:
+AGRAVO DE INSTRUMENTO - ALEGADA
+VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA
+INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE
+MERA LEGALIDADE - REEXAME DE FATOS E PROVAS
+- IMPOSSIBILIDADE - SÚMULA 279/STF - RECURSO
+IMPROVIDO. - A ausência de efetiva apreciação do
+litígio constitucional, por parte do Tribunal de que
+emanou o acórdão impugnado, não autoriza - ante a falta
+de prequestionamento explícito da controvérsia jurídica
+- a utilização do recurso extraordinário. Precedentes. - A
+situação de ofensa meramente reflexa ao texto
+constitucional, quando ocorrente, não basta, só por si, para
+viabilizar o acesso à via recursal extraordinária.
+Precedentes. - Não cabe recurso extraordinário, quando
+interposto com o objetivo de discutir questões de fato ou
+de examinar matéria de caráter probatório. Precedentes.
+(AI 758.626-AgR, Segunda Turma, Relator o Ministro
+Celso de Mello, DJe 23.03.11).
+AGRAVO REGIMENTAL EM AGRAVO DE
+INSTRUMENTO.
+PENSIONISTAS
+DE
+EXFERROVIÁRIOS
+DA
+FEPASA.
+AUSÊNCIA
+DE
+PREQUESTIONAMENTO. SÚMULAS 282 E 356.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 9 de 17
+
+RE 661.521 ED / MS
+DECRETO
+Nº
+35.530/59.
+MATÉRIA
+INFRACONSTITUCIONAL. SÚMULA 280. REEXAME
+DE FATOS E CLÁUSULAS CONTRATUAIS. SÚMULAS
+279 E 454. AGRAVO IMPROVIDO I - Como tem
+consignado o Tribunal, por meio da Súmula 282, é
+inadmissível o recurso extraordinário se a questão
+constitucional suscitada não tiver sido apreciada no
+acórdão recorrido. II Omissis. III Omissis. IV - Agravo
+regimental improvido. (AI 793.610-AgR, Primeira Turma,
+Relator o Ministro Ricardo Lewandowski, DJe 17.11.10).
+A respeito da aplicação das referidas Súmulas, assim
+discorre Roberto Rosas:
+“A Constituição de 1891, no art. 59, III, a, dizia:
+'quando se questionar sobre a validade de leis ou
+aplicação de tratados e leis federais, e a decisão for contra
+ela'.
+De forma idêntica dispôs a Constituição de 1934, no
+art. 76, III, a: “quando a decisão for contra literal
+disposição de tratado ou lei federal, sobre cuja aplicação se
+haja questionado”.
+Essas Constituições eram mais explícitas a respeito
+do âmbito do recurso extraordinário. Limita-se este às
+questões apreciadas na decisão recorrida. Se foi omissa em
+relação a determinado ponto, a parte deve opor embargos
+declaratórios. Caso não o faça, não poderá invocar essa
+questão não apreciada na decisão recorrida (RTJ 56/70; v.
+Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz
+Pinto, Manual dos Recursos Cíveis, Malheiros Editores,
+1999, p. 234; Carlos Mário Velloso, Temas de Direito
+Público, p. 236).”
+E:
+“Os embargos declaratórios visam a pedir ao juiz ou
+juízes prolatores da decisão que espanquem dúvidas,
+supram omissões ou eliminem contradições. Se esse
+possível ponto omisso não foi aventado, nada há que se
+alegar posteriormente no recurso extraordinário. Falta o
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 10 de 17
+
+RE 661.521 ED / MS
+prequestionamento da matéria.
+A parte não considerou a existência de omissão, por
+isso não opôs os embargos declaratórios no devido tempo,
+por não existir matéria a discutir no recurso extraordinário
+sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+O STF interpretou o teor da Súmula no sentido da
+desnecessidade de nova provocação, se a parte opôs os
+embargos, e o tribunal se recusou a suprir a omissão (RE
+176.626, RTJ 168/305; v. Súmula 211 do STJ).” (ROSAS,
+Roberto, in Direito Sumular, Malheiros).
+Ademais, a jurisprudência desta Corte é uníssona no
+sentido de que a verificação de ofensa aos princípios da
+legalidade, do devido processo legal, da ampla defesa e do
+contraditório, da motivação das decisões judiciais, bem como
+aos limites da coisa julgada, quando dependente do reexame
+prévio de normas infraconstitucionais, revela ofensa indireta ou
+reflexa à Constituição Federal, o que, por si só, não desafia a
+instância extraordinária. Nesse sentido são os seguintes
+julgados:
+Agravo regimental no agravo de instrumento.
+Negativa de prestação jurisdicional. Não ocorrência.
+Princípios do devido processo legal, contraditório e ampla
+defesa. Ofensa reflexa. Legislação infraconstitucional.
+Reexame de fatos e provas. Impossibilidade. Precedentes.
+1. A jurisdição foi prestada mediante decisão
+suficientemente fundamentada. O art. 93, inciso IX, da
+Constituição Federal não exige que o órgão judicante
+manifeste-se sobre todos os argumentos de defesa, mas
+que explicite as razões que entendeu suficientes à
+formação de seu convencimento. 2. A afronta aos
+princípios da legalidade, do devido processo legal, da
+ampla defesa e do contraditório, dos limites da coisa
+julgada e da prestação jurisdicional, quando depende,
+para ser reconhecida como tal, da análise de normas
+infraconstitucionais, configura apenas ofensa indireta ou
+reflexa à Constituição da República, o que não enseja
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 11 de 17
+
+RE 661.521 ED / MS
+reexame da matéria em recurso extraordinário. 3.
+Inadmissível, ademais, a análise de legislação
+infraconstitucional e o reexame dos fatos e das provas dos
+autos em sede extraordinária. Incidência da Súmula n° 279
+desta Corte. 4. Agravo regimental não provido. (AI
+746.001-AgR, Primeira Turma, Relator o Ministro Dias
+Toffoli, Dje de 01.07.11).
+1. RECURSO. Extraordinário. Inadmissibilidade.
+Servidor público. Acidente de trabalho. Aposentadoria.
+Incapacidade permanente. Ausência de prova. Reexame
+inviável. Súmula 279. Decisão mantida. Agravo regimental
+não provido. Não cabe recurso extraordinário que tenha
+por objeto reexame de provas. 2. RECURSO.
+Extraordinário. Inadmissibilidade. Alegação de ofensa ao
+art. 5º, LV, da Constituição Federal. Ofensa constitucional
+indireta. Agravo regimental não provido. Alegações de
+desrespeito aos postulados da legalidade, do devido
+processo legal, do contraditório, dos limites da coisa
+julgada e da prestação jurisdicional, se dependentes de
+reexame prévio de normas inferiores, podem configurar,
+quando muito, situações de ofensa meramente reflexa ao
+texto da Constituição. 3. RECURSO. Agravo. Regimental.
+Jurisprudência assentada sobre a matéria. Caráter
+meramente abusivo. Litigância de má-fé. Imposição de
+multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17,
+VII, do CPC. Quando abusiva a interposição de agravo,
+manifestamente inadmissível ou infundado, deve o
+Tribunal condenar o agravante a pagar multa ao agravado.
+(RE 547.201-AgR, Segunda Turma, Relator o Ministro
+Cezar Peluso, DJe de 11.11.08).
+Quanto à alegada ofensa ao artigo 93, IV, cabe enfatizar
+que não houve negativa de prestação jurisdicional. As
+instâncias ordinárias decidiram a causa com a motivação
+pertinente, nem se diga que faltou à decisão recorrida
+fundamentação, a ponto de violar o artigo 93, inciso IX, da
+Constituição Federal. A decisão fundamentada, embora
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 12 de 17
+
+RE 661.521 ED / MS
+contrária à expectativa da parte, não importa em negativa de
+prestação jurisdicional.
+Por fim, o apelo derradeiro deixou de atacar o único
+dispositivo constitucional que fundamentou o acórdão
+recorrido, qual seja o artigo 40, § 8º, da Constituição Federal,
+atraindo a incidência da Súmula 283/STF, aplicável ante a
+máxima hermenêutica ubi eadem ratio, ibi eadem legis dispositio:
+onde existe a mesma razão fundamental, prevalece a mesma
+regra de Direito. Nesse sentido os seguintes julgados da Corte,
+in verbis:
+EMENTA: AGRAVO REGIMENTAL. AUSÊNCIA DE
+IMPUGNAÇÃO
+ESPECÍFICA
+DE
+TODOS
+OS
+FUNDAMENTOS
+DA
+DECISÃO
+AGRAVADA.
+INVIABILIDADE DO AGRAVO. SÚMULA 283 DO
+SUPREMO TRIBUNAL FEDERAL.
+1. Inviável o agravo de instrumento que não ataca
+todos os fundamentos autônomos da decisão recorrida
+(Súmula 283 do Supremo Tribunal Federal). Agravo não
+provido. (AI 489.247-AgR, Primeira Turma, Relatora a
+Ministra CÁRMEN LÚCIA, DJe 16.02.07).
+AGRAVO DE INSTRUMENTO - AUSÊNCIA DE
+IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE
+ASSENTOU O ATO DECISÓRIO QUESTIONADO RECURSO IMPROVIDO. O RECURSO DE AGRAVO
+DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS
+FUNDAMENTOS DA DECISÃO AGRAVADA. - recurso
+de agravo a que se referem os arts. 545 e 557, § 1º, ambos
+do CPC, deve infirmar todos os fundamentos jurídicos em
+que se assenta a decisão agravada. O descumprimento
+dessa obrigação processual, por parte do recorrente, torna
+inviável o recurso de agravo por ele interposto.
+Precedentes. (AI 825.520-AgR, Segunda Turma, Relator o
+Ministro CELSO DE MELLO, DJe 17.03.11).
+Mais uma vez, é preciosa a lição de Roberto Rosas acerca
+do enunciado da Súmula 283/STF, conforme se depreende da
+seguinte transcrição:
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 13 de 17
+
+RE 661.521 ED / MS
+Pontes de Miranda sustenta opinião favorável à
+admissão do recurso extraordinário com fulcro num dos
+fundamentos quando a decisão assenta em vários
+(Comentários ao Código de Processo Civil, 2a ed., t. XII/278).
+Opiniões contrárias são sustentadas por Lopes da Costa
+(Direito Processual Civil Brasileiro, 2a ed., v. III/418) e José
+Afonso da Silva (Do Recurso Extraordinário, p. 201), que
+inadmitem o recurso nessas condições.
+A Súmula 283 expressa que é inadmissível o recurso
+extraordinário quando a decisão recorrida tem mais de
+um fundamento suficiente e o recurso não abrange todos
+eles (RE 65.072, Rel. Min. Amaral Santos, RTJ 53/371;
+66.768, Rel. Min. Djaci Falcão, RTJ 52/606; 60.854, Rel. Min.
+Barros Monteiro, RTJ 45/855; 63.174, Rel. Min. Evandro
+Lins, RTJ 45/419; 79.083, Rel. Min. Rodrigues de Alckmin,
+RTJ 75/844; 79.623, RTJ 75/849; 84.077, RTJ 80/906). (In
+Direito Sumular, 12ª Ed, São Paulo, Malheiros, 2004)
+Ressalte-se, por sua relevância, que o Tribunal a quo julgou
+a controvérsia acerca da isonomia entre ativos e inativos,
+assegurando a possibilidade do poder público alterar a forma
+de cálculo dos proventos dos servidores, desde que mantida a
+irredutibilidade vencimental. Colhe-se do voto condutor do
+acórdão:
+Quanto ao mérito, entendo não poder a
+Administração Pública pagar proventos a policial militar
+da reserva, em patamar inferior aos da ativa, pois, apesar
+de conferido ao Poder Público a faculdade de proceder à
+alteração da forma de cálculo dos vencimentos e
+proventos de seus servidores, não pode ele inobservar os
+ditames constitucionais decorrentes do § 8º, do art. 40, da
+Carta Magna (…)
+Assim, na minha óptica, há flagrante violação ao
+princípio da irredutibilidade de vencimentos, impondo-se
+portanto, a concessão da media liminar pleiteada (…)
+Destarte, afigura-me patente a violação de direito
+líquido e certo do impetrante, pois, na conformidade das
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 14 de 17
+
+RE 661.521 ED / MS
+disposições contidas no artigo 37, XV, da Constituição
+Federal, há vedação expressa da redutibilidade de
+vencimentos dos ocupantes de cargos e empregos
+públicos, respectivamente.
+Esse entendimento não diverge da jurisprudência
+pacificada no Tribunal. Confira-se:
+“(...)
+II. 'Estabilidade financeira': inexistência de direito
+adquirido de servidores ativos e inativos à permanência
+do regime legal de reajuste de vantagem correspondente.
+1. Pacífico no STF a inexistência de conflito entre a
+chamada 'estabilidade financeira' e o art. 37, XIII, CF, que
+proíbe vinculação entre vencimentos (cf. precedentes
+citados), daí não se segue, contudo, o direito adquirido do
+servidor beneficiário da vantagem à preservação do
+regime legal de atrelamento do valor dela ao vencimento
+do respectivo cargo em comissão: donde a legitimidade e a
+aplicabilidade imediata da lei que desvincule o reajuste
+futuro da vantagem àqueles vencimentos do cargo em
+comissão, submetendo-a aos critérios das revisões gerais
+dos vencimentos do funcionalismo.
+2. Nessa hipótese, o paradigma do inativo
+aposentado com a 'estabilidade financeira', para os efeitos
+do art. 40, § 4º, CF, não é o ocupante atual do respectivo
+cargo em comissão, mas sim o servidor efetivo igualmente
+beneficiário, na ativa, da vantagem decorrente do exercício
+anterior dele.
+3. Dada a garantia de irredutibilidade, da alteração
+do regime legal de cálculo ou reajuste de vencimentos ou
+vantagens funcionais jamais poderá ocorrer a diminuição
+do quanto já percebido conforme o regime anterior, não
+obstante a ausência de direito adquirido à sua
+preservação. (RE 226.462, Tribunal Pleno, Relator o
+Ministro Sepúlveda Pertence, DJ de 25/05/2001).
+“Servidores estaduais: a jurisprudência do Supremo
+Tribunal não reconhece a existência de direito adquirido,
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 15 de 17
+
+RE 661.521 ED / MS
+em razão da estabilidade financeira, a regime
+remuneratório anterior, aos servidores que incorporaram
+vantagens atribuídas a cargos e funções cujo cálculo foi
+desvinculado por legislação posterior, se ditada para o
+futuro e respeitada a garantia da irredutibilidade de
+vencimentos. Precedentes (RE 226.462, Pertence, T. Pleno,
+RTJ 177/973; RREE 222.480 e 223.425, Moreira Alves, T.
+Pleno, 9.12.98; AI 465.090-AgR, 1ª T., Pertence, DJ
+23.04.2004). (RE 526.212-AgR, Primeira Turma, Relator o
+Ministro Sepúlveda Pertence, DJ de 14/09/2007).
+Ex positis, com fundamento no artigo 21, § 1º, do RISTF,
+NEGO SEGUIMENTO ao recurso extraordinário.
+
+Em que pesem os argumentos expendidos nas razões de agravar,
+resta evidenciado que o agravante trouxe os mesmos fundamentos do
+apelo extremo, razão pela qual a decisão agravada deve ser mantida por
+seus próprios fundamentos.
+Quanto ao argumento de que o Tribunal de origem julgou a
+controvérsia “extra petita”, esta Corte possui entendimento de que não se
+revela cognoscível, em sede de Recurso Extraordinário, a insurgência que
+tem como escopo o incursionamento no contexto fático-probatório
+engendrado nos autos, porquanto referida pretensão não se amolda à
+estreita via do apelo extremo, cujo conteúdo restringe-se a
+fundamentação vinculada de discussão eminentemente de direito e,
+portanto, não servil ao exame de questões que demandam o revolvimento
+do arcabouço fático-probatório dos autos, face ao óbice erigido pela
+Súmula 279/STF de seguinte teor, verbis: “Para simples reexame de prova não
+cabe recurso extraordinário”.Sobre o tema:
+“PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO EM
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO.
+PRETENSÃO
+DE
+REFORMA
+DO
+JULGADO:
+IMPOSSIBILIDADE.
+SENTENÇA
+EXTRA
+PETITA.
+NULIDADE. ART. 93, IX, CF. OFENSA REFLEXA. SÚMULA
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Voto - MIN. LUIZ FUX
+
+Inteiro Teor do Acórdão - Página 16 de 17
+
+RE 661.521 ED / MS
+STF 279. 1. Os embargos de declaração não constituem meio
+processual cabível para reforma do julgado, não sendo possível
+atribuir-lhes efeitos infringentes, salvo em situações
+excepcionais. 2. Inexistência de omissão, contradição ou
+obscuridade a sanar. O embargante repisa argumentos já
+devidamente apreciados por esta Turma. 3. Embargos de
+declaração rejeitados” (AI nº 730.266-AgR-ED, Segunda Turma,
+Relatora a Ministra Ellen Gracie, DJe de 07/05/2010).
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO
+ESTADO. INDENIZAÇÃO. IMPOSSIBILIDADE DO REEXAME
+DE PROVAS (SÚMULA 279). JULGAMENTO EXTRA PETITA.
+MATÉRIA
+INFRACONSTITUCIONAL.
+OFENSA
+CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO
+QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do
+valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14,
+inc. II e III, e 17, inc. VII, do Código de Processo Civil. (RE nº
+595.123/AgR, Primeira Turma, DJe de 24/04/2009).
+
+Ex positis, nego provimento ao agravo regimental.
+É como voto.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 1947857.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 17 de 17
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 661.521
+PROCED. : MATO GROSSO DO SUL
+RELATOR : MIN. LUIZ FUX
+EMBTE.(S) : ESTADO DE MATO GROSSO DO SUL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE MATO GROSSO DO SUL
+PROC.(A/S)(ES) : ULISSES SCHWARZ VIANA
+EMBDO.(A/S) : PAULO CESAR GOMES NAVEGA
+ADV.(A/S) : JORGE AUGUSTO BERTIN
+Decisão: Por maioria de votos, a Turma converteu os embargos
+de declaração em agravo regimental, vencido, nessa parte, o Senhor
+Ministro Marco Aurélio. Por unanimidade, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Ausente,
+justificadamente, a Senhora Ministra Cármen Lúcia. Presidência do
+Senhor Ministro Dias Toffoli. 1ª Turma, 17.4.2012.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+Sessão os Senhores Ministros Marco Aurélio, Luiz Fux e Rosa Weber.
+Ausente, justificadamente, a Senhora Ministra Cármen Lúcia.
+Subprocuradora-Geral
+Marques.
+
+da
+
+República,
+
+Drª.
+
+Cláudia
+
+Sampaio
+
+Carmen Lilian Oliveira de Souza
+Coordenadora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 1951555
