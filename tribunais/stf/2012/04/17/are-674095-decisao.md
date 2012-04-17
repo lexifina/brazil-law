@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. TRATAMENTO DE SAÚDE. DEPENDENTE. COBERTURA. DECRETO-LEI ESTADUAL N. 257/1970. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “MANDADO DE SEGURANÇA – Mãe da impetrante era sua beneficiária e, na alteração de legislação, não foi, no prazo legal, inscrita como agregada Desnecessidade – Já tinha o direito adquirido ao tratamento médico (Art. 7º, VI, do Decreto-Lei Estadual 257/70) – Omissão do Instituto na prestação dos serviços médicos elide a decadência de impetração – Recurso improvido” (fl. 144).
+    2. O Agravante alega que teria sido contrariado o art. 5º, inc. LXIX, da Constituição da República.
+    Sustenta, em síntese, que, “para o reconhecimento dos pais como beneficiários do contribuinte, previsto na redação originária do art. 7º, inc. VI, do Dec. - Lei Est. Nº 257/70, não bastava apenas a relação de ascendentes, era imprescindível o preenchimento dos demais requisitos” (fl. 165).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 218-219).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal a quo decidiu a controvérsia com base no Decreto-Lei Estadual n. 257/1970, no conjunto fático-probatório constante dos autos e reconheceu que o atendimento médico fornecido à mãe da Agravada está previsto no art. 7º do mencionado Decreto-Lei.
+    Concluir de forma diversa do que decidido pelo Tribunal de origem demandaria o reexame dessa legislação infraconstitucional (Decreto-Lei n. 257/1970) e do conjunto fático-probatório existente nos autos, inviável em recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REINCLUSÃO DE BENEFICIÁRIO EM PLANO DE SAÚDE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 606.984-AgR, de minha relatoria, Primeira Turma, DJe 11.4.2011, grifei).
+    “DIREITO ADMINISTRATIVO E DO CONSUMIDOR. PLANO DE SAÚDE. TRATAMENTO MÉDICO. NEGATIVA DE COBERTURA. INDENIZAÇÃO POR DANOS MORAIS. ANÁLISE DE FATOS E PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE: SÚMULA STF 279. INEXISTÊNCIA DE OFENSA AOS ARTS. 5º, XXXV, E 93, IX, DA CF/88. 1. A Corte de origem, para concluir pela existência da relação de consumo entre as partes, além de aplicar a legislação referente aos planos de saúde e o Código de Defesa do Consumidor, fundamentou sua decisão no conjunto fático-probatório dos autos, o que atrai, na espécie, o óbice da Súmula STF 279. 2. A jurisprudência desta Corte está sedimentada no sentido de que as alegações de violação a incisos do artigo 5º da Constituição Federal – legalidade, direito adquirido, ato jurídico perfeito, limites da coisa julgada, devido processo legal, contraditório e ampla defesa –, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. 3. O fato de a decisão ser contrária aos interesses da parte não configura negativa de prestação jurisdicional ou ausência de fundamentação. Precedentes. 4. Agravo regimental a que se nega provimento” (ARE 642.062-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 19.8.2011, grifei).
+    No mesmo sentido a seguinte decisão monocrática: Agravo de Instrumento 756.488, de minha relatoria, DJe 25.8.2010.
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
