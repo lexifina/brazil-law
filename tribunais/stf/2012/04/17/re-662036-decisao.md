@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “Mandado de Injunção. Aposentadoria especial para policial militar. Regras dos servidores civis inaplicáveis ao regime previdenciário dos militares. Policiais militares que já usufruem de aposentadoria especial. Decisões anteriores proferidas por este Órgão Especial neste sentido. Ordem denegada” (fl. 75).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LXXI, e 40, § 4º, da mesma Carta, sob o argumento de que, tendo em vista a inexistência de legislação acerca da aposentadoria especial dos militares estaduais, devem ser utilizadas as regras aplicadas aos servidores públicos civis, extraídas do regime geral de previdência social.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 5º, LXXI, da Constituição, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na sua fundamentação. Inadmissível o recurso, nos termos da Súmula 284 do STF.
+    Quanto ao mérito, o aresto impugnado está em consonância com o entendimento firmado pelo Plenário desta Corte e ratificado em sede de repercussão geral, conforme se observa do RE 567.110-RG/AC, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. RECEPÇÃO CONSTITUCIONAL DO ART. 1º, INC. I, DA LEI COMPLEMENTAR N. 51/1985. ADOÇÃO DE REQUISITOS E CRITÉRIOS DIFERENCIADOS PARA A CONCESSÃO DE APOSENTADORIA A SERVIDORES CUJAS ATIVIDADES NÃO SÃO EXERCIDAS EXCLUSIVAMENTE SOB CONDIÇÕES ESPECIAIS QUE PREJUDIQUEM A SAÚDE OU A INTEGRIDADE FÍSICA. 1. Reiteração do posicionamento assentado no julgamento da Ação Direta de Inconstitucionalidade n. 3.817, Relatora a Ministra Cármen Lúcia, da recepção do inc. I do art. 1º da Lei Complementar n. 51/1985 pela Constituição. 2. O Tribunal a quo reconheceu, corretamente, o direito do Recorrido de se aposentar na forma especial prevista na Lei Complementar 51/1985, por terem sido cumpridos todos os requisitos exigidos pela lei. 3. Recurso extraordinário ao qual se nega provimento”.
+    No mesmo sentido, menciono, ainda, os seguintes precedentes: AI 677.351-AgR-ED/SP, de minha relatoria; RE 660.271/SP e AI 731.166/SP, Rel. Min. Cármen Lúcia; AI 684.172/SP, Rel. Min. Marco Aurélio.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
