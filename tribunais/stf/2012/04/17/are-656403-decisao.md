@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 292):
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA – NULIDADE DO ACÓRDÃO REGIONAL POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OJ 115 DA SBDI-1 DO TST, E ART. 896, “C”, DA CLT – JUSTIÇA GRATUITA. SÚMULA 297 DO TST – INÉPCIA DA PETIÇÃO INICIAL. ART. 896, “A” E “C”, DA CLT – PRESCRIÇÃO. PARCELA ASSEGURADA EM LEI. SÚMULA 294 DO TST – DIFERENÇAS SALARIAIS. PROMOÇÕES. ART. 896, “A” E “C”, DA CLT. Nega-se provimento ao Agravo de Instrumento que não logra desconstituir os fundamentos do despacho que denegou seguimento ao Recurso de Revista. Agravo de Instrumento a que se nega provimento.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV, LIV e LV, 37, 93, IX, e 114 da Constituição federal. Sustenta-se a ocorrência de negativa de prestação jurisdicional em face do desprovimento do agravo de instrumento em recurso de revista e a consequente manutenção do acórdão que rejeitou os embargos de declaração em recurso ordinário. Pleiteia-se ao fim o processamento do recurso de revista.
+    É o relatório. Decido.
+    Inexiste a alegada afronta aos arts. 5º, XXXV, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora recorrente.
+    Ademais, ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010, tema 339), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”. Logo, o acórdão recorrido não divergiu dessa orientação.
+    Por fim, quanto à alegada ofensa aos arts. 37 e 114 da Constituição federal, a recorrente não apresenta qualquer fundamentação, o que atrai a aplicação da Súmula 284 desta Corte.
+    Do exposto, conheço do agravo para negar seguimento ao recurso.
+    Publique-se.
+    Brasília, 17 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
