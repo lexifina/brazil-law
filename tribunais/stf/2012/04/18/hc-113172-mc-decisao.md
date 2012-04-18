@@ -1,0 +1,53 @@
+Decisão:
+    Vistos.
+    Habeas corpus preventivo, com pedido de liminar, impetrado pelo advogado Thiago Marin Peres e outros, em favor de Emerson Fernando Tarantine, apontando como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que, monocraticamente, negou seguimento ao HC nº 209.716/SP, impetrado àquela Corte.
+    Sustentam os impetrantes, em síntese, o constrangimento ilegal imposto ao paciente, uma vez que a pena de 2 (dois) anos e 4 (quatro) meses de reclusão a ele aplicada pelo crime de uso de documento falso (art. 304 do Código Penal), permitiria o seu inicio de cumprimento no regime aberto, conforme prescreve o art. 33, § 2º, alínea “c”, do Código Penal. Contudo, pelo juízo processante, foi fixado o regime semiaberto para o início de cumprimento da pena, mantido em sede recursal.
+    Asseveram, ainda, a indisponibilidade de vaga no sistema penitenciário paulista para o início do cumprimento da pena no regime semiaberto. Desta feita, pleiteiam o direito de o paciente “iniciar cumprimento de pena no regime aberto” (fl. 15 da inicial).
+    Ressaltam que o paciente encontra-se “detido em regime fechado, na Cadeia Pública de São Pedro, diante da falta de vagas em Penitenciárias no regime semiaberto” (fl. 16 da inicial).
+    Requerem, liminarmente, a concessão da ordem para que seja o paciente posto em liberdade ou seja-lhe “concedido o direito de iniciar o cumprimento em regime aberto” (fl. 17 da inicial).
+    Examinados os autos, decido.
+    Narram os impetrantes, na inicial, que:
+    “(...)
+    Consta dos autos que no dia 12 de setembro de 2001 o paciente teria feito uso de documento público falso (certificado de registro e licenciamento de veículo) na Rodovia Marechal Rondon, na cidade e comarca de Laranjal Paulista/SP, ocasião em que foi abordado por Policiais Militares que efetuavam patrulhamento de rotina no local, tendo sido posteriormente denunciado como incurso no artigo 304 do Código Penal.
+    O processo tramitou regularmente, tendo sido o paciente condenado pelo Juiz de primeiro grau à pena de 2 anos e 4 meses de reclusão e pagamento de onze dias multa, com a fixação do regime semiaberto para o início do cumprimento de pena.
+    Isto porque, Nobres Ministros, na fase de dosimetria da pena, o Magistrado de Primeira Instância aumentou a pena base, na segunda fase de aferição, em quatro meses de reclusão diante da reincidência genérica constatada, motivo este que ensejou ainda a fixação do regime semiaberto como inicial para cumprimento de pena.
+    Inconformado, apelou o paciente ao E. Tribunal de Justiça do Estado de São Paulo que, por dois votos a um, manteve a condenação do paciente nos exatos termos da sentença monocrática.
+    Opostos embargos de declaração e, posteriormente, embargos infringentes contra o v. Acórdão não unânime, uma vez mais o E. Tribunal de Justiça do Estado de São Paulo rejeitou os recursos do paciente, razão pela qual transitou em julgado a condenação nos exatos termos da sentença monocrática.
+    Conforme se observa pelos documentos em anexo, no dia 10 de maio de 2011 foi expedido competente mandado de prisão no regime semiaberto contra o paciente.
+    Por essa razão, fora impetrado em favor do paciente o ‘Habeas Corpus’ n° 209.716 – SP (2011/0135723- 4), junto ao Egrégio Superior Tribunal de Justiça, eis que a decisão condenatória imposta ao paciente infringiu diretamente o entendimento sumular dos Tribunais Superiores, bem como o princípio constitucional da individualização da pena.
+    O ‘mandamus’ constitucional fora distribuído a 5ª Turma do Superior Tribunal de Justiça, com relatoria do eminente Ministro Jorge Mussi (documentos em anexo), ora autoridade coatora.
+    Após o indeferimento da medida liminar, os impetrantes peticionaram informando o desejo de sustentar oralmente junto ao Superior Tribunal de Justiça, pedido este deferido pelo ilustre Ministro relator.
+    O Ministério Público Federal opinou pela denegação da ordem.
+    Para a surpresa dos impetrantes e do paciente, no dia 28/03/2012, em decisão monocrática, entendeu por bem o Ministro relator, ora autoridade coatora, não conhecer/negar seguimento ao ‘Habeas Corpus’ (...)” (fls. 2 a 4 da inicial - grifos conforme o original).
+    Eis o teor daquela decisão:
+    “Trata-se de ‘habeas corpus’ com pedido liminar impetrado em favor de EMERSON FERNANDO TARANTINE contra acórdão do Tribunal de Justiça do Estado de São Paulo que rejeitou os Embargos Infringentes nos Embargos de Declaração na Apelação Criminal n.º 993.07.076405-8/50001, mantendo a sentença que condenou o paciente à sanção de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, mais multa, pela prática da infração penal capitulada no art. 304, c/c art. 297, ambos do Código Penal.
+    Sustentam os impetrantes a ocorrência de constrangimento ilegal sob o argumento de que a Corte de origem teria mantido o regime semiaberto mesmo tendo sido fixada a pena-base no mínimo legal, infringindo, assim, os enunciados sumulares n. 718 e 719 do STF, e 440 desta Corte Superior de Justiça.
+    Defendem que o paciente faria jus ao modo de execução aberto em razão da quantidade de reprimenda imposta na sentença, nos termos do art. 33, § 2º, alínea c, do Código Penal.
+    Observam que a reincidência não constituiria fator impeditivo a um regime inicial mais brando para o cumprimento da pena, haja vista a dicção da Súmula 269 desta Corte Superior de Justiça.
+    Requereram, liminarmente, a expedição de contramandando de prisão em favor do réu, e, no mérito, pugnaram pela modificação do regime prisional para aberto.
+    Alternativamente, postularam a concessão sumária da ordem para que fosse concedido ao paciente o direito de iniciar o cumprimento da pena em regime aberto, na eventualidade de não existir vaga no modo intermediário, com a confirmação da medida quando do julgamento definitivo do remédio constitucional.
+    A liminar foi indeferida.
+    Informações prestadas.
+    O Ministério Público Federal manifestou-se pela denegação da ordem.
+    É o relatório.
+    Da análise dos autos verifica-se que o paciente foi condenado, em primeiro grau, à reprimenda de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e pagamento de 11 (onze) dias-multa, pela prática da infração penal capitulada no art. 304, c/c art. 297, ambos do Código Penal, porque, ‘no dia 12-9-2001, na rodovia Marechal Rondon, nesta cidade e Comarca, por volta das 19h40, Emerson Fernando Tarantine, qualificado a fls. 52/55, fez uso de documento público (Certificado de Registro e Licenciamento de Veículo nº 4755499223 - fls. 26) falso’ (fls. 13).
+    Inconformada, a defesa interpôs apelação perante o Tribunal de origem, alegando ‘preliminarmente a inépcia da peça acusatória, uma vez que não houve menção ao cometimento do crime inserto no artigo 297 do Código Penal; no mérito, alegou que em momento algum se utilizou de documento falso; invocou a incidência do princípio da insignificância; alegando, por fim, a inexistência de prova suficiente a embasar decreto condenatório’ (fls. 74), à qual, por maioria, foi negado provimento.
+    Opostos embargos de declaração e, na sequência, embargos infringentes pela defesa, foram ambos rejeitados pela Corte ‘a quo’.
+    Da leitura do acórdão objurgado - o da apelação criminal -, verifica-se que a Corte de origem, quando do julgamento do recurso, não analisou a questão relativa à fixação do regime aberto para o início de cumprimento da pena, até porque não requerida nas razões do apelo, pelo que inviável a apreciação dessa matéria diretamente por esta Corte Superior de Justiça, sob pena de incidir-se na indevida supressão de instância, consoante reiterados julgados desta Corte.
+    De se ressaltar que a questão também não foi tratada nos embargos de declaração, nem nos infringentes.
+    Assim, manifesta a incompetência desta Corte Superior para examinar a aventada ilegalidade, já que não há ato de Tribunal sujeito a sua jurisdição.
+    Diante de todo o exposto, com fundamento nos art. 38 da Lei 8.038/90 e 34, XVIII, do RISTJ, nega-se seguimento ao presente habeas corpus” (fls. 1/2 do anexo 21).
+    Essa é a razão pela qual se insurgem os impetrantes neste writ.
+    Como se sabe, o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação demonstrada nos autos representar manifesto constrangimento ilegal, o que não ocorre na hipótese presente.
+    Pelo que se verifica, a decisão do Ministro Jorge Mussi negou seguimento ao referido writ por contrariar o art. 34, inciso XVIII, do Regimento Interno daquela Corte de Justiça. Com efeito, ao decidir a questão, o Relator assentou a impossibilidade de se analisar as questões levadas a discussão - e trazidas no presente writ -, uma vez que não teriam sido objeto de análise das instâncias antecedentes, o que configuraria supressão de instância.
+    À luz desses elementos, entendo não haver o que ser censurado naquela decisão, pois o entendimento ali fixado não divergiu da nossa jurisprudência, firme no sentido de que não pode esta Suprema Corte, em exame per saltum, apreciar questão não submetida ou analisada pelo Superior Tribunal de Justiça, sob pena de supressão de instância (HC nº 111.171/DF, Primeira Turma, de minha relatoria, DJe de 9/4/12).
+     Ademais, por razões óbvias, não tendo as questões trazidas sido analisadas pelo Superior Tribunal de Justiça, sua apreciação, de forma originária, neste ensejo, configuraria, como dito, supressão de instância. Nesse sentido, os precedentes seguintes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    Com essas considerações, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com as peças necessárias à perfeita compreensão da controvérsia, dispenso as informações da autoridade apontada como coatora.
+    Oficie-se, contudo, ao Juízo de Direito da Vara Judicial da Comarca de São Pedro/SP para que preste informações atualizadas acerca da situação prisional do ora paciente.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 18 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
