@@ -1,0 +1,5 @@
+Solução de Consulta Coana nº 1, de 7 de março de 2012
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Artefatos roscados, confeccionados em titânio, dos tipos parafuso cortical osseointegrável, pilar transmucoso ou epitelial e base protética, próprios para serem utilizados na fixação de próteses, classificam-se no código 8108.90.00 da Nomenclatura Comum do Mercosul - NCM.
+DISPOSITIVOS LEGAIS: Regras Gerais para Interpretação do Sistema Harmonizado RGI/SH 1ª (textos das Notas 2 e 3 da Seção XV e da posição 81.08), RGI/SH 6ª (texto da subposição 8108.90) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Camex nº 94, de 08 de dezembro de 2011 e, subsidiariamente, nos esclarecimentos das Notas Explicativas do Sistema Harmonizado de Designação e de Codificação de Mercadorias (NESH), aprovadas pelo Decreto nº 435, de 28 de janeiro de 1992, com seu texto consolidado pela Instrução Normativa RFB nº 807, de 11 de janeiro de 2008.
+[arquivo anexo: SC Coana nº 1-2012.pdf]
