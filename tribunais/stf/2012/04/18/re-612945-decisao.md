@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, que impugna acórdão do Tribunal Regional Federal da 2ª Região a seguir ementado:
+    “AGRAVO INTERNO INTERPOSTO EM FACE DE DECISÃO MONOCRÁTICA. REDISCUSSÃO DO MÉRITO.
+    I - Não cabem maiores controvérsias sobre a questão em lide, pois o assunto já se encontra pacificado.
+    II – Visto que a acumulação de proventos com vencimentos somente é permitida quando se tratar de cargos acumuláveis na atividade. É mister que seja observada a forma permitida pela Constituição Federal, em vigência, manifestada no art. 37, XVI e XVII.
+    III – Tal entendimento já foi consolidado na decisão monocrática ora atacada. É proibida a rediscussão de questão anteriormente julgada de forma definitiva, em razão da aplicação do princípio da coisa julgada.
+    IV – Nego provimento ao Agravo Interno interposto”. (fl. 133)
+    Nas razões recursais, aponta-se, preliminarmente, violação ao art. 5º, XXXV, LIV e LV, da CF/88, ao argumento de que o acórdão recorrido teria deixado de abordar questões relevantes para a compreensão e solução da lide.
+    No mérito, alega-se ofensa aos arts. 5º, XXXVI, e 40, § 6º (com redação anterior à EC 20/98), ambos da CF/88, e 11 da EC 20/98.
+    A recorrente sustenta que seu falecido marido acumulava, na ocasião do óbito, “(...) proventos de sua aposentadoria pelo Ministério do Transporte e vencimentos pelo Ministério da Marinha.” (fl. 172)
+    Afirma que o falecimento do servidor e a consequente concessão das pensões se deram antes da edição da EC 20/98, por esse motivo:
+    “(...) não poderá incidir a vedação do § 10º do artigo 37 da Constituição Federal, visto que à época não existia tal proibição na Carta Magna, além do que a norma não pode retroagir para alcançar as situações já consolidadas sob a égide da norma constitucional anterior (...)”. (fl. 172)
+    Decido.
+    Inicialmente, destaco que, com relação à alegada deficiência de fundamentação do acórdão recorrido, consistente na ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o texto constitucional exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No mérito, a recorrente afirma que, antes da edição da EC 20/98, a Constituição Federal permitia a acumulação de vencimentos com proventos, motivo pelo qual faz jus à percepção das duas pensões deixadas por seu falecido marido, uma referente aos proventos que recebia em virtude de aposentadoria no cargo de artífice de mecânica do Ministério do Trabalho, e outra relativa aos vencimentos que percebia no cargo de Especialista de nível médio do Ministério da Marinha.
+    Registre-se que, ao contrário do afirmado pela recorrente, esta Corte firmou entendimento no sentido de que, mesmo antes da edição da EC 20/98, a acumulação de proventos com vencimento apenas era admitida quando se tratasse de cargos acumuláveis, o que não se verifica no caso em comento.
+    Nesse sentido, confira-se o seguinte precedente:
+    “CONSTITUCIONAL. ADMINISTRATIVO. DUPLA ACUMULAÇÃO DE PROVENTOS. EC 20/98. IMPOSSIBILIDADE. 1. Servidora aposentada que reingressou no serviço público, acumulando proventos com vencimentos até a sua aposentadoria, quando passou a receber dois proventos. 2. Conforme assentado pelo Plenário no julgamento do RE 163.204, mesmo antes da citada emenda constitucional, já era proibida a acumulação de cargos públicos. Pouco importava se o servidor estava na ativa ou aposentado nesses cargos, salvo as exceções previstas na própria Constituição. 3. Entendimento que se tornou expresso com a Emenda Constitucional 20/98, que preservou a situação daqueles servidores que retornaram ao serviço público antes da sua promulgação, nos termos do art. 11. 4. A pretensão ora deduzida, dupla acumulação de proventos, foi expressamente vedada no citado art. 11, além de não ter sido aceita pela jurisprudência desta Corte, sob a égide da CF/88. 5. Recurso extraordinário conhecido e improvido”. (RE 463.028, Rel. Min. Ellen Gracie, Segunda Turma, DJ 10.3.2006)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 18 de abril de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
