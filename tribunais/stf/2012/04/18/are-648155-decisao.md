@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna decisão da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro que indeferiu o pagamento do auxílio invalidez ao recorrente, ao fundamento de que ele não comprovou a necessidade de cuidados permanentes de enfermagem.
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta a repercussão geral da matéria deduzida no recurso. No mérito, aponta violação aos artigos 5º, II; 37, caput; e 93, IX do texto constitucional.
+    O recorrente sustenta, em síntese, a nulidade da decisão recorrida, por ausência de fundamentação. Ademais, defende violação aos princípios da legalidade, do devido processo legal, do contraditório e da ampla defesa. Além disso, aduz que comprovou a necessidade de cuidados permanentes de enfermagem.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ademais, ressalto que é firme a jurisprudência deste Tribunal no sentido de que suposta ofensa às garantias constitucionais do contraditório, da ampla defesa e do devido processo legal (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Confira-se o AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Além disso, saliento que esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Enunciado 636 da Súmula de Jurisprudência do STF).
+    Ainda que assim não fosse, não assistiria razão ao recorrente, uma vez que o Tribunal de origem decidiu a causa com fundamento nos fatos e provas dos autos, conforme trecho do voto:
+    “No caso dos autos, não restou comprovada a necessidade por parte do Autor de cuidados permanentes de enfermagem, tendo o perito respondido ao quesito nº 16 formulado pelo autor – fl 134 ‘o Autor necessita de assistência permanente de enfermagem?’ da seguinte forma: ‘Não de enfermagem, porém de ortopedista, fisioterapeuta, cardiologista, psicólogo, psiquiatra e esporadicamente, de enfermagem para auxiliar aos médicos a realizarem procedimento’.
+    Note-se que, conforme esclarece o expert, os cuidados de enfermagem no caso concreto são esporádicos e não permanentes como prescreve a lei. É de se esclarecer que a intenção do legislador foi de proteger aqueles que efetivamente estivessem incapacitados para a vida independente, necessitando de auxílio para os atos da vida civil, o que não é o caso do autor”.
+    Dessa forma, para se entender de forma diversa, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada no âmbito do recurso extraordinário, conforme disposto no Enunciado 279 da Súmula desta Corte.
+    Não há, pois, o que prover quanto às alegações da agravante.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 18 de abril de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
