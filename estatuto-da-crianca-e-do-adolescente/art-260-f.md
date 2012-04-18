@@ -1,0 +1,1 @@
+Art. 260-F. Os documentos a que se referem os arts. 260-D e 260-E devem ser mantidos pelo contribuinte por um prazo de 5 (cinco) anos para fins de comprovação da dedução perante a Receita Federal do Brasil.
