@@ -1,0 +1,18 @@
+Provido o agravo à fl. 372, passo à análise do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão que entendeu ser devida a averbação, para fins previdenciários, do tempo de serviço prestado em regime pró-labore por professora contratada pelo Estado de Goiás. Transcrevo, a seguir, a ementa da decisão proferida pelo Tribunal a quo:
+    “APELAÇÃO CÍVEL. SERVIDOR PÚBLICO. SERVIÇOS PRESTADOS COMO PRÓ-LABORE. CONTAGEM E AVERBAÇÃO DO TEMPO DE SERVIÇO. COMPROVAÇÃO DO TRABALHO EXECUTADO E RESPECTIVA CONTRIBUIÇÃO PREVIDENCIÁRIA. PLAUSIBILIDADE DO DIREITO. SENTENÇA REFORMADA. 1 - É de se declarar o direito da professora à averbação do tempo de serviço prestado ao Estado, a título de pró-labore, anteriormente concedida e tornada sem efeito por novo ato da Administração Pública, sob o fundamento de afronta ao art. 37, II, CF, quando comprovadamente efetuou o trabalho no tempo apontado e recolheu a contribuição previdenciária correspondente ao período trabalhado, não havendo, assim, falar em ofensa ao texto constitucional. 2 - Não permitir a averbação caracteriza a ratificação de ato ilícito e contrário aos ditames constitucionais, praticado pelo Estado de Goiás, que estaria dele se beneficiando. APELAÇÃO CONHECIDA E PROVIDA” (fl. 261).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 37, II, e 206, V, da mesma Carta, ao argumento de ser vedada a atribuição de efeitos previdenciários a contrato nulo.
+    Em contrarrazões, a recorrida sustentou que a sua contratação foi realizada em caráter temporário, nos termos do art. 37, IX, da Lei Maior.
+    A Procuradoria Geral da República manifestou-se pelo desprovimento do recurso.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, observo que o art. 206, V, da Constituição não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, para a verificação da procedência do apelo extremo, sobretudo no que concerne à alegada nulidade do contrato, faz-se necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF. Nesse sentido, transcrevo as ementas dos seguintes julgados desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. AVERBAÇÃO DO TEMPO DE SERVIÇO. NECESSIDADE DO REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 652.386-AgR/GO, Rel. Min. Cármen Lúcia).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONTRATO PRO-LABORE. TEMPO DE SERVIÇO. AVERBAÇÃO. LEIS ESTADUAIS NºS. 13.664/2000 E 13.909/2001. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE”
+    (...)” (ARE 648.708-AgR/GO, Rel. Min. Luiz Fux).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: ARE 653.394-AgR/GO, Rel. Min. Cármen Lúcia; AI 830.846-AgR/GO, Rel. Min. Luiz Fux; AI 731.266/GO e ARE 641.130/GO, Rel. Min. Gilmar Mendes; AI 721.272/GO, Rel. Min. Ellen Gracie.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 19 de abril de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
