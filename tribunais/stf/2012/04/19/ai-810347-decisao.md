@@ -1,0 +1,21 @@
+DECISÃO:
+    Vistos.
+    Município de Santos interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, 40, 149, 194 e 195, § 5°, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Reexame necessário – Valor de Alçada – Não conhecimento.
+    Prescrição do fundo de direito – Obrigação de trato sucessivo – Prescrição das prestações anteriores a cinco anos da propositura da ação, e não do fundo de direito – Súmula nº 85 do C. Superior Tribunal de Justiça -Preliminar afastada.
+    Ação ordinária – Pensão – Desconto mensal de 3% para custeio da assistência médica – Inadmissibilidade – Desconto instituído após o ingresso dos autores no serviço público - Restituição devida desde a concessão da tutela antecipada – Recursos desprovidos”.
+    Decido.
+    Não merece prosperar a irresignação.
+    No que se refere aos artigos 2° e 195, § 5°, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Do mesmo modo, não merece êxito a alegação quanto à ilegitimidade passiva, haja vista a ausência de indicação, nas razões do recurso extraordinário, dos dispositivos constitucionais que, porventura, teriam sido violados pelo acórdão recorrido, além da inexistência de prequestionamento da referida matéria. Nesse sentido:
+    “AGRAVO REGIMENTAL. FALTA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL TIDO POR VIOLADO. Não se conhece de recurso extraordinário no qual não se aponta o dispositivo constitucional tido por violado. Agravo regimental a que se nega provimento” (AI nº 603.864/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/2/07).
+    Ademais, o Pleno desta Corte, ao apreciar o RE n° 573.540/MG, Relator o Ministro Gilmar Mendes, DJe de 11/6/10, cuja repercussão geral havia sido reconhecida, decidiu que falece aos Estados-membros competência para a criação de contribuição compulsória ou de qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores. Anote-se a ementa do julgado:
+    “EMENTA: CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO. I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança. II - O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade. III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição. IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão "regime previdenciário" não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos”.
+    No mesmo sentido, as seguintes decisões monocráticas: AI n° 762.337/SP, Relator o Ministro Ricardo Lewandowski, DJe de 3/9/10 e AI n° 739.088/SP, Relator o Ministro Ayres Britto, DJe de 14/9/10.
+    Diante do exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
