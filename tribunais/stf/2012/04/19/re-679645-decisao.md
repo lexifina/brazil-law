@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EMPREGADO PÚBLICO. PROVENTOS DE APOSENTADORIA CUMULADOS COM VENCIMENTO: IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal Regional Federal da 2ª Região, que decidiu:
+    “PROVENTOS COM VENCIMENTOS. EMPREGADA PÚBLICA DE SOCIEDADE DE ECONOMIA MISTA APOSENTADA. POSTERIOR CARGO PÚBLICO NA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. CARGOS/EMPREGOS INACUMULÁVEIS NA ATIVIDADE. IMPOSSIBILIDADE. I – A acumulação de cargos públicos, em regra, é proibida pela Constituição da República Federativa do Brasil, que permite como exceção a possibilidade de acumular, desde que haja compatibilidade de horários: a) dois cargos de professor; b) um cargo de professor com outro, técnico ou científico; c) dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas (artigo 37, XVI). II – Os mesmos preceitos proibitivos, referente à acumulação de cargos, empregos ou funções públicas, previstos no inciso XVI do artigo 37 da Constituição da República abrangem as autarquias, as fundações, as empresas públicas, as sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público (artigo 37, XVII, CRFB/88). III – A proibição de acumular cargos públicos na atividade, prevista na Constituição da República, é automaticamente transferida para a inatividade, razão pela qual torna-se impossível a acumulação de uma aposentadoria decorrente dos serviços prestados a uma sociedade de economia mista e os vencimentos em virtude de aprovação em concurso público. IV – Remessa necessária e apelação providas” (fl. 278).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado § 10 do art. 37 da Constituição da República.
+    Argumenta que:
+    “Desde a edição da Emenda Constitucional n. 20/98, que acrescentou o § 10 do art. 37 da Carta Magna, não há como se sustentar, ‘data maxima venia’, qualquer argumento no sentido da vedação ao reingresso no serviço público de ex-empregados que se aposentaram de sociedades de economia mista e hoje recebem proventos pelo regime geral de previdência social.
+    (...)
+    A teor da norma transcrita [§ 10 do art. 37 da Constituição da República], os vencimentos pagos em razão do exercício de cargo público na Agência Nacional de Saúde Suplementar (autarquia federal) não poderiam ser cumulados com proventos de aposentadoria, nas hipóteses – e somente nessas hipóteses – de a aposentadoria ser decorrente dos regimes do art. 40 ou dos arts. 42 e 142 da Constituição Federal” (fls. 312-313).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    O Desembargador Federal Relator do caso no Tribunal Regional Federal da 2ª Região afirmou:
+    “A acumulação de cargos públicos, em regra, é proibida pela Constituição da República Federativa do Brasil, que permite como exceção a possibilidade de acumular, desde que haja compatibilidade de horários: a) dois cargos de professor; b) um cargo de professor com outro, técnico ou científico; c) dois cargos ou empregos privativos de profissionais de saúde, com profissões regulamentadas (artigo 37, XVI).
+    Os mesmos preceitos foram estendidos aos empregos e funções, abrangendo, desta forma, as autarquias, as fundações, as empresas públicas, as sociedades de economia mista, suas subsidiárias, e sociedades controladas, direta ou indiretamente, pelo poder público (artigo 37, XVII, CRFB/88).
+    É de ser ver, ainda, que tais impedimentos são transferidos para a aposentadoria, ou seja, somente será possível acumular os mesmos cargos na inatividade quando houver permissão para o acúmulo na atividade. Igualmente, são proibidas a possibilidade de acúmulo de proventos e vencimentos decorrente de cargos, empregos ou funções inacumuláveis na atividade” (fls. 259-260).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou a vedação de acumulação de proventos com vencimentos também para os casos de aposentadoria de empregado de empresa pública ou sociedade de economia mista.
+    Nesse sentido:
+    “Sociedade controlada pelo Poder Público. Acumulação de cargos públicos: vedação: CF, art. 37, XVII. O art. 37, XVII, da Constituição Federal assimila às sociedades de economia mista – para o efeito da vedação de acumulações – às ‘controladas, direta ou indiretamente, pelo poder público’, independentemente de terem sido ‘criadas por lei’. Precedente: RMS 24.249, 1ª T., 14.9.2004, Eros Grau, DJ 3.6.2005” (RE 228.923-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 19.5.2006).
+    Nada há a prover quanto às alegações da Recorrente.
+    4. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
