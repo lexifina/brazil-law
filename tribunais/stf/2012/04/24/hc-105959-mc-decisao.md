@@ -1,0 +1,30 @@
+DECISÃO
+INTERCEPTAÇÃO TELEFÔNICA – PRAZO – PRONUNCIAMENTO DO PLENÁRIO – LIMINAR INDEFERIDA.
+HABEAS CORPUS – APRECIAÇÃO – PERSISTÊNCIA DO INTERESSE – MANIFESTAÇÃO DOS IMPETRANTES.
+    1. A Assessoria prestou as seguintes informações:
+    Impugna-se decisão proferida, em 19 de dezembro de 2006, pelo Ministro Cezar Peluso no Inquérito nº 2.424/RJ, que implicou a prorrogação do prazo para a realização de escutas telefônicas anteriormente autorizadas, nestes termos:
+    [...]
+    2. Considerando as intuitivas razões nelas expostas, designadamente a superveniência do chamado recesso forense desta Corte, que impedirá, na prática, prorrogação ulterior do prazo das diligências já determinadas e imprescindíveis à apuração em curso, prorrogo o prazo das interceptações autorizadas, até 1º de fevereiro do ano vindouro, quando deverão ser apresentados novos relatórios policiais. Expeçam-se os ofícios necessários.
+    Em 2 de fevereiro de 2007, nova prorrogação foi autorizada pelo relator:
+    [...]
+    2. Considerando seus termos, em si bastantes para justificar a prorrogação do prazo e a realização de diligências complementares, necessárias à apuração dos fatos, defiro: a) a adoção dos meios técnicos necessários para a interceptação das comunicações em sistema de informática e telemática, inclusive VELOX e MSN, de voz e imagem, dados e sinais que transitem pelas linhas telefônicas ali discriminadas; b) interceptação das comunicações telefônicas das pessoas relacionadas no item nº 6 da mesma Petição, bem como das novas linhas indicadas no mesmo sítio; c) suspensão da interceptação dos telefones do alvo nominado no item nº 7; d) prorrogação do prazo das diligências, nos termos já enunciados, bem como prosseguimento das medidas já autorizadas, tudo nos termos do requerido no item nº 8; e) advertência às operadoras sobre a necessidade de apresentação dos dados cadastrais e estações de rádio-base (ERB’s, com respectivo extrato de antenas) dos telefones de interesse da investigação; f) a aproximação dos agentes policiais a determinados elos frágeis do grupo, os quais estão sendo identificados, segundo os princípios da oportunidade e da proporcionalidade, com as cautelas já determinadas.
+    [...].
+    Neste habeas, os impetrantes sustentam ausência de fundamentação da decisão em que se deferiu, de modo alegadamente abusivo, a prorrogação da escuta telefônica por mais de 44 dias consecutivos, violando o disposto no artigo 5º da Lei nº 9.296/96. Dizem da inadequação do Verbete nº 606 da Súmula do Supremo, pois o vício processual arguido não pode ser apreciado por instância judicial inferior.
+    Argumentam que a apontada nulidade não foi submetida ao exame do Plenário do Supremo na apreciação do Inquérito nº 2.424/RJ, em que recebida, de forma parcial, a denúncia oferecida pelo Ministério Público Federal. Transcrevendo trecho do Informativo nº 529 deste Tribunal, mediante o qual se noticiou o mencionado julgamento, diz da ilegalidade das sucessivas prorrogações das escutas telefônicas, pois realizadas antes de iniciado o recesso forense.
+    Requerem o implemento de medida acauteladora para sustar o andamento das Ações Penais nº 2007.51.01.802985-5 (Operação Furacão I) e 2007.51.01.804865-5 (Operação Furacão II), que tramitam na 6ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro, até o exame final deste habeas. No mérito, pedem a declaração de nulidade das prorrogações das escutas telefônicas determinadas pelo Ministro Cezar Peluso no Inquérito nº 2.424/RJ, o desentranhamento das provas derivadas das referidas decisões bem como a exclusão desses elementos probatórios das denúncias oferecidas.
+    O habeas foi concluso para exame do pedido liminar.
+    Prestados esclarecimentos pela Assessoria sobre a impetração, Vossa Excelência, em 6 de novembro de 2011, despachou solicitando informações à autoridade apontada como coatora. Conforme certidão expedida pela Secretaria Judiciária, não houve manifestação.
+    Peticionaram os impetrantes, em 17 de maio de 2011, buscando a análise do pedido de medida acauteladora e a solicitação de novas informações. Por equívoco, à época, o pleito não foi submetido à apreciação de Vossa Excelência.
+    Ante o quadro, protocolam petição noticiando a superveniência de sentença condenatória na Ação Penal nº 2007.51.01.802985-5 (Operação Furacão I), em que determinada a prisão de diversos acusados. Ponderam ser iminente a prolação de sentença também na Ação Penal nº 2007.51.01.804865-5 (Operação Furacão II), na qual poderá vir à balha a custódia dos pacientes. Requerem, ao final, o deferimento de liminar para suspender os efeitos da mencionada sentença condenatória e o curso da ação penal referente à Operação Furacão II. Pugnam por outra solicitação de informações à autoridade apontada como coatora.
+    O habeas encontra-se concluso para exame de pedido de concessão de medida acauteladora.
+    2. O Plenário, quando do recebimento da denúncia, veio a placitar as sucessivas prorrogações do prazo das interceptações telefônicas. Na oportunidade, fiquei vencido, tendo prevalecido a óptica que foi resumida no item 5 da ementa do acórdão relativo ao julgamento:
+    [...]
+    5. PROVA. Criminal. Interceptação telefônica. Prazo legal de autorização. Prorrogações sucessivas. Admissibilidade. Fatos complexos e graves. Necessidade de investigação diferenciada e contínua. Motivações diversas. Ofensa ao art. 5º, caput, da Lei nº 9.296/96. Não ocorrência. Preliminar rejeitada. Voto vencido. É lícita a prorrogação do prazo legal de autorização para interceptação telefônica, ainda que de modo sucessivo, quando o fato seja complexo e, como tal, exija investigação diferenciada e contínua.
+    [...]
+    3. Indefiro a liminar pleiteada.
+    4. Digam os impetrantes, ante o pronunciamento do Plenário, sobre a adequação deste habeas e o interesse em vê-lo apreciado.
+    5. Sendo positiva a manifestação, colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 24 de abril de 2012, às 11h10.
+Ministro MARCO AURÉLIO
+Relator
