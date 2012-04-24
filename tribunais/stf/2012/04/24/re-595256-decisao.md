@@ -1,0 +1,10 @@
+DECISÃO
+COMPETÊNCIA – RESPONSABILIDADE DE PREFEITO – VERBA DECORRENTE DE CONVÊNIO COM A UNIÃO – ATUAÇÃO DA JUSTIÇA FEDERAL – PRECEDENTES – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. Na interposição deste recurso foram observados os pressupostos gerais de recorribilidade.
+    A matéria em debate já foi objeto de exame pelo Plenário no julgamento do Recurso Extraordinário nº 196.982-2, relatado pelo Ministro Néri da Silveira. Na ocasião entendeu o Colegiado Maior que a competência para o julgamento de crime que envolva desvio de verbas repassadas pela União é da Justiça Federal. Eis a síntese do julgado:
+    Recurso extraordinário. 2. Ação penal. Crime de peculato, em face de desvio, no âmbito estadual, de dotações provenientes do orçamento da União Federal, mediante convênio, e destinadas ao Sistema Único de Saúde - SUS. 3. A competência originária para o processo e julgamento de crime resultante de desvio, em Repartição estadual, de recursos oriundos do Sistema Único de Saúde - SUS, é da Justiça Federal, a teor do art. 109, IV, da Constituição. 4. Além do interesse inequívoco da União Federal, na espécie, em se cogitando de recursos repassados ao Estado, os crimes, no caso, são também em detrimento de serviços federais, pois a estes incumbe não só a distribuição dos recursos, mas ainda a supervisão de sua regular aplicação, inclusive com auditorias no plano dos Estados. 5. Constituição Federal de 1988, arts. 198, parágrafo único, e 71, e Lei Federal nº 8080, de 19.09.1990, arts. 4º, 31, 32, § 2º, 33 e § 4º. 6. Recurso extraordinário conhecido e provido, para reconhecer a competência de Tribunal Regional Federal da 4ª Região, pelo envolvimento de ex-Secretário estadual de Saúde (Recurso Extraordinário nº 196.982-2/PR, relatado pelo Ministro Néri da Silveira, com aresto veiculado no Diário da Justiça de 27 de junho de 1997).
+    2. Destarte, tendo em vista o precedente mencionado, nego seguimento ao extraordinário.
+    3. Publique-se.
+Brasília, 24 de abril de 2012.
+Ministro MARCO AURÉLIO
+Relator
