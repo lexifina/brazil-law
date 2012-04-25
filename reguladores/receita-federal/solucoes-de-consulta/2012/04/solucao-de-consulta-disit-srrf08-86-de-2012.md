@@ -1,0 +1,11 @@
+Solução de Consulta Disit/SRRF08 nº 86, de 26 de março de 2012
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+COFINS-IMPORTAÇÃO. ALUGUEL. NÃO INCIDÊNCIA. Não há incidência da Cofins-Importação sobre o pagamento efetuado à pessoa física ou jurídica residente ou domiciliada no exterior pelo aluguel de servidores em datacenter situados também no exterior. A contribuição incide sobre a importação de produtos estrangeiros ou serviços, não alcançando, portanto, as remessas efetuadas como contraprestação pelo aluguel de equipamentos.
+SERVIÇOS EXECUTADOS NO EXTERIOR CUJO RESULTADO NÃO SE VERIFIQUE NO PAÍS. Não há incidência da Cofins-Importação sobre o pagamento efetuado à pessoa física ou jurídica residente ou domiciliada no exterior pela prestação de serviços provenientes e executados no exterior, cujo resultado não se verifique no País. Desta forma, não há incidência da contribuição sobre os serviços prestados por residentes ou domiciliados no exterior destinados a assegurar o bom funcionamento dos servidores a que se refere o tópico acima.
+Dispositivos Legais: Lei nº 10.865, 2004, art.1º, caput e parágrafo 1º.
+Assunto: Contribuição para o PIS/Pasep
+CONTRIBUIÇÃO PARA O PIS/PASEP-IMPORTAÇÃO. ALUGUEL. NÃO INCIDÊNCIA. Não há incidência da Contribuição para o PIS/Pasep-Importação sobre o pagamento efetuado à pessoa física ou jurídica residente ou domiciliada no exterior pelo aluguel de servidores em datacenter situados também no exterior. A contribuição incide sobre a importação de produtos estrangeiros ou serviços, não alcançando, portanto, as remessas efetuadas como contra-prestação pelo aluguel de equipamentos.
+SERVIÇOS EXECUTADOS NO EXTERIOR CUJO RESULTA- DO NÃO SE VERIFIQUE NO PAÍS. Não há incidência da Contribuição para o PIS/Pasep-Importação sobre o pagamento efetuado à pessoa física ou jurídica residente ou domiciliada no exterior pela prestação de serviços provenientes e executados no exterior, cujo resultado não se verifique no País. Desta forma, não há incidência da contribuição sobre os serviços destinados a assegurar o bom funcionamento dos servidores a que se refere o tópico acima.
+Dispositivos Legais: Lei nº 10.865, 2004, art.1º, caput e parágrafo 1º.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 86-2012.pdf]
