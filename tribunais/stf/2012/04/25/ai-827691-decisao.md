@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Rafael Campos das Dores interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, caput; 37, caput; 40, 93, IX; 149, § 1º, e 165 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “EMENTA: SERVIDOR PÚBLICO - CONTRIBUIÇÃO DESTINADA À ASSISTÊNCIA MÉDICA - PERCENTUAL DE 3,2% - COMPULSORIEDADE - NATUREZA JURÍDICA DE PLANO DE SAÚDE - PARALISAÇÃO DA PRESTAÇÃO DOS SERVIÇOS MÉDICOS E HOSPITALARES - NÃO RESTITUIÇÃO DOS VALORES PAGOS. A contribuição instituída pela lei Complementar nº 64/02 para custeio da saúde nada mais é que um plano de saúde compulsório, que pode deixar de ser pago pelo servidor, pois a compulsoriedade não tem fundamento constitucional, após a alteração do art. 149, § 1°, da Constituição Federal, sendo vedado ao Estado obrigar o servidor a aceitá-lo, visto que tem toda liberdade de escolher seu plano de saúde, público ou privado. A repetição das contribuições pagas não é viável, visto que, no período em que houve pagamento, havia efetiva prestação do serviço de saúde”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que os acórdãos proferidos pelo Tribunal de origem não cuidaram dos artigos 5º, caput; 37, caput; 93, IX; e 165, apontados como violados. Ressalto que devido à ausência, nos presentes autos, de cópia da petição dos embargos declaratórios, não é possível aferir, para fins de prequestionamento, se as referidas normas foram objetos dos embargos declaratórios opostos pelo ora agravante.
+    Ademais, no tocante à controvérsia referente à restituição dos valores descontados compulsoriamente a título de contribuição declarada inconstitucional, esta Corte, em situação análoga, firmou entendimento no sentido de que a referida discussão paira no âmbito infraconstitucional, inexistindo repercussão geral de tal matéria. Nesse sentido, anote-se:
+    “RECURSO. Extraordinário. Inadmissibilidade. Contribuição previdenciária declarada inconstitucional. Valores descontados compulsoriamente. Restituição. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o direito de servidores públicos estaduais à restituição de valores descontados compulsoriamente a título de contribuição previdenciária declarada inconstitucional, versa sobre tema infraconstitucional” (RE n° 633.329/RS-RG, Relator o Ministro Cezar Peluso, DJe de 31/8/11)”.
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. INSTITUIÇÃO PELOS ESTADOS DE CONTRIBUIÇÃO COMPULSÓRIA DESTINADA AO CUSTEIO DOS SERVIÇOS DE SAÚDE PRESTADOS AOS SEUS SERVIDORES. INCONSTITUCIONALIDADE. POSSIBILIDADE DE REPETIÇÃO DO INDÉBITO. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – Falece aos Estados-membros competência para criar contribuição compulsória destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores. Precedentes. II – A controvérsia atinente ao direito de servidores públicos estaduais à restituição de valores descontados compulsoriamente a título de contribuição declarada inconstitucional possui natureza infraconstitucional. III – Agravo regimental improvido” (RE n° 631.482/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 25/4/12).
+    Diante do exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 25 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
