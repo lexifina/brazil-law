@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 727):
+    “AÇÃO CIVIL AMBIENTAL. - CERCEAMENTO DE DEFESA – COMPLEMENTAÇÃO DE PERÍCIA – DESNECESSIDADE – NÃO CONFIGURAÇÃO – Ao Juiz cabe avaliar a necessidade e pertinência das provas requeridas, cabendo-lhe indeferir aquelas reputadas desnecessárias ou protelatórias. AÇÃO CIVIL PÚBLICA AMBIENTAL – REPRESA DE GUARAPIRANGA – CONSTRUÇÃO DE CLUBE DE RECREIO EM SUAS MARGENS – RETIRADA DE VEGETAÇÃO RASTEIRA – MOVIMENTAÇÃO DE TERRA – IMPERMEABILIZAÇÃO DO SOLO – FALTA DE APROVAÇÃO DAS AUTORIDADES AMBIENTAIS – DANO AMBIENTAL (…)”
+    No recurso extraordinário, o ora agravante alega ofensa ao art. 5º, LIV e LV, da Constituição. Sustenta a ocorrência de cerceamento de defesa em razão do indeferimento de produção de provas requeridas.
+    A alegação de cerceamento de defesa requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Nesse sentido: AI 700.960-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 05.03.2010); AI 730.135-AgR (rel. min. Menezes Direito, Primeira Turma, DJe de 22.05.2009) e AI 597.614-AgR (rel. min. Eros Grau, Segunda Turma, DJ de 27.10.2006).
+    Ademais, com o trânsito em julgado da decisão do Superior Tribunal de Justiça em sede de agravo de instrumento contra decisão denegatória de recurso especial (cf. fls. 839-840 e 841-842), permanece suficiente fundamento infraconstitucional adotado pelo acórdão recorrido (aplicação dos arts. 130, 131, do Código de Processo Civil). Incide a Súmula 283 desta Corte.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 25 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
