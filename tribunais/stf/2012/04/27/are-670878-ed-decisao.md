@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Juliano Tardivo Boldorini opõe tempestivos embargos de declaração (fls. 570 a 573 – fax e 583 a 586 – original) contra decisão mediante a qual conheci do agravo para negar seguimento ao recurso extraordinário (fls. 563 a 567), com a seguinte fundamentação, na parte que interessa:
+     “(...)
+    No caso, o inconformismo não merece prosperar.
+    Sucede que, sobre eventual transgressão ao preceitos constitucionais citados, forçoso concluir que o Tribunal a quo ao decidir a questão se ateve ao exame da legislação infraconstitucional. Portanto, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Ressalte-se que a jurisprudência desta Suprema Corte é assente no sentido de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, não configura ofensa direta e frontal à Constituição da República.
+    Nesse sentido, confira-se:
+    ‘Agravo regimental. Processual penal. Prequestionamento. Ofensa reflexa. Reapreciação de fatos e provas. Precedentes da Corte. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. Nos termos da jurisprudência deste Supremo Tribunal Federal, as alegações de afronta aos princípios da ampla defesa e do contraditório, entre outros, configuram ofensa indireta ou reflexa à Constituição Federal e, por isso, não abrem passagem ao recurso extraordinário. 3. Não é possível, em sede de recurso extraordinário, reexaminar fatos e provas a teor do que dispõe a Súmula nº 279/STF. 4. Agravo a que se nega provimento’ (AI nº 603.952/SP-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 27/6/08);
+    (...)
+    E, ainda: AI nº 622.527/AP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 18/5/07; AI nº 562.809/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 18/5/07; e AI nº 563.028/GO-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 11/5/07, entre outros.
+    Como se não bastasse, entender de forma contraria ao acórdão atacado, como pretende o ora agravante, demandaria um reexame aprofundado do contexto fático-probatório dos autos, além de outros elementos intimamente ligados ao mérito da própria ação penal, o que é inviável na via eleita. Incidência, portanto, da Súmula nº 279/STF.
+    Perfilhando esse entendimento, destaco o seguinte julgado:
+    ‘AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 5º, INCISOS LIV E LV. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INQUÉRITO. CONFIRMAÇÃO EM JUÍZO DOS TESTEMUNHOS PRESTADOS NA FASE INQUISITORIAL. 1. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, tarefa que encontra óbice na Súmula STF nº 279. 2. Inviável o processamento do extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao disposto nos incisos LIV e LV do art. 5º da Constituição. 3. Ao contrário do que alegado pelos ora agravantes, o conjunto probatório que ensejou a condenação dos recorrentes não vem embasado apenas nas declarações prestadas em sede policial, tendo suporte, também, em outras provas colhidas na fase judicial. Confirmação em juízo dos testemunhos prestados na fase inquisitorial. 4. Os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo. 5. Agravo regimental improvido’ (RE nº 425.734/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 28/10/05).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário”.
+    Alega o embargante que se conheceu “do agravo e negou-se seguimento ao Recurso Extraordinário sem que o Recurso Especial, regularmente admitido pelo E. TJPR, fosse enviado e julgado pelo Colendo Superior Tribunal de Justiça” (fl. 585).
+    É o relatório.
+    Decido.
+    Preliminarmente, recebo os embargos de declaração como agravo regimental, uma vez que tirados de decisão monocrática.
+    Bem examinada a questão, tenho que assiste razão à parte recorrente. De fato o Tribunal a quo equivocou-se ao remeter os presentes autos diretamente a este Supremo Tribunal, uma vez que o recurso especial interposto (fls. 404 a 423) e admitido na origem (fls. 514 a 516), carece da devida apreciação.
+    Se o art. 543 do Código de Processo Civil arremata que admitidos ambos os recursos, os autos serão remetidos ao Superior Tribunal de Justiça, “com maior razão o processo deve ser remetido ao Superior Tribunal de Justiça quando apenas o recurso especial é admitido” (ARE nº 667.055/SC, Relatora a Ministra Cármen Lúcia, DJe de 29/3/12).
+    Ante o quadro, reconsidero a decisão de folhas 563 a 567 e julgo prejudicado o recurso de fls. 570 a 573 – fax e 583 a 586 – original. Via de consequência, determino a remessa dos autos ao Superior Tribunal de Justiça para que seja apreciado o recurso especial admitido na orgiem.
+    Publique-se.
+    Brasília, 27 de abril de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
