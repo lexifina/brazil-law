@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADICIONAL DE INSALUBRIDADE. GRAU MÁXIMO. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da Turma Recursal dos Juizados Especiais Federais do Ceará, que deu provimento ao recurso para condenar a União a pagar à Recorrida “as diferenças entre os graus médio (10%) e máximo (20%) do adicional de insalubridade no período de janeiro de 2003 a fevereiro de 2007, respeitada a prescrição quinquenal”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, a Agravante alega que a Turma Recursal teria contrariado os arts. 7º, inc. XXIII, e 37, caput, da Constituição da República.
+    Argumenta que “a Administração Pública fez tão-somente obedecer à Carta Magna quando pagou o adicional da autora em grau médio, pois segundo documento oficial o grau devido era esse. Não há ilegalidade em tal ato, pelo contrário, agir de outra forma, afronta o princípio insculpido no artigo supramencionado”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Consta do voto da Juíza Gisele Chaves Sampaio Alcântara:
+    “Segundo informa na petição inicial, em razão do exercício destas atividades, percebeu ela, até dezembro de 2002, adicional de insalubridade no percentual de 20%, em razão do grau máximo de insalubridade. Ainda segundo ela, a Administração, no entanto, no período de janeiro de 2003 a fevereiro de 2007, promoveu o pagamento do aludido percentual em grau médio, somente sendo voltado a pagá-lo em grau máximo em março de 2007.
+    Deste breve relato - que é, nos autos, incontroverso – depreende-se que a Administração, até dezembro de 2002, considerava a atividade da autora insalubre em grau máximo, tendo voltado a considera-la desta forma a partir de março de 2007.
+    Isto é o que se extrai da própria contestação
+    (...)
+    Ancorada nesta premissa, penso eu que, não se mostra razoável considerar que a atividade da autora era considerada insalubre em seu grau máximo, teve tal grau diminuído em um curso período para, logo depois, voltar a ser considerada insalubre em seu grau máximo.
+    Para mim, tal atividade sempre foi exercida em grau máximo de insalubridade, tanto é que o Despacho 2202-GPM/DICON/RH/NE/MS/CE, proferido em 13/11/2006, menciona que a análise que anteriormente havia considerado o grau médio de insalubridade da atividade da autora foi reavaliada, tendo a Administração considerado que, de fato, a atividade exercida pela autora a expõe a uma insalubridade de nível máximo.
+    Tal documento contém uma descrição minuciosa da atividade exercida na Unidade de Isolamento do Setor de Tisiologia do Hospital de Maracanaú, conduzindo-nos, sem qualquer dúvida, à conclusão de que a autora faz jus à percepção do adicional de insalubridade em nível máximo (20%).
+    (...)
+    Destaque-se, outrossim, que a clareza e completude desta avaliação não lograram ser elidida por qualquer documento apresentado pela UNIÃO. Não se pode olvidar, por outro, que o aludido Despacho se refere expressamente a uma reavaliação e revisão da avaliação que o antecedeu” (grifei).
+    Após a análise das provas dos autos, a Turma Recursal decidiu que a Recorrida teria direito à percepção do adicional de insalubridade pelo grau máximo (20%). Decidir de forma diversa demandaria o reexame do conjunto fático-probatório. Inviável, pois, o recurso extraordinário. Incide na espécie a Súmula n. 279 deste Supremo Tribunal. Nesse sentido:
+    “SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE INSALUBRIDADE. EXAME DE NORMA LOCAL E DE PROVAS. IMPOSSIBILIDADE. SÚMULAS 279 E 280 DESTE TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO” (AI 475.568-AgR, de minha relatoria, Primeira Turma, DJ 16.2.2007).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO DO ESTADO DO RIO GRANDE DO SUL. PAGAMENTO DE ADICIONAL DE INSALUBRIDADE. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. ALEGAÇÃO DE OFENSA AOS INCISOS XXXV, LIV E LV DO ART. 5º DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie e o revolvimento dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. No caso, a jurisdição foi prestada de forma completa, embora em sentido contrário aos interesses da parte recorrente, o que não configura cerceamento de defesa. 3. Incide, quanto ao mais, a Súmula 282 do STF. 4. Agravo regimental desprovido” (AI 531.863-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJe 20.11.2009).
+    “Agravo regimental no recurso extraordinário com agravo. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Danos morais. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Inadmissível em recurso extraordinário o reexame de fatos e provas dos autos. Incidência da Súmula 279/STF. 3. Agravo regimental não provido” (ARE 639.255-AgR, Re. Min. Dias Toffoli, Primeira Turma, DJe 10.10.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
