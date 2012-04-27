@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+    “EMENTA: MANDADO DE SEGURANÇA COLETIVO - DECISÃO TRANSITADA EM JULGADO - MANDADO DE SEGURANÇA INDIVIDUAL PENDENTE DE RECURSO ESPECIAL - INADMISSIBILIDADE DE APROVEITAMENTO DA DECISÃO - OCORRÊNCIA DE OMISSÃO - ACOLHIMENTO. - Presente na decisão recorrida a omissão argüida pelo embargante devem os embargos ser acolhidos a fim de supri-la. - A decisão transitada em julgado nos autos do Mandado de Segurança coletivo impetrado por Sindicato em que restou concedida a segurança para que o Município se abstenha de cobrar dos associados o ISSQN com base na receita bruta operacional, não beneficia o associado que ingressou com Mandado de Segurança individual, com decisão pendente de Recurso Especial.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, XXXVI, 150, II, e 170, IV, da Constituição.
+    A análise da matéria demandaria prévio exame da legislação infraconstitucional, visto que envolve discussão sobre os limites da coisa julgada em ação civil pública. Por essa razão, a ofensa ao texto da Constituição de 1988, se existisse, seria indireta ou reflexa, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: AI 825.652, rel. min. Gilmar Mendes, DJe de 03.03.2011; RE 447.382, rel. min. Carlos Velloso, DJ de 19.08.2005; AI 760.473, rel. min. Ellen Gracie, DJe de 1º.07.2010; AI 749.688, rel. min. Ellen Gracie, DJe de 1º.07.2010; AI 779.445, rel. Dias Toffoli, DJe de 10.05.2010 e AI 620.398-ED, rel. min. Ricardo Lewandowski, Primeira Turma, DJe de 22.02.2011.
+    Ademais, a análise do recurso extraordinário implica o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 27 de abril de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
