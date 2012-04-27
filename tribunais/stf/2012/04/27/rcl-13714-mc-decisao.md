@@ -1,0 +1,14 @@
+DECISÃO
+AÇÃO CIVIL PÚBLICA – HONORÁRIOS PERICIAIS – ADIANTAMENTO PELO AUTOR – ADMISSIBILIDADE NA ORIGEM – ARTIGO 18 DA LEI Nº 7.347/85 – AFASTAMENTO POR ÓRGÃO FRACIONADO – RESERVA DE COLEGIADO – VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – LIMINAR DEFERIDA.
+    1. O Ministério Público do Estado do Acre sustenta haver a Câmara Cível do Tribunal de Justiça do Estado do Acre, no julgamento do Agravo de Instrumento nº 0002083-05.2011.8.01.0000, desrespeitado o teor do Verbete Vinculante nº 10 da Súmula do Supremo. Segundo narra, o órgão reclamado acabou por impor ao autor a satisfação dos honorários periciais quanto à prova técnica requerida em ação civil pública voltada a compelir o Município de Rio Branco a regularizar loteamentos imobiliários. Diz da interposição de recurso especial contra o acórdão, ainda pendente de julgamento.
+    Argumenta que o Colegiado, sem observar a cláusula da reserva de plenário prevista no artigo 97 da Carta de 1988, afastou a aplicação do artigo 18 da Lei nº 7.347/85, sob o fundamento de que a jurisprudência do Superior do Tribunal de Justiça teria ficado pacificada em sentido contrário à tese do Ministério Público. Alude às decisões monocráticas proferidas nas Reclamações nº 10.428/RS, da relatoria da Ministra Ellen Gracie, e nº 10.721/RS, da relatoria da Ministra Cármen Lúcia, nas quais haveria sido adotada a óptica que defende.
+    Postula a concessão de liminar para suspender o acórdão formalizado no aludido agravo de instrumento. No mérito, busca a cassação do ato.
+    2. O artigo 18 da Lei nº 7.347/85 preceitua que, nas ações versadas na referida lei, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má-fé, em honorários de advogado, custas e despesas processuais. A Câmara Cível do Tribunal de Justiça do Estado do Acre afastou a incidência do dispositivo e veio a desprover o recurso do Ministério Público estadual. De início, deixou de observar o disposto no artigo 97 da Constituição Federal e retratado no Verbete Vinculante nº 10 da Súmula do Supremo:
+    Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+    3. Defiro a medida acauteladora pleiteada, para suspender, até o julgamento final desta medida, a exigibilidade do adiantamento dos honorários periciais.
+    4. Solicitem informações ao Tribunal de Justiça do Estado do Acre, dando conhecimento desta reclamação aos interessados.
+    5. Vindo ao processo as manifestações ou decorrido o prazo para tanto sem que tenham sido formalizadas, colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília, 27 de abril de 2012.
+Ministro MARCO AURÉLIO
+Relator
