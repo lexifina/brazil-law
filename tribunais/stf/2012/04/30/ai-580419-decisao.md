@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ART. 20 DA LEI N. 8.880/1994. CONVERSÃO EM UNIDADE REAL DE VALOR DOS BENEFÍCIOS PREVIDENCIÁRIOS: CONSTITUCIONALIDADE. JULGADO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PRINCÍPIO DA IRREDUTIBILIDADE NOMINAL E REAL DOS BENEFÍCIOS. CONVERSÃO EM URV. LEI 8.880/94 (...).
+    1. A tese de que a média aritmética das rendas nominais referentes às competências de novembro e dezembro de 1993 e janeiro e fevereiro de 1994, devesse tomar por base aquelas importâncias previamente convertidas em URV conflita com a lei de regência (Lei 8.880/94, arts. 1º, §1º; 2º, caput; 3º, §1º e 20, I, II, §3º), certo que aquela última não pode ser tida como a moeda corrente então existente, que era e continuou sendo o Cruzeiro Real, até ser substituída pela atual” (fl. 83 – grifos nossos).
+    3. No recurso extraordinário, a Agravante alega que o art. 20 da Lei n. 8.880/1994 (regra de conversão dos benefícios previdenciários em Unidade Real de Valor – URV em 1º.3.1994) teria importado em diminuição do valor dos benefícios (comparando-se sua expressão em URV nos meses de janeiro e março de 1994), o que contrariaria o princípio da irredutibilidade previsto no art. 194, parágrafo único, inc. IV, da Constituição da República.
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal (fl. 119).
+    A Agravante defende a presença dos requisitos de admissibilidade do recurso extraordinário.
+    Analisados os elementos havidos nos autos, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou a compatibilidade entre o art. 20 da Lei n. 8.880/1994 e o princípio da irredutibilidade dos benefícios previdenciários:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 20, INC. I E II, §§ 1º, 2º, 3º E 6º, E 21, § 1º, DA LEI N. 8.880/1994. PROGRAMA DE ESTABILIZAÇÃO ECONÔMICA. SISTEMA MONETÁRIO NACIONAL. CONVERSÃO DE BENEFÍCIO PREVIDENCIÁRIO EM UNIDADE REAL DE VALOR - URV. MANUTENÇÃO DE SEU VALOR REAL (…). 3. Constitucionalidade da conversão de benefícios previdenciários em Unidade de Valor Real - URV. Inocorrência de afronta aos princípios do direito adquirido (art. 5º, inc. XXXVI), da preservação do valor real dos benefícios (art. 201, § 4º) e da sua irredutibilidade (art. 194, inc. IV). Precedentes. 4. Ação Direta de Inconstitucionalidade parcialmente conhecida e, nessa parte, julgada improcedente” (ADI 2.536, de minha relatoria, Plenário, Dje 29.5.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONVERSÃO DO BENEFÍCIO PREVIDENCIÁRIO EM URV. CONSTITUCIONALIDADE. IRREDUTIBILIDADE. 1. Conversão do benefício previdenciário em URV. Precedente do Tribunal Pleno: RE n. 313.382, Relator o Ministro Maurício Corrêa. 2. A afirmação de validez da correção monetária dos benefícios elide a suposta violação da garantia de sua irredutibilidade. Precedente. 3. Agravo regimental não provido” (RE 378.986-AgR, Rel. Min. Eros Grau, Segunda Turma, Dje 29.6.2007 – grifos nossos).
+    “1. Benefício previdenciário. Conversão dos valores de Cruzeiros Reais para URV determinada pela L. 8.880/94: constitucionalidade da expressão "nominal", contida no art. 20 da L. 8.880/94, declarada pelo plenário do STF, ao julgar o RE 313.382, 26.09.2002, Maurício Corrêa, DJ 8.11.2002. 2. Nesse julgamento foi firmada a constitucionalidade da sistemática legal de conversão dos benefícios previdenciários para a URV, afastada a tese de violação aos princípios do direito adquirido e da manutenção do valor real das prestações, que envolve a garantia da irredutibilidade dos benefícios previdenciários” (AI 553.708-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.10.2006 – grifos nossos).
+    Dessa orientação jurisprudencial não divergiu o julgado recorrido.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
