@@ -1,0 +1,43 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PROVENTOS INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA – GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR – GDATEM. ART. 40, § 8º, DA CONSTITUIÇÃO FEDERAL.
+1. A questão debatida nos autos - extensão aos inativos e pensionistas da Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) e da Gratificação de Desempenho de Atividade Técnico-Operacional em Tecnologia Militar (GDATEM) - foi solucionada pelo Tribunal a quo à luz do posicionamento do Supremo Tribunal Federal.
+2. As gratificações GDATA e GDATEM possuem natureza geral, destarte, impõe-se a sua extensão aos inativos, sob pena de contrariedade ao art. 40 da Constituição Federal.
+3. In casu, o acórdão recorrido assentou:
+“ADMINISTRATIVO. SERVIDOR. REMUNERAÇÃO. GDATA. GDATEM. EXTENSÃO AOS INATIVOS. POSSIBLIDADE.
+1 O STF entendeu que durante os períodos de fevereiro a maio de 2002 e de maio de 2004 até a chamada “conclusão dos efeitos do último ciclo de avaliação” (art. 1º da Lei nº 10.971/2004) a GDATA se transformou em gratificação geral, em sua totalidade, pelo que deveria ser estendida a inativos (ou pensionistas), que, nos termos do art. 7º da EC nº 41/2003, têm direito adquirido à percepção das vantagens e benefícios concedidos aos servidores em atividade.
+2. Em face do ajuizamento da ação em 29/02/2008 estão prescritas as parcelas anteriores a 29/02/2003.
+3. No período de junho de 2002 a abril de 2004 não há que se falar em paridade, pois, em 22/5/2002, foi editado o Decreto nº 4.247/02, que regulamenta a GDATA. Assim, a partir de junho de 2002, a GDATA deixou de ser geral, pois já havia meios de se obter a avaliação dos servidores ativos.
+4. A Suprema Corte garantiu o pagamento de valores equivalentes a 60 pontos (e não 30) para o período posterior à edição da Medida Provisória nº 198/04, nos termos do seu art. 1º.
+5. A regra do pagamento com base nos 60 pontos incide a partir de 1º de maio de 2004, pois a MP nº 198/04 atribui efeitos financeiros retroativos àquela data (art. 3º, parágrafo único).
+6. O entendimento adotado pelo STF a respeito da GDATA é aplicável à GDATEM.
+7. Apelo do autor desprovido. Remessa necessária e apelo parcialmente providos.”
+4. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto pela União, com fulcro no art. 102, III, a , da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+    ADMINISTRATIVO. SERVIDOR. REMUNERAÇÃO. GDATA. GDATEM. EXTENSÃO AOS INATIVOS. POSSIBLIDADE.
+    1 O STF entendeu que durante os períodos de fevereiro a maio de 2002 e de maio de 2004 até a chamada “conclusão dos efeitos do último ciclo de avaliação” (art. 1º da Lei nº 10.971/2004) a GDATA se transformou em gratificação geral, em sua totalidade, pelo que deveria ser estendida a inativos (ou pensionistas), que, nos termos do art. 7º da EC nº 41/2003, têm direito adquirido à percepção das vantagens e benefícios concedidos aos servidores em atividade.
+    2. Em face do ajuizamento da ação em 29/02/2008 estão prescritas as parcelas anteriores a 29/02/2003.
+    3. No período de junho de 2002 a abril de 2004 não há que se falar em paridade, pois, em 22/5/2002, foi editado o Decreto nº 4.247/02, que regulamenta a GDATA. Assim, a partir de junho de 2002, a GDATA deixou de ser geral, pois já havia meios de se obter a avaliação dos servidores ativos.
+    4. A Suprema Corte garantiu o pagamento de valores equivalentes a 60 pontos (e não 30) para o período posterior à edição da Medida Provisória nº 198/04, nos termos do seu art. 1º.
+    5. A regra do pagamento com base nos 60 pontos incide a partir de 1º de maio de 2004, pois a MP nº 198/04 atribui efeitos financeiros retroativos àquela data (art. 3º, parágrafo único).
+    6. O entendimento adotado pelo STF a respeito da GDATA é aplicável à GDATEM.
+    7. Apelo do autor desprovido. Remessa necessária e apelo parcialmente providos.
+    A recorrente, em suas razões recursais, alega que o acórdão recorrido violou os artigos 2º, 5º, caput, 37, caput, 61, II, a, e 167 da Constituição Federal.
+    Afirma que “foi dispendido o mesmo tratamento a servidores em situações diversas. (…) O percentual variável da GDATA é devido ao servidor pelo fato de encontrar-se ele no efetivo exercício do cargo. Ora, é evidente que os servidores aposentados, bem como seus pensionistas, estão impossibilitados de contribuir com os resultados alcançados pelos órgãos de origem, posto que não estão no exercício de suas funções”.
+    Alega, ainda, que “o v. Acórdão, ao dar provimento à apelação autoral, também imiscui-se em seara que lhe é defesa, qual seja, o aumento de servidores públicos. (…). Ademais, no art. 169 da CRFB/88 encontra-se a necessidade de prévia dotação orçamentária para situações dessa espécie”.
+    Foram apresentadas contrarrazões ao recurso extraordinário.
+    É o relatório. Decido.
+    O recurso não merece prosperar.
+    Discute-se a extensão a aposentados e pensionistas das parcelas salariais denominadas Gratificação de Desempenho de Atividade Técnico-Administrativa (GDATA) e Gratificação de Desempenho de Atividade Técnico Operacional em Tecnologia Militar (GDATEM).
+    In casu, o acórdão recorrido, em consonância com o entendimento desta Corte, decidiu pela extensão de gratificações genéricas aos servidores inativos. Colho do voto condutor do acórdão:
+    “O parágrafo 4º do art. 7º-A deixa claro que, pelo menos, ‘até 31 de dezembro de 2008’, o pagamento da gratificação ao pessoal da ativa será feito na base dos 75 pontos, e o art. 17-A, inciso I, estabelece sistemática diversa para os inativos, para os quais que, ‘gratificação será correspondente a 30% (trinta por cento) do valor máximo do respectivo nível, classe e padrão’. Como se afirmou acima, nada impede que a lei confira vantagem pecuniária apenas a servidores ativos, mas o certo é que, no caso da GDATEM, há situação similar à da GDATA, que, bem ou mal, foi interpretada pelo STF à luz da regra de paridade.
+    Por outro lado, a defesa da União não indica se já foi editado o ato do Ministro da Defesa a que se refere o art. 7º-A, § 7º, da Lei nº 9.657/98, estabelecendo ‘os critérios e procedimentos específicos de avaliação de desempenho individual e institucional e de atribuição da GDATEM’. Tudo leva a crer que se está diante de outra gratificação concedida com caráter geral, o que garante aos inativos contemplados pela Emenda Constitucional nº 41/03 a paridade com o pessoal da ativa. Portanto no ponto, o pedido é procedente, para se garantir ao Autor a percepção da GDATEM no valor correspondente a 75 pontos, observados os respectivos padrão e classe.”
+    Destarte, tendo as gratificações em questão natureza geral, impõe-se a sua extensão aos inativos, sob pena de contrariedade ao art. 40, § 8º, da Constituição da República. Aplica-se à espécie vertente a jurisprudência do Supremo Tribunal Federal relativa à extensão aos inativos da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA:
+    “Pacificou-se neste Tribunal que o critério de quantificação da Gratificação de Desempenho de Atividade Técnico-Administrativa em relação aos servidores inativos deve obedecer à quantificação a que estão submetidos os servidores em atividade, de acordo com a sucessão de leis de regência que se seguiram à edição da Lei n. 10.404, de 2002, conforme detalhado no RE 476.279” (RE 597.154, Rel. Min. Gilmar Mendes, Plenário, DJe 29.5.2009).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO – ADMINISTRATIVA – GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR – GDATEM. SÚMULA VINCULANTE N. 20. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO” (AI 811.049-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 24.3.2011).
+    “RECURSO EXTRAORDINÁRIO - GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA (GDATA) E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE (GDPGTAS) - EXTENSÃO DE AMBAS AS GRATIFICAÇÕES AOS SERVIDORES INATIVOS - POSSIBILIDADE - PRECEDENTES FIRMADOS PELO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO” (RE 585.230-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 26.6.2009).
+    Dessa orientação não divergiu o acórdão recorrido.
+    Ex positis, nego seguimento ao recurso extraordinário, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 30 de abril de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
