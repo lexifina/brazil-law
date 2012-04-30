@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS (IPI). EMPRESAS DE CONSTRUÇÃO CIVIL: ENQUADRAMENTO. CÓDIGO TRIBUTÁRIO NACIONAL E DECRETO N. 4.544/2002. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “Tributário. IPI. Sociedade de construção civil. Não incidência. Creditamento. Impossibilidade. Jurisprudência do STJ. Apelo improvido” (fl. 3.586).
+    No voto condutor do acórdão recorrido, o Desembargador Relator Lázaro Guimarães afirmou que:
+    “A sentença corretamente denegou a segurança, ao considerar que as empresas de construção civil, cuja atividade não é tributada pelo IPI, não tem direito ao crédito relativo aos insumos e matérias-primas que adquirir para essa finalidade, seguindo o entendimento do Eg. Superior Tribunal de Justiça expresso, dentre outros, nos seguintes precedentes:
+    (…) TRIBUTÁRIO. IPI. SOCIEDADE DE CONSTRUÇÃO CIVIL. ART. 6 DO CTN. DECRETO Nº 4.544/02. CREDITAMENTO. IMPOSSIBILIDADE. 1. O art. 5º, VIII, alínea ‘a’, do Decreto 4.544/02 é expresso ao negar a natureza de industrialização à atividade de construção civil. 2. Ainda que nos termos do parágrafo único do artigo 46 do CTN se verifique a possibilidade de a construção civil ser um processo industrial, o creditamento do IPI só pode ser deferido aos contribuintes desse imposto, como as sociedades que se dedicam a essa atividade não o são, impossível o deferimento do crédito. 3. Precedentes da Seção de Direito Público” (fl. 3.584).
+    Os embargos de declaração opostos foram rejeitados (fl. 3.595).
+    2. Os Agravantes afirmam que o Tribunal de origem teria contrariado o art. 153, inc. IV, § 3º, inc. II, da Constituição da República.
+    Asseveram que “não pode ser negado um direito que é garantido às empresas industriais e às indústrias de construção civil, por estarem, indubitavelmente compreendidas naquelas, sob pena de desconsideração da natureza jurídica de suas atividades” (fl. 3.605).
+    Sustentam terem “direito – com fundamento no princípio constitucional da não-cumulatividade previsto no artigo 153, IV, § 3º, II, da Constituição Federal de 1988 – de creditar-se do IPI pago nas aludidas aquisições, através de compensação com o IPI devido na saída de outros produtos ou, ainda, com quaisquer tributos ou contribuições administrados pela Secretaria da Receita Federal do Brasil” (fl. 3.606).
+    Apontam que “tal princípio, [não-cumulatividade] como não poderia deixar de ser, encontra-se inserido no artigo 49 do Código Tributário Nacional, bem como, no artigo 163 do Decreto nº 4.544, de 26 de dezembro de 2002 (RIPI)” (fl. 3.607).
+    Argumentam ainda que “foi publicada a lei nº 9.779/99 que, em seu art. 11, estipulava expressamente a possibilidade de creditamento do IPI quando da aquisição de insumos onerados por esse imposto, aplicados na industrialização de produtos finais desonerados quando da saída do estabelecimento” (fl. 3.609).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 3.636-3.637).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Código Tributário Nacional e Decreto n. 4.544/2002). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. CUMULATIVIDADE. CRÉDITO. MANUTENÇÃO CONSIDERADA A EXONERAÇÃO EXISTENTE NA OPERAÇÃO SUBSEQUENTE. BENEFÍCIO LEGAL. ART. 11 DA LEI 9.779/1999. ART. 153, § 3º, II DA CONSTITUIÇÃO. Nos termos da orientação firmada por esta Suprema Corte, o direito ao creditamento do montante do IPI cobrado na aquisição de insumo ou matéria-prima que será utilizado em operação da qual resulte a saída de bem desonerado depende de expressa autorização legal. Agravo regimental ao qual se nega provimento” (AI 843.665-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 20.3.2012).
+    “Agravo regimental em agravo regimental em agravo de instrumento. 2. Tributário. IPI. Creditamento acumulado em decorrência de insumos empregados em construção civil. Conceito de atividade industrial. Previsão no Decreto n. 4.544/02. 3.Matéria infraconstitucional. 4. Agravo regimental a que se nega provimento” (AI 802.372-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 16.11.2011).
+    “PROCESSO CIVIL. AGRAVO REGIMENTAL. TRIBUTÁRIO. IPI. CONCEITO CONTRIBUINTE. ENQUADRAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. 1.Nos termos da jurisprudência deste Tribunal, a questão relativa ao enquadramento no conceito de contribuinte é de índole infraconstitucional, o que enseja o descabimento do recurso extraordinário. 2.Ofensa reflexa ou indireta à Constituição. Agravo ao qual se nega provimento” (RE 599.437-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 30.4.2010).
+    E, ainda, a seguinte decisão monocrática transitada em julgado: Recurso Extraordinário n. 598.330, de minha relatoria, DJe 4.2.2011.
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de abril de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
