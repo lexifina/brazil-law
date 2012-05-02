@@ -1,0 +1,32 @@
+Habeas corpus. Processual penal. Pedido de concessão de liberdade provisória formalizado após o julgamento do processo e a ocorrência do trânsito em julgado da decisão mediante a qual foi negado seguimento ao writ. Impossibilidade de a pretensão ser apreciada, ante a entrega efetiva da prestação jurisdicional. Pedido não conhecido.
+    Decisão: A decisão mediante a qual neguei seguimento à impetração está assim redigida:
+    Trata-se de habeas corpus impetrado contra ato do STJ que implicou a denegação de idêntica medida, mediante acórdão assim ementado:
+    HABEAS CORPUS. ESTELIONATO PRATICADO EM DETRIMENTO DE ENTIDADE DE DIREITO PÚBLICO, FORMAÇÃO DE QUADRILHA ARMADA, PECULATO E CORRUPÇÃO ATIVA. PRISÃO PREVENTIVA. MATERIALIDADE E INDÍCIOS SUFICIENTES DA AUTORIA DELITIVA. REQUISITOS PARA A CUSTÓDIA ANTECIPADA. PREENCHIMENTO. INOCÊNCIA. INVIABILIDADE DE EXAME NA VIA ELEITA. CIRCUNSTÂNCIAS QUE EVIDENCIAM A EXISTÊNCIA DE ORGANIZAÇÃO CRIMINOSA. NECESSIDADE DA CUSTÓDIA CAUTELAR PARA A GARANTIA DA ORDEM PÚBLICA. AMEAÇA A TESTEMUNHAS. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. ELEVADO PREJUÍZO ECONÔMICO. GARANTIA DA ORDEM ECONÔMICA. SEGREGAÇÃO CAUTELAR JUSTIFICADA E NECESSÁRIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+    1. Para a decretação da prisão preventiva, não se exige prova concludente da autoria delitiva, reservada à condenação criminal, mas apenas indícios suficientes desta, que, pelo cotejo dos elementos que instruem o mandamus, se fazem presentes.
+    2. A análise acerca da negativa de autoria veiculada na inicial é questão que não pode ser dirimida na via sumária do habeas corpus, por demandar o reexame aprofundado das provas colhidas no curso da instrução criminal.
+    3. Tendo em vista que as circunstâncias demonstram a existência, em tese, de organização criminosa voltada especialmente para a concessão fraudulenta de benefícios previdenciários, com divisão de tarefas, mostra-se necessária a manutenção custódia cautelar para o bem da ordem pública, pois há sérios riscos de as atividades ilícitas serem retomadas com a soltura.
+    4. Necessária se mostra a prisão cautelar também para a conveniência da instrução criminal, quando há notícia de ameaça a testemunhas.
+    5. O vultoso prejuízo econômico sofrido pelo INSS em decorrência das condutas delituosas em tese praticadas pelo paciente, também autoriza a manutenção da sua custódia cautelar, para a garantia da ordem econômica.
+    EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA. SÚMULA N. 52 DESTE STJ. COAÇÃO ILEGAL AUSENTE.
+    1. Com o encerramento da instrução criminal, resta superada a alegação de constrangimento ilegal por excesso de prazo na formação da culpa, consoante o enunciado na Súmula n.º 52 desta Corte Superior.
+    2. Ordem denegada.
+    Neste writ, sustenta-se fundamentação inidônea do ato que implicou a prisão preventiva do paciente por ausência de embasamento concreto, porquanto motivada apenas na gravidade do delito.
+    Aduz que o paciente não representa qualquer risco para a sociedade, porque é primário e possui bons antecedentes. Além disso, tem família constituída e é funcionário público há mais de 20 anos na Polícia Civil.
+    Requer, liminarmente, seja deferido o direito de aguardar em liberdade o trânsito em julgado.
+    Este habeas corpus foi distribuído por prevenção ao HC nº 108467, no qual indeferi a liminar (…).
+    É o relatório. Decido.
+    É pacífica a jurisprudência do Supremo ao assentar a inviabilidade do habeas corpus quando se trata de mera reiteração de medida anteriormente impetrada nesta Corte. Nesse sentido, confiram-se os seguintes precedentes:
+    EMENTA Agravo regimental em habeas corpus. Reiteração de pedido anterior já apreciado nesta Suprema Corte. Inadmissibilidade. Precedentes. Regimental não provido. 1. A questão tratada neste habeas corpus constitui mera reiteração de pedido já apreciado por esta Suprema Corte. 2. Agravo regimental não provido. (HC 103693-AGR, rel. min. Dias Toffoli, 1ªTurma, DJ de 2/12/2010)
+     EMENTA: HABEAS CORPUS. Reiteração de pedido anterior. Inexistência de fundamento novo. Inadmissibilidade. Indeferimento liminar. Possibilidade. Inteligência do art. 38 da Lei nº 8.038/90, art. 557 do CPC e art. 21 do RISTF. Decisão mantida. Agravo regimental improvido. Não se admite pedido de habeas corpus idêntico a outro julgado manifestamente improcedente, por decisão monocrática fundada em jurisprudência assente da Corte. (HC 100279-AGR, rel. min. Cezar Peluso, 2ª Turma, DJ de 27/11/2009)
+    EMENTA: AÇÃO PENAL. Condenação. Atentado violento ao pudor. Art. 214 do CP. Reexame da prova. Inadmissibilidade em habeas corpus. Reiteração, ademais, do pedido sob mesmo fundamento. Perícia desnecessária indeferida. HC denegado. Concessão de ordem de ofício para fins de progressão de regime. Não se admite pedido de habeas corpus que, sobre ser mera repetição doutro já indeferido, impugna o alcance das provas em que se fundou a sentença condenatória. (HC 82587/RJ, rel. min. Cezar Peluso, 2ªTurma, DJ de 7/8/2009)
+    EMENTA: HABEAS CORPUS. Reiteração de pedido anterior. Inexistência de fundamento novo. Indeferimento liminar. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente da Corte. (HC 97475-AGR/MG, rel. min. Cezar Peluso, 2ªTurma, DJ de 3/2/2009.
+    In casu, não há inovação objetiva relevante a ponto de justificar outra impetração, sendo certo que o constrangimento ilegal atacado mediante este writ já encontra-se submetido ao exame desta Corte no HC nº 108467.
+    Ex positis, com base no art. 38 da Lei 8.038/90 e no art. 21, § 1º, do RISTF, nego seguimento ao presente habeas corpus.”
+    Esta decisão foi publicada em 22 de setembro de 2011 e transitou em julgado no dia 28 subsequente.
+    Em 3 de outubro de 2011, o paciente apresentou petição por meio da qual requereu a concessão de liberdade provisória, ressaltando, como causa de pedir, estar acometido de estresse emocional, conforme atestado médico cuja cópia fez juntar ao processo. Anoto, contudo, que a prestação jurisdicional foi entregue, motivo pelo qual não há como apreciar o pleito somente agora formulado.
+    Ex positis, com base no artigo 38 da Lei nº 8.038/90, não conheço do pedido e determino o arquivamento deste processo.
+    Publique-se. Int.
+    Brasília, 2 de maio de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
