@@ -1,0 +1,1 @@
+Art. 30. Para os fins do exercício do direito de opção de que trata o parágrafo único do art. 1º, considera-se instituído o regime de previdência complementar de que trata esta Lei a partir da data da publicação pelo órgão fiscalizador da autorização de aplicação dos regulamentos dos planos de benefícios de qualquer das entidades de que trata o art. 4º desta Lei.

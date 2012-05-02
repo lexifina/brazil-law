@@ -1,0 +1,1 @@
+Art. 10. As entidades fechadas de previdência complementar referidas no art. 4º desta Lei serão mantidas integralmente por suas receitas, oriundas das contribuições de patrocinadores, participantes e assistidos, dos resultados financeiros de suas aplicações e de doações e legados de qualquer natureza, observado o disposto no § 3º do art. 202 da Constituição Federal.

@@ -1,0 +1,2 @@
+Art. 6º É exigida a instituição de código de ética e de conduta, inclusive com regras para prevenir conflito de interesses e proibir operações dos dirigentes com partes relacionadas, que terá ampla divulgação, especialmente entre os participantes e assistidos e as partes relacionadas, cabendo aos conselhos fiscais das entidades fechadas de previdência complementar assegurar o seu cumprimento.
+Parágrafo único. Compete ao órgão fiscalizador das entidades fechadas de previdência complementar definir o universo das partes relacionadas a que se refere o caput deste artigo.

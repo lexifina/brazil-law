@@ -1,0 +1,13 @@
+Art. 5º A estrutura organizacional das entidades de que trata esta Lei será constituída de conselho deliberativo, conselho fiscal e diretoria executiva, observadas as disposições da Lei Complementar nº 108, de 29 de maio de 2001.
+§ 1º Os Conselhos Deliberativos terão composição paritária e cada um será integrado por 6 (seis) membros.
+§ 2º Os Conselhos Fiscais terão composição paritária e cada um deles será integrado por 4 (quatro) membros.
+§ 3º Os membros dos conselhos deliberativos e dos conselhos fiscais das entidades fechadas serão designados pelos Presidentes da República e do Supremo Tribunal Federal e por ato conjunto dos Presidentes da Câmara dos Deputados e do Senado Federal, respectivamente. 8+7
+§ 4º A presidência dos conselhos deliberativos será exercida pelos membros indicados pelos patrocinadores, na forma prevista no estatuto das entidades fechadas de previdência complementar.
+§ 5º A presidência dos conselhos fiscais será exercida pelos membros indicados pelos participantes e assistidos, na forma prevista no estatuto das entidades fechadas de previdência complementar.
+§ 6º As diretorias executivas serão compostas, no máximo, por 4 (quatro) membros, nomeados pelos conselhos deliberativos das entidades fechadas de previdência complementar.
+§ 7º VETADO.
+§ 8º A remuneração e as vantagens de qualquer natureza dos membros das diretorias executivas das entidades fechadas de previdência complementar serão fixadas pelos seus conselhos deliberativos em valores compatíveis com os níveis prevalecentes no mercado de trabalho para profissionais de graus equivalentes de formação profissional e de especialização, observado o disposto no inciso XI do art. 37 da Constituição Federal.
+§ 9º A remuneração dos membros dos conselhos deliberativo e fiscal é limitada a 10% (dez por cento) do valor da remuneração dos membros da diretoria executiva.
+§ 10. Os requisitos previstos nos incisos I a IV do art. 20 da Lei Complementar nº 108, de 29 de maio de 2001, estendem-se aos membros dos conselhos deliberativos e fiscais das entidades fechadas de previdência complementar.
+§ 11. As entidades fechadas de previdência complementar poderão criar, observado o disposto no estatuto e regimento interno, comitês de assessoramento técnico, de caráter consultivo, para cada plano de benefícios por elas administrado, com representação paritária entre os patrocinadores e os participantes e assistidos, sendo estes eleitos pelos seus pares, com as atribuições de apresentar propostas e sugestões quanto à gestão da entidade e sua política de investimentos e à situação financeira e atuarial dos respectivos planos de benefícios e de formular recomendações prudenciais a elas relacionadas.
+§ 12. VETADO.

@@ -1,0 +1,1 @@
+Art. 27. Aplicam-se ao regime de previdência complementar a que se referem os §§ 14, 15 e 16 do art. 40 da Constituição Federal as disposições das Leis Complementares nºs 108 e 109, de 29 de maio de 2001.
