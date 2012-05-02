@@ -1,0 +1,1 @@
+Art. 18. As entidades fechadas de previdência complementar referidas no art. 4º desta Lei manterão controles das reservas constituídas em nome do participante, registrando contabilmente as contribuições deste e as dos patrocinadores.

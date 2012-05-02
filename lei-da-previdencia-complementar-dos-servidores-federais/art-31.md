@@ -1,0 +1,3 @@
+Art. 31. A Funpresp-Exe, a Funpresp-Leg e a Funpresp-Jud deverão ser criadas pela União no prazo de 180 (cento e oitenta) dias, contado da publicação desta Lei, e iniciar o seu funcionamento nos termos do art. 26.
+§ 1º Ultrapassados os prazos de que trata o caput, considera-se vigente, para todos os fins, o regime de previdência complementar de que trata esta Lei.
+§ 2º Ultrapassados os prazos de que trata o caput sem o início do funcionamento de alguma das entidades referidas no art. 4º, os servidores e membros do respectivo Poder poderão aderir ao plano de benefícios da entidade que primeiro entrou em funcionamento até a regularização da situação.
