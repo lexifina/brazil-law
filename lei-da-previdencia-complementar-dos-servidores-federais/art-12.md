@@ -1,0 +1,8 @@
+Art. 12. Os planos de benefícios da Funpresp-Exe, da Funpresp-Leg e da Funpresp-Jud serão estruturados na modalidade de contribuição definida, nos termos da regulamentação estabelecida pelo órgão regulador das entidades fechadas de previdência complementar, e financiados de acordo com os planos de custeio definidos nos termos do art. 18 da Lei Complementar nº 109, de 29 de maio de 2001, observadas as demais disposições da Lei Complementar nº 108, de 29 de maio de 2001.
+§ 1º A distribuição das contribuições nos planos de benefícios e nos planos de custeio será revista sempre que necessário, para manter o equilíbrio permanente dos planos de benefícios.
+§ 2º Sem prejuízo do disposto no § 3º do art. 18 da Lei Complementar nº 109, de 29 de maio de 2001, o valor do benefício programado será calculado de acordo com o montante do saldo da conta acumulado pelo participante, devendo o valor do benefício estar permanentemente ajustado ao referido saldo.
+§ 3º Os benefícios não programados serão definidos nos regulamentos dos planos, observado o seguinte:
+I - devem ser assegurados, pelo menos, os benefícios decorrentes dos eventos invalidez e morte e, se for o caso, a cobertura de outros riscos atuariais; e
+II - terão custeio específico para sua cobertura.
+§ 4º Na gestão dos benefícios de que trata o § 3º deste artigo, as entidades fechadas de previdência complementar referidas no art. 4º desta Lei poderão contratá-los externamente ou administrá-los em seus próprios planos de benefícios.
+§ 5º A concessão dos benefícios de que trata o § 3º aos participantes ou assistidos pela entidade fechada de previdência social é condicionada à concessão do benefício pelo regime próprio de previdência social.

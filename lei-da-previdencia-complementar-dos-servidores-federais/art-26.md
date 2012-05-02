@@ -1,0 +1,1 @@
+Art. 26. A Funpresp-Exe, a Funpresp-Leg e a Funpresp-Jud deverão entrar em funcionamento em até 240 (duzentos e quarenta) dias após a publicação da autorização de funcionamento concedida pelo órgão fiscalizador das entidades fechadas de previdência complementar.

@@ -1,0 +1,6 @@
+Art. 16. As contribuições do patrocinador e do participante incidirão sobre a parcela da base de contribuição que exceder o limite máximo a que se refere o art. 3º desta Lei, observado o disposto no inciso XI do art. 37 da Constituição Federal.
+§ 1º Para efeitos desta Lei, considera-se base de contribuição aquela definida pelo § 1º do art. 4º da Lei nº 10.887, de 18 de junho de 2004, podendo o participante optar pela inclusão de parcelas remuneratórias percebidas em decorrência do local de trabalho e do exercício de cargo em comissão ou função de confiança.
+§ 2º A alíquota da contribuição do participante será por ele definida anualmente, observado o disposto no regulamento do plano de benefícios.
+§ 3º A alíquota da contribuição do patrocinador será igual à do participante, observado o disposto no regulamento do plano de benefícios, e não poderá exceder o percentual de 8,5% (oito inteiros e cinco décimos por cento).
+§ 4º Além da contribuição normal, o participante poderá contribuir facultativamente, sem contrapartida do patrocinador, na forma do regulamento do plano.
+§ 5º A remuneração do servidor, quando devida durante afastamentos considerados por lei como de efetivo exercício, será integralmente coberta pelo ente público, continuando a incidir a contribuição para o regime instituído por esta Lei.
