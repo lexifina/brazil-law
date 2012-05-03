@@ -1,0 +1,19 @@
+DECISÃO: 1. Trata-se de recurso extraordinário com agravo interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+    "I - Ordinária. Servidora pública estadual inconformada com alteração da denominação do cargo de "Bilheteira" para "Auxiliar de Serviços Gerais". Pretensão diferenças de vencimentos e indenização por danos morais. Inadmissibilidade.
+    II -A Lei Estadual n° 1.080/08 instituiu o Plano Geral de Cargos, Vencimentos e Salários das classes que especifica. No Direito Brasileiro inexiste direito subjetivo a regime jurídico e a padrão de vencimentos. A Administração Pública, observados os limites ditados pelo Texto Supremo, atua discricionariamente ao instituir o regime jurídico de seus agentes e a elaborar novos Planos de Carreira, não podendo o servidor, a ela estatutariamente vinculado, invocar direito adquirido para reivindicar enquadramento diverso daquele determinado pelo Poder Público, com fundamento em norma e direito pretérito à nova Lei.
+    III - Inocorre a alegada redutibilidade de vencimentos. Houve elevação no valor total dos vencimentos como se deflui dos comprovantes de pagamento juntados.
+    IV - Dano moral. Indevidos. Deve ser reputado como dano moral, a dor, o vexame, o sofrimento, a humilhação e o desdouro. Efeitos psicológicos e sensoriais experimentados pela intima do dano. De outro lado, sem a prova do padecimento íntimo e sem a demonstração da angústia duradoura ou fortes emoções, não se pode falar em indenização pelo dano moral.
+    V - Sentença de improcedência. Recurso improvido."
+    Sustenta a parte, com fundamento no art. 102, III, a, da Constituição, sem indicar dispositivo constitucional violado, a necessidade de “(...) a Lei Estadual nº 1080/2008 ser declarada inconstitucional nos artigos que reclassificam os servidores a ‘auxiliar de serviços gerais’”, uma vez que "foi demonstrado que as atribuições de serviços gerais são as mais corriqueiras, não atribuindo especialidades”(fl. 181). Aduz ainda que:
+    "(…) é evidente a vergonha, humilhação, constrangimento, e demais sentimentos desagradáveis suportados por aquele que é submetido a tratamento humilhante, caracterizando o dano moral indenizável" (fl. 185).
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    É que sua petição revela evidente deficiência na fundamentação do recurso extraordinário, porque não aponta o dispositivo constitucional violado, inviabilizando, assim, o seu processamento (Súmula 284). Nesse sentido: AI nº 786.680 AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe de 30.6.2011; AI nº 819.362 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 21.2.2011; AI nº 796.611 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 6.4.2011; ARE nº 651.415, Rel. Min. Gilmar Mendes, DJe de 29.02.2012.
+    Ademais, o acórdão recorrido assentou que “In casu, ao contrário do afirmado pela demandante, houve aumento e não diminuição de seus vencimentos e que se verifica dos comprovantes de pagamento de fls. 22" (fl. 152). O Tribunal de origem consignou ainda que:
+    “Para que haja indenização por dano moral, necessário se faz comprovar o efetivo sofrimento, dor, angústia ou humilhação sofrida pela vítima.
+    E pela leitura do autos, conclui-se que a autora não fez prova quanto ao fato constitutivo do seu direito, como determina o artigo 333, I, do Código de Processo Civil.” (fl. 153)
+    Ora, dissentir dessa premissa factual exigiria reexame de fatos e provas, a cuja luz decidiu o acórdão recorrido, o que é vedado na instância extraordinária (Súmula 279).
+    3. Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, artigos 544, § 4º, II, b, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 3 de maio de 2012.
+Ministro CEZAR PELUSO
+Relator
