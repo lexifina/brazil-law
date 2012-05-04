@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5°, incisos XXXV, XXXVI, LIV e LV, e 37, caput e incisos X, XIV e XV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO FEDERAL. GAE E GRATIFICAÇÃO POR PRODUÇÃO SUPLEMENTAR. DEPARTAMENTO DE IMPRENSA NACIONAL. ALTERAÇÃO DO VALOR DA GRATIFICAÇÃO, MEDIANTE REVISÃO DOS CRITÉRIOS DE CÁLCULO. INOBSERVÂNCIA DO DEVIDO PROCESSO LEGAL. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR REJEITADA. APELAÇÃO NÃO PROVIDA.
+    1. A edição da Medida Provisória 26/2002, convertida na Lei 10.432/2002, que extinguiu a Gratificação por Produção Suplementar devida aos servidores da Imprensa Nacional e estabeleceu critérios de pagamento da Gratificação de Desempenho Técnico-Administrativo - GDATA , instituída pela Lei 10.404/2002, a partir de 10 de fevereiro de 2002, não garantiu o pagamento retroativo das diferenças em discussão e nem na forma pretendida pelo autor, razão por que permanece incólume o interesse na lide. Preliminar rejeitada.
+    2. A alteração, mediante revisão dos critérios de cálculo, do valor da Gratificação por Produção Suplementar - GPS devida aos servidores ativos, inativos e pensionistas da Imprensa Nacional, não pode ser efetuada sem prévio processo administrativo, com as garantias do contraditório e da ampla defesa.
+    3. Considerando que a controvérsia gira em torno da forma de cálculo do valor mensal da gratificação por produção suplementar, deve-se garantir à entidade o direito de rediscutir a questão em sede administrativa, desde que seja observado o devido processo legal.
+    4. Apelação e remessa oficial a que se nega provimento”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    O Plenário Virtual do Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário nº 594.296/MG, de minha relatoria, reconheceu a existência da repercussão geral da matéria constitucional versada neste feito. O assunto corresponde ao tema 138 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da “possibilidade, ou não, de a Administração anular ato administrativo, cuja formalização repercutiu no campo de interesses individuais, sem que seja instaurado o devido procedimento administrativo, o qual permita o exercício do contraditório e da ampla defesa”.
+    Em 21 de setembro de 2011, julgado o mérito do recurso, o Plenário desta Corte reconheceu que qualquer ato da Administração Pública que tiver o condão de repercutir sobre a esfera de interesses do cidadão deverá ser precedido de prévio procedimento em que se assegure ao interessado o efetivo exercício do direito ao contraditório e à ampla defesa. Tal decisão restou assim ementada:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento” (DJe de 13/2/12).
+    Mostra-se, então, necessário, proceder-se à compatibilização entre o comando exarado pela Súmula nº 473 do STF, editada sob a égide da Constituição anterior e invocada pelo recorrente, e o direito ao exercício pleno do contraditório e da ampla defesa, garantidos ao cidadão pela norma do art. 5º, inciso LV, de nossa vigente Constituição Federal.
+    No caso presente, a alteração da forma do cálculo da Gratificação por Produção Suplementar dos proventos do autor inegavelmente influiu em sua esfera de interesse. Indubitável, destarte, que essa retificação que lhe foi imposta deveria ter sido precedida de regular processo administrativo, em que deveria ter sido respeitados seus direitos ao contraditório e à ampla defesa. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR - GPS. ALTERAÇÃO DA FORMA DE CÁLCULO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE. I - A Administração Pública somente poderia alterar a forma de cálculo de gratificação em processo administrativo próprio, assegurados aos servidores ativos ou inativos o contraditório e a ampla defesa. Precedentes. II - Agravo regimental improvido” (RE 502.389/DF, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 10/11/06).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR - GPS. ALTERAÇÃO DA SISTEMÁTICA DE CÁLCULO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE. A Administração Pública somente poderia alterar a sistemática de cálculo da gratificação, sem a instauração de procedimento administrativo, caso essa alteração não repercutisse no campo de interesses individuais. Agravo regimental improvido” (RE 405.236/DF-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 24/3/06).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR - GPS. ALTERAÇÃO DA SISTEMÁTICA DE CÁLCULO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE.
+    1. A Administração Pública somente poderia alterar a sistemática de cálculo da gratificação, sem a instauração de procedimento administrativo, caso essa alteração não repercutisse no campo de interesses individuais.
+    2. Agravo regimental a que se nega provimento” (AI 640.957/DF-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 1/2/08).
+    Dessa orientação, não divergiu o acórdão recorrido.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 4 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
