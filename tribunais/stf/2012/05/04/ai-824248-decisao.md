@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Município de Aracaju interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 40, § 2º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO REVISIONAL DE APOSENTADORIA – PROCEDÊNCIA PELO JUÍZO A QUO - INCORPORAÇÃO AOS PROVENTOS DE CARGO EM COMISSÃO – COMPROVAÇÃO NOS AUTOS DOS REQUISITOS EXIGIDOS EM LEI – APLICABILIDADE DA LEI MUNICIPAL Nº 1.350 – OBEDIÊNCIA AO PRINCÍPIO DA LEGALIDADE PELA ADMINISTRAÇÃO PÚBLICA – IMPROVIMENTO DO APELO – DECISÃO UNÂMINE” (fl. 353).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão .
+    Não merece prosperar a irresignação.
+    A verificação da afronta ao dispositivo constitucional objeto do apelo extremo demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação da decisão recorrida, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF. Nesse sentido, cite-se:
+    “Agravo regimental no agravo de instrumento. Cessão de servidores. Ocupação de cargo em comissão. Incorporação. Ofensa a direito local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de Justiça concluiu, com base no Estatuto dos Funcionários Públicos do Município de Itaguaí e nos fatos e nas provas dos autos, pela legalidade da incorporação aos vencimentos dos servidores de parcela remuneratória relativa ao exercício de cargo em comissão. 2. Rever esse entendimento demandaria a análise da legislação local e o reexame de fatos e provas dos autos, o que é inadmissível em recurso extraordinário. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido” (AI nº 749.513/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 1/8/11).
+    “Análise do recurso extraordinário que envolve reexame de fatos e de legislação de direito local (Lei Complementar nº 13/94, do Estado do Piauí). Incidência das Súmulas STF nºs 279 e 280. Precedente. 2. Agravo regimental improvido” (AI nº 408.356/PI-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 18/12/04).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR MILITAR. INCORPORAÇÃO DE GRATIFICAÇÃO. LEI COMPLEMENTAR PIAUIENSE Nº 13/94. OFENSA REFLEXA AO MAGNO TEXTO. É meramente indireta ou reflexa eventual ofensa à Constituição Republicana, quando o deslinde da controvérsia depende da interpretação do direito estadual pertinente. Agravo regimental desprovido” (RE nº 290.2557PI-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 17/11/06).
+    Ante ao exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 4 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
