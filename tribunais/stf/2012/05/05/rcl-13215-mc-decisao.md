@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 14 DA SÚMULA DO SUPREMO – LIMINAR INDEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    Clóvis Ruiz Ribeiro articula com a inobservância do Verbete Vinculante nº 14 pelo Juiz Federal da 4ª Vara Criminal da 1ª Subseção Judiciária de São Paulo, que teria indeferido pedido de livre acesso ao Processo nº 0013358-11.2011.403.6181, em que figura como denunciado.
+    Narra o reclamante que, em 14 de outubro de 2011, foi determinada a prisão temporária, convertida em preventiva, no dia 15 de dezembro do mesmo ano. Denunciado com mais sete pessoas por suposta associação para o tráfico internacional de drogas (artigo 33 da Lei nº 11.343, de 2006), pleiteou, em 16 de janeiro de 2012, “acesso amplo aos elementos de convicção produzidos durante a denominada Operação Niva”. O Juízo reclamado, deferindo “o acesso aos autos do Pedido de Quebra de Sigilo de Dados e/ou Interceptação Telefônica”, ressalvou que a extração de cópias de peças do processo estaria condicionado aos termos da Portaria nº 36/2011 da citada Vara Criminal, no sentido da necessidade de o procurador apontar as folhas que pretendia reproduzir.
+    Sustenta que o teor da mencionada Portaria afronta o Verbete Vinculante nº 14, que assegura amplo acesso aos elementos de prova “já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, que digam respeito ao exercício do direito de defesa”. Ressalta não se mostrar viável exigir que, “no balcão cartorário”, o procurador “consulte mais de 60 (sessenta) volumes de intenso trabalho policial, sem a possibilidade de extração integral de cópias”, o que leva à limitação ao exercício do direito de defesa.
+    Assevera que a obrigatoriedade de que as cópias sejam extraídas no setor de reprografia do Fórum, “lá permanecendo até a conclusão do trabalho”, somada à ponderação de que “quanto maior o número de cópias solicitadas, mais tempo os autos permanecerão fora da Secretaria”, obstaculiza o livre acesso aos dados. Afirma que a exigência do Juízo acaba por violar o “sistema de paridade de armas”, pois não se impõe igual medida ao órgão acusador.
+    Postula o deferimento de liminar visando determinar-se a “suspensão da ação penal nº 0013358-11.2011.403.6181, em trâmite na 4ª Vara Criminal Federal da 1ª Subseção da Seção Judiciária do Estado de São Paulo”, para que “a defesa permaneça com seu direito de requerer ampla produção de provas por ocasião da apresentação de sua defesa prévia”. No mérito, busca a confirmação da providência bem como o direito ao acesso aos “60 (sessenta) apensos distribuídos sob o nº 0007745-44.2010.4.03.6181”.
+    O processo encontra-se concluso para apreciação da medida acauteladora.
+    2. Observem o ato que se diz discrepante do Verbete Vinculante nº 14 da Súmula do Supremo. O Juízo, relativamente à Operação Niva, versou a existência do sigilo, vinculando o acesso aos autos ao devido credenciamento de profissional da advocacia.
+    Quanto à Operação Semilla, aludiu a inúmeros volumes – 60 – e ao interesse de 47 denunciados. Por isso, viabilizou a obtenção de mídias, inclusive daquelas referentes às gravações dos áudios interceptados e, também, ao relatório apresentado pela Polícia Federal.
+    Sob o ângulo da aquisição de cópias, mencionou que cabia ao procurador indicar as pretendidas, isso considerada a necessidade de deslocamento para o setor reprográfico do Fórum e, portanto, de saída dos autos do Cartório.
+    De início, não há demonstração de desrespeito ao teor do citado verbete, especialmente quando se busca a suspensão de certo processo.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 5 de maio de 2012, às 21h40.
+Ministro MARCO AURÉLIO
+Relator
