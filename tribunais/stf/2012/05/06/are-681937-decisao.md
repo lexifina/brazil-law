@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO DE NULIDADE DA CITAÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da Turma Recursal dos Juizados Especiais de São Paulo:
+    “CARTÃO DE CRÉDITO – SEGURO INVALIDEZ – NULIDADE DA CLÁUSULA CONTRATUAL QUE LIMITA O BENEFÍCIO A TRABALHADOR SEM VÍNCULO EMPREGATÍCIO – AÇÃO DE INDENIZAÇÃO JULGADA PROCEDENTE – SENTENÇA MANTIDA PELOS PRÓPRIOS FUNDAMENTOS – ART. 46 DA LEI 9.099/95” (fl. 134).
+    2. A Agravante afirma que a Turma Recursal de origem teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Sustenta que o “v. acórdão, ao manter a r. sentença, contrariou dispositivos da Lei federal, inseridos no artigo 12, inc. VI, 215 e 247 do Código de Processo Civil, além do artigo 5º, LV, da Constituição Federal[, e que a sua citação teria sido] efetivada em pessoa estranha ao seu quadro de funcionários e em endereço que não o seu, logo, não produziu os efeitos legais” (fl. 140).
+    Assevera que “do que se depreende dos documentos constantes dos autos, o [seu] endereço (…) nunca foi o indicado na inicial, para onde foi enviada a citação, e do que se verifica do contrato de seguro no mesmo consta o nome completo da recorrente com CNPJ pelo que, seria fácil de acesso em qualquer consulta a JUCESP/SUSEP ou simplesmente internet, obter o endereço da recorrente” (fl. 145).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de que incide na espécie a Súmula n. 282 deste Supremo Tribunal e a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 155-156).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código de Processo Civil e Lei n. 9.099/1995), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE POR AUSÊNCIA DE CITAÇÃO NA RECLAMAÇÃO TRABALHISTA. MATÉRIA PROCESSUAL. 1. Alegada contrariedade aos princípios constitucionais da legalidade, do contraditório, da ampla defesa, do devido processo legal, do ato jurídico perfeito e da inafastabilidade da prestação jurisdicional. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. Precedentes. 2. Agravo regimental ao qual se nega provimento” (ARE 653.851-AgR, de minha relatoria, Primeira Turma, DJe 5.3.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CARTA ROGATÓRIA. COMPARECIMENTO ESPONTÂNEO. CITAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento” (AI 760.791-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 20.11.2009).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CITAÇÃO: ALEGAÇÃO DE NULIDADE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 635.856-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
