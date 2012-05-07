@@ -1,0 +1,9 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, ao julgar a ADI 2.139-MC/DF, Rel. p/ o acórdão Min. MARCO AURÉLIO (RTJ 213/184), firmou orientação sobre a controvérsia ora em análise, proferindo decisão consubstanciada em acórdão assim ementado:
+    “(...) JURISDIÇÃO TRABALHISTA - FASE ADMINISTRATIVA. A Constituição Federal em vigor, ao contrário da pretérita, é exaustiva quanto às situações jurídicas passíveis de ensejar, antes do ingresso em juízo, o esgotamento da fase administrativa, alcançando, na jurisdição cível-trabalhista, apenas o dissídio coletivo.” (grifei)
+    Cumpre ressaltar, por necessário, que esse entendimento – que se apóia no princípio constitucional da inafastabilidade do acesso à jurisdição do Estado (CF, art. 5º, inciso XXXV) – vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte (AI 816.219/BA, Rel. Min. CÁRMEN LÚCIA – ARE 673.759/SP, Rel. Min. RICARDO LEWANDOWSKI – RE 589.402-ED/RS, Rel. Min. GILMAR MENDES, v.g.), a propósito da mesma questão ora versada nesta sede recursal.
+    O exame da presente causa evidencia que o acórdão questionado em sede recursal extraordinária diverge da orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, pelas razões expostas, conheço do presente agravo de instrumento, para, desde logo, conhecer e dar provimento ao recurso extraordinário interposto pela parte ora agravante (CPC, art. 544, § 4º, na redação anterior à Lei nº 12.322/2010), para afastar a obrigatoriedade da prévia submissão do litígio trabalhista à Comissão de Conciliação Prévia, determinando-se, em consequência, a devolução dos autos ao Tribunal recorrido, a fim de que este proceda ao regular processamento do feito, julgando-o como entender de direito.
+    Publique-se.
+    Brasília, 07 de maio de 2012.
+Ministro CELSO DE MELLO
+Relator
