@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “PLANO DE SAÚDE COLETIVO – Afastamento da preliminar de cerceamento de defesa – Autores demitidos sem justa causa e aposentados – Prestação de assistência médica e hospitalar mantida pela SAMS, associação beneficente criada pelo próprio grupo empregador, com despesas inteiramente custeadas pelas empregadoras – Liquidação da sociedade, com o encerramento de suas atividades – Celebração de novo contrato entre a empregadora e a Unimed – Nova contratação, e não simples sucessão de operadoras – Improcedência da pretensão dos autores, ex-empregados, de prorrogação do plano, de forma gratuita e vitalícia, eis que não respaldado em lei ou contrato – Fatos anteriores à Lei nº 9.656/98, que assegura a manutenção do benefício, em certos casos, para ex-empregados e aposentados – Frágil prova dos autos que não aponta para a existência de obrigação da Bunge de manter o benefício aos empregados – Inexistência de provas de que a resilição do contrato pela Unimed tenha sido indevida – Ação improcedente – Recursos dos autores não providos e recursos das rés providos” (fl. 560).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 3º; 5º, XXXII e XXXVI; e 170, V, do texto constitucional.
+     Nas razões recursais, sustenta-se, em síntese, “afronta ao direito adquirido, na medida em que retirado benefício de assistência médica gratuita conferido por diversos anos após a aposentação e encerramento do contrato de trabalho” (fl. 655).
+    Decido.
+     A pretensão recursal não merece prosperar.
+    Verifico que o Tribunal de origem decidiu a controvérsia com fundamento no acervo fático-probatório dos autos e no Estatuto Social da SAMS, donde se conclui que eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+     Incidem, portanto, os Enunciados 279 e 454 da Súmula do STF.
+     Nesse sentido: RE-AgR 599.239, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1.7.2010 e o RE-AgR 607.218, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 11.4.2012, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA. PLANO DE ASSISTÊNCIA À SAÚDE. ENTIDADE EMPREGADORA. RECONHECIMENTO DE RELAÇÃO DE CONSUMO. CÓDIGO DE DEFESA DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas contratuais. Incidência das Súmulas 279 e 454 do STF. Precedentes. III - Agravo regimental improvido.
+    Ante o exposto, nego seguimento ao recurso (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 7 de maio de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
