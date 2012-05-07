@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 665):
+    “Ação de cobrança. Procuradores do Estado. Rateio de verba honorária. Pretensão às diferenças de honorários advocatícios pagos a partir da EC 19/98 até a Resolução GPG 139/2002. Observância do teto remuneratório estabelecido pela Lei Estadual n. 6.995/90. Diferenças não demonstradas. Recurso oficial e fazendário providos.”
+    Alega-se violação do disposto nos arts. 37, X e XIII, 39, § 4º, e 135, da Constituição.
+    O recurso extraordinário, ao alegar que o acórdão recorrido ofende o art. 37, X e XIII, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, os fundamentos trazidos à colação pelo recurso extraordinário não são suficientes para desconstituir a decisão recorrida, vez que esta concluiu que “os honorários não são vantagens pessoais porque pagos indiscriminadamente, inclusive a inativos” (fls. 667), enquanto aquele se limitou a alegar que o corte remuneratório repercutiu sobre vantagem pessoal. Tal circunstância impede o conhecimento do recurso extraordinário, nos termos da Súmula 284 desta Corte.
+    Ainda que assim não fosse, o Tribunal a quo concluiu que a verba relativa aos honorários advocatícios pagos a Procuradores do Estado não constitui vantagem pessoal, sujeitando-se, assim, ao teto remuneratório. Para rever esse entendimento, seria necessário analisar a natureza jurídica da parcela mediante o prévio exame da legislação local. Tal circunstância é vedada no estrito âmbito de cognição do recurso extraordinário. Incide a Súmula 280 desta Corte.
+    Por fim, restou consignado no acórdão recorrido que “(...) o recálculo dos honorários dos autores desde a EC n. 19/98, respeitada a prescrição qüinqüenal, poderia ser admitido se demonstrada a existência de diferença em seu favor (…), observado, porém, o limite do teto estadual. Contudo, não há demonstração de existência de qualquer diferença decorrente da aplicação do critério acima” (fls. 667). Conclusão diversa da alcançada demandaria o reexame de fatos e provas, o que dá margem ao descabimento do recurso (Súmula 279/STF).
+    Confira-se, em caso idêntico ao presente, o seguinte precedente: ARE 640.608/SP, rel. min. Cármen Lúcia, DJe de 27.05.2011.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 7 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
