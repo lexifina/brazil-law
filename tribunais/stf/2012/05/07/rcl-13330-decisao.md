@@ -1,0 +1,32 @@
+DECISÃO
+RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NA MEDIDA CAUTELAR NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395. TRÂNSITO EM JULGADO DA AÇÃO DE CONHECIMENTO. INCIDÊNCIA DA SÚMULA N. 734 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada pelo Município de Ribeiro Gonçalves/PI, em 22.2.2012, contra ato do Tribunal Regional do Trabalho da 22ª Região que, na Reclamação Trabalhista n. 0072700-95.2009.5.22.0106, teria descumprido a decisão proferida pelo Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade n. 3.395/DF.
+    2. A decisão impugnada tem o teor seguinte:
+    “O reclamado suscitou a preliminar de incompetência material da Justiça do Trabalho sob o fundamento de que a reclamante foi admitida mediante Portaria de Designação e, portanto, ocupa cargo de provimento em comissão. Indica um aresto do TST para corroborar a tese.
+    Sem razão.
+    Como se pode observar dos autos, a reclamante não exerce cargo em comissão e a simples Portaria de Designação não tem o condão de per si provar ser o cargo ocupado pela reclamante em comissão. Por outro lado, como é cediço, o cargo de professora, exercido desde 1985, não é cargo em comissão, mas de provimento efetivo.
+    O regime estatutário/administrativo é de natureza formal, devendo ser comprovada a inclusão da reclamante em tal regime, o que não foi efetivado pelo reclamado, ônus que lhe competia.
+    Diante do acima exposto, rejeito a preliminar.”
+    É contra a execução da decisão proferida na Reclamação Trabalhista n. 0072700-95.2009.5.22.0106 na Justiça do Trabalho que se ajuíza a presente reclamação.
+    3. O Reclamante alega, em síntese, que haveria afronta à autoridade da decisão proferida pelo Supremo Tribunal Federal no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade n. 3.395/DF.
+    Relata que Rita Borges Vieira da Rocha seria “funcionária pública efetiva e estável, fato não contestável, pois na sua inicial, doc. 02, a mesma afirma ter entrado no serviço público municipal em 03 de junho de 1985.”
+    Pondera que seria “incompetente a justiça laboral para conhecer, processar e julgar a presente lide.”
+    Assevera estarem presentes os requisitos necessários para o deferimento da medida liminar, requerida para suspender “os efeitos da decisão monocrática proferida pelo (…) Tribunal Regional do Trabalho da 22ª Região, em julgamento do Recurso Ordinário, Processo TRT-22ª/1ª Turma/RO/0072700-95.2009.5.22.0106, (…) bem como suspender todos os efeitos inerentes a Execução proposta em desfavor do Município de Ribeiro Gonçalves/PI.”
+    No mérito, pede seja julgada procedente a presente reclamação “confirmando-se a liminar, anulando a decisão supramencionada e todos os atos decisórios da citada Execução, declarando a justiça do Trabalho incompetente para julgar a presente lide.”
+    4. Em 2.4.2012, o Presidente do Tribunal Regional do Trabalho da 22ª Região prestou informações.
+    5. Em 3.5.2012, o Procurador-Geral da República opinou pelo não conhecimento da presente Reclamação, ao argumento de que “a decisão que se pretende suspender transitou em julgado em data anterior à propositura desta reclamação, incidindo, portanto, o disposto na Súmula 734/STF.”
+    Examinados os elementos havidos nos autos, DECIDO.
+    6. Inicialmente, importa examinar a questão relativa ao trânsito em julgado da Reclamação Trabalhista n. 0072700-95.2009.5.22.0106.
+    7. Este Supremo Tribunal assentou que o cabimento de reclamação contra decisões judiciais pressupõe que o ato decisório por meio dela impugnado ainda não tenha transitado em julgado, conforme dispõe a Súmula n. 734 do Supremo Tribunal Federal, porque esta ação não se presta para resolver questões típicas do processo de execução.
+    Nesse sentido:
+    “Não cabimento de reclamação como instrumento de resolução de incidentes no processo de execução. 6. Impossibilidade de utilizar-se a reclamação para renovar debate sobre questões típicas do processo de execução, as quais receberam soluções desfavoráveis quando submetidas ao juízo natural da execução. 7. Agravo não provido” (Rcl 2.680-AgR, Rel. Min. Gilmar Mendes, Plenário, DJ 4.8.2006).
+    “DECISÃO RECLAMADA QUE TRANSITOU EM JULGADO - OCORRÊNCIA DO FENÔMENO DA RES JUDICATA - INVIABILIDADE DA VIA RECLAMATÓRIA - RECLAMAÇÃO DE QUE NÃO SE CONHECE. A EXISTÊNCIA DE COISA JULGADA IMPEDE A UTILIZAÇÃO DA VIA RECLAMATÓRIA. - Não cabe reclamação, quando a decisão por ela impugnada já transitou em julgado, eis que esse meio de preservação da competência do Supremo Tribunal Federal e de reafirmação da autoridade decisória de seus pronunciamentos - embora revestido de natureza constitucional (CF, art. 102, I, 'e') - não se qualifica como sucedâneo processual da ação rescisória. - A inocorrência do trânsito em julgado da decisão impugnada em sede reclamatória constitui pressuposto negativo de admissibilidade da própria reclamação, que não pode ser utilizada contra ato judicial que se tornou irrecorrível. Precedentes” (Rcl 1.438-QO, Rel. Min. Celso de Mello, Plenário, DJ 22.11.2002).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESCUMPRIMENTO DA DECISÃO DO RECURSO EXTRAORDINÁRIO N. 464.598/RS. EXECUÇÃO DE SENTENÇA. IMPOSSIBILIDADE DE UTILIZAÇÃO DE RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (Rcl 5.511-AgR, de minha relatoria, Primeira Turma, DJe 12.9.2011).
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DECISÕES PROFERIDAS PELO SUPREMO TRIBUNAL FEDERAL EM SEDE DE FISCALIZAÇÃO ABSTRATA - ATO JUDICIAL, OBJETO DA RECLAMAÇÃO, JÁ TRANSITADO EM JULGADO - INCIDÊNCIA DE OBSTÁCULO FUNDADO NA SÚMULA 734/STF - IMPOSSIBILIDADE DE RENOVAÇÃO DO LITÍGIO EM SEDE DE EXECUÇÃO - TANTUM JUDICATUM QUANTUM DISPUTATUM VEL DISPUTARI DEBEBAT - INADMISSIBILIDADE DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DA AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO DE AGRAVO IMPROVIDO” (Rcl 8.716-AgR, Rel. Min. Celso de Mello, Plenário, DJe 26.5.2011).
+    Portanto, ausentes os requisitos processuais que viabilizariam o regular trâmite desta reclamação.
+    8. Pelo exposto, nego seguimento à presente reclamação e casso a liminar anteriormente deferida (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
