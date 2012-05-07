@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. DEFERIMENTO DE MEDIDA LIMINAR. INCIDÊNCIA DA SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “MEDIDA CAUTELAR – LIMINAR CONCEDIDA POR ESTA CÂMARA SUSPENSA PELO COLENDO ÓRGÃO ESPECIAL – IMPOSSIBILIDADE DE COGITAR-SE DE VIOLAÇÃO PELA MUNICIPALIDADE DA DECISÃO SUSPENSA ” (fl. 669).
+    No voto condutor do acórdão recorrido, o Desembargador Relator Ricardo Feitosa fez constar:
+    “O Colendo Órgão Especial suspendeu todas as liminares que sustavam os efeitos de dispositivos da Lei Municipal nº 14.233/06, inclusive a deferida por esta Câmara no Agravo de Instrumento nº 616.384-5/6-00, de sorte que não há lugar para cogitar-se de violação pela Municipalidade à decisão por último aludida.
+    Saber se o Colegiado referido tinha competência para assim decidir é questão que não está em discussão nesta sede, o mesmo ocorrendo com a alegação de que as multas aplicadas apresentam outras causas de nulidade, que não é objeto da ação cautelar onde a decisão foi proferida” (fl. 670).
+    Os embargos de declaração opostos foram rejeitados (fl. 679).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta. (fls. 760).
+    3. Os Agravantes afirmam que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXIV e LV, e 93, inc. IX, da Constituição da República.
+    Informam que “em 5.2.2007, a Prefeitura propôs o pedido de suspensão de segurança nº 145.132-0/2-01, perante a C. Presidência do TJSP, requerendo fossem suspensas todas as ordens liminares (…) Houve por bem acolher parcialmente o pedido formulado (…) determinando a suspensão apenas das ordens liminares que haviam sido concedidas em primeira instância (…) O agravo regimental foi provido (…) para ‘suspender todas as liminares e tutelas antecipadas concedidas em segundo grau até o julgamento de mérito de cada ação’” (fl. 718)
+    Sustentam que “o C. Órgão não poderia analisar o pedido de suspensão da r. Ordem liminar que favorece as ora Recorrentes, considerando que a competência para tanto seria ‘do presidente do tribunal ao qual couber o conhecimento do respectivo recurso’, a teor do art. 4º da Lei nº 8.437/92” (fl. 729).
+    Defendem que “a competência do E. Tribunal a quo encontrava-se exaurida, porque já havia sido proferido e publicado o v. acórdão da C. 4ª Câmara de Direito Público daquele E. Tribunal” (fl. 729).
+    Argumentam que “se o C. Órgão Especial jamais teve competência para suspender a r. ordem liminar, era imperativo que se reconhecesse que esta última permanecia em pleno vigor. Tratar-se-ia, inclusive, de preservar a eficácia de ordem liminar emanada do próprio E. Tribunal a quo (…) Além disso, seria de fundamental importância que constasse do v. acórdão recorrido o motivo pelo qual as disposições contidas no art. 4º da Lei nº 8.437/92 seriam inaplicáveis à espécie” (fls. 731).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica assiste não assiste aos Agravantes.
+    5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão dos Agravantes, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    6. As medidas antecipatórias e cautelares, por não representarem pronunciamento definitivo, mas provisório, a respeito da controvérsia, devem ser confirmadas (ou, se for o caso, cassadas) pela sentença que julgar o mérito da causa, podendo, ademais, ser modificadas ou revogadas a qualquer tempo, até mesmo pelo órgão que as deferiu.
+    Assim, a natureza precária e provisória do juízo desenvolvido em liminar ou tutela antecipada não viabiliza o recurso extraordinário, pois somente com a sentença é que se terá o pronunciamento definitivo, na instância específica, sobre as questões jurídicas enfrentadas na apreciação das liminares. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIMINAR OU TUTELA ANTECIPADA: ATO DECISÓRIO NÃO DEFINITIVO. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA N. 735 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 802.533-AgR, de minha relatoria, Primeira Turma, DJe 25.11.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIMINAR OU TUTELA ANTECIPADA. ATO DECISÓRIO NÃO DEFINITIVO. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I – As decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade que enseje o cabimento do recurso extraordinário. Incidência da Súmula 735 do STF. Precedentes. II – Agravo regimental improvido” (AI 741.770-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.8.2011).
+    Incide na espécie a Súmula n. 735 do Supremo Tribunal Federal: “Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
