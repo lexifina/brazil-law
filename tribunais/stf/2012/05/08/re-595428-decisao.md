@@ -1,0 +1,34 @@
+DECISÃO
+    Vistos.
+    Departamento Nacional de Infraestrutura de Transportes – DNIT interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “PROCESSUAL CIVIL E CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. ACIDENTE DE VEÍCULO. RODOVIA FEDERAL. RESPONSABILIDADE OBJETIVA DO ESTADO.
+    - O direito pátrio consagra a responsabilidade objetiva do Estado nos casos de acidente de veículo decorrentes de má conservação de rodovia federal a possibilitar a indenização por danos morais e materiais.
+    - Ressarcimento por danos materiais pelos valores comprovados nos autos. Danos morais fixados no valor de R$ 2.000,00 (dois mil reais), de acordo com os padrões adotados por esta Turma e com os precedentes para o caso da espécie.
+    - Apelação parcialmente provida” (fl. 151).
+    Aduz o recorrente contrariedade aos artigos 5º, caput, e inciso LV; 37, § 6º; e 93, inciso IX, da Constituição Federal, por entender que não seria responsável pelo pagamento da pretendida indenização, em decorrência do referido acidente automobilístico.
+    Sem contrarrazões (fl. 199), o recurso extraordinário foi admitido (fl. 202).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fls. 208 a 211 e 213), negou provimento ao recurso especial interposto paralelamente ao extraordinário.
+    Decido.
+    A irresignação não merece prosperar.
+    Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal, não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    No tocante aos fatos ensejadores dos danos morais e à responsabilidade do recorrente em indenizá-los, o acórdão recorrido consignou que:
+    “Como se vê, a prova dos autos não deixa margem de dúvida quanto à responsabilidade da União no acidente.
+    Para que a ré se eximisse da obrigação de reparar o dano lhe incumbiria que demonstrasse a culpa exclusiva do proprietário do veículo particular.
+    Demais disso, o direito pátrio consagra a responsabilidade objetiva do Estado em tais casos.
+    (…)
+    Ora, o fato é notório que nossas estradas estão em situação calamitosa, necessitando de reparos urgentes. O Estado tem obrigação de preservar as rodovias federais para não colocar em risco a vida de milhares de condutores que todo dia se arriscam a fazer ultrapassagens perigosas tentado livrar os seus veículos de tais ‘falhas’ originadas, na sua maioria das vezes, de asfalto de péssima qualidade ou recapeamento malfeito.
+    Com relação aos danos materiais, tenho que é devido o ressarcimento das despesas efetivamente comprovada nos autos, como as notas fiscais apresentadas pelo autor diretamente relacionadas ao fato.
+    Quanto aos danos morais tenho que, tendo sido configurada a culpa da Administração em sua omissão em consertar as rodovias, deve-se indenização ao autor no valor que arbitro em R$ 2.000,00 (dois mil reais), que se mostra razoável e de acordo com os precedentes adotados por esta egrégia Turma para os casos da espécie” (fls. 145 a 148).
+    Desse modo, para chegar a entendimento diverso do expresso no acórdão recorrido, seria necessário o reexame de fatos e provas que permeiam a lide, inadmissível no recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anotem-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. SÚMULA 279 DO STF. 2. A hipótese dos autos impõe o reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Precedentes. Agravo regimental a que se nega provimento” (AI nº 688.568/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 11/4/2008).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. NEXO DE CAUSALIDADE ENTRE A CONDUTA E O DANO. MATÉRIA FÁTICA. SÚMULA 279 DO STF. A verificação do nexo causal entre a conduta do agente e os danos sofridos pela vítima se situa no mundo dos fatos, imperscrutável na via extraordinária (Súmula 279 do STF). Precedentes: RE 346.978, RE 235.524-AgR, RE 234.093-AgR, RE 224.907-AgR, RE 286.444-AgR, RE 313.915, RE 215.981 e AI 343.129-AgR. Agravo regimental desprovido” (RE nº 452.438/SP-AgR, Primeira Turma, Relator o Ministro Carlos Britto , DJ de 25/8/2006).
+    Além do mais, a jurisprudência desta Corte tem entendido que o exame das circunstâncias concretas sobre a procedência, ou não, do pedido indenizatório, está no plano infraconstitucional. Nesse sentido, anotem-se:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. OFENSA VEICULADA EM ENTREVISTA JORNALÍSTICA. DANO MORAL. ART. 5º, V E X, CF/88. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. 1. A análise da indenização por danos morais pressupõe, no caso, o reexame do conjunto fático-probatório. Alegada ofensa à Constituição Federal, se existente, seria de forma indireta, reflexa. Precedentes. 2. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 5º, V e X, da Constituição Federal. 3. Agravo regimental improvido” (AI nº 685.015/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJe de 10/9/2009).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ACIDENTE DE TRÂNSITO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 742.061/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 28/5/2009).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 8 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
