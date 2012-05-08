@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. RECURSO ADESIVO À APELAÇÃO. SERVIDOR PÚBLICO DO MUNICÍPIO DO RIO GRANDE. CARGO DE PROFESSORA, VINCULADO AO REGIME GERAL DE PREVIDÊNCIA. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO CONCEDIDA PELO INSS. COMPLEMENTAÇÃO DE APOSENTADORIA PREVISTA NOS ARTS. 204 E 205 DA LEI MUNICIPAL Nº 5.819/2003. PREENCHIMENTO DOS REQUISITOS EXIGIDOS PELA LEI MUNICIPAL. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO E DERAM PARCIAL PROVIMENTO AO RECURSO ADESIVO. UNÂNIME” (fl. 163).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, e 40 da mesma Carta.
+    O agravo não merece acolhida. Ressalta-se, preliminarmente, que o art. 37, caput, da Constituição Federal, não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da súmula 356 do STF.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Municipal 5.819/2003). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido: AI 793.976/MG e AI 750.037/RS, Rel. Min. Ellen Gracie, RE 626.316/MG, Rel. Min. Ayres Britto e, em caso análogo aos dos autos, o ARE 665.671, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de maio de 2011.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
