@@ -1,0 +1,9 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC (Informativo 516, de 27.08.2008).
+    Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+    Posteriormente, a Segunda Turma deste Tribunal, analisando o RE 565.153-AgR-QO, rel. min. Ellen Gracie, acolheu questão de ordem no sentido de reconsiderar a decisão agravada e devolver os autos ao Tribunal de origem, bem como aplicar, quanto ao recurso extraordinário, o disposto no art. 543-B do Código de Processo, ficando prejudicado o agravo regimental interposto. Na mesma assentada firmou-se o entendimento de que essa decisão deverá ser estendida aos demais recursos - agravos regimentais e embargos de declaração - interpostos de decisão monocrática, em data anterior a 20.08.2008, data em que o Plenário acolheu a mencionada Questão de Ordem no RE 540.410, rel. min. Cezar Peluso.
+    No presente caso, o recurso extraordinário versa sobre tema – restrição à participação em concurso público de candidato que responde a processo criminal – cuja repercussão geral foi reconhecida pelo Supremo Tribunal Federal (Tema 22 – RE 560.900-RG, minha relatoria, DJe 28.03.2008).
+    Do exposto, reconsidero a decisão de fls. 249/250, tornando-a sem efeito e, em consequência, julgo prejudicado o recurso de fls. 256-266. Ademais, determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no art. 543-B e parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 08 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
