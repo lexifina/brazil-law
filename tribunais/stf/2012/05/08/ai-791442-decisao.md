@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “RECURSO DE EMBARGOS. VIGÊNCIA DA LEI Nº 11.496/2007. EXECUÇÃO. INSS. CONTRIBUIÇÃO PREVIDENCIÁRIA. ALEGAÇÃO DA UNIÃO DE IMPOSSIBILIDADE DE TRANSAÇÃO POSTERIOR AO TRÂNSITO EM JULGADO DA SENTENÇA QUANTO AO DIREITO DE TERCEIROS NELA CONSAGRADO. ACORDO HOMOLOGADO EM JUÍZO APÓS O TRÂNSITO EM JULGADO DE SENTENÇA CONDENATÓRIA. OFENSA À COISA JULGADA. (...)” (fl. 479).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXVI, e 114, VIII, da mesma Carta.
+    O agravo não merece acolhida. Isto porque, a jurisprudência desta Corte firmou-se no sentido de que a questão referente à alegada afronta à garantia constitucional da coisa julgada em decorrência da homologação de acordo judicial celebrado após o trânsito em julgado de sentença trabalhista e a consequente interferência no valor da contribuição previdenciária a ser executada no juízo laboral possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, destaco o julgamento do RE 631.850-AgR/SP, Rel. Min. Cármen Lúcia, Primera Turma, cuja ementa transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ACORDO HOMOLOGADO NA EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE CONTRARIEDADE À COISA JULGADA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 791.276/DF e AI 796.642/RS, Rel. Min. Dias Toffoli; AI 782.197/SP, Rel. Min. Joaquim Barbosa; RE 631.232/SP, Rel. Min. Ricardo Lewandowski; RE 574.101-AgR/SP, Rel. Min. Cezar Peluso; AI 730.129-AgR/SP, Rel. Min. Dias Toffoli; AI 760.826-AgR/SP, Rel. Min. Eros Grau; e AI 799.832/SP, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
