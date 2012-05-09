@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo interposto contra a inadmissibilidade de recurso extraordinário que, firme na alínea ”a” do permissivo constitucional, impugna acórdão da Décima Quinta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro que, ao manter decisão monocrática do relator, adotou o seguinte fundamento decisório:
+    “No caso em ‘sub censura’, cuida-se de feito de ação de cobrança de diferenças de valores pagos a menor de pensão previdenciária, tendo a sentença atendido todos os critérios de fato e de direito, dando à ‘quaestio’ a solução adequada e correta.
+    Ademais, tal entendimento adotado no julgado encontra-se respaldado por norma constitucional prevista no artigo 40, parágrafos 4° e 5°, sendo que o benefício corresponderá à totalidade dos vencimentos do servidor falecido, se vivo fosse” (fl. 266).
+    Alega-se, no apelo extremo, violação dos artigos 5º, caput e inciso I; 40, parágrafos 7º e 12; 201, inciso V, da Constituição Federal. Dessa forma, em suma, aduz-se:
+    “Como não há previsão de pagamento de pensão a filhas maiores pelo Regime Geral de Previdência Social, o pagamento de pensão às filhas maiores pelo Regime Próprio passou a ser vedado e, por consequência, os benefícios pagos às filhas maiores deixaram de ser abrangidos pela norma que garante a paridade de seus valores com a remuneração para aos servidores em atividade” (fl. 338).
+    Prossegue-se:
+    “Como não há direito adquirido a regime jurídico, não há que se falar em direito adquirido a ‘critério de revisão’.
+     Conclui-se, com fundamento, pois, na mais escolhida doutrina e na jurisprudência pacífica da Suprema Corte, que não há direito adquirido a que a Apelante tenha o valor de sua pensão revisada em paridade com o valor da remuneração dos servidores em atividade” (fl. 339).
+    Decido.
+    Razão assiste ao agravante no que se refere às condições de trânsito do extraordinário, motivo pelo qual passo ao exame das razões do recurso obstado na origem.
+    Com efeito, o recurso extraordinário traz duas questões, a saber: a subsistência de benefício de pensão por morte instituído em norma local – a bem de filha solteira de servidor militar falecido – e o direito de revisão do valor desse pensionamento com base em padrão normativo superveniente, preceituado no artigo 40, parágrafos 7º e 8º, da Constituição Federal de 1988.
+    Nesse contexto, o primeiro debate se submete à sistemática da Repercussão Geral, uma vez que se enquadra no que decidido por esta Suprema Corte no exame do RE-RG 610.220, Rel. Min. Ellen Gracie, DJe 4.6.2010, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIREITO À PENSÃO PARA FILHA SOLTEIRA MAIOR DE 21 ANOS. LEI ESTADUAL 7.672/82 DO RIO GRANDE DO SUL. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Assim, quanto a esse ponto, a vertente questão jurídica não viabiliza discussão nesta sede extraordinária.
+    Todavia, no tocante à alteração do parâmetro de cálculo da pensão por morte, tenho para mim que o Tribunal a quo deu ao artigo 40, § 7º, da Constituição Federal interpretação dissonante da jurisprudência prevalecente neste Supremo Tribunal Federal sobre o tema.
+    A propósito disso, impende anotar que o vínculo jurídico da pensionista com a fonte pagadora não se confunde com o do instituidor – esteja este afeto ao regime próprio, geral, privado ou complementar de previdência –, sendo certo que aquele surge e se aperfeiçoa com o evento que justifica a pensão, a morte do instituidor.
+    Desse modo, considerada a conformação contributivo-atuarial das obrigações previdenciárias, a observância do critério vigente ao tempo da concessão de benefício, relativo à sua base de cálculo, é medida que se impõe como elemento estruturante e indispensável a qualquer sistema previdenciário que pretenda a autossuficiência.
+    Nesse sentido, entre outros, destaquem-se os seguintes precedentes: RE-AgR 602.012, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.9.2010; RE-AgR 453.298, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 22.6.2007; RE 273.570, Rel. Min. Marco Aurélio, Primeira Turma, DJ 5.5.2006. Este último foi assim ementado:
+    “PENSÃO - CONFLITO DE NORMAS NO TEMPO - REGÊNCIA. A regência da pensão faz-se considerada a legislação em vigor na data do falecimento do servidor, descabendo emprestar a texto de lei ou da Constituição eficácia retroativa, no que prevista a percepção pela totalidade dos vencimentos”.
+    Não bastasse, mutatis mutandis, confira-se o que decidido no exame do RE-QO-RG 597.389, de minha relatoria, Tribunal Pleno, DJe 21.8.2009.
+    Presente esse quadro, vê-se que o fundamento normativo adotado para deduzir a pretensão inicial não encontra ressonância nos dispositivos constitucionais invocados – artigo 40, parágrafos 7º e 8º, da Constituição Federal –, circunstância que traduz, sob esse ângulo, a impossibilidade jurídica do pedido.
+    Ante o exposto, nos termos do artigo 544, § 4º, inciso II, alínea “c”, do Código de Processo Civil, conheço do agravo para, desde logo, dar provimento ao recurso extraordinário, de ordem a reformar o acórdão recorrido para julgar extinto o processo nos termos do artigo 267, IV, do Código de Processo Civil.
+    Portanto, inverto os ônus da sucumbência, condenando, assim, a autora ao pagamento das custas do feito e dos honorários advocatícios, este no patamar de 5 % (cinco por cento) do valor atualizado da causa, cuja exigibilidade ficará suspensa nos termos do artigo 12 da Lei 1.060, de 5 de fevereiro de 1950.
+    Publique-se.
+    Brasília, 9 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
