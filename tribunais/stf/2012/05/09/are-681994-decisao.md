@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “SERVIDOR PÚBLICO – Procurador do Município de São Paulo – Lei n. 13.400/2002 – Diferenças devidas em razão da ausência de correção da Vantagem de Ordem Pessoal – VOP, acumulada no período de setembro de 2002 até dezembro de 2006 – Pretensão ao recebimento de valores calculados nos meses de junho a dezembro de 2006 – Competência do Juizado Especial da Fazenda Pública afirmada – Ausência de irregularidade na modificação da sentença em sede de embargos de declaração – Pedido certo – Sentença líquida – Valores devidos – Sentença de procedência mantida, com observação, apenas para fixar o termo inicial da correção monetária e dos juros de mora, na forma da Lei n. 11.960/2009 – Recurso a que se nega provimento, com observação, com a condenação da recorrente vencida no pagamento das custas processuais e dos honorários advocatícios que fixo em 10% (dez) por cento sobre o montante do débito" (fl. 170).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, LV, 93, IX, e 169 da mesma Carta.
+    O agravo não merece acolhida.
+    Verifica-se, preliminarmente, que os arts. 2º e 5º, LV, da Constituição, não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF.
+    Ressalte-se, ainda, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Municipal 13.400/2002). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, destaco a decisão proferida no AI 747.919-AgR/SP, Rel. Min. Joaquim Barbosa, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROCURADORES DO MUNICÍPIO DE SÃO PAULO. VERBA HONORÁRIA. LEIS MUNICIPAIS 9.402/1981 E 13.400/2002. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/ STF. REEXAME DE DIREITO LOCAL. ÓBICE DA SÚMULA 280/STF.
+    Agravo regimental a que se nega provimento”.
+    Por fim, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
