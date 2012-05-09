@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+    "AÇÃO ORDINÁRIA. CONCURSO PÚBLICO. EXAME MÉDICO. INAPTIDÃO. DESCONSTITUIÇÃO. PROVA. CONTRADITÓRIO. É legal a exigência de exame de saúde, previsto em edital para aprovação em concurso público para ocupar cargo de Agente Penitenciário. Ao Poder Judiciário é vedado emitir qualquer pronunciamento sobre o mérito do exame de saúde, levado a efeito por banca de concurso legalmente constituída, cabendo aferir tão-somente aspectos formais atinentes à realização de tal exame" (fl. 154).
+    Opostos embargos de declaração, foram rejeitados (fls. 170-173 e 184-186).
+    Sustenta o recorrente, com fundamento no art. 102, III, a, da Constituição, ofensa ao artigo 39, § 3º, da Constituição Federal. Aduz, em síntese, que a criação de requisitos eliminatórios em concurso público deve ser compatível com a natureza e atribuições do cargo, em atenção aos princípios da igualdade, razoabilidade e proporcionalidade.
+    A Procuradoria-Geral da República opina pelo não provimento do recurso (fls. 300-302).
+    2. Inadmissível o extraordinário.
+    Os temas constitucionais nele suscitados não foram objeto de consideração no acórdão recorrido, nem nos embargos de declaração, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+    É que a jurisprudência da Corte é pacífica no sentido de não ter por prequestionada a matéria pelo só fato da oposição de embargos declaratórios, sem ter-se caracterizado prévia omissão do tribunal a quo sobre questão constitucional que a parte haja suscitado no recurso sobre que versou a decisão embargada. Noutras palavras, é preciso que a parte tenha proposto questão constitucional não apreciada pelo tribunal local no acórdão impugnável mediante embargos declaratórios. Se a não levantou a parte previamente, não pode o acórdão, que conheceu do recurso, ser tachado de omisso, nem, por conseguinte, ser passível de ataque por embargos tendentes a remediar omissão que não houve. Os embargos de declaração não podem suscitar questão constitucional nova, não arguida no recurso anterior como objeto necessário da decisão embargada.
+    Ainda que superado tal óbice, o recurso não prosperaria. É que o Tribunal a quo assentou que:
+    “Com efeito, além da prova pericial não ter força vinculativa, podendo ser livremente valorada, este Relator tem entendimento firme segundo o qual é vedado ao Poder Judiciário emitir qualquer pronunciamento sobre o mérito de exames previstos em concursos públicos, cabendo aferir tão-somente aspectos formais atinentes à sua realização.
+    Isso porque, pelo princípio da independência entre os poderes, inscrito no art. 2º da CR/88, é vedado ao judiciário imiscuir-se quanto ao acerto da banca examinadora, que goza de soberania para decidir sobre a aptidão do candidato para o exercício do cargo. Caberá ao julgador decidir se o exame foi legítimo, realizado nos termos do edital de regência do concurso.” (fls. 156-157)
+    Desta forma, o acórdão impugnado contém fundamento constitucional autônomo e suficiente para manutenção do julgado (art. 2º da Constituição Federal), não impugnado nas razões recursais, o que atrai a aplicação da súmula 283.
+    3. Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF, art. 38 da Lei nº 8.038, de 28.05.90, e art. 557 do CPC).
+    Publique-se. Int..
+    Brasília, 9 de maio de 2012.
+Ministro CEZAR PELUSO
+Relator
