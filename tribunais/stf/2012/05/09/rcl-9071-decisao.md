@@ -1,0 +1,21 @@
+RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À ADI 1.721. INEXISTÊNCIA. RECLAMAÇÃO A QUE SE NEGA SEGUIMENTO.
+    Decisão: Cuida-se de Reclamação, com pedido liminar, ajuizada pelo Serviço Social da Indústria (SESI) – Departamento Regional do Rio de Grande do Sul em face de decisão exarada pela 3ª Turma do Tribunal Regional do Trabalho da 4ª Região, no bojo do Recurso Ordinário nº 00798.2007.352.04.00.6, que teria ofendido a autoridade da decisão do Supremo Tribunal Federal na ADI nº 1.721.
+    Em breve narrativa dos fatos, noticia o Reclamante que Maria de Lourdes Rizzi ajuizou reclamação trabalhista, pleiteando o pagamento de multa compensatória por despedida imotivada no valor de 40% incidente sobre os depósitos do FGTS. Isto porque a obtenção de sua aposentadoria espontânea não implica a extinção do contrato de trabalho, consoante alegado pelo Reclamante.
+    O pleito autoral fora julgado procedente em primeiro grau, com confirmação, em sede de recurso ordinário, pelo Tribunal Regional do Trabalho da 4ª Região, condenando o Reclamante ao pagamento das verbas referentes à rescisão imotivada pela totalidade do período contratual.
+    Contra o decisum do Tribunal Regional do Trabalho, insurgiu-se o Reclamante, asseverando a contrariedade deste com o decidido pelo Supremo Tribunal Federal nos autos da ADI nº 1.721. Para ele, a decisão do STF cingia-se à declaração de inconstitucionalidade dos preceitos legais atinentes ao rompimento do vínculo empregatício quando se tratar de aposentadoria proporcional. Em se tratando de aposentadoria integral, prevista no caput do art. 453 da CLT, ocorreria tal rompimento.
+    As informações do Desembargador Vice-Presidente do Tribunal Regional do Trabalho da 4ª Região foram apresentadas, fls. 36/44.
+    Parecer do Procurador-Geral da República (fls. 49/51) pela improcedência da Reclamação.
+    É o breve relatório. Passo a decidir.
+    Deve ser negado seguimento à Reclamação.
+    Na aludida ação direta, discutia-se a (in) constitucionalidade dos parágrafos primeiro e segundo do art. 453 da CLT, introduzidos pela Lei nº 9.528/97. No mérito, esta Corte pronunciou a inconstitucionalidade dos precitados dispositivos, dentre outras razões, em razão do fato de que o direito à aposentadoria se insere em uma relação jurídica entre segurado e o Sistema Geral de Previdência Social, distinta e inconfundível com a relação jurídico-trabalhista.
+    No ponto, salientou a Corte que este sistema atuarial-financeiro possui uma gramática própria, dentro do qual eventuais encargos ficam a cargo do próprio Instituto Nacional de Seguridade Social, e não do empregador. De modo que, em razão disso, seria defeso ao legislador ordinário instituir uma nova modalidade de extinção automática do contrato de trabalho pelo simples exercício de um direito por parte do empregador.
+    O que se verifica, portanto, é que o decidido na ADI nº 1.721 passa ao largo do debate ventilado pelo Reclamante, no sentido, repete-se, de que a declaração de inconstitucionalidade dos preceitos legais atinentes ao rompimento do vínculo empregatício encontrava-se adstrita às hipóteses de aposentadoria proporcional, e não integral, a qual manter-se-ia incólume.
+    Ao revés, o exame do julgado do Tribunal Regional do Trabalho da 4ª Região encontra-se em sintonia com a decisão proferida nos autos da ADI nº 1.721, corroborando que a obtenção de aposentadoria espontânea pelo beneficiário não acarreta a automática e instantânea extinção de seu vínculo empregatício.
+    Diante disso, resta impossível o manuseio do instituto da Reclamação, na medida em que seu ajuizamento exige, consoante lições básicas de Direito, a efetiva comprovação de afronta à autoridade da decisão do Supremo Tribunal Federal. E isso, conforme analisado nos autos, não ocorreu.
+    Destarte, o rompimento instantâneo e automático do vínculo empregatício em razão da obtenção de aposentadoria espontânea pelo empregado consubstancia demissão sem justa causa, razão pela qual são devidas as verbas indenizatórias.
+    Ex positis, julgo improcedente a presente Reclamação, com base no art. 161, p. u., do Regimento Interno do Supremo Tribunal Federal, ficando prejudicado o pedido de liminar.
+    Publique-se. Int..
+    Brasília, 9 de maio de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
