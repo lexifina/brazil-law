@@ -1,0 +1,22 @@
+Decisão
+    Vistos
+     Abengoa Bioenergia São Luiz S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 150, I, e 195, I, da Constituição Federal.
+    O apelo extremo foi interposto contra acórdão do Tribunal Regional Federal da 3ª Região, que restou assim ementado:
+    “EMENTA
+    EMBARGOS À EXECUÇÃO FISCAL. REEXAME NECESSÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS SOBRE VALORES PAGOS AOS EMPREGADOS A TÍTULO DE REEMBOLSO DE DESPESAS DE CONSULTA MÉDICA E FARMÁCIA. INCIDÊNCIA NA ÉPOCA DE OCORRÊNCIA DOS FATOS GERADORES. APELO E REMESSA OFICIAL PROVIDOS.
+    1. Nos termos do art. 475, II, do Código de Processo Civil, sentença que julga procedentes embargos à execução fiscal está sujeita a reexame necessário, no caso tido por interposto.
+    2. Na época em que ocorridos os fatos geradores, o custeio da Seguridade Social era regido pela CLPS veiculada pelo Decreto na 89.312/84, cujo art. 135 conceituava o salário-de-contribuição como "a remuneração efetivamente recebida a qualquer título, para o empregado,...", fazendo algumas ressalvas quanto a rubricas que, sobre as mesmas, expressamente indicavam a não incidência de contribuição previdenciária, nada dispondo, porém, sobre reembolso de despesas feitas pelo empregado em farmácias ou em consultas médicas.
+    3. Na mesma linha, a redação originária do art. 22, I, da posterior Lei n.º 8.212/91, embora igualmente comportando uma ou outra descrição casuística, deixava clara a genérica incidência da contribuição previdenciária sobre valores pagos aos empregados " ...a qualquer título, durante o mês, destinados a retribuir o trabalho,...”, sobrevindo, entretanto, a Lei na 9.528/97, a qual acrescentou a alínea "q" ao §9° do art. 28 da Lei de Custeio da Seguridade Social, dispondo não integrar o salário-de-contribuição "o valor relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou por ela conveniado, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, despesas médico-hospitalares e outras similares, desde que a cobertura abranja a totalidade dos empregados e os dirigentes da empresa;”.
+    4. Como se vê, até a edição da Lei nº 9.528/97 não havia amparo legal ao afastamento da contribuição previdenciária sobre quantias reembolsadas aos trabalhadores por despesas em farmácias e consultas médicas.
+    5. Eventual intento da empregadora em melhorar a qualidade de vida de seus empregados, arcando com despesas médicas destes, embora louvável não tinha, à míngua de disposição legal, o condão de transmudar verbas efetivamente salariais para a natureza meramente indenizatória, a uma porque nenhuma determinação legal impunha aos empregadores o custeio de tais despesas particulares dos trabalhadores e, a duas, tais despesas não estavam ligadas à execução do contrato de trabalho, de forma a carrear à empresa a responsabilidade pelo reembolso.
+    6. Entendimento diverso poderia levar ao esvaziamento do custeio da seguridade social, pois bastaria à empregadora, sem base legal, passar a reembolsar qualquer despesa particular de seus empregados para que tais quantias, de evidente natureza salarial, restassem escamoteadas do salário-de-contribuição.
+    7. Apelo e remessa oficial providos. Embargos julgados improcedentes, com inversão dos ônus de sucumbência”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que todos os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido” (AI n° 854.484/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12).
+    Diante do exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 9 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
