@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio de Janeiro e assim ementado:
+    “REEXAME NECESSÁRIO. APELAÇÃO. DECLARAÇÃO DE DESNECESSIDADE DO CARGO. POLICIAL CIVIL. DISPONIBILIDADE COM REMUNERAÇÃO PROPORCIONAL. REINTEGRAÇÃO. AÇÃO DE COBRANÇA DE PARCELAS ATRASADAS.
+    1 - Sentença proferida em perfeita consonância com a jurisprudência deste Tribunal acerca da matéria. Com efeito, considerando o reconhecimento da nulidade, por vício de finalidade, do Decreto que declarou a desnecessidade do cargo e colocou o Apelado em disponibilidade com remuneração proporcional ao tempo de serviço, é correto o pagamento das parcelas atrasadas, com juros e correção monetária.
+    2 - Reexame necessário e recurso de apelação desprovidos.” (fls. 126)
+    Alega o recorrente, com base no art. 102, III, a, violação aos arts. 2º e 41, § 3º, da Constituição Federal.
+    2. Inviável o recurso.
+    Com efeito, para determinar o pagamento das parcelas atrasadas, com juros e correção monetária, a servidor público colocado a disposição, o aresto invocou, além de dispositivos constitucionais, fundamentação infraconstitucional suficiente (Decreto nº 26.811/00 e Decreto nº 29.779/01).
+    Ocorre que o Superior Tribunal de Justiça negou seguimento ao recurso especial (REsp nº 1.294.773), tendo a decisão transitado em julgado. Assim, o fundamento infraconstitucional subsiste, atraindo a aplicação da súmula 283, como, aliás, já reconheceu esta Corte, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RECURSO PARA O CONSELHO DE RECURSOS DO SISTEMA FINANCEIRO NACIONAL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA INDIRETA. FUNDAMENTOS INFRACONSTITUCIONAIS SUFICIENTES. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I – O Tribunal de origem dirimiu a questão dos autos com base na interpretação da legislação infraconstitucional aplicável à espécie - Decreto 91.152/85 e Lei 6.385/76. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. II – A jurisprudência desta Corte é firme no sentido de que a verificação de eventual ofensa aos princípios do contraditório e da ampla defesa demanda, em regra, a análise de normas infraconstitucionais. Precedentes. III – Com a negativa de provimento ao recurso especial, tornaram-se definitivos os fundamentos infraconstitucionais suficientes que amparam o acórdão recorrido (Súmula 283 do STF). IV – Agravo regimental improvido. (RE 605.898-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 08.04.2011)
+    3. Diante do exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038/90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 10 de maio de 2012.
+Ministro CEZAR PELUSO
+Relator
