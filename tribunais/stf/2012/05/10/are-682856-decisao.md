@@ -1,0 +1,16 @@
+DECISÃO : Trata-se de agravo contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, cuja ementa possui o seguinte teor (fls. 259):
+    “AGRAVO INTERNO. DECISÃO DA RELATORIA QUE NEGOU SEGUIMENTO AO RECURSO DE APELAÇÃO INTERPOSTO PELO ORA AGRAVANTE. APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. AÇÃO CAUTELAR OBJETIVANDO O PROSSEGUIMENTO EM CERTAME. AÇÃO PRINCIPAL DE OBRIGAÇÃO DE FAZER. CONCURSO PÚBLICO PARA O CARGO DE TÉCNICO DE ENFERMAGEM DO CORPO DE BOMBEIRO MILITAR. CANDIDATA REPROVADA NO EXAME MEDIO. MIOPIA QUE NÃO IMPEDE O DESEMPENHO DA ATIVIDADE PROFISSIONAL CONSOANTE LAUDO MÉDICO. CORREÇÃO VISUAL DENTRO DOS PARÂMETROS EXIGIDOS PELO EDITAL. HONORÁRIOS SUCUMBENCIAIS QUE DEVEM SER FIXADOS NA FORMA DO ART. 20 § 4º DO CPC. MAJORAÇÃO DA VERBA HONORÁRIA. DESPROVIMENTO DA RECURSO.”
+    No recurso extraordinário, o ora agravante alega violação do disposto nos arts. 2º; 5º, caput; 37, caput e I; e 39, § 3º c/c 7º, XXX, todos da Constituição.
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a dispositivos da Constituição federal, afirmando-se, em preliminar, que “haja vista que o v. Acórdão recorrido abre precedente que pode servir de paradigma para inúmeras outras ações que poderão carrear prejuízo ao Erário, já que se está a admitir permanência em concurso público de candidato considerado inapto para o exercício da profissão, parece-nos evidente, com todo o respeito, a repercussão que a manutenção do v. Acórdão pode acarretar à Administração e, inclusive, aos cidadãos fluminenses.” (fls. 276).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008.
+    Ademais, verifico que o Tribunal a quo, analisando o edital do concurso e o conjunto fático-probatório dos autos, concluiu que:
+    “O edital no Anexo, I, item “i’ estabelece os critérios médicos de exclusão dos candidatos em razão de doença oftalmológica e fixa os índices exigidos no exame oftalmológico, a seguir (…).
+    O laudo médico às fls. 67 é conclusivo ao declarar que a candidata é portadora de miopia em grau que permite a correção estando dentro dos parâmetros exigidos pelo edital, não se sustentando a eliminação levada a efeito.
+    Nessa linha de intelecção, o certo é que o ato de reprovação da autora no exame de saúde, por ser portador de miopia, não se harmoniza com as normas editalícias.” (fls. 260-261)
+    Conclusão diversa da alcançada demandaria o exame das cláusulas editalícias e exigiria o reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida nas Súmulas 454 e 279 desta Corte.
+    Do exposto, nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
