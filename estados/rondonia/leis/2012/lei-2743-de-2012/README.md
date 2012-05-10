@@ -1,0 +1,5 @@
+# Lei nº 2.743, de 10 de maio de 2012, do Estado de Rondônia
+
+AUTORIZA O PODER EXECUTIVO A PROCEDER À CONTRATAÇÃO DE PROFISSIONAIS DA ÁREA EDUCACIONAL, POR TEMPO DETERMINADO, PARA ATENDER À NECESSIDADE TEMPORÁRIA DE EXEPCIONAL INTERESSE PÚBLICO EM VIRTUDE DA IMPLANTAÇÃO DO PROGRAMA FEDERAL PROJOVEM URBANO, NOS TERMOS DA LEI N° 1.184, DE 27 DE MARÇO DE 2003 E DA RESOLUÇÃO CD/FNDE N° 60, DE 09 DE NOVEMBRO DE 2011.
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/5720>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2012/5720/5720_texto_integral.pdf>
