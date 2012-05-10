@@ -1,0 +1,29 @@
+Decisão
+    Vistos.
+    Almax Indústria e Comércio Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso LV, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado de Sergipe, assim ementado:
+    “Apelação Cível. Ação de Obrigação de Fazer. Entrega de esquadrias. Nulidade da sentença não verificada. Falsidade das assinaturas apostas nos aditivos contratuais. Preclusão. Inadimplemento contratual por parte do Apelante, que se nega a entregar e instalar as mercadorias, que justifica o não pagamento das últimas parcelas da avença por parte do contratante. Precedentes. Honorários advocatícios. Redução.
+    I - Se o magistrado exerceu de forma coerente e livre o seu convencimento, fundamentando a contento o seu entendimento, bem assim negando a produção de provas desnecessárias, em plena consonância com o art.130 do CPC, não há que se falar em ofensa ao texto Constitucional.
+    II - Não reconhecendo a veracidade da assinatura aposta em quaisquer dos documentos adunados aos autos, deve a parte intentar o incidente de falsidade em sua contestação, sob pena de preclusão, a qual incide no presente momento e nos impede de enfrentar a matéria em sede Recursal, na forma do art. 390 do CPC.
+    III - Verificada a reciprocidade e equivalência das prestações pactuadas, cada um dos contratantes se sujeita ao cumprimento estrito das cláusulas avençadas, sendo certo que, se uma das partes não cumpre a sua obrigação (na hipótese instalar - as esquadrias), pode a outra recusar ao cumprimento da sua, qual seja o pagamento das parcelas restantes, sob o fundamento da inexecução do contrato. Precedentes.
+    IV - Inexistindo condenação, na forma do art. 20, §4° do CPC, o magistrado deve sempre respeitar as balizas subjetivas expressas nas alíneas a, b e c do §3° daquele dispositivo (grau de zelo do profissional; lugar de prestação do serviço e a natureza e importância da causa) sendo, neste aspecto passível de reforma a decisão recorrida. Recurso conhecido e parcialmente provido. Decisão unânime” (fls. 252 a 253).
+    Opostos embargos de declaração (fls. 264 a 266), foram rejeitados (fls. 272 a 279).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do agravante, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal, não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. Nesse sentido, anote-se:
+    “Agravo regimental. Recurso extraordinário. Ação de indenização por dano causado por acidente de trânsito. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência.
+    1. Não incorre em ofensa à ampla defesa o indeferimento de diligência probatória tida por desnecessária.
+    2. Não se abre a via do recurso extraordinário para o reexame de fatos e provas. Incidência da Súmula nº 279 desta Corte.
+    3. Agravo regimental desprovido” (AI nº 631.856/AM-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+    “PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+    II - Este Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. III - Agravo regimental improvido” (AI nº 616.277/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/9/08).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
