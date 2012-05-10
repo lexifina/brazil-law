@@ -1,0 +1,13 @@
+Decisão:1. Suscita a GLAXOSMITHKLINE BRASIL LTDA conflito de competência, com pedido de liminar, para que seja suspensa a execução na Justiça do Trabalho e reconhecida a Justiça Comum Falimentar como a competente para declarar a existência de grupo econômico entre a suscitante e o Laboratório Enila- Indústria e Comércio de Produtos Químicos e Farmacêuticos S.A., cuja falência foi decretada, e eventual responsabilidade econômica pelas dívidas da falida.
+    Aduz que a Lei nº 11.101/05 determinou de maneira exaustiva as formas de reconhecimento da existência de grupo econômico de fato entre sociedade falida e terceiros e que a competência, nos termos dos arts. 81 e 82 do citado diploma legal, é somente do juízo universal da falência. Afirma que o próprio Tribunal Superior do Trabalho fez expressa referência ao art. 6º da Lei Falimentar para negar o pedido de suspensão da execução trabalhista formulado pela ora suscitante, mas desconsiderou por completo a situação no âmbito da Justiça Comum Falimentar, colocando, inclusive, o reclamante daqueles autos em situação de privilégio sobre os demais credores trabalhistas da massa falida na execução coletiva.
+    Por fim, sustenta que está na iminência de ser compelida a satisfazer a condenação imposta ao Laboratório Enila naquela reclamação trabalhista, seja por alienação dos bens penhorados, seja pela realização de bloqueios de ativos financeiros “on line”.
+      2. Decido. É caso de liminar.
+     Em exame de cognição sumária tenho por coexistentes os requisitos da concessão da liminar, nos termos do art. 120 do Código de Processo Civil e do art. 166 do Regimento Interno do Supremo Tribunal Federal, perante decisões deste Supremo Tribunal Federal que, em casos análogos, já assentou a competência da Justiça Estadual para processar e julgar o feito, uma vez que “...a opção do legislador infraconstitucional foi manter o regime anterior de execução dos créditos trabalhistas pelo juízo universal da falência, sem prejuízo da competência da Justiça Laboral quanto ao julgamento do processo de conhecimento.” (RE nº 583.955, Rel. Min. RICARDO LEWANDOVSKI).
+    Assim, defiro a liminar, para determinar o sobrestamento da execução trabalhista em trâmite na 10ª Vara do Trabalho de Belo Horizonte/MG, designando o Juízo Falimentar para resolver, em caráter provisório, as medidas urgentes, até o julgamento deste Conflito de Competência.
+    3. No mais, aguardem-se as informações já solicitadas.
+    Após, dê-se vista ao Ministério Público Federal, nos termos do art. 121 do CPC e do art. 168 do RISTF.
+    Publique-se. Int..
+    Brasília, 10 de maio de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
