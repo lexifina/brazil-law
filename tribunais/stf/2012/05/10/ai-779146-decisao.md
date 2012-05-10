@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Márcia Cristina Ebert interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso X, e 37, § 6º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “RESPONSABILIDADE CIVIL DO ESTADO. EXECUÇÃO DE HOMÔNIMO. CORREÇÃO DO ATO. AUSÊNCIA DE DANO.
+    Inexiste nos autos prova de dano a ensejar a pretensão indenizatória.
+    Do exame dos documentos juntados aos autos, verifica-se que a determinação que deu origem à indevida constrição judicial restou prontamente resolvida por iniciativa do próprio Estado, o qual, no momento em que constatou que automóvel indicado à penhora não era de propriedade da autora, determinou o levantamento da restrição, corrigindo, assim, o ato falho que havia praticado. Tem-se, pois, que o ocorrido não ultrapassou de mero transtorno que não tem o condão de servir de elemento suficiente à pretensão indenizatória por danos morais
+    APELAÇÃO IMPROVIDA”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem acerca da improcedência do pedido indenizatório seria necessário o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. DANO MORAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE FATOS E PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 601.443/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 279 DO STF. I - A apreciação do recurso extraordinário demanda o exame de matéria de fato, o que atrai a incidência da Súmulas 279 do STF. II - Agravo regimental improvido” (AI nº 634.072/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 22/6/07).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INDENIZAÇÃO POR DANOS MORAIS. CONCURSO PÚBLICO. DESCLASSIFICAÇÃO. AVALIAÇÃO MÉDICA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. 1. É inadmissível recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta à Constituição Federal. 2. O Tribunal de origem, a partir do exame dos fatos e das provas dos autos, concluiu pela inexistência de dano moral a ser reparado em razão de desclassificação da parte agravada do concurso público com base em avaliação médica. 3. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal. Precedentes. 4. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 5. Agravo regimental a que se nega provimento” (RE nº 609.588/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 10/5/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
