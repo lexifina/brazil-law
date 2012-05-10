@@ -1,0 +1,36 @@
+Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Mário Ivan Cândido de Oliveira, contra ato do Presidente do Tribunal de Contas da União.
+    O impetrante aduz que,
+    “ingressou na Empresa Brasileira de Correios e Telégrafos (ECT) no ano de 1987, passando a ocupar cargo para o qual se exigia à época, como grau de escolaridade, o ensino médio (antigo 2° grau).
+    Em maio de 1995, através de processo seletivo interno (PSI), foi reclassificado para o cargo de técnico postal júnior, e em dezembro de 1995 fora enquadrado no plano de carreira e salário (PCCS/95), como técnico postal júnior.
+    Na data de setembro de 2004, galgou a ultima progressão de carreira, com o cargo de técnico operacional pleno, mas em janeiro de 2008, sem notificação o Impetrante teve a sua ascensão funcional anulada pela Impetrada por meio da publicação do acórdão nº 108/2004, rebaixando o cargo do Impetrante, bem como seu salário”.
+    Sustenta, nessa linha, que, em face da violação de seu direito ao contraditório a à ampla defesa, deve ser anulado o mencionado acórdão.
+    Por fim, requer a concessão de medida liminar, haja vista o caráter alimentar da verba decorrente da ascensão funcional questionada.
+    É o breve relatório.
+    Passo a decidir.
+    Preliminarmente, cabe analisar a questão concernente à ocorrência, ou não, da decadência do direito de impetrar mandado de segurança, observada a data de publicação do ato ora impugnado.
+    A jurisprudência desta Suprema Corte, em tema de contagem do prazo decadencial para impetração de mandado de segurança, firmou orientação que se acha consubstanciada em acórdão assim ementado:
+    “MANDADO DE SEGURANÇA - IMPETRAÇÃO DEDUZIDA QUANDO JÁ ESGOTADO O PRAZO DECADENCIAL DE 120 DIAS (LEI Nº 1.533/51, ART. 18) - AÇÃO DE MANDADO DE SEGURANÇA NÃO CONHECIDA.
+    MANDADO DE SEGURANÇA - PRAZO DECADENCIAL - CONSUMAÇÃO - EXTINÇÃO DO DIREITO DE IMPETRAR O WRIT - CONSTITUCIONALIDADE.
+    - Com o decurso in albis do prazo decadencial de 120 dias, a que se refere o art. 18 da Lei nº 1.533/51 - cuja constitucionalidade foi reafirmada pelo Supremo Tribunal Federal (RTJ 142/161 - RTJ 145/186 - RTJ 156/506) -, extingue-se, de pleno direito, a prerrogativa de impetrar mandado de segurança.
+    MANDADO DE SEGURANÇA E TERMO INICIAL DO PRAZO DE SUA IMPETRAÇÃO.
+    - O termo inicial do prazo decadencial de 120 dias começa a fluir, para efeito de impetração do mandado de segurança, a partir da data em que o ato do Poder Público, formalmente divulgado no Diário Oficial, revela-se apto a gerar efeitos lesivos na esfera jurídica do interessado. Precedentes.
+    A CONSUMAÇÃO DO PRAZO DECADENCIAL - QUE SÓ ATINGE O DIREITO DE IMPETRAR O WRIT - NÃO GERA A PERDA DO DIREITO MATERIAL AFETADO PELO ATO ABUSIVO DO PODER PÚBLICO.
+    - O ato estatal eivado de ilegalidade ou de abuso de poder não se convalida e nem adquire consistência jurídica, pelo simples decurso, in albis, do prazo decadencial a que se refere o art. 18 da Lei nº 1.533/51.
+    Desse modo, a extinção do direito de impetrar mandado de segurança, resultante da consumação do prazo decadencial, embora impeça a utilização processual desse instrumento constitucional, não importa em correspondente perda do direito material, ameaçado ou violado, de que seja titular a parte interessada, que sempre poderá - respeitados os demais prazos estipulados em lei - questionar, em juízo, a validade jurídica dos atos emanados do Poder Público que lhe sejam lesivos. Precedente: RTJ 145/186-194” (grifos no original – MS 23.795-AgR/DF, Rel. Min. Celso de Mello).
+    Importa assinalar que o prazo decadencial de 120 dias previsto no art. 18 da Lei 1.533/1951 foi reproduzido na nova Lei do Mandado de Segurança – 12.016/2009 que, em seu art. 23 dispõe: “ o direito de requerer mandado de segurança extinguir-se-á decorridos 120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado
+    Com efeito, após consulta ao sítio eletrônico do Tribunal de Contas da União, uma vez que o suposto ato coator não foi juntado pelo impetrante, verifico que o acórdão impugnado neste writ foi publicado no Diário Oficial da União em 19/2/2004. O processo no qual se proferiu a referida decisão (000.891/1998-3) encerrou-se em 21/1/2010.
+    Dessa forma, como se percebe, o prazo decadencial de há muito já se esgotou, haja vista ter sido esta impetração protocolizada nesta Corte somente em 1º/5/2012.
+    A jurisprudência deste tribunal fixou o entendimento de que, em se tratando de relação jurídica de caráter continuado, o prazo para impetrar mandado de segurança renova-se a cada omissão da Administração Pública em cumprir a lei. Entretanto, tratando-se de ato comissivo que evidencia a intenção inequívoca do Poder Público em praticá-lo, o prazo decadencial de 120 dias para a impetração do writ conta-se a partir da realização do ato.
+    Nesse sentido o MS 25.136/PB, Rel. Min. Marco Aurélio:
+    “DECADÊNCIA - MANDADO DE SEGURANÇA - PRESTAÇÕES SUCESSIVAS - ATOS COMISSIVOS E OMISSIVOS - DISTINÇÃO. Incide a decadência quando a impetração, embora a envolver relação jurídica de débito continuado, está dirigida contra ato comissivo, e não simplesmente omissivo, da autoridade coatora”.
+    À ocasião, o Relator Min. Marco Aurélio consignou o seguinte:
+    “Iniludivelmente, houve o conhecimento do ato com que afastado o direito à pensão ainda em 2003, em dezembro, e este mandado de segurança somente veio a ser impetrado em 27 de setembro de 2004, já então decorrido o prazo peremptório de 120 dias. Está-se diante não de simples sucessividade de atos omissivos quando adequado o afastamento da decadência, em visão flexível. Não basta para se alijar a decadência o envolvimento de prestações sucessivas. Indispensável é que não haja, no cenário, ato positivo que possa ser tido como violador de direito. O instituto visa à segurança jurídica, considerada a impetração. Assim, uma vez cientificada da decisão do Tribunal de Contas da União, conforme ofício de folha 21, datado de 11 de dezembro de 2003, incumbia à impetrante atentar para o prazo decadencial”.
+    Desse modo, observa-se que se operou, na espécie, em virtude da consumação da decadência, a extinção do direito de impetrar, em tempo oportuno, mandado de segurança contra o ato em causa.
+    Ressalte-se, ainda, que os preceitos inscritos tanto no art. 18 da Lei 1.533/1951, quanto no art. 23 da Lei 12.016/2009 - que delimitam o âmbito temporal de impetração do mandado de segurança - não ostentam qualquer eiva de inconstitucionalidade. Nesse sentido, a Súmula 632 desta Corte dispõe que “é constitucional lei que fixa o prazo de decadência para a impetração de mandado de segurança”.
+    Por fim, impende assinalar que a extinção do direito de impetrar o mandado de segurança não gera a extinção do direito material eventualmente titularizado pelo impetrante, a quem se reconhece a possibilidade de acesso às vias processuais ordinárias.
+    Isso posto, não conheço deste mandado de segurança (art. 21, § 1º, RISTF). Prejudicada, pois, a apreciação do pedido de medida liminar.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
