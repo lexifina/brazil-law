@@ -1,0 +1,18 @@
+DECISÃO:
+    Vistos.
+    Município de Catanduva interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, caput, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “CONTRATO ADMINISTRATIVO – Municipalidade de Catanduva que deixou de executar obras de infraestrutura em conjunto residencial – Obrigação assumida em contrato firmado pela Caixa Econômica Federal e por adquirente - Lei Complementar Municipal n° 35/96 que indica ser a donatária (Cooperativa Habitacional Araraquarense) a responsável- pelas obras - Obra de muro de arrimo realizada pelo adquirente - Obrigação da Municipalidade pelo Ressarcimento - Recurso provido. Deve a Municipalidade, que se obrigou, por contrato, a realizar obras de infra-estrutura em loteamento, ressarcir o adquirente de lote, pela edificação de muro de arrimo, não lhe isentando Lei Complementar Municipal, pois não pode beneficiar de nulidade a que deu causa”.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 2/3/07, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece trânsito a irresignação, haja vista que a alegada violação do principio constitucional da legalidade seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ademais, para divergir do entendimento firmado pelo Tribunal de origem e acolher a pretensão do recorrente, seria necessário o reexame da norma local invocada pelo acórdão recorrido (LC nº 35/96) e das cláusulas do contrato firmado entre as partes, o que é inadmissível em sede de recurso extraordinário. Incidência das Súmulas nºs 280 e 454 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. LEGISLAÇÃO LOCAL. SUMULA 280 DO STF. EXAME DE FATO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO SFT. RECURSO PROTELATÓRIO. MULTA. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário demanda a análise de normas locais, o exame de matéria de fato e a interpretação de cláusulas contratuais. Incidência das Súmulas 279, 280 e 454 do STF. II - Recurso protelatório. Aplicação de multa. III - Agravo regimental improvido” (AI nº 744.230/CE-AgR, Relator o Ministro Ricardo Lewandowski , DJe de 26/6/09) .
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - DIREITO LOCAL - SÚMULA 280/STF - INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL - SÚMULA 454/STF - RECURSO IMPROVIDO. - Revela-se inadmissível o recurso extraordinário, quando a alegação de ofensa resumir-se ao plano do direito meramente local (ordenamento positivo do Estado-membro ou do Município), sem qualquer repercussão direta sobre o âmbito normativo da Constituição da República. - Não cabe recurso extraordinário, quando interposto com o objetivo de interpretar cláusula contratual” (AI nº 735.156/SP-AgR, Relator o Ministro Celso de Mello , DJe de 17/4/09) .
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
