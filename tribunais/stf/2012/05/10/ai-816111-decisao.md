@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado pelo Superior Tribunal de Justiça, cuja ementa possui o seguinte teor:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. IMPOSTO DE RENDA PESSOA JURÍDICA. IMÓVEIS EM ESTOQUE. CORREÇÃO MONETÁRIA. INEXISTÊNCIA DE FATO GERADOR DE TRIBUTO. PRECEDENTES. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. NÃO-CABIMENTO.
+    1. A correção monetária não pode ser considerada um plus, mas apenas uma atualização para que seja respeitado o valor real da moeda.
+    2. A alteração de valores dos bens imóveis em estoque, verificada através de atualização monetária, não constitui renda a ensejar a incidência de tributos que possuem como fator imponível o acréscimo patrimonial.
+    3. Precedentes: AgRg no REsp nº 1.034.143/PB, Rel. Min. Humberto Martins; REsp nº 588.057/PR, Rel. Min. Teori Albino Zavascki; REsp nº 384.244/MG, Rel. Min. Francisco Peçanha Martins; REsp nº 373.428/MG, deste Relator; REsp nº 249.268/CE, Relª Minª Eliana Calmon; REsp nº 511.812/MA, Rel. Min. Luiz Fux; REsp nº 209.934/SC, Rel. Min. Garcia Vieira; REsp nº 171.213/CE, Relª Minª Eliana Calmon.
+    4. Esta Corte Superior, nos termos do art. 105, III, da Carta Política, não tem competência para, em sede de recurso especial, examinar alegada contrariedade a dispositivos constitucionais, incumbindo apenas ao colendo STF tal mister.
+    5. Agravo regimental não provido.” (fls. 171)
+    Alega-se violação do disposto nos arts. 97; 146, III, e 153, III, da Constituição federal.
+    O recurso não merece seguimento.
+    Anoto que a simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, tão-somente por si, violação da orientação firmada pelo Supremo Tribunal Federal. Por exemplo, é possível que dada norma não sirva para desate do quadro submetido ao crivo jurisdicional pura e simplesmente porque não há subsunção. Para caracterização da ofensa ao art. 97 da Constituição federal, que estabelece a reserva de Plenário para declaração de inconstitucionalidade, é necessário que a causa seja decidida por órgão fracionário de tribunal sob critérios diversos, alegadamente extraídos da Constituição federal, de modo a levar ao afastamento implícito ou explícito da norma por incompatibilidade com a Constituição federal.
+    No presente caso, o Tribunal de origem, com base no disposto nos arts. 2º, § 1º, da Lei 7.689/1988 e 43 do Código Tributário Nacional, concluiu que o denominado lucro inflacionário, advindo da correção monetária dos valores dos bens imóveis em estoque, não integra as bases de cálculo do IR e da CSLL, pois não constitui acréscimo patrimonial. Em nenhum momento houve confronto direto com qualquer disposição constitucional, o que torna desnecessário instaurar o procedimento do art. 97 da Constituição federal.
+    Quanto às demais ofensas alegadas, saliento que concluir diversamente do Tribunal de origem demandaria o prévio exame da legislação infraconstitucional, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmula 636/STF). Nesse sentido:
+    “Agravo regimental no recurso extraordinário. Negativa de prestação jurisdicional. Não ocorrência. Imposto de renda. imóveis em estoque. Correção monetária. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    2. O acórdão recorrido ateve-se a analisar a causa à luz da interpretação de norma infraconstitucional (Lei nº 7.799/89). Ofensa que, caso ocorresse, seria meramente reflexa ou indireta, o que torna inviável seu exame em sede de recurso extraordinário. Precedentes desta Corte.
+    3. Agravo regimental não provido.” (RE 405.269-AgR, rel. min. Dias Toffoli, DJe de 06.12.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ESTOQUES. CORREÇÃO MONETÁRIA. IMPOSTO DE RENDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 233.987-AgR, rel. min. Cármen Lúcia, DJe de 14.08.2009)
+    Confiram-se, também: RE 585.160 (rel .min. Ayres Britto, DJe de 28.02.2012); RE 484.223 (rel. min. Gilmar Mendes, DJe de 01.08.2011); AI 734.983 (rel. min. Ellen Gracie, DJe de 11.03.2011); RE 451. 748 (rel. min. Ayres Britto, DJe de 02.02.2010) e AI 730.023 (rel. min. Cezar Peluso, DJe de 25.03.2009).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
