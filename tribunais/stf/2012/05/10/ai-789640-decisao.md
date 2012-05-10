@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo ementado nos seguintes termos:
+    “Não comporta redução a indenização fixada com base em fundamentado laudo pericial. Os juros compensatórios são devidos desde a ocupação à taxa de doze por cento ao ano. OS de mora são devidos a taxa de seis por cento ao ano, desde o trânsito em julgado, que é quando deveria ter ocorrido o pagamento, porque não é caso de requisitório. Os honorários advocatícios devem ser equitativos, e não moderados”. (fl. 559)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, a recorrente sustenta, em preliminar, a repercussão geral da matéria versada no recurso. No mérito, aponta violação ao artigo 5º, XXIV, do texto constitucional.
+    A recorrente, em síntese, defende que foi fixado um valor exorbitante para o imóvel expropriado, o que viola o princípio da justa indenização.
+    Decido.
+    Não assiste razão à agravante, isso porque o acórdão recorrido decidiu a causa com fundamento no conjunto fático probatório dos autos, conforme o seguinte trecho do acórdão recorrido:
+    “O doutor perito encontrou valor unitário com que concordaram ambos os doutores assistentes. O doutor assistente da expropriante tão só criticou o emprego do fator de correlação entre a gleba e lote referente ao prazo de vinte e quatro meses para a venda de todos os lotes, quando esse prazo deveria ser de no mínimo quarenta e oito meses. A área desapropriada, todavia, é de pouco mais de dez mil metros quadrados, de sorte que os poucos lotes com muita probabilidade seriam, sim, vendidos em dois anos. Bem fixado o valor da área expropriada em seiscentos e noventa e nove milhões cento e quarenta e três mil oitocentos e sete cruzeiros e trinta centavos, para março de 1993”.
+    Dessa forma, para se chegar a solução diversa daquela a que chegou o acórdão recorrido e entender que o valor da indenização da área expropriada é exorbitante, seria necessário o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso extraordinário, a teor do Enunciado 279 da Súmula de Jurisprudência do STF.
+    Nesse sentido, entre outros, confiram-se: AI-AgR 161.487, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 9.6.1995; AI- AgR 477.071, Rel. Min. Joaquim Barbosa, Segunda Turma, DJ 28.4.2006; AI-AgR 828.285, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.5.2011; AI-AgR 643.888, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.7.2009; AI-AgR 717.016, Rel. Min. Eros Grau, Segunda Turma, DJe 19.9.2008.
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE PROVAS. OFENSA INDIRETA. PRECEDENTES. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que o exame de contrariedade dos princípios da justa indenização e da preservação do valor real restringe-se ao âmbito infraconstitucional. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (grifei).
+    Não há, pois, o que prover quanto às alegações do agravante.
+    Ante exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 10 de maio de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
