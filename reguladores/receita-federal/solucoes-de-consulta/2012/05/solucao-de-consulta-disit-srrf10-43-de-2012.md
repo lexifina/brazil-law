@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 43, de 28 de março de 2012
+ASSUNTO: Outros Tributos ou Contribuições EMENTA: BENEFÍCIO FISCAL. REGIME ESPECIAL DE TRIBUTAÇÃO (RET). PAGAMENTO UNIFICADO DE TRIBUTOS. É possível a opção pelo Regime Especial de Tributação aplicável às incorporações imobiliárias após o início da obra, desde que sejam atendidos todos os requisitos previstos na legislação de regência. DISPOSITIVOS LEGAIS: Lei nº 10.931, de 2004, arts. 1º a 4º, §§ 6º e 7º; Lei nº 12.350, de 2010, art. 52; MP nº 552, de 2011, arts 1º e 3º; IN RFB nº 934, de 2009.
+[arquivo anexo: SC SRRF10-Disit nº 43 - 2012.pdf]
