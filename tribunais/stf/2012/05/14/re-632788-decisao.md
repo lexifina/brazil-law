@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte, cuja ementa possui o seguinte teor (fls. 179-180):
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. APELAÇÃO CÍVEL. PRELIMINAR DE NULIDADE DA SENTENÇA SUSCITADA PELO RECORRENTE, COM BASE EM ALEGAÇÃO DE JULGAMENTO EXTRA E CITRA PETITA. REJEIÇÃO. PRELIMINAR DE CARÊNCIA DE AÇÃO, POR IMPOSSIBILIDADE JURÍDICA DO PEDIDO, ARGÜIDA PELA PARTE APELADA. REJEIÇÃO. MÉRITO. PLEITO DE INDENIZAÇÃO RELATIVO A FÉRIAS E LICENÇA-PRÊMIO NÃO GOZADAS POR NECESSIDADE DE SERVIÇO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. REQUISITOS CONFIGURADORES PRESENTES, NO QUE TANGE AO PEDIDO CONCERNENTE ÀS FÉRIAS NÃO USUFRUÍDAS. DIREITO ASSEGURADO NA CONSTITUIÇÃO FEDERAL E EM SEDE INFRACONSTITUCIONAL. NORMA PROIBITIVA QUE VEDA A ACUMULAÇÃO DE FÉRIAS ANUAIS REMUNERADAS POR MAIS DE 2 (DOIS) PERÍODOS. ATO ILÍCITO CONFIGURADO. DEVER DO ESTADO DE INDENIZAR QUE SE IMPÕE. VERBA INDENIZATÓRIA. IMPOSTO DE RENDA E DESCONTOS PREVIDENCIÁRIOS. NÃO INCIDÊNCIA. ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 125. CORREÇÃO MONETÁRIA. JUROS DE MORA DEVIDOS A PARTIR DA CITAÇÃO. CORREÇÃO MONETÁRIA QUE INCIDE A PARTIR DO AJUIZAMENTO DA AÇÃO. LEI 6.899/1981. APELO CONHECIDO E PARCIALMENTE PROVIDO."
+    Nas suas razões, o ora recorrente alega contrariedade aos arts. 5º, II e XXXV; 37, caput, e 93, IX, da Constituição federal.
+    É o relatório. Decido.
+    O acórdão recorrido fundou-se na disposição constitucional que garante a remuneração das férias e, ainda, no princípio que veda o enriquecimento sem causa, para determinar fosse pago à parte ora recorrida valores referentes à conversão em pecúnia de férias não usufruídas.
+    Com o trânsito em julgado da decisão do Superior Tribunal de Justiça — que negou seguimento ao recurso especial (REsp 910875) —, permanece suficiente o fundamento infraconstitucional adotado pelo acórdão recorrido e não impugnado pelo ora recorrente. Essa situação inviabiliza o apelo extremo, nos termos da Súmula 283/STF.
+    Nesse sentido: AI 311.829-AgR, rel. min. Nelson Jobim, DJ 08.06.2001; RE 239.552-AgR, rel. min. Cezar Peluso, DJ 17.09.2004; RE 201.611, rel. min. Moreira Alves, DJ 05.09.1997; RE 171.748, rel. min. Eros Grau, DJ 04.04.2005; RE 239.552, rel. min. Sydney Sanches, DJ 29.01.2003.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 14 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
