@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “ENERGIA ELÉTRICA. REDE DE ELETRIFICAÇÃO RURAL. FINANCIAMENTO PELO CONSUMIDOR. AGRAVO RETIDO NÃO CONHECIDO. AUSÊNCIA DE ASSINATURA DO SIGNATÁRIO. PRELIMINAR DE ILEGITIMIDADE PASSIVA REJEITADA. PRESCRIÇÃO VINTENÁRIA. DIREITO OBRIGACIONAL. DEVOLUÇÃO PELO VALOR HISTÓRICO. CLÁUSULA POTESTATIVA.
+    A devolução de quantia pelo valor histórico, após decorrido largo lapso temporal, é, indiscutivelmente, lesiva ao direito do consumidor, notadamente quando se sabe que a correção monetária é mera reposição da inflação, evitando, assim, o enriquecimento sem causa.
+    Preliminares rejeitadas.
+    Apelação improvida” (fl. 118).
+    2. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal; e b) a circunstância de que a contrariedade à Constituição da República, se tivesse ocorrido, seria indireta (fls. 23-244)
+    3. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5°, inc. XXXVI, e 37, § 6°, da Constituição da República.
+    Afirma que “haverá de ser aplicada à Recorrente às regras prescricionais que norteiam o lapso de empo hábil de cinco anos para propositura de Ações de Cobrança contra a Administração Pública. Se assim não ocorrer, estar-se-á a ofender diretamente a regra do artigo 37, parágrafo sexto, da Constituição Federal” (fl. 234).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A matéria constitucional suscitada nas razões do recurso extraordinário não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. VIOLAÇÃO AO ART. 5º, II DA CF/88. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE EM RELAÇÃO AO PEDIDO INICIAL. AGRAVO IMPROVIDO. I – Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. II – É incabível a inovação, em relação ao pedido do recurso extraordinário, em sede de agravo regimental . Precedentes. III - Agravo regimental improvido” (ARE 663.166-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 13.3.2012).
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. INDENIZAÇÃO. LEI DA ANISTIA. ACORDO HOMOLOGADO EM JUÍZO. LIMITES DA COISA JULGADA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido, não sendo aceito, em regra, nesta Corte, a tese do prequestionamento velado ou implícito. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – A verificação, em cada caso concreto, da ocorrência, ou não, de violação à coisa julgada situa-se no campo infraconstitucional. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. III - Agravo regimental improvido” (ARE 652.661-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 7.12.2011).
+    Não há, pois, a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
