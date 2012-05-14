@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição federal) interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+    “TRIBUTÁRIO - ICMS - AUTUAÇÃO FISCAL - ANULAÇÃO DE DÉBITO - IRREGULARIDADES PARCIALMENTE RECONHECIDAS - TAXA SELIC E JUROS MORATÓRIOS - CARÁTER SUPLETIVO DO CTN - MULTA - PREVISÃO LEGAL ESTADUAL - SENTENÇA DE PARCIAL PROCEDÊNCIA - CONFIRMAÇÃO.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, I e XXXV, 65, § 1º, 93, IX, 155, II, § 2º, I, II e X, a, da Constituição.
+    Inexiste ofensa ao art. 93, IX, da Constituição, na medida em que o acórdão recorrido está devidamente fundamentado, ainda que com sua fundamentação não concorde a ora agravante.
+    Quanto ao desrespeito ao art. 155, VII, da Carta Magna, e aos princípios da legalidade, do contraditório, da ampla defesa, da razoabilidade e da não-cumulatividade, o exame do recurso extraordinário implica o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Passando à alegação de impossibilidade da elaboração da lista dos produtos semi-elaborados ser feita pelo convênio do CONFAZ, sem razão a recorrente, pois com o advento da Lei Complementar 65/1991, o Tribunal decidiu pela constitucionalidade da competência do Confaz para relacionar os produtos compreendidos na definição de semi-elaborados, em acórdão assim ementado:
+    “TRIBUTÁRIO. ICMS. ART. 155, § 2º, X, A, DA CF. LEI COMPLEMENTAR Nº 65/91. INCONSTITUCIONALIDADE DECLARADA PELO STJ, DO SEU ARTIGO 2º -- QUE TERIA DELEGADO AO CONFAZ COMPETÊNCIA PARA RELACIONAR OS PRODUTOS SEMI-ELABORADOS SUJEITOS AO TRIBUTO, QUANDO DESTINADOS AO EXTERIOR --, BEM COMO DO CONVÊNIO ICMS Nº 15/91, VAZADO NO REFERIDO DISPOSITIVO.
+    O texto constitucional, no ponto, não incumbiu o legislador complementar de relacionar os produtos semi-elaborados sujeitos ao ICMS quando destinados ao Exterior, mas apenas de defini-los.
+    De outra parte, a lei complementar, no caso, não delegou ao CONFAZ competência normativa, mas, tão-somente a de relacionar os produtos compreendidos na definição, à medida que forem surgindo no mercado, obviamente, para facilitar a sua aplicação. Tanto assim, que previu a atualização do rol, ‘sempre que necessário’, providência que, obviamente, não exige lei ou, mesmo, decreto.
+    Inconstitucionalidades não configuradas.
+    Recurso conhecido e provido.” (RE 240.186, rel. min. Ilmar Galvão, DJ 28.02.2003 – Grifos originais)
+    Ademais, quando em caráter subsidiário, a recorrente, defende que o ferro gusa não atende à definição de semi-elaborado da Lei Complementar nº 65/91, trata de matéria infraconstitucional. Eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+    No que se refere ao efeito confiscatório da multa fiscal, observo que a parte ora recorrente se limita a afirmar, de forma genérica, que multa no percentual de 50% teria caráter confiscatório, sem trazer, contudo, argumentos adequados a caracterizar, de plano, a irrazoabilidade e a desproporcionalidade da multa fiscal aplicada em relação à hipótese dos autos. Portanto, eventual efeito confiscatório da multa somente seria aferível mediante exame do quadro fático-probatório, o que atrai o óbice da Súmula 279/STF.
+    No tocante à taxa SELIC, consigno que esta Corte, ao apreciar o RE 582.461 (rel. min. Gilmar Mendes, DJe de 18.08.2011), leading case de repercussão geral, concluiu pela validade do emprego da taxa SELIC para a atualização de débitos tributários.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 14 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
