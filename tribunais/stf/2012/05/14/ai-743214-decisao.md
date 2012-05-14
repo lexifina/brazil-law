@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+    “AÇÃO DE INDENIZATÓRIA – Rompimento de duto de gás de propriedade da PETROBRAS – Preliminar de cerceamento de defesa rejeitada – Farta prova documental contida nos autos que dispensa a prova oral pleiteada pelos requerentes – Lide já madura para receber julgamento – Acidente de consumo – Responsabilidade objetiva, nos termos do art. 12 do C.D.C. – Responsabilidade pelo fato da coisa imputável ao proprietário guardião da tubulação – Inexistência de danos morais indenizáveis – Inicial que tangencia a inépcia – Descrição genérica e imprecisa dos danos sofridos pelos autores – Inviabilidade de se reconhecer a existência de danos morais sem descrição clara e objetiva do padecimento de cada uma das vítimas – Impossibilidade do sofrimento ser geral e estereotipado em dezenas de inicias idênticas – Ação improcedente – Recurso improvido”. (fl. 420)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, os recorrentes sustentam, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, apontam violação ao artigo 5º, X e LV, do texto constitucional.
+    Em síntese, defendem violação aos princípios do contraditório e da ampla defesa. Ademais, sustentam que houve violação à intimidade e à vida privada, em virtude do vazamento de gás.
+    Decido.
+    Não assiste razão aos agravantes.
+    Inicialmente, em relação a suposta violação ao artigo 5º, inciso LV, da Constituição Federal, ressalto que é firme a jurisprudência desta Corte no sentido de que mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa e do contraditório é insuficiente para viabilizar o processamento de recurso extraordinário quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido os julgamentos do RE-AgR 559.816, Rel. Min. Ellen Gracie, DJe 4.5.2011; e AI-AgR 635.789, Rel. Min. Dias Toffoli, DJe 27.4.2011, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. Artigo 5º, inciso XXXVI, da Constituição Federal. Ato jurídico perfeito. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas 636 e 279/STF. 2. Agravo regimental não provido”.
+    Ultrapassada essa questão, verifico que a decisão recorrida, a qual confirmou a sentença, decidiu a controvérsia com fundamento nas fatos e provas do processo. Desse modo, para se entender de forma diversa do assentado pelo acórdão recorrido, faz-se imprescindível a revisão dos fatos e provas constantes dos autos, providência vedada em sede de recurso extraordinário. Incide, portanto, o Enunciado 279 da Súmula do STF.
+    Não há, pois, o que prover quanto às alegações dos agravantes.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 14 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
