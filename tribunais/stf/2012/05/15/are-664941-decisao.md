@@ -1,0 +1,24 @@
+Provido o agravo à fl. 384, passo à análise do recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “MANDADO DE SEGURANÇA – PRELIMINARES DE DECADÊNCIA – PRECLUSÃO TEMPORAL – PRESENÇA DE PROVA PRÉ-CONSTITUÍDA DAS ALEGAÇÕES – AFASTADAS – MÉRITO – PROGRESSÃO FUNCIONAL – INTERSTÍCIO DE CINCO ANOS – LEI Nº 2.065/99 – PROMOÇÃO – TEMPO DE EFETIVO EXERCÍCIO REMANESCENTE E NÃO UTILIZADO PARA FINS DE ENQUADRAMENTO – UTILIZAÇÃO PARA CONTAGEM DE TEMPO DE INTERSTÍCIO NA CARREIRA – PROCEDÊNCIA – RESTITUIÇÃO DE VALORES – ANTERIORES A DATA DA PROPOSITURA DA AÇÃO – VIA INADEQUADA – SEGURANÇA CONCEDIDA EM PARTE
+    Se a decadência já foi analisada e afastada, em sede de liminar, a qual deixou de ser combatida através do agravo regimental, não há como ser novamente julgada sob pena de ofensa à coisa julgada formal.
+    Afasta-se a arguição de ausência de prova pré-constituída das alegações, se da documentação acostada foi possível extrair a exata compreensão dos fatos e a consequência jurídica objetivada pelos impetrantes, já que a decisão de indeferimento do seu pedido administrativo, cujo único fundamento foi a impossibilidade de utilização de tempo remanescente para promoção na carreira, de modo que o mandado de segurança deverá ser processado para que, por ocasião do exame do mérito, seja analisada a existência ou não do direito líquido e certo que os impetrantes alegam ser detentores.
+    A promoção terá por base o efetivo exercício na classe ou posição equivalente, o que implica dizer que a própria lei garante ao servidor público estadual com tempo remanescente no período de transição funcional, o direito a utilizar aquele tempo não utilizado para fins de enquadramento, para futura promoção, já na carreira funcional, conforme regulamentado no artigo 14, parágrafo 4º, do Decreto Estadual n. 12.008, de 27 de dezembro de 2005.
+    Não se mostra coerente e interpretação dada pelo Estado de Mato Grosso do Sul ao artigo 14, § 1º, inciso I, do Decreto Estadual n. 12.008, de 27 de dezembro de 2005, pois este deve ser interpretado em conjunto com o seu parágrafo § 4º, sendo que o computo no interstício na carreira deve ser contado a partir da data da sua transformação, acrescido do saldo de tempo de serviço não utilizado para definição da classe no enquadramento decorrente da transformação.
+    O mandado de segurança não é via adequada para postular restituição de valores, anteriores a data da propositura da ação.
+    Segurança concedida em parte” (fl. 478).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa ao art. 37, II, da mesma Carta.
+    A Procuradoria Geral da República manifestou-se pelo não conhecimento do recurso (fls. 386-389).
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Estaduais 2.065/1999, 2.599/2002, 3.519/2008 e 3.668/2009 e Decreto Estadual 12.008/2005). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Ademais, a discussão acerca de eventual extrapolação do ato regulamentar em relação ao comando legal regulamentado não possui natureza constitucional, porquanto depende da análise do cotejo da norma regulamentadora com a lei ordinária, a cujo exame não se presta o recurso extraordinário. Nesse sentido, transcrevo ementa do AI 519.375-AgR/RJ, Rel. Min. Eros Grau:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. LEI N. 8.200/91, ARTIGO 3º, INCISO I. CONSTITUCIONALIDADE DECLARADA PELO TRIBUNAL PLENO. DECRETO N. 332/91. NORMA REGULAMENTAR. APLICAÇÃO DA NORMA TRIBUTÁRIA.
+    1. Decreto n. 332/91. Norma regulamentar. Inconstitucionalidade de suas disposições por extrapolarem o comando da Lei n. 8.200/91. Alegação improcedente. Se a norma regulamentar padece de vícios dessa espécie, a questão se resolve no âmbito da legalidade e não no âmbito da inconstitucionalidade.
+    2. Eventual declaração de ilegalidade de preceitos da norma regulamentar não exime o contribuinte da observância da legislação regulamentada, tendo em vista que ‘o conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos’ (CTN, artigo 99).
+    Agravo regimental a que se nega provimento”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 624.761-AgR/RJ, Rel. Min. Cármen Lúcia; AI 495.415-AgR/RJ, Rel. Min. Carlos Velloso; RE 233.483-AgR/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
