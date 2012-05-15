@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Ação anulatória de sentença de adjudicação da herança à USP. Ajuizamento por suposto compromissário comprador do imóvel adjudicado em litisconsórcio ativo com o cessionário dos direitos de compromissário comprador. Impugnação pela USP da veracidade do compromisso de compra e venda. Fato que retira a eficácia probatória do documento. Art. 388, I do CPC Desnecessidade de utilizar-se o impugnante da arguição de falsidade. Ônus probatório do impugnado provar a autenticidade. Prova não produzida. Impossibilidade de considerar provado o compromisso de compra e venda. Desvalia do documento para o pleito de nulidade da arrecadação do imóvel pela USP. Ação improcedente. Recurso conhecido em parte e provido” (fl. 18).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XXII, XXXV e LX, da mesma Carta.
+    O agravo não merece acolhida. É que para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. AÇÃO REIVINDICATÓRIA E RECONVENÇÃO. CONTRATO DE COMPRA E VENDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 582.542-AgR/CE, Rel. Min. Cármen Lúcia).
+    “ACÓRDÃO QUE RECONHECEU A PROCEDÊNCIA DE PEDIDO DE ADJUDICAÇÃO COMPULSÓRIA COM BASE NAS PROVAS PRODUZIDAS E NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. Questão insuscetível de reapreciação pelo STF, em sede extraordinária, em razão do óbice de sua Súmula 279, bem como ante a impossibilidade de se aferir, nessa via, a existência de ofensa reflexa e indireta à Carta da República. Agravo regimental improvido” (AI 225.209-AgR/SP, Rel. Min. Ilmar Galvão).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
