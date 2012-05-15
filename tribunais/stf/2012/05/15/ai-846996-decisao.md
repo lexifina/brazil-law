@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “COMPETÊNCIA. TERRITORIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPROMISSO DE COMPRA E VENDA CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE. FORO DE ELEIÇÃO. INADMISSIBILIDADE. PROPOSITURA QUE SE DEU NO FORO DA SITUAÇÃO DO IMÓVEL E DO DOMICÍLIO DA RÉ. ADEQUAÇÃO. AUSÊNCIA, ADEMAIS, DE QUALQUER PREJUÍZO À DEFESA. PRELIMINAR AFASTADA.
+    SENTENÇA. NULIDADE. INOCORRENCIA. PROLAÇÃO POR JUIZ DIVERSO DAQUELE QUE PRESIDIU O FEITO. ADMISSIBILIDADE. VINCULAÇÃO LEGAL QUE SE DÁ APENAS NOS CASOS EM QUE REALIZADA AUDIÊNCIA DE INSTRUÇÃO. INTELIGÊNCIA DO ART. 132 DO CPC. DECISÃO BASEADA, ADEMAIS, EXCLUSIVAMENTE EM PROVA DOCUMENTAL. PRELIMINAR AFASTADA.
+    CERCEAMENTO DE DEFESA. INOCORRENCIA. CASO EM QUE A APELANTE NÃO IMPUGNA SUA SITUAÇÃO DE INADIMPLÊNCIA A AFASTAR A PROCEDÊNCIA DO PEDIDO INICIAL. CASO EM QUE QUALQUER OUTRO ELEMENTO DE PROVA SE MOSTRARIA INCAPAZ DE TRAZER A LUME FATO RELEVANTE AO DESFECHO DA DEMANDA. PRELIMINAR AFASTADA.
+    (...)” (fl. 11).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se ofensa ao art. 5º, XXXVII, LIII e LV, da mesma Carta.
+    O agravo não merece acolhida.
+    Verifica-se, preliminarmente, que o art. 5º, XXXVII e LIII, da Constituição, não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Outrossim, a alegada violação ao art. 5º, LV, da Constituição, em decorrência do julgamento antecipado da lide, se ocorresse, seria indireta ou reflexa, o que inviabiliza o extraordinário. Nesse sentido trago à colação julgados de ambas as Turmas desta Corte:
+    “Agravo regimental no agravo de instrumento. Julgamento antecipado da lide. Ofensa reflexa. Precedentes. 1. A alegada violação do artigo 5º, inciso LV, da Constituição Federal, em virtude do julgamento antecipado da lide, seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. 2. Agravo regimental desprovido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 737.369-AgR/PE Rel. Min. Dias Toffoli, Primeira Turma).
+    “1. RECURSO. Agravo de instrumento. Inadmissibilidade. Intempestividade do recurso extraordinário. Interposição por meio de protocolo descentralizado. Possibilidade. Demonstrada a tempestividade do recurso, deve este ser apreciado. 2. RECURSO. Extraordinário. Inadmissibilidade. Julgamento antecipado da lide. Alegação de ofensa ao art. 5º, LV, da Constituição da República. Violação constitucional indireta. Embargos de declaração rejeitados. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República” (AI 605.287-AgR-ED/SP, REL. Min. Cezar Peluso, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
