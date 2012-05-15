@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    "Dissolução de sociedade e apuração de haveres. Decisão preclusa no que tange à garantia determinada para o valor dos haveres dos agravantes pelo falecimento do pai que era sócio da agravada. Valor mínimo dos haveres incontroverso em razão de laudo aprovado pela agravada em assembléia como devido aos agravantes. Depósitos de expropriação transferidos para garantir o futuro pagamento dos haveres. Inconveniência da substituição por imóvel em que fica a sede da agravada em contrariedade aos princípios da celeridade e menor onerosidade do processo. Dificuldades econômicas que também atingem os herdeiros que há muito já deveriam ter recebido os haveres pelo falecimento do pai. Recurso parcialmente provido para autorizar a substituição apenas na parte que exceder ao valor incontroverso corrigido" (fl. 890).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, caput e XXII, da mesma Carta.
+    O agravo não merece acolhida. É que para se chegar a conclusão diversa à adotada pelo acórdão recorrido, necessário seria a análise da legislação infraconstitucional, bem como o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras:
+    “Agravo regimental no agravo de instrumento. Penhora. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (AI 763.295-AgR/RJ, Rel. Min. Dias Toffoli).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. SUBSTITUIÇÃO DE BEM. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 728.878-AgR/GO, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
