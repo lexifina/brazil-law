@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EMBARGOS À ARREMATAÇÃO - Alegação de nulidade da execução com fundamento em fatos anteriores à penhora – Inadmissibilidade. Os embargos à arrematação ou adjudicação somente pode estar fundados, entre outros (art. 694 do CPC), em nulidade da execução, desde que superveniente à penhora, ficando, pois, preclusa a matéria anterior a esse ato desde que, por descuido, não apresentados embargos do devedor ou julgados improcedentes os embargos apresentados.
+    BEM DE FAMÍLIA - Execução - Adjudicação - Alegação de impenhorabilidade nos termos da Lei 8009/90 - Inadmissibilidade - Dado provimento à apelação para manter o ato de constrição judicial Exaurida a execução, já concluída a arrematação do imóvel penhorado, com a lavratura do auto de arrematação e expedição da respectiva casta, na há espaço para alegação de impenhorabilidade de bem de família”. (fl. 30)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa ao artigo 5º, LIV, do texto constitucional.
+    Sustenta-se violação ao devido processo legal, em razão de o acórdão impugnado ter deixado de enfrentar vários dispositivos legais do Código de Processo Civil e da Lei 8.009.
+    Argumenta-se ainda que “(...) se a penhora não se aperfeiçoou por falta de depositário não se pode decidir que a alegação do bem de família foi realizada após já concluída a arrematação (...)”. (fl. 62)
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, cumpre esclarecer que a jurisprudência desta Corte é pacífica no sentido de que as alegações de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, se dependentes do reexame de normas infraconstitucionais, configura ofensa meramente reflexa à Constituição Federal.
+    Nesse sentido: AI-AgR 755.879, de minha relatoria, Segunda Turma, DJe 10.12.2010; AI-AgR 635.749, de minha relatoria, Segunda Turma, DJe 25.4.2008, e AI-AgR 620.185, de minha relatoria, DJe 18.4.2008, este último com acórdão assim ementado:
+    “Agravo regimental em agravo de instrumento. 2. Princípios da ampla defesa, do contraditório e do devido processo legal. Necessidade de exame prévio da legislação processual. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 3. Ato Jurídico Perfeito. Penhora de bem dado em garantia real. Interpretação de norma infraconstitucional. Precedente. 4. Agravo regimental a que se nega provimento”.
+     Ultrapassada essa questão, o Tribunal a quo decidiu que a impenhorabilidade do bem de família não pode ser oposta pelo devedor após o término da execução. Assim, reconheceu, in casu, a preclusão da alegação, diante a inércia da recorrente em se manifestar no momento oportuno. Confira-se:
+    “A impenhorabilidade do bem de família foi suscitado em embargos à adjudicação ajuizados em 5.9.2003 (fls. 2), já adjudicado o bem imóvel ao devedor e expedida a carta de adjudicação (fls. 274, 289/291 e 352A dos autos da execução), ao que consta já objeto de registro no Cartório de Imóveis competente.
+    É certo que a impenhorabilidade do bem de família é questão de ordem pública e pode ser argüida a qualquer tempo no processo de execução, cujo limite é o praceamento, como vem decidindo a jurisprudência do E. Tribunal de Justiça de São Paulo (RT 839/238).
+    (…)
+    A partir do momento em que os interessados assinam o auto de arrematação, ela se torna perfeita, acabada e irretratável e somente poderá ser desfeita nas hipóteses do parágrafo único do art. 694 do CPC:
+    (…)
+    Por isso é que a jurisprudência do mesmo E. Tribunal de Justiça assinala que ‘E considerada tardia a argüição da impenhorabilidade do bem de família, após o término da execução, quando a carta de arrematação já estiver registrada no cartório competente’ (RT 837/248)”. (fls. 38-39)
+     Como se vê, o acórdão recorrido decidiu a controvérsia com base nas disposições processuais relativas à execução (Código de Processual Civil), o que evidencia ofensa meramente reflexa à norma constitucional.
+    Em caso análogo ao dos autos, foi proferida decisão monocrática no RE 375.667, de relatoria do Min. Marco Aurélio, DJ 28.3.2005, a qual transcrevo, na parte que interessa:
+    “Este recurso extraordinário está entre tantos outros que chegaram à Corte, após o trancamento na origem, sem apreciação da matéria versada. Lançou-se mão da cláusula alusiva à subida para melhor exame. Constata-se que o Tribunal de origem julgou o recurso especial à luz da regência da execução, iniludivelmente legal. Consignou que a defesa a partir da Lei nº 8.009, de 1990 - relativa à impenhorabilidade de bens de família -, deveria ter sido veiculada, oportunamente, na execução e que, encerrada esta, descabe reabrir a discussão sobre a matéria (folhas 528 e 540). Vê-se, portanto, que, em momento algum, adotou-se entendimento sob o ângulo constitucional. Está-se diante de conflito de interesse cuja solução final ocorre no Superior Tribunal de Justiça, não alcançando o patamar próprio à guarda da Carta da República, ou seja, o Supremo Tribunal Federal”.
+     Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 16 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
