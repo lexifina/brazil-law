@@ -1,0 +1,37 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Hugo Ferrer Lino da Silva em favor de Natan Ferreira de Albuquerque contra decisão monocrática que indeferiu pedido de liminar do writ no HC 237.779/SP, anteriormente aforado perante o Superior Tribunal de Justiça
+    Narra a inicial que o Ministério Público do Estado do Estado de São Paulo denunciou o paciente, mais dois corréus, por suposta prática de crime tipificado no artigo 33 e 35, ambos da Lei 11.343/06, c/c artigo 69, do Código Penal.
+    O Juízo da 1ª Vara Criminal da Comarca de Avaré/SP decretou a prisão preventiva do paciente.
+    Contra essa decisão foi interposto habeas corpus que teve a liminar indeferida pelo Tribunal de Justiça do Estado de São Paulo.
+    Impetrado o HC 237.779/SP perante o Superior Tribunal de Justiça, o Ministro Og Fernandes também indeferiu o pedido de medida liminar.
+    Neste writ, o impetrante, preliminarmente, pugna pelo abrandamento do enunciado da Súmula nº 691/STF. Argumenta a existência de circunstâncias favoráveis como primariedade, bons antecedentes e residência fixa e a ausência dos requisitos autorizadores da segregação cautelar. Aduz, ainda, que compareceu espontaneamente perante a autoridade policial para apresentar sua versão sobre os fatos.
+    Requer a concessão da medida liminar, para revogar o decreto preventivo e/ou conceder a liberdade provisória. E, no mérito, pugna pela confirmação do pleito emergencial, para que seja relaxada a prisão por excesso de prazo para a formação de culpa e expedido o alvará de soltura.
+    Apesar de o impetrante não ter juntado o invocado ato coator, em consulta ao sítio do Superior Tribunal de Justiça na internet (www.stj.jus.br), constato que, ao HC 237.779/SP, foi indeferido o pedido de liminar, por decisão monocrática do eminente Ministro Og Fernandes, nos seguintes termos:
+    “Na espécie, é de se aplicar o enunciado da Súmula nº 691 do STF, observado também por esta Corte, no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+    Essa compreensão é afastada de modo excepcional se evidenciada nos autos a configuração de flagrante ilegalidade ou abuso de poder, o que não é a hipótese dos autos, consoante se observa da decisão que indeferiu a liminar postulada no writ originário.
+    Diante desse quadro, não vejo como afastar a aplicação do enunciado da Súmula nº 691 do STF, cabendo aguardar o julgamento do mérito da impetração na Corte de origem, sob pena de indevida supressão de instância.
+    Nesse sentido:
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE . SÚMULA 691 DO STF. DECISÃO DO RELATOR ORIGINÁRIO DEVIDAMENTE FUNDAMENTADA NA SATISFATIVIDADE E NA AUSÊNCIA DE DOCUMENTAÇÃO APTA A AUTORIZAR A CONCESSÃO DA MEDIDA LIMINAR. MITIGAÇÃO DA SÚMULA NÃO-AUTORIZADA, NO CASO. AGRAVO REGIMENTAL CONHECIDO E NÃO PROVIDO.
+    1. A jurisprudência deste Tribunal firmou-se no sentido do não-cabimento de habeas corpus contra indeferimento de pedido liminar em outro writ, sob pena de supressão de instância (Súmula 691 do STF).
+    2. O Superior Tribunal de Justiça vem entendendo que, em situações absolutamente excepcionais, vale dizer, no caso de flagrante ilegalidade decorrente de decisão judicial teratológica ou carente de fundamentação, é possível a mitigação do referido enunciado (HC 134.390/MG, Rel. Min. OG FERNANDES, DJe 31/8/09), caso não evidenciado na espécie.
+    3. Agravo regimental conhecido e não provido. (AgRg no HC 156.889/SP, Relator o Ministro Arnaldo Esteves Lima, DJe 19.4.2010)
+    PROCESSUAL PENAL – HABEAS CORPUS – TRÁFICO DE DROGAS – EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA – HABEAS CORPUS INTERPOSTO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR POR DESEMBARGADOR – IMPOSSIBILIDADE DE ANÁLISE – SÚM. 691/STF – PEDIDO NÃO-CONHECIDO.
+    1. O Superior Tribunal de Justiça não pode conhecer de habeas corpus impetrado contra decisão de Desembargador que, em habeas corpus requerido ao Tribunal a quo, indeferiu a liminar, sob pena de supressão de instância. (Súm. 691/STF).
+    2. Na ausência de qualquer questão teratológica a ser sanada de plano, faz-se necessário aguardar o deslinde da ação na instância própria, para somente então, recorrer à superior.
+    3. Pedido não conhecido. (HC 103.298/SP, Relatora a Desembargadora convocada Jane Silva, DJe 25.8.2008)
+    Ante o exposto, sendo manifesta a inviabilidade do writ, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus”.
+    A pretensão esbarra na conhecida Súmula nº 691 desta Corte Suprema: “Não compete ao supremo tribunal federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    O escopo da Súmula nº 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e o da competência.
+    É certo que a jurisprudência desta Suprema Corte tem abrandado, em casos excepcionais, o rigor do mandamento sumular (v.g.: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010).
+    Da leitura da decisão monocrática impugnada na inicial, não vislumbro a presença de alguma excepcionalidade, flagrante ilegalidade ou de abuso de poder que justifique o afastamento da orientação contida na Súmula nº 691/STF, máxime em caso que levaria à dupla supressão de instância, pois sequer há decisão definitiva no Tribunal de Justiça de São Paulo.
+    Ademais, no que se refere à prisão preventiva do paciente, o presente writ não foi instruído com cópia da decisão que a decretou. Houve apenas, na inicial, a transcrição de trecho da referida decisão, o que torna inviável a verificação do suposto constrangimento ilegal causado por sua decretação. Nesse sentido, cito o HC 102.951 – AgR/GO, rel. Min. Dias Toffoli, 1ª Turma, DJe 06.4.2011:
+    “Agravo regimental em habeas corpus – Supressão de instância – Inadmissibilidade – Recurso de agravo que deve impugnar, especificadamente, todos os fundamentos da decisão agravada – Instrução deficiente – Agravo regimental não provido.
+    1. A questão relativa à execução provisória da pena, trazida somente no presente writ, não poderia ser conhecida por esta Suprema Corte, sob pena de dupla supressão indevida de instância. Precedentes.
+    2. Nega-se provimento a agravo regimental cujas razões não impugnam questões específicas da decisão recorrida.
+    3. Não estando o pedido de habeas corpus instruído com cópias de peças do processo, pelas quais se poderia, eventualmente, constatar a ocorrência das falhas alegadas, não se pode sequer verificar a caracterização, ou não, do constrangimento ilegal.
+    4. Agravo regimental não provido”.
+    Ressalto, ainda, que a afirmada circunstância de o paciente ser primário, ter ocupação lícita e não ter antecedentes criminais, não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do CPP (HC 108.314/MA, rel. Min. Luiz Fux, 1ª Turma, DJe 5.10.2011; HC 106.816/PE, rel. Min. Ellen Gracie, 2ª Turma, DJe 20.6.2011).
+    Ante o exposto, nego seguimento ao presente writ, com base na Súmula 691 desta Corte e no art. 21, §1º, do Regimento Interno.
+    Publique-se.
+    Brasília, 16 de maio de 2012.
+Ministra Rosa Weber
+Relatora
