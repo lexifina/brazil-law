@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “Apelação - CDA presunção de legalidade e certeza. Débito declarado e não pago. Multa e juros pela inadimplência. Legalidade. Correção monetária indexada pela UFESP. Legalidade. Excesso na verba honorária. Ocorrência. Recurso parcialmente provido.” (fls. 147)
+    Alega-se violação do disposto nos arts. 5º, II, XXXV, XXXVI, LIV e LV; 37; 150, I e III, b; 170 e 192, § 3º, da Constituição federal.
+    O recurso não merece seguimento.
+    Esta Corte, no julgamento do RE 582.461 (rel. min. Gilmar Mendes, DJe de 18.08.2011), leading case de repercussão geral, firmou entendimento no sentido da validade do emprego da taxa SELIC na seara tributária.
+    Ademais, saliento que o Supremo Tribunal Federal, no julgamento da ADI 4 (rel. min. Sydney Sanches, RTJ 147/719), firmou o entendimento de que o § 3º do art. 192 da Constituição Federal não era auto-aplicável. Destaco o seguinte trecho da ementa dessa decisão:
+    “6. Tendo a Constituição Federal, no único artigo em que trata do Sistema Financeiro Nacional (art. 192), estabelecido que este será regulado por lei complementar, com observância do que determinou no caput, nos seus incisos e parágrafos, não é de se admitir a eficácia imediata e isolada do disposto em seu parágrafo 3º, sobre taxa de juros reais (12% ao ano), até porque estes não foram conceituados. Só o tratamento global do Sistema Financeiro Nacional, na futura lei complementar, com a observância de todas as normas do caput, dos incisos e parágrafos do art. 192, é que permitirá a incidência da referida norma sobre juros reais e desde que estes também sejam conceituados em tal diploma.”
+    Soma-se a esse julgado a sólida jurisprudência de ambas as Turmas, complementada por diversas decisões em mandado de injunção nas quais o Pleno também firmou o entendimento de que caberia ao Congresso Nacional suprir a omissão legislativa para limitar os juros a 12% ao ano (MI 584, rel. min. Moreira Alves, DJ de 22.02.2002; MI 588, rel. min. Ellen Gracie, DJ de 14.12.2001; MI 611, rel. min. Sydney Sanches, DJ de 29.11.2002; MI 621, rel. min. Maurício Corrêa, DJ de 16.11.2001; MI 472, rel. min. Celso de Mello, DJ de 02.03.2001, e MI 542, rel. min. Celso de Mello, RTJ 183/818).
+    Registre-se que, após a promulgação da Emenda Constitucional 40, de 29.05.2003, que revogou o § 3º do art. 192 da Constituição Federal, a limitação dos juros deixou de ter fundamento constitucional.
+    Quanto às demais questões suscitadas, verifico que sua análise demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 16 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
