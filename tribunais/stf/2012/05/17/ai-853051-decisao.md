@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4ª Região o qual manteve a decisão que determinou a devolução dos autos para a Justiça Estadual.
+    Sustenta a recorrente, com base no art. 102, III, a, violação ao art. 109, I, da Constituição Federal e ao art. 34, § 12, do ADCT.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu em consonância com a jurisprudência desta Corte e com a súmula 517 (“As sociedades de economia mista só têm foro na Justiça Federal, quando a União intervém como assistente ou oponente), como se observa dos julgados abaixo ementados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SOCIEDADE DE ECONOMIA MISTA. INGRESSO DA UNIÃO. INOCORRÊNCIA. COMPETÊNCIA. JUSTIÇA COMUM. 1. A jurisprudência do Supremo é firme no sentido de que "as sociedades de economia mista só têm foro na Justiça federal, quando a União intervém como assistente ou opoente" [Súmula 517]. 2. Não tendo a União requerido seu ingresso na causa para sustentar eventual interesse no feito, não há que se falar em incompetência da Justiça estadual para conhecer da demanda. Daí a legitimidade do Ministério Público estadual para atuar na causa, não do Ministério Público Federal. Agravo regimental a que se nega provimento.” (RE 400.291 AgR/SP, Rel. Min. EROS GRAU, Segunda Turma, DJe de 15.08.2008)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL. ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. IMPOSSIBILIDADE DE DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. 2) ALEGAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO: QUESTÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 588.134 AgR/SP, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 01.07.2011)
+    Além disso, o art. 34, § 12 do ADCT não foi objeto de consideração no acórdão impugnado, faltando-lhe, assim, o requisito do prequestionamento, que deve ser explícito (súmula 282).
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557, caput, do CPC).
+    Publique-se. Int..
+    Brasília, 17 de maio de 2012.
+Ministro CEZAR PELUSO
+Relator
