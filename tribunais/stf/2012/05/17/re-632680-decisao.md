@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça assim ementado (fl. 78):
+    “CRIME DE RECEPTAÇÃO QUALIFICADA. PRECEITO SECUNDÁRIO, EM PRINCÍPIO, VIOLAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE, BEM COMO DA INDIVIDUALIZAÇÃO DA PENA. APLICAÇÃO, NO CASO, DO PRECEITO SECUNDÁRIO DA RECEPTAÇÃO SIMPLES, ISTO É, PRENA RECLUSIVA ENTRE UM A QUATRO ANOS, E MULTA. ORDEM CONCEDIDA PARA REDUZIR A PENAL. DECLARADA, DE OFÍCIO, EXTINTA A PUNIBILIDADE PELA PRESCRIÇÃO RETROATIVA DA PRETENSÃO PUNITIVA”.
+    O Tribunal a quo entendeu que o parágrafo primeiro do artigo 180 do Código Penal (CP), que tipifica a receptação qualificada, não poderia cominar em seu preceito secundário pena mais grave do que a prevista no preceito secundário do caput do mesmo dispositivo, o qual descreve a conduta de receptação simples.
+    Sustentou-se incongruência na cominação em abstrato de sanção mais gravosa para crime praticado com dolo eventual (receptação qualificada) e de pena mais branda para crime praticado com dolo direto (receptação simples).
+    Assim, o acórdão recorrido reduziu a pena imposta pelo Tribunal de Justiça do Estado de São Paulo, aplicando à conduta descrita sob a titulação de receptação qualificada a sanção prevista para a receptação simples e, consequentemente, declarou a perda do jus puniendi estatal, em virtude da prescrição superveniente.
+    Nas razões do recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, o Ministério Público Federal sustenta, em síntese, que o acórdão recorrido viola o princípio da separação dos Poderes (art. 2º, da CF), o princípio da estrita legalidade penal (art. 5º, XXXIX, da CF), o princípio da individualização da pena (art. 5º, XLVI, da CF) e o princípio da ação penal na forma da lei (art. 129, I, da CF).
+    O Parquet federal alega a possibilidade de se interpretar que a pena prevista no art. 180, § 1º, do CP aplica-se às duas hipóteses de dolo, ou seja, direto ou eventual, e que a qualificação de receptação visa punir com maior rigor a praticada delitiva por comerciante ou industrial.
+    Após parecer ministerial, os autos foram conclusos a esta relatoria em 27.7.2011(fl. 146).
+    É o relatório.
+    O Ministério Público, ora recorrente, visa cassar o acórdão proferido pelo Superior Tribunal de Justiça no HC 136.157, para reestabelecer o acórdão proferido pelo Tribunal de Justiça de São Paulo, na Apelação Criminal 928.978.3, pelo qual se manteve a sentença na parte em que condenou Luiz Carlos Balieiro, ora recorrido, ao cumprimento de pena de 3 (três) anos e 6 (seis) meses de reclusão e ao pagamento de 30 (trinta) dias-multa, como incurso no artigo 180, parágrafo primeiro, do Código Penal.
+    Contudo, verifica-se a ocorrência de perda superveniente do interesse recursal, pois, ainda que o recorrente tenha êxito em sua tese, a pena que almeja aplicar ao recorrido – fixada em sede de primeiro grau e mantida pelo Tribunal Paulista – foi alcançada pelo decurso do prazo prescricional.
+    Frise-se que a sentença condenatória transitou em julgado para a acusação (art. 110, § 1º, do CP), conforme certidão de fls. 46, sendo, portanto, juridicamente impossível o aumento da pena fixada em primeira instância.
+    A pena concreta de 3 (três) anos e 6 (seis) meses de reclusão prescreve em 8 (oito) anos, nos termos do art. 109, IV, do CP.
+    Na espécie, a última causa interruptiva do lapso prescricional, ocorreu em 31.10.2003 (fl. 43), data da publicação da sentença condenatória recorrível para a defesa (art. 117, IV, do CP).
+    Destarte, entre o último marco interruptivo da prescrição e o presente, transcorreram mais de 8 (oito) anos, tempo suficiente para configurar a prescrição da pretensão punitiva intercorrente.
+    Assim, com fulcro no art. 107, IV, do CP, reconheço a extinção da punibilidade do recorrido, tendo em vista a ocorrência da prescrição da pretensão punitiva intercorrente e, em consequência, julgo prejudicado o presente recurso pela perda de objeto (RI/STF, art. 21, IX, e Lei nº 8.038/1990, art. 38).
+    Publique-se.
+    Brasília, 17 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
