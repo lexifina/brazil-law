@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo de instrumento contra decisão que não admitira recurso extraordinário interposto de acórdão que condenou a parte ora agravante no pagamento de compensação do dano moral resultante de lesões sofridas em atividade militar. Eis a ementa (fls. 214):
+    EMBARGOS INFRINGENTES. MILITAR. RELAÇÃO DE CAUSA E EFEITO ENTRE LESÕES E ATIVIDADES MILITARES. DANOS MORAIS. INDENIZAÇÃO DEVIDA.
+    Evidenciada de forma suficiente a relação entre as sequelas e lesões sofridas pelo autor e as atividades em serviço militar, mostra-se devida indenização por danos morais.
+    Nas razões de recurso extraordinário, a parte agravante alega vulneração do disposto nos artigos 1º, IV; 5º, caput e incisos X, XXXIV, XXXV, LIV, LV; 7º, XXVIII; 37, § 6º; 93, IX; 142, caput e § 3º; 193, da Constituição. Insurge-se, ainda, contra o arbitramento dos juros de mora em 1% (um por cento) ao mês.
+    O recurso merece parcial provimento.
+    Observo, inicialmente, que não foram prequestionadas as supostas ofensas aos artigos 1º, IV; 5º, X; 7º, XXVIII; 142, caput; 193, da Carta. Incide, no ponto, o óbice da Súmula 282 desta Corte.
+    Verifico, ainda, que não se configurara a alegada vulneração das garantias constitucionais da inafastabilidade do controle jurisdicional, do contraditório, da ampla defesa e da fundamentação das decisões, pois a parte ora agravante teve acesso a todos os meios de impugnação previstos na legislação processual e o acórdão recorrido examinou todos os argumentos e inequivocamente motivou de forma suficiente suas conclusões.
+    Ademais, o voto condutor do acórdão impugnado observara que “(...) consoante os documentos que descrevem os problemas de saúde do ex-militar, decorrentes de lesão e cirurgia no testículo, e os procedimentos hospitalares e os atendimentos realizados por médicos militares em relação ao autor, salta aos olhos que tão somente pelo tempo excessivo ocorrido desde a lesão até o tratamento, que não foi o adequado, é que culminou com a necessidade de cirurgia, que também deixou sequelas ao requerente” (Fls. 206-v). Eventual modificação desse entendimento implicaria, necessariamente, reexame prévio das provas que fundamentaram as conclusões do acórdão recorrido (vedação contida no enunciado da Súmula 279 do STF).
+    Quanto aos juros de mora, a decisão recorrida contraria orientação firmada pelo Plenário do Supremo Tribunal Federal no julgamento do RE 453.740 (rel. min. Gilmar Mendes, DJ de 24.08.2007). Naquela oportunidade, a Corte declarou, incidentalmente e por maioria, a constitucionalidade do art. 1º-F da Lei 9.494/1997, introduzido pela Medida Provisória 2.180-35/2001, por reputar inexistente violação do princípio da isonomia.
+    Do exposto, conheço do recurso extraordinário e dou-lhe parcial provimento, apenas para reformar a decisão recorrida no que afastou a aplicação do art. 1º-F da Lei 9.494/1997, com a redação dada pela MP 2.180-35/2001.
+    Em razão do alcance diminuto da reforma da decisão quanto ao pedido deduzido na inicial, fica mantida a condenação ao pagamento de custas e honorários advocatícios.
+    Publique-se.
+    Brasília, 17 de maio de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
