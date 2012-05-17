@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão, no que interessa, assim fundamentado:
+    “A prova produzida deixou bem claro que foi prometido ao autor o acesso à internet com velocidade e tecnologia 3G, mas na Comarca não havia tal tecnologia disponível.
+    A prova oral ainda deixou evidente que por longo período de tempo o autor teve acesso à rede mundial de computadores com velocidade de 10% da prometida.
+    Isso configura publicidade enganosa, já que houve indução do autor ao erro na contratação da internet pela ré.
+    Havendo publicidade enganosa, não pode a prestadora de serviços cobrar por algo que não realizara. Assim, correta a determinação da devolução dos valores indevidamente cobrados dos autos, constantes das faturas juntadas na inicial.
+    Quanto ao dano moral, patente sua ocorrência. Isso porque a frustração e o desgaste do autor com a ré superaram o limite do tolerável. Não bastasse o engodo prolongado no tempo, teve de se socorrer do Poder Judiciário para solucionar a questão”. (fls. 218-218v)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II, X, LIV e LV; e 98, I, do texto constitucional.
+     Nas razões recursais, sustenta-se a incompetência do Juizado Especial Cível para julgar a presente demanda, tendo em vista sua complexidade. Ademais, afirma-se ser indevida a condenação em danos morais.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o Supremo Tribunal Federal já apreciou a matéria relativa à competência de Juizados Especiais em face da alegação de complexidade da prova no julgamento do ARE-RG 640.671, DJe 6.9.2011 (Tema nº 433), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional”.
+     Ademais, para divergir do acórdão recorrido quanto à condenação da recorrente ao pagamento de indenização por danos morais, faz-se imprescindível o reexame do acervo fático-probatório dos autos e da legislação infraconstitucional aplicável à espécie (CDC), providência vedada na via do apelo extremo, nos termos doa Súmulas 279 e 636 do STF.
+     Por fim, ressalto que a jurisprudência desta Corte firmou-se no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário.
+     Cito, a propósito, os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011, este último com acórdão assim ementado:
+    “FINANCEIRO. PRECATÓRIO. MÉTODO DE COBRANÇA DE JUROS. DISCUSSÃO BASEADA NA FORÇA DO TRÂNSITO EM JULGADO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL SUFICIENTE QUE NÃO FOI DEVIDAMENTE ATACADA. AGRAVO REGIMENTAL. Em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que também não se revelará cabível o recurso extraordinário (AI 477.645-AgR, rel. min. Celso de Mello). Excepcionalidade ausente. Caráter infraconstitucional confirmado. Fundamento suficiente e inatacado. Agravo regimental ao qual se nega provimento”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+     Brasília, 17 de maio de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
