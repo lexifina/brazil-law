@@ -1,0 +1,1 @@
+Art. 20-A. Nos casos de execução contra a Fazenda Nacional, é a Procuradoria-Geral da Fazenda Nacional autorizada a não opor embargos, quando o valor pleiteado pelo exequente for inferior àquele fixado em ato do Ministro da Fazenda.
