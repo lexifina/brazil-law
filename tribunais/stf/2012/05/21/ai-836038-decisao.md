@@ -1,0 +1,19 @@
+DECISÃO:
+    Vistos.
+    Maria Aparecida Garay Bresciani interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXVI, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da Quarta Região, assim ementado:
+    “TRIBUTÁRIO. RESTITUIÇÃO DE INDÉBITO. VALOR MENOR QUE O POSTULADO.
+    Correto o valor restituído pela autoridade fiscal, pois a agravante já havia recebido restituições administrativas em relação aos anos-base de 2002 e 2003 (exercícios, respectivamente de 2003 e 2004), os quais foram considerados nos cálculos empreendidos pela Receita Federal”.
+    Opostos embargos de declaração, foram parcialmente acolhidos para fins de prequestionamento.
+    Decido.
+    A irresignação não merece prosperar, haja vista que a jurisprudência desta Corte está consolidada no sentido de que a alegação de afronta aos limites da coisa julgada, se dependente de reexame de normas infraconstitucionais, como no presente caso, configuraria ofensa constitucional indireta, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ACORDO HOMOLOGADO NA EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE CONTRARIEDADE À COISA JULGADA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 631.850/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 16/5/11).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA REFERENTE AOS LIMITES OBJETIVOS DA COISA JULGADA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. PRECEDENTES . A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello. Agravo regimental desprovido”. (AI n° 785.738/PE-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 24/2/11) (Grifo nosso).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. ACORDO HOMOLOGADO APÓS TRÂNSITO EM JULGADO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ART. 114, VIII, DA CONSTITUIÇÃO DO BRASIL. 1. O Supremo Tribunal Federal fixou entendimento no sentido de que a competência da Justiça do Trabalho restringe-se à execução, de ofício, das contribuições previdenciárias decorrentes de sentenças condenatórias e não alcança, assim, aquela relativa ao vínculo empregatício reconhecido na sentença, mas sem condenação ou acordo sobre o pagamento das verbas trabalhistas que possam servir como base de cálculo. [RE n. 569.056, Plenário, Relator o Ministro Menezes Direito, DJ de 12.12.08]. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento” (AI n° 760826 /SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe 11/2/10).
+    Por fim, ultrapassar o entendimento do Tribunal de origem e acolher a pretensão da agravante, seria necessário o reexame das provas e fatos dos autos, o que não é cabível em sede de apelo extremo. Incidência da Súmula nº 279 desta Corte.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 21 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
