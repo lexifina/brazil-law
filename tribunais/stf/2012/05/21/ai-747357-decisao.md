@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Município de Caxias interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV e LIV, 37 caput, 93, inciso IX, e 100, § 3º e § 5º, da Constituição Federal e ao artigo 87, caput e inciso II, do Ato das Disposições Constitucionais Transitórias.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “PROCESSO CIVIL. ADMINISTRATIVO. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA CONTRA O MUNICÍPIO. SERVIDOR PÚBLICO MUNICIPAL. REMUNERAÇÃO ATRASADA. RESPONSABILIDADE DO MUNICÍPIO. AUSÊNCIA DE PROVA DE PAGAMENTO. ÔNUS DO RÉU – ART. 333, II, DO CPC – FIXAÇÃO DOS HONORÁRIOS MANTIDOS. RECURSO CONHECIDO E IMPROVIDO.
+    I – Comprovado o vínculo funcional e, por conseguinte, a prestação de serviços, o pagamento das verbas salariais demonstra-se obrigatório.
+    II – É do Município e não do ex-prefeito a responsabilidade pelo pagamento de salários por serviços àquele prestados.
+    III – Os honorários obedeceram aos parâmetros legais estabelecidos no art. 20, § 4º do Código de Processo Civil.
+    IV – Recurso conhecido e improvido” (fl. 102).
+    Opostos embargos de declaração (fls. 110 a 125), foram rejeitados (fls. 132 a 139).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que os artigos 5º, incisos XXXV e LIV, 37, caput, e 100, § 3º e § 5º, do texto constitucional, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido. A jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Por outro lado, o Tribuna de origem consignou que:
+    “Ab initio, mister ressaltar (...)
+    Assim sendo, o Apelado comprovou o vínculo funcional e, por conseguinte, a contraprestação de serviços, só podendo o ente público se eximir do pagamento da remuneração, se provar que já o efetuou, caso contrário, o servidor terá o direito ao recebimento de seu vencimento.
+    (…)
+    Cumpre ressaltar, que o não pagamento da remuneração ao servidor público, como forma de contra-prestação pelos serviços realizados, viola o art. 7º da Constituição Federal, que são norma imperativas, invioláveis e de observância, obrigatória principalmente pela Administração Pública, ex vi do art. 39, § 3º da Carta Magna.
+    Portanto, entender de forma diversa, seria dar azo ao enriquecimento ilícito do Poder Público que obteve a prestação de serviço e não o remunerou, (...)” (fls. 106/107).
+    Nesse caso, prestados os serviços pelo autor, é devido o pagamento dos dias trabalhados, nos termos da jurisprudência desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRAÇÃO PÚBLICA INDIRETA. SOCIEDADE DE ECONOMIA MISTA. CONCURSO PÚBLICO. INOBSERVÂNCIA. NULIDADE DO CONTRATO DE TRABALHO. EFEITOS. SALDO DE SALÁRIO. 1. Após a Constituição do Brasil de 1988, é nula a contratação para a investidura em cargo ou emprego público sem prévia aprovação em concurso público. Tal contratação não gera efeitos trabalhistas, salvo o pagamento do saldo de salários dos dias efetivamente trabalhados, sob pena de enriquecimento sem causa do Poder Público. Precedentes. 2. A regra constitucional que submete as empresas públicas e sociedades de economia mista ao regime jurídico próprio das empresas privadas - art. 173, §1º, II da CB/88 - não elide a aplicação, a esses entes, do preceituado no art. 37, II, da CB/88, que se refere à investidura em cargo ou emprego público. 3. Agravo regimental a que se nega provimento” (AI nº 680.939/RS, Segunda Turma, Relator o Ministro Eros Grau, DJe de 1º/2/08).
+    “1. Recurso extraordinário trabalhista: a nulidade do contrato de trabalho firmado com entidade da Administração Pública sem a prévia realização de concurso público - por afronta do artigo 37, II, da Constituição - não gera efeitos trabalhistas, mas é devido o pagamento de salários pelos dias efetivamente trabalhados: precedente (AI 219.969-AgR, Moreira Alves, DJ 28.05.1999). 2. Agravo regimental manifestamente infundado: aplicação de multa, nos termos do art. 557, § 2º, C.Pr.Civil” (AI nº 221.454/PR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 3/2/06).]
+    No mais, o Tribunal de origem decidiu a lide com base nas provas acostadas aos autos e na legislação infraconstitucional pertinente, cujo reexame é inviável em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 21 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
