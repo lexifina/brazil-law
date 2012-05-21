@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Dirson Correia interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 201, caput e inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma do Juizado Especial Federal da 3ª Região, que negou provimento ao pedido de aposentadoria por invalidez do autor, tendo em vista a perda da qualidade de segurado.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Colhe-se do voto condutor do acórdão recorrido, a seguinte fundamentação:
+    “De acordo com o parecer da Contadoria deste Juízo, a parte autora verteu aos cofres da Previdência Social por 10 anos 6 meses e 15 dias, com interrupção em 30.03.1981 que acarretou a perda da qualidade de segurado, readquirindo tal condição em 18.01.1988. Seu último vínculo encerrou-se em 18.09.1990. Tendo em vista que não há qualquer indicativo de que tenha laborado após esta data, estendo seu período de graça de 12 para 24 meses, por força do disposto no art. 15, § 2° da Lei n° 8213/1991. Desse modo, quando do início da incapacidade (03.2001) não mais ostentava o autor a condição de segurado, visto que esta foi mantida somente até 15.11.1992.
+    Com efeito, a qualidade de segurado é exigência clara e inequívoca da lei, que se mantém enquanto o filiado estiver recolhendo contribuições, respeitado o chamado "período de graça". No caso dos autos, sua perda implicou para o autor na ausência de cobertura para o risco social da incapacidade, razão pela qual, afastando a tese esposada no recurso, não deve este requisito ser desprezado”.
+    Desse modo, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem acerca da perda da qualidade de segurado da previdência social do autor, ora recorrente, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas na fundamentação do acórdão recorrido, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 do STF. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 473.703/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Nesse sentido, as seguintes decisões monocráticas: AI n° 819.880/PB, Relatora a Ministra Cármen Lúcia, DJe de 8/2/12; e ARE n° 656.107/PE, Relator o Ministro Gilmar Mendes, DJe de 2/2/12.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 21 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
