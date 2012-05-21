@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo de instrumento contra decisão que não admitiu recurso extraordinário (art. 102, III, a , da Constituição) interposto de acórdão que negou provimento ao recurso em que a parte ora agravante pretendia reformar sentença que julgou procedente pedido de pagamento de pensão por morte. Eis a ementa (Fls. 22):
+    CONSTITUCIONAL E PREVIDENCIÁRIO. PENSÃO POR MORTE. ESTUDANTE UNIVERSITÁRIA. LCE Nº 43/2002. REGRA DE TRANSIÇÃO. PENSIONAMENTO DEVIDO. NÃO RECADASTRAMENTO NA QUALIDADE DE UNIVERSITÁRIA. IRRELEVANTE. INTEGRATIVO IMPROVIDO. DECISÃO UNÂNIME. 1. A LCE nº 43/2002, limitou, indistintamente, o pagamento desses benefícios à idade de 21 (vinte e um) anos, mesmo aos que ostentassem a condição de universitários. 2. A própria LCE, mais precisamente em seu art. 4º, estabeleceu regra de transição, a qual proclama que somente aqueles segurados que já percebiam seus benefícios , na qualidade de universitários, terão direito a continuar auferindo suas pensões até os 25 (vinte e cinco) anos de idade. 3. Na hipótese, a beneficiária do pensionamento vergastado, tornou-se universitária antes da vigência da LCE nº 43/2002, razão pela qual deve ser aplicada à regra de transição, com o consequente restabelecimento do benefício. 4. O Poder Judiciário assegura a todo jurisdicionado o direito de ação cabendo, em contrapartida, entregar-lhe a prestação jurisdicional adequada, não obrigando o autor a buscar a esfera administrativa antes de ingressar em juízo. 5. Precedentes do STJ. 6. Integrativo improvido à unanimidade.
+    Alega-se ofensa ao artigo 5º, XXXVI (direito adquirido), da Constituição federal. Assevera que a recorrida não era universitária quando promulgada a Lei Complementar nº 43/2002 e, portanto, não teria implementado requisito inafastável do direito ao pensionamento.
+    Não prospera o recurso.
+    O acórdão recorrido, baseado na prova documental, concluiu que a recorrida “(...) tornou-se universitária antes da vigência da LCE nº 43/2002” (Fls. 24). Para dissentir dessas conclusões, necessário reexame da prova que as orientou, circunstância que inviabiliza o recurso extraordinário ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 21 de maio de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
