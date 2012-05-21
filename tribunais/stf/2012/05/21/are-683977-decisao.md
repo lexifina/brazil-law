@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ACIDENTE DO TRABALHO. RESPONSABILIDADE CIVIL. CULPA DO EMPREGADOR. INVIABILIDADE DO REEXAME DE FATOS E PROVAS E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. DANOS MORAL E MATERIAL. CONFIGURAÇÃO. VALOR ARBITRADO. No que se refere à caracterização do dano moral, o Regional, última instância apta a examinar matéria fática, entendeu que restaram comprovados os requisitos necessários para a responsabilidade do reclamado. Quanto ao valor da indenização, o fixou considerando o grau de responsabilidade do empregador, bem como sua capacidade financeira, o nível sócioeconômico do empregado e a extensão do dano. Dessa forma, tendo a Corte Regional decidido com amparo nos elementos fático-probatórios coligidos aos autos, e em observância ao princípio do livre convencimento motivado, inscrito no art. 131 do CPC, o exame das alegações recursais fica obstado pela Súmula nº 126 desta Corte. Agravo de instrumento conhecido e não provido” (fl. 1, doc. 9).
+    2. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado o art. 7º, inc. XXVIII, da Constituição da República.
+    Sustenta que
+    “a valoração das provas dada pelo Juiz do Trabalho foi no sentido da culpa exclusiva da vitima. 0 TRT da 3ª Região deu nova valoração à prova, a fim de aplicar norma não aplicável. 0 TST seguiu o entendimento deste último.
+    O que se espera deste Egrégio Supremo Tribunal Federal é que anule a valoração dada pelo TRT da 3ª Região corroborada pelo TST, a fim de que volte a prevalecer a valoração dada pelo Juiz do Trabalho, vez que somente este se ateve ao cuidado de analisar não só o artigo 7°, inciso XXVIII da Constituição Federal, mas também toda a legislação infraconstitucional pertinente ao caso” (fls. 8-9, doc. 13).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (doc. 17).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de origem decidiu:
+    “A Corte a quo considerou que, embora tenha existido imprudência por parte do de cujus, a reclamada também contribuiu para a fatalidade, porque forneceu equipamento que não oferecia segurança à integridade física do empregado.
+    Assim, tendo a Corte Regional decidido com amparo nos elementos fático-probatórios coligidos aos autos, e em observância ao princípio do livre convencimento motivado, inscrito no art. 131 do CPC, o exame das alegações recursais fica obstado pela Súmula nº 126 desta Corte, tendo em vista que, para se chegar a conclusão diversa seria necessário o reexame do quadro fático-probatório delineado pelo Regional, que, diga-se, é soberano no exame das provas” (fl. 7, doc. 9 – grifos nossos).
+    Concluir de forma diversa do que decidido demandaria a análise prévia da legislação infraconstitucional aplicada à espécie (Código Civil e Consolidação das Leis do Trabalho) e do conjunto fático-probatório dos autos. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 633.449-AgR, de minha relatoria, Primeira Turma, DJe 24.6.2011).
+    “DIREITO CIVIL E PROCESSUAL CIVIL. INDENIZAÇÃO POR DANO MORAL. CARACTERIZAÇÃO DO DANO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA STF 279. MATÉRIA INFRACONSTITUCIONAL. 1. O Tribunal de origem reconheceu a responsabilidade civil do ora agravado com fundamento nos fatos e provas da causa, tendo concluído pela existência de excesso autorizador da reparação por danos morais. Incide, na espécie, o óbice da Súmula STF 279. 2. Agravo regimental a que se nega provimento” (AI 753.833-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.8.2011).
+    “Agravo regimental no recurso extraordinário com agravo. Trabalhista. Acidente de trabalho. Indenização. Prazo prescricional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido” (ARE 647.634-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 2.2.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
