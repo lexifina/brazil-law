@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. DCTF - DECLARAÇÃO DE CRÉDITOS E TRIBUTOS FEDERAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 3. ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal Regional Federal da 4ª Região decidiu:
+    “AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO AGRAVO DE INSTRUMENTO.
+    Forte no disposto no art. 557, caput, do CPC, possível ao Relator negar seguimento a recurso manifestamente inadmissível, improcedente, prejudicado ou em confronto com Súmula ou jurisprudência dominante do respectivo tribunal ou de tribunais superiores” (fl. 222).
+    Não foram opostos embargos declaratórios.
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal e a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    4. A Agravante argumenta que:
+    “Ao dizer que ‘o enfrentamento das questões apontadas em grau de recurso, bem como a análise da legislação aplicável, são suficientes para prequestionar junto às instâncias superiores os dispositivos que as embasam’, o acórdão impugnado deu por prequestionados os artigos 2º, 5º, inciso II, 48, inciso I, 146, inciso III, letra b, da Constituição Federal brasileira (CF/88) e 25, inciso I, do ADCT (Ato dos Dispositivos Constitucionais Transitórios), nos exatos termos da Súmula n. 282 deste Excelso Pretório.
+    (...)
+    Ao contrário do que alega o ilustre Vice-Presidente do Tribunal a quo, o pressuposto elencado na alínea a, do artigo 102, inciso III, da Constituição Federal brasileira (CF/88) não exige que a afronta ao texto constitucional se dê de forma direta, muito pelo contrário, ela apenas dispõe que compete ao Supremo Tribunal Federal julgar, mediante Recurso Extraordinário, as causas decididas em única ou última instância, quando a decisão impugnada contrariar dispositivo constitucional” (fl. 6).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, inc. II, 48, inc. I, e 146, inc. III, alínea b, da Constituição e o art. 25, inc. I, do Ato das Disposições Constitucionais Transitórias.
+    Requer seja declarada a inconstitucionalidade das disposições contidas no art. 5º, § 3º, do Decreto-Lei n. 2.124/84, na Portaria Ministerial n. 118/1984 e na Instrução Normativa da Secretaria da Receita Federal n. 129/1986 (fl. 237).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. A Desembargadora Federal Luciane Amaral Corrêa Münch, Relatora, afirmou:
+    “De acordo com o dispositivo acima transcrito [art. 5º do Decreto–Lei n. 2.124/1984], conclui-se que não há violação ao princípio da legalidade quanto à exigência de apresentação da DCTF [Declaração de Créditos e Tributos Federais] e à imposição de multa pelo atraso na sua entrega.
+    Tratando-se a DCTF de obrigação tributária acessória, desde logo deve ser afastado o entendimento da embargante de que seria necessária a edição de Lei Complementar para sua instituição. Isso porque o §2º do art. 113 do CTN prevê expressamente que "a obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos". O art. 96 do CTN, por sua vez, esclarece que "a expressão "legislação tributária" compreende as leis, os tratados e as convenções internacionais, os decretos e as normas complementares que versem, no todo ou em parte, sobre tributos e relações jurídicas a eles pertinentes". Ademais, o princípio da legalidade estrita em matéria tributária (exigência de lei em sentido formal), é aplicável quando se trata de exigir ou aumentar tributo, conforme determina o art. 150, inc. I, da Constituição Federal.
+    Dentro desse contexto, afigura-se legítima a exigência de apresentação de DCTF, como obrigação acessória, bem como de multa pela sua entrega com atraso. Cuida-se, portando, de obrigação acessória instituída por lei, apenas regulamentada pela IN 129/86, a qual não exorbitou a competência que lhe é conferida por lei” (fl. 210).
+    Os arts. 2º, 48, inc. I, da Constituição e o art. 25, inc. I, do Ato das Disposições Constitucionais Transitórias, suscitados no recurso extraordinário, não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. O novo exame do julgado impugnado exigiria a análise prévia de legislação infraconstitucional aplicada à espécie (Código Tributário Nacional). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. APLICAÇÃO DE MULTA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 835.431-AgR, de minha relatoria, Primeira Turma, DJe 21.6.2011).
+    8. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+    Incide no caso presente a Súmula n. 636 do Supremo Tribunal Federal:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.”
+    A decisão agravada, baseada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
