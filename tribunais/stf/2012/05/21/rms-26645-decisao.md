@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso ordinário em mandado de segurança interposto por Marília Pires Ferreira do Nascimento Silva contra acórdão da Primeira Seção do Superior Tribunal de Justiça que julgou o extinto o mandado de segurança, sem resolução do mérito, em acórdão assim ementado (fl. 97):
+    “TRIBUTÁRIO – ISENÇÃO DE IMPOSTO DE RENDA – PENSIONISTA DE MILITAR ANISTIADO – AUTORIDADES COATORAS – MINISTRO DE ESTADO DA DEFESA E COMANDANTE DA AERONÁUTICA – PARTES ILEGÍTIMAS.
+    1. É firme na Seção de Direito Público deste Superior Tribunal o entendimento de que Ministro de Estado só é parte legítima para figurar como autoridade coatora quando pratica pessoalmente o ato impugnado, conforme, aliás, ficou definido no julgamento do Mandado de Segurança 6.669-DF, da relatoria da Ministra Eliana Calmon (acórdão unânime, publicado no DJ 13.8.2001).
+    2. In casu, o Ministro de Estado da Defesa e o Comandante da Aeronáutica são partes ilegítimas, pois não praticaram pessoalmente o ato impugnado. Precedente.
+    Mandado de Segurança extinto sem resolução do mérito.”
+    Segundo se depreende dos autos, a ora recorrente, pensionista de integrante da Aeronáutica, impetrou mandado de segurança, com pedido de liminar, contra ato do Ministro de Estado da Defesa e do Comandante da Aeronáutica, o qual teria descumprido dispositivos da Lei nº 10.559/02 e do Decreto nº 4.897/03, que determinaram fosse concedida isenção do imposto de renda aos anistiados politicamente.
+    A impetrante, em seu recurso ordinário (fls. 112 - 127), defende a legitimidade do Ministro de Estado da Defesa e do Comandante da Aeronáutica para constarem no polo passivo do mandamus, fundamentando-se em disposições legais e infralegais que regulamentam a anistia política de militares, assim como no fato das autoridades apontadas como coatoras terem defendido, em suas informações, o mérito do ato impugnado, devendo, por isso, ser aplicada a teoria da encampação.
+    Observa, ainda, que a legitimidade dos ora impetrados era posição dominante do Superior Tribunal de Justiça, conforme diversos julgados apresentados.
+    Assim, requer: “que o recurso ordinário seja conhecido e provido, para que se afirme a competência do Superior Tribunal de Justiça para a causa e para que, afinal, a segurança seja deferida no seu mérito” (fl. 127).
+    Foram apresentadas, pela Advocacia-Geral da União, contrarrazões ao recurso ordinário, no sentido da manutenção do acórdão do STJ, negando-se provimento ao presente recurso (fls. 133 - 136).
+    O parecer da douta Procuradoria-Geral da República é pelo improvimento do recurso (fls. 146 - 147).
+    Decido.
+    Postula a impetrante, com o ajuizamento deste mandamus, garantir o cumprimento de dispositivos legais que estabelece a isenção do recolhimento do imposto de renda, por ser pensionista de militar anistiado.
+    O Superior Tribunal de Justiça extinguiu o mandado de segurança sem resolução do mérito, por ausência de legitimidade passiva do Ministro de Estado da Defesa e do Comandante da Aeronáutica, conforme ementa transcrita acima.
+    A partir da análise da questão suscitada no presente recurso ordinário, verifico que a irresignação da recorrente merece parcial provimento.
+    É posição pacífica desta Suprema Corte, em entendimento firmado pelo Pleno, o reconhecimento da legitimidade do Ministro de Estado e do Comandante, que confere suporte à pretensão deduzida no presente recurso, consubstanciado em acórdão assim ementado:
+    “Recurso em mandado de segurança. Anistia política. Pensão militar. Imposto retido na fonte. Lei nº 10.559/02. Autoridade coatora. Legitimidade. 1. A folha de pagamento dos militares corre à conta do Ministério do Exército. O Ministro de Estado da Defesa e o Comandante do Exército, portanto, detêm o poder de determinar a interrupção dos descontos relativos ao imposto de renda feitos nos proventos da recorrente, exatamente o objeto da impetração. Legitimidade, assim, das citadas autoridades para figurar no pólo passivo do mandado de segurança. 2. Recurso ordinário provido para reconhecer a legitimidade passiva das autoridades apontadas como coatoras e determinar a devolução dos autos ao Superior Tribunal de Justiça para a apreciação do mérito do mandado de segurança, inaplicável o art. 515, § 3º, do Código de Processo Civil.” (RMS 26.959/DF, Tribunal Pleno, Rel. p/ o acórdão Min. Menezes Direito, DJe de 15/5/09)
+    Também nesse sentido: RMS nº 26.643/DF, Relator o Ministro Celso de Mello, DJe de 22/6/11; RMS nº 27.583/DF, Relator o Ministro Joaquim Barbosa, DJe de 12/2/10; RMS nº 27.507/DF, Relator o Ministro Eros Grau, DJe de 29/1/10; e RMS nº 28.076/DF, Relator o Ministro Ricardo Lewandowski, DJe de 1º/9/09.
+    Verificando ser o mesmo caso dos presentes autos e com apoio nessa orientação emanada do Plenário deste Supremo Tribunal Federal, impõe-se acolher, em parte, a postulação recursal ora deduzida pela recorrente, para reconhecer a legitimação passiva do Ministro da Defesa e do Comandante da Aeronáutica.
+    Assim sendo, tendo em vista os precedentes desta Corte, dou parcial provimento ao presente recurso ordinário, para o fim específico de afastar a ilegitimidade passiva das autoridades apontadas como coatoras e determinar, em consequência, que o E. Superior Tribunal de Justiça julgue o mérito da controvérsia instaurada nos autos do MS 12.147 - DF.
+    Publique-se.
+    Brasília, 21 de maio de 2012
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
