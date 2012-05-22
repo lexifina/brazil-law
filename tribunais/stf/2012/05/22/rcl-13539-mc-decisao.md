@@ -1,0 +1,22 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por Antônio Augusto Ribeiro Júnior contra decisão proferida pela Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro nos autos do Processo 0312057-57.2009.8.19.0001.
+    Narra o reclamante ter a autoridade-reclamada negado seguimento a recurso extraordinário interposto de acórdão que entendeu inexistir direito líquido e certo à aprovação em concurso público por candidato que aceitara transação penal.
+    Segundo argumenta o reclamante, a negativa de seguimento imposta ao recurso extraordinário é inválida, pois:
+    a) Representa reforma em desfavor do réu (HC 65.224);
+    b) Violou a autoridade do acórdão prolatado nos autos do RE 560.900;
+    c) Contrariou o pacto federativo.
+    Ante o exposto, pede-se a concessão de medida liminar para suspender os efeitos do ato reclamado e, no mérito, sua cassação.
+    A autoridade-reclamada prestou informações (Doc. 19).
+    É o relatório.
+    Decido.
+    Esta reclamação constitucional não reúne condições de prosseguir.
+    Por não servir de sucedâneo à ação rescisória (Súmula 734/STF), à medida ou ao recurso judicial eventualmente cabível para reformar decisão judicial (cf., e.g., Rcl 6.534-AgR, rel. Min. CELSO DE MELLO, Tribunal Pleno, julgado em 25/09/2008, DJe-197 DIVULG 16-10-2008 PUBLIC 17-10-2008 EMENT VOL-02337-01 PP-00160 RT v. 98, n. 879, 2009, p. 162-170; Rcl 5.684-AgR, rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 26/06/2008, DJe-152 DIVULG 14-08-2008 PUBLIC 15-08-2008 EMENT VOL-02328-01 PP-00213; Rcl 5.465-EDcl, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 25/06/2008, DJe-152 DIVULG 14-08-2008 PUBLIC 15-08-2008 EMENT VOL-02328-01 PP-00178; Rcl 4.363-AgR, rel. Min. RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em 20/09/2007, DJe-126 DIVULG 18-10-2007; Rcl 5.159-AgR, rel. Min. CÁRMEN LÚCIA, Primeira Turma, julgado em 26/06/2007, DJe-077 DIVULG 09-08-2007 PUBLIC 10-08-2007 DJ 10-08-2007 PP-00021 EMENT VOL-02284-01 PP-00030); Rcl 4.395-EDcl, rel. Min. CEZAR PELUSO, Tribunal Pleno, julgado em 29/11/2006, DJ 02-02-2007 PP-00074 EMENT VOL-02262-03 PP-00475; Rcl 3.800-AgR, rel. Min. ELLEN GRACIE, Tribunal Pleno, julgado em 02/02/2006, DJ 09-06-2006 PP-00004 EMENT VOL-02236-01 PP-00137 LEXSTF v. 28, n. 331, 2006, p. 210-217) ou de instrumento de uniformização de jurisprudência (Rcl 6135 AgR, rel. Min. JOAQUIM BARBOSA, Tribunal Pleno, julgado em 28/08/2008, DJe-035 DIVULG 19-02-2009 PUBLIC 20-02-2009 EMENT VOL-02349-05 PP-01042 RT v. 98, n. 883, 2009, p. 143-147 e Rcl 2.665-AgR, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 23/02/2005, DJ 17-06-2005 PP-00007 EMENT VOL-02196-01 PP-00098 LEXSTF v. 27, n. 320, 2005, p. 243-251), o cabimento da reclamação constitucional pressupõe pertinência estrita entre o quanto decidido no ato reclamado e o quanto decidido no precedente cuja autoridade se tem por violada.
+    Como a autoridade-reclamada informa que não há notícia da interposição do agravo previsto no art. 544 do CPC, esta reclamação constitucional está fazendo as vezes do recurso cabível contra a decisão do Tribunal de origem que indeferiu o processamento de recurso extraordinário.
+    Ademais, é incabível a reclamação constitucional com o objetivo de uniformizar jurisprudência ou de discutir violações constitucionais se não houver a violação de um paradigma com eficácia geral e abstrata (erga omnes) ou individual e concreta de cuja relação processual tenha feito parte o reclamante.
+    Por fim, o acórdão prolatado no RE 560.900-RG, de minha relatoria, se limitou a reconhecer a repercussão geral do debate sobre o alcance do princípio da inocência aos concursos públicos, pendente exame de mérito. Já o ato-reclamado nada disse sobre a repercussão geral da matéria, pois foi motivado pela impossibilidade de reexame de fatos e provas no julgamento do recurso extraordinário. Se bem ou mal decidiu o Tribunal de origem ao aplicar a Súmula 279/STF ao recurso extraordinário (fundamento processual), tal violação não decorreria do desrespeito à decisão que reconheceu a repercussão geral da matéria de fundo (fundamento de mérito).
+    Ante o exposto, nego seguimento à reclamação (art. 38 da Lei 8.038/1990 e art. 21, § 1º do RISTF).
+    Fica prejudicado o exame da medida liminar (art. 21, IX do RISTF).
+    Publique-se. Int..
+    Brasília, 22 de maio de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
