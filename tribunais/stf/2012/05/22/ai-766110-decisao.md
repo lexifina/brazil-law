@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de Minas Gerais, assim ementado:
+    “EXECUÇÃO FISCAL - EMBARGOS DE DEVEDOR - LC 65/91, ART. 1º - REQUISITOS CUMULATIVOS - PRODUTO INDUSTRIALIZADO PARA EXPORTAÇÃO - IMUNIDADE - APLICAÇÃO DO ART. 155, § 2º, X, ""a"" DA CR - RECURSO - PRELIMINAR DE INTEMPESTIVIDADE DEVIDAMENTE REJEITADA. Consoante entendimento sufragado pelo STF, na Adin 600-2, os requisitos elencados no art. 2º da LC nº 65/91, devem ser considerados de maneira conjunta, para fins de definir a incidência do ICMS. Embora a Carta Magna, em seu art. 155, § 2º, II, ‘a’ estabeleça que a isenção ou não-incidência ‘não implicará crédito para compensação com o montante devido nas operações ou prestações seguintes,’ ressalvou a possibilidade de haver previsão legal em sentido contrário. Vencida a Fazenda Pública, os honorários advocatícios devem ser fixados com moderação, aplicando-se o §4º do art. 20 do CPC, Rejeição da preliminar, provimento do primeiro apelo aviado e prejudicialidade do segundo.”
+    Sustenta-se, em síntese, a violação do art. 155, II, § 2º, II, a e b, e X, a, da Constituição.
+    O exame de ambas as teses levantadas no recurso extraordinário demandam necessariamente a análise e interpretação de legislação infraconstitucional (Lei Complementar 65/91). Dessa forma, eventual ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+    Ademais, ressalto que o acórdão do TJMG em nenhum momento questionou a competência do Confaz para relacionar os produtos compreendidos na definição de semi-elaborados, mas apenas considerou que a Lei Complementar impõe requisitos para um produto ser considerado semi-elaborado, que foram desatendidos no presente caso.
+    Quanto à tese sucessiva, de afronta ao art. 155, II, § 2º, II a e b, da Carta Magna, também há outra razão para inviabilizar o conhecimento do recurso extraordinário.
+    É que o recorrente não tratou do motivo que fez o TJMG reconhecer a desnecessidade de estorno dos créditos: possibilidade de ressalva à regra geral, prevista pelo no art. 155, § 2º, II, a, e o disposto no art. 3º, da Lei Complementar nº 65/91.
+     Dessa forma, a fundamentação do recurso extraordinário, nesse ponto, impede a exata compreensão da controvérsia, impondo-se a aplicação da Súmula 284 do Supremo Tribunal Federal.
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 22 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
