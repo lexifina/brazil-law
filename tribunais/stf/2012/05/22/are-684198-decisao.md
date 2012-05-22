@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PROVA PERICIAL. INDEFERIMENTO. ALEGADA CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO INTERNO INTERPOSTO PELA PARTE APELANTE. APELAÇÃO CÍVEL/REEXAME NECESSÁRIO. MUNICÍPIO DE TRÊS RIOS. LEGALIDADE DA PROVA EMPRESTADA. AUSÊNCIA DE CERCEAMENTO DE DEFESA. ESGOTAMENTO SANITÁRIO. SERVIÇO NÃO PRESTADO. COBRANÇA INDEVIDA. NATUREZA JURÍDICA DE PREÇO PÚBLICO. RELAÇÃO CONTRATUAL. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. DEVER DE RESTITUIR OS VALORES PAGOS. INEXISTÊNCIA DE MÁ-FÉ POR PARTE DA AUTARQUIA. DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECURSO PARA QUE A REPETIÇÃO DE INDÉBITO SE DÊ NA FORMA SIMPLES. APLICAÇÃO DO VERBETE SUMULAR Nº 85 DESTE TRIBUNAL DE JUSTIÇA. DECISÃO PROFERIDA NOS MOLDES DO ARTIGO 557, CAPUT § 1º-A, DO CÓDIGO DE PROCESSO CIVIL. RATIFICAÇÃO DO DECISUM POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO. (fl. 266).
+    Os embargos de declaração opostos foram rejeitados (fl. 285).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Assevera que “a produção da prova pericial ao caso concreto não é impossível e nem mesmo difícil, e é essencial para que a Recorrente possa comprovar suas alegações” (fl. 318).
+    Sustenta que “a prova emprestada foi elaborada há quase 4 anos e já está envelhecida, tornando-se imprestável ao caso concreto” (fl. 318).
+    Argumenta que “efetivamente presta o serviço e esgotamento sanitário, e, assim, está legalmente autorizada a cobrar os serviços correspondentes e previstos na norma legal pertinente [Lei n. 11.445/2007]. Na eventualidade, para que por ventura se admita entender de forma diversa, necessária se faz a realização de prova pericial que averiguará, in casu, a ocorrência ou não da prestação de serviços de esgotamento pela Autarquia” (fl. 325).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) ausência de prequestionamento; e b) a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, a matéria constitucional posta à apreciação foi suscitada em momento processual adequado.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. Razão jurídica não assiste ao Agravante.
+    7. O Desembargador Relator Guaraci de Campos Vianna afirmou:
+    “O agravante pretendia ver reformada a decisão judicial que deferiu o pedido de juntada de laudo de prova técnica realizada em processo de natureza semelhante, como prova emprestada nestes autos.
+    Com efeito, a prova emprestada em questão foi acolhida em processo judicial onde a apelante figurava como ré, com total observância ao contraditório e à ampla defesa, sendo certo que a perícia foi realizada em imóvel que apresenta as mesmas circunstâncias fáticas do imóvel da autora.
+    Outrossim, em momento algum a apelante se dispôs a efetuar a competente contraprova com o intuito de desconstituir a premissa original de que o serviço de tratamento de esgoto não é prestado nem posto à disposição para legitimar a cobrança da taxa de esgoto.
+    (…)
+    Não se vislumbra, portanto, na decisão agravada, cerceamento ao direito de defesa, mas tão somente o legítimo poder que tem o magistrado de determinar as provas necessárias à instrução do processo, assim como o de vetar a produção de provas inúteis” (fls. 268 e 270).
+    8. Este Supremo Tribunal Federal assentou não ofender o art. 5º, inc. LV, da Constituição da República o indeferimento da produção de prova, pois cabe ao juiz da causa o exame de sua suficiência e a eventual necessidade de dilação probatória. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. INEXISTÊNCIA. 1. Não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: AIs 382.214, da relatoria do ministro Celso de Mello; e 114.548-AgR, da relatoria do ministro Sepúlveda Pertence. 2. Agravo desprovido” (AI 788.835-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 17.9.2010).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PROVA PERICIAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 802.572-AgR, de minha relatoria, Primeira Turma, DJe 25.11.2010).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. ACIDENTE DE TRABALHO. CERCEAMENTO DE DEFESA. INDISPENSABILIDADE DE PRODUÇÃO DE PROVAS. 1. É inviável o processamento do extraordinário para debater matéria processual, de índole infraconstitucional, relativa ao reexame dos julgamentos proferidos na instância a quo, para fins de determinar produção de prova pericial, por suposto cerceamento de defesa. 2. Alegação de ofensa aos princípios do contraditório, da ampla defesa e do duplo grau de jurisdição configura, quando muito, ofensa meramente reflexa à Constituição Federal. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 698.287-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.8.2011).
+    O acórdão recorrido não divergiu da jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 22 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
