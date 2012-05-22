@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. REMUNERAÇÃO. CONVERSÃO PARA SUBSÍDIO. ARTIGO 3º, § 3º, DA LEI Nº 1.206/01. PERDA DE QUINQUÊNIOS E ANUÊNIOS. ALEGADA INCONSTITUCIONALIDADE POR DESRESPEITO AO ARTIGO 37, INCISO X, DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL RECONHECIDA NOS AUTOS DO RE 565089/SP. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM.
+    Decisão: Trata-se de Recurso Extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra acórdão proferido pela Quarta Turma da 1ª Câmara Cível do Tribunal de Justiça do Estado do Tocantins, que negou provimento a apelação interposta pelo recorrente mediante os seguintes fundamentos:
+    “APELAÇÃO CIVEL. DECLARATORIA. PRELIMINAR INCONSTITUCIONALIDADE LEI ESTADUAL. NÃO RECONHECIMENTO DA INCONSTITUCIONALIDADE. AUMENTO DE VENCIMENTOS. NÃO PROVIMENTO.
+    1. Em preliminar requer o autor o reconhecimento da inconstitucionalidade do § 3, art. 3º da Lei 1206/01 que implementou o subsídio como forma de remuneração, por estar em confronto com art. 37, X da Constituição Federal.
+    2. A tese não merece acolhimento, pois não houve qualquer perda salarial, e a previsão do referido dispositivo trata da reestruturação da carreira buscando equidade de tratamento para servidores integrantes desse plano, enquanto o inciso X do artigo 37 da Carta Magna trata da revisão geral anual.
+    3. A suspensão de aumento salarial do servidor até a efetiva equiparação salarial em relação aos demais servidores não se mostra irregular, na medida em que visa unicamente a reestruturação do plano de cargos e salários dos servidores, atribuindo-lhes tratamento eqüitativo.”
+    Em suas razões, o recorrente alega, em síntese, ofensa ao artigo 37, inciso X, da Constituição Federal perpetrada pelo § 3º do artigo 3º da Lei nº 1.206/01 de Tocantins (alterou o estatuto dos servidores do estado), pois, segundo alega, a referida norma, ao proceder à conversão da remuneração dos servidores públicos do estado em subsídio, teria vedado a concessão de revisão da remuneração. Sustenta a existência de repercussão geral sob o aspecto econômico e social. Requer o provimento do recurso.
+    A matéria tratada no apelo extremo teve sua repercussão geral reconhecida nos autos do RE 565.089, da Relatoria da E. Min. Marco Aurélio, ementado nos seguintes termos:
+    “VENCIMENTOS - REPOSIÇÃO DO PODER AQUISITIVO - ATO OMISSIVO - INDENIZAÇÃO - INCISO X DO ARTIGO 37 DA CONSTITUIÇÃO FEDERAL - RECURSO EXTRAORDINÁRIO - REPERCUSSÃO DO TEMA. Ante a vala comum da inobservância da cláusula constitucional da reposição do poder aquisitivo dos vencimentos, surge com repercussão maior definir o direito dos servidores a indenização.”
+    Ante o quadro, considerando o fato de o recurso paradigma ainda aguardar o julgamento do mérito pelo Plenário, determino a DEVOLUÇÃO do processo ao Tribunal de origem, para que se observe o disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 22 de maio de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
