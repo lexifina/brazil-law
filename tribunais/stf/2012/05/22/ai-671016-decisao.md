@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto contra a parte do acórdão que entendeu que a compensação de valores recolhidos a título de contribuição previdenciária declarados inconstitucionais deve ser realizada com as limitações previstas nas Leis 9.032/1995 e 9.129/1995, ainda que tais recolhimentos tenham ocorrido anteriormente à vigência das normas.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXII e XXXVI, e 148 da mesma Carta.
+    O agravo não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corte, firmada no sentido de que se aplica à compensação tributária as restrições previstas nas Leis 9.032/1995 e 9.129/1995 quanto aos créditos constituídos na sua vigência, ainda que as contribuições previdenciárias tenham sido recolhidas anteriormente. Nesse sentido, transcrevo a ementa dos seguintes julgados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. LEIS 9.032/1995 E 9.129/1995. LIMITES À COMPENSAÇÃO. 1. Aplica-se à compensação tributária as limitações previstas nas Leis 9.032/1995 e 9.129/1995 quanto aos créditos constituídos na sua vigência, mesmo que tenham as contribuições previdenciárias sido recolhidas anteriormente. Precedentes. 2. Agravo regimental desprovido” (RE 398.379-AgR/PR, Rel. Min. Ayres Britto).
+    “CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CRÉDITO. COMPENSAÇÃO. RESTRIÇÕES DAS LEIS 9.032/95 e 9.129/95: APLICABILIDADE. 1. A jurisprudência desta Corte firmou-se no sentido de que as limitações previstas nas Leis 9.032/95 e 9.129/95 aplicam-se à compensação tributária quanto aos créditos constituídos na sua vigência, mesmo que as contribuições previdenciárias tenham sido recolhidas anteriormente. 2. Agravo regimental a que se nega provimento” (RE 562.939-AgR/PR, Rel. Min. Ellen Gracie).
+    Nesse mesmo sentido, cito as seguintes decisões, entre outras: RE 592.260-AgR-segundo/BA, Rel. Min. Ayres Britto; RE 380.448-AgR/SC, Rel. Min. Ellen Gracie; RE 393.480/SP e AI 554.414/MA, Rel. Min. Joaquim Barbosa; AI 615.814/SP, Rel. Min. Dias Toffoli; AI 842.336/CE, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
