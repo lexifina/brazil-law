@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região ementado nos seguintes termos:
+    “PROPRIEDADE INDUSTRIAL. APELAÇÃO. NOME EMPRESARIAL. MARCAS LIDEL E LIDL. COLIDÊNCIA. ART. 124, INCISO XXIII, LPI.
+    1. De acordo com o art. 124, V, da LPI, não é admitido em nosso sistema marcário o registro de elementos definidores de nome de empresa ou título de estabelecimento quando pertencentes a terceiros e na medida em que o emprego possa gerar situações de confusão ou associação.
+    2. Considerando que a empresa estrangeira LIDL STIFTUNG & CO. KG., ora apelada, foi constituída no ano de 1973, enquanto que os atos constitutivos da apelante – LIDEL LOJA DE ALIMENTOS LTDA – datam de 1998, é possível concluir que milita em favor daquela o privilégio da anterioridade sob o aspecto do nome comercial.
+    3. O fato que provoca a incidência da proibição inserta no art. 124, XXIII, da LPI é a conduta maliciosa do pretendente ao registro, por ser pessoa do ramo de negócio e ter acesso ao que se passa no mercado, o que efetivamente não ocorreu na hipótese trazida aos autos.
+    4. Sendo a empresa-ré mais antiga que a empresa-autora, e atuando ambas no mesmo segmento mercadológico – supermercados/comércio de mercadorias – evidencia-se o prévio conhecimento da autora reconvinda sobre a existência e atividades da ré-reconvinte, podendo invocar a primeira o inciso XXIII do art. 124 da LPI como protetor de seus sinais.
+    5. Apelação e remessa improvidas”. (fl. 215)
+    No recurso extraordinário, aponta-se violação aos arts. 5º, XXIX, XLI, LIV, LV, LVI; e 93, IX, da Constituição Federal.
+    Sustenta-se, em síntese, a impossibilidade de aplicação do princípio da anterioridade em benefício da recorrida, tendo em vista tratar-se de marca estrangeira que não possui domicílio no Brasil e que apenas teria depositado pedido de registro no país, para a atividade de venda no varejo (supermercado), em 26.4.2006.
+    Decido.
+    Não assiste razão à agravante.
+    Inicialmente, registre-se que, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Além disso, extrai-se dos autos que o Tribunal de origem solucionou a controvérsia, referente à colidência dos nomes empresariais, com base na interpretação da legislação infraconstitucional (Lei 9.279/96).
+    Nesses termos, verifica-se que a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa, o que inviabiliza o prosseguimento do recurso extraordinário, nos termos da jurisprudência dominante desta Corte. Confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. PROPRIEDADE INDUSTRIAL. NOME COMERCIAL. LEI 9.279/96. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO. OFENSA INDIRETA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão concernente à regularidade da utilização do nome comercial pela ora agravada com base na legislação ordinária (Lei 9.279/96). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - A verificação da ocorrência de coisa julgada, no caso, situa-se em âmbito infraconstitucional. Precedentes. III - Não há negativa de prestação jurisdicional se o acórdão, embora fundamentado, está em dissonância com os interesses dos recorrentes. Precedentes. IV – Agravo regimental improvido”. (AI-AgR, 831.401, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 5.9.2011)
+    No mesmo sentido, cito as seguintes decisões monocráticas: RE 596.605, Rel. Min. Ayres Britto, DJe 19.2.2010; AI 833.071, Rel. Min. Joaquim Barbosa, DJe 11.5.2011.
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 23 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
