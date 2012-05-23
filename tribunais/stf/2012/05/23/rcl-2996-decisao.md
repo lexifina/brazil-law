@@ -1,0 +1,20 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada por TV Globo Ltda. e Outro, ao fundamento de usurpação de competência desta Corte pelo Tribunal de Justiça do Estado do Piauí, onde tramita o Agravo de Instrumento n.º 02.000827-9, em cujos autos mais da metade dos magistrados componentes do Pleno daquela Corte estadual se declararam impedidos ou suspeitos.
+    No caso, objetiva-se trazer à apreciação do Supremo Tribunal Federal deliberação de imediato cumprimento de sentença judicial proferida pelo Juiz da 6ª Vara Cível da Circunscrição Judiciária de Teresina/PI, que confirmou a tutela antecipada anteriormente concedida na ação ordinária de indenização por danos morais.
+    Contra essa decisão concessiva de tutela antecipada os reclamantes interpuseram o referido agravo de instrumento perante o Tribunal de Justiça do Estado do Piauí, no qual nove dentre os dezesseis membros integrantes proclamaram-se impedidos de atuar, conforme certidão expedida pela Secretaria daquela Corte (fl. 42).
+    Assim, os reclamantes alegam que o fato de mais da metade dos desembargadores componentes do órgão julgador se declararem impedidos ou suspeitos transferiu a competência para o julgamento do referido processo para o Supremo Tribunal Federal, tendo em vista a previsão do art. 102, inciso I, alínea “n”, da Constituição Federal.
+    Em 1º de dezembro de 2004, a então relatora, Min. Ellen Gracie, deferiu medida liminar para determinar a suspensão de execução provisória em ação de indenização, em trâmite na 6ª Vara Cível da Circunscrição Judiciária de Teresina/PI.
+    Há parecer do Procurador-Geral da República (fls. 1.152-1.156) pelo provimento da presente reclamação.
+    Em 26.7.2011, requisitei informações ao Tribunal de Justiça do Estado do Piauí sobre a quantidade de membros da Corte impossibilitados de atuar no julgamento do AI 02.000827-9 naquele momento (fl. 1.262).
+    Em resposta (fl. 1.268), informou-se que até 20.7.2011 a composição do Tribunal era de dezessete membros, dos quais sete declararam-se impossibilitados de participar do referido pleito.
+    Decido.
+    Verifico, em informação retirada do sistema de acompanhamento processual desta Suprema Corte, que em 6.7.2007 foi ajuizada a Ação Originária n. 1.447/PI, distribuída ao Ministro Cezar Peluso, a qual tem por objeto os mesmos fatos narrados nesta reclamação, bem como as mesmas partes. Na referida ação originária, o ministro relator reconheceu a incompetência desta Corte, em razão da alteração na composição do Tribunal de Justiça do Piauí, uma vez que apenas seis dos dezessete desembargadores declararam-se impossibilitados de atuar no feito. Nesse sentido, o seguinte trecho de decisão proferida, DJe 3.2.2010:
+    “(...)
+    É certo que, na espécie, à época da remessa dos autos para o Supremo Tribunal Federal, doze dos dezessete desembargadores do Tribunal de Justiça do Estado do Piauí se declararam impedidos ou suspeitos. Ocorre que, da atual composição do tribunal piauiense, conforme informação constante do seu sítio eletrônico, apenas seis Desembargadores guardam aquela condição. Em situações análogas, esta Corte já reconheceu não tipificada situação capaz de lhe instaurar ou remanescer a competência (cf. AO nº 982, rel. Min. ELLEN GRACIE, DJ de 13.06.2003, AO nº 985, rel. Min. NELSON JOBIM, DJ de 18.11.2003)”.
+    Essa decisão transitou em julgado em 8.2.2010, com baixa definitiva dos autos em 19.2.2010. Inclusive, em consulta ao sítio eletrônico do mencionado Tribunal, constatei que, em razão da decisão supra, os autos foram devidamente redistribuídos.
+    Ante o exposto, por ser a matéria versada nesta ação idêntica àquela da Ação Cível Originária n. 1.447/PI, Rel. Min. Cezar Peluso, julgo extinta a reclamação, em virtude da perda superveniente de seu objeto (art. 21, IX, do RISTF), e, em consequência, determino a cassação da medida liminar anteriormente concedida.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 23 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
