@@ -1,0 +1,22 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA SOBRE OBSERVÂNCIA DO DEVIDO PROCESSO LEGAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Apelação Cível. Direito Administrativo. Retirada de quiosque na praia de Itaipu. Pretensão à obtenção de licença para funcionamento de quiosque, relocalização ou indenização. Precariedade do título que autorizou a utilização do solo público. Legalidade do ato emitido pela Administração Pública, baseado na supremacia do interesse público. Ausência de prova da existência de permissão ou licença para a exploração comercial, mas de licença eventual de ocupação do solo expirada em 1995. Intimação regular pelo Município para desocupação da área possibilitando a defesa em sede administrativa. Área de preservação ambiental que enseja a impossibilidade de exploração comercial. Questões já apreciadas em sede de Mandado de Segurança. Impossibilidade de acolhimento do pleito de relocação por não integrar o Autor o TAC constante dos autos. Inexistência de abuso de poder a amparar a pretensão indenizatória autoral. Precedentes desta Corte. Recurso desprovido“ (fl. 380 - grifos nossos).
+    2. No recurso extraordinário, o Agravante sustenta contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, pois “foi notificado de que seu quiosque iria ser derrubado sem ser instaurado um processo administrativo com direito à ampla defesa, com os devidos recursos às autoridades administrativas superiores” (fl. 398).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal (fls. 417-418).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Tribunal fluminense afirmou, expressamente, que o Agravante tivera oportunidade de se defender da ordem de retirada de seu quiosque de área pública (de preservação ambiental).
+    Para se concluir de modo diverso, seria imprescindível o reexame de fatos e provas, vedado pela Súmula n. 279 do Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PERDA DA GRADUAÇÃO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A perda da graduação pode decorrer de processo administrativo disciplinar, desde que observados os princípios do contraditório e da ampla defesa. 2. Tribunal de origem decidiu que houve contraditório e ampla defesa: impossibilidade do reexame das provas. Incidência da Súmula 279 do Supremo Tribunal Federal” (RE 470.546-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXCLUSÃO DE POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. DEVIDO PROCESSO LEGAL, CONTRADITÓRIO E AMPLA DEFESA. OBSERVÂNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Acórdão recorrido que está em sintonia com a orientação do Plenário do Supremo no sentido de que a prática de ato incompatível com a função policial militar pode implicar a perda da graduação como sanção administrativa, assegurando-se o devido processo legal, o contraditório e a ampla defesa. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário em virtude do óbice da Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 596.191-AgR, Rel. Min. Eros Grau, Segunda Turma, DJ 29.9.2006 – grifos nossos).
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de maio de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
