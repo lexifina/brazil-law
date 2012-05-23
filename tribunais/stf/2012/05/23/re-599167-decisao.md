@@ -1,0 +1,25 @@
+Decisão: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça de Santa Catarina e assim ementado, no que interessa (fls. 278):
+    “AGRAVO CONTRA DECISÃO DO RELATOR QUE NEGA SEGUIMENTO A RECURSO – LEI ESTADUAL DECLARADA INCONSTITUCIONAL PELO SUPREMO TRIBUNAL FEDERAL – EXPRESSA DISPOSIÇÃO DA LEI PROCESSUAL CIVIL.
+    APELAÇÃO CÍVEL – SERVENTIA EXTRAJUDICIAL – EFETIVAÇÃO EM CARGO PÚBLICO – PREVISÃO DO ART. 14 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS DA CONSTITUIÇÃO ESTADUAL – AUSÊNCIA DE CONCURSO PÚBLICO – INCONSTITUCIONALIDADE – DECLARAÇÃO PELO SUPREMO TRIBUNAL FEDERAL – ADIN 1573.
+    Na ação direta de inconstitucionalidade (ADIn) julga-se, por meio de um processo objetivo, a validade da norma in abstrato, sem se levar em consideração as particularidades dos casos concretos. Nela não se discute interesse próprio, a sua finalidade é tutelar a Constituição da República, garantindo-se a sua supremacia.
+    Conforme preceitua o art. 37, II, da Constituição da República Federativa do Brasil, a investidura em cargo ou emprego público depende de prévia aprovação em concurso público, o que era previsto de forma diversa pelas Leis Estaduais que foram declaradas nulas pela Corte Suprema. Assim, tendo a ação declaratória de inconstitucionalidade efeito erga omnes e ex tunc, não há como se reconhecer a súplica da recorrente”. (fl. 278)
+    Sustenta a recorrente, com base no art. 102, III, a e c, ofensa ao art. 5º, caput e incisos I, XXXV, XXXVI, XLI e LV, da Constituição Federal.
+    Alega, em síntese, que a Administração Pública não poderia anular o ato de efetivação da recorrente no cargo em que ocupava, tendo em vista a ocorrência da preclusão quinquenal, da preclusão administrativa e da estabilidade, uma vez que já se passaram vários anos da publicação do ato que a nomeou como titular da Escrivania de Paz de Ibiam, na Comarca de Tangará – SC.
+    2. Inviável o recurso.
+    É que o acórdão impugnado, que condicionou a investidura em cargo público à prévia aprovação em concurso público, independente da disposição prevista em cada Constituição Estadual e posteriormente declarada nula pelo STF, decidiu a causa em perfeita sintonia com a jurisprudência dessa Corte sobre o tema, conforme acórdão da ADI 1573/2003, e assim ementado (Relator Ministro SYDNEY SANCHES, Pleno, DJ de 19.02.2003):
+    “DIREITO CONSTITUCIONAL. SERVENTIAS JUDICIAIS E EXTRAJUDICIAIS: EFETIVAÇÃO DE SUBSTITUTOS. AÇÃO DIRETA DE INCONSTITUCIONALIDADE: ART. 14 DO ADCT DA CONSTITUIÇÃO DO ESTADO DE SANTA CATARINA. RECLAMAÇÃO.
+    1. O art. 14 do ADCT da Constituição do Estado de Santa Catarina, em sua redação original, estabelecia: "Fica assegurado aos substitutos das serventias, na vacância, a efetivação no cargo de titular, desde que, investidos na forma da lei, estejam em efetivo exercício, pelo prazo de três anos".
+    2. Esse dispositivo, por votação unânime do Plenário do Supremo Tribunal Federal, foi declarado inconstitucional na ADI nº 363 (DJ 03.05.96, Ementário n º 1.826-01), "por violar o princípio que exige concurso público de provas ou de provas e títulos, para a investidura em cargo público, como é o caso do Titular de serventias judiciais" (art . 37, II, da Constituição Federal), e também para o ingresso na atividade notarial e de registro (art. 236, § 3º).
+    3. A pretexto de dar cumprimento a essa decisão do S.T.F., que, por ser declaratória e com eficácia "erga omnes", independia de execução, a Assembléia Legislativa do Estado de Santa Catarina, em data de 18.06.1996, promulgou a Emenda nº 10 à Constituição Estadual, com este "Artigo único": "Artigo único - Respeitadas as situações consolidadas, fica suspensa a execução do artigo 14 do Atos das Disposições Constitucionais Transitórias da Constituição do Estado de Santa Catarina".
+    4. Com isso, o que fez a Assembléia Legislativa foi conferir eficácia ao art. 14 do ADCT, em sua redação original, ao menos para amparar as "situações consolidadas" até 18.06.1996, data de sua promulgação.
+    5. Vale dizer, pretendeu retirar do acórdão do S.T.F., que declarara a inconstitucionalidade do art. 14 do ADCT, em sua redação original, sua eficácia "ex tunc", para só admiti-la a partir de 18.06.1996.
+    6. E como se valeu de um outro ato normativo, consubstanciado na referida E.C. nº 10/96, podia ela ser impugnada, mediante nova ADI, como foi, não sendo o caso de se examinar o pedido como Reclamação, prevista nos artigos 156 e seguintes do RISTF, como alvitrado na inicial.
+    7. Assim, a ação foi corretamente distribuída como ADI e como tal é admitida.
+    8. Ação Direta julgada procedente para a declaração de inconstitucionalidade da Emenda Constitucional nº 10, de 18.06.1996, do Estado de Santa Catarina.
+    9. Decisão unânime”.
+    3. Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 23 de maio de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
