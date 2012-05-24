@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Maristela Schiavoni interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos II e XXXVI, e 37, caput e inciso XV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Mandado de segurança – Magistério – Direito de opção, para fins de incorporação e cálculo dos proventos de aposentadoria, pela média da carga horária anterior – Interpretação das Leis Complementares ns. 836/97 e 958/04 – Denegação mantida – Apelo improvido” (fl. 202).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+     Por outro lado, o acórdão recorrido decidiu a controvérsia com base exclusivamente na legislação infraconstitucional pertinente (Lei Complementar nº 836/97 e Lei Complementar nº 958/04). Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PRINCÍPIO DA LEGALIDADE. OFENSA REFLEXA À CONSTITUIÇÃO. REEXAME DE DIREITO LOCAL. ÓBICE DA SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS ARTIGOS 37, XV e 40, §§ 1º e 2º, DA CONSTITUIÇÃO. SÚMULAS 282 E 356 DO STF. Agravo regimental a que se nega provimento” (AI n] 698.638/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 21/10/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO ESTADUAL. MAGISTÉRIO. APOSENTADORIA. REQUISITOS. ANÁLISE DE LEGISLAÇÃO LOCAL E REEXAME DE PROVAS: IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n] 566.747/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 13/3/09).
+    “ACÓRDÃO QUE DECIDIU CONTROVÉRSIA RELATIVA À ACUMULAÇÃO DAS FUNÇÕES DE PROFESSOR COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. ALEGADA AFRONTA AOS ARTS. 5.º, II; E 37, CAPUT, DA CONSTITUIÇÃO FEDERAL Hipótese em que ofensa à Carta da República, se existente, seria reflexa e indireta, não ensejando a abertura da via extraordinária. Incidência, ainda, das Súmulas 279 e 280 desta Corte. Agravo desprovido” (AI nº 346.706/SP-AgR, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 14/12/01).
+    Nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 24 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
