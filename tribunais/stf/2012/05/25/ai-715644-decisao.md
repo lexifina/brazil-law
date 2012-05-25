@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO AO FUNRURAL: EXIGIBILIDADE DAS EMPRESAS URBANAS. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem por objeto o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “TRIBUTÁRIO. CONSTITUCIONAL. CONTRIBUIÇÃO AO INCRA E AO FUNRURAL. EMPRESA URBANA. INEXIGIBILIDADE. I - A contribuição ao FUNRURAL e ao INCRA foram recepcionadas pela Constituição de 1988, que em seu artigo 195, dispõe que a seguridade social será financiada por toda a sociedade, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios e das contribuições sociais do empregador, incidentes sobre a folha de salários, a receita bruta ou faturamento e o lucro. II - A Primeira Seção do Superior Tribunal de Justiça pacificou o entendimento de que a contribuição para o INCRA só foi exigível até o advento da Lei nº 8.212/91, e a do FUNRURAL até a Lei nº 7.787/89. III - Apelação provida” (fl. 261).
+    Os embargos de declaração foram acolhidos para corrigir o erro material apontado:
+    “Quanto à alegação do apelante, ora embargante, penso que assiste razão quanto ao alegado erro material no que diz respeito à compensação do indébito da exação destinada ao INCRA e FUNRURAL com quaisquer tributos sob a administração da Secretaria da Receita Federal.
+    Ressalta-se, por oportuno, não ser aplicável ao caso a regra contida na Lei 9.430/96, e sim o artigo 66, § 1º da Lei 8.383/91, que dispõe que a compensação se faça entre tributos da mesma espécie e destinação constitucional.
+    Nesse sentido o Superior Tribunal de Justiça firmou entendimento de que a contribuição ao INCRA e ao FUNRURAL está enquadrada como contribuição de seguridade social, incidente sobre a folha de salários, sendo, portanto, possível a compensação com outras contribuições sobre a folha de salários, pois são da mesma espécie e de mesma destinação: o financiamento da seguridade social” (fl. 300).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal (fl. 391).
+    3. A Agravante alega que o Tribunal de origem teria contrariado os arts. 5º, inc. II, e 195 da Constituição da República.
+    Sustenta que “se o artigo 3º, § 1º, da Lei n. 7.787/89 revogou a contribuição ao FUNRURAL; e se não há previsão legal para a cobrança desta contribuição; então a exigência de percentual relativo ao FUNRURAL dentro da alíquota única de 20% recolhida ao INSS viola o princípio da legalidade previsto no art. 5º, II da CF/88” (fl. 339).
+    Analisados os elementos havidos nos autos, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. Este Supremo Tribunal assentou que a contribuição destinada ao Funrural é devida pelas empresas urbanas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO AO FUNRURAL: EXIGIBILIDADE DAS EMPRESAS URBANAS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 743.365-AgR, de minha relatoria, Primeira Turma, DJe 13.3.2012).
+    “AGRAVO REGIMENTAL. CONTRIBUIÇÃO AO FUNRURAL. EMPRESA URBANA. A decisão agravada está em perfeita harmonia com o entendimento firmado por ambas as Turmas deste Tribunal, no sentido de que é devida por empresa urbana a contribuição destinada ao FUNRURAL. Agravo regimental a que se nega provimento” (AI 754.9130-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 26.3.2010 – grifos nossos).
+    “CONTRIBUIÇÃO AO FUNRURAL E AO INCRA: EMPRESAS URBANAS. AUSÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA VERSADA. 1. O aresto impugnado afina com a antiga jurisprudência desta nossa Corte de que não há óbice à cobrança, de empresa urbana, da referida contribuição. Precedentes. 2. De mais a mais, ao analisar o RE 578.635, sob a relatoria do ministro Menezes Direito, o Supremo Tribunal Federal assentou a ausência de repercussão geral do tema versado nestes autos. 3. Nos termos do § 5º do art. 543-A do CPC, a decisão do STF que negar a existência da repercussão geral valerá para todos os recursos sobre matéria idêntica. 4. Agravo regimental desprovido” (AI 734.511-AgR, Rel. Min. Ayres Britto, Segunda Turma, Dje 29.11.2010 – grifos nossos).
+    “Agravo regimental em agravo de instrumento. 2. Cobrança de contribuição social, de empresa urbana, destinada ao INCRA. Financiamento do FUNRURAL. Não ocorrência de impedimento. Precedentes. 3. Agravo regimental a que se nega provimento ” (AI 607.202-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 1º.2.2008).
+    “Contribuição para o FUNRURAL: empresas urbanas: acórdão recorrido que se harmoniza com o entendimento do STF, no sentido de não haver óbice a que seja cobrada, de empresa urbana, a referida contribuição, destinada a cobrir os riscos a que se sujeita toda a coletividade de trabalhadores: precedentes” (AI 299.261-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 06.8.2004).
+    Dessa orientação jurisprudencial não divergiu o acórdão recorrido.
+    6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
