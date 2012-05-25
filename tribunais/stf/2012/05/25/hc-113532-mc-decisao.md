@@ -1,0 +1,24 @@
+DECISÃO
+HABEAS CORPUS – ATO IMPUGNADO – DESCOMPASSO.
+HABEAS CORPUS – MEDIDA EM CURSO NO TRIBUNAL REGIONAL FEDERAL.
+PRISÃO PREVENTIVA – TRÁFICO DE DROGAS – CRIVO DO COLEGIADO.
+    1. O Gabinete prestou as seguintes informações:
+    O Juízo da 4ª Vara Criminal Federal da 1ª Subseção Judiciária do Estado de São Paulo, em 19 de outubro de 2011, determinou a prisão temporária do paciente e de 34 pessoas em virtude do envolvimento no tráfico internacional de entorpecentes investigado pela Polícia Federal na denominada “Operação Semilla”, em que apreendidos 4.297 Kg de cocaína, 5.210 Kg de maconha, uma aeronave, R$ 892.095,00 e US$ 11,970.00.
+    O paciente foi preso em flagrante, no dia 27 de outubro de 2011, pela suposta prática dos delitos previstos nos artigos 12 e 16 da Lei nº 10.826, de 2003 (posse irregular de armas de fogo de uso permitido e restrito). O Juízo, em 23 de novembro de 2011, prorrogou o prazo da prisão provisória por mais trinta dias, convertendo-a em preventiva, no dia 16 de dezembro de 2011, também em relação a outras 45 pessoas. Fundamentou a segregação na possibilidade de, soltos, voltarem a praticar ações criminosas, empreender fuga ou perturbar o andamento do processo. Assentou, ainda, a estrutura da quadrilha, o poder de intimidação por ela exercida, mormente em face de ligações com o Primeiro Comando da Capital – PCC e do elevado poder econômico.
+    Na inicial acusatória, oferecida em 15 de dezembro de 2011 contra oito pessoas, apontou-se o paciente como incurso nas condutas descritas no artigo 33, cabeça, combinado com o artigo 40, inciso I (tráfico internacional de drogas), em concurso material com o artigo 35, cabeça (associação para o tráfico), da Lei nº 11.343, de 2006.
+    Impetrou-se habeas no Tribunal Regional Federal da 3ª Região buscando-se a revogação da prisão cautelar, ante a ausência dos pressupostos legais que a autorizam, bem como o excesso de prazo da custódia. O relator, em 29 de março de 2012, indeferiu o pedido liminar, assentando o papel relevante exercido pelo paciente no grupo criminoso e a complexidade do trâmite processual de ação penal com número elevado de réus.
+    Igual medida foi formalizada no Superior Tribunal de Justiça – de nº 240.155/SP. A Ministra Maria Thereza de Assis Moura, relatora, negou seguimento à impetração, porquanto não verificada excepcionalidade que justificasse a mitigação do Verbete nº 691 da Súmula do Supremo, sob pena de supressão de instância.
+    Neste habeas, os impetrantes aduzem que o referido Verbete não obsta a análise da questão de fundo, pois a custódia preventiva teria sido determinada de forma coletiva, ausente a necessária individualização dos fundamentos para cada réu, portanto, ilegal. Afirmam ser o paciente primário, ter bons antecedentes criminais, possuir domicílio fixo e ocupação lícita. Refutam os argumentos utilizados pelo Juízo, indigitados como abstratos, em relação aos poderes econômico e de intimidação da quadrilha e quanto à suposta possibilidade de o paciente empreender fuga, revelando a falta de suporte fático idôneo que os sustente. Asseveram que a complexidade do processo não justifica o prolongamento da prisão cautelar, uma vez já ultrapassado o prazo razoável da segregação, que já perduraria mais de duzentos dias sem que iniciada a instrução. Requerem o implemento de liminar para que o paciente aguarde em liberdade o julgamento do habeas. No mérito, pedem a confirmação da providência.
+    Antecipando-se à vinda das informações solicitadas por Vossa Excelência, os impetrantes juntaram cópias do ato que implicou a prisão temporária (de forma incompleta) e daquele que a prorrogou, o mandado de prisão provisória, o ato de prisão em flagrante e o pronunciamento em que se indeferiu o pleito liminar no habeas impetrado no Tribunal Regional Federal da 3ª Região.
+    O processo está concluso para apreciação do pedido de concessão de medida acauteladora.
+    2. Em primeiro lugar, observem o alcance do Verbete nº 691 da Súmula do Supremo. Revela óptica sobre a competência deste e não do Superior Tribunal de Justiça. Eis o teor:
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere a liminar.
+    Em segundo lugar, a atuação do Supremo se faz presente ato do Superior Tribunal de Justiça. Entrementes, o pedido veiculado não visa o trânsito do habeas corpus formalizado, de nº 240.155.
+    Em terceiro lugar, ao que tudo indica, a prisão preventiva levou em conta a circunstância de, mesmo com apreensões de drogas e prisões em flagrante, terem os envolvidos continuado na prática criminosa.
+    Há de aguardar-se o crivo do Colegiado.
+    3. Indefiro a medida liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 25 de maio de 2012, às 16h15.
+Ministro MARCO AURÉLIO
+Relator
