@@ -1,0 +1,1 @@
+Art. 79-B. Somente podem concorrer à promoção para a Classe Especial os Procuradores do Estado que, além de atenderem ao disposto no art. 71, §2º, desta Lei Complementar, não tenham sofrido sanção disciplinar nos 5 (cinco) anos anteriores ao surgimento da vaga, nem tenham sido condenados criminalmente, de forma definitiva, no mesmo período.
