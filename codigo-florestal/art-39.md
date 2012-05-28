@@ -1,0 +1,1 @@
+Art. 39. Os órgãos ambientais do Sisnama, bem como todo e qualquer órgão público ou privado responsável pela gestão de áreas com vegetação nativa ou plantios florestais, deverão elaborar, atualizar e implantar planos de contingência para o combate aos incêndios florestais.

@@ -1,0 +1,5 @@
+Art. 18. A área de Reserva Legal deverá ser registrada no órgão ambiental competente por meio de inscrição no CAR de que trata o art. 29, sendo vedada a alteração de sua destinação, nos casos de transmissão, a qualquer título, ou de desmembramento, com as exceções previstas nesta Lei.
+§ 1º A inscrição da Reserva Legal no CAR será feita mediante a apresentação de planta e memorial descritivo, contendo a indicação das coordenadas geográficas com pelo menos um ponto de amarração, conforme ato do Chefe do Poder Executivo.
+§ 2º Na posse, a área de Reserva Legal é assegurada por termo de compromisso firmado pelo possuidor com o órgão competente do Sisnama, com força de título executivo extrajudicial, que explicite, no mínimo, a localização da área de Reserva Legal e as obrigações assumidas pelo possuidor por força do previsto nesta Lei.
+§ 3º A transferência da posse implica a sub-rogação das obrigações assumidas no termo de compromisso de que trata o § 2º.
+§ 4º O registro da Reserva Legal no CAR desobriga a averbação no Cartório de Registro de Imóveis.

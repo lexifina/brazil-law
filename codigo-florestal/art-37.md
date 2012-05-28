@@ -1,0 +1,2 @@
+Art. 37. O comércio de plantas vivas e outros produtos oriundos da flora nativa dependerá de licença do órgão estadual competente do Sisnama e de registro no Cadastro Técnico Federal de Atividades Potencialmente Poluidoras ou Utilizadoras de Recursos Ambientais, previsto no art. 17 da Lei nº 6.938, de 31 de agosto de 1981, sem prejuízo de outras exigências cabíveis.
+Parágrafo único. A exportação de plantas vivas e outros produtos da flora dependerá de licença do órgão federal competente do Sisnama, observadas as condições estabelecidas no caput.

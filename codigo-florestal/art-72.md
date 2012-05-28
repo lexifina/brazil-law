@@ -1,0 +1,1 @@
+Art. 72. Para efeitos desta Lei, a atividade de silvicultura, quando realizada em área apta ao uso alternativo do solo, é equiparada à atividade agrícola, nos termos da Lei nº 8.171, de 17 de janeiro de 1991, que "dispõe sobre a política agrícola".

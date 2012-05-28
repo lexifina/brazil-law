@@ -1,0 +1,4 @@
+Art. 70. Além do disposto nesta Lei e sem prejuízo da criação de unidades de conservação da natureza, na forma da Lei nº 9.985, de 18 de julho de 2000, e de outras ações cabíveis voltadas à proteção das florestas e outras formas de vegetação, o poder público federal, estadual ou municipal poderá:
+I - proibir ou limitar o corte das espécies da flora raras, endêmicas, em perigo ou ameaçadas de extinção, bem como das espécies necessárias à subsistência das populações tradicionais, delimitando as áreas compreendidas no ato, fazendo depender de autorização prévia, nessas áreas, o corte de outras espécies;
+II - declarar qualquer árvore imune de corte, por motivo de sua localização, raridade, beleza ou condição de porta-sementes;
+III - estabelecer exigências administrativas sobre o registro e outras formas de controle de pessoas físicas ou jurídicas que se dedicam à extração, indústria ou comércio de produtos ou subprodutos florestais.

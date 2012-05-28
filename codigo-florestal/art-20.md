@@ -1,0 +1,1 @@
+Art. 20. No manejo sustentável da vegetação florestal da Reserva Legal, serão adotadas práticas de exploração seletiva nas modalidades de manejo sustentável sem propósito comercial para consumo na propriedade e manejo sustentável para exploração florestal com propósito comercial.
