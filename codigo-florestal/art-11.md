@@ -1,0 +1,1 @@
+Art. 11. Em áreas de inclinação entre 25º e 45º, serão permitidos o manejo florestal sustentável e o exercício de atividades agrossilvipastoris, bem como a manutenção da infraestrutura física associada ao desenvolvimento das atividades, observadas boas práticas agronômicas, sendo vedada a conversão de novas áreas, excetuadas as hipóteses de utilidade pública e interesse social.

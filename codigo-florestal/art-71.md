@@ -1,0 +1,2 @@
+Art. 71. A União, em conjunto com os Estados, o Distrito Federal e os Municípios, realizará o Inventário Florestal Nacional, para subsidiar a análise da existência e qualidade das florestas do País, em imóveis privados e terras públicas.
+Parágrafo único. A União estabelecerá critérios e mecanismos para uniformizar a coleta, a manutenção e a atualização das informações do Inventário Florestal Nacional.

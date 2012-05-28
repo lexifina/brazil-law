@@ -1,0 +1,1 @@
+Art. 73. Os órgãos centrais e executores do Sisnama criarão e implementarão, com a participação dos órgãos estaduais, indicadores de sustentabilidade, a serem publicados semestralmente, com vistas em aferir a evolução dos componentes do sistema abrangidos por disposições desta Lei.

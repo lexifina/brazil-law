@@ -1,0 +1,2 @@
+Art. 53. Para o registro no CAR da Reserva Legal, nos imóveis a que se refere o inciso V do art. 3º, o proprietário ou possuidor apresentará os dados identificando a área proposta de Reserva Legal, cabendo aos órgãos competentes integrantes do Sisnama, ou instituição por ele habilitada, realizar a captação das respectivas coordenadas geográficas.
+Parágrafo único. O registro da Reserva Legal nos imóveis a que se refere o inciso V do art. 3º é gratuito, devendo o poder público prestar apoio técnico e jurídico.
