@@ -1,0 +1,1 @@
+Art. 67. Nos imóveis rurais que detinham, em 22 de julho de 2008, área de até 4 (quatro) módulos fiscais e que possuam remanescente de vegetação nativa em percentuais inferiores ao previsto no art. 12, a Reserva Legal será constituída com a área ocupada com a vegetação nativa existente em 22 de julho de 2008, vedadas novas conversões para uso alternativo do solo.

@@ -1,0 +1,5 @@
+Art. 17. A Reserva Legal deve ser conservada com cobertura de vegetação nativa pelo proprietário do imóvel rural, possuidor ou ocupante a qualquer título, pessoa física ou jurídica, de direito público ou privado.
+§ 1º Admite-se a exploração econômica da Reserva Legal mediante manejo sustentável, previamente aprovado pelo órgão competente do Sisnama, de acordo com as modalidades previstas no art. 20.
+§ 2º Para fins de manejo de Reserva Legal na pequena propriedade ou posse rural familiar, os órgãos integrantes do Sisnama deverão estabelecer procedimentos simplificados de elaboração, análise e aprovação de tais planos de manejo.
+§ 3º É obrigatória a suspensão imediata das atividades em Área de Reserva Legal desmatada irregularmente após 22 de julho de 2008.
+§ 4º Sem prejuízo das sanções administrativas, cíveis e penais cabíveis, deverá ser iniciado o processo de recomposição da Reserva Legal em até dois anos contados a partir da data da publicação desta Lei, devendo tal processo ser concluído nos prazos estabelecidos pelo Programa de Regularização Ambiental - PRA, de que trata o art. 59.
