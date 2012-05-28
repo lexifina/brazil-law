@@ -1,0 +1,3 @@
+..................................................................................." (NR)
+Art. 82. São a União, os Estados, o Distrito Federal e os Municípios autorizados a instituir, adaptar ou reformular, no prazo de 6 (seis) meses, no âmbito do Sisnama, instituições florestais ou afins, devidamente aparelhadas para assegurar a plena consecução desta Lei.
+Parágrafo único. As instituições referidas no caput poderão credenciar, mediante edital de seleção pública, profissionais devidamente habilitados para apoiar a regularização ambiental das propriedades previstas no inciso V do art. 3º, nos termos de regulamento baixado por ato do Chefe do Poder Executivo.

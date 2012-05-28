@@ -1,0 +1,3 @@
+..................................................................................." (NR)
+Art. 81. O caput do art. 35 da Lei nº 11.428, de 22 de dezembro de 2006, passa a vigorar com a seguinte redação:
+"Art. 35. A conservação, em imóvel rural ou urbano, da vegetação primária ou da vegetação secundária em qualquer estágio de regeneração do Bioma Mata Atlântica cumpre função social e é de interesse público, podendo, a critério do proprietário, as áreas sujeitas à restrição de que trata esta Lei ser computadas para efeito da Reserva Legal e seu excedente utilizado para fins de compensação ambiental ou instituição de Cota de Reserva Ambiental - CRA.
