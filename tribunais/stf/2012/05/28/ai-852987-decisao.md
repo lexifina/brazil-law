@@ -1,0 +1,24 @@
+DECISÃO
+    Vistos.
+    Sun & Tour Viagens e Eventos Ltda. Epp interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5°, XXXVI, 146, III, “b”, 150, IV, e 173, § 1º, II, e § 2°, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+    “TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. OBRIGAÇÓES DA ELETROBRÁS. PRESCRIÇÃO. CINCO ANOS A CONTAR DA DATA APRAZADA PARA RESGATE. COMPENSAÇÃO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 170 DO CTN.
+    1. As obrigações ao portador da ELETROBRÁS, tomadas pelos consumidores de energia elétrica em ressarcimento ao Imposto Único sobre Energia Elétrica (empréstimo compulsório), nos termos da Lei n. 4.156/62, Lei n. 5.073/66 e Lei n. 5.824/72, postulam prazo de vinte anos para seu resgate, nos termos do parágrafo único do art. 2°, da Lei n. 5.073/1966.
+    2. Exigível o título, o prazo para reclamar o seu não pagamento é de cinco anos, nos termos do Decreto-Lei n. 644, de 22 de junho 1969. Assim, no caso, decorridos mais de cinco anos do vencimento do título, aplicável a prescrição. Precedente desta Turma: AC 1999.38.00.034620-9/MG, ReI. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma,e-DJF1 p.S6S de 17/04/2009.
+    3. Para que seja possível a realização da compensação há de se atentar para os requisito expressos no art. 170 do CTN, quais sejam: previsão expressa em lei, créditos liquidas e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda Pública.
+    4. Desta Forma, ainda que fosse superada a prescrição, melhor sorte não teria a Autora, porquanto consolidado entendimento jurisprudencial no sentido de que as obrigações emitidas pela ELETROBRÁS são títulos que não possuem liquidez e certeza, razão pela qual não se mostram idôneos para garantia do crédito tributário, nem são passíveis de compensação. Além disso, inexistindo lei especifica que trate do direito de compensação das obrigações referidas com débitos de natureza tributária, impossível seria o atendimento do pedido. (AC 2004.36.00.002666-41MT; Relator: DESEMBARGADOR FEDERAL CATÃO ALVES; Convocado: JUIZ FEDERAL FRANCISCO RENATO CODEVILA PINHEIRO FILHO (CONV.); Órgão Julgador: SÉTIMA TURMA; Publicação: 13/03/2009 e-DJF1 p.261; Data da Decisão: 16/12/2008).
+    5. Apelação improvida. Sentença mantida.”
+    Alega o agravante que:
+    “não há razão para que haja um tratamento prescricional mais vantajoso à Eletrobrás, não havendo que se falar em prescrição qüinqüenal ao caso dos autos”.
+    Decido.
+    A irresignação não merece prosperar, haja vista que todos os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Mesmo que ultrapassado esse óbice, esta Corte possui entendimento pacífico no sentido de que, no caso em apreço, eventuais ofensas à Constituição Federal seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais. Nesse sentido:
+    “EMENTA Empréstimo compulsório sobre energia elétrica. Eletrobras. Prazo prescricional. Ofensa constitucional indireta. 1. A matéria relativa ao prazo de prescrição dos créditos referentes ao empréstimo compulsório sobre a energia elétrica é de índole infraconstitucional. Eventuais ofensas à Constituição seriam indiretas ou reflexas, pois ensejariam o reexame de normas infraconstitucionais. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental ao qual se nega provimento” (AI n° 818.161/DF- AgR, Primeira Turma, de minha relatoria, DJe de 6/12/11) (Grifo nosso).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. PRESCRIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 818.234/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 26/4/11).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ENÉRGIA ELÉTRICA. EMPRÉSTIMO COMPULSÓRIO. PRESCRIÇÃO. LEI N. 4.156/62 E DECRETO-LEI N. 644/69. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 621.427/SC-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/5/09).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 28 de maio de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
