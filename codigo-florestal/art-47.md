@@ -1,0 +1,1 @@
+Art. 47. É obrigatório o registro da CRA pelo órgão emitente, no prazo de 30 (trinta) dias, contado da data da sua emissão, em bolsas de mercadorias de âmbito nacional ou em sistemas de registro e de liquidação financeira de ativos autorizados pelo Banco Central do Brasil.

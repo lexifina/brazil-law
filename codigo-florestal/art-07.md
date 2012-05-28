@@ -1,0 +1,4 @@
+Art. 7º A vegetação situada em Área de Preservação Permanente deverá ser mantida pelo proprietário da área, possuidor ou ocupante a qualquer título, pessoa física ou jurídica, de direito público ou privado.
+§ 1º Tendo ocorrido supressão de vegetação situada em Área de Preservação Permanente, o proprietário da área, possuidor ou ocupante a qualquer título é obrigado a promover a recomposição da vegetação, ressalvados os usos autorizados previstos nesta Lei.
+§ 2º A obrigação prevista no § 1º tem natureza real e é transmitida ao sucessor no caso de transferência de domínio ou posse do imóvel rural.
+§ 3º No caso de supressão não autorizada de vegetação realizada após 22 de julho de 2008, é vedada a concessão de novas autorizações de supressão de vegetação enquanto não cumpridas as obrigações previstas no § 1º.
