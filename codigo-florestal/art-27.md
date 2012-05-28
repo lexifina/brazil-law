@@ -1,0 +1,1 @@
+Art. 27. Nas áreas passíveis de uso alternativo do solo, a supressão de vegetação que abrigue espécie da flora ou da fauna ameaçada de extinção, segundo lista oficial publicada pelos órgãos federal ou estadual ou municipal do Sisnama, ou espécies migratórias, dependerá da adoção de medidas compensatórias e mitigadoras que assegurem a conservação da espécie.

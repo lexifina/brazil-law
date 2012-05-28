@@ -1,0 +1,2 @@
+Art. 54. Para cumprimento da manutenção da área de reserva legal nos imóveis a que se refere o inciso V do art. 3º, poderão ser computados os plantios de árvores frutíferas, ornamentais ou industriais, compostos por espécies exóticas, cultivadas em sistema intercalar ou em consórcio com espécies nativas da região em sistemas agroflorestais.
+Parágrafo único. O poder público estadual deverá prestar apoio técnico para a recomposição da vegetação da Reserva Legal nos imóveis a que se refere o inciso V do art. 3º.

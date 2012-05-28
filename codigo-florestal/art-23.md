@@ -1,0 +1,1 @@
+Art. 23. O manejo sustentável para exploração florestal eventual sem propósito comercial, para consumo no próprio imóvel, independe de autorização dos órgãos competentes, devendo apenas ser declarados previamente ao órgão ambiental a motivação da exploração e o volume explorado, limitada a exploração anual a 20 (vinte) metros cúbicos.
