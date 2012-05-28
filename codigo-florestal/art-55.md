@@ -1,0 +1,1 @@
+Art. 55. A inscrição no CAR dos imóveis a que se refere o inciso V do art. 3º observará procedimento simplificado no qual será obrigatória apenas a apresentação dos documentos mencionados nos incisos I e II do § 1º do art. 29 e de croqui indicando o perímetro do imóvel, as Áreas de Preservação Permanente e os remanescentes que formam a Reserva Legal.
