@@ -1,0 +1,20 @@
+Decisão: Trata-se agravo contra inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO – Decisão que determina o depósito de astreintes em 48 horas – Valor superior ao limite estabelecido na Lei 9.099/95 – Parcial provimento do recurso para o fim de reduzir o valor do depósito ao limite legalmente previsto – A questão atinente ao descumprimento da decisão liminar que ensejou a incidência da multa deve ser dirimida em primeira instância sob pena de supressão do primeiro grau de jurisdição”. (fl. 237)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVI, do texto constitucional.
+    Sustenta-se que “(…) o caso em debate demonstra inegável complexidade, com necessidade de profunda análise sobre a legislação vigente e sobre as causas que ensejaram a execução do exorbitante valor pleiteado pelo recorrido (…)”. (fl. 245)
+    Argumenta-se ainda que não se pode admitir que “(...) o recorrente seja compelido a recalcular as faturas, em razão da alteração do contrato livremente pactuado entre as partes (...)”. (fl. 243)
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, com relação à alegação de incompetência absoluta dos Juizados Especiais em razão da complexidade da prova, esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do ARE-RG 640.671, DJe 6.9.2011, oportunidade em que rejeitou a existência de repercussão geral, tendo em vista a natureza infraconstitucional da questão posta, nos seguintes termos:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional”.
+    No tocante ao mérito, verifico que o Tribunal de origem examinou a controvérsia à luz da legislação processual (Código de Processo Civil). A ofensa à Constituição, se ocorresse, seria indireta, o que não enseja a abertura da via extraordinária.
+    Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, Segunda Turma, DJe 24.2.2011, e do AI-AgR 731.718, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 10.11.2010, este último assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes. II – Agravo regimental improvido”.
+    Além disso, segundo firme jurisprudência desta Corte, mera alegação de violação aos primados constitucionais do devido processo legal, da ampla defesa, dos limites da coisa julgada, do ato jurídico perfeito, do direito adquirido (art. 5º, XXXVI) é insuficiente para viabilizar o processamento de recurso extraordinário, quando a norma constitucional for atingida apenas de forma reflexa. Nesse sentido, o RE-AgR 563.816, Segunda Turma, Rel. Min. Ellen Gracie, DJe 29.11.2010.
+    Por fim, ressalto que esta via excepcional não viabiliza pretensão cujo exame demande o reexame do conjunto fático-probatório constante dos autos (Enunciado 279 da Súmula desta Corte).
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
