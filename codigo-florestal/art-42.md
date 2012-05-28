@@ -1,0 +1,1 @@
+Art. 42. É o Governo Federal autorizado a implantar programa para conversão da multa prevista no art. 50 do Decreto nº 6.514, de 22 de julho de 2008, destinado aos imóveis rurais, referente a autuações vinculadas a desmatamentos promovidos sem autorização ou licença, em data anterior a 22 de julho de 2008.

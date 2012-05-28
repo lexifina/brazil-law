@@ -1,0 +1,2 @@
+Art. 30. Nos casos em que a Reserva Legal já tenha sido averbada na matrícula do imóvel e em que essa averbação identifique o perímetro e a localização da reserva, o proprietário não será obrigado a fornecer ao órgão ambiental as informações relativas à Reserva Legal previstas no inciso III do § 1º do art. 29.
+Parágrafo único. Para que o proprietário se desobrigue nos termos do caput, deverá apresentar ao órgão ambiental competente a certidão de registro de imóveis onde conste a averbação da Reserva Legal ou termo de compromisso já firmado nos casos de posse.
