@@ -1,0 +1,26 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GIACOMO CACCIOLA e GIORDANO CACCIOLA contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça no HC 222.302/RJ.
+    Consta dos autos que os pacientes foram condenados à pena de 6 meses de detenção, substituída por prestação pecuniária no valor de dez salários mínimos, pela prática do crime previsto no art. 308 da Lei nº 9.503/97 (participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística não autorizada pela autoridade competente, desde que resulte dano potencial à incolumidade pública ou privada).
+    No presente habeas corpus, os impetrantes alegam “violação do artigo 155 do CPP, caput, com redação dada pela Lei 11.690/08, já que (...) o decreto condenatório lastreou-se, exclusivamente, nos indícios coligidos na fase policial, desprezando as provas produzidas sob o crivo do contraditório, que não foram aptas a demonstrar a existência do fato punível”.
+    Sustentam, ainda, que a avaliação das provas realizada pelo sentenciante violou “o postulado do in dubio pro reo”.
+    Por tais razões, requerem “a reforma da condenação dos pacientes, declarando as suas absolvições, tendo em vista a falta de justa causa (art. 648, I, do CPP)”.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada deste Tribunal, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    De saída, anoto que a apreciação dos pedidos formulados pelo impetrante exige a realização de um exauriente reexame das provas e dos fatos constantes dos autos de origem, o que é incompatível com a via processual do habeas corpus.
+    Ademais, no tocante à suposta utilização de provas indiciárias para a condenação, é da jurisprudência desta Corte que a condenação penal é nula caso tenha “como único fundamento prova unilateralmente produzida no âmbito da investigação penal promovida pela Polícia Judiciária” (dentre outros tantos, HC 93.722/SP, rel. min. Celso de Mello, DJe nº 173, publicado em 09.09.2011), o que não ocorreu no caso.
+    Da leitura da sentença condenatória, constata-se a utilização tanto de provas produzidas durante a fase policial, como de outras produzidas sob o crivo do contraditório, na fase processual.
+    Nesse ponto, destaco elucidativo trecho do acórdão impugnado:
+    “Quando da sentença, o magistrado levou em consideração o seguinte (fls. 342/345 – grifo nosso):
+    (...)
+    Demonstrada materialidade pelos termos do procedimento policial anexado, sobretudo, pelo termo circunstanciado de fls. 03/07 e boletim de ocorrência de fls. 16/18, força reconhecer que a autoria está evidenciada nos autos de acordo com a prova coligida em sede judiciária e inquisitorial, aquela, sob a luz do contraditório e da ampla defesa. E isto, quanto a todos os réus.
+    O depoimento do policial rodoviário federal Carlos augusto da Silva Teixeira, testemunha de visu dos fatos, é altamente esclarecedor. Conta que estava de serviço e vinha trafegando em sentido contrário aos automóveis envolvidos no "racha". Ao observar a altíssima velocidade em que todos eles trafegavam – aqui, pelas comuns regras de experiência, notadamente de um policial rodoviário, rigorosamente desnecessária a medição da velocidade, sobretudo, quando há uma colisão nas dimensões relatadas nos autos – indagou ao companheiro o que fariam, já que estavam na outra pista, dividida por guard rail. Seu companheiro, realista, objetou que nada poderiam fazer, já que os veículos envolvidos na corrida, todos de altíssima potência, jamais seriam alcançados.
+    Entretanto, logo após, foram comunicados por um motociclista de que os veículos haviam se envolvido num acidente, em que um deles, um BMW 550, abalroou uma Kombi por trás, o fez com que esta capotasse. Só esta descrição já faz imaginar a absurda velocidade com que trafegavam. (...)
+    A testemunha Ivo Americano, delegado de polícia federal com 38 anos de experiência, depôs em fls. 06, em sede policial e esclareceu que os acusados lhe ultrapassaram em alta velocidade e que vinham ultrapassando os outros carros perigosamente e em zigue zague, dizendo, ainda, que o que mais lhe chamou a atenção, foi o fato de que todos andavam colados nas traseiras uns dos outros.
+    Em sede judiciária, (...) não deixou de comentar que a velocidade imprimida pelos automóveis lhe pareceu incompatível com a velocidade do fluxo e que os automóveis transitavam muito próximos uns dos outros”.
+    Por fim, é importante reafirmar que o habeas corpus, por não ser um segundo recurso com efeito devolutivo, não se presta a analisar a arguida inocência dos acusados ou a pretensa falta de provas para efeito da condenação, sobretudo quando as instâncias ordinárias reconheceram a idoneidade das provas colhidas e se convenceram da autoria e da materialidade do crime cometido.
+    Ante todo o exposto, denego a ordem pretendida, conforme me autoriza o art. 192, caput, do Regimento Interno deste Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 29 de maio de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
