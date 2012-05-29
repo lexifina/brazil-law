@@ -1,0 +1,20 @@
+Decisão: Trata-se de medida cautelar em mandado de segurança impetrado por Euclides José de Lima contra o acórdão 2.164/2012, no qual a Segunda Câmara do Tribunal de Contas da União (TCU) considerou ilegal o ato de aposentadoria do impetrante e determinou a cessação imediata do pagamento do percentual de 26,05%, relativo à URP de fevereiro de 1989.
+    O impetrante, servidor vinculado ao Instituto Federal de Educação da Paraíba, diz receber a parcela julgada ilegal pelo TCU há mais de vinte anos, por força de decisão transitada em julgado proferida pela Justiça do Trabalho.
+    Com fundamento no inc. XXXVI do art. 5º da Constituição, o impetrante alega que o ato apontado como coator viola a garantia da coisa julgada, uma vez que o TCU não possuiria competência para rescindir o título judicial transitado em julgado.
+    O impetrante acrescenta que a suspensão imediata da parcela considerada ilegal colocaria em risco o sustento de sua família, tendo em vista se tratar da exclusiva fonte de renda daquela unidade familiar. O impetrante junta ainda documentação médica que demonstra ser portador de neoplasia maligna da laringe.
+    É o relatório.
+    Decido.
+    O impetrante alega que o direito à incorporação dos 26,06% relativo à URP de fevereiro de 1989 foi-lhe reconhecido em sentença proferida pela 3ª Junta de Conciliação e Julgamento (JCJ) de João Pessoa nos autos da reclamação trabalhista 1146/1989. Após o desprovimento do recurso ordinário interposto pela então Fundação Nacional para Educação de Jovens e Adultos (Educar), a ação trabalhista transitou em julgado em 04.10.1991, conforme certidão expedida pela 3ª JCJ de João Pessoa em 03.04.1995.
+    Com efeito, verifico da leitura da documentação apresentada que o dispositivo da decisão judicial efetivamente se refere à incorporação dos reajustes então deferidos aos salários dos autores da reclamação trabalhista, nos seguintes termos: “Os reajustes deverão ser incorporados aos [ilegível] dos autores para todos os efeitos legais, tudo nos termos do pe-[ilegível]”.
+    Noto, por outro lado, que o ato coator aponta dois fundamentos para a possibilidade de supressão da parcela da URP. O primeiro dos fundamentos refere-se à superveniência de plano de carreira que teria resultado na absorção das diferenças relativas à URP, em virtude do aumento do padrão remuneratório do cargo ocupado pelo impetrante. O segundo fundamento apoia-se na possibilidade de o TCU avaliar os exatos limites da decisão transitada em julgado, de maneira a torná-la coerente com a realidade fática em que fora deferido o reajuste, o qual, na época em que proferida, visava à mera antecipação dos efeitos da data-base de modo a compensar a desvalorização monetária provocada pela inflação (“gatilho salarial”).
+    No que se refere ao primeiro fundamento, noto que o acórdão proferido pelo TCU, ao se limitar a tecer considerações sobre a implantação do novo plano de carreira, não teve o cuidado de explicitar a preservação do nível remuneratório do impetrante. Na ausência de informações a respeito, vale, em sede liminar, a afirmação do impetrante de que a parcela suprimida causar-lhe-á decréscimo remuneratório.
+    Quanto à possibilidade de rediscussão do exato sentido dos termos utilizados na decisão judicial, bem como da legalidade do entendimento adotado pela Administração, observo que a atuação do TCU quanto a esse aspecto vem sendo avaliada no julgamento do MS 23.394 pelo Pleno desta Corte, com votos três proferidos pela concessão da segurança pleiteada naqueles autos.
+    Ante o exposto, defiro a liminar para suspender os efeitos do ato apontado como coator até o julgamento final do presente mandado de segurança.
+    Requisitem-se informações ao TCU, a serem prestadas no prazo de 10 (dez) dias.
+    Cientifique-se a Advocacia Geral da União.
+    Recebidas as informações, abra-se vista à Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 29 de maio de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
