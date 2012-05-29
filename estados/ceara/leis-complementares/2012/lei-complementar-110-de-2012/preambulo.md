@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 110, DE 25.05.12 (D.O. 29.05.12)
+DISPÕE SOBRE A EXTINÇÃO DO FUNDO ESTADUAL DE DESENVOLVIMENTO INSTITUCIONAL DO CEARÁ - FUNEDINS.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
