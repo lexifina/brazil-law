@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “IMPROBIDADE ADMINISTRATIVA - Decisão que recebeu a petição inicial, determinando o prosseguimento da Ação Civil Pública – Não há obrigatoriedade da análise das preliminares suscitadas tampouco justificativa acerca da adequação da via eleita quando do recebimento da ação - Inocorrência de prescrição - Ação civil pública é via adequada à apuração e ressarcimento de danos causados ao erário público. Agravo de instrumento improvido”.
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se violação aos arts. 5º, LIV, e LV, e 37, § 5º, da mesma Carta.
+    O agravo não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello.
+    Ademais, o acórdão recorrido está em consonância com a jurisprudência desta Corte no sentido da imprescritibilidade das ações que têm por objeto o ressarcimento de prejuízos causados ao erário, conforme dispõe o art. 37, § 5º, da Constituição. Nesse sentido, transcrevo a ementa do AI 712.435-AgR/SP, Rel. Min. Rosa Weber:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONTRATO. SERVIÇOS DE MÃO-DE-OBRA SEM LICITAÇÃO. RESSARCIMENTO DE DANOS AO ERÁRIO. ART. 37, § 5º, DA CF. PRESCRIÇÃO. INOCORRÊNCIA.
+    1. As ações que visam ao ressarcimento do erário são imprescritíveis (artigo 37, parágrafo 5º, in fine, da CF). Precedentes.
+    2. Agravo regimental a que se nega provimento”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: RE 608.831-AgR/SP, Rel. Min. Eros Grau; AI 854.162/MG, Rel. Min. Gilmar Mendes; RE 632.512/MG, Rel. Min. Cármen Lúcia; RE 655.736/BA.
+    Por fim, observa-se que o recorrente não demonstrou de que forma o acórdão recorrido teria declarado a inconstitucionalidade de tratado ou lei federal, de forma a ensejar o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
