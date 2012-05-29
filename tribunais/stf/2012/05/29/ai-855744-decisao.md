@@ -1,0 +1,8 @@
+DECISÃO: A parte ora agravante, ao deduzir o recurso extraordinário a que se refere o presente agravo de instrumento, busca a declaração de inconstitucionalidade do art. 4º, parágrafo único, da Lei nº 9.249/95, que vedou “a utilização de qualquer sistema de correção monetária de demonstrações financeiras, inclusive para fins societários”, bem como ver reconhecido o seu direito à utilização do IPC, para efeito de correção monetária das demonstrações financeiras constantes de seu balanço pertinente aos anos- -base de 1996, 1997 e 1998.
+    Entendo inacolhível a pretensão recursal ora deduzida, eis que – como se sabe – não se revela lícito, ao Poder Judiciário, atuar na anômala condição de legislador positivo (RTJ 126/48 – RTJ 143/57 – RTJ 146/461-462 – RTJ 153/765 – RTJ 161/739-740 – RTJ 175/1137, v.g.), para, em assim agindo, e nos limites do pleito deduzido pela empresa contribuinte, proceder à imposição de seus próprios critérios, afastando, desse modo, os fatores que, no âmbito de nosso sistema constitucional, só podem ser legitimamente definidos pelo Parlamento.
+    É que, se tal fosse possível, o Poder Judiciário – que não dispõe de função legislativa – passaria a desempenhar atribuição que lhe é institucionalmente estranha (a de legislador positivo), usurpando, desse modo, no contexto de um sistema de poderes essencialmente limitados, competência que não lhe pertence, com evidente transgressão ao princípio constitucional da separação de poderes.
+    Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 29 de maio de 2012.
+Ministro CELSO DE MELLO
+Relator
