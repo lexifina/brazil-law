@@ -1,0 +1,11 @@
+Tratas-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “MARCA – Yahoo! - Pretensão a que qualificada como de alto renome, consoante artigo 125 da Lei 9 279/96 -Dados aferidos na perícia, realizada por força de conversão em diligência, atestando não se tratar de marca de alcance geral em todo o território, mas restrita ao campo de atividade da Internet - Notoriedade reconhecida, mas que não lhe atribui a exclusividade em geral, proibindo a utilização em outros campos – Ré que, inclusive, explora a marca em outro país, para o qual exporta e comercializa as gomas de mascar que fabrica no Brasil - Sentença de improcedência mantida” (fl. 2.600).
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, apreciação dos temas constitucionais, no caso, depende do prévio exame de norma infraconstitucional (Lei 9.279/96). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Ressalte-se, ainda, que para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões: RE 540.851/SC, de minha relatoria; AI 758.616/SP, Rel. Min. Luiz Fux; AI 541.012/MG, Rel. Min. Ellen Gracie; AI 767.025/MG, Rel. Min. Cezar Peluso; ARE 660.270/SP, AI 848.926/MG e AI 711.638-AgR/RS, Rel. Min. Cármen Lúcia, do qual transcrevo a ementa:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR USO INDEVIDO DE MARCA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de maio de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
