@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ART. 1º-F DA LEI N. 9.494/97. JUROS DE MORA. FAZENDA PÚBLICA. ALEGADA CONTRARIEDADE AO ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e b, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “RECURSO DE REVISTA. JUROS DE MORA. CONDENAÇÃO SUBSIDIÁRIA. ART. 1º-F DA LEI 9.494/97. INAPLICABILIDADE. 1. Nos termos da Orientação Jurisprudencial 382 da SBDI-1 do TST, 'A Fazenda Pública, quando condenada subsidiariamente pelas obrigações trabalhistas devidas pela empregadora principal, não se beneficia da limitação dos juros, prevista no art. 1°-F da Lei 9.494, de 10.09.1997." 2. Entendimento que, mesmo diante da alteração da redação do art. 1º-F da Lei 9.494/97, promovida pela Lei 11.960/2009, permanece inalterado. Precedentes. 3. Assim, a pretensão do Ente Público esbarra no óbice da Súmula 333 do TST e do artigo 896, § 4", da CLT. Recurso de revista não conhecido”.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. II, da Constituição da República.
+    Assevera que “a r. decisão negou vigência ao disposto no art. 1°-F, da Lei nº 9.494/97, sob o fundamento de que não se aplicava os juros de 0,5%, (meio por cento), mas os juros de 1% (um por cento), consoante o disposto no art. 39, § 1º da 8.177/91, em face de o Distrito Federal não ser o devedor principal, pois condenado subsidiariamente a responder pelo débito”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que não teria havido contrariedade direta à Constituição.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A pretensa contrariedade ao art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AO ART. 5º, LV, DA CONSTITUIÇÃO. SÚMULA 636 DO STF. INTEMPESTIVIDADE. SUSPENSÃO DE PRAZO. FERIADO. AGRAVO IMPROVIDO. I - A alegada violação ao art. 5º, LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. II - Incabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). III - A jurisprudência desta Corte é no sentido de que os documentos comprobatórios da suspensão de prazo no tribunal a quo que não sejam de conhecimento obrigatório pelo tribunal ad quem devem ser apresentados no momento da interposição do agravo de instrumento. IV - Agravo regimental improvido” (AI 677.734-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 12.6.2008).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONTRIBUIÇÕES SOCIAIS. INCRA E FUNRURAL. EXIGIBILIDADE DA COBRANÇA. EMPRESAS URBANAS. TEMPESTIVIDADE DO AGRAVO DE INSTRUMENTO. EC Nº 45/2004. EXTINÇÃO DO RECESSO FORENSE. SUSPENSÃO DOS PRAZOS. RECURSO EXTRAORDINÁRIO. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CARTA MAGNA. APLICAÇÃO, MUTATIS MUTANDIS, DAS SÚMULAS 636 E 638/STF. DESPROVIMENTO DO AGRAVO REGIMENTAL” (AI 842.725-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.9.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de maio de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
