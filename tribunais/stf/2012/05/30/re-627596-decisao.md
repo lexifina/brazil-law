@@ -1,0 +1,12 @@
+DECISÃO: O exame dos autos revela que o recorrente interpôs, da mesma decisão, em 03.12.2004, incidente de uniformização de jurisprudência e recurso extraordinário.
+    Verifico que o recurso extraordinário foi interposto antes da publicação da decisão que apreciou o incidente de uniformização de jurisprudência dos juizados especiais federais (20.03.2006), sem que se tenha notícia nos autos de posterior ratificação do recurso.
+    Esta Corte firmou, nesses casos, entendimento no sentido de considerar extemporâneo o recurso extraordinário. Ora, fácil perceber que, havendo incidente pendente de julgamento, não se estava diante de decisão de única ou última instância a ensejar a abertura da via extraordinária. Incide a Súmula 281/STF.
+    Confira-se, nesse sentido, o RE 468.259-AgR (rel. min. Ricardo Lewandowski, Primeira Turma, DJ de 19.12.2007) e o RE 468.365-AgR (rel. min. Ayres Britto, Primeira Turma, DJ de 20.04.2007), cujas ementas transcrevo a seguir:
+    “PROCESSUAL CIVIL. CONSTITUCIONAL. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. RECURSO EXTRAORDINÁRIO. DESCABIMENTO. I - Esta Corte firmou entendimento no sentido de se considerar extemporâneo o RE interposto antes do julgamento do incidente de uniformização de jurisprudência. II - Somente após o pronunciamento da Turma de Uniformização estaria esgotada a prestação jurisdicional, que daria ensejo à interposição do recurso extremo. III - Agravo regimental improvido.”
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF. Consoante a jurisprudência sumulada do Supremo Tribunal Federal, ‘é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada’ (Súmula 281 do STF). Admitido Incidente de Uniformização em face de acórdão de Turma Recursal dos Juizados Especiais Federais, resta demonstrada a ausência de decisão de única ou última instância. Pelo que incabível, concomitantemente, a interposição do apelo extremo. Agravo Regimental desprovido.”
+    Confira-se, ainda, em casos idênticos ao presente: AI 722.988 (rel. min. Dias Toffoli, DJe de 19.09.2011), RE 572.231 (rel. min. Gilmar Mendes, DJe de 24.11.2010), AI 819.528 (rel. min. Ayres Britto, DJe de 04.11.2010) e RE 577.053 (rel. min. Ricardo Lewandowski, DJe de 26.02.2008).
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
