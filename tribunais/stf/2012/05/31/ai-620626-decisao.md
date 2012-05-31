@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Goiás, cuja ementa tem o seguinte teor:
+    “CONTRATO DE SEGURO COM PROMESSA DE PENSÃO. PENSIONAMENTO NÃO PAGO. RESTITUIÇÃO DAS PARCELAS PAGAS.
+    1. É juridicamente possível o pedido de restituição de parcelas pagas em contrato de seguro c/c pensionamento em que esta parte do pacto não restou cumprida. 2. Inexiste cerceamento de defesa se a parte, devidamente intimada para comparecer a audiência de instrução e julgamento, deixa de comparecer e indicar as provas que pretendesse produzir. 3. O litisconsórcio ativo é instituto juridicamente possível uma vez configuradas as hipóteses do art. 46, II e IV. 4. Prometido o pensionamento e não pago, o associado tem direito à restituição do que recolheu a favor da seguradora. Apelo conhecido e improvido.” (Fls. 52/53)
+    Alega-se violação ao disposto no art. 5º, incisos LV e XXXVI, da Carta Magna.
+    Sem razão a parte recorrente.
+    O Supremo Tribunal Federal, no julgamento do ARE 639.228-RG (rel. min. Cezar Peluso, DJe de 31.08.2011 - Tema 424 ), recusou o recurso extraordinário ante a ausência de repercussão geral do tema tratado no presente feito, por não haver questão constitucional a ser dirimida. Eis a ementa do referido acórdão:
+    “RECURSO. Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.” (Grifos originais)
+    Ademais, a análise da suposta violação do art. 5º, XXXVI, da Constituição, demandaria o reexame prévio da legislação pertinente (Lei 6.435/1977 e Decreto 81.402/1978) e da interpretação das cláusulas do contrato firmado entre as partes. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, as Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+    Nesse sentido, ARE 644.752 (rel. min. Ricardo Lewandowski, DJe de 03.08.2011), ARE 644.481 (rel. min. Cármen Lúcia, DJe de 04.08.2011), AI 807.827 (rel. min. Gilmar Mendes, DJe de 13.06.2011) e AI 810.356 (rel. min. Ayres Britto, DJe de 24.09.2010).
+    Do exposto, nego seguimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 31 de maio de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
