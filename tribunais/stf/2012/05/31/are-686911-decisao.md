@@ -1,0 +1,9 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. COMPLEMENTAÇÃO DE APOSENTADORIA. DISCUSSÃO ACERCA DA COMPETÊNCIA PARA APRECIAR O FEITO. REPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 190 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.
+    Decisão: Cuida-se de agravo nos próprios autos interposto pelo ESTADO DE SÃO PAULO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte no RE n. 586.453-RG, Relatora a Ministra Ellen Gracie, DJe de 02.10.2009, e que corresponde ao Tema nº 190 da Gestão por Temas da Repercussão Geral. Trata-se do tema “em que se discute, à luz dos artigos 5º, LIV; 114; e 202, § 2º, da Constituição Federal, se a competência para julgar causas que envolvam complementação de aposentadoria por entidades de previdência privada é da Justiça do Trabalho ou da Justiça comum”. O referido decisum está assim ementado:
+    PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. COMPETÊNCIA. EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 586453 RG, Relator (a): Min. ELLEN GRACIE, julgado em 10/09/2009, DJe-186 DIVULG 01-10-2009 PUBLIC 02-10-2009 EMENT VOL-02376-04 PP-00716 LEXSTF v. 31, n. 370, 2009, p. 278-283)
+    Ex positis, ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 31 de maio de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
