@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL APOSENTADO. ENGENHEIRO AGRÔNOMO DO EXTINTO IBC. EQUIPARAÇÃO SALARIAL COM SERVIDOR ATIVO. FISCAL FEDERAL AGROPECUÁRIO. IMPOSSIBILIDADE JURÍDICA DO PEDIDO - INOCORRÊNCIA. PRESCRIÇÃO QUINQUENAL. JUROS DE MORA. 1. Afastada a preliminar de impossibilidade jurídica do pedido, visto que o autor busca equiparação salarial, e não provimento derivado de cargo público. 2. Tratando-se de prestação de trato sucessivo, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação (Súmula nº 85 do STJ). 3. Assiste ao autor o direito de ter os proventos da sua aposentadoria revistos na mesma proporção e na mesma data em que houver modificação da remuneração dos servidores em atividade, visto que o cargo de Engenheiro Agrônomo, ocupado pelo autor quando de sua aposentadoria, foi transformado no cargo de Fiscal de Defesa Agropecuária com relação aos servidores que continuaram na ativa e, depois, no cargo de Fiscal Federal Agropecuário. Inteligência do artigo 7º da Emenda Constitucional nº 41/2004. 4. Nas condenações impostas à Fazenda Pública para pagamento da verbas remuneratórias a servidores e empregados públicos, os juros de mora devem ser fixados no patamar de 6% ao ano, em se tratando de ação proposta após a vigência da Medida Provisória nº 2.180-35, de 24 de agosto de 2001, que acrescentou o art. 1º-F à Lei nº 9.494/97. Precedentes”.
+    No recurso extraordinário, em síntese, aponta-se violação aos arts. 5º, incisos XXV, LIV, LV; 37, II, XIII; e 40, § 8º, todos da Constituição da República.
+    Passo a decidir.
+    Sem razão a agravante.
+    Na hipótese, o recorrido, aposentado na função de Engenheiro Agrônomo pelo Instituto Brasileiro do Café – IBC, propôs ação ordinária contra a UNIÃO, buscando equiparação salarial com os servidores ativos, cujo cargo corresponde atualmente ao de Fiscal de Defesa Agropecuária, vinculado ao Ministério da Fazenda, em virtude da extinção do IBC.
+    O Tribunal de origem, à luz das normas infraconstitucionais pertinentes e do conjunto probatório dos autos, confirmou a sentença e reconheceu o direito vindicado.
+    Para dissentir do aresto impugnado, que, ao interpretar disposições das normas infraconstitucionais, deferiu ao recorrido o direito à equiparação salarial pleiteada, porque preenchidos os pressupostos estatuídos nas normas atinentes, necessário se faz o reexame das provas carreadas para os autos e a interpretação de direito local, o que é vedado, nesta instância recursal (Enunciados 279 e 280 da Súmula do STF).
+    No mesmo sentido, ainda, o RE-AgR 134.586, Rel. Min. Maurício Corrêa, Segunda Turma, DJ 15.12.1995; o RE-AgR 134.277, Rel. Min. Eros Grau, Primeira Turma, DJ 15.10.2004.
+    Ademais, as seguintes decisões monocráticas: RE 251.140, Rel. Min. Ilmar Galvão, DJ 21.3.2002; AI 440.887, de minha relatoria, DJ 20.6.2005; e o RE 591.902, Rel. Min. Cármen Lúcia, DJ 4.2.2009.
+    Ante o exposto, com fulcro nos arts. 21, § 1º, do RISTF e 544, § 4º, II, a, do Código de Processo Civil, nego provimento ao recurso.
+    Publique-se.
+    Brasília, 31 de maio de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
