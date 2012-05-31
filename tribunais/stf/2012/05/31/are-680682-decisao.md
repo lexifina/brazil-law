@@ -1,0 +1,29 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. JUROS MORATÓRIOS. 6% (SEIS POR CENTO) AO ANO. ARTIGO 1º-F DA LEI N. 9.494/97 REDAÇÃO DA MP N. 2.180-35/2001. APLICABILIDADE IMEDIATA. CONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO COM AGRAVO PROVIDO. PRECEDENTES.
+1. O art. 1º-F da Lei 9.494/1997, com alteração conferida pela Medida Provisória 2.180-35/2001, teve a constitucionalidade declarada no julgamento do RE nº 453.740, Rel. Ministro Gilmar Mendes.
+2. O dispositivo teve ainda reconhecida sua aplicabilidade imediata, independentemente da data de ajuizamento da ação. Precedente: AI 842.063-RG, Rel. Ministro Cezar Peluso, DJe de 2.9.2011.
+3. In casu, o acórdão recorrido assentou:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. A admissibilidade de recurso de revista interposto em processo de execução depende de demonstração inequívoca de ofensa direta e literal à Constituição da República, nos termos do art. 896, § 2º, da CLT e da Súmula 266 do TST.”
+4. Recurso extraordinário com agravo PROVIDO.
+    Decisão: Trata-se de recurso extraordinário com agravo interposto pela UNIÃO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fl. 300 que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal Superior do Trabalho assim ementado (fls. 156):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. A admissibilidade de recurso de revista interposto em processo de execução depende de demonstração inequívoca de ofensa direta e literal à Constituição da República, nos termos do art. 896, § 2º, da CLT e da Súmula 266 do TST.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 5º, caput, II e LIV, e 37 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que não se divisa violação direta à Constituição, porque a controvérsia reside na interpretação do art. 1º-F da Lei nº 9.494/97, matéria de natureza infraconstitucional.
+    É o relatório. DECIDO.
+    O recurso merece prosperar.
+    Instado a se manifestar sobre questão análoga, no julgamento do AI n. 842.063, Relator o Ministro Cezar Peluso, DJe de 2.9.2011, o Plenário do Supremo Tribunal Federal, reconheceu a repercussão geral da questão constitucional suscitada e, no mérito, reafirmou a jurisprudência desta Corte no sentido da constitucionalidade da aplicação imediata do artigo 1º-F da Lei n. 9.494/97, na redação conferida pela Medida Provisória n. 2.180-35/01, às ações ajuizadas, inclusive, em data anterior à vigência do texto normativo nele inserido. O acórdão restou assim ementado:
+     “RECURSO. Agravo de instrumento convertido em Extraordinário. Art. 1º-F da Lei 9.494/97. Aplicação. Ações ajuizadas antes de sua vigência. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. È compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor”.
+    Ainda nesse sentido, os seguintes julgados, entre outros, de ambas as Turmas do STF:
+    “Agravo regimental. Juros de mora. 1. Constitucionalidade do Art. 1º-F da zLei n. 9.494/1997, inserido pela Medida Provisória n. 2.180-35/2001. Aplicação imediata. Precedentes: RE-AgR 479.408, de minha relatoria, Segunda Turma, DJe 7.3.2008 e AI-AgR 746.268, rel. Min. Cármen Lúcia, Primeira Turma, DJe 5.2.2010. 2. Inversão, neste ponto, dos ônus da sucumbência. 3. Agravo regimental a que se nega provimento.” (AI n. 754.077-AgR-AgR-AgR, Relator o Ministro Gilmar Mendes, 2ª Turma, DJe de 06.09.11).
+    “E M E N T A: AGRAVO DE INSTRUMENTO – CONDENAÇÃO JUDICIAL – EXECUÇÃO CONTRA A FAZENDA PÚBLICA – VERBAS REMUNERATÓRIAS DEVIDAS A SERVIDORES E EMPREGADOS PÚBLICOS – LIMITAÇÃO DOS JUROS DE MORA EM 6% (SEIS POR CENTO) AO ANO – VALIDADE JURÍDICO-CONSTITUCIONAL DO ART. 1º-F DA LEI Nº 9.494/97, NA REDAÇÃO DADA PELA MP Nº 2.180-35/2001 – POSSIBILIDADE DE SUA APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO – ENTENDIMENTO PREVALECENTE NO STF – PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.” (AI n. 791.897-AgR, Relator o Ministro Celso de Mello, 2ª Turma, DJe de 10.06.11).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. CONSTITUCIONALIDADE DO ART. 1º-F DA LEI N. 9.494/1997. APLICAÇÃO IMEDIATA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI n. 828.778-AgR, Relatora a Ministra Cármen Lúcia, 1ª Turma, DJe de 04.03.11).
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS DE MORA. ART. 1º-F DA LEI 9.494/97 COM REDAÇÃO DA MP 2.180-35. CONSTITUCIONALIDADE. EFICÁCIA IMEDIATA. AGRAVO IMPROVIDO.
+    I – A norma do art. 1º-F, da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001 é aplicável a processos em curso. Precedentes.
+    II – Aplica-se a MP 2.180-35/2001 aos processos em curso, porquanto lei de natureza processual, regida pelo princípio do tempus regit actum, de forma a alcançar os processos pendentes.
+    III – Agravo regimental improvido.” (AI n. 767.094-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 01.02.11).
+    Pelas razões expostas, PROVEJO o agravo de instrumento e desde já CONHEÇO e DOU PROVIMENTO ao recurso extraordinário (art. 557, § 1º-A, do CPC) para fixar os juros moratórios em 6% ao ano nos termos do art. 1º-F da Lei n. 9.494/97 (com redação conferida pela Medida Provisória n. 2.180-35/01). Invertidos os ônus da sucumbência.
+    Publique-se. Intimações necessárias.
+    Brasília, 31 de maio de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
