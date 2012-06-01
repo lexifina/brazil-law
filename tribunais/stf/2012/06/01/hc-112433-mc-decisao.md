@@ -1,0 +1,24 @@
+DECISÃO
+LIMINAR – AUSÊNCIA DE RISCO – INDEFERIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado a vinte e um anos, cinco meses e vinte dias de reclusão pela prática dos delitos de furto qualificado e roubo majorado pelo emprego de arma de fogo. O Juízo da Vara de Execuções Criminais de Porto Alegre, em 28 de abril de 2009, deferiu o pedido de livramento condicional ao paciente, considerando presentes os requisitos objetivos e subjetivos do artigo 131, combinado com o artigo 83, inciso II, do Código Penal. Em 15 de setembro de 2010, determinou-se a suspensão da execução da pena, em virtude da prisão preventiva do paciente por ato do Juízo da Vara Criminal da Comarca de Esteio/RS na Ação Penal nº 014/2.2.10.0001839-6.
+    O Juízo da Vara de Execuções Criminais de Porto Alegre, ressaltando o histórico carcerário desfavorável, indeferiu o novo pleito de livramento condicional ao paciente.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento a agravo em execução, no qual se sustentou que o apenado estaria sendo submetido a constrangimento ilegal, em acórdão com a seguinte ementa:
+    AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. INDEFERIMENTO DO BENEFÍCIO.
+    Embora o apenado preencha o requisito objetivo para concessão da benesse requerida, e o atestado de conduta carcerária seja satisfatório, torna-se prudente, no momento, não permitir a concessão do livramento, face ao histórico de fugas do mesmo, fato que contraria o disposto no art. 83, inciso III, do Código Penal, e que demonstra que não preenchido o requisito subjetivo para tal.
+    Contra esse acórdão formalizou-se habeas no Superior Tribunal de Justiça – de nº 139.595/RS. A Quinta Turma indeferiu a ordem assentando a necessidade de haver cumulação dos requisitos objetivo e subjetivo para a concessão do livramento condicional, o que não ocorreria na espécie. Esta a ementa do julgado:
+    HABEAS CORPUS. ROUBO MAJORADO. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUIISITO SUBJETIVO. ALUSÃO A FALTA GRAVE PRATICADA. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA.
+    1. Conforme o disposto no art. 83, inciso III, do Código Peal, combinado com o art. 112, § 2º, da Lei de Execução Criminal, o benefício do livramento condicional somente será concedido ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo.
+    2. As instâncias ordinárias, com base em fatos concretos, demonstraram que o paciente não ostentava condições pessoais para a concessão da benesse, devido à prática de falta disciplinar de natureza grave, qual seja, o implemento de diversas fugas.
+    3. Ademais, conclusão diversa demandaria o revolvimento do conjunto fático probatório, providência inviável em sede de habeas corpus.
+    4. Ordem denegada.
+    Neste habeas, a impetrante alega que a decisão que implicou a perda dos dias remidos e o reinício da contagem dos prazos de obtenção do benefício de livramento condicional decorreu do fato de o paciente haver cometido falta disciplinar de natureza grave. Argumenta que a superveniência da Lei nº 12.433, de 2011, deu nova redação ao artigo 127 da Lei de Execuções Penais, limitando a revogação do tempo de remissão a um terço (1/3), o que derrogaria, parcialmente, o teor do Verbete nº 9 da Súmula do Supremo. Transcrevendo precedentes de ambas as Turmas do Tribunal, afirma incidir o princípio da retroatividade da lei penal mais benéfica, conforme preceitua o artigo 5º, inciso XL, da Constituição Federal. Requer o deferimento de liminar para que a perda dos dias remidos seja proporcional, consoante disposto no artigo 127 da Lei nº 12.433, de 2011. No mérito, pede a confirmação da providência.
+    Em resposta às informações solicitadas por Vossa Excelência, o ministro Adilson Vieira Macabu, do Superior Tribunal de Justiça (Desembargador convocado do Tribunal de Justiça do Estado do Rio de Janeiro), encaminhou cópia do acórdão proferido no julgamento do Habeas Corpus nº 139.595/RS. O 2º Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul, por sua vez, enviou as demais cópias das peças necessárias à instrução processual. Noticiou, ainda, que o paciente goza do benefício do livramento condicional, havendo-se apresentado perante o Juízo em 2 de abril de 2012, e que a pena imposta se extinguirá em setembro do corrente ano.
+    O habeas encontra-se concluso para apreciação da medida acauteladora.
+    2. A toda evidência, o caso não reclama a atuação precária e efêmera do relator como porta-voz do Colegiado. A par de o direito à perda parcial dos dias remidos poder vir a ser reconhecido no julgamento de fundo, o paciente está no gozo do benefício de livramento condicional.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 1º de junho de 2012.
+Ministro MARCO AURÉLIO
+Relator
