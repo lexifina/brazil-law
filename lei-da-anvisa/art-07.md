@@ -27,7 +27,6 @@ c) quando for verificada a existência de indícios da ocorrência de infraçõe
 d) aplicar a penalidade prevista no art. 26 da Lei nº 8.884, de 1994;
 XXVI - controlar, fiscalizar e acompanhar, sob o prisma da legislação sanitária, a propaganda e publicidade de produtos submetidos ao regime de vigilância sanitária;
 XXVII - definir, em ato próprio, os locais de entrada e saída de entorpecentes, psicotrópicos e precursores no País, ouvido o Departamento de Polícia Federal e a Secretaria da Receita Federal.
-XXVIII - fiscalizar a constituição das Comissões de Cadastro, Vigilância e Acompanhamento das Gestantes e Puérperas de Risco no âmbito do Sistema Nacional de Cadastro, Vigilância e Acompanhamento da Gestante e Puérpera para Prevenção da Mortalidade Materna pelos estabelecimentos de saúde, públicos e privados, conveniados ou não ao Sistema Único de Saúde - SUS. Sem eficácia
 § 1º A Agência poderá delegar aos Estados, ao Distrito Federal e aos Municípios a execução de atribuições que lhe são próprias, excetuadas as previstas nos incisos I, V, VIII, IX, XV, XVI, XVII, XVIII e XIX deste artigo.
 § 2º A Agência poderá assessorar, complementar ou suplementar as ações estaduais, municipais e do Distrito Federal para o exercício do controle sanitário.
 § 3º As atividades de vigilância epidemiológica e de controle de vetores relativas a portos, aeroportos e fronteiras, serão executadas pela Agência, sob orientação técnica e normativa do Ministério da Saúde.
