@@ -1,0 +1,23 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. PROCESSO CIVIL. PRESCRIÇAO DO FUNDO DE DIREITO AFASTADA. CONDIÇAO DE ANISTIADO POLÍTICO. JUIZ DE DIREITO POSTO EM DISPONIBILIDADE. PEDIDO DE REPARAÇAO ECONOMICA PREVISTO NO ARTIGO 3º DA LEI 10559/2002. IMPOSSIBILIDADE. DEFERIMENTO DO PAGAMENTO DA DIFERENÇA ENTRE SEUS VENCIMENTOS E AQUELES PAGOS ENQUANTO PERMANECEU EM DISPONIBILIDADE. DANO MORAL DEFERIDO. APELAÇÃO PARCIALMENTE PROVIDA.
+    1.A sentença julgou improcedente o pedido de reparação econômica por ter sido aposentado do cargo de Juiz de Direito do Estado da Paraíba com base no AI5 tendo e permanecido afastado por mais de 11 anos. O MM Juiz Federal acolheu a prescrição do fundo de direito.
+    2.Na realidade, no que diz respeito à prescrição, o art. 8º do Ato das Disposições Constitucionais Transitórias da CF de 1988 concedeu anistia política aos atingidos por atos de exceção, prevendo alguns direitos, os quais só foram regulamentados em 13/11/2002 pela Lei 10.559, de modo que houve a renúncia tácita à prescrição. Precedentes.
+    3.O ato de aposentadoria teve motivação política com o enquadramento do requerente no inciso I do artigo 2º da lei 10559/2002.
+    4.De acordo com a lei, 'a reparação econômica em prestação única não é acumulável com a reparação econômica em prestação mensal permanente e continuada.'(Artigo 3º, § 1º da lei 10559/2002). O artigo 16 do mesmo ato normativo afirma que os direitos expressos na lei 10559, de 2002 não excluem os conferidos por outras normas legais ou constitucionais, vedada a acumulação de quaisquer pagamentos ou benefícios com o mesmo fundamento.
+    5.Anistia concedida com base na lei 6683, de 28 de agosto de 1979, com o retorno ao cargo de Juiz de Direito de 1ª entrância em 02.04.1980 e promovido ao cargo de Juiz de Direito de 3ª entrância em 10.07.1986. Cabível o pedido de pagamento da diferença existente entre os vencimentos proporcionais ao tempo de serviço e ao valor percebido por um Magistrado na ativa a ser pago pela União foi a responsável pela edição do ato arbitrário. Valores a serem quantificados em liquidação de sentença com correção efetivada nos termos da lei 11960/2009.
+    6. Existência de danos morais arbitrados em R$ 10.000,00.
+    7.Reversão do ônus da sucumbência.
+    8.Apelação parcialmente provida” (fl. 179).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+    O agravo não merece acolhida.
+    Observo que o Tribunal a quo concluiu que a União foi responsável pelos prejuízos suportados pelo ora recorrido, o qual teria sofrido aposentadoria compulsória decorrente de ato discriminatório ocorrido durante o período da ditadura militar. A seguir, transcrevo o trecho do acórdão recorrido que demonstra esse entendimento:
+    “No que diz respeito ao pedido de pagamento da diferença existente entre os vencimentos proporcionais ao tempo de serviço e ao valor percebido por um Magistrado na ativa entendo que pleito tem cabimento.
+    O autor foi punido pela União em decorrência de manifestar opinião contrária ao regime ditatorial que então governava o país, tendo permanecido por quase onze anos em disponibilidade com vencimentos proporcionais. Entendo que está ai presente a responsabilidade extracontratual do Estado e no caso da União que foi o ente responsável pela malfadada decisão.
+    Quando se fala em responsabilidade do Estado, cogita-se de dano resultante de comportamento de um dos poderes do Estado, sendo extracontratual por se reger por princípios próprios. O Estado passa a ter obrigação de reparar danos causados a terceiros em decorrência de comportamentos comissivos ou omissivos, materiais ou jurídicos, lícitos ou ilícitos, imputáveis aos agentes públicos.
+    Ora, cabível o deferimento do pleito em questão já que atingido por uma política discriminatória presente em regime de exceção que então vigorava no país. Os valores deverão ser verificados em liquidação de sentença decorrentes do período em que o apelante esteve em disponibilidade com a correção efetivada nos termos do da lei 11960/2009” (fls. 174-175).
+    Verifica-se, no entanto, que a recorrente não atacou o fundamento do acórdão impugnado, limitando-se a sustentar que o autor não teria mantido vínculo funcional com a União, o que afastaria a responsabilidade do ente por qualquer dano. Incide, no caso, a súmula 284 do STF, haja vista a deficiente fundamentação do recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
