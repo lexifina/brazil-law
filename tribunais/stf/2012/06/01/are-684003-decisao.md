@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cuja ementa transcrevo, no que interessa
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. RECLAMADO. REMUNERAÇÃO. VERBAS INDENIZATÓRIAS E BENEFÍCIOS. GRATIFICAÇÃO DE FUNÇÃO. As alegações constantes da minuta de agravo de instrumento não autorizam a reforma da decisão que negou seguimento ao recurso de revista. Agravo de instrumento a que se nega provimento(...)”.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II, XXXV, LIV e LV; e 37, caput, do texto constitucional.
+    Nas razões recursais, sustenta-se, preliminarmente, ausência de prestação jurisdicional e violação aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal.
+    Alega-se que o Tribunal de origem teria violado o princípio da legalidade ao impor uma obrigação não decorrente de lei, “(...) qual seja, de incorporar gratificação de função a empregada que não mais ocupa cargo de confiança”.
+    Argumenta-se ainda que o entendimento segundo o qual a mencionada gratificação tem natureza salarial não encontra respaldo na norma da empresa.
+    Decido.
+     A pretensão recursal não merece prosperar.
+    Inicialmente, no tocante à alegada ofensa ao artigo 5º, XXXV, da Constituição Federal, observo que o Supremo Tribunal Federal já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa e do devido processo legal, se dependente de reexame prévio de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário.
+     Cito, a propósito, os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011, este último com acórdão assim ementado:
+    “FINANCEIRO. PRECATÓRIO. MÉTODO DE COBRANÇA DE JUROS. DISCUSSÃO BASEADA NA FORÇA DO TRÂNSITO EM JULGADO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL SUFICIENTE QUE NÃO FOI DEVIDAMENTE ATACADA. AGRAVO REGIMENTAL. Em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que também não se revelará cabível o recurso extraordinário (AI 477.645-AgR, rel. min. Celso de Mello). Excepcionalidade ausente. Caráter infraconstitucional confirmado. Fundamento suficiente e inatacado. Agravo regimental ao qual se nega provimento”.
+    Por último, verifico que o acórdão recorrido reconheceu a natureza salarial da “Função Comissionada Auxiliar – FCA” com fundamento na CLT, no Regulamento da Serpro e na norma GP/053, donde se conclui que eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa.
+     Incide, na espécie, o Enunciado 636 da Súmula do STF.
+     Confiram-se as seguintes decisões monocráticas proferidas em casos análogos ao dos autos: ARE 671.424, Rel. Min. Ricardo Lewandowski, DJe 17.2.2012; ARE 659.022, Rel. Min. Luiz Fux, DJe 2.12.2011; ARE 652.650, Rel. Min. Joaquim Barbosa, DJe 7.12.2011; ARE 652.657, Rel. Min. Joaquim Barbosa, DJe 7.12.2011; ARE 647.851, Rel. Min. Joaquim Barbosa, DJe 29.11.2011; e AI 840.051, Rel. Min. Cármen Lúcia, DJe 18.3.2011.
+    Ante o exposto, nego provimento ao agravo (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 1º de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
