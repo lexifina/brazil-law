@@ -1,0 +1,18 @@
+DECISÃO
+HABEAS CORPUS – OBJETO – APRECIAÇÃO PELO COLEGIADO.
+HABEAS CORPUS – LIMINAR – LIBERDADE DE IR E VIR – AUSÊNCIA DE ENVOLVIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente-impetrante, Investigador de Polícia da Secretaria de Segurança Pública do Estado de São Paulo, foi demitido a bem do serviço público em 20 de janeiro de 2004, nos termos dos artigos 67, inciso V, 69, 70, inciso I, e 74, inciso II, da Lei Complementar estadual nº 207, de 1979 (Lei Orgânica da Polícia do Estado de São Paulo), após Processo Administrativo Disciplinar - PAD.
+    O Tribunal de Justiça do Estado de São Paulo indeferiu o pedido formulado no mandado de segurança impetrado, no qual se sustentou a ocorrência de diversas nulidades no curso do referido processo administrativo, que teriam gerado ofensa aos princípios constitucionais da legalidade, da ampla defesa e do contraditório. O acórdão tem a seguinte ementa:
+    MANDADO DE SEGURANÇA – Processo Administrativo Disciplinar. Investigadores de Polícia demitidos a bem do serviço público. Pena demissória aplicada sem qualquer desrespeito aos princípios do devido processo legal e da ampla defesa. Ausência do propalado direito líquido e certo à nulificações das demissões levadas a efeito. Segurança denegada.
+    Formalizou-se habeas no Superior Tribunal de Justiça – de nº 226.212/SP. O Ministro Teori Albino Zavaski, relator, em 22 de novembro de 2011, indeferiu liminarmente a ordem consignando tratar-se de mera reiteração do pleito veiculado no Habeas Corpus nº 205.782/SP. Assentou, ainda, a inadequação da via eleita, pois inexistente ameaça ao direito de locomoção do impetrante.
+    Esse é o pronunciamento ora atacado. O paciente-impetrante sustenta, buscando apoio na Constituição Federal e em diplomas supranacionais, a ocorrência de cerceamento de defesa no curso do processo administrativo disciplinar, que resultou no respectivo afastamento do serviço público. Aponta a existência de diversas nulidades – narração genérica, na portaria que instaurou o PAD, dos crimes supostamente praticados; falta de advertência quanto ao direito de permanecer em silêncio no ato do interrogatório; indeferimento dos pleitos para oitiva de testemunhas na fase das alegações finais e para o sobrestamento do processo; irregularidade na composição da comissão processante; e falta de individualização das condutas a ele imputadas. Afirma o cabimento do habeas em virtude da inobservância dos princípios constitucionais do contraditório e da ampla defesa. Requer o implemento de liminar para reconhecer a nulidade do acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo e do ato administrativo que implicou a demissão dele dos quadros funcionais da Secretaria de Segurança Pública do Estado de São Paulo.
+    O habeas encontra-se concluso para apreciação do pedido de concessão da medida acauteladora.
+    2. Reafirmo que, ante a envergadura, cumpre ao Colegiado o julgamento dessa ação nobre – porque constitucional – de habeas corpus. Muito embora tenha presente o disposto no inciso LXVIII do artigo 5º da Carta Federal – “conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder” –, não me cabe fulminar liminarmente a impetração.
+    A discrepância do balizamento constitucional viabilizador do habeas corpus afasta, de qualquer forma, a atuação precária positiva quanto ao pedido de concessão de medida acauteladora.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 2 de junho de 2012, às 17h40.
+Ministro MARCO AURÉLIO
+Relator
