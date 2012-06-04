@@ -1,0 +1,19 @@
+Trata-se de habeas corpus com pedido de medida liminar impetrado pela Defensoria Pública da União em favor de Silvana Aparecida de Matos contra julgamento monocrático do REsp 1.185.172/RS no Superior Tribunal de Justiça.
+    Consta dos autos que a paciente foi denunciada pelo Ministério Público do Estado do Rio Grande do Sul como incursa nas sanções do art. 155, caput, c/c art. 14, II, ambos do Código Penal, pela tentativa de furto de 06 (seis) blusas femininas da marca Lezalez avaliadas em R$ 824,60 na loja Open Moda Jovem, localizada no centro de Caxias do Sul/RS.
+    A Juíza de Direito da Vara Criminal da Comarca de Bento Gonçalves absolveu sumariamente a acusada por considerar atípica a conduta por ele perpetrada, com fundamento no art. 397, III, do Código de Processo Penal c/c o art. 17 do Código Penal.
+    Posteriormente, o Tribunal de Justiça do Estado do Rio Grande do Sul negou provimento à apelação acusatória e manteve a sentença absolutória.
+    No Superior Tribunal de Justiça, a Ministra Laurita Vaz, relatora do Recurso Especial 1.185.172/RS, com esteio no art. 557, § 1º-A, do CPC c/c art. 3º do CPP, deu provimento ao recurso para “cassando o acórdão recorrido e a sentença absolutória, determinar o retorno dos autos ao juízo de primeira instância para que, afastadas as teses de crime impossível e de crime de bagatela, prossiga no julgamento do feito”.
+    Neste writ, a impetrante defende a tese de aplicação do princípio da insignificância ao caso concreto para que se reconheça a atipicidade delitiva, sobretudo por consistir a conduta da paciente na “tentativa de subtração de 6 blusas femininas da marca Lezalez, totalizando os referidos produtos, a quantia de R$ 824,00”.
+    Requer o deferimento da medida liminar para a imediata aplicação do princípio da insignificância com a consequente absolvição da paciente. No mérito, pugna pela confirmação da liminar.
+    É o relatório. Decido.
+    A Ministra Laurita Vaz, Relatora do REsp 1.185.172/RS, em decisão monocrática, deu provimento ao recurso, nos termos de decisão assim ementada:
+    “RECURSO ESPECIAL. PENAL. TENTATIVA DE FURTO QUALIFICADO. ESTABELECIMENTO COMERCIAL COM SISTEMA DE VIGILÂNCIA ELETRÔNICO. NÃO OCORRÊNCIA DE CRIME IMPOSSÍVEL. APLICAÇÃO DO PRINCÍPIO DA INSIGINFICÂNCIA. BENS DE VALOR CONSIDERÁVEL (R$ 824,60). NÃO CARACTERIZAÇÃO DA BAGATELA. RECURO PROVIDO”.
+    Neste juízo preliminar, observo que a tentativa de furto envolveu produtos avaliados em R$ 824,00, ou seja, o equivalente a quase o dobro do valor do salário mínimo vigente à época dos fatos (R$ 415,00). A partir de tal parâmetro, forçoso concluir pela expressividade do valor do bem objeto da tentativa de furto, o que enfraquece a tese da lesividade mínima da conduta e pode prejudicar a aplicação do princípio da insignificância.
+    Na esteira de julgados desta Suprema Corte, não pode ser considerado ínfimo o furto de objetos cujo valor seja expressivo, tido como parâmetro valorativo o salário mínimo vigente à época dos fatos. Assim, “não se considera de reduzida expressividade financeira o valor do bem que o paciente tentou subtrair – avaliado em R$ 250,00 (duzentos e cinquenta reais) –, se levado em conta que o valor do salário mínimo vigente à época era de R$ 380,00 (trezentos e oitenta) reais. 2. Conclui-se, portanto, que o valor do bem que o paciente tentou subtrair era equivalente a praticamente 2/3 (dois terços) do valor do salário mínimo vigente à época dos fatos” (HC 108.330/RS, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.4.2012).
+    Ademais, a liminar pleiteada tem caráter nitidamente satisfativa, confundindo-se com o mérito da matéria suscitada, cujo exame mais detido será realizado na oportunidade do julgamento do mérito pelo órgão colegiado.
+    Ante o exposto, indefiro o pedido de liminar.
+    Vista ao Ministério Público Federal para parecer.
+    Publique-se.
+    Brasília, 04 de junho de 2012.
+Ministra Rosa Weber
+Relatora
