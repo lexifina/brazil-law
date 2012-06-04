@@ -1,0 +1,28 @@
+Trata-se de habeas corpus impetrado pela Defensoria Pública da União em favor de Douglas Rodrigues Ferreira contra decisão proferida pelo Superior Tribunal de Justiça no HC 220.420/MG.
+    Narra a inicial que o paciente foi preso em flagrante no dia 15.7.2011 pela suposta prática do delito tipificado no art. 33, caput, da Lei 11.343/06, ao ser abordado com 23 (vinte e três) pedras de crack. Informa que a prisão em flagrante foi convertida em preventiva com esteio na gravidade abstrata da conduta.
+    Contra tal situação, a defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem pleiteada. A questão também foi submetida ao Superior Tribunal de Justiça, que igualmente denegou a ordem.
+    No presente writ, sustenta a inidoneidade dos motivos ensejadores da prisão preventiva, baseada na gravidade em abstrato da conduta. Aponta desacerto no ato coator, o qual corroborou a necessidade da segregação cautelar, considerando, além da necessidade da garantia da ordem pública, a vedação da liberdade provisória prevista no art. 44 da Lei 11.343/06.
+    Requer a concessão de provimento liminar para determinar a imediata soltura do paciente.
+    Eis o teor do acórdão impugnado:
+    “HABEAS CORPUS. PRISÃO EM FLAGRANTE. TRÁFICO ILÍCITO DE DROGAS. INDEFERIMENTO DO PEDIDO DE LIBERDADE PROVISÓRIA. VALIDADE DA VEDAÇÃO CONTIDA NO ART. 44 DA LEI N.º 11.343/06. QUANTIDADE DE DROGA APREENDIDA (13 PEDRAS DE CRACK). MOTIVAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MATÉRIA NÃO VENTILADA PERANTE A CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM DENEGADA.
+    1. É firme a orientação da Quinta Turma deste Superior Tribunal de Justiça no sentido de que a vedação expressa da liberdade provisória nos crimes de tráfico ilícito de entorpecentes é, por si só, motivo suficiente para impedir a concessão da benesse ao réu preso em flagrante por crime hediondo ou equiparado, nos termos do disposto no art. 5.º, inciso XLIII, da Constituição da República, que impõe a inafiançabilidade das referidas infrações penais. Precedentes desta Turma e do Supremo Tribunal Federal.
+    2. Ademais, no caso, a decisão que indeferiu o pedido de liberdade provisória foi fundamentada na quantidade e natureza da droga apreendida (23 pedras de crack), motivação idônea, que, por si só, justifica a negativa do benefício.
+    3. A tese de excesso de prazo na formação da culpa não foi suscitada e, tampouco, apreciada pelo Tribunal a quo. O exame dessa alegação, nesta oportunidade, configuraria vedada supressão de instância.
+    4. Habeas corpus parcialmente conhecido e, nessa parte, DENEGADO”.
+    O Juiz de Direito da 3ª Vara de Tóxicos de Belo Horizonte converteu a prisão em flagrante do paciente Douglas Rodrigues Ferreira em preventiva, merecendo destaque o seguinte trecho do decreto condenatório:
+    “(...) a despeito da primariedade, há indícios de autoria do mesmo nos fatos narrados no respectivo auto, sendo encontradas com o mesmo 23 (vinte e três) pedras de crack, embaladas para a venda, o que evidencia a prática da mercância ilícita, não sendo possível, portanto, a concessão da liberdade provisória”.
+    Nesse contexto, o Superior Tribunal de Justiça não verificou ilegalidade flagrante no acórdão do Tribunal Mineiro contra o qual se insurgiu o paciente, nos autos do HC 220.420/MG.
+    De fato, é possível, em tese, concluir-se pela existência de risco à ordem pública, pois as circunstâncias concretas do crime, consubstanciadas na quantidade da droga apreendida, principalmente na forma de acondicionamento e ainda na potencialidade lesiva da droga especificamente apreendida, crack, são indicativas de possível envolvimento do paciente na atividade de tráfico, do que se depreende risco de reiteração delitiva.
+    Em verdade, não se trata de prisão decretada com base na gravidade abstrata do crime, mas fundada em princípio nas circunstâncias concretas de aparente tráfico de drogas, a revelarem pelo modus operandi o risco de reiteração delitiva e, por conseguinte, à ordem pública, fundamento suficiente para a decretação da preventiva, conforme art. 312 do Código de Processo Penal.
+    Nesse sentido, vários precedentes desta Suprema Corte (v.g.: HC 109.436, Rel. Min. Ayres Britto, 2ª Turma, Dje-036, de 17.02.2012; HC 104.332/ES, Rel. Min. Dias Toffoli, 1ª Turma, Dje-175, de 12.9.2011; HC 98.754/SP, Rel. Min. Ellen Gracie, 2ª Turma, Dje-232, de 10.12.2009), dentre os quais destaco o seguinte:
+    "Este Supremo Tribunal assentou que a periculosidade do agente evidenciada pelo modus operandi e o risco concreto de reiteração criminosa são motivos idôneos para a manutenção da custódia cautelar.” (HC 110.313/MS, Rel. Min. Carmen Lúcia 1.ª Turma do STF un. - j. 13.12.2011 Dje-032, de 13.02.2012).
+    Por tais motivos, o Tribunal de Justiça ainda consignou que as medidas cautelares do art. 319 do Código de Processo Penal não seriam capazes de prevenir a ocorrência de danos à ordem pública.
+    Por outro lado, tendo a prisão sido mantida na distante data de 20.7.2011, é de se aventar a possibilidade de que o caso já tenha sido julgado nesse momento.
+    Em síntese, não vislumbro manifesta ilegalidade ou abuso de poder no acórdão do Superior Tribunal de Justiça, que denegou o HC 220.420/MG.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações da 3ª Vara de Tóxicos da Justiça Estadual de Belo Horizonte a respeito da situação atual da ação penal contra o ora paciente, Douglas Rodrigues Ferreira (processo 02411.211.203-2).
+    Vindo as informações, vista ao Ministério Público Federal para parecer.
+    Intime-se. Publique-se.
+    Brasília, 04 de junho de 2012.
+Ministra Rosa Weber
+Relatora
