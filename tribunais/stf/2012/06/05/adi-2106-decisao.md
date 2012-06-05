@@ -1,0 +1,23 @@
+Decisão: Trata-se de ação direta de inconstitucionalidade ajuizada pelo Procurador-Geral da República contra a Decisão Administrativa exarada pelo Tribunal Regional do Trabalho da 15ª Região, na Sessão Administrativa do dia 21 de setembro de 1999, que decidiu incluir a parcela autônoma de equivalência na base de cálculo da representação mensal, autorizando, ainda, o pagamento de diferenças vencidas desde a vigência da Lei 8.448/1992 e vincendas até a fixação dos subsídios dos magistrados, bem como as diferenças decorrentes da gratificação adicional por tempo de serviço.
+    Afirma o requerente que tal decisão é passível de controle abstrato de constitucionalidade, pois tem caráter normativo, abstrato e geral para magistrados vinculados ao referido Tribunal, visto que aumentou a remuneração destes, sem autorização legal e dotação orçamentária prévia.
+    Sustenta que a previsão do Decreto-lei 2371/1987, que instituiu a verba de representação dos membros do poder Judiciário, era a de que tal verba incidisse apenas sobre o vencimento básico dos magistrados e não sobre a soma deste com a parcela de equivalência.
+    Alega afronta aos arts. 48, caput, inciso II, alínea b e art. 169, § 1º da Constituição Federal, com a redação dada pela Emenda Constitucional 19/1998.
+    Nas informações, o TRT da 15ª Região sustenta que a parcela de equivalência deve ser considerada como base de cálculo da verba de representação, visto que tem caráter remuneratório e é considerada no cálculo de diversas outras parcelas concedidas à Magistratura, além de sobre ela incidir contribuição previdenciária e fiscal.
+    Alega que o ato administrativo impugnado não trata de aumento de vencimentos e sim de interpretação estrita de lei. Informa, ainda, que o pagamento dos magistrados só foi efetuado conforme a decisão ora impugnada, no mês de setembro de 1999, em face de uma liminar concedida pelo Tribunal Superior do Trabalho em ação em que se questionava a mesma decisão administrativa.
+    Em 17.02.2000, o Plenário desta Corte, por maioria, concedeu a medida liminar, para suspender, com efeitos ex tunc, a eficácia do ato normativo impugnado.
+    O Advogado-Geral da União manifesta-se pela procedência do pedido (fls. 54-69).
+    O Procurador-Geral da República, em seu parecer, ratifica os termos da inicial, pugnando pela inconstitucionalidade do ato normativo impugnado (fls. 72-75).
+    Em 02 de maio de 2012, solicitei informações complementares ao Tribunal Regional do Trabalho da 15ª Região acerca da vigência do ato normativo objeto da presente ação direta de inconstitucionalidade.
+    Por meio da petição 27532/2012, o TRT – 15ª Região informa que a Decisão Administrativa colegiada de 1999 “foi sobrepujada pelas liminares concedidas pelo STF (em 17.02.2000) e pelo TST (em 29.09.1999) e, posteriormente, por decisão definitiva no âmbito do Tribunal Superior do Trabalho; ao mesmo tempo, os valores recebidos pelos magistrados foram devolvidos em acertos que envolviam valores devidos de abono variável”.
+    É o relatório.
+    Decido.
+    A jurisprudência desta Corte é pacífica no sentido de que “se a norma inquinada de inconstitucionalidade em sede do controle abstrato deixa de integrar o ordenamento jurídico, porque revogada, torna-se insubsistente o interesse de agir, o que implica prejudicialidade, por perda do objeto” (ADI 795, rel. min. Maurício Corrêa, Pleno, DJ de 06.12.1996). No mesmo sentido: ADI 520, rel. min. Maurício Corrêa; ADI 1952-QO, rel. min. Moreira Alves. Em outras palavras, “a revogação ulterior da lei questionada realiza, em si, a função jurídica constitucional reservada a ação direta de expungir do sistema jurídico a norma inquinada de inconstitucionalidade” (ADI 709, rel. min. Paulo Brossard, DJ 24.06.1994).
+    No presente caso, de acordo com as informações prestadas pelo Tribunal Regional do Trabalho da 15ª Região, a Decisão Administrativa impugnada na presente ação direta de inconstitucionalidade foi substituída por decisão contrária do Tribunal Superior do Trabalho, conforme acórdão proferido no julgamento do RMA 607.338/99.1 (fls. 94-99).
+    Em outras palavras, a Decisão Administrativa exarada pelo Tribunal Regional do Trabalho da 15ª Região, na Sessão Administrativa do dia 21 de setembro de 1999, não mais subsiste no ordenamento jurídico.
+    Do exposto, com fundamento no art. 21, IX do Regimento Interno do Supremo Tribunal Federal, julgo prejudicada a presente ação direta de inconstitucionalidade, por perda superveniente de seu objeto.
+    Publique-se.
+    Arquive-se.
+    Brasília, 05 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
