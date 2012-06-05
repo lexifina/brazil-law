@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Olivia Sanches Tavares Silva, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC nº 173.955/SP, impetrado àquela Corte, Relator o Ministro Marco Aurélio Bellizze.
+    Sustenta a impetrante a inexistência de “incompatibilidade na concessão de livramento condicional ao sentenciado estrangeiro no Brasil quando existe decreto de expulsão ou inquérito administrativo com essa finalidade” (fl. 6 da inicial).
+    Em abono a esses argumentos aduz que “ao estrangeiro devem-se assegurar todos os direitos que lhe são inerentes, porque, antes de mais nada, ele é um ser humano, o que transcende à sua condição de não nacional, conforme consta da Declaração Universal dos Direitos Humanos, proclamada pela Assembléia Geral das Nações Unidas em Paris, em 10 de Dezembro de 1948, por meio da Resolução 217 A (III) da Assembléia Geral, como uma norma comum a ser alcançada por todos os povos e nações (...)” (fl. 7 da inicial). Por essa razão, entende que “não poderia deixar de constar dos direitos dos estrangeiros em território brasileiro a possibilidade de gozar os benefícios previstos na Lei de Execução Penal (LEP). É o que se analisará no próximo tópico” (fl. 10 da inicial).
+    Assevera, ainda, que “o Estado brasileiro está submetido ao império da lei. E não se encontra na legislação brasileira razão para impedir, de forma antecipada e genérica, que o estrangeiro sentenciado desfrute das vantagens proporcionadas no curso de sua execução penal. E ainda que existisse essa proibição legal, ela sucumbiria aos preceitos constitucionais da proteção da dignidade da pessoa humana, da individualização da pena e da humanização da execução penal” (fl. 10 da inicial).
+    Requer o deferimento da liminar para suspender os “efeitos do acórdão do TJ/SP até o julgamento definitivo do writ, restabelecendo a decisão do Juízo singular de concessão do livramento condicional” (fl. 19 da inicial) e, no mérito, pede a concessão da ordem para que seja assegurado o livramento condicional à paciente.
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que:
+    “(...)
+    Segundo informações contidas nos autos, em 13/10/2008, o Juízo da Segunda Vara de Execuções Criminais da Comarca de São Paulo/SP deferiu à ora paciente o livramento condicional.
+    Por entender que a paciente não tem direito ao benefício, visto que é estrangeira, proveniente de Cabo Verde (África), condenada por tráfico ilícito de entorpecentes, e por não ter comprovado que está em situação regular no país, o Ministério Público do Estado de São Paulo (MPE/SP) interpôs agravo em execução.
+    A 14a Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo (TJ/SP), por sua vez, em 13/05/2010, acolheu os argumentos do Parquet, proferindo a seguinte decisão:
+    ‘DERAM PROVIMENTO AO AGRAVO MINISTERIAL PARA INDEFERIR O PEDIDO DE LIVRAMENTO CONDICIONAL DE OLÍVIA SANCHES TAVARES SILVA, DEVENDO A MESMA RETORNAR AO REGIME FECHADO. EXPEÇA-SE O NECESSÁRIO E FAÇAM-SE AS DEVIDAS ANOTAÇÕES. V. U.’
+    Diante disso, a irresignação mudou de lado. A paciente buscou guarida no Superior Tribunal de Justiça (STJ), por meio de habeas corpus, com a finalidade de reformar o acórdão do TJ/SP e manter a decisão do Juízo singular.
+    Em 24/04/2012, a Egrégia Quinta Turma do STJ denegou a ordem (...)” (fls. 1 a 3 da inicial).
+    Transcrevo o teor da ementa do acórdão ora questionado:
+    “PROCESSUAL PENAL. EXECUÇÃO PENAL. HABEAS CORPUS. ESTRANGEIRO. PROCESSO DE EXPULSÃO. LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE DE COMPATIBILIZAÇÃO COM OS REQUISITOS LEGAIS. ORDEM DENEGADA.
+    1. Há incompatibilidade entre as condições legais necessárias à concessão do livramento condicional - obter ocupação lícita e manutenção de residência fixa - com a existência de inquérito ou decreto de expulsão de estrangeiro, dada a impossibilidade de sua permanência no país, com ou sem trabalho lícito, em função da prática de conduta que tornou a sua continuidade no Brasil nociva à conveniência e aos interesses nacionais. Precedentes da Quinta Turma e do Supremo Tribunal Federal.
+    2. Habeas corpus denegado” (fl. 73 do anexo 3 – grifos conforme o original).
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal, o que não se verifica na espécie.
+    Pelo que se depreende do julgado proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste momento, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, a decisão proferida por aquela Corte encontra-se suficientemente motivada, restando justificado o convencimento formado, além de estar em sintonia com o entendimento desta Suprema Corte, preconizada no sentido de que “o decreto de expulsão, de cumprimento subordinado à prévia execução da pena imposta no País, constitui empecilho ao livramento condicional do estrangeiro condenado” (HC nº 83.723/MG, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 30/4/04)
+    Perfilhando esse entendimento, destaco:
+    “HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO DE EXPULSÃO DE ESTRANGEIRO. PEDIDO DE LIVRAMENTO CONDICIONAL. INADMISSIBILIDADE. ORDEM DENEGADA. 1. É firme a jurisprudência deste Supremo Tribunal no sentido de que o decreto de expulsão, de cumprimento subordinado à prévia execução da pena imposta no País, constitui empecilho ao livramento condicional do estrangeiro condenado. 2. A análise dos requisitos para concessão do benefício de livramento condicional ultrapassa os limites estreitos do procedimento sumário e documental do habeas corpus. 3. Ordem denegada” (HC nº 99.400/RJ, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 28/5/10)
+    Com essas considerações, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com as peças necessárias à perfeita compreensão da controvérsia, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 5 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
