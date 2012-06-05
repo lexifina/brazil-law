@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra a parte do acórdão que entendeu pela inaplicabilidade da Súmula 343 do STF nas ações rescisórias que versam sobre matéria constitucional.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, II e XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido está em harmonia com entendimento firmado nesta Corte no sentido de que a Súmula 343 do STF não tem aplicação quando a ação rescisória tratar de ofensa a normas constitucionais, consoante se observa do julgamento do RE 328.812-ED/AM, Rel. Min. Gilmar Mendes, cuja ementa transcrevo a seguir:
+    “Embargos de Declaração em Recurso Extraordinário. 2. Julgamento remetido ao Plenário pela Segunda Turma. Conhecimento. 3. É possível ao Plenário apreciar embargos de declaração opostos contra acórdão prolatado por órgão fracionário, quando o processo foi remetido pela Turma originalmente competente. Maioria. 4. Ação Rescisória. Matéria constitucional. Inaplicabilidade da Súmula 343/STF. 5. A manutenção de decisões das instâncias ordinárias divergentes da interpretação adotada pelo STF revela-se afrontosa à força normativa da Constituição e ao princípio da máxima efetividade da norma constitucional. 6. Cabe ação rescisória por ofensa à literal disposição constitucional, ainda que a decisão rescindenda tenha se baseado em interpretação controvertida ou seja anterior à orientação fixada pelo Supremo Tribunal Federal. 7. Embargos de Declaração rejeitados, mantida a conclusão da Segunda Turma para que o Tribunal a quo aprecie a ação rescisória” (grifos meus).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: RE 382.960-AgR/DF, Rel. Min. Gilmar Mendes; AI 586.205-AgR-AgR/PR, AI 763.981/RJ e RE 578.674/PE, Rel. Min. Ayres Britto; RE 564.781-AgR/ES, Rel. Min. Ellen Gracie; AI 670.162/CE, Rel. Min. Joaquim Barbosa; RE 500.043-AgR/GO e AI 818.048/DF, Rel. Min. Cármen Lúcia; AI 555.806-AgR/MG, Rel. Min. Eros Grau; RE 604.785/RS, ARE 637.730/SE e RE 453.984-AgR/SE, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
