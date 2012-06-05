@@ -1,0 +1,29 @@
+embargos de divergência. acórdão proferido em recurso sem avançar no mérito da questão. Incabíveis. demonstração, de maneira objetiva, mediante análise comparativa entre o acórdão paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial. Ausência. Embargos de divergência não admitidos.
+1 . O entendimento desta Corte é no sentido de que são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão.
+2 . A parte embargante, sob pena de recusa liminar de processamento dos embargos de divergência - ou de não-conhecimento destes, quando já admitidos - deve demonstrar, de maneira objetiva, mediante análise comparativa entre o acórdão paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial. Precedentes.
+3 . Embargos de divergência não admitidos.
+    Decisão: Trata-se de embargos de divergência opostos por Lojas Americanas s/a contra acórdão da segunda turma desta Suprema Corte, da relatoria da ministra ellen gracie, assim ementado:
+    “Devido processo legal. Contraditório. Ampla defesa. Ofensa indireta.
+    1. A discussão constitui matéria de índole infraconstitucional, cujo exame se mostra inviável no âmbito extraordinário.
+    2. Agravo regimental a que se nega provimento.”
+    Em suas razões, a embargante sustenta que o decisum objurgado dissente de orientação firmada pela primeira turma desta Corte, no julgamento do RE 607.463-AgR, relator o ministro marco Aurélio.
+    É o relatório. Decido.
+    O artigo 330 do Regimento Interno do Supremo Tribunal Federal estabelece que: Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    In casu, os embargos de divergência foram opostos contra acórdão que negou provimento a agravo regimental em agravo de instrumento, ante a ausência de matéria constitucional.
+    É assente nesta Corte o entendimento de que são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão.
+    Nesse sentido, o seguinte julgado:
+    “processual civil. embargos de divergência. interposição contra acórdão que mantém decisão que nega seguimento a agravo de instrumento, sem exame do mérito, por ausência de requisitos processuais. não cabimento. acórdãos confrontados tratam de temas diversos. inadmissão dos embargos de divergência. agravo regimental improvido.
+    I- Consoante entendimento desta Corte, são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão.
+    II - Cabem embargos de divergência contra acórdão de Turma que, em recurso extraordinário ou agravo de instrumento, divergir de julgado de outra Turma ou do Plenário do stf, desde que os acórdãos confrontados tratem do mesmo thema decidendum.
+    III - É inviável, em embargos de divergência, a realização de cotejo analítico entre aresto paradigma que examina mérito com acórdão embargado que apenas nega seguimento a agravo de instrumento por deficiência em sua formação.
+    IV- Agravo regimental improvido.” (AI 541.920-AgR-ED-EDv-AgR, relator o ministro ricardo lewandowski, dje de 09.02.2011).
+    Ademais, a embargante descumpriu preceito regimental (RISTF, art. 331), uma vez que não demostrou, de forma explícita, a divergência entre a decisão embargada e os paradigmas apontados como dissidentes, tampouco mencionou as circunstâncias que identificam os casos em confronto.
+    É firme a jurisprudência desta Corte no sentido de que a parte embargante, sob pena de recusa liminar de processamento dos embargos de divergência - ou de não-conhecimento destes, quando já admitidos - deve demonstrar, de maneira objetiva, mediante análise comparativa entre o acórdão paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial. Eis a ementa do referido julgado:
+    “embargos de divergência - descumprimento, pela parte embargante, do dever processual de proceder ao confronto analítico entre os acórdãos dados como divergentes, de um lado, e a decisão embargada, de outro - insuficiência da mera transcrição das ementas pertinentes aos acórdãos invocados como referência paradigmática - recurso de agravo improvido.
+    - A parte embargante, sob pena de recusa liminar de processamento dos embargos de divergência - ou de não-conhecimento destes, quando já admitidos - deve demonstrar, de maneira objetiva, mediante análise comparativa entre o acórdão paradigma e a decisão embargada, a existência do alegado dissídio jurisprudencial, impondo-se-lhe reproduzir, na petição recursal, para efeito de caracterização do conflito interpretativo, os trechos que configuram a divergência indicada, mencionando, ainda, as circunstâncias que identificam ou que tornam assemelhados os casos em confronto, não bastando, para os fins a que se refere o art. 331 do RISTF, a mera transcrição das ementas dos acórdãos invocados como referências paradigmáticas, nem simples alegações genéricas pertinentes à suposta ocorrência de dissenso pretoriano. Precedentes.”(RE 202.097-ED-EDv-AgR, Relator o Ministro Celso de Mello , Pleno, DJ de 02.05.2003).
+    Ex positis, não admito os presentes embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335).
+    Publique-se. Int..
+    Brasília, 5 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
