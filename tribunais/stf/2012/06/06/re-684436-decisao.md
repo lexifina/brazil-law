@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “TRIBUTÁRIO. TARIFA DE DEMANDA. DECRETO Nº 62.724/68. LEI Nº 8.631/93. RESOLUÇÃO Nº 456/2000 DA ANEEL.
+    A Lei nº 8.631/93 não revogou expressamente o Decreto nº 62.724/68, possibilitando à ANEEL editar a Resolução nº 456/2000 para a exigência da tarifa de demanda dos consumidores do Grupo A.
+    Inexistência de ofensa ao Código de Defesa do Consumidor” (fl. 688).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II e XXXV, 145, II, e 150, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. É o caso dos autos em relação à alegada violação ao art. 150, I, da CF.
+    Quanto ao art. 5º, XXXV, da Constituição, observe-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Resolução 456/2000, Lei 8.631/1993, Decreto 62.724/1968 e Código de Defesa do Consumidor). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco o julgamento do RE 601.921-AgR/SC, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ENERGIA ELÉTRICA: DEMANDA DE POTÊNCIA E DE ULTRAPASSAGEM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Com o mesmo raciocínio, menciono as seguintes decisões, entre outras: AI 843.810-AgR/SC e AI 849.299/SC, Rel. Min. Gilmar Mendes; RE 639.692/RS, Rel. Min. Dias Toffoli; RE 641.348/SC, Rel. Min. Ayres Britto; RE 644.647-AgR/SC, RE 611.486/PR e RE 634.894/RS, Rel. Min. Cármen Lúcia; RE 603.334/PR, Rel. Min. Joaquim Barbosa; RE 602.613/PR e RE 637.068/RS, de minha relatoria.
+    É certo, ainda, que este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo Juízo a quo (Súmula 636 do STF).
+    Por fim, com a negativa de provimento, pelo Superior Tribunal de Justiça, ao agravo de instrumento interposto contra decisão que inadmitiu o recurso especial da recorrente (Ag 1.394.364/SC, com trânsito em julgado certificado à fl. 827), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
