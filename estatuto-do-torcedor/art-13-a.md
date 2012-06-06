@@ -8,4 +8,5 @@ VI - não arremessar objetos, de qualquer natureza, no interior do recinto espor
 VII - não portar ou utilizar fogos de artifício ou quaisquer outros engenhos pirotécnicos ou produtores de efeitos análogos;.
 VIII - não incitar e não praticar atos de violência no estádio, qualquer que seja a sua natureza; e.
 IX - não invadir e não incitar a invasão, de qualquer forma, da área restrita aos competidores.
+X - não utilizar bandeiras, inclusive com mastro de bambu ou similares, para outros fins que não o da manifestação festiva e amigável.
 Parágrafo único. O não cumprimento das condições estabelecidas neste artigo implicará a impossibilidade de ingresso do torcedor ao recinto esportivo, ou, se for o caso, o seu afastamento imediato do recinto, sem prejuízo de outras sanções administrativas, civis ou penais eventualmente cabíveis.
