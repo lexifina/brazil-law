@@ -1,0 +1,25 @@
+DECISÃO
+  AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECONSIDERAÇÃO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PERDA SUPERVENIENTE DO OBJETO. AGRAVO DE INSTRUMENTO PREJUDICADO.
+Relatório
+    1. Em 14 de outubro de 2011, neguei seguimento ao agravo de instrumento contra decisão de inadmissibilidade do recurso extraordinário interposto por Newton Luiz Andreucci e outros contra julgado proferido pelo Tribunal de Justiça de São Paulo, o qual manteve decisão que em execução provisória indeferira pedido de expedição de editais nos termos do art. 34 do Decreto-Lei n. 3.365/1941 (fls. 137-140) .
+    2. Publicada essa decisão no Dje de 25.10.2011 (fl. 141), Newton Luiz Adreucci e outros interpuseram, em 3.11.2011, tempestivamente, agravo regimental (143-147).
+    3. Sustentam os Agravantes que
+    “diante do fato novo ocorrido no presente feito, se digne de considerar prejudicada a v. Decisão agravada, uma vez que a situação processual anterior não mais permanece em vigor, tendo desaparecido o impedimento legal referente à falta de coisa julgada para permitir a execução de sentença, eis que a partir do efetivo trânsito em julgado ocorrido em 13.11.2009, o feito transformou-se em execução definitiva, sendo não só autorizada a publicação dos editais para conhecimento de terceiros prevista no art. 34 da Lei de Desapropriações, como representado este ato obrigatório a ser praticado pelas partes e pelo juízo, como próximo passo indispensável à regular condução da causa e para o devido processo legal” (fl. 144).
+    Requerem a declaração de prejuízo do agravo de instrumento.
+    4. Em 3.11.2011, os ora Agravantes peticionam para informar novamente a existência de fato novo impeditivo do julgamento do presente recurso (trânsito em julgado da execução definitiva), requerendo, assim, a declaração de prejuízo do agravo de instrumento, com base no art. 462 do Código de Processo Civil, “devolvendo a matéria à Primeira Instância, a fim de que possa ser dado regular processamento da execução” (fl. 151).
+    5. As partes trouxeram fato novo extintivo do direito discutido nestes autos, nos termos do art. 462 do Código de Processo Civil, razão pela qual reconsidero a decisão de fls. 136-140, ficando prejudicadas as razões do agravo regimental e da petição n. 85.073/2011.
+    Passo ao exame, desde logo, do agravo de instrumento.
+    6. Na espécie vertente, o Tribunal a quo negou provimento a agravo de instrumento interposto contra decisão interlocutória proferida em execução provisória de decreto expropriatório, “que indeferiu pedido dos expropriados, ora Agravantes, no sentindo de ser expedido edital, para fins do art. 34 do DL n. 3.365/1941” (fl. 31).
+    O objeto do recurso extraordinário interposto por Newton Luiz Andreucci e outros, ora Agravantes, restringiu-se à nulidade do acórdão recorrido para determinar “a expedição de guia para levantamento das parcelas relativas à verba de sucumbência e do salário do Sr. Louvado dos expropriados, assim como, a expedição de edital para conhecimento de terceiros, segundo determina o art. 34 do DL 3.365/1941” (fl. 54).
+    Examinados os elementos havidos nos autos, DECIDO.
+    7. O agravo de instrumento está prejudicado.
+    Os Agravantes trazem a informação de que a execução definitiva do crédito decorrente de ação expropriatória transitou em julgado em 28.10.2009, conforme demonstram às fls. 132 e 148 dos autos.
+    Desse modo, informam a ausência de interesse recursal no prosseguimento deste processo (execução provisória), por perda superveniente de objeto recursal, pois extintos os óbices processuais ao cumprimento das pretensões dos Agravantes (publicação dos editais nos termos do art. 34 do Decreto-lei n. 3.365/1941 e levantamento das verbas pleiteadas).
+    Atendidas as pretensões recursais dos Agravantes, é de ser reconhecido o prejuízo do presente agravo de instrumento. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PEDIDO DE INTIMAÇÃO ESPECÍFICA. RECURSO ESPECIAL PROVIDO. RECURSO EXTRAORDINÁRIO PREJUDICADO: PERDA SUPERVENIENTE DE OBJETO. ART. 512 DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Atendida a pretensão recursal no julgamento do recurso especial, é de ser reconhecido o prejuízo do recurso com o mesmo objeto” (RE 662.773-AgR, de minha relatoria, Primeira Turma, Dje 25.4.2012).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. PERDA SUPERVENIENTE DE OBJETO. AGRAVO PREJUDICADO. I - A pretensão deduzida no recurso extraordinário perdeu seu objeto, prejudicando, pois, o recurso de agravo nele interposto. II – Agravo regimental improvido” (ARE 639.404-AgR, Rel. Ricardo Lewandowski, Segunda Turma, DJe 10.2.2012).
+    8. Pelo exposto, julgo prejudicado o agravo de instrumento, por perda superveniente de objeto (art. 557, caput, do Código de Processo Civil e art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
