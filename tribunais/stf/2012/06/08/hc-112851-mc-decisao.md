@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Danyelle da Silva Galvão, em favor de Ciro Walter Saraiva de Oliveira, contra decisão proferida pelo Min. Jorge Mussi, relator do HC 233.467/DF, do Superior Tribunal de Justiça (STJ), que indeferiu liminarmente a petição inicial.
+    Na espécie, o paciente é sócio gestor da empresa Pneus Way Pneus e Serviços Automotivos LTDA., contra a qual foi deferida medida cautelar de busca e apreensão pelo Juízo da 10ª Vara Federal de Brasília/DF.
+    O pedido de busca e apreensão foi requerido pelo Ministério Público Federal, visando à obtenção de elementos materiais e de convicção referentes à suposta prática dos crimes previstos nos arts. 203, 337-A, ambos do CP e arts. 1º, incisos I, II, III e IV e 2º, incisos I e II, ambos da Lei 8.137/90, concernente ao pagamento de comissões indevidas a empregados da PNEULINE PNEUS E SERVIÇOS LTDA. e PNEUS WAY PNEUS E SERVIÇOS AUTOMOTIVOS LTDA., sem o recolhimento de contribuições previdenciárias.
+    O Juízo da 10ª Vara Federal de Brasília/DF deferiu o pedido com os seguintes fundamentos:
+    “No caso dos autos, verifico restar devidamente demonstrada a ocorrência de fundadas razões autorizando a realização da busca para apreender instrumentos e documentos utilizados na prática de crimes, descobrir objetos necessários à prova da infração ou colher quaisquer outros elementos de convicção necessários à elucidação dos fatos, nos termos do artigo 240 do Código de Processo Penal.
+    Constata-se dos autos que em várias decisões proferidas em processos trabalhistas, instaurados por empregados da PNEULINE PNEUS E SERVIÇOS LTDA. e PNEUS WAY PNEUS E SERVIÇOS AUTOMOTIVOS LTDA., foram reconhecidos pagamentos de remunerações ilegais a determinados empregados, sem o recolhimento da carga tributária incidente, fato este, inclusive, corroborado por declarações testemunhais e inspeções judiciais realizadas nas referidas empresas.
+    Ademais, em sede de procedimento fiscal instaurado pela Receita Federal, foram realizadas entrevistas com ex-funcionários das empresas que confirmaram que existem dois tipos de comissão extra-folha, quais sejam, a comissão semanal denominada boca de caixa paga em dinheiro aos sábados no final do expediente e comissão mensal paga até o 5º dia útil, em dinheiro, deduzidos os valores já depositados como salários nas contas-correntes de funcionários.
+    Dessa forma, a realização da busca e apreensão de recibos de pagamento de comissões assinados pelos empregados das empresas, sistemas informatizados e relatórios de pagamentos de comissões, livros contáveis e folhas de pagamento paralelas, e quaisquer outros documentos e equipamentos, inclusive, de informática de interesse da fiscalização ou que comprovem a prática dos crimes e ilícitos nos períodos de 01/2006 a 12/2008 se faz necessária para a reunião de documentos que possam constituir prova material e auxiliar na demonstração dos crimes sob investigação.
+    Ante o exposto, defiro o pedido para autorizar a realização de busca e apreensão (…)
+    A busca e apreensão deve ser realizada de forma seletiva, de modo que sejam apreendidos apenas os elementos de prova relativos aos fatos sob investigação.
+    Deve a autoridade policial restituir os computadores que forem apreendidos no prazo de 72 horas, como forma de viabilizar o retorno das atividades empresariais do investigado, bem como observar os mandamentos contidos nos artigos 245, 246, 247, 248 e 249 do Código de Processo Penal”.
+    A defesa, então, impetrou habeas corpus no Tribunal Regional Federal da 1ª Região, que concedeu parcialmente a ordem tão somente para que fossem devolvidos ao paciente os documentos relativos aos períodos não compreendidos entre janeiro de 2006 e dezembro de 2008.
+    Daí a impetração de habeas corpus no STJ, sustentando, em síntese, a incompetência do Juízo que deferiu a busca e apreensão, bem como a ausência de justa causa para o deferimento da medida cautelar por inexistência de constituição definitiva do crédito tributário.
+    O Min. Jorge Mussi indeferiu liminarmente o writ, nos seguintes termos:
+    “Em que pese os argumentos expostos na inicial, o writ não merece conhecimento.
+    Isso porque é cediço que o habeas corpus é o remédio instituído pelo poder constituinte originário para a garantia do direito de locomoção previsto no artigo 5º, inciso XV, da Constituição Federal, sendo cabível sempre que este for violado ou se encontrar ameaçado de violação por ilegalidade ou abuso de poder, nos termos do inciso LXVIII do citado dispositivo constitucional.
+    Constata-se, assim, a inadequação da via eleita pelos impetrantes para pleitear a anulação de medida cautelar de busca e apreensão, porquanto não configurada qualquer das hipóteses de cabimento do writ, tendo em vista que não está em discussão a liberdade pessoal do paciente, sequer por via oblíqua.
+    (...)
+    Portanto, não se vislumbra qualquer risco à liberdade de locomoção do paciente, razão pela qual é inviável conhecer-se do habeas corpus em comento, por se afigurar manifestamente incabível.
+    Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefere-se liminarmente a petição inicial”.
+    Agora, a defesa alega: “a busca e apreensão deferida tem estreita relação com a liberdade de locomoção do paciente, pois os documentos apreendidos serão utilizados como elementos a sustentar procedimento investigativo ou mesmo ação penal contra o paciente”.
+    Destaca, ainda: “aceitar a busca e apreensão deferida por juiz criminal incompetente e sem que houvesse justa causa (constituição definitiva do crédito) é manter constrangimento ilegal que pode culminar em investigação criminal e oferecimento de denúncia criminal contra o paciente”.
+    Requer, inclusive liminarmente, seja determinado “ao E. Superior Tribunal de Justiça, na pessoa do E. Ministro Jorge Mussi, que conheça do habeas corpus nº 233467 impetrado em favor do Paciente e garanta seu regular processamento e julgamento”.
+    Passo a decidir.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora .
+    No caso dos autos, o deferimento do requerido, a título de liminar, implicaria tutela satisfativa, que de certo modo exauriria o objeto da causa e, por consequência, usurparia ao órgão competente, a Turma, a apreciação do writ.
+    Ante o exposto, indefiro a liminar.
+    Estando os autos suficientemente instruídos, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 8 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
