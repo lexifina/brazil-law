@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+    Consta dos autos que o ora agravante foi condenado, juntamente com outros corréus, como incurso nos arts. 33 e 35 da Lei 11.343/2006, às penas de 07 (sete) anos e 06 (seis) meses de reclusão e multa, e 04 (quatro) anos de reclusão e multa, respectivamente, em regime inicial fechado.
+    Inconformado, interpôs recurso de apelação, ao qual o Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento, tão somente para reduzir as penas aplicadas, em acórdão cuja ementa tem o seguinte teor (fls. 602):
+    “APELAÇÃO CRIMINAL – TRÁFICO DE DROGAS – CONDENAÇÃO MANTIDA – ASSOCIAÇÃO PARA O TRÁFICO – PERMANÊNCIA CARACTERIZADA – CONDENAÇÃO MANTIDA – DECRETAÇÃO DO PERDIMENTO DOS BENS APREENDIDOS – CORREÇÃO DA MEDIDA – CIRCUNSTÂNCIAS JUDICIAIS – NOVA ANÁLISE – JUSTIÇA GRATUITA. I – A condenação pelo tráfico deve ser mantida porque restou amplamente provado que os apelantes guardavam droga ilícita com destinação comercial. Trata-se de crime de ação múltipla ou conteúdo variado que resta caracterizado pela prática de qualquer uma das condutas nucleares de modo consciente e voluntário (dolo). II – O animus associativo é a figura central do tipo penal do art. 35 da Lei 11.343/2006 e deve restar comprovado de maneira cabal já que o simples concurso não é o bastante para essa finalidade. III – As circunstâncias judiciais subjetivas contidas no art. 59 do CP devem ser analisadas em conformidade com os parâmetros doutrinário e jurisprudencial e, ainda, deve possuir amparo nas provas dos autos. IV – O art. 805 do Código de Processo Penal bem como a Lei Estadual 14939/03 possibilitam a isenção de custas para os acusados em processo criminal que declarem ser pobres no sentido legal.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões recursais, o recorrente pugna por novo julgamento para que seja reduzida a pena imposta.
+    Decido.
+    O recurso não merece seguimento.
+    Inicialmente, verifico que os fundamentos da decisão agravada não foram impugnados nas razões do agravo, o que impede a apreciação do recurso, à luz do enunciado da Súmula 287 deste Tribunal.
+    Ademais, o recurso extraordinário é intempestivo. Com efeito, a publicação do acórdão deu-se em 01.09.2010 (quarta-feira), tendo o prazo para interposição de recurso expirado em 16.09.2010 (quinta-feira), ao passo que o recurso extraordinário deu entrada no protocolo do Tribunal de Justiça do Estado de Minas Gerais em 07.10.2010 (fls. 707).
+    Por outro lado, o Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.” (DJ de 06.09.2007).
+    Verifico que a publicação da decisão impugnada deu-se em 01.09.2010 (fls. 668) e a interposição do recurso extraordinário não se fez acompanhar da devida demonstração, nas razões recursais, da existência de repercussão geral, o que inviabiliza o apelo extraordinário.
+    Por fim, o recurso extraordinário não poderia ser conhecido, pois o recorrente em momento algum sustenta, em suas razões, uma suposta ofensa a dispositivo da Constituição, não sendo possível aferir o que busca com o presente recurso constitucional. Impõe-se, assim, a aplicação da Súmula 284 do Supremo Tribunal Federal, in verbis:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Do exposto, nego seguimento ao recurso (art. 38 da Lei 8.038/1990, c/c os arts. 21, § 1º, e 327, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 11 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
