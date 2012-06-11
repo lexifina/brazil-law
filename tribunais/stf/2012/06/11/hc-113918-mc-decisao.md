@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela advogada Daisy Cristine Neitzke Heuer em favor de Davi de Mattos, apontando como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 242.736/SC, impetrado àquela Corte.
+    Inicialmente, argumenta a impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais sustenta, em síntese, o constrangimento ilegal imposto ao paciente, tendo e vista o cerceamento de defesa ocorrido quando do julgamento da sua apelação. Aduz, para tanto, que o recurso teria sido julgado sem que tivessem sido apresentadas pela defesa do paciente as razões do inconformismo.
+    Alega que o devido processo legal assegura ao paciente o direito a apresentar as suas razões antes do julgamento do recurso de apelação.
+    Defende, ainda, que, “apesar de se tratar de apelação criminal que remonta do ano de 2004, a mesma vem sendo executada, tendo sido recentemente utilizada para fins de soma e unificação de penas, entendendo assim o paciente ser viável que lhe conceda o direito de recorrer em liberdade da sentença em face do excesso de prazo, decorrente da nulidade absoluta do julgamento da apelação” (fls. 4/5 da inicial – grifos conforme o original).
+    Requer o deferimento da liminar para suspender “os efeitos da condenação decorrente de nulo julgamento de acórdão por desobediência ao devido processo legal e contraditório permitindo-se que o paciente responda em liberdade o julgamento da apelação” e, no mérito, pede a concessão da ordem a fim de “anular o julgamento da apelação criminal interposta pelo paciente oportunizando-o a constituição de defensor, ou caso contrario nomeação de dativo, para fins de apresentar os motivos do seu inconformismo (...)” (fl. 12 da inicial).
+    Examinados os autos, decido.
+    Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Transcrevo o teor da decisão ora questionada:
+    “Trata-se de ‘habeas corpus’ com pedido liminar impetrado em favor de DAVI DE MATTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina, no julgamento da Apelação n. 2004.003289-7.
+    Sustenta a impetrante a ocorrência de constrangimento ilegal sob o argumento de que a ação penal estaria eivada de nulidade, porquanto teria sido julgado o apelo defensivo sem que o advogado do paciente tivesse apresentado as razões recursais.
+    Requer, liminarmente, a suspensão dos efeitos da condenação, e, no mérito, pugna pela anulação do julgamento do recurso de apelação.
+    É o relatório.
+    O pleito liminar em sede de ‘habeas corpus’, em razão da ausência de previsão legal de tal medida - a qual é admitida pela doutrina e jurisprudência pátrias apenas em caráter excepcional, quando evidenciado, de plano, o alegado constrangimento ilegal -, serve como meio de se acautelar o bem da vida posto em discussão no remédio constitucional, sendo inviável o seu deferimento quando verificada a sua carga eminentemente satisfativa.
+    E, na hipótese dos autos, não obstante os relevantes argumentos expostos na impetração, é inviável acolher-se a requerida tutela de urgência deduzida na inicial, porquanto a fundamentação que dá suporte à postulação liminar é idêntica à que dá amparo ao pleito final, isto é, confunde-se com o mérito do ‘mandamus’, o qual exige exame mais detalhado das razões colacionadas no ‘habeas corpus’ e da documentação que o acompanha, análise que se dará devida e oportunamente quando do julgamento definitivo do remédio constitucional.
+    Ante o exposto, indefere-se a liminar.
+    Solicitem-se informações à autoridade apontada como coatora, encarecendo o envio dos esclarecimentos necessários ao deslinde da questão.
+    Após, remetam-se os autos ao Ministério Público Federal para manifestação” (fl. 29 do anexo 3).
+    Não há como ter-se por desprovida de fundamentação ou teratológica a decisão que entende não haver elementos suficientes, demonstrados de plano, para o deferimento da liminar. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que tanto caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    A pretensão da impetrante é trazer ao conhecimento desta Suprema Corte, de forma precária, questões não analisadas, definitivamente, no Superior Tribunal de Justiça, em flagrante intenção de suprimir a instância antecedente.
+    Vale ressaltar, ainda, que o deferimento de liminar em habeas corpus constitui medida excepcional por sua própria natureza, justificada apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano. Com maior rigor deve ser tratada a questão, portanto, quando a pretensão formulada for contrária à súmula desta Suprema Corte.
+    Ademais, entendo não haver nenhum prejuízo ao paciente o fato de o Tribunal de Justiça do Estado de Santa Catarina ter julgado o apelo defensivo sem que tivessem sido apresentadas as razões do inconformismo, uma vez que o efeito devolutivo do recurso devolveu àquele Tribunal o pleno conhecimento de toda a matéria decidida na instância primeira.
+    Aliás, nesse sentido já se manifestou esta Suprema Corte ao preconizar que “o efeito devolutivo da apelação devolve ao tribunal o conhecimento amplo da matéria suscitada, permitindo ainda o exame das matérias de ofício que ainda não tenham sido resolvidas” (HC nº 105.897/SP, Primeira Turma, Redator para acórdão o Ministro Luiz Fux, DJe de 3/10/11).
+    Guilherme de Souza Nucci, em obra de grande prestígio, equaciona que a ausência de razões “não acarreta nulidade, embora jamais possa deixar o juiz de intimar e assegurar às partes o direito de apresentação das razões. A disposição legal é expressa nesse sentido, além do que prejuízo algum advém ao réu, uma vez que o Tribunal retomará o conhecimento pleno da questão” (Código de Processo Penal Comentado. 10ª ed. São Paulo; Revista dos Tribunais, 2011, p. 1.036 e 1.037).
+    Com essas considerações, não tendo, por ora, como configurado constrangimento ilegal passível de ser afastado mediante o deferimento da liminar pretendida, indefiro-a.
+    Solicitem-se informações à autoridade coatora.
+    Após, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 11 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
