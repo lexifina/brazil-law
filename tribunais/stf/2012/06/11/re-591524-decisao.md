@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a , da Constituição) de acórdão do Tribunal Superior do Trabalho que reconheceu o direito se servidores da Fundação Educacional do Distrito Federal, à época regidos pela CLT, a diferenças salariais de 84,32% com base no IPC de março de 1990. Cito a ementa do acórdão recorrido (fls. 165):
+    “ADMINISTRATIVO. DIFERENÇAS SALARIAIS. PLANO COLLOR 84,32%. SERVIDORES DA FUNDAÇÃO EDUCACIONAL DO DISTRITO FEDERAL. LIMITES DA CONDENAÇÃO. DATA-BASE.
+    - Ressai sobranceira a manifestação do Supremo Tribunal Federal, que entende existir direito adquirido dos Servidores Públicos Civis do Distrito Federal em razão do Plano Collor, fazendo eles jus às diferenças oriundas da aplicação do percentual de 84,32% (IPC fev/março), tão-somente.
+    - A "data-base", seja em decorrência de lei, seja em face do tradicionário que vem de longos anos, é um marco divisor que no caso anulou ou zerou a situação salarial dos servidores e impôs um novo recomeço.
+    - Recurso provido em parte.”
+    Sustenta o recorrente violação ao disposto no art. 5º, XXXVI, da Constituição Federal.
+     A jurisprudência trazida à colação refere-se a servidores estatutários, e não a celetistas como é o caso dos autos. Ademais, o Plenário deste Tribunal, no julgamento do RE 164.715 (rel. min. Sepúlveda Pertence, DJ de 21.02.1997), assim se pronunciou:
+    EMENTA: Direito do Trabalho: legislação federal sobre reajuste de salário (‘ gatilho salarial’ ): incidência direta sobre as relações contratuais trabalhistas do Estado-membro e suas autarquias.
+    No âmbito da competência privativa da União para legislar sobre Direito do Trabalho - que abrange as normas de reajuste salarial compulsório - a lei federal incide diretamente sobre as relações contratuais dos servidores dos Estados, dos Municípios e das respectivas autarquias: uma coisa é repelir - por força da autonomia do Estado ou da vedação de vinculações remuneratórias -, que a legislação local possa atrelar os ganhos dos servidores estaduais, estatutários ou não, a vencimentos da União ou índices federais de qualquer sorte. Outra coisa bem diversa é afirmar a incidência direta sobre os salários de servidores locais, regidos pelo Direito do Trabalho, de lei federal sobre reajustes salariais: aqui, o problema não é de vinculação; nem de usurpação ou renúncia indevida à autonomia do Estado; é, sim, de competência da União para legislar sobre Direito do Trabalho.
+    Na mesma linha, citem-se os seguintes julgados: RE 162.873 (rel. min. Maurício Corrêa, DJ de 04.10.1996), RE 144.986 (rel. min. Ilmar Galvão, DJ de 29.11.1996) e AI 404.046 (rel. min. Sepúlveda Pertence, DJ de 13.08.2004).
+    Menciono ainda o decidido pela 2ª Turma no AI 466.131 – AgRg, de minha relatoria (Dje 21.03.2011):
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PESSOAL CELETISTA DE FUNDAÇÃO DO DISTRITO FEDERAL. DIREITO AO ACRÉSCIMO REMUNERATÓRIO DE 84,32% (PLANO COLLOR). APLICABILIDADE DA LEI DISTRITAL 38/1989. IMPROCEDÊNCIA. 1. Conforme a jurisprudência do Supremo Tribunal Federal, “a competência legislativa do Distrito Federal restringe-se aos servidores sob regime estatutário, cabendo à União dispor sobre as normas de Direito do Trabalho aplicáveis aos empregados sob o regime da CLT” (RE 184.791, da relatoria do ministro Moreira Alves). 2. Agravo regimental a que se nega provimento.”
+    Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil dou provimento ao recurso. A parte recorrida arcará com os ônus da sucumbência, ressalvada a hipótese de concessão do benefício da assistência judiciária gratuita.
+    Publique-se.
+    Brasília, 11 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
