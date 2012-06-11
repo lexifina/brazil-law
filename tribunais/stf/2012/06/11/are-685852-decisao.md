@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão, proferido pelo Tribunal de Justiça do Estado de Minas Gerais, cuja ementa tem o seguinte teor (fls. 286):
+    “AÇÃO DE MANUTENÇÃO DE POSSE - OCUPAÇÃO DE BEM PÚBLICO - PERMANÊNCIA POR MERA TOLERÂNCIA - DIREITO POSSESSÓRIO - AUSÊNCIA - JULGAMENTO DE MÉRITO. - O bem público é insuscetível de apossamento pelo particular, sendo que a permanência deste naquele, por mera tolerância da Administração, não cria direito possessório a ser defendido através dos interditos, que devem ficar restritos às lides entre particulares. - O reconhecimento da impossibilidade da proteção possessória de bem público ocupado implica em julgamento de mérito, e não em impossibilidade jurídica do pedido. - Recurso negado, com alteração da parte dispositiva da sentença.”
+    Nas razões do recurso extraordinário, os ora agravantes alegam violação do disposto no art. 5º, XXIII da Carta Magna. Sustentam, em síntese, que:
+    “(...) muito embora parte do imóvel esteja sobre o passeio e o graide do asfalto, é de se destacar que como não existe a possibilidade de se utilizar referida área, senão para acesso ao imóvel dos recorrentes, já que o terreno é bastante acidentado, hão de ser observados os princípios constitucionais da função da propriedade, o da razoabilidade e o da proporcionalidade” (fls. 316 – grifos originais)
+    É o relatório. Decido.
+    O Tribunal a quo concluiu que “restou sobejamente demonstrado que os apelantes ocupam área pública, e que os imóveis foram construídos sobre a via pública, bem como na continuação de seu traçado urbano, situando-se, ambos, portanto, em terreno público” (fls. 290). Impossível chegar a conclusão diversa sem reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nos termos do art. 544, § 4º, II, b , do Código de Processo Civil, conheço do agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+    Brasília, 11 de junho de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
