@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu não ser possível a exigência de taxa de ocupação de terreno da marinha, sob o entendimento de que o imóvel objeto da cobrança encontra-se matriculado no registro público de imóveis como patrimônio de empresa privada, e que a desconstituição desse registro é condição necessária para o domínio da União.
+    Além disso, o aresto impugnado reconheceu como prescritos os débitos compreendidos entre os anos de 1986 e 1998.
+    Neste RE, fundado no art. 102, III, a e b, da Constituição Federal, sustentou-se, em suma, a legitimidade na cobrança da taxa de ocupação, sob o argumento de que os terrenos da marinha são bens da União. Alegou-se, ainda, a não ocorrência de prescrição.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, quanto à exigibilidade da taxa de ocupação, constato que o recurso está prejudicado, tendo em vista que o Superior Tribunal de Justiça deu parcial provimento ao Recurso Especial 1.118.175/SC, interposto pela ora recorrente, sob o fundamento de que não há necessidade da propositura de ação própria pela União para anular os registros de propriedade dos ocupantes de terrenos da marinha, tendo em vista que o procedimento administrativo de demarcação goza dos atributos comuns a todos os atos administrativos (fls. 217-220 do e-STJ, com trânsito em julgado certificado à fl. 284 do e-STJ).
+    Com relação à prescrição, o Tribunal de origem decidiu a questão com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 9.636/1998). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta.
+    II - Agravo regimental improvido” (AI 764.126-AgR/RJ, de minha relatoria, Primeira Turma).
+    “CONSTITUCIONAL. ADMINISTRATIVO. PRESCRIÇÃO.
+    I. - A prescrição em favor da Fazenda Pública e de direito infraconstitucional -- Decreto n. 20.910/32 -- motivo por que deve ser discutida no recurso especial. Impossibilidade do exame da matéria constitucional, que diz respeito ao mérito da ação, sem, antes, ser afastada a prejudicial de prescrição.
+    II. - R.E. não conhecido” (RE 131.140/SP, Rel. Min. Carlos Velloso, Segunda Turma).
+    No mesmo sentido, menciono, ainda, as seguintes decisões: AI 737.310-AgR/PE, Rel. Min. Luiz Fux; AI 735.841/PE, de minha relatoria; RE 630.042/PE, Rel. Min. Cármen Lúcia; AI 793.255/PE, Rel. Min. Gilmar Mendes; AI 735.798/PE, Rel. Min. Marco Aurélio.
+    Ademais, o tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão referente à prescrição. Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 1.118.175/SC, com trânsito em julgado certificado à fl. 284 do e-STJ), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Por fim, o presente caso não trata de acórdão que tenha declarado, nos termos do art. 97 da Constituição Federal, a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
