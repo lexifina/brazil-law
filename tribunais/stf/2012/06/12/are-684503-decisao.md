@@ -1,0 +1,27 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. TAXA DE LIMPEZA PÚBLICA. CARÁTER UNIVERSAL E INDIVISÍVEL. PRECEDENTES.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. O serviço de limpeza pública em decorrência de seu caráter universal e indivisível, não pode ser remunerado por intermédio de taxa ou tarifa. Precedentes: RE n. 575.022-AgR, 1ª Turma, Rel. Min. Dias Toffoli, DJe de 29/2/2012 e RE n. 273.074-AgR, 2ª Turma, Rel. Min. Cezar Peluso, DJe de 29/2/2008
+3. In casu, a sentença foi mantida por seus próprios fundamentos:
+“O magistrado de primeiro grau ao apreciar a controvérsia julgou parcialmente procedente o pedido para condenar o ora agravado ao pagamento pelo serviço de coleta de lixo, eximindo-o, no entanto, do encargo relativo ao serviço de limpeza pública, sob o fundamento de que o serviço de de coleta de lixo, por ser divisível e específico, pode ser cobrado por intermédio de tarifa diferentemente da limpeza pública, que só por imposto pode ter sua remuneração efetivada.”
+4. NEGO SEGUIMENTO ao recurso extraordinário com agravo.
+    Decisão: Cuida-se de recurso extraordinário com agravo interposto por CONEVILLE SERVIÇOS E CONSTRUÇÕES LTDA E OUTRO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 444-445, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina, em que a Concessionária de Serviço Público interpõe ação de cobrança com o intuito de compelir o contribuinte ao pagamento pelo serviço de coleta de lixo e limpeza pública.
+    O magistrado de primeiro grau, ao apreciar a controvérsia julgou parcialmente procedente o pedido para condenar o ora agravado ao pagamento pelo serviço de coleta de lixo, eximindo-o, no entanto, do encargo relativo ao serviço de limpeza pública, sob o fundamento de que o serviço de de coleta de lixo, por ser divisível e específico, pode ser cobrado por intermédio de tarifa diferentemente da limpeza pública, que só por imposto pode ter sua remuneração efetivada.
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustentam a preliminar de repercussão geral e, no mérito, apontam violação aos artigos 5º, XXXVI, 30, V, 37, XXI, 145, II, e 175 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que o acórdão recorrido está em harmonia com a jurisprudência desta Suprema Corte.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    É que o acórdão recorrido está em harmonia com a jurisprudência desta Suprema Corte, no sentido de que o serviço de limpeza pública em decorrência de seu caráter universal e indivisível, não pode ser remunerado por intermédio de taxa ou tarifa, como se pode depreender do teor da ementa dos seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Município de Salvador. Taxa de limpeza pública. Taxa vinculada a serviço de caráter indivisível e universal. Reexame de fatos e provas. Improcedência. Precedentes.
+    1. Pacífica é a jurisprudência desta Corte no sentido de ser ilegítima a cobrança de taxa de coleta de lixo e limpeza pública que se encontra vinculada não somente à remoção de lixo domiciliar mas também à limpeza de logradouros públicos, serviço esse de caráter indivisível e universal.
+    2. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF.
+    3. Agravo regimental não provido” (RE n. 575.022-AgR, 1ª Turma, Rel. Min. Dias Toffoli, DJe de 29/2/2012).
+    “RECURSO. Extraordinário. Inadmissibilidade. Taxa de coleta de lixo e limpeza pública (TCLLP). Cobrança. Inviabilidade. Agravo regimental não provido. Não é legítima a cobrança de taxa quando não vinculada apenas à coleta de lixo domiciliar, mas, também, de serviço de caráter universal e indivisível como a limpeza de logradouros públicos.
+    2.  RECURSO. Extraordinário. Controle difuso de constitucionalidade. Declaração de inconstitucionalidade de lei municipal. Modulação dos efeitos da decisão. Atribuição de efeitos ex nunc. Art. 27 da Lei Federal nº 9.868/99. Inadmissibilidade. Agravo regimental não provido. Esta Corte já negou, por inúmeras vezes, a atribuição de efeitos ex nunc à declaração de inconstitucionalidade ou não recepção de lei do Município do Rio de Janeiro que instituiu a cobrança do IPTU com alíquotas progressivas.” (RE n. 273.074-AgR, 2ª Turma, Rel. Min. Cezar Peluso, DJe de 29/2/2008).
+    NEGO SEGUIMENTO ao recurso extraordinário com agravo com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 12 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
