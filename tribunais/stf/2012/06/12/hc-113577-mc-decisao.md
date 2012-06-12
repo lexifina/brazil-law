@@ -1,0 +1,21 @@
+DECISÃO
+PENA-BASE – ANTECEDENTES – PROCESSOS EM CURSO – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    Os pacientes foram condenados a quatro anos e dois meses de reclusão, pela prática do crime de que trata o artigo 171 (estelionato), combinado com os artigos 62 (concurso de pessoas) e 71 (continuidade delitiva, por 23 vezes), do Código Penal, no regime semiaberto. O Juízo da 9ª Vara Criminal do Foro Central da Comarca de Porto Alegre/RS assentou ser incabível a substituição da pena privativa de liberdade por restritivas de direitos, em virtude da fixação de período superior a quatro anos.
+    O Tribunal de Justiça do Estado do Rio Grande do Sul, em 18 de novembro de 2009, deu parcial provimento à apelação criminal interposta pela defesa, apenas para afastar a incidência da agravante prevista no artigo 62 do Código Penal, porquanto não especificado pelo Juízo qual a circunstância em que enquadrados os pacientes, resultando na redução da reprimenda para três anos e quatro meses de reclusão.
+    No Superior Tribunal de Justiça, a Quinta Turma indeferiu a ordem no Habeas Corpus nº 171.945/RS, de relatoria do ministro Marco Aurélio Bellizze, em acordão assim ementado:
+    DIREITO PENAL. HABEAS CORPUS. CRIMES DE ESTELIONATO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. REGIME PRISIONAL SEMIABERTO. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ORDEM DENEGADA.
+    1. A despeito de as condenações dos dois pacientes terem sido inferior a 4 anos de reclusão, o Tribunal impetrado manteve o regime prisional semiaberto em razão da existência de circunstâncias judiciais desfavoráveis, consideradas na individualização da reprimenda, atendo-se, corretamente, ao que dispõe o art. 33, §§ 2.º e 3.º, c/c o art. 59, do Código Penal.
+    2. Inviável a substituição da pena reclusiva por restritiva de direitos, nos termos do art. 44, inciso III, do Código Penal.
+    3. Habeas corpus denegado.
+    Neste habeas, a impetrante aponta o cabimento da substituição da pena privativa de liberdade por restritivas de direitos, bem como da alteração do regime carcerário para o aberto. Afirma ser insuficiente a motivação utilizada pelo Juízo para elevar a pena-base acima do mínimo legal, pois o fato de os pacientes responderem a outras ações penais não afastaria a primariedade. Sustenta prevalecer o princípio da presunção da não culpabilidade, previsto no artigo 5º, inciso LVII, da Constituição Federal e sumulado mediante o Verbete nº 444 do Superior Tribunal de Justiça. Citando precedentes do Supremo, aduz haver excesso na dosimetria da pena, consubstanciada na fixação do regime inicial e no óbice na aplicação de pena alternativa.
+    Requer o deferimento de liminar para que os pacientes sejam transferidos para o regime aberto até o julgamento final deste processo. No mérito, pleiteia a redução da pena-base, a substituição por duas restritivas de direito e, sucessivamente, a fixação do regime aberto para o cumprimento da reprimenda.
+    O habeas encontra-se concluso para exame do pedido de concessão de medida acauteladora.
+    2. Surgem dois aspectos relevantes. Na contramão de reiterados pronunciamentos do Supremo, a pena-base foi implementada um ano acima do mínimo legal, levando-se em conta processos ainda em curso. O outro dado importante diz respeito ao óbice à substituição da pena restritiva de liberdade pela de direitos. O Juízo, ante a fixação acima dos quatro anos, considerou o disposto no artigo 44, inciso I, do Código Penal.
+    O Superior Tribunal de Justiça, na via do habeas corpus, no que não apresenta mão dupla, veio a aludir ao obstáculo consubstanciado no inciso III do mesmo preceito – circunstâncias judiciais a desaconselharem a substituição. Fê-lo porque, julgando o recurso da defesa, o Tribunal de Justiça reduziu a pena a patamar inferior aos quatro anos.
+    3. Ante o quadro, defiro a liminar para suspender, até a decisão final deste habeas corpus, a eficácia da condenação dos pacientes.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 12 de junho de 2012, às 10h45.
+Ministro MARCO AURÉLIO
+Relator
