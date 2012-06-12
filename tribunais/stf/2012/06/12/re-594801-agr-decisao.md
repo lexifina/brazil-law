@@ -1,0 +1,14 @@
+Trata-se de agravo regimental contra decisão que negou seguimento ao recurso extraordinário, por julgar incidente a Súmula 279 no caso dos autos.
+    O agravante sustenta, em suma, que a aludida súmula é inaplicável na espécie, visto que a questão em exame é unicamente de direito. Além disso, afirma que decisão agravada deve ser reformada, ao argumento de que o Tribunal de origem violou a cláusula de reserva de plenário ao afastar a aplicação da Lei estadual 14.938/2003.
+    Reconsidero a decisão de fls. 357-358 e passo a examinar o recurso extraordinário.
+    Trata-se de recurso extraordinário contra acórdão que entendeu pela ilegitimidade da taxa de licenciamento para uso ou ocupação da faixa de domínio das rodovias (TFDR), instituída pelo Estado de Minas Gerais, nos termos da Lei Estadual 6.763/1975, com redação dada pela Lei Estadual 14.938/2003, ao argumento de que o valor da taxa não tem relação com o custo da atividade fiscalizadora. Para tanto, considerou-se que a importância exigida é excessiva, além de ser calculada com base em critérios desvinculados de seu fato gerador.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LXIX, 93, IX, 97, 145, II, e 150, IV, da mesma Carta.
+    A pretensão recursal merece acolhida. Isso porque esta Corte, em Sessão Plenária de 18/6/2008, corroborada pela discussão que envolveu o julgamento do RE 482.090/SP, Rel. Min. Joaquim Barbosa, aprovou a Súmula Vinculante 10, cujo teor segue transcrito:
+    “Viola a cláusula de reserva de plenário (CF, art. 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do Poder Público, afasta a sua incidência no todo ou em parte”.
+    Ressalte-se que, durante os debates, fixou-se entendimento de que a afronta ao art. 97 da Constituição persiste mesmo que o Tribunal a quo tenha, por meio do pleno ou de seu órgão especial, declarado, após a interposição do recurso extraordinário sob julgamento, a inconstitucionalidade do dispositivo afastado.
+    Nessa hipótese, a decisão atacada também será cassada, mas apenas para aplicação, pelo relator ou pelo órgão fracionário, do precedente firmado pelo pleno ou pelo órgão especial competente para a declaração de inconstitucionalidade.
+    Isso posto, reconsidero a decisão de fls. 357-358, conheço do recurso extraordinário e dou-lhe provimento (CPC, art. 557, § 1º-A), para cassar o acórdão recorrido que afastou a aplicação dos dispositivos da Lei Estadual 6.763/1975, na redação dada pela Lei Estadual 14.938/2003, e determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda a novo julgamento pelo órgão competente, nos termos do art. 97 da Constituição Federal.
+    Publique-se.
+    Brasília, 12 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
