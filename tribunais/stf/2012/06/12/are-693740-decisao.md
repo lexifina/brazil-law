@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contras inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “RECURSO DE REVISTA. REAJUSTE SALARIAL. AUTARQUIA EDUCACIONAL ASSOCIADA À UNIVERSIDADE ESTADUAL. INTERPRETAÇÃO DE NORMAS ESTADUAIS. O deferimento das diferenças salariais resultou da interpretação da legislação estadual e dos documentos carreados aos autos, concluindo a Corte Regional que as autarquias educacionais associadas, hipótese da reclamada, estavam abrangidas pela política salarial estabelecida pelos Unesp e CRUESP - Conselho de Reitores das Universidades do Estado de São Paulo. Violações não configuradas. Incidência das Súmulas 230, 296 e 297, do TST. Recurso de revista não conhecido”. (fl. 397)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, LV; 37, X; 61, § 1º, II, “a”; e 93, IX, do texto constitucional.
+     Decido.
+     A pretensão recursal não merece prosperar.
+    Inicialmente, no tocante à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    No tocante à concessão de reajustes salariais, o Tribunal a quo consignou o seguinte:
+    “Da análise da decisão regional, verifica-se que o deferimento das diferenças salariais resultou da interpretação da legislação estadual e dos documentos carreados aos autos, concluindo a Corte Regional que as autarquias educacionais associadas, hipótese da reclamada, estavam abrangidas pela política salarial estabelecida pelos Unesp e CRUESP - Conselho Estadual das Universidades Estaduais”.
+    Assim, tendo em vista que, para se entender de forma distinta do acórdão impugnado, seria necessária a análise da legislação local, inviável o recurso extraordinário. Incide, no caso, o Enunciado 280 da Súmula do STF.
+    Confiram-se, a propósito, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DO EXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 INCIDÊNCIA. PODER JUDICIÁRIO. ATUAÇÃO COMO LEGISLADOR POSITIVO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem necessária seria a análise de normas infraconstitucionais locais, o que atrai a incidência da Súmula 280 do STF. II - A jurisprudência desta Corte é firme no sentido da impossibilidade de o Poder Judiciário atuar como legislador positivo. Precedentes. III - Agravo regimental improvido” (AI-AgR 834.808, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 30.6.2011).
+    “Agravo regimental em agravo de instrumento. 2. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise e interpretação prévia de legislação local. Verbetes das súmulas 280 e 636. 3. Ausência de argumentos capazes de infirmar a decisão agravada. 4. Agravo regimental a que se nega provimento” (AI-AgR 834.248, de minha relatoria, Segunda Turma, DJe 14.6.2011).
+     Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 12 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
