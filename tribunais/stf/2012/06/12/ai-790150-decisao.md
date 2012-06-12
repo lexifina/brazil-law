@@ -1,0 +1,19 @@
+DECISÃO: O Supremo Tribunal Federal tem entendido possível o julgamento do recurso extraordinário (ou do respectivo recurso de agravo) em momento anterior ao do recurso especial, pelo Superior Tribunal de Justiça, não obstante a norma inscrita no art. 543, § 1º, do CPC, desde que existentes razões de ordem formal que legitimem a formulação, por esta Suprema Corte, de juízo de incognoscibilidade quanto ao apelo extremo.
+    Vale referir que a prática processual deste Tribunal orienta-se em tal sentido, quer se trate do próprio recurso extraordinário, quer se cuide, quando inadmitido, do respectivo recurso de agravo:
+    “ORDEM RITUAL INERENTE AO AGRAVO DE INSTRUMENTO.
+    - Mostra-se processualmente viável, nos casos de inadmissibilidade do recurso extraordinário motivada por razões de índole técnico-formal, o julgamento imediato, pelo Supremo Tribunal Federal, do concernente agravo, mesmo antes de o Superior Tribunal de Justiça julgar, em caráter definitivo, o recurso de agravo deduzido contra decisão que não admitiu o recurso especial.”
+    (AI 835.571-AgR-ED-ED/RJ, Rel. Min. CELSO DE MELLO)
+    Examino, desse modo, o presente recurso. E, ao fazê-lo, verifico que a decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, fundando-se, ainda, para resolver o litígio, em interpretação de cláusula contratual, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém nas Súmulas 279 e 454 do Supremo Tribunal Federal.
+    Impõe-se registrar, por relevante, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte (AI 714.138/RS, Rel. Min. DIAS TOFFOLI – AI 748.367- -AgR/RS, Rel. Min. ELLEN GRACIE – AI 795.846/SE, Rel. Min. CÁRMEN LÚCIA – RE 600.685/SE, Rel. Min. EROS GRAU, v.g.):
+    “Previdência Privada: complementação de aposentadoria: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional (Decreto 81.240/78 e Lei 6.435/77): alegada ofensa a dispositivos constitucionais que, se ocorresse, seria reflexa ou indireta: incidência, ‘mutatis mutandis’, da Súmula 636.
+    2. Recurso extraordinário: inadmissibilidade: alegação de contrariedade ao artigo 5º, XXXVI, da CF, para cuja verificação seria necessária a interpretação de cláusulas do regulamento da entidade de previdência privada: incidência das Súmulas 279 e 454.
+    3. Recurso extraordinário: invocação impertinente do art. 195, § 5º, da CF, que diz respeito apenas à seguridade social financiada por toda a sociedade.
+    4. Agravo regimental: necessidade de impugnação dos fundamentos da decisão agravada: precedentes.”
+    (AI 530.944-AgR/RS, Rel. Min. SEPÚLVEDA PERTENCE)
+    Sendo assim, pelas razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 12 de junho de 2012.
+Ministro CELSO DE MELLO
+Relator
