@@ -1,0 +1,20 @@
+Decisão: Trata-se de mandado de segurança, com pedido liminar, impetrado por Ronaldo Ramos Caiado, Domingos Sávio Campos Resende, Alceu Moreira da Silva, Jeronimo Pizzolotto Goergen e Nelson Marquezelli contra ato da Presidenta da República Dilma Roussef, que, segundo alegam, teria ofendido o devido processo legislativo constitucional.
+    Objetivam os impetrantes suspender liminarmente a eficácia da Medida Provisória nº 571/2012, cujo conteúdo, além de substituir os preceitos vetados no PL n° 1.876/1999, alterou outros já sancionados.
+    É o relatório suficiente. Decido.
+    Não assiste razão aos Impetrantes.
+    No caso em comento, os Impetrantes questionam a edição de Medida Provisória editada pela Presidente Dilma Roussef, cujo conteúdo versava acerca de temas tratados no PL n° 1.876/1999, anteriormente por ela vetados.
+    Sustentam que os respectivos vetos deveriam ser submetidos e apreciados pelo Congresso Nacional, nos termos do disposto pelos §§ 1º ao 6º do art. 66 da Lei Fundamental, de modo que a edição da supramencionada Medida Provisória fraudaria o devido processo legislativo constitucional.
+    In casu, verifica-se inexistir qualquer direito líquido e certo a ser tutelado por esta Suprema Corte. Diversamente do ventilado pelos Impetrantes, não ocorreu a abreviação do processo legislativo ordinário, porquanto a edição de Medida Provisória não tem o condão de obstar a apreciação do veto pelo Congresso Nacional.
+    Muito pelo contrário. No tocante aos temas sancionados na PL n° 1.876/1999, a edição de Medidas Provisórias apenas suspende a sua eficácia, inexistindo qualquer revogação aparente. Vale dizer, retiram-se, temporariamente, os efeitos dos aludidos preceitos, não maculando a sua existência no ordenamento jurídico.
+    Em outras palavras, caberá ao próprio Congresso Nacional, quando da deliberação da MP, o juízo decisivo de saber se haverá ou não a revogação dos preceitos sancionados na PL n° 1.876/1999. Rememore-se que, nesta ocasião, o Congresso Nacional examinará tanto os pressupostos de edição – relevância e urgência – quanto a oportunidade e conveniência da sua conversão em lei ou da rejeição da MP.
+    Assim, se convertida a MP em lei, haverá a revogação de tais preceitos, ainda que anteriormente sancionados pela Presidenta Dilma Roussef. Do contrário, manter-se-ão incólumes estes dispositivos legais. E, essa decisão, repete-se, é atribuída soberanamente ao Congresso Nacional.
+    Por outro lado, no que pertine aos preceitos vetados pela Presidenta Dilma Roussef, não há que se cogitar de suspensão da eficácia, porquanto não ingressaram no ordenamento jurídico (plano da existência) e, por conseguinte, não se encontram aptos a produzir seus efeitos (plano da eficácia). Ocorre que a circunstância de o veto presidencial encontrar-se pendente de deliberação pelo Congresso Nacional não obsta que a Presidenta da República edite uma MP regulando o tema, desde que presentes os seus pressupostos constitucionais.
+    Mas não é só. A Constituição de 1988 prevê o controle político pelo Congresso Nacional acerca dos pressupostos de urgência e relevância das Medidas Provisórias. Com efeito, em seu art. 62 § 9º, a Lei Fundamental dispõe que caberá à Comissão Mista de Deputados e Senadores examinar as medidas provisórias e sobre elas emitir parecer, de modo que, na espécie, basta o Congresso Nacional exercer este crivo e verificar se, efetivamente, há urgência e relevância da matéria.
+    Em suma, a questão de fundo debatida neste mandamus não caracteriza qualquer ofensa à Constituição, em geral, e ao devido processo legislativo ordinário, em especial, de modo que seu equacionamento deve ocorrer no bojo do próprio sistema político. Descabe, portanto, trazer esta questão ao Poder Judiciário.
+    Deste modo, inexiste liquidez e certeza no suposto direito alegado pelos Impetrantes.
+    Ex positis, não conheço do writ.
+    Publique-se. Int..
+    Brasília, 12 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
