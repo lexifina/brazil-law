@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. COMPETÊNCIA PARA JULGAMENTO DAS LIDES DECORRENTES ENTRE ESTADO E SERVIDORES PÚBLICOS ADMITIDOS POR CONTRATO TEMPORÁRIO SOB A ÉGIDE DA LEI ESTADUAL 500/74. PEDIDO DE EQUIPARAÇÃO COM OS SERVIDORES ESTATUTÁRIOS.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+2. A competência para dirimir os conflitos de caráter jurídico-administrativo, advindos de contratações temporárias para suprir os serviços públicos, é da justiça comum e não a Justiça especializada. (ADI nº 3.395/DF, Ministro Maurício Corrêa, e Rcl 7710-Ministra Ellen Gracie).
+3. In casu, o acórdão recorrido assentou:
+SERVIDOR PÚBLICO – contrato temporário – Lei Estadual 500/74 – Pretensão aos benefícios garantidos aos servidores estatutários – Equiparação de direitos entre os servidor dito temporário e o estatutário, garantida nos artigos 205, inciso I, da LCE 180/78, e 129 da Constituição Paulista – Precedentes jurisprudenciais – Reexame necessário não provido – Apelo da Fazenda Pública não provida – Apelação dos autores provida.
+SERVIDOR PÚBLICO -Lei Estadual 50/74 – Direito à percepção de licença prêmio Direito a ser exercido enquanto o servidor estiver no quadro ativo, motivo pelo qual, nesta hipótese, não se cogita de prescrição – Apostilamento condicionado à observância dos demais requisitos estipulados aos servidores públicos estatutários.
+HONORÁRIOS ADVOCATÍCIOS – Impugnação de quantum arbitrado à título de verba honorária – Ação para recomposição de proventos – Trabalho de caráter repetitivo, movido em massa, sem maior complexidade seja no plano formal, seja no acompanhamento processual – Inteligência do artigo 20, parágrafos 3º e 4º do Código de Processo Civil – Arbitramento à razão de 10% sobre o valor da causa, acrescido e corrigido.
+4. NEGO SEGUIMENTO ao recurso extraordinário com agravo.
+    Decisão: Trata-se de recurso extraordinário com agravo com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça de São Paulo, conforme ementa acima citada.
+    Foram opostos embargos de declaração, que restaram rejeitados rejeitados.
+    Nas razões do apelo extremo, o ESTADO DE SÃO PAULO sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 114, I, da Constituição Federal. Alega em síntese, que a competência para o julgamento da controvérsia é da Justiça do Trabalho.
+    O Tribunal a quo negou seguimento ao apelo extremo sob o fundamento de que se trata de matéria infraconstitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se inexiste questão constitucional, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    O agravo não merece prosperar.
+    O Plenário do Supremo Tribunal Federal, na Sessão de 21 de agosto de 2008, ao analisar o RE n. 573.202, Relator o Ministro RICARDO LEWANDOWSKI, reiterou o entendimento consolidado em inúmeros precedentes no sentido de que compete à Justiça comum processar e julgar os feitos em que se discutem as relações entre servidores, ainda que temporários, e a Administração Pública. O processamento de litígio entre servidores temporários e a Administração Pública perante a Justiça do Trabalho afronta a decisão prolatada por esta Corte no julgamento da ADI n. 3.395-MC, DJ de 10.11.06.
+    E ainda, o acórdão do Plenário desta Corte proferido no julgamento da Medida Cautelar na Ação Direta de Inconstitucionalidade 3.395/DF, rel. Min. Cezar Peluso, contém a seguinte ementa:
+    INCONSTITUCIONALIDADE . Ação direta. competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária. (DJ 10.11.2006)
+    Nesse sentido: RE n. 367.638, Relator o Ministro MOREIRA ALVES; DJ de 28.3.03; Rcl n. 4.903/Agr, Relator o Ministro RICARDO LEWANDOWSKI; DJ de 8.8.08.
+    Ex positis, NEGO SEGUIMENTO ao recurso extraordinário com agravo.
+    Publique-se.
+    Brasília, 12 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
