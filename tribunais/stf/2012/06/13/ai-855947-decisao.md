@@ -1,0 +1,10 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão que, ao fundamento de ausência de demonstração da repercussão geral do tema suscitado, negou seguimento a recurso extraordinário.
+    Verifica-se que a formação do traslado apresenta deficiência, porquanto ausentes peças obrigatórias e indispensáveis à compreensão do caso, como a petição de recurso extraordinário e o acórdão recorrido, o que configura contrariedade à antiga redação do art. 544, §1º, do Código de Processo Civil – em vigor à época da interposição deste agravo –, ao art. 28, §1º, da Lei nº 8.038/1990 e ao que dispõe o Enunciado nº 288 da Súmula do Supremo Tribunal Federal.
+    E, segundo reiterada jurisprudência desta Corte, cabe à parte fiscalizar a formação plena do instrumento. Nesse sentido, vale citar o julgamento, pela Primeira Turma deste Tribunal, do segundo Agravo Regimental no AI 740.297, de relatoria do Ministro Luiz Fux, DJe 25.5.2012, ementado nos seguintes termos:
+    “SEGUNDO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL E PROCESSO PENAL MILITAR. CONCUSSÃO. ART. 305, COM. AUSÊNCIA DE PEÇAS ESSENCIAS À COMPREENSÃO DA CONTROVÉRSIA. TRASLADO OBRIGATÓRIO. APLICAÇÃO DA SÚMULA 288/STF. 1. A falta de pelas obrigatórias previstas no art. 544, §1º, do CPC, vigente à época de interposição do agravo, faz incidir a Súmula n. 288 do STF, verbis: ‘nega-se provimento ao agravo para subida de recurso extraordinário, quando faltar no traslado o despacho agravado, a decisão recorrida, a petição de recurso extraordinário ou qualquer peça essencial à compreensão da controvérsia.’ 2. O ônus de fiscalizar a correta formação do instrumento é exclusivo do agravante (Precedente: AI n. 237.361-AgR, Relator o Ministro Maurício Corrêa, DJ de 1º.10.99. 3. Segundo agravo regimental a que se nega provimento.”
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se. Int.
+    Brasília, 13 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
