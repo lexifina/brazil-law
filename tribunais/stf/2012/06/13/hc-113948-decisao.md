@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARCIANO VESCOVI SACANI, contra decisão de indeferimento de liminar proferida pelo relator do HC 238.598/ES, do Superior Tribunal de Justiça.
+    Consta dos autos que o paciente foi denunciado, juntamente com outros quatro corréus, e teve a prisão preventiva decretada pela prática dos crimes previstos nos artigos 180, § 1º, 288, 297 e 299, todos do Código Penal, art. 1º, incisos I, II, III, IV e art. 2º, inc. I, ambos da Lei nº 8.137/1990, e art. 46 da Lei nº 9.605/1998.
+    Inconformada, a defesa impetrou habeas corpus ao Superior Tribunal de Justiça, que indeferiu o pedido de liminar.
+    Sobreveio, então, o presente habeas corpus, no qual se requer a imediata restituição da liberdade ao paciente, ao argumento de falta de fundamentação para a custódia cautelar.
+    É o relatório.
+    Decido.
+    O presente writ não apresenta qualquer excepcionalidade que autorize a superação do entendimento sumulado no enunciado n° 691 deste Supremo Tribunal Federal.
+    Ademais, ainda que fosse superado o óbice do enunciado da Súmula nº 691, melhor sorte não adviria à impetração, uma vez que a custódia cautelar está suficientemente fundamentada na gravidade concreta dos delitos em apuração, na periculosidade real dos agentes e na presença dos requisitos previstos no art. 312 do Código de Processo Penal, merecendo destaque o seguinte trecho do acórdão proferido pelo Tribunal de Justiça de São Paulo no recurso em sentido estrito nº 67110009585:
+    “A denúncia proposta baseou-se em minuciosa investigação (...) cuja iniciativa teve por objetivo investigar a articulação de várias quadrilhas que estavam atuando dentro de uma complexa organização envolvendo diversas áreas da economia (indústria madeireira, do carvão e do comércio de combustível), causando prejuízo elevadíssimo ao patrimônio público, sem esquecer dos vários Municípios prejudicados (São Mateus, João Neiva, Mucuri, dentre outros) e as incontáveis pessoas de baixa renda (pobres, usuários de drogas, alcoólatras, indivíduos de pouca instrução e fragilidade econômica) que estavam sendo usadas para facilitar a concretização do esquema criminoso.
+    No relatório final do inquérito policial, destacou-se que "Marciano [leia-se Marciano Vescovi Saccani] era um dos principais articuladores da quadrilha que agia no ES juntamente com Bruno Celestrini, fazendo uso da empresa ISO para fornecer carvão vegetal para usinas localizadas fora do Espírito Santo, com uso de notas fiscais emitidas em nome da ISO [...], ficando evidente os indícios de sonegação fiscal e receptação (venda de carvão vegetal produzido com madeira sem origem". (fI. 114, por cópia – destaquei). (...)
+    Consta, ainda, (...) que [a quadrilha] ameaçava outras pessoas da região e que, além disso, cooptava muitas outras pessoas de baixa renda com a mesma finalidade de constituir sociedades empresárias fantasmas que serviriam para a consumação da empreitada delituosa”.
+    Do exposto, não conheço do pedido de habeas corpus, uma vez que não há no caso concreto qualquer excepcionalidade que poderia conduzir à superação do enunciado da súmula nº 691 desta Corte e ao conhecimento de ofício das alegações deduzidas antes da apreciação do competente órgão colegiado do Superior Tribunal de Justiça.
+    Publique-se. Int..
+    Brasília, 13 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
