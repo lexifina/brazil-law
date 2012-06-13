@@ -1,0 +1,12 @@
+Preliminarmente, afasto o sobrestamento de fls. 172-173 e passo a examinar o recurso extraordinário.
+    Trata-se de recurso extraordinário interposto contra acórdão que declarou inconstitucional o § 2º do art. 1º da Lei 3.077/1998, acrescentado pela Lei 3.799/2005, que determinava a obrigatoriedade de destinação a negros e afrodescendentes de 5 bolsas de estudos em nível universitário das 12 previstas para estudantes carentes.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 3º, III e IV, 5°, caput, e 61, § 1º, da Constituição Federal.
+    A Procuradoria-Geral da República manifestou-se pelo conhecimento e provimento do recurso (fls. 166-169).
+    A pretensão recursal merece acolhida. Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento da ADPF 186/DF e do RE 597.285/RS, ambos de minha relatoria, considerou constitucionais programas de ações afirmativas de instituição de cotas étnico-raciais para acesso ao ensino público superior.
+    Nesse sentido, no julgamento da ADPF 186/DF
+    “Discorreu-se sobre o papel integrador da universidade e os benefícios das ações afirmativas, que atingiriam não apenas o estudante que ingressara no sistema por intermédio das reservas de vagas, como também todo o meio acadêmico, dado a oportunidade de conviver com o diferente. Acrescentou-se que esse ambiente seria ideal para a desmistificação dos preconceitos sociais e para a construção de consciência coletiva plural e culturalmente heterogênea. A corroborar essas assertivas, assinalaram-se diversas ações afirmativas desenvolvidas a respeito do tema nos EUA. Examinou-se, também, a adequação dos instrumentos utilizados para a efetivação das políticas de ação afirmativa com a Constituição. (...) Por sua vez, no que toca à reserva de vagas ou ao estabelecimento de cotas, entendeu-se que a primeira não seria estranha à Constituição, nos termos do art. 37, VIII. Afirmou-se, de igual maneira, que as políticas de ação afirmativa não configurariam meras concessões do Estado, mas deveres extraídos dos princípios constitucionais. Assim, as cotas encontrariam amparo na Constituição. ADPF 186/DF, rel. Min. Ricardo Lewandowski, 25 e 26.4.2012. (ADPF-186)” (Informativo STF 663).
+    Isso posto, conheço do recurso extraordinário e dou-lhe provimento (art. 557, § 1º-A, do CPC). Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 13 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
