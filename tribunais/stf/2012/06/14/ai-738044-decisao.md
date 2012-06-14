@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Sétima Turma Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO. SUNAB. MULTA. AUTUAÇÃO DECORRENTE DA NÃO APRESENTAÇÃO DE DOCUMENTOS SOLICITADOS. ALEGAÇÃO DE IMPOSSIBILIDADE DE CUMPRIMENTO DA EXIGÊNCIA NÃO COMPROVADA. ARTIGO 333, I, DO CODIGO DE PROCESSO CIVIL.
+    - O art. 333, I, do Código de Processo Civil, é claro ao estabelecer que ao autor incumbe o ônus da prova quanto ao fato constitutivo do seu direito.
+    - O apelante, em momento algum, comprovou o alegado, cingindo-se apenas a induzir a impossibilidade de cumprimento de ta exigência por não dispor dos documentos solicitados no momento da notificação.
+    - Não tendo o autor, ora apelante, comprovado a exigência de óbice ao cumprimento da exigência formulada pela Superintendência Nacional de Abastecimento - SUNAB, não há que se falar em ilegalidade da multa que lhe foi imposta através do Auto de Infração nº 803744; pelo que mantenho a sentença em sua integralidade.
+    - Recurso improvido” (fl. 85)
+    Opostos embargos de declaração (fls. 90 a 94) foram rejeitados (fls. 97 a 102).
+    Alega o recorrente, ora agravante, afronta aos artigos 1º, inciso IV, 5º, incisos II, XIII e LV, 93, inciso IX e X, 150, inciso I, e 170 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 5/2/07, conforme expresso na certidão de folha 103, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    O recurso não merece prosperar.
+    No que se refere aos artigos 1º, inciso IV, 5º, incisos XIII e LV, 93, inciso IX e X, 150, inciso I, e 170 da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, verifico, no tocante às alegações de violação ao princípio da legalidade, que o acórdão atacado se limitou a assentar a legitimidade de auto de infração lavrado pela extinta Superintendência Nacional do Abastecimento - SUNAB, com fundamento na legislação ordinária pertinente ao caso.
+    Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, citem-se os seguintes precedentes do tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS NS. 282 E 356 DO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. LEI DELEGADA N. 4/62. RECEPÇÃO PELA CONSTITUIÇÃO DE 1988. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de norma infraconstitucional. Ofensa indireta à Constituição do Brasil. 3. Este Tribunal possui orientação no sentido de que a Lei Delegada n. 04/62, que trata do poder de intervenção da União no domínio econômico, garantindo os serviços essenciais e a livre distribuição de mercadorias para consumo e uso, foi recepcionada pela Constituição de 1988. Precedentes. Agravo regimental a que se nega provimento.” (AI nº 603.879/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau , DJ de 8/9/06).
+    “RECURSO EXTRAORDINÁRIO. OFENSA REFLEXA À CF/88. INADMISSIBILIDADE. SÚMULA STF Nº 636. 1. Acórdão de origem que assentou a legitimidade de auto de infração lavrado pela extinta Superintendência Nacional do Abastecimento - SUNAB, com fundamento na legislação ordinária (Portarias Super 53/90 e 193/91 da SUNAB e Lei Delegada 4/62). 2. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa ao princípio da legalidade, pretende-se a exegese de legislação infraconstitucional. Ofensa à Constituição meramente reflexa ou indireta, de exame inviável nesta sede recursal. Incidência da Súmula STF nº 636. 3. Agravo regimental improvido” (RE nº 389.398/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie , DJ de 7/11/03).
+    No mesmo sentido, as seguintes decisões: RE nº 226.836/MS-AgR, Segunda Turma Relator o Ministro Nelson Jobim, DJ de 13/10/2000 e RE nº 400.467/MS, de minha relatoria, DJe de 3/8/10.
+    Ressalte-se que, da mesma forma, a análise acerca da regularidade da cobrança da multa imposta à agravante, demandaria o reexame dos fatos e provas que permeiam a lide, o que é inadmissível em recurso extraordinário. Incidência da Súmula nº 279 desta Corte.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
