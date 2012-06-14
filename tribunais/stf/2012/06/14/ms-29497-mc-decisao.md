@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Cuida-se de mandado de segurança, com pedido de liminar, impetrado pela Associação dos Magistrados do Rio Grande do Norte – Amarn, em face do Corregedor Nacional de Justiça, com o objetivo de desconstituir o Provimento de nº 12, editado por aquela Corregedoria, tendente à tomada de providências, por todos os juízes brasileiros, relativas à averiguação e ao reconhecimento da paternidade. Asseverou que esse provimento viola os princípios da inércia da jurisdição, ferindo, outrossim, o direito à intimidade e à vida privada. Acrescentou que o impetrado não possui atribuição para a edição de tal provimento, o qual, ademais, cria, para os magistrados, obrigações não previstas em lei. Ressaltando, assim, a ilegalidade desse comando normativo, postulou a concessão de medida liminar, para a suspensão de seus efeitos e que, a final, seja tal provimento definitivamente suspenso.
+    A autoridade, dita coatora, prestou as informações pertinentes, defendendo a legalidade desse provimento, ressaltando, em síntese, que sua edição não viola o princípio da inércia da jurisdição, encontrando-se dentro do âmbito de atuação da Corregedoria Nacional de Justiça, a edição de atos normativos dessa espécie, refutando, ainda, a alegada violação ao direito à intimidade, representado pelos comandos exarados por tal diploma.
+    Por fim, a União postulou seu ingresso no feito e a impetrada apresentou relatórios referentes ao cumprimento do provimento.
+    É o relatório.
+    Inicialmente, admito o ingresso da União do feito, anotando-se, inclusive pra fins de intimação do Advogado-Geral da União acerca de seu processamento.
+    Indefiro o pedido de liminar, ausentes os requisitos do “periculum in mora” e do “fumus boni iuris”.
+    Não se vislumbra, ao menos em um juízo meramente perfunctório acerca da legalidade do ato, vício a macular a edição do aludido provimento, tomando-se por balizas as normas constitucionais que regulam o Conselho Nacional de Justiça, em cotejo com normas de seu próprio Regimento Interno, que disciplinam as atribuições da Corregedoria Nacional de Justiça.
+    Tampouco se vislumbra a alegada infração ao princípio da inércia da jurisdição, ou mesmo da legalidade, até porque referido provimento cuida de atos de índole eminentemente administrativa e não jurisdicional, visando disciplinar e mesmo ampliar o alcance de lei federal em vigor há muitos anos, sem que sequer se cogite de sua eventual inconstitucionalidade.
+    Saliente-se, por oportuno, que, decorridos quase dois anos de sua edição, os bons frutos resultantes do efetivo cumprimento desse provimento não podem ser ignorados, conforme relatos trazidos aos autos pela autoridade impetrada.
+    Por fim, no que tange à violação do princípio da intimidade, deve-se ressaltar que um bem maior há que ser prestigiado, em situações referentes à busca do genitor biológico de um ser, ressaltando-se que o Plenário desta Suprema Corte já assentou que “não devem ser impostos óbices de natureza processual ao exercício do direito fundamental à busca da identidade genética, como natural emanação do direito de personalidade de um ser, de forma a tornar-se igualmente efetivo o direito à igualdade entre os filhos, inclusive de qualificações, bem assim o princípio da paternidade responsável” (RE nº 363.889/DF, de minha relatoria, DJe de 16/12/11).
+    Na busca da consecução desse direito personalíssimo, em regra negado a crianças geradas por mulheres de baixa renda, deveriam os magistrados pátrios (e não apenas os potiguares) envidar os maiores esforços, até como forma de honrar a toga que vestem e dignificar as elevadas funções que exercem, ao invés de apegar-se a filigranas jurídicas de duvidosa eficácia, para se furtarem ao cumprimento de ordem emanada de uma das mais altas autoridades do Poder Judiciário pátrio.
+    Indefiro, pois, a pretendida liminar.
+    Vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
