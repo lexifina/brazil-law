@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Thiago Gomes Anastácio e Hugo Leonardo, em favor de GUTENBERG FERREIRA DA SILVA, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que denegou a ordem no HC 200.752/SP, Rel. Min. Sebastião Reis Júnior.
+    Consta dos autos que o paciente está sendo processado pela suposta prática do delito de homicídio duplamente qualificado (art. 121, § 2º, I e IV do Código Penal).
+    Inconformada com a sentença de pronúncia, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de São Paulo e, posteriormente, outro writ no Superior Tribunal de Justiça, sendo a ordem denegada nas duas impetrações.
+    É contra o acórdão da Corte Superior que se insurgem os impetrantes.
+    Sustentam, em síntese, a nulidade da decisão de pronúncia, que teria se baseado, exclusivamente, em elementos colhidos durante a investigação policial.
+    Asseveram, outrossim, que todas as pessoas ouvidas no inquérito policial, que apontaram o paciente como o autor do homicídio, não confirmaram suas declarações durante a instrução criminal, ao argumento de que teriam sofrido “sevícias psíquicas e físicas dos policiais envolvidos na investigação”.
+    Alegam, ainda, que o constrangimento ilegal impingido ao paciente pode ser constatado com a simples leitura de trechos da sentença de pronúncia, em que o julgador consigna que os depoimentos prestados na fase da investigação policial representam indícios suficientes da autoria do delito.
+    Requerem, ao final, o deferimento de medida liminar para que seja determinada a suspensão da sessão de julgamento do paciente no Tribunal do Júri, designada para 18/6/2012, às 13h.
+    No mérito pedem a concessão da ordem, para que seja anulada a sentença de pronúncia por ausência de fundamentação válida.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em uma primeira análise, tenho por ausentes tais requisitos, em especial o fumus boni iuris necessário para o deferimento da cautelar requerida.
+    Isso porque o acórdão impugnado está em consonância com julgado desta Corte. Refiro-me ao HC 83.542/PE, Rel. Min. Sepúlveda Pertence, cujo acórdão foi assim ementado:
+    “I. Habeas corpus: cabimento para verificar a suficiência e a idoneidade da fundamentação de decisão judicial. II. Pronúncia: motivação suficiente: C.Pr.Penal,art. 408. 1. Conforme a jurisprudência do STF 'ofende a garantia constitucional do contraditório fundar-se a condenação exclusivamente em testemunhos prestados no inquérito policial, sob o pretexto de não se haver provado, em juízo, que tivessem sido obtidos mediante coação' (RE 287658, 1ª T, 16.9.03, Pertence, DJ 10.3.03). 2.O caso, porém, é de pronúncia, para a qual contenta-se o art. 408 C.Pr.Penal com a existência do crime 'e de indícios de que o réu seja o seu autor'. 3.Aí - segundo o entendimento sedimentado -indícios de autoria não têm o sentido de prova indiciária - que pode bastar à condenação - mas, sim, de elementos bastantes a fundar suspeita contra o denunciado. 4.Para esse fim de suportar a pronúncia - decisão de efeitos meramente processuais -, o testemunho no inquérito desmentido em juízo pode ser suficiente, sobretudo se a retratação é expressamente vinculada à acusação de tortura sofrida pelo declarante e não se ofereceu sequer traço de plausibilidade da alegação: aí, a reinquirição da testemunha no plenário do Júri e outras provas que ali se produzam podem ser relevantes”.
+    Assim, entendo que os argumentos dos impetrantes não são suficientes para, a priori, determinar a suspensão da sessão do Tribunal do Júri, sendo certo que a situação trazida nesta impetração contém particularidades que deverão ser melhor analisadas no momento do julgamento de mérito.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Dispenso as informações da autoridade apontada como coatora.
+    Oficie-se, contudo, ao Juízo do Terceiro Tribunal do Júri da Comarca da Capital/SP, para que preste informações acerca da realização do julgamento do paciente (Processo C.I. 1596/05).
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
