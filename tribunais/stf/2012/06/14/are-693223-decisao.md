@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Colégio Recursal da 37ª Circunscrição Judiciária de Andradina/SP o qual deu provimento a recurso, por entender estarem ausentes os pressupostos autorizadores do pagamento de indenização.
+    No recurso extraordinário, aponta-se ofensa ao art. 5º, incisos LIV e XXVI, do texto constitucional. Alega-se afronta aos princípios do contraditório e da ampla defesa.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, cumpre esclarecer que a jurisprudência desta Corte é pacífica no sentido de que as alegações de ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa, se dependentes do reexame de normas infraconstitucionais, configura ofensa meramente reflexa à Constituição Federal. Nesse sentido: AI-AgR 839.153, Rel. Min. Dias Toffoli, Primeira Turma, DJe 15.3.2012; e AI-AgR 620.185, de minha relatoria, DJe 18.4.2008, este último com acórdão assim ementado:
+    “Agravo regimental em agravo de instrumento. 2. Princípios da ampla defesa, do contraditório e do devido processo legal. Necessidade de exame prévio da legislação processual. Em regra, ofensa reflexa à Constituição Federal. Precedentes. 3. Ato Jurídico Perfeito. Penhora de bem dado em garantia real. Interpretação de norma infraconstitucional. Precedente. 4. Agravo regimental a que se nega provimento”.
+    Ainda que assim não fosse, a pretensão da recorrente não merece acolhida. Isso porque para se entender de forma diversa do que estabelecido nas instâncias originárias, faz-se imprescindível a análise dos fatos e provas constantes dos autos, o reexame da legislação infraconstitucional aplicável ao caso (Código Civil) e a interpretação de cláusulas contratuais, o que não enseja a abertura da via extraordinária, nos termos dos Enunciados 279 e 454 da Súmula do STF. Cito, a propósito, o AI-ED 832.624, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.5.2011, cuja ementa dispõe:
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EMBARGOS OPOSTOS CONTRA DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. DIREITO CIVIL. CONTRATO DE SEGURO. CONTROVÉRSIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – A apreciação dos temas constitucionais, no caso, depende do reexame dos fatos e provas constantes nos autos e a interpretação de cláusulas contratuais, o que encontra óbice nas Súmulas 279 e 454 do STF. Precedentes. II – Embargos de declaração recebidos como agravo regimental a que se nega provimento”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
