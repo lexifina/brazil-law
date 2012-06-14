@@ -1,0 +1,13 @@
+DECISÃO: O Supremo Tribunal Federal tem entendido possível o julgamento do recurso extraordinário (ou do respectivo recurso de agravo) em momento anterior ao do recurso especial, pelo Superior Tribunal de Justiça, não obstante a norma inscrita no art. 543, § 1º, do CPC, desde que existentes razões de ordem formal que legitimem a formulação, por esta Suprema Corte, de juízo de incognoscibilidade quanto ao apelo extremo.
+    Vale referir que a prática processual deste Tribunal orienta-se em tal sentido, quer se trate do próprio recurso extraordinário, quer se cuide, quando inadmitido, do respectivo recurso de agravo:
+    “ORDEM RITUAL INERENTE AO AGRAVO DE INSTRUMENTO.
+    - Mostra-se processualmente viável, nos casos de inadmissibilidade do recurso extraordinário motivada por razões de índole técnico-formal, o julgamento imediato, pelo Supremo Tribunal Federal, do concernente agravo, mesmo antes de o Superior Tribunal de Justiça julgar, em caráter definitivo, o recurso de agravo deduzido contra decisão que não admitiu o recurso especial.”
+    (AI 835.571-AgR-ED-ED/RJ, Rel. Min. CELSO DE MELLO)
+    Examino, desse modo, o presente recurso. E, ao fazê-lo, verifico que o Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 639.228-RG/RJ, Rel. Min. CEZAR PELUSO (Presidente), por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e em face das razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro CELSO DE MELLO
+Relator
