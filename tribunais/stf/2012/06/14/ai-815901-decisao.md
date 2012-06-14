@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Joaquim Freitas Guimarães interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, caput, da Constituição Federal vigente e do artigo 153, parágrafo 3º, da Emenda Constitucional nº 01/69.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDORES PÚBLICOS FEDERAIS APOSENTADOS. TESOUREIROS. REVISÃO DE APOSENTADORIA COM BASE NO CARGO DE AUDITOR FISCAL DO TESOURO NACIONAL. IMPOSSIBILIDADE. ATIVIDADES NÃO VINCULADAS À ARRECADAÇÃO E FISCALIZAÇÃO. INAPLICABILIDADE DO DECRETO N° 72.933/73.
+    1. Os servidores aposentados no cargo de Tesoureiro de diversos órgãos da Administração Pública Federal não fazem jus à revisão de suas aposentadorias com reenquadramento funcional no cargo de Auditor Fiscal do Tesouro Nacional, pois não exerciam atividades vinculadas à tributação, arrecadação e fiscalização dos tributos federais. sendo-lhes inaplicável as disposições do Decreto n° 72.933/73. Precedentes deste Tribunal.
+    2. Apelação não provida”.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado antes de 3 de maio de 2007, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação.
+    O acórdão recorrido manteve a sentença que julgou improcedente o pedido formulado na petição inicial amparado na seguinte fundamentação:
+    “Pretendem os servidores públicos federais, aposentados no cargo de Tesoureiro de diversos Ministérios, a revisão de suas aposentadorias por meio de enquadramento no cargo de Auditor Fiscal do Tesouro Nacional do fundamento de isonomia, nos moldes do art. 3°, VI, da lei n° 5.645/70, com base no entendimento de que enquadrados no quadro suplementar de pessoal, e não no mesmo cargo dos demais funcionários, teria havido ofensa ao princípio da isonomia, sendo inconstitucional a limitação contida no art. 5° do Decreto n° 72.933/73, que só permitiu, no seu inciso 11, a transformação dos cargos de Tesoureiro e Tesoureiro Auxiliar do Ministério da Fazenda.
+    O princípio da isonomia não pode ser invocado para toda e qualquer situação; a igualdade de tratamento só se faz possível entre aqueles que se encontrem em idêntica situação.
+    No presente caso, percebe-se que os servidores não atendiam os requisitos legais para o posicionamento pretendido, pois não estavam lotados no Ministério da Fazenda, nem suas atividades estavam elencadas dentre aquelas vinculadas à tributação, arrecadação e fiscalização dos tributos federais” (fl. 47).
+    Desse modo para ultrapassar o entendimento do Tribunal de origem, seria necessário reexame dos fatos e provas doa autos e da legislação infraconstitucional pertinente ao caso, o que se mostra incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280/STF. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. INSPETOR DE CAFÉ. ENQUADRAMENTO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 743.010/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/6/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. LEI N. 8.112/90, ART. 30. APROVEITAMENTO. JULGADO RECORRIDO FUNDAMENTADO UNICAMENTE EM NORMAS INFRACONSTITUCIONAIS: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 590.575/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/8/09).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SERVIDORES DO EXTINTO INSTITUTO DO AÇÚCAR E DO ALCOOL. APROVEITAMENTO. LEI 8.112/90. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – A discussão sobre os pressupostos de admissibilidade do recurso especial demanda a análise de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II – O tribunal de origem decidiu a questão referente ao aproveitamento dos servidores do extinto Instituto do Açúcar e do Alcool com base na legislação ordinária aplicável à espécie (Lei 8.112/90), o que inviabiliza o extraordinário. III – Agravo regimental improvido” (AI n° 601.974/PE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/2/11);
+    Nesse sentido, a seguinte decisão monocrática: RE n° 490.754/DF, Relator o Ministro Cezar Peluso, DJ de 24/8/06.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 14 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
