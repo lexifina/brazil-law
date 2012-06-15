@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União (DPU), em favor de Fabio Rudinei Machado, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que denegou a ordem nos autos do HC 235.696/SP.
+    Segundo a denúncia, em 29.10.2010, no Aeroporto Internacional de São Paulo, em Guarulhos, o paciente foi preso em flagrante, pois tentou embarcar em voo com destino a Bélgica, com conexão em Lisboa-Portugal, trazendo consigo 1.290g (mil duzentos e noventa gramas) de cocaína.
+    Sobreveio condenação pela prática do delito descrito no artigo 33, caput, c/c 40, I, da Lei 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicialmente fechado, e mais 583 dias-multa, tendo-lhe sido negado o direito de apelar em liberdade.
+    A defesa, então, impetrou habeas corpus no Tribunal Regional Federal da 3ª Região, pleiteando, em síntese, a fixação do regime inicial semiaberto.
+    A ordem restou denegada pelo TRF da 3ª Região.
+    No STJ, buscou-se também o reconhecimento da possibilidade de fixação de regime inicial de cumprimento de pena diverso do fechado.
+    A Quinta Turma desse Tribunal Superior denegou a ordem, nos termos da ementa transcrita:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PRETENSÃO DE REGIME INICIAL MAIS BRANDO. DESCABIMENTO. NO CASO CONCRETO ESTÁ EVIDENCIADO O ÓBICE ANTE A PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NÃO OCORRÊNCIA DE CONDIÇÕES PARA O RECONHECIMENTO DO BENEFÍCIO PREVISTO NO ART. 33, § 4º, DA LEI Nº 11.343/06. DECISÃO FUNDAMENTADA. PRECEDENTES.
+    1. A determinação da fixação de regime inicial fechado, aos delitos hediondos ou equiparados, não pode ser considerada como padronização ou, muito menos, violadora da garantia da individualização da pena (art. 5º, XLVI, CF). Na verdade, trata-se de mais um critério para ponderar o grau de censurabilidade com o qual o agente deve arcar pelo delito cometido.
+    2. Ordem denegada”.
+    A defesa e o Ministério Público interpuseram apelação no TRF da 3ª Região, que deu parcial provimento ao recurso da acusação, para majorar a pena-base e deu parcial provimento ao recurso da defesa para aplicar a causa de diminuição do art. 33, § 4º, da Lei 11.343/2006, tornando a pena definitiva em 5 anos, 8 meses e 1 dia de reclusão, em regime inicial fechado, e mais 565 dias-multa (consulta ao sítio do TRF da 3ª Região).
+    Agora, a impetrante afirma: o paciente é primário, conta com bons antecedentes e foi condenado a pena superior a 4 anos e inferior a 8 anos, de forma que preenche os requisitos para cumprimento de pena em regime mais brando, previsto no art. 33, § 2º, b, do CP.
+    Requer, desde já, seja alterado o regime inicial de cumprimento da pena para o semiaberto e, consequentemente, que o paciente passe a cumprir a pena, imediatamente, nesse regime mais brando.
+    No mérito, pede a confirmação da liminar.
+    Passo a decidir.
+    Na hipótese dos autos, à primeira vista, entendo caracterizada situação ensejadora de concessão de medida liminar.
+    Destaco que a Segunda Turma deste Supremo Tribunal Federal, em recentes julgados, teve o ensejo de permitir aos magistrados de primeiro grau, diante da análise do caso concreto, deliberar sobre a fixação do regime inicial de cumprimento de pena aos condenados por tráfico de drogas, nos termos do art. 33 do CP, a despeito do disposto no art. 2º, § 1º, da Lei 8.072/90, com a redação dada pela Lei 11.464/2007, que dispõe que os condenados por crimes hediondos, pela prática da tortura, por tráfico ilícito de entorpecentes e drogas afins e por terrorismo cumprirão a pena em regime inicialmente fechado. À guisa de exemplo, cito os seguintes precedentes: HC 106.135/MG, HC 106.313/MG e HC 108.264/ES, todos de minha relatoria.
+    Noutros julgados, quando, no caso concreto, o paciente preenchesse todos os requisitos do art. 33, § 2º, ‘c’, do Código Penal (condenado não reincidente, cuja pena seja inferior a 4 anos), a 2ª Turma vem deferindo a ordem para modificar o regime inicial de cumprimento de pena para o aberto: HC 105.779/SP, de minha relatoria.
+    Na hipótese dos autos, entendo que o disposto na Lei dos Crimes Hediondos (obrigatoriedade de início do cumprimento de pena no regime fechado) há de ser superado. Da sentença condenatória extrai-se o reconhecimento de ausência de circunstâncias judiciais desfavoráveis (art. 59, CP) e, ademais, trata-se de condenado não reincidente, o que, em um juízo preliminar, viabiliza a fixação do regime semiaberto (CP, art. 33, § 2º, b).
+    Diante de todas essas considerações e levando em conta que o paciente foi condenado à pena de 5 anos, 8 meses e 1 dia de reclusão, reputo presentes o fumus boni iuris e o periculum in mora, pressupostos ínsitos à concessão da medida liminar.
+    Nesses termos, defiro o pedido de medida liminar, para determinar ao Juízo da 1ª Vara Federal de Guarulhos/SP que, afastando o disposto no art. 2º, § 1º da Lei 8.072/90, proceda a nova fixação do regime inicial de cumprimento de pena, segundo os critérios previstos no art. 33, § § 2º e 3º do CP (Ação Penal n. 0010263-96.2010.403.6119).
+    Comunique-se. Publique-se.
+    Estando os autos suficientemente instruídos, abra-se vista à Procuradoria-Geral da República.
+    Brasília, 15 de junho de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
