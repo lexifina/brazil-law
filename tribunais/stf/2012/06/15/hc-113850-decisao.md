@@ -1,0 +1,33 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Alex Alessandro Washington Delfino Albuquerque da Silva e outro em favor de Marcelo Sass Nannini contra decisão monocrática da lavra da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que, nos autos do HC 235.625/SP, indeferiu a liminar pleiteada.
+    Em 21.01.2012, o paciente e outro coacusado foram presos em flagrante pela prática, em tese, do crime tipificado no art. 157, § 2º, I e II, combinado com art. 14, II, ambos do Código Penal. O magistrado de primeiro grau converteu a prisão em flagrante em prisão preventiva e, posteriormente, indeferiu o pedido de liberdade provisória.
+    Em sede de habeas corpus, o Tribunal de Justiça do Estado de São Paulo denegou a ordem pleiteada. Inconformada, a Defesa impetrou o HC 235.625/SP ao Superior Tribunal de Justiça, tendo a Ministra Maria Thereza de Assis Moura indeferido o pedido de tutela emergencial.
+    Argumentam os impetrantes, em síntese: a) revogação da segregação cautelar do paciente, pois ausentes seus pressupostos autorizadores; e b) existência de circunstâncias favoráveis ao paciente, como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+    Requerem a concessão de pedido liminar, para suspender a ação penal de origem, em trâmite no Juízo de Direito da 10ª Vara Criminal da Comarca de São Paulo, até o julgamento de mérito do writ impetrado no Superior Tribunal de Justiça, bem como para substituir a constrição cautelar por outra medida diversa da prisão. No mérito, pugnam pelo julgamento tempestivo do habeas impetrado perante a Corte Superior e a revogação do mandado de prisão.
+    Eis a decisão impugnada:
+    “(...).
+    Da análise dos autos, não vislumbro, em juízo perfunctório, manifesta ilegalidade no acórdão impugnado, a ensejar o deferimento da medida de urgência.
+    Observa-se, inicialmente, a ausência, nos autos, das cópias das decisões proferidas pelo juízo de primeiro grau. Tal circunstância impede a análise de eventual plausibilidade jurídica do pedido. Cumpre assinalar que a mera transcrição das decisões na inicial da impetração não supre a ausência das respectivas cópias.
+    Sobre a conveniência da plena instrução da petição inicial, Ada Pellegrini Grinover, Antonio Magalhães Gomes Filho e Antonio Scarance Fernandes prelecionam:
+    “Apesar do silêncio da lei, é também conveniente que a petição de habeas corpus seja instruída por documentos aptos a demonstrar a ilegalidade da situação de constrangimento ou ameaça trazidos a conhecimento do órgão judiciário: embora a omissão possa vir a ser suprida pelas informações do impetrado ou por outra diligência, determinada de ofício pelo juiz ou tribunal, é do interesse do impetrante e do paciente que desde logo fique positivada a ilegalidade.” (Recursos no Processo Penal, 4ªed. Rev. Amp. e atual., Editora Revista dos Tribunais, 2005, p. 366).
+    Ademais, o acórdão estadual aponta para a necessidade da custódia cautelar para garantia da ordem pública, destacando a possibilidade de reiteração criminosa.
+    Destarte, não se pode afirmar, em juízo de cognição preliminar e superficial, que a decisão que manteve a custódia cautelar do paciente carece de fundamentação concreta.
+    Finalmente, a liminar pleiteada, nos termos em que deduzida, imbrica-se com a matéria de fundo, cuja resolução demanda análise pormenorizada dos autos e julgamento pelo Órgão Colegiado, juiz natural da causa, consubstanciando-se em pedido eminentemente satisfativo, incabível na espécie...
+    Ante o exposto, indefiro a liminar.”
+    É conhecida a Súmula 691 do Supremo Tribunal Federal, de seguinte teor:
+          “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    O escopo da Súmula 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e respectivas competências.
+    A jurisprudência desta Suprema Corte, por outro turno, tem abrandado, em casos excepcionais, o rigor do mandamento sumular, conforme se observa nos seguintes precedentes: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; e HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    No caso presente, não visualizo com facilidade motivos para excepcionar o entendimento sumular.
+    O Superior Tribunal de Justiça não teve oportunidade de debater a matéria veiculada no presente writ, inviabilizando a análise do pedido, neste momento, pelo Supremo Tribunal Federal, sob pena de supressão de instância, em afronta às normas constitucionais de competência.
+    Agregue-se o fato de que o Superior Tribunal de Justiça não apreciou as questões pertinentes à suspensão da ação penal de origem ou à prisão cautelar do paciente, uma vez deficiente a instrução do habeas corpus – ausência das decisões proferidas pelo juízo de primeiro grau –, impossibilitando, dessa forma, o confronto entre as alegações da impetração e os fundamentos do decreto prisional.
+    É de todo inapropriado que, tendo o habeas corpus sido deficientemente instruído no Superior Tribunal de Justiça, a parte pretenda remediar a falha com nova impetração perante o Supremo e não perante aquela mesma Corte.
+    Ainda que assim não fosse, em análise de cognição sumária, a prisão preventiva do paciente parece adequadamente fundamentada, já que consideradas a comprovação da materialidade e da autoria, bem como a existência do fundamento da garantia da ordem pública e da conveniência da instrução criminal, razão pela qual não se adotaram as medidas cautelares previstas no art. 319 do Código de Processo Penal.
+    Nesse diapasão, a Corte Estadual também ressaltou que “as circunstâncias do caso em tela, à evidência, fazem presente a possibilidade de reiteração criminosa”.
+    Ressalto, ainda, que a afirmada circunstância do paciente ter ocupação lícita e residência fixa não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do CPP (HC 108.314/MA, rel. Min. Luiz Fux, 1ª Turma, DJe 5.10.2011; HC 106.816/PE, rel. Min. Ellen Gracie, 2ª Turma, DJe 20.6.2011).
+    Não vislumbro, portanto, manifesto constrangimento ilegal apto a afastar o óbice da Súmula.
+    Ante o exposto e com base no art. 21, § 1º, do Regimento Interno e na Súmula nº 691/STF, nego seguimento ao presente habeas corpus.
+    Arquivem-se.
+    Publique-se.
+    Brasília, 15 de junho de 2012.
+Ministra Rosa Weber
+Relatora
