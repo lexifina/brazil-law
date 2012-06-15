@@ -1,0 +1,2 @@
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 14 de junho de 2012, com base no disposto nos arts. 10, inciso VI, e 37 da Lei nº 4.595, de 31 de dezembro de 1964, e tendo em vista o disposto nas Leis ns. 8.004, de 14 de março de 1990, 8.088, de 31 de outubro de 1990, 8.100, de 5 de dezembro de 1990, e 10.150, de 21 de dezembro de 2000, e no Decreto nº 4.378, de 16 de setembro de 2002,
+R E S O L V E :
