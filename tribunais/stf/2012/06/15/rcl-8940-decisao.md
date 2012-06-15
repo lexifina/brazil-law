@@ -1,0 +1,24 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, ajuizada em favor de WILSON MEDEIROS DA SILVA, contra o Juízo da Vara Federal de Magé-RJ, que supostamente teria violado a autoridade da Súmula Vinculante nº 11 desta Corte.
+    O reclamante alega inexistência das hipóteses justificadoras do uso das algemas quando da sua prisão em flagrante e condução à Delegacia de Polícia.
+    Requer, em síntese, “a anulação do ato prisional do reclamante e da ação penal 2009.51.14.000050-2” na qual o ora reclamante é réu.
+    Indeferi o pedido de liminar (fls. 52-53), informações foram prestadas (fls. 48-49) e o Ministério Público Federal opinou pela improcedência da reclamação (fls. 58-60) .
+    É o relatório.
+    Decido.
+    O Supremo Tribunal Federal, ao aprovar o enunciado da Súmula Vinculante nº 11, consolidou jurisprudência da Corte no sentido de que o uso de algemas limita-se a casos excepcionais.
+    O verbete sumular possui a seguinte redação:
+    “Só é lícito o uso de algemas em caso de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado” (sem grifos no original).
+    Por oportuno, ressalto que o precedente determinante da elaboração da Súmula Vinculante n° 11 foi o HC n° 91.952, que diz respeito ao emprego de algemas em sessão de julgamento do Tribunal do Júri, considerando-se a influência que referida constrição poderia produzir sobre o veredicto dos jurados.
+    Ante as considerações apresentadas, entendo que a decisão impugnada não afronta a autoridade da Súmula Vinculante nº 11, tendo em vista a existência de fundamentação escrita que justifica a necessidade excepcional do uso de algemas.
+    Nesse ponto, destaco o seguinte trecho das informações prestadas pela autoridade reclamada:
+    “Informo a V. Exª que, em 30/07/2009, foi proferida por este subscritor sentença condenatória onde as alegações constantes da Reclamação 8.940 são devidamente enfrentadas e esclarecidas, eis que o tema já havia sido ventilado nas alegações finais de defesa. Transcrevo, abaixo, o trecho pertinente da referida sentença, que já significam as nossas informações:
+    “Do uso das algemas.
+    No depoimento prestado na última AIJ, o Sargento Ronaldo afirmou que, efetuada a abordagem com interceptação do automóvel do réu, houve o encontro das notas falsas. Em seguida, foram todos para a DPO que ficava a poucos metros do local da abordagem, onde houve revista minuciosa do carro e do réu. Afirmou ainda o depoente que, já em direção à 65ª em diante, o réu foi algemado. A defesa sustenta que se deve relaxar a custódia imedatamente, em razão do uso das algemas, nos termos da Súmula vinculante 11 do STF.
+    Afirmou o Sargento Ronaldo que ‘o réu foi levado para a 65ª DP algemado na viatura policial e o Pálio branco foi guiado pelo depoente’. Pelo contexto das circunstâncias, o réu foi na viatura policial que era ocupada apenas pelo Soldado que acompanhava o depoente na ronda. Desse modo, tenho que as circunstâncias presentes (um policial, sozinho, numa viatura com um preso em flagrante), o uso das algemas não foi abusivo, mas absolutamente compatível com as circunstâncias presentes. Portanto, não há elementos que apontem no sentido da abusividade do uso das algemas no presente caso e que, muito menos, possa conduzir a eventual nulidade da custódia” (fl. 48, grifei).
+    Conforme se pode verificar, houve justificativa expressa para o uso das algemas durante a prisão em flagrante e posterior condução do reclamante à Delegacia de Polícia, que tomou por base, entre outros argumentos, aspectos fáticos de segurança reputados relevantes naquela ocasião.
+    Por fim, é importante salientar que a sedimentada jurisprudência desta Corte é no sentido de que não é possível admitir-se, em reclamação, qualquer dúvida a respeito das questões de fato apontadas para determinar o uso das algemas (Rcl nº 6.870-GO, rel. min. Ellen Gracie, DJe 210, publicado em 06.11.2008; Rcl 9.470, da minha relatoria, DJe de 2.2.2010; Rcl 9.420, rel. min. Celso de Mello, DJe de 4.12.2009; Rcl. 9.877, rel. min. Ellen Gracie, DJe de 25.6.2010; Rcl 9.632, rel. min. Ayres Britto, DJe de 2.2.2010; e Rcl 9468-AgR, rel. min. Ricardo Lewandowski, DJe de 11.4.2011).
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e dos arts. 21, § 1º, e 161, parágrafo único, ambos do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação.
+    Publique-se. Arquivem-se os autos.
+    Brasília, 15 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
