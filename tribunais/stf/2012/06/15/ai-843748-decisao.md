@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) de acórdão do Tribunal de Justiça do Estado do Maranhão, cuja ementa tem o seguinte teor (fls. 111-112):
+    “PROCESSO CIVIL. ADMINISTRATIVO. AÇÃO DE COBRANÇA. VERBAS SALARIAIS. AUSÊNCIA DE PAGAMENTO. COMPROVAÇÃO DO VÍNCULO FUNCIONAL. RESPONSABILIDADE DO ENTE MUNICIPAL. APELO IMPROVIDO.
+    I - A ausência de ato administrativo de inclusão do direito ao pagamento da verba salarial devida à apelada na Lei Orçamentária como "restos a pagar" ou ausência da nota de empenho não pode comprometer o pagamento da dívida pelo ente público, quando a petição inicial estiver instruída com a documentação comprovando o débito e for demonstrada a execução do serviço, ante a proteção ao salário conferida pela Constituição Federal, no art. 7º, X.
+    II - O não pagamento da remuneração ao servidor público, como forma de contraprestação pelos serviços realizados, viola o art. 7º da Constituição Federal, que são normas imperativas, invioláveis e de observância obrigatória, principalmente pela Administração Pública, ex vi do art. 39, § 3º, da Carta Magna.
+    III - Recurso de apelação conhecido e improvido.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV e LIV; 93, IX; 100, §§ 3º e 5º, da Constituição federal e 87, caput, II, do ADCT. Sustenta-se que houve negativa de prestação jurisdicional, “que o Tribunal de origem recusou-se explicitamente a abordar a questão constitucional da incidência do § 3º ou do § 5º, do art. 100, da CF, devolvida ao seu conhecimento por intermédio de apelação, e repetida em embargos declaratórios prequestionadores” (fls. 149).
+    É o relatório. Decido.
+    Não procede a alegação de afronta aos arts. 5º, XXXV e LIV, e 93, IX, da Constituição, pois o acórdão recorrido inequivocamente prestou jurisdição, sem ter violado os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a parte ora agravante.
+    Ademais, ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010, tema 339), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”. Portanto, o acórdão recorrido não divergiu dessa orientação.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 15 de junho de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
