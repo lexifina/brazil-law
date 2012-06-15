@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Roberto Aurélio Fernandes Machado e outro em favor de Thiago Heitor Souza dos Santos contra o Relator do HC 113.618/SP deste Supremo Tribunal Federal, Ministro Dias Toffoli, que indeferiu o pedido de liminar.
+    Na espécie, o paciente foi preso em flagrante como incurso no delito tipificado no art. 33 da Lei 11.343/06. O pedido de liberdade provisória foi indeferido pelo magistrado de primeiro grau. Sobreveio sentença condenatória para fixar a pena em 5 (cinco) anos de reclusão, em regime inicialmente fechado, e 500 (quinhentos) dias-multa.
+    Contra a manutenção da segregação cautelar, impetrou-se habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que denegou a ordem. Inconformada, a Defesa impetrou outro habeas corpus perante o Superior Tribunal de Justiça, que indeferiu o writ. Tal fato, por sua vez, ocasionou a impetração do HC 113.618/SP nesta Suprema Corte, que, em decisão monocrática proferida pelo Ministro Dias Toffoli, indeferiu a medida cautelar pleiteada.
+    Colho excertos da decisão ora impugnada:
+    “(...).
+    Pelo que se tem na decisão proferida pela Quinta Turma do Superior Tribunal, não se vislumbra, neste momento, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da medida liminar.
+    (…).
+    Dito isto, afirmo que não obstante o Plenário da Corte tenha, quando do julgamento do HC nº 104.339/SP, o Relator Ministro Gilmar Mendes (informativo STF nº 665), assentado incidenter tantum a inconstitucionalidade do art. 44, caput, da Lei nº 11.343/06 para admitir a possibilidade de concessão de liberdade provisória em se tratando de prisão em flagrante pelo delito de tráfico de entorpecentes, quando ausentes os pressupostos autorizadores da constrição cautelar (art. 312 do Código de Processo Penal), a decisão proferida pelo Juízo de Direito da 29ª Vara Criminal da Comarca de São Paulo vedou ao paciente o direito de recorrer em liberdade, à primeira vista, embasado em elementos aptos a demonstrar a necessidade da medida extrema, nos termos do art. 312 do Código de Processo Penal.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.”
+    Argumentam os impetrantes, em síntese, o constrangimento ilegal consubstanciado na violação dos princípios da individualização das penas, da presunção de inocência e da fundamentação das decisões. Sustentam ainda a inconstitucionalidade do art. 44 da Lei 11.343/06, conforme já declarada por esta Suprema Corte.
+    Requerem, ao fim, em medida liminar e no mérito, a concessão da ordem, para colocar o paciente em liberdade e substituir a pena privativa de liberdade por restritiva de direitos.
+    Desde logo, registro que o objeto do presente writ já está sendo submetido à apreciação desta Suprema Corte nos autos do HC 113.618/SP, distribuído à relatoria do eminente Ministro Dias Toffoli.
+    Conforme orientação firmada pelo Plenário desta Suprema Corte, “não cabe pedido de habeas corpus originário para o Tribunal Pleno, contra ato de Ministro ou órgão fracionário da Corte” (HC 86.548/SP, rel. Min. Cezar Peluso, maioria, DJe 19.12.2008).
+    Para tanto, a Corte ressaltou a necessidade de aplicação analógica do enunciado da Súmula 606/STF, que preceitua: “Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”.
+    Nesse mesmo sentido, enumero os seguintes julgados: HC 91.207/RJ, rel. p/ acórdão Min. Eros Grau, Plenário, maioria, DJe 05.3.2010; HC 100.397/MG, rel. p/ acórdão Min. Cármen Lúcia, Plenário, maioria, DJe 01.7.2010; HC 100.738/RJ, rel. p/ acórdão Min. Cármen Lúcia, Plenário, maioria, DJe 01.7.2010; e HC 104.843-AgR/BA, rel. Min. Ayres Britto, Plenário, maioria, DJe 02.12.2011.
+    Em verdade, o presente writ pretende a reapreciação de argumentos já submetidos à deliberação desta Corte no HC 113.618/SP, rel. Min. Dias Toffoli, bem como o reexame da decisão que indeferiu o pedido de tutela emergencial.
+    Ante o exposto, não conheço do presente habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se
+    Brasília, 15 de junho de 2012.
+Ministra Rosa Weber
+Relatora
