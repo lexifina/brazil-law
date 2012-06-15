@@ -1,0 +1,20 @@
+DECISÃO
+    Vistos.
+    Carlos Marques Castro Júnior interpõe agravo de instrumento contra a decisão que determinou a retenção do recurso extraordinário nos autos principais, a teor do disposto no artigo 542, § 3º, do Código de Processo Civil”.
+    O agravante postula a reforma dessa decisão, possibilitando o processamento imediato do recurso, asseverando que essa manteve ordem de desentranhamento de documentos, os quais se mostram imprescindíveis ao acolhimento de sua tese defensiva, sustentada nos autos principais.
+    Decido.
+    Não merece reparos a decisão agravada, uma vez que, realmente, aplica-se à hipótese dos autos a regra do artigo 542, § 3º, do Código de Processo Civil, que determina a retenção dos recursos especiais e extraordinários interpostos contra decisão interlocutória proferida nos processos de conhecimento, cautelar e embargos à execução. Nesse sentido, anote-se:
+    “RECURSO EXTRAORDINÁRIO - DECISÃO INTERLOCUTÓRIA - RETENÇÃO. Consoante dispõe o § 3º do artigo 542 do Código de Processo Civil, tratando-se de extraordinário interposto contra decisão interlocutória, ou seja, pronunciamento que não se mostra definitivo - deixando, assim, de pôr termo ao processo, com ou sem julgamento do mérito -, o recurso há de ficar retido, pouco importando a origem da decisão proferida” (AI nº 585.453/SP-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 1/2/08).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO RETIDO. ART. 542, § 3º, DO CPC. AFASTAMENTO DA RETENÇÃO. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. PROVIMENTO LIMINAR. SÚMULA N. 735. 1. Aplicação do § 3º do art. 542 do CPC, que determina a retenção do recurso extraordinário interposto contra decisão interlocutória aos autos. 2. Ausência de excepcionalidade a ensejar a flexibilização da regra do art. 542, § 3º, do CPC. 3. Não cabe recurso extraordinário contra acórdão que concede medida liminar. Súmula n. 735 desta Corte. Agravo regimental a que se nega provimento” (AI nº 631.411/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 17/8/07).
+    “Extraordinário. Decisão Interlocutória. Admissibilidade. Retenção. Descabimento. Art. 542, § 3º, do CPC. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a destrancar recurso extraordinário contra decisão interlocutória que não causar prejuízo irremediável ao recorrente” (AI nº 492.751/SP-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJ de 14/3/06).
+    E, cuidando especificamente de matéria eleitoral, tal como o presente agravo, cite-se a ementa do seguinte precedente:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ELEITORAL. DECISÃO NÃO DEFINTIVA. RECURSO RETIDO. APLICAÇÃO DO ART. 542, § 3º DO CPC. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. AGRAVO IMPROVIDO. I - O recurso extraordinário interposto de decisão interlocutória, não definitiva, que não põe termo ao processo, deverá ficar retido nos autos e somente será processado se o reiterar a parte no prazo para a interposição do recurso contra a decisão final ou no prazo para as contrarrazões. Precedentes. II – Não existe no presente caso qualquer situação excepcional a ensejar a não aplicação do disposto no art. 542, § 3º, do CPC. III - Agravo regimental improvido” (AI nº 748.593-AgR/DF, Relator Ministro Ricardo Lewandowski, Primeira Turma, DJe de 16/11/10).
+    Ressalte-se que o acórdão objeto do apelo extremo manteve a determinação de desentranhamento de documentos, asseverando não haver demonstração de “que se referissem a fatos novos e supervenientes às contrarrazões”.
+    Nas razões de seu inconformismo, limitou-se o agravante a repetir o que já havia alegado, antes do julgamento do recurso, sem a apresentação de inovação, apta a permitir uma efetiva reapreciação do fundamento da decisão agravada
+    Ausentes, assim, fundamentos novos bastantes para afastar, ao caso, a incidência da norma do artigo 542, § 3º, do Código de Processo Civil, o agravo não merece acolhida.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 15 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
