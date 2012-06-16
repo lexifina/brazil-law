@@ -1,0 +1,4 @@
+Art. 235-D. Nas viagens de longa distância, assim consideradas aquelas em que o motorista profissional permanece fora da base da empresa, matriz ou filial e de sua residência por mais de 24 (vinte e quatro) horas, serão observados:
+I - intervalo mínimo de 30 (trinta) minutos para descanso a cada 4 (quatro) horas de tempo ininterrupto de direção, podendo ser fracionados o tempo de direção e o de intervalo de descanso, desde que não completadas as 4 (quatro) horas ininterruptas de direção;
+II - intervalo mínimo de 1 (uma) hora para refeição, podendo coincidir ou não com o intervalo de descanso do inciso I;
+III - repouso diário do motorista obrigatoriamente com o veículo estacionado, podendo ser feito em cabine leito do veículo ou em alojamento do empregador, do contratante do transporte, do embarcador ou do destinatário ou em hotel, ressalvada a hipótese da direção em dupla de motoristas prevista no § 6º do art. 235-E.
