@@ -1,0 +1,1 @@
+Art. 310-A. (VETADO)
