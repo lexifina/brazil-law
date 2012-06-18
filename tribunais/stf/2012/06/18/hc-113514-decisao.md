@@ -1,0 +1,16 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Telma Cristina Alves Braga, em favor de JULIANA BARROS BRAGA, em que aponta como autoridade coatora o Ministro Honildo Amaral de Mello Castro (Desembargador convocado do TJ/AP), do Superior Tribunal de Justiça.
+    Consta dos autos que a paciente foi condenada, em primeiro grau, à pena de 3 anos e 4 meses de reclusão, em regime aberto, pela prática do crime de tráfico ilícito de drogas (art. 33 da Lei 11.343/2006). A sanção corporal foi substituída por restritiva de direitos.
+    Inconformado, o Ministério Público Federal interpôs apelação para o Tribunal Regional Federal da 5ª Região, que, segundo a impetrante, condenou a paciente à reprimenda de 4 anos de reclusão, em regime inicial fechado.
+    Buscando o restabelecimento da substituição da pena corporal em sanção restritiva de direitos, a defesa manejou habeas corpus no Superior Tribunal de Justiça, ocasião em que o Ministro Relator deferiu, em parte, a liminar pleiteada, nos seguintes termos:
+    “(...)
+    Com esses fundamentos, CONCEDO, EM PARTE, A LIMINAR apenas para, mantida a condenação imposta à paciente, suspender até o julgamento desta Ordem os efeitos do acórdão oriundo do Tribunal Regional Federal da 5ª Região nos autos da Apelação Criminal 7525-RN (2009.84.00.010975-1), no sentido de remover o obstáculo imposto pela Lei 11.343/2006, atribuindo-se, posteriormente, ao MM. Juiz da Vara de Execuções Penais a tarefa de aferir os preenchimentos das condições objetivas e subjetivas da paciente JULIANA BARROS BRAGA para a substituição da pena, decidindo como lhe parecer de direito.
+    Comunique-se, com urgência, o inteiro teor desta decisão ao eg. Tribunal Regional Federal da 5ª Região e ao d. Juízo da Vara de Execuções Penais, para as providências cabíveis, solicitando-se-lhes as informações necessárias dentro do prazo legal” (grifos no original).
+    É contra essa decisão que se insurge a impetrante.
+    A impetração, contudo, não comporta seguimento. Isso porque a petição inicial está incompleta, o que torna impossível o perfeito entendimento da questão e a identificação do pedido formulado.
+    Não bastasse isso, o pedido foi encaminhado via fac-símile, e a impetrante não apresentou a petição original até a presente data, conforme certidão de não recebimento de originais.
+    Com efeito, esta Corte considera inexistente pedido encaminhado por fax, quando a petição original não é apresentada dentro do prazo adicional de cinco dias instituído pelo art. 2º da Lei 9.800/1999. Nesse sentido, menciono as seguintes decisões, entre outras: RE 598.337-AgR/RJ e ARE 655.967-AgR/RJ, Rel. Min. Cármen Lúcia; AI 837.380-AgR/PR, Rel. Min. Dias Toffoli; AI 758.314-AgR/PE, Rel. Min. Joaquim Barbosa; RE 366.044-AgR-AgR/RJ, Rel. Min. Gilmar Mendes; RE 664.314-AgR/RJ, Rel. Min. Luiz Fux; AI 830.931-AgR/RJ, Rel. Min. Rosa Weber; AI 310.992-AgR/SP, Rel. Min. Moreira Alves; AI 703.629-AgR/SP e AI 800.399-AgR/CE, de minha relatoria.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 18 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
