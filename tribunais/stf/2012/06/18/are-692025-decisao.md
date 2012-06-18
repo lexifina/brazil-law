@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO AUTORAL E DO CONSUMIDOR. DANOS MORAIS. USO DE FOTOGRAFIA. IMPOSSIBILIDADE DO REEXAME DE CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. DANOS IMATERIAIS E MATERIAIS. DIREITOS AUTORAIS. USO DE FOTOGRAFIA ALÉM DO TEMPO AUTORIZADO PELO AUTOR.
+    1. O autor da obra, para fins de direitos autorais, é aquele que a cria, e que a ela confere características e contornos particulares que a tornam ímpar e diferenciam de outras da mesma natureza. Aqui, no caso, o fotógrafo, que ao fotografar, utilizando técnicas próprias para tanto, exprimiu sua visão particular. Outro profissional ao realizar o mesmo trabalho exprimiria provavelmente outra face, produzindo outra obra, ainda que com a mesma temática. Assim, não se pode dizer que se trata de trabalho meramente mecânico.
+    2. Não deve ser acolhida a de ilegitimidade passiva. À requerida é imputado o uso indevido das fotografias, e não à agência de publicidade intermediadora.
+    3. O caso dos autos diz com hipótese de tutelabilidade do direito à imagem, por isso o dever legal de reparar decorre do próprio uso indevido do direito personalíssimo. O dano consiste na utilização indevida da fotografia com fins lucrativos, dispensando-se, deste modo, a demonstração do prejuízo material ou moral.
+    4. O dano moral deve ser considerado in re ipsa, por conta disto, dispensa-se a sua efetiva comprovação. Entende-se suficiente a demonstração do ato ilícito e do nexo de causalidade, pois o dano moral deflui como consequência natural do ilícito (Precedentes do STJ).
+    5. A verba indenizatória deve ser fixada em conformidade com os critérios objetivos e subjetivos do caso concreto, observados os parâmetros adotados pela jurisprudência desta Câmara, e as do STJ, mas, essencialmente, deve buscar a compensação da vítima, evitando enriquecê-la indevidamente. No caso dos autos, à vista de todos estes critérios, impõe-se o arbitramento dos danos morais em R$ 8.000,00 (oito mil reais), corrigidos pelo IGPM e com incidência de juros moratórios de 1% ao mês, ambos desde a data deste Acórdão.
+    6. Redimensionados os ônus sucumbenciais.
+    PRELIMINAR REJEITADA. APELO DA REQUERIDA DESPROVIDO. APELO DO AUTOR PROVIDO. UNÂNIME.”
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. IV, V e X, da Constituição da República.
+    Sustenta que a “decisão não guarda relação com as circunstâncias do caso concreto, pois como amplamente demonstrado, em hipótese alguma, houve a ofensa a tais esferas da pessoa do recorrido, como tampouco, prova da ocorrência de danos suportados.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento da inadmissibilidade do recurso extraordinário a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Lei n. 9.610/1998). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    7. Ademais, concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS. RESTITUIÇÃO DE VALOR PAGO INDEVIDAMENTE. 1. Conversão em agravo regimental. 2. Matéria infraconstitucional. Ofensa constitucional indireta. 3. Inviabilidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento” (ARE 680.645-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2012).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. RESPONSABILIDADE CIVIL. DANOS MORAIS E MATERIAIS. CONTROVÉRSIA DECIDIDA À LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. ALEGAÇÃO DE AFRONTA AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. Não é possível, em recurso extraordinário, analisar o acervo fático-probatório dos autos (Súmula 279/STF). 2. De mais a mais, o aresto impugnado, em que pese haver dissentido dos interesses da parte agravante, está devidamente fundamentado. Logo, não cabe falar em ofensa ao inciso IX do art. 93 da Constituição Republicana. 3. Agravo regimental desprovido” (AI 555.546-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 11.5.2012).
+    8. O Supremo Tribunal Federal assentou, ainda, que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido: AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009.
+    Nada há a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
