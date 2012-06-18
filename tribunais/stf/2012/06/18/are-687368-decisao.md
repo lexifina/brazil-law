@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. 1) PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) ASTREINTE. QUANTUM. REDUÇÃO. ALEGADA CONTRARIEDADE AO ART. 5º, INC. II E XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Colégio Recursal de Mogi das Cruzes/SP:
+    “Manutenção da sentença proferida. Falha na prestação de serviços. Recorrido não estava em débito. Deixaram de compensar valor pago em duplicidade. Descontos indevidos da conta bancária do recorrido. Danos morais demonstrados” (fl. 212).
+    No voto condutor do recurso inominado, a Juíza Relatora Daniela Nudeliman afirmou:
+    “Por outro lado, entendo que a multa também é devida, pois o recorrente descumpriu de forma reiterada a tutela antecipada deferida em favor do recorrido, efetuando descontos indevidos em sua conta bancária.
+    (…)
+    Ademais, o quantum arbitrado possui valor consoante ao real sofrimento enfrentado pelo recorrido” (fls. 213 e 214).
+    Não foram opostos embargos de declaração.
+    2. O Agravante afirma que o Colégio Recursal de origem teria contrariado os arts. 5º, inc. II e XXXVI, 22, inc. VI, 62 e 84, inc. XXVI, da Constituição da República.
+    Assevera que “prevê a Lei Civil Brasileira em seu artigo 944 que a indenização mede-se pela extensão do dano (…) A condenação majorada pelo Juiz Singular não pode ser mantida, ante as circunstâncias do fato narrado nos autos (…) Dessa maneira, mister se faz a redução do ‘quantum’ indenizatório” (fls. 247, 249 e 251).
+    Sustenta que “com relação à aplicação de juros de mora na atualização das condenações por danos morais, esses, como o próprio nome já diz, só podem ser cobrados quando o devedor está em ‘mora’, isto é a partir da citação” (fl. 252).
+    Requer, alternativamente, “a exclusão/anulação da multa ‘astreinte’” ou que “seja reduzida a multa ‘astreinte’ para o valor limite da causa” (fl. 254).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fl. 281).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A matéria constitucional suscitada nas razões do recurso extraordinário não foi objeto de debate e decisão prévios pelo Colégio Recursal, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO. INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO IMPROVIDO. I Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. II Ausente, na espécie, vínculo empregatício entre a agravante e a agravada, cabe à Justiça Comum o julgamento da presente demanda. III Agravo regimental improvido” (ARE 658.028-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 26.3.2012).
+    7. Ademais, este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. II e XXXVI, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código de Processo Civil e Código Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide na espécie a Súmula n. 636 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+    “Agravo regimental no recurso extraordinário com agravo. Prequestionamento. Ausência. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Astreintes. Legislação infraconstitucional. (…) 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido” (ARE 658.085-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 6.2.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
