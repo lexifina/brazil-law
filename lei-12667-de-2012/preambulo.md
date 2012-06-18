@@ -1,0 +1,2 @@
+Altera a Lei nº 11.442, de 5 de janeiro de 2007, que dispõe sobre o transporte rodoviário de cargas por conta de terceiros e mediante remuneração e revoga a Lei nº 6.813, de 10 de julho de 1980, para determinar, no caso do transporte de produtos perigosos, a observância de legislação federal específica.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
