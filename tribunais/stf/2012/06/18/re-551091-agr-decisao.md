@@ -1,0 +1,36 @@
+Decisão:
+    Vistos
+    Estado de São Paulo interpõe tempestivo agravo regimental (fls. 144 a 147) contra a decisão de fl. 141, da lavra do Ministro Sepúlveda Pertence, que deu provimento ao recurso extraordinário, com a seguinte fundamentação:
+    “RE, a, de acórdão do Tribunal de Justiça de Estado de São Paulo assim ementado (f. 103):
+    ‘Servidores Públicos – Adicional de insalubridade – Vinculação ao Salário-Mínimo – Inexistência de ofensa à Constituição Federal – Apelo não provido.’
+    Alega o RE violação do artigo 7o, IV, da Constituição Federal.
+    Decido.
+    O acórdão recorrido contrariou o entendimento do Tribunal de que ofende o artigo 7o, IV, da Constituição Federal, a adoção do salário mínimo como base de cálculo para o adicional de insalubridade, v.g., AI 233.271-AgR, 21.09.1999, 1ª T, Pertence; RREE 208.684, 26.03.1999, 1ª T, Moreira; 271.752-AgR-ED, 20.02.2000, 2ª T, Jobim; e 236.396, 02.10.1998, 1ª T, Pertence, este último com a seguinte ementa:
+    ‘Adicional de insalubridade: vinculação ao salário mínimo, estabelecida pelas instâncias ordinárias, que contraria o disposto no art. 7º, IV, da Constituição.’
+    Na linha dos precedentes, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do C.Pr.Civil)”.
+    Alega o agravante, em síntese, que deve ser uniformizada por esta Corte, a interpretação do artigo 7°, inciso IV, da Constituição Federal, a respeito da possibilidade de o salário mínimo ser utilizado como base de cálculo do adicional de insalubridade.
+    É o relatório.
+    Decido.
+    Na sessão de 30 de abril de 2008, o Plenário desta Corte, ao apreciar o Recurso Extraordinário nº 565.714/SP, relatora a Ministra Cármen Lúcia, cuja repercussão geral já havia sido reconhecida, firmou o entendimento de não ser legítimo o cálculo do adicional de insalubridade com base no salário mínimo, por constituir fator de indexação, implicando a prática ofensa ao artigo 7º, inciso IV, da Constituição Federal. Anote-se a ementa deste julgado:
+    “CONSTITUCIONAL. ART. 7º, INC. IV, DA CONSTITUIÇÃO DA REPÚBLICA. NÃO-RECEPÇÃO DO ART. 3º, PARÁGRAFO ÚNICO, DA LEI COMPLEMENTAR PAULISTA N. 432/1985 PELA CONSTITUIÇÃO DE 1988. INCONSTITUCIONALIDADE DE VINCULAÇÃO DO ADICIONAL DE INSALUBRIDADE AO SALÁRIO-MÍNIMO: PRECEDENTES. IMPOSSIBILIDADE DA MODIFICAÇÃO DA BASE DE CÁLCULO DO BENEFÍCIO POR DECISÃO JUDICIAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+    1. O sentido da vedação constante da parte final do inc. IV do art. 7º da Constituição impede que o salário-mínimo possa ser aproveitado como fator de indexação; essa utilização tolheria eventual aumento do salário-mínimo pela cadeia de aumentos que ensejaria se admitida essa vinculação (RE 217.700, Ministro Moreira Alves).
+    A norma constitucional tem o objetivo de impedir que aumento do salário-mínimo gere, indiretamente, peso maior do que aquele diretamente relacionado com o acréscimo. Essa circunstância pressionaria reajuste menor do salário-mínimo, o que significaria obstaculizar a implementação da política salarial prevista no art. 7º, inciso IV, da Constituição da República.
+    O aproveitamento do salário-mínimo para a formação da base de cálculo de qualquer parcela remuneratória ou com qualquer outro objetivo pecuniário (indenizações, pensões, etc.) esbarra na vinculação vedada pela Constituição do Brasil.
+    Histórico e análise comparativa da jurisprudência do Supremo Tribunal Federal.
+    Declaração de não-recepção pela Constituição da República de 1988 do art. 3º, parágrafo único, da Lei Complementar n. 432/1985 do Estado de São Paulo.
+    2. Inexistência de regra constitucional autorizativa de concessão de adicional de insalubridade a servidores públicos (art. 39, § 1º, inc. III) ou a policiais militares (art. 42, § 1º, c/c 142, § 3º, inc. X).
+    3. Inviabilidade de invocação do art. 7º, inc. XXIII, da Constituição da República, pois mesmo se a legislação local determina a sua incidência aos servidores públicos, a expressão adicional de remuneração contida na norma constitucional há de ser interpretada como adicional remuneratório, a saber, aquele que desenvolve atividades penosas, insalubres ou perigosas tem direito a adicional, a compor a sua remuneração. Se a Constituição tivesse estabelecido remuneração do trabalhador como base de cálculo teria afirmado adicional sobre a remuneração, o que não fez.
+    4. Recurso extraordinário ao qual se nega provimento” (DJe de 8/808).
+    Na mesma assentada, foi aprovado o Enunciado Vinculante nº 4, deste Tribunal, com a seguinte redação:
+    “Salvo os casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    Desse modo, apesar de ter sido reconhecida a proibição constitucional de vinculação de qualquer vantagem de servidor público ou empregado ao salário mínimo, o Plenário entendeu pela impossibilidade da modificação da base de cálculo do adicional de insalubridade pelo Poder Judiciário, dada a vedação deste atuar como legislador positivo.
+    Transcrevo parte do voto do Ministro Menezes Direito constante do julgamento do mencionado RE nº 565.714/SP, paradigma de criação da mencionada súmula vinculante:
+    “A meu sentir, concordando com a base de interpretação da Ministra Cármen Lúcia, parece mais prudente que nós adotemos a técnica habitual de desprover o recurso extraordinário, mas assegurar, porque estamos julgando a causa, a manutenção do pagamento dos adicionais, como tem sido feito, até que uma legislação especial venha a fixar os critérios de atualização. Porque, se nós não fizermos assim, juntando as duas questões, a proposta da Ministra Cármen Lúcia e a técnica de julgamento do recurso ordinário, vamos, por um lado, criar um sistema de reforma para pior, como disse o Ministro Marco Aurélio, porque vamos dar a possibilidade de interpretação pelo congelamento, ou, ao contrário, vamos admitir que é possível manter a aplicação do adicional de insalubridade sobre a base do salário mínimo.
+    Parece-me, portanto, que podem ser reunidas as duas propostas, adotada a técnica usual desta Corte no sentido de negar provimento ao extraordinário sob outro fundamento, porque nós estamos julgando a causa, estamos dizendo que é improcedente o pedido de transferir a base de cálculo do adicional de insalubridade do salário mínimo para a remuneração e, ao mesmo tempo, estamos dando um lastro de impetração para que seja continuado o pagamento, como de resto se compromete a Procuradoria do Estado de São Paulo, e providenciados, por meio de legislação especial, os critérios de atualização compatíveis” (grifou-se).
+    Assim, incide na espécie a parte final da Súmula Vinculante nº 4, que impede o Poder Judiciário de alterar a base de cálculo do referido adicional, o que implica na reconsideração da decisão agravada para manter a improcedência do pedido formulado na petição inicial.
+    Ante o exposto, reconsidero a decisão agravada e, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário, restando prejudicado o agravo regimental.
+    Publique-se.
+    Brasília, 18 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
