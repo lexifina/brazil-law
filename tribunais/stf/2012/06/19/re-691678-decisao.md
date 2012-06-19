@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. BARRAGEM DE CAMARÁ. ROMPIMENTO. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça da Paraíba:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ROMPIMENTO DE BARRAGEM. PREJUÍZO MORAL E MATERIAL. ATO OMISSIVO DA ADMINISTRAÇÃO PÚBLICA. CULPA. VERIFICAÇÃO. DEVER DE INDENIZAR. NECESSIDADE. DANO MORAL. INDENIZAÇÃO QUE SE REVELA RAZOÁVEL. DESPROVIMENTO DO APELO.
+    - Cumpre ao Estado indenizar satisfatoriamente as vítimas de evento danoso provocado por ato omissivo da administração, cujas consequências atingem a esfera material e moral dos prejudicados.
+    - ‘O fato de o Estado pagar indenização, em situação emergencial, para vítima de inundação por rompimento de barragem, não impede que o beneficiário venha a pleitear o pagamento complementar de danos em juízo, mormente quando inexiste nos autos documento atestando a abdicação de direitos por parte da autora’. (TJPB – AC 2000.2007.013495-8/001).
+    - A indenização por danos morais pretende compensar a dor do lesado e constitui um exemplo didático para a sociedade e para o réu de que o Direito repugna a conduta violadora, porque é incumbência do Estado defender e resguardar a dignidade humana. Ao mesmo tempo, objetiva sancionar o causador do dano, inibindo-o em relação a novas condutas, e, por isso, deve corresponder a um valor de desestímulo” (fls. 115-116).
+    Não foram opostos embargos de declaração.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado o art. 37, § 6º, da Constituição da República.
+    Argumenta que “na hipótese de omissão administrativa, a responsabilidade do Estado será sempre subjetiva, ou seja, incumbe à parte que se diz prejudicada provar que a Administração não agiu para impedir o dano, ou que, tendo agido, fê-lo de modo ineficiente, em desacordo com determinados critérios ou padrões” (fl. 132).
+    Sustenta que “em nenhum momento de sua extensa explanação, [o Recorrido] demonstra ou ao menos indica onde residiu a falha na prestação do serviço de manutenção da estrutura da barragem” (fl. 135).
+    Afirma, ainda, que “em casos desse jaez, nos quais o evento danoso decorrente de obra pública é resultante de falha na sua execução, pacífico o entendimento no sentido de atribuir a responsabilidade por tal infortúnio à empresa responsável pela realização do empreendimento. Deveras, em se tratando de dano decorrente de obra pública, não há que se cogitar de qualquer responsabilidade por parte do Poder Público quando restar cabalmente comprovado que os danos eventualmente verificados resultaram de má execução da obra por parte do empreiteiro privado contratado para consecução” (fls. 136-137).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Desembargador Relator João Alves da Silva afirmou:
+    “No caso presente, como em tantos outros similares, embora afirme a Administração Pública que as falhas que levaram ao rompimento da barragem foram decorrentes da própria execução da obra, a qual ficara a cargo das construtoras contratadas pela administração anterior, tem-se que é aí, ao contrário do asseverado, que restou caracterizada a sua atuação ineficiente, pois o Estado tinha e tem o dever de fiscalizar o andamento das obras contratadas, sobretudo a de uma obra dessa magnitude que, indubitavelmente, trazia à comunidade elevado risco e, por isso mesmo, carecedora de uma maior atenção por parte do Poder Público, ante à possível tragédia de um rompimento, como de fato ocorrido” (fl. 118).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Responsabilidade objetiva prevista no art. 37, § 6º, da Constituição Federal abrange também os atos omissivos do Poder Público. 3. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. 4. Ausência de argumentos suficientes para infirmar a decisão recorrida. 5. Agravo regimental a que se nega provimento” (AI 766.051-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, Dje 29.6.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6° DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes do STF. II – Agravo regimental improvido” (AI 810.613-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011).
+    Ainda, em caso idêntico ao presente, a seguinte decisão monocrática: Recurso Extraordinário n. 657.192, de minha relatoria, DJe 11.10.2011.
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
