@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Alayde Brandao Schmidt e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, incisos LIV e LV, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “SERVIDOR PÚBLICO. REVISÃO DE APOSENTADORIA. DECADÊNCIA. ART. 192, II, DO RJU. INCIDÊNCIA DA VANTAGEM SOBRE O VENCIMENTO BÁSICO. PRECEDENTES.
+    - Segundo o Superior Tribunal de Justiça, para os benefícios deferidos antes do advento da Lei 9.784/99 o prazo de decadência deve ser contado a partir da data de início de vigência do referido Diploma, ou seja, 01/02/1999.
+    - Considerando que a decisão administrativa da Corte de Contas que entendeu pela ilegalidade da concessão da vantagem foi proferida em 2003, enquanto que a notificação dos interessados pela Universidade ocorreu em janeiro de 2004, não há falar em decurso de prazo decadencial para a Administração rever o ato.
+    - O acréscimo pecuniário que o servidor público tem direito ao passar para a inatividade, nos termos do art. 192, II, da Lei n° 8.112/90, deve ser calculado com base na diferença entre o vencimento básico do padrão que ocupava e o do padrão imediatamente anterior, excluídos os acréscimos. Precedentes do Eg. STJ”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Merece prosperar a irresignação.
+    O Plenário Virtual do Supremo Tribunal Federal, ao apreciar o Recurso Extraordinário nº 594.296/MG, de minha relatoria, reconheceu a existência da repercussão geral da matéria constitucional versada neste feito. O assunto corresponde ao tema 138 da Gestão por Temas da Repercussão Geral do portal do STF na internet e trata da “possibilidade, ou não, de a Administração anular ato administrativo, cuja formalização repercutiu no campo de interesses individuais, sem que seja instaurado o devido procedimento administrativo, o qual permita o exercício do contraditório e da ampla defesa”.
+    Em 21 de setembro de 2011, julgado o mérito do recurso, o Plenário desta Corte reconheceu que qualquer ato da Administração Pública que tiver o condão de repercutir sobre a esfera de interesses do cidadão deverá ser precedido de prévio procedimento em que se assegure ao interessado o efetivo exercício do direito ao contraditório e à ampla defesa. Tal decisão restou assim ementada:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento” (DJe de 13/2/12).
+    No caso presente, a modificação da forma de cálculo do acréscimo pecuniário de que trata o artigo 192, inciso II, da Lei n° 8.112/90 inegavelmente influiu nas esferas de interesses dos autores, ora recorrentes. Indubitável, destarte, que essa retificação que lhes foi imposta deveria ter sido precedida de regular processo administrativo, em que deveriam ter sido respeitados seus direitos ao contraditório e à ampla defesa. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR - GPS. ALTERAÇÃO DA FORMA DE CÁLCULO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE. I - A Administração Pública somente poderia alterar a forma de cálculo de gratificação em processo administrativo próprio, assegurados aos servidores ativos ou inativos o contraditório e a ampla defesa. Precedentes. II - Agravo regimental improvido” (RE 502.389/DF, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 10/11/06).
+    “AGRAVO REGIMENTAL. GRATIFICAÇÃO DE PRODUÇÃO SUPLEMENTAR – GPS. CÁLCULO. ALTERAÇÃO. REDUÇÃO DA REMUNERAÇÃO. IMPOSSIBILIDADE. INOBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. EXISTÊNCIA DE REPERCUSSÃO GERAL. ORIENTAÇÃO REAFIRMADA PELO PLENO DO STF. RE 594.296. O acórdão recorrido está em conformidade com a orientação firmada nesta Corte, no sentido de que é ilegal a anulação de ato administrativo cuja formalização repercuta no campo dos interesses individuais sem a observância do contraditório e da ampla defesa. Agravo regimental a que se nega provimento” (AI n° 712.316/DF-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 22/5/12).
+    Dessa orientação, divergiu o acórdão recorrido.
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário para anular os atos administrativos que alteraram a forma de cálculo da vantagem prevista no inciso II do artigo 192 da Lei n° 8.112/90, facultada a instauração de novo processo administrativo em que seja oportunizado aos autores o contraditório e a ampla defesa. Sem condenação em honorários, nos termos da Súmula nº 512/STF. Custas ex lege.
+    Publique-se.
+    Brasília, 19 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
