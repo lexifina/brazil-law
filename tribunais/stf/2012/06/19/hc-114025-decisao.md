@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelos advogados Leandro Lunardo Beniz e Wagner Paulo da Costa Francisco em favor de Henrique de Souza Silva, buscando a liberdade provisória do paciente.
+    Apontam como autoridade coatora o Ministro Adilson Vieria Macabu, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 244.363/SP, impetrado àquela Corte de Justiça.
+    Inicialmente, argumentam os impetrantes que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais, sustentam, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista a falta de fundamentação apta a justificar a necessidade da sua medida constritiva, bem como a ausência dos pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Asseveram, ainda, ser o paciente primário, de bons antecedentes, como residência fixa no distrito da culpa e emprego lícito.
+    Requerem, liminarmente, a concessão da ordem para conceder ao paciente o benefício da liberdade provisória.
+    Examinados os autos, decido.
+    Como visto, trata-se de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Transcrevo o teor daquela decisão:
+    “Em favor do paciente, preso em flagrante e denunciado pela prática dos delitos previstos nos arts. 33 e 35, caput, da Lei nº 11.343/06, impetrou-se este habeas corpus com pedido de concessão de medida liminar.
+    De acordo com a defesa, há ilegal constrangimento, consubstanciado na falta de fundamentação para a manutenção da custódia.
+    Inconformado, o paciente impetrou writ ao Tribunal de Justiça de São Paulo, cuja ordem, todavia, resultou denegada.
+    Daí a presente impetração, na qual se sustenta que falta motivação idônea ao decreto de prisão.
+    Formulou-se, por derradeiro, pedido de concessão de medida liminar, a fim de que seja revogada a prisão cautelar.
+    Inicialmente, consigne-se que o deferimento de liminar em habeas corpus é medida excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores do periculum in mora, do fumus boni juris e da plausibilidade do direito invocado.
+    Em análise aos autos, constato que a fundamentação utilizada pelo Juízo de Primeiro Grau, e mantida pelo Tribunal de origem, quando da denegação da ordem de habeas corpus que lá se impetrou, mostra-se, a princípio, suficiente para justificar a necessidade da prisão, mormente porque considerada a quantidade de droga apreendida (fls. 57 e 26).
+    Diante da fundamentação supra, o acórdão atacado não se mostra, à primeira vista, manifestamente ilegal. Ao contrário, harmoniza-se com precedente da 5ª Turma, relativo à necessidade da prisão, também em face da quantidade da droga (HC nº 148.934, Ministro Napoleão Nunes Maia Filho, DJe de 3.5.10).
+    Assim, atesta-se que os elementos dos autos não autorizam, neste exame de urgência, a concessão da providência liminar requerida, uma vez que não se vislumbra, de pronto, ilegalidade na decisão impugnada.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações.
+    Após juntadas, dê-se vista Ministério Público Federal” (fls. ½ do anexo 22).
+    Na hipótese vertente, verifica-se, de forma evidenciada a inviabilidade do próprio conhecimento da presente impetração, pois não se constata situação de flagrante ilegalidade apta a ensejar o afastamento, excepcional, da Súmula nº 691 desta Suprema Corte. Pode e deve o magistrado, ao apreciar o pedido inicial, pautar-se no poder geral de cautela para buscar outros elementos formadores das razões de decidir além daqueles trazidos pela impetração, sem que isso caracterize constrangimento ilegal, abuso de poder ou teratologia.
+    O descontentamento pela falta de êxito no pleito submetido ao Superior Tribunal de Justiça, ainda em exame precário e inicial, não pode ensejar o conhecimento deste writ, sob pena de supressão de instância e de grave violação das regras de competência.
+    Nesse sentido, por exemplo:
+    “COMPETÊNCIA CRIMINAL. Habeas corpus. Impetração contra decisão monocrática que, em habeas corpus requerido ao STJ, indeferiu liminar. Não ocorrência de flagrante constrangimento ilegal. Não conhecimento. Aplicação da súmula 691. Em princípio, não compete ao Supremo Tribunal Federal conhecer de habeas corpus contra decisão do relator que, em habeas corpus requerido a Tribunal Superior, indefere liminar, se o caso não é de flagrante constrangimento ilegal” (HC nº 100.600/SP, Segunda Turma, Relator o Ministro Cezar Peluso, DJ de 23/10/09);
+    “HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO DOMICILIAR. SÚMULA 691 DO STF. INADEQUAÇÃO. ILEGALIDADE MANIFESTA. INOCORRÊNCIA. NÃO CONHECIMENTO. I - O indeferimento de liminar em habeas corpus pelo Superior Tribunal de Justiça encontra amparo na Súmula 691 do Supremo Tribunal Federal, que somente admite mitigação na presença de flagrante ilegalidade, abuso de poder ou teratologia. II - Incidência da mencionada Súmula, sob pena de dupla supressão de instância. III - Habeas corpus não conhecido” (HC nº 96.992/SE, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/10/09).
+    Ainda, na mesma linha, as seguintes decisões monocráticas: HC nº 101.290/RS, de minha relatoria, DJe de 6/11/09; HC nº 101.141/SP, Relator o Ministro Joaquim Barbosa, DJe 27/10/09; HC nº 101.112/GO, Relator o Ministro Ayres Britto, DJe de 23/10/09; e HC nº 101.062/SP, Relatora a Ministra Cármen Lúcia, DJe de 22/10/09, entre outros.
+    Ademais, apenas para registro, destaco que, não obstante o Plenário da Corte tenha, quando do julgamento do HC nº 104.339/SP, Relator o Ministro Gilmar Mendes (Informativo STF nº 665), assentado incidenter tantum a inconstitucionalidade do art. 44, caput, da Lei nº 11.343/06 para admitir a possibilidade de concessão de liberdade provisória em se tratando de prisão em flagrante pelo delito de tráfico de entorpecentes, quando ausentes os pressupostos autorizadores da constrição cautelar (art. 312 do Código de Processo Penal), a decisão proferida pelo Juízo de Direito da 1ª Vara Judicial do Foro de Distrital de Paulínia/SP (fl. 1 do anexo 24), ao converter o flagrante e preventiva, encontra-se embasada em elementos aptos a demonstrar a necessidade da medida extrema, nos termos do art. 312 do Código de Processo Penal.
+    Com essas considerações, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante que justifique a superação do enunciado da Súmula nº 691 desta Suprema Corte, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 19 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
