@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa possui o seguinte teor (fls. 39):
+    “MANDADO DE SEGURANÇA. Pretensão à suspensão do processo de cassação de mandato do Prefeito Municipal perante a Câmara Municipal e conseqüente reintegração no cargo. Inadmissibilidade.
+    PRELIMINAR de perda do objeto ante o término do mandato de Prefeito Municipal em 2004, afastada.
+    MÉRITO. Art. 4º, do Decreto-Lei nº 201/67 que traça as diretrizes para cassação do Prefeito Municipal, estabelecendo o art. 5º, as formalidades de índole político-administrativas, sendo a votação decidida pela maioria dos presentes. Denúncia que foi recebida por maioria de dois terços e bastaria maioria simples. Sorteio que não foi possível dar cumprimento em razão da ausência de disputa. Sem disputa não há sorteio. Ausência de lesão a direito líquido e certo do impetrante. Argüições de impedimento e suspeição que foram discutidas e deliberadas pelo Plenário da Câmara Municipal, não havendo que se falar em nulidade. Respeito ao contraditório e ampla defesa. Inexistência do princípio da simetria. Preliminar rejeitada e recurso improvido.”
+    No recurso extraordinário, a ora agravante alega violação do disposto nos arts. 5º, LIV, e 37, caput, da Constituição federal.
+    Consigno, inicialmente, que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a normas da Constituição federal, afirmando-se, em preliminar, que “a relevância da matéria constitucional em discussão é inquestionável. O acórdão impugnado negou vigência ao artigo 5º, inciso LIV da CF (...)” (fls. 57).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância — do ponto de vista econômico, político, social ou jurídico — das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Ainda que assim não fosse, a análise da alegada contrariedade aos arts. 5º, LIV, e 37, caput, da Constituição, demandaria o prévio exame da legislação infraconstitucional aplicável ao caso (Decreto-Lei 201/1967) e o reexame do conjunto fático-probatório no qual se baseou o acórdão recorrido. Isso implica dizer que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, o que dá margem ao descabimento do recurso extraordinário. Incide também a Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de junho de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
