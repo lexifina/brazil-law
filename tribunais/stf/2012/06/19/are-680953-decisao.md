@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Ação Ordinária objetivando a suplementação de proventos em virtude de privatização do Banco BANERJ. O autor optou pela rescisão do contrato de trabalho e recebimento das contribuições convertidas para plano previdenciário. Sentença que julgou extinto o processo por ilegitimidade de parte quanto ao Banco Itaú S/A e proclamou a decadência do direito em face do Estado e do RIOPREVIDÊNCIA. Recurso de Apelação Cível. R E F O R M A P A R C I A L. Mantém-se a extinção quanto ao banco Itaú S/A e acolhe-se o apelo para a concessão de suplementação, respeitada a prescrição quinquenal, uma vez que por legislação posterior o segundo e terceiro réus assumiram a obrigação previdenciária. O autor faz jus aos benefício, eis que na época já tinha direito adquirido. Compensação do valor recebido. P R O V I M E N T O P A R C I A L D O  R E C U R S O” (fl. 217).
+     No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso XXXVI, e 93, inciso IX, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que os dispositivos constitucionais apontados como violados carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+     Ademais, mostra-se pacífica a jurisprudência deste Supremo Tribunal Federal no sentido de que o conceito dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontra na Constituição Federal, senão na legislação ordinária (Lei de Introdução ao Código Civil, artigo. 6º).
+    Nessa conformidade, encontra-se sob o pálio da proteção constitucional, tão somente a garantia desses direitos, mas não seu conteúdo material, isoladamente considerado, conforme bem, explicitado nos seguintes precedentes: AI nº 638.758/SP-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 19/12/07, RE nº 437.384/RS-AgR, Relator o Ministro Carlos Velloso, DJ de 8/10/04 e AI nº 135.632/RS-AgR, Relator o Ministro Celso de Mello, DJ de 3/9/99.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
