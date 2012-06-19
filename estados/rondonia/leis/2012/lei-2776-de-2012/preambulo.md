@@ -1,0 +1,9 @@
+Assembléia Legislativa do Estado de Rondônia.
+
+LEI N° 2.776, DE 11 DE JUNHO DE 2012.
+
+Dispõe sobre informações da vida escolar, na forma que menciona.
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO,
+
+Faço saber que a Assembléia Legislativa decretou, e Eu, nos termos do § T do artigo 42 da Constituição do Estadual, promulgo a seguinte Lei:
