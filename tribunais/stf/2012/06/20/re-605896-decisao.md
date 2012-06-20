@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Universidade Federal de Uberlândia interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quinta Turma do Tribunal Regional Federal da 1ª Região, assim fundamentado:
+    “Não é razoável vedar à impetrante matrícula nos dois cursos, uma vez que preencheu os requisitos legais (art. 44, II, da LDB) e que não há aulas previstas para o turno noturno no Curso de Letras. Se eventualmente houver choque de horários, caberá à apelada optar pelas matérias que seja possível cursar.
+    Tal entendimento não afronta a autonomia universitária (art. 207 da Constituição), nem tampouco as atribuições das universidades previstas no art. 53 da Lei nº 9.394/96, e garante a educação (art. 205 da Constituição), a formação para o trabalho e a promoção humanística, científica e tecnológica do País (art. 214, IV e V, da Constituição)” (fl. 104).
+    Sustenta a recorrente violação dos artigos 205 e 207 da Constituição Federal.
+    Sem Contra-razões, o recurso extraordinário (fls. 122 a 134) foi admitido (fl. 138).
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 9/12/04, conforme expresso na certidão de folha 107, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional, a saber a Lei nº 9.394/96, e na prova documental dos autos. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Incidência das Súmulas nº 636 e 279/STF. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ENSINO SUPERIOR. PROIBIÇÃO DE MATRÍCULA EM DOIS CURSOS SIMULTÂNEOS NA MESMA INSTITUIÇÃO DE ENSINO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 584.831/MA-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 5/3/10).
+     “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. POSSIBILIDADE DE MATRÍCULA EM DOIS CURSOS SIMULTÂNEOS COM COMPATIBILIDADE DE HORÁRIOS. RESOLUÇÃO EDITADA PELA INSTITUIÇÃO DE ENSINO NO SENTIDO DA PROIBIÇÃO. DISCUSSÃO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO ART. 207 DA CONSTITUIÇÃO FEDERAL. Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos. Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (RE nº 553.065/MG-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1º/7/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ENSINO SUPERIOR. PROIBIÇÃO DE MATRÍCULA EM DOIS CURSOS SIMULTÂNEOS NA MESMA INSTITUIÇÃO DE ENSINO. RESOLUÇÃO N. 4/2003. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 590.494/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/5/09)
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
