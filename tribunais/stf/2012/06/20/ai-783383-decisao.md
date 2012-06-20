@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO – SERVIDOR PÚBLICO – PROFESSORA DE NÍVEL 3 – REALIZAÇÃO DE CURSO DE PÓS-GRADUAÇÃO – PRETENSÃO DE ASCENSÃO AO NÍVEL 6 - IMPOSSIBILIDADE ANTE A AUSÊNCIA DE LICENCIATURA PLENA E DE DOIS ANOS DE EFETIVO EXERCÍCIO PROFISSIONAL NO NÍVEL 5 – APLICAÇÃO DOS ARTIGOS 7º E 8º, PARÁGRAFO ÚNICO, DA LEI Nº 6.672/74 (ESTATUTO E PLANO DE CARREIRA DO MAGISTÉRIO PÚBLICO DO ESTADO).
+    Apelo desprovido” (fl. 22).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, XXXVI, e 37, caput, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, embora a matéria tenha sido arguida na petição do recurso extraordinário, não consta dos autos cópia da petição de apelação, o que impossibilita a aferição do necessário prequestionamento. Nesse sentido, anote-se:
+    “EMENTA Agravo regimental no agravo de instrumento. Prequestionamento. Ausência de peça essencial. Precedentes. 1. Pacífica a jurisprudência desta Corte no sentido de que incumbe ao agravante instruir o agravo de instrumento não apenas com a cópia das peças obrigatórias indicadas de forma analítica pelo artigo 544, § 1º, do Código de Processo Civil, mas também com aquelas que se revelem essenciais para a compreensão da controvérsia. 2. Cabe ao agravante o ônus exclusivo de fiscalizar a formação do instrumento com o completo traslado das peças. A oportunidade para instruir o recurso é a de sua interposição. 3. A ausência das petições da apelação e dos embargos declaratórios impede, no caso, a verificação do prequestionamento do artigo 5º, inciso LV, da Constituição da República. Incidência das Súmulas nºs 288 e 356/STF. 4. Agravo regimental desprovido” (AI 705490 AgR/DF, Rel. Min. Menezes Direito, Primeira Turma).
+    Segundo a jurisprudência deste Tribunal, o agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas (Súmula 288 do STF). Nesse sentido, menciono as seguintes decisões, entre outras: AI 451.502/SP e AI 489.998/DF, Rel. Min. Ellen Gracie; AI 209.987/SP, Rel. Min. Maurício Corrêa; AI 491.888/SP, Rel. Min. Carlos Velloso; AI 646.618/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 20 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
