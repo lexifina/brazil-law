@@ -1,0 +1,36 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pelo Município de Matão/SP, contra acórdão proferido pela Terceira Câmara – Segunda Turma do Tribunal Regional do Trabalho da 15ª Região, nos autos do Processo 0001745-46.2008.5.15.0081, que teria contrariado o teor da Súmula Vinculante 10 desta Corte.
+    O município reclamante alega, em síntese, que a decisão reclamada, ao afastar a aplicação da Lei municipal 3.239/2002, alterada pelas Leis 3.245/2003, 3.387/2003, 3.479/2004, 3.559/2004 e 3.835/2007, todas do Município de Matão - por entender que suas disposições violavam o inciso X do art. 37 da Carta Maior - afrontou o conteúdo do enunciado constante da Súmula Vinculante 10 desta Corte, pois não houve anterior manifestação do plenário ou do órgão especial do TRT 15ª Região sobre a questão, tampouco a remessa do processo para análise desse colegiado.
+    Sustenta, nessa linha, que o órgão fracionário do TRT da 15ª Região, ao afastar a incidência das mencionadas leis para o caso do referido processo, violou a cláusula de reserva de plenário, prevista no art. 97 da CF, e, por consequência, a Súmula Vinculante 10 do STF.
+    À luz desses fundamentos, justifica a existência do periculum in mora e do fumus boni iuris pelo fato de se constituir conduta altamente temerária e nociva à população o pagamento “sentenciado e confirmado pelo V. Acórdão, sem qualquer respaldo financeiro ou previsão orçamentária e com afronta à súmula vinculante nº 10 do STF”.
+    Aduz, assim, presentes os requisitos ensejadores da concessão da medida liminar.
+    Requer, pois, a suspensão dos efeitos do acórdão reclamado e, no mérito, seja a decisão, ao final, anulada, determinando-se o retorno dos autos ao TRT da 15ª Região para que observe os comandos insertos no art. 97 da CF e na Súmula Vinculante 10 do STF.
+    Requisitadas previamente, foram prestadas informações pela autoridade reclamada, que, em suma, alegou o seguinte:
+    “(...)
+    Em primeiro lugar, o acórdão objeto da reclamatória em nenhum momento menciona a Lei Municipal nº 3.835/2007 em sua fundamentação.
+    Em segundo lugar, o embasamento do acórdão também em nenhum momento declara a inconstitucionalidade das referidas lei (sic), tampouco afasta sua incidência.
+    Muito pelo contrário, se houvesse sido declarada a inconstitucionalidade ou afastada a incidência das leis, os empregados do Município de Matão teriam ficado sem as diferenças salariais deferidas no acórdão.
+    Na verdade, foi declarado no acórdão que as Leis Municipais 3.239/2002, alterada pela Lei Municipal 3.245/2003; 3.387/2003; 3.479/2004 e 3.559/2004 (sic) estavam concedendo reajustes salariais a seus empregados camuflados na rubrica 'abonos mensais', pois estes foram incorporados à remuneração dos trabalhadores.
+    Fundamentou-se, ainda, que esses 'abonos mensais', verdadeiros reajustes de vencimentos, implicariam reajustes salariais menores para quem recebia salário maior.
+    Por conseguinte, por ser vedada a concessão de reajustes salariais diferenciados, o acórdão decidiu que o aumento real a ser praticado pelo empregador Município de Matão deveria ser linear, em atenção ao artigo 37, X, da Constituição Federal.
+    (...)”.
+    É o relatório.
+    Passo a decidir.
+    Muito embora já tenha negado pedido cautelar semelhante no exame das Reclamações 13.388/SP e 13.655/SP, analisada mais detidamente a questão, entendo ser o caso de deferimento do pleito formulado nessa sede de cognição sumária.
+    Isso porque tenho que se afigura plausível a alegação de que a decisão reclamada, proferida por órgão fracionário do TRT da 15ª Região, ao afastar a incidência da legislação municipal mencionada, a pretexto de observância do disposto no inciso X do art. 37 da Constituição Federal, afrontou, ao que parece, o conteúdo do verbete da Súmula Vinculante 10, in verbis:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionado de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    No mesmo sentido, ainda, as seguintes decisões, proferidas em idêntico contexto: Rcl 13.307/SP, Rcl 13.514/SP e Rcl 13.656, todas de relatoria do Min. Celso de Mello, e Rcl 13.448/SP e 13.385/SP, ambas de relatoria da Min. Cármen Lúcia. Dessa última, destaco, por oportuno, os seguintes trechos:
+    “4. O que se põe em foco na presente reclamação é se, ao declarar inconstitucional a concessão de abonos pelo Município de Matão/SP em valores fixos para todos os servidores municipais (art. 37, inc. X, da Constituição da República), a 1ª Turma do Tribunal Regional do Trabalho da 15ª Região teria afastado a aplicação das Leis municipais n. 3.239/2002, 3.245/2003, 3.387/2003, 3.479/2004, 3.559/2004 e 3.385/2007 e descumprido a Súmula Vinculante n. 10 do Supremo Tribunal Federal.
+    (...)
+    6. Nesta análise preliminar, tem-se que a 1ª Turma do Tribunal Regional do Trabalho da 15ª Região assentou que os abonos teriam sido concedidos a fim de que o Município cumprisse o disposto no art. 37, inc. X, da Constituição da República, o qual não permitiria a aplicação de índices distintos de reajustes na revisão geral anual na remuneração dos servidores. Ressaltou que a concessão de abono com valor igual para todos os servidores teria causado aumento mais expressivo para aqueles que percebiam menos, e menos significativo para os que recebiam mais, o que afrontaria a determinação constitucional (art. 37, inc. X, da Constituição).
+    Assim, o Tribunal Regional do Trabalho deferiu as diferenças salariais pleiteadas, ao fundamento de que o Município de Matão/SP não teria observado o mesmo índice de correção, conforme previsto no art. 37, inc. X, da Constituição da República:
+    (...)
+    Neste exame precário, parece que, para decidir dessa forma, o órgão fracionário do Tribunal Regional do Trabalho da 15ª Região teria de afastar a aplicação das seguintes leis municipais, pelas quais foram concedidos aos servidores públicos municipais abonos salariais em valores fixos: a) Lei municipal n. 3.239/2002, alterada pela Lei municipal n. 3.245/2003, R$ 40,00; b) Lei municipal n. 3.387/2003, R$ 70,00; c) Lei municipal n. 3.479/2004, R$ 20,00; d) Lei municipal n. 3.559/2004, R$ 30,00; e e)Lei municipal n. 3.385/2007, R$ 40,00.
+    Este Supremo Tribunal decidiu que se considera 'declaratório de inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a incidência da norma ordinária pertinente à lide para decidi-la sob critérios alegadamente extraídos da Constituição' (RE 240.096, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 30.3.1999). Assentou que esse tipo de julgado, produzido por órgão fracionário de tribunal, contraria a Súmula Vinculante n. 10 deste Supremo Tribunal.
+    (...)” (grifei).
+    Isso posto, defiro a liminar requerida para suspender os efeitos do acórdão proferido pela Terceira Câmara – Segunda Turma do Tribunal Regional do Trabalho da 15ª Região, nos autos do Processo 0001745-46.2008.5.15.0081, até o julgamento de mérito desta reclamação.
+    Comunique-se com urgência.
+    Após, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 20 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
