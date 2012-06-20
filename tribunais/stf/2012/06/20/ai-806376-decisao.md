@@ -1,0 +1,22 @@
+DECISÃO
+    Vistos.
+    Alceu Maitino Junior e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, incisos II e LV, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Décima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EXECUÇÃO POR TÍTULO JUDICIAL - Monitória - Desconsideração da personalidade jurídica da devedora - Decisão não recorrida - Preclusão – Ausência de nulidade absoluta a justificar reforma da decisão - Desconsideração mantida - Recurso não provido.
+    EXECUÇÃO POR TÍTULO JUDICIAL - Monitória - Irresignação contra responsabilização dos sócios por dívida da empresa - Documentos que demonstram que os sócios respondiam pela empresa devedora - Responsabilidade que decorre, também, da desconsideração da personalidade jurídica - Recurso não provido”(fl. 295).
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que a questão relativa à desconsideração da personalidade jurídica está limitada ao plano da legislação infraconstitucional, bem como das provas juntadas aos autos, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “Agravo regimental no agravo de instrumento. Negativa de prestação jurisdicional. Não ocorrência. Art. 5º, inciso LV, da Constituição Federal. Ofensa reflexa. Desconsideração da personalidade jurídica. Legislação infraconstitucional. Reexame de provas. Impossibilidade. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame de normas infraconstitucionais, pode configurar apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido” (AI nº 746.346/SP-AgR, Primeira Turma, de minha relatoria, DJe de 6/6/11).
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. OFENSA INDIRETA OU REFLEXA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. SÚMULA STF 454.
+    1. É inadmissível recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal.
+    2. No mérito, a pretexto de ofensa à Constituição Federal, pretende-se a análise de legislação infraconstitucional e de cláusulas contratuais (Súmula STF 454), hipóteses inviáveis em sede extraordinária. 3. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos.
+    4. Agravo regimental improvido” (AI nº 754.834/MG-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 25/9/09).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 20 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
