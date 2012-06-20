@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. REENQUADRAMENTO DE SERVIDORES ESTADUAIS CONFORME NOVA LEI. VIOLAÇÃO AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. NÃO COMPROVADA. DIREITO ADQUIRIDO A REGIME JURÍDICO. INEXISTÊNCIA. DIREITO LÍQUIDO E CERTO NÃO EVIDENCIADO. PRECEDENTES. ISONOMIA. SÚMULA N.º 339 DO PRETÓRIO EXCELSO. PRECEDENTES”
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput e XXXVI, 37, XV, e 194, I, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, é pacífica a jurisprudência deste Tribunal no sentido de que não há direito adquirido a regime jurídico, não havendo falar, portanto, em violação do direito adquirido e do princípio da isonomia se a Administração altera o escalonamento hierárquico da carreira criando novos níveis para a progressão de servidores, desde que tal reestruturação não implique em redução dos proventos. Nesse sentido, trago à colação julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. REENQUADRAMENTO. INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Matéria constitucional que foi objeto de exame e debate prévios no Tribunal de origem. 2. Intimação do acórdão recorrido antes de 3.5.2007. Desnecessidade de demonstração formal da repercussão geral da questão constitucional” (AI 720.887-AgR/PR, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. RECLASSIFICAÇÃO. DIREITO ADQUIRIDO A REGIME JURÍDICO: INEXISTÊNCIA. PRECEDENTES. 1. O Supremo Tribunal Federal firmou sua jurisprudência no sentido de que servidor público não tem direito adquirido a regime jurídico, sendo possível seu reenquadramento em outro nível da carreira, ainda que tenha sido aposentado no último nível desta. 2. Agravo regimental improvido” (AI 769.533-AgR/PR, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
