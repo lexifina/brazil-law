@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. DECRETO N. 20.910/32. PRESCRIÇÃO QUINQUENAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado da Primeira Turma Recursal dos Juizados Especiais Federais do Rio de Janeiro:
+    “URP – ABRIL E MAIO/1988 – SÚMULA 85 DO STJ – AUSÊNCIA DE PRESCRIÇÃO DO FUNDO DE DIREITO – SÚMULA 671 DO STF – DECRETOS-LEIS N.S 2335/87 E 2425/88. DIREITO AO ÍNDICE DE 3,77% (7/30 DE 16,19%) APLICADO, NÃO CUMULATIVAMENTE, SOBRE OS VENCIMENTOS DE ABRIL E MAIO DE 1988. ARTIGO 1. DA LEI N. 7686/88 DETERMINOU INCORPORAÇÃO DO ÍNDICE POSTULADO A PARTIR DE NOVEMBRO DE 1988. DEMANDANTE NÃO AFIRMA NA CAUSA DE PEDIR DESCUMPRIMENTO DESTA OBRIGAÇÃO. EFEITO PATRIMONIAL DA PRETENSÃO LIMITADA AO PERÍODO ENTRE ABRIL E OUTUBRO DE 1988. AÇÃO AJUIZADA MAIS DE CINCO ANOS DEPOIS. ARTIGO 1. DO DECRETO N. 20.910/32. PRESCRIÇÃO QUINQUENAL DA PRETENSÃO AO RECEBIMENTO DOS ATRASADOS. RECURSO CONHECIDO E PROVIDO” (fl. 1, doc. 1).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    4. O Agravante argumenta que “a publicação em 09/10/2003 da Súmula nº. 671 do Supremo Tribunal Federal, reconhece no âmbito do Poder Judiciário a inexistência da reposição/incorporação administrativa do reajuste de 7/30 avos de 16,19% da URP aos vencimentos/proventos dos servidores públicos e, inexistência de prescrição do fundo de direito e da pretensão à cobrança” (fl. 13, doc. 3).
+    No recurso extraordinário, alega que a Turma Recursal de origem teria contrariado a Súmula n. 671 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. A Relatora, Juíza Federal Ana Cristina Ferreira de Miranda, afirmou:
+    “Não obstante a declaração do direito às diferenças entre abril e outubro de 1988, não há como se condenar a entidade pública demandada na obrigação de pagar seus valores, dado que, mesmo afastada a prescrição do fundo de direito, impositivo, no caso concreto, o reconhecimento da prescrição da pretensão à cobrança de quaisquer valores anteriores ao quinquídio do artigo 1. do Decreto n. 20.910/32”(fls. 4-5, doc. 1 - grifos nossos)
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Decreto n. 20.910/1932, Decreto-Lei n. 2.335/1987, Decreto-Lei n. 2.453/1988, Lei n. 7686/1988 e Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRAZO PRESCRICIONAL CONTRA A FAZENDA PÚBLICA. DECRETO-LEI 20.910/32. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. INOCORRÊNCIA. MATÉRIA INFRACONSTITUCIONAL. 1. A violação constitucional dependente da análise do malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. 2. In casu, o Tribunal a quo, interpretando a norma infraconstitucional aplicável a espécie (Decreto-Lei 20.910/32), entendeu pela possibilidade da aplicação da prescrição quinquenal contra a UNIÃO. Precedentes: AI 735.798, decisão monocrática, Rel. Min. Marco Aurélio, Dje de 14.05.2010; AI 807.225, decisão monocrática, Rel. Min. Ellen Gracie, Dje de 12.08.2011; AI 646.788, decisão monocrática, Rel. Min. Joaquim Barbosa, Dje de 04.04.2011; RE 630.042, decisão monocrática, Rel. Min. Cármen Lúcia, Dje de 13.10.2010; AI 793.255, decisão monocrática, Rel. Min. Gilmar Mendes, Dje de 23.09.2010, entre outros. 3. Agravo regimental desprovido” (AI 737.310-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.9.2011).
+    E, ainda:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta. II – Agravo regimental improvido” (AI 764.126-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
