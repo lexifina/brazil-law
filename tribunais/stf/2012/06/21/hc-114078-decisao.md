@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Marcelo Eduardo Battaglin Maciel e outros, em favor de Fernando Alvares Machado Cerqueira, apontando como autoridade coatora o Ministro Jorge Mussi, do Superior Tribunal de Justiça, que indeferiu liminarmente a inicial do HC nº 244.060/MS, impetrado àquela Corte de Justiça.
+    Inicialmente, asseveram os impetrantes que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais, sustentam, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista a falta de fundamentação apta a justificar a necessidade da medida constritiva, bem como a ausência dos seus pressupostos legais, previstos no art. 312 do Código de Processo Penal.
+    Defendem, ainda, a aplicabilidade ao caso concreto das medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal (Lei nº 12.403/11).
+    Por fim alegam ser o paciente primário, de bons antecedentes, com residência fixa no distrito da culpa e ocupação lícita.
+    Requerem, liminarmente, a concessão da ordem para que seja concedido ao paciente o benefício da liberdade provisória ou que se determine ao juízo de piso que avalie a possibilidade de aplicação de medidas cautelares diversas da prisão.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    Pelo que se verifica nesta impetração, a decisão do Ministro Jorge Mussi indeferiu liminarmente o referido writ, pois questionava decisão indeferitória de liminar no Tribunal de Justiça do Estado de Mato Grosso do Sul.
+    Transcrevo o teor daquela decisão:
+    “Trata-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDO ALVARES MACHADO CERQUEIRA, contra decisão de Desembargador relator componente do Tribunal de Justiça do Estado do Mato Grosso do Sul, que indeferiu o pleito sumário no Writ n.º 2012.015648-3, mantendo a prisão preventiva decretada em desfavor do paciente, nos autos da ação penal em que restou denunciado pela suposta prática do delito previsto no art. 33 c/c art. 40, inciso V da Lei n.º 11.343/2006.
+    Sustentam os impetrantes a ocorrência de constrangimento ilegal sob o argumento de que o decisum objurgado não teria apresentado fundamentação idônea para justificar a manutenção da custódia cautelar do paciente, tendo em vista que não foram apontados elementos concretos que demonstrassem a existência de quaisquer das hipóteses previstas no art. 312 do Código de Processo Penal para justificar a necessidade da medida.
+    Asseveram que, com a vigência da Lei n.º 12.403/2011, há de ser observada a aplicação de outras medidas cautelares, ao invés da imediata decretação da prisão preventiva do paciente.
+    Postulam pela flexibilização da Súmula n.º 691 do Supremo Tribunal Federal, pois flagrante o constrangimento ilegal de que é vítima o paciente.
+    Afirmam que o acusado é primário, tem bons antecedentes, possui ocupação lícita e residência fixa, sendo certo que não há motivação concreta que justifique sua segregação cautelar.
+    Requerem, liminarmente, a revogação da prisão preventiva do paciente.
+    Pugnam, alternativamente, que seja determinado ao Tribunal a quo que analise a possibilidade de aplicação de alguma das medidas cautelares elencadas no art. 319 do CPP em substituição à prisão cautelar.
+    É o relatório.
+    Esta Corte Superior, nos termos do verbete sumular n.º 691 do Supremo Tribunal Federal, pacificou a orientação no sentido de que ‘não se admite habeas corpus contra decisão proferida pelo relator da impetração na instância de origem, excetuados os casos de indeferimento de pedido liminar em decisão inquestionavelmente teratológica, despida de qualquer razoabilidade’ (HC n. 86415/SP, rel. Min. LAURITA VAZ, Quinta Turma, j. em 21-2-2008).
+    E, na hipótese, não se vislumbra flagrante ilegalidade no decisum que, em sede sumária, negou a pretensão deduzida, por não se observar, de plano, a sustentada coação, uma vez que restou consignado na decisão objurgada que não foram preenchidos os requisitos necessários ao deferimento do pleito sumário, salientado-se que, no caso, ‘[...] Examinando detidamente estes autos, não se verifica, prima facie, a presença dos pressupostos indispensáveis para a concessão da liminar pleiteada, eis que não transparece, neste momento, a ilegalidade ou abuso de poder no ato atacado. Por essa razão, indefiro a liminar pleiteada, deixando para apreciar a matéria com maior amplitude quando do julgamento de fundo do writ. [...]’ (e-STJ fls. 22/23)
+    Por outro lado, mister destacar que o revolvimento das questões aventadas no writ originário, e aqui reiteradas, certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça impetrada, quando do julgamento do seu mérito.
+    Nesse passo, inexistindo a excepcionalidade necessária ao abrandamento do enunciado no verbete sumular mencionado, com fulcro nos arts. 38 da Lei n.º 8.038/90 e 210 do Regimento Interno deste Superior Tribunal, indefiro liminarmente a petição inicial” (fls. 1/2 do anexo 9 – grifos conforme o original).
+    Não há o que ser censurado nessa decisão.
+    Percebe-se que o habeas corpus foi indeferido liminarmente pelo Superior Tribunal de Justiça, pois as questões levadas para discussão e trazidas no presente writ não teriam sido objeto de análise de forma definitiva por aquele Tribunal de Justiça estadual. Com efeito, a apreciação desses temas, de forma originária, neste ensejo, configuraria verdadeira dupla supressão de instância não admitida. Nesse sentido, os precedentes seguintes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 21 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
