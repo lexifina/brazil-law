@@ -1,0 +1,59 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. DECRETO-LEI N. 2.303/1986. MAJORAÇÃO DE ALÍQUOTA DE IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. 1. ALEGADA CONTRARIEDADE AO ART. 55, INC. II, DA EMENDA N. 1 DE 1969: AUSÊNCIA DE PREQUESTIONAMENTO: INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO PROVIDO. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. IPI. MAJORAÇÃO DE 80% PARA 230%. DECRETO-LEI 2.303/86. TABELAMENTO DE PREÇOS. CERVEJA. DESEQUILÍBRIO FINANCEIRO DO SETOR. ILEGALIDADE. CTN, ART. 165, I E II.
+    1. O Supremo Tribunal Federal no RE 89763/SP sedimentou entendimento de que, nas mercadorias sujeitas a tabelamento, incluem-se nos custos os tributos pagos, o que obriga que os preços de venda tabelados estejam sempre em consonância com a carga tributária a ser suportada pelo produtor ou fornecedor.
+    2. A alíquota do IPI para a cerveja subiu de 80% para 230% em razão do Decreto-Lei 2.303/86, enquanto os preços de venda foram aumentados em apenas 100% e em 8% no preço FOB, situação que ofendeu o equilíbrio financeiro do setor cervejeiro.
+    3. O art. 165 do CTN evidencia que o tributo é exigido indevidamente quando, dentre outras hipóteses, a natureza ou circunstâncias do fato gerador ocorrido ensejar pagamento a menor que o devido ou houver falhas na determinação da alíquota aplicável.
+    4. Nos termos do art. 165, I e II, do CTN, configurado está o equívoco no Decreto-Lei 2.303/86, ao elevar a alíquota do IPI de 80% para 230%, diante da impossibilidade de aumentar a carga tributária sem que haja repercussão proporcional nos preços tabelados.
+    5. Remessa oficial a que se nega provimento” (fl. 97).
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, a Agravante afirma que o Tribunal a quo teria contrariado os arts. 21, inc. I e V, e 55, inc. II, da Carta de 1969.
+    Argumenta
+    “a despeito de utilizar-se de precedente do Supremo Tribunal Federal, o acórdão em nenhum momento inquina de inconstitucional o Decreto Lei 2.303/86.
+    (…)
+    A União defende, aqui, a ofensa aos arts. 21 e 55, da CF/69, que transcrevemos:
+    Art. 21. Compete à União instituir impôsto sôbre:
+      I - importação de produtos estrangeiros, facultado ao Poder Executivo, nas condições e nos limites estabelecidos em lei, alterar-lhe as alíquotas ou as bases de cálculo;
+    (...)
+      V - produtos industrializados, também observado o disposto no final do item I;
+    (...)
+    Além disso, como sabido, após a edição do decreto lei 2.303/86, o tabelamento de preços teve fim” (fl. 123-124 – grifos nossos).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que “decisão contrária aos interesses da parte não configura negativa de prestação jurisdicional” (fl. 151).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a Agravante não arguiu negativa de prestação jurisdicional.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão da Agravante.
+    6. Razão jurídica não assiste à Agravante.
+    7. Preliminarmente, observa-se que a alegação de contrariedade ao art. 55, inc. II, da Emenda n. 1 de 1969 foi formulada nos embargos de declaração (fls. 100-103) opostos contra o julgado recorrido, mas não na apelação (fls. 79-82) interposta pela ora Agravante.
+    Tem-se atendido o requisito do prequestionamento quando oportunamente suscitada a matéria, o que se dá em momento processual adequado, nos termos da legislação vigente. Quando, suscitada a matéria constitucional pelo interessado, não há o debate ou o pronunciamento do órgão judicial competente, é que pode, e deve, haver a oposição de embargos declaratórios para que se supra a omissão, como é próprio desse recurso. Apenas, pois, nos casos de omissão do órgão julgador sobre a matéria constitucional que tenha sido arguída na causa, é que os embargos declaratórios cumprem o papel de demonstrar a ocorrência do prequestionamento.
+    A inovação da matéria em embargos é juridicamente inaceitável para os fins de comprovação de prequestionamento. Primeiramente, porque, se não se questionou antes (prequestionou), não se há cogitar da situação a ser provida por meio dos embargos. Em segundo lugar, se não houve prequestionamento da matéria, não houve omissão do órgão julgador, pelo que não prosperam os embargos pela ausência de sua condição processual. Assim, os embargos declaratórios não servem para suprir a omissão da parte que não tenha cuidado de providenciar o necessário questionamento em momento processual próprio.
+    Confiram-se, a propósito, os seguintes julgados:
+    “1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008).
+    “I. RE: PREQUESTIONAMENTO: SÚMULA 356. O QUE, A TEOR DA SÚMULA 356, SE REPUTA CARENTE DE PREQUESTIONAMENTO É O PONTO QUE, INDEVIDAMENTE OMITIDO PELO ACÓRDÃO, NÃO FOI OBJETO DE EMBARGOS DE DECLARAÇÃO; MAS, OPOSTOS ESSES, SE, NÃO OBSTANTE, SE RECUSA O TRIBUNAL A SUPRIR A OMISSÃO, POR ENTENDÊ-LA INEXISTENTE, NADA MAIS SE PODE EXIGIR DA PARTE, PERMITINDO-SE-LHE, DE LOGO, INTERPOR RECURSO EXTRAORDINÁRIO SOBRE A MATÉRIA DOS EMBARGOS DE DECLARAÇÃO E NÃO SOBRE A RECUSA, NO JULGAMENTO DELES, DE MANIFESTAÇÃO SOBRE ELA” (RE 210.638, Rel. Min. Sepúlveda Pertence, DJ 19.6.1998).
+    “PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS STF 282 E 356. PREQUESTIONAMENTO IMPLÍCITO E INOVAÇÃO EM EMBARGOS DE DECLARAÇÃO: IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. SÚMULA STF 280. 1. O Supremo Tribunal não admite o prequestionamento implícito da questão constitucional. Precedentes. 2. Impossibilidade de se inovar matéria estranha aos autos em embargos de declaração para fins de comprovação do prequestionamento. 3. Inviável o recurso extraordinário no caso de análise de legislação infraconstitucional para apreciar a apontada ofensa à Constituição Federal. Incidência da Súmula STF 280. Precedentes. 4. Agravo regimental a que se nega provimento” (AI 744.561-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 4.5.2011).
+    Dessa forma, não foi atendido o requisito do prequestionamento. Incide na espécie a Súmula n. 282 do Supremo Tribunal, pois a questão constitucional somente foi suscitada nos embargos opostos contra a decisão recorrida.
+    8. Ademais, a Relatora, Desembargadora Federal Maria do Carmo Cardoso, afirmou:
+    “Na época em que houve o aumento da alíquota de IPI pelo Decreto-Lei 2.303/1986, a economia nacional passava por uma política de tabelamento de preços, na qual deveriam ser considerados, para a fixação do preço de venda de mercadorias, os custos de produção e a carga tributária envolvida na operacionalização em geral, a fim de possibilitar uma margem de lucro viável ao setor produtivo.
+    Assim, os preços de venda deveriam sempre estar em consonância com a carga tributária suportada pelo fornecedor. O Supremo Tribunal Federal definiu que, nas mercadorias sujeitas a tabelamento, incluem-se nos custos os tributos pagos (RE-Embargos 89463/SP, rel. ministro Carlos Madeira, julgamento 10/09/1986, Tribunal Pleno, DJ de 17/10/1986, p. 19633).
+    (…)
+    Essa situação ofendeu, por certo, o equilíbrio financeiro de todo o setor cervejeiro, que foi obrigado a vender por preços mais baixos que os custos da produção somados à carga tributária incidente.
+    O art. 165 do Código Tributário Nacional estatui o seguinte:
+    (…)
+    Embora o caso não se trate de pedido de restituição de tributo, a norma acima referida torna evidente que o tributo é exigido indevidamente quando, entre outras hipóteses, a natureza ou as circunstâncias do fato gerador ocorrido ensejarem pagamento a menor que o devido ou houver falhas na determinação da alíquota aplicável.
+    No particular, um desses dois equívocos ocorreu: não era justo aumentar a carga tributária sem que houvesse repercussão proporcional nos preços tabelados, o que demonstra que as circunstâncias ensejavam pagamento a menor do tributo, ou houve equívoco no Decreto-Lei 2.303/1986 ao elevar a alíquota do IPI de 80% para 230%.
+    (…)
+    Nos termos do art. 165, I e II, do CTN, impõe-se o reconhecimento da ilegalidade da majoração do percentual do IPI realizada pelo Decreto-Lei 2.303/1986 no período referente à CDA que instruiu a execução fiscal, de 25/11/1986 a 02/12/1986, o que macula tanto o auto de infração quanto o título executivo impugnado nos autos” (fls. 93-95).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicada à espécie (Código Tributário Nacional e Decreto-Lei n. 2.303/1986). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Tributário. Ofensa reflexa e reexame de provas (Súmula nº 279). 1. A Corte tem entendimento pacífico no sentido de que a violação aos preceitos constitucionais insculpidos nos arts. 5º, II, XXXV, LIV, LV; e 37, caput, do Texto Maior, configura, via de regra, como no presente caso, mera ofensa reflexa, sendo, dessa forma, incabível a interposição de apelo extremo. 2. Os fundamentos da agravante, insuficientes para modificar a decisão ora agravada, demonstram apenas inconformismo e resistência em pôr termo ao processo, em detrimento da eficiente prestação jurisdicional. 3. Agravo regimental não provido” (AI 839.585-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 8.3.2012).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV, DA CF. OFENSA INDIRETA. ISSQN. OCORRÊNCIA DO FATO GERADOR. PREENCHIMENTO EQUIVOCADO DE NOTAS FISCAIS. REEXAME DE FATOS E PROVAS. SÚMULA 279. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte fixou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, se dependente de reexame prévio de normas infraconstitucionais, seria, em regra, indireta ou reflexa. Precedentes. II – Para dissentir do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes” (AI 832.233-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 6.5.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    9. Pelo exposto, dou provimento ao agravo, mas nego seguimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
