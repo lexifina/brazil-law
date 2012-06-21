@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado da Bahia, assim ementado:
+    “PLANO DE SAÚDE. NEGATIVA DE PAGAMENTO DE HONORÁRIOS DE MÉDICO ANESTESISTA, EM CIRURGIA REALIZADA PELO SEGURADO PARA RETIRADA DE TUMOR MALIGNO. RELATÓRIO MÉDICO INFORMANDO DA NECESSIDADE DA INTERVENÇÃO. PRELIMINAR DE INCOMPETÊNCIA DO JUIZADO, AFASTADA. COBERTURA OBRIGATÓRIA. SENTENÇA CONFIRMADA. RECURSO CONHECIDO E IMPROVIDO” (fl. 143).
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XXXVI e LIII, 7º, inciso XXVI, e 114 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que os artigos 5º, incisos XXXVI e LIII, e 7º, inciso XXVI, Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, ainda, que o acórdão recorrido, para concluir pela existência da relação de consumo entre as partes, baseou seu convencimento no conjunto probatório que permeia a lide. Nesse caso, para acolher a pretensão da recorrente e ultrapassar o entendimento do Tribunal de origem seria necessária a interpretação da legislação infraconstitucional pertinente e o reexame das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Sobre o tema, em caso similar aos dos autos, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA. ASSISTÊNCIA À SAÚDE PRESTADA POR ENTIDADE EMPREGADORA. IDENTIFICAÇÃO DE RELAÇÃO DE CONSUMO PELO JUÍZO DE ORIGEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE nº 599.239/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 1º/7/10)
+    No mesmo sentido, as recentes decisões monocráticas: RE nº 564.779/BA, de minha relatoria, DJ de 10/12/10; RE nº 635.617/BA, Relatora a Ministra Cármen Lúcia, DJe de 18/3/11; e AI nº 647.844/BA, Relator o Ministro Menezes Direito, DJe de 23/5/08.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de junho de 2012.
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
