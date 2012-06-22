@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE EVISTA. EXECUÇÃO. ADICIONAL POR TEMPO DE SERVIÇO. GRATIFICAÇÃO DE PRODUTIVIDADE. AUMENTO SALARIAL. Não restou demonstrado o afastamento do comando executivo, girando a questão em torno da interpretação da coisa julgada formada no processo de conhecimento, e nesta hipótese, não há como concluir pela lesão à coisa julgada. Essa é a diretriz abraçada pela Orientação Jurisprudencial nº 123 da SBDI-2 do TST, que se invoca por analogia. Agravo de instrumento conhecido e não provido”. (fl. 463)
+    Foram interpostos embargos declaratórios, aos quais se negou provimento. (fls 481/484)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos II, XXXV, XXXVI, LIV e LV; 7º, incisos XIII e XVI; e 93, inciso XI, da Constituição Federal.
+     Decido.
+     Não assiste razão à agravante.
+    Ressalto que a jurisprudência desta Corte é no sentido de que suposta ofensa às garantias constitucionais da segurança jurídica, da prestação jurisdicional, do contraditório, da ampla defesa e do devido processo legal (art. 5º, incisos XXXVI, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.9.2010.
+    Inclusive, em questão de ordem acolhida no julgamento do AI 791.292, DJe 13.8.2010, de minha relatoria, firmou-se o entendimento de que a decisão de tribunal inferior que nega provimento a apelo, desde que fundamentada, não configura violação à garantia constitucional da prestação jurisdicional:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    A jurisprudência do Supremo Tribunal Federal também é firme no sentido de que a controvérsia referente aos limites objetivos da coisa julgada é de índole infraconstitucional. Portanto, não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta.
+    Nesse sentido, destaco: o AI-AgR 639.002, Rel. Min. Menezes Direito, Primeira Turma, DJe 17.4.2009; o AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009; o RE-AgR 397.227, Rel. Min. Ayres Britto, Primeira Turma, DJe 13.8.2010; e o AI-AgR 350.279, Rel. Min. Dias Toffoli, Primeira Turma, DJe 15.3.2012, cuja ementa dispõe:
+    “Agravo regimental no agravo de instrumento. Coisa julgada. Ofensa ao art. 5º, incisos II, XXXV e LV. Matéria infraconstitucional. Ofensa reflexa à Constituição. 1. A agravante não trouxe qualquer argumento capaz de infirmar a decisão agravada. 2. A suposta violação do art. 5º, XXXV e LV, da CF/88, configura, em regra, como no presente caso, mera ofensa reflexa. 3. Agravo regimental não provido”.
+     Cito, ainda, as seguintes monocráticas: ARE 661.755, Rel. Min. Ayres Britto, DJe 6.2.2012; ARE 663.965, Rel. Min. Cármen Lúcia, DJe 15.12.2011; e AI 708.963, Rel. Min. Joaquim Barbosa, DJe 6.12.2011.
+     Ante o exposto, nego provimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 22 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
