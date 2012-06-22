@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Edson Rios contra decisão colegiada do Superior Tribunal de Justiça, que, nos autos do HC 225.474/MS, denegou a ordem pleiteada.
+    O paciente foi preso em flagrante, em 24.7.2011, pela prática do crime tipificado no art. 33 da Lei 11.343/06, quando transportava, no veículo em que se encontrava, 1 (uma) tonelada de maconha. O pedido de liberdade provisória foi indeferido pelo magistrado de primeiro grau.
+    A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Mato Grosso do Sul, que, ao argumento da necessidade de manutenção da segregação cautelar do paciente, denegou a ordem pleiteada.
+    Contra esta decisão, impetrou-se o HC 225.474/MS perante o Superior Tribunal de Justiça com o objetivo de revogar a prisão preventiva ou de aplicar medida cautelar diversa da constrição física. A ordem foi denegada em 24.4.2012.
+    Argumenta a impetrante, em síntese: a) falta de fundamentação idônea da decisão que manteve a prisão preventiva; b) ausência dos pressupostos autorizadores da segregação cautelar; c) possibilidade de adoção de outras medidas restritivas além da prisão processual; e d) circunstâncias favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+    Requer, em medida liminar e no mérito, a concessão da ordem para que o paciente possa aguardar em liberdade o julgamento da ação penal de origem.
+    Colho do acórdão impugnado:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS AUTORIZADORAS PRESENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS. INSUFICIÊNCIA. DECISÃO FUNDAMENTADA. PEDIDO DE SUBSTITUIÇÃO DA PRISÃO CAUTELAR POR MEDIDA DIVERSA. ANÁLISE DE MATÉRIA NÃO DEBATIDA NA ORIGEM. OCORRÊNCIA DE SUPRESSÃO DE INSTÂNCIA. PRECEDENTES.
+    1. O fato de estar inserido no rol dos delitos hediondos ou equiparados não basta para a imposição da constrição cautelar, por ser necessária a existência de circunstâncias que demonstrem e justifiquem a adoção da referida medida excepcional.
+    2. As Turmas componentes da Terceira Seção do superior tribunal de Justiça já cristalizaram o entendimento de inexistir constrangimento ilegal quando a prisão, suficientemente fundamentada, retratar a necessidade da medida para a garantia da ordem pública e aplicação da lei penal.
+    3. No caso concreto, a necessidade da segregação cautelar encontrava-se, à época, fundamentada na participação do paciente no tráfico de entorpecentes, evidenciando a dedicação aos delitos da espécie, alicerce suficiente, à época, para a motivação da garantia da ordem pública.
+    4. O Superior Tribunal de Justiça, em orientação uníssona, entende que persistindo os requisitos autorizadores da segregação cautelar (art. 312 do CPP), despiciendo o paciente possuir condições pessoais favoráveis.
+    5. O objeto deste mandamus, com relação à substituição da prisão por medida cautelar diversa, sob o argumento de atender ao princípio da razoabilidade, não é capaz de superar o óbice da ausência de debates na origem, sob pena de indevida supressão de um dos graus de jurisdição.
+    6. Ordem denegada.”
+    Da leitura do voto que fundamentou o acórdão impugnado, verifico que o ato se encontra devidamente motivado, apontando as razões de convencimento da Corte pela manutenção da prisão preventiva de Edson Rios.
+    Nesta análise de cognição sumária, verifico que a liberdade provisória foi indeferida forte na existência dos pressupostos para manutenção da prisão preventiva (art. 312 do CPP), prova de materialidade e de indícios de autoria, e a presença de risco à ordem pública.
+    Na espécie, a decisão hostilizada consignou que a segregação cautelar foi fundamentada na garantia da ordem pública em razão da expressiva periculosidade do paciente e da gravidade de sua conduta em concreto, consubstanciado pelo transporte de 1 (uma) tonelada de maconha, destinada à comercialização e abastecimento do tráfico em região de fronteira. A Corte Estadual ainda ressaltou a possibilidade de reiteração da conduta criminosa pelo agente.
+    Além disso, as instâncias anteriores fundamentaram que, especificamente quanto ao paciente, as medidas cautelares do art. 319 do Código de Processo Penal não seriam capazes de prevenir a ocorrência de danos à ordem pública.
+    Ressalto, por outro lado, que a circunstância do paciente ser primário, ter ocupação lícita e não ter antecedentes criminais, não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do CPP (HC 108.314/MA, rel. Min. Luiz Fux, 1ª Turma, DJe 5.10.2011; HC 106.816/PE, rel. Min. Ellen Gracie, 2ª Turma, DJe 20.6.2011).
+    Desse modo, não vislumbro a presença do requisito do fumus boni iuris para concessão da tutela emergencial pleiteada.
+    Ante o exposto, indefiro o pedido de liminar.
+    Solicitem-se informações, em caráter de urgência, ao Juiz de Direito da Vara Criminal da Comarca de Ponta Porã sobre o Processo 0005517-36.2011.8.12.0019, devendo encaminhar cópias das peças que entender relevantes, em especial às relativas às prisões do paciente, incluindo esclarecimentos sobre a situação e andamento da ação penal.
+    Após, colha-se a manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 22 de junho de 2012.
+Ministra Rosa Weber
+Relatora
