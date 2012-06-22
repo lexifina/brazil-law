@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor (fls. 209):
+    “Ação de Indenização de acidente do trabalho – Perda da capacidade laborativa – LER – Doença multifatorial – Nexo causal não demonstrado – Ação improcedente – Recurso da ré provido, prejudicado o exame do recurso da autora.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto nos arts. 5º, XXXV, 7º, XXVIII, e 93, IX, da Constituição federal. Sustenta-se que houve negativa de prestação jurisdicional no julgamento dos embargos de declaração e que a improcedência da ação negou vigência ao art. 7º, XXVIII.
+    O Superior Tribunal de Justiça negou seguimento ao agravo de instrumento no recurso especial por ausência de peças (cf. Ag 1.378.415, min. Presidente, DJe de 03.08.2011).
+    É o relatório. Decido.
+    Sem razão.
+    Inexiste a alegada afronta aos arts. 5º, XXXV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora recorrente.
+    Ademais, ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010, tema 339), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o preceito do art. 7º, XXVIII, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido, AI 265.938-AgR (rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000), cujo acórdão ficou assim ementado:
+    “- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+    Agravo a que se nega provimento.”
+    E, ainda que superado tal óbice, destaco que o Tribunal de origem deu provimento à apelação da parte ora agravada para julgar improcedente a ação porque concluiu pela inexistência de nexo causalidade. Desta feita, impossível chegar a entendimento diverso sem prévio reexame do arcabouço fático-probatório. Incide o óbice da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 22 de junho de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
