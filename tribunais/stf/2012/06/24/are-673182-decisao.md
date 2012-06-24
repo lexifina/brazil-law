@@ -1,0 +1,31 @@
+DECISÃO
+    Vistos.
+    Associação Salgado de Oliveira de Educação e Cultura (Instituição Mantenedora da Universidade Salgado de Oliveira – Universo) interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 207 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Juizado Especial Cível da Comarca de Belo Horizonte/MG, assim fundamentado:
+    “(...)
+    No mérito, a recorrente alega que o curso de bacharelado em educação física não constitui nova graduação, e sim uma continuação do próprio curso de educação física, não sendo cabível o desconto de 50% sobre o valor da mensalidade da recorrida.
+    De acordo com o Código de Defesa do Consumidor, é direito básico do consumidor a informação adequada e clara sobre os diferentes produtos e serviços (artigo 6º, inciso III), bem como a proteção contra a publicidade enganosa e abusiva (artigo 6º, inciso IV).
+    Toda informação ou publicidade veiculada pelo fornecedor o vincula, obrigando-o a seu cumprimento, consoante o artigo 30 do mencionado diploma legal.
+    A publicidade possui um componente contratual, vinculando o fornecedor, caso seja celebrado o contrato. Afinal, o princípio da transparência, instituído pelo artigo 4º, caput, do mencionado código, é norteador da formação de contratos.
+    Em análise aos autos, verifica-se que a recorrente efetivamente veiculou propaganda oferecendo desconto de 50% sobre o valor da mensalidade para alunos de nova graduação.
+    Constata-se, também, conforme afirmado pela recorrida e ainda comprovado por depoimento de testemunha constante do evento n° 32, que o próprio coordenador do curso ofereceu tal desconto aos alunos que optassem por cursar bacharelado em educação física na instituição.
+    Dessa forma, verifica-se que tal desconto desse ser aplicado à recorrida, tendo em vista que da leitura do anúncio veiculado pela faculdade não é possível inferir que trata-se apenas de nova graduação, não tendo sido feita qualquer ressalva sobre essa questão, bem como que o curso de bacharelado não se enquadra em tal requisito, tendo inclusive o próprio coordenador do curso oferecido tal desconto pessoalmente aos alunos”.
+    Opostos embargos de declaração, foram providos para “reconhecer a existência da mencionada omissão, e para manter integralmente a decisão constante do evento nº 79”.
+    Sustenta a agravante, nas razões do recurso extraordinário, que “ao condenar a recorrente a conceder desconto superior ao desconto já concedido de 30%, o v. acórdão infringiu a autonomia patrimonial das universidades, prevista no artigo 207 da Constituição da República, bem como no artigo 53, inciso II da Lei 9.394/96, já anteriormente citados”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido dirimiu a controvérsia amparado em legislação infraconstitucional e nos fatos e provas constantes dos autos.
+    Nesse caso, para ultrapassar o entendimento firmado pelo Tribunal de origem e acolher a pretensão da agravante, seria necessário reexaminar a legislação infraconstitucional pertinente (Código de Defesa do Consumidor) e os fatos e as provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido, destaco os seguintes precedentes:
+    “AGRAVO REGIMENTAL. INSTITUIÇÃO DE ENSINO SUPERIOR. COBRANÇA ABUSIVA. CÓDIGO DE DEFESA DO CONSUMIDOR. AUTONOMIA UNIVERSITÁRIA. ALEGAÇÃO DE OFENSA AOS ARTIGOS 207 E 209 DA CONSTITUIÇÃO FEDERAL. DISCUSSÃO INFRACONSTITUCIONAL.
+    Nos termos da jurisprudência deste Tribunal, o princípio da autonomia universitária não significa soberania das universidades, devendo estas se submeter às leis e demais atos normativos.
+    Controvérsia decidida à luz da legislação infraconstitucional. A alegada ofensa à Constituição, se existente, seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário.
+    Agravo regimental a que se nega provimento” (AI nº 647.482/RJ-AgR, Primeira Turma, Relator o Ministro Joaquim Barbosa, Dje de 31/3/11).
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AUTONOMIA UNIVERSITÁRIA. VIOLAÇÃO AO ART. 207, CF/88. APROVEITAMENTO DOS CRÉDITOS DE MATÉRIAS CURSADAS. SÚMULA STF 279. OFENSA REFLEXA. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA STF 284. 1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional. 2. As razões do agravo regimental não atacam com a objetividade necessária os fundamentos da decisão monocrática, limitando-se a repisar razões de recurso anteriormente interposto. Súmula STF 284. 3. Agravo regimental a que se nega provimento” (RE nº 571.282/RJ-AgR, Segunda Turma, Relatora a Ministra Ellen Grace, DJe 22/2/11).
+    No mesmo sentido, ainda, as recentes decisões monocráticas: AI nº 845.173/PR, Relator o Ministro Luiz Fux, DJe de 22/8/11; AI nº 845.316/PR, Relator o Ministro Ricardo Lewandowski, DJe de 2/6/11; AI nº 844.796/MG, Relator o Ministro Gilmar Medes, DJe de 18/5/11 e AI nº 793.388/RS, Relatora a Ministra Cármen Lúcia, DJe de 3/2/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
