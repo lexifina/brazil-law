@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 1ª Região e assim ementado:
+    “PREVIDENCIÁRIO. LIMITAÇÃO DO SALÁRIO-DE-BENEFÍCIO E DA RENDA MENSAL INICIAL (§ 2º DO ART. 29 E ART. 33 DA LEI Nº 8.213/91, BEM COMO DO PARÁGRAFO ÚNICO DO ART. 26 DA LEI Nº 8.870/94). INCONSTITUCIONALIDADE. EQUIVALÊNCIA DO BENEFÍCIO EM NÚMERO DE SALÁRIOS MÍNIMOS (ART. 58 DO ADCT). CRITÉRIO TRANSITÓRIO. REAJUSTE CONCEDIDO APÓS A CONSTITUIÇÃO FEDERAL DE 1998 (ART 41, INC. II E ART. 145 DA LEI Nº 8.213/91). CONSTITUCIONALIDADE. PAGAMENTO. ÔNUS DA PROVA (CPC, ART. 333, II.” (fl. 170)
+    Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 202, da Constituição Federal.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu a causa com base na legislação infraconstitucional (Lei 8.213/91), de modo que eventual ofensa à Carta Magna seria, aqui, apenas indireta. É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    Foi o que decidiu, em caso idêntico, a Ministra ELLEN GRACIE, no julgamento do AI 279.377 AgR- ED/RJ:
+    “EMBARGOS DE DECLARAÇÃO. PREVIDENCIÁRIO. SALÁRIOS-DE-BENEFÍCIO. TETO (ARTS. 29 E 33 DA LEI 8.213/91 E 202 DA CF). - A norma inscrita no art. 202, caput, da CF (redação anterior à EC nº 20), que assegura o benefício da aposentadoria com base na média dos trinta e seis últimos salários de contribuição, corrigidos monetariamente, mês a mês, não é autoaplicável, necessitando, para sua complementação, de integração legislativa, a fim de que lhe seja dada plena eficácia. Constitui, portanto, disposição dirigida ao legislador ordinário, a quem cabe definir os critérios necessários ao seu cumprimento - o que foi levado a efeito pelas Leis 8.212 e 8.213, ambas de 1991. Tem-se, portanto, que o benefício deve ser calculado de acordo com a legislação previdenciária editada. - Ademais, a ofensa, se existente, seria indireta. - Por outro lado, os embargos de declaração não se prestam a rediscutir a matéria de fundo, com pretendem os embargantes. Embargos rejeitados.”
+    No mesmo sentido: RE 489.207 ED/MG, Rel. Min. SEPÚLVEDA PERTENCE, DJ 10/11/2006; AI 479.518 AgR/SP, Rel. Min. SEPÚLVEDA PERTENCE, DJ 30/04/2004 e AI 206.807 AgR/RS, Rel. Min. SYDNEY SANCHES, DJ 28/06/2002.
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 26 de junho de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
