@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de recurso extraordinário contra acórdão do Tribunal de Justiça de São Paulo, e assim ementado:
+          “JUSTIÇA COMUM – COMPETÊNCIA – AÇÃO REGRESSIVA DE REPARAÇÃO DE DANOS – EMENDA CONSTITUCIONAL Nº 45/2004 – RECURSO PROVIDO
+    Compete à Justiça Estadual processar e julgar ação regressiva movida contra ex-empregado visando o ressarcimento de danos causados em acidente de veículo, por envolver relação de índole eminentemente civil e não dizer respeito à relação de trabalho de que trata o art. 114 da Constituição vigente, com a redação introduzida pela Emenda Constitucional nº 45, de 2004”. (fl. 45).
+    Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 114, VI, da Constituição Federal. Aduz que deve ser competente para processar e julgar a lide a Justiça laboral, em face do vínculo do contrato de trabalho celebrado entre as partes e cumprido por duas décadas.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Incognoscível o recurso.
+    É que o acórdão impugnado decidiu a causa com base em interpretação de acordo celebrado entre as partes, relativo ao extinto contrato de trabalho, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta, além do que, para se diferenciar a responsabilidade civil aquiliana da responsabilidade civil contratual, necessário seria o reexame de fatos e provas, o que é incabível em recurso extraordinário.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (súmulas 279 e 280).
+    E, bem por isso, pretensões idênticas têm sido aqui repelidas. Cite-se, a título de exemplo:
+    “PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PENHORA. MATÉRIA infraconstitucional. SÚMULA STF 279. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido.” (AI 766.612-AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19.02.2010)
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. LIMITES DA COISA JULGADA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte. II - esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. III - Agravo regimental improvido.” (AI 601.325-AgR, Rel. Min. RICARDO LEWANDOWSKI , Primeira Turma, DJe de 17.08.2007)
+    3. Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 26 de junho de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
