@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. AGRAVO INTEMPESTIVO: SÚMULA N. 699 DO SUPREMO TRIBUNAL. RECURSO NÃO CONHECIDO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “APELAÇÃO CRIMINAL. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16 DA LEI Nº 10.826/03). 1) DESCLASSIFICAÇÃO DO FATO PARA A FIGURA DESCRITA NO CAPUT DO MESMO ARTIGO. IRRELEVÂNCIA. IDENTIDADE DE PENA. AUSÊNCIA DE INTERESSE RECURSAL. NÃO CONHECIMENTO. 2) NULIDADE DO PROCESSO. ILICITUDE DA PROVA PRODUZIDA. AUSÊNCIA DE MANDADO DE BUSCA E APREENSÃO. DESNECESSIDADE. CRIME PERMANENTE. ARTIGO 5º, XI, DA CONSTITUIÇÃO FEDERAL. PRISÃO EM FLAGRANTE. 3) ATIPICIDADE DA CONDUTA. ABOLITIO CRIMINIS. ALTERAÇÕES AO ESTATUTO DO DESARMAMENTO QUE NÃO MAIS CONTEMPLAM A POSSE DE ARMA E MUNIÇÕES DE USO RESTRITO OU COM NUMERAÇÃO SUPRIMIDA COMO CAUSA EXTINTIVA DA PUNIBILIDADE. ORIGEM ILÍCITA. IMPOSSIBILIDADE DE REGISTRO. 4) ALEGADA AUSÊNCIA DE POTENCIAL OFENSIVO E INAPLICABILIDADE DA PENA. INEXISTÊNCIA DE DOLO. DESNECESSIDADE. CRIME DE PERIGO ABSTRATO E DE MERA CONDUTA. APLICAÇÃO DE PENA DECORRENTE DA PRÁTICA DE ATO TÍPICO. 5) ERRO DE PROIBIÇÃO. DESCONHECIMENTO DA ILICITUDE DO FATO. ALEGAÇÃO NÃO ACOLHIDA. IMPOSSIBILIDADE DE ALEGAR DESCONHECIMENTO DA LEI. DESARMAMENTO AMPLAMENTE DIVULGADO. SENTENÇA MANTIDA. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO” (fls. 272-273 – grifos nossos).
+    2. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. XI, da Constituição da República ao não reconhecer a ilicitude de prova obtida por meio de invasão domiciliar sem mandado judicial.
+    Assevera, ainda, que: a) a posse de arma de fogo desmuniciada não seria fato típico, pois “o princípio da ofensividade exige a constatação ex post factum (…) da concreta presença de uma lesão ou de um perigo concreto de lesão” (fl. 365); b) incidiria na espécie vertente o art. 21 do Código Penal (erro de proibição); c) a pena aplicada ao Agravante (3 anos de reclusão) seria desproporcional; d) a arma apreendida não seria de uso restrito.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal a quo sob o fundamento de incidência das Súmulas n. 283 e 284 do Supremo Tribunal, porque não foi impugnada a afirmação de que o estado de flagrância legitimara a invasão domiciliar e não foram apontados os dispositivos constitucionais supostamente contrariados na aplicação da pena e pelo não reconhecimento da atipicidade da conduta (fls. 396-397).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O agravo é intempestivo.
+    A decisão agravada foi publicada em 24.11.2011 (fl. 398). O prazo começou a fluir em 25.11.2011 e findou em 29.11.2011.
+    O agravo, no entanto, foi protocolizado no dia 5.12.2011 (fl. 422), quando exaurido o prazo previsto no art. 28 da Lei 8.038/90 (Súmula n. 699 do Supremo Tribunal: “o prazo para interposição de agravo, em processo penal, é de cinco dias, de acordo com a Lei 8.038/90, não se aplicando o disposto a respeito nas alterações da Lei 8.950/94 ao Código de Processo Civil”).
+    Confira-se o seguinte julgado:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INTEMPESTIVIDADE: INCIDÊNCIA DA SÚMULA 699 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que é de cinco dias o prazo para a interposição do agravo de instrumento em recurso extraordinário criminal, conforme o art. 28 da Lei n. 8.038/90, não revogado, em matéria penal, pela Lei n. 8.950/94, de âmbito normativo restrito ao Código de Processo Civil. Incide, no caso, a Súmula 699 do Supremo Tribunal Federal. 2. Agravo Regimental desprovido” (AI 640.461-AgR, de minha relatoria, DJ 22.6.2007).
+    No mesmo sentido: AI 655.692-AgR, Rel. Min. Ricardo Lewandowski, DJ 31.8.2007, e AI 476.707-AgR, Rel. Min. Cezar Peluso, DJ 11.3.2005, entre outros.
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, não conheço deste agravo (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de junho de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
