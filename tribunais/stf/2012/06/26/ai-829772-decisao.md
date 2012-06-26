@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violado o disposto nos arts. 5º, XLVI e LV, e 93, IX, da Carta Magna.
+    Consta dos autos que o ora agravante foi condenado como incurso no art. 19, parágrafo único, da Lei 7.492/1986, na forma do art. 71 do Código Penal, à pena de 05 (cinco) anos, 05 (cinco) meses e 10 (dez) de reclusão e multa, em regime semi aberto.
+    Acusação e defesa interpuseram recursos de apelação. O Tribunal Regional Federal da 2ª Região negou provimento ao apelo do Ministério Público e deu parcial provimento ao recurso da defesa, tão somente para reduzir o valor do dia-multa, em acórdão cuja ementa tem o seguinte teor (fls. 42-43):
+    “PENAL E PROCESSO PENAL. CRIME CONTRA O SISTEMA FINANCEIRO NACIONAL. INCOERÊNCIA NA ATUAÇÃO DAS AUTORIDADES NO FEITO. AUSÊNCIA DE NULIDADE. MATERIALIDADE E AUTORIA DO CRIME PREVISTO NO ART. 19 DA LEI N. 7.492/86. COMPROVAÇÃO. ABSOLVIÇÃO DA PRÁTICA DO ART. 20 DA LEI N. 7.492/86. APLICAÇÃO EM FINALIDADE FINANCEIRA. NÃO DEMONSTRAÇÃO NOS AUTOS.
+    I – Arquivamento do IPL por Procurador da República não obsta a que o Juízo adote o art. 28 do CPP. O réu se defende dos fatos narrados na denúncia, sendo irrelevante a classificação jurídica que por vezes oscile nos teclados das autoridades que oficiam no feito.
+    II – Constam diversas provas nos autos no sentido de que os quatro financiamentos obtidos pelo apelante o foram de maneira absolutamente irregular, porquanto não foram oferecidas as garantias suficientes à celebração dos contratos, além do que as verbas foram liberadas em dissonância com o cronograma de obras, algumas delas sequer iniciadas, embora tivessem obtido a liberação de aproximadamente 60% dos recursos. Provado o crime do art. 19 da Lei n. 7.492/86.
+    III – O art. 20 da Lei n. 7492/86 visa a proibir que os recursos obtidos de forma legal e fora da infração ao art. 19 da Lei n. 7.492/86, sejam destinados à operação econômico-financeira distinta daquela que fundamentou o empréstimo. Aquele que acaba ficando com os recursos para si próprio apenas exaure o delito de obtenção fraudulenta de empréstimo (art. 19 da Lei n. 7.492/86).
+    IV – Em se tratando de crime que sequer exige prejuízo efetivo para sua consumação por ser formal, o prejuízo eventualmente obtido com a prática do art. 19 da Lei n. 7.492/86 é um plus a ser considerado a título de circunstâncias judicias, sem contar que existe prova nos detalhada em laudo pericial de que, na data de sua elaboração, portanto, já quase três anos depois do primeiro empréstimo, o panorama de oferecimento de casas populares à comunidade era bastante carente, o que aumenta a reprovabilidade da conduta.
+    V – Considerando que a fixação do valor do dia-multa não foi fundamentada suficientemente, reduzo-o para 2 (dois) salários-mínimos.
+    VI – Recurso do acusado parcialmente provido e recurso do MPF improvido.”
+    Os embargos de declaração opostos foram parcialmente providos, sem efeitos infringentes.
+    Nas razões recursais, alega-se violação aos princípios da individualização das penas e da fundamentação das decisões judiciais, pois o acórdão recorrido considerou as condutas de todos os réus de forma idêntica, sem individualizá-las, bem como manteve a pena que foi exasperada de forma desproporcional, sem a devida fundamentação e sem amparo nos autos.
+    Argumenta-se que o cálculo da pena base deve ser revisto, uma vez que houve aumento pela continuidade delitiva e um dos delitos já estaria prescrito.
+    Sustenta-se ofensa ao princípio do contraditório pois o recorrente, denunciado como partícipe do delito do art. 19 da Lei 7.492/1986, foi condenado como coautor, com a pena ampliada por uma causa de aumento não contida na denúncia.
+    Afirma-se que houve o arquivamento do inquérito administrativo pelo Banco Central, ante a inexistência de irregularidade.
+    Decido.
+    Inicialmente, verifico que o recurso extraordinário, ao alegar que o acórdão recorrido ofende os arts. 5º, XLVI, e 93, IX, da Carta Magna, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto dos embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmula 282).
+    Ademais, o recorrente trata de matéria cuja suposta violação demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Por fim, a análise das questões constitucionais suscitadas nas razões recursais implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo de instrumento (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de junho de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
