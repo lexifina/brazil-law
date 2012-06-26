@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. IPERJ. RIOPREVIDÊNCIA. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS. PROCESSO ADMINISTRATIVO E-01/302445/2007. PRETENSÃO DE EXTENSÃO AOS INATIVOS. INEXISTÊNCIA DE PROVA PRÉ-CONSTITUÍDA. DIREITO LÍQUIDO E CERTO NÃO COMPROVADO DE PLANO NOS AUTOS. INTELIGÊNCIA DO ART. 5º, INCISO LVXIX DA CRFB/88. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA EM SEDE DE MANDADO DE SEGURANÇA. INDEFERIMENTO DA PETIÇÃO INICIAL, JULGANDO EXTINTO O PROCESSO A TEOR DO QUE DISPÕE O ART. 10, DA LEI Nº 12.016, DE 07 DE AGOSTO DE 2009 (ANTIGO ARTIGO 8º DA REVOGADA LEI Nº 1.533/51). PROVIMENTO DO RECURSO, NA FORMA DO ART. 557, § 1º-A DO CÓDIGO DE PROCESSO CIVIL”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, afronta aos arts. 5º, XXXV, XXXVI e LXIX, e 40, § 8º, da mesma Carta, bem como aos arts. 6º e 7º da EC 41/2003 e 3º da EC 47/2005. Sustentou-se, ainda, ofensa ao art. 89, § 5º, da Constituição do Estado do Rio de Janeiro.
+    A pretensão recursal não merece acolhida.
+    Preliminarmente, cumpre ressaltar que a alegação de violação a norma infraconstitucional (Constituição do Estado do Rio de Janeiro) não enseja o cabimento de recurso extraordinário, a teor do art. 102, III, da Constituição Federal.
+    O Tribunal de origem entendeu que não há nos autos prova pré-constituída dos fatos configuradores do direito que os impetrantes alegam possuir. É o que se extrai do seguinte trecho do acórdão recorrido:
+    “(...) no caso em exame, constata-se que o direito líquido e certo não está provado de plano, ou seja, não existe nos autos a prova pré-constituída.
+    Ao contrário, verifica-se pelo conjunto fático probatório colacionado às fls. 44/58, que os Impetrantes trouxeram ao processo tão somente cópia do Diário Oficial do dia 09 de janeiro de 2008 (fls. 44), em que há apenas publicação de 'autorizo' ao processo nº E-01/302445/2007, o que não esclarece nem o que foi efetivamente autorizado pelo despacho do Governador do Estado, sendo certo que o referido processo administrativo não foi trazido aos autos”.
+    Assim, para se chegar à conclusão contrária à adotada no acórdão recorrido quanto à insuficiência dos documentos acostados para comprovação do direito líquido e certo dos impetrantes, necessário seria o reexame do acervo probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido: AI 619.791-AgR/SP, Rel. Min. Joaquim Barbosa; RE 344.804/MS, Rel. Min. Moreira Alves.
+    Além disso, o entendimento desta Corte é no sentido de que a discussão em torno dos requisitos de admissibilidade do mandado de segurança possui natureza meramente processual e envolve a apreciação de normas infraconstitucionais. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 582.662-AgR/BA, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MANDADO DE SEGURANÇA. PRESSUPOSTOS. CABIMENTO. OFENSA INDIRETA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO.
+    1. Controvérsia decidida à luz de normas infraconstitucionais. Ofensa indireta à Constituição do Brasil.
+    2. Ofensa indireta à Constituição do Brasil, eis que imprescindível o reexame do cabimento e das condições da ação, nos termos da Lei n. 1.533/51 e do Código do Processo Civil.
+    3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF (...)” (RE 438.583-AgR/RJ, Rel. Min. Eros Grau, Segunda Turma).
+    Cito, ainda, entre outros: AI 251.600-AgR/BA e RE 225.953/SP, Rel. Min. Celso de Mello; AI 633.595-AgR/DF, AI 733.412-AgR/PI e AI 565.694-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
