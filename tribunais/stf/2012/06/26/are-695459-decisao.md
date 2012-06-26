@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado:
+    “RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. PRELIMINAR. LEGITIMIDADE PASSIVA DO ENTE PÚBLICO.
+    É o ente público legitimado a responder perante os danos causados em decorrência de inundação em córrego o qual as águas são de domínio do Estado, na forma do art. 26, I, da CF, bem, como pela responsabilidade da manutenção do córrego a si dirigida.
+    REPARAÇÃO DE DANOS MATERIAIS E MORAIS. OCORRÊNCIA DE INUNDAÇÃO. FATO ORIGINADO DA OMISSÃO OU ATUAÇÃO DEFICIENTE DO ENTE PÚBLICO, CULPABILIDADE RECONHECIDA.
+    Cabe indenização quando a demandante tem sua residência alagada pelo transbordamento de água oriunda de córrego. Ausência de desassoreamento do Arroio Feijó.
+    O ente público será responsabilizado por danos decorrentes dos fatos da natureza quando, por sua omissão ou autuação deficiente quanto a obras que razoavelmente lhe seriam exigíveis, poderia evitar a ocorrência do prejuízo ou minimizado suas consequências.
+    Dano material a ser arcado a título de perda de objetos residenciais da parte autora.
+    O dano moral é presumido sendo, por conseguinte, desnecessária a sua comprovação.
+    Ausente sistema de tarifamento, a fixação do montante indenizatório ao dano extrapatrimonial está adstrita ao prudente arbítrio do juiz. Quantum minorado.
+    Preliminar afastada e, no mérito, deram provimento em parte ao recurso. Unânime”.
+    Alega-se violação aos arts. 5º, XXXV, XXXVI, LIV, LV; e 37, § 6º, da Constituição Federal e defende-se, em síntese, que os danos causados à parte ora recorrida são derivados de situação de força maior, pois o alagamento do Arroio Feijó decorreu de chuvas torrenciais, não sendo possível que o Estado de Porto Alegre altere toda sua bacia hidrográfica em virtude da preservação ambiental. Alega-se ainda que é de responsabilidade municipal a fiscalização das áreas afetadas, a fim de se evitar o depósito irregular de lixo ou de outros resíduos que possam aumentar o risco de inundações.
+    Decido.
+    Não merecem prosperar as razões recursais.
+    Esta Corte firmou entendimento no sentido de que a discussão acerca da legitimidade ad causam demanda a prévia análise da legislação infraconstitucional, o que inviabiliza o prosseguimento do recurso, tendo em vista que configura ofensa meramente reflexa ao texto constitucional. Nesse sentido, confira-se o AI-AgR 587.112, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 4.6.2010, assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ainda que assim não fosse, não merece prosperar a irresignação, haja vista que o recorrido visa discutir, no apelo extremo, a existência de acontecimento de força maior e, em segundo plano, a omissão estatal. Nesse caso, para acolher a pretensão recursal e ultrapassar o entendimento do Tribunal de origem, seria necessário reexame dos fatos e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 desta Corte. Nesse sentido, anota-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL DO ESTADO POR OMISSÃO CULPOSA. RELEVÂNCIA DA CULPA “IN VIGILIGANDO” NA PRODUÇÃO DO RESULTADO DANOSO. DISCUSSÃO EMINENTEMENTE FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (RE-AgR 461.073/RS, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe de 2.12.2010).
+    “CONSTITUCIONAL. ADMINISTRATIVO. MORTE POR EXPLOSÃO EM FÁBRICA DE PÓLVORA. OMISSÃO DO ESTADO. RESPONSABILIDADE CIVIL. SUBJETIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MATÉRIA DE FATO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. 1 – Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II – A análise da questão dos autos demanda o reexame de matéria fática, o que impede o processamento do recurso extraordinário, a teor da Súmula 279 do STF. III- Agravo Regimental improvido” (RE-AgR 603.342/PE, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 1º.2.2011).
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 26 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
