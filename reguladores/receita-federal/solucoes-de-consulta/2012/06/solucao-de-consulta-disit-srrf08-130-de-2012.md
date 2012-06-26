@@ -1,0 +1,17 @@
+Solução de Consulta Disit/SRRF08 nº 130, de 3 de maio de 2012
+Assunto: Contribuição para o PIS/Pasep
+BASE DE CÁLCULO DO TRIBUTO. BONIFICAÇÕES EM MERCADORIAS VINCULADAS A OPERAÇÃO DE VENDA.
+As bonificações em mercadorias, quando vinculadas á operação de venda, concedidas na própria Nota Fiscal que ampara a venda, e não estiverem vinculadas á operação futura, por se caracterizarem como redutoras do valor da operação, constituem-se em descontos incondicionais, previstos na legislação de regência do tributo como valores que não integram a sua base de cálculo e, portanto, para sua apuração, podem ser excluídos da base cálculo da Contribuição para o PIS/Pasep.
+BASE DE CÁLCULO. BONIFICAÇÕES EM MERCADORIAS A TÍTULO GRATUITO, DESVINCULADAS DE OPERAÇÃO DE VENDA.
+A base de cálculo da Contribuição para o PIS/Pasep e definida legalmente como o valor do faturamento, entendido este como o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+Nos casos em que a bonificação em mercadoria é concedida por liberalidade da empresa vendedora, sem vinculação a operação de venda e tampouco vinculada a operação futura, não há como caracterizá-la como desconto incondicional, pois não existe valor de operação de venda a ser reduzido. Por não haver atribuição de valor, pois que a Nota Fiscal que acompanha a operação tem natureza de gratuidade, natureza jurídica de doação, não há receita e, portanto, não há que se falar em fato gerador do tributo, pois a receita bruta não será auferida.
+Dessa forma, a bonificação em mercadorias, de forma gratuita, não integra a base de cálculo da Contribuição para o PIS/Pasep.
+Dispositivos Legais: Artigo 195 da CF/88; Artigo 1º Lei nº 10.637, de 2002 e Parecer CST/SIPR nº 1.386, de 1982.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+BASE DE CÁLCULO DO TRIBUTO. BONIFICAÇÕES EM MERCADORIAS VINCULADAS A OPERAÇÃO DE VENDA. As bonificações em mercadorias, quando vinculadas á operação de venda, concedidas na própria Nota Fiscal que ampara a venda, e não estiverem vinculadas á operação futura, por se caracterizarem como redutoras do valor da operação, constituem-se em descontos incondicionais, previstos na legislação de regência do tributo como valores que não integram a sua base de cálculo e, portanto, para sua apuração, podem ser excluídos da base cálculo da Cofins. BASE DE CÁLCULO . BONIFICAÇÕES EM MERCADORIAS A TÍTULO GRATUITO, DESVINCULADAS DE OPERAÇÃO DE VENDA..
+A base de cálculo da Cofins é definida legalmente como o valor do faturamento, entendido este como o total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+Nos casos em que a bonificação em mercadoria é concedida por liberalidade da empresa vendedora, sem vinculação a operação de venda e tampouco vinculada a operação futura, não há como caracterizá-la como desconto incondicional, pois não existe valor de operação de venda a ser reduzido. Por não haver atribuição de valor, pois que a Nota Fiscal que acompanha a operação tem natureza de gratuitade, natureza jurídica de doação, não há receita e, portanto, não há que se falar em fato gerador do tributo, pois a receita bruta não será auferida.
+Dessa forma, a bonificação em mercadorias, de forma gratuita, não integra a base de cálculo da Cofins.
+Dispositivos Legais: Artigo 195 da CF/88; Artigo 1º Lei nº 10.833, de 2003 e Parecer CST/SIPR nº 1.386, de 1982.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 130-2012.pdf]
