@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Distrito Federal e Territórios, cuja ementa tem o seguinte teor:
+    “PREVIDÊNCIA SUPLEMENTAR. SISTEL. RECÁLCULO DO VALOR DA RENDA MENSAL INICIAL DO BENEFÍCIO DE COMPLEMENTAÇÃO DA APOSENTADORIA, COM BASE NO REGULAMENTO DO PLANO DE BENEFÍCIOS DE 09 DE FEVEREIRO DE 1990 E NAS POSTERIORES ALTERAÇÕES.
+    O sistema de previdência complementar é regido pelo princípio da solidariedade e do mutualismo, de modo que as eventuais alterações dos planos previdenciários decorrem da própria dinâmica das relações sociais, haja vista a necessidade de se preservar o equilíbrio financeiro e atuarial dos referidos planos, assegurando o pagamento dos benefícios futuros e a higidez do sistema. O regime jurídico apto para reger a fixação e o reajuste da suplementação de aposentadoria paga pela SISTEL ao participante é aquele vigente à época da aposentadoria. Nesse contexto, inexiste qualquer ofensa ao artigo 201, §§ 3º e 4º, da Constituição Federal, os quais cuidam dos benefícios64 concedidos pelo Regime Geral de Previdência, de filiação obrigatória. Situação diversa dos benefícios contratados por meio dos planos de previdência complementar. Recurso conhecido e não provido. Unânime.”
+    Nas razões de recurso extraordinário, a ora recorrente alega ofensa ao disposto nos arts. 5º, XXXV, XXXVI, LIV e LV; 93, X, e 202, §§ 1º e 6º, da Constituição federal.
+    É o relatório. Decido.
+    Inicialmente, observo que não há violação dos artigos 5º, XXXV, LIV e LV e 93, IX, da Carta Magna, pois o acórdão recorrido inequivocamente prestou jurisdição, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a recorrente.
+    Ademais, a análise das violações suscitadas nas razões recursais demandaria o exame prévio da legislação infraconstitucional, do regulamento da entidade e do contrato. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, o óbice das Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+    Nesse sentido, ARE 644.752 (rel. min. Ricardo Lewandowski, DJe de 03.08.2011), ARE 644.481 (rel. min. Cármen Lúcia, DJe de 04.08.2011), AI 807.827 (rel. min. Gilmar Mendes, DJe de 13.06.2011) e AI 810.356 (rel. min. Ayres Britto, DJe de 24.09.2010).
+    Do exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de junho de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
