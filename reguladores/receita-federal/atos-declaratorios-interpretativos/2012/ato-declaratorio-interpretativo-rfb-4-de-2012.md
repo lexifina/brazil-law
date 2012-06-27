@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 4, de 26 de junho de 2012
+Dispõe sobre a impossibilidade do desconto de créditos da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins) em relação aos gastos com desembaraço aduaneiro.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto nos arts. 15 a 18 Lei nº 10.865, de 30 de abril de 2004, e na Solução de Divergência Cosit nº 7, de 24 de maio de 2012, declara:
+Artigo único. Os gastos com desembaraço aduaneiro na importação de mercadorias não geram direito ao desconto de créditos da Contribuição para o PIS/Pasep e da Contribuição para o Financiamento da Seguridade Social (Cofins), por falta de amparo legal.
