@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça de São Paulo e assim ementado:
+    “Multa processual – Natureza – Instituição na legislação pátria para assegurar a eficácia das decisões judiciais – Inteligência do art. 461, §§ 5º e 6º do Código de Processo civil – Desnecessidade, no caso concreto – Revogação na liquidação do julgado – Admissibilidade – Agravo de instrumento provido para esse fim.” (fl. 73)
+    Opostos embargos de declaração, foram rejeitados (fls. 91-94)
+    Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 5º, XXXVI, da Constituição da República. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 1º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu a causa com base no conjunto fático-probatório e na legislação infraconstitucional pertinente, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas reflexa.
+    Pacífica é a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de norma de âmbito infraconstitucional, seria apenas indireta à Constituição da República e, muito menos, pretensão de reexame de provas (súmulas 279 e 280).
+    É como têm decidido ambas as Turmas desta Corte, em hipóteses análogas:
+    “DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. DANO MORAL. INDENIZAÇÃO. VALOR. VIOLAÇÃO DO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. REEXAME INCABÍVEL NO ÂMBITO DO RECURSO EXTRAORDINÁRIO. Impossibilidade de exame em recurso extraordinário de alegada violação, acaso existente, situada no âmbito infraconstitucional. Agravo regimental a que se nega provimento.” (ARE 640.804 AgR/PR, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 20.04.2012)
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. DESAPROPRIAÇÃO INDIRETA. ART. 5º, XXXVI, DA CF. COISA JULGADA. REEXAME DE FATOS E PROVAS. SÚMULA STF 279. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Embargos de declaração recebidos como agravo regimental, consoante iterativa jurisprudência do Supremo Tribunal Federal. 2. É inadmissível recurso extraordinário no qual, a pretexto de ofensa ao instituto da coisa julgada, pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta à Constituição Federal. 3. Necessário o reexame de fatos e provas para se concluir pela titularidade da área objeto de desapropriação indireta. Incidência, portanto, da Súmula STF 279. 4. Agravo regimental improvido.” (AI 482.334 AgR/SP, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 30.04.2010)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 27 de junho de 2012.
+Ministro CEZAR PELUSO
+Relator
