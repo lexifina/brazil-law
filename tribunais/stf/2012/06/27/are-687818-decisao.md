@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de recurso extraordinário com agravo interposto de acórdão do Juizado Especial Federal do Rio Grande do Sul, o qual negou provimento ao recurso interposto, confirmando a sentença por seus próprios fundamentos, nos termos do art. 46 da Lei 9.099/95, c.c. art. 1º da Lei 10.259/01.
+    A sentença decidiu não ser aplicável a súmula 2 do Tribunal Regional Federal da 4ª Região, a qual preconiza que: “Para o cálculo da aposentadoria por idade ou por tempo de serviço, no regime precedente à Lei nº 8.213, de 24 de julho de 1991, corrigem-se os salários-de-contribuição, anteriores aos doze últimos meses, pela variação nominal da ORTN/OTN.”, uma vez que o benefício foi concedido à parte antes da Lei nº 6.423/77, de 17.06.1977, que criou a ORTN.
+     Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 194, IV, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, no forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    É que o acórdão impugnado decidiu a causa com base na legislação infraconstitucional incidente (Lei nº 6.423/77) e nos fatos e provas, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    Pacífica é a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (súmula 279).
+    É o que, em casos análogos, se verifica dos seguintes precedentes de ambas as Turmas:
+    “DIREITO PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. REEXAME DE FATOS E PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. O acórdão recorrido reconheceu o direito da impetrante com fundamento no conjunto fático-probatório delineado nos presentes autos (Súmula STF 279) e na legislação infraconstitucional. 2. O agravante não trouxe nenhum argumento capaz de infirmar o entendimento adotado pela decisão impugnada, que deve ser mantida por seus próprios fundamentos. 3. Agravo regimental a que se nega provimento.” (AI nº 787.773-AgR/RJ, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 24.02.2011)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 515.097-AgR/MG, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 26.06.2009)
+    3. Ante o exposto, conheço do agravo para negar seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, 544, § 4º, II, b, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 27 de junho de 2012.
+Ministro CEZAR PELUSO
+Relator
