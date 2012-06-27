@@ -1,0 +1,15 @@
+DECISÃO: A controvérsia jurídica objeto deste processo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar a ADI 3.089/DF, Rel. p/ o acórdão Min. JOAQUIM BARBOSA, fixou entendimento consubstanciado em acórdão assim ementado:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUCIONAL. TRIBUTÁRIO. ITENS 21 E 21.1. DA LISTA ANEXA À LEI COMPLEMENTAR 116/2003. INCIDÊNCIA DO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN SOBRE SERVIÇOS DE REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS. CONSTITUCIONALIDADE.
+    Ação Direta de Inconstitucionalidade ajuizada contra os itens 21 e 21.1 da Lista Anexa à Lei Complementar 116/2003, que permitem a tributação dos serviços de registros públicos, cartorários e notariais pelo Imposto sobre Serviços de Qualquer Natureza - ISSQN.
+    Alegada violação dos arts. 145, II, 156, III, e 236, ‘caput’, da Constituição, porquanto a matriz constitucional do Imposto sobre Serviços de Qualquer Natureza permitiria a incidência do tributo tão-somente sobre a prestação de serviços de índole privada. Ademais, a tributação da prestação dos serviços notariais também ofenderia o art. 150, VI, a e §§ 2º e 3º da Constituição, na medida em que tais serviços públicos são imunes à tributação recíproca pelos entes federados.
+    As pessoas que exercem atividade notarial não são imunes à tributação, porquanto a circunstância de desenvolverem os respectivos serviços com intuito lucrativo invoca a exceção prevista no art. 150, § 3º da Constituição. O recebimento de remuneração pela prestação dos serviços confirma, ainda, capacidade contributiva.
+    A imunidade recíproca é uma garantia ou prerrogativa imediata de entidades políticas federativas, e não de particulares que executem, com inequívoco intuito lucrativo, serviços públicos mediante concessão ou delegação, devidamente remunerados.
+    Não há diferenciação que justifique a tributação dos serviços públicos concedidos e a não-tributação das atividades delegadas.
+    Ação Direta de Inconstitucionalidade conhecida, mas julgada improcedente.”
+    Cumpre ressaltar, por necessário, que essa orientação plenária vem sendo observada em decisões, que, proferidas no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (AI 642.696/RS, Rel. Min. RICARDO LEWANDOWSKI – AI 685.187/SP, Rel. Min. MENEZES DIREITO – RE 466.170/RS, Rel. Min. CEZAR PELUSO – RE 488.842/MG, Rel. Min. JOAQUIM BARBOSA – RE 491.297/RS, Rel. Min. EROS GRAU – RE 580.253/RS, Rel. Min. Rel. Min. AYRES BRITTO, v.g.).
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à orientação jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 27 de junho de 2012.
+Ministro CELSO DE MELLO
+Relator
