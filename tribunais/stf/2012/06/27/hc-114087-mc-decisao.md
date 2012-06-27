@@ -1,0 +1,26 @@
+Despacho: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de WESLEY DE SOUZA MOREIRA, contra decisão do Min. SEBASTIÃO REAIS JUNIOR, do Superior Tribunal de Justiça, que denegou monocraticamente o HC n° 235.883.
+    Segundo a impetração, o paciente encontra-se foragido desde o dia 24/5/2010, e foi condenado a 6 (seis) anos e 2 (dois) meses de reclusão e vinte dias-multa, pela prática do crime previsto no art. 157, § 2º, I, do CP. Foi-lhe negado o direito de recorrer em liberdade.
+    Impetrou-se habeas corpus ao Tribunal local, que lhe denegou a ordem. Impetrou-se, então, novo pedido, agora ao Superior Tribunal de Justiça. O Ministro Relator indeferiu a liminar, e, monocraticamente, denegou a ordem.
+    Alega o impetrante, em síntese, que a negativa de apelar em liberdade não possui fundamentação idônea. Aduz que não estão presentes os requisitos do art. 312 do CPP.
+    Requer o afastamento da súmula 691 e, liminarmente, seja expedido alvará de soltura em favor do paciente. No mérito, reproduzem idêntico pleito, para que o paciente possa aguardar, em liberdade, o julgamento do processo a que responde.
+    2. É caso de liminar.
+    Inicialmente, consigno que não é o caso de superação da súmula 691, pois a decisão impugnada, conquanto monocrática, tem caráter definitivo.
+    Verifico que o fundamento da prisão cautelar do paciente se resume ao seguinte trecho da sentença:
+     “O regime de cumprimento da pena será o fechado e o réu não poderá recorrer em liberdade, por possuir maus antecedentes criminais.”
+    Não é necessário alongar-me para demonstrar a ausência de motivação idônea para a decretação da cautelar. Basta reafirmar que a prisão preventiva, medida extrema que implica sacrifício à liberdade individual, deve ordenar-se com redobrada cautela, à vista, sobretudo, da sua função meramente instrumental, enquanto tende a garantir a eficácia de eventual provimento definitivo de caráter condenatório, bem como perante a garantia constitucional da presunção de não-culpabilidade, devendo fundar-se em razões objetivas e concretas, capazes de corresponder às hipóteses legais (fattispecie abstratas) que a autorizem.
+    A existência de maus antecedentes, por si só, não constitui fundamento bastante para decretação da custódia cautelar, pois doutro modo escusaria a referência textual ao art. 312 do Código de Processo Penal. Ou seja, é mister configurar-se uma das hipóteses normativas autorizadoras da prisão preventiva.
+    Como já afirmei no HC nº 86.140 (DJ 08/06/2007), ao aceitar os maus antecedentes como fundamento para a prisão preventiva, o instituto assumiria natureza de medida necessária e automática em quase todos os processos criminais em que o acusado apresentasse condenação prévia, o que, por óbvio, não atende à necessidade cautelar da prisão processual.
+    3. As decisões do Tribunal local e do Superior Tribunal de Justiça acrescentaram, ainda, novos fundamentos para a manutenção da custódia: a necessidade de manutenção da ordem pública em decorrência da gravidade em concreto do delito e a possibilidade de reiteração delitiva.
+    Para além da inidoneidade de tais argumentos para fundamentar a prisão preventiva, deve-se ressaltar que esta Corte não admite o suprimento de novos fundamentos em habeas corpus quando a falta ou insuficiência de fundamentação constitua causa de nulidade de decisão (HC nº 44.299, Rel. Min. EVANDRO LINS, DJ 23.03.68; RHC n° 56.900 e RHC n° 57.766, Rel. Min. RAFAEL MAYER, RTJ 89/451 e 93/582; RHC n° 65.736, Rel. Min. FRANCISCO REZEK, RTJ 125/592; HC nº 75.731, HC nº 83.828, RHC n° 84.293 e HC n° 85.238, Rel. Min. SEPÚLVEDA PERTENCE, DJ 17/04/1998, DJ 20/02/2004, DJ 13/08/2004 e DJ 30/09/2005; HC n° 84.448, Rel. p/ ac. Min. EROS GRAU; DJ 19/08/2005; HC nº 89.501, Rel. Min. CELSO DE MELLO; DJ 16/03/2007).
+    Sobre o tema, ponderou o Ministro SEPÚLVEDA PERTENCE:
+    “(...) no julgamento do habeas-corpus que impugna a fundamentação de decisões do primeiro grau constritivas da liberdade do paciente, não cabe às sucessivas instâncias, para denegar a ordem, suprir a sua deficiência originária, mediante achegas de novos motivos por elas não aventados.
+    A motivação é requisito essencial da decretação da prisão preventiva: por isso, quando impugna a existência ou idoneidade dela, é apenas a questão processual de sua validade que a impetração submete aos tribunais, aos quais não se devolve a questão de mérito de ser ou não justa, no caso, por outros motivos, a cautelar questionada” (HC 81.148, RTJ 179/1135-1136).
+    Assim, a evidente nulidade do decreto prisional expedido contra o paciente demonstra a necessidade da concessão da liminar pleiteada.
+    4. Do exposto, defiro o pedido de liminar, determinando a expedição de contramandado de prisão em favor do paciente, se por al não estiver preso.
+    Comunique-se, com urgência, via ofício e fac-símile, o teor da presente decisão ao Superior Tribunal de Justiça, ao Tribunal de Justiça do Estado de São Paulo e ao juízo da 4ª Vara Criminal da comarca de Guaratinguetá/SP, a quem solicito, ainda, preste informações sobre o alegado na inicial, cuja cópia determino siga anexa ao ofício.
+    Após, dê-se vista ao Procurador-Geral da República.
+    Publique-se. Int..
+    Brasília, 27 de junho de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
