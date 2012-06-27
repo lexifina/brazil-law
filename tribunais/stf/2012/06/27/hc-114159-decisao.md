@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Antônio José Carvalho Silveira em favor de Leandro Araújo Costa contra decisão monocrática da lavra da Ministra Alderita Ramos de Oliveira (Desembargadora convocada do TJPE), do Superior Tribunal de Justiça, que, nos autos do HC 243.545/SP, indeferiu liminarmente a petição inicial.
+    O paciente foi preso em flagrante, em 09.5.2012, pela suposta prática do crime de tráfico ilícito de entorpecentes (art. 33 da Lei 11.343/06), por adquirir e trazer consigo cerca de 237,49 g (duzentos e trinta e sete gramas e quarenta e nove centigramas) da substância entorpecente vulgarmente conhecida como maconha.
+    O magistrado de primeiro grau, além de converter a segregação cautelar em prisão preventiva, indeferiu o pedido de liberdade provisória formulado pela Defesa. Contra tal decisão, impetrou-se habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que indeferiu a tutela emergencial pleiteada. Inconformada, a Defesa impetrou o HC 243.545/SP ao Superior Tribunal de Justiça, que indeferiu liminarmente o writ.
+    Argumenta o impetrante, em suma: a) possibilidade de afastamento do enunciado da Súmula 691/STF; b) falta de fundamentação idônea da decisão que decretou a prisão preventiva; e c) existência circunstâncias favoráveis ao paciente, como ocupação lícita e residência fixa. Requer, em medida liminar e no mérito, a revogação da prisão preventiva ou a concessão de liberdade provisória.
+    Colho da decisão impugnada:
+    “Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Leandro Araújo Costa, contra decisão monocrática em medida liminar proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido urgente formulado no prévio mandamus ali impetrado, preservando-lhe a custódia liminar. (...).
+    Essa impetração não merece prosperar.
+    Consoante consolidado entendimento deste Sodalício, cristalizado no Enunciado Sumular nº 691 do Supremo Tribunal Federal, é inadmissível habeas corpus para impugnar decisão monocrática do relator no remédio constitucional originário que nega a tutela de urgência, sob pena de incorrer em indevida supressão de instância, que enseja, inclusive, o indeferimento liminar do writ.
+    Excetuam-se, contudo, os caso de indeferimento de liminar em decisão manifestamente teratológica, desprovida de qualquer razoabilidade, que , ao discrepar da ordem jurídica, deve ser afastada, o que não se verifica no caso sob exame.
+    (…).
+    In casu, não se vislumbra flagrante ilegalidade na decisão monocrática que, em sede de cognição sumária, negou a pretensão deduzida, por não se verificar, de plano, a alegada coação apta a excepcionar a orientação firmada no referido verbete sumular.
+    Forte em tais razões, com fulcro no artigo 38 da Lei nº 8.038/90 e nos artigos 34, XVIII, e 210, do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente a petição inicial.”
+    É conhecida a Súmula 691 do Supremo Tribunal Federal, de seguinte teor:
+    “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    O escopo da Súmula 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e respectivas competências.
+    A jurisprudência desta Suprema Corte, por outro turno, tem abrandado, em casos excepcionais, o rigor do mandamento sumular, conforme se observa nos seguintes precedentes: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; e HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    Todavia, não vislumbro a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    Inicialmente, porque haveria dupla supressão de instância, já que não há decisão definitiva de mérito do Tribunal de Justiça do Estado de São Paulo nem do Superior Tribunal de Justiça.
+    A conversão do flagrante em prisão preventiva encontra em princípio alguma justificativa, diante das circunstâncias peculiares do fato, considerando que a quantidade e forma de acondicionamento da droga – oitenta e quatro porções de maconha pronta para a venda e um pedaço bruto do entorpecente –, não evidenciam arbitrariedade nas decisões que mantiveram a segregação cautelar do paciente.
+    O magistrado de primeiro grau, não obstante as medidas cautelares diversas da prisão autorizadas pela Lei 12.403/2011, fundamentou a necessidade da prisão preventiva para garantia da ordem pública, conveniência da instrução criminal e aplicação da lei penal.
+    Ressalto que a afirmada circunstância do paciente ter ocupação lícita e residência fixa não constitui óbice à decretação ou manutenção da prisão preventiva, desde que preenchidos os pressupostos e requisitos do art. 312 do CPP (HC 108.314/MA, rel. Min. Luiz Fux, 1ª Turma, DJe 5.10.2011; HC 106.816/PE, rel. Min. Ellen Gracie, 2ª Turma, DJe 20.6.2011).
+    Diante do que consta dos autos, não vislumbro manifesta ilegalidade a autorizar a supressão de duas instâncias.
+    Ante o exposto e com base no art. 21, § 1º, do Regimento Interno e na Súmula nº 691/STF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 27 de junho de 2012.
+Ministra Rosa Weber
+Relatora
