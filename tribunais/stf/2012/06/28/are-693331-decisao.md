@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “SERVIDOR PÚBLICO. ASSISTENTE SOCIAL. ADICIONAL DE INSALUBRIDADE, PERICULOSIDADE OU PENOSIDADE. SENTENÇA. ARTIGOS 128, 460 E 93, IX, DA CONSTITUIÇÃO FEDERAL. ERRO MATERIAL. CORREÇÃO DE OFÍCIO. ART. 463, I, DO CPC. LAUDO PERICIAL CONCLUSIVO. Diante do teor do art. 463, I, do CPC, pode o Tribunal, de ofício ou por provocação, corrigir inexatidão material da sentença, sem que implique ofensa aos artigos 128 e 460 do CPC. O fato de a sentença ter mencionado comissário de menores e não assistente social constitui mero erro material, perfeitamente sanável, mormente pelo fato da prova pericial produzida nos autos respaldar a conclusão chegada pela decisão recorrida, afastando, assim, a tese em torno do art. 93, IX, da Constituição Federal. Considerando que a prova pericial produzida nos autos concluiu que as atividades desenvolvidas pelos servidores lotados no cargo de Assistente Social não se subsumem às hipóteses autorizadoras do pagamento dos adicionais de insalubridade, periculosidade e penosidade, incabível é sua concessão. Recurso conhecido e não provido”.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Estadual 10.856/1992 e Resolução 320/1996). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Outrossim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte.
+    Por fim, a Corte de origem valeu-se de fundamentos fáticos suficientes para solucionar a questão posta nos autos. Dessa forma, ante a impossibilidade de modificação desses fundamentos em sede extraordinária, estes tornaram-se definitivos, circunstância que faz incidir, na espécie, a Súmula 283 deste Tribunal.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
