@@ -1,0 +1,10 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. NOVEL REDAÇÃO DADA PELA LEI Nº 12.322/2010 AO ART. 544 DO CPC. REPERCUSSÃO GERAL RECONHECIDA. DEVER DO ESTADO DE FORNECER MEDICAMENTO DE ALTO CUSTO A PORTADOR DE DOENÇA GRAVE QUE NÃO POSSUI CONDIÇÕES FINANCEIRAS PARA COMPRÁ-LO. TEMA Nº 6 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.
+    Decisão: Cuida-se de recurso extraordinário com agravo interposto por Mário Sérgio Custodio do Prado Vasconcelos Melo, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte no RE 566.471 RG/RN, Relator o e. Min. Marco Aurélio, Dje- 07.12.2007, e que corresponde ao Tema nº 6 da Gestão por Temas da Repercussão Geral.
+    Trata-se do tema em que se discute, à luz dos artigos 2º; 5º; 6º; 196; e 198, §§ 1º e 2º, da Constituição Federal, a obrigatoriedade, ou não, de o Estado fornecer medicamento de alto custo a portador de doença grave que não possui condições financeiras para comprá-lo. O referido decisum está assim ementado:
+    SAÚDE - ASSISTÊNCIA - MEDICAMENTO DE ALTO CUSTO - FORNECIMENTO. Possui repercussão geral controvérsia sobre a obrigatoriedade de o Poder Público fornecer medicamento de alto custo. (RE 566471 RG, Relator(a): Min. MARCO AURÉLIO, julgado em 15/11/2007, DJe-157 DIVULG 06-12-2007 PUBLIC 07-12-2007 DJ 07-12-2007 PP-00016 EMENT VOL-02302-08 PP-01685 )
+    Ex positis, ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 28 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
