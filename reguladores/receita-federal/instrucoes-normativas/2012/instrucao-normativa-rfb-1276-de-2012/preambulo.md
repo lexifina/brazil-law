@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1276, de 27 de junho de 2012
+Altera a Instrução Normativa SRF nº 421, de 10 de maio de 2004, que dispõe sobre os Depósitos Judiciais e Extrajudiciais referentes a tributos e contribuições federais administrados pela Secretaria da Receita Federal, seus levantamentos e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no Decreto nº 2.850, de 27 de novembro de 1998, resolve:
