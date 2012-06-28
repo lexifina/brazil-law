@@ -1,0 +1,26 @@
+ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. PENSIONISTA DE SERVIDOR DO EXTINTO DNER. EQUIPARAÇÃO SALARIAL. VENCIMENTO DE SERVIDOR ATIVO DO DNIT OU DE SERVIDOR ATIVO DO MINISTÉRIO DOS TRANSPORTES. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+2. Consectariamente, quando a ofensa for reflexa ou mesmo quando a violação for constitucional, mas necessária a análise de fatos e provas, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. Entendimento diverso do adotado pelo acórdão recorrido sobre o parâmetro a ser observado na fixação dos proventos da recorrida – se o vencimento do servidor ativo do DNIT ou o vencimento do servidor ativo do Ministério dos Transportes –, implicaria, necessariamente, o reexame da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Precedente: RE 611.047-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 18.3.2011.
+4. Ainda nesse sentido, as seguintes decisões monocráticas: RE 680.863, Relatora a Ministra Cármen Lúcia, DJ de 15.5.12; RE 611.047, Relatora a Ministra Cármen Lúcia, Dj de 07.12.10; RE 496.111, Relator o Ministro Dias Toffoli, DJ de 22.02.11, entre outras.
+5. In casu, o acórdão recorrido assentou:
+“PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO DO EXTINTO DNER. VINCULAÇÃO AO MINISTÉRIO DOS TRANSPORTES. DNIT - SUCESSOR DO DNER. PLANO DE CARGOS E SALÁRIOS DO DNIT. APLICAÇÃO. MATÉRIA DECIDIDA PELA 1ª SEÇÃO, NO RESP 1.244.632/CE, MIN. CASTRO MEIRA, JULGADO SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS. INVOCAÇÃO DE OFENSA A NORMAS CONSTITUCIONAIS. INVIABILIDADE.
+AGRAVO REGIMENTAL DESPROVIDO.”
+6. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto pela UNIÃO, com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal de 1988, contra acórdão proferido pelo Superior Tribunal de Justiça assim ementado:
+    “PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO INATIVO DO EXTINTO DNER. VINCULAÇÃO AO MINISTÉRIO DOS TRANSPORTES. DNIT - SUCESSOR DO DNER. PLANO DE CARGOS E SALÁRIOS DO DNIT. APLICAÇÃO. MATÉRIA DECIDIDA PELA 1ª SEÇÃO, NO RESP 1.244.632/CE, MIN. CASTRO MEIRA, JULGADO SOB O REGIME DO ART. 543-C DO CPC. ESPECIAL EFICÁCIA VINCULATIVA DESSE PRECEDENTE (CPC, ART. 543-C, § 7º), QUE IMPÕE SUA ADOÇÃO EM CASOS ANÁLOGOS. INVOCAÇÃO DE OFENSA A NORMAS CONSTITUCIONAIS. INVIABILIDADE.
+    AGRAVO REGIMENTAL DESPROVIDO.”
+    Foram opostos embargos de declaração, rejeitados.
+    Nas razões do apelo extremo, a recorrente alega violação dos artigos 2º, 37, caput e inciso X, 40, §§ 4º e 8º, 61, § 1º, II, a, 167, II, e 169, § 1º, da Constituição Federal, sustentando, em síntese, que “a Lei 11.171/05 é específica para os integrantes da nova carreira do DNIT, não havendo como estender as vantagens aos inativos e pensionistas do extinto DNER que se encontram vinculados ao Ministério dos Transportes”.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, quando a ofensa for reflexa ou mesmo quando a violação for constitucional, mas necessária a análise de fatos e provas, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    In casu, entendimento diverso do adotado pelo Tribunal a quo quanto ao parâmetro a ser observado na fixação dos proventos da recorrida – se o vencimento do servidor ativo do DNIT ou o vencimento do servidor ativo do Ministério dos Transportes –, demandaria o reexame da legislação infraconstitucional que disciplina a espécie. Eventual ofensa à Constituição dar-se-ia de forma indireta, circunstância que impede a admissão do extraordinário. Nesse sentido, entre outros, cito julgados análogos ao presente, verbis:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PENSIONISTA DE EX-SERVIDOR PÚBLICO. EQUIPARAÇÃO DA PENSÃO AOS VENCIMENTOS DA ATIVIDADE. JULGADO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ENQUADRAMENTO EM
+    TABELA REMUNERATÓRIA DA CARREIRA. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE 611.047-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 18.3.2011).
+    Ainda nesse sentido, as seguintes decisões monocráticas: RE 680.863, Relatora a Ministra Cármen Lúcia, DJ de 15.5.12; RE 611.047, Relatora a Ministra Cármen Lúcia, Dj de 07.12.10; RE 496.111, Relator o Ministro Dias Toffoli, DJ de 22.02.11, entre outras.
+    Ex positis, nego seguimento ao recurso extraordinário com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 28 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
