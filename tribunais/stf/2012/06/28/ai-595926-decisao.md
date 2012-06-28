@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça de São Paulo e assim ementado:
+    “SEGURO DE VIDA E ACIDENTES PESSOAIS. AÇÃO DE COBRANÇA. Agravos retidos rejeitados. Substituição do seguro por plano de pecúlio, por imposição da empregadora estipulante, que não comunica tal fato aos empregados, obrigando-os a aderirem ao novo plano que impôs. Solidariedade existente entre as rés. Autos com incapacidade parcial e permanente de cinquenta por cento. Dá-se provimento parcial ao recurso do autor afastada a preliminar de falta de preparo.” (fl. 261)
+    Opostos embargos de declaração, foram rejeitados os primeiros (fls. 301-305) e acolhidos os segundos (fls. 313-314)
+    Sustenta a recorrente, com base no art. 102, III, a, violação ao art. 202, da Constituição Federal.
+    Desnecessária a apresentação de preliminar formal e fundamentada de repercussão geral, posto que o acórdão recorrido foi publicado em 25.11.1999, antes, portanto, da data da publicação da Emenda Regimental nº 21/07, que regulamentou e deu aplicabilidade às normas da Lei nº 11.418/06.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O tema constitucional suscitado não foi objeto de consideração no acórdão impugnado, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+    Ademais, a causa foi decidida com base na interpretação de norma infraconstitucional e de cláusulas do regulamento da entidade de previdência privada.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas ou cláusulas contratuais (súmulas 279, 280 e 454).
+    Nesse sentido, já decidiu a Corte:
+    “Agravo regimental em agravo de instrumento. 2. Migração para um novo plano de previdência privada. Interpretação de cláusulas contratuais. Matéria infraconstitucional. Enunciados das súmulas 279, 454 e 636. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 753.488 AgR/RS, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 07.06.2011)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. 1. MIGRAÇÃO PARA UM NOVO PLANO DE PREVIDÊNCIA PRIVADA. SÚMULAS 279 E 454 DO STF. 2. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. INSUBSISTÊNCIA. 1. Para se chegar a conclusão diversa da adotada pela Corte de origem, fazem-se necessários o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais. Incidência das Súmulas 279 e 454 do Supremo Tribunal Federal. Precedentes. 2. A alegação de ofensa às garantias constitucionais do processo é questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Pelo que ofensa à Carta Magna, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. Agravo regimental desprovido.” (RE 590.614 AgR/RS, Rel. Min. AYRES BRITTO, Primeira Turma, DJe de 25.09.2009)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 28 de junho de 2012.
+Ministro CEZAR PELUSO
+Relator
