@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de admissibilidade de recurso extraordinário que impugna acórdão do Superior Tribunal de Justiça assim ementado:
+    “ADMINISTRATIVO. SERVIDOR ESTADUAL. POLICIAL MILITAR. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS POR ATO DE BRAVURA REVOGADA PELO DECRETO ESTADUAL Nº 26.249, DE 02/05/2000. ATO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO CONFIGURADA. VIOLAÇÃO DO ART. 1º DO DECRETO 20.910/32 QUE SE RECONHECE. INFRINGÊNCIA DO ART. 535, II, CPC, REPELIDA.
+    1. Revela-se improcedente a arguição de ofensa ao art. 535, II, do CPC, eis que o acórdão recorrido enfrentou a questão relativa à prescrição, sendo despiciendo mencionar expressamente o art. 1º do Decreto 20.910/32 em sua fundamentação, posto a matéria nele versada ter recebido pronunciamento expresso, sendo inegável a configuração do denominado prequestionamento implícito, amplamente admitido por este Superior Tribunal de Justiça.
+    2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que lei que suprime vantagem ou gratificação possui efeitos concretos, sendo a suspensão do pagamento da rubrica nos meses subsequentes mero reflexo do ato originário, situação que não caracteriza relação de trato sucessivo.
+    3. Esta Corte já enfrentou casos similares ao presente, manifestando-se na linha de que a pretensão deduzida em juízo sobre o ato que determinou a supressão da verba da Gratificação de Encargos Especiais por ato de bravura, excluída pela edição do Decreto do Estado do Rio de Janeiro nº 26.249, de 02/05/2000, trata de hipótese de prescrição do fundo de direito, porquanto a pretensão é de alteração da própria situação funcional. Precedentes.
+    4. No caso em apreço, tendo a Gratificação de Encargos Especiais sido extinta pelo Decreto Estadual n.º 26.249, de 02/05/2000, deve ser reconhecida a prescrição do fundo de direito, nos termos do art. 1.º do Decreto n.º 20.910/32, já que decorridos mais de 5 (cinco) anos da data da edição daquele diploma legal, que suprimiu a vantagem pleiteada, e a data do ajuizamento da ação, ocorrida em 01/08/2006.
+    5. Recurso especial provido”. (grifo no original)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 5º, XXV, XXXVI e LV; 7º, VI, do texto constitucional.
+    No agravo defende-se, em síntese, que o Decreto 26.249/2000 do Estado do Rio de Janeiro não é um ato de efeito concreto. Ademais, aduz que a gratificação de encargos especiais por mérito e ato de bravura é uma obrigação de trato sucessivo, sendo que a prescrição somente atinge as prestações vencidas antes do quinquênio anterior à propositura da ação. Além disso, sustenta a aplicação dos Enunciados 85 da Súmula do STJ e 443 da Súmula do STF.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque é pacífica a jurisprudência desta Corte no sentido de que a discussão acerca do início do prazo para fins de prescrição não ofende diretamente a Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confiram-se os precedentes das duas Turmas desta Corte: AI-AgR 764.126, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011; RE-AgR 586.977, Rel. Min. Eros Grau, Segunda Turma, DJe 27.3.2009, assim ementadas:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta. II – Agravo regimental improvido”.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. TERMO INICIAL. MATÉRIA AFETA À NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO E REEXAME DE PROVAS. IMPOSSIBILIDADE DE CONHECIMENTO DO EXTRAORDINÁRIO. Para que o recurso extraordinário possa ser conhecido, a vulneração da norma constitucional há de ser direta e frontal e não a que exige o prévio exame da legislação ordinária e reexame de provas. Agravo regimental a que se nega provimento”.
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 28 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
