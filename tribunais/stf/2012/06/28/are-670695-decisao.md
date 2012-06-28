@@ -1,0 +1,23 @@
+Decisão: Trata-se agravo interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. MUNICÍPIO DE PORTO ALEGRE. INTEGRAÇÃO DAS GRATIFICAÇÕES PERCEBIDAS NA BASE DE CÁLCULO DAS HORAS EXTRAS. MATÉRIA EMINENTEMENTE DE DIREITO. INADEQUAÇÃO DA VIA PROCESSUAL ELEITA. AGASTAMENTO. JULGAMENTO DE MÉRITO. ART. 515, § 3º, DO CPC. PRETENSÃO DO IMPETRANTE QUE ENCONTRA EXPRESSA VEDAÇÃO LEGAL. LM N. 6.309/88 E LM N. 7.690/85. PRECEDENTES DESTA CORTE. PREQUESTIONAMENTO.
+    1. Tendo em vista que a pretensão do impetrante de ter considerada sua remuneração total na composição da base de cálculo para pagam3ento das horas extras não reclama dilação probatória, estando diretamente atrelada ao exame das disposições legais atinentes à matéria (no caso, LM n. 6.309/88 e LM n. 7.690/85), não há falar em inadequação da via processual eleita.
+    2. Tratando-se de matéria exclusivamente de direito e encontrando-se a causa em condições de julgamento imediato, possível o exame do mérito com base no art. 515, § 3º, CPC.
+    3. É descabida a pretensão de integração das gratificações percebidas pelo impetrante na base de cálculo das horas extras, em virtude de expressa vedação na legislação municipal ( Lei n. 6.309/88, arts. 61 e 71; e Lei n. 7.690/85, arts. 1º e 6º). Assim, a gratificação por serviço extraordinário, nos termos do art. 56 da Lei n. 6.309/88, corresponderá ao valor da hora normal (vencimento básico, e não o total da remuneração), acrescido do percentual de 50%. Observância do Princípio da Legalidade.
+    4. O magistrado não está obrigado a se manifestar sobre todos os dispositivos legais invocados pelas partes, necessitando, apenas, indicar o suporte jurídico no qual embasa seu juízo de valor, entendendo ter dado à matéria a correta interpretação jurídica.
+    APELAÇÃO PARCIALMENTE PROVIDA. SENTENÇA DESCONSTITUÍDA. SEGURANÇA DENEGADA”. (fl. 109)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos arts. 7º, XVI; 37, XIV; e 39, § 3º, do texto constitucional.
+    O recorrente alega que o adicional de hora extra deve incidir sobre a remuneração total do servidor público e não apenas sobre o vencimento básico, motivo pelo qual sustenta a inconstitucionalidade dos arts. 61 e 71 da Lei Municipal n. 6.309/88 e dos arts. 1º e 6º da Lei Municipal n. 7.690/85.
+    Decido.
+    Não assiste razão ao recorrente.
+    Com efeito, para concluir de forma diversa do consignado pelo Tribunal de origem – no que se refere à fixação da base de cálculo das horas extras –, seria imprescindível a prévia interpretação da legislação local aplicável à espécie (Leis Municipais 6.309/88 e 7.690/85), providência vedada no âmbito do recurso extraordinário, conforme disposto na Súmula 280 do STF.
+    No caso, a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa.
+    Nesse sentido, confiram-se, entre inúmeros outros, os seguintes precedentes:
+    “Agravo regimental no recurso extraordinário. Servidor público. Jornada de trabalho. Horas extras. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido”. (RE-AgR 633.663, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 22.6.2012)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL CIVIL DO ESTADO DE SERGIPE. JORNADA DE TRABALHO. PAGAMENTO DE HORAS EXTRAORDINÁRIAS E ADICIONAL NOTURNO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE”. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto. Precedentes do Supremo Tribunal Federal. 2. Agravo regimental desprovido”. (RE-AgR 597351, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 22.9.2011)
+    Ademais, no que se refere à alegação de inconstitucionalidade dos arts. 61 e 71 da Lei Municipal n. 6.309/88 e dos arts. 1º e 6º da Lei Municipal n. 7.690/85, não assiste razão ao recorrente, uma que ele não logrou demonstrar de que forma os referidos dispositivos legais teriam contrariado a Constituição Federal, haja vista não ter comprovado que o adicional de hora extra era pago em porcentagem inferior à disposta no texto constitucional, além do mais, sequer citou o teor dos dispositivos impugnados.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de junho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
