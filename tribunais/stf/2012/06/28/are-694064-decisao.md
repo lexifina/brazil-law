@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “TRIBUTÁRIO - AÇÃO ANULATÓRIA DE DÉBITO - CONTRIBUIÇÕES SOCIAIS DE PRESTADORAS DE SERVIÇO - FALTA DE PROVA DO RECOLHIMENTO: INEXISTÊNCIA DE CERCEAMENTO DE DEFESA.
+    1. O apelante alega cerceamento de defesa, pois o magistrado decidiu o processo sem determinar a juntada dos documentos requeridos, quais sejam, documentos anexados no processo administrativo. Ocorre, todavia, que a prova de quitação do débito relativo às NFLDs nº 32.458.794-4, nº 32.548.795-2, nº 32.548.797-9, nº 32.548.798-7, nº 32.548.801-0 e nº 32.548.799-5 não ocorreu. O autor, em atendimento ao despacho que oportunizou as partes especificarem provas a serem produzidas, asseverou que, por cuidar a lide de matéria exclusivamente de direito, não tem mais provas a produzir, senão os documentos já anexados aos autos (f. 82). Como visto o autor não cuidou de provar os fatos constitutivos do seu direito por opção própria e manifestação expressa, nada tendo a ver com eventual cerceamento de defesa.
+    2. Apelação não provida.
+    3. Peças liberadas pelo Relator, em 22/02/2010, para publicação do acórdão” (fl. 112).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LIV e LV, e 93, IX, da mesma Carta, sob o argumento de que não foi conferida à recorrente oportunidade para a produção de provas que evidenciavam a procedência do seu pleito.
+    A pretensão recursal não merece acolhida.
+    O Pleno desta Corte, quando do julgamento do ARE 639.228-RG/RJ, Rel. Min. Cezar Peluso, decidiu pela ausência de repercussão geral da discussão sobre o tema versado nos autos – violação aos princípios da ampla defesa e do contraditório nos casos de indeferimento de produção de provas –, por se tratar de matéria restrita ao âmbito processual. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Ademais, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
