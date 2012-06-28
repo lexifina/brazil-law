@@ -1,0 +1,10 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. NOVEL REDAÇÃO DADA PELA LEI Nº 12.322/2010 AO ART. 544 DO CPC. REPERCUSSÃO GERAL RECONHECIDA. ADICIONAIS POR TEMPO DE SERVIÇO E DA SEXTA-PARTE. RECÁLCULO. TEMA Nº 24 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.
+    Decisão: Cuida-se de recurso extraordinário com agravo interposto pelo ESTADO DE SÃO PAULO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte no 563.708 RG/MS, Relatora a e. Min. Cármen Lúcia, Dje- 22.02.2008, e que corresponde ao Tema nº 24 da Gestão por Temas da Repercussão Geral.
+    Trata-se do tema em que se discute, à luz dos artigos 5º, XXXVI; e 37, XIV, da Constituição Federal, e 17 do Ato das Disposições Constitucionais Transitórias ADCT, se servidor público, admitido antes da promulgação da Emenda Constitucional nº 19/98, a qual suprimiu a expressão sob o mesmo título ou idêntico fundamento do art. 37, XIV, da Constituição Federal, tem, ou não, direito adquirido ao adicional por tempo de serviço calculado de acordo com a redação original do referido dispositivo constitucional. O referido decisum está assim ementado:
+    EMENTA: Reconhecida a repercussão geral da questão constitucional pertinente à interpretação do art. 37, inc. XIV, da Constituição da República, após a alteração feita pela Emenda Constitucional 19/1998. (RE 563708 RG, Relator (a): Min. CÁRMEN LÚCIA, julgado em 08/02/2008, DJe-031 DIVULG 21-02-2008 PUBLIC 22-02-2008 EMENT VOL-02308-08 PP-01719 )
+    Ex positis, ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 28 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
