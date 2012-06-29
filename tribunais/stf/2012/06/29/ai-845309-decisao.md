@@ -1,0 +1,16 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul e assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. NULIDADE DA SENTENÇA. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. FUNDAMENTAÇÃO CONCISA. PRELIMINARES REJEITADAS. ICMS. HIPÓTESE DE INCIDÊNCIA. REVENDA DE MÁQUINAS E EQUIPAMENTOS ORIUNDOS DE OUTRO ESTADO DA FEDERAÇÃO. INCIDÊNCIA. REPRESENTAÇÃO COMERCIAL. PROVA INSUFICIENTE QUANTO À REMESSA PARA DEMONSTRAÇÃO. DESQUALIFICAÇÃO DA FORMA JURÍDICA. OPERAÇÃO INTERNA. ALÍQUOTA DIFERNCIADA. CLASSIFICAÇÃO DAS MERCADORIAS CONFORME NOMENCLATURA COMUM DO MERCOSUL – NCM. INEXISTÊNCIA DE IRREGULARIDADE NO LANÇAMENTO, EXCETO QUANTO A UMA DAS MÁQUINAS. INFRAÇÃO TRIBUTÁRIA MATERIAL QUALIFICADA. MULTA FIXADA EM CONSONÂNCIA COM A LEGISLAÇÃO APLICÁVEL”. (fl. 46)
+    Opostos embargos de declaração, foram rejeitados (fls. 183-186)
+    Sustenta a recorrente, com fundamento no art. 102, III, a, violação aos arts. 1º, caput, 5º, II e XXII, 145, § 1º, 150, I e IV e 155, II, da Constituição Federal.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC. Argúi, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa e que haveria, além de relevância jurídica, repercussão econômica.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    Com efeito, o tema constitucional suscitado não foi objeto de consideração no acórdão recorrido, faltando-lhe, assim, o requisito do prequestionamento, que deve ser explícito (súmula 282).
+    Ademais, o acórdão impugnado decidiu a causa com base na legislação infraconstitucional atinente e no conjunto fático-probatório, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (súmula 279).
+    Já assentou a Segunda Turma desta Corte, em caso análogo, que:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, a tardia alegação de ofensa ao texto constitucional, apenas deduzida em embargos de declaração, não supre o prequestionamento. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III – Agravo regimental improvido.” (RE nº 612.569-AgR/PB, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 20.04.2012).
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 29 de junho de 2012.
+Ministro CEZAR PELUSO
+Relator
