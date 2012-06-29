@@ -1,0 +1,24 @@
+RECURSO EXTRAORIDNÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. ITBI- IMPOSTO SOBRE A TRANSMISSÃO DE BENS MÓVEIS. PARTILHA DE BENS EM SEPARAÇÃO JUDICIAL. REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL. ARTIGO 543-A § 2º, DO CÓDIGO DE PROCESSO CIVIL C.C. ART. 327, § 1º, DO RISTF.
+1. A repercussão geral é requisito de admissibilidade do apelo extremo, razão pela qual o recurso extraordinário é inadmissível quando não apresentar preliminar formal de transcendência geral ou quando esta não for suficientemente fundamentada. (Questão de Ordem no AI n. 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6.9.07).
+2. In casu o acórdão recorrido assentou: “Apelação. Repetição de Indébito. Partilha de bens. Separação judicial. Imposto recolhido indevidamente aos cofres do Município, quando, por determinação judicial deveria ter sido recolhido ao Estado. Repetição procedente. Recurso voluntário não provido. Reexame necessário. Sentença Mantida.”
+3. NEGO SEGUIMENTO ao agravo.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão de fls. 108/109, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, ementado nos seguintes termos (fl. 85), verbis:
+    “Apelação. Repetição de Indébito. Partilha de bens. Separação judicial. Imposto recolhido indevidamente aos cofres do Município, quando, por determinação judicial deveria ter sido recolhido ao Estado. Repetição procedente. Recurso voluntário não provido. Reexame necessário. Sentença Mantida.”
+    Não foram opostos embargos de declaração.
+    Nas razões de apelo extremo, no mérito, aponta violação aos arts. 155, I, e 156, II, da Constituição Federal, alegando em síntese que, no caso o que ocorreu fora onerosidade da transmissão e não doação conforme alegado no acórdão recorrido.
+    O Tribunal a quo negou seguimento ao apelo extremo, por entender que os argumentos expendidos não são suficientes para infirmar a conclusão do v. acórdão recorrido.
+    É o Relatório. DECIDO.
+    O agravo não merece seguimento.
+    O agravante não fundamentou adequadamente a preliminar de repercussão geral, como exige a legislação de regência.
+    Relativamente ao tema, esta Suprema Corte decidiu que a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas incidirá quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007. (Questão de Ordem no AI n. 664.567, Relator o Ministro Sepúlveda Pertence, DJ de 6.9.07).
+    No caso sub examine, a intimação do acórdão recorrido deu-se em data posterior à fixada naquele julgamento, o que reclama a exigência de tal preliminar.
+    Para atendimento do novo requisito de admissibilidade não basta a simples afirmação de que o tema tenha repercussão geral, faz-se necessária a fundamentação adequada que supra as exigências do disposto no artigo 543-A, § 2º, do Código de Processo Civil, introduzido pela Lei n. 11.418/06 e art. 327, § 1º, do RISTF.
+    Ademais a jurisprudência do Supremo tem-se alinhado no sentido de ser necessário que o recorrente demonstre a existência de repercussão geral nos termos previstos em lei, conforme assentado no julgamento do AI n. 797.515 AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe de 28.02.11:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À PRELIMINAR DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto.”
+    In casu o agravante não se desonerou de demonstrar existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa, deixando inócua a preliminar apresentada.
+    Ex positis, nego seguimento ao agravo de instrumento, com fundamento no disposto no artigo 21, § 1º, do Regimento Interno desta Corte.
+    Publique-se. Int..
+    Brasília, 29 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
