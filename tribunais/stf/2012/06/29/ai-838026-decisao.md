@@ -1,0 +1,18 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PROVISÓRIA. MOVIMENTAÇÃO FINANCEIRA. CPMF. INCORPORAÇÃO DE EMPRESAS. FATO GERADOR. 1.Consoante o artigo 1º da Lei nº 9311/96, para a ocorrência do fato gerador da CPMF, é necessária e suficiente a movimentação de valores nas contas mantidas em instituições financeiras, representando circulação escritural ou física de moeda, que resulte ou não na transferência da titularidade dos valores, créditos e direitos. 2. Nos restritos termos do artigo 2º, inciso I, IV e VI, do mesmo diploma legal, incide a espécie contributiva no caso de incorporação de empresas, porquanto a operação societária importa na extinção das empresas incorporadas - artigo 227, § 3º, da Lei nº 6404/76, com o fornecimento das empresas incorporadas, gerando, indefectivelmente, a necessidade de alterações escriturais em contas correntes, aplicações, contratos e convênios existentes com as instituições financeiras vinculadas a pessoas jurídicas, nominadas no expediente encontrado na relação processual, importando no redirecionamento dos créditos depositados/aplicados em nome das empresas incorporadas à conta da empresa incorporadora, não olvidando todas aplicações em fundos de investimento são efetuadas e sacadas/transferidas através de conta corrente/investimento. 3. Apelação improvida” (fl. 24).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 74 do ADCT.
+    O agravo não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 6.404/1976 e 9.311/1996), bem como no conjunto fático-probatório constante dos autos, conforme se observa do seguinte trecho:
+    “Esta é a inteligência do art. 227, §3°, da Lei n° 6.404/76:
+    ‘Art. 227. A incorporação é a operação pela qual uma ou mais sociedades são absorvidas por outra, que lhes sucede em todos os direitos e obrigações.
+    (...)
+    § 3º Aprovados pela assembléia-geral da incorporadora o laudo de avaliação e a incorporação, extingue-se a incorporada, competindo à primeira promover o arquivamento e a publicação dos atos da incorporação.’
+    Ou seja - o ponto saliente da ‘quaestio juris’ é a efeito extintivo das empresas incorporadas, o funcionamento delas, ‘ex lege’.
+    Transportando o plano doutrinário ao prático vislumbro às fls. 27/28, expediente de incorporadora, Tim Sul S/A, direcionado ao Banco do Brasil S.A., solicitando a alteração da razão social das incorporadoras para Tim Sul Ltda. e a migração dos saldos das contas correntes, investimentos e etc, das empresas incorporadas para a incorporadora - agência 3306-5, c/c 2540-2, sendo certo toda a aplicação em fundos de investimentos financeiros é concretizado via conta corrente/investimento
+    Desse modo, transferência de recursos da conta bancária da TELESC Celular S.A. e CTMR Celular S.A. para a conta bancária da TIM SUL S/A configura fato gerador da CPMF, pois se subsume na hipótese dos arts. 1º e 2º, incisos I, IV e VI, da Lei nº 9311/96.. inciso I do art. 2.º acima transcrito e não é excepcionado por nenhuma das regras de isenção” (fls. 17-21).
+    Assim, eventual afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 279 do STF. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de junho de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
