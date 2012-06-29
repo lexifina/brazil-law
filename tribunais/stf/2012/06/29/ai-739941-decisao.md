@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Paes Mendonça S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “MULTA. EMBARGOS À EXECUÇÃO FISCAL. INMETRO. LEI N. 6830/80. APLICABILIDADE. AUTO DE INFRAÇÃO. ILEGALIDADE AFASTADA. ERRO MÁXIMO TOLERADO NA EMBALAGEM. SENTENÇA MANTIDA.
+    1. A Lei 6.830/80 incide na hipótese, vez que o legislador, ao editá-la, consignou que qualquer valor cuja cobrança seja atribuída por lei, por exemplo, às Autarquias Federais, será considerado dívida ativa da Fazenda Pública (artigo 2°, §1°), de modo que, em que pese não ter a multa em discussão natureza tributária ou definição inserta na Lei n. 4.320/64, proveniente do poder de polícia ínsito ao Instituto embargado, é considerada dívida ativa, e sua cobrança sujeita-se aos ditames da Lei citada.
+    2. A Lei n. 5.966 foi publicada no D.O.U. em 12/12/l.973, e vinha prevendo, desde então, a criação do CONMETRO, artigo 2°, com competência definida no artigo 3°, bem como do INMETRO, em seu artigo 4º, conferindo aos respectivos entes competência para expedir as Portarias necessárias a assegurar, verbi gratia, a uniformidade e a racionalização das unidades de medida utilizadas no País, e a aplicação de penalidades em caso de descumprimento de suas regras, cujas penalidades, contudo, só poderiam estar previstas em lei (Lei n. 5.966/73, artigo 9°).
+    3. Autuação mantida porque, dos 30 panetones analisados, 27 apresentaram erro para menos no valor da embalagem, número considerável por amostragem, que mais indica imperícia no acondicionamento do produto, em prejuízo manifesto ao consumidor, do que ação eventual do tempo sobre as mercadorias postas a venda. Se a embargante tinha ciência dessa ‘perda natural", sua tese defensiva, em sendo, portanto, objetivamente previsível, sua obrigação era inserir na embalagem a ressalva de quantidade minima’, vez que a legislação só tolerava, à época dos fatos, erro máximo de 1%, para mais ou para menos.
+    4. Apelação improvida” (fl. 144).
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 17/7/06, conforme expresso na certidão de fl. 205, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido decidiu a controvérsia amparado exclusivamente nas provas dos autos e na legislação infraconstitucional pertinente, cujo reexame é vedado em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. Nesse sentido, destaco os seguintes precedentes:
+    “Administrativo. Instituto Nacional de Metrologia, Normalização e Qualidade Industrial – INMETRO. Aplicação de multa. Alegação de violação do princípio da legalidade. Matéria infraconstitucional. Reexame incabível no âmbito do recurso extraordinário. Incidência da Súmula nº 636 desta Corte. Agravo regimental a que se nega provimento” (AI nº 842.351/BA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJ de 8/3/12).
+    “Agravo regimental no recurso extraordinário. INMETRO. Multa. Prequestionamento. Ausência. Código de Defesa do Consumidor. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional. 3. Agravo regimental não provido” (RE nº 598.991/RS-AgR, Primeira Turma, de minha relatoria, DJ de 7/6/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 29 de junho de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
