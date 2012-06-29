@@ -1,0 +1,10 @@
+AGRAVO DE INSTRUMENTO. ART. 544 DO CPC. REPERCUSSÃO GERAL RECONHECIDA. CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS. LEI Nº 7.799/89. TEMA Nº 311 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.
+    Decisão: Cuida-se de agravo de instrumento interposto pelo BANCO PATENTE S.A., com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte no 242.689 RG / PR, Relator o e. Min. Gilmar Mendes, Dje- 23.02.2011, e que corresponde ao Tema nº 311 da Gestão por Temas da Repercussão Geral.
+    Trata-se do tema em que se discute, à luz dos artigos 5º, II e XXXVI; 150, IV e 148, da Constituição Federal, a constitucionalidade, ou não, da utilização do Índice de Preços ao Consumidor - IPC como indexador de correção monetária das demonstrações financeiras das pessoas jurídicas no ano-base de 1990, em vez do Bônus do Tesouro Nacional Fiscal - BTNF, previsto no art. 1º da Lei nº 8.088/90. O referido decisum está assim ementado:
+    Recurso Extraordinário. Tributário. Correção Monetária. Demostrações Financeiras. Pessoas Jurídicas. Índice a ser utilizado. IPC ou BTN Fiscal. Lei 7.799/89. Repercussão Geral reconhecida. (RE 242689 RG, Relator(a): Min. GILMAR MENDES, julgado em 16/09/2010, PROCESSO ELETRÔNICO DJe-036 DIVULG 22-02-2011 PUBLIC 23-02-2011 LEXSTF v. 33, n. 387, 2011, p. 158-164 )
+    Ex positis, ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 29 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
