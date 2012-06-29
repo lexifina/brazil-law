@@ -1,0 +1,21 @@
+Petição nº 31955/2012.
+    Decisão: Trata-se de petição, apresentada pelo Estado da Bahia, em que requer a extensão dos efeitos da medida liminar parcialmente deferida pelo então relator desta ação cautelar, Min. AYRES BRITTO, em 18.8.2011 (Dje de 23.8.2011).
+    No presente pedido, alega o requerente, Estado da BAHIA, que:
+    “[...] Apesar do deferimento da liminar e a vigência da tutela antecipatória até a presente data, mediante consulta ao Portal SIAFI da Secretaria do Tesouro Nacional, o Estado da Bahia, surge novamente com a mesma pendência do item V do ponto 15 da petição inicial da AC 2.959 (ou item V do 2º parágrafo da decisão liminar), o que lhe impedirá, desta vez, de celebrar contrato com o BIRD – Banco Internacional para a Reconstrução e Desenvolvimento a fim de desenvolver programa com enfoque setorial amplo / Sector-Wide Approach (SWAp), conforme documento anexo e cuja assinatura do convênio está prevista para o dia 1º de julho de 2012 próximo, na ordem de US$ 60,000.000 (sessenta milhões de dólares americanos)”.
+    Requer sejam estendidos os efeitos da liminar deferida na AC 2.959, especialmente no que diz respeito a restrição apontada no item V do 2º parágrafo da referida decisão, “para efeito de análise da garantia do contrato com o BIRD”, a ser assinado em 1º.7.2012.
+    A Procuradoria-Geral da República opina pelo deferimento do pedido de extensão.
+    2. É caso de extensão.
+    A decisão cujos efeitos quer o requerente sejam agora estendidos, para a afastar os óbices impostos pela União para concessão de garantia de operação de crédito a ser celebrada com o BIRD, em 1.7.2012, foi assim proferida em seus termos essenciais:
+    “[...] Ante o exposto, presentes os requisitos legais, defiro parcialmente a liminar requerida, nos termos do inciso V do art. 21 do RI/STF. O que faço, tão somente, para que a União se abstenha de considerar as pendências cadastrais mencionadas nos II a V do 2º parágrafo desta decisão na análise dos requisitos para a concessão de garantia na operação de crédito a ser celebrada entre o Estado da Bahia e o BID (cujos recursos, nos termos da petição inicial, serão destinados ao financiamento do Programa de Desenvolvimento Ambiental da Bahia)”(Grifos nossos).
+    O objeto deste pedido de extensão afastou a pendência cadastral referente à inscrição, no CADIN, da Secretaria de Ciência, Tecnologia e Informação em razão da existência de débitos com o IBAMA (cf. item V do 2º parágrafo da decisão concessiva da liminar).
+    Não obstante a operação de crédito agora seja outra, destinada a “desenvolver programa com enfoque setorial amplo / Sector-Wide Approach (SWAp)”, verifico que o fundamento que esta Corte tem adotado para concessão de medida liminar em casos análogos é o da intranscendência das sanções e das medidas restritivas de ordem jurídica (AC nº 2659 MC-Ref/MS, Rel. Min. CELSO DE MELLO, Plenário, DJe de 24.9.2010), de modo que não há razão lógica ou jurídica para que a mesma pendência, já afastada nestes autos para operação distinta, continue a impor restrições ao direito do requerente.
+    Ademais, há evidente risco de perecimento do direito invocado, haja vista que a operação de crédito será firmada entre o requerente e o BIRD no próximo dia 1º de julho de 2012, conforme bem observou o Procurador-Geral da República, Roberto monteiro Gurgel Santos:
+    “[...]
+    Quanto ao pedido de extensão, fazem-se presentes os pressupostos da plausibilidade jurídica, pois a restrição é a mesma afastada pela decisão agravada, e do periculum in mora, uma vez que a assinatura do convênio obstado, na ordem de US$ 60.000.000 (sessenta milhões de dólares americanos), está prevista para o próximo dia 1º de julho”.
+    3. Do exposto, defiro o pedido, para que a União se abstenha de considerar a pendência cadastral mencionada no item V do 2º parágrafo, da decisão concessiva de liminar, na análise dos requisitos para a concessão de garantia na operação de crédito a ser celebrada entre o Estado da Bahia e o BIRD, em 1º.7.2012.
+    Comprove o requerente o regular ajuizamento da ação principal, nos termos do art. 806 do CPC, sob pena de cessação dos efeitos da liminar já deferida.
+    Publique-se. Int..
+    Brasília, 29 de junho de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
