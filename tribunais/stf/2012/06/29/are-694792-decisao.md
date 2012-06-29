@@ -1,0 +1,10 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. REPERCUSSÃO GERAL RECONHECIDA. DIFERENÇAS DE CORREÇÃO MONETÁRIA DE DEPÓSITOS EM CADERNETA DE POUPANÇA, NÃO BLOQUEADOS PELO BACEN, POR ALEGADOS EXPURGOS INFLACIONÁRIOS DECORRENTES DO PLANO COLLOR I. TEMA Nº 265 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.
+    Decisão: Cuida-se de agravo de agravo nos próprios autos interposto pelo HSBC BANK BRASIL S.A BANCO MÚLTIPLO, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada decisão que inadmitiu recurso extraordinário no qual se discute matéria que teve a repercussão geral reconhecida por esta Corte nº RE 591.797 RG / SP, Relator o e. Dias Toffoli, Dje- 30.04.2010, e que corresponde ao Tema nº 265 da Gestão por Temas da Repercussão Geral.
+    Trata-se do tema em que se discute, à luz do art. 5º, XXXVI, da Constituição Federal, o direito, ou não, a diferenças de correção monetária de depósitos em cadernetas de poupança, por alegados expurgos inflacionários decorrentes do plano econômico denominado Collor I. O referido decisum está assim ementado:
+    EMENTA DIREITO CONSTITUCIONAL. PRINCÍPIOS DO DIREITO ADQUIRIDO E ATO JURÍDICO PERFEITO. POUPANÇA. EXPURGOS INFLACIONÁRIOS. PLANO ECONÔMICO COLLOR I. VALORES NÃO BLOQUEADOS. EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 591797 RG, Relator(a): Min. DIAS TOFFOLI, julgado em 15/04/2010, DJe-076 DIVULG 29-04-2010 PUBLIC 30-04-2010 EMENT VOL-02399-09 PP-01898 LEXSTF v. 32, n. 377, 2010, p. 235-239 )
+    Ex positis, ante a similitude da controvérsia e presentes os demais requisitos para conhecimento do recurso, DOU PROVIMENTO ao agravo de instrumento para admitir o recurso extraordinário e, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a DEVOLUÇÃO dos presentes autos ao Tribunal a quo, para que seja observado o disposto no artigo 543-B e parágrafos do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 29 de junho de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
