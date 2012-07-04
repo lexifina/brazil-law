@@ -1,0 +1,21 @@
+DECISÃO: Vistos, etc.
+    Cuida-se de ação cautelar, com pedido de liminar, ajuizada por Ronaldo Alves Pereira, com o objetivo de conferir efeito suspensivo a recurso extraordinário admitido na origem.
+    2. Pois bem, o postulante resume a controvérsia dos autos nos seguintes termos (sic):
+    “[...]
+    O requerente é vereador eleito no Município de Uberlândia e, nestas Eleições de 2012 pretende concorrer à reeleição, tendo sido, inclusive, escolhido nas convenções partidárias […]
+    No entanto, seu registro de candidatura poderá ser indeferido pela justiça eleitoral por incidir na causa de inelegibilidade constante do artigo 1º, ‘l’, da Lei Complementar 64/90, com redação dada pela Lei Complementar 135/10. Isso porque foi condenado, em decisão confirmada por órgão colegiado (1ª Câmara Cível do TJMG), por violação ao artigo 10, inciso XII, da Lei 8.429/92 (Lei de Improbidade Administrativa).
+    Em face do Acórdão do TJMG, que confirmou a condenação por ato de improbidade, foram interpostos os competentes Recursos Extraordinário e Especial, tendo sido ambos admitidos, estando o Recurso extraordinário sobrestado pela tramitação preferencial do Recurso Especial 111.914-3 que, apesar das teses abordadas, foi desprovido pelo e. STJ em dia 03 de agosto de 2010 […]. Assim, tendo em vista a iminente remessa do recurso extraordinário a esta e. Corte Superior, encontra-se aberta a sua competência para apreciação da presente cautelar.
+    Nesse contexto, para que possa obter o registro de sua candidatura, é indispensável que este e. Supremo Tribunal Federal confira efeito suspensivo ao Recurso extraordinário já admitido e que em breve chegará a esta e. Corte Suprema, utilizando-se da prerrogativa conferida pelo artigo 26-C da Lei Complementar 64/90.
+    [...]”.
+    3. Nessa marcha batida, o autor sustenta, em síntese, que “se viu processado e teve decretada a perda de suas funções por juiz de primeiro grau, em ação civil pública por improbidade, a despeito do foro de prerrogativa de função [do co-réu Deputado Estadual], previsto no artigo 106, inc. I, ‘a’, da Constituição do Estado de Minas Gerais”.
+    4. Feito esse resumo dos acontecimentos, passo a decidir. De saída, relembro que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano (primo oculi, portanto). Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+    5. No caso, afigura-se-me ausente a plausibilidade jurídica do pedido. Isso porque o acórdão que melhor reflete o entendimento da atual composição desta Corte, quanto à possibilidade de o agente político responder por ato de improbidade administrativa, é o da Pet 3.923-QO, da relatoria do ministro Joaquim Barbosa. Nesse aresto ficou consignado que “as condutas descritas na lei de improbidade administrativa, quando imputadas a autoridades detentoras de prerrogativa de foro, não se convertem em crimes de responsabilidade”.
+    6. Demais disso, ressalto que, no julgamento do mérito das ADIs 2.797 e 2.860, da relatoria do ministro Sepúlveda Pertence, o Plenário desta nossa Corte declarou, por maioria, a inconstitucionalidade dos §§ 1o e 2o do art. 84 do Código de Processo Penal, inseridos pela Lei nº 10.628/02.
+    7. De se ver, pois, que os agentes políticos não detêm foro especial por prerrogativa de função nas ações de improbidade administrativa. Confira-se, nesse mesmo sentido, entre outros, o RE 560.863, da relatoria do ministro Cezar Peluso (decisão com trânsito em julgado em 11/02/2010).
+    Ante o exposto, indefiro a liminar requerida.
+    Comunique-se ao Tribunal Regional Eleitoral de Minas Gerais.
+    Publique-se.
+    Brasília, 04 de julho de 2012.
+Ministro AYRES BRITTO
+Presidente
+(inciso VIII do art. 13 do RISTF)
