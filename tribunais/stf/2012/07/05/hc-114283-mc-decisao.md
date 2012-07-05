@@ -1,0 +1,13 @@
+DECISÃO: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça.
+    2. Pois bem, os impetrantes postulam a concessão da medida liminar para que o paciente aguarde em liberdade o julgamento definitivo deste habeas corpus. No mérito, requerem o redimensionamento da pena imposta a ele, paciente, com observância da causa especial de diminuição de pena, prevista no § 4º do art. 33 da Lei 11.343/2006. Isto para o fim de fixar-se, de logo, regime mais brando para o início do cumprimento da sanção penal.
+    3. Feito esse aligeirado relato da causa, decido. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo da demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir, do julgador, uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, tenho por desatendidos os requisitos do provimento cautelar requestado. Isso porque, em linha de princípio, o Superior Tribunal de Justiça decidiu a causa apoiado no conjunto fático-probatório dos autos. Leio, a propósito, trecho do voto condutor do acórdão:
+    “[...]
+    E, na hipótese que se apresenta, mostra-se devida a imposição do regime inicial fechado de cumprimento de pena, nos termos do art. 33, § 3º, do Código Penal, pois, não obstante a fixação de reprimenda inferior a 8 anos de reclusão, verifica-se que o paciente foi apreendido com 25 comprimidos da substância entorpecente conhecida como ecstasy , sendo certo que, consoante bem destacou a Corte estadual, a quantidade e forma de acondicionamento da droga apreendida, bem como o local, conhecido como ponto de venda de drogas, denota que se valia o apelado do tráfico como meio de vida (fls. 17/18), circunstâncias que afastam a possibilidade de fixação de regime prisional mais brando, como pretendido.”
+    5. Esse o quadro, indefiro a medida liminar requerida. Solicitem-se informações atualizadas ao Juízo da 4ª Vara Criminal da Comarca de Ribeirão Preto/SP.
+    Publique-se.
+    Brasília, 05 de julho de 2012.
+Ministro AYRES BRITTO
+Presidente
+(Inciso VIII do art. 13 do RI/STF)
