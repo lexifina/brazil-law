@@ -1,1 +1,0 @@
-Art. 3º Os crimes disciplinados nesta Lei são insuscetíveis de fiança e liberdade provisória e, em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade.

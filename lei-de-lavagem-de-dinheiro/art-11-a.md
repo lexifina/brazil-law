@@ -1,0 +1,1 @@
+Art. 11-A. As transferências internacionais e os saques em espécie deverão ser previamente comunicados à instituição financeira, nos termos, limites, prazos e condições fixados pelo Banco Central do Brasil.
