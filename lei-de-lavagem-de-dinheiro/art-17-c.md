@@ -1,0 +1,1 @@
+Art. 17-C. Os encaminhamentos das instituições financeiras e tributárias em resposta às ordens judiciais de quebra ou transferência de sigilo deverão ser, sempre que determinado, em meio informático, e apresentados em arquivos que possibilitem a migração de informações para os autos do processo sem redigitação.

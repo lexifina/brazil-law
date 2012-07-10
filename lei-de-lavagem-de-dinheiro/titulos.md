@@ -7,7 +7,7 @@ Dos Efeitos da Condenação
 CAPÍTULO IV
 Dos Bens, Direitos ou Valores Oriundos de Crimes Praticados no Estrangeiro
 CAPÍTULO V
-Das Pessoas Sujeitas À Lei
+DAS PESSOAS SUJEITAS AO MECANISMO DE CONTROLE
 CAPÍTULO VI
 Da Identificação dos Clientes e Manutenção de Registros
 CAPÍTULO VII
@@ -16,3 +16,5 @@ CAPÍTULO VIII
 Da Responsabilidade Administrativa
 CAPÍTULO IX
 Do Conselho de Controle de Atividades Financeiras
+CAPÍTULO X
+DISPOSIÇÕES GERAIS

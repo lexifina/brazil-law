@@ -1,0 +1,1 @@
+Art. 17-D. Em caso de indiciamento de servidor público, este será afastado, sem prejuízo de remuneração e demais direitos previstos em lei, até que o juiz competente autorize, em decisão fundamentada, o seu retorno.

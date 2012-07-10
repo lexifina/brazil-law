@@ -1,0 +1,1 @@
+Art. 17-E. A Secretaria da Receita Federal do Brasil conservará os dados fiscais dos contribuintes pelo prazo mínimo de 5 (cinco) anos, contado a partir do início do exercício seguinte ao da declaração de renda respectiva ou ao do pagamento do tributo.
