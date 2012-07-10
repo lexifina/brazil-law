@@ -1,0 +1,1 @@
+Art. 4º-B. A ordem de prisão de pessoas ou as medidas assecuratórias de bens, direitos ou valores poderão ser suspensas pelo juiz, ouvido o Ministério Público, quando a sua execução imediata puder comprometer as investigações.
