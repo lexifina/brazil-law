@@ -1,7 +1,9 @@
 Art. 10. As pessoas referidas no art. 9º:
 I - identificarão seus clientes e manterão cadastro atualizado, nos termos de instruções emanadas das autoridades competentes;
 II - manterão registro de toda transação em moeda nacional ou estrangeira, títulos e valores mobiliários, títulos de crédito, metais, ou qualquer ativo passível de ser convertido em dinheiro, que ultrapassar limite fixado pela autoridade competente e nos termos de instruções por esta expedidas;
-III - deverão atender, no prazo fixado pelo órgão judicial competente, as requisições formuladas pelo Conselho criado pelo art. 14, que se processarão em segredo de justiça.
+III - deverão adotar políticas, procedimentos e controles internos, compatíveis com seu porte e volume de operações, que lhes permitam atender ao disposto neste artigo e no art. 11, na forma disciplinada pelos órgãos competentes;
+IV - deverão cadastrar-se e manter seu cadastro atualizado no órgão regulador ou fiscalizador e, na falta deste, no Conselho de Controle de Atividades Financeiras (Coaf), na forma e condições por eles estabelecidas;
+V - deverão atender às requisições formuladas pelo Coaf na periodicidade, forma e condições por ele estabelecidas, cabendo-lhe preservar, nos termos da lei, o sigilo das informações prestadas.
 § 1º Na hipótese de o cliente constituir-se em pessoa jurídica, a identificação referida no inciso I deste artigo deverá abranger as pessoas físicas autorizadas a representá-la, bem como seus proprietários.
 § 2º Os cadastros e registros referidos nos incisos I e II deste artigo deverão ser conservados durante o período mínimo de cinco anos a partir do encerramento da conta ou da conclusão da transação, prazo este que poderá ser ampliado pela autoridade competente.
 § 3º O registro referido no inciso II deste artigo será efetuado também quando a pessoa física ou jurídica, seus entes ligados, houver realizado, em um mesmo mês-calendário, operações com uma mesma pessoa, conglomerado ou grupo que, em seu conjunto, ultrapassem o limite fixado pela autoridade competente.
