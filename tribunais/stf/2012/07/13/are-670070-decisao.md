@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “REEXAME NECESSÁRIO PREJUDICADO – MANDADO DE SEGURANÇA – PRORROGAÇÃO DA LICENÇA MATERNIDADE POR MAIS DE SESSENTA DIAS – FATO CONSUMADO. Uma vez que a pretensão da parte autora, de prorrogação da licença maternidade por mais de sessenta dias, foi atendida pelo Município réu, em razão da sentença que confirmou a liminar no mandado de segurança, incide, in casu, a teoria do fato consumado, já que a situação fática anterior não pode ser restaurada, o que torna prejudicado o reexame necessário da sentença, bem como o recurso voluntário”. (fl. 205)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 1º, 18, 25 e 37, caput, todos insertos no texto constitucional.
+    Alega-se, em síntese, que a Lei n. 11.770/08, norma de âmbito federal que disciplina acerca da possibilidade de prorrogação da licença-maternidade, não se aplica ao município, o qual “tem autonomia legislativa no que diz respeito aos seus servidores”(fl. 216).
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que o recorrente argumentou acerca da vulneração dos arts. 1º, 18, 25 e 37, caput, da Constituição Federal, ao fundamento de que a prorrogação de licença-maternidade no âmbito municipal não prescinde de legislação específica. Contudo, a decisão impugnada não se embasa nesse fundamento. Eis a fundamentação do acórdão recorrido:
+    “Consta dos autos que a pretensão da autora, de prorrogação da licença maternidade por mais de 60 (sessenta) dias, foi atendida em antecipação de tutela recursal em 25/04/2010, quando da interposição do Agravo de Instrumento nº 1.0024.10.039743-9/001, conforme decisão cuja cópia se vê à fl. 107/109, proferida pela douta Desembargadora Sandra Fonseca, em plantão, confirmada pela sentença proferida em 10/08/2010 (fl. 166/170).
+    Sendo assim, encontra-se delineado o campo de incidência da teoria do fato consumado, tratando-se de uma situação fática consolidada, insuscetível de modificação, e que deve portanto, ser respeitada. Com efeito, apresenta-se despiciendo e inócuo o reexame da sentença que confirmou a liminar, porquanto a situação de fato não é passível de ser restaurada ao estado anterior”. (fl. 207)
+    O tribunal de origem, assim, restringiu-se a julgar prejudicado o recurso interposto, sem questionar a aplicabilidade ou não da indigitada lei ao caso concreto.
+    Nota-se, portanto, que as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na fundamentação do recurso. Incide, na hipótese, a Súmula 284. Nesse sentido, ARE-AgR 646.556, Rel. Min. Ricardo Lewandowski, DJe 4.10.2011.
+    Ademais, verifica-se que o tribunal de origem não apreciou as teses expostas no presente recurso à luz dos dispositivos constitucionais tidos por violados e que o ora recorrente, todavia, não opôs embargos de declaração perante a Corte a qua com intuito de prequestionamento da matéria constitucional. Não havendo prequestionamento, incidem os Verbetes 282 e 356 da Súmula do Supremo Tribunal Federal, segundo os quais não se deve admitir recurso extraordinário cuja decisão recorrida não ventila a questão constitucional suscitada, não tendo sido a decisão impugnada por meio de embargos de declaração que vislumbrem sanar eventual omissão, contradição ou obscuridade.
+    Nesse mesmo sentido, confiram-se os seguintes julgados monocráticos: ARE 690.780, Rel. Min. Cármen Lúcia, DJe 18.6.2012 e o ARE 664.076, Rel. Min. Luiz Fux, DJe 6.2.2012.
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, §4º, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de julho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
