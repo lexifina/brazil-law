@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1282, de 16 de julho de 2012
+Dispõe sobre a descarga direta e o despacho aduaneiro de importação de mercadoria transportada a granel. Dispõe sobre o despacho aduaneiro de importação de mercadoria transportada a granel objeto de descarga direta.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos artigos 578 e 579 do Regulamento Aduaneiro, aprovado pelo Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
