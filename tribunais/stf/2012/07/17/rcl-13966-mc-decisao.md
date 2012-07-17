@@ -1,0 +1,17 @@
+Decisão: vistos, etc.
+    Trata-se de reclamação constitucional, aparelhada com pedido de medida liminar, proposta por Leandro de Jesus, contra ato praticado pela Juíza de Direito da Vara de Tóxicos e Acidentes de Veículos da Comarca de Feira de Santana/BA, nos autos da Ação Penal 0010355-28.2011.805.0080.
+    2. Pois bem, argúi o reclamante que requereu acesso ao conteúdo da mídia das interceptações telefônicas produzidas e acostadas ao inquérito policial, para fins de análise das supostas conversas entre ele, reclamante, e demais denunciados nos autos da ação penal acima mencionada. Entretanto, a Juíza de primeiro grau não se pronunciou quanto ao requerimento formulado pela defesa. Assim, alega o reclamante que “a recusa de acesso aos elementos de convicção produzidos e formalmente incorporados ao acervo probatório em poder da autoridade policial e do Juízo Singular reveste-se de caráter potencialmente lesivo aos status libertatis dos reclamantes, cujo direito de defesa restará profundamente comprometido”. Desse modo, conclui que a negativa de acesso da defesa à prova dos autos contrariou a autoridade da Súmula Vinculante 14. Daí pedir, liminarmente, o “sobrestamento da ação penal originária nº 0010355-28.2011.805.0080”.
+    3. Prossigo para anotar que a relatora, ministra Rosa Weber, indeferiu o primeiro pedido de liminar e solicitou informações à autoridade reclamada. Informações que foram prestadas mediante a Petição 36.402/2012.
+    4. Feito esse relato da causa, passo à decisão. Fazendo-o, pontuo, de saída, que o poder de cautela dos magistrados é exercido num juízo delibatório em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade jurídica do pedido (fumus boni juris) e do perigo da demora na prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir do julgador uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que a este dão suporte, senão incorrendo em antecipação do próprio conteúdo da decisão definitiva.
+    5. No caso, tenho como ausentes os requisitos necessários à concessão da medida liminar. É que, de acordo com as informações prestadas pela autoridade reclamada, o reclamante  sempre teve amplo acesso aos elementos de prova já documentados nos autos da ação penal. Leia-se, por esclarecedor, o seguinte trecho das informações :
+    “[...]
+    Em nenhum momento foi negado, ao requerente ou a qualquer outro defensor, acesso a qualquer elemento de prova constante dos autos da ação penal. Muito pelo contrário, todos os requerimentos foram deferidos por este Juízo, restando clara a intenção dos advogados de defesa, inclusive do ora requerente, em procrastinar o feito, seja através dos sucessivos pedidos de suspensão das assentadas sob alegação inverídica de negativa de acesso a elementos de prova, seja através do pedido infundado e temerário de reconhecimento da suspeição desta magistrada.
+    [...]”
+    6. Presente essa moldura, tenho, nesse juízo preliminar, que não houve desrespeito à autoridade da Súmula Vinculante 14.
+    Ante o exposto, indefiro a liminar.
+    Encaminhe-se o processo ao Procurador-Geral da República.
+    Publique-se.
+    Brasília, 17 de julho de 2012.
+Ministro Ayres Britto
+Presidente
+(Inciso VIII do art. 13 do RI/STF)
