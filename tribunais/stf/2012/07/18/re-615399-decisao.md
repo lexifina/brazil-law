@@ -1,0 +1,13 @@
+DECISÃO: 1. Trata-se de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 2ª Região e assim ementado:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. MILITAR. REMESSA NECESSÁRIA. APELAÇÃO CÍVEL. RECURSO ADESIVO. REVERSÃO DA PENSÃO ESPECIAL DE EX-COMBATENTE. ÓBITO DO INSTITUIDOR DO BENEFÍCIO EM 21/03/1990. LAPSO TEMPORAL. ESPECÍFICO. FALECIMENTO APÓS A CONSTITUIÇÃO FEDERAL DE 1988 E ANTES DA LEI 8.059/90. SISTEMÁTICA DE REVERSÃO MISTA. APLICAÇÃO SIMULTÂNEA DAS LEIS 4.242/63 E 3.765/60 COM O ART. 53 DO ADCT/88. DEPENDENTES COMO HERDEIROS NO PERÍODO. PENSÃO DE SEGUNDO-TENENTE AOS HERDEIROS. DECISÕES DO JUÍZO A QUO PROFERIDAS DEPOIS DA SENTENÇA NULAS. JUROS DE MORA DE 6% AO ANO. TERMO INICIAL DE PAGAMENTO. DATA DO AJUIZAMENTO DA AÇÃO.” (fl. 289)
+    Sustenta a parte recorrente, com fundamento no art. 102, III, a, violação ao art. 53, III, do ADCT.
+    2. Inviável o recurso.
+    É que o acórdão impugnado decidiu a causa com base só em interpretação de legislação infraconstitucional (Leis 4.242/63, 3.765/60 e 8.059/90) de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    E o Tribunal a quo decidiu com acerto, porque aplicou o princípio, faz muito proclamado nesta Corte, de que o direito a pensão se rege pelas normas vigentes ao tempo do óbito do segurado. É o que se vê à seguinte ementa, que se amolda a este caso:
+    "PENSÃO - EX-COMBATENTE - REGÊNCIA. O DIREITO A PENSÃO DE EX-COMBATENTE É REGIDO PELAS NORMAIS LEGAIS EM VIGOR A DATA DO EVENTO MORTE. TRATANDO-SE DE REVERSÃO DO BENEFÍCIO A FILHA MULHER, EM RAZÃO DO FALECIMENTO DA PRÓPRIA MÃE QUE A VINHA RECEBENDO, CONSIDERAM-SE NÃO OS PRECEITOS EM VIGOR QUANDO DO ÓBITO DESTA ÚLTIMA, MAS DO PRIMEIRO, OU SEJA, DO EX-COMBATENTE." (MS nº 21.707, Rel. Min. CARLOS VELLOSO, Pleno, DJ de 22.9.95. No mesmo sentido: RE nº 461.243, Rel. Min. CARLOS VELLOSO, DJ de 14.10.2005; RE nº 281.945, Rel. Min. ELLEN GRACIE, DJ de 2.9.2005; RE nº 446.041, Rel. Min. ELLEN GRACIE, DJ de 13.9.2005; RE nº 446.822, Rel. Min. JOAQUIM BARBOSA, DJ de 6.4.2005; RE nº 421.988, Rel. Min. SEPÚLVEDA PERTENCE, DJ de 30.3.2005; RE nº 391.177, Rel. Min. EROS GRAU, DJ de 11.2.2005).
+    3. Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 18 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
