@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio de Janeiro e assim ementado:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. SERVIÇOS HOSPITALARES. DEFEITO NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE OBJETIVA. DANO MORAL CONFIGURADO. QUANTUM INDENIZATÓRIO. REDUÇÃO. A autora foi submetida à cirurgia de perineoplastia nas dependências da ré, entidade filantrópica privada que presta serviço público de saúde, momento em que foi introduzido um tampão vaginal pelo médico cirurgião para evitar sangramentos e que deveria ser retirada pelas equipes de enfermagem. No caso, após a alta hospitalar, foram constados restos de gaze com odor fétido no interior do organismo da autora, caracterizando falha na prestação do serviço da ré. O quantum arbitrado pelo juízo a quo em R$ 25.000,00 a título de indenização por dano moral se mostra excessivo, merecendo ser reduzido para R$ 15.000,00, em atendimento ao princípio da razoabilidade e proporcionalidade. RECURSO PARCIALMENTE PROVIDO.” (fl. 300)
+    Opostos embargos de declaração, foram rejeitados (fls. 315-317).
+    Sustenta a parte recorrente, com base no art. 102, III, a, ofensa ao art. 37, § 6º, da Constituição Federal. Apresente preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    Diante da impossibilidade de, em recurso extraordinário, rever a Corte as premissas de fato em que, para decidir a causa, se assentou o Tribunal de origem, reconhecendo omissão da entidade filantrópica privada que presta serviço público, à luz da prova dos autos, é evidente que, para adotar outra conclusão, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável (súmula 279).
+    E, bem por isso, pretensões idênticas à apresentada nestes autos têm sido aqui repelidas.
+    É como têm decidido ambas as Turmas desta Corte, em hipóteses análogas:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE DO ESTADO. ERRO MÉDICO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade no recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento.” (AI nº 736.284 AgR/CE, Rel. Min. EROS GRAU, Segunda Turma, DJe de 09.10.2009)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. INDENIZAÇÃO. RESPONSABILIDADE OBJETIVA. ALEGAÇÃO DE ERRO MÉDICO. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS (SÚMULA 279). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 616.955 AgR/SP, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 30.11.2007)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 18 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
