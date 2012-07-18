@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Piauí e assim ementado, no que interessa:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. DECISÃO PROFERIDA EM MANDADO DE SEGURANÇA DE COMPETÊNCIA ORIGINÁRIA DO TRIBUNAL. PRELIMINARES REJEITADAS. INOCORRÊNCIA DE PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. EXIGIBILIDADE DE TÍTULO EXECUTIVO TRANSITADO EM JULGADO. IMPOSSIBILIDADE DE REDISCUSSÃO DO MÉRITO DO MANDADO DE SEGURANÇA EM SEDE DE EMBARGOS À EXECUÇÃO. RECONHECIMENTO DE EXCESSO DE EXECUÇÃO.” (fl. 103)
+    O recorrente, com fundamento no art. 102, III, a, sustenta violação ao art. 5º, LIV, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    É que o acórdão impugnado, ao analisar a questão da ocorrência, ou não, de prescrição, bem como da impossibilidade de rediscussão do mérito do mandado de segurança em sede de embargos à execução, reconhecendo, a favor do recorrente, excesso de execução, decidiu a causa com base só nas provas dos fatos e na interpretação da legislação infraconstitucional pertinente (Lei Estadual nº 4.761/95), que não podem revistas no âmbito do extraordinário (súmulas 279 e 280).
+    De todo modo, ainda quando prequestionado o tema, eventual ofensa ao art. 5º, LIV, da Constituição da República, seria apenas indireta ou reflexa, porque dependeria, aqui, do reexame assim dos fatos, como da inteligência da norma subalterna.
+    Pacífica é a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    É o que tem decido a Corte em casos análogos:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. VANTAGEM DENOMINADA "DIÁRIA OPERACIONAL". EXTENSÃO A MILITAR APOSENTADO. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Entendimento contrário do adotado pela Instância Judicante de origem exigiria o reexame da legislação ordinária pertinente (Lei estadual 4.761/95), providência vedada neste momento processual. 2. Precedentes: AIs 463.822-AgR, da relatoria da ministra Ellen Gracie; e 471.564, da relatoria do ministro Sepúlveda Pertence; bem como REs 399.651, da minha relatoria; e 473.892-AgR, da relatoria do ministro Joaquim Barbosa. 3. Agravo regimental desprovido.” (AI 467.404 AgR/PI, Rel. Min. AYRES BRITTO, Primeira Turma, DJe de 07.05.2010)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 18 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
