@@ -11,6 +11,16 @@ IV - o salário-família;
 V - o auxílio-alimentação;
 VI - o auxílio-creche;
 VII - as parcelas remuneratórias pagas em decorrência de local de trabalho;
-VIII - a parcela percebida em decorrência do exercício de cargo em comissão ou de função de confiança; e
-IX - o abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003.
-§ 2º O servidor ocupante de cargo efetivo poderá optar pela inclusão na base de contribuição de parcelas remuneratórias percebidas em decorrência de local de trabalho, do exercício de cargo em comissão ou de função de confiança, para efeito de cálculo do benefício a ser concedido com fundamento no art. 40 da Constituição Federal e art. 2º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, respeitada, em qualquer hipótese, a limitação estabelecida no § 2º do art. 40 da Constituição Federal.
+VIII - a parcela percebida em decorrência do exercício de cargo em comissão ou de função comissionada ou gratificada;
+IX - o abono de permanência de que tratam o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional nº 41, de 19 de dezembro de 2003;
+X - o adicional de férias;
+XI - o adicional noturno;
+XII - o adicional por serviço extraordinário;
+XIII - a parcela paga a título de assistência à saúde suplementar;
+XIV - a parcela paga a título de assistência pré-escolar;
+XV - a parcela paga a servidor público indicado para integrar conselho ou órgão deliberativo, na condição de representante do governo, de órgão ou de entidade da administração pública do qual é servidor;
+XVI - o auxílio-moradia;
+XVII - a Gratificação por Encargo de Curso ou Concurso, de que trata o art. 76-A da Lei nº 8.112, de 11 de dezembro de 1990;
+XVIII - a Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE), instituída pela Lei nº 11.356, de 19 de outubro de 2006;
+XIX - a Gratificação de Raio X.
+§ 2º O servidor ocupante de cargo efetivo poderá optar pela inclusão, na base de cálculo da contribuição, de parcelas remuneratórias percebidas em decorrência de local de trabalho e do exercício de cargo em comissão ou de função comissionada ou gratificada, de Gratificação de Raio X e daquelas recebidas a título de adicional noturno ou de adicional por serviço extraordinário, para efeito de cálculo do benefício a ser concedido com fundamento no art. 40 da Constituição Federal e no art. 2º da Emenda Constitucional nº 41, de 19 de dezembro de 2003, respeitada, em qualquer hipótese, a limitação estabelecida no § 2º do art. 40 da Constituição Federal.

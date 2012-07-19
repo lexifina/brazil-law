@@ -6,3 +6,5 @@ III - até o dia 5 do mês posterior, no caso de pagamentos de remunerações ou
 § 2º O não recolhimento das contribuições nos prazos previstos no § 1º:
 I - enseja a aplicação dos acréscimos de mora previstos para os tributos federais; e
 II - sujeita o responsável às sanções penais e administrativas cabíveis.
+§ 3º A não retenção das contribuições pelo órgão pagador sujeita o responsável às sanções penais e administrativas, cabendo a esse órgão apurar os valores não retidos e proceder ao desconto na folha de pagamento do servidor ativo, do aposentado e do pensionista, em rubrica e classificação contábil específicas, podendo essas contribuições ser parceladas na forma do art. 46 da Lei nº 8.112, de 11 de dezembro de 1990, observado o disposto no art. 56 da Lei nº 9.784, de 29 de janeiro de 1999.
+§ 4º Caso o órgão público não observe o disposto no § 3º, a Secretaria da Receita Federal do Brasil formalizará representações aos órgãos de controle e constituirá o crédito tributário relativo à parcela devida pelo servidor ativo, aposentado ou pensionista.
