@@ -1,0 +1,12 @@
+DECISÃO: vistos, etc.
+    Trata-se de habeas corpus, aparelhado com pedido de liminar, impetrado contra decisão singular de ministro do Superior Tribunal de Justiça (relator do HC 236.929), que indeferiu a tutela de urgência ali formalizada, à falta de seus pressupostos.
+    2. Pois bem, o impetrante insiste no pedido de redimensionamento da pena imposta ao paciente, com aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei 11.343/2006. Paciente, esse, condenado à pena de seis anos de reclusão, a ser cumprida em regime inicialmente fechado, por delito de tráfico de drogas, na forma do caput do art. 33 da Lei 11.343/2006. Donde o pleito de superação da Súmula 691/STF.
+    3. Feito esse breve relato, decido. Fazendo-o, acentuo que o poder de cautela dos magistrados é exercido num juízo prefacial em que se mesclam num mesmo tom a urgência da decisão e a impossibilidade de aprofundamento analítico do caso. Se se prefere, impõe-se aos magistrados condicionar seus provimentos acautelatórios à presença, nos autos, dos requisitos da plausibilidade do direito (fumus boni juris) e do perigo na demora da prestação jurisdicional (periculum in mora), perceptíveis de plano. Requisitos a ser aferidos primo oculi, portanto. Não sendo de se exigir do julgador uma aprofundada incursão no mérito do pedido ou na dissecação dos fatos que lhe dão suporte, sob pena de antecipação do próprio conteúdo da decisão definitiva.
+    4. No caso, não tenho por configurados, de plano, os requisitos necessários à concessão do provimento cautelar requestado. Isso porque é pacífica a jurisprudência do STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, da relatoria do ministro Moreira Alves; HC 76.347-QO, da relatoria do ministro Moreira Alves; HC 79.238, da relatoria do ministro Moreira Alves; HC 79.748, da relatoria do ministro Celso de Mello; e HC 79.775, da relatoria do ministro Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    5. Esse o quadro, indefiro a liminar.
+    6. Abra-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 19 de julho de 2012.
+Ministro AYRES BRITTO
+Presidente
+(Inciso VIII do art. 13 do RI/STF)
