@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “EMBARGOS INFRINGENTES – Repetição de indébito – Restituição de ICMS – Art. 155, § 2º, X, letra “a”, da Constituição Federal – O ICMS não incidirá sobre operações de produtos industrializados que se destinem ao exterior, excluído os semi-elaborados definidos em lei complementar – Convênio 15/91 que define ser o suco de laranja produto semi-elaborado, colocando sua exportação fora do âmbito de incidência e imunidade constitucional – Perícia inconclusiva – Autora-embargada não provou que a inclusão do seu produto no rol dos produtos semi-elaborados constituísse equívoco técnico ou arbitrariedade – Recurso acolhido”. (fl. 418)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos XXXV, LIV e LV; e 155, § 2º, inciso X, alínea “a”, da Constituição Federal.
+     Na espécie, discute-se se há a incidência da imunidade constitucional prevista no artigo 155, § 2º, inciso X, alínea “a”, da Constituição Federal, na exportação de suco de laranja.
+     A recorrente argumenta, em síntese, o seguinte:
+    “Diante das conclusões a que chegou o laudo pericial, percebe-se claramente, data maxima venia, a valoração equivocada que o v. Acórdão recorrido, proferido em sede de Embargos Infringentes, atribuiu à prova pericial elaborada, bem como quanto ao restante do material probatório (em especial os laudos da UNICAMP e da Universidade Federal do Paraná)”. (fl. 451)
+    Decido.
+    Não assiste razão à recorrente.
+    Ao contrário do aduzido no recurso extraordinário, verifico que a conclusão sobre ser ou não o suco de laranja um produto industrializado, consequentemente sujeito à imunidade pretendida, demandaria o revolvimento fático-probatório, inadmissível em recurso extraordinário.
+    Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, Primeira Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, Segunda Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009; e AI-Ag 767.152, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 5.2.2010.
+     Incide, portanto, a Súmula 279/STF.
+    Observo, ainda, que para o reexame do acórdão impugnado seria necessária a interpretação da legislação infraconstitucional federal aplicável à espécie. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido, o AI-AgR 780.435, Rel. Min. Rosa Weber, Primeira Turma, DJe 23.5.2012, cuja ementa dispõe:
+    “DIREITO TRIBUTÁRIO. ICMS. PRODUTO INDUSTRIALIZADO SEMI-ELABORADO. EXPORTAÇÃO. IMUNIDADE. NECESSIDADE DE PRÉVIA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE INOVAÇÃO PROCESSUAL. O Tribunal a quo tratou apenas de matéria infraconstitucional referente ao enquadramento dos produtos exportados na lista anexa do Convênio ICM 07/1989 e no conceito de produto industrializado semi-elaborado previsto na LC 65/1991. O exame da alegada ofensa a dispositivos constitucionais dependeria de prévia análise da legislação infraconstitucional que disciplina a matéria. Precedentes. Inviabilidade de apreciação, em agravo regimental, de tese não suscitada no recurso extraordinário. Precedentes. Agravo regimental conhecido e não provido”.
+    Ressalto que a jurisprudência desta Corte é no sentido de que suposta ofensa às garantias constitucionais da segurança jurídica, da prestação jurisdicional, do contraditório, da ampla defesa e do devido processo legal (art. 5º, incisos XXXVI, LIV e LV, da CF), se existente, seria meramente reflexa quando dependente do exame prévio de norma infraconstitucional. Confira-se o AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 20 de julho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
