@@ -1,0 +1,13 @@
+DECISÃO
+RECLAMAÇÃO – AUSÊNCIA DE IDENTIDADE – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO.
+    1. O reclamante afirma que o Juízo da 4ª Vara Federal da Seção Judiciária do Paraná, no Processo nº 5017789-75.2010.404.7000/PR – ajuizado contra a Companhia Paranaense de Energia e Copel Distribuição S/A –, inobservou o acórdão do Supremo concernente à medida cautelar na Ação Direta de Inconstitucionalidade nº 3.823, relatora Ministra Cármen Lúcia.
+    Segundo narra, a Portaria nº 1.291/2011 do Tribunal Regional Federal da 4ª Região previu a suspensão dos prazos processuais durante o recesso forense compreendido entre os dias 20 de dezembro e 6 de janeiro. Com base no referido ato, as rés na mencionada ação judicial teriam interposto apelação em prazo superior aos quinze dias previstos em lei. Consoante argumenta, após haver suscitado a intempestividade do recurso em razão de alegada inconstitucionalidade do ato administrativo, o Juízo, consignando a distinção entre recesso forense e férias coletivas, deixou de reconhecê-la.
+    Aponta a ofensa ao princípio da ininterruptibilidade da jurisdição, estampado no artigo 93, inciso XII, da Carta Federal e reconhecido no julgamento da mencionada ação direta. Assevera que “recesso” e “férias coletivas” são figuras sinônimas, ambas proibidas pela Emenda Constitucional nº 45/2004.
+    Em 11 de abril de 2012, determinei fossem solicitadas informações ao órgão reclamado. Antecipando-se, o reclamante peticionou insistindo no exame do pedido de concessão de liminar, considerada a inclusão do recurso de apelação na pauta de julgamentos de 9 de maio de 2012.
+    2. O descompasso entre o precedente evocado e o caso concreto é evidente. Na Ação Direta de Inconstitucionalidade nº 3.823, o Supremo suspendeu a eficácia de resolução administrativa que dispunha sobre férias coletivas nos meses de janeiro e julho. Situação absolutamente diversa é o recesso de final de ano, que não importa em gozo de férias ou paralisação absoluta dos serviços judiciários. O cotejo entre o artigo 93, inciso XII, da Carta Federal e os atos administrativos que estabelecem recessos é matéria que ainda não foi submetida ao crivo do Supremo. Daí não se poder, nesta via estreita, adentrar questão nova.
+    A eficácia vinculante das decisões judiciais, por comportar exceção ao princípio do livre convencimento do magistrado, bem como possibilitar o acesso direto ao Supremo, merece interpretação estrita. Óptica contrária inviabilizaria os trabalhos do Tribunal, já submetido a elevadíssima carga de processos. O reclamante deve apresentar a irresignação mediante o meio próprio.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília – residência –, 21 de julho de 2012.
+Ministro MARCO AURÉLIO
+Relator
