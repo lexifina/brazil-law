@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1284, de 23 de julho de 2012
+Altera a Instrução Normativa RFB nº 844, de 9 de maio de 2008, que dispõe sobre a aplicação do regime aduaneiro especial de exportação e importação de bens destinados às atividades de pesquisa e de lavra das jazidas de petróleo e gás natural (Repetro).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 273 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 587, de 21 de dezembro de 2010, e tendo em vista o disposto no art. 462 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
