@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “OBRIGAÇÃO DE NÃO FAZER. Envio de cartão de crédito sem prévia solicitação do consumidor. Cobranças mensais de seguro por perda e roubo sem que o consumidor tenha aderido à utilização do cartão. Decisão judicial antecipatória dos efeitos da tutela sustando a realização de qualquer cobrança referente ao cartão, sob pena de multa. Intimação pessoal da administradora da decisão. Reiteração da remessa de fatura para cobrança um mês depois da intimação. Sentença de mérito confirmando a obrigação de não fazer, com imposição de multa à administradora, no valor de R$500,00, por descumprimento de decisão judicial. Descumprimento de decisão judicial configurado. Multa devida. Sentença mantida. Recurso improvido”. (fl. 95)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao artigo 5º, inciso XXXV, do texto constitucional.
+    Sustenta-se, em síntese, o seguinte:
+    “(...)a manutenção do valor da multa aplicada para o cumprimento da decisão de fls., caso mantida, diante do não provimento da decisão recorrida, certamente, implicará na imputação da multa, resta patente à afronta ao artigo 5º, inciso XXXV da CF”. (fl. 50)
+     Decido.
+    O recurso não merece prosperar.
+    Inicialmente ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação violação ao artigo 5º, inciso XXXV, da Constituição Federal.
+    Anoto, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Além disso, no tocante ao mérito, verifico que o acórdão recorrido examinou a controvérsia à luz da legislação processual (Código de Processo Civil). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, 2ª Turma, DJe 24.2.2011, e do AI-AgR 731.718, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 10.11.2010, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes. II – Agravo regimental improvido”.
+     Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 24 de julho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
