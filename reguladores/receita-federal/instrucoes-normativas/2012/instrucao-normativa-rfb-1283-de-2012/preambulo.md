@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1283, de 18 de julho de 2012
+Altera a Instrução Normativa SRF nº 673, de 1º de setembro de 2006, que dispõe sobre a Declaração sobre a Opção de Tributação de Planos Previdenciários (DPREV), versão 1.0, aprova o programa aplicativo para seu preenchimento e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
