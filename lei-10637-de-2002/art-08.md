@@ -12,3 +12,4 @@ VIII - as receitas decorrentes de prestação de serviços de telecomunicações
 IX - (VETADO)
 X - as sociedades cooperativas;
 XI - as receitas decorrentes de prestação de serviços das empresas jornalísticas e de radiodifusão sonora e de sons e imagens.
+XII - as receitas decorrentes de operações de comercialização de pedra britada, de areia para construção civil e de areia de brita.
