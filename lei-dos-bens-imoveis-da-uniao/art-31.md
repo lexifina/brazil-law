@@ -1,7 +1,7 @@
 Art. 31. Mediante ato do Poder Executivo e a seu critério, poderá ser autorizada a doação de bens imóveis de domínio da União, observado o disposto no art. 23 desta Lei, a:
 I - Estados, Distrito Federal, Municípios, fundações públicas e autarquias públicas federais, estaduais e municipais;
 II - empresas públicas federais, estaduais e municipais;
-III - fundos públicos nas transferências destinadas a realização de programas de provisão habitacional ou de regularização fundiária de interesse social;
+III - fundos públicos e fundos privados dos quais a União seja cotista, nas transferências destinadas à realização de programas de provisão habitacional ou de regularização fundiária de interesse social;
 IV - sociedades de economia mista voltadas à execução de programas de provisão habitacional ou de regularização fundiária de interesse social; ou
 V - beneficiários, pessoas físicas ou jurídicas, de programas de provisão habitacional ou de regularização fundiária de interesse social desenvolvidos por órgãos ou entidades da administração pública, para cuja execução seja efetivada a doação.
 § 1º No ato autorizativo e no respectivo termo constarão a finalidade da doação e o prazo para seu cumprimento.
