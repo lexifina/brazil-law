@@ -1,0 +1,23 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da Primeira Região assim ementado:
+    “TRIBUTÁRIO. OBRIGAÇÃO/DEBÊNTURES EMITIDAS PELA ELETROBRÁS. PRESCRIÇÃO.
+    I. O prazo para resgate das obrigações ao portador emitidas pela Eletrobrás entre 1965/1967 e 1968/1974, em virtude de empréstimo compulsório sobre o consumo de energia elétrica, é de 10 e 20 anos, respectivamente, contados da data da aquisição compulsória dessas obrigações.
+    II. A partir do término do prazo de resgate, caso este não tenha sido antecipado, tem início o prazo prescricional de 5 anos para o exercício de todo e qualquer direito ou ação relativo ao crédito, a teor da inteligência do art. 1º do Decreto 20.910/32, art. 2º do Decreto 4.597/42 e art. 4º, § 11, da Lei 4.156/62.
+    III. Se o título foi emitido em 1976, de há muito esgotado o prazo para sua liquidação.
+    IV. Apelação não provida.” (fls. 52-55)
+    Opostos embargos de declaração, foram rejeitados (fls. 60-62).
+    Sustenta a recorrente, com base no art. 102, III, a, violação aos arts. 5º, XXXVI, 146, III, b, 150, IV, e 173, § 2º, todos da Constituição Federal.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC. Argui, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    Com efeito, o tema constitucional suscitado não foi objeto de consideração no acórdão impugnado, faltando-lhe, assim, o requisito do prequestionamento, que deve ser explícito (súmula 282).
+    Além disso, os embargos de declaração opostos não foram capazes de ultrapassar a exigência da súmula 356. É que a jurisprudência da Corte é pacífica no sentido de não ter por prequestionada a matéria pelo só fato da oposição de embargos declaratórios, sem ter-se caracterizado prévia omissão do tribunal a quo sobre questão constitucional que a parte haja suscitado no recurso sobre que versou a decisão embargada.
+    Noutras palavras, é preciso que a parte tenha proposto questão constitucional não apreciada pelo tribunal local no acórdão impugnável mediante embargos declaratórios. Se a não levantou a parte previamente, não pode o acórdão, que conheceu do recurso, ser tachado de omisso, nem, por conseguinte, ser passível de ataque por embargos tendentes a remediar omissão que não houve. Os embargos de declaração não podem suscitar questão constitucional nova, não arguida no recurso anterior como objeto necessário da decisão embargada. Confira-se, a respeito, o precedente:
+    “CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido.” (RE nº 534.546-AgR, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 19.09.2008)
+    Ademais, o acórdão impugnado decidiu a causa com base no conjunto fático-probatório e na legislação infraconstitucional pertinente (Lei nº 4.156/62, Decreto-lei nº 4597/42 e Decreto-lei nº 20.910/32), de modo que eventual ofensa à Constituição Federal seria, aqui, apenas reflexa (AI n° 818.161, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 6.12.11; AI n° 794.431, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 25.11.10; AI nº 618.070, Rel. Min. SEPÚLVEDA PERTENCE Primeira Turma, DJ de 2.3.07).
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de norma de âmbito infraconstitucional, seria apenas indireta à Constituição da República (súmula 280).
+    Outrossim, não se excogita existência de repercussão geral, que só convém a questões constitucionais.
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 25 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
+Documento assinado digitalmente
