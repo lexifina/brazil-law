@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 4ª Região e assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. GRATIFICAÇÃO DE ATIVIDADE EXECUTIVA - GAE INSTITUÍDA PELA LEI DELEGADA 13/92. INEXISTÊNCIA DE DIREITO ADQUIRIDO DA GAE. SUBSTITUIÇÃO PELA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA EDUCACIONAL - GDAE (LEI 10.302/01). ASSISTÊNCIA JUDICIÁRIA GRATUITA. PREQUESTIONAMENTO. 1. Não há direito adquirido assegurado ao funcionário de integração da Gratificação de Atividade Executiva substituída pela Gratificação de Atividade Técnico-Administrativa Educacional, que absorveu seu quantitativo ao novo padrão de vencimento. 2. Suspensa a exigibilidade da verba honorária, em razão de ser o demandante beneficiária da assistência judiciária gratuita. 3. Acolhida a pretensão de prequestionamento, para evitar que a inadmissibilidade dos recursos às instâncias superiores decorra exclusivamente da ausência de menção expressa aos dispositivos tidos pela parte como violados, que tenham sido implicitamente considerados no acórdão, por serem pertinentes à matéria decidida. 4. Apelação parcialmente provida.” (fl. 81)
+    Não foram opostos embargos de declaração.
+    Sustenta a parte recorrente, com base no art. 102, III, a, violação aos arts. 5º, XXXVI e 37, XV, da Constituição Federal.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC. Argúi, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa e que haveria, além de relevância jurídica, repercussão econômico-social.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu a causa com base na legislação infraconstitucional atinente e no conjunto fático-probatório, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (súmulas 279 e 280).
+    Outrossim, ainda que superado tal óbice, a tese do acórdão recorrido está em conformidade com a jurisprudência da Corte, como se vê à seguinte ementa exemplar:
+    “Agravo regimental no agravo de instrumento. Direito adquirido a regime jurídico. Impossibilidade. Precedentes. 1. A jurisprudência desta Corte está consolidada no sentido de que não há direito adquirido a regime jurídico. 2. Agravo regimental não provido. (AI 744.952 AgR/RJ, Rel. Min. DIAS TOFFOLI, Primeira Turma, Dje de 01.07.2011)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 25 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
