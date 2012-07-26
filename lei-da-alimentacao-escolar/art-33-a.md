@@ -1,0 +1,4 @@
+Art. 33-A. O Poder Executivo fica autorizado a conceder bolsas aos professores das redes públicas de educação e a estudantes beneficiários do Programa Nacional de Educação na Reforma Agrária - PRONERA.
+§ 1º Os professores das redes públicas de educação poderão perceber bolsas pela participação nas atividades do Pronera, desde que não haja prejuízo à sua carga horária regular e ao atendimento do plano de metas de cada instituição com seu mantenedor, se for o caso.
+§ 2º Os valores e os critérios para concessão e manutenção das bolsas serão fixados pelo Poder Executivo.
+§ 3º As atividades exercidas no âmbito do Pronera não caracterizam vínculo empregatício e os valores recebidos a título de bolsa não se incorporam, para qualquer efeito, ao vencimento, salário, remuneração ou proventos recebidos.
