@@ -1,0 +1,9 @@
+Solução de Consulta Disit/SRRF08 nº 151, de 12 de junho de 2012
+Assunto: Imposto sobre Produtos Industrializados - IPI
+PRODUTOS "NT". PRODUTOS IMUNES. SALDO CREDOR.
+Produtos com notação "NT" na Tipi, ainda que amparados pela imunidade, não podem compor o saldo credor do IPI apurado pelo estabelecimento industrial ou equiparado a industrial a cada período. Apenas os créditos do imposto relativos às aquisições de matéria-prima, produto intermediário, e material de embalagem que se destinem a emprego na industrialização de produtos tributados e ao abrigo da imunidade em decorrência da exportação para o exterior (art. 18, inciso II, do Ripi/2010) podem compor o saldo credor do IPI apurado em cada período pelo estabelecimento industrial ou pelo equiparado a industrial e, por conseguinte, compor o saldo credor acumulado a cada trimestre-calendário destes estabelecimentos.
+INDUSTRIALIZAÇÃO POR ENCOMENDA. CRÉDITO.
+O estabelecimento equiparado a industrial nos termos do art. 9º, inciso IV, do Ripi/2010, nas operações de industrialização que encomendar a terceiros, não deve escriturar os créditos de IPI relativos às aquisições de matérias-primas e materiais de embalagem que, sabidamente, se destinarão ao emprego na industrialização de produtos não-tributados (com notação "NT" na Tipi), ainda que estejam amparados pela imunidade do art. 18, inciso IV, do Ripi/2010 (tal como os produtos derivados de petróleo). Tais créditos não podem compor o saldo credor do IPI apurado em cada período e, por conseguinte, o acumulado a cada trimestre-calendário.
+Dispositivos Legais: Lei nº 9.779, de 1999, art. 11; Decreto nº 7.212, de 2010 (Ripi/2010), art.9º, inciso IV, art. 18, inciso II e IV, art. 251, §§ 1º e 2º; art. 254, I, "a"; art. 256, §§ 1º e 2º; art. 257; IN SRF nº 33, de 1999, art. 2º e 4º; e Ato Declaratório Interpretativo SRF nº 5, de 2006.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 151-2012.pdf]
