@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de Goiás e assim ementado:
+    “RESCISÓRIA. EMBARGOS INFRINGENTES. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. ERRO DE FATO. I- Viola literal disposição de lei, sendo, portanto passível de rescisão, via da ação própria, o acórdão que, ao julgar dissídio surgido entre as parte em sede de contrato de confissão de dívida, nega validade à cláusula que obriga o pagamento em arrobas de boi, na medida em que olvida a regra da interpretação dos contratos, inseta no art. 85 do Código Civil, segundo a qual, ‘Nas declarações de vontade se atenderá mais a sua intenção que ao sentido literal da linguagem’, desprezando, ainda, os princípios e normas insculpidas no art. 131, inciso 4º do Código Comercial, o qual recomenda, na interpretação das cláusulas dos contratos, observância aos costumes e práticas comerciais do lugar do contrato. Importa, igualmente, em violação (arts. 128 e 460), o julgamento extra petita, consistente em estabelecer correção da moeda de forma diversa da pactuada pelas partes no contrato de mútuo, sem que isto constitua pedido tanto nos embargos quanto no apelo interposto pelo embargante.
+    II- Configura erro de fato, para os efeitos da rescisória, o fundamento do decisum que deu pela iliquidez da dívida à vista de falta de mercado oficial que regule o preço da arroba do boi gordo, quando se tem que a Bolsa de Mercadorias de Goiás publica diariamente referido preço nos jornais da capital.
+    EMBARGOS INFRINGENTES CONHECIDOS E PROVIDOS. ACÓRDÃO REFORMADO. RESCISÓRIA JULGADA PROCEDENTE COM BASE NO VOTO DIVERGENTE. ANULADO O ACÓRDÃO RESCINDENDO E PROFERIDO UM NOVO JULGAMENTO DA CAUSA COM O ACOLHIMENTO DO PEDIDO DO AUTOR.”
+    Sustenta a recorrente, com base no art. 102, III, a, violação ao artigo 5º, XXXVI, da Constituição Federal.
+    2. Inconsistente o recurso.
+    A questão relativa ao cabimento da Ação Rescisória é infraconstitucional e por isso não enseja Recurso Extraordinário (art. 102, III, da Carta Magna), entendimento já sedimentado no âmbito dessa Corte. É o que se lê no AI nº 380.436, DJ 21.05.04, de minha relatoria:
+    “RECURSO. Extraordinário. Inadmissibilidade. Ação rescisória. Cabimento. Matéria processual. Ofensa constitucional indireta. Agravo regimental não provido. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, como a de ordem processual sobre cabimento de ação rescisória.”
+    No mesmo sentido: RE nº 580.182-AgR/ES, Rel. Min. DIAS TOFFOLI, DJe 23.04.2012, AI nº 525.434-AgR/MT, Min. SEPÚLVEDA PERTENCE, DJ 16.12.2005.
+    3. Ante o exposto, nego seguimento ao agravo (arts. 21, § 1º, RISTF, 38 da Lei nº 8.038, de 28.05.1990, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 28 de julho de 2012.
+Ministro CEZAR PELUSO
+Relator
+Documento assinado digitalmente
