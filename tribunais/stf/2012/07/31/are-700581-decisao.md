@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais ementado nos seguintes termos:
+    “ADMINISTRATIVO – PROCESSUAL CIVIL – AÇÃO ORDINÁRIA – SERVIDOR PÚBLICO MUNICIPAL – FÉRIAS-PRÊMIO – CONTAGEM DE TEMPO DE SERVIÇO PRESTADO SOB A ÉGIDE DO REGIME CELETISTA – EXISTÊNCIA DE PREVISÃO LEGAL – PROCEDÊNCIA PARCIAL DO PEDIDO – CONTAGEM EM DOBRO PARA FINS DE APOSENTADORIA – TEMPO FICTO – INADMISSIBILIDADE. 1 – A teor do art. 56, inc. III, da Lei Orgânica do Município de Belo Horizonte, o servidor do Município de Belo Horizonte que tenha tido o seu emprego público transformado em vínculo estatutário faz jus à contagem do tempo de serviço prestado sob a égide do regime celetista, para fins de cômputo de férias-prêmio, desde o ingresso na Administração Pública municipal. 2 - A EC nº 20/98 vedou a contagem de tempo ficto para fins de aposentadoria, revogando os dispositivos infraconstitucionais que previam cômputo de férias-prêmio em dobro para o ato de aposentação. 3 – Sentença reformada parcialmente, em reexame necessário, prejudicado o recurso voluntário”. (fl. 130)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação do art. 22, inciso I, do texto constitucional.
+    Alega-se usurpação da competência da União para legislar sobre direito do trabalho, sustentando o seguinte:
+    “(...) não poderia qualquer tipo de normatização exarada no âmbito da competência legislativa municipal, criar direitos trabalhistas novos a empregado público submetido a regime jurídico celetista, sob pena de vício formal de inconstitucionalidade”. (fl. 158)
+    Argumenta-se que, quando a recorrida estava sob o regime celetista, “não incidia sobre sua situação funcional a possibilidade de fruição do benefício das férias-prêmio, o qual (…) aplica-se tão somente em face de (sic) servidores públicos estatutários”. (fl. 160)
+    Alega ainda que o TJMG declarou a inconstitucionalidade formal do art. 19, § 2º, da Lei 5.809/90, que estende ao servidor celetista o direito a férias-prêmio.
+    Decido.
+    A irresignação não merece prosperar.
+    No caso dos autos, o tribunal de origem reconheceu a possibilidade de cômputo do tempo de serviço prestado sob o regime jurídico celetista para efeito de aquisição de férias-prêmio com fundamento na Lei Orgânica e nas Leis n. 5.809/90 e 7.169/96, todas do Município de Belo Horizonte.
+    Nos termos do Enunciado n. 280/STF, é inadmissível o recurso extraordinário quando sua análise implique rever a interpretação dada pelo tribunal a quo a normas infraconstitucionais locais, assim como se apresenta a hipótese dos autos. Nesse sentido, o AI-AgR 835.384, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 12.4.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCESSÃO DE FÉRIAS-PRÊMIO. 1) CÔMPUTO DE TEMPO DE SERVIÇO SOB REGIME CELETISTA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2) ALEGADA INCONSTITUCIONALIDADE DA LEI MUNICIPAL N. 5.809/1990: AUSÊNCIA DE PRESSUPOSTOS PROCESSUAIS DECLARADA PELO TRIBUNAL DE ORIGEM. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ante o exposto, nego seguimento ao recurso (art. 21, § 1º, do RISTF e art. 557, caput, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 31 de julho de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
