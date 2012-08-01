@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRABALHISTA. ADICIONAL POR TEMPO DE SERVIÇO.  HORAS EXTRAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. 1. PRELIMINAR DE NULIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. Não se reputam violados os arts. 93, IX, da CF e 832 da CLT, pois a preliminar é genérica, não indicando a reclamada qual ponto especificamente deixou de ser analisado pelo Regional em sede de embargos de declaração, limitando-se a afirmar que não houve apreciação acerca da matéria questionada nos declaratórios, a qual entende ser relevante para o desate da lide. 2. ADICIONAL POR TEMPO DE SERVIÇO. INTEGRAÇÃO. O Regional aplicou a Súmula nº 203 do TST ao caso, consignando que o adicional por tempo de serviço corresponde a uma gratificação, tendo, portanto, natureza salarial. Asseverou, ademais, que as normas coletivas aplicáveis ao contrato da autora não restringem a interpretação de que tal parcela deve integrar a remuneração para todos os efeitos, nem lhes retira o caráter salarial, apenas indicam a forma de cálculo do adicional, que seria sobre o salário-base. Assim, incólumes os artigos 5º, XXXVI, e 7º, XXVI, da Carta Magna. Agravo de instrumento conhecido e não provido.” (vol. 6)
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXVI, 7º, inc. XXVI, e 37, inc. XIV, da Constituição da República.
+    Assevera que:
+    “A Recorrente é sociedade de economia mista e sua conduta está pautada pelo princípio da legalidade, e assim está adstrita a proceder exatamente de acordo com o que a lei prevê ou determina, diferentemente do que ocorre na esfera civil, onde as empresas podem agir de todas as forma em que a lei não proíbe.
+    Desta forma, a conduta da Recorrente é estritamente legal, não devendo ser por isto penalizada, sendo onerosa ao erário, prática diversa.” (vol. 10. fl. 4).
+    Sustenta que “fora condenada pela aplicação do adicional por tempo de serviço nas horas extras, em afronta a Lei n. 4.860/65, que rege a atividade da Recorrente, e que dispõe sobre o regime de trabalho nos portos organizados que prevê, no artigo 7º, § 5º, que os serviços extraordinários executados pelo pessoal serão remunerados sobre o valor do salário hora ordinário do período diurno.” (vol. 10, fl. 16).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) ofensa indireta à Constituição; b) incidência da Súmula 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da jurisdição, se dependentes de análise prévia da legislação infraconstitucional (Consolidação das Leis do Trabalho e Lei 4.860/1965), configurariam apenas ofensa constitucional indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Este Supremo Tribunal Federal assentou que a alegação de contrariedade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 573.345-AgR, de minha relatoria, Primeira Turma, DJe 12.5.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
