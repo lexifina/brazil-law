@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDORA FALECIDA ANTES DA LEI N.º 8.112/90. PENSÃO POR MORTE. CONCESSÃO PARA O VIÚVO. PRINCÍPIO DA IGUALDADE. CF/88.
+    1 - Trata-se de relação de trato sucessivo, portanto, prescrevem apenas as parcelas anteriores ao quinquênio que antecedeu o ajuizamento da ação. Súmula n.º 85 do STJ.
+    2 - Não encontra amparo na Constituição Federal de 1988 a distinção entre homem e mulher para concessão de pensão por morte prevista na Lei n.º 3.373/58. Benefício devido ao viúva. Precedentes.
+    3 - Honorários advocatícios em 10% sobre o valor da condenação, excluídas as parcelas vincendas. Súmula 111 do STJ.
+    4 - Apelação improvida e parcial provimento à remessa oficial”.
+    Alega a recorrente violação dos artigos 195, caput e parágrafo 5°, e 201, inciso V, da Constituição Federal, uma vez que “a pensão por morte é regulada pela lei vigente à época do óbito e que e. Supremo Tribunal Federal ao julgar os RREE 204.193 e 204.735, dentre outros, fixou o entendimento de que a inclusão dos maridos de seguradas da previdência social, como beneficiários de pensão, exige lei específica, tendo em vista as disposições previstas nos artigos 195, caput, e seu 5°, e 201, V da Constituição Federal”.
+    Sem contrarrazões, o recurso extraordinário foi admitido.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    O acórdão recorrido está em sintonia com a jurisprudência desta Corte, consolidada no julgamento do RE nº 385.397/MG-AgR, Plenário, Relator o Ministro Sepúlveda Pertence, publicado no DJ de 6/9/07, assim ementado:
+    “I. Recurso extraordinário: descabimento. Ausência de prequestionamento do art. 5º, XXXVI, da Constituição Federal, tido por violado: incidência das Súmulas 282 e 356.
+    II. Pensão por morte de servidora pública estadual, ocorrida antes da EC 20/98: cônjuge varão: exigência de requisito de invalidez que afronta o princípio da isonomia.
+    1. Considerada a redação do artigo 40 da Constituição Federal antes da EC 20/98, em vigor na data do falecimento da servidora, que não faz remissão ao regime geral da previdência social, impossível a invocação tanto do texto do artigo 195, § 5º - exigência de fonte de custeio para a instituição de benefício -, quanto o do art. 201, V - inclusão automática do cônjuge, seja homem ou mulher, como beneficiário de pensão por morte.
+    2. No texto anterior à EC 20/98, a Constituição se preocupou apenas em definir a correspondência entre o valor da pensão e a totalidade dos vencimentos ou proventos do servidor falecido, sem qualquer referência a outras questões, como, por exemplo os possíveis beneficiários da pensão por morte (Precedente: MS 21.540, Gallotti, RTJ 159/787).
+    3. No entanto, a lei estadual mineira, violando o princípio da igualdade do artigo 5º, I, da Constituição, exige do marido, para que perceba a pensão por morte da mulher, um requisito - o da invalidez - que, não se presume em relação à viúva, e que não foi objeto do acórdão do RE 204.193, 30.5.2001, Carlos Velloso, DJ 31.10.2002.
+    4. Nesse precedente, ficou evidenciado que o dado sociológico que se presume em favor da mulher é o da dependência econômica e não, a de invalidez, razão pela qual também não pode ela ser exigida do marido. Se a condição de invalidez revela, de modo inequívoco, a dependência econômica, a recíproca não é verdadeira; a condição de dependência econômica não implica declaração de invalidez.
+    5. Agravo regimental provido, para conhecer do recurso extraordinário e negar-lhe provimento”.
+    Com base no julgado supra, este Supremo Tribunal Federal firmou entendimento de que o cônjuge varão tem direito a pensão por morte a partir do advento da Constituição Federal de 1988, tendo em vista a incidência do princípio da isonomia e a autoaplicabilidade do artigo 201, inciso V, do texto constitucional. Nesse sentido:
+    “AGRAVO REGIMENTAL. PREVIDENCIÁRIO. REGIME GERAL DE PREVIDÊNCIA. PENSÃO POR MORTE. CÔNJUGE VARÃO. ÓBITO ANTERIOR AO ADVENTO DA LEI 8.213/91. PRINCÍPIO DA ISONOMIA. INCIDÊNCIA DA REDAÇÃO ORIGINAL DO ART. 201, V, DA CONSTITUIÇÃO. AUTOAPLICABILIDADE. ART. 195, § 5º, DA CONSTITUIÇÃO. EXIGÊNCIA DE FONTE DE CUSTEIO. DESNECESSIDADE. Agravo regimental a que se nega provimento” (RE nº 352.744/SC-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 18/4/11).
+    “BENEFÍCIO PREVIDENCIÁRIO - PRECEITO CONSTITUCIONAL DE EFICÁCIA CONDICIONADA - MORTE - REGULAMENTAÇÃO POSTERIOR - IRRELEVÂNCIA - ARTIGO 201, INCISO V, DA CARTA FEDERAL. A circunstância de a morte do segurado haver ocorrido em data anterior à regulamentação do preceito constitucional não afasta o direito à pensão, devendo ser observados os parâmetros que passaram a viger” (RE nº 366.246/PA–AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 20/6/08).
+    Nesse mesmo sentido: AI nº 755.947/MG, relatora a Ministra Cármen Lúcia, DJe de 3/8/09; AI nº 567.179/MG-AgR, relator o Ministro Gilmar Mendes, DJe de 31/3/08; e RE nº 638.793/RJ, relator o Ministro Ricardo Lewandowski, DJe de 2/6/11.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1° de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
