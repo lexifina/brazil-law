@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. 1. JULGAMENTO DE RECURSO POR COLEGIADO INTEGRADO MAJORITARIAMENTE POR MAGISTRADOS DE PRIMEIRO GRAU CONVOCADOS. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DO JUIZ
+NATURAL. 2. ACÓRDÃO RECORRIDO FUNDAMENTADO. 3. ALEGAÇÃO DE AFRONTA AO ART. 5°, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Paraná:
+    “Direito processual civil – Ação de cobrança – sub-rogação – taxa condominial – prescrição afastada – aplicação do lapso de dez anos – promitente – vendedor sob-rogou-se nos direitos do credor originário – desnecessidade de constituição de mora da aquisição de um apartamento e de notório conhecimento a obrigatoriedade quanto ao pagamento de taxa condominial – figura da sub-rogação – pagamento dos valores devidos – afastamento de juros do parcelamento – presença de capitalização – alteração do índice da média aritmética do IGP + INPC-R, pelo INPC este mais adequado para correção monetária – Readequação do pagamento das custas processuais e honorários advocatícios. Recurso conhecido e parcialmente provido” (fl. 74).
+    Os embargos de declaração foram parcialmente acolhidos para prestar esclarecimentos:
+    “Saliente-se que segue a interpretação atual do Superior Tribunal de Justiça, não havendo nulidade pelo fato do julgamento realizado por Câmara em segundo grau formada por maioria de juízes convocados, nos ditames de lei, ocasione nulidade absoluta.
+    (…) O questionamento da recorrente – no que tange impugnação de fotocópias não autenticadas, realmente ocorreu uma omissão no sentido de esclarecimento no acórdão vergastado.
+    A falta de autenticação de documento, por si só, não leva a sua invalidade, mesmo porque se exige o apontamento de veementes indícios de que não se demonstram como verdadeiros. Publique-se, intime-se, retifique-se, registre-se. O restante permanece como está lançado“(fls. 106-118).
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVII, LIII, LIV e LV, 93, inc. III e IX, 94 e 98, inc. I, da Constituição da República.
+    Argumenta que “o acórdão revisando padece de nulidade absoluta, vez que proferido órgão colegiado composto em sua maioria por juízes de primeira instância, violando diretamente as normas constitucionais” (fl. 127).
+    Assevera que “não poderia a e. Corte a quo ter se negado, como fez, a apreciar as teses essenciais em comento, porque se as tivesse examinado o resultado do julgamento da apelação, certamente, seria favorável ao autor, rendendo ensejo além disso, do contrário, ao manejo de recurso perante a 3ª instância” (fl. 136).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) harmonia do acórdão recorrido com a jurisprudência deste Supremo Tribunal Federal; b) incidência das Súmulas 282 e 356 do Supremo Tribunal Federal; e c) ausência de contrariedade direta à Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão de direito não assiste ao Agravante.
+    5. Este Supremo Tribunal Federal firmou entendimento no sentido de que não afronta o princípio do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. JULGAMENTO DE APELAÇÃO POR TURMA JULGADORA COMPOSTA MAJORITARIAMENTE POR JUÍZES FEDERAIS CONVOCADOS. NULIDADE. INEXISTÊNCIA. OFENSA AO PRINCÍPIO DO JUIZ NATURAL. INOCORRÊNCIA. PRECEDENTES. RECURSO DESPROVIDO.
+    I – Não viola o postulado constitucional do juiz natural o julgamento de apelação por órgão composto majoritariamente por juízes convocados, autorizado no âmbito da Justiça Federal pela Lei 9.788/1999.
+    II – Colegiado constituídos por magistrados togados, integrantes da Justiça Federal, e a quem a distribuição de processos é feita aleatoriamente.
+    III – Julgamentos realizados com estrita observância do princípio da publicidade, bem como do direito ao devido processo legal, à ampla defesa e ao contraditório.
+    IV – Recurso extraordinário desprovido” (RE 597.133, Rel. Min. Ricardo Lewandowski, Plenário, DJe 6.4.2011).
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Ademais, este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código Civil e Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Decisão em conformidade com a jurisprudência da Corte. 4. Alegação de violação aos princípios do contraditório, da ampla defesa e do devido processo legal, se dependentes do reexame prévio de normas infraconstitucionais, configura ofensa reflexa à Constituição Federal. 5. Incidência das súmulas 279 e 636. 6. Agravo regimental a que se nega provimento” (AI 652.116-ED, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 29.6.2012).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
