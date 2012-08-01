@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo de instrumento interposto de decisão que inadmitiu recurso extraordinário (artigo 102, III, a, da Constituição Federal) que tem como violado o art. 5º, LVI, da Carta Magna.
+    Consta dos autos que o agravante foi condenado, como incurso no art. 311, caput, do Código Penal, à pena de 3 anos de reclusão, substituída por prestação de serviços à comunidade e prestação pecuniária.
+    Sustenta a parte agravante que houve afronta ao mencionado dispositivo constitucional, bem como ao art. 386, IV, do Código de Processo Penal, e que “o presente recurso extraordinário não pretende o reexame de prova, e sim, fazer valer o assegurado naqueles diplomas” (fls. 250)
+    Decido.
+    Verifico, inicialmente, que o agravo de instrumento é intempestivo.
+    Com efeito, como se vê da certidão de fls. 268, a publicação da decisão agravada deu-se em 09.03.2010 (terça-feira), tendo o prazo para interposição de agravo findado em 15.03.2010 (segunda-feira), ao passo que o agravo de instrumento deu entrada no Tribunal de Justiça do Estado de São Paulo em 17.03.2010 (fls. 02). Nesse sentido a Súmula 699 desta Corte e ainda:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO DE NATUREZA CRIMINAL. INCIDÊNCIA DA LEI N. 8.038/90 (ARTS. 26 A 28). PRAZO DE INTERPOSIÇÃO: CINCO (5) DIAS. INAPLICABILIDADE DA LEI N. 8.950/94. RECURSO INTEMPESTIVO. AGRAVO NÃO CONHECIDO. - O prazo de interposição do agravo de instrumento, contra decisão denegatória de recurso extraordinário deduzido em matéria penal, ainda é de cinco (5) dias, e não de dez (10) dias, eis que o advento da Lei n. 8.950/94 - por aplicar-se, unicamente, aos procedimentos de natureza civil - não importou em derrogação dos arts. 26 a 28 da Lei n. 8.038/90. Precedentes.” (AI 477.242, rel. min. Celso de Mello, DJ 02.02.2004)
+    Ademais, o recurso extraordinário encontra-se igualmente intempestivo. Conforme a certidão de fls. 246, a publicação do acórdão data de 28.09.2009 (segunda-feira), tendo o prazo para interposição do recurso expirado em 13.10.2009 (terça-feira), sendo que o recurso extraordinário foi protocolizado somente em 25.08.2009 (fls. 248).
+    Ainda que superado o intransponível óbice da intempestividade de ambos os recursos, o agravo igualmente não merece ser conhecido.
+    É que o Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.” (DJ de 06.09.2007).
+    A publicação da decisão impugnada, como já referido, deu-se em 28.09.2009 (fls. 246) e a interposição do recurso extraordinário não se fez acompanhar da devida demonstração, nas razões recursais, da existência de repercussão geral, o que inviabiliza o apelo extraordinário.
+    Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o mencionado dispositivo, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Verifico, por fim, que o recurso extraordinário não poderia ser conhecido, pois o recorrente não demonstra, em suas razões, em que consistiu a suposta ofensa ao dispositivo da Constituição, não sendo possível aferir o que busca com o presente recurso constitucional. Impõe-se, assim, a aplicação da Súmula 284 do Supremo Tribunal Federal, in verbis:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Do exposto, nego seguimento ao agravo (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
