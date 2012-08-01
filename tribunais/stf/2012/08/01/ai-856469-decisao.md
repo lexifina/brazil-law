@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E ADMINISTRATIVO. ATO DE IMPROBIDADE ADMINISTRATIVA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DE REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. CONCURSO PÚBLICO NÃO REALIZADO. RECEBIMENTO DA PRIMEIRA PARCELA DO RESPECTIVO CONTRATO ADMINISTRATIVO. DESPESAS PREPARATÓRIAS DO CONCURSO NÃO COMPROVADAS. AUSÊNCIA DA DEVIDA CONTRAPRESTAÇÃO. PREJUÍZO DO ERÁRIO CONFIGURADO. ENRIQUECIMENTO SEM CAUSA. DESPROVIMENTO DO RECURSO” (fl. 136).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls. 227-228).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. V, 37 e 93, inc. IX, da Constituição da República.
+    Sustenta que “de acordo com os termos estipulados pela própria Administração Pública, o Agravante deu início aos preparativos para a realização do concurso público, assumindo despesas conforme os documentos anexos nos autos do inquérito civil público. Assim, não é correto afirmar que o Agravante recebeu quantia dos cofres públicos sem realizar o serviço contratado, eis que até onde a administração municipal permitiu o trabalho do Agravante, o mesmo foi realizado” (fl. 4).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    6. O Tribunal de Justiça do Rio de Janeiro assentou:
+    “Trata-se de ação civil pública proposta pelo Ministério Público do Estado do Rio de Janeiro em face do Instituto de Pesquisa e Desenvolvimento Público e Privado – IPDEP, com fundamento no artigo 1º, inciso IV, da Lei 7.347/1985, objetivando a reparação de dano causado pelo réu ao erário.
+    Não assiste razão ao apelante.
+    O apelante efetivamente recebeu o valor da primeira parcela do Contrato n. 334/2002, e, instado pelo Ministério Público, não logrou comprovar os gastos que despendeu na preparação do irrealizado concurso público, objeto do contrato litigioso.
+    Assim, não comprovando os supostos gastos despendidos para preparar a realização do concurso público que não ocorreu afinal, bem como tendo o Município de Areal pago por serviços que não foram efetivamente prestados, impõe-se a conclusão que o apelante enriqueceu-se ilicitamente ao perceber a primeira parcela do contrato litigioso.
+    Em consequência, a não devolução do valor recebido pelo réu sem a devida contraprestação implica lesão ao erário, razão pela qual se impõe o ressarcimento do dano causado ao patrimônio público” (fls. 142-143, grifos nossos).
+    Concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Lei n. 7.347/1985). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO RECORRIDO DECIDIU A QUESTÃO COM BASE NA LEGISLAÇÃO ORDINÁRIA (LEIS 6.938/81 E 7.347/85). OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base na legislação ordinária (Leis 6.938/81 e 7.347/85). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II - Agravo regimental improvido” (AI 621.067-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 27.3.2009).
+    “Agravo regimental em agravo de instrumento. 2. Constitucional e Administrativo. Ação civil pública. Improbidade administrativa. Matéria infraconstitucional. Reexame de matéria fático-probatória. Enunciado 279 da Súmula do STF. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 853.731-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 11.4.2012).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. (...) In casu, o acórdão recorrido decidiu a lide com aplicação de normas infraconstitucionais a saber: Leis nºs 6.938/81 e 7.347/85, por isso que eventual violação à Constituição o foi de forma indireta ou reflexa, o que inviabiliza a admissibilidade do recurso extraordinário. 6. O recurso extraordinário não é servil ao exame de questões que demandam o revolvimento do contexto fático-probatório encartado nos autos, em face do óbice erigido pela Súmula 279 do STF, de seguinte teor: ‘Para reexame de prova não cabe recurso extraordinário’. 7. Agravo Regimental desprovido” (AI 747.154-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 19.5.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
