@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça de Minas Gerais e assim ementado:
+    “IMPROBIDADE ADMINISTRATIVA – AUSÊNCIA DE LICITAÇÃO PARA CONTRATAÇÃO DE CURSOS DE CAPACITAÇÃO NA ÁREA DE SEGURANÇA PÚBLICA – NECESSIDADE DE PRUDÊNCIA NA APLICAÇÃO CUMULATIVA DA SPENAS COMINADAS – ANÁLISE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO – PRINCÍPIOS DA ADEQUABILIDADE E DA PROPORCIONALIDADE – A mera antecipação de férias a servidor público não constitui ato de improbidade. Entretanto, a dispensa de licitação fundada em pressuposto inválido não pode ser avalizada pelo Judiciário, devendo ser aplicada alguma pena ao agente infrator, mas levando-se em conta as circunstâncias do caso, seja em razão da proporcionalidade a que a Lei convida o intérprete. Siga-se, aqui, o conselho de JUAREZ FREITAS, que, depois de chamar a atenção do intérprete para o explícito convite legal à proporcionalidade, avisa: “que não se alie cólera ao castigo”. Enfim, existe uma margem de manobra reservada ao Juiz – e que deve ser utilizada segundo os dados do caso concreto, sem excessivo rigor, sem fúria, e buscando encontrar, na aplicação da pena, a realização do justo que pode estar no “caminho do meio”, como querem os budistas.
+    V.V.P.
+    AÇÃO CIVIL PÚBLICA – IMPROBIDADE ADMINISTRATIVA – LESÃO AO ERÁRIO – INEXISTÊNCIA. Ante a gravidade das sanções previstas na Lei nº 8.429/92, a sua imposição deve ser precedida da necessária razoabilidade e proporcionalidade. Inexistindo lesão ao erário, assim como não sendo demonstrada a atuação dolorosa, culposa, com abuso de poder ou má-fé por parte do agente público, impõe-se julgar improcedente o pedido inicial.” (fl. 765)
+    Sustenta o recorrente, com fundamento no art. 102, III, a , violação ao art. 5º, LIV, 37, caput, XXI e § 4º, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC. Argúi, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu a causa com base na legislação infraconstitucional atinente incidente e no conjunto fático-probatório, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas ( súmula 279 ).
+    Não se excogita, pois, existência de repercussão geral, que só convém a questões constitucionais.
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 1 de agosto de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
