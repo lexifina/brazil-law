@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DE CRÉDITO. AUSÊNCIA DE INTERESSE RECURSAL. (...)
+    CORREÇÃO MONETÁRIA. Possibilidade de adoção da TR, nos contratos onde assim expressamente previsto. REPETIÇÃO DO INDÉBITO E COMPENSAÇÃO DE VALORES. Possibilidade. APELAÇÃO CÍVEL CONHECIDA EM PARTE E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDA” (fl. 27).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    O agravo não merece acolhida. O acórdão recorrido encontra-se em consonância com o entendimento firmado pelo Plenário deste Tribunal que, no julgamento da ADI 493/DF, Rel. Min. Moreira Alves, entendeu que a inconstitucionalidade da aplicação da TR como índice de atualização monetária é relativa apenas aos contratos anteriores à Lei 8.177/1991. Nesse sentido, transcrevo a ementa do AI 556.169-AgR/GO, Rel. Min. Sepúlveda Pertence:
+    “EMENTA: 1. Recurso extraordinário: descabimento: falta de prequestionamento dos dispositivos constitucionais tidos como violados, exigência que se faz ainda que a violação à Constituição tenha surgido no acórdão recorrido: incidência das Súmulas 282 e 356. 2. Correção monetária: decidiu o Supremo Tribunal na ADIn 493, Moreira Alves, RTJ 143/724, que a inconstitucionalidade da aplicação da TR (ou TRD) como índice de indexação é relativa apenas aos contratos anteriores à L. 8.177/91”.
+    Ademais, para dissentir do julgado atacado no concernente à aplicação da TR como índice de correção monetária do saldo devedor, na espécie, necessário seria o reexame de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF. Nesse sentido:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CONTRATO DE MÚTUO. TR. ATUALIZAÇÃO MONETÁRIA DO SALDO DEVEDOR. ALEGAÇÃO DE VIOLAÇÃO AO ART. 6º DA CONSTITUIÇÃO FEDERAL.OFENSA INDIRETA OU REFLEXA. SÚMULA STF 454. 1. O debate acerca da utilização da TR como índice de atualização do saldo devedor nos contratos do sistema financeiro de habitação é de nível infraconstitucional (Lei 4.380/64). 2. A apreciação do apelo extremo demanda o reexame de cláusulas contratuais (Súmula STF 454). Precedentes. 3. Agravo regimental improvido” (AI 746.435-AgR/DF, Rel. Min. Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
