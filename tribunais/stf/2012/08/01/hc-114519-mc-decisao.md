@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Distrito Federal em favor de Anderson da Silva Ferreira, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao RHC nº 30.488/DF, impetrado àquela Corte, Relator o Ministro Jorge Mussi.
+    Sustenta a impetrante, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista que a decisão do juízo de piso, ao determinar a produção antecipada de provas, o fez sem a devida fundamentação que comprovasse a urgência exigida pelo art. 366 do Código de Processo Penal.
+    Aduz, para tanto que:
+    “(...) de acordo com o art. 366 do Código de Processo Penal, é possível que o juiz determine a produção antecipada de provas consideradas urgentes na hipótese de o acusado ser citado por edital e não comparecer nem constituir advogado, quando então o processo ficará suspenso. Contudo, desde que faça de forma motivada, de modo que não se constate sua necessidade apenas em razão do decurso do tempo.
+    Ocorre que, a r. decisão não se fundamentou em razões objetivas, não adentrando concretamente na urgência da medida excepcional, referindo-se apenas ao fator tempo como sendo o maior inimigo da prova oral, não sendo suficiente para justificar a produção da prova deferida, exigindo-se a demonstração de fatos concretos a justificarem a produção antecipada da prova” (fl. 3 da inicial).
+    Requer, liminarmente, a concessão da ordem para que “seja reconhecida a nulidade da prova produzida antecipadamente, determinando seu desentranhamento (...)” (fl. 5 da inicial).
+    Examinados os autos, decido.
+    Narra a impetrante, na inicial, que:
+    “(...)
+    O Paciente, citado por edital, não compareceu ao interrogatório perante o juízo singular, razão pela qual o Mm. Juiz determinou a suspensão do processo e do prazo de prescrição. Determinou, ainda, a produção antecipada de provas, a pedido do representante do Ministério Público.
+    Todavia, a determinação não foi acompanhada de fundamentação que comprovasse a urgência exigida pelo artigo 366 do Código de Processo Penal. Por essa razão foi impetrado habeas corpus em favor do Paciente, tendo a colenda 1ª Turma Criminal do Egrégio TJDFT admitido e denegado a ordem.
+    Dessa decisão, foi impetrado habeas corpus junto ao Superior Tribunal de Justiça. Ocorre que, antes do julgamento do mérito, o Mm. Juízo singular realizou audiência para produção antecipada de provas, tendo a Defesa impugnado a realização do ato, em razão de ser ilícita a prova produzida antecipadamente, conforme prevê a súmula 455 do STJ e, ainda, por haver um recurso ordinário em habeas corpus pendente de julgamento. No entanto, a Mm. Juíza rejeitou a impugnação e determinou a oitiva das testemunhas.
+    Nessa toada, a Quinta Turma do Superior Tribunal de Justiça, quando do julgamento do recurso ordinário em habeas corpus, também decidiu de forma contraria ao que dispõe a súmula 455 do STJ (...)” (fl. 2 da inicial).
+    Transcrevo a ementa do acórdão ora questionado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. PRODUÇÃO ANTECIPADA DE PROVAS. ART. 366 DO CPP. PROVA TESTEMUNHAL. MEDIDA CAUTELAR. CARÁTER URGENTE. FALIBILIDADE DA MEMÓRIA HUMANA. AUSÊNCIA DE PREJUÍZO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO NÃO PROVIDO.
+    1. Não obstante o enunciado nº 455 da Súmula desta Corte de Justiça disponha que ‘a decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo’, a natureza urgente ensejadora da produção antecipada de provas, nos termos do citado artigo, é inerente à prova testemunhal, tendo em vista a falibilidade da memória humana, motivo pelo qual deve ser colhida o quanto antes para não comprometer um dos objetivos da persecução penal, qual seja, a busca da verdade dos fatos narrados na denúncia.
+    2. Não há como negar o concreto risco de perecimento da prova testemunhal tendo em vista a alta probabilidade de esquecimento dos fatos distanciados do tempo de sua prática, sendo que detalhes relevantes ao deslinde da questão poderão ser perdidos com o decurso do tempo à causa da revelia do acusado.
+    3. O deferimento da realização da produção antecipada de provas não traz qualquer prejuízo para a defesa, já que, além do ato ser realizado na presença de defensor nomeado para o ato, caso o acusado compareça ao processo futuramente, poderá requerer a produção das provas que entender necessárias para a comprovação da tese defensiva.
+    4. Na hipótese vertente, o temor na demora da produção de prova se justificou, além da condição de policial militar da testemunha, pelo fato de que o suposto delito narrado na denúncia ocorreu em 2009, isto é, quase 1 (um) ano antes de proferida a decisão que deferiu a produção antecipada de provas, correndo-se enorme risco de que detalhes relevantes do caso se perdessem na memória das testemunhas, motivo que legitima a medida antecipatória.
+    5. Recurso não provido”.
+    Essa é a razão pela qual se insurge a impetrante neste writ.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação apresentada nos autos demonstrar manifesto constrangimento ilegal, o que não se verifica na espécie.
+    Pelo que se tem no acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, nenhuma ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento da liminar. Com efeito, o julgado proferido por aquela Corte de Justiça encontra-se suficientemente fundamentado, restando justificado o convencimento formado.
+    Ademais, as razões invocadas pela impetrante para o deferimento da medida excepcional possuem caráter satisfativo, pois se confundem com o mérito da própria impetração, o que recomenda seu indeferimento conforme reiterada jurisprudência desta Corte. Nesse sentido: HC nº 94.888-MC/SP, Relator o Ministro Menezes Direito, DJ de 12/6/08; HC nº 93.164-MC/SP, Relator o Ministro Cezar Peluso, DJ de 22/2/08; e HC nº 92.737-MC/SP, Relatora a Ministra Cármen Lúcia, DJ de 29/10/07, entre outros.
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando a impetração devidamente instruída com as peças necessárias à perfeita compreensão da controvérsia, abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
