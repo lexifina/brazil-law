@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita no que importa:
+    “ADMINISTRATIVO – ESCRIVÃES ELEITORAIS E CHEFES DE CARTÓRIO ELEITORAL – GRATIFICAÇÃO MENSAL ELEITORAL – BASE DE CÁLCULO – RESOLUÇÃO Nº 19.784/97 E PORTARIA Nº 158/2002 DO TSE – LEGALIDADE.
+    (...)” (fl. 294).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV e LV, e 37, X e XV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 9.421/1996 e 10.745/2002; Resolução 19.784/1997 e Portaria 158/2002, ambas do TSE). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 597.908/PE, Rel. Min. Cármen Lúcia; RE 635.039, de minha relatoria; RE 605.947-AgR/RS, ARE 656.041-AgR/CE e AI 853.710-AgR/PR, Rel. Min. Luiz Fux; ARE 650.416-AgR/CE e AI 845.624-AgR/PE, Rel. Min. Gilmar Mendes.
+    Além disso, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo juízo a quo (Súmula 636 do STF).
+    Por fim, ressalto que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
