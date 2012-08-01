@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. REAJUSTE DE MILITARES. DECRETO N. 20.910/1932. PRAZO PRESCRICIONAL. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “ADMINISTRATIVO. SERVIDOR ESTADUAL. POLICIAL MILITAR. GRATIFICAÇÃO DE ENCARGOS ESPECIAIS POR ATO DE BRAVURA REVOGADA PELO DECRETO ESTADUAL Nº 26.249, DE 02/05/2000. ATO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO CONFIGURADA. VIOLAÇÃO DO ART. 1º DO DECRETO 20.910/32 QUE SE RECONHECE.
+    1. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que lei que suprime vantagem ou gratificação possui efeitos concretos, sendo a suspensão do pagamento da rubrica nos meses subsequentes mero reflexo do ato originário, situação que não caracteriza relação de trato sucessivo.
+    2. Esta Corte já enfrentou casos similares ao presente, manifestando-se na linha de que a pretensão deduzida em juízo sobre o ato que determinou a supressão da verba da Gratificação de Encargos Especiais por ato de bravura, excluída pela edição do Decreto do Estado do Rio de Janeiro nº 26.249, de 02/05/2000, trata de hipótese de prescrição do fundo de direito, porquanto a pretensão é de alteração da própria situação funcional. Precedentes.
+    3. No caso em apreço, tendo a Gratificação de Encargos Especiais sido extinta pelo Decreto Estadual n.º 26.249, de 02/05/2000, deve ser reconhecida a prescrição do fundo de direito, nos termos do art. 1.º do Decreto n.º 20.910/32, já que decorridos mais de 5 (cinco) anos da data da edição daquele diploma legal, que suprimiu a vantagem pleiteada, e a data do ajuizamento da ação, ocorrida em 01/08/2007.
+    4. Recurso especial provido”.
+    2.  O Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, XXV, XXXVI e LV, e 7º, VI, da Constituição da República.
+    Argumenta que “a [sua] demora […] em buscar o abrigo do Poder Judiciário para o restabelecimento da gratificação de encargos especiais por mérito e ato de bravura não atinge o seu fundo de direito, pois o direito foi reconhecido e vinha sendo pago pela Administração desde que foi editado o Decreto Concessivo de nº 22.316/96 e que se encontra em plena vigência. No caso concreto a situação do recorrente deve ser considerada como obrigação de trato sucessivo, passando a incidir a Súmula 85 do STJ e 443 do STF”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A controvérsia relativa ao reconhecimento da prescrição foi analisada com base na legislação infraconstitucional (Decretos n. 20.910/1932 e n. 26.249/2000). Para se concluir de forma diversa, seria necessária a análise dessas normas, o que não viabiliza a interposição do recurso extraordinário. Assim, a ofensa à Constituição da República, se existente, seria indireta.
+    Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. MILITARES. REAJUSTE DE 28,86%. PRESCRIÇÃO DECRETADA NA ORIGEM. DISCUSSÃO SOBRE EVENTUAL RENÚNCIA. DECRETO N. 20.910/1932. ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 661.242-ED, de minha relatoria, Primeira Turma, DJe 14.3.2012).
+    “Agravo regimental no agravo de instrumento. Policial Militar. Princípios do devido processo legal, do contraditório e da ampla defesa. Prescrição. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Para ultrapassar o entendimento firmado pelo Tribunal de origem quanto à ocorrência da prescrição, seria necessário interpretar a legislação infraconstitucional pertinente - Decreto nº 20.910/32 - e reexaminar as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 636 e 279 desta Corte. 3. Agravo regimental não provido” (AI 745.285-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1º.2.2012).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
