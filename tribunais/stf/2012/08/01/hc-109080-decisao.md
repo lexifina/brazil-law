@@ -1,0 +1,19 @@
+Decisão: Trata-se de habeas corpus impetrado em favor de EDINEI PEREIRA DA SILVA JÚNIOR, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça no HC nº 178.860/MG.
+    Extrai-se dos autos que o paciente foi condenado à pena de 3 anos e 4 meses de reclusão, pela prática do crime previsto no art. 33 da Lei nº 11.343/06, sendo-lhe vedada a substituição da pena privativa de liberdade por restritiva de direitos.
+    No presente habeas corpus, a impetrante requer a aplicação da minorante prevista no § 4º do art. 33 da Lei nº 11.343/06 em seu patamar máximo e a substituição da pena privativa de liberdade por restritiva de direito, ao fundamento de que o paciente preenche todos os requisitos objetivos e subjetivos para a obtenção de tal benefício.
+    É o relatório.
+    Decido.
+    A matéria objeto desta impetração é tema de jurisprudência consolidada, fato este que possibilita a apreciação monocrática do mérito deste feito, conforme autoriza o caput do art. 192 do RISTF.
+    No tocante ao pleito inerente à aplicação da causa de diminuição prevista no § 4º do art. 33 da Lei nº 11.343/2006, é da jurisprudência deste Tribunal que “o magistrado não está obrigado a aplicar tal causa de diminuição em seu patamar máximo quando presentes os requisitos para a concessão de tal benefício, tendo plena liberdade para aplicar a redução no ‘quantum’ reputado adequado de acordo com as peculiaridades do caso concreto” (HC 99.440/SP, da minha relatoria, DJe-090 de 16.05.2011).
+    Não obstante a referida autonomia do magistrado, é indubitável que a fixação do quantum de redução deve ser suficientemente fundamentada, o que não se verifica no caso.
+    Da leitura da dosimetria da pena realizada pelo Tribunal de Justiça de Minas Gerais, observo que o órgão julgador se manifestou nos seguintes termos:
+    “(...) tendo os apelantes sido absolvidos do delito de associação ao tráfico, fazem jus ao benefício previsto no art. 33 § 4º da Lei nº 11.343/06, pois além da primariedade e dos bons antecedentes, não há provas de que se dediquem a atividades criminosas, nem integram organização criminosa, razão porque hei por bem reduzir as penas aplicadas pelo delito do art. 33 e, 1/3 (um terço)”.
+    Assim, há de se impor ao julgador a realização de nova dosimetria da pena, suficientemente fundamentada, com a fixação do adequado quantum de redução previsto no § 4º do art. 33 da Lei nº 11.343/06
+    Já em relação ao pleito relativo à substituição da pena privativa de liberdade por restritiva de direitos, o Plenário desta Corte, na sessão realizada em 1°.9.2010, ao julgar o HC 97.256/RS, rel. min. Ayres Britto, julgou inconstitucional o art. 44 da Lei nº 11.343/2006, na parte em que vedava a substituição da pena privativa de liberdade por restritiva de direitos para os condenados por crime de tráfico de drogas.
+    Na mesma ocasião, o Tribunal entendeu pela remoção do óbice legal à conversão e atribuiu ao juízo da causa ou, caso transitada em julgado a condenação, ao juízo da execução o exame do preenchimento dos requisitos legais para a substituição da pena.
+    Diante do exposto, concedo a ordem, com base no caput do art. 192 do RISTF, para determinar ao Tribunal de Justiça do Estado de Minas Gerais ou, caso já transitada em julgado a condenação, ao juízo da execução que: (I) proceda, com urgência, a nova individualização da pena, fazendo-a, contudo, com observância da necessidade de uma adequada motivação no tocante ao quantum de redução da pena previsto no art. 33, § 4º, da Lei nº 11.343/2006; e (II) fixada a pena definitiva, delibere sobre a possibilidade de conversão da pena privativa de liberdade em restritiva de direito, conforme os requisitos dispostos no art. 44 do Código Penal.
+    Publique-se. Int..
+    Brasília, 1º de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
