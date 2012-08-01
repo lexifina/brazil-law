@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão o qual julgou abusivas as taxas relativas ao pagamento de despesas para a concessão de crédito bancário.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, II, LIV e LV; e 93, IX, do texto constitucional.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 5º, XXXV; e 93, IX, da Constituição Federal.
+    Saliento, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Ademais, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a afronta aos princípios constitucionais da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Confiram-se os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011.
+    Por fim, verifico que a controvérsia relativa à abusividade das taxas inseridas no contrato de arrendamento mercantil foi dirimida à luz da legislação infraconstitucional aplicável (CDC) e das cláusulas constantes do contrato firmado entre as partes, o que atrai o óbice constante nas Súmulas 454 e 636 do STF.
+    Cito, a propósito, as seguintes decisões monocráticas proferidas em casos análogos ao dos autos: AI 791.802, Rel. Min. Ayres Britto, DJe 27.9.2010; ARE 665.593, Rel. Min. Luiz Fux, DJe 1.2.2012; ARE 680.287, Rel. Min. Cármen Lúcia, DJe 21.5.2012; ARE 646.293, Rel. Min. Dias Toffoli, DJe 4.8.2011; ARE 643.032, Rel. Min. Cármen Lúcia, DJe 2.6.2011; e ARE 641.149, de minha relatoria, DJe 26.5.2011.
+    Ante o exposto, nego provimento ao recurso (544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
