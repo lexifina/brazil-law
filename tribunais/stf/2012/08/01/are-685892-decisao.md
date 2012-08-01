@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO.
+1) PROCESSUAL PENAL. PROVIMENTO DO RECURSO ESPECIAL: PERDA DE OBJETO DO RECURSO EXTRAORDINÁRIO E RESPECTIVO AGRAVO.
+2) PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “DATA-BASE. ALTERAÇÃO.
+    Não há previsão de alteração da data-base, mesmo quando reconhecida a prática de falta grave” (fl. 109).
+    2. O Agravante sustenta contrariedade ao princípio da legalidade, pois “o acórdão, em matéria de execução penal, interpretando os artigos 75, § 2º, do Código Penal, 111, parágrafo único, 112, caput, e 118, inciso I, todos da Lei de Execuções Penais, deixou de determinar a alteração da data-base para a concessão de futuros benefícios pelo cometimento de falta grave” (fl. 190).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal a quo sob o fundamento de ausência de ofensa constitucional direta (fl. 192).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. O presente agravo está parcialmente prejudicado, por perda superveniente de objeto.
+    Ao julgar o Recurso Especial 1.292.677 (fls. 263-266; trânsito em julgado certificado em 8.5.2012 - fl. 277), interposto pelo ora Agravante, o Superior Tribunal de Justiça a ele deu provimento “a fim de determinar que a prática de falta grave pelo reeducando implica em interrupção do lapso necessário para a concessão de futuros benefícios penais, salvo no tocante às benesses da comutação de penas e do livramento condicional” (fl. 266 – grifos nossos).
+    Assim, atendida a pretensão do Agravante, o recurso extraordinário e o agravo respectivo perderam, no ponto, o objeto (RE 429.799-AgR, Rel. Min. Marco Aurélio, Primeira Turma, DJ 26.8.2005; e RE 252.245, Rel. Min. Carlos Velloso, Segunda Turma, DJ 6.9.2001).
+    6. Em relação à questão remanescente (interrupção do prazo para comutação de penas e livramento condicional), razão jurídica não assiste ao Agravante.
+    7. Este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional (na espécie vertente, da Lei de Execução Penal e do Código Penal), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência deste Supremo Tribunal firmou-se no sentido de que "Os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada". Precedentes. 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2008 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRIMINAL. HOMICÍDIO. NULIDADE DO JULGAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de violação meramente reflexa do texto da Constituição. Agravo regimental a que se nega provimento” (AI 757.450-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 4.12.2009 – grifos nossos).
+    Incide no caso presente a Súmula n. 636 do Supremo Tribunal:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    8. Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, julgo prejudicado o presente agravo quanto à pretensão acolhida pelo Superior Tribunal de Justiça, por perda superveniente de objeto (art. 38 da Lei n. 8.038/90 e art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal), e a ele nego seguimento na parte remanescente (art. 38 da Lei n. 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
