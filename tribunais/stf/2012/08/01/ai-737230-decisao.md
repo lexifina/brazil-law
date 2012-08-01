@@ -1,0 +1,14 @@
+Decisão:
+    Vistos.
+    Caixa Beneficente da Polícia Militar interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário.
+    O agravante, no entanto, deixou de instruir os presentes autos com cópia da certidão de publicação do acórdão dos embargos de declaração, peça obrigatória exigida pelo § 1° do artigo 544 do Código de Processo Civil, com a alteração da Lei n° 10.352, de 26/12/01. Incidência da Súmula nº 288/STF. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PEÇAS OBRIGATÓRIAS À FORMAÇÃO DO INSTRUMENTO. SÚMULA 288/STF E ART. 544, § 1º, DO CÓDIGO DE PROCESSO CIVIL (REDAÇÃO ANTERIOR À LEI 12.322/2010). Não constam do instrumento as cópias do acórdão prolatado nos embargos de declaração e da respectiva certidão de publicação. Aplica-se ao caso o mesmo princípio que inspirou a Súmula 288, independentemente de lei expressa nesse sentido. Agravo a que se nega provimento” (AI n° 788.450/PR-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 22/5/12).
+    Ressalte-se, outrossim, que o Plenário desta Corte, na sessão de 8/10/08, ao julgar o RE nº 536.881/MG-AgR, Relator o Ministro Eros Grau, ratificou a orientação de ser incabível neste Supremo Tribunal Federal o suprimento de eventuais falhas ou realização de diligências com o objetivo de viabilizar o conhecimento de recurso interposto nas demais instâncias.
+    Ademais, vê-se que o recurso extraordinário foi interposto em 16/4/07 (fl. 89) antes mesmo do julgamento dos embargos de declaração, que somente ocorreu em 18/7/07 (fl. 122). A jurisprudência desta Corte é pacífica no sentido de ser extemporâneo o recurso extraordinário protocolado antes do julgamento dos recursos interpostos na Corte de origem, mesmo quando manejados pela parte contrária. Deveria a recorrente ter reiterado ou ratificado o recurso no novo prazo recursal, o que não ocorreu no presente caso. Nesse sentido, anote-se:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEÇA ESSENCIAL. AUSÊNCIA. SÚMULA 288 DO STF. RECURSO EXTRAORDINÁRIO. EXTEMPORANEIDADE. INTERPOSIÇÃO PREMATURA. AGRAVO IMPROVIDO. I - O agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas. II - É dever processual da parte zelar pela correta formação do instrumento. III - É extemporâneo o recurso extraordinário interposto antes do julgamento dos embargos de declaração opostos na instância a quo, sem que tenha havido a posterior ratificação. IV - Agravo regimental improvido” (AI nº 625.373/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 23/11/07).
+    Não conheço do agravo de instrumento.
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
