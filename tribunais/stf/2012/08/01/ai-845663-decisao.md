@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Universidade Federal da Paraíba interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 37, caput, e 71, incisos III, IV, IX e X, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR. GADF - GRATIFICAÇÃO DE ATIVIDADE PELO DESEMPENHO DE FUNÇÃO. REVISÃO DE ATO ADMINISTRATIVO. PRAZO DECADENCIAL DE 5 (CINCO) ANOS. ART. 54 DA LEI N° 9.784/99.
+    - Após a edição da Lei n° 9.784/99, o direito de revisão de atos eivados de nulidade por iniciativa da Administração passou a se submeter ao prazo decadencial de 5 (cinco) anos, exceto na hipótese de má-fé do administrado.
+    - Consoante entendimento jurisprudencial do Superior Tribunal de Justiça, o termo a quo para anulação de atos praticados anteriormente à edição da citada lei, com a incidência do prazo decadencial em tela, só poderá ser contado a partir da sua entrada em vigor, o que ocorreu a partir da publicação, em 1/2/1999.
+    - Tendo o impetrante recebido a rubrica OPÇÃO GADF LD 13/92 - APO desde abril/2000, fulminado pela decadência está o direito de a Administração anular tal ato através da Carta Circular n° 10/GAB/SRH/UFPB, que suspendeu o pagamento da referida vantagem a partir de julho/2005.
+    Remessa obrigatória improvida”.
+    Opostos embargos de declaração, foram parcialmente providos para sanar omissão quanto à legitimidade da recorrente.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem decidiu a controvérsia acerca da decadência administrativa e da impossibilidade de supressão da vantagem percebida pelo ora recorrido com fundamento na legislação infraconstitucional pertinente (Lei nº 9.784/99) e nos fatos e provas que compõe a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, destacam-se os seguintes julgados:
+    “ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (RE nº 490.850/DF–AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 5/6/09).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO DE RETIFICAÇÃO DE APOSENTADORIA EM RAZÃO DE EVENTUAL DECADÊNCIA ADMINISTRATIVA. LEI 9.784/99. VIOLAÇÃO AO ART. 5º, XXXVI E XL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A ausência de discussão, pelo acórdão recorrido, da matéria ventilada em sede de recurso extraordinário inviabiliza sua apreciação pelo STF, diante das Súmulas STF 282 e 356. 2. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. Precedentes. 3. Agravo regimental improvido” (AI nº 765.151/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 21/5/10).
+    Ante o expostos, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1° de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
