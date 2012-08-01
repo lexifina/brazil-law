@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. 1. PROFESSOR. REDUÇÃO DA CARGA HORÁRIA. DIFERENÇAS SALARIAIS.
+    Conforme registrado pelo Regional, a norma coletiva estabelece expressamente os requisitos da homologação sindical e da comprovação da redução no número de matrículas para que se considere válida a redução da carga horária, requisitos esses que não foram observados. Em tal contexto, não se caracteriza violação do art. 320 da CLT, nem contrariedade à Orientação Jurisprudência nº 244 da SBDI-1 e ao Precedente 78 da SDC do TST. Arestos inservíveis ao confronto, nos termos da Súmula nº 296, I, do TST. 2. MULTA CONVENCIONAL. Recurso desfundamentado. Incidência da alínea 'b' do art. 896 da CLT. 3. HONORÁRIOS ADVOCATÍCIOS. O Regional registra que foram preenchidos os requisitos previstos na Súmula 219 do TST. Dessarte, não se caracteriza violação do art. 14 e seguintes da Lei 5.584/70, nem contrariedade à Súmula 219 do TST. Arestos inservíveis. Agravo de instrumento conhecido e não provido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 7º, XXVI, da mesma Carta. Sustentou-se que ficou incontroverso nos autos a ausência de diminuição do valor das horas-aula e de qualquer redução salarial.
+    Aduziu-se, ainda, a não ocorrência de descumprimento da convenção coletiva de trabalho.
+    Alegou-se, por fim, que a recorrida “não preenche os requisitos exigidos para que lhe sejam concedidos honorários advocatícios e assistência judiciária”.
+    A pretensão recursal não merece acolhida.
+    Verifica-se, preliminarmente, que o art. 5º, II, da Constituição Federal não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo Juízo a quo (Súmula 636 do STF).
+    Quanto ao tema referente à condenação em honorários advocatícios, o acórdão recorrido decidiu a questão com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho – CLT e Lei 5.584/1970). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas integrantes de convenção coletiva de trabalho, o que atrai a incidência das Súmulas 279 e 454 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
