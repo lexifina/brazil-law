@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+    “TRIBUTÁRIO. CONTRIBUIÇÕES INSTITUÍDAS PELA LC 110/2001. CONSTITUCIONALIDADE.
+    1. Preliminares de inépcia da inicial, inadequação da via eleita e decadência que se rejeitam.
+    2. Segundo entendimento adotado no STF, os tributos instituídos pela Lei Complementar n.º 110/2001 têm a natureza jurídica das contribuições sociais de caráter geral e o único vício de que padece o diploma legal em comento é quanto a não observância do princípio da anterioridade.
+    3. O Mandado de segurança não é sucedâneo de ação de cobrança, não podendo surtir efeito para período anterior à sua impetração.
+    4. Apelação e remessa oficial providas.”
+    Sustenta-se, em síntese, a inconstitucionalidade das já referidas contribuições. Traz também pedido eventual, no sentido de que se permita pelo menos a compensação dos valores recolhidos indevidamente no ano de 2001.
+    Com razão, em parte, a recorrente.
+    O Supremo Tribunal Federal, em 13.06.2012, julgou conjuntamente as ADIs 2.556 e 2.568, de minha relatoria, que tratavam das contribuições previstas pela Lei Complementar 110/2001, para o FGTS.
+    As ações diretas de inconstitucionalidade foram julgadas prejudicadas em relação ao artigo 2º da LC 110/2001 e, quanto aos artigos remanescentes, parcialmente procedentes, apenas para declarar a inconstitucionalidade do artigo 14, caput, no que se refere à expressão "produzindo efeitos", bem como de seus incisos I e II.
+    Em consequência, ficou confirmada a constitucionalidade da contribuição prevista pelo art. 1º da Lei Complementar 110/2001.
+    Naquela oportunidade, esta Suprema Corte não se pronunciou sobre a alegada perda superveniente de objeto do tributo, devido ao atendimento da finalidade da exação.
+    Não obstante o fato de a análise do art. 2º da Lei Complementar 110/2001 ter ficado prejudicada, ele foi considerado constitucional quando da apreciação da medida cautelar, pelo Plenário desta Corte, nos termos da ementa infra transcrita:
+    “Ação direta de inconstitucionalidade. Impugnação de artigos e de expressões contidas na Lei Complementar federal nº 110, de 29 de junho de 2001. Pedido de liminar. - A natureza jurídica das duas exações criadas pela lei em causa, neste exame sumário, é a de que são elas tributárias, caracterizando-se como contribuições sociais que se enquadram na sub-espécie ‘contribuições sociais gerais’ que se submetem à regência do artigo 149 da Constituição, e não à do artigo 195 da Carta Magna. - Não-ocorrência de plausibilidade jurídica quanto às alegadas ofensas aos artigos 145, § 1º, 154, I, 157, II, e 167, IV, da Constituição. - Também não apresentam plausibilidade jurídica suficiente para a concessão de medida excepcional como é a liminar as alegações de infringência ao artigo 5º, LIV, da Carta Magna e ao artigo 10, I, de seu ADCT. - Há, porém, plausibilidade jurídica no tocante à argüição de inconstitucionalidade do artigo 14, ‘caput’, quanto à expressão ‘produzindo efeitos’, e seus incisos I e II da Lei Complementar objeto desta ação direta, sendo conveniente, dada a sua relevância, a concessão da liminar nesse ponto. Liminar deferida em parte, para suspender, ‘ex tunc’ e até final julgamento, a expressão ‘produzindo efeitos’ do ‘caput’ do artigo 14, bem como seus incisos I e II, todos da Lei Complementar federal nº 110, de 29 de junho de 2001.” (ADI 2.556 MC e ADI 2.568 MC, rel. min. Moreira Alves, Tribunal Pleno, DJ de 08.08.2003)
+    Nesse sentido: RE 558.157-AgR (rel. min. Eros Grau, Segunda Turma, DJ de 19.12.2007), RE 527.128-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJ de 13.02.2009), RE 494.557-AgR (rel. min. Marco Aurélio, Primeira Turma, DJ de 07.11.2008), RE 479.844-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 02.05.2008), AI 738.064 (rel. min. Gilmar Mendes, DJ de 04.05.2012), RE 599.428 (rel. min. Dias Toffoli, DJ de 24.10.2011) e RE 542.932-AgR (rel. min. Ayres Britto, DJ de 10.06.2011).
+    Ante o exposto, conheço do recurso extraordinário e dou-lhe parcial provimento, para aplicar ao caso o art. 150, III, b, da Constituição, e assim conceder parcialmente a segurança, apenas para permitir a compensação dos valores indevidamente recolhidos em 2001.
+    Sem condenação em honorários advocatícios (Súmula 512 do STF).
+    Custas ex lege.
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
