@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. HIPOTECA EM FAVOR DE INSTITUIÇÃO FINANCEIRA: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “uma vez quitado o preço perante a construtora, o interesse do terceiro de boa-fé deve prevalecer sobre o interesse de garantia da instituição financeira, devendo o banco exercer seu direito de crédito contra o real devedor, que, no caso em tela, é a construtora.
+    A matéria hoje está sumulada pelo Superior Tribunal de Justiça no verbete n. 308 de sua jurisprudência dominante, assim redigido:
+    ‘Súmula n. 308 – A hipoteca firmada entre a construtora e o agente financeiro, anterior ou posterior à celebração a promessa de compra e venda, não tem eficácia perante os adquirentes do imóvel’
+    Há, nestes casos, verdadeira unidade de propósitos entre a empresa construtora e incorporadora e a instituição financeira, de modo que esta última tem a obrigação de acompanhar a comercialização e os respectivos pagamentos efetuados pelos adquirentes, a fim de que à medida que as unidades vão sendo vendidas, o preço – ou a parte que nele lhe cabe – lhe seja repassada, quitando proporcionalmente o financiamento”.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 2º, § 2º, 5º, inc. II e XXXVI, e 48, inc. XIII, da Constituição da República.
+    Sustenta que “a decisão hostilizada (...), sem que estivessem presentes quaisquer das causas legais de extinção da hipoteca, todas elencadas no artigo 1.499 do Código Civil, houve por bem desconstituir o gravame. (...) a decisão atacada, sem lei que amparasse a pretensão do recorrido, acabou por legislar no caso concreto”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de incidência da Súmula n. 282 do Supremo Tribunal Federal e de ausência de contrariedade direta à Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Supremo Tribunal Federal assentou que a controvérsia sobre a eficácia de hipoteca constituída em favor de instituição financeira tem natureza infraconstitucional. Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL. EMBARGOS DE TERCEIRO. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. FINANCIAMENTO. INEFICÁCIA DA HIPOTECA CONSTITUÍDA EM FAVOR DE INSTITUIÇÃO DE CRÉDITO IMOBILIÁRIO. MATÉRIA INFRACONSTITUCIONAL. A questão referente à exclusão de imóvel dado em garantia hipotecária é de âmbito infraconstitucional. Por essa razão, incabível o recurso extraordinário, visto que não há ofensa direta à Constituição federal. Agravo regimental a que se nega provimento” (AI 426.381-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 30.4.2010).
+    “DIREITO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. INCORPORAÇÃO E CONSTRUÇÃO DE PRÉDIO RESIDENCIAL MEDIANTE FINANCIAMENTO GARANTIDO POR HIPOTECA. ACÓRDÃO QUE CONSIDEROU AS RESPECTIVAS UNIDADES HABITACIONAIS IMUNES AOS EFEITOS DA GARANTIA, EM FACE DO DISPOSTO NAS LEIS NºS 8.009/90 E 4.864/64 E DO PRINCÍPIO DA BOA-FÉ. ALEGADA OFENSA AOS PRINCÍPIOS DA LEGALIDADE E DO ATO JURÍDICO PERFEITO. O recurso, pela alegação de ofensa ao princípio da legalidade, seria de ser provido, em face do último fundamento do acórdão que, no ponto, estaria a impor ao credor hipotecário obrigação não prevista em lei, ou seja, a de abster-se de exercitar o direito de seqüela que constitui o principal atributo da hipoteca. Irresignação, todavia, insuscetível de ser apreciada, quanto ao mais, pelo STF, na via do recurso extraordinário, tendo em vista não apenas o óbice da Súmula 454, mas também a circunstância de que eventual contrariedade à Constituição teria ocorrido, no caso, de forma reflexa e indireta, não ensejando o apelo extremo. Recurso não conhecido” (RE 354.257, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 21.2.2003).
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
