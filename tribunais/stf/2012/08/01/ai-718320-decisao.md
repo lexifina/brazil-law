@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado pelo Superior Tribunal de Justiça, cuja ementa possui o seguinte teor:
+    “TRIBUTÁRIO. ICMS. EXECUÇÃO FISCAL. VIOLAÇÃO AO ARTIGO 535 DO CPC. SÚMULA 284 DO STF. REDIRECIONAMENTO CONTRA O SÓCIO, CUJO NOME CONSTAVA DA CDA. EXERCÍCIO DE GERÊNCIA CONFIGURADO. POSSIBILIDADE. SÚMULAS NºS 5 E 7, DO STJ.
+    I - O recurso especial não merece ser conhecido no que diz respeito a alegada violação ao artigo 535, I e II, do CPC, tendo em vista que o recorrente limita-se a aduzir que o Tribunal a quo deixou de se pronunciar acerca de questões basilares do litígio, sem, contudo, explicitar quais questões restaram omissas, contraditórias ou obscuras, o que atrai a incidência do enunciado sumular 284 do STF.
+    II - Conforme entendimento jurisprudencial, sendo a execução proposta somente contra a sociedade, a Fazenda Pública deve comprovar a infração a lei, contrato social ou estatuto ou a dissolução irregular da sociedade para fins de redirecionar a execução contra o sócio.
+    III - De modo diverso, se o executivo é proposto contra a pessoa jurídica e o sócio, cujo nome consta da CDA, não se trata de típico redirecionamento e o ônus da prova compete ao sócio, uma vez que a CDA goza de presunção relativa de liqüidez e certeza.
+    IV - A terceira situação consiste no fato de que, embora o nome do sócio conste da CDA, a execução foi proposta somente contra a pessoa jurídica, recaindo o ônus da prova, também neste caso, ao sócio, tendo em vista a presunção de liqüidez e certeza que milita a favor da CDA. Precedentes: EREsp nº 702.232/RS, Rel. Min. CASTRO MEIRA, DJ de 26/09/05, p. 169 e AgRg no REsp nº 720.043/RS, Rel. Min. LUIZ FUX, DJ de 14/11/05, p. 214.
+    V - No caso dos autos, na CDA constava o nome da empresa e dos sócios, do que se conclui que cabia a estes provar a inocorrência de uma das situações do art. 135 do CTN, com vistas a afastar o redirecionamento da execução. VI - O Tribunal de origem entendeu ser possível o redirecionamento da execução com base no exame do contrato social da empresa, bem como no substrato fático-probatório dos autos, sendo que o acolhimento da fundamentação do recorrente, com vistas a modificar esse entendimento, não pode ser efetuado em sede de recurso especial, em atenção aos enunciados sumulares nºs 5 e 7/STJ.
+    VII - Recurso especial parcialmente conhecido e, nessa parte, improvido.” (fls. 497)
+    Alega-se violação do disposto no art. 5º, XXXIV, a, XXXV, LIV e LV, da Constituição federal.
+    Decido.
+    Verifico que as alegadas ofensas à Constituição federal, tal como formuladas nas razões do recurso extraordinário, foram suscitadas originariamente nos embargos de declaração contra o acórdão que inadmitiu os embargos de divergência perante o Superior Tribunal de Justiça. Falta-lhes, pois, o indispensável prequestionamento (Súmula 282/STF).
+    Ademais, ainda que superado tal óbice, observo que a análise das alegadas ofensas à Constituição federal demandaria, no caso, o prévio exame da legislação infraconstitucional e do quadro fático-probatório, o que é vedado na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
