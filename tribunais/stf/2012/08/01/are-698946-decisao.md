@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário em que se discute a revisão de contrato de financiamento de veículo.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, III, 3º, I, II e III, 5º, caput, XXXII, 170, e 192, caput, da mesma Carta.
+    O agravo não merece acolhida. Os Ministros desta Corte, no AI 844.474-RG/MS, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da aplicação, aos contratos bancários, do art. 1º da Lei de Usura, que limita a taxa de juros a 12% ao ano, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgamento:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Contratos bancários. Art. 1º da Lei de Usura. Aplicação. Taxa de juros. Limite de 12% ao ano. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a aplicação, aos contratos bancários, do art. 1º da Lei de Usura, que limita a taxa de juros a 12% ao ano, versa sobre tema infraconstitucional”.
+    Ademais, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria a interpretação de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, trago à colação a ementa do AI 576.744-AgR, Rel. Min. Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO DE CONTRATO. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 1º de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
