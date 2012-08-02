@@ -1,0 +1,24 @@
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. NULIDADE DA CITAÇÃO. ALEGADO CERCEAMENTO DE DEFESA. INOCORRÊNCIA. OFENSA REFLEXA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da Constituição Federal).
+2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada e da prestação jurisdicional, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes.
+3. In casu, o acórdão recorrido assentou:
+“DESPESAS CONDOMINIAIS – AÇÃO DE COBRANÇA – NULIDADE DA CITAÇÃO JÁ APRECIADA NA FASE DE CONHECIMENTO – COISA JULGADA – DECISÃO REPUTADA CORRETA – AGRAVO NÃO PROVIDO”
+4. Agravo de instrumento a que se nega seguimento.
+    Decisão: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “DESPESAS CONDOMINIAIS – AÇÃO DE COBRANÇA – NULIDADE DA CITAÇÃO JÁ APRECIADA NA FASE DE CONHECIMENTO – COISA JULGADA – DECISÃO REPUTADA CORRETA – AGRAVO NÃO PROVIDO”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões de recurso extraordinário, a recorrente aponta ofensa ao artigo 5º, LV, da Constituição Federal. Sustenta a nulidade dos atos processuais e da sentença proferida.
+    O Tribunal a quo negou seguimento ao apelo extremo por entender que seu exame demandaria a análise de norma infraconstitucional.
+    No agravo de instrumento, alega-se a ocorrência de ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da Constituição Federal).
+    O recurso não merece prosperar.
+    A jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como aos limites da coisa julgada e da prestação jurisdicional, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Nesse sentido são os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. CONTRATO DE ADESÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta.” (AI 804.854-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010)
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental improvido.” (AI 756.336-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010)
+    Ex positis, nego seguimento ao agravo de instrumento, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 2 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
