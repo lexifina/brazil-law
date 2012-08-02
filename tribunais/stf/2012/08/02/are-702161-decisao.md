@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “PROCESSUAL CIVIL – AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – CONDENAÇÃO SOLIDÁRIA DOS LITISCONSORTES PASSIVOS – PAGAMENTO ESPONTÂNEO DA DÍVIDA NA CONTA BANCÁRIA DE UM DOS LITISCONSORTES – CABIMENTO – MANUTENÇÃO DA DECISÃO AGRAVADA – RECURSO CONHECIDO E NÃO PROVIDO. Em se tratando de condenação solidária, ambos os devedores respondem pela integralidade da dívida. Deve ser mantida a ordem judicial de bloqueio de numerário existente em conta bancária da executada, através do convênio ‘Bacen Jud’, no limite do valor exequendo, diante da ordem preferencial de bens determinada pelo art. 655 do CPC, especialmente se não demonstrada a onerosidade excessiva nem a inviabilidade da atividade empresária da devedora. Recurso conhecido e não provido” (fls. 359).
+    No recurso extraordinário, sustenta-se, em suma, que “a indignação da recorrente se faz premente a partir do momento em que houve a mantença da ordem judicial do bloqueio do numerário existente em conta bancária da então executada, ora recorrente, através do convênio ‘Bacen Jud’, em total infringência ao artigo 655 do CPC e, especificamente, em literal desconhecimento ao princípio constitucional da ampla defesa” (fls. 418).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o acórdão recorrido decidiu a controvérsia relativa à ordem legal da penhora com base na legislação processual aplicável à espécie, donde se conclui que eventual ofensa à Constituição, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido: AI-AgR 785.219, Rel. Min. Ayres Britto, Segunda Turma, DJe 8.10.2010; AI-AgR 763.295, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.9.2011; AI-AgR 285.125, Rel. Min. Ilmar Galvão, Primeira Turma, DJ 2.2.2001; e o AI-AgR 407.520, de minha relatoria, Segunda Turma, DJ 15.8.2003, este último com acórdão assim ementado:
+    “Agravo regimental em agravo de instrumento. 2. Penhora em dinheiro. Impossibilidade de aferição se os valores penhorados pertencem às reservas bancárias e da alegada infração à ordem processual de penhora. Matéria restrita ao âmbito da legislação infraconstitucional. Precedentes. 3. Agravo regimental a que se nega provimento”.
+    Além disso, ressalto que a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Ante o exposto, nego provimento ao recurso (544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 2 de agosto de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
