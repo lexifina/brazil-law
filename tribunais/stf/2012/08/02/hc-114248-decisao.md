@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Samuel Silva em favor de Rudnei Lima da Rosa contra decisão monocrática da lavra do Ministro Vasco Della Giustina (Desembargador convocado do TJRS), do Superior Tribunal de Justiça, que, nos autos do HC 238.817/SC, indeferiu a liminar pleiteada.
+    Em 02.7.2012, os autos foram conclusos, forte no artigo 13, VIII, do RISTF, ao eminente Ministro Ayres Britto, Presidente desta Suprema Corte, que assim deferiu o pedido de liminar:
+    “(...).
+    2. Pois bem, de saída, anoto que o paciente foi condenado por tráfico de drogas à pena de um ano e oito meses de reclusão, em regime inicialmente fechado. Pena, essa, que foi substituída por prestação de serviços à comunidade.
+    3. Prossigo para esclarecer que, em decorrência do descumprimento das exigências fixadas pelo Juízo sentenciante, tal prestação alternativa foi convertida em pena privativa de liberdade, a ser cumprida inicialmente em regime fechado.
+    4. Deu-se que, em face da determinação de cumprimento inicial de regime fechado, o impetrante ingressou com habeas corpus no Tribunal de Justiça do Estado de Santa Catarina, sendo a ordem denegada. Impetrado novo HC no Superior Tribunal de Justiça, houve o indeferimento da medida cautelar, em decisão singular assim fundamentada:
+    “In casu , mostra inviável, em um juízo de cognição sumária, acolher-se a pretensão do impetrante, porquanto a motivação que dá suporte ao pedido liminar confunde-se com o próprio mérito do mandamus , devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e do seu julgamento definitivo.
+    É mais sensato, portanto, reservar-lhe o exame ao órgão colegiado, conforme o entendimento deste Sodalício:
+    […].
+    Outrossim, vê-se que a matéria merece uma reflexão mais aprofundada, em razão da complexidade das circunstâncias jurídicas que cercam o caso. Com efeito, ressalta-se que as Turmas integrantes da Eg. Terceira Seção desta Corte Superior de Justiça têm posicionamentos díspares sobre a questão, no tocante à possibilidade de fixação de regime inicial diferente do fechado aos acusados por tráfico de drogas.“
+    (…).
+    7. No caso, tenho por configurados, em parte, os requisitos necessários à concessão do provimento cautelar requestado, apesar do óbice da Súmula 691/STF.
+    (…).
+    9. Sucede que esse entendimento jurisprudencial sumular comporta abrandamento, quando de logo avulta que o cerceio à liberdade de locomoção do paciente decorre de ilegalidade ou de abuso de poder (inciso LXVIII do art. 5º da CF/88). O que me parece ser o caso dos autos. Caso em que identifico a plausibilidade jurídica do pedido veiculado na impetração, ao menos em parte. Digo isso porque o Plenário, no HC 111.840, da relatoria do ministro Dias Toffoli (acórdão pendente de publicação), declarou de forma incidental a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/1990, com a redação dada pela Lei 11.464/2007. Declaração, essa, que resultou na possibilidade de fixação de regime inicial de pena diverso do fechado, nos casos de crimes hediondos.
+    10. Nessa contextura, defiro parcialmente a medida liminar requestada. O que faço apenas para remover o óbice descrito no § 1º do art. 2º da Lei 8.072/1990, com a redação dada pela Lei 11.464/2007, e determinar ao Tribunal de Justiça do Estado de Santa Catarina que analise, como entender de direito, o regime inicial de cumprimento de pena.”
+    Examinando os autos, verifico que o presente writ não foi devidamente instruído com cópia do inteiro teor do ato impugnado, bem como das decisões proferidas nas instâncias anteriores, em que se fixou o regime inicialmente fechado para cumprimento da pena do paciente. Tampouco foi juntada cópia da decisão de conversão da pena restritiva em pena privativa.
+    Dessa forma, inviabilizado o confronto entre as alegações dos impetrantes e os fundamentos do acórdão hostilizado, inclusive para a apreciação por esta Suprema Corte, do mérito deste writ.
+     A despeito da liminar deferida pela Presidência deste STF, entendo imprescindível a juntada das referidas peças.
+    Determino, pois, a intimação, em caráter de urgência, da Defesa do paciente para que, no prazo de 10 (dez) dias, emende a inicial, apresentando os atos ensejadores do alegado constrangimento ilegal.
+    Solicitem-se, em caráter de urgência, ao Relator do HC 238.817/SC, Ministro Vasco Della Giustina (Desembargador convocado do TJRS), do Superior Tribunal de Justiça, ao Tribunal de Justiça do Estado de Santa Catarina e ao Juízo de Direito da 1ª Vara Criminal da Comarca de Balneário Camboriú - SC informações atualizadas sobre o paciente Rudnei Lima da Rosa, devendo encaminhar cópias das decisões que fixaram ou mantiveram o regime inicial fechado do cumprimento de pena e que promoveram a conversão da restritiva de direito em pena privativa.
+    Publique-se.
+    Brasília, 02 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
