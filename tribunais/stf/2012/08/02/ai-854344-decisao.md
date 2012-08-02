@@ -1,0 +1,34 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo que manteve decisão do Tribunal do Júri pela qual o ora agravante foi condenado a cumprir pena de 15 (quinze) anos de reclusão, pela prática do crime de homicídio qualificado (art. 121, § 2º, I , CP).
+    No recurso extraordinário, interposto com fundamento na alínea a do permissivo constitucional, o recorrente alega que o acórdão impugnado viola o artigo 93, inciso IX, da Constituição Federal e o princípio da proporcionalidade das penas consagrado no art. 5º, XLVI, da Magna Carta.
+    Sustenta-se, no recurso extraordinário, que o Tribunal a quo não analisou as teses e argumentos expostos no apelo da defesa técnica, que objetiva demonstrar a fragilidade probatória e a consequente necessidade de novo julgamento pelos jurados. Aduz-se que a Corte paulista “preferiu afirmar, em 2 (duas) laudas, que as testemunhas de acusação afirmaram que o recorrente teria discutido com a vítima dias antes dos fatos e a teria ameaçado.” (fl. 78)
+    No que diz respeito à fixação da pena, alega-se que o acórdão recorrido não se ateve à primariedade como fator preponderante na individualização da pena.
+    Assim, pleiteia-se a nulidade do acórdão (fl. 87).
+    Contrarrazões ao recurso extraordinário às fls. 88-99.
+    Às fls. 100-102 verso, o Tribunal a quo inadmitiu o presente recurso, sustentando a incidência dos óbices das Súmulas 282 e 279 desta Suprema Corte, em razão da ausência de prequestionamento da matéria constitucional em segunda instância e da necessidade de revolvimento fático probatório, para análise da tese recursiva.
+    É o relatório.
+    O agravante alega que o Tribunal de Justiça de São Paulo violou o art. 93, IX, da Constituição, porque não teria enfrentado de forma suficientemente motivada a tese da defesa de que o Conselho de Sentença o condenou de forma manifestamente contrária à dos autos.
+    Entretanto, o Tribunal a quo teceu as seguintes considerações (fls. 51-52):
+    “A materialidade do crime restou demonstrada pelo exame necroscópico, às fls. 36-39.
+    Ouvido o réu negou a prática do crime. Alegou desconhecer o motivo de estar sendo acusado. Afirmou estar sendo vítima de perseguição por parte do delegado encarregado do caso.
+    Ricardo Santos de Almeida declarou ter visto o acusado, dias antes dos fatos, discutindo com a vítima. Alfredo mostrou uma arma para Paulo e disse ‘Alemão, esta aqui está guarda dada para você.’ Ricardo reconheceu o apelante como sendo a pessoa que ameaçou a vítima. Alfredo achava que Paulo havia atirado em um colega seu. Ou seja, crime se deu por motivo de vingança. Torpe, portanto.
+    Luiz Carlos Sampaio, pai da vítima, afirmou que o réu foi atrás de Paulo, para conseguir chegar ao autor de um crime praticado contra um colega de Alfredo. O apelante já havia encostado a arma na cabeça da vítima, em oportunidade anterior. Amigos da vítima disseram que Alfredo vinha ameaçando Paulo.
+    Alexandre Ferreira Anacleto declarou que o réu tem fama de matador.
+    Marcelo Francine Sampaio, irmã de Paulo, afirmou ter ouvido dos amigos da vítima, que Alfredo o estaria ameaçando.
+    O laudo de fls. 136-144 atestou que o projétil que atingiu a vítima foi disparado da arma do acusado (apreendida quando da prática de outro crime).
+    Assim, demonstrado que a decisão dos senhores jurados não foi contrária à prova dos autos, de rigor era a condenação”.
+    O Tribunal a quo ressaltou, ainda, que não é qualquer dissonância entre o veredicto e os elementos de convicção colhidos na instrução que autoriza a cassação do julgamento, pois é permitido ao Júri optar por uma das versões verossímeis dos autos.
+    Como se vê, não procede a alegação de que o acordão recorrido teria violado o princípio da inafastabilidade da prestação jurisdicional, na medida em que o Tribunal a quo o fundamentou à saciedade.
+    Ademais, a admissão de fundamentação sucinta é unânime neste Supremo Tribunal Federal, entendimento este que culminou, inclusive, no reconhecimento da repercussão geral da questão, para manter a jurisprudência desta Suprema Corte, conforme veiculado no AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010 (tema 339), cuja ementa se transcreve:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Quanto à alegação de que a Corte paulista não considerou a primariedade do ora agravante como circunstância preponderante, a manutenção da dosimetria da pena foi fundamentada da seguinte forma (fl. 51):
+    “Os documentos juntados no apenso (antecedentes) demonstram que o réu é portador de personalidade distorcida e má formada, sendo pessoa com vida voltada para a prática de delitos. Desfavoráveis as circunstâncias do artigo 59, do CP, de rigor era a fixação da pena base acima do patamar mínimo”.
+    Contudo, essa alegação não deve ser conhecida, pois o ora agravante, quando da interposição do presente recurso, não juntou aos autos o cópias dos antecedentes constantes do apenso, os quais serviram de fundamento para a exasperação da pena. O recorrente limitou-se a afirmar sua primariedade, sem trazer aos autos documentos imprescindíveis à compreensão da controvérsia.
+    Incide, portanto, o óbice da Súmula 288 desta Suprema Corte, segundo a qual “nega-se provimento a agravo para a subida de recurso extraordinário, quando faltar no traslado o despacho agravado, a decisão recorrida, a petição de recurso extraordinário ou qualquer peça essencial à compreensão da controvérsia.”
+    Sobre a questão, entre inúmeros, confiram-se o julgamento do AI-AgR 735394, Rel. Min. Marco Aurélio, Primeira Turma, DJe 22.2.2011; AI-AgR 82749, Rel. Min Ricardo Lewandowski, Primeira Turma, DJe 14.6.2011 e AI-AgR-segundo 740297, Rel. Min. Luiz Fux, Primeira Turma, DJe 25.5.2012.
+    Ademais, a violação ao princípio constitucional da proporcionalidade das penas não foi devidamente prequestionada, como exige o enunciado da Súmula 282 do Supremo Tribunal Federal.
+    Ante o exposto conheço em parte do presente agravo de instrumento e nessa extensão nego-lhe provimento (arts. 21, § 2º, do RISTF e 554, § 1º, do CPC).
+    Publique-se.
+    Brasília, 2 de agosto de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
