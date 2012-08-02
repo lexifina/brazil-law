@@ -1,0 +1,17 @@
+Referente à Petição STF 33.700, protocolada em 27.6.2012.
+    Patrick de Oliveira Berriel impetrou o presente writ em favor de Thiago de Araújo Moreira contra decisão colegiada proferida nos autos do HC 187.210/MT do Superior Tribunal de Justiça.
+    Em 15.5.2012, os Ministros integrantes da Primeira Turma deste Supremo Tribunal Federal, por maioria de votos, denegaram a ordem pleiteada.
+    O impetrante, por intermédio da referida petição, requer a disponibilização da gravação do julgamento realizado na sessão de 15.5.2012, no qual proferiu sustentação oral.
+    Ressalto, inicialmente, que o Ato Normativo nº 12/2010, indicado pelo impetrante, altera dispositivos do regulamento da Secretaria e especifica a atividade de áudio e vídeo, não prevendo o fornecimento de gravação das sessões de julgamento ao público externo.
+    Na redação original do § 5º do artigo 96 do Regimento Interno deste Supremo Tribunal Federal era vedado a transcrição de gravação dos trabalhos e debates ocorridos durante a sessão de julgamento.
+    Todavia, em Sessão Administrativa realizada em 24.8.2005, esta Suprema Corte, ao editar a Instrução Normativa nº 28, de 31.8.2005, resolveu autorizar o fornecimento, por escrito, em áudio, vídeo ou meio eletrônico, de cópia de sustentação oral proferida em sessão de julgamento do Pleno e das Turmas, desde que a expensas do interessado. A solicitação dirigida à Secretaria das Sessões deve ser acompanhada de mídia nova, para áudio ou vídeo; de e-mail do interessado, para arquivo eletrônico; ou de recolhimento do valor referente às cópias, para texto em papel.
+    Com a edição da Emenda Regimental nº 26, de 22.10.2008, houve a alteração do art. 96 do RISTF, dispondo que “em cada julgamento a transcrição do áudio registrará o relatório, a discussão, os votos fundamentados, bem como as perguntas feitas aos advogados e suas respostas”. O mencionado dispositivo regimental foi acrescido com o § 7º que permite ao Relator sorteado ou o Relator para o acórdão, antes da publicação, a divulgação, em texto ou áudio, do teor do julgamento.
+    Na espécie, o impetrante requer a gravação da sessão de julgamento do feito, no qual sustentou oralmente, para fins de documentação. Considero que a alteração regimental facultou ao Relator do feito, inclusive antes da publicação, disponibilizar o teor do julgamento. Não vislumbro, portanto, qualquer óbice ao pedido formulado.
+    No mesmo sentido, registro que o Ministro Gilmar Mendes, nos autos da ADI 4.178/GO, deferiu pedido idêntico nos seguintes termos:
+    “(...). Por meio da Petição nº 18.163/2010 (fl. 504), a ANOREG requer a íntegra da gravação, em áudio e vídeo, da Sessão Plenária de julgamento da medida cautelar. Defiro o pedido e determino o desentranhamento da mídia anexada à fl. 505 dos autos (um DVD-R 120 min 4.7 GB) e seu encaminhamento à Secretaria de Comunicação do Tribunal para a gravação do vídeo do julgamento da medida cautelar nesta ADI nº 4.178, ocorrido na Sessão Plenária do dia 4 de fevereiro de 2010.”
+    Ante o exposto, defiro o pedido formulado na Petição STF 33.700/2012, o qual deverá ocorrer a expensas do impetrante, que deverá apresentar mídia compatível para gravação.
+    Após, à Secretaria para que providencie a gravação do julgamento do HC 108.514/MT, realizado em sessão da 1ª Turma desta Corte no dia 15.5.2012, em mídia fornecida pelo impetrante.
+    Publique-se.
+    Brasília, 02 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
