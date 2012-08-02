@@ -1,0 +1,24 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA. ANULAÇÃO DE NEGÓCIO JURÍDICO. AUSÊNCIA DE LICITAÇÃO. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. ART. 37, § 5º, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. RECURSO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra decisão do Tribunal de Justiça de Santa Catarina:
+    “AÇÃO CIVIL PÚBLICA – DECLARAÇÃO DE NULIDADE DE NEGÓCIO JURÍDICO – PRESCRIÇÃO – DECRETAÇÃO DE OFÍCIO”.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado o § 5º do art. 37 da Constituição da República.
+    Argumenta que “o prejuízo ao erário pela ausência de processo licitatório é manifesto, pois foi afastado do Poder Público a possibilidade de vender o imóvel pelo menor preço, justificando-se, assim, a necessidade de recomposição do patrimônio da entidade pública afetada pela medida administrativa legal”.
+    Afirma que o “Tribunal a quo, ao manter a decisão que extinguiu o feito pelo reconhecimento da ´rescrição, desconsiderando o explícito pedido de ressarcimento ao erário existente na inicial da ação civil pública, contrariou o disposto no art. 37, § 5º, da Constituição da República, uma vez que este é expresso ao determinar que as ações que visam ao ressarcimento ao erário não estão sujeitas ao prazo prescricional, o que exige a reforma da decisão recorrida”.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica assiste ao Recorrente.
+    4. No voto condutor do acórdão recorrido, o Desembargador Relator asseverou:
+    “O Ministério Público insiste que o seu pleito pressupõe o ressarcimento ao erário, em razão do retorno do imóvel à propriedade da CODISC.
+    Da leitura do pedido inicial, contudo, essa conclusão não se verifica. Ademais, haver-se-ia de falar em pedido de ressarcimento caso o autor estivesse almejando a indenização em razão da venda ilegal do terreno.
+    Importa frisar que o retorno da propriedade do imóvel à CODISC seria consectário da declaração de nulidade do negócio jurídico. Não restou constatado, portanto, pedido cumulativo visando o ressarcimento do erário”.
+    5. Ao contrário do que afirmado no acórdão recorrido, verifico existir na petição inicial da ação civil pública pedido de ressarcimento ao erário, o que afasta o fundamento adotado para o reconhecimento da prescrição. Ademais, a jurisprudência deste Supremo Tribunal assentou ser imprescritível ação de ressarcimento de dano ao erário, nos termos do art. 37, § 5º, da Constituição da República. Nesse sentido:
+    “EMENTA: MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. BOLSISTA DO CNPq. DESCUMPRIMENTO DA OBRIGAÇÃO DE RETORNAR AO PAÍS APÓS TÉRMINO DA CONCESSÃO DE BOLSA PARA ESTUDO NO EXTERIOR. RESSARCIMENTO AO ERÁRIO. INOCORRÊNCIA DE PRESCRIÇÃO. DENEGAÇÃO DA SEGURANÇA. I - O beneficiário de bolsa de estudos no exterior patrocinada pelo Poder Público, não pode alegar desconhecimento de obrigação constante no contrato por ele subscrito e nas normas do órgão provedor. II - Precedente: MS 24.519, Rel. Min. Eros Grau. III - Incidência, na espécie, do disposto no art. 37, § 5º, da Constituição Federal, no tocante à alegada prescrição. IV - Segurança denegada” (MS 26.210/DF, Rel. Min. Ricardo Lewandowski, Plenário, DJ 10.10.2008).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. RESSARCIMENTO DE DANOS AO ERÁRIO. PRESCRIÇÃO. Incidência, no caso, do disposto no artigo 37, § 5º, da Constituição do Brasil, no que respeita à alegada prescrição. Precedente. Agravo regimental a que se nega provimento”(RE 608.831-AgR/SP, Rel. Min. Eros Grau, Segunda Turma, DJ 25.6.2010).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONTRATO. SERVIÇOS DE MÃO-DE-OBRA SEM LICITAÇÃO. RESSARCIMENTO DE DANOS AO ERÁRIO. ART. 37, § 5º, DA CF. PRESCRIÇÃO. INOCORRÊNCIA. 1. As ações que visam ao ressarcimento do erário são imprescritíveis (artigo 37, parágrafo 5º, in fine, da CF). Precedentes. 2. Agravo regimental a que se nega provimento”(AI 712.435-AgR/SP, Rel. Min. Rosa Weber, Primeira Turma, DJ 12.4.2012).
+    E ainda: RE 574.867, de minha relatoria, decisão monocrática, DJ 9.6.2010; RE 474.750, Rel. Min. Ellen Gracie, DJe 1º.02.2011; RE 606.224, Rel. Min. Ayres Britto, decisão monocrática, DJe 8.3.2010; AI 490.944, Rel. Min. Marco Aurélio, decisão monocrática, DJe 13.5.2009.
+    6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1ª-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para afastar a prescrição no tocante ao ressarcimento dos danos causados ao erário e determinar o retorno dos autos ao Tribunal de origem para novo julgamento como de direito.
+    Publique-se.
+    Brasília, 2 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
