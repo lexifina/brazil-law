@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado da Paraíba, cuja ementa tem o seguinte teor (fls. 869-870):
+    “Previdência Privada. Apelações cíveis Fundação Sistel de Seguridade Social. Prescrição quinquenal a contar do recebimento a menor. Ocorrência em relação a um participante. Ato jurídico perfeito. Direito adquirido. Impossibilidade. Infringência aos artigos 195, § 50, 201 e 202 da CF. Inocorrência. Plano de previdência privada. Desligamento. Associados. Resgate da reserva de poupança. Reajuste dos valores restituídos. Correção monetária. Aplicação de índices que revelam a desvalorização da moeda. Índice. IPC. Expurgos inflacionários. Observância. Juros de mora. 1 por cento um por cento ao mês. Manutenção da sentença. Recursos desprovidos.
+    - A prescrição das ações que discutem direitos advindos de Previdência Complementar e de cinco anos, a contar da data em que foi recebido o valor inferior ao devido.
+    - A intervenção do o Poder Judiciário nas relações jurídicas entre os particulares não fere, necessariamente, o ato jurídico perfeito, o direito adquirido nem o princípio da isonomia.
+    - O associado, que se retira da entidade previdenciária privada, tem o direito de receber a restituição das contribuições vertidas em seu favor, devidamente corrigidas por índices que revelam a realidade da desvalorização da moeda.
+    - Os juros moratórios, em face do caráter alimentar do debito, fluem no percentual de l por cento a m , contados a partir da citação.” (Grifos originais)
+    Nas razões de recurso extraordinário, alega-se violação do disposto nos arts. 1º, IV; 5º, caput, I, II, XXII e XXXVI; 170, II, § único; 195, § 5º; 201 e 202, da Constituição federal.
+    É o relatório. Decido.
+    A análise das apontadas violações ao texto da Constituição demandaria o exame prévio da legislação infraconstitucional e do contrato. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, as Súmulas 279, 454 e, mutatis mutandis, 636 desta Corte.
+    Nesse sentido, AI 760.557-ED (rel. min. Cármen Lúcia, Primeira Turma, DJe de 05.02.2010), AI 759.126 (rel. min. Marco Aurélio, DJe de 01.09.2009), AI 753.372 (rel. min. Ayres Britto, DJe de 24.06.2009), AI 741.447 (rel. min. Ellen Gracie, DJe de 14.09.2009), AI 733.325 (rel. min. Menezes Direito, DJe de 03.02.2009) e AI 733.435 (rel. min. Cezar Peluso, DJe de 31.08.2009).
+    Ademais, esta Corte reafirmou a jurisprudência ao rejeitar a existência de repercussão geral do tema, por ausência de matéria constitucional, conforme se depreende da ementa do RE 582.504-RG (rel. min. Cezar Peluso, DJe de 09.10.2009 – Tema 174):
+    “EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.” (Grifo original)
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 2 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
