@@ -1,0 +1,16 @@
+Referente à Petição STF 38.481, protocolado em 03.8.2012.
+    O presente habeas corpus foi impetrado por Manoel Carlos Francisco dos Santos e outro em favor de Antonio Clementoni Filho contra decisão proferida pelo Ministro Gilson Dipp, relator do HC 245.686/MG, do Superior Tribunal de Justiça, que negou seguimento ao writ.
+    Em 06.7.2012, o eminente Ministro Ayres Britto, Presidente desta Suprema Corte, nos termos do art. 13, VIII, do RISTF, assim indeferiu o pedido de liminar:
+    “Trata-se de habeas corpus, aparelhado com pedido de liminar, impetrado contra ato de ministro do Superior Tribunal de Justiça (relator do HC 245.686). Decisão que indeferiu a tutela de urgência ali formalizada, à falta de seus pressupostos.
+    2. Pois bem, os impetrantes apontam a ilegalidade da segregação cautelar do paciente. Paciente preso preventivamente, acusado de crimes contra a Administração Pública. Em síntese, são estes os fundamentos da impetração: a) a decisão que indeferiu a liminar ofende a garantia constitucional da fundamentação das decisões judiciais (inciso IX do art. 93 da CF/88); b) a patente ilegalidade da prisão do paciente fica evidente diante das decisões que deferiram a liberdade provisória aos co-réus; c) caracteriza bis in idem a decretação da prisão provisória concomitantemente com a medida cautelar de afastamento da função pública; d) não há comprovação de subsistência dos requisitos exigidos para a prisão cautelar.
+    3. Presente essa moldura, a defesa pugna pela imediata expedição de alvará de soltura do acusado.
+    (…).
+    5. No caso, não tenho por configurados, de plano, os requisitos necessários à concessão do provimento cautelar requestado. Isso porque é pacífica a jurisprudência do STF no sentido da inadmissibilidade de impetração sucessiva de habeas corpus, sem o julgamento definitivo do HC anteriormente impetrado (cf. HC 79.776, da relatoria do ministro Moreira Alves; HC 76.347-QO, da relatoria do ministro Moreira Alves; HC 79.238, da relatoria da ministro Moreira Alves; HC 79.748, da relatoria do ministro Celso de Mello; e HC 79.775, da relatoria do ministro Maurício Corrêa). Jurisprudência, essa, que deu origem à Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    6. Ante o exposto, indefiro a liminar.”
+    Por intermédio da Petição STF 38.481/2012, noticiam os impetrantes que, no julgamento de mérito do HC 0757448.33.2012.8.13.0000, a 3ª Câmara Criminal do Tribunal de Justiça do Estado de Minas concedeu a ordem em favor do paciente, para deferir o pedido de liberdade provisória. A Defesa ainda juntou o respectivo alvará de soltura expedido em 25.7.2012. Requerem, ao fim, a extinção do feito sem julgamento de mérito.
+    Tendo em vista a superveniência de liberdade provisória concedida pela Corte Estadual em benefício do paciente, evidenciada a perda de objeto desse writ.
+    Desse modo, tendo em vista não mais subsistir o constrangimento ilegal apontado na inicial, fica evidente a perda de objeto do presente habeas corpus, razão por que o julgo prejudicado (RISTF, art. 21, IX).
+    Publique-se. Arquivem-se.
+    Brasília, 02 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
