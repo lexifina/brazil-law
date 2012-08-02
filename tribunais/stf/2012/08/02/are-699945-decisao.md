@@ -1,0 +1,9 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Agravo Interno. A fixação de pensão por morte será igual aos proventos do servidor em atividade na data do seu falecimento. Incidência do verbete nº 86 da Súmula deste Tribunal de Justiça. A Gratificação de Habilitação Profissional (GHP) não pode constar da base de cálculo da pensão porque foi instituída após o óbito e é de natureza pessoal, requerendo comprovação dos requisitos pelo ex-servidor. Se foi negado o direito à pensão especial, houve a sucumbência recíproca, devendo ser compensados os honorários de advogado. A Gratificação de Regime Especial de Trabalho Policial Civil (GRETPC) não tem caráter pro laborem, mas eminentemente remuneratório, devendo incidir no cálculo da pensão requerida. Agravante sustenta que a segunda agravada não faz jus ao benefício ante a sua condição de filha maior. Argumento novo lançado no agravo interno, operou-se a preclusão consumativa. Os juros que incidirão sobre as verbas vencidas terão o índice de 0,5% ao mês, por força do estabelecido na Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/99. Recurso a que se nega provimento” (fl. 216).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, caput e I, e 201, V, da mesma Carta.
+    O agravo não merece acolhida. O Tribunal de origem entendeu inviável a discussão acerca da possibilidade de recebimento de pensão previdenciária por filha maior de 21 anos, em face da ocorrência da preclusão consumativa, fundamento suficiente para a manutenção da decisão recorrida. O recorrente, contudo, não impugnou esse fundamento do acórdão, o que atrai a incidência da Súmula 283 desta Corte.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
