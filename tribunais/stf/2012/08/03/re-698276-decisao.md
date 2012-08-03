@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE VANTAGEM PECUNIÁRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alíneas a e c, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Mato Grosso do Sul:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE REVISÃO DE INCORPORAÇÃO – SERVIDORA PÚBLICA ESTADUAL OCUPANTE DO MESMO CARGO – PARCELA RELATIVA À INCORPORAÇÃO PELO EXERCÍCIO DE CARGO EM COMISSÃO OU FUNÇÃO COMISSIONADA. ATUALIZAÇÃO DE VALORES DE ACORDO COM A NOVA LEI – ARTIGO 77, § 4º, DA LEI N. 1.102/90 – CABIMENTO – SÚMULA 339 DO STF – INAPLICABILIDADE – RECURSO PROVIDO.
+    O servidor que fizer jus à incorporação das vantagens pecuniárias previstas no artigo 77 da Lei n. 1.102/90, e na vigência desta, mesmo após a revogação do referido artigo pela Lei 1.756/97, possuem direito ao recebimento dos respectivos valores, que, posteriormente, foram alterados pela Lei n. 2.157/00.
+    Apresenta-se inaplicável a Súmula n. 339/STF na hipótese, porquanto não se discute a extensão de vantagens concedidas a determinado cargo para outro com atribuições semelhantes, mas o direito de servidor integrante da mesma carreira possuir igual padrão remuneratório” (fl. 121 – grifos nossos).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, 37, inc. XIII e XV, e 40, § 8º, da Constituição.
+    Argumenta que “o Recorrido exerceu o referido cargo em comissão apenas temporariamente, tendo incorporado em sua remuneração tão somente os vencimentos correspondentes(...). Ou seja, não se trata de pedido de mera extensão de reajustes, mas sim de uma equiparação indevida” (fl. 191).
+    Sustenta que “a Constituição Federal veda qualquer tipo de vinculação remuneratória (...), o que significa a toda evidência que o acórdão julgou válida disposição de lei local (art. 77 da Lei 1.102/90 e Lei 2.157/00), em face da Constituição Federal” (fl. 208).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Leis estaduais n. 1.102/1990, 1.756/1997 e 2.157/2000). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal. Nesse sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO DO ESTADO DE MATO GROSSO DO SUL. FORMA DE CÁLCULO DO ADICIONAL POR TEMPO DE SERVIÇO. LEIS ESTADUAIS 1.102/90 E 2.157/2000. Arts. 5º, XXXVI, e 37, XIV, da CF/88. OFENSA INDIRETA. I - A Corte tem se orientado no sentido de que o conceito dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontram na Constituição, mas na legislação ordinária (Lei de Introdução ao Código Civil, art. 6º). Assim, está sob a proteção constitucional a garantia desses direitos, e não seu conteúdo material (RE 437.384-AgR/RS, Rel. Min. Carlos Velloso; AI 135.632-AgR/RS, Rel. Min. Celso de Mello). II - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, XIV, da Constituição, encontra óbice na Súmula 279 do STF. III - A ofensa à Constituição, acaso existente, seria reflexa, o que inviabiliza o recurso extraordinário. IV - Agravo regimental improvido” (RE 461.286-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 15.9.2006 – grifos nossos).
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. LEIS ESTADUAIS 1.102/90, 2.065/99 E 2.129/00. I. - Questão decidida com base em fundamento infraconstitucional, leis do estado de Mato Grosso do Sul, que não integram o contencioso constitucional. II. - Agravo não provido” (RE 414.469-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 24.2.2006 – grifos nossos).
+    5. Inadmissível o recurso extraordinário pela alínea c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válida lei ou ato de governo local contestados em face da Constituição da República.
+    6. Nada há, pois, a prover quanto às alegações do Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
