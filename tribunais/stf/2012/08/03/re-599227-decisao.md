@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a , da Constituição) interposto no bojo de mandado de segurança no qual se discute decesso remuneratório do impetrante.
+    Eis a ementa do acórdão recorrido (fls. 102):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. VENCIMENTOS. IRREDUTIBILIDADE. ALCANCE.
+    Improvimento da apelação e da remessa oficial”
+    Em seu recurso extraordinário a União alega violação ao disposto no art. 5º, XXXV, LIV e LV e LXIX , da Constituição Federal e argumenta que a análise da remuneração ante e depois da legislação aplicada ao caso demonstra a ocorrência de aumento da remuneração e não de diminuição como concluiu o acórdão recorrido.
+    A jurisprudência pacífica desta Corte está orientada no sentido de que, uma vez respeitada a irredutibilidade dos vencimentos, não existe direito adquirido a regime jurídico (cf. RE 219.075, rel. min. Ilmar Galvão, DJ de 29.10.1999; RE 393.314-AgR, rel. min. Eros Grau, DJ de 29.04.2005 e RE 600.837-AgR, rel. min. Celso de Melo, Segunda Turma, DJ e 03.12.2009). Esse último assim ementado:
+    “RECURSO EXTRAORDINÁRIO - SERVIDOR PÚBLICO ESTATUTÁRIO - INALTERABILIDADE DO REGIME JURÍDICO - DIREITO ADQUIRIDO - INEXISTÊNCIA - REMUNERAÇÃO - PRESERVAÇÃO DO MONTANTE GLOBAL - AUSÊNCIA DE OFENSA À IRREDUTIBILIDADE DE VENCIMENTOS - RECURSO IMPROVIDO. - Não há direito adquirido do servidor público estatutário à inalterabilidade do regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração, e, em consequência, não provoque decesso de caráter pecuniário. Precedentes. “
+    Também o Pleno, no RE 563.965, rel. min. Cármen Lúcia, após reconhecer a repercussão geral da matéria, reafirmou o entendimento da ausência de direito adquirido a regime jurídico. Confira-se a ementa:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MODIFICAÇÃO DE FORMA DE CÁLCULO DA REMUNERAÇÃO. OFENSA À GARANTIA CONSTITUCIONAL DA IRREDUTIBILIDADE DA REMUNERAÇÃO: AUSÊNCIA. JURISPRUDÊNCIA. LEI COMPLEMENTAR 203/2001 DO ESTADO DO RIO GRANDE DO NORTE: CONSTITUCIONALIDADE.
+    1. O Supremo Tribunal Federal pacificou a sua jurisprudência sobre a constitucionalidade do instituto da estabilidade financeira e sobre a ausência de direito adquirido a regime jurídico.
+    2. Nesta linha, a Lei Complementar n. 203/2001, do Estado do Rio Grande do Norte, no ponto que alterou a forma de cálculo de gratificações e, consequentemente, a composição da remuneração de servidores públicos, não ofende a Constituição da República de 1988, por dar cumprimento ao princípio da irredutibilidade da remuneração.
+    3. Recurso extraordinário ao qual se nega provimento.”
+    Ocorre que o Tribunal a quo , analisando as provas dos autos e o teor da referida legislação aplicável ao caso, decidiu pela existência de afronta à garantia da irredutibilidade de vencimentos. Ora, resta claro que uma eventual modificação desse entendimento no sentido de se reconhecer a inocorrência de decesso remuneratório - implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Confira-se, nesse sentido, RE 593.175 (rel. min. Cármen Lúcia, DJe de 18.02.2010), RE 542.987 (rel. min. Carlos Britto, DJe de 11.02.2010) e RE 388.770-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 20.06.2008), este último assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IRREDUTIBILIDADE DE VENCIMENTOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 1. O princípio da irredutibilidade de vencimentos deve ser observado mesmo em face do entendimento de que não há direito adquirido a regime jurídico. Precedentes. 2. Para dissentir-se do acórdão impugnado quanto a ocorrência ou não da redução dos vencimentos, seria necessário o reexame da matéria fático-probatória [Súmula n. 279 do STF]. Agravo regimental a que se nega provimento.“
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
