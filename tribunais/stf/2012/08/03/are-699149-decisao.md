@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo de decisão que inadmitiu recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio de Janeiro que não estendeu os recorrentes, servidores estaduais inativos que outrora exerceram cargos de chefia, o direito à Gratificação de Encargos Especiais - GEE concedida aos ocupantes de cargos de chefia na ativa.
+    O acórdão recorrido concluiu que a gratificação não poderia ser incorporada aos proventos, tendo em vista o seu caráter propter laborem (fls. 221):
+    “Agravo Interno. Apelação Cível. Pedido de extensão aos apelantes de gratificação de encargos especiais concedida aos servidores ocupantes de cargos comissionados de chefia, uma vez que os mesmos, quando em atividade, exerceram tal função. Impossibilidade, eis que se trata de gratificação transitória de caráter pro labore faciendo ou propter laborem, já que concedida especificamente para o desempenho da função de chefia. Assim, não há que se falar em qualquer ofensa ao princípio constitucional da paridade entre ativos e inativos, já que, in casu, o pagamento de tal gratificação não se confunde com qualquer aumento de caráter geral e indiscriminado. Recurso a que se nega provimento.”
+    Consigno inicialmente que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a normas da Constituição federal, afirmando-se, em preliminar, que há existência de repercussão geral porque a questão “concerne à remuneração dos servidores públicos federais, estaduais e municipais, pelo que diz respeito aos gastos com folha de pagamento de pessoal. Por outro lado, a garantia constitucional do acesso à justiça pelo cidadão comum, não pode, data vênia, ser cerceada por legislação infra-constitucional que impeça a Corte Suprema de agasalhar-lhe pretensão fundada em norma constitucional”.(fls. 227).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Ademais, as conclusões do acórdão recorrido estão fundadas na legislação local aplicável ao caso. Nesse sentido, AI 836.841, rel. min. Ricardo Lewandowski, DJe de 25.02.2011.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
