@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Tribunal Regional Federal , cuja ementa possui o seguinte teor (fls. 393 verso):
+    “ADMINISTRATIVO. JUIZ CLASSISTA APOSENTADO. LEI 10.474/02. PROVENTOS. BASE DE CÁLCULO. REPERCUSSÃO.
+    I – O juiz classista de primeira instância aposentado tem os seus proventos calculados na proporção de 20/30 (vinte trinta avos) com relação à remuneração do Juiz titular de Vara do Trabalho. Na segunda instância, a elação se estabelece com relação à remuneração do Juiz do Tribunal.
+    II – O novo padrão remuneratório dos Juízes titulares das Varas do Trabalho, inaugurado pelo implemento da Lei nº 10.474, de 27 de jun. 2002, tem reflexo nos proventos de aposentadoria dos juízes classistas, na proporção de 2030 (vinte trinta avos).
+    III – São devidas as diferenças entre os valores previstos na nova sistemática remuneratória, a contar de seu implemento, e os valores remuneratórios pagos até a efetiva inclusão da nova sistemática na folha de pagamento dos autores. ”
+    A União aponta violação ao disposto nos arts. 2º; 5º, caput, XXXV, LIV, LV, XXXVI, LXXI; 37, X, XIII, XV; 61, § 1º, II, a e c, 102, I, a e q; 103, § 2º; 115 e 169 da Constituição Federal e art. 38 do ADCT, requerendo, ao final, a improcedência da ação.
+    O Plenário deste Supremo Tribunal Federal, ao julgar o Mandado de Segurança 21.466 (rel. min. Celso de Mello, DJ de 06.05.1994), decidiu que a especificidade da condição jurídico-funcional dos juízes classistas autoriza o legislador a lhes conferir tratamento normativo diferenciado daquele conferido aos magistrados togados, razão pela qual os representantes classistas da Justiça do Trabalho fazem jus apenas aos benefícios e vantagens que lhes tenham sido expressamente outorgados em legislação específica. Destaco da ementa do referido julgado:
+    “MANDADO DE SEGURANÇA - TRIBUNAL DE CONTAS DA UNIÃO - COMPETÊNCIA CONSTITUCIONAL - APRECIAÇÃO DA LEGALIDADE DE ATO CONCESSIVO DE APOSENTADORIA - POSSIBILIDADE DE CONVERSÃO DO JULGAMENTO EM DILIGÊNCIA - CARÁTER NÃO-VINCULANTE DA DELIBERAÇÃO DO TCU – JUIZ CLASSISTA – PRERROGATIVAS - A QUESTÃO DA SUA EQUIPARAÇÃO AOS MAGISTRADOS TOGADOS - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO A UM MESMO REGIME JURÍDICO - WRIT DENEGADO.
+    (…) Os representantes classistas da Justiça do Trabalho, ainda que ostentem títulos privativos da magistratura e exerçam função jurisdicional nos órgãos cuja composição integram, não se equiparam e nem se submetem, só por isso, ao mesmo regime jurídico-constitucional e legal aplicável aos magistrados togados.
+    A especificidade da condição jurídico-funcional dos juízes classistas autoriza o legislador a reservar-lhes tratamento normativo diferenciado daquele conferido aos magistrados togados.
+    O juiz classista, em conseqüência, apenas faz jus aos benefícios e vantagens que lhe tenham sido expressamente outorgados em legislação específica. (...)”
+    Ademais, incide no caso o firme entendimento desta Corte, sintetizado na Súmula 339/STF:
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.”
+    Confiram-se, em casos análogos ao presente, os seguintes precedentes: RE 594.589-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 09.10.2009), RE 598.456-AgR (rel. min. Ricardo Lewandowski, DJe de 04.03.2010), RE 603.029-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 24.09.2010); RE 420.637 (rel. min. Gilmar Mendes, DJ de 10.08.2006); RE 601.079 (rel. min. Dias Toffoli, DJe de 17.08.2011) e AI 842.497 (rel. min. Luiz Fux, DJe de 22.06.2011).
+    Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil dou provimento ao recurso. A parte recorrida arcará com os ônus da sucumbência, ressalvada a hipótese de concessão do benefício da assistência judiciária gratuita.
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
