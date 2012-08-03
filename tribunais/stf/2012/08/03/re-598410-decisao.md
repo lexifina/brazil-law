@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado por Turma Recursal da Seção Judiciária de Pernambuco, assim ementado:
+    “TRIBUTÁRIO. IMPOSTO DE RENDA. AUXÍLIO-ALIMENTAÇÃO. RECEBIMENTO NA CONDIÇÃO DE APOSENTADO DESNATURA A NATUREZA INDENIZATÓRIA. RECURSO IMPROVIDO.
+    – Insurge-se a parte autora contra a sentença judicial que julgou improcedente a ação, considerando legítima a incidência do imposto de renda sobre o auxílio-alimentação, no caso concreto.
+    – O cerne da demanda recai sobre a incidência ou não do imposto de renda sobre o valor recebido a título de auxílio-alimentação reconhecido como devido ao autor, em sede da Justiça Laboral. Nessa senda, imperioso analisar a natureza da verba ora reclamada para enquadrá-la ou não como fato gerador do tributo sobre a renda.
+    – Consoante dispõe o art. 43 do CTN, renda tem acepção limitada (produto do capital, do trabalho ou da combinação de ambos) e provento tem significado remanescente (outros acréscimos patrimoniais, não compreendidos como renda).
+    – A indenização pretende compensar direito não desfrutado em sua integralidade, seja para reparar garantia jurídica não observada, seja em face de outros fundamentos juridicamente relevantes.
+    – A jurisprudência da Corte Superior, é pacífica no sentido de que o auxílio-alimentação trata-se de verba indenizatória, destinada a cobrir os custos de refeição. Prevê a Lei 8.460/92, em seu artigo 22, §§1º e 3º, com a redação dada pela Lei 9.527/97, que a concessão mensal de auxílio-alimentação, por dia de trabalho, aos servidores federais civis ativos da Administração Pública Federal, direta, autárquica e fundacional, terá caráter indenizatório e, não será configurado como rendimento tributável, também assim disposto no Decreto 3.000/99.
+    – O recebimento da verba na qualidade de aposentado desnatura sua natureza jurídica, uma vez que, estando aposentado, não há qualquer fato que possa fundamentar uma indenização a ser recebida na condição de auxílio-alimentação. O nome da verba não lhe confere a natureza jurídica. Assim, mesmo com este nome, a verba recebida não tem as características de auxílio-alimentação.
+    – Recurso inominado improvido. Sentença mantida pelos próprios fundamentos.
+    – Honorários advocatícios fixados em 10% sobre o valor da condenação em face do disposto no art. 55 da Lei 9.099/95.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, XXII, 150, I, II e IV, da Constituição federal, e a afronta ao princípio da razoabilidade.
+    A explicitação do conceito de renda, de proventos de qualquer natureza e de rendimentos para fins de incidência do imposto de renda encontra-se na legislação infraconstitucional. Isso implica dizer que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional, o que dá margem ao descabimento do recurso extraordinário.
+    Confiram-se, em sentido semelhante, os seguintes precedentes:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA. CRÉDITOS CUJA EXIBILIDADE ESTEJA SUSPENSA. DEDUÇÃO DA BASE DE CÁLCULO. LEI N. 8.541/92. MATÉRIA INFRACONSTITUCIONAL. 1. A questão relativa à dedução, da base de cálculo do Imposto de Renda Pessoa Jurídica, dos créditos tributários cuja exigibilidade esteja suspensa está adstrita à análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento.” (RE 433.933-AgR, rel. min. Eros Grau, Segunda Turma, DJe de 01.08.2008);
+    “EMENTA: ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSENTE, PORTANTO, O NECESSÁRIO PREQUESTIONAMENTO DOS TEMAS CONSTITUCIONAIS SUSCITADOS NO APELO EXTREMO. Incidência do óbice das Súmulas 282 e 356 desta colenda Corte. Agravo desprovido.” (AI 434.764-AgR, rel. min. Carlos Britto, Primeira Turma, DJ de 21.11.2003);
+    “EMENTA: Agravo regimental a que se nega provimento, por não se achar configurado obstáculo ao acesso ao Judiciário, a confortar a assertiva de contrariedade do disposto no art. 5º, XXXV, da Constituição.” (AI 206.085-AgR, rel. min. Octavio Gallotti, Primeira Turma, DJ de 07.04.2000).
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
