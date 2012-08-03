@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal de Justiça estadual, cuja ementa possui o seguinte teor:
+    “ICMS. Importação. Imunidade tributária. Cuidando-se de entidade de educação, sem fins lucrativos, incide a imunidade tributária para exonerá-la do ICMS na importação de bens destinados às suas finalidades essenciais. Exigência de `certificado de entidade filantrópica´ não compatível com os requisitos constitucionais e do artigo 14 do CTN. Segurança corretamente concedida. Recurso voluntário e reexame necessário não providos.” (fls. 89)
+    Alega-se violação do disposto nos arts. 150, VI, c, e 155, § 2º, IX, a, da Constituição federal.
+    Decido.
+    O acórdão recorrido entendeu que o ICMS incidente nas importações, quanto aos bens destinados ao consumo ou ao ativo fixo, não seria imposto indireto, pois o encargo não poderia ser repassado em operações subsequentes, assumindo o caráter de autêntico imposto estadual de importação, sujeito à imunidade prevista no art. 150, VI, c, da Constituição federal (fls. 92). Trata-se de fundamento autônomo e suficiente que não foi impugnado nas razões do recurso extraordinário, sendo aplicável o disposto nas Súmulas 283 e 284/STF.
+    Ademais, verifico que concluir diversamente do Tribunal de origem quanto à destinação dos bens importados demandaria o prévio exame do quadro fático-probatório, o que é vedado na via estrita do recurso extraordinário (Súmula 279/STF).
+    Por fim, ainda que superados tais óbices, observo que consta do acórdão recorrido que as operações de importação são anteriores à vigência da Emenda Constitucional 33/2001, que modificou a redação do art. 155, § 2º, IX, a, da Constituição federal (fls. 90-91). Esta Corte firmou orientação no sentido da não-incidência do ICMS sobre operações de importação de bens por pessoa física ou jurídica que não fosse contribuinte do imposto (Súmula 660/STF). Confiram-se: AI 342.050-AgR (rel. min. Carlos Velloso, DJ de 10.10.2003); RE 346.856 (rel. min. Moreira Alves, DJ de 31.10.2002); RE 203.502 (rel. min. Moreira Alves, DJ de 15.03.2002) e RE 199.554-AgR (rel. min. Néri da Silveira, DJ de 04.08.2000).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 3 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
