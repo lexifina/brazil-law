@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 3ª Região e assim ementado no que interessa:
+    “TRIBUTÁRIO. PROCESSO CIVIL. AÇÃO AJUIZADA ANTERIORMENTE À LEI Nº 8.200/91. INTERESSE PROCESSUAL MANIFESTO. APLICAÇÃO DA TRD. LEI Nº 8.177/91. CONTROVÉRSIA SUPERADA. CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS. DIFERENÇA ENTRE IPC E BTNF – ANO-BASE DE 1990. DEDUÇÃO PARCELADA. IMPOSTO SOBRE O LUCRO LÍQUIDO E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO. BASE DE CÁLCULO. LEI Nº 8.200/91. CONSTITUCIONALIDADE. (...)” (fls. 175126)
+    Alega a recorrente, com base no art. 102, III, a, violação aos arts. 145, § 1º, 148, 150, III e IV, 153, III, 195, I, da Constituição Federal.
+    2. Inviável o recurso.
+    Com efeito, ao dar parcial provimento e deixar de reconhecer direito à recorrente de proceder à dedução integral da diferença de correção monetária das demonstrações financeiras no ano-base 1990, o aresto invocou, além de dispositivos constitucionais, fundamentação infraconstitucional suficiente (Lei nº 8.177/91 e Lei nº 8.200/91).
+    Ocorre que o Superior Tribunal de Justiça negou seguimento ao recurso especial (REsp nº 1.298.117), tendo a decisão transitado em julgado. Assim, o fundamento infraconstitucional subsiste, atraindo a aplicação da súmula 283, como, aliás, já reconheceu esta Corte, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RECURSO PARA O CONSELHO DE RECURSOS DO SISTEMA FINANCEIRO NACIONAL. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. OFENSA INDIRETA. FUNDAMENTOS INFRACONSTITUCIONAIS SUFICIENTES. SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I – O Tribunal de origem dirimiu a questão dos autos com base na interpretação da legislação infraconstitucional aplicável à espécie - Decreto 91.152/85 e Lei 6.385/76. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. II – A jurisprudência desta Corte é firme no sentido de que a verificação de eventual ofensa aos princípios do contraditório e da ampla defesa demanda, em regra, a análise de normas infraconstitucionais. Precedentes. III – Com a negativa de provimento ao recurso especial, tornaram-se definitivos os fundamentos infraconstitucionais suficientes que amparam o acórdão recorrido (Súmula 283 do STF). IV – Agravo regimental improvido. (RE 605.898-AgR/RJ, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 08.04.2011)
+    3. Diante do exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038/90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 6 de agosto de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
