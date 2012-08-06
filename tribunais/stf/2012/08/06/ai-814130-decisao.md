@@ -1,0 +1,15 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça de São Paulo e assim ementado:
+    "Prestação de serviços. Fornecimento de água. Adoção do regime tarifário especial para grandes consumidores. Descabimento no caso concreto. Autor que não celebrou contrato de demanda firme e nem era consumidor de água fornecida exclusivamente pela rede pública. Exigências de norma administrativa que se compatibilizavam com o Decreto estadual 41.446/86 e com os princípios de proteção ao meio ambiente. Recurso do réu provido, prejudicado o do autor." (fl. 13)
+    Opostos embargos de declaração, foram rejeitados (fls. 20-22).
+    Sustenta a parte recorrente, com base no art. 102, III, a, violação ao art. 5º, caput, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado decidiu a causa com base na legislação infraconstitucional (Decreto Estadual nº 41.446/86 e Código de Defesa do Consumidor), de modo que eventual ofensa à Carta Magna seria, aqui, apenas indireta.
+    Pacífica é a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    É como têm decidido ambas as Turmas desta Corte, em hipóteses análogas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIOS DE CLASSIFICAÇÃO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL FEDERAL E LOCAL. SÚMULA 280 DO STF. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais, federais e locais, que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. Incidência da Súmula 280 desta Corte. Precedentes. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III – Agravo regimental improvido.” (RE nº 627.760 AgR/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 06.9.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIO DE CLASSIFICAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE nº 603.678 AgR/SP, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 05.02.2010)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557, caput , do CPC).
+    Publique-se. Int..
+    Brasília, 6 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
