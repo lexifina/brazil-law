@@ -1,0 +1,30 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança, interposto pelo Ministério Público Federal contra acórdão proferido pelo Superior Tribunal de Justiça, cuja ementa está assim redigida:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. ANISTIA POLÍTICA. MILITAR. PORTARIA N. 1.104/GM3/1964. REVISÃO. PORTARIA INTERMINISTERIAL N. 134/2011. ATO QUE NÃO INTERFERE NA ESFERA INDIVIDUAL DE DIREITOS DO IMPETRANTE. ORIENTAÇÃO FIRMADA PELA PRIMEIRA SEÇÃO.
+    1. A Primeira Seção, por ocasião do julgamento do MS n. 16.425/DF, da relatoria do Ministro Arnaldo Esteves Lima, na assentada de 8/6/2011, firmou o entendimento de que a revisão determinada pela Portaria Interministerial n. 134/2011, por consubstanciar-se em simples fase de estudos acerca de eventuais irregularidades nas concessões das anistias com base na Portaria n. 1.104/GM3/1964, não afeta a esfera individual de direitos dos impetrantes. Consignou, ainda, que a apreciação das teses apresentadas somente terá importância nos casos em que, após concluída a fase de estudos, a Administração der cumprimento ao previsto no artigo 5º da citada Portaria revisional.
+    2. Agravo regimental não provido.
+    Na petição inicial, Cícero Salgado afirma que foi declarado anistiado político pela Portaria 2223/2003, expedida pelo Ministro da Justiça. Sustenta que o ato declaratório de anistia é ato político e não ato administrativo, de modo que não estaria sujeito à revisão. Alegou que os “atos de anistia política – atos políticos – não são propriamente administrativos, mas atos de governo”, que não se inserem no poder de autotutela da Administração. Assim, entende que o ato de anistia é considerado um ato jurídico perfeito, de forma que, em razão do princípio da segurança jurídica, não pode ser revisto. Ademais, afirma que o grupo de trabalho instituído para proceder à revisão de sua anistia não é competente para rever atos políticos.
+    O Ministro Relator no Superior Tribunal de Justiça, em decisão monocrática, denegou a segurança.
+    Interposto agravo regimental, a Primeira Seção daquela Corte desproveu o recurso.
+    Opostos embargos declaratórios, foram eles rejeitados (fls. 957-961).
+    O Ministério Público Federal, então, interpôs o presente recurso ordinário, alegando a decadência para a revisão do ato de concessão da anistia, nos termos do art. 54 da lei 9.784/1999. Acrescentou, ainda, que somente terá legitimidade e imparcialidade para a revisão do ato de anistia o próprio órgão que o concedeu, ou seja, a comissão de anista. Requer a concessão da segurança.
+    Contrarrazões a fls. 981-993.
+    Ministério Público Federal, em casos idênticos ao presente, vem se manifestando pelo desprovimento do recurso (v.g. RMS 30.984, RMS 31.038, RMS 31.039 e RMS 31.054, todos de minha relatoria).
+    É o relatório.
+    Decido.
+    Ambas as Turmas desta Corte, em casos análogos ao presente, fixaram orientação no sentido de que a instauração de procedimento de revisão de anistia, por intermédio da Portaria Interministerial 134, não ofende direito líquido e certo do anistiado, tendo em vista que esta portaria não anulou a anistia concedida ao recorrente nem suspendeu o seu pagamento. Cuida-se, tão somente, de permissão para a apuração da legalidade dos atos de concessão de anistia - que são atos administrativos -, inserida no poder-dever da Administração de rever seus atos.
+    A Corte vem afirmando, ainda, que não cabe, nesse momento, analisar a incidência do art. 54 da lei 9.784/1999, pois a decadência pode ser afastada caso configurada a má-fé do interessado, o que deve ser analisado em procedimento próprio, com o respeito às garantias do devido processo legal.
+    Confira-se, por oportuno, o acórdão proferido pela 1ª Turma no RMS 30.973, rel. Min. Cármen Lúcia, DJe de 28.03.2012:
+    EMENTA: RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PORTARIA INTERMINISTERIAL N. 134/2011. INSTAURAÇÃO DE PROCEDIMENTO DE REVISÃO DE ANISTIA: FASE PRELIMINAR DE APURAÇÃO. INEXISTÊNCIA DE AFRONTA A DIREITO LÍQUIDO E CERTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. RECURSO AO QUAL SE NEGA PROVIMENTO.
+    No mesmo sentido: RMS 31.042, rel. Min. Marco Aurélio, DJe 30.03.2012, Primeira Turma; e RMS 31.181-AgR, rel. Min. Ricardo Lewandowski, DJe 16.04.2012, Segunda Turma.
+    Confira-se, ainda, por exemplo, as seguintes decisões monocráticas: RMS 31.118 e RMS 31.186, ambos rel. Min. Ricardo Lewandowski, DJe 02.04.2012; RMS 30.978 e RMS 30979, ambos rel. Min. Marco Aurélio, DJe 22.03.2012.
+    Como muito bem acentuou o Ministro Marco Aurélio, nas decisões por ele proferidas e acima mencionadas:
+    “Atentem, no mais, para o fato de a Portaria interministerial nº 134/2011 ter criado tão somente um grupo de trabalho, atribuindo-lhe a missão de analisar a legalidade das concessões de anistia. Convém transcrever o disposto no respectivo artigo 7º:
+    Art. 7º Fica delegado ao Grupo de Trabalho Interministerial a competência para deflagração de todos os procedimentos contraditórios, a expedição de notificação para apresentação de defesa, análise e pronunciamento de mérito após as manifestações dos interessados bem como responder por quaisquer questionamentos judiciais e/ou administrativos relativos a este ato e seu anexo.
+    A cassação do ato de concessão individual, segundo a norma, dependerá da instauração de procedimento próprio, no qual serão assegurados a ampla defesa e o contraditório. O simples temor de ser afetado não justifica a providência requerida, no sentido de obstar a atividade de controle interno de legalidade da Administração Pública. Caso iniciado processo em relação à situação individual do recorrente, considerada outra causa de pedir, nada impede o acesso ao Poder Judiciário”.
+    Vê-se, portanto, que o presente recurso ordinário é manifestamente improcedente.
+    De todo o exposto, com fundamento no art. 21, § 1º do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 06 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
