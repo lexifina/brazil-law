@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário contra acórdão que negou pedido de extensão da Gratificação por Atividade de Suporte Administrativo – GASA às servidoras inativas que não instruíram o feito com documento apto a atestar se na data da publicação da EC 41/2003 estavam albergadas pelas garantias instituídas nos arts. 3º e 6º da referida emenda constitucional.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 40, § 8º, da mesma Carta e ao art. 7º da EC 41/2003. Sustentou-se que, conforme os arts. 2º e 3º da EC 47/2005, o direito à paridade remuneratória foi assegurado aos servidores que ingressaram no serviço público antes da EC 41/2003, mas se aposentaram após a sua edição.
+    A pretensão recursal não merece acolhida.
+    Consoante assentado no julgamento do RE 590.260/SP, de minha relatoria, Plenário, a EC 41/2003 extinguiu o direito à paridade dos proventos para os servidores que ingressaram no serviço público após a sua publicação, mas o garantiu, conforme o art. 7º da referida emenda, aos que estavam na fruição da aposentadoria na data da sua publicação, estendendo-lhes quaisquer vantagens ou benefícios posteriormente concedidos aos servidores em atividade.
+    No mencionado julgamento, concluiu-se também pela manutenção do direito à paridade aos servidores que ingressaram no serviço público antes da EC 41/2003, mas se aposentaram após a aludida emenda, desde que observadas as regras dos arts. 2º e 3º da EC 47/2005.
+    Cumpre frisar, portanto, que o direito à paridade remuneratória em relação aos servidores que ingressaram no serviço público antes da EC 41/2003 – porém se aposentaram após sua edição – pressupõe o cumprimento dos requisitos exigidos nas Emendas Constitucionais 41/2003 e 47/2005.
+    Desse modo, não prospera o argumento dos recorrentes de que, pelo simples fato de terem ingressado no serviço público antes de 16/12/1998, fariam jus à paridade. Como bem acentuou o Tribunal de origem, cabia aos ora recorrentes demonstrarem a observância das condições estabelecidas nas mencionadas emendas constitucionais.
+    Ademais, para divergir do acórdão recorrido e verificar a procedência do apelo extremo quanto à alegação de que “a prova indispensável dos fatos constitutivos do direito dos autores, por ser tratar de direito declarado em ordem constitucional de caráter geral e irrestrita, resume-se aos documentos anexados à inicial” (fl. 206), seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
