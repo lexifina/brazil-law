@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRETENSÃO A NOMEAÇÃO EFETIVA. CONTROVÉRSIA SOBRE CONTRATAÇÃO TEMPORÁRIA E EXISTÊNCIA DE VAGAS. IMPOSSIBILIDADE DO REEXAME DE FATOS E PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. CONCURSO PÚBLICO. MAGISTÉRIO ESTADUAL. PRELIMINAR DE NULIDADE DA SENTENÇA. INOCORRÊNCIA. AUSÊNCIA DE OFENSA AOS ARTS. 93, IX, DA CF/88 E 458 DO CPC. NOMEAÇÃO EM CARGO PÚBLICO. AUSÊNCIA DE PROVA DA CONTRATAÇÃO EM CARÁTER EMERGENCIAL. PRETERIÇÃO NÃO CONFIGURADA. AFASTARAM A PRELIMINAR E NEGARAM PROVIMENTO AO RECURSO DE APELAÇÃO. UNÂNIME.
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante alega que o Tribunal a quo teria contrariado o art. 37, inc. II, IV e IX, da Constituição da República.
+    Argumenta ser “inarredável a ilegalidade da conduta adotada pelo Estado do RS, que, em flagrante preterição da recorrente, aprovada em 3º lugar no certame público realizado em 2005, mantém professores, por meio de contratos emergenciais, lecionando na região e na disciplina para a qual a recorrente foi aprovada” (grifos no original).
+    Afirma que, “em que pese a discricionariedade e oportunidade da Administração Pública, há que se falar em direito líquido e certo à nomeação da recorrente, eis que a mesma foi aprovada (…) dentro das vagas previstas no edital”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de incidir a Súmula 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. No voto condutor do acórdão recorrido, o Desembargador Relator asseverou:
+    “Por certo que o provimento de cargos públicos insere-se no poder discricionário da Administração Pública, conforme o juízo de conveniência e oportunidade, gerando, a aprovação em concurso público, tão-somente expectativa de direito à nomeação.
+    Contudo, a jurisprudência dessa Corte, assim como a do Superior Tribunal de Justiça têm entendido que, em casos de preterição do candidato aprovado em concurso público em face da ocupação de vagas por meio de contratos emergenciais, a mera expectativa de direito transforma-se em direito subjetivo à nomeação.
+    Ou seja, quando a Administração Pública, dentro do prazo de validade do concurso, contrata temporariamente profissional e renova sistematicamente tais contratos, ocupando vaga em preterição ao candidato aprovado em concurso público, está, a toda evidência, revelando a necessidade do preenchimento da vaga disponibilizada quando da realização do certame.
+    No caso em exame, a demandante classificou-se na 3ª colocação para as Séries Finais do Ensino Fundamental, na disciplina de Matemática para o Município de Arvorezinha (fls. 18 e 20), sendo que não há nos autos prova da existência de nenhuma nomeação em tal cargo.
+    Da análise dos autos, verifica-se que as duas contratações temporárias na disciplina mencionada, especificamente para o Município de Arvorezinha, destinam-se ao Ensino Médio (fls. 22, 24 e 29) não havendo, portanto, a preterição alegada.
+    Outrossim, ainda que haja a contratação temporária de um profissional para a disciplina de matemática, para as séries finais, no Município de Arvorezinha, conforme se extrai do documento de fl. 23, a ocupação de tal vaga não atinge a classificação da demandante aprovada em 3ª colocação, não configurando a preterição à recorrente.
+    Assim, não havendo a comprovação da preterição, ausente o direito subjetivo à nomeação” (grifos nossos).
+    7. O Tribunal de origem considerou o conjunto probatório insuficiente para comprovar as alegações do Agravante. A modificação do julgado demandaria o reexame das provas, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL E ADMINISTRATIVO. MAGISTÉRIO. CONTRATAÇÃO TEMPORÁRIA DE PESSOAL. EXISTÊNCIA DE CANDIDATO APROVADO EM CONCURSO PÚBLICO. ATO ILEGAL DA ADMINISTRAÇÃO PÚBLICA. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 648.980-AgR/MA, de minha relatoria, Primeira Turma, DJ 26.10.2011, grifos nossos).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. PREVISÃO DE VAGAS NO EDITAL. DIREITO À NOMEAÇÃO DOS CANDIDATOS APROVADOS. PRECEDENTE DO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL (RE N. 598.099). REEXAME DE FATOS E PROVAS E DE CLÁUSULAS DE EDITAL. SÚMULAS NS. 279 E 454 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO” (RE 666.092-AgR/BA, Rel. Min. Fux, Primeira Turma, DJ 23.4.2012).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. LOTAÇÃO INICIAL EM CIDADE DO INTERIOR, CONFORME EDITAL DE CONCURSO PÚBLICO. REMOÇÃO, A PEDIDO, PARA A CAPITAL DO ESTADO. FUNDAMENTOS. PRESERVAÇÃO DA UNIDADE FAMILIAR. INTEGRIDADE DA SAÚDE. NECESSIDADE DO SERVIÇO PÚBLICO. DEFERIMENTO JUDICIAL. PRETENSÃO DE REFORMA NA VIA EXTRAORDINÁRIA. IMPOSSIBILIDADE. ÓBICE DOS ENUNCIADOS 279, 288 E 636 DA SÚMULA/STF” (AI 643.344-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 24.10.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. NÚMERO DE VAGAS. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 675.406-AgR, de minha relatoria, Primeira Turma, DJe 2.10.2009).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
