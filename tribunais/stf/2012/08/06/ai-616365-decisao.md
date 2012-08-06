@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que consignou restar prejudicada a análise do recurso extraordinário interposto de acórdão do Tribunal de Justiça de São Paulo, proferido em agravo de instrumento, e assim ementado:
+    "Falência. Quebra decretada e alcançada pela preclusão por falta de recurso adequado. A discussão anterior nesta Corte deu-se porque o Magistrado extinguiu a falência por falta de interesse decorrente da não aceitação da requerente ao cargo de síndica da massa falida. Revogada a extinção determinou o Tribunal o prosseguimento da falência, o que justificou a r. decisão agravada mandando cumprir o v. acórdão. Recurso manifestamente inadmissível. Não conheceram." (fl. 1.800)
+    Opostos embargos declaratórios, foram rejeitados (fls. 1.861-1.862).
+    Sustenta a parte recorrente, com base no art. 102, III, a e c, violação aos arts. 5º, XXXV, LIV, LV LXXIX, e 93, IX, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Incognoscível o recurso.
+    É que a decisão recorrida (fl. 1.999) consignou estar prejudicada a análise do recurso extraordinário, ante o fato de que o mesmo foi manejado contra acórdão que não conheceu agravo de instrumento, vez que interposto de despacho de mero expediente.
+    É da jurisprudência desta Corte o não conhecimento de recurso manejado contra despacho de mero expediente, como se vê aos seguintes precedentes:
+    “Agravo regimental em agravo de instrumento. 2. Recurso contra despacho sem conteúdo decisório. Cabimento. Impossibilidade. 3. Trânsito em julgado. Constatação. 4. Agravo regimental não conhecido.” (AI nº 694.046 AgR/MG, Rel. Min. GILMAR MENDES, Tribunal Pleno, DJe de 11.9.2009)
+    “EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO RECURSO DE AGRAVO - ATO JUDICIAL QUE DETERMINA A JUNTADA DE PETIÇÃO PROTOCOLADA POR UMA DAS PARTES - DESPACHO DE MERO EXPEDIENTE - IRRECORRIBILIDADE - RECURSO DE AGRAVO INTERPOSTO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSOS IMPROVIDOS. - Os despachos de mero expediente - como aqueles que ordenam juntada de simples petição protocolada por uma das partes -, por não se revestirem de qualquer conteúdo decisório, não são passíveis de impugnação mediante qualquer recurso (CPC, art. 162, § 3º, c/c o art. 504). - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes.” (AI nº 458.293 AgR-ED/SP, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 26.6.2009)
+    3. Ante o exposto, não conheço do agravo (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 6 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
