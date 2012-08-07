@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CIVIL. PRESCRIÇÃO. FATO MODIFICATIVO. ART. 206 DO CÓDIGO CIVIL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102 da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “INDENIZAÇÃO – PRESCRIÇÃO – Ocorrência da prescrição – Entendimento dos incisos III e V, do § 3º, do artigo 206 do Código Civil Brasileiro – Ação extinta – Recurso improvido” (fl. 21).
+    Não foram opostos embargos de declaração.
+    2. O recurso extraordinário foi inadmitido sob o fundamento de não terem sido indicados “o inciso e as alíneas do permissivo constitucional autorizador da interposição do recurso extraordinário, aplicáveis o artigo 321 do Regimento Interno e a súmula 284, ambos do colendo Supremo Tribunal Federal”(fl. 34).
+    3. O Agravante sustenta que “há nos autos, fato modificativo do direito do recorrente, qual seja, o reconhecimento do débito pelo recorrido, em novembro de 2.007, que sendo por mera liberalidade como invocou o d juízo, houve o pagamento com caráter de reconhecimento, e portanto, passivo de devolução com correção e juros na forma legal” (fl. 27).
+    Pondera que “o d. Juízo, não esclareceu porque não aplicar o contido no artigo 200 do CCB/02, justamente porque, se o recorrido declinasse o nome do depositante do cheque, este sim, além da ação penal, responderia pelo dano civil, e com a recusa do recorrido, em fornecer os dados do depositante, assumiu a responsabilidade pela reparação, eis que, dispondo dos dados, obstou ao recorrente a informação que, possibilitaria o ressarcimento à época”(fl. 27).
+    Aponta, ainda, que “não é o caso de aplicação do contido no artigo 882 CCB/02, eis que, não há repetição de cobrança da dívida, mas sim, de cobrança de juros e correção devidos (…) Não há que se falar em prescrição da cobrança” (fl. 27).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Inicialmente, cumpre afastar o fundamento da decisão agravada em razão de ser possível identificar o dispositivo constitucional que teria fundamentado a interposição do recurso extraordinário.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O novo exame do acórdão recorrido exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Código Civil), além do reexame do conjunto fático-probatório. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESERVA INDÍGENA. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.243-AgR, de minha relatoria, Primeira Turma, DJe 4.6.2010).
+    “AGRAVO REGIMENTAL. AÇÃO DE COBRANÇA. PRESCRIÇÃO RECONHECIDA PELO TRIBUNAL A QUO. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV, DA CONSTITUIÇÃO FEDERAL. IMPROCEDÊNCIA. CONTROVÉRSIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI 847.196-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.6.2012).
+    “Agravo regimental no agravo de instrumento. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Prescrição. Ato administrativo. Ofensa reflexa. Serventuária da Justiça. Oficial de Registro. Concurso público. Necessidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. A questão relativa à incidência da prescrição está restrita à interpretação da legislação infraconstitucional pertinente e ao exame das provas dos autos, operações vedadas em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 636 desta Corte. 3. Inviabilidade de efetivação em cargo de oficial de registro de serventia notarial, depois da entrada em vigor da Constituição Federal de 1988, sem a realização de concurso público. Agravo regimental não provido” (AI 769.553-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 29.3.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
