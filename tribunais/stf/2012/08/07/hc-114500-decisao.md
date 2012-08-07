@@ -1,0 +1,33 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por João Ricardo Martinez Cervantes em favor de Márcia Alves de Menezes Ferreira contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que denegou a ordem do HC 230.041/SP, de relatoria da Ministra Laurita Vaz.
+    O Juízo de 1º grau recebeu a denúncia e condenou a paciente à pena de 6 (seis) anos, 05 (cinco) meses, em regime prisional fechado, e ao pagamento de 15 (quinze) dias-multa, no valor unitário único, pela prática de crime tipificado no artigo 157, § 2º, I e II, do Código Penal.
+    Inconformada, a Defesa, buscando a absolvição por falta de provas ou, subsidiariamente, a desclassificação do delito de roubo para o crime de exercício arbitrário das próprias razões, manejou apelação perante o Tribunal de Justiça do Estado de São Paulo, que negou-lhe provimento, para manter a sentença atacada por seus próprios e jurídicos fundamentos.
+    No Superior Tribunal de Justiça, a Quinta Turma denegou a ordem do HC 230.041/SP, nos termos da seguinte ementa:
+    “HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO. REGIME PRISIONAL MAIS GRAVOSO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES. ORDEM DE HABEAS CORPUS DENEGADA.
+    1. Estabelecida a pena-base acima do mínimo legal, porque considerada, no caso concreto, circunstância judicial desfavorável à paciente, tem-se por justificada a fixação de regime prisional mais gravoso, a teor do disposto no art. 33, §§ 2º e 3º, c.c. o art. 59, ambos do Código Penal.
+    2. Ordem de habeas corpus denegada”.
+    Neste writ, a Defesa alega, em síntese, falta de fundamentação idônea da decisão que fixou o regime fechado, por restrita à gravidade abstrata do delito. Acrescenta a existência de circunstâncias favoráveis, como primariedade, bons antecedentes, ocupação lícita e residência fixa. Assim, requer o deferimento de liminar, para cassar o acórdão do Superior Tribunal de Justiça. E, no mérito, pugna pela confirmação do pleito emergencial.
+    É o relatório.
+      Decido.
+    Ao manter o regime inicial de cumprimento de pena fixado pelo magistrado de primeiro grau, e corroborado pelo Tribunal Estadual, o Superior Tribunal de Justiça ressaltou as circunstâncias judiciais desfavoráveis, julgando adequada a imposição pelo sentenciante do regime inicial fechado, nos seguintes termos:
+    “O Juízo sentenciante fundamentou a exasperação da pena-base aplicada à ora Paciente nos seguintes termos, in verbis :
+    "[...]
+    Levando em conta as circunstâncias judiciais constantes do art. 59 do CP, observo que os co-réus agiram com especial obstinação, demonstrando total ausência de freios sociais e de equilíbrio, tendo em vista que, em data anterior e recente, ingressaram no mesmo local a fim de reaverem o veículo, sem êxito, o que os levou a praticar o crime em apreço tempos depois, amarrando as vítimas com corda. Por esse motivo, exaspero a pena mínima abstratamente cominada ao delito de roubo em 1/6, fixando, para cada co-réu, pena-base de 04 (quatro) anos e 08 (oito) meses de reclusão, mais 11 (onze) dias-multa em seu valor unitário mínimo legal." (Fl. 241)
+    Como se vê, a sentença condenatória, convalidada pelo acórdão impugnado, considerando as peculiaridades concretas do caso em questão, majorou a pena-base, sobretudo diante do elevado grau de culpabilidade da Paciente.
+    Desse modo, em razão da existência de circunstância judicial desfavorável, vê-se que o julgador, de modo escorreito, por ocasião da individualização da reprimenda penal, observou adequadamente o disposto no artigo 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal, para a imposição do regime prisional mais gravoso”.
+    Ora, como tenho decidido em vários processos em trâmite nesta Corte:
+    “A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena.” (HC 107.409/PE, 1.ª Turma do STF, Rel. Min. Rosa Weber, un., j. 10.4.2012, DJe-091, 09.5.2012)
+    Engana-se, portanto, quem procurar no Código Penal, especialmente em seu art. 59, critérios objetivos e matemáticos para a fixação da pena. Esta deve ser fixada conforme necessário e suficiente para reprovação e prevenção do crime (art. 59 do Código Penal), o que remete à significativa discricionariedade do magistrado sentenciante.
+    Por outro lado, a fixação do regime inicial de cumprimento de pena não está condicionada somente ao quantum da reprimenda, mas também ao exame das circunstâncias judiciais do artigo 59 do Código Penal, conforme remissão do art. 33, §3º, do mesmo diploma legal.
+    Nesse sentido, transcrevo precedente deste Supremo Tribunal:
+    “A fixação do regime inicial de cumprimento da pena não resulta tão-somente de seu quantum, mas, também, das circunstâncias judiciais do art. 59 do Código Penal, a que faz remissão o art. 33, § 3º do mesmo Código. Segue-se daí que, não obstante a pena ter sido fixada em quantidade que permite o início de seu cumprimento no regime semiaberto (oito anos de reclusão), nada impede que o juiz imponha regime mais gravoso quando as circunstâncias judiciais do art. 59 do Código Penal forem desfavoráveis, como no caso sub examine.” (RHC109132/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 6.9.2011).
+    Logo, os mesmos elementos que justificaram a elevação da pena acima do mínimo também autorizam a fixação do regime fechado.
+    Cabe, outrossim, às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete apenas o controle da legalidade e da constitucionalidade dos critérios empregados, com eventual correção nas frações de aumento ou diminuição adotadas pelas instâncias inferiores apenas em caso de discrepâncias gritantes e arbitrárias .
+    Não se presta, por outro lado, o habeas corpus, enquanto não permite ampla avaliação e valoração das provas, como instrumento hábil ao reexame do conjunto fático-probatório embasador da fixação das penas.
+    Assim, no caso presente, além da inadequação do habeas corpus para rever as posições das instâncias inferiores, visualizo, em cognição sumária, fundamentos idôneos e razoáveis para a pena fixada em concreto, bem como para o regime de cumprimento da pena.
+    Portanto, carece o direito afirmado na inicial da necessária plausibilidade.
+    Ante o exposto, indefiro o pedido de liminar.
+    Estando os autos suficientemente instruídos, colha-se manifestação do Ministério Público Federal.
+    Publique-se.
+    Brasília, 7 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
