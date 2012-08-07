@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS: COMPENSAÇÃO. IMPOSSIBILIDADE DE REEXAME DE LEGISLAÇÃO LOCAL E DE PROVAS. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça de Pernambuco:
+    “CONSTITUCIONAL. TRIBUTÁRIO. ICMS. NÃO-CUMULATIVIDADE. COMPENSAÇÃO. SERVIÇOS DE TRANSPORTE COM PAGAMENTO DE FRETE. NOTAS FISCAIS. NECESSIDADE. NÃO COMPROVAÇÃO DO RECOLHIMENTO. REEXAME NECESSÁRIO A QUE SE DÁ PROVIMENTO. PREJUDICADO O RECURSO FAZENDÁRIO. DECISÃO UNÂNIME.
+    1- A não-cumulatividade do ICMS nada mais é do que um direito do contribuinte de se ver creditado do tributo suportado em operação anterior numa nova operação subsequente que enseje a incidência do mesmo imposto.
+    2 - Nos termos do Decreto estadual n. 14.876/91, a nota fiscal idônea é o meio hábil para a compensação do ICMS.
+    3 – Não apresentadas as notas fiscais não é possível concluir pela realização da operação e pelo efetivo recolhimento do ICMS, restando impossibilitada a compensação dos créditos junto ao Fisco estadual.
+    4 – Reexame necessário ao qual se dá provimento. Prejudicado o recurso fazendário. Sentença reformada. Decisão unânime” (fl. 1264).
+    Os embargos de declaração opostos foram rejeitados (fls. 57-59).
+    2. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) “falta de fundamentação da preliminar de repercussão geral” (fl. 185); b) a ofensa à Constituição, se tivesse ocorrido, seria indireta; e c) incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 185-188).
+    3. A Agravante afirma que o Tribunal de origem teria contrariado o art. 155, § 2ª, inc. I, da Constituição da República.
+    Sustenta que, “apesar de não efetuar o reconhecimento do ICMS sobre o frete, a Recorrente é quem efetivamente suporta o ônus do imposto (pagando por ele embutido no preço do frete por ela contratado), o que faz surgir o direito ao aproveitamento dos créditos do ICMS incidente sobre a operação anterior, em cumprimento à não-cumulatividade do imposto, prevista expressamente. Assim, o ICMS pago pela empresa transportadora pode ser aproveitado pelo tomador do serviço, em observância ao princípio da não-cumulatividade, consubstanciado no art. 155, § 2º, I, da CF” (fl. 146).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O Tribunal a quo assentou:
+    “Compulsando os autos, verifico que não apresentou o embargante as notas fiscais e nem as guias de recolhimento do ICMS relativos aos serviços de frete prestados pela transportadora, de sorte que resta impossibilitada a compensação dos créditos.
+    Isto porque, a nota fiscal idônea com o imposto destacado é o único documento hábil a assegurar o direito à compensação dos valores relativos ao ICMS cobrado nas operações de circulação de mercadorias ou prestação de serviços com o montante cobrado nas anteriores. É o que se infere da leitura do artigo 28, § 4º, do Decreto Estadual Regulador do ICMS n. 14.876/91.
+    (…)
+    Se não há o documento fiscal que comprove o suporte ônus do ICMS pelo tomador do serviço, não é possível a compensação dos créditos. O Conhecimento de Transporte Rodoviário de Carga (CTRC) não pode ser utilizado para esse fim, pois, não é documento fiscal e nem a lei que lhe deu esses efeitos.
+    Além disso, também não fez provar o recorrente o efetivo recolhimento/pagamento do ICMS relativo aos serviços tomados. Como já foi dito, o direito à compensação surge a partir efetivo suporte do tributo em operação anterior. Se não houve ou não foi comprovado o recolhimento, não há que se falar em não-cumulatividade” (fls. 1267-1268).
+    Concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Decreto estadual n. 14.876/1991). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “RECURSO. Extraordinário. Não Provimento. ICMS. Compensação. Crédito não comprovado. Análise de prova. Ofensa reflexa. Agravo não provido. É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas (súmula 279)” (AI 373.367-ED, Rel. Min. Cezar Peluso, Primeira Turma, DJ 11.3.2005).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. BASE DE CÁLCULO REDUZIDA. ESTORNO PROPORCIONAL: INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA NÃO CUMULATIVIDADE. COMPENSAÇÃO: PREENCHIMENTO DOS REQUISITOS LEGAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 725.306-AgR, de minha relatoria, Primeira Turma, DJe 23.10.2009).
+    “DIREITO TRIBUTÁRIO. CREDITAMENTO DE ICMS INCIDENTE SOBRE O TRANSPORTE DE MERCADORIAS – FRETE – SUBORDINADO À CLÁUSULA CIF (CUSTO, SEGURO E FRETE). NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. SÚMULA STF 279. 1. O Tribunal a quo, soberano na apreciação dos fatos e provas da causa, concluiu que a ora agravante já se ressarciu dos valores relativos ao ICMS incidente sobre o transporte de mercadorias, realizado sob o regime de preço CIF (custo, preço e frete). 2. Para se concluir de forma diferente, como pretende a parte agravante, seria necessário o reexame de fatos e de provas, o que é defeso nesta via extraordinária. Incide, na espécie, o óbice da Súmula STF 279. 3. Agravo regimental a que se nega provimento” (RE 538.599-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 12.8.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
