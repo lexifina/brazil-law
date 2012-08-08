@@ -1,0 +1,44 @@
+Execução penal. Habeas corpus. Falta grave. Reinício do prazo para fins de progressão de regime. Súmula Vinculante n. 9/STF: “O disposto no artigo 127 da Lei nº 7.210/1984 (Lei de Execução Penal) foi recebido pela nova ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no artigo 58”. Harmonia dos fundamentos do ato impugnado com a jurisprudência do Supremo Tribunal Federal. Ordem denegada, com fundamento nos arts. 192, do RISTF, e 38, da Lei n. 8.038/90.
+    Decisão: Trata-se de habeas corpus, impetrado pelo próprio paciente, contra decisão do Ministro GILSON DIPP, do Superior Tribunal de Justiça, que ostenta o seguinte teor:
+    “Trata-se de habeas corpus, impetrado, de próprio punho, por GERANICIO RAMOS DOS SANTOS, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, que, conheceu em parte e na parte conhecida, denegou a ordem, ao entendimento de que a prática de falta grave pelo apenado acarreta a interrupção do lapso temporal para a progressão de regime e demais benefícios da execução.
+    Consta dos autos que o Juízo das Execuções Criminais, reconhecendo como grave a natureza da falta, declarou a perda do direito ao tempo remido, determinando a retificação do cálculo para concessão de benefícios.
+    No presente writ, requer o impetrante a concessão da ordem a fim de que seja reformado o acórdão do Tribunal Estadual, com o restabelecimento da data-base anterior ao cometimento da falta grave para fins de progressão de regime, por falta de previsão legal.
+    Liminar indeferida às fls. 23.
+    Informações prestadas às fls. 33/83.
+    A Subprocuradoria-Geral da República opinou pela concessão parcial da ordem (fls. 87/97).
+    Decido.
+    No julgamento do EREsp 1.176.486/SP, a Eg. Terceira Seção desta Corte, em sessão realizada em 28 de março próximo passado, uniformizou entendimento no sentido de que a prática de falta disciplinar de natureza grave interrompe a contagem do lapso temporal para a concessão de benefícios que dependem de tempo no desconto da pena, salvo o livramento condicional e a comutação da pena. Neste sentido, confira-se o teor do Informativo nº 0494/STJ:
+    ‘EXECUÇÃO DA PENA. INTERRUPÇÃO. FALTA GRAVE.
+    O cometimento de falta disciplinar grave pelo apenado determina a interrupção do prazo para a concessão da progressão de regime prisional. Para o Min. Relator, se assim não fosse, ao custodiado em regime fechado que comete falta grave não se aplicaria sanção em decorrência dessa falta, o que seria um estímulo ao cometimento de infrações no decorrer da execução. Precedentes citados do STF: HC 98.387-SP, DJe 1º/7/2009; HC 98.098-RS, DJe 24/4/2009; do STJ: HC 47.383-RS, DJ 13/3/2006, e HC 66.009-PE, DJ 10/9/2007. EREsp. 1.176.486-SP, Rel. Min. Napoleão Nunes Maia Filho, julgado em 28/3/2012.” (Informativo nº 0494/STJ, de 26.03 a 03.04.2012).’
+    Nesse contexto, deve ser parcialmente cassado o acórdão atacado, a fim de que a prática de falta grave implique em reinício da contagem do prazo apenas para a concessão de benefícios que dependam de lapso de tempo no desconto de pena, excetuando-se o livramento condicional, o indulto e a comutação da pena.
+    Por outro lado, cumpre destacar que esta Corte possui entendimento no sentido de que comprovada a falta grave, cabe ao Juízo da Execução, obedecendo aos termos legais, decretar a perda dos dias remidos, não se cogitando de qualquer ofensa a direito supostamente adquirido, impedindo, igualmente, o deferimento da remição – ex vi do art. 127 da Lei 7.210/84.
+    Não obstante, com o advento da Lei 12.433, de 29 de junho de 2011, que alterou a redação do dispositivo legal alhures mencionado, a prática de falta grave no curso da execução implica em perda de até 1/3 dos dias remidos, devendo o Juízo das Execuções aplicar a fração cabível à espécie, levando em conta a natureza, os motivos, as circunstâncias e consequências do fato, bem como a pessoa do faltoso e seu tempo de prisão.
+    Cumpre transcrever a nova redação do art. 127 da Lei de Execução Penal:
+    ‘Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observando o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.’
+    Diante disso, a norma em apreço, por ser mais benéfica ao paciente, retroage por força do art. 5º XL, da Constituição Federal e parágrafo único do art. 2º do Código Penal, alcançando fatos anteriores a sua entrada em vigor.
+    Ante o exposto, com fulcro no art. 557, § 1º-A do Código de Processo Civil, concedo parcialmente a ordem, a fim de que a prática de falta grave implique em reinício da contagem do prazo apenas para a concessão de benefícios que dependam de lapso de tempo no desconto de pena, excetuando-se o livramento condicional, o indulto e a comutação de pena, e, de ofício, concedo o habeas corpus para limitar a perda dos dias remidos a 1/3 (um terço) nos termos da novel redação do art. 127 da LEP, devendo o Juízo das Execuções aplicar a fração cabível à espécie.”
+    Vê-se que a pretensão do paciente foi atendida, parcialmente, no sentido de que a falta grave consubstancia reinício do prazo apenas para benefícios que dependam de lapso de tempo no desconto da pena, excetuando-se o livramento condicional, o indulto e a comutação da pena, e, de ofício, o Tribunal a quo concedeu a ordem a fim de determinar ao Juízo das Execuções Penais que proceda ao cálculo da perda dos dias remidos em conformidade com a nova redação do art. 127 da LEP, ou seja, no máximo de 1/3.
+    Remanesce a irresignação no que tange ao reinício do prazo para fins de progressão de regime.
+    O impetrante alega, em síntese, que não há previsão legal para tanto.
+    Requer, liminarmente e no mérito, a concessão da ordem a fim de que seja determinada a promoção do regime de cumprimento da pena.
+    É o breve relatório.
+    DECIDO.
+    O artigo 127 da Lei n. 7.210/84 preceitua que “O condenado que for punido por falta grave perderá o direito ao tempo remido, começando o novo período a partir da data da infração disciplinar”.
+    A Súmula Vinculante n. 9 estabelece que “O disposto no artigo 127 da Lei nº 7.210/1984 (Lei de Execução Penal) foi recebido pela nova ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no artigo 58”.
+    O Pleno desta Corte, ao julgar a Reclamação n. 8321, Rel. Min. ELLEN GRACIE, DJe de 02/06/11, fez prevalecer a autoridade de sua Súmula Vinculante, verbis:
+    “RECLAMAÇÃO. AFASTAMENTO DA INCIDÊNCIA DO ART. 127 DA LEP POR ÓRGÃO FRACIONÁRIO DE TRIBUNAL ESTADUAL. VIOLAÇÃO DA SÚMULA VINCULANTE 9. PROCEDÊNCIA.
+    1. No caso em tela, o Juiz de Direito da Vara das Execuções Criminais da Comarca de Franco da Rocha/SP, reconhecendo a ocorrência de falta grave na conduta do sentenciado, declarou perdidos os dias remidos, nos termos do art. 127 da LEP.
+    2. Ao julgar o agravo em execução interposto pela defesa do reeducando, a 12ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo, em 11 de março de 2009, deu provimento ao recurso, para restabelecer os dias remidos.
+    3. O julgamento do agravo ocorreu em data posterior à edição da Súmula Vinculante 09, como inclusive foi expressamente reconhecido pela Corte local.
+    4. O fundamento consoante o qual o enunciado da referida Súmula não seria vinculante em razão da data da falta grave ter sido anterior à sua publicação não se mostra correto.
+    5. Com efeito, a tese de que o julgamento dos recursos interpostos contra decisões proferidas antes da edição da súmula não deve obrigatoriamente observar o enunciado sumular (após sua publicação na imprensa oficial), data venia, não se mostra em consonância com o disposto no art. 103-A, caput, da Constituição Federal, que impõe o efeito vinculante a todos os órgãos do Poder Judiciário, a partir da publicação da súmula na imprensa oficial.
+    6. Desse modo, o acórdão do Tribunal de Justiça do Estado de São Paulo, proferido em 11 de março de 2008, ao não considerar recepcionada a regra do art. 127, da LEP, afrontou a Súmula Vinculante 09.
+    7. Ante o exposto, julgo procedente a presente reclamação para cassar o acórdão da 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo que restabeleceu os dias remidos do reeducando.”
+    Destarte, o entendimento adotado no ato impugnado harmoniza-se com a Súmula n. 9 desta Corte.
+    O artigo 192 do Regimento Interno do Supremo Tribunal Federal estabelece que “Quando a matéria for objeto de jurisprudência consolidada do Tribunal, o Relator poderá desde logo denegar ou conceder a ordem, ainda que de ofício, à vista da documentação da petição inicial ou do teor das informações”.
+    Ex positis, denego a ordem com fundamento nos arts. 192 do RISTF e 38 da Lei n. 8.038/90.
+    Publique-se. Int..
+    Brasília, 8 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
