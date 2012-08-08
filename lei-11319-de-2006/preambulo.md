@@ -1,0 +1,2 @@
+Altera dispositivos da Lei nº 10.479, de 28 de junho de 2002, que dispõe sobre a remuneração dos integrantes das Carreiras de Diplomata, Oficial de Chancelaria e Assistente de Chancelaria; altera os valores dos salários dos empregos públicos criados pela Lei nº 10.225, de 15 de maio de 2001, no Quadro de Pessoal do Hospital das Forças Armadas; dispõe sobre a remuneração dos titulares dos cargos de Juiz-Presidente e Juiz do Tribunal Marítimo; e dá outras providências.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:

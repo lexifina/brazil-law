@@ -1,0 +1,1 @@
+Art. 3º-B. Os valores a serem pagos a título de GDATM serão calculados multiplicando-se o somatório dos pontos auferidos nas avaliações de desempenho institucional e individual pelo valor do ponto constante do Anexo III desta Lei de acordo com o respectivo nível, classe e padrão.
