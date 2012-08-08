@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve a sentença impugnada que em razão de omissão legislativa na edição da lei complementar regulamentadora do direito à aposentadoria especial dos servidores públicos estaduais aplicou, por analogia, o artigo 57 da Lei 8.213/1991.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação ao art. 40, §§ 4º, II e III, e 12, da mesma Carta.
+    O agravo não merece acolhida. Isso porque no julgamento do MI 721/DF, Rel. Min. Marco Aurélio, o Plenário do Supremo Tribunal Federal fixou entendimento no sentido de que, inexistindo legislação específica sobre aposentadoria especial do servidor público, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral, art. 57, § 1º, da Lei nº 8.213/91. Por oportuno, transcrevo a ementa do aludido julgado:
+    “MANDADO DE INJUNÇÃO - NATUREZA. Conforme disposto no inciso LXXI do artigo 5º da Constituição Federal, conceder-se-á mandado de injunção quando necessário ao exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Há ação mandamental e não simplesmente declaratória de omissão. A carga de declaração não é objeto da impetração, mas premissa da ordem a ser formalizada.
+    MANDADO DE INJUNÇÃO - DECISÃO - BALIZAS. Tratando-se de processo subjetivo, a decisão possui eficácia considerada a relação jurídica nele revelada.
+    APOSENTADORIA - TRABALHO EM CONDIÇÕES ESPECIAIS - PREJUÍZO À SAÚDE DO SERVIDOR - INEXISTÊNCIA DE LEI COMPLEMENTAR - ARTIGO 40, § 4º, DA CONSTITUIÇÃO FEDERAL. Inexistente a disciplina específica da aposentadoria especial do servidor, impõe-se a adoção, via pronunciamento judicial, daquela própria aos trabalhadores em geral - artigo 57, § 1º, da Lei nº 8.213/91.”
+    Nesse sentido, menciono as seguintes decisões, entre outras: ARE 665.858/SP, Rel. Min. Celso de Mello; RE 238.591-AgR/DF, Rel. Min. Ellen Gracie; e RE 505.536/DF, Rel. Min. Dias Toffoli.
+    Ademais, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
