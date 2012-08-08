@@ -1,0 +1,1 @@
+Art. 33-A. Considera-se para cômputo do tempo de efetivo exercício a que se referem os arts. 15 e 16 o tempo de efetivo exercício no Ministério das Relações Exteriores dos servidores mencionados nos arts. 32 e 33.
