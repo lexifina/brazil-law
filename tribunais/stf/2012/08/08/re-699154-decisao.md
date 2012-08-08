@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. TRIBUTÁRIO. AUTO DE LANÇAMENTO. CRÉDITO DE ICMS. ESTORNO. COISA JULGADA. EFICÁCIA ENTRE AS PARTES. Não é caso de aplicação pura e simples do artigo 155, § 2º, inciso II, alínea a, posto que a operação antecedente, na data dos fatos, foi tributada pelo imposto, sendo que todas as operações de compra e venda das embalagens, no período do auto de lançamento, vieram acompanhadas das respectivas notas fiscais emitidas pela empresa com o imposto destacado normalmente.
+    A ação declaratória de inexistência de relação jurídica tributária têm efeitos ex tunc, contudo, tal efeito atinge apenas as partes que integraram a demanda e não terceiros, sob pena de afronta aos princípios da coisa julgada, em sua feição subjetiva, e da segurança jurídica.
+    Apelo desprovido” (fl. 123).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 155, §2º, I, II e XII, c, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para concluir pela impossibilidade de estorno dos créditos escriturais de ICMS ora discutidos, a saber, a interpretação das normas processuais que determinam os lindes da coisa julgada.
+    A verificação, no caso concreto, da impossibilidade de estorno dos créditos ora discutidos, ante a circunstância de a coisa julgada formada, em outra relação processual não atingir a esfera jurídica da recorrida restringe-se ao âmbito infraconstitucional, sendo certo que a ofensa à Constituição, se ocorrente, seria apenas indireta. Nesse sentido, destaco o julgamento do AI 733.272-AgR/SP, Rel. Min. Celso de Mello, cuja ementa transcrevo a seguir:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO.
+    - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário.
+    - A discussão em torno da integridade da coisa julgada, por reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da 'res judicata', torna incabível o recurso extraordinário.
+    É que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição - por supor o exame, 'in concreto', dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada - traduz matéria revestida de índole infraconstitucional, podendo caracterizar situação de eventual conflito indireto com o texto da Carta Política (RTJ 182/746), circunstância que pré-exclui a possibilidade de adequada utilização do recurso extraordinário. Precedentes” (grifos meus).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 714.271-AgR/RS, Rel. Min. Dias Toffoli; RE 575.974-AgR/MA, Rel. Min. Ayres Britto; AI 812.574-AgR/RS, Rel. Min. Cármen Lúcia; AI 800.291-AgR/RN, Rel. Min. Ellen Gracie; AI 583.117-AgR/AL, Rel. Min. Joaquim Barbosa; RE 574.101-AgR/SP, Rel. Min. Cezar Peluso; AI 413.458-AgR/RJ, Rel. Min. Gilmar Mendes; AI 788.357-AgR/SP, de minha relatoria.
+    Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 885.340/RS, com trânsito em julgado certificado à fl. 259), tornou-se definitivo o fundamento infraconstitucional que ampara o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
