@@ -1,0 +1,1 @@
+Art. 18-A. O enquadramento dos docentes do extinto Território de Fernando de Noronha no Plano Único de Classificação e Retribuição de Cargos e Empregos criado pela Lei no 7.596, de 10 de abril de 1987, produzirá efeitos financeiros a partir de 1º de janeiro de 2012.
