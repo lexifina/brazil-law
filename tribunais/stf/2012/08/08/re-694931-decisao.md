@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXAME PSICOTÉCNICO. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DO EDITAL DO CONCURSO: SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado do Tribunal de Justiça do Distrito Federal e Territórios:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO. MÉDICO ANESTESIOLOGISTA. CORPO DE BOMBEIROS MILITAR DO DISTRITO FEDERAL. EXAME PSICOTÉCNICO. PERÍCIA JUDICIAL. RECOMENDAÇÃO DO CANDIDATO. OPORTUNIDADE DE DEFESA DAS PARTES. ANULAÇÃO DO ATO ADMINISTRATIVO. 1. Embora inconteste a legalidade e legitimidade da exigência do exame psicotécnico para o ingresso na carreira de Médico do Corpo de Bombeiros Militar do Distrito Federal, a recomendação do autor, atestada mediante exame pericial realizado no juízo, com ampla oportunidade de defesa às partes, impõe a manutenção da sentença que julgou procedente o pedido de anulação do ato administrativo que eliminou o autor do concurso público na avaliação psicológica.2. Recurso do Distrito Federal e remessa oficial conhecidos e não providos”.
+    Os embargos de declaração opostos pelo Recorrente foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, caput, da Constituição da República.
+    Argumenta que “o acórdão recorrido adotou como razão de decidir a reavaliação do exame psicotécnico do autor feita pela perícia judicial, que reviu os critérios de correção da banca examinadora. Ao assim decidir, afastou, na prática, os critérios adotados pela Administração, substituindo-os pelos critérios indicados pela perícia judicial”.
+    Afirma que “o acórdão recorrido não se limitou a declarar a nulidade do exame psicotécnico. Pelo contrário, extrapolou referido limite, avançando para aceitar o laudo da perícia judicial como suficiente para considerar o autor como aprovado na avaliação psicológica”.
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. Concluir de forma diversa da que assentada pelo Tribunal de origem demandaria o reexame do conjunto fático-probatório constante do processo e do edital do concurso, o que não viabiliza o recurso extraordinário. Incidem as Súmulas 279 e 454 deste Supremo Tribunal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXAME PSICOTÉCNICO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido da possibilidade da exigência do exame psicotécnico quando previsto em lei e com a adoção de critérios objetivos para realizá-lo. Precedentes” (AI 745.942-AgR, de minha relatoria, Primeira Turma, DJe 1º.7.2009).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. (...) 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 473.719-AgR/DF, Rel. Min. Eros Grau, Segunda Turma, DJ 1º.8.2008).
+    “EMENTA: 1. Recurso extraordinário: descabimento: questão relativa à subjetividade ou não dos critérios de exame psicotécnico, em concurso público, decidida pelo Tribunal a quo, em tese, na linha da jurisprudência do Supremo Tribunal e cuja solução demanda a reapreciação tanto das normas do respectivo edital, quanto dos fatos e provas: incidência da Súmula 279. 2. Agravo regimental: necessidade de impugnação de todos os fundamentos da decisão agravada: precedentes” (AI 560.617-AgR/MG, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 24.3.2006).
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
