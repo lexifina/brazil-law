@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CÁLCULOS DE LIQUIDAÇÃO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da Primeira Turma Recursal do Juizado Especial Federal Cível do Juizado Especial Federal de São Paulo:
+    “A previsão contida no parágrafo único do artigo 38 da Lei nº 9.099/95, no sentido de que ‘não se admitirá sentença condenatória por quantia ilíquida, ainda que genérico o pedido’, é também estabelecida no Código de Processo Civil, em seu artigo 459, parágrafo único, que estatui que ‘quando o autor tiver formulado pedido certo, é vedado ao juiz proferir sentença ilíquida’.
+    Como se verifica dos dispositivos legais, o que a lei veio estabelecer foi uma garantia ao autor do pedido, que em havendo deduzido pedido certo, deve receber uma sentença líquida. Portanto, se o dispositivo foi instituído em seu benefício, somente a ele caberia invocar a eventual nulidade da sentença atacada”.
+    2. O Agravante afirma que a Turma Recursal de origem teria contrariado o art. 2º, 5º, inc. II, LIV, LV e LXXVIII, e 22, inc. I, da Constituição da República.
+    Assevera que, “ao impingir à autarquia o dever de apresentar cálculo, a r. decisão atinge frontalmente a sistemática traçada pela Lei dos Juizados, em especial o disposto nos artigos 38 e 52, ambos da Lei 9.099/95”.
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de contrariedade direta à Constituição e de incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Lei n. 9.099/1995). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental no agravo regimental. Ofensa reflexa. Precedentes. 1. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional. 2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI 673.611-AgR-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 6.8.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO JUDICIAL. IMPUGNAÇÃO DE CÁLCULO MATÉRIA INFRACONSTITUCIONAL. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimentos de dispositivos infraconstitucionais torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e o do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. (...) 3. A decisão judicial tem que ser fundamentada (art. 93, IX), ainda que sucintamente, sendo prescindível que a mesma se funde na tese suscitada pela parte. Nesse sentido, AI-QO-RG 791.292, Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe de 13.08.2010. 4. Agravo regimental a que se nega provimento” (ARE 639.254, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.10.2011).
+    7. Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
