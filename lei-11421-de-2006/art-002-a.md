@@ -1,0 +1,1 @@
+Art. 2º-A. A partir de 1º de julho de 2012, o auxílio-invalidez de que trata esta Lei será pago no valor de 7,5 (sete e meia) cotas de soldo ou de R$ 1.520,00 (mil quinhentos e vinte reais), o que for maior.
