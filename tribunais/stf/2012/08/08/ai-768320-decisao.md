@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de instrumento interposto contra decisão que não admitiu processamento de recurso extraordinário, por deserção, à falta de recolhimento das despesas do porte de remessa e retorno.
+    Alega a agravante que atua em litisconsórcio necessário com o Estado do Amazonas, pessoa jurídica de direito público interno, e que é dispensado do recolhimento de preparo e despesas com porte de remessa e retorno, conforme preceitua o art. 511, §1º, do CPC.
+    2. Inadmissível o recurso.
+    Como instituição sem fins lucrativos, pessoa jurídica de direito privado, com natureza de serviço social autônomo, (Lei Complementar do Estado do Amazonas nº 30/2001, art. 34), a ora agravante não entra no rol dos isentos previstos no art. 511, §1º, do CPC (cf. AI nº 848.666, Rel. Min. DIAS TOFFOLI, DJe de 8.6.12; AI nº 737.778, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 1.2.12; AI nº 297.294, Rel. Min. SEPÚLVEDA PERTENCE, Primeira Turma, DJe de 17.8.07; AI nº 325.661-AgR/RJ, Rel. Min. ELLEN GRACIE, Primeira Turma, DJ de 15.3.02). No mesmo sentido: AI nº 750.008, Rel. Min. ELLEN GRACIE, Dje de 16.08.2011; AI nº 739.765, Rel. Min. GILMAR MENDES, Dje de 18.04.2012; AI nº 828.360, Rel. Min. CELSO DE MELLO, Dje de 29.05.2012; AI nº 830.789, Rel. Min. MARCO AURÉLIO, Dje de 28.06.2012; ARE nº 669.504, Rel. Min. AYRES BRITTO, Dje de 11.04.2012; AI nº 753.815, Rel. Min. DIAS TOFFOLI, Dje 02.03.2012; AI nº 787.990, Rel. Min. LUIZ FUX, Dje de 23.02.2012; AI nº 749.766, Rel. Min. JOAQUIM BARBOSA, Dje de 15.06.2011; e AI nº 768.374, Rel. Min. CÁRMEN LÚCIA, Dje de 28.06.2012).
+     É firme a jurisprudência desta Corte no sentido de que cabe à parte recorrente provar, no ato da interposição do extraordinário, haver-lhe recolhido o preparo, conforme dispõe o art. 511, caput, do CPC, o que não ocorreu no caso.
+    3. Ante o exposto, nego seguimento ao agravo (arts. 21 do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 8 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
