@@ -1,0 +1,25 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra decisão, que, proferida pelo E. Tribunal Regional Federal da 4ª Região, acha-se consubstanciada em acórdão assim ementado:
+    “TRIBUTÁRIO. COFINS. COMERCIANTES VAREJISTAS DE COMBUSTÍVEIS. SUBSTITUIÇÃO TRIBUTÁRIA PARA FRENTE. PRESCRIÇÃO. LC 118/2005. LEI 9.990/2000. ILEGITIMIDADE ATIVA.
+    1. Proposta a ação após 09-06-2006, submete-se a prescrição qüinqüenal às novas disposições introduzidas pela LC 118/2005, sendo esta a hipótese dos autos.
+    2. Se a Lei nº 9.990/2000 nomeou como contribuintes diretos do PIS e da COFINS incidentes sobre a venda de combustíveis e derivados de petróleo as refinarias de petróleo, desonerou os demais integrantes da cadeia de operações.
+    3. A Lei nº 9.990/2000 passou a viger na data de sua publicação, sem ofensa ao art. 195, VI, da CF/88, porque a anterioridade nonagesimal é contada a partir da edição da MP nº 1991-15, de 10-03-2000.
+    4. Carece a impetrante de legitimidade ativa para pleitear a declaração de inconstitucionalidade da Lei nº 9.990/2000 e obter o ressarcimento da COFINS sobre combustíveis, a partir de julho de 2000, pois tais exações passaram a ser suportadas diretamente pelas refinarias.
+    5. Remessa oficial provida para declarar prescrita a pretensão da impetrante e prejudicados os apelos.”
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário – no ponto em que discute a aplicabilidade dos arts. 3º e 4º da Lei Complementar nº 118/2005 a ações ajuizadas após o termo inicial de vigência da referida norma – não se mostra processualmente viável.
+    Com efeito, o Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 566.621/RS, Rel. Min. ELLEN GRACIE, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO – LEI INTERPRETATIVA – APLICAÇÃO RETROATIVA DA LEI COMPLEMENTAR Nº 118/2005 – DESCABIMENTO – VIOLAÇÃO À SEGURANÇA JURÍDICA – NECESSIDADE DE OBSERVÂNCIA DA 'VACATIO LEGIS' – APLICAÇÃO DO PRAZO REDUZIDO PARA REPETIÇÃO OU COMPENSAÇÃO DE INDÉBITOS AOS PROCESSOS AJUIZADOS A PARTIR DE 9 DE JUNHO DE 2005.
+    …...................................................................................................
+    Reconhecida a inconstitucionalidade do art. 4º, segunda parte, da LC 118/05, considerando-se válida a aplicação do novo prazo de 5 anos tão-somente às ações ajuizadas após o decurso da 'vacatio legis' de 120 dias, ou seja, a partir de 9 de junho de 2005.
+    Aplicação do art. 543-B, § 3º, do CPC aos recursos sobrestados.
+    Recurso extraordinário desprovido.”
+    De outro lado, cabe destacar, no que concerne à discussão sobre a legitimidade da empresa ora recorrente para pleitear a restituição da contribuição social em questão (COFINS), que o recurso extraordinário não se mostra processualmente viável, eis que a controvérsia nele suscitada traduz situação configuradora de ofensa meramente reflexa ao texto da Constituição.
+    É que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário.
+    Esse, igualmente, é o entendimento que o Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. RODRIGO JANOT MONTEIRO DE BARROS, expôs na análise desse específico ponto do presente recurso extraordinário:
+    “(...) caso afastada a prescrição, ainda assim não seria o caso de se alterar a conclusão do julgado, pois o acórdão assentou a ilegitimidade dos comerciantes varejistas e dos distribuidores de derivados de petróleo para postular a restituição de valores de COFINS com base na interpretação da Lei nº 9.990/2000. Assim, eventual ofensa ao texto constitucional somente se daria de maneira indireta ou reflexa, não autorizando a admissão do extraordinário.”
+    Impende assinalar, finalmente, no tocante à natureza jurídica da empresa recorrente e às espécies de receitas por ela auferidas, que o acórdão recorrido decidiu referida controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento, no ponto, do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Sendo assim, e pelas razões expostas, conheço, em parte, do presente recurso extraordinário, para, nessa parte, negar-lhe provimento.
+    Publique-se.
+    Brasília, 08 de agosto de 2012.
+Ministro CELSO DE MELLO
+Relator
