@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA: AUSÊNCIA DE REPERCUSSÃO GERAL. MATÉRIA INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “TRIBUTÁRIO - APELAÇÃO CÍVEL - PEDIDO DE COMPENSAÇÃO DE DÉBITOS COM CRÉDITOS DE PRECATÓRIOS PENDENTE DE JULGAMENTO - LEGITIMIDADE DO SECRETÁRIO DO ESTADO PARA FIGURAR NO PÓLO PASSIVO DO MANDAMUS - INCOMPETÊNCIA ABSOLUTA DO JUÍZO IMPETRADO - INTELIGÊNCIA DO ART. 4º DO DECRETO 5154/2001 - REVOGAÇÃO DA NORMA QUE NÃO AFETA A COMPETÊNCIA TENDO EM VISTA A PREVISÃO IDÊNTICA CONSTANTE NO DECRETO 2838/97. IMPOSSIBILIDADE DE APROVEITAMENTO DOS ATOS JÁ PRATICADOS. MANDADO DE SEGURANÇA EXTINTO SEM RESOLUÇÃO DE MÉRITO COM FULCRO NO ART. 267, VI DO CPC. RECURSO PREJUDICADO. O art. 4º do Decreto 5154/2001 prevê a competência do Secretário de Estado para apreciar pedido administrativo de compensação, sendo que, em que pese a revogação da norma pelo Decreto 418/2007, ainda que de forma genérica, esta competência já existia no Regulamento do Decreto 2.838/97 que continua em vigor, razão pela qual se denota a ilegitimidade da autoridade apontada como coatora. Se a autoridade apontada equivocadamente como coatora tem foro em instância diferente daquela contra quem deveria ter sido impetrado o mandado de segurança, não é possível a correção do engano pela aplicação da "teoria da encampação", em sede de apelação, tornando-se obrigatória a extinção do feito, sem resolução do mérito, por ilegitimidade da parte impetrada. (Nesse sentido - STJ, 1ª Turma, RMS 26762/RJ, Rel. Min. Teori A. Zavascki, julgado em 02.06.09).”
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. XXXV e LXXVIII, da Constituição da República.
+    Sustenta que, “no presente caso, tem-se um mandado de segurança em que o juízo extinguiu sem resolução do mérito, por haver entendido que houve incorreta indicação da autoridade coatora não levando em conta os princípios constitucionais da efetividade processual e da instrumentalidade das formas, teria sido providencial determinar-se a emenda à petição inicial, conforme já exposto, economizando procedimento, estrutura do Estado, o trabalho de serventuários e juízes, poupando custos e fundamentalmente efetivando o direito desta Recorrente de ter seu direito líquido e certo satisfeito.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Tribunal de origem não se manifestou sobre o mérito da ação, limitando-se ao exame dos pressupostos de cabimento do mandado de segurança.
+    Esse tema foi objeto do Agravo de Instrumento n. 800.074, Relator o Ministro Gilmar Mendes, no qual ficou assentada a ausência de repercussão geral por se tratar de matéria infraconstitucional:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral” (DJe 3.10.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    7. Ademais, este Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido: AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
