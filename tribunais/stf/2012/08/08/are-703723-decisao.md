@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO DE REVISTA – INTERVALO INTRAJORNADA – JORNADA CONTRATUAL DE SEIS HORAS - EXTRAPOLAÇÃO HABITUAL – Acórdão em consonância com a Orientação Jurisprudencial nº 380 da SDI-1 desta Corte. Recurso não conhecido.
+    HORAS IN ITINERE - SUPRESSÃO POR NORMA COLETIVA – IMPOSSIBILIDADE - Esta Corte Superior tem entendido pela impossibilidade de o instrumento coletivo proceder à supressão total do direito às horas in itinere, por se tratar de norma cogente. Precedentes da SDI-1. Recurso não conhecido.
+    HORAS EXTRAS – MINUTOS QUE ANTECEDEM E SUCEDEM A JORNADA - Esta Corte já pacificou o entendimento, por meio da OJ n.º 372 da SDI-1, no sentido de que, a partir da vigência da Lei nº 10.243, de 27.06.2001, que acrescentou o § 1.º ao artigo 58 da CLT, não mais prevalece cláusula prevista em Convenção ou Acordo Coletivo que elastece o limite de 5 minutos que antecedem e sucedem a jornada de trabalho para fins de apuração das horas extras. Recurso não conhecido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 7º, XXVI, da mesma Carta.
+    O agravo não merece acolhida. Isso porque a apreciação dos temas constitucionais, no caso, depende da interpretação de cláusula integrante de acordo coletivo de trabalho e da legislação infraconstitucional aplicável à espécie (Consolidação das Leis do Trabalho). Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessária a interpretação de cláusulas contratuais, o que atrai a incidência da Súmula 454 do STF, bem como seria imprescindível a análise de normas infraconstitucionais, o que inviabiliza o recurso extraordinário, a teor da Súmula 280 do STF. Nesse sentido, menciono os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PAGAMENTO DE HORAS IN ITINERE. IMPOSSIBILIDADE DE ANÁLISE DE ACORDO coletivo DE TRABALHO. SÚMULA N. 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 824.649-AgR/SC, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ACORDO COLETIVO DE TRABALHO. CLÁUSULAS. VALIDADE. MATÉRIA INFRACONSTITUCIONAL. A questão relativa à validade de cláusulas inseridas em acordo coletivo de trabalho implica o exame da matéria infraconstitucional que disciplina a espécie, circunstância que inviabiliza o seguimento do extraordinário. Agravo regimental a que se nega provimento”. (RE 588.901-AgR/SC, Rel. Min. Eros grau, Segunda Turma).
+    Nesse mesmo sentido: ARE 653.160/BA, Rel. Min. Ayres Britto; ARE 650.168/MG, Rel. Min. Gilmar Mendes; e ARE 657.368/BA, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
