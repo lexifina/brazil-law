@@ -1,0 +1,34 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Cláudio Gastão da Rosa Filho e outra, em favor de LUCIANA FROZZA, contra decisão do Ministro Napoleão Nunes Maia Filho, que indeferiu o pedido de liminar formulado no HC 206.821/SC do Superior Tribunal de Justiça.
+    Consta dos autos que a paciente foi condenada, em primeiro grau, à pena de 18 anos de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos arts. 12 e 14 da Lei 6.368/1976, com o direito de recorrer em liberdade.
+    Inconformados, a paciente e outros corréus apelaram para o Tribunal de Justiça do Estado de Santa Catarina, que deu parcial provimento aos recursos para absolver os réus do crime previsto no art. 14 da Lei 6.368/1976 (associação criminosa) e, no que concerne à paciente, reduzir a reprimenda do delito previsto no art. 12 da mesma lei para 6 anos de reclusão, mantendo, no mais, a sentença de primeira instância.
+    Contra essa decisão, a defesa interpôs recurso especial, mas o 2º Vice-Presidente do TJ/SC não admitiu o recurso.
+    Foi manejado, então, agravo de instrumento no STJ, ocasião em que o Ministro Relator, por decisão monocrática, negou provimento ao recurso. Não satisfeita, a defesa apresentou agravo regimental, mas o pleito não foi conhecido pela Quinta Turma. Com isso, a condenação transitou em julgado em 10/5/2011.
+    Buscando a redução da reprimenda, a modificação do regime prisional e a substituição da sanção corporal por pena restritiva de direitos, a defesa impetrou habeas corpus no Superior Tribunal de Justiça, ocasião em que o Ministro Relator indeferiu o pedido de liminar.
+    É contra essa decisão que se insurgem os impetrantes.
+    Sustentam, preliminarmente, o afastamento da Súmula 691/STF, afirmando que a decisão ora atacada é manifestamente ilegal, “isso porque (…) é absolutamente idêntica a outras proferidas pela autoridade coatora, a exemplo do que se constata nas proferidas nos Habeas Corpus de nºs. 202.892/MG, 202.906/SP e 202.544/SP” (grifos no original).
+    Aduzem, nesse contexto, que a autoridade coatora não fez “qualquer exame em relação às razões que demonstram a ilegalidade suportada pela paciente (...)”.
+    Quanto ao mérito, afirmam, de início, que “a quantidade de entorpecente encontrada na residência da paciente não se afigura suficiente para aumentar a pena-base, sob o prisma das circunstâncias do crime (...)”, a qual só poderia ser utilizada para majorar a reprimenda a título de consequências do delito.
+    Asseveram, outrossim, que a quantidade de droga apreendida não justifica o aumento da pena-base em 3 anos, “devendo ser readequada a majoração de forma razoável, fixando-a um pouco acima do mínimo legal (...)”.
+    Alegam, mais adiante, que o acórdão do TJ/SC não observou o art. 617 do Código de Processo Penal, argumentando que o magistrado de primeiro grau operou um aumento de 2 anos para cada circunstância judicial desfavorável à ré, que eram cinco, não podendo a Corte Estadual, em recurso exclusivo da defesa, fixar um aumento de 3 anos referente a uma única circunstância judicial desfavorável.
+    Sustentam, ademais, a possibilidade de incidência da causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei 11.343/2006, ao argumento de que não há provas de que a paciente dedicava-se à atividade criminosa, “até porque, a remissão e a delação de outros corréus, foi retratada em juízo, o que impede a utilização da prova inquisitorial invocada, sob pena de mal trato ao artigo 155 do Código de Processo Penal”.
+    Afirmam, nesse ponto, que,
+    “tendo em vista que a paciente não é reincidente, possui bons antecedentes, não integra qualquer organização criminosa, é evidente que se encaixa em todos os requisitos legais que deve militar em seu favor, devendo a redução alcançar o patamar máximo de diminuição de pena de 2/3”.
+    Observam, por fim, que, com a readequação da reprimenda em face das teses acima esgrimidas, a paciente terá o direito à substituição da pena remanescente por serviços comunitários, na mesma linha adotada por esta Corte no julgamento do HC 97.256/RS, Rel. Min. Ayres Britto, e demais julgados posteriores.
+    Requerem, ao final, liminarmente, “a concessão da ordem para suspender o mandado de prisão até julgamento de mérito pelo Superior Tribunal de Justiça do HC 206.821 – SC” (grifos no original).
+    É o relatório suficiente. Decido.
+    A decisão questionada tem o seguinte teor:
+    “1. A concessão de tutela de eficácia imediata (liminar) em Habeas Corpus constitui medida de extrema excepcionalidade, somente admitida nos casos em que demonstrada de forma manifesta a necessidade e urgência da ordem, bem como o abuso de poder ou a ilegalidade do ato impugnado.
+    2. Na hipótese vertente, tais circunstâncias não restaram evidenciadas de plano, razão pela qual INDEFIRO, por agora, o pedido de provimento emergencial postulado.
+    3. Solicitem-se informações à douta autoridade apontada como coatora, com a máxima urgência; após, abra-se vista dos autos ao Ministério Público Federal, para o parecer de estilo.
+    4. Publique-se; intimações necessárias”.
+    A superação do teor da Súmula 691 desta Corte somente seria justificável no caso de flagrante teratologia, ilegalidade manifesta ou abuso de poder, situações nas quais não se enquadra a decisão impugnada.
+    Ainda que em juízo de mera delibação, não encontro naquele decisum as hipóteses mencionadas, aptas a justificar a superação do referido verbete.
+    Verifica-se que o Ministro do STJ apreciou tão somente os requisitos autorizadores da concessão daquela excepcional medida e concluiu pela inexistência deles.
+    Não há, nesse ato, nenhuma ilegalidade flagrante, tampouco abuso de poder. Muito pelo contrário. Não se pode exigir, nessa fase processual, que o Relator esgote os fundamentos pelos quais a ordem deva ou não ser concedida. Se os argumentos dos impetrantes não foram suficientes para, a priori, formar o convencimento daquele Magistrado, caberá ao Colegiado respectivo, depois de instruído o processo, analisar as questões postas sob exame, não havendo, nesse procedimento, nenhum constrangimento ilegal.
+    Destaque-se, por fim, que se trata de paciente condenada pelo delito de tráfico ilícito de entorpecentes, em processo que já percorreu todas as vias ordinárias e extraordinária, com trânsito em julgado, não sendo flagrante, portanto, o constrangimento ilegal alegado a justificar o abrandamento do enunciado da Súmula 691 desta Corte.
+    Ante esse quadro, é de todo conveniente aguardar o pronunciamento definitivo do Superior Tribunal de Justiça, não sendo a hipótese de se abrir, nesse momento, a via de exceção.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Publique-se.
+    Brasília, 9 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
