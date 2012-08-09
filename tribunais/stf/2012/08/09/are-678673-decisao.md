@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de agravo contra decisão que não admitiu recurso extraordinário interposto de acórdão do Superior Tribunal de Justiça e assim ementado:
+    “PROCESSUAL CIVIL. COISA JULGADA. ERRO MATERIAL. LIQUIDAÇÃO DE SENTENÇA. POSSIBILIDADE DE CORREÇÃO. 1.- Erro material é aquele perceptível prima facie, sem necessidade de maior exame, que reflete um descompasso entre a vontade ou o sentido impregnado nas razões de decidir e a fórmula escrita efetivamente manifestada na decisão. 2.- Para que essa não-coincidência, seja capaz de evitar os efeitos da coisa julgada, o erro material deve, ainda, ser qualificado pela ausência de debate ou controvérsia judicial a seu respeito, evidenciando-se logo que não tenha sido percebida pelos julgadores e não tenha sido objeto de decisão sob o contraditório. 3.- No caso dos autos não se verifica erro material na sentença que serve de título executivo judicial apto a afastar o efeito da coisa julgada. 4.- Recurso Especial provido.” (p. 95 – vol. 8)
+    O recorrente sustenta, com base no art. 102, III, a, violação ao art. 5º, XXXVI, da Constituição Federal.
+    Apresenta preliminar formal e fundamentada de repercussão geral, no forma do art. 543-A, § 2º, do CPC. Argúi, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa e que haveria, além de relevância jurídica, repercussão econômico-social.
+    2. Inconsistente o recurso.
+    O acórdão impugnado decidiu a causa com base apenas no exame da legislação infraconstitucional pertinente e do conjunto fático-probatório, de modo que eventual ofensa à Carta Magna seria, aqui, apenas indireta.
+    Pacífica é a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de provas (súmula 279).
+    De igual modo, o recurso esbarraria em orientação assente na Corte segundo a qual
+    "o direito adquirido, o ato jurídico perfeito e a coisa julgada encontram proteção em dois níveis: em nível infraconstitucional, na LICC, art. 6º, e em nível constitucional, art. 5º, XXXVI, CF. Todavia, o conceito de tais institutos não se encontra na Constituição, art. 5º, XXXVI, mas na lei ordinária, art. 6º da LICC. Assim, a decisão que dá pela ocorrência, ou não, no caso concreto, de tais institutos situa-se no contencioso de direito comum, que não autoriza a admissão do recurso extraordinário" (AI nº 520.942, Rel. Min. CARLOS VELLOSO, DJ de 5.8.2005).
+    3. Ante o exposto, conheço do agravo para negar-lhe provimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, 544, § 4º, II, a, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 9 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
