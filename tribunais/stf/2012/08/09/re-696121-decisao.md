@@ -1,0 +1,31 @@
+CONSTITUCIONAL E ADMINISTRATIVO RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL PRESUMIDA. ARTIGO 323, § 1º, DO RISTF. ABONO DE PERMANÊNCIA. NATUREZA JURÍDICA. INCIDÊNCIA, OU NÃO, DE IMPOSTO DE RENDA. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+1. A repercussão geral é presumida quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante desta Corte (artigo 323, § 1º, do RISTF ).
+2. Ambas as turmas desa Corte fixaram entendimento no sentido de que “a controvérsia sobre o caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional” (ARE 646.358-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJ de 15.05.12 e ARE 662.017-AgR, Primeira Turma, Relator o Ministro Dias Toffoli, DJ de 03.08.12).
+3. In casu, o acórdão recorrido assentou:
+“APELAÇÃO CIVIL E REEXAME NECESSÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. LEGITIMIDADE DO ESTADO DE SANTA CATARINA PARA FIGURAR NO POLO PASSIVO DE AÇÃO MOVIDA POR AGENTE PÚBLICO ESTADUAL PARA DEVOLUÇÃO DE VALORES RETIDOS NA FONTE PARA FINS DE IMPOSTO DE RENDA.
+‘Os Estados da Federação são partes legítimas para figurar no polo passivo das ações propostas por servidores públicos estaduais, que visam o reconhecimento do direito à isenção ou à repetição do indébito relativo ao imposto de renda retido na fonte’ (STJ, Resp n. 989.419/RS, rel. Min. Luiz Fux, Primeira Seção, j. 25.11.2009).
+ABONO DE PERMANÊNCIA. ART. 40, § 19, DA CF. VERBA DE CARÁTER REMUNERATÓRIO. INCIDÊNCIA DO IMPOSTO DE RENDA. MATÉRIA CONSOLIDADDA PELA PRIMEIRA SEÇÃO DO STJ SOB O RITO DE RECURSOS REPETITIVOS. RESTITUIÇÃO DO IR RECOLHIDO DESCABIDA.
+‘Sujeitam-se à incidência do Imposto de Renda os rendimentos recebidos a título de abono de permanência a que se referem o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional 41/2003, e o art. 7º da Lei 10.887/2004. Não há lei que autorize considerar o abono de permanência como rendimento isento’ (Resp n. 1.192.556/PE, rel. Min. Mauro Campbell Marques, Primeira Seção, j. 25.8.2010).
+RECURSO E REMESSA PROVIDOS.”
+4. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto por GETÚLIO CORRÊA, com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal de 1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+    “APELAÇÃO CIVIL E REEXAME NECESSÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO.
+    LEGITIMIDADE DO ESTADO DE SANTA CATARINA PARA FIGURAR NO POLO PASSIVO DE AÇÃO MOVIDA POR AGENTE PÚBLICO ESTADUAL PARA DEVOLUÇÃO DE VALORES RETIDOS NA FONTE PARA FINS DE IMPOSTO DE RENDA.
+    ‘Os Estados da Federação são partes legítimas para figurar no polo passivo das ações propostas por servidores públicos estaduais, que visam o reconhecimento do direito à isenção ou à repetição do indébito relativo ao imposto de renda retido na fonte’ (STJ, Resp n. 989.419/RS, rel. Min. Luiz Fux, Primeira Seção, j. 25.11.2009).
+    ABONO DE PERMANÊNCIA. ART. 40, § 19, DA CF. VERBA DE CARÁTER REMUNERATÓRIO. INCIDÊNCIA DO IMPOSTO DE RENDA. MATÉRIA CONSOLIDADDA PELA PRIMEIRA SEÇÃO DO STJ SOB O RITO DE RECURSOS REPETITIVOS. RESTITUIÇÃO DO IR RECOLHIDO DESCABIDA.
+    ‘Sujeitam-se à incidência do Imposto de Renda os rendimentos recebidos a título de abono de permanência a que se referem o § 19 do art. 40 da Constituição Federal, o § 5º do art. 2º e o § 1º do art. 3º da Emenda Constitucional 41/2003, e o art. 7º da Lei 10.887/2004. Não há lei que autorize considerar o abono de permanência como rendimento isento’ (Resp n. 1.192.556/PE, rel. Min. Mauro Campbell Marques, Primeira Seção, j. 25.8.2010).
+    RECURSO E REMESSA PROVIDOS.”
+    Nas razões do apelo extremo, o recorrente alega violação do artigo 40, § 19, da CF/88, sustentando, em síntese, a não incidência de imposto de renda sobre o adicional de permanência instituído pela EC 41/03, haja vista tratar-se de verba de caráter indenizatório.
+    É o relatório. DECIDO.
+    O recurso não merece prosperar.
+    Ab initio, deixo de apreciar a existência da repercussão geral, uma vez que o artigo 323, § 1º, do RISTF dispõe que "tal procedimento não terá lugar, quando o recurso versar questão cuja repercussão já houver sido reconhecida pelo Tribunal, ou quando impugnar decisão contrária a súmula ou a jurisprudência dominante, casos em que se presume a existência de repercussão geral”.
+    A Primeira Turma do Supremo Tribunal Federal fixou entendimento no sentido de que “a controvérsia sobre o caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional” (ARE 646.358-AgR, Relator o Ministro Ricardo Lewandowski, DJ de 15.05.12):
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE O ABONO DE PERMANÊNCIA. NATUREZA JURÍDICA DA VERBA. OFENSA INDIRETA. PRECEDENTES. AGRAVO IMPROVIDO. I – A jurisprudência do STF firmou-se no sentido de que a discussão a respeito do caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional. II – Agravo regimental improvido.”
+    A Segunda Turma desta Corte adotou o mesmo entendimento ao julgar o ARE 662.017-AgR, Primeira Turma, Relator o Ministro Dias Toffoli, DJ de 03.08.12, cuja ementa transcrevo:
+    “EMENTA Agravo regimental em recurso extraordinário com agravo. Tributário. Incidência de imposto de renda sobre o abono de permanência. Natureza jurídica da verba. Ofensa reflexa. Precedentes. Agravo não provido. 1. A jurisprudência desta Corte firmou-se no sentido de que a controvérsia sobre o caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional. 2. Agravo regimental não provido.”
+    Ex positis, nego seguimento ao recurso extraordinário com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 9 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
