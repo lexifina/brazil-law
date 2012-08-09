@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a) interposto em processo no qual se discutia a extensão, aos servidores inativos, nos mesmos valores concedidos aos ativos em relação à Gratificação de Atividade Administrativa – GDATA (instituída pela Lei 10.404/2002), à Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte – GDPGTAS (instituída pela Lei 11.357/2006) e à Gratificação de Desempenho de Atividade Técnico-operacional em Tecnologia Militar - GDATEM (instituído pela Lei 11.355/2006).
+    Eis o teor do acórdão recorrido (fls. 195):
+    “CONSTITUCIONAL E ADMINISTRATIVO - SERVIDOR PÚBLICO INATIVO - GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA (GDATA) - GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO - OPERACIONAL EM TECNOLOGIA MILITAR (GDATEM) - GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE-GDPTGTAS. LEIS NºS 10.404/2002, 10.971/2004 e 11.357/2006. EXTENSÃO AOS INATIVOS - POSSIBILIDADE. PRECEDENTES DA SUPREMA CORTE E DO STJ.
+    1 O Supremo Tribunal Federal reconheceu que, com a edição da Medida Provisória nº 198, de 15/7/2004, que posteriormente foi convertida na Lei nº 10.971/2004, a GDATA foi transformada, em sua totalidade, numa gratificação de caráter geral, devendo ser estendida a todos os servidores inativos, a partir da edição da aludida Medida Provisória (RE nº 476.279-0/DF, Rel.Min.Sepúlveda Pertence, DJ de 19/4/2007).
+    2 – Partindo do entendimento jurisprudencial do Plenário da Suprema Corte a respeito da GDATA (RE n. 476279-0/DF; RE n. 476.390-7/DF), o Eg. Superior Tribunal de Justiça posicionou-se no sentido de estender aos servidores aposentados e pensionistas (abarcados pelo art. 7º da EC n. 41/2003) o mesmo percentual de 80%, até que seja editada a regulamentação da GDPGTAS, prevista no §7º do art. 7º da Lei n. 11357/2006, a partir da qual deve ser aplicado o disposto no art. 77 da mesma lei. (MS 12215, Relator Min. Felix Fischer, DJ de 04/10/2007).
+    3 –No mesmo diapasão, o Col. STF manifestou-se quanto à GDPGTAS, no sentido e aplicar-se, mutatis mutandis, os mesmos fundamentos apresentados para a GDATA, uma vez que é manifesta a semelhança do disposto no § 7º do art. 7º da Lei 11.357/2006, com o disposto no art. 6º da Lei 10.404/2002 e no art. 1º da Lei 10.971/2004. (Agravo de Instrumento 715768, Rel. Min. Ricardo Lewandowski, DJ de 05/06/2008).
+    4– Há que se resguardar a possibilidade de se deduzir as parcelas comprovadamente pagas, no momento da liquidação, a fim de se evitar bis in idem, e observar, após 30 de junho de 2009, da regra da Lei 11960/09, quanto aos juros e correção monetária.
+    5– Apelações desprovidas e remessa necessária a que se dá parcial provimento.”
+    O recurso extraordinário da União alega ofensa ao disposto nos artigos 61, § 1º; 169, § 1º e 40, § 8º, da Constituição Federal.
+    Primeiramente, verifico que a alegada ofensa ao art. 169, § 1º da Constituição Federal não foi ventilada no acórdão recorrido nem foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Quanto à GDATA, verifico o acórdão recorrido e a manifestação da recorrente encontram-se no mesmo sentido do já decidido pelo Supremo Tribunal Federal, motivo pelo qual passo à análise dos demais temas constantes do recurso.
+    O recurso extraordinário afirma-se o caráter pro labore faciendo da GDATEM e conclui que sendo relativa ao efetivo exercício de atividade seria indevida a extensão das gratificações aos inativos.
+    Já quanto à GDPGTAS o recurso afirma da impossibilidade de extensão aos inativos dos mesmos critérios de aplicados aos servidores em atividade tendo em vista não haver como avaliar o desempenho do servidor já aposentado.
+    Quanto à GDATEM, a primeira Turma desta corte assim decidiu:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO – ADMINISTRATIVA – GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR – GDATEM. SÚMULA VINCULANTE N. 20. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO. (AI 811.049-AgR, rel. min. Carmen Lúcia, Primeira Turma, Dje de 24.03.2011)
+    Nesse sentido, ainda, o RE 653.636, rel. min. Luiz Fux, DJe de 10.05.2012 e o RE 668.052, rel. min. Celso de Melo, Dje de 29.02.2012
+    Quanto à GDPGTAS, ambas as Turmas desta Corte têm entendido pela possibilidade de extensão da mencionada gratificação aos servidores inativos.
+    Confira-se:
+    “RECURSO EXTRAORDINÁRIO - GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA (GDATA) E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE (GDPGTAS) - EXTENSÃO DE AMBAS AS GRATIFICAÇÕES AOS SERVIDORES INATIVOS - POSSIBILIDADE - PRECEDENTES FIRMADOS PELO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO.” (RE 585.230-AgR, rel. min. Celso de Mello, Segunda Turma, publicado no DJe de 26.06.2009)
+    E ainda:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA E DE SUPORTE - GDPGTAS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.“
+    (AI 715.549-AgR, rel. min. Carmen Lúcia, Primeira Turma, DJe 20.11.2009)
+    Anoto que quando do Julgamento RE 585.230-AgR, o ministro relator, min. Celso de Mello, fez a seguinte ponderação (mencionando o Julgado pelo Min. Ricardo Lewandowski no AI 717.134):
+    “Cumpre enfatizar, quanto à discussão em torno da extensão, ou não, da Gratificação de Desempenho de Atividade Técnico-Administrativa e de Suporte (GDPGTAS) aos servidores inativos, que se aplicam ‘mutatis mutandis’, os mesmos fundamentos apresentados acima, uma vez que é manifesta a semelhança do disposto no § 7º do art. 7º da Lei 11.357/2006, que trata desta gratificação, com o disposto no art. 6º da Lei 10.404/2002 e no art. 1º da Lei 10.971/2007, que tratam da GDATA”.
+    Dessas orientações não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 9 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
