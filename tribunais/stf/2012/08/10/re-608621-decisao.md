@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Instituto Nacional de Seguro Social interpõe recurso extraordinário com fundamento nas alíneas “a” e “b” do permissivo constitucional, contra acórdão proferido pela Turma Recursal do Juizado Federal Cível do Estado da Bahia, assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO INTERNO CONTRA DECISÃO MONOCRÁTICA (ART. 557, §1º, DO CPC). REVOGAÇÃO DA ANTECIPAÇÃO DE TUTELA COM EFEITOS EX NUNC. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO DESPROVIDO.
+    1. Da mesma forma que se aplica à espécie o regramento do caput do artigo 557, do CPC, a autorizar a proferição da objurgada decisão monocrática, deve também ser assegurar a análise colegiada do objeto da discordância. Contudo, não vislumbro razão para a reforma da decisão.
+    2. O art. 115, inciso II, c/c § 1º, da Lei n. 8.213/91, tem seu alcance delimitado à hipótese em que o benefício foi pago a maior administrativamente, e não em Juízo. De todo modo, a jurisprudência do TRF 1ª Regão tem admitido, por analogia a aplicação da Súmula 106 do TCU, no sentido de que o segurado não precisa devolver os valores, decorrentes de verba de caráter alimentar, de boa-fé recebidos.
+    3. No tocante a art. 273, § 3º, c/c art. 475-O do CPC, devem ser, de igual sorte, interpretados de conformidade com os princípios da segurança jurídica, da razoabilidade e da proporcionalidade, de modo a não alcançar a devolução de verbas de caráter alimentar, recebidos de boa-fé por força de decisão judicial.
+    4. A revogação da tutela antecipatória em razão de reforma da sentença recorrida, por força de novo posicionamento jurisprudencial, capitaneado pelo Supremo Tribunal Federal, há de ser ex nunc, em face do caráter alimentar do benefício, cujo acréscimo foi recebido de boa fé, por força de comando judicial proferido conforme entendimento jurisprudencial firmado à época” (fl. 79).
+    Alega o recorrente violação dos artigos 5º, incisos I, XXXV, XXXVI e LV, e 195, § 5º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07. Assim, conforme decidido pelo Plenário desta Corte na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, aplica-se ao presente recurso o instituto da repercussão geral.
+    A irresignação não merece prosperar, haja vista que todos os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do AI nº 841.473/RS, relator o Ministro Cezar Peluso, concluiu pela ausência da repercussão geral da matéria constitucional versada nestes autos, relativa a restituição dos valores recebidos indevidamente por beneficiários de boa-fé. A manifestação lançada no Plenário Virtual está assim ementada:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional” (DJe de 1º/9/11).
+    Aplicando essa orientação em casos similares ao destes autos tem-se os seguintes julgados desta Corte: AI nº 849.479/PR-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 5/12/11; AI nº 812.251/RS-AgR, Relator o Ministro Gilmar Mendes, DJe de 27/10/11; e ARE nº 638.548/RS, Relator o Ministro Luiz Fux, DJe de 7/10/11.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
