@@ -1,0 +1,17 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a , da Constituição) interposto no bojo de mandado de segurança no qual se discute decesso remuneratório da impetrante que teve o valor de gratificação de atividade técnica reduzido de R$800,00 para R$560,00, por meio do Decreto 19.399/1998.
+    Eis a ementa do acórdão recorrido (fls. 68):
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. REDUÇÃO. DECRETO ESTADUAL. IMPOSSIBILIDADE. ALTERAÇÃO VENCIMENTAL. PRINCÍPIO DA LEGALIDADE. SEGURANÇA CONCEDIDA.
+    1. A Constituição da República assegura, em seu art. 37, incisos X e XV, a alteração remuneratória dos servidores públicos apenas e somente por lei específica, assim como, ressalvados casos expressos não aplicáveis à espécie, a irredutibilidade vencimental.
+    2. A redução em 30% (trinta por cento) de vantagem pecuniária por decreto estadual afronta, de uma só vez, as duas normas constitucionais que asseguram o princípio da legalidade para a fixação do padrão remuneratório e, outrossim, a impossibilidade de redução vencimental.
+    3. Mandado de segurança concedido.”
+    Em seu recurso extraordinário o estado do Amazonas alega violação ao disposto nos arts. 5º, XXXVI; 40, § 8º; 61, § 1º, II, “a” e 37, XV, da Constituição Federal, na medida em que reconhece direito adquirido à incorporação de vantagens decorrentes de exercício em cargo comissionado sem que haja lei nesse sentido; determina a extensão à impetrante de vantagem cujo valor foi majorado por decreto e não por Lei e assegura a irredutibilidade em face de gratificação cuja natureza é “propter laborem”.
+    O Tribunal a quo, analisando as provas dos autos e o teor da legislação aplicável ao caso, decidiu pela existência de afronta à garantia da irredutibilidade de vencimentos. Ora, resta claro que uma eventual modificação desse entendimento no sentido de se reconhecer a inocorrência de decesso remuneratório - implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, bem como seria necessário rever os critérios adotados pelo Tribunal estadual sobre a aplicação da legislação estadual, reexame esse incabível em recurso extraordinário (Súmulas 279 e 280).
+    Confira-se, nesse sentido, RE 593.175 (rel. min. Cármen Lúcia, DJe de 18.02.2010), RE 542.987 (rel. min. Carlos Britto, DJe de 11.02.2010) e RE 388.770-AgR (rel. min. Eros Grau, Segunda Turma, DJe de 20.06.2008), este último assim ementado:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. IRREDUTIBILIDADE DE VENCIMENTOS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 1. O princípio da irredutibilidade de vencimentos deve ser observado mesmo em face do entendimento de que não há direito adquirido a regime jurídico. Precedentes. 2. Para dissentir-se do acórdão impugnado quanto a ocorrência ou não da redução dos vencimentos, seria necessário o reexame da matéria fático-probatória [Súmula n. 279 do STF]. Agravo regimental a que se nega provimento.“
+    E ainda, especificamente sobre a questão colocada nos autos, o RE 586.320, rel. min. Carmen Lúcia, Dje de 01.02.2011; RE 588.977, rel. min. Dias Toffoli, Dje de 31.08.2010; RE 632.207, rel. min. Ellen Gracie, Dje de 08.08.2011 e AI 498.778 – AgR, rel. min. Carlos Britto, Primeira Turma, DJ de 04.02.2005.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 10 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
