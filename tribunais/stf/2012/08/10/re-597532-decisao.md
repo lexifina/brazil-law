@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a e b, da Constituição Federal) que tem como violado o disposto nos arts. 5º, XXXIX, XLIII e XLVI; e 97 da Carta Magna.
+    Consta dos autos que o Superior Tribunal de Justiça negou provimento ao agravo interposto pelo Ministério Público Federal, mantendo a concessão da ordem de habeas corpus para afastar a imposição do regime inicialmente fechado, ante a gravidade abstrata, a condenado por crime hediondo, em acórdão cuja ementa tem o seguinte teor (fls. 93):
+    “PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ATENTADO VIOLENTO AO PUDOR. PRETENSÃO AO REGIME INICIALMENTE SEMI-ABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. IMPOSSIBILIDADE DE FIXAÇÃO DO REGIME MAIS GRAVOSO COM BASE NA GRAVIDADE PRÓPRIA DO DELITO. CONSIDERAÇÕES ABSTRATAS, AFASTADAS DAS EXIGIDAS EM LEI. CONSTRANGIMENTO ILEGAL EVIDENCIADO. NEGADO PROVIMENTO AO AGRAVO.
+    1. Os precedentes desta Turma condenam a imposição do regime fechado ante a gravidade abstrata do crime, por si só, porquanto ao fazer a cominação para o delito o legislador já a considerou, por isso é inadmissível, em princípio, a determinação de regime mais severo.
+    2. A análise das circunstâncias judiciais serve não só para a fixação da pena-base, mas também para determinação do regime de cumprimento da reprimenda privativa de liberdade imposta, sendo que, reiteradamente, este Tribunal tem considerado que sendo o réu primário e a pena fixada em seu mínimo legal, não se pode fixar regime mais rigoroso que o previsto para a sua quantidade.
+    3. Tendo em vista o quantum da pena imposta, a primariedade do réu e as circunstâncias judiciais a ele favoráveis, deve ser reconhecida à ocorrência de constrangimento ilegal caracterizado pela imposição do regime fechado para o início do desconto da reprimenda.
+    4. Negado provimento ao agravo regimental para manter a decisão que concedeu a ordem para alterar o regime inicial de cumprimento da pena privativa de liberdade para o semi-aberto.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões recursais, o recorrente alega que a Suprema Corte, ao declarar a inconstitucionalidade da vedação à progressão de regime, não afastou a obrigatoriedade de que os condenados pela prática de crimes hediondos e equiparados cometidos antes da vigência da Lei 11.464/2007 cumpram a pena inicialmente em regime fechado.
+    Sustenta que o acórdão recorrido contrariou o art. 5º, XXXIX, XLVI e XLIII, da Constituição, uma vez que havia previsão legal para a fixação do regime fechado, e que a Constituição determina que a lei, e não o julgador, regulará a individualização das penas, além de fixar que a lei determinará tratamento diferenciado aos condenados por crimes hediondos e equiparados.
+    Aponta, por fim, ofensa à regra da reserva de Plenário, pois o Superior Tribunal de Justiça, por órgão fracionário, ao dar interpretação extensiva à decisão da Suprema Corte, acabou por declarar a inconstitucionalidade da imposição de regime inicial fechado para crime hediondo ou equiparado.
+    Decido.
+    O Plenário desta Corte, no julgamento do HC 111.840, Rel. Min. Dias Toffoli, j. de 27.06.2012 (Informativo 672), declarou, incidentalmente, a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/1990, na parte em que contida a obrigatoriedade de fixação de regime fechado para início de cumprimento de pena aos condenados pela prática de crimes hediondos ou equiparados.
+    A Corte deferiu o habeas corpus com a finalidade de alterar para semiaberto o regime inicial de pena do paciente, o qual fora condenado por tráfico de drogas, com pena inferior a 8 anos de reclusão e regime inicial fechado, em razão da Lei 11.464/2007, que instituíra a obrigatoriedade de imposição desse regime a crimes hediondos e assemelhados.
+    Naquela ocasião, salientou-se que, assim como no caso da vedação legal à substituição da pena privativa de liberdade por restritiva de direitos em condenação pelo delito de tráfico, já declarada inconstitucional pelo STF, a definição do regime deveria sempre ser analisada independentemente da natureza da infração.
+    Dessa orientação não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
