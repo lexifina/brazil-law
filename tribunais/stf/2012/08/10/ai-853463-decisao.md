@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. JUROS. LIMITAÇÃO. ALEGADA CONTRARIEDADE AO ART. 192, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA. NORMA CONDICIONADA À EDIÇÃO DE LEI COMPLEMENTAR. SÚMULA VINCULANTE N. 7 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “APELAÇÃO CÍVEL. REVISIONAL. CONTRATOS BANCÁRIOS. ABERTURA DE CRÉDITO E CÉDULAS DE CRÉDITO INDUSTRIAL. CERCEAMENTO DE DEFESA. PRELIMINAR AFASTADA. CONTRATOS DE ABERTURA DE CRÉDITO. CAPITALIZAÇÃO DE JUROS. CONTRATOS ANTERIORES À MP 2170-36. AUSÊNCIA DE PREVISÃO LEGAL. IMPOSSIBILIDADE. PACTOS POSTERIORES À MP 2170-36. ADMISSIBILIDADE, SE CONVENCIONADA. JUROS REMUNERATÓRIOS. LIMITE. TAXA MÉDIA DE MERCADO. COMISSÃO DE PERMANÊNCIA. PACTUAÇÃO. COBRANÇA. POSSIBILIDADE. CORREÇÃO MONETÁRIA, MULTA E JUROS MORATÓRIOS. CUMULAÇÃO. DESCABIMENTO. CÉDULAS DE CRÉDITO INDUSTRIAL. CAPITALIZAÇÃO DE JUROS. CONVENÇÃO. VIABILIDADE. JUROS REMUNERATÓRIOS. LIMITE. 12% AO ANO. COMISSÃO DE PERMANÊNCIA. COBRANÇA VEDAÇÃO. MULTA. 2%. JUROS MORATÓRIOS. 1% AO ANO. TR E TJLP. PACTUAÇÃO. COBRANÇA. POSSIBILIDADE. SUCUMBÊNCIA RECÍPROCA. MANUTENÇÃO.
+    Nos contratos firmados pelo Sistema Financeiro Nacional, em data posterior à edição da Medida Provisória n. 2.170-36, é possível a capitalização mensal de juros, desde que haja expressa previsão contratual.
+    Com exceção das cédulas e notas de crédito rural, comercial e industrial, considera-se abusiva a taxa de juros remuneratórios que superar a média praticada pelo mercado à época da assinatura do contrato. Precedentes do STJ. Enunciado I do Grupo de Câmaras de Direito Comercial do TJSC.
+    É cabível a cobrança de comissão de permanência, exceto nas cédulas e notas de crédito rural, comercial e industrial, desde que contratada, calculada pela média praticada pelo mercado, respeitado o limite de juros pactuado, afastados a correção monetária, os juros remuneratórios, a multa e os juros moratórios. Precedentes do STJ. Enunciado III do Grupo de Câmaras de Direito Comercial.
+    “A Taxa Referencial (TR) e a Taxa de Juros de Longo Prazo (TJLP) podem ser utilizadas como fatores de correção monetária em contratos bancários, desde que expressamente pactuadas” (Enunciado VI do Grupo de Câmaras de Direito Comercial deste Tribunal)” (fls. 621-622).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal quanto a alegada ofensa aos arts. 173, § 4º, e 192, § 3º, da Constituição da República; b) o acórdão recorrido está em harmonia com a Súmula Vinculante n. 7 do Supremo Tribunal Federal; e c) “o recurso extraordinário não é cabível para análise de contrariedade à legislação infraconstitucional” (fls. 974-975).
+    3. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 173, § 4º, e 192, § 3º, da Constituição da República.
+    Assevera que “no caso em tela, não há nenhuma fonte de direito que permita que as instituições financeiras cobrem de seus clientes, taxas de juros superiores, no caso, 12% ao ano” (fl. 812).
+    Sustenta que “para os contratos anteriores a vigência do Novo Código Civil, também os juros não poderão ser superiores a 12% ao ano, uma vez que o art. 1.062 do Código Civil de 1916, combinado com o art. 1º do Decreto nr. 22.626/33, já indicavam a aplicação dos juros no máximo de 12% ao ano” (fl. 819).
+    Pondera que “não se tem como admitir que em face da Emenda Constitucional nr. 40, de 29 de maio de 2003, teria sido suprimido o art. 192, § 3º da Constituição Federal, e com isto estaria livre a pactuação de juros” (fl. 820).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Cumpre afastar, inicialmente, o óbice imposto pela decisão agravada quanto à alegada ausência de prequestionamento, pois, nos autos, a matéria constitucional posta à apreciação foi suscitada em momento processual adequado.
+    Todavia, a superação desses fundamentos não é suficiente para o acolhimento da pretensão da Agravante.
+    5. Razão jurídica não assiste à Agravante.
+    6. Incide no caso a Súmula Vinculante n. 7 do Supremo Tribunal Federal, segundo a qual “a norma do § 3º do artigo 192 da Constituição, revogada pela Emenda Constitucional n. 40/2003, que limitava a taxa de juros reais a 12% ao ano, tinha sua aplicação condicionada à edição de lei complementar”.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. EXIGÊNCIA DO PREQUESTIONAMENTO EXPLÍCITO. ART. 192, § 3º, DA CONSTITUIÇÃO DA REPÚBLICA. NORMA CONDICIONADA À EDIÇÃO DE LEI COMPLEMENTAR: SÚMULA VINCULANTE N. 7 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 806.472-AgR, de minha relatoria, Primeira Turma, DJe 26.11.2010).
+    “Agravo regimental no recurso extraordinário. Limitação dos juros remuneratórios. Artigo 192, § 3º, da Constituição Federal. Autoaplicabilidade. Inocorrência. Súmula Vinculante nº 7 desta Corte. 1. A jurisprudência do Supremo Tribunal Federal firmou entendimento no sentido de que o art. 192, § 3º, da Constituição Federal não é autoaplicável, conforme verbete da Súmula Vinculante nº 7 desta Corte. 2. Agravo regimental não provido” (RE 559.341-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 13.6.2012).
+    O acórdão recorrido não divergiu da jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
