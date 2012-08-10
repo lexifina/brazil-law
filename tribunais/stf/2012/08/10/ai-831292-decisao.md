@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Ceará e assim ementado:
+    “Responsabilidade civil. Morte de menor, com 08 (oito) anos e meses de idade, por afogamento em piscina de clube destinada a adultos, segundo testemunhas, desprovida de grades de vedação de passagem para menores, de profissionais salva-vidas e de bóias de salvamento. Ação reparatória de danos julgada procedente. Sentença confirmada. Agravo retido e apelação cível conhecidos e desprovidos. Decisão unânime.” (fl. 77)
+    Opostos embargos de declaração, foram rejeitados (fls. 109-116).
+    Sustenta a parte recorrente, com base no art. 102, III, a, ofensa aos arts. 7º, IV, e 5º, LV, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    Com efeito, os temas constitucionais suscitados no apelo extremo não foram objeto de consideração no acórdão recorrido, faltando-lhes, assim, o requisito do prequestionamento, que deve ser explícito (súmulas 282 e 356).
+    Ademais, diante da impossibilidade de, em recurso extraordinário, rever a Corte as premissas de fato em que, para decidir a causa, se assentou o Tribunal de origem, à luz da prova dos autos, é evidente que, para adotar outra conclusão, seria mister reexame prévio do conjunto fático-probatório, coisa de todo inviável (súmula 279).
+    É como têm decidido ambas as Turmas desta Corte, em hipóteses análogas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR MORTE EM INSTITUIÇÃO DE ENSINO CUMULADA COM PENSÃO. RESPONSABILIDADE CIVIL. DANOS MORAIS. INVIABILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE nº 657.259 AgR/SC, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, Dje de 09.4.2012)
+    “AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL POR DANOS MORAIS E MATERIAIS. NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento.” (AI nº 702.268 AgR/SP, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 01.3.2011)
+    E suposta violação às garantias constitucionais do contraditório e da ampla defesa configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos:
+    "(...) As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário." (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002. Nesse sentido: AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.9.2002)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 10 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
