@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, que adotou a seguinte conclusão (fls. 03 do vol. 10 dos autos digitalizados):
+    “Pugna o reclamado pela incidência da prescrição total, tendo em vista que o pedido alusivo à indenização do valor atinente ao imposto de renda constou de aditamento apresentado na audiência do dia 16.01.2006, quando já expirados mais de dois anos da rescisão contratual, ocorrida em 13.01.2004. Aponta violado o art. 7º, XXIX, da Constituição Federal e contrariada a Súmula nº 268 do TST.
+    Esclareça-se que, na hipótese, não se há falar na incidência da prescrição total à pretensão concernente à indenização por dano material decorrente da diferença existente entre o valor final do imposto de renda a ser calculado sobre o valor total da condenação e aquele que deveria ter sido recolhido em época própria, na medida em que, o desfazimento do pacto laboral deu-se em 31.04.2004 e ação trabalhista fora ajuizada em 05.12.2005. Assim, o aditamento apresentado na audiência do dia 16.01.2006 não foi alcançado pelo biênio prescricional, já interrompido pela pretérita ação trabalhista intentada, nos termos da Súmula nº 268 desta Corte ad quem, (...)
+    Assim, a decisão proclamada pela Turma de segundo grau coadunou-se à jurisprudência desta Corte Superior Trabalhista consolidada no referido verbete sumular, razão porque NÃO CONHEÇO do recurso de revista.”
+    Nas razões do recurso extraordinário, indica-se ofensa ao disposto no art. 7º, XXIX, da Constituição federal. Sustenta-se que deve ser pronunciada a prescrição total da aludida verba.
+    É o relatório. Decido.
+    Cinge-se a controvérsia às hipóteses de interrupção da prescrição.
+    O art. 7º, XXIX, da Constituição aponta tão somente o prazo prescricional. Inexiste no texto constitucional regramento acerca da espécie de prescrição ou das causas suspensivas ou interruptivas, de modo que se trata de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário. Nesse sentido: RE 567.592-AgR (rel. min. Ayres Britto, DJe de 02.12.2011), AI 486.246-AgR (rel. min. Ellen Gracie, DJe de 06.08.2010), AI 569.103-AgR (rel. min. Ayres Britto, DJ de 10.08.2006), AI 559.476-AgR (rel. min. Ayres Britto, DJ de 08.09.2006), AI 520.706-AgR (rel. min. Ellen Gracie, DJ de 03.02.2006), RE 573.016-AgR (rel. min. Gilmar Mendes, DJe de 21.11.2008).
+    Do exposto, conheço do agravo para negar-lhe provimento.
+    Publique-se.
+    Brasília, 10 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
