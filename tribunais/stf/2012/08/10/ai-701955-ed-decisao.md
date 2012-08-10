@@ -1,0 +1,23 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO – EFEITO MODIFICATIVO.
+    1. Às folhas 151 e 152, proferi a seguinte decisão:
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INVIABILIDADE – DESPROVIMENTO DO AGRAVO.
+    1. No tocante à devolução das parcelas descontadas a título de contribuição social, considerada a Emenda Constitucional nº 41, o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo está em consonância com o decidido pelo Supremo na Ação Direta de Inconstitucionalidade nº 3105.
+    2. No mais, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pela Corte de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, conduzir esta Corte ao reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+    Os embargantes, na minuta de folha 160 a 162, articulam com a existência de omissão no julgado. Sustentam ter o extraordinário versado dois temas: o primeiro relativo à violação ao artigo 195, § 6º, da Constituição Federal; e, outro, à ofensa ao artigo 40, § 7º, também do Texto Maior. Conforme argumentam, a Lei Complementar estadual nº 954/03, de 31 de dezembro de 2003 – no que institui, com esteio na Emenda Constitucional nº 41/03, a contribuição previdenciária dos servidores inativos do Estado de São Paulo – deve observar a anterioridade nonagesimal. Defendem a exigibilidade do referido tributo somente a partir de 1º de abril de 2004. Postulam que a restituição, já deferida na origem, abranja também esse período. Discorrem sobre o segundo ponto, buscando o resguardo contra a eventualidade de, em função da devolução das contribuições indevidamente retidas, vir-se a recusar futuros pedidos de pensão.
+    A parte embargada apresentou as contrarrazões de folha 168 e 169, manifestando-se pelo desprovimento dos declaratórios.
+    2. Na interposição destes embargos, observaram-se os pressupostos de recorribilidade. A peça, subscrita por profissional da advocacia regularmente credenciado (folha 22 a 28), foi protocolada no prazo legal. Conheço.
+    Razão assiste aos embargantes, devendo ser sanado o equívoco apontado. Apesar da menção expressa a julgado do Supremo no acórdão de origem, a interpretação do precedente não se fez fiel ao entendimento prevalecente. O Tribunal de Justiça do Estado de São Paulo assentou (folha 64):
+    Não se deve olvidar, no entanto, que a partir do advento da Emenda Constitucional nº 41/03, que novamente alterou a redação do artigo 40, da Constituição Federal, o referido desconto passou a ser expressamente admitido, tendo o Supremo Tribunal Federal entendido ser a norma aplicável de imediato, ou seja, a partir de sua vigência (ADIN nº 3.105-8/DF).
+    No voto condutor da Ação Direta de Inconstitucionalidade nº 3.105-8/DF, da lavra do Ministro Cezar Peluso, há explícita ressalva à observância dos princípios constitucionais da ordem tributária, entre os quais, a anterioridade nonagesimal. Valho-me de trecho do que Sua Excelência consignou, na ocasião:
+    Em síntese, tampouco deste segundo ângulo depara-se ofensa à garantia constitucional do direito adquirido, pois se cuida de tributo que, na modalidade de contribuição previdenciária, é só exigível em relação a fatos geradores ocorridos após a data da publicação da EC nº 41/2003, observados os princípios constitucionais da irretroatividade e da anterioridade (art. 150, III, a, e art. 195, § 6º).
+    Quanto ao temor de afronta ao artigo 40, § 7º, da Constituição, caso de fato se verifique, às partes caberá argui-la em via própria.
+    3. Ante o exposto, conheço dos embargos e os provejo, emprestando-lhes efeitos modificativos. Faço-o para, apreciando de imediato o recurso extraordinário, consignar o enquadramento na alínea “a” do inciso III do artigo 102 da Constituição Federal e dar-lhe parcial provimento a fim de que, reformando parcialmente o acórdão recorrido assentar que a restituição abarque as contribuições retidas até 30 de março de 2004.
+    4. Publiquem.
+Brasília, 10 de agosto de 2012.
+Ministro MARCO AURÉLIO
+Relator
