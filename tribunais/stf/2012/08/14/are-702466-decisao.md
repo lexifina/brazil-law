@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL. COMPETÊNCIA LEGISLATIVA DA UNIÃO. PRECEDENTES. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “Direito Constitucional. Mandado de Injunção. Preliminares de Litisconsórcio Passivo Secundário do Estado de Sergipe; Carência da ação por impossibilidade jurídica do pedido e indeferimento da inicial. Rejeitadas. Servidores Públicos Estaduais. Aposentadoria Especial. Art. 40, § 4º da Constituição Federal. Ordem Parcialmente Concedida”.
+    2. O Recorrente alega que teriam sido contrariados os arts. 24, inc. XII , e 40, § 4º, da Constituição da República.
+    Afirma que “visa, por meio do presente mandado de injunção, a regulamentação do art. 40, § 4º, da CF (…) o dispositivo constitucional em questão remete à lei complementar a sua regulamentação. Ora, quando o constituinte quis remeter determinada matéria ao legislador complementar estadual, o fez de forma expressa, consoante se vê dos artigos 25, § 3º, e 128, § 5º, CF. Em todas as demais hipóteses em que a Carta Magna faz referência a leis complementares, entende-se tratar-se de lei complementar federal. A lei complementar em questão, portanto, é de iniciativa do Presidente da República, e não do Governador do Estado, razão pela qual o impetrado não possui legitimidade para figurar no polo passivo da presente lide” (grifos nossos).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    4. No agravo interposto, o Agravante reitera os argumentos do recurso extraordinário.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica assiste ao Agravante.
+    7. O Supremo Tribunal Federal assentou que a competência concorrente para legislar sobre previdência social não afasta a necessidade de tratamento uniforme das exceções às regras de aposentadoria dos servidores públicos. É obrigatória a atuação normativa da União para a edição de lei regulamentadora nacional.
+    Enquanto não for regulamentado o § 4º do art. 40 da Constituição, o Presidente da República é parte legítima para figurar no polo passivo de mandado de injunção em que se discute a aposentadoria especial de servidor público federal, estadual ou municipal. Nesses casos, a competência é deste Supremo Tribunal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO DISTRITAL. ART. 40, § 4º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. COMPETÊNCIA CONCORRENTE DA UNIÃO, ESTADOS E DO DISTRITO FEDERAL PARA LEGISLAR SOBRE PREVIDÊNCIA SOCIAL. NECESSIDADE DE TRATAMENTO UNIFORME DA MATÉRIA. 1. A competência concorrente para legislar sobre previdência social não afasta a necessidade de tratamento uniforme das exceções às regras de aposentadoria dos servidores públicos. Necessidade de atuação normativa da União para a edição de norma regulamentadora de caráter nacional. 2. O Presidente da República é parte legítima para figurar no polo passivo de mandado de injunção em que se discute a aposentadoria especial de servidor público. Precedente. 3. Agravo regimental ao qual se nega provimento” (MI 1.832-AgR, de minha relatoria, Plenário, DJe 18.5.2011).
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991. LEGITIMIDADE PASSIVA. 1. Enquanto não for regulamentado o art. 40, § 4º, da Constituição da República, o Presidente da República é parte legítima para figurar no polo passivo de mandado de injunção em que se discute a aposentadoria especial de servidor público. Precedentes. 2. Agravo regimental ao qual se nega provimento” (MI 1.463-AgR, de minha relatoria, Plenário, DJe 13.5.2011).
+    8. Pelo exposto, dou provimento a este agravo e, desde logo, ao recurso extraordinário (art. 544, § 4º, inc. II, alínea c, do Código de Processo Civil) para extinguir o processo sem resolução de mérito, por ilegitimidade da parte (art. 267, inc. VI, do Código de Processo Civil).
+    Publique-se.
+    Brasília, 14 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
