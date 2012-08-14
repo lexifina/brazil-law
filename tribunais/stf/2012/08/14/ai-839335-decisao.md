@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE CABIMENTO. MATÉRIA INFRACONSTITUCIONAL: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AÇÃO RESCISÓRIA. DIREITO TRIBUTÁRIO. ICMS. FUNDOPEM. INVIABILIDADE DA AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI E ERRO DE FATO NÃO CONFIGURADOS. IMPROCEDÊNCIA. Efetuado julgamento da apelação, pela Câmara, aos limites postos na causa de pedir e no pedido deduzido na ação originária, dando a interpretação que entendeu adequada, inviável o acolhimento da rescisória com base em interpretação de dispositivos legais, inexistente erro de fato. Não configuradas as hipóteses do art. 485, V e IX, do CPC. Precedentes do STJ. PREQUESTIONAMENTO. A apresentação de questões para fins de prequestionamento não induz à resposta de todos os artigos referidos pela parte, mormente porque foram analisadas todas as questões entendidas pertinentes para solucionar a controvérsia submetida à apreciação. Ação rescisória julgada improcedente” (fl. 759).
+    Os embargos de declaração opostos foram rejeitados.
+    3. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. LIV, 19, inc. II, 93, inc. IX, 150, § 6º, 173, § 4º, e 174, caput, da Constituição da República.
+    Argumenta que “ao se reconhecer, pois, a possibilidade de se permitir a fruição de benefício fiscal por período superior ao estabelecido por lei, o aresto rescindendo adentrou seara reservada ao legislador e, ao não reconhecer o aresto recorrido que tal providência autorizaria a rescisão do julgado rescindendo por violação ao § 6º do artigo 150 da Constituição Federal, mostrou-se inequívoca a ofensa novamente perpetrada” (fl. 846-846 v.).
+    4. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento da matéria constitucional e de ofensa constitucional direta (fls. 552-554 v.).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Ademais, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a controvérsia relativa aos pressupostos de admissibilidade da ação rescisória é de natureza infraconstitucional. Assim, eventual contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E CONSTITUCIONAL. 1. PRESSUPOSTOS DE CABIMENTO E ADMISSIBILIDADE DE AÇÃO RESCISÓRIA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. VEDAÇÃO DE VINCULAÇÃO DE VANTAGEM AO SALÁRIO MÍNIMO. IMPOSSIBILIDADE DA MODIFICAÇÃO DA BASE DE CÁLCULO POR DECISÃO JUDICIAL: SÚMULA VINCULANTE N. 4 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 711.796-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “PROCESSO CIVIL. AÇÃO RESCISÓRIA. PRESSUPOSTO DE ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. LEI 9.099/95. 1. A análise dos pressupostos de admissibilidade da ação rescisória depende do exame da legislação infraconstitucional. Precedentes. 2. Agravo regimental improvido” (AI 719.797-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 17.12.2009).
+    8. Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de agosto de 2010.
+Ministra CÁRMEN LÚCIA
+Relatora
