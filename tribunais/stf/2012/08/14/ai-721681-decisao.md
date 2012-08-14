@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição) interposto contra acórdão negou à parte ora recorrente a correção dos proventos de aposentadoria.
+    Eis a ementa do acórdão recorrido (fls. 22):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. TÉCNICO DO TESOURO NACIONAL. APOSENTADORIA COM PROVENTOS CORRESPONDENTES À REMUNERAÇÃO DE AUDITOR FISCAL DO TESOURO NACIONAL. CARGOS DA MESMA CARREIRA. DL 2.225/85. PERMISSIVO LEGAL. LEI 1.711/52, ART. 184, I. HIPÓTESE A QUE NÃO SE APLICA A DECISÃO NA ADIN 213-RJ POR NÃO SE TRATAR DE INVESTIDURA ADMINISTRATIVA.
+    -Sendo da mesma carreira os cargos de Técnico do Tesouro Nacional e Auditor do Tesouro Nacional, na dicção do art. 1º do Decreto-Lei 2.225/85, aos servidores que se aposentaram na Classe Especial do cargo de Técnico do Tesouro Nacional assiste o direito à percepção de seus proventos correspondentes ao vencimento ou remuneração da classe imediatamente superior do cargo de Auditor do Tesouro Nacional (art. 184, Ida Lei 1.711/52 e 192, I da Lei 8.112/90).
+    - Não se tratando de investidura em cargo público mas de vantagem funcional assegurada pela Lei 1.711/52, então vigente, e reproduzida pelo art. 192, I da Lei nº 8.112/90 que assegura ao servidor aposentar-se com os proventos correspondentes ao da classe imediatamente superior (AR 693-PE, Rel. Juiz Castro Meira, DJU 12.04.96, p. 23.776), afastada está a hipótese de aplicação da decisão do STF na ADIN 213-7-RJ, segundo a qual estão ‘banidas das formas de investidura admitidas pela Constituição a ascensão e a transferência que são formas de ingresso em carreira diversa daquela para a qual o servidor público ingressou por concurso’.
+    - Tratando-se de prestação continuada e sendo o direito reclamado de natureza alimentar, são prescritas apenas as diferenças devidas anteriormente ao lustro que antecede o ajuizamento da ação.
+    - Apelação dos autores provida. Remessa oficial e apelação da união prejudicadas.”
+    Alega a União em seu recurso extraordinário violação aos arts. 37, II e 40, III, a, da Constituição Federal.
+    O acórdão recorrido diverge da orientação jurisprudencial desta Corte na matéria, firme no sentido de afastar, com fundamento no princípio do concurso público, a possibilidade de servidores, que passaram à inatividade no cargo de Técnico do Tesouro Nacional, percebam proventos calculados com base na remuneração do cargo de Auditor Fiscal do Tesouro Nacional. Confira-se a seguinte ementa:
+    “TÉCNICOS DO TESOURO NACIONAL APOSENTADOS COM PROVENTOS ACRESCIDOS DE 20%, NOS TERMOS DO INCISO II DO ART. 184 DA LEI Nº 1.711/52. PRETENSÃO À REMUNERAÇÃO DO CARGO SUPERIOR DE AUDITOR FISCAL DO TESOURO NACIONAL (INCISO I DO MESMO ARTIGO). Não fazem jus a proventos equivalentes do cargo superior de sua classificação, porque o referido padrão depende do concurso, nos termos do Decreto-Lei nº 2.225/85. Recurso extraordinário conhecido e provido.”
+    (RE 219.484 , r el. min. Ilmar Galvão, DJ de 12.06.1998).
+    No mesmo sentido: RE 361.033-AgR, rel. min. Eros Grau, DJ de 28.09.2007; RE 524.666, rel. min. Cezar Peluso, DJE de 11.03.2010; RE 450.749, rel. min. Sepúlveda Pertence, DJE de 08.08.2005; RE 443.096, rel. min. Carlos Velloso, DJE de 09.09.2005 e RE 367.425, rel. min. Ayres Britto, DJE de 05.04.2004.
+    Do exposto, nos termos do art. 557, § 1º-A, do Código de Processo Civil, conheço do agravo e dou provimento ao recurso extraordinário. Fixo honorários advocatícios em 10% sobre o valor da causa atualizado. Custas ex lege .
+    Publique-se.
+    Brasília, 14 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
