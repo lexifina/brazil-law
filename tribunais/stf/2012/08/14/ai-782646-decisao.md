@@ -1,0 +1,25 @@
+A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 639.138, verbis :
+    “Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que entendeu ser inválida cláusula de contrato de previdência complementar que prevê a aplicação de percentuais distintos para homens e mulheres no cálculo da aposentadoria.
+    Transcrevo, no que interessa, a ementa desse julgado:
+    A utilização de percentuais diferenciados para cálculo de aposentadoria complementar de seguros dos sexos masculino e feminino caracteriza ofensa ao princípio da isonomia, previsto no art. 5º, inc. I, da Constituição Federal.
+    No caso em exame se trata de contrato de adesão, cuja interpretação deve ser mais benéfica à parte hipossuficiente, quanto mais em se tratando de matéria relativa à previdência privada, que, embora trate de res privata, submete-se às regras de ordem pública quanto a sua formação e execução dos referidos planos assistenciais.
+    Portanto, é perfeitamente possível estabelecer a equiparação no caso em tela entre situações semelhantes, na medida em que, tanto homens quanto mulheres no mais das vezes contribuem sobre base salariais idênticas, sendo razoável que nutram a expectativa de perceberem proventos suplementares em igual medida (fl. 96).
+    No recurso extraordinário, firmado na alínea a do permissivo constitucional, alega-se violação dos artigos 5º, incisos I e LV; 202, §1º; 202, caput, da Constituição Federal.
+    Na preliminar destinada à demonstração de repercussão geral, fundamentou-se que a previdência complementar, pela relevância que representa ao país, ganhou assento constitucional, por meio da Emenda nº 20/98, sustentando-se que o acórdão recorrido teria desrespeitado a higidez do sistema conferida pelo constituinte derivado. (fl. 156/157)
+    No mérito, em síntese, alega-se que o associado do sexo masculino deve contribuir durante 30 anos para ter direito à aposentadoria proporcional, no patamar de 80%, enquanto a associada do sexo feminino, com 25 anos de contribuição, faz jus, proporcionalmente, ao patamar de 70% (fl. 164).
+    Argumenta-se que a justiça isonômica consubstancia-se em tratar desigualmente os desiguais. Dessa forma, aduz-se que o percentual atribuído às mulheres não fere a equidade na forma de participação de custeio, visto que estas recolhem contribuições em período inferior (5 anos a menos) (fl. 168).
+    Por fim, conclui-se:
+    Assim, sendo o compromisso contratual da FUNCEF complementar, deve ser respeitado o percentual de benefício aplicável, na referência de salário de contribuição privado/FUNCEF do associado, que é diverso do salário de contribuição oficial/INSS e do salário/remuneração CAIXA (fl. 175).
+    Analiso a repercussão geral da questão jurídica suscitada.
+    Na origem, o Tribunal a quo invalidou a cláusula do plano de previdência com fundamento na isonomia entre gêneros, consagrada no art. 5º, I, da Constituição Federal. Logo, a questão em análise se diferencia da submetida ao RE-RG 590.005, Rel. Min. Cezar Peluso, DJe 18.12.2009, que teve enfoque infraconstitucional. Eis a ementa desse julgado:
+    RECURSO. Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.
+    No presente caso, a questão é eminentemente constitucional e cinge-se a saber à luz do princípio da isonomia se o fator de discrímen adotado nos dispositivos constitucionais que tratam dos regimes geral e próprio de previdência gênero da pessoa projeta-se na ordem jurídica com força para vincular os contratos de previdência privada.
+    Logo, a controvérsia em exame reclama deste Supremo Tribunal Federal pronunciamento jurisdicional que imprima segurança jurídica aos contratos de previdência complementar, de ordem a definir a licitude, ou não, de contratos que estabeleçam benefício menor para mulheres, levando em consideração menor tempo de contribuição.
+    Revela-se, portanto, questão que alcança relevância econômica, política, social e jurídica, e que ultrapassa os interesses subjetivos da causa.
+    Ante o exposto, manifesto-me pela existência de repercussão geral da questão constitucional trazida no extraordinário”.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 14 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
