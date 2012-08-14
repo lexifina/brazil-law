@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pelo próprio paciente, Cesar Alejandro Enciso, contra atos dos Relatores da PPE 654, HC 112.114/RJ e HC 108.791/RJ deste Supremo Tribunal Federal.
+    Narra a inicial que o Governo da Itália formulou pedido de prisão preventiva de Cesar Alejandro Enciso para fins de extradição. A Ministra Cármen Lúcia, em 22.11.2010, nos autos da PPE 654, decretou a segregação cautelar. A prisão do paciente-impetrante foi efetivada em 30.11.2010.
+    Argumenta a impetração, em síntese, que o Governo da Itália não procedeu à juntada da documentação formalizadora do pedido extradicional no prazo previsto em Tratado Internacional. Sustenta que a omissão do Estado Requerente em instruir a extradição no prazo fixado resultaria na colocação imediata de Cesar Alejandro Enciso em liberdade.
+    Requer, em medida liminar e no mérito, a concessão da ordem para colocar o paciente em liberdade ou em regime de prisão domiciliar.
+    A Defesa do paciente-impetrante formulou pedidos de revogação da prisão preventiva nos autos da PPE 654, e por meio das impetrações HC 112.114/RJ e HC 108.791/RJ, os quais foram indeferidos pelos respectivos relatores.
+    Ressalto, desde logo, que o HC 112.114/RJ, rel. Min. Dias Toffoli, e HC 108.791/RJ, rel. Min. Gilmar Mendes, por intermédio de decisão monocrática proferida pelos relatores, não foram conhecidos por manifestamente inadmissíveis e contrariarem a jurisprudência dominante desta Suprema Corte.
+    Quanto ao pedido de revogação da prisão preventiva do paciente-impetrante nos autos da PPE 654, a Ministra Cármen Lúcia assim indeferiu o pleito:
+    “(...)
+    Todavia, quanto ao pedido de concessão de liberdade vigiada ou prisão domiciliar, observo que, conforme dispõe o artigo 22 da Lei n. 9.474/97, enquanto pendente o processo relativo ao refúgio, ao peticionário será aplicável a legislação sobre estrangeiros.
+    O parágrafo único do artigo 84 da Lei n. 6.815/80 preceitua que a prisão para fins de extradição perdurará até o julgamento final do Supremo Tribunal Federal, não sendo admitidas a liberdade vigiada, a prisão domiciliar nem a prisão albergue.
+    Como a condição de refugiado ainda não foi reconhecida pelas autoridades brasileiras, o Extraditando continua sob a jurisdição do Supremo Tribunal Federal.
+    De se ressaltar ter este Supremo Tribunal firmado jurisprudência no sentido de que o pedido de reconhecimento da condição de refugiado não é apto a ensejar a revogação da prisão preventiva ou a concessão de prisão domiciliar.
+    Como exemplo, entre outros, nas Extradições ns. 961, Rel. Min. Joaquim Barbosa, DJ 1.2.2006; 987, Rel. Min. Carlos Britto, DJ 8.9.2005; 783 Rel. Min. Néri da Silveira, DJ 14.11.2003; e nos Habeas Corpus ns. 81.709, Rel. Min. Ellen Gracie, DJ 31.5.2002; 71.172, Rel. Min. Celso de Mello, DJ de 13.5.1994; e 81.127, Rel. Min. Sydney Sanches, DJ 26.9.2003...
+    (…).
+    Pelo exposto, suspendo o julgamento do presente processo, até a decisão que vier a ser proferida no pedido de refúgio apresentado no CONARE; indefiro a conversão da prisão cautelar para fins de extradição em prisão domiciliar ou liberdade vigiada, por falta de amparo legal; e defiro a “autorização para (...) oitiva [do Extraditando] nas dependências do Presídio Ary Franco/RJ, conforme estampado no 2º parágrafo do ofício expedido pelo Comitê Nacional para Refugiados”.”
+     Manifesta a inadmissibilidade da presente ação constitucional, à luz da jurisprudência firmada pelo Plenário desta Suprema Corte, no sentido de que “não cabe pedido de habeas corpus originário para o Tribunal Pleno, contra ato de Ministro ou órgão fracionário da Corte” (HC 86.548/SP, rel. Min. Cezar Peluso, maioria, DJe 19.12.2008), forte na aplicação analógica do enunciado da Súmula 606/STF (“Não cabe habeas corpus originário para o Tribunal Pleno de decisão de Turma, ou do Plenário, proferida em habeas corpus ou no respectivo recurso”).
+    Nesse mesmo sentido os seguintes julgados: HC 91.207/RJ, rel. p/ acórdão Min. Eros Grau, Plenário, maioria, DJe 05.3.2010; HC 100.397/MG, rel. p/ acórdão Min. Cármen Lúcia, Plenário, maioria, DJe 01.7.2010; HC 100.738/RJ, rel. p/ acórdão Min. Cármen Lúcia, Plenário, maioria, DJe 01.7.2010; e HC 104.843-AgR/BA, rel. Min. Ayres Britto, Plenário, maioria, DJe 02.12.2011.
+    E recentemente, em incidente envolvendo caso de competência originária, o Pleno reafirmou aquela compreensão ao decidir que“não cabe habeas corpus para o Plenário contra ato de Ministro do Supremo Tribunal Federal” (HC 107323 – Relatora para o acórdão Ministra Carmen Lúcia – Pleno – por maioria – j. 01.03.2012 – Dje de 30.5.2012)
+    O presente habeas corpus, portanto, por manifestamente incabível, não merece trânsito.
+    Ante o exposto, nego seguimento ao presente habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se. Arquivem-se.
+    Brasília, 14 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
