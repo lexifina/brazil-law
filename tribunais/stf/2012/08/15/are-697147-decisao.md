@@ -1,0 +1,19 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido o princípio da legalidade (CF, art. 5º, II).
+    Sob tal perspectiva, revela-se absolutamente inviável o recurso extraordinário em questão.
+    É que a alegação de ofensa ao princípio da legalidade não basta, só por si, para viabilizar o acesso à via recursal extraordinária. A interpretação judicial de normas legais – por situar-se e projetar-se no âmbito infraconstitucional – culmina por exaurir-se no plano estrito do contencioso de mera legalidade, desautorizando, em consequência, a utilização do apelo extremo, consoante adverte o magistério jurisprudencial desta Suprema Corte (AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO).
+    Não se pode desconsiderar, quanto a tal postulado, a orientação firmada pelo Supremo Tribunal Federal, cuja jurisprudência vem proclamando, a propósito desse tema, que o procedimento hermenêutico do Tribunal inferior – quando examina o quadro normativo positivado pelo Estado e dele extrai a interpretação dos diversos diplomas legais que o compõem, para, em razão da inteligência e do sentido exegético que lhes der, obter os elementos necessários à exata composição da lide – não transgride, diretamente, o princípio da legalidade (AI 161.396-AgR/SP, Rel. Min. CELSO DE MELLO – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 307.711/PA, Rel. Min. CELSO DE MELLO).
+    É por essa razão – ausência de conflito imediato com o texto da Constituição – que a jurisprudência desta Corte vem enfatizando que “A boa ou má interpretação de norma infraconstitucional não enseja o recurso extraordinário, sob color de ofensa ao princípio da legalidade (CF, art. 5º, II)” (RTJ 144/962, Rel. Min. CARLOS VELLOSO – grifei):
+    “E é pacífica a jurisprudência do S.T.F., no sentido de não admitir, em R.E., alegação de ofensa indireta à Constituição Federal, por má interpretação de normas infraconstitucionais, como as trabalhistas e processuais (...).”
+    (AI 153.310-AgR/RS, Rel. Min. SYDNEY SANCHES – grifei)
+    “A alegação de ofensa ao princípio da legalidade, inscrito no art. 5º, II, da Constituição da República, não autoriza, só por si, o acesso à via recursal extraordinária, pelo fato de tal alegação tornar indispensável, para efeito de sua constatação, o exame prévio do ordenamento positivo de caráter infraconstitucional, dando ensejo, em tal situação, à possibilidade de reconhecimento de hipótese de mera transgressão indireta ao texto da Carta Política. Precedentes.”
+    (RTJ 189/336-337, Rel. Min. CELSO DE MELLO)
+    Não foi por outro motivo que o eminente Ministro MOREIRA ALVES, Relator, ao apreciar o tema pertinente ao postulado da legalidade, em conexão com o emprego do recurso extraordinário, assim se pronunciou:
+    “A alegação de ofensa ao artigo 5º, II, da Constituição, por implicar o exame prévio da legislação infraconstitucional, é alegação de infringência indireta ou reflexa à Carta Magna, não dando margem, assim, ao cabimento do recurso extraordinário.”
+    (AI 339.607/MG, Rel. Min. MOREIRA ALVES – grifei)
+    Cumpre acentuar, por oportuno, que essa orientação acha-se presentemente sumulada por esta Corte, como resulta claro da Súmula 636 do Supremo Tribunal Federal, cuja formulação possui o seguinte conteúdo:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida.” (grifei)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar-lhe provimento, eis que correta a decisão que não admitiu o recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “a”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 15 de agosto de 2012.
+Ministro CELSO DE MELLO
+Relator
