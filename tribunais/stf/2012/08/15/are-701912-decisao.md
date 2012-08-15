@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL (SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL). REQUISITOS DO BENEFÍCIO DE PRESTAÇÃO CONTINUADA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da Turma Recursal dos Juizados Especiais Federais do Estado de São Paulo, que manteve, por seus próprios fundamentos, sentença proferida nos termos seguintes:
+    “A condição necessária à obtenção do benefício postulado, prevista no parágrafo 2° do art. 20 da Lei 8.742/93, não restou comprovado no laudo médico pericial elaborado pelo Dr. Silvio Marcelo de Souza Barata (laudo anexado aos autos em 25/06/2009) que concluiu pela inexistência de incapacidade laborativa da parte autora.
+    Assim, não preenchido um dos requisitos necessários, não há como deferir o benefício almejado pela autora”.
+    2. A Agravante alega que a Turma Recursal teria contrariado os arts. 5º, inc. XXXVI e LV, e 203, inc. V, da Constituição da República.
+    Afirma que “foi impedida pelo MM. Juiz de primeira instância e pelos juízes de segunda instância de apresentar sua ampla defesa no processado, já que requereu na petição inicial, no item ‘E’ do rol de pedidos a realização de perícia com profissional especializado em clínico geral e neurologia do Imesc, mas o MM. juiz de 1º grau determinou a perícia com medico habilitado em medicina do trabalho, deixando de determinar a perícia com profissional habilitado em clínica geral e neurologia, conforme postulado na exordial, o que caracterizou o cerceamento de ampla defesa”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de impossibilidade de reexame da matéria fático-probatória.
+    Examinado os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O art. 5°, inc. XXXVI e LV, da Constituição da República, suscitado no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, o acórdão recorrido está fundamentado no conjunto probatório constante dos autos. Concluir de forma diversa demandaria o reexame de provas, o que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 636.091-AgR, de minha relatoria, Primeira Turma, DJe 8.2.2012 – grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. APOSENTADORIA. REQUISITOS. LEGISLAÇÃO LOCAL. FATOS E PROVAS. SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local e de fatos e provas, circunstância que impede a admissão do recurso extraordinário, ante os óbices das Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 590.477-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 17.10.2008 – grifos nossos).
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
