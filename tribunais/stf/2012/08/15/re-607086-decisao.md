@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a e b) interposto de acórdão proferido por Turma Recursal dos Juizados Especiais Federais de Minas Gerais em processo no qual militar aposentado pleiteia a suspensão de desconto referente à “pensão militar” de seu contra-cheque, tendo em vista não possuir herdeiros ou beneficiários.
+    Eis a ementa do acórdão recorrido (fls. 74):
+    “PREVIDENCIÁRIO. PENSÃO MILITAR. DESCONTO DE 1,5% SOBRE A REMUNERAÇÃO DE SERVIDOR MILITAR PARA A MANUTENÇÃO DO DIREITO À PENSÃO POR MORTE, NOS TERMOS DA LEI Nº 3.765/60. DIREITO DE OPÇÃO PELA RENÚNCIA À MANUTENÇÃO DOS BENEFÍCIOS DA LEGISLAÇÃO ANTERIOR LIMITADO A AGOSTO DE 2002. LIMITAÇÃO TEMPORAL DESARRAZOADA E QUE AFETA O PRINCÍPIO DA CONTRIBUTIVIDADE DO SISTEMA PREVIDENCIÁRIO, DEVENDO SER RECONHECIDO O DIREITO À RENÚNCIA A QUALQUER TEMPO. CANCELAMENTO E RESTITUIÇÃO DOS DESCONTOS A PARTIR DE QUANDO MANIFESTADA A OPÇÃO PELA DESISTÊNCIA DOS BENEFÍCIOS DA LEI ANTERIOR. RECURSO PARCIALMENTE PROVIDO. SENTENÇA REFORMADA.”
+    O acórdão recorrido deu provimento parcial ao recurso inominado interposto pela União para que “a restituição das parcelas indevidamente descontadas seja devida a partir de quando demonstrada a manifestação do autor à Administração da renúncia à manutenção dos benefícios da Lei nº 3.765/60, ou caso, não se comprove tal requerimento, a partir do ajuizamento da ação.” (fls. 75)
+    Em seu recurso extraordinário a União alega violação ao disposto nos arts. 5º, II, LIV, LV; 37, caput e 93, IX, da Constituição Federal. Discute, fundamentalmente, sobre a limitação temporal prevista no art. 31 da Medida Provisória 2.131/00. Alega que o prazo previsto nesse diploma quanto à opção que deveria ter sido feita pelo militar (subsunção ao regime da lei 3.765/60 ou à MP 2.131/2000 – regime de benefícios do militar) não gera qualquer lesão ao direito subjetivo do autor.
+    Inexiste a alegada afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora recorrente.
+    A análise das demais questões demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Nesse sentido e em casos análogos ao presente: ARE 662.402 (rel. min. Luiz Fux, Dje de 18.04.2012) e RE 580.359 (rel. min. Cármen Lúcia, Dje de 09.02.2010).
+    Publique-se.
+    Brasília, 15 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
