@@ -1,0 +1,13 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão proferido por Tribunal Regional Federal que estendeu a servidores inativos do INCRA a Gratificação de Desempenho de Atividade de Reforma Agrária – GDARA.
+    Em seu recurso extraordinário o INCRA aponta a violação a diversos dispositivos constitucionais sob o argumento de que a gratificação não pode ser estendida em seu percentual máximo (60 pontos), já que o percentual devido a cada servidor dependeria do resultado obtido na correspondente avaliação de desempenho.
+    Ambas as Turmas desta Casa já firmaram o entendimento que a mencionada gratificação é extensível aos inativos. Nesse sentido:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA – GDARA. EXTENSÃO. SERVIDORES INATIVOS. POSSIBILIDADE. SÚMULA VINCULANTE 20. AGRAVO IMPROVIDO. I – É possível a extensão da GDARA aos inativos tendo em vista que a jurisprudência desta Corte tem aplicado às diversas gratificações concedidas no âmbito do serviço público federal o mesmo entendimento que embasou a Súmula Vinculante 20, que trata da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA. II – Agravo regimental improvido. (RE 630.880 – AgR, Segunda Turma, rel. min. Ricardo Lewandowski, Dje de 05.06.2012)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PREVIDENCIÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA - GDARA. NATUREZA GERAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. EXTENSÃO AOS INATIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (RE 517.387 – AgR, Primeira Turma, rel. min. Marco Aurélio, Dje de 03.09.2010)
+          Ademais, em situações análogas, este Tribunal tem adotado o decidido para a GDATA, na Questão de Ordem no RE 597.154 – RG pelo Plenário:
+    “Questão de ordem. Repercussão Geral. Recurso Extraordinário. 2. GDATA e GDASST. 3. Servidores inativos. Critérios de cálculo. Aplicação aos servidores inativos dos critérios estabelecidos aos ativos, de acordo com a sucessão de leis de regência. 4. Jurisprudência pacificada na Corte. 5. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do tribunal, desprover o recurso, autorizar a devolução aos tribunais de origem dos recursos extraordinários e agravos de instrumento que versem sobre o mesmo tema e autorizar as instâncias de origem à adoção dos procedimentos do art. 543-B, § 3º, do Código de Processo Civil.” (grifo nosso)
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 15 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
