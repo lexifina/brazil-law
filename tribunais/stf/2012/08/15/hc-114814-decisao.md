@@ -1,0 +1,17 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de FERNANDO HENRIQUE LOPES AZEVEDO, contra despacho proferido pelo Ministro Presidente do Superior Tribunal de Justiça no HC nº 249.252/SP.
+    Segundo a inicial, o paciente foi preso em flagrante pela prática do crime de tráfico de drogas (art. 33 da Lei nº 11.343/06). Posteriormente, a prisão em flagrante foi convertida em custódia preventiva.
+    Inconformada, a defesa impetrou habeas corpus ao Tribunal de Justiça de São Paulo, que indeferiu o pedido de liminar, e ao Superior Tribunal de Justiça, cujo relator ainda não se manifestou sequer sobre o pedido de liminar ante a insuficiente instrução do feito, em cujos autos não constava cópia do decreto prisional.
+    Na sequência, sobreveio o presente habeas corpus, por meio do qual se pede, tanto liminarmente quanto no mérito, a superação do óbice da súmula 691 desta Corte e a imediata restituição da liberdade ao paciente, sob os argumentos de falta de fundamentação para a custódia preventiva e que o paciente seria possuidor de condições pessoais que lhe possibilitariam permanecer em liberdade até o trânsito em julgado de eventual condenação.
+    É o relatório.
+    Decido.
+    Conforme relatei, existem habeas corpus em tramitação no TJSP e no STJ ainda pendentes de julgamento de mérito.
+    Considerando que a matéria objeto deste habeas corpus não foi examinada em definitivo pelo TJSP e tampouco conhecida pelo STJ, tem-se, por conseguinte, que a sua apreciação diretamente por esta Corte acarretará dupla supressão de instância.
+    Ora, se a jurisprudência do Supremo Tribunal Federal não admite a formação de habeas corpus “contra a decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” (Súmula 691), com muito mais razão deve ser rechaçado o pedido apresentado neste habeas corpus, já que a matéria discutida nesta ação, repito, não teve o mérito apreciado pelo Tribunal Estadual e tampouco foi conhecida pelo STJ.
+    Ademais, ainda que fosse superado o óbice do enunciado da Súmula nº 691, melhor sorte não adviria à impetração, uma vez que a custódia cautelar do paciente não foi fundamentada na vedação à concessão de liberdade provisória prevista no art. 44 da Lei nº 11.343/06, mas sim na presença dos requisitos previstos no art. 312 do Código de Processo Penal, sendo consideradas “as circunstâncias e a gravidade do crime ‘in concreto’ (...) e a periculosidade do agente”, conforme se observa na decisão proferida em 18.06.2012 pela magistrada da Vara Criminal de Sertãozinho/SP.
+    Por fim, em relação ao fato de o paciente supostamente ser possuidor de bons antecedentes, ter residência fixa e exercer atividade laborativa lícita, é entendimento reiterado desta Corte que as circunstâncias pessoais favoráveis dos réus de uma ação penal, de per se, não são suficientes ao afastamento do acautelamento preventivo quando a custódia se demonstrar necessária e for devidamente justificada pelo juízo competente para sua decretação, o que efetivamente pode ser verificado nos autos.
+    Por essas razões, não conheço do habeas corpus, conforme me autoriza o art. 38 da Lei 8.038/1990 e o art. 21, § 1º, do RISTF, sobretudo porque não foi demonstrada qualquer excepcionalidade que poderia conduzir à superação da súmula nº 691 desta Corte e ao conhecimento de ofício das alegações deduzidas na peça inicial.
+    Publique-se.
+    Brasília, 15 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
