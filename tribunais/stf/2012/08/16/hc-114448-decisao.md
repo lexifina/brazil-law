@@ -1,0 +1,31 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de Fábio Santos Lima contra decisão monocrática da lavra do Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça, que, nos autos do HC 239.790/SP, negou seguimento ao writ.
+    O paciente, preso em flagrante em 28.02.2010, foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, pela prática do crime tipificado do art. 33, caput e § 4º, da Lei 11.343/06.
+    Naquela oportunidade, 10.9.2010, o magistrado de primeiro grau determinou a expedição de alvará de soltura, para que o paciente cumprisse a pena em regime domiciliar, uma vez inexistente casa de albergado. Todavia, a pena privativa de liberdade não foi substituída por restritiva de direitos.
+    Em sede de apelação criminal, o Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso defensivo.
+    Inconformada, a Defesa impetrou o HC 239.790/SP ao Superior Tribunal de Justiça, que negou seguimento ao writ nos termos da assim decisão proferida pelo Ministro Sebastião Reis Júnior.
+    “(...).
+    O impetrante sustenta a ocorrência de constrangimento ilegal, pois a baixa reprimenda aplicada, somada às circunstâncias judiciais totalmente favoráveis, apontam como necessária sua substituição por penas alternativas (fl. 8).
+    (…).
+    No que tange à pretendida substituição da pena privativa de liberdade por restitiva de direitos, verifica-se que essa matéria não foi analisada pela Corte estadual, o que impede a apreciação dessa questão diretamente por este Superior tribunal, sob pena de incidir na indevida supressão de instância.
+    Da leitura das razões da apelação – aqui acostada às fls. 41/46 – verifica-se que a defesa se limitou à tese de que a mera apreensão de substância entorpecente, dissociada de qualquer outra prova que indique que seria destinada ao consumo de terceiros, enseja a absolvição do acusado (fl. 44). Subsidiariamente, pleiteou a desclassificação o crime de tráfico de drogas para o delito previsto no art. 28 da Lei 11.343/2006.
+    Ou seja, de tudo que foi suscitado nas razões da apelação, verifica-se que, em momento algum, a defesa pleiteou que, em sendo mantida a condenação do paciente pelo crime de tráfico de drogas, fosse a pena privativa de liberdade substituída por restritiva de direitos, pelo que, ao contrário do aventado na presente impetração, não há nenhum constrangimento ilegal a ser sanado pela via eleita.
+    Ressalte-se, ainda, que essa questão também não foi ventilada nas alegações finais da defesa, consoante referida peça processual, aqui acostada às fls. 26/32, em que foram pedidas tão somente: a) a absolvição do paciente, com fundamento no art. 386, VIII, do Código de Processo Penal; b) a desclassificação do crime de tráfico de drogas para o delito insculpido no art. 28 da Lei 11.343/2006; c) a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas; d) a fixação do regime aberto de execução; e e) a suspensão condicional da pena.
+    Ou seja, de tudo que foi suscitado pela defesa, seja em sede de alegações finais, seja em sede de apelação, verifica-se que, em momento algum, foi levantada a tese de que a pena privativa de liberdade imposta ao paciente deveria ser substituída por restritiva de direitos, pelo que, ao contrário do aventado na presente impetração, não há providência alguma a ser adotada no âmbito do presente writ.
+    A propósito, conforme julgado da Quinta Turma deste Tribunal, ainda que a apelação devolva a matéria objeto do inconformismo em sua totalidade, tendo em vista o efeito devolutivo que lhe é peculiar, cabe à defesa do paciente formular suas pretensões de maneira específica, identificando os pontos que constituem o núcleo da controvérsia, possibilitando à instância recursal, assim, um pronunciamento seguro acerca da questão suscitada, sendo, portanto, vedada a inauguração, em sede de habeas corpus, de tese defensiva não debatida na via ordinária (HC 183.904/BA, Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe 9/8/2011 – grifo nosso).
+    Assim, porque não apreciada pela Corte de origem, fica inviabilizada a análise dessa questão diretamente por este Superior Tribunal, sob pena de incidir na inadmissível supressão de instância.
+    (…).
+    Ante o exposto, com fundamento no art. 38 da Lei 8.038/1990 e no art. 34, XVIII, do RISTJ, nego seguimento ao presente habeas corpus.”
+    Argumenta a Impetrante, em suma, a possibilidade de substituição da pena privativa de liberdade por pena restritiva de direitos. Requer, em liminar e no mérito, a concessão da ordem, para substituir a reprimenda aplicada por restritiva de direitos.
+    Passo a decidir.
+    O Plenário desta Suprema Corte, no julgamento do HC 97.256/RS (Rel. Min. Ayres Britto - por maioria - j. 01.9.2010 – DJe 247), quando reconhecida a inconstitucionalidade parcial do art. 44 da Lei 11.343/2006, afastou o óbice legal à substituição da pena privativa de liberdade por restritiva de direitos em crimes de tráfico.
+    Todavia, o referido precedente não reconheceu direito automático à substituição das penas desde que inferiores a quatro anos de reclusão.
+    A questão há de ser apreciada pelo juiz do processo à luz do preenchimento, ou não, dos requisitos legais. Para tanto, devem ser consideradas todas as circunstâncias do caso e do condenado, com observância dos parâmetros do art. 44, inclusive inciso III, do Código Penal.
+    No caso, o problema é que o pedido de substituição da pena privativa de liberdade por restritiva de direitos não foi formulado ao juiz de primeiro grau ou, em apelação, à Corte Estadual.
+    O Superior Tribunal de Justiça, a seu turno, igualmente, não apreciou a matéria veiculada no presente writ.
+    Desse modo, inviável a análise do pedido, neste momento, por este Supremo Tribunal Federal, sob pena de se incorrer em tripla supressão de instância, em afronta às normas constitucionais de competência.
+    Deve o Impetrante provocar o juiz de primeiro grau e, se necessário, a Corte Estadual, com sua pretensão, antes de buscar as Cortes Superiores.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
