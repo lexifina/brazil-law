@@ -1,0 +1,14 @@
+Agravo de instrumento. Direito previdenciário. Auxílio-doença. Medida provisória n. 242/2005. questão submetida à apreciação do pleno desta corte. Ação de descumprimento de preceito fundamental n. 84. sobrestamento do feito.
+    Decisão: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, em face de acórdão prolatado pela Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, assim ementado:
+    “PREVIDENCIÁRIO. PLEITO DE RECÁLCULO DE RMI DE AUXÍLIO-DOENÇA CUMULADO COM PAGAMENTO DE ATRASADOS DESDE A DIB (19/05/2005). SENTENÇA DE IMPROCEDÊNCIA SOB O FUNDAMENTO DE QUE O CÁLCULO FOI ELABORADO NA FORMA DETERMINADA PELA MP 242/2005, VIGENTE À ÉPOCA DA CONCESSÃO DO BENEFÍCIO E QUE NÃO OBSTANTE TER TIDO SUA EFICÁCIA SUSPENSA, NÃO FOI EDITADO DECRETO CONFORME DISPOSTO NO ART. 62, § 11 DA CF/88, PARA REGULAMENTAR AS SITUAÇÕES OCORRIDAS EM SUA VIGÊNCIA. MP 242/2005 DETERMINOU QUE A RMI DO BENEFÍCIO DE AUXÍLIO-DOENÇA FOSSE CALCULADA COM BASE NOS ÚLTIMOS 36 SALÁRIOS DE CONTRIBUIÇÃO E NÃO MAIS COM BASE EM 80% DE TODO O PERÍODO CONTRIBUTIVO. MP TEVE A EFICÁCIA SUSPENSA PELO STF EM 18/08/2005, NO CURSO DA ADIN 3467/2005, FOI REJEITADA PELO SENADO FEDERAL. ALTERAÇÃO DE CRITÉRIOS TRAZIDA PELA MP 242/05 NÃO TEM O CONDÃO DE REGER AS RELAÇÕES JURÍDICAS DELAS DECORRENTES EM VIRTUDE DE SUA INCOMPATIBILIDADE FORMAL E MATERIAL COM A CF/1988. USO ABUSIVO DA MP. AUSÊNCIA DE URGÊNCIA E RELEVÂNCIA. O FATO DE A PREVIDÊNCIA ENCONTRAR-SE DEFICITÁRIA NÃO JUSTIFICA A ATUAÇÃO DA LEGISLAÇÃO MONOCRÁTICA. EM VIA DE REGRA A COMPETÊNCIA PARA LEGISLAR SOBRE SEGURIDADE SOCIAL É DO CONGRESSO NACIONAL. NOVOS CRITÉRIOS DE CÁLCULO DE RMI DO AUXÍLIO-DOENÇA NÃO SÃO ADEQUADOS, VISTO QUE NÃO PRESERVAM O PODER AQUISITIVO DO BENEFÍCIO PREVIDENCIÁRIO. RECURSO A QUE SE DÁ PROVIMENTO.”
+    Nas razões de recurso extraordinário, o Instituto Nacional de Seguro Social - INSS alega ofensa aos artigos 5º, XXXVI, e 195, § 5º, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo, por ausência de prequestionamento.
+    No agravo, alega-se que a matéria constitucional restou devidamente debatida no acórdão recorrido.
+    É o relatório. DECIDO.
+    A controvérsia sub judicie - regência das relações jurídicas constituídas e decorrentes de atos praticados durante a vigência da Medida Provisória nº 242/2005, que alterou dispositivos da Lei 8.213/1991, em face da não-edição do decreto legislativo – encontra-se pendente de apreciação pelo Pleno desta Corte nos autos da ADPF 84, Rel. Min. Dias Toffoli.
+    Ex positis, determino o sobrestamento deste feito até o julgamento da citada ação.
+    Publique-se. Int..
+    Brasília, 16 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
