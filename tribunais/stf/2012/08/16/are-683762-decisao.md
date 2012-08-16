@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMPOSTOS. ICMS. EXECUÇÃO FISCAL. NOMEAÇÃO À PENHORA DE CESSÃO DE CRÉDITOS DE PRECATÓRIO. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. OFENSA REFLEXA AO TEXTO DA CONSTITUIÇÃO FEDERAL. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+3. In casu, o acórdão recorrido assentou: “TRIBUTÁRIO – APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – DÉBITOS COM CRÉIDOS DE PRECATÓRIO – MATÉRIA NÃO AFETA AOS EMBARGOS À EXECUÇÃO (ART. 16, § 3º, DA LEF) – PEDIDO DE SUSPENÇÃO OU EXTINÇÃO DO EXECUTIVO FISCAL EM RAZÃO DE EVENTUAL DIREITO À COMPENSAÇÃO COM PRECATÓRIOS, BEM COMO, PEDIDO DE COMPENSAÇÃO – VIA PROCESSUAL INADEQUADA – APLICAÇÃO DA TAXA SELIC – POSSIBILIDADE, DESDE QUE NÃO CUMULADA COM QUALQUER OUTRO FATOR DE CORREÇÃO (ENUNCIADO Nº 12 – PREVISÃO NA LEI FEDERAL N º 9.250/95 E LEI ESTADUAL Nº 11.580/96 – RECURSO DE APELAÇÃO E RECURSO ADESIVO DESPROVIDOS.”
+4. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Cuida-se de agravo nos próprios autos interposto pela Évora Comercial de Gêneros Alimentícios Ltda, com fundamento no art. 544 do Código de Processo Civil, com o objetivo de ver reformada a r. decisão (fls. 509/513) que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão prolatado pela Tribunal de Justiça do Estado do Paraná, ementado nos seguintes termos (fl. 382), in verbis:
+    TRIBUTÁRIO – APELAÇÃO CÍVEL – EMBARGOS À EXECUÇÃO – DÉBITOS COM CRÉIDOS DE PRECATÓRIO – MATÉRIA NÃO AFETA AOS EMBARGOS À EXECUÇÃO (ART. 16, § 3º, DA LEF) – PEDIDO DE SUSPENÇÃO OU EXTINÇÃO DO EXECUTIVO FISCAL EM RAZÃO DE EVENTUAL DIREITO À COMPENSAÇÃO COM PRECATÓRIOS, BEM COMO, PEDIDO DE COMPENSAÇÃO – VIA PROCESSUAL INADEQUADA – APLICAÇÃO DA TAXA SELIC – POSSIBILIDADE, DESDE QUE NÃO CUMULADA COM QUALQUER OUTRO FATOR DE CORREÇÃO (ENUNCIADO Nº 12 – PREVISÃO NA LEI FEDERAL N º 9.250/95 E LEI ESTADUAL Nº 11.580/96 – RECURSO DE APELAÇÃO E RECURSO ADESIVO DESPROVIDOS.
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação ao artigo 78, § 2º, do Ato das Disposições Constitucionais Transitórias.
+    O órgão a quo negou seguimento ao apelo extremo por entender que, além da ausência do necessário prequestionamento, a controvérsia está adstrita ao âmbito da legislação infraconstitucional.
+    É o Relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Quanto ao mérito, melhor sorte não socorre à agravante.
+    A violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10, entre outros.
+    Ex positis, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
