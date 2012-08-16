@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “‘HABEAS CORPUS’. PENAL. PROCESSUAL PENAL. APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ART. 168-A DO CP. SENTENÇA CONDENATÓRIA. LITISPENDÊNCIA NÃO CONFIGURADA.
+    1. Admissível, em sede de ‘habeas corpus’, o pedido de trancamento da ação penal por ausência de justa causa, caso comprovada a litispendência de plano, sem necessidade de dilação probatória para verificação do alegado.
+    2. No caso dos presentes autos, porém, os fatos pelos quais as ações penais foram instauradas não são idênticos, tratando-se de períodos distintos, daí a não configuração da litispendência, tampouco de ofensa à coisa julgada.
+    3. Ordem denegada.”
+    (HC 198.180/MA, Rel. Min. SEBASTIÃO REIS JÚNIOR – grifei)
+    Aduz, a parte ora impetrante, em síntese, para justificar sua pretensão, os seguintes fundamentos:
+    “A insurgência do paciente levada ao conhecimento da autoridade coatora reside no fato de se ver processado e condenado por fato sobre o qual sopesam decisões judiciais absolutórias definitivas, reconhecendo a inexigibilidade de conduta diversa, violando a coisa julgada. Incidência do princípio da proibição da dupla persecução penal no direito pátrio.
+    Inobstante a comprovação da tramitação simultânea de vários processos sobre os mesmos fatos e a convivência de decisões absolutórias transitada em julgado com superveniente decisão condenatória, entendeu a autoridade coatora pela não configuração de litispendência e ofensa a coisa julgada (…).
+    ........................................................................................
+    Conforme a seguir analisado, em equívoco incorrem os eminentes Ministros quando constatado a tramitação simultânea de seis processos criminais em desfavor do paciente, todos relativos ao mesmo fato e a respeito da mesma pessoa jurídica, sendo o período distinto de fiscalização previdenciária, fundamento insuficiente para descaracterizar o fato único (apropriação indébita previdenciária referente a empresa Transportes Roma LTDA, e MR Transportes LTDA).” (grifei)
+    Busca-se, desse modo, nesta sede processual, “(…) seja concedida a liminar nos termos em que foi requerida e, no mérito, a confirmação da ordem de ‘Habeas Corpus’ para anular a decisão atacada e assim trancar o curso da execução penal, diante da ausência de justa causa, pelo reconhecimento da dupla perseguição criminal em desfavor do paciente”.
+    Sendo esse o contexto, passo a apreciar o pedido de medida liminar. E, ao fazê-lo, entendo que o exame do contexto delineado nos presentes autos parece descaracterizar – ao menos em juízo de estrita delibação – a plausibilidade jurídica da pretensão cautelar deduzida pela parte ora impetrante.
+    O acórdão emanado do E. Superior Tribunal de Justiça, objeto de impugnação nesta sede processual, enfatizou, presentes os elementos produzidos nos autos, que “(…) os fatos pelos quais as ações penais foram instauradas não são idênticos, tratando-se de períodos distintos, daí a não configuração da litispendência, tampouco de ofensa à coisa julgada (...)”.
+    Essa referência, feita pelo Tribunal apontado como coator, parece fazer instaurar, no caso ora em exame, situação de iliquidez, o que inviabiliza a possibilidade de acolhimento, em sede de estrita delibação, do pleito cautelar formulado na presente causa.
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova (RTJ 110/555 – RTJ 129/1199 – RTJ 136/1221 – RTJ 163/650-651 – RTJ 165/877-878 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela parte impetrante, parece tornar necessária a interpretação do conjunto probatório emergente do procedimento administrativo disciplinar em questão, o que, em princípio, constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 137/198, v.g.).
+    Sendo assim, e em face das razões expostas, indefiro o pedido de medida liminar.
+    Publique-se.
+    Brasília, 16 de agosto de 2012.
+Ministro CELSO DE MELLO
+Relator
