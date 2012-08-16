@@ -12,6 +12,7 @@ e) o transporte aquaviário;
 f) o transporte ferroviário não regular de passageiros, não associado à exploração da infra-estrutura.
 g) a construção e exploração de Estações de Transbordo de Cargas;
 h) a construção e exploração de Instalação Portuária Pública de Pequeno Porte;
+i) o transporte ferroviário de cargas não associado à exploração da infraestrutura, por operador ferroviário independente; e
 IV - depende de permissão:
 a) o transporte rodoviário coletivo regular de passageiros;
 b) o transporte ferroviário regular de passageiros não associado à infra-estrutura.
