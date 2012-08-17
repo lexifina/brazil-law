@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que, confirmando sentença de primeiro grau, deferiu parcialmente pedido relativo à concessão de auxílio-doença e indeferiu a conversão para aposentadoria por invalidez. Os fundamentos do acórdão são os mesmos fundamentos da sentença, que são os seguintes:
+    “Deve ser rejeitada a impugnação ao laudo pericial, na medida em que é suficientemente claro e preciso para formar o convencimento acerca do requisito indispensável à concessão do benefício a cuja averiguação foi chamado a subsidiar, qual seja, a incapacidade (para o trabalho, para a atividade habitual ou para o exercício de atividade capaz de garantir a subsistência). Diga-se, nesse particular, que o fato de estar acometido de determinada doença por si só não faz emergir a presunção de que o segurado esteja incapacitado para o trabalho, inexistindo, ainda, na avaliação apresentada, informações sobre a necessidade de investigação de outras patologias as quais pudessem interferir na aptidão laboral do segurado.
+    Ademais, em que pese o perito judicial não conseguir determinar se a doença da autora a incapacita para o exercício de qualquer atividade que garanta a sua subsistência, ele é taxativo ao afirmar que o grau de redução que a doença causa é parcial e a incapacidade para o trabalho é temporária.
+    Diante das considerações acima, e tendo em conta que as ações em que se objetiva a concessão de aposentadoria por invalidez ou o auxílio doença, o julgador, via de regra, firma sua convicção por meio da prova pericial, impende acolher o pedido, concedendo o benefício de auxílio doença”.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 1º, inciso III, do texto constitucional.
+    Argumenta-se, em síntese, o seguinte:
+    “Aliás, o próprio perito judicial afirma que a autora apresenta doença que a incapacita para o exercício da atividade que vinha exercendo, bem como há tratamento adequado, no entanto não é possível determinar a duração do tratamento, conforme quesito nº 14, do laudo médico. Há, portanto, contrariedade nos argumentos utilizados pelo perito judicial, tendo em vista que não pode ser determinado um prazo fixo para recuperação laborativa da autora, considerando a gravidade de sua enfermidade.
+    (...)
+    Ressalte-se, que o indeferimento do pedido evidenciará afronta direta ao princípio da dignidade da pessoa humana constante na Constituição Federal. ”
+    Decido.
+    A pretensão recursal não merece prosperar
+    Verifico que, ao constatar que o fato de estar acometido de determinada doença por si só não caracteriza a qualidade de incapacitado do segurado, necessária à concessão do benefício pleiteado, o magistrado a quo decidiu a controvérsia com fundamento na análise dos elementos fático-probatórios constantes dos autos e na interpretação da legislação infraconstitucional aplicável ao caso (Lei nº 8.213/91). A ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incidem, portanto, as Súmulas 279 e 636 do STF.
+    Confiram-se, a propósito, os seguintes precedentes: AI 841.049, Rel. Min. Luiz Fux, DJe 13.5.2011; RE 575.357, Rel. Min. Ellen Gracie, DJe 12.4.2011; RE 586.376, Rel. Min. Ricardo Lewandowski, DJe 6.4.2011; RE 641.682, Rel. Min. Luiz Fux, DJe 6.9.2011; RE-AgR 324.039, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 30.4.2004; e o AI-AgR 806.029, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.11.2010, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF, e art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de agosto de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
