@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Igreja Cristã Maranata Presbitério Espírito Santense interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+    “EMENTA: APELAÇÃO CÍVEL – IMUNIDADE TRIBUTÁRIA – ARTIGO 150, VI, “b”, CF – TEMPLO DE QUALQUER CULTO – NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS – RECURSO CONHECIDO PROVIMENTO NEGADO. 1. Verifica-se que caminhos existem para a manutenção da sentença objurgada, visto que a norma Constitucional estabelecida no art. 150, inciso VI, alínea “b”, não se demonstra aplicável invariavelmente em todo e qualquer caso em que se pretende a respectiva imunidade tributária, mas tão somente naquelas hipóteses em que a isenção atingirá, necessariamente, os locais destinados ao culto religioso de qualquer natureza. 2. A isenção tributária, constitucionalmente garantida, alcança apenas o templo, entendendo-se este como local de reunião de fiéis, abrangendo, evidentemente, às casas anexas destinadas à congregação religiosa que mantém esse culto. 3. Portanto, comprovado nos autos que os bens da apelante não estão diretamente relacionados às suas atividades essenciais, como exigido pelo art. 150, VI “b”, CF, incabível a imunidade fiscal alegada. 4. Recurso conhecido. Provimento negado”.
+    Opostos embargos de declaração, foram rejeitados.
+    Alega a recorrente, afronta aos artigos 5°, VI, e 150, VI, “b”, da Constituição Federal, uma vez que:
+    “A recorrente, como o próprio nome indica, é uma igreja evangélica, voltada para a prática da religião cristã estando seu patrimônio acobertado pela imunidade tributária não havendo como sobreviver a decisão que afirma a não incidência da imunidade por tais imóveis não representarem templos”.
+    Contra-arrazoado, o recurso extraordinário foi admitido.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o artigo 5°, VI, da Constituição Federal, apontado como violado carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    É certo que este Supremo Tribunal entende que: “a imunidade prevista no art. 150, VI, ‘b’, da CF, deve abranger não somente os prédios destinados ao culto, mas, também, o patrimônio, a renda e os serviços ‘relacionados com as finalidades essenciais das entidades nelas mencionadas’” (RE n° 325.822/SP, Plenário, Relator o Ministro Ilmar Glvão, Dje de 14/5/04).
+    Ocorre que o juízo recorrido entendeu que “não restou comprovado nos presentes autos que os imóveis indicados pela apelante se destinam para fins religiosos”.
+    Dessa forma, para divergir do entendimento do Tribunal de origem quanto à finalidade dada ao imóvel para fins de imunidade tributária, seria necessária a prévia análise do conjunto fático-probatório constante nos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula n° 279 desta Corte.
+    Nesse sentido:
+    “EMENTA: TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMUNIDADE. IPTU. COMPROVAÇÃO DA UTILIZAÇÃO DO IMÓVEL NAS FINALIDADES ESSENCIAIS DA ASSOCIAÇÃO. SÚMULA 279. AGRAVO IMPROVIDO I – Para dissentir do acórdão recorrido, no que tange à a solução da controvérsia sobre a comprovação da utilização do imóvel nas finalidades essenciais da associação, necessário seria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. II – Agravo regimental improvido” (AI n° 805.758/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/4/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. IPTU. IMUNIDADE. TEMPLOS DE QUALQUER CULTO. DESTINAÇÃO DO IMÓVEL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. A imunidade prevista no art. 150, VI, "b", da Constituição do Brasil, deve abranger não somente os prédios destinados ao culto, mas, também, o patrimônio, a renda e os serviços relacionados com as finalidades essenciais das entidades nelas mencionadas. Precedente. 2. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI n° 651.138/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 16/8/07).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 17 de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
