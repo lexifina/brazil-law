@@ -1,0 +1,29 @@
+DESPACHO
+EXECUÇÃO CONTRA A FAZENDA PÚBLICA NA AÇÃO RESCISÓRIA. AUSÊNCIA DE EMBARGOS DO DEVEDOR. PROVIDÊNCIAS PROCESSUAIS.
+    1. Em 2.8.2007, o Plenário do Supremo Tribunal Federal julgou procedente a ação rescisória a que se refere esta execução:
+    “AÇÃO RESCISÓRIA. ADMINISTRATIVO. AGENTES FISCAIS DE RENDAS INATIVOS DO ESTADO DE SÃO PAULO. LEI COMPLEMENTAR N. 567/88, § 3º DO ART. 7º. RATEIO DA RESERVA ANUAL DE QUOTAS RELATIVAS AO PRÊMIO DE PRODUTIVIDADE. OFENSA AO ART. 40, § 4º DA CONSTITUIÇÃO DO BRASIL. A vantagem legalmente previsto não é condicionada à produtividade do servidor público, a ela fazendo jus não apenas os servidores em efetivo exercício do cargo, mas também aqueles que, afastados em circunstâncias especificadas legalmente, a recebem. Natureza geral da vantagem, que, assim, há de integrar os proventos dos inativos. Procedência da alegação de ofensa ao art. 40, § 4º (atual § 8º) da Constituição brasileira. Precedentes. Ação rescisória julgada procedente, para o fim precípuo de rescindir-se a decisão impugnada, com o consequente conhecimento e provimento do recurso extraordinário” (fl. 333).
+    Esse acórdão foi publicado em 6.9.2007 (fl. 334) e transitou em julgado em 19.9.2007 (fl. 335).
+    2. Por meio das Petições STF n. 103.510/2008 e 17.794/2009, Irineu Azevedo Bastos e outros requereram o desarquivamento da ação rescisória para dar início à execução e à citação do Estado de São Paulo, nos termos do art. 632 do Código de Processo Civil (fls. 339 e 341).
+    Em 16.6.2009, o Presidente do Supremo Tribunal Federal determinou a citação do Estado de São Paulo para manifestação no prazo de 30 dias, nos termos do art. 632 do Código de Processo Civil (fl. 337).
+    Em 9.4.2010, o Estado de São Paulo, por meio da Petição STF n. 20.550/2010, apresentou “as anexas apostilas comprobatórias do adimplemento do julgado” (fls. 365-393) e, em 13.10.2011, pela Petição STF n. 81.329/2011, requereu “a juntadas das anexas apostilas, referentes aos autores da demanda, nos presentes autos” (fls. 392-420).
+    3. Em 8.11.2011, o Presidente do Supremo Tribunal Federal encaminhou-me os presentes autos, nos termos do inc. II do art. 21 do Regimento Interno do Supremo Tribunal Federal (fl. 422), os quais me vieram em conclusão em 7.12.2011 (fl. 426).
+    4. Em 9.12.2011, determinei a manifestação dos Exequentes e do Executado (art. 635 do Código de Processo Civil – fls. 427-428).
+    Em 1º.2.2012, os Exequentes requereram dilação do prazo (fl. 430) e, em 15.2.2012, o Estado de São Paulo informou que teria adimplido a obrigação e requereu a extinção da execução (fls. 434-435). Em 22.2.2012, deferi a dilação do prazo por dez dias aos Exequentes (fls. 437-440).
+    5. Em 9.3.2012, Irineu Azevedo Bastos e outros alegaram que, “como se vê de fls. 398/418, a Administração informou os atrasados devidos aos Autores, para elaboração da conta de liquidação, cumprindo, deste modo, a obrigação de fazer. Falta agora a obrigação de dar, consistente no pagamento do que é devido aos Exequentes” (fl. 443).
+    Sustentaram que “a manifestação da Fazenda do Estado, de fls. 434/435, entretanto, incidiu em erro, pois confundiu ambas as obrigações, uma vez que cumprida apenas a de fazer e não a de dar. Isso posto, necessário apresentar a conta de liquidação a seguir para que o processo atinja seu objetivo” (fl. 443).
+    Apresentaram “sua conta de liquidação, efetuada de acordo com a v. decisão exequenda, atualizada até 9 de março de 2012, que somou a quantia de R$ 1.777.404,25 (um milhão, setecentos e setenta e sete mil, quatrocentos e quatro reais e vinte e cinco centavos)” (fls. 443-444).
+    Requereram, “nos termos do art. 730 do CPC, a citação da Fazenda do Estado para o cumprimento da obrigação de dar. Caso não oponha embargos, requer o regular prosseguimento do feito através da expedição de ofício requisitório ao Exmo. Sr. Desembargador Presidente do E. Tribunal de Justiça de São Paulo para pagamento nos termos do art. 100 da Constituição Federal” (fl. 452).
+    6. Em 14.3.2012, determinei a citação do Estado de São Paulo para que se manifestasse no prazo legal sobre os cálculos apresentados pelos Exequentes, nos termos do art. 730 do Código de Processo Civil e do art. 345 do Regimento Interno do Supremo Tribunal Federal (fls. 456-458).
+    Em 17.8.2012, a Seção de Processos Diversos do Supremo Tribunal Federal certificou que, “até a presente data, não houve manifestação em atenção ao despacho de 14.3.2012” (fl. 547).
+    7. O art. 730 do Código de Processo Civil e o art. 345 do Regimento Interno do Supremo Tribunal Federal dispõem:
+    “Art. 730. Na execução por quantia certa contra a Fazenda Pública, citar-se-á a devedora para opor embargos em 10 (dez) dias; se esta não os opuser, no prazo legal, observar-se-ão as seguintes regras:
+    I - o juiz requisitará o pagamento por intermédio do presidente do tribunal competente;
+    II - far-se-á o pagamento na ordem de apresentação do precatório e à conta do respectivo crédito”.
+    “Art. 345. Na execução por quantia certa, fundada em decisão proferida contra a Fazenda Pública em ação de competência originária do Tribunal, citar-se-á a devedora para opor embargos em dez dias; se esta não os opuser, no prazo regimental, observar-se-ão as seguintes regras:
+    I – o Presidente do Tribunal requisitará o pagamento ao Presidente da República, ao Governador ou ao Prefeito, conforme o caso;
+    II – far-se-á o pagamento na ordem de apresentação do respectivo pedido e à conta do crédito próprio” (grifos nossos).
+    8. Na espécie vertente, o Estado de São Paulo, apesar de devidamente intimado, não opôs embargos aos cálculos apresentados pelos Exequentes. Encaminhem-se estes autos ao Presidente deste Supremo Tribunal para os fins de direito (art. 730 do Código de Processo Civil e art. 345 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
