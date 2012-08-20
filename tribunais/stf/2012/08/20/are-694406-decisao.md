@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CIVIL. RESCISÃO DE COMPROMISSO DE COMPRA E VENDA. RESSARCIMENTO. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. ALEGADA VIOLAÇÃO AO ART. 5º, INC. XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “RESCISÃO DE COMPROMISSO DE COMPRA E VENDA - Compensação pelo tempo de ocupação indevida no imóvel. DERAM PARCIAL PROVIMENTO AO RECURSO” (fl. 8, doc. 4).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A decisão agravada inadmitiu o recurso extraordinário sob os seguintes fundamentos:
+    “Alerte-se que assertivas de ofensa a dispositivo de lei federal não servem de suporte à interposição de recurso extraordinário.
+    Quanto à alegada vulneração ao dispositivo constitucional arrolado, observe-se não ter sido demonstrada sua ocorrência, eis que as exigências na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar as premissas nas quais assentada a decisão” (fls. 69, doc. 5).
+    3. A Agravante argumenta que:
+    “o referido acórdão, concebido nos termos assinalados, além de contrariar expressamente os citados dispositivos constitucionais, diverge frontalmente da legislação e da jurisprudência, que vêm sendo uniformizadas em nossos Tribunais Superiores, no sentido de que nos contratos assinados anteriormente a vigência do CDC referida lei não pode retroagir para atingir o negócio jurídico (contrato assinado em 31/03/1990), com cobertura do FCVS que também não se aplica o Código de Defesa do Consumidor e outras legislações, tendo em vista que o financiamento para a construção do imóvel provêm do FGTS e, portanto, contitui dinheiro público ” (fls. 59-60, doc. 4 – grifos no original).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o art. 5º, inc. XXXVI, LIV e LV, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Relator, Desembargador Gilberto de Souza Moreira, afirmou:
+    “os autores simplesmente cessaram os pagamentos. Por outro lado, no que concerne ao perdimento das prestações pagas, nota-se que o contrato foi formalizado em março de 1990, e o inadimplemento se deu a partir de outubro de 2002. Diante de tal quadro, a perda integral das prestações pagas favorecerá o enriquecimento indevido da autora. Dessa forma, a retenção não deve ser superior a dez por cento do total pago pelos réus. Noutro giro, o entendimento de que devem os apelantes pagar pela ocupação generaliza-se nos tribunais, e em obediência à lei consumerista, já se pacificou. Correto o arbitramento de aluguéis apuráveis em liquidação de sentença pelo tempo em que os autores permanecem inadimplentes no imóvel, mediante compensação. Por fim, rejeita-se a alegação de cerceamento de defesa porque os réus foram instados a se manifestar sobre eventual designação de audiência e permaneceram inertes” (fl. 496).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame de cláusulas contratuais, dos fatos e das provas constantes dos autos, inviável em recurso extraordinário, nos termos do que dispõem as Súmulas n. 279 e 454 deste Supremo Tribunal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL. PROVA PERICIAL. ALEGAÇÃO DE NULIDADE. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. Para se chegar à conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame das provas constantes dos autos, o que encontra óbice na Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (AI 635.414-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 24.2.2012).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. COMPRA E VENDA DE MADEIRA. RESCISÃO CONTRATUAL. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DAS CLÁUSULAS CONTRATUAIS E DAS PROVAS INCIDÊNCIA DAS SÚMULAS N. 279 E 454. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 847.594-ED, de minha relatoria, Primeira Turma, Dje 19.9.2011)
+    7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da jurisdição, se dependentes da análise prévia de legislação infraconstitucional (Código de Processo Civil), configurariam apenas ofensa constitucional indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Este Supremo Tribunal Federal assentou que a alegação de contrariedade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou, ainda, aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 573.345-AgR, de minha relatoria, Primeira Turma, DJe 12.5.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
