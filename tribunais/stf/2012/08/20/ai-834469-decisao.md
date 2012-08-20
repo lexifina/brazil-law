@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão, prolatado por Tribunal Regional Federal, cuja ementa possui o seguinte teor:
+    “MANDADO DE SEGURANÇA - TRIBUTÁRIO - LEI Nº. 9.718/98 E IN-SRF 06/99 - COMBUSTÍVEIS - COMPOSTO DE ÁLCOOL E GASOLINA `A´ (GASOLINA `C´) - PIS E COFINS INCIDENTE SOBRE PERCENTAGEM DO VALOR DA VENDA - LEGALIDADE E CONSTITUCIONALIDADE.
+    1. A Instrução Normativa SRF 06/99 apenas interpretou o disposto no artigo 6º da Lei nº. 9.718/98, respeitados os limites legais.
+    2. É certo que as contribuições para o PIS e a Cofins incidem sobre o faturamento, sendo indiferentes os custos obtidos na composição do produto que dá origem a esse faturamento.
+    3. A parcela eleita pelo legislador - `a percentagem de mistura, fixado em lei, sobre o valor da venda´ - para o cálculo das contribuições está compreendida no conceito de faturamento, na forma como previsto na Constituição Federal (artigo 195, inciso I).
+    4. Incabível ao judiciário formular juízo de valor sobre a opção legislativa, julgar se a norma é boa ou ruim, e alterar a base de cálculo de um tributo. O que é aferível em juízo é a legalidade e a constitucionalidade da norma, e, no caso, não vislumbro qualquer vício que possa torná-la inválida, uma vez que o artigo 4º da Instrução Normativa SRF 06/99, o artigo 6º da Lei nº. 9.718/98 e a Constituição Federal estão em plena consonância.
+    5. Apelação improvida.” (fls. 237)
+    Alega-se violação do disposto nos arts. 5º, XXII, XXXV, LIV e LV; 93, IX, e 195, I, da Constituição federal.
+    Decido.
+    Inicialmente, saliento que o acórdão recorrido foi publicado em data posterior a 03.05.2007, quando já exigível, portanto, a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que a parte ora agravante, nas razões do recurso extraordinário, se limita a alegar, em preliminar, que “De plano, cumpre frisar que a repercussão geral das questões constitucionais debatidas nesta ação é flagrante, pois, tratando-se de matéria tributária, o acolhimento da pretensão nela veiculada repercutirá em todos os outros casos que versam sobre o mesmo tema, em tramitação nos Tribunais Regionais Federai do País, emergindo, assim, a relevância econômica, política, social e jurídica de tais questões, para além dos interesses subjetivos da causa, como exigido pelo § 1º do artigo 543-A do CPC.” (fls. 292).
+    É patente, pois, que não se desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância constitucional - do ponto de vista econômico, político, social ou jurídico - das questões aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza. Nesse sentido: AI 709.995 (rel. min. Cármen Lúcia, DJe de 24.06.2008); AI 797.515-AgR (rel. min. Joaquim Barbosa, DJe de 28.02.2011); RE 575.983-AgR (rel. min. Ricardo Lewandowski, DJe de 13.05.2011) e RE 650.739-AgR (rel. min. Luiz Fux, DJe de 15.02.2012).
+    Ademais, ainda que superado tal óbice, verifico que concluir diversamente do acórdão recorrido demandaria o prévio exame da legislação infraconstitucional e do quadro fático-probatório, de forma que eventual ofensa à Constituição federal seria meramente indireta ou reflexa, insuscetível, portanto, de conhecimento na via estreita do recurso extraordinário (Súmulas 279 e 636/STF).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
