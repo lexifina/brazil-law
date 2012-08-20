@@ -1,0 +1,4 @@
+Instrução Normativa Conjunta RFB / STN nº 1287, de 17 de agosto de 2012
+Altera a Instrução Normativa Conjunta RFB/STN nº 1.257, de 8 de março de 2012, que dispõe sobre o número de inscrição que representará os Estados, o Distrito Federal e os Municípios no Cadastro Nacional da Pessoa Jurídica (CNPJ), e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL E O SECRETÁRIO DO TESOURO NACIONAL, no uso das atribuições que lhes conferem o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e o inciso VII do art. 1º do Regimento Interno da Secretaria do Tesouro Nacional, aprovado pela Portaria MF nº 141, de 10 de julho de 2008, e tendo em vista o disposto no parágrafo único do art. 16, no § 5º do art. 21, e no § 2º do art. 32 da Resolução do Senado Federal nº 43, de 21 de dezembro de 2001,
+RESOLVEM:
