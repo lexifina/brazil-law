@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO. SERVIDOR PÚBLICO. FALECIMENTO APÓS A PROMULGAÇÃO DA CARTA DE 1988, MAS ANTES DA EDIÇÃO DA LEI 8.112/90. REVISÃO DE PROVENTOS. CONSTITUIÇÃO FEDERAL, ART. 40, § 4º, NA REDAÇÃO ANTERIOR À EC 20/98.
+1. As regras dos parágrafos 4º e 5º do artigo 40 da Constituição Federal, na redação anterior à EC 20/98, não se aplicam ao servidor submetido ao regime da Consolidação das Leis do Trabalho que se aposentou ou faleceu antes do advento da Lei nº 8.112/90.
+2. Precedentes: RE nº 241.372, Relator o Min. Ilmar Galvão, 1ª Turma, DJ de 5/10/01; RE nº 327.320-AgR, Relator o Min. Nelson Jobim, 2ª Turma, DJ de 4/10/02; RE n° 399.648-AgR, Relator o Min. Ayres Britto, 1ª Turma, DJ de 10/3/06.
+3. In casu, a matéria posta nos autos diz respeito à situação jurídica consolidada após a promulgação da Carta de 1988, mas antes da adoção do Regime Jurídico Único relativo aos servidores da Administração Federal, introduzido pela Lei nº 8.112/90.
+4. O acórdão recorrido assentou:
+“CONSTITUCIONAL. PREVIDENCIÁRIO. ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS INFRINGENTES INTERPOSTOS POR PENSIONISTA DE EX-SERVIDOR SUJEITO AO REGIME GERAL DA PREVIDÊNCIA SOCIAL. VIOLAÇÃO DE LEI. CF, ART. 40, § 4º, NA REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 20/98. APLICAÇÃO A SERVIDORES PÚBLICOS ESTATUTÁRIOS. PRECEDENTES DO STF. INEXISTÊNCIA DE VIOLAÇÃO DE LEI. EMBARGOS INFRINGENTES AOS QUAIS SE NEGA PROVIMENTO.
+- A matéria objeto da divergência repousa sobre a aplicação do artigo 40, parágrafo 4º, da Constituição Federal, na redação anterior à Emenda Constitucional nº 20/1998, à hipótese de pensão por morte de ex-servidor sujeito ao regime geral da Previdência Social.
+- Tendo sido o instituidor da pensão servidor regido pela CLT, não lhe alcançava os efeitos do regime jurídico único instituído pela Lei nº 8.112/90.
+- Ausência de violação à norma do artigo 40, parágrafo 4º, da Constituição Federal, na redação anterior à EC 20/98, porquanto esta se destina apenas ao servidor estatutário e, no caso, o instituidor da pensão estava sujeito ao regime geral da Previdência Social. Precedentes do STF.
+- Embargos infringentes aos quais se nega provimento.”
+5. Recurso extraordinário a que se nega seguimento.
+    Decisão: Cuida-se de recurso extraordinário interposto pelo Ministério Público Federal, com fulcro no art. 102, III, “a”, da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, assim ementado:
+          “CONSTITUCIONAL. PREVIDENCIÁRIO. ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS INFRINGENTES INTERPOSTOS POR PENSIONISTA DE EX-SERVIDOR SUJEITO AO REGIME GERAL DA PREVIDÊNCIA SOCIAL. VIOLAÇÃO DE LEI. CF, ART. 40, § 4º, NA REDAÇÃO ANTERIOR À EMENDA CONSTITUCIONAL 20/98. APLICAÇÃO A SERVIDORES PÚBLICOS ESTATUTÁRIOS. PRECEDENTES DO STF. INEXISTÊNCIA DE VIOLAÇÃO DE LEI. EMBARGOS INFRINGENTES AOS QUAIS SE NEGA PROVIMENTO.
+    - A matéria objeto da divergência repousa sobre a aplicação do artigo 40, parágrafo 4º, da Constituição Federal, na redação anterior à Emenda Constitucional nº 20/1998, à hipótese de pensão por morte de ex-servidor sujeito ao regime geral da Previdência Social.
+    - Tendo sido o instituidor da pensão servidor regido pela CLT, não lhe alcançava os efeitos do regime jurídico único instituído pela Lei nº 8.112/90.
+    - Ausência de violação à norma do artigo 40, parágrafo 4º, da Constituição Federal, na redação anterior à EC 20/98, porquanto esta se destina apenas ao servidor estatutário e, no caso, o instituidor da pensão estava sujeito ao regime geral da Previdência Social. Precedentes do STF.
+    - Embargos infringentes aos quais se nega provimento.”
+    Trata-se, originariamente, de embargos infringentes interpostos pela Sra. Gladys de Souza Vieira nos autos de ação rescisória, tendo como embargado o Instituto Nacional do Seguro Social – INSS. O Tribunal Regional Federal da 5ª Região decidiu, por maioria, negar provimento aos embargos infringentes, entendendo que a pensão por morte percebida em decorrência do falecimento de servidor celetista, cujo óbito ocorreu antes da vigência do Regime Jurídico Único (Lei 8.112/90), deve ser regida pelas normas vigentes ao tempo do óbito.
+    O Ministério Público Federal, na condição de custos legis, interpôs o presente recurso extraordinário.
+    Nas razões do extraordinário, o órgão ministerial alegou violação ao artigo 40, §§ 4º e 5º, da Constituição Federal.
+    Sustentou em síntese que os parágrafos 4º e 5º do artigo 40 da Constituição Federal, com redação anterior à Emenda Constitucional nº 20/98, são de aplicabilidade imediata.
+    Transcorreu in albis o prazo para a apresentação das contrarrazões.
+    É o relatório. Decido.
+    Razão jurídica não assiste ao recorrente.
+    A matéria posta nos autos diz respeito à situação jurídica consolidada após a promulgação da Constituição Federal, mas antes da adoção do Regime Jurídico Único relativo aos servidores da Administração Federal, introduzido pela Lei nº 8.112/90.
+    Esta Corte firmou entendimento no sentido de que as regras dos parágrafos 4º e 5º do artigo 40 da Constituição Federal, na redação anterior à EC 20/98, não se aplicam ao servidor submetido ao regime da Consolidação das Leis do Trabalho que se aposentou ou faleceu antes do advento da Lei nº 8.112/90.
+    Confira-se, à guisa de exemplo, os seguintes precedentes:
+    “CONSTITUCIONAL. ADMINISTRATIVO. SERVIDOR CELETISTA. APOSENTADORIA PREVIDENCIÁRIA ANTERIOR À LEI N.º 8.112/90. REVISÃO DE PROVENTOS. EQUIPARAÇÃO COM OS VENCIMENTOS DOS SERVIDORES PÚBLICOS DA ATIVA. CONSTITUIÇÃO FEDERAL, ART. 40, § 4.º, NA REDAÇÃO ANTERIOR À EC 20/98.
+    Ao servidor submetido ao regime da Consolidação das Leis do Trabalho, segurado da Previdência Social, que se aposentou antes do advento da Lei n.º 8.112, de 11 de dezembro de 1990, não se aplica a norma do art. 40, § 4.º, da Carta da República, na redação anterior à EC 20/98, que é destinada apenas ao servidor público estatutário, assegurando-lhe a revisão dos proventos na mesma proporção e na mesma data em que se modificar a remuneração dos servidores em atividade.
+    Recurso conhecido e provido” (RE nº 241.372, Relator o Min. Ilmar Galvão, 1ª Turma, DJ de 5/10/01).
+    “Constitucional. Administrativo. Servidor celetista. Aposentadoria previdenciária anterior à Lei 8.112/90. Revisão de proventos. Vedada a equiparação com os vencimentos dos servidores públicos da ativa conforme precedentes do STF. Regimental não provido” (RE nº 327.320-AgR, Relator o Min. Nelson Jobim, 2ª Turma, DJ de 4/10/02).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. PENSIONISTA DE SERVIDOR PÚBLICO VINCULADO AO ESTADO PELO REGIME DA CLT. FALECIMENTO APÓS A PROMULGAÇÃO DA CARTA DE OUTUBRO, MAS ANTES DA EDIÇÃO DA LEI Nº 8.112/90. NÃO-APLICABILIDADE DO § 5° do ART. 40 DO MAGNO TEXTO (REDAÇÃO ANTERIOR À EC 20/98).
+    É pacífica a jurisprudência desta Casa de Justiça de que as regras dos §§ 4º e 5º do art. 40 da Constituição Republicana (redação originária) não se aplicam ao servidor submetido ao regime da Consolidação das Leis do Trabalho, segurado da Previdência Social, que se aposentou ou faleceu antes do advento da Lei nº 8.112/90. Tais normas são destinadas apenas ao servidor público estatutário. Precedentes de ambas as Turmas desta colenda Corte: RE 197.793, Relator Ministro Moreira Alves; RE 241.372, Relator Ministro Ilmar Galvão; RE 223.732, Relator Ministro Sepúlveda Pertence; RE 325.588-AgR, Relator Ministro Gilmar Mendes; RE 370.571, Relatora Ministra Ellen Gracie; e RE 237.762-AgR e AI 501.560-AgR, Relator Ministro Carlos Veloso. Agravo regimental desprovido” (RE n° 399.648-AgR, Relator o Min. Ayres Britto, 1ª Turma, DJ de 10/3/06).
+    Ex positis, nego seguimento ao recurso extraordinário.
+    Publique-se. Int..
+    Brasília, 20 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
