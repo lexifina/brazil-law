@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. TRIBUTÁRIO. ICMS. ALÍQUOTA. VENDA COM CLÁUSULA “FREE ON BOARD” - FOB. AUSÊNCIA DE COMPROVAÇÃO DE ENTRADA DA MERCADORIA EM OUTRO ESTADO. 1) IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 2) ART. 5º, INC. XXXV E LV, DA CONSTITUIÇÃO: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. 3) PRESSUPOSTOS DE ADMISSIBILIDADE DE MANDADO DE SEGURANÇA: MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “MANDADO DE SEGURANÇA - Venda sob cláusula FOB - Recolhimento de ICMS em alíquota menor - Não comprovação da entrada da mercadoria em outro Estado - Não isenção da responsabilidade tributária da empresa vendedora – Sentença de denegação da ordem - Recurso desprovido” (fl. 66, doc. 27 – grifos nossos).
+    Os embargos de declaração opostos foram parcialmente acolhidos apenas para corrigir erro material (doc. 27).
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXV e LV, e 93, inc. IX, da Constituição da República.
+    Assevera que “a prova juntada aos autos deixa claro que a Recorrente, à época da operação, teve a preocupação e o cuidado de verificar se a empresa FRANCENILDO encontrava-se em situação regular e idônea nos órgão públicos” (fl. 20, doc. 29).
+    Sustenta que “estabelece o art. 11 do RICMS-SP/2000 que cabe ao transportador a responsabilidade pelos tributos devidos quando as mercadorias não são entregues ao local de destino nas notas fiscais emitidas pelo vendedor ” (fl. 21, doc. 29).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de ofensa constitucional direta (fls. 91-92, doc. 29).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código Tributário Nacional e Regulamento do Imposto Sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação de São Paulo), inviabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta ” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    8. Ademais, o Relator, Desembargador José Habice, afirmou que, em caso análogo, entre as mesmas partes
+    “a saída da mercadoria não foi devidamente comprovada. Pelo contrário, o Fisco de Tocantins prestou informações, alegando que 'nunca foi recolhido qualquer valor a título de ICMS àquele Estado, não tendo passado nenhuma Nota Fiscal da Química Amparo nos postos fiscais de fronteira do Tocantins' (fl. 268).
+    Não é pelo fato de que as mercadorias foram vendidas sob a cláusula FOB, que a apelante pode se isentar de suas responsabilidades tributárias” (fl. 68, doc. 27)
+    O Tribunal de origem limitou-se ao exame dos pressupostos de cabimento do mandado de segurança, concluindo pela ausência de prova pré-constituída.
+    Esse tema foi objeto do Agravo de Instrumento n. 800.074, Relator o Ministro Gilmar Mendes, no qual ficou assentada a ausência de repercussão geral por se tratar de matéria infraconstitucional:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral” (DJe 3.10.2010).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    9. Nada há, pois, a prover quanto às alegações da Agravante.
+    10. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
