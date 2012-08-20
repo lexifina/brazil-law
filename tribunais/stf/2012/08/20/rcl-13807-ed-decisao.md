@@ -1,0 +1,11 @@
+O Estado da Bahia interpôs, em 29/6/2012, embargos de declaração em que suscitou a possibilidade, em razão de alegada omissão contida na decisão de 28/6/2012, de ser declarada “a vigência da liminar proferida em primeiro grau até o pronunciamento, a respeito, pelo Tribunal de Justiça, agora declarado competente para a causa”.
+    Determinei, em 29/6/2012, a expedição de ofícios ao Juízo da 5ª Vara da Fazenda Pública da Comarca de Salvador/BA e ao Presidente do Tribunal de Justiça do Estado da Bahia, a fim de obter prévias informações quanto ao efetivo cumprimento da decisão que julgou parcialmente procedente esta reclamação.
+    A Secretaria desta Corte, ao fazer conclusão dos autos ao meu Gabinete em 17/8/2012, certifica que, “em 13 de agosto de 2012, decorreu o prazo sem que fossem prestadas as informações solicitadas ao Presidente do Tribunal de Justiça do Estado da Bahia, por meio do Ofício de nº 4233/SEJ”.
+    Todavia, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado da Bahia, é possível verificar que, poucos dias após a decisão que julgou procedente em parte esta reclamação, para que a Ação Civil Pública 0329637-85.2012.8.05.0001 fosse originariamente apreciada por aquela Corte estadual, a Desembargadora Daisy Lago Ribeiro Coelho, em 6/7/2012, deferiu em favor do ora embargante o pedido de antecipação de tutela formulado na inicial daquele feito (Processo 0310235-21.2012.8.05.0000).
+    Além disso, segundo o relatório de andamento processual disponibilizado no sítio eletrônico do TJBA, a Relatora do feito, em 17/7/2012, ainda negou seguimento a agravo regimental interposto pelo Sindicato dos Trabalhadores em Educação do Estado da Bahia contra a referida medida antecipatória, decisão contra a qual há novo recurso interno pendente de apreciação.
+    Isso posto, tendo o TJBA prestado, no regular exercício da competência originária que lhe cabia no caso, a jurisdição cautelar reclamada na ação civil pública acima especificada, não mais subsistem as razões explicitadas pelo Estado da Bahia nestes embargos declaratórios, razão pela qual julgo-os prejudicados.
+    Arquivem-se os autos.
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+Ministro Ricardo Lewandowski
+Relator
