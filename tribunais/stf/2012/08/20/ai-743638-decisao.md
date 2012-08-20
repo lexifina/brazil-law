@@ -1,0 +1,11 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça de São Paulo, assim ementado:
+    “Embargos a Execução Fiscal - IPTU, exercício de 1999 - Município de São Paulo - Prescrição - Inocorrência - Imunidade a que se refere o art. 150, VI, "c" - Não cabimento, pois o deferimento do pedido requer demonstração e exame dos requisitos legais autorizadores do beneficio fiscal (art. 14, CTN) - Questão afeta a instrução dos embargos - AGRAVO IMPROVIDO.”
+    Sustenta-se, em síntese, a violação dos arts. 5º, II e XXXVI, e 150, VI, c, da Constituição federal. Defende-se a inocorrência de prescrição e a desnecessidade de produção de provas em sede de embargos à execução para o reconhecimento de imunidade tributária.
+    O exame de ambas as teses defendidas no recurso extraordinário demanda necessariamente a análise e interpretação de legislação infraconstitucional. Dessa forma, qualquer ofensa ao texto constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário.
+    Quanto à índole infraconstitucional das questões relativas à prescrição em matéria tributária, confira-se, v.g., os seguintes precedentes: RE 425.818-EDcl (rel. min. Ricardo Lewandowski, Primeira Turma, DJ de 29.09.2006), AI 553.874-AgR (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 10.11.2006), AI 577.881 (rel. min. Marco Aurélio, DJ de 24.11.2006).
+    Outrossim, no tocante à questão da necessidade de produção de provas em embargos à execução, a análise da apontada violação constitucionais requer sejam previamente examinadas as regras processuais infraconstitucionais que fundamentaram o acórdão recorrido. A jurisprudência do Supremo Tribunal Federal concluiu que essa circunstância inviabiliza o processamento do recurso extraordinário. Em casos semelhantes, confiram-se: AI 791.066 (rel. min. Ellen Gracie, DJe de 08.06.2010); RE 575.881 (rel. min. Cezar Peluso, DJe de 17.03.2010); AI 736.202 (rel. min. Eros Grau, DJe de 17.03.2010); AI 608.163 (de minha relatoria, DJe de 11.06.2010).
+    Ante o exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
