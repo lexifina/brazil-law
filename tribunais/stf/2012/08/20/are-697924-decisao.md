@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRAZO DECADENCIAL PARA ADMINISTRAÇÃO PÚBLICA ANULAR SEUS PRÓPRIOS ATOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O Tribunal de Justiça de Minas Gerais decidiu:
+    “SERVIDOR. BIÊNIOS. ERRO. PODER DE REVISÃO DA ADMINISTRAÇÃO. DECADÊNCIA. LEI N.° 14.184/02. APLICABILIDADE A ATOS PRETÉRITOS. SENTENÇA CONFIRMADA. 1. A decadência do poder de revisão prevista na Lei n.° 14.184/02 tem como marco inicial a data em que o ato foi praticado e não da edição desta Lei, já que não se pode admitir direito de eternamente rever seus atos, sob pena de insegurança jurídica. 2. Recurso oficial não provido. Prejudicado o recurso voluntário” (fl. 1, doc. 3).
+    2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 280, 282 e 356 do Supremo Tribunal Federal e a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta (fls. 8-13, doc. 4).
+    3. O Agravante argumenta que “a tese a ser apreciada por esse Supremo Tribunal Federal consiste na apreciação da aplicação de legislação nova que veio reduzir o prazo de que a administração dispunha para revisar seus próprios atos. Consiste em definir os limites de aplicação desta nova legislação de modo a preservar o direito adquirido da Administração” (fl. 58, doc. 3).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI, LV e LVI, e 37, caput, da Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Relator, Desembargador Vieira de Brito, afirmou:
+    “Infere-se dos autos que a autora percebeu "indevidamente por incorreção, na vigência, os biênios do 1° ao 6°, sendo: 1° Biênio a contar de 02/03/86; 2° Biênio a contar de 01/03/88; 3° biênio de 06/03/90; 4° Biênio a contar de 06/03/92; 5° Biênio a contar de 06/03/94 e o 6° Biênio a contar de 06/03/96, quando o correto seria: 1° Biênio a contar de 01/02/88; 2° Biênio a contar de 02/01/90; 3° biênio de 04/12/92; 4° Biênio a contar de 04/12/94; 5° Biênio a contar de 04/12/96 e o 6° Biênio a contar de 03/12/98 e concessão do 7° a contar de 02/12/2000." (f. 51)
+    Em 25/04/2002 referida irregularidade restou constatada, sendo publicada nova concessão dos biênios, corrigindo-se as vigências, o que, todavia, não foi cumprido, tal como apurado pelo Setor de Pagamento.
+    Isso ensejou a instauração do Processo Administrativo, que concluiu pela ocorrência da irregularidade, bem como a necessidade de a autora arcar com o débito apurado.
+    Ocorre que a Lei n.° 14.184/02 determina que:
+    (...)
+    Diante disso, tem-se que a decadência do poder revisão tem como marco inicial a data em que o ato foi praticado e não da edição desta Lei, já que não se pode admitir direito de eternamente rever seus atos, sob pena de insegurança jurídica” (fls. 19-20, doc. 3).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante dos autos, procedimento incabível de ser adotado validamente em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+    7. Novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional federal e estadual aplicada à espécie (Lei n. 9.784/1999 e Lei estadual n. 14.184/2002). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II – Agravo regimental improvido” (RE 490.850-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 5.6.2009).
+    8. O Supremo Tribunal assentou, ainda, que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
