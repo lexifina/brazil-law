@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1286, de 17 de agosto de 2012
+Aprova o programa multiplataforma para preenchimento da Declaração do Imposto sobre a Propriedade Territorial Rural do exercício de 2012, para uso em computador que possua a máquina virtual Java (JVM), versão 1.6.0 ou superior, instalada.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Instrução Normativa RFB nº 1.279, de 6 de julho de 2012, resolve:
