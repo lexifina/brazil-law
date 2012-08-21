@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “SERVIDOR PUBLICO - Policial - Demissão - Absolvição criminal - Reintegração pretendida - Inadmissibilidade - A absolvição que não vincula a autoridade administrativa, podendo punir o servidor público com a pena de demissão. Ao Judiciário compete apenas a verificação da legalidade do procedimento e a garantia do contraditório - Sentença mantida Recurso Improvido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, XXXIV, LV, LVI e LVII, e 93, X, da mesma Carta.
+    O agravo não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que as esferas penal e administrativa são independentes, somente havendo repercussão da primeira na segunda nos casos de inexistência material do fato ou negativa de autoria. Nesse sentido, transcrevo a ementa do MS 22.796, Rel. Min. Marco Aurélio, Tribunal Pleno:
+    “RESPONSABILIDADE ADMINISTRATIVA - SENTENÇA PENAL ABSOLUTÓRIA - AUSÊNCIA DE REPERCUSSÃO. Estando a sentença penal absolutória calcada na insuficiência de provas para chegar-se à condenação, não há como fazê-la repercutir no processo administrativo, isso a teor do disposto nos artigos 1.525 do Código Civil, 65 e 66 do Código de Processo Penal e 121 a 126 da Lei n. 8.112, de 11 de dezembro de 1990” (MS 22.796, Rel. Min. Marco Aurélio, Tribunal Pleno, DJ 12.2.1999).
+    Ademais, para dissentir da conclusão adotada pelo acórdão recorrido quanto à suposta violação à ampla defesa e ao contraditório no processo administrativo ao qual foi submetido o ora agravante, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmulas 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL. POLICIAL MILITAR. PROCESSO ADMINISTRATIVO. PUNIÇÃO DISCIPLINAR. OBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido seria necessário o reexame das provas dos autos, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 235.282-AgR/RS, Rel. Min. Joaquim Barbosa).
+    Por fim, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
