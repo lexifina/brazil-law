@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário que interpôs, exarado pela Presidência do Tribunal de Justiça do Estado de Pernambuco (fls. 449-51), manejam agravo de instrumento Padrão Comércio e Incorporação de Imóveis LTDA e outra (fls. 02-22). O óbice oposto na origem ao seguimento do extraordinário foi o da ausência de preliminar formal e fundamentada de repercussão geral. Na minuta, sustentam os agravantes que o recurso reúne todos os requisitos para sua admissão. Registram que “o fundamento do Recurso Extraordinário, foi a alínea ‘a’ do inciso III, da CF, ou seja, o fundamento do Recurso Extraordinário foi contra dispositivo da Constituição Federal e não contra súmula ou jurisprudência.” Alegam ofensa aos arts. 5º, IX, XXXIV, XXXIX e 133, da Constituição Federal. Suscitam a nulidade do processo, defeituosa a representação processual da agravada e não indicados os motivos que levaram ao convencimento do juízo.
+    Sem preliminar formal e fundamentada de repercussão geral.
+    Sem contraminuta.
+    Substituição do Relator à fl. 669 (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos genéricos do agravo de instrumento, passo ao exame dos específicos.
+    Não merece prosperar o agravo de instrumento, ausente a preliminar formal e fundamentada de repercussão geral, em desalinho com a exigência contida no artigo 543-A, § 2º, do CPC, verbis:
+     “O recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral”.
+    Aplicável, na hipótese, o entendimento jurisprudencial firmado no julgamento do AI 664.567-QO/RS, Rel. Min. Sepúlveda Pertence, Plenário, DJe 06.9.2007, no sentido de que o citado dispositivo legal seria exigido nos recursos extraordinários manejados contra acórdãos publicados a partir de 03.5.2007, conforme a Emenda Regimental 21, desta Corte. Intimada a parte recorrente em 15.01.2009 (fl. 61), não consta no recurso extraordinário a preliminar formal e fundamentada de repercussão geral, o que impõe a inadmissão do recurso. Nesse sentido: RE 595.783-ED/RS, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 13.05.2011; e AI 743.198-AgR/SP, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 24.05.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. DEFICIÊNCIA NA FUNDAMENTAÇÃO RELATIVA À PRELIMINAR DE EXISTÊNCIA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL INVOCADA NO RECURSO. INTIMAÇÃO DO ACÓRDÃO RECORRIDO POSTERIOR A 03.05.2007. De acordo com a orientação firmada neste Tribunal, é insuficiente a simples alegação de que a matéria em debate no recurso extraordinário tem repercussão geral. Cabe à parte recorrente demonstrar de forma expressa e clara as circunstâncias que poderiam configurar a relevância – do ponto de vista econômico, político, social ou jurídico – das questões constitucionais invocadas no recurso extraordinário. A deficiência na fundamentação inviabiliza o recurso interposto. O art. 557 do Código de Processo Civil autoriza o relator a negar seguimento a recurso manifestamente intempestivo, incabível ou improcedente e, ainda, quando a matéria em debate se refira a tema já pacificado nesta Corte. Agravo regimental a que se nega provimento”.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de agosto de 2012.
+     Ministra Rosa Weber
+     Relatora
