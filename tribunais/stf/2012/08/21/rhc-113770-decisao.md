@@ -1,0 +1,42 @@
+DECISÃO
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL E CONSTITUCIONAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. 1. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. FUNDAMENTOS PARA A MANUTENÇÃO DA PRISÃO DA RECORRENTE NÃO EXAMINADOS NAS INSTÂNCIAS ANTECEDENTES. SUPRESSÃO DE INSTÂNCIA. 2. INDEFERIMENTO DE MEDIDA LIMINAR POR DESEMBARGADOR. ATO QUESTIONADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. JULGAMENTO DE MÉRITO DA IMPETRAÇÃO NO TRIBUNAL DE JUSTIÇA. ACÓRDÃO SUBSTITUTIVO DA DECISÃO MONOCRÁTICA. RECURSO ORDINÁRIO EM HABEAS CORPUS INTERPOSTO APÓS A SUBSTITUIÇÃO. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso ordinário em habeas corpus, com pedido de medida liminar, interposto por ALESSANDRA DE SOUZA contra decisão do Ministro Gilson Dipp, do Superior Tribunal de Justiça, que, em 27.2.2012, julgou prejudicado o Habeas Corpus n. 182.666:
+    “Trata-se de habeas corpus, com pedido de liminar, contra ato de Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu a medida de urgência deduzida no bojo da ordem ali impetrada em favor de ALESSANDRA DE SOUZA.
+    A paciente foi presa em flagrante, juntamente com outros indivíduos, pela prática, em tese, dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/06.
+    Ajuizado pleito de liberdade provisória, o Julgador de 1º grau indeferiu o pleito defensivo, mantendo o decreto prisional.
+    Irresignada, a defesa impetrou ordem perante a Corte a quo, postulando, já em sede de liminar, o relaxamento da medida constritiva de liberdade.
+    A medida urgente, contudo, restou indeferida.
+    Daí a presente impetração, na qual a defesa insurge-se contra o decisum proferida no bojo do habeas corpus originário, por entender inexistir motivação concreta para a mantença da custódia acautelatória da ora paciente, notadamente em razão das suas condições pessoais amplamente favoráveis.
+    Liminar indeferida às fls. 30/31.
+    Agravo regimental interposto às fls. 37/42, o qual não mereceu conhecimento (fls. 57/62).
+    Informações prestadas às fls. 46/49.
+    Decido.
+    Nos termos do entendimento reiteradamente firmado por esta Corte, assim como pelo Supremo Tribunal Federal, não cabe habeas corpus contra indeferimento de liminar, a não ser em casos de evidente e flagrante ilegalidade, sob pena de indevida supressão de instância.
+    Tal entendimento encontra-se, inclusive, consolidado no verbete n. 691 da Súmula da Suprema Corte, in verbis:
+    ‘Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar’.
+    Cumpre considerar que, anteriormente, em casos como o presente - em que a impetração dirigia-se contra pedido liminar -, vinha sendo conhecido o habeas corpus como substitutivo de recurso ordinário, quando sobrevinha o julgamento do writ originário.
+    Seguindo a linha que vem sendo adotada por esta Turma, no sentido de proteger os limites do habeas corpus para fazer respeitar sua credibilidade e funcionalidade, e também, de respeitar-se o sistema de recursos legalmente previsto e sistematizado, deve ser considerado que a superveniência do julgamento do habeas corpus impetrado na origem determina a prejudicialidade do writ aqui impetrado contra o indeferimento da liminar.
+    Nesse sentido, já vem entendendo a Sexta Turma desta Corte que a superveniência de acórdão pelo Tribunal a quo no bojo da ordem originária configura novo título judicial, tornando a ordem prejudicada (…).
+    Por outro lado, cumpre considerar que o conhecimento do writ como substitutivo de recurso ordinário, em casos como o dos presentes autos, pode acarretar em prejuízo ao paciente, uma vez que, por ter sido dirigida a irresignação somente contra o indeferimento da liminar, a impetração deixa de se manifestar sobre as eventuais razões de decidir do mérito do habeas corpus original.
+    Ademais, verifica-se a prolação de sentença nos autos do processo-crime, tendo a paciente sido condenada à pena de 8 anos de reclusão, em regime inicialmente fechado, pela prática dos delitos de tráfico e associação para o tráfico de entorpecentes, sendo-lhe vedado o apelo em liberdade.
+    Assim, há que se reconhecer a perda do objeto do presente writ, já que outro é o título a justificar a custódia da acusada.
+    Diante do exposto e, com fulcro no artigo 34, inciso XI, do Regimento Interno, julgo prejudicado este habeas corpus” (grifos nossos).
+    2. A Recorrente alega que, na sentença condenatória, não teria sido informada do seu direito de recorrer em liberdade e que este Supremo Tribunal assentou a inconstitucionalidade do cumprimento antecipado da pena.
+    Ressalta que a prisão cautelar não pode estar fundamentada na gravidade abstrata do crime, no clamor público e na preservação da credibilidade das instituições.
+    Sustenta a suposta ausência de demonstração “da necessidade concreta de decretar-se a prisão preventiva”.
+    Este o teor dos pedidos:
+    “Ante o exposto, requer seja deferida liminar neste recurso ordinário para que a Ré, ora paciente, responda em liberdade até a ação penal transitar em julgado e no mérito pede provimento com confirmação da liminar”
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Primeiramente, ressalto que a questão objeto do presente recurso é o direito da Recorrente de recorrer da sentença condenatória superveniente em liberdade, considerados os fundamentos para a manutenção da prisão. Essa matéria não foi objeto de exame nas instâncias antecedentes e a autoridade ora apontada como coatora, Ministro Gilson Dipp, do Superior Tribunal de Justiça, restringiu-se a decidir pelo prejuízo do Habeas Corpus n. 182.666.
+    Este Supremo Tribunal assentou não ser possível a atuação jurisdicional quando a decisão impugnada não tenha cuidado da matéria, sob pena de supressão de instância:
+    “PENAL. PROCESSO PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO E FALTA DE FUNDAMENTAÇÃO DA DECISÃO QUE A DECRETA. SENTENÇA CONDENATÓRIA SUPERVENIENTE. QUADRILHA OU BANDO. ART. 288, § 1º, DO CÓDIGO PENAL. SUPRESSÃO DE INSTÂNCIA. PREJUDICIALIDADE. I - Não pode o Supremo Tribunal Federal apreciar situação processual nova diversa da apresentada à autoridade tida por coatora, sob pena de supressão de instância. II - A sentença condenatória superveniente, ainda que, alegadamente e em tese, mantenha a inconsistência de fundamento do decreto de prisão preventiva, é novo título justificador da prisão. III - Habeas corpus prejudicado” (HC 87.775, Rel. Min. Ricardo Lewandowski, DJ 13.4.2007 – grifos nossos).
+    “HABEAS CORPUS. PENAL E PROCESSUAL PENAL. EXTENSÃO DE DECISÃO FAVORÁVEL A CORRÉU. MATÉRIA NÃO SUBMETIDA A EXAME DO STJ. PROGRESSÃO DE REGIME. HC DEFERIDO PELO STJ PARA AFASTAR O ÓBICE PREVISTO NO § 1º DO ARTIGO 2º DA LEI N. 8.072/90. Pretensão de reduzir a pena, por extensão de decisão favorável a corréu. Não tendo a matéria sido submetida a exame do Superior Tribunal de Justiça, o seu conhecimento, nesta Corte, implicaria supressão de instância. Progressão de regime. Afastamento, pelo STJ, da norma que a proibia. Habeas Corpus não conhecido” (HC 90.315, Rel. Min. Eros Grau, DJ 27.4.2007 – grifos nossos).
+    No mesmo sentido o Habeas Corpus n. 102.730, de minha relatoria, DJe 14.4.2011.
+    4. Ademais, consta do sítio do Tribunal de Justiça de São Paulo (www.tjsp.jus.br) que, em 8.2.2011, antes da interposição do presente recurso ordinário em habeas corpus em 29.2.2012, houve o julgamento do mérito do Habeas Corpus n. 990.10.410284-7 pela denegação (acórdão com trânsito em julgado em 14.9.2011).
+    O presente recurso ordinário em habeas corpus foi interposto contra a decisão do Ministro Gilson Dipp, do Superior Tribunal de Justiça, que julgou prejudicado o Habeas Corpus n. 182.666, o qual, por sua vez, foi impetrado contra a decisão de indeferimento da medida liminar requerida no Habeas Corpus n. 990.10.410284-7. A decisão objeto da impetração no Superior Tribunal de Justiça foi substituída pelo julgamento de mérito no Tribunal de Justiça paulista, cujos fundamentos não foram objeto de impugnação.
+    5. Pelo exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), ficando, por óbvio, prejudicada a medida liminar requerida.
+    Publique-se.
+    Brasília, 21 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
