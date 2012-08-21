@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL E LEI N. 8.009/1990: QUESTÕES INFRACONSTITUCIONAIS. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Tribunal de Justiça de São Paulo, que concluiu pela inexistência de interesse de agir do ora Agravante para o ajuizamento de embargos de terceiro, porque os débitos condominiais têm natureza propter rem e autorizam a penhora do bem de família (no qual o Agravante reside com sua companheira), nos termos da Lei n. 8.009/1990.
+    2. No recurso extraordinário, o Agravante alega que o Tribunal a quo teria contrariado os arts. 1º, inc. III, 5º, 6º e 226, § 3º, da Constituição da República, pois “não há como permitir que haja penhora de bem que tenha como objeto imóvel de família, amparado pela Lei n. 8.009/1990” (fl. 185 – grifos nossos).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os fundamentos de ausência de ofensa constitucional direta e incidência da Súmula n. 279 do Supremo Tribunal (fls. 216-217).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. As questões relativas a interesse de agir e às exceções à impenhorabilidade do bem de família têm natureza infraconstitucional (Código de Processo Civil e Lei n. 8.009/1990) e não podem ser objeto de recurso extraordinário:
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Bem de família. Caracterização. Lei nº 8.009/90. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Os dispositivos constitucionais tidos como violados não foram examinados pelo Tribunal de origem. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido” (AI 629.134-AgR, Rel. Min. Dias Toffoli, Primeira Turma, Dje 2.12.2011- grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E TRABALHISTA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO DE PROCESSO CIVIL (CPC) E NA CONSOLIDAÇÃO DAS LEIS DO TRABALHO (CLT): OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A jurisprudência do Supremo Tribunal firmou-se no sentido de que, ainda que surgida a alegada ofensa constitucional no acórdão recorrido, é necessária a oposição de embargos de declaração, se não houver a análise da ofensa pelo órgão judicante. 2. A controvérsia decidida com base no Código de Processo Civil e na Consolidação das Leis do Trabalho não viabiliza o processamento do recurso extraordinário: Ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 702.113-AgR, de minha relatoria, Primeira Turma, Dje 13.3.2009 – grifos nossos).
+    7. Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de agosto de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
