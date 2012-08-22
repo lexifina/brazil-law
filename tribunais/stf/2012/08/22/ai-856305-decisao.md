@@ -1,0 +1,17 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul e assim ementado:
+    "Apelação Cível. Previdência Privada. Reserva Matemática de Aposentadoria Programada. Diferenças. Princípio do mutualismo e do equilíbrio atuarial. Apelo Improvido.” (fl. 385)
+    Opostos embargos de declaração, foram rejeitados (fls. 397-399)
+    Sustenta a parte recorrente, com base no art. 102, III, a, violação ao art. 93, IX, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    Consta do acórdão recorrido que
+    (...) Portanto, considerando as peculiaridades do caso em tela, incluindo-se a conexão entre as demandas, que se deve conhecer da apelação com os pedidos mais amplos, haja vista preencher os pressupostos de admissibilidade recursal, restando a outra prejudicada por ostentar objeto semelhante. Portanto, é devida a complementação do benefício pela entidade previdenciária, devendo ser mantida, na íntegra, a sentença apelada. (...) (fl. 387, verso)
+    Assim, dissentir dessa premissa factual exigiria reexame de fatos e provas ou de cláusulas contratuais, a cuja luz decidiu o acórdão recorrido, o que é vedado na instância extraordinária (súmulas 279 e 454).
+    É como tem decidido esta Corte, em hipóteses análogas:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REVISÃO DE BENEFÍCIO. PREVIDÊNCIA PRIVADA. ESTATUTO E REGULAMENTOS. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do reexame dos fatos e provas constantes dos autos e a interpretação de cláusulas contratuais da entidade de previdência privada, o que encontra óbice nas Súmulas 279 e 454 do STF. Precedentes. II - Agravo regimental improvido.” (ARE Nº 644.881 AgR/DF, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 20.9.2011)
+    E, quanto à alegação de ofensa ao art. 93, IX, da Constituição da República, observo que o acórdão está devidamente fundamentado, e é o que basta, pois, como se decidiu no AI nº 590.140 AgR/SP (Rel. Min. SEPÚLVEDA PERTENCE, DJe de 03.8.2007):
+    “Decisão judicial: motivação suficiente: ausência de violação do artigo 93, IX, da Constituição Federal. "O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional" (RE 140.370, Pertence, DJ 21.5.93). 2. Ampla defesa: o indeferimento de diligência probatória tida por desnecessária não ofende o art. 5º, LV, da Constituição: precedentes. 3. Recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário: incidência, mutatis mutandis, da Súmula 636.”
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 22 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
