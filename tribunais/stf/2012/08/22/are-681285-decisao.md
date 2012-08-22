@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo interposto contra decisão que negou seguimento a recurso extraordinário em face de acórdão do Tribunal de Justiça do Estado de São Paulo.
+    Em primeira instância, foi proferida sentença que condenou o ora agravante à pena de 4 (quatro) anos e 2 (dois) meses de reclusão, pela prática do crime previsto no caput do art. 33 da Lei nº 11.343/2006. O Tribunal de Justiça do Estado de São Paulo reformou a sentença somente para aplicar a causa de diminuição do § 4º do referido artigo, de modo a minorar a pena imposta para 3 (três) anos e 4 (quatro) meses de reclusão.
+    No recurso extraordinário (fls. 257-276), interposto com fulcro no art. 102, inciso III, alínea ‘a’, da Constituição Federal, o recorrente sustenta que o acórdão realizou valoração probatória incorreta e, assim, ofendeu o princípio da presunção de não culpabilidade, positivado no art. 5º, inciso LVII, do texto constitucional e, também, no artigo XI, nº 1, da Declaração Universal dos Direitos Humanos e no artigo 8º, nº 2, da Convenção Americana sobre Direitos Humanos.
+    Aduz, ainda, na hipótese de não ser reconhecida a absolvição do agravante, que a decisão colegiada, por não ter fixado a pena aquém do mínimo legal diante da constatação de existência de atenuante, contrariou os princípios da legalidade e da individualização da pena, consubstanciados nos incisos II e XLVI do art. 5º da Constituição, respectivamente.
+    O Ministério Público do Estado de São Paulo apresentou as contrarrazões às fls. 279-290.
+    O Tribunal a quo exarou decisão (fls. 313-314) que negou seguimento ao recurso, por entender que a possível ofensa ao texto constitucional seria apenas reflexa e que a pretensão recursal envolveria reexame de fatos e provas. Além disso, salientou que a jurisprudência do Supremo Tribunal Federal entende ser inaplicável atenuante que tenha como escopo diminuir a pena abaixo do mínimo legal.
+    Nas razões do agravo (fls. 331-336), o recorrente reiterou os argumentos do recurso extraordinário e ressaltou que o recurso diz respeito à correta valoração probatória, e não a novo exame das circunstâncias fáticas do caso.
+    Contrarrazões ao agravo às fls. 352-359.
+    É o relatório.
+    O núcleo das razões recursais reside na alegação de que há insuficiência probatória para a condenação do agravante pela prática do delito do caput do art. 33 da Lei nº 11.343/2006.
+    O recorrente afirma que a sentença condenatória fundou-se exclusivamente nos depoimentos dos agentes policiais responsáveis pela prisão em flagrante efetuada à época do crime.
+    Sustenta, ainda, que as declarações desses agentes policiais são, em alguns pontos, imprecisas e contraditórias. Por fim, alega que há interesse direto por parte daqueles que realizaram a prisão em que haja a condenação do recorrente.
+    Em síntese, o agravante pretende demonstrar que a presente hipótese não se refere a reexame de fatos ou provas, mas da correta valoração do material probatório constante dos autos.
+    Verifico, porém, que as razões do recurso não prosperam.
+    Inicialmente, é de se frisar que a jurisprudência do Supremo Tribunal Federal é firme no sentido da idoneidade de depoimentos prestados por agentes policiais para eventual juízo de convicção a ser firmado pelo magistrado.
+    Nesse sentido, vale conferir os precedentes mencionados a seguir: AgRg no AI 780.123, Relatora Ministra Cármen Lúcia, Primeira Turma, DJe 1.10.2010; AgRg no AI 780810, Relator Ministro Ayres Britto, Primeira Turma, DJe 17.9.2010; AgRg no AI 761.897, Relator Ministra Ellen Gracie, Segunda Turma, DJe 30.4.2010.
+    No que diz respeito à exclusividade desses depoimentos para o embasamento probatório para a condenação, registro que ambas – a sentença condenatória e a decisão colegiada recorrida – analisaram com minúcia o acervo probatório disponível nos autos.
+    Pela leitura da sentença condenatória (fls. 125-129), é possível constatar o contraste entre os depoimentos de todas as testemunhas do caso, e não apenas dos agentes responsáveis pela prisão em flagrante.
+    Ademais, houve expressa referência, pela magistrada de primeiro grau, ao laudo de apreensão da substância ilícita e ao exame químico toxicológico, que comprovaram a natureza da droga e a materialidade do crime.
+    Por essas razões, registro que a pretensão do agravante demanda nova análise das questões fáticas da presente hipótese, vedada nessa instância extraordinária.
+    Dessarte, é de se salientar que o pleito recursal quanto à absolvição do agravante esbarra na vedação do enunciado nº 279 da Súmula do Supremo Tribunal Federal, que dispõe que, “para simples reexame de prova, não cabe recurso extraordinário”.
+    E, em relação à diminuição da pena fixada aquém do mínimo legal por conta de existência de atenuante no caso dos autos, ressalto que também não assiste razão ao recorrente.
+    O Plenário do Supremo Tribunal Federal, no julgamento da Questão de Ordem no Recurso Extraordinário 597.270, Relator Ministro Cezar Peluso, DJe 5.6.2009, reconheceu a repercussão geral da impossibilidade de atenuante acarretar a diminuição da pena abaixo do mínimo fixado pela legislação. O entendimento firmado nesse julgado pode ser depreendido pela leitura da ementa transcrita a seguir:
+    “AÇÃO PENAL. Sentença. Condenação. Pena privativa de liberdade. Fixação abaixo do mínimo legal. Inadmissibilidade. Existência apenas de atenuante ou atenuantes genéricas, não de causa especial de redução. Aplicação da pena mínima. Jurisprudência reafirmada, repercussão geral reconhecida e recurso extraordinário improvido. Aplicação do art. 543-B, § 3º, do CPC. Circunstância atenuante genérica não pode conduzir à redução da pena abaixo do mínimo legal”.
+    Apontam nesse mesmo sentido os seguintes precedentes: AI 819.339, Relator Ministro Ayres Britto, Segunda Turma, DJe 15.4.2011; HC 99.406, Relatora Ministra Ellen Gracie, Segunda Turma, DJe 10.9.2010; HC 100.371, Relator Ministro Ricardo Lewandowski, Primeira Turma, DJe 21.5.2010; HC 94.552, Relator Ministro Ayres Britto, Primeira Turma, DJe 27.9.2009.
+    Ante o exposto, nego provimento ao recurso (art. 544, § 4º, inciso II, alínea ‘a’, do Código de Processo Civil).
+    Publique-se. Int..
+    Brasília, 22 de agosto de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
