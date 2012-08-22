@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DE AGRAVO.
+    1. O Tribunal Regional Federal da 1ª Região confirmou o entendimento do Juízo, ante fundamentos assim sintetizados (folha 63) :
+    ADMINISTRATIVO E CONSTITUCIONAL MANDADO DE SEGURANÇA. AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA - ANVISA. AUTORIZAÇÃO PARA REMESSA DE SANGUE DE CORDÃO UMBILICAL DE RECÉM-NASCIDOS PARA PAÍS ESTRANGEIRO COM VISTAS AO PROCESSAMENTO DE CÉLULAS -TRONCO PARA FINS ESTRITAMENTE TERAPÊUTICOS. PORTARIA N°. 2.381 /2004-ANVISA. INAPLICABILIDADE.
+    I  - Prevendo o art. 199, §4°, da CF/88 que "a lei disporá sobre as condições e os requisitos que facilitem a remoção de órgão, tecidos e substâncias humanas para fins de transplante, pesquisa e tratamento, bem como a coleta, processamento e transfusão de sangue e seus derivados, sendo vedado qualquer tipo de comercialização" e pretendendo as impetrantes a remessa de sangue umbilical de seus filhos, para preservação de células-tronco, para fins terapêuticos, e para uso próprio e futuro, dado o desenvolvimento de pesquisa e tecnologias nesta área, à instituição, internacionalmente reconhecida, no exterior, afigura-se ilegítimo o ato coator que, ao dar interpretação literal ao disposto no §1°, do art. 14, da Lei n°. 10.205/01, afronta os princípios da reserva legal, da proporcionalidade e da razoabilidade, mormente porque não há, na espécie, qualquer comprovação de suposta afronta à supremacia pública, à saúde pública e/ou à segurança nacional, reforçado pelo fato de que, atualmente, o sangue do cordão umbilical, a ser armazenado no exterior, é descartado, após o parto.
+    II - Apelação e remessa oficial desprovidas. Sentença confirmada.
+    A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado na apreciação de processo da competência do Tribunal.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 22 de agosto de 2012.
+Ministro MARCO AURÉLIO
+Relator
