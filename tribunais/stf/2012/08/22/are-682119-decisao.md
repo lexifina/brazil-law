@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. MERCADORIAS PROVENIENTES DE OUTRO ESTADO DA FEDERAÇÃO. APLICAÇÃO DE METOLOGIA DE CÁLCULO CONHECIDA COMO DIFERENCIAL DE ALÍQUOTA À EMPRESA OPTANTE PELO SIMPLES NACIONAL. REPERCUSSÃO GERAL RECONHECIDA. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+1. In casu, o acórdão recorrido assentou:
+“APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. ENTRADA DE MERCADORIAS PROVENIENTES DE OUTRO ESTADO DA FEDERAÇÃO. COBRANÇA ANTECIPADA DA DIFERENÇA. ALÍQUOTA INTERNA E INTERESTADUAL. LEGALIDADE. LEI ESTADUAL Nº 12.741/07 (DOE 06/07/07), QUE ACRESCENTOU O § 8º AO ARTIGO 24 DA LEI Nº 8.820/89. APLICABILIDADE DO TRATAMENTO DA ANTECIPAÇÃO DO IMPOSTO ÀS EMPRESAS OPTANTES DO SIMPLES NACIONAL. ART. 13, § 1º, XIII, 'G' E 'H', E § 5º, DA LC 123/06. PRECEDENTES DESTE TRIBUNAL E DO STJ.
+APELAÇÃO PROVIDA POR MAIORIA.”
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos:
+    “TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL. APLICAÇÃO DE METOLOGIA DE CÁLCULO CONHECIDA COMO DIFERENCIAL DE ALÍQUOTA À EMPRESA OPTANTE PELO SIMPLES NACIONAL.
+    ALEGADAS USURPAÇÃO DA COMPETÊNCIA DA UNIÃO PARA ESTABELECER O TRATAMENTO FAVORECIDO DAS MICRO E DAS PEQUENAS EMPRESAS (ART. 146-A DA CONSTITUIÇÃO) E DA REGRA DA NÃO-CUMULATIVIDADE (ART. 155, § 2º DA CONSTITUIÇÃO).
+    ENCAMINHAMENTO DE PROPOSTA PELA EXISTÊNCIA DE REPERCUSSÃO GERAL.
+    Tem repercussão geral a discussão sobre a cobrança do ICMS de empresa optante pelo SIMPLES NACIONAL, na modalidade de cálculo conhecida como diferencial de alíquota.”
+    A questão será submetida à apreciação do Pleno desta Suprema Corte, nos autos do RE n. 632.783-RG, da Relatoria do Ministro Joaquim Barbosa.
+    Destarte, PROVEJO o agravo, para desde logo, conhecer e DAR PROVIMENTO ao recurso extraordinário, e com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determino a devolução dos presentes autos ao Tribunal de origem, para que seja observado o disposto no artigo 543-B do Código de Processo Civil.
+    Publique-se.
+    Brasília, 22 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
