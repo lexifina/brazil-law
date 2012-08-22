@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de segundo pedido de medida liminar que, formulado pelo impetrante, objetiva “(...) sustar o procedimento de promoção para o cargo vago decorrente da aposentadoria compulsória do impetrante, deflagrado pelo Edital nº 13/2012/TJ, até o julgamento definitivo do presente Mandado de Segurança” (fls. 554 – grifei).
+    Para justificar sua pretensão, a parte ora impetrante alega, em síntese, o que se segue (fls. 551/553):
+    “O provimento do cargo vago em decorrência do ato impugnado, antes do julgamento final do presente Mandado de Segurança, inevitavelmente trará uma série de consequências graves e inconvenientes e que gerarão intranqüilidade e insegurança no seio do Poder Judiciário do Estado de Mato Grosso, caso venha ao final ser concedida a segurança.
+    .…..................................................................................................
+    Por outro lado, a concessão de medida liminar para sustar o procedimento deflagrado com o fim de prover os cargos vagos até o julgamento final do mandado de segurança não irá trazer prejuízos a quem quer que seja, tanto mais que o processo está pronto para julgamento, o que certamente não tardará a ocorrer.
+    Em hipótese bastante semelhante, o eminente Ministro CEZAR PELUSO deferiu medida liminar nos autos do Mandado de Segurança nº 27.459 para evitar a posse de Juiz no cargo de Desembargador que fora aposentado compulsoriamente pelo Conselho Nacional de Justiça, até a final solução da lide (…).
+    …...................................................................................................
+    Diante do exposto, mostra-se evidente o ‘periculum in mora’ decorrente da publicação do Edital nº 13/2012/TJ, que concedeu o prazo de 10 (dez) dias para a inscrição dos interessados na promoção ao cargo de desembargador em vagas oriundas da aposentadoria compulsória do impetrante e de dois outros magistrados, sendo certo que após esse prazo a qualquer momento o Tribunal poderá reunir-se para deliberar sobre as promoções, o que enseja a necessidade de pronta intervenção dessa Suprema Corte, a fim de evitar o risco da ocorrência dos danos acima expostos.” (grifei)
+    Não obstante formulado o pleito ora em exame em julho de 2012, não foi ele apreciado durante o período de férias forenses (fls. 560 e 566), razão pela qual estes autos só me foram feitos conclusos em 03/08/2012 (fls. 567).
+    Sendo esse o contexto, passo a examinar a segunda postulação cautelar deduzida pelo ora impetrante. E, ao fazê-lo, entendo – consideradas as próprias razões expostas no voto por mim proferido no julgamento plenário do recurso de agravo interposto pela União Federal – que não se acham presentes os requisitos autorizadores da concessão da medida liminar em referência.
+    Com efeito, o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, III, da Lei nº 12.016/2009: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+    “Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II da Lei nº 1.533/51, a saber:  a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+    Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+    (RTJ 112/140, Rel. Min. ALFREDO BUZAID – grifei)
+    Sendo assim, em juízo de estrita delibação, e sem prejuízo de ulterior reexame da pretensão mandamental deduzida na presente sede processual, indefiro este segundo pedido de medida liminar.
+    Publique-se.
+    Brasília, 22 de agosto de 2012.
+Ministro CELSO DE MELLO
+Relator
