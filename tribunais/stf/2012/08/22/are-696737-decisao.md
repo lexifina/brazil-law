@@ -1,0 +1,16 @@
+A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 523.086, verbis :
+    “Trata-se de recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, em face de acórdão do TJMA, que deu parcial provimento à apelação do Estado do Maranhão, por alegada violação dos arts. 5º, caput; 37, II; e 93, IX, da Carta Magna.
+    No caso, o tribunal a quo entendeu pela constitucionalidade dos artigos 35 e 40 da Lei 6.110/94, do Estado do Maranhão (Estatuto do Magistério), que preveem o preenchimento de um cargo por servidor que tenha cumprido requisitos necessários para a ocorrência do provimento derivado denominado de promoção, o que constituiria uma progressão vertical de cargos.
+    O recorrente sustenta a inconstitucionalidade dos artigos 40 e 42 da Lei 6.110/94. Argumenta que as classes previstas nessa lei são compostas por cargos com habilitações e atribuições diferentes e, desse modo, não se pode permitir a promoção, na medida em que, segundo a nova ordem constitucional, a investidura em cargo público só pode ocorrer mediante concurso público, com exceção dos cargos comissionados.
+    Alega que não podem ser considerados como pertencentes à mesma carreira o professor de quem se exige habilitação superior e aquele com formação de Ensino Médio, uma vez que o grau de responsabilidade e de complexidade são diversos. Argumenta que a previsão do art. 40 não configura promoção, mas, sim, ascensão funcional, instituto vedado pela ordem constitucional, por força do art. 37, II, da Constituição Federal de 1988.
+    Observados os demais requisitos de admissibilidade do presente recurso extraordinário, passo à análise da existência de repercussão geral.
+    A questão a ser analisada refere-se à constitucionalidade da progressão funcional prevista na Lei 6.110/94, do Estado do Maranhão.
+    Destaque-se que a presente controvérsia constitucional é objeto da Ação Direta de Inconstitucionalidade 3.567/MA, sob relatoria do Min. Ricardo Lewandowski, que está sendo processada nesta Corte, e cujos autos se encontram com vista ao Min. Ayres Britto. Saliente-se, ainda, que o Ministro Relator e o Min. Eros Grau julgaram-na improcedente e, em voto-vista, a Min. Cármen Lúcia entendeu pela parcial procedência da ação.
+    Entendo configurada a relevância social, econômica e jurídica da matéria, tendo em vista que a solução a ser definida por este Tribunal balizará não apenas este recurso específico, mas todos os processos em que se discute o tema.
+    Ressalte-se ainda que o Plenário do Supremo Tribunal Federal, ao apreciar o AI 715.423-QO/RS, Rel. Min. Ellen Gracie, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. Cezar Peluso, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos interpostos contra acórdãos publicados antes de 3 de maio de 2007 que veiculem tema cuja existência de repercussão geral haja sido reconhecida”.
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 22 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
