@@ -1,0 +1,14 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de Mato Grosso, e assim ementado no que interessa:
+    “AGRAVO DE INSTRUMENTO – AÇÃO CIVIL PÚBLICA – ATOS DE IMPROBIDADE ADMINISTRATIVA – PRELIMINARES – PREVENÇÃO E NÃO CONHECIMENTO REJEITADAS – MEDIDA LIMINAR DE INDISPONIBILIDADE DE BENS – INDEFERIMENTO – PRETENSÃO DE REFORMA – REQUISITOS NÃO DEMONSTRADOS – AUSÊNCIA DE PERICULUM IN MORA – INDÍCIOS DE DESVIO DE VERBA PÚBLICA – NÃO BASTAM POR SI SÓ PARA A PRESUNÇÃO/CONCLUSÃO DE RISCO DE DILAPIDAÇÃO OU DESVIO DO PATRIMONIO – RECURSO IMPROVIDO. (...) 3) Para que seja deferira a liminar em ação civil pública, necessário se faz, além das condições gerais e comuns a todas ações, que sejam demonstrados os requisitos do fumus boni iuris e do periculum in mora. 4) Por se tratar de medida extrema que exige cautela e temperamento, a indisponibilidade de bens pressupõe a comprovação de indícios de desfazimento ou dilapidação/redução do patrimônio de molde a colocar em risco o ressarcimento ao erário, não havendo provas de tais atos por parte dos réus/agravados não se deve determinar a medida liminarmente inaudita altera pars.” (fls. 10-11)
+    Não foram opostos embargos de declaração.
+    Sustenta a parte recorrente, com fundamento no art. 102, III, a, violação ao art. 37, § 4º, da Constituição Federal.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC. Argúi, em síntese, que a questão dos autos ultrapassaria os interesses subjetivos da causa e que haveria repercussão econômico-social.
+    2. Conquanto admissível o agravo, inviável o recurso extraordinário.
+    O acórdão impugnado ao adotar os fundamentos da sentença de primeiro grau decidiu a causa com base na legislação infraconstitucional, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. Ora, é pacífica a jurisprudência desta Corte no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.
+    Em caso idêntico, assim o decidiu esta Corte:
+    AGRAVO REGIMENTAL. IMPROBIDADE ADMINISTRATIVA. LEI 8.429/92. INDISPONIBILIDADE DE BENS. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento. (AI nº 728.723 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 01.03.2011)
+    3. Ante o exposto, dou provimento ao agravo, convertendo-o em recurso extraordinário, a que nego seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, e 557 do CPC)
+    Publique-se. Int..
+    Brasília, 23 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
