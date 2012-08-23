@@ -1,0 +1,11 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO – INTERPRETAÇÃO DE ATO NORMATIVO PRESENTE A CONSTITUIÇÃO – NEGATIVA DE SEGUIMENTO.
+    1. O Município de Matão afirma que a Sexta Turma do Tribunal Regional do Trabalho da 15ª Região, em virtude de decisão proferida na Reclamação Trabalhista nº 0065200-48.2009.5.15.0081, olvidou o teor do Verbete Vinculante nº 10 da Súmula do Supremo. Segundo narra, o referido órgão fracionário teria afastado a aplicação das Leis municipais nº 3.239/2002, 3.245/2003, 3.387/2003, 3.479/2004, 3.559/2004 e 3.835/2007, por contrariedade ao disposto no artigo 37, inciso X, da Carta Federal. Assevera ter sido declarada a inconstitucionalidade das mencionadas leis sem a observância da regra prevista no artigo 97 do Diploma Maior, situação que enseja o acesso à jurisdição do Supremo.
+    2. Atentem para os parâmetros da espécie. O Regional reconheceu o direito à diferença de índices em virtude da majoração remuneratória em valor igual consideradas classes de servidores com padrões de vencimento distintos, ante a regra prevista no artigo 37, inciso X, da Carta de 1988. Ao fazê-lo, assentou a natureza de revisão geral das Leis municipais nº 3.239/2002, 3.245/2003, 3.387/2003, 3.479/2004, 3.559/2004 e 3.835/2007.
+    Não houve declaração de inconstitucionalidade, mas extensão, mediante a via interpretativa, do preceito legal, revelando atuação no campo da interpretação das leis, presente a Constituição. No julgamento do Recurso Extraordinário nº 184.093-5/SP, relator Ministro Moreira Alves, a Primeira Turma do Supremo assentou que a regra do artigo 97, cabeça, da Lei Maior não se aplica aos casos de utilização da referida técnica. Portanto, mostra-se imprópria a formalização desta medida com base no Verbete Vinculante nº 10 da Súmula do Tribunal.
+    É oportuno destacar que o juízo negativo acerca do descabimento da reclamação, sempre a pressupor a usurpação de competência do Supremo ou o desrespeito às decisões por ele proferidas, nada diz quanto ao acerto ou o desacerto do pronunciamento nela impugnado. A adequação do ato do Regional deve ser analisada mediante o recurso pertinente.
+    3. Ante o quadro, nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 23 de agosto de 2012.
+Ministro MARCO AURÉLIO
+Relator
