@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF04 nº 54, de 31 de julho de 2012
+ASSUNTO: Imposto sobre a Renda Retido na Fonte IRRF
+EMENTA: Isenção. Alíquota Zero. Remessas ao Exterior. Companhia de Navegação Marítima ou Aérea, e de Transporte Terrestre. Consolidador de Cargas. Transportador. Afretamento. Interpretação de Norma Outorgante de Favor Fiscal.
+As normas concessivas de favor fiscal devem ser interpretadas literalmente, conforme disposto no art. 111 do Código Tributário Nacional. As remessas ao exterior a consolidador de cargas que não tenha atuado na condição de companhia de navegação aérea ou marítima, ou de transportes terrestres, não se enquadram no benefício fiscal disposto nos arts. 176 e 711, parágrafo único, do Regulamento do Imposto de Renda, Decreto nº 3.000, de 1999, assim como somente os pagamentos efetuados a título de aluguéis (afretamentos) ou arrendamentos de embarcações marítimas ou fluviais ou de aeronaves estrangeiras, feitos por empresas, desde que tenham sido aprovados pelas autoridades competentes, bem assim os pagamentos de aluguel de containers, "sobrestadia" e outros relativos ao uso de serviços de instalações portuárias, enquadram-se no benefício da alíquota zero a que se refere o art. 691, inciso I, do mesmo Regulamento.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966, art. 111; Decreto-Lei nº 5.844, de 1943, art. 30; Decreto-Lei nº 1.228, de 3 de julho de 1972, art. 1º, Lei nº 9.430, de 1996, art. 85, parágrafo único; e Lei nº 9.841, de 1997, art. 1º, inciso I.
+Novo segmento
+[arquivo anexo: SC SRRF04-Disit nº 54-2012.pdf]
