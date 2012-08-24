@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão proferido por Tribunal Regional Federal cuja ementa tem o seguinte teor (fls. 30):
+    “ADMINISTRATIVO – MEMBROS DO MINISTÉRIO PÚBLICO ESTADUAL – GRATIFICAÇÃO ELEITORAL INSTITUÍDA PELA EI N. 8.625/93 – ABONO CONCEDIDO À MAGISTRATURA FEDERAL PELO ART. 6º DA LEI N. 9.655/98 c.c. ART. 21 DA LEI N. 10.474/02 – CÔMPUTO NA BASE DE CÁLCULO DAQUELA GRATIFICAÇÃO – IMPOSSIBILIDADE -RESOLUÇÃO N. 245/98 DO STF – NATUREZA INDENIZATÓRIA DO ABONO QUE NÃO INTEGRA A REMUNERAÇÃO. APELO IMPROVIDO.
+    1. A base de cálculo da gratificação eleitoral prevista na Lei n. 8.625/93 é o vencimento básico do cargo de Juiz Federal, prevista no art. 2º da Lei nº 8.350/91, acrescida da Gratificação de Representação Mensal, conforme determinado na Resolução n. 19.216/95 do TSE. A natureza remuneratória de tais parcelas pecuniárias decorre, respectivamente, do disposto nos arts. 40 e 41 da Lei n. 8.112/90 c.c. Art. 1º, I, II e III, da Lei nº 8.852/94, aplicáveis, subsidiariamente, aos agentes políticos (AC.2000.01.00.044295-4/DF, Rel. Des. Federal Aloísio Palmeira Lima, Primeira Turma, publicado no DJ de 07.06.2002, p. 73), bem como do §1º do art. 35 da LOMAN.
+    2. O abono concedido aos membros do poder Judiciário em razão do disposto no art. 6º da Lei nº 9.655/98 c.c. Art. 21 da Lei nº 10.474/02, não pode compor a base de cálculo para fins da gratificação devida aos promotores estatais pela prestação de serviço à Justiça Eleitoral. Seu caráter indenizatório, conferido, explicitamente, pelo Supremo Tribunal Federal, através da Resolução n. 245, de 12.12.98, diz respeito à ideia de recomposição daquilo que sofreu desfalque, evidenciando se tratar de valor não incorporável, eminentemente transitório e, portanto, impossível de se integrar à remuneração .
+    3. Precedente deste Tribunal (AC. 2003.38.00.024244-1, Rel. Juiz Federal Manoel José Ferreira Nunes (conv.), Primeira Turma, publicado no DJ de 22.03.2006, p. 31)
+    4. Apelação a que se nega provimento.”
+    O recurso extraordinário aponta ofensa ao disposto nos arts. 5º, II, LIV e LV; e 93, IX da Constituição federal.
+    A análise da apontada ofensa ao art. 5º, II, da Constituição federal, demandaria o exame prévio da legislação infraconstitucional. Trata-se, portanto, de alegação de violação indireta ou reflexa da Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Ademais, inexiste a alegada afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora agravante.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
