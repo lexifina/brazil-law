@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RESPONSABILIDADE CIVIL. SERVIÇOS POSTAIS. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. EXTRAVIO DE CORRESPONDÊNCIA. MAL FUNCIONAMENTO DO SERVIÇO. RESPONSABILIDADE OBJETIVA. DANO MORAL E MATERIAL CONFIGURADOS. RAZOABILIDADE DO VALOR FIXADO. JUROS DE ACORDO COM A LEI N. 11.260/2009. RECURSO PROVIDO EM PARTE” (fl. 165).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, X, XXXV e LIV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, para se chegar à conclusão contrária à adotada pelo Tribunal de origem quanto à existência de nexo de causalidade a ensejar o dever de indenizar, bem como no concernente ao montante indenizatório, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Inviável, portanto, o extraordinário. Nesse sentido: ARE 680.589/RS, Rel. Min. Luiz Fux; RE 634.076/DF, Rel. Min. Joaquim Barbosa; e RE 630.097/DF, Rel. Min. Cármen Lúcia e AI 835.478-AgR/RS, de minha relatoria, cuja ementa segue transcrita:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. DANOS MORAIS. ADEQUAÇÃO DO MONTANTE INDENIZATÓRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+      I – A apreciação do recurso extraordinário, no que concerne ao dano moral e ao seu respectivo valor, encontra óbice na Súmula 279 do STF. Precedentes.
+    II - Agravo regimental improvido”
+    Ademais, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Com o mesmo entendimento, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
