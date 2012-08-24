@@ -1,0 +1,12 @@
+DECISÃO: 1. Trata-se de agravo contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado do Espírito Santo que negou provimento a apelação interposta pelo ora recorrente em face de sentença que julgou procedente ação de usucapião.
+    Sustenta a parte recorrente, com base no art. 102, III, a, violação aos arts. 5º, LV, 183, caput, e § 3º, da Constituição Federal.
+    2. Inviável o recurso.
+    No caso, há evidente deficiência na fundamentação da petição do agravo de instrumento, porque as razões nele deduzidas são destoantes do real conteúdo semântico da decisão agravada, não permitindo a exata compreensão da controvérsia, o que atrai a aplicação da súmula 287.
+    Nesse sentido, é a jurisprudência desta Corte:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Razões do agravo que não atacam todos os fundamentos da decisão agravada. Inadmissibilidade. Súmula nº 287 desta Corte. 1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte. 2. Agravo regimental não provido.” (ARE nº 639.283 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, Dje de 16.8.2012)
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO DE JULGADO PROFERIDO PELO STF EM MANDADO DE INJUNÇÃO, RELATIVO À INDENIZAÇÃO POR ANISTIA. NECESSIDADE DE DISCRIMINAÇÃO DOS VALORES NA INICIAL, UMA VEZ TRATAR-SE DE LIQUIDAÇÃO POR ARTIGOS. REGULARIDADE FORMAL DO APELO INSTRUMENTAL: AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 287 DO STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS. 1. O agravo de instrumento é inadmissível quando a sua fundamentação não impugna especificamente a decisão agravada. Nega-se provimento ao agravo, quando a deficiência na sua fundamentação, ou na do recurso extraordinário, não permitir a exata compreensão da controvérsia. (súmula 287/STF). 2. Precedentes desta Corte: AI nº 841.690 AgR, Rel. Min. Ricardo Lewandowski, DJe- 01/08/2011; RE nº 550.505 AgR, Rel. Min. Gilmar Mendes, DJe- 24/02/2011; AI nº 786.044 AgR, Rel. Min. Ellen Gracie, DJe- 25/06/2010. (...). 4. Agravo regimental a que se nega provimento.” (AI nº 855.594 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 14.8.2012)
+    3. Ante o exposto, não conheço do agravo (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, 544, § 4º, I, e 557 do CPC).
+    Publique-se. Int..
+    Brasília, 24 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
