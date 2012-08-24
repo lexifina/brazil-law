@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “MILITAR NÃO ESTÁVEL. MANDADO DE SEGURANÇA. EXCLUSÃO DA CORPORAÇÃO. EXCLUSÃO DAS FILEIRAS DA FORÇA AÉREA BRASILEIRA. DECRETO Nº 880/93. DIREITO LÍQUIDO E CERTO À PERMANÊNCIA. INEXISTÊNCIA.
+    I - O Concurso de Admissão ao curso de Especialização de Soldados não guarda similaridade com concurso de provas e títulos dos servidores públicos civis, nem a ele se equipara, eis que o serviço militar é disciplinado por legislação própria.
+    II - Tendo os impetrantes militares não estáveis, concluído o tempo de serviço de 6 (seis) anos, a que se refere o Decreto nº 880/93, devem ser licenciados da Força Armada, consoante o disposto na legislação militar, Lei nº 6.880/80, só permanecendo no serviço ativo em havendo conveniência da Administração Militar.
+    III - Inexistência de ofensa a preceito constitucional ou a direito líquido e certo dos impetrantes.
+    IV - Apelação não provida” (fl. 459 do e-STJ).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, II, XXXV e LV, 37, I e II, e 93, IX, da mesma Carta. Sustentou-se que os recorrentes ingressaram na Aeronáutica após a aprovação em concurso público para a carreira militar, regido por edital no qual não havia previsão de que o certame seria para soldado temporário.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 6.880/1990 e Decreto 880/1993). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela legislação pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo a ementa do RE 587.836-AgR/MG, Rel. Min. Ayres Britto:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MILITAR TEMPORÁRIO DAS FORÇAS ARMADAS. LICENCIAMENTO DOS QUADROS. O TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE (LEI FEDERAL 6.880/1990 E DECRETO 880/1993). OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL.
+    1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário.
+    2. Agravo desprovido”.
+    No mesmo sentido, cito, ainda, as seguintes decisões: AI 737.188/RJ, Rel. Min. Cármen Lúcia; RE 582.446/RJ, Rel. Min. Ayres Britto; AI 501.647/RJ, Rel. Min. Sepúlveda Pertence.
+    Além disso, ressalta-se que o Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas editalícias, o que inviabiliza o recurso extraordinário nos termos das Súmulas 279 e 454 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
