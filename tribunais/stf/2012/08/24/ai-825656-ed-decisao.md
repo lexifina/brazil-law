@@ -1,0 +1,21 @@
+Decisão: Em face das considerações constantes da petição de fls. 389-391, verifico a ocorrência de erro material no despacho de fls. 38, no qual determinei a devolução dos autos à origem, em face do reconhecimento de repercussão geral para a matéria versada nos presentes autos.
+    Reconsidero essa decisão, tornando-a sem efeito, e passo, a seguir, ao exame do recurso.
+    Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a) interposto de acórdão proferido pelo Superior Tribunal de Justiça, em julgamento de recurso especial. Transcrevo sua ementa (fls. 246):
+    “AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E PROCESSO CIVIL. SERVIDOR PÚBLICO. EXERCÍCIO DE FUNÇÃO DE DIREÇÃO, CHEFIA OU ASSESSORAMENTO. GRATIFICAÇÃO. INCORPORAÇÃO DE QUINTOS. TRANSFORMAÇÃO EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA - VPNI. ARTIGOS 62-A DA LEI 8.112/90, 3º E 10 DA LEI 8.911/94, 3º DA LEI 9.624/98, E 3º DA MEDIDA PROVISÓRIA 2.225-45/2001. PERÍODO DE 8/4/1998 A 5/9/2001. DIREITO RECONHECIDO. PRECEDENTES.
+    1. O Superior Tribunal de Justiça firmou entendimento, no âmbito da Terceira Seção, no sentido de que é possível a incorporação de quintos, em relação ao exercício da função comissionada, no período de 08 de abril de 1998 - data do início da vigência da Lei 9.624/98 - até 05 de setembro de 2001 - data referente ao início da vigência da MP 2.225-45/01.
+    2. Agravo regimental improvido.”
+    No recurso extraordinário, sustenta-se ofensa aos arts. 2º, 37, caput, 62, 63 e 105 da Constituição.
+    Decido.
+    Verifico que matéria impugnada no presente recurso extraordinário foi decidida pelo Tribunal Regional Federal da 2ª Região, no julgamento da apelação interposta pela União contra sentença que julgara procedente o pedido inicial. O Superior Tribunal de Justiça, no julgamento do recurso especial, somente manteve o acórdão da segunda instância.
+    O Plenário desta Corte já decidiu ser inviável o recurso extraordinário que — interposto de acórdão do Superior Tribunal de Justiça em recurso especial — impugna as mesmas questões debatidas na instância ordinária. Assim, por força da preclusão, da decisão do STJ no recurso especial, só caberá recurso extraordinário se a questão constitucional for diversa daquela resolvida pela instância ordinária,. Confira-se:
+    “E M E N T A - Recurso extraordinário: interposição de decisão do STJ em recurso especial: inadmissibilidade, se a questão constitucional de que se ocupou o acórdão recorrido já fora suscitada e resolvida na decisão de segundo grau e, ademais, constitui fundamento suficiente da decisão da causa.
+    1. Do sistema constitucional vigente, que prevê o cabimento simultâneo de recurso extraordinário e de recurso especial contra o mesmo acórdão dos tribunais de segundo grau, decorre que da decisão do STJ, no recurso especial, só se admitirá recurso extraordinário se a questão constitucional objeto do último for diversa da que já tiver sido resolvida pela instância ordinária.
+    2. Não se contesta que, no sistema difuso de controle de constitucionalidade, o STJ, a exemplo de todos os demais órgãos jurisdicionais de qualquer instância, tenha o poder de declarar incidentemente a inconstitucionalidade da lei, mesmo de oficio; o que não é dado àquela Corte, em recurso especial, é rever a decisão da mesma questão constitucional do tribunal inferior; se o faz, de duas uma: ou usurpa a competência do STF, se interposto paralelamente o extraordinário ou, caso contrário, ressuscita matéria preclusa.
+    (...) (AI 145.589-AgR, rel. min. Sepúlveda Pertence, Tribunal Pleno, DJ de 24.06.1994)
+    No mesmo sentido, entre outros: AI 364.277–AgR (rel. min. Carlos Velloso, Segunda Turma, DJ de 28.06.2002); AI 436.046–AgR, rel. min. Carlos Britto, Primeira Turma, DJ de 01.04.2005); AI 618.700 (rel. min. Sepúlveda Pertence, DJ de 26.02.2007); AI 472.822 (rel. min. Dias Toffoli, DJe de 08.03.2010).
+    Observo que, uma vez não cumpridos os requisitos de admissibilidade do recurso extraordinário, não há falar-se na aplicação ao caso do rito do art. 543-B do Código de Processo Civil e 328 do RISTF.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
