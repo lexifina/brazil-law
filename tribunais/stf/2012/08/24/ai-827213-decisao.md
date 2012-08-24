@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Daniel Kaiper dos Passos e outros interpõem agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 1º, 5º, caput, 42, § 1º, e 142, § 3º, X, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PÚBLICA. CONTRIBUIÇÃO PREVIDENCIÁRIA DE 5,4% PREVISTA NA LEI Nº 7.672/82. SERVIDOR MILITAR DA ATIVA. PRELIMINAR.
+    Desnecessária a suspensão do feito para aguardar-se o julgamento do recurso extraordinário interposto contra a decisão proferida na ADI nº 70010738607, tendo em vista que a matéria objeto de cada feito é distinta, não se configurando a situação de prejudicialidade externa. LEGITIMIDADE DO ESTADO DO RIO GRANDE DO SUL. O Estado do Rio Grande do Sul possui legitimidade passiva nos casos em que se discute a sustação de descontos previdenciários, sem que lhe sejam imputados ônus sucumbenciais. MÉRITO. Não há ilegalidade na realização do desconto previdenciário de 5,4%, com base na Lei nº 7.762/82, em relação aos militares ativos, até que sobrevenha lei específica para a categoria. É caso de simples manutenção da vigência da legislação anterior, que não foi declarada inconstitucional. Inocorrência de repristinação. PRELIMINARES REJEITADAS. RECURSO DESROVIDO”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão dos recorrentes e ultrapassar o entendimento do Tribunal de origem acerca da revogação parcial ou integral da Lei Estadual nº 7.672/82 e da análise referente à repristinação, seria necessário o reexame de legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário. Nesse sentido, anote-se:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. REVOGAÇÃO E REPRISTINAÇÃO DE NORMA ESTADUAL. CONTROVÉRSIA DE NATUREZA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI n° 838.293/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 19/5/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. 1) CONTROVÉRSIA SOBRE REVOGAÇÃO DE LEIS E REPRISTINAÇÃO: OFENSA CONSTITUCIONAL INDIRETA. 2) AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 3) PREQUESTIONAMENTO IMPLÍCITO: INADMISSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 834.153/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 11/4/11).
+    Diante da referida ofensa reflexa à Constituição Federal, esta Corte reconheceu a ausência de repercussão geral da matéria debatida na presente lide. Nesse sentido:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Descontos previdenciários. Militares estaduais ativos. Lei Estadual 7.672/1982. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a autorização de descontos previdenciários sobre vencimentos de servidores militares ativos do Estado do Rio Grande do Sul, com base na Lei Estadual 7.672/1982, versa sobre tema infraconstitucional” (AI n° 834.262/RS-RG, Relator o Min Cezar Peluso, DJe de 15/9/11).
+    “RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL INADMITIDA – DESCONTOS PREVIDENCIÁRIOS DOS MILITARES INATIVOS – MATÉRIA INFRACONSTITUCIONAL. O Tribunal concluiu não ter repercussão geral o tema relativo à possibilidade de serem efetuados descontos previdenciários dos militares ativos do Estado do Rio Grande do Sul, porquanto, na origem, a controvérsia foi decidida com base na Lei estadual nº 7.672/82, na Lei Complementar estadual nº 12.065/04 e no Código Civil” (AI n° 839.314/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 27/4/12).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
