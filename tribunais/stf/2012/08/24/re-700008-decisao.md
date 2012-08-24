@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ACIDENTE RADIOATIVO. CÉSIO 137. PENSÃO ESPECIAL. LEI 9.425/96. INDENIZAÇÃO. IMPOSSIBILIDADE DA INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado da Turma Recursal dos Juizados Especiais Federais de Goiás:
+    “ACIDENTE RADIOATIVO. CÉSIO 137. PENSÃO ESPECIAL. LEI 9.425/96. INDENIZAÇÃO. DANOS MORAIS. POLICIAL MILITAR. SEGURANÇA E ISOLAMENTO DO LOCAL CONTAMINADO. VÍTIMA DO ACIDENTE RADIOATIVO. DANO MORAL CONFIGURADO. RECURSO DA CNEN IMPROVIDO” (fl. 265).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Recorrente alega que a Turma Recursal teria sido contrariado o art. 5º, caput, e inc. II, LIV e LV, e 37, caput, da Constituição da República.
+    Argumenta que
+    “Com esteio na manifestação do assistente técnico da CNEN, anexada aos autos, verifica-se que as moléstias alegadamente sofridas pelo Autor somente poderiam ter sido ocasionadas pelo acidente radiológico de Goiânia se o mesmo tivesse sido vítima direta do Césio 137 – equivale dizer: se o mesmo tivesse tido contato físico direto com a cápsula, seu conteúdo ou demais rejeitos contaminados, o que necessariamente levaria o mesmo, como levou as vítimas diretas do acidente à apresentação, em curtíssimo espaço de tempo, de síndrome aguda da radiação e/ou radiodermites, o que não ocorreu” (fl. 305).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. O Relator, Roberto Carlos de Oliveira, afirmou:
+    “Pelos elementos contidos nos autos, está demonstrado que o recorrente foi vítima do acidente com o césio 137. Tendo em vista o fato de ter prestado serviços no local do acidente, fazendo a segurança e o isolamento do local contaminado, do primeiro dia do acidente até o início da retirada do lixo radioativo” (fl. 266).
+    Para concluir de forma diversa do que foi decidido pelas instâncias originárias, seria necessária a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie e a análise dos fatos e provas constantes dos autos. Providências vedadas na instância extraordinária. 2. Incidem as Súmulas 282 e 356 do STF. 3. Agravo regimental desprovido. 4. Condeno a parte agravante a pagar à agravada multa de 5% (cinco por cento) do valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito do valor respectivo (§ 2º do art. 557 do Código de Processo Civil)” (AI 763.736-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 27.11.2009).
+    6. Ademais, o Supremo Tribunal Federal firmou o entendimento de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (Lei n. 9.425/96), podem configurar apenas ofensa reflexa à Constituição da República. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INDEFERIMENTO DE PRODUÇÃO DE PROVA. ALEGADA AFRONTA AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 737.542-AgR, de minha relatoria, Primeira Turma, DJe 7.8.2009).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. ALEGAÇÃO DE OFENSA AO INCISO LV DO ART. 5º DA MAGNA CARTA. INEXISTÊNCIA. Questão eminentemente processual, que não enseja apreciação em recurso extraordinário. Demais disso, não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: Ais 382.214, Relator o Ministro Celso de Mello, e 114.548-AgR, Relator o Ministro Sepúlveda Pertence. Agravo desprovido” (AI 557.383-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 4.8.2006).
+    Nada há, pois, a prover quanto às alegações da Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
