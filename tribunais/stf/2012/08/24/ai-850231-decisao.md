@@ -1,0 +1,11 @@
+DECISÃO: 1. Trata-se de agravo de instrumento contra decisão que indeferiu processamento de recurso extraordinário interposto de acórdão do Tribunal de Justiça de Santa Catarina e assim ementado, no que interessa:
+    “AÇÃO REVISIONAL. CONTRATO DE MÚTUO (‘CAPITAL DE GIRO’). ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. AUSÊNCIA DE PEDIDO INICIAL NO TOCANTE À CLÁUSULA QUE ATRIBUI AO MUTUÁRIO A RESPONSABILIDADE POR HONORÁRIOS E CUSTAS EXTRAJUDICIAIS. SENTENÇA ANULADA NO PONTO. (...) DIREITO DO CONSUMIDOR. APLICAÇÃO DA TEORIA MAXIMALISTA PARA CONSIDERAR A EMPRESA APELADA COMO DESTINATÁRIA FINAL DOS VALORES MUTUADOS PELO BANCO, DECISÃO MANTIDA. (...) JUROS REMUNERATÓRIOS. ÍNDICE CONTRATUAL QUE EXCEDE AMPLAMENTE A TAXA MÉDIA DE MERCADO. CLÁUSULA ABUSIVA SEGUNDO OS CRITÉRIOS ADOTADOS PELA JURISPURDÊNCIA. RECURSO NÃO PROVIDO. CAPITALIZAÇÃO DOS JUROS EM CONTRATO BANCÁRIO. POSSIBILIDADE. ENCARGO CONTRATADO NA FORMA TIDA POR SUFICIENTE NA JURISPRUDÊNCIA DESTA CORTE. DECISÃO REFORMADA. (...) AÇÃO PROPOSTA QUANDO VENCIDAS TRÊS DAS CINCO PARCELAS CONTRATADAS. SOMA DAS QUANTIAS PAGAS QUE NÃO SATISFAZ O VALOR MUTUADO. AUSÊNCIA DE DEPÓSITO DA PARTE INCONTROVERSA DA DÍVIDA, CONFIGURANDO A MORA. RECURSO PROVIDO NESSE ITEM. (...) REPETIÇÃO DE INDÉBITO. SITUAÇÃO DE FATO QUE SUGERE A INEXISTÊNCIA DE VALORES A DEVOLVER, MAS QUE DEPENDE, EM ÚLTIMA ANÁLISE, DE APURAÇÃO EM LIQUIDAÇÃO DE SENTENÇA. DECISÃO MANTIDA.” (fls. 69-70)
+    Não foram opostos embargos de declaração.
+    Sustenta a parte recorrente, com base no art. 102, III, a, violação ao art. 100, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. O Superior Tribunal de Justiça já deu, com trânsito em julgado, provimento ao recurso especial (REsp nº 1.424.726 – acórdão transitado em julgado em 21.5.2012), em que figura como parte a recorrente, admitindo a compensação da verba honorária.
+    Assim, em face da decisão do STJ, julgo prejudicado o recurso extraordinário, por perda de objeto.
+    3. Ante o exposto, julgo prejudicado o recurso, por perda superveniente do objeto e determino a baixa dos autos ao Tribunal de origem.
+    Publique-se. Int..
+    Brasília, 24 de agosto de 2012.
+Ministro CEZAR PELUSO
+Relator
