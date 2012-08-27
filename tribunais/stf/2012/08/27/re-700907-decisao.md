@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. VESTIBULAR. REALIZAÇÃO DE MATRÍCULA. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE ANÁLISE DE NORMAS EDITALÍCIAS. SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “AGRAVO. AGRAVO DE INSTRUMENTO. CURSO SUPERIOR. MATRÍCULA. CONCURSO VESTIBULAR. VAGA EM UNIVERSIDADE FEDERAL. CANDIDATO QUE NÃO SE APRESENTA POR FALHA DE COMUNICAÇÃO. PRINCÍPIO DA PUBLICIDADE DOS ATOS ADMINISTRATIVOS.
+    No caso, a autora não compareceu à instituição dentro do prazo do calendário acadêmico para realizar a matrícula, mas não se pode afastar a dificuldade ao acesso por meio eletrônico: o acesso à internet ainda não é universal(...).
+    'A fim de que seja evitado prejuízo irreparável deve ser prestigiado o princípio da publicidade dos atos administrativos'. (TRF4, 4ª Turma, AG 2000.04.01.110986-5/RS, relator Des. Federal Edgard Antônio Lippmann Júnior, DJ 14/03/2001, p. 436)” (fl. 1, doc. 16).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Recorrente alega que o Tribunal a quo teria contrariado os arts. 2º, 5º, caput, inc. XXXV, LIV e LV, 37, caput, 93, IX, 206, inc. I, e 207 da Constituição da República.
+    Sustenta que
+    “Alargar o entendimento a ponto de permitir que os candidatos possam fazer a matrícula no horário que lhes agrade ofende o princípio da isonomia, pois se estará a criar privilégio, sem justificativa bastante. Diga-se, isonomia expressamente exigida na forma de acesso ao ensino, como diretriz do sistema educacional, conforme estatui a Constituição Federal, no art. 206, I” (fl. 8, doc. 33).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste à Recorrente.
+    4. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Recorrente, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    5. O Supremo Tribunal assentou, ainda, que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    6. Ademais, o Relator, Desembargador Carlos Eduardo Thompson Flores Lenz, afirmou:
+    “A r. decisão recorrida determina que seja efetivada a matrícula do candidato aprovado no PEIES, independente de não ter comparecido para se matricular no horário previsto no Edital.
+    Ao candidato as informações do Edital e do Manual indicavam que ' Se você for classificado no PEIES 2009, deverá fazer a solicitação de confirmação da vaga e a matrícula; caso contrário, perderá o direito à vaga'.
+    A candidata entendeu que sua matrícula estava efetivada com a entrega dos documentos que enviara pelo Correio para a confirmação da vaga.
+    No entendimento da Universidade, o Edital teria sido específico e claro nas instruções para matrícula dos aprovados e dos chamamentos posteriores. O fato de a estudante não possuir acesso à internet não seria suficiente para o descumprimento do edital.
+    Pela administração, houve ferimento à autonomia universitária e ao princípio da isonomia entre os demais candidatos.
+    Conforme consignado na própria decisão da origem: 'Destaco, por oportuno, que este juízo não desconhece que o acesso à internet ainda não é universal, mas certamente a Autora tinha a sua disposição outros meios,(...)
+    De outra parte, a declaração prestada pelo Diretor Substituto do Departamento de Registro e Controle Acadêmico- DERCA, que se encontra anexada no Evento nº 1 (Carta 2), revela que a Autora encaminhou pelo Correio a documentação obrigatória, no prazo legal, garantindo o direito de ser matriculada junto ao Curso de Letras- Inglês e Literatura da Língua Inglesa (Diurno)” (fls. 6-7, doc. 15).
+    Para se concluir de modo diverso do acórdão recorrido, seriam necessários a análise das normas editalícias e o reexame do conjunto probatório dos autos, procedimentos não admitidos em recurso extraordinário, conforme as Súmulas 279 e 454 no Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE 473.719-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 1º.8.2008).
+    Não há, pois, o que prover quanto às alegações da Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
