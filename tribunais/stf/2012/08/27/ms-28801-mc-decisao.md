@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de segundo pedido de medida liminar que, formulado pelo impetrante, objetiva “(...) garantir a permanência (…) no exercício do seu cargo de Juiz de Direito Substituto de 2º Grau, até o julgamento meritório do ‘writ’” (fls. 1.246 – grifei).
+    Para justificar sua pretensão, a parte ora impetrante alega, em síntese, o que se segue (fls. 1.187/1.246):
+    “A tese da competência subsidiária do CNJ foi acolhida por V. Exa. como suficiente a autorizar o deferimento da medida liminar recentemente reformada pelo plenário. Não foi necessário, por isso, que V. Exa., àquela altura, examinasse individualmente os demais fundamentos jurídicos do pedido. Prova disso é que, naquela decisão liminar não foi rejeitada expressa e motivadamente as demais teses jurídicas encarnadas na petição inicial.
+    …...................................................................................................
+    Ou seja, aquele fundamento que ensejara a liminar deixou de ser suficiente à caracterização da fumaça de bom direito em razão de fato novo. Nesse cenário, passou a ser necessário, no atual estágio processual, que V.Exa. aprecie expressa e motivadamente os demais fundamentos invencivelmente demonstrados na petição inicial do presente ‘writ’ (e não refutados em sua relevância por V. Exa.), porquanto o julgamento do agravo regimental fez ressurgir o perigo da demora, isto é, o risco de o Impetrante restar afastado das funções antes da apreciação do mérito da ação.
+    …...................................................................................................
+    Do mesmo modo que V. Exa. se valeu de parte do julgamento da ADI 4638 para levar a liminar a reforma em plenário, é justo que considere o recente julgamento meritório do MS 28.816 como fator de robustecimento de um dos fundamentos da presente impetração, e que, em consequência, defira a medida liminar por outro motivo.
+    …...................................................................................................
+    Nesse julgamento, a Corte concedeu a ordem para anular a pena de aposentadoria imposta pelo CNJ por entendê-la descabida e inadequada, logo ofensiva dos princípios da razoabilidade e proporcionalidade. (…):
+    …...................................................................................................
+    (…) o perigo da demora continua existindo para garantir ao impetrante a permanência da higidez da medida liminar, pois é certo que as demais teses jurídicas de sua impetração ainda haverão de ser definitivamente apreciadas pelo Plenário no julgamento de mérito, justificando-se, assim, a sua manutenção para prestigio do mencionado princípio da segurança jurídica.
+    …...................................................................................................
+    É cediço na doutrina e na jurisprudência que na aplicação das penalidades disciplinares, deverão ser consideradas a natureza e a gravidade da infração funcional, bem como os danos que dela provierem para o serviço público, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais do acusado.
+    Pela utilização dos princípios da razoabilidade da proporcionalidade, o Poder Judiciário vem afastando os excessos injustificáveis praticados pelo poder público, em especial aqueles verificados no exercício da persecução disciplinar.
+    …...................................................................................................
+    Pelo exposto, é de se anular a aplicação da punição ‘sub oculis’, imposta ao impetrante, pelo ato coator, pelo fato da mesma ter violado os princípios da razoabilidade e da proporcionalidade.” (grifei)
+    Sendo esse o contexto, passo a examinar a segunda postulação cautelar deduzida pelo ora impetrante. E, ao fazê-lo, entendo – consideradas as próprias razões expostas no voto por mim proferido no julgamento plenário do recurso de agravo interposto pela União Federal – que não se acham presentes os requisitos autorizadores da concessão da medida liminar em referência.
+    Com efeito, o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, III, da Lei nº 12.016/2009: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+    “Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II da Lei nº 1.533/51, a saber:  a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+    Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+    (RTJ 112/140, Rel. Min. ALFREDO BUZAID – grifei)
+    Sendo assim, em juízo de estrita delibação, e sem prejuízo de ulterior reexame da pretensão mandamental deduzida na presente sede processual, indefiro este segundo pedido de medida liminar.
+    Publique-se.
+    Brasília, 27 de agosto de 2012.
+Ministro CELSO DE MELLO
+Relator
