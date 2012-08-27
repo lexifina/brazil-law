@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada por José Firmo Camurça Neto, contra decisão proferida pelo Tribunal de Contas dos Municípios do Ceará, nos autos do Processo nº 8913/01 (Acórdão 5456/2007), que teria rejeitado as contas do reclamante, prestadas na condição de Presidente da Câmara Municipal de Maracanaú/CE.
+    Alega, em síntese, que a decisão reclamada teria ofendido a autoridade de julgado desta Suprema Corte, consistente na declaração de inconstitucionalidade do art. 37, § 6º, da Constituição do Ceará (ADI nº 307, Rel. Min. EROS GRAU, Plenário, DJe de 20.6.2008). Aduz que o único fundamento do acórdão da Corte de Contas seria exatamente o dispositivo julgado inconstitucional pelo STF.
+    2. Inviável o pedido.
+    É que não concorre uma das condições da ação. Verifico, no caso, não haver interesse processual, porquanto consta das peças juntadas aos autos pelo reclamante, sentença proferida pelo juízo da 9º Vara da Fazenda Pública da Comarca de Fortaleza/CE (arquivo 6 dos autos eletrônicos), da qual transcrevo trecho relevante:
+    “Deste modo, considerando que o único limite para a remuneração dos agentes políticos municipais, à época da EC 19/98, era a remuneração do Chefe do Poder Executivo Municipal, infere-se que os subsídios estabelecidos pela lei municipal de Maracanaú não violou nenhum preceito da Constituição Federal, nem da Constituição Estadual, em virtude da declaração de inconstitucionalidade do § 6º do art. 37, razão pela qual revela-se ilegal a fundamentação do item 2.4 do Acórdão 5456/07 do TCM/CE.
+    Conclui-se, portanto, que a suposta irregularidade identificada na prestação de contas ora questionada não subsiste, encontrando-se o Acórdão 5456/07 revestido de vício adstrito à legalidade, passível de anulação pelo Poder Judiciário.
+    Diante do exposto, julgo procedente o pleito formulado por José Firmo Camurça Neto em face do Estado do Ceará, declarando nulo o Acórdão de nº 5456/2007, proferido pelo Tribunal de Contas dos Municípios do Estado do Ceará (TCM/CE) nos autos do processo nº 8913/01, referente à prestação de contas da Câmara Municipal de Maracanaú, exercício de 2000, confirmando a tutela antecipada antes deferida, e, por conseguinte, considerando as respectivas contas aprovadas em sua integralidade” (arq. 6 dos autos eletrônicos)
+    Embargos de declaração opostos pelo Ministério Público cearense foram rejeitados pelo juízo. Ora, subsistente a decisão que declarou “(...) nulo o Acórdão de nº 5456/2007, proferido pelo Tribunal de Contas dos Municípios do Estado do Ceará”, e cujos efeitos o reclamante pretende agora afastar, não há falar em interesse processual, pois já satisfeita a pretensão ora deduzida.
+    3. Ante o exposto, nego seguimento ao pedido (art. 21, § 1º, RISTF), prejudicada a liminar.
+    Publique-se. Int..
+    Brasília, 27 de agosto de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
