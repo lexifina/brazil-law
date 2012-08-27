@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+    “PREVIDENCIÁRIO. ATIVIDADE URBANA. MÚSICO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ÔNUS DO CONTRATANTE. CONCESSÃO DE APOSENTADORIA POR TEMPO DE SERVIÇO. REQUISITOS NÃO IMPLEMENTADOS. AVERBAÇÃO DE TEMPO DE SERVIÇO. ANTECIPAÇÃO DE TUTELA. REVOGAÇÃO.
+    1. O recolhimento das contribuições previdenciárias, decorrente da contratação por prazo certo e determinado de músico profissional, é ônus do contratante, conforme dispõe art. 66 da Lei 3.857/60. 2. A aposentadoria por tempo de serviço/contribuição é indevida se a parte autora deixou de implementar qualquer dos requisitos necessários à sua outorga. Nesse caso, faz jus, tão-somente à averbação do período reconhecido para fins de futura aposentadoria. 3. Não fazendo o autor jus ao benefício, deve ser revogada a antecipação de tutela, ressalvando que, devido ao caráter alimentar do benefício, são irrepetíveis as prestações já auferidas pela parte autora” (fl. 220).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXV, LIV, e LV, 37, 97 e 105, III, da mesma Carta.
+    A pretensão recursão não merece acolhida.
+    Os Ministros desta Corte, no AI 841.473-RG/RS, Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral do tema versado nos presentes autos – devolução ao INSS dos valores recebidos de boa-fé pelo beneficiário –, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
