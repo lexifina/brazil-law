@@ -1,0 +1,38 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO DE RENDA. RETENÇÃO NA FONTE. LEGITIMIDADE PASSIVA DO ESTADO. INCIDÊNCIA DO IMPOSTO SOBRE JUROS DE MORA. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Norte:
+    “DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. RENDIMENTOS PAGOS EM CUMPRIMENTO DE DECISÃO JUDICIAL. GRATIFICAÇÃO DE SERVIDOR PÚBLICO. PRECATÓRIO. IMPOSTO DE RENDA RETIDO NA FONTE. LEGITIMIDADE PASSIVA AD CAUSAM DO ESTADO. REPARTIÇÃO DA RECEITA TRIBUTÁRIA. CÁLCULO DO TRIBUTO. OBSERVÂNCIA DOS VALORES MENSAIS E NÃO O MONTANTE GLOBAL AUFERIDO. OBSERVÂNCIA DAS TABELAS E ALÍQUOTAS VIGENTES À ÉPOCA EM QUE DEVERIA TER SIDO SATISFEITO O BENEFÍCIO. JUROS DE MORA. NATUREZA INDENIZATÓRIA. NÃO INCIDÊNCIA DE TRIBUTOS. HONORÁRIOS ADVOCATÍCIOS. CONDENAÇÃO PROFERIDA EM TOTAL OBSERVÂNCIA AOS PRINCÍPIOS DA CAUSALIDADE E PROPORCIONALIDADE COM BASE NO DISPOSTO NAS ALÍNEAS ‘A’, ‘B’ E ‘C’ DOS §§ 3º e 4º DO ARTIGO 20 DO CÓDIGO DE PROCESSO CIVIL. REMESSA NECESSÁRIA E RECURSO CONHECIDOS E DESPROVIDOS” (fls. 27-28, doc. 6 – grifos nossos).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os princípios constitucionais da universalidade e da generalidade dos impostos e o art. 153, inc. III e §2º, da Constituição da República.
+    Sustenta que
+    “o Estado é mero arrecadador e repassador do Imposto de Renda, assim atuando nos exatos termos da legislação federal que rege a matéria. Em outras palavras, procede ao desconto do imposto referido e o transfere, ato contínuo, à União.
+    Em assim sendo, inevitável a conclusão de que a presente ação deveria ter sido interposta em face da União, e não em face do Estado” (fl. 15, doc. 7).
+    Assevera que
+    “faz-se necessário demonstrar a possibilidade de incidência do imposto de renda sobre os juros moratórios.
+    (…)
+    O regramento infraconstitucional determina os fatos geradores do imposto, que são delineados pelo art. 43 do Código Tributário Nacional” (fl. 15, doc. 7).
+    Argumenta que “somente pode-se afastar da tributação pelo IR os acréscimos patrimoniais (riqueza nova) que estejam isentos, interpretando-se a isenção nos termos do art. 111, do CTN” (fl. 17, doc. 7).
+    Requer o provimento do recurso extraordinário para
+    “extinguir o processo sem julgamento do mérito, haja vista a clara e evidente ilegitimidade do Estado para atuar no presente feito.
+    Não sendo este o entendimento dos doutos julgadores, pleiteia-se a reforma do acórdão que determinou a restituição dos valores recolhidos a título de IR sobre os juros moratórios, determinado-se possibilidade de incidência da exação” (fl. 19, doc. 7).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Relator, Desembargador Amaury Moura Sobrinho, afirmou:
+    “No que se refere ao mérito propriamente dito, observo, da análise dos autos, que merece guarida o pleito autoral, para que sejam restituídos os valores pecuniários recolhidos indevidamente a título de imposto de renda sobre a gratificação SUDS, na medida em que excedem as tabelas e alíquotas vigentes à época em que deveriam ter sido paga a citada gratificação.
+    A Lei 8.541/92, em seu artigo 46, dispõe que é atribuição da própria fonte pagadora a retenção do imposto incidente sobre a renda do contribuinte, tão logo se torne disponível ao beneficiário.
+    Na hipótese de quantias a serem pagas ao credor em razão de decisão judicial, a incidência do tributo não pode dar-se sobre o total do montante a ser ressarcido.
+    (...)
+    No que diz respeito ao pleito de não incidência do imposto de renda sobre os juros moratórios, subsiste, ainda, divergência no Superior Tribunal de Justiça sobre a questão, porque pende de julgamento o REsp n.º 1.002.665/RS, afetado à Primeira Seção.
+    Todavia, cumpre identificar a natureza jurídica dos juros moratórios. Ora, os juros de mora somente são devidos no caso de pagamento em atraso. Não tem, portanto, caráter salarial. Revestem-se de natureza indenizatória pelo retardo no cumprimento da obrigação. Por isso, não se constituem em fato gerador do imposto de renda.
+    Nesse passo, comungo com o entendimento firmado segundo o qual os juros de mora possuem nítido caráter indenizatório pela não-disponibilidade do credor do quantum debeatur e não representam proventos de qualquer natureza. Por isso, não caracterizam acréscimo patrimonial consoante exige o art. 43 do CTN, estando fora do âmbito de incidência do imposto sobre a renda e proventos de qualquer natureza” (fl. 34-36, doc. 6).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Lei n. 8.541/1992). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E PROCESSUAL CIVIL. AÇÃO DE REPETIÇÃO DE INDÉBITO DE IMPOSTO DE RENDA RETIDO NA FONTE POR ESTADO FEDERADO, INCIDENTE SOBRE LICENÇA-PRÊMIO NÃO GOZADA. QUESTÕES RELATIVAS À LEGITIMIDADE PASSIVA DO ESTADO E À COMPETÊNCIA DA JUSTIÇA ESTADUAL: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 557.990-AgR, de minha relatoria, Primeira Turma, Dje 7.8.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ADICIONAL DO IMPOSTO DE RENDA. JUROS MORATÓRIOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 705.926-AgR, de minha relatoria, Primeira Turma, DJe 9.6.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. JULGADO RECORRIDO FUNDAMENTADO EXCLUSIVAMENTE NO ART. 66 DA LEI N. 8.383/91 E NOS ARTS. 3º, 162 E 170 DO CÓDIGO TRIBUTÁRIO NACIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 696.973-AgR, de minha relatoria, Primeira Turma, DJe 6.8.2009 – grifos nossos).
+    “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CÓDIGO TRIBUTÁRIO NACIONAL E LEI 8.981/95. INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. 1. O acórdão recorrido decidiu a controvérsia à luz do cotejo da do Código Tributário Nacional e da Lei 8.981/95. 2. Discussão que envolve o reexame de legislação infraconstitucional. A alegada ofensa à Constituição Federal, se existisse, seria indireta ou reflexa, o que elide o processamento do recurso extraordinário. Precedentes. 3. Agravo regimental a que se nega provimento” (RE 371.059-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 28.10.2010 – grifos nossos).
+    5. Nada há, pois, a prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
