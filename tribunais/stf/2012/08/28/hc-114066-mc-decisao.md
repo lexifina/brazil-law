@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de EUCLÉCIO RAUCH, contra decisão do Superior Tribunal de Justiça, que não conheceu do Agravo de Instrumento nº 1.386.952.
+    Segundo a inicial, o paciente foi condenado a 4 (quatro) anos e 3 (três) meses de reclusão, em razão da prática do crime previsto no art. 171, § 3º, do Código Penal. O Tribunal local, em sede de apelação, reduziu a reprimenda para 2 anos e (8) oito meses.
+    A defesa interpôs recurso especial, inadmitido na origem por decisão publicada, inicialmente, no dia 13/7/2010. Ocorre que, por equívoco, a publicação foi feita em nome de advogado que não mais atuava na defesa do ora paciente. A decisão de inadmissibilidade foi republicada no dia 13/8/2010.
+    Interpôs-se agravo contra a inadmissão do recurso especial, a que o Min. OG FERNANDES não conheceu, por intempestividade. Adotou-se, no caso, a primeira decisão de inadmissão como prazo inicial para a contagem do prazo. A defesa não apresentou agravo regimental, pelo que certificou-se o trânsito em julgado e determinou-se a baixa dos autos.
+    É contra a decisão de não-conhecimento do agravo que se volta, aqui, a defesa.
+    Aduz que o agravo de destrancamento do recurso especial era tempestivo, equivocando-se o Superior Tribunal de Justiça ao adotar como marco inicial da contagem do prazo a primeira publicação da decisão que não admitiu o agravo, ocorrida no dia 13/7/2010. Alega que o prazo deve ser contado a partir do dia 13/8/2010, data da republicação. Sustenta, ainda, a prescrição da pretensão punitiva contra o paciente.
+    Requer, liminarmente, a expedição de salvo conduto, para que o ora paciente não inicie o cumprimento de pena. No mérito, requer seja determinado ao Superior Tribunal de Justiça que conheça do Agravo de Instrumento nº 1.386.952.
+    2. É caso de liminar.
+    Das informações prestadas pela 3ª Vara Criminal e Execução Penal da Seção Judiciária de Rondônia (e-Doc. Nº 13, fl. 3) que, de fato, a decisão que não admitiu o recurso especial foi republicada no dia 13/8/2010 (sexta-feira), pelo que o prazo fatal se encerrou no dia 20/08/2012.
+    Ora, da decisão do STJ, ora impugnada, colhe-se a informação de que o agravo de instrumento foi protocolado no dia 20/8/2010, portanto, no último dia do prazo recursal. O agravo é, assim, tempestivo.
+    Quanto à alegação de prescrição, a mesma depende do acolhimento da tese defensiva que pleiteia a redução da pena aplicada ao paciente para 2 (dois) anos, a fim de que, nos termos do art. 109, V, do Código Penal, o crime prescreva em 4 (quatro) anos. Mas tal consequência depende de eventual concessão da ordem nesse ponto, sendo inviável sua consideração em sede liminar.
+    Noto, ainda, que o pedido liminar está prejudicado, pois o que se pretendia era a não realização da audiência de início de cumprimento de pena. Importante ressaltar que a audiência estava marcada para ocorrer – como efetivamente ocorreu – no dia 19 de junho do corrente ano, mas o habeas corpus somente foi protocolado nesta Corte no dia 20 de junho. De qualquer forma, diante da provável anulação do trânsito em julgado da decisão condenatória, convém seja suspenso o cumprimento da pena imposta ao ora paciente ate o julgamento definitivo deste habeas corpus.
+    3. Ante ao exposto, defiro a liminar, para determinar a suspensão do cumprimento da pena aplicada ao ora paciente no Processo nº 2000.41.00.002274-1, em trâmite perante 3ª Vara Criminal e de Execução Penal da Seção Judiciária de Rondônia, até o julgamento de mérito do habeas corpus.
+    Comunique-se, com urgência, por ofício e fac-símile , o inteiro teor desta decisão ao Superior Tribunal de Justiça, ao Tribunal Regional Federal da Primeira Região e ao juízo da 3ª Vara Criminal e de Execução Penal da Seção Judiciária de Rondônia.
+    Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se. Int..
+    Brasília, 28 de agosto de 2012.
+Ministro Cezar Peluso
+Relator
+Documento assinado digitalmente
