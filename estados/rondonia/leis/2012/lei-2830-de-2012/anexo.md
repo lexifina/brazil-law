@@ -1,0 +1,13 @@
+ANEXO ÚNICO
+
+QUADRO DEMONSTRATIVO
+
+CARGO NUMERO DE VAGAS REMUNERAÇÃO
+
+SOCIOEDUCADOR 150 Conforme estabelece o artigo 7°,
+
+da Lei 1.184, de 27 de março de
+
+2003.
+
+m^
