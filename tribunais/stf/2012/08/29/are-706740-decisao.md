@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO DE ADIMPLEMENTO DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA FIRMADO COM EMPRESA DE TELEFONIA. SUBSCRIÇÃO DEFICITÁRIA. AUSÊNCIA DE INTRESSE RECURSAL QUANTO À DEFINIÇÃO DO CRITÉRIO DE APURAÇÃO DO VALOR PATRIMONIAL DAS AÇÕES. ILEGITIMIDADE PASSIVA AD CAUSAM NÃO CONFIGURADA. PRESCRIÇÃO AFASTADA. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA ISONOMIA. CABIMENTO DA INVERSÃO DO ÔNUS DA PROVA. DIVIDENDOS. DEVER DE PAGAMENTO INDISCUTÍVEL. INCIDÊNCIA DE CORREÇÃO MONETÁRIA QUE NÃO AFRONTA O ATO JURÍDICO PERFEITO. DESNECESSIDADE DE APURAÇÃO DE EVENTUAIS DIFERENÇAS NO PROCESSO COGNITIVO. ÔNUS DA SUCUMBÊNCIA QUE NÃO MERECEM REPAROS. RECURSO CONHECIDO EM PARTE E, NESTA, NÃO PROVIDO”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput, I e LIV, da mesma Carta.
+    O agravo não merece acolhida. O Pleno desta Corte, quando do julgamento do AI 729.263/RS, Rel. Min. Cezar Peluso, decidiu pela inexistência de repercussão geral do tema versado nos presentes autos – controvérsia atinente à contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários -, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
