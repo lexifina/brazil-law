@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO DE ADIMPLEMENTO CONTRATUAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUBSCRIÇÃO EM AÇÕES EM DATA POSTERIOR À INTEGRALIZAÇÃO DO CAPITAL. PRESCRIÇÃO. APLICAÇÃO DO ARTIGO 177 DO CÓDIGO CIVIL DE 1916, OBSERVADOS OS ARTIGOS 2.028 E 205 DO NOVO CÓDIGO CIVIL, QUANDO APLICÁVEIS. ILEGITIMIDADE PASSIVA. INOCORRÊNCIA. DIVIDENDOS. ACESSÓRIO QUE SEGUE O PRINCIPAL. PRELIMINARES AFASTADAS. MÉRITO. AUSÊNCIA DE PREVISÃO LEGAL ACERCA DA INCIDÊNCIA DE CORREÇÃO MONETÁRIA. IRRELEVÂNCIA. DIREITO QUE DECORRE DA NÃO SUBSCRIÇÃO DAS AÇÕES NA DATA DEVIDA. CRITÉRIOS A SEREM UTILIZADOS NO CÁLCULO. APLICAÇÃO DO ENTENDIMENTO SUFRAGADO NO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA REFORMADA PARCIALMENTE”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput, I e LIV, da mesma Carta.
+    O agravo não merece acolhida. O Pleno desta Corte, quando do julgamento do AI 729.263/RS, Rel. Min. Cezar Peluso, decidiu pela inexistência de repercussão geral do tema versado nos presentes autos – controvérsia atinente à contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários -, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
