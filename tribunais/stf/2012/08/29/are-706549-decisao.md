@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal de Justiça do Rio Grande do Norte, cuja ementa é do seguinte teor (fls. e-STJ 499):
+    “CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL E RECURSO ADESIVO. PRELIMINAR: AGRAVO RETIDO. CONHECIMENTO. TESTEMUNHAS CONTRADITADAS PELA AGRAVANTE. TESTEMUNHAS QUE SÃO FUNCIONÁRIAS DA EMPRESA AGRAVADA. POSSIBILIDADE DE TESTEMUNHAR. INTELIGÊNCIA DO ARTIGO 405, PARÁGRAFOS 2º E 3º DO CPC. IMPROVIMENTO. MÉRITO: AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS, DANOS EMERGENTES E LUCROS CESSANTES. RESCISÃO DO CONTRATO EMPRESARIAL DE FRANQUIA UNILATERALMENTE PELO FRANQUEADOR. COMPROVAÇÃO DE INFRAÇÕES CONTRATUAIS PELO FRANQUEADO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA PELO FRANQUEADOR. NEGLIGÊNCIA. COMPROVAÇÃO. LUCROS CESSANTES DEVIDOS APENAS NO TOCANTE À LUCRATIVIDADE LÍQUIDA DA FRANQUEADA NOS TRINTA DIAS SEGUINTES À RESCISÃO UNILATERAL DE ACORDO COM O CONTIDO NA CLÁUSULA 9ª, ITEM 9.2, LETRA "A", DO INSTRUMENTO CONTRATUAL. DANOS MORAIS INEXISTENTES. IMPROVIMENTO DO RECURSO DE APELAÇÃO E DO RECURSO ADESIVO. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS."
+    Nas razões do recurso extraordinário, a recorrente alega ofensa ao disposto no art. 5º, XXXVI, da Constituição federal.
+    É o relatório. Decido.
+    O recurso extraordinário, ao alegar ofensa ao art. 5º, XXXVI, da Constituição federal, versa questão constitucional não ventilada na decisão recorrida, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Ainda que superado o referido óbice, a análise da suposta ofensa ao texto constitucional demandaria o exame prévio da legislação infraconstitucional (Código de Processo Civil e Código Civil). Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário.
+    Ademais, observo que o acórdão impugnado decidiu a causa com base na interpretação das cláusulas do contrato firmado entre as partes. Ora, fica claro que uma eventual modificação desse entendimento implica, necessariamente, o reexame de cláusulas contratuais e, também, dos fatos e provas que fundamentaram as conclusões do acórdão recorrido. Isso inviabiliza o processamento do recurso, ante as vedações contidas nos enunciados das Súmulas 279 e 454 desta Corte.
+    Do exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
