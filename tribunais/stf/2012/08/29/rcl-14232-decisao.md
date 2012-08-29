@@ -1,0 +1,15 @@
+DECISÃO
+RECLAMAÇÃO – IMPROPRIEDADE – NEGATIVA DE SEGUIMENTO.
+    1. Maria Aparecida Damasco afirma que o Juízo da 3ª Vara de Fazenda Pública da Comarca de Florianópolis, Estado de Santa Catarina, ao determinar o sobrestamento do Processo nº 023.12.012649-7, olvidou o acórdão atinente à Ação Direta de Inconstitucionalidade nº 4.167, relator ministro Joaquim Barbosa.
+    Segundo narra, formalizou ação contra o Estado de Santa Catarina postulando o cumprimento da Lei nº 11.738/2008, que estabeleceu o piso nacional da remuneração do magistério público. Consoante diz, o Estado deixou de observar tanto o piso de vencimentos quanto a previsão alusiva à jornada de trabalho, no que estipulada a dedicação de 1/3 do tempo para atividade extraclasse. Esclarece que o Estado ajuizou a Ação Direta de Inconstitucionalidade nº 4.167, buscando a declaração da pecha no tocante à referida lei, mas o Plenário do Supremo julgou o pedido improcedente. Daí defender a vigência dos dispositivos nela estampados.
+    Aduz que o Estado, na ação em que é réu, protocolou contestação, na qual articulou a necessidade de suspensão do processo, tendo em vista a ausência do trânsito em julgado do acórdão proferido na mencionada ação direta. Diz do acolhimento do pedido pelo Juízo, que determinou a suspensão do processo por noventa dias, a fim de aguardar o exame dos embargos de declaração ainda pendentes de apreciação pelo Supremo.
+    Sob o ângulo do risco, argui o possível efeito multiplicador e o prejuízo ao erário, pois o Estado haverá de efetuar o pagamento de jornada de trabalho da qual o professor deveria ter sido dispensado. Postula a concessão de medida acauteladora para determinar-se o prosseguimento da demanda independente do trânsito em julgado do pronunciamento concernente à citada ação direta. No mérito, requer a confirmação do pedido liminar, bem como seja determinado ao Juízo que observe o conteúdo da decisão proferida na Ação Direta de Inconstitucionalidade nº 4.167, mesmo antes da preclusão maior.
+    O processo encontra-se concluso para a apreciação do pedido de implemento de liminar.
+    2. A reclamação é medida excepcional. Pressupõe o desrespeito a decisão do Supremo ou a colocação, em segundo plano, da competência a ele atribuída pela Carta da República.
+    No caso, o objetivo perseguido não é tornar prevalecente o que deliberou o Tribunal no exame da Ação Direta de Inconstitucionalidade nº 4.167/SC, mas ter-se a sequência de processo que haveria sido indevidamente sobrestado. A questão se resolve mediante a interposição do recurso cabível, e não o acesso direto ao Tribunal Constitucional.
+    No mais, descabe a formalização de reclamação buscando compelir Juízo, de modo preventivo, a atentar para conteúdo de acórdão proferido pelo Supremo. A matéria de fundo não teria sido sequer analisada, presente a narrativa da peça inicial. A queima de etapas não se coaduna com a organicidade própria ao Direito, especialmente ao instrumental.
+    3. Nego seguimento ao pedido.
+    4. Publiquem.
+Brasília, 29 de agosto de 2012.
+Ministro MARCO AURÉLIO
+Relator
