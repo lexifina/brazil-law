@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “MANDADO DE SEGURANÇA – ADMINISTRATIVO – PENSÃO GRACIOSA OU ESPECIAL – PORTADOR DE NECESSIDADES ESPECIAIS – DIREITO AO PERCEBIMENTO DE VALOR NÃO INFERIOR AO SALÁRIO MÍNIMO NACIONALMENTE UNIFICADO – ART. 27, I, DA CONSTITUIÇÃO ESTADUAL – LEI ESTADUAL N. 6.175/82 – PRECEDENTES – ORDEM CONCEDIDA. ‘Consoante pacificado no Colendo Grupo de Câmaras de Direito Público, a pensão especial ou graciosa, consoante os termos da Lei Estadual n. 6.175/82, não pode ser inferior ao salário nacionalmente unificado, segundo os moldes definidos no art. 27, inc. I, da Constituição Estadual’ (MS n. 2004.007162-0, Rel. Des. Nicanor da Silveira, j. 13.4.2005)” (fls. 58).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “c”, da Constituição Federal, aponta-se violação ao artigo 97, do texto constitucional e à Súmula Vinculante nº 10 do STF.
+     Decido.
+    A pretensão recursal não merece prosperar.
+    No presente caso, não restou configurada afronta ao artigo 97 da Constituição Federal, haja vista que o Tribunal de origem não declarou a inconstitucionalidade de norma legal, tendo se limitado a interpretar as disposições legais aplicáveis à espécie (Leis 6.185/82 e 7.702/89 e Constituição do Estado de Santa Catarina). Eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa.
+     Nesse sentido: AI 586.299-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 5.2.2010; AI-AgR 766.633, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 30.4.2010; e o AI-AgR 848.332, Rel. Min. Dias Toffoli, Primeira Turma, DJe 24.4.2012, este último com acórdão assim ementado:
+    “Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes. 1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição. 3. Agravo regimental não provido”.
+    Cito, ademais, precedentes que versam sobre casos análogos ao dos autos:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. PENSÃO. PORTADOR DE DEFICIÊNCIA. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE-AgR 629.816, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 16.5.2011).
+    “Agravo regimental no recurso extraordinário com agravo. 2. Concessão de pensão graciosa a portador de deficiência em valor não inferior ao salário-mínimo. Lei estadual n. 7.702/89 e Constituição do Estado de Santa Catarina. 3. Incidência da Súmula 280. 4. Agravo regimental a que se nega provimento” (ARE-AgR 650.250, de minha relatoria, Segunda Turma, DJe 29.9.2011).
+     Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 29 de agosto de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
