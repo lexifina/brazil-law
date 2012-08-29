@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. MANDADO DE SEGURANÇA CONTRA ATO DE DIRIGENTE DE SOCIEDADE DE ECONOMIA MISTA. PETROBRAS. CONCURSO PÚBLICO. COMPETÊNCIA DA JUSTIÇA FEDERAL. ORIENTAÇÃO CONSOLIDADA NA PRIMEIRA SEÇÃO DO STJ.
+    1. Cuida-se de agravo regimental interposto contra decisão proferida em conflito negativo de competência suscitado entre o Juízo de Direito da 5ª Vara Cível de Vitória - ES em face do Juízo Federal da 4ª Vara Cível da Seção Judiciária do Estado do Espírito Santo, nos autos de mandado de segurança impetrado por Tiago Gollner Perovano contra ato do Gerente Setorial de Recrutamento e Seleção da Petróleo Brasileiro S/A - PETROBRÁS, que o eliminou do processo seletivo público para o cargo de Engenheiro de Petróleo Junior/Cargo 2, realizado por aquela sociedade de economia mista no ano de 2009.
+    2. A competência para julgamento de mandado de segurança é estabelecida em razão da função ou da categoria funcional da autoridade apontada como coatora. Precedentes do STJ.
+    3. É pacífico o entendimento desta Corte de que compete à Justiça Federal julgar mandado de segurança no qual se impugna ato de dirigente de sociedade de economia mista federal, como é o caso da PETROBRÁS. Precedentes: AgRg no REsp 921.429/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/4/2010 e AgRg no CC 106.692/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 1º/10/2009.
+    4. Agravo regimental não provido” (fl. 57 do e-STJ).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, LIII e 109, I e VIII, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem não divergiu do entendimento firmado por esta Corte no sentido de que compete à Justiça Federal decidir se servidor de pessoa jurídica de direito privado apontado como autoridade coatora em mandado de segurança estaria, ou não, investido da qualidade de autoridade federal por delegação. Por oportuno, trago à colação recente julgado proferido por esta Corte, no qual se discute questão análoga à versada nos presentes autos, qual seja o RE 657.538-AgR/PR, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CONTROVÉRSIA SOBRE DELEGAÇÃO DE COMPETÊNCIA DA UNIÃO À PESSOA JURÍDICA DE DIREITO PRIVADO: COMPETÊNCIA DA JUSTIÇA FEDERAL. NATUREZA DO ATO ADMINISTRATIVO. IMPOSSIBILIDADE DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: ARE 704.944/RJ, Rel. Min. Cármen Lúcia; RE 609.007/PA, Rel. Min. Dias Toffoli; ARE 704.373/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
