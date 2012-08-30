@@ -1,0 +1,30 @@
+Trata-se de ação rescisória, fundada nos artigos 102, I, j, da Constituição Federal e 485, V, do Código de Processo Civil, ajuizada por Adriano Coselli S/A Comércio e Importação e AC Empresas Reunidas S/A, com pedido de antecipação de tutela, cujo objetivo é desconstituir decisão proferida nos autos do RE 487.142/SP, Rel. Min. Ayres Britto, DJ 09.6.2006, o qual dera parcial provimento ao recurso extraordinário interposto por alegada violação ao art. 195, I, da CF/1988, “apenas para afastar a aplicação do conceito de faturamento definido no § 1.° do art. 3.° da Lei n.° 9.718/98”. Eis o teor da decisão que se busca rescindir (fls. 147-8):
+    “Cuida-se de recurso extraordinário, no qual se discute a constitucionalidade da contribuição social para o PIS/PASEP – Programa de Integração Social e de Formação do Patrimônio do Servidor Público – e a COFINS – Contribuição para o Financiamento da Seguridade Social.
+    2. Pois bem, a parte recorrente alega violação ao inciso I do art. 195 da Magna Carta. Daí defender a inconstitucionalidade da exação, tal como disciplinada pela Lei nº 9.718/98.
+    3. Tenho que o recurso merece acolhida parcial. É que esta excelsa Corte, na Sessão Plenária de 09.11.2005, concluiu a análise do tema aqui discutido (RE 346.084, Relator o Ministro Ilmar Galvão; e REs 357.950, 358.273 e 390.840, Relator o Ministro Marco Aurélio). Ao fazê-lo, o Tribunal, por maioria de votos:
+    a) declarou a inconstitucionalidade do § 1º do art. 3º da Lei nº 9.718/98 (base de cálculo do PIS e da COFINS), para impedir a incidência do tributo sobre as receitas até então não compreendidas no conceito de faturamento da LC nº 70/91; e
+    b) entendeu desnecessária, no caso específico, lei complementar para a majoração da alíquota da COFINS, cuja instituição se dera com base no inciso I do art. 195 da Lei das Leis.
+    Isso posto, e considerando as disposições do § 1º-A do art. 557 do CPC, dou provimento parcial ao recurso apenas para afastar a aplicação do conceito de faturamento definido no § 1º do art. 3º da Lei nº 9.718/98”.
+    As autoras buscam a rescisão desse decisum por suposta violação literal das normas constitucionais dos arts. 195, I, b (com redação anterior à EC 20/1998) e § 4º, e 154, I, com novo julgamento do feito para que seja afastada a majoração da alíquota da COFINS, promovida pelo art. 8º da Lei 9.718/1998.
+    Fundamentaram o pedido de antecipação dos efeitos da tutela (CPC, art. 273, § 7º) no receio de dano de difícil reparação decorrente da execução da decisão rescindenda.
+    Citada (fl. 158v.), a União apresentou contestação e asseverou que a constitucionalidade da elevação da alíquota da COFINS de 2% para 3%, pelo art. 8º da Lei 9.718/1998, já foi reconhecida pelo STF, in verbis (fls. 160-8):
+    “O Autor pretende a rediscussão da questão partindo do pressuposto de que a Lei 9.718/98 criou nova exação tributária, de sorte que o fundamento de validade da ‘nova exação’ seria o art. 195, § 4º, CF, a exigir a edição de lei complementar. Por consequência, aduz o contribuinte que não há que se falar em majoração de alíquota da COFINS, mas sim em fixação de uma nova alíquota para um novo tributo” (fl. 162).
+    Após a verificação da tempestividade da ação e competência da Suprema Corte para apreciação do feito, minha antecessora, Ministra Ellen Gracie, indeferiu o pedido de tutela antecipada (fls. 173-4).
+    As partes eximiram-se da produção de provas, por entenderem pela suficiência dos documentos constantes dos autos (fls. 177 e 181).
+    Declarado saneado o feito, abriu-se vista para razões finais e oitiva do Ministério Público Federal (fl. 183).
+    As autoras reiteraram as alegações iniciais (fl 186), bem como a União as alegações da contestação (fls. 193-200).
+    O Procurador-Geral da República manifestou-se pela improcedência da ação, nos seguintes termos (fls. 202-5):
+    “(...) a decisão rescindenda foi proferida em perfeita harmonia com o entendimento adotado pelo Supremo Tribunal Federal, no sentido de não considerar a inconstitucionalidade da majoração da alíquota da COFINS, promovida pelo artigo 8º da Lei nº 9.718/98”.
+    É o relatório.
+    Decido.
+    Em verdade as autoras pretendem rediscutir decisão consentânea com a jurisprudência firmada por este Tribunal no que tange à majoração de 2% para 3% da alíquota da COFINS pelo art. 8º da Lei 9.718/1998, sustentando violação literal dos arts. 195, I, b, e § 4º, e 154, I, da Constituição Federal.
+    A decisão rescindenda não apresenta qualquer vício, porquanto se harmoniza com a jurisprudência desta Suprema Corte quanto à desnecessidade de lei complementar para a majoração da alíquota da COFINS, cuja implementação encontra fundamento de validade no art. 195, § 4º, da CF, reafirmada, inclusive, pelo Plenário no julgamento do RE 527.602/SP, redator p/acórdão o Ministro Marco Aurélio, DJe 13.11.2009:
+    “PIS E COFINS – LEI Nº 9.718/98 – ENQUADRAMENTO NO INCISO I DO ARTIGO 195 DA CONSTITUIÇÃO FEDERAL, NA REDAÇÃO PRIMITIVA. Enquadrado o tributo no inciso I do artigo 195 da Constituição Federal, é dispensável a disciplina mediante lei complementar”
+    Portanto, verifico que a decisão impugnada se coaduna perfeitamente com a jurisprudência desta Corte, sendo incabível a ação rescisória com base no art. 485, V, do CPC:
+    “1. Ação rescisória: inadmissibilidade. Não cabe a ação rescisória com base em violação a literal disposição de lei (C. Pr. Civil, art. 485, V), quando a decisão rescindenda está fundada em precedente do plenário do Tribunal: precedente (AR-AgR 1.756-1, Marco Aurélio, DJ 10.09.2004). [RISTF, art. 317, § 1º]: precedentes” (AR 1.761-AgR, Rel. Min. Sepúlveda Pertence, DJ 06.5.200).
+    Ante o exposto, nego seguimento à ação rescisória, ante o seu manifesto descabimento (art. 21, § 1º, do RISTF).
+    Como houve contestação, condeno as autoras às custas processuais e honorários advocatícios, que fixo em 10% sobre o valor atualizado da causa.
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministra Rosa Weber
+Relatora
