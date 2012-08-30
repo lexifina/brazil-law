@@ -1,0 +1,2 @@
+Art. 4º As instituições federais de ensino técnico de nível médio reservarão, em cada concurso seletivo para ingresso em cada curso, por turno, no mínimo 50% (cinquenta por cento) de suas vagas para estudantes que cursaram integralmente o ensino fundamental em escolas públicas.
+Parágrafo único. No preenchimento das vagas de que trata o caput deste artigo, 50% (cinquenta por cento) deverão ser reservados aos estudantes oriundos de famílias com renda igual ou inferior a 1,5 salário-mínimo (um salário-mínimo e meio) per capita.
