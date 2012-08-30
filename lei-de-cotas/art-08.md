@@ -1,0 +1,1 @@
+Art. 8º As instituições de que trata o art. 1º desta Lei deverão implementar, no mínimo, 25% (vinte e cinco por cento) da reserva de vagas prevista nesta Lei, a cada ano, e terão o prazo máximo de 4 (quatro) anos, a partir da data de sua publicação, para o cumprimento integral do disposto nesta Lei.
