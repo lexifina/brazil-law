@@ -1,0 +1,1 @@
+Art. 6º O Ministério da Educação e a Secretaria Especial de Políticas de Promoção da Igualdade Racial, da Presidência da República, serão responsáveis pelo acompanhamento e avaliação do programa de que trata esta Lei, ouvida a Fundação Nacional do Índio (Funai).
