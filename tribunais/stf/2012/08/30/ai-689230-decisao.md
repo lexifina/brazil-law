@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Acrilex Tintas Especiais S/A interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV e LXIX, e 155, § 2º, I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Câmara Cível de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “EMENTA: MANDADO DE SEUGURANÇA – ICMS – Pretendido reconhecimento do direito e compensação de valores recolhidos em relação à saída de mercadorias de créditos não recebidos, em razão da inadimplência dos compradores – Ausência de direito líquido e certo – Sentença de extinção mantida – Recurso desprovido”.
+    Consultando o sistema processual do sítio do Superior Tribunal de Justiça na internet por meio do número de origem e pelo nome das partes, verificou-se que o recurso especial paralelamente interposto ao extraordinário restou não provido, decisão esta transitada em julgado.
+    Decido.
+    Não merece prosperar a irresignação.
+    Sustenta a agravante que a possibilidade de tributação nas vendas atingidas pelo seu inadimplemento viola frontalmente o princípio da não-cumulatividade na medida em que o sujeito passivo está assumindo o ônus fiscal mesmo diante do não recebimento do preço acordado na operação de compra e venda.
+    Ao meu sentir, a tese carece do necessário prequestionamento, sendo certo que, a despeito da oposição de embargos de declaração, não houve sequer discussão quanto ao mérito da pretensão, não sendo suficiente para a admissibilidade do extraordinário a simples invocação de dispositivos da Lei Maior. Incidem na espécie, com relação à suposta violação ao art. 155, § 2º, I, da Constituição Federal, as Súmulas nº 282 e 356 desta Corte.
+    Verifico que o acórdão recorrido, ao decidir a questão quanto à possibilidade de incidência de ICMS sobre as vendas inadimplidas, levou em consideração a natureza processual da ausência de direito líquido e certo da impetrante, mantendo a sentença que pugnou pela extinção do processo sem resolução de mérito, acolhendo parecer ministerial que destacou o seguinte:
+    “(...) o que a impetrante pretende, com o reconhecimento do direito a compensar os supostos créditos é, diante da ausência de direta norma legal, obter autorização judicial para, com base em escrituração contábil própria, ficar com a autonomia, para assim efetuar a transferência dos créditos como bem entender. No entanto, aqui não se sabe ao certo quais operações efetivamente levaram a caracterização da inadimplência, fatos que também dependem de dilação probatória e não permitem, de plano, ver liquides e certeza do direito” (fl. 431).
+    Mantendo o entendimento perfilhado pelo Tribunal de origem com relação à alegada violação do artigo 5º, incisos XXXV e LXIX, cumpre ressaltar que a jurisprudência desta Corte resta sedimentada no sentido de que a discussão em torno dos requisitos de cabimento do mandado de segurança possui natureza eminentemente processual, o que impede o reexame da questão em sede de recurso extraordinário. Anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE MANDADO DE SEGURANÇA. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Admissibilidade de mandado de segurança: impossibilidade da análise da legislação infraconstitucional e do reexame de provas. 2. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 685.313/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/4/09).
+    “RESPONSABILIDADE CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO. SÚMULA 287 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, XXXV, LIV E LV, E 93, IX, DA CONSTITUIÇÃO. OFENSA REFLEXA. MANDADO DE SEGURANÇA. ADMISSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I - A parte agravante não atacou os fundamentos da decisão que negou seguimento ao recurso extraordinário. Inviável, portanto, o presente recurso, a teor da Súmula 287 do STF.
+    II - A alegada violação ao art. 5º, XXXV, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    III - Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado.
+    IV - A pretendida discussão em torno dos requisitos de admissibilidade do mandado de segurança possui natureza meramente processual, que envolve a apreciação de normas infraconstitucionais.
+    V - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF.
+    VI - Agravo regimental improvido” (AI nº 701.469/PA-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 27/6/08) (Grifo nosso).
+    Fundamentado nesse mesmo entendimento, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP-RG, Relator o Ministro Gilmar Mendes, DJe de 6/12/10, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança. Anote-se a ementa do referido julgado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral.”
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
