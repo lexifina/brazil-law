@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. COMPRA E VENDA DE IMÓVEL. ALEGADA SIMULAÇÃO. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. AÇÃO REIVINDICATÓRIA. RECONVENÇÃO. ESCRITURA DE COMPRA E VENDA. SIMULAÇÃO NÃO DEMONSTRADA.
+    Não comprovada a ocorrência de simulação a dar azo à nulidade da escritura pública de compra e venda firmada pelas partes, permanece válida a escritura pública.
+    Presente a justificativa para a venda do imóvel pela requerida, porquanto passava por momentos de dificuldade financeira, sendo a venda do imóvel a saída para tal situação. Prova de que a casa estava à venda em imobiliária, sendo mostrado o imóvel para clientes interessados na compra.
+    APELO DESPROVIDO” (fl. 27, doc. 4).
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. LV, e 93, inc. IX, da Constituição da República.
+    Argumenta que o acórdão recorrido não levou “em consideração os extratos bancários comprovando o não recebimento de nenhum valor, nem a confissão dos ora Recorridos de que a escritura pública não transcreveu a verdade e de que não houve nenhum negócio” (fl. 70, doc. 4).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal e a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta (fls. 110-118, doc. 4).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão da Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. A Relatora, Desembargadora Liége Puricelli Pires, observou:
+    “O documento das fls. 10/13 dá conta de que o imóvel pertence aos autores, devidamente registrado no Registro de Imóveis. Há prova suficiente de que os autores são proprietários do imóvel, o qual reivindicam, conforme escritura de compra e venda que acostaram nos autos.
+    Sobre ‘simulação’, o artigo 167 do Novo Código Civil dispõe:
+    (...)
+    Acerca da comprovação da simulação, raramente a prova é escorreita e clara, de difícil produção, porquanto os partícipes do ato de tudo fazem para encobri-lo ou tentar conferir aparência de validade ao mesmo. No caso em apreço, ausentes indícios suficientes da ocorrência de simulação da compra e venda do imóvel.
+    Tratando-se de compra e venda de imóvel, o preço deve ser efetivamente pago para que ocorra a transferência da propriedade imobiliária, sem se descurar da concreta viabilidade financeira das partes. Nesse sentido, presente a justificativa para a venda do imóvel pela ora apelante, porquanto passava por momentos de dificuldade financeira, sendo a venda do imóvel a saída para tal situação. Ainda, de acordo com o depoimento da testemunha Gerson Ceccon (fls. 237/239), a casa estava à venda na sua imobiliária desde o ano de 2006, tendo mostrado o imóvel para clientes interessados na compra. A circunstância de as partes manterem por vários anos uma relação amigável, que resultou em vários contratos de empréstimos e arrendamentos rurais, por si só, não é suficiente para comprovar a efetiva ocorrência do negócio simulado conforme alegado pela apelante.
+    Tendo em vista a circunstância de a sentença, da lavra do Juiz de Direito Jairo Cardoso Soares, ter abordado com percuciência o âmbito da lide posta em juízo, inclusive com análise detalhada da prova colhida nos autos, peço vênia para adotar os fundamentos da decisão como razão de decidir do presente julgado, até em atenção à garantia fundamental da celeridade jurisdicional, estabelecida no art. 5º, LXXVIII, da CRFB/88” (fls. 30-31, doc. 4 – grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Código Civil e Código de Processo Civil) e do conjunto fático-probatório dos autos. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. AÇÃO REIVINDICATÓRIA E RECONVENÇÃO. CONTRATO DE COMPRA E VENDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 582.542-AgR, de minha relatoria, Primeira Turma, DJe 20.2.2009 – grifos nossos).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. COMPRA E VENDA DE MADEIRA. RESCISÃO CONTRATUAL. IMPOSSIBILIDADE DO REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL, DAS CLÁUSULAS CONTRATUAIS E DAS PROVAS INCIDÊNCIA DAS SÚMULAS N. 279 E 454. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 847.594-ED, de minha relatoria, Primeira Turma, DJe 19.9.2011).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, está em harmonia com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
