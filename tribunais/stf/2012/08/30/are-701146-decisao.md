@@ -1,0 +1,12 @@
+Despacho: 1. Trata-se de agravo contra decisão que não admitiu recurso extraordinário interposto de acórdão da Turma Recursal dos Juizados Especiais da 3ª Circunscrição Judiciária do Estado de São Paulo, que, confirmando a sentença, negou provimento ao recurso inominado e condenou o recorrente ao pagamento de indenização por danos materiais e morais ao recorrido.
+    Sustenta o recorrente, com base no art. 102, III, a, violação ao art. 5º, XI, XXII, XXIII, XXXV, LIV e LV, da Constituição Federal. Apresenta preliminar formal e fundamentada de repercussão geral, no forma do art. 543-A, § 2º, do CPC.
+    2. Inconsistente o recurso.
+    O acórdão impugnado decidiu a causa com base na legislação infraconstitucional pertinente, nos fatos e provas e em interpretação de cláusulas contratuais, de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta. É pacífica a jurisprudência desta Corte, no sentido de não tolerar, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, e, muito menos, pretensão de reexame de cláusulas contratuais (súmulas 280 e 454).
+    Ademais, suposta violação às garantias constitucionais do devido processo legal, do contraditório e da ampla defesa configuraria, aqui, ofensa meramente reflexa à Constituição da República, porque sua eventual caracterização dependeria de exame prévio de norma infraconstitucional, o que também é inadmissível, como já notou a Corte em casos análogos:
+    “(...) as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário” (AI nº 372.358-AgR, Rel. Min. CELSO DE MELLO, DJ de 11.6.2002. Nesse sentido: AI nº 360.265-AgR, Rel. Min. CELSO DE MELLO, DJ de 20.9.2002).
+    Outrossim, não se excogita existência de repercussão geral, que só convém a questões constitucionais.
+    3. Ante o exposto, conheço do agravo para negar-lhe seguimento (arts. 21, § 1º, do RISTF, 38 da Lei nº 8.038, de 28.5.90, 544, § 4º, II, b, e 557 do CPC).
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministro Cezar Peluso
+Relator
