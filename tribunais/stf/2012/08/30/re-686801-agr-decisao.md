@@ -1,0 +1,20 @@
+DECISÃO: Em face das considerações constantes da petição de fls. 1013-1026, e com base no art. 557, § 1º, do Código de Processo Civil e no art. 317, § 2º, do Regimento Interno do Supremo Tribunal Federal, reconsidero a decisão de fls. 1008/1009, tornando-a sem efeito.
+    Passo ao reexame do recurso.
+    Trata-se de recurso extraordinário interposto no bojo de ação ordinária em que se pleiteia o pagamento, a professores inativos, da Gratificação de Estímulo à Docência – GED.
+    O acórdão proferido pelo Tribunal Regional Federal da 4º Região tem o seguinte teor (fls. 878):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA – GED. EXTENSÃO AOS SERVIDORES INATIVOS E PENSIONISTAS.
+    - Os inativos e pensionistas fazem jus à percepção da GED nos mesmos percentuais que os servidores em atividade, enquanto a referida gratificação for paga a todos indistintamente, tendo em vista sua natureza genérica e impessoal. Precedentes do STF.
+    - Correção monetária e juros de mora fixados na esteira dos precedentes da Turma.
+    Honorários advocatícios arbitrados em 10% sobre o valor da condenação.
+    - Apelação parcialmente provida.”
+    Em seu recurso extraordinário, alega a Universidade Federal de Santa Maria ofensa aos arts. 40, § 8º, e 97, da Constituição Federal.
+    Em julgamento recente, a Segunda Turma reiterou o entendimento de que, em princípio, não cabe ao Supremo Tribunal a revisão das conclusões dos tribunais locais no que se refere à extensão das gratificações e vantagens aos aposentados por suposta violação do art. 40, § 8º (anteriormente, art. 40, § 4º), da Constituição. Ficou então consignado que ao Supremo caberá apenas a correção de erro flagrante na aplicação da regra de extensão (casos em que a vantagem de nítido caráter geral seja estendida a apenas uma parte do universo de inativos, deixando de fora outra parte nas mesmas condições, ou de outra forma, casos em que vantagem de nítido caráter restrito seja deferida a todos os aposentados, sem a apreciação das particularidades de cada situação). Reproduzo a ementa do acórdão (RE 586.949, rel. min. Cezar Peluso, Segunda Turma, DJe 13.03.2009):
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação devida aos funcionários em atividade. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279, 280 e 636. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República.”
+    Não identifico qualquer daquelas hipóteses que autorizariam a rediscussão da matéria neste recurso. As conclusões do acórdão recorrido estão fundadas na legislação local aplicável ao caso. Aplica-se ao caso a Súmula 280 do STF.
+    Ademais, não houve ofensa à cláusula de reserva de plenário. Com efeito, é possível que dada norma não sirva para desate do quadro submetido ao crivo jurisdicional pura e simplesmente porque não há subsunção. Para caracterização da ofensa ao art. 97 da Constituição é necessário que a causa seja decidida sob critérios diversos, alegadamente extraídos da Constituição, de modo a levar ao afastamento implícito ou explícito da norma por incompatibilidade com a Constituição.
+    No presente caso, o acórdão recorrido apenas afastou a aplicação do art. 1º-F da Lei 9.494/1997, acrescido pela MP 2.180/2001, por entender que o dispositivo é “aplicável às demandas ajuizadas após a sua vigência”(fls. 876). Não foi proferido, portanto, juízo de constitucionalidade.
+    Ante o exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
