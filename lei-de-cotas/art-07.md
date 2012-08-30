@@ -1,0 +1,1 @@
+Art. 7º O Poder Executivo promoverá, no prazo de 10 (dez) anos, a contar da publicação desta Lei, a revisão do programa especial para o acesso de estudantes pretos, pardos e indígenas, bem como daqueles que tenham cursado integralmente o ensino médio em escolas públicas, às instituições de educação superior.
