@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve a sentença que condenou a recorrente a “subscrever em nome da parte autora a diferença de ações do mesmo tipo e espécie daquela já entregues em número menor, ou, não sendo possível a subscrição, indenizar a parte autora no valor correspondente ao número de ações de telefonia fixa que deveria ter sido subscrita”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput, I e LIV, da mesma Carta.
+    O agravo não merece acolhida.
+    É que este Tribunal fixou entendimento no sentido de que a questão relativa à prescrição situa-se no campo infraconstitucional. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Logo, afronta à Carta Magna de 1988, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 2. Agravo regimental desprovido” (AI 663.944-AgR/SP, Rel. Min. Ayres Britto, Primeira Turma).
+    Nesse mesmo sentido: RE 596.682, Rel. Min. Carlos Britto; AI 808.361, Rel. Min. Marco Aurélio; e AI 821.917, de minha relatoria.
+    Ademais, o Pleno desta Corte, quando do julgamento do AI 729.263/RS, Rel. Min. Cezar Peluso, decidiu pela inexistência de repercussão geral do tema versado nos presentes autos – controvérsia atinente à contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários -, por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
