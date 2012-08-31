@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário contra acórdão que julgou improcedente ação rescisória, por ausência de ofensa literal de disposição de lei.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, LIV e LV, 37, caput e XXI, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Além disso, o Tribunal de origem julgou improcedente a ação rescisória e rechaçou os argumentos do ora recorrente quanto à apontada irregularidade da alienação de terras públicas, sob os seguintes fundamentos:
+    “A meu ver, não há meios para se anular o acórdão recorrido proferido com base no inciso V do art. 485 do CPC, porque tanto a sentença de primeiro grau quanto o aresto rescindendo não contrariaram dispositivo expresso de lei, uma vez que referida decisão baseou-se no fato de que o próprio Autor considerou que as terras em questão estariam disponíveis para alienação para particulares, na forma de destinação de hortifrutigranjeiros.
+    E mais, a área descrita, quando se deu a alienação questionada, era rural e respectiva venda obedeceu aos ditames estabelecidos pelo próprio Estado do Amazonas, que agora pretende questionar seus próprios atos, chamando-os de ilegais”.
+    Desse modo, para divergir do acórdão recorrido, faz-se necessário o revolvimento do conjunto fático-probatório dos autos – cujo reexame é vedado pela Súmula 279 do STF – e das normas infraconstitucionais pertinentes à espécie, sendo certo eventual ofensa à Constituição seria meramente indireta.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 31 de agosto de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
