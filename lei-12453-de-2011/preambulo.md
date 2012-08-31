@@ -1,0 +1,2 @@
+Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES; altera as Leis nºs 12.096, de 24 de novembro de 2009; 12.409, de 25 de maio de 2011, 10.841, de 18 de fevereiro de 2004, e 12.101, de 27 de novembro de 2009; dispõe sobre medidas de suspensão temporária de exigências de regularidade fiscal; revoga dispositivo da Lei nº 12.385, de 3 de março de 2011; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
