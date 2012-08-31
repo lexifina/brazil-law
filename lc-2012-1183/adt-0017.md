@@ -1,0 +1,1 @@
+Artigo 17 - Os recursos humanos e materiais que, na data da publicação desta lei complementar, estiverem disponibilizados para as Comissões Processantes Permanentes serão transferidos para a Procuradoria Geral do Estado, mediante decreto, por proposta do Procurador Geral do Estado.
