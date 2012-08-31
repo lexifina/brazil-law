@@ -1,0 +1,14 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM AGRAVO REGIMENTAL. RETRATAÇÃO. REPERCUSSÃO GERAL RECONHECIDA. TETO REMUNERATÓRIO. INCIDÊNCIA SOBRE O MONTANTE DECORRENTE DA ACUMULAÇÃO DE PROVENTOS DE APOSENTADORIA E PENSÃO. ART. 37, XI, DA CF E ARTS. 8º E 9º DA EC 41/03. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Cuida-se de embargos de declaração opostos por LAIRE APARICIO CAPUTO contra decisão monocrática que determinou a devolução dos autos ao Tribunal de origem, com fundamento no artigo 328, parágrafo único, do RISTF c/c o artigo 543-B e seus parágrafos do CPC, verbis (fl. 183):
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA. TETO REMUNERATÓRIO. EC 41/03. INCLUSÃO DAS VANTAGENS PESSOAIS. SERVIDORES PÚBLICOS. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ARAT. 328, PARÁGRAFO ÚNICO, DO RISTF)”.
+    Prima facie, observo que o Supremo Tribunal Federal tem conhecido dos embargos de declaração opostos objetivando reforma da decisão do relator, com caráter infringente, como agravo regimental, que é o recurso cabível, por força do princípio da fungibilidade. Nesse sentido, colaciono os seguintes julgados: Pet. 4.837-ED, Relatora a Ministra Cármen Lúcia, Pleno, DJ de 14.03.2011; Rcl. 11.022-ED, Relatora a Ministra Cármen Lúcia, Pleno, DJ de 07.04.2011; AI 547.827-ED, Relator o Ministro Dias Toffoli, 1ª Turma, DJ de 09.03.2011; RE 546.525-ED, Relatora a Ministra Ellen Gracie, 2ª Turma, DJ de 05.04.2011.
+    Destarte, conheço dos embargos de declaração como agravo regimental e passo a apreciá-lo.
+    O agravante alega que a controvérsia dos autos não se refere à possibilidade, ou não, de inclusão de vantagens pessoais no teto remuneratório previsto na EC 41/03; mas sim à incidência, ou não, daquele redutor salarial sobre o montante decorrente da acumulação de proventos de aposentadoria e pensão.
+    Assiste razão razão ao agravante.
+    O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos – possibilidade de, ante o mesmo credor, existir a distinção do que recebido, para efeito do teto remuneratório, presentes as rubricas proventos e pensão, a teor do artigo 37, inciso XI, da CF/88 e dos artigos 8º e 9º da EC 41/2003. O tema será submetido à apreciação do Pleno desta Corte, nos autos do RE 602.584
+    Destarte, aplicando a decisão Plenária no RE n. 579.431, secundada, a posteriori pelo AI n. 503.064-AgR-AgR, Rel. Min. CELSO DE MELLO; AI n. 811.626-AgR-AgR, Rel. Min. RICARDO LEWANDOWSKI, e RE n. 513.473-ED, Rel. Min CÉZAR PELUSO, torno sem efeito a decisão de fls. 183/184 e determino a devolução dos autos ao Tribunal de origem (art. 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 31 de agosto de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
