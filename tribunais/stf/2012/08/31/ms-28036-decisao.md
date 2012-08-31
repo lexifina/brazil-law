@@ -1,0 +1,23 @@
+Decisão: Trata-se de mandado de segurança impetrado por Edgard Antônio Lippmann Junior, desembargador do Tribunal Regional Federal da 4ª Região, em face de acórdão proferido nos autos da sindicância 2008.10.000027254 no qual o Conselho Nacional de Justiça (CNJ) determinou a abertura de processo administrativo disciplinar (PAD) contra o impetrante.
+    O ato apontado como coator embasou-se na existência de indícios de conduta incompatível com o exercício da magistratura. Nos termos da Lei Orgânica da Magistratura Nacional (LOMAN) e do Regimento Interno do CNJ (RICNJ), o acórdão apontado como coator também determinou o afastamento preventivo do impetrante do exercício de suas funções.
+    O impetrante alega que o ato coator violou o princípio do devido processo legal. Segundo argumenta, as violações teriam origem no fato de ter sido impedido de produzir as provas que julgava necessárias à sua defesa nos autos da sindicância e, também, na circunstância de ter sido privado da oportunidade de se fazer presente na sessão de julgamento daquele procedimento, em razão de problemas de saúde comunicados ao relator do feito no CNJ.
+    O impetrante também argumenta que não pôde exercer seu direito à aposentadoria por tempo de serviço. De acordo com o relato contido na inicial do presente writ, o impetrante tentou se valer da sua prerrogativa de requerer a aposentadoria após a inclusão da sindicância na pauta de julgamento pelo CNJ, tendo sido o pleito indeferido pelo CNJ, com fundamento em resolução normativa daquele órgão de controle.
+    O impetrante requereu liminar para suspender a instauração de processo administrativo disciplinar até o julgamento definitivo do mandado de segurança. Ao final, pleiteia decisão que permita a realização de atividade probatória na sindicância.
+    As informações prestadas pelo CNJ (fls. 85-91) dão conta de que a sindicância questionada foi iniciada para apurar recebimento de dinheiro pelo impetrante para proferir decisões favoráveis à reabertura de casa de bingo. Também foi noticiado que o impetrante teria se utilizado de valores adquiridos irregularmente para a compra de bens imóveis.
+     O CNJ informa, também, que a sindicância recebeu processamento considerado normal, tendo ocorrido diversas manifestações do impetrante nos autos, inclusive com apresentação de defesa escrita. Ocorre que, incluído o feito em pauta, o impetrante pleiteou o adiamento do julgamento em virtude da apresentação de requisição de aposentadoria por tempo de serviço. Após o indeferimento do pedido pelo Corregedor Nacional de Justiça, o impetrante requereu, então, novo adiamento da sessão de julgamento, mediante a apresentação de documentos que comprovariam frágil estado de saúde.
+    Os pedidos de adiamento foram tratados pelo voto do Corregedor Nacional de Justiça em questão de ordem apresentada antes da apreciação da sindicância, em sessão plenária do CNJ. Conforme salientado naquela oportunidade, a presença na sessão, bem como a apresentação de razões orais, poderiam ter sido asseguradas mediante a constituição de advogado nos autos, providência que o impetrante não se dispôs a realizar.
+     No que se refere ao mérito da impetração, o CNJ informa que o entendimento adotado na sessão de julgamento da sindicância foi no sentido de que, por se tratar de procedimento preparatório, não se faziam necessárias, naquele feito, a colheita das provas requeridas pelo impetrante, tais como inquirição de testemunhas e realização de perícia contábil em contas bancárias.
+    Por fim, o CNJ registra que a sindicância 2008.10.000027254 deu origem ao PAD 2009.10.000018520.
+    Indeferi a liminar na decisão de fls. 187-190. Referi-me, naquela oportunidade, à implausibilidade jurídica das teses formuladas pelo impetrante, bem como ao entendimento doutrinário e jurisprudencial no sentido de que a sindicância, por se tratar de procedimento preparatório, não exigiria a realização de todas as provas requeridas pelo interessado, dada a possibilidade de sua realização no bojo do processo administrativo subsequente.
+    A Procuradoria Geral da República opinou pela denegação da segurança (fls. 197-200).
+    É o relatório.
+    Decido.
+    Em consulta ao sítio do CNJ na Internet, verifiquei que o PAD contra o impetrante foi julgado em 30.07.2012, tendo sido o magistrado federal condenado à pena de aposentadoria compulsória.
+    Assim, o acórdão proferido pelo CNJ no julgamento do mérito do PAD substituiu a decisão apontada como ato coator na presente impetração.
+    Ante o exposto, julgo prejudicado o presente mandado de segurança (art. 21, IX, do RISTF).
+    Publique-se.
+    Arquive-se.
+    Brasília, 31 de agosto de 2012
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
