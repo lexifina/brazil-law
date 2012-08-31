@@ -1,0 +1,14 @@
+Decisão: Trata-se de recurso extraordinário interposto pela UNIÃO, às fls. 235/243, com fulcro no art. 102, III, ‘a’, da Constituição Federal de 1988, contra acórdão prolatado, às fls. 226/232, pelo Tribunal Regional Federal da 1ª Região, que anulara sentença, na qual foi declarada a ilegitimidade da ANFIP para pleitear, em nome próprio, direitos individuais de seus associados.
+    A recorrente afirma que o acórdão atacado contrariou o disposto pelo art. 5º, XXI, da Constituição Federal de 1988, uma vez que a ação coletiva somente poderia ter sido proposta pela associação se houvesse autorizações individuais dos seus integrantes (fls. 235/243).
+    Contrarrazões às fls. 254/261.
+    É o relatório do necessário. Passo a decidir.
+    O acórdão guerreado deixou assente que a legitimidade da associação para ajuizamento de demandas em nome de seus integrantes está condicionada à autorização genérica contida em previsão estatutária ou dada em assembleia geral (fl. 228).
+    Embora o recurso extraordinário interposto volte-se contra a interpretação conferida ao art. 5º, XXI, da Constituição Federal de 1988, a impugnação nele exposta é diversa da fundamentação adotada pela Corte de origem, que não debateu se a propositura da ação coletiva deveria estar amparada por autorização individual.
+    Com efeito, o julgado examinou, como alternativas equivalentes, a previsão estatutária e a autorização dada em assembleia geral, considerando provada a primeira opção. Portanto, ao introduzir fundamento jurídico novo, em sede de extraordinário, a União extrapolou o limite de devolução que é pertinente ao recurso, o que acarreta o seu juízo negativo de admissibilidade, conforme a orientação veiculada no enunciado n. 284, da súmula da jurisprudência do Supremo Tribunal Federal. Nesse sentido, posicionou-se a Segunda Turma desta Corte em julgamento do AgR no AI 239.894/SP (Rel. Min. Celso de Mello, DJ 18.02.2000, p. 60):
+    RECURSO EXTRAORDINÁRIO - EFEITO DEVOLUTIVO LIMITADO - APELO EXTREMO, QUE, AO QUESTIONAR ACÓRDÃO PROFERIDO PELO TRIBUNAL A QUO, DEIXA DE IMPUGNAR, NAS RAZÕES RECURSAIS, MATÉRIA VENTILADA NA DECISÃO RECORRIDA - INAPLICABILIDAE DO PRINCÍPIO JURA NOVIT CURIA - RECURSO DE AGRAVO IMPROVIDO. - O recurso extraordinário - que tem efeito devolutivo limitado - será apreciado pelo Supremo Tribunal Federal com estrita observância dos limites temáticos delineados no ato de sua interposição. Em consequência, a interposição do apelo extremo - por não gerar irrestrita devolução da matéria constitucional efetivamente examinada pelo Tribunal de jurisdição inferior - torna inaplicável, ao julgamento do recurso extraordinário, o princípio "jura novit curia". Precedentes. Doutrina.
+    Ante o exposto, nego seguimento ao recurso, nos termos do art. 557, caput, do Código de Processo Civil, e do art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 31 de agosto de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
