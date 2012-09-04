@@ -1,0 +1,10 @@
+DECISÃO
+SALÁRIO MÍNIMO – VINCULAÇÃO - INCISO IV DO ARTIGO 7º DA CONSTITUIÇÃO FEDERAL – RECURSO EXTRAORDINÁRIO – CONHECIMENTO E PROVIMENTO.
+    1. O alcance do inciso IV do artigo 7º da Constituição Federal outro não é senão evitar que o atrelamento do salário mínimo a situações diversas acabe por inibir o legislador na necessária reposição do poder aquisitivo da parcela, isso objetivando o cumprimento ao que nele previsto. Ora, na espécie, adotou-se, como base para cálculo da indenização por danos morais, fator vedado pela Carta da República. Nesse sentido decidiu o Plenário no julgamento da Ação Direta de Inconstitucionalidade nº 1.425-1/PE, de minha relatoria.
+    De resto, nota-se que o não-processamento do recurso extraordinário pelo Tribunal Superior do Trabalho vem desaguando, com verdadeira automaticidade, na interposição de agravo. Para tanto, articula-se com a ofensa à Carta da República, quando, na realidade, o acórdão impugnado na via excepcional faz-se alicerçado em interpretação de normas estritamente legais – as que regem os recursos trabalhistas. No caso dos autos, deu-se essa prática.
+    Em momento algum, a Corte de origem adotou entendimento conflitante com a Constituição Federal. O que se observa é a tentativa de transformar o Supremo em órgão simplesmente revisor das decisões prolatadas na última instância do Judiciário Trabalhista.
+    2. Ante o precedente mencionado, conheço do agravo e o provejo, consignando o enquadramento parcial do extraordinário no permissivo evocado. Com fundamento no artigo 544, §4º, inciso II, alínea “c”, do Código de Processo Civil, conheço parcialmente do extraordinário, pela ofensa ao inciso IV do artigo 7º da Constituição Federal, e o provejo para, reformando o acórdão proferido pela Corte de origem, estabelecer a verba indenizatória em pecúnia, ou seja, no equivalente ao resultado da multiplicação dos salários mínimos fixados na sentença pelo valor representado à época, incidindo os acessórios.
+    3. Publiquem.
+Brasília, 4 de setembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
