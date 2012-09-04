@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. POLICIAL MILITAR. APLICAÇÃO DE ATOS ADMINISTRATIVOS PUNITIVOS AOS APELADOS. INOBSERVÂNCIA DOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE DOS ATOS PUNITIVOS. INEXISTÊNCIA DE PROVAS NOS AUTOS QUE COMPROVEM A OPORTUNIDADE DE DEFESA DOS RECORRIDOS. ÔNUS DA PROVA DOS APELANTES. CONTROLE JURISDICIONAL DOS ATOS ADMINISTRATIVOS ILEGAIS. O ordenamento constitucional não admite a aplicação de atos administrativos punitivos sem a prévia instalação do contraditório e da ampla defesa. Esta garantia há que ser efetiva, na esteira do entendimento manifestado pelo Superior Tribunal de Justiça. Logo, não havendo o exercício efetivo do direito de defesa, tornam-se nulos os atos punitivos expedidos pela Administração Pública”.(fl. 98)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, inciso LV, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+    “No caso dos autos, durante a apuração feita, ao aplicarem-se as referidas sanções aos recorridos verifica-se que foram observados os princípios constitucionais do devido processo legal, ampla defesa e contraditório (art. 5º, LV, da CF/88), como resta demonstrado nos documentos que acompanham a petição inicial “. (fl. 129)
+    Decido.
+    O recurso não merece prosperar.
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu o seguinte:
+    “(...) cabia ao Apelante fazer prova da inexistência dos vícios apontados pelos Apelados, assim como evidenciar que a estes foi dada a oportunidade de apresentação de defesa e realização de prova contraria às acusações imputadas.
+    Sustenta ainda o Recorrente a inobservância pelo juízo a quo quanto à presunção de legalidade e veracidade do ato administrativo.
+    No entanto, do exame dos autos, vislumbra-se que os citados atributos encontram-se prejudicados, na medida em que resta comprovado o cerceamento das garantias constitucionais conferidas aos Apelados”. (fls. 101-102)
+    Para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e das provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Sobre o tema, confiram-se o AI-AgR-ED, 539.744, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe 16.3.2012; e o AI-AgR 745.285, Primeira Turma, Rel. Min. Dias Toffoli, DJe 1.2.2012, cuja ementa dispõe:
+    “Agravo regimental no agravo de instrumento. Policial Militar. Princípios do devido processo legal, do contraditório e da ampla defesa. Prescrição. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. Para ultrapassar o entendimento firmado pelo Tribunal de origem quanto à ocorrência da prescrição, seria necessário interpretar a legislação infraconstitucional pertinente - Decreto nº 20.910/32 - e reexaminar as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 636 e 279 desta Corte. 3. Agravo regimental não provido”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
