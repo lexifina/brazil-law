@@ -1,0 +1,21 @@
+DECISÃO
+    Vistos.
+    PREFEITO MUNICIPAL DE IPATINGA E O MUNICÍPIO DE IPATINGA interpõem recurso extraordinário, com fundamento na alínea “a”, do permissivo constitucional, contra acórdão da Corte Superior do Tribunal de Justiça mineiro, assim ementado:
+    “Ação Direta de Inconstitucionalidade. Lei Orgânica Municipal. Infração político-administrativa. Inovação. Poder Executivo. Forma diferenciada de controle externo. Apresentação trimestral de balancetes contábil e orçamentário. São inconstitucionais os dispositivos de Lei Orgânica Municipal que estabelecem situação configuradora de infração político-administrativa, sem observância das regras gerais específicas do Decreto-lei nº 201/67, e forma diferenciada de controle externo do Poder Executivo pelo Poder Legislativo, mediante a imposição de apresentação trimestral de balancetes contábeis e orçamentários. Acolhe-se parcialmente a representação e declaram-se inconstitucionais o parágrafo único do art. 25 e o art. 65, I a VIII, da Lei Orgânica do Município de Ipatinga” (fl. 148).
+    Opostos embargos de declaração (fls. 163 a 167), foram rejeitados (fls. 173 a 175).
+    Alegam os recorrentes violação dos artigos 2º, 5º, inciso LIV e 37, caput, da Constituição Federal, consubstanciada pelo ausência do reconhecimento da apontada inconstitucionalidade do referido dispositivo legal.
+    Processado sem contrarrazões (fl. 196), o recurso não foi admitido, na origem (fls. 197 a 198), daí a interposição do presente agravo.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem assentou não ser inconstitucional dispositivo da Lei Orgânica do Município recorrente que apenas disciplina a prestação de informações, por parte do Poder Executivo, a requisições do Poder Legislativo.
+    Com efeito, tal entendimento está em sintonia com a jurisprudência desta Corte no sentido de que o Poder Legislativo detém autonomia para disciplinar a forma como tais informações serão prestadas, mas sem a imposição de sanções, ressaltando-se que a sanção prevista no parágrafo único dessa norma, teve a inconstitucionalidade reconhecida pela Corte de origem.
+    Nesse sentido, cite-se a ementa do seguinte e recente precedentes desta Corte:
+    “FISCALIZAÇÃO NORMATIVA ABSTRATA - LEI ORGÂNICA MUNICIPAL - REGRAS LEGAIS QUE EXPLICITAM, EM FAVOR DA CÂMARA DE VEREADORES, O PODER DE REQUISIÇÃO DE INFORMAÇÕES EXERCIDO EM FACE DO PODER EXECUTIVO LOCAL - PRERROGATIVA POLÍTICO-JURÍDICA QUE SE INCLUI, CONSTITUCIONALMENTE, NA ESFERA DE ATRIBUIÇÕES DO PODER LEGISLATIVO MUNICIPAL - INSTRUMENTOS CONSTITUCIONAIS, COMO A PRERROGATIVA DE REQUISITAR INFORMAÇÕES, QUE VIABILIZAM O EXERCÍCIO, PELA CÂMARA DE VEREADORES, DE SEU PODER DE CONTROLE SOBRE ATOS DO PODER EXECUTIVO, EXCLUÍDA, NO ENTANTO, A POSSIBILIDADE DE O LEGISLATIVO DETERMINAR O COMPARECIMENTO DO PREFEITO MUNICIPAL (ADI 687/PA, REL. MIN. CELSO DE MELLO, PLENO) - INEXISTÊNCIA, NAS REGRAS LEGAIS IMPUGNADAS, DESSA OBRIGAÇÃO DE COMPARECIMENTO - LEI ORGÂNICA QUE SE CONFORMA, NO PONTO, AO QUE PRESCREVE, EM TEMA DE CONTROLE PARLAMENTAR DO EXECUTIVO, A PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA - RECURSO DE AGRAVO IMPROVIDO” (RE nº 632.895-AgR/MG, Relator o Ministro Celso de Mello, Segunda Turma, DJe de 27/2/12).
+    Correta, pois, a decisão regional, a não merecer reparos.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 4 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
