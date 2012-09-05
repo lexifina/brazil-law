@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    "perfilhando, pois, o entendimento da Sexta Turma e do colendo STJ, entendo aplicável o prazo prescricional trimestral estabelecido no art. 11, § 1º, do Decreto 1.102/1903, em face do princípio da especialidade.
+    Assim, cumpre declarar a prescrição da pretensão autoral, nos termos do § 5º do art. 219 do CPC, com a redação dada pela Lei 11.380/2006, ante a constatação de que o e ajuizamento da ação, ocorrido em 03/11/97, deu-se após o decurso do lapso prescricional trimestral previsto no Decreto 1.102/1903 (art. 11, § 1º), uma vez que as perdas foram detectadas entre os anos de 1991 e 1992 (fls. 23, 24 e 30) e o relatório de reanálise das perdas datam de 06/12/94. Conclui-se, pois, à vista do princípio da actio nata, que a pretensão autoral foi fulminada pela prescrição".
+    2. A Agravante afirma que a Turma Recursal de origem teria contrariado o art. 5º, inc. II, XXXV, LIV e LV, da Constituição da República.
+    Assevera que "a análise equivocada das questões suscitadas nos autos prejudica a tutela dos direitos da recorrente e posto que lhe determina cumprimento de obrigação indevida, qual seja o pagamento de multa contratual. Sendo certo que ninguém deve ser privado de seus bens sem o devido processo legal".
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que não teria havido contrariedade direta à Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, de dispositivos do Código de Processo Civil e do Decreto n. 1.102/1903), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 806.616-AgR, de minha relatoria, Primeira Turma, DJe 24.11.2010).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. OFENSA REFLEXA AO ARTIGO 5º, II, XXXV, XXXVI, LIV e LV, DA CF. DECISÃO CONTRÁRIA AOS INTERESSES DA PARTE NÃO CONFIGURA OFENSA AO ART. 93, IX, DA CF. SÚMULA STF 279. 1. Para divergir da conclusão a que chegou o Tribunal a quo, seria necessário o reexame do conjunto fático-probatório dos autos, o que é defeso nesta sede recursal (Súmula STF 279). 2. A ofensa aos postulados constitucionais da legalidade, da ampla defesa, do contraditório, do devido processo legal, da coisa julgada e da prestação jurisdicional, se existente, seria, segundo entendimento deste Supremo Tribunal, meramente reflexa ou indireta. Precedentes. 3. Decisão fundamentada contrária aos interesses da parte não configura ofensa ao artigo 93, IX, da CF. 4. Agravo regimental improvido” (AI 756.336-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 22.10.2010).
+    Ademais, no presente caso, a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice da Súmula n. 636 do Supremo Tribunal Federal, que dispõe que “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    7. Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
