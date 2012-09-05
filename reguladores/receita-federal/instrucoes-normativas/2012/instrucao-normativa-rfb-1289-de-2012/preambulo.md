@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1289, de 4 de setembro de 2012
+Estabelece procedimentos necessários para habilitação ao gozo dos benefícios fiscais referentes à realização, no Brasil, da Copa das Confederações Fifa 2013 e da Copa do Mundo Fifa 2014, de que trata a Lei nº 12.350, de 20 de dezembro de 2010.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 12.350, de 20 de dezembro de 2010, e no Decreto nº 7.578, de 11 de outubro de 2011, resolve:
