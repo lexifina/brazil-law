@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Administrativo. Servidores públicos municipais de Ribeirão Preto. Resíduo de reajuste salarial, no percentual de 28,35% referente a março de 1990, previsto pela Lei Municipal 5.695/90 e reconhecido pela Lei Complementar 1.696/04. Inadmissibilidade. Servidores admitidos nos quadros da Guarda Civil Municipal, criada em agosto de 1994, após o advento da lei que concedeu o reajuste. Sentença de procedência. Recurso da requerida provido, com inversão dos ônus sucumbenciais” (fl. 531 do e-STJ).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, violação aos arts. 5º, XXXVI, 7º, XXX, e 39, § 1º, da mesma Carta.
+    O agravo não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Municipal 5.695/1990 e Lei Complementar Municipal 1.696/2004). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 660.985/SP e AI 745.100/SP, Rel. Min. Dias Toffoli; AI 739.383/SP, Rel. Min. Ellen Gracie; AI 764.711/SP e AI 765.453/SP, Rel. Min. Cármen Lúcia; AI 757.033/SP, Rel. Min. Eros Grau; AI 485.873/SP, Rel. Min. Joaquim Barbosa.
+    Além disso, observa-se que o recorrente não demonstrou de que forma o acórdão recorrido teria julgado válida lei ou ato de governo local contestado em face a Constituição, de forma a ensejar o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
