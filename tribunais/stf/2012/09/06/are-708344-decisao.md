@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de agravo contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de decisão, prolatada em julgamento de embargos infringentes em execução fiscal de crédito tributário muni cipal, que decretou de ofício a prescrição intercorrente de parte do crédito excutido e concluiu pela ausência de interesse de agir quanto ao crédito remanescente, em razão de seu pequeno valor.
+    Alega-se violação do disposto nos arts. 2º; 5º, XXXV; 146, III, b, e 150, § 6º, da Constituição federal.
+    Decido.
+    Quanto à questão da prescrição, saliento que a matéria possui índole infraconstitucional, cuja análise demanda, ademais, o prévio exame do quadro fático-probatório (Súmulas 279 e 636/STF). Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. SÚMULAS NS. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PRESCRIÇÃO. DECRETAÇÃO DE OFÍCIO. LEIS NS. 6.830/80 E 11.280/06. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida à luz de normas infraconstitucionais Leis ns. 6.830/80 e 11.280/06. Ofensa indireta à Constituição do Brasil. Agravo regimental a que se nega provimento.” (AI 713.148-AgR, rel. min. Eros Grau, Segunda Turma, DJe de 29.09.2008)
+    Confiram-se, também: AI 725.988 (rel. min. Marco Aurélio, DJe de 31.10.2008); AI 726.472 (rel. min. Cezar Peluso, DJe de 30.09.2008); RE 588.436 (rel. min. Menezes Direito, DJe de 26.08.2008); AI 713.050 (rel. min. Cármen Lúcia, DJe de 18.06.2008) e RE 578.549 (rel. min. Ricardo Lewandowski, DJe de 04.04.2008).
+    Por esse motivo, esta Corte, no julgamento do RE 583.747-RG (rel. min. Menezes Direito, DJe de 29.04.2009), não reconheceu a repercussão geral do tema.
+    Quanto à questão da extinção de execução fiscal de crédito de pequeno valor com base em considerações quanto ao interesse de agir, razão assiste à parte ora agravante. Esta Corte, ao apreciar o RE 591.033 (rel. min Ellen Gracie, DJe de 25.02.2011), leading case de repercussão geral, julgou a matéria em sentido contrário ao da decisão recorrida. Transcrevo o teor da ementa do referido julgado:
+    “TRIBUTÁRIO. PROCESSO CIVIL. EXECUÇÃO FISCAL. MUNICÍPIO. VALOR DIMINUTO. INTERESSE DE AGIR. SENTENÇA DE EXTINÇÃO ANULADA. APLICAÇÃO DA ORIENTAÇÃO AOS DEMAIS RECURSOS FUNDADOS EM IDÊNTICA CONTROVÉRSIA.
+    1. O Município é ente federado detentor de autonomia tributária, com competência legislativa plena tanto para a instituição do tributo, observado o art. 150, I, da Constituição, como para eventuais desonerações, nos termos do art. 150, § 6º, da Constituição.
+    2. As normas comuns a todas as esferas restringem-se aos princípios constitucionais tributários, às limitações ao poder de tributar e às normas gerais de direito tributário estabelecidas por lei complementar.
+    3. A Lei nº 4.468/84 do Estado de São Paulo - que autoriza a não-inscrição em dívida ativa e o não-ajuizamento de débitos de pequeno valor - não pode ser aplicada a Município, não servindo de fundamento para a extinção das execuções fiscais que promova, sob pena de violação à sua competência tributária.
+    4. Não é dado aos entes políticos valerem-se de sanções políticas contra os contribuintes inadimplentes, cabendo-lhes, isto sim, proceder ao lançamento, inscrição e cobrança judicial de seus créditos, de modo que o interesse processual para o ajuizamento de execução está presente.
+    5. Negar ao Município a possibilidade de executar seus créditos de pequeno valor sob o fundamento da falta de interesse econômico viola o direito de acesso à justiça.
+    6. Sentença de extinção anulada.
+    7. Orientação a ser aplicada aos recursos idênticos, conforme o disposto no art. 543-B, § 3º, do CPC.” (grifei)
+    Do exposto, conheço do presente agravo e desde logo dou parcial provimento ao recurso extraordinário para determinar o prosseguimento da execução fiscal quanto ao crédito não declarado prescrito.
+    Publique-se.
+    Brasília, 6 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
