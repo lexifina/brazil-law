@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO – AÇÃO DE INTERDITO PROIBITÓRIO – ALEGAÇÃO DE VALOR EXORBITANTE DA PERÍCIA – INVIÁVEL REDISCUSSÃO DE MATÉRIA JÁ ANALISADA PELO ÓRGÃO JURISDICIONAL – AGRAVO REGIMENTAL QUE NENHUM ELEMENTO NOVO TROUXE, QUE LEVASSE O RELATOR A SE RETRATAR DA DECISÃO PROLATADA – RECURSO NÃO PROVIDO.
+    Mantém-se decisão prolatada em sede de recurso de agravo de instrumento, se no agravo regimental o recorrente não traz qualquer elemento diverso do já externado nos autos, que possa levar o relator a se retratar da decisão prolatada” (fl. 86).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação, em suma, ao art. 5º, XXXV e LXXIV, da mesma Carta.
+    O agravo não merece acolhida. Isso porque, o Tribunal de origem decidiu a causa nos seguintes termos:
+    “É cediço que não existe no ordenamento jurídico pátrio critérios objetivos para a fixação de honorários periciais, de forma que, para um arbitramento correto, é necessário que se observe o critério da razoabilidade, assegurando tanto a realização da perícia como uma justa remuneração ao perito, condizente com o trabalho a ser executado.
+    A irresignação da parte agravante resume-se no valor concernente aos honorários periciais indicado pelo perito, o qual alega que trará ônus financeiro à parte, posto que seu valor é exorbitante (R$ 18.000,00).
+    Conforme se observa dos documentos de fls.58/60, o perito nomeado pelo douto juízo, VINICIUS COUTINHO - CONSULTORIA E PERÍCIA possui instituto de perícia com corpo técnico capacitado para realizar o trabalho dos autos, sendo importante frisar que o juiz é soberano na análise das provas produzidas nos autos, devendo decidir de acordo com o seu convencimento, consoante o art. 131 do Código de Processo Civil, que consagra o princípio da livre convicção do julgador.
+    (…)
+    Imperioso salientar que a parte ora agravante não trouxe aos autos qualquer prova que ateste que o valor cobrado a título de honorários do perito é exorbitante ou desproporcional, posto que não há como analisar a complexidade do serviço a ser realizado, bem como tempo despendido, a natureza e extensão econômica da causa, e principalmente a importância fixada em casos semelhantes, razão pela qual o valor atribuído a título de honorários deve ser mantido” (fls. 88-90).
+    Nesse contexto, resta claro que para se chegar à conclusão contrária à adotada pelo Tribunal de origem acerca da redução dos honorários periciais demandaria o reexame do conjunto fático-probatório presente nos autos, bem como a análise da legislação infraconstitucional pertinente, o que atrai a incidência da Súmula 279 desta Corte. Incabível, portanto, o extraordinário.
+    Quanto ao art. 5º, XXXV, da Constituição, observe-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
