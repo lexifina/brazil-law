@@ -1,0 +1,31 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Marilu Terezinha Muller de Almeida em favor de Fabiana Buriche dos Santos contra decisão monocrática que indeferiu o pedido de liminar no HC 195.566/RJ, anteriormente aforado perante o Superior Tribunal de Justiça.
+    O Juízo da 2ª Vara Criminal da Comarca de São João de Meriti/RJ condenou a paciente às penas de 3 (três) anos e 15 (quinze) dias de reclusão, e 6 (seis) dias-multa de valor unitário mínimo, no regime semiaberto, pela prática do delito tipificado no artigo 157, § 2º, I e II, na forma do artigo 14, II, c/c artigo 29, § 1º, todos do Código Penal.
+    Inconformados, tanto a Defesa, quanto o Ministério Público interpuseram recurso de apelação. O Tribunal de Justiça do Estado do Rio de Janeiro anulou o processo a partir do despacho da fl. 213v, inclusive o decreto de prisão preventiva da fl. 117, mantido, porém, o decreto de revelia, nos termos da seguinte ementa:
+    “PROCESSUAL. NULIDADE. INOBSERVÂNCIA DO ARTIGO 366 DO CPP. DEFENSOR CONSTITUÍDO INDICADO ANTES DA CITAÇÃO EDITALÍCIA. PROSSEGUIMENTO DO PROCESSO COM NOMEAÇÃO DE DEFENSOR PÚBLICO. INCOMPATIBILIDADE.
+    Conhecendo o juiz a indicação de defensor constituído mediante a juntada de procuração nos autos ainda que antes da citação editalícia, decretada a revelia da acusada, ou se prossegue no processo com a intimação daquele defensor para todos os atos seguintes, ou, se, nomeada a Defensoria Pública, suspende-se o seu curso, nos termos do artigo 366 do CPP.
+    Nulidade reconhecida que se proclama de ofício”.
+    Reiniciada a instrução, o magistrado de primeiro grau condenou a paciente às penas de 5 (cinco) anos e 6 (seis) meses de reclusão, e 13 (treze) dias-multa, em regime inicial semiaberto, pela prática do delito tipificado no artigo 157, § 2º, I e II, do Código Penal.
+    Em sede de apelação, o Tribunal de Justiça do Estado do Rio de Janeiro negou provimento ao recurso, para manter a sentença a condenação da paciente.
+    A Defesa interpôs recurso especial, não admitido na origem, ao argumento de intempestividade.
+    Inconformada, a Defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que, por decisão monocrática, indeferiu o pedido de liminar, nos seguintes termos:
+    “Trata-se de habeas corpus impetrado em benefício de FABIANA BURICHE DOS SANTOS - condenada pelo crime previsto no artigo 157, § 2º, incisos I e II; combinado com o artigo 29, ambos do Código Penal, às penas de cinco anos e seis meses de reclusão, no regime semiaberto, - pelo qual se alega constrangimento ilegal por parte da Terceira Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, o qual negou provimento à apelação ali interposta, mantendo a condenação da paciente.
+    Daí o presente writ, em que os impetrantes alegam prejuízo à paciente, em face da anulação do primeiro julgamento determinado pelo Tribunal a quo.
+    Informam que por ocasião da prolação de nova sentença pelo juiz de primeiro grau, a pena da acusada foi majorada, tendo o Tribunal de origem confirmado a condenação, pelo que ocorreu reformatio in pejus indireta. Postulam o deferimento de medida liminar, para que seja suspensa a ordem prisional até o julgamento final do presente writ e, no mérito, a anulação da sentença monocrática e, via de consequência, do v. acórdão hostilizado, determinando-se que a nova decisão não ultrapasse os limites da primeira.
+    É o relatório.
+    Passo a decidir.
+    Em que pesem as razões dos impetrantes, não me convenci da ocorrência da alegada coação ilegal, não se afigurando, em consequência, numa primeira análise, nenhum vício no procedimento, a justificar, de plano, a concessão da medida. Deve-se, ainda, levar em consideração que a cognição sumária, própria da presente fase, não nos permite realizar profundas digressões de mérito, o que justifica o deferimento da medida liminar apenas quando detectada, de imediato, a coação ilegal suportada pelo paciente.
+    Em face do exposto, indefiro a liminar”.
+    Neste writ, a Impetrante alega, em síntese, reformatio in pejus indireta porque a pena, na segunda condenação, seria maior que a primeira.
+    Assim, requer o deferimento de liminar, para determinar o imediato recolhimento dos mandados de prisão expedidos até o ulterior julgamento do habeas corpus pelo Superior Tribunal de Jusitiça.
+    Passo a decidir.
+    A pretensão do Impetrante esbarra na Súmula nº 691 desta Corte Suprema: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+    O escopo da Súmula nº 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e o da competência.
+    A jurisprudência desta Suprema Corte, é certo, tem abrandado, em casos excepcionais, o rigor do mandamento sumular (v.g.: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.05.2010).
+    Da leitura da decisão monocrática impugnada na inicial, não vislumbro, contudo, a presença de alguma excepcionalidade, flagrante ilegalidade ou de abuso de poder que justifique o afastamento da orientação contida na Súmula nº 691/STF.
+    Não se detecta, pelo menos em cognição sumária, com clareza a reformatio in pejus, pois o Ministério Público havia apelado contra a primeira condenação. O apelo não foi julgado no mérito, restando prejudicado pelo acolhimento da nulidade. Assim, o julgamento do apelo do Ministério Público poderia levar ao acréscimo da pena na primeira condenação. Apenas se tivesse havido o trânsito em julgado para o Ministério Público em relação à primeira condenação, é que em tese admissível reconhecer a reformatio in pejus indireta.
+    Assim, não há manifesta ilegalidade ou arbitrariedade na decisão do Tribunal estadual de anulação da sentença de primeiro grau a autorizar a superação da Súmula 691 desta Corte.
+    Ante o exposto e forte na Súmula 691 desta Corte e no § 1.º do art. 21 do Regimento Interno, nego seguimento ao presente writ.
+    Publique-se. Arquivem-se.
+    Brasília, 09 de setembro de 2012.
+Ministra Rosa Weber
+Relatora
