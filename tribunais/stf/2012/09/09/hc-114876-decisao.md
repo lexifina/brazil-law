@@ -1,0 +1,52 @@
+Trata-se de habeas corpus impetrado por Flávio Alves de Jesus em favor de Maico dos Santos contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no AREsp 170.312/MS, de relatoria do Ministro Sebastião Reis Júnior.
+    Consta dos autos que o Juízo da 2ª Vara da Comarca de Ivinhema/MS recebeu a denúncia e condenou o paciente à pena de 6 (seis) anos e 10 (dez) dias de reclusão e ao pagamento de 606 (seiscentos e seis) dias-multa, pela prática do delito tipificado no artigo 33 da Lei 11.343/06 e à pena de 3 (três) anos, 02 (dois) meses de reclusão e ao pagamento de 715 (setecentos e quinze) dias-multa, pela prática do delito tipificado no artigo 35 da mesma Lei.
+    Em sede de apelação, o Tribunal de Justiça do Estado de Mato Grosso do Sul deu parcial provimento ao recurso, para decotar a causa de aumento referente ao tráfico interestadual e absolver o paciente da imputação da infração ao artigo 35 da Lei 11.343/06, reduzindo a pena para 5 (cinco) anos e 2 (dois) meses de reclusão, a ser cumprida no regime prisional fechado, e ao pagamento de 520 (quinhentos e vinte) dias-multa, à razão de 1/30 (um trinta avos) do salário-mínimo vigente à época do fato, nos termos da seguinte ementa:
+    “APELAÇÃO CRIMINAL. RECURSO DEFENSIVO DE JOCIMAR OLAVO E MAICO DOS SANTOS. TRÁFICO DE DROGAS. PRETENSÃO DE ABSOLVIÇÃO. AUTORIA E MATERIALIDADE DO DELITO COMPROVADAS. APLICAÇÃO DO ART. 33, § 4º DA LEI 11.343/06. IMPOSSIBILIDADE. TRÁFICO INTERESTADUAL NÃO CARACTERIZADO. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. RECURSO PARCIALMENTE PROVIDO.
+    Mantém-se a condenação dos agentes por tráfico de drogas, pois as provas dos autos comprovam a autoria e a materialidade do delito.
+    Como o conjunto probatório dos autos comprova que os agentes fazem parte de uma organização maior voltada ao narcotráfico, ante a grande quantidade de cocaína encontrada, sendo que foi preciso a contratação de pessoas e petrechos especiais fosse acondicionada no fundo falso de veículo, a quantidade de dinheiro movimentada e o grau de sofisticação utilizado, com batedor e agenciador, afastada a aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei 11.343/2006.
+    Não comprovado o ânimo de associação estável e permanente para o tráfico de drogas entre os agentes, deve ser decretada absolvição em relação ao delito descrito no artigo 35, da Lei 11.343/2006”.
+    Sob o argumento de violação do artigo 33, § 4º da Lei 11.343/2006, a Defesa interpôs recurso especial, não admitido na origem.
+    No âmbito do Superior Tribunal de Justiça, por decisão monocrática, o Ministro Sebastião Reis Júnior, não conheceu do AREsp 170.312/MS, ao argumento da intempestividade do recurso.
+    Inconformada, a Defesa interpôs agravo regimental, que, por unanimidade, a Sexta Turma do Superior Tribunal de Justiça negou provimento, nos termos da seguinte ementa:
+    “AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPEICAL. PROCESSO PENAL. ART. 28 DA LEI N. 8.038/1990. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL. PRAZO RECURSAL DE 5 DIAS. AGRAVO INTEMPESTIVO. SÚMULA 699/STF. SÚMULA 256/STJ.
+    1. O prazo para a interposição de agravo de instrumento em matéria criminal é de 5 dias, nos termos do disposto no art. 28 da Lei n. 8.038/1990.
+    2. Incidência da Súmula 699/STF.
+    3. O instituto do protocolo integrado não se aplica a recurso dirigido ao Superior Tribunal de Justiça (Súmula 256/STJ).
+    4. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+    5. Agravo regimental improvido”.
+    Neste writ, alega a Defesa, em síntese, que o constrangimento ilegal está configurado na decisão que considerou intempestivo o AREsp 170.312/MS, ratificada no agravo regimental. Para tanto, afirma que o “embasamento utilizado pela autoridade coatora foi que, como a publicação da decisão denegando o Recurso Especial é da data de 30.3.2012 (sexta-feira), o prazo em que expirava o quinquídio legal era na data de 6.4.2012 (sexta-feira) (que era feriado, por ser semana santa, sendo o prazo dilatado até o próximo dia útil, ou seja, 9.4.2012 que era segunda feita), haja vista a previsão legal de 5 dias para a interposição do Agravo de Instrumento”.
+    Acrescenta que utilizou o sistema de protocolo integrado, pois permitido depois do cancelamento da Súmula 256/STJ. Informa que a autoridade coatora suscitou a Súmula 256/STJ, que não é mais aplicada.
+    Argumenta, por fim, presentes o fumus boni iuris e o periculum in mora, ante o iminente encarceramento do paciente.
+    Assim, requer a concessão da ordem, para expedir salvo conduto para o paciente, afastar a incidência da Súmula 256/STJ, e ser analisado o mérito do AREsp 170.312/MS.
+    Passo a decidir.
+    Em síntese, pretende o Impetrante que o Supremo Tribunal Federal reveja o entendimento do Superior Tribunal de Justiça quanto à intempestividade do regimental.
+    O voto do relator, Ministro Sebastião Reis Júnior, que estaria a confirmar o constrangimento ilegal determinante desta impetração foi prolatado nos seguintes termos:
+    “[...]
+    Com efeito, o prazo para a interposição de agravo de instrumento, em matéria criminal, é de 5 cinco dias, nos termos do disposto no art. 28 da Lei n. 8.038/1990.
+    No caso, observa-se que o decisum agravado se tornou disponível, no Diário de Justiça eletrônico, em 30/3/2012 – sexta-feira – (fl. 1.035), considerando-se publicado – nos termos do § 3º do art. 4º da Lei n. 11.419/2006 – no dia útil subsequente. O agravante, contudo, interpôs o presente agravo em recurso especial em 12/4/2012 (fl. 1.036), após, portanto, o esgotamento do quinquídio legal, que ocorreu em 6/4/2012.
+    Por conseguinte, o agravo em exame encontra-se intempestivo, consoante o teor da Súmula 699/STF.
+    Julgado deste Tribunal a corroborar: AgRg no Ag n. 1.416.490/DF, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 14/9/2011.
+    Além disso, sobre o instituto do protocolo integrado e sua utilização em recursos dirigidos ao Superior Tribunal de Justiça, a jurisprudência deste órgão entende que, consoante enunciado da Súmula n. 256, desta Corte Superior, o uso do sistema de protocolo integrado não se aplica aos recursos dirigidos a este Tribunal (RHC n. 23.095/SP, Ministro Jorge Mussi, Quinta Turma, DJe 8/9/2008).
+    A Sexta Turma deste Tribunal já assentou entendimento em idêntico sentido:
+    ‘RECURSO ESPECIAL. DIREITO PROCESSUAL PENAL. INTEMPESTIVIDADE. PROTOCOLO INTEGRADO. INSTÂNCIA ESPECIAL. LEI N° 10.352/2001. INAPLICABILIDADE.
+    1. Não se conhece de recurso especial interposto fora do prazo legal, que é de 15 dias, na letra do artigo 26 da Lei nº 8.038/90.
+    2. A Corte Especial deste Superior Tribunal de Justiça firmou já entendimento no sentido de que, mesmo após as alterações advindas da Lei nº 10.352/2001, o sistema de "protocolo integrado" não se aplica ao recurso especial, pouco importando os provimentos expedidos pelos Tribunais a quo, diante do efetivamente disposto na lei federal.
+    Enunciado nº 256 da Súmula deste Superior Tribunal de Justiça.
+    3. Recurso especial não conhecido.
+    (REsp n. 596.795/SC, Ministro Hamilton Carvalhido, Sexta Turma, DJ 14/8/2006)
+    Dessa forma, deve-se afastar o óbice levantado pela insurgência em exame, com fulcro nos arts. 28 da Lei n. 8.038/1990 e 34, XVIII, do RISTJ.
+    O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+    Em face do exposto, nego provimento ao agravo regimental”.
+    Ora, compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade – positivo ou negativo – deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial.
+    Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria (vg.: “Não cabe recurso extraordinário para rever os requisitos de admissibilidade de recurso especial, cujo seguimento foi negado pelo Superior Tribunal de Justiça, por se tratar de matéria infraconstitucional” - AI 724.135-AgR/MS – 2ª Turma do STF – Rel. Min. Joaquim Barbosa – unânime – j. 16.11.2010 – DJe 234, de 03.12.2010), foi também estendida ao habeas corpus, como se verifica nos seguintes precedentes:
+    “É firme a jurisprudência desta Casa de Justiça no sentido de que é da competência do Superior Tribunal de Justiça a análise do preenchimento, ou não, dos pressupostos de admissibilidade do recurso especial. Pelo que não pode o Supremo Tribunal Federal reapreciar tais requisitos, salvo em caso de ilegalidade flagrante ou abuso de poder. O que não é o caso dos autos.” (HC 112.130/MG – Rel. Min. Ayres Britto, 2ª Turma, un., j. 27.3.2012)
+    “ O Superior Tribunal de Justiça não assume a posição de autoridade coatora quando se limita a afirmar a ausência dos pressupostos de admissibilidade do recurso especial ali interposto.” (HC 99.174-AgReg – Rel. Min. Ayres Britto – 2.ª Turma – un. - j. 05.4.2011)
+    Esse entendimento também é pertinente ao caso sub judice, envolvendo a tempestividade de recurso interno interposto contra decisão monocrática que negou seguimento a especial.
+    O habeas corpus não constitui, portanto, meio hábil para rever as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial ou dos recursos internos a ele inerentes, questão que não está relacionada, senão reflexamente, com a liberdade de locomoção, e que deve ser resolvida no âmbito daquela Corte. Quiçá em casos teratológicos, disso se poderia cogitar, mas não vislumbro com facilidade que tal tenha ocorrido.
+    Em síntese, o questionamento em relação aos pressupostos de admissibilidade recursal deve ser exaurido no julgamento do próprio recurso, sendo inviável a utilização do habeas corpus para tal finalidade, regra que na espécie há de ser observada, à falta de flagrante ilegalidade.
+    Ante o exposto e com base no art. 21, § 1º e no art. 192 do Regimento Interno desta Corte, denego, desde logo, a ordem, julgando improcedente o presente habeas corpus.
+    Publique-se.
+    Brasília, 09 de setembro de 2012.
+Ministra Rosa Weber
+Relatora
