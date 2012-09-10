@@ -1,0 +1,29 @@
+A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 683.235, verbis :
+    “Decisão: 1. Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário contra acórdão do Tribunal Regional Federal da 1ª Região e assim ementado:
+    CONSTITUCIONAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE ADMINISTRATIVA. PREFEITO MUNICIPAL. AGENTE POLÍTICO. DESVIO E APLICAÇÃO INDEVIDA DE RECURSOS DO FUNDEF. LIBERAÇÃO DE VERBAS SEM PRÉVIA LICITAÇÃO. FRAUDE EM PROCESSOS LICITATÓRIOS. DESNECESSIDADE DE LESÃO PATRIMONIAL AO ERÁRIO PARA CARACTERIZAÇAO DE ATO DE IMPROBIDADE ADMINISTRATIVA QUE VIOLE PRINCÍPIOS ADMINISTRATIVOS.
+    1. O STF entendeu, na Reclamação n. 2.138, que os agentes políticos, por serem regidos por normas especiais de responsabilidade, não respondem por improbidade administrativa com base na Lei 8.429/92, mas, apenas, por crime de responsabilidade em ação que somente pode ser proposta perante a Corte, nos termos do art. 102, I, c, da CF.
+    2. A decisão proferida na Reclamação n. 2.138, contudo, não possui efeito vinculante nem eficácia erga omnes, não se estendendo a quem não foi parte naquele processo, uma vez que não tem os mesmos efeitos das ações constitucionais de controle concentrado de constitucionalidade.
+    3. Os Prefeitos Municipais, ainda que sejam agentes políticos, estão sujeitos à Lei de Improbidade Administrativa, conforme o disposto no art. 2º dessa norma, e nos artigos 15, V, e 37, § 4º, da Constituição Federal. Também estão sujeitos à ação penal por crime de responsabilidade, na forma do Decreto-Lei nº. 201/67, em decorrência do mesmo fato. Precedentes do STJ e deste Tribunal.
+    4. Configura ato de improbidade administrativa, previsto no art. 9º, X e XI, da Lei nº 8.429/92, a vantagem econômica, de qualquer natureza, direta ou indiretamente, para omitir ato de ofício, providência ou declaração a que esteja obrigado.
+    5. Configura ato de improbidade administrativa, previsto no art. 10, I e IX, da Lei nº 8.429/92, providenciar o pagamento a pessoas que prestavam serviços de forma irregular e ordenar despesas relacionadas à obra não realizada, porquanto foram liberadas verbas públicas sem a estrita observância das normas pertinentes ao concurso público e ao processo licitatório.
+    6. Configura ato de improbidade administrativa, previsto no art. 11, I, da Lei nº 8.429/92, contribuir para fraudar licitação.
+    7. Para a configuração do ato de improbidade administrativa que importe violação a princípios administrativos, previsto no art. 11 da Lei 8.429/92, não é necessária a prova da lesão ao erário público, pois basta a simples ilicitude ou imoralidade administrativa para restar configurado o ato de improbidade. Precedente do STJ (RESP 884083/PR).
+    8. As provas carreadas aos autos demonstram os atos de improbidade administrativa, acarretando a aplicação indevida e o desvio de recursos do FUNDEF.
+    9. Recurso de apelação não provido.
+    Opostos embargos de declaração, foram rejeitados.
+    Narra o recorrente que o Ministério Público Federal ajuizara ação civil por ato de improbidade administrativa, com sentença de procedência dos pedidos mantida em acórdão do TRF da 1ª Região, para condenar o ex-Prefeito de Eldorado dos Carajás/PA nas sanções dos arts. 9º, X e XI, 10 e 11, I, da Lei nº 8.429/92.
+    No recurso extraordinário, sustenta, em síntese, ter havido (...) clara ocorrência de bis in idem, porque as condutas atribuídas ao recorrente devem ser julgadas somente sob o manto da Lei de Responsabilidade (Dec-Lei nº 201/67), não se submetendo aos agentes políticos a lei de improbidade. Aduz, ainda, ofensa aos arts. 5º, II, XXXV, LIV e LV, da Constituição da República.
+    Apresenta preliminar formal e fundamentada de repercussão geral, na forma do art. 543-A, § 2º, do CPC.
+    2. Presentes os requisitos formais de admissibilidade, conheço do agravo e passo à análise do recurso extraordinário.
+    A questão suscitada no recurso versa sobre a possibilidade de processamento e julgamento de prefeitos, por atos de improbidade administrativa, com fundamento na Lei nº 8.429/92.
+    Não se desconhece que esta Corte, no julgamento da Rcl nº 2.138 (Rel. Min. NELSON JOBIM, Plenário, DJe de 18.4.2008, Ementário nº 2315-1), decidiu haver distinção entre o regime de responsabilidade dos agentes políticos e o dos demais agentes públicos.
+    Julgo, todavia, ser, mais que oportuna, necessária deliberação desta Corte sobre a possibilidade de extensão dos fundamentos adotados no precedente ao caso de que ora se cuida, porquanto cada uma dessas causas versa sobre autoridades públicas diferentes (Ministros de Estado e Prefeitos), normas específicas de regência dos crimes de responsabilidade (Lei nº 1.079/1950 e Decreto-Lei nº 201/1967) e regramento constitucional próprio de cada autoridade. E tem sido frequentes recursos acerca da mesma matéria, de intuitivo interesse político e social.
+    Ademais, ressalto o fato relevante de que a Rcl nº 2.138 foi decidida por escassa maioria de apenas um voto, sem que cinco dos atuais Ministros, AYRES BRITTO, RICARDO LEWANDOWSKI, DIAS TOFFOLI, LUIZ FUX e ROSA WEBER, tenham votado sobre o mérito, em razão de já o terem feito os antecessores.
+    A questão, portanto, transcende os limites subjetivos da causa, apresentando relevância política, jurídica e social, de modo que sua decisão produzirá inevitável repercussão de ordem geral.
+    3. Ante o exposto, considero presente a repercussão geral da questão. “
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 10 de setembro de 2012.
+Ministra Rosa Weber
+Relatora
