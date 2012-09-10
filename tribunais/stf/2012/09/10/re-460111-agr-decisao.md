@@ -1,0 +1,30 @@
+DECISÃO: Com base no disposto no art. 557, § 1º, do Código de Processo Civil, e no art. 317, § 2º, do RISTF, reconsidero a decisão de fls. 139-141, tornando-a sem efeito, e, em consequência, julgo prejudicado o recurso de fls. 144-145.
+    Passo ao reexame do recurso extraordinário.
+    Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto contra acórdão, prolatado pelo Tribunal de Justiça do Distrito Federal, cuja ementa possui o seguinte teor:
+    “TRIBUTÁRIO - CONSTITUCIONAL - SERVIDOR DA CLDF - PRELIMINARES - INADEQUAÇÃO DA VIA MANDAMENTAL - AUSÊNCIA DOS PRESSUPOSTOS - IMPOSSIBILIDADE JURÍDICA DO PEDIDO - REJEIÇÃO - CONTRIBUIÇÃO PREVIDENCIÁRIA - ALÍQUOTA MAJORADA - IMPOSSIBILIDADE - NECESSIDADE DE LEI LOCAL - LEI DISTRITAL Nº 260/92 - NÃO RECEPÇÃO PELA LODF - EXIGÊNCIA DE REGULAMENTAÇÃO.
+    - A aplicação da legislação federal no âmbito local não pode prevalecer por mera determinação administrativa, eis que não se permite a cobrança que se trata, senão em forma de lei, como faz certo a CF em seu art. 195, § 6º. Com referência, ainda, à aplicação da Lei nº 260/92. Assevera-se que esta não veio a ser implementada no âmbito do DF, remanescendo a aplicabilidade da legislação anterior.
+    - Segurança concedida, com efeitos financeiros a partir da lesão. Decisão por maioria nessa parte.” (fls. 100)
+    Alega-se violação do disposto nos arts. 62, caput e parágrafo único; 146, III, a; 149, parágrafo único; 195, caput e § 6º, da Constituição federal.
+    Decido.
+    No que se refere aos servidores do Distrito Federal, ambas as Turmas desta Corte vêm decidindo pela aplicabilidade a eles da Medida Provisória 560/1994 e reedições. Confiram-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. MP 560/94 E REEDIÇÕES SUCESSIVAS. PRAZO NONAGESIMAL. TERMO INICIAL.
+    1. O termo a quo do prazo de anterioridade previsto no artigo 195, § 6º, da Constituição do Brasil, flui a partir da publicação da medida provisória, que não perde a eficácia se acaso não convertida em lei, desde que no prazo de trinta dias da sua vigência seja editado outro provimento da mesma espécie. Precedente.
+    2. Legislação federal. Aplicação no âmbito do Distrito Federal ex vi da Lei Distrital n. 119/90 dispondo sobre o regime jurídico dos servidores distritais, por remissão às disposições do Regime Jurídico dos Servidores Públicos Federais, até que lei distrital específica venha disciplinar a matéria.
+    Agravo regimental não provido.” (RE 382.880-AgR, rel. min. Eros Grau, DJ de 08.04.2005)
+    “CONSTITUCIONAL. TRIBUTÁRIO. SERVIDOR PÚBLICO. CONTRIBUIÇÕES: ALÍQUOTAS PROGRESSIVAS. Med. Prov. 560/94.
+    I. - Constitucionalidade do sistema de alíquotas progressivas da contribuição social do servidor público, objeto da Med. Prov. 560/94 e posteriores reedições, respeitado o princípio da anterioridade nonagesimal (C.F., art. 195, § 6º). É dizer, a partir da Med. Prov. 560, de 26.7.94, será observado o princípio da vacatio legis de noventa dias.
+    II. - Aplicabilidade aos servidores do Distrito Federal.
+    III. - Precedentes do STF.
+    IV. - Agravo não provido.” (RE 430.353-AgR, rel. min. Carlos Velloso, DJ de 22.10.2004)
+    Quanto à possibilidade de as contribuições sociais serem instituídas mediante medida provisória, esta Corte em diversas oportunidades já se posicionou em sentido afirmativo. Confira-se, a respeito, o decidido no RE 197.790 (rel. min. Ilmar Galvão) e no RE 181.664 (red. para o acórdão min. Ilmar Galvão).
+    No que tange especificamente ao tema ora em exame, o Plenário desta Corte, no julgamento da ADI 1.135 (red. para o acórdão min. Sepúlveda Pertence, DJ 05.12.1997), assim decidiu:
+    “Previdência Social: contribuição social do servidor público: restabelecimento do sistema de alíquotas progressivas pela MProv. 560, de 26.7.94, e suas sucessivas reedições, com vigência retroativa a 1/7/94 quando cessara à da L. 8.688/93, que inicialmente havia instituído: violação, no ponto, pela MProv. 560/94 e suas reedições, da regra de anterioridade mitigada do art. 195, § 6º, da Constituição; conseqüente inconstitucionalidade da mencionada regra de vigência que, dada a solução de continuidade ocorrida, independe da existência ou não de majoração das alíquotas em relação àquelas fixadas na lei cuja vigência já se exaurira.”
+    Nessa ação direta de inconstitucionalidade, com eficácia erga omnes inclusive para o Supremo Tribunal Federal, esta Corte entendeu que a MP 560/1994 reviveu constitucionalmente a contribuição social dos servidores públicos ao estabelecer nova tabela progressiva de alíquotas, o que valeu pela própria reinstituição do tributo. Deve, portanto, ser observada a regra da anterioridade mitigada do art. 195, § 6º, da Constituição federal, o que implica dizer que essa contribuição, com base na referida medida provisória e suas sucessivas reedições, só pode ser exigida após o decurso de noventa dias da data de sua publicação.
+    Por outro lado, no julgamento do RE 232.896 (rel. min. Carlos Velloso), o Pleno acentuou que “não perde eficácia a medida provisória, com força de lei, não apreciada pelo Congresso Nacional, mas reeditada, por meio de nova medida provisória, dentro de seu prazo de validade de trinta dias” (RTJ 170/993).
+    Observo que o período de noventa dias para o atendimento da exigência da anterioridade mitigada do art. 195, § 6º, da Constituição federal, contado a partir da Medida Provisória 560, de julho de 1994 - contagem essa que prosseguiu no período de vigência das medidas provisórias que a reeditaram -, já de há muito havia fluído por ocasião da impetração do presente writ, em maio de 1998, não se destinando o mandado de segurança à restituição do recolhimento efetuado anteriormente ao momento da impetração.
+    Do exposto, dou provimento ao recurso extraordinário para denegar a segurança.
+    Custas ex lege. Sem honorários (Súmula 512/STF).
+    Publique-se.
+    Brasília, 10 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
