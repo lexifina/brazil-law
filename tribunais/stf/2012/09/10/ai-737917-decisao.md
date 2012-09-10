@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Klabin S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 146, inciso III e 150, inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Regional Federal da 3ª Região, assim ementado:
+    “DIREITO CONSTITUCIONAL. TRIBUTÁRIO. JULGAMENTO ULTRA PETITA. CSL. ARTIGO 41 DO DECRETO Nº 332/91. DIFERENÇA DE CORREÇÃO MONETÁRIA. BTNF. IPC. BASE DE CÁLCULO DA CONTRIBUIÇÃO SOCIAL. INEXISTÊNCIA DE INOVAÇÃO À ORDEM LEGAL. REGULAMENTAÇÃO CONVERGENTE COM A LEI Nº 8.200/91. BENEFÍCIO OU FAVOR LEGAL.
+    1. Não pode prevalecer a r. sentença, na parte em que apreciou o pedido em extensão maior do que aquela contida na inicial, tendo em vista o princípio da congruência.
+    2. Sedimentada, pela Suprema Corte, a interpretação no sentido de que cabe à lei definir os indexadores fiscais, não tendo o contribuinte, a partir dos conceitos de renda ou lucro, direito à inflação real, por estimativa econômica e sem previsão legal, para a correção monetária das demonstrações financeiras. A previsão pela Lei nº 8.200/91 do direito à dedução, na apuração do lucro real, da diferença de correção monetária, no ano-base de 1990, entre a variação do IPC e do BTNF, configura exclusivamente benefício fiscal, que pode ser limitado pela lei, tanto em termos de prazo, percentual, como quanto ao tributo em que aplicável para efeito de apuração da base de cálculo.
+    3. A regra do artigo 41 do Decreto nº 332/91 não padece de vício, como apontado, pois “a Lei nº 8.200/91 só permite, relativamente à apuração da CSL, a correção monetária da conta “Ativo Permanente”, excluindo-a de qualquer outra demonstração financeira.” (RESP nº 386.908, Rel. Min. CASTRO MEIRA).
+    4. Inexistente o indébito fiscal, resta prejudicado o pedido de compensação.
+    5. Em face da sucumbência, cabe condenar a autora em custas e verba honorária, esta fixada conforme os critérios do § 4º do artigo 20 do Código de Processo Civil, e a jurisprudência uniforme da Turma.
+    6. Precedentes”.
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 11/1/06, conforme expresso na certidão de folha 235, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, haja vista que para acolher a pretensão da agravante e ultrapassar o entendimento do Tribunal a quo, serio mister o prévio reexame da legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Nesse sentido, anote-se:
+    “TRIBUTÁRIO. IMPOSTO SOBRE O LUCRO LÍQUIDO – ILL. CONSTITUCIONALIDADE. INOVAÇÃO DE MATÉRIA EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. COMPATIBILIDADE DO DECRETO 332/91 COM A LEI 8.200/91. CONTROVÉRSIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - É incabível a inovação de fundamento em agravo regimental, porquanto a matéria arguida não foi suscitada no recurso extraordinário tampouco foi debatida no Tribunal de origem. II - A questão referente à suposta incompatibilidade do Decreto 332/91 com as disposições da Lei 8.200/91 não possui natureza constitucional, porquanto depende da análise do cotejo da norma regulamentadora com a lei ordinária, a cujo exame não se presta o recurso extraordinário. III - Agravo regimental improvido” (RE nº 554.025/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/2/11).
+    Nesse mesmo sentido:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL: QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356-STF. TRIBUTÁRIO. CORREÇÃO MONETÁRIA DAS DEMONSTRAÇÕES FINANCEIRAS. Art. 3º, I, da Lei 8.200/91, redação do art. 11 da Lei 8.682/93. I. - Questão constitucional posta no RE não prequestionada no acórdão. Incidência das Súmulas 282 e 356-STF. II. - Constitucionalidade do art. 3º, I, da Lei 8.200/91, redação do art. 11 da Lei 8.682/93: RE 201.465/MG, Plenário, "DJ" de 10.5.2002. III. - Questão referente à suposta inconstitucionalidade do Decreto 332/91, se existente, seria indireta ou reflexa, não ensejando, portanto, o cabimento do recurso extraordinário. Precedentes. IV. - Agravo não provido”. (AI nº 495.415/RJ-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 18/10/05).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 10 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
