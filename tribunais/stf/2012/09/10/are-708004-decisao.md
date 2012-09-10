@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS – DANO MORAL QUE DECORRE DA PRÓPRIA SITUAÇÃO NARRADA, PRESCINDINDO DE PROVA CONCRETA DO DANO – QUANTUM – DESPROPORCIONAL – SENTENÇA MANTIDA EM PARTE PELOS PRÓPRIOS FUNDAMENTOS – RECURSO CONHECIDO E PARCIALMENTE PROVIDO. Restou caracterizada a responsabilidade da instituição financeira, vez que a recorrida teve seu cheque devolvido sob alegação de que havia divergência ou insuficiência de assinatura, mesmo ela tendo se dirigido a uma das agências da recorrente e regularizado sua assinatura, no qual foi informada por uma funcionária que poderia utilizar-se do mesmo cheque para efetuar pagamentos. Referido cheque foi novamente devolvido pelo mesmo motivo, trazendo prejuízo à mesma, restando comprovada a falha na prestação de serviço. A recorrente, por sua vez, não compareceu à audiência de instrução e julgamento. Sendo assim, é revel e confessa pelo seu silêncio. Em se tratando de dano moral, neste caso, é despicienda a sua comprovação, uma vez que decorre da própria situação fática narrada, ao importar em evidente transtorno e constrangimento na vida da vítima. Com relação ao quantum indenizatório, entendo assistir razão à recorrente, devendo o mesmo ser minorado para a quantia de R$ 5.450,00, sendo assim respeitados o princípio da razoabilidade, vedando ainda o enriquecimento sem causa da recorrida” (fls. 109).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, V e X, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “faltou razoabilidade e ponderação dos magistrados que modificaram a sentença a quo para o montante de R$ 5.450,00 a título de danos morais, e tal valor ainda é nitidamente exorbitante” (fls. 113v).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico que o valor fixado a título de condenação por danos morais resultou do exame dos elementos fático-probatórios constantes dos autos pelas instâncias originárias, que não podem ser revistas em sede de recurso extraordinário, nos termos do Enunciado n. 279 da Súmula do STF.
+    Nesse sentido, os seguintes precedentes: AI-AgR 709.133, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 6.2.2009 e RE-AgR 563.802, Rel. Min. Ellen Gracie, Segunda Turma, DJe 3.4.2009, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. DANOS MORAIS. REDUÇÃO DO VALOR DA CONDENAÇÃO. ART. 5º V e X CF/88. 1. É inadmissível o recurso extraordinário no qual, a pretexto de ofensa a princípios constitucionais, pretende-se a análise de legislação infraconstitucional. Hipótese de contrariedade indireta ou reflexa ao art. 5º, V e X da Constituição Federal. 2. Agravo regimental não provido”.
+    Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 10 de setembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
