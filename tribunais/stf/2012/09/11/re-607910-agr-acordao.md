@@ -1,0 +1,584 @@
+Supremo Tribunal Federal
+DJe 25/09/2012
+Inteiro Teor do Acórdão - Página 1 de 13
+
+Ementa e Acórdão
+
+11/09/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 607.910 CEARÁ
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO CEARÁ
+: PROCURADOR-GERAL DO ESTADO DO CEARÁ
+: WILKSON SANTOS DA SILVA
+: ANTÔNIO DELANO SOARES CRUZ
+EMENTA
+
+DIREITO ADMINISTRATIVO. POLICIAL MILITAR. PRETERIÇÃO
+DE PROMOÇÃO. CONTROLE DE LEGALIDADE DOS ATOS
+ADMINISTRATIVOS PELO PODER JUDICIÁRIO. PRINCÍPIO DA
+SEPARAÇÃO DE PODERES. OFENSA NÃO CONFIGURADA.
+IMPOSSIBILIDADE DE INOVAÇÃO PROCESSUAL.
+O controle de legalidade dos atos administrativos pelo Poder
+Judiciário não ofende o princípio da separação dos poderes. Precedentes.
+Tese não suscitada no recurso extraordinário, a configurar inovação
+processual. Inviabilidade de apreciação em agravo regimental.
+Precedentes.
+Agravo regimental conhecido e não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os
+Ministros do Supremo Tribunal Federal, em Primeira Turma, sob a
+Presidência do Senhor Ministro Dias Toffoli, na conformidade da ata de
+julgamento e das notas taquigráficas, por unanimidade de votos, em
+negar provimento ao agravo regimental, nos termos do voto da relatora.
+Brasília, 11 de setembro de 2012.
+
+Ministra Rosa Weber
+Relatora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774982.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+11/09/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 607.910 CEARÁ
+RELATORA
+AGTE.(S)
+PROC.(A/S)(ES)
+AGDO.(A/S)
+ADV.(A/S)
+
+: MIN. ROSA WEBER
+: ESTADO DO CEARÁ
+: PROCURADOR-GERAL DO ESTADO DO CEARÁ
+: WILKSON SANTOS DA SILVA
+: ANTÔNIO DELANO SOARES CRUZ
+
+RELATÓRIO
+A Senhora Ministra Rosa Weber (Relatora): Contra a decisão
+monocrática pela qual negado seguimento ao recurso extraordinário,
+forte na jurisprudência dominante desta Corte, maneja agravo regimental
+o Estado do Ceará.
+O agravante aduz que, “in casu, a lei nº 226/48 disciplinava a
+promoção dos policiais militares” (fl. 210) e que “sobreveio a lei nº
+10.072/76 regulamentando os critérios e requisitos de promoção de
+maneira diversa” (fl. 211). Narra que, “apesar de a lei nº 10.072/76 não ter
+sido expressa quanto à revogação, é inegável que, na forma do § 1º do art.
+2º da LINB, a norma que regule inteiramente a matéria de que tratava a
+lei anterior, também a revoga” (fl. 211). Inova ao alegar a existência de
+“conflito entre lei local (lei nº 226/48) e lei federal (Lei de Introdução ao
+Código Civil: Decreto-lei nº 4.657/42) apto a ensejar a interposição de
+recurso extraordinário” (fl. 211). Insiste em que seria patente a “violação
+do art. 2º da Constituição Federal, posto que o recorrido pleiteia suposta
+promoção, quando apenas poderia requerer seu ingresso no quadro de
+acesso da Corporação, vez que não cabe ao Poder Judiciário interferir na
+seara executiva” (fl. 212).
+Acórdão do Tribunal de origem publicado em 23.7.2004 (fl. 144).
+Substituição do Relator à fl. 197 (art. 38 do RISTF).
+É o relatório.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774983.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+11/09/2012
+
+PRIMEIRA TURMA
+
+AG.REG. NO RECURSO EXTRAORDINÁRIO 607.910 CEARÁ
+
+VOTO
+A Senhora Ministra Rosa Weber (Relatora): Preenchidos os
+pressupostos genéricos, conheço do agravo regimental e passo ao exame
+do mérito.
+Transcrevo o teor da decisão que desafiou o agravo:
+“Vistos etc.
+O Tribunal de Justiça do Estado do Ceará, pelo acórdão
+das fls. 136-43, reconheceu o direito do recorrido – Wilkson
+Santos da Silva – ser promovido ao posto de 3º Sargento da
+Policia Militar do Estado do Ceará.
+O Estado do Ceará interpõe recurso extraordinário (fls.
+152-9), com base no art. 102, III, “a”, da Lei Maior. Alega afronta
+ao art. 2º da CF. Assevera que a decisão recorrida afronta o
+princípio da separação de poderes, porquanto “reconheceu a
+competência do Poder Judiciário para decidir acerca da conveniência e
+oportunidade para promoção de praças militares, quando tal matéria,
+como é cediço, é da competência privativa do Poder Executivo
+competente” (fl. 155).
+Sem contrarrazões (fl. 167).
+Despacho positivo de admissibilidade (fls. 168-70).
+Substituição do Relator à fl. 197 (art. 38 do RISTF).
+É o relatório.
+Decido.
+Preenchidos os pressupostos genéricos do extraordinário,
+passo ao exame do recurso.
+Para tanto, transcrevo as razões de decidir adotadas pela
+Corte de origem, quando do exame da apelação veiculada pelo
+ora recorrente (fls. 136-42):
+‘Não merece acolhida a remessa oficial,
+tampouco o recurso voluntário, porquanto os
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+RE 607.910 AGR / CE
+argumentos expendidos pelo apelante restam
+destituídos de robustez para modificar a sentença
+vergastada, vez que constatada lesão a direito
+líquido e certo do apelado, por ato abusivo e ilegal
+de autoridade pública.
+Como se depreende dos documentos que
+compõem o processo, o impetrante, ora apelado, fora
+aprovado por concurso público, integrando o quadro
+de especialista da Polícia Militar do Estado do Ceará.
+Apesar
+de
+reiteradas
+requisições
+administrativas para que se viabilizassem suas
+promoções, o recorrido viu-se preterido em todas
+elas, apesar de implementados os requisitos
+impostos pela legislação pertinente.
+Com efeito, a Lei N° 226/48 ainda regula o caso
+dos presentes fólios, haja vista que a Lei N°
+10.072/76, posterior àquela, não a revoga
+expressamente, tampouco, de modo tácito, vez que
+esta não regula in totum a matéria regida por aquela,
+nem com ela se queda incompatível.
+Inscrito está na Lei de Introdução do Código
+Civil, Decreto-Lei N° 4.657, de 4 de setembro de
+1942, em seu art. 2°, §1°:
+‘A lei posterior revoga a anterior quando
+expressamente o declare, quando seja com ela
+incompatível ou quando regula inteiramente a
+matéria de que tratava a lei anterior.’
+Por outro lado, resta equivocado o argumento
+de que a promoção implementada, via Poder
+Judiciário, fere de morte o princípio da separação de
+poderes.
+Não se pode aceitar que este princípio sonhado
+por Montesquieu e Locke, se quede a albergar
+eventuais arbitrariedades das autoridades públicas,
+quando deveriam ser estas as primeiras a cumprirem
+a lei em todas as suas nuanças.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+RE 607.910 AGR / CE
+O princípio constitucional da separação de
+poderes não é absoluto, como nenhum outro o é;
+tendo que se conformar com toda a ordem
+constitucional, regendo-se pela proporcionalidade e
+razoabilidade.
+Deve-se,
+sempre,
+buscar
+a
+interpretação constitucional que empreenda a maior
+eficácia a todos os princípios, a maior harmonização,
+não sendo possível, em nenhuma hipótese, negar
+totalmente a aplicação de qualquer deles.
+Ora, também está consagrado na LEX
+MAXIMA, em seu art. 5°, ao tratar dos direitos e das
+garantias fundamentais que:
+‘XXXV— A lei não excluirá da apreciação do
+Poder Judiciário lesão ou ameaça a direito’
+A respeito disso, ensina-nos douto propedeuta
+conterrâneo:
+‘Havendo colisões de direitos fundamentais em
+um caso concreto, deve-se referi-los à noção de
+dignidade da pessoa humana, pois nela todos os
+princípios encontrão a sua harmonização prática,
+descobrindo-se uma solução que considera a
+existência de todos direitos fundamentais, ao mesmo
+tempo que se procede a uma hierarquização entre
+eles, em consonância com a compreensão social do
+que é mais relevante para alcançar o fim coletivo e a
+dignidade da pessoa humana. ‘(Glauco Barreira
+Magalhães Filho, in Hermenêutica e Unidade
+Axiológica da Constituição, Ed. Mandamentos, Belo
+Horizonte, 2001, pg. 229)
+Com efeito, conforme o preceituado na LICC,
+em seu art. 5°, a aplicação da lei deverá atender aos
+fins sociais a que visa, assim como à consecução do
+bem comum.
+Clama o apelante pela inadequação do
+mandato de segurança para realizar a promoção do
+policial militar, sob o supedâneo de que aquele é ato
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+RE 607.910 AGR / CE
+discricionário, dependendo, sempre, da averiguação,
+pela administração policial, de sua oportunidade e
+conveniência.
+Ora, o apelante olvida que a Carta Magna
+consagrou, ainda, entre os mais altaneiros princípios
+constitucionais, aos quais denominou o legislador
+constituinte originário ‘Direitos e Garantias
+Fundamentais’, tal sua importância, a possibilidade
+de concessão de mandato de segurança, in litteris:
+‘LXIX — conceder-se-á mandato de segurança
+para proteger direito líquido e certo, não amparado
+por habeas corpus ou habeas data, quando o
+responsável pela ilegalidade ou abuso de poder for
+autoridade pública ou agente de pessoa jurídica no
+exercício de atribuições do Poder Público.’
+Acerca do assunto, importante é a lição de
+insigne administrativista pátrio:
+‘Direito líquido e certo é o que se apresenta
+manifesto na sua existência, delimitado na sua
+extensão e apto a ser exercitado no momento da
+impetração’(Hely Lopes Meirelles, in Direito
+Administrativo Brasileiro, 19ª ed., Ed. Malheiros, São
+Paulo, 1990, pg.614)
+Mais fundamente esclarecem-nos os juristas
+Celso Ribeiro Bastos e Ives Gandra Martins, in verbis:
+‘A solução correta, sem dúvida, é a que faz
+residir o caráter de líquido e certo não na vontade
+normativa, mas nos fatos invocados pelo impetrante
+como aptos a produzirem os efeitos colimados. Mais
+precisamente ainda, na própria materialidade ou
+existência fática da situação jurídica.’ (in
+Comentários à Constituição do Brasil, 2° vol., Ed.
+Saraiva, São Paulo, 1989, pg. 328)
+Para melhor orientação deste julgamento,
+repete-se, adiante, parte do decisum recorrido, de cujo
+teor prontamente se infere a liquidez e certeza do
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+RE 607.910 AGR / CE
+direito do autor:
+‘O impetrante faz comprovação documental de
+haver sido aprovado em curso relacionado à sua
+especialidade, curso realizado nos exatos termos do
+que estabelece a legislação pertinente, circunstância
+que o teria habilitado às promoções subsequentes de
+praça à 3° Sargento PM.’ (fl. 75).
+Na verdade, o ato atacado malferiu,
+indubitavelmente, o direito líquido e certo do
+impetrante, ora apelado, constituindo-se, desta feita,
+em abuso por parte da autoridade pública
+impetrada, ora apelante, cuja atitude, além de
+desmotivada, mostra-se irrazoável e contrária às
+regras previstas pela legislação pertinente.
+Restam vulnerados, desta forma, princípios
+constitucionais norteadores e delimitadores da
+atividade administrativa, indispensáveis para a
+validade do ato, além dos princípios da legalidade e
+da isonomia, haja vista a invocação que o apelado faz
+de casos semelhantes ao seu (doc. de fls. 9, 10, 37 a
+45).
+A ilegalidade do malsinado ato revela-se,
+notoriamente configurada, quando lembramos
+acórdãos deste Colendo Tribunal, cuja jurisprudência
+é rica em casos análogos, senão vejamos:
+‘EMENTA: Militares pertencentes aos quadros
+da Polícia Militar do Ceará — Curso de
+especialização realizado na forma do art.169, da lei
+226 de 1948. Direito adquirido à promoção
+implementadas as condições exigidas pela lei vigente
+ao tempo da realização do curso.(LICC art. 6" e
+Constituição Federal art. 153, §39’.(Apelação Cível
+17.170, Relator: Fancisco Nogueira Sales.).
+E ainda:
+‘EMENTA: Preenchidos os requisitos da lei, isto
+é, unia vez aprovado em concurso e tendo realizado
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+RE 607.910 AGR / CE
+curso de especialização, faz jus o militar à promoção
+sempre que existir vaga, mesmo na hipótese de haver
+mudança no disciplinamento jurídico, ante à
+evidência do direito adquirido’.(Apelação Cível
+20.798, Relator: Carlos de Amorim)
+Ensina nossa melhor doutrina:
+‘Se a Administração, no uso de seu poder
+discricionário, não atende ao fim legal, a que está
+obrigada, entende-se que abusou do poder’.(Nunes
+Leal, apud Hely Lopes Meirelles, in Direito
+Administrativo Brasileiro, 19a ed., Ed. Malheiros, São
+Paulo, 1990, pg.152).
+E mais:
+‘...a atividade discricionária não dispensa a lei,
+nem se exerce sem ela, enao com observância e
+sujeição a ela’ (Hely Lopes Meirelles, in Direito
+Administrativo Brasileiro, 19a ed., Ed. Malheiros, São
+Paulo, 1990, pg.152).
+A douta Procuradoria Geral de Justiça em
+coerente e esclarecedor parecer de fls. 121/128, assim
+se posicionou ao apreciar o mérito da lide sub studio,
+in litteris:
+‘Conclui-se, assim, que mesmo sendo conferida
+ao agente público, no caso o Comandante da Polícia
+Militar, alguma margem de discricionariedade para
+decidir sobre promoções por antiguidade, deve este,
+orientar-se pelo princípio da razoabilidade,
+conferindo com equilíbrio, sensatez e imparcialidade,
+tratamento isonômico, a todos aqueles que
+implementarem requisitos idênticos’.’
+Nada colhe o recurso.
+O Tribunal de origem decidiu em consonância com a
+jurisprudência do Supremo Tribunal Federal no sentido de que
+o controle da legalidade dos atos dos demais Poderes pelo
+Judiciário não ofende o princípio da separação dos poderes.
+Nesse sentido, o RE 586.319-AgR/CE, 1ª Turma, Rel. Min. Dias
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+RE 607.910 AGR / CE
+Toffoli, unânime, DJe 28.02.2012, que, em caso similar ao ora
+apreciado, ao exame da legalidade de ato de promoção de
+policial militar, afastou a ventilada afronta ao art. 2º da CF.
+Reproduzo trecho do voto condutor:
+‘Por fim, quanto à suposta violação ao art. 2º da
+Carta Magna, a jurisprudência do Supremo Tribunal
+Federal é pacífica no sentido de que o julgamento
+pelo Poder Judiciário da legalidade dos atos dos
+demais Poderes não representa ofensa ao princípio
+da separação dos poderes. Nesse sentido:
+‘AGRAVO REGIMENTAL EM AGRAVO DE
+INSTRUMENTO.
+1.
+SERVIDOR
+PÚBLICO.
+EXONERAÇÃO. NULIDADE DO ATO. AFRONTA
+AO ART. 2º DA MAGNA CARTA DE 1988.
+INEXISTÊNCIA. 2. CONTROVÉRSIA DECIDIDA À
+LUZ DO CONJUNTO FÁTICO-PROBATÓRIO DOS
+AUTOS. 1. É firme no Supremo Tribunal Federal o
+entendimento de que 'o regular exercício da função
+jurisdicional, por isso mesmo, desde que pautado
+pelo respeito à Constituição, não transgride o
+princípio da separação de poderes' (MS 23.452, da
+relatoria do ministro Celso de Mello). 2. Caso em que
+entendimento diverso do adotado pelo Tribunal de
+Justiça do Estado de São Paulo demandaria o
+reexame de fatos e provas constantes dos autos.
+Providência
+vedada
+na
+instância
+recursal
+extraordinária, conforme a Súmula 279/STF. 3.
+Agravo regimental desprovido’ (AI nº 805.121/SPAgR, Segunda Turma, Relator o Ministro Ayres
+Britto, DJe de 21/3/11).
+‘ADMINISTRATIVO. AGRAVO REGIMENTAL
+EM AGRAVO DE INSTRUMENTO. ART. 557 DO
+CPC. APLICABILIDADE. ALEGADA OFENSA AO
+ART. 2º DA CF. ATO ADMINISTRATIVO
+DISCRICIONÁRIO. ILEGALIDADE. CONTROLE
+JUDICIAL. POSSIBILIDADE. APRECIAÇÃO DE
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+RE 607.910 AGR / CE
+FATOS E PROVAS. SÚMULA STF 279. 1. Matéria
+pacificada nesta Corte possibilita ao relator julgá-la
+monocraticamente, nos termos do art. 557 do Código
+de Processo Civil e da jurisprudência iterativa do
+Supremo Tribunal Federal. 2. A apreciação pelo
+Poder Judiciário do ato administrativo discricionário
+tido por ilegal e abusivo não ofende o Princípio da
+Separação dos Poderes. Precedentes. 3. É incabível o
+Recurso Extraordinário nos casos em que se impõe o
+reexame do quadro fático-probatório para apreciar a
+apontada ofensa à Constituição Federal. Incidência
+da Súmula STF 279. 4. Agravo regimental improvido’
+(AI nº 777.502/RS-AgR, Segunda Turma, Relatora a
+Ministra Ellen Gracie, DJe de 25/10/10).
+Anote-se, ainda, o seguinte julgado: RE nº
+609.303/CE, Relatora a Ministra Cármen Lúcia, DJe
+de 10/5/10.’
+Aponto, ainda: RE 609.303/CE, Rel. Min. Cármen Lúcia,
+DJe 10.5.2010; RE 669.451/MG, Rel. Min. Luiz Fux, DJe
+19.3.2012; AI 682.470/SP, Rel. Min. Marco Aurélio, DJe 12.5.2010;
+RE 502.352/RJ, Rel. Min. Ellen Gracie, DJe 07.12.2010; RE
+559.114-AgR/DF, Rel. Min. Ricardo Lewandowski, 1ª Turma,
+DJe 14.4.2011; AI 596.830-AgR/SP, Rel. Min. Dias Toffoli, 1ª
+Turma, DJe 09.3.2012; RE 582.409-AgR/AL, Rel. Min. Gilmar
+Mendes, 2ª Turma, DJe 14.3.2012; e RE 259.335-AgR/RJ, 2ª
+Turma, Rel. Min. Maurício Corrêa, DJ 07.12.2000, este, assim
+ementado:
+‘AGRAVO REGIMENTAL EM RECURSO
+EXTRAORDINÁRIO.
+CONSTITUCIONAL.
+ADMINISTRATIVO. ILEGALIDADE DO ATO QUE
+INDEFERIU O PEDIDO DE REINTEGRAÇÃO DO
+SERVIDOR NO QUADRO DA POLÍCIA MILITAR.
+OFENSA AO PRINCÍPIO DA SEPARAÇÃO DOS
+PODERES. INEXISTÊNCIA.
+1. Ato administrativo vinculado. Indeferimento
+do pedido de reintegração do servidor na
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+RE 607.910 AGR / CE
+Corporação. Ilegalidade por não terem sido
+observados os direitos e garantias individuais
+assegurados pela Constituição Federal.
+2. Reexame da decisão administrativa pelo
+Poder Judiciário. Ofensa ao princípio da separação
+de poderes. Inexistência. A Carta Federal conferiu ao
+Poder Judiciário a função precípua de controlar os
+excessos cometidos em qualquer das esferas
+governamentais, quando estes incidirem em abuso
+de poder ou desvios inconstitucionais. Precedente.
+Agravo regimental não provido.’
+Nego seguimento ao recurso extraordinário (CPC, art.
+557, caput).” (fls. 199-206)
+
+Nada colhe o agravo.
+Tal como afirmado na decisão agravada, a jurisprudência desta Corte
+é firme no sentido de que o controle de legalidade dos atos
+administrativos pelo Poder Judiciário não ofende o princípio da
+separação dos poderes. Cito o AI 596.830-AgR/SP, rel. Min. Dias Toffoli, 1ª
+Turma, por unanimidade, DJe 09.3.2012, em cuja ementa se lê:
+“Agravo regimental no agravo de instrumento. Negativa
+de prestação jurisdicional. Não ocorrência. Princípios da ampla
+defesa e do contraditório. Ofensa reflexa. Prequestionamento.
+Ausência. Controle judicial. Ato administrativo. Possibilidade.
+Precedentes. (…) Não viola o princípio da separação dos
+poderes o controle de legalidade exercido pelo Poder Judiciário
+sobre os atos administrativos. Agravo regimental não provido.”
+
+Ressalto que a alegação deduzida no agravo regimental que não
+constou do RE – existência de conflito entre lei local e lei federal – não
+deve ser apreciada porque, conforme a reiterada jurisprudência desta
+Corte, a parte não pode inovar em sede de agravo regimental. Nesse
+sentido, cito o RE 632.018-AgR/CE, rel. Min. Luiz Fux, 1ª Turma, por
+unanimidade, DJe 16.9.2011, cujo acórdão está assim ementado:
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Voto - MIN. ROSA WEBER
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+RE 607.910 AGR / CE
+
+“AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO. PREVIDENCIÁRIO. MANDADO DE
+SEGURANÇA.
+(...)
+INOVAÇÃO
+PROCESSUAL.
+IMPOSSIBILIDADE. (...) In casu, o recorrente alegou em sua
+petição de agravo regimental teses que não foram debatidas no
+acórdão recorrido, ou mesmo em recurso extraordinário, o que
+configura inovação processual, incabível nesta instância
+suprema. Agravo regimental em recurso extraordinário
+desprovido.”
+
+Agravo regimental conhecido e não provido.
+É como voto.
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2774984.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+AG.REG. NO RECURSO EXTRAORDINÁRIO 607.910
+PROCED. : CEARÁ
+RELATORA : MIN. ROSA WEBER
+AGTE.(S) : ESTADO DO CEARÁ
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DO CEARÁ
+AGDO.(A/S) : WILKSON SANTOS DA SILVA
+ADV.(A/S) : ANTÔNIO DELANO SOARES CRUZ
+Decisão: A Turma negou provimento ao agravo regimental, nos
+termos do voto da Relatora. Unânime. Presidência do Senhor
+Ministro Dias Toffoli. 1ª Turma, 11.9.2012.
+Presidência do Senhor Ministro Dias Toffoli. Presentes à
+Sessão os Senhores Ministros Marco Aurélio, Luiz Fux e Rosa Weber.
+Subprocurador-Geral da República, Dr. Rodrigo Janot.
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 2812741
