@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que, confirmando sentença de 1º grau, julgou improcedente a impugnação ao cumprimento de sentença.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, II, XXXVI e LV, do texto constitucional.
+    Nas razões recursais, sustenta-se violação aos postulados do ato jurídico perfeito, da legalidade, do contraditório e da ampla defesa, na medida em que o banco recorrente não detém legitimidade para proceder ao cancelamento do protesto.
+    Ademais, alega-se que a multa fixada mostra-se abusiva e desproporcional à obrigação principal, pelo que se requer a redução do valor arbitrado.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Confiram-se os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011, este último com acórdão assim ementado:
+    “FINANCEIRO. PRECATÓRIO. MÉTODO DE COBRANÇA DE JUROS. DISCUSSÃO BASEADA NA FORÇA DO TRÂNSITO EM JULGADO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL SUFICIENTE QUE NÃO FOI DEVIDAMENTE ATACADA. AGRAVO REGIMENTAL. Em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que também não se revelará cabível o recurso extraordinário (AI 477.645-AgR, rel. min. Celso de Mello). Excepcionalidade ausente. Caráter infraconstitucional confirmado. Fundamento suficiente e inatacado. Agravo regimental ao qual se nega provimento”.
+    Por fim, verifico que o valor fixado a título de astreintes foi arbitrado pelas instâncias originárias com base na legislação processual (Código de Processo Civil) e no acervo fático-probatório dos autos. A ofensa à Constituição, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Sobre o tema, confiram-se os julgamentos do AI-AgR 826.326, de minha relatoria, 2ª Turma, DJe 24.2.2011, e do AI-AgR 731.718, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 10.11.2010, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes. II – Agravo regimental improvido”.
+    Ante o exposto, nego provimento ao recurso (544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 11 de setembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
