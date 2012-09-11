@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que julgou abusivas as taxas relativas a contrato de financiamento de veículo e determinou a devolução dos valores pagos na forma simples.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se ofensa ao artigo 5º, X, XXXII e XXXVI, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, que “não há que se falar em abusividade, tampouco em devolução de valores, nesta linha a cobrança de tarifas é justificada pela própria natureza da atividade bancária e pela necessidade de se conferir segurança a esta atividade” (fls. 189).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios da legalidade, do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Confiram-se os seguintes precedentes: AI-AgR 819.729, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.4.2011; RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011, este último com acórdão assim ementado:
+    “FINANCEIRO. PRECATÓRIO. MÉTODO DE COBRANÇA DE JUROS. DISCUSSÃO BASEADA NA FORÇA DO TRÂNSITO EM JULGADO DE SENTENÇA. MATÉRIA INFRACONSTITUCIONAL SUFICIENTE QUE NÃO FOI DEVIDAMENTE ATACADA. AGRAVO REGIMENTAL. Em regra, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição, hipóteses em que também não se revelará cabível o recurso extraordinário (AI 477.645-AgR, rel. min. Celso de Mello). Excepcionalidade ausente. Caráter infraconstitucional confirmado. Fundamento suficiente e inatacado. Agravo regimental ao qual se nega provimento”.
+    No tocante à alegação de abusividade das tarifas atreladas ao contrato de financiamento de veículo, ressalto que a controvérsia foi dirimida à luz da legislação infraconstitucional aplicável (CDC) e das cláusulas constantes do contrato firmado entre as partes, o que atrai o óbice constante nas Súmulas 454 e 636 do STF.
+    Cito, a propósito, as seguintes decisões monocráticas proferidas em casos análogos ao dos autos: AI 791.802, Rel. Min. Ayres Britto, DJe 27.9.2010; ARE 665.593, Rel. Min. Luiz Fux, DJe 1.2.2012; ARE 680.287, Rel. Min. Cármen Lúcia, DJe 21.5.2012; ARE 646.293, Rel. Min. Dias Toffoli, DJe 4.8.2011; ARE 643.032, Rel. Min. Cármen Lúcia, DJe 2.6.2011; e ARE 641.149, de minha relatoria, DJe 26.5.2011.
+    Ante o exposto, nego provimento ao recurso (544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 11 de setembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
