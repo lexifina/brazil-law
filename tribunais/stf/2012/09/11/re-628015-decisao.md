@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Instituto de Recursos Humanos do Estado de Pernambuco – IRH/PE interpõe recurso extraordinário contra decisão monocrática do Relator que deu provimento ao recurso de apelação.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que, nos termos do artigo 102, inciso III, alínea “a”, da Constituição Federal, o recurso extraordinário é cabível apenas de decisão proferida em última ou única instância, o que não é o caso dos autos, uma vez que a apelação foi julgada por decisão monocrática do Relator.
+    Assim, este julgado ainda dava margem à interposição de agravo regimental (artigo 557, § 1º, do Código de Processo Civil). Incidência da Súmula nº 281 desta Corte, que assim dispõe, in verbis: “É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada”. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DECISÃO DE ÚLTIMA OU ÚNICA INSTÂNCIA. INEXISTÊNCIA. SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. 1. A decisão capaz de viabilizar o recurso extraordinário é aquela proferida em única ou última instância. Incidência da Súmula n. 281 deste Tribunal. 2. Agravo regimental a que se nega provimento” (AI nº 657.528/RJ-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 28/9/07).
+    “Agravo regimental no agravo de instrumento. Recurso especial julgado por decisão monocrática. Embargos de declaração julgados por decisão colegiada. Complementação da decisão anterior. Não esgotadas as instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. O julgamento colegiado dos embargos declaratórios não tem, em regra, o efeito de substituir, mas sim de aclarar ou complementar a decisão embargada quando há omissão, contradição ou obscuridade. 3. Agravo regimental desprovido” (AI nº 633.489/DF–AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 21/8/09).
+    No mesmo sentido, as seguintes decisões monocráticas: RE nº 431.361/RJ, Relator o Ministro Sepúlveda Pertence, DJ de 6/10/04, e RE nº 463.759/PR, Relatora a Ministra Ellen Gracie, DJ de 3/2/06.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 11 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
