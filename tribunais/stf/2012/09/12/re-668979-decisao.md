@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DIREITO DE GREVE. SERVIDORES ESTATUTÁRIOS. TRÂNSITO EM JULGADO DO PROCESSO QUE GEROU A RECLAMAÇÃO E, EM CONSEQUÊNCIA, O RECURSO EXTRAORDINÁRIO. FALTA DE INTERESSE RECURSAL. PERDA SUPERVENIENTE DE OBJETO.
+    Decisão: Trata-se de recurso extraordinário interposto pela UNIÃO, com fulcro no art. 102, III, a, da Constituição Federal de 1988 em face de v. acórdão prolatado pela Primeira Seção do Superior Tribunal de Justiça, assim ementado:
+    PROCESSO CIVIL. ADMINISTRATIVO. RECLAMAÇÃO CONSTITUCIONAL. GREVE NO SERVIÇO PÚBLICO. DESCONTO NA REMUNERAÇÃO DOS SERVIDORES. MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DE TRIBUNAL. USURPAÇÃO DE COMPETÊNCIA. INEXISTÊNCIA. INCOMPATIBILIDADE COM A PET Nº 7.961/DF. AUSÊNCIA. RECLAMAÇÃO IMPROCEDENTE.
+    1. Cuida-se de reclamação ajuizada contra decisum proferido pelo Tribunal Regional Federal da 4ª Região, o qual deferiu provimento liminar requerido em mandado de segurança, determinando a suspensão dos descontos nos vencimentos dos servidores que participaram de movimento paredista. A ação mandamental foi impetrada pelo Sindicato dos Trabalhadores do Judiciário Federal do Rio Grande do Sul – Sintrajufe/RS contra ato do Desembargador Presidente do Tribunal Regional Federal que determinou administrativamente a realização dos descontos remuneratórios.
+    2. No âmbito do mandado de segurança, a competência é firmada em função da autoridade apontada como coatora e não em virtude da matéria envolvida, nem pela natureza da questão apreciada na causa, à exceção das lides de natureza trabalhista que, após a EC nº 45/04, atraem a competência da Justiça Especializada.
+    3. No caso, o Sintrajufe-RS ataca decisão administrativa exarada pelo Presidente do Tribunal Regional Federal da 4ª Região, exsurgindo a competência do próprio tribunal para analisar o mandado de segurança, a teor do disposto na Súmula 41/STJ, o que afasta a alegativa de usurpação de competência desta Corte Superior.
+    4. Considerando a peculiaridade de tratar-se de mandado de segurança contra ato de membro de tribunal, bem como a ausência de exame acerca da regularidade dos descontos remuneratórios no bojo na Pet nº 7.961/DF, não procede o pleito reclamatório.
+    Ocorre que, diante do que noticiado nas contrarrazões ao extraordinário, sobre a superveniência de trânsito em julgado do mandado de segurança em que proferida a decisão impugnada na reclamação para o STJ e, principalmente, a informação noticiada de acordo entre as partes na via administrativa, intimei a União para se manifestar sobre o interesse no prosseguimento do feito.
+    Em sua manifestação, a União informa não subsistir o interesse no julgamento do recurso consistente no trânsito em julgado do processo que originou a Reclamação objeto deste recurso extraordinário.
+    Ex positis, com base no artigo 21, IX, do Regimento Interno do Supremo Tribunal Federal, declaro extinto o processo, por perda superveniente do objeto.
+    Publique-se.
+    Brasília, 12 de setembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
