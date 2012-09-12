@@ -10,7 +10,7 @@ I - pelos geradores, nos Contratos de Quantidade de Energia;
 II - pelos compradores, com direito de repasse às tarifas dos consumidores finais, nos Contratos de Disponibilidade de Energia.
 § 2º A contratação regulada de que trata o caput deste artigo deverá ser formalizada por meio de contratos bilaterais denominados Contrato de Comercialização de Energia no Ambiente Regulado - CCEAR, celebrados entre cada concessionária ou autorizada de geração e todas as concessionárias, permissionárias e autorizadas do serviço público de distribuição, devendo ser observado o seguinte:
 I - as distribuidoras serão obrigadas a oferecer garantias;
-II - para a energia elétrica proveniente de empreendimentos de geração existentes, início de entrega no ano subseqüente ao da licitação e prazo de suprimento de no mínimo 3 (três) e no máximo 15 (quinze) anos;
+II - para a energia elétrica proveniente de empreendimentos de geração existentes, início de entrega no ano subsequente ao da licitação e prazo de suprimento de no mínimo um e no máximo quinze anos;
 III - para a energia elétrica proveniente de novos empreendimentos de geração, início de entrega no 3º (terceiro) ou no 5º (quinto) ano após a licitação e prazo de suprimento de no mínimo 15 (quinze) e no máximo 35 (trinta e cinco) anos.
 IV - o início da entrega da energia objeto dos CCEARs poderá ser antecipado, mantido o preço e os respectivos critérios de reajuste, com vistas no atendimento à quantidade demandada pelos compradores, cabendo à ANEEL disciplinar os ajustes nos contratos, de acordo com diretrizes do Ministério de Minas e Energia.
 § 3º Excetuam-se do disposto no § 2º deste artigo as licitações de compra das distribuidoras para ajustes, em percentuais a serem definidos pelo Poder Concedente, que não poderão ser superiores a 5% (cinco por cento) de suas cargas, cujo prazo máximo de suprimento será de 2 (dois) anos.
@@ -33,6 +33,7 @@ a) geração distribuída, observados os limites de contratação e de repasse �
 b) usinas que produzam energia elétrica a partir de fontes eólicas, pequenas centrais hidrelétricas e biomassa, enquadradas na primeira etapa do Programa de Incentivo às Fontes Alternativas de Energia Elétrica - PROINFA; ou
 c) Itaipu Binacional; ou
 d) Angra 1 e 2, a partir de 1º de janeiro de 2013.
+e) empreendimentos de geração cuja concessão foi prorrogada ou licitada nos termos da Medida Provisória nº 579, de 11 de setembro de 2012.
 § 9º No processo de licitação pública de geração, as instalações de transmissão de uso exclusivo das usinas a serem licitadas devem ser consideradas como parte dos projetos de geração, não podendo os seus custos ser cobertos pela tarifa de transmissão.
 § 10. A energia elétrica proveniente dos empreendimentos referidos no inciso II do § 8º deste artigo não estará sujeita aos procedimentos licitatórios para contratação regulada previstos neste artigo.
 § 11. As licitações para contratação de energia elétrica de que trata este artigo serão reguladas e realizadas pela Agência Nacional de Energia Elétrica - ANEEL, observado o disposto no art. 3º-A da Lei nº 9.427, de 26 de dezembro de 1996, com a redação dada por esta Lei, que poderá promovê-las diretamente ou por intermédio da Câmara de Comercialização de Energia Elétrica - CCEE.
