@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “CIVIL. USUCAPIÃO. DECLARAÇÃO DE DOMÍNIO.
+    Imóvel usucapiendo que, não obstante encontrar-se em área de fronteira, não se constitui em terra devoluta e, portanto, não integra o rol dos bens pertencentes à União” (fl. 191).
+    Alega a recorrente, em suma, violação do artigo 20, inciso II e § 2º, da Constituição Federal.
+    Sem contrarrazões (fl. 198), o recurso extraordinário (fls. 193 a 197) foi admitido (fl. 199).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Rodrigo Janot Monteiro de Barros, opina “pelo não-conhecimento do recurso extraordinário” (fls. 206 a 208).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    O acórdão recorrido julgou procedente a ação de usucapião de imóvel, sob os seguintes fundamentos:
+    “A sentença recorrida deve ser confirmada.
+    Do parecer da douta representação do Ministério Público Federal nesta instância transcrevo, por adequados ao justo desate da lide, os seguintes tópicos:
+    ‘O recurso não merece prosperar.
+    Destarte, a discussão enfrentada nos autos centra-se no fato de que o imóvel usucapiendo, nada obstante encontrar-se em área de fronteira, não se constitui em terra devoluta, portanto não integra o rol de bens pertencentes à União (art. 20, II, CF).
+    Oportuno mencionar o parecer ministerial de fls. 147/150 ao asseverar que 'para a caracterização de terra devoluta indispensável à defesa das fronteiras, deve haver uma comprovação lógica e fática de que a ocupação de tais áreas, por particulares, possa efetivamente ocasionar qualquer risco aos interesses da União no resguardo e proteção de suas fronteiras'.
+    Nesta mesma linha trilhou a sentença sob combate (fls. 151/156). O estudo desenvolvido pelo magistrado singular demonstra a evolução do tema atinente às terras devolutas em nosso país, bem como sua adesão à tese de qjue a prova de tal característica compete à União demonstrar.
+    No caso, aduz o julgador 'a quo' que o imóvel descrito nos autos está cercado por outros bens particulares, inferindo-se não ser área relevante à defesa das fronteiras necionais.
+    Rechaça-se, ainda, o argumento da União esposado nas razões de recurso atribuindo à apelada o 'onus probandi' quanto à natureza usucapível do bem pretendido, conquanto cediço pertencer àquela a tarefa de se opor à pretensão autoral demonstrando, modo cabal e inequívoco, tratar o imóvel guerreado de terra devoluta (STF, RE n.º 86234/MG, Rel. Min. Moreira Alves, j. 12.11.76).
+    (...)
+    Demais disso, a documentação arregimentada aos autos dá conta de que a autora está na posse do imóvel descrito na exordial, configurando-se assim o requisito temporal exigido pela lei de regência à consubstanciação da usucapião extraordinária, nos termos do art. 551, do Código Civil de 1916, face ao disposto no art. 2.028, do Código Civil vigente.’
+    Ante o exposto, voto por negar provimento à apelação e à remessa "ex officio" (fl. 190) .
+    Com efeito, eventual análise acerca da alegada violação do dispositivo constitucional objeto do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas em sua fundamentação, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 desta Corte.
+    Nesse sentido, citem-se os seguintes precedentes, que bem se adequam à exegese da controvérsia instaurada nestes autos:
+    “AGRAVO REGIMENTAL. USUCAPIÃO. ÁREA LOCALIZADA EM ILHA COSTEIRA. REQUISITOS PREENCHIDOS EM MOMENTO ANTERIOR AO ADVENTO DA CONSTITUIÇÃO DE 1988. ALEGAÇÃO DE DOMÍNIO DA UNIÃO. REEXAME DE FATOS E DE DISPOSITIVOS INFRACONSTITUCIONAIS. ÓBICE Da SÚMULA 279 DO STF. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA FIRMADA NO RE 101.037, rel. min. Francisco Rezek, Tribunal Pleno, DJ 19.04.1985. Agravo regimental a que se nega provimento” (RE nº 460.401/SC-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 4/11/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. USUCAPIÃO URBANO. AQUISIÇÃO. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O acórdão recorrido concluiu que foram atendidos os requisitos exigidos pelo artigo 183 da Constituição do Brasil para a aquisição da propriedade por meio de usucapião urbano. 2. Necessidade de reexamina-se fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE n° 593.566/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/4/09);
+    “CONSTITUCIONAL. CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. USUCAPIÃO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido.” (AI n° 586.219/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 11/9/09);
+    “CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido” (RE nº 534.546/PE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/9/08).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
