@@ -20,4 +20,5 @@ a) assegurar arrecadação de recursos suficientes para a cobertura dos custos d
 b) utilizar sinal locacional visando a assegurar maiores encargos para os agentes que mais onerem o sistema de transmissão;
 XIX - regular o serviço concedido, permitido e autorizado e fiscalizar permanentemente sua prestação.
 XX - definir adicional de tarifas de uso específico das instalações de interligações internacionais para exportação e importação de energia elétrica, visando à modicidade tarifária dos usuários do sistema de transmissão ou distribuição.
+XXI - definir as tarifas das concessionárias de geração hidrelétrica que comercializarem energia no regime de cotas de que trata a Medida Provisória nº 579, de 11 de setembro de 2012.
 Parágrafo único. No exercício da competência prevista nos incisos VIII e IX, a ANEEL deverá articular-se com a Secretaria de Direito Econômico do Ministério da Justiça.
