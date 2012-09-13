@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF10 nº 125, de 6 de julho de 2012
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO REAL. PERDAS NO RECEBIMENTO DE CRÉDITOS. CRÉDITOS VENCIDOS HÁ MAIS DE CINCO ANOS. Não cumpridas as exigências do art. 9º da Lei nº 9.430, de 1996, são indedutíveis na apuração do lucro real as perdas no recebimento de créditos lançadas como despesas, ainda que passados cinco anos do vencimento do crédito. DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, arts. 9º e 10; Decreto nº 3.000, de 1999 (RIR/1999), arts. 249, I, 340 e 341.
+[arquivo anexo: SC SRRF10-Disit nº 125-2012.pdf]
