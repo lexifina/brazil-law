@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. FIXAÇÃO DE ALÍQUOTA DA CONTRIBUIÇÃO AO SAT A PARTIR DE PARÂMETROS ESTABELECIDOS POR REGULAMENTAÇÃO DO CONSELHO NACIONAL DE PREVIDÊNCIA SOCIAL.
+TEMA N.º 554 DA REPERCUSSÃO GERAL DO STF. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos que versa sobre a constitucionalidade do artigo 10 da Lei nº 10.666/2003, regulamentada por Decretos, cujos dispositivos disciplinaram sobre a alteração das alíquotas de contribuição do Seguro Acidente do Trabalho – SAT, atualmente denominado Riscos Ambientais do Trabalho – RAT, em razão do desempenho da empresa a ser aferido de acordo com o Fator Acidentário de Prevenção – FAP. Trata-se do Tema nº 554 da Repercussão Geral do STF, que será submetido à apreciação do Pleno desta Corte, nos autos do RE n.º 684.261, de minha relatoria.
+    In casu, o acórdão recorrido assentou:
+    “TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. SAT. ART. 22, II, DA LEI 8.212/91. ACRÉSCIMO DE 12%, 9% OU 6% PELA LEI Nº 9.732/98 NO ART. 57, §§ 6º E 7º, DA LEI Nº 8.213/91. FAP. LEI Nº 10.666/2003. LEGALIDADE.
+    1. Definida suficientemente na lei de regência a obrigação tributária, a definição do grau de risco de acidentes de trabalho e de atividade preponderante da empresa pelo Poder Executivo não viola o princípio da tipicidade (artigo 97 do CTN).
+    2. O STF, no RE 343.446/SC, concluiu pela constitucionalidade da exação e o STJ declarou a legalidade dos Decretos nº s 612/92, 2.173/97 e 3.048/99, que apenas disciplinam o enquadramento na hipótese de incidência para produzir seus regulares efeitos.
+    3. O acréscimo de 12%, 9% ou 6%, inserido pela Lei nº 9.732/98 no art. 57, §§ 6º e 7º , da Lei nº 8.213/91, conforme a atividade exercida pelo segurado, para financiar a aposentadoria especial após 15, 20 ou 25 anos de contribuição, respectivamente, à alíquota de 1%, 2% ou 3% da contribuição para o SAT, prevista no art. 22, II, da Lei 8.212/91, não ofende preceitos constitucionais nem se afasta dos limites da legalidade.
+    4. Questão pacificada pela Primeira Seção do STJ (EREsp 297215/PR, Rel. Min. Teori Albino Zavascki, DJ 12.09.2005).
+    5. A implementação do FAP pelo art. 10 da Lei nº 10.666/03, que estabeleceu o sujeito passivo da contribuição, sua base de cálculo e possibilidade de redução em até 50% ou majoração em até 100% das alíquotas variáveis de 1%, 2% e 3%, regulada sem inovação pelos arts. 202-A e 307 do Decreto nº 3.048/99, com redação dada pelo Decreto nº 6.957/09, não afronta o princípio da legalidade estrita insculpido no artigo 150, I, da Lei Magna e também não altera os elementos essenciais à instituição ou modificação da obrigação tributária prevista no art. 22, II, da Lei nº 8.212/91.
+    6. Apelação da União e remessa oficial providas”.
+    Destarte, aplicando a decisão Plenária no RE nº 579.431, secundada, a posteriori pelo AI nº 503.064-AgR-AgR, Relator o Ministro CELSO DE MELLO; AI nº 811.626-AgR-AgR, Relator o Ministro RICARDO LEWANDOWSKI, e RE nº 513.473-ED, Relator o Ministro CEZAR PELUSO, determino a devolução dos autos ao Tribunal de origem (artigo 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 13 de setembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
