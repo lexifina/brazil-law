@@ -1,0 +1,43 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. RECURSO EXTRAORDINÁRIO CONTRA FUNDAMENTOS DO ACÓRDÃO RESCINDENDO: INADMISSIBILIDADE. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça do Rio Grande do Sul decidiu:
+    “AÇÃO RESCISÓRIA. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. IRREGULARIDADES APONTADAS PELO TRIBUNAL DE CONTAS DO ESTADO. DESCONSTITUIÇÃO DO ATO DE APOSENTADORIA.
+    AS HIPÓTESES LEGAIS PREVISTAS NO ART. 485 DO CPC SÃO TAXATIVAS, NÃO SE ADMITINDO AMPLIAÇÃO. TAMPOUCO SE PRESTAM PARA ANÁLISE DA JUSTIÇA DA DECISÃO. ERRO DE FATO. INOCORRÊNCIA. O erro de fato, nos termos do § 1º do art. 485, do CPC, se dá quando a sentença admitir um fato inexistente ou quando considerar inexistente um fato efetivamente ocorrido. O não-acolhimento da tese resultante do Processo Administrativo instaurado pelo Município de Nova Boa Vista pela Portaria n. 887/2001 não configura erro de fato. ART. 485, VII, DO CPC. DOCUMENTO NOVO DEVE SER DE TAL ORDEM QUE, SOZINHO, SEJA CAPAZ DE ALTERAR O RESULTADO DA SENTENÇA RESCINDENDA.
+    Existência de pronunciamento judicial no sentido defendido pela parte autora não se enquadra na hipótese legal de documento novo. ART. 485, V, DO CPC. AUSÊNCIA DE QUALQUER INDICAÇÃO DE DISPOSIÇÃO DE LEI QUE ENTENDE VIOLADA.
+    POR MAIORIA, JULGARAM IMPROCEDENTE A AÇÃO RESCISÓRIA, VENCIDO O RELATOR” (fl. 643).
+    Não foram opostos embargos de declaração.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que, “do acórdão que julga improcedente a ação rescisória, não cabe interpor recurso extraordinário com alegação de ofensa a dispositivos que dizem respeito ao mérito da controvérsia” (fl. 781).
+    4. A Agravante sustenta que:
+    “Em razões de decidir entendeu o julgador que o agravante interpôs recurso extraordinário sem ter preenchido as condições exigidas pelo juízo de admissibilidade no que tange à falta de demonstração da repercussão geral.
+    (...)
+    O recurso extraordinário demonstra com clareza a repercussão geral do tema, quanto à validade da legislação existente, no que tange à validação do concurso público como forma de ingresso no funcionalismo público” (fl. 786).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o art. 37, caput e inc. II, da Constituição:
+    “No caso de Maria Juracy ocorreu erro de fato, ao considerar inexistente a prova de que a admissão ao serviço público fora convalidada pelo Município. Assim, considerou inexistente o fato (resultado de convalidação e acatamento pelo Município) do resultado do processo administrativo. Assim, houve engano, desatenção ou omissão do julgador quanto ao fundamento principal da controvérsia, que é a convalidação da situação pelo Município atendendo ao resultado do processo administrativo (ampla defesa – contraditório).
+    Assim, no presente caso, e diante da possibilidade que seja relativizado o inc. II do art. 37 da CF, no sentido de que pela segurança jurídica, boa fé, e longo decurso de tempo, a situação seja convalidada, mesmo quando violadora do inc. II do 37 da CF. Motivo pelo qual merece reparo a decisão que considerou ilegal a admissão em concurso público quando foram preenchidos os requisitos do art. 37, II, e portanto violadora da Constituição Federal, o que autoriza o presente extraordinário.
+    (...)
+    Desta feita, a ação rescisória é via processual idônea para desconstituir julgado com base no referido dispositivo [art. 485, inciso IX, §§ 1º e 2º, do Código de Processo Civil] quando o erro de fato decorre da falha na percepção do julgador no pertinente às provas constantes dos autos originários, e que não tenha havido controvérsia nem pronunciamento judicial sobre esse fato.
+    (...)
+    No presente caso o relator não considerou o resultado do processo administrativo, nem examinou o fato de que o Município acatou a decisão da comissão processante ao convalidar a aposentadoria da servidora, continuando com o pagamento dos salários desta desde Dezembro de 2004 (relatório final da comissão), até o mês de Junho de 2004” (fls. 715-717).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    Este Supremo Tribunal assentou que as alegações referentes ao mérito do julgado rescindendo não viabilizam o recurso extraordinário interposto em ação rescisória.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. 1. A possibilidade de admissão de recurso extraordinário em ação rescisória restringe-se aos fundamentos constantes da própria rescisória, e não aos do acórdão rescindendo. 2. Recurso especial não provido. Ausência de substituição do julgado recorrido. Art. 512 do Código de Processo Civil. Preclusão de eventual matéria constitucional. 3. Alegada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento” (ARE 678.004-AgR, de minha relatoria, Primeira Turma, DJe 24.5.2012, grifei).
+    “Correção monetária de contas do FGTS. Ação rescisória: aplicação da Súmula 343. Recurso extraordinário: descabimento: incidência das Súmulas 282 e 356. 1. Firme a jurisprudência do STF no sentido de que o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda. No caso, o acórdão recorrido decidiu questão prejudicial de inadmissibilidade da ação rescisória, enquanto o RE fundou-se em violação de dispositivo constitucional atinente só mérito da decisão rescindenda. 2. Agravo regimental: motivação da decisão agravada: necessidade de impugnação” (RE 408.409-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 28.5.2004).
+    7. Ademais, o Tribunal de origem decidiu a controvérsia nos termos seguintes:
+    “Na peça inicial, a parte autora alega não ter sido analisado pela Câmara, o resultado do processo administrativo instaurado pelo Município de Nova Boa Vista pela Portaria n. 887/2001, incorrendo, assim, em erro de fato.
+    (...)
+    Outrossim, a ausência de consideração quanto à conclusão do processo administrativo que declarava a validade do ato administrativo, por si só, não autoriza o enquadramento nas hipóteses legais previstas no art. 485 do CPC, as quais, como cediço, são taxativas, não se admitindo ampliação, cumprindo salientar que ‘a má apreciação da prova ou a injustiça da sentença não autorizam o exercício da ação rescisória’” (fls. 647-648).
+    Tem-se, portanto, que o Tribunal a quo analisou o cabimento de ação rescisória e decidiu conforme a legislação processual ordinária, doutrina e jurisprudência correspondentes. Assim, eventual ofensa constitucional, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DA AÇÃO RESCISÓRIA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - É de natureza infraconstitucional o debate acerca dos pressupostos de admissibilidade de ação rescisória. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. Precedentes. II - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. III - Agravo regimental improvido” (RE 655.192-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 5.6.2012).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
