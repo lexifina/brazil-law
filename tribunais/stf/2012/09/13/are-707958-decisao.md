@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. LABOR RURAL. PROVA MATERIAL CORROBORADA COM PROVA TESTEMUNHAL. COMPROVAÇÃO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. REQUISITOS NÃO PREENCHIDOS. AVERBAÇÃO. CONSECTÁRIOS.
+    1. Havendo início de prova documental, corroborada por prova testemunhal, é de se considerar comprovado o exercício da atividade rural.
+    2 O art. 96, V da Lei 8.213/91 determina que o tempo de serviço do segurado trabalhador rural, anterior à data de início da vigência da lei será computado sem que seja necessário o pagamento das contribuições a ele correspondentes, desde que cumprido o período de carência.
+    3. Somando-se os períodos rural e urbano ora reconhecidos com o tempo de serviço reconhecido administrativamente pelo INSS, verifica-se que deverá o INSS tão-somente averbar os interregnos de labor rural e urbano reconhecidos em Juízo, para fins previdenciários.
+    4. Cassada a antecipação da tutela”. (fl. 156)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se ofensa aos artigos 194, II; e 201, I, do texto constitucional.
+    Argumenta-se que o acórdão recorrido afronta a Constituição, “(…) pois não reconhece para fins de aposentadoria por tempo de contribuição os períodos laborados na agricultura anteriores ao tempo de 1991, em virtude de não haver recolhimentos”. (fl. 174)
+    Decido.
+    O recurso não merece prosperar.
+    Verifica-se, na petição de recurso extraordinário, a ausência de preliminar formal e fundamentada de repercussão geral, pressuposto de admissibilidade do recurso (art. 543-A, § 2º, do CPC).
+    Esta Corte, no julgamento do AI-QO 664.567, Rel. Min. Sepúlveda Pertence, Plenário, DJ 6.9.2007, decidiu que o requisito formal da repercussão geral será exigido quando a intimação do acórdão recorrido for posterior a 3.5.2007, data da publicação da Emenda Regimental nº 21 do STF, o que ocorre no presente caso.
+    Ainda que superado esse óbice, melhor sorte não assiste à parte recorrente.
+    O art. 201, § 9º, da Constituição Federal prescreve que, para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na Administração Pública e na atividade privada, tanto rural quanto urbana. Nessa hipótese, preceitua que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei.
+    No caso, o acórdão impugnado consignou o seguinte:
+    “Quanto ao período de 01-11-91 e 31-7-98, impende frisar que a averbação reclama o respectivo aporte contributivo, não podendo o cômputo ser procedido sem que ocorram referidos pagamentos, pois, como afirmado supra, o tempo de serviço rural anterior à vigência da Lei 8.213/91 pode ser computado para a aposentadoria por tempo de serviço, sem recolhimento de contribuições”. (fl. 153v – grifo no original)
+    Desse modo, observo que a decisão recorrida está em consonância com a jurisprudência desta Corte segundo a qual a contagem recíproca do tempo de serviço, para fins de aposentadoria no serviço público, apenas é admitida se comprovado o recolhimento das contribuições previdenciárias referentes ao período. Nesse sentido, AI-AgR 735.130, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 12.4.2011; RE-AgR 600.582, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 21.2.2011; e RE-ED 478.058, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 12.9.2011, cuja ementa dispõe:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. PREVIDENCIÁRIO. TRABALHADOR RURAL. PERÍODO ANTERIOR À EDIÇÃO DA LEI 8.213/1991. CONTAGEM RECÍPROCA. APOSENTADORIA NO SERVIÇO PÚBLICO. ART. 201, § 9º, DA CONSTITUIÇÃO. EXIGÊNCIA DE PRÉVIO RECOLHIMENTO DE CONTRIBUIÇÃO PREVIDENCIÁRA. ALEGAÇÃO DE INCIDÊNCIA DA SÚMULA VINCULANTE 8. INOVAÇÃO DE MATÉRIA EM AGRAVO REGIMENTAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I – Consoante jurisprudência desta Corte, a contagem recíproca do tempo de serviço rural (CF, art. 201, § 9º), para efeito de aposentadoria no serviço público, pressupõe o recolhimento das contribuições previdenciárias respectivas. Precedentes. II – A questão referente à incidência da Súmula Vinculante 8 não foi examinada no acórdão recorrido, tampouco foi arguida no recurso extraordinário e, desse modo, não pode ser aduzida em agravo regimental. É incabível a inovação de fundamento nesta fase processual. Precedentes. III – Agravo regimental improvido”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
