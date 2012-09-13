@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO NÃO CONFIGURADA. DIREITO PROCESSUAL CIVIL. BENEFÍCIO DE JUSTIÇA GRATUITA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça de Santa Catarina:
+    “AGRAVOS RETIDOS. Interpostos pelo réu. Um contra a decisão concessiva da gratuidade e outro contra aquela que não acolheu preliminar. Este último desprovido, pois a questão se confunde com o mérito. Provido, com observação, o primeiro para revogar a concessão do benefício da assistência judiciária pleiteada após a sentença porque não se comprovou a alteração de situação financeira desde então. Todavia, tendo em vista o fundamento da decisão concessiva no sentido de viabilizar o duplo grau de jurisdição, preserva-se aquele efeito apenas para análise do mérito do recurso, devendo o apelante recolher as custas sob pena de inscrição.
+    RESPONSABILIDADE CIVIL. Indenização por danos morais e materiais decorrentes da queda enquanto o autor participava da festa de aniversário oferecida pelo réu. Ausência de culpa deste. Também, bem afastado o nexo de causalidade entre a conduta e dano, porque foi o autor, exclusivamente, o responsável pelo evento e esse resultado, uma vez que embriagado. Poço localizado em local distante daquele delimitado para a festa, próximo a uma obra, na ocasião sem iluminação ao contrário do espaço do evento e que, naturalmente, não era acessível aos convidados. Risco procurado pela vítima. Inexistência, por parte do anfitrião, do dever de maior cautela, como a de sinalizar uma área restrita, não disponibilizada para os convidados de sua casa, a qual foi, de forma inapropriada, invadida pelo autor. Sentença de improcedência mantida”.
+    3. No recurso extraordinário, a Agravante alega que o Tribunal a quo teria contrariado o art. 5º, caput, inc. II, LIV E LV, e 93, IX, da Constituição da República.
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de repercussão geral declarada pelo Plenário do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    8. Quanto ao mérito, no julgamento do Agravo de Instrumento n. 759.421, Relator o Ministro Cezar Peluso, DJe 13.11.2009, o Supremo Tribunal Federal afirmou a inexistência de repercussão geral da questão debatida nestes autos, por demandar a análise da legislação infraconstitucional, nestes termos:
+    “EMENTA: RECURSO. Extraordinário. Incognoscibilidade. Gratuidade de justiça. Declaração de hipossuficiência. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à declaração de hipossuficiência, para obtenção de gratuidade de justiça, versa sobre matéria infraconstitucional”.
+    Declarada a ausência de repercussão geral, os recursos extraordinários e os agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    9. Nada há, pois, a prover quanto às alegações do Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
