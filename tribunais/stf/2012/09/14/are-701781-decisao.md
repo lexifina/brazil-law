@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. VENCIDO O RELATOR QUE DESCONSTITUÍA DE OFÍCIO A SENTENÇA POR CITRA PETITA. NO MÉRITO. DIANTE DO CASO CONCRETO, VAI AFASTADA A HIPÓTESE DE PRESCRIÇÃO LEVANTADA PELA PARTE RÉ, E, QUANTO AOS DEMAIS PONTOS MERITÓRIOS, VAI MANTIDA A BEM LANÇADA SENTENÇA, INCLUSIVE O QUANTUM INDENIZATÓRIO E VALORES REFERENTES À PENSIONAMENTO.
+    POR MAIORIA, MANTIVERAM A SENTENÇA, VENCIDO O RELATOR QUE A DESCONSTITUÍA DE OFÍCIO POR CITRA PETITA, E, A UNANIMIDADE, NO MÉRITO, NEGARAM PROVIMENTO AOS RECURSOS” (fl. 609 do e-STJ).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação ao art. 37, § 6º, da mesma Carta.
+    O agravo não merece acolhida.
+    O Tribunal de origem assim descreveu as circunstâncias fáticas do caso que o levaram a concluir pela responsabilização do Estado:
+    “Primeiramente, entendo que Joceli compareceu no baile fardado e com a arma da corporação por volta das 5h30min, já que às 6h estaria de serviço. Importante acrescentar que segundo testemunhas, ele apresentou-se naquele local como policial militar. Veja-se que ele teria ido ao baile, justamente para tirar satisfação dos seguranças, os quais teriam colocado seus dois filhos para fora do recinto, já que estariam perturbando o acontecimento.
+    Ora, se Joceli chegou fardado no local e apresentou-se como policial, deve o Estado do Rio Grande do Sul responder pela atitude de seu servidor, porquanto estava agindo como representante da autoridade pública. Assim, tenho que o servidor agiu como se em serviço estivesse, pois chegou fardado e apresentou-se como brigadiano. Ademais, ao certo naquelas condições o policial militar agia como representante do Estado, sendo irrelevante que estivesse em serviço ou não, já que se valeu desta condição para chegar no local e ir conversar com os seguranças do baile.
+    Também, por estar fardado já é o suficiente para demonstrar a vinculação com o Estado, estando clara a condição de agente de autoridade pública, ainda mais que o policial impõe-se e identifica-se justamente pela farda que veste” (grifos no original, fls. 635-636 do e-STJ).
+    O recorrente, por outro lado, afirmou que:
+    “A vinculação indireta derivaria de uma atuação próxima ou aparentemente relativa ao serviço (diligência inesperada ou ostentação típica da condição e no sentido da ação como servidor), não foi o caso! Logo está caracterizada a desvinculação com o serviço, pois o policial, à paisana, em carro particular, teve uma desavença com o companheiro da vítima e praticou um crime (ameaça), tudo antes de culminar com a ação danosa” (grifos meus, fl. 716 do e-STJ).
+    Desse modo, constata-se que a argumentação do recorrente ampara-se em circunstâncias fáticas diversas daquelas retratadas pela Corte a quo e que foram imprescindíveis à decisão por ela proferida.
+    Assim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Por fim, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição. Nesse sentido, menciono as seguintes decisões, entre outras: AI 778.282-AgR/SP, Rel. Min. Cármen Lúcia; RE 451.647-AgR/CE, Rel. Min. Ellen Gracie; AI 228.270-AgR/SP, Rel. Min. Ayres Britto; RE 598.125-AgR/PI, Rel. Min. Eros Grau; AI 522.622-AgR/RO, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
