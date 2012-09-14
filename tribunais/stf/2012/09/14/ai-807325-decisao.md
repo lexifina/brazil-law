@@ -1,0 +1,33 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário que interpôs, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento o Município de São Paulo. Na minuta, sustenta a parte agravante que o recurso extraordinário reúne todos os requisitos para sua admissão.
+    Contraminuta.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Reproduzo o teor da decisão denegatória de seguimento do recurso extraordinário, exarada na origem:
+    “Trata-se de recurso extraordinário interposto com fundamento no artigo 102, inciso III, da Constituição da República.
+    Em preliminar, o recorrente aponta a existência de repercussão geral de questão constitucional, exigência contida no art. 543-A, do CPC, com a redação dada pela Lei n° 11.418/2006, matéria cuja apreciação é da competência do C. Supremo Tribunal Federal.
+    No entanto, o recurso não merece trânsito.
+    Isso porque, ao que se infere, os argumentos expendidos não são suficientes para infirmar a conclusão do v. aresto combatido que contém fundamentação adequada para lhe dar respaldo. Tampouco restou evidenciado qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas ‘a’, ‘b’, ‘c’ e 'd’ do permissivo constitucional.
+    A propósito, de qualquer modo, a análise demandaria o exame de matéria infraconstitucional, quando é sabido que a ofensa à Constituição Federal deve ser direta e frontal, e não por via reflexa, verbis:
+    ‘(...) Se para demonstrar ofensa à Constituição é mister, por primeiro, ver reconhecida vulneração a Lei ordinária, é esta última o que conta, não se cuidando, pois, de contrariedade direta e imediata à Lei Magna. Na admissibilidade do recurso extraordinário, exige-se, também, haja ofensa direta, pela decisão recorrida, a norma constitucional, não podendo essa vulneração verificar-se, por via oblíqua, ou em decorrência de se violar norma infraconstitucional, 'ut' art. 102, III, do Estatuto Supremo'. (AR. 1.856-6 - RJ - STF - Rel. Min. Sepúlveda Pertence - DJU de 10.3.2005).
+    No mesmo sentido: AI-AgR 450349/SC, Rel. Min. Carlos Velloso, DJ de 03.02.2006; AI-AgR 601815/RS, Rel. Min. Ricardo Lewandowski, DJ de 19.12.2007 e AI-AgR 681925/MG, Rel. Min. Ricardo Lewandowski, DJ de 01-02-2008.
+    Por tais razões, não admito o recurso extraordinário”(fls. 180-1).
+    Por seu turno, ao adequado enfrentamento da controvérsia, transcrevo as razões de decidir, quando do julgamento do recurso veiculado na origem:
+    “A pendência de ação coletiva movida por sindicato da categoria não impede que servidores públicos proponham ação em que, individualmente, propugnam pelo mesmo benefício, pena de se afrontar o inciso XXXV do caput do artigo 5° da Constituição da República.
+    A respeitável sentença demonstrou superiormente que a evolução funcional prevista no caput do artigo 13 da Lei paulistana nº. 11.410, dos 13 de setembro de 1993, decorrente do tempo de carreira (caput do artigo 14 da Lei paulistana nº. 11.410/93), não depende de regulamentação. Trata-se aplicação não apenas literal, mas segundo o espírito da lei, na conformidade até dos dispositivos constitucionais oportunamente invocados na respeitável sentença (caput e §§ do artigo 39 da Constituição da República e artigo 24 do Ato das Disposições Constitucionais Transitórias). Desnecessária a comissão, cujo funcionamento e composição devem ser disciplinados por decreto (parágrafo único do artigo 16 da Lei paulistana nº. 11.410/93), para que se apure o tempo de serviço (§ 3° do artigo 13 da Lei paulistana nº. 11.410/93).
+    O enquadramento feito por evolução em face do tempo de serviço não se contrapõe ao disposto caput e §§ do artigo 9° do Estatuto dos Funcionários Públicos do Município de São Paulo.
+    Anoto, em sede de remessa necessária, que a determinação de cumprimento da Lei paulistana nº. 11.410/93 não afronta a súmula nº. 339 do Supremo Tribunal Federal, porque não se está deferindo aumento de vencimentos por isonomia, nem há qualquer arranhão ao artigo 2° da Constituição da República quando o Poder Judiciário faz cumprir a lei.
+    Incólumes, também, os incisos I e II do caput do artigo 5° da Constituição da República.
+    A Municipalidade é que, com sua despudorada resistência em cumprir suas próprias leis, atenta contra o princípio da moralidade administrativa (caput do artigo 37 da Constituição da República).
+    Os honorários advocatícios a que condenada a apelante foram equitativamente arbitrados, dado o trabalho oferecido pelo processo, com resposta a recurso (§ 4°, em combinação com as alíneas do § 3º, ambos do artigo 20 do Código de Processo Civil), ainda mais que destinados a remunerar atividade profissional indispensável à administração da justiça. Deixo claro, quanto às custas, que a Municipalidade só as deve em reembolso.
+    Pelo exposto, nego provimento à remessa necessária e a apelação para manter, por seus próprios fundamentos, a respeitável sentença do Ex. Sr. Dr. Randolfo Ferraz de Campos”(fls. 151-3).
+    Nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DO ADICIONAL DE SEXTA PARTE SOBRE A INTEGRALIDADE DOS VENCIMENTOS DE SERVIDOR ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. Na hipótese em apreço, o cálculo do adicional de sexta-parte foi solucionado à luz do art. 129 da Constituição do Estado de São Paulo, não desafiando o acórdão, recurso extraordinário. … 5. Embargos de declaração acolhidos para reconhecer a tempestividade o agravo regimental e negar-lhe provimento”.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de setembro de 2012.
+Ministra Rosa Weber
+Relatora
