@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “Administrativo/Fiscal - Mandado de segurança - Posto de combustível - Indeferimento de inscrição estadual no cadastro de contribuintes do ICMS, em razão de apenamento anterior dos sócios pela comercialização de produtos adulterados - Possibilidade - Exegese do art. 4º da Lei Estadual n° 11.929/05 - Direito líquido e certo inexistente - Sentença denegatória que se mantém - Recurso desprovido” (fl. 337 do e-STJ).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, ofensa ao art. 5º, X, XIII, XVII, XLI, XLV, LV e § 2º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. É o caso dos autos em relação às supostas violações ao art. 5º, X, XLI, LV e § 2º, da CF.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Outrossim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Estadual 11.929/2005). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquele diploma legal pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
