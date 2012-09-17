@@ -1,0 +1,28 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+    “CONSTITUCIONAL E PROCESSO CIVIL. AÇÃO POPULAR. ACOLHIMENTO DE PRELIMINAR DE CARÊNCIA DE AÇÃO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. AUSÊNCIA DE INTIMAÇÃO DO AUTOR PARA REQUERIMENTO DE EVENTUAIS PROVAS A SEREM PRODUZIDAS. VIOLAÇÃO DO CONTRADITÓRIO E AMPLA DEFESA. NULIDADE ABSOLUTA.
+    - Apelação e remessa oficial de sentença que julgou extinta a ação popular, sem julgamento do mérito, acolhendo preliminar de carência de ação.
+    - Embora seja necessário que o autor demonstre, ainda que minimamente, a potencialidade da lesão que indica, a jurisprudência sempre foi clara no sentido de que ação popular não é mandado de segurança, permitindo ampla dilação probatória e não exigindo que a prova da ilegalidade e da lesividade do ato ao patrimônio público seja pré-constituído.
+    - A ausência de intimação do autor para requerimento de eventuais provas a serem produzidas, em especial quando se trata de previsão legal (art. 7º, inciso V, da Lei nº 4.717/65), resulta em claro prejuízo, principalmente quando se trata de ação na defesa de interesse público.
+    - Nulidade absoluta da sentença, por violação do contraditório e ampla defesa.
+    - Remessa necessária e apelação providas”.
+    Neste RE, fundado no art. 102, III, a , da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV, LIV, LV, LXXIII e LXXVIII, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Ressalte-se, preliminarmente, que o art. 5º, LXXVIII, da Constituição não foi prequestionado. Assim, Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 4.717/1965). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras:
+    “Agravo regimental no agravo de instrumento. Processual. Negativa de prestação jurisdicional. Não ocorrência. Princípios do devido processo legal, da ampla defesa e do contraditório. Ofensa reflexa. Ação popular. Requisitos. Verificação. Legislação infraconstitucional. Precedentes.
+    1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente fundamentada.
+    2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+    3. Inadmissível, em recurso extraordinário, o exame da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF.
+    4. O entendimento desta Corte é de que a verificação in concreto dos requisitos autorizadores da ação popular é matéria de índole infraconstitucional, a cujo exame não se presta o recurso extraordinário.
+    5. Agravo regimental não provido” (AI 571.343-AgR/RJ, Primeira Turma, Rel. Min. Dias Toffoli).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO QUE NÃO ATACA O FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA STF 283. AÇÃO POPULAR. EXTINÇÃO DO PROCESSO POR FALTA DE INTERESSE DE AGIR. SÚMULA STF 279. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA À CF.
+    1. As razões do agravo regimental não atacam todos os fundamentos da decisão agravada, o que atrai a aplicação, no presente caso, da Súmula STF 283. Precedentes.
+    2. O exame da violação do art. 5º, LXXIII, da CF, no caso, demanda o reexame de fatos e provas dos autos (Súmula STF 279), bem como a análise de legislação infraconstitucional aplicável à espécie (Lei 4.717/65 e CPC), hipóteses inviáveis em sede extraordinária.
+    3. Agravo regimental a que se nega provimento” (AI 736.336-AgR/SP, Segunda Turma, Rel. Min. Ellen Gracie).
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
