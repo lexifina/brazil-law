@@ -1,0 +1,568 @@
+Supremo Tribunal Federal
+DJe 02/10/2012
+Inteiro Teor do Acórdão - Página 1 de 14
+
+Ementa e Acórdão
+
+18/09/2012
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 113.259 SÃO PAULO
+RELATORA
+PACTE.(S)
+IMPTE.(S)
+PROC.(A/S)(ES)
+COATOR(A/S)(ES)
+
+: MIN. CÁRMEN LÚCIA
+: SERGIO OLIVEIRA SILVA
+: DEFENSORIA PÚBLICA DA UNIÃO
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: HABEAS CORPUS. CONSTITUCIONAL. PENAL.
+RECEPTAÇÃO. MOEDA FALSA. ALEGAÇÃO DE INCOMPETÊNCIA
+DA JUSTIÇA FEDERAL E PEDIDO DE DIMINUIÇÃO DA PENA,
+CONCESSÃO DE PERDÃO JUDICIAL E SUBSTITUIÇÃO DA PENA
+PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO.
+IMPOSSIBILIDADE.
+1. Alegação de incompetência da Justiça Federal. Necessidade de
+reexame dos fatos e das provas dos autos para concluir pela existência, ou
+não, de conexão entre as condutas do Paciente e as do corréu, ao que não
+se presta o habeas corpus.
+2. Inexistência de contrariedade ao art. 93, inc. IX, da Constituição da
+República.
+Julgados
+proferidos
+nas
+instâncias
+antecedentes
+suficientemente fundamentados.
+3. Paciente condenado à pena de dois anos de reclusão.
+Impossibilidade de substituição da pena privativa de liberdade por uma
+restritiva de direitos (art. 44, § 2º, do Código Penal).
+4. Pretensão de redução da pena, concessão do perdão judicial e
+substituição da pena privativa de liberdade por uma restritiva de direito.
+Necessidade de novo juízo de reprovabilidade do fato, ao que não se
+presta o procedimento sumário e documental do habeas corpus.
+Precedentes.
+5. Impossibilidade de concessão do perdão judicial previsto no art.
+180, § 5º, do Código Penal. Benefício aplicável à receptação culposa, que
+não é o caso dos autos.
+6. Ordem denegada.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811704.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 14
+
+HC 113.259 / SP
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a Presidência do
+Ministro Ricardo Lewandowski, na conformidade da ata de julgamento e
+das notas taquigráficas, por unanimidade, em denegar a ordem, nos
+termos do voto da Relatora. Ausentes, justificadamente, os Ministros
+Celso de Mello e Joaquim Barbosa.
+Brasília, 18 de setembro de 2012.
+
+Ministra CÁRMEN LÚCIA - Relatora
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811704.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 14
+
+18/09/2012
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 113.259 SÃO PAULO
+RELATORA
+PACTE.(S)
+IMPTE.(S)
+PROC.(A/S)(ES)
+COATOR(A/S)(ES)
+
+: MIN. CÁRMEN LÚCIA
+: SERGIO OLIVEIRA SILVA
+: DEFENSORIA PÚBLICA DA UNIÃO
+: DEFENSOR PÚBLICO-GERAL FEDERAL
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+A SENHORA MINISTRA CÁRMEN LÚCIA (RELATORA):
+1. Habeas corpus, com pedido de medida liminar, impetrado pela
+DEFENSORIA PÚBLICA DA UNIÃO, em benefício de SERGIO
+OLIVEIRA SILVA, contra julgado da Quinta Turma do Superior Tribunal
+de Justiça, que, em 27.3.2012, denegou a ordem no Habeas Corpus n.
+174.699, Relator o Ministro Gilson Dipp.
+O caso
+2. Pelo que se tem nos autos, o Paciente e Anderson Araújo Eleutério
+foram denunciados “como incursos nas penas do artigo 180, § 1º (por três
+vezes), c/c os artigos 71, ‘caput’, e 29, ‘caput’, todos do Código Penal”. O
+Ministério Público de São Paulo expôs na denúncia:
+“Como se apurou, no dia 04 de dezembro de 2006, policiais
+militares estavam em patrulhamento de rotina pelo local dos fatos,
+quando se depararam com um indivíduo em atitude suspeita, vigiando
+o galpão ali existente. Em abordagem a tal indivíduo verificaram
+tratar-se de Anderson Araújo Eleutério, que possuía quatro notas de
+cinquenta reais, aparentando serem falsas. Questionado a respeito das
+notas e do galpão, o ora denunciado Anderson tentou desconversar.
+Os policiais militares, então, resolveram adentrar no local, logrando
+encontrar no interior do referido galpão os três veículos supracitados,
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 14
+
+HC 113.259 / SP
+bem como o denunciado Sérgio Oliveira da Silva, que se identificou
+como proprietário do galpão, apontando o tal ‘Alemão’ como locatário
+deste.
+Ressalta-se que o veículo Fiat/Uno, placas CAC 3636/SP é
+produto de furto, ocorrido em 19/05/2006, em prejuízo de Roberto
+Sartori, fato registrado no Boletim de Ocorrência n. 2270/2006 no 99º
+Distrito Policial.
+O veículo Ford/Scort, placas BXA 3452/SP é produto de furto,
+ocorrido em 25/10/2006, em prejuízo de Styvens de Faria Brito, fato
+registrado no Boletim de Ocorrência n. 6171/2006 no 93º Distrito
+Policial.
+O veículo GM/Monza, placas BIN 1842/SP é produto de roubo,
+ocorrido em 29/11/2006, em prejuízo de José Manoel Camargo Júnior
+fato registrado no Boletim de Ocorrência n. 3968/2006 no 100º
+Distrito Policial.
+Ainda, foram encontrados também no local um jogo de placas de
+identificação CCD-8871, bem como uma chave do tipo ‘mixa’, além da
+documentação do veículo de placas BXA 3452.
+Diante dos fatos, foi dada voz de prisão em flagrante delito aos
+denunciados, sendo estes conduzidos ao Distrito Policial. Os veículos
+foram apreendidos pelo auto de fls. 10/12, avaliados pelo auto de fls.
+70/71. Os veículos Monza e Escort foram entregues, segundo auto de
+fls. 63 e 65.
+Os denunciados sabiam da origem criminosa da ‘res’, posto que
+mantinham os veículos em depósito por eles vigiados, sem que
+soubessem a origem dos mesmos, sem documentos de sua aquisição ou
+recebimento lícitos, sendo que dois dos automóveis foram objetos de
+furto e roubo ocorridos há pouco tempo”.
+
+3. Em 2.1.2007, o juízo da 6ª Vara Criminal Central da Comarca de
+São Paulo determinou o encaminhamento dos autos à Justiça Federal:
+“Não obstante a r. manifestação oferecida pelo Dr. Promotor de
+Justiça, em se tratando de conexão e ante a existência de crime de
+competência da Justiça Federal – moeda falsa – é de ser aplicada a
+regra estabelecida pelo artigo 78, inciso IV, do Código de Processo
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 14
+
+HC 113.259 / SP
+Penal e pela Súmula 122 do STJ, que assim dispõe ‘Compete a Justiça
+Federal o processo e julgamento unificado dos crimes conexos de
+competência federal e estadual, não se aplicando a regra do art. 78, II,
+a, do Código de Processo Penal’.
+Ante o exposto, encaminhe-se os autos a Justiça Federal,
+competente para processar e julgar a presente ação penal, com as
+anotações e comunicações pertinentes, com as homenagens deste juízo,
+dando-se ciência ao Ministério Público”.
+
+4. O Ministério Público Federal ratificou a denúncia e a aditou para
+imputar ao corréu Anderson Araújo Eleutério a prática do delito previsto
+no art. 289, § 1º, do Código Penal.
+5. Em 19.10.2007, o juízo da 5ª Vara Federal Criminal da Seção
+Judiciária de São Paulo condenou o corréu Anderson Araújo Eleutério à
+pena de três anos de reclusão, a ser cumprida em regime inicial aberto, e
+dez dias-multa pela prática do delito previsto no art. 289, § 1º, do Código
+Penal, absolvendo-o da prática do delito do art. 180, caput, do Código
+Penal. O Paciente foi condenado à pena de dois anos de reclusão, a ser
+cumprida em regime inicial aberto, e trinta dias-multa, concedido o sursis
+pelo prazo de dois anos. A pena privativa de liberdade imposta ao
+Paciente e ao corréu foi substituída por duas restritivas de direitos e
+concedido o direito de recorrerem em liberdade.
+6. A defesa de cada réu interpôs apelação criminal. Em 22.2.2010, a
+Quinta Turma do Tribunal Regional Federal da 3ª Região rejeitou
+preliminar de incompetência da Justiça Federal e negou provimento às
+apelações:
+“PENAL. PROCESSUAL PENAL. MOEDA FALSA.
+RECEPTAÇÃO. PRELIMINAR. NULIDADE. MATERIALIDADE.
+AUTORIA.
+1. A Súmula n. 122 do Superior Tribunal de Justiça determina
+que em caso de delitos conexos de competência da Justiça Federal e da
+Justiça Estadual não será aplicável o art. 78, II, a, do Código de
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 14
+
+HC 113.259 / SP
+Processo Penal e a competência será da Justiça Federal.
+2. Materialidade comprovada pelo auto de apreensão e exibição e
+por laudo documentoscópico.
+3. Autoria devidamente comprovada pelas circunstâncias do
+flagrante e pelos depoimentos das testemunhas de acusação.
+4. Preliminar rejeitada. Apelações não providas”.
+
+7. Contra esse acórdão foi impetrado no Superior Tribunal de Justiça
+o Habeas Corpus n. 174.699, Relator o Ministro Gilson Dipp. Em 27.3.2012,
+a Quinta Turma denegou a ordem:
+“PENAL. HABEAS CORPUS SUBSTITUTIVO DE
+RECURSO ESPECIAL. RECEPTAÇÃO. INCOMPETÊNCIA DA
+JUSTIÇA FEDERAL. DOSIMETRIA DA PENA. DECRETO
+CONDENATÓRIO
+TRANSITADO
+EM
+JULGADO.
+IMPETRAÇÃO QUE DEVE SER COMPREENDIDA DENTRO
+DOS LIMITES RECURSAIS. INEXISTÊNCIA DE FLAGRANTE
+ILEGALIDADE, NULIDADE ABSOLUTA OU TERATOLOGIA A
+SER SANADA. ORDEM DENEGADA.
+I. Conquanto o uso do habeas corpus em substituição aos
+recursos cabíveis - ou incidentalmente como salvaguarda de possíveis
+liberdades em perigo - crescentemente fora de sua inspiração
+originária tenha sido muito alargado pelos Tribunais, há certos limites
+a serem respeitados, em homenagem à própria Constituição, devendo a
+impetração ser compreendida dentro dos limites da racionalidade
+recursal preexistente e coexistente para que não se perca a razão lógica
+e sistemática dos recursos ordinários, e mesmo dos excepcionais, por
+uma irrefletida banalização e vulgarização do habeas corpus.
+II. Precedentes do Supremo Tribunal Federal (Medida Cautelar
+no Mandado de Segurança n.º 28.524/DF (decisão de 22/12/2009,
+DJE n.º 19, divulgado em 01/02/2010, Rel. Ministro Gilmar Mendes
+e HC n.º 104.767/BA, DJ 17/08/2011, Rel. Min. Luiz Fux), nos quais
+se firmou o entendimento da ‘inadequação da via do habeas corpus
+para revolvimento de matéria de fato já decidida por sentença e
+acórdão de mérito e para servir como sucedâneo recursal’.
+III. Na hipótese, a condenação transitou em julgado e a
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 14
+
+HC 113.259 / SP
+impetrante não se insurgiu quanto à eventual ofensa aos dispositivos
+da legislação federal, em sede de recurso especial, buscando o
+revolvimento dos fundamentos exarados nas instâncias ordinárias
+quanto à modificação da competência ou a dosimetria da pena imposta,
+preferindo a utilização do writ, em substituição aos recursos
+ordinariamente previstos no ordenamento jurídico.
+IV. O reexame da dosimetria em sede de mandamus somente é
+possível quando evidenciado eventual desacerto na consideração de
+circunstância judicial, errônea aplicação do método trifásico ou
+violação a literal dispositivo da norma, acarretando flagrante
+ilegalidade, o que não ocorre nos autos.
+V. Inexistência, na espécie, de flagrante ilegalidade, nulidade
+absoluta ou teratologia a ser sanada pela via do habeas corpus,
+caracterizando-se o uso inadequado do instrumento constitucional.
+VI. Ordem denegada”.
+
+8. Esse julgado é o objeto deste habeas corpus, no qual a Impetrante
+alega que:
+a) seria incompetente a Justiça Federal para o julgamento, pois
+nenhuma das hipóteses de conexão previstas no art. 76 do Código de
+Processo Penal estaria presente na espécie vertente. Sustenta:
+“As três hipóteses de conexão intersubjetiva (artigo 76, I, do
+Código de Processo Penal) não se adequam a realidade dos corréus,
+uma vez que os mesmos não agiram conjuntamente, em concurso, ou
+ainda, um contra o outro. Ao contrário, dos interrogatórios colhidos
+verifica-se que eles nem mesmo eram amigos, parceiros, comparsas ou
+inimigos. Portanto, inexiste qualquer liame subjetivo entre eles.
+Da mesma forma, não se constata a conexão material ou lógica,
+já que os supostos crimes de moeda falsa e receptação não foram
+praticados de modo que um facilitasse ou ocultasse o outro e nem para
+conseguir impunidade ou vantagem em relação a qualquer deles. O
+dinheiro falso apreendido com Anderson não tem qualquer ligação
+com os veículos localizados no interior do depósito do Recorrente.
+Por fim, inexiste também a chamada conexão instrumental ou
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 14
+
+HC 113.259 / SP
+probatória, já que as provas/elementares de um crime não influem na
+prova da outra infração. Assim, como apontado pelo Parquet estadual
+às fls. 82, os crimes foram praticados por pessoas distintas, em tempo e
+locais diversos, sem qualquer relação que caracterize a conexão e
+autorize a reunião dos feitos para julgamento simultâneo pelo mesmo
+juízo”.
+
+b) o pedido de aplicação do perdão judicial previsto no art. 180, § 5º,
+do Código Penal teria sido indeferido sem fundamentação, em
+contrariedade ao art. 93, inc. IX, da Constituição da República, e que
+estariam presentes os requisitos para a sua concessão.
+c) para a fixação da pena-base, teria sido considerada a quantidade
+de carros apreendidos para indicar maior culpabilidade, o que não seria
+possível, pois o Paciente não teria como saber quantos veículos estavam
+armazenados no galpão. Ressalta que a “possível existência de situação
+anterior em que o Paciente já tenha sido surpreendido com veículos produto de
+crime em seu galpão não pode ser levada em consideração para fins de aumento
+da pena-base, já que sequer é possível utilizar tal fato como maus antecedentes”,
+por não haver condenação com trânsito em julgado.
+d) o pedido de substituição da pena privativa de liberdade por uma
+restritiva de direitos teria sido indeferido sem fundamentação, em afronta
+ao art. 93, inc. IX, da Constituição da República. Afirma não estarem
+presentes elementos que possam vedar a aplicação de apenas uma pena
+restritiva de direitos.
+Este o teor dos pedidos:
+“Ante o exposto, requer seja conhecido o presente habeas
+corpus e proferida decisão liminar determinando a suspensão do
+início de cumprimento da pena imposta até o trânsito em julgado do
+presente writ.
+No mérito, requer seja concedida a ordem para que seja
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 14
+
+HC 113.259 / SP
+confirmada a decisão liminar supra, bem como para que seja declarada
+a nulidade do presente feito em razão da incompetência da Justiça
+Federal, remetendo-se os autos para a Justiça Estadual para o devido
+processamento da demanda ou, subsidiariamente, a nulidade do v.
+acórdão por ausência de motivação, nos termos do artigo 93, IX, da
+Constituição Federal, consoante argumentos acima, determinando-se,
+em consequência, a prolação de nova decisão. Requer, ainda a
+aplicação do perdão judicial ou, ainda, a redução da pena imposta
+conforme os argumentos acima expostos”.
+
+9. Em 4.5.2012, indeferi a medida liminar requerida, requisitei
+informações e determinei vista ao Procurador-Geral da República.
+10. As informações foram prestadas e a Procuradoria-Geral da
+República opinou pela denegação da ordem.
+É o relatório.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811705.
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 14
+
+18/09/2012
+
+SEGUNDA TURMA
+
+HABEAS CORPUS 113.259 SÃO PAULO
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA - (Relatora):
+1. Razão jurídica não assiste à Impetrante.
+2. Quanto à alegação de incompetência da Justiça Federal, seria
+imprescindível o reexame dos fatos e das provas dos autos para concluir
+pela existência, ou não, de conexão entre as condutas do Paciente e as do
+corréu Anderson Araújo Eleutério nos termos do art. 76 do Código de
+Processo Penal, ao que não se presta o habeas corpus.
+Nesse sentido:
+“Não é o habeas corpus meio idôneo para o reexame
+aprofundado dos fatos e da prova, necessário, no caso, para a
+verificação da conexão, ou não, do crime de uso de documento
+ideologicamente falso pelo paciente e do crime de moeda falsa
+imputado aos demais corréus, e, portanto, da competência, ou não, da
+Justiça Federal” (HC 100.183, Rel. Min. Dias Toffoli, DJe
+3.3.2001).
+
+E:
+“’HABEAS CORPUS’ - CRIMES CONTRA A ORDEM
+TRIBUTÁRIA - VERIFICAÇÃO DA CONEXÃO ENTRE
+PROCEDIMENTOS PENAIS - NECESSIDADE DE REEXAME
+DOS ELEMENTOS PROBATÓRIOS DO PROCESSO PENAL DE
+CONHECIMENTO - INVIABILIDADE NA VIA SUMARÍSSIMA
+DO ‘HABEAS CORPUS’ - PEDIDO INDEFERIDO. REEXAME
+DA PROVA - MATÉRIA ESTRANHA AO ‘HABEAS CORPUS’. O ‘habeas corpus’ constitui remédio processual inadequado (a) para
+a análise da prova, (b) para o reexame do material probatório
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811706.
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 14
+
+HC 113.259 / SP
+produzido, (c) para a reapreciação da matéria de fato e, também, (d)
+para a revalorização dos elementos instrutórios coligidos no processo
+penal de conhecimento. Precedentes. VERIFICAÇÃO DA
+CONEXÃO
+ENTRE
+PROCEDIMENTOS
+PENAIS
+DEPENDENTE DO EXAME DO CONJUNTO FÁTICOPROBATÓRIO: INVIABILIDADE NA VIA SUMARÍSSIMA DO
+‘HABEAS CORPUS’. - Não se revela possível, no âmbito estreito do
+processo de ‘habeas corpus’, a verificação da conexão entre
+procedimentos penais, se o exame dos múltiplos aspectos pertinentes à
+conexão de causas (conexão intersubjetiva, conexão material ou
+teleológica e conexão probatória) depender de necessária indagação da
+existência, entre os diversos fatos e processos, do indispensável
+vínculo de índole subjetiva ou de natureza objetiva ou, ainda, de
+caráter instrumental. Precedentes. - A locução ‘sentença definitiva’
+inscrita no art. 82 do CPP: significado e consequência no plano do
+‘simultaneus processus’. Precedentes” (HC 84.918, Rel. Min.
+Celso de Mello, DJe 10.11.2006).
+
+Nessa linha o parecer da Procuradoria-Geral da República:
+“De se ver, que a competência da Justiça Federal para processar
+o crime de receptação praticado pelo ora paciente foi justificada pelo
+juízo de origem, e ratificada pela Corte Federal, a partir do
+entendimento de existência de conexão probatória com o crime de
+moeda falsa, praticado pelo corréu Anderson Araújo Eleutério.
+Conclusão contrária somente poderia ser resultado de um exame mais
+aprofundado dos fatos e provas existentes nos autos, o que não é
+admitido em sede de habeas corpus”.
+
+3. Com relação às alegações sobre a concessão de perdão judicial, os
+fundamentos para a fixação da pena-base e a substituição da pena
+privativa de liberdade por uma restritiva de direitos, tem-se no acórdão
+da Quinta Turma do Tribunal Regional Federal da 3ª Região que:
+“As circunstâncias judiciais foram bem consideradas pelo juízo
+de primeiro grau. O réu Sérgio já foi surpreendido anteriormente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811706.
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 12 de 14
+
+HC 113.259 / SP
+também acusado do delito de receptação, no mesmo galpão de sua
+propriedade, por receber, ocultar e manter em depósito veículos
+produto de crime, o que demonstra sua culpabilidade.
+Pelos mesmos motivos não há que se falar em aplicação do § 5º
+do artigo 180 do Código Penal, vez que as circunstâncias não são
+favoráveis ao réu.
+Também não merece ser acolhido o pleito para que seja fixada
+apenas uma pena restritiva de direitos. O art. 44, § 2º, do Código
+Penal prevê que, na condenação superior a um ano, poderá ser
+substituída a pena privativa de liberdade por uma pena restritiva de
+direitos e multa ou por duas restritivas de direitos”.
+
+4. A Quinta Turma do Superior Tribunal de Justiça manteve esse
+julgado e assentou que, nas instâncias antecedentes, foram consideradas
+desfavoráveis as circunstâncias judiciais.
+5. Dessa forma, não há falar em contrariedade ao art. 93, inc. IX, da
+Constituição da República. Embora em sentido contrário à pretensão do
+Paciente, os julgados proferidos nas instâncias antecedentes apresentaram
+suficiente fundamentação para a não concessão do perdão judicial e da
+substituição da pena privativa de liberdade por uma restritiva de direito.
+Conforme a jurisprudência do Supremo Tribunal, “o que a
+Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada;
+não, que a fundamentação seja correta, na solução das questões de fato ou de
+direito da lide: declinadas no julgado as premissas, corretamente assentadas ou
+não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência
+constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+6. Ademais, nos termos do parecer da Procuradoria-Geral da
+República:
+“Não pode prosperar tampouco a pretensão de diminuição das
+sanções restritivas de direitos, porque, tendo sido imposta ao paciente
+a pena de 2 (dois) anos de reclusão, impossível a substituição da pena
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811706.
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 13 de 14
+
+HC 113.259 / SP
+privativa de liberdade por apenas uma restritiva de direitos, a teor do
+que dispõe expressamente o art. 44, § 2º, segunda parte, do Código
+Penal, in verbis:
+‘Art. 44. As penas restritivas de direitos são autônomas e
+substituem as privativas de liberdade, quando:
+(...)
+§ 2º Na condenação igual ou inferior a um ano, a
+substituição pode ser feita por multa ou por uma pena restritiva
+de direitos; se superior a um ano, a pena privativa de liberdade
+pode ser substituída por uma pena restritiva de direitos e multa
+ou por duas restritivas de direitos’”.
+
+7. A redução da pena, a concessão do perdão judicial e a substituição
+da pena privativa de liberdade por uma restritiva de direito pretendidas
+pela Impetrante somente seriam possíveis com a realização de novo juízo
+de reprovabilidade do fato, ao que não se presta o procedimento sumário
+e documental do habeas corpus (HC 103.742, de minha relatoria, DJe
+25.11.2010; HC 87.684, Rel. Min. Sepúlveda Pertence, DJ 25.8.2006; HC
+88.132, Rel. Min. Sepúlveda Pertence, DJ 2.6.2006; e RHC 90.525, Rel. Min.
+Sepúlveda Pertence, DJ 25.5.2007).
+8. Por fim, como ressaltou a Procuradoria-Geral da República, “no
+que tange ao pedido de concessão do perdão judicial previsto no § 5º do art. 180
+do Código Penal, verifica-se a impossibilidade de seu deferimento, pois referido
+benefício só é aplicável na hipótese de receptação culposa, o que não é o caso dos
+presentes autos”.
+9. Pelo exposto, encaminho a votação no sentido de denegar a
+ordem.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 2811706.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 14 de 14
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+HABEAS CORPUS 113.259
+PROCED. : SÃO PAULO
+RELATORA : MIN. CÁRMEN LÚCIA
+PACTE.(S) : SERGIO OLIVEIRA SILVA
+IMPTE.(S) : DEFENSORIA PÚBLICA DA UNIÃO
+PROC.(A/S)(ES) : DEFENSOR PÚBLICO-GERAL FEDERAL
+COATOR(A/S)(ES) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, denegou a ordem, nos termos
+do voto da Relatora. Ausentes, justificadamente, os Senhores
+Ministros Celso de Mello e Joaquim Barbosa. 2ª Turma, 18.09.2012.
+Presidência do Senhor Ministro Ricardo Lewandowski. Presentes
+à sessão o Senhor Ministro Gilmar Mendes e a Senhora Ministra
+Cármen Lúcia. Ausentes, justificadamente, os Senhores Ministros
+Celso de Mello e Joaquim Barbosa.
+Subprocurador-Geral da República, Dr. Paulo da Rocha Campos.
+p/ Fabiane Duarte
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 2849216
