@@ -33,4 +33,5 @@ XXXII - próteses oculares classificadas no código 9021.39.80 da Tipi;
 XXXIII - programas - softwares - de leitores de tela que convertem texto em voz sintetizada para auxílio de pessoas com deficiência visual;
 XXXIV - aparelhos contendo programas - softwares - de leitores de tela que convertem texto em caracteres braile, para utilização de surdos-cegos; e
 XXXV - neuroestimuladores para tremor essencial/Parkinson, classificados no código 9021.90.19, e seus acessórios, classificados nos códigos 9018.90.99, 9021.90.91 e 9021.90.99, todos da Tipi.
+XXXVI - (VETADO).
 Parágrafo único. O Poder Executivo poderá regulamentar o disposto nos incisos IV, X e XIII a XXXV do caput.
