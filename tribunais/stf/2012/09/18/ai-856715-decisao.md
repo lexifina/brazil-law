@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “SEGURO FACULTATIVO. COBRANÇA. PLANO EM GRUPO.
+    NÃO COMPROVADA A CONCLUSÃO DO CONTRATO AO TEMPO DO SINISTRO, NÃO FAZ JUS O SEGURADO À COBERTURA.
+    CARTÃO-PROPOSTA ENVIADO À ESTIPULANTE. INEXISTÊNCIA DE COMPROVAÇÃO DA DATA DO RECEBIMENTO TANTO EM RELAÇÃOÀ ESTIPULANTE QUANTO À SEGURADORA. ÔNUS DO AUTOR.
+    PAGAMENTO DA PRIMEIRA PARCELA SÓ DEPOIS DE CONSUMADO O EVENTO, EM DATA PREVIAMENTE FIXADA PELO PRÓPRIO SEGURADO.
+    INTELIGÊNCIA DO ART. 1.448 DO CÓDIGO CIVIL DE 1917, VIGENTE À ÉPOCA.
+    RECURSO ADESIVO. DERROTA DE UM DOS LITISCONSORTES E VITÓRIA DO OUTRO. AUSÊNCIA DE LEGITIMAÇÃO DO AUTOR PARA RECORRER DE FORMA ADESIVA. LIÇÃO DA DOUTRINA.
+    APELAÇÃO PROVIDA, NÃO CONHECIDO O RECURSO ADESIVO”.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa ao artigo 5º, incisos XXXV e LV, do texto constitucional.
+    Sustenta-se o seguinte:
+    “Os acórdãos atacados estão expressamente negando vigência ao art. 5º, incisos XXXV e LV da Constituição Federal, ao Princípio do Contraditório e da Ampla defesa, no momento em que não foi oportunizado ao recorrente o verdadeiro contraditório, pois, conforme o Acórdão que julgou procedente os Embargos Declaratórios 70004594149, foram anulados todos os atos ad quem.
+    Assim, os autos voltaram ao 1° grau e foram novamente enviados ao TJRS, nesta fase, deveriam ter sido redistribuídos, para novo julgamento, e não ter voltado à 6ª Câmara Cível, pois, repita-se todos os atos do 2° grau foram considerados nulos.
+    Apesar de procedentes os Embargos Declaratórios com fulcro no art. 5º XXXV, os atos subsequentes não garantiram o contraditório e o devido acesso ao judiciário, pois o processo retornou, sem redistribuição, à mesma Câmara que já tinha conhecimento do processo sem as Contra Razões, sem o contraditório, deixando de apreciar esta peça de suma importância.
+    (...) julgando procedentes os Embargos Declaratórios com Efeito Infrigente, a Câmara anulou todos os atos ad quem, por este motivo, não há prevenção ou juiz natural, como argumentado no Acórdão dos Embargos de declaração nº 70006238943, pois o julgamento da Apelação que subiu a superior instância sem as devidas Contra razões foi completamente anulado, devendo ser considerado inexistente e o processo, que chegou a baixar novamente a 1ª instância, deveria ser redistribuído no Tribunal de Justiça, o que não ocorreu por erro, como admite a própria 6ª Câmara, no Acórdão do 2° julgamento da Apelação, onde versão: “O feito baixou a origem, f. 231, por equivoco, retornando a esta corte para julgamento dos recursos, f. 233. ” (fl. 407-408).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Registro que a demanda requer a aplicação de disposições do Código de Defesa do Consumidor e do Código Civil, no que tange à relação contratual de seguro de vida em grupo e por incapacidade temporária. E, quanto à alegação de afronta aos princípios do contraditório e da ampla defesa, no presente caso, é necessária a análise de fatos e provas além da legislação infraconstitucional envolvida, bem como do Código de Processo Civil ed o Regimento Interno do Tribunal de Justiça do Rio Grande do Sul.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Além disso, faz-se imprescindível no presente caso a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte (Enunciado 279 da Súmula do STF).
+    Nesse sentido, cito o AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.9.2010, e o AI-AgR 775.056, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.11.2010, da seguinte forma ementados, respectivamente:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE OFENSA AOS ARTIGOS 5º, XXXVI, LIV E LV, 195, §5º E 202, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA. PROVA E INTERPRETAÇÃO DE REGRA CONTRATUAL. SÚMULAS STF 279 E 454. 1. A discussão atinente à ocorrência ou não de capitalização anual de juros é matéria que demanda revolvimento de material fático-probatório e interpretação de norma contratual, ao que se aplicam as Súmulas STF 279 e 454. 2. A possível violação aos postulados do ato jurídico perfeito, do devido processo legal, do contraditório, da ampla defesa configura ofensa reflexa à CF. 3. Agravo regimental improvido.
+    DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGADA OFENSA AOS ARTS. 5º, II, XXXVI, LIV E LV DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II - A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes. III Agravo regimental improvido”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 18 de setembro de 2012
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
