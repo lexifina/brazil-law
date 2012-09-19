@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de admissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “RECURSO DE REVISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CONTRATAÇÃO TEMPORÁRIA DESCARACTERIZADA. A lide não é sobre vínculo de natureza jurídico-administrativa, caso da contratação para atender a necessidade temporária de excepcional de excepcional interesse público (art. 37, IX, da Constituição Federal). No acórdão, o Tribunal Regional deixou expresso que o Município, em sua tese de defesa, alegou que o reclamante foi contratado para atendimento permanente e não para acudir a situação transitória e emergencial. Recurso de revista de que não se conhece”. (eDOC 10, p.1)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação o artigo 114, I, do texto constitucional.
+    Alega-se, em síntese, que a simples presença de lei que disciplina a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público desloca a competência da justiça trabalhista.
+    Decido.
+    O tema de fundo do recurso extraordinário refere-se à competência para julgar causas concernentes à contratação temporária pela administração.
+    O Supremo Tribunal Federal já examinou a questão no julgamento da Reclamação nº 5.381, de relatoria do Ministro Ayres Britto, na qual se examinava ação civil pública ajuizada perante a Justiça do Trabalho com o objetivo de impor o desligamento de servidores contratados por tempo determinado. O Plenário decidiu:
+    “CONSTITUCIONAL. RECLAMAÇÃO. MEDIDA LIMINAR NA ADI 3.357. AÇÃO CIVIL PÚBLICA. SERVIDORES PÚBLICOS. REGIME TEMPORÁRIO. JUSTIÇA DO TRABALHO. INCOMPETÊNCIA. 1. No julgamento da ADI 3.395-MC, este Supremo Tribunal suspendeu toda e qualquer interpretação do inciso I do artigo 114 da CF (na redação da EC 45/2004) que inserisse, na competência da Justiça do Trabalho, a apreciação de causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo. 2. Contratações temporárias que se deram com fundamento na Lei amazonense nº 2.607/00, que minudenciou o regime jurídico aplicável às partes figurantes do contrato. Caracterização de vínculo jurídico-administrativo entre contratante e contratados. 3. Procedência do pedido. 4. Agravo regimental prejudicado”.
+    Não obstante, verifico que o acórdão recorrido concluiu com base nas provas constantes os autos, que não se trata de contratação temporária, nos termos do art. 37, IX, da Constituição Federal, mas de contratação em data posterior à CF/88, para a execução de atividade permanente em benefício da administração pública sem submissão a concurso público, conforme o art. 37, II, § 2º, do texto constitucional.
+    Para se entender de forma diversa ao que foi consignado no acórdão recorrido, far-se-ia imprescindível o reexame do conjunto fático-probatório constante dos autos, segundo o Verbete 279 da Súmula do Supremo Tribunal Federal.
+    Assim, não há que se falar em ofensa ao artigo 114, I, da Constituição Federal, uma vez que restou afastada a hipótese de contrato temporário.
+    Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 19 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
