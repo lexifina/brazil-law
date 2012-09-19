@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão de Colégio Recursal do Estado de São Paulo que entendeu cabível a condenação do ora agravante ao pagamento de multa diária em razão de descumprimento de ordem judicial.
+    No recurso extraordinário, o ora agravante alega violação do disposto no art. 5º, II e XXXVI, da Constituição.
+    Verifico que as questões constitucionais debatidas no recurso extraordinário não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração, faltando-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Ademais, no tocante à multa por descumprimento de ordem judicial, ambas as Turmas desta Corte, analisando casos semelhantes, entenderam que a discussão a respeito das astreintes encontra-se no âmbito infraconstitucional, razão por que é incabível o recurso extraordinário, visto que não há ofensa direta à Constituição. Nesse sentido, confiram-se os seguintes julgados:
+     “Agravo regimental em agravo de instrumento. 2. Astreintes. Matéria infraconstitucional. Ofensa indireta. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.” (AI 750.208-AgR, rel. Min. Gilmar Mendes, Segunda Turma, DJe de 14.03.2011)
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS DOS AUTOS, AO QUE NÃO SE PRESTA O RECURSO EXTRAORDINÁRIO (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil.” (AI 660.733-AgR, rel. Min. Cármen Lúcia, Primeira Turma, DJe de 20.02.2009)
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ASTREINTES. VALOR. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO.
+    I - A discussão concernente ao cabimento e ao valor das astreintes, no presente caso, depende do prévio exame de normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. Ofensa indireta. Precedentes.
+    II – Agravo regimental improvido.” (AI 731.718-AgR, rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 10.11.2010)
+    Do exposto, nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
