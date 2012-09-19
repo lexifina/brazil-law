@@ -1,0 +1,18 @@
+DECISÃO:
+    Vistos.
+    Instituto Nacional do Seguro Social – INSS interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Turma Recursal dos Juizados Especiais Federais do Estado de Pernambuco, que entendeu ser cabível a incidência de correção monetária sobre o valor do salário-maternidade pago em atraso, mesmo quando requerido a destempo, pela beneficiária.
+    Alega o recorrente violação dos artigos 5º, inciso II, 93, inciso IX, e 201, inciso II, da Constituição Federal, por entender não ser devida a incidência de correção monetária no período compreendido entre o parto e o efetivo pagamento do salário-maternidade, tendo em vista que a recorrida requereu o benefício em data posterior ao nascimento de seu filho.
+    Sem contrarrazões (fl. 59), o recurso extraordinário (fls. 52 a 58) foi admitido (fls. 61/62).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte entende que a questão referente à incidência de correção monetária sobre o benefício de salário-maternidade que não foi pago no devido prazo está restrita à interpretação da legislação infraconstitucional pertinente.
+    Desse modo, se ofensa houvesse ao dispositivo constitucional invocado, seria indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “1. salário-maternidade. Requerimento extemporâneo. Correção monetária desde a data do parto até a da apuração do valor devido. Matéria infraconstitucional. Ofensa constitucional indireta. Precedentes. Recurso extraordinário não admitido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República. 2. RECURSO. Extraordinário. Inadmissibilidade. Interposição com base na alínea "b". Acórdão impugnado que não declarou a inconstitucionalidade de tratado ou lei federal, na forma do art. 97 da Constituição Federal. Não cabimento. Não se admite recurso extraordinário interposto com base na alínea "b" contra acórdão que não contém declaração de inconstitucionalidade de tratado ou lei federal” (RE nº 578.235/BA, Segunda Turma, Relator o Ministro Cezar Peluso , DJ de 18/4/08).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: AI nº 712.635/BA, Relator o Ministro Ricardo Lewandowski, DJ de 15/5/08, AI nº 686.004/BA, Relatora a Ministra Cármen Lúcia, DJ de 5/5/08, e RE nº 569.610/BA, Relator o Ministro Gilmar Mendes, DJ de 29/4/08.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
