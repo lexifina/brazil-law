@@ -1,0 +1,16 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão proferido por Tribunal de Justiça estadual cuja ementa possui o seguinte teor:
+    “Ação direta de inconstitucionalidade – Artigo 4º, da Lei Complementar n° 430, de 24 de outubro de 2005, que veda a instalação de rádio-base de telefonia celular, microcélulas para reprodução de sinais e equipamentos afins a uma distância de, no mínimo, duzentos metros de escolas, creches, casas de repouso, centros comunitários, centros de saúde, hospitais e assemelhados e no entorno de equipamentos de interesse sócio-cultural e paisagístico – Matéria de exclusivo interesse local de iniciativa concorrente do Legislativo e do Executivo – Inexistência de afronta aos artigos 5º, 111, 180, V e 181, § 1º da Constituição do Estado de São Paulo – Ação improcedente – Liminar cassada.” (fls. 271)
+    Alega-se violação do disposto nos arts. 2º; 5º, XXII e XXIII; 30, VIII; 61, § 1º, II, b; 63, I; 84, II e VI, a; 170, II e III, e 182 da Constituição federal.
+    O recurso não merece seguimento.
+    As supostas ofensas à Constituição federal suscitadas nas razões do recurso extraordinário não foram ventiladas no acórdão recorrido nem foram objeto de embargos de declaração. Falta-lhes, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    No caso de ações diretas de inconstitucionalidade estaduais, a hipótese foi descrita de forma didática pelo min. Moreira Alves, relator da Rcl 383, Pleno, DJ de 21.05.1993:
+    “Assim sendo, nas ações diretas de inconstitucionalidade estaduais, em que lei municipal ou federal seja considerada inconstitucional em face de preceito da Constituição estadual que reproduza preceito central da Constituição federal, nada impede que nessa ação se impugne, como inconstitucional, a interpretação que se dê ao preceito de reprodução existente na Constituição do Estado por ser ela violadora da norma reproduzida, que não pode ser desrespeitada, na federação, pelos diversos níveis de go verno.”
+    (...)
+    “E se não for prequestionada a questão federal (a de que a interpretação dada ao preceito estadual de reprodução fere a norma constitucional federal reproduzida, que é de observância obrigatória pelos Estados), não caberá sequer recurso extraordinário.” (grifos meus)
+    Ademais, ainda que superado tal óbice, observo que o acórdão recorrido não destoa da orientação desta Corte fixada em no exame de caso análogo. Confira-se:
+    “EMENTA: - Recurso extraordinário. Ação direta de inconstitucionalidade contra lei municipal, dispondo sobre matéria tida como tema contemplado no art. 30, VIII, da Constituição Federal, da competência dos Municípios. 2. Inexiste norma que confira a Chefe do Poder Executivo municipal a exclusividade de iniciativa relativamente à matéria objeto do diploma legal impugnado. Matéria de competência concorrente. Inexistência de invasão da esfera de atribuições do Executivo municipal. 3. Recurso extraordinário não conhecido.” (RE 218.110, rel. min. Néri da Silveira, DJ de 17.05.2002)
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
