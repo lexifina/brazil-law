@@ -1,0 +1,12 @@
+DECISÃO: O presente recurso extraordinário foi interposto contra acórdão que, emanado do Tribunal Regional Federal da 4ª Região, está assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. SIMPLES NACIONAL. ADESÃO. PARCELAMENTO ORDINÁRIO. IMPOSSIBILIDADE.
+    Incabível adesão ao parcelamento, conferido pela Lei nº 10.522/02, ao optante pelo SIMPLES NACIONAL.”
+    A parte ora recorrente alega que o Tribunal “a quo” teria transgredido o preceito inscrito no art. 150, inciso II, da Constituição da República, sustentando, em suas razões recursais, que “(...) Se há uma Lei que autoriza o parcelamento de débitos administrados pela Receita Federal do Brasil pelas pessoas (leia-se, todas as pessoas), sem qualquer menção à forma de apuração tributária optada por estas, não há como este órgão discriminar e arbitrar a autorização para parcelar dependendo da modalidade de apuração tributária por afronta ao princípio da isonomia e da legalidade. (...)” (e-STJ, fls. 309).
+    Entendo inacolhível a pretensão recursal ora deduzida, eis que – como se sabe – não se revela lícito, ao Poder Judiciário, atuar na anômala condição de legislador positivo (RTJ 126/48 – RTJ 143/57 – RTJ 146/461-462 – RTJ 153/765 – RTJ 161/739-740 – RTJ 175/1137, v.g.), para, em assim agindo, e nos limites do pleito deduzido pela empresa contribuinte, proceder à imposição de seus próprios critérios, afastando, desse modo, os fatores que, no âmbito de nosso sistema constitucional, só podem ser legitimamente definidos pelo Parlamento.
+    É que, se tal fosse possível, o Poder Judiciário – que não dispõe de função legislativa – passaria a desempenhar atribuição que lhe é institucionalmente estranha (a de legislador positivo), usurpando, desse modo, no contexto de um sistema de poderes essencialmente limitados, competência que não lhe pertence, com evidente transgressão ao princípio constitucional da separação de poderes.
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Corte, a propósito de questão assemelhada à que ora se examina nesta sede recursal (AI 843.816/RS, Rel. Min. CÁRMEN LÚCIA – RE 431.001-AgR/AC, Rel. Min. EROS GRAU, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministro CELSO DE MELLO
+Relator
