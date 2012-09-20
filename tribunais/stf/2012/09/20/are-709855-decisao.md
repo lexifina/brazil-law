@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Rio de Janeiro ementado nos seguintes termos:
+    “REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. PENSÃO POST MORTEM DEVIDA NO PERCENTUAL DE 100% DO VENCIMENTO QUE O SERVIDOR FALECIDO RECEBERIA SE VIVO FOSSE. ART. 40, § 5º DA CONSTITUIÇÃO FEDERAL DE 1988. PRECEDENTES DO STF. VERBA HONORÁRIA CORRETAMENTE FIXADA. OBSERVÂNCIA DO ART. 20, § 4º DO CPC. DECISÃO. ART. 557, CAPUT DO CPC. AGRAVO LEGAL. A redação originária do art. 40, § 5º da Constituição Federal de 1988, aplicável à hipótese dos autos, assegura à pensionista a percepção da totalidade dos vencimentos ou proventos a que faria jus o servidor à época do seu falecimento, ocorrido em 23 de junho de 1994. Assim, com base naquele dispositivo constitucional, a parte autora tem direito à 100% do vencimento do funcionário falecido, como decidido na r. sentença. Impende consignar que a verba honorária foi corretamente arbitrada, porque em consonância com as disposições do art. 20, § 4º do CPC. RECURSO PRINCIPAL A QUE NEGA SEGUIMENTO. DESPROVIMENTO DO AGRAVO LEGAL”. (fl. 122)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao art. 40, §§ 2º e 10, do texto constitucional.
+     Alega-se, inicialmente, que “a pensão previdenciária deve ser paga tendo por base o cargo efetivo em que se deu a aposentadoria ou óbito” (fl. 143).
+    Assevera-se, ademais, que a Constituição Federal veda, no § 10 do art. 40, a contagem fictícia de tempo de serviço.
+    Afirma-se, ainda, que o art. 6º da Lei Estadual n. 4.157/2003, que regulava a possibilidade de promoção post mortem, foi declarado inconstitucional pelo Órgão Especial da Corte a qua.
+    Decido.
+    A irresignação não merece prosperar.
+    A respeito da controvérsia versada nos autos, assim se manifestou o tribunal de origem:
+    “Postula a autora revisão de benefício previdenciário a fim de adequá-lo ao percentual de 100% do valor dos vencimentos de seu marido, servidor falecido, se vivo fosse.
+    Ab initio impende consignar que não consta da inicial pretensão concernente à promoção post mortem, razão pela qual deixo de apreciar a impugnação de tal pedido.
+    A redação originário do art. 40, § 5º da Constituição Federal de 1988, aplicável à hipótese dos autos, assegura à pensionista a percepção da totalidade dos vencimentos ou proventos a que faria jus o servidor à época do seu falecimento, ocorrido em 23 de junho de 1994 (fls. 16).
+    Assim, com base naquele dispositivo constitucional, a parte autora tem direito à 100% do vencimento do funcionário falecido, como decidido na r. Sentença”. (fl. 123) (grifei)
+    Nas razões recursais, aduz-se a inconstitucionalidade da fixação do valor de pensão previdenciária com base em graduação alcançada após o óbito ou inatividade.
+    Nesses termos, verifica-se que as razões do recurso extraordinário não infirmam adequadamente o fundamento apontado no acórdão recorrido (segundo o qual o benefício previdenciário pago a título de pensão deve ter valor correspondente à totalidade dos vencimentos ou proventos do servidor falecido), restando deficiente o recurso.
+    Assim, tendo em vista que os argumentos que sustentam o recurso extraordinário são dissociados dos fundamentos da decisão recorrida, incide o Enunciado 284/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. AGRAVO IMPROVIDO. I - É inadmissível o recurso extraordinário, consoante a Súmula 284 desta Corte, se as razões recursais estão dissociadas dos fundamentos da decisão recorrida. II - Agravo regimental improvido”. (ARE-AgR 656.022, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 16.11.2011)
+    Ademais, não bastasse o óbice acima mencionado, melhor sorte não assistiria ao recorrente. Observo que o entendimento adotado pelo tribunal de origem, a respeito da base de cálculo do benefício previdenciário, pago a título de pensão, está em consonância com a pacífica jurisprudência desta Corte, segundo a qual o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido.
+    Nesse sentido, confiram-se as seguintes decisões: RE 338.752, Rel. Min. Moreira Alves, DJ 11.10.2002; RE-AgR 552.047, Rel. Min. Dias Toffoli, DJe 21.3.2012; AI-AgR 698.996, Rel. Min. Celso de Mello, DJe 27.2.2009. Eis a ementa deste último julgado:
+    “AGRAVO DE INSTRUMENTO – AUTO-APLICABILIDADE DA NORMA INSCRITA NO ART. 40, § 5º, DA CONSTITUIÇÃO FEDERAL (NA REDAÇÃO ANTERIOR À PROMULGAÇÃO DA EC 20/98) – CORRESPONDÊNCIA DO VALOR DA PENSÃO A TOTALIDADE DOS VENCIMENTOS OU PROVENTOS DO SERVIDOR FALECIDO – REVISÃO DOS VALORES NA MESMA DATA E NA MESMA PROPORÇÃO DA REMUNERAÇÃO DOS SERVIDORES EM ATIVIDADE – DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL – RECURSO IMPROVIDO”.
+    Não há, pois, o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
