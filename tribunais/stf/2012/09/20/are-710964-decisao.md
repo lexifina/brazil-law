@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “ADMINISTRATIVO – AÇÃO ORDINÁRIA – CONCURSO PÚBLICO – OFICIAL DE APOIO JUDICIAL DOS QUADROS DO TRIBUNAL DE JUSTIÇA – DIREITO À NOMEAÇÃO – DESIGNAÇÃO PRECÁRIA – NECESSIDADE PERMANENTE DO SERVIÇO PÚBLICO – INOCORRÊNCIA – CLASSIFICAÇÃO SUPERIOR AO NÚMERO DE VAGAS – IMPROCEDÊNCIA DO PEDIDO.
+    1. A designação de terceiros para substituição temporária de serventuários e auxiliares de Justiça, nos termos do art. 10, inc. I, e § 1º, alínea ‘b’, da Lei Estadual n. 10.254/90, quando não evidencia a necessidade permanente da Administração Pública, não convola em direito a mera expectativa de nomeação da autora classificada em posição superior ao número de vagas oferecidas no concurso público para o cargo de Oficial de Apoio Judicial.
+    2. Recurso não provido.
+    V.v. EMENTA: ADMINISTRATIVO. CONCURSO PÚBLICO. CLASSIFICAÇÃO ALÉM DO NÚMERO DE VAGAS. DESIGNAÇÃO DE SERVIDORES A TÍTULO PRECÁRIO. DIREITO À NOMEAÇÃO. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.
+    1. Conforme a jurisprudência recente do Supremo Tribunal Federal, os candidatos aprovados em concurso público têm direito subjetivo à nomeação, desde que classificados dentro do número de vagas anunciado no edital. Nesse contexto, a recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário.
+    2. A aprovação em concurso público além do limite de vagas inicialmente ofertadas não é capaz, por si só, de afastar o direito à nomeação, caso fique demonstrada a necessidade de preenchimento dos cargos, seja por meio de designação, contratação temporária ou qualquer outra forma de admissão de pessoal, que não a nomeação em caráter efetivo.
+    3. A realização das designações do candidato para exercer as funções do cargo para o qual prestou concurso denota a real necessidade de provimento do cargo, fazendo surgir o direito subjetivo à nomeação em caráter efetivo (Des. Bitencourt Marcondes)”. (fl. 180)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao art. 37, caput, do texto constitucional.
+    Alega-se, em síntese, que “o recorrido contrariou o princípio constitucional da legalidade administrativa em não nomear até a presente data a recorrente, para assumir em caráter efetivo, as funções do cargo do qual foi aprovada em concurso público” e malferiu o princípio da moralidade ao “manter centenas de servidores contratados em caráter precário (...) ao invés de prover os servidores classificados como excedentes no referido certamente”. (fl. 221)
+    Aduz-se, assim, a existência de direito subjetivo à nomeação da recorrente.
+    Decido.
+    A irresignação não merece prosperar.
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, confiram-se os seguintes trechos dos votos condutores do aresto recorrido:
+    “(...) a designação foi feita pela Administração Pública estadual em caráter precário e por prazo determinado, a fim de viabilizar a substituição de servidora durante o afastamento desta do cargo efetivo, consoante previsto no art. 10, inc. I e § 1º, alínea ‘b’, da aludida Lei n. 10.254/90.
+    Destarte, meu aviso, a designação levada a efeito pelo ESTADO não evidenciou a necessidade provimento permanente do cargo, pois teve o escopo de preencher temporariamente lacuna funcional provisória decorrente de afastamento de servidor ocupante de cargo efetivo. Bem por isso, não pode ela ser tomada como reconhecimento, pela Administração Pública, da necessidade de provimento do cargo”. (fl. 194)
+    “(...) o que se afere dos autos, é que a designação da autora se deve ao fato de a titular do cargo estar afastada, inexistindo a vacância do cargo, mas a necessidade temporária, até o seu retorno, na forma da Lei Estadual n. 18.185/2009.
+    Destarte, o que se afere dos autos é que a Administração Pública agiu dentro dos ditames legais, designando a título precário candidata classificada em concurso público para ocupar o cargo para qual foi aprovada, tendo em vista o afastamento temporário de sua titular.
+    Assim, inexistindo cargo vago, visto que a sua titular encontra-se apenas temporariamente afastado de suas funções, não há que se falar em ilegalidade da contratação temporária e consequentemente, no direito subjetivo da autora de ser nomeada, porquanto, repita-se, classificada em concurso público fora do número de vagas”. (fl. 199)
+    Assim, para se entender de forma diversa, far-se-ia imprescindível a revisão dos fatos e das provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
