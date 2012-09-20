@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “Administrativo. Desligamento automático. Impossibilidade de aplicação de resolução mais gravosa, editada após o ingresso do estudante na universidade. Aluno que concluiu todas as disciplinas, restando apenas fazer e apresentar a monografia. Apelação e remessa oficial improvidas” (fl. 174).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 205, 206 e 209 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Resoluções 255/1992 e 103/2006, atos normativos internos da Universidade). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido, cito o RE 590.494-AgR/MG, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ENSINO SUPERIOR. PROIBIÇÃO DE MATRÍCULA EM DOIS CURSOS SIMULTÂNEOS NA MESMA INSTITUIÇÃO DE ENSINO. RESOLUÇÃO N. 4/2003. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil”.
+    Por fim, o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, com o não provimento do recurso especial pelo Superior Tribunal de Justiça (REsp 1.242.668/RN, com trânsito em julgado certificado em 10/6/2011), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
