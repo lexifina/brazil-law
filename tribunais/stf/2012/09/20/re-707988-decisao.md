@@ -1,0 +1,13 @@
+CONSTITUCIONAL E ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. SEGURO OBRIGATÓRIO – DPVAT. INDENIZAÇÃO. ART. 8º DA LEI 11.482/07, NA REDAÇÃO CONFERIDA PELA MP 360/06. CONSTITUCIONALIDADE SENDO ANALISADA PELO PLENO DESTA CORTE NA ADI 4.627. SOBRESTAMENTO DO FEITO.
+    Decisão: Cuida-se de recurso extraordinário interposto por ANTÔNIO ANAILTON EUGÊNIO E OUTRO, com fundamento no artigo 102, inciso III, alínea a, da Constituição Federal de 1988, contra o acórdão proferido pela Segunda Turma Recursal dos Juizados Especiais Cíveis e Criminais do Estado do Ceará, assim ementado (fls. 158/159):
+    “CONSTITUCIONAL, CIVIL E PROCESSUAL CIVIL. RECURSO INOMINADO. SEGURO (DPVAT). MORTE DA VÍTIMA. ACIDENTE OCORRIDO SOB A ÉGIDE DA LEI Nº 11.482/2007, QUE REGULA A INDENIZAÇÃO POR MORTE OU INVALIDEZ PERMANENTE EM R$ 13.500,00 DEVIDA INTEGRALMENTE. PAGAMENTO ADMINISTRATIVO EFETUADO. ALEGATIVA DE INCONSTITUCIONALIDADE DA REFERIDA LEGISLAÇÃO, VEZ QUE REDUZIU A INDENIZAÇÃO POR MORTE QU ERA DE 40 (QUARENTA) SALÁRIOS MÍNIMOS PARA R$ 13.500,00 (TREZE MIL E QUINHENTOS REAIS). Embora essas premissas sejam verdadeiras, eis que a legislação realmente estabeleceu novos parâmetros para a tabela de imposto de renda e da mudança da tabela de pagamento de seguro obrigatório, elas não servem à Declaração de Inconstitucionalidade, posto que essa antinomia não viabiliza a instauração da jurisdição constitucional. Os parâmetros de controle da validade jurídico-constitucional das leis, é cediço, devem estar assentados no próprio texto constitucional. O processo nos Juizados Especiais não se presta ao controle de inconstitucionalidades indiretas, mas apenas das afrontas diretas e imediatas ao texto da Constituição.”
+    Foram opostos embargos de declaração, rejeitados.
+    Nas razões do apelo extremo, os recorrentes alegam violação dos artigos 2º, 5º, 59 e 65, § 5º, da CF/88, sustentando, em síntese, a inconstitucionalidade do artigo 8º da Lei 11.482/07, na redação conferida pela MP 340/06.
+    É o relatório. DECIDO.
+    A controvérsia sub judice – constitucionalidade do artigo 8º da Lei 11.482/07, na redação conferida pela MP 340/06, que alterou o critério de fixação da indenização do seguro obrigatório, atribuindo o valor de R$ 13.500,00 (treze mil e quinhentos reais) para os casos de morte ou invalidez total ou permanente – será submetida à apreciação do Pleno desta Corte nos autos da Ação Direta de Inconstitucionalidade n. 4.627, de que sou Relator.
+    Ex positis, determino o sobrestamento deste feito até o julgamento definitivo da referida ADI.
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
