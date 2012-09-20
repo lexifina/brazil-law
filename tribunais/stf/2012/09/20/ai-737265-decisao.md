@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PENSÃO POR MORTE. EX-COMBATENTE. REVERSÃO DE COTA-PARTE. POSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “Administrativo e Previdenciário. Pensão por morte de ex-combatente. Impossibilidade de transferência rateio de pensão das filhas maiores (segunda classe) à viúva (primeira classe). Inexistência de reversão. Apelo improvido (fl. 134).
+    No voto condutor do acórdão recorrido, o Desembargador Relator Lázaro Guimarães afirmou:
+    “O que se discute neste feito não é a condição de ex-combatente, ensejadora do direito à pensão, mas sim o direito da viúva à transferência de cota-parte das filhas maiores beneficiárias de pensão especial de ex-combatente em seu favor, ou seja, à reversão do benefício.
+    À época do falecimento do ex-combatente, as leis vigentes – 4.242/63 e 3.765/60 – estabeleciam o direito à pensão, a ordem de precedência entre os beneficiários, constando, na primeira classe, a viúva e, na segunda, os filhos, de qualquer condição, exclusive os maiores do sexo masculino, que não fossem interditos ou inválidos (Lei 3.765/60, art. 7º, I e II).
+    O Supremo Tribunal Federal consolidou o entendimento de que o direito à pensão de ex-combatente é regido pelas normas legais em vigor à data do evento morte. Tratando-se de reversão do benefício à filha mulher, em razão do falecimento da própria mãe que a vinha recebendo, considera-se não os preceitos em vigor quando do óbito desta última, mas do primeiro, ou seja, do ex-combatente. (MS 21.[7]07-DF, Rel. para Acórdão Min. Marco Aurélio, RTJ 161/121).
+    No entanto, no caso em questão não há direito à transferência de cota-parte das filhas maiores beneficiárias em seu favor, pois estão classificadas em classes diferentes.
+    Atente-se ao que preceitua o art. 24, da Lei nº 3.765/60 (…) O art. 7º, dessa mesma legislação, estabelecia a sequência dos dependentes (…) Assim, conforme se pode observar, a norma não admite reversão em favor do beneficiário que se situa na ordem ascendente” (fls. 130 e 131).
+    Não foram opostos embargos de declaração.
+    2. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fl. 180).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. XXXVI, da Constituição da República, e art. 53, inc. II e II, do Ato das Disposições Constitucionais Transitórias - ADCT.
+    Assevera que “o direito da Recorrente é líquido e certo, vez que está baseado a Lei 4242/63, obedecendo à sistemática da Lei 3.765/90” (fl. 154).
+    Sustenta que “restou provado o direito da Recorrente à transferência da cota-parte do beneficio da pensão especial de ex-combatente das filhas maiores, na forma do artigo 53, I e III do ADCT e artigo 5º XXXVI da CF/88, por direito adquirido, obedecendo à sistemática da lei nº 3.765/60, posto que o seu marido faleceu anterior ao advento da lei nº 8.059/90” (fl. 161).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. O art. 5º, inc. XXXVI, da Constituição da República e o art. 53, inc. II e III, do Ato das Disposições Constitucionais Transitórias, suscitados no recurso extraordinário, não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    6. Ademais, este Supremo Tribunal Federal assentou que a norma regente da concessão de pensões de ex-combatentes é a vigente na data do óbito do instituidor (princípio do tempus regit actum). Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. EX-COMBATENTE. PENSÃO ESPECIAL. REGÊNCIA PELA LEGISLAÇÃO VIGENTE NA ÉPOCA DO ÓBITO DO INSTITUIDOR. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 598.150-AgR, de minha relatoria, Primeira Turma, DJ 21.2.2011).
+    7. Além disso, ainda que fosse possível superar a ausência do prequestionamento, o Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXVI, da Constituição da República, se dependente do exame de legislação infraconstitucional (Leis n. 3.765/60, 4.242/1963 e 8.059/1990), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “Agravo regimental em agravo de instrumento. 2. Agravo de instrumento manifestamente improcedente: recurso extraordinário que apenas discute a interpretação e a aplicação das leis 3.765/60 e 10.486/2002. 3. Ofensa reflexa: impossibilidade de análise de legislação infraconstitucional pelo STF. 4. Agravo regimental a que se nega provimento” (AI 754.286-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 13.3.2012).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
