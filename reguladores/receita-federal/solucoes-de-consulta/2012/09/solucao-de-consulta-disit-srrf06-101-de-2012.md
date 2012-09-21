@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF06 nº 101, de 18 de setembro de 2012
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF
+EMENTA: Isenção: Ganho de Capital - Alienação de Imóveis para Aquisição de Imóvel Residencial localizado no País. Alienação condicionada à aprovação de financiamento pelo Sistema Financeiro de Habitação (SFH). Prazos. Na alienação sob condição suspensiva, em que a alienação está condicionada a aprovação de financiamento pelo sistema financeiro de habitação (SFH), a data da alienação é a da aprovação do financiamento, momento do implemento da condição desde que expressamente prevista tal condição no instrumento contratual. O prazo de 180 (cento e oitenta) dias para aplicação do produto para o gozo da isenção do imposto começa a fluir a partir da aprovação do financiamento pela instituição financeira e celebração do contrato definitivo de compra e venda. A aplicação parcial do produto da venda implicará tributação do ganho proporcionalmente ao valor da parcela recebida e não aplicada. A condição suspensiva de alienação deve vir expressa no respectivo instrumento de "Promessa de Compra e Venda" para que se configure ato jurídico sob condição suspensiva. Caso contrário, considera-se consumada a transmissão do imóvel na data da assinatura do documento inicial, não importando se a alienação foi contratada a prazo ou financiada pelo SFH.
+DISPOSITIVOS LEGAIS: art. 39 da Lei nº 11.196, de 21 de novembro de 2005; Lei nº 7.713, de 1988; Lei nº 5.172/66; art. 140 do RIR/99, CC - Lei nº 10.406/2002.
+SC SRRF06-Disit nº 101-2012
+[arquivo anexo: SC SRRF06-Disit nº 101-2012.pdf]
+MÁRIO HERMES SOARES CAMPOS
+Chefe
