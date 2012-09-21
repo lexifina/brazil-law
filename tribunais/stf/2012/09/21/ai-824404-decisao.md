@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo de instrumento de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado da Bahia, cuja ementa tem o seguinte teor (fls. 70):
+    APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO ORDINÁRIA. RESPONSABILIDADE CIVIL. ARGUIÇÃO DE ILEGITIMIDADE POR INEXISTÊNCIA DE PROVA DA PROPRIEDADE DO BEM - IMPROCEDÊNCIA. DOMÍNIO DE COISA MÓVEL SE OPERA COM A TRADIÇÃO. ART. 481 E 482 DO C.C. 2002. RESPONSABILIDADE OBJETIVA DAS PESSOAS JURÍDICAS DE DIREITO PÚBLICO (ART. 37, § 6º, DA CARTA MAGNA). INCÊNDIO EM VEÍCULO DE TERCEIRO REQUISITADO PARA FAZER DILIGÊNCIA POLICIAL. COMPROVAÇÃO DO DANO. DEVER DE INDENIZAR. RECURSO IMPROVIDO.
+    "As pessoas jurídicas de direito público, bem como as privadas que prestam serviço público, nos termos do art. 37, §6º, da Constituição Federal, respondem objetivamente pelos danos que causarem no exercício de suas funções".
+    "Pelo contrato de compra e venda um dos contratantes se obriga a transferir o domínio de certa coisa, e o outro, a pagar-lhe o preço em dinheiro - art. 481 do CC. O contrato de compra e venda é o meio, o instrumento para se transferir o domínio. Tem efeito meramente obrigacional que se implementa com a execução mediante a tradição se coisa móvel."
+    Nas razões do recurso extraordinário, o agravante alega violação do artigo 37, § 6º, da Constituição federal. Sustenta, em síntese, que “houve contrariedade ao § 6º do artigo 37 da Constituição Federal, vez que, um fato tipicamente caracterizado como sendo caso fortuito, e portanto, excludente de responsabilidade civil, não foi considerado como elemento bastante a operar o efeito da desoneração da obrigação estatal em indenizar pelo dano verificado” (fls. 96).
+    É o relatório. Decido.
+    A decisão impugnada concluiu pela configuração de ato ilícito a reclamar reparação. Ressalta-se que:
+    “Dessa forma, diante da tese de responsabilidade objetiva, toda vez que o ente público contrata ou utiliza serviços de terceiros assume a responsabilidade por qualquer dano, assim não prospera o argumento de que o Estado não está obrigado a indenizar por culpa do Autor, tendo em vista que, não existe nos autos, nenhuma prova de que o incêndio do automóvel ocorreu pela sua má conservação. Ao contrário do afirmado pelo recorrente, as testemunhas ouvidas (fls. 124/125) afirmaram que o veículo utilizado estava em perfeitas condições de uso.
+    Igualmente, não pode predominar a argumentação de que se verificou o caso fortuito, posto que, sem dúvida alguma, o simples fato do agente público do Apelante ter requisitado o veículo do Apelado para realizar uma diligência policial implica na possibilidade de risco, ensejando desta maneira a aplicação da Teoria da Responsabilidade Objetiva, obrigando o Estado ao dever de indenizar a vítima” (fls. 72-73).
+    Inviável chegar à conclusão contrária sem o reexame de prova, o que dá margem ao descabimento do recurso extraordinário (Súmula 279).
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 21 de setembro de 2012.
+Ministro Joaquim Barbosa
+Relator
