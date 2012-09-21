@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Tribunal Regional Federal da 5ª Região, cuja ementa possui o seguinte teor (fls. 152):
+    “CONSTITUCIONAL. AÇÃO CIVIL PÚBLICA MOVIDA PELO MINISTÉRIO PÚBLICO FEDERAL CONTRA UNIVERSIDADE ESTADUAL. COBRANÇA DE MENSALIDADES. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+    I. Se em qualquer dos pólos da relação processual não figurarem as entidades expressas no artigo 109, I, da Constituição Federal, afasta-se a competência da Justiça Federal para o julgamento do feito.
+    II. As universidades estaduais gozam de autonomia para organizar e gerir seus sistemas de ensino, e seus dirigentes não agem por delegação federal. Os atos de gestão por eles praticados devem ser apreciados pela justiça estadual.
+    III. A propositura da ação civil pública pelo Ministério Público Federal não desloca a competência para a Justiça Federal. Precedentes STJ: CC 38130, CC 35980.
+    IV. Agravo de instrumento provido. Agravo inominado prejudicado.”
+    O recorrente alega ofensa ao art. 109, I, da Constituição. Sustenta, em síntese, a competência da Justiça Federal para processar e julgar ação promovida pelo Ministério Público Federal em face de universidade estadual. Alega ser “inegável o interesse do ente delegante do serviço para a sua definição em juízo, o que cria, por via de consequência, a competência da Justiça Federal” (fls. 167).
+    Não assiste razão ao recorrente.
+    A mera alegação pelo Ministério Público Federal de existência de interesse da União no feito não atrai a competência da Justiça Federal. O acórdão recorrido encontra-se em harmonia com a orientação deste Supremo Tribunal Federal, sintetizada nos julgados a seguir:
+    “Recurso extraordinário. Alegação de incompetência da Justiça Estadual.
+    Sendo ‘ratione personae’ a competência prevista no artigo 109, I, da Constituição , e não integrando a União a presente vistoria ‘ad perpetuam rei memoriam’ na qualidade de autora, ré, assistente ou opoente, inexiste ofensa ao citado dispositivo constitucional, porquanto a simples alegação da existência de interesse da União feita pela ora recorrente não desloca, só por isso, a competência para a Justiça Federal. Ademais, a questão de não ter sido determinada a citação da União para manifestar seu interesse no feito numa das aludidas condições se situa no âmbito processual infraconstitucional, e só indiretamente se poderia pretender violação ao referido artigo da Carta Magna, não cabendo para isso o recurso extraordinário.
+    Recurso extraordinário não conhecido.” (RE 172.708, rel. min. Moreira Alves, DJ de 12.11.1999)
+    ”EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. 1) CONSTITUCIONAL. ART. 109, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. MERA ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. IMPOSSIBILIDADE DE DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. 2) ALEGAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO: QUESTÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 588.134- AgR, rel. min. Cármen Lúcia, Primeira Turma, DJe de 01.07.2011, grifei)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE REQUERIMENTO DA UNIÃO, DE AUTARQUIA OU DE EMPRESA PÚBLICA PARA INTEGRAR A LIDE. ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE DE UM DESSES ENTES. IMPOSSIBILIDADE DE DESLOCAMENTO DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL. PRELIMINAR FORMAL DE REPERCUSSÃO GERAL NÃO FUNDAMENTADA.” (ARE 682.194, rel. min. Luiz Fux, DJe de 09.05.2012)
+    Confirma-se, ainda, em casos semelhantes, os seguintes precedentes: RE 666.163 (rel. min. Ayres Britto, DJe de 13.03.2012) e ARE 658.803 (rel. min. Gilmar Mendes, DJe de 14.03.2012).
+    Afasto, ademais, a alegação de impropriedade na distinção entre o mandado de segurança e ação ordinária, para fins de fixação de competência federal. Entendo invocável, nesse ponto, o conteúdo da Súmula 284 deste Tribunal, visto que o artigo apontado como violado não alberga o tema, tal como ventilado no apelo extraordinário.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 21 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
