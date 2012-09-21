@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Sindicato dos Trabalhadores na Indústria de Extração do Ferro e Metais Básicos de Congonhas, Belo Vale e Ouro Preto interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 8º, inciso I,I da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Civil do Tribunal de Alçada do Estado de Minas Gerais, assim ementado:
+    “OBRIGAÇÃO DE NÃO FAZER – SINDICATO REPRESENTAÇÃO – CATEGORIA – PROFISSÃO – NEGOCIAÇÃO COLETIVA. O sindicato representativo de profissão não pode ser impedido pelo sindicato representativo de categoria profissional de participar de negociação coletiva” (fl. 147).
+    Opostos embargos de declaração, foram rejeitados (fls. 153 a 160).
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 24/4/04, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Não merece prosperar a irresignação.
+    No tocante à participação do apelado na negociação coletiva com a empresa Vale do Rio Doce, acordo coletivo para o período de 2001-2002, essa não se configura intromissiva, uma vez que o agravante representa a categoria profissional dos Trabalhadores nas Industrias da Extração do Ferro e Metais Básicos de Congonhas, Belo Vale e Ouro Preto, enquanto que o agravado, os profissionais Técnicos Industriais de Minas Gerais. O acórdão recorrido consignou expressamente que:
+    “Nesse contexto, não há que se falar em afronta ao princípio da unicidade sindical, e existência de dano e afronta direta à lei (CR 8°, CLT 511). Ademais, a apreciação cuidadosa do conjunto probatório não permite excluir o apelado de negociações coletivas com a empresa Vale do Rio Doce, porquanto legítima é a associação por profissão”.
+    Diante disso, para superar o posicionamento perfilhado nessa decisão, seria necessário o reexame do conjunto probatório acostado aos autos, o que é inviável em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SINDICATO. PRINCÍPIO da UNICIDADE. REPRESENTAÇÃO DE CATEGORIA PROFISSIONAL. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO. 1. Nos termos da Súmula 279/STF, é inviável, na instância recursal extraordinária, o reexame de fatos e provas constantes dos autos. 2. De mais a mais, o tema alusivo à incompetência da Justiça estadual não foi objeto de análise prévia, e conclusiva, pelo Colegiado de origem. Pelo que é de incidir a Súmula 282/STF. 3. Agravo regimental desprovido “(RE nº 478.458/RS-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 2/4/12).
+    1. RECURSO. Extraordinário. Inadmissibilidade. Unicidade sindical. Alegação de ofensa ao art. 8º, II, da Constituição Federal. Ofensa constitucional indireta. Aplicação das súmulas 279 e 280. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Não se admite, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco de violação que dependeria de reexame prévio de provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte (RE nº 198.755/SP-AgR, Segunda Turma, Relator o Ministro Cezar Peluso , DJe de 29/10/09).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 21 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
