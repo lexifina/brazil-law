@@ -1,0 +1,41 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. DIFERENÇA SALARIAL. INCENTIVO FINANCEIRO FEDERAL E ESTADUAL. AGENTE COMUNITÁRIO DE SAÚDE. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO DE REVISTA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. PRECEDENTES.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. Os pressupostos de admissibilidade dos recursos trabalhistas cingem-se ao âmbito infraconstitucional, por isso que a decisão acerca dos mesmos não desafia o apelo extremo. Precedentes: RE 555.315-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJe 25.09.2009, AI n. 420.256-AgR, Rel. Min. Cezar Peluso, DJe 20.02.2004 e AI n. 720.779-AgR, Segunda Turma, Rel. Ministro Celso de Mello, DJe 17.10.2010.
+3. Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a aferição da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI n. 629.342-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 07.05.2010 e RE n. 561.980-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 08.04.2011.
+4. In casu, o acórdão recorrido assentou:
+“AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. TRANSCENDÊNCIA ECONÔMICA. AGENTE COMUNITÁRIO DE SAÚDE - INCENTIVO FINANCEIRO FEDERAL E INCENTIVO FINANCEIRO ESTADUAL. Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento. Agravo desprovido.”
+5. NEGO SEGUIMENTO ao agravo.
+    Decisão: Cuida-se de agravo nos próprios autos interposto pela AGÊNCIA MUNICIPAL DE PRESTAÇÃO DE SERVIÇOS À SAÚDE – AGÊNCIA DE SAÚDE, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pelo Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. TRANSCENDÊNCIA ECONÔMICA. AGENTE COMUNITÁRIO DE SAÚDE - INCENTIVO FINANCEIRO FEDERAL E INCENTIVO FINANCEIRO ESTADUAL. Nega-se provimento a agravo de instrumento que visa liberar recurso despido dos pressupostos de cabimento. Agravo desprovido.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, alega violação aos artigos 5º, II, 37, X, 61, § 1º, II, a, e 169 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    In casu, a Segunda Turma do Tribunal Superior do Trabalho negou provimento ao agravo de instrumento porque o recurso não preenche os requisitos de admissibilidade.
+    Ora, esta Suprema Corte firmou jurisprudência nos termos da qual a aferição dos pressupostos de admissibilidade dos recursos trabalhistas em geral, ainda que se cuide de recurso de revista, não viabiliza o acesso à via recursal extraordinária, por envolver discussão de tema de caráter eminentemente infraconstitucional, o que por si só, não desafia a instância extraordinária. Nesse sentido, colacionam-se julgados de ambas as Turmas deste Tribunal:
+    “DIREITO PROCESSUAL TRABALHISTA E DIREITO DO TRABALHO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECURSO DE REVISTA. PRESSUPOSTOS DE ADMISSIBILIDADE. ART. 896 DA CLT. PRESCRIÇÃO. ART. 7º, XXIX, DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA DE OFENSA À CONSTITUIÇÃO.
+    1. Inviável o processamento de extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao art. 93, IX, da Constituição Federal. Afronta, se existente, seria indireta.
+    2. O Tribunal de origem limitou-se a tratar de matéria processual relativa a pressuposto de admissibilidade do recurso de revista, nos termos do art. 896 da Consolidação das Leis do Trabalho, cuja discussão não rende ensejo ao cabimento do recurso extraordinário.
+    3. Precedentes das Turmas desta Corte.
+    4. Agravo regimental improvido” (RE 555.315-AgR, Segunda Turma, Rel. Min. Ellen Gracie, DJe 25.09.2009).
+    “AGRAVO DE INSTRUMENTO - MATÉRIA TRABALHISTA - AUSÊNCIA DE OFENSA DIRETA AO TEXTO CONSTITUCIONAL - RECURSO IMPROVIDO.
+    - O debate em torno da aferição dos pressupostos de admissibilidade dos recursos trabalhistas em geral, ainda que se cuide de recurso de revista, não viabiliza o acesso à via recursal extraordinária, por envolver discussão pertinente a tema de caráter eminentemente infraconstitucional. Precedentes .
+    - Situações de ofensa meramente reflexa ao texto da Constituição não viabilizam o acesso à via recursal extraordinária, cuja utilização supõe a necessária ocorrência de conflito imediato com o ordenamento constitucional. Precedentes“ (AI 720.779-AgR, Segunda Turma, Rel. Ministro Celso de Mello, DJe 17.10.2010).
+       “EMENTA: RECURSO. Extraordinário. Inadmissibilidade. Agravo de instrumento em recurso de revista. Não provimento pelo TST. Art. 896 da CLT. Fundamento infraconstitucional. Agravo regimental não provido. Não cabe RE contra acórdão do Tribunal Superior do Trabalho que, negando provimento a agravo, manteve decisão de recurso de revista, com fundamento no art. 896 da CLT” (AI 420.256-AgR, Rel. Min. Cezar Peluso, DJe 20.02.2004).
+    Demais disso, a postulação da ora agravante esbarra em outro óbice igualmente intransponível, qual seja, o veto erigido pelo Enunciado da Súmula 636 desta Corte, de seguinte teor: “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido, colacionam-se julgados de ambas as Turmas do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. COTEJO ENTRE O DECRETO 1.035/93 E A LEI 8.630/93. INCISO II DO ART. 5º DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA OU REFLEXA.
+    1. É de se aplicar a Súmula 636 do Supremo Tribunal Federal: Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    2. Agravo regimental a que se nega provimento” (AI n. 629.342-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 07.05.2010).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA LEGALIDADE. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. AGRAVO IMPROVIDO.
+    I - O Tribunal entende não ser cabível a interposição de RE por contrariedade princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    II - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissível o RE, ante a incidência da Súmula 280 do STF.
+    III - Agravo regimental improvido” (RE n. 561.980-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 08.04.2011).
+    NEGO SEGUIMENTO ao agravo com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 21 de setembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
