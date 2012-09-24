@@ -1,0 +1,40 @@
+Vistos etc
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Wanderley Rodrigues Baldi em favor de Zhen Haifang, Wu Lizhen, Zhou Xinyou, Liu Peihua contra decisão do Superior Tribunal de Justiça, indeferitória do pedido liminar no HC n.º 251.889.
+    Narra a inicial terem os ora pacientes ingressado no País em 26.6.2012, oriundos de localidade não apurada no processo, portando passaportes falsificados, razão pela qual impedidos por agentes da Polícia Federal de saírem do Aeroporto Internacional de Guarulhos e retidos seus pertences e documentos, situação que permanece inalterada até a presente data, mesmo sem a instauração de procedimento administrativo ou penal.
+    Impetrado habeas corpus perante a Vara Federal de Guarulhos/SP, para garantir a liberdade dos pacientes, foi indeferido o pedido liminar sob o fundamento de que “comprovado nos autos que os documentos apresentados pelos pacientes à autoridade brasileira são falsos (passaportes coreanos), donde não haver autorização legal para admissão deles no território nacional” (fl. 1, doc. 4).
+    Interposto contra essa decisão recurso ordinário em habeas corpus perante o Tribunal Regional Federal da 3ª Região, em busca da liberdade dos ora pacientes, foi recebido pela Corte de Apelação como habeas corpus e indeferida a ordem liminarmente nos termos seguintes:
+    “O pedido não merece ser conhecido.
+    Com efeito, não cabe a impetração de habeas corpus perante esta E. Corte contra indeferimento de liminar em writ impetrado em primeiro grau de jurisdição, ressalvada hipótese de teratologia ou decisão manifestamente ilegal, o que não é o caso dos autos, sob pen de supressão de instância.
+    Nesse sentido a jurisprudência:
+    (...)
+    Por esses fundamentos, indefiro liminarmente o presente habeas corpus.”
+    Contra essa decisão, impetrado o referido HC 251.889 perante a Corte Superior de Justiça, em que negado o pedido liminar aos seguintes fundamentos:
+    “Decido.
+    Não estão presentes os pressupostos da medida urgente requerida.
+    Ademais, o pedido deduzido é inteiramente satisfativo, demandando a análise do próprio mérito da impetração, inviável em juízo de cognição perfunctória e prelibatória, reservando-se ao Colegiado, em momento oportuno, o pronunciamento definitivo acerca do mérito.
+    Ante o exposto, INDEFIRO o pedido de liminar.
+    Requisitem-se as informações pormenorizadas da Autoridade Impetrada.
+    Após, remetam-se os autos ao Ministério Público Federal para o parecer.”
+    Neste writ, o Impetrante alega que, embora a autoridade policial afirme não estarem os pacientes detidos, podendo sair do país a qualquer momento, de todo inviável a compra de passagens aéreas sem seus documentos, estando “retidos por mais de setenta dias em dependências do Aeroporto Internacional de Guarulhos, à margem da legislação sem que haja procedimento criminal ou administrativo instaurado, à margem, portanto, do due processo f law”. Aduz “teratológica a prisão/restrição da liberdade de ir e vir de pessoas suspeitas de portar passaporte falso sem que haja procedimento criminal ou administrativo para a apuração de tal fato” bem como as decisões que “ratificam a ilegalidade”. Requer, liminarmente e no mérito, a superação da Súmula 691/STF para que seja expedida “ordem de liberdade ou de salvo conduto”.
+    É o breve relato.
+    Passo a decidir.
+    Nada colhe a impetração.
+    Consoante entendimento desta Corte Suprema, cristalizado na Súmula nº 691, é inadmissível habeas corpus para impugnar decisão monocrática do relator no remédio constitucional originário que nega a tutela de urgência, sob pena de indevida supressão de instância, que enseja, inclusive, o indeferimento liminar do writ.
+    O escopo da referida Súmula é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e respectivas competências.
+    A jurisprudência desta Suprema Corte, por outro turno, tem abrandado, em casos excepcionais, o rigor do mandamento sumular, conforme se observa nos seguintes precedentes: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; e HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    Todavia, não detecto na espécie situação autorizadora do afastamento do mencionado verbete, presente que o Juízo de primeiro grau e o Tribunal Regional Federal da 3ª Região indeferiram liminarmente os writs e não há decisão definitiva de mérito do Superior Tribunal de Justiça. E isso porque, como fundamenta a decisão de primeiro grau, “as elucidativas informações prestadas pela autoridade havida como coatora deixam entrever que se trata de um típico caso de imigração clandestina, pelo que conceder aos pacientes salvo conduto, nessas circunstâncias configuraria evidente incentivo à prática da imigração ilegal, além de desprestígio ao relevante serviço público de fiscalização da entrada e saída de estrangeiros em território nacional. A situação de aparente ausência de liberdade de ir e vir, ademais, foi criada pelos próprios pacientes, que se recusam a revelar o seu país de origem, pelo que não há prima facie ato ilegal passível de correção em sede liminar”.
+    Não há manifesta ilegalidade nesses fundamentos, em especial diante da recusa dos pacientes de revelar seu país de origem.
+    De fato, conforme documentos acostados aos autos, notadamente o Ofício 5812/2012, com informações prestadas pela Polícia Federal, os ora pacientes permanecem em trânsito internacional, pois chegaram ao Aeroporto Internacional de Guarulhos/SP e não se apresentaram perante a imigração brasileira, tendo embarcado em seguida em voo da companhia GOL, com destino ao Rio de Janeiro/RJ, onde foram impedidos de ingressar no país em razão da suspeita da falsidade dos passaportes coreanos exibidos, motivo pelo qual retornaram ao Aeroporto de Guarulhos.
+    Ainda, segundo as informações, não foi possível identificar em que voo ou por qual companhia aérea chegaram ao território nacional, tampouco houve êxito em sua identificação, porquanto, além de não apresentarem outros documentos, também não se comunicaram com os intérpretes facultados.
+    Ante a hipótese de não serem coreanos, mas sim chineses, o Consulado Chinês foi oficiado, porém até a data em que prestadas as informações não tinha havido manifestação.
+    O quadro fático fático revela, assim, que a apresentação de passaporte falso pelos ora pacientes motivou fosse barrada sua entrada no país, e que a recusa em se identificarem deu causa à sua permanência na área de trânsito do Aeroporto Internacional de Guarulhos/SP, uma vez que impossibilita sejam enviados de volta ao seu país de origem.
+    Evidentemente, os pacientes não podem permanecer presos no Aeroporto Internacional, devendo ser recambiados. Entretanto, a sua permanência decorre, como visto, segundo as informações constantes dos autos, de sua negativa em identificar o país de origem. É o que esclarece o Delegado de Polícia Federal:
+    “Não se trata, portanto, de prisão ilegal ou crime cometido no Brasil, já que estes, apesar de estarem fisicamente neste Aeroporto, formalmente não ingressaram no país e aguardam o vôo de retorno, que ainda não ocorreu por culpa dos próprios, uma vez que não fornecem seus nomes verdadeiros, nacionalidade, origem ou Companhia Aérea em que chegaram ao Brasil.”
+    E ainda:
+    “A Companhia Aérea Gol, que está responsável pelos pacientes, em termos de alimentação e outros, está disposta a embarcá-los tão logo se descubra a nacionalidade dos mesmos, pois somente o país de nacionalidade irá aceitá-los, já que não possuem documento que os identifique.”
+    Assim, não se verifica qualquer constrangimento ilegal na hipótese.
+    Ante o exposto e com base no art. 21, § 1º, do Regimento Interno e na Súmula nº 691/STF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 24 de setembro de 2012.
+Ministra Rosa Weber
+Relatora
