@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a isenção prevista no art. 10 da Lei 9.249/1995 alcança apenas os sócios ou acionistas da pessoa jurídica, não beneficiando os administradores que não ostentem uma daquelas condições.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II, e 150, I, da mesma Carta. Sustentou-se, ainda, que “a IN/SRF nº 15/01, que, a pretexto de regulamentar a Lei nº 9.249/95, extrapolou os seus contornos” (fl. 292 do e-STJ).
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 9.249/1995). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquele diploma legal pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 734.730/SC, Rel. Min. Dias Toffoli; RE 536.450/SC, Rel. Min. Joaquim Barbosa; RE 566.305/RS, Rel. Min. Ayres Britto.
+    Além disso, ressalto que este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada à norma infraconstitucional pelo Tribunal de origem (Súmula 636 do STF).
+    Por fim, nos termos da jurisprudência do Supremo Tribunal Federal, a discussão acerca de eventual extrapolação do ato regulamentar em relação ao comando legal regulamentado não possui natureza constitucional, porquanto depende da análise do cotejo da norma regulamentadora com a lei ordinária, a cujo exame não se presta o recurso extraordinário. A corroborar esse entendimento, confira-se o julgamento do AI 519.375-AgR/RJ, Rel. Min. Eros Grau, cuja ementa transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. LEI N. 8.200/91, ARTIGO 3º, INCISO I. CONSTITUCIONALIDADE DECLARADA PELO TRIBUNAL PLENO. DECRETO N. 332/91. NORMA REGULAMENTAR. APLICAÇÃO DA NORMA TRIBUTÁRIA.
+    1. Decreto n. 332/91. Norma regulamentar. Inconstitucionalidade de suas disposições por extrapolarem o comando da Lei n. 8.200/91. Alegação improcedente. Se a norma regulamentar padece de vícios dessa espécie, a questão se resolve no âmbito da legalidade e não no âmbito da inconstitucionalidade.
+    2. Eventual declaração de ilegalidade de preceitos da norma regulamentar não exime o contribuinte da observância da legislação regulamentada, tendo em vista que 'o conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos' (CTN, artigo 99).
+    Agravo regimental a que se nega provimento”.
+    Com a mesma orientação, indico os seguintes julgados, entre outros: AI 624.761-AgR/RJ, Rel. Min. Cármen Lúcia; AI 495.415-AgR/RJ, Rel. Min. Carlos Velloso; RE 233.483-AgR/SP, Rel. Min. Gilmar Mendes; RE 608.823/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
