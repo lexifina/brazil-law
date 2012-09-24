@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1294, de 21 de setembro de 2012
+Estabelece os procedimentos para habilitação ao Regime Especial de Tributação para o Desenvolvimento da Atividade de Exibição Cinematográfica (Recine).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 12 a 15 da Lei nº 12.599, de 23 de março de 2012, e nos arts. 7º a 20 do Decreto nº 7.729, de 25 de maio de 2012, resolve:
