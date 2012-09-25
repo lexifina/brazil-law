@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ANISTIA POLÍTICA - MANDADO DE SEGURANÇA – RESTABELECIMENTO DE PAGAMENTO E ABSTENÇÃO DE DESCONTOS - ACORDO ADMINISTRATIVO – PARCELAMENTO NOS TERMOS DA LEI Nº 11.354/2006 - ANULAÇÃO DO TERMO DE ADESÃO – PROPOSITURA DE AÇÃO JUDICIAL VISANDO PROMOÇÃO.
+    1 - As cláusulas do Termo de Adesão firmado pelo impetrante são válidas e estão em conformidade com o que prevê a Lei nº 11.354/2006, e devem ser respeitadas, sob pena de violação ao ato jurídico perfeito. Ao propor ação judicial visando à promoção, o impetrante abre mão do acordo. Não pode é pretender as duas coisas, pois isto é enganar a outra parte.
+    2 - Apelação desprovida”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV e XXXVI, e 37, caput, da mesma Carta.
+    O agravo não merece acolhida. É que para dissentir da conclusão adotada pelo acórdão recorrido seria necessário o reexame do conjunto fático-probatório dos autos e a análise das cláusulas do Termo de Adesão firmado pelo agravante, o que atrai a incidência das Súmulas 279 e 454 do STF, bem como seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.354/2006), o que inviabiliza o extraordinário. Nesse sentido, transcrevo a ementa do RE 621.702-AgR/RJ, de minha relatoria:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ANISTIA POLÍTICA. TERMO DE ADESÃO. PARCELAMENTO DOS ATRASADOS. LEI 11.354/2006. POSTERIOR AJUIZAMENTO DE AÇÃO. DESCUMPRIMENTO DE CLÁUSULA DO ACORDO. ANULAÇÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE TERMO DE ADESÃO. SÚMULAS 279 E 454 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO IMPROVIDO. I - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos e de cláusulas de Termo de Adesão firmado pelo agravante. Incidência das Súmulas 279 e 454 do STF. II - Ausência de impugnação de todos os fundamentos suficientes da decisão agravada. Incidência da Súmula 283 do STF. III - Agravo regimental improvido”.
+    No mesmo sentido, cito as seguintes decisões proferidas em casos análogos ao dos autos: RE 684778/RJ, Rel. Min. Luiz Fux; RE 692.844/RJ, Rel. Min. Celso de Mello; AI 834.332/RJ, Rel. Min. Joaquim Barbosa; AI 834.705/RJ, Rel. Min. Dias Toffoli; ARE 662.138/PE, Rel. Min. Gilmar Mendes; e ARE 655.681/DF, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
