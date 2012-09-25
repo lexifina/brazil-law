@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Aeromot Aeronaves e Motores S.A. interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO. FUNDO AEROVIÁRIO. DL 1305 DE 1974. CONSTITUCIONALIDADE.
+    1. A contribuição ao Fundo Aeroviário prevista no Decreto-Lei nº 1.305/74 e destinada "à aplicação nas atividades ligadas ao ensino profissional aeronáutico de tripulantes, técnicos e especialistas civis, para os serviços de apoio a proteção à navegação aérea a infra-estrutura aeronáutica e a Aviação Civil em geral" é devida nos mesmo percentuais previstos para as contribuições referidas no artigo 1º, do Decreto-lei nº 6.246, de 5 de fevereiro de 1944, e o artigo 24, da Lei nº 5.107, de 13 de setembro de 1966, com a renumeração dos DDLL 20 e 23/66, não padecendo de quaisquer ilegalidade ou inconstitucionalidade a macular sua instituição e exigência.
+    2. Apelação desprovida”.
+    Opostos embargos de declaração, foram rejeitados.
+    Alega o recorrente contrariedade aos artigos 93, inciso IX, 156, § 9º, 195 e 240, da Constituição Federal, uma vez que considera ilegal e inconstitucional o Fundo Aeroviário afastando a obrigação ao pagamento da devida Contribuição e, também, requerendo compensação dos valores pagos anteriormente.
+    Decido.
+    A irresignação não merece prosperar.
+    Afasto a alegada afronta ao artigo 93, inciso IX, da Constituição Federal, haja vista que o acórdão recorrido encontra-se devidamente motivado e fundamentado, embora contrário ao interesse da ora recorrente.
+    Ressalte-se que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então recorrente, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ 18/5/01).
+    Diga-se, ainda, que o Plenário desta Corte já pacificou a matéria, no julgamento do AI nº 791.292-QO-RG/PE, cuja ementa assim dispõe:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    No tocante às demais alegações, o acórdão atacado se limitou a aplicar a legislação infraconstitucional pertinente ao caso. Desse modo, a alegada violação dos dispositivos constitucionais invocados seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/11/07).
+    “Agravo regimental em recurso extraordinário. 2. Servidor público efetivo. Férias-prêmio não gozadas. Conversão em espécie. Necessidade de análise e interpretação da legislação infraconstitucional aplicável (Constituição estadual mineira). Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado n. 636. 4. Agravo regimental a que se nega provimento” (RE nº 653.010-AgR/MG, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe de 24/9/12).
+    Ante o exposto, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 25 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
