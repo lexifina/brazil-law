@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. CONVERSÃO DOS VENCIMENTOS EM URV. LIMITAÇÃO TEMPORAL. INAPLICABILIDADE.
+    1. A matéria encontra-se pacificada no seio desta Corte, para a qual o entendimento sufragado na ADI 1797/PE restou superado pelo julgamento da ADI-MC 2.323/DF, concluindo o Pretório Excelso por não incidir a limitação temporal do resíduo de 11,98% relativo ao reajuste decorrente da conversão de vencimento em URV. Apenas pelo amor ao debate, mesmo que ultrapassado este óbice, restaria não demonstrada a violação dos referidos dispositivos porque as alegações apostas nas razões recursais foram insuficientes a infirmar os fundamentos do acórdão recorrido ou, mesmo, em que consistiria a referida afronta.
+    2. As decisões proferidas em recurso extraordinário não dispõem de caráter vinculante, não afastando, assim, a possibilidade de o Superior Tribunal de Justiça adotar a interpretação que lhe parecer mais adequada à normatização infraconstitucional.
+    3. Agravo regimental a que se nega provimento”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 102, § 2º, da mesma Carta, ao argumento de que “a incidência da diferença dos 11,98% sobre a remuneração de TODOS os Magistrados Federais está limitada ao período de abril de 1994 a janeiro de 1995, conforme decidido na ADI 1.797/PE, entendimento inalterado pelas ADI's 2.321/DF e 2.323/DF”.
+    O recurso não merece acolhida.
+    O Supremo Tribunal Federal, no julgamento da ADI 2.323-MC/DF, Rel. Min. Ilmar Galvão, e da ADI 2.321-MC/DF, Rel. Min. Celso de Mello, concluiu que a conversão dos vencimentos dos servidores públicos em URV, realizada com base em valores fixados em data diversa daquela em que são efetivados os pagamentos, resultou em uma diferença de 11,98%, que deve ser incorporada, sob pena de redução estipendiária. Não há que se falar, portanto, em reajuste ou aumento de vencimentos, bem como em limitação temporal. No mesmo sentido: RE 684.870/SP, Rel. Min. Cármen Lúcia; RE 584.833/DF, Rel. Min. Joaquim Barbosa; AI 338.712-AgR/DF, Rel. Min. Maurício Corrêa; RE 346.563-AgR/SP e RE 355.406-AgR/RN, Rel. Min. Sepúlveda Pertence; AI 482.126-AgR-ED/SP, Rel. Min. Gilmar Mendes; RE 394.770-AgR e AI 478.425-AgR, Rel. Min. Ellen Gracie.
+    Quanto à alegada inobservância do efeito vinculante da ADI 1.797/PE, registre-se que o objeto dessa ação direta foi um ato administrativo com incidência restrita aos membros e servidores do Tribunal Regional do Trabalho da 6ª Região, que não possui identidade com a questão debatida nos presentes autos. Ademais, com base nos julgados acima referidos, o entendimento fixado na ADI 1.797/PE encontra-se superado.
+    Em caso análogo ao dos autos, cito a ementa do RE 416.940-AgR/RN, Rel. Min. Joaquim Barbosa:
+    “SERVIDOR PÚBLICO DO PODER JUDICIÁRIO. CONVERSÃO EM URV. ÍNDICE DE 11,98%. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. SUPERAÇÃO DO ENTENDIMENTO FIRMADO NO JULGAMENTO DA ADI 1.797 NO JULGAMENTO DA ADI 2.323.
+    A questão relativa à limitação temporal do acréscimo de 11,98% à remuneração dos servidores públicos foi analisada por esta Corte no julgamento dos pedidos de medida cautelar na ADI 2.321, Min. Celso de Mello, DJ 10.06.2005, e na ADI 2.323, Min. Ilmar Galvão, DJ 20.04.2001, restando superado o entendimento firmado na ADI 1.797 de incidência do aludido percentual para o período de abril de 1994 a dezembro de 1996.
+    Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
