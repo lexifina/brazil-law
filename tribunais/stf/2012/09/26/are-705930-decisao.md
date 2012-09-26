@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violado o art. 5º, XXXVIII, LVI e LV; e o art. 93, IX, da Carta Magna.
+    Consta dos autos que o ora agravante, juntamente com outro corréu, foi condenado como incurso no art. 184, § 2º, do Código Penal, à pena de 02 (dois) anos de reclusão e multa, em regime inicial aberto, com substituição da pena privativa de liberdade por restritiva de direitos.
+    Inconformado, interpôs recurso do apelação, ao qual o Tribunal de Justiça do Estado de Goiás deu parcial provimento, em acórdão cuja ementa tem o seguinte teor (fls. 264):
+    “Direitos Autorais. Extinção da Punibilidade. Menor de 21 anos. Ocorrência. Absolvição. Inadmissibilidade. Prova da Autoria e da Materialidade Delitiva. Pena. Mínimo Legal. Redução. Inadmissibilidade. Exclusão da Pena de Multa. Impossibilidade. Adequação da Pecuniária. I – Transcorrido lapso suficiente entre o recebimento da denúncia e a publicação da sentença penal condenatória, transitada em julgado para a acusação, é de ser decretada a prescrição da pretensão punitiva do estado, nos termos dos arts. 109, V, c/c 110, § 1º, 107, IV e 115 do CP, c/c a Súmula nº 146 do STF. II – Provada a autoria e a materialidade delitiva do crime tipificado no art. 184, § 2º do CP, não há falar-se em absolvição por insuficiência de prova, principalmente se a confissão do condenado encontra-se corroborada com as demais provas dos autos. III – Se após a análise das circunstâncias judiciais a pena-base foi fixada no mínimo legal, não pode ser reduzida aquém desse limite em razão de atenuantes. Inteligência da Súmula 321 do STJ. IV – É inviável a exclusão da multa quando ela foi cumulativa com a privativa de liberdade. V – Se a pena privativa de liberdade foi fixada no mínimo legal, o mesmo critério deve ser observado para a pecuniária, em obediência ao princípio da proporcionalidade. VI – Apelo Conhecido e Parcialmente Provido.”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões recursais, alega-se violação aos princípios do devido processo legal e da motivação das decisões judiciais, uma vez que o acórdão recorrido reconheceu a prescrição com relação ao outro acusado e deixou de fazê-lo com relação ao recorrente.
+    Sustenta-se a ocorrência da prescrição da pretensão punitiva, a ausência de provas suficientes para a condenação, bem como a deficiência de fundamentação da sentença condenatória e do acórdão recorrido.
+    Decido.
+    Observo que o ora agravante deixou de impugnar, nas razões do agravo, um dos fundamentos utilizados pela decisão agravada para inadmitir o recurso extraordinário, qual seja, de que as questões constitucionais trazidas no recurso extraordinário implicam o reexame de fatos e provas, o que impede a apreciação do recurso, à luz do enunciado da Súmula 287 deste Tribunal.
+    Do exposto, não conheço do agravo (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
