@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO INFRACONSTITUCIONAL E NA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DO TRABALHO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+     “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. INÉPCIA DA INICIAL. ESTABILIDADE PROVISÓRIA. ACIDENTE DO TRABALHO. ART. 118 DA LEI 8.213. Nega-se provimento a agravo de instrumento pelo qual a recorrente não consegue informar os fundamentos do despacho denegatório do recurso de revista”.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o arts. 5º, inc. XXXV e XXXVI, da Constituição da República.
+    Alega que “restou frontalmente ferido o inciso XXXVI da Constituição Federal na decisão proferida em sede de Agravo de Instrumento em Recurso de Revista posto que a agravante ora recorrente demonstrou cabalmente que o ato demissional do reclamante foi feito de forma legal e válida, constituindo-se assim em ato jurídico perfeito, posto que houve inclusive a aquiescência do obreiro, sento o TRCT por ele devidamente assinado e homologado pelo sindicato da categoria, e, mesmo assim foi negado provimento ao agravo da recorrente, ferindo de forma literal, como já dito, o ato jurídico perfeito caracterizado no caso em tela”.
+    Assevera que “tanto na sentença como em toda a fase recursal dos autos, restou caracterizada a afronta às Súmulas 173 e 330 do C. Tribunal Superior do Trabalho” e que “em todas as fases recursais demonstrou que o V. Acórdão proferido pela 1ª Turma do C. Tribunal Superior do Trabalho, destoava do entendimento emanado pela 5ª Turma da mesma Corte”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa constitucional, se tivesse ocorrido, seria indireta.
+    4. No agravo interposto, a Agravante reitera os fundamentos do recurso extraordinário.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do recurso, ou seja, sem a necessidade da formação de instrumento.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. O Tribunal a quo assentou:
+    “Debate-se, in casu, se a estabilidade provisória decorrente de acidente de trabalho subsiste quando extinto o estabelecimento do empregador. Em que pese aos argumentos da recorrente, esta Corte firmou o entendimento de que subsiste o direito à estabilidade por acidente de trabalho, dado o seu caráter social, mesmo quando ocorrer a extinção do estabelecimento, fazendo jus o reclamante à percepção da indenização correspondente. Nesse sentido, mencionam-se os seguintes precedentes desta Corte: (…) Nesse contexto, uma vez reconhecido o direito à estabilidade, a extinção do estabelecimento para a prestação de serviços pelo empregado, justifica o pagamento de indenização a que foi condenada a reclamada”.
+    Tem-se que o acórdão recorrido fundamentou-se na jurisprudência do Tribunal de origem, firmada pela reiterada interpretação e aplicação de legislação infraconstitucional. Assim, eventual ofensa à Constituição, se tivesse ocorrido, seria indireta, o que afasta o cabimento do recurso extraordinário.
+    Confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. TURNO ININTERRUPTO DE REVEZAMENTO. HORA NOTURNA REDUZIDA. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - O Tribunal de origem decidiu a controvérsia atinente à compatibilidade entre a hora noturna reduzida e o turno ininterrupto de revezamento com base em normas infraconstitucionais (Consolidação das Leis do Trabalho) e na jurisprudência do Tribunal Superior do Trabalho. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II – Agravo regimental improvido” (AI 819.972-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.3.2011 – grifos nossos).
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes” (AI 483.704-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJ 6.8.2004).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ACÓRDÃO QUE DECIDIU A CONTROVÉRSIA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE E DA JURISPRUDÊNCIA DO TRIBUNAL SUPERIOR DO TRABALHO. A alegada ofensa à Carta da República, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidem, ademais, no caso, as Súmulas 279, 282 e 356 do STF. Agravo regimental desprovido” (AI 631.262-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 8.5.2009 – grifos nossos).
+    8. Tampouco as alegações de afronta às súmulas do Tribunal Superior do Trabalho e de divergência na jurisprudência trabalhista podem ser objeto do recurso extraordinário, que não se presta a essa análise.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
