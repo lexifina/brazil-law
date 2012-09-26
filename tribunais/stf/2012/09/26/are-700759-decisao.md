@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de agravo interposto contra decisão que negou seguimento a recurso extraordinário que impugna acórdão assim ementado:
+    “RECURSO DE REVISTA. NULIDADE DA PERÍCIA. A nomeação do perito se deu em estrita observância das exigências legais, sendo que a formação de Engenheiro de Segurança do Trabalho permite a esse profissional examinar as diversas normas existentes acerca da saúde e segurança do trabalho, de modo que não há como se pretender a nulidade do laudo pericial. Não houve demonstração de violação direta e literal de preceito de lei ou Constituição nem de divergência jurisprudencial a permitir o conhecimento do recurso, nos termos do art. 896 da CLT. Recurso de revista não conhecido. HORAS EXTRAORDINÁRIAS EXCEDENTES À 4ª DIÁRIA. MÉDICO. PAGAMENTO DAS HORAS EXTRAS POSTERIORES A 4ª DIÁRIA NO CURSO DO CONTRATO. CONDIÇÃO MAIS BENÉFICA (...)”. (eDOC 6, p. 1)
+    Opostos embargos declaratórios, estes foram acolhidos apenas para prestar esclarecimentos (eDOC 13, p.1).
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 2º; 5º, II, LIV e LV; 7º, XXIII; 37, caput; e 84, parágrafo único, da Constituição Federal.
+    Decido.
+    Não assiste razão ao agravante.
+    Verifico que o acórdão recorrido decidiu a controvérsia à luz da legislação infraconstitucional (Consolidação das Leis Trabalhistas e Código de Processo Civil) e do conjunto fático-probatório dos autos (Enunciado 279 da Súmula do STF). A ofensa à Constituição, se ocorrente, dar-se-ia de forma indireta ou reflexa.
+    Nesse sentido, destaco precedentes de ambas as Turmas desta Corte:
+    “Agravo regimental em agravo de instrumento. 2. Trabalhista e processual civil. Preliminar de negativa de prestação jurisdicional. Indeferimento motivado de produção de prova. Alegação de cerceamento do direito de defesa. Inexistência. Precedentes. ARE-RG 639.228 e AI-QO-RG 791.292. 3. Cumprimento de cláusula de sentença normativa. Diferenças salariais. Matéria infraconstitucional. Ofensa constitucional indireta. Enunciado de Súmula 279. 4. Agravo regimental a que se nega provimento (AI-AgR 816.078, 2ª Turma, de minha relatoria, DJe 20.9.2011)”.
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. DIFERENÇAS SALARIAIS. INTERPRETAÇÃO DE REGULAMENTO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI-AgR 700.748, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 6.2.2009)”.
+    Ademais, esta Corte entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF). Sobre o tema, confiram-se o AI-AgR 825.423, Rel. Min. Ricardo Lewandowski, DJe 27.6.2011; e o AI-AgR 745.965, de minha relatoria, DJe 29.6.2011.
+    Além disso, ressalto que a jurisprudência deste Tribunal firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa e do devido processo legal configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJe 24.9.2010.
+    Ante o exposto, conheço do presente agravo, para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
