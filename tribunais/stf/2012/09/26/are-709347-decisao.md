@@ -1,0 +1,17 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo, no ponto em que discute a limitação dos honorários advocatícios nas ações previdenciárias, revela-se inviável, eis que a orientação jurisprudencial desta Corte firmou-se no sentido de que a controvérsia envolvendo a Súmula 111/STJ qualifica-se como tema de caráter eminentemente infraconstitucional, não autorizando, em consequência, a utilização do apelo extremo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. SÚMULA 111 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECLARAÇÃO DE INCONSTITUCIONALIDADE.
+    1. Controvérsia envolvendo a Súmula 111/STJ (Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença) não transborda os limites do âmbito infraconstitucional. Precedentes.
+    2. O Plenário do Supremo Tribunal Federal, no julgamento da ADI 923-AgR, da relatoria do ministro Sydney Sanches, decidiu ser incabível a declaração de inconstitucionalidade de súmula de jurisprudência dominante por não se tratar de ato normativo.
+    3. Agravo regimental desprovido.”
+    (RTJ 218/576, Rel. Min. AYRES BRITTO)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS: INCIDÊNCIA SOBRE AS PARCELAS VENCIDAS ATÉ A PROLAÇÃO DA SENTENÇA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (AI 673.503-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    De outro lado, quanto à discussão sobre a aplicação da taxa de juros de mora de 1% ao mês, verifico que, ao contrário do que sustenta o ora recorrente, em sua petição recursal, o acórdão questionado em sede recursal extraordinária aplicou referido percentual (fls. 156).
+    Vê-se, desse modo, que, embora a parte recorrente não houvesse sucumbido nesse específico ponto, mesmo assim recorreu, indevidamente, do acórdão proferido em sede de embargos de declaração em apelação, transgredindo, com tal comportamento, diretriz processual básica, segundo a qual somente se legitima o interesse de recorrer, quando efetivamente concretizada hipótese configuradora de sucumbência.
+    Como se sabe, a sucumbência qualifica-se como pressuposto recursal genérico, comum a qualquer recurso, caracterizada pela ocorrência, em maior ou em menor grau, de lesividade à situação jurídica da parte a quem foi desfavorável a resolução judicial do litígio.
+    Isso significa, portanto, que é do estado de sucumbência que resulta o interesse jurídico legitimador do exercício do direito de recorrer, de tal modo que, inexistente a situação de sucumbência, nada justifica – precisamente em face da ausência desse pressuposto geral de recorribilidade – o próprio cabimento do recurso eventualmente interposto (VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/260 e 266-267, item n. 61, 4ª ed., 1989, Saraiva; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/171-172, item n. 599, 2ª ed., 1998, Millennium; HUMBERTO THEODORO JÚNIOR, “Curso de Direito Processual Civil”, vol. I/554, item n. 528, 25ª ed., 1998, Forense; NELSON NERY JÚNIOR/ROSA MARIA ANDRADE NERY, “Código de Processo Civil Comentado”, p. 963, item n. 17, 4ª ed., 1999, RT, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro CELSO DE MELLO
+Relator
