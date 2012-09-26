@@ -1,0 +1,16 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - PENSÃO POR MORTE - SERVIDOR MUNICIPAL - BENEFÍCIO CONCEDIDO À IRMÃ DO EX-SEGURADO PELO PERÍODO DE QUINZE ANOS - CANCELAMENTO DO BENEFÍCIO - IMPOSSIBILIDADE - INTELIGÊNCIA DA LEI ESTADUAL 14.184/02 - DECADÊNCIA CONFIGURADA - RECURSO A QUE SE NEGA PROVIMENTO” (fl. 98).
+    No recurso extraordinário sustenta-se violação do artigo 201, inciso V, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o Tribunal de origem decidiu a controvérsia acerca da decadência administrativa com fundamento na legislação infraconstitucional pertinente (Lei nº 14.184/02) e nos fatos e provas que compõe a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Sobre o tema, destacam-se os seguintes julgados:
+    “ADMINISTRATIVO. PRAZO DECADENCIAL PARA A ADMINISTRAÇÃO ANULAR SEUS PRÓPRIOS ATOS. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão dos autos prazo de decadência para a Administração anular seus próprios atos à luz da legislação ordinária. A afronta à Constituição, se ocorrente, seria indireta. Precedentes. II - Agravo regimental improvido” (RE nº 490.850/DF–AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 5/6/09).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NULIDADE DE ATO ADMINISTRATIVO DE RETIFICAÇÃO DE APOSENTADORIA EM RAZÃO DE EVENTUAL DECADÊNCIA ADMINISTRATIVA. LEI 9.784/99. VIOLAÇÃO AO ART. 5º, XXXVI E XL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. 1. A ausência de discussão, pelo acórdão recorrido, da matéria ventilada em sede de recurso extraordinário inviabiliza sua apreciação pelo STF, diante das Súmulas STF 282 e 356. 2. É pacífica a jurisprudência desta Corte ao não admitir, em sede extraordinária, alegação de ofensa indireta à Constituição Federal. Precedentes. 3. Agravo regimental improvido” (AI nº 765.151/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 21/5/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
