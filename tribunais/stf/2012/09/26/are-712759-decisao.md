@@ -1,0 +1,14 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no AI 790.283-RG/DF, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “ISS. Competência para tributação. Local da prestação do serviço ou do estabelecimento do prestador do serviço. Matéria Infraconstitucional. Repercussão geral rejeitada.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza, nesse específico ponto, o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Cumpre ressaltar, por relevante, que essa orientação plenária  reflete-se em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 681.562/MG, Rel. Min. DIAS TOFFOLI – AI 790.933/RS, Rel. Min. CELSO DE MELLO – RE 629.448- -AgR/SE, Rel. Min. GILMAR MENDES, v.g.), valendo referir, dentre eles, aquele que, proferido pela colenda Segunda Turma desta Corte, apreciou controvérsia idêntica à ora versada nesta causa, em decisão que torna inacolhível a pretensão recursal da parte ora agravante:
+    “Agravo regimental em agravo de instrumento. 2. Tributário. ISS. Incidência. Arrendamento mercantil. Jurisprudência assentada. RE-RG 592.905. 3. Competência municipal para instituir o tributo. Matéria infraconstitucional. Precedentes. RE-RG 790.283. 3. Agravo regimental a que se nega provimento.”
+    (AI 789.872-AgR/SC, Rel. Min. GILMAR MENDES)
+    De outro lado, e no que se refere ao debate em torno da legitimidade passiva da recorrente para figurar como responsável tributária pelo pagamento da exação tributária em questão, o exame da presente causa evidencia que o recurso extraordinário não se mostra processualmente viável.
+    É que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Cabe enfatizar, finalmente, que a questão ora em exame foi decidida com base no direito local, sem qualquer repercussão direta no plano normativo da Constituição da República, configurando, por isso mesmo, situação que inviabiliza, por completo, por efeito do que dispõe a Súmula 280/STF, a possibilidade de utilização do recurso extraordinário.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro CELSO DE MELLO
+Relator
