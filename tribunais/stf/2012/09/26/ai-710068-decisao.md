@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa tem o seguinte teor:
+    “Ação Civil Pública – Objetivo – Defesa do dinheiro público – Improbidade administrativa – Legitimidade ativa do Ministério Público – Preliminar rejeitada.
+    Ação Civil Pública – Objetivo – Defesa do dinheiro público – Cabimento e pertinência – Possibilidade jurídica do pedido – Preliminar rejeitada.
+    Ação Civil Pública – Ajuizamento em face do Prefeito Municipal – Licitações causadoras de dano ao erário municipal – Controle dos princípios da modicidade, da legalidade, da impessoalidade, da moralidade e da eficiência administrativa também atribuída àquele – Existência de Comissão de Julgamento de Licitações do Município a acompanhar todo o processo licitatório que não afasta a possibilidade de atribuição ao Prefeito de observar as formalidades legais de processo licitatório – Sentença de improcedência – Recurso provido.
+    Ação Civil Pública – Atos de improbidade administrativa – Indenização por danos morais ao povo – Descabimento – Previsão legal autorizante de se concluir como ressarcidos por imposição de multa – Recurso desprovido.” (Fls. 330.)
+    Alega-se violação do disposto no arts. 5º, LIV e LVII; 37, §§ 4º e 6º, da Constituição, com os seguintes argumentos: a) impossibilidade de condenação por improbidade administrativa ausente o dolo ou a culpa; b) violação do princípio da presunção de inocência; c) violação dos princípios da razoabilidade e da proporcionalidade na aplicação das medidas previstas no art. 12 da Lei 8.429/92; d) pendência no Supremo Tribunal Federal do julgamento da Rcl 2.138, sobre a possibilidade de responsabilização dos agentes políticos por ato de improbidade administrativa.
+    Decido.
+    Preliminarmente, o recurso extraordinário, ao suscitar a controvérsia de que trata a Rcl 2.138, julgada em definitivo por esta Corte após a interposição do recurso extraordinário, versa questão constitucional não ventilada na decisão recorrida e que não foi objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356/STF).
+    Por outro lado, para afastar as conclusões do acórdão recorrido sobre a culpa da parte recorrente, imprescindível reexame do contexto fático-probatório que o orientou, circunstância que inviabiliza o processamento do recurso ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Por fim, o exame das ofensas demandaria o exame prévio da legislação infraconstitucional (Lei 8.429/92), de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional. Nesse sentido: AI 837.555-AgR (rel. min. Luiz Fux, Primeira Turma, DJe de 29.003.2012) e RE 579.712-AgR (rel. min. Ellen Gracie, Segunda Turma, DJe de 27/06/2011)
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 26 de setembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
