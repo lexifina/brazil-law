@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de São Paulo ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL – MANDADO DE SEGURANÇA – Professor da rede estadual de ensino – Professor da rede estadual de ensino – Pretensão à obtenção de certidão parcial de tempo de serviço para fins de averbação junto ao INSS – Período que já foi incluído na contagem de tempo como servidor público estadual – Impossibilidade – Em regime de acumulação, inviável um único tempo de serviço gerar dois ou mais benesses junto a entes públicos diversos – Inteligência do disposto no art. 84, par. único, da Lei n. 10.268/68 – Ausência de violação a direito líquido e certo – Decisão mantida – Recurso improvido”. (fl. 94)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, XXXIV e 40, § 9º, ambos insertos no texto constitucional.
+    Alega-se que o recorrente “não pretende utilizar o mesmo tempo para vantagens no cargo público estadual e aposentadoria junto ao INSS, mas apenas e tão somente pretende seja respeitado o seu direito de opção de computar o tempo para fins de aposentadoria junto ao INSS, conforme lhe faculta o § 9º, do art. 40, da Constituição Federal de 1988” (fl. 106).
+    Decido.
+    A irresignação não merece prosperar.
+    Com efeito, verifico que a controvérsia foi solucionada pelo Tribunal de origem à luz da legislação local aplicável – Lei 10.268/68. Eis a fundamentação do acórdão recorrido:
+    “(...) na hipótese dos autos, pretende o Apelante a expedição de Certidão Parcial de Tempo de Serviço do período compreendido entre 31.03.2000 a 3.03.2006, para fins de averbação junto ao Instituto Nacional de Seguridade Social, o que implica em regime de acumulação de tempo de serviço concorrente ou simultaneamente prestado, o qual é vedado pela Lei Estadual n. 10.261/68, que em seu artigo 84 assim dispõe (…)
+    Portanto, sendo ainda o Apelante servidor ativo da Secretaria de Estado da Educação, não pode requerer a expedição de Certidão Parcial de Tempo de Serviço, para fins de averbação junto ao INSS, tendo em vista que tal período já foi incluído na contagem de tempo como servidor público estadual, ou seja, inviável um único tempo de serviço gerar dois ou mais benesses junto a entes públicos diversos”. (fls. 96-97)
+    Dessa forma, para adoção de entendimento diverso, far-se-ia imprescindível a análise e interpretação da referida legislação local, providência vedada no âmbito do recurso extraordinário, a teor do Enunciado 280/STF. A ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa ou indireta.
+    Nesse sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DE LEGISLAÇÃO LOCAL. LEI N. 10.261/68 DO ESTADO DE SÃO PAULO. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 1. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (AI-AgR 702.805, Rel. Min. Eros Grau, Segunda Turma, DJe 23.5.2008)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 27 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
