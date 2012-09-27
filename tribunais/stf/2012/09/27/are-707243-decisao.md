@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PROVA. NULIDADE. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO, AMPLA DEFESA E DEVIDO PROCESSO LEGAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “APELAÇÃO. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO DE INDENIZAÇÃO. IMÓVEL JÁ DESOCUPADO. DANOS OCASIONADOS NO IMÓVEL. DEMONSTRAÇÃO. NULIDADE DA SENTENÇA. NÃO CONFIGURAÇÃO. VÍCIO DE FUNDAMENTAÇÃO. NÃO CARACTERIZAÇÃO. PRELIMINAR REJEITADA. Esta Corte de Justiça tem sufragado o entendimento de que a fundamentação sucinta não é sinônimo de ausência de fundamentação. Ademais, no tocante à produção de provas, esta se destina ao Juiz, que, com seu prudente arbítrio, sabe aquelas que são dispensáveis ao deslinde da demanda.
+    APELAÇÃO. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO DE INDENIZAÇÃO. IMÓVEL JÁ DESOCUPADO. DANOS OCASIONADOS NO IMÓVEL. DEMONSTRAÇÃO. PROCEDÊNCIA. NECESSIDADE. PREVALÊNCIA DO PRINCÍPIO “PACTA SUNT SERVANDA”. INTELECÇÃO DO ART. 23, DA LEI Nº 8.245/91. APELO DA AUTORA PROVIDO. O acervo probatório coligido nos autos demonstra que a locatária, ao desocupar o imóvel não se desincumbiu do ônus de entregá-lo nas condições pactuadas. Na espécie, deve prevalecer o princípio “pacta sunt servanda”. Consigne-se, sobremais, que os danos e o estado deplorável verificados no imóvel não podem ser classificados como decorrentes do uso normal da coisa”.
+    O Desembargador Relator Adilson de Araujo afirmou:
+    “O acervo probatório coligido nos autos dá conta de que o imóvel foi entregue em péssimo estado de conservação e, a par disso, a ré não impugnou de forma idônea o laudo de vistoria apresentado. Não trouxe, ademais, qualquer prova apta a desconstituir a pretensão da autora esgrimida na petição inicial.
+    (…)
+    Reitere-se, pois, que, ao tomar posse no bem objeto da locação, a locatária assinou sponte propria o contrato de locação, cuja cláusula I, no item 1.1., afirma (…) Veja-se, ainda, que as fotos trazidas aos autos (fls. 75/80) fornecem um vislumbre da deterioração do imóvel, condição esta de deplorável desleixo, que não pode ser classificada como desgaste natural do uso.
+    (…)
+    Toda a argumentação em sentido oposto resta esboroada, em razão da prova documental, que, aliás, não foi desfeita idoneamente. Assim, esmaecem as alegações no sentido de que a locadora teria providenciado vistoria unilateral”.
+    Não foram opostos embargos de declaração.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os “princípios constitucionais da ampla defesa, do contraditório, do devido processo legal e da publicidade dos atos e termos processuais”.
+    Assevera que “há afronta ao devido processo legal e ao direito de defesa da Apelada, pois descumprido o disposto nos arts. 234, 235 e 236 do CPC”.
+    Sustenta que houve “o descumprimento do art. 332 do CPC, pois apresentar cópias sem autenticação, notas genéricas que servem para [instruir] qualquer processo, assim como fotografias que não provam nada e muito menos a data em que foram tiradas e o imóvel respectivo, não constituem provas obtidas por meios legais”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 284 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois da leitura das razões recursais é possível compreender a controvérsia.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+    6. Razão jurídica não assiste à Agravante.
+    7. O Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependentes de exame de legislação infraconstitucional (na espécie, do Código de Processo Civil), podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    8. Ademais, concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 694.646-AgR, de minha relatoria, Primeira Turma, DJe 16.9.2008).
+    “AGRAVO REGIMENTAL. PROVA PERICIAL. ALEGAÇÃO DE NULIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame das provas constantes dos autos, o que encontra óbice na Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI 635.414-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 24.2.2012).
+    “Agravo regimental no recurso extraordinário. 2. Diferenças decorrentes de descumprimento do contrato de locação de veículos. 3. Necessário o reexame de fatos, provas e cláusulas contratuais para chegar a conclusão diversa daquela do acórdão recorrido. 4. Incidência das súmulas 279 e 454. 5. Agravo regimental a que se nega provimento” (RE 485.564-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 6.4.2011).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de setembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
