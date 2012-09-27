@@ -1,0 +1,31 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Rio de Janeiro ementado nos seguintes termos:
+    “Direito Administrativo. Rioprevidência. Policial Militar. Revisão de pensão por morte.
+    Sentença de procedência determinando o pagamento de 100% do que o servidor perceberia se vivo fosse, mais as gratificações que o ex servidor percebia na data do óbito. Aplicação do artigo 40, § 7º e § 8º, da Constituição da República que estabelece a regra de paridade com os vencimentos do servidor se vivo fosse. Promoção post mortem. Possibilidade no caso. Aplicação do art. 8º do Regulamento de Promoções de Praças da PMERJ, Decreto n. 7776/84. Comprovação de que o militar faleceu ao reagir a assalto quando se dirigia a sua residência após cumprir 12 (doze) horas de serviço. Acidente de trabalho. Inexistência de ofensa ao art. 40, § 2º da Constituição da República. Ausência de incompatibilidade.
+    Juros legais. Fixação em 6% (seis por cento) ao ano, depois 12% (doze por cento) ao ano após a entrada em vigor do Código Civil até a entrada em vidor da Lei 11.960/09, quando os juros passaram a ser os da caderneta de poupança. Reforma. Os juros devem ser os previstos no art. 1º, F da Lei n. 9.494/97, ou seja, seis por cento ao ano até a entrada em vigor da Lei n. 11.960/09 sendo os da caderneta de poupança daí em diante. Reforma.
+    Provimento parcial do recurso”. (fl. 320)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 40, § 2º e 195, § 5º, ambos insertos no texto constitucional.
+    Alega-se, inicialmente, que é inconstitucional a revisão de pensão devida após o reconhecimento de promoção post mortem de servidor público estadual, ao argumento de que “a pensão previdenciária deve ser paga tendo por base o cargo efetivo em que se deu a aposentadoria ou óbito”(fl. 330).
+    Afirma-se, ainda, que o art. 6º da Lei Estadual 4.157/2003, que disciplina espécie de promoção post mortem no âmbito estadual, foi declarado inconstitucional pelo Órgão Especial do tribunal de origem.
+    Assevera-se, também, que não se justifica a fixação de pensão por morte com base em graduação obtida post mortem, tendo em vista que o servidor falecido não contribuiu para a respectiva fonte de custeio.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que o entendimento adotado pelo tribunal de origem, a respeito da base de cálculo do benefício previdenciário, pago a título de pensão, está em consonância com a pacífica jurisprudência desta Corte, segundo a qual o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido. Confira-se, a propósito, excertos do aresto recorrido:
+    “Segundo o disposto no art. 40, parágrafos 7º e 8º da Constituição Federal, com a redação dada pela Emenda Constitucional n. 41 de 2003, o benefício da pensão por morte será igual ao valor da totalidade da remuneração do servidor no cargo efetivo em que se deu o falecimento, até o limite máximo estabelecido para os benefícios do regime geral de previdência social, sendo assegurado o reajuste dos benefícios, em caráter permanente, para preservar-lhes o valor real, de acordo com os critérios estabelecidos em lei.
+    No caso em questão restou comprovada a discrepância entre o valor do benefício pago aos pensionistas, ora autores, comparado ao valor da remuneração do servidor que atualmente está na ativa, razão pela qual agiu acertadamente o Juízo a quo ao julgar procedente o pedido de revisão da pensão, não merecendo qualquer retoque a sentença.
+    (…)
+    A promoção post mortem é cabível na hipótese tendo em vista que o militar faleceu ao reagir a assalto quando se dirigia a sua residência após cumprir 12 (doze) horas de serviço, ou seja, houve acidente de trabalho, aplicando-se o art. 8º do Regulamento de Promoções de Praças da PMERJ, Decreto n. 7776/84.
+    Não há que se falar, portanto em ausência de contribuição para fonte de custeio, pois há previsão legal desde 1984” (fls. 320-321).
+    Nesse sentido, confiram-se as seguintes decisões: RE 338.752, Rel. Min. Moreira Alves, DJ 11.10.2002; RE-AgR 552.047, Rel. Min. Dias Toffoli, DJe 21.3.2012; AI-AgR 698.996, Rel. Min. Celso de Mello, DJe 27.2.2009. Eis a ementa deste último julgado:
+    “AGRAVO DE INSTRUMENTO AUTO-APLICABILIDADE DA NORMA INSCRITA NO ART. 40, § 5º, DA CONSTITUIÇÃO FEDERAL (NA REDAÇÃO ANTERIOR À PROMULGAÇÃO DA EC 20/98) CORRESPONDÊNCIA DO VALOR DA PENSÃO A TOTALIDADE DOS VENCIMENTOS OU PROVENTOS DO SERVIDOR FALECIDO REVISÃO DOS VALORES NA MESMA DATA E NA MESMA PROPORÇÃO DA REMUNERAÇÃO DOS SERVIDORES EM ATIVIDADE DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL RECURSO IMPROVIDO”.
+    Ademais, no que diz respeito à suscitada inconstitucionalidade da fixação de promoção post mortem, melhor sorte não assiste ao recorrente, tendo em vista que o Tribunal de origem, com base em interpretação da legislação local aplicável – Decreto 7776/84, concluiu pela adequação do referido benefício no caso concreto.
+    Assim, para a adoção de entendimento diverso, far-se-ia necessária a análise e interpretação da legislação local aplicável à espécie, o que encontra óbice no Verbete 280/STF.
+    Nesse sentido, confira-se o seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MILITAR. PROMOÇÃO. LEIS ESTADUAIS NS. 226/48 E 10.072/76. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 536.971, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.10.2009)
+    Cito, ainda, as seguintes decisões monocráticas: RE 434.900, Rel. Min. Joaquim Barbosa, DJe 1º.3.2010; e o RE 586.319, Rel. Min. Menezes Direito, DJe 24.11.2008.
+    Não há, pois, o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 27 de setembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
