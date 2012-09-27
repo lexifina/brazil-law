@@ -1,0 +1,2 @@
+Altera o inciso III do art. 2º da Lei nº 11.476, de 29 de maio de 2007, para permitir que os portadores de diploma de técnico de nível médio em Enologia e os alunos que ingressaram em curso deste nível até 29 de maio de 2007 possam exercer a profissão de enólogo, e dá outras providências.
+O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
