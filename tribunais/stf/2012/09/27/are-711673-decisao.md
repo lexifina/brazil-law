@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve sentença, a qual condenou o ora agravante ao pagamento de valores indevidamente descontados dos agravados mediante o reconhecimento da ilegalidade da portaria PM1-04/02/11.
+    No RE, fundado no art. 102, III, a , da Constituição, alegou-se, em suma, ofensa aos arts.2º, 5º, caput, II, XXXVI, e 37, caput, e XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Cumpre esclarecer, por oportuno, que os embargos de declaração servem para obter o prequestionamento quando o Tribunal a quo se omite na apreciação da questão constitucional suscitada. Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL SUSCITADA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. INTERPOSIÇÃO DO APELO EXTREMO COM BASE NA ALÍNEA 'C' DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. NÃO-CONFIGURAÇÃO. SÚMULA 284 DO STF. 1. O acórdão recorrido não tratou dos dispositivos constitucionais tidos por violados, nem foram opostos embargos de declaração para suprir eventual omissão. Caso em que o recurso não tem condições de apreciação. 2. O Tribunal de origem não julgou válida lei ou ato de governo local contestados ante a Constituição Federal, o que inviabiliza o recurso extraordinário no tocante à alínea 'c' do inciso III do art. 102 da Carta Magna. Agravo desprovido” (AI 228.270-AgR/SP, Rel. Min. Ayres Britto).
+    Ainda que superado tal óbice, melhor sorte não ocorreria ao agravante, posto que, para divergir do acórdão recorrido, seria necessária a interpretação das normas locais pertinentes ao caso, o que é vedado pela Súmula 280 desta Corte. Nesse sentido, cito as seguintes decisões, entre outras: RE 544.013/SP, Rel. Min. Cármen Lúcia; AI 643.740-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 593.098-AgR/SP, Rel. Min. Eros Grau; RE 576.197/SP, Rel. Min. Ayres Britto e RE 703.100/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de setembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
