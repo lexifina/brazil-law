@@ -1,0 +1,1 @@
+Art. 18-B. O exercício de qualquer das atividades descritas no art. 15 sem o pagamento da Taxa de Vigilância Sanitária prevista no inciso I do art. 17, ambos desta Lei Complementar, sujeitará o infrator à multa de 10% (dez por cento) sobre o valor atualizado do tributo, sem prejuízo das demais sanções legais pertinentes.
