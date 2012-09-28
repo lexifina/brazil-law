@@ -1,0 +1,13 @@
+Decisão: Trata-se de agravo de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão que julgou improcedente o recurso inominado interposto no bojo de Embargos à Execução que versa sobre legitimidade da cobrança de pulsos além franquia em contrato de prestação de serviços de telefonia.
+    A petição de interposição do recurso extraordinário está assinada por advogado sem procuração nos autos, o que implica a inexistência do recurso, consoante firme jurisprudência desta Corte ( cf . inter alia RE 394.820-ED-AgR, rel. min. Carlos Velloso, DJ de 23.09.2005; RE 292.863-AgR, rel. min. Néri da Silveira, DJ de 16.11.2001 e RE 264.262, rel. min. Moreira Alves, DJ de 29.06.2001).
+    Ainda que superado o mencionado óbice, consigno que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    Observo que o recurso extraordinário está fundamentado em suposta afronta a normas da Constituição Federal, afirmando-se, em preliminar, que há repercussão geral porque o resultado do litígio seria “pertinente a todo o universo de consumidores do STFC, manifestando-se, aliás, como interesse coletivo individual homogêneo. Neste sentido, o Supremo Tribunal federal, ao apreciar o recurso extraordinário nº 571.572/BA, reconheceu a repercussão geral da controvérsia envolvendo a cobrança de pulsos e suscitou o incidente previsto no artigo 543-B do Código de processo Civil, restando preenchido, portanto, o requisito constitucional.”(fls. 385).
+    É patente, pois, que a parte não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância do ponto de vista econômico, político, social ou jurídico das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Nesse sentido: AI 709.995, rel. min. Cármen Lúcia, DJe de 24.06.2008).
+    Ademais, em julgamento recente, apreciando Questão de Ordem no ARE 663.637, o Plenário desta Corte decidiu que não basta a indicação do caso paradigma como demonstrativo da repercussão geral. Mesmo nesses caso a preliminar de repercussão geral deve estar devidamente fundamentada.
+    Do exposto, nego seguimento ao presente recurso.
+    Publique-se.
+    Brasília, 28 de setembro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
