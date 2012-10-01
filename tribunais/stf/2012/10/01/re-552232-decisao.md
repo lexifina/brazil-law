@@ -1,0 +1,21 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Santa Catarina ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA – PENSÃO POR MORTE – TOTALIDADE DO ESTIPÊNDIO MENSAL DO SERVIDOR – EXEGESE – BENEFÍCIO ANTERIOR À EMENDA CONSTTITUCIONAL N. 41/03 – APELAÇÃO E REEXAME NECESSÁRIO – DESPROVIMENTO.
+    Ex vi do art. 3º da Emenda Constitucional n. 41/03, os benefícios com requisitos cumpridos antes da publicação daquela alteração da Magna Carta são disciplinados pelas normas jurídicas então vigentes, sendo esta a hipótese sub judice, pois alicerçada no § 5º do art. 40, então aplicável”. (fl. 84)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação ao art. 40 do texto constitucional e à Emenda Constitucional 41/2003, ao argumento de que é inconstitucional a concessão de benefício previdenciário, pago a título de pensão, no valor que perceberia o instituidor da pensão, caso estivesse vivo.
+    Às fls. 113/114, a Procuradoria-Geral da República opinou pelo desprovimento deste recurso.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, observo que o entendimento adotado pelo tribunal de origem, a respeito da base de cálculo do benefício previdenciário, pago a título de pensão, está em consonância com a pacífica jurisprudência desta Corte, segundo a qual o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido. Confira-se, a propósito disto, excertos do aresto recorrido:
+    “Preliminarmente, cabe ressaltar a promulgação da Emenda Constitucional n. 41/03, que alterou a redação do caput do § 7º do art. 40, acrescentando-lhes os incisos I ‘ao valor da totalidade dos proventos do servidor falecido, até o limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201, acrescentado de setenta por cento da parcela excedente a este limite, caso em atividade na data do óbito’. Todavia, essas normas são aplicáveis, em virtude do óbito do instituidor da pensão ter ocorrido em 64-1989 (fl. 16), e ressalvando, inclusive, aquela Emenda Constitucional em seu art. 3º que os benefícios que tenham todos seus requisitos cumpridos antes da publicação da emenda, serão regidos pela lei então vigente.
+    (...) o benefício da pensão por morte, em face da norma jurídica então vigente, deve corresponder à totalidade da remuneração na ocasião do falecimento”. (fls. 85-86)
+          Nesse sentido, confiram-se as seguintes decisões: RE 338.752, Rel. Min. Moreira Alves, DJ 11.10.2002; RE-AgR 552.047, Rel. Min. Dias Toffoli, DJe 21.3.2012; AI-AgR 698.996, Rel. Min. Celso de Mello, DJe 27.2.2009. Eis a ementa deste último julgado:
+    “AGRAVO DE INSTRUMENTO AUTO-APLICABILIDADE DA NORMA INSCRITA NO ART. 40, § 5º, DA CONSTITUIÇÃO FEDERAL (NA REDAÇÃO ANTERIOR À PROMULGAÇÃO DA EC 20/98) CORRESPONDÊNCIA DO VALOR DA PENSÃO A TOTALIDADE DOS VENCIMENTOS OU PROVENTOS DO SERVIDOR FALECIDO REVISÃO DOS VALORES NA MESMA DATA E NA MESMA PROPORÇÃO DA REMUNERAÇÃO DOS SERVIDORES EM ATIVIDADE DIRETRIZ JURISPRUDENCIAL FIRMADA PELO SUPREMO TRIBUNAL FEDERAL RECURSO IMPROVIDO”.
+    Ademais, cumpre ressaltar que se pacificou a jurisprudência desta Corte no sentido de que o valor da pensão por morte deve observar o padrão previsto ao tempo do evento que enseja o benefício.
+    Nesse sentido, entre outros, destaquem-se os seguintes precedentes: RE-AgR 602.012, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.9.2010; RE-AgR 453.298, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 22.6.2007; RE 273.570, Rel. Min. Marco Aurélio, Primeira Turma, DJ 5.5.2006. Este último foi assim ementado:
+    “PENSÃO - CONFLITO DE NORMAS NO TEMPO - REGÊNCIA. A regência da pensão faz-se considerada a legislação em vigor na data do falecimento do servidor, descabendo emprestar a texto de lei ou da Constituição eficácia retroativa, no que prevista a percepção pela totalidade dos vencimentos”.
+    Ante o exposto, afasto o sobrestamento determinado à fl. 116 e nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 1.º de outubro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
