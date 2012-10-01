@@ -1,0 +1,1 @@
+Artigo 63-D - O Fundo a que se refere esta lei reger-se-á pelas normas contidas no Decreto-lei Complementar nº 16, de 2 de abril de 1970, regulamentado pelo Decreto nº 52.629, de 29 de janeiro de 1971. (NR)

@@ -1,0 +1,1 @@
+Artigo 63-E - As despesas decorrentes da execução desta lei correrão à conta de dotações orçamentárias consignadas no orçamento da Secretaria de Desenvolvimento Social, mediante concessão de créditos adicionais, se necessário. (NR)
