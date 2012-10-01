@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Distrito Federal interpõe tempestivo agravo regimental contra a decisão pela qual o eminente Ministro Sepúlveda Pertence deu provimento ao agravo de instrumento, para conhecer do recurso extraordinário e dar-lhe provimento, reformando o acórdão recorrido, para deferir aos servidores o reajuste de 28,86% concedido pela Lei nº 8.627/93, com a seguinte fundamentação:
+    “O acórdão recorrido, ao negar aos recorrentes direito ao reajuste previsto nas Leis 8.622/93 e 8.627/93, decidiu em desacordo com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RMS 22.307 (M.Aurélio, DJ. 13.6.97).
+    Ante o exposto, nos termos do art. 557, CPC, dou provimento ao agravo e desde logo, conheço do RE e lhe dou provimento, reformando o acórdão recorrido, para deferir aos servidores o reajusta de 28,86% concedido pela Lei 8.627/93, observado o que ficou assentado no julgamento do EDRMS nº 22.307, invertido o ônus da sucumbência” (fl. 141).
+    Alega o agravante que foram violados os artigos 18 e 32, parágrafo 1°, da Constituição Federal, uma vez que “não seria razoável, lógico e jurídico que, leis federais que tratam de reajuste geral de servidores da UNIÃO FEDERAL, ultrapassasse seus limites constitucionais e invadisse a competência legislativa do Distrito Federal, tendo efeitos não desejados pela Administração Distrital” (sic) (fl. 146).
+    Decido.
+    Recebo o agravo, vez que tempestivo e, utilizando-me do juízo de retratação inerente a esse tipo de recurso, dou-lhe provimento, para reconsiderar a decisão agravada, para negar provimento ao agravo de instrumento em tela.
+    Inicialmente, convém deixar desde logo ressaltada a plena possibilidade do exercício de tal juízo de retratação, amplamente admitido pela jurisprudência desta Corte, citando-se, para exemplificar, a ementa do seguinte precedente:
+    “AGRAVO - JUÍZO DE RETRATAÇÃO. Todo e qualquer agravo viabiliza o juízo de retratação, ainda que silente a peça apresentada (...)” (RE nº 383.774-AgR/SP, Primeira Turma, Relator o Ministro Marco Aurélio, DJ de 11/3/05).
+    Em prosseguimento, tem-se que a questão posta em debate nestes autos, trata da possibilidade de ser estendido aos servidores civis do Distrito Federal, o reajuste de 28,86% dado aos militares da União pelas Leis Federais nºs 8.622/93 e 8.627/93.
+    O acórdão recorrido está em sintonia com a jurisprudência desta Corte, que está consolidada no sentido de que a extensão do reajuste de 28,86%, concedido aos servidores militares da União, aos servidores civis do Distrito Federal, ofende a autonomia legislativa desse ente federativo. Sobre o tema, anote-se:
+    “Administrativo. Servidores distritais. Reajuste de 28.86%. Concessão apenas aos servidores federais. Conclusão a partir da interpretação de normas locais em confronto com a legislação federal. Pretensão, como posta no RE, também implicaria na ofensa à Súmula 339 e no desrespeito à autonomia político-administrativa do Distrito Federal (CF, art. 32). Regimental não provido” (AI nº 384.023/DF-AgR, Segunda Turma, Relator o Ministro Nelson Jobim, DJ de 31/10/02).
+    “Agravo regimental em agravo de instrumento. 2. Reajuste dos 28,86%. Servidores do Distrito Federal. Impossibilidade. 3. Legislação federal. Aplicação no âmbito do Distrito Federal. Autonomia Legislativa do Distrito Federal. Precedentes. 4. Agravo regimental a que se nega provimento” (AI nº 446.943/DF, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 27/3/08).
+    Nesse mesmo sentido, registre-se o recente julgado, de minha relatoria:
+    “Agravo regimental em agravo de instrumento. Intimação da data da sessão de julgamento e sustentação oral. Pedidos incabíveis. Servidores civis do Distrito Federal. Extensão do reajuste de 28,86%. Impossibilidade. Precedentes. 1. Intimação da data da sessão de julgamento e sustentação oral. Pedidos incabíveis. Regimento Interno do Supremo Tribunal Federal. 2. A extensão do reajuste de 28,86%, concedido aos servidores militares da União, aos servidores civis do Distrito Federal ofende a autonomia legislativa desse ente federativo. 3. Agravo regimental não provido” (AI nº 541.730/DF-AgR, Primeira Turma, DJe de 12/3/12).
+    Ante o exposto, reconsidero a decisão agravada, para negar provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1° de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
