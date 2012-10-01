@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário, que impugna acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO – INAPTIDÃO EXAME PSICOTÉCNICO – LIMINAR – SEGURANÇA CONCEDIDA – ACÓRDÃO – SENTENÇA REFORMADA – CANDIDATO INAPTO – TEMPO DE SERVIÇO – CONTAGEM – IMPOSSIBILIDADE – RECURSO IMPROVIDO”.
+    No recurso extraordinário, aponta-se violação ao art. 5º, XXXVI, da Carta Magna.
+    No recurso, alega-se existência de direito adquirido à contagem do tempo de serviço referente ao período em que o agravante fez parte dos quadros da Polícia Militar em virtude de provimento liminar (2002-2004), posteriormente cassado, tendo em vista ter reingressado na corporação em 2004, em virtude de aprovação regular em outro concurso público.
+    Decido.
+    As razões recursais não merecem prosperar.
+    No caso, a controvérsia resume-se em saber se o agravante possui direito adquirido à contagem de tempo de serviço do período em que permaneceu nos quadros da Polícia Militar do Estado de Minas Gerais em virtude de provimento liminar cassado após o reingresso nos quadros da PM/MG por meio de regular aprovação em novo concurso público.
+    Com efeito, esta Corte já firmou entendimento no sentido de que a discussão acerca do direito adquirido que possui índole constitucional, diz respeito ao direito intertemporal, referente à sucessão de normas no tempo, o que não se verifica no caso dos autos.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “Agravo regimental. - Inexistência no caso de demonstração do prequestionamento de outras questões constitucionais que não a do direito adquirido. - Para examinar-se a questão relativa a direito adquirido é preciso que se especifiquem as leis que teriam dado margem à questão de direito intertemporal. Agravo a que se nega provimento”. (grifei) (AI-AgR 265.004, Rel. Min. Moreira Alves, Primeira Turma, DJ 8.9.2000)
+    “Agravo regimental em agravo de instrumento. 2. Inexistência de violação ao direito constitucionalmente adquirido. Direito que se adquire em decorrência de sucessão de normas. Direito intertemporal. 3. Impossibilidade de pleitear provimento cautelar pela via do recurso extraordinário. 4. Ausência de argumentos suficientes para infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento”. (AI-AgR 740.955, de minha relatoria, Segunda Turma, DJe 9.3.2011)
+    Nesses termos, registre-se que a discussão posta nos autos possui índole infraconstitucional, uma vez que se refere ao direito adquirido previsto na Lei de Introdução às Normas do Direito Brasileiro, o que inviabiliza o processamento do recurso extraordinário.
+    Nessa esteira, confira-se o entendimento desta Corte:
+    “RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. ART. 37, CAPUT DA CF/88. PRINCÍPIO DA LEGALIDADE. PREQUESTIONAMENTO. AUSÊNCIA. DIREITO ADQUIRIDO. ART. 6º DA LICC. FUNDAMENTO SUFICIENTE NÃO IMPUGNADO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO DESPROVIDO. A questão referente ao princípio da legalidade (art. 37, caput da Constituição) não foi debatida no acórdão recorrido e nem foi objeto de embargos de declaração, faltando-lhe, assim, o indispensável prequestionamento. Aplicam-se, pois, ao caso, as Súmulas 282 e 356 do STF. Necessidade de análise da legislação infraconstitucional para configuração de ofensa a direito adquirido. Impossibilidade. Agravo regimental desprovido”. (RE-AgR 559.696, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 13.8.2012)
+    “Agravo regimental no recurso extraordinário. Prequestionamento. Ausência. Direito adquirido. Ofensa reflexa. Precedentes. 1. Não se admite o recurso extraordinário quando o tema constitucional que nele se alega violado não está devidamente prequestionado. Incidência da Súmula nº 282 desta Corte. 2. Discussão acerca de eventual direito adquirido à relação jurídica antes constituída não se reveste de índole constitucional. 3. Agravo regimental não provido”. (RE-AgR 391.061, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 26.4.2012)
+    Ante o exposto, nego provimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 1º de outubro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
