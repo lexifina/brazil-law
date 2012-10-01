@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento Sidauto Comércio e Indústria Metalúrgica LTDA. No agravo de instrumento defende a tempestividade do recurso extraordinário, interposto segundo a sistemática do protocolo integrado. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão.
+    Contraminuta (274-81).
+    Substituição da Relatora à fl. 305 (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Inicialmente, cumpre afastar o óbice apontado pelo Tribunal de origem como fundamento para a inadmissão do recurso extraordinário. Com efeito, o Plenário desta Corte, no julgamento do AI 476.260-AgR/SP, Rel. Min. Carlos Britto, DJ 16.6.2006, entendeu que a Lei 10.352/2001 afastou o obstáculo à admissão de recurso extraordinário interposto pelo sistema de protocolo integrado/descentralizado. Este o teor da ementa:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO INTERPOSTO PELO SISTEMA DE PROTOCOLO DESCENTRALIZADO. ADMISSIBILIDADE. A Lei nº 10.352, de 26.12.01, ao alterar os artigos 542 e 547 do CPC, afastou o obstáculo à adoção de protocolos descentralizados. Esta nova regra processual, de aplicação imediata, se orienta pelo critério da redução de custos, pela celeridade de tramitação e pelo mais facilitado acesso das partes às diversas jurisdições. Agravo regimental provido para determinar a subida do recurso extraordinário e assim possibilitar melhor exame do feito.”
+    Observando essa orientação e tendo em vista a data do protocolo de interposição do extraordinário no sistema de protocolo descentralizado (fls. 209-210), constato que o presente recurso é tempestivo.
+    O recurso extraordinário, contudo, não merece trânsito.
+    A matéria versada nos artigos 5º, II, 37 e 150, I, da Carta Magna não foi analisada pelas instâncias ordinárias, tampouco opostos embargos de declaração para satisfazer o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”. Nesse sentido, o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 7.11.2011, cuja ementa transcrevo:
+    "RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé".
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos do acórdão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de outubro de 2012.
+Ministra Rosa Weber
+Relatora
