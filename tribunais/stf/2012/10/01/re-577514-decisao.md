@@ -1,0 +1,66 @@
+Vistos etc.
+    O Tribunal Regional Federal da 1ª Região manteve a sentença denegatória da segurança e julgou improcedente pedido para afastar a cobrança de imposto de renda retido na fonte, incidente sobre a parcela remuneratória denominada abono 2000/2001, paga aos funcionário do Banco do Brasil S.A., por considerá-la de natureza salarial.
+    Nas razões do extraordinário, com base no art. 102, III, “a”, da Lei Maior, a Associação Nacional dos Funcionários do Banco do Brasil – ANABB, alega ofensa aos artigos 5º, XXXVI, LIV e § 2º, 7º, XXVI, 114, 145, § 1º, 150, caput, I, II e IV e 153, III e § 2º, I, da Constituição Federal. Sustenta a não incidência da exação. Defende a natureza indenizatória do abono. Entende violados os princípios da legalidade e da tipicidade estrita. Assevera a competência do TST para o reconhecimento da natureza não salarial do abono. Afirma que a doutrina e a jurisprudência entendem que verba indenizatória não comporta tributação.
+    Contrarrazões.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Ao adequado enfrentamento da controvérsia, transcrevo as razões de decidir, quando do julgamento do recurso veiculado na origem:
+    “Cinge-se o deslinde da controvérsia instaurada nos presentes autos à verificação da incidência, ou não, de Imposto de Renda sobre verba concedida a título de Abono Pecuniário substitutivo de reajuste salarial, em face de acordo firmado em Dissídio Coletivo.
+    Vejamos.
+    Na hipótese vertente, decorre a concessão do referido Abono de sentença normativa proferida pelo Tribunal Superior do Trabalho no Dissídio n. 603.137/1999-1, em que figuraram como partes a CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NAS EMPRESAS DE CRÉDITO — CONTEC (Suscitante) e o BANCO DO BRASIL (Suscitado).
+    Consta do referido acordo, o seguinte:
+    ‘CLÁUSULA SEGUNDA — ABONO DE CARÁTER INDENIZATÓRIO: O Banco concederá abono de natureza indenizatória no valor de R$2.500,00 (dois mil e quinhentos reais) aos atuais empregados.
+    Parágrafo Primeiro — O valor do abono mencionado no ‘caput’ será pago em 4 (quatro) parcelas, sendo a primeira de R$400,00 (quatrocentos reais) e as demais de R$700,00 (setecentos reais), mediante crédito na conta-corrente dos beneficiários, nos dias 20/11/2000, 20/12/2000 e 20/02/2001.
+    Parágrafo Segundo — Aos empregados desligados da Empresa a partir de 1° de setembro de 2000 o Banco fará o pagamento proporcional de 1/12 (um doze avos) por mês trabalhado, à razão de R$208,33 (duzentos e oito reais e trinta e três centavos).
+    Parágrafo Terceiro — O abono de que trata a presente cláusula tem conotação meramente indenizatório, é destituído de caráter salarial e consectários e não se incorpora à remuneração para quaisquer efeitos, nem se lhe aplica o princípio da habitualidade.’(cf. fl. 80)
+    Diante disso, sustenta o Impetrante, ora Recorrente, que sobre o referido Abono não deve incidir Imposto de Renda por isso que, além de não ter sido incorporado aos vencimentos de seus associados, foi concedido como forma de compensar os prejuízos sofridos pela categoria em face da defasagem salarial com que se defrontavam desde o ano de 1995.
+    O MM. Juiz a quo denegou a ordem ao argumento de que a vantagem ‘foi paga aos empregados do Banco do Brasil S/A para compensar perdas salariais e instituída para quitar todas e quaisquer diferenças salariais reivindicadas na data-base de 01.9.1999’, donde exsurge não ter caráter indenizatório. (cf. 260)
+    Assiste-lhe razão.
+    É que, não é possível, em sede de dissídio coletivo, estabelecer acordo identificando determinada verba como de natureza indenizatória, visando isentá-la de tributo, como na espécie, em relação ao Imposto de Renda.
+    Com efeito, consoante leciona RICARDO LOBO TORRES: ‘As isenções, como privilégio que são, consistem na autolimitação do poder fiscal, porque objeto de concessão do legislador’. (in ‘Curso de Direito Financeiro e Tributário’, Ed. Renovar, p. 249).
+    Pois bem, o imposto sobre a renda tem como fato gerador a aquisição da disponibilidade econômica ou jurídica, produto do capital, do trabalho ou da combinação de ambos, e de proventos de qualquer natureza. É o que dispõe o artigo 43, incisos I e II, do Código Tributário Nacional, que destaco, verbis:
+    ‘O imposto, de competência da União, sobre a renda e proventos de qualquer natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+    I — de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+    II — de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no inciso anterior.’
+    Diante disso, importa indagar se o Abono concedido pela Justiça do Trabalho, em substituição a reajuste, possui natureza indenizatória ou salarial.
+    O eminente Ministro JOSÉ DELGADO, ao proferir voto sobre a matéria em discussão no REsp. n. 445.2331DF, de que foi o relator, acolhido pelos seus eminentes Pares da Primeira Turma do colendo Superior Tribunal de Justiça, assim se pronunciou a respeito:
+    ‘Quando o abono surgiu entre nós, em 1941, durante a 2a Grande Guerra, muito se debateu se o mesmo integrava ou não o salário. Em princípio, a legislação determinava, expressamente, que o mesmo fosse excluído do salário, como pequeno adiantamento ou auxílio que o empregador prestava ao trabalhador. Atualmente, entretanto, não se pode duvidar que o abono integra o salário, principalmente, em vista do que dispõe o artigo 457, § 1°, da CLT, que tem a seguinte dicção:
+    'Art. 457. (omissis)
+    §1°. Integram o salário, não só a importância fixa estipulada, como, também, as comissões, percentagens, gratificações ajustadas, diárias para viagem e abonos pagos pelo empregador'.
+    Oportuna se faz a citação de trecho de Eduardo Saad a este respeito "in" Consolidação das Leis do Trabalho Comentada, São Paulo, 6ª edição, 1974:
+    'No decorrer da II Guerra Mundial, nosso Governo pôs em prática medidas rígidas tendentes a impedir o aumento descontrolado dos salários. Nessa época, muitas empresas davam a seus empregados um complemento salarial que, com o tempo, se tornou conhecido com a denominação de abono.
+    A fim de encorajar as empresas a minorar as dificuldades de seus empregados, o Governo através do Decreto-lei n.° 3.813 de 19 de novembro de 1941, prorrogado pelo Decreto-lei n.º 4.356, de 4 de junho de 1942, estabeleceu que o abono jamais se integraria ao salário para qualquer efeito legal. Muito tempo depois, em 1953, a Lei n.° 1.999, alterou a redação do § 10 do artigo supra para ordenar a incorporação do abono no salário.
+    Depois dessa explicação preliminar sobre o abono, desejamos frisar que o abono ou prêmio de produção, de freqüência ou de qualquer outra natureza, quando sua concessão fica na dependência do trabalho ou da conduta do empregado, e, que portanto, não é uma decorrência da generosidade do empregador — integram o salário para fins indenizatórios e de férias.'
+    Conforme se denota, o abono possui evidente natureza salarial, e se constitui, em princípio, em uma medida transitória que visa a atender determinadas situações de momento, em razão das quais foi estabelecido. Finda essa razão ou causa determinante, cessam os seus efeitos ou se opera a sua absorção pelo salário.
+    O abono pode ser instituído por lei ou convenção coletiva do trabalho, podendo ou não incorporar-se ao salário o que, porém, não lhe retira a natureza salarial decorrente de expressa determinação legal como dito anteriormente (art. 457, §1°, da CLT).
+    Na presente demanda, cuida-se de abono concedido em acordo trabalhista de nítido caráter salarial e não indenizatório.
+    A indenização tem por fim a reparação de um dano causado, de maneira que cabe perguntar-se qual o dano que a concessão do multicitado abono visou reparar. Parece-me que nenhum.
+    O recorrente, ao reportar-se ao disposto no art. 6°, V, da Lei n° 7.713/88, pretendeu estabelecer um liame entre as indenizações previstas nos arts. 477, 478 e 497, da Consolidação das Leis Trabalhistas, relativos aos casos de despedida arbitrária do empregado sem justa causa e o Abono ora debatido. Não existe a perseguida ligação.
+    Tanto o abono é de natureza salarial que foi necessário incluir-se uma norma para afastar essa característica. O abono é salarial, mas nos termos do dissídio coletivo, deixa de sê-lo.
+    O objetivo do afastamento da natureza salarial é impedir a produção dos efeitos decorrentes do pagamento. Ou seja, o pagamento do abono não repercute no décimo terceiro salário, nas férias, nas horas extraordinárias, nas verbas rescisórias e etc. Os abonos não se incorporam nem criam o direito à manutenção do seu pagamento. O afastamento do caráter salarial se presta a tornar o abono uma parcela isolada, que não gera todos os efeitos trabalhistas típicos das parcelas dessa natureza.
+    A retirada da índole salarial do abono não o converte em uma indenização. Apenas reduz suas repercussões no campo do direito do trabalho.
+    Por outro lado, o ajuste celebrado entre empregado e empregador não tem o Fisco como parte, isto é, os ajustes celebrados entre empregados e empregadores não vinculam o Fisco.
+    O dissídio coletivo não possui poderes para criar normas que afastem a incidência de tributos.’ (grifei)
+    (...)
+    Quanto à alegação de que o Abono em tela não se incorpora aos vencimentos nem consubstancia acréscimo patrimonial, também não merece prosperar o apelo.
+    É que, não obstante constituir medida circunstancial e emergente, que não se repete além das parcelas avençadas, é induvidoso que finda o referido Abono por ser absorvida pelo salário, configurando, pois, acréscimo patrimonial, donde exsurge o fato gerador do Imposto de Renda.
+    Nesse contexto, a propósito, discorre com propriedade o eminente Ministro LUIZ FUX, quando do julgamento REsp. n. 412.615/56, de que foi relator, cujo trecho destaco, ut infra:
+    ‘Segundo os tratadistas do direito trabalhista, abono, no sentido jurídico, significa antecipação salarial. Em tese, constitui medida transitória destinada a atender situações de emergência. Por essa razão, cessada a causa emergente, cessam seus efeitos ou, então, processa-se a sua absorção pelo salário. In casu, o abono, substitutivo de reajuste salarial, foi absorvido pelos salários dos recorrentes.
+    Depreende-se, portanto, que este abono pecuniário não tem caráter indenizatório, mas salarial, porquanto incorpora ao salário do contribuinte. Sua função precípua é repor a perda do poder aquisitivo do salário mercê do fenômeno inflacionário.’
+    (...)
+    Em face do acima exposto, impõe-se concluir que, contrariamente ao entendimento sustentado pelo Impetrante, no caso, o Abono não foi pago a título de medida reparatória destinada a compensar o emprego pela supressão de qualquer vantagem já auferida.
+    A propósito, sobre o conceito de indenização, cabe destacar o seguinte pronunciamento do Ministro GARCIA VIEIRA, ao proferir voto no REsp. n. 34.898-0/SP:
+    (...)
+    Assim sendo, resulta induvidoso que tendo sido o Abono ajustado em substituição de reajuste salarial, incide, pois, sobre os respectivos valores, o Imposto de Renda.
+    (...)
+    Finalmente, tenho por inaplicáveis à espécie, o artigo 6°, inciso V, da Lei n. 7.713, de 1988, por isso que o referido Abono não configura indenização ou aviso prévio "pagos por despedida ou rescisão de contrato de trabalho", nem o ‘montante recebido pelos empregados e diretores, ou respectivos beneficiários, referente aos depósitos, juros e correção monetária creditados, em contas vinculadas, nos termos da legislação do Fundo de Garantia por Tempo de Serviço’. Da mesma forma ocorre em relação às Súmulas 125 e 136 do Superior Tribunal de Justiça, que tratam, respectivamente, de pagamento de férias e licenças-prêmio não gozadas.
+    Ex positis, nego provimento ao apelo” (fls. 300-5).
+    Nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional (arts. 43, I e II, do Código Tributário Nacional, e 6º da Lei 7.713/1988), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido: ARE 691.857-AgR/DF, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 19.9.2012; ARE 662.017-AgR/RN, Rel. Min. Dias Toffoli, 1ª Turma, DJe 03.8.2012; AI 733.908-AgR/MG, Rel. Min. Marco Aurélio, 1ª Turma, DJe 07.5.2010; e ARE 703.044-AgR/DF, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 24.9.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. INCIDÊNCIA DE IMPOSTO DE RENDA SOBRE O ABONO DE PERMANÊNCIA. NATUREZA JURÍDICA DA VERBA. OFENSA INDIRETA. PRECEDENTES. AGRAVO IMPROVIDO. I – A jurisprudência do STF firmou-se no sentido de que a discussão a respeito do caráter indenizatório ou não de determinada verba, para fins de incidência de imposto de renda, situa-se em âmbito infraconstitucional. II – Agravo regimental improvido”.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se
+    Brasília, 1º de outubro de 2012.
+Ministra Rosa Weber
+Relatora
