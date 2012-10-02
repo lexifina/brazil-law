@@ -1,0 +1,30 @@
+Vistos etc.
+    Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 102, I, “l”, da Constituição Federal; 13 e 14 da Lei nº 8.038/1990; e 156 do Regimento Interno do Supremo Tribunal Federal, ajuizada por Rubens José França Bomtempo contra acórdão do Tribunal Regional Eleitoral do Rio de Janeiro (200-89.2012.6.19.0085), o qual, supostamente, teria contrariado o entendimento firmado por esta Corte nos julgamentos das Ações Diretas de Inconstitucionalidade 849, 1.779 e 3.715.
+    O reclamante sustenta que a decisão reclamada deu provimento ao recurso eleitoral e indeferiu o pedido de registro da sua candidatura ao cargo de Prefeito do Município de Petrópolis/RJ, em razão da inelegibilidade do reclamante, para as eleições de 2012, com fundamento no art. 1º, I, g da LC 64/1990, com a redação da LC 135/2010.
+    Informa que a decisão da Justiça Eleitoral teve por base a rejeição, pelo Tribunal de Contas do Estado do Rio de Janeiro, das contas relativas ao ano de 2004, época em que exercia o cargo de prefeito municipal, tendo em vista a ausência de recolhimento dos descontos dos descontos previdenciários devidos ao INSS. Entretanto, destaca que as contas foram aprovadas pela Câmara de Vereadores do Município de Petrópolis.
+    Desse modo, o TRE/RJ, ao considerar o parecer do TCE teria desconsiderado a competência da Câmara Municipal, descumprindo o disposto no art. 31 da Constituição Federal, o qual estabelece:
+    Art. 31. A fiscalização do Município será exercida pelo Poder Legislativo Municipal, mediante controle externo, e pelos sistemas de controle interno do Poder Executivo Municipal, na forma da lei.
+    § 1º - O controle externo da Câmara Municipal será exercido com o auxílio dos Tribunais de Contas dos Estados ou do Município ou dos Conselhos ou Tribunais de Contas dos Municípios, onde houver.
+    § 2º - O parecer prévio, emitido pelo órgão competente sobre as contas que o Prefeito deve anualmente prestar, só deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal.
+    Alega que esta Corte firmou entendimento nesse sentido no julgamento das citadas ações diretas de inconstitucionalidade. Nessas oportunidades, este Tribunal ainda teria decidido pela aplicação do princípio da simetria quanto às disposições constitucionais que tratam do Tribunal de Contas da União, devendo ser observado o art. 75 da Constituição Federal, que estabelece, verbis:
+    Art. 75. As normas estabelecidas nesta seção aplicam-se, no que couber, à organização, composição e fiscalização dos Tribunais de Contas dos Estados e do Distrito Federal, bem como dos Tribunais e Conselhos de Contas dos Municípios.
+    Desse modo, este Supremo Tribunal Federal também teria decidido pela aplicação, aos Tribunais de Contas dos Municípios, do inciso I do art. 71 da Constituição Federal:
+    Art. 71. O controle externo, a cargo do Congresso Nacional, será exercido com o auxílio do Tribunal de Contas da União, ao qual compete:
+    I - apreciar as contas prestadas anualmente pelo Presidente da República, mediante parecer prévio que deverá ser elaborado em sessenta dias a contar de seu recebimento;
+    Finalmente, sustenta o perigo na demora, tendo em vista que o art. 1º, I, “g”, da LC nº 64/1990, com a redação da LC nº 135/2010, prevê que são inelegíveis os que tiverem as suas contas rejeitadas por decisão irrecorrível do órgão competente e as eleições de 2012 estão marcadas para o próximo domingo.
+    Cita diversos precedentes desta Suprema Corte nos quais foram concedidas as liminares requeridas.
+    É o relatório.
+    Decido.
+    A reclamação foi ajuizada com alegação de descumprimento de decisões desta Corte com efeito vinculante. O questionado acórdão do Tribunal Regional Eleitoral não teria observado as decisões proferidas por este Supremo Tribunal quanto à competência para julgamento das contas do chefe do Poder Executivo.
+    Inicialmente, verifico não haver identidade entre a questão suscitada na presente reclamação e as apreciadas nos julgados deste Tribunal.
+    Ao apreciar a ADI 1.779, rel. Min. Ilmar Galvão, DJ 14.9.2001, esta Suprema Corte declarou a inconstitucionalidade parcial de artigos da Constituição do Estado de Pernambuco, os quais estabeleceram a competência da Assembléia Legislativa para julgar as contas do Poder Legislativo estadual e municipal, do Tribunal de Contas e do Tribunal de Justiça.
+    Esse entendimento também foi adotado no julgamento da ADI 849, rel. Min. Sepúlveda Pertence, DJ 23.4.1999, em relação a artigo da Constituição do Estado do Mato Grosso, que também previa a competência da Assembléia para julgar as suas próprias contas.
+    No julgamento da ADI 3.715-MC, rel. Min. Gilmar Mendes, DJ 25.8.2006, foi examinada a constitucionalidade de artigos da Constituição do Estado do Tocantins, alterados pela EC estadual nº 16/2006, que ampliaram a competência da Assembléia Legislativa, acarretando uma diminuição nas atribuições da Corte de Contas.
+    Além da divergência material, acrescento que nos três julgamentos citados foram examinadas leis dos Estados de Pernambuco, de Mato Grosso e do Tocantins, ou seja, legislação estadual diversa da aplicada pelo Tribunal de Contas do Estado do Rio de Janeiro.
+    Observo que em diversas decisões desta Corte, em casos análogos ao presente, não tem sido admitida a aplicação da transcendência dos motivos determinantes. Cito a Rcl 11.477-AgR, 1ª Turma, rel. Min. Marco Aurélio, DJe 21.6.2012; Rcl 11.484, rel. Min. Ricardo Lewandowski, DJe 14.4.2011; Rcl 11.479, rel. Min. Cármen Lúcia, DJe 15.4.2011; Rcl 13.898, rel. Min. Joaquim Barbosa, DJe11.6.2012.
+    Ademais, o reclamante objetiva conferir à reclamação a natureza de sucedâneo recursal, possibilitando um atalho processual, o que é inviável no entendimento firmado por este Supremo Tribunal Federal. Nesse sentido: Rcl 10.036-AgR, Pleno, rel. Min. Joaquim Barbosa, DJe 1º.02.2012.
+    Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação.
+    Publique-se.
+    Brasília, 02 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
