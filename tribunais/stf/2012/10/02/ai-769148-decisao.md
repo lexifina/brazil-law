@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa possui o seguinte teor (fls. 460):
+    “EMENTA: REEXAME NECESSÁRIO. APELAÇÃO CÍVEL. ADMINISTRATIVO. PENSÃO POR MORTE. SERVIDOR FALECIDO. INTEGRALIDADE. INTELIGÊNCIA DO ART. 40, § 7º E 8º, DA CF/88. COMPROVAÇÃO DA INCORPORAÇÃO AOS VENCIMENTOS E PROVENTOS DO EX-SERVIDOR. DIREITO ADQUIRIDO. PAGAMENTO DEVIDO. HONORÁRIO. RAZOABILIDADE. REFORMA PARCIAL DA SENTENÇA. (…).”
+    No recurso extraordinário, o ora agravante aponta violação aos arts. 37, caput, e 195, § 5º, da Constituição federal.
+    A análise da alegada violação ao princípio da legalidade (art. 37, caput, da Constituição federal), da forma como posta nas razões do apelo extraordinário, exigiria necessariamente a análise da legislação local (Lei complementar estadual 64/2002). Desse modo, eventual ofensa constitucional seria indireta ou reflexa, descabendo a interposição de recurso extraordinário. Incide, no ponto, a Súmula 280 desta Corte.
+    Ademais, os argumentos trazidos à colação no recurso extraordinário não são suficientes para desconstituir o fundamento da decisão recorrida, vez que esta consignou que “não merece acolhida a alegação de que a concessão da pensão integral feriria o disposto no art. 195, § 5, da CF, por falta de previsão e custeio. Os Tribunais vêm, reiteradamente, entendendo que tal limitação é dirigida ao legislador ordinário, não se aplicando aos benefícios existentes” (fls. 465), enquanto aquele, alegando ofensa ao art. 195, § 5º, da Constituição, se limitou a repetir argumento já suscitado e apreciado no acórdão recorrido. Tal circunstância impede o conhecimento do recurso extraordinário por esta Corte, nos termos da Súmula 284/STF.
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 2 de outubro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
