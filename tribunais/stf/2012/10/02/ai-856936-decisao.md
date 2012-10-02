@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo de instrumento de decisão que negou seguimento a recurso extraordinário (art. 102, III, a, da Constituição Federal) interposto de acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul, cuja ementa tem o seguinte teor (fls. 226):
+    “APELAÇÃO CÍVEL – AÇÃO REVISIONAL DE CONTRATO – CARTÃO DE CRÉDITO – PRELIMINAR DA APELANTE – ILEGITIMIDADE DE PARTE – DENUNCIAÇÃO À LIDE – REJEITADAS – REVISÃO DE CLÁUSULAS ABUSIVAS – POSSIBILIDADE – CONTRATO DE ADESÃO – APLICAÇÃO DO CDC – LIMITAÇÃO DE JUROS REMUNERATÓRIOS EM 12% AO ANO – INCIDÊNCIA DO DECRETO N. 22.626/33 – CAPITALIZAÇÃO MENSAL DE JUROS – PRÁTICA ILEGAL – ANATOCISMO – SÚMULA 121 DO STF – CRIME DE USURA – COMISSÃO DE PERMANÊNCIA – HONORÁRIOS – RECURSO IMPROVIDO.
+    Nos termos do parágrafo único do art. 7º do CDC, todos que participaram da cadeia produtiva devem responder pelos prejuízos causados aos consumidores.
+    É vedada a denunciação à lide em demandas cuja causa de pedir tenha como suposto legal o Código de Defesa do Consumidor (art. 88).
+    Se a empresa administradora do cartão de crédito capta clientes através do estabelecimento bancário, é parte legítima para figurar no pólo passivo da ação, porquanto o consumidor pode intentar a ação contra qualquer um dos que participaram da cadeia produtiva.
+    Em razão do advento do Código de Defesa do Consumidor, em havendo desiquilíbrio entre as partes contratantes, impõe-se a revisão do contrato, que em sendo de adesão, impõe-se a revisão das cláusulas excluindo-se as desfavoráveis ao consumidor, restabelecendo o equilíbrio contratual.
+    Em que pese a revogação do art. 192, § 3º, da Constituição Federal, prevalece nesta Corte o entendimento de que é ilegal a cobrança de juros remuneratórios superiores a 12% ao ano.
+    A Constituição Federal não recepcionou o art. 4º da Lei 4.595/64, que dava ao Conselho Monetário Nacional a competência para fixar a taxa de juros, devendo ser aplicadas as regras do Decreto n. 22.626/33, que ainda encontra-se em vigor.
+    A capitalização mensal de juros, denominada, anatocismo, é prática vedada pelo nosso ordenamento jurídico, a exemplo do que ocorre com o art. 13 do Decreto n. 22.626/33, e da Súmula 121 do STF.
+    Prevalece o entendimento dominante de que a capitalização de juros só é admissível quando a legislação especial a autorizar, como é o caso do Decreto-Lei n. 167/67, art. 5º, que dispõe sobre títulos de crédito rural, do Decreto-Lei n. 413/69 art. 5º c.c. 14, VI, que dispõe sobre títulos de crédito industrial, e da Lei n. 6.840/80, art. 5º, que dispõe sobre títulos de crédito comercial, que preveem a capitalização semestral. Fora dessas hipóteses, vigora a regra da capitalização anual (Decreto n. 22.626/33).
+    É inaplicável a comissão de permanência aos contratos bancários, quer seja cumulada ou não com a correção monetária e juros.”
+    Em seu recurso extraordinário, VISA DO BRASIL EMPREENDIMENTOS LTDA, alega ofensa ao disposto no no art. 5º, XXXVI (ato jurídico perfeito) , da Constituição Federal sob o fundamento de que não pode ser mantida no polo passivo da demanda já que não pode ser responsabilizada por negócio jurídico do qual não participou (o contrato questionado foi celebrado entre a Caixa Econômica Federal e o portador do cartão de crédito).
+    Em consulta ao sítio do Superior Tribunal de Justiça verifico que transitou em julgado a decisão acerca do Recurso Especial interposto simultaneamente a presente recurso extraordinário. Desse modo, permanece suficiente o fundamento infraconstitucional adotado pelo acórdão recorrido. Essa situação inviabiliza o apelo extremo, nos termos da Súmula 283/STF.
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 2 de outubro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
