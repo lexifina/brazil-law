@@ -1,0 +1,24 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – IMPROPRIEDADE.
+PENA – REGIME DE CUMPRIMENTO – CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS.
+PRISÃO PREVENTIVA – INSUBSISTÊNCIA.
+LIMINAR – CONCESSÃO DE OFÍCIO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado a seis anos, sete meses e dez dias de reclusão, em regime inicial fechado, pela prática do crime de roubo, qualificado pelo emprego de arma, pelo concurso de duas ou mais pessoas e pela restrição à liberdade de vítima (artigo 157, § 2º, incisos I, II e V, combinado com o 61, inciso II, alínea “h”, do Código Penal). Ao proferir a sentença, o Juízo da Vara Criminal da Comarca de Sertãozinho, Estado de São Paulo, manteve a custódia cautelar do paciente. Justificou a fixação de regime mais gravoso, nos seguintes termos:
+    Observados os critérios descritos no artigo 59 do Código Penal, considerando-se que o crime foi praticado mediante grave ameaça à pessoa, exercida com emprego de arma de fogo, em concurso de pessoas, mediante a restrição da liberdade das vítimas e, ainda, contra crianças indefesas, o único regime que se amolda ao cumprimento da pena é o fechado, conforme previsão no artigo 33, § 2º, letra “a” do Código Penal.
+    O relator do habeas formalizado no Tribunal de Justiça do Estado de São Paulo deixou de acolher o pedido liminar voltado à fixação de regime semiaberto e à concessão de liberdade provisória. Asseverou não haver constrangimento ilegal manifesto a autorizar o implemento da medida acauteladora, ressaltando a natureza satisfativa do pleito liminar.
+    O ato atacado é a decisão proferida pelo ministro Ari Pargendler, do Superior Tribunal de Justiça, no Habeas Corpus nº 249.137/SP, na qual foi indeferida a petição inicial. Consignou-se a inexistência de situação excepcional a motivar o afastamento do Verbete nº 691 da Súmula do Supremo.
+    Conforme sustenta o impetrante, a imposição de regime inicial fechado amparou-se somente na gravidade abstrata do delito. Destaca que, na sentença condenatória, o Juízo reconheceu a presença de circunstâncias judiciais favoráveis ao ora paciente e fixou a pena-base no mínimo legal. Aponta a inobservância ao que previsto no Verbete nº 718 da Súmula do Supremo. Alega a ausência de motivos a justificarem a custódia cautelar.
+    Em âmbito liminar, requer seja deferida a ordem, de modo a fixar o regime inicial semiaberto e a assegurar o direito de recorrer em liberdade. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de origem indica que se aguarda o envio do processo-crime ao segundo grau, em face da interposição de apelação.
+    O habeas está concluso para apreciação da medida acauteladora.
+    2. Cumpre observar a organicidade do Direito, especialmente do instrumental. Cabível contra decisão do Superior Tribunal de Justiça em habeas corpus é o recurso ordinário constitucional. De qualquer forma, surge campo ao exame dos parâmetros do processo presente a concessão de liminar de ofício.
+    O Juízo consignou serem favoráveis as circunstâncias judiciais, fixando a pena-base no mínimo previsto para o tipo – quatro anos de reclusão. Não há situação jurídica a desaguar, necessariamente, no regime fechado, já que este apenas é imposto, ante o artigo 33 do Código Penal, quando a pena suplanta os oito anos. Então, incumbia observar não a gravidade da prática delituosa, mas o disposto no § 3º do citado preceito : “§ 3º – A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código”.
+    Quanto à manutenção da custódia, o Juízo apontou que isso decorreria do fato de o ora paciente haver respondido ao processo preso, tendo sido fixado o regime fechado para o cumprimento da pena. Aludiu à possibilidade de, solto, vir a frustar a aplicação da lei penal. Então, determinou fosse expedido o mandado de recomendação.
+    A premissa a embasar a prisão não se sustenta. Partiu-se, em última análise, para a execução precoce, açodada, temporã, da pena, invertendo-se a ordem natural das coisas: apurar e, só após, formada a culpa, prender.
+    3. Implemento a liminar, viabilizando o regime semiaberto. No tocante à custódia preventiva, expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso do constante da sentença prolatada pela Vara Criminal da Comarca de Sertãozinho no Processo nº 1281/2011. Advirtam-no da necessidade de permanecer no distrito da culpa, atendendo aos chamamentos judiciais, e de adotar postura que se aguarda do homem médio, ou seja, consentânea com a vida em sociedade.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 3 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
