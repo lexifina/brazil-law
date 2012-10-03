@@ -1,0 +1,30 @@
+Decisão: Cuida-se de Reclamação, com pedido de liminar, ajuizada pela Coligação Majoritária Por Amor a Lagoa Grande, contra decisão do Tribunal Regional Eleitoral de Pernambuco, que teria afrontado a autoridade da decisão do Supremo Tribunal Federal nas Ações Declaratórias de Constitucionalidade 29/DF e 30/DF, que validaram a Lei Complementar 135/2010, denominada Lei da Ficha Limpa.
+    O acórdão reclamado recebeu a seguinte ementa:
+    ELEIÇÕES 2012. AÇÃO DE IMPUGNAÇÃO AO REGISTRO DE CANDIDATURA. PREFEITO. EMBARGOS DE DECLARAÇÃO. EFEITOS INFRINGENTES. LC 135/2010. ART. 1º, I , D. INCIDÊNCIA. IRRETROATIVIDADE.
+    1. Inaplicabilidade da Lei Complementar 135/2010 de forma retroativa ao condenado por captação ilícita de sufrágio, posto que não existia previsão de inelegibilidade no artigo 41-A da Lei 9.504/97, antes da entrada em vigor da LC nº 135/2010.
+    2. O princípio da Segurança jurídica impõe que a inelegibilidade acrescida pela LC nº 135/2010 não alcança fatos pretéritos, restando afastada a inelegibilidade em razão de o fato delituoso ter ocorrido em 2008, portanto, anteriormente a vigência da LC nº 135/2010.
+    3. Precedentes.
+    4. Embargos de declaração providos.
+    5. Registro de candidatura deferido.
+    Sustenta a reclamante, em síntese, que o acórdão do TRE/PE em recurso de embargos de declaração opostos em face de acórdão que indeferiu o registro de candidatura de José Robson Ramos de Amorim para as Eleições 2012 assentou que a Lei Complementar 135/2010 não se aplica a fatos pretéritos.
+    Alega que “a inelegibilidade decorrente de ato ilícito não seria uma sanção, mas sim uma condição para o pretendido registro. Ou seja, inelegibilidade não é pena criminal, mas sim condição para registro de candidatura. Enquanto as sanções implicam em limitação ao exercício de direitos preexistentes, as condições constituem requisitos para o acesso a novos direitos”.
+    O acórdão reclamado consignou que a inelegibilidade aplicada decorreu de condenação pela prática de captação ilícita de sufrágio ocorrida nas eleições de 2008, proferida pelo Juízo da 81ª ZE, e, posteriormente, confirmada pelo TRE/PE, em grau de recurso, tendo transitado em julgado no dia 07/10/2010.
+    Esclarece, ainda, que consta expressamente no acórdão proferido que a captação ilícita de sufrágio estava devidamente comprovada e que pena de cassação de registro ou diploma não fora aplicada, porque o candidato não foi eleito.
+    É o relatório. Decido.
+    Neste exame preambular, vislumbro a ocorrência de ofensa à decisão proferida nas Ações Declaratórias de Constitucionalidade 29/DF e 30/DF.
+    O acórdão reclamado defendeu a tese de que “por não terem sido observados os precedentes, a inelegibilidade deve ser afastada, pois o fato delituoso ocorreu nas eleições de 2008, portanto, no momento do registro de candidatura o ora embargante já tinha cumprido os três anos de sanção”.
+    Outrossim, ”considerando que não existia previsão de inelegibilidade no artigo 41-A da Lei nº 9.504/97, antes da entrada em vigor da LC 135/2010, entendo que mais razão existe no presente caso para não se aplicar a Lei Complementar 135/2010 de forma retroativa”.
+    É possível constatar que a fundamentação da decisão está baseada no argumento da irretroatividade da LC 135/2010, a qual, segundo o TRE/PE, não poderia alcançar condenações pretéritas por captação ilícita de sufrágio, para impor a sanção de inelegibilidade não aplicada na sentença condenatória nem prevista no art. 41-A da Lei 9.504/97, antes da entrada em vigor da LC 135/2010.
+    Por ocasião do julgamento das Ações Declaratórias de Constitucionalidade 29 e 30, de minha relatoria, esta Corte julgou procedente as ações para declarar a constitucionalidade da aplicação da Lei Complementar 135/10 a atos e fatos jurídicos que tenham ocorrido antes do advento do referido diploma legal. Naquela ocasião, tive a oportunidade de assentar o seguinte:
+    Em outras palavras, a elegibilidade é a adequação do indivíduo ao regime jurídico – constitucional e legal complementar – do processo eleitoral, consubstanciada no não preenchimento de requisitos “negativos” (as inelegibilidades). Vale dizer, o indivíduo que tenciona concorrer a cargo eletivo deve aderir ao estatuto jurídico eleitoral. Portanto, a sua adequação a esse estatuto não ingressa no respectivo patrimônio jurídico, antes se traduzindo numa relação ex lege dinâmica.
+    É essa característica continuativa do enquadramento do cidadão na legislação eleitoral, aliás, que também permite concluir pela validade da extensão dos prazos de inelegibilidade, originariamente previstos em 3 (três) , 4 (quatro) ou 5 (cinco) anos, para 8 (oito) anos, nos casos em que os mesmos encontram-se em curso ou já se encerraram. Em outras palavras, é de se entender que, mesmo no caso em que o indivíduo já foi atingido pela inelegibilidade de acordo com as hipóteses e prazos anteriormente previstos na Lei Complementar nº 64/90, esses prazos poderão ser estendidos – se ainda em curso – ou mesmo restaurados para que cheguem a 8 (oito) anos, por força da lex nova, desde que não ultrapassem esse prazo.
+    Explica-se: trata-se, tão-somente, de imposição de um novo requisito negativo para a que o cidadão possa candidatar-se a cargo eletivo, que não se confunde com agravamento de pena ou com bis in idem. Observe-se, para tanto, que o legislador cuidou de distinguir claramente a inelegibilidade das condenações – assim é que, por exemplo, o art. 1º, I, “e”, da Lei Complementar nº 64/90 expressamente impõe a inelegibilidade para período posterior ao cumprimento da pena.
+    Ex positis, defiro o pedido liminar para suspender os efeitos do acordão reclamado, sem prejuízo de melhor exame da questão, por ocasião da apreciação do mérito.
+    Comunique-se, com urgência.
+    Requisitem-se informações ao Tribunal Regional Eleitoral de Pernambuco.
+    Após, dê-se vista dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 3 de outubro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
