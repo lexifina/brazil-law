@@ -1,0 +1,18 @@
+Trata-se de embargos de divergência opostos ao acórdão (fls. 336-340 e 359-365) da Primeira Turma que negou provimento ao agravo regimental, nos seguintes termos:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. IMUNIDADE TRIBUTÁRIA DO ART. 150, VI, D, DA CF. ABRANGÊNCIA. SERVIÇOS DE COMPOSIÇÃO GRÁFICA. IMPOSSIBILIDADE. INTERPRETAÇÃO RESTRITIVA. AGRAVO IMPROVIDO.
+    I – A imunidade tributária prevista no art. 150, VI, d, da Constituição Federal não abrange os serviços de composição gráfica. Precedentes.
+    II – O Supremo Tribunal Federal possui entendimento no sentido de que a imunidade em discussão deve ser interpretada restritivamente.
+    III – Agravo regimental improvido” (fl. 340).
+    A embargante alega, em suma, que há divergência entre o acórdão impugnado e o proferido pela Segunda Turma no julgamento do RE 102.141/RJ. Sustenta que no acórdão embargado julgou-se inaplicável a imunidade prevista no art. 150, VI, d, da Constituição aos serviços de composição gráfica, ao passo que no aresto paradigma concluiu-se que a aludida regra imunizante abrange também o conjunto de serviços necessários à produção do livro, tais como redação, editoração, composição, correção e revisão da obra.
+    Por sua vez, o embargado, em contrarrazões (fls. 399-404), afirma serem incabíveis estes embargos, ao argumento de que os acórdãos confrontados não divergiram acerca da interpretação de uma mesma norma constitucional.
+    Além disso, aduz que o acórdão embargado está em harmonia com a jurisprudência predominante nesta Corte e que o entendimento firmado no julgado paradigma já foi superado por este Tribunal.
+    A pretensão recursal não merece acolhida.
+    Isso porque não cabem embargos de divergência, conforme o art. 332 do Regimento Interno do Supremo Tribunal Federal, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada. Na espécie, o acórdão impugnado está em consonância com a jurisprudência predominante desta Corte, consoante se observa nos seguintes julgados de ambas as Turmas:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. IMUNIDADE TRIBUTÁRIA. ART. 150, INC. VI, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. EXTENSÃO AOS SERVIÇOS DE COMPOSIÇÃO GRÁFICA: IMPOSSIBILIDADE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 435.978-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma - grifos meus).
+    “Ementa: AGRAVO REGIMENTAL. TRIBUTÁRIO. IMUNIDADE. LIVRO, JORNAL, PERIÓDICO E O PAPEL DESTINADO À RESPECTIVA IMPRESSÃO. PRETENDIDA EXTENSÃO AOS SERVIÇOS DE COMPOSIÇÃO GRÁFICA E DE IMPRESSÃO POSTOS À DISPOSIÇÃO DO MERCADO CONSUMIDOR. IMPOSSIBILIDADE. ART. 150, VI, D, DA CONSTITUIÇÃO. A imunidade tributária prevista no art. 150, VI, d, da Constituição não alcança os serviços de composição gráfica ou de impressão onerosos, oferecidos a terceiros interessados. Segundo o quadro fático-jurídico definido nos autos, o material produzido pela agravante é inassimilável aos conceitos constitucionais-tributários de jornal, livro e periódico, porquanto mais se aproximam de material promocional ou de propaganda. Agravo regimental ao qual se nega provimento” (AI 723.018-AgR/MG, Rel. Min. Joaquim Barbosa, Segunda Turma – grifos meus).
+    No mesmo sentido, cito os seguintes precedentes, entre outros: RE 229.703/SP, Rel. Min. Moreira Alves, e RE 230.782/SP, Rel. Min. Ilmar Galvão.
+    Isso posto, não admito os embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335, § 1º).
+    Publique-se.
+    Brasília, 3 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
