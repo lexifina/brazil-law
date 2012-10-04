@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO DE AGRAVO DE INSTRUMENTO – AÇÃO CIVIL PÚBLICA – ATO DE IMPROBIDADE ADMINISTRATIVA – PRELIMINARES DE ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO E IMPOSSIBILIDADE DE CUMULAÇÃO DE AÇÃO CIVIL PÚBLICA COM AÇÃO DE IMPROBIDADE – REJEITADAS – DECISÃO QUE RECEBEU A AÇÃO CIVIL PÚBLICA – INDÍCIOS DE OCORRÊNCIA DOS FATOS DENUNCIADOS – PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA – DECISÃO MANTIDA – RECURSO IMPROVIDO.
+    A ação civil pública é adequada para averiguar improbidade administrativa praticada pelos seus agentes, mormente quando se busca garantir o princípio da moralidade pública, sendo o Ministério Público parte legítima para promovê-la quando a matéria diz respeito a interesses difusos, consoante o que prescreve o art. 129, inciso III, da CF. A ação civil pública por improbidade administrativa deve ser recebida quando presentes indícios suficientes da prática desses atos. Precedentes do STJ”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 129, III, da mesma Carta.
+    A pretensão recursal não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que o Ministério Público tem legitimidade para ajuizar ação civil pública na defesa do patrimônio público. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. 1. APLICAÇÃO DA MULTA PREVISTA NO ART. 12 DA LEI N. 8.429/1992. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA PROPOR AÇÃO CIVIL PÚBLICA EM DEFESA DO PATRIMÔNIO PÚBLICO. 3. AUSÊNCIA DE VÍCIO FORMAL NA EDIÇÃO DA LEI N. 8.429/1992. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 545.466-ED/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “Agravo regimental em recurso extraordinário. 2. Ministério Público Federal. Legitimidade ativa para propor ação civil pública com a finalidade de evitar lesão ao patrimônio público. Precedentes. 3. Agravo regimental a que se nega provimento” (RE 459.138-AgR/PR, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
