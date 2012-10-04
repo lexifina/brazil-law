@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sul que negou seguimento ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL. AGRAVO RETIDO NÃO REITERADO EM SEDE DE APELAÇÃO. NAO CONHECIMENTO. COISA JULGADA. PRESCRIÇÃO. PRELIMINARES AFASTADAS. REGISTRO DE ATO DE APOSENTADORIA POR INVALIDEZ. PEDIDO DE REVISÃO PROVIDO PELO TCE. PAGAMENTO DO PROVENTOS RETROATIVOS. LITIGÂNCIA DE MÁ-FÉ. INOCORRÊNCIA.
+    1) Não deve ser conhecido do agravo retido quando não reiterada a sua apreciação no recurso de apelação, nos termos do art. 523, § 1º, do CPC.
+    2) Inocorrência de coisa julgada, pois as demandas anteriormente aforadas possuem objeto distinto do da presente ação.
+    3) Inocorrência da prescrição do fundo de direito, pois a pretensão de requerer os proventos pretéritos, relativamente ao período de 01.08.2003 a 01.03.2008, surgiu com a decisão da Corte de Contas, publicada em 26.06.2007, que registrou o ato de aposentadoria da apelada, ao passo que a presente ação foi ajuizada em 06.06.2008, não havendo que se falar, tampouco, em prescrição quinquenal, já que o objeto da ação não diz com parcelas de trato sucessivo, não incidindo o art. 206, § 3º, V do Código Civil no caso em estudo, pois o pedido não diz com reparação civil.
+    4) Como já sufragado na decisão do TCE pelo registro do ato de inativação da servidora, ainda que sua nomeação não tenha sido registrada em razão de irregularidades no concurso público em que foi aprovada, deve ser condenado o Município ao pagamento dos proventos de aposentadoria no período compreendido entre a invalidação do ato inativatório e o retorno do pagamentos dos proventos, dado o caráter contributivo do sistema previdenciário, sob pena de enriquecimento sem causa do ente público.
+    5) Não se encontra ocorrente situação para autorizar seja condenado o apelante em litigância de má-fé, ao contrário do requerido pela parte recorrida.
+    AGRAVO RETIDO NAO CONHECIDO. PRELIMINARES AFASTADAS. APELO DESPROVIDO.” (fl. 415)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, o recorrente sustenta, em preliminar, a repercussão geral da matéria. No mérito, sustenta, em síntese, violação aos artigos 5 º, XXXVI, e 37, II e § 2 º, do texto constitucional.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o Tribunal de origem consignou que as razões recursais do recorrente são infundadas, pois a controvérsia debatida nos autos não se refere às irregularidades apontadas na realização de concurso público (art. 37, II, CF/88) em que foi aprovada e nomeada a recorrida. (fl. 418v)
+    No caso, a matéria discutida diz respeito ao direito aos proventos de aposentadoria não pagos à recorrida durante o período de agosto de 2003 a fevereiro de 2008.
+    Assim, o acórdão recorrido decidiu que:
+    “(…) dever do recorrente de alcançar os proventos devidos no período requerido, em virtude da compreensão emanada da Corte de Contas pelo registro do ato de inativação, considerando fundamentalmente que se trata de ‘contraprestações de um sistema previdenciário contributivo, cujo montante não se afeta pela destruição ou restauração do vínculo que a autora mantinha com o Município’, pois ‘nada mais são do que o resultado de anos de contribuição previdenciária [ nomeação no ano de 1990 e aposentadoria por invalidez permanente no ano de 2002 (…) ] ’, como coerentemente realçou magistrado da causa, fulcrado no entendimento do TCE acerca do assunto”. (fl. 418v)
+    No recurso extraordinário, observo que o recorrente limitou-se a reiterar os argumentos trazidos no recurso de apelação sem apontar efetivamente as razões pelas quais caberia o apelo extremo. Portanto, verifico haver deficiência na fundamentação do recurso extraordinário, pois as razões recursais estão dissociadas da matéria versada no acórdão recorrido, de modo a dar ensejo à aplicação do Verbete 284 da Súmula do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. 1) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE INOVAÇÃO DE ARGUMENTOS EM AGRAVO REGIMENTAL. PRECEDENTES. 3) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 667.051, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 16.5.2012) (grifei)
+    “AGRAVO REGIMENTAL. FALTA DE PERTINÊNCIA ENTRE A FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO E O CONTEÚDO DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. PRINCÍPIO DA AUTONOMIA UNIVERSITÁRIA. MATÉRIA INFRACONSTITUCIONAL. - Agravo regimental a que se nega provimento”. (AI-AgR 855.359, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 22.6.2012) (grifei)
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de outubro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
