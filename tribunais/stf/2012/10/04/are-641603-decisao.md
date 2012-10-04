@@ -1,0 +1,47 @@
+DECISÃO
+    Vistos.
+    Pedro José Cardoso e outros interpõem agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º e 37, caput, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Apelação Cível – Magistério – Adicional de Local de Exercício – Ação improcedente – Localização do estabelecimento de ensino – Prestação de serviços – Ausência de prova técnica para evidenciar a deficiência – Inadmissibilidade – Inconformismo – Violação ao princípio da isonomia – Impossibilidade – Não enquadramento da unidade escolar – Entendimento jurisprudencial sobre o tema – Recurso improvido” (fl. 149).
+    Opostos embargos de declaração (fls. 156 a 158), foram rejeitados (fls. 162 a 165).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    Colhe-se da fundamentação do voto condutor do acórdão recorrido:
+    “(...)
+    Indiscutível que a abusividade a caracterização de iliceidade, que sob o ponto de vista legal, quer em razão de unanimidade doutrinária.
+    E o que então justifica a interferência do Poder Judiciário no âmbito administrativo e na esfera de outro Poder.
+    Porém, a pretensão, e que supõe o enquadramento na hipótese de caracterização da previsão legal aludida não extrapolou o caráter meramente conjectural.
+    Sendo evidente tratar-se de questão de cunho técnico, impossível a supressão de prova pertinente para cogitar-se de violação, sobretudo do princípio da isonomia” (fls. 150/151).
+    Sustentaram os agravantes, nas razões do recurso extraordinário, o seguinte:
+    “(...)
+    Todavia, conforme relatado nos autos, foi editada pelo Estado de São Paulo, a Lei Complementar n. 669/91, regulamentada pelo Decreto-Lei n. 36.447/93, que disciplinam sobre a instituição do Auxílio de Local de Exercício, instituindo, inclusive, os requisitos legais para concessão do mencionado benefício.
+    …...................................................................................................
+    Logo, pelo fato dos recorrentes desempenharem suas atividades em unidade escolar de zona periférica do centro urbano da Capital do Estado de São Paulo, de rigor que lhes fosse instituído tal auxílio.
+    Porém, a Secretaria de Educação do Estado de São Paulo baixou resolução aduzindo que seria analisado caso a caso, para depois averiguar a possibilidade de deferimento do auxílio, dependendo o deferimento, da ‘periculosidade’ do local em que os professores lecionassem.
+    A nosso ver, tal atitude é totalmente inaceitável, pois não pode a Secretaria da Educação ditar novas regras para deferimento do benefício, se estas já estavam elencadas em lei/Decreto.
+    Frisa-se, se indubitável que os recorrentes cumprem todos os requisitos para deferimento do benefício, pois, a Unidade Escolar em que laboram está situada em zona periférica, com altíssimo risco de segurança para eles a para as demais pessoas que lá trabalham.
+    Reconhecendo que a unidade escolar onde os recorrentes está situada em zona periférica de altíssimo risco, tem-se o fato da Oitava Câmara de Direito Público do Estado de São Paulo ter concedido a alguns dos funcionários da unidade escolar, o benefício de Auxílio de Local de Exercício, conforme cópia do v. acórdão encartada aos autos às fls. 131/140.
+    Ademais, oportuno se torna ressaltarmos que, funcionários da Unidade Escolar Professora Maria de Lourdes R. Negreiros, sediada na mesma rua em que trabalham os recorrentes, a menos de 500 (quinhentos) metros de distância, percebem tal auxílio.
+    …...................................................................................................
+    Desta feita, conceder o benefício de Auxílio de Local de Exercício para funcionários que lecionam em escola situada a menos de 500 metros daquela em que trabalham os recorrentes e negar-lhes tal benefício, fere o princípio constitucional da isonomia, devendo ser revista por este Tribunal Supremo” (fls. 174 a 177).
+    Nesse caso, é certo que para ultrapassar o entendimento firmado pelo Tribunal de origem e acolher a pretensão dos agravantes de que fazem jus ao adicional em questão, seria necessário o reexame da legislação local pertinente (Lei Complementar 669/91 e Decreto Lei nº 36.447/93) e das provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte.
+    Sobre o tema, destaco o seguinte trecho da decisão proferida pelo Ministro Gilmar Mendes, em caso análogo ao presente, nos autos do AI nº 763.859/SP (DJe de 22/3/11), que bem aborda a questão:
+    “(...)
+    Segundo orientação da Súmula 279 do STF, não cabe recurso extraordinário para simples reexame de prova.
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu que
+    “(...) a Secretaria de Educação, por meio do documento de fls. 104, informa que a Escola Estadual 'Profª Dulce Esmeralda Basile Ferreira' não se enquadra nos critérios definidos no Decreto 36.447/93, ou seja, indiretamente a Secretaria indefere o pleito de inclusão da escola no rol de beneficiadas pelo adicional. Poderia se argumentar que o indeferimento foi um ato abusivo ou ilegal, porém, diante dos elementos trazidos pelos autores, não dá para se chegar a tal conclusão, presumindo-se que foi pautado dentro da razoabilidade”. (fl. 155)
+    Assim, para entender que o agravante faria jus ao recebimento do Adicional de Local de Exercício por lecionar em escola de difícil acesso e com alto índice de violência, far-se-ia imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+    Incide, portanto, no caso, a Súmula 279/STF”.
+    Nesse mesmo sentido, anotem-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL E NAS PROVAS DOS AUTOS: OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 704.286/AP-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 25/9/12).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. ADICIONAL DE LOCAL DE EXERCÍCIO – ALE. CRITÉRIO DE PAGAMENTO. LEIS COMPLEMENTARES ESTADUAIS 689/1992, 830/1997 E 994/2006. REAPRECIAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. ALEGADA CONTRARIEDADE AO ART. 5º, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário com agravo quando sua análise implica rever a interpretação de normas infraconstitucionais locais que fundamentam a decisão a quo. Incidência da Súmula 280 desta Corte. Precedentes. II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. Precedentes. III - A orientação desta Corte, por meio da remansosa jurisprudência, é a de que, em regra, a alegada violação ao art. 5º, LIV e LV, da Constituição, quando dependente de exame de legislação infraconstitucional, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. IV - Agravo regimental improvido” (ARE nº 702.063/SP-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/9/12).
+    “Agravo regimental em agravo de instrumento. Servidor público municipal. Adicional de insalubridade. Ofensa a direito local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local e de fatos e provas. Incidência das Súmulas nº 280 e 279 desta Corte. 2. Agravo regimental não provido” (AI nº 729.394/RS-AgR, Primeira Turma, de minha relatoria, DJe de 25/5/11)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 4 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
