@@ -9,3 +9,4 @@ II - promover a troca de experiências e tecnologias em busca da melhor relaçã
 III - incentivar a inovação tecnológica; e
 IV - assegurar tratamento isonômico entre os licitantes e a seleção da proposta mais vantajosa para a administração pública.
 § 2º A opção pelo RDC deverá constar de forma expressa do instrumento convocatório e resultará no afastamento das normas contidas na Lei nº 8.666, de 21 de junho de 1993, exceto nos casos expressamente previstos nesta Lei.
+§ 3º Além das hipóteses previstas no caput, o RDC também é aplicável às licitações e contratos necessários à realização de obras e serviços de engenharia no âmbito dos sistemas públicos de ensino.
