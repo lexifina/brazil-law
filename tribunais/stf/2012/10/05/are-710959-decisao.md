@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “Administrativo – Servidor Público. Aposentadoria. Imprensa Oficial do Estado de Minas Gerais. Reenquadramento para Efeitos de Fixação Proventos. Prejuízo. Quebra de Isonomia. Pedido. Procedência. O inativo tem o direito de ser equiparado a servidor em exercício das funções de cargo análogo ao que ocupava por ocasião da aposentação”. (fl. 288)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 2º; 5º, caput; 37, caput e inciso XIII; 40, § 8º; 93, inciso IX; 169; e 195, § 5º, todos insertos no texto constitucional.
+    Alega-se que, “seja pelo fato dos inativos, assim como alguns servidores da ativa, não terem preenchidos os requisitos legais necessários ao recebimento do direito pleiteado, seja por ser inviável a caracterização da ocorrência de transformação ou reclassificação de cargos, o recorrido não tem direito à equiparação pretendida nos presentes autos”(fl. 316).
+    Aduz-se, ademais, violação aos princípios da isonomia e de legalidade.
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao art. 93, inciso IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que os referidos artigos exigem que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador.
+    Dessa forma, verifico que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária ao interesse do recorrente. Portanto, não prospera a alegação de nulidade do acórdão.
+    Quanto ao mérito, verifica-se que o Tribunal de origem, a partir da análise da legislação local aplicável à espécie – Lei Estadual 15.470/2005, concluiu pela existência de erro de enquadramento no cargo do ora recorrido, induzindo, assim, prejuízo remuneratório em seu desfavor. Confiram-se trechos do aresto recorrido:
+    “O apelado se aposentou em 7/2/1992, no cargo de Técnico em Comunicação Social, código NS12, do quadro setorial de lotação da Imprensa Oficial do Estado de Minas Gerais.
+    Inúmeras leis alteraram a carreira e os vencimentos do apelado.
+    Relevante para o desate da questão posta é a análise da legislação editada a partir de 2005, com a vigência a partir de janeiro de 2006, conforme noticia a inicial de fls. 6, pois foi a partir de tal data que passou a ocorrer o prejuízo que deu origem à demanda em desate.
+    Da Lei 15.470/2005
+    Referida legislação reclassificou o autor, que estava percebendo proventos como Analista de Comunicação Social, Jornalista Profissional, nível superior ‘III’, grau ‘J’, para Analista de Gestão – art. 1º, inciso V, c/c inciso do art. 27 e alínea a do inciso III do art. 3º e, não obstante, a sua reclassificação foi no cargo de gestor governamental, cargo que não guarda qualquer relação com aquele.
+    Restou, deveras, caracterizado o prejuízo reclamado, ferindo o princípio da irredutibilidade, consagrado pelo inciso XV do art. 37 da Constituição Federal”. (fls. 20/291)
+    Assim, para a adoção de entendimento diverso, faz-se imprescindível a prévia análise e interpretação da referida legislação, o que encontra óbice no Enunciado 280/STF, a teor de remansosa jurisprudência desta Corte.
+    Eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta.
+    Nesse sentido, entre outros, confiram-se os seguintes precedentes: RE-AgR 414.224, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 25.11.2010; AI-AgR 723.047, Rel. Min. Ellen Gracie, Segunda Turma, DJe 20.8.2010; RE 115.236, Rel. Min. Moreira Alves, Primeira Turma, DJ 17.6.1988; RE-AgR 581.411, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 13.3.2009. Este último foi assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO: ENQUADRAMENTO EM PLANO DE CARGOS, CARREIRA E REMUNERAÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO ESTADUAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL . OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de outubro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
