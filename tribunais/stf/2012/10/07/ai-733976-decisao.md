@@ -1,0 +1,27 @@
+Decisão.
+    Vistos.
+    O Estado do Rio Grande do Sul interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 145, § 1º, 150, inciso IV e 155, inciso I, da Constituição Federal.
+    O juízo de admissibilidade realizado pelo Tribunal de origem enfatizou que o recurso não mereceria trânsito, pois as disposições constitucionais tidas como violadas não foram debatidas no acórdão recorrido. Desta forma, em face da ausência de prequestionamento, o recurso foi inadmitido na instância a quo.
+    O agravante insurgiu-se, no apelo extremo, contra acórdão da Sétima Câmara Cível do Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+    “SUCESSÕES. AGRAVO INTERNO. BASE DE CÁLCULO DO IMPOSTO DE TRANSMISSÃO MORTIS CAUSA. NÃO-INCIDÊNCIA SOBRE O VALOR DAS DÍVIDAS.
+    Cediço que o Imposto de transmissão Mortis Causa tem como base de cálculo o valor líquido do monte partível, isto é, o monte-mor, deduzidas as dívidas do de cujus. Incidente de inconstitucionalidade julgado procedente nesta Corte em relação ao art. 12, § 3º da Lei Estadual 8821-89. Decisão monocrática mantida.
+    NEGADO PROVIMENTO”(fl. 37).
+    Consultando o sistema processual do sítio do Superior Tribunal de Justiça na internet por meio do número de origem e pelo nome das partes, verificou-se que o recurso especial paralelamente interposto ao extraordinário não foi provido, decisão essa já transitada em julgado.
+    Decido.
+    De início, ressalto que assiste razão à decisão agravada quanto à ausência de prequestionamento, no tocando aos dispositivos dos artigos 145, § 1º, e 155, inciso I, da Constituição Federal. Isso porque o acórdão recorrido em nenhum momento faz alusão à capacidade contributiva ou questiona a competência do Estado para instituir o imposto.
+    Conheço do recurso, tão somente com relação à suposta violação ao artigo 150, inciso IV, da Constituição Federal, uma vez que o voto condutor do acórdão atacado transcreveu trechos de manifestação em outro precedente, afastando as deduções da base de cálculo e fazendo expressa referência à uma suposta natureza confiscatória da lei estadual. Quanto a esse dispositivo, então, passo a analisar o recurso extraordinário.
+    O acórdão recorrido afastou a aplicação da legislação estadual, a qual prescrevia que na definição da base de cálculo do imposto não deveriam ser abatidas eventuais dívidas que onerem os bens, títulos e créditos a serem transmitidos.
+    Aplicou-se o entendimento do Órgão Especial do Tribunal que reconhecera a inconstitucionalidade da vedação da dedução dos débitos incidentes sobre os bens que compõem o espólio. Destacamos o seguinte excerto do julgado referido:
+    “[...]Se o conceito de patrimônio alvo da transmissão é ativo menos passivo, não há como se tributar, a não ser como medida confiscatória, um bem que não existe na sua integralidade. Quem é dono da parcela de um bem não pode pagar tributo como referência à integralidade do bem.[...]”
+      O recorrente entende que a base de cálculo do imposto não pode sofrer as deduções decorrentes das dívidas incidentes sobre os bens que serão transmitidos. Aduz que o valor integral dos bens partilhados deve ser o valor a ser considerado como base de cálculo, conforme prescreve o Código Tributário Nacional. Nesse sentido, afirmou-se o seguinte:
+    “[...] Com efeito, a regra inserta no caput do art.12, da Lei Estadual nº 8.821/89, é consentânea com a definição legal complementar da base de cálculo do tributo em discussão, formulada pelo art.38 do Código Tributário Nacional.”
+    Realizando um cotejo entre o trecho transcrito do acórdão recorrido e a afirmação do recorrente supra colacionada, verifica-se que a discussão reside em definir se a alteração proposta pela legislação local mantém a conformidade com a previsão constante do Código Tributário Nacional, que prescreve a base de cálculo do imposto. Em outras palavras: discute-se se uma lei estadual obedeceu o que prevê a norma geral em direito tributário aplicável à espécie.
+    Tratando-se de uma questão afeta à base de cálculo do imposto, somente uma norma geral poderá definir prescrições normativas a respeito. Essa é uma conclusão que se extrai do artigo 146, inciso III, alínea “a”, da Constituição Federal. No caso do ITCMD, o próprio Código Tributário Nacional se ocupou de definir o critério quantitativo do tributo.
+    Estabelecida a base de cálculo, aferir se a produção legislativa dos Estados está fidedigna à norma geral prescrita pela Lei Complementar passa a ser um problema de legalidade. Nesse esteio, repousando o debate no âmbito da legalidade, não há como conceber o cabimento do apelo extremo. Neste sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária.” (AI nº 549.986-AgR/RJ, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 31/3/06).
+    Ante o exposto, conheço do agravo, tão somente quanto à alegação de violação ao artigo 150, inciso IV, da Constituição Federal, para, nesse ponto, negar-lhe provimento.
+    Publique-se.
+    Brasília, 07 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
