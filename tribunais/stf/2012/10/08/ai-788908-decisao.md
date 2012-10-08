@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento Gláucia Teresinha Mousquer dos Santos. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta ofensa aos arts. 5º, XXXVI, 37, XI, e 39, § 4º, da Lei Maior.
+    Contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O acórdão recorrido não divergiu da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, no sentido de que inexiste direito adquirido à forma de cálculo da remuneração. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INSTITUIÇÃO DA REMUNERAÇÃO NA FORMA DE SUBSÍDIO. DIREITO ADQUIRIDO A REGIME JURÍDICO E A FORMA DE CÁLCULO DA REMUNERAÇÃO. INEXISTÊNCIA. PRESERVAÇÃO DO VALOR NOMINAL. INOCORRÊNCIA DE OFENSA AO PRINCÍPIO DA IRREDUTIBILIDADE DE VENCIMENTOS. REPERCUSSÃO GERAL RECONHECIDA NO RE N. 563.965. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. 1. O regime jurídico pertinente à composição dos vencimentos, desde que a eventual modificação introduzida por ato legislativo superveniente preserve o montante global da remuneração e, em consequência, não provoque decesso de caráter pecuniário, não viola o direito adquirido (Precedentes: RE n. 597.838-AgR, Relator o Ministro Ricardo Lewandowski, 1ª Turma, DJe de 24.2.11; RE n. 601.985-AgR, Relatora a Ministra Cármen Lúcia, 1ª Turma, DJe de 1.10.10; RE n. 375.936-AgR, Relator o Ministro Carlos Britto, 1ª Turma, DJ de 25.8.06; RE n. 550.650-AgR, Relator o Ministro Eros Grau, 2ª Turma, DJe de 27.6.08, entre outros). 2. A repercussão geral do tema, reconhecida no julgamento do RE n. 563.965-RG/RN, Relatora a Ministra Cármen Lúcia, confirmou a jurisprudência desta Corte no sentido de que não há direito adquirido à forma de cálculo de remuneração, enfatizando, ainda, a legitimidade de lei superveniente que, sem causar decesso remuneratório, desvincule o cálculo da vantagem incorporada dos vencimentos do cargo em comissão ou função de confiança outrora ocupado pelo servidor, passando a quantia a ela correspondente a ser reajustada segundo os critérios das revisões gerais de remuneração do funcionalismo. 3. Agravo regimental a que se nega provimento” (RE 643.289-AgR/RS, rel. Min. Luiz Fux, 1ª Turma, DJe 08.02.2012).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 08 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
