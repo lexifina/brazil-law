@@ -1,0 +1,22 @@
+DECISÃO
+PROCESSO-CRIME – DEFESA TÉCNICA – ESCOLHA PELO ACUSADO – AFASTAMENTO NA ORIGEM – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O Juízo da 4ª Vara Criminal da Comarca de Várzea Grande/MT julgou parcialmente procedente a denúncia oferecida contra o paciente, condenando-o a nove anos e quatro meses de reclusão, em regime inicialmente fechado – por infringir o artigo 159 (extorsão mediante sequestro) combinando com o 71 (em continuidade delitiva), ambos do Código Penal –, e absolvendo-o da imputação do artigo 157, § 2º, incisos I e II (roubo circunstanciado pelo uso de arma e concurso de agentes), do mesmo diploma.
+    Interpostas apelações, da acusação e da defesa, o réu requereu a remessa do processo ao Tribunal de Justiça do Estado de Mato Grosso para apresentação de razões, na forma do § 4º do artigo 600 do Código de Processo Penal, tendo sido protocoladas as contrarrazões ao recurso do Ministério Público ainda no primeiro grau.
+    O relator, no Tribunal de Justiça, assinalando a inércia do causídico – quanto à formalização das razões recursais –, nomeou Defensor Público para arrazoar o recurso.
+    Após o julgamento da apelação, foram interpostos embargos de declaração. Aduziu-se que o despacho monocrático – visando a apresentação de contrarrazões – teria induzido o Colegiado a erro, pois o patrono do ora paciente não fora intimado para juntar as razões. Apontou-se a nulidade absoluta, notadamente porque ao réu não haveria sido dada oportunidade de constituir novo advogado. A Turma julgou-os improcedentes, consignando ser incabível, naquela fase, o reexame do conjunto fático-probatório.
+    Interpôs-se recurso especial – de nº 140.049/2009 – por suposta violação ao artigo 600, § 4º, do Código de Processo Penal. Em 11 de fevereiro de 2010, o Vice-Presidente do Tribunal negou-lhe seguimento.
+    Formalizado o Habeas Corpus nº 240.987/MT no Superior Tribunal de Justiça, a relatora, ministra Laurita Vaz, indeferiu a liminar. Assentou a ausência de demonstração inequívoca do vício arguido, sublinhando o caráter satisfativo da medida.
+    Neste habeas, o impetrante alega tratar-se de situação excepcional a justificar o afastamento do Verbete nº 691 da Súmula do Supremo. Sustenta a erronia da decisão do relator no Tribunal de Justiça que implicou a nomeação de Defensor Público para arrazoar o recurso. Assevera que, ainda que estivesse configurada a inércia, o paciente deveria ter sido intimado a eleger novo procurador. Ressalta ser caso de flagrante cerceamento de defesa, com manifesto prejuízo para o réu.
+    Requer a concessão de liminar a fim de suspender-se a expedição do mandado de prisão concernente ao início do cumprimento de pena. Pleiteia, ainda em caráter cautelar, a declaração de nulidade do acórdão e do processo de origem, a partir do despacho mediante o qual o relator nomeou Defensor Público para apresentar a mencionada peça. No mérito, pretende a confirmação da providência.
+    Consulta ao sítio do Superior Tribunal de Justiça revela que o Habeas Corpus nº 240.987/MT não foi apreciado pela Quinta Turma. No dia 20 de agosto de 2012, veio a ser juntado o parecer do Ministério Público e, em 24 seguinte, houve conclusão à relatora.
+    Em resposta às informações solicitadas por Vossa Excelência, o Juízo da 4ª Vara Criminal da Comarca de Várzea Grande/MT noticiou a impossibilidade de remeter cópia da sentença condenatória, porquanto o Processo nº 81/2006 se encontra no Tribunal de Justiça. Esclareceu haver encaminhado à Terceira Câmara Criminal cópia do ofício expedido pelo Supremo.
+    O habeas está concluso para exame do pedido de concessão de medida acauteladora.
+    2. Cumpre observar que o cidadão tem o direito de escolher defensor técnico em quem confie. Somente se não o fizer, uma vez intimado, é que cabe nomear defensor dativo ou, mesmo, acionar a Defensoria Pública. Isso não ocorreu na espécie.
+    3. Implemento a liminar para suspender, até o julgamento final deste processo, a expedição de mandado de prisão visando executar a pena imposta ao paciente.
+    4. O curso do habeas não prejudica o de nº 240.987, formalizado no Superior Tribunal de Justiça. Remetam cópia desta decisão à relatora, ministra Laurita Vaz.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 8 de outubro de 2012, às 19h30.
+Ministro MARCO AURÉLIO
+Relator
