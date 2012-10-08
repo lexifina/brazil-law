@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – OBJETO – CONTORNOS DE RESCISÓRIA – IMPROPRIEDADE.
+    1. O Município de Guarujá afirma haver o Presidente do Tribunal de Justiça do Estado de São Paulo, ao proferir decisão no Pedido de Sequestro nº 9025491-41.2009.8.26.0000, formalizado pela Sociedade Imobiliária Guarujá Ltda., olvidado o efeito vinculante dos acórdãos relativos às Ações Diretas de Inconstitucionalidade nº 2.362 e 2.356.
+    Segundo narra, a Sociedade referida ingressou com pedido de sequestro em razão do inadimplemento do Município. Com o advento da Emenda Constitucional nº 62/2009, a autoridade reclamada teria extinguido a medida, dando ensejo à impetração de mandado de segurança, cuja ordem foi concedida – pronunciamento transitado em julgado em 23 de agosto de 2011. No entanto, o beneficiário da decisão somente iniciou a execução em 23 de agosto de 2012, o que ensejou pleito de suspensão, apresentado pelo Município em 24 seguinte. A autoridade reclamada indeferiu-o, consignando a impossibilidade de modificação da coisa julgada pela via administrativa.
+    Assevera que o Supremo implementou liminar, nas ações diretas apontadas como paradigmas, que resultou na suspensão da eficácia do artigo 2º da Emenda Constitucional nº 30/2000, preceito que introduziu o artigo 78 no Ato das Disposições Transitórias da Carta de 1988, autorizando o sequestro de verbas em relação às prestações anuais não pagas, atinentes ao parcelamento instituído por aquela emenda constitucional. Consoante argumenta, ante o pronunciamento deste Tribunal, ficou afastada do mundo jurídico a norma que permitiu a realização do sequestro, de modo que inexistiria outro fundamento a respaldar a providência.
+    Sob o ângulo do risco, alude ao iminente sequestro de verbas públicas, o que poderá trazer prejuízo ao regular funcionamento do ente político. Postula o implemento de medida acauteladora para suspender a eficácia do ato impugnado. No mérito, busca vê-lo cassado definitivamente.
+    2. Na reclamação, embora formalmente se volte contra decisão de natureza administrativa, de autoria do Presidente do Tribunal de Justiça do Estado de São Paulo, na verdade, requer-se seja infirmado acórdão do Órgão Especial do mencionado Tribunal, já coberto pela preclusão maior, que possibilitara o sequestro, para satisfação do crédito da Sociedade interessada.
+    Inadequada surge a via eleita. Empresta-se à reclamação contornos próprios à rescisória. O Tribunal já emitiu entendimento sobre o tema e aprovou o Verbete nº 734 da Súmula:
+    Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    3. Nego seguimento a esta reclamação, por manifestamente incabível.
+    4. Publiquem.
+Brasília, 8 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
