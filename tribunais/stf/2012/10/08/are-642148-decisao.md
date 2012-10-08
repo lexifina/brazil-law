@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INADEQUAÇÃO – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo reformou o que decidido pelo Juízo, ante os seguintes fundamentos (folha 261 a 263):
+    A autora é professora de Educação Básica I, lotada na Escola Estadual Rui Malachias Ferreira, em Riolandia, tendo requerido em tempos de outrora afastamento sem prejuízo de seus vencimentos, quando da eleição e assunção de seu marido como Alcaide do Município de Poloni, na forma do permissivo legal, em especial a Lei Complementar Estadual n. 444/85 e os Decretos n. 39.905/95 e 41.578/97, de maneira que não se discute a possibilidade do afastamento sem prejuízo de vencimentos a primeira dama.
+    No entanto, posteriormente ao afastamento, a autora foi nomeada Chefe de Gabinete do Serviço Social da Municipalidade de Poloni, recebendo remuneração pelo cargo em comissão, azo pelo qual a Secretaria da Educação do Estado de São Paulo negou o afastamento sem prejuízo de vencimentos, mantendo o ato, mas com prejuízo dos vencimentos.
+    O artigo 37, inciso XVI, da Sexta Carta Republicana veda a cumulação de cargos públicos remunerados, exceto na compatibilidade de horários e, mesmo assim, em três hipóteses distintas, quais sejam: a de dois cargos de professor; a de um cargo de professor com outro técnico ou científico; e, finalmente, a de dois cargos ou empregos privativos de profissionais da saúde, com profissões regulamentadas.
+    Sem sombra de dúvida, a hipótese não verte a cumulação de dois cargos de professor, nem tampouco de cargos ou empregos privativos de profissionais da saúde, descartando-se às escâncaras as duas causas de cumulação.
+    Entrementes, igualmente às escâncaras não há cumulação de cargo de professor com outro técnico ou científico, vez que o cargo em comissão de Chefe de Gabinete do Serviço Social, o qual, como bem pontuou o magistrado, nem sequer exige curso superior, não guarda o perfil de técnico e muito menos de científico, móvel pelo qual absolutamente escorreito o ato administrativo estadual, valendo enfatizar que a anotação no recurso de que o exercício da Chefia de Gabinete é de natureza técnica recai na máxima allegare nihil et allegatum non probare, pois não há uma única prova ou arremedo de exercício técnico, o que, diga-se en passant só poderia ser comprovado por eventual exigência legal de conhecimento técnico para exercício do cargo, e, mesmo assim, com atribuição, na forma da lei, de exercício técnico, o que simplesmente não se sucede in casu.
+    Por epítome, se conclui da efetiva improcedência do pedido declaratório, que não guarda supedâneo lógico causal, mantendo-se na íntegra a respeitável sentença produzida.
+    2. Dizer-se, a esta altura, contrariada a Lei Fundamental pressupõe o exame dos elementos probatórios do processo e da legislação infraconstitucional, no que define os cargos tidos como técnicos, revelando os parâmetros respectivos.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 8 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
