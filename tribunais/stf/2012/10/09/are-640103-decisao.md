@@ -1,0 +1,11 @@
+DECISÃO
+INATIVO – GRATIFICAÇÃO – EXTENSÃO – RECURSO EXTRAORDINÁRIO – ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL – VIOLAÇÃO NÃO CONFIGURADA – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado de São Paulo manteve a sentença de folha 154 a 158, ante fundamentos assim sintetizados à folha 228:
+    POLICIAL MILITAR. Inativos. Adicional Operacional de Localidade -AOL. Gratificação instituída pela Lei Complementar 994/06, absorvida pelo Adicional de local de exercício. Pretensão de extensão aos inativos, no grau máximo. Inadmissibilidade. Gratificação vinculada ao exercício da função em determinado local de trabalho, em razão da complexidade das atividades exercidas e dificuldades de fixação do profissional. Inexistência de afronta ao artigo 40, parágrafo 8°, da Constituição Federal e artigo 7° da EC 41/03. Sentença de improcedência. Recurso não provido
+    2. Conforme tenho ressaltado, a pedra de toque para saber-se enquadrado, ou não, o caso na previsão do § 8º do artigo 40 da Constituição Federal - observadas vantagens concedidas ao pessoal da ativa - é única. Cumpre perquirir se os requerentes da parcela, se estivessem em atividade, teriam o direito a auferi-la. No caso dos autos, a resposta é negativa. Revelando o alcance da legislação local, a Corte de origem deixou estampado no acórdão impugnado mediante o recurso extraordinário que “não se trata de modificação da remuneração, nem de instituição de benefício ou vantagem de caráter geral e permanente, cuja aplicação aos aposentados é obrigatória pelas normas constitucionais referidas”(folhas 230 e 231), não havendo margem a observar-se o disposto no § 8º do artigo 40 da Constituição Federal, outrora § 4º, no que prevê a extensão.
+    Quanto à evocação do enquadramento do extraordinário na alínea "c" do inciso III do artigo 102 da Carta Federal, percebe-se o equívoco do agravante, uma vez que não se declarou a validade de lei ou ato de governo local contestado em face da Constituição Federal. Este agravo somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria ser utilizado no exame de processo da competência da Corte.
+    3. Ante o quadro, conheço deste agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 9 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
