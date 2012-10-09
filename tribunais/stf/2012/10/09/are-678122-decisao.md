@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo o Instituto Nacional de Seguro Social – INSS. Na minuta, sustenta que o recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “b”, da Lei Maior, reúne todos os requisitos para sua admissão. Insurge-se contra o óbice da Súmula 279/STF. Aponta violação dos arts. 195, § 5º, e 203, V, da Constituição Federal.
+    Sem contraminuta.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da incapacidade laborativa da agravada, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: RE 469.657-AgR/RO, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 13.8.2012; ARE 666.134-AgR/PR, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2012; AI 792.204-AgR/MG, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 15.8.2012, cuja ementa transcrevo:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. 1. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Necessidade de reexame de fatos e provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Sucumbência recíproca. Matéria infraconstitucional. Questão a ser verificada pelo juízo da execução. Precedentes. 5. Agravo regimental ao qual se nega provimento.”.
+    Quanto à interposição do apelo extremo pelo permissivo da alínea “b” do art. 102, III, da CF/88, também não se mostra cabível o recurso, deixando o Tribunal de origem declarar a inconstitucionalidade de tratado ou lei federal. Colho os seguintes precedentes o AI 633.343-AgR/RJ, 2ª Turma, Rel. Min. Joaquim Barbosa, DJe 13.8.2012; e o ARE 696.012-AgR/DF, 1ª Turma, Rel. Min. Cármen Lúcia, DJe 24.9.2012, verbis:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA E PROCESSUAL CIVIL. JUROS DE MORA DEVIDOS PELA FAZENDA PÚBLICA. 1. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. RECURSO EXTRAORDINÁRIO INTERPOSTO COM BASE NA ALÍNEA B DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DE TRATADO OU LEI FEDERAL. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 09 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
