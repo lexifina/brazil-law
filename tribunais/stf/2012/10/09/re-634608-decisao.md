@@ -1,0 +1,11 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, apreciando o RE 540.410-QO, rel. min. Cezar Peluso, acolheu questão de ordem no sentido de “determinar a devolução dos autos, e de todos os recursos extraordinários que versem a mesma matéria, ao Tribunal de origem, para os fins do art. 543-B do CPC” (Informativo 516, de 27.08.2008).
+    Decidiu-se, então, que o disposto no art. 543-B do Código de Processo Civil também se aplica aos recursos interpostos de acórdãos publicados antes de 03 de maio de 2007 cujo conteúdo verse sobre tema em que a repercussão geral tenha sido reconhecida.
+    Levando-se em conta tal orientação, devolvi o presente recurso extraordinário, por se tratar de tema cuja repercussão geral foi reconhecida no julgamento do RE 608.872-RG, rel. min. Dias Toffoli, cuja ementa transcrevo:
+    “Tributário – Imunidade – Entidades de assistência social – ICMS – Aquisição no mercado interno – Contribuinte de fato. 1. A controvérsia relativa à abrangência da imunidade prevista no art. 150, inciso VI, “c”, da Constituição Federal a instituição de assistência social, quando da aquisição de bens no mercado interno, na qualidade de contribuinte de fato, ultrapassa os limites subjetivos das partes. 2. Repercussão geral reconhecida.” ( DJe de 01.08.2011 )
+    A Vice-Presidência do Tribunal Regional Federal da 4ª Região devolveu o feito a esta Corte, por considerar que o caso paradigma versa sobre “imunidade de ICMS sobre produtos e serviços adquiridos por entidade filantrópica” (fls. 173v) ao passo que o presente recurso trata de “declaração de imunidade de IPI, de PIS e de COFINS da entidade filantrópica recorrente sobre os produtos adquiridos” (fls. 173v).
+    A devolução determinada não merece reparos. Não obstante o presente caso e o leading case tratarem de tributos diversos, em ambos os casos a questão de fundo é a mesma: abrangência da imunidade, quando a entidade imune é contribuinte de fato, em vez de contribuinte de direito. Sendo essa a controvérsia, está correta a devolução com base no art. 543-B, mesmo que o recurso devolvido não verse sobre ICMS.
+    Ante o exposto, cumpra-se a devolução determinada às fls. 170/171.
+    Publique-se.
+    Brasília, 9 de outubro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
