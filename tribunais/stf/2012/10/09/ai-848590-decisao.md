@@ -1,0 +1,14 @@
+Contra despacho negativo de admissibilidade da Presidência do Tribunal de Justiça do Estado de Minas Gerais (fls. 269-70), maneja agravo de instrumento Vera Maria Junqueira Lage (fls 247-52), com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da ofensa reflexa à Constituição Federal.
+    A agravante foi condenada às penas de 1 (um) ano de reclusão, em regime aberto, e 10 (dez) dias-multa pela prática do crime de injúria (art. 140, § 3º, do CP).
+    Em sede de apelação criminal, o Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, uma vez configurada a materialidade do delito de injúria - “conduta do agente que insulta a vítima, ressaltando de modo vulgar e intencional, defeito físico que ela possua, mormente quando valoriza a suposta incapacidade desta em desempenhar funções normais, maculando sua honra subjetiva e o conceito que a vítima faz de si mesma”.
+    Opostos embargos declaratórios com o escopo de suprir omissão quanto à não valoração do depoimento de testemunha subordinada à vítima, não acolhidos pela Corte Estadual.
+    Inconformada, Vera Maria Junqueira Lage manejou recurso extraordinário ao argumento da violação do art. 93, IX, da Lei Maior. O apelo extremo inadmitido na Corte de origem resultou na interposição do presente agravo.
+    Passo a decidir.
+    Verifico que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao art. 93, IX, da Constituição Federal. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, rel. Min. Gilmar Mendes, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074- AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+    Sobre o assunto, ressalte-se, ainda, que esta Corte tem o seguinte entendimento: o que a Constituição impõe, no inciso IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, sessão de 23.6.2010, ao reconhecer a existência de repercussão geral sobre o tema.
+    No caso presente, a pretexto de suposta violação do art. 93, IX, pretende em realidade a Agravante que esta Suprema Corte examine e valore as provas consideradas para condenação, o que é inviável no extraordinário (Súmula 279/STF).
+    Nego seguimento ao agravo de instrumento (art. 21, § 1º, do RISTF) diante de sua manifesta inadmissibilidade.
+    Publique-se.
+    Brasília, 09 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
