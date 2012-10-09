@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo interposto de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violados os arts. 5º, LIV e LV, e 93, IX, da Carta Magna.
+    Consta dos autos que a recorrente foi denunciada como incursa no art. 46, parágrafo único, da Lei 9.605/1998, tendo a defesa impetrado ordem de habeas corpus, denegada nos termos da seguinte ementa (fls. 220):
+    “HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE JUSTA CAUSA. COMETIMENTO, EM TESE, DE CRIME AMBIENTAL. INDÍCIOS DE AUTORIA. PRESCRIÇÃO EM PERSPECTIVA. TESE AINDA NÃO ACEITA NO ORDENAMENTO JURÍDICO BRASILEIRO. ORDEM DENEGADA. DECISÃO EM CONSONÂNCIA COM O PARECER MINISTERIAL.
+    Da leitura atenta do presente processado, agora com aporte das informações prestadas pela Douta Autoridade apontada como coatora, bem como do parecer Ministerial, entendo que a ordem não deve ser efetivamente concedida. As informações prestadas tiveram o condão de ensejar o alegado constrangimento.
+    Não há razão legal para o trancamento da ação penal, pois há, em tese um crime ambiental e seguros indícios de sua autoria; a prescrição em perspectiva ainda não ganhou corpo no ordenamento ju´ridico brasileiro, de modo que sua aplicação encontra óbice legal.
+    Considero integrado a este voto o judicioso parecer Ministerial.”
+    Opostos embargos de declaração, a 2ª Turma Recursal dos Juizados Especiais do Estado do Mato Grosso rejeitou-os por entender que não houve omissão ou obscuridade no acórdão embargado (fls. 239-244).
+    Sustenta a recorrente que foram violados os princípios da ampla defesa e do devido processo legal, em razão da supressão da fase relativa à audiência preliminar e proposta de transação penal, conforme preceitua a Lei 9.099/1995, adiantando-se para o oferecimento da denúncia e a designação da audiência de instrução e julgamento.
+    Alega que a denúncia é inepta, pois não há qualquer descrição da sua conduta, tendo sido denunciada somente por ser sócia da empresa que fazia o transporte irregular da carga. Expõe, para tanto, o seguinte argumento:
+    “A responsabilidade primeira é da empresa, tenha-se ou não identificado a pessoa física que em seu nome atuou cometendo o crime. Mas esta responsabilidade, diz o § único do art. 3º [da Lei 9.605/1998], não impede que as ‘pessoas físicas, autoras, co-autoras ou partícipes do mesmo fato’ também sejam punidas. Mas para isto é necessário que a responsabilidade das pessoas físicas seja apurada de forma subjetiva, pessoal e intransferível.
+    Segundo os arts. 2º e 3º, o ato da pessoa jurídica por si só não gera responsabilidade penal para seus representantes legais ou prepostos porque ele não age em nome destes, não os representa. Tal responsabilização pode ocorrer, mas decorrerá de ato das próprias pessoas físicas se comprovada sua autoria ou participação (parágrafo único do art. 3º). Do contrário, ou seja, responsabilizar o representante ou preposto da empresa só porque ligado à pessoa jurídica, ter-se-á responsabilização penal objetiva que em tese ultrapassaria a pessoa do condenado, ofendendo o art. 5º, inc. XLV, da CF. Seria o caso de permitir até mesmo que um sócio, um representante ou um preposto inocente seja condenado penalmente por ato criminoso que seu colega praticou em noma da empresa: responsabilizam-se a empresa e todos seus representantes, mesmo aqueles que não tiveram participação na prática do delito.” (fls. 264-265)
+    O recurso não merece ser conhecido.
+    É que a eventual violação demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Ademais, a análise das questões constitucionais suscitadas implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. OFENSA AO ART. 5º, INCISOS LIV E LV. INVIABILIDADE DO REEXAME DE FATOS E PROVAS. SÚMULA STF Nº 279. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INQUÉRITO. CONFIRMAÇÃO EM JUÍZO DOS TESTEMUNHOS PRESTADOS NA FASE INQUISITORIAL.
+    1. A suposta ofensa aos princípios do devido processo legal, do contraditório e da ampla defesa passa, necessariamente, pelo prévio reexame de fatos e provas, tarefa que encontra óbice na Súmula STF nº 279.
+    2. Inviável o processamento do extraordinário para debater matéria infraconstitucional, sob o argumento de violação ao disposto nos incisos LIV e LV do art. 5º da Constituição.
+    3. Ao contrário do que alegado pelos ora agravantes, o conjunto probatório que ensejou a condenação dos recorrentes não vem embasado apenas nas declarações prestadas em sede policial, tendo suporte, também, em outras provas colhidas na fase judicial. Confirmação em juízo dos testemunhos prestados na fase inquisitorial.
+    4. Os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo.
+    5. Agravo regimental improvido.” (RE-AgR 425.734, Rel. Min. Ellen Gracie, DJ 28.10.2005)
+    Do exposto, nego seguimento ao agravo (art. 38 da Lei 8.038/1990 c/c os arts. 21, § 1º, e 327, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de outubro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
