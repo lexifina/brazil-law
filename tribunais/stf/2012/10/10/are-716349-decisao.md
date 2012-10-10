@@ -1,0 +1,22 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “CONCURSO PÚBLICO - CORPO DE BOMBEIROS - EXAME PSICOTÉCNICO - NECESSIDADE DE REALIZAÇÃO COM BASE EM CRITÉRIOS OBJETIVOS E PREVIAMENTE ESTABELECIDOS - DECADÊNCIA DA IMPETRAÇÃO - NÃO OCORRÊNCIA - ADEQUAÇÃO DA VIA ELEITA - PRETENSÃO QUE PRESCINDE DE DILAÇÃO PROBATÓRIA PARA SER ANALISADA - RECURSO PROVIDO.
+    (…)
+    8. O reconhecimento da ilegalidade do exame aplicado de forma subjetiva não autoriza sua supressão, já que sua obrigatoriedade está prevista tanto na Lei Estadual 6.184/2000, quanto no edital do certame.
+    9. Recurso de agravo inominado provido para conhecer e julgar parcialmente procedente o recurso de apelação, determinando que o agravado seja submetido a novo exame com critérios objetivos e com direito de recurso, e caso obtenha aprovação neste novo exame possa continuar a participar das demais etapas do concurso”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, caput, I e II, e 37, caput, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Plenário desta Corte, no julgamento do AI 758.533-RG/MG, Rel. Min. Gilmar Mendes, reconheceu a repercussão geral do tema em debate e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o exame psicotécnico necessita de um grau mínimo de objetividade e de publicidade dos atos em que se desdobra, sendo ilegítima a avaliação realizada sem a observância de tais requisitos. Confira-se a ementa do mencionado julgado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).
+    2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade.
+    3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade.
+    4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”
+    No mesmo sentido, indico os seguintes precedentes, entre outros: AI 746.763-AgR/MG e AI 617.917-AgR/MG, Rel. Min. Dias Toffoli; AI 504.987-ED/MG, Rel. Min. Celso de Mello.
+    Ressalte-se, ainda, que este Tribunal firmou entendimento no sentido de que se a lei exige o exame psicotécnico como requisito para a investidura no cargo público, não pode o Poder Judiciário dispensá-lo ou considerar que o candidato foi aprovado no referido exame, sob pena de ofensa ao art. 37, I e II, da Constituição Federal. Nesse sentido, menciono as seguintes decisões, entre outras: AI 634.306-AgR/RJ, Rel. Min. Gilmar Mendes; AI 552.101-ED, Rel. Min. Cármen Lúcia; AI 422.463-AgR/DF, Rel. Min. Ellen Gracie; AI 562.928-AgR/MG e RE 433.921-AgR/CE, Rel. Min. Carlos Velloso e RE 185.590/DF, que teve como relator o Ministro Ilmar Galvão, de cuja ementa destaco:
+    “EXAME PSICOTÉCNICO. LEI FEDERAL Nº 4.878/65. ART. 9º. INC. VII. Reprovado o procedimento adotado pela Academia de Polícia no processo de seleção para função policial a que foi submetido o recorrido, depois de reconhecida a legitimidade de sua exigência, consequência lógica seria a anulação do exame, com realização de outro, sem os vícios apontados, e não liberar o candidato de requisito previsto em lei. Não ventidada no acórdão, todavia a questão da ofensa ao princípio da legalidade, não há como apreciar o recurso. Incidência da Súmula 282. Recurso extraordinário não conhecido” (grifos meus).
+    Desse julgamento não divergiu o acórdão atacado.
+    Outrossim, no concernente à alegada decadência decorrente do suposto desrespeito ao prazo para impetração do mandando de segurança, melhor sorte não ocorre a agravante, posto que, os Ministros desta Corte, no AI 800.074-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca do preenchimento dos requisitos de admissibilidade do mandado de segurança, por entenderem que a discussão tem natureza infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
