@@ -1,0 +1,8 @@
+Trata-se de agravo regimental interposto contra decisão que negou seguimento ao agravo sob o fundamento de que o Plenário desta Corte, no julgamento da ADI 2.797/DF, Rel. Min. Sepúlveda Pertence, por maioria, julgou procedente a ação para declarar inconstitucional a Lei 10.628/02, que inseriu novos parágrafos ao art. 84 do Código de Processo Penal e, assim, decidiu não haver foro privilegiado para prefeito processado por improbidade administrativa. Os agravante sustentam, em suma, que
+    “O ex-prefeito não se enquadra entre os agentes públicos alinhados no art. 2º, da Lei nº 8.429/92, porque na verdade é agente político e como tal sujeito a regime diferenciado, onde atuam com independência de que não detém os servidores em geral e, por isso, a imputação de conduta omissiva tida como de improbidade a esses agentes caracteriza crime de responsabilidade definido no Decreto-lei nº 201/67” (fl. 1.875 – grifos no original).
+    Bem reexaminados os autos, verifico a ocorrência de relevante fato superveniente à decisão que negou seguimento ao agravo, qual seja, foi reconhecida pelo Supremo Tribunal Federal a repercussão geral no ARE 683.235-RG/PA, Rel. Min. Cezar Peluso, cujo tema guarda identidade com a matéria versada nos autos.
+    Isso posto, reconsidero a decisão de fls. 1.855-1.858, e dou provimento ao agravo para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que no recurso extraordinário se discute questão que será apreciada no ARE 683.235-RG/PA.
+    Publique-se.
+    Brasília, 10 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
