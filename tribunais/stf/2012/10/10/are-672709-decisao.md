@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. OBTENÇÃO DE CERTIDÃO. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça de Minas Gerais decidiu:
+    “MANDADO DE SEGURANÇA – OBTENÇÃO DE CERTIDÕES – OMISSÃO DA ADMINISTRAÇÃO – ARTIGO 5º, INCISOS XXXIII E XXXIV DA CR/88 – VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. A Constituição da República assegura a todos o direito de receber de órgãos públicos informações de interesse particular, bem como certidões para a defesa de direitos e esclarecimentos, nos termos do artigo 5º, inciso XXXIII e XXXIV, alínea ‘b’, configurando violação a direito líquido e certo a omissão injustificada da Administração” (fl. 70).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário as circunstâncias de que não teria havido contrariedade “aos princípios da ampla defesa, do contraditório e do acesso ao Judiciário, porquanto o Colegiado mineiro emitiu as razões de seu convencimento, dando efetivo cumprimento ao princípio atinente à motivação das decisões judiciais” (fl. 144), e de que não teria o então Recorrente demonstrado “o suposto desacerto da dicção contida no acórdão combatido, o que atrai o Enunciado n. 283 da Súmula do STF, a impossibilitar o trânsito almejado” (fl. 145).
+    4. O Agravante reitera os argumentos expostos no recurso extraordinário, no qual alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXIII e XXXIV, alínea b, e 93, inc. IX, da Constituição.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    A alegação de nulidade do julgado por contrariedade ao inc. IX do art. 93 da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência deste Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. A Desembargadora Relatora afirmou:
+    “registro que em caso análogo, envolvendo as mesmas partes e a mesma pretensão, Apelação n. 1.0188.08.071598-3/001, cujo julgamento ocorreu em 2 de abril do ano em curso [2011], mantive a sentença de 1º grau, já que entendi que o impetrante não teria apontado, com clareza necessária, a finalidade das informações, além de não ter especificado, com exatidão, quais seriam as informações que pretendia.
+    Entretanto, debruçando-me sobre o tema, e alertada naquela ocasião pelo posicionamento do em. Des. Bitencourt Marcondes no sentido de que ‘o controle popular da Administração Pública não pode ser apequenado, ao contrário deve ser estendido pra o bem da moralidade pública, da legalidade e da democracia’, é que revi meu posicionamento.
+    Assim, no caso em espeque, sustentando o impetrante a necessidade de obtenção das certidões ‘pelo fato de que precisa examiná-lo para exercer plenamente sua prerrogativa de cidadão e, assim, proceder ou não ao ajuizamento de ação popular visando a coibir atos ilegais e lesivos ao patrimônio público de Nova Lima’ (fl. 03), tenho que resta patente a violação ao direito líquido e certo de obter direito a certidão.
+    (...).
+    Destarte, restando evidenciada a violação do direito líquido e certo da impetrante por ato da autoridade administrativa, consistente na negativa do fornecimento da certidão requerida, o que contraria a ordem constitucional, deve ser reformada a sentença” (fls. 74-76).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou bastar o interesse legítimo do cidadão para ele poder exercer seu direito constitucional à obtenção de certidão junto às repartições ou órgãos públicos, ressalvadas as informações cujo sigilo seja imprescindível à segurança da sociedade e do Estado, o que não se dá na espécie vertente.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL. DIREITO À CERTIDÃO (ART. 5º, XXXIV, ALÍNEA ‘B’, DA CONSTITUIÇÃO). SUPOSTA PERDA DE OBJETO DO MANDADO DE SEGURANÇA. INOCORRÊNCIA. No caso concreto, o fato de não ter sido ajuizada a ação contra o resultado do concurso público não acarreta a perda de objeto do mandado de segurança impetrado para assegurar o exercício do direito à certidão. A existência de interesse legítimo basta para autorizar o fornecimento de certidão pelo Poder Público. Precedente: RE 472.489-AgR, rel. min. Celso de Mello, Segunda Turma. Agravo regimental improvido” (RE 167.118-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.5.2010).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
