@@ -1,0 +1,8 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no AI 803.140-RG/RS, Rel. Min. GILMAR MENDES, por tratar-se de litígio referente a matéria infraconstitucional e de causa decidida à luz dos fatos e das provas existentes nos autos, fazendo-o em decisão assim ementada:
+    “Tributário. 2. Exceção prevista no artigo 15, § 1º, inciso III, alínea ‘a’, da Lei 9.249/95, que prescreve os sujeitos passivos da Contribuição Social sobre o Lucro Líquido (CSLL) e do Imposto de Renda Pessoa Jurídica (IRPJ) com bases de cálculo, respectivamente, de 12% e de 8% sobre receita bruta. Definição de serviços hospitalares e afins. 3. Discussão que se circunscreve ao âmbito normativo infraconstitucional, bem como que demanda o reexame dos aspectos fático-probatórios subjacentes aos requisitos do enquadramento pretendido. 4. Ausência de contencioso constitucional. Repercussão geral rejeitada.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e considerando as razões expostas, nego provimento ao presente agravo de instrumento, eis que se revela inviável o recurso extraordinário a que ele se refere.
+    Publique-se.
+    Brasília, 10 de outubro de 2012.
+Ministro CELSO DE MELLO
+Relator
