@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que não reconheceu ao contribuinte de fato o gozo da imunidade prevista no art. 150, VI, a, da Constituição em relação ao ICMS incidente sobre aquisições de bens.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 150, VI, a, da mesma Carta, ao argumento de que o princípio da imunidade recíproca não abrange apenas os contribuintes de direito, mas também os contribuintes de fato.
+    A pretensão recursal não merece acolhida.
+    Isso porque a imunidade do art. 150, VI, a, da CF somente se aplica ao imposto que incide sobre serviço, patrimônio ou renda do próprio ente beneficiado, na qualidade de contribuinte de direito.
+    No caso, como o Município é contribuinte de fato do ICMS incidente sobre aquisições de bens, não faz jus à imunidade tributária em questão, uma vez que esta alcança apenas o contribuinte de direito, ou seja, não beneficia o contribuinte de fato. Nesse sentido, destaco julgados de ambas as Turmas desta Corte, cujas ementas transcrevo a seguir:
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – IMUNIDADE RECÍPROCA – ARTIGO 150, INCISO VI, ALÍNEA A, DA CONSTITUIÇÃO FEDERAL. A imunidade prevista no artigo 150, inciso VI, alínea 'a', do Diploma Maior, a impedir a instituição de impostos sobre patrimônio, renda ou serviços de pessoas jurídicas de direito público – União, Estados, Distrito Federal e Municípios – está umbilicalmente ligado ao contribuinte de direito, não abarcando o contribuinte de fato” (AI 500.139-AgR/RS, Rel. Min. Marco Aurélio, Primeira Turma).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. MUNICÍPIO. SERVIÇOS DE ENERGIA ELÉTRICA E TELEFONIA. CONTRIBUINTE DE FATO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. ALÍNEA 'A' DO INCISO VI DO ART. 150 DA CONSTITUIÇÃO REPUBLICANA. INAPLICABILIDADE.
+    1. A jurisprudência do Supremo Tribunal Federal, que me parece juridicamente correta, entende que o Município não é contribuinte de direito do ICMS sobre serviços de energia elétrica e telefonia, por isso não se aplica a imunidade tributária recíproca prevista na alínea 'a' do inciso VI do art. 150 da Constituição Federal. Precedentes.
+    2. Agravo regimental desprovido” (AI 736.607-AgR/SC, Rel. Min. Ayres Britto, Segunda Turma).
+    Com essa mesma orientação, menciono, ainda, as seguintes decisões, entre outras: AI 629.785-AgR/PR e AI 574.042-AgR/PA, Rel. Min. Ellen Gracie; AI 844.401-AgR/MG, Rel. Min. Ayres Britto; RE 344.729/PR, Rel. Min. Joaquim Barbosa; AI 671.412-AgR/SP, Rel. Min. Eros Grau; AI 488.132/SP, Rel. Min. Marco Aurélio; AI 550.300/SP, Rel. Min. Gilmar Mendes; AI 652.207/SC, Rel. Min. Cármen Lúcia; AI 664.610/SC, Rel. Min. Celso de Mello; AI 634.050-AgR/SC, AI 805.295-AgR/MG e ARE 663.552-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
