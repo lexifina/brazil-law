@@ -1,0 +1,22 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelas Centrais Elétricas Brasileiras S.A. - Eletrobrás contra decisão proferida pela Presidência do Tribunal Regional Federal da 1ª Região que negou seguimento a recurso extraordinário (Processo 0013537.10.2005.4013400).
+    Narra a parte-reclamante que está discutindo a responsabilidade pela correção monetária dos valores a que estava obrigada a devolver a título de empréstimo compulsório (Leis 4.156/1962 e 7.181/1983 e art. 34, § 12º do ADCT).
+    Segundo argumenta a reclamante, a autoridade-reclamada se equivocou ao aplicar ao caso a orientação firmada no AI 768.993 (ausência de repercussão geral da análise da correção monetária), pois o recurso extraordinário se fundamenta em alegada declaração de inconstitucionalidade por órgão fracionário (violação do art. 97 da Constituição e da SV 10).
+    Ante o exposto, pede-se a concessão de medida liminar para suspender a decisão reclamada e, no mérito, sua cassação, pois “a legislação é anterior à Constituição Federal e foi integralmente recepcionada” (Doc. 01).
+    É o relatório.
+    Decido.
+    Esta reclamação constitucional não reúne condições de prosseguir.
+    A Súmula Vinculante 10 tem a seguinte redação:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    O campo de aplicabilidade da SV 10 está expresso em seu texto: declarações veladas de inconstitucionalidade também se submetem à reserva de Plenário. Todos os precedentes que fundamentaram a adoção dessa súmula se referem à declaração escamoteada de incompatibilidade constitucional, sem nada dizer sobre a aplicabilidade do art. 97 da Constituição ao juízo de recepção das normas jurídicas.
+    A propósito, confiram-se os textos legais que foram submetidos à análise desta Suprema Corte em referidos precedentes: RE 482.090 (rel.. min. Joaquim Barbosa, Pleno, RTJ 209/1374) – arts. 3º e 4º da LC 118/2005; RE 240.096 (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 21.05.1999) – Leis 8.213/1991, 8.542/1992, 8.700/1993 e 8.880/1994; RE 544.246 (rel. min. Sepúlveda Pertence, Primeira Turma, DJ de 08.06.2007) – LC 118/2005; RE 319.181 (rel. min. Ellen Gracie, Primeira Turma, DJ de 28.06.2002) - Decreto 2.637/1998; AI 472.897-AgR (rel. min. Celso de Mello, Segunda Turma, DJ de 26.10.2007) – LC 70/1991 e Lei 9.430/1996.
+    De fato, até o reconhecimento da repercussão geral da discussão específica sobre a aplicabilidade do art. 97 da Constituição ao juízo de recepção normativa (AI 838.188-RG, rel. min. Presidente, DJe de 1º.09.2011), esta Suprema Corte havia firmado jurisprudência pela negativa (cf., e.g., RE 495.370-AgR, rel. min. Joaquim Barbosa, Segunda Turma, DJe de 1º.10.2010; RE 278.710-AgR, rel. min. Joaquim Barbosa, Segunda Turma, DJ e de 28.05.2010; RE 353.508-AgR, rel. min. Celso de Mello, Segunda Turma, DJ e de 29.06.2007; AI 607.616-AgR (rel. min. Joaquim Barbosa, Segunda Turma,DJ e de 1º.10.2010).
+    Portanto, a decisão que deixa de aplicar o art. 97 ao controle da compatibilidade de norma preexistente à Constituição, se bem ou mal se afigura, não viola a SV 10.
+    Em seu cerne, esta reclamação constitucional tenta indiretamente discutir a má aplicação de precedentes relacionados ao reconhecimento da repercussão geral (AI 810.097-RG, rel. min. Gilmar Mendes, DJe de 18.11.2011 e AI 735.933-RG, rel. min. Gilmar Mendes, DJ e de 06.12.2010, contrapostos ao AI 838.188-RG, rel. min. Presidente, DJe de 1º.09.2011).
+    Trata-se de exemplo bem conhecido da experiência norte-americana (inadmissible collateral attack doctrine), em que um instrumento legal é utilizado como sucedâneo de outro, incabível por preclusão ou por proibição legal (no caso, a em regra inadmissível reclamação para discutir a má aplicação de precedente relativo à repercussão geral foi substituída pela reclamação por suposta violação da SV 10 - cf., e.g., Rcl 11.635-EDcl, rel. min. Celso de Mello, Pleno, DJe de 19.12.2011).
+    Ante o exposto, nego seguimento à reclamação (art. 38 da Lei 8.038/1990 e arts. 21, § 1º e 161 do RISTF).
+    Fica prejudicado o exame da medida liminar pleiteada (art. 21, IX do RISTF).
+    Publique-se. Int..
+    Brasília, 11 de outubro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
