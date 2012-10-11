@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão da 2ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio Grande do Sul que não reconheceu como atividade rural em regime de economia familiar a atividade exercida pela parte recorrente.
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 194, parágrafo único, inciso II, do texto constitucional.
+    Sustenta-se que, “(...) não sendo exigida do trabalhador urbano a manutenção da qualidade de segurado para a concessão do benefício de aposentadoria por idade, por força do artigo 3º, parágrafo 1º, da Lei 10.666/03, tal exigência não pode ser imposta aos trabalhadores rurais por força do princípio constitucional (...)”.
+     Decido.
+     A pretensão recursal não merece prosperar.
+    No caso, o acórdão impugnado consignou o seguinte:
+    “2) em relação à aposentadoria por idade rural (do segurado especial, o que exclui a situação do empregado rural o qual, para este feito, se submete ao regime da aposentadoria por idade urbana), não cabe a aplicação do disposto no § 1º do art. 3º da Lei nº 10.666/2003 e da regra prevista no art. 24, parágrafo único, da Lei nº 8.213/91, pois o art. 143 deste mesmo diploma legal, exige o exercício de atividade rural, ainda que descontínua (isto é, desde que o afastamento da atividade rural não exceda ao período máximo de graça de 3 anos), no período imediatamente anterior ao requerimento do benefício, motivo pelo qual após a refiliação o segurado especial deverá contar com a carência integral prevista para o ano do implemento da idade.
+    No presente caso restou comprovado o exercício da atividade rural, em regime de economia familiar, conforme a sentença recorrida (evento 22) no período de 19/03/1959 a 31/12/1980. Todavia, considerando que a autora nasceu em 19/03/1947 (evento 09, PROCADM1), tendo completado 55 anos de idade somente em 19/03/2002, verifica-se que não preencheu de forma simultânea os requisitos, não tendo comprovado o exercício de atividade rural, correspondente à carência, no período imediatamente anterior ao requerimento administrativo, devendo ser julgado improcedente o pedido de aposentadoria” (eDOC 85, p. 3).
+     Para se entender de forma diversa, faz-se imprescindível a análise do conjunto fático-probatório constante dos autos e o reexame da legislação infraconstitucional aplicável à espécie (Lei nº 8.213/91), donde se conclui que eventual ofensa à Constituição, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. Incidem, portanto, os Enunciados 279 e 636 da Súmula do STF.
+    Nesse sentido o AI 799.519, de minha relatoria, Segunda Turma, DJe 6.9.2011, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. 2. Direito Previdenciário. 3. Aposentadoria rural. 4. Análise da legislação infraconstitucional e do conjunto fático-probatório constante dos autos. Impossibilidade. Ofensa reflexa à Constituição Federal. 5. Incidência das súmulas 279 e 636. 6. Agravo regimental a que se nega provimento”.
+    Confiram-se ainda os seguintes julgamentos monocráticos proferidos em casos análogos ao dos autos: AI 848.505, Rel. Min. Luiz Fux, DJe 10.10.2011; ARE 652.503, Rel. Min. Dias Toffoli, DJe 5.10.2011; e AI 848.607, de minha relatoria, DJe 8.8.2011
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 11 de outubro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
