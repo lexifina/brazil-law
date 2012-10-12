@@ -1,0 +1,21 @@
+DECISÃO
+PENA – REGIME DE CUMPRIMENTO – DEFINIÇÃO – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi preso em flagrante, no dia 24 de fevereiro de 2011, e condenado, em 14 de julho de 2011, a dois anos e seis meses de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33 (tráfico de entorpecentes) da Lei nº 11.343, de 2006, sendo-lhe vedado o direito de recorrer em liberdade.
+    Impetrou-se habeas no Tribunal de Justiça do Estado de São Paulo. A 3ª Câmara Criminal, em 13 de setembro de 2011, indeferiu a petição inicial. Destacou ser a ação inadequada para a retificação de decisão sujeita a recurso apropriado, inclusive para modificar o regime prisional fixado.
+    Formalizou-se igual medida no Superior Tribunal de Justiça – de nº 231.952/SP. O ministro Vasco Della Giustina, desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, convocado, não deferiu o pedido liminar, isso em 10 de fevereiro de 2012. Assinalou ser inviável a impetração, por abordar questão não analisada pelo tribunal de origem, sob pena de supressão de instância.
+    Neste habeas, o impetrante sustenta a ocorrência de flagrante ilegalidade na manutenção do paciente em regime fechado, a excepcionalidade capaz de superar o óbice do Verbete nº 691 da Súmula do Supremo. Salienta a insuficiência da fundamentação constante na sentença para fixação do regime inicial, porquanto baseada apenas na gravidade abstrata do delito. Menciona precedentes jurisprudenciais no sentido do reconhecimento de regime menos gravoso nos crimes de tráfico de entorpecentes. Aponta violação ao princípio da individualização da pena.
+    Requer o implemento de liminar para estabelecer o regime inicial aberto para o cumprimento da reprimenda. No mérito, pede a confirmação da providência.
+    Em atenção às informações solicitadas por Vossa Excelência, o Tribunal de Justiça apresentou cópia da denúncia, da sentença, da petição inicial do habeas corpus e do ato que implicou o indeferimento liminar da ordem. O Superior Tribunal de Justiça noticiou aguardar esclarecimentos do Juízo de origem e manifestação do Ministério Público Federal, para julgamento da impetração.
+    Antecipando-se às providências determinadas por Vossa Excelência ao Juízo da 21ª Vara Criminal da Comarca de São Paulo, o impetrante encaminhou reprodução do auto de prisão em flagrante.
+    Consulta ao sítio do Superior Tribunal de Justiça, em 11 de setembro de 2009, revelou que já foi reiterado, por quatro vezes, via telegrama, o pedido de informações ao Juízo, sem sucesso. No dia 27 de agosto de 2012, o processo foi redistribuído à ministra Alderita Ramos de Oliveira, desembargadora do Tribunal de Justiça do Estado de Pernambuco, convocada.
+    O habeas encontra-se concluso para apreciação da medida acauteladora.
+    2. Notem a organicidade do Direito. A pena-base foi estabelecida no mínimo previsto para o tipo. Vale dizer que as circunstâncias judiciais mostraram-se favoráveis ao ora paciente, primário e sem antecedentes. A seguir, considerou-se a causa de diminuição versada no artigo 33, § 4º, da Lei nº 11.343/2006, chegando-se ao patamar de 2 anos e 6 meses de reclusão e 250 dias-multa. Fixou-se como regime de cumprimento da pena o fechado, estando o paciente preso preventivamente há mais de ano. Acabou-se por empolgar a Lei nº 11.464/2007 e a visão segundo a qual se revelava o único regime compatível com a nocividade da conduta.
+    O Supremo, no julgamento do Habeas Corpus nº 104.339/SP, assentou a possibilidade de haver regime inicial menos gravoso mesmo que se trate de tráfico de entorpecentes. A par desse aspecto, segundo o disposto no artigo 33, § 3º, do Código Penal, o regime é implementado ante as circunstâncias judiciais, que, no caso – repito –, são positivas.
+    3. Defiro a liminar para que se observe, ainda sob o ângulo da prisão preventiva, o regime aberto.
+    4. O curso deste habeas não prejudica o de nº 231.952, impetrado no Superior Tribunal de Justiça. Remetam cópia desta decisão ao relator, ministro Vasco Della Giustina, desembargador do Tribunal de Justiça do Estado do Rio Grande do Sul, convocado.
+    5. Colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 12 de outubro de 2012, às 15h45.
+Ministro MARCO AURÉLIO
+Relator
