@@ -1,0 +1,20 @@
+Decisão.
+    Vistos.
+    Ana Alice Carvalho de Souza Interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Turma Recursal dos Juizados Especiais Cíveis Federais do Estado do Rio de Janeiro, assim ementado:
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE. SEGURADO CASADO NÃO SEPARADO DE FATO. VIDA DÚPLICE. PROLE COMUM. PECULIARIDADES DO CASO CONCRETO. DEPENDÊNCIA ECONÔMICA. DIREITO AO RATEIO DA PENSÃO. - Em determinadas situações da vida, há que se dar interpretação ampla a determinados dispositivos legais, para que não se perpetuem situações de injustiça. - Segurado do INSS que mantinha relação estável com concubina (tendo inclusive um filho) a qual provia com ajuda financeira e que, até o final de sua vida, mantinha vida dúplice, convivendo também com sua esposa. - Direito de concubina ao rateio de pensão por morte de ex-segurado, pois com ele manteve relação estável que durou décadas e do qual dependia economicamente. - Sentença reformada. Recurso provido. Sem honorários” (fls. 215).
+    Opostos embargos de declaração (fls. 221 a 225), foram rejeitados (fls. 227/228).
+    A recorrente interpôs simultaneamente recurso extraordinário (fls. 279 a 289) e pedido de uniformização de jurisprudência (fls. 250 a 256).
+    Contra-arrazoado (fls. 304 a 308), o recurso extraordinário (fls. 279 a 289) foi admitido (fl. 325).
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado antes de 3/5/07, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Não merece prosperar a irresignação, haja vista que o recurso extraordinário foi interposto em 4/10/04, antes mesmo do julgamento do pedido de uniformização de jurisprudência. Observe-se que a jurisprudência desta Corte firmou entendimento no sentido de considerar extemporâneo o apelo extremo interposto antes do julgamento do incidente de uniformização de jurisprudência em virtude da inexistência de decisão proferida em única ou última instância. Nesse sentido, anote-se:
+    “EMENTA: PROCESSUAL CIVIL. CONSTITUCIONAL. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. RECURSO EXTRAORDINÁRIO. DESCABIMENTO. I - Esta Corte firmou entendimento no sentido de se considerar extemporâneo o RE interposto antes do julgamento do incidente de uniformização de jurisprudência. II - Somente após o pronunciamento da Turma de Uniformização estaria esgotada a prestação jurisdicional, que daria ensejo à interposição do recurso extremo. III - Agravo regimental improvido” (RE n° 468.259/AM-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/12/07).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF. Consoante a jurisprudência sumulada do Supremo Tribunal Federal, ‘é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada’ (Súmula 281 do STF). Admitido Incidente de Uniformização em face de acórdão de Turma Recursal dos Juizados Especiais Federais, resta demonstrada a ausência de decisão de única ou última instância. Pelo que incabível, concomitantemente, a interposição do apelo extremo. Agravo regimental desprovido” (RE n° 468.365/AM-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 20/4/07).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: RE n° 577.053/MG, Relator o Ministro Ricardo Lewandowski, DJe de 26/2/08, e RE n° 445.169/TO, Relator o Ministro Carlos Velloso, DJ de 9/12/05.
+    Ressalte-se, por fim, que não houve a ratificação do recurso prematuramente interposto após o julgamento do referido incidente de uniformização.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
