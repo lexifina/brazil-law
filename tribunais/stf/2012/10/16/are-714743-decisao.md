@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. PLANO DE PREVIDÊNCIA PRIVADA. PETROS. REGULAMENTO DO PLANO DE BENEFÍCIOS. SUPLEMENTAÇÃO DE PENSÃO. BOA-FÉ OBJETIVA. FUNÇÃO SOCIAL DO CONTRATO. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO. 1. Incidência do CDC nas relações ente as entidades de previdência privada e o participante. Aplicação da Súmula 321 do STJ. 2. Não tem cabimento a aplicação da fórmula prevista no artigo 41 do Regulamento da apelada, na medida em que esta enseja verdadeira redução da suplementação da pensão em relação à suplementação paga a título de aposentadoria quando o participante era vivo. 3. Inequívoca violação ao disposto no artigo 32 do Regulamento do Plano de Benefícios. O parâmetro para cálculo da suplementação de aposentadoria do participante se vivo fosse. 4. Notório que a vontade do participante se dirigiu à contratação de plano de previdência, que no caso de seu óbito, possibilitasse o recebimento da suplementação de pensão à viúva na razão de 60% do valor da suplementação da aposentadoria. 5. Flagrante a abusividade da conduta da Apelada fornecedora, que desde o óbito do participante efetuou o pagamento da suplementação de pensão equivocadamente, em detrimento do direito da apelante, calculando o percentual de 60% sobre o valor da suplementação de aposentadoria para então subtrair deste valor a pensão paga pelo INSS. 6. Fórmula de cálculo ardilosa implicando em aviltante redução da suplementação da pensão, violando expressamente o disposto nos artigos 16 e 32 do Regulamento do Plano de Benefícios. Precedentes desta Corte. Sentença reformada. Inversão dos ônus da sucumbência. PROVIMENTO DO RECURSO”. (fl. 525)
+    Opostos embargos declaratórios, estes foram rejeitados (fls. 554-558/569-571).
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, caput; 7º, XXIX; e 202 da Constituição Federal.
+    Decido.
+    Não assiste razão à agravante.
+    Verifico que o Tribunal a quo decidiu a controvérsia à luz dos elementos fático-probatórios constantes dos autos, das cláusulas constantes do regulamento da entidade privada e da legislação infraconstitucional pertinente ao caso. Eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária.
+    Incidem, portanto, os Enunciados 279 e 454 da Súmula do STF.
+    Nesse sentido, precedentes de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. PREVIDÊNCIA PRIVADA. RESTITUIÇÃO DE PARCELAS PAGAS. PRESCRIÇÃO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 693.996, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 15.5.2009).
+    “Agravo regimental em agravo de instrumento. 2. Migração para um novo plano de previdência privada. Interpretação de cláusulas contratuais. Matéria infraconstitucional. Enunciados das súmulas 279, 454 e 636. Precedentes. 3. Agravo regimental a que se nega provimento” (AI-AgR 753.488, de minha relatoria, Segunda Turma, DJe 7.6.2011).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 16 de outubro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
