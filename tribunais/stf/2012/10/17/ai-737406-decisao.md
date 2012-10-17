@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a e c, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa transcrevo:
+    "Ação de indenização – Conversão do Valor Contrato em URV – Sendo o contrato administrativo firmado na vigência da Lei n. 8.880/94 que instituiu o Plano Real, não prospera a alegação de desequilíbrio econômico-financeiro decorrente da conversão do valor da proposta comercial em URV. Inviável a correção ‘pro rata’ dia do valor contratado no período. Recurso de apelação e reexame necessário providos. "(Fls. 123.)
+    Alega-se, em síntese, ofensa do disposto nos arts. 22, VI; e 37, XXI, da Constituição. Sustenta-se a violação da competência da União para legislar sobre o sistema monetário. Segundo a parte agravante, o Estado de São Paulo teria deixado de aplicar o art. 15, § 2º, I, da Lei 8.880/94, ao estabelecer, mediante atos normativos estaduais, critérios diversos de reajustamento de valores de contratos administrativos.
+    É o relatório. Decido.
+    O agravo não merece prosperar.
+    Verifico que o Tribunal de origem, ao reconhecer a legitimidade do reajuste do valor das obras e serviços, fundamentou sua decisão em interpretação de cláusulas do próprio contrato administrativo. Leia-se do voto condutor do acórdão recorrido:
+    “Assim, não pode ser aceita a alegação de que houve rompimento do equilíbrio econômico-financeiro do contrato. E ela não pode ser aceita pelo simples fato que, de acordo com o pactuado, o valor reajustado era válido para todo o mês respectivo, afastado, por isso, desde o início da vigência do contrato, a possibilidade de correção pro rata da quinzena ou dias restantes.” (Fls. 124.)
+    Trata-se de fundamento suficiente que não foi impugnado nas razões do recurso extraordinário, sendo aplicável o disposto nas Súmulas 283 e 284/STF.
+    Ainda que superado referido óbice, a análise das apontadas violações ao texto da Constituição demandaria o exame prévio da legislação infraconstitucional (Lei 8.880/94), da legislação local, e do contrato administrativo. Trata-se, portanto, de alegação de ofensa indireta ou reflexa à Constituição, o que dá margem ao descabimento do recurso extraordinário. Incide, no caso, as Súmulas 279, 280, 454 e, mutatis mutandis, 636 desta Corte. Nesse sentido: AI 747.096-AgR (rel. min. Luiz Fux, Primeira Turma, DJe de 17.11.2011); e AI 834.463 (rel. min. Joaquim Barbosa, DJe de 09.12.2011); AI 674.382 (rel. min. Joaquim Barbosa, DJe de 25/10/2011); AI 747.074 (rel. min. Ellen Gracie, DJe de 15.08.2011).
+    Por fim, em relação à interposição do apelo extraordinário com base no art. 102, III, alínea c, observo que o acórdão recorrido em momento algum julgou válida lei ou ato de governo local contestado em face da Constituição, o que permite a invocação da Súmula 284 desta Corte.
+    Do exposto, nego seguimento ao presente agravo.
+    Publique-se.
+    Brasília, 17 de outubro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
