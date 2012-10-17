@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo Unilever Brasil Industria Ltda. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação do art. 7º, XXIX, da Carta Magna.
+    Sem contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta ao art. 7º, XXIX, da Constituição Federal, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. PARTICIPAÇÃO NOS LUCROS E RESULTADOS. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULA 454 DO STF. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimentos de dispositivos infraconstitucionais torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A prescrição em face de suposta ofensa ao artigo 7º, XXIX, da Constituição Federal situa-se, também, no âmbito da legislação infraconstitucional, por isso que, in casu, a afronta à Constituição, se ocorrente, seria indireta ou reflexa. Precedentes: AI 817.484-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º.02.2011, AI 819.935-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe 02.03.2011 e AI 486.246-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe 06.08.2010. 3. A interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal. 4. Agravo regimental a que se nega provimento.” (AI 841480 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 07.11.2011)
+    “EMENTA: AGRAVO REGIMENTAL. RECURSO TRABALHISTA. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. Para se verificar a ocorrência da alegada violação do art. 7º, XXIX, da Constituição Federal, seria necessário o reexame da legislação infraconstitucional pertinente. Assim, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Inexistência de ofensa aos arts. 5º, XXXV, XXXVI e LV, e 93, IX, da Constituição. Agravo regimental a que se nega provimento.” (AI 774200 AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 11.5.2011)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
