@@ -1,0 +1,14 @@
+DECISÃO
+DIREITO – ORGANICIDADE E DINÂMICA.
+    1. O Gabinete prestou as seguintes informações:
+    Antonio Pellizzetti noticia que, antes do pedido de vista formalizado pelo ministro Luiz Fux, Vossa Excelência proferiu voto, como relator, no Habeas Corpus nº 97.781/PR e estendeu-lhe a ordem implementada considerado o paciente Mauro Canuto de Castilho e Souza Machado, em razão de também haver sido absolvido mediante a sentença proferida na Ação Penal nº 2001.542-0. Consoante ressalta, ao dirigir-se ao Gabinete de Sua Excelência com o intuito de pedir preferência em face do Estatuto do Idoso, foi informado de que a impetração somente será liberada para julgamento após o exame da Ação Penal nº 470. Alega sofrer constrangimento ilegal em virtude de um processo criminal eivado de nulidades, as quais foram reconhecidas por Vossa Excelência, encontrando-se a decisão condenatória na eminência de transitar em julgado. Requer o sobrestamento dos embargos de declaração até a análise final do Habeas Corpus nº 97.781/PR e, subsidiariamente, a avocação da mencionada impetração para conceder-lhe a ordem ou o recebimento do agravo de instrumento como habeas corpus – em caso de ausência de qualquer dos pressupostos de admissibilidade. Apresenta procuração e documentos.
+    Em 21 de março de 2011, Vossa Excelência conheceu do agravo de instrumento e o desproveu. O agravo regimental interposto foi desprovido pela Primeira Turma em 21 de agosto último, seguindo-se a interposição de embargos de declaração.
+    A apreciação do Habeas Corpus nº 97.781/PR iniciou-se em 6 de dezembro de 2011, tendo Vossa Excelência proferido voto no sentido da concessão da ordem em benefício do paciente Mauro Canuto de Castilho e Souza Machado, estendendo-a a Antonio Pelizzetti e Marcos Aurélio de Gonçalves Pinho, os quais também teriam sido absolvidos na sentença formalizada na Ação Penal nº 2001.542-0. A assentada foi suspensa em razão do pedido de vista formulado pelo ministro Luiz Fux. Não houve pleito de concessão de liminar.
+    Os autos estão no Gabinete e têm como processo principal a Ação Penal nº 2001.542-0.
+    2. Observem a organicidade do Direito. Os pleitos veiculados não são passíveis de agasalho. Não cabe a integrante do Tribunal, atuando como relator, avocar processo alvo de pedido de vista formalizado por Colega. Também é inviável o implemento, em autos de agravo, de ato próprio a habeas corpus em curso.
+    Quanto ao recebimento do citado recurso como impetração, a pretensão surge improcedente. A medida acabaria por subverter a tramitação pertinente. No tocante ao sobrestamento dos autos relativos aos agravos de instrumento e regimental e, já agora, aos embargos declaratórios, não concorre o interesse de agir presente a falta de utilidade da providência.
+    3. Indefiro os pedidos formulados.
+    4. Publiquem.
+Brasília, 17 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
