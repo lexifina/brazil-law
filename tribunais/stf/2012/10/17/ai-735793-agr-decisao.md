@@ -1,0 +1,16 @@
+DECISÃO: Determinei a devolução dos presentes autos em face do reconhecimento da repercussão geral dos temas “justiça competente para julgar as causas relativas à complementação de proventos e pensões disciplinada por lei do Estado de São Paulo e a incidência da contribuição previdenciária sobre a complementação paga pelo Estado” (RE 594.435-RG, tema 149). Entretanto, melhor análise dos autos revela a possibilidade de julgamento da causa, razão pela qual reconsidero a decisão de fls. 270, tornando-a sem efeito.
+    Passo ao exame do agravo de instrumento.
+    Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho, cuja ementa tem o seguinte teor (fls. 159):
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. INCOMPETÊNCIA MATERIAL DA JUSTIÇA DO TRABALHO. Competência firmada no disposto no artigo 114 da Constituição da República de 1988. PRELIMINARES DE CARÊNCIA DA AÇÃO – FALTA DE INTERESSE DE AGIR – IMPOSSIBILIDADE JURÍDICA DO PEDIDO – ILEGITIMIDADE DE PARTE PASSIVA – CHAMAMENTO DA FAZENDA DO ESTADO AO PROCESSO E LITISCONSORTE PASSIVO NECESSÁRIO. Violação legal não configurada. Aplicação do artigo 896, c, da CLT.
+    LICENÇA-PRÊMIO. Não caracterizada a violação legal indicada. Aplicação da alínea c do artigo 896 da CLT. Agravo de Instrumento a que se nega provimento.”
+    Nas razões do recurso extraordinário indica-se ofensa ao disposto nos arts. 5º, LIV, 22, I, e 114 da Constituição federal. Sustenta-se a incompetência da Justiça do Trabalho para julgar a causa porque a discussão sobre o direito à licença-prêmio teria natureza estatutária.
+    É o relatório. Decido.
+    Cinge-se a controvérsia à definição da justiça competente para julgar causa entre empregado e empresa pública sobre o direito à licença -prêmio instituída por lei estadual que estendeu aos empregados públicos direitos e vantagens do regime estatutário.
+    É incontroverso nos autos a existência de relação de emprego e tal fato é decisivo para a fixação da competência da Justiça do Trabalho. É o que se depreende dos seguintes julgados: RE 573.577 (rel. min. Ayres Britto, DJ de 12.04.2011), AI 559.998 (rel. min. Joaquim Barbosa, DJe de 11.12.2009), AI 584.807 (rel. min. Sepúlveda Pertence, DJ de 27.04.2006), RE 143.877-EDv (rel. min. Ellen Gracie, DJ de 20.08.2004), RE 146.942-EDv (rel. min. Marco Aurélio, DJ de 09.08.2002), RE 238.737 (rel. min. Sepúlveda Pertence, DJ de 05.02.1999), CJ 6.959 (rel. p/ acórdão min. Sepúlveda Pertence, DJ de 22.02.1991, RTJ 134/96), entre outros.
+    Desta feita, para concluir de modo diverso é imprescindível o reexame das premissas fáticas adotadas pelas instâncias trabalhistas. Incide, portanto, a Súmula 279 desta Corte.
+    Por outro lado, o recurso extraordinário, ao alegar que o acórdão recorrido ofende os preceitos dos arts. 5º, LIV, e 22, I, versa questões constitucionais não ventiladas na decisão recorrida e que não foram objeto de embargos de declaração, faltando-lhe, pois, o indispensável prequestionamento (Súmulas 282 e 356).
+    Do exposto, nego seguimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 17 de outubro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
