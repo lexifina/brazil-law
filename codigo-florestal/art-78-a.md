@@ -1,1 +1,1 @@
-Art. 78-A. Após cinco anos da data da publicação desta Lei, as instituições financeiras só concederão crédito agrícola, em qualquer de suas modalidades, para proprietários de imóveis rurais que estejam inscritos no Cadastro Ambiental Rural - CAR e que comprovem sua regularidade nos termos desta Lei.
+Art. 78-A. Após 5 (cinco) anos da data da publicação desta Lei, as instituições financeiras só concederão crédito agrícola, em qualquer de suas modalidades, para proprietários de imóveis rurais que estejam inscritos no CAR.
