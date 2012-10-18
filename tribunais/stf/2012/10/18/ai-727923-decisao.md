@@ -1,0 +1,37 @@
+DECISÃO
+    Vistos.
+    BANCO BRADESCO S.A. interpõe recurso extraordinário (fls. 256 a 265) contra acórdão proferido pela Quarta Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “DIREITO ADMINISTRATIVO E CONSTITUCIONAL. MANDADO DE SEGURANÇA. INSTITUIÇÃO FINANCEIRA. AUTUAÇÃO POR DESCUMPRIMENTO A LEI ESTADUAL N. 11.666/94 E RESOLUÇÃO N. 2.878/01. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. PROCESSO PRONTO PARA JULGAMENTO PELO TRIBUNAL AD QUEM. INTELIGÊNCIA DO ART. 515, §3º, DO CPC. ESGOTAMENTO DA VIA ADMINISTRATIVA. INEXIGIBILIDADE. EXIGÊNCIA DE CADEIRA DE RODAS EM ESTABELECIMENTO BANCÁRIO. LEI N. 11.666/94. CONSTITUCIONALIDADE. PROTEÇÃO DO CONSUMIDOR, DO PORTADOR DE DEFICIÊNCIA FÍSICA E DO IDOSO. PRECEDENTES DESTE EG. TRIBUNAL DE JUSTIÇA. 1. A exigência de esgotamento da esfera administrativa para que nasça o direito de ação não encontra, atualmente, respaldo em nosso ordenamento jurídico. Assim sendo, não mais se pode pretender que a parte esgote a instância administrativa para que, só então, possa acessar o Judiciário. 2. É perfeitamente admissível a impetração de mandado de segurança contra ato administrativo apto a gerar efeitos concretos na esfera patrimonial do impetrante. 3. A Lei Estadual n. 11.666/94, regulamentada pelo Decreto Estadual nº 43.926/2004, ratifica os preceitos e valores escolhidos pelo legislador ordinário Federal (art. 227, da CF/88), quando dispõe sobre o estabelecimento de normas para facilitar o acesso dos portadores de deficiência física e dos idosos aos edifícios de uso público. 4. Acolhe-se a preliminar e nega-se provimento ao recurso” (fl. 201).
+    Opostos embargos de declaração (fls. 211 a 213), foram rejeitados (fls. 219 a 222).
+    Insurge-se, no apelo extremo, fundado nas alíneas “a” e “c”, do permissivo constitucional, contra alegada contrariedade aos artigos 5º, inciso II, 21, inciso XXIV, 22, incisos I, e XVI e 192, da Constituição Federal, e, também, em virtue da inconstitucionalidade da Lei Estadual nº 11.666/94, utilizada na fundamentação do acórdão regional
+    Depois de apresentadas contrarrazões (fls. 290 a 294), o recurso não foi admitido na origem (fls. 299 a 302), daí a interposição do presente agravo.
+    O recurso especial paralelamente interposto já foi definitivamente rejeitado pelo Superior Tribunal de Justiça (fls. 320/321).
+    O parecer da douta Procuradoria-Geral da República é pelo improvimento do agravo (fls. 329 a 331).
+    Decido.
+    A irresignação não merece prosperar.
+    E isso porque o acórdão recorrido aplicou ao caso a interpretação que esta Suprema Corte pacificou quanto ao tema ora em debate, qual seja, a plena possibilidade de que os Municípios editem legislação disciplinando o atendimento ao público em agências bancárias, abrangendo, assim, todos os aspectos relacionados ao tema.
+    Nesse sentido, cito o seguinte precedente:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONSUMIDOR. INSTITUIÇÃO BANCÁRIA. ATENDIMENTO AO PÚBLICO. FILA. TEMPO DE ESPERA. LEI MUNICIPAL. NORMA DE INTERESSE LOCAL. LEGITIMIDADE. Lei Municipal n. 4.188/01. Banco. Atendimento ao público e tempo máximo de espera na fila. Matéria que não se confunde com a atinente às atividades-fim das instituições bancárias. Matéria de interesse local e de proteção ao consumidor. Competência legislativa do Município. Recurso extraordinário conhecido e provido” (RE nº 432.789/SC, Relator o Ministro Eros Grau, Primeira Turma, DJ de 7/10/05).
+    E, especificamente sobre o tema de fundo aqui em debate, cite-se a seguinte e recente decisão monocrática:
+    “Decisão
+     Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+     “DIREITO CONSTITUCIONAL – DIREITO ADMINISTRATIVO – ADMINISTRATIVO – MANDADO DE SEGURANÇA – SERVIÇO BANCÁRIO – LEI ESTADUAL 14.235/02 – TEMPO DE ESPERA NA FILA – COMPETÊNCIA EXCLUSIVA DA UNIÃO – PENDÊNCIA DE REGULAMENTAÇÃO – INAPLICABILIDADE – LEI ESTADUAL 11.666/94 – EXIGÊNCIA DE CADEIRA DE RODAS EM ESTABELECIMENTO BANCÁRIO – CONSTITUCIONALIDADE – PROTEÇÃO DO CONSUMIDOR – RESOLUÇÃO 2.878 DO BACEN – COMPETÊNCIA FISCALIZATÓRIA DO MINISTÉRIO PÚBLICO. A Lei Estadual 14.235/02 não invade a competência exclusiva ou privativa da União, sendo, portanto, constitucional, mas sua aplicação depende de regulamentação pelo Poder Executivo, nos termos de seu artigo 7º. A Lei Estadual 11.666/94, ao estabelecer a obrigatoriedade de disponibilização de cadeira de rodas para uso do portador de deficiência física e do idoso, facilitando o acesso dessas pessoas ao estabelecimento bancário, garante o direito à cidadania, bem como o respeito ao princípio da dignidade da pessoa humana, que é um dos fundamentos da República Federativa do Brasil (CF, art. 1, III), restando plenamente aplicável. Como a Resolução 2.878/01 do Bacen estabelece que as instituições financeiras devem manter alternativas técnicas que garantam a prestação de informações aos deficientes sensoriais, o que se trata de direito do consumidor, é inquestionável a competência do Ministério Público para fiscalizar seu cumprimento, por se tratar de uma das suas funções institucionais” (fl. 305).
+     No RE, interposto com base no art. 102, III, a e c, da Constituição, alegou-se ofensa aos arts. 5º, caput, II e LIV, 21, XXIV, 22, VI, VII e XVI, 24, § 4º, 48, XIII e XIV, e 192, todos da mesma Carta.
+     A Procuradoria-Geral da República manifestou-se pelo desprovimento do recurso.
+     A pretensão recursal não merece acolhida.
+     O acórdão recorrido está em consonância com a jurisprudência do Supremo Tribunal Federal, no sentido de que é da competência do município legislar sobre medidas que propiciem segurança, conforto e rapidez aos usuários de serviços bancários, uma vez que tratam de assuntos de interesse local, conforme se observa das ementas de julgados de ambas as Turmas desta Corte, abaixo transcritas:
+     “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CONSUMIDOR. INSTITUIÇÃO BANCÁRIA. ATENDIMENTO AO PÚBLICO. FILA. TEMPO DE ESPERA. LEI MUNICIPAL. NORMA DE INTERESSE LOCAL. LEGITIMIDADE. Lei Municipal n. 4.188/01. Banco. Atendimento ao público e tempo máximo de espera na fila. Matéria que não se confunde com a atinente às atividades-fim das instituições bancárias. Matéria de interesse local e de proteção ao consumidor. Competência legislativa do Município.
+     Recurso extraordinário conhecido e provido” (RE 432.789/SC, Rel. Min. Eros Grau, Primeira Turma).
+     “Agravo regimental em recurso extraordinário. 2. Recurso que não demonstra o desacerto da decisão agravada, proferida em consonância com entendimento desta Corte. 3. Agências bancárias. Instalação de bebedouros e sanitários. Competência legislativa municipal. Interesse local. Precedentes. 4. Agravo regimental a que se nega provimento” (RE 418.492-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+     No mesmo sentido: AI 427.373-AgR/RS, Rel. Min. Cármen Lúcia; AI 614.510-AgR/SC, Rel. Min. Celso de Mello; RE 367.615/MG, Rel. Min. Menezes Direito; RE 470.771/MG, Rel. Min. Ayres Britto.
+     Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+     Publique-se.
+     Brasília, 10 de agosto de 2011” (RE nº 595.408/MG,
+Relator o Ministro Ricardo Lewandowski, DJe de 17/8/11).
+    Correta, pois, a decisão atacada, a não merecer reparos.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 18 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
