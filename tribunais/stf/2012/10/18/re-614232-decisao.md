@@ -1,0 +1,16 @@
+Ao apreciar questão de ordem suscitada no presente recurso extraordinário, o Plenário desta Corte, por unanimidade, reconheceu a repercussão geral do seu objeto (fls. 295-327). Eis a ementa do julgado:
+    “TRIBUTÁRIO. REPERCUSSÃO GERAL DE RECURSO EXTRAORDINÁRIO. IMPOSTO DE RENDA SOBRE VALORES RECEBIDOS ACUMULADAMENTE. ART. 12 DA LEI 7.713/88. ANTERIOR NEGATIVA DE REPERCUSSÃO. MODIFICAÇÃO DA POSIÇÃO EM FACE DA SUPERVENIENTE DECLARAÇÃO DE INCONSTITUCIONALIDADE DA LEI FEDERAL POR TRIBUNAL REGIONAL FEDERAL.
+    1. A questão relativa ao modo de cálculo do imposto de renda sobre pagamentos acumulados – se por regime de caixa ou de competência – vinha sendo considerada por esta Corte como matéria infraconstitucional, tendo sido negada a sua repercussão geral.
+    2. A interposição do recurso extraordinário com fundamento no art. 102, III, b, da Constituição Federal, em razão do reconhecimento da inconstitucionalidade parcial do art. 12 da Lei 7.713/88 por Tribunal Regional Federal, constitui circunstância nova suficiente para justificar, agora, seu caráter constitucional e o reconhecimento da repercussão geral da matéria.
+    3. Reconhecida a relevância jurídica da questão, tendo em conta os princípios constitucionais tributários da isonomia e da uniformidade geográfica.
+    4. Questão de ordem acolhida para: a) tornar sem efeito a decisão monocrática da relatora que negava seguimento ao recurso extraordinário com suporte no entendimento anterior desta Corte; b) reconhecer a repercussão geral da questão constitucional; e c) determinar o sobrestamento, na origem, dos recursos extraordinários sobre a matéria, bem como dos respectivos agravos de instrumento, nos termos do art. 543-B, § 1º, do CPC” (Plenário, julgamento 20.10.2010, fl. 326).
+    O Subprocurador-Geral da República Paulo da Rocha Campos adotou como fundamento manifestação do parquet no RE 614.406-AgR-QO-RG/RS, pelo não provimento do recurso (fls. 331-4).
+    Substituição da Relatora à fl. 339 (art. 38, RISTF).
+    A despeito do reconhecimento da repercussão geral da controvérsia nos presentes autos, verifico que a matéria tratada neste recurso extraordinário é idêntica à que foi submetida ao Plenário Virtual no RE 614.406-AgR-QO-RG, cuja repercussão geral também foi proclamada na sessão de 20.10.2010. Constato, outrossim, que já se iniciou, em 25.5.2011, o julgamento do mérito do RE 614.406, sendo que, após o voto de minha antecessora, Ministra Ellen Gracie, dando provimento ao recurso, e os votos dos Ministros Marco Aurélio e Dias Toffoli, negando-o, o processo se encontra com vista à eminente Ministra Cármen Lúcia.
+    Enquadra-se este feito, portanto, nas disposições do art. 328, parágrafo único, do RISTF, que autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem, para aplicação dos parágrafos do art. 543-B do CPC.
+    O fato de também ter havido o reconhecimento da repercussão geral nestes autos não obsta tal providência, visto que a controvérsia será dirimida no julgamento do RE 614.406, já iniciado na assentada de 25 de maio de 2011.
+    Ante o exposto, devolvam-se os autos à Corte de origem para os fins previstos no art. 543-B do CPC.
+    Publique-se.
+    Brasília, 18 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
