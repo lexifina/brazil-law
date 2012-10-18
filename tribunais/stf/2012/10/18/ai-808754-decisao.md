@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1) FALTA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. 2) ART. 5º, INC. LIV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 3ª Região:
+    “PROCESSUAL CIVIL – ADMINISTRATIVO - CADASTRO INFORMATIVO DE CRÉDITOS NÃO QUITADOS PARA COM O SETOR PÚBLICO FEDERAL (CADIN) - EXCLUSÃO DO NOME - IMPOSSIBILIDADE.
+    I - A inscrição do nome do contribuinte no Cadastro Informativo de Créditos não Quitados para com o Setor Público Federal (Cadin) não é ilegal e tem a finalidade precípua de tornar disponível à Administração Pública Federal informações sobre créditos em atraso com o setor público.
+    II– A prática de atos com a Administração é possível, consoante restou estabelecido pelo e. S.T.F., que concedeu liminar na ADI nº 1454-4, suspendendo o art. 7º da Medida Provisória 1442 e suas reedições, que impossibilitava tal prática, quando existente inscrição no referido cadastro, não estando, ainda, as instituições financeiras impedidas de conceder empréstimo.
+    III - Apelação e remessa oficial parcialmente providas” (fl. 171).
+    3. No recurso extraordinário, a Agravante sustenta contrariedade ao art. 5º, inc. LIV, da Constituição da República por ter sido inscrita no Cadastro Informativo de Créditos não quitados do setor público federal sem que antes “houvesse a apreciação de seu pedido de compensação administrativa” (fl. 188).
+    4. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 282 e 356 do Supremo Tribunal (fls. 283-284).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    6. Como afirmado na decisão agravada, o art. 5º, inc. LIV, da Constituição da República não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LIV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, das Leis n. 9.430/1996, 10.522/2002 e 10.637/2002 e do Decreto n. 70.235/1972), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    8. Nada há a prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
