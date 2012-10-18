@@ -4,4 +4,7 @@ II - a área a ser computada esteja conservada ou em processo de recuperação, 
 III - o proprietário ou possuidor tenha requerido inclusão do imóvel no Cadastro Ambiental Rural - CAR, nos termos desta Lei.
 § 1º O regime de proteção da Área de Preservação Permanente não se altera na hipótese prevista neste artigo.
 § 2º O proprietário ou possuidor de imóvel com Reserva Legal conservada e inscrita no Cadastro Ambiental Rural - CAR de que trata o art. 29, cuja área ultrapasse o mínimo exigido por esta Lei, poderá utilizar a área excedente para fins de constituição de servidão ambiental, Cota de Reserva Ambiental e outros instrumentos congêneres previstos nesta Lei.
-§ 3º O cômputo de que trata o caput aplica-se a todas as modalidades de cumprimento da Reserva Legal, abrangendo a regeneração, a recomposição e, na hipótese do art. 16, a compensação.
+§ 3º O cômputo de que trata o caput aplica-se a todas as modalidades de cumprimento da Reserva Legal, abrangendo a regeneração, a recomposição e a compensação.
+§ 4º É dispensada a aplicação do inciso I do caput deste artigo, quando as Áreas de Preservação Permanente conservadas ou em processo de recuperação, somadas às demais florestas e outras formas de vegetação nativa existentes em imóvel, ultrapassarem:.
+I - 80% (oitenta por cento) do imóvel rural localizado em áreas de floresta na Amazônia Legal; e.
+II - (VETADO).

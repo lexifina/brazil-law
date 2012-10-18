@@ -1,5 +1,5 @@
 Art. 29. É criado o Cadastro Ambiental Rural - CAR, no âmbito do Sistema Nacional de Informação sobre Meio Ambiente - SINIMA, registro público eletrônico de âmbito nacional, obrigatório para todos os imóveis rurais, com a finalidade de integrar as informações ambientais das propriedades e posses rurais, compondo base de dados para controle, monitoramento, planejamento ambiental e econômico e combate ao desmatamento.
-§ 1º A inscrição do imóvel rural no CAR deverá ser feita, preferencialmente, no órgão ambiental municipal ou estadual, que, nos termos do regulamento, exigirá do possuidor ou proprietário:.
+§ 1º A inscrição do imóvel rural no CAR deverá ser feita, preferencialmente, no órgão ambiental municipal ou estadual, que, nos termos do regulamento, exigirá do proprietário ou possuidor rural:.
 I - identificação do proprietário ou possuidor rural;
 II - comprovação da propriedade ou posse;
 III - identificação do imóvel por meio de planta e memorial descritivo, contendo a indicação das coordenadas geográficas com pelo menos um ponto de amarração do perímetro do imóvel, informando a localização dos remanescentes de vegetação nativa, das Áreas de Preservação Permanente, das Áreas de Uso Restrito, das áreas consolidadas e, caso existente, também da localização da Reserva Legal.
