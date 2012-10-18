@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Município de Ipatinga interpõe recurso extraordinário contra o acórdão proferido pela Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais proferido em sede de apelação cível.
+    Amparado no art. 102, III, “a”, da Constituição Federal, sustenta o recorrente violação do artigo 150, inciso III, alínea “c”, da Constituição Federal. O acórdão recorrido está assim ementado:
+    “APELAÇÃO CÍVEL – DÉBITO FISCAL – ANULATÓRIA – IPTU – MUNICÍPIO DE IPATINGA – PROGRESSIVIDADE – LEI ANTERIOR À EC 29/2000 – INCONSTITUCIONALIDADE – NOVA LEI – PRAZO NONAGESIMAL – INOBSERVÂNCIA – INEXIGIBILIDADE – HONORÁRIOS – RAZOABILIDADE . RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO. I – Constatada a inobservância do prazo nonagesimal pela Lei Municipal nº 2.257/2006, inexigível o IPTU de 2007. II – A fixação dos honorários advocatícios deve sempre observar a regra da equidade; assim vencida a Fazenda Pública, a norma do §4º, do art.20, do Código de Processo Civil, não veda sua fixação em percentual sobre o valor da condenação. III – Não há que se falar em redução dos honorários advocatícios fixados pelo magistrado singular, quando se apresenta razoáveis e hábeis a atingir a finalidade” (fl.159).
+    Opostos embargos de declaração (fls. 170 a 175), foram rejeitados (fls. 177 a 178).
+    Decido.
+    Pretende o recorrente demonstrar que a Lei Municipal nº 2.257, de 29 de dezembro de 2006, não instituiu ou majorou a alíquota do IPTU cobrado pela municipalidade. Afirma o recorrente que a anterioridade nonagesimal foi atendida, considerando que a lei foi publicada em dezembro de 2006 e o imposto só teria sido cobrado em meados do mês de março de 2007.
+    A irresignação não merece prosperar, haja vista que para ultrapassar o entendimento do Tribunal de origem e acolher a pretensão do recorrente acerca da análise da existência, ou não, de ofensa ao princípio da anterioridade nonagesimal, seria necessário o reexame das provas e fatos dos autos, bem como da legislação infraconstitucional pertinente (Leis Municipais n°s 1.206/91 e 2.257/06), o que não é cabível em sede de apelo extremo. Incidência das Súmulas nº 279 e 280 desta Corte. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. INDISPENSÁVEL A ANÁLISE DAS LEIS MUNICIPAIS 1.105/1989 E 2.257/2006. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DO EXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I – A existência, ou não, de ofensa ao princípio da anterioridade nonagesimal, no caso, demanda o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, bem como requer a interpretação da legislação infraconstitucional local aplicável à espécie (Leis Municipais 1.105/1989 e 2.257/2006), o que inviabiliza o extraordinário, nos termos da Súmula 280 desta Corte. Precedentes. II – Agravo regimental improvido” (RE n° 633.101/MG-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 14/5/12) (Grifo nosso).
+    No mesmo sentido, as seguintes decisões monocráticas: RE n° 607.375/MG, Relator o Ministro Marco Aurélio, DJe de 6/2/12, e AI n° 789.999/MG, Relator o Ministro Luiz Fux, DJe de 17/8/11.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
