@@ -1,0 +1,28 @@
+DECISÃO
+    Vistos.
+    Banco Nossa Caixa S.A. interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 21, 30, incisos I e II, e 192 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Primeira Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “MANDADO DE SEGURANÇA – Estabelecimento bancário – Fixação, por Lei Municipal, de limite máximo de tempo para atendimento razoável aos usuários – Assunto de interesse local – Art. 30, I, da Constituição Federal – O Município pode impor normas de ordem pública condicionadoras do exercício de direitos ou de atividades particulares submetendo-o às exigências do bem estar social – Observância do princípio da dignidade da pessoa humana – Recurso improvido” (fl. 20).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o acórdão proferido pelo Tribunal de origem está em sintonia com a jurisprudência desta Corte, que firmou entendimento no sentido de que o município, ao legislar sobre o tempo de atendimento ao público nas agências bancárias, exerceu competência a ele atribuída, nos termos do artigo 30, inciso I, da Constituição Federal.
+    A matéria diz respeito a interesse local e não se confunde com a questão referente às atividades-fim das instituições financeiras. Nesse sentido:
+    “CONSTITUCIONAL. COMPETÊNCIA. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. LEI MUNICIPAL. INTERESSE LOCAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO. O Município tem competência para legislar sobre o tempo de atendimento ao público nas agências bancárias” (AI nº 427.373/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. COMPETÊNCIA. MUNICÍPIO. ART. 30, I, CB/88. FUNCIONAMENTO DO SISTEMA FINANCEIRO NACIONAL. ARTS. 192 E 48, XIII, DA CB/88. 1. O Município, ao legislar sobre o tempo de atendimento ao público nas agências bancárias estabelecidas em seu território, exerce competência a ele atribuída pelo artigo 30, I, da CB/88. 2. A matéria não diz respeito ao funcionamento do Sistema Financeiro Nacional [arts. 192 e 48, XIII, da CB/88]. 3. Matéria de interesse local. Agravo regimental improvido” (RE nº 427.463/RO-AgR, Primeira Turma, Relator o Ministro Eros Grau, DJ de 19/5/06).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. COMPETÊNCIA. MUNICÍPIO. ART. 30, I, CB/88. 1. Ao legislar sobre o tempo de atendimento ao público nas agências bancárias estabelecidas em seu território, o município exerceu competência a ele atribuída pelo artigo 30, I, da CB/88. 2. Matéria de interesse local. Agravo regimental improvido” (RE nº 367.192/PB-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 5/5/06).
+    Ressalte-se que, mais recentemente, foi reconhecida a repercussão geral da matéria constitucional em tela, decidindo-se, quanto ao mérito, pela confirmação de tal orientação jurisprudencial já assentada nesta Corte, conforme a seguinte decisão monocrática:
+    “1. A hipótese dos autos versa sobre a validade de lei municipal que dispõe sobre o tempo de espera de clientes em filas de bancos. O acórdão entendeu pela constitucionalidade da Lei 3.975/99 do Município de Chapecó.
+    2. Este Tribunal, no julgamento do RE 610.221, de minha relatoria, reconheceu a existência da repercussão geral da matéria para que os efeitos do art. 543-B do CPC possam ser aplicados.
+    Esta Corte firmou entendimento no sentido de que os municípios têm competência para legislar sobre assuntos de interesse local. Nesse sentido: AC 1.124-MC, rel. Min. Marco Aurélio, 1ª Turma, DJ 04.08.2006; AI 491.420-AgR, rel. Min. Cezar Peluso, 1ª Turma, DJ 24.03.2006; AI 709.974-AgR, rel. Min. Cármen Lucia, 1ª Turma, DJe 26.11.2009; RE 432.789, rel. Min. Eros Grau, 1ª Turma, DJ 07.10.2005; AI 347.717-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 05.08.2005; AI 747.245-AgR, rel. Min. Eros Grau, 2ª Turma, DJe 06.08.2009; AI 574.296, rel. Min. Gilmar Mendes, 2ª Turma, DJ 16.06.2006; RE 559.650, rel. Min. Carlos Britto, DJe 02.12.2009.
+    O acórdão recorrido não divergiu desse entendimento.
+    3. Ante o exposto, nego seguimento ao recurso extraordinário. Com base nessa decisão, julgo prejudicados os pedidos de ingresso como amici curiae formulado pela Câmara Municipal do Rio de Janeiro (Petição STF 31.299/2010 fls. 133-135) e pela Federação Brasileira de Bancos FEBRABAN (Petição STF 40.545/2010 fls. 155-163).
+    Publique-se.
+    Brasília, 27 de agosto de 2010 (RE nº 610.221/SC, Relatora a Ministra Ellen Gracie, DJe de 18/10/10)”.
+    Correta, pois, a decisão atacada, a não merecer reparos.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 18 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
