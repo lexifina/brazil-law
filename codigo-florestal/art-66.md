@@ -4,7 +4,7 @@ II - permitir a regeneração natural da vegetação na área de Reserva Legal;
 III - compensar a Reserva Legal.
 § 1º A obrigação prevista no caput tem natureza real e é transmitida ao sucessor no caso de transferência de domínio ou posse do imóvel rural.
 § 2º A recomposição de que trata o inciso I do caput deverá atender os critérios estipulados pelo órgão competente do Sisnama e ser concluída em até 20 (vinte) anos, abrangendo, a cada 2 (dois) anos, no mínimo 1/10 (um décimo) da área total necessária à sua complementação.
-§ 3º A recomposição de que trata o inciso I do caput poderá ser realizada mediante o plantio intercalado de espécies nativas e exóticas, em sistema agroflorestal, observados os seguintes parâmetros:
+§ 3º A recomposição de que trata o inciso I do caput poderá ser realizada mediante o plantio intercalado de espécies nativas com exóticas ou frutíferas, em sistema agroflorestal, observados os seguintes parâmetros:.
 I - o plantio de espécies exóticas deverá ser combinado com as espécies nativas de ocorrência regional;
 II - a área recomposta com espécies exóticas não poderá exceder a 50% (cinquenta por cento) da área total a ser recuperada.
 § 4º Os proprietários ou possuidores do imóvel que optarem por recompor a Reserva Legal na forma dos §§ 2º e 3º terão direito à sua exploração econômica, nos termos desta Lei.
