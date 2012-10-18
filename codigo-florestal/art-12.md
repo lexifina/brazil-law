@@ -1,4 +1,4 @@
-Art. 12. Todo imóvel rural deve manter área com cobertura de vegetação nativa, a título de Reserva Legal, sem prejuízo da aplicação das normas sobre as Áreas de Preservação Permanente, observados os seguintes percentuais mínimos em relação à área do imóvel:
+Art. 12. Todo imóvel rural deve manter área com cobertura de vegetação nativa, a título de Reserva Legal, sem prejuízo da aplicação das normas sobre as Áreas de Preservação Permanente, observados os seguintes percentuais mínimos em relação à área do imóvel, excetuados os casos previstos no art. 68 desta Lei:.
 I - localizado na Amazônia Legal:
 a) 80% (oitenta por cento), no imóvel situado em área de florestas;
 b) 35% (trinta e cinco por cento), no imóvel situado em área de cerrado;
