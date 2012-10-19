@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. DIFERENÇA ENTRE O PERCENTUAL DE REAJUSTE CONCEDIDO AOS MILITARES DE ALTA PATENTE - 31,87% E O PERCENTUAL DE REAJUSTE RECONHECIDO COMO DEVIDO AOS SERVIDORES PÚBLICOS DE 28,86%. IMPOSSIBILIDADE. PRECEDENTES JURISPRUDENCIAIS”. (fl. 125).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, X, da mesma Carta.
+    A pretensão recursal não merece acolhida. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as Leis 8.622/1993 e 8.627/1993 concederam uma revisão geral aos servidores públicos da ordem de 28,86%, nos termos do artigo 37, X da Constituição Federal. Nesse sentido o RE 432.362-AgR/PE, /AP, Rel. Min. Carlos Britto, cuja ementa segue transcrita:
+    “SERVIDORES MILITARES. LEIS NºS 8.622/93 E 8.627/93. REVISÃO GERAL DE VENCIMENTOS, DA ORDEM DE 28,86%, NA FORMA DO INCISO X DO ART. 37 DA LEI DAS LEIS (REDAÇÃO ANTERIOR À EC 19/98). DIREITO AO REAJUSTE DE 31,87%. INEXISTÊNCIA. INTERPRETAÇÃO DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. 1. O Plenário, ao julgar o RMS 22.307 E O RMS 22.307-ED, decidiu, por maioria, que as Leis nº 8.622/93 e 8.627/93 concederam uma revisão geral aos servidores públicos da ordem de 28,86% (nem mais, nem menos), nos termos do inciso X do art. 37 da Carta de Outubro (redação anterior à EC 19/98). 2. A eventual concessão de índice maior esbarra na necessidade de reexaminar a dita legislação infraconstitucional, procedimento a um só tempo inócuo -- porque o Pleno já se manifestou a respeito -- e vedado em sede de recurso extraordinário. Daí a natureza meramente reflexa ou indireta da alegada violação ao Magno Texto. 3. Precedente: RE 419.075, 1a Turma, Relator Ministro Marco Aurélio. Agravo regimental desprovido”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
