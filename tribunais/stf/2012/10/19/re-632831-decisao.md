@@ -1,0 +1,10 @@
+DECISÃO: A controvérsia suscitada no presente recurso extraordinário já foi dirimida por ambas as Turmas do Supremo Tribunal Federal (RE 565.365-AgR/SP, Rel. Min. ELLEN GRACIE):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO SINDICAL RURAL. (…). 2. ALEGAÇÃO DE BITRIBUTAÇÃO: INAPLICABILIDADE DO ART. 154 DA CONSTITUIÇÃO DA REPÚBLICA. (…). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (AI 765.246-AgR/SP, Rel. Min. CÁRMEN LÚCIA)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito desta Corte, a propósito da questão que ora se examina nesta sede recursal (AI 512.832/SP, Rel. Min. CARLOS VELLOSO – AI 540.433/SP, Rel. Min. CARLOS VELLOSO – AI 739.052/SP, Rel. Min. RICARDO LEWANDOWSKI – AI 767.855/SP, Rel. Min. GILMAR MENDES – RE 466.795/SP, Rel. Min. EROS GRAU – RE 491.048/SP, Rel. Min. DIAS TOFFOLI – RE 510.721/SP, Rel. Min. EROS GRAU – RE 578.956/SP, Rel. Min. ELLEN GRACIE – RE 590.362/SP, Rel. Min. ELLEN GRACIE – RE 595.493/SP, Rel. Min. DIAS TOFFOLI – RE 597.062/SP, Rel. Min. CÁRMEN LÚCIA – RE 602.044/SP, Rel. Min. JOAQUIM BARBOSA – RE 602.062/SP, Rel. Min. CÁRMEN LÚCIA – RE 602.064/SP, Rel. Min. MARCO AURÉLIO – RE 606.822/SP, Rel. Min. DIAS TOFFOLI – RE 628.216/SP, Rel. Min. CÁRMEN LÚCIA – RE 630.266/SP, Rel. Min. GILMAR MENDES – RE 632.139/SP, Rel. Min. JOAQUIM BARBOSA – RE 633.699/SP, Rel. Min. LUIZ FUX – RE 703.283/SP, Rel. Min. MARCO AURÉLIO, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e em face das razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A), em ordem a reconhecer a plena validade jurídico-constitucional da base de cálculo da contribuição sindical rural, determinando, em consequência, uma vez superada essa questão, que o E. Tribunal de Justiça local julgue, como entender de direito, o recurso de apelação interposto na presente causa.
+    Publique-se.
+    Brasília, 19 de outubro de 2012.
+Ministro CELSO DE MELLO
+Relator
