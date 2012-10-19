@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento o Estado de São Paulo. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Argui a nulidade da decisão agravada, examinado o mérito do extraordinário pelo Tribunal a quo.
+    Contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Inocorrente a nulidade suscitada na minuta do agravo, consabido que o juízo de admissibilidade a quo não vincula nem torna precluso o reexame da matéria pelo juízo ad quem. No preciso dizer de Barbosa Moreira, in Comentários ao Código de Processo Civil, da Forense, o juízo positivo de admissibilidade proferido pelo órgão perante o qual interposto o recurso não basta para assegurar a obtenção do novo julgamento perseguido, seja pela possibilidade de advir algum fato que torne inadmissível o recurso, seja por não ficar preclusa a reapreciação da matéria pelo órgão ad quem, que procederá livremente ao controle da admissibilidade, inclusive para declarar insatisfeito algum ou mais de um dos pressupostos tidos, no juízo a quo, como cumpridos (vol. 5, 10ª ed., pp. 265-6).
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca do preenchimento dos requisitos para obter a imunidade pretendida, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: AI 848.281-AgR/MG, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 04.10.2011; RE 607.238-AgR/MG, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 06.02.2012; e RE 625.529-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 15.8.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IPTU. LIMITAÇÕES AO PODER DE TRIBUTAR. IMUNIDADE. CF/88, ARTIGO 150, VI, “C” e § 4º. UTILIZAÇÃO DO IMÓVEL NAS FINALIDADES ESSENCIAIS DA ASSOCIAÇÃO. VERIFICAÇÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. A imunidade tributária e o preenchimento dos seus requisitos constitucionais (CF, art. 150, VI, “c”) e legais não são aferíveis no e. STF posto encerrar a matéria o reexame de conteúdo relativo a fatos e provas inseridos nos autos, o que é inviável nesta instância mercê do teor da Súmula 279/STF, verbis: “Para simples reexame de prova não cabe recurso extraordinário”. Agravo regimental provido para não conhecer do recurso extraordinário.”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
