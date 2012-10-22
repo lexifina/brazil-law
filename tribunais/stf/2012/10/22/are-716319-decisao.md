@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL - RECURSO DE APELAÇÃO - DESPROVIMENTO - MANIFESTO CONFRONTO COM A JURISPRUDÊNCIA DOMINANTE DO PRÓPRIO TRIBUNAL - PRONUNCIAMENTO MONOCRÁTICO DO RELATOR - ADMISSIBILIDADE - AGRAVO INTERNO - DIVERGÊNCIA ENTRE OS PARADIGMAS JURISPRUDENCIAIS QUE FUNDAMENTARAM A DECISÃO E O ENTENDIMENTO DOS TRIBUNAIS SUPERIORES – INSUBSISTÊNCIA.
+    1. Correto se revela provimento jurisdicional do relator que, vislumbrando o manifesto confronto do recurso de apelação com a jurisprudência dominante do próprio tribunal, a ele nega provimento, por força do regramento ínsito no artigo 557 do Estatuto Processual Civil.
+    2. Revela-se insubsistente a alegação de divergência jurisprudencial quando não demonstrado o dissenso entre os paradigmas que fundamentaram a decisão que negou provimento ao recurso de apelação e o entendimento dos Tribunais Superiores.
+    3. Agravo interno desprovido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, XXXVI, LIV e LV, 93, IX, e 202, §§ 1º e 6º, da mesma Carta.
+    A pretensão recursal não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas do regulamento da entidade de previdência privada, o que atrai a incidência das Súmulas 279 e 454 do STF. Incabível, portanto, o recurso extraordinário. Nesse mesmo sentido, AI 751.346-AgR/RS, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS STF 279 E 454. VIOLAÇÃO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+    1. Apreciação do recurso extraordinário que requer a análise de interpretação de cláusulas contratuais e de fatos e provas da causa (Súmulas/STF 279 e 454), além de matéria de índole ordinária, hipóteses inviáveis na via do apelo extremo.
+    2. Ausência de pronunciamento explícito da matéria constitucional alegadamente violada. Precedentes.
+    3. Agravo regimental improvido”.
+    Nesse mesmo sentido: AI 844.541/DF, AI 819.552/DF, Rel. Min. Joaquim Barbosa; AI 829.053/DF, Rel. Min. Dias Toffoli; ARE 644.752/DF, AI 844.577/DF, de minha relatoria; ARE 644.481/DF, Rel. Min. Cármen Lúcia; AI 807.827/DF, Rel. Min. Gilmar Mendes; e AI 810.356/DF, Rel. Min. Ayres Britto.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
