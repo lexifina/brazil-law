@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. TRIBUTÁRIO. IPTU. IMUNIDADE. ENTIDADE SEM FINS LUCRATIVOS. 1) IMPOSSIBILIDADE DO REEXAME DE PROVAS E DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. PRECEDENTES. 2) RECURSO ESPECIAL: NEGADO SEGUIMENTO NO SUPERIOR TRIBUNAL DE JUSTIÇA; PRECLUSÃO DA MATÉRIA CONSTITUCIONAL. ART. 512 DO CÓDIGO DE PROCESSO CIVIL: AUSÊNCIA DE SUBSTITUIÇÃO PROCESSUAL. PRECEDENTES. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem como objeto o seguinte julgado do Superior Tribunal de Justiça:
+    “TRIBUTÁRIO. IPTU. EMBARGOS À EXECUÇÃO. IMUNIDADE. ART. 14 DO CTN. NÃO RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÔNUS DA PROVA. ART. 333 DO CPC.
+    1. O Tribunal a quo, após apreciação de toda documentação acostada aos autos, decidiu que não foram cumpridos os requisitos exigidos pelo art. 14 do CTN para a concessão da imunidade. Dessa forma, para rever tal fundamentação, é necessário o reexame do conjunto fático-probatório dos autos, o que, em face do entendimento consagrado na Súmula n. 7 do Superior Tribunal de Justiça, não é possível em sede de recurso especial.
+    2. No presente caso, trata-se de embargos à execução, cujo objetivo é desconstituir o crédito, o título ou a relação processual. Assim como cabe ao executado-embargante o ônus da prova de sua pretensão desconstitutiva, incumbe ao embargado, réu no processo de embargos à execução, a prova do fato impeditivo, modificativo ou extintivo do direito do autor (art. 333, II, do CPC).
+    3. Ocorre que, como afirmado pelo acórdão recorrido, o executado-embargante não fez a prova do preenchimento dos requisitos para a concessão da imunidade, não havendo como imputar à Fazenda Pública o ônus da prova de sua pretensão desconstitutiva, se não ocorreu a comprovação do fato constitutivo do direito do embargante.
+    4. Agravo regimental não provido” (fl. 234).
+    2. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência na espécie das Súmula n. 282 e 356 do Supremo Tribunal Federal (fls. 274-275).
+    3. O Agravante alega que teria sido contrariado o art. 150, inc. VI, alínea c, da Constituição da República.
+    Argumenta que “é inconcebível que o Poder Judiciário encarregado da aplicação das leis, venha no presente caso, reiteradamente, se negando a reconhecer o direito do recorrente à imunidade ao IPTU, mesmo diante do Estatuto Social do recorrente, sua Lei Maior, em que este se obriga ao cumprimento dos requisitos do artigo 14, do Código Tributário Nacional” (fl. 248).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a matéria constitucional no momento processual adequado.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional) e o reexame do conjunto fático-probatório constante dos autos. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMUNIDADE. IPTU. COMPROVAÇÃO DA UTILIZAÇÃO DO IMÓVEL NAS FINALIDADES ESSENCIAIS DA ASSOCIAÇÃO. SÚMULA 279. AGRAVO IMPROVIDO I – Para dissentir do acórdão recorrido, no que tange à a solução da controvérsia sobre a comprovação da utilização do imóvel nas finalidades essenciais da associação, necessário seria o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. II – Agravo regimental improvido” (Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.4.2011).
+    "CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IPTU. IMUNIDADE. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA STF 279. 1. Para dissentir do acórdão impugnado, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula STF 279. 2. Agravo regimental a que se nega provimento” (RE 628.120-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.8.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMUNIDADE. PREENCHIMENTO DOS REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 766.290-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010 ).
+    8. Ademais, o acórdão recorrido não substituiu a decisão de segundo grau, pois o Superior Tribunal de Justiça negou seguimento ao recurso especial interposto pelo ora Agravante (art. 512 do Código de Processo Civil).
+    Assim, estão preclusas eventuais questões constitucionais discutidas pelo Tribunal de Justiça do Rio de Janeiro (como a controvérsia sobre a aplicabilidade do art. 150, inc. VI, alínea c, da Constituição Federal). Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA: PRECLUSÃO DA MATÉRIA CONSTITUCIONAL. ART. 512 DO CÓDIGO DE PROCESSO CIVIL: AUSÊNCIA DE SUBSTITUIÇÃO PROCESSUAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 832.659-AgR, de minha relatoria, Primeira Turma, Dje 6.5.2011).
+    No mesmo sentido: RE 194.382, Rel. Min. Maurício Corrêa, Plenário, DJ 25.4.2003; RE 191.454, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 8.6.1999; RE 178.215, Rel. Min. Moreira Alves, Primeira Turma, DJ 6.8.1999.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, dou provimento ao agravo e nego seguimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 23 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
