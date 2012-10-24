@@ -1,0 +1,31 @@
+Decisão: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição Federal) que tem como violado o disposto no art. 5º, XLVI, LVI e LVII, da Carta Magna.
+    Consta dos autos que o ora recorrente foi condenado como incurso no art. 289, § 1º, do Código Penal, à pena de 04 (quatro) anos e 06 (seis) meses de reclusão e multa, em regime inicial semiaberto.
+    Inconformado, interpôs recurso de apelação, ao qual o Tribunal Regional Federal da 4ª Região deu parcial provimento, em acórdão cuja ementa tem o seguinte teor (fls. 206-207):
+    “PENAL. MOEDA FALSA. ART. 289, § 1º, DO CP. AUTORIA. MATERIALIDADE. COMPROVADAS. PRISÃO EM FLAGRANTE. PRESUNÇÃO DE CULPABILIDADE. DOLO. PENA-BASE. ANTECEDENTES. PERSONALIDADE. CIRCUNSTÂNCIAS DO CRIME. MULTA. REDUÇÃO. AUTORIA. NÃO-COMPROVAÇÃO. PROVA EXCLUSIVAMENTE POLICIAL. INADMISSIBILIDADE. CONFISSÃO EXTRAJUDICIAL. ABSOLVIÇÃO. IN DUBIO PRO REO.
+    1. O agente que guarda moeda que sabe ser inautêntica, comete o delito descrito no art. 289, § 1º, do CP. Condenação de corréu mantida.
+    2. Com a prisão em flagrante do réu, há uma presunção relativa acerca da autoria do fato, incumbindo à defesa, a teor da regra do art. 156 do CPP, produzir as provas tendentes a demonstrar a sua inocência e a inverossimilhança da tese acusatória.
+    3. Da mesma forma que incumbe à acusação provar a existência do fato e demonstrar sua autoria, assim como o elemento subjetivo, é ônus da defesa, a teor do art. 156, 1ª parte, do CPP, certificar a verossimilhança das teses invocadas em seu favor. A técnica genérica de negativa de autoria dissociada do contexto probatório não tem o condão de repelir a sentença condenatória.
+    4. É de se ter por comprovado o dolo, no crime de moeda falsa, quando o conjunto indiciário indica que o agente sabia ser inautêntica a moeda guardada e quando a versão por ele apresentada em juízo não alcança grau razoável de verossimilhança.
+    5. A mera presunção genérica de que o agente agiu sem dolo não é suficiente para repelir a responsabilidade criminal, notadamente quando ele não reúne qualquer esforço no sentido de coletar provas tendentes a corroborar a verossimilhança das teses defensivas.
+    6. Os registros criminais que apontam condenações com trânsito em julgado poderão, na aferição da pena-base, ser considerados a título de maus antecedentes. No entanto, o histórico delitivo do acusado não pode ser desvalorado, novamente, quando da análise da diretriz personalidade sob pena de bis in idem, porquanto se estaria utilizando da mesma fundamentação, qual seja, a índole criminosa do denunciado para exasperar a pena também nessa vetorial.
+    7. Possível a valoração negativa das circunstâncias do crime na fixação da pena-base, tendo-se em conta que o réu foi preso em flagrante após o cometimento de dois sequestros-relâmpagos, que na ocasião ele portava arma de fogo e estava utilizando-se de sua residência para depósito de objetos roubados, inclusive o próprio falsum.
+    8. A pena de multa, de acordo com a orientação perfilhada pela 4ª Seção da Corte, deve guardar simetria com a quantificação da sanção privativa de liberdade final (EIACR n.º 2002.71.13.003146-0/RS, Rel. Des. Federal Luiz Fernando Wowk Penteado, DJE 05.06.2007).
+    9. As provas colhidas na fase inquisitorial, por si só, não são suficientes a amparar uma condenação, pois o inquérito policial constitui mero procedimento administrativo, de caráter investigatório, destinado a fornecer ao órgão acusatório os subsídios necessários para a propositura da ação penal, não estando submetido ao crivo do contraditório.
+    10. A confissão extrajudicial apenas terá validade como elemento de convicção do juiz quando confirmada por outras provas colhidas durante a instrução processual, perante a autoridade judicial.
+    11. Se o parquet não se desincumbiu de provar a autoria da ação proibida descrita na denúncia, ônus que lhe é atribuído pelo art. 156 do CPP, impõe-se a absolvição do agente, por força do princípio in dubio pro reo. Absolvição de corréu mantida.”
+    Os embargos de declaração opostos foram desprovidos.
+    Nas razões recursais, alega-se violação ao princípio da presunção da inocência, uma vez que o acórdão recorrido imputou ao réu o ônus de comprovar que não agiu com o dolo exigido para configurar o crime em questão.
+    Sustenta-se que em momento algum o Ministério Público trouxe aos autos provas destinadas à comprovação do elemento subjetivo do tipo, ou seja, o dolo. Logo, considerando a insuficiência de provas torna-se imprescindível uma decisão em favor do réu.
+    Afirma-se haver uma anomalia entre as penas previstas para os § § 1º e 2º do art. 289 do Código Penal, uma vez que a pena de quem “conhece a falsidade” é mais branda do que a daquele que “poderia conhecer”, o que fere o princípio da proporcionalidade.
+    Pretende-se seja aplicada a sanção prevista no preceito secundário do referido § 2º, mesmo que a conduta se subsuma ao § 1º.
+    Decido.
+    Inicialmente, o recurso extraordinário, ao alegar que o acórdão recorrido ofende o princípio da proporcionalidade, versa questão constitucional não ventilada na decisão recorrida. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta da apelação, deduz matéria estranha à controvérsia, incidindo no óbice da Súmula 282.
+    Ademais, verifico que a suposta violação ao mencionado princípio demandaria o exame prévio da legislação infraconstitucional, de modo que se trata de alegação de ofensa indireta ou reflexa ao texto constitucional.
+    Nesse sentido: RE 630.405, rel. min. Ayres Britto, DJ de 08.09.2011; RE 634.992, rel. min. Ricardo Lewandowski, DJ de 02.09.2011 e RE 647.884, rel. min. Luiz Fux, DJ de 01.09.2011.
+    Por fim, a análise das questões constitucionais suscitadas nas razões recursais implica reexame dos fatos e provas que fundamentaram as conclusões da decisão recorrida. Isso inviabiliza o processamento do recurso, ante a vedação contida no enunciado da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao recurso extraordinário (art. 38 da Lei 8.038/1990, c/c o art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 24 de outubro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
