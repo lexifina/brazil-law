@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa tem o seguinte teor:
+    “APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA – SEGURO OBRIGATÓRIO - DPVAT - ATENDIMENTO HOSPITALAR - PRONTO SOCORRO - TERMO DE CESSÃO DE DIREITOS DOS PACIENTES À MANTENEDORA DO HOSPITAL - RESOLUÇÃO CNSP - TABELAMENTO - IMPOSSIBILIDADE - ESTIPULAÇÃO DA COBERTURA EM QUANTITATIVO DE SALÁRIOS MÍNIMOS - ADMISSIBILIDADE – CORREÇÃO MONETÁRIA - À PARTIR DO 15º DIA DO PROTOCOLO - JUROS DE MORA - DA CITAÇÃO - SENTENÇA - MANUTENÇÃO - APELAÇÃO - NEGA PROVIMENTO.
+    1.- O reembolso deve ser integral do valor estritamente comprovado das DAMS (Despesas de Assistência Médica e Suplementares), respeitando o limite estabelecido em lei, e não com base na tabela de parâmetros de seguro DPVAT adotada pela agravante, com base em resolução do CNSP;
+    2.- O fato de ter sido publicada a Lei 6.205/75 que estabeleceu a descaracterização do salário mínimo como fator de correção monetário não tem correlação com o presente caso, já que aqui o salário mínimo é utilizado como critério para fixar a indenização e não se confundindo com a sua utilização como fator de reajuste vedado pelo referido texto legal.” (e-STJ Fls. 5979 – Grifei.)
+    Nas razões do recurso extraordinário, a agravante alega violação do disposto no art. 7º, IV, da Constituição.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal já se pronunciou definitivamente, no julgamento da ADI 1.425 (DJ 26.03.1999), entendendo que o art. 7º, IV, da Carta Magna quis evitar que interesses estranhos aos versados na norma constitucional venham a ter influência na fixação do valor do mínimo a ser observado.
+    Nesse sentido, vários julgados desta Corte têm proibido a utilização do salário mínimo como fator de atualização da indenização (RE 205.455, DJ 06.04.2001; RE 225.488, DJ 16.06.2000; RE 140.940, DJ 15.09.1995, v.g. ).
+    Contudo, não há problema quando a condenação, apesar de fixada em múltiplo de salários mínimos, tem apenas a intenção de expressar o valor inicial da indenização, o qual, se necessário, será atualizado pelos índices oficiais de correção monetária. Confiram-se as seguintes decisões que manifestam esse entendimento:
+    “EMENTA: CONSTITUCIONAL. INDENIZAÇÃO: SALÁRIO-MÍNIMO. C.F., art. 7º, IV.
+    I. - Indenização vinculada ao salário-mínimo: impossibilidade. C.F., art. 7º, IV. O que a Constituição veda - art. 7º, IV - é a fixação do quantum da indenização em múltiplo de salários-mínimos. STF, RE 225.488/PR, Moreira Alves; ADI 1.425. A indenização pode ser fixada, entretanto, em salários-mínimos, observado o valor deste na data do julgamento. A partir daí, esse quantum será corrigido por índice oficial.
+    II. - Provimento parcial do agravo: RE conhecido e provido, em parte.” (RE 409.427-AgR, rel. min. Carlos Velloso, Segunda Turma, DJ 02.04.2004)
+    “EMENTA: Vinculação ao salário mínimo: a vedação do art. 7º, IV, da Constituição, restringe-se à hipótese em que se pretenda fazer das elevações futuras do salário mínimo índice de atualização da indenização fixada; não, qual se deu no acórdão recorrido, se o múltiplo do salário mínimo é utilizado apenas para expressar o valor inicial da condenação, a ser atualizado, se for o caso, conforme os índices oficiais da correção monetária.” (RE 389.989, rel. min. Sepúlveda Pertence, Primeira Turma, DJ 05.11.2004).
+    No mesmo sentido, leia-se a ementa do AI 738.177-AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 19.06.2012):
+     “Agravo regimental no agravo de instrumento. Civil e Constitucional. Indenização. DPVAT. Lei nº 6.194/74 (redação original). Regulamento do CNSP. Valor obtido no caso concreto. Legislação infraconstitucional. Ofensa reflexa. Fixação da condenação em salários mínimos vigentes à época. Possibilidade. Precedentes.
+    1. O Tribunal de origem concluiu que o regulamento expedido pelo Conselho Nacional de Seguros Privados contrariou a previsão contida na Lei nº 6.194/74 acerca do valor a ser reembolsado às vítimas de acidentes de trânsito. Divergir desse entendimento demandaria a análise da legislação infraconstitucional, o que é inadmissível em recurso extraordinário. Incidência da Súmula nº 636/STF.
+    2. Este Tribunal já afirmou, no exame da ADPF nº 95/DF-MC, que o art. 7º, inciso IV, da Carta Magna não vedaria, a priori, a fixação do valor da condenação em múltiplos de salários mínimos para os fins indenizatórios previstos na Lei nº 6.194/74.
+    3. É firme a jurisprudência desta Corte de que é legítima a utilização do salário mínimo quando se tiver por finalidade apenas a expressão do valor inicial da indenização, o qual, se necessário, será atualizado pelos índices oficiais de correção monetária.
+    4. Agravo regimental não provido.” (Grifo original.)
+    O acórdão não divergiu deste entendimento.
+    Do exposto, nos termos do art. 544, § 4º, II, b, do Código de Processo Civil, conheço do agravo, mas nego-lhe seguimento.
+    Publique-se.
+    Brasília, 24 de outubro de 2012.
+Ministro Joaquim Barbosa
+Relator
