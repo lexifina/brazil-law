@@ -1,0 +1,12 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Superior Tribunal de Justiça, assim ementado:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRIBUIÇÃO AO EXTINTO INSTITUTO DE PREVIDÊNCIA DOS PARLAMENTARES – IPC. DEVOLUÇÃO AOS EX-SEGURADOS. CABIMENTO. ENTENDIMENTO CONSAGRADO EM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA (Resp 1.122.387/DF). AGRAVO NÃO PROVIDO.
+    1. A Primeira Seção do Superior Tribunal de Justiça, ao julgar recurso especial representativo de controvérsia, processado e julgado sob o rito do art. 543-C do CPC, dirimiu a controvérsia existente e firmou compreensão segundo a qual é devido aos congressistas o ressarcimento dos valores pagos a título de contribuição dos segurados ao extinto Instituto de Previdência dos Parlamentares – IPC (REsp 1.122.387/DF, Rel. Min. LUIZ FUX, Primeira Seção, DJe 10/9/10).
+    2. Agravo regimental não provido.”
+    Sustenta-se, em síntese, a violação do art. 97, da Carta Magna.
+    Observo que a simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, tão-somente por si, violação da orientação firmada pelo Supremo Tribunal Federal quanto à reserva de plenário. Por exemplo, é possível que dada norma não sirva para desate do quadro submetido ao crivo jurisdicional pura e simplesmente porque não há subsunção. Para caracterização da ofensa ao art. 97 da Constituição, que estabelece a reserva de Plenário (full bench) para declaração de inconstitucionalidade, é necessário que a causa seja decidida sob critérios diversos, alegadamente extraídos da Constituição, de modo a levar ao afastamento implícito ou explícito da norma por incompatibilidade com a Constituição.
+    No presente caso não era necessário instaurar o procedimento do art. 97 da Lei Maior, pois o aresto vergastado não considerou inconstitucional o art. 1º, § 5º, da Lei 9.506/97, mas apenas utilizou princípio constitucional, na aplicação da analogia, para estender o direito de ressarcimento, previsto no § 5º, a categoria de ex-segurados que não estava prevista em seus incisos. Dessa forma, eventual equívoco da decisão, ocorreria apenas na má aplicação da legislação infraconstitucional, não tendo havido declaração de inconstitucionalidade, explícita ou implícita.
+    Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
