@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. REMOÇÃO DE MAGISTRADO. AJUDA DE CUSTO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “ADMINISTRATIVO. JUIZ DO TRABALHO. REMOÇÃO A PEDIDO. DIREITO À AJUDA DE CUSTO.
+    1. Os magistrados têm direito à ajuda de custo prevista no artigo 65, I, da LOMAN, independentemente de a remoção ocorrer a pedido do interessado ou ex officio.
+    2. Na ausência de norma regulamentadora, aplica-se subsidiariamente o disposto no art. 53 da Lei nº 8.112/90”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega que o Tribunal a quo teria contrariado os arts. 5°, inc. XXXV, LIV e LV, 93, inc. VIII e 95, inc. II, da Constituição da República.
+    Afirma a nulidade do acórdão recorrido por não ter o Tribunal de origem analisado a “matéria sub judice de forma satisfatória, negando-se a tecer manifestação sobre a tese jurídica exposta pela União, inclusive em sede de embargos”.
+    Assevera que “aquela Corte Regional partiu da equivocada premissa de que o deferimento do pedido de remoção importa, necessariamente, no reconhecimento da existência de interesse público capaz de justificar o pagamento da verba indenizatória prevista no art. 65, I, da LOMAN” e que “ao contrário do que afirma o v. aresto recorrido, a inamovibilidade não é absoluta, e, como não poderia deixar de ser, sofre limitações frente ao interesse público, observados os requisitos constitucionais”.
+    Sustenta que “in casu, o autor formulou, voluntariamente, pedido de remoção. Via de consequência, não há falar em indenização, porquanto a remoção não teve origem em ato da administração; a mudança de lotação está ocorrendo por força do interesse do recorrido. Via de consequência, por óbvio, não pode a União ser condenada a indenizar algo a que não deu causa. A indenização somente poderá ser paga nas hipóteses dos arts. 93, VIII e 95, II, da Constituição Federal”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa constitucional, se tivesse ocorrido, seria indireta.
+    4. No agravo interposto, a Agravante reitera os fundamentos do recurso extraordinário.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6.  Razão jurídica não assiste à Agravante.
+    7. O Tribunal Regional Federal da 4ª Região manteve sentença que decidiu a controvérsia nos seguintes termos:
+    “a jurisprudência dominante aponta no sentido da tese da parte autora, qual seja, do direito do magistrado à ajuda de custo prevista no artigo 65, I, da LOMAN, independentemente de a remoção ocorrer a pedido do interessado ou ex officio, (…) Nesta esteira, as disposições vazadas na LOMAN não especificam condições para a concessão da ajuda de custo aos magistrados, para despesas de transporte e mudança, em virtude de remoção para outra sede em caráter permanente. Na ausência de norma regulamentadora, aplica-se subsidiariamente o disposto no art. 53 da Lei nº 8.112/90 (…) Quanto à ajuda de custo, várias decisões do CNJ, posteriores à Resolução nº 21/2006 do CSTJ, admitiram tal pagamento, a par de estabelecer que é válida a limitação do número de concessões de ajuda de custo, variando a periodicidade”.
+    O acórdão recorrido fundamentou-se na legislação infraconstitucional, especificamente a Lei Orgânica da Magistratura (Lei Complementar n. 35/1979) e a Lei n. 8.112/1990. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta.
+    Confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ANULAÇÃO DE ATO ADMINISTRATIVO. REMOÇÃO DE SERVIDORES. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 676.309-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+    “ RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – AUSÊNCIA DE PREQUESTIONAMENTO – OFENSA INDIRETA À CONSTITUIÇÃO – CONTENCIOSO DE MERA LEGALIDADE – RECURSO IMPROVIDO. - A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza – ante a falta de prequestionamento explícito da controvérsia jurídica – a utilização do recurso extraordinário. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária” (ARE 698.927-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 24.10.2012).
+    8. Ademais, o Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    E, ainda, a seguinte decisão monocrática transitada em julgado: ARE n. 645.496-ED, Rel. Min. Gilmar Mendes, DJe 19.9.2012.
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
