@@ -1,0 +1,12 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONALIDADE, OU NÃO, DO ART. 10 DA LEI 10.666/03 E DE SUA REGULAMENTAÇÃO PELO ART. 202-A DO DECRETO 3.048/99, COM A REDAÇÃO CONFERIDA PELO DECRETO 6.957/09. DISPOSITIVOS QUE DISCIPLINARAM A REDUÇÃO OU MAJORAÇÃO DAS ALÍQUOTAS DO SEGURO DO ACIDENTE DO TRABALHO – SAT, ATUALMENTE DENOMINADO RISCOS AMBIENTAIS DO TRABALHO – RAT, EM RAZÃO DO DESEMPENHO DA EMPRESA, A SER AFERIDO DE ACORDO COM O FATOR ACIDENTÁRIO DE PREVENÇÃO – FAP, FIXADO A PARTIR DE ÍNDICES CALCULADOS SEGUNDO METODOLOGIA APROVADA PELO CONSELHO NACIONAL DE PREVIDÊNCIA SOCIAL, ÓRGÃO INTEGRANTE DO PODER EXECUTIVO. REPERCUSSÃO GERAL RECONHECIDA NO RE 684.261. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos – constitucionalidade, ou não, do art. 10 da Lei 10.666/2003 e de sua regulamentação pelo art. 202-A do Decreto 3.048/99, com a redação conferida pelo Decreto 6.957/2009. Dispositivos que disciplinaram a redução ou a majoração das alíquotas de contribuição ao Seguro do Acidente do Trabalho – SAT, atualmente denominado Riscos Ambientais do Trabalho - RAT, em razão do desempenho da empresa, a ser aferido de acordo com o Fator Acidentário de Prevenção - FAP, fixado a partir de índices calculados segundo metodologia aprovada pelo Conselho Nacional de Previdência Social, órgão integrante do Poder Executivo. O tema será submetido à apreciação do Pleno desta Corte, nos autos do RE 684.261, de que sou relator.
+    In casu, o acórdão recorrido assentou:
+    “TRIBUTÁRIO. SAT/RAT. FAP - SEGURO DE ACIDENTE DO TRABALHO. ART. 10 DA LEI 10.666/03. ART. 202-A DO DECRETO 3.048/99. CONSTITUCIONALIDADE. LEGALIDADE.
+    1. Não há falar em ilegalidade do art. 202-A do Dec. nº 3.048/1999 e das Resoluções CNPS nº s 1.308/2009 e 1.309/2009, em razão de o Fator Acidentário de Prevenção - FAP estar expressamente previsto no art. 10 da Lei nº 10.666/2003, sendo certo que o Dec. nº 6.957/2009 não inovou em relação ao disposto nas Leis nº s 8.212/1991 e 10.666/2003, porquanto somente dispôs sobre as hipóteses de incidência às quais serão aplicáveis as alíquotas.
+    2. Orientação firmada no âmbito deste Tribunal.”
+    Ante a similitude do tema, determino a devolução dos autos ao Tribunal de origem (artigo 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
