@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “RECURSO ESPECIAL. PROCESSO PENAL. CRIME DE CONTRABANDO. TESE DE VIOLAÇÃO AOS ARTS. 386, INCISO III, E 397, INCISO III, DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE DE SE VERIFICAR O CONHECIMENTO, POR PARTE DO ACUSADO, DA ORIGEM ESTRANGEIRA DAS MÁQUINAS APREENDIDAS E SEUS COMPONENTES SEM A DEVIDA DILAÇÃO PROBATÓRIA. RECURSO ESPECIAL PROVIDO.
+    1. É incabível a absolvição sumária quando não evidenciada qualquer das hipóteses previstas nos incisos I a IV do art. 397 do Código de Processo Penal.
+    2. No caso dos autos, sendo ponto controvertido o conhecimento, por parte da Acusada, da procedência estrangeira das máquinas apreendidas e de seus componentes, mostra-se descabido o afastamento do dolo do agente sem a devida instrução probatória.
+    3. Recurso especial provido.”
+    (REsp 1.253.380/ES, Rel. Min. LAURITA VAZ – grifei)
+    Busca-se, na presente sede processual, (a) “(...) a concessão da ordem para restabelecer a decisão da 2ª Turma do TRF/2ª Região que manteve a absolvição sumária do acusado”; (b) “a extinção da punibilidade do paciente em decorrência do cumprimento da medida despenalizadora fixada na sentença que homologa acordo de suspensão condicional do processo”; ou, alternativamente, (c) “que se conceda ‘habeas corpus’ de ofício, para anular todos os atos processuais praticados posteriormente à decisão proferida pela Desembargadora Federal Vice-Presidente do TRF da 2ª Região que atribuiu a defesa técnica do paciente à Defensoria Pública da União sem lhe dar conhecimento da desídia do advogado por ele constituído” (grifei).
+    Sendo esse o contexto, passo a apreciar o pedido de medida liminar. E, ao fazê-lo, entendo que o exame dos fundamentos em que se apoia a presente impetração parece descaracterizar – ao menos em juízo de estrita delibação – a plausibilidade jurídica da pretensão cautelar deduzida nesta sede processual.
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 – RTJ 129/1199 – RTJ 136/1221 – RTJ 163/650-651 – RTJ 165/877-878 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    A análise da controvérsia, na perspectiva sugerida pela parte impetrante, parece tornar necessária a interpretação do conjunto probatório emergente do processo penal de conhecimento, o que, em princípio, constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198).
+    Sendo assim, sem prejuízo de ulterior reapreciação da matéria, quando do julgamento final do presente “writ” constitucional, indefiro o pedido de medida cautelar.
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministro CELSO DE MELLO
+Relator
