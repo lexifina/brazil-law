@@ -1,0 +1,19 @@
+Vistos etc.
+    O Tribunal de Justiça do estado do Rio Grande do Sul considerou legais as disposições dos Decretos estaduais 44.052/2005 e 44.080/2005, os quais concederam benefícios para a quitação, em moeda corrente, de débitos fiscais.
+    Nas razões do extraordinário, com base no art. 102, III, “a”, da Lei Maior, Fabris Indústria e Comércio de Calçados Ltda, aponta violação dos arts. 5º, caput, 150, II, e 155, § 2º, II, da Constituição Federal. Alega a inconstitucionalidade do Decreto Estadual 44.080/2005, violado o princípio da isonomia. Afirma possuir direito de compensar débitos com créditos fiscais e, conjuntamente, usufruir os benefícios previstos no Decreto Estadual 44.052/2005.
+    Contrarrazões.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: AI 215.933-AgR/MG, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 31.3.2011; AI 744.178-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 1º.3.2011; e AI 820.651-ED/RR, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 03.8.2012, cuja ementa transcrevo:
+    “Embargos de declaração no agravo de instrumento. Conversão dos embargos declaratórios em agravo regimental. Tributário. ICMS. Base de cálculo. Portarias. Ofensa reflexa. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 3. Inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional e o exame de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 280/STF. 4. Agravo regimental não provido.”.
+    Ressalto a jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que, quando uma norma infralegal vai além de regular a lei que lhe confere validade, não se tem uma inconstitucionalidade, mas sim ilegalidade. Incabível a análise em recurso extraordinário, admitido apenas o exame de ofensa direta à Carta Maior. Nesse sentido: AI 828.938-AgR/CE, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 1º.8.2011; e AI 745.965-AgR/RJ, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 29.6.2011, cuja ementa transcrevo:
+    “Agravo regimental em agravo de instrumento. 2. Portaria e poder regulamentar. Inviável o prosseguimento do recurso extraordinário quando a averiguação da afronta ao princípio da legalidade demanda análise de legislação infraconstitucional. Verbete 636 da Súmula desta Corte. 3. Ausência de argumentos suficientes para infirmar a decisão recorrida. 4. Agravo regimental a que se nega provimento.”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
