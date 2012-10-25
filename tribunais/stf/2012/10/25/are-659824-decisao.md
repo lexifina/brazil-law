@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Nona Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL - INDENIZAÇÃO - PRELIMINARES - AUSÊNCIA DE REGULARIDADE FORMAL - ILEGITIMIDADE PASSIVA - REJEIÇÃO - TABELIONATO DE NOTAS - PROCURAÇÃO FALSA - OFICIAIS DE REGISTRO E NOTÁRIOS - RESPONSABILIDADE OBJETIVA - DANO MORAL E MATERIAL - DEVER DE REPARAÇÃO.
+    Tendo a parte recorrente observado o disposto no artigo 514 do Código de Processo Civil, não há que se falar em não conhecimento do recurso por ausência de regularidade formal.
+    O tabelião titular da serventia poderá ser responsabilizado por eventuais danos decorrentes dos atos praticados no serviço extrajudicial causados ao particular. Inteligência do artigo 22 da Lei 8.935/94.
+    Tendo a parte sofrido danos morais e materiais em decorrência da lavratura da procuração sabidamente falsa pelo Serviço Notarial, deverá o tabelião ser responsabilizado objetivamente, independente de dolo ou culpa, conforme artigo 37, §6º da Constituição da República” (Vol. 6).
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário (vol. 7) sustenta-se violação do artigo 37, paragrafo 6º, da Constituição Federal, uma vez que “sendo o notário um funcionário público, a ele não se aplica a responsabilidade objetiva, pois esta é exclusiva da pessoa jurídica, respondendo a pessoa física do funcionário, apenas, por responsabilidade subjetiva, no direito de regresso se provados o dolo ou culpa”.
+    Decido.
+    Merece prosperar a irresignação, haja vista que o acórdão recorrido não está em sintonia com a jurisprudência firmada por esta Corte, no sentido de reconhecer a responsabilidade objetiva do Estado por danos causados a terceiros por serventuários titulares de cartórios e registros extrajudiciais. Sobre o tema, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE EXTRACONTRATUAL DO ESTADO. TABELIÃO. AGENTE PÚBLICO. ART. 37, § 6º, DA CF/88. 1. A função eminentemente pública dos serviços notariais configura a natureza estatal das atividades exercidas pelos serventuários titulares de cartórios e registros extrajudiciais. RE 209.354/PR. 2. Responsabilidade extracontratual do Estado caracterizada. 3. Reexame de fatos e provas para eventual desconstituição do acórdão recorrido. Incidência da Súmula STF n. 279. 4. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 5. Agravo regimental improvido” (RE n° 551.156/SC-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 3/4/09)”.
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. TABELIÃO. TITULARES DE OFÍCIO DE JUSTIÇA: RESPONSABILIDADE CIVIL. RESPONSABILIDADE DO ESTADO. C.F. , art. 37, § 6º. I. - Natureza estatal das atividades exercidas pelos serventuários titulares de cartórios e registros extrajudiciais, exercidas em caráter privado, por delegação do Poder Público. Responsabilidade objetiva do Estado pelos danos praticados a terceiros por esses servidores no exercício de tais funções, assegurado o direito de regresso contra o notário, nos casos de dolo ou culpa (C.F., art. 37, § 6º). II. - Negativa de trânsito ao RE. Agravo não provido” (RE nº 209.354/PR-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 16/4/99).
+    No mesmo sentido, as seguintes decisões monocráticas: AI nº 742.718/RJ, Relator o Ministro Joaquim Barbosa, DJe de 2/2/12; AI nº 853.552/SC, Relator o Ministro Ricardo Lewandowski, DJe de 19/12/11; e ARE nº 661.632/RS, Relatora a Ministra Cármen Lúcia, DJe de 8/11/11.
+    Ante o exposto, conheço do agravo e dou provimento ao recurso extraordinário para, nos termos do artigo 267, inciso VI, do Código de Processo Civil, extinguir o processo sem julgamento de mérito, em razão da ilegitimidade passiva dos ora agravantes. Restabeleço os ônus da sucumbência fixados na sentença.
+    Publique-se.
+    Brasília, 25 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
