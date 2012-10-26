@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento o Conselho Regional de Engenharia, Arquitetura e Agronomia de Santa Catarina – CREAA/SC. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação direta dos arts. 23, 24, e 225, § 1º-V, da Lei Maior. Argui a nulidade da decisão agravada, analisado o mérito do extraordinário pela Corte de origem.
+    Contraminuta.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Inocorrente a nulidade suscitada na minuta do agravo, consabido que o juízo de admissibilidade a quo não vincula nem torna precluso o reexame da matéria pelo juízo ad quem. No preciso dizer de Barbosa Moreira, in Comentários ao Código de Processo Civil, da Forense, o juízo positivo de admissibilidade proferido pelo órgão perante o qual interposto o recurso não basta para assegurar a obtenção do novo julgamento perseguido, seja pela possibilidade de advir algum fato que torne inadmissível o recurso, seja por não ficar preclusa a reapreciação da matéria pelo órgão ad quem, que procederá livremente ao controle da admissibilidade, inclusive para declarar insatisfeito algum ou mais de um dos pressupostos tidos, no juízo a quo, como cumpridos (vol. 5, 10ª ed., pp. 265-6).
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: AI 823.986-AgR/SC, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.3.2011; ARE 652.224-AgR/PR, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 14.3.2012; e RE 603.082-AgR/RJ, Rel. Min. Ayres Britto, 2ª Turma, DJe 13.4.2012, cuja ementa transcrevo:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RECURSO QUE NÃO ATACA TODOS OS FUNDAMENTOS EM QUE SE ASSENTOU A DECISÃO AGRAVADA. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. 1. A parte agravante não ataca todos os fundamentos em que se assentou a decisão impugnada. 2. De mais a mais, entendimento diverso do adotado pela instância judicante de origem demandaria o reexame da legislação infraconstitucional pertinente (cotejo entre a Resolução CREA-NF-08/96 e a Lei 5.149/1966). Providência vedada neste momento processual. 3. Incidência da Súmula 283/STF. 4. Agravo regimental desprovido.”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
