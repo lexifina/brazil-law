@@ -1,0 +1,26 @@
+A matéria restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no ARE 664.335, verbis :
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PREVIDENCIÁRIO. FORNECIMENTO DE EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI COMO FATOR DE DESCARACTERIZAÇÃO DO TEMPO DE SERVIÇO ESPECIAL. RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL.
+    Trata-se de agravo de instrumento contra decisão que negou seguimento a Recurso Extraordinário interposto, com fundamento no artigo 102, III, a, da Constituição Federal, em face de acórdão prolatado pela Primeira Turma Recursal da Seção Judiciária do Estado de Santa Catarina, assim fundamentado:
+    Em se tratando de agente ruído, não há o que se falar em elisão da insalubridade pelo uso de EPI's, nos termos da súmula n. 9 da TNU:
+    O uso de Equipamento de Proteção Individual (EPI) ainda que elimine a insalubridade, no caso de exposição a ruído não descaracteriza o tempo de serviço especial prestado.
+    Não há nenhuma razão para que o teor da súmula não seja aplicado no caso em tela, nem mesmo as regras contidas no Decreto n. 4.882/2003 têm o condão de elidir esse raciocínio, uma vez que não há motivos para que a aplicação da súmula tenha limitação temporal, porquanto não foi revogada.
+    Registra-se, ainda, que o reconhecimento ou não da especialidade está relacionado com o enquadramento da atividade nas categorias profissionais previstas nos decretos regulamentares, ou pela exposição do trabalhador a agentes nocivos a sua saúde.
+    Assim, o reconhecimento da atividade especial não está condicionado ao recolhimento de um adicional sobre as contribuições previdenciárias. E, ainda, se o recolhimento de tais contribuições é devido ou não, deve ser monitorado pelo INSS, em nada interferindo no reconhecimento da especialidade.
+    Dessa forma, a sentença não deve ser reformada.
+    Considero prequestionados os dispositivos enumerados pelas partes nas razões e contrarrazões recursais, especialmente os arts. 195, §50 ; 201, §1°, ambos da Constituição Federal, declarando que a decisão encontra amparo nos dispositivos da Constituição Federal de 1988 e na legislação infraconstitucional, aos quais inexiste violação. O juízo não está obrigado a analisar todos os argumentos e dispositivos indicados pelas partes em suas alegações, desde que tenha argumentos suficientes para expressar sua convicção (fls. 348/349).
+    Nas razões do recurso extraordinário, o recorrente alega a violação dos artigos 195, § 5º, e 201, caput e § 1º, da Constituição da República. Sustenta que:
+    Entende a autarquia federal recorrente que a decisão recorrida ao reconhecer a especialidade do período já referido, ignorando as informações apresentadas no Perfil Profissiográfico Previdenciário (baseado em LTCAT) que comprovaram que a parte autora não exerceu atividade sob condições especiais porque fez uso de equipamentos de proteção individual eficazes, violou o princípio da preservação do equilíbrio financeiro e atuarial ao conceder benefício previdenciário sem a correspondente fonte de custeio.
+    .......................................................................................................
+    (...) improcedente o pedido de reconhecimento de tempo laborado sob condições especiais do período posterior a 11/12/1998 sob a égide da Lei 9.732/98, uma vez que restou provado que a nocividade dos agentes presentes no ambiente de trabalho foi elidida, ou reduzida a níveis toleráveis, pela utilização de Equipamento de Proteção Individual Eficaz com a correspondente desoneração da empresa do pagamento do adicional ao SAT, que tem destinação específica para o custeio das aposentadorias especiais, invertendo-se ainda os ônus da sucumbência (fls. 365 e 377).
+    As razões do recurso extraordinário são antecedidas por preliminar de repercussão geral.
+    O Tribunal a quo negou seguimento ao apelo extremo, sob o fundamento de que a matéria é de índole infraconstitucional (fls. 397 a 398).
+    É o Relatório.
+    A questão constitucional posta à apreciação deste Supremo Tribunal Federal, portanto, cinge-se na discussão, à luz dos artigos 195, § 5º e 201, caput e § 1º da Constituição Federal, da possibilidade, ou não, de o fornecimento de Equipamento de Proteção Individual - EPI -, informado no Perfil Profissiográfico Previdenciário (PPP), descaracterizar o tempo de serviço especial para aposentadoria.
+    A meu juízo, o recurso merece ter reconhecida a repercussão geral, haja vista que o tema constitucional versado nestes autos é questão relevante do ponto de vista econômico, político, social e jurídico, e ultrapassa os interesses subjetivos da causa.
+    Diante do exposto, nos termos do art. 543-A, § 1º, do Código de Processo Civil, combinado com o art. 323, § 1º, do RISTF, manifesto-me pela existência de repercussão geral da questão constitucional suscitada.”
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos de instrumento aos Tribunais ou Turmas Recursais de origem para os fins previstos no art. 543-B do CPC.
+    Devolvam-se os autos à Corte de origem.
+    Publique-se.
+    Brasília, 26 de outubro de 2012.
+Ministra Rosa Weber
+Relatora
