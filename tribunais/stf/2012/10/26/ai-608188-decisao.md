@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –
+MATÉRIA FÁTICA – INTERPRETAÇÃO DENORMAS LEGAIS – INVIABILIDADE – DESPROVIMENTO DOAGRAVO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios declarou a inconstitucionalidade dos artigos 3º e 4º, parágrafo único, da Lei Distrital n° 2.683, de 2001 e do artigo 5°, cabeça e parágrafos 3°, 4o e 5°, da Lei Distrital n° 3.000, de 2002. O acórdão foi assim resumido (folha 108):
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE – ARTIGOS 3o E 4o, E SEU PARÁGRAFO ÚNICO, DA LEI DISTRITAL 2.683, DE 19 DE JANEIRO DE 2.001, E DO ARTIGO 5°, CAPUT, E SEUSPARÁGRAFOS 3°, 4o E 5°, DA LEI DISTRITAL N° 3.000, DE 04 DE JULHO DE 2.002. Evidenciada a inconstitucionalidade material dos artigos 3o e 4o, e seu parágrafo único, da Lei Distrital 2.683, de 19 de janeiro de 2.001, e do artigo 5o, caput, e seus parágrafos 3o, 4o e 5o, da Lei Distrital n° 3.000, de 04 de julho de 2.002, frente aos artigos 19, caput, 25, 26 e 336, caput, todos da Lei Orgânica do Distrito Federal, e de forma incidental, frente aos artigos 37, caput, e seu inciso XXI, e 175, caput, da Constituição Federal, suspende-se com efeitos ex nunc, a contar da publicação do v. acórdão que tratou do pedido liminar, a eficácia dos dispositivos impugnados, que autorizaram o DMTU-DF, que foi sucedido pelo DFTRANS, a expedir permissões emergenciais para a prestação de serviço de transporte público no âmbito do serviço de transporte público alternativo de condomínio - STPAC.
+    Como se observa, o Tribunal de origem declarou, de forma incidental, a inconstitucionalidade de normas distritais em face dos artigos 37, cabeça e inciso XXI, e 175 da Carta da República. Não obstante, as razões expendidas no extraordinário, interposto com alegada base na alinea "a" do inciso III do artigo 102, são de cunho infraconstitucional e dependem do reexame de matéria fática. Em síntese, alegou-se que os dispositivos distritais atacados são constitucionais, pois versam sobre hipótese de dispensa de licitação, permitida na legislação federal.
+    Eventual reforma do acórdão contestado, desse modo, com base nos argumentos aduzidos, implicaria o reexame de fatos, na medida em que assentado pelo Tribunal local a inexistência de situação emergencial a autorizar a edição de ato normativo no qual foi dispensada a licitação para a concessão de serviços públicos. Indispensável, ainda, seria a análise da Lei n° 8.666, de 1993.
+    2.. Conheço do agravo e o desprovejo.
+    3.. Publiquem.
+Brasília, 26 de outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
