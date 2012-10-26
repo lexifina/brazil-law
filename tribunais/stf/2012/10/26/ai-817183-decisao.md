@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Banco Santander (Brasil) S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 93, inciso IX, e 98, inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Recursal da Comarca de Uberaba/MG, assim fundamentado:
+     “A jurisprudência do STJ pacificou-se no sentido de que é da responsabilidade exclusiva dos bancos os valores que não restaram bloqueados pelos planos econômicos, ou seja, até o limite de NCZ$ 50.000,00, sendo de responsabilidade do Banco Central tão somente o excedente a este limite (REsp 487983, REsp 257151, REsp 336048).
+    Assim, para os valores que permaneceram na administração dos bancos não há falar em ilegitimidade passiva.
+    Desnecessária também a produção de prova pericial contábil uma vez que a parte autora/recorrida trouxe aos autos os extratos e os respectivos cálculos, fls. 11/21, não existindo qualquer complexidade que possa impedir a tramitação perante o Juizado Especial.
+    Quanto à prescrição não há dúvidas de que seja vintenária, como vastamente decidido pelos tribunais, inclusive STJ. Observa-se às fls. 03,v que a ação foi proposta ainda em 18/12/2008, portanto, antes de ser configurada a prescrição houve a sua interrupção. Sobre os juros remuneratórios, ao contrário do que afirma o recorrente, estes passam a fazer parte, mês a mês, do valor principal, não se tratando de simples acessório, razão pela qual se aplica a mesma regra prescricional.
+    No mérito, alega o recorrente que o percentual a ser aplicado na correção como determinado na sentença estaria equivocado, pois a fração de 42,72% seria o total, dos quais já houve o pagamento de 22,97% restando apenas 19,75 a ser complementado. Na verdade verifica-se apenas um erro quanto à interpretação da sentença. Conforme se vê às fls. 116, houve a determinação de pagamento da diferença entre o índice de correção monetária já creditado na conta com aquele que deveria ser efetivamente pago. Portanto, no próprio dispositivo já foi concedido o que o recorrente pretende, sem razão seus fundamentos de recurso.
+    Enfim, a correção monetária é forma de adequar a quantia que deveria ter sido paga aos valores atuais, impedindo perda com desvalorização da moeda, sendo devida em qualquer condenação judicial, não havendo que se falar em bis in idem. O pagamento da diferença inflacionária se não corrigida perde valor e não equivaleria à mesma remuneração se hoje fosse determinada” (fls. 156 e 157).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que os artigos constitucionais apontados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 26 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
