@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF04 nº 76, de 17 de outubro de 2012
+ASSUNTO: Imposto sobre Operações de Crédito, Câmbio e Seguros ou relativas a Títulos ou Valores Mobiliários - IOF EMENTA: O IOF previsto no art. 13 da Lei nº 9.779, de 19 de janeiro de 1999, não incide sobre operações de mútuo de recursos financeiros nas quais o mutuante seja pessoa física. DISPOSITIVOS LEGAIS: Decreto nº 6.306, de 2007 (Regulamento do IOF), art. 2º, I, "c"; art. 3º, § 3º, III; art. 4º; art. 5º, III; Instrução Normativa RFB nº 907, de 2009, art. 7º; Ato Declaratório SRF nº 30, de 1999, art. 1.
+[arquivo anexo: SC SRRF04-Disit nº 76-2012.pdf]
