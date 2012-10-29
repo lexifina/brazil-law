@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “ADMINISTRATIVO. MILITAR. EX-COMBATENTE. PENSIONISTA. ASSISTÊNCIA MÉDICA-HOSPITALAR. FUSEX. ARTIGO 53, INCISO IV, DO ADCT. POSSIBILIDADE.
+    Pedido de impugnação do valor da causa não conhecido.
+    Ao ex-combatente que tenha efetivamente participado de operações bélicas durante a Segunda Guerra Mundial, nos termos da Lei nº 5.315, de 12 de setembro de 1967, é assegurada a assistência médica, hospitalar e educacional gratuita, extensiva aos dependentes (art. 53, inciso IV, do ADCT).
+    Prequestionamento quanto à legislação invocada estabelecido pelas razões de decidir.
+    Agravo retido, apelação e remessa oficial improvidos”.
+    Opostos embargos de declaração, foram providos exclusivamente para fins de prequestionamento.
+    No recurso extraordinário, sustenta-se violação do artigo 53, IV, do ADCT, bem como dos artigos 5º, caput, II, LIV, LV, XXXV, 37, caput, 93, IX e 165 da Constituição Federal
+    Decido.
+    A irresignação não merece prosperar.
+    Inicialmente, não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Ademais, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, ou da análise dos fatos da causa, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Por fim, verifico que o acórdão recorrido não diverge da jurisprudência desta Corte que é pacífica no sentido de que os dependentes de ex-combatentes possuem direito à assistência médica e hospitalar gratuita prestada nas unidades de saúde do Exército, conforme preconizado no artigo 53, IV, do Ato das Disposições Constitucionais Transitórias. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. MILITAR. ART. 53, IV, DO ADCT. EX-COMBATENTE. DEPENDENTES. ASSISTÊNCIA MÉDICO-HOSPITALAR GRATUITA. ORGANIZAÇÕES MILITARES DE SAÚDE. POSSIBILIDADE. AGRAVO IMPROVIDO. I – O art. 53, IV, do ADCT garante aos ex-combatentes e seus dependentes o direito à assistência médico-hospitalar gratuita prestada nas organizações militares de saúde. Precedentes. II – Agravo regimental improvido” (ARE n° 687.116/RS-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PENSIONISTAS DE EX-COMBATENTE. POSSIBILIDADE DE ASSISTÊNCIA MÉDICO-HOSPITALAR EM ORGANIZAÇÕES MILITARES DE SAÚDE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 498.443/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 25/6/09).
+     “CONSTITUCIONAL. ADMINISTRATIVO. MILITAR: EX-COMBATENTE. ASSISTÊNCIA MÉDICA E HOSPITALAR: ORGANIZAÇÕES MILITARES DE SAÚDE. C.F., 1988, ADCT, art. 53, IV. I. - O ex-combatente e seus dependentes têm direito de serem atendidos pelas Organizações Militares de Saúde. CF/88, ADCT, art. 53, IV. II. - Negativa de trânsito ao RE da União. III. - Agravo não provido” (RE n° 414.256/PE-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJe de 20/5/05).
+     “RECURSO. Extraordinário. Inadmissibilidade. Auto-aplicabilidade do art. 53, IV da Constituição. Concessão de assistência médico-hospitalar gratuita prevista no Dispositivo Transitório, a dependentes de ex-combatentes da 2ª Guerra Mundial. Agravo regimental não provido. O art. 53, IV, do ADCT, é norma de eficácia plena e aplicabilidade imediata” (RE n° 417.871/RJ-AgR, Primeira Turma, Relator o Ministro Cezar Peluso, DJe de 11/3/05).
+    No mesmo sentido, as seguintes decisões monocráticas: AI n° 784.263/SE, Relatora a Ministra Cármen Lúcia, DJe de 24/3/10, e ARE n° 666.873/SC, Relatora a Ministra Cármen Lúcia, DJe de 27/2/12.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 29 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
