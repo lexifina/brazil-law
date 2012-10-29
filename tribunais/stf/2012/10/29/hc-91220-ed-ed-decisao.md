@@ -1,0 +1,27 @@
+DESPACHO:
+    Trata-se de embargos declaratórios opostos contra decisão da Presidência do Supremo Tribunal Federal, que não conheceu dos embargos declaratórios. Decisão assim versada (fls. 535-538):
+    “Trata-se de embargos de declaração opostos da decisão de fls. 399/400, proferida pelo então Presidente desta Corte, Min. GILMAR MENDES , que não reconheceu a existência de prevenção do feito em relação ao HC nº 88.702 e determinou fossem devolvidos os autos ao Min. JOAQUIM BARBOSA:
+    […]
+    Insiste o embargante sejam os autos redistribuídos ao Min. CELSO DE MELLO , por prevenção ao HC nº 88.702. Alega que a decisão embargada “deixou de valorar a existência de prevenção sob a perspectiva do reconhecimento da continuidade de todos os delitos praticados pelo embargante (art. 71 do CP), com a unificação de todos esses num só feito (2002.61.08.00957-6 sentença em anexo), em vista da conexão e continência entre tais procedimentos, equivocadamente deflagrados de forma separada pela Polícia e Ministério Público Federal”.
+    Solicitei informações à 2ª Vara da 8ª Subseção Judiciária de Bauru SP, para que informasse a respeito da reunião dos Processos nºs 2000.61.08.009899-0 e 2000.61.08.008761-0, originários dos HCs nºs 91.220 e 88.702, respectivamente (fl. 485), prestadas nos termos seguintes (fls. 530/533):
+    ‘Informo a Vossa Excelência, em atenção ao ofício nº 5.718/SEJ, referente ao Habeas Corpus nº 91220, em que é paciente Ezio Rahal Melillo, impetrante Luiz Fernando Comegno e Coator o C. Superior Tribunal de Justiça, que a sentença proferida no processo nº 2002.61.08.000957-6, unificou todos os processos e inquéritos em andamento, de acordo com o dispositivo, abaixo transcrito:
+    (...)
+    Na origem, não houve a reunião dos processos nº 2000.61.08.009899-0 e 2000.61.08.008761-0.
+    Não há menção, na sentença, cujo dispositivo foi retrotranscrito, do número dos processos unificados.
+    No entanto, os processos nº 2000.61.08.009899-0 e 2000.61.08.008761-0 foram anteriormente sentenciados ao de nº 2002.61.08.000957-6.
+    Portanto, tais processos não estavam em andamento e não foram atingidos por tal decisão.’
+    2. Incognoscíveis os embargos .
+    A fixação da competência de um, dentre todos os Ministros igualmente competentes desta Corte para relatar causas e recursos, é assunto atinente à organização interna deste Tribunal e, portanto, indisponível ao interesse das partes. Trata-se de despacho de mero expediente, contra o qual não cabe recurso, em sendo ato processual insuscetível de causar gravame às partes ou a terceiros, nos termos do art. 504, do CPC.
+    Ainda que assim não fosse, melhor sorte não assistiria ao embargante. Em consulta aos autos e ao sítio eletrônico desta Corte, verifico que o HC nº 91.220 possui como origem a Apelação nº 2000.61.08.009899-0 , do Tribunal Regional Federal da 3ª Região, enquanto o HC nº 88.702 , de Relatoria do Min. CELSO DE MELLO, possui como origem processo diverso daquele, qual seja, o Processo Crime nº 2000.61.08.008761-0 , do Tribunal Regional Federal da 3ª Região, como já explicitado no despacho proferido pelo Ministro GILMAR MENDES às fls. 399/400.
+    Ademais, as informações prestadas pelo Juízo de origem afirmaram não ocorrida a unificação dos processos que deram origem aos HCs nºs 88.702 e 91.220, motivo pelo qual não subsiste a alegação do embargante.
+    3. Diante do exposto, nego seguimento ao pedido, por manifestamente inadmissível (art. 21, § 1º, do RISTF, e 38 da Lei nº 8.038, de 28.05.1990) e determino a devolução dos autos ao eminente Min. JOAQUIM BARBOSA.”
+    2. Pois bem, a parte embargante postula o acolhimento dos embargos para que se reconheça “a competência do eminente Min. Celso de Mello para processamento a julgamento deste e os demais feitos relativos à situação fática nele expostos, por força da prevenção reconhecida por este mesmo E. STF nos autos do HC nº 91.895” (sic , fls. 550).
+    3. Tenho que o recurso não é de ser conhecido. Isso porque são manifestamente inadmissíveis os presentes embargos de declaração, opostos contra decisão monocrática da Presidência do Supremo Tribunal Federal, que, não conhecendo dos primeiros embargos de declaração opostos, manteve a prevenção do ministro Joaquim Barbosa para a relatoria desta ação constitucional.
+    4. Acresce que a jurisprudência desta nossa Casa de Justiça é firme no sentido de que a fixação da competência de um Ministro para relatar causas e recursos é assunto atinente à organização interna do Tribunal e, portanto, estranho ao interesse das partes.
+    5. Nessa ampla moldura, o despacho que reconhece, ou não, a prevenção para relatoria das causas a determinado Ministro, em respeito às normas regimentais de organização interna e à legislação processual, não possui conteúdo capaz de lesar direito da parte. Trata-se de ato privativo da Presidência como órgão supervisor da distribuição, e, como tal, de mero expediente, a atrair a incidência do art. 504 do Código de Processo Civil.
+    6. À derradeira, pontuo que a via processual dos embargos não pode conduzir à renovação de decisão que não se ressente dos vícios apontados. Entendo inexistir obscuridade, contradição ou omissão na decisão questionada. O que afasta a presença de qualquer dos pressupostos de embargabilidade, conforme o art. 535 do CPC.
+    7. Esse o quadro, não conheço do presente recurso e determino o retorno imediato dos autos ao Gabinete do ministro Joaquim Barbosa.
+    Publique-se.
+    Brasília, 29 de outubro de 2012.
+Ministro AYRES BRITTO
+Presidente
