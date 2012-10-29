@@ -1,0 +1,10 @@
+DECISÃO
+IMPOSTO SOBRE SERVIÇOS - LISTA ANEXA AO ARTIGO 8º DO DECRETO-LEI Nº 406/68 - PERÍODO ANTERIOR À LEI COMPLEMENTAR Nº 116/2003 - ROL LIMITATIVO - PRECEDENTES - RECURSO EXTRAORDINÁRIO - NEGATIVA DE SEGUIMENTO.
+    1. Discute-se, na espécie, o direito de o Município cobrar o Imposto sobre Serviços de Qualquer Natureza sobre os serviços expressamente excetuados da respectiva incidência tributária, consoante itens 44, 46 e 48 da lista anexa ao artigo 8º do Decreto-Lei nº 406/68. O recorrente afirma que as referidas exceções constituem isenção de natureza heterônoma, incompatível com a regra do artigo 151, inciso III, da Carta Federal de 1988.
+    2. Improcede a alegação do recorrente de que, nos itens 44, 46 e 48 da lista de serviços anexa ao Decreto-Lei nº 406/68, previu-se hipótese de isenção heterônoma, imposta pela União relativamente a tributo de competência do Município, e que, portanto, não fora recepcionada pela Constituição Federal de 1988. O Plenário do Supremo, no julgamento dos Recursos Extraordinários nos 220.323-3/MG e 236.604-7/PR, ambos relatados pelo ministro Carlos Velloso, fixou o entendimento de que o Decreto-Lei nº 406/68 foi recebido pela Carta atual como lei complementar, não tratando os preceitos ora questionados de tal espécie de isenção:
+    CONSTITUCIONAL. TRIBUTÁRIO. ISS. SOCIEDADE PRESTADORA DE SERVIÇOS PROFISSIONAIS: BASE DE CÁLCULO. D.L. 406, de 1968, art. 9º, §§ 1º e 3º. C.F., art. 150, § 6º, redação da EC nº 3, de 1993. I. - As normas inscritas nos §§ 1º e 3º, do art. 9º, do DL 406, de 1968, não implicam redução da base de cálculo do ISS. Elas simplesmente disciplinam base de cálculo de serviços distintos, no rumo do estabelecido no caput do art. 9º. Inocorrência de revogação pelo art. 150, § 6º, da C.F., com a redação da EC nº 3, de 1993. II. - Recepção, pela CF/88, sem alteração pela EC nº 3, de 1993 (CF, art. 150, § 6º), do art. 9º, §§ 1º e 3º, do DL. 406/68. III. - R.E. não conhecido.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publique-se.
+Brasília, 29 outubro de 2012.
+Ministro MARCO AURÉLIO
+Relator
