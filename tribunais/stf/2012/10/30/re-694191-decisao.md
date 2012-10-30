@@ -1,0 +1,8 @@
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL DESTA CORTE NOS AUTOS DO RE N. 684.261. DIREITO PREVIDENCIÁRIO. CONTRIBUIÇÃO. SEGURO ACIDENTE DE TRABALHO - SAT. RISCOS ACIDENTAIS DO TRABALHO - RAT. FATOR ACIDENTÁRIO DE PREVENÇÃO - FAP. LEGALIDADE TRIBUTÁRIA. DISCUSSÃO SOBRE A FIXAÇÃO DE ALÍQUOTA. ABUSO DE PODER REGULAMENTAR. DEVOLUÇÃO DOS AUTOS À ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos – constitucionalidade, ou não, do art. 10 da Lei n. 10.666/2003 e de sua regulamentação pelo art. 202-A do Decreto n. 3.048/99, com a redação conferida pelo Decreto n. 6.957/2009. Dispositivos que disciplinaram a redução ou a majoração das alíquotas de contribuição ao Seguro do Acidente do Trabalho – SAT, atualmente denominado Riscos Ambientais do Trabalho - RAT, em razão do desempenho da empresa, a ser aferido de acordo com o Fator Acidentário de Prevenção - FAP, fixado a partir de índices calculados segundo metodologia aprovada pelo Conselho Nacional de Previdência Social, órgão integrante do Poder Executivo. O tema será submetido à apreciação do Pleno desta Corte, nos autos do RE n. 684.261, de que sou Relator.
+    Destarte, aplicando a decisão Plenária no RE n. 579.431, secundada, a posteriori pelo AI n. 503.064-AgR-AgR, Rel. Min. CELSO DE MELLO; AI n. 811.626-AgR-AgR, Rel. Min. RICARDO LEWANDOWSKI, e RE n. 513.473-ED, Rel. Min. CEZAR PELUSO, determino a devolução dos autos ao Tribunal de origem (art. 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil).
+    Publique-se.
+    Brasília, 30 de outubro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
