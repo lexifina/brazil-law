@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto de acórdão que garantiu ao recorrido, aprovado em curso de formação para o cargo de agente da polícia federal, precedência na escolha das vagas em relação aos candidatos aprovados em curso de formação subsequente.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa aos arts. 5º, caput, e 37, I, II e IV, da mesma Carta.
+    Alegou-se que a permissão ao recorrido para a escolha de lotação entre as vagas disponibilizadas para os candidatos aprovados em curso de formação posterior viola o princípio da isonomia.
+    Aduziu-se, ainda, que a observância da ordem de classificação do concurso público aplica-se tão somente em relação à eventual preterição no momento da posse e não quando do pedido de remoção do servidor mais antigo.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a questão posta nos autos com base nos seguintes fundamentos:
+    “no caso, embora não previsto no edital o fracionamento da segunda etapa do certame, foram realizados, por motivos de ordem orçamentária ou de conveniência administrativa, diversos cursos de formação, ministrados em diferentes momentos, o que tornou inviável a aplicação integral do referido critério de classificação. Isso porque as melhores vagas, em tese, seriam preenchidas pelos candidatos integrantes dos primeiros cursos de formação, não permitindo que os participantes de cursos de formação subsequentes, mesmo que portadores de nota final superior, fizessem opção por vagas já preenchidas.
+    A melhor exegese da regra inserta no item 15.1 do Edital do concurso em comento é a de ser ela aplicável exclusivamente para disciplinar a ordem de preferência entre candidatos participantes de um mesmo curso de formação.
+    Nessa perspectiva, parece-me seguro que os candidatos com melhores classificações na primeira fase do concurso e que, por isso mesmo, realizaram antes o curso de formação, têm preferência na escolha das vagas oferecidas em relação aos candidatos de posteriores cursos de formação do mesmo concurso, conforme se pode extrair da regra inscrita no item 14.1.1 do edital. Entretanto, não há porque dar-lhes preferência relativamente a candidatos que realizaram o mesmo curso de formação, porquanto, nessa hipótese, deverá subsistir o critério da melhor classificação final, ou seja, consoante a nota obtida na segunda etapa do certame, conforme previsto no edital” (fl. 161).
+    Assim, para concluir em sentido diverso ao do acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas do edital, o que inviabiliza o recurso extraordinário nos termos das Súmulas 279 e 454 do STF. Nesse sentido, menciono as seguintes decisões: ARE 682.155/DF e AI 787.165-AgR/DF, Rel. Min. Luiz Fux; RE 413.777-AgR/CE, Rel. Min. Cármen Lúcia; ARE 687.114/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 30 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
