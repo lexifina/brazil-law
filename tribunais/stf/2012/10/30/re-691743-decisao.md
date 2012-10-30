@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ILEGITIMIDADE AD CAUSAM DO MINISTÉRIO PÚBLICO. EXECUÇÃO DE DECISÃO DO TRIBUNAL DE CONTAS. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRIBUNAL DE CONTAS. TÍTULO EXECUTIVO EXTRAJUDICIAL. EXECUÇÃO. MINISTÉRIO PÚBLICO ESTADUAL. LEGITIMIDADE. – Pacífico na Primeira Seção desta Corte Superior o entendimento de que o Ministério Público tem legitimidade para promover execução de título executivo extrajudicial decorrente de decisão de Tribunal de Contas, ainda que em caráter excepcional. Agravo regimental improvido”.
+    Os embargos declaratórios opostos pelo Recorrente foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os arts. 29, 128, § 5º, inc. II, alíneas b e d, 129, inc. IX e 132 da Constituição Federal Constituição da República.
+    Argumenta que “o entendimento pacificado e reiterado no SUPREMO TRIBUNAL FEDERAL é contrário ao que havia sido então decidido, já que o STF reconhece a ILEGITIMIDADE do Ministério Público para ajuizar qualquer ação de execução de execução de título extrajudicial decorrente de decisão do Tribunal de Contas, em qualquer situação” (grifos no original).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica assiste ao Recorrente.
+    4. No voto condutor do acórdão recorrido, o Ministro Relator asseverou:
+    “Nada obstante o empenho do agravante, persisto no entendimento externado no decisório agravado.
+    Pacificou-se na Primeira Seção desta Corte Superior o entendimento de que o Ministério Público tem legitimidade para promover execução de título executivo extrajudicial decorrente de decisão do Tribunal de Contas, ainda que em caráter excepcional. Nesse sentido, segue o seguinte precedente:
+    ‘AGRAVO REGIMENTAL EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. CERTIDÃO DE DÉBITO EMITIDA PELO TRIBUNAL DE CONTAS. MINISTÉRIO PÚBLICO ESTADUAL. LEGITIMIDADE. 1. 'Pacificou-se na Primeira Seção desta Corte Superior o entendimento segundo o qual o Ministério Público tem legitimidade para promover execução de título executivo extrajudicial decorrente de decisão do Tribunal de Contas, ainda que em caráter excepcional (v. REsp 1.119.377/SP, Rel. Min. Humberto Martins, Primeira Seção, j. 26.8.2009)' (REsp nº 1.189.576/MG, Relatora Ministra Eliana Calmon, Segunda Turma, in DJe 18/6/2010). 2. Agravo regimental improvido" (AgRg no Resp 1.230.313/MG, Ministro Hamilton Carvalhido, DJe de 24.3.2011).
+    Confiram-se, ainda, os seguintes julgados: EDcl no REsp 1.182.185/MG, Ministro Mauro Campbell Marques, DJe de 29.11.2010, e REsp 1.121.602/SP, Ministro Luiz Fux, DJe de 10.3.2010.
+    Ante o exposto, nego provimento ao agravo regimental” (grifos nossos).
+    5. No julgamento do Recurso Extraordinário n. 223.037/SE, Relator o Ministro Maurício Corrêa, este Supremo Tribunal decidiu:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. TRIBUNAL DE CONTAS DO ESTADO DE SERGIPE. COMPETÊNCIA PARA EXECUTAR SUAS PRÓPRIAS DECISÕES: IMPOSSIBILIDADE. NORMA PERMISSIVA CONTIDA NA CARTA ESTADUAL. INCONSTITUCIONALIDADE. 1. As decisões das Cortes de Contas que impõem condenação patrimonial aos responsáveis por irregularidades no uso de bens públicos têm eficácia de título executivo (CF, artigo 71, § 3º). Não podem, contudo, ser executadas por iniciativa do próprio Tribunal de Contas, seja diretamente ou por meio do Ministério Público que atua perante ele. Ausência de titularidade, legitimidade e interesse imediato e concreto. 2. A ação de cobrança somente pode ser proposta pelo ente público beneficiário da condenação imposta pelo Tribunal de Contas, por intermédio de seus procuradores que atuam junto ao órgão jurisdicional competente. 3. Norma inserida na Constituição do Estado de Sergipe, que permite ao Tribunal de Contas local executar suas próprias decisões (CE, artigo 68, XI). Competência não contemplada no modelo federal. Declaração de inconstitucionalidade, incidenter tantum, por violação ao princípio da simetria (CF, artigo 75). Recurso extraordinário não conhecido”(DJ 2.8.2002).
+    No mesmo sentido: AI 674.128/MG, Rel. Min. Marco Aurelio, decisão monocrática, DJ 3.9.2012; ARE 680.935/RS, Rel. Min. Gilmar Mendes, decisão monocrática, DJ 5.6.2012; RE 645.240/DF, Rel. Min. Luiz Fux, decisão monocrática, DJ 5.6.2012; RE 569.650/PR, Rel. Min. Cezar Peluso, decisão monocrática, DJ 19.2.2010; RE 510.034-AgR/AC, Rel. Min. Eros Grau, Segunda Turma, DJ 15.8.2008; e AI 203.769/GO, Rel. Min. Sepúlveda Pertence, decisão monocrática, DJ 28.2.2007.
+    Dessa orientação divergiu o acórdão recorrido.
+    6. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1ª-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal),
+    Publique-se.
+    Brasília, 30 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
