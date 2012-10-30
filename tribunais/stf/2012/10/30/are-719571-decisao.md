@@ -1,0 +1,13 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a suposta ofensa ao texto constitucional, caso existente, apresentar-se-ia por via reflexa, eis que a sua constatação reclamaria – para que se configurasse – a formulação de juízo prévio de legalidade, fundado na vulneração e infringência de dispositivos de ordem meramente legal. Não se tratando de conflito direto e frontal com o texto da Constituição, como exigido pela jurisprudência da Corte (RTJ 120/912, Rel. Min. SYDNEY SANCHES – RTJ 132/455, Rel. Min. CELSO DE MELLO), torna-se inviável o trânsito do recurso extraordinário, cujo processamento foi corretamente denegado na origem.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos por ambas as Turmas desta Suprema Corte:
+    “Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3. Gratificação de Estímulo à Docência – GED. Lei 9.678/98. 4. Extensão aos servidores inativos e pensionistas. Impossibilidade. Ausência de natureza genérica. Precedentes do STF. 3. Discussão sobre a alteração da natureza da gratificação após a edição da Lei 11.087/05. Necessidade de rever a interpretação conferida pelo acórdão recorrido à legislação infraconstitucional. Providência vedada no âmbito do recurso extraordinário. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.”
+    (AI 853.473-AgR-AgR/CE, Rel. Min. GILMAR MENDES)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA – GED. NATUREZA JURÍDICA E POSSIBILIDADE DE EXTENSÃO AOS INATIVOS. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. ”
+    (RE 636.578-AgR/DF, Rel. Min. CÁRMEN LÚCIA)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 30 de outubro de 2012.
+Ministro CELSO DE MELLO
+Relator
