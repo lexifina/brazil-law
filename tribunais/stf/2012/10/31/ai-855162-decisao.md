@@ -1,0 +1,80 @@
+DECISÃO
+    Vistos.
+    Marco Antonio Plotegher e outros interpõem recurso extraordinário contra acórdão proferido pela Segunda Seção do Tribunal Regional Federal da 4ª Região, assim ementado:
+    “TERRENO DE MARINHA. TAXA DE OCUPAÇÃO. MAJORAÇÃO. CONTRADITÓRIO E AMPLA DEFESA. DEVIDO PROCESSO LEGAL.
+    Embargos infringentes a que se nega provimento”.
+    Insurge-se, no apelo extremo, fundado na alínea “a”, do permissivo constitucional, contra alegada contrariedade aos artigos 5º, incisos XXII, XXXVI, XLVI, LIV e LV, da Constituição Federal, em razão do reconhecimento da legalidade do aumento da taxa de ocupação de seu imóvel.
+    Processado sem contrarrazões, o recurso não foi inadmitido, na origem, daí a interposição do presente agravo de instrumento.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação, contudo, não merece prosperar.
+     A jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, ou dos fatos e provas dos autos, tal como aqui se dá, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ademais, a eventual análise acerca da alegada violação dos princípios constitucionais objetos do presente recurso demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como de normas infraconstitucionais utilizadas em sua fundamentação, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário, a teor do que dispõe a Súmula 279 desta Corte.
+    Nesse sentido, citem-se os seguintes precedentes, proferidos em processos similares ao presente:
+    “Decisão
+     Trata-se de recurso extraordinário contra acórdão que entendeu devida a cobrança pela União de taxa de ocupação de imóvel situado em terreno de marinha, demarcado por meio de processo administrativo previsto no Decreto-lei 9.760/1946.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 20, III, da mesma Carta, bem como ao art. 25 do ADCT. Sustentou-se , em suma, que o artigo 2º do Decreto-Lei 9.760/1946 não foi recepcionado pela Constituição Federal de 1946, nem pelas subsequentes. Argumentou-se, ao fim, que “o Rio Tramandaí, conforme comprovado nos autos, não se localiza sobre terrenos do domínio da União, localizando-se totalmente dentro do Estado do Rio Grande do Sul, de forma que o mesmo só pode ser considerado como um bem pertencente ao Estado” (fl. 419).
+    A pretensão recursal não merece acolhida.
+    O recorrente, apesar de afirmar a existência de repercussão geral no presente recurso, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa. A mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III - Agravo regimental improvido”.
+    Ainda que superado tal óbice, o recurso não prosperaria. É que, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, a teor da Súmula 356 do STF. É o caso dos autos em relação à suposta violação ao art. 25 do ADCT.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Decreto-lei 9.760/1946). Dessa forma, a verificação da alegada ofensa ao texto constitucional envolve a reapreciação da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Outrossim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 587.410-AgR/RJ e RE 589.380/RS, Rel. Min. Eros Grau; RE 590.338/RS, Rel. Min. Joaquim Barbosa; RE 608.903/RJ, Rel. Min. Cármen Lúcia; RE 597.905/RS, de minha relatoria; RE 578.855/SC, Rel. Min. Cezar Peluso.
+    Por fim, o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 1.123.362/RS, com trânsito em julgado certificado em 7/4/2010), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de fevereiro de 2011” (RE nº 613.815/DF,
+Relator o Min. Ricardo Lewandowski, Dje de 1/3/11).
+    “DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a) interposto de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 690):
+    “ADMINISTRATIVO. TERRENO DE MARINHA. ÁREA DO ANTIGO “BRAÇO MORTO” DO RIO TRAMANDAÍ. BENS DA UNIÃO. TERRENOS AFORADOS POR MUNICÍPIO. ENFITEUSE PÚBLICA CARACTERIZADA. TAXA DE OCUPAÇÃO. NATUREZA NÃO TRIBUTÁRIA. INCIDÊNCIA SOBRE TERRENOS DE MARINHA. CABIMENTO. CAUTELAR. AUSÊNCIA FUMUS BONI JURIS.
+    1. Embora somente a CF/88 se tenha referido expressamente a terrenos de marinha e seus acrescidos (art. 20-VII), desde tempos imperiais se reconhece propriedade estadual, estando seu conceito atualmente estampada no art. 2º do DL 9.760/46, dispositivo vigente há mais de meio século sem que tribunal pátrio algum reconhecesse eiva de inconstitucionalidade.
+    2. A taxa de ocupação é de natureza não-tributária, não se conformando pois, aos ditames constitucionais e do CTN pertinentes a tributos.
+    3. A área do antigo “braço morto”, no município de Imbé/RS, é terreno de marinha, incluindo-se, dessarte, entre os bens da União, pelo que está sujeita à cobrança de taxa de ocupação. Precedentes desta E. Corte: Ação Rescisória n. 97.04.23734-0/RS, RTEF 4ªR n. 36, p. 71/91.
+    4. Os autores são enfiteutas ou foreiros porquanto detentores de domínio útil de imóveis que lhes foram aforados pelo município de Osório – senhorio direto/nu proprietário, com previsão de apagamento de foro/pensão anual.
+    5. Incomprovada a não localização dos imóveis dos autores na faixa de terrenos acrescidos resta devida a taxa de ocupação irrelevante o título jurídico a que detêm o imóvel.
+    6. É irrelevante o título jurídico pelo qual ocupam os autores os terrenos da marinha porque “Os atuais ocupantes de terrenos da União, sem título outorgado por esta, ficam obrigados ao pagamento anual da taxa de ocupação” (art. 127 do DL 9.760/46).
+    7. Prescrito o direito de contestar a fixação da faixa de terreno da marinha, concluso em 1974, o que não impede discussão acerca de estar ou não determinada área inserida na referida faixa.
+    8. Indemonstrada a plausibilidade do fumus boni juris antevisto na cautelar, o improvimento desta é conseqüência lógica inarredável.
+    9. Apelação improvida.”
+    Sustenta-se no recurso extraordinário violação do art. 37-b da Constituição de 1937, art. 35 da Constituição de 1946, art. 5º da Constituição de 1967 e EC 1 de 1969, e arts. 20, VII, e 26, I, da Constituição federal de 1988.
+    É o relatório. Decido.
+    As questões constitucionais suscitadas não podem ser analisadas sem prévio exame da legislação infraconstitucional e dos fatos e provas que fundamentaram as conclusões da decisão recorrida. O recurso extraordinário é, pois, inviável, tanto porque eventual ofensa à Constituição seria indireta, como por esbarrar na vedação da Súmula 279 desta Corte.
+    Nesse sentido, RE 550.914-AgR (rel. min. Eros Grau, DJe de 04.04.2008), RE 601.544 (rel. min. Ricardo Lewandowski, DJe de 04.11.2009), RE 597.905 (rel. min. Ricardo Lewandowski, DJe de 31.03.2009), RE 589.380 (rel. min. Eros Grau, DJe de 04.02.2009) e RE 475.129 (rel. min. Cezar Peluso, DJe de 21.08.2006).
+    Do exposto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2011” (RE nº 550.785/RS,
+Relator o Ministro Joaquim Barbosa, Dje de 3/3/11).
+    “DECISÃO: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos [fl. 389]:
+    'ADMINISTRATIVO. TAXA DE OCUPAÇÃO. TERRENO E ACRESCIDOS DE MARINHA. PROCEDÊNCIA DA AÇÃO. PRECEDENTES DA CORTE.
+    1. Possuindo o Rio Tramandaí nascente e foz no Estado do Rio Grande do Sul, não fazendo limite com outro Estado e nem se estendendo até outro território, pertence ele ao Estado, por força da Constituição Federal.
+    2. A definição do domínio dos Estados não está condicionada a considerações outras que não aquelas expressamente previstas, não sendo possível alterá-lo por fatores desvinculados da previsão legislativa, como o de que os rios que tenham nascente e foz dentro de um determinado Estado sejam atribuídos ao domínio da União, pelo simples fato de desaguar no oceano.
+    3. Foz de um rio que deságua no mar nada mais é do que foz do próprio rio, e não do oceano.
+    4. A Constituição de 1946, bem como as subseqüentes, não recepcionaram a impropriedade do decreto-lei 9.760/46, no que conceituou como terreno de marinha aqueles situados nas margens dos rios e lagoas até onde se faça sentir a fluência das marés, resultando certo que nenhum texto constitucional tratou de estabelecer tal fenômeno determinante do domínio.
+    5. Se houve acréscimos às margens do Rio Tramandaí, sendo ele um rio estadual, passam eles também ao seu domínio, e a União não pode considerar-se dona das margens que não lhes pertencem, pelo simples fato de haver assentado a barra do rio.
+    6. O domínio dos Estados constitui conquista destes frente à descentralização do poder após a República, o que foi primeiramente previsto por exclusão e, depois, de forma expressa.
+    7. O que a Constituição fixa em dispositivo auto-aplicável, sem ressalvas nem remessa à lei regulamentadora, não pode ser ampliado nem restringido, muito menos por um decreto-lei.
+    8. Entendimento embasado em Parecer do Procurador-Geral da Fazenda Nacional, aprovado pelo Consultor-Geral da República, após manifestação do Secretário do Meio Ambiente, do Diretor-Geral do Serviço do Patrimônio da União, da Consultoria do Ministério do Interior e do Procurador do Ministério da Fazenda, que afastam a tese consubstanciada na sentença.
+    9. Mantida a sentença de procedência da ação que declarou a nulidade dos atos administrativos que implique a inscrição, lançamento e cobrança, relativos à taxa de ocupação sobre o imóvel descrito na inicial.
+    10. Precedentes da Corte.
+    11. Remessa Oficial e apelação improvidos'.
+    2. Alega-se, no recurso extraordinário, violação do disposto nos artigos 5º, inciso II, 20, incisos I e II, da Constituição do Brasil e artigo 25 do ADCT.
+    3. O recurso não merece seguimento. O acórdão recorrido não apreciou a controvérsia à luz do preceito constitucional que a recorrente indica como violado. Além disso, os embargos de declaração são ineficazes para ventilar matéria não argüida oportunamente. Aqui incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+    4. O prequestionamento, no entendimento pacificado deste Tribunal, deve ser explícito [AI n. 215.724-AgR, Relator o Ministro Sydney Sanches, 1ª Turma, DJ de 15.10.99; e RE n. 192.031-AgR, Relator o Ministro Néri da Silveira, 2ª Turma, DJ de 4.6.99].
+    5. Ademais, este Tribunal fixou jurisprudência no sentido de que 'a ofensa à Constituição, que autoriza admissão do recurso extraordinário, é a ofensa direta, frontal, e não a ofensa indireta, reflexa. Se, para demonstrar a contrariedade à Constituição, tem-se, antes, de demonstrar a ofensa à norma infraconstitucional, é esta que conta para a admissibilidade do recurso' [AI n. 204.153'AgR, 1ª Turma, DJ de 30.6.00, e AI n. 231.836'AgR, 2ª Turma, DJ de 3.9.99].
+    6. Por fim, decisão em sentido contrário ao adotado pelo acórdão recorrido implicaria, necessariamente, o reexame de fatos e provas, providência vedada nesta instância, em face do óbice da Súmula n. 279 do Supremo Tribunal Federal.
+    Nego seguimento ao recurso com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 16 de dezembro de 2008” (RE nº 589.380/RS,
+Relator o Ministro Eros Grau, DJe de 4/2/09).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 31 de outubro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
