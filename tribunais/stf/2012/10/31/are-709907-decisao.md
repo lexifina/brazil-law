@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NO RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE CONTRARIEDADE OU DEMONSTRAÇÃO SUFICIENTE PARA SUPERAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal Regional Federal da 4ª Região decidiu:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO DE DESEMPENHO. PAGAMENTO EM VALOR FIXO. PARIDADE. PENSÃO INSTITUÍDA APÓS A EDIÇÃO DA EMENDA CONSTITUCIONAL N. 41/2003. 1. O direito do servidor aposentado ou do pensionista receberem gratificação nos mesmos moldes pagos aos servidores em atividade, depende da verificação da natureza da vantagem pretendida, bem como da existência do direito à paridade com os servidores ativos. 2. A partir da edição da Súmula Vinculante n. 20, a jurisprudência dos Tribunais tem se posicionado no sentido de que, verificando-se o pagamento de gratificação de desempenho com base em valor fixo não variável em função de efetiva produção ou desempenho, o pagamento desse valor fixo deve ser estendido aos inativos e pensionistas, por força da garantia à paridade. 3. A garantia da paridade entre ativos, inativos e pensionistas foi suprimida após a edição da Emenda Constitucional n. 41/2003, remanescendo apenas para os servidores que já se encontravam aposentados e às pensões já instituídas (art. 7º), bem como para os que já haviam completado os requisitos para obtenção de aposentadoria ou pensão (art. 3º) quando da publicação da referida Emenda, assim como para as aposentadorias concedidas na forma do artigo 6º da EC n. 41/2003 e para as aposentadorias e pensões concedidas na forma do artigo 3º da EC n. 47/2005. 4. Em se tratando de aposentadoria instituída após a edição da Emenda Constitucional n. 41/2003 e não restando comprovado estar o benefício enquadrado nas exceções previstas pelos artigos 3º e 6º da mesma Emenda ou pelo art. 3º da Emenda Constitucional n. 47/2005, inexiste direito à paridade. 5. Remessa necessária provida. Apelação da União Federal provida em parte. Pedido inicial de julgamento improcedente” (fls. 162-163).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 284 e a circunstância de que o acórdão recorrido estaria em harmonia com a jurisprudência do Supremo Tribunal Federal.
+    4. O Agravante reitera os argumentos expostos no recurso extraordinário e não faz indicação de qual dispositivo constitucional teria sido contrariado.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    No agravo, houve apenas a reiteração dos argumentos expostos no recurso extraordinário sem apresentar contrariedade ou demonstração suficiente para afastar os fundamentos da decisão agravada.
+    Nesse sentido:
+    “AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO DESPROVIDO. 1. O agravo deve dirigir-se a infirmar os fundamentos da decisão que se busca ver reformada. Restringindo-se o Agravante à discussão da matéria de fundo, objeto do recurso extraordinário, impõem-se o desprovimento do agravo interposto, pela ausência de impugnação dos fundamentos da decisão agravada, e a manutenção do ato impugnado. 2. Agravo regimental ao qual se nega provimento” (AI 587.371-AgR, de minha relatoria, Primeira Turma, DJ 2.2.2007).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 31 de outubro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
