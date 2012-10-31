@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão que possui a seguinte ementa:
+    “EMPREGADOS DOS CONSELHOS REGIONAIS OU FEDERAIS DE FISCALIZAÇÃO DO EXERCÍCIO PROFISSIONAL. NATUREZA JURÍDICA SUI GENERIS. DESNECESSIDADE DO CONCURSO PÚBLICO DE QUE TRATA O ARTIGO 37, INCISO II, DA CONSTITUIÇÃO FEDERAL.
+    Os conselhos federais e regionais de fiscalização do exercício profissional são órgãos dotados de recursos próprios e exercem suas atividades detendo ampla autonomia financeira e administrativa.
+    Assim, a partir do reconhecimento de que os conselhos de fiscalização do exercício profissional são entidades paraestatais atípicas, o entendimento predominante desta Corte é de que a validade do contrato de trabalho dos seus empregados não requer sua prévia aprovação em concurso público, de provas ou de provas e títulos, não estando assim submetidos ao disposto no inciso II do artigo 37 da Constituição Federal. Dessa forma, não há falar em contrato nulo. Portanto, não incide, no caso vertente, as disposições da
+Súmula nº 363 desta Corte, razão pela qual faz jus a reclamante às verbas rescisórias inerentes à dispensa sem justa causa. Recurso de revista conhecido e provido”
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 37, caput, II, da mesma Carta.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido está em dissonância com a consolidada jurisprudência desta Corte, sobretudo a partir do julgamento do MS 22.643/SC, Rel. Min. Moreira Alves, e da ADI 1.717/DF, Rel. Min. Sydney Sanches, no sentido de que os conselhos de fiscalização profissional possuem a natureza jurídica de autarquia federal. Referidos conselhos, assim, possuem personalidade jurídica de direito público, têm suas contas submetidas ao controle do Tribunal de Contas da União e exercem atividade típica de Estado, com autonomia administrativa e financeira, dotada dos poderes de polícia, de tributar e de punir, que não pode ser delegada.
+    Além disso, julgados recentes deste Tribunal não deixam dúvidas de que os conselhos de fiscalização profissional submetem-se, para a contratação de pessoal, à exigência de realização de concurso público prevista no art. 37, II, da Constituição Federal. Nesse sentido, menciono, entre outras, as recentes decisões proferidas nos RE 700.097/DF e RE 700.098/DF, Rel. Min. Cármen Lúcia, e o acórdão prolatado no RE 539.224/CE, Rel. Min. Luiz Fux, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. EXIGÊNCIA DE CONCURSO PÚBLICO. ART. 37, II, DA CF. NATUREZA JURÍDICA. AUTARQUIA. FISCALIZAÇÃO. ATIVIDADE TÍPICA DE ESTADO.
+    1. Os conselhos de fiscalização profissional, posto autarquias criadas por lei e ostentando personalidade jurídica de direito público, exercendo atividade tipicamente pública, qual seja, a fiscalização do exercício profissional, submetem-se às regras encartadas no artigo 37, inciso II, da CB/88, quando da contratação de servidores.
+    2. Os conselhos de fiscalização profissional têm natureza jurídica de autarquias, consoante decidido no MS 22.643, ocasião na qual restou consignado que: (i) estas entidades são criadas por lei, tendo personalidade jurídica de direito público com autonomia administrativa e financeira; (ii) exercem a atividade de fiscalização de exercício profissional que, como decorre do disposto nos artigos 5º, XIII, 21, XXIV, é atividade tipicamente pública; (iii) têm o dever de prestar contas ao Tribunal de Contas da União.
+    3. A fiscalização das profissões, por se tratar de uma atividade típica de Estado, que abrange o poder de polícia, de tributar e de punir, não pode ser delegada (ADI 1.717), excetuando-se a Ordem dos Advogados do Brasil (ADI 3.026).
+    (...)
+    5. Recurso Extraordinário a que se dá provimento” (grifos meus).
+    Isso posto, dou provimento ao recurso (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 31 de outubro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
