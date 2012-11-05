@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ATIVIDADE ESPECIAL. CONVERSÃO DE TEMPO DE SERVIÇO ESPECIAL EM COMUM. APOSENTADORIA: INEXISTÊNCIA DE REPERCUSSÃO GERAL. ART. 327, § 1º, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal Regional da 4ª Região:
+    “PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. USO DE EPI. RUÍDO. CONCESSÃO DE APOSENTADORIA MAIS VANTAJOSA. TUTELA ESPECÍFICA.
+    1. Uma vez exercida atividade enquadrável como especial, sob a égide da legislação que a ampara, o segurado adquire o direito ao reconhecimento como tal e ao acréscimo decorrente da sua conversão em comum. 2. Constando dos autos a prova necessária a demonstrar o exercício de atividade sujeita a condições especiais, conforme a legislação vigente na data da prestação do trabalho, deve ser reconhecido o respectivo tempo de serviço. 3. A exposição habitual e permanente a níveis de ruído acima dos limites de tolerância estabelecidos na legislação pertinente à matéria sempre caracteriza a atividade como especial, independentemente da utilização ou não de EPI ou de menção, em laudo pericial, à neutralização de seus efeitos nocivos. 4. Se o segurado implementar os requisitos para a obtenção de aposentadoria pelas regras anteriores à Emenda Constitucional nº 20/98, pelas Regras de Transição (art. 9º da mencionada Emenda) e pelas Regras Permanentes (art. 201, § 7 º da CF e 56 e ss. do Decreto nº 3048/99), poderá inativar-se pela opção que lhe for mais vantajosa. 5. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 461 do CPC, sem a necessidade de um processo executivo autônomo (sine intervallo)” (fl. 23, doc. 2 ).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fls. 76-78, doc. 2).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. II, XXXV, LIV e LV, 195, § 5º, e 201, caput, da Constituição da República.
+    Argumenta que
+    “é patente a afronta a tal princípio constitucional na decisão ora recorrida, já que no caso em comento, a conversão de tempo de serviço especial para comum padeceria de lei específica para tanto, a qual inexiste a partir de 28 de maio de 1998, já que com a promulgação da Medida Provisória 1.663-10/98, convertida na Lei 9.711/98, restou legalmente vedada a conversão em comum de tempo de serviço especial prestado após essa data, nos termos do art. 28 daquele diploma” (fl. 65, doc. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No julgamento do Agravo de Instrumento n. 841.047, este Supremo Tribunal assentou a natureza infraconstitucional e a inexistência de repercussão geral da questão relativa à conversão de tempo de serviço especial em comum para fins de concessão de aposentadoria:
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Aposentadoria. Tempo de serviço. Condições especiais. Cômputo. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o cômputo, para efeito de aposentadoria, do tempo de serviço exercido em condições especiais, versa sobre tema infraconstitucional” (Dje 1.9.2011).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
