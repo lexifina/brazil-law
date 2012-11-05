@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DELEGADO DE POLÍCIA. INCORPORAÇÃO DE GRATIFICAÇÃO DE CHEFIA. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Espírito Santo:
+    “Processual Civil e Constitucional. Gratificação de chefia. Natureza de vencimentos. Limitação teto constitucional. Adesão ao subsídio. Recurso provido em parte.
+    1. Se sob o título de gratificação, o Estado institui verdadeira hierarquia salarial de acordo com as classes e cargos alçados pelos delegados no curso de carreira, a vantagem apresenta natureza de vencimento, embora outro seja seu nomen iuris.
+    2. O teto remuneratório deve ser observado, a partir do momento em que o mesmo se tornou obrigatório, a saber, a partir da Emenda nº 41/2003, observando, ainda, eventual adesão ao regime remuneratório do subsídio.
+    3. Recurso provido em parte.”
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 2º, 37, caput, inc. X e XIV, e 97 da Constituição da República.
+    Sustenta que “o Judiciário estar[ia] se arvorando de legislador positivo, criando vantagens remuneratórias não previstas em lei, o que viola também o princípio da separação de poderes (ou melhor dizendo, separação de funções). Ademais, o Tribunal local, ao assim decidir, incorreu em direta afronta à jurisprudência da Corte Suprema, consagrada no Enunciado nº 339 da Súmula do STF.”
+    Argumenta que “o Tribunal a quo claramente afastou a aplicação da Lei Estadual nº 3.400/81, que dispõe expressamente que se paga uma gratificação intrinsecamente associada ao exercício de chefia. Ademais, afastou também, em parte, a incidência do art. 32 da Lei 04/90.” E “ao afastar a incidência da lei estadual, o Tribunal local ainda que obliquamente, sem menção expressa, declarou incidentalmente a inconstitucionalidade de tal norma. Afinal, se a norma não apresentasse algum vício de inconstitucionalidade, seja material ou formal, deveria ser aplicada à hipótese.”
+    Assevera que “se afastou a incidência de lei estadual por decisão de órgão fracionário, afrontando-se, assim, a cláusula de reserva de plenário.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento da incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Desembargador Relator Samuel Meira Brasil Junior afirmou que
+    “A vantagem foi instituída por lei a todos os delegados de polícia, inclusive, nas classes iniciais da carreira.
+    As diferenças diziam respeito apenas ao percentual incidente sobre o valor base salarial, que se alterava conforme a hierarquia e função, como se o legislador estabelecesse sob o nome de ‘gratificação’, uma verdadeira hierarquia na carreira, cujos vencimentos variam de acordo com o posto alçado pelo servidor. Veja o art. 11 da Lei Complementar nº 57.”
+    O Tribunal a quo concluiu, portanto, que a gratificação de chefia teria natureza salarial, pois extensível a todos os delegados de polícia, independentemente do cumprimento de qualquer atribuição específica ou especial. Concluir de forma diversa demandaria o reexame da legislação infraconstitucional (Lei Complementar n. 57/1994) e do conjunto probatório. Eventual ofensa constitucional, se tivesse ocorrido, seria indireta. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. INCORPORAÇÃO DA GRATIFICAÇÃO DE HABILITAÇÃO POLICIAL MILITAR. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. IRREDUTIBILIDADE DOS VENCIMENTOS: IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). 3. NATUREZA DA GRATIFICAÇÃO: CONTROVÉRSIA INFRACONSTITUCIONAL (SÚMULA N. 280). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 809.617-AgR, de minha relatoria, Primeira Turma, DJe 25.11.2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ASSIDUIDADE. PROFESSORES DO ESTADO DO PARANÁ. EXTENSÃO AOS INATIVOS. DISCUSSÃO SOBRE A NATUREZA DA VANTAGEM. CASO EM QUE ENTENDIMENTO DIVERSO DO ADOTADO PELA INSTÂNCIA JUDICANTE DE ORIGEM EXIGIRIA O REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE (LEI ESTADUAL 13.627/2002). 1. Eventual ofensa ao § 8º do art. 40 (na redação dada pela EC 20/98) da Magna Carta de 1988 apenas ocorreria de forma reflexa ou indireta, o que não autoriza a abertura da via recursal extraordinária. 2. Agravo regimental desprovido” (AI 793.492-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 8.10.2010).
+    7. Ademais, não há cogitar no caso em ofensa ao art. 97 da Constituição nem em incidência da Súmula Vinculante n. 10 do Supremo Tribunal, pois o Tribunal de Justiça do Espírito Santo não declarou inconstitucional ou afastou, por julgar inconstitucional, a Lei n. 3.400/1991 ou da Lei Complementar n. 4/1990. Apenas interpretou essas normas utilizando-se dos dispositivos correspondentes à matéria em debate.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIÁRIO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO. ACÓRDÃO RECORRIDO QUE SE LIMITA A INTERPRETAR A NORMA E APLICÁ-LA AO CASO CONCRETO. AUSÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 821.963-AgR, de minha relatoria, Primeira Turma, DJe 12.4.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
