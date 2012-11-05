@@ -1,0 +1,20 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GENIVALDO BRITO ARAÚJO, contra decisão monocrática proferida pela relatora do HC nº 258.380/SP, do Superior Tribunal de Justiça.
+    Segundo a inicial, o paciente foi denunciado pela suposta prática do crime previsto no art. 121, § 2º, inc. I, do Código Penal.
+    Inconformada, a defesa impetrou habeas corpus ao Tribunal de Justiça de São Paulo, que indeferiu o pedido de liminar, e ao Superior Tribunal de Justiça, cuja relatora o indeferiu de plano, ao fundamento principal de supressão de instância.
+    Na sequência, sobreveio o presente habeas corpus, por meio do qual se pede, em síntese, a superação do óbice da súmula 691 desta Corte e a imediata restituição da liberdade ao ora paciente. Para tanto, o impetrante alega falta de fundamentação para a manutenção da prisão preventiva e que o paciente seria possuidor de condições pessoais que lhe possibilitariam permanecer em liberdade até o trânsito em julgado de eventual condenação.
+    É o relatório.
+    Decido.
+    Conforme relatei, existe habeas corpus em tramitação no TJSP ainda pendente de julgamento de mérito, fato este que motivou o indeferimento liminar do writ impetrado ao Superior Tribunal de Justiça.
+    Considerando que a matéria objeto deste habeas corpus não foi examinada em definitivo pelo TJSP e tampouco conhecida pelo STJ, tem-se, por conseguinte, que a sua apreciação diretamente por esta Corte acarretará dupla supressão de instância.
+    Ora, se a jurisprudência do Supremo Tribunal Federal não admite a formação de habeas corpus “contra a decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar” (Súmula 691), com muito mais razão deve ser rechaçado o pedido apresentado neste habeas corpus, já que a matéria discutida nesta ação, repito, não teve o mérito apreciado pelo Tribunal Estadual e tampouco conhecido pelo STJ.
+    Assim, é de todo recomendável aguardar-se, primeiro, o julgamento do habeas corpus impetrado ao TJSP, para, depois, se for o caso, impetrar-se outro writ ao STJ, o qual, caso denegado, poderá dar ensejo à impetração de ação da mesma natureza ao Supremo Tribunal Federal.
+    Ainda que fosse superado o óbice relativo à admissibilidade, melhor sorte não adviria à impetração.
+    Ao compulsar os autos, verifico que a custódia cautelar do ora paciente está suficientemente fundamentada na presença dos requisitos previstos no art. 312 do Código de Processo Penal, sendo considerada, principalmente, “a circunstância de o réu encontrar-se foragido”.
+    Nesse contexto, é da jurisprudência desta Corte o entendimento de que “a fuga do réu do distrito da culpa justifica o decreto ou a manutenção da prisão” (HC 106.816/PE, rel. min. Ellen Gracie, DJe nº 117, publicado em 20.06.2011), sendo certo que a verificação da adequação do referido fundamento utilizado pelo magistrado de primeiro grau exige a realização de minucioso revolvimento do acervo fático-probatório coligido nos autos de origem, o que, em regra, não é admitido na via processual do habeas corpus.
+    Por fim, em relação ao fato de o paciente supostamente ser possuidor de bons antecedentes, ter residência fixa e exercer atividade laborativa lícita, é da jurisprudência deste Tribunal que as circunstâncias pessoais favoráveis dos réus de uma ação penal, de per se, não são suficientes ao afastamento do acautelamento preventivo quando a custódia se demonstrar necessária e for devidamente justificada pelo juízo competente para sua decretação, o que efetivamente ocorreu no caso em análise.
+    Por essas razões, não conheço do habeas corpus, conforme me autoriza o art. 38 da Lei 8.038/1990 e o art. 21, § 1º, do RISTF, sobretudo porque não foi demonstrada qualquer excepcionalidade que poderia conduzir à superação da súmula nº 691 desta Corte e ao conhecimento de ofício das alegações deduzidas na peça inicial.
+    Publique-se. Int..
+    Brasília, 05 de novembro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
