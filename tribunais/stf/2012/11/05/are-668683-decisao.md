@@ -1,0 +1,32 @@
+DECISÃO
+    Trata-se de agravo contra decisão monocrática exarada pelo Juiz Presidente da Turma Recursal do Tribunal de Justiça de Rondônia, denegatória de seguimento do recurso extraordinário interposto por Evandro Gerke e Indústria e Comércio de Madeiras Tropical LTDA.
+    A Agravante foi condenada à prestação de serviços ambientais, consistentes no pagamento de 12 (doze) salários mínimos por infringir o artigo 46 da Lei 9.605/98, enquanto o Agravante Evandro Gerke foi condenado a 8 (oito) meses de detenção e ao pagamento de 15 (quinze) dias-multa, no valor de 1/3 do salário mínimo, pela prática da conduta prevista no art. 46, parágrafo único, da mesma lei.
+    Ao recurso interposto pela Defesa foi negado provimento, mantendo-se a sentença. Opostos embargos declaratórios, a Corte estadual os rejeitou.
+    Contra essa decisão, interposto recurso extraordinário, apontando, em síntese, violação dos arts. 5º, XLVI, LIV e LV, e 93, IX, da Constituição da República, ao qual a Corte a quo negou seguimento verbis:
+    “O recorrente interpôs recurso extraordinário alegando repercussão geral e infringência de regra constitucional. Entretanto, por uma simples análise dos argumentos, o que pretende é rediscutir a matéria de fato já decidida no feito.
+    Ante o exposto, inadmito o RE e nego-lhe seguimento.”
+    No presente agravo (fls. 354-61), os Agravantes alegam ser a questão apenas de direito, não sendo necessário o revolvimento de fatos e provas. Repisa ter a Corte a quo violado o art. 93, IX, da Carta Política ao argumento de estar o acórdão carente de fundamentação. Insiste afrontado o art. 5º, XLVI, LIV e LV, da Constituição da República por ser a denúncia genérica e por serem arbitrárias e desproporcionais as penas estabelecidas.
+    Contraminuta às folhas 363-8 pela negativa de provimento do agravo.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O acórdão da Turma Recursal assim está fundamentado:
+    “(...)
+    Em análise aos autos observo que a sentença de primeiro grau não merece qualquer reforma, sendo proferida de acordo com as provas constantes dos autos e legislação pertinente.
+    Não há que se falar em nulidade processual, porquanto em relação aos recorrentes a denúncia, apesar de minimamente descreveu a conduta (SIC) individualizada dos recorrentes, que foi comprovada nos autos.
+    Indiscutível a possibilidade da responsabilidade penal da pessoa jurídica por crimes ambientais, nos termos do artigo 225, § 3º, da Carta Maior. O diretor, gerente, preposto, mandatário ou administrador também responde, nos termos do artigo 2º da Lei 9.905/98 quando concorre para a prática do delito, o que foi o caso dos autos.
+    A materialidade ficou comprovada, sendo certo que a realização de nova perícia por meio da Polícia Civil onde se constatou divergências sobre a quantidade de madeiras afirmadas no auto de infração serve tão-somente para dosimetria da pena, que foi corretamente aplicada, porquanto ainda assim restou demonstrado que não estavam todas as madeiras acobertadas pela documentação pertinente.
+    A propósito de prequestionar matéria constitucional, em Recurso inominado, por alegada ofensa ao art. 5º, incisos II e XIII, XXII, XLV, LV, LVI, e art.  170, I e II, da Constituição há de ser, desde logo, repelido.
+    Tenho que não restou configurado qualquer ofensa a dispositivo constitucional, muito pelo contrário, houve cumprimento de norma constitucional vigente.
+    Ante o exposto, conheço do recurso e nego-lhe provimento para manter a decisão de primeiro grau por seus próprios fundamentos.” (fls. 310-1).
+    Os embargos declaratórios foram rejeitados ao fundamento de inexistência de omissão, contradição ou obscuridade (fl. 321).
+    Não se vislumbra com facilidade que a denúncia seria genérica na imputação à pessoa jurídica, ora Agravante. Foi encontrada nas dependências da empresa madeira sem licença para aquisição ou comercialização, enquadrando-se a conduta no tipo criminal do art. 46 da Lei nº 9.605/1998.
+    As penas fixadas à pessoa jurídica consistiram em multa de doze salários mínimos, não se verificando arbitrariedade ou desproporcionalidade manifesta.
+    Além de não se evidenciarem os vícios apontados, ofensa à Constituição, se houvesse, seria meramente reflexa, não viabilizando o extraordinário, conforme jurisprudência uníssona do Supremo Tribunal Federal (v.g.: Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional - RE 660.186 AgR/RS 1.ª Turma Rel. Min. Dias Toffoli un. - j. 13/12/2011 Dje-032, de 14/02/2012; Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária - RE 642.408 AgR/SP 1.ª Turma Rel. Min. Luiz Fux un. - j. 13/12/2011 Dje-032, de 14/02/2012).
+    Por fim, no que tange à suposta ofensa ao artigo 93, IX, da CF/88, verifico que o acórdão contém motivação suficiente e adequada. O fato de ter sido contrário aos interesses da parte não configura ofensa ao referido dispositivo constitucional. Nesse sentido, confiram-se os seguintes julgados: RE 535.315-AgR-ED/SP, de minha relatoria, 2ª Turma, unânime, DJe 22.05.2009; AI 557.074-AgR/SC, rel. Min. Ricardo Lewandowski, 1ª Turma, unânime, DJe 22.06.2007.
+    Sobre o assunto, ressalte-se, ainda, que esta Corte tem o seguinte entendimento: o que a Constituição exige, no inciso IX, do art. 93, é que o juiz ou o tribunal dê as razões de seu convencimento, não se exigindo que a decisão seja amplamente fundamentada, extensamente fundamentada, dado que a decisão com motivação sucinta é decisão motivada (RE 430.637-AgR/PR, rel. Min. Carlos Velloso, 2ª Turma, unânime, DJ 23.09.2005). Recentemente, esse posicionamento foi reafirmado pelo Pleno deste Tribunal, no julgamento do AI 791.292-QO/PE, rel. Min. Gilmar Mendes, por maioria, sessão de 23.6.2010, ao reconhecer a existência de repercussão geral sobre o tema.
+    Ante o exposto, considerando a manifesta inadmissibilidade do extraordinário, com base no art. 21, § 1º, do Regimento Interno, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 05 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
