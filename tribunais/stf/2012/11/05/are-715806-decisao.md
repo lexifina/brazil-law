@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. LICENÇA PARA TRANSPORTE INTERMUNICIPAL DE PASSAGEIROS. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. TRANSPORTE INTERMUNICIPAL. AUSÊNCIA DE AUTORIZAÇÃO DO DAER. COMPETÊNCIA ESTADUAL. LEGALIDADE DA RESOLUÇÃO N. 5219/10 DO DAER. RAZOABILIDADE DA LIMITAÇÃO IMPOSTA PARA FINS DE LICENÇA DE TRANSPORTE DE PASSAGEIROS. APELAÇÃO DESPROVIDA” (fl. 217).
+    2. A Recorrente afirma que o Tribunal a quo teria contrariado os arts. 5º, 22, inc. XI e XVI, e 170 da Constituição da República.
+    Alega que, “não é razoável limitar a utilização de automotores coletivos em função da idade do chassi. (…) Instituir limites aleatórios de quilometragem diária, em cima do ano de fabricação do ônibus, desconsidera em absoluto a realidade da frota nacional. (…) muitos veículos novos podem estar em condições de tráfego muito inferior às de outros mais antigos” (fls. 248-249).
+    Sustenta que “há ilegalidade na conduta da ré ao impor restrições ao tráfego dos veículos da impetrante com base na Resolução nº 5.219/2010, em razão de não possuir competência Constitucional para legislar sobre a matéria de trânsito e transporte” (fl. 253).
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de prequestionamento e a circunstância de que a ofensa constitucional, se tivesse ocorrido, seria indireta (fls. 284-287).
+    4. No agravo interposto a Agravante afirma que o Tribunal a quo teria contrariado de forma direta a Constituição da República e que o prequestionamento teria sido devidamente realizado.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    6. Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    7. Razão jurídica não assiste à Agravante.
+    8. Na espécie vertente, o Tribunal de origem decidiu a controvérsia nos termos seguintes:
+    “a presente demanda versa sobre transporte de passageiros intermunicipal, cuja competência para a exploração é atribuída aos Estados, a teor do que dispõem os arts. 21, inciso XII, alínea ‘e’, e art. 25, parágrafo 1º, ambos da Constituição Federal. Dessa forma, no Estado do Rio Grande do Sul, compete ao DAER o licenciamento para tal tipo de transporte, em face do disposto na Lei Estadual nº 7.105, art. 2º, que assim estabelece: (…) Tal artigo está em perfeita consonância com o art. 3º da Lei Federal n. 9.074/95, o qual prevê, de acordo com uma interpretação sistemática, a necessidade de autorização para o transporte de pessoas. (…) Nessa perspectiva, não há falar em ilegalidade da Resolução n. 5.219/2010, pois esta não contraria a Lei Estadual n. 7.105/77, apenas a complementa ao dispor sobre os procedimentos administrativos e operacionais a serem adotados no transporte coletivo especial no Estado. Esta competência está prevista no art. 14, II da Lei 9.503/97 (…) Assim, além da indiscutível legalidade do diploma legislativo em comento, tem-se que este constitui norma de proteção ao usuário, mediante a instituição de limitação que, a meu ver, é bastante razoável e proporcional aos interesses e direitos envolvidos, qual seja, o interesse econômico da impetrante e a segurança dos passageiros transportados” (fls. 217 v. - 218).
+    O Tribunal a quo fundamentou o acórdão na legislação infraconstitucional. Eventual ofensa à Constituição, se tivesse ocorrido, seria indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. LICENÇA PARA TRANSPORTE DE PASSAGEIROS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 600.233-AgR, de minha relatoria, Primeira Turma, DJe 2.3.2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COMPATIBILIDADE DA RESOLUÇÃO 19.784/1997 E DA PORTARIA 158/2002, AMBAS DO TSE, COM AS DISPOSIÇÕES DAS LEIS 9.461/1996 E 10.745/2002. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II – Agravo regimental improvido” (RE 635.039-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.8.2011 – grifos nossos).
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    9.  Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
