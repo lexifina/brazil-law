@@ -1,0 +1,10 @@
+DECISÃO: Trata-se de agravo de instrumento de decisão que inadmitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal Regional Federal da 4ª Região que, em execução de sentença, manteve decisão que indeferira a implementação de índice em folha de pagamento dos ora agravantes.
+    Consigno, inicialmente, que se trata de apelo extraordinário interposto de acórdão cuja publicação se verificou em data posterior a 03.05.2007, portanto, quando já exigível a demonstração formal da existência de repercussão geral da questão constitucional invocada na peça recursal (cf. AI 664.567-QO, rel. min. Sepúlveda Pertence).
+    No recurso extraordinário, alega-se ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV, e 93, IX, da Constituição. Assim foi sustentada a existência de repercussão geral (fls. 275):
+    “Em face do caráter também objetivo do recurso extraordinário, é fundamental que as controvérsias envolvendo a interpretação de normas constitucionais cheguem ao STF, e isso não ocorrerá neste caso se não forem admitidos recursos como este. No caso concreto, trata-se de extirpar do mundo jurídico decisão flagrantemente contraria às normas e princípios constitucionais, eis que, a um só tempo, nega prestação jurisdicional, mediante decisão imotivada, e ofende a coisa julgada, a qual, se mantida, constituirá precedente danoso para novas lesões. Além disso, há relevantes reflexo jurídicos em jogo, na medida em que a decisão recorrida, além de não se mostrar razoável, revela-se evidentemente contrária ao texto constitucional.”
+    A recorrente não desenvolveu argumentação suficiente acerca das circunstâncias que poderiam configurar a relevância social, política, econômica e jurídica das questões constitucionais aventadas na petição de recurso extraordinário. Há, portanto, deficiência formal que o inviabiliza.
+    Do exposto, nego seguimento ao agravo de instrumento.
+     Publique-se.
+    Brasília, 5 de novembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
