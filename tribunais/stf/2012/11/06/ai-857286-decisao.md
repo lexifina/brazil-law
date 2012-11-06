@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento a União. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação do art. 129, III, da Lei Maior.
+    Contraminuta.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido da legitimidade do Ministério Público para propor ação civil pública em defesa de direitos individuais homogêneos, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 809.018-AgR/SC, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 10.10.2012; RE 459.456-AgR/RJ, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 22.10.2012; AI 637.853-AgR/SP, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 17.9.2012; e AI 737.104-AgR/PE, Rel. Min. Luiz Fux, 1ª Turma, DJe 17.11.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CONCURSO. ISENÇÃO DE TAXA DE INSCRIÇÃO DE CANDIDATOS CARENTES. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA AD CAUSAM DO MINISTÉRIO PÚBLICO FEDERAL. DECISÃO RECORRIDA EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. OFENSA À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. PRECEDENTES. 1. A legitimação do Ministério Público para o ajuizamento de ação civil pública, não se restringe à defesa dos direitos difusos e coletivos, mas também abarca a defesa dos direitos individuais homogêneos, máxime quando presente o interesse social. Nesse sentido, o RE 500.879 – AgR, Relatora a Ministra Cármen Lúcia, Primeira Turma. 2. In casu, não houve violação ao princípio da reserva de plenário, conforme a tese defendida no presente recurso, isso porque a norma em comento não foi declarada inconstitucional nem teve sua aplicação negada pelo Tribunal a quo, ou seja, a controvérsia foi resolvida com a fundamento na interpretação conferida pelo Tribunal de origem a norma infraconstitucional que disciplina a espécie. Precedentes: Rcl. 6944, Pleno, Rel. Min. Cármen Lúcia, Dje de 13.08.2010; RE 597.467-AgR, Primeira Turma, Dje de 15.06.2011 AI 818.260-AgR, Segunda Turma, Dje de 16.05.2011, entre outros. 3. Agravo Regimental a que se nega provimento”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 06 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
