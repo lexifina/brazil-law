@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário contra acórdão confirmatório de sentença que condenou a União ao pagamento da diferença de 15% da Gratificação de Desempenho de Atividade Jurídica – GDAJ à autora, procuradora federal, que ingressou nos quadros da AGU posteriormente à edição da Medida Provisória 2.229-43/2001.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 2º, 5º, caput, II, XXXV, LIV e LV, 37, caput, 39, § 3º, 7º, XXX, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (MP 2.229-43/2001 e Portaria 492/2001 da AGU). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Com esse raciocínio, destaco o RE 631.226/RS, Rel. Min. Ayres Britto.
+     Isso posto, nego seguimento ao recurso (CPC, art. 557, caput ).
+    Publique-se.
+    Brasília, 6 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
