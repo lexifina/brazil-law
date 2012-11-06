@@ -1,0 +1,32 @@
+Decisão:
+    Vistos.
+    Cuida-se de mandado de segurança impetrado pelo Município de Serrana em face do Presidente do Tribunal de Justiça do Estado de São Paulo, com o objetivo de anular decisão judicial proferida nos autos do Processo nº 0282906-83.2011.8.26.0000 em razão da “nulidade absoluta da sessão de julgamento ocorrida no dia 19/09/2012, na qual foi indeferido o pedido de conversão em diligência e julgado procedente o pedido de intervenção”.
+    Os fundamentos apresentados na peça vestibular podem ser assim sintetizados:
+    a) “na sessão de 12/09/2012 foi requerido pelo Procurador Geral do Município o adiamento da sessão para preparo de razões de sustentação oral, dada a gravidade da matéria discutida, a qual dependia de diversas diligências, junto aos Setores Financeiro, Cadastro e Imobiliário do Município de Serrana com a finalidade de obter dados suficientes para imiscuir o entendimento das dificuldades do Município no adimplemento do precatório, mormente no importe de mais de R$ 27.000.000,00 [vinte e sete milhões de reais]”;
+    b) muito embora o adiamento da sessão de julgamento tenha sido deferido em 12/9/12, o Município ora impetrante foi surpreendido “com a publicação da sessão do dia 19/09 p.p. onde, como assinalado foi julgado o pedido de intervenção sem a presença de seu defensor”;
+    c) o Procurador Geral do Município de Serrana não foi cientificado acerca da inclusão do processo em pauta de julgamento para a sessão ordinária do Órgão Especial do e. TJSP seguinte àquela em que deferido o pedido de adiamento, o que obstou o exercício do direito à ampla defesa e ao contraditório. Nesse tocante, argumenta:
+    “Várias são as decisões deste E. Supremo Tribunal Federal quanto a obrigatoriedade de intimação pessoal do defensor para sustentação oral:
+    (…)
+    Ora, Exas., como confirmado nos precedentes da mais alta Corte de Justiça Pátria, a sustentação oral faz parte das medidas processuais que se prestam para assegurar o devido processo legal, a plena garantia do contraditório e da ampla defesa.
+    (…)
+    Não é demais salientar que o deferimento de adiamento da sessão pdoe causar certos entraves ao advogado, pois há secretarias ou cartórios de órgão colegiados que não intmam o profissional para a nova data, como in casu, onde, aparentemente o adiamento foi para a sessão subsequente à primeva. Essa postura é manifestamente ilícita, pois vai de encontro com o posicionamento jurisprudencial acima delineado e com o próprio art. 5º, LV, da CF.”
+    Requer seja deferido o pedido liminar para suspender os efeitos da decisão do e. TJSP inquinada de ilegal e, no mérito, seja concedida a segurança para anular o ato impugnado.
+    É o relatório.
+    Assevero que a competência originária desta Suprema Corte submete-se a regime de direito estrito, estando fixada, em numerus clausus, no rol do artigo 102, inciso I, da Constituição Federal.
+     Nesse sentido, Pet nº 1.738/MG-AgR, Relator o Ministro Celso de Mello, Tribunal Pleno, DJ de 1º/9/99, assim ementado na parte que interessa:
+    “A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO.
+     - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida - não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em numerus clausus, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes.
+     O regime de direito estrito, a que se submete a definição dessa competência institucional, tem levado o Supremo Tribunal Federal, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional (ações populares, ações civis públicas, ações cautelares, ações ordinárias, ações declaratórias e medidas cautelares), mesmo que instauradas contra o Presidente da República ou contra qualquer das autoridades, que, em matéria penal (CF, art. 102, I, b e c), dispõem de prerrogativa de foro perante a Corte Suprema ou que, em sede de mandado de segurança, estão sujeitas à jurisdição imediata do Tribunal (CF, art. 102, I, d).” (grifos no original)
+    No tocante a mandado de segurança, a competência originária do STF é fixada em razão da autoridade impetrada. Assim, a viabilidade do presente mandamus exige a comprovação da prática de ato, omissivo ou comissivo, por parte de qualquer das autoridades elencadas na alínea “d” do inciso I do art. 102 da Constituição Federal, quais sejam: “Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    Com a inclusão da alínea “r” no inciso I do art. 102 da Constituição Federal pela Emenda Constitucional nº 45/2004, conferiu-se ao STF a competência originária para processar e julgar “as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público”, incluídas nessas ações, os mandados de segurança voltados contra os atos praticados por estes Conselhos.
+    No caso dos autos, a autoridade apontada para figurar no polo passivo do mandamus é o Presidente do Tribunal de Justiça do Estado de São Paulo, cujos atos estão submetidos a exame originário pelo próprio e. TJSP. em sede de mandado de segurança. É o que dispõe o art. 21 da lei Orgânica da Magistratura, in verbis:
+    “Art. 21 - Compete aos Tribunais, privativamente:
+    (...)
+    VI - julgar, originariamente, os mandados de segurança contra seus atos, os dos respectivos Presidentes e os de suas Câmaras, Turmas ou Seções.”
+    O mandamus, nesses casos, segundo a jurisprudência do STF (MS nº 25.615/DF-AgR, Relatora a Ministra Cármen Lúcia , Tribunal Pleno, DJE de 27/3/09 e MS nº 26.231DF-QO, Tribunal Pleno, Relator o Ministro Carlos Britto , DJE de 16/5/08), deve ser remetido para o órgão competente, a fim de que esse disponha como de direito.
+    Ante o exposto, declino da competência e determino o encaminhamento dos autos ao e. Tribunal de Justiça do Estado de São Pauo, para que proceda como entender de direito.
+    Publique-se. Int..
+    Brasília, 6 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
