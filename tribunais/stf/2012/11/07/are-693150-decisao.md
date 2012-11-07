@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL. DANO MATERIAL E MORAL. CONDUTA ILÍCITA. OFICIAL DE REGISTRO. INCURSIONAMENTO NO CONTEXTO PROBATÓRIO DOS AUTOS. SÚMULA 279 DESTA CORTE.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”.
+3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Precedentes: AI 829.974-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.9.2011 e RE 419.623-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.10.2008
+4. In casu, o acórdão recorrido assentou:
+“RESPONSABILIDADE CIVIL DO ESTADO. DANO MATERIAL E MORAL COMPROVADOS. CONDUTAS ILÍCITAS PRATICADAS POR PREPOSTO DO RÉU.
+O Cartório do 5º Ofício de Notas da Comarca de Petrópolis, na época dos fatos, ainda se encontrava vinculado ao Estado réu uma vez que sua delegação ainda não havia sido concedida a particular, a despeito do disposto no artigo 236 § 1º da Constituição Federal. Responsabilidade configurada do Estado. Restou configurada dor moral capaz de causar tristeza e profundo sofrimento, pois há nos autos prova de sofrimento e angústia originados do ato ilícito cometido por preposto do réu, que ao desviar pagamentos e ludibriar a vítima causou abalo em sua saúde. Indenização por danos morais que deve ser fixada consoante um critério de razoabilidade, punindo o autor da ofensa sem transformá-lo em fonte de lucro a ensejar enriquecimento sem causa, respeitando-se os princípios da razoabilidade e proporcionalidade da indenização ao limitar a condenação de acordo com a gravidade da ofensa, figurando razoável a fixação de indenização no valor de R$ 2.000,00 (dois mil reais).
+Recurso do autor a que se dá parcial provimento, negando-se provimento ao do réu.”
+5. NEGO SEGUIMENTO ao agravo.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo ESTADO DO RIO DE JANEIRO, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “RESPONSABILIDADE CIVIL DO ESTADO. DANO MATERIAL E MORAL COMPROVADOS. CONDUTAS ILÍCITAS PRATICADAS POR PREPOSTO DO RÉU.
+    O Cartório do 5º Ofício de Notas da Comarca de Petrópolis, na época dos fatos, ainda se encontrava vinculado ao Estado réu uma vez que sua delegação ainda não havia sido concedida a particular, a despeito do disposto no artigo 236 § 1º da Constituição Federal. Responsabilidade configurada do Estado. Restou configurada dor moral capaz de causar tristeza e profundo sofrimento, pois há nos autos prova de sofrimento e angústia originados do ato ilícito cometido por preposto do réu, que ao desviar pagamentos e ludibriar a vítima causou abalo em sua saúde. Indenização por danos morais que deve ser fixada consoante um critério de razoabilidade, punindo o autor da ofensa sem transformá-lo em fonte de lucro a ensejar enriquecimento sem causa, respeitando-se os princípios da razoabilidade e proporcionalidade da indenização ao limitar a condenação de acordo com a gravidade da ofensa, figurando razoável a fixação de indenização no valor de R$ 2.000,00 (dois mil reais).
+    Recurso do autor a que se dá parcial provimento, negando-se provimento ao do réu.”
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 236 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro sob o entendimento de que a solução da controvérsia demanda a reapreciação do contexto fático-probatório carreado ao autos.
+    Brevemente relatado. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente apelo.
+    Verifica-se que a solução da controvérsia passa inevitavelmente pelo incursionamento no contexto fático-probatório constante dos autos.
+    Destarte, não se revela cognoscível, em sede de Recurso Extraordinário, a insurgência que tem como escopo o incursionamento no contexto fático-probatório engendrado nos autos, porquanto referida pretensão não se amolda à estreita via do apelo extremo, cujo conteúdo restringe-se a fundamentação vinculada de discussão eminentemente de direito e, portanto, não servil ao exame de questões que demandam o revolvimento do arcabouço fático-probatório dos autos, face ao óbice erigido pela Súmula 279/STF de seguinte teor: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Sob esse enfoque, ressoa inequívoca a vocação para o insucesso do apelo extremo, por força do óbice intransponível do verbete sumular supra, que veda a esta Suprema Corte, em sede de recurso extraordinário, sindicar matéria fática.
+    Nesse sentido, colacionam-se os seguintes julgados:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE DO ESTADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+    I – A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes.
+    II - Agravo regimental improvido.” (AI 829.974-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 6.9.2011)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL OBJETIVA. PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 419.623-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.10.2008)
+    NEGO SEGUIMENTO ao agravo com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 7 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
