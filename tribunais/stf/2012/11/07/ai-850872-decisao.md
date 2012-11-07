@@ -1,0 +1,17 @@
+DECISÃO: vistos, etc.
+    A Secretaria Judiciária do Supremo Tribunal Federal devolveu os autos à origem, para que fosse aplicado, ao caso, o art. 543-B do CPC, tendo em conta a ausência de repercussão geral da controvérsia alusiva à limitação dos juros a 12% ao ano em contratos bancários firmados após a Emenda Constitucional 40/2003.
+    2. Pois bem, contra a decisão que, na instância judicante de origem, aplicou a sistemática da repercussão geral, foi interposto o presente agravo de instrumento.
+    3. Feito esse breve resumo dos acontecimentos, passo a decidir. De saída, pontuo que, não obstante o termo de remessa da Secretaria Judiciária desta Casa de Justiça faça referência a paradigma em que se discute, tão-somente, a limitação dos juros remuneratórios em 12% ao ano, no presente processo é debatida, também, a questão alusiva à capitalização mensal de juros (questão que teve a repercussão geral reconhecida, no julgamento do RE 592.377, da relatoria do ministro Marco Aurélio – tema 033 do Plenário Virtual, ainda pendente de julgamento de mérito).
+    4. De mais a mais, pontuo que, nos termos da jurisprudência do Supremo Tribunal Federal, é incabível a interposição de agravo em situações como a que ora examino. Confiram-se, a propósito, a Rcl 7569, sob a relatoria da ministra Ellen Gracie; e o AI 760.358-QO, sob a relatoria do ministro Gilmar Mendes.
+    5. Seriam, então, irrecorríveis decisões de Presidentes de Tribunais de origem que aplicassem indevidamente a sistemática da repercussão geral? Não! Transcrevo a solução proposta pela Ministra Ellen Gracie no julgamento da mencionada reclamação e acatada, à unanimidade, pelo Supremo Tribunal Federal:
+    “[...]
+    Todavia, as partes não podem ficar à mercê de indevidas aplicações do salutar instituto da repercussão geral. É preciso que o Tribunal, desde já, sinalize ao sistema judiciário a fórmula para solução desses impasses.
+    Afigura-se claro que o manejo da reclamação é incabível porque não configurada nem a usurpação de competência, nem o desrespeito a decisão deste Tribunal, além de provocar manifestação do STF antes que sua jurisdição seja inaugurada. Além disso, traria o indesejável efeito colateral de ordem prática de abrir as portas do Tribunal a cada decisão nos Tribunais de origem que aplique nossa classificação positiva ou negativa de existência de repercussão geral.
+    Tendo em vista a ausência de outro meio eficaz para a correção da aplicação da jurisprudência firmada neste Plenário, concluo que o agravo interno a ser interposto no Tribunal de origem contra o ato da presidência que haja erroneamente classificado o caso concreto há de ser o instrumento adequado a ser utilizado. Este instrumento recursal possibilitará a correção, na via do juízo de retratação, ou por decisão colegiada.
+    [...]”
+    (Sem destaques no original.)
+    Ante o exposto, e frente ao art. 557 do CPC e à alínea “c” do inciso V do art. 13, c/c o § 1º do art. 21, ambos do RI/STF, não conheço do agravo. Determino o processamento, na origem, como agravo interno (observando-se, inclusive, a anotação feita no item 3 supra), na esteira da decisão proferida pelo meu antecessor na Presidência desta Casa de Justiça, ministro Cezar Peluso no ARE 671.676 (decisão essa publicada no DJE de 09/03/2012), bem como das decisões por mim proferidas no RE 553.580 e nos AIs 809.878, 809.677, 807.082, 806.281 e 785.246.
+    Publique-se.
+    Brasília, 07 de novembro de 2012.
+Ministro AYRES BRITTO
+Presidente
