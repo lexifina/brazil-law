@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de agravo de instrumento interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa tem o seguinte teor (fls. 233):
+    “APELAÇÃO CÍVEL - AÇÃO DE REPARAÇÃO DE DANOS - CONTRATO DE COMODATO - CONDUTA TENDENTE À SUA MANUTENÇÃO - AJUIZAMENTO DE AÇÃO DE DESPEJO - COMPORTAMENTO CONTRADITÓRIO DA COMODANTE - VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ - DANOS MATERIAIS PELOS SERVIÇOS PRESTADOS - PRETENSA RELAÇÃO DE TRABALHO - MATÉRIA ESTRANHA A ESTA ESFERA DE COMPETÊNCIA - DANO MORAL - CONFIGURADO - LESÃO À DIGNIDADE DA COMODATÁRIA - DEVER DE INDENIZAR - PROCEDÊNCIA PARCIAL DA PRETENSÃO INDENIZATÓRIA - SUCUMBÊNCIA RECÍPROCA.
+    1. Não se admite, nesta seara, o exame das alegações atinentes à reparação material pelos serviços prestados, pois isto implicaria em reconhecimento da alegada relação de trabalho, matéria esta que, consoante disposto no art. 114, VI, da CF, é afeta à competência da Justiça do Trabalho.
+    2. A contradição entre a conduta da Apelada - predisposta a continuar abrigando a Apelante em imóvel de sua propriedade - e o ajuizamento da ação de despejo, além de configurar venire contra factum proprium, viola os deveres de boa-fé, lisura e lealdade contratual.
+    3. O comportamento contraditório da Apelada aviltou a dignidade da Apelante, ao passo que lhe retirou a moradia, restando configurado o dano moral.
+    4. Tendo o julgamento do recurso resultado na reforma da sentença, como parcial procedência da pretensão indenizatória, os ônus sucumbenciais devem ser distribuídos em conformidade com a regra do art. 21, caput, do CPC.
+    RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PROVIDO.”
+    Nas razões do recurso extraordinário indica-se ofensa ao disposto no art. 114, VI, da Constituição federal. Sustenta-se que a Justiça do Trabalho seria competente para apreciar o feito, visto que o pedido de reparação civil por dano moral decorre de relação de trabalho, do mesmo modo que foi o pedido de reparação por dano material.
+    O Superior Tribunal de Justiça negou provimento ao agravo regimental em agravo de instrumento em recurso especial por demandar o reexame de matéria fático-probatória e por ausência de prequestionamento (Ag 1.391.196 – fls. 394-399).
+    É o relatório. Decido.
+    Sem razão.
+    Primeiramente, conforme destacado pelo Tribunal a quo, a arguição de incompetência é inovatória porque somente foi veiculada nos embargos de declaração opostos do acórdão da apelação. Ao inovar nos autos, suscitando nos embargos de declaração matéria que não consta das contrarrazões da apelação, deduz matéria estranha à controvérsia, incidindo no óbice das Súmulas 282 e 356. Nesse sentido:
+    “- Não tem razão a agravante. Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento.
+    Agravo a que se nega provimento.” (AI 265.938-AgR, rel. min. Moreira Alves, Primeira Turma, DJ de 15.09.2000)
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes.
+    2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, ainda que a questão verse sobre matéria de ordem pública, é necessário o prequestionamento.” (RE 593.505-AgR, rel. min. Cármen Lúcia, DJe de 13.11.2009)
+    Ainda que superado o óbice supra, o Tribunal a quo concluiu que o pedido de reparação por dano moral tem origem na ação de despejo ajuizada pela parte ora agravante.
+    Por oportuno, assinalo que a sentença que favorecia a agravante partiu de idêntica premissa (fls. 155).
+    Desta feita, impossível chegar a conclusão diversa sem prévio reexame do conjunto fático-probatório adotado no acórdão recorrido. Isso atrai a incidência da Súmula 279 desta Corte.
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 07 de novembro de 2012.
+Ministro JOAQUIM BARBOSA – Relator
