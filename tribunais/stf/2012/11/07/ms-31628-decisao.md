@@ -1,0 +1,29 @@
+Decisão: Trata-se de mandado de segurança com pedido de liminar impetrado por Evandro Dias de Souza contra ato do Presidente do Supremo Tribunal Federal, que teria deixado de nomeá-lo para o cargo de Analista Judiciário – Área Judiciária, violando o dispositivo legal que determina a reserva de no mínimo 5% das vagas aos candidatos portadores de deficiência.
+    O impetrante alega que participou, na condição de candidato portador de deficiência, do concurso público para provimento dos cargos de Analista e Técnico do Supremo Tribunal Federal, concorrendo ao cargo de Analista Judiciário/Área Judiciária.
+    Afirma que foi aprovado na 16ª colocação entre os portadores de deficiência.
+    Sustenta que, inicialmente, o edital ofertou 44 vagas para o cargo de Analista Judiciário/Área Judiciária, reservando-se 3 destas vagas aos candidatos com deficiência.
+    Salienta que, “(...) após vagas surgidas em decorrência de exonerações, pedido de desistência de outros candidatos com deficiência, seria o próximo PNE a ser contemplado com a 9ª vaga reservada (...)”. (e-DOC 2, p.4)
+    Assevera que possui direito líquido e certo à nomeação, uma vez já teriam sido nomeados 153 candidatos, e autoridade coatora não teria respeitado a reserva de 5% das vagas aos portadores de deficiência física.
+    A autoridade coatora apresentou suas informações, alegando que agiu amparada pela legislação que rege a matéria, motivo pelo qual não se configura qualquer violação a direito líquido e certo do impetrante.
+    Aduz, em síntese, o seguinte:
+    “Desde o início do certame até a presente data, surgiram 47 vagas para o cargo de Analista Judiciário, Área Judiciária. Dessas, foram providas 139 por candidatos da listagem geral e 8, da listagem de deficientes. Isso porque, 147 x 5% = 7,35, que arredondando gera direito a 8 bagas destinadas a candidatos com deficiência.
+    Por fim, cabe esclarecer que para contemplar a nomeação do candidato Evandro Dias de Sousa seria necessário o surgimento de mais de 14 vagas. Isso porque, acrescendo-se essas 14 às 147 vagas que surgiram desde o início do certame, ter-se-ia um total de 161. Logo, 161 5% = 8,05 que arredondando para o inteiro subsequente geraria direito a 9 vagas destinadas a candidatos com deficiência. Portanto, tendo em vista que não houve o surgimento dessas 14 vagas, não se pôde nomear o referido candidato”. (e-DOC 30, p. 8)
+    Decido.
+    Não assiste razão ao impetrante.
+    Na hipótese, o impetrante alega que já teriam sido nomeados 153 candidatos para as vagas comuns destinadas ao cargo de Analista Judiciário/Área Judiciária e 8 candidatos para as vagas destinas aos portadores de deficiência física para o mesmo cargo.
+    Aduz ainda que, tendo em vista a quantidade de candidatos nomeados para as vagas comuns e levando em consideração que, após algumas desistências e nomeações tornadas sem efeito, ele é o próximo colocado na condição de portador de deficiência, sustentando que teria direito teria direito líquido e certo à nomeação, em virtude da reserva legal de 5% das vagas aos portadores de deficiência.
+    Inicialmente, registre-se que, ao contrário do alegado pelo impetrante, a autoridade coatora informou que foram nomeados 139 candidatos da listagem geral e 8 da listagem de deficientes físicos, totalizando 147 candidatos nomeados para o cargo de Analista Judiciário/Área Judiciária no certame em questão.
+    Destaque-se que esta Corte firmou entendimento no sentido de que, em se tratando de concurso público, devem ser reservadas, no mínimo, 5% das vagas aos portadores de deficiência e, em caso de obtenção de número fracionado, este deve ser arredondado para o primeiro número inteiro subsequente, desde que observado o limite máximo de 20% da vagas.
+    Nesse sentido confira-se o seguinte precedente:
+    “CONCURSO PÚBLICO - CANDIDATOS - TRATAMENTO IGUALITÁRIO. A regra é a participação dos candidatos, no concurso público, em igualdade de condições. CONCURSO PÚBLICO - RESERVA DE VAGAS - PORTADOR DE DEFICIÊNCIA - DISCIPLINA E VIABILIDADE. Por encerrar exceção, a reserva de vagas para portadores de deficiência faz-se nos limites da lei e na medida da viabilidade consideradas as existentes, afastada a possibilidade de, mediante arredondamento, majorarem-se as percentagens mínima e máxima previstas”. (MS 26.310, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, DJe 31.10.2007)
+    Acompanhando o mencionado entendimento do Plenário, recentemente, a Segunda Turma proferiu a seguinte decisão:
+    “Mandado de segurança. 2. Direito administrativo. 3. Concurso público. MPU. Candidata portadora de deficiência. Cargo de Técnico de Saúde/Consultório Dentário. 4. Reserva de vagas. Limites estabelecidos no Decreto 3.298/99 e na Lei 8.112/90. Percentual mínimo de 5% das vagas. Número fracionado. Arredondamento para primeiro número inteiro subsequente. Observância do limite máximo de 20% das vagas oferecidas. 5. Segurança concedida”. (MS 30.861, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 8.6.2012)
+    No caso, não verifico, qualquer ilegalidade por parte da autoridade coatora em deixar de nomear o impetrante, uma vez que agiu amparada pela legislação que rege a matéria e nos estritos termos da orientação firmada por esta Corte.
+    Isso porque 5% de 147 corresponde a 7,35, fração essa que, na hipótese, foi arredondada para mais, tendo em vista que já ocorreu a nomeação de 8 candidatos portadores de deficiência.
+    Assim, tendo em vista que o impetrante seria o 9º da lista, consideradas as desistências, não se vislumbra direito líquido e certo a ser amparado pela via do presente mandado de segurança.
+    Pelo o exposto, ante a ausência de direito líquido e certo, nego seguimento ao mandado de segurança e julgo prejudicado o pedido liminar. (arts. 21, §1º, do RISTF e 10 da Lei 12.016/2009).
+    Publique-se.
+    Brasília, 7 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
