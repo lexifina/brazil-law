@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento a União. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação do art. 150, VI, ”c”, e § 4º, da Lei Maior.
+    Contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal que, no julgamento da ADI 1.802/MC, suspendeu a vigência do § 1º e da alínea ”f” do § 2º do art. 12 da Lei 9.532/97, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 590.448-AgR/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 14.11.2011; e RE 480.021-AgR/MG, Rel. Min. Ellen Gracie, 2ª Turma, DJe 08.02.2011, verbis:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMUNIDADE TRIBUTÁRIA. IMPOSTO DE RENDA SOBRE APLICAÇÕES FINANCEIRAS. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. LEI 9.532/1997, ART. 12, § 1º. EFICÁCIA SUSPENSA. ADI 1.802-MC. MEDIDA CAUTELAR. EFEITOS ERGA OMNES. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que as entidades de assistência social, sem fins lucrativos, estão imunes à incidência do Imposto de Renda. Precedentes. 2. O Plenário desta nossa Casa de Justiça, ao apreciar o ADI 1.802/MC, deferiu, em parte, o pedido de medida cautelar, para suspender eficácia do § 1º do art. 12 da Lei 9.532/1997, até a decisão final da ação. 3. Medida Cautelar em ação direta de inconstitucionalidade é dotada de eficácia erga omnes, nos termos do § 1º do art. 11 da Lei 9.868/1999. Seu julgamento permite a análise imediata de recursos que tratem da matéria nela debatida. 4. Agravo regimental desprovido”. (destaquei).
+    “CONSTITUCIONAL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. IMUNIDADE TRIBUTÁRIA. IMPOSTO DE RENDA SOBRE RENDIMENTO E GANHOS DE CAPITAL. ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS. ARTIGO 12, § 1º, DA LEI 9.532/97. EFICÁCIA SUSPENSA. ADI 1.802-MC/DF. MEDIDA CAUTELAR. EFEITO ‘ERGA OMNES’. 1. Esta Suprema Corte, ao julgar a ADI 1.802-MC/DF, deferiu, em parte, o pedido de medida cautelar, para suspender, até a decisão final da ação direta, a eficácia do § 1º do artigo 12 da Lei 9.532/97. 2. Conforme dispõe o artigo 11, § 1º, da Lei 9.868/99, a medida cautelar em ação direta de inconstitucionalidade é dotada de eficácia contra todos. 3. O julgamento de medida cautelar em ação direta de inconstitucionalidade permite a análise imediata de recursos que tratem da matéria nela debatida. Precedente. 4. Agravo regimental a que se nega provimento”. (destaquei).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 08 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
