@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF06 nº 135, de 6 de novembro de 2012
+ASSUNTO: Contribuição de Intervenção no Domínio Econômico - CIDE EMENTA: Não estão sujeitos à incidência de Contribuição de Intervenção no Domínio Econômico - CIDE, os valores remetidos ao exterior em pagamento pela aquisição de "software de prateleira" (cópias múltiplas) para revenda por pessoa jurídica detentora de licença de comercialização outorgada por fabricante estrangeiro. DISPOSITIVOS LEGAIS: Lei nº 4.506, de 1964, art. 22; Lei nº 9.609, de 1998, art. 11, caput e parágrafo único; Lei nº 9.610, de 1998, art. 7º, XII e § 1º e art. 49; Lei nº 10.168, de 2000, art. 2º; Lei nº 11.452, de 2007, arts. 20 e 21. SD COSIT nº 27, de 2008.
+[arquivo anexo: SC SRRF06-Disit nº 135-2012.pdf]
