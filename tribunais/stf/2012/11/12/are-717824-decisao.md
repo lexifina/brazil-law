@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “AÇÃO RESCISÓRIA – PRELIMINARES DE DECADÊNCIA DO DIREITO DE PROPOR A AÇÃO RESCISÓRIA E IMPOSSIBILIDADE JURÍDICA DO PEDIDO – QUESTÕES REJEITADAS – EXISTÊNCIA DE DOCUMENTOS NOVOS CAPAZES DE ASSEGURAR UM RESULTADO FAVORÁVEL À PARTE PREJUDICADA, DECISÃO JUDICIAL FRUTO DE DOLO DA PARTE VENCEDORA EM DETRIMENTO DA PARTE VENCIDA E OFENSA À COISA JULGADA – INOCORRÊNCIA – REDISCUSSÃO DE CAUSA JÁ DECIDIDA – IMPOSSIBILIDADE – PEDIDO JULGADO IMPROCEDENTE”. ( eDOC 20, p. 11)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXXVI, do texto constitucional.
+    Decido.
+    O recurso não merece prosperar.
+    No caso, o Tribunal de origem, interpretando a legislação infraconstitucional aplicável à espécie (Código de Processo Civil), bem como as provas constantes nos autos, consignou o seguinte:
+    “Ainda que tenham sido anexados documentos, os quais, em linha de princípio, comprovariam a existência de filial da ré no endereço Rua Gonçalves Dias, nº 904, 1º andar, Bairro Funcionários, Belo Horizonte/MG, local este para o qual aparentemente teriam sido enviados os cheques pela Contadoria da Comarca de Colatina, tal informação – por mais hipoteticamente verídica que seja – não é suficiente, por si só, para comprovar que houve o pagamento da dívida, sobretudo quando a tese do autor tem como premissa única e exclusiva a defesa de uma circunstância fática que não foi cabalmente comprovada nos autos da exceção de pré-executividade”.(eDOC 20, p. 11)
+    Nesses termos, para se concluir de forma diversa do consignado pelo acórdão recorrido, imprescindível a prévia interpretação da legislação infraconstitucional e a revisão dos fatos e provas analisados (Enunciado 279 da Súmula do STF) e a interpretação da legislação infraconstitucional aplicável à espécie. Eventual ofensa à Constituição, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que não enseja a abertura da via extraordinária. Nesse sentido, AI-AgR 768.165, Rel. Min. Dias Toffoli, Primeira Turma, DJe 11.5.2012, cuja ementa transcrevo:
+    “Agravo regimental no agravo de instrumento. Trabalhista. Adicional de Insalubridade. Demonstração. Legislação infraconstitucional. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível em recurso extraordinário análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279 desta Corte. 2. Agravo regimental não provido”.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 12 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
