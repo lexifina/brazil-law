@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, interposto contra acórdão do Décimo Primeiro Grupo Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “ADMINISTRATIVO. PROCESSUAL CIVIL. PEDIDOS CUMULADOS. DESNECESSÁRIA APRECIAÇÃO DE PEDIDOS DERIVADOS DO PROVIMENTO DO PEDIDO PRINCIPAL. RECURSOS DO FINOR. PROJETO APROVADO QUANDO EM VIGOR O DECRETOLEI 1.376/74. APLICAILIDADE DAS ALTERAÇÕES INTRODUZIDAS PELA LEI 8.167/91. DIREITO ADQUIRIDO À EMISSÃO DE AÇÕES. INEXISTÊNCIA. CONSTITUCIONALIDADE DA LEI 8.167/91.
+    I. Firmada convicção pela improcedência do pleito, desnecessário avaliar os pedidos que derivam do pedido principal. Preliminar de nulidade da sentença afastada.
+    II. O art. 4º do Decreto-Lei 1.376/74, na redação do Decreto-lei n.º 2.304/86, sob a égide dos quais foi adquirido o direito aos incentivos fiscais, já previa a possibilidade de emissão de debêntures, como uma de suas opções, não havendo, que se falar em afronta ao direito adquirido, vez que a norma inserta no art. 22 da Lei 8.167/91 não veio a conflitar com o sistema anterior. Há entendimento pacificado, nesse Tribunal, que a Lei 8.167/91 não viola direito adquirido ao dispor sobre a nova forma de garantia do financiamento previsto pelo FINOR.
+    III. A jurisprudência desta corte já se posicionou pela constitucionalidade da Lei 8.167/91.
+    IV. Apelação improvida” (fl. 720).
+    Opostos embargos de declaração (fls. 726 a 731), foram rejeitados (fls. 733 a 738).
+    No recurso extraordinário, sustenta-se violação do artigo 5º, incisos XXXV e LV, da Constituição Federal.
+    Contra-arrazoado (fls. 910 a 926), o recurso extraordinário (fls. 819 a 834) foi admitido (fls. 930/931).
+    O Superior Tribunal de Justiça, em decisão transitada em julgado (fls. 939 a 942 e 944), negou provimento ao recurso especial interposto simultaneamente ao extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o acórdão dos embargos de declaração foi publicado em 15/3/06, conforme expresso na certidão de folha 739, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, outrossim, que a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Impossibilidade da análise da legislação infraconstitucional e do reexame de provas na via do recurso extraordinário. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República” (AI nº 594.887/SP–AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 30/11/07).
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
