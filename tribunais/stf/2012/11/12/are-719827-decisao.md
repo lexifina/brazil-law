@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “EMBARGOS INFRINGENTES – SERVIDORES PÚBLICOS – CUMPRIMENTO DE SENTENÇA – PERDAS ORIUNDAS DA CONVERSÃO DE URV PARA REAL – REAJUSTE SALARIAL CONFERIDO À CATEGORIA – OFENSA À COISA JULGADA – OCORRÊNCIA – ENTENDIMENTO ALTERADO. Em casos como o dos autos, vinha entendendo que a limitação temporal da condenação e o consequente reconhecimento do cumprimento da obrigação em sede de impugnação ao cumprimento de sentença não representavam afronta à coisa julgada. No entanto, tendo em vista que o posicionamento supra vem sendo vencido nos embargos infringentes a que dá causa, ressalvando meu entendimento pessoal, não me parece justificável insistir nele quando a Câmara manifesta posição em sentido contrário – impossibilidade de limitação temporal da condenação do Estado de Minas Ferais na fase de cumprimento de sentença por ofensa à coisa julgada – Entendimento alteado para acompanhar o majoritário” (fl 532).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 37, XIV, da mesma Carta.
+    A pretensão recursal não merece acolhida. O acórdão recorrido entendeu ser inviável a discussão acerca da compensação das perdas decorrentes do equívoco na sistemática de conversão da URV com os aumentos concedidos com a reestruturação dos quadros funcionais, em razão da existência de coisa julgada, em relação ao ora recorrente.
+    Nesse contexto, cumpre destacar que esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
