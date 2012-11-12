@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, que negou provimento ao agravo de instrumento por pretender a recorrente rediscutir coisa julgada.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, XXXVI e LV, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. O Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Ademais, esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido:
+    “EMENTA: Agravo regimental em agravo de instrumento. 2. Embargos à execução. Ofensa ao art. 5º, XXXVI (princípio da coisa julgada), da Constituição Federal. Questão que não se examina em face de execução. Limites da coisa julgada. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes).
+    Nesse mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Ayres Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso.
+    Por fim, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
