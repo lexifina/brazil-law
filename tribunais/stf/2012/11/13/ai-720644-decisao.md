@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    O Ministério Público do Estado de Santa Catarina interpõe agravo de instrumento visando impugnar decisão (fls. 51/52) que negou seguimento ao recurso extraordinário, assentado em contrariedade ao art. 129, inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Segunda Câmara Criminal do Tribunal de Justiça estadual, assim ementado:
+    “DENÚNCIA – ANTERIOR RELAXAMENTO DO FLAGRANTE MOTIVADO NA CONFIGURAÇÃO DA HIPÓTESE DE CRIME IMPOSSÍVEL – NÃO INSURGÊNCIA DO ÓRGÃO MINISTERIAL – TRÂNSITO EM JULGADO QUE IMPEDE O SUBSEQUENTE OFERECIMENTO DA PEÇA ACUSATÓRIA PELA PRECLUSÃO DA MATÉRIA – AUSÊNCIA DE JUSTA CAUSA – REJEIÇÃO DA EXORDIAL QUE SE IMPUNHA – DECISÃO MANTIDA – RECURSO MINISTERIAL IMPROVIDO” (fl. 12).
+    Os embargos de declaração opostos (fls. 19 a 26), foram rejeitados (fls. 27 a 31).
+    O agravante, nas razões do extraordinário, alega que “a decisão recorrida permitiu que um juiz, de fato arquivasse um auto de prisão em flagrante (…) sem prévio requerimento do Ministério Público, negando vigência ao artigo 129, I, da CR, e, concomitantemente, cerceou ao Ministério Público o direito de ação, não analisando sequer o mérito do recurso contra a rejeição da denúncia” (fl. 40).
+    Examinados os autos, decido.
+    Anote-se, inicialmente, que o Parquet estadual foi intimado do acórdão proferido em sede de embargos declaratórios após 3/5/07 (fl. 32), quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do art. 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    O inconformismo não merece prosperar.
+    Uma leitura do acórdão ora questionado permite concluir que, no caso em tela, para que se pudesse decidir de forma diversa daquele julgado seria imprescindível debruçar-se sobre legislação processual ordinária. Por consequência, a violação, se ocorresse, seria indireta ou reflexa, o que não enseja recurso extraordinário.
+    Nesses termos, confira-se:
+    “RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL. O recurso extraordinário não é meio próprio a alcançar-se exame de controvérsia equacionada sob o ângulo estritamente legal” (AI nº 706.134/RS-AgR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 21/2/11);
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, XXXV, da CF. Violação dependente de reexame prévio de aplicação de normas subalternas. Súmula 279. Prestação jurisdicional consumada no julgamento do agravo e dos embargos declaratórios. Seguimento negado ao agravo de instrumento. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República.” (AI nº 382.623/MG-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 6/2/09);
+    “PROCESSUAL PENAL. AGRAVO DE INSTRUMENTO CRIMINAL. DEVIDO PROCESSO LEGAL. CONTRADITÓRIO E AMPLA DEFESA. ARTS. 144, § 4º, E 129, VII, DA CONSTITUIÇÃO FEDERAL. OFENSA REFLEXA AO TEXTO CONSTITUCIONAL. INQUÉRITO POLICIAL. VÍCIOS. AÇÃO PENAL. NÃO CONTAMINAÇÃO. AGRAVO IMPROVIDO. I - A alegada violação aos postulados constitucionais do devido processo legal, da ampla defesa e do contraditório, em regra, configura ofensa reflexa ao texto constitucional. II - Os vícios eventualmente existentes no inquérito policial não contaminam a ação penal, que tem instrução probatória própria. III - Agravo regimental improvido” (AI nº 687.893/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/9/08).
+    Ante as considerações, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 13 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
