@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CONSUMIDOR. TARIFAS BANCÁRIAS. ABUSIVIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. SÚMULAS N. 279, 454 E 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da 4ª Turma Recursal dos Juizados Especiais Cíveis e Criminais do Rio de Janeiro:
+    “Trata-se de ação de defesa do consumidor na qual a parte autora impugna a cobrança de tarifa bancária fundada na sua abusividade. Relação de consumo. Responsabilidade objetiva do fornecedor de serviços. Desvantagem excessiva, sem demonstração da devida contraprestação de serviço tendente a justificar a exação. Previsão contratual que deve ser considerada nula, nos termos do art. 51, inciso IV do Código de Defesa do Consumidor. Cobrança indevida em desacordo com os princípios que regem a relação de consumo, impositiva, pois, a devolução dos valores arcados pela parte autora, contudo, na forma simples, não caracterizado o indébito previsto no art. 42 do Código de Defesa do Consumidor. Precedente do Eg. STJ. Ressalvada a mudança de entendimento desta Relatora. Sentença reformada em parte” (fl. 82).
+    Os embargos de declaração opostos foram rejeitados (fl. 90).
+    2. O Agravante afirma que a Turma Recursal de origem teria contrariado o art. 5º, inc. II, LIV, LV, § 2º, 93, inc. IX, da Constituição da República.
+    Assevera que “não esgota a atividade jurisferante a postura adotada pelo v. acórdão objurgado, de julgar o feito neste ou naquele sentido, ao revés, impende que o exercício nobre da função jurisdicional seja perpetrado de forma cumpridamente fundamentada, dissecando todos os argumentos que as partes tenham lançado” (fl. 98).
+    Sustenta que “o recorrido no momento da celebração do contrato não fez qualquer ressalva em relação às obrigações livremente contratas com o recorrente”(fl. 105).
+    Aponta que, “sobre as taxas, o ilustre Ministro do STJ Dr. Luis Felipe Salomão, ratificou que a cobrança das mesmas é perfeitamente legal” (fl. 105).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) a ofensa à Constituição, se tivesse ocorrido, seria indireta; e b) incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Ademais, a questão em debate foi decidida com base na legislação infraconstitucional (Código de Defesa do Consumidor) e no conjunto fático-probatório. Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incidem na espécie as Súmulas n. 279, 454 e 636 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. NULIDADE DE CLÁUSULA CONTRATUAL. SEGURO DE VIDA. CARÁTER ABUSIVO. 1. Alegada contrariedade ao princípio constitucional da legalidade. Súmula n. 636 do Supremo Tribunal Federal. 2. Análise de cláusulas contratuais e reexame de fatos e provas. Súmulas n. 454 e 279 do Supremo Tribunal. 3. Agravo regimental ao qual se nega provimento” (ARE 690.895-AgR, de minha relatoria, Primeira Turma, DJe 19.9.2012).
+    “AGRAVO REGIMENTAL. COBRANÇA DE TARIFA BANCÁRIA. REEXAME DE CLÁUSULAS CONTRATUAIS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido seria necessário o reexame das cláusulas do contrato firmado entre as partes, das provas dos autos e da legislação infraconstitucional pertinente, o que é vedado na esfera do recurso extraordinário. Aplicam-se, pois, ao caso, as Súmulas 279, 454 e, mutatis mutandis, 636 deste Tribunal. Inexistência de ofensa direta à Constituição. Agravo regimental a que se nega provimento” (ARE 654.710-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.5.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
