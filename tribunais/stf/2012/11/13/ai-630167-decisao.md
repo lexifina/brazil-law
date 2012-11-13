@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento Rotocrom Indústria e Comércio Ltda. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação dos arts. 5º, LV, 155, II § 2º, IX, e 156, III, da Lei Maior.
+    Contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    O acórdão recorrido diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que antes da edição a EC 33/2001 não incidia o ICMS na importação de bens por sociedade civil não contribuinte do imposto. Nesse sentido: AI 331.444-AgR/RJ, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 15.3.2012; AI 435.574-AgR/DF, Rel. Min. Marco Aurélio, 1ª Turma, DJe 09.5.2011; AI 674.396-AgR/SP, Rel. Min. Ellen Gracie, 2ª Turma, DJe 27.4.2011; e RE 173.873-AgR/SP, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 16.10.2009, verbis:
+    “Agravo regimental em recurso extraordinário. ICMS. Importação. Não contribuinte do imposto. Período anterior à edição da EC nº 33/01. Não incidência. Súmula nº 660/STF. 1. A questão atinente à não incidência do ICMS nos casos de importação por não contribuinte do imposto em período anterior à edição da EC nº 33/01 encontra-se pacificada nesta Corte. Incidência da Súmula nº 660/STF. 2. Agravo regimental não provido”.
+    “IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS – PESSOA NATURAL – SOCIEDADE CIVIL NÃO CONTRIBUINTE DO IMPOSTO – IMPORTAÇÃO DE BENS – NÃO INCIDÊNCIA – PERÍODO ANTERIOR À EMENDA CONSTITUCIONAL Nº 33/2001. No período anterior à Emenda Constitucional nº 33/2001, não havia incidência do ICMS na importação de bens por pessoa natural ou sociedade civil não contribuinte do imposto.”
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. IMPORTAÇÃO. SÚMULA STF 660. FUNDAMENTO DA DECISÃO AGRAVADA INATACADO. SÚMULA STF 287. 1. O Supremo Tribunal Federal possui o entendimento consolidado no sentido de que não incide ICMS sobre importações realizadas por bens destinados ao consumo e ao ativo fixo, realizadas por pessoa física ou jurídica que não seja contribuinte habitual do referido imposto, antes da promulgação da Emenda Constitucional 33/2001. Incidência da Súmula STF 660. 2. A parte agravante, nas razões do agravo regimental, não se insurgiu contra os fundamentos da decisão agravada. Incidência da Súmula STF 287. 3. Possibilidade, no caso, de se aferir a tempestividade do recurso extraordinário. Inocorrência do óbice contido na Súmula STF 288. 4. Agravo regimental a que se nega provimento.”.
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES DE CIRCULAÇÃO DE MERCADORIAS - ICMS. INCIDÊNCIA. OPERAÇÃO DE IMPORTAÇÃO ANTERIOR À VIGÊNCIA DA EMENDA CONSTITUCIONAL 33/2001. PESSOA FÍSICA. A teor da Súmula 660/STF, "não incide ICMS na importação de bens por pessoa física ou jurídica que não seja contribuinte do imposto". Agravo regimental ao qual se nega provimento”.
+    Dou provimento ao agravo de instrumento para, provido o recurso extraordinário, conceder a segurança (art. 544, §§ 3º e 4º, do Código de Processo Civil). Incabível a condenação em honorários advocatícios, nos termos da Súmula 512/STF.
+    Publique-se.
+    Brasília, 13 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
