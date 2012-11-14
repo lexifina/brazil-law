@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. REVALIDAÇÃO DE CURSO SUPERIOR. RESOLUÇÃO Nº 01/02 DO CONSELHO NACIONAL DE EDUCAÇÃO.
+    1. No caso em epígrafe, a universidade, por meio de seu departamento competente, atestou que o currículo do candidato evidenciava a existência de equivalência de 75% na carga horária e nos conteúdos cursados na Faculdade de Medicina da Universidad Nacional de Rosário - Argentina, em conformidade com as Diretrizes para Revalidação de diploma, do Conselho Federal de Medicina, pelo que autorizou o prosseguimento do processo de revalidação, com a realização de provas teórica e prática de conhecimento. A UFSM editou normas para o processo de revalidação de diploma obtido no exterior, estipulando a realização ordinária de provas teórica e prática pelo candidato, após a avaliação positiva de aspectos como a qualificação conferida pelo título, a adequação da documentação que o acompanha e a correspondência do curso realizado no exterior com seu curso de Medicina, mediante exame de conteúdo programático e das cargas horárias das disciplinas/módulos e estágios curriculares, da duração do curso e carga horária total.
+    2. De tal contexto, revela-se que a ora recorrente inovou a normatização feita pelo CNE, desconsiderando o condicionamento previsto quanto à prova teórica, que só deve ser realizada se persistirem as dúvidas sobre a real equivalência entre os estudos realizados no exterior e os correspondentes nacionais, passando ainda a exigir mais uma prova prática” (fl. 239).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5º, XIII, e 207 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Os Ministros desta Casa, no RE 584.573-RG/Rs, de minha relatoria, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos – Diploma de curso superior obtido no exterior. Reconhecimento automático – decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação ementa do referido julgado:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ENSINO SUPERIOR. DIPLOMA OBTIDO NO EXTERIOR. RECONHECIMENTO AUTOMÁTICO. INEXISTÊNCIA DE REPERCUSSÃO GERAL. Questão restrita ao interesse das partes”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de novembro de 2012
+Ministro RICARDO LEWANDOWSKI
+- Relator -
