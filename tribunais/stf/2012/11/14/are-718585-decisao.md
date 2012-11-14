@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “(...) ARGUIÇÃO DE CERCEAMENTO DE DEFESA EM RAZÃO DA NÃO REALIZAÇÃO DE PROVA PERICIAL E TESTEMUNHAL – INEXISTÊNCIA DE CERCEAMENTO DE DEFESA QUANDO O JULGAMENTO ANTECIPADO DEU-SE EM VIRTUDE DA DESNECESSIDADE DE MAIORES PROVAS (...)” (fl. 212).
+    No RE, interposto com base no art. 102, III, a e c, da Constituição, alegou-se violação ao art. 5º, LV e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Os Ministros desta Corte, no ARE 639.228-RG/RJ, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos princípios da ampla defesa e do contraditório, nos casos de indeferimento de diligência probatória, por se tratar de matéria restrita ao âmbito processual. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgamento:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Produção de provas. Processo judicial. Indeferimento. Contraditório e ampla defesa. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a obrigatoriedade de observância dos princípios do contraditório e da ampla defesa, nos casos de indeferimento de pedido de produção de provas em processo judicial, versa sobre tema infraconstitucional”.
+    Além disso, o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
