@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cuja ementa transcrevo no que interessa:
+    “CIVIL – ACIDENTE DE TRÂNSITO – INDENIZAÇÃO POR DANOS MATERIAIS – ESTADO – RESPONSABILIDADE OBJETIVA – DANO E NEXO DE CAUSALIDADE DEMONSTRADOS – CAUSA PREPONDERANTE – LUCROS CESSANTES – PROVA – AUSÊNCIA – SENTENÇA CONFIRMADA – VENCIDA A FAZENDA PÚBLICA – SUCUMBÊNCIA RECÍPROCA – CRITÉRIO DE FIXAÇÃO – EQUIDADE – MAJORAÇÃO – RECURSO PROVIDO PARCIALMENTE.
+    Se o teor do conjunto probatório autoriza a conclusão no sentido de que o acidente de trânsito teve causa em conduta praticada por agente público, requisitos imprescindíveis para a configuração da responsabilidade objetiva, impõe-se ao Estado o dever ressarcir a vítima do dano material sofrido.
+    (…)
+    Mantida a procedência parcial dos pedidos da autora, revelando existir vencedora e vencida ao mesmo tempo e, uma vez vencida a Fazenda Pública, os honorários devem ser recíproca e proporcionalmente distribuídos e compensados, na medida da derrota de cada parte, assim como observada a equidade reclamada nas alíneas ‘a’, ‘b’ e ‘c’ do § 3º, do art. 20, e ‘caput’ do art. 21, ambos do CPC e o entendimento consolidada na Súmula nº 306/STJ”. (eDOC 1, p. 207)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, § 6º, do texto constitucional.
+    Alega-se, em síntese, que não há que se falar em responsabilidade civil do Estado, haja vista ausência do nexo de causalidade entre a conduta da Administração e o evento danoso.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem fundamentou-se no exame de provas e concluiu pela existência do nexo de causalidade entre a conduta do ente público e o dano sofrido pelo particular, a quem seria devida indenização.
+    Assim assentou o acórdão recorrido:
+    “O exame dos autos revela que está amplamente demonstrado que o acidente ocorreu devido a uma conduta negligente imperita do motorista do veículo de propriedade da Secretaria de Estado da Fazenda que ‘perdeu o necessário controle direcional, adentrando sua contramão direcional, momento em que ocorreu a colisão de sua região frontal com a frontal esquerda’ do caminhão de propriedade da autora.
+    Não se pode falar no presente caso que tenha havido causa de rompimento do nexo causal, a exemplo do caso fortuito alegado pelo Estado como fato impeditivo do direito pleiteado em juízo pelo autor, qual seja, defeito de um dos pneus do veículo oficial, uma vez que o laudo técnico elaborado pelo Instituto de Criminalística da Polícia Civil é conclusivo ao asseverar que a ‘causa determinante do evento está ligada ao condutor do V-01’ (réu)”. (grifo no original) (eDOC 1, p. 211)
+    Para se concluir de forma diversa, imprescindível o reexame do conjunto fático-probatório constante dos autos, providência vedada em sede de recurso extraordinário, nos termos da Súmula 279 do Supremo Tribunal Federal.
+    Nesse sentido, a jurisprudência desta Corte:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. OMISSÃO. ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. FALTA DE SINALIZAÇÃO. ART. 37, § 6º, CF/88. NEXO CAUSAL. FATOS E PROVAS. SÚMULA STF 279. 1. Existência de nexo causal entre a omissão da autarquia e acidente que causou morte do marido e filhos da autora. Precedentes. 2. Incidência da Súmula STF 279 para afastar a alegada ofensa ao artigo 37, § 6º, da Constituição Federal – responsabilidade objetiva do Estado. 3. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada. 4. Agravo regimental improvido” (AI-AgR 693.628, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.12.2009).
+    “Recurso extraordinário: descabimento: o acórdão recorrido fundamentou-se na responsabilidade civil do Estado, baseada em omissão ou falta culposa ou 'faute de service' do aparelhamento administrativo: patente a inadequação do recurso extraordinário para reexame de legislação infraconstitucional ou revisão dos pressupostos de fato da afirmação da culpa ou concorrência da administração para o evento danoso: incidência das Súmulas 279 e, mutatis mutandis, 636” (AI-AgR 603.470, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJe 10.8.2007).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
