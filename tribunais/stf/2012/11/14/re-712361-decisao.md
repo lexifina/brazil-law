@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que manteve sentença que julgou improcedente pedido de revisão de benefício previdenciário, ao entendimento de que as disposições das Portarias MPAS 4.883/1998 e MPS 12/2004 versam sobre novos patamares de teto de salário-de-contribuição, e não sobre reajustes de benefícios, conforme dispõem os arts. 20, § 1º, e 28, § 5º, da Lei 8.212/1991.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 37, caput, 48, I, 87, 195, caput e § 4º, e 201, § 4º, da mesma Carta, bem como ao art. 14 da EC 20/1998 e art. 5º da EC 41/2003.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa aos arts. 2º, 37, caput, 48, I, e 87 da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, os Ministros desta Corte, no RE 686.143-RG/PR, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral do tema versado nos presentes autos - reconhecimento, por via judicial, do direito à equivalência entre o limite máximo do salário-de-contribuição e a renda mensal inicial dos benefícios previdenciários - por se tratar de matéria infraconstitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, trago à colação a ementa do referido julgado:
+    “PREVIDÊNCIA SOCIAL. BENEFÍCIO. Índice de reajuste. Equiparação ao limite do salário de contribuição. Questão infraconstitucional. Precedentes da Corte. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto o índice para reajuste de benefício pago pelo regime geral de previdência, versa sobre matéria infraconstitucional”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
