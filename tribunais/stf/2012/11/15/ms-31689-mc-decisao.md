@@ -1,0 +1,17 @@
+DECISÃO
+CPMI – CONVOCAÇÃO DE CHEFE DE PODER EXECUTIVO ESTADUAL – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O Governador do Estado de Goiás, Marconi Ferreira Perillo Júnior, busca impedir nova convocação para comparecer à Comissão Parlamentar Mista de Inquérito instaurada pelo Requerimento nº 1/2012 do Congresso Nacional, destinada a apurar crimes cometidos por Carlos Augusto Ramos, conhecido vulgarmente como “Carlinhos Cachoeira”, desvendados pelas operações “Vegas” e “Monte Carlo”.
+    Segundo narra, teria sido acusado de manter relações com o investigado. Visando elucidar a questão, teria optado por voluntariamente apresentar-se à Comissão e prestar os esclarecimentos. Apesar disso, diz haver tomado ciência de novo requerimento para convocá-lo, que está na iminência de ser votado pelo Colegiado.
+    Consoante argui, o poder de investigação das comissões parlamentares de inquérito encontra anteparo nas regras constitucionais de foro por prerrogativa de função. Reporta-se às decisões liminares proferidas nos Habeas Corpus nº 95.259 e nº 80.511, relatores, respectivamente, ministros Eros Grau e Celso de Mello, nas quais se afastou, relativamente àqueles que gozam de prerrogativa de foro, a possibilidade de indiciamento formal por parte das mencionadas comissões.
+    Articula com a natureza de cláusula pétrea da forma federativa de Estado e cita doutrina em apoio à tese da impossibilidade de as comissões inquirirem autoridades estaduais e municipais, de quaisquer dos poderes, em virtude da autonomia político-administrativa de tais entes. Argumenta que, nos termos do artigo 49, inciso X, da Lei Maior, cabe ao Congresso Nacional fiscalizar e controlar os atos do Poder Executivo. Sustenta que o dispositivo só pode ser lido como Poder Executivo da esfera federal, revelando-se ilegal e inconstitucional a tentativa de investigar os demais níveis federativos.
+    Sob o ângulo do risco, alude à iminente convocação para nova oitiva. Requer o deferimento de liminar para determinar à autoridade coatora que se abstenha de o convocar, conduzir, investigar ou indiciar. No mérito, busca a confirmação da providência.
+    O processo encontra-se concluso para apreciação do pedido de medida acauteladora.
+    2. Este mandado de segurança ganha contornos preventivos. As razões expendidas a título de causas de pedir surgem com relevância maior. Valores precisam ser conciliados, preservando-se princípios caros à República Federativa do Brasil. Em um primeiro exame, a interpretação sistemática do Texto Maior conduz a afastar-se a possibilidade de comissão parlamentar de inquérito, atuando com os poderes inerentes aos órgãos do Judiciário, vir a convocar, quer como testemunha, quer como investigado, Governador. Os estados, formando a união indissolúvel referida no artigo 1º da Constituição Federal, gozam de autonomia e esta apenas é flexibilizada mediante preceito da própria Carta de 1988.
+    3. Defiro a liminar pleiteada para assegurar ao impetrante, como ato legítimo, a recusa a comparecer à Comissão Parlamentar Mista de Inquérito a envolver as operações “Vegas” e “Monte Carlo”.
+    4. Solicitem informações ao Presidente da mencionada Comissão.
+    5. Com o pronunciamento do impetrado, colham o parecer do Procurador-Geral da República.
+    6. Publiquem.
+Brasília – residência –, 15 de novembro de 2012, às 10h45.
+Ministro MARCO AURÉLIO
+Relator
