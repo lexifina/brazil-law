@@ -1,0 +1,40 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Mato Grosso do Sul ementado nos seguintes termos:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL. SERVIDOR PÚBLICO. PLELIMINARES DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL, NECESSIDADE DE CITAÇÃO DA AGEPREV, NÃO CABIMENTO DA INJUNÇÃO, IMPOSSIBILIDADE JURÍDICA DO PEDIDO E ILEGITIMIDADE PASSIVA DO GOVERNADOR. REJEITADAS. MORA LEGISLATIVA RECONHECIDA. INJUNÇÃO PARCIALMENTE CONHECIDA.
+    Impetrado o mandado de injunção contra o Governador do Estado e contra a Assembleia Legislativa, a competência para julgá-lo é do Órgão Especial, ainda que seja para reconhecer a ilegitimidade das autoridades impetradas.
+    Apenas a autoridade, órgão ou entidade que tenha o dever de regulamentar a norma constitucional possui legitimidade passiva ‘ad causam’ no mandado de injunção, o que afasta a hipótese de litisconsórcio passivo da AGEPREV.
+    Ainda que a concessão de aposentadoria especial demande ampla produção de prova, a preliminar de não cabimento de mandado de injunção deve ser afastada, pois o ‘writ’ pode ser parcialmente concedido tão somente para remover o obstáculo decorrente da mora legislativa, determinando-se, assim, que o pedido de aposentadoria especial seja concretamente analisado pela autoridade administrativa.
+    Reconhecida a ausência de norma regulamentadora da aposentadoria especial, a injunção deve ser concedida, em parte, para afastar o óbice criado pela mora legislativa, cabendo a análise concreta do pedido de aposentadoria à Administração Pública”. (fl. 97)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao art. 40, § 4º, do texto constitucional.
+    Alega-se, em síntese, que inexiste mora legislativa do Estado de Mato Grosso do Sul, tendo em vista que a definição dos critérios para a concessão da aposentadoria especial é devida à legislação complementar nacional.
+    Argumenta-se, ainda, que a Lei Complementar 9.717/1998 veda a concessão de aposentadoria especial sem a edição de lei complementar federal que discipline a matéria.
+    Ademais, sustenta-se que a Lei Estadual 3.150/2005 incorporou ao ordenamento jurídico local os termos da Emenda Constitucional 47/2007, que veda a adoção de critérios ou requisitos diferenciados para a concessão de aposentadoria a servidores titulares de cargo efetivo.
+    Assevera-se que “sendo vedada a aposentadoria especial do artigo 40, § 4º, da CF, antes da edição ad lei complementar federal, impossível aplicar-se ao caso o regramento contido no artigo 57, da Lei 8.213/1991” (fl. 126), além do que, aduz-se, o Tribunal de origem não se atentou para o fato de que a regra aplicada ao caso – art. 57 da Lei 8.213/1991 – não trata de atividades de risco.
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta se firmou no sentido de que a inexistência de norma estadual que estabeleça critérios para aferição de condições especiais de trabalho não impede o julgamento do mandado de injunção, uma vez que a indefinição decorre de omissão legislativa objeto do referido writ.
+    Nesse sentido, confiram-se os seguintes julgados: MI 4.534, Rel. Min. Dias Toffoli, DJe 8.8.2012; MI 3.784, Rel. Min. Luiz Fux, DJe 15.3.2012; e o MI-AgR 1.169, Rel. Min. Cármen Lúcia, este último assim ementado:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991.
+    1. A inexistência de norma estadual que estabeleça critérios para a aferição das condições especiais de trabalho que prejudiquem a saúde ou integridade física dos servidores públicos não impede o julgamento do mandado de injunção. A indefinição desses critérios decorre da omissão legislativa objeto do mandado de injunção.
+    2. Agravo regimental ao qual se nega provimento”.
+    Ainda sobre a matéria, esta Corte tem entendimento pacificado no sentido de que é aplicável ao caso, no que couber, o art. 57 da Lei 8.213/91, caso reconhecida omissão legislativa referente às condições para o implemento de aposentadoria especial.
+    Além disso, a jurisprudência desta Corte consolidou-se no sentido de que a autoridade administrativa responsável pelo exame de pedido de aposentadoria é competente para analisar o preenchimento dos critérios e requisitos previstos para este fim.
+    Nesse sentido, leia-se o MI 795, Rel. Min. Cármen Lúcia, DJe 22.5.2009; e, também, o MI-ED 1.286, Rel. Min. Cármen Lúcia, DJe 19.2.2010, a seguir ementados:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Investigador da polícia civil do Estado de São Paulo. Alegado exercício de atividade sob condições de periculosidade e insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido para comunicar a mora à autoridade competente e determinar a aplicação, no que couber, do art. 57 da Lei n. 8.213/91”.
+    “EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991. COMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA.
+    1. A autoridade administrativa responsável pelo exame do pedido de aposentadoria é competente para aferir, no caso concreto, o preenchimento de todos os requisitos para a aposentação previstos no ordenamento jurídico vigente.
+    2. Agravo regimental ao qual se nega provimento”.
+    Assim, verifica-se que o Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte, tendo em vista que a concessão da ordem reconheceu a mora legislativa - diante da ausência de regulamentação no âmbito interno dos critérios para a aposentadoria especial - para determinar a análise do pedido formulado pelo ora recorrido à recorrente. A propósito disso, confiram-se os fundamentos adotados pelo voto condutor do aresto recorrido:
+    “(...) o Supremo Tribunal Federal vem reconhecendo que a mora legislativa em regulamentar a aposentadoria especial assegurada no § 4º do artigo 40 da Constituição da República deve ser suprida pela concessão de injunção que viabilize a apreciação pela Administração Pública de pedido de aposentadoria especial de servidor público através da aplicação da regra prevista no artigo 57 da Lei n. 8.213/91.
+    (…) não resta dúvidas que a injunção, no caso, deve ser parcialmente concedida para, nos termos da firme jurisprudência do Supremo Tribunal Federal, afastar o óbice criado pela mora legislativa, relegando à análise concreta do pedido de aposentadoria à Administração Pública.
+    (…)
+    Ante o exposto, de acordo com o parecer ministerial, concedo em parte a ordem de injunção para assegurar ao impetrante a apreciação de seu pedido de aposentadoria à luz da Lei Federal 8.213/91 ou comando ulterior que o venha substituir com a finalidade de viabilizar o direito assegurado na Constituição Federal artigo 40 §4º.” (fls. 105-106-107)
+    Ressalte-se, entretanto, no tocante à aplicabilidade do art. 57 da Lei 8.213/1991 aos casos de atividades de risco, que os MIs 833 e 844 (que tratam especificamente sobre a matéria) encontram-se pendentes de julgamento pelo Plenário desta Corte, em razão do pedido de vista dos autos realizado pelo Min. Ayres Britto.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 16 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
