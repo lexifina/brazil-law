@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de agravo interposto de decisão que não admitiu recurso extraordinário (art. 102, III, a) de acórdão do Tribunal Superior do Trabalho em recurso de embargos (art. 894, II, da CLT), complementado por dois embargos de declaração.
+    Transcrevo trecho elucidativo do acórdão dos segundos embargos de declaração que sintetiza a questão submetida ao conhecimento deste Supremo Tribunal (fls. 462 v.):
+    “Afirma que a reclamante não atacou todos os fundamentos da decisão turmária, o que inviabilizaria o conhecimento do recurso de embargos por divergência jurisprudencial, ante as limitações impostas pelas Súmulas nºs 23 e 422 do TST.
+    Diz que tal aspecto foi veiculado nos primeiros embargos declaratórios e que não houve entrega da prestação jurisdicional. Denuncia afronta aos arts. 5º, XXXV e LIV e 93, IX, da CF; 459 e 535, II, do CPC e 769 da CLT.
+    Vejamos.
+    Busca a reclamada desconstituir a divergência jurisprudencial ensejadora do conhecimento do recurso de embargos da reclamante, ao argumento de que não foi atacada a totalidade da fundamentação da 7ª Turma, a atrair as Súmulas nºs 23 e 422 do TST.
+    Contudo, verifica-se à fl. 446-v, parte final, a seguinte explicitação:
+    "Destaque-se, ainda, que a alegação de inespecificidade do aresto, além de não se enquadrar nos permissivos dos arts. 897-A da CLT e 535 do CPC, que tratam dos requisitos dos embargos declaratórios, não merece prosperar, pois acima demonstrado o conflito de tese".
+    Consta, no exame da especificidade da divergência jurisprudencial, que:
+    "O teor da ementa transcrita já é suficiente à demonstração do conflito de teses, pois traz entendimento contrário à decisão da 7ª Turma, no sentido de que "acidente de trabalho, quando há culpa ou dolo do empregador, não gera o direito a uma única indenização a ser completada pelo órgão previdenciário e pelo empregador, mas sim a duas indenizações distintas, uma previdenciária e outra civil". Aquela Turma entendeu possível a compensação dos valores da indenização decorrente da responsabilidade civil e o benefício previdenciário".
+    Para a completa entrega da prestação jurisdicional cumpre destacar que o fato de a 7ª Turma ter registrado que "relativamente ao pleito de cumulação de aposentadoria paga pelo INSS com pensão por doença ocupacional arcada pela Empresa a título indenizatório, a Reclamante carece de interesse recursal", não afasta o conhecimento do recurso de embargos da reclamante por divergência jurisprudencial, pois firmado o convencimento da especificidade do aresto paradigma, em sentido contrário à decisão turmária, de que é devido, sim, o pagamento tanto da pensão quanto da indenização.
+    Com esses fundamentos, REJEITO os embargos declaratórios.”
+    Nas razões do recurso extraordinário indica-se ofensa ao disposto nos arts. 5º, II, LIV e LV, e 93, IX, da Constituição federal. Sustenta-se que houve negativa de prestação jurisdicional porque o Tribunal a quo se recusou a manifestar sobre a falta de interesse recursal, questão prejudicial, que impediria o exame do mérito da divergência. Alega-se inobservância ao devido processo legal.
+    É o relatório. Decido.
+    Conforme se verifica no relatório, a irresignação se direciona ao alegado indevido conhecimento do recurso de embargos ajuizado pela reclamante, ora recorrida.
+    A controvérsia acerca da aferição dos pressupostos de admissibilidade dos recursos de competência de outros tribunais cinge-se à norma processual, de ordem infraconstitucional. Desta feita, o Supremo Tribunal Federal, apreciando o RE 598.365-RG (rel. min. Ayres Britto, DJe de 26.03.2010, tema 181), não reconheceu a repercussão geral do tema. É o que se observa na ementa:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.”
+    Por outro lado, inexiste a alegada afronta aos arts. 5º, LIV e LV, e 93, IX, da Constituição federal, pois o acórdão recorrido inequivocamente prestou jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa e tendo enfrentado as questões suscitadas com a devida fundamentação, ainda que com ela não concorde a ora recorrente.
+    Ademais, ao julgar o AI 791.292-QO-RG (rel. min. Gilmar Mendes, Plenário, DJe de 13.08.2010, tema 339), esta Corte reconheceu a repercussão geral do tema “negativa de prestação jurisdicional por ausência de fundamentação” e reafirmou a jurisprudência segundo a qual “o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão”.
+    Do exposto, conheço do agravo para negar seguimento ao recurso.
+    Publique-se.
+    Brasília, 16 de novembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
