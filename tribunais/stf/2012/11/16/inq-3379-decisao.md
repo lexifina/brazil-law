@@ -1,0 +1,8 @@
+DECISÃO: O eminente Procurador-Geral da República, ao examinar a presente “notitia criminis”, entendeu prematura a instauração, no caso, da competência penal originária do Supremo Tribunal Federal, por não vislumbrar a existência de indícios reveladores de envolvimento do Senador Alfredo Pereira do Nascimento na alegada prática de delito eleitoral (fls. 47/48):
+    “6. Dessa forma, não consta nos autos qualquer elemento que indique a efetiva atuação de Alfredo Pereira do Nascimento – detentor de prerrogativa de foro perante esta Corte –  quanto aos fatos noticiados, não havendo razão para o prosseguimento das investigações no Supremo Tribunal Federal.
+    7. Pelo exposto, o Procurador-Geral da República requer a devolução dos autos ao Tribunal Regional Eleitoral para que prossigam as investigações em relação a Joel Rodrigues Lobo e outros possíveis envolvidos. Caso, no transcurso das apurações, surjam indícios concretos do envolvimento de Alfredo Pereira do Nascimento em fatos criminosos, deverão, então, os autos retornar a essa Corte.” (grifei)
+    Sendo assim, e tendo em consideração as razões expostas, acolho o pedido formulado pelo eminente Procurador-Geral da República, quanto ao Senador da República Alfredo Pereira do Nascimento, e determino a devolução dos presentes autos ao E. Tribunal Regional Eleitoral do Estado do Amazonas, para que, perante esse órgão judiciário, tenha prosseguimento a “persecutio criminis” contra “Joel Rodrigues Lobo e outros possíveis envolvidos” (fls. 48, item n. 7).
+    Publique-se.
+    Brasília, 16 de novembro de 2012.
+Ministro CELSO DE MELLO
+Relator
