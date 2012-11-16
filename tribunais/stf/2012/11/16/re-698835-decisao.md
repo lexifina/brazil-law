@@ -1,0 +1,15 @@
+DECISÃO: A controvérsia jurídica suscitada na presente causa já foi dirimida pelo Plenário desta Suprema Corte, que, ao julgar o RE 420.816- -ED/PR, Rel. Min. SEPÚLVEDA PERTENCE, fixou entendimento consubstanciado em acórdão assim ementado:
+    “Execução, contra a Fazenda Pública, não embargada: honorários advocatícios indevidos na execução por quantia certa (CPC, art. 730), excluídos os casos de pagamento de obrigações definidas em lei como de pequeno valor (CF/88, art. 100, ‘caput’ e § 3º). Embargos de declaração: ausência de contradição a sanar no acórdão embargado: rejeição.
+    1. Na medida em que o caput do art. 100 condiciona o pagamento dos débitos da Fazenda Publica à ‘apresentação dos precatórios’ e sendo estes provenientes de uma provocação do Poder Judiciário, é razoável que seja a executada desonerada do pagamento de honorários nas execuções não embargadas, às quais inevitavelmente se deve se submeter para adimplir o crédito.
+    2. O mesmo, no entanto, não ocorre relativamente à execução de quantias definidas em lei como de pequeno valor, em relação às quais o § 3º expressamente afasta a disciplina do ‘caput’ do art. 100 da Constituição.”
+    Impende assinalar, por oportuno, em face de sua extrema pertinência e ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro LUIZ FUX no RE 679.164/RS:
+    “‘In casu’, o Estado do Rio Grande do Sul foi condenado ao pagamento de quantia superior àquela definida em lei como de pequeno valor, sendo imprescindível, portanto, a instauração da execução prevista no artigo 730 do CPC para que ele pudesse efetuar o pagamento.
+    Ocorre que, apenas quando do ajuizamento da execução por quantia certa, os ora agravados renunciaram à parte do crédito que excedia aquele previsto no artigo 87 do ADCT, para que pudessem receber o valor devido mediante requisição de pequeno valor, a qual, nos termos do artigo 100, § 3º, da CF/88, dispensa o sistema de precatórios.
+    Verifica-se, portanto, que o agravante não deu causa ao ajuizamento da execução, tendo em vista ser ela imprescindível para a satisfação do crédito dos ora agravados. Por conseguinte, não pode a Fazenda Pública ser condenada ao pagamento de honorários advocatícios.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (RE 649.274-AgR/DF, Rel. Min. LUIZ FUX – RE 677.555/RS, Rel. Min. CÁRMEN LÚCIA –  RE 711.058/RS, Rel. Min. CÁRMEN LÚCIA, v.g.).
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, pelas razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º-A).
+    Publique-se.
+    Brasília, 16 de novembro de 2012.
+Ministro CELSO DE MELLO
+Relator
