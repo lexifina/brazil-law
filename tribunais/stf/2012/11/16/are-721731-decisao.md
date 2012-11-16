@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. INDENIZAÇÃO DE FÉRIAS NÃO GOZADAS. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da Turma Recursal do Rio de Janeiro, o qual manteve decisão proferida nos seguintes termos:
+    “A matéria já resta pacificada nesta Turma Recursal, sendo certo que se o servidor não usufruiu férias por vontade da administração pública, impõe-se o pagamento de indenização, sob pena de enriquecimento ilícito. Direito amparado no art. 7°, inciso XVII c/c art. 39, § 3°, da Constituição da República e no princípio geral do direito que veda o enriquecimento ilícito. Possibilidade de conversão em pecúnia” (fl. 111).
+    2. O Agravante afirma que a Turma Recursal teria contrariado os arts. 37, caput e § 6°, e 61, § 1º, inc. II, alínea a, da Constituição da República.
+    Sustenta que “não há, pois, na hipótese dos autos, como vislumbrar a ocorrência de locupletamento indevido da Administração em detrimento do recorrido. O não pagamento da pecúnia encontra pleno apoio no sistema jurídico vigente, que não prevê, em norma jurídica válida e eficaz, essa modalidade. Não se trata assim de enriquecimento sem causa, mas observância ao princípio da legalidade, que torna vinculada a atividade do administrador público quanto ao pagamento de quantias pecuniárias aos servidores públicos” (fl. 138).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) incidência da Súmula 284 do Supremo Tribunal Federal; e b) ausência de contrariedade direta à Constituição da República; (fls. 151-153).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar os fundamentos da decisão agravada, pois a fundamentação do recurso extraordinário apresenta-se de forma adequada à compreensão da controvérsia e a matéria objeto desse recurso tem natureza constitucional.
+     Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. Este Supremo Tribunal Federal assentou ser possível a conversão de férias não gozadas por servidor público em indenização pecuniária, pois, do contrário, haveria enriquecimento da Administração Pública sem justa causa. Nesse sentido:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO ESTADUAL. FÉRIAS. PERÍODOS NÃO GOZADOS EM ATIVIDADE. RECEBIMENTO EM PECÚNIA. ACRÉSCIMO DO TERÇO CONSTITUCIONAL. INCISO XVII DO ART. 7º DA MAGNA CARTA. ADMISSIBILIDADE. O Tribunal de Justiça do Estado de São Paulo, ao acolher o pedido do autor, apenas conferiu efetividade ao disposto no inciso XVII do art. 7º da Lei das Leis. Com efeito, se o benefício não é usufruído, porque a Administração indeferiu requerimento tempestivo do servidor, ao argumento de absoluta necessidade do serviço, impõe-se a indenização correspondente, acrescida do terço constitucional. De outra parte, o fato de o servidor não haver usufruído o direito, não lhe acarreta punição ainda maior; qual seja, a de deixar de receber a indenização devida, com o acréscimo constitucional. Procedimento esse que acarretaria, ainda, enriquecimento ilícito do Estado. Agravo regimental a que se nega provimento” (RE 324.880-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJ 10.3.2006).
+    “O Supremo Tribunal Federal fixou entendimento no sentido de ser possível a conversão de férias não gozadas em indenização pecuniária dada a responsabilidade objetiva desta e vedação ao enriquecimento ilícito. Precedentes. Agravo regimental a que se nega provimento” (AI 768.313-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 18.12.2009).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. FÉRIAS NÃO GOZADAS POR NECESSIDADE DA ADMINISTRAÇÃO PÚBLICA: INDENIZAÇÃO PECUNIÁRIA. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 701.078-AgR, de minha relatoria, Segunda Turma, DJe 4.10.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, conheço do agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
