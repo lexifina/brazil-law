@@ -1,0 +1,16 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+CAUSA DE DIMINUIÇÃO DA PENA – ARTIGO 33, § 4º, DA LEI Nº 11.343/06 – QUANTIDADE DE DROGA.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado a quatro anos e dois meses de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33 (tráfico de entorpecentes), combinado com o § 4º (causa especial de diminuição) do mesmo dispositivo, da Lei nº 11.343, de 2006.
+    Interpôs-se apelação no Tribunal de Justiça do Estado de Minas Gerais. Pleiteou-se a absolvição por falta de provas e, sucessivamente, a redução da pena-base ao mínimo legal, a diminuição máxima em razão da referida minorante, o abrandamento do regime prisional e a substituição de pena. A 1ª Câmara Criminal deu parcial provimento ao recurso, estabelecendo o regime semiaberto. Ressaltou a comprovação da autoria e a materialidade. Frisou que, em observância à previsão especial da Lei Antidrogas, o Juízo, ao fixar a fração redutora, deve considerar primordialmente a natureza e a quantidade do entorpecente apreendido. Destacou que o paciente foi preso na posse de 44 ampolas de cocaína – substância de alto poder nocivo.
+    Formalizou-se habeas corpus no Superior Tribunal de Justiça – de nº 238.632/MG. O relator, ministro Marco Aurélio Bellizze, negou seguimento à impetração. Consignou serem a natureza e a quantidade de drogas apreendidas circunstâncias preponderantes para a dosimetria no caso do crime de tráfico. Assentou não implicar dupla punição pelo mesmo fato sopesá-las em dois momentos distintos – na fixação da pena-base e na definição do percentual da mencionada causa de diminuição. Sublinhou a impossibilidade de substituir a sanção por medidas alternativas ante o regime prisional.
+    Neste habeas, o impetrante sustenta ter o paciente jus ao patamar máximo, porquanto preenche as condições exigidas pelo citado § 4º do artigo 33. Afirma que o paciente atende a todos os requisitos necessários à substituição da pena privativa de liberdade por restritiva de direitos, se aplicada a devida redução. Destaca haver o Plenário do Supremo declarado a inconstitucionalidade do artigo 44 da Lei nº 11.343, de 2006, no que vedado o benefício nos crimes de drogas.
+    Requer o deferimento de liminar para determinar o implemento da diminuição na fração de 2/3 e fixar o regime prisional de acordo com a sanção imposta. No mérito, pede a confirmação da providência.
+    O habeas encontra-se concluso para apreciação da medida acauteladora.
+    2. Este habeas ganha contornos de substitutivo do recurso ordinário constitucional, mostrando-se inadequado. No mais, o Juízo, ao examinar a problemática da causa de diminuição da pena, observou a percentagem de um sexto. Ao que tudo indica, considerou a grande quantidade de entorpecente apreendida. Esse enfoque veio a ser explicitado quando do julgamento da apelação. Na oportunidade, consignou-se que essa diminuição guardou sintonia com o contexto. Então, não há campo para implementar-se medida acauteladora de ofício, que, até mesmo, se confunde com o mérito do pedido.
+    3. Colham o parecer da Procuradoria Geral da República.
+    4. Publiquem.
+Brasília – residência –, 18 de novembro de 2012, às 20h10.
+Ministro MARCO AURÉLIO
+Relator
