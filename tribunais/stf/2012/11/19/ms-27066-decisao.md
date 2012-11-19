@@ -1,0 +1,14 @@
+Decisão monocrática: A Federação Nacional dos Urbanitários protocolizou petição em que requer o esclarecimento de duas questões pontuais referentes à implementação do acordo firmado nos autos.
+    O primeiro ponto se refere ao exato enquadramento dos trabalhadores admitidos antes de 21 de dezembro de 1993 na carreira de FURNAS, porquanto se indaga se o novo enquadramento dos terceirizados implicará redução salarial de alguma natureza. O segundo esclarecimento cinge-se à situação específica dos trabalhadores enquadrados como PCC3 e listados como substituídos no mandado de
+segurança impetrado. A Impetrante noticia que FURNAS sempre separou seus terceirizados em dois grupos, PCC1 e PCC3, e que haveria dúvidas sobre se o acordo também abrangeria estes últimos.
+    É o breve relatório.
+    Decido.
+    O acordo firmado entre as partes teve como escopo solucionar múltiplas e profundas controvérsias existentes no âmbito de FURNAS geradoras de incertezas jurídicas e de instabilidade social. Foi este o espírito do ajuste e que, pour cause, orienta a sua hermenêutica.
+    No que concerne ao primeiro ponto de esclarecimento, revela-se necessário afirmar que o enquadramento do trabalhador admitido antes de 21 de dezembro de 1993 deverá ter como parâmetro o salário bruto que já percebia na condição de terceirizado, sob pena de surgimento inoportuno de futuras reclamações trabalhistas fundadas no direito à irredutibilidade salarial. A fim de que não haja dúvidas, um trabalhador terceirizado que receba mensalmente, v. g., cinco mil reais de salário bruto, deverá ser enquadrado na carreira de FURNAS no emprego correspondente às suas atribuições, de maneira que não haja redução salarial, e nem mesmo qualquer aumento expressivo de seu salário bruto.
+    Sob outro enfoque, a admissão do trabalhador por FURNAS o sujeitará a uma nova relação jurídica de emprego regida nos termos da carreira dos empregados públicos de FURNAS. Por essa razão, as vantagens, adicionais, gratificações ou quaisquer outras espécies de verbas recebidas em razão do vínculo de emprego antigo não serão transferidas para o novo vínculo de emprego. Os trabalhadores que vierem a ser admitidos por FURNAS em razão do acordo celebrado nestes autos terão direito, apenas, ao recebimento dos mesmos direitos garantidos aos empregados públicos da referida estatal.
+    Especificamente quanto ao segundo esclarecimento, o acordo formalizado nestes autos beneficia todos os trabalhadores listados na petição inicial deste mandado de segurança, integrantes do PCC1 ou do PCC3, que tenham sido admitidos antes de 21 de dezembro de 1993, na medida em que o acordo não fez qualquer restrição específica em decorrência da natureza da terceirização.
+    Publique-se.
+    Brasília, 19 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
