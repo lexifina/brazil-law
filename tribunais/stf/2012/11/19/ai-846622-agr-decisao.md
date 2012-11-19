@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO PREDIAL E TERRITORIAL URBANO (IPTU). IMUNIDADE. IMPOSSIBILIDADE DO REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. ANÁLISE, DESDE LOGO DO AGRAVO DE INSTRUMENTO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Em 30 de junho de 2011, dei provimento a este agravo de instrumento e parcial provimento ao recurso extraordinário interposto pelo Município de Porto Alegre, para afastar imunidade tributária quanto à Taxa de Coleta de Lixo (fl. 322).
+    2. Contra essa decisão, a Fundação de Ciência e Tecnologia do Estado do Rio Grande do Sul (CIENTEC), interpõe agravo regimental argumentando que “a monocrática é patentemente extra petita. Isto porque o Município de Porto Alegre não devolveu ao conhecimento dessa Suprema Corte a matéria relativa à imunidade da taxa de coleta de lixo” (fl. 325).
+    Sustenta que “uma suposta imunidade da Fundação estadual quanto à taxa sequer foi apreciada pelos órgãos jurisdicionais da origem, uma vez que em virtude do parcelamento e da concordância das partes em sua exclusão da execução, nem a sentença nem o acórdão puderam dispor sobre o assunto”(fl. 327).
+    Requer, assim, a reconsideração da decisão “de modo que seja integralmente desprovido o recurso extraordinário” (fl. 327).
+    3. Houve equívoco na fundamentação da decisão agravada, pois a matéria referente a imunidade da Taxa de Coleta de Lixo não foi objeto do recurso extraordinário, razão pela qual reconsidero a decisão de fls. 317-322, ficando prejudicadas as razões do agravo regimental.
+    Examino, desde logo, o Agravo de Instrumento.
+    4. Agravo de instrumento contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    5. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO. TRIBUTÁRIO. IMUNIDADE RECÍPROCA. FUNDAÇÃO DE CIÊNCIA E TECNOLOGIA CIENTEC.
+    1. Em se tratando de matéria a cujo respeito há súmula ou jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, o Relator está autorizado a negar seguimento ou a dar provimento a recurso. Art. 557 do CPC.
+    2. Em se tratando de causa em que restou vencida a Fazenda Pública, os honorários advocatícios são fixados de acordo com a apreciação equitativa do juiz. Hipótese em que os honorários fixados devem ser mantidos.
+    Recurso desprovido” (fl. 223).
+    6. O Agravante alega que teria sido contrariado o art. 150, inc. VI, alínea a, e § 2º, da Constituição da República.
+    Argumenta que “uma vez que o acórdão de origem haja reconhecido que a agravada é fundação de direito privado, descabe extensão, a seu favor, da disposição do art. 150, VI, a, da carta, bem como de seu § 2º, porque não se trata de fundação pública” (fl. 7).
+    Sustenta que a “CIENTEC não satisfaz, vênia concessa, a exigência do art. 150, § 2º, da Carta, porque é fundação de direito privado, realizando atividade-fim, sem respeito exclusivo ao regime administrativo”(fl. 7).
+    Requer seja “afastada a imunidade reconhecida na origem [e determinada] a continuidade da execução fiscal, no que pertine à dívida relativa ao IPTU” (fl. 14).
+    7. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de a decisão constante do acórdão recorrido estar em harmonia com a jurisprudência do Supremo Tribunal Federal (Recurso Extraordinário n. 257.700), além da incidência da Súmula n. 279 do Supremo Tribunal Federal (fl. 296).
+    Analisada a matéria posta à apreciação, DECIDO .
+    8. Razão jurídica não assiste ao Agravante.
+    9. Consta da decisão proferida pela primeira instância e mantida pelo Tribunal a quo que:
+    “Em que pese a embargante [Fundação de Ciência e Tecnologia] ser uma Fundação com natureza jurídica de direito privado, esta sucedeu a extinta autarquia Instituto Tecnológico do Rio Grande do Sul e recebeu todo seu acervo, se enquadrando, portanto, na hipótese prevista no [art. 150, § 2º da Constituição da República] (...) A embargante é Fundação instituída e mantida pelo Estado do Rio Grande do Sul, aplicável, no caso, a regra prevista no artigo 150, inciso VI, alínea 'a' da Constituição Federal” (fls. 143, verso, e 144).
+    O Tribunal a quo asseverou que a Agravada é Fundação instituída e mantida pelo Estado do Rio Grande do Sul e não desempenha atividade econômica, razão pela qual estaria imune à incidência do Imposto sobre a Propriedade Territorial Urbana (IPTU).
+    O Supremo Tribunal Federal assentou que “a imunidade tributária só deixa de incidir quando a natureza jurídica da entidade estatal é de exploração de atividade econômica”, o que não é o caso dos autos. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS - ICMS. AUTARQUIA FEDERAL - INCRA. IMUNIDADE TRIBUTÁRIA: NÃO CONFIGURAÇÃO DO EXERCÍCIO DE ATIVIDADE ECONÔMICA. PRECEDENTE. DESNECESSIDADE DO REEXAME DE PROVAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 248.824-AgR, de minha relatoria, Primeira Turma, DJe 13.11.2009, grifei).
+    “Incra. Imunidade tributária. Exploração de unidade agroindustrial. Ausência de configuração de atividade econômica capaz de impor o regime tributário próprio das empresas privadas. 1. A atividade exercida pelo Incra, autarquia federal, não se enquadra entre aquelas sujeitas ao regime tributário próprio das empresas privadas, considerando que a eventual exploração de unidade agroindustrial, desapropriada, em área de conflito social, está no âmbito de sua destinação social em setor relevante para a vida nacional. 2. A imunidade tributária só deixa de operar quando a natureza jurídica da entidade estatal é de exploração de atividade econômica. 3. Recurso extraordinário conhecido e provido” (RE 242.827, Rel. Min. Menezes Direito, Primeira Turma, DJe 24.10.2008, grifei).
+    “CONSTITUCIONAL. TRIBUTÁRIO. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS: IMUNIDADE TRIBUTÁRIA RECÍPROCA: C.F., ART. 150, VI, a. EMPRESA PÚBLICA QUE EXERCE ATIVIDADE ECONÔMICA E EMPRESA PÚBLICA PRESTADORA DE SERVIÇO PÚBLICO: DISTINÇÃO. I. - As empresas públicas prestadoras de serviço público distinguem-se das que exercem atividade econômica. A Empresa Brasileira de Correios e Telégrafos é prestadora de serviço público de prestação obrigatória e exclusiva do Estado, motivo por que está abrangida pela imunidade tributária recíproca: C.F., art. 150, VI, a. II. - R.E. conhecido em parte e, nessa parte, provido” (RE 407.099, Rel. Min. Carlos Velloso, Segunda Turma, DJ 6.8.2004, grifei).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    10. Pelo exposto, nego seguimento ao agravo de instrumento (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
