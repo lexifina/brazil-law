@@ -1,0 +1,14 @@
+DECISÃO: Trata-se de agravo de decisão que não admitiu recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão do Tribunal de Justiça do Estado de Minas Gerais, cuja ementa possui o seguinte teor (fls. 124):
+    “AÇÃO ORDINÁRIA - VENCIMENTOS/PROVENTOS DOS SERVIDORES PÚBLICOS - CONVERSÃO PARA URV – PERDAS SALARIAIS CONSTATADAS – PEDIDO SUCESSIVO – PRETENSÃO JULGADA PARCIALMENTE PROCEDENTE – INEXISTÊNCIA DE SUCUMBÊNCIA DA PARTE POSTULANTE – FIXAÇÃO DA VERBA HONORÁRIA – INTELIGÊNCIA DO ARTIGO 20 DO CPC – SENTENÇA REFORMADA PARCIALMENTE. Em função da declaração de inconstitucionalidade da Lei Estadual nº 11.510/94 pela egrégia Corte Superior, impõe-se adotar a sistemática da Lei Federal nº 8.880/94 para a conversão dos vencimentos dos servidores do Poder Executivo estadual para URV. Sendo assim, conforme laudo pericial adunado aos autos, conclui-se que, em determinados cargos, ocorreram perdas salariais quando da aludida conversão, impondo-se a recomposição dos vencimentos da parte autora. Se, no caso presente, o pedido principal foi rejeitado, tendo sido, entretanto, o pedido sucessivo integralmente acolhido pela i. Magistrada ‘a quo’, é de se asseverar que o apelado deve suportar inteiramente os ônus decorrentes da sucumbência, nos termos do que dispõe o artigo 20 do CPC.”
+    Nas razões do recurso extraordinário, o ora agravante alega ofensa aos arts.1º; 2º; 5º, II; 18; 25; 37, caput; 60, § 4º; 61, § 1º, II, a; 165 e 168, todos da Carta Magna.
+    É o relatório. Decido.
+    O Tribunal a quo asseverou que:
+    “(...) segundo sistemática da lei federal e comparando com o resultado da lei estadual e observando o símbolo do respectivo cargo público que este ocupava (S01/Nível 08), percebe-se que este sofreu perda remuneratória, quando da indigitada conversão, no percentual de 2,78% (dois vírgula setenta e oito por cento” (fls.128)
+    Eventual modificação desse entendimento implicaria, necessariamente, o reexame dos fatos e provas que fundamentaram as conclusões do acórdão recorrido, o que inviabiliza o processamento do recurso, ante a vedação contida na Súmula 279/STF.
+    Confiram-se, em casos análogos ao presente, os seguintes precedentes: AI 781.079/MG (rel. Min. Carlos Britto, DJe de 17.03.2010), AI 684.563/MG (rel. min. Marco Aurélio, DJe de 21.06.2010) e AI 782.217/MG (rel. min. Cármen Lúcia, DJe de 07.04.2010). Transcrevo a ementa deste último:
+    “AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DA MOEDA EM UNIDADE REAL DE VALOR – URV: DIFERENÇA. REEXAME DE PROVAS: IMPOSSIBILIDADE. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.”
+    Do exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de novembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
