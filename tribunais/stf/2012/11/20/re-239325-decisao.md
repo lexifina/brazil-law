@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição) interposto de acórdão prolatado pelo Tribunal de Justiça do Paraná, assim ementado:
+    “DECLARATORIA. ICMS. REMESSA A EMPRESA EXPORTADORA DE PRODUTO INDUSTRIALIZADO PARA EXPORTAÇÃO EM MOEDA ESTRANGEIRA. ISENÇÃO CONDICIONADA. IMPOSTO E MULTA EXIGÍVEIS, EM MOEDA NACIONAL. DENUNCIAÇÃO DA LIDE. INADMISSIBILIDADE. DECISÃO CONFIRMADA. 1. A promoção de saída de mercadoria com isenção do ICMS, quando para fins de exportação, sujeita-se ao tributo e respectiva multa se a empresa e exportadora e o faz em desacordo com a lei estadual. 2. Descabida a denunciação requerida, por falta de fundamento legal, e porque a empresa-autora é responsável pela operação efetuada, não podendo atribuir esse fato a terceiros (art. 11, do decreto no. 7.004/90).”
+    Sustenta-se, em síntese, a violação dos arts. 150, caput e II, 152, caput, e 155, caput, I, b, IV, X, a, XII, a, b e d, e § 2º, da Constituição, com o fim de que seja reconhecida a inconstitucionalidade do Decreto Estadual do Paraná nº 7.004/90 e consequentemente a inexigibilidade do crédito tributário em questão.
+    O Supremo Tribunal Federal tem jurisprudência pacífica no sentido de que os produtos industrializados exportados são imunes ao ICMS (art. 155, § 2º, X, a, com a redação anterior à Emenda Constitucional nº 42/03), independentemente da moeda utilizada na exportação, e por isso considera inconstitucional a restrição imposta pelo Decreto Estadual do Paraná nº 7.004/90, quanto às exportações feitas em moeda nacional. Nesse sentido:
+    EMENTA: TRIBUTO. ICMS. Exportação de produtos industrializados. Imunidade. Limitação apenas às operações realizadas com moeda estrangeira. Restrição imposta pelo Decreto Estadual nº 7.004/90 e Convênio ICMS nº 4/90. Inadmissibilidade. Recurso Extraordinário não provido. A imunidade do ICMS relativa à exportação de produtos industrializados abrange todas as operações que contribuíram para a exportação, independentemente da natureza da moeda empregada. (RE 248.499, rel. min. Cezar Peluso, Segunda Turma, DJ de 20.11.2009)
+    Com o mesmo entendimento: RE 583.930, rel. min. Ricardo Lewandowski, DJ de 01.02.2011; RE 363.011, rel. min. Carlos Britto, DJ de 03.02.2010; AI 237.951, rel. min. Sydney Sanches, DJ de 10.10.2001; RE 279.047, rel. min. Celso de Mello, DJ de 17/05/2005; RE 443.343, rel. Min. Eros Grau, DJ de 31/03/2005.
+    Dessa orientação divergiu o acórdão recorrido.
+    Ante o exposto, conheço do recurso extraordinário e dou-lhe provimento.
+    Inverto a sucumbência.
+    Publique-se.
+     Brasília, 20 de novembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
