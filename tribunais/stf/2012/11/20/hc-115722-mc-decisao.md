@@ -1,0 +1,21 @@
+Processual penal militar. Habeas corpus. Recusa de obediência – art. 163 do CPM. Absolvição. Apelação da acusação provida. Condenação pelo crime de desrespeito a superior – art. 160 do CPM. Questionamento sobre a mutatio libelli em segundo grau. Vagueza e incerteza do núcleo do tipo do art. 160 do CPP – desrespeitar (ordem superior), possibilitando o arbítrio e a insegurança jurídica. Ofensa ao princípio da taxatividade e, em consequência, ao princípio da reserva legal. Não recepção do art. 160 do CPM pela CF/88. Questões complexas. Exame inviabilizado em sede cautelar. Não demonstração do periculum in mora.
+- Liminar indeferida.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado contra acórdão do Superior Tribunal Militar cuja ementa possui o seguinte teor:
+    “EMENTA: DESIGNAÇÃO PARA SERVIÇO DE FAXINA. COMPROVAÇÃO DA ESCALA. SUPERVENIÊNCIA DE ORDEM PARA ASSISTIR À FORMATURA. RECUSA DE OBEDIÊNCIA. INOCORRÊNCIA. PRESENÇA DAS ELEMENTARES DO CRIME DE DESRESPEITO. DESCLASSIFICAÇÃO DA CONDUTA. SÚMULA 5 DO STM.
+    Diante da diversidade de ordens superiores, a incerteza quanto à obrigatoriedade de soldado participar ou não da formatura, além da comprovação em escala de serviço designando-o para o serviço de faxina, afastam a tipicidade do crime de recusa de obediência. Por outro lado, a postura desafiadora do referido militar em relação a seu superior, na função de Sargento-de-Dia, dizendo-lhe que poderia lançar tal recusa de participar da formatura em livro, pois se fosse preso conseguiria sair da prisão, dando-lhe as costas posteriormente, autoriza a desclassificação da conduta inicialmente descrita na denúncia para o crime de desrespeito a superior, previsto no art. 160 do CPM.
+    Provido parcialmente o apelo ministerial.
+    Decisão unânime.”
+    O paciente foi denunciado, em maio de 2010, por crime de recusa de obediência (insubordinação), tipificado no art. 163 do Código Penal Militar. A denúncia foi recebida em 05/07/2010 e, finda a instrução, restou absolvido, ensejando apelo do parquet militar, que restou provido, parcialmente, para condená-lo pelo crime de desrespeito a superior, tipificado no art. 160 do CPM, ou seja, por delito diverso do que constara na exordial acusatória.
+    Inconformada, a defesa opôs embargos de declaração e, ante a rejeição, interpôs recurso extraordinário, o qual foi inadmitido, não obstante, segundo a impetrante, a Procuradoria-Geral da Justiça Militar ter apresentado contrarrazões no sentido da ilegalidade da condenação por “tipo penal totalmente diverso do crime de insubordinação”.
+    Daí o presente writ, impetrado sob duplo fundamento: (i) impossibilidade de mutatio libelli em segundo grau e (ii) e ofensa ao princípio da taxatividade no que tange ao núcleo do tipo do art. 160, vale dizer, em relação ao verbo desrespeitar (superior), que, pela vagueza, imprecisão e generalidade, permite o arbítrio, daí resultando insegurança jurídica e, em consequência, violação do princípio da reserva legal.
+    A impetrante requer a concessão de liminar a fim de suspender os efeitos do acórdão condenatório proferido no bojo da ação penal militar 0000062-55.2010.7.08.0008, até o julgamento final da presente impetração e, no mérito, o deferimento do writ para, cumulativamente, (a) desconstituir o acórdão impugnado e (b) “declarar, em sede de controle incidental de constitucionalidade, a não recepção do art. 160 do do Código Penal Militar, dada a imprecisão do tipo nele descrito, o que acarreta sua incompatibilidade com o artigo 5º, inciso XXXIX, da Constituição da República”.
+    É o relatório. DECIDO.
+    As alegações de inviabilidade da mutatio libelli em segundo grau e da não recepção do art. 160 do Código Penal Militar pela vigente ordem constitucional demandam análise percuciente, sabidamente inviável em sede de liminar.
+    É cediço, ademais, que a concessão de liminar somente é possível quando presentes o fumus boni iuris e o periculum in mora, sendo certo que esse segundo requisito não restou cabalmente demonstrado.
+    Ex positis, INDEFIRO a liminar.
+    Os autos estão suficientemente instruídos, por isso dispenso a requisição de informações e dou vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 20 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
