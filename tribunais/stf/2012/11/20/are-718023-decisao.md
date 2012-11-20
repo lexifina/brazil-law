@@ -1,0 +1,40 @@
+Contra a decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul de negativa da admissibilidade do recurso extraordinário que interpôs, maneja agravo o Ministério Público.
+    O agravante foi condenado à pena de 4 (quatro) anos, 10 (dez) meses e 10 (dez) dias de reclusão, em regime inicial fechado, pela prática do delito previsto no artigo 33, § 4º, da Lei 11.343/06, com início de cumprimento em 17.02.2010 e seu término previsto para 26.12.2014.
+    O Juízo de 1º grau indeferiu o pedido de progressão de regime feito após o implemento de 1/6 da pena, em 09.12.2010, por entender se tratar de crime hediondo.
+    Em sede de agravo em execução, o Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso, para afastar o caráter de crime hediondo do delito de tráfico privilegiado e, com isso, definir o lapso a ser cumprido pelo apenado como de 1/6 e não de 2/5 da pena, nos termos da seguinte ementa:
+    “AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. TRÁFICO PRIVILEGIADO. AFASTADO O CARÁTER DE HEDIONDO.
+    O art. 2º da Lei 8.072/90 faz referência ao tráfico ilícito de entorpecentes, sem enquadrar a figura do tráfico privilegiado como crime hediondo. Vedação, pelo ordenamento jurídico, de interpretação extensiva, em prejuízo do réu. Leitura a ser feita é restritiva.
+    Mostra-se incompatível o caráter hediondo e a figura do tráfico privilegiado, pois a Lei 11.343/2006, ao instituir a causa de diminuição de pena, exigiu que o agente fosse primário e de bons antecedentes e que não se dedicasse às atividades criminosas, nem integrasse organização criminosa típica, justamente por se tratar de conduta que não revelasse maior periculosidade ou acentuado grau de perversidade, e assim, passível de menor reprimenda.
+    Afastada a caracterização de hediondez, contida na Lei 8.072/90, devem ser reapreciados pelo Juiz da VEC, os demais requisitos subjetivos para o deferimento da progressão”.
+    Inconformado, o Ministério Público do Estado do Rio Grande do Sul manejou recurso extraordinário, ao argumento de violação dos artigos 5º, XLIII, e 97, ambos da Constituição Federal. O apelo extremo inadmitido na Corte de origem resultou na interposição do presente agravo.
+    Requer o agravante seja reconhecido o caráter hediondo do delito, para que depois de cumprida a fração de 2/5 da pena imposta, seja-lhe concedido o benefício da progressão de regime.
+    É o relatório.
+    Decido.
+    Concomitantemente à interposição do extraordinário, o Ministério Público Estadual manejou recurso especial perante o Superior Tribunal de Justiça. Verifico que aquela Corte deu provimento ao Recurso Especial para manter o caráter hediondo do delito, nos termos da seguinte decisão:
+    “Trata-se de recurso especial interposto pelo Ministério Público do Rio Grande do Sul, com fundamento na alínea "a" do permissivo constitucional, contra acórdão da Terceira Câmara Criminal do Tribunal de Justiça daquele Estado, que, à unanimidade, deu parcial provimento ao Agravo em Execução Criminal n. 70043524925, para afastar o caráter hediondo do tráfico de entorpecentes, em face da incidência da causa de diminuição prevista no art. 33, parágrafo 4º, da Lei nº 11.343/2006.
+    O acórdão recebeu a seguinte ementa (fl. 70):
+    “AGRAVO EM EXECUÇÃO. PROGRESSÃO DE REGIME. TRÁFICO PRIVILEGIADO. AFASTADO O CARÁTER DE HEDIONDEZ.
+    O art. 2º da Lei 8.072/90 faz referência ao tráfico ilícito de entorpecentes, sem enquadrar a figura do tráfico privilegiado como crime hediondo. Vedação, pelo ordenamento jurídico, de interpretação extensiva, em prejuízo do réu. Leitura a ser feita é restritiva.
+    Mostra-se incompatível o caráter hediondo e a figura do tráfico privilegiado, pois a Lei 11.343/2006, ao instituir a causa de diminuição de pena, exigiu que o agente fosse primário e de bons antecedentes e que não se dedicasse às atividades criminosas, nem integrasse organização criminosa típica, justamente por se tratar de conduta que não revelasse maior periculosidade ou acentuado grau de perversidade, e assim, passível de menor reprimenda. Afastada a caracterização de hediondez, contida na lei 8.072/90, devem ser reapreciados pelo Juiz da VEC, os demais requisitos subjetivos para o deferimento da progressão.
+    AGRAVO PROVIDO, EM PARTE.
+    Inconformado, o Ministério Público sustenta, no presente especial, que "O tráfico de drogas, mesmo quando cometido com a incidência da causa de redução de pena do § 4º do artigo 33 da Lei nº 11.343/06, trata-se de crime hediondo, já que essa minorante ao incidir sobre a pena prevista no caput, não modifica a sua tipicidade tampouco cria tipo derivado, porquanto não se trata de hipótese de qualificadora ou privilegiadora." (fl. 106) Ressalta, ademais, que o entendimento adotado pelo Tribunal de origem ofende aos artigos 2º da Lei n. 8.072/90; 33 e 44 da Lei nº 11.343/06.
+    Pretende, com fulcro nos argumentos expostos, a reforma do acórdão recorrido para obter o reconhecimento da hediondez do "tráfico- privilegiado."
+    Apresentadas as contrarrazões (fls. 136/143) e admitido o recurso (fls. 145/149), nesta instância, manifestou-se o Ministério Público Federal pelo provimento do especial (fls. 179-182).
+    Brevemente relatado, decido.
+    A irresignação merece prosperar.
+    O tráfico de entorpecentes é, nos termos do art. 5º, inc. XLIII, da Constituição Federal, equiparado aos crimes hediondos, assim definidos na Lei n. 8.072/90, sujeitando-se ao tratamento dispensado a tais delitos.
+    As circunstâncias que criam privilégios a determinado crime, da mesma forma que as qualificadoras, só constituem verdadeiros tipos penais quando contiverem preceitos primário e secundário, com novos limites mínimo e máximo para a pena em abstrato.
+    Por sua vez, as causas de aumento ou diminuição estabelecem somente uma variação, a partir de quantidades fixas (metade, dobro, triplo) ou frações de aumento ou redução (1/6 a 2/3, por exemplo).
+    Assim, a incidência de causa de diminuição de pena, prevista no art. 33, § 4º, da Lei nº 11.343/2006, interfere na quantidade de pena e não na qualificação ou natureza do delito, não sendo apta a afastar a equiparação do tráfico de drogas aos crimes hediondos.
+    Nesse sentido, trago à colação os seguintes precedentes:
+    A - HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TRÁFICO ILÍCITO DE ENTORPECENTES. MINORANTE DO § 4º DO ART. 33 DA LEI 11.343/06 ("TRÁFICO PRIVILEGIADO"). AFASTAMENTO DA HEDIONDEZ DO CRIME. IMPROCEDÊNCIA. NÃO CONFIGURAÇÃO DE NOVO TIPO PENAL. INADMISSIBILIDADE DE APLICAÇÃO DOS PRAZOS PREVISTOS PARA OS CRIMES COMUNS. ORDEM DENEGADA.
+    1. A jurisprudência pacífica deste Tribunal Superior é no sentido de que a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006 não é suficiente para provocar o afastamento da equiparação existente entre o delito de tráfico ilícito de drogas e os crimes hediondos, dado que não há a constituição de novo tipo penal, distinto da figura descrita no caput do mesmo artigo, não sendo, portanto, o "tráfico privilegiado" tipo autônomo. Assim, em casos tais, não podem ser considerados - como requisito objetivo para a obtenção de benefícios da execução penal - os prazos estabelecidos para os crimes comuns.
+    2. Se o tráfico de drogas (ilícito penal assemelhado a hediondo) foi praticado na vigência da Lei nº 11.464/2007, devem incidir os lapsos temporais de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, para a progressão de regime, bem como o prazo disposto no art. 44, parágrafo único, da Lei n.º 11.343/2006 para o livramento condicional.
+    3. Ordem denegada. (HC nº 219.960/MS, Relator o Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), DJe de 05/12/2011.)
+    (...)
+    Ante o exposto dou provimento ao recurso especial para manter o caráter hediondo do delito”.
+    Ante o exposto, julgo prejudicado o presente agravo por perda de objeto (art. 21, IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
