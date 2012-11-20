@@ -1,0 +1,34 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. ADICIONAL DE ETAPA ALIMENTAR: NATUREZA INDENIZATÓRIA. PRECEDENTES. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “AÇÃO ORDINÁRIA DE REVISÃO DE PROVENTOS - ADICIONAL PROVISÓRIO, DESEMPENHO E ETAPA ALIMENTAR, INCORPORADOS AO SUBSÍDIO DO PESSOAL DA ATIVA DE FORMA GENÉRICA - PRINCÍPIO DA ISONOMIA - INCORPORAÇÃO QUE SE IMPÕE, DEVENDO SER INCLUÍDOS OS VALORES AOS PROVENTOS DOS AUTORES, COM JUROS E CORREÇÃO MONETÁRIA, TUDO NA CONFORMIDADE COM O DISPOSTO NO ARTIGO 5º E 40, PARÁGRAFO 8º, DA CARTA REPUBLICANA DE 1988 (EMENDA CONSTITUCIONAL Nº 20/98) - NATUREZA ALIMENTAR DAS VERBAS DEVIDAS - PRECEDENTES DO STJ - ADICIONAL DE DESEMPENHO - LIMITAÇÃO DA LEI 5.699/05 - PROVIMENTO DO APELO INTERPOSTO POR BENEDITO DE ALENCAR LIMA E IMPROVIMENTO DO APELO INTERPOSTO PELO ESTADO DE SERGIPE.”
+    Os embargos de declaração opostos foram rejeitados.
+    2. O Recorrente alega que o Tribunal de origem teria contrariado os arts. 1º, 18, 25, 37, caput, e 40, § 8º, da Constituição da República.
+    Argumenta que “o Adicional de Desempenho e o Etapa Alimentar eram vantagens pagas a milhares de militares do Estado de Sergipe. A alegação dos recorridos é de que, em virtude de a Administração, à margem da lei, ter-lhes dado caráter genérico, elas ainda deveriam ser estendidas a todos os militares inativos do Estado.”
+    Afirma que “o fato de a Administração Pública, ao arrepio da lei, ter pago indistintamente o Adicional de Desempenho e o Etapa Alimentar para policiais militares da ativa, não gera o direito de extensão dessa mesma ilegalidade aos inativos.”
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica assiste em parte ao Recorrente.
+    4. Quanto aos adicionais de desempenho e provisório, o Tribunal de origem asseverou que:
+    “Os adicionais de desempenho e provisório são oriundos das Leis nº 3.048/91 e 4.289/2000, que não especificaram condições, requisitos ou pressupostos diferenciadores para o seu percebimento, caracterizando-se, pois verbas de caráter geral.”
+    Concluir de forma diversa do que decidido pelo Tribunal a quo, no sentido do caráter geral dos adicionais pretendidos, demandaria a análise prévia da legislação infraconstitucional local aplicável à espécie (Leis n. 3.048/1991 e 4.289/2000). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDORES PÚBLICOS. VANTAGENS DE CARÁTER GENÉRICO. EXTENSÃO AOS INATIVOS. NATUREZA. MATÉRIA INFRACONSTITUCIONAL. 1. O Tribunal a quo interpretou a Lei Estadual 3.048/91, que concedeu a benesse, e entendeu que os adicionais concedidos genericamente aos servidores da ativa estendem-se aos inativos (CF/88, art. 40, § 8º). 2. Para se concluir de forma diversa, seria necessário o reexame de legislação infraconstitucional. Precedentes. 3. Agravo regimental improvido” (AI 575.056-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 7.5.2010).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE FUNÇÃO. EXTENSÃO AOS INATIVOS. NATUREZA JURÍDICA. IMPOSSIBILIDADE DO REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 599.034-AgR, de minha relatoria, Primeira Turma, Dje 13.11.2009).
+    Nada há, pois, a prover quanto às alegações do Recorrente.
+    5. Quanto ao ponto no qual se discute o adicional de etapa alimentar, a Segunda Turma do Supremo Tribunal decidiu pela impossibilidade da extensão deste adicional aos militares inativos, em função da sua natureza indenizatória, nos seguintes termos:
+    “Recurso extraordinário. 2. adicional de etapa alimentar. Extensão aos militares inativos. Impossibilidade. Verba de natureza indenizatória. Inexistência de caráter genérico. 3. Recurso extraordinário conhecido e provido” (RE 411.998, Rel. Min. Gilmar Mendes, DJ 10.2.2006).
+    No voto do relator, tem-se:
+    “Trata-se do adicional de etapa alimentar, instituído pela Lei Estadual nº 2.241, de 1979, o qual se destina aos militares, em atividade, que não recebem alimentação nas suas Organizações Policiais-Militares (OPM).
+    Estabelece a citada lei:
+    ‘Art. 70, § 1º - O policial-militar, quando sua organização policial-militar, ou outras nas proximidades do local de serviço ou expediente, não lhe possa fornecer alimentação por conta do Estado e por imposição do horário de trabalho e distância de sua residência, seja obrigado a fazer refeições fora da mesma, terá direito à indenização do valor igual à etapa comum fixada.
+    Art. 71 - A etapa é a importância em dinheiro correspondente ao custeio da ração, sendo seu valor fixado anualmente através do Decreto do Governo do Estado.’
+    A referida lei estadual deixa claro que o adicional de etapa é devido aos militares ativos, em virtude da impossibilidade de fornecimento de alimentação, por parte do Estado, tão-somente nesses casos especificados na lei.
+    Verifica-se, portanto, que a gratificação da etapa alimentar não possui caráter genérico, sendo devida em condições específicas. O adicional caracteriza-se por sua natureza indenizatória, não sendo possível sua extensão aos militares inativos.
+    O Supremo Tribunal Federal, em caso análogo relativo ao auxílio-alimentação, decidiu que tal vantagem não se estende aos servidores inativos, por força do § 4º do art. 40 da Constituição Federal, porquanto se trata, em verdade, de verba indenizatória destinada a cobrir os custos de refeição diária devida exclusivamente ao servidor que se encontrar no exercício de suas funções, não se incorporando à remuneração nem aos proventos de aposentadoria. Nesse sentido, entre outros, o RE 231.389, 1ª T., Rel. Moreira Alves, DJ 25.06.99 e o RE 236.449, 2ª T., Rel. Maurício Corrêa, DJ 06.08.99.”
+    No mesmo sentido, as seguintes decisões monocráticas transitadas em julgado: RE 614.390, Rel. Min. Dias Toffoli, DJe 3.10.2012, RE 614.367, Rel. Min. Celso de Mello, DJ 14.6.2012; e AI 546.084-AgR, Rel. Min. Ayres Britto, DJ 30.6.2006.
+    Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+    6. Pelo exposto, dou parcial provimento ao recurso extraordinário, na parte relativa à extensão aos inativos do adicional de etapa alimentar (art. 557, 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), invertidos, neste ponto, os ônus da sucumbência, ressalvada eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 20 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
