@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que, ao manter a sentença por seus próprios fundamentos, indeferiu pedido de conversão de aposentadoria por tempo de contribuição em aposentadoria por invalidez, sob o fundamento de que, na época da concessão daquela aposentadoria, o autor não possuía o requisito exigido referente à incapacidade para o exercício das atividades laborativas.
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, caput, e 201, I e 1º, da mesma Carta. Sustentou-se, ainda, que o pedido encontra amparo nos arts. 186, § 1º, e 190 da Lei 8.112/1990.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 5º, caput, da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, para verificar a procedência do apelo extremo quanto à aplicabilidade, na espécie, do art. 190 da Lei 8.112/190, que trata da possibilidade de conversão de aposentadoria por tempo de contribuição em aposentadoria por invalidez, seria necessária a revisão da interpretação, conferida pelo Tribunal a quo, das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Lei Maior seria meramente indireta.
+    Por fim, a Turma Recursal valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, ante o não cabimento de recurso especial de decisão de Juizado Especial, tornaram-se definitivos os fundamentos infraconstitucionais que ampararam o acórdão recorrido. Incide, no caso, a Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 459.061-ED/RJ, Rel. Min. Cezar Peluso; AI 642.443-AgR/GO, de minha relatoria; AI 587.173-AgR/GO, Rel. Min. Cármen Lúcia; RE 403.818/RJ, Rel. Min. Carlos Velloso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 20 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
