@@ -1,0 +1,20 @@
+DECISÃO: Trata-se de recurso extraordinário (art. 102, III, a, da Constituição federal) interposto de acórdão do Superior Tribunal de Justiça, cuja ementa possui o seguinte teor (fls. 192):
+    “CONSTITUCIONAL. ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. LEI ESTADUAL QUE DISPÕE SOBRE ATENDIMENTO EM TEMPO RAZOÁVEL NAS AGÊNCIAS BANCÁRIAS. CÓDIGO DE DEFESA DO CONSUMIDOR. POSSIBILIDADE. RELAÇÃO DE CONSUMO. COMPETÊNCIA CONCORRENTE. RECURSO ORDINÁRIO DESPROVIDO.
+    1. A Constituição Federal atribui competência à União, aos Estados e ao Distrito Federal para legislar (art. 24) sobre produção e consumo (inciso V) e sobre responsabilidade por dano ao consumidor (inciso VIII), estabelecendo em seu parágrafo 2º que ‘a competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados’, observando mais no parágrafo 4º que ‘a superveniência de lei federal sobre normas gerais suspende a eficácia da lei estadual, no que lhe for contrário’.
+    2. A Lei Estadual 7.878/2002, do Estado do Mato Grosso, que dispõe sobre o atendimento ao consumidor em caixas das agências bancárias, não conflita com as normas constitucionais apontadas no recurso (arts. 21, 22, 48 e 192 da Constituição Federal), tampouco com a legislação infraconstitucional indicada pelo recorrente (Lei 4.595/64). (…)
+    3. Efetivamente, afirmar que o objeto da lei impugnada somente teria interesse local (ou seja, de âmbito apenas municipal) não reflete a importância da regulação do atendimento prestado por instituições financeiras aos consumidores no âmbito estadual. Assim, na hipótese examinada, ainda que analisando a repartição de competência entre os entes da federação com o enfoque do princípio da ‘predominância do interesse’, é lícito afirmar a existência de interesse regional apto a autorizar a inciativa do Estado de Mato Grosso em legislar sobre a questão constitucional relacionada ao tempo de atendimento em instituições financeiras.
+    4. Desprovimento do recurso ordinário.”
+    O recorrente alega contrariedade ao disposto nos arts. 24, V e VIII, §§ 2º e 4º, e 30, I, da Constituição.
+    Observo que o recurso extraordinário não logrou demonstrar o desacerto da decisão recorrida, uma vez que esta concluiu que “(...) A Constituição Federal atribui competência à União, aos Estados e ao Distrito Federal para legislar (art. 24) sobre produção e consumo (inciso V)” e “que “afirmar que o objeto da lei impugnada somente teria interesse local não reflete a importância da regulação do atendimento prestado por instituições financeiras aos consumidores no âmbito estadual. (…) é lícito afirmar a existência de interesse regional apto a autorizar a inciativa do Estado de Mato Grosso em legislar sobre a questão constitucional relacionada ao tempo de atendimento em instituições financeira” (fls. 187 e 190), enquanto aquele se limita a argumentar que “tratar do tempo de atendimento ao cliente e usuário de bancos em geral, é assunto de interesse local e, portanto, de competência exclusiva do município” (fls. 214). Incidem os óbices das Súmulas 283 e 284 desta Corte.
+    Ademais, esta Corte, apreciando caso análogo ao presente, assim decidiu:
+    “AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. COMPETÊNCIA. AGÊNCIAS BANCÁRIAS. TEMPO DE ATENDIMENTO AO PÚBLICO. LEI ESTADUAL. INTERESSE LOCAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+    (…)
+    6. Discute-se nestes autos a possibilidade de Lei Estadual dispor sobre o tempo de atendimento ao público nas instituições bancárias.
+    7. Este Supremo Tribunal Federal assentou que as leis que dispõem sobre o tempo de atendimento ao público nas agências bancárias não contrariam o art. 48, inc. XIII, da Constituição da República por não constituírem matéria sobre sistema financeiro, não havendo falar em competência privativa da União para dispor sobre o tema.
+    (…)” (AI 797.263, rel. min. Cármen Lúcia, DJe de 06.06.2011).
+    Desse entendimento, não divergiu o acórdão recorrido.
+    Do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de novembro de 2012.
+Ministro JOAQUIM BARBOSA
+Relator
