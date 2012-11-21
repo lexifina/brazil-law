@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. AÇÃO DE REGRESSO. RESSARCIMENTO AO ERÁRIO. IMPRESCRITIBILIDADE. ART. 37, § 5º, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO PROVIDO.
+Relatório
+    1. Recurso extraordinário interpostos com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “Ação ordinária. Fundação Pública. Acidente de trânsito. Indenização por danos materiais. Prescrição quinquenal do direito de ação. Improcedência do pedido. É improcedente o pedido inicial da ação ordinária, visando à indenização por danos materiais, diante da efetivação da prescrição quinquenal do direito de ação. Recurso não provido” (fl. 349).
+    2. A Recorrente alega que o Tribunal a quo teria contrariado o art. 37, § 5º, da Constituição da República.
+    Afirma que “no que se refere à presente Ação de Regresso, em que se pretende o ressarcimento contra o servidor que causou prejuízo ao erário, referida ação é imprescritível, nos termos do artigo 37, § 5º da Constituição Federal”. E que “diversamente do que ocorre em relação ao direito do lesado contra o Estado, sujeito a prescrição quinquenal, por força do regramento especial do Decreto nº 20.910/32, são imprescritíveis as ações de ressarcimento por danos causados por agente público, seja ele servidor público ou não, conforme o que estabelece o art. 37, § 5º, da Constituição Federal” (fl. 373).
+    Assevera que “a manutenção do entendimento emanado pelos D. Desembargadores ofende diretamente ao interesse coletivo, bem como ao fim público, o que não pode ser admitido” (fl. 377).
+    Requer o provimento do recurso com a consequente cassação do acórdão recorrido e o “retorno dos autos à instância de origem para apreciação do mérito e regular prosseguimento do feito” (fl. 377).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica assiste à Recorrente.
+    4. O Tribunal de Justiça estadual assentou que “aplica-se à situação dos autos o Decreto nº 20.910/32, uma vez que à Administração, na exigência de seus créditos, deve-se impor a mesma relação atribuída ao administrado, pela aplicação dos princípios da igualdade e simetria” (fl. 351).
+    Esse entendimento difere da jurisprudência do Supremo Tribunal Federal firmada no sentido de serem imprescritíveis as ações judiciais que busquem o ressarcimento do erário. No caso vertente, a Recorrente propôs ação regressiva a fim de ressarcir-se de indenização paga a terceiros em razão de danos causados pelo Recorrido no exercício de suas funções. Nesse caso, conforme disposto no § 5º do art. 37 da Constituição, é imprescritível a ação de regresso. Confiram-se os seguintes julgados:
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CONTRATO. SERVIÇOS DE MÃO-DE-OBRA SEM LICITAÇÃO. RESSARCIMENTO DE DANOS AO ERÁRIO. ART. 37, § 5º, DA CF. PRESCRIÇÃO. INOCORRÊNCIA. 1. As ações que visam ao ressarcimento do erário são imprescritíveis (artigo 37, parágrafo 5º, in fine, da CF). Precedentes. 2. Agravo regimental a que se nega provimento” (AI 712.435-AgR, Rel. Min. Rosa Weber, Primeira Turma, Dje 12.4.2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. § 5º DO ART. 37 DA CONSTITUIÇÃO. PRECEDENTES. 1. O Plenário do Supremo Tribunal Federal, no julgamento do MS 26.210, da relatoria do ministro Ricardo Lewandowski, decidiu pela imprescritibilidade de ações de ressarcimento de danos ao erário. 2. Agravo regimental desprovido” (RE 578.428-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 14.11.2011).
+    “Agravo regimental em recurso extraordinário. 2. Ação de ressarcimento de danos ao erário. Art. 37, § 5º, da Constituição Federal. Imprescritibilidade. Precedentes. 3. Agravo regimental a que se nega provimento” (RE 646.741-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 22.10.2012).
+    No mesmo sentido, em situação semelhante, foi dado provimento ao Recurso Extraordinário n. 648.661, Rel. Min. Ellen Gracie, DJe 9.8.2011, transitado em julgado.
+    5. Pelo exposto, dou provimento ao recurso extraordinário (art. 557, § 1º-A, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal) para cassar o acórdão recorrido e determinar ao Tribunal de Justiça de Minas Gerais que proceda novo julgamento, afastada a prescrição.
+    Publique-se.
+    Brasília, 21 de novembro de 2012.
+ Ministra CÁRMEN LÚCIA
+Relatora
