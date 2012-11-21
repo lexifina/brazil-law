@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário com agravo remetido ao Tribunal Superior do Trabalho, por meio da decisão monocrática de fl. 255 que determinou a devolução dos autos para que se cumprisse o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário estaria representada na sistemática da repercussão geral pelo RE-RG 598.365, tema 181.
+    Chegando ao tribunal de origem, os autos foram reenviados ao STF, sob a alegação de que “o acórdão recorrido e o Recurso Extraordinário não debatem questão relativa a requisitos de admissibilidade recursal” (fl. 258).
+    Decido.
+    Verifico, após detida análise, que a vinculação ao precedente indicado está equivocada, tendo em vista que a matéria debatida nos autos é diversa do paradigma vinculado por esta Corte, motivo pelo qual reconsidero a decisão de fl. 255 e passo ao julgamento do recurso.
+    Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Superior do Trabalho ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. INTERPRETAÇÃO E APLICAÇÃO DE PLANO DE CARGOS E SALÁRIOS. Estando ausentes os pressupostos previstos no art. 896 da CLT para o cabimento do Recurso de Revista, não merece prosperar o Agravo de Instrumento. Agravo de instrumento a que se nega provimento”. (fl. 188)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 37, caput, incisos II e X e § 2º, 169, § 1º, ambos insertos no texto constitucional.
+    Alega-se, em síntese, que a recorrida não faz jus às progressões salariais previstas no regulamento da empresa sucedida – CERNE, tendo em vista integrar, desde 1º.1.2000, os quadros funcionais da AGECOM, a qual se aplica regime estatutário.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem decidiu a controvérsia à luz dos fatos e provas constantes dos autos e da legislação infraconstitucional aplicável à espécie, qual seja: Lei Estadual 15.690/2006 e Consolidação das Leis do Trabalho (CLT). Eis a fundamentação do aresto recorrido:
+    “Como se vê, a discussão cinge-se à aplicação, ou não, do PCS do CERNE para o Reclamante, sendo certo que a decisão regional, conforme destaques efetuados, não atenta contra a literalidade dos arts. 37, X, e 169, § 1º, da CF, porque não se trata de fixação ou alteração da remuneração de servidor público, tal como prevê o inciso X do referido preceito constitucional, mas, sim, de conceder diferenças salariais, trabalhistas, decorrentes da implantação de plano de cargos e salários.
+    Ademais, o TRS registrou, com propriedade, que há dotação orçamentária para cumprir todas as obrigações trabalhistas decorrentes de decisão judicial, até porque não se produziu prova de que o cumprimento dessa decisão afetaria os limites da responsabilidade fiscal. Assim, erige-se o óbice da Súmula 126 desta Corte.
+    Note-se que o alegado documento novo superveniente, residente na implantação de Plano de Cargos e Remuneração (PCR), por meio da Lei Estadual n. 15.690/2006, não afasta a aplicação da Resolução n. 008/90, sobre a qual decidiram as instâncias ordinárias, pois a Recorrente transcreveu o teor da lei em suas razões recursais, no capítulo que lhe interessa, mas não trouxe documento hábil a demonstrar a adesão espontânea da Agravada no referido plano, daí a sua imprestabilidade ao caso concreto.
+    Ademais, o art. 1º da referida lei estadual estatui o seguinte (…)
+    Ora, se a adesão ao quadro da Reclamada impõe a submissão ao regime jurídico estatutário, por certo que a Justiça do Trabalho nem sequer teria competência para dirimir o enquadramento ou as ações dele derivadas. Daí a inviabilidade de se aplicar a referida lei ao caso já julgado na Justiça do Trabalho, que se limitou a observar os arts. 10 e 448 da CLT”. (fls. 191-192)
+    Assim, para adoção de entendimento diverso, far-se-ia imprescindível a revisão dos fatos e provas analisados, bem como a análise e interpretação da referida legislação, o que inviabiliza o prosseguimento do recurso extraordinário, a teor do Enunciado 279/STF e de remansosa jurisprudência desta Corte.
+    Nesse mesmo sentido, leiam-se os seguintes julgados: ARE 653.848, Rel. Min. Ricardo Lewandowski, DJe 21.5.2012; AI 853.413, Rel. Min. Luiz Fux, DJe 1º.2.2012; e o RE 569.678, Rel. Min. Ayres Britto, DJe 16.6.2010.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 21 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
