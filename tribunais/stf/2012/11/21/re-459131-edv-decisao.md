@@ -1,0 +1,13 @@
+Decisão: Trata-se de embargos de divergência opostos de decisão da Primeira Turma do Supremo Tribunal Federal, rel. min. Marco Aurélio, cuja ementa está assim reproduzida:
+    “PROCESSO PENAL - INTERROGATÓRIO - ASSISTÊNCIA TÉCNICA. A exigência de defesa técnica para observância do devido processo legal impõe a presença do profissional da advocacia na audiência de interrogatório do acusado. Não bastasse o disposto no artigo 261 do Código de Processo Penal, a Lei nº 10.792/2003 explicitou a formalidade de cunho nitidamente constitucional - artigo 5º, inciso LV, da Carta Federal. ” (Fls. 77)
+    O embargante alega que a decisão embargada diverge da jurisprudência firmada pela Segunda Turma desta Corte, no sentido de que não causa nulidade o interrogatório realizado sem a presença do defensor do acusado em data anterior à Lei 10.792/2003. Para reforçar tal argumento, cita como precedentes o HC 86.056 (rel. min. Ellen Gracie, Segunda Turma, DJ de 17.02.2006), RHC 84.178 (rel. min. Gilmar Mendes, Segunda Turma, DJ de 04.02.2005), HC 83.836 (rel. min. Cezar Peluso, Primeira Turma, DJ de 23.09.2005), e HC 94.034 (rel. min. Cármen Lúcia, Primeira Turma, DJ de 05.09.2008).
+    No mais, sustenta que anteriormente à referida lei o interrogatório prescindia da presença do defensor, e que qualquer ineficácia do ato deferia ser alegada tempestivamente pela defesa, com a demonstração do prejuízo, sob pena de preclusão, por se tratar de nulidade relativa.
+    Decido.
+    A jurisprudência do Tribunal firmou-se no sentido de que, quanto ao acórdão paradigma, “apenas as decisões emanadas desta Corte, que tenham sido proferidas no exame de recursos extraordinários, podem ser invocadas como padrões de confronto, desqualificando-se, para esse específico efeito, acórdãos resultantes do julgamento de outras espécies recursais ou de causas de natureza diversa” (RE 140.829-EDv-AgR, rel. min. Celso de Mello, DJ de 18.12.2006). Dessa forma, são inservíveis para a demonstração do dissídio, acórdãos proferidos em Habeas Corpus e Recurso em Habeas Corpus.
+    Ainda nesse sentido: RE 233.712-EDv (rel. min. Celso de Mello, DJ de 20.08.2001); RE 110.347-EDv (rel. p/ acórdão min. Moreira Alves, Plenário, DJ de 1º.07.1993); RE 255.328-ED-EDv-AgR (rel. min. Celso de Mello, Plenário, DJ de 30.05.2003); RE 205.968-ED-EDv-AgR (rel. min. Maurício Corrêa, Pleno, DJ de 02.03.2001), entre outros.
+    Do exposto, considerado o manifesto descabimento do recurso, não admito os presentes embargos de divergência, nos termos do art. 21, § 1º e 335 (na redação anterior à Emenda Regimental 47/2012) do RISTF.
+    Publique-se.
+    Brasília, 21 de novembro de 2012.
+Ministro Joaquim Barbosa
+Relator
+Documento assinado digitalmente
