@@ -1,0 +1,10 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – COMPETÊNCIA – DIREITO DECORRENTE DE CONTRATO DE TRABALHO – INCOLUMIDADE DO DISPOSTO NO ARTIGO 114 DA CONSTITUIÇÃO FEDERAL – AGRAVO DESPROVIDO.
+    1. De início, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para guindar a este Tribunal conflito de interesses cuja solução se exaure na Corte de origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor das decisões dos demais tribunais do País. Na espécie, a Corte de origem procedeu a julgamento fundamentando, de forma consentânea com a ordem jurídica, a parte dispositiva do pronunciamento.
+    2. No mais, há que se resistir à tentação de transformar-se o Supremo em instância simplesmente revisora de acórdãos dos demais tribunais do País. O acesso, na via excepcional do extraordinário, pressupõe o enquadramento da hipótese em uma das alíneas do inciso III do artigo 102 da Constituição Federal. E aí não basta evocá-la; é preciso que se demonstre, tratando-se da alínea “a”, o desrespeito à Carta da República. Ora, ao desprover o recurso, a Corte de origem fez ver que a decisão de 1º grau implicou solução de lide a partir do estabelecido no regulamento da agravante e em instrumento coletivo de trabalho.
+    3. Este agravo somente serve à sobrecarga da máquina judiciária. O Tribunal de Justiça do Estado do Rio Grande do Sul assentou a origem do direito questionado na reclamação trabalhista, qual seja, o contrato de trabalho, e disse da obrigação do empregador que transferiu a responsabilidade da complementação à entidade fechada de previdência privada. Nota-se assim que, em momento algum, foi adotado entendimento conflitante com o texto definidor da competência da Justiça do Trabalho - artigos 114 e 202 da Constituição Federal.
+    4. Pelas razões acima, conheço do pedido formulado neste agravo, mas a ele nego acolhida.
+    5. Publiquem.
+Brasília, 22 de novembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
