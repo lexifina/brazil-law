@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve sentença, a qual decidiu estender à recorrida a pontuação dos servidores ativos referente à Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho - GDPST.
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se ofensa aos arts. 5º, caput e II, 40, § 1º, III, b, e §§ 3º e 8º, 37, 61, § 1º, II, e 71, III e IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, o Plenário deste Tribunal, ao julgar o RE 631.880-RG/CE, Rel. Min. Gilmar Mendes, decidiu que a concessão, aos servidores inativos, da Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho - GDPST - obedecerá aos critérios aplicáveis aos ativos. Confira-se:
+    “Extraordinário. Gratificação de Desempenho da Carreira da Previdência, da Saúde e do Trabalho GDPST. Critérios de cálculo. Extensão. Servidores públicos inativos. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso improvido. É compatível com a Constituição a extensão, aos servidores públicos inativos, dos critérios de cálculo da GDPST estabelecidos para os servidores públicos em atividade” (RE 631.880-RG/CE, Rel. Min. Presidente).
+    Observe-se, ainda, que o julgado vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Por fim, quanto à interposição do recurso extraordinário com fundamento no art. 102, III, b, da Carta Magna, verifica-se que este Supremo Tribunal firmou ser imprescindível a declaração formal de inconstitucionalidade de tratado ou lei federal pelo plenário ou órgão especial do tribunal a quo. Nesse sentido:
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. CABIMENTO. ALÍNEA B. DECLARAÇÃO DE INCONSTITUCIONALIDADE. AUSÊNCIA. AGRAVO DESPROVIDO. 1. Não tendo sido declarada a inconstitucionalidade pelo Tribunal a quo do dispositivo legal questionado, não há como conhecer de recurso extraordinário interposto pela alínea b do inc. III do art. 102 da Constituição da República. 2. Agravo regimental desprovido” (RE 334.723-AgR/RJ, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
