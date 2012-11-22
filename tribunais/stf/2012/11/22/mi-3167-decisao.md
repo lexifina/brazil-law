@@ -1,0 +1,20 @@
+Decisão: Trata-se de mandado de injunção coletivo impetrado pelo Sindicato dos Servidores Públicos Municipais de Santo André (SINDSERV).
+    Sustenta-se a mora do dever de regulamentação, pelas autoridades impetradas, do previsto no art. 37, X, da Constituição Federal, referente à revisão geral anual da remuneração dos servidores públicos, instituída pela EC 19, de 4.6.1998.
+    Alega o sindicato que está assegurada, neste dispositivo constitucional, a revisão geral anual de remuneração, proventos e pensões, mediante lei específica.
+    Assim, requer o impetrante a concessão do writ, de modo a ver sanada a alegada omissão legislativa pelo Presidente da República, mediante a edição de norma regulamentar sobre a incidência de índices de reposição inflacionária dos vencimentos dos impetrantes.
+    Intimada, a Procuradoria-Geral da República prestou informações (eDOC 30), manifestando-se pela remessa dos autos ao Tribunal de origem, haja vista tratar-se de regulamentação legislativa de servidores municipais, e não federais, escapando, nesse sentido, da competência do Supremo Tribunal Federal insculpida no artigo 102, I, da Carta Magna.
+    Decido.
+    De fato, a competência para o julgamento do mandado de injunção pelo Supremo Tribunal Federal restringe-se àqueles cuja elaboração da norma regulamentadora seja atribuição do Presidente da República, do Congresso Nacional, da Câmara dos Deputados, do Senado Federal, das Mesas de uma dessas Casas Legislativas, do Tribunal de Contas da União, de um dos Tribunais Superiores, ou do próprio Supremo Tribunal Federal.
+    No caso, por se tratar de sindicato que representa os interesses de categoria de servidores públicos municipais, não há que se alegar omissão legislativa, nem mora do Presidente da República, nem do Poder Legislativo federal (Presidentes da Câmara dos Deputados e do Senado Federal).
+    Nesse sentido, transcrevo, no que interessa, o parecer da Procuradoria-Geral da República (e DOC 30):
+    “A competência para o julgamento do mandado de injunção é definida pelo órgão ou autoridade a que caiba a edição da norma regulamentadora.
+    Tratando-se de sindicato que representa servidores públicos municipais, não há que se invocar mora do Presidente da República, juntamente com os Presidentes da Câmara dos Deputados e do Senado Federal, cujas competências restringem-se a deflagrarem o processo legislativo de leis que disponham sobre a revisão geral anual dos servidores da União e Territórios.
+    Consoante o disposto no inciso X, artigo 37, da Constituição Federal e em respeito ao princípio da simetria, há que ser observada a iniciativa privativa do Chefe do Poder executivo local para a elaboração da lei reclamada, do que decorre a incompetência dessa Corte Suprema para processar e julgar a ação injuncional por ser autoridade que não se encontra incluída no rol taxativo elencado na alínea q, inciso I, artigo 102, da Constituição Federal.
+    Dessa forma, considerando as informações dos autos, o artigo 74, inciso V, da Constituição Estadual de São Paulo prevê a competência do Tribunal de Justiça do Estado para processar e julgar originariamente os mandados de injunção decorrentes da inexistência de norma regulamentadora estadual ou municipal, delimitando-se, portanto, a competência para o presente mandado de injunção”. (grifei) (eDOC 30)
+    Assim, considerando que a Constituição Estadual de São Paulo prevê em seu art. 74, V, a competência do Tribunal de Justiça do Estado para processar e julgar originariamente os mandados de injunção decorrentes da inexistência de norma regulamentadora estadual ou municipal, não cabe ao Supremo Tribunal Federal o julgamento do presente mandado de injunção.
+    Ante o exposto, nego seguimento ao mandado de injunção, e determino a remessa dos autos ao juízo competente, o Tribunal de Justiça do Estado de São Paulo, para que aprecie seu pedido.
+    Publique-se.
+    Brasília, 22 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
