@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão que, emanada do E. Superior Tribunal de Justiça, acha-se consubstanciada em acórdão assim ementado:
+    “RECURSO ESPECIAL. PROCESSUAL PENAL. LAVAGEM DE DINHEIRO. CRIME ANTECEDENTE. FURTO QUALIFICADO AO BANCO CENTRAL DE FORTALEZA. ADVOGADO. EXERCÍCIO DA PROFISSÃO. DENÚNCIA. INDÍCIOS DA EXISTÊNCIA DE INTERESSES QUE ULTRAPASSAM O MERAMENTE PROFISSIONAL. PROSSEGUIMENTO DA AÇÃO PENAL. RECURSO PROVIDO.
+    1. O trancamento da ação penal pela via de ‘habeas corpus’ é medida de exceção, que só é admissível quando emerge dos autos, de forma inequívoca e patente, a inocência do acusado, a atipicidade da conduta ou a extinção da punibilidade.
+    2. No caso, nenhuma dessas três hipóteses se apresenta. Além de a denúncia conter elementos indiciários suficientes da autoria e da materialidade do delito, o acórdão impugnado, ao decidir pelo trancamento do feito, acabou por apreciar o próprio mérito da ação penal, devendo, por isso, ser cassado para que seja dado prosseguimento à ‘persecutio criminis’.
+    3. Recurso provido.”
+    (REsp 1.046.892/CE, Rel. Min. LAURITA VAZ – grifei)
+    Busca-se, nesta sede processual, a concessão de medida liminar para que sejam suspensos “os efeitos da decisão do STJ”, até final julgamento da presente ação de “habeas corpus”, e o deferimento do pedido para que seja reconhecida a “(...) intempestividade do Recurso Especial interposto pelo Ministério Público Federal ao STJ, com fundamento no artigo 265 do Regimento Interno do Superior Tribunal de Justiça. Bem como o reconhecimento da impossibilidade da analogia ‘in malam partem’, em direito processual penal, que cause lesão a direito material”.
+    Sendo esse o contexto, passo a apreciar o pedido de medida liminar. E, ao fazê-lo, entendo que o exame dos fundamentos em que se apoia a presente impetração parece descaracterizar – ao menos em juízo de estrita delibação – a plausibilidade jurídica da pretensão cautelar deduzida nesta sede processual.
+    As alegações deduzidas nesta ação constitucional de “habeas corpus” parecem não ter o beneplácito da própria jurisprudência que o Supremo Tribunal Federal firmou na matéria veiculada na presente impetração, notadamente em face do que consta, p. ex., dos seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. RECURSO EXTRAORDINÁRIO. (…).
+    …...................................................................................................
+    O entendimento desta Corte é no sentido de que o prazo para interposição de recurso se inicia com a publicação, no órgão oficial, do acórdão que julgou os embargos declaratórios, uma vez que estes interrompem o prazo para interposição do extraordinário.”
+    (AI 820.070-AgR/SP, Rel. Min. JOAQUIM BARBOSA – grifei)
+    “(...) 2. Embargos declaratórios no processo penal. Interrompem o prazo para outro recurso, a despeito de o respectivo Código não dispor expressamente a respeito do pormenor. Aplicação analógica do art. 538, ‘caput’, do Código de Processo Civil, autorizada pelo art. 3º, do Código de Processo Penal. (…).”
+    (RTJ 82/126, Rel. Min. ANTONIO NEDER – grifei)
+    Impende assinalar, por oportuno, que esse entendimento reflete-se, por igual, no magistério jurisprudencial do Superior Tribunal de Justiça (AI 876.449-AgRg/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA):
+    “PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO (…).
+    1 – Os embargos de declaração, mesmo em matéria criminal, interrompem o prazo para a interposição de outros recursos (CPC – art. 538 c/c o art. 3º do CPP), o que significa dizer: despreza-se por completo o tempo transcorrido precedentemente.”
+    (REsp 134.757/DF, Rel. Min. FERNANDO GONÇALVES – grifei)
+    “PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO. ART. 538, ‘CAPUT’, DO CPC C/C O ART. 3º DO CPP.
+    I – O Código de Processo Penal não prevê a interrupção de prazo para outros recursos quando opostos embargos de declaração, como ocorre no Código de Processo Civil, em seu art. 538, ‘caput’. Contudo, por força do disposto no art. 3º da citada Lei Adjetiva Penal, o mesmo princípio pode ser aplicado nos embargos de declaração na área processual penal.
+    II – Os embargos de declaração sempre acarretam o efeito interruptivo, salvo quando intempestivos.
+    III - Embargos de divergência conhecidos e providos.”
+    (EREsp 287.390/RR, Rel. Min. ANTÔNIO DE PÁDUA RIBEIRO – grifei)
+    Essa orientação – não custa enfatizar – tem o prestigioso apoio de ilustres doutrinadores (FERNANDO DA COSTA TOURINHO FILHO, “Código de Processo Penal Comentado”, vol. 2/449-450, 14ª ed., 2012, Saraiva; EDILSON MOUGENOT BONFIM, “Código de Processo Penal Anotado”, p. 1.165, 4ª ed., 2012, Saraiva; ALBERTO SILVA FRANCO e RUI STOCO, “Código de Processo Penal e sua Interpretação Jurisprudencial – Parte Processual Penal”, vol. 4/1.895-1.897, 2ª ed., 2004, RT; DAMÁSIO DE JESUS, “Código de Processo Penal Anotado”, p. 554, 25ª ed., 2012, Saraiva; GUILHERME DE SOUZA NUCCI, “Código de Processo Penal Comentado”, p. 1.000, 9ª ed., 2009, RT, v.g.), valendo referir a observação de EUGÊNIO PACELLI e DOUGLAS FISCHER (“Comentários ao Código de Processo Penal e sua Jurisprudência”, p. 1.209, 4ª ed., 2012, Atlas), cuja autorizada lição, no tema, adverte:
+    “Os embargos de declaração no procedimento processual comum perante os tribunais de ‘apelação’ têm efeito ‘interruptivo’. Em verdade, o Código de Processo Penal é omisso quanto aos ‘efeitos’ dos embargos de declaração (se interruptivos ou suspensivos) no que tange ao modo de irresignação em primeiro e em segundo graus. Entende-se que, frente ao contido no art. 3º, CPP, possível a aplicação de forma subsidiária das normas vigentes no âmbito do CPC. Segundo expressa regra do art. 538, CPC, ‘os embargos de declaração interrompem o prazo para a interposição de outros recursos, por qualquer das partes’ (redação que lhe foi conferida pela Lei nº 8.950/94).” (grifei)
+    Todos os elementos que venho de expor levam-me a vislumbrar descaracterizada, ao menos em juízo de sumária cognição, a plausibilidade jurídica da pretensão cautelar deduzida na presente causa.
+    Sendo assim, em face das razões expostas e sem prejuízo de ulterior reexame da matéria quando do julgamento final desta ação de “habeas corpus”, indefiro o pedido de medida cautelar.
+    Publique-se.
+    Brasília, 22 de novembro de 2012.
+Ministro CELSO DE MELLO
+Relator
