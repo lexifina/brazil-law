@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento o Estado de Minas Gerais. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta violação direta dos arts. 37, caput, e 39, § 3º, da Lei Maior.
+    Contraminuta.
+    Substituição da Relatora (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; AI 547.179-AgR/MG, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 12.5.2006; RE 603.107-AgR/SC, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2012; e AI 729.394-AgR/RS, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 25.5.2011, cuja ementa transcrevo:
+    “Agravo regimental em agravo de instrumento. Servidor público municipal. Adicional de insalubridade. Ofensa a direito local. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local e de fatos e provas. Incidência das Súmulas nº 280 e 279 desta Corte. 2. Agravo regimental não provido”.
+    Além disso, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca do preenchimento dos requisitos para a concessão do adicional de insalubridade, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: AI 690.380-AgR/MG, Rel. Min. Eros Grau, 2ª Turma, DJe 18.4.2086; ARE 700.859-AgR/PI, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.10.2012; RE 543.198-AgR/RJ, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 12.11.2012; e AI 272.787-AgR/MG, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 1º.4.2005, cuja ementa transcrevo:
+    “1. Recurso extraordinário: descabimento: questão relativa à concessão de adicional de insalubridade decidida com base em legislação infraconstitucional e em laudo pericial, de reexame vedado no RE (Súmula 279): alegada ofensa reflexa à Constituição: incidência, mutatis mutandis, da Súmula 636. 2. Agravo regimental manifestamente infundado: aplicação da multa de 2% (dois por cento) sobre o valor corrigido da causa (C. Pr. Civil, art. 557, § 2º).”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
