@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “AÇÃO DE COBRANÇA. PROFESSOR ESTADUAL. HORAS EXTRAS. NULIDADE POR CERCEAMENTO DO DIREITO DE PROVA REJEITADA. APLICAÇÃO DO ESTATUTO DOS SERVIDORES PÚBLICOS CIVIS DO ESTADO. PAGAMENTO COMPROVADO. 1. O juiz é o destinatário da prova e, por força do art. 130 do CPC, possui o poder-dever de indeferir diligências inúteis e de julgar antecipadamente a lide ao constatar que os documentos acostados são suficientes para formar seu convencimento, o que não implica cerceamento do direito de prova. 2. Os professores estaduais encontram-se enquadrados na categoria de servidores estatutários, cuja relação jurídica funcional é regida por leis específicas e não é submetida à Consolidação das Leis do Trabalho. 3. Havendo omissão no Estatuto do Magistério quanto à carga horária, aplica-se, subsidiariamente, a Lei 6.107/94 (Estatuto dos Servidores Públicos Civis do Estado). 4. Existindo nos autos prova de que as horas extras foram devidamente pagas, não prospera o direito alegado pelos Recorrentes. 5. Recurso conhecido e improvido. Unanimidade” (fl. 139).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 7º, XVI, e 39, § 3º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis estaduais 6.110/1994 e 6.107/1994). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 687.589/MA e RE 609.189/MA, Rel. Min. Cármen Lúcia; RE 634.821/MA, Rel. Min. Joaquim Barbosa; RE 641.002/MA, Rel. Min. Luiz Fux; AI 845.683/MA, Rel. Min. Dias Toffoli; RE 638.744/MA, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
