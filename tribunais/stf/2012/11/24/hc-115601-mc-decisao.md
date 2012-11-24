@@ -1,0 +1,20 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+PRISÃO PREVENTIVA – INSUBSISTÊNCIA – LIMINAR IMPLEMENTADA DE OFÍCIO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi preso em flagrante, em 20 de setembro de 2012, pela suposta prática dos crimes previstos no artigo 171 (estelionato), combinado com os artigos 14, inciso II (na forma tentada), e 29 (concurso de pessoas), do Código Penal. O Juízo da 3ª Vara Criminal de Votuporanga/SP converteu a custódia em preventiva no dia 21 seguinte, para garantia da ordem pública e da instrução criminal.
+    Impetrou-se habeas corpus no Tribunal de Justiça do Estado de São Paulo. O desembargador relator não acolheu o pleito de liminar, assinalando a ausência dos requisitos exigidos para a concessão da medida em sede de cognição sumária.
+    No Superior Tribunal de Justiça, a ministra Alderita Ramos de Oliveira, desembargadora do Tribunal de Justiça do Estado do Pernambuco, convocada, indeferiu a ordem impetrada. Assentou não vislumbrar flagrante ilegalidade a autorizar a mitigação do Verbete nº 691 da Súmula do Supremo.
+    Neste habeas, os impetrantes salientam existir evidente constrangimento ilegal a justificar o afastamento do referido verbete. Afirmam que o paciente apenas se encontrava na companhia do coacusado Osmir Vilas Boas Simões no momento em que este, utilizando-se de documento falso, tentava alienar automóvel produto de estelionato a terceiro. Alegam a inidoneidade da fundamentação da decisão por meio da qual foi determinada a segregação preventiva, pois estaria embasada na gravidade abstrata das infrações e no desconhecimento da procedência do paciente. Sustentam a falta dos pressupostos da prisão preventiva, previstos no artigo 312 do Código de Processo Penal. Destacam haver o paciente declinado o respectivo endereço e declarado exercer ofício lícito à autoridade policial. Juntam documentos comprobatórios. Dizem ser provável a fixação de regime inicial aberto ou semiaberto, em caso de eventual condenação. Concluem constituir-se a custódia cautelar indevida antecipação de pena, em ofensa aos princípios da não culpabilidade e da dignidade da pessoa humana.
+    Requerem o deferimento de liminar para determinar a imediata soltura do paciente. No mérito, pleiteiam a confirmação da providência.
+    Consulta ao sítio do Superior Tribunal de Justiça revela que, em 23 de outubro de 2012, a Turma negou provimento ao agravo regimental interposto contra a decisão proferida no Habeas Corpus nº 257017/SP. Lê-se, na página virtual do Tribunal estadual, que as informações prestadas pelo Juízo foram juntadas em 30 de outubro de 2012 e, no dia seguinte, o parecer da Procuradoria de Justiça foi recebido.
+    O processo encontra-se instruído para apreciação da medida acauteladora.
+    2. Este habeas ganha contornos de substitutivo do recurso ordinário constitucional. É, assim, inadequado.
+    O quadro revelado no processo, entretanto, conduz à concessão de medida acauteladora de ofício. Ao converter em preventiva a prisão em flagrante, o Juízo apenas consignou tratar-se de crime de natureza grave – estelionato, falsificação e uso de documento falso – cometido contra duas pessoas, causando-lhes prejuízos. Aludiu ao fato de os acusados serem desconhecidos na região. Apontou, então, que, soltos, poderiam dificultar a instrução criminal.
+    Essa fundamentação mostra-se distanciada da ordem jurídica em vigor. Nenhuma das premissas leva à prisão automática.
+    3. Implemento a liminar de ofício. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja recolhido por motivo diverso do retratado no Processo nº 454/2012 do Juízo da 3ª Vara Criminal de Votuporanga/SP. Advirtam-no da necessidade de permanecer no distrito da culpa, atendendo aos chamamentos judiciais e adotando a postura que se aguarda do homem médio. Estendo esta liminar ao corréu Osmir Vilas Boas Simões.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 24 de novembro de 2012, às 19h.
+Ministro MARCO AURÉLIO
+Relator
