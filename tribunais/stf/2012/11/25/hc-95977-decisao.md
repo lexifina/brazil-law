@@ -1,0 +1,17 @@
+Petição/STF nº 53.520/2012
+DECISÃO
+HABEAS CORPUS – LIMINAR – PREJUÍZO.
+    1. O Gabinete prestou as seguintes informações:
+    Ademilson Alves de Brito pleiteia o afastamento da custódia preventiva ante o excesso de prazo ou a transferência para o regime de prisão domiciliar. Alega ter ficado preso cautelarmente por quatro anos e quatro meses, sendo que a apelação interposta permanece pendente de apreciação pelo Tribunal de Justiça de São Paulo – documento anexado. Ressalta que Vossa Excelência, no julgamento deste habeas perante a Primeira Turma, votou no sentido da concessão da ordem, mas a assentada foi suspensa em face do pedido de vista formulado pelo ministro Dias Toffoli.
+    Sustenta que, apesar de ser advogado, encontra-se recolhido em uma cela no Segundo Batalhão de Polícia de Choque da Polícia Militar do Estado de São Paulo, o qual não possui Sala de Estado Maior, conforme cópia do ofício mediante o qual foram prestadas informações na Reclamação nº 14.267, da relatoria do ministro Gilmar Mendes. Aduz que a jurisprudência do Supremo, em caso de ausência da mencionada Sala, tem admitido a transferência de advogados para o regime de prisão domiciliar, havendo ele próprio sido beneficiado com decisão desse teor no Habeas Corpus nº 90.707, relatado pelo ministro Sepúlveda Pertence.
+    Esclarece que estava em liberdade por força de medida cautelar implementada por Vossa Excelência no Habeas Corpus nº 101.979, mas o Colegiado indeferiu a ordem em 15 de maio de 2012, seguindo-se a expedição de novo mandado de prisão. Salienta que se apresentou espontaneamente ao Delegado da Divisão de Capturas, consoante documento juntado.
+    A liminar requerida neste habeas – de nº 95.977 – foi indeferida pelo ministro Menezes Direito, que negou seguimento ao agravo regimental interposto. O julgamento da impetração iniciou-se em 8 de novembro de 2011, tendo Vossa Excelência votado pela concessão da ordem. O ministro Luiz Fux a indeferiu e o ministro Dias Toffoli pediu vista.
+    Este habeas corpus e o de nº 101.979 referem-se a atos praticados na Ação Penal nº 045.01.2006.003304-3 pelo Juízo da Primeira Vara Criminal de Arujá/SP. O primeiro tem por base o excesso de prazo da prisão preventiva e o segundo, a vedação do direito de apelar em liberdade, constante da sentença.
+    O paciente foi recolhido temporariamente em 3 de junho de 2006, convertendo-se a prisão em preventiva. A liberdade veio após Vossa Excelência conceder a liminar no Habeas Corpus nº 101.979, em 13 de março de 2010. A Primeira Turma, em 15 de maio de 2012, ao apreciar este último, indeferiu a ordem. O paciente apresentou-se espontaneamente em 31 subsequente.
+    Em 6 de novembro último, o ministro Dias Toffoli levou o processo para julgamento. A Primeira Turma, nos termos do voto reajustado do ministro Luiz Fux, assentou o prejuízo da impetração em virtude da superveniência do exame de mérito da ação penal. Vossa Excelência ficou vencido.
+    2. Conforme consignado, a Turma assentou prejudicada a impetração em virtude da superveniência do exame do mérito da ação penal, oportunidade na qual fiquei vencido. Vale frisar que, nos debates ocorridos, ressaltei a problemática do excesso de prazo, o que não sensibilizou a ilustrada maioria.
+    3. Ante o quadro, declaro o prejuízo do pedido formulado.
+    4. Publiquem.
+Brasília – residência –, 25 de novembro de 2012, às 13h45.
+Ministro MARCO AURÉLIO
+Relator
