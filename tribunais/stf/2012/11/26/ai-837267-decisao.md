@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Sociedade Rádio Clube de São José dos Campos Ltda. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5°, incisos XVII, XIX, XX, XXVVII e XXVIII, alínea “b”, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Nona Câmara “B” de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Ação de Consignação em Pagamento - Direitos Autorais - ECAD - legitimidade da cobrança efetuada, nos termos de expressa disposição legal - precedentes da Jurisprudência - fixação unilateral de valores à guisa de remuneração pela veiculação de obras reconhecida pela orientação pretoriana – ônus da prova quanto à fixação conjunta desse montantes que se atribui à Apelante – recurso de Apelação conhecido e, quanto ao mérito, improvido”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    No que se refere aos incisos XVII, XIX, XX e XXVIII, alínea “b”, do artigo 5° da Constituição Federal, apontados como violados, carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, colhe-se do voto condutor do acórdão recorrido a seguinte fundamentação:
+    “A Ação de Consignação em Pagamento tem por propósito evitar que a parte devedora de dada obrigação seja afetada pela "mora creditoris". O caso destes autos, por outro lado, consiste em apurar a legitimidade do Apelado como parte para a arrecadação de direitos autorais, fazendo-o na qualidade de substituto processual dos detentores desses direitos, na forma do art. 6° do Código de Processo Civil. A jurisprudência da Corte Unificadora do Direito Infraconstitucional e expressa nesse sentido:
+    (…).
+    A fixação dos valores à guisa de remuneração pelos direitos emergentes da obra intelectual é unilateral, fato que vem sendo reiteradamente reconhecido pela jurisprudência. Observe-se a respeito:
+    TJMG-121631) ECAD DIREITOS AUTORAIS - FIXACÃO UNILATERAL DOS VALORES DEVIDOS LEGALIDADE - COMPETÊNCIA DO ECAD.
+    Recurso provido para julgar procedente o pedido.
+    (Apelação Cível n° 1.0408.02.001765-8/001(3), 3ª Câmara Cível do TJMG, Rel. SCHALCHER VENTURA. j. 06.12.2007, unânime, Publ. 10.01.2008 - sem grifos no original)’”.
+    Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem, seria necessária a interpretação da legislação infraconstitucional invocada (Lei nº 9.610/98 e Regulamento de Arrecadação do ECAD) e o reexame das provas documentais dos autos, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DILIGÊNCIA PROBATÓRIA DESNECESSÁRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO CONFIGURADO. REEXAME DE PROVA. IMPOSSIBILIDADE. SUM. 279/STF. ACÓRDÃO FUNDAMENTADO. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO IMPROVIDO. I – O Supremo Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. Precedentes. II – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como o prévio exame de normas infraconstitucionais pertinentes ao caso (Lei 9.610/98), o que atrai a incidência da Súmula 279 do STF. Precedente. III - A exigência do art. 93, IX, da Constituição, não impõe que seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara e concisa as razões de seu convencimento. IV - Agravo regimental improvido” (AI nº 786.434/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1º/2/11).
+    Nesse sentido, as seguintes decisões monocráticas: AI n° 854.172/RS, Relator o Ministro Cezar Peluso, DJe de 20/8/12; e AI nº 785.259/RJ, Relator o Ministro Ricardo Lewandowski, DJe de 19/9/10.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 26 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
