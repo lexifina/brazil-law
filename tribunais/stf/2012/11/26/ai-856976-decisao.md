@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – AUSÊNCIA DE ENQUADRAMENTO NO PERMISSIVO CONSTITUCIONAL – PRECATÓRIO – JUROS DA MORA – COISA JULGADA.
+    1. Eis como o Tribunal Regional Federal da 4ª Região sintetizou o entendimento sufragado (folhas 106 e 106-verso):
+    PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA. PRECATÓRIO SUPLEMENTAR. JUROS MORATÓRIOS. INCIDÊNCIA ATÉ O EFETIVO PAGAMENTO. COISA JULGADA. RELATIVIZAÇÃO. DESCABIMENTO
+    Os juros moratórios incidentes no período decorrido entre a apresentação da conta e inscrição do crédito, que, como tal, representam indenização pela falta de cumprimento tempestivo da obrigação principal (a mesma objeto do título judicial) ao contrário da hipótese tratada no § 4o do art. 100 da CF/88 e §3° do art. 17 da Lei n.º 10.259/01, não foram pagos, tampouco fracionados, repartidos ou quebrados, e, por isso, são devidos.
+    Uma vez contemplada pelo título executivo judicial a incidência de juros moratórios até o efetivo pagamento do quantum debeatur, afigura-se infactível a sonegação do pagamento da verba à parte exequente em sede de precatório complementar, sob pena de ofensa ao instituto da coisa julgada.
+    O título executivo de que se trata não está fundado em lei, aplicação ou interpretação de lei tida pelo Supremo Tribunal Federal como incompatível com a Constituição Federal. Razão pela qual não configurada a hipótese prevista pelo art. 475-L, inc. II, §1°, e art. 741, inc. II, parágrafo único, ambos do CPC.
+    Entre a apresentação da conta e a inscrição do crédito, os juros de mora incidentes sobre o principal devem ser corrigidos monetariamente com base no INPC e, a partir de então, pelo 1PCA-E (Resolução n.° 45/2005 do CJF).
+    Não há falar em negativa de vigência aos arts. 462, 468, 475-L, inc. II, §1°, 741, incs. II, parágrafo único, e VI, e parágrafo único, todos do CPC; aos arts. 394, 395 e 396 do Código Civil; art. Io 4.414/64; da Lei n.°, nem tampouco ao art. 100, caput, §1° e §4°, da CF/88, ou aos princípios do livre acesso ao Poder Judiciário, do devido processo legal, à violação à coisa julgada (art. 467 e ss. do CPC) e ao do contraditório e ampla defesa (consubstanciados, respectivamente nos incisos XXXV, LIV e LV, do art. 5o, da CF/88), os quais tenho por efetivamente prequestionados nos termos da presente decisão, inclusive para fins de eventual interposição de recursos às Instâncias Superiores, registrando-se, ainda, o descabimento da pretensão de prequestionamento de questões que, durante a instrução processual, não foram suscitadas.
+    A situação concreta distancia-se daquela retratada no precedente do Plenário, alusivo ao Recurso Extraordinário nº 298.616-0/SP, relatado pelo ministro Gilmar Mendes, a revelar a óptica, em relação à qual guardo reservas, de que, no espaço de tempo entre a expedição do precatório e o término do exercício subsequente - a significar 18 meses e, portanto, a percentagem de 9% considerados os juros moratórios -, não se configura a mora do devedor.
+    Neste processo, há a circunstância ressaltada pelo Regional – o fato de a declaração de serem devidos os juros da mora estar coberta pela preclusão maior, pela coisa julgada. Como, então, concluir pela violência à Constituição Federal?
+    2. Conheço deste agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 26 de novembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
