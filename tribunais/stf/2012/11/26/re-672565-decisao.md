@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Município de Ipatinga interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em síntese, deu provimento ao recurso para julgar improcedentes os embargos à execução, mantendo o salário-mínimo como base de cálculo do adicional de insalubridade.
+    Alega o recorrente violação dos artigos 2°, 5°, inciso II, e 37, caput, da Constituição Federal uma vez que “o adicional de insalubridade somente poderia incidir sobre base de cálculo diversa do salário mínimo se assim houvesse expressa previsão legal na legislação municipal que dispõe quanto à matéria, não podendo o Poder Judiciário extrapolar sua competência, visto que não possui função legislativa, para fixar nova base de cálculo”.
+    Decido.
+    Não merece prosperar a irresignação.
+    O acórdão recorrido não está baseado na inconstitucionalidade da utilização do salário mínimo como base de cálculo do adicional de insalubridade, ao contrário apenas se limita a sustentar que os pedidos formulados nos embargos à execução não possuem os requisitos previstos nos arts. 475-L, parágrafo 1º, e 741, parágrafo único, do Código de Processo Civil.
+    Desse modo, para verificar se estão presentes os requisitos da norma processual civil para desconstituir o título executivo judicial seria necessário a interpretação da legislação infraconstitucional pertinente, o que é incabível em sede de recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECURSO QUE NÃO SE INSURGE CONTRA A FUNDAMENTAÇÃO DO ATO JUDICIAL. ARTIGO 317, § 1º, DO RISTF. ARTIGO 741, PARÁGRAFO ÚNICO, DO CPC. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA” (RE n° 600.704/PE-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 14/4/11).
+    “DIREITO CONSTITUCIONAL E PROCESSUAL. OFENSA AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO FEDERAL: ART. 741, PARÁGRAFO ÚNICO, DO CPC. TÍTULO EXECUTIVO JUDICIAL. 1. A controvérsia presente nos autos configura ofensa indireta ou reflexa à Constituição Federal, o que não dá ensejo a esta via processual. Precedentes. 2. Agravo regimental improvido” (RE n° 471.656/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 5/6/09).
+    Ademais, é bem verdade que esta Corte ao apreciar o Recurso Extraordinário nº 565.714/SP, relatora a Ministra Cármen Lúcia, cuja repercussão geral já havia sido reconhecida, firmou o entendimento de não ser legítimo o cálculo do adicional de insalubridade com base no salário mínimo, por constituir fator de indexação, implicando a prática ofensa ao artigo 7º, inciso IV, da Constituição Federal. Na mesma assentada, foi aprovado o Enunciado Vinculante nº 4, deste Tribunal, com a seguinte redação:
+    “Salvo os casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    No entanto, no caso dos autos não houve violação a súmula vinculante uma vez que o Poder Judiciário pelo princípio da inafastabilidade da jurisdição, apenas preencheu a lacuna da lei ao fixar a base de cálculo do adicional de insalubridade no valor da remuneração da parte autora, já que a lei municipal n° 494/74 em seu artigo 134, inciso VII, previu o direito ao adicional de insalubridade, mas não dispôs qual seria a base de cálculo, o que tornaria o direito ao adicional inexequível.
+    Desse modo, não há que se falar em violação a súmula vinculante n° 4, pois o julgador ordinário não substituiu a base de cálculo do adicional de insalubridade por outra que entendeu mais correta, nem permitiu a fixação do adicional com base no salário-mínimo.
+    Nesse sentido, as seguintes decisões monocráticas: RE n° 677.096/MG, Relatora a Ministra Cármen Lúcia, DJe de 30/3/12; e RE n° 673.605/MG, Relator o Ministro Gilmar Mendes, DJe de 14/8/12.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
