@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. INTERPOSIÇÃO DE DOIS RECURSOS CONTRA A MESMA DECISÃO. INADMISSILIBIDADE: PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+Relatório
+    1. Em 8 de novembro de 2012, neguei seguimento ao agravo nos autos do recurso extraordinário interposto por Oscar Pereira Leite Junior contra julgado do Tribunal de Justiça de Rondônia, o qual decidira que “a independência entre as instâncias penal, civil e administrativa, consagrada na doutrina e na jurisprudência, permite a imposição das sanções cabíveis em cada uma das esferas, não ensejando bis in idem”.
+    A decisão agravada teve a seguinte fundamentação:
+    “5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. O Tribunal de Justiça de Rondônia assentou que:
+    (…).
+    Para se concluir de forma diversa do que decidido pelas instâncias originárias seria necessária a análise do conjunto probatório constante dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula n. 279 do Supremo Tribunal Federal.
+    O reexame do acórdão impugnado demandaria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    (...) (RE 589.784-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 17.8.2012).
+    8. Também não se viabiliza o recurso extraordinário pela alínea d do inc. III do art. 102 da Constituição da República, pois esse dispositivo foi apenas mencionado pelo Agravante, sem que se apresentassem os respectivos fundamentos. Nesse sentido:
+    (...) ( AI 774.514-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.10.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal)”.
+    2. Publicada essa decisão no DJe de 16.11.2012, interpõe Oscar Pereira Leite Junior, em 20.11.2012, tempestivamente, agravo regimental.
+    3. Alega o Agravante que “não há falar-se que, na espécie, não houve violação frontal e direta aos preceitos constitucionais retro mencionados. (...) Deixa-se de ver que a violação ao Texto Constitucional arguida nasce justamente no julgamento de 2º grau; notadamente por furtar-se de decidir a causa com atenção e cumprimento aos primados da motivação efetiva das decisões judiciais, do direito de petição assegurado a ambas as partes, e daqueles inerentes ao devido processo legal e ampla defesa”.
+    Requer a reconsideração da decisão agravada ou o provimento do presente recurso.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. O Agravante apresentou dois recursos contra a decisão agravada: embargos de declaração opostos em 20.11.2012, às 11h30; e o presente agravo regimental, interposto em 20.11.2012, às 11h36.
+    6. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido da impossibilidade de interposição de dois recursos contra a mesma decisão, em razão do princípio da unirrecorribilidade.
+    Na espécie vertente, houve a interposição cumulativa de dois recursos contra a mesma decisão monocrática, tendo o mesmo objeto, sendo eles separados por minutos, fato a ensejar o conhecimento apenas do primeiro recurso, com a consequente preclusão consumativa em relação ao segundo.
+    Nesse sentido:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO (LEI Nº 12.322/2010) CUMULATIVA INTERPOSIÇÃO DE DOIS (02) RECURSOS CONTRA A MESMA DECISÃO, FORA DAS HIPÓTESES LEGAIS INADMISSIBILIDADE OFENSA AO POSTULADO DA SINGULARIDADE DOS RECURSOS NÃO CONHECIMENTO DO SEGUNDO RECURSO EXAME DO PRIMEIRO RECURSO AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS EM QUE SE ASSENTOU O ATO DECISÓRIO QUESTIONADO RECURSO IMPROVIDO. O PRINCÍPIO DA UNIRRECORRIBILIDADE OU DA SINGULARIDADE DOS RECURSOS. - O princípio da unirrecorribilidade, ressalvadas as hipóteses legais, impede a cumulativa interposição, contra o mesmo ato decisório, de mais de um recurso. O desrespeito ao postulado da singularidade dos recursos torna insuscetíveis de conhecimento os demais recursos, quando interpostos contra a mesma decisão. Doutrina. O RECURSO DE AGRAVO DEVE IMPUGNAR, ESPECIFICADAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. - O recurso de agravo a que se referem os arts. 545 e 557, § 1º, ambos do CPC, deve infirmar todos os fundamentos jurídicos em que se assenta a decisão agravada. O descumprimento dessa obrigação processual, por parte do recorrente, torna inviável o recurso de agravo por ele interposto. Precedentes” (ARE 711.664-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 13.11.2012).
+    “Agravo regimental no agravo regimental do agravo de instrumento. Matéria criminal. Múltiplos recursos contra a mesma decisão. Impossibilidade. Princípio da unirrecorribilidade, ou singularidade, dos recursos. Precedentes. Embargos de declaração opostos por meio eletrônico. Original protocolado fora do prazo legal. Recurso intempestivo. Precedentes. Regimental não provido. 1. Diante do princípio da unirrecorribilidade, ou singularidade, é incabível que contra a mesma decisão se interponha mais de um recurso, ressalvadas as hipóteses legais. 2. Consideram-se intempestivos os embargos de declaração opostos por via eletrônica dentro do prazo legal cuja versão impressa seja protocolada nesta Corte somente depois de expirado o prazo legal do art. 2º da Lei nº 9.800/99. 3. Agravo regimental não provido” (AI 02.285-AgR-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.6.2012).
+    7. Pelo exposto, não conheço do agravo regimental (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
