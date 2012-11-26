@@ -1,0 +1,25 @@
+Decisão:
+    Vistos.
+    Cuida-se de mandado de segurança, com pedido de liminar, impetrado pelo Espólio de Alberto Peluzzo em face do Relator do AI nº 0080434-93.2011.8.26.0000 do Tribunal de Justiça do Estado de São Paulo, o qual, “(...) de forma inconstitucional e arbitrária, negou vigência a Segurança Jurídica para modificar a coisa julgada material, consagrada pelo artigo 5º, XXXVI, da Constituição Federal”.
+    Na peça vestibular, o impetrante alega que:
+    “(...) a violação à coisa julgada perpetrada pela autoridade coatora ao modificar a coisa julgada em agravo de instrumento em sede de execução, além de constituir em lesão a Constituição Federal no seu artigo 5º, inciso XXXVI, acaba por violar de forma atroz direito líquido e certo do impetrante de ter seu crédito satisfeito em uníssono o acórdão que julgou o direito material e transitou em julgado (doc. 67/91), doc que a autoridade coatora tratou arbitrariamente como se não existisse no processo.”
+    Requer que seja deferido o pedido liminar para cassar o ato impugnado, presente o periculum in mora ante a demora na satisfação dos créditos reconhecidos judicialmente por decisão com trânsito em julgado. Ao final, postula que seja concedida a segurança, tornando definitivo o provimento liminar.
+    É breve o relatório.
+    Assevero que a competência originária desta Suprema Corte submete-se a regime de direito estrito, estando fixada, em numerus clausus, no rol do artigo 102, inciso I, da Constituição Federal.
+     Nesse sentido, Pet nº 1.738/MG-AgR, Relator o Ministro Celso de Mello, Tribunal Pleno, DJ de 1º/9/99, assim ementado na parte que interessa:
+    “A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO.
+     - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida - não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em numerus clausus, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes.
+     O regime de direito estrito, a que se submete a definição dessa competência institucional, tem levado o Supremo Tribunal Federal, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional (ações populares, ações civis públicas, ações cautelares, ações ordinárias, ações declaratórias e medidas cautelares), mesmo que instauradas contra o Presidente da República ou contra qualquer das autoridades, que, em matéria penal (CF, art. 102, I, b e c), dispõem de prerrogativa de foro perante a Corte Suprema ou que, em sede de mandado de segurança, estão sujeitas à jurisdição imediata do Tribunal (CF, art. 102, I, d).” (grifos no original)
+    No tocante a mandado de segurança, a competência originária do STF é fixada em razão da autoridade impetrada. Assim, a viabilidade do presente mandamus exige a comprovação da prática de ato, omissivo ou comissivo, por parte de qualquer das autoridades elencadas na alínea “d” do inciso I do art. 102 da Constituição Federal, quais sejam: “Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    Com a inclusão da alínea “r” no inciso I do art. 102 da Constituição Federal pela Emenda Constitucional nº 45/2004, conferiu-se ao STF a competência originária para processar e julgar “as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público”, incluídas nessas ações, os mandados de segurança voltados contra os atos praticados por estes Conselhos.
+    No caso dos autos, a autoridade apontada para figurar no polo passivo do mandamus é magistrado integrante do Tribunal de Justiça do Estado de São Paulo, cujos atos estão submetidos a exame originário pelo próprio e. TJSP. em sede de mandado de segurança. É o que dispõe o art. 21 da lei Orgânica da Magistratura, in verbis:
+    “Art. 21 - Compete aos Tribunais, privativamente:
+    (...)
+    VI - julgar, originariamente, os mandados de segurança contra seus atos, os dos respectivos Presidentes e os de suas Câmaras, Turmas ou Seções.”
+    O mandamus, nesses casos, segundo a jurisprudência do STF (MS nº 25.615/DF-AgR, Relatora a Ministra Cármen Lúcia , Tribunal Pleno, DJE de 27/3/09 e MS nº 26.231DF-QO, Tribunal Pleno, Relator o Ministro Carlos Britto , DJE de 16/5/08), deve ser remetido para o órgão competente, a fim de que esse disponha como de direito.
+    Ante o exposto, declino da competência e determino o encaminhamento dos autos ao e. Tribunal de Justiça do Estado de São Paulo, para que proceda como entender de direito.
+    Publique-se. Int..
+    Brasília, 26 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
