@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu que a declaração de inconstitucionalidade do art. 453, §§ 1º e 2º, da CLT pelo STF não favorece o recorrente, visto que a prescrição de sua pretensão consumou-se antes da vigência do referido dispositivo declarado inconstitucional.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 7º, XXIX da mesma Carta, ao argumento de que
+    “Em que pese a presente reclamação ter sido ajuizada após transcorridos mais de dois anos da extinção do contrato, não se pode falar em prescrição do direito, vez que o marco prescricional começou a correr apenas do reconhecimento da lesão do direito e sua ciência pela bancária, o que aconteceu com a decisão do E. Pretório nas ADINs 1721 e 1770”.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido assim dirimiu a controvérsia:
+    “veja-se que a ruptura do contrato de trabalho do autor ocorreu em '30.07.94', ou seja, mais de três anos antes da vigência dos §§ 1º e 2º do art. 453 da CLT, acrescentados pelo art. 3º da MP 1.596-14 de 10.11.1997, convertida na Lei 9.528/97 (DOU de 11.12/1997).
+    Em se tratando de prescrição, consabido que, pela própria natureza do instituto, inviável dela cogitar antes do surgimento da actio nata, coincidente com o momento da suposta lesão que marca o surgimento da pretensão de direito material, a definir seu termo a quo. Nesse sentido o art. 189 do Código Civil, que dispõe que 'violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição'.
+    Na hipótese, a lesão surgiu no momento do desligamento do reclamante da empresa, em 30.07.1994, começando a contagem do prazo prescricional a partir desta data, com término em 30.07.1996, e a presente ação foi ajuizada em 08.02.2008.
+    Assim, quando do julgamento das ADI's 1770-4 e 1721-3, em 11.10.2006, a pretensão deduzida já tinha sua eficácia encoberta pelo manto prescricional, não alcançando a decisão do Supremo Tribunal Federal, relações jurídicas já consumadas antes da vigência da própria lei declarada inconstitucional”.
+    Assim, para divergir do Tribunal de origem, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e das normas infraconstitucionais pertinentes ao caso, sendo certo que eventual ofensa à Constituição seria meramente indireta.
+    Por oportuno, cito precedentes em que foram examinadas hipóteses similares à dos autos:
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA TRABALHISTA. ACÓRDÃO QUE DECIDIU CONTROVÉRSIA SOBRE O TERMO INICIAL DO PRAZO PRESCRICIONAL PARA O EMPREGADO PLEITEAR JUDICIALMENTE A MULTA DE 40% DO FGTS, DECORRENTE DA EXTINÇÃO DO CONTRATO DE TRABALHO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. 1. No caso, eventual ofensa à Carta Magna, se existente, ocorreria de modo reflexo ou indireto, o que impede a abertura da via recursal extraordinária. 2. Agravo regimental desprovido” (ARE 665.742-AgR/RS, Rel. Min. Ayres Britto).
+    “EMENTA: AGRAVO REGIMENTAL. PRAZO PRESCRICIONAL. TERMO INICIAL. CONTROVÉRSIA INFRACONSTITUCIONAL. Para se verificar a ocorrência da alegada violação do art. 7º, XXIX, da Constituição federal, seria necessário o reexame da legislação infraconstitucional pertinente. Assim, eventual ofensa à Constituição seria indireta ou reflexa, o que enseja o descabimento do recurso extraordinário. Agravo regimental a que se nega provimento” (AI 761.517-AgR/DF, Rel. Min. Joaquim Barbosa).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
