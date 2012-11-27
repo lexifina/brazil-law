@@ -1,0 +1,28 @@
+DECISÃO:
+(Petições ns. 44.730/2010 e 58.529/2012)
+MANDADO DE SEGURANÇA. CONSELHO NACIONAL DE JUSTIÇA. PEDIDOS DE INGRESSO NA AÇÃO E DE DESISTÊNCIA. DEFERIMENTO. PROVIDÊNCIAS PROCESSUAIS.
+Relatório
+    1. Mandado de segurança, com pedido de medida liminar, impetrado em 9.7.2010 pela Associação Nacional dos Magistrados Estaduais – Anamages, contra ato praticado pelo relator no Conselho Nacional de Justiça do Procedimento de Controle Administrativo-PCA n. 1560-60.2007.2.00.0000, no qual se discute as alterações impostas pelas Resoluções n. 256 e 257/2005 do Tribunal de Justiça de São Paulo na carreira da magistratura paulista, em decorrência da reclassificação das entrâncias feita pela Lei Complementar Estadual n. 980/2005.
+    2. Narra a associação-impetrante, em resumo, que a autoridade indigitada coatora, na 103ª sessão ordinária do Conselho Nacional de Justiça, realizada no dia 20.4.2010, proferiu voto pela procedência dos pedidos formulados no Procedimento de Controle Administrativo, determinando “a inclusão de todos os magistrados de terceira entrância na lista de entrância final e consequentemente seja garantida a percepção do valor do subsídio dessa categoria” (fl. 6).
+    3. Segundo a Impetrante, o voto escrito foi divulgado no dia 23.4.2010 com conteúdo diferente da decisão proferida na sessão do Conselho Nacional de Justiça, pois nele “consta que os magistrados de terceira entrância, tão somente, farão jus ao pagamento de remuneração de entrância final, a contar da publicação do julgamento, rejeitando-se a pretensão dos interessados de figurarem na lista de entrância final, com acolhimento parcial do pleito” (fl. 6).
+    4. Em decorrência da divergência entre o voto lido pela procedência dos pedidos e o voto escrito divulgado pela procedência parcial, os interessados apresentaram recursos administrativos, não conhecidos pelo Conselheiro Relator com fundamento na irrecorribilidade das decisões plenárias do Conselho Nacional de Justiça, além de ter ele afirmado que o voto escrito foi ratificado pelo Conselho na sessão ordinária seguinte à do julgamento do Procedimento de Controle Administrativo n. 1560-60.2007.2.00.0000.
+    5. A Impetrante sustenta que a alteração substancial do voto depois de sua leitura na sessão de julgamento é vedada pelos arts. 463, 471 e 556 do Código de Processo Civil e pelo art. 4º, § 1º, do Regimento Interno do Conselho Nacional de Justiça.
+    Alega que o voto divulgado seria nulo, devendo prevalecer o voto lido na sessão do dia 20.4.2010.
+    6. Autuada, a impetração foi distribuída ao Ministro Eros Grau em 20.7.2010 (fl. 229).
+    7. Em 16.8.2010, a Anamages requereu a emenda da petição inicial, para que passassem a integrar o processo na qualidade de Impetrantes os seguintes magistrados: Adugar Quirino do Nascimento Souza Júnior, José Carlos Hernandes Holgado, Cristiano Canezin Barbosa, Paulo André Bueno de Camargo e Jacira Jacinto da Silva (Petição n. 44.730/2010).
+    8. Em 27.9.2010, o Presidente deste Supremo Tribunal Federal, Ministro Cezar Peluso, proferiu despacho nos seguintes termos:
+    “Considerando a necessidade de deliberação sobre medida urgente, a aposentadoria do Min. Relator, EROS GRAU e o fato de o Min. RICARDO LEWANDOWSKI ocupar a presidência do Tribunal Superior Eleitoral, determino a substituição da relatoria da presente reclamação à Min. CÁRMEN LÚCIA, nos termos do inciso I do art. 38 cc. o § 5º do art. 67, ambos do STF” (fl. 249).
+    9. Em 11.02.2011, indeferi a liminar pleiteada, tendo em vista a ausência dos requisitos legais na espécie (fls. 251-256).
+    Contra essa decisão, foi interposto agravo regimental (Petição n. 10.056/2011).
+    12. Apresentadas contrarrazões pela Advocacia-Geral da União (fls. 297-306) e prestadas informações pelo Presidente do Conselho Nacional de Justiça (fls. 287-292), em 16.6.2011 o processo foi remetido à Procuradoria-Geral da República para elaboração de parecer (307).
+    13. Em 9.11.2012, Jacira Jacinto da Silva apresentou pedido de desistência da ação (Petição n. 58.529/2012), voltando o processo da Procuradoria-Geral da República sem parecer para a apreciação desse pedido (fl. 309).
+    Examinados os elementos havidos nos autos, DECIDO.
+    14. A despeito da substituição processual ocorrida no mandado de segurança coletivo, tornando, por isso, despiciendo o ingresso dos magistrados no pólo ativo da presente ação, a inclusão de seus nomes como requerentes e interessados no processo administrativo ora impugnado (Procedimento de Controle Administrativo n. 0001560-60.2007.2.00.0000) justifica o pedido, apresentado no prazo do § 2º do ar.t 10 da Lei n. 12.016/2009, motivo pelo qual o defiro.
+    15. Quanto à Petição n. 58.529/2012, a pacífica jurisprudência deste Supremo Tribunal reconhece ser lícito ao impetrante desistir, a qualquer tempo, da ação de mandado de segurança, independentemente de aquiescência da autoridade apontada como coatora ou da entidade estatal interessada (v.g., Recurso Extraordinário n. 423.403/SP, Rel. Min. Celso de Mello, decisão monocrática, DJ 18.10.2007).
+    16. Pelo exposto, homologo a desistência requerida pela impetrante Jacira Jacinto da Silva, declarando extinta a ação, sem resolução de mérito, apenas quanto a ela (art. 267, inc. VIII, do Código de Processo Civil).
+    Retornem os autos à Procuradoria-Geral da República para a elaboração de parecer, realçando que, conquanto se tenha conhecimento da carga de trabalho que a assoberba, não se há descuidar do prazo fixado no art. 12, parágrafo único, da Lei n. 12.016/2009.
+    À Secretaria Judiciária para a reautuação.
+    Publique-se.
+    Brasília, 27 de novembro de 2012.
+Ministra Cármen Lúcia
+Relatora
