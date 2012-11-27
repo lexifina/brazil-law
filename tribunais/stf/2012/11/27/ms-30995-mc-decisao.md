@@ -1,0 +1,21 @@
+Decisão: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado por Maria José dos Santos, representada por Maria Lúcia dos Santos, contra ato do Diretor do Departamento de Pessoal da Câmara dos Deputados, consubstanciado no indeferimento do pedido de isenção de imposto de renda da aposentadoria da Impetrante.
+    A Impetrante é pensionista da Câmara dos Deputados, tendo requerido, em agosto de 2009, a isenção do imposto de renda de seus proventos, sob o argumento de ser portadora de doença grave.
+    Alega que “houve falta de critério na avalização do seu estado de saúde. A Impetrante foi considerada inválida pelos outros laudos então acostados. Além do mais, há a suspeita de julgamento premeditado por parte da Autoridade. Primeiro por que faltou definição de critérios, foram usados formulários idênticos, não houve fundamentação convincente nos dois despachos assinados pelo Diretor do Departamento de Pessoal da Câmara dos Deputados”.
+    O ato coator, indeferimento do pedido de isenção do imposto de renda, emanou do Diretor do Departamento de Pessoal da Câmara dos Deputados, o que afasta a incidência, no caso, da norma de competência originária inscrita no art. 102, I, “d”, da Constituição da República, verbis:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o "habeas-data" contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal.
+    Confira-se, à guisa de exemplo, o seguinte precedente deste Sodalício, verbis:
+    A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO DA REPÚBLICA - SUBMETE-SE A REGIME DE DIREITO ESTRITO.
+    - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida - não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em numerus clausus, pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes.
+    O regime de direito estrito, a que se submete a definição dessa competência institucional, tem levado o Supremo Tribunal Federal, por efeito da taxatividade do rol constante da Carta Política, a afastar, do âmbito de suas atribuições jurisdicionais originárias, o processo e o julgamento de causas de natureza civil que não se acham inscritas no texto constitucional (ações populares, ações civis públicas, ações cautelares, ações ordinárias, ações declaratórias e medidas cautelares), mesmo que instauradas contra o Presidente da República ou contra qualquer das autoridades, que, em matéria penal (CF, art. 102, I, b e c), dispõem de prerrogativa de foro perante a Corte Suprema ou que, em sede de mandado de segurança, estão sujeitas à jurisdição imediata do Tribunal (CF, art. 102, I, d) ( Pet nº 1.738-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, DJ de 1º/9/99).
+    Não havendo ato proferido pela Mesa da Câmara dos Deputados não se configura a competência deste Supremo Tribunal Federal para conhecer de mandado de segurança.
+    Ademais, destaco a inviabilidade da discussão sobre a controvérsia referente à gravidade da doença da impetrante para o seu enquadramento na legislação alegadamente violada.
+    Essa questão exige produção de provas, incompatível com o rito do mandado de segurança. Nesse sentido:
+    “A noção de direito líquido e certo ajusta-se, em seu específico sentido jurídico-processual, ao conceito de situação decorrente de fato incontestável e inequívoco, suscetível de imediata demonstração mediante prova literal pré-constituída. Precedentes” (MS 26.552-AgR-AgR, Rel. Min. Celso de Mello, Plenário, DJe 16.10.2009).
+    Ex positis, não conheço do mandado de segurança (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se. Int..
+    Brasília, 27 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
