@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que entendeu pela incidência dos juros de mora previstos no art. 1º-F da Lei 9.494/1997, nas ações em que a União figura como sucessora da Rede Ferroviária Federal S.A., apenas em momento posterior àquela sucessão, o que somente teria ocorrido com a vigência da Medida Provisória 353/2007.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, cumpre ressaltar que a matéria discutida nos presentes autos não guarda identidade com a tratada no AI 842.063-RG/RS, Rel. Min. Cezar Peluso, cuja repercussão geral foi reconhecida. Naquele recurso entendeu-se que o art. 1º-F da Lei 9.494/1997, alterado pela Medida Provisória 2.180-35/2001, possui aplicabilidade imediata, inclusive em relação às ações ajuizadas anteriormente a sua vigência, situação diversa da presente demanda, em que a discussão gira em torno da incidência do referido dispositivo legal em relação ao período anterior à sucessão da Rede Ferroviária Federal S.A. - RFFSA pela União.
+    Nesse contexto, destaco que a jurisprudência desta Corte firmou-se no sentido de que a questão em análise é de índole eminentemente infraconstitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, transcrevo a ementa do RE 672.648-AgR/SP, Rel. Min. Cármen Lúcia:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. SUCESSÃO DA EXTINTA REDE FERROVIÁRIA FEDERAL S/A PELA UNIÃO. MOMENTO DE APLICAÇÃO DO ART. 1º-F DA LEI N. 9.494/1997. Alegada contrariedade ao princípio da legalidade. Controvérsia decidida com base em norma infraconstitucional. Súmula n. 636 do Supremo Tribunal Federal. Agravo regimental ao qual se nega provimento”.
+    Seguindo essa mesma orientação, cito as seguintes decisões: ARE 695.672/DF, Rel. Min. Luiz Fux; ARE 683.480/DF, Rel. Min. Dias Toffoli; ARE 648.004/RS, Rel. Min. Ayres Britto; ARE 711.618/DF, Rel. Min. Gilmar Mendes; ARE 698.197/DF, Rel. Min. Cármen Lúcia.
+    Ademais, este Tribunal entende não ser cabível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). Nesse sentido, cito as seguintes decisões, entre outras: AI 696.428-AgR/SP, Rel. Min. Ayres Britto; AI 750.679-AgR/RJ, Rel. Min. Dias Toffoli; RE 602.740-AgR/DF, Rel. Min. Eros Grau; RE 478.700-AgR/DF, Rel. Min. Ellen Gracie.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
