@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. COBRANÇA DE TARIFA DE ESGOTO. ALEGADA OFENSA AO ART. 5º, INC. LIV E LV DA CONSTITUIÇÃO DA REPÚBLICA. NECESSIDADE DE APRECIAÇÃO PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Estado do Rio de Janeiro:
+    “AGRAVO INOMINADO EM APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO E DO CONSUMIDOR. ILEGALIDADE DA COBRANÇA DE TARIFA DE ESGOTO. SERVIÇO NÃO DISPONIBILIZADO AO CONSUMIDOR. DESPROVIMENTO DO RECURSO. Ação de obrigação de não fazer, cujo pedido é cumulado com o de repetição de indébito. Agravo retido rejeitado. Validade da prova pericial emprestada colhida em processo da mesma natureza, sob o crivo do contraditório. Cobrança de tarifa de esgoto. Autarquia com sede no Município de Três Rios. Ilegalidade da cobrança quando não disponibilizado o serviço ao consumidor. Repetição, em dobro, do indébito, vez que inexistente o engano justificável. Desnecessária a configuração de má-fé. Precedentes do Superior Tribunal de Justiça e desta Corte estadual. Agravo, que nada acrescenta possa modificar a decisão recorrida. Desprovimento do recurso.” (doc. 1, fl. 272).
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+    Assevera que “no caso em apreço não existe qualquer dificuldade na produção de nova prova pericial fiel ao caso concreto, não sendo portanto, ‘difícil’ nem ‘impossível’ sua reprodução. Além do fato de os Agravados não terem participado nem direta nem indiretamente à produção da prova que se pretende pegar emprestada. Portanto, não há o que se falar em repetição, mas sim em nova prova, já que o local a ser periciado é distinto de onde a prova que se pretende emprestar foi produzida.” (doc. 1, fl. 309).
+    Alega que “a Lei n° 11.445/07, no seu artigo 3°, inciso I, alínea ‘b’ dispõe que são considerados serviços de esgotamento sanitário o ‘constituído pelas atividades de infraestruturas e instalações operacionais de coleta, transporte, tratamento e disposição final adequadas dos esgotos sanitários, desde as ligações prediais até o seu lançamento final no meio ambiente’ (sic). O mesmo diploma legal, no seu artigo 45, caput, obriga as edificações permanentes urbanas a se conectarem às redes públicas de abastecimento de água e de esgotamento sanitário, mediante pagamento de tarifas e outros preços públicos.” (doc. 1, fl. 309).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) ofensa reflexa; e b) incidência das Súmulas n. 282 e n. 356 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (no caso vertente, do Código de Defesa do Consumidor e a Lei n. 11.445/2007), podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    “AGRAVO REGIMENTAL. SERVIÇO DE FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. ENTIDADE ASSISTENCIAL. REDUÇÃO DO VALOR DA TARIFA. SUSPENSÃO DO BENEFÍCIO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279, 280 E 636 DO STF. OFENSA REFLEXA OU INDIRETA À CONSTITUIÇÃO.
+    Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o reexame de fatos e provas e da legislação infraconstitucional pertinente, o que é inviável nesta esfera.
+    Inexistência de ofensa aos arts. 5º, LV, e 93, IX, da Constituição.
+    Agravo regimental a que se nega provimento.” (AI 737.485-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 13.8.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. TARIFA DE ÁGUA E ESGOTO. CRITÉRIOS DE CLASSIFICAÇÃO. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL FEDERAL E LOCAL. SÚMULA 280 DO STF. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I – É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais, federais e locais, que fundamentam a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta.
+    Incidência da Súmula 280 desta Corte. Precedentes.
+    II – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF.
+    III – Agravo regimental improvido.” (RE 627.760-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 6.9.2011)
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
