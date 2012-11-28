@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Tratam-se de agravos contra a decisão que não admitiu os recursos extraordinários interpostos contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+    Decido.
+    Em relação ao recurso do Município de Rifaina, verifico que a decisão agravada negou seguimento ao recurso amparada nos seguintes fundamentos:
+    “(...) o presente recurso, protocolizado nesta Corte em 16/08/2010 (cf. fl. 574), foi interposto prematuramente à publicação do dispositivo do acórdão proferido no julgamento dos embargos de declaração, que ocorreu em 03/09/2010 (cf. fl. 459).
+    Assim, não havendo a parte insurgente aguardado a integração do aresto hostilizado, nem providenciado, em momento oportuno, a indispensável ratificação do recurso prematuramente oferecido, resta obstado o trânsito do apelo, consoante orientação consolidada do Tribunal de destino.
+    (…)
+    Ainda que possível fosse superar o óbice apontado, não teria como prosseguir a irresignação, pois constitui entendimento assente na Corte de destino que, para a aferição da existência ou não de direito líquido e certo a ser amparado pelo writ, não se prescinde da análise do conteúdo fático probatório da demanda, matéria que escapa ao âmbito do extraordinário, fazendo incidir a vedação contida no Enunciado nº 279 da sua súmula de jurisprudência (...)”.
+    O entendimento desta Corte é no sentido de que deve a parte impugnar todos os fundamentos da decisão que não admitiu o apelo extremo, o que não ocorreu na espécie, uma vez que mantida incólume a motivação acima reproduzida, referente à extemporaneidade do recurso extraordinário. A jurisprudência de ambas as Turmas deste Tribunal é no sentido de negar provimento ao agravo quando, como no caso, não são atacados os fundamentos da decisão que obsta o processamento do apelo extraordinário. Nesse sentido: AI nº 488.369/RS–AgR, Primeira Turma, Relator Ministro Sepúlveda Pertence, DJ de 28/5/04, e AI nº 330.535/SP-AgR, Segunda Turma, Relator o Ministro Maurício Corrêa, DJ de 21/9/01.
+    Com relação ao apelo do Município de Ibiraci, verifico que o recurso extraordinário foi interposto em 12/5/10 (fl. 676), antes mesmo do julgamento dos embargos de declaração, que somente ocorreu em 4/8/10 (fl. 460). A jurisprudência desta Corte é pacífica no sentido de ser extemporâneo o recurso extraordinário protocolado antes do julgamento dos recursos interpostos na Corte de origem, mesmo quando manejados pela parte contrária. Deveria o recorrente ter reiterado ou ratificado o recurso no novo prazo recursal, o que não ocorreu no presente caso. Nesse sentido, anote-se:
+    “PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEÇA ESSENCIAL. AUSÊNCIA. SÚMULA 288 DO STF. RECURSO EXTRAORDINÁRIO. EXTEMPORANEIDADE. INTERPOSIÇÃO PREMATURA. AGRAVO IMPROVIDO. I - O agravo de instrumento deve ser instruído com as peças obrigatórias e também com as necessárias ao exato conhecimento das questões discutidas. II - É dever processual da parte zelar pela correta formação do instrumento. III - É extemporâneo o recurso extraordinário interposto antes do julgamento dos embargos de declaração opostos na instância a quo, sem que tenha havido a posterior ratificação. IV - Agravo regimental improvido” (AI nº 625.373/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 23/11/07).
+    Ante o exposto, não conheço do agravo do Município de Rifaina e no tocante ao apelo do Município de Ibiraci conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 28 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
