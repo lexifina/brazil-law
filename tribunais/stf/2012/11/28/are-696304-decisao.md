@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 3º, 5º, caput, 7º XXX, e 39 da Carta Política.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, consolidada na súmula 683/STF, no sentido de ser legítima a imposição de limite de idade para inscrição em concurso público, quando previsto em lei, tendo em vista a natureza das atribuições do cargo a ser preenchido, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+“Agravo regimental em recurso extraordinário com agravo. 2. Concurso público. Agente da polícia civil do Estado de Minas Gerais. Limite de idade para ingresso na carreira. Possibilidade. Verbete 683. Precedentes. 3. Aplicação da Lei Complementar estadual n. 113/2010 ao caso. Impossibilidade. Tempus regit actum. 4. Agravo regimental a que se nega provimento”. (ARE 690803 AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 27.9.2012)
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DE POLÍCIA. LIMITE DE IDADE. PREVISÃO NA LEI ESTADUAL 5.406/1969. LEGITIMIDADE. CONTROVÉRSIA SOBRE A APLICAÇÃO DA LEI ESTADUAL 113/2010 AO CONCURSO PÚBLICO EM ANÁLISE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E DE NORMAS LOCAIS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO IMPROVIDO. I – Consoante a jurisprudência desta Corte, o limite de idade para inscrição em concurso público é legítimo quando previsto em lei e possa ser justificado pela natureza das atribuições do cargo a ser preenchido. II – Para divergir do acórdão recorrido quanto à ocorrência, ou não, de revogação do limite etário máximo para ingresso na Polícia Civil do Estado de Minas Gerais e pela aplicação da Lei estadual 113/2000 à espécie, faz-se necessário o reexame do conjunto fático-probatório dos autos e das normas infraconstitucionais locais pertinentes ao caso, o que é vedado pelas Súmulas 279 e 280 do STF. III – Agravo regimental improvido”. (RE 654.175 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 01.8.2012.)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 28 de novembro de 2012.
+Ministra Rosa Weber
+Relatora
