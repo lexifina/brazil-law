@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Agravo Interno. PETROBRAS. Plano de Saúde. Competência da Justiça Estadual. Requerimentos de ressarcimento de despesas que não fizeram parte do que foi pedido a título de antecipação de tutela, no entanto constam da inicial, dessa forma deverão ser apreciados, após o devido lastro probatório, quando do julgamento de mérito da presente lide. Deve ser disponibilizado ao Autor o direito de se manifestar a respeito da contestação ofertada pelo Réu. Recurso desprovido”. (fl. 263 e-STJ).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 114, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que a relação existente entre a agravada e o plano de saúde mantido pela agravante tem natureza de relação de consumo, afastando a competência da Justiça do Trabalho. Desse modo, inexiste ofensa à Constituição, o que torna inviável, portanto, o recurso extraordinário. Nesse sentido, menciono acórdãos de ambas as Turma desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. INCIDÊNCIA. PLANO DE SAÚDE. CUSTEIO DE TRATAMENTO. INEXISTÊNCIA DE VÍNCULO EMPREGATÍCIO. COMPETÊNCIA DA JUSTIÇA COMUM. AGRAVO IMPROVIDO. I Ausência de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. II Ausente, na espécie, vínculo empregatício entre a agravante e a agravada, cabe à Justiça Comum o julgamento da presente demanda. III Agravo regimental improvido.” (ARE 658.028/BA-AgR, Segunda Turma, de minha relatoria).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. COMPETÊNCIA. ASSISTÊNCIA À SAÚDE PRESTADA POR ENTIDADE EMPREGADORA. IDENTIFICAÇÃO DE RELAÇÃO DE CONSUMO PELO JUÍZO DE ORIGEM. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 599.239/RJ-AgR, Primeira Turma, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
