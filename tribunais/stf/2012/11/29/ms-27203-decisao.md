@@ -1,0 +1,22 @@
+DECISÃO
+MANDADO DE SEGURANÇA. CONSELHO NACIONAL DE JUSTIÇA. ANULAÇÃO DE CONCURSO DE PROMOÇÃO DE MAGISTRADOS POR MERECIMENTO. DETERMINAÇÃO DE REFAZIMENTO DOS RELATÓRIOS DE AVALIAÇÃO E DE DESCONSIDERAÇÃO DE DOCUMENTAÇÃO JUNTADA APÓS A FASE DE HABILITAÇÃO. POSTERIOR PROMOÇÃO DO IMPETRANTE POR MERECIMENTO PARA COMARCA DE ENTRÂNCIA FINAL. PERDA SUPERVENIENTE DO OBJETO DA AÇÃO. MANDADO DE SEGURANÇA EXTINTO SEM JULGAMENTO DE MÉRITO.
+Relatório
+    1. Mandado de segurança, com pedido de medida liminar, impetrado por Mario Soares Caymmi Gomes, em 10.3.2008, contra decisão do Conselho Nacional de Justiça que, ao anular o concurso de promoção por merecimento e impor o refazimento dos relatórios de avaliação dos magistrados, determinou a desconsideração de documentos apresentados intempestivamente pelo Impetrante (Procedimento de Controle Administrativo n. 200710000012362).
+    2. O Impetrante sustenta, em essência, que os arts. 3º, inc. III, e 5º, parágrafo único, da Lei n. 9.784/1999, fundamentariam seu direito líquido e certo a ter os documentos comprobatórios de sua produção intelectual e de participação em cursos de aperfeiçoamento analisados, ainda que juntados após a fase de habilitação no certame, pois sua apresentação teria ocorrido antes da decisão final da Comissão de Avaliação do Tribunal de Justiça da Bahia.
+    Para o Impetrante a correta valoração de seus documentos pelo Tribunal de Justiça da Bahia poderia resultar em sua promoção, por merecimento, para uma das vagas existentes na comarca de Salvador/BA.
+    3. Em 13.3.2008, indeferi a medida liminar requerida nesta ação e determinei a inclusão do Tribunal de Justiça da Bahia como litisconsorte passivo.
+    4. Em 26.3.2008 e 3.4.2008, o Conselho Nacional de Justiça e o Tribunal de Justiça da Bahia prestaram informações (fls. 219-224 e 289-296).
+    5. Em sua manifestação, apresentada em 26.9.2012, a Procuradoria-Geral da República opinou pela extinção deste mandado de segurança, sem julgamento de mérito.
+    Salientou que, ”julgado o Procedimento de Controle Administrativo n. 2007.10.00.0012362, não há mais necessidade de prestação jurisdicional. Ocorreu a perda de objeto deste mandado de segurança” (fl. 301).
+    6. Em 30.10.2012, determinei ao Impetrante que, no prazo improrrogável de 5 dias, se manifestasse sobre o interesse no prosseguimento da ação (fls. 318-320).
+    7. Em 26.11.2012, a Secretaria deste Supremo Tribunal certificou que, até aquela data, o Impetrante não atendeu ao despacho (fl. 323).
+    Examinados os elementos havidos nos autos, DECIDO.
+    8. Consta do sítio do Conselho Nacional de Justiça que o pedido de esclarecimento apresentado pelo Impetrante foi julgado em 8.4.2008 e que os Procedimentos de Controle Administrativo n. 200710000011734, 200710000011783, 200710000012090, 200710000014980, 200710000012362, instaurados contra o concurso de promoção e julgados em conjunto foram arquivados pelo integral cumprimento da decisão pelo Tribunal de Justiça da Bahia.
+    Acrescente-se, ainda, constar do sítio do Tribunal de Justiça da Bahia ter sido o Impetrante promovido, por merecimento, para a 8ª Vara da Fazenda Pública de Salvador, comarca de entrância final (Decreto Judiciário n. 172, de 5.5.2010).
+    Como destaquei no despacho de fls. 318-320, a pretensão deduzida nesta ação resultaria, em última análise, se concedida a segurança, na anulação do ato tido como coator na parte em que determinou a desconsideração de documentos e no potencial refazimento do relatório de avaliação do Impetrante pelo Tribunal de Justiça da Bahia. A nova avaliação levaria, apenas eventualmente, se obtida pontuação superior àquela atribuída aos demais magistrados que se submeteram ao concurso realizado em 2007, à sua promoção para a comarca de entrância final em Salvador, atualmente titularizada pelo Impetrante.
+    Esses fatos evidenciam a perda superveniente do objeto do presente ação, não subsistindo interesse ou utilidade em seu prosseguimento. Essa constatação é reforçada pela circunstância de não ter o Impetrante se pronunciado sobre eventual interesse remanescente que justificasse a continuidade da ação.
+    9. Pelo exposto, julgo prejudicado o presente mandado de segurança, por perda superveniente de seu objeto (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de novembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
