@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “CONSTITUCIONAL E TRIBUTÁRIO – TAXA DE LICENCIAMENTO DE IMPORTAÇÃO (ART. 10 DA LEI Nº 2.145/53, NA REDAÇÃO DADA PELA LEI Nº 7.690/88): INCONSTITUCIONALIDADE (RE Nº 167.992/PR E RESOLUÇÃO Nº 73/95 DO SENADO FEDERAL) – PRESCRIÇÃO/DECADÊNCIA: ‘5+5’ – SELIC.
+    (...)” (fl. 115).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 97 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição, mas apenas interpretou a legislação infraconstitucional aplicável à espécie e, como se sabe, é pacífica a jurisprudência desta Corte no sentido do não cabimento de recurso extraordinário por ofensa a normas infraconstitucionais, sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono os seguintes precedentes: AI 684.976-AgR/MG, Rel. Min. Cármen Lúcia; AI 736.977-AgR/CE e RE 369.256-AgR/PR, Rel. Min. Ellen Gracie; AI 785.709-AgR-AgR/RS, Rel. Min. Eros Grau; RE 586.046/BA, Rel. Min. Cezar Peluso; AI 791.673-AgR/SC, de minha relatoria.
+    Ademais, ressalto que a jurisprudência deste Tribunal firmou-se no sentido de que a controvérsia acerca do prazo prescricional da restituição de tributo declarado inconstitucional pelo Supremo Tribunal Federal possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo a ementa do AI 619.163-AgR/SP, Rel. Min. Eros Grau:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de novembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
