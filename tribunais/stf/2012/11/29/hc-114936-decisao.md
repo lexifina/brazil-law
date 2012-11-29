@@ -1,0 +1,9 @@
+HABEAS CORPUS. DIREITO DE APELAÇÃO EM LIBERDADE. DEFERIMENTO DA ORDEM PELO SUPERIOR TRIBUNAL DE JUSTIÇA, COM A SUPERVENIENTE PREJUDICIALIDADE DA IMPETRAÇÃO EM VIRTUDE DA PERDA DO OBJETO DO PEDIDO FORMALIZADO NA INICIAL.
+    Decisão: Trata-se de habeas corpus, impetrado contra o ato mediante o qual foi indeferida a medida liminar no âmbito do Superior Tribunal de Justiça. A defesa pugna pelo direito de o agente apelar em liberdade contra a sentença que o condenou à pena de 4 (quatro) anos de reclusão, a ser cumprida no regime fechado, em razão da prática do crime previsto no artigo 213, combinado com o artigo 14, II, ambos do Código Penal.
+    Consoante informações prestadas pelo Superior Tribunal de Justiça, a Sexta Turma daquela Corte, na sessão do dia 02 de outubro de 2012, apreciou o mérito do Habeas Corpus nº 180.768/SP. Na ocasião, anotou-se que o paciente permaneceu solto durante toda a instrução processual e na sentença condenatória não teria havido qualquer menção a fundamento novo que viesse justificar a constrição à liberdade. Acrescentou-se que, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de São Paulo na internet, o recurso de apelação interposto pela defesa encontra-se pendente de julgamento desde 24 de setembro de 2010. Em consequência, aquela Corte deferiu a ordem de habeas corpus requerida, para assegurar ao paciente o direito de aguardar em liberdade o julgamento do recurso que interpôs perante o Tribunal estadual.
+    Ex positis, tendo sido alcançada a pretensão deduzida neste processo, com base no artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, declaro o prejuízo deste habeas corpus, tendo em conta a perda do seu objeto.
+    Publique-se. Int.
+    Brasília, 29 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
