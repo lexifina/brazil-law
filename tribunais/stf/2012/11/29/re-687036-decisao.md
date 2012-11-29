@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário contra acórdão de cuja ementa destaco o seguinte trecho:
+    "PROCESSO CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. PRESCRIÇÃO. LITISPENDÊNCIA. GRATIFICAÇÃO DE OPERAÇÕES ESPECIAIS – GOE. DECRETO-LEI 1.714/79. RESTABELECIMETO PELA LEI 8.126/91. GRATIFICAÇÃO ESTENDIDA AOS POLICIAIS RODOVIÁRIOS FEDERAIS PELA LEI Nº 8.270/91.
+    (...)
+    3. A Gratificação por Operações Especiais - GOE instituída pelo Decreto-Lei 1.714/79, em razão das peculiaridades decorrentes do exercício das atividades do Grupo Polícia Federal, foi restabelecida pela Lei 8.126/91, vez que tem a mesma natureza jurídica e destinatários.
+    4. A Lei nº 8.270/91, em seu art. 14, estendeu aos Policiais Rodoviários Federais a gratificação prevista pela Lei nº 8.162/91, não se justificando, assim, a continuidade da sua percepção após a edição daquele diploma legal.
+    Apelação da União provida em parte, para que a execução prossiga com a realização de novos cálculos, com base nos valores relativos ao período compreendido entre a vigência da Lei 7.923/89 e a data do seu efetivo restabelecimento – pela Lei 8.270/91 - aos Policiais Rodoviários Federais, devendo ser compensados os valores que porventura tenham sido pagos aos Embargados, a partir de 2001, por força da antecipação de tutela.
+    Apelação dos Embargados improvida."
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 627.902-AgR/SP, de minha relatoria;AI 736.916/AL, Rel. Min. Luiz Fux; AI 446.131-AgR-AgR/DF, Rel. Min. Dias Toffoli; e o RE 714.946-AgR/PE, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO – POSTULADO CONSTITUCIONAL DA COISA JULGADA – ALEGAÇÃO DE OFENSA DIRETA – INOCORRÊNCIA – LIMITES OBJETIVOS – TEMA DE DIREITO PROCESSUAL – MATÉRIA INFRACONSTITUCIONAL – INCOGNOSCIBILIDADE DO APELO EXTREMO – RECURSO IMPROVIDO. - Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da 'res judicata', revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição – por supor o exame, 'in concreto', dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada – traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes”.
+    Outrossim, com a negativa de seguimento ao recurso especial pelo Superior Tribunal de Justiça (REsp 1.171.620/AL, com trânsito em julgado certificado em 14/05/2012), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+    Ante o exposto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 29 de novembro de 2012.
+Ministro Ricardo Lewandowski
+- Relator -
