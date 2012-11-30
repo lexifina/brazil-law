@@ -1,0 +1,9 @@
+Decisão: Junte-se aos autos as informações enviadas por meio eletrônico pelo Dr. Bruno Espiñeira, Procurador do Estado da Bahia, noticiando a existência de possível descumprimento da decisão liminar do Supremo Tribunal Federal proferida nos autos pelo juízo da Comarca de Posse em Goiás, bem como a existência de conflitos na região da fronteira estadual.
+    Diante da gravidade dos fatos, intime-se o juízo da Comarca de Posse, no estado de Goiás, na pessoa do seu Titular e do MM Juiz de Direito Dr. Sebastião José de Assis Neto, juiz designado pelo Decreto Judiciário nº 2.124/2012, para que: i) tomem conhecimento de que a liminar concedida nos autos da ACO nº 347 está produzindo seus regulares efeitos e que deve ser integralmente cumprida; ii) informem, no prazo de 10 (dez) dias, em que processos específicos (indicando numeração e partes) em trâmite na Comarca de Posse/GO há litígio em torno da posse e/ou propriedade de imóveis situados na área de fronteira sub judice; iii) tomem conhecimento de que estão suspensos os efeitos de todo e qualquer provimento judicial, de caráter liminar ou não, expedido pelo juízo da Comarca de Posse referente à área sub judice na ACO 347.
+    Intimem-se, com urgência, o Presidente do Tribunal de Justiça de Goiás, o Governador do Estado de Goiás e o Secretário de Segurança Pública do referido estado para que tomem conhecimento da presente decisão e da informação ora juntada aos autos da existência de uma “milícia armada” que teria recebido a polícia do estado da Bahia com tiros no local do conflito.
+    Instruam-se os mandados de intimação do juízo da Comarca de Posse com cópia da liminar deferida nos autos e com cópia da decisão proferida nestes autos no dia 13 de novembro de 2012.
+    Publique-se. Intimem-se.
+    Brasília, 30 de novembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
