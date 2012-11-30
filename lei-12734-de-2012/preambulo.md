@@ -1,0 +1,2 @@
+Modifica as Leis nº 9.478, de 6 de agosto de 1997, e nº 12.351, de 22 de dezembro de 2010, para determinar novas regras de distribuição entre os entes da Federação dos royalties e da participação especial devidos em função da exploração de petróleo, gás natural e outros hidrocarbonetos fluidos, e para aprimorar o marco regulatório sobre a exploração desses recursos no regime de partilha.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
