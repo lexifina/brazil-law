@@ -1,0 +1,20 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de medida liminar, ajuizada por Roberto Soriano em face do Juiz de Direito da 5ª Vara de Execuções Criminais de São Paulo, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia do que decidido no julgamento do HC nº 96.328/SP.
+    Examinados os autos, decido.
+    Inicialmente, consigno que, nos termos do art. 102, inc. I, alínea "l", da Constituição Federal, bem como nos arts. 156 do Regimento Interno desta Corte e 13 da Lei nº 8.038/90, a reclamação só é admissível nas seguintes hipóteses: a) para a preservação da esfera de competência da Corte; b) para garantir a autoridade das suas decisões; e c) para infirmar decisões que desrespeitem Súmula Vinculante editada pela Corte.
+    No caso em exame, a decisão desta Suprema Corte, cuja autoridade o reclamante sustenta estar comprometida com a manutenção do ato impugnado, consiste no julgamento do HC nº 96.328/SP. Com efeito, ressalto que o feito em questão possui natureza subjetiva e, portanto, sua eficácia vinculante é restrita à parte nele relacionada.
+    Note-se que o reclamante não figurara como paciente da citada relação processual tida por afrontada, sendo assente a ilegitimidade ativa na presente reclamação. Nesse sentido a Rcl nº 3.051/RS-AgR, Relator o Ministro Ayres Britto, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. RECLAMAÇÃO.
+    A decisão tomada no RE 197.917, em razão da sua natureza subjetiva, possui eficácia vinculante apenas em relação às partes que dele participaram. Por isso mesmo, não figurando a agravante em nenhum dos pólos da precitada relação processual, falta-lhe legitimidade ativa ad causam. Ainda que assim não fosse, a edição das Resoluções nºs 21.702 e 21.803, do Tribunal Superior Eleitoral, observou as diretrizes fixadas quando do julgamento do mencionado RE 197.917, razão por que não se divisa nenhum desrespeito ao que foi decidido pelo Supremo Tribunal Federal no pré-falado apelo extremo.
+    Agravo regimental desprovido” (Tribunal Pleno, DJ de 15/9/06).
+    Este Supremo Tribunal tem jurisprudência pacífica no sentido de que não se conhece de reclamação fundada em paradigmas sem eficácia geral e vinculante, de cuja relação processual o reclamante não fez parte. Confira-se:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE CONTRIEDADE AO QUE DECIDIDO NO AGRAVO REGIMENTAL NA SENTENÇA ESTRANGEIRA 5.206. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Ausência de eficácia vinculante e de efeitos erga omnes da decisão proferida na ação apontada como paradigma” (Rcl nº 10.392/RS-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia, DJe de 13/4/11);
+    “RECLAMAÇÃO. Alegação de afronta a decisão proferida em agravo regimental em agravo de instrumento. Causa de índole subjetiva. Decisão desprovida de eficácia erga omnes. Vinculação restrita às partes. Autoridade diversa daquela que é sujeito processual do recurso extraordinário. Processo extinto, sem julgamento de mérito. Inteligência do art. 102, I, ‘l’, da CF. Precedentes. Agravo regimental improvido. Não cabe reclamação por suposta ofensa à autoridade de decisão proferida em processo subjetivo, do qual não é nem foi parte o reclamante” (Rcl nº 5.335/MG-ED, Relator o Ministro Cezar Peluso, Tribunal Pleno, DJe de 9/5/08).
+    Ademais, conforme, notadamente, consolidado no repertório jurisprudencial da Corte “o remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal” (RCL nº 4.381-AgR/RJ, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 5/8/11).
+    Ante o exposto, nos termos do art. 38 da Lei nº 8.038/90 e do art. 21, § 1º do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 30 de novembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
