@@ -1,0 +1,10 @@
+DECISÃO
+CONCURSO PÚBLICO – ANÁLISE DE COMPORTAMENTO SOCIAL – ELIMINAÇÃO EXCLUÍDA – AGRAVO DESPROVIDO.
+    1. O Tribunal de Justiça do Estado do Rio de Janeiro concedeu a segurança, ante fundamentos assim sintetizados (folha 23):
+    Direito Constitucional. Direito Administrativo. Direito Processual Público. Concurso para cargo de Inspetor de Segurança e Administração Penitenciária. Mandado de Segurança visando à declaração de nulidade de ato administrativo que excluiu a impetrante do certame, ao fundamento de que estaria a mesma figurando como acusada em processo criminal pela prática, em tese do crime de ameaça. Previsão no Edital do concurso de Investigação de Comportamento Social. Servidores ocupantes de cargos ligados à segurança pública precisam ter perfil específico e personalidade adequada ao cargo pretendido. Preponderância do princípio constitucional da presunção de inocência, não sendo ilidida no presente caso, considerando o recente desfecho do processo, cuja decisão comporta efeitos materiais de absolvição. Imprecisão terminológica que não se pode militar em desfavor da impetrante. Pedido que se julga procedente, considerando-se a segurança para declarar nulo o ato administrativo.
+    2. O Tribunal de origem não adentrou o mérito administrativo. Apenas se opôs, no caso, à exclusão de candidato aprovado em todas as fases, à exceção da análise de comportamento social, em decorrência da retratação operada pela última e que implicou o arquivamento de ação pública condicionada. Ora, diante desse contexto, forçoso é concluir que foram sopesadas as peculiaridades do caso e o fato de ser incompatível com as noções pertinentes ao princípio da razoabilidade excluir candidato quando o motivo alegado deixou de existir. Em suma, não se colocou em plano secundário o princípio da separação dos poderes. Simplesmente, considerou-se, na espécie, a necessidade de preservar-se a segurança jurídica, a razão de ser das coisas, cuja força é insuplantável.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 30 de novembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
