@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro de inadmissibilidade ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO PARA O CARGO DE TÉCNICO DE MANUTENÇÃO I MECÂNICA, SENDO O AUTOR/APELANTE DESCLASSIFICADO EM RAZÃO DE OBESIDADE. EDITAL QUE PREVÊ A APTIDÃO FÍSICA E MENTAL PLENA E QUE A CONTRA-INDICAÇÃO DO CANDIDATO NO EXAME MÉDICO ACARRETARÁ ELIMINAÇÃO DO PROCESSO SELETIVO PÚBLICO. JUNTA MÉDICA CONSTATOU OBESIDADE MÓRBIDA, HIPERTENSÃO ARTERIAL LEVE E AUMENTO DO COLESTEROL LDL, SENDO CONSIDERADO INAPTO PARA O CARGO. LEGALIDADE. PRECEDENTES. NEGADO SEGUIMENTO AO RECURSO, NA FORMA DO ART. 557, CAPUT, DO CPC.” (fl. 370)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria e a nulidade da decisão pela negativa de prestação jurisdicional (artigos 5º, XXXII, XXXV e 93, IX, da CF). No mérito, aponta-se violação aos artigos 5º, 6º e 37 do texto constitucional.
+     Na espécie, o recorrente alega que foi aprovado na prova escrita do concurso da PETROBRÁS para o cargo de Técnico de Manutenção I – Mecânica, porém foi reprovado no exame de saúde sob a alegação de excesso de peso.
+    Aduz, ainda, que “não há qualquer ressalva, no Edital, quanto à obesidade como fator impeditivo para a ocupação do cargo.” (fl. 397)
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o acórdão recorrido consignou que:
+    “(...) o candidato ao inscrever-se no concurso público anuiu com as regras do certame, onde está claro que o exame médico é uma das etapas do concurso e eliminatório, havendo necessidade de aptidão plena para o exercício do cargo pretendido.
+    O edital é expresso quanto à necessidade de aptidão física e mental plena para o exercício do cargo, tanto que não foram abertas vagas para portadores de deficiência, de modo que se mostra razoável a eliminação em razão da obesidade mórbida, hipertensão arterial e aumento do colesterol, por não estar o candidato com a saúde apta ao exercício do cargo em plataformas.” (fl. 372)
+    Inicialmente, com relação à alegada ofensa aos artigos 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010.
+    Nessa oportunidade, o STF reconheceu a existência de repercussão geral do tema e reafirmou sua jurisprudência no sentido de que os referidos artigos exigem que o acórdão ou a decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas. Eis a ementa do citado precedente da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Na espécie, o tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas de convencimento do julgador.
+    Dessa forma, verifico que a prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da recorrente. Portanto, não prospera a alegação de nulidade do acórdão.
+    Ultrapassada essa questão, passo à análise do mérito.
+    Extrai-se dos autos que o recorrente participou de concurso público para provimento do cargo de Técnico de Manutenção I - Mecânica e que, apesar de aprovado na prova escrita, foi reprovado pela junta médica de saúde que apurou ter o candidato apresentado obesidade mórbida, hipertensão arterial e excesso de colesterol LDL em seus exames.
+    Registre-se que discutir se as enfermidades apresentadas pelo candidato são aptas a inabilitá-lo para o exercício do cargo pleiteado demanda revolvimento do conjunto fático-probatório constante dos autos, providência vedada no âmbito do recurso extraordinário, a teor da Súmula 279 do STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (arts. 21, §1º, RISTF e 544, §4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 30 de novembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
