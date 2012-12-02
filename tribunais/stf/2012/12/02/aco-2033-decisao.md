@@ -1,0 +1,18 @@
+DECISÃO
+LITISPENDÊNCIA – NEGATIVA DE SEGUIMENTO AO PEDIDO.
+    1. O Gabinete prestou as seguintes informações:
+    O Estado da Bahia questiona a inclusão no Cadastro Único de Convênios – CAUC em virtude de pendência da respectiva Secretaria de Ciência, Tecnologia e Informação, a qual teve o nome, segundo sustenta, indevidamente inscrito no Cadastro Informativo de Créditos não Quitados do Setor Público Federal – CADIN, considerado suposto débito com o Instituto Brasileiro do Meio Ambiente – IBAMA.
+    Narra haver o Ibama lhe imposto multa administrativa, no valor de dois milhões de reais, em razão de apontada prática de infração ambiental pela referida Secretaria. Destaca que, embora o auto seja objeto de impugnação judicial no Tribunal Regional Federal da 1ª Região – ApReeNec nº 001408-69.2011.4.01.330/BA –, o débito foi incluído no CAUC em 2 de agosto de 2011. O fato, conforme assevera, ensejou a formalização da Ação Cautelar nº 2.959 no Supremo, na qual vieram a ser contestadas, além da pendência mencionada, diversas outras inscrições indevidas. Consoante afirma, o ministro Ayres Britto deferiu a liminar à época e, posteriormente, o ministro Cezar Peluso estendeu-a para alcançar outras operações de crédito efetuadas pelo Estado.
+    Alega que, apesar do implemento da medida acauteladora, a pendência referente à multa aplicada continua a constar no banco de dados do CAUC, o que o impede de receber transferências voluntárias, contratar operações de crédito e dar continuidade a projetos governamentais em curso.
+    Argui a ofensa aos princípios da ampla defesa e do contraditório, em virtude da inscrição sem a prévia comunicação. Ressalta que até o crédito da União é objeto de contestação judicial, o que torna a providência ilegítima.
+    Sob o ângulo do risco, salienta que três operações de alto valor podem ser obstadas, ante a inscrição no CAUC. Discorre sobre o Programa de Inclusão e Desenvolvimento Sócio-econômico do Estado da Bahia – PROINCLUSÃO, o Programa Nacional de Desenvolvimento do Turismo na Bahia – PRODETUR NACIONAL e o Programa de Modernização e Fortalecimento da Gestão Fiscal – PROFISCO, todos a depender do recebimento de recursos do Banco Internacional para a Reconstrução e o Desenvolvimento – BIRD, os quais totalizam cerca de oitocentos milhões de dólares.
+    Requer o deferimento de tutela antecipada, sem a oitiva da União, para que a pendência cadastral relativa à Secretaria de Ciência, Tecnologia e Informação do Estado da Bahia com o Ibama não seja levada em conta no exame dos requisitos necessários à realização das operações de crédito.
+    Dos documentos acostados ao processo, extrai-se que o Juízo Federal, considerada a decadência do prazo de cento e vinte dias, extinguiu, sem julgamento de mérito, o mandado de segurança impetrado pelo Estado da Bahia contra o auto de infração ambiental. A inicial voltada a conferir efeito suspensivo à apelação interposta foi liminarmente indeferida.
+    O processo encontra-se concluso para a apreciação do pedido de concessão de medida acauteladora.
+    2. Observem a organicidade do direito instrumental. O autor sustenta, em síntese, haver a União descumprido a liminar implementada pelo ministro Cezar Peluso na Ação Cível Originária nº 2.959. O pleito voltado a assegurar a eficácia do que decidido deve dirigir-se ao relator daquela ação, e não ser formalizado por meio de nova demanda.
+    Esta ação possui as mesmas partes e pedido da anteriormente citada, revelando-se, no mínimo, a litispendência.
+    3. Ante o quadro, nego seguimento ao pedido.
+    4. Publiquem.
+Brasília – residência –, 2 de dezembro de 2012, às 13h20.
+Ministro MARCO AURÉLIO
+Relator
