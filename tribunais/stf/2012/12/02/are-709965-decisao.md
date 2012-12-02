@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo o Município de São Paulo. Na minuta, sustenta que o recurso extraordinário reúne todos os requisitos para sua admissão. Aponta ofensa aos arts. 2º, 5º, XXXV, XXXVI e LV, e 37 da Lei Maior e contrariedade à Súmula 473/STF.
+    Contraminuta.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo (Lei nº 10.177/1998 do Estado de São Paulo, Lei nº 13.637/2003 do Município de São Paulo), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DO ADICIONAL DE SEXTA PARTE SOBRE A INTEGRALIDADE DOS VENCIMENTOS DE SERVIDOR ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. Na hipótese em apreço, o cálculo do adicional de sexta-parte foi solucionado à luz do art. 129 da Constituição do Estado de São Paulo, não desafiando o acórdão, recurso extraordinário. … 5. Embargos de declaração acolhidos para reconhecer a tempestividade o agravo regimental e negar-lhe provimento”.
+    De outra parte, não se vislumbra, no acórdão recorrido, contrariedade à Súmula 473/STF, sendo certo que o próprio verbete invocado pelo recorrente ressalva, dos efeitos decorrentes do poder da Administração de anular ou revogar os próprios atos, a intangibilidade dos direitos adquiridos e a fiscalização pelo Poder Judiciário. Pelos mesmos motivos, tampouco se cogita de violação dos arts. 2º, 5º, XXXV e XXXVI, e 37 da Constituição da República.
+    Ademais, consideradas as premissas fáticas fixadas no acórdão recorrido, ora insuscetíveis de revisão (Súmula 279/STF), ao registro de que “em nenhum momento consta prova de ter a apelada sido intimada do ato em questão, não havendo sequer cópia do alegado aviso de recebimento que esta teria assinado”, tem-se que o art. 5º, LV, da Lei Maior foi observado em sua literalidade.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 02 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
