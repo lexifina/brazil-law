@@ -1,0 +1,26 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de liminar, impetrado por Ebert Diego Niles Zamboni em favor de Fábio Pereira da Costa contra conduta omissiva do Relator do HC 251.939/PR, Ministro Sebastião Reis Júnior, do Superior Tribunal de Justiça.
+    Consta dos autos que a Autoridade Policial representou pela decretação da prisão preventiva do paciente, porquanto, no interior da empresa Jaguafrangos, com sede em Jaguapitã/PR, depois de se apossar de uma faca de propriedade da indústria, utilizada para evisceração de frangos, teria desferido um golpe de faca contra a região lombar esquerda da vítima, seu superior hierárquico, levando-a a óbito.
+    Acolhendo a representação policial, o Juízo de Direito da Comarca de Jaguapitã/PR, em 9.5.2012, decretou a prisão preventiva para garantir a ordem pública e assegurar a aplicação da lei penal.
+    A Defesa formulou pedido de revogação da prisão preventiva, ao argumento de não estarem presentes os seus requisitos, mormente pelo fato de o paciente ter se apresentado espontaneamente perante a Autoridade Policial, antes mesmo da representação, não havendo que se falar em risco à aplicação da lei penal. O pleito foi indeferido pelo Juízo de primeiro grau em 14.5.2012, ao fundamento de que subsistente pelo menos um dos fundamentos ensejadores da decretação da custódia cautelar, a garantia da ordem pública.
+    Contra essa decisão, foi impetrado o HC 916.840-9 perante o Tribunal de Justiça do Estado do Paraná, que denegou a ordem.
+    Irresignada, impetrou habeas corpus perante o Superior Tribunal de Justiça. Em 21.8.2011, o Ministro Sebastião Reis Júnior indeferiu a liminar.
+    Foi impetrado, então, o presente writ.
+    Argumenta a Defesa, em síntese, demora no julgamento do mérito do HC 251.939/PR, Rel. Ministro Sebastião Reis Júnior. Sustenta, ainda, a possibilidade de abrandamento da Súmula 691/STF e a ilegalidade da prisão preventiva.
+    Nesses termos, requer a concessão de provimento liminar a fim de sustar os efeitos da custódia preventiva. No mérito, pugna pelo deferimento da ordem em definitivo, em atenção aos princípios da razoabilidade, do devido processo legal e da dignidade da pessoa humana.
+    Passo a decidir.
+    Em consulta ao sítio do Superior Tribunal de Justiça na internet (www.stj.jus.br), observo que o habeas corpus foi protocolado no Superior Tribunal de Justiça em 21.8.2012. Denegada a liminar pretendida e colhido o parecer do Ministério Público Federal, houve a conclusão dos autos ao Relator em 26.9.2012.
+    Diante dessas informações — a indicar ausência de inércia do Judiciário — e considerando a expressiva carga de processos daquela Corte, entendo que o prazo transcorrido até a presente data, por si só, não conduz à conclusão de demora no julgamento do mérito.
+    Por outro lado, quanto à questão relativa à validade da prisão cautelar, é inviável apreciá-la diretamente em supressão de instância.
+    Pertinente ao caso o disposto na Súmula 691 desta Suprema Corte (“Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”).
+    Ademais, em análise de cognição sumária, a prisão preventiva do paciente afigura-se adequadamente fundamentada, já que examinadas a materialidade e a autoria, bem como apontada a existência do fundamento da garantia da ordem pública.
+    O decreto prisional consignou que “há evidências de que o requerido praticou homicídio qualificado contra superior hierárquico, em local de trabalho, fato que causou instabilidade e comoção não só no local de trabalho, empresa com grande número de empregados, como também no meio social desta pequena comunidade de Jaguapitã/PR”. E prossegue, “segundo o revelado pelas declarações das testemunhas, o requerido chegou um pouco mais cedo ao local de trabalho, ali esperou pela vítima, e contra ela desferiu golpe certeiro, causando lesões gravíssimas que a levaram a óbito, mesmo após haver sido socorrida e encaminhada a atendimento médico hospitalar”.
+    Da prática do crime nas circunstâncias concretas apontadas, aparentemente homicídio com premeditação e sem a apresentação de qualquer justificativa pelo agente, pode-se inferir, razoavelmente, a periculosidade do paciente.
+    Esta Suprema Corte tem reiteradamente decidido que “se as circunstâncias concretas da prática do crime indicam a periculosidade do agente está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria” (HC 105.585/SP, HC 112.763/MG e HC 112.364 Agr/DF, precedentes da minha lavra).
+    Não considero viável qualificar a prisão como destituída de qualquer razoabilidade de modo a superar o óbice da Súmula 691/STF.
+    Portanto, não vislumbro indevido excesso de prazo no trâmite do habeas corpus no Superior Tribunal de Justiça, tampouco manifesta ilegalidade na prisão cautelar hábil a superar a Súmula 691/STF .
+    Ante o exposto e com base no art. 21, §1º, do Regimento Interno, nego seguimento ao habeas corpus, ficando prejudicado o exame da liminar.
+    Publique-se. Arquivem-se.
+    Brasília, 03 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
