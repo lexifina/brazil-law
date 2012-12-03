@@ -1,0 +1,1 @@
+Art. 50-B. As receitas de que tratam os arts. 48-A, 49-A e o § 5º do art. 50 serão destinadas, exclusivamente, para a educação, em acréscimo ao mínimo constitucionalmente obrigatório, na forma do regulamento.

@@ -8,3 +8,4 @@ VI - do meio ambiente; e
 VII - de mitigação e adaptação às mudanças climáticas.
 § 1º Os programas e projetos de que trata o caput observarão o plano plurianual - PPA, a lei de diretrizes orçamentárias - LDO e as respectivas dotações consignadas na lei orçamentária anual - LOA.
 § 2º (VETADO)
+§ 3º Do total do resultado a que se refere o caput do art. 51 auferido pelo FS, cinquenta por cento deve ser aplicado obrigatoriamente em programas e projetos direcionados ao desenvolvimento da educação, na forma do regulamento.
