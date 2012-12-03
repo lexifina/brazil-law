@@ -16,4 +16,4 @@ d) 24,5% (vinte e quatro inteiros e cinco décimos por cento) para constituiçã
 2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Estados e do Distrito Federal (FPE), de que trata o art. 159 da Constituição;
 e) 24,5% (vinte e quatro inteiros e cinco décimos por cento) para constituição de fundo especial, a ser distribuído entre os Municípios de acordo com os seguintes critérios:
 2. o rateio dos recursos do fundo especial obedecerá às mesmas regras do rateio do Fundo de Participação dos Municípios (FPM), de que trata o art. 159 da Constituição;
-f) 22% (vinte e dois por cento) para a União, a ser destinado ao Fundo Social, instituído por esta Lei, deduzidas as parcelas destinadas aos órgãos específicos da Administração Direta da União, nos termos do regulamento do Poder Executivo.
+f) vinte e dois por cento para a União, a ser destinado ao Fundo Social.
