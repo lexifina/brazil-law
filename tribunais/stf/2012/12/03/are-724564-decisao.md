@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “RECURSO DE REVISTA. 1. PRELIMINAR DE NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. 2. ACIDENTE DE TRABALHO. CONTRATO SUSPENSO. BENEFÍCIO DA PRESCRIÇÃO QUINQUENAL PARA EXAME DE QUALQUER PARCELA, INCLUSIVE INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS E MATERIAIS (ART. 7º, XXIX, DA CF).Recurso de revista não conhecido, no aspecto. 3. ACIDENTE DO TRABALHO. INDENIZAÇÃO POR DANOS MORAIS. CONCAUSA. CULPA PRESUMIDA. Recurso de revista não conhecido, no particular. 4. INDENIZAÇÃO POR DANO MORAL FIXADA EM SALÁRIOS MÍNIMOS. INVIABILIDADE DE INDEXAÇÃO. Recurso de revista conhecido e provido, no aspecto. 5. HONORÁRIOS ADVOCATÍCIOS. HIPÓTESE DE CABIMENTO. SÚMULA 219 DO TST. Recurso de revista conhecido e provido no aspecto”.(fls. 705/708)
+    O recorrente afirma que o Tribunal a quo teria contrariado os artigos 5º, incisos II, XXXV, LIV e LV; 7º, inciso XXVIII; e 93, IX, da Constituição Federal.
+     Argumenta-se, em síntese, o seguinte:
+    “(...) a decisão merece reforma, posto que o SERPRO está sendo condenado ao pagamento de indenização por danos morais mesmo diante da existência de prova nos autos de que a doença da Recorrida é degenerativa, não caracterizando nenhuma relação com as atividades por ele exercidas durante o contrato de trabalho, conforme exposto na prova pericial”.(fl. 730)
+    O tema de fundo do recurso extraordinário diz respeito à responsabilidade civil do Serviço Federal de Processamento de dados - SERPRO, em razão de danos supostamente causados a empregado.
+    Inicialmente, verifico que, para se chegar à solução diversa do acórdão recorrido quanto à responsabilidade civil da recorrente, faz-se necessário o reexame do conjunto fático-probatório dos autos, o que é inviável, a teor do Enunciado de Súmula 279 do STF, bem como a análise de legislação infraconstitucional aplicável à espécie.
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+     Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu o seguinte:
+    “No caso em tela, o Regional consignou quehouve um agravamento do quadro da moléstia apresentada, fruto de movimentos repetitivos e da força empregada nas tarefas da Autora, o que configura a concausa”. (fl. 716)
+    Para se entender de forma diversa, faz-se imprescindível a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte.
+     Nesse sentido, entre outras, as seguintes decisões: RE 165.460, Rel. Min. Sydney Sanches, 1ª Turma, DJ 19.9.1997; RE 102.542, Rel. Min. Djaci Falcão, 2ª Turma, DJ 27.9.1985; RE-AgR 593.550, Rel. Min. Eros Grau, 2ª Turma, DJe 27.2.2009; e AI-AgR 767.152, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 5.2.2010.
+     Incide, portanto, a Súmula 279/STF.
+    A jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Ademais, em questão de ordem acolhida no julgamento do AI 791.292, DJe 13.8.2010, de minha relatoria, firmou-se o entendimento de que a decisão de tribunal inferior que nega provimento a apelo, desde que fundamentada, não configura violação à garantia constitucional da prestação jurisdicional:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília,3 de dezembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
