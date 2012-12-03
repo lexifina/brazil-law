@@ -1,0 +1,62 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado por Marcelo Tavares em favor de Raphael dos Santos Neves contra decisão monocrática da lavra do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que, nos autos do HC 240.568/RJ, indeferiu a liminar.
+    O paciente foi preso preventivamente, em 29.5.2009, pela prática, em tese, dos crimes tipificados nos arts. 33 e 35 da Lei 11.343/2006.
+    Em 29.7.2010, o Juiz de Direito da Vara Criminal da Comarca de Resende/RJ concedeu liberdade provisória aos demais acusados, mas manteve a constrição cautelar do paciente com a finalidade de assegurar a ordem pública.
+    Contra o excesso de prazo para o julgamento, a Defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Rio de Janeiro, que, em 24.8.2010, denegou a ordem pleiteada.
+    Inconformada com a demora no encerramento da instrução criminal, impetrou-se o referido HC 240.568/RJ perante o Superior Tribunal de Justiça, que indeferiu o pedido de tutela emergencial.
+    Colho da decisão hostilizada:
+    “Inviável acolher-se a pretensão sumária, porquanto a motivação que dá suporte ao pedido liminar, consistente no alegado excesso de prazo na instrução criminal, confunde-se com o sustentado e pretendido no mérito do writ, devendo o caso concreto ser analisado mais detalhadamente quando da apreciação e julgamento definitivo do remédio constitucional.
+    Ante o exposto, indefiro a liminar.”
+    O impetrante alega, em suma, possibilidade de afastamento do enunciado da Súmula nº 691/STF em razão do excesso de prazo na prisão cautelar do paciente. Sustenta que Raphael dos Santos Neves está preso há mais de três anos, caracterizando a demora no encerramento da instrução criminal, que se encontra na fase de alegações finais há quase dois anos.
+    Requer, em medida liminar e no mérito, a concessão da ordem, para que se coloque o paciente imediatamente em liberdade.
+    Solicitei informações ao Juízo de Direito da 1ª Vara Criminal da Comarca de Resende/RJ, especialmente sobre a situação atual da Ação Penal 0007347-32.2009.8.19.0045, se já julgada ou não e, se negativo, os motivos do atraso e esclarecimentos específicos sobre o trâmite.
+    Os esclarecimentos da autoridade judiciária, apesar de encaminhados ao Superior Tribunal de Justiça, foram juntados aos autos pela Defesa. Eis o teor das informações:
+    “(...).
+    O Ministério Público ofereceu denúncia contra 52 (cinquenta e dois) acusados, entre eles o ora paciente, todos denunciados pela prática do crime descrito no artigo 35, caput, c/c artigo 40, incisos III, IV, V e VI, da Lei 11.343/06, todos na forma do artigo 69 do Código Penal.
+    O ora paciente e os demais réus foram denunciados em razão de operação deflagrada pela Polícia Federal, com base em investigações prévias baseadas em interceptações telefônicas deferidas por este Juízo.
+    No processo em que o ora paciente foi denunciado, foi realizada AIJ nos dias 19, 20, 21, 22, 26 e 27 de julho de 2010, ocasião em que foram ouvidas todas testemunhas arroladas pelas partes, com a posterior realização dos interrogatórios dos acusados.
+    Ao final da AIJ foram formulados pedidos de liberdade provisória e de revogação da prisão preventiva pelas defesas dos acusados e, após a manifestação do MP, foi mantida a prisão do ora paciente.
+    Na mesma ocasião foi determinado o desmembramento do feito com relação aos réus foragidos e não citados, Jairo Gomes Romão e Rafael Mário Oliveira da Silva.
+    O Ministério Público interpôs recurso em sentido estrito (fls. 1.659/1.674), o qual foi recebido às fls. 1.703.
+    Alegações do Ministério Público às fls. 1.774/1.904.
+    O processo foi remetido à Defensoria Pública no dia 08/11/2011, tendo retornado no dia 11/01/2012, com a apresentação das Alegações Finais de Defesa de outros acusados.
+    O ora paciente apresentou sua Alegações Finais apenas no dia 30/05/2012 e nesta data fora indeferido o pleito de revogação da prisão preventiva do mesmo, face que o próprio paciente vinha dando causa ao atraso no julgamento do presente feito (cópia da decisão em anexo).
+    Resta apenas a apresentação das Alegações Finais de 05 (cinco) corréus, tendo sido determinada a remessa dos autos à Defensoria Pública para apresentação das mesmas.
+    Há de se informar que devido ao elevado número de réus e complexidade, bem como pela inércia da defesa dos acusados, inclusive do ora paciente, o feito ainda não foi sentenciado.
+    Frise-se que com o retorno dos autos da Defensoria Pública, o feito será remetido com a máxima urgência ao Juiz que presidiu a AIJ, a fim de que seja proferida sentença.”
+    É o relatório.
+    Decido.
+    O escopo da Súmula 691/STF é impedir que a impetração sucessiva de habeas corpus, sem que o anterior tenha sido julgado definitivamente, viole princípios processuais fundamentais, como o da hierarquia dos graus de jurisdição e respectivas competências.
+    A jurisprudência desta Suprema Corte, por outro turno, tem abrandado, em casos excepcionais, o rigor do mandamento sumular, conforme se observa nos seguintes precedentes: HC 104.855/CE, rel. Min. Gilmar Mendes, 2ª Turma, DJe 17.10.2011; e HC 96.539/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 06.5.2010.
+    Todavia, não vislumbro a ocorrência de situação autorizadora do afastamento do mencionado verbete.
+    Inicialmente, porque haveria supressão de instância, já que não há decisão definitiva de mérito do Superior Tribunal de Justiça.
+    Por outro lado, em análise sumária, não detecto a manifesta ausência dos pressupostos e fundamentos da prisão preventiva ou ainda o alegado excesso de prazo para encerramento da instrução criminal.
+    Examinado os autos, a denúncia afirma a existência de sólida e estável associação criminosa voltada para o comércio e distribuição de drogas na região sul do Estado do Rio de Janeiro, em especial na Comarca de Resende. A organização delitiva, reconhecida por acentuada periculosidade, inclusive com a utilização de armas de fogo, contava com a atuação de agentes públicos e o envolvimento de menores.
+    De acordo com o Parquet, Raphael dos Santos Neves seria o principal líder do grupo criminoso, gerenciando toda a atividade da organização, desde a aquisição do entorpecente até sua comercialização.
+    Apesar do cumprimento do mandado de prisão preventiva e do recolhimento a estabelecimento prisional, o paciente teria continuado a liderar a associação criminosa com a utilização de aparelhos de telefonia celular. Segundo também consta da denúncia, o paciente articularia a implantação de um “braço” da facção criminosa “Comando Vermelho” na cidade de Resende-RJ, e estaria disposto, consoante algumas conversas interceptadas, a ameaçar pessoas que atrapalhassem interesses, inclusive agentes públicos.
+    Demonstrada a presença dos pressupostos da preventiva, boa prova de materialidade e autoria, o magistrado de primeiro grau justificou a prisão preventiva do paciente essencialmente para a garantia da ordem pública e para a garantia da instrução, conforme art. 312 do Código de Processo Penal.
+    Extraio do decreto da preventiva a informação do envolvimento do paciente inclusive em homicídios de outros membros do grupo criminoso e ainda em ameaças a juízes, promotores e policiais federais. Destaco trecho:
+    “Outrossim, registre-se o teor dos últimos diálogos travados por Rafael, ‘Tio 10’, inequívoco líder de todos os denunciados, que do interior do presídio em que se encontra afirmou que providenciaria a matança de policiais federais, Promotores de Justiça e Juízes de Direito, bem como de familiares destes, tudo em represália à presente operação, o que somente poderia ser levado à termo por meio do auxílio de seus comparas que se encontram soltos, o que reforça a necessidade de prisão de todos os denunciados.”
+    As circunstâncias concretas do delito indicam o envolvimento profundo e profissional do paciente com o tráfico de drogas e, por conseguinte, a periculosidade e o risco de reiteração delitiva, o que justifica a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública.
+    Nesse sentido, existem vários precedentes desta Suprema Corte (v.g.: HC 109.436, Rel. Min. Ayres Britto, 2ª Turma, Dje-036, de 17.02.2012; HC 104.332/ES, Rel. Min. Dias Toffoli, 1ª Turma, Dje-175, de 12.9.2011; HC 98.754/SP, Rel. Min. Ellen Gracie, 2ª Turma, Dje-232, de 10.12.2009). Por todos eles, destaco o seguinte:
+    "Este Supremo Tribunal assentou que a periculosidade do agente evidenciada pelo modus operandi e o risco concreto de reiteração criminosa são motivos idôneos para a manutenção da custódia cautelar.” (HC 110.313/MS, Rel. Min. Carmen Lúcia 1.ª Turma do STF un. - j. 13.12.2011 Dje-032, de 13.02.2012).
+    Doutro lado, as ameaças a operadores do Direito envolvidos no caso evidencia risco à instrução, também causa para a decretação da prisão.
+    Portanto, não reputo manifestamente arbitrária ou ilegal a decretação da prisão preventiva, a justificar a superação da Súmula 691.
+    No tocante ao excesso de prazo para encerramento da instrução criminal, cumpre reconhecer que a prisão cautelar já dura tempo significativo, desde 29.5.2009.
+    Verifico, porém, que o magistrado de primeiro grau justificou razoavelmente o atraso.
+    O polo passivo da ação penal contaria com cinquenta e dois acusados e a denúncia teria por objeto diversos fatos delitivos envolvendo organização criminosa de certa complexidade.
+    Afirma o magistrado que a própria Defesa teria dado causa ao atraso, demorando meses para apresentação de suas alegações finais.
+    A jurisprudência desta Corte possui diversos precedentes no sentido de que a complexidade da causa deve ser considerada na análise de eventual excesso de prazo da custódia do acusado. Entre eles:
+    “Habeas corpus. Processual penal. Crimes de tráfico ilícito de entorpecentes, associação para o tráfico e porte ilegal de arma. Excesso de prazo para o encerramento da instrução criminal. Constrangimento ilegal não configurado. Encerramento da instrução criminal. Complexidade da causa. Precedentes da Corte.
+    1. A jurisprudência desta Suprema Corte assentou que fica prejudicada a alegação de excesso de prazo quando a instrução criminal já chegou ao fim. Ademais, no caso em apreço, afigura-se razoável o prazo para o encerramento da instrução criminal, tendo em vista a complexidade da causa e a pluralidade de réus.
+    2. Habeas corpus denegado.” (HC 97.900/SP, rel. para o acórdão Min. Dias Toffoli, 1ª Turma, DJe 15.04.2010).
+    “HABEAS CORPUS. CONSTITUCIONAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E FINANCIAMENTO AO TRÁFICO. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA: NÃO OCORRÊNCIA. FUNÇÃO DE CHEFIA EM ORGANIZAÇÃO CRIMINOSA: CIRCUNSTÂNCIA SUFICIENTE PARA A MANUTENÇÃO DA CUSTÓDIA CAUTELAR. IRRELEVÂNCIA DE CONDIÇÕES SUBJETIVAS FAVORÁVEIS. INEXISTÊNCIA DE CONFLITO ENTRE AS DECISÕES DO SUPERIOR TRIBUNAL DE JUSTIÇA. ALEGAÇÃO DE EXCESSO DE PRAZO. COMPLEXIDADE DA CAUSA: DEMORA RAZOÁVEL. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.
+    (...)
+    4. Não há constrangimento ilegal por excesso de prazo quando a complexidade da causa, em razão do grande número de réus e da necessidade de expedição de precatórias para a oitiva de testemunhas residentes em outras comarcas, justifica a razoável demora para o encerramento da ação penal. Precedentes.
+    5. Ordem denegada.” (HC 97.967/SP. rel. Min. Cármen Lúcia, 1ª Turma, DJe 15.042010).
+    A razoável duração do processo há de ser sopesada no contexto das peculiaridades do caso concreto, pelo que, na espécie, presentes a complexidade do feito e o fato de a demora ter sido em parte provocada pela própria Defesa do paciente, não concluo, a despeito do tempo decorrido, por situação de manifesta teratologia ou ilegalidade a conduzir, por si só, à superação do entendimento consagrado na Súmula 691 desta Casa. Acresço que, embora outros acusados tenham sido soltos pelo excesso de prazo, se afigura razoável a manutenção da prisão preventiva do paciente pelo magistrado de primeiro grau, diante de sua condição de líder do grupo criminoso.
+    Portanto, não evidenciada a arbitrariedade ou a ilegalidade da decretação e manutenção da prisão do paciente, não se justifica o afastamento do óbice da Súmula 691/STF.
+    Ante o exposto e com base no art. 21, § 1º, do Regimento Interno e na Súmula 691/STF, nego seguimento ao presente habeas corpus.
+    Publique-se.
+    Brasília, 03 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
