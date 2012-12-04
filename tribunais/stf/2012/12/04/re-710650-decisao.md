@@ -1,0 +1,18 @@
+Trata-se de dois recursos extraordinários interpostos de acórdão cuja ementa segue transcrita:
+    “ADMINISTRATIVO. FERROVIÁRIOS. PENSÃO. LEI 8.186/91. INTERPRETAÇÃO EQUIVOCADA. COMPLEMENTAÇÃO DA RENDA MENSAL DO BENEFÍCIO.
+    O art. 2º, parágrafo único, da Lei 8.186/91 assegura a igualdade permanente, no que tange ao reajustamento da aposentadoria complementada.
+    In casu, preenchidas as condição elencada na Lei 8.186/91, o valor efetivo devido deve ser constituído pela diferença entre o valor da aposentadoria paga pelo INSS e o da remuneração do cargo correspondente ao do pessoal em atividade na RFFSA” (fl. 336).
+    No RE do INSS, fundado no art. 102, III, a, da Constituição, sustentou-se ofensa ao art. 5º, XXXVI, da mesma Carta.
+    Por sua vez, no RE da União, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, XXXVI, LIV e LV, 39, 40, 41, 173, § 1º, 195, § 5º, e 202 da mesma Carta.
+    As pretensões recursais não merecem acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, com relação aos arts. 39, 40, 41, 173, § 1º, e 202 da Constituição, verifica-se que não ocorreu o prequestionamento. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Outrossim, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    É certo, ainda, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 8.186/1991). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. FERROVIÁRIOS DA FEPASA. COMPLEMENTAÇÃO DE APOSENTADORIA: REAJUSTE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 666.954-AgR/SP, Rel. Cármen Lúcia, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Ferroviários da FEPASA. Complementação de aposentadoria. Benefício concedido aos servidores em atividade. Extensão aos inativos. 3. Matéria infraconstitucional. Ofensa reflexa. 4. Agravo regimental a que se nega provimento” (AI 436.613-AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma).
+    No mesmo sentido: AI 790.043/PR, Rel. Min. Dias Toffoli; RE 646.114 e RE 643.179/DF, Rel. Min. Luiz Fux; AI 843.995/SC, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
