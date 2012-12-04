@@ -1,0 +1,24 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Marcelo Soares de Azevedo Mascarenhas, em favor de WILSON MEIRELLES ROSA, contra decisão da Ministra Laurita Vaz, que, no AG 1.423.916-ED-ED-ED-AgR/SP, determinou a imediata baixa dos autos, independentemente de publicação do acórdão proferido no recurso anterior.
+    Consta dos autos que o paciente foi condenado à pena de 6 anos de reclusão, em regime inicial fechado, e à perda da função pública (art. 92, I, a e b, do CP), pela prática do crime de concussão, previsto no art. 316 do Código Penal.
+    Inconformada com a sentença condenatória, a defesa apelou para o Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao recurso, apenas para diminuir a reprimenda para 4 anos de reclusão e alterar o regime inicial para o semiaberto, mantendo, no mais, a decisão de primeiro grau. Contra essa acórdão foram opostos embargos de declaração, rejeitados, no entanto.
+    Contra essa decisão a defesa interpôs recurso especial, mas o apelo não foi admitido na origem. Buscando o processamento do recurso extremo, foi ajuizado o AG 1.423.916/SP no Superior Tribunal de Justiça, ocasião em que a Ministra Relatora negou-lhe provimento, entendendo que o recurso era extemporâneo. Manejado agravo regimental, ele também foi improvido. Desse decisum foram opostos três embargos de declaração, mas o último deles não foi recebido pela Ministra Relatora, que determinou a seguinte providência:
+    “Os autos foram-me conclusos em razão da oposição dos terceiros embargos de declaração (fls. 1.802/1.826), após o não conhecimento dos anteriores embargos de declaração, quando determinei '[...] a imediata baixa dos autos ao Juízo de origem, a fim de que se dê prosseguimento à ação penal, independentemente da publicação do acórdão e da interposição de qualquer outro recurso' (fl. 1.797).
+    Com efeito, determino à Coordenadoria da Quinta Turma o cumprimento dessa decisão, com a certificação do respectivo trânsito em julgado.
+    Intimem-se”.
+    É contra esse decisum que se insurge o impetrante.
+    Relata, de início, que o paciente obteve habeas corpus nesta Corte (HC 94.434/SP, Rel. Min. Eros Grau), assegurando-lhe o direito de permanecer em liberdade até o trânsito em julgado da condenação.
+    Sustenta, em seguida, que a decisão ora questionada, além de afrontar a decisão desta Corte proferida no HC antes mencionado, também ofende preceito constitucional “que outorga o devido processo legal e meios a ele inerentes, bem como o acesso a ordem jurídica justa, consagrado no princípio da inafastabilidade da jurisdição”.
+    Alega, outrossim, que não houve “propósito protelatório ou abuso de direito no exercício do acesso recursal (...)”, pois não são temerárias as razões invocadas nos recursos interpostos, “já que houve ERRO JUDICIÁRIO manifesto e contrariedade à própria jurisprudência do Colendo Superior Tribunal de Justiça e também do Supremo Tribunal Federal”.
+    Assevera, ademais, que a decisão da Ministra Relatora, que julgou extemporâneo o agravo de instrumento, incorreu em erro judiciário, uma vez que, quando da interposição do Recurso Especial em 24/3/2008, o acórdão proferido nos embargos declaratórios já havia sido disponibilizado no DJE de 10/3/2008.
+    Daí porque entende que o ato jurisdicional que determinou a certificação do trânsito em julgado de sentença penal condenatória ainda passível de recurso ofende a ordem de habeas corpus concedida por este Tribunal e afronta o art. 5º, LIV, LV e XXXV, da Constituição Federal.
+    Requer, ao final, liminarmente, a suspensão da execução da pena imposta ao paciente, expedindo-se o contramandado de prisão. No mérito, pede a confirmação da liminar pleiteada, com a reabertura do prazo recursal e a intimação da defesa pelo Superior Tribunal de Justiça.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Ademais, os argumentos do impetrante não são suficientes para, a priori, determinar a suspensão da execução da reprimenda imposta ao paciente, especialmente porque o impetrante não instruiu o pedido com todas as peças necessárias ao perfeito entendimento da questão.
+    Diante de tal quadro, e sem prejuízo de uma apreciação mais aprofundada por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Solicitem-se informações à autoridade apontada como coatora, para que encaminhe o inteiro teor dos autos do AG 1.423.916/SP interposto naquele Tribunal.
+    Com a informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
