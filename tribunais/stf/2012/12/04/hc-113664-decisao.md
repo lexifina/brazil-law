@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por ISABEL CRISTINA MILANI CARDOSO, SILVIA HELENA MILANI e SARAH APARECIDA SANTORO MILANI, em nomes próprios, contra decisão do Ministro Haroldo Rodrigues (Desembargador convocado do TJ/CE), do Superior Tribunal de Justiça, que teria negado provimento ao agravo de instrumento interposto contra decisão que não admitiu o recurso especial.
+    As impetrantes/pacientes narram, inicialmente, que foram condenadas pelo crime de furto qualificado de energia elétrica (art. 155, §§ 3º e 4º, I e IV, do CP), com prejuízo avaliado em R$ 276,58. Dizem que, buscando a desclassificação para o delito de furto privilegiado (art. 155, § 2º, do CP), a defesa interpôs apelação para o Tribunal de Justiça do Estado de São Paulo, que negou provimento ao recurso, e, na sequência, recurso especial para o Superior Tribunal de Justiça, mas o recurso não foi admitido na origem.
+    Informam, ademais, que dessa decisão foi interposto agravo de instrumento no STJ, ocasião em que o Ministro Relator negou provimento ao recurso, monocraticamente. Inconformada, a defesa manejou agravo regimental, mas o recurso não foi conhecido, por ser intempestivo.
+    Daí o ajuizamento deste writ.
+    As impetrantes relatam, de início, que, embora o Superior Tribunal de Justiça tenha reconhecido a possibilidade de coexistência das qualificadoras previstas no § 4º do art. 155 e o privilégio do § 2º do mesmo dispositivo, entendeu que o caso não era de furto privilegiado, ante o valor do prejuízo causado, que, à época dos fatos, era superior ao salário mínimo vigente.
+    Argumentam, no entanto, que o valor da coisa furtada não poderia ser utilizado para negar o referido benefício, tendo em vista que este fundamento não foi cogitado nas instâncias anteriores, configurando, assim, reformatio in pejus.
+    Sustentam, ademais, que o valor correto a ser considerado seria somente a diferença entre a avaliação do bem subtraído (R$ 276,58) e o valor do salário mínimo de então (R$ 240,00), ou seja, a quantia de R$ 36,58.
+    Como tese alternativa, asseveram que o prejuízo sofrido é somente o equivalente a 248Kw/h (R$ 88,84), que é a diferença entre a média de energia elétrica gasta pelo estabelecimento comercial em abril e maio de 2001 e 2002 (697Kw/h e 700Kw/h, respectivamente) e o valor medido em abril e maio/2003 (352Kw/h), suposto período da fraude perpetrada pelas impetrantes.
+    Requerem, ao final, liminarmente, a suspensão da execução da reprimenda aplicada. No mérito, pedem a concessão da ordem, a fim de anular a sentença condenatória e o acórdão de segundo grau, determinando-se a análise do valor da coisa furtada para a aplicação do § 2º do art. 155 do Código Penal. Subsidiariamente, postulam a incidência imediata do referido dispositivo, com a substituição da reprimenda por sanção pecuniária ou a redução da pena em 2/3.
+    É o relatório. Decido.
+    Em 29/5/2012, determinei que as impetrantes emendassem a petição inicial, no prazo de 5 dias, sob pena de arquivamento da impetração, nos seguintes termos:
+    “(...)
+    Embora as impetrantes tenham apontado como autoridade coatora o Ministro Haroldo Rodrigues do Superior Tribunal de Justiça, não indicam, especificamente, de qual processo são provenientes os atos decisórios ora questionados. Aliás, não juntaram nenhum documento para instruir a inicial, sendo insuficiente a transcrição isolada de trechos das referidas decisões.
+    Ademais, não informam, sequer, a pena aplicada e o regime prisional fixado na sentença condenatória, o que dificulta, inclusive, a análise da suposta falta de razoabilidade da reprimenda, suscitada na impetração.
+    Com essas considerações, intimem-se as impetrantes, pessoalmente, para que emendem a inicial, no prazo de 5 (cinco) dias, sob pena de arquivamento do habeas corpus”.
+    Em 31/5/2012, contudo, a Secretaria desta Corte certificou a impossibilidade de intimação pessoal das impetrantes, pois não constam dos autos os seus endereços residenciais.
+    Dessa forma, ante a inviabilidade de processamento deste writ, nego-lhe seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
