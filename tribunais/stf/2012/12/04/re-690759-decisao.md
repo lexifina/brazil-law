@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela impossibilidade de se aplicar reajuste de 105,5% a mensalidade de plano de saúde de consumidor que completou sessenta anos de idade, ao entendimento de que tal medida viola o Código de Defesa do Consumidor e o Estatuto do Idoso.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observo que o acórdão recorrido decidiu a controvérsia dos autos nos seguintes termos:
+    “In casu, verifico que a matéria objeto do recurso é controversa na jurisprudência, sendo que a parte minoritária dela se posiciona no sentido de não ser nula a cláusula que determina o reajuste em percentual bem acima da média, pois prevista no contrato e, a outra, majoritária, inclina-se no sentido dela ser ofensiva ao contido no CDC e ao Estatuto do Idoso. No meu entendimento, merece prosperar a segunda posição.
+    Isto porque, a um, o aumento da mensalidade no percentual de 105,5% (cento e cinco e meio por cento) em razão do autor ter atingido a idade de 60 (sessenta) anos é excessivo e ofende o disposto no artigo 51, IV do CDC, que considera nula de pleno direito, a cláusula contratual relativa a fornecimento de produtos e serviços que estabeleça obrigações exageradas, ou seja, incompatíveis com a boa-fé ou a eqüidade.
+    A dois, o referido aumento conflita com o disposto no artigo 15, §3º do Estatuto do Idoso (Lei nº 10.741/2.003), que veda a discriminação do idoso nos planos de saúde pela cobrança de valores diferenciados em razão da idade, lembrando-se que a referida legislação, que na verdade veio dar efetividade ao disposto no artigo 230 da CR/88, deve ser aplicada a quaisquer contratos, sejam anteriores ou posteriores ao seu advento. Observa-se, ainda, que no caso, o contrato fora celebrado em data posterior implemento do estatuto”.
+    Verifica-se, portanto, que a Turma Recursal valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, ante o não cabimento de recurso especial de decisão de Juizado Especial, tornaram-se definitivos os fundamentos infraconstitucionais que ampararam o acórdão recorrido. Incide, no caso, a Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 642.443-AgR/GO, de minha relatoria; AI 587.173-AgR/GO, Rel. Min. Cármen Lúcia; RE 403.818/RJ, Rel. Min. Carlos Velloso.
+    Ademais, para se chegar à conclusão contrária à adotada pelo Tribunal de origem quanto ao momento da celebração do contrato em questão, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
