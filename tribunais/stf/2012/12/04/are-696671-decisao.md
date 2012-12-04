@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Banco ABN Amro Real S.A. interpõe agravo contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, incisos II e LV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Terceiro Colégio Recursal dos Juizados Especiais Cíveis da Capital do Estado de São Paulo, assim ementado:
+    “Descabimento de agravo de instrumento no sistema dos Juizados Especiais, ante a inexistência de previsão legal nesse sentido, bem como ante a aplicação do princípios da celeridade e economia processuais. Reconhecimento da impossibilidade de recurso contra decisão interlocutória, pelo E. Supremo Tribunal Federal, nos autos do RE 576847. Exceção para os caos de decisão teratológica, o que não ocorre no caso presente. O Código de Processo Civil é utilizado apenas subsidiariamente em relação à Lei 9.099/95, que previu apenas e tão somente os embargos à execução para fins de questionamento referente à excesso de execução (art. 52, IX, “b”), sendo impertinente a impugnação e o recurso ora interposto é equivocado. Nulidade inocorrente, pois, pelos mesmos princípios acima citados, a intimação da parte de sua realização, dai a legitimidade do título. Requisitos do artigo 5º, inciso LXXIV, da Constituição Federal, não preenchidos. Por unanimidade, não conheceram do Agravo de Instrumento e afastaram a alegação de nulidade do título” (fl. 69).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por fim, que o Tribunal de origem decidiu a lide amparado nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
