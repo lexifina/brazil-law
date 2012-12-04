@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto de acórdão que manteve sentença ante os seguintes fundamentos:
+    “No caso dos autos, ao que se apresenta, quanto à aposentadoria por invalidez, com data de início em 01.06.1974, embora incluída entre os benefícios favorecidos pelo reajuste disposto no art. 58 do ADCT, evidenciasse que não restou comprovado que a autarquia previdenciária tenha deixado de cumprir a norma em epígrafe. O(A) demandante, sem apoio em qualquer fundamento, cingiu-se a pedir a aplicação do quanto disposto na Súmula 260 do TFR, antes da aplicação do artigo 58 do ADCT, quando houve a regulamentação dos Planos de Custeio e Benefícios pelo Decreto 357/91, sem, contudo, demonstrar o descumprimento do reajustamento previsto no art. 58 do ADCT. Destarte, partindo-se da premissa de que, ordinariamente, o INSS concretizou o invocado reajuste e de que o/a demandante não demonstrou o fato lesivo do direito alegado, não merece acolhimento a pretensão apresentada.
+    Além disso, o recurso do autor limita-se a afirmar que o INSS corrigiu o benefício em questão de forma equivocada, sem contudo apontar onde residiriam tais incorreções, tampouco juntando planilha de cálculo com ao valores que entende corretos. Isto posto, nego provimento ao recurso. Sem condenação em honorários”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 194, parágrafo único, IV, e 201, § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para divergir do acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 do STF, e da legislação infraconstitucional (Decretos 83.080/1979 e 357/1991, Leis 8.212/1991 e 8.213/1991), o que, eventualmente, ensejaria ofensa reflexa à Constituição. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: RE 606.753/SP e RE 652.211/SP, Rel. Min. Dias Toffoli; AI 769.691/SP, Rel. Min. Cezar Peluso; AI 787.773/RJ, Rel. Min. Ellen Gracie; RE 640.348/SP, Rel. Min. Luiz Fux.
+     Isso posto, nego seguimento ao recurso (CPC, art. 557, caput)
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro Ricardo Lewandowski
+- Relator -
