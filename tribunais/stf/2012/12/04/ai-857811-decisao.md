@@ -1,0 +1,12 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “CÍVEL. MANDADO DE SEGURANÇA. INDEFERIMENTO DA INICIAL. DECISÃO MONOCRÁTICA. APLICAÇÃO DO ARTIGO 557, CAPUT, CPC. AGRAVO INTERNO. MERA REPETIÇÃO DO MANDAMUS. JURISPRUDÊNCIA ASSENTADA SOBRE A MATÉRIA. RECURSO CONHECIDO E DESPROVIDO.” (fl. 202)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5 º, LV e LXIX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    No caso, o recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida e julgada pelo Supremo Tribunal Federal. Os Ministros desta Corte, no RE 576.847/BA, Rel. Min. Eros Grau, decidiram que não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei 9.099/95, não havendo afronta ao princípio constitucional da ampla defesa, uma vez que as decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Por oportuno, transcrevo a ementa do referido julgado:
+    “RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. REPERCUSSÃO GERAL RECONHECIDA. MANDADO DE SEGURANÇA. CABIMENTO. DECISÃO LIMINAR NOS JUIZADOS ESPECIAIS. LEI N. 9.099/95. ART. 5º, LV DA CONSTITUIÇÃO DO BRASIL. PRINCÍPIO CONSTITUCIONAL DA AMPLA DEFESA. AUSÊNCIA DE VIOLAÇÃO. 1. Não cabe mandado de segurança das decisões interlocutórias exaradas em processos submetidos ao rito da Lei n. 9.099/95. 2. A Lei n. 9.099/95 está voltada à promoção de celeridade no processamento e julgamento de causas cíveis de complexidade menor. Daí ter consagrado a regra da irrecorribilidade das decisões interlocutórias, inarredável. 3. Não cabe, nos casos por ela abrangidos, aplicação subsidiária do Código de Processo Civil, sob a forma do agravo de instrumento, ou o uso do instituto do mandado de segurança. 4. Não há afronta ao princípio constitucional da ampla defesa (art. 5º, LV da CB), vez que decisões interlocutórias podem ser impugnadas quando da interposição de recurso inominado. Recurso extraordinário a que se nega provimento.”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
