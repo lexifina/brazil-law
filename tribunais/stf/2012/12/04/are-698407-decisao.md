@@ -1,0 +1,14 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 572.884-RG/GO, Rel. Min. RICARDO LEWANDOWSKI, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE CIÊNCIA E TECNOLOGIA – GDACT. CARÁTER ‘PRO LABORE FACIENDO’. EXTENSÃO AOS INATIVOS E PENSIONISTAS EM SEU GRAU MÁXIMO. INADMISSIBILIDADE. GARANTIA DE PERCENTUAL AOS INATIVOS. POSSIBILIDADE. RECURSO EXTRAORDINÁRIO PROVIDO.
+    I - A Gratificação de Desempenho de Atividade de Ciência e Tecnologia – GDACT, instituída pelo art. 19 da Medida Provisória 2.048-26, de 29 de junho de 2000, por ocasião de sua criação, tinha o caráter gratificação pessoal, ‘pro labore faciendo’, e, por esse motivo, não foi estendida, automaticamente, aos já aposentados e pensionistas.
+    II - O art. 60-A, acrescentado pela Lei 10.769/2003 à MP 2.229- -43/2001, estendeu aos inativos a GDACT, no valor correspondente a trinta por cento do percentual máximo aplicado ao padrão da classe em que o servidor estivesse posicionado.
+    III – Dessa forma, não houve redução indevida, pois, como visto, a GDACT é gratificação paga em razão do efetivo exercício do cargo e não havia percentual mínimo assegurado ao servidor em exercício.
+    IV – Recurso extraordinário provido.”
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária diverge, em parte, da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para dar parcial provimento ao recurso extraordinário a que ele se refere (CPC, art. 544, § 4º, II, “c”, na redação dada pela Lei nº 12.322/2010), em ordem a acolher, nos estritos limites fixados no precedente jurisprudencial ora referido na presente decisão, a pretensão de direito material deduzida pela parte recorrente.
+    Tratando-se de sucumbência recíproca, as custas processuais e a verba honorária serão proporcionalmente distribuídas e compensadas entre os litigantes (CPC, art. 21, “caput”).
+    Ressalvo, no entanto, quanto aos encargos resultantes da sucumbência, a hipótese de ser, a parte ora recorrida, eventual beneficiária da gratuidade, caso em que lhe será aplicável a cláusula de exoneração prevista na Lei nº 1.060/50 (art. 3º), observando-se, no que couber, a norma inscrita no art. 12 desse mesmo diploma legislativo, cuja incidência foi reputada compatível com o que dispõe o art. 5º, LXXIV, da Constituição da República (RE 184.841/DF, Rel. Min. SEPÚLVEDA PERTENCE).
+    Publique-se.
+    Brasília, 04 de dezembro de 2012.
+Ministro CELSO DE MELLO
+Relator
