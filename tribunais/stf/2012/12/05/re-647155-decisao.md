@@ -1,0 +1,20 @@
+Trata-se de recurso extraordinário contra acórdão de cuja ementa destaco:
+    “CIVIL. INDENIZAÇÃO. DANOS MATERIAIS E MORAIS – ATROPELAMENTO POR VEÍCULO DA ECT EM SERVIÇO.
+    1. A ECT, como empresa pública que é, prestadora de serviço tipicamente público em regime de monopólio (serviço de entrega de correspondência), responde objetivamente pelos danos causados por ações daqueles que lhe prestam serviço, nos termos do art. 37, § 6º, da Constituição.
+    2. Caso concreto em que um estagiário da ECT (documentos empresa - fls.37 e 40), em serviço, pilotando uma moto, atropelou a Apelada, gerando danos físicos, estéticos e incapacidade para o trabalho (Boletim de Ocorrência). Responsabilidade configurada, não tendo a ECT produzido prova alguma sobre a culpa exclusiva da vítima que apenas alegou.
+    (..)
+    6. Apelação da ECT parcialmente provida para excluir os danos materiais (despesas médicas + pensão de 2 s.m.)” (fl. 217 do e-STJ).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, V e X, 37, § 6º, e 93, IX, da mesma Carta, sob o argumento de que a responsabilidade da recorrente seria subjetiva.
+    Ademais, sustentou-se a ocorrência de culpa exclusiva da vítima, “dada a evidente imprudência do pedestre, que foi causa determinante para o acidente, gerando a excludente” (fl. 276 do e-STJ).
+    Por fim, requereu-se a alteração do valor da condenação, porquanto não foi considerada a culpa, ao menos concorrente, da vítima na causação do atropelamento.
+    A pretensão recursal não merece acolhida.
+     A exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Ademais, para dissentir da conclusão adotada pelo Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 587.311-AgR/RJ e AI 766.051-AgR/SP, Rel. Min. Gilmar Mendes; RE 539.401-AgR/BA, Rel. Min. Ellen Gracie; AI 836.286-AgR/MG, Rel. Min. Cármen Lúcia; e o AI 666.378-AgR/PI, Rel. Min. Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental no agravo de instrumento. Responsabilidade objetiva do Estado. Indenização. Nexo causal. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu pela responsabilidade objetiva da Administração Pública e o consequente dever de indenizar com fundamento nos elementos fáticos-probatórios constantes dos autos. 2. Inadmissível em recurso extraordinário o reexame de fatos e provas. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”.
+    Além disso, o acórdão recorrido está em conformidade com a jurisprudência desta Corte no sentido de que a responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, conforme se observa do julgamento do RE 591.874-RG/MS, de minha relatoria, que porta a seguinte ementa:
+    “CONSTITUCIONAL. RESPONSABILIDADE DO ESTADO. ART. 37, § 6º, DA CONSTITUIÇÃO. PESSOAS JURÍDICAS DE DIREITO PRIVADO PRESTADORAS DE SERVIÇO PÚBLICO. CONCESSIONÁRIO OU PERMISSIONÁRIO DO SERVIÇO DE TRANSPORTE COLETIVO. RESPONSABILIDADE OBJETIVA EM RELAÇÃO A TERCEIROS NÃO-USUÁRIOS DO SERVIÇO. RECURSO DESPROVIDO. I - A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço, segundo decorre do art. 37, § 6º, da Constituição Federal. II - A inequívoca presença do nexo de causalidade entre o ato administrativo e o dano causado ao terceiro não-usuário do serviço público é condição suficiente para estabelecer a responsabilidade objetiva da pessoa jurídica de direito privado. III - Recurso extraordinário desprovido”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
