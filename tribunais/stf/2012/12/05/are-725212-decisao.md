@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “COBRANÇA. PROCESSUAL. COMISSÃO DE CORRETAGEM. VENDA DE IMÓVEL POR PARTE DE INCORPORADORA. INCIDÊNCIA DE REGRAS CONSUMERISTAS. PRESCRIÇÃO DE TRÊS ANOS, NOS TERMOS DO INC. IV DO § 2º DO ART. 206 DO CÓDIGO CIVIL, POR SE TRATAR DE COBRANÇA INDEVIDA, MODALIDADE DE ENIQUECIMENTO SEM CAUSA. RECURSO PROVIDO” (fl. 171).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts.5º, XXXII, 24, VII, e 170, V, da mesma Carta, bem como ao art. 48 do ADCT.
+    A pretensão recursal não merece acolhida. É que este Tribunal fixou o entendimento no sentido de que a questão relativa à prescrição situa-se no campo infraconstitucional. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PRESCRIÇÃO. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. OFENSA REFLEXA. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o reexame da legislação ordinária aplicada à espécie. Logo, afronta à Carta Magna de 1988, se existente, ocorreria de modo reflexo ou indireto, o que não autoriza a abertura da via extraordinária. 2. Agravo regimental desprovido” (AI 663.944-AgR/SP, Rel. Min. Ayres Britto).
+    “Agravo regimental no agravo de instrumento. Prequestionamento. Ausência. Prescrição. Legislação infraconstitucional. Impossibilidade de análise. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356 desta Corte. 2. Para ultrapassar o entendimento firmado pelo Tribunal de origem quanto à questão relativa à incidência da prescrição, seria necessário interpretar a legislação infraconstitucional. Incidência da Súmula nº 279 do Supremo Tribunal Federal. 3. Agravo regimental não provido” (ai 807.332-AgR/SP, Rel. Min Dias Toffoli).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
