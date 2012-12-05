@@ -1,0 +1,18 @@
+Vistos etc.
+    O Tribunal de Justiça do Estado do Paraná deu provimento à apelação interposta pela Companhia ora agravada, firmando o entendimento de que a isenção prevista na Lei 24/1979, editada pelo Município recorrente, é extensível aos imóveis declarados de utilidade pública pelo ente estadual.
+    Nas razões do extraordinário, com base no art. 102, III, da Lei Maior, o Município de São José dos Pinhais sustenta a incidência do IPTU sobre imóvel desapropriado por decreto estadual, tendo em vista que a legislação municipal somente isenta os imóveis declarados como de utilidade pública pelo Município. Argumenta que "quem tem competência para legislar terá legitimidade para conceder eventual isenção" (fl. 229). Aponta ofensa aos arts. 150, VI, "a", e §§ 2º, 3º e 6º, 155, 173, § 1º, II, e § 2º, da Lei Maior.
+    Determinada a devolução dos autos, com fundamento no art. 543-B do CPC, a Companhia Paranaense de Energia - Copel interpôs agravo regimental. Provido o agravo pela egrégia Primeira Turma desta Corte para, superado o óbice da decisão agravada e reautuado o feito como recurso extraordinário, permitir novo exame das razões recursais, vieram os autos conclusos.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Com efeito, ao afirmar a isenção do imóvel em questão com base na Lei Municipal 24/1979, a Corte de origem lançou fundamento infraconstitucional suficiente à manutenção do julgado.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e ARE 647.735-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 27.6.2012, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DO ADICIONAL DE SEXTA PARTE SOBRE A INTEGRALIDADE DOS VENCIMENTOS DE SERVIDOR ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 280 DESTA CORTE. REPERCUSSÃO GERAL REJEITADA. AGRAVO REGIMENTAL DESPROVIDO. 1. A ofensa a direito local não viabiliza o apelo extremo (Súmula 280 do STF). 2. Na hipótese em apreço, o cálculo do adicional de sexta-parte foi solucionado à luz do art. 129 da Constituição do Estado de São Paulo, não desafiando o acórdão, recurso extraordinário. … 5. Embargos de declaração acolhidos para reconhecer a tempestividade o agravo regimental e negar-lhe provimento”.
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
