@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 109, I e III, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:AI 385.274/MT, Rel. Min. Marco Aurélio, 1ª Turma, DJe 08.6.2011, cuja ementa transcrevo:
+    “COMPETÊNCIA – JUSTIÇA FEDERAL. A competência da Justiça Federal é de direito estrito. Prevê o inciso I do artigo 109 da Carta de 1988 o envolvimento, na causa, da União ou de entidade autárquica ou empresa pública federais na condição de autoras, rés, assistentes ou opoentes. A simples possibilidade de ação em curso no Juízo Federal repercutir no resultado de certa lide em que figuram pessoas naturais e pessoa jurídica de direito privado não incluída no rol exaustivo do preceito constitucional não é suficiente à modificação da competência”.
+    Outrossim, o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da inexistência de conexão entre as ações, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: ARE 717.493/RS, Rel. Min. Cármen Lúcia, DJe 16.11.2012; ARE 683.045/RS, Rel. Min. Ricardo Lewandowski, DJe 28.6.2012; AI 829.606-AgR/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 28.6.201; e AI 833.476-AgR/RJ, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 26.10.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL. DISCUSSÃO SOBRE A EXISTÊNCIA DE CONEXÃO E LITISPENDÊNCIA ENTRE AÇÃO DE PRESTAÇÃO DE CONTAS E EXECUÇÃO QUE TRAMITAM EM JUÍZOS DIVERSOS. REEXAME DE PROVAS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE NESTA ESFERA. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido, seria necessário o exame prévio das provas dos autos e da legislação infraconstitucional pertinente. Súmulas 279 e 636 do STF. Agravo regimental a que se nega provimento.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 05 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
