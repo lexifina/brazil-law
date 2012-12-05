@@ -1,0 +1,29 @@
+Decisão.
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 2ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro, assim ementado:
+    “PREVIDENCIÁRIO. PRETENSÃO A AUXÍLIO-DOENÇA. APESAR DE A PERÍCIA MÉDICA JUDICIAL NÃO TER SE REALIZADO EM RAZÃO DO ÓBITO DA AUTORA, A INCAPACIDADE PARA O TRABALHO RESTOU COMPROVADA. DEMANDANTE PORTADORA DE NEOPLASIA MALIGNA, EM TRATAMENTO DE QUIMIOTERAPIA E RADIOTERAPIA JUNTO AO INCA À ÉPOCA DO REQUERIMENTO ADMINISTRATIVO. DANO MORAL CONFIGURADO, EM RAZÃO DE A AUTORA TER SIDO PRIVADA DO BENEFÍCIO DURANTE O PERÍODO DE TRATAMENTO. VALOR DA INDENIZAÇÃO COMPATÍVEL COM O ENUNCIADO Nº 08, DA TRRJ. RECURSOS CONHECIDOS E NÃO PROVIDOS. SENTENÇA MANTIDA.”
+    No recurso extraordinário sustenta-se violação dos artigos 5º, incisos X e XXXVI, 37, caput e § 6º, e 195, § 5º, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Do voto do Relator do acórdão atacado extrai-se a seguinte fundamentação:
+    “No caso em questão, a controvérsia cinge-se à incapacidade da autora para o trabalho.
+    Posto não tenha sido realizada perícia judicial em razão do seu falecimento, os documentos apresentados são suficientes à comprovação de sua incapacidade à época em que formulou requerimento administrativo do benefício – isto é, em 14.1.2010.
+    De fato, o relatório médico emitido pelo INCA (fls. 18) atesta que a Sra. Fátima Solange dos Santos Silva recebeu diagnóstico de neoplasia maligna do colo do útero em 10/12/2008, tendo realizado tratamento de radioterapia no período de 30/04/2009 a 08/06/2009 e de quimioterapia a partir de 21/05/2009.
+    Aduza-se que a certidão de óbito da segurada – de junho de 2010 (fls. 58) - dá como causa da morte neoplasia maligna de colo uterino com metástases.
+    Assim, o INSS claramente se equivocou ao indeferir o benefício em razão de a incapacidade ter sido verificada somente em momento anterior ao requerimento (fls. 22). Resta claro que a autora já estava incapacitada quando requereu o auxílio-doença – 5 meses antes de seu falecimento - sendo devidas, portanto, as parcelas desde o requerimento até o óbito da segurada.
+    Em relação ao dano, a Constituição Federal prevê, em seu art. 37, §6º, a responsabilidade objetiva do Estado pelos atos praticados por seus agentes que, nessa qualidade, venham a causar dano a terceiros, ressalvado o direito de regresso contra o causador do dano.
+    Tratou, pois, de consagrar a Teoria do Risco Administrativo, que impõe ao Estado o dever de indenizar os particulares por danos decorrentes da atividade administrativa, ainda que lícita, não cabendo perquirir-se a respeito da existência de dolo ou culpa na conduta praticada.
+    Neste contexto, a responsabilidade estatal exsurge da simples constatação do ato praticado, do dano experimentado pela vítima e do nexo de causalidade entre a conduta do agente público e o evento danoso, e somente pode ser afastada em casos de fortuito ou de culpa exclusiva da vítima.
+    O dano moral é, segundo a concepção mais afinada com a nova tábua axiológica trazida pela atual Constituição da República, a lesão à dignidade humana.
+    Em que pese meu entendimento no sentido de que o simples indeferimento administrativo do benefício não é, por si só, causador de dano moral, concordo com o Juízo de origem quando afirma que o presente o caso excede os limites da ineficiência toleráveis na atuação administrativa.
+    Isso porque, embora a autora já fosse portadora de neoplasia maligna à época, a perícia do INSS verificou a existência de incapacidade para o trabalho apenas até 30/08/2009, o que inviabilizou a concessão do benefício, vez que requerido somente em 14/01/2010.
+    Assim, a privação de prestação alimentar de pessoa acometida de neoplasia maligna, em tratamento de radioterapia e quimioterapia, é suficiente e para configurar abalo íntimo de intensidade tal que se pode considerá-lo além do suportável”.
+    Assim, verifica-se que o Tribunal de origem decidiu a lide amparado, exclusivamente, nas provas dos autos, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido anote-se:
+    “RESPONSABILIDADE DO ESTADO. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS QUE FUNDAMENTARAM A DECISÃO DO TRIBUNAL A QUO. SÚMULA 279 DESTE SUPREMO TRIBUNAL. AGRAVO REGIMENTAL DESPROVIDO.”(AI nº 477.802/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 9/2/07).
+    “Recurso extraordinário. Agravo regimental. 2. Contaminação de pacientes hemofílicos com o vírus da AIDS em hospital da rede pública. 3. Responsabilidade civil do Estado. Teoria do Risco Administrativo. Condenação com base em laudo pericial. 3. Reexame de fatos e provas. Inviabilidade. Súmula 279. 4. Agravo regimental a que se nega provimento” (RE nº 363.999/RJ-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJ de 8/4/03).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
