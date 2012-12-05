@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios de inadmissibilidade ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “Direito Administrativo. Mandado de Segurança. Suspensão dos descontos previdenciários e do imposto de renda. Agente da Polícia Civil. Exoneração do cargo por motivação política. Anistia. Isenção da contribuição ao INSS e do imposto de renda independentemente de requerimento do interessado (art. 9º da Lei n. 10.559/02 e no Decreto 4.897/03). Precedentes. Direito Líquido e certo reconhecido na r. Sentença recorrida. Recurso conhecido e não provido”. (eDOC 2, p.72)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral e o prequestionamento da matéria. No mérito, alega-se violação aos artigos 18; 24, XII e parágrafos; 40, caput e 195, § 1º, do texto constitucional, e Emenda Constitucional nº 41/2003.
+    Nas razões recursais, defende-se, em síntese, que o recorrido não faz jus a isenção da contribuição previdenciária, tendo em vista que este beneficio previsto no artigo 9º da Lei 10.559/2002 carece de regulamentação. Além disso, sustenta-se que os valores recebidos a título de aposentadoria não possuem caráter indenizatório.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico que o Tribunal de origem decidiu a controvérsia exclusivamente com base na legislação infraconstitucional (art. 9º da Lei 10.559/2002). Assim, para concluir de forma diversa demandaria a análise prévia das mencionadas normas.
+    Desta forma, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. ANISTIADA POLÍTICA. ISENÇÃO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 777.223/GO-, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 23.4.2012).
+    “AGRAVO REGIMENTAL. DIREITO ADMINISTRATIVO. ANISTIADO POLÍTICO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ISENÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. ENUNCIADOS 282 E 356 DA SÚMULA/STF. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA OU INDIRETA. Agravo regimental a que se nega provimento” (AI-AgR 742.256/GO, Segunda Turma, Rel. Min. Joaquim Barbosa, DJe 17.5.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ANISTIADO POLÍTICO. ISENÇÃO FISCAL. NECESSIDADE DO PREQUESTIONAMENTO EXPLÍCITO DA MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE-AgR 573.845/DF, Primeira Turma, Rel. Min. Cármen Lúcia, DJe 5.2.2010).
+    Ademais, ressalta-se que a jusrisprudência desta Corte se firmou no sentido de que a reparação econômica devida aos anistiados políticos possui a natureza indenizatória. Confira-se:
+    “CONSTITUCIONAL ART. 8º, §3º DO ADCT. ANISTIA. REPARAÇÃO ECONÔMICA ÀQUELES QUE FORAM IMPEDIDOS DE EXERCEREM, NA VIDA CIVIL, ATIVIDADE PROFISSIONAL. PORTARIAS RESERVADAS DO MINISTÉRIO DA AERONÁUTICA. MORA DO CONGRESSO NACIONAL. PROJETOS DE LEI VETADOS PELO CHEFE DO PODER EXECUTIVO. WRIT PRETENDE A MUDANÇA DE ORIENTAÇÃO DESTE TRIBUNAL, PARA QUE ESTE FIXE OS LIMITES DA REPARAÇÃO E ACOMPANHE A EXECUÇÃO DO ACÓRDÃO. O TRIBUNAL DECIDIU ASSEGURAR, DE PLANO, O DIREITO À INDENIZAÇÃO, SEM CONSTITUIR EM MORA O CONGRESSO NACIONAL, PARA, MEDIANTE AÇÃO DE LIQUIDAÇÃO, INDEPENDENTEMENTE DE SENTENÇA DE CONDENAÇÃO, A FIXAR O VALOR DA INDENIZAÇÃO. MANDADO DE INJUNÇÃO DEFERIDO EM PARTE”. (MI 543, Rel. Min. Octavio Gallotti, Pleno, DJ 24.05.2002)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente .
