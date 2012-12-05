@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Instituto Nacional do Seguro Social – INSS interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão de Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Distrito Federal, assim ementado:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. PENSÃO POR MORTE. CONCESSÃO ANTERIOR À EDIÇÃO DA LEI Nº 9.032/95. ALTERAÇÃO. PERCENTUAL. NOVA REDAÇÃO DO ARTIGO 75 DA LEI Nº 8.213/91. APLICAÇÃO IMEDIATA DA NORMA SUPERVENIENTE MAIS BENÉFICA. SENTENÇA MANTIDA.
+    O valor mensal da pensão por morte concedida antes da Lei nº 9.032, de 28 de abril de 1995, deve ser revisado de acordo com a nova redação dada ao artigo 75 da Lei nº 8.213, de 24 de julho de 1991. Aplicação ao caso do Enunciado nº 15 da Turma Nacional de Uniformização de Jurisprudência/JEF.
+    Inexiste aplicação retroativa de lei nova para prejudicar ato jurídico perfeito ou suposto direito adquirido por parte da Administração Pública, mas sim incidência imediata de nova norma para regular situação jurídica que, embora tenha se aperfeiçoado no passado, irradia efeitos jurídicos para o futuro. Entendimento do Egrégio Supremo Tribunal Federal (RE 422268 AgR/SP, 1ª Turma, Relator Ministro Eros Grau, DJ de 24/06/2005).
+    Sentença mantida. Acórdão lavrado nos termos do art. 46 da Lei 9.099/95.
+    Recurso não provido. Honorários pelo Recorrente, fixados em 10% (dez por cento) sobre o valor da condenação, excluídas as parcelas vincendas. Aplicação da Súmula 111/STJ.”
+    Opostos embargos de declaração, foram rejeitados.
+    Aduz o recorrente contrariedade aos artigos 5º, incisos XXXVI, LIV e LV, 93, inciso IX, e 195, § 5º, da Constituição Federal, haja vista ser incabível o reajuste pretendido pela autora, ora recorrida.
+    Decido.
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão dos embargos de declaração antes de 3/5/07, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação merece prosperar.
+    Com efeito, no julgamento dos Recursos Extraordinários nºs 415.454/SC e 416.827/SC, realizado em 8/2/07, Relator o Ministro Gilmar Mendes, o Plenário do Supremo Tribunal Federal firmou o entendimento de que a aplicação dos efeitos financeiros introduzidos pela Lei nº 9.032/95 não alcança os benefícios concedidos, ou cujos requisitos foram implementados, antes da sua vigência, devendo ser aplicado o princípio tempus regit actum, tendo em vista que a incidência retroativa da referida lei caracterizaria ofensa aos artigos 5º, inciso XXXVI, e 195, § 5º, da Constituição Federal.
+    Na sessão seguinte, decidiu o Plenário desta Corte que o entendimento acerca da impossibilidade da extensão dos efeitos financeiros da Lei nº 9.032/95 a benefícios previdenciários concedidos em período anterior à sua vigência inclui, além da pensão por morte, a aposentadoria por invalidez e a aposentadoria especial. Nesse sentido, anote-se:
+    “Previdência Social. Benefício previdenciário. Pensão por morte. Aposentadoria por invalidez. Aposentadoria especial. Renda mensal. Valor. Majoração. Aplicação dos arts. 44, 57, § 1º, e 75 da Lei nº 8.213/91, com as alterações da Lei nº 9.032/95, a benefício concedido ou cujos requisitos foram implementados anteriormente ao início de sua vigência. Inadmissibilidade. Violação aos arts. 5º, XXXVI, e 195, § 5º, da CF. Recurso extraordinário provido. Precedentes do Plenário. Os arts. 44, 57, §1º, e 75 da Lei federal nº 8.213/91, com a redação dada pela Lei nº 9.032/95, não se aplicam aos benefícios cujos requisitos de concessão se tenham aperfeiçoado antes do início de sua vigência” (RE nº 470.244/RJ, Relator o Ministro Cezar Peluso, DJ de 23/3/07).
+    Esse entendimento foi confirmado pelo Plenário do Supremo Tribunal Federal no julgamento da Questão de Ordem no RE nº 597.389/SP, Relator o Ministro Gilmar Mendes, em 22/4/09, quando foi reconhecida a repercussão geral da presente questão constitucional.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, conheço do recurso extraordinário e lhe dou provimento para afastar a aplicação da Lei nº 9.032/95 aos benefícios concedidos antes da vigência do referido diploma legal. Custas e honorários advocatícios fixados em 10% sobre o valor da causa pela autora, vencida, observada a regra do artigo 12 da Lei nº 1.060/50.
+    Publique-se.
+    Brasília, 5 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
