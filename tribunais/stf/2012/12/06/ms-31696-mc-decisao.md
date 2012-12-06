@@ -1,0 +1,22 @@
+DECISÃO
+MANDADO DE SEGURANÇA – AUTUAÇÃO.
+APOSENTADORIA – ATOS SEQUENCIAIS – TEMPO DE SERVIÇO E DECADÊNCIA – RELEVÂNCIA NÃO DEMONSTRADA – LIMINAR INDEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    Luiz Gonzaga Teixeira Amaral argui ilegalidade praticada pelo Tribunal de Contas da União e pela Universidade Federal do Pará, em razão do Acórdão nº 4.859/2012, em que se negou registro ao ato administrativo no qual reconhecido o direito à aposentadoria, determinando-se a fixação de proventos proporcionais ao tempo de serviço prestado.
+    Segundo narra, fez parte do quadro funcional da Universidade Federal do Pará até 1996, quando foi aposentado mediante a Portaria nº 2.576/1996, expedida pela mencionada autarquia. Assevera haver sido cientificado, em 2010, da decisão do Tribunal de Contas da União em que indeferida a homologação do ato. Diz da interposição de recurso administrativo, desprovido em 10 de julho de 2012, consoante se vê no pronunciamento impugnado. Assenta que, no acórdão, determinou-se a redução do valor dos proventos, que passaram de 34/35 para 32/33 avos do que percebido pelo cargo paradigma.
+    Sustenta equívoco no cômputo do tempo de serviço por ele prestado. O Tribunal deixara de incluir as três licenças-prêmio não usufruídas às quais teria jus, além de haver realizado a contagem com base em documento contendo erro, pois teria desconsiderado o fator multiplicador decorrente da prestação de serviço em condições insalubres. Alega que a contagem correta é a efetuada pelo Departamento de Pessoal da Universidade Federal do Pará, que levou em conta o tempo fictício ao qual tem direito, conforme a legislação da época.
+    Articula com a nulidade do pronunciamento atacado, ante a decadência do direito de rever a aposentação, presente o lapso de 16 anos entre um e outro, consoante o artigo 54 da Lei nº 9.784/1999. Alude à proteção constitucional à segurança jurídica, a teor do inciso XXXVI do artigo 5º da Carta Federal. Argumenta que o retorno à atividade para a complementação do tempo de aposentadoria traria prejuízos à administração, haja vista a necessidade de readaptação.
+    Sob o ângulo do risco, reporta-se ao fato de possuir 67 anos e de passar a perceber proventos proporcionais em vez de integrais, com prejuízo à subsistência. Busca implemento de liminar para suspender o ato impugnado. No mérito, requer a desconstituição do Acórdão nº 4.859/2012 do Tribunal de Contas da União. Postula a concessão do benefício da gratuidade de justiça.
+    O processo foi inicialmente dirigido ao Juízo da 2ª Vara Federal da Seção Judiciária do Pará. Em 10 de setembro de 2012, foi proferida decisão reconhecendo a competência originária do Supremo Tribunal Federal para o julgamento da causa, conforme o artigo 102, inciso I, alínea “d”, da Constituição Federal. Em 7 de novembro de 2012, Vossa Excelência determinou a juntada do mencionado acórdão, o que foi cumprido pelo impetrante em 20 subsequente.
+    O processo encontra-se concluso para apreciação do pedido de medida acauteladora.
+    2. Inicialmente, consigno a impropriedade de lançar como autoridade coatora o Reitor da Universidade Federal do Pará. Este mandado de segurança está dirigido unicamente contra o ato do Tribunal de Contas da União.
+    No mais, observem os reiterados pronunciamentos do Supremo no sentido de o disposto no artigo 54 da Lei nº 9.784/99 fazer-se ligado a situação constituída. Isso não ocorre quando há atos sequenciais alusivos a aposentadoria, culminando com o de registro pelo Tribunal de Contas da União.
+    Sob o ângulo da matéria de fundo propriamente dita, o que decidido pelo referido Tribunal encontra-se em harmonia com os fatos sopesados e a legislação de regência. O alegado equívoco no cômputo do tempo de serviço mostra-se insubsistente. Em primeiro lugar, em momento algum, foi apreciada a problemática da existência de licenças-prêmio pendentes de fruição. Em segundo lugar, quanto à tomada diferenciada do período de prestação de serviços em condições insalubres, o órgão fiscalizador evidenciou que não há, na espécie, fenômeno relacionado ao serviço público.
+    3. Corrijam a autuação, excluindo como autoridade coatora o Reitor da Universidade Federal do Pará.
+    4. Indefiro a liminar pleiteada.
+    5. Solicitem informações ao Tribunal de Contas da União.
+    6. Com a manifestação, colham o parecer da Procuradoria Geral da República.
+    7. Publiquem.
+Brasília – residência –, 6 de dezembro de 2012, às 3h45.
+Ministro MARCO AURÉLIO
+Relator
