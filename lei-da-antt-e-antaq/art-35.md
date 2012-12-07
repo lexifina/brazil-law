@@ -1,4 +1,4 @@
-Art. 35. O contrato de concessão deverá refletir fielmente as condições do edital e da proposta vencedora e terá como cláusulas essenciais as relativas a:
+Art. 35. O contrato de concessão deverá refletir fielmente as condições do edital e da proposta vencedora e terá como cláusulas essenciais, ressalvado o disposto em legislação específica, as relativas a:
 I - definições do objeto da concessão;
 II - prazo de vigência da concessão e condições para sua prorrogação;
 III - modo, forma e condições de exploração da infra-estrutura e da prestação dos serviços, inclusive quanto à segurança das populações e à preservação do meio ambiente;
