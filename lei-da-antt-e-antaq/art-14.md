@@ -1,4 +1,4 @@
-Art. 14. O disposto no art. 13 aplica-se segundo as diretrizes:
+Art. 14. Ressalvado o disposto em legislação específica, o disposto no art. 13 aplica-se conforme as seguintes diretrizes:
 I - depende de concessão:
 a) a exploração das ferrovias, das rodovias, das vias navegáveis e dos portos organizados que compõem a infra-estrutura do Sistema Nacional de Viação;
 b) o transporte ferroviário de passageiros e cargas associado à exploração da infra-estrutura ferroviária;
@@ -6,12 +6,10 @@ II - (VETADO)
 III - depende de autorização:
 a) (VETADO)
 b) o transporte rodoviário de passageiros, sob regime de afretamento;
-c) a construção e operação de terminais de uso privativo, conforme disposto na Lei nº 8.630, de 25 de fevereiro de 1993;
+c) a construção e a exploração das instalações portuárias de que trata o art. 8º da Medida Provisória nº 595, de 6 de dezembro de 2012.
 d) (VETADO)
 e) o transporte aquaviário;
 f) o transporte ferroviário não regular de passageiros, não associado à exploração da infra-estrutura.
-g) a construção e exploração de Estações de Transbordo de Cargas;
-h) a construção e exploração de Instalação Portuária Pública de Pequeno Porte;
 i) o transporte ferroviário de cargas não associado à exploração da infraestrutura, por operador ferroviário independente; e
 IV - depende de permissão:
 a) o transporte rodoviário coletivo regular de passageiros;

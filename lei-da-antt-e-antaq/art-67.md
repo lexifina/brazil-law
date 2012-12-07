@@ -1,2 +1,2 @@
-Art. 67. As decisões das Diretorias serão tomadas pelo voto da maioria absoluta de seus membros, cabendo ao Diretor-Geral o voto de qualidade, e serão registradas em atas que ficarão disponíveis para conhecimento geral, juntamente com os documentos que as instruam.
-Parágrafo único. Quando a publicidade colocar em risco a segurança do País, ou violar segredo protegido, os registros correspondentes serão mantidos em sigilo.
+Art. 67. As decisões das Diretorias serão tomadas pelo voto da maioria absoluta de seus membros, cabendo ao Diretor-Geral o voto de qualidade, e serão registradas em atas.
+Parágrafo único. As datas, as pautas e as atas das reuniões de Diretoria, assim como os documentos que as instruam, deverão ser objeto de ampla publicidade, inclusive por meio da internet, na forma do regulamento.
