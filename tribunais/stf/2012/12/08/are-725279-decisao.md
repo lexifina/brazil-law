@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA EDITALÍCIA. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DO EDITAL: SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. MÉDICO. ESPECIALIDADE MÉDICA. EDITAL. PRECEDENTES DO STJ. VERBETE N. 83 DA SÚMULA DO STJ. – Inadmissível o recurso especial, quando a jurisprudência do STJ firmou-se no mesmo sentido do aresto recorrido (enunciado n. 83 da Súmula deste Pretório). Agravo regimental improvido”.
+    2. A Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, caput, e inc. II e XXXVI, e 37, inc. II, da Constituição da República.
+    Argumenta que, “como se vê pelo dispositivo legal transcrito, as exigências se resumem ao prévio registro do diploma perante o Ministério da Educação e a respectiva inscrição no Conselho Regional de Medicina”.
+    Afirma que, “ainda que o candidato não cumpra uma exigência editalícia não pautada na lei, tal fato não afronta o princípio isonômico previsto na Constituição Federal, justo porque a exigência é irrazoável para todos os certamistas”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem ao fundamento de incidir as Súmulas 282 e 356 deste Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, aplicável ao processo penal nos termos da Resolução n. 451/2010 do Supremo Tribunal Federal, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre afastar, inicialmente, o fundamento da decisão agravada porque as normas tidas por contrariadas foram debatidas nas instâncias de origem. Todavia, não assiste razão jurídica à Agravante.
+    6. A controvérsia sobre a interpretação de regra de edital de concurso público quanto à exigência de residência médica não pode ser analisada em recurso extraordinário (Súmula n. 454 do Supremo Tribunal).
+    Concluir de modo diverso demandaria o reexame dessas normas e do conjunto fático-probatório constante do processo, o que não viabiliza o recurso extraordinário. Incide a Súmula n. 279 do Supremo Tribunal. Nesse sentido:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. 2. Necessidade de reexame de provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento” (ARE 684.298-AgR/CE, de minha relatoria, Primeira Turma, DJ 14.9.2012, grifos nossos).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 829.036-AgR/MG, de minha relatoria, Primeira Turma, DJ 24.3.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. VALIDADE DE NORMAS DE EDITAL. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. INCIDÊNCIA DAS SÚMULAS STF 279 E 280” (AI 719.268-AgR/SE, Rel. Min. Elen Gracie, Segunda Turma, DJ 19.11.2010).
+    “Ementa: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRETERIÇÃO NA NOMEAÇÃO E POSSE DOS INTEGRANTES. QUEBRA DA ORDEM DE CLASSIFICAÇÃO. ADMINISTRATIVO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. DEMANDA QUE NECESSITA DA ANÁLISE DO EDITAL DE CONCURSO PÚBLICO. ÓBICE DA SÚMULA 454 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF” (AI 847.826-AgR/BA, Rel. Min. Luiz Fux, Primeira Turma, DJ 4.10.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONCURSO PÚBLICO. INTERPRETAÇÃO DE CLÁUSULAS DO EDITAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 720.769-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 17.10.2008, grifos nossos).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de dezembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
