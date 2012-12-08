@@ -1,0 +1,139 @@
+ANEXO - I
+
+TABELAS DE VENCIMENTO BASE DO CARGO PÚBLICO DE JORNALISTA, INTEGRANTE DO GRUPO OCUPACIONAL COMUNICAÇÃO – “GC”
+
+VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+GC-1
+
+2.045,67
+
+GC-2
+
+2.332,07
+
+GC-3
+
+2.658,56
+
+GC-4
+
+3.030,75
+
+VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2013
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+GC-1
+
+2.168,41
+
+GC-2
+
+2.515,36
+
+GC-3
+
+2.917,82
+
+GC-4
+
+3.384,67
+
+VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2014
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+GC-1
+
+2.298,52
+
+GC-2
+
+2.758,22
+
+GC-3
+
+3.309,87
+
+GC-4
+
+3.971,84
+
+ANEXO - II
+
+TABELAS DE VENCIMENTO BASE DO CARGO PÚBLICO DE ASSESSOR JURÍDICO DO ESTADO, DE SIMBOLOGIA – “AJE”
+
+VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+AJE – I
+
+2.572,01
+
+AJE – II
+
+2.932,09
+
+AJE - III
+
+3.342,58
+
+AJE – IV
+
+3.810,54
+
+VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2013
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+AJE – I
+
+2.726,33
+
+AJE – II
+
+3.162,54
+
+AJE - III
+
+3.668,54
+
+AJE – IV
+
+4.255,51
+
+VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2014
+
+Símbolo de Nível
+
+Vencimento Base (R$)
+
+AJE – I
+
+2.889,91
+
+AJE – II
+
+3.467,89
+
+AJE - III
+
+4.161,46
+
+AJE – IV
+
+4.993,76
