@@ -1,0 +1,31 @@
+Decisão: Trata-se de mandado de segurança impetrado por Karoline Hinberg Chagas Guimarães contra ato do Procurador-Geral da República, consubstanciado no Edital n. 28 – PGR/MPU, de 10 de novembro de 2010, que divulgou o resultado final do 6º concurso para provimento dos cargos de Analista e Técnico do Ministério Público da União.
+    A impetrante alega que participou do referido certame, concorrendo para as vagas comuns destinadas ao cargo de Analista Processual, tendo sido aprovada, fora do número de vagas, em todas as etapas do certame.
+    Contudo, afirma que, após a divulgação do resultado final do concurso (10.11.2010), foi se consultar com um médico oftalmologista (12.8.2011), em consulta particular, e veio a ter conhecimento de que possuiria visão monocular.
+    Ressalta ainda que a deficiência era preexistente à realização do certame, a saber:
+     “(...) no momento do certame, a candidata já era portadora de visão monocular, contudo apesar de muitos sintomas e dificuldades com letras e reflexos, não tinha o conhecimento do diagnóstico médico de visão monocular, o que a impossibilitou de se identificar como tal no momento oportuno do certame”. (eDOC 1, p. 9)
+    Por esse motivo, alega que possui direito líquido e certo à recolocação classificatória dentro das vagas destinadas aos portadores de necessidades especiais (PNEs) do certame em questão.
+    Sustenta ainda o seguinte:
+    “(...)A sua recolocação no quadro de PNE, não atinge aos que já estão em exercício. Até o presente momento, dos PNE, foram nomeados os oito primeiros colocados e o reenquadramento da impetrante a colocaria na 19ª posição, conforme documentos anexados”. (eDOC 1, p. 5)
+    Por fim, requer a concessão da segurança para que seja reenquadrada na listagem dos candidatos Portadores de Necessidades Especiais.
+    Decido.
+    De plano, verifica-se que o presente writ é manifestamente incabível.
+    A impetrante alega, em síntese, ter direito líquido e certo de ser enquadrada no resultado final do certame como deficiente física, pois teria descoberto, ainda que quase 1 ano após a homologação do resultado final do concurso, ser portadora de visão monocular.
+    Destaco que o edital de abertura do concurso em questão estabelece regra clara, no sentido de que o candidato que deseja concorrer às vagas destinadas aos portadores de deficiência física deve, entre outras providências, formular o pedido no ato de inscrição e juntar os documentos hábeis a comprovar sua condição especial, a saber:
+    “3.2 Para concorrer a uma dessas vagas, o candidato deverá:
+    a) no ato da inscrição, declarar-se portador de deficiência;
+    b) encaminhar cópia simples do CPF e laudo médico (original ou cópia autenticada em cartório), emitido nos últimos doze meses, atestando a espécie e o grau ou nível da deficiência, com expressa referência ao código correspondente da Classificação Internacional de Doenças (CID-10), bem como à provável causa da deficiência, na forma do subitem 3.2.1 deste edital.
+    c) o candidato com deficiência que necessitar de tempo adicional de, no máximo, uma hora para realização das provas, deverá indicar na solicitação de inscrição e, além de enviar a documentação indicada na letra “b” deste subitem, deverá encaminhar solicitação, por escrito, na forma e no prazo previsto no subitem 5.4.9.1, com justificativa acompanhada de laudo e parecer emitido por especialista da área de sua deficiência que ateste a necessidade de tempo adicional, conforme prevê o parágrafo 2º do artigo 40 do Decreto nº 3.298, de 20 de dezembro de 1999, e suas alterações”.
+    Contudo, a impetrante optou, no momento da inscrição do certame, por não concorrer na condição de deficiente físico, pois ela mesma confessa sequer saber, à época, ser portadora de deficiência.
+    Também não há notícia nos autos de que teria solicitado semelhante pedido perante à Administração.
+    Como se vê, as regras editalícias são expressas no sentido de que não basta o candidato ser portador de deficiência no momento da inscrição. É necessário que assim se declare e que apresente, naquele momento, documentos suficientes que serão apreciados por comissão da banca examinadora. Esse ônus é do candidato e não pode ser transferido à autoridade coatora, nem suprido posteriormente ao procedimento e provas previstos no edital, sob pena de violação ao princípio da isonomia. Eis o que dispõe o item 3.5 do edital do certame:
+    “3.5 A inobservância do disposto no subitem 3.2 deste edital acarretará a perda do direito ao pleito das vagas reservadas aos candidatos em tal condição e o não atendimento às condições especiais necessárias”.
+    É preciso ressaltar que o edital é a lei do certame e vincula tanto a Administração quanto o candidato. Nesse sentido, confira-se o seguinte julgado:
+    “Agravo regimental em mandado de segurança. 2. Concurso público. MPU. 3. Atendimento especial por motivo de crença religiosa. Requerimento realizado pelo candidato fora do prazo previsto no instrumento editalício. 4. O edital é a lei do certame e vincula tanto a Administração Pública quanto os candidatos. 5. Ausência de argumentos suficientes para infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento”. (MS-AgR 29.992, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 29.9.2011)
+    Nesses termos, observo que a simples publicação do edital que divulgou o resultado final do certame não caracteriza ato ilegal ou abusivo, haja vista não ter o condão de violar direito líquido e certo da impetrante, uma vez que a ela própria optou por concorrer às vagas destinadas à ampla concorrência.
+    Ainda que assim não fosse, e se pudesse considerar a publicação de edital que divulgou o resultado final do concurso como ato coator, já teriam transcorrido mais de 120 dias entre a ciência do referido ato dito coator e impetração do presente writ, o que atrairia a decadência prevista no art. 23 da Lei 12.016/2009.
+    Pelo exposto, ante a manifesta ausência de direito líquido e certo da impetrante, nego seguimento ao presente mandado de segurança e julgo prejudicado o pedido liminar (art. 10 da Lei 12.016/2009 e art.21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
