@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário, que impugna acórdão do Tribunal Regional Federal da 4ª Região, ementado nos seguintes termos:
+    “PREVIDENCIÁRIO. PROCESSO ADMINISTRATIVO DE REVISÃO DE BENEFÍCIO. REDUÇÃO DO BENEFÍCIO. DEVIDO PROCESSO LEGAL.
+    O cancelamento ou redução de benefício concedido pelo INSS, antes de devidamente concluso o processo administrativo com esse fim específico, viola o direito do segurado ao devido processo legal do administrado”
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, LIV e LV, do texto constitucional.
+    O recorrente alega que o tribunal de origem teria dado interpretação equivocada aos referidos dispositivos, uma vez que, no presente caso, teria sido devidamente respeitado o direito de defesa do segurado no âmbito do processo administrativo em questão, a saber:
+    “Impende mencionar que a legislação aplicável à matéria foi cumprida pela autarquia que notificou o segurado; oportunizou o prazo de 10 dias para defesa; analisou a defesa, reputando-a, contudo, insuficiente; para, só, então, determinar a revisão e os descontos sobre o benefício, facultando ao segurado o prazo de 30 dias para apresentar recurso à Junta de Recursos da decisão que determinou a suspensão de sua renda mensal, não tendo este recurso efeito suspensivo.
+    Ora, foram devidamente atendidos os princípios do devido processo legal e da ampla defesa.
+    (...)”. (fl. 55)
+    Decido.
+    As razões recursais não merecem prosperar.
+    Com efeito, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Nesse sentido, confiram-se os seguintes precedentes;
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. CONSUMIDOR. PLANO DE SAÚDE. ART. 5º, LV, DA CF. OFENSA REFLEXA. ILEGITIMIDADE PASSIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes. II - A controvérsia relativa à ilegitimidade passiva ad causam situa-se no âmbito da legislação processual ordinária. Precedentes. III - Agravo regimental improvido”. (ARE-ED 691.356, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe 20.11.2012)
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Princípios do devido processo legal, do contraditório e da ampla defesa. Ofensa reflexa. Coisa julgada. Limites objetivos. Matéria infraconstitucional. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. É pacífica a orientação desta Corte no sentido de que não se presta o recurso extraordinário à verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Agravo regimental não provido”. (ARE-AgR 690.152, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 5.12.2012)
+    Ante o exposto, nego provimento ao agravo de instrumento (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
