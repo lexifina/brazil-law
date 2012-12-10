@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo interposto em face de decisão de inadmissibilidade de recurso extraordinário que impugna decisão monocrática referendada pela 1ª Turma Recursal dos Juizados Especiais Federais do Estado do Rio de Janeiro ementada nos seguintes termos:
+    “ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO. FALTA DE REQUISITOS PARA IMPLEMENTAÇÃO DA GDATEM. SENTENÇA IMPROCEDENTE. RECURSO CONHECIDO. PROVIMENTO NEGADO”. (eDOC 1)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas a, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, caput, inserto no texto constitucional.
+    Defende-se, em síntese, violação ao princípio da impessoalidade ao fundamento de que o recorrente esta sendo discriminado pela Administração Pública.
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional (Leis 11.355/2006 e 11.357/2006) e no conjunto fático-probatório dos autos para consignar que o ora recorrente não possui os requisitos para recebimento da GDATEM.
+    Dessa forma, para concluir de forma diversa demandaria a análise prévia das mencionadas normas, bem como o reexame do conjunto fático-probatório dos autos, o que não é possível em sede de recurso extraordinário nos termos da jurisprudência desta Corte e do Enunciado 279. Nesse sentido, cito os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE INCENTIVO À DOCÊNCIA-GID. EXTENSÃO A INATIVOS E PENSIONISTAS. MP 2.020/2000 E LEI 10.187/2001. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. AGRAVO IMPROVIDO. I – A verificação da natureza da Gratificação de Incentivo à Docência - GID e sua eventual extensão a servidores inativos demandaria o reexame das normas infraconstitucionais pertinentes ao caso. Desse modo, a ofensa à Constituição, se ocorrente, seria apenas indireta. II – Agravo regimental improvido.” (RE-AgR 631.766, Rel. Min. Ricardo Lewandowski, DJe 11.4.2011) (grifei)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. SERVIDORES INATIVOS. EXTENSÃO DA GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO – ADMINISTRATIVA – GDATA E DE GRATIFICAÇÃO DESEMPENHO DE ATIVIDADE TÉCNICO-OPERACIONAL EM TECNOLOGIA MILITAR – GDATEM. SÚMULA VINCULANTE N. 20. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO”. (AI-AgR 811.049, Rel. Min. Cármen Lúcia, DJe 24.3.2011) (grifei)
+    “Recurso Extraordinário com Agravo. Constitucional e Administrativo. Gratificação de Desempenho de Atividade de Ciência, Tecnologia, Produção e Inovação em Saúde Pública – GDACTSP. 1) Extensão aos inativos: possibilidade. Precedentes. 2) Natureza jurídica da gratificação: impossibilidade da análise da legislação local e do conjunto probatório. Súmulas n. 279 e 280 do Supremo Tribunal Federal. Agravo ao qual se nega seguimento.” (ARE 706.181, Rel. Min. Cármen Lúcia, DJe 16.11.2012). (grifei)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 806.029, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.11.2010). (grifei)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente .
