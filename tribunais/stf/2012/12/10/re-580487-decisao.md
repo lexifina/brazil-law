@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    União interpõe recurso extraordinário, com fundamento na alínea ‘a’ do permissivo constitucional, contra acórdão da Primeira Turma do Tribunal Regional Federal da 5ª Região, assim ementado:
+    ‘PREVIDENCIÁRIO. PENSÃO ESTATUTÁRIA. INTERESSE DE AGIR COMPROVADO. MANUTENÇÃO DO BENEFÍCIO INTEGRAL.
+    I - O INTERESSE DE AGIR OCORRE QUANDO, ESTANDO, DE ALGUMA FORMA CARACTERIZADA A RESISTÊNCIA DO PEDIDO, SUBSISTE O INTERESSE DO AUTOR PLEITEAR EM JUÍZO. O INDEFERIMENTO DO PEDIDO OU A OMISSÃO EM APRECIÁ-LO TEMPESTIVAMENTE CARACTERIZAM A RESISTÊNCIA, ENSEJANDO A INDISPENSABILIDADE DO PROVIMENTO JURISDICIONAL.
+    II - AS AUTORAS PERCEBIAM O VALOR INTEGRAL DAS PENSÕES ANTES QUE ESTAS PASSASSEM A SER DE RESPONSABILIDADE DO ÓRGÃO DE ORIGEM DO SERVIDOR, RECEBENDO APENAS METADE DESSE VALOR QUANDO OCORREU A MUDANÇA DO ÓRGÃO PAGADOR. DIREITO CLARO AO RECEBIMENTO DAS PENSÕES INTEGRAIS, DE ACORDO COM AS LEIS 3373/58, 6782/80 E 8112/90.
+    III - REMESSA A APELAÇÃO ÀS QUAIS SE NEGA PROVIMENTO. (fl. 65).
+    Alega a recorrente violação do artigo 40, § 5°, da Constituição Federal.
+    Apresentadas contrarrazões (83 a 126), o recurso extraordinário (fls. 107 a 119) foi admitido (fl. 128).
+    Decido.
+    Anote-se, inicialmente, que o acórdão recorrido foi publicado em 9/3/01, conforme expresso na certidão de folha 66, não sendo exigível a demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Merece prosperar a irresignação.
+    As pensões por morte especial e previdenciária são inacumuláveis, uma vez que visam proporcionar aos beneficiários proventos correspondentes aos que o falecido recebia em vida.
+    Assim, é certo que o Tribunal de origem divergiu do entendimento desta Corte, firmado no sentido de que o benefício de pensão por morte corresponderá à totalidade dos vencimentos do servidor à época de seu falecimento, nos termos do artigo 40, § 5º, da Constituição Federal, em sua redação original, até o limite estabelecido em lei. Sobre o tema, anote-se:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PREVIDENCIÁRIO. PENSÃO ESPECIAL (ART. 242 DA LEI Nº 1.711/52 C/C LEI Nº 6.782/80) E PENSÃO POR MORTE. CUMULAÇÃO. LIMITAÇÃO PREVISTA NO ART. 40, § 5º DA CF, EM SUA REDAÇÃO ORIGINAL. 1. A dedução dos benefícios previdenciários da pensão recebida pela recorrida é medida que se impõe em razão de o quantum não poder extrapolar a totalidade dos vencimentos do servidor à época de seu falecimento. Inteligência do art. 40, § 5º da CF, em sua redação original. 2. Recurso provido” (RE nº 241.925/PE, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 3/9/04).
+    “ADMINISTRATIVO. ESTADO DO CEARÁ. POLICIAL MILITAR. PENSÃO. De acordo com o parágrafo 5º do art. 40 da CF, o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido, até o limite estabelecido em lei, cláusula interpretada pelo STF como referida a eventual teto que haja sido estabelecido pelo ente político, na forma do art. 37, XI, da mesma Carta (MI n. 211-8), no caso, sequer mencionado. Alegado descabimento, no cálculo da pensão, de parcelas alusivas a vantagens funcionais, uma das quais incorporável aos proventos da inatividade do servidor e, conseqüentemente, aos proventos, por expressa disposição legal, não havendo como apreciar- se o tratamento legal dispensado às demais, por ausência de elemento nos autos. Agravo improvido”(RE nº 255.550/CE- AgR, Primeira Turma, Relator o Ministro Ilmar Mendes, DJ de 10/11/2000);
+     “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PREVIDENCIÁRIO. PENSÃO ESPECIAL (ART. 242 DA LEI Nº 1.711/52 C/C LEI Nº 6.782/80) E PENSÃO POR MORTE. CUMULAÇÃO. LIMITAÇÃO PREVISTA NO ART. 40, § 5º DA CF, EM SUA REDAÇÃO ORIGINAL. 1. A dedução dos benefícios previdenciários da pensão recebida pela recorrida é medida que se impõe em razão de o quantum não poder extrapolar a totalidade dos vencimentos do servidor à época de seu falecimento. Inteligência do art. 40, § 5º da CF, em sua redação original. 2. Recurso provido ”(RE nº 241.925/PE, Segunda Turma, Relatora a Ministra Ellen Gracie, DJ de 3/9/04).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: RE nº 520.982/PE- AgR, Relator o Ministro Gilmar Mendes, DJe de 11/10/10; e RE nº 592.860/RN, Relator o Ministro Celso de Mello, DJe de 3/2/09.
+    Ante o exposto, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário para determinar a limitação da pensão devida às recorridas à totalidade dos vencimentos percebidos pelo servidor à época de seu falecimento.
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
