@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que porta a seguinte ementa:
+    “APELAÇÃO CÍVEL. AÇÃO DE MODIFICAÇÃO DE CLÁUSULAS CONTRATUAIS. CÉDULA DE CRÉDITO COMERCIAL. CAPITALIZAÇÃO DE JUROS. SÚMULA 99 DO STJ. POSSIBILIDADE. LEI DE USURA. INAPLICABILIDADE. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO AOS BANCOS. MULTA MORATÓRIA. LEI 9.298/96. REDUÇÃO PARA 2%. MODIFICAÇÃO DA SENTENÇA. PROVIMENTO PARCIAL DO RECURSO.
+    Tratando-se de cédula de crédito comercial é permitida a capitalização de juros, desde que prevista de maneira expressa no contrato;
+    As instituições financeiras sujeitam-se a disciplina própria, portanto, a elas não se aplica as disposições do Decreto nº 22.626/33;
+    'É pacífico o entendimento desta Corte no sentido da aplicabilidade das disposições do Código de Defesa do Consumidor aos contratos bancários, estando as instituições financeiras inseridas na definição de prestadores de serviços, nos termos do artigo 3º, § 2º, do aludido diploma legal. (...)' (STJ- AGRESP 237788 – RS- 3ª T- Rel. Min. Castro Filho – DJU 18.02.2002 – p. 00410)” (fl. 171).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, II e XXXVI, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, observo que o art. 5º, II e XXXVI, da Constituição não foi prequestionado. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Quanto à suposta nulidade do acórdão recorrido por ofensa ao art. 93, IX, da Constituição, este Tribunal firmou orientação no sentido de que não há contrariedade ao referido dispositivo, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, transcrevo ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 712.035-AgR/RJ, Rel. Min. Ellen Gracie; AI 529.105-AgR/CE, Rel. Min. Joaquim Barbosa; AI 743.094-AgR/RJ, Rel. Min. Eros Grau; AI 590.140-AgR/SP, Rel. Min. Sepúlveda Pertence; RE 414.618-AgR/RN, Rel. Min. Ayres Britto; RE 520.187-AgR/MG, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
