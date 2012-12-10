@@ -1,0 +1,38 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO. REGIME ESPECIAL DE TRABALHO POLICIAL – RETP. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da 3ª Turma da Fazenda Pública do Colégio Recursal dos Juizados Especiais Cíveis e Criminais de São Paulo:
+    “SERVIDOR PÚBLICO – Decisão que manteve pagamento da RETP aos policiais militares como já se vinha fazendo antes de mudança determinada por Portaria – Modificação de entendimento a respeito da base de cálculo do benefício ilegal – Sentença de procedência, confirmada por seus próprios fundamentos – Recurso da ré não provido” (fl. 255).
+    Consta da decisão de primeiro grau, mantida na instância recursal que:
+    “O regime especial de trabalho policial – RETP – consiste em verdadeira gratificação de caráter geral, ou seja, elevação indireta de remuneração, para os servidores em atividade, por isso com reflexo nos vencimentos.
+    A portaria impugnada [Portaria do Comando Geral da Polícia Militar n. 1-4/02/11, de 1º de junho de 2011], ao excluir do cálculo da RETP os décimos previstos no artigo 133 da Constituição Estadual, incide em ilegalidade, pois a norma em comento preconiza a incorporação definitiva, aos vencimentos, do que se obteve em razão da diferença de remuneração por exercício de cargo ou função superior àquele(a) para a qual se foi admitido, na proporção de um décimo por ano.
+    Não se vislumbra factível que a portaria tenha o condão de revogar o dispositivo constitucional citado, haja vista a superioridade hierárquica da regra em comento.
+    (…)
+    Logo, deve ser afastada a incidência da referida portaria, sob pena de lesão ao direito adquirido.
+    (…)
+    Verifico que a devolução dos descontos efetuados não deve ser em dobro, porque não se vislumbra má-fé da ré, uma vez amparada em portaria somente agora afastada por conta da decisão do feito.
+    Diante do exposto, e pelo mais que dos autos consta, julgo procedente em parte o pedido, para decretar a ilegalidade da portaria PM 1-4/02/11, determinando que a requerida se abstenha de aplicá-la ao calcular os vencimentos da parte autora, ou seja,de realizar qualquer desconto, recálculo ou corte nos vencimentos dos requerentes, em função de tal ato normativo. Ademais, condeno a ré a restituir valores descontados a partir da vigência da tal portaria, no que concerne à incorporação dos décimos de hora aula aos vencimentos do requerente, nos exatos moldes do cálculo de fl. 21, para cada autor, totalizando R$ 5.305,96, com incidência de correção monetária a partir do ajuizamento, e de juros de mora a partir da citação, obedecendo-se à Lei n. 11.960/09” (fls. 174-175).
+    Não foram opostos embargos de declaração.
+    2. O Agravante afirma que a Turma Recursal de origem teria contrariado os arts. 2º, 5º, caput, inc. II e XXXVI, e 37, caput e inc. XV, da Constituição da República.
+    Assevera que “o entendimento de não atendimento de pressuposto formal de admissibilidade, de não indicação do texto constitucional violado e de ofensa direta a este, de prequestionamento e de inexistência de repercussão geral, sucumbe diante da mera leitura do recurso extraordinário interposto. Isso porque estão presentes todos os requisitos extrínsecos e intrínsecos necessários à admissibilidade do mesmo” (fl. 289).
+    Argumenta, no recurso extraordinário, que:
+    “A Portaria do Comando Geral da Polícia Militar CMTG PM 1-4/02/11 de 1º de junho de 2011, foi editada para corrigir, nos termos do parecer PA 25/2011 exarado pela Procuradoria Geral do Estado (…) a correção de valores que os recorridos recebiam equivocadamente.
+    (…)
+    Importa-nos ressaltar que a Administração tem o poder de autotutela e, uma vez sobrevindo o entendimento de que o pagamento de determinada parcela de servidores está sendo feito de forma incorreta, em prejuízo ao erário, não há que se falar em prescrição, pela possibilidade de revisão dos atos administrativos a teor da Súmula 473 do STF.
+    (…)
+    Com relação à sistemática de cálculo do RETP, a solução apresenta-se a partir da mera leitura da Lei Complementar nº 731, de 26 de outubro de 1993 (…) O Estado de São Paulo apenas está aplicando a lei de regência da vantagem pecuniária e não diminuiu a sua percentagem, apenas afastou valores pagos indevidamente a alguns servidores, porquanto o equívoco no pagamento não reverteria em benefício de toda a Corporação” (fls.261-264).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) ausência de “efetiva ‘demonstração do cabimento do recurso interposto’ (...)”; b) insuficiência da preliminar de repercussão geral; c) circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta; e d) incidência das Súmulas n. 282 e 283 do Supremo Tribunal Federal (fls.273-280).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia de legislação infraconstitucional aplicadas à espécie (Lei Complementar Estadual n. 731/1993 e Portaria n. 1-4/02/11, do Comando Geral da Polícia Militar do Estado de São Paulo). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o recurso extraordinário. Nesse sentido:
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Prequestionamento. Falta. Agravo regimental não provido. Aplicação das súmulas nºs 282 e 356. Não se admite RE quando falte prequestionamento da matéria constitucional invocada. 2. RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Vencimentos. Vantagens devidas: Gratificação do Regime Especial de Trabalho Policial - RETP, adicionais por tempo de serviço e sexta-parte. Interpretação de lei local. Agravo regimental não provido. Aplicação da súmula nº 280. Não cabe RE que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República” (AI 224.807-AgR, Rel. Min. Cezar Peluso, Primeira Turma, DJ 5.3.2004).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. CONCESSÃO DE PROMOÇÃO NO MESMO ATO QUE REMETE À RESERVA REMUNERADA. 1. JULGADO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 703.877-AgR, de minha relatoria, Segunda Turma, DJe 26.9.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
