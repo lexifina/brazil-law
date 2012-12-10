@@ -1,0 +1,23 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por SÉRGIO SORGI FILHO, em nome próprio, contra decisão do Ministro Relator do HC 171.302/SP, que teria majorado a sua reprimenda.
+    Consta dos autos que o impetrante/paciente foi condenado à pena total de 11 anos e 3 meses de reclusão, em regime inicial fechado, pela prática dos delitos de roubo triplamente qualificado (art. 157, § 2°, I, II e V, combinado com o art. 71 do CP) e falsificação de documento público (art. 297 do CP), em concurso material (art. 69 do CP), sem o direito de recorrer em liberdade.
+    Inconformadas, acusação e defesa apelaram para o Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso ministerial para reconhecer a ocorrência de roubo tentado e roubo consumado, em concurso material, e parcial provimento ao recurso defensivo para absolver o impetrante/paciente do crime de falsificação (art. 297 do CP), redimensionando a pena total para 9 anos e 8 meses de reclusão. Esse acórdão transitou em julgado em 17/6/2007.
+    Insatisfeita, a defesa ajuizou revisão criminal na Corte estadual, que, por unanimidade, deferiu parcialmente o pedido, reduzindo a reprimenda referente ao roubo consumado para 5 anos e 8 meses de reclusão e ao roubo tentado para 1 ano e 10 meses de reclusão.
+    Insistindo nas teses defensivas, o impetrante/paciente manejou o HC 171.302/SP no Superior Tribunal de Justiça, ocasião em que o Ministro Sebastião Reis Júnior, por decisão monocrática, concedeu a ordem, para reduzir a majoração das reprimendas, pelas causas de aumento, à fração mínima de um 1/3, “ficando a pena privativa de liberdade do paciente redimensionada para 7 anos, 1 mês e 10 dias, e a multa para 17 dias-multa, no mínimo legal”.
+    Impetrado novo writ no STJ, a Ministra Laurita Vaz entendeu que o caso era de não conhecimento da impetração, pois aquele Tribunal “não tem competência para apreciar habeas corpus em que se aponta a ilegalidade de seus atos, mas sim o Supremo Tribunal Federal (art. 102, inciso II, alínea a, da Constituição da República)”, determinando a remessa dos autos para esta Corte.
+    O impetrante/paciente alega, inicialmente, que “com a cassação do aresto da revisão criminal as penas anteriores resultaram em aumento da reprimenda, o que é inadmissível em nosso ordenamento pátrio”.
+    Destaca, em seguida, que,
+    “(...) na sentença, o paciente foi condenado a pena de 11 anos e 3 meses; na apelação criminal, em 9 anos e 8 meses, e na revisão criminal cassada pelo HC 171.302, o paciente encontrava-se condenado à pena total de 7 anos e 6 meses.
+    Logo, de plano, percebe-se o chamado reformatio in pejus”.
+    Aduz, por fim, que os fundamentos que levaram à anulação do acórdão da revisão criminal “são extensivos ao aresto da apelação e à sentença condenatória, posto que nenhum deles refere o motivo da contradição da vítima Renato Bellio entre o depoimento prestado no 91º DP e no 5º DP/SP, em flagrante constrangimento ilegal (art. 93, IX, da CF)”.
+    Requer, ao final, liminarmente, seja-lhe permitido aguardar em liberdade o julgamento deste writ. No mérito, pede o reconhecimento da prescrição da pretensão executória, tendo em vista as comutações de penas ocorridas nos autos da execução penal, que reduziram as reprimendas do roubo consumado para menos de 4 anos e do roubo tentado para menos de 1 ano de reclusão. Postula, ainda, seja constituído Defensor Público da União para patrocinar a causa.
+    É o breve relatório. Decido.
+    Bem examinados os autos, tenho que o habeas corpus não comporta conhecimento. Isso porque o impetrante/paciente não indicou claramente qual o ato causador do agravamento da sua reprimenda, que estaria a configurar reformatio in pejus.
+    Nesse contexto, verifico que o acórdão proferido pelo Superior Tribunal de Justiça no HC 171.302/SP concedeu-lhe parcialmente a ordem, para diminuir a pena total de 7 anos e 6 meses, fixada em revisão criminal pelo TJ/SP, para 7 anos e 1 mês de reclusão. Não houve, assim, qualquer reforma para pior. Pelo contrário.
+    Se, após esse julgamento, houve algum ato que agravou, indevidamente, a situação do impetrante/paciente, este não foi adequadamente apontado, o que inviabiliza o conhecimento desta impetração.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento a este writ. Prejudicado o exame da medida liminar.
+    Comunique-se o inteiro teor desta decisão ao impetrante/paciente.
+    Remeta-se cópia destes autos à Defensoria Pública do Estado de São Paulo, para que tome as providências que entender necessárias.
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
