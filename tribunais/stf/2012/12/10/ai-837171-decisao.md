@@ -1,0 +1,20 @@
+Decisão.
+    Vistos.
+    Estado de Minas Gerais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 2º da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado, assim ementado na parte que interessa:
+    “Reexame necessário. Apelação Cível. Mandado de segurança. Administrativo. Concurso Público. Agente penitenciário. Desclassificação do candidato, na etapa de análise da vida pregressa, em razão ter respondido por processo criminal com transação penal. Impossibilidade. Outras informações favoráveis sobre a conduta moral e social do candidato”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    O voto vencedor do acórdão recorrido, ao decidir a controvérsia em tela, consignou expressamente que:
+    “Dentro deste contexto, então, a extinção da punibilidade do delito supostamente cometido pelo réu elimina a perspectiva de ser excluído do certame, na medida em que a Administração deve respeito ao postulado da presunção de inocência especialmente quando o poder persecutório do Estado não mais pode ser concretizado”.
+    Desse modo, verifica-se que o o entendimento firmado pelo Tribunal de origem encontra respaldo na jurisprudência desta Corte, no sentido de que viola o princípio da presunção de inocência a exclusão de candidato, inscrito certame público, que responda a inquérito ou ação penal sem trânsito em julgado de sentença condenatória. A transação penal, em si, possui mero caráter homologatório e, portanto, não pode ser considerada decisão de condenação transitada em julgado. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. POLÍCIA MILITAR. CANDIDATO. ELIMINAÇÃO. INVESTIGAÇÃO SOCIAL. ART. 5º, LVII, DA CF. VIOLAÇÃO. I - Viola o princípio constitucional da presunção da inocência, previsto no art. 5º, LVII, da Constituição Federal, a exclusão de candidato de concurso público que responde a inquérito ou ação penal sem trânsito em julgado da sentença condenatória. Precedentes. II - Agravo regimental improvido” (RE nº 559.135/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 13/6/08).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. DELEGADO DA POLÍCIA CIVIL. INQUÉRITO POLICIAL. EXCLUSÃO DO CERTAME. VIOLAÇÃO DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. O Supremo Tribunal Federal fixou entendimento no sentido de que viola o princípio constitucional da presunção de inocência a exclusão de candidato de concurso público que responde a inquérito ou ação penal sem trânsito em julgado da sentença condenatória. Precedentes. Agravo regimental a que se nega provimento” (AI nº 769.433/CE-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/2/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE PENITENCIÁRIO DO DF. INVESTIGAÇÃO SOCIAL E FUNCIONAL. SENTENÇA PENAL EXTINTIVA DE PUNIBILIDADE. OFENSA DIRETA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. MATÉRIA INCONTROVERSA. NÃO INCIDÊNCIA DA SÚMULA 279. AGRAVO IMPROVIDO. I – Viola o princípio constitucional da presunção da inocência, previsto no art. 5º, LVII, da Constituição Federal a exclusão de candidato de concurso público que foi beneficiado por sentença penal extintiva de punibilidade. II - A Súmula 279 revela-se inaplicável quando os fatos da causa são incontroversos, tendo o Tribunal a quo atribuído a eles consequências jurídicas discrepantes do entendimento desta Corte. III - Agravo regimental improvido” (RE nº 450.971/DF-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 21/2/11).
+    No mesmo sentido, em casos semelhantes ao dos autos, anotem-se as seguintes decisões monocráticas: AI nº 855.448/RJ, Relator o Ministro Luiz Fux, DJe de 6/6/12; e ARE nº 677421/RJ, Relator o Ministro Ayres Britto, DJe de 11/4/12.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
