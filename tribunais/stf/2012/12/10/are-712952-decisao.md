@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “AGRAVO LEGAL. AGRAVO DE INSTUMENTO. DEPÓSITO JUDICIAL DENTRO DO PRAZO DE VENCIMENTO DO TRIBUTO. LEI N. 11.941/2009.
+    1. Nos termos do STJ no RESp 1251513 c/c art. 543C, do CPC: A remissão de juros de mora insertos dentro da composição do crédito tributário não enseja o resgate de juros remuneratórios incidentes sobre o depósito judicial feito para suspender a exigibilidade desse mesmo crédito tributário. O pleito não encontra guarida no art. 10, parágrafo único, da Lei n. 11.941/2009. Em outras palavras: 'Os eventuais juros compensatórios derivados de supostas aplicações do dinheiro depositado a título de depósito na forma do inciso II do artigo 151 do CTN não pertencem aos contribuintes-depositantes. ' (REsp. n.º 392.879 - RS, Primeira Turma, Rel. Min. Luiz Fux, julgado em 13.8.2002).
+    2. No presente caso, tem-se que os depósitos judiciais foram feitos dentro do prazo de vencimento do tributo, conforme relata a inicial do presente recurso, logo, não há que se falar em juros moratórios.
+    3. Não se trata depósito relativo a tributos pagos com atraso, os quais incluiriam multa e juros moratórios a possibilitar a aplicação do art. 1º, § 3º, da Lei nº 11.941/2009. Mas, sim, de depósitos efetuados nas datas dos respectivos vencimentos, equivalentes à obrigação principal, realizados sem a incidência de juros, multa ou encargo legal, não havendo, desta forma, direito a qualquer levantamento, consoante fundamentação supra” (fl. 44).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, e 150, II, da mesma Carta.
+    A pretensão recursal não merece acolhida. O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional e Lei 11.941/2009). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àqueles diplomas legais pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito o AI 823.418/PR, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
