@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Estado do Amazonas interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão das Câmaras Reunidas do Tribunal de Justiça daquele Estado, assim ementado:
+    "DIREITO CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. FUNCIONÁRIO PÚBLICO ESTADUAL EM DISPONIBILIDADE ANTERIOR À EMENDA CONSTITUCIONAL Nº 19/1998. DIREITO ADQUIRIDO.
+    Preliminares de inépcia da inicial, ilegitimidade passiva ad causam e ausência de prova pré-constituída. Rejeitadas. Posto em disponibilidade através de ato jurídico perfeito, com direito a salário integral, de acordo com as normas então vigentes, anteriores à promulgação da Emenda Constitucional nº 19, que deu nova redação ao art. 40, § 3º, da CF, está, o respectivo funcionário público protegido pelo instituto do Direito Adquirido, tornando-se indevida, pois, qualquer redução salarial, seja por ato administrativo judicial ou normativo, ainda que se alegue norma constitucional. Mandado de segurança concedido." (fl. 83)
+    Alega o recorrente violação dos artigos 5º, incisos XXXVI e LIV, e 93, inciso IX, da Constituição Federal, uma vez que “o servidor público em disponibilidade ANTES da entrada em vigor da Emenda Constitucional federal n° 19, de 4.6.1998, embora tenha direito aos proventos integrais do cargo extinto, NÃO tem direito adquirido a paridade remuneratória aludida no parágrafo anterior, por absoluta ausência de previsão constitucional ou legal” (fl. 151).
+    Contrarrazoado (fls. 162 a 170), o recurso extraordinário (fls. 141 a 152) foi admitido (fls. 172 a 174).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    Não houve negativa de prestação jurisdicional ou inexistência de motivação no acórdão recorrido, uma vez que a jurisdição foi prestada, no caso, mediante decisão suficientemente motivada, não obstante contrária à pretensão do recorrente, tendo o Tribunal de origem justificado suas razões de decidir.
+    Anote-se que o referido artigo 93, inciso IX, da Constituição Federal não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Ademais o acórdão recorrido decidiu em sintonia com a jurisprudência desta Corte, firme no sentido de que servidor colocado em disponibilidade em período anterior a entrada em vigor da Emenda Constitucional n° 19/98, tem direito a perceber remuneração integral até seu adequado aproveitamento em outro cargo. Nesse sentido: RE n° 362.297/AM Relator o Ministro Carlos Velloso, DJ de 19/9/05; RE n° 316.344/GO, Relator o Ministro Sepúlveda Pertence, DJ de 15/6/07; e RE n° 394.926/RJ, Relator o Ministro Cezar Peluso, DJ de 19/8/08.
+    Importante ressaltar que o questionamento sobre qual seria a remuneração integral a ser paga ao recorrido, não pode ser aqui deduzida, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida questão, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
