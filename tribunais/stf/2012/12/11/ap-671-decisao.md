@@ -1,0 +1,9 @@
+Decisão: O acusado Luiz Maia de Oliveira requer a revogação do afastamento cautelar de suas funções de Sub-Tenente da Polícia Militar do Estado do Amazonas, determinado pelo Juízo da 2ª Vara Especializada em Crimes de Uso e Tráfico de Entorpecentes da Comarca de Manaus/AM, sob o fundamento de que o juiz de primeiro grau não justificou em sua decisão a necessidade do afastamento, limitando-se a afirmar que o acusado poderia influenciar de modo negativo a instrução probatória.
+    Manifestação do Ministério Público Federal às fls. 6006/6009, pelo indeferimento do pedido, tendo em conta que “A função exercida pelo acusado era de extrema importância para a organização criminosa, pois era por seu intermédio que os demais acusados alcançavam grande parte de seus intentos delitivos”, razão pela qual, o seu retorno aos quadros da Polícia Militar “certamente acarretará sérios riscos à instrução criminal que ainda está em andamento, haja vista o poder de intimidação que o exercício do cargo lhe proporciona [...]”
+    O Juízo de primeiro grau fundamentou o afastamento cautelar dos acusados de suas funções como policiais militares no fato de que, “no pleno exercício do cargo que ocupam, poderiam influenciar de maneira negativa na colheita de provas, atrapalhando assim o caminhar da instrução criminal”.
+    Considerando que ainda há testemunhas a serem ouvidas em Manaus/AM, conforme carta de ordem expedida em cumprimento ao despacho de fls. 5911/5922, não tendo havido ainda, portanto, o encerramento da instrução, e tendo em conta, por outro lado, pela natureza do delito imputado ao acusado – associação para o tráfico - que se mostra razoável o afastamento da função policial como medida cautelar enquanto se ouvem as testemunhas, indefiro o pedido.
+    Publique-se. Int..
+    Brasília, 11 de dezembro de 2012
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
