@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 155, § 2º, I, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O acórdão recorrido possui a seguinte ementa:
+    “Agravo interno na Apelação Cível alvejando Decisão proferida pelo Relator que negou seguimento ao recurso. Processo civil e Tributário. Execução fiscal. ICMS. Crédito Escritural. Correção Monetária. Impossibilidade. Precedentes do Superior Tribunal de Justiça. Os créditos escriturais, insuscetíveis de correção monetária, são provenientes do saldo positivo de natureza fiscal obtido pelo contribuinte dentro de cada período de apuração do ICMS. Segundo a pacífica orientação jurisprudencial, o contribuinte não tem o direitos de proceder à atualização monetária de seus créditos escriturais, exceto se houver expressa previsão legal. Em regra, os créditos e débitos, registrados no período de apuração fiscal, devem ser tomados pelo seu valor nominal, por observância do princípio da não cumulatividade. Decisão desprovida de ilegalidade, abuso ou desvio de poder, prolatada dentro da competência do relator, não passível, na hipótese, de modificação.”
+    O entendimento adotado pelo Tribunal de origem não diverge da jurisprudência firmada no âmbito desta Suprema Corte, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “EMENTA: RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ICMS. IMPOSSIBILIDADE DE EXIGÊNCIA DE CORREÇÃO MONETÁRIA DE CRÉDITOS ESCRITURAIS. PRECEDENTES DAS TURMAS DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO PROVIDO. 1. A incidência de correção monetária sobre o crédito foi objeto de apreciação anterior deste Supremo Tribunal, concluindo-se no sentido de que, em se tratando de irregular lançamento de crédito em decorrência do recolhimento do ICMS, não há incidência de correção no momento da compensação com o tributo devido. 2. Essas operações de creditamento têm natureza meramente contábil: são os chamados créditos escriturais. Aplica-se a eles técnica de contabilização para viabilizar a equação entre débitos e créditos, para fazer valer o princípio da não-cumulatividade.” (RE 386.475, Pleno, redatora para o acórdão Min. Cármen Lúcia, DJe 22.6.2007)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 11 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
