@@ -1,0 +1,23 @@
+Decisão: Trata-se de mandado de segurança, impetrado Kauanne Bruna Armenio de Nazereth, menor púbere, representada por sua mãe Amanda Armenio da Silva, contra ato do Tribunal de Contas da União, consubstanciado no Ofício SEFIP-D/344-2, de 13.7.2012, extraído do processo nº TC 015.496/2012-0.
+    Alega-se que a impetrante é menor de idade (16 anos) e beneficiária de pensão por morte. Contudo, o TCU, ao fundamento de ter detectado irregularidades na concessão de seu benefício de pensão por morte, a intimou, em nome próprio, para se manifestar em processo administrativo, no prazo de 15 (quinze) dias.
+    Contudo, assevera que, por força do art. 10 da Lei 9784/99, somente os maiores de 18 (anos) têm capacidade para figurar, em nome próprio, em processos administrativos.
+    Além disso, afirma que não conseguiu obter cópia do inteiro teor do processo administrativo, para que pudesse realizar sua defesa, conforme documentos juntados aos autos.
+    Dessa forma, busca-se “unicamente assegurar o pleno acesso à ampla defesa, ao contraditório e ao devido processo legal, espera e confia que o prazo para se manifestar sobre o processo administrativo nº TC 015.496/2012-0 apenas comece a fluir após a autoridade coatora disponibilizar cópia integral dos autos no NERJ/MS – Núcleo Estadual no Rio de Janeiro do Ministério da Saúde para a impetrante.”
+    Notificada, a autoridade coatora prestou informações.
+    Decido.
+    No presente writ, busca-se impugnar o ato de intimação feito à impetrante pelo TCU, em relação a processo que tramita naquela Corte de Contas e que teria detectado irregularidades na concessão de seu benefício de pensão por morte. Alega-se nulidade da intimação, em razão de ser a impetrante menor púbere e não poder ser intimada pessoalmente, nos termos do art. 10 da Lei 9784/99.
+    Além disso, alega-se que a autoridade coatora estaria a determinar prazo de resposta para a impetrante, sem conceder-lhe acesso ao processo administrativo em questão.
+    De fato, colhe-se dos autos que a impetrante foi notificada pessoalmente, em nome próprio, para defender seus interesses em processo administrativo no âmbito do TCU.
+    Notificada, a autoridade coatora informou que buscou regularizar a situação, procedendo a uma nova intimação, em nome de sua representante legal, bem como renovou o prazo de defesa, de 15 (quinze) dias a contar do recebimento da nova intimação, a saber:
+    “(...) 7. Ocorre que a Secretaria e Fiscalização de Pessoal do TCU – SEFIP procedeu a uma nova comunicação em nome da representante legal da impetrante, Dra. Amanda Armenio da Silva, por meio do Ofício nº SEFIP-D1/374, de 13.9.2012 (doc.1), devolvendo, inclusive, o prazo de 15 dias a contar do recebimento do citado expediente para apresentação de esclarecimentos quanto à percepção de pensão pela impetrante.
+    8. Anteriormente, a unidade técnica do TCU já havia autorizado por meio do expediente datado de 29.8.2012, a prorrogação do prazo de 15 dias do prazo para apresentação de esclarecimentos, bem como disponibilizara cópia digitalizada do TC 015.496/2012-0, a fim de que a impetrante pudesse exercer plenamente seu direito constitucional de ampla defesa.”
+    Como se vê, a autoridade coatora procedeu à nova intimação, regularizou os erros anteriormente cometidos e informou ter disponibilizado acesso ao inteiro teor do processo administrativo, a fim de que a impetrante tivesse condições de realizar sua defesa de forma ampla e fundamentada.
+    Consta dos autos, ainda, como anexos das informações prestadas, cópia da nova intimação feita à impetrante, regularizada nos termos em que requerido na petição inicial, bem como cópia de intimação ao advogado da impetrante, dando-lhe ciência de que já seria possível obter cópia integral digitalizada do processo administrativo na SECEX-RJ (eDoc 9, p. 7-8).
+    Dessa forma, tendo em vista que a autoridade coatora anuiu integralmente ao pleito da impetrante, verifica-se desde logo a perda superveniente de objeto da presente medida, pois o ato impugnado foi substituído por outro (nova intimação que atendeu aos parâmetros exigidos pela impetrante), e a autoridade coatora expressamente assevera ter colocado à disposição da impetrante cópia integral do processo administrativo para defesa de seus interesses no decurso do novo prazo concedido (conforme documentos juntados aos autos).
+    Ante o exposto, julgo prejudicado o pedido, por perda superveniente de objeto (art. 21, IX, RISTF).
+    Após o trânsito em julgado, arquivem-se os autos.
+    Publique-se.
+    Brasília, 11 de dezembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
