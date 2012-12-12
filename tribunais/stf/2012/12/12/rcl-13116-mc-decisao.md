@@ -1,0 +1,23 @@
+DECISÃO: O Ministério Público do Estado do Rio Grande do Sul ajuíza reclamação contra acórdão do Tribunal de Justiça daquele ente federativo, proferido nos autos do Agravo em Execução Criminal 70045138336, cuja ementa se transcreve in verbis:
+    “Execução penal. Art. 52 da LEP. O Reconhecimento de falta grave pelo cometimento de fato previsto como crime doloso durante a execução da pena, por força do princípio da presunção de inocência, reclama sentença condenatória transitado em julgado. Agravo ministerial improvido. Unânime.”
+    Na inicial da presente reclamação, alega-se, em síntese, que o acórdão proferido pela 5ª Câmara Criminal do TJ/RS – ao deixar de aplicar o art. 52 da Lei de Execuções Criminais (LEP) por entender que o dispositivo viola o princípio da presunção de inocência – descumpriu a Súmula Vinculante 10 do Supremo Tribunal Federal, segundo a qual é vedado aos órgãos fracionários dos Tribunais, por força da cláusula de reserva de plenário do art. 97 da CF, realizar o controle de constitucionalidade de dispositivos legais.
+    Em suma, aduz-se que “a decisão que deixa de aplicar parte de um dispositivo legal, a pretexto de proceder à sua interpretação conforme, de fato, leva a efeito a declaração de inconstitucionalidade parcial, com redução de texto, que reclama a instauração de incidente de inconstitucionalidade.” (e DOC 2, p. 4 – grifos originais)
+    Sustenta-se, ainda, que, conforme jurisprudência desta Suprema Corte, a prática de fato definido como crime doloso, para fins de aplicação da sanção administrativa de regressão de regime, não depende do trânsito em julgado da ação penal respectiva.
+    Por derradeiro, menciona o precedente da Rcl 11638 (DJe 3.8.2011), de Relatoria do Min. Dias Toffoli, na qual se deferiu medida liminar em caso análogo para suspender processo em que foi proferida a decisão reclamada.
+    O Parquet Estadual, na qualidade de reclamante, pleiteia a cassação da decisão que afastou a aplicação do art. 52 da LEP, para a devida instauração de incidente de inconstitucionalidade e para, ao final, tornar definitiva a medida cautelar postulada.
+    É o relatório.
+    Da análise dos autos, extrai-se que órgão fracionário do TJ/RS não observou a cláusula da reserva de plenário (art. 97 da CF). É o que se verifica no seguinte trecho do acórdão reclamado (eDOC 4, p 3 e 4):
+    “Sem sucesso a pretensão ministerial.
+    Isto porque a orientação pacificada pela maioria desta Câmara Criminal é no sentido de que a regressão de regime, por ‘prática de fato previsto como crime doloso’ (art. 52 da LEP), em face do princípio constitucional da presunção da não culpabilidade (art. 5º, LVII< CF), só é possível após o trânsito em julgado da respectiva sentença condenatória.
+    (...)
+    E como lembra alguns julgados da Câmara, ‘... não se argumente que este entendimento implica ofensa à Súmula Vinculante nº 10, do e. Supremo Tribunal Federal. É que este Órgão Fracionário, ao exigir a condenação definitiva ao reconhecimento da falta grave, está dando um conteúdo específico ao texto legal [arts. 52 e 118, I, da LEP], ou seja, condicionando sua aplicabilidade a efetiva ocorrência de determinada circunstância futura. Trata-se da hipótese, reconhecida pela doutrina e pela jurisprudência do STF, de interpretação conforme a Constituição...´(Agravo em execução nº 70034532648, jul. 24.03.2010, Rel. Amilton Bueno de Carvalho).”
+    Contudo, na espécie, o afastamento da regra da reserva de plenário é equivocada, pois, ao interpretar a lei, a Quinta Câmara Criminal do TJ/RS adicionou-lhe, ainda que de forma indireta, novo conteúdo legislativo não previsto originalmente pelo legislador.
+    Em outras palavras, em que pese ao fato de o art. 52 da LEP afirmar que “a prática de fato previsto como crime doloso constitui falta grave”, o acórdão reclamado adicionou a exigência de “sentença condenatória transitada em julgado”, acrescentando requisito não previsto pelo legislador. Assim, caracterizada a interpretação com efeitos aditivos, está presente a razão justificadora do princípio do full bench (art. 97da CF).
+    Ante o exposto, concedo a medida liminar para suspender a eficácia do acórdão proferido no Agravo em Execução Criminal 70045138336, que impediu o reconhecimento da prática de falta grave pelo agravado, ao fundamento de que “não há notícia nos autos de condenação definitiva no processo pelo ‘novo crime’”.
+    Solicitem-se informações à autoridade reclamada.
+    Após, dê-se vista ao Procurador-Geral da República.
+    Publique-se.
+    Brasília, 12 de dezembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
