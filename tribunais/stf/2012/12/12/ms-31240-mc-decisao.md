@@ -1,0 +1,15 @@
+MANDADO DE SEGURANÇA COLETIVO PREVENTIVO. ALEGAÇÃO DE IMPOSSIBILIDADE DE AMPLIAÇÃO DE RESERVA INDÍGENA. QUESTÃO QUE DEMANDA DILAÇÃO PROBATÓRIA. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. MANDADO DE SEGURANÇA A QUE SE NEGA SEGUIMENTO.
+    Decisão: Cuida-se de Mandado de Segurança coletivo preventivo, com pedido de liminar, interposto contra suposto ato da Presidente da República.
+    Narra o impetrante que, no Município de Sidrolândia/MS, há uma aldeia, demarcada no ano de 1991, com aproximadamente 3.000 ha, para os índios da etnia Terena (Aldeia Buriti). Segundo informa, a Fundação Nacional do Índio (FUNAI) pretenderia ampliá-la, sob o argumento de que a área ´insuficiente para a população residente no local.
+    Argumenta-se na exordial que o Supremo Tribunal Federal teria entendido, no julgamento do caso Raposa Serra do Sol, que o art. 231 da Constituição se refere às terras de imemorial pelos índios ocupação na data da promulgação da Carta Magna, de modo que a reserva indígena já demarcada não poderia ser ampliada, visto tratar-se de ato administrativo irretratável e irrevogável.
+    Noticia que o Ministro da Justiça editou a Portaria nº 3.079/2010, no qual teria reconhecido como procedente a pretensão da FUNAI de ampliar a mencionada reserva. O impetrante registra, também, que já ajuizou, na Justiça Federal de 1º grau de Campo Grande/MS, ação declaratória de obrigação de não fazer contra a União Federal e a FUNAI, na qual obteve decisão favorável determinando a não afixação dos marcos demarcatórios.
+    Pretende o impetrante evitar a edição de Decreto Presidencial homologatório que cancele os títulos anteriores e a determinação de abertura de nova matrícula, em razão do risco de ampliação da Aldeia Buriti.
+    Pede-se a concessão de medida liminar para determinar à autoridade apontada como coatora que se abstenha de editar o Decreto Presidencial homologatório da Portaria nº 3.079, ou que eventual Decreto seja tornado sem eficácia até o julgamento final da ação nº 0002013-09.2011.403.6000; ao final, pede a confirmação da liminar para a concessão definitiva da segurança, a fim de que a impetrada se abstenha de editar e assinar o referido decreto.
+    É o relatório. Passo a decidir.
+    O presente mandado de segurança versa sobre questões que demandam dilação probatória, pertinentes à legalidade de ampliação de reserva indígena. O próprio impetrante noticia que já “ajuizou medida na primeira instância para obter a declaração judicial da impossibilidade de ampliação de reserva indígena já demarcada, intenção da Funai no caso”. De fato, a cognição ampla do procedimento ordinário é a seara própria para a averiguação de todos os complexos fatores subjacentes ao caso, como a legitimidade da ocupação da área, realização de levantamentos antropológicos e geográficos, dentre outros.
+    Ex positis, nego seguimento ao presente mandado de segurança, com base no art. 10 da Lei nº 12.016/09 e no art. 38 da Lei nº 8.038/90.
+    Publique-se. Int..
+    Brasília, 12 de dezembro de 2012.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
