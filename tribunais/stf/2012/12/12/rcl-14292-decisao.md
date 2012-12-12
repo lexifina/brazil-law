@@ -1,0 +1,17 @@
+Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado do Maranhão, em face de acórdão proferido pelo Tribunal Regional do Trabalho da 16ª Região nos autos da Ação Rescisória 0080-2010.
+    Eis a ementa do acórdão reclamado:
+    “AUTENTICAÇÃO DAS PEÇAS. PESSOA JURÍDICA DE DIREITO PÚBLICO. DISPENSA. LEI Nº 10.522/2002. Nos termos do artigo 24 da Lei nº 10.522/2002, ‘As pessoas jurídicas de direito público são dispensadas de autenticar as cópias reprográficas de quaisquer documentos que apresentem em juízo’. Assim, não prospera a alegação do réu no sentido de julgar-se extinto o processo sem resolução de mérito, nos moldes do artigos 267, IV, do CPC, ante a ausência de autenticação das cópias da decisão rescindenda e de sua respectiva certidão de trânsito em julgado. SALÁRIO PROFISSIONAL. MÚLTIPLO DE SALÁRIO MÍNIMO. APLICAÇÃO DA LEI Nº 4.950-A/66. PROCEDIMENTO REGULAR. A fixação de salário profissional de determinada categoria, tomando-se o salário mínimo como parâmetro, não afronta a garantia constitucional contida no art. 7º, IV, da Carta Magna, pois tal procedimento não constitui forma de cálculo de ajuste obrigacional, nem caracteriza indexação salarial, que a norma constitucional visa a impedir. Assim sendo, não há que se falar na violação ao dispositivo invocado. Ação rescisória julgada improcedente”.
+    Noticia o reclamante que, em reclamação trabalhista ajuizada por Edmílson Feliciano Rodrigues, o Tribunal Regional do Trabalho da 16ª Região entendeu constitucional a fixação de piso salarial para a categoria dos engenheiros com base no salário mínimo, tendo reconhecido o direito do empregado ao referido piso, previsto na Lei 4.950-A/66, bem como condenado o ora reclamante ao pagamento de diferenças salariais.
+    Após o trânsito em julgado, o Estado do Maranhão teria ajuizado ação rescisória perante o TRT-16ª Região, a qual foi julgada improcedente, havendo recurso ordinário pendente de julgamento perante o Tribunal Superior do Trabalho.
+    Irresignado, o Estado do Maranhão ajuizou a presente reclamação em face do acórdão que julgou improcedente a ação rescisória, por entender que haveria violação ao entendimento deste Supremo Tribunal Federal expresso na Súmula Vinculante n. 4.
+    Decido.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único/RISTF).
+    Não assiste razão ao reclamante.
+    Nos termos da Súmula Vinculante n. 4, “salvo nos casos previstos na Constituição, o salário mínimo não pode ser usado como indexador de base de cálculo de vantagem de servidor público ou de empregado, nem ser substituído por decisão judicial”.
+    Assim, ainda que fosse declarada a inconstitucionalidade da fixação, pela Lei 4.850-A/66, de piso salarial com base no salário mínimo, a jurisprudência desta Corte é no sentido de que tais disposições são aplicáveis até que nova legislação venha a fixar os critérios de cálculo em conformidade com a Constituição Federal. O acolhimento da pretensão do reclamante importaria a substituição, pelo Poder Judiciário, do indexador do piso salarial da categoria, vedada pela mencionada Súmula Vinculante.
+    Ante o exposto, nego seguimento à presente reclamação (art. 21, § 1º/RISTF).
+    Publique-se. Int..
+    Brasília, 12 de dezembro de 2012.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
