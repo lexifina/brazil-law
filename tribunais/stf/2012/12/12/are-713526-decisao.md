@@ -1,0 +1,37 @@
+DECISÃO: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “EMBARGOS INFRINGENTES E DE NULIDADE. CRIME DE TRÁFICO DE DROGAS – CAUSA DE DIMINUIÇÃO ESPECIAL DO ART. 33, § 4º, DA LAD – SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS – INVIABILIDADE. RECURSO NÃO PROVIDO. Considerando que a acusada tentava adentrar no presídio com duas porções de droga vulgarmente conhecida como ‘maconha’, totalizando uma quantidade capaz de atingir diversos usuários já fragilizados pelo encarceramento, a substituição da pena privativa de liberdade por restritivas de direitos não se apresenta como a melhor forma para a repressão e prevenção do delito” (eDOC 12).
+    Não foram opostos embargos declaratórios.
+    No apelo extremo, interposto com base no artigo 102, inciso, III, alínea “a”, do permissivo constitucional, sustenta-se que o acórdão recorrido violou os artigos 5º, incisos XLIII e XLVI, da Constituição Federal.
+    Sustenta-se, em síntese, que o Tribunal de origem vedou a substituição da pena privativa de liberdade por restritivas de direitos com fundamento no óbice legal contido no artigo 44 da Lei 11.343/2006.
+    Alega-se, ainda, que o regime inicial de cumprimento da pena foi fixado no fechado, ao fundamento do artigo 2º, § 1º, da Lei n. 8.072/90, com a redação dada pela Lei n. 11.464/2007, sem levar em conta as características objetivas e subjetivas do acusado.
+    Pugna, finalmente, pela inconstitucionalidade, incidenter tantum, do artigo 2º, § 1º, da Lei n. 8.072/90 e do artigo 44, da Lei n. 11.243/2006, e, consequentemente, a concessão da substituição da pena privativa de liberdade por restritivas de direitos, eis que preenchidos concretamente os requisitos legais.
+    Em contrarrazões, o Ministério Público estadual alega que o recurso não deve ser conhecido em razão da ausência de prequestionamento da matéria constitucional suscitada, e, no mérito, sustenta a inexistência dos requisitos autorizadores da substituição da pena privativa de liberdade por restritivas de direitos (eDOC 19).
+    O Tribunal a quo negou trânsito ao recurso extraordinário, ao fundamento da ausência de prequestionamento da matéria, bem como pela impossibilidade de reexame de matéria fático-probatória (Enunciado 279 da Súmula desta Corte). (eDOC 20)
+    Contra referida decisão de inadmissibilidade foi interposto agravo nos próprios autos, que repisa a tese exposta no recurso extraordinário. (eDOC 23)
+    É o relatório.
+    Decido.
+    A insurgência merece prosperar em parte.
+    Observo que a ora agravante foi condenada por tráfico de drogas à pena de 1 (um) ano, 11 (onze) meses e 9 (nove) dias de reclusão, e o regime fixado para o cumprimento da pena foi o inicialmente fechado, vedada a substituição da pena privativa de liberdade por restritivas de direitos.
+    De início, ressalto que, em sessão realizada em 1º.9.2010, o Plenário desta Suprema Corte, ao analisar o Habeas Corpus 97.256/RS, de relatoria do Ministro Ayres Britto, por maioria, declarou, incidenter tantum, a inconstitucionalidade da expressão “vedada a conversão em penas restritivas de direitos”, constante do § 4º do art. 33 da Lei nº 11.343/2006, e da expressão “vedada a conversão de suas penas em restritivas de direitos”, contida no referido art. 44 do mesmo diploma legal.
+    Dessa forma, ante a declaração de inconstitucionalidade na parte em que vedava a possibilidade da substituição da pena, não há mais impedimento para a concessão do benefício, se atendidos os requisitos do art. 44 do Código Penal, o qual dispõe que:
+    “Art. 44 - As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:
+    I - aplicada pena privativa de liberdade não superior a quatro anos e o crime não for cometido com violência ou grave ameaça à pessoa ou, qualquer que seja a pena aplicada, se o crime for culposo;
+    II - o réu não for reincidente em crime doloso;
+    III - a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e as circunstâncias indicarem que essa substituição seja suficiente.”
+    Na espécie, o Tribunal de origem manifestou-se a contento ao negar a substituição da pena privativa de liberdade por restritivas de direitos. A propósito, confira-se o seguinte trecho do acórdão recorrido:
+    “Quanto ao pedido de substituição da pena privativa de liberdade pela restritiva de direitos, o Supremo Tribunal Federal em decisão tomada no Habeas Corpus nº 97.256, julgado no dia 1º de setembro de 2010, decidiu que são inconstitucionais dispositivos da Lei nº 11.343/2006, que proíbem expressamente a conversão da pena privativa de liberdade em restritiva de direitos para condenados por tráfico de drogas.
+    A decisão da Corte limita-se a remover o óbice legal ficando a cargo do Juiz o exame dos requisitos necessários para a conversão da pena.
+    O art. 44 do Código Penal estabelece que a benesse será concedida se a culpabilidade, os antecedentes, a conduta social e a personalidade do condenado, bem como os motivos e circunstâncias do crime indicarem que essa conversão seja suficiente.
+    No caso dos autos, restou comprovado que a acusada, ao adentrar em um estabelecimento prisional, levava consigo, para fins de difusão ilícita, 72,55g (setenta e dois gramas e cinquenta e cinco centigramas) da substância vulgarmente conhecida como maconha.
+    Daí, não se devem fechar os olhos para a quantidade de droga apreendida que, difundida a indivíduos já fragilizados pelo encarceramento, provoca danos ainda mais devastadores.
+    Vislumbra-se, assim, que a pena privativa de liberdade terá maior eficácia na repreensão do delito descrito nos autos, em razão das circunstâncias que o crime ocorreu” (eDOC 9, p. 4-5 – grifamos).
+    Desse modo, a substituição da pena não foi considerada medida suficiente à reprovação/prevenção do delito, nos termos do art. 44, III, do CP.
+    No que se refere ao regime inicial de cumprimento da pena, o Tribunal a quo motivou a fixação do regime fechado para o início de cumprimento de pena apenas em razão da vedação legal contida no § 1º, do artigo 2º, da Lei n. 8.072/90, com a redação dada pela Lei n. 11.464/2007, nos seguintes termos:
+    “A reprimenda deve ser cumprida em regime inicial fechado, a teor do disposto no art. 2º, § 1º, da Lei 8.078/90, com a nova redação dada pela Lei 11.464/07” (eDOC 9, p. 5).
+    Destaco que em sessão realizada em 27.6.2012, o Plenário deste Supremo Tribunal Federal, ao analisar o HC 111.840/ES, de relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90 com a redação dada pela Lei 11.464/2007. Desse modo, ficou superada a obrigatoriedade de início do cumprimento de pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    Ante o exposto, conheço do presente agravo para dar provimento parcial ao recurso extraordinário (art. 544, § 4º, II, “c”, do CPC), a fim de determinar ao Tribunal de Justiça do Distrito Federal e dos Territórios que, afastando o disposto no art. 2º, § 1º, da Lei 8.072/90, proceda a nova fixação do regime inicial de cumprimento de pena, segundo os critérios previstos no art. 33, §§ 2º e 3º do CP.
+    Publique-se.
+    Brasília, 12 de dezembro de 2012.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
