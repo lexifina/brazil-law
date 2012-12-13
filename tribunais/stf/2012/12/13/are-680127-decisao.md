@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão que extinguiu execução fiscal sob o fundamento de que houve remissão do crédito tributário, na forma prevista em lei municipal.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 2º, 5º, LIV e LV, e 150, §6º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Esse o caso dos autos em relação à suposta ofensa ao art. 2º da Constituição.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Por fim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Código Tributário Nacional, Código de Processo Civil e Lei Municipal 837/2005). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àqueles diplomas legais pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, no caso, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
