@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. COBRANÇA INDEVIDA. TARIFAS BANCÁRIAS. ALEGADA VIOLAÇÃO AO ART. 5º, INC. II, XXXV, XXXVI E LV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado da Turma Recursal Única de Mato Grosso:
+    “AÇÃO DE INDENIZAÇÃO – RELAÇÃO DE CONSUMO – CONTRATO DE FINANCIAMENTO DE VEÍCULO – COBRANÇA DE TAXAS DE ABERTURA DE CRÉDITO, EMISSÃO DE COBRANÇA/BOLETO E DE RETORNO – ILEGALIDADE – RESTITUIÇÃO QUE DEVE SER FEITA NA FORMA SIMPLES, EXCETO NO QUE SE REFERE À TAXA DE RETORNO – RECURSO PARCIALMENTE PROVIDO. É ilegal a cobrança das taxas de abertura de crédito – TAC, taxa de emissão de cobrança/boleto e de retorno – TR” (fl. 215).
+    Não foram opostos embargos de declaração.
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta e a incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 233-234).
+    4. O Agravante argumenta que:
+    “Os fundamentos da decisão proferida dizem respeito, nitidamente, ao mérito do recurso, sobre o qual apenas o Tribunal ad quem (STF) possui competência para apreciação, consoante se depreende da legislação que rege a matéria” (fl. 260).
+    No recurso extraordinário, alega que a Turma Recursal teria contrariado o art. 5º, inc. II, XXXV, XXXVI e LV, da Constituição da República.
+    Sustenta que:
+    “O disposto no artigo 5º, II, da CF implica apenas que todos têm o dever de cumprir com o determinado em lei.
+    Assim, não caberia ao Recorrente qualquer espécie de escolha: em nenhum momento descumpriu o contrato celebrado entre as partes, não tendo a parte contrária observado o contrato, que protegido por lei, em atenção ao princípio constitucional da legalidade (art. 5º, II, CF).
+    (...)
+    O acórdão infringiu o dispositivo constitucional da ampla defesa e do contraditório anteriormente suscitado, determinando ao Recorrente a devolução de parcela contratual fixada dentro da mais estrita legalidade e efetivamente devida pela parte Recorrida.
+    (...)
+    Ademais, ao manter a condenação referente à devolução das parcelas fere o princípio do pacta sunt servanda, pois as partes pactuaram previamente as condições de pagamento, não podendo o recorrido exigir da Instituição Financeira que devolva valores pré pactuados.
+    (...)
+    O parcial provimento do Recurso Inominado configura clara omissão do Poder Judiciário à questão apresentada, em total contrariedade ao princípio da inafastabilidade da jurisdição, constitucionalmente garantido” (fls. 223-224).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos desse recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    7. Este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. II, XXXV, XXXVI e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código de Defesa do Consumidor), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PATRIMÔNIO INSUFICIENTE DA EMPRESA. REEXAME DE PROVAS. SÚMULA 279. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 636. AGRAVO IMPROVIDO. I – A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. II – Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame da interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV – Agravo regimental improvido” (AI 790.521-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.11.2010).
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, II e XXXVI, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do direito adquirido e do ato jurídico perfeito, se dependentes do reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 551.426-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008).
+    “AGRAVO REGIMENTAL. COBRANÇA DE TARIFA BANCÁRIA. REEXAME DE CLÁUSULAS CONTRATUAIS E DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. Para se chegar a conclusão diversa daquela a que se chegou no acórdão recorrido seria necessário o reexame das cláusulas do contrato firmado entre as partes, das provas dos autos e da legislação infraconstitucional pertinente, o que é vedado na esfera do recurso extraordinário. Aplicam-se, pois, ao caso, as Súmulas 279, 454 e, mutatis mutandis, 636 deste Tribunal. Inexistência de ofensa direta à Constituição. Agravo regimental a que se nega provimento” (ARE 654.710-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 22.5.2012).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de dezembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
