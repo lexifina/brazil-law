@@ -1,0 +1,16 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Alexandre Pareira da Silva e outros, todos Guardas Civis Municipais, contra ato da Ministra Maria Thereza de Assis Moura, que negou seguimento ao HC 210.815 do Superior Tribunal de Justiça. Eis o teor da decisão atacada:
+    (...)
+    Requerem, liminarmente e no mérito, a expedição de salvo-conduto em favor dos pacientes, a fim de que portem suas armas de fogo particulares, devidamente registradas no órgão competente da polícia federal, durante a jornada laborativa e no transcurso para a residência. (…)
+    A concessão de habeas corpus preventivo, consoante reiterada jurisprudência desta Corte, exige séria ameaça de consumação de ato privativo de liberdade, sendo necessário ao impetrante demonstrar atos concretos de possível constrangimento ilegal a ser implantado, o que não se verifica na espécie, conforme ressaltou o Ministério Público Federal.(...)
+    O remédio constitucional utilizado pelos impetrantes é inadequado para o fim objetivado, porque não está em questão o direito de ir e vir dos pacientes. Pretendem continuar a prestar serviços com a utilização de arma de fogo, o que não guarda relação com a plena liberdade de locomoção dos guarda-civis municipais.
+    Consoante entendimento pacificado por esta Corte, a concessão de habeas corpus preventivo exige fundada ameaça de consumação de ato privativo de liberdade, sendo necessário ao impetrante demonstrar atos concretos de possível constrangimento ilegal, o que não se verifica na hipótese dos autos.
+    Na inicial, alega-se que (a) os guardas civis por disposição estatutária são obrigados a combater o crime ao lados dos policiais civis e militares; (b) a inexistência de convênio entre o Município de Guarujá/SP e a Polícia Federal impossibilita o uso de arma de fogo de calibre permitido durante o trabalho; (c) os guardas municipais, portanto sofrem ameaça na possibilidade de serem presos em flagrante delito pelo uso de arma de fogo; (d) a nulidade do habeas corpus impetrado na 1ª instância em face da dispensa de informações à autoridade coatora. Requerem, ao final, a concessão de medida liminar para “o fim de expedir salvo conduto em favor dos pacientes, com escopo de que esses portem suas armas de fogo particulares (…) durante a jornada laborativa e no transcurso para residência”
+    O Min. Cezar Peluso abriu vista à Procuradoria-Geral da República, que manifestou-se pelo não conhecimento do habeas corpus.
+    2. O habeas corpus é via idônea para o resguardo do direito de ir e vir quando ameaçado por imediata ou mediata coação ilegal ou abuso de poder. Ora, no caso, conforme já assinalado nas instâncias inferiores, não se está diante de qualquer situação concreta de coação ilícita. Acertado o parecer da Procuradoria-Geral da República ao assinalar que, “descabe o manejo deste instrumento constitucional, ainda que para proteger direito considerado líquido e certo, conforme pleiteado no presente writ, uma vez que almejam os pacientes não a proteção de direito ambulatorial, mas um salvo conduto para portarem arma de fogo”.
+    3. Com essas considerações, nego seguimento ao habeas corpus, invocando o art. 21, §1°, do RISTF.
+    Publique-se. Intime-se.
+    Brasília, 13 de dezembro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
