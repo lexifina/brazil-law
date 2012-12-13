@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. COBRANÇA INDEVIDA. ALEGADA VIOLAÇÃO AO ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANALISAR LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    2. O recurso extraordinário foi interposto contra o seguinte julgado do Colégio Recursal da 31ª Circunscrição Judiciária de Marília-SP:
+    “Ação de cobrança – financiamento – aquisição de veículo – cláusula que determina a cobrança de Tarifa de Abertura de Crédito e Tarifa de Emissão de Carnê – aplicação do CDC – arts. 6º, IV e V, 42, 46, 51, IV, XII – nulidade decretada – cobrança indevida – devolução em dobro – Procedência – decisão mantida – recurso desprovido” (fl. 50).
+    Não foram opostos embargos de declaração.
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a ausência de preliminar da existência de repercussão geral da matéria e a ausência de prequestionamento (fl. 71).
+    4. O Agravante alega que o acórdão recorrido teria contrariado o art. 5º, inc. II, da Constituição da República.
+    Sustenta que:
+    “Impõe-se, data vênia, a reforma da r. decisão de segunda instância, tendo em vista que o Banco apenas e tão somente fez a cobrança que é devida nos termos da legislação vigente e nos termos do contrato que foi livremente pactuado pelas partes” (fl. 56v.).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos desse recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Inicialmente, cumpre afastar o fundamento da decisão agravada quanto à ausência de preliminar de repercussão geral, pois o Agravante expôs as razões de seu convencimento da existência de repercussão geral da matéria.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+    7. Este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional (Código de Defesa do Consumidor), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide no caso presente a Súmula n. 636 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. ALEGAÇÃO DE AFRONTA AOS PRINCÍPIOS DA LEGALIDADE, DO ATO JURÍDICO PERFEITO E DA COISA JULGADA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que a alegação de afronta ao princípio da legalidade e a verificação, no caso concreto, da ocorrência, ou não, de ofensa ao direito adquirido, ao ato jurídico perfeito e à coisa julgada, se dependentes de análise prévia da legislação infraconstitucional, configurariam apenas ofensa constitucional indireta” (AI 684.188-AgR, de minha relatoria, Primeira Turma, DJe 18.9.2009).
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. PATRIMÔNIO INSUFICIENTE DA EMPRESA. REEXAME DE PROVAS. SÚMULA 279. OFENSA REFLEXA. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 636. AGRAVO IMPROVIDO. I – A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária. II – Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva o reexame da interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV – Agravo regimental improvido” (AI 790.521-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.11.2010).
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, II e XXXVI, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. As alegações de desrespeito aos postulados da legalidade, do direito adquirido e do ato jurídico perfeito, se dependentes do reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 551.426-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 19.12.2008).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de dezembro de 2012.
+Ministra CÁRMEN LÚCIA
+Relatora
