@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    "DIREITO ADMINISTRATIVO. PROFESSOR DA SECRETARIA DE EDUCAÇÃO DO DISTRITO FEDERAL. GRATIFICAÇÃO DE REGÊNCIA DE CLASSE. INDEFERIMENTO. ATUAÇÃO PERANTE OFICINA PEDAGÓGICA ANTES DA VIGÊNCIA DA LEI DISTRITAL Nº 4.075/2007. PAGAMENTO INDEVIDO. DEVOLUÇÃO. IRREPETIBILIDADE. 1 - Antes da edição da Lei Distrital nº 4.075/2007 não havia autorização legal expressa para o pagamento da Gratificação de Regência de Classe - GARC ao professor que atuava perante oficina pedagógica, sendo improcedente, portanto, a pretensão da apelante. 2 - Embora não se desconheça o teor da Súmula nº 473 do Supremo Tribunal Federal, que atribui à Administração Pública o poder-dever de revisar seus próprios atos, quando eivados de erro ou ilegalidade, disso não decorre a imposição ao administrado da devolução de valores pagos indevidamente, quando recebidos de boa-fé, ante o caráter alimentar da verba. 3 - Recurso da autora parcialmente provido. Recurso voluntário do réu e remessa oficial não providos".
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, III e 5º, LV, da mesma Carta.
+    A pretensão recursal merece acolhida. Isso porque o acórdão impugnado está em dissonância com a jurisprudência deste Tribunal, no sentido de que nas anulações dos atos administrativos cuja formalização repercuta no campo dos interesses individuais é necessária a observância dos institutos do contraditório e da ampla defesa sob pena de ilegalidade. Esse entendimento foi reafirmado por esta Corte, após o reconhecimento de existência de repercussão geral da matéria em exame, nos seguintes termos:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA.
+    1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo.
+    2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa.
+    3. Recurso extraordinário a que se nega provimento” (RE 594.296-RG/MG, Rel. Min. Dias Toffoli).
+    Isso posto, com base no art. 544, § 4º, II, c, do CPC, dou provimento ao agravo para conhecer do recurso extraordinário e dar-lhe provimento.
+    Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 14 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+ - Relator -
