@@ -1,0 +1,21 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º, XXVI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Os argumentos da agravante, no sentido de que violado o art. 7º, XXVI, da Carta Política, não logram infirmar os termos do despacho agravado, que se sustenta pelos seus próprios fundamentos, ora endossados e integrantes das presentes razões de decidir, verbis:
+    “A controvérsia não ostenta natureza constitucional, na medida em que foi dirimida sob o enfoque das normas coletivas e regulamentares pertinentes.
+    Consoante dispõe a Súmula nº 454 do STF, a “simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”. Nesse sentido, os seguintes precedentes:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DO STF. DECISÃO À LUZ DA LEGISLAÇÃO PROCESSUAL TRABALHISTA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais, bem como, da interpretação de cláusula integrante de norma coletiva de trabalho, o que atrai a incidência da Súmula 454 do STF. Precedentes. II - Agravo regimental improvido. (STF-AI 832869 AgR/RJ, Rel. Min. Ricardo Lewandowski, DJe de 08/04/2011 - destaquei)
+    AGRAVO REGIMENTAL. MATÉRIA INFRACONSTITUCIONAL. INTERPRETAÇÃO DE CLÁUSULA DE ACORDO COLETIVO. SÚMULA 454. INEXISTÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO FEDERAL. É inviável recurso extraordinário para interpretação de cláusula de acordo coletivo de trabalho. Agravo regimental a que se nega provimento. (STF-AI 706880 AgR/RS, Rel. Min. Joaquim Barbosa, DJe de 01/03/2011 - destaquei)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DO STF. DECISÃO À LUZ DA LEGISLAÇÃO PROCESSUAL TRABALHISTA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende da interpretação de cláusula integrante de norma coletiva de trabalho, o que atrai a incidência da Súmula 454 do STF. Precedentes. II - O acórdão recorrido decidiu a causa à luz da legislação processual trabalhista. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. III – Agravo regimental improvido. (STF-AI 815641 AgR/RJ, Rel. Min. Ricardo Lewandowski, DJe de 31/01/2011 – destaquei)
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA TRABALHISTA. CONVENÇÃO COLETIVA. REEXAME. INVIABILIDADE. 1. O Supremo Tribunal Federal entende ser incabível na via recursal extraordinária o reexame da validade de cláusula de acordo ou convenção coletivos. Isso porque a interpretação de tais instrumentos normativos demanda o revolvimento de matéria fática, atinente à realidade de trabalho própria de cada categoria, incluindo a ponderação, caso a caso, das vantagens e desvantagens oriundas da estipulação de determinadas condições de trabalho pelas partes acordantes. Pelo que incidem as Súmulas 279 e 454 do STF. 2. Agravo regimental desprovido. (STF-AI 689948 AgR/SP, Rel. Min. Ayres Britto, DJe de 13/12/2010)
+    Não de divisa, portanto, afronta direta ao art. 7º, XXVI, da Constituição.
+    Ante o exposto, nego seguimento ao Recurso Extraordinário.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
