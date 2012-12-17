@@ -1,0 +1,51 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Mauro Marcio Dias Cunha em favor de Ernandes Oliveira de Souza, apontando como autoridade coatora a Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 261.549/MT, impetrado àquela Corte.
+    Inicialmente, argumenta o impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais, sustenta, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista que a fixação do regime inicialmente fechado para o cumprimento da pena de 6 anos e 2 meses de reclusão, imposta ao paciente, teve como lastro, “tão somente, [o] artigo 2º, § 1º, da Lei 8.072/1990, (declarado inconstitucional pelo pleno desse c. STF) sem observância, portanto, do disposto no art. 33, §§ 2.º e 3.º, c.c. art. 59 do CP” (fl. 2 da inicial – grifos conforme o original).
+    Requer o deferimento da liminar para assegurar ao paciente que aguarde em liberdade ou em regime mais brando julgamento desta impetração. No mérito, pede a concessão da ordem para: “a)- Reconhecer ao Paciente o direito a regime inicial diverso do fechado, inclusive mediante a redução da pena base, pois fora inobservada a Súmula 444 desse Tribunal Superior, ou; b)- Alternativamente, não sendo esse o entendimento, que seja determinado ao e. TJMT (Segunda Câmara Criminal) ou ao Juízo da Vara Execução Penal, que refaça a imediata análise do regime inicial do cumprimento da pena, nos termos do art. 33, § 2.º e 3.º, c.c. art. 59, ambos do Código Penal (...)” (fl. 13 da inicial – grifos conforme o original).
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    Cuida-se, na espécie de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    Transcrevo o teor da decisão proferida pelo Superior Tribunal de Justiça:
+    “Cuida-se de ‘habeas corpus’, com pedido liminar, em favor de ERNANDES OLIVEIRA DE SOUZA, apontando como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso (Apelação 20766/2011).
+    Consta dos autos que o paciente foi condenado, em 10.8.2010, à pena de 6 (seis) anos e 2 (dois) meses de reclusão, em regime inicial fechado, como incurso no art. 33, ‘caput’, da Lei n.º 11.343/06, porque tinha em depósito, para fins de comercialização, dois gramas e seiscentos miligramas de cocaína e dois gramas e oitenta miligramas de maconha.
+    A sentença assegurou-lhe o direito de recorrer em liberdade.
+    A defesa, insatisfeita, interpôs recurso de apelação, ao qual o tribunal de origem, em 30.11.2011, negou provimento, em acórdão assim sintetizado (fl. 37):
+    ‘APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS – SENTENÇA CONDENATÓRIA - PEDIDO DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA USO - PROVAS INCONTESTES - NATUREZA E QUANTIDADE DA DROGA APREENDIDA EXPRESSIVA - HARMONIA NOS DEPOIMENTOS DOS POLICIAIS E OUTRAS TESTEMUNHAS - PRETENDIDA READEQUAÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL – CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INVIABILIDADE - CAUSA DE DIMINUIÇÃO DE PENA - DESCABIMENTO - REQUERIMENTO DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - IMPOSSIBILIDADE – VEDAÇÃO LEGAL - APELOS DESPROVIDOS.
+    As provas produzidas durante a instrução demonstraram suficientemente a materialidade e autoria do crime de tráfico consumado.
+    A pena-base fixada acima do mínimo legal, em razão das circunstâncias judiciais desfavoráveis do agente, é de inconteste pertinência.
+    A tese do uso da droga para consumo próprio não restou configurada na análise do conjunto probatório.
+    A substituição da pena privativa de liberdade por restritivas de direitos é medida vedada legalmente para a hipótese.’
+    O ‘decisum‘ transitou em julgado.
+    Alega o impetrante que está configurada no caso, flagrante ilegalidade, seja na fixação do regime inicial fechado, seja na consideração de procedimentos, inquéritos policiais e ação penal em curso como maus antecedentes.
+    Aduz que a sentença fixou o regime inicial fechado tão somente com base no art. 2º, §1º, da Lei n.º 8.072/90.
+    Assere que o Supremo Tribunal Federal declarou a inconstitucionalidade da referida norma legal.
+    Destaca que o paciente é primário e a quantidade de droga é pequena, ao contrário do que afirmou a juízo ‘a quo’.
+    Invoca os enunciados sumulares 444 desta Corte e 719 do Supremo Tribunal Federal.
+    Requer, liminarmente e no mérito, a revisão da dosimetria da pena e a fixação de um regime prisional mais brando. Alternativamente, pretende seja determinado que o Tribunal de Justiça do Estado do Mato Grosso ou o juízo de origem procedam à revisão da dosimetria da pena e estabeleçam um regime de cumprimento da pena menos gravoso.
+    É o relatório.
+    Cuida-se, em verdade, de ‘habeas corpus’ substitutivo de revisão criminal, que, a rigor de técnica, e, em prestígio à lógica do sistema recursal, não deveria ser processado.
+    Todavia, tendo em vista a alegação constante da impetração, entendo prudente, excepcionalmente, dar seguimento ao presente ‘writ’.
+    Passo, portanto, à análise do pleito liminar.
+    Da análise dos autos, ao menos em um juízo de cognição sumária, não vislumbro manifesto constrangimento ilegal a ensejar o deferimento da medida de urgência.
+    Com efeito, a existência de circunstâncias judiciais desfavoráveis autoriza a imposição de um regime de cumprimento da pena mais gravoso, com fundamento nos artigos 33, §3º, e 59 do Código Penal, o que afasta, por ora, a plausibilidade jurídica do pedido.
+    Ademais, a revisão da dosimetria da pena não dispensa uma análise da idoneidade e da razoabilidade da fundamentação adotada pela sentença, demandando um exame mais aprofundado dos autos, inviável nos estreitos limites deste átrio processual.
+    Destarte, entendo prudente remeter a apreciação e julgamento de tais questões para o Órgão Colegiado, juiz natural da causa.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações à autoridade apontada como coatora e ao juízo de origem sobre o alegado na presente impetração, encarecendo o envio de cópia da certidão de antecedentes atualizada do paciente.
+    Com estas, encaminhem-se os autos ao Ministério Público Federal para parecer” (fls. 66/67 do anexo 3 – grifos conforme o original).
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Com efeito, essa circunstância, por si só, já inviabilizaria conhecimento da presente impetração, uma vez que não se verifica situação de flagrante ilegalidade apta a ensejar o afastamento excepcional da Súmula nº 691 desta Suprema Corte.
+    Ademais, ainda que fosse o caso de superação da súmula em questão, há de se considerar, ressalvado meu entendimento pessoal, a decisão da Primeira Turma que, em sessão extraordinária datada de 7/8/12, assentou, quando do julgamento do HC nº 109.956/PR, Relator o Ministro Marco Aurélio, a inadmissibilidade do habeas corpus que tenha por objetivo substituir o recurso ordinário constitucional, previsto no art. 102, inciso II, alínea a da Carta da República.
+    Consoante o dispositivo em questão, compete a este Supremo Tribunal julgar, em recurso ordinário, “o ‘habeas-corpus’, o mandado de segurança, o ‘habeas-data’ e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão”.
+    Além disso, conforme expressamente consignado pelo eminente relator naquela assentada, “o habeas corpus substitutivo do recurso ordinário, além de não estar abrangido pela garantia constante do inciso LXVIII do artigo 5º do Diploma Maior, não existindo sequer previsão legal, enfraquece este último documento, tornando-o desnecessário no que, nos artigos 102, inciso II, alínea ‘a’, e 105, inciso II, alínea ‘a’, tem-se a previsão do recurso ordinário constitucional a ser manuseado, em tempo, para o Supremo, contra decisão proferida por Tribunal Superior indeferindo ordem, e para o Superior Tribunal de Justiça contra ato de Tribunal Regional Federal e de Tribunal de Justiça” (HC nº 108.715/RJ).
+    Esse é exatamente o caminho a ser trilhado por esta impetração em caso de eventual retificação da inicial, após superveniente julgamento de mérito do writ impetrado ao Superior Tribunal de Justiça.
+    Entretanto, nada impede que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo (art. 102, inciso II, alínea “a” da CF), analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, anoto que o entendimento lançado na decisão proferida pela Ministra Maria Thereza de Assis Moura no sentido de que “a existência de circunstâncias judiciais desfavoráveis autoriza a imposição de um regime de cumprimento da pena mais gravoso, com fundamento nos artigos 33, §3º, e 59 do Código Penal (...)” está em perfeita consonância com o entendimento desta Suprema Corte, que já se manifestou no sentido de que as “circunstâncias judiciais desfavoráveis do artigo 59 do Código Penal constituem motivo válido para negar a substituição e para impor o regime fechado, conforme remissões do art. 33, § 3º, e do art. 44, III do [Código Penal]” (HC nº 108.390/MS, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 7/11/12).
+    Ante o exposto, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante apta a ensejar uma concessão de ofício, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
