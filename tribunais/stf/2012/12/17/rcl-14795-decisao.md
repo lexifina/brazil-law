@@ -1,0 +1,18 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Município de Ribeirão Preto/SP, contra decisão judicial proferida, em 3/10/2012, pelo Juízo da 2ª Vara da Fazenda Pública da Comarca sediada naquela Municipalidade nos autos do Processo 0008785-15.2005.8.26.0506, que possui o seguinte teor:
+    “Determino que o Município de Ribeirão Preto dê integral cumprimento à obrigação de fazer, efetuando o pagamento à exequente do valor do adicional de insalubridade no percentual de 20% sobre o salário mínimo, no prazo de 30 dias, comprovando nos autos. CITE(M)-SE o devedor para os termos da ação em epígrafe, cuja cópia da petição inicial segue em anexo, ficando advertido(a)(s) do prazo de 30 (trinta) dias para opor(em) embargos nos termos do artigo 730 do Código de Processo Civil, sob pena de ser requisitado por este Juízo o pagamento por intermédio do Presidente do Tribunal de Justiça do Estado de São Paulo, o qual será efetivado na ordem de apresentação do precatório e à conta do respectivo crédito. Complemente a exequente o valor destinado ao custeio da diligência do oficial de justiça, no prazo de cinco (5) dias. Servirá a presente, por cópia digitada, como mandado. Cumpra-se na forma e sob as penas da Lei. Intime-se” (grifos meus).
+    O reclamante alega que a decisão judicial ora impugnada, ao determinar o pagamento do valor do adicional de insalubridade no percentual de 20% sobre o salário mínimo, contrariou o enunciado da Súmula Vinculante 4, uma vez que, com o seu cumprimento, “o salário mínimo estaria sendo usado como indexador de base de cálculo de vantagem de servidor público”.
+    Assevera que em 2006 foi editada nova legislação disciplinando o adicional de insalubridade, que teria fixado o montante de R$ 300,00 como novo valor de referência. Sustenta que, por ser esse último diploma superveniente à propositura da demanda, “a aplicação dessa lei não altera o trânsito em julgado da decisão que solucionou a lide”.
+    Requer, ao final, a suspensão liminar “[d]os efeitos do acórdão reclamado, até o julgamento em definitivo da presente reclamação”, e, no mérito, a determinação para que seja respeitado o conteúdo da Súmula Vinculante 4.
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, constato, de plano, a manifesta inadmissibilidade desta reclamação.
+    É que a decisão judicial ora impugnada determina, tão somente, o estrito cumprimento de sentença judicial que, proferida em 19/4/2001, transitou em julgado muito antes da propositura desta ação reclamatória.
+    Com efeito, de acordo com o relatório de andamento processual disponível no sítio eletrônico do TJSP, rejeitados, em 2/8/2010, os embargos declaratórios manejados pelo reclamante contra a negativa de provimento da apelação que havia interposto anteriormente, operou-se, logo em seguida, o trânsito em julgado desse último acórdão, tendo os autos, então, retornado definitivamente à vara de origem.
+    Assim, sendo certo que a reclamação não é sucedâneo de ação rescisória (Rcl 8.716-AgR/SP, Rel. Min. Celso de Mello, Plenário, DJe de 26/5/2011), incide, no caso, a Súmula 734/STF:
+    “Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal”.
+    Isso posto, configurada hipótese de não cabimento prevista no Enunciado 734 da Súmula desta Casa, nego seguimento a esta reclamação (RISTF, art. 21, § 1º), ficando prejudicada, por conseguinte, a análise do pedido de medida liminar.
+    Arquivem-se os autos.
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+Relator
