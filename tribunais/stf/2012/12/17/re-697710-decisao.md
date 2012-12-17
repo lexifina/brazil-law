@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – PROFESSORES ESTADUAIS INATIVOS – PRÊMIO EDUCAR – BENEFÍCIO ESTENDIDO AOS APOSENTADOS E PENSIONISTAS ATRAVÉS DA LEI POSTERIOR – PLEITO PELA COBRANÇA DE VALORES RETROATIVOS – FUNDAMENTOS CONSTITUCIONAIS – GARANTIA À TOTALIDADE DOS PROVENTOS – SERVIDORES QUE INGRESSARAM NO SERVIÇO PÚBLICO ATÉ O ADVENTO DA EC 20/98 – ISONOMIA ENTRE SERVIDORES ATIVOS E INATIVOS – ENTENDIMENTO CONSOLIDADO PELO GRUPO DE CÂMARAS DE DIREITO PÚBLICO – RECURSO NÃO PROVIDO”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 97 da mesma Carta, bem como à Súmula Vinculante 10.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que, no caso, não houve declaração ou reconhecimento de inconstitucionalidade nem de incompatibilidade da norma jurídica com a Constituição Federal que reclamasse a sujeição da questão à regra da reserva de plenário. Nesse sentido, destaco a ementa do seguinte julgado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PRÊMIO POR DESEMPENHO FAZENDÁRIO - PDF. EXTENSÃO AOS SERVIDORES INATIVOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. OFENSA A CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+    (...)
+    3. O princípio da reserva de plenário resta indene nas hipóteses em que não há declaração de inconstitucionalidade por órgão fracionário do Tribunal de origem, mas apenas a interpretação da norma em sentido contrário aos interesses da parte. Precedentes: ARE 676.661-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 15/05/2012; e RE 612.800-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 05/12/2011.
+    4. In casu, o acórdão originariamente recorrido assentou: 'Mandado de Segurança preventivo. Prêmio por Desempenho Fazendário (PDF). Observa-se dos autos que o impetrante vem percebendo o Prêmio por Desempenho Fazendário PDF e vê seu direito à percepção da gratificação ameaçado quando de sua aposentação. A não extensão do PDF aos servidores inativos se constitui em direta afronta às Constituições Federal e Estadual. Violação ao art. 40, § 8º, da CF, ao art. 7º da EC 41/2003 e ao art. 42, § 2º CEBA. Este último dispositivo é claro ao determinar tratamento isonômico entre ativos e inativos. Precedentes desta Corte. Presente a ameaça de violação a direito líquido e certo do impetrante. Segurança concedida para determinar que a autoridade apontada como coatora não suprima o pagamento do Prêmio por Desempenho Fazendário dos proventos do impetrante quando o mesmo entrar na inatividade.'
+    5. Agravo regimental a que se nega provimento” (ARE 664.985-AgR/BA, Rel. Min. Luiz Fux).
+    Seguindo esse raciocínio, menciono as seguintes decisões, entre outras: RE 495.370-AgR/PR e AI 387.267-AgR/CE, Rel. Min. Joaquim Barbosa; AI 767.064-AgR/RS e AI 746.185-AgR/RJ, Rel. Min. Cármen Lúcia; RE 570.696-AgR/SP, Rel. Min. Ellen Gracie; RE 572.497-AgR/RS, Rel. Min. Eros Grau; RE 483.126-AgR/SC, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
