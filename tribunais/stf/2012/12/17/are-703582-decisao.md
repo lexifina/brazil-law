@@ -1,0 +1,13 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, V e X, e 144 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Registrado no acórdão do Tribunal Superior do Trabalho que “1. O Colegiado de origem, valorando fatos e provas, firmou seu convencimento (art. 131 do CPC) no sentido de que o acidente de trabalho sofrido pelo companheiro da autora, ex-empregado da reclamada, possuía nexo de causalidade com o exercício das funções de eletricista, na medida em que, após ter constatado a existência de desvio de energia elétrica e ter efetuado cortes na prestação dos serviços, na residência do suposto autor do crime, foi assassinado. 2. A Corte Regional reconheceu que o empregado trabalhava exposto a riscos eminentes porquanto sofria constantes ameaças dos consumidores que se sentiam lesados pelos cortes de energia, aferindo a ausência de provas que demonstrassem a adoção de efetivas medidas de segurança e proteção pessoal, por parte da empresa reclamada. Concluiu, ao final, que a reclamada deveria responder por sua omissão. 3. Nesse contexto, a condenação da reclamada ao pagamento de indenização por danos material e moral não importa em atribuir-lhe a responsabilidade pela segurança pública, o que é incontroversamente dever do Estado. A incumbência da empresa de zelar pela segurança e proteção do trabalhador encontra previsão nos arts. 7º, XXII, da Constituição Federal e 157, I, da CLT e 19, § 1º, da Lei nº 8.213/91”, não há como superar o óbice da ausência de afronta direta aos preceitos constitucionais indicados, oposto no despacho agravado ao processamento do extraordinário.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
