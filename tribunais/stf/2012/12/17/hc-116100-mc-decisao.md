@@ -1,0 +1,17 @@
+DECISÃO
+LIVRAMENTO CONDICIONAL – PERÍODO DE PROVA – SUPLANTAÇÃO – EXTINÇÃO DA PUNIBILIDADE – PRÁTICA DELITUOSA – AFASTAMENTO – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente cumpria pena de cinco anos e quatro meses de reclusão ante o cometimento do crime descrito no artigo 157, § 2º, inciso II (roubo qualificado pelo concurso de pessoas), do Código Penal, quando foi beneficiado com o livramento condicional no dia 8 de julho de 2008. Em 9 de agosto de 2009, veio a ser preso em flagrante pela prática de outro roubo. Acabou condenado, então, em 21 de julho de 2010, a seis anos, dois meses e vinte dias de reclusão, no regime inicial fechado.
+    O Juízo da 2ª Vara das Execuções Criminais de Presidente Prudente/SP, em 14 de julho de 2011, julgou extinta a punibilidade quanto ao primeiro delito, consignando o cumprimento integral do período de prova por parte do reeducando e o fato de não haver sido revogado o benefício após a segunda condenação.
+    O Ministério Público interpôs agravo em execução no Tribunal de Justiça do Estado de São Paulo – de nº 0214208-25.2011.8.26.0000. A Sexta Câmara Criminal deu provimento ao recurso para cassar a decisão, sustando o livramento condicional até a superveniência do trânsito em julgado da sentença condenatória posterior. Anotou não se ter comunicado ao Juízo a prática de novo crime antes da data prevista para o término do período de prova relativo à primeira execução de pena.
+    A defesa formalizou habeas corpus – de nº 256.836/SP – no Superior Tribunal de Justiça. A relatora, ministra Maria Thereza de Assis Moura, negou seguimento à impetração, por entendê-la inadequada e apresentada em substituição ao recurso especial. Assentou a ausência de ilegalidade a autorizar a concessão da medida na via estreita.
+    A impetrante argui a existência de constrangimento ilegal a justificar o afastamento do Verbete nº 691 da Súmula do Supremo. Afirma ser acertado o ato que implicou a extinção de punibilidade do paciente. Refuta a tese consoante a qual o cometimento de infração durante o livramento condicional acarreta a prorrogação automática do período de prova. Alega que apenas decisão do Juízo das Execuções Criminais teria o condão de suspender o prazo. Sustenta a impropriedade da cassação, ante a subsistência da declaração judicial depois de findo o interregno sem revogação ou extinção.
+    Requer o implemento de liminar, afastando-se os efeitos do Acórdão proferido no Agravo em Execução nº 0214208-25.2011.8.26.0000. No mérito, pede a confirmação da providência, reconhecendo-se a extinção da pena imposta na Execução Criminal nº 1040/06.
+    O processo encontra-se concluso para apreciação da medida acauteladora.
+    2. Inicialmente, consigno que o fato de o pronunciamento formalizado na origem mostrar-se impugnável mediante especial não obstaculiza o habeas corpus. No mais, o Juízo declarou extinta a punibilidade em virtude do decurso do período de prova referente ao livramento condicional. Esse ato veio a ser afastado ante a ocorrência de prática criminosa, sem se ter a culpa formada. A segurança jurídica sinaliza o deferimento de liminar.
+    3. Implemento-a para afastar, até o exame final deste habeas, o que decidido pelo Tribunal de Justiça do Estado de São Paulo no julgamento do agravo em execução mencionado.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 17 de dezembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
