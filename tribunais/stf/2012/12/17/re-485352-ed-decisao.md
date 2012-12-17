@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de embargos de declaração tempestivamente opostos à decisão monocrática proferida a fls. 550/553.
+    Cumpre acentuar, preliminarmente, que o Supremo Tribunal Federal tem reconhecido a competência do Relator para examinar a própria admissibilidade dos embargos de declaração, mesmo que opostos a decisão monocrática (AI 417.329-AgR/SP, Rel. Min. EROS GRAU – AI 429.233-ED/SP, Rel. Min. CEZAR PELUSO – AI 444.959-ED/SP, Rel. Min. NELSON JOBIM – RE 229.792-ED/SP, Rel. Min. SEPÚLVEDA PERTENCE – RE 416.813-ED/SP, Rel. Min. EROS GRAU – RE 462.436- -ED/SP, Rel. Min. SEPÚLVEDA PERTENCE, v.g.).
+    Sendo assim, e considerando a jurisprudência desta Suprema Corte, passo a apreciar os presentes embargos de declaração. E, ao fazê-lo, verifico que a decisão ora embargada não teve presente que estes autos cuidam de “aquisição de insumos tributados, utilizados na fabricação de produtos contemplados com tributação à alíquota zero” (fls. 227).
+    Impõe-se, em consequência, para os fins especificamente visados pela parte ora embargante, a complementação da decisão proferida a fls. 550/553.
+    O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da mesma questão constitucional ora versada na presente causa, julgou o RE 562.980/SC, Rel. p/ o acórdão Min. MARCO AURÉLIO, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “IPI – CREDITAMENTO – ISENÇÃO – OPERAÇÃO ANTERIOR À LEI Nº 9.779/99. A ficção jurídica prevista no artigo 11 da Lei nº 9.779/99 não alcança situação reveladora de isenção do Imposto sobre Produtos Industrializados – IPI que a antecedeu.” (grifei)
+    Cabe destacar, neste ponto, que a colenda Segunda Turma desta Suprema Corte proferiu decisão, que, refletindo esse novo entendimento jurisprudencial, acha-se consubstanciada em acórdão assim ementado:
+    “TRIBUTÁRIO. COMPENSAÇÃO. CRÉDITOS DE IPI ANTERIORES À LEI 9.779/99. ENTRADA DE INSUMOS. PRODUTO FINAL ISENTO OU SUJEITO À ALÍQUOTA ZERO. MATÉRIA PACIFICADA NO PLENÁRIO DO SUPREMO TRIBUNAL FEDERAL.
+    1. Somente depois da entrada em vigor da Lei 9.779/99 se tornou possível a compensação de créditos de Imposto sobre Produtos Industrializados (IPI) pagos na entrada de insumos, quando o produto final for isento do tributo ou sujeito a alíquota zero, conforme decidido pelo Plenário do Supremo Tribunal Federal, em 06.5.2009, nos Recursos Extraordinários 460.785/RS, 562.980/SC e 475.551/PR, rel. Min. Marco Aurélio.
+    2. Embargos de declaração acolhidos com efeitos modificativos para dar provimento ao agravo regimental da União e reconsiderar a decisão agravada.
+    3. Provimento ao recurso extraordinário da União.”
+    (RE 371.898-AgR-ED/PR, Rel. Min. ELLEN GRACIE – grifei)
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos proferidos no âmbito desta Corte a propósito de questão essencialmente idêntica à que ora se examina nesta sede recursal (RE 330.227/SC, Rel. Min. AYRES BRITTO – RE 599.885/RS, Rel. Min. RICARDO LEWANDOWSKI – RE 600.468/CE, Rel. Min. EROS GRAU, v.g.).
+    Desse modo, recebo os presentes embargos de declaração, para, mantida a decisão embargada quanto às demais questões, conhecer e dar provimento ao recurso extraordinário deduzido pela União (CPC, art. 557, § 1º-A), em ordem a excluir o crédito de IPI nas operações de aquisição de matérias-primas ou insumos tributados utilizados na industrialização de produtos sujeitos à alíquota zero, em período anterior à vigência da Lei nº 9.779/99, invertidos os ônus da sucumbência.
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro CELSO DE MELLO
+Relator
