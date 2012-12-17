@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. EXECUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. Há de se mostrar omissa a decisão, mesmo após a provocação da manifestação por intermédio de embargos declaratórios, para que reste demonstrada a negativa de prestação jurisdicional ensejadora do conhecimento do recurso de revista. Exegese do disposto no art. 535, inciso 11, do CPC. Agravo desprovido”.
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se violação aos arts. 5º, II, LIV e LV, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. Inicialmente, cumpre ressaltar que o Tribunal Superior do Trabalho não conheceu do recurso de revista quanto ao tema aplicabilidade ou não dos juros de mora previstos no art. 1º-F da Lei 9.494/1997, por entender não estarem presentes os requisitos de admissibilidade do recurso.
+    Nesse contexto, destaco que os Ministros desta Corte, no RE 598.365/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos de competência de Cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Quanto à suposta violação ao art. 93, IX, da CF/88, melhor sorte não assiste à agravante. Isso porque o referido artigo não impõe que a decisão seja exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu. Assim, não há que falar em contrariedade ao referido dispositivo constitucional, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, cito os seguintes precedentes, entre outros: AI 816.457-AgR/MT, Rel. Min. Ellen Gracie; AI 701.567-AgR/SP, Rel. Min. Dias Toffoli; AI 712.670-AgR/MG, Rel. Min. Joaquim Barbosa; RE 430.637-AgR/PR, Rel. Min. Carlos Velloso; AI 812.481-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
