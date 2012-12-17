@@ -1,0 +1,13 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, II, III, XXXII, LIV, LV, e 170, V, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Nada colhe o agravo.
+    Na hipótese, verifica-se de plano que, impugnada, mediante o recurso extraordinário, decisão proferida em sede de agravo de instrumento interposto contra decisão que indeferiu a medida liminar, emerge como óbice ao seu processamento a Súmula nº 735 desta Casa, segundo a qual não cabe recurso extraordinário contra acórdão que defere medida liminar. Nesse sentido:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. MANDADO DE SEGURANÇA. PEDIDO DE LIMINAR INDEFERIDO. IMPOSSIBILIDADE DE ANÁLISE EM RECURSO EXTRAORDINÁRIO. NÃO É CABÍVEL RECURSO EXTRAORIDNÁRIO CONTRA DECISÃO QUE INDEFERE OU INDEFERE MEDIDA LIMINAR OU ANTECIPAÇÃO DE TUTELA SÚMULA 735/STF. 1. A Súmula 735 do STF dispõe que: "não cabe recurso extraordinário contra acórdão que defere medida liminar". Precedentes: RE 263.038, 1ª Turma, Min. Sepúlveda Pertence, DJ de 28.04.00, AI 439.613AgR, rel. Min. Celso de Mello, DJ de 24.06.03. 2. É que as medidas liminares de natureza eminentemente satisfativas são conferidas à base de cognição sumária e de juízo de mera verossimilhança (art. 273, § 4º, art. 461, § 3º, primeira parte, art. 798 e art. 804 do CPC), por isso que não representam pronunciamento definitivo e se sujeitam à modificação a qualquer tempo (CPC, art. 273, § 4º, art. 461, § 3º, parte final, e art. 807), reclamando confirmação ou revogação na decisão final. 3. Agravo regimental a que se nega provimento. (AI 832877 AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 28.9.2011).
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIMINAR OU TUTELA ANTECIPADA. ATO DECISÓRIO NÃO DEFINITIVO. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DA SÚMULA 735 DO STF. AGRAVO REGIMENTAL IMPROVIDO. I – As decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade que enseje o cabimento do recurso extraordinário. Incidência da Súmula 735 do STF. Precedentes. II – Agravo regimental improvido. (AI 741770 AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.8.2011)
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministra Rosa Weber
+Relatora
