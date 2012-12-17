@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada com fundamento em suposta ofensa à autoridade da decisão proferida por esta Corte no julgamento da ADI 3395 (Rel. Min. Cezar Peluso, Pleno, DJe de 10.11.2006).
+    Narra o reclamante que o Tribunal Regional do Trabalho da 7ª Região manteve condenação ao pagamento de verbas trabalhistas, declarando a competência da Justiça Especializada para julgamento da causa, porquanto não haveria prova de regular publicação de lei instituidora de regime jurídico.
+    Sustenta que a decisão reclamada teria adotado como fundamento suposta irregularidade na publicação da lei municipal que instituíra a relação entre a Administração Pública e seus funcionários. Aduz, ainda, que exatamente por haver dúvida a respeito da validade do diploma legal “(...) há uma questão de fundo que deve ser resolvida, decisão esta que é de competência da Justiça Comum” (pág. 7 da petição inicial).
+    Por fim, cita alteração promovida pelo Tribunal Superior do Trabalho, que teria cancelado a Orientação Jurisprudencial 205, da SDI-1, que “(...) admitia a competência da Justiça do Trabalho para dirimir dissídio individual entre trabalhador e Ente Público se há controvérsia acerca do vínculo empregador” (pág. 7 da petição inicial).
+    Quanto ao risco na demora da prestação jurisdicional, que justificaria a necessidade de deferimento imediato da liminar, a reclamante alega que a manutenção do posicionamento antagônico do TRT da 7ª Região “(...) seria improfícua e implicaria postergar a prestação da tutela jurisdicional, com prejuízos apenas para as partes, que, afinal, seja em que juízo estiver a demanda, Cível ou Trabalhista, terão decidida a querela entre elas pelo Judiciário” (pág. 8 da petição inicial).
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, para garantir a efetividade do resultado do futuro e provável juízo de procedência. Este requisito, entretanto, não se encontra presente.
+    Não há nos autos nenhuma comprovação de suposta iminência de ato executório, apto a justificar o deferimento da liminar. Ora, não se concebe o deferimento da medida com base em mera suposição, sem respaldo nos elementos fáticos constantes dos autos.
+    Ademais, além de não demonstrar o risco a que estaria sujeito, o reclamante sequer apresentou todas as informações relativas ao andamento processual atualizado do processo no Tribunal Superior do Trabalho.
+    Assim, pelo menos no momento ainda não há fundamento suficiente para o deferimento do pedido, suposto cabível no caso, antes das informações a serem prestadas pela autoridade reclamada, sobretudo quanto ao estágio processual em que se encontra a decisão reclamada.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada. Após, dê-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
