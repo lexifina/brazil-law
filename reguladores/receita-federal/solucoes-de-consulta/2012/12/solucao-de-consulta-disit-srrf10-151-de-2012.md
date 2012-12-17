@@ -1,0 +1,12 @@
+Solução de Consulta Disit/SRRF10 nº 151, de 3 de outubro de 2012
+ASSUNTO: Contribuição para o PIS/Pasep
+EMENTA: INCIDÊNCIA NÃO-CUMULATIVA. APROPRIAÇÃO DE CRÉDITOS. LEI Nº 11.774, de 2008. BENEFÍCIO FISCAL. OPÇÃO EM MOMENTO POSTERIOR À AQUISIÇÃO DOS BENS.
+Pode ser efetuada a opção pelo benefício fiscal estabelecido no art. 1º da Lei nº 11.774, de 2008, e seu § 3º, relativo ao aproveitamento de créditos da Contribuição para o PIS/Pasep, em momento posterior à aquisição de máquinas e equipamentos destinados à produção de bens e prestação de serviços. Nesse caso, a apropriação desses créditos, calculada com fulcro no valor residual do bem, será efetuada a partir da opção, devendo ser computados nos prazos estabelecidos nesse dispositivo legal, e contados desde a data da opção.
+O aproveitamento de créditos da Contribuição para o PIS/Pasep com base nos encargos de depreciação dos referidos bens pode ser realizado até ser efetuada a opção pelo benefício fiscal previsto no art. 1º da Lei nº 11.774, de 2008, que será irretratável.
+DISPOSITIVOS LEGAIS: Lei n° 10.637, de 2002, art. 3º, § 1º, III; Lei nº 10.833, de 2003, arts. 3º, § 14, e 15, II; Lei 11.774, de 2008, art. 1º, e seu § 3º; RIR/1999; art. 305; IN SRF nº 457, de 2004.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: INCIDÊNCIA NÃO-CUMULATIVA. APROPRIAÇÃO DE CRÉDITOS. LEI Nº 11.774, de 2008. BENEFÍCIO FISCAL. OPÇÃO EM MOMENTO POSTERIOR À AQUISIÇÃO DOS BENS.
+Pode ser efetuada a opção pelo benefício fiscal estabelecido no art. 1º da Lei nº 11.774, de 2008, e seu § 3º, relativo ao aproveitamento de créditos da Cofins, em momento posterior à aquisição de máquinas e equipamentos destinados à produção de bens e prestação de serviços. Nesse caso, a apropriação desses créditos, calculada com fulcro no valor residual do bem, será efetuada a partir da opção, devendo ser computados nos prazos estabelecidos nesse dispositivo legal, e contados desde a data da opção.
+O aproveitamento de créditos da Cofins com base nos encargos de depreciação dos referidos bens pode ser realizado até ser efetuada a opção pelo benefício fiscal previsto no art. 1º da Lei nº 11.774, de 2008. Após esse momento, que será irretratável.
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3º, §§ 1º, III, e 14; Lei 11.774, de 2008, art. 1º, e seu § 3º; RIR/1999, art. 305; IN SRF nº 457, de 2004.
+[arquivo anexo: SC SRRF10Disit nº 151-2012.pdf]
