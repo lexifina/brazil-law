@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Eleonora Gehlen Walcher e outros interpõem agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, § 6º, da Constituição Federal.
+    Insurgem-se, no apelo extremo, contra acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO – EFEITO INFRINGENTE – POSICIONAMENTO DA DOUTRINA A RESPEITO – EXCEPCIONALIDADE DE SUA COCNESSÃO – CABIMENTO NO CASO CONCRETO – DECISÃO SUPERIOR QUE DETERMINOU SUPRIMENTO DE OMISSÃO E REEXAME DE QUESTÕES NÃO LEVANTADAS EM RECURSO DE EMBARGOS DECLARATÓRIOS ANTERIOR, COM FALTA DE ANÁLISE NO SEGUNDO GRAU – REEXAME DE MÉRITO CABÍVEL NA SITUAÇÃO – APLICAÇÃO DA SÚMULA N.º 15 DO STF – DIREITO DOS CONCURSADOS AUTORES À NOMEAÇÃO QUANTO AOS CARGOS OCUPADOS POR PESSOA SEM CONCURSO OU CLASSIFICADA APÓS ELES – AFASTAMENTO DA OBRIGAÇÃO DO PAGAMENTO DE VALORES CORRESPONDENTES AO PERÍODO ANTERIOR À EFETIVA NOMEAÇÃO. EMBARGOS DE DECLARAÇÃO PROVIDOS COM EFEITO INFRINGENTE.
+    VOTO VENCIDO” (fl. 122).
+    Opostos embargos de declaração (fls. 323 a 342), foram parcialmente acolhidos para esclarecimentos (fls. 146 a 152).
+    Houve novos embargos (fls. 344 a 348), rejeitados (fls. 154 a 156).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado antes de 3/5/07, quando não era exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar.
+    O dispositivo constitucional invocado nas razões recursais carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma. Incide na espécie a Súmula nº 282 desta Corte.
+    Ressalte-se que o § 6º do artigo 37 da Constituição Federal foi objeto dos primeiros embargos de declaração opostos, aos quais foram conferidos efeitos infringentes, não tendo sido invocado nos segundos embargos declaratórios; entretanto, não há falar em prequestionamento, se a questão constitucional não foi discutida anteriormente, tendo sido suscitada apenas nos referidos embargos declaratórios. Neste sentido, anote-se:
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SÚMULA 279 DO STF. SÚMULA 636 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. MULTA. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Se a questão constitucional não vinha sendo discutida, e foi suscitada somente nos embargos de declaração, não há falar em prequestionamento. Incidem, na espécie, as Súmulas 282 e 356 da Corte. II - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - Incabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV - A alegada violação ao art. 5º, XXXVI, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. V - Aplicação de multa. VI - Agravo regimental improvido” (AI nº 638.758/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/12/07).
+    Com efeito, os recorrentes afirmam que não estão “postulando os valores em questão a título remuneratório” (fl. 169), mas pretendem seja reconhecida “a existência de dano patrimonial causado pelo Estado demandado – gerado pela preterição dos autores, aprovados em concurso público” (fl. 167).
+    Vê-se, conforme mencionado, que a questão da responsabilidade civil do Estado não é objeto dos autos, limitando-se o Tribunal de origem a afastar o “pagamento retroativo de remuneração aos autores, referentes a período no qual não houve prestação de serviço, pena de enriquecimento ilícito em prejuízo dos cofres públicos” (fl. 150), caracterizando hipótese de inovação recursal.
+    Ante o exposto, nego provimento ao agravo
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
