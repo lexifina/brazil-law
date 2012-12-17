@@ -1,0 +1,69 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Cícero Diego Romualdo Carneiro em favor de Suzi Cristiane Timo e Luciana Sammarco, buscando a liberdade provisória das pacientes.
+    Aponta como autoridade coatora a Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 260.491/DF, impetrado àquela Corte de Justiça.
+    Inicialmente sustenta o impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691 desta Suprema Corte.
+    No mais, sustenta, em síntese, o constrangimento ilegal imposto às pacientes, tendo em vista a falta de fundamentação apta a justificar a necessidade da sua medida constritiva, bem como a ausência dos pressupostos autorizadores da prisão, previstos no art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para assegurar às pacientes o benefício da liberdade provisória.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    Primeiro porque, cuida-se, na espécie de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 do Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    Transcrevo o teor da decisão proferida pelo Superior Tribunal de Justiça:
+    “Trata-se de habeas corpus, com pedido liminar, impetrado em favor de SUZI CRISTIANE TIMO e LUCIANA SAMMARCO, apontando como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios (HC n° 0025138-80.2012.807.0000).
+    Depreende-se dos autos que as pacientes foram presas em flagrante pela suposta prática do delito previsto nos arts. 33, caput e 35, caput, da Lei 11.343/06.
+    Em primeiro grau de jurisdição, a magistrada converteu o flagrante em prisão preventiva (fls. 69-71):
+    ‘No caso em tela, entendo necessária a conversão da prisão em flagrante em preventiva dos autuados para a garantia da ordem pública.
+    Cumpre observar que a prisão preventiva, espécie do gênero prisão cautelar, é medida de extrema gravidade e excepcionalidade, dado o caráter provisório da segregação que restringe a liberdade do cidadão antes da formação do juízo final de culpabilidade, materializado numa eventual sentença penal condenatória, sendo certo que a segregação antecipada somente ganha lastro legal se calcada na real necessidade do decreto, consubstanciada, por óbvio, nos pressupostos delineados no art. 312 do Código de Processo Penal, como atesta a presente hipótese.
+    Nos termos do referido artigo, para a decretação da prisão preventiva, faz-se necessária a presença do fumus comissi delicti e do periculum in libertatis , sendo que o primeiro emerge-se da prova do crime e dos indícios suficientes da autoria, enquanto que o segundo caracteriza-se pela presença de quaisquer dos fundamentos insculpidos no citado art. 312 do CPC, a saber: a) para garantia da ordem pública; b) para garantia da ordem econômica; c) por conveniência da instrução criminal; d) para assegurar a aplicação da lei penal.
+    A gravidade da conduta imputada aos denunciados (tráfico) autoriza a custódia antecipada, motivada pela garantia da ordem pública, conveniência da instrução criminal e para se assegurar a aplicação da lei penal.
+    A materialidade delitiva está devidamente evidenciada, sobretudo considerando o recolhimento da droga e de objetos comumente utilizados na mercancia de entorpecentes.
+    Desta forma, estando o flagrante em ordem e não sendo hipótese de concessão de liberdade provisória ou de qualquer outra medida cautelar diversa da prisão, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA, nos termos do art. 310, inc. II do CPP, devendo os autuados SUZI CRISTIANE TIMO, filha de JOSE HUGO TIMO e ROSILDA DE FATIMA TIMO; LUCIANA SAMMARCO, filha de EDUARDO ANACLETO SAMMARCO e MARINETE MARQUES; e EVANDRO PINHEIRO DA SILVA, filho de JOSE PINHEIRO DA SILVA e PAULINA MAGALHES DA SILVA, pois, permanecerem no cárcere em que se encontram até o término da instrução criminal ou ao menos até que seja modificada a situação fática que ora se encontram.’
+    Inconformada, a defesa impetrou prévio habeas corpus, que restou denegado, em acórdão assim fundamentado, no que interessa (fls. 136-138 ):
+    Segundo relato dos policiais civis que investigavam as pacientes e outros comparsas, existem concretas evidências do envolvimento delas em organização criminosa para o tráfico de drogas.
+    Os entorpecentes são adquiridos em outra unidade da Federação para serem distribuídos no Distrito Federal. A atuação, de cada um dos integrantes da organização criminosa foi monitorada por algum tempo, segundo esclarecimentos. prestados pelos policiais civis que participam da investigação (fls. 11/18).
+    A paciente LUCIANA possivelmente tem a função de transportar e revender as drogas, mormente no trecho Goiânia/GO e Distrito Federal, entre outras atribuições na organização criminosa.
+    A paciente SUZI, na organização, tem as incumbências de estabelecer e manter contato com os fornecedores e clientes das drogas e receber-os pagamentos dos adquirentes e repassá-los aos fornecedores. Foi apreendida diversidade de drogas em poder da paciente LUCIANA (três porções de maconha com massa bruta de 8,58g - fls. 29 e 31).
+    Na residência de SUZI encontraram uma porção de crack com massa bruta de 8,19g (fls. 29 e 31).
+    Diversas cártulas de cheque e dinheiro em espécie foram apreendidos durante a prisão em flagrante das pacientes.
+    É importante destacar que a paciente LUCIANA SAMMARCO tem diversas anotações em sua folha de antecedentes criminais. Destaca-se que estaria em regime de prisão domiciliar, inclusive por condenação relacionada ao tráfico de drogas (fls. 36 e 98/100).
+    A paciente SUZI, igualmente, possui anotações em sua folha de antecedentes penais, inclusive por tráfico de drogas. Figura como procurada da Justiça e já obteve a suspensão condicional de processo. Responde a ação penal na Justiça Federal e também na Justiça do Estado de Goiás por tráfico de drogas (fls. 37 e 92/94).
+    É importante destacar ainda a diversidade de drogas encontradas (maconha e crack) e a habitualidade na traficância de drogas no local evidenciam que as pacientes, possivelmente, são componentes da associação criminosa.
+    A concessão de liberdade provisória estimulará o retomo delas à
+    criminalidade, com prejuízo para toda a coletividade. Esta, inegavelmente, voltará a sofrer os problemas causados pelo tráfico de drogas realizado pelas pacientes e comparsas.
+    (...)
+    Cuida-se de prisão processual, constitucionalmente prevista para tutela da paz pública, a fim de assegurar, momentaneamente, a higidez da ordem social, abalada pela nocividade da conduta das pacientes e nocividade e repulsa social dos fatos apurados.
+    É inviável a substituição da prisão preventiva por outra medida cautelar menos severa. Isso pela evidente ineficácia da providência, consoante motivos expendidos para mantença da custódia cautelar do paciente.
+    Ante o exposto, denego a ordem.’
+    Daí o presente mandamus, no qual o impetrante alega que a decisão de primeiro grau que decretou a prisão preventiva das pacientes apresenta-se sem fundamentação.
+    Sustenta que ‘é cediço que a gravidade extrema do crime sem menção ao suporte fático que a caracteriza não pode ser invocada como pretexto para se manter alguém no cárcere’.
+    Afirma que a autoridade coatora complementou a fundamentação da decisão de primeiro grau, o que é vedado.
+    Requer, liminarmente e no mérito, a concessão da liberdade provisória às pacientes, expedindo-se o competente alvará de soltura.
+    É o relatório.
+    Cuida-se, em verdade, de habeas corpus substitutivo de recurso ordinário que, a rigor de técnica, e, em prestígio à lógica do sistema recursal, não deveria ser processado.
+    Todavia, tendo em vista o teor das alegações constante da impetração, entendo prudente, excepcionalmente, dar seguimento ao presente writ.
+    Não há dúvidas de que o deferimento de liminar em sede de habeas corpus é providência excepcional, cabível apenas em casos de patente ilegalidade. Não me parece ser essa a hipótese dos autos.
+    Em um primeiro lanço, o acórdão guerreado não se mostra, evidentemente, desprovido de motivação. Com efeito, o Tribunal de origem salientou que ‘a paciente LUCIANA possivelmente tem a função de transportar e revender as drogas, mormente no trecho Goiânia/GO e Distrito Federal, entre outras atribuições na organização criminosa’ e ‘a paciente SUZI, na organização, tem as incumbências de estabelecer e manter contato com os fornecedores e clientes das drogas e receber os pagamentos dos adquirentes e repassá-los aos fornecedores’ (fl. 136).
+    Ressaltou-se, ainda, que ‘foi apreendida diversidade de drogas em poder da paciente LUCIANA (três porções de maconha com massa bruta de 8,58g)’ e ‘na residência de SUZI encontraram uma porção de crack com massa bruta de 8,19g’ (fl. 136) .
+    Destacou-se, por fim, que ‘a paciente LUCIANA SAMMARCO tem diversas anotações em sua folha de antecedentes criminais’ e a ‘paciente SUZI, igualmente, possui anotações em sua folha de antecedentes penais, inclusive por tráfico de drogas’ (fl. 136).
+    Portanto, não vislumbro a imprescindível plausibilidade jurídica para o deferimento do pleito vestibular.
+    Ainda que assim não fosse, a questão a ser analisada em sede liminar confunde-se com o próprio mérito da impetração, cuja resolução demanda uma apreciação minudente dos autos e julgamento pelo Órgão Colegiado, juiz natural da causa. Nesse sentido:
+    [...] a provisão cautelar não se presta à apreciação da questão de mérito do writ, por implicar em exame prematuro da matéria de fundo da ação de habeas corpus, de competência da turma julgadora, que não pode ser apreciada nos limites da cognição sumária do Relator. Por outras palavras, no writ, não cabe medida satisfativa antecipada. (HC 17.579/RS, Rel. Min. Hamilton Carvalhido, DJ 09.08.2001.)
+    Não comparecem, pois, os requisitos para o deferimento do pleito prefacial.
+    Ante o exposto, indefiro a liminar.
+    Solicitem-se informações à autoridade apontada como coatora e ao juízo de primeiro grau sobre o alegado na impetração.
+    Devem tais autoridades, ainda, informar a esta Corte a ocorrência de qualquer alteração relevante no quadro fático, especialmente se sobrevier sentença ou as pacientes forem soltas.
+    Após, ao Ministério Público Federal para parecer.” (fl. 1 do anexo 25).
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Com efeito, essa circunstância, por si só, já inviabilizaria conhecimento da presente impetração, uma vez que não se verifica situação de flagrante ilegalidade apta a ensejar o afastamento excepcional da Súmula nº 691 desta Suprema Corte.
+    Segundo porque, ainda que fosse o caso de superação da súmula em questão, a impetração esbarra na decisão da Primeira Turma que, em sessão extraordinária datada de 7/8/12, assentou, quando do julgamento do HC nº 109.956/PR, Relator o Ministro Marco Aurélio, a inadmissibilidade do habeas corpus que tenha por objetivo substituir o recurso ordinário constitucional, previsto no art. 102, inciso II, alínea “a” da Carta da República.
+    Segundo o dispositivo em questão, compete a este Supremo Tribunal julgar, em recurso ordinário, “o ‘habeas-corpus’, o mandado de segurança, o ‘habeas-data’ e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão”.
+    Conforme expressamente consignado pelo eminente relator naquela assentada, “o habeas corpus substitutivo do recurso ordinário, além de não estar abrangido pela garantia constante do inciso LXVIII do artigo 5º do Diploma Maior, não existindo sequer previsão legal, enfraquece este último documento, tornando-o desnecessário no que, nos artigos 102, inciso II, alínea ‘a’, e 105, inciso II, alínea ‘a’, tem-se a previsão do recurso ordinário constitucional a ser manuseado, em tempo, para o Supremo, contra decisão proferida por Tribunal Superior indeferindo ordem, e para o Superior Tribunal de Justiça contra ato de Tribunal Regional Federal e de Tribunal de Justiça” (HC nº 108.715/RJ).
+    Nada impede, entretanto, que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo (art. 102, inciso II, alínea “a” da CF), analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, destaco não haver ato configurador de flagrante constrangimento ilegal praticado contra as pacientes, advindo do decreto prisional em questão (fls. 69/72 do anexo 2), não sendo os argumentos ora apresentados suficientes para colocá-las em liberdade, liminarmente e per saltum, como pretende a impetração.
+    Ressalvo, ademais, meu entendimento pessoal, já consignado em sentido contrário naquele julgamento da Turma, pelo cabimento do habeas corpus substitutivo nesses casos. Contudo, adoto o entendimento do colegiado e o aplico à espécie.
+    Ante o exposto, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante apta a ensejar uma concessão de ofício, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
