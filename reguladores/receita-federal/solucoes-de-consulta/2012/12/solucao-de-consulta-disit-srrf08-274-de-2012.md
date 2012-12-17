@@ -1,0 +1,13 @@
+Solução de Consulta Disit/SRRF08 nº 274, de 19 de novembro de 2012
+Assunto: Contribuição para o PIS/Pasep
+CRÉDITO. CONTRATO PARA USO DE SISTEMAS DE DISTRIBUIÇÃO. ENERGIA ELÉTRICA. FRETE NA AQUISIÇÃO DE INSUMO.
+Não é permitida a constituição de créditos a serem descontados da contribuição para o PIS/Pasep, de que trata o art 3°, inciso IX, da Lei n° 10.637, de 2002, sobre dispêndios com "Encargos de Uso do Sistema de Distribuição", calculados em função de Tarifas de Uso do Sistema de Distribuição - TUSD, no âmbito de um "Contrato de Uso do Sistema de Distribuição - CUSD", ou sobre aqueles efetuados com o fim de remunerar o uso do sistema de distribuição, por não se configurarem como despesas com a energia elétrica consumida nos estabelecimentos da pessoa jurídica.
+Tais dispêndios tampouco podem ser considerados como frete pago na aquisição de insumo, para fins da constituição de créditos a serem descontados da contribuição para o PIS/Pasep, de que trata o art 3°, inciso II, da Lei n° 10.637, de 2002, porquanto o crédito referente à energia elétrica consumida nos estabelecimentos da pessoa jurídica não é calculado com base nesse dispositivo, e sim, no inciso IX do art. 3º da Lei 10.637, de 2002.
+Dispositivos Legais: Lei nº 10.637, de 2002, art. 3°, incisos II e IX; IN SRF n° 247, de 2002, art. 66.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+CRÉDITO. CONTRATO PARA USO DE SISTEMAS DE DISTRIBUIÇÃO. ENERGIA ELÉTRICA. FRETE NA AQUISIÇÃO DE INSUMO.
+Não é permitida a constituição de créditos a serem descontados da Cofins, de que tratam o art. 3°, inciso III, da Lei n° 10.833, de 2003, sobre dispêndios com "Encargos de Uso do Sistema de Distribuição", calculados em função de Tarifas de Uso do Sistema de Distribuição - TUSD, no âmbito de um "Contrato de Uso do Sistema de Distribuição - CUSD", ou sobre aqueles efetuados com o fim de remunerar o uso do sistema de distribuição, por não se configurarem como despesas com a energia elétrica consumida nos estabelecimentos da pessoa jurídica.
+Tais dispêndios tampouco podem ser considerados como frete pago na aquisição de insumo de insumos para fins da constituição de créditos a serem descontados da Cofins, de que trata o art 3°, inciso II, da Lei n° 10.833, de 2003, porquanto o crédito referente à energia elétrica consumida nos estabelecimentos da pessoa jurídica não é calculado com base nesse dispositivo legal, e sim, no inciso III do art. 3º da Lei 10.833, de 2003.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 3°, incisos II e III; IN SRF n° 404, de 2002, art. 8°.
+Novo segmento
+[arquivo anexo: SC SRRF08-Disit nº 274-2012.pdf]
