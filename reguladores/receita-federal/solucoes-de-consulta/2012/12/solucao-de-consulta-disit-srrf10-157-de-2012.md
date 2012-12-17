@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 157, de 26 de outubro de 2012
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+EMENTA: GANHO DE CAPITAL. ALIENAÇÃO. INTEGRALIZAÇÃO DE CAPITAL COM IMÓVEL. IMÓVEL LOCADO A TERCEIRO.
+Configura alienação, para efeito de apuração do imposto de renda incidente sobre os ganhos de capital, a transferência de imóvel de pessoa física a pessoa jurídica, a título de integralização de capital. Considera-se data de alienação do imóvel, em regra, aquela consignada no contrato social ou alteração contratual que estipular a formação ou aumento do capital com o imóvel. Na hipótese de o imóvel objeto de transferência estar locado a terceiro, o pagamento do imposto de renda incidente sobre os aluguéis incorridos a partir da data de alienação será de responsabilidade da pessoa jurídica receptora do imóvel.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (CTN), arts. 45, caput, 109 e 121, parágrafo único, I; Lei nº 6.404, de 1976, arts. 7º e 8º, § 2º; Lei nº 7.713, de 1988, art. 3º, §§ 2º e 3º; Lei nº 9.249, de 1995, art. 23; Decreto nº 3.000, de 1999 (RIR/1999), arts. 117, § 4º, 132 e 154; Parecer Normativo CST nº 18, de 1981.
+[arquivo anexo: SC SRRF10-Disit nº 157-2012.pdf]
