@@ -1,0 +1,27 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por Ednílson Barbosa dos Santos (ou Edmilson Barbosa dos Santos) contra acórdão do Superior Tribunal de Justiça, que negou provimento ao Agravo Regimental manejado nos autos do HC 205.143/SP.
+    A 2ª Vara de Execuções Criminais do Estado de São Paulo indeferiu o pedido de progressão para o regime semiaberto de cumprimento de pena diante da prática de falta grave.
+    Contra tal decisão, Ednílson Barbosa dos Santos manejou Agravo em Execução, desprovido pelo Tribunal de Justiça de São Paulo.
+    Irresignada, a Defesa impetrou habeas corpus perante o Superior Tribunal de Justiça, que, em decisão monocrática da lavra do Ministro Haroldo Rodrigues (Desembargador convocado do TJCE), concedeu a ordem. Todavia, a Sexta Turma daquela Corte, ao apreciar o agravo regimental do Ministério Público, deu provimento ao recurso, nos termos da seguinte ementa:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL PARA PROGRESSÃO PRISIONAL. AUSÊNCIA DE CONSTRANGIMENTO.
+    1. A Terceira Seção deste Superior Tribunal de Justiça uniformizou o entendimento de que a prática de falta grave representa marco interruptivo para a progressão do regime de cumprimento de pena.
+    2. Agravo regimental provido. Ordem denegada”.
+    Neste recurso ordinário, sustenta a Defesa falta de previsão legal na interrupção do lapso temporal para a progressão de regime prisional.
+    Insiste que “relativamente à progressão tal qual ocorre com o livramento condicional, a Lei de Execução Penal não estabelece qualquer forma de interrupção do cumprimento da pena, para o fim de se alcançar o lapso temporal exigido como requisito objetivo”.
+    Requer o deferimento de liminar para afastar a interrupção da contagem do lapso temporal para a progressão de regime, com a reavaliação do benefício pelo Juízo das Execuções Penais.
+    É o relatório.
+    Decido.
+    Insurge-se o Recorrente contra o reinício da contagem do prazo para a progressão prisional dado o cometimento de falta grave no curso na execução penal.
+    Verifico, de plano, que a pretensão esbarra na jurisprudência consolidada deste Supremo Tribunal Federal.
+     Cumpre transcrever, no que sobrelevam, os fundamentos da negativa de provimento ao agravo regimental pelo Superior Tribunal de Justiça:
+    “À época em que fora proferida a decisão ora agravada, a Sexta Turma deste Superior Tribunal de Justiça havia firmado entendimento no sentido de que a falta grave não serviria para interromper o cômputo dos prazos para a aquisição de benefícios da execução da pena.
+    Contudo, a matéria em questão era controvertida entre as Turmas que compunham a Terceira Seção desta Corte e no julgamento dos Embargos de Divergência no Recurso Especial nº 1.176.486/SP, ocorrido em 28.03.2012, cuja relatoria coube ao Ministro Napoleão Nunes Maia Filho, o entendimento foi uniformizado no sentido de que a prática de falta grave representa marco interruptivo para a progressão do regime de cumprimento de pena”.
+    Da mesma forma, a jurisprudência pacífica desta Suprema Corte entende que, caso o apenado esteja cumprindo a pena no regime fechado, sendo inviável a regressão prisional, a prática de falta grave tem como efeito o reinício da contagem do prazo para a progressão de regime. Cito precedentes de ambas as Turmas deste Supremo Tribunal Federal:
+    "O cometimento de falta grave pelo detento tem como consequência o reinício da contagem do lapso temporal de 1/6 da pena para progressão do regime prisonal" (HC 88.928 - Rel. Min. Ricardo Lewandoski - 1.º Turma - un. - j. 20/06/2006).
+    “É da jurisprudência do Supremo Tribunal Federal que o cometimento de falta grave reinicia a contagem do lapso temporal de 1/6 (1/6 de cumprimento da pena a que foi condenado ou ainda para cumprir) para a concessão de progressão de regime. Confiram-se, por amostragem, os seguintes julgados: HCs 85.141, da minha relatoria; 85.605, da relatoria do ministro Gilmar Mendes; 93.554, da relatoria do ministro Celso de Mello; 95.367, da relatoria do ministro Ricardo Lewandowski; e, mais recentemente, 101.915, da relatoria da ministra Ellen Gracie. Jurisprudência decorrente da própria literalidade do art. 112 da Lei de Execuções Penais: fará jus à progressão, se e quando o condenado “tiver cumprido ao menos um sexto da pena no regime anterior e seu mérito indicar a progressão”. 2. O período de 1/6 é de ser calculado, portanto, com apoio no restante da pena a cumprir, adotando-se como termo inicial de contagem a data em que o sentenciado foi recapturado.” (HC 108.472/SP – 2.ª Turma – Rel. Min. Carlos Ayres Britto – un. - j. 09/08/2011 – Dje-027, de 08/02/2012).
+    Considerando que a decisão esgrimida guarda consonância com precedentes de ambas as Turmas deste Supremo Tribunal Federal, no sentido de que o cometimento de falta grave no curso da execução penal enseja o reinício da contagem do prazo para a progressão de regime, seria improvável o acolhimento da pretensão, caso fosse dado seguimento ao recurso ordinário em habeas corpus.
+    A pretensão do Recorrente é, conforme reiterada jurisprudência deste Supremo Tribunal Federal, manifestamente improcedente, motivo pelo qual nego seguimento ao recurso ordinário, forte no art. 21, §1.º, do Regimento Interno, ficando prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de dezembro de 2012.
+Ministra Rosa Weber
+      Relatora
