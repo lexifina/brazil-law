@@ -1,0 +1,2 @@
+Dispõe sobre a criação de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e de Funções Gratificadas, destinados ao Ministério da Integração Nacional, à Superintendência do Desenvolvimento do Centro-Oeste - SUDECO, à Superintendência do Desenvolvimento do Nordeste - SUDENE, à Superintendência do Desenvolvimento da Amazônia - SUDAM e ao Departamento Nacional de Infraestrutura de Transporte - DNIT.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
