@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    "Reclassificação. Professor. Incidência da redação original dos artigos do Estatuto do Magistério. Promoção. Diferenças Salariais. Progressão. Requisitos. Não preenchimento. Gratificação de Atividade de Magistério. Compensação. Licenciatura em Ensino Religioso. Necessidade de Graduação em Nível Superior.
+    Comprovado que o servidor público preencheu os requisitos para a ascensão na carreira, por ter obtido habilitação especifica de grau superior, tem ele direito à promoção pleiteada, conforme previsto na lei de regência.
+    O termo inicial para pagamento das diferenças salariais, quando não atendidos os ditames do art. 2º e parágrafo único da Lei Estadual N. 7.885/2003, e a data da vigência da Medida Provisória N. 044/2009, convertida na Lei N. 8.969/2009, que represtinou os artigos 41, 42 e 43 do Estatuto do Magistério.
+    Diploma de formação religiosa não comprova graduação em nível superior, apenas o qualifica para ministrar conteúdo religioso nos estabelecimentos de ensino estadual e municipal.
+    O provimento vertical (promoção) não ocorre automaticamente, tendo em vista encontrar-se condicionado a requerimento da parte interessada, nos termos do art. 41, do Estatuto do Magistério (Lei n°. 6.110/94), sendo devido o pagamento de diferença salarial desde o dia do requerimento, ou, excepcionalmente, da data da colação de grau, quando posterior ao protocolo administrativo.
+    O deferimento de progressão funcional de professor da rede pública de ensino condiciona-se a prova, pelo docente, dos requisitos exigidos em lei, tal como, a avaliação de desempenho.
+    A gratificação de atividade de magistério e devida no percentual previsto no art. 60, II, da Lei 6.110/94, no entanto, faz-se, mister realizar reduções dos respectivos percentuais já recebidos pelas apeladas na condição de professoras de nível médio".
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 39 da mesma Carta.
+    A pretensão recursal não merece acolhida. O acórdão recorrido, com apoio no conjunto fático-probatório dos autos, entendeu que os ora recorrentes não tem direito a progressão funcional, ante a inexistência de requerimento administrativo. Contudo, os recorrentes, na petição do recurso extraordinário, não atacaram o fundamento da decisão supracitada, limitando-se a tecer considerações acerca da omissão do Estado na regulamentação da carreira.
+    Ressalte-se que incumbe ao recorrente o dever de impugnar, de forma específica, cada um dos fundamentos da decisão atacada, sob pena de não conhecimento do recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 283 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: RE 548.094-AgR/DF e RE 561.869-AgR/RJ, Rel. Min. Cezar Peluso; RE 452.272-AgR/SE, Rel. Min. Sepúlveda Pertence; AI 469.221-AgR/SP, Rel. Min. Cármen Lúcia; AI 672.744-AgR/BA, Rel. Min. Ellen Gracie; RE 544.591-AgR/RN e AI 634.686-AgR/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
