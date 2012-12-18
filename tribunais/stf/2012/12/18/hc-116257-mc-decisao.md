@@ -1,0 +1,12 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Alcemir Silva, no qual o impetrante se insurge contra alegado excesso de prazo do STJ para julgar Agravo de Instrumento em Recurso Especial interposto contra acórdão que manteve sentença penal condenatória.
+    Sustenta o impetrante que o Agravo de Instrumento em Recurso Especial interposto por sua defesa perante o STJ, de relatoria da Min. Maria Thereza de Assis Moura, contra acórdão do TJ/RJ que confirmara sentença condenatória, aguarda julgamento desde julho de 2010, em inegável excesso de prazo. Afirma, ainda, que (a) fora condenado pela prática do crime de formação de quadrilha armada (art. 288, parágrafo único, do CP) a 8 (oito) anos de reclusão, com regime de cumprimento inicialmente fechado; (b) o regime adequado, todavia, segundo as circunstâncias previstas no art. 59 do CP, deve ser o semi-aberto; (c) mesmo considerando-se posterior condenação pelo art. 158 do CP, e somada a pena desta (9 anos e 4 meses) com a da condenação pelo art. 288, parágrafo único (8 anos), o paciente permanece preso há mais de 4 anos, isto é, há mais de 1/6 das penas somadas, o que já lhe permite a progressão de regime. Requer a concessão de medida liminar para que que (a) o paciente seja imediatamente colocado no regime semi-aberto; (b) a determinação para que o STJ julgue o recurso interposto.
+    2. No caso, como o recurso do paciente ainda não foi julgado pelo Superior Tribunal de Justiça, qualquer juízo desta Corte acerca das questões aqui suscitadas implicaria indevida supressão de instância. Com efeito, para que haja “uma autoridade coatora, é necessário que essa autoridade tenha tido a oportunidade de se manifestar sobre o pedido formulado pelo impetrante. Do contrário, não é possível falar em coação” (RHC 93.304, 2ª T., Min. Joaquim Barbosa, Dje de 19/12/2008).
+    3. Por outro lado, relativamente ao aventado excesso de prazo para julgamento do recurso interposto perante o STJ, não se mostra manifesta a presença dos pressupostos autorizadores da concessão da medida cautelar. Cumpre ouvir, com efeito, a autoridade coatora a respeito dos fatos alegados.
+    4. Com essas considerações, indefiro o pedido liminar.
+    Requisitem-se informações ao Superior Tribunal de Justiça. Após, encaminhem-se os autos à Procuradoria-Geral da República para parecer.
+    Publique-se. Intime-se.
+    Brasília, 18 de dezembro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
