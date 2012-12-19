@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Fabio Luiz dos Santos, contra decisão proferida pelo Ministro Campos Marques (Desembargador Convocado do TJ/PR), que, nos autos do HC 261.362, indeferiu o pedido liminar. Eis o teor da decisão atacada:
+    Em favor de Fabio Luiz dos Santos, condenado a uma pena de 4 (quatro) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, pela prática dos delitos descritos nos arts. 155, § 4º, I, por dezesseis vezes – furtos qualificados a caixas eletrônicos -, e 288, caput, na forma do art. 71, todos do Código Penal foi impetrado este habeas corpus com pedido de liminar.
+    Noticiam os impetrantes que após a prolação da sentença, irresignada, a defesa manejou writ pleiteando o reconhecimento do direito de recorrer em liberdade, cuja ordem foi denegada pelo Tribunal de Justiça de São Paulo.
+    Ao argumento que o paciente sofre constrangimento ilegal, ante a falta de fundamentação idônea da decisão que negou o direito de apelar em liberdade, manejou-se o presente remédio heroico, no qual foi requerida, por derradeiro, a concessão de medida liminar, com o fim de que seja expedido alvará de soltura.
+    Este, em síntese, o relatório.
+    Decido o pedido liminar.
+    Do exame dos autos, constato que a justificativa utilizada pelo Tribunal estadual para manter a negativa de recorrer em liberdade, fundou-se na circunstância de que a "prisão foi corretamente decretada para assegurar a aplicação da lei penal" (fl. 43), uma vez que o ora paciente está foragido.
+    Assim sendo, os elementos dos autos não autorizam, neste exame de urgência, a concessão da providência liminar requerida, uma vez que não se vislumbra, de pronto, ilegalidade na decisão impetrada.
+    Ante o exposto, indefiro a liminar.
+    Na inicial, pede-se, preliminarmente, a superação da Súmula 691/STF. No mérito, alega-se, em suma, o seguinte: (a) o paciente foi condenado à pena de 04 (quatro) anos e 04 (quatro) meses de reclusão, em regime inicial semiaberto, pela prática dos delitos previstos no arts. 155, §4º, I, 155, §4º I e IV, c/c 14, II, e 288, do CP; (b) o Juízo da 13ª Vara Criminal da Comarca de São Paulo/SP, na sentença condenatória, negou o direito do acusado apelar em liberdade, mesmo reconhecendo as condições judiciais favoráveis do paciente; (c) outros corréus foram beneficiados com o direito de apelar em liberdade; (d) é notória contradição entre o cumprimento da pena em regime intermediário e a manutenção da prisão cautelar. Requer o deferimento da liminar para assegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da ação penal.
+    2. De acordo com a Súmula 691 do STF, não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012). A hipótese dos autos, todavia, não se caracteriza por qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Diante do exposto, nego seguimento ao pedido de habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se. Intime-se.
+    Brasília, 19 de dezembro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
