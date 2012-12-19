@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Departamento de Estradas de Rodagem do Estado de Minas Gerais – DER/MG interpõe agravo de instrumento contra decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, incisos XXXV, XXXVI, LIV e LV, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Oitava Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO - EMBARGOS À EXECUÇÃO FUNDADA EM SENTENÇA - DESCUMPRIMENTO DO ARTIGO 614, II, CPC - INOCORRÊNCIA - EXCESSO - GRATIFICAÇÃO ESPECIAL - COISA JULGADA - DESCONTO DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS, DAS CONTRIBUIÇÕES AO FUNDO DE APOSENTADORIA, E DO IMPOSTO DE RENDA - INVIABILIDADE – VERBA HONORÁRIA DE SUCUMBÊNCIA - REDUÇÃO - NÃO-CABIMENTO. A memória de cálculo do débito atualizado é o único documento exigível para se instruir a petição inicial, na execução de titulo judicial por quantia certa, ex vi dos incisos I e II do artigo 614 do CPC. Nos termos dos artigos 743, I c/c 333, II, cabe ao Embargante comprovar o excesso da execução”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar.
+    Afasto a alegada afronta ao artigo 93, inciso IX, da Constituição Federal, haja vista que o acórdão recorrido encontra-se devidamente motivado e fundamentado, embora contrário ao interesse da ora recorrente.
+    Ressalte-se que referido norma não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados pelo então recorrente, mas que fundamente as razões que entendeu suficientes à formação de seu convencimento (RE nº 463.139/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 3/2/06; e RE nº 181.039/SP-AgR, Primeira Turma, Relatora a Ministra Ellen Gracie, DJ de 18/5/01).
+    Diga-se, ainda, que o Plenário desta Corte já pacificou a matéria, no julgamento do AI nº 791.292-QO-RG/PE, cuja ementa assim dispõe:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral (Relator o Ministro Gilmar Mendes, DJe de 13/8/10)”.
+    Ademais, verifico que o Tribunal de origem solucionou a lide com fundamento na legislação infraconstitucional, conforme se extrai do seguinte fragmento do acórdão recorrido:
+    “(...)
+    Outrossim, é insustentável o alegado excesso de execução - e aqui já passo ao segundo ponto controvertido -, pelo fato de ter sido desconsiderada, na realização dos cálculos, a incompatibilidade da opção prevista no artigo 22 da Lei n. 11.403, de 1994, com a Gratificação Especial. E mais. Por não terem sido descontadas as contribuições previdenciárias - inclusive ao Fundo de Aposentadoria -, além do Imposto de Renda .
+    (...)
+    Vale dizer, o DER/MG não atentou, nesse particular, para os estreitos limites do artigo 741 do CPC. Argumentou, tão-somente, que houve excesso da execução, ante o fato de ser incompatível a opção do artigo 22 da Lei n. 11.403, de 1994, com a Gratificação Especial, sendo certo que o direito a essa última verba foi conferido em sentença já transitada em julgado.
+    Logo, é de se concluir: o questionamento, acerca do direito à Gratificação Especial, é incabível nos embargos à execução fundada em título judicial. Isso porque não foi tema sustentado à época do manejo dos embargos. Mesmo se fosse, não mereceria acolhimento, tudo em respeito aos efeitos da coisa julgada, a qual confere imutabilidade e indiscutibilidade ao conteúdo da sentença exeqüenda, ex vi dos artigos 467 e 468 da mesma lei processual.
+    (...)”.
+    Nesse caso, para acolher a pretensão da agravante e ultrapassar o entendimento do Tribunal de origem seria necessário o reexame da legislação infraconstitucional, o que não é cabível em sede de recurso extraordinário.
+    Ressalte-se que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    No mesmo sentido, a seguinte decisão monocrática: AI n° 837.048/MG, Relator o Ministro Gilmar Mendes, DJe de 21/2/11.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de dezembro de 2012.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
