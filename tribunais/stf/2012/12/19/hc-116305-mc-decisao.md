@@ -1,0 +1,21 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Eduardo de Vilhena Toledo e outros, em favor de PAULO ROBERTO KRUG, contra decisão proferida no REsp 1.169.489/PR, do Superior Tribunal de Justiça, Rel. Min. Eliana Calmon.
+    Os impetrantes narram, de início, que o paciente foi condenado em primeira instância como incurso nas penas do art. 4º da Lei 7.492/1986, resolvendo-se a hipótese de conflito aparente de normas pelo princípio da consunção dos crimes de “fazer funcionar instituição financeira sem autorização legal”, e de evasão de divisas pelo delito de gestão fraudulenta de instituição financeira.
+    Inconformados, defesa e Ministério Público apelaram. O Tribunal Regional Federal da 4ª Região deu parcial provimento ao recurso ministerial para reconhecer o concurso formal entre os delitos do art. 4º, 16 e 22 da Lei 7.492/1986. Ao final, foi aplicada ao crime de gestão fraudulenta de instituição financeira de fato a pena de 5 anos e 3 meses de reclusão, aumentada em 1/6, alcançando o montante de 6 anos, 3 meses e 18 dias de reclusão, em regime inicial fechado.
+    Ainda irresignada, a defesa interpôs recurso especial para o STJ, mas o Ministro Relator negou seguimento ao recurso, o que deu ensejo ao ajuizamento de agravo regimental, que foi improvido, e, posteriormente, à oposição de embargos declaratórios, rejeitados.
+    Sustentando negativa de prestação jurisdicional, a defesa manejou recurso extraordinário, que foi indeferido liminarmente, dando ensejo a nova interposição de agravo regimental, igualmente improvido.
+    É contra a suposta negativa de prestação jurisdicional que se insurgem os impetrantes.
+    Alegam, em síntese, que a decisão proferida no recurso especial ora em debate revela “flagrante violação ao direito fundamental à efetiva (substancial) prestação jurisdicional, porque inexistente motivação idônea e correlata aos contornos do caso em discussão”.
+    Sustentam, para tanto, que o STJ ignorou, solenemente, os contornos objetivos do complexo caso penal subjacente, e interpretou de forma inadequada as questões relativas ao conhecimento do recurso especial.
+    Afirmam, mais, que a decisão proferida pelo STJ, in casu, “não representa mais do que mera repetição automática de padrões anteriores, verdadeira fundamentação carimbo que, servindo para qualquer processo, não serve para processo algum”.
+    Asseveram, nesse contexto, ser inadmissível a fundamentação padrão adotada pelo Tribunal a quo, por se tratar de caso penal dotado de particularidades únicas, de alta complexidade e, ainda, por estar em jogo o status libertatis do paciente.
+    Destacam, também, que a pretensão do paciente deduzida no recurso especial não demanda a apreciação do suporte probatório ou a alteração das premissas fáticas do acórdão regional, o que afasta o óbice da Súmula 7 do STJ.
+    Requerem, ao final, liminarmente, a suspensão dos efeitos do “acertamento recursal ditado pelo e. STJ no recurso especial nº 1.169.489/PR (ação penal nº 2004.70.00.015045-5), até o julgamento final deste writ”. No mérito, pedem a anulação da decisão proferida pelo STJ no REsp 1.169.489/PR  e em suas sucessivas decisões integrativas, impondo-se que outro julgamento seja proferido por aquela Corte.
+    É o breve relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    No caso concreto, os argumentos dos impetrantes não são suficientes para, a priori, suspender os efeitos do decisum ora combatido, revelando, primo ictu occuli, apenas inconformismo da parte com o desfecho da causa. Assim, pelo menos neste exame preliminar, devem prevalecer os fundamentos do acórdão ora questionado, que decidiu manter a condenação do paciente.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 19 de dezembro de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
