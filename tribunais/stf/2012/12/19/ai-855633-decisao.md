@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de instrumento de decisão que deixou de admitir recurso extraordinário sob o fundamento de que a ofensa aos incisos XXXV, LIV, e LV do artigo 5º da Constituição Federal seria meramente indireta ou reflexa, conforme jurisprudência desta Corte.
+    Sustenta o agravante, em síntese, que (a) há lesão direta ao texto constitucional, pois a Corte regional concedeu à autora o direito à percepção da gratificação postulada com fundamento na submissão do poder regulamentar da Administração Pública ao princípio da legalidade, previsto no artigo 5º, II, e 37, caput da Constituição Federal; (b) o acórdão recorrido utilizou-se desse mesmo princípio (legalidade), para rejeitar os embargos infringentes da União.
+    2. O recorrente não demonstrou as razões pelas quais entende violado o princípio da legalidade, limitando-se a manifestar sua irresignação contra o julgado, o que caracteriza a deficiência na fundamentação do apelo extremo. Inadmissível o extraordinário, nos termos da Súmula 284 deste Tribunal: “é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia”. Não atacados os fundamentos da decisão agravada, torna-se inviável o recurso.
+    Ademais, a apreciação dos aspectos da Lei 8.864/94, que fixou valores às gratificações eleitorais, faz incidir, o óbice constante da Súmula 636 do Supremo Tribunal Federal ("não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida").
+    É inviável a apreciação em recurso extraordinário de violação aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, apontam ofensa meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    3. Ante o exposto, nego provimento ao agravo
+    Publique-se. Intime-se.
+    Brasília, 19 de dezembro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
