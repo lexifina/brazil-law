@@ -1,0 +1,1 @@
+Art. 17-A. A EPL divulgará, em seu sítio eletrônico, informações gerenciais e administrativas referentes à sua atuação, bem como os contratos firmados e demais instrumentos congêneres necessários ao desempenho de suas atividades, observadas as disposições da Lei nº 12.527, de 18 de novembro de 2011.
