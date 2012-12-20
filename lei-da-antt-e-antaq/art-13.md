@@ -8,4 +8,4 @@ a) prestação não regular de serviços de transporte terrestre coletivo de pas
 b) prestação de serviço de transporte aquaviário;
 c) exploração de infraestrutura de uso privativo; e
 d) transporte ferroviário de cargas não associado à exploração da infraestrutura ferroviária, por operador ferroviário independente.
-Parágrafo único. Considera-se, para os fins da alínea "d" do inciso V do caput, operador ferroviário independente a pessoa jurídica detentora de autorização para transporte ferroviário de cargas desvinculado da exploração da infraestrutura.
+Parágrafo único. Considera-se, para os fins da alínea d do inciso V do caput, operador ferroviário independente a pessoa jurídica detentora de autorização para transporte ferroviário de cargas desvinculado da exploração da infraestrutura.
