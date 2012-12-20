@@ -1,0 +1,20 @@
+DECISÃO
+CONTRIBUIÇÃO PREVIDENCIÁRIA – APOSENTADO – RETORNO À ATIVIDADE – PRECEDENTES – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. O Tribunal Regional Federal da 4ª Região reformou o entendimento constante da sentença, ante fundamentos assim resumidos (folha 116):
+    TRIBUTÁRIO. PREVIDENCIÁRIA. REMUNERAÇÃO DE APOSENTADO PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL QUE VOLTA A EXERCER ATIVIDADE LABORAL. PRINCÍPIO DA SOLIDARIEDADE SOCIAL. LEIS 8.212/91 E 9.032/95. PRAZO PRESCRICIONAL. LCN.° 118/2005.
+    1. O e. Superior Tribunal de Justiça, em julgamento dos Embargos de Divergência no Recurso Especial n.° 327043, decidiu, por unanimidade, que se aplica o prazo prescricional do referido art. 3.° da LC 118/05 às ações ajuizadas a partir de 09 de junho de 2005, pelo que encontram-se prescritas as parcelas anteriores aos cinco anos que antecedem o ajuizamento da ação.
+    2. Face à extinção do pecúlio, com a Lei n.° 8.870/94, o segurado
+    que voltasse a contrair nova relação empregatícia posterior à aposentadoria estava desobrigado a recolher a aludida contribuição.
+    3. A contribuição à seguridade social é inspirada pelo princípio da solidariedade social, donde se infere que a obrigação de custeio é autônoma em relação à de amparo. Assim, o fato de o segurado recolher contribuição previdenciária não lhe assegura o recebimento do benefício respectivo.
+    4. A Lei 9.032/95, em seus artigos 2.° e 3.°, ao alterar, as redações do art. 12, § 4.°, da Lei n.° 8.212/91, e do art. 11, § 3.°, da Lei 8.213/91, não criou nova contribuição, havendo tão-somente dispensado ao inativo que retorne à atividade o mesmo tratamento tributário dado aos demais segurados; assim, apenas veio a disciplinar contribuição cuja matriz constitucional é o art. 195, II, CF. Não houve, então, violação ao § 4.° do mesmo dispositivo, que, combinado com o art. 154, I, prevê a necessidade de lei complementar para a instituição de novas fontes de custeio para a seguridade social.
+    5. Não há falar em inobservância ao princípio da proibição do confisco, previsto no art. 150, inciso IV, da Constituição Federal, porquanto não se trata de tributo excessivamente oneroso, tendo sido respeitada a capacidade contributiva do contribuinte.
+    2. A questão foi analisada por ambas as Turmas do Supremo. Confiram o que se contém nas seguintes ementas:
+    Contribuição previdenciária: aposentado que retorna à atividade: CF, art. 201, § 4º; L. 8.212/91, art. 12: aplicação à espécie, mutatis mutandis, da decisão plenária da ADIn 3.105, red.p/acórdão Peluso, DJ 18.2.05.
+    A contribuição previdenciária do aposentado que retorna à atividade está amparada no princípio da universalidade do custeio da Previdência Social (CF, art. 195); o art. 201, § 4º, da Constituição Federal “remete à lei os casos em que a contribuição repercute nos benefícios”. (Recurso Extraordinário nº 437.640/RS, relatado na Primeira Turma pelo Ministro Sepúlveda Pertence, acórdão publicado no Diário da Justiça de 2 de março de 2007).
+    1. RECURSO. Extraordinário. Acórdão com dupla fundamentação suficiente. Impugnação de um só dos fundamentos. Subsistência do fundamento infraconstitucional. Preclusão consumada. Não conhecimento. Aplicação da súmula 283. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+    2. RECURSO. Extraordinário. Inadmissibilidade. Contribuição previdenciária. Aposentado que retorna ou permanece em atividade. Incidência. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. (Agravo Regimental no Agravo de Instrumento nº 397.337/RS, relatado na Segunda Turma pelo Ministro Cezar Peluso, acórdão publicado no Diário da Justiça de 14 de setembro de 2007).
+    3. Ante os precedentes, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 20 de dezembro de 2012.
+Ministro MARCO AURÉLIO
+Relator
