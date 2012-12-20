@@ -1,0 +1,2 @@
+Altera as Leis nºs 10.233, de 5 de junho de 2001, e 12.404, de 4 de maio de 2011, para modificar a denominação da Empresa de Transporte Ferroviário de Alta Velocidade S.A. - ETAV para Empresa de Planejamento e Logística S.A. - EPL, e ampliar suas competências; e revoga dispositivo da Lei nº 11.772, de 17 de setembro de 2008.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
