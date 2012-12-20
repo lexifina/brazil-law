@@ -1,0 +1,2 @@
+Altera as Leis nº s 11.759, de 31 de julho de 2008, que autoriza a criação da empresa pública Centro Nacional de Tecnologia Eletrônica Avançada S.A. - CEITEC, 11.578, de 26 de novembro de 2007, que dispõe sobre a transferência obrigatória de recursos financeiros para a execução pelos Estados, Distrito Federal e Municípios de ações do Programa de Aceleração do Crescimento - PAC, e 12.462, de 4 de agosto de 2011, e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
