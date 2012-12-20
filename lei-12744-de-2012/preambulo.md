@@ -1,0 +1,2 @@
+Altera o art. 4º e acrescenta art. 54-A à Lei nº 8.245, de 18 de outubro de 1991, que "dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes", para dispor sobre a locação nos contratos de construção ajustada.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
