@@ -1,0 +1,18 @@
+DECISÃO
+COMPETÊNCIA – FUNDEF – AUSÊNCIA DE RECURSOS FEDERAIS – JUSTIÇA COMUM – LIMINAR INDEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    Impugna-se o acórdão proferido pelo Superior Tribunal de Justiça, no Agravo em Recurso Especial nº 92.923/RS, no qual não acolhida arguição de incompetência absoluta da Justiça estadual para processar e julgar o paciente, condenado pela prática do crime previsto no artigo 89, parágrafo único, da Lei nº 8.666, de 1993, às penas de quatro anos de reclusão, em regime aberto, e multa de 4% do valor do contrato celebrado sem licitação. Consignou-se que o Tribunal de origem, no caso concreto, afirmou não ter havido utilização de recursos federais. Eis o teor de trecho da decisão atacada:
+    No tocante ao dissídio jurisprudencial, verifica-se que não há similitude fática entre os arestos apontados como paradigmas e o julgado ora recorrido. Com efeito, o Tribunal de Justiça do Estado do Rio Grande do Sul assentou ausência de verba complementar da União. Ao contrário, os acórdãos apontados como caracterizadores do dissenso fundamentam a competência da Justiça Federal no fato de se constatar a alocação de recursos federais ao FUNDEF.
+    [...]
+    Conforme se pode observar, verifica-se deficiência de argumentação do recurso especial, uma vez que não há, nos dispositivos infraconstitucionais apontados, comando normativo capaz de embasar a quaestio juris aduzida no apelo, bem assim reformar os fundamentos do aresto hostilizado, quais sejam: a competência da Justiça Estadual deve-se ao fato de que o Município de Uruguaiana/RS não recebeu nenhuma complementação da União para o FUNDEF (fl. 1747).
+    Neste habeas, o impetrante alega a incompetência absoluta da Justiça estadual para processar e julgar crimes a envolver o eventual uso indevido de verbas do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério – FUNDEF. Defende que, se os valores utilizados no contrato são do FUNDEF, a competência é da Justiça Federal, independentemente de haver complementação de recursos pela União. Em abono à tese, afirma ter o Supremo alterado o entendimento sobre o tema. Menciona precedentes – Habeas Corpus nº 100.772, 80.867, e 78.728, de relatoria dos ministros Gilmar Mendes, Ellen Gracie e Maurício Corrêa, respectivamente. Cita, ainda, as decisões prolatadas nas Ações Cíveis Originárias nº 1.109, 1.200, 1.241, 1.250, 1.285, 852 e 1.313.
+    Em âmbito liminar, requer o sobrestamento do processo criminal em curso no Superior Tribunal de Justiça. No mérito, pugna pela declaração de nulidade do processo e a consequente remessa à Justiça Federal.
+    Consulta ao sítio do Superior Tribunal de Justiça revela a interposição de embargos de divergência contra o acórdão proferido no agravo em recurso especial inicialmente mencionado.
+    O processo está concluso para apreciação da medida acauteladora.
+    2. As mais recentes decisões do Supremo são no sentido de distinguir considerado o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério – FUNDEF. Toda vez que não há o envolvimento de verba federal, a competência é da Justiça comum. Confiram com os precedentes: Ações Cíveis Originárias nº 1.109/SP, relatora ministra Ellen Gracie, acórdão veiculado no Diário da Justiça eletrônico de 7 de março de 2012, e nº 1.156, relator ministro Cezar Peluso, acórdão publicado no Diário da Justiça eletrônico de 12 de março de 2010.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 22 de dezembro de 2012, às 12h50.
+Ministro MARCO AURÉLIO
+Relator
