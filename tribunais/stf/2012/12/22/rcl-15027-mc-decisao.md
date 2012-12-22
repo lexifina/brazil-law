@@ -1,0 +1,17 @@
+DECISÃO
+PRISÃO PREVENTIVA – PRONUNCIAMENTOS DO SUPREMO – ALEGADA INOBSERVÂNCIA – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    Nélio Roberto Seidl Machado e João Francisco Neto articulam com a inobservância, pelo Juízo da 6ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro, do acórdão formalizado pela Primeira Turma no Habeas Corpus nº 91.723/RJ e da decisão liminar prolatada na Reclamação nº 13.424/RJ.
+    Segundo narram, o referido Juízo proferiu nova sentença condenatória na Ação Penal nº 2007.5101.802985-5 – denominada Operação Furacão I –, determinando, outra vez, a expedição de mandados de prisão preventiva contra os corréus Ailton Guimarães Jorge e Júlio César Guimarães Sobreira. Ressaltam permanecer hígido o pronunciamento formalizado por Vossa Excelência na Reclamação nº 13.424/RJ, ajuizada por ocasião da primeira sentença, cuja anulação foi alcançada com o deferimento da ordem no Habeas Corpus nº 106.272/RJ, pela Primeira Turma, na qual reconhecido o cerceamento de defesa. Assinalam o direito de os corréus responderem ao processo em liberdade, até o exaurimento das vias recursais. Afirmam estar caracterizado nítido abuso de poder em virtude da custódia cautelar ilegal implementada pelo Juízo, porquanto contrária ao decidido no Supremo Tribunal Federal.
+    Destacam as razões expostas por Vossa Excelência ao acolher o pedido liminar no Habeas Corpus nº 91.723/RJ, impetrado em favor do corréu Antônio Petrus Kalil, posteriormente estendido a todos os acusados na Ação Penal nº 2007.5101.802985-5, entre os quais os defendidos pelos signatários. Lembram que os acusados permaneceram em liberdade desde então, sem apresentarem conduta que legitimasse a revogação do benefício. Apontam como fato justificador da nova preventiva, tão somente, a superveniência da recente condenação pelo Juízo, o que seria incapaz de afastar a fundamentação já exposta pelo Supremo.
+    Consoante esclarecem, o Juízo da 6ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro utilizou jogo de palavras para, desrespeitando pronunciamentos do Supremo, implementar a prisão preventiva dos acusados. Asseveram ser a situação fática idêntica àquela que ensejou o deferimento da liminar na Reclamação nº 13.424/RJ. Insurgem-se contra o que qualificam como ato despótico da magistrada titular, sobrepondo-se à autoridade do Supremo.
+    Requerem medida acauteladora para determinar o recolhimento imediato dos mandados de prisão expedidos contra Aílton Guimarães Jorge e Júlio César Guimarães Sobreira, fazendo prevalecer as decisões proferidas pelo Supremo na Reclamação nº 13.424/RJ e no Habeas Corpus nº 91.723/RJ.
+    O processo encontra-se concluso para exame do pedido de concessão de liminar.
+    2. De início, surge relevante o que articulado nesta reclamação. O Juízo da 6ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro acabou implementando, a partir da prolação de nova sentença, preventiva glosada anteriormente.
+    3. Defiro a liminar pleiteada. Determino o recolhimento dos mandados de prisão expedidos contra Aílton Guimarães Jorge e Júlio César Guimarães Sobreira.
+    4. Solicitem informações ao Juízo da 6ª Vara Federal Criminal da Seção Judiciária do Estado do Rio de Janeiro.
+    5. Com a manifestação, colham o parecer da Procuradoria Geral da República.
+    6. Publiquem.
+Brasília – residência –, 22 de dezembro de 2012, às 13h15.
+Ministro MARCO AURÉLIO
+Relator
