@@ -1,0 +1,18 @@
+DECISÃO
+REMUNERAÇÃO – SALÁRIO MÍNIMO – VERBETE VINCULANTE Nº 4 – RELEVÂNCIA DEMONSTRADA – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    A Companhia Paulista de Obras e Serviços – CPOS, sociedade de economia mista do Estado de São Paulo, argui ilegalidade da decisão proferida pela Quinta Turma do Tribunal Regional do Trabalho da 2ª Região no Processo nº 00012524820105020053.
+    Segundo narra, figura como ré em reclamação trabalhista formalizada por Jefferson Deodoro Teixeira da Costa, engenheiro empregado admitido em 9 de fevereiro de 2009, após aprovação no concurso realizado em 2008. Afirma que o salário previsto no edital era de R$ 2.888,64, reajustado, quando da contratação, para R$ 3.119,73. Menciona que a causa de pedir da ação está relacionada ao piso salarial para profissionais de engenharia versado nos artigos 3º, 4º e 5º da Lei nº 4.950-A/1966, que o estipula em 6 salários mínimos, e o pedido é de condenação ao pagamento das diferenças salariais e respectivos reflexos. Assevera haver argumentado que os referidos dispositivos não foram recepcionados pela Carta de 1988, ante a proibição, no inciso IV do artigo 7º, de utilização do salário mínimo como indexador.
+    Noticia que o Juízo da 53ª Vara do Trabalho de São Paulo julgou procedente o pleito. No Regional do Trabalho da 2ª Região, a Quinta Turma negou provimento ao recurso ordinário, assentando a constitucionalidade do piso salarial dos engenheiros fixado em múltiplos do salário mínimo. Contra essa decisão, pendem de apreciação embargos declaratórios.
+    Consoante articula, na Representação de Inconstitucionalidade nº 716, da relatoria do ministro Eloy da Rocha, o Supremo declarou a inconstitucionalidade da aplicação da Lei nº 4.950-A/66 aos funcionários públicos estatutários. Ressalta que, na Arguição de Descumprimento de Preceito Fundamental nº 53/PI, o ministro Gilmar Mendes, mediante ato monocrático, suspendeu todas as decisões do Tribunal Regional do Trabalho da 22ª Região e do Tribunal de Justiça do Estado do Piauí em que se reconhecia, com fundamento no artigo 5º da referida norma, o direito ao piso de seis salários mínimos. Diz da concessão de medidas acauteladoras, com base no Verbete Vinculante nº 4 da Súmula do Supremo e no mencionado pronunciamento, nas Reclamações nº 7.521, relator ministro Celso de Mello, nº 7.709, relator ministro Menezes Direito, e nº 13.426, relator ministro Joaquim Barbosa.
+    Sob o ângulo do risco, alude à possibilidade de execução da condenação. Postula a concessão de liminar, determinando-se o afastamento dos efeitos do acórdão reclamado. No mérito, requer seja ele cassado.
+    Vossa Excelência projetou o exame da medida acauteladora para momento posterior à vinda das informações.
+    O Presidente do Tribunal Regional do Trabalho da 2ª Região afirma inexistir violação ao artigo 7º, inciso IV, da Constituição Federal ou inobservância ao citado Verbete Vinculante nº 4. Transcreve trechos da sentença de primeiro grau.
+    O processo encontra-se concluso para a apreciação do pedido de liminar.
+    2. Surge a relevância do pedido presente o Verbete Vinculante nº 4 da Súmula do Supremo, a afastar a possibilidade de ter-se o salário mínimo como verdadeiro fator de indexação.
+    3. Defiro a liminar pleiteada. Suspendo, até a decisão final desta reclamação, a eficácia do acórdão formalizado pelo Tribunal Regional do Trabalho da 2ª Região no Processo nº 12524820105020053.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 22 de dezembro de 2012, às 16h20.
+Ministro MARCO AURÉLIO
+Relator
