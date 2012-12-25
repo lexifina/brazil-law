@@ -1,0 +1,13 @@
+DECISÃO
+RECLAMAÇÃO – LIMINAR – ALCANCE.
+    1. O Gabinete prestou as seguintes informações:
+    O Estado do Rio Grande do Sul interpõe embargos de declaração evocando a existência de equívoco no relato da situação da reclamante. Segundo narra, Madalena Merina Maicá é titular da serventia de Independência, no referido ente federativo, desde julho de 2012. Assim, ao contrário do que assentado no ato embargado, a liminar não teria por consequência a preservação da situação jurídica da reclamante, mas exatamente o oposto. Diz da necessidade de desconstituição da delegação de Rogério Luis Rutzen, publicada em 13 de julho do ano corrente, por força da decisão de Vossa Excelência. Ressalta que a liminar provocará efeito dominó nas delegações estaduais, causando profundos danos ao interesse público.
+    Articula com a ausência de plausibilidade do direito invocado, porque a reclamante não foi aprovada em concurso público, mas apenas atuou como preposta em serventia notarial ou registral, ou seja, como mera empregada de notário ou registrador. O dispositivo legal que previa a atribuição de pontos em razão da tal situação – artigo 16, inciso II, da Lei estadual nº 11.183/1998 – foi declarado inconstitucional na apreciação da Ação Direta de Inconstitucionalidade nº 3.522, da relatoria de Vossa Excelência, por inexistência de similitude com atividades exercidas pelos demais particulares, daí a incompatibilidade com o princípio isonômico. Argumenta que o pedido veiculado na reclamação conflita com o pronunciamento formalizado na mencionada ação direta. Requer a reconsideração da decisão embargada.
+    Rogério Luis Rutzen interpõe embargos declaratórios mediante os quais alega ter havido erro material, nos mesmos termos que sustenta o Estado do Rio Grande do Sul. Discorre sobre a controvérsia ocorrida no âmbito do Tribunal de Justiça do Estado. Assevera ter incorrido em gastos da ordem de R$ 70.000,00 para assumir a serventia de Tuparendi. Postula a reconsideração da liminar.
+    2. Está-se diante de ato precário e efêmero – liminar deferida na reclamação. Cumpre, tão somente, explicitá-la. Vale dizer, a medida acauteladora foi implementada em 11 de dezembro de 2012 para preservar a situação jurídica da reclamante, transferida para a serventia de Independência em julho de 2012.
+    3. Acolho as manifestações como pedidos de reconsideração. Esclareço o alcance do pronunciamento formalizado para tornar estreme de dúvidas que simplesmente implicou a manutenção do quadro na data do deferimento – dezembro de 2012.
+    4. Deem sequência à reclamação.
+    5. Publiquem.
+Brasília – residência –, 25 de dezembro de 2012, às 12h25.
+Ministro MARCO AURÉLIO
+Relator
