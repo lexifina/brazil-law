@@ -1,0 +1,32 @@
+Decisão: Minha atuação nestes autos se dá extraordinariamente, nos termos do art. 13, VIII do RISTF.
+    Trata-se de reclamação, com pedido de medida liminar, ajuizada pelo Estado do Espírito Santo contra a Coordenação de Assuntos Financeiros da Procuradoria da Fazenda Nacional – CAF, por alegada violação da autoridade da AC 2.270.
+    Narra o estado-reclamante que pretende obter da União o provimento de garantias e contragarantias necessárias para a celebração de uma série de contratos de mútuo, com instituições nacionais e internacionais, no valor aproximado de R$ 3.000.000,00.
+    Como há o registro de uma série de violações de dispositivos constitucionais de Direito Financeiro e da LC 101/2000 (Lei de Responsabilidade Fiscal), o requerente ajuizou diversas ações para suspender as restrições decorrentes dessas violações.
+    Numa dessas ações, a AC 2.270, esta Suprema Corte referendou decisão do eminente Ministro Cezar Peluso cujo dispositivo tem a seguinte redação:
+    “a) em relação às inscrições referentes ao limite de gastos com saúde (item 302) e aquelas de alguma forma vinculadas à CODESPE, determinar o imediato cumprimento integral das decisões proferidas nas AC nº 1.893 e 2.173, sob as penas da lei; e
+    b) em relação a inscrições de quaisquer outros entes vinculados ao Estado do Espírito Santo diversos do próprio Estado, determinar que, em razão do princípio da intranscendência, nenhuma inscrição de ente, órgão ou assemelhado, diverso do próprio Estado do Espírito Santo, no SIAFI/CAUC ou sistemas, cadastros e registros análogos, pode servir de pretexto para que a União se recuse a efetivar qualquer operação, contrato, convênio, garantia, transferência, crédito, aval ou similar. Noutras palavras, apenas inscrições relativas ao próprio ente federado (CNPJ do Espírito Santo) poderão, eventualmente, impedir operações do gênero.
+    Deve a União informar se a inclusão do Estado no sistema se deu por outra razão, diversa de gastos com saúde ou de supostas irregularidades da CODESPE, caso em que deverá especificá-la no prazo de 05 (cinco) dias”.
+    Segundo narra o reclamante, a autoridade-reclamada vem sistematicamente desrespeitando a decisão acima transcrita, na medida em que se omite a praticar ato necessário à prestação de garantias e contragarantias da União, qual seja, a manifestação acerca da regularidade fiscal do Estado do Espírito Santo.
+    Ante o exposto, pede-se textualmente:
+    “a) liminarmente, seja determinado à PGFN/CAF, que cumpra a decisão proferida nos autos da AÇÃO CAUTELAR nº 2270, desconsiderando as restrições constantes do CAUC, posto que arredadas pela referida decisão;
+    b) Acaso não se entenda aplicável o inciso II do art. 14 da Lei n.° 8.038/1990, sejam os pedidos acima formulados conhecidos como medida cautelar, nos termos do inciso XXXV do art. 5° da Constituição c/c o art. 798 do CPC, concedendo-se a liminar com espeque no poder geral de cautela do magistrado;
+    c) deferida a liminar (letra “a” ou “b”), requer a expedição de ofício, telegrama, telex, ou qualquer outro meio de comunicação da decisão à PROCURADORIA DA FAZENDA NACIONAL, COORDENAÇÃO DE ASSUNTOS FINANCEIROS, para que esta cumpra o provimento liminar concedido;
+    [...]
+    f) ao final, seja julgada procedente a pretensão do Reclamante e, sendo o caso, confirmando a liminar concedida, para suprir a omissão do ato reclamado que desrespeita decisão liminar proferida por esse Pretório Excelso na AC nº 2270, ao desconsiderar o afastamento das restrições apontadas no “sistema” do CAUC” (Doc. 02).
+    É o relatório.
+    Decido o pedido de medida liminar.
+    Sem prejuízo da análise que será feita pelo eminente relator, Ministro Gilmar Mendes, que melhor dirá sobre a questão, considero presentes os requisitos que ensejam a concessão parcial da medida liminar pleiteada.
+    A medida liminar concedida e referendada nos autos da AC 2.270 não confere ao reclamante imunidade ao exame de toda e qualquer restrição anotada nos cadastros de controle federais, como o CAUC.
+    Conforme se lê na decisão tida por violada, a União deve desconsiderar apenas as restrições imputadas a entes da administração pública indireta, ou seja, “quaisquer outros entes vinculados ao Estado do Espírito Santo diversos do próprio Estado”.
+    Da forma como redigido o pedido de medida liminar, sua concessão significaria a desconsideração de toda e qualquer restrição (“[...] desconsiderando as restrições constantes do CAUC, posto que arredadas pela referida decisão” e “[...] desconsiderar o afastamento das restrições apontadas no ´sistema´ do CAUC”).
+    Por outro lado, como o ato reclamado é omissivo, não é possível saber aprioristicamente se existem outras restrições capazes de impedir a União de oferecer garantia ou contragarantia aos vultosos contratos de mútuo (“empréstimo”) que o reclamante deseja celebrar. Posto existirem outros requisitos a serem examinados além da inadimplência da administração indireta, esta Suprema Corte não pode suprir o ato de validação ou chancela da regularidade fiscal do Estado do Espírito Santo.
+    O que cabe ao Judiciário fazer, neste momento, para garantir a autoridade da decisão proferida nos autos da AC 2.270 é determinar à autoridade reclamada o cumprimento de seu dever, respondendo em prazo razoável à solicitação do reclamante. Se o reclamado permanecer inerte, ou motivar eventual negativa na inadimplência da administração indireta, a gravidade da situação estará caracterizada.
+    Ante o exposto, e novamente ressalvando novo exame por ocasião do julgamento de mérito, concedo parcialmente a medida liminar pleiteada, tão-somente para determinar à Coordenação de Assuntos Financeiros da Procuradoria da Fazenda Nacional – CAF que responda ao ofício sem identificação, datado de 19.12.2012 e juntado como Doc. 03, no prazo de dez dias. Além da motivação e da fundamentação que a autoridade-reclamada entender cabíveis, deve a CAF explicitar se eventual negativa se funda exclusivamente nas eventuais violações legais creditadas aos entes da administração indireta vinculados ao Estado do Espírito Santo.
+    Comunique-se o teor desta decisão à autoridade-reclamada.
+    Solicitem-se informações, que devem ser prestadas no prazo de dez dias.
+    Publique-se. Int..
+    Brasília, 26 de dezembro de 2012.
+Ministro Joaquim Barbosa
+Presidente
+Art. 13, VIII do RISTF
+Documento assinado digitalmente
