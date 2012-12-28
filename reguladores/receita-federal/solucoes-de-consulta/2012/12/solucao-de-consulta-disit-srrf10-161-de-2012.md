@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 161, de 5 de novembro de 2012
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: INDUSTRIALIZAÇÃO POR ENCOMENDA. EMPRESA EXECUTORA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA PREVISTA NO ART. 8º DA LEI Nº 12.546, DE 2011. INCIDÊNCIA.
+A empresa que executa, por encomenda de "empresas fabricantes de artigos do vestuário dos capítulos 61 e 62 da TIPI", operação de industrialização que resulte em modificação, aperfeiçoamento ou, de qualquer forma, alteração do funcionamento, utilização, acabamento ou aparência do produto, se enquadra nas disposições do art. 8º da Lei nº 12.546, de 2011, devendo recolher a contribuição sobre o valor da receita bruta, observadas as exclusões permitidas, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991. Por conseguinte, sujeita-se ao cumprimento de todas as obrigações, principal e acessórias, decorrentes da prática dessas operações, sem prejuízo do cumprimento das demais obrigações previstas na legislação previdenciária.
+DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 8º; Decreto nº 7.212, de 2010, arts. 3º, 4º, 8º e 609; Decreto nº 7.828, de 2012, arts. 3º, 4º e 5º.
+[arquivo anexo: SC SRRF10Disit nº 161-2012.pdf]
