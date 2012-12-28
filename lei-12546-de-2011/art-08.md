@@ -1,4 +1,5 @@
 Art. 8º Até 31 de dezembro de 2014, contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, à alíquota de 1% (um por cento), em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei no 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo desta Lei.
+c) às empresas aéreas internacionais de bandeira estrangeira de países que estabeleçam, em regime de reciprocidade de tratamento, isenção tributária às receitas geradas por empresas aéreas brasileiras.
 § 4º A partir de 1º de janeiro de 2013, ficam incluídos no Anexo referido no caput os produtos classificados nos seguintes códigos da Tipi:
 I - (revogado);
 II - (revogado);
