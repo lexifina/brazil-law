@@ -6,7 +6,7 @@ III - a concessionária paralisar o serviço ou concorrer para tanto, ressalvada
 IV - a concessionária perder as condições econômicas, técnicas ou operacionais para manter a adequada prestação do serviço concedido;
 V - a concessionária não cumprir as penalidades impostas por infrações, nos devidos prazos;
 VI - a concessionária não atender a intimação do poder concedente no sentido de regularizar a prestação do serviço; e
-VII - a concessionária não atender a intimação do poder concedente para, em cento e oitenta dias, apresentar a documentação relativa a regularidade fiscal, no curso da concessão, na forma do art. 29 da Lei nº 8.666, de 21 de junho de 1993.
+VII - a concessionária não atender a intimação do poder concedente para, em 180 (cento e oitenta) dias, apresentar a documentação relativa a regularidade fiscal, no curso da concessão, na forma do art. 29 da Lei nº 8.666, de 21 de junho de 1993.
 § 2º A declaração da caducidade da concessão deverá ser precedida da verificação da inadimplência da concessionária em processo administrativo, assegurado o direito de ampla defesa.
 § 3º Não será instaurado processo administrativo de inadimplência antes de comunicados à concessionária, detalhadamente, os descumprimentos contratuais referidos no § 1º deste artigo, dando-lhe um prazo para corrigir as falhas e transgressões apontadas e para o enquadramento, nos termos contratuais.
 § 4º Instaurado o processo administrativo e comprovada a inadimplência, a caducidade será declarada por decreto do poder concedente, independentemente de indenização prévia, calculada no decurso do processo.
