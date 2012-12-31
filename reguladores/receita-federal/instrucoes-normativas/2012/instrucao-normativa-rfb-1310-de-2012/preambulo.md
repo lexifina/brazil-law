@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1310, de 28 de dezembro de 2012
+Altera a Instrução Normativa RFB n° 1.127, de 7 de fevereiro de 2011, que dispõe sobre a apuração e tributação de rendimentos recebidos acumuladamente de que trata o art. 12-A da Lei nº 7.713, de 22 de dezembro de 1988.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 9º do art. 12-A da Lei nº 7.713, de 22 de dezembro de 1988, resolve:
