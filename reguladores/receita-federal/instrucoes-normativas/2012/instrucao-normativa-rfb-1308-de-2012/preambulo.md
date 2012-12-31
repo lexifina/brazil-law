@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1308, de 27 de dezembro de 2012
+Altera a Instrução Normativa RFB nº 1.073, de 1º de outubro de 2010, que dispõe sobre o controle aduaneiro informatizado da movimentação e Despacho Aduaneiro de Importação e Exportação de Remessas Expressas.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 2º do art. 551, no parágrafo único do art. 554, nos arts. 562 e 578, no parágrafo único do art. 586, no parágrafo único do art. 588, e nos arts. 595 e 596 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
