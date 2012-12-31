@@ -27,3 +27,18 @@ III - nomeação para ocupar cargo de direção de reitor, vicereitor, pró-reit
 § 2º O número total de professores de que trata o inciso IV do caput não poderá ultrapassar 20% (vinte por cento) do total de docentes efetivos em exercício na instituição federal de ensino.
 § 3º As contratações a que se refere a alínea h do inciso VI serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração pública.
 § 4º Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
+§ 5º A contratação de professor visitante e de professor visitante estrangeiro, de que tratam os incisos IV e V do caput, tem por objetivo:
+I - apoiar a execução dos programas de pós-graduação stricto sensu;
+II - contribuir para o aprimoramento de programas de ensino, pesquisa e extensão;
+III - contribuir para a execução de programas de capacitação docente; ou
+IV - viabilizar o intercâmbio científico e tecnológico.
+§ 6º A contratação de professor visitante e o professor visitante estrangeiro, de que tratam os incisos IV e V do caput, deverão:
+I - atender a requisitos de titulação e competência profissional; ou
+II - ter reconhecido renome em sua área profissional, atestado por deliberação do Conselho Superior da instituição contratante.
+§ 7º São requisitos mínimos de titulação e competência profissional para a contratação de professor visitante ou de professor visitante estrangeiro, de que tratam os incisos IV e V do caput:
+I - ser portador do título de doutor, no mínimo, há 2 (dois) anos;
+II - ser docente ou pesquisador de reconhecida competência em sua área; e
+III - ter produção científica relevante, preferencialmente nos últimos 5 (cinco) anos.
+§ 8º Excepcionalmente, no âmbito das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica, poderão ser contratados professor visitante ou professor visitante estrangeiro, sem o título de doutor, desde que possuam comprovada competência em ensino, pesquisa e extensão tecnológicos ou reconhecimento da qualificação profissional pelo mercado de trabalho, na forma prevista pelo Conselho Superior da instituição contratante.
+§ 9º A contratação de professores substitutos, professores visitantes e professores visitantes estrangeiros poderá ser autorizada pelo dirigente da instituição, condicionada à existência de recursos orçamentários e financeiros para fazer frente às despesas decorrentes da contratação e ao quantitativo máximo de contratos estabelecido para a IFE.
+§ 10. A contratação dos professores substitutos fica limitada ao regime de trabalho de 20 (vinte) horas ou 40 (quarenta) horas.
