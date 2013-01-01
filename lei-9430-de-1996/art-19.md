@@ -13,3 +13,4 @@ IV - Método do Custo de Aquisição ou de Produção mais Tributos e Lucro - CA
 § 6º Se o valor apurado segundo os métodos mencionados no § 3º for inferior aos preços de venda constantes dos documentos de exportação, prevalecerá o montante da receita reconhecida conforme os referidos documentos.
 § 7º A parcela das receitas, apurada segundo o disposto neste artigo, que exceder ao valor já apropriado na escrituração da empresa deverá ser adicionada ao lucro líquido, para determinação do lucro real, bem como ser computada na determinação do lucro presumido e do lucro arbitrado.
 § 8º Para efeito do disposto no § 3º, somente serão consideradas as operações de compra e venda praticadas entre compradores e vendedores não vinculados.
+§ 9º Na hipótese de exportação de commodities sujeitas à cotação em bolsas de mercadorias e futuros internacionalmente reconhecidas, deverá ser utilizado o Método do Preço sob Cotação na Exportação - PECEX, definido no art. 19-A.
