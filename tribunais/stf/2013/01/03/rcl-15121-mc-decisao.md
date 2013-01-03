@@ -1,0 +1,31 @@
+Decisão: Minha atuação nestes autos se dá de forma extraordinária, nos termos do art. 13, VIII do RISTF.
+    Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Empresa Oeste Empreendimentos Gerais Ltda. contra acórdão e decisão monocrática proferidos nos autos dos Embargos de Declaração 1.0024.04.308998-6/008 e nos Embargos Infringentes 3089986-63.2004.8.13.0024 do Tribunal de Justiça do Estado de Minas Gerais, respectivamente.
+    Após sustentar a prevenção deste Presidente para conhecer dos pedidos formulados, em decorrência da relatoria da Ação Penal 556, o reclamante faz a seguinte introdução:
+    “03 - Em função do processo reclamado que alguns condôminos do Loteamento Águas Claras no município de Brumadinho-MG, movem em face da Empresa Oeste Empreendimentos Gerais ltda., esteve no loteamento com o objetivo de estimular o dito processo o então secretário de estado Cláudio Roberto Mourão. Este teria dito que tendo o subscritor desta, traído o governador Eduardo Azeredo, estava ali para prover os meios necessários à demanda como forma de punição política. (sexta degravação, páginas 9 e 10, anexas, parte do Inquérito 1693/2011 e do Inquérito 3530 do STF.)
+    04 - Junto a esta degravação foi fornecida à Polícia Federal o original de uma peça do processo em questão, com o despacho da Desembargadora Selma Marques, que teria sido furtada do referido processo pelo grupo investigado.
+    05 - Nas páginas 4 e 5 da sétima degravação estão acusações de que Azeredo e seus investigados teriam contribuído para uma falsa perícia no processo em Reclamação.
+    06 - Na última página da décima quinta degravação há uma referência a uma suposta ideia de sumir com o processo, o que revela que os próprios autores reconhecem a falsidade de sua posição.
+    07 - Na quinta página da oitava degravação, o grupo de Azeredo faz referência a intervenções junto a desembargadores.
+    08 - Nas páginas quatro, seis e sete da nona degravação, fazem um acerto para receber lotes que serão tomados da Empresa reclamante, e pagos aos membros do grupo comandado por Eduardo Azeredo. Na página oito, fazem referência à falsificação de perícia promovida pelo Sr. Eduardo Azeredo.
+    09 - Na página treze da décima sétima degravação, datada de 24 de setembro de 2011, o Deputado Azeredo teria confidenciado que o julgamento do dia 28 de setembro seria por unanimidade contra a reclamante, numa espantosa e suspeitíssima capacidade de previsão.
+    10 - Na décima oitava degravação, na página 17, Sr. Wagner Portugal comenta com Cláudio Mourão o resultado unânime previsto por Eduardo Azeredo.
+    11 - Relato ainda à Vossa Excia. que entre os fatos relatados no Inquérito 1693/2011 consta um encontro da presença de testemunhas em que o Sr. Wagner Portugal, ex-assessor da Casa Civil do governador Azeredo, procurou o signatário desta e transmitiu uma convocação para conversar com o mesmo, “... pois caso contrário não conseguiria resolver a pendência judicial, devido a grande influência de Azeredo no Tribunal de Justiça”, afirmando ainda que “... lutar contra filho de desembargador é perder tempo.”, referindo-se ao fato de que tanto o advogado da parte contrária, como o perito Eduardo Vaz de Melo serem filhos de desembargadores.
+    Houve ainda uma mensagem de telefone celular devidamente periciada por um técnico do Instituto de Criminalística da Polícia Civil de Minas Gerais, enviada pelo mesmo Sr. Wagner Portugal (cópia anexa). Nesta mensagem esta pessoa exige um lote no mesmo dia em que a Desembargadora Selma Marques, decidia um recurso contra a admissão dos Embargos Infringentes, sem a oitiva da nossa parte caracterizando cerceamento de defesa, por ela própria admitido em despacho, (cópia anexa), ao dizer que examinou as nossas Contras Razões em data posterior à decisão, contrariando assim o Artigo 531 do CPC.” (Doc. 01).
+    Narra o reclamante que a 11º Câmara Cível do TJ/MG negou provimento a recurso de embargos de declaração, com pedido de efeito modificativo, interposto de recurso de apelação que teria reconhecido o cumprimento integral das obrigações assumidas pela empresa em incorporação imobiliária.
+    Porém, baseada em voto divergente proferido pelo Desembargador Marcelo Rodrigues, a interessada interpôs recurso de embargos de divergência, cuja admissão para debate foi decidida pela Desembargadora Selma Marques.
+    Segundo argumenta a reclamante, a admissão dos embargos de divergência e o próprio voto divergente proferido pelo Desembargador Marcelo Rodrigues violam a autoridade da Súmula Vinculante 10, na medida em que teriam declarado inconstitucional a Lei 6.766/1979.
+    Ante o exposto, pede-se textualmente:
+    a) a concessão de medida liminar, amparada no reconhecimento à violação do comando contido na Súmula de nº 10 deste E. Supremo Tribunal, para decretar a nulidade dos autos nº 9135820-07.1992.8.13.0024, a partir da perícia realizada pelo i. perito Eduardo Vaz de Melo, “porque adotado pelo perito projeto diverso daquele aprovado pelo município de Brumadinho, seguido pela empreendedora”, conforme consta do julgamento unânime, proferido pelo E. TJMG, no dia 06/10/2010;” (Doc. 02).
+    É o relatório.
+    Decido.
+    Não está presente o caráter extraordinário que permitiria a atuação inadiável da Presidência desta Corte durante o recesso, nos termos do art. 13, VIII do RISTF.
+    Sem me comprometer com quaisquer das teses de fundo, observo que a inicial não indica evento ou marco temporal de ocorrência provável antes do início do ano judiciário capazes de prejudicar a utilidade da prestação jurisdicional pleiteada.
+    Ademais, a medida liminar pleiteada é exauriente, de modo a recomendar a análise acurada em momento de normalidade, pela eminente Ministra Rosa Weber, relatora, que melhor dirá por ocasião do fim do recesso.
+    Ante o exposto, indefiro o pedido para concessão da medida liminar em caráter de urgência inadiável, durante o recesso, conforme permitiria o art. 13, VIII do RISTF.
+    Encaminhem-se os autos ao gabinete da eminente ministra-relatora.
+    Publique-se. Int..
+    Brasília, 03 de janeiro de 2013.
+Ministro Joaquim Barbosa
+Presidente
+Art. 13, VIII do RISTF
+Documento assinado digitalmente
