@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1313, de 28 de dezembro de 2012
+Estabelece regras especiais sobre obrigações tributárias acessórias para as pessoas jurídicas que gozam dos benefícios fiscais de que trata a Lei nº 12.350, de 20 de dezembro de 2010, relativos à realização, no Brasil, da Copa das Confederações FIFA 2013 e da Copa do Mundo FIFA 2014.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 12.350, de 20 de dezembro de 2010, e no Decreto nº 7.578, de 11 de outubro de 2011, resolve:
