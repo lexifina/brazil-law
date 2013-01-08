@@ -1,0 +1,19 @@
+Decisão: Trata-se de suspensão de segurança formulada por Instituto de Previdência do Município de São Paulo e Município de São Paulo contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo em apelação em mandado de segurança impetrado pela Associação dos Pensionistas do Município de São Paulo (processo 053.09.012105-0 ou 0012105-35.2009.8.26.0053).
+    A segurança que se deseja suspender foi concedida em acórdão assim ementado:
+    Apelação cível. Mandado de segurança. Preliminares afastadas. Análise do mérito nos termos do art. 515, § 3 º, CE. Remanejamento de verba destinada ao pagamento de precatórios. Inadmissibilidade. Inteligência do disposto no art. 100, da CF, com redação dada pela EC 30/00 e/ou 62/09. Possibilidade de controle judicial, posto que se trata de parte do orçamento sujeito a verba vinculada. Recurso provido.
+    Os requerentes alegam que a segurança impugnada representa risco à ordem pública, uma vez que estaria em jogo descumprimento do regime de pagamento criado pela Emenda Constitucional 62/09, bem como desrespeito aos termos de acordo entre as partes que fora firmado perante o juízo de primeira instância.
+    É o relatório.
+    Decido.
+    Não estão presentes os requisitos que ensejariam a concessão da medida pleiteada.
+    Inicialmente, não observo violação do art. 2º da Constituição, que estabelece a autonomia entre Poderes. Nos termos do art. 100, § 5º da Constituição:
+    “é obrigatória a inclusão, no orçamento das entidades de direito público, de verba necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em julgado, constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se o pagamento até o final do exercício seguinte, quando terão seus valores atualizados monetariamente”.
+    A administração pública está vinculada ao cumprimento das obrigações legais por si assumidas ou impostas. É certo que as chamadas “questões políticas”, isto é, de escolha mais ou menos discricionária, são insuscetíveis de controle jurisdicional, a não ser quando tragam embutidas questões atinentes à proteção Direitos Fundamentais, sejam em si mesmas aberrantes ou constituam igualmente decisões administrativas impregnadas de manifesto erro de apreciação. O certo, porém, é que o Estado não pode escolher quais das obrigações legais e constitucionais deseja atender num determinado exercício. Nessa hipótese, a previsão de pagamento dos valores devidos nas peças orçamentárias decorre de ato plenamente vinculado e, portanto, sujeito ao controle jurisdicional.
+    A propósito, a não observância institucionalizada de deveres legais, dentre eles o de pagamento de dívidas sem justificativa, é passível de correção pelo drástico ato da intervenção (art. 35, IV da Constituição).
+    Ademais, constato que a decisão impugnada também foi fundamentada no art. 8º, par. ún. da Lei Complementar 101/2000 (Lei de Responsabilidade Fiscal), que prevê o estrito respeito dos recursos cuja destinação é específica. Assim, cabia ao requerente argumentar e comprovar que a suspensão do ato atacado não iria violar a LRF.
+    Por fim, trecho de parecer do MPE transcrito no Doc. 13 revela que o remanejamento das destinações foi motivada pela insuficiência financeira do regime próprio de previdência social dos servidores públicos locais. Conforme anotado, o Município é responsável por custear eventuais deficits. Portanto, a decisão impugnada não se baseia propriamente no afastamento da EC 62/2009. O que se discutiu é que o Município não poderia utilizar valores já destinados ao pagamento de condenações judiciais para fazer frente à sua responsabilidade com os respectivos aposentados e pensionistas.
+    Ante o exposto, nego seguimento à suspensão de segurança (art. 38 da Lei 8.038/1990).
+    Publique-se. Int..
+    Brasília, 08 de janeiro de 2013.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
