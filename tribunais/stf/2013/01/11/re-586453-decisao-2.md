@@ -1,0 +1,14 @@
+DECISÃO (ref. às Petições 21.685/2012 e 40.728/2012): Às fls. 2.303-2.329 (Petição 21.685/2012), o Sindicato Unificado dos Petroleiros do Estado de São Paulo requer sua admissão nos autos na qualidade de amicus curiae. Afirma que representa “parcela significativa dos trabalhadores aposentados que se encontram vinculados à Fundação Petrobras de Seguridade Social – PETROS” (fls. 2.304), cujos processos encontram-se sobrestados aguardando o julgamento de mérito deste recurso.
+    Às fls. 2.339-2.344 (Petição 40.728/2012), Valter Calixto Siqueira e Felipe Oackes alegam interesse jurídico na demanda e requerem sua admissão como assistentes (art. 50 do Código de Processo Civil). Justificam o pedido com a alegação de que a decisão proferida por esta Corte repercutirá em seus processos que tramitam na esfera trabalhista.
+    Decido.
+    O exame de recurso extraordinário em que reconhecida a repercussão geral da matéria constitucional transcende os interesses jurídicos ou econômicos das partes litigantes. Neste sentido, a admissão de assistentes segue postulados semelhantes àqueles adotados no controle concentrado e abstrato de constitucionalidade para a pluralização do debate, com a admissão da figura do amicus curiae.
+    Conforme se extrai de decisões proferidas pelos Ministros desta Corte, a admissão dos amici curiae nos recursos extraordinários com repercussão geral depende da concorrência dos pressupostos de relevância da matéria, representatividade dos postulantes, existência de procuradores habilitados e apresentação do requerimento antes da inclusão do processo em pauta para julgamento.
+    No tocante ao pedido formulado pelo Sindicato Unificado dos Petroleiros do Estado de São Paulo, ressalto que a relatora Min. Ellen Gracie requereu a inclusão em pauta para julgamento dos autos em 08.02.2010, antes, portanto, da petição ser protocolada, o que ocorreu somente em 27.04.2012. Ademais, o Plenário já iniciou em 03.03.2010 o julgamento do processo.
+    Quanto ao requerimento de Valter Calixto Siqueira e Felipe Oackes, ambos demonstram o sobrestamento de seus recursos extraordinários no Tribunal Superior do Trabalho, em razão do reconhecimento da repercussão geral neste processo.
+    Entretanto, falta aos requerentes, pessoas físicas com interesse pessoal na causa, a representatividade que esta Corte vem exigindo para ingressarem como terceiros, inclusive como assistentes. Essa condição decorre do próprio sistema da repercussão geral. Nesse sentido: RE 591.797-ED (rel. min. Dias Toffoli, DJe de 08.04.2011), RE 590.415 (de minha relatoria, DJe de 10.10.2011), RE 627.106 (rel. min. Dias Toffoli, DJe de 04.05.2011) e RE 576.155 (rel. min. Ricardo Lewandowski, DJe de 12.03.2009).
+    Destaco, por fim, que a petição veio desacompanhada do indispensável instrumento de mandato.
+    Do exposto, indefiro os pedidos.
+    Publique-se.
+    Brasília, 11 de janeiro de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
