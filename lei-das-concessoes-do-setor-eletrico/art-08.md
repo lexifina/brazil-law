@@ -1,0 +1,4 @@
+Art. 8º As concessões de geração, transmissão e distribuição de energia elétrica que não forem prorrogadas, nos termos desta Lei, serão licitadas, na modalidade leilão ou concorrência, por até 30 (trinta) anos.
+§ 1º A licitação de que trata o caput poderá ser realizada sem a reversão prévia dos bens vinculados à prestação do serviço.
+§ 2º O cálculo do valor da indenização correspondente às parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou não depreciados, utilizará como base a metodologia de valor novo de reposição, conforme critérios estabelecidos em regulamento do poder concedente.
+§ 3º Aplica-se o disposto nos §§ 1º ao 6º do art. 1º às outorgas decorrentes de licitações de empreendimentos de geração de que trata o caput, o disposto no parágrafo único do art. 6º, às concessões de transmissão, e o disposto no art. 7º, às concessões de distribuição.
