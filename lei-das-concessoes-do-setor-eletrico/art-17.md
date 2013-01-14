@@ -1,0 +1,2 @@
+Art. 17. Fica a União autorizada a adquirir créditos que a Centrais Elétricas Brasileiras S.A. - ELETROBRAS detém contra a Itaipu Binacional.
+Parágrafo único. Para a cobertura dos créditos de que trata o caput, a União poderá emitir, sob a forma de colocação direta, em favor da Eletrobras, títulos da Dívida Pública Mobiliária Federal, cujas características serão definidas pelo Ministro de Estado da Fazenda, respeitada a equivalência econômica com o valor dos créditos.
