@@ -1,0 +1,2 @@
+Dispõe sobre as concessões de geração, transmissão e distribuição de energia elétrica, sobre a redução dos encargos setoriais e sobre a modicidade tarifária; altera as Leis nº s 10.438, de 26 de abril de 2002, 12.111, de 9 de dezembro de 2009, 9.648, de 27 de maio de 1998, 9.427, de 26 de dezembro de 1996, e 10.848, de 15 de março de 2004; revoga dispositivo da Lei nº 8.631, de 4 de março de 1993; e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
