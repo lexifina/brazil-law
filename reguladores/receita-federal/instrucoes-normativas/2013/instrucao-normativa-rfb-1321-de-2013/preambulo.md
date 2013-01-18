@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1321, de 16 de janeiro de 2013
+Dispõe sobre mecanismo de ajuste para fins de comprovação de preços de transferência na exportação para o ano-calendário de 2012.
+A SECRETÁRIA DA RECEITA FEDERAL DO BRASIL SUBSTITUTA, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 18 a 24-A e 28 da Lei nº 9.430, de 27 de dezembro de 1996, no art. 45 da Lei nº 10.833, de 29 de dezembro de 2003, e no art. 36 da Lei nº 11.196, de 21 de novembro de 2005, resolve:
