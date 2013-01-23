@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF01 nº 64, de 6 de dezembro de 2012
+ASSUNTO: Imposto sobre Operações de Crédito, Câmbio e Seguros ou relativas a Títulos ou Valores Mobiliários - IOF EMENTA: A definição legal do fato gerador do tributo é interpretada abstraindo-se dos efeitos dos fatos efetivamente ocorridos e da validade jurídica dos atos efetivamente praticados pelos contribuintes, responsáveis, ou terceiros, bem como da natureza do seu objeto ou dos seus efeitos. Não configura fato gerador do IOF o registro decorrente de erro formal ou contábil. DISPOSITIVOS LEGAIS: Art. 118 do CTN; arts. 25, 44, III, e 64 do Decreto nº 6.306/2007.
+[arquivo anexo: SC SRRF01-Disit nº 64-2012.pdf]
