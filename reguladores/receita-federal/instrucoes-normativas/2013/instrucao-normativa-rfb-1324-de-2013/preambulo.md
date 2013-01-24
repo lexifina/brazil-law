@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1324, de 23 de janeiro de 2013
+Estabelece os procedimentos pertinentes aos Depósitos Judiciais e Extrajudiciais referentes a contribuições previdenciárias administradas pela Secretaria da Receita Federal do Brasil, seus levantamentos e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 9.703, de 17 de novembro de 1998, e nos arts. 369 a 371 do Decreto nº 3.048, de 6 de maio de 1999, resolve:
