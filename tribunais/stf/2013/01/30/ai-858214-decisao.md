@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibildiade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    “AGRAVO REGIMENTAL EM AÇÃO RESCISÓRIA. DECISÃO DO RELATOR QUE INDEFERE PETIÇÃO INICIAL DE AÇÃO RESCISÓRIA SOBRE HONORÁRIOS ADVOCATÍCIOS EM DEMANDA SOBRE EXPURGOS INFLACIONÁRIOS NAS CONTAS VINCULADAS DO FGTS. AUSÊNCIA DAS HIPÓTESES DO ART. 485 DO CPC.
+    1 – Restou estabelecido no acórdão rescindendo que pela nova sistemática processual em vigor, inexiste possibilidade jurídica para o processo autônomo de execução, em casos assim, afigurando-se, pois, inaplicável na espécie, a regra do art. 20, § 4º, do Código de Processo Civil.
+    2 – O recurso do autor limita-se a fazer alegações acerca de suposta inconstitucionalidade do art. 29-C da Lei n. 8.036/90 frente ao art. 62 da Constituição e a transcrever acórdãos acerca do tema, não trazendo novos elementos aptos a desconstituir os fundamentos da decisão impugnada. Decisão que indeferiu a petição inicial mantida.
+    3 – Como medida excepcional, eis que atinge a segurança e estabilidade das decisões judiciais, a ação rescisória não tem o seu manejo autorizado pelo simples inconformismo das partes, ou para corrigir alegada injustiça da sentença, ou ainda, para exercer função típica dos recursos. É imprescindível a invocação de algum dos motivos de rescindibilidade do julgado previsto no art. 485 do CPC.
+    4 – Agravo regimental do autor improvido.
+    A decisão agravada negou seguimento ao recurso extraordinário com fundamento na Súmula 284 do STF.
+    No recurso extraordinário, sustenta-se a ausência de prestação jurisdicional (art. 5º, XXXV, da CF) e violação ao direito adquirido (art. 5º, XXXVI).
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na hipótese, o acórdão recorrido consignou que não seria caso de cabimento de ação rescisória.
+    Ocorre que as razões do recurso extraordinário não guardam relação com os fundamentos do julgado recorrido.
+    Nesses termos, tendo em vista a ausência de impugnação específica dos fundamentos do acórdão recorrido, bem como a dissociação entre as razões recursais e os fundamentos adotados pelo Tribunal de origem, verifica-se a deficiência da fundamentação do recurso extraordinário, motivo pelo qual incide, na hipótese, a Súmula 284 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. 1) RAZÕES DO RECURSO EXTRAORDINÁRIO DISSOCIADAS DOS FUNDAMENTOS DO JULGADO RECORRIDO: SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. 2) CONTRARIEDADE AO PRINCÍPIO DA ISONOMIA: IMPOSSIBILIDADE DE INOVAÇÃO DE ARGUMENTOS EM AGRAVO REGIMENTAL. PRECEDENTES. 3) AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 667.051, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 16.5.2012)
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Concessão de serviço público de telefonia. 4. O Tribunal de origem solucionou a controvérsia com base na interpretação das cláusulas do contrato de concessão e na legislação infraconstitucional. Incidência da Súmula 454. 5. O acórdão recorrido não examinou a causa sob o enfoque dos dispositivos constitucionais tidos por violados. Deficiência da fundamentação do recurso extraordinário. Súmula 284. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento”. (RE-AgR 662.808, de minha relatoria, Segunda Turma, DJe 5.9.2012)
+    Ainda que assim não fosse, com relação à alegada negativa de prestação jurisdicional, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJ e 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Além disso, o STF assentou que discussão acerca do cabimento de ação rescisória possui índole infraconstitucional, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CABIMENTO DE AÇÃO RESCISÓRIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. 1. A questão alusiva ao cabimento de ação rescisória se enquadra no âmbito processual, o que não autoriza a abertura da via recursal extraordinária. 2. De mais a mais, é firme o entendimento desta nossa Casa de Justiça no sentido de que “o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda” (RE 408.409-AgR, da relatoria do ministro Sepúlveda Pertence). 3. Agravo regimental desprovido”. (AI-AgR 598.496, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 19.4.2012)
+    Ante o exposto, nego provimento ao agravo de instrumento (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 30 de janeiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
