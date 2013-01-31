@@ -1,0 +1,19 @@
+Decisão (nas Petições Avulsas 67.235/2012 e 1.948/2013): Minha atuação nestes autos se dá de forma extraordinária, nos termos do art. 13, VIII do RISTF.
+    Com a petição identificada como Doc. 30, a Associação Nacional dos Distribuidores de Autopeças – Andap requer sua admissão nos autos na condição e amicus curiae e pede a concessão de medida liminar, devido à “modificação do contexto fático da propositura da ADI”.
+    Esta ação direta de inconstitucionalidade tem por objeto a RSF 13/2012, que uniformizou a alíquota do Imposto sobre Operações de Circulação de Mercadorias e de Prestação de Serviços de Comunicação e de Transporte Intermunicipal e Interestadual – ICMS para as operações interestaduais com mercadorias importadas ou com índice de conteúdo de importação superior a 40%.
+    Segundo argumenta a peticionária, a autora, ao abrir mão do pedido de medida liminar, ignorou que a modificação abrupta do regime de tributação, nos moldes feitos pelo Senado, pelo Confaz (Convênio ICMS 123/2012 e Ajustes SINEF 19/2012, 20/2012 e 27/2012) e pela legislação local de 27 entes federados (apenas 2 estados regulamentaram a tributação) causaria grave insegurança jurídica.
+    Em síntese, a peticionária sustenta que a ausência de regulamentação consistente e adequada torna o novo regime inexequível e lança severas dúvidas sobre como deverão proceder os contribuintes ao apurarem o ICMS devido nas operações indicadas.
+    Como o pedido apresentado em 28.12.2012 não foi examinado, a peticionária reiterou a urgência em 28.01.2013.
+    É o relatório.
+    Decido.
+    Sem prejuízo do eventual exame da medida liminar no momento próprio, e do próprio mérito, considero inoportuna a análise da medida liminar pleiteada neste momento.
+    De fato, a peticionária narra quadro de grave ineficácia técnica normativa que, se confirmado, poderá acarretar consequências jurídicas relevantes aos estados e ao Distrito Federal na arrecadação do ICMS. Lembro que em mais de uma ocasião esta Suprema Corte aludiu à descomunal carga de deveres instrumentais ou obrigações acessórias (cf., e.g., o RE 564.413, rel. min. Marco Aurélio, Pleno, DJe de 03.11.2010) cuja inexequibilidade prática (custo) ou lógica (diferenças inconciliáveis) pode comprometer a exigibilidade de tributo cuja regra matriz seja válida.
+    Porém, observo que o Ministro Ricardo Lewandowski, relator, já aplicou o rito do art. 12 da Lei 9.868/1999. Os autos se encontram na Procuradoria Geral da República, aguardando o parecer do procurador-geral da República. O advogado-geral da União já defendeu a constitucionalidade do ato impugnado, bem como a existência de obstáculos processuais ao conhecimento dos pedidos (Doc. 28) e o Senado prestou as informações que entendeu relevantes (Docs. 15, 16 e 17).
+    Diante do término iminente do recesso, bem como do avançado estágio de instrução da ADI, tudo recomenda que o pedido para concessão da medida liminar seja examinado pelo relator, Ministro Ricardo Lewandowski. Nesse contexto, ressalto que os ministros-relatores, no período de normalidade do ano judiciário, são as autoridades mais bem aparelhadas para relatar os aspectos relevantes e para tomar as medidas de ordenação e de condução dos processos sob suas responsabilidades (art. 21, I, IV e V do RISTF).
+    Ante o exposto, e novamente reservando-me o direito ao exame mais aprofundado da matéria no momento oportuno, indefiro o pedido para concessão da medida liminar durante o recesso (art. 13, VIII do RISTF).
+    Como os autos se encontram na procuradoria-geral da República, dê-se ciência das Petições Avulsas 67.235/2012 e 1.948/2013 ao ministro-relator, para que, se entender necessário, examine o pleito da peticionária e adote as medidas que entender cabíveis.
+    Publique-se. Int..
+    Brasília, 31 de janeiro de 2013.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
