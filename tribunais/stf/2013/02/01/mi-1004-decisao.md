@@ -1,0 +1,20 @@
+Decisão: 1. Trata-se de mandado de injunção em face de omissão legislativa atribuída ao Presidente da Câmara dos Deputados, relativamente à regulamentação do art. 150, § 5º, da Constituição (“A lei determinará medidas para que os consumidores sejam esclarecidos acerca dos impostos que incidam sobre mercadorias e serviços”). Alega a parte impetrante que a falta de regulamentação do dispositivo constitucional inviabiliza o exercício pleno desse direito e impede a efetividade da transparência fiscal, e requer a concessão da ordem. A autoridade impetrada prestou informações no sentido, em essência, de que está em tramitação sobre a matéria o Projeto de Lei 1.472/2007, contendo mais dezesseis projetos de lei anexados. A Procuradoria Geral da República opinou pela extinção em virtude da perda do objeto do pedido, pela falta de mora decorrente da existência de projetos de lei regulamentando a norma constitucional.
+    2. Segundo a jurisprudência do STF, a superveniência de norma regulamentadora do direito constitucional, ainda que posterior à impetração, supre a omissão legislativa e acarreta, consequentemente, a perda do objeto do mandado de injunção. Nesse sentido:
+    “AGRAVO REGIMENTAL EM MANDADO DE INJUNÇÃO. ALEGADA OMISSÃO DA NORMA REGULAMENTADORA DO ART. 7º, XXI, DA CONSTITUIÇÃO. SUPERVENIÊNCIA DA LEI 12.506/2011. PERDA DE OBJETO. AGRAVO DESPROVIDO.
+    I - A orientação do Supremo Tribunal Federal é pela prejudicialidade do mandado de injunção com a edição da norma regulamentadora então ausente.
+    II - Excede os limites da via eleita a pretensão de sanar a alegada lacuna normativa do período pretérito à edição da lei regulamentadora.
+    III – Agravo a que se nega provimento” (MI 1011 AgR/SE, Pleno, rel. Min. Ricardo Lewandowski, j. 10/05/2012, DJe 30/05/2012).
+    Com o mesmo entendimento: MI 634 AgR/DF, Pleno, rel. Min. Sepúlveda Pertence, j. 26/10/2005, DJ 25/11/2005, p. 6; MI 646 AgR/DF, Pleno, rel. Min. Sepúlveda Pertence, j. 04/08/2005, DJ 26/08/2005, p. 6; MI 475/SP, Pleno, rel. p/ acórdão Min. Carlos Velloso, j. 17/04/2002, DJ 28/06/2002, p. 88; MI 575 AgR/DF, Pleno, rel. Min. Marco Aurélio, j. 29/10/1998, DJ 26/02/1999, p. 13.
+    3. A Lei 12.741/2012, publicada em 10/12/2012 e com início de vigência a partir de 10 de maio de 2013, regulamentou o art. 150, § 5º da Constituição, nos seguintes termos:
+    “Art. 1º Emitidos por ocasião da venda ao consumidor de mercadorias e serviços, em todo território nacional, deverá constar, dos documentos fiscais ou equivalentes, a informação do valor aproximado correspondente à totalidade dos tributos federais, estaduais e municipais, cuja incidência influi na formação dos respectivos preços de venda.
+    § 1º A apuração do valor dos tributos incidentes deverá ser feita em relação a cada mercadoria ou serviço, separadamente, inclusive nas hipóteses de regimes jurídicos tributários diferenciados dos respectivos fabricantes, varejistas e prestadores de serviços, quando couber.
+    § 2º A informação de que trata este artigo poderá constar de painel afixado em local visível do estabelecimento, ou por qualquer outro meio eletrônico ou impresso, de forma a demonstrar o valor ou percentual, ambos aproximados, dos tributos incidentes sobre todas as mercadorias ou serviços postos à venda.
+    § 3º Na hipótese do § 2º, as informações a serem prestadas serão elaboradas em termos de percentuais sobre o preço a ser pago, quando se tratar de tributo com alíquota ad valorem, ou em valores monetários (no caso de alíquota específica); no caso de se utilizar meio eletrônico, este deverá estar disponível ao consumidor no âmbito do estabelecimento comercial.
+    (...)
+    Art. 6º Esta Lei entra em vigor 6 (seis) meses após a data de sua publicação”.
+    4. Diante do exposto, julgo prejudicado o presente mandado de injunção, por perda superveniente do objeto, com fundamento no art. 21, IX do RISTF.
+    Publique-se. Intimem-se.
+    Brasília, 01 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
