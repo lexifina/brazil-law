@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ANULAÇÃO DE ATO ADMINISTRATIVO. INOBSERVÂNCIA DOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Maranhão:
+    “DECRETO ANULANDO NOMEÇÕES DE SERVIDORES APROVADOS EM CONCURSO PÚBLICO. PRESUNÇÃO DE LEGITIMIDADE. AUSÊNCIA DE PRÉVIO PROCESSO ADMINISTRATIVO. ILEGALIDADE. 1. Por tratar-se de ato administrativo, que goza de presunção de legitimidade, não pode a nomeação de servidor aprovado em concurso público ser desconstituída sem prévio processo administrativo. 2. Não pode o Poder Público anular ato de nomeação de servidor aprovado em concurso público, afastando-se sumariamente sem garantia do contraditório e da ampla defesa através de prévio procedimento administrativo válido. 3. Apelação conhecida e improvida. Unanimidade” (fl. 931).
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5°, inc. LV, e 169 da Constituição da República.
+    Argumenta que “a admissão em massa levada a efeito na reta final do último mandato eletivo do gestor sucedido, não tem como prosperar e anulável de pleno direito. A exoneração do servidor admitido desnecessariamente e que não pode de maneira alguma é permanecer na folha salarial do Município, sem oferta-lhe qualquer contraprestação de serviço é situação que deve prevalecer, porquanto caminho ao lado do interesse público” (fl. 944).
+    Assevera que “há que se ter a compreensão de que o art. 5°, LV, não pode servir de argumento (ou fundamento) para convalidar situações que trarão prejuízos imensuráveis a toda população de um município” (fl. 944).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) incidência da Súmula 282 do Supremo Tribunal Federal; e b) ausência de contrariedade direta à Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Desembargador Relator observou:
+    “O processo administrativo vem antes das demissões, e não depois, como sucedeu na espécie, em que o Apelante afastou incontinenti os servidores, com a consequente sustação dos seus pagamentos, e somente após deu início ao processo administrativo, em gritante ofensa aos princípios constitucionais ao contraditório e da ampla defesa.
+    (…) Por fim, tenho que o fato de o processo administrativo instaurado haver sido concluído em nada altera a ilegalidade do Decreto Municipal n° 1/2009, pois a Comissão de Inquérito Administrativo instituída pelo Apelante, na verdade, já partiu do pressuposto da irregularidade das nomeações, não havendo como manter, pois, os necessários equilíbrio e equidistância no desempenhar de suas funções” (fl. 933).
+    O acórdão recorrido está em harmonia com a jurisprudência deste Supremo Tribunal, que assentou que “ato da administração pública que tiver o condão de repercutir sobre a esfera de interesses do cidadão deverá ser precedido de prévio procedimento em que se assegure ao interessado o efetivo exercício do direito ao contraditório e à ampla defesa” (RE 594.296, Rel. Min. Dias Toffoli, Plenário, DJe 13.2.2012). Confira-se a propósito ementa desse julgado:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. 1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo. 2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa. 3. Recurso extraordinário a que se nega provimento”.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1° de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
