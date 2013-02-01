@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. CONCURSO PÚBLICO PARA MÉDICO FISCAL DO CONSELHO REGIONAL DE MEDICINA DE ALAGOAS. REPROVAÇÃO NO EXAME MÉDICO. PRELIMINAR DE INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL REJEITADA. AUSÊNCIA DE PREVISÃO EDITALÍCIA DAS EXIGÊNCIAS. LAUDO DO PERITO JUDICIAL FAVORÁVEL À CANDIDATA. APTIDÃO PARA ASSUNÇÃO NO CARGO PRETENDIDO. HONORÁRIOS SUCUMBENCIAIS MANTIDOS” (fl. 245).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, e 114, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Pleno deste Tribunal ao julgar o Mandado de Segurança 21.797, Rel. Min. Carlos Velloso, reconheceu a natureza autárquica dos conselhos de fiscalização de profissões regulamentadas.
+    Em seguida, em decisão unânime, quando do julgamento da ADI 1.717, esta Corte declarou a inconstitucionalidade do caput do art. 58 da Lei 9.649/98 concluindo que os conselhos de fiscalização de profissões regulamentadas são entes autárquicos, dotados de personalidade jurídica de direito público. Por oportuno, trago à colação ementa do indigitado julgado:
+     “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE DO ART. 58 E SEUS PARÁGRAFOS DA LEI FEDERAL Nº 9.649, DE 27.05.1998, QUE TRATAM DOS SERVIÇOS DE FISCALIZAÇÃO DE PROFISSÕES REGULAMENTADAS.
+    1.Estando prejudicada a Ação, quanto ao § 3o do art. 58 da Lei nº 9.649, de 27.05.1998, como já decidiu o Plenário, quando apreciou o pedido de medida cautelar, a Ação Direta é julgada procedente, quanto ao mais, declarando-se a inconstitucionalidade do 'caput' e dos parágrafos 1o, 2o, 4o, 5o, 6o, 7o e 8o do mesmo art. 58.
+      2.Isso porque a interpretação conjugada dos artigos 5°, XIII, 22, XVI, 21, XXIV, 70, parágrafo único, 149 e 175 da Constituição Federal, leva à conclusão, no sentido da indelegabilidade, a uma entidade privada, de atividade típica de Estado, que abrange até poder de polícia, de tributar e de punir, no que concerne ao exercício de atividades profissionais regulamentadas, como ocorre com os dispositivos impugnados.
+      3.Decisão unânime.”(ADI 1.717, Rel. Min. Sydney Sanches).
+    Nesse contexto, resta claro que a jurisprudência deste Juízo firmou-se no sentido da submissão à Justiça Federal das controvérsias que envolvam referidos conselhos. Nesse sentido, anote-se: RE 559.814/SP, Rel. Min. Cármen Lúcia; RE 449.844/RJ, Rel. Min. Ayres Britto; RE 419.797/MG, Rel. Min. Ellen Gracie; RE 364.750/RS, Rel. Min. Dias Toffoli, e RE 349.654/RJ, de minha relatoria.
+    Outrossim, observe-se que para se chegar à conclusão contrária à adotada pelo Juízo a quo, no concernente as supostas ofensas ao princípios insculpidos no art. 37, caput, da Constituição, necessário seria a análise de normas infraconstitucionais aplicáveis à espécie. Assim, a afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, por oportuno, trago à colação o AI 565.223-AgR/SC, Rel. Min. Cezar Peluso, cuja ementa segue transcrita:
+    “1. RECURSO. Extraordinário. Ausência de razões novas. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões novas, decisão fundada em jurisprudência assente na Corte.
+    2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa aos arts. 5º, II e 37, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, impessoalidade, moralidade, publicidade e eficiência se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição
+    (...)” (grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
