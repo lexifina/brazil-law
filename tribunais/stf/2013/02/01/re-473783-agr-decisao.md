@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Estado do Piauí interpõe tempestivo agravo regimental contra a decisão do eminente Ministro Sepúlveda Pertence, que negou seguimento ao recurso extraordinário (fl. 441), com a seguinte fundamentação:
+    “RE, a e c, contra acórdão do Tribunal de Justiça do Estado do Piauí, que julgou legítima a reintegração do recorrido na Corporação da Polícia Militar determinada pelo Decreto Legislativo 121/98, que suspendeu os efeitos das adesões ao Programa de Demissão Voluntária - PDV, instituído pela L. estadual 4.865/96.
+    Alega o RE violação dos artigos 2º; 5º; caput, XXXV e XXXI; 37, II; 49, V; 61, § 1º, II 'a' e 'c'; 165, II e III; e 169, § 1º, I e II, da Constituição. Aduz a legalidade do ato de desligamento do agravado conforme previsto na L. estadual 4.865/96 e a inconstitucionalidade do Decreto Legislativo 121/98, consignando, ainda, que (f. 120):
+    ‘Os atos de adesão ao PDV somente poderiam ser anulados se ficasse provado que eram inválidos ou se ficasse demonstrado que foram praticados com algum vício de consentimento (coação, p. ex.) e foi isso que o legislativo estadual fez: reconheceu a existência de vicio de consentimento (coação) nos autos de adesão ao PDV. Ocorre, Excelências, que esses vícios só poderiam ser reconhecidos pelo Poder Judiciário, a quem compete anular os atos nesses casos concretos’.
+    Decido.
+    A análise da controvérsia demandaria o exame da legislação local - L. estadual 4.865/96 e Decreto Legislativo 121/98 - e dos fatos que permeiam a lide, inadmissível em recurso extraordinário: incidem as Súmulas 279 e 280.
+     Nego seguimento ao recurso extraordinário (art. 557, caput, do C.Pr.Civil)”.
+    Aduz o agravante, in verbis, que:
+    “(...)
+    Em nenhum momento, o Estado do Piauí alegou violação a norma local (Súmula 280), mas, sim, malferimento desta à CF/88, (…)
+    Com efeito, o fundamento do mandado de segurança de origem é o Decreto Legislativo 121/98 que, embora maculado por patentes e graves inconstitucionalidades, foi aplicado pelo TJPI.
+    (…) em virtude da aplicação de um Decreto Legislativo editado fora de sua restritíssima hipótese constitucional, que resulta em inaceitável interferência do Poder Legislativo sobre o Executivo e Judiciário e implica no ingresso de servidores sem concurso público, dentre várias outras incompatibilidades verticais apontadas pelo Estado, o acórdão atacado permite sua impugnação pela letra ‘c’” (fls. 144 e 147).
+    Decido.
+    Merece prosperar a irresignação, haja vista que a decisão ora agravada não se coaduna com a jurisprudência assentada nesta Corte no sentido de que o decreto legislativo invadiu a competência específica do Poder Executivo, que dá cumprimento à legislação própria instituidora desse programa especial de desligamento espontâneo instituído pela Lei Estadual nº 4.865/96. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. DECRETO LEGISLATIVO N. 226/2006 DO PIAUÍ, QUE ANULOU ADESÃO DE SERVIDORES PÚBLICOS A PLANO DE DESLIGAMENTO VOLUNTÁRIO INSTITUÍDO PELO PODER EXECUTIVO: CONTRARIEDADE AO PRINCÍPIO DA SEPARAÇÃO DE PODERES. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 598.340/PI-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 18/3/11).
+    “Servidor público. Reintegração em decorrência de Decreto Legislativo. Plano de Demissão Voluntária.
+    1. Não há direito líquido e certo de servidor que se beneficiou do Programa de Demissão Voluntária - PDV, apoiado em legislação estadual, quando a pretensão está baseada em Decreto Legislativo anulatório da manifestação de vontade com alegação da presença de vício de consentimento.
+    2. Recurso extraordinário conhecido e provido” (RE nº 486.748/PI, Primeira Turma, Relator o Ministro Menezes Direito, DJe de 17/4/09).
+    Da fundamentação desse último julgado, dadas as preciosas lições que encerra para o deslinde da controvérsia instaurada nestes autos, transcrevo o seguinte excerto, que bem aborda a questão litigiosa aqui em debate:
+    “(...)
+    É absolutamente incompossível ao Poder Legislativo, por meio de decreto legislativo, interferir em ato espontâneo de adesão dos servidores ao PDV previsto na Lei nº 4.865, de 1996. Na verdade, o decreto legislativo invade competência específica do Poder Executivo que dá cumprimento à legislação própria instituidora desse programa especial de desligamento espontâneo dos servidores públicos.
+    Não reputo necessário perquirir sobre a impropriedade do meio judicial considerando que se trata de ordem de segurança apoiada em ato oriundo do Poder Legislativo que malfere o ato jurídico perfeito e acabado, assim, as adesões ao PDV manifestadas pelos impetrantes e que foram sem nenhum amparo legal atropeladas por decreto legislativo anulando aquelas adesões. Diga-se que não decorrente sequer de lei formal em sentido técnico, a tanto não equivalendo, neste caso o decreto legislativo que tem alcance e natureza incompatíveis com o objeto deste que está sendo utilizado para deferir o pedido dos impetrantes. Anoto que, no caso, o que o Poder Legislativo estadual fez foi praticar um ato próprio do Poder Judiciário ao reconhecer que teria havido coação, independentemente da provocação dos próprios interessados.
+    Essa orientação foi acolhida em decisão monocrática de que Relator o Ministro Eros Grau (RE nº 526.666/PI). De igual modo, Relator o Ministro Carlos Ayres, em matéria de idêntica origem, decidiu esta Primeira Turma na mesma linha (RE nº 463.097/PI-AgR, DJ de 23/6/06), embora sustentado em decisão do Tribunal de origem que decidiu a matéria com base no Código Civil e no decreto legislativo.
+    Veja-se, ainda, que há inúmeros precedentes desta Suprema Corte desqualificando intromissão indevida do Poder Legislativo em matéria reservada ao Poder Executivo concernente aos servidores públicos (por todos: ADI nº 1.594/RN-MC, Relator o Ministro Nelson Jobim, DJ de 29/8/97, e ADI nº 2.192/ES, Relator o Ministro Ricardo Lewandowski, DJ de 20/6/08).
+    Com essas razões fica bem evidenciado que os impetrantes não dispõem de direito líquido e certo.”
+    Nesse mesmo sentido, anotem-se, ainda, as seguintes decisões monocráticas: AI nº 620.182/PI, Relator o Ministro Gilmar Mendes, DJe de 6/4/11; RE nº 511.237/PI, Relator o Ministro Joaquim Barbosa, DJe de 1º/2/11; e RE nº 526.896/PI, Relatora a Ministra Ellen Gracie, DJe de 30/3/10.
+    Ante o exposto, reconsidero a decisão agravada e, nos termos do artigo 557, § 1º-A, do Código de Processo Civil, dou provimento ao recurso extraordinário, para denegar a segurança. Custas pelo impetrante, não havendo que se falar em condenação em honorários de advogado, nos termos da Súmula nº 512 desta Corte.
+    Publique-se.
+    Brasília, 1 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
