@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado de São Paulo que, em ação indenizatória, em fase de cumprimento de sentença, decidiu que (a) revisar entendimento relativo à responsabilidade da seguradora ofenderia a coisa julgada, pois já apreciada anteriormente, ocasião em que se estabeleceu a existência de responsabilidade solidária; e (b) “a discussão sobre a não previsão de cobertura para reembolso de indenização por danos morais extrapola os limites da lide, devendo a matéria ser apreciada em processo autônomo” (fl. 316).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao art. 5º, XXXVI, da Constituição Federal, asseverando, em suma, que o acórdão recorrido violou a coisa julgada, porquanto
+    “(...) ficou exaustivamente demonstrado no decorrer do processo que o contrato de seguro pactuado entre a recorrida Vale Rodeio e a ora recorrente AGF Brasil não previa cobertura para reembolso de indenização por danos morais, bem como que a condenação da seguradora ora recorrente limitou-se aos danos patrimoniais, e não aos danos morais” (fl. 544).
+    2. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, .DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    Ademais, no caso, analisar a existência de suposta violação aos dispositivos constitucionais apontados demandaria a reapreciação do conteúdo da decisão transitada em julgado, o que não é cabível no âmbito do recurso extraordinário, por aplicação analógica das súmulas 279 e 454 do STF.
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
