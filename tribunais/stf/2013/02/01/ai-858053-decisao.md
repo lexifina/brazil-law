@@ -1,0 +1,24 @@
+DECISÃO
+    Vistos.
+    Banco Santander (Brasil) S.A. interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 98, inciso I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quinta Turma Recursal do Juizado Especial Cível de Belo Horizonte/BH, que manteve a sentença de primeiro grau que julgou procedente a ação para
+    “condenar o requerido a pagar ao requerente a quantia de R$ 16.863,22 (dezesseis mil, oitocentos e sessenta e três reais e vinte e dois centavos), corrigida monetariamente segundo os índices sugeridos pela Corregedoria Geral de Justiça do Estado de Minas Gerais e acrescida de juros remuneratórios de 0,5% (meio por cento) ao mês e de juros de mora de 1% (um por cento) ao mês contados a partir desta sentença”.
+    Pleiteia o agravante, nas razões do recurso extraordinário, a reforma do acórdão recorrido para “reconhecer a contrariedade ao art.98, da CR/88, sendo cassada os acórdãos e a sentença, vez que o procedimento dos Juizados Especiais Cíveis e as respectivas Turmas Julgadoras não comportam processamento e julgamento de causas complexas, devendo ser o processo, ao final, extinto sem resolução do mérito”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    A controvérsia acerca da incompetência dos Juizados Especiais em virtude da complexidade da matéria, a qual, segundo a recorrente, demandaria a realização de prova pericial, não está situada em âmbito constitucional, porquanto remete à análise da legislação infraconstitucional pertinente.
+    De fato, a ofensa à Constituição Federal, se existente, passaria necessariamente pela violação de dispositivos da Lei nº 9.099/95, configurando-se, pois, de maneira reflexa. O Supremo Tribunal Federal, em decisão da Primeira Turma, já teve oportunidade de se manifestar em sentido semelhante. Confira-se:
+    “1. Recurso extraordinário: descabimento: dispositivos constitucionais tidos por violados não examinados pelo acórdão recorrido, nem objeto dos embargos de declaração opostos: incidência das Súmulas 282 e 356.
+    2. Recurso extraordinário: inadmissibilidade: controvérsia acerca da competência dos Juizados Especiais no tocante ao valor e complexidade da causa, restrita ao âmbito infraconstitucional: alegada ofensa ao texto constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 510.323/BA-AgR-ED, Relator o Ministro Sepúlveda Pertence, DJ de 1/4/05).
+    No mesmo sentido o AI nº 504.621/PE-AgR, da relatoria do Ministro Cezar Peluso, assim ementado:
+    “RECURSO. Extraordinário. Inadmissibilidade. Juizado Especial. Competência. Valor da causa. Matéria processual. Ofensa indireta. Agravo regimental não provido. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, como a de ordem processual” (Segunda Turma, DJ de 24/9/04).
+    Ademais, ressalte-se que essa questão restou consolidada pelo Plenário desta Corte, examinar o ARE nº 640.671/RS, relator o Ministro Presidente, onde ficou assentada a ausência de repercussão geral do tema em virtude de sua natureza infraconstitucional. Esse julgado ficou assim ementado:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Competência dos juizados especiais. Complexidade da prova. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto a competência dos juizados especiais, face à alegação de ser necessária a produção de prova complexa para o deslinde da controvérsia submetida ao Poder Judiciário, versa sobre tema infraconstitucional” (DJe de 6/9/11).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
