@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA ELETROCEEE. AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA. REAJUSTE DE 39,67% A INCIDIR SOBRE O SALÁRIO REAL DE BENEFÍCIO. PROVA DO RECONHECIMENTO DO DIREITO DO AUTOR AO REFERIDO PERCENTUAL A INCIDIR SOBRE A APOSENTADORIA DEVIDA PELO ÓRGÃO OFICIAL. REQUISITO INDISPENSÁVEL PARA GARANTIR A APLICABILIDADE DA REGRA DO ART. 15, CAPUT, DO ESTATUTO DA RÉ. PRESCRIÇÃO QÜINQÜENAL QUE INCIDE SOMENTE SOBRE AS PARCELAS E NÃO SOBRE O FUNDO DE DIREITO. Apelação desprovida, por maioria”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI e LV, e 202 da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação de cláusulas do regulamento da entidade de previdência privada, o que atrai a incidência das Súmulas 279 e 454 do STF. Incabível, portanto, o recurso extraordinário. Nesse mesmo sentido, AI 751.346-AgR/RS, Rel. Min. Ellen Gracie, cuja ementa segue transcrita:
+    “DIREITO CONSTITUCIONAL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS STF 279 E 454. VIOLAÇÃO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO.
+    1. Apreciação do recurso extraordinário que requer a análise de interpretação de cláusulas contratuais e de fatos e provas da causa (Súmulas/STF 279 e 454), além de matéria de índole ordinária, hipóteses inviáveis na via do apelo extremo.
+    2. Ausência de pronunciamento explícito da matéria constitucional alegadamente violada. Precedentes.
+    3. Agravo regimental improvido”.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
