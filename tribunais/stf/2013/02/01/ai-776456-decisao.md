@@ -1,0 +1,22 @@
+DECISÃO
+    Vistos.
+    Comfloresta Cia. Catarinense de Empreendimentos Florestais interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 37, caput, e 225 da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Terceira Turma do Tribunal Regional Federal da Quarta Região, assim ementado:
+    “ADMINISTRATIVO. AMBIENTAL. EMBARGO. MULTA. CORTE DE ÁRVORE EM ÁREA DE PROTEÇÃO PERMANENTE. AUSÊNCIA DE LICENÇA EXPEDIDA PELO IBAMA. NECESSIDADE.
+    1. Em matéria ambiental, por estrita observância dos princípios da prevenção e da precaução, a atuação do ente público reveste-se de caráter tipicamente inibitório, porquanto se presta justamente a impedir o dano e a minorar o perigo de sua ocorrência.
+    2. Verifico que a empresa utiliza-se dos benefícios fiscais previstos na Lei 5.106/66 e no Decreto-Lei 1.134/70, que condicionam o corte de árvores federal, conforme exige a Portaria do IBAMA nº 50 N, de 17/04/98.
+    3. Não possuindo a empresa licença emitida pelo IBAMA, mas apenas a oriunda do ente estatal, correta a aplicação de multa e o embargo do corte pelo órgão federal.
+    4. Não há ilegalidade ou abusividade na atuação do IBAMA, pois, constatada a infração administrativa por mera violação a regra jurídica, e observados os princípios da legalidade e da anterioridade, resta autorizada a aplicação de penalidade ao infrator.
+    5. Não há direito a prévio contraditório ou ampla defesa, uma vez que o Poder de Polícia é dotado dos atributos da discricionariedade, da auto-executoriedade e da coercibilidade” (fl. 178).
+    Opostos embargos de declaração (fls.182), foram parcialmente providos (fls.188), para fins exclusivos de prequestionamento.
+    Decido.
+    Não merece prosperar a irresignação.
+    Verifica-se que o Tribunal de origem baseou seu convencimento a partir do conjunto probatório que permeia a lide e da legislação infraconstitucional pertinente. Nesse caso, para acolher a pretensão recursal e ultrapassar o entendimento do Tribunal de origem, seria necessário reexame das provas dos autos e das referidas normas legais, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DANO AMBIENTAL. INFRAÇÃO. LEIS 6.938/1981 E 9.605/1998. MATÉRIA INFRACONSTITUCIONAL. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279 DESTA CORTE. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes. AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010. 3. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário. 4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Precedentes: RE n. 389.096-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 25.09.2009 e AI n. 763.419-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 10.11.2010 5. Agravo regimental a que se nega provimento” (AI nº 840.376/RS-AgR, Relator o Ministro Luiz Fux, DJe de 1°/12/11)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO AMBIENTAL. IBAMA. COMPETÊNCIAS. LEI 6.938/1981 E DECRETO 750/1993. CONTENCIOSO INFRACONSTITUCIONAL. PRECEDENTES. Agravo regimental a que se nega provimento” (AI nº 756.522/PR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 23/2/12).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 1 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
