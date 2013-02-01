@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário por ausência de preliminar de repercussão geral.
+    Sustenta o agravante, em suma, que (a) a admissão e o conhecimento da repercussão geral cabe exclusivamente ao Supremo Tribunal Federal, nos termos do artigo 544, §4º do Código de Processo Civil; (b) no recurso extraordinário ficaram demonstradas as questões relevantes necessárias à reforma do acórdão que decretou a nulidade da sentença declaratória do encerramento da falência, contrariando o disposto no artigo 75 e 132 do Decreto-Lei nº 7.661/1945.
+    2. O presente recurso não reúne condições de admissibilidade, uma vez que o recorrente deixou de apresentar preliminar formal de repercussão geral, nos termos do art. 102, § 3º, da CF, c/c art. 543-A, § 2º, do CPC, exigível quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental n. 21, de 30 de abril de 2007 (AI 664567 QO, Rel. Min. MIN. SEPÚLVEDA PERTENCE, Tribunal Pleno, DJe de 06/09/2007).
+    A repercussão geral, como requisito constitucional de admissibilidade do recurso extraordinário, exige que o recorrente demonstre de forma expressa e fundamentada, que o apelo possui questões relevantes do ponto de vista econômico, político, social ou jurídico que transcenda os limites subjetivos da causa. Mera alegação genérica de que a matéria tem repercussão geral não reúne as condições de admissibilidade, conforme entendimento já pacificado deste Supremo Tribunal Federal. Nesse sentido: RE 640135 AgR/DF, Rel. Min. Luiz Fux, Primeira Turma, Dje de 11/12/2012; ARE 693865 AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, Dje de 14/12/2012; RE 713436 AgR/RS, Rel. Min. Cármen Lúcia, Segunda Turma, Dje de 03/12/2012; ARE 714710 AgR/SP, Rel. Min. Gilmar Mendes, Segunda Turma, Dje de 13/11/2012.
+    3. Ante o exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
