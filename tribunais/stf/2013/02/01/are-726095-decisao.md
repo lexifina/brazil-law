@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul que, em ação indenizatória proposta em virtude da veiculação de notícia supostamente falsa, fundada em informações oriundas de boletim de ocorrência, decidiu pela inexistência de prova do nexo causal entre o dano relatado e a alegada conduta dolosa ou culposa da recorrida.
+    Os embargos de declaração foram rejeitados (fl. 282).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos 1º, III; 5º, V e X; e 93, IX, da Constituição Federal, asseverando, em suma, que (a) “a justificativa de que as informações estariam baseadas em boletim de ocorrência não serve como salvo conduto para que a imprensa livre-se de toda responsabilidade e prejuízos que essa divulgação veio a causar nos direitos individuais” (fl. 297); e (b) o Tribunal de origem deixou de se pronunciar sobre o fato de que a divulgação das informações pela recorrida não atendia a qualquer interesse social.
+    2. No que toca à alegação de ofensa ao art. 93, IX, da Constituição Federal, deve ser observado entendimento assentado por esta Corte no julgamento do AI 791.292 QO - RG (Min. Rel. GILMAR MENDES, DJe de 13/8/2010), cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que
+    (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. O recorrente sustenta a existência de dano moral a ser indenizado, tendo em vista que “restou incontroverso que a notícia não era verdadeira, e que foi divulgada com base nas informações prestadas em boletim de ocorrência confeccionado pelo policial militar envolvido na ocorrência” (fl. 295). Todavia, o acórdão recorrido não vislumbrou nexo causal, indispensável ao acolhimento da pretensão do recorrente, firmando o seguinte entedimento:
+    “(...) Examinando-se o conteúdo da degravação da fita que levou ao ar a reportagem, transcrito na própria inicial (…), constata-se que não houve o alegado dano à imagem ou honra do apelante.
+    Pelo que se vê o nome do autor-recorrente foi declinado pelos locutores e repórter da emissora, em passagens que tiveram origem no boletim de ocorrência, v.g., quanto à sua tentativa, na condição de advogado, de não deixar que sua irmã e a colega fossem detidas, oportunidade em que teria desacatado a guarnição encarregada daquela diligência, xingando os policiais, quando então lhe foi dada voz de prisão. No mais, a notícia limita-se a falar da prisão e condução daquelas outras duas pessoas” (fl. 266).
+    Assim, refutar essas afirmações demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
