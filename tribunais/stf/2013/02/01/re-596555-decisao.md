@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Estado do Amazonas interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão da Segunda Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+    “APELAÇÃO. MILITAR. INCAPACIDADE DEFINITIVA. REFORMA. PRETENSÃO DE RECEBIMENTO DOS PROVENTOS INTEGRAIS DE TERCEIRO SARGENTO PM. PRESCRIÇÃO. INOCORRÊNCIA. REMUNERAÇÃO CALCULADA COM BASE NO SOLDO DO GRAU HIERÁRQUICO IMEDIATO. PROCEDÊNCIA.
+    1. O militar julgado incapaz definitivamente e inapto a prover os próprios meios de subsistência tem direito à reforma e ao recebimento da remuneração calculada com base no soldo do grau hierárquico imediato ao que ocupava na ativa.
+    2. Se a Administração reconhece o direito do servidor militar de receber a gratificação de tropa, e este pleiteia apenas o seu recálculo, não se fala em prescrição do fundo do direito, mas em prescrição apenas sobre as parcelas vencidas antes do quinquênio anterior ao ajuizamento da ação.
+    3. O direito do militar reformado não se restringe ao percebimento do soldo do grau hierárquico imediato. Todas as parcelas da remuneração (gratificações, indenizações, adicionais, auxílio-invalidez) devem ser calculadas a partir do soldo do posto superior.
+    4. Apelo a que se dá provimento” (fls. 92/93).
+    Opostos embargos de declaração (fls. 102 a 112), foram rejeitados (fls. 124 a 128).
+    Alega o recorrente violação do artigo 5º, inciso XXXVI, da Constituição Federal, e artigo 17, do Ato das Disposições Constitucionais Transitórias, uma vez que “no mérito propriamente dito deste feito, observa-se que a pretensão autoral de que venha a ter seus proventos de inatividade majorados até a graduação imediatamente superior na escalar hierárquica daquela corporação militar, deveria ser indeferido, dado que o dispositivo invocado é nulo de pleno direito, por conter vício de inconstitucionalidade ex radice” (fl. 251).
+    Contra-arrazoado (fls. 170 a 179), o recurso extraordinário (fls. 141 a 157) foi admitido (fls. 181/182).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar.
+    O acórdão atacado reconheceu o direito do recorrido em perceber os proventos decorrentes da comprovada invalidez, calculados com base em soldo de 3º Sargento, da seguinte maneira:
+    “Pelo que consta dos autos, o autor da demanda, ora apelante, passou para a reserva, através do Decreto de 27/6/1985, publicado no Diário Oficial de 15/7/1985 (…).
+    O referido decreto estabeleceu que o apelante, Soldado PM, teria direito à percepção do soldo integral de Terceiro Sargento PM, acrescido de 5% de gratificação de tempo de serviço e 10% de habilitação policial militar, nos termos do art. 98, parágrafo 1º e parágrafo 2º, alínea ‘c’, da Lei 1.154, de 9/12/1975, tendo em vista a comprovação de sua incapacidade definitiva e de não poder prover os meios de subsistência.
+    Verifico, através das alegações e das provas carreadas aos autos que o apelante percebe, atualmente, apenas o soldo, o adicional de tempo de serviço e o auxílio invalides de Terceiro Sargento PM. Quanto à gratificação de tropa, recebe a referente ao posto de Soldado PM 02, fato que lhe motivou a ajuizar a ação em tela e vindicar o direito de receber a gratificação de tropa de Terceiro Sargento.
+    ….................................................................................................
+    Ocorre que, o direito pretendido pelo apelante diz respeito ao recebimento da gratificação de tropa de Terceiro Sargento PM, vantagem esta que foi instituída pela Lei Ordinária nº 2.392 de 8/5/1996, ou seja, muito tempo depois de sua reforma, não podendo àquela época pleitear o correto valor de uma gratificação que sequer existia. (…)
+    Ademais, o recorrente não pleitea o recebimento da gratificação de tropa. O fundo de direito já lhe é assegurado. O que quer o apelante é que a gratificação de tropa seja calculada com base na remuneração de Terceiro Sargento PM (…).
+    …..................................................................................................
+    Interpretando o dispositivo, depreendo que o policial militar julgado incapaz definitivamente será reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato superior ao que possuir na ativa (...)” (fls. 163 a 165).
+    Nesse caso, para acolher a pretensão do recorrente e ultrapassar o entendimento do Tribunal de origem, seria necessária interpretação de normas infraconstitucionais (Lei nº 1.154/75), bem como o reexame de aspectos fáticos e circunstanciais, o que não é cabível em sede de recurso extraordinário. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema, anote-se:
+    “Segundo agravo regimental no agravo de instrumento. Servidor militar. Reforma. Grau hierárquico superior. Adicional de inatividade. Reexame de legislação local. Precedentes. 1. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 2. Agravo regimental não provido” (AI nº 824.986/PE-AgR-segundo, Primeira Turma, de minha relatoria, DJe de 14/12/12).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. MILITAR. PROVENTOS. PERCEPÇÃO DO GRAU HIERARQUICAMENTE SUPERIOR. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 634.249/SE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe 24/4/09).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
