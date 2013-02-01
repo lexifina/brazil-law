@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto contra a parte do acórdão que entendeu que a cobrança de multa no percentual de 20% sobre o valor do imposto devido não possui caráter confiscatório, por estar legalmente regulamentada. Por oportuno, destaco da ementa do indigitado julgado:
+    “MULTA. É devida, uma vez verificada a mora, estando prevista no art. 9º, inc. I, da Lei Estadual nº 6.537/73. Não tem caráter confiscatório, nem infringe os princípios da proporcionalidade e da razoabilidade” (fl. 178 do e-STJ).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 150, IV, da mesma Carta, sob o argumento de que a referida multa é manifestamente confiscatória.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com o entendimento firmado pelo Plenário desta Corte no julgamento do RE 582.461/SP, Rel. Min. Gilmar Mendes, com repercussão geral reconhecida, no sentido de que é legítima a incidência da multa fiscal aplicada no patamar de 20%, por não possuir natureza confiscatória. Confira-se trecho da ementa do mencionado julgado:
+    1. Recurso extraordinário. Repercussão geral. 4. Multa moratória. Patamar de 20%. Razoabilidade. Inexistência de efeito confiscatório. Precedentes. A aplicação da multa moratória tem o objetivo de sancionar o contribuinte que não cumpre suas obrigações tributárias, prestigiando a conduta daqueles que pagam em dia seus tributos aos cofres públicos. Assim, para que a multa moratória cumpra sua função de desencorajar a elisão fiscal, de um lado não pode ser pífia, mas, de outro, não pode ter um importe que lhe confira característica confiscatória, inviabilizando inclusive o recolhimento de futuros tributos. O acórdão recorrido encontra amparo na jurisprudência desta Suprema Corte, segundo a qual não é confiscatória a multa moratória no importe de 20% (vinte por cento). 5. Recurso extraordinário a que se nega provimento (grifos meus).
+    Além disso, a verificação de eventual incidência de correção monetária e juros sobre a multa fiscal demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF, e das normas infraconstitucionais pertinentes ao caso, sendo certo que a ofensa à Constituição, se ocorrente, seria meramente indireta.
+    Isso posto, nego seguimento ao recurso (CPC, 557, caput).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
