@@ -1,0 +1,29 @@
+DECISÃO
+    Vistos.
+    Sindicato dos Médicos do Distrito Federal – SINDMÉDICO interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 5º, inciso XXXVI, 7º, incisos VI e X, e 37, caput e incisos X e XV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Segunda Turma Cível do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+    “MÉDICO DO DISTRITO FEDERAL. NOVO PLANO DE CARREIRA. LEI 3.323/04. REAJUSTE. EXTENSÃO ÀS GRATIFICAÇÕES. TRANSFORMAÇÃO EM VPNI. IMPOSSIBILIDADE. LEI 1.867/98. DESVINCULAÇÃO DOS VENCIMENTOS BÁSIVOS.
+    Transformadas as parcelas incorporadas aos vencimentos do servidor em Vantagem Pessoal Nominalmente Identificada (VPNI), por força da Lei Distrital nº. 1.867/98, deixaram as mesmas de possuir vinculação com a sua primitiva origem, desatrelando-se, portanto, do reajuste incidente sobre os vencimentos básicos.
+    A Lei Distrital nº. 3.323/04 não cuida de reajuste geral anual ao qual se refere o artigo 37, X da CF, mas sim de reestruturação da carreira de médico do Distrito Federal”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o Tribunal de origem dirimiu a controvérsia amparado na legislação local pertinente (Lei Distrital nº 3.323/04), cujo reexame é vedado em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte.
+    Nesse sentido, transcrevo o seguinte trecho da fundamentação da decisão proferida pela Ministra Cármen Lúcia, nos autos do AI nº 733.937/DF (DJe de 17/12/08), em caso idêntico ao presente:
+     “(...)
+    6. A controvérsia foi decidida com base na interpretação e aplicação da legislação local aplicável ao caso vertente (Lei Distrital n. 3.323/2004). A alegada afronta à Constituição, se tivesse ocorrido, seria meramente indireta, o que não viabiliza o processamento do recurso extraordinário. Incide, na espécie, a Súmula 280 do Supremo Tribunal Federal”.
+    Nesse mesmo sentido, destaco o seguinte precedente que também trata, especificamente, do tema ora em análise:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREQUESTIONAMENTO. INEXISTÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO. VANTAGEM INCORPORADA. REAJUSTE. DIREITO ADQUIRIDO. REGIME JURÍDICO. INEXISTÊNCIA.
+    1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal.
+    2. Controvérsia decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal
+    3. Não há direito adquirido à regime jurídico-funcional ou à permanência do regime legal de reajuste de vantagem. Precedentes. Agravo regimental a que se nega provimento” (AI nº 644.887/DF-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 15/6/07).
+    Ainda sobre o tema, anotem-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. INCORPORAÇÃO DE GRATIFICAÇÃO. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. REEXAME DE PROVAS. SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 708.626/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 9/11/12).
+    “Agravo regimental no recurso extraordinário. Prequestionamento. Ausência. Servidor público. Quintos. Incorporação. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alegam violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. O Tribunal de origem concluiu, com fundamento na legislação local pertinente, nos fatos e nas provas dos autos e na jurisprudência assentada no STJ, pela legalidade da manutenção, nos vencimentos da agravada, dos quintos/décimos incorporados quando do exercício de cargo comissionado no serviço público federal. 3. É inadmissível, em recurso extraordinário, a análise de legislação infraconstitucional local e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 4. Agravo regimental não provido” (RE nº 591.986/DF-AgR, Primeira Turma, de minha relatoria, DJe de 10/9/12).
+    “ADMINISTRATIVO. POLICIAL CIVIL DO DISTRITO FEDERAL. INCORPORAÇÃO DE QUINTOS. LEI DISTRITAL 1.004/1996. SÚMULA STF 280. 1. O acórdão recorrido decidiu a questão dos autos com base em norma local, Lei distrital 1.004/1996, sendo certo, assim, que a ofensa à Constituição Federal, se ocorrente, seria indireta, o que não autoriza a admissão do recurso extraordinário. Incidência da Súmula STF 280. 2. Agravo regimental a que se nega provimento” (RE nº 553.531/DF-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 26/4/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
