@@ -1,0 +1,21 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    Cabe registrar, desde logo, que a jurisprudência do Supremo Tribunal Federal, ao versar uma das questões suscitadas na presente causa, firmou entendimento no sentido de não reconhecer, ao contribuinte do ICMS, o direito de corrigir, monetariamente, os créditos escriturais excedentes.
+    Essa orientação jurisprudencial – confirmada em sucessivos julgamentos sobre a matéria ora em exame (AI 233.257/MG, Rel. Min. SEPÚLVEDA PERTENCE – RE 195.902/SP, Rel. Min. ILMAR GALVÃO – RE 206.833/SP, Rel. Min. MOREIRA ALVES – RE 213.583/RS, Rel. Min. MAURÍCIO CORRÊA – RE 217.931/SP, Rel. Min. OCTAVIO GALLOTTI – RE 235.495-AgR/SP, Rel. Min. NÉRI DA SILVEIRA – RE 269.238/MG, Rel. Min. NELSON JOBIM, v.g.) – apoia-se no entendimento de que “o aproveitamento de créditos extemporâneos ou acumulados de ICMS deve ser feito sem correção monetária, sob pena de violação ao princípio constitucional da não-cumulatividade” (AI 195.278/RS, Rel. Min. SEPÚLVEDA PERTENCE – grifei):
+    “TRIBUTÁRIO. ICMS. CORREÇÃO DE CRÉDITOS ESCRITURADOS. AFRONTA AOS PRINCÍPIOS DA NÃO- -CUMULATIVIDADE E DA ISONOMIA.
+    Jurisprudência do Supremo Tribunal Federal firme no sentido de que não têm os contribuintes do ICMS o direito de corrigir monetariamente os créditos escriturais excedentes (AGRAG 181.138, Rel. Min. Moreira Alves e RE 195.643).
+    Recurso conhecido e provido.”
+    (RE 226.287/SP, Rel. Min. ILMAR GALVÃO – grifei)
+    “RECURSO EXTRAORDINÁRIO – ICMS – SALDO ESCRITURAL – CORREÇÃO MONETÁRIA PRETENDIDA PELO CONTRIBUINTE – INADMISSIBILIDADE – RECURSO DE AGRAVO IMPROVIDO.
+    A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de não reconhecer, ao contribuinte do ICMS, o direito à correção monetária dos créditos escriturais excedentes, enfatizando, ainda, que essa recusa não configura hipótese caracterizadora de ofensa aos postulados constitucionais da não-cumulatividade e da isonomia. Precedentes.”
+    (RE 231.195-AgR/SP, Rel. Min. CELSO DE MELLO)
+    O exame da presente causa mostra que o acórdão impugnado em sede recursal extraordinária ajusta-se, nesse específico ponto, à diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    De outro lado, e no ponto em que discute a pretendida nulidade do título executivo extrajudicial consubstanciado em certidão de dívida ativa, a análise destes autos evidencia que o recurso extraordinário não se mostra processualmente viável.
+    É que a apreciação desse tema faz instaurar controvérsia de índole infraconstitucional, como tem reconhecido esta Suprema Corte em diversos julgamentos concernentes a idêntica matéria (AI 689.102- -AgR/RS, Rel. Min. RICARDO LEWANDOWSKI – AI 746.770/SP, Rel. CÁRMEN LÚCIA – AI 763.239-AgR/RJ, Rel. Min. ELLEN GRACIE – AI 790.347/SP, Rel. Min. RICARDO LEWANDOWSKI, v.g.):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. NULIDADE DA CERTIDÃO DE DÍVIDA ATIVA – CDA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.”
+    (AI 764.809-AgR/RS, Rel. Min. CÁRMEN LÚCIA – grifei)
+    Cumpre ressaltar, finalmente, quanto à discussão sobre o caráter alegadamente confiscatório da multa imposta por lei, que o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal (AI 512.802/SP, Rel. Min. JOAQUIM BARBOSA – AI 603.606/RS, Rel. Min. RICARDO LEWANDOWSKI – AI 604.925/RJ, Rel. Min. SEPÚLVEDA PERTENCE – AI 613.124-AgR/MG, Rel. Min. CELSO DE MELLO, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministro CELSO DE MELLO
+Relator
