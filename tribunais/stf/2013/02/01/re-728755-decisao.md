@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. 1) LEI ESTADUAL: SÚMULA N. 280 DO SUPREMO TRIBUNAL. 2) AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado da Turma Recursal do Juizado Especial de Lages/SC:
+    “A indenização de valorização profissional do militar não pode ser incluída no conceito de remuneração, por vedação expressa da própria norma geral (Lei Complementar Estadual n. 266/2004), que exclui as verbas de caráter indenizatório. A Lei Complementar n. 549/2009, que além de ser especial e posterior, também veda expressamente (parágrafo único do artigo 8º) a incidência de adicional, indenização, gratificação ou vantagem pecuniária sobre esse benefício. E ainda, o artigo 53 da Lei n. 6.218/1983 dispõe que a remuneração é devida em bases estabelecidas em lei específica. Portanto, a indenização pela valorização do profissional militar não pode integrar a base de cálculo das horas extras e do adicional noturno” (fl. 173 – grifos nossos).
+    2. O Recorrente sustenta contrariedade aos arts. 7º, inc. XVI, 39, §§ 3º e 4º, e 144, § 9º, da Constituição da República pelas seguintes razões: a) “a parte recorrente deveria receber seus rendimentos na espécie de subsídio” (fl. 193); b) “o Estado não utiliza corretamente o conceito de remuneração” (fl. 195).
+    Analisados os elementos havidos nos autos, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O Juízo de origem fundamentou-se na interpretação e na aplicação da Lei n. 6.218/1983 e das Leis Complementares n. 266/2004 e 549/2009 (todas do Estado de Santa Catarina) para solucionar a questão relativa à base de cálculo das horas extras e do adicional noturno, o que atrai a incidência da Súmula n. 280 do Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO. LEI ESTADUAL N. 7.109/77. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 715.389-AgR, de minha relatoria, Primeira Turma, Dje 8.5.2009 – grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. ESTADO DE SÃO PAULO. PRÊMIO DE INCENTIVO À QUALIDADE. LEIS COMPLEMENTARES 804/1995 E 887/2000. MERA OFENSA A DIREITO LOCAL. ENUNCIADO 280 DA SÚMULA/STF. PRECEDENTES. Agravo regimental a que se nega provimento” (AI 643.640-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, Dje 1º.2.2011 – grifos nossos).
+    5. Além disso, os arts. 39, § 4º, e 144, § 9º, da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    6. Nada há, pois, a prover quanto às alegações do Recorrente.
+    7. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
