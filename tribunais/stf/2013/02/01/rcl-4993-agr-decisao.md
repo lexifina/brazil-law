@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    A pretensão deduzida na presente reclamação consiste em fazer subir à apreciação desta Suprema Corte recurso extraordinário interposto nos autos do Agravo de Instrumento nº 2005.03.00.000443-8, em que se confirmou o indeferimento do pedido de imissão na posse formulado pelo INCRA nos autos da Ação de Desapropriação nº 2004.61.07.007512-3.
+    O então relator, Ministro Sepúlveda Pertence, negou seguimento à reclamação pelos seguintes fundamentos:
+    “O Juiz de 1º grau indeferiu o pedido liminar de imissão na posse, na ação de desapropriação 2004.62.07.007512-3, por entender que subsiste controvérsia a respeito da produtividade do imóvel, discutida em outra ação (ação ordinária 2002.61.07.002503-2). Do indeferimento da liminar, foi interposto agravo de instrumento, desprovido pelo Tribunal Regional Federal da 3ª região.
+    Infere-se, assim, que existem duas ações em curso na mesma Vara: uma relativa a desapropriação e outra sobre a nulidade ou não da perícia realizada pelo INCRA, acerca da produtividade do imóvel.
+    Dessa dupla judicialização da desapropriação e especialmente da dúvida quanto a produtividade do imóvel resultou a confirmação do indeferimento da liminar pelo Tribunal Regional Federal. Extrato do voto condutor (f. 30/31):
+    ‘(...) a simples determinação de imissão na posse do imóvel expropriado, sem a verificação de quaisquer requisitos ou indícios de situações que a impeça, estar-se-ia privilegiando uma situação excepcional não contemplada no nosso ordenamento jurídico.
+    A decisão do Magistrado de indeferir o pleito da autarquia fundou-se em uma prejudicial de apreciação do pedido, que é justamente a discussão acerca da produtividade do imóvel em questão, decorrente da interposição de ação declaratória de nulidade do procedimento administrativo, que culminou com a expropriação.
+    Entendeu o e. Magistrado que, por prudência, deveria aguardar o deslinde da questão naquela ação, que já estava com a fase instrutória encerrada, (...)’
+    Certo, o Tribunal vem determinando o exame da admissibilidade do recurso interposto quando o acórdão recorrido não substantiva decisão interlocutória, mas verdadeira decisão final sobre determinada questão.
+    Entretanto, a prudência do Magistrado não pôs fim ao processo de expropriação, muito menos impediu o ‘desenvolvimento da reforma agrária’ (f. 44), como alega o recurso extraordinário.
+    Não há, no caso, hipótese capaz de suplantar a incidência do § 3º, do art. 542, do C.Pr.Civil.
+    Esse o quadro, nego seguimento à reclamação (art. LI, § 1º, RISTF).” (fls. 76/77)
+    Contra essa decisão, o Instituto Nacional de Colonização e Reforma Agrária – Incra interpôs o presente agravo regimental, em que insiste na tese de que o trancamento do recurso extraordinário interposto nos autos do agravo de instrumento apresentado contra decisão interlocutória que negou a imissão na posse do imóvel rural objeto de desapropriação para fins de reforma agrária acarreta grave lesão ao exercício de suas funções institucionais. Alega que:
+    “Enquanto não deferida a imissão na posse a autarquia não tem condições de realizar estudos capazes de definir qual a melhor espécie de projeto de assentamento a ser implementada n local, nem pode levar a cabo a demarcação de parcelas rurais e distribuí-las aos trabalhadores campesinos que necessitam desta fração de terra para subsistência própria e de seus familiares.”
+    É breve o relatório.
+    Tendo em vista (i) o decurso do tempo desde o ajuizamento da presente reclamação constitucional, em 14/11/06 e diante (ii) da correta afirmação do Ministro Sepúlveda Pertence no sentido de que a negativa do pedido de imissão na posse “não pôs fim ao processo de expropriação, muito menos impediu o ‘desenvolvimento da reforma agrária’ (f. 44)” (fl. 77) e (iii) do silêncio da parte autora em manifestar-se acerca da subsistência do interesse no julgamento do recurso interposto na reclamação (fls. 101/102), procedi a consulta ao sistema de acompanhamento processual no sítio eletrônico do e. Tribunal Regional Federal da 3ª Região pelo número de origem (2004.61.07.007512-3).
+    Dessa consulta, extraio a informação - obtida em decisão do e. TRF da 3ª Região proferida nos autos do AI nº 0089904-65.2007.4.03.0000/SP (o qual é vinculado à Ação de Despropriação nº 2004.61.07.007512-3) – de que, após a interposição do recurso extraordinário objeto da presente ação constitucional, o INCRA obteve decisão judicial que lhe garantiu a imissão na posse do imóvel rural denominado “Fazenda São Lucas”. Transcrevo trecho da decisão:
+    “A intimação da imissão na posse em favor do INCRA, decorrente da decisão recorrida, nos autos da ação de desapropriação, de deu em 22 de agoste de 2007 (...)”
+    O objeto do instrumento processual cujo processamento e subida à apreciação dessa Suprema Corte pretende o INCRA por meio desta ação constitucional consiste na obtenção de provimento judicial que garanta a imissão na posse do imóvel rural declarado improdutivo para fins de reforma agrária.
+    Mais especificamente, a autarquia federal faz uso da presente reclamação constitucional para destrancar recurso extraordinário em que discute a legitimidade de decisão que indeferiu o pedido de imissão na posse nos autos da Ação de Despropriação nº 2004.61.07.007512-3.
+    Houve alteração do quadro fático subjacente à ação, haja vista a perda superveniente de objeto do recurso extraordinário protocolado em 1º/8/06 no AI nº 2005.03.00.000443-8, uma vez que o título judicial questionado naqueles autos fora substituído por decisão posterior, que deferiu a imissão na posse da “Fazenda São Lucas” ao INCRA.
+    Nessa perspetiva, tem-se que não mais subsiste a pretensão de se resguardar a competência do STF para julgar o recurso extraordinário interposto nos autos do AI nº 2005.03.00.000443-8, uma vez que o direito do INCRA nele vindicado (imissão na posse) foi deferido por decisão posterior nas instâncias ordinárias e eventual manutenção ou não de seus efeitos devem ser objeto de recurso próprio.
+    Ante o exposto, julgo prejudicada a análise do agravo regimental, por perda superveniente do interesse de agir (art. 267, VI, do CPC).
+    Publique-se. Int..
+    Arquivem-se os autos.
+    Brasília, 1º de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
