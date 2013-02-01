@@ -1,0 +1,1 @@
+Art. 28-C O servidor efetivo que ocupar cargo em comissão, função de direção ou chefia, ficará afastado durante o gozo da licença-prêmio, com todos os direitos e vantagens inerentes ao cargo. (Incluído pela Lei Complementar nº 473, de 30/09/2024)

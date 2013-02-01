@@ -1,0 +1,1 @@
+Art. 41-A. O quadro de cargos de provimento em comissão dos órgãos jurisdicionais de segunda instância, órgãos administrativos e demais serviços auxiliares do Poder Judiciário do Estado do Acre é composto pelos cargos isolados previstos Anexo VI-A, nos termos de Resolução do Tribunal Pleno Administrativo. (Incluído pela Lei Complementar nº 492, de 14/05/2025)

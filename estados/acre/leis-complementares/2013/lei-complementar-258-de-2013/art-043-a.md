@@ -1,0 +1,1 @@
+Art. 43-A. As funções de confiança, destinadas aos órgãos administrativos e jurisdicionais da segunda instância do Poder Judiciário do Estado do Acre, são previstas no Anexo VII-A, nos termos de Resolução do Tribunal Pleno Administrativo. (Incluído pela Lei Complementar nº 492, de 14/05/2025)

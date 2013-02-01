@@ -1,0 +1,1 @@
+Art. 28-B É permitida a conversão da licença-prêmio em pecúnia, nos termos de deliberação da presidência do Poder Judiciário do Estado, observada a disponibilidade orçamentária e financeira. (Incluído pela Lei Complementar nº 473, de 30/09/2024)
