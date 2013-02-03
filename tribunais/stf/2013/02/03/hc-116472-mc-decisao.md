@@ -1,0 +1,15 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUFICIÊNCIA – LIMINAR – IMPLEMENTO DE OFÍCIO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi preso em flagrante, no dia 28 de maio de 2012, e denunciado pela prática do crime previsto no artigo 33, cabeça, da Lei nº 11.343/06.  O Juízo da 21ª Vara Criminal da Capital do Estado de São Paulo converteu a custódia em preventiva. Consignou a insuficiência das medidas cautelares diversas da prisão, em virtude da gravidade do crime, que denotaria a periculosidade do agente, fato incompatível com a atribuição de confiança ao acusado, necessária à efetividade de medidas alternativas.
+    O Tribunal de Justiça do Estado de São Paulo indeferiu o habeas formalizado. Destacou a gravidade da situação, a envolver crime equiparado a hediondo, cuja ocorrência gera insegurança e intranquilidade à sociedade.
+    O ato atacado é a decisão proferida pela ministra Marilza Maynard, do Superior Tribunal de Justiça, indeferindo liminarmente o Habeas Corpus nº 260.570-SP. Consignou a adequação da custódia, tendo em vista a quantidade e a variedade de drogas apreendidas com o paciente.
+    Neste habeas, a impetrante alega inobservância ao princípio da presunção da não culpabilidade. Afirma já ter o Supremo, de forma incidental, declarado a inconstitucionalidade da vedação à liberdade provisória, constante do artigo 44, cabeça, da Lei nº 11.343/06. Sustenta a falta de motivação do pronunciamento do Juízo, que não teria avaliado o caso concreto. Segundo ressalta, o Superior e o Tribunal local acresceram fundamentos à decisão na qual determinada a preventiva, de modo a justificá-la. Em âmbito liminar, requer a expedição de alvará de soltura. No mérito, busca ver assegurada a liberdade ao paciente até o julgamento definitivo da ação penal.
+    2. Este habeas ganha contornos de substitutivo do recurso ordinário constitucional, sendo inadequado. No campo do exame relativo à existência de constrangimento ilegal, entretanto, surge a necessidade de implementar-se liminar de ofício. A preventiva veio a ser formalizada com base na gravidade da imputação, até aqui simples imputação. A par desse aspecto, o que consignado sob o ângulo da instrução criminal serve a todo e qualquer processo – o fato de ter-se a presença, em audiência, do acusado.
+    3. Defiro a medida acauteladora de ofício, para afastar a custódia preventiva determinada pelo Juízo do Foro Central Criminal Barra Funda – Comarca de São Paulo no Processo nº 0048394-68.2012.8.26.0050. Cumpram o alvará de soltura com os cuidados próprios: caso o paciente não esteja preso por motivo diverso do retratado no ato ora apreciado. Advirtam-no da necessidade de permanecer no distrito da culpa, atendendo aos chamamentos judiciais e adotando a postura que se aguarda do homem integrado à vida em sociedade.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 3 de fevereiro de 2013, às 20h.
+Ministro MARCO AURÉLIO
+Relator
