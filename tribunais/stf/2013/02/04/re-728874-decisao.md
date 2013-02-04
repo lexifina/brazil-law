@@ -1,0 +1,15 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a relação jurídica existente entre as partes possui natureza trabalhista, razão pela qual declinou a competência para o julgamento da causa à Justiça do Trabalho. Transcrevo, a seguir, a ementa do acórdão recorrido:
+    “AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO – DECISÃO OBJURGADA QUE DECLINOU DA COMPETÊNCIA EM FAVOR DE UMA DAS VARAS DA JUSTIÇA DO TRABALHO – ACIDENTE DE TRABALHO – AUTOR QUE NO EXERCÍCIO DA SUA FUNÇÃO DE AGENTE DE SEGURANÇA FOI ATROPELADO POR BONDE DE PROPRIEDADE DO EMPREGADOR, CONDUZIDO POR PREPOSTO DA AGRAVADA – EMPRESA RÉ QUE É PRESTADORA DE SERVIÇOS DO EMPREGADOR DO AGRAVANTE – INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL PARA APRECIAR E JULGAR A LIDE – ART. 114, VI, DA CONSTITUIÇÃO FEDERAL - PROVIMENTO VERGASTADO IRRETORQUÍVEL – RECURSO DESPROVIDO – DECISÃO MANTIDA” (fl. 278).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 114 da mesma Carta e à Súmula Vinculante 22.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+    “No caso dos autos, esclarece o agravante/autor que foi atropelado por um bonde que na ocasião estava sendo operado por prepostos da empresa ré, fato que lhe causou graves danos (fratura na tíbia e fíbula da perna direito), destacando que não mantém qualquer vinculo empregatício com a ré.
+    Malgrado as assertivas expendidas pelo agravante no sentido da ausência de vínculo empregatício com a ré/agravada, verifica-se da detida análise dos documentos carreados aos autos – em especial, o registro de ocorrência de fls. 35/38 – que o bonde que atropelou o autor era conduzido por preposto da ré à qual presta serviços à empresa para a qual o autor labora (Central Logística).
+    Em que pese a ausência do exato conhecimento da natureza jurídica da relação travada entre as empresas, é certo que restou incontroverso que o bonde era operado por funcionário de empresa prestadora de serviços da empregadora do agravante, exsurgindo, de forma inequívoca a competência da justiça do trabalho para apreciar e julgar a presente lide
+    Ademais, restou esclarecido nos autos que o bonde era de propriedade do empregador do agravante e este se encontrava no local de trabalho e no exercício da sua função de agente de segurança quando ocorreu o sinistro, amoldando-se o caso dos autos ao preceituado no art. 21, da Lei 8.213 (...)” (fls. 279-280).
+    Verifica-se que, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário nos termos da Súmula 279 do STF. Nesse sentido, cito os seguintes julgados: RE 552.522-AgR/RS, Rel. Min. Ellen Gracie; AI 653.859-AgR/SP, Rel. Min. Eros Grau; RE 596.260/SC, Rel. Min. Dias Toffoli; AI 609.809-AgR/SC, Rel. Min. Sepúlveda Pertence;
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
