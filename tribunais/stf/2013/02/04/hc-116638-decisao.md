@@ -1,0 +1,28 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Marcelo Lins dos Santos contra decisão do Ministro Campos Marques (Desembargador Convocado do TJ/PR), do Superior Tribunal de Justiça, que indeferiu o pedido liminar nos autos do HC 261.959/PB. Eis o teor da decisão impugnada:
+    Impetrou-se o presente habeas corpus em favor de Marcelo Lins dos Santos, denunciado pela prática dos delitos descritos nos arts. 303, § 1º, 312, 315 e 334, parágrafo único, c/c o art. 53, todos do Código Penal Militar.
+    Sustenta a defesa, em suma, a existência de coação ilegal, relativamente à forma como se deu a convocação de oficiais para a composição do colegiado responsável pelo julgamento do paciente.
+    Aduz-se que, ao ser necessária a utilização de oficiais da reserva remunerada para formação do conselho de julgamento, o correto seria que assim se procedesse, com a "convocação dos oficiais da reserva para o retorno à ativa" (fl. 6).
+    Além disso, entende ser forçosa a manutenção da inicial composição do conselho especial formado para o julgamento, asseverando, ainda, que não houve, como deveria ocorrer, manifestação do Tribunal a quo acerca da substituição dos oficiais integrantes do referido conselho.
+    Postulou-se, ao final, a concessão de medida liminar, a fim de suspender o trâmite da ação penal na origem.
+    Este, em síntese, o relatório.
+    Decido o pedido liminar.
+    Consigno, inicialmente, que o deferimento de liminar em habeas corpus é medida excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris.
+    Consigno, inicialmente, que o deferimento de liminar em habeas corpus é medida excepcional, reservada para casos em que se evidencie, de modo flagrante, coação ilegal ou derivada de abuso de poder, em detrimento do direito de liberdade, exigindo demonstração inequívoca dos requisitos autorizadores: o periculum in mora e o fumus boni iuris.
+    Quando evidentes tais requisitos, que são considerados fundamentais, é lícito, não há dúvida, deferir-se a pretensão. Reserva-se, contudo, para casos em que se evidencie, desde logo, coação ilegal ou abuso de poder, o que, adianto, não identifico no caso dos autos.
+    De fato, da leitura do acórdão do Tribunal de Justiça da Paraíba constato que a questão alusiva ao retorno para a atividade, dos oficiais da reserva indicados para compor o conselho especial de julgamento, não foi objeto de debate e decisão pela Corte estadual
+    No particular, consignou-se que "não havendo oficial do mesmo posto que o acusado de patente mais alta e mais antigo que ele na ativa, pode-se recorrer ao oficiais da reserva remunerada, o que, perscutando o processo, foi o que ocorreu no caso vertente" (fl. 65).
+    Por sinal, também não se decidiu, por falta de provocação da defesa, como é dado inferir do acórdão impugnado, acerca da necessidade de manifestação do Tribunal de Justiça da Paraíba no que concerne à substituição dos oficiais integrantes do conselho especial.
+    Ora, à vista de tais circunstâncias, não há como, neste exame preliminar, analisar as respectivas matérias, sob pena de indevida supressão de instância.
+    Relativamente à substituição dos integrantes do conselho especial, registrou-se que "vários fatores externos aconteceram, a exemplo de membros de Impetrou-se o presente habeas corpus em favor de Marcelo Lins dos Santos, denunciado pela prática dos delitos descritos nos arts. 303, § 1º, 312, 315 e 334, parágrafo único, c/c o art. 53, todos do Código Penal Militar.
+    Ainda que assim não fosse, observo constar da decisão do Tribunal paraibano, que a defesa estava presente em audiências realizadas no Juízo de primeiro grau, "e nada alegou naquele momento, nem nos momentos seguintes, quando, em virtude do decorrer do tempo houve a necessidade de ser proceder a novos sorteios do Conselho Especial" (fl. 65).
+    Assim sendo, neste primeiro exame, o acórdão impetrado não se mostra manifestamente ilegal, a ponto de ensejar a concessão da medida urgente pleiteada.
+    À vista do exposto, indefiro a liminar.
+    Na inicial, reitera-se os argumentos invocados na impetração perante o STJ. Alega, ainda, que o caso requer o afastamento do entendimento firmado na Súmula 691/STF, já que restou demonstrado flagrante constrangimento ilegal. Requer a concessão de medida liminar para determinar a suspensão do trâmite da ação penal 200.2003.030.472-5, eis que “a próxima audiência em 05/02/2013 é de julgamento”.
+    2. De acordo com a Súmula 691 do STF, não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012). A hipótese dos autos, todavia, não se caracteriza por qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Diante do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 04 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
