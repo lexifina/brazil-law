@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “RELAÇÃO DE CONSUMO – Desconsideração da personalidade jurídica - Aplicação do artigo 28, parágrafo 5° do CDC. - Possibilidade já que frustradas todas as medidas constrição na fase de execução contra o Clube demandado, razoável e necessária a desconsideração da personalidade jurídica pelo magistrado - Conduta correta objetivando findar a questão deste e de diversos outros processos que tramitam na 1ª. Vara do Juizado Especial Cível de Santana - Dispensa impulso obrigatório da parte - Regular intimação da parte afetada em seu patrimônio para impugnação - Sentença mantida por seus próprios fundamentos, já que observadas todas as garantias processuais e constitucionais - O executado Max Cagnoni exercia função administrativa no Clube executado, responsável, portanto, pelos atos tomados no gerenciamento - Sentença mantida - Recurso não provido” (fl. 312).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    É certo, ainda, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Defesa do Consumidor). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “ACÓRDÃO DO TRIBUNAL SUPERIOR DO TRABALHO, QUE DECIDU A CONTROVÉRSIA ACERCA DA PENHORA DE BENS DE SÓCIO DA EMPRESA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE.
+    Hipótese em que o recurso se revela insuscetível de apreciação em face da ausência de prequestionamento e da inexistência de afronta direta à Carta.
+    Agravo desprovido” (AI 388.755-AgR/SP, Rel. Min. Ilmar Galvão, Primeira Turma).
+    “DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. OFENSA INDIRETA OU REFLEXA. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. SÚMULA STF 454.
+    1. É inadmissível recurso extraordinário no qual se pretende a análise de legislação infraconstitucional. Hipótese de ofensa indireta ou reflexa à Constituição Federal.
+    2. No mérito, a pretexto de ofensa à Constituição Federal, pretende-se a análise de legislação infraconstitucional e de cláusulas contratuais (Súmula STF 454), hipóteses inviáveis em sede extraordinária.
+    3. Inexistência de argumento capaz de infirmar a decisão agravada, que deve ser mantida pelos seus próprios fundamentos.
+    4. Agravo regimental improvido” (AI 754.834-AgR/MG, Rel. Min. Ellen Gracie, Segunda Turma).
+    Por fim, para divergir do acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
