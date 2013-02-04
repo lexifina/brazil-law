@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado pelo próprio paciente, Ronni Von Ianco Freitas da Silva, contra acórdão proferido pelo Superior Tribunal de Justiça nos autos do HC 212.600/MS (Min. Og Fernandes). Eis a ementa do julgado:
+    HABEAS CORPUS. TRÁFICO DE DROGAS. ELEVADA QUANTIDADE DE MACONHA. DEDICAÇÃO À ATIVIDADE CRIMINOSA. NÃO APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/06.
+    1. Diz o art. 33, § 4º, da Lei nº 11.343/06, que a pena pode ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), desde que o paciente seja primário, portador de bons antecedentes, não integre organização criminosa nem se dedique a tais atividades.
+    2. As instâncias ordinárias afastaram, fundamentadamente, a incidência da benesse pretendida sob o fundamento de que as circunstâncias que ladearam a prática delitiva evidenciam a dedicação do paciente à atividade criminosa.
+    3. O réu esteve envolvido, juntamente com outros comparsas, no transporte de maconha para a cidade de Campo Grande/MS em duas oportunidades distintas, a primeira, no dia 14/7/2008, quando foram apreendidos 545,7 kg (quinhentos e quarenta e cinco quilos e setecentos gramas) de maconha e, a segunda, em 4/8/2008, ocasião em que foram apreendidos outros 700 kg (setecentos quilos) do entorpecente.
+    4. O reconhecimento da continuidade delitiva na sentença, ao passo que beneficia o acusado na dosimetria penal, confirma a idéia de que ele se dedicava à exploração do tráfico de drogas.
+    5. A elevada quantidade de droga apreendida, a qual totaliza 1.245,7 kg (mil duzentos e quarenta e cinco quilos e setecentos gramas) de maconha, conquanto já tenha sido valorada para efeito de majoração da pena-base, não deve ser ignorada como circunstância indicadora de que o réu participa de organização criminosa ou se dedica a atividades criminosas, desde que aliada a outros elementos de prova, como na espécie.
+    6. Ordem denegada.
+    Na inicial, alega-se, em síntese que: (a) o paciente foi condenado à pena de sete anos, nove meses e dez dias de reclusão pela prática do crime previsto no art. 33 da Lei 11.343/2006 c/c o art. 71 do Código Penal; (b) a personalidade dissimulada, os antecedentes criminais e o propósito de obter lucro fácil através do tráfico de entorpecentes não são fundamentos idôneos para juiz sentenciante fixar a pena-base acima do mínimo legal. Requer o redimensionamento da pena-base nos estritos critérios previstos no art. 59 do Código Penal.
+    2. A decisão impugnada não apreciou os fundamentos invocados na impetração, tendo em vista que a análise realizada pelo Superior Tribunal de Justiça limitou-se à consideração acerca da aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/2006. Assim, qualquer juízo desta Corte acerca das questões aqui suscitadas implicaria indevida supressão de instância (v.g.: HC 112.100/DF, 2ª T., Min. Cezar Peluso, Dje de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, Dje de 06/09/2012).
+    Ademais, a postulação do impetrante encontra obstáculo na firme jurisprudência desta Suprema Corte que reiteradas vezes já decidiu pela impossibilidade de se proceder, na via estreita do habeas corpus, ao reexame dos elementos de convicção considerados pelo magistrado sentenciante na avaliação das circunstâncias judiciais previstas no art. 59 do Código Penal (v.g.: HC 102.966/RJ-AgR, 2ª T., Min. Celso de Mello, Dje de 20/03/2012; HC 94.125/RJ, 1ª T., Min. Ricardo Lewandowski, Dje de 06/02/2009).
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 04 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
