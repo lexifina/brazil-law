@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que julgou improcedente a pretensão do Município de São Sebastião de recálculo de valores referentes à repartição de receitas tributárias prevista no art. 159, I, b e d, da Constituição. Transcrevo, a seguir, a ementa da decisão atacada:
+    “TRIBUTÁRIO. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS (FPM). BASE DE CÁLCULO. PRODUTO DA ARRECADAÇÃO DO IR E DO IPI. ART. 159, I, DA CF/88. DEDUÇÃO DE INCENTIVOS FISCAIS. POSSIBILIDADE. PRECEDENTES.
+    1. A teor da norma insculpida no art. 159, inc. I, da Constituição Federal, a transferência constitucional de receitas tributárias aos Municípios deve ser feita com base no produto da arrecadação do IR e do IPI, e não na receita bruta, porquanto a finalidade do FPM é justamente transferir àqueles entes estatais valores que, originariamente, pelas regras de competência tributária, pertenceriam à União.
+    2. Possibilidade de dedução, da base de cálculo do FPM, dos valores referentes a incentivos fiscais (tais como o PIN e o PROTERRA), tendo em vista que as receitas pertinentes a ditos programas não são apropriadas pela União, por se tratarem de incentivos que são custeados com recursos advindos de renúncia fiscal do IR e IPI.
+    3. Precedentes deste eg. Tribunal: AC502839/RN (Rel. Des. Federal Francisco Barros Dias, Segunda Turma, DJe 12/08/2010); AC502542/RN (Rel. Des. Federal Geraldo Apoliano, Terceira Turma, DJe 21/09/2010); AGTR104500/RN (Rel(a). Des. Federal Margarida Cantarelli, Quarta Turma, DJE 15/04/2010).
+    4. Apelação e remessa oficial improvidas” (fl. 382).
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa ao art. 159, I, b e d, da mesma Carta. Argumentou-se que o produto da arrecadação do Imposto de Renda e do Imposto sobre Produtos Industrializados deve ser repassado ao Município sem a dedução dos incentivos fiscais concedidos pelo Governo Federal.
+    A pretensão recursal merece acolhida.
+    O Plenário desta Corte, no julgamento do RE 572.762/SC, de minha relatoria, firmou entendimento no sentido de que a concessão de benefícios fiscais não pode implicar a diminuição do repasse de receitas tributárias constitucionalmente assegurado aos municípios, conforme se depreende da ementa daquele julgado abaixo transcrita:
+    “CONSTITUCIONAL. ICMS. REPARTIÇÃO DE RENDAS TRIBUTÁRIAS. PRODEC. PROGRAMA DE INCENTIVO FISCAL DE SANTA CATARINA. RETENÇÃO, PELO ESTADO, DE PARTE DA PARCELA PERTENCENTE AOS MUNICÍPIOS. INCONSTITUCIONALIDADE. RE DESPROVIDO.
+    I - A parcela do imposto estadual sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação, a que se refere o art. 158, IV, da Carta Magna pertence de pleno direito aos Municípios.
+    II - O repasse da quota constitucionalmente devida aos Municípios não pode sujeitar-se à condição prevista em programa de benefício fiscal de âmbito estadual.
+    III - Limitação que configura indevida interferência do Estado no sistema constitucional de repartição de receitas tributárias.
+    IV - Recurso extraordinário desprovido”.
+    Nesse mesmo sentido, menciono ainda, as seguintes decisões: RE 545.555-AgR/SP, e ARE 664.844-AgR/GO, Rel. Min. Cármen Lúcia; RE 535.135-AgR/SC, Rel. Min. Ayres Britto; ADI 4.597-MC/CE, Rel. Min. Marco Aurélio; RE 522.271-ED/SC, Rel. Min. Dias Toffoli; AI 665.186-ED/SC, Rel. Min. Celso de Mello; RE 548.018-AgR/SC, Rel. Min. Joaquim Barbosa; RE 477.854-ED/SC, Rel. Min. Ellen Gracie; RE 499.613-AgR/SC, Rel. Min. Cezar Peluso.
+    Dessa forma, os incentivos fiscais concedidos pela União não poderiam ter como consequência a diminuição do valor a ser recebido pelos municípios, em observância ao artigo 159, I, b e d, da Constituição.
+    Isso posto, conheço do recurso e dou-lhe provimento (CPC, art. 557, § 1º-A), para determinar que das receitas tributárias pertencentes ao recorrente, em atenção ao art. 159, I, b e d, da Constituição, não sejam deduzidos os valores referentes aos incentivos fiscais concedidos pela União. Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
