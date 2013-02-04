@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a validade do documento fiscal para fins de transporte de mercadoria no Estado de Minas Gerais deve ser aferida segundo a legislação desse ente federado, apesar de a mercadoria transportada ser proveniente do Estado de São Paulo.
+    O Tribunal de origem assentou, ainda, que o disposto no art. 150, IV, da Constituição aplica-se exclusivamente aos tributos e não às multas tributárias e, sob esse fundamento, afastou a alegação de que a multa isolada aplicada no caso seria ilegítima ante o seu caráter confiscatório.
+    Neste RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, ofensa aos arts. 1º, e 150, IV, da mesma Carta.
+    A pretensão recursal merece parcial acolhida.
+    O acórdão recorrido decidiu a questão referente à validade do documento fiscal utilizado pela recorrente para o transporte de mercadorias no Estado de Minas Gerais com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Código Tributário Nacional e RICMS/2002 do Estado de Minas Gerais). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àqueles diplomas legais pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário quanto a esse tema.
+    Quanto ao exame do caráter confiscatório da multa isolada aplicada no caso, a decisão de origem está em desacordo com a orientação fixada por esta Corte no sentido de que é possível examinar se determinado tributo ofende, ou não, a proibição constitucional do confisco em matéria tributária, nos termos do art. 150, IV, da CF, e que esse princípio deve ser observado ainda que se trate de multas tributárias, a exemplo do que se decidiu nos seguintes feitos: ADI 1.075-MC/DF, Rel. Min. Celso de Mello; ADI 551/RJ, Rel. Min. Ilmar Galvão; ARE 637.717-AgR/GO, Rel. Min. Luiz Fux.
+    Isso posto, conheço do recurso e dou-lhe parcial provimento (CPC, art. 557, § 1º-A), apenas para determinar que o Tribunal de origem examine se a aplicação da multa isolada, no caso dos autos, implicou ou não ofensa ao art. 150, IV, da Constituição.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
