@@ -1,0 +1,24 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça de São Paulo, por meio da decisão monocrática de fl. 168, que determinou a devolução dos autos para que se cumpra o disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário está representada na sistemática de repercussão geral no tema 64 no RE-RG 563.708.
+    Chegando ao Tribunal a quo, os autos foram reenviados ao STF, sob a alegação de que existe dúvida em relação à indicação do leading case aplicado ao presente caso, requerendo uma nova manifestação por esta Corte.
+    Após detida análise, observo que a vinculação ao precedente indicado, o RE-RG 563.708, está equivocada, tendo em vista que a matéria debatida nos autos é diversa deste paradigma, motivo pelo qual reconsidero a decisão de devolução e passo ao julgamento do recurso extraordinário.
+    Trata-se de recurso extraordinário que impugna acórdão assim ementado:
+    “SERVIDORES ESTADUAIS – SEXTA PARTE – CÁLCULO.
+    As verbas de caráter provisório, precário ou mesmo que não expressem as condições de incorporação, não podem gerar efeitos para o cálculo do benefício da sexta-parte, como é caso de vedação expressa na Lei instituidora quanto a sua incorporação. O artigo 129, da C.E. E o artigo 108, do Estatuto Funcional, revelam que apenas as verbas efetivamente incorporadas ao patrimônio do servidor podem ser admitidas no cálculo do referido benefício. No entanto, sendo os autores servidores aposentados, marcada a natureza intangível das verbas auferidas, o que permite a incidência da sexta-parte e sobre a totalidade dos proventos.
+    Recuro dos autores provido, desprovido o recurso adesivo da Fazenda Pública”. (fl. 81)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 37, XIV; 195, § 5º, do texto constitucional.
+    Argumenta-se que:
+    “os vencimentos integrais devem ser considerados somente o vencimento propriamente dito (salário base) e as vantagens pecuniárias que se integram automaticamente no padrão de vencimento, ou mediante determinação legal expressa”.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, verifico não incidir o RE-RG 563.708, o qual diz respeito à discussão sobre a existência de direito adquirido de servidor público admitido anteriormente à Emenda Constitucional 20/98 que suprimiu a expressão sob o mesmo título ou idêntico fundamento do art. 37, XIV, da CF - ao adicional por tempo de serviço calculado de acordo com a redação originária do inciso XIV, do art. 37, da Constituição Federal.
+    Na espécie, constata-se que o Tribunal de origem, expressamente, concluiu que vantagens pecuniárias de natureza eventual, bem como a sexta-parte, não devem ser consideradas na base de cálculo do quinquênio, motivo pelo qual não incide o paradigma acima mencionado. Todavia, bem ressaltou que, em se tratado de servidores aposentados, “parte-se da premissa que as verbas recebidas a título de aposentadoria foram efetivamente incorporadas ao patrimônio dos servidores, passando a fazerem jus ao percebimento do benefício da sexta-parte e sobre a totalidade dos proventos por eles auferidos”.
+    Assim, quanto ao mérito, verifica-se que o acórdão recorrido decidiu a controvérsia com fundamento na interpretação da legislação local (art. 129 da Constituição do Estado de São Paulo e Lei Complementar Estadual 180/78), de modo que, para se concluir de forma diversa, far-se-ia imprescindível a prévia interpretação da referida legislação local, providência vedada no âmbito do recurso extraordinário, nos termos do Enunciado 280 do STF.
+    Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE-AgR 593.098, Rel. Min. EROS GRAU, Segunda Turma, DJe 19.12.2008)
+    Na mesma linha de entendimento, cito as seguintes decisões monocráticas: ARE 682.248, Rel. Min. Cezar Peluso, DJe 21.5.2012; ARE 681.902, de minha relatoria, DJe 7.5.2012; RE 556.936, Rel. Min. Dias Toffoli, DJe 26.8.2011; RE 576.197, Rel. Min. Ayres Britto, DJe 12.5.2011.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, RISTF, e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
