@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “EXECUÇÃO DE SENTENÇA – EXPEDIÇÃO DE REQUISIÇÃO DE PEQUENO VALOR – LEI MUNICIPAL – EDIÇÃO POSTERIOR AO RECONHECIMENTO DO CRÉDITO – IRRETROATIVIDADE. A edição de lei municipal que, ao regulamentar o disposto no artigo 87, II, ADCT, delimitando o valor das obrigações de pequeno valor, não pode ser aplicada ao processo de execução ajuizado antes de sua vigência, por consubstanciar norma de natureza material. Assim, deve ser observado o fixado no art. 87, inciso II, do ADCT da Constituição da República, na redação dada pela EC nº 37/2002, que definiu como sendo de 30 salários mínimos o limite do pequeno valor” (fl. 88).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 100, § 3º, da mesma Carta e ao art. 87 do ADCT, ao argumento de que a execução proposta pela recorrida iniciou-se após a entrada em vigor da Lei 9.532/2008, que estabeleceu o montante das obrigações de pequeno valor no Município de Belo Horizonte. Assim, sustenta-se que a referida lei local deve ser aplicada ao processo em exame.
+    A pretensão recursal não merece acolhida.
+    Verifica-se que o Tribunal de origem decidiu a controvérsia com base nos seguintes fundamentos:
+    “No caso dos autos, a Lei nº 9.320, do Município de Belo Horizonte, que definiu o valor de 5 salários mínimos para o pagamento do RPV, é de 22/01/07, e a Lei Municipal nº 9.532, que fixou o valor de R$ 5.000,00 é de 2008, ao passo que a execução de sentença em questão foi iniciada anteriormente, sendo que a citação da referida execução, para fins do art. 730 foi procedida, cujo mandado foi juntado aos autos em 28/05/2008, fls. 42V, estando, repita-se, a execução em andamento.
+    Assim, entendo que deve prevalecer o pagamento na forma de RPV, cujo valor requerido é inferior a 30 (trinta) salários mínimos, porquanto a sua determinação é de dia anterior ao da publicação da Lei 9.320/07, que instituiu no Município de Belo Horizonte, o valor para RPV de cinco salários mínimos, bem como da Lei nº 9532/08, que a limitou a R$5.000,00 (cinco mil reais)” (fl. 91).
+    Desse modo, para se chegar à conclusão contrária à adotada pelo Tribunal de origem no tocante ao momento em que a execução foi iniciada, se antes ou depois da vigência da Lei Municipal 9.532/2008, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
