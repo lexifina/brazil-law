@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a recorrida possui direito ao recebimento de benefício assistencial, por considerar presentes os pressupostos para a sua concessão.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, e 203, V, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, observo que o art. 5º, caput, da Constituição não foi prequestionado. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, verifica-se que o Tribunal de origem consignou que a ora recorrida cumpriu os requisitos necessários à concessão do benefício assistencial, conforme se observa no seguinte trecho do acórdão impugnado:
+    “Por outro lado, os documentos médicos juntados aos autos (ATESTMED8, PROCADM11 e OUT13, anexados ao evento 1) apontam para possíveis limitações em relação à atividade que exerce.
+    Ademais, a crítica condição de vida da recorrente só faz potencializar os problemas de saúde que apresenta e, diante da insegurança alimentar que sofre, a concessão do benefício assistencial poderá servir-lhe para manter sua subsistência de maneira digna. A limitação para realizar esforços físicos, somada à escolaridade (4a. série) e ao histórico profissional (trabalhou na lavoura por 40 anos), permitem concluir que a autora não tem condições de prover o próprio sustento.
+    Com efeito, o requisito econômico restou demonstrado pelo auto de constatação (evento 13), segundo o qual a parte recorrente mora sozinha e não possui renda, sobrevivendo com o valor de R$ 62,00 que recebe do programa Bolsa Família.
+    Esta Turma Recursal firmou entendimento no sentido de que benefício governamental destinado à alimentação deve ser desconsiderado para fins de cálculo do benefício assistencial, conforme se infere do artigo 2º, § 1º, inciso III, da Lei 10.836/20041 (Precedentes: RCI 2007.70.95.016291-4, Rel. Márcia Vogel Vidal de Oliveira, j. 06.10.2008; RCI 2010.70.60.000868-8, Rel. Juiz Federal José Antonio Savaris, j. 09.02.2011).
+    Dessa forma, a renda per capita é nula. Além disso, os elementos de prova encontrados nestes autos demonstram suficientemente a existência de carência econômica a justificar a concessão do benefício assistencial na espécie, sendo de direito a concessão de benefício assistencial desde a data do requerimento administrativo (30/07/2008), quando já presentes os pressupostos para o seu deferimento”.
+    Desse modo, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 834.745/DF e RE 602.331/PB, Rel. Min. Joaquim Barbosa; AI 815.133/MT, Rel. Min. Gilmar Mendes; RE 603.229/SP, de minha relatoria; RE 464.260/RS e RE 460.134/SP, Rel. Min. Ayres Britto.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
