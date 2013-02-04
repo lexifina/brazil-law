@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. EMPRÉSTIMO COMPULSÓRIO SOBRE ENERGIA ELÉTRICA. RESPONSABILIDADE SOLIDÁRIA DA UNIÃO. DESLOCAMENTO DA COMPETÊNCIA. FUNDAMENTO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO. AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DEBÊNTURES DA ELETROBRÁS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. Tratando-se de ação de cobrança ajuizada exclusivamente contra Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, sociedade de economia mista federal, sem participação da União Federal no polo passivo, inexiste razão para o deslocamento da competência para a Justiça Federal. Inaplicabilidade do disposto no inciso I do art. 109 da CF, cujo rol não contempla as sociedades de economia mista. Súmula 556 do STF. Precedentes do TJRGS, STJ e TRF da 4ª Região. PREQUESTIONAMENTO. A apresentação de questões para fins de prequestionamento não induz à resposta de todos os artigos referidos pela parte, mormente porque foram analisadas todas as questões que entendeu o julgador pertinentes para solucionar a controvérsia posta no recurso. Agravo desprovido” (fl. 284).
+    Não foram opostos embargos de declaração.
+    2. No recurso extraordinário, a Agravante afirma que o Tribunal de origem teria contrariado o art. 109, inc. I, da Constituição da República e o art. 34, § 12, do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Assevera que “salta aos olhos o interesse jurídico e econômico a justificar intervenção da União na presente demanda, primeiro pela existência de autorização legal para ingresso em processos dessa natureza – artigo 5º e parágrafo único da Lei nº 9.469/97; segundo porque no patrimônio da empresa federal há 52,45% de capital pertencente à União. Acrescente-se que a Eletrobrás é empresa incumbida de administrar um dos setores mais sensíveis da estrutura econômica nacional, operando como agente política energética federal” (fl. 205).
+    E argumenta: “sendo assim, é a União Federal legitimada a responder nesta demanda em litisconsórcio passivo necessário, considerando-se a solidariedade legal estipulada pela Lei nº 4.156/62 em seu artigo 4º, § 3º (norma especial que se sobrepõe à regra do artigo 242 da Lei nº 6.404/76). (…) frente ao litisconsórcio passivo necessário da União, com fulcro no art. 4º, § 3º, da Lei nº 4.156/62, no art. 63, do Decreto nº 68.419/71 e no artigo 5º, parágrafo único da Lei nº 9.469/97, o Ente Federativo deve ingressar no polo passivo da demanda” (fls. 31-302).
+    Requer “o provimento do recurso a fim de, reformando o v. acórdão proferido pelo E. Tribunal a quo fixar a competência da Justiça Federal para processar e julgar a ação ajuizada pela Recorrida” (fl. 305).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que o acórdão recorrido não teria contrariado a Constituição da República (fl. 270v).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de forma diversa quanto à necessária participação da União no litígio e a modificação da competência jurisdicional demandaria o reexame das Leis n. 4.156/1962 e 6.404/1976 e do Decreto nº 68.419/1971. Assim, a pretensa contrariedade à Constituição, se tivesse, seria indireta.
+    7. Ademais, o Supremo Tribunal Federal firmou jurisprudência no sentido de que a questão relativa à responsabilidade solidária da União é de natureza infraconstitucional e sem repercussão geral. Confiram-se os seguintes julgados:
+    “EMPRÉSTIMOS COMPULSÓRIOS SOBRE O CONSUMO DE ENERGIA ELÉTRICA. LEI N. 4.156/62. RESTITUIÇÃO. RESPONSABILIDADE SOLIDÁRIA DA UNIÃO. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL” (AI 810.097-RG, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 18.11.2011).
+    “Agravo regimental no recurso extraordinário. Empréstimo compulsório sobre energia elétrica. 1. A responsabilidade da União, relativa à restituição do empréstimo compulsório incidente sobre o consumo de energia elétrica, demanda a prévia análise da legislação infraconstitucional. 2. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (RE 612.688-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 15.3.2011).
+    Não há, pois, o que prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
