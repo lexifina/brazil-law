@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de inquérito penal instaurado para apurar suposta de prática sonegação de contribuição previdenciária (art. 337-A do CP) entre janeiro de 2000 a abril de 2006, em curso neste Tribunal em função de um dos envolvidos, Manoel Salviano Sobrinho, exercer o cargo de Deputado Federal.
+     Segundo o Ministério Público:
+     “...
+     O contribuinte deixou de incluir nas folhas de pagamento das competências de janeiro de 2000 a abril de 2006, todos os segurados contribuintes individuais frentistas, constantes na planilha “Contribuinte Individual Fretista- Frete que segue em anexo.
+     O contribuinte também omitiu das GFIP- Guias de Recolhimento do Fundo de Garantia por Tempo de Serviço e Informações à Previdência Social: a) nas competências 04/1999 a 09/2002 os contribuintes individuais constantes na planilha “Contribuinte Individual Fora GFIP” que segue em anexo; b) Nas competências 01/2000 a 04/2006 os contribuintes Individuais Fretistas constantes na planilha “Contribuintes Individuais Fretistas – Frete” que segue em anexo; c) nas competências de fevereiro de 1998 a 04/2006 os contribuintes individuais frentistas constantes na planilha “Contribuinte Individual Fretista – Aluguel” que segue em anexo; d) no período compreendido entre abril de 1999 a abril de 2005 (de forma descontinuada) parte das remunerações constantes em folha de pagamento, férias e rescisões dos segurados empregados conforme planilha “Bases foram GFIP Folha” que segue em anexo.”
+    2. Opina, a fls. 733/735, o Procurador Geral da República pela extinção da punibilidade do parlamentar, em virtude do advento da prescrição, e a continuidade do procedimento para os demais investigados.
+    3. A prescrição da pretensão punitiva do Estado, antes de transitar em julgado a sentença final, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, que, no caso do art. 337-A do Código Penal, é de 5 (cinco) de reclusão. Assim, nos termos do inc. III do art. 109 do Código Penal, a prescrição penal in abstracto consuma-se em 12 (doze) anos.
+    Entretanto, aos maiores de 70 anos, aplica-se a redução prevista no art. 115 do CP. No caso, considerando que o parlamentar nasceu em abril de 1939 (73 anos), o termo máximo da prescrição é de 6 (seis) anos, que, transcorridos mais de 06 (seis) anos da prática do último ato criminoso (2006), sem a incidência de nenhuma causa interruptiva, já se operou.
+    4. O inc. II do art. 3º da Lei nº 8.038/90 confere ao relator a prerrogativa de decretar a extinção da punibilidade do agente, sem necessidade de audiência do Colegiado (INQ nº 2.083, Rel. Min. SEPÚLVEDA PERTENCE, j. 08.08.2005).
+    5. Assim, operada a prescrição da pretensão punitiva, julgo extinta a punibilidade do investigado Manoel Salviano Sobrinho. Relativamente aos demais envolvidos, que não detêm o foro por prerrogativa de função, deve o procedimento ser remetido à 16ª Vara da Subseção de Juazeiro do Norte (CE), para lá ter seguimento.
+    Publique-se. Intime-se.
+    Brasília, 4 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
