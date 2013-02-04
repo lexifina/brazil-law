@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto contra acórdão do Tribunal de Justiça de São Paulo que manteve a condenação do agravante ao pagamento de despesas condominiais. A decisão agravada o inadmitiu sob o fundamento de que as exigências constitucionais na solução das questões de fato e de direito foram atendidas pelo acórdão.
+    No recurso extraordinário, sustenta o recorrente, em suma, que houve violação aos seguintes dispositivos: (a) artigo 5º, incisos XXII, XXXIV, XXXV, XXXVI, LIV, e LV, da Constituição Federal, porque não lhe foi deferido o direito de produzir todas as provas requeridas; (b) artigos 267, incisos I, IV e VI; artigo 295, inciso I; artigo 301, inciso III e artigo 333, inciso I, todos do Código de Processo Civil, aduzindo que (I) a petição inicial é inepta, devendo o processo ser extinto sem resolução do mérito; (II) há impossibilidade jurídica do pedido diante da ausência de sua constituição em mora; (III) os documentos que acompanham a petição inicial foram elaborados de forma unilateral, não podendo servir como prova; (c) artigo 405 do Código Civil, pois os juros e a correção monetária devem incidir a partir citação válida, e não do vencimento de cada parcela, como determinou a sentença, originando outro valor para o débito.
+    2. A repercussão geral sobre o tema do cerceamento de defesa decorrente do indeferimento de provas no âmbito do processo judicial já foi rejeitada pelo Supremo Tribunal Federal por tratar-se de matéria infraconstitucional. Precedente: ARE-RG 639.228, Rel. Min. MINISTRO PRESIDENTE, DJe 31.8.2011.
+    3. Quanto às demais alegações do recorrente, em recurso extraordinário não cabe invocar ofensa à norma infraconstitucional, razão pela qual o presente recurso não pode ser conhecido relativamente a esta parte.
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 4 de fevereiro de 2012.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
