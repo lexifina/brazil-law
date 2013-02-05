@@ -1,0 +1,16 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Primeira Turma Recursal do Juizado Especial Federal da 3ª Região, assim ementado:
+    “RECURSO DE SENTENÇA. PREVIDENCIÁRIO. REPETIÇÃO DAS CONTRIBUIÇÕES VERTIDAS À SEGURIDADE SOCIAL NA QUALIDADE DE SEGURADO OBRITATÓRIO EM RAZÃO DE ATIVIDADE QUE EXERCEU APÓS A CONCESSÃO DE APOSENTADORIA. IMPOSSIBILIDADE NO CASO CONCRETO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 195, II e § 4º, e 154, I, ambos da Carta.
+    O recorrente alega que o aposentado, em relação a uma nova atividade, não pode ser beneficiário da Previdência Social, razão pela qual não deve ser qualificado como segurado obrigatório. Afirma, inclusive, que a Lei nº 9.032/95 instituiu novo tributo sem observar a reserva constitucional de lei complementar para a criação de novas fontes de financiamento do sistema.
+    O recurso não deve ser provido, uma vez que as disposições do acórdão recorrido estão alinhadas à jurisprudência do Supremo Tribunal Federal. De início, cumpre salientar que é firme o entendimento deste Tribunal no sentido de que é constitucional o pagamento de contribuição previdenciária por parte de segurado aposentado, quando de eventual retorno às atividades laborais. Nesse sentido, leia-se ementa do RE 372.506-AgR, julgado sob relatoria do Ministro Gilmar Mendes:
+    Agravo regimental em recurso extraordinário. 2. Constitucional e previdenciário. 3. É exigível a contribuição previdenciária de aposentado que permanece em atividade ou a ela retorna após a concessão de aposentadoria. Precedentes. 4. Agravo regimental a que se nega provimento.
+    Ademais, saliente-se que, nos autos do RE 437.640, julgado sob relatoria do Ministro Sepúlveda Pertence, esta Corte ratificou entendimento segundo o qual a contribuição previdenciária do aposentado que retorna à atividade está amparada nos princípios da solidariedade e da universalidade do custeio da Previdência Social. Para configurar a condição de segurado não se faz obrigatória a existência de contrapartida estatal na forma de concessão de benefícios previdenciários, in verbis:
+    “Contribuição previdenciária: aposentado que retorna à atividade: CF, art. 201, § 4º; L. 8.212/91, art. 12: aplicação à espécie, mutatis mutandis, da decisão plenária da ADIn 3.105, red.p/acórdão Peluso, DJ 18.2.05.
+    A contribuição previdenciária do aposentado que retorna à atividade está amparada no princípio da universalidade do custeio da Previdência Social (CF, art. 195); o art. 201, § 4º, da Constituição Federal "remete à lei os casos em que a contribuição repercute nos benefícios"
+     Em reforço da conclusão assentada pelo acórdão recorrido, destaco que a fonte de custeio adotada não é o provento de aposentadoria e sim a remuneração percebida pelo contribuinte na atividade. Trata-se de base expressamente prevista na Constituição Federal (art. 195, II), o que elimina de plano a necessidade do exercício de competência residual e, por conseguinte, a edição de lei complementar.
+    Diante do exposto, com base no art. 557, caput , do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 5 de fevereiro de 2013.
+Ministro Luís Roberto Barroso
+Relator
