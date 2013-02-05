@@ -1,0 +1,11 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “TRIBUTÁRIO – AÇÃO DECLARATÓRIA -FINSOCIAL – COMPENSAÇÃO – PRESCRIÇÃO – CORREÇÃO MONETÁRIA – JUROS DE MORA – SUCUMBÊNCIA”. (fl. 78)
+    Verifico, que o recorrente não ratificou o recurso extraordinário, protocolado anteriormente à publicação do julgamento dos embargos de declaração. (fls. 116 e 154)
+    A jurisprudência do Supremo Tribunal Federal é assente no sentido de que é extemporâneo o recurso extraordinário que antecede o julgamento dos embargos declaratórios manejados contra o acórdão extraodinariamente recorrido. Nesse sentido, cito o AI-AgR 730.073, Rel. Min. Ayres britto, DJe 17.9.2010; e o RE-AgR 400.975, Rel. Min. Ayres Britto, DJe 25.4.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. APELO EXTREMO EXTEMPORÂNEO. INTERPOSIÇÃO ANTES DO JULGAMENTO DOS EMBARGOS DECLARATÓRIOS OPOSTOS CONTRA O ARESTO QUE JULGOU A APELAÇÃO. AUSÊNCIA DE RATIFICAÇÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SERVIDORES PÚBLICOS DO DISTRITO FEDERAL. MEDIDA PROVISÓRIA 560/1994 E REEDIÇÕES. CONSTITUCIONALIDADE. OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. 1. Conforme entendimento predominante nesta nossa Casa de Justiça, o prazo para recorrer só começa a fluir com a publicação da decisão no órgão oficial, sendo prematuro o recurso que a antecede. A insurgência, nesta hipótese, não se dirige contra decisão final da causa, apta a ensejar a abertura da via extraordinária, na forma do inciso III do art. 102 da Carta Magna. 2. O Supremo Tribunal Federal decidiu no sentido de que o sistema de alíquotas progressivas, objeto da Medida Provisória 560/1994 e posteriores reedições, é constitucional, desde que respeitada a vacatio legis de noventa dias (art. 195, § 6º, da Constituição Federal). 3. Ressalvado, contudo, o entendimento pessoal deste relator quanto à idoneidade de medida provisória instituir alíquotas progressivas. 4. Agravo regimental desprovido”.
+     Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, b, do CPC).
+    Publique-se. Int..
+    Brasília, 5 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
