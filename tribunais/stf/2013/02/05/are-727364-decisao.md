@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão proferido pela Turma Suplementar às Turmas Recursais da seção Judiciária do Rio Grande do Sul que confirmou a sentença por seus próprios fundamentos, determinando, assim, a restituição dos valores pagos a maior referente à anuidade do ano de 2008 devida pela recorrida ao COREN/RS.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, incisos LV e XXXVI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o acórdão recorrido não divergiu da orientação desta Corte a qual já assentou que o indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola os princípios do contraditório e da ampla defesa. Anote-se:
+    “EMENTA Agravo regimental no agravo de instrumento. Art. 5º, LV, da Constituição Federal. Ofensa reflexa. Indeferimento de diligência probatória. Ausência de violação à Constituição Federal. Precedentes. 1. O recurso extraordinário não se presta ao reexame da legislação infraconstitucional e dos fatos e provas dos autos. Incidência das Súmulas nºs. 636 e 279/STF. 2. O indeferimento de diligência probatória, tida por desnecessária pelas instâncias ordinárias, não viola o artigo 5º, inciso LV, da Constituição Federal. 3. Agravo regimental não provido, com aplicação da multa prevista no artigo 557, § 2º, do Código de Processo Civil” (AI n° 617.818/SP-AgR, Primeira Turma, de minha relatoria, DJe de 22/11/10).
+    “Agravo regimental. Recurso extraordinário. Ação de indenização por dano causado por acidente de trânsito. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência.
+    1. Não incorre em ofensa à ampla defesa o indeferimento de diligência probatória tida por desnecessária.
+    2. Não se abre a via do recurso extraordinário para o reexame de fatos e provas. Incidência da Súmula nº 279 desta Corte.
+    3. Agravo regimental desprovido” (AI nº 631.856/AM-AgR, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 7/12/07).
+    “PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA PROBATÓRIA. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - Como tem consignado o Tribunal, por meio de remansosa jurisprudência, a alegada violação ao art. 5º, LIV e LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+    II - Este Tribunal tem decidido no sentido de que o indeferimento de diligência probatória, tida por desnecessária pelo juízo a quo, não viola os princípios do contraditório e da ampla defesa. III - Agravo regimental improvido” (AI nº 616.277/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 19/9/08).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. Controvérsia decidida à luz de legislações infraconstitucionais. Ofensa indireta à Constituição do Brasil. 2. A verificação, no caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada situa-se no campo infraconstitucional. 3. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição. 4. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI nº 795.220-AgR/SP, Segunda Turma, Relator o Ministro Eros Grau, DJe de 25/6/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
