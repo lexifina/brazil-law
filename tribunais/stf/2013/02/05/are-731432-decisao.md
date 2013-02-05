@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que julgou improcedente o pedido de restabelecimento do auxílio-doença, ao fundamento de que a prova pericial não constatou a incapacidade do recorrente para o exercício de atividade laborativa.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 1º, III; 6º; 93, IX; e 201, I, do texto constitucional.
+    Nas razões recursais, alega-se, preliminarmente, ausência de prestação jurisdicional. Ademais, sustenta-se que os documentos carreados aos autos comprovam que a doença que acomete o recorrente o incapacita para suas atividades.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 5º, XXXV; e 93, IX, da Constituição Federal.
+    Saliento, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Por fim, ressalto que, ao negar o benefício pleiteado, o acórdão recorrido decidiu a controvérsia com fundamento nos fatos e provas carreadas aos autos e na legislação infraconstitucional aplicável (Lei nº 8.213/91), de modo que eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido: AI-AgR 810.263, Rel. Min. Ellen Gracie, Segunda Turma, DJe 7.2.2011 e o ARE-AgR 662.120, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.2.2012, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ante o exposto, nego provimento ao agravo (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 5 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
