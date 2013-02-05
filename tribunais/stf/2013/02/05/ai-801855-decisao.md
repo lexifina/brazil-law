@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo contra decisão de admissibilidade de recurso extraordinário que impugna acórdão da Décima Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul assim ementado:
+    “AGRAVO INTERNO. DECISÃO MONOCRÁTICA PROFERIDA EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE FATO OU ARGUMENTO NOVO A ENSEJAR A MODIFICAÇÃO DO JULGADO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. POR UNANIMIDADE, NEGARAM PROVIMENTO AO AGRAVO INTERNO”.
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, caput, 93, inciso IX, e 114, inciso I, do texto constitucional.
+    Ainda em recurso extremo, quanto à tese de que houve violação ao artigo 5º da Constituição Federal, precisamente ao princípio da isonomia, o recorrente sustenta como causa a aplicação de prazo subsidiário de dez anos no presente caso.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque é pacífica a jurisprudência desta Corte no sentido de que a discussão acerca de prazo para fins de prescrição não ofende diretamente a Constituição Federal, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido, confiram-se os precedentes das duas Turmas desta Corte: AI-AgR 764.126, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011; RE-AgR 586.977, Rel. Min. Eros Grau, Segunda Turma, DJe 27.3.2009, assim ementadas:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PRESCRIÇÃO. EXECUÇÃO FISCAL. DECRETO 20.910/32. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - A discussão sobre o prazo prescricional demanda a análise de legislação infraconstitucional, Decreto-Lei 20.910/32. A afronta à Constituição, se ocorrente, seria indireta. II Agravo regimental improvido.
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO. TERMO INICIAL. MATÉRIA AFETA À NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO E REEXAME DE PROVAS. IMPOSSIBILIDADE DE CONHECIMENTO DO EXTRAORDINÁRIO. Para que o recurso extraordinário possa ser conhecido, a vulneração da norma constitucional há de ser direta e frontal e não a que exige o prévio exame da legislação ordinária e reexame de provas. Agravo regimental a que se nega provimento”.
+    Quanto à alegação de violação ao artigo 93, IX, da Constituição Federal, registro que incide neste caso o entendimento firmado no AI 791.292 QO-RG, de minha relatoria, DJe 13.8.2010.
+    Além disso, faz-se imprescindível no presente caso a revisão dos fatos e provas analisados, o que não é possível nos termos da jurisprudência desta Corte (Enunciado 279 da Súmula do STF).
+    Nesse sentido, cito o ARE 653.188, Rel. Min. Luiz Fux, Primeira Turma, DJe 29.3.2012; o AI-AgR 775.056, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 11.11.2010; e o AI 733658, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 13.8.2012, da seguinte forma ementados, respectivamente:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. CITAÇÃO. IRREGULARIDADE. ALEGAÇÃO DE AFRONTA AOS ARTS. 5º, CAPUT , LIV E LV, E 93, IX, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes.
+    2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes.
+    3. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. (...)
+    6. Agravo regimental a que se nega provimento.
+    DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. ALEGADA OFENSA AOS ARTS. 5º, II, XXXVI, LIV E LV DA CF. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. II - A Corte tem se orientado no sentido de que a verificação, no caso concreto, da ocorrência ou não de violação ao direito adquirido e ao ato jurídico perfeito situa-se no campo infraconstitucional. Precedentes. III Agravo regimental improvido.
+    AGRAVO REGIMENTAL. PROCESSUAL. PROCEDIMENTO ADMINISTRATIVO. ENDEREÇO DESATUALIZADO PERANTE A SECRETARIA DA RECEITA FEDERAL. CITAÇÃO POR EDITAL. ALEGADA OFENSA AO DEVIDO PROCESSO LEGAL. INEXISTÊNCIA. OFENSA INDIRETA OU REFLEXA.
+    A análise da alegação da parte de que teria procedido à regular atualização de seu endereço perante a Secretaria da Receita Federal antes da citação editalícia demanda o prévio exame da legislação infraconstitucional e do quadro fático-probatório. (Súmulas 279 e 636 do STF). A resolução da controvérsia em sentido contrário aos interesses da parte não equivale à negativa de prestação jurisdicional.
+    Agravo regimental a que se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 5 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
