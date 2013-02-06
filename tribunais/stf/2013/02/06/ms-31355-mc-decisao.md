@@ -1,0 +1,18 @@
+MANDADO DE SEGURANÇA. ALEGAÇÃO DE INÉRCIA DA AUTORIDADE COATORA QUANTO À APRECIAÇÃO DO RECURSO ADMINISTRATIVO INTERPOSTO POR SERVIDOR DO MINISTÉRIO PÚBLICO. ANÁLISE QUE, EM OBEDIÊNCIA AO DUE PROCESS OF LAW, RECLAMA A PRÉVIA OITIVA DA AUTORIDADE COATORA. FUMUS BONI JURIS AUSENTE.
+LIMINAR INDEFERIDA.
+    Decisão: Cuidam os autos de mandado de segurança, com pedido de liminar, impetrado por Valdair Domingos dos Santos, servidor ocupante do cargo técnico de apoio especializado, sem especialidade, vinculado ao Ministério Público da União, contra omissão do Procurador-Geral da República, que não teria apreciado seu Recurso Hierárquico interposto em outubro de 2011 contra decisão do Secretário-Geral do MPF.
+    Aduz o impetrante que o seu recurso administrativo ainda não apreciado teve como escopo obter decisão no âmbito do Ministério Público da União que corrija desvio de função em relação ao seu cargo, na medida em que estaria desempenhando atividades que não seriam próprias de seu cargo de Assistente de Vigilante.
+    Em sede de liminar, requer seja determinado à autoridade coatora que decida o recurso hierárquico apresentado pelo impetrante em 08 de outubro de 2011, nos autos n. 1.34.001.001815/2010-42 (PA 1.00.000.003571/2012-92), em prazo a ser fixado pelo juízo, encaminhando-o para apreciação pela autoridade superior. No mérito, o Demandante requer a concessão da segurança, mediante a confirmação da medida liminar, para determinar que a autoridade impetrada decida o recurso hierárquico ora declinado.
+    É o breve relatório. Decido.
+    As alegações suscitadas pelo Impetrante de inércia quanto à apreciação de seu recurso hierárquico reclamam, in casu, a prévia oitiva da autoridade coatora. Primeiramente porque não se tem qualquer informação sobre se, após a distribuição deste writ, o recurso já foi apreciado. Em segundo lugar, porque não há informação se o recurso foi recebido tempestivamente, ou mesmo se há algum fator impeditivo para a sua apreciação, tal como uma providência a ser adotada pelo Impetrante.
+    Aduza-se, ainda, no que tange ao perigo da demora, que o Impetrante informa, na sua peça vestibular, que está, há vários anos, exercendo funções que supostamente não seriam próprias do seu cargo, o que revela a nítida possibilidade de se aguardar o pronunciamento da autoridade coatora acerca do que postulado neste mandado.
+    Ausentes, assim, tanto o periculum in mora quanto o fumus boni juris, o que impede a concessão do provimento liminar requerido, em especial pela inexistência, nesta fase cognitiva não exauriente, de prova inequívoca da ilicitude decorrente do longo decurso de tempo para a apreciação do recurso administrativo interposto pelo Impetrante.
+    Ex positis, indefiro, por ora, o pedido de liminar de determinação à autoridade coatora que decida o recurso administrativo interposto.
+    Notifique-se a autoridade coatora para prestar informações no prazo de 10 dias (art. 7º, inciso I, da Lei nº 12.016), em especial para que informe as razões específicas para ainda, se for o caso, não ter decidido o recurso hierárquico interposto pelo Impetrante.
+    Cientifique-se pessoalmente a AGU para que, querendo, ingresse no feito (art. 7º, inciso II, da Lei nº 12.016).
+    Findo o prazo para que as informações sejam prestadas pela autoridade coatora e ultimada a providência de intimação da AGU nos termos acima, ao Ministério Público Federal para parecer no prazo de 10 (dez) dias (art. 12 da Lei nº 12.016).
+    Publique-se. Intimem-se.
+    Brasília, 6 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
