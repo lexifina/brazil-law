@@ -1,0 +1,12 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Amarildo de Oliveira Bosa contra decisão do Ministro Marco Aurélio Bellizze, do Superior Tribunal de Justiça, que negou provimento ao agravo em recurso especial 82.524/SC, por entender ausente o requisito do prequestionamento.
+    Na inicial, alega-se o seguinte: (a) foi absolvido em primeira instância da imputação prevista no art. 157, § 2º, I e II, do Código Penal e posteriormente condenado pelo Tribunal de origem à pena de 5 (cinco) nos e 06 (seis) meses de reclusão; (b) em razão de sua condenação em sede de recurso, afirma que não foi lhe foi oportunizado a garantia constitucional do duplo grau de jurisdição; e (c) a apelação interposta pelo Ministério Público estadual foi intempestiva. Requer a concessão de medida liminar para que o referido recurso especial seja conhecido.
+    2. No caso dos autos, o impetrante busca, com a concessão da ordem, o recebimento e o regular processamento de recurso especial, hipótese em que não há, sequer de modo indireto, ameaça ao direito de locomoção do paciente em decorrência de constrangimento ilegal. É que não cabe a esta Corte rever o preenchimento ou não dos pressupostos de admissibilidade do recurso especial, de competência do Superior Tribunal de Justiça (CF, art. 105, III), salvo em hipóteses de flagrante ilegalidade, o que não se verifica nos autos. Nesse sentido: HC 113.407/MA, 2ª T., Min. Ricardo Lewandowski, julgado em 18.12.2012; HC 112.323/MG, 1ª T., Min. Rosa Weber, DJe de 25.09.2012; HC 85.195/RS, 1ª T., Min. Ayres Britto, DJ de 07.10.2005, este último assim ementado:
+    HABEAS CORPUS. ALEGADO CONSTRANGIMENTO ILEGAL, CONSISTENTE EM ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL, AO FUNDAMENTO DE IMPUGNAÇÃO GENÉRICA E DE IMPRESCINDIBILIDADE DE REEXAME PROBATÓRIO.
+    O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos e o rejulgar do recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade. Caso em que a Corte Superior de Justiça deu adequada solução ao recurso interposto. Inexistência, portanto, do alegado constrangimento ilegal.
+    3. Diante do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 06 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
