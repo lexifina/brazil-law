@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cujo trecho da ementa transcrevo:
+    “INCIDENTE DE UNIFORMIZAÇÃO REGIONAL. APOSENTADORIA POR IDADE RURAL ATÍPICA. SEGURADO ESPECIAL QUE NÃO CUMPRE A CARÊNCIA NO CAMPO. MAJORAÇÃO DO REQUISITO ETÁRIO. ARTIGO 48, §3º, DA LEI 8.213/1991, COM ALTERAÇÕES DA LEI 11.718/2008. CÔMPUTO DE TEMPO URBANO COMO CARÊNCIA (…)” (fls. 86-86v).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa ao art. 194, parágrafo único, do texto constitucional.
+    Nas razões recursais, sustenta-se o seguinte: “A Lei 11.718/2008, que possibilita a contagem de tempo de serviço rural para a obtenção de aposentadoria por idade urbana, se constitui (sic) de Lei mais benéfica e que, portanto, aplica-se aos benefícios pendentes, com efeitos a partir da data de sua vigência”(fls. 121v-122).
+     Decido.
+     A pretensão recursal não merece prosperar.
+    No caso, o acórdão impugnado consignou o seguinte:
+    “(...) o trabalhador que antes se dedicava à lide campesina e que passa a trabalhar no meio urbano antes de implementar o requisito etário para a aposentadoria por idade rural continua regido pelas regras da Lei 8.213/1991, sem as alterações da Lei 11.718/2008, ou seja, precisa comprovar tanto o implemento da idade, previsto no caput do artigo 48, quanto o recolhimento das contribuições para o cômputo da carência de acordo com a tabela do artigo 142, se for o caso. A presunção, neste caso, é de que a retirada do campo ocorreu por livre iniciativa do segurado, que passou a trabalhar no meio urbano em busca de melhor salário ou condição de vida. Nessa situação, deve o segurado se submeter às regras de amparo previdenciário previstas para os trabalhadores urbanos para obtenção de aposentadoria e demais benefícios, ficando obrigado ao recolhimento das contribuições previdenciárias caso deseje computar o período rural anteriormente trabalhado para fins de carência (artigo 55, §2º da Lei 8.213/1991)”.
+    Desse modo, verifico que, para se entender de forma diversa, faz-se imprescindível a análise do conjunto fático-probatório constante dos autos e o reexame da legislação infraconstitucional aplicável à espécie (Lei nº 8.213/91), donde se conclui que eventual ofensa à Constituição, se ocorrente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário. Incidem, portanto, os Enunciados 279 e 636 da Súmula do STF.
+    Nesse sentido, o AI 799.519, de minha relatoria, Segunda Turma, DJe 6.9.2011, e o RE-AgR 310.183, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 20.10.2006, cuja ementa transcrevo:
+    “Aposentadoria de trabalhador rural: recurso extraordinário: descabimento: controvérsia decidida à luz de legislação infraconstitucional - L. 8.213/91 - que regula a contagem do tempo e serviço especial para efeito de aposentadoria: alegada violação de dispositivo constitucional que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636 Federal. 5. Incidência das súmulas 279 e 636. 6. Agravo regimental a que se nega provimento”.
+    Cito ainda, em casos análogos ao dos autos, as seguintes monocráticas: AI 732.176, Rel. Min. Cezar Peluso, DJe 4.3.2009, e AI 664.786, Rel. Min. Dias Toffoli, DJe 14.12.2009.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 6 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
