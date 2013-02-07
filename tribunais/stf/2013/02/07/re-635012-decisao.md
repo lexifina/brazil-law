@@ -1,0 +1,19 @@
+DECISÃO
+    Vistos.
+    O Município do Rio de Janeiro interpõe recurso extraordinário contra o acórdão proferido pela 4ª Turma Especializada do Tribunal Regional Federal da 2ª Região. O julgado foi ementado nos seguintes termos:
+    “EMBARGOS À EXECUÇÃO. IPTU. IMUNIDADE TRIBUTÁRIA RECIPROCA. TAXA DE COLETA DE LIXO E LIMPEZA PÚBLICA E TAXA DE ILUMINAÇÃO PÚBLICA. INCONSTITUCIONALIDADE. 1- A imunidade recíproca tem por fundamento preservar a isonomia e a autonomia dos entes federativos. Não há dúvida, portanto, quanto à imunidade da União Federal em relação à incidência do IPTU sobre bens de sua propriedade. 2- O Supremo Tribunal Federal tem declarado a inexigibilidade da Taxa de Coleta e Lixo e Limpeza Pública e da Taxa de Iluminação Pública, por configurarem serviços públicos de caráter universal e indivisível, devendo ser custeados através de impostos, e não taxas. 3- Remessa necessária e apelação providas.” (fl.97)
+    Foram opostos embargos de declaração (fls.108 a 110), os quais foram acolhidos com efeitos infringentes (fls. 117 a 124). Depois de apresentadas contrarrazões (fls. 145 a 153), o recurso foi admitido na origem (fls. 155 e 156), subindo os autos a esta Suprema Corte. Não houve interposição de recurso especial.
+     Verifico que o recurso baseia-se na suposta violação ao artigo 150, VI, “a”, §3º, da Constituição Federal. Neste particular, o recorrente aduz que a imunidade recíproca exige sempre a comprovação de que está sendo utilizado para as finalidades públicas essenciais de cada entidade. Aduz que essa exigência não se aplica somente para as autarquias e fundações públicas.
+    Decido.
+    O julgado recorrido contempla a conclusão de que a União não está condicionada ao ônus de comprovar vinculação do bem tributado a uma finalidade pública, o que somente ocorre nos casos das autarquias e fundações instituídas e mantidas pelo Poder Público no que se refere à tributação do patrimônio, renda e serviços vinculados a suas finalidades essenciais.
+    Esse entendimento está em consonância com a jurisprudência desta Corte que tem se posicionado no sentido de reconhecer a imunidade recíproca constante do art. 150, VI “a” da Carta Magna aos entes da administração direta e, somente no que refere ao alcance da imunidade recíproca às autarquias e fundações instituídas e mantidas pelo Poder Público é que aparece a restrição concernente à vinculação do imóvel às suas finalidades essenciais ou às delas decorrentes, na exata dicção da norma constitucional. Nesse sentido:
+    “DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA DE PESSOA JURÍDICA. IMUNIDADE. ART. 150, VI, A, DA CONSTITUIÇÃO FEDERAL. EXTENSÃO ÀS AUTARQUIAS. PRECEDENTES. 1. O Supremo Tribunal Federal entende que a imunidade tributária recíproca dos entes políticos, prevista no art. 150, VI, a, da Constituição Republicana, é extensiva às autarquias, no que se refere ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às delas decorrentes. 2. Agravo regimental a que se nega provimento.”
+    (RE 475.268/MG – AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, Dje 15/3/11.
+    Ainda a decisão monocrática proferida no RE nº 646.996/RJ -AgR, Relator o Ministro Gilmar Mendes, Dje 12/9/12.
+    Ainda que tal entendimento restasse superado, aferir os fins a que se prestam os imóveis objeto da exação debatida e concluir pela pretensa utilização desconexa com as finalidades essenciais do ente imune ensejaria inevitável revisitação do contexto fático e probatório dos autos, uma vez que o Tribunal recorrido dirimiu a questão sem realizar tal análise. Tenho que se mostra plenamente aplicável à hipótese a súmula 279 desta Corte.
+    Ante o exposto, nos termos do artigo 557, caput ,do Código de Processo Civil nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 7 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
