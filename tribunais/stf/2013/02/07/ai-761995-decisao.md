@@ -1,0 +1,19 @@
+DECISÃO: Trata-se de agravo de instrumento contra decisão que inadmitiu recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO – REEMBOLSO – CRECHE – ECT – PREVISÃO EM CLÁUSULA NORMATIVA DE POSSIBILIDADE DE REDUÇÃO DO ALCANCE POR MEIO DE NORMA INTERNA – REVISÃO DE FATOS E PROVAS - ÓBICE DA SÚMULA 126 DO TST”. (Fl. 165)
+    No apelo extremo, sustenta-se que ocorreu violação aos artigos 5º, incisos XXXV, LIV e LV; e 7º , inciso XXVI, da Constituição Federal.
+    Decido.
+    Não assiste razão à agravante.
+    Inicialmente ressalto que, na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação, nos termos do artigo 93, IX, da Constituição Federal.
+    Ratifico, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)”.
+    Ademais, verifico que o acórdão recorrido decidiu a controvérsia com base na interpretação de cláusulas contidas em acordo coletivo de trabalho. Para se concluir de forma diversa, seria necessária a análise das mencionadas cláusulas, o que não enseja a abertura da via extraordinária.
+    Incide, portanto, a Súmula 454 do Supremo Tribunal Federal.
+    Sobre o tema, confiram-se o AI-AgR 648.990, Segunda Turma, Min. Eros Grau, DJe 17.8.2007; e o AI-AgR 836.213, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 15.6.2011, cuja ementa dispõe:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. HORAS EXTRAS. INTERPRETAÇÃO DE CLÁUSULA INTEGRANTE DE ACORDO COLETIVO DE TRABALHO. INCIDÊNCIA DA SÚMULA 454 DO STF. TURNOS ININTERRUPTOS. INTERVALO INTRAJORNADA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO IMPROVIDO. I - A apreciação dos temas constitucionais, no caso, depende do prévio exame de normas infraconstitucionais, bem como, da interpretação de cláusula integrante de norma coletiva de trabalho, o que atrai a incidência da Súmula 454 do STF. Precedentes. II Os Ministros desta Casa, no AI 825.675-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos Convenção e acordo coletivo. Majoração da jornada em turnos ininterruptos de revezamento - decisão que vale para todos os recursos sobre matéria idêntica. III - Agravo regimental improvido”.
+    Além disso, quanto à suposta ofensa às garantias constitucionais do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF), se existente, seria meramente reflexa, porque dependeria de exame prévio de norma infraconstitucional. Nesse sentido: AI-AgR 733.225, Rel. Min. Ellen Gracie, Segunda Turma, DJ 24.9.2010.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 544, § 4º, II, b, do CPC).
+    Publique-se.
+    Brasília, 7 de fevereiro de 2013.
+Ministro GILMAR MENDES
+Relator
+Documento assinado digitalmente.
