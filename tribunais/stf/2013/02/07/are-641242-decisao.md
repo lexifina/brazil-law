@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 7º, XXIII, e 201, §1º, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo (Decretos n.º 53.831/1964, 2.172/1997 e 3.048/1999), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido, colho as seguintes decisões:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ELETRICITÁRIO. ATIVIDADE DE RISCO. CONFIGURAÇÃO. DECRETOS N. 2.172/1997 E 3.048/1999. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.” (ARE 712079 / PR, Rel. Min. Cármen Lúcia, DJe 17.10.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL RURAL. BOIA-FRIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. (LEI 8.213/91). INCURSIONAMENTO NO CONTEXTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279 DESTE TRIBUNAL. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: A prova elencada nos autos é suficiente para demonstrar o direito ao benefício pleiteado. 5. Agravo regimental a que se nega provimento”. (ARE 666134 AgR / PR, Rel. Min. Luiz Fux, Primeira Turma, DJe 13.9.2012)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 07 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
