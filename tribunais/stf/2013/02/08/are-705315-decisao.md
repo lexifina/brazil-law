@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO PELO TRIBUNAL DE ORIGEM. INCABÍVEL INTERPOSIÇÃO DE AGRAVO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que determinou o sobrestamento do recurso extraordinário, nos seguintes termos:
+    “Trata-se de recurso extraordinário e/ou pedido de uniformização do INSS, defendendo a reforma do julgado para que seja reconhecida a extinção do feito pela decadência prevista no art. 103 da Lei nº 8.213/91 desde 28.06.1997. Em casos similares, o STF determinou a devolução de agravos para aguardar a repercussão geral da matéria. Ao apreciar o AI 786.200, a Min. Cármen Lúcia deu provimento ao agravo para convertê-lo em recurso extraordinário (re-autuado como RE nº 627190) e para submetê-lo à apreciação da existência, ou não, de repercussão geral. Do mesmo modo, o MM. Presidente da TNU determinou, para os casos de interposição de pedido de uniformização, o sobrestamento dos incidentes sobre essa matéria até o pronunciamento do STF (vide processo nº 2009.51.51.013281-0 no site da TNU). Posteriormente, o STF decidiu pela existência da repercussão geral ao analisar o RE nº 626489, em 17/09/2010. Diante do exposto, determino o sobrestamento do presente feito, nos termos do art. 543-B, § 1º, do Código de Processo Civil, para aguardar o julgamento do Supremo Tribunal Federal do RE nº 626489.”
+    2. O Agravante afirma que “o r. julgado regional contrariou as normas dos artigos 14 da EC 20/98 e 5º da EC 41/03, e também afrontou o entendimento do e. STF no julgamento do RE 564.354, no qual ficou expresso que a aplicação imediata dos novos tetos não configura reajuste do benefício, e sim majoração do parâmetro limitador do salário de benefício do ato de concessão do benefício.”
+    Assevera que “o r. julgado regional contrariou as normas dos artigos 14 da EC 20/98 e 5º da EC 41/03, e também afrontou o entendimento do e. STF no julgamento do RE 564.354, no qual ficou expresso que a aplicação imediata dos novos tetos não configura reajuste do benefício, e sim majoração do parâmetro limitador do salário de benefício do ato de concessão do benefício.”
+    Examinados os elementos havidos nos autos, DECIDO.
+    3. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    4. Razão jurídica não assiste à Agravante.
+    5. O Tribunal a quo não procedeu ao juízo de admissibilidade do recurso extraordinário, apenas determinou o seu sobrestamento até que este Supremo Tribunal julgue o recurso no qual reconhecida a repercussão geral do tema discutido no acórdão recorrido, nos termos dos arts. 543-A e 543-B do Código de Processo Civil.
+    6. Possível é a interposição de agravo contra decisão que não admite recurso extraordinário, não sendo cabível sua interposição contra despacho que determina o sobrestamento do recurso extraordinário.
+    Portanto, “se não houve juízo de admissibilidade do recurso extraordinário, não é cabível a interposição do agravo de instrumento previsto no art. 544 do Código de Processo Civil [redação anterior à Lei n. 12.322/2010]” (Rcl 7.569, Rel. Min. Ellen Gracie, Plenário, DJe 11.12.2009).
+    E também:
+    “EMENTA: SEGUNDO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. INADMISSIBILIDADE DE AGRAVO DE INSTRUMENTO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÇÃO GERAL. ART. 543-B, CPC. AGRAVO IMPROVIDO. I – Não é cabível agravo de instrumento da decisão do tribunal de origem que, em cumprimento do disposto no § 3º do art. 543-B, do CPC, determina o sobrestamento do feito. II – O cabimento de agravo de instrumento dirigido a esta Corte resume-se aos casos de decisão de negativa de admissibilidade do recurso extraordinário. III - Agravo regimental improvido” (AI 742.431-AgR-segundo, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe 15.6.2011).
+    E ainda, as seguintes decisões transitadas em julgado: AI 769.662, de minha relatoria, DJe 23.11.2009 e AI 784.146, Rel. Min. Joaquim Barbosa, DJe 8.4.2010.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
