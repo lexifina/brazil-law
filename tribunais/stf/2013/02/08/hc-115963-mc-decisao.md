@@ -1,0 +1,27 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida cautelar, em favor de César Adriano Leite de Lima contra acórdão do Superior Tribunal de Justiça proferido nos autos do HC 222.597/PE. Eis a ementa do julgado:
+    HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. GARANTIA DA APLICAÇÃO DA LEI PENAL. RÉU FORAGIDO HÁ MAIS DE OITO ANOS. EXCESSO DE PRAZO. JULGAMENTO DO RECURSO EM SENTIDO ESTRITO. PERDA DO OBJETO. DESIGNAÇÃO DO JÚRI. IMINÊNCIA DO JULGAMENTO. WRIT EM PARTE PREJUDICADO.
+    1. Sobrevindo o julgamento do recurso em sentido estrito, perde o objeto a impetração que discute a demora na apreciação do feito.
+    2. A decisão que decretou a prisão está devidamente fundamentada na necessidade de garantia da aplicação da lei penal, porquanto o paciente permaneceu foragido por mais de oito anos do distrito da culpa e foi capturado em outra comarca por motivos alheios ao processo em questão. Essa circunstância revela a contundência da motivação.
+    3. A questão do excesso de prazo para designação do Tribunal do Júri, apesar de não ter sido objeto de decisão pelo Tribunal estadual, não autoriza a concessão da ordem liberatória, pois os autos se encontram na iminência de julgamento.
+    4. Habeas corpus em parte prejudicado. Ordem denegada.
+    No recurso, alega-se o seguinte: (a) o paciente é acusado da prática dos delitos de homicídio qualificado e lesão corporal, em concursos de agentes; (b) o TJ/PE reconheceu a prescrição da pretensão punitiva quanto ao crime de lesão corporal; (c) o paciente permaneceu em liberdade durante toda a instrução processual, sendo preso somente pela sentença de pronúncia; (d) há excesso de prazo da custódia cautelar, já que o paciente encontra-se preso por tempo superior à 05 (cinco) anos e não existe previsão para o julgamento pelo Tribunal do Júri; (e) a sessão de julgamento marcada para novembro de 2012 não foi realizada em razão do pedido de desaforamento feito pelo Ministério Público; (f) não se encontram presentes os requisitos autorizadores previstos no art. 312 do CPP. Requer a concessão de medida liminar para que seja posto em liberdade.
+    Em razão da anterior distribuição do HC 108.504/PE ao Min. Ricardo Lewandowski, determinei, em 19/12/2012, o encaminhamento dos autos à Presidência para eventual redistribuição. Por despacho, o Ministro Presidente assim decidiu:
+    O presente habeas corpus foi distribuído por prevenção ao Min. Teori Zavaski em decorrência da vinculação com o HC 113.656, conforme certidão constante dos autos.
+    Ainda que o Min. Teori Zavascki tenha julgado prejudicado o HC 113.656, tal decisão foi proferida e transitou em julgado após a impetração do presente habeas corpus, o que afasta a regra prevista no § 2º do art. 69 do RISTF.
+    Assim, determino a devolução dos autos ao eminente Min. Teori Zavascki.
+    2. Em juízo de cognição sumária, constata-se que a ordem de prisão preventiva está devidamente fundamentada, de acordo com os pressupostos do art. 312 do CPP, como já assinalado pelas instâncias inferiores. Eis o registro do STJ:
+    A propósito, reproduzo excerto da sentença de pronúncia prolatada em 2001 e colacionada às fls. 09/17, verbis :
+    (...)
+    CÉSAR ADRIANO LEITE DE LIMA - Consta que responde pela autoria de vários outros delitos, revelando-se uma pessoa predisposta à criminalidade. Estando em lugar incerto e não sabido, demonstra descaso para com a aplicação da lei penal. Com sua fuga do distrito da culpa, inviabiliza a eventual e futura aplicação da lei penal, razão pela qual, entendo presentes os motivos ensejadores da decisão constritiva de liberdade, nos termos do art. 311 e seguintes do Código de Processo Penal, principalmente quanto ao princípio norteador da aplicação da lei penal.
+    (...)
+    Não há que se falar, pois, em carência de fundamentação quanto à determinação de prisão, quando, motivadamente, o Juízo sentenciante apontou concretamente a necessidade de custódia para a efetiva aplicação da lei penal, diante da constatação da fuga do paciente, que, como bem ressalvado pelos próprios impetrantes, só foi capturado no ano de 2008, ou seja, mais de 06 (seis) anos após a prolação da sentença de pronúncia.
+    A jurisprudência do STF, aliás, é firme ao admitir a custódia cautelar para garantir a aplicação da lei penal em razão da fuga do distrito da culpa (v.g.: HC 105.511/GO, 2ª T., Min. Ayres Britto, DJe de 06/06/2011; HC 105.033/SP, 2ª T., Min. Ellen Gracie, DJe 04/02/2011; HC 110.353/SP, 2ª T., Min. Ricardo Lewandowski, DJe 09/02/2012).
+    3. Por outro lado, embora relevantes os fundamentos acerca do excesso de prazo para a realização do Júri, não se pode ignorar, neste juízo preliminar, as particularidades do caso, em especial, (a) os documentos apresentados pela autoridade coatora, no sentido de que o pedido de desaforamento se baseia em supostas intimidações sofridas pelos jurados que compõem o corpo do júri da Comarca de Serra Talhada/PE; e (b) a conclusão adotada nos autos do HC 108.504/PE (2ª T., Min. Ricardo Lewandowski) - anterior impetração em favor do paciente também impugnando o excesso de prazo para realização do referido Júri -, segundo a qual a defesa contribui para a dilação do prazo.
+    4. Com essas considerações, indefiro o pedido de liminar.
+    Encaminhem-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 08 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
