@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 112):
+    “APELAÇÃO CÍVEL – Ação ajuizada pela Municipalidade de Santos visando regularização de letreiro – Sentença de procedência que determinou a supressão de letreiro no prazo de cinco dias, sob pena de multa diária de meio salário mínimo pelo inadimplemento – Necessária redução da multa cominatória para cem reais por dia de atraso, ajustada ao pedido inicial – Recurso parcialmente provido.”
+    O recurso busca fundamento no art. 102, III, a e c, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, caput, e 170, VIII, da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento genérico de que não se teria evidenciado “qualquer maltrato a normas constitucionais, não sendo atendida qualquer das hipóteses das alíneas a, b, c e d do permissivo constitucional”. Entendeu, ainda, que “a análise demandaria o exame de matéria infraconstitucional” (fls. 214/215).
+    O recurso não pode ser provido, tendo em vista que o Tribunal de Justiça do Estado de São Paulo manteve a sentença exigindo a regularização do letreiro com base na legislação local (Lei Municipal nº 3.529/68), bem como nas provas constantes dos autos. A solução da controvérsia, portanto pressupõe, necessariamente, o reexame do conjunto fático-probatório e o reexame da legislação pertinente, o que torna inviável o processamento do recurso extraordinário, nos termos das Súmulas 279 e 280/STF. Quanto à necessidade de reavaliação dos fatos subjacentes e da lei local, veja-se a seguinte passagem da sentença mantida pelo acórdão recorrido (fls. 88):
+    “Nesse sentido a Municipalidade editou a Lei 3.529/68, que instituiu o Plano diretor Físico do Município de Santos e por tal diploma legal, em seu artigo 270, está determinado que ‘no projeto e na execução de qualquer anúncio e letreiro é obrigatório o absoluto respeito e integração às linhas arquitetônicas do edifício e ao ambiente, não podendo ser prejudicados o aspecto da fachada ou a perspectiva local nem depreciada a paisagem”.
+    Ora, não é preciso esquadrinhar por miúdo para constatar que, de fato o letreiro instalado não guarda absoluto respeito e integração às linhas arquitetônicas do edifício. Como se evidencia das fotografias de fls. 61 e 62, o letreiro claramente encobre a marquise do edifício, reduzindo o “pé-direito”, o vão livre entre o passeio e a cobertura original”
+    (…)
+    A instalação de letreiro, excedente ao alinhamento da marquise, sobrevindo o indeferimento do pleito administrativo de regularização, impõe ao demandado o dever de reconduzir o imóvel ao estado original e respeitoso às posturas municipais.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2013.
+Ministro Luís Roberto Barroso
+Relator
