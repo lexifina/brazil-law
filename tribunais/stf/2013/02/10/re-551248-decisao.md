@@ -1,0 +1,44 @@
+Vistos etc.
+    Contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, que declarou a inconstitucionalidade da Lei Estadual 13.053, de 23 de dezembro de 1998, interpôs recurso extraordinário a Assembleia Legislativa do Estado de Minas Gerais. Alega violação aos arts. 18, caput, 24, XI, 25, caput, e 144, § 5º, da Constituição Federal, os quais dispõem:
+    “Art. 18. A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios, todos autônomos, nos termos desta Constituição”;
+    “Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+    (...)
+    XI - procedimentos em matéria processual”;
+    “Art. 25. Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição”;
+    “Art. 144. A segurança pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, através dos seguintes órgãos:
+    (...)
+    § 5º - às polícias militares cabem a polícia ostensiva e a preservação da ordem pública; aos corpos de bombeiros militares, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil”.
+          Sustenta, em síntese (fls. 165-70), que a declaração de inconstitucionalidade da referida lei negou ao Estado-membro “o exercício de suas competências próprias, que lhe definem o perfil da autonomia político-administrativa” e sua competência legislativa, consagrados no texto constitucional, e, que, no exercício de suas prerrogativas “o Estado de Minas Gerais, por meio da Lei 13053/98 nada mais fez que estabelecer, para o caso das ordens judiciais de reintegração de posse de área ocupada com a finalidade de moradia ou cultivo da terra, um procedimento específico que, se puder ser considerado como interferente na atividade judicial, está agasalhado pelo art. 24, XI, CF. E se vislumbrado como mero regente da atividade administrativa, encontra apoio no art. 144, § 5º, CF, além do próprio art. 25” (fl. 169). Por outro lado, aponta que:
+    “o obstáculo ao cumprimento da ordem judicial, tão alardeado na petição do ilustre Procurador-Geral de Justiça, não estaria na Lei, mas sim na inteligência truncada do dispositivo.
+    Tratar-se-ia, então, de problema a ser resolvido nos casos em que isso ocorresse, e não algo a justificar a drástica e generalizada providência de retirar a norma do mundo jurídico” (fl. 170).
+    Contrarrazões às fls. 173-4.
+    Inadmitido na origem (fls. 176-7), subiram os autos em virtude do provimento do AI 444.574/MG – apenso.
+    Instada a se manifestar (fl. 189), a Procuradoria-Geral da República opinou pelo não-conhecimento do recurso (fls. 191-7).
+    Substituição da relatora à fl. 198 (art. 38 do RISTF).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Ao adequado enfrentamento da controvérsia, transcrevo a ementa resultante do julgamento do recurso veiculado na origem (fls. 145-58):
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE – Lei que determina prévia comunicação sobre ordem judicial de reintegração de posse – desrespeito à independência. A lei que determina ao Governador do Estado comunicar previamente a certas pessoas e órgãos sobre a requisição de força policial para efetivar reintegração de posse judicialmente concedida ofende a independência dos poderes”.
+    O recurso não merece prosperar.
+    Inicialmente, a matéria constitucional tida por violada não se encontra prequestionada, porque não abordada pelo acórdão recorrido, tampouco foram opostos embargos de declaração para suprir o requisito do prequestionamento. Aplicável, na hipótese, o entendimento jurisprudencial vertido nas Súmulas 282 e 356/STF: é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão suscitada e o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento. Nesse sentido, o AI 743.256-AgR/SP, Rel. Min. Dias Toffoli, 1ª Turma, DJe 08.3.2012 e o AI 827.894-AgR/RJ, Rel. Min. Marco Aurélio, 1ª Turma, unânime, DJe 07.11.2011, cuja ementa transcrevo:
+    "RECURSO EXTRAORDINÁRIO prequestionamento CONFIGURAÇÃO RAZÃO DE SER. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente. A configuração do instituto pressupõe debate e decisão prévios pelo Colegiado, ou seja, emissão de juízo sobre o tema. O procedimento tem como escopo o cotejo indispensável a que se diga do enquadramento do recurso extraordinário no permissivo constitucional. Se o Tribunal de origem não adotou tese explícita a respeito do fato jurígeno veiculado nas razões recursais, inviabilizado fica o entendimento sobre a violência ao preceito evocado pelo recorrente. AGRAVO ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé".
+    Ressalte-se que, consoante entendimento desta Corte, o prequestionamento explícito da questão constitucional é requisito indispensável à admissão do recurso extraordinário.
+    Quanto à questão de fundo, verifica-se que a Corte de origem concluiu que a imposição ao Governador da prévia e imediata comunicação a pessoas e órgãos sobre a requisição de força policial para efetivar julgado reintegratório de posse agride os arts. 6º e 90, XXV, da Constituição do Estado de Minas Gerais, que respectivamente preveem:
+    “Art. 6º - São Poderes do Estado, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
+    Parágrafo único - Ressalvados os casos previstos nesta Constituição, é vedado a qualquer dos Poderes delegar atribuição e, a quem for investido na função de um deles, exercer a de outro”;
+    “Art. 90 - Compete privativamente ao Governador do Estado:
+    (...)
+    XXV - exercer o comando superior da Polícia Militar e do Corpo de Bombeiros Militar, promover seus oficiais e nomeá-los para os cargos que lhes são privativos”.
+    Da leitura do acórdão recorrido verifica-se que a declaração de inconstitucionalidade da norma estadual foi proferida pela Corte Superior do Tribunal de Justiça de Minas Gerais, por unanimidade, no sentido de que o comando normativo impugnado, ao criar óbice ao cumprimento de medidas judiciais urgentes condicionando sua efetivação a ato preliminar do Poder Executivo, violou as garantias de independência e o princípio da separação dos poderes (arts. 6º e 90, XXV, da Constituição Estadual). Para ilustrar, cito trecho do voto proferido pelo relator do acórdão recorrido:
+    “(...) a conclusão aportou em que a Lei nº 13.053/98, ao impor ao Governador do Estado a prévia e imediata comunicação a pessoas e órgãos sobre a requisição de força policial para efetivar o julgado reintegratório de posse, agride a independência dos poderes e a soberania da decisão judicial.
+    A condicionante da comunicação imposta pela Lei em exame, infastavelmente, agride a garantia do cumprimento de ordem judicial com injustificável ofensa ao princípio da separação dos poderes, retirando do Judiciário a autonomia constitucional de que goza, não em benefício próprio, mas em favor do cidadão, que deve ter a plena certeza do cumprimento de ordem judicial que lhe reconheça o direito deduzido.
+    Quando o Judiciário aplica o direito ao caso concreto, a decisão haverá de ser cumprida sem condicionamentos, sobretudo colocá-la ao alvedrio de outro Poder” (fl. 148).
+    Tal entendimento encontra-se em conformidade com a jurisprudência do Supremo Tribunal, corroborado pelo parecer da Procuradoria-Geral da República:
+    “Com efeito, a lei estadual nº 13.053.1998, ao tornar obrigatória a comunicação a vários órgãos, pelo Poder Executivo, da requisição de força policial para o cumprimento de ordens judiciais de reintegração de posse de área ocupada com a finalidade de moradia ou cultivo da terra, ofende o princípio da separação dos poderes. A norma local em comento mitiga a função judiciária, na medida em que condiciona e limita o cumprimento de decisões judiciais, em desprestígio ao Poder Judiciário, frustrando ou postergando a concretização de direito alheio.
+    Valendo-se de raciocínio similar, o Supremo Tribunal Federal julgou inconstitucional lei federal que impunha condições para o levantamento dos valores do precatório devido pela Fazenda Pública, em decorrência da violação ao princípio da separação dos poderes, por restringir a força das decisões judiciais” (fl. 195).
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de fevereiro de 2012.
+Ministra Rosa Weber
+Relatora
