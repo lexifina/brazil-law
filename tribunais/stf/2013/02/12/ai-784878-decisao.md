@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, e 195, § 6º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, constitucional a cobrança do PIS por meio MP 1.212/95 e suas reedições, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 564.787-AgR/PR, Rel. Min. Dias Tóffoli, 1ª Turma, DJe 15.3.2011; e AI 840.906-ED/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 25.4.2012, cuja ementa transcrevo:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. PIS. MP 1.212/95 E REEDIÇÕES. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA ANTERIORIDADE MITIGADA (ART. 195, § 6º, CF). INOCORRÊNCIA. 1. Os embargos de declaração opostos objetivando reforma da decisão do relator, com caráter infringente, devem ser convertidos em agravo regimental, que é o recurso cabível, por força do princípio da fungibilidade. Precedentes: Pet 4.837-ED, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ 14.3.2011; Rcl 11.022-ED, rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJ 7.4.2011; AI 547.827-ED, rel. Min. DIAS TOFFOLI, 1ª Turma, DJ 9.3.2011; RE 546.525-ED, rel. Min. ELLEN GRACIE, 2ª Turma, DJ 5.4.2011). 2. É constitucional a cobrança do PIS por meio MP 1.212/95 e suas reedições (posteriormente convertida na Lei nº 9.718/98), conforme entendimento assinalado pelo Plenário desta Corte quando do julgamento da ADI 1.417, Plenário, da Relatoria do Min. Octavio Gallotti, DJ de 23.03.01. Nesse sentido, os seguintes precedentes: AI 749.301-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, Dje de 21.06.2011, e RE 564.787-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe de 15.03.2011. AI 749.301-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 21.06.2011. … 4. Agravo regimental desprovido.”
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
