@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO. DIREITO PREVIDENCIÁRIO. DESAPOSENTAÇÃO E CONCESSÃO DE NOVA APOSENTADORIA. REPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 503 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.  DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: O Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos “em que se discute, à luz dos arts. 5º, caput e XXXVI, 40, 194, 195, caput e §5º, e 201, §1º, da Constituição Federal, a possibilidade, ou não, de reconhecer validade jurídica ao instituto da desaposentação, por meio do qual seria permitida a conversão da aposentadoria proporcional em aposentadoria integral, pela renúncia ao primeiro benefício e cômputo das contribuições recolhidas posteriormente à primeira jubilação”. Trata-se do Tema nº 503 da Gestão por Temas da Repercussão Geral, submetido à apreciação do Pleno nos autos do RE nº 661.256/SC, Relator o Ministro Ayres Britto, e que se encontra pendente de julgamento.
+    In casu, a Segunda Turma Recursal da Seção Judiciária do Rio Grande do Sul, deu parcial provimento ao recurso de apelação, em acórdão assim ementado:
+    “PREVIDENCIÁRIO. PROCESSO CIVIL. DESAPOSENTAÇÃO PARA RECEBIMENTO DE NOVA APOSENTADORIA. POSSIBILIDADE. AUSÊNCIA DE NORMA IMPEDITIVA. NECESSIDADE DE DEVOLUÇÃO DO MONTANTE RECEBIDO NA VIGÊNCIA DO BENEFÍCIO ANTERIOR.
+    1. Tratando-se a aposentadoria de um direito patrimonial, de caráter disponível, é passível de renúncia.
+    2. Pretendendo o segurado renunciar à aposentadoria por tempo de serviço para postular novo jubilamento, com a contagem do tempo de serviço em que esteve exercendo atividade vinculada ao RGPS e concomitantemente à percepção dos proventos de aposentadoria, os valores recebidos da autarquia previdenciária a título de amparo deverão ser integralmente restituídos. Precedente da Terceira Seção desta Corte.
+    3. O art. 181-B do Dec. n. 3.048/99, acrescentado pelo Decreto n.º 3.265/99, que previu a irrenunciabilidade e a irreversibilidade das aposentadorias por idade, tempo de contribuição/serviço e especial, como norma regulamentadora que é, acabou por extrapolar os limites a que está sujeita, porquanto somente a lei pode criar, modificar ou restringir direitos (inciso II do art. 5º da CRFB).
+    4. Impossibilidade de compensação dos valores a serem devolvidos ao INSS com os proventos do novo benefício a ser concedido, sob pena de burla ao § 2º do art. 18, uma vez que as partes já não mais seriam transportadas ao status jurídico anterior à inativação (por força da necessidade de integral recomposição dos fundos previdenciários usufruídos pelo aposentado).
+    5. O provimento concedido tem natureza e eficácia meramente declaratórias, uma vez que, mesmo entendendo-se viável a nova concessão, o fato de ser necessária a condição de devolver impede o provimento de cunho condenatório sujeito a qualquer condição.
+    6. Configurada a sucumbência recíproca, restam compensados os honorários advocatícios”.
+    Ante a similitude da controvérsia, determino a devolução do feito ao Tribunal de origem para observância do disposto no artigo 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
