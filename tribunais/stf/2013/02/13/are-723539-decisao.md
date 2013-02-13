@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESCRIÇÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. O Tribunal de Justiça de Mato Grosso do Sul decidiu:
+    “MANDADO DE SEGURANÇA – SERVIDOR PÚBLICO ESTADUAL – PROCESSO ADMINISTRATIVO DISCIPLINAR – CONTAGEM DO [PRAZO] PRESCRICIONAL – PRESCRIÇÃO RECONHECIDA – SEGURANÇA CONCEDIDA. Interrompido pela instauração do processo administrativo disciplinar, o prazo prescricional volta a correr por inteiro após 140 (cento e quarenta) dias, prazo máximo para conclusão do processo administrativo e imposição de pena, independentemente de ter havido ou não o seu efetivo encerramento. Após a retomada do prazo prescricional antes interrompido, não tendo a Comissão Processante aplicado a penalidade dentro do prazo legal previsto (no caso, de 5 anos, na forma do inciso I do artigo 240 da Lei n. 1.102/90, opera-se a prescrição” (fl. 461).
+    Os embargos declaratórios opostos foram assim julgados:
+    “EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA – OMISSÃO – INEXISTENTE – REDISCUSSÃO DE MATÉRIA – FIM DE PREQUESTIONAMENTO – INADMISSÍVEIS – EMBARGOS REJEITADOS. Ausentes os vícios apontados, rejeitam-se os embargos declaratórios. Mesmo que os embargos de declaração tenham sido ofertados para fins de prequestionamento, não se pode fugir dos limites estabelecidos no artigo 535 do Código de Processo Civil, pois, a toda evidência, tal recurso não se presta ao reexame das questões decididas no julgado embargado” (fl. 481).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que “interpôs embargos declaratórios com a finalidade de corrigir algumas omissões do acórdão, bem como para cumprir o requisito do prequestionamento” (fl. 540).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o § 5º do art. 37 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Inicialmente, cumpre afastar o óbice imposto pela decisão agravada, pois a matéria constitucional posta à apreciação foi suscitada em momento processual adequado.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+    7. O Desembargador Relator do caso no Tribunal de Justiça de Mato Grosso do Sul afirmou:
+    “Com relação à tese de prescrição da pretensão punitiva do Estado, afirma a impetrante que além de não ter sido respeitado o prazo de 90 (noventa) dias para a conclusão do processo, inserido no artigo 258 da Lei n. 1.102/90, os autos permaneceram conclusos por mais de cinco anos, ultrapassando o prazo prescricional previsto no artigo 240 do mesmo diploma legal.
+    Sabe-se que a lei de regência prevê o prazo de 140 dias para conclusão do Processo Administrativo Disciplinar: 90 dias, prorrogável por mais 30, para a Comissão concluir os trabalhos, acrescidos de mais 20 dias para a autoridade julgadora proferir sua decisão. É o que se extrai dos artigos 258, ‘caput’ e § 1º, e 272 da Lei estadual n. 1.102/1990, a seguir transcritos, ‘in verbis’: (...).
+    Desse modo, a instauração do Processo Administrativo Disciplinar opera a interrupção do prazo prescricional, que é retomado por inteiro após o transcurso de 140 dias que a comissão possui para sua conclusão. Nesse sentido, a orientação do C. Superior Tribunal de Justiça: (...).
+    No caso dos autos, verifica-se que no dia 29.01.2004 foi instaurado por meio da Portaria n. 05/2004 o Processo Administrativo Disciplinar (PAD) n. 2004/1.14.95/002 (fl. 26) para apurar eventual responsabilidade da impetrante na autorização de conversão de dólares para reais que estavam sob a custódia do Tribunal de Justiça, com a finalidade de ‘atender despesas de encerramento de exercício’, conforme documento juntado à fl. 92 dos autos administrativos.
+    A Comissão Processante emitiu parecer e encaminhou os autos à autoridade apontada como coatora em 31.05.2005 (fl. 209/210).
+    Portanto, há que se considerar que, como bem asseverado pela impetrante na petição inicial, a Comissão Processante não conseguiu concluir os trabalhos no prazo legal de 140 dias, razão pela qual o prazo prescricional antes interrompido voltou a fluir por inteiro a contar de 17.06.2004 (140 dias após a data da instauração do Processo).
+    Ocorre que o processo só foi colocado em mesa para julgamento pelo Conselho Superior da Magistratura na sessão do dia 23.11.2010 (fl. 221/225), ou seja, após mais de cinco anos sem movimentação, de modo que a operação da prescrição é inconteste no caso, uma vez que a penalidade aplicada à impetrante deveria ser imposta até o dia 17.06.2009, considerando o prazo quinquenal previsto no inciso I do artigo 240 da Lei estadual n. 1.102/1990.
+    Via de consequência, reputo presente a violação ao direito líquido e certo da impetrante, devendo ser concedida a segurança para ser reconhecida a prescrição punitiva da Administração Pública e os efeitos daí decorrente” (fls. 462-465 – grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicada à espécie (Lei estadual n. 1.102/1990). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    “CONSTITUCIONAL. SERVIDOR PÚBLICO. LEIS ESTADUAIS N. 1.102/90, 2.065/99 E 2.129/00. I. – Questão decidida com base em fundamento infraconstitucional, leis do estado de Mato Grosso do Sul, que não integram o contencioso constitucional. II. – Agravo não provido” (RE 414.469-AgR, Rel. Min. Carlos Velloso, Segunda Turma, DJ 13.12.2005).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea b, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
