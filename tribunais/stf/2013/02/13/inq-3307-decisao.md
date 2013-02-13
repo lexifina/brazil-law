@@ -1,0 +1,9 @@
+Decisão: Cuida-se de inquérito instaurado para apurar a suposta prática do crime ambiental previsto no art. 48 da Lei 9.605/98 pelo Deputado Federal Edmar de Souza Arruda, por ter supostamente asfaltado uma rua de acesso a lote de sua propriedade, em área de preservação permanente, impedindo a regeneração natural da vegetação.
+    O Ministério Público Federal informa, na petição de fls. 312/315, que após a realização das diligências deferidas às fls. 147/48, constatou-se que a constituição do Loteamento Jardim Novo Horizonte, 5ª Parte, na cidade de Maringá/PR, no qual o indiciado adquiriu os lotes 8 a 13 da Quadra 136, foi liberada por meio de Alvará que previa a pavimentação asfáltica, e também que se verifica que entre as ruas listadas no respectivo memorial já constava a rua Ouro Verde. Aduz, ainda, que em vistoria realizada no local, concluiu-se que houve a implantação definitiva do loteamento nos termos das licenças expedidas, bem como “não houve qualquer alteração na estrutura inicial do projeto” (fls. 201/202).
+    Diante dos fatos apurados, sublinha o Ministério Público Federal, por fim, que não há conduta do Parlamentar indiciado a ensejar a incidência no art. 48 da Lei 9.605/98, “uma vez que procedeu à recuperação da área de preservação integrada à sua propriedade, com exceção da área asfaltada da via pública ali existente, cuja pavimentação foi realizada pela Petras Loteadora, mediante aprovação dos órgãos competentes, antes da venda dos lotes.” Por esse motivo, requer o Procurador-Geral da República o arquivamento do inquérito.
+    Pelo exposto, DEFIRO o arquivamento deste inquérito, com fundamento nos artigos 21, XV e 231, §4º do RISTF.
+    Publique-se. Int..
+    Brasília, 13 de fevereiro de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
