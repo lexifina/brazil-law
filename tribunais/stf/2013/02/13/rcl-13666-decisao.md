@@ -1,0 +1,43 @@
+DECISÃO
+RECLAMAÇÃO. PROCESSUAL CIVIL. ADVOGADOS: MULTA PESSOAL. SANÇÃO DISCIPLINAR. DESCUMPRIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.652/DF. RECLAMAÇÃO JULGADA PROCEDENTE.
+Relatório
+    1. Reclamação, com pedido de medida liminar, ajuizada por Marcelo Antônio Zago e outros, em 22.4.2012, contra julgado da Vigésima Primeira Câmara Cível do Tribunal de Justiça do Rio Grande do Sul que, no Agravo de Instrumento n. 70046739553, teria descumprido a decisão do Supremo Tribunal Federal proferida na Medida Cautelar na Ação Direta de Inconstitucionalidade n. 2.652/DF.
+    2. A decisão impugnada tem o teor seguinte:
+    “EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CDA. REQUISITOS LEGAIS.
+    Não há omissão no julgado.
+    Conforme referido no voto condutor, discriminados nas CDAs que instruem o pedido executório o valor do principal, da correção monetária, da multa e dos juros, bem como a forma de cálculo, têm-se cumpridos os requisitos do art. 2º, parágrafos 5º e 6º, da Lei nº 6.830/80.
+    Embargos rejeitados, por maioria. Averbação de protelatórios.
+    (…)
+    Considerando que a matéria está suficientemente esclarecida, reconheço como protelatória e abusiva a utilização do recurso, meramente impeditivo do trânsito em julgado.
+    Condeno a embargante, solidariamente com os seus procuradores, conforme admite o egrégio STJ (EDcl no AgRg no Ag 392932/SP, Rel. Min. Nilson Naves, T6, DJ 20/06/2005 [arts. 14, II e III, 17, VII, e 538, parágrafo único, do Código de Processo Civil]), ao pagamento de multa equivalente a um por cento (1%) do valor dado à causa, com base no art. 538, parágrafo único, do CPC.”
+    É contra a decisão proferida no Agravo de Instrumento n. 70046739553 que se ajuíza a presente reclamação.
+    3. Os Reclamantes alegam que “os advogados possuem imunidade constitucional (art. 133 da CF) e prerrogativa (Lei n. 8.906/1994, art.70) para poderem atuar tranquilamente em defesa dos cidadãos. Por isso, qualquer medida, venha de quem vier, afronta não apenas aos advogados, mas à toda sociedade que necessita de defesa e amparo judicial e defensivo.”
+    Argumentam que este Supremo Tribunal teria “fixado o entendimento de que os advogados sujeitam-se exclusivamente aos estatutos da Ordem dos Advogados do Brasil e a eles, quando atuando em Juízo, não podem ser impostas quaisquer multas por suposta obstrução à Justiça.”
+    Asseveram estarem presentes os requisitos necessários para o deferimento da medida liminar requerida para suspender “os efeitos da decisão proferida pela 21ª Câmara Cível do TJ do Rio Grande do Sul, no que se refere à responsabilização dos advogados, quanto ao pagamento da multa arbitrada ou qualquer outra sanção pela atividade profissional” (grifos nossos).
+    No mérito, pedem “seja julgada procedente a presente reclamação, confirmando-se a liminar, anulando-se a decisão supramencionada no que tange à condenação aos advogados ao pagamento da multa.”
+    4. Em 26.4.2011, deferi a medida liminar requerida, requisitei informações e determinei vista dos autos ao Procurador-Geral da República.
+    5. Em 8.6.2012, a Seção de Processos do Controle Concentrado e Reclamações deste Supremo Tribunal Federal certificou que o Tribunal de Justiça do Rio Grande do Sul não prestou informações.
+    6. Em 21.11.2012, o Procurador-Geral da República opinou pela procedência da reclamação:
+     “Reclamação para preservar a autoridade da ADI nº 2652. Aplicação de multa por litigância de má-fé. Advogado. Impossibilidade. Procedência da Reclamação.”
+    Examinados os elementos havidos nos autos, DECIDO.
+    7. O que se põe em foco na presente reclamação é saber se a decisão proferida pela Vigésima Primeira Câmara Cível do Tribunal de Justiça do Rio Grande do Sul no Agravo de Instrumento n. 70046739553 teria descumprido o que decidido por este Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade 2.652/DF ao condenar os representantes da parte ao pagamento de multa processual.
+    8. Na assentada de 8.5.2003, a Ação Direta de Inconstitucionalidade n. 2.652/DF foi julgada procedente por este Supremo Tribunal para, sem redução de texto, conferir à expressão “ressalvados os advogados que se sujeitam exclusivamente aos estatutos da OAB”, do parágrafo único do art. 14 do Código de Processo Civil, alterada pela Lei federal n. 10.358, de 27.12.2001, interpretação conforme à Constituição, a abranger advogados do setor privado e do setor público (Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 14.11.2003). Confira-se a ementa desse julgado:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. IMPUGNAÇÃO AO PARÁGRAFO ÚNICO DO ARTIGO 14 DO CÓDIGO DE PROCESSO CIVIL, NA REDAÇÁO DADA PELA LEI 10358/2001. PROCEDÊNCIA DO PEDIDO.
+    1. Impugnação ao parágrafo único do artigo 14 do Código de Processo Civil, na parte em que ressalva os advogados que se sujeitam exclusivamente aos estatutos da OAB da imposição de multa por obstrução à Justiça. Discriminação em relação aos advogados vinculados a entes estatais, que estão submetidos a regime estatutário próprio da entidade. Violação ao princípio da isonomia e ao da inviolabilidade no exercício da profissão. Interpretação adequada, para afastar o injustificado discrímen.
+    2. Ação Direta de Inconstitucionalidade julgada procedente para, sem redução de texto, dar interpretação ao parágrafo único do artigo 14 do Código de Processo Civil conforme a Constituição Federal e declarar que a ressalva contida na parte inicial desse artigo alcança todos os advogados, com esse título atuando em juízo, independentemente de estarem sujeitos também a outros regimes jurídicos” (DJ 14.11.2003, grifos nossos).
+    Tem-se, pois, que todos os advogados estão incluídos na ressalva do parágrafo único do art. 14 do Código de Processo Civil, não sendo possível, assim, fixar-lhes multa em razão de descumprimento do dever disposto no art. 14, inc. V, do Código de Processo Civil.
+    9. Na espécie vertente, a autoridade reclamada impôs aos advogados, Marcelo Antônio Zago e Samir Alves Merlo, multa processual equivalente a 1% (um por cento) do valor da causa, por litigância de má-fé.
+    10. A condenação pessoal dos advogados ao pagamento de multa processual é juridicamente indevida por não figuram eles como parte ou interveniente no Agravo de Instrumento n. 70046739553.
+    Dessa forma, embora tenham sido apontados como fundamento legal para a condenação dos advogados particulares os arts. 14, inc. II e III, 17, inc. VII, e 538, parágrafo único, do Código de Processo Civil, está evidenciada a aplicação do art. 14, inc. V e parágrafo único, do Código de Processo Civil de forma reflexa e contrária ao que decidido na ação-paradigma.
+    11. A vedação à condenação de advogados públicos, nos termos do que decidido na Ação Direta de Inconstitucionalidade n. 2.652/DF, tem sido confirmada em precedentes deste Supremo Tribunal Federal. Nesse sentido:
+    “EMENTA: RECLAMAÇÃO. PROCURADOR FEDERAL. MULTA PESSOAL. SANÇÃO DISCIPLINAR. DESCUMPRIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.652/DF.
+    1. Os procuradores federais estão incluídos na ressalva do parágrafo único do art. 14 do Código de Processo Civil, não sendo possível, assim, fixar-lhes multa em razão de descumprimento do dever disposto no art. 14, inc. V, do Código de Processo Civil.
+    2. Sem discutir o acerto ou desacerto da condenação por litigância de má-fé - prevista no art. 17, inc. V, do Código de Processo Civil –, imposta pela autoridade reclamada, tem-se que a condenação pessoal do Procurador do Instituto Nacional do Seguro Social ao pagamento de multa processual é inadequada porque, no caso vertente, ele não figura como parte ou interveniente na Ação.
+    3. Reclamação julgada procedente” (Rcl. 5.133/MG, de minha relatoria, Plenário, DJe 21.8.2009, grifos nossos).
+    E ainda: Rcl 7.181/CE, de minha relatoria, Plenário, DJe 21.8.2009, Rcl 5.941-MC/RO, Rel. Min. Eros Grau, decisão monocrática, DJ 23.4.2008; Rcl 5.865-MC/MA, de minha relatoria, decisão monocrática, DJ 25.3.2008; Rcl 4.656-MC/SE, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 29.9.2006; e Rcl 3.957-MC/DF, Rel. Min. Carlos Britto, decisão monocrática, DJ 10.2.2006.
+    Esse entendimento aplica-se com mais razão aos advogados particulares sujeitos exclusivamente ao estatuto da Ordem dos Advogados do Brasil, como na espécie.
+    12. Pelo exposto, julgo procedente a presente reclamação para cassar a decisão proferida no Agravo de Instrumento n. 70046739553, na parte em que condena pessoalmente os advogados Marcelo Antônio Zago e Samir Alves Merlo ao pagamento de multa pessoal.
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
