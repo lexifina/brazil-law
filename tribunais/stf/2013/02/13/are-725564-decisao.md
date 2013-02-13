@@ -1,0 +1,19 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXV e LV, 93, IX, 114, VIII, e 195, I e II, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Expressamente declinados no decisum recorrido os fundamentos norteadores do convencimento firmado pela Corte de origem, o posicionamento desfavorável à tese da parte não importa em negativa de prestação jurisdicional, pelo que não há falar na indicada afronta aos arts. 5º, XXXV e LV, 93, IX, da Constituição da República.
+    De outra parte, o seguro acidente de trabalho – SAT não integra o chamado “sistema S”, denominação indicativa das “entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical” (art. 240 da Carta Política), v.g. SENAI, SEST, SENAT, SENAC, SENAR, SEBRAE, INCRA, DPC (diretoria de portos e costas) e FA (fundo aeroviário), para as quais a autarquia previdenciária repassa o montante arrecadado a título de contribuição social do empregador (contribuição de terceiros), os quais se remuneram pelos serviços de arrecadação e repasse à razão de 3,5%, nos termos do art. 3º, § 1º, da Lei nº 11.457/2007, que criou a Secretaria da Receita Federal do Brasil. A contribuição para o SAT, que não integra esse percentual, pois tem hipótese de incidência própria (regra geral: 1, 2 ou 3% sobre o total das remunerações pagas ou creditadas, no decorrer do mês, aos segurados empregados e trabalhadores avulsos), destina-se à seguridade social, precisamente ao financiamento da aposentadoria especial e dos benefícios concedidos em razão do grau de incidência de incapacidade laborativa decorrente dos riscos ambientais do trabalho, à luz dos arts. 11 e 12 da Lei nº 8.212/1991 e 201 e 202 do Decreto nº 3.048/1999.
+    Inequívoco, portanto, que a contribuição relativa ao seguro acidente de trabalho consubstancia contribuição social do empregador, incidente sobre a remuneração, com destinação específica, qual seja, o financiamento da seguridade social, a encontrar assento constitucional no art. 195, I, “a”, da Carta Política:
+    “Art. 195. A seguridade social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:
+    I - do empregador, da empresa e da entidade a ela equiparada na forma da lei, incidentes sobre:
+    a) a folha de salários e demais rendimentos do trabalho pagos ou creditados, a qualquer título, à pessoa física que lhe preste serviço, mesmo sem vínculo empregatício;”
+    Nesse contexto, preconizada no art. 114, VIII, da Lei Maior a competência da Justiça do Trabalho para a “execução, de ofício, das contribuições sociais previstas no art. 195, I, a , e II, e seus acréscimos legais, decorrentes das sentenças que proferir”, verifica-se que os preceitos constitucionais tidos como violados foram observados em sua literalidade.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
