@@ -1,0 +1,29 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. IMPOSTO SOBRE SERVIÇO. 1) ALEGADA OFENSA AO ART. 170, INC. IV, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “EMBARGOS INFRINGENTES. TRIBUTÁRIO. AÇÃO DECLARATÓRIA DE DIREITO À IMUNIDADE TRIBUTÁRIA. INSTITUIÇÃO DE CARÁTER EDUCACIONAL E ASSISTENCIAL SEM FINS LUCRATIVOS. ISSQN. IMUNIDADE.
+    A instituição assistencial e de ensino sem fins lucrativos, que não distribui renda, lucro ou participação nos resultados e aplica seus recursos inteiramente no País, para manutenção de seus objetivos, goza incondicionalmente de imunidade, não podendo ser tributada por ISSQN.
+    Embargos acolhidos. Por maioria.” (doc. 4, fl. 62).
+    O Recorrente não opôs embargos de declaração.
+    2. O Agravante alega que o Tribunal de origem teria contrariado o art. 170, inc. IV, da Constituição da República.
+    Sustenta que “a decisão colegiada do Tribunal de Justiça do Estado do Rio Grande do Sul desafia recurso extraordinário, na medida em que viola o Princípio da Livre Concorrência, insculpido no artigo 170, IV, da CRFB. Ao permitir que Empresa funcione sob o manto da imunidade, em atuação meramente comercial – atividade gráfica, afasta-se a livre concorrência, eis que os demais competidores da Recorrida Extraordinária terão que fazer frente aos impostos incidentes nas suas atividades, criando situação de perversa disparidade aos operadores das atividades gráficas.” (doc. 4, fl. 103).
+    3. O recurso extraordinário foi inadmitido sob fundamento de incidência das Súmulas n. 279 e 282 do Supremo Tribunal Federal. (doc. 5, fls. 51-55) .
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O art. 170, inc. IV, da Constituição da República, suscitado no recurso extraordinário, não foi objeto de debate e decisão prévios no voto vencedor, proferido em sede de embargo de divergência, no Tribunal a quo.
+    A matéria constou apenas do voto vencido, motivo pelo qual, para fins de prequestionamento, deveria ter sido objeto de embargos de declaração, o que não ocorreu na espécie. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, o Juízo a quo apreciou a controvérsia à luz dos fatos e das provas constantes dos autos.
+    Concluir de forma diversa do que decidido demandaria o reexame do que posto e debatido nas instâncias inferiores, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESTITUIÇÃO DE VALORES. INDENIZAÇÃO POR DANOS MORAIS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 660.889-AgR, de minha relatoria, Primeira Turma, DJe 14.12.2011).
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Prequestionamento. Ausência. Astreintes. Fixação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Princípio da legalidade. Súmula nº 636/STF. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 279/STF. 3. Não cabe recurso extraordinário por contrariedade ao princípio da legalidade quando, para a sua verificação, seja necessário analisar a legislação infraconstitucional aplicável ao caso. Incidência da Súmula nº 636/STF. 4. Agravo regimental não provido” (ARE 660.196-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1°.6.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
