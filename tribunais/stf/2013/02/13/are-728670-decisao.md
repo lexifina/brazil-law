@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, II, XXXV, LIV e LV, e 93, IX, da Constituição da República.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Expressamente declinados no decisum recorrido os fundamentos norteadores do convencimento firmado pela Corte de origem no sentido de que “os elementos de prova constantes dos autos, mormente aqueles oriundos de provas documentais extraídos de outros processos em que estão envolvidas não só as reclamadas indicadas na petição inicial na forma de grupo econômico, mas também os que vieram posteriormente ao feito, revelam que há nítida interligação e coordenação de interesses, além da inevitável comunicação patrimonial entre os demandados, que asseguram o direito de persecução executória contra todos”, e ao registro, ainda, de que “houve sim nítida sucessão de empregador, pois o próprio patrimônio daquela anterior empresa que formava o grupo econômico com a empregadora do exequente, foi integralmente assumido pela emprega RURAL LEASING, com manutenção da unidade produtiva”, o posicionamento desfavorável à tese da parte não importa em negativa de prestação jurisdicional, pelo que não há falar na indicada afronta aos arts. 5º, II, XXXV, LIV e LV, e 93, IX, da Constituição da República.
+    Relativamente à arguição de nulidade por cerceamento de defesa, inexistente prejuízo processual, ao registro de que “a parte agravante veio a juízo manifestar inconformismo com a sua inclusão no feito através do remédio jurídico adequado à apreciação justamente da sua legitimidade para a execução”. Portanto, não há como prosperar o apelo por fronta ao art. 5º, LV, da Lei Maior, pois eventual lesão a tal preceito dependeria, in casu, da verificação prévia de ofensa às normas infraconstitucionais disciplinadoras do processo judicial, sendo certo que violação reflexa/indireta de dispositivo legal e/ou constitucional não rende ensejo ao recurso extraordinário.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
