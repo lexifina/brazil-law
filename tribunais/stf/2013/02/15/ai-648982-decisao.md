@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. FILHA DE EX-COMBATENTE. PENSÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Quinta Turma do Tribunal Regional Federal da 2ª Região decidiu:
+    “MANDADO SEGURANÇA – PENSÃO DE EX-COMBATENTE – SOLDO DE SEGUNDO SARGENTO – FILHA MAIOR E CAPAZ – INSTITUIDOR FALECIDO ANTES DA CONSTITUIÇÃO DE 1988 – DIREITO LÍQUIDO E CERTO. – Os preceitos legais aplicáveis à pensão especial são aqueles em vigor quando do óbito do ex-combatente, que, no caso, ocorreu quando ainda não estava em vigor a Carta de 1988, consoante, inclusive, posição consolidada pelo STF, no Mandado de Segurança n. 21707/DF. – O acervo probatório carreado pela impetrante demonstra, inequivocamente, a condição de ex-combatente do instituidor, ao consignar que este realizou atividade de vigilância e segurança da costa brasileira durante a Segunda Guerra Mundial. – De acordo com a legislação vigente por ocasião da morte do instituidor (Lei n. 3.765/60 e 4.242/63), a filha, mesmo que maior e capaz, detinha a condição de beneficiária da pensão especial de ex-combatente, bastando demonstrar que seu falecido pai enquadrava-se no conceito de ex-combatente” (fl. 87).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    4. A Agravante argumenta que “avaliar se a ofensa ao texto Constitucional teria sido oblíqua ou não, significa usurpar a competência da Corte Suprema, à qual o recurso foi dirigido” (fl. 6).
+    No recurso extraordinário, alega que o Tribunal a quo teria contrariado o inc. II do art. 53 do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Razão jurídica não assiste à Agravante.
+    O Desembargador Federal Relator do caso na quinta Turma do Tribunal Regional Federal da 2ª Região afirmou:
+    “A presente ação mandamental foi impetrada por DELORME SOUZA, filha de ex-combatentes, objetivando a instituição de pensão especial correspondente à patente de segundo-sargento, nos termos da Lei n. 3.765/60 e da Lei n. 4.242/63.
+    Colhe-se dos presentes autos que a impetrante, ora recorrente, é filha de Arminda de Souza, falecida em 18/01/1918 (fl. 16), e Acelino de Souza, falecido em 05/12/1956 (fl. 15). A viúva de Acelino de Souza, Iracema Rocha de Souza, faleceu no dia 28/06/1959 (fl. 17), sobrevindo destes fatos a conclusão de que a impetrante é beneficiária remanescente exclusiva de seu falecido pai.
+    O acervo probatório carreado pela impetrante demonstra, inequivocamente, a condição de ex-combatente do instituidor (fls. 20/23), ao consignar que este realizou atividade de vigilância e segurança da costa brasileira durante a Segunda Guerra Mundial.
+    A questão que se propõe concerne na fixação da norma aplicável, sendo de relevo o fato de o ex-combatente ter falecido em data precedente à promulgação da Carta de 1988.
+    É sólido e pacífico o entendimento jurisprudencial segundo o qual o direito à pensão de ex-combatente regula-se pelo ordenamento jurídico vigente à época do óbito do instituidor do benefício, conforme se verifica do aresto abaixo transcrito: (...).
+    Como o ex-combatente faleceu antes da promulgação da Constituição de 1988, aplica-se, ao presente caso, as regras previstas no artigo 24 da Lei n. 3.765/60, conforme dispõe o art. 30 da Lei n. 4.242/63.
+    Segundo o referido dispositivo legal, falecendo o beneficiário principal da pensão, destinava-se a pensão aos beneficiários mencionados no artigo 7º da referida Lei de Pensões, dentre os quais se encontra a filha do ex-combatente, ainda que maior de 21 anos e capaz.
+    O titulo de pensão especial de ex-combatente, neste caso, emana da vetusta legislação, que previa, expressamente, o pensionamento à filha, porque, em relação à filha mulher, é indiferente a idade ou o estado civil, não se sujeitando a pensão a termo fixado para sua extinção, sendo, portanto, concedida em caráter vitalício.
+    Não são aplicáveis, à questão posta para julgamento, os comandos normativos contidos na Lei n. 8.059/90, já que são posteriores à constituição do direito, que tem origem na data do óbito do ex-combatente, em atenção ao princípio da irretroatividade das leis.
+    Nesse passo, está configurado o direito líquido e certo da impetrante, revelando-se, por outro lado, ilegal e abusivo o ato administrativo que obsta o exercício de direito legalmente assegurado pela legislação em vigor no momento do óbito do instituidor da pensão especial.
+    Diante do exposto, dou provimento ao recurso, concedendo a ordem, para determinar que a autoridade impetrada expeça em nome da impetrante, o título de pensão especial de ex-combatente correspondente à patente de segundo sargento das Forças Armadas, com efeitos patrimoniais a contar da impetração. Sem honorários (Súmulas n. 105 do STJ e 512 do STF). Custas ‘ex lege’” (fls. 83-85 – grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicada à espécie (Leis n. 3.765/1960 e 4.242/1963 e Lei de Introdução às Normas do Direito Brasileiro). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EX-COMBATENTE. PENSÃO. CRITÉRIOS. MATÉRIA INFRACONSTITUCIONAL. 1. O Supremo fixou o entendimento de que a verificação de critérios para a concessão de pensão especial à filha de ex-combatente restringe-se à análise da legislação infraconstitucional que disciplina a espécie. Agravo regimental a que se nega provimento” (RE 478.947-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 27.6.2008).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    6. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
