@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 40, §7º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local aplicável à espécie (Decreto 37.262/1995 e Leis 6.565/1975 e 11.432/94), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: AI 746491 / MG, Rel. Min. Joaquim Barbosa, Dje 08.11.2011; ARE 665222 / MG, Rel. Min. Dias Toffoli, DJe 24.9.2012; AI 567587 / MG, Rel. Min. Marco Aurélio, DJ 14.9.2005; AI 699725 AgR / MG, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 13.3.2009 e AI 542503 AgR/MG, Rel. Min. Ayres Britto, 1ª Turma, DJe 07.5.2010, os dois últimos assim ementados:
+“CONSTITUCIONAL. SERVIDOR PÚBLICO DO ESTADO DE MINAS GERAIS. GRATIFICAÇÃO DE ESTÍMULO À PRODUÇÃO INDIVIDUAL - GEPI. CONTROVÉRSIA RESTRITA À LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULAS 279 E 280 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I - A jurisprudência da Corte está pacificada no sentido de que a discussão referente à incorporação da GEPI está restrita ao exame de legislação infraconstitucional local. Incidência da Súmula 280 do STF. Precedentes. II - A apreciação do recurso extraordinário demanda o reexame de matéria fático-probatória, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido.”
+“AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PENSÃO POR MORTE. INCORPORAÇÃO DA GRATIFICAÇÃO DE ESTÍMULO À PRODUTIVIDADE INDIVIDUAL - GEPI. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. 1. Entendimento diverso do adotado pela Instância Judicante de origem exigiria o reexame da legislação infraconstitucional pertinente, providência vedada neste momento processual. Precedentes. 2. Agravo regimental desprovido.”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
