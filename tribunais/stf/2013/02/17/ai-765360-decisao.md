@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 40, §5º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que a norma do § 5º do art. 40 da Constituição Federal, por ser autoaplicável, não depende de legislação infraconstitucional, razão pela qual não se divisa a alegada ofensa ao dispositivo constitucional suscitado. Nesse sentido: SS 2.491-AgR/PE, rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 21.5.2010;AI 587532 AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 08.10.2010 e AI 614268 AgR / BA, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.12.2007 , os dois últimos assim ementados:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PENSIONISTA. AUTO-APLICABILIDADE DO § 5º DO ART. 40 DA CONSTITUIÇÃO FEDERAL (REDAÇÃO ORIGINÁRIA). AUSÊNCIA DE PREQUESTIONAMENTO. 1. O Supremo Tribunal Federal, ao julgar o MI 211, redator para o acórdão o ministro Marco Aurélio, firmou o entendimento de que o § 5º do art. 40 da Carta Magna de 1988, cuja redação originária estatuía que "o benefício da pensão por morte corresponderá à totalidade dos vencimentos ou proventos do servidor falecido", é, sim, norma auto-aplicável. 2. Incidem, quanto ao mais, as Súmulas 282 e 356 do STF. 3. Agravo regimental desprovido.”
+    “CONSTITUCIONAL. PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 E 356 DO STF. PREVIDENCIÁRIO. PENSÃO POR MORTE. AUTO-APLICABILIDADE DO ART. 40, § 5º (REDAÇÃO ORIGINAL), DA CF/88. I - Falta de prequestionamento da questão constitucional suscitada. Incidência da Súmula 282 e 356 do STF. II - O art. 40, § 5º (redação original), da CF/88 é norma de aplicabilidade imediata. Assim, não está subordinada à identificação da fonte de custeio total (art. 195, § 5º, da CF/88), que é limitação dirigida à lei ordinária de criação, majoração ou extensão de prestações previdenciárias. Precedentes. III - Ausência de novos argumentos. IV - Agravo regimental improvido.” (AI 614268 AgR / BA, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 19.12.2007).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
