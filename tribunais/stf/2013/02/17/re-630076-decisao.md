@@ -1,0 +1,22 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “I- Policial Militar. Demissão. Invalidação- falta de adequação entre os pressupostos de fato do ato punitivo e a sanção aplicada.
+    II – A discricionariedade existente em todos os atos tachados de ilícitos praticados por servidores públicos exige das Autoridades Julgadores a decisão ótima para atender o interesse público e os princípios da certeza e da segurança jurídica que devem nortear o julgador para manter o Estado Democrático de Direito.
+    III – O Judiciário pode invadir o mérito do ato administrativo para verificar se não aninha a ilegalidade no motivo do ato, no seu conteúdo, ou ainda, na relação de adequação entre os pressupostos de fato do ato e a decisão ótima que o julgador deve ter para cumprir o que impõem os princípios norteadores do Estado Democrático de Direito.
+    IV – Sentença de improcedência. Recurso parcialmente provido para reintegrar o autor nas fileiras da Corporação Militar, rejeitando apenas a pretensão relativa ao dano moral” (fl. 94).
+    Os embargos declaratórios opostos pelo Recorrente foram rejeitados.
+    2. O Recorrente alega que o Tribunal a quo teria contrariado o art. 125, § 4º, da Constituição da República.
+    Argumenta que “diante da nova ordem constitucional, a Justiça Comum passou a ser absolutamente incompetente para julgar as ações que envolvam atos disciplinares praticados por policiais militares, portanto, a violação ao dispositivo constitucional em comento surgiu no curso da ação de procedimento ordinário em trâmite perante a 11ª Vara da Fazenda Pública da Comarca da Capital, não restando outro caminho ao recorrente senão a interposição de recurso extraordinário em busca do decreto de nulidade do acórdão, que declarou a competência da justiça comum e não da justiça militar estadual, para julgar ações que tenham por objeto atos disciplinares praticados por policiais militares, em total arrepio ao disposto no parágrafo 4º do art. 125 da Constituição Federal” (fl. 133, grifos no original).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    4. O art. 125, § 4º, da Constituição da República não foi objeto de debate e decisão prévia pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o seu prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENAL. CRIME DE ROUBO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL). PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 766.895-AgR, de minha relatoria, Primeira Turma, DJe 5.2.2010).
+    “AGRAVO REGIMENTAL. AUSÊNCIA DE PEÇA ESSENCIAL. ARTS. 5º, XLVI, E 93, IX, DA CONSTITUIÇÃO FEDERAL. FALTA DE PREQUESTIONAMENTO. OFENSA REFLEXA. A parte agravante não demonstra a presença nos autos da peça que a decisão agravada teve como ausente, qual seja, a certidão de publicação do acórdão recorrido. Trata-se de peça de traslado obrigatório, cuja ausência acarreta o não-conhecimento do agravo de instrumento. Ausência de prequestionamento. Questão não ventilada no acórdão recorrido e que não foi suscitada em embargos de declaração. Óbice previsto pelos enunciados das Súmulas 282 e 356/STF. Alegação de violação dos arts. 5º, XLVI, e 93, IX, da Constituição Federal. Necessidade de exame prévio de norma infraconstitucional (Código Penal) para a verificação de contrariedade à Carta Magna. Caracterização de ofensa reflexa ou indireta. Precedente. Agravo regimental a que se nega provimento” (AI 586.491-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 28.11.2008).
+    Nada há a prover quanto às alegações do Recorrente.
+    6.  Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
