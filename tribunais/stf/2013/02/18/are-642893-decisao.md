@@ -1,0 +1,10 @@
+Contra despacho negativo de admissibilidade da Presidência da Sexta Turma de Recursos de Lages-SC (fls. 121-123), maneja agravo Geovani Broering (fls. 125-127), com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da ausência de prequestionamento.
+    Insiste, em síntese, na ocorrência de afronta aos arts. 5º, XLVI, ‘c’, e 93, IX, ambos da Constituição Federal, ao fundamento de que o magistrado deve proceder à substituição da pena privativa de liberdade por multa e não por restritiva de direitos, nos termos do art. 44, § 2º, e do art. 60, § 2º, do Código Penal. Destaca que a imposição de pena mais grave (restritiva de direitos ao invés de multa) ocorreu sem a necessária fundamentação.
+    O Tribunal de Justiça de Santa Catarina entendeu, no tocante à substituição das penas, tratar-se “de opção do juízo, na medida em que o art. 44 coloca que a pena poderá ser substituída ‘por multa ou uma pena restritiva de direito’, e não se pode esquecer que tal é matéria afeta ao juízo da execução” (fl. 97).
+    Do trecho transcrito, único que elucida a matéria no Tribunal de origem, verifico que não se encontram prequestionados os artigos constitucionais apontados como violados, porque não abordados pelo acórdão recorrido nem opostos embargos de declaração a fim de suscitar a matéria (Súmulas STF 282 e 356). É pacífica, nesta Suprema Corte, a orientação de que o apelo extremo possui como requisito necessário à sua admissão o pronunciamento explícito sobre a controvérsia objeto do recurso, sob pena de supressão da instância inferior (AI 318.142-AgR/RS, rel. Min. Maurício Corrêa, 2ª Turma, DJ 28.9.2001 e AI 335.182-AgR/SP, rel. Min. Moreira Alves, 1ª Turma, DJ 31.10.2001.
+    Ademais, para dissentir do entendimento do Tribunal de Justiça, a pretexto de ofensa aos apontados dispositivos constitucionais, seria necessário o exame de legislação infraconstitucional, de todo inviável em sede extraordinária.
+    Ante o exposto e com base no art. 21, § 1º, do Regimento Interno, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
