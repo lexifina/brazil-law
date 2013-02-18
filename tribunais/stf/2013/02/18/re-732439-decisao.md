@@ -1,0 +1,16 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE DE ESPOSA. TRABALHADORA RURAL. ÓBITO ANTERIOR À VIGÊNCIA DA LEI 8.213/91.
+    1. No regime da LC 11/71 a unidade familiar compunha-se de apenas um trabalhador rural; os demais eram dependentes. A mulher casada, assim, somente poderia ser considerada segurada na qualidade de trabalhador rural e, por conseqüência, o homem, seu dependente, se o cônjuge varão fosse inválido e não recebesse aposentadoria por velhice ou invalidez (alínea 'b' do inciso II do § 3º do artigo 297, inciso III do artigo 275 e inciso I do artigo 12, todos do Decreto 83.080/79.
+    2. Consoante entendimento do Supremo Tribunal Federal, em matéria de concessão de pensão a legislação aplicável é aquela vigente na data do óbito, não se tratando, ademais, o inciso V do artigo 101 da Constituição Federal de norma auto-aplicável. Assim, só se cogita de direito a pensão por morte da esposa ou companheira se o óbito ocorreu após o início da vigência da Lei 8.213/91, em 05.04.91”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, caput, I, e §§ 1º, 2º e 3º, 201, caput e V, e 226, caput e § 5º, da mesma Carta. Sustentou-se, em suma, que o recorrente faz jus ao benefício de pensão por morte de sua esposa, visto que, apesar de o óbito ter ocorrido antes do advento da Lei 8.213/1991, o artigo 201, V, da Lei Maior tem aplicabilidade imediata e equipara homens e mulheres para efeito de percepção da pensão por morte.
+    Argumentou-se que a legislação vigente à época do óbito do instituidor da pensão não foi recepcionada pela Constituição de 1988.
+    A pretensão recursal merece acolhida.
+    O acórdão recorrido está em dissonância com a jurisprudência desta Corte, que, ao julgar caso similar (RE 385.397-AgR/MG, Rel. Min. Sepúlveda Pertence, Plenário), assentou ser inconstitucional, por afrontar o princípio da isonomia, a exigência de que o marido comprove ser inválido para que perceba pensão por morte da mulher. Nesse sentido, cito o RE 585.620-AgR/PE, de minha relatoria, cuja ementa transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PREVIDENCIÁRIO. PENSÃO POR MORTE. CONCESSÃO AO CÔNJUGE VARÃO. EXIGÊNCIA DE COMPROVAÇÃO DE INVALIDEZ. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA. AGRAVO IMPROVIDO. I – A exigência de declaração de invalidez para que o cônjuge varão receba pensão decorrente da morte de sua esposa viola o princípio da isonomia. Precedentes. II – Agravo regimental improvido”.
+    Ressalte-se, ainda, que, como afirmado pela Min. Cármen Lúcia no julgamento do RE 514.436/PE, o princípio da igualdade – fundamento principal do entendimento estabelecido no citado RE 385.397-AgR/MG – também estava presente na Constituição de 1969 (art. 153, § 1º).
+    Por fim, nos termos da jurisprudência deste Tribunal, as normas infraconstitucionais anteriores à Constituição de 1988 e com ela incompatíveis não foram recepcionadas e, dessa forma, estão revogadas.
+    Isso posto, conheço do recurso extraordinário e lhe dou provimento (CPC, art. 557, § 1º-A). Honorários a serem fixados pelo Juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
