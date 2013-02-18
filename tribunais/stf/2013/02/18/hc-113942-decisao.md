@@ -1,0 +1,27 @@
+DECISÃO
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Edson Rios contra decisão colegiada do Superior Tribunal de Justiça, que, nos autos do HC 225.474/MS, denegou a ordem pleiteada.
+    O paciente foi preso em flagrante, em 24.7.2011, pela prática do crime tipificado no art. 33 da Lei 11.343/06, quando transportava, no veículo em que se encontrava, 1 (uma) tonelada de maconha. O pedido de liberdade provisória foi indeferido pelo magistrado de primeiro grau.
+    A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado do Mato Grosso do Sul, que, ao fundamento da necessidade de manutenção da segregação cautelar do paciente, denegou a ordem pleiteada.
+    Contra esta decisão, impetrou-se o referido writ perante o Superior Tribunal de Justiça com o objetivo de revogar a prisão preventiva ou de aplicar medida cautelar diversa da constrição física. A ordem foi denegada em 24.4.2012.
+    No presente habeas, argumenta a Impetrante, em síntese: a) falta de fundamentação idônea da decisão que manteve a prisão preventiva; b) ausência dos pressupostos autorizadores da segregação cautelar; c) possibilidade de adoção de outras medidas restritivas além da prisão processual; e d) circunstâncias favoráveis, como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+    Requer, em medida liminar e no mérito, a concessão da ordem para que o paciente possa aguardar em liberdade o julgamento da ação penal de origem.
+    Indeferi o pedido liminar em 28.6.2012.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opinou pelo não conhecimento do writ e, se conhecido, pela denegação da ordem.
+    É o relatório.
+    Decido.
+     Solicitei informações ao Juiz de Direito da Vara Criminal da Comarca de Ponta Porã, que informou a prolação de sentença, condenando o acusado a 9 (nove) anos e 6 (seis) meses de reclusão, no regime fechado, e ao pagamento de 940 (novecentos e quarenta dias-multa) pela prática do crime de tráfico de drogas (artigo 33, caput, da Lei 11.343/06).
+    Com a sentença, houve alteração do título prisional, a desafiar nova impetração. Nesse sentido, vários são os precedentes desta Turma:
+    “A superveniência de sentença condenatória na qual o Juízo aprecia e mantém a prisão cautelar anteriormente decretada, implica a mudança do título da prisão e prejudica o conhecimento de habeas corpus impetrado contra a prisão antes do julgamento” (HC 103.817/MG – 1ª Turma – Rel. Min. Rosa Weber – un. – j. 15.5.2012).
+    “A superveniência de sentença penal condenatória com novo fundamento para a manutenção da prisão cautelar constitui novo título prisional, diverso, portanto, da prisão preventiva. Prejuízo da presente impetração” (HC 104.721/MG 1ª Turma do STF - Rel. para acórdão Min. Dias Toffoli - por maioria j. 07.02.2012).
+    “A superveniência de sentença penal condenatória com novo fundamento para a manutenção da prisão constitui novo título prisional, cuja apreciação não pode ser inaugurada neste Supremo Tribunal” (HC 104.862/SC 1ª Turma do STF Rel. Min. Carmen Lúcia un. - j. 24.5.2011).
+    Havendo sentença condenatória, ainda que sem notícia do trânsito em julgado, ante a precária instrução do writ, não há como negar a presença dos pressupostos da preventiva: prova da autoria e da materialidade.
+    Com efeito, não há aqui apenas um juízo de cognição provisória e sumária acerca da responsabilidade criminal do acusado. Há um julgamento condenatório, precedido por amplo contraditório e no qual as provas foram avaliadas por um órgão judiciário imparcial, vale dizer, um juízo efetuado com base em cognição exaustiva de que o condenado é culpado de um crime. Para concluir pela responsabilidade criminal, foi reconhecida pelo julgador a quo a presença de prova acima de qualquer dúvida razoável. Ainda que a sentença esteja sujeita à reavaliação crítica através de recursos, a situação difere da prisão preventiva decretada antes do julgamento.
+    Embora prevaleça, nesta Suprema Corte, o entendimento de que o princípio da presunção de inocência tem aplicação até o trânsito em julgado da ação penal (HC 84.078 Plenário Rel. Min. Eros Grau por maioria j. 05.02.2009 Dje-035, de 25.02.2010), é forçoso reconhecer que a força do princípio se atenua depois de um julgamento, ainda que não definitivo.
+    Tendo, portanto, em conta a substituição do título prisional e do ato coator, a ensejar, se for o caso, nova impetração, prejudicado resta este writ.
+    Ainda que assim não fosse, no tocante aos fundamentos da prisão preventiva, o magistrado, ao indeferir o pedido de liberdade provisória, destacou a necessidade da constrição para garantia da lei penal, ante o risco de fuga para outro país pela proximidade da fronteira.
+    Além disso, como fundamentado na sentença condenatória, a quantidade de droga apreendida – mais de uma tonelada de maconha – e “toda a logística e o modo empregado e orquestrado” indicam a dedicação do acusado e codenunciados à atividade criminosa organizada, o que se afigura fundamento suficiente para decretar a prisão preventiva, pelo risco de reiteração criminosa e, por conseguinte, à ordem pública. Encontra-se, presente, portanto, fundamento para a decretação da preventiva do art. 312 do Código de Processo Penal.
+    Ante o exposto, pela substituição do título prisional, nego seguimento ao feito (RISTF, art. 21, §1º).
+    Publique-se. Arquivem-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
