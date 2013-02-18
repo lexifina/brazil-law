@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO. TRIBUTÁRIO. MANDADO DE SEGURANÇA PREVENTIVO. CABIMENTO. APLICAÇÃO DA TAXA SELIC. DÉBITOS A SEREM COMPENSADOS.
+    Presente o receio de a impetrante ser autuada na hipótese de efetuar a compensação nos moldes que entende corretos: amortizar o valor a compensar sem qualquer atualização ou acréscimo legal, desde que não constituída em mora, ou, na sua interpretação da norma expedida pela Administração, sem retroagir o valor do débito ao mês em que se deu o fato gerador do crédito.
+    Os artigos 28 e 51 da IN nº 460/04 - cujas regras subsistiram nos artigos 28 e 52 da IN nº 600/05 - não autorizam ao Fisco aplicar a taxa Selic antes do vencimento do débito a ser compensado, e nem isso afirmou a autoridade fazendária na resposta à consulta formulada pela contribuinte” (fl. 291 do e-STJ).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II, e 150, I, da mesma Carta, bem como ao princípio da segurança jurídica.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem assentou que:
+    “(...) os dispositivos em destaque não autorizam ao Fisco - e jamais poderiam fazê-lo - aplicar a taxa Selic (correção mais juros remuneratórios) antes do vencimento do débito a ser compensado. E nem isso foi afirmado pela autoridade administrativa em momento algum da consulta.
+    Tudo indica que o receio da impetrante decorre de interpretação equivocada do conteúdo da Instrução Normativa, como se esta estivesse a contrariar comando de Lei.
+    O magistrado de primeira instância bem resolveu a questão ao afirmar que '[...] a impetrante pugna pela não atualização dos débitos tributários ainda não vencidos, e que serão objeto de compensação. Ora, por óbvio que a incidência dos acréscimos legais somente ocorre naqueles débitos já vencidos e não pagos. Nos débitos vincendos, até a última data para pagamento, nenhum acréscimo legal incide sobre o valor do tributo. Simplesmente não há mora'” (grifos no original, fls. 288-289 do e-STJ).
+    Por sua vez, os argumentos da recorrente podem ser sintetizados pelas seguintes passagens das razões recursais:
+    “(...) previsão de reposição monetária, em nenhum momento, se refere aos débitos apurados mensalmente (valores a compensar), exceto se recolhidos ou declarados em atraso.
+    (…) a recorrente traz a baila o fato de que, sob a ótica do fisco, o termo inicial para a ocorrência desta incidência não é o vencimento do tributo, mas sim o mesmo mês em que se deu o fato gerador do crédito.
+    (…) a Sentença de primeiro grau, mantida pelo Tribunal a quo, sequer se manifestou sobre o ponto, mesmo suscitado por meio dos competentes Aclaratórios, percebe-se, a todo vista, afronta direta ao princípio constitucional da legalidade, previsto no art. 5º, II da CF/88, bem como o da estrita legalidade tributária , disposto no art. 150, I, também da CF/88 e no art. 99 do CTN. Primeiro, porque os atos normativos em tela não prevêem a atualização preconizada pela Autoridade Coatora. Segundo, porque, mesmo que previssem, não poderiam assim dispor, por estarem criando deveres – de forma indireta – aos contribuintes, sem a devida previsão legal” (grifos no original, fls. 334 e 338).
+    Observo que as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na sua fundamentação. Inadmissível o recurso, nos termos da Súmula 284 do STF.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Tributário Nacional, Leis 9.250/1995 e 9.430/1996, Lei 9.249/1995 e Instruções Normativas 460/2004 e 600/2005). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àqueles diplomas legais pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    Ressalto, por fim, que este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada à norma infraconstitucional pelo Tribunal de origem (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
