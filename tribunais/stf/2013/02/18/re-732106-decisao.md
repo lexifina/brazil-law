@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “DIREITO PREVIDENCIÁRIO. RECURSO INOMINADO. ALEGAÇÃO DE AUSÊNCIA DE ESPECIALIDADE DO PERITO JUDICIAL NA ÁREA DE ORTOPEDIA. NÃO ACOLHIMENTO. MÉDICO DO TRABALHO. FALTA DE INTIMAÇÃO PARA SE MANIFESTAR SOBRE O LAUDO PERICIAL ANTES DA PROLAÇÃO DA SENTENÇA. ENUNCIADO 84 DO FONAJEF. RESTABELECIMENTO DE AUXÍLIO-DOENÇA. PROTUSÃO DISCAL LOMBAR NÍVEIS L3-L4 E L4-L5 E HÉRNIA DISCAL LOMBAR NO NÍVEL L5-S1. LAUDO PERICIAL DESFAVORÁVEL. AUSÊNCIA DE INCAPACIDADE. INEXISTÊNCIA DE PROVAS QUE INFIRMEM O LAUDO. NÃO CONCESSÃO DO BENEFÍCIO. IMPROVIMENTO DO RECURSO.
+    - Não há em que se falar em nulidade da sentença por falta de intimação da parte autora para se manifestar sobre o laudo pericial antes de sua prolação, consoante Enunciado 84 do FONAJEF, nem por ter a perícia sido realizada por médico não especialista no problema de saúde em questão, uma vez que a perícia médica foi realizada por profissional especialista em Medicina do Trabalho pela AMB-Associação Médica Brasileira e ANAMT-Associação Nacional de Medicina do Trabalho, com elementos de convencimento que garantem idoneidade à citada prova judicial. Nulidade afastada.
+    - O auxílio-doença é devido ao segurado que, havendo cumprido o período de carência exigível legalmente, ficar incapacitado para seu trabalho ou atividade habitual por mais de quinze dias consecutivos.
+    - Laudo médico que, conquanto reconheça ser o segurado portador de protusão e hérnia discal é categórico em concluir pela ausência de incapacidade para o exercício de sua profissão de agricultor. Frise-se que o laudo não vincula a convicção judicial, contudo, considerando que não há nos autos outros documentos capazes de infirmar a conclusão pericial, ele constitui ferramenta fundamental para reconhecer a existência de incapacidade.
+    - Sentença mantida pelos seus próprios fundamentos.
+    - Improvimento do recurso”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 1º, III, 5º, LV, e 194 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O Tribunal a quo manteve os fundamentos da sentença que transcrevo a seguir:
+    “No caso em tela, o ponto controvertido reside em saber se a parte autora está incapacitada para o trabalho e, em caso positivo, se tal incapacidade é permanente ou temporária.
+    Analisando os autos, verifica-se que, de acordo com o laudo pericial elaborado por perito designado por este Juízo, não se apurou incapacidade laborativa temporária ou definitiva no demandante, a ensejar o restabelecimento do auxílio doença requestado, a despeito de ser portador de desidratação degenerativa de discos intervertebrais lombares, protusão discal lombar aos níveis L3-L4 e L4-L5 e hérnia discal lombar ao nível L5-S1.
+    Desta feita, acolho o referido laudo por não existirem outros elementos capazes de afastar a conclusão pericial.
+    Sendo assim, considerando a inexistência de incapacidade, requisito indispensável para a concessão do benefício requestado, a parte autora não faz jus ao pedido postulado na inicial”.
+    Desse modo, verifico que, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Ressalta-se, ademais, que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
