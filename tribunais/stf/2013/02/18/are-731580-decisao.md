@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NA APELAÇÃO CÍVEL. INDENIZAÇÃO. CONTRATAÇÃO TARDIA. INVALIDAÇÃO DE EXAME PSICOTÉCNICO. PERCEPÇÃO RETROATIVA DE VENCIMENTOS. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+    1) O Colendo Superior Tribunal de Justiça já se manifestou no sentido de que o ato que obsta a nomeação de candidato aprovado em processo seletivo, mesmo que posteriormente seja considerado ilegal, não gera direito à indenização por danos morais.
+    2) De igual forma, não há como reconhecer o direito a dano material, uma vez que o fato de ter sido concedido à parte o reingresso ao certame não lhe garante aprovação nas outras fases do processo seletivo, assim como não lhe assegura a imediata contratação.
+    3) Ademais, somente a partir da contratação e efetivo exercício da atividade profissional que os direitos trabalhistas surtirão efeito e haverá a consequente contraprestação pelo trabalho desempenhado.
+    4) Por fim, a obtenção de provimento judicial para continuação em certame não enseja direito ao recebimento de vencimentos retroativos (Precedentes).
+    (...)”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, III e IV, 5º, V, e 37, II, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, preliminarmente, destaco que os arts. 1º, III e IV, e 37, II, apontados como violados, não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    No tocante ao art. 5º, V, da Constituição, melhor sorte não assiste ao recorrente. É que para se chegar a conclusão contrária à adotada pelo acórdão recorrido quanto à ocorrência, na espécie, de danos materiais e morais indenizáveis necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO CIVIL. danos morais. ADEQUAÇÃO DO MONTANTE INDENIZATÓRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO.
+    I - A apreciação do recurso extraordinário, no que concerne ao dano moral e ao seu respectivo valor, encontra óbice na Súmula 279 do STF. Precedentes.
+    II - Agravo regimental improvido (AI 835.478-AgR/RS, de minha relatoria, Primeira Turma).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA À CARACTERIZAÇÃO DE danos morais E À ADEQUAÇÃO DO MONTANTE INDENIZATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. 1. Caso em que entendimento diverso do adotado pela Instância Judicante de origem demandaria o revolvimento dos fatos e provas constantes dos autos. Providência vedada nesta via processual do recurso extraordinário, a teor da Súmula 279 do STF. 2. Agravo regimental desprovido (RE 602.233-AgR/DF, Rel. Min. Ayres Britto, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
