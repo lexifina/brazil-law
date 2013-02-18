@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra julgado da Vigésima Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul, que decidiu:
+    “AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. COMPENSAÇÃO COM CRÉDITO DA FAZENDA PÚBLICA. Em conformidade com o disposto no artigo 100, § 9º, da Constituição Federal, é possível a compensação, mediante abatimento de valores correspondentes a débitos líquidos e certos, inscritos ou não em dívida ativa, constituídos contra o credor original pela Fazenda Pública. Entretanto, sendo o crédito do exequente de natureza alimentar, ou seja, referente à contribuição previdenciária incidente sobre o salário, o que aumenta a base salarial, isso afasta a possiblidade de compensação com crédito decorrente de fiança de titularidade da Fazenda Pública. AGRAVO DE INSTRUMENTO DESPROVIDO” (fl. 73).
+    2. O Recorrente alega que o Tribunal a quo teria contrariado os §§ 9º e 10 do art. 100 da Constituição da República.
+    Argumenta que:
+    “Nos termos do art. 100, §§ 9º e 10, da Constituição Federal, o agravante requereu a compensação do valor a ser pago no precatório objeto do presente processo com débito existente em nome do coautor Francisco Guterres, decorrente do inadimplemento do contrato de abertura de crédito educativo por ele firmado com o Banrisul, na condição de fiador e principal pagador.
+    Dito débito é objeto de ação monitória, tombada sob o n. 039/10800069090, em trâmite na 1ª Vara Cível de Viamão/RS, e perfazia a quantia de R$ 37.610,56, 16/09/2010. O processo, como já referido no agravo de instrumento interposto, encontra-se na fase de citação do ora agravado.
+    Da leitura do § 9º, extrai-se que são condições para a compensação: a) tratar-se de débito ‘líquido e certo’, incluídas parcelas vincendas de parcelamentos, ressalvados aqueles cuja execução esteja suspensa em virtude de contestação administrativa ou judicial; b) inscrito ou não em dívida ativa; e c) constituído contra o credor original pela Fazenda Pública devedora.
+    Veja-se que, no caso em tela, o débito compensável não está inscrito na dívida ativa (trata-se de fiança em Instrumento Particular de Confissão de Dívida da extinta Caixa Econômica Estadual, sucedida pelo ERGS), é líquido e certo, bem como foi constituído contra o credor original pela Fazenda Pública devedora.
+    Portanto, equivocada a decisão proferida, ao afastar a compensação constitucionalmente prevista sob a alegação de que o crédito, por sua natureza alimentar, não comportaria a compensação pretendida.
+    (...)
+    Ademais, não se pode olvidar da aplicação do artigo 368 do Código de Processo Civil, o qual estatui que ‘se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas obrigações extinguem-se, até onde se compensarem’” (fls. 86-88).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    3. Razão jurídica não assiste ao Recorrente.
+    Registre-se, inicialmente, que a controvérsia posta neste recurso não guarda pertinência com a questão constitucional trazida no Recurso Extraordinário n. 678.360, Relator o Ministro Luiz Fux, cuja repercussão geral foi reconhecida por este Supremo Tribunal.
+    No Recurso Extraordinário n. 678.360, a discussão versa sobre a constitucionalidade dos §§ 9º e 10 do art. 100 da Constituição da República, o que não se dá na espécie vertente. Neste autos, a controvérsia cinge-se, exclusivamente, à possibilidade de a Fazenda Pública compensar débito de contribuinte com crédito de natureza alimentar, ao qual este faz jus.
+    4. A Desembargadora Relatora do caso na Vigésima Quinta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul observou:
+    “a decisão agravada não acolheu o pedido de compensação do crédito contra o agravado/exequente com os débitos mantidos pelo ele junto à Fazenda Pública Estadual, nos termos dos §§ 9º e 10 do artigo 100 da Constituição Federal.
+    Observando-se a norma disposta no artigo 100, § 9º, da Constituição Federal, efetivamente, afigura-se possível a compensação, mediante abatimento de valores correspondentes a débitos líquidos e certos, inscritos ou não em dívida ativa, constituídos contra o credor original pela Fazenda Pública: (...).
+    No entanto, no caso dos autos, o crédito do agravado/exequente é derivado de condenação à repetição do desconto previdenciário incidente sobre o salário, ou seja, é de natureza alimentar, o que afasta a possibilidade de compensação com crédito (dívida proveniente de fiança prestada junto à Caixa Econômica Estadual) de titularidade da Fazenda Pública” (fls. 74-74 v. – grifos nossos).
+    Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame de prova constante dos autos, inviável em recurso extraordinário, nos termos do que dispõe a Súmula n. 279 deste Supremo Tribunal.
+    5. O novo exame do julgado impugnado exigiria, ainda, a análise prévia da legislação infraconstitucional aplicada à espécie (caput do art. 170 do Código Tributário Nacional). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “TRIBUTÁRIO E CONSTITUCIONAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. COFINS. LEI N. 9.718/98. COMPENSAÇÃO DOS VALORES RECOLHIDOS A MAIOR. MATÉRIA INFRACONSTITUCIONAL. 1. A compensação dos valores recolhidos indevidamente com outros tributos, bem como a incidência da prescrição, aplicação de correção monetária e juros de mora são questões de nítida natureza infraconstitucional. Incompatibilidade com a via extraordinária. Questões a serem dirimidas nas instâncias ordinárias. 2. Embargos de declaração acolhidos sem modificação do julgado” (RE 387.316-AgR-ED-ED, Rel. Min. Ellen Gracie, Segunda Turma, DJe 18.12.2009).
+    Nada há a prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
