@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – Embargos a EXECUÇÃO FISCAL – ITBI – Município de São Paulo – Imóveis incorporados ao capital social da sociedade – Pretensão à imunidade tributária do art. 156, §2º, I, CF – Não cabimento, pois segundo apurado em processo administrativo e no contrato social a empresa teve como atividade preponderante a locação de bens imóveis, o que afasta a benesse fiscal – RECURSO IMPROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, alega que possui direito à imunidade disciplinada no art. 156, § 2°, I, da CF/88.
+    Decido.
+    A irresignação não merece prosperar.
+    Verifico que o tribunal a quo decidiu a lide consignando que:
+     “Ocorre que, como pode ser percebido no final do referido inciso, ficou estabelecido que o beneficiário da imunidade tributária não pode ter como atividade preponderante a compra e venda de bens imóveis, o que é o caso da empresa executada.
+    É que, segundo o contrato social e suas alterações de fls. 13/ss, especificamente às fls. 24 pode ser constatado que um dos objetos sociais da empresa executada é a mediação, procuradoria e administração em operações sobre bens móveis e imóveis, por conta de terceiros e, dessa forma, não pode ser contemplada com a imunidade referida no art. 156, § 2º, I, Constituição Federal.
+    (...)
+    Ademais, às fls. 413 do apenso há parecer do Inspetor Fiscal informando a constatação de que a atividade preponderante da empresa executada, nos exercícios de 1001 a 1994, foi a imobiliária, representando 59% de suas receitas; razão pela qual não faz jus ao reconhecimento da imunidade no recolhimento do ITBI. Nesse mesmo parecer pode-se verificar a composição de receitas da executada, tendo na atividade de locação auferido maior receita.”
+    Por sua vez, aduz a recorrente que “os pontos nevrálgicos do presente recurso encontram-se no fato de que o acórdão guerreado, ao invés de adotar o critério previsto no artigo 37 do Código Tributário nacional para verificar se a atividade preponderante da RECORRENTE era a imobiliária e não a de venda de produtos, ratificou método externado na sentença de primeiro grau, a qual, por sua vez, baseou-se no equivocado texto de cálculo de fls. 413 do procedimento administrativo.”
+    Como visto, para ultrapassar o entendimento adotado no acórdão recorrido seria necessário o reexame do conjunto fático-probatório constante nos autos, o que é incabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS A QUALQUER TÍTULO DE BENS IMÓVEIS E DE DIREITOS REAIS SOBRE IMÓVEIS. IMUNIDADE. TRANSFERÊNCIA DE BENS PARA INTEGRALIZAÇÃO DE CAPITAL DE PESSOA JURÍDICA. SUPOSTA AUSÊNCIA DE ATIVIDADE ECONÔMICA. EFEITOS. NECESSIDADE DE REABERTURA DA INSTRUÇÃO PROBATÓRIA. ART. 156, II DA CONSTITUIÇÃO Nos termos da Constituição e da legislação de regência, as autoridades fiscais não podem partir de presunções inadmissíveis em matéria tributária, nem impor ao contribuinte dever probatório inexequível, demasiadamente oneroso ou desnecessário. As mesmas balizas são aplicáveis ao controle jurisdicional do crédito tributário. Para reverter as conclusões a que chegou o Tribunal de origem acerca da invalidade de cobrança do ITBI, seria necessário reabrir a instrução probatória, com o objetivo de apurar a suposta falta de atividade econômica da pessoa jurídica que recebeu os bens, bem como para confirmar o intuito de desviar ilicitamente a finalidade da proteção constitucional (Súmula 279/STF). Agravo regimental ao qual se nega provimento” (ARE nº 660.434/RS-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 20/3/12) (grifo nosso).
+    “CONSTITUCIONAL. TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA SOBRE OS REQUISITOS NECESSÁRIOS À CONCESSÃO DA IMUNIDADE TRIBUTÁRIA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – Para acolher a pretensão do agravante quanto à exclusão da imunidade tributária reconhecia à entidade de previdência, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II - Agravo improvido” (AI nº 632.223/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/11/10).
+    No mesmo sentido, a seguinte decisão monocrática: AI nº 847.536/MG, Relator o Ministro Luiz Fux, DJe de 06/9/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
