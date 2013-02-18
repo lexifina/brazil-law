@@ -1,0 +1,19 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa destaco:
+    “DIREITO ADMINISTRATIVO. RECURSO INOMINADO. PROCURADOR FEDERAL. AJUDA DE CUSTO. REMOÇÃO A PEDIDO. LEI Nº 8.112/90. CONCESSÃO. INTERESSE PÚBLICO CONFIGURADO. PRECEDENTES. CÁLCULO DA AJUDA DE CUSTO. AUXÍLIO-ALIMENTAÇÃO NÃO PODE COMPOR A BASE DE CÁLCULO PARA AJUDA DE CUSTO. CÁLCULO DO JUÍZO EQUIVOCADO. RECURSO INOMINADO PARCIALMENTE PROVIDO.
+    - Insurge-se o recorrente contra a sentença que deferiu o pagamento de ajuda de custo a servidor da Receita Federal por remoção com mudança de sede. Argumenta a recorrente que a remoção se deu a pedido do autor e que a remoção realizada a pedido não enseja direito à ajuda de custo em epígrafe. E, por fim, ataca a inclusão da verba de auxílio-alimentação para cálculo da ajuda de custo.
+    - Por sua vez, a Lei nº 8.112/90, em seu art. 53, caput, com a redação dada pela Lei n.º 9.527/97, fixa que a ajuda de custo destina-se a compensar as despesas de instalação do servidor que, no interesse do serviço, passar a ter exercício em nova sede, com mudança de domicílio em caráter permanente, vedado o duplo pagamento de indenização, a qualquer tempo, no caso de o cônjuge ou companheiro que detenha também a condição de servidor, vier a ter exercício na mesma sede.
+    - A remoção a pedido se dá no interesse do serviço público e em razão da necessidade em preencher os cargos vagos oferecidos pela Administração nas localidades indicadas no edital de abertura de concurso de remoção. A remoção a pedido ocorrerá sempre no interesse do serviço como condicionante do ato.
+    Assim o ato administrativo tem com validade o próprio interesse público, de modo que o interesse particular poderá ser apenas concorrente e não prevalente ou isolado, como quer fazer crer a recorrente.
+    (...)
+    - A Lei nº 8.112/90, art. 54, estabelece que a ajuda de custo é calculada sobre a remuneração do servidor, conforme se dispuser em regulamento, não podendo exceder a importância correspondente a 3 (três) meses. O Decreto nº 4.004/01, que dispõe sobre a concessão de ajuda de custo aos servidores públicos civis da União, das autarquias e das fundações públicas federais, determina, em seu art. 2º, que o valor da ajuda de custo será calculado com base na remuneração de origem, percebida pelo servidor no mês em que ocorrer o deslocamento para a nova sede. Como o auxílio-alimentação é uma verba de caráter indenizatório, não deve ser levada como base de cálculo para o pagamento da ajuda de custo, devendo o cálculo homologado pelo Juízo ser refeito.
+    - A decisão não viola qualquer dispositivo ou princípio constitucional.
+    - Recurso parcialmente provido”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, II, e 37, caput, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão impugnado assentou que o recorrido, por ter preenchido os requisitos legais, faz jus ao recebimento da vantagem pecuniária denominada ajuda de custo. Desse modo, para concluir em sentido diverso, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela Súmula 279 desta Corte, bem como a interpretação da legislação infraconstitucional aplicável à espécie (Lei 8.112/90 e Decreto 4.004/2001), sendo certo que eventual ofensa à Constituição seria meramente indireta. Nesse sentido, cito os seguintes precedentes: ARE 703.029/AL, Rel. Min. Cármen Lúcia, e RE 724.338/MG, Rel. Min. Rosa Weber.
+    Ademais, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
