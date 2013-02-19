@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por Ricardo Gouveia Pires e outro, em favor de EMERSON LEITE VICENTE, contra suposta demora no julgamento de mérito do HC 216.693/SP do Superior Tribunal de Justiça, Rel. Min. Adilson Vieira Macabu (Desembargador convocado do TJ/RJ).
+    Consta dos autos que o paciente está sendo processado, com outras quatro pessoas ainda não identificadas, pela suposta prática do crime de roubo qualificado (art. 157, § 2º, II e V, do CP), por duas vezes, em concurso formal (art. 70 do CP), porque, em 14/4/2010, teria subtraído, por meio de ameaça e com restrição à liberdade de duas vítimas, R$ 70,00 em dinheiro pertencentes a uma delas, uma chave da porta de entrada do CIRETRAN de Sorocaba, 2.296 Certificados de Registro de Veículos preenchidos e 1.996 Certificados de Registro e Licenciamento de Veículos em branco, todos de propriedade do Departamento de Trânsito do Estado de São Paulo.
+    Os impetrantes relatam, ainda, que o paciente se encontra preso preventivamente desde 20/10/2011, por força de decisão baseada “tão somente na gravidade abstrata do crime, em completa afronta ao nosso ordenamento pátrio”.
+    Narram, também, que, buscando a revogação da prisão cautelar, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem, e, posteriormente, outro writ no Superior Tribunal de Justiça, mas até o momento o processo não foi julgado.
+    É contra a alegada demora no julgamento de mérito do habeas corpus manejado no STJ que se insurgem os impetrantes.
+    Aduzem, inicialmente, que o feito foi impetrado em 17/8/2011, e desde 28/10/2011 encontra-se concluso ao Relator. Alertam, outrossim, que “o Relator de referido processo é o e. Desembargador convocado Adilson Macabu, que no dia 22 de agosto deixou de integrar o. E. Superior Tribunal de Justiça, razão pela qual referido feito deverá ser redistribuído (...)”.
+    Asseveram, ademais, que,
+    “em que pese o flagrante excesso de prazo para o julgamento do Habeas Corpus em trâmite perante o E. Superior Tribunal de Justiça, não é demais ressaltar que a ordem de prisão é uma medida cautelar, ou seja, deveria ter lugar somente como medida para assegurar a ordem do processo em trâmite perante a Comarca de Sorocaba, o que, com certeza, não se trata na hipótese vertente”.
+    Requerem, ao final, liminarmente, a revogação da prisão preventiva, “confirmando-se a liminar concedida em posterior decisão, considerando que as razões autorizadoras para tanto não existem, mormente pela falta de utilidade e necessidade do uso de referida medida excepcional”, e, alternativamente, “seja concedido salvo conduto ao paciente até que o Habeas Corpus nº 216.693/SP seja julgado (...)”.
+    Em 17/9/2012, indeferi a medida liminar, solicitei informações ao Presidente do Superior Tribunal de Justiça e ao Juízo da 2ª Vara Criminal da Comarca de Sorocaba/SP, bem como determinei, na sequência, fosse ouvido o Procurador-Geral da República.
+    Por meio da Petição/STF 49.543/2012, de 24/9/2012, o impetrante interpôs agravo regimental contra a decisão que indeferiu a medida liminar.
+    O Presidente do STJ prestou informações por meio do Ofício 1.154/GP, de 25/9/2012. O magistrado de primeiro grau, por sua vez, prestou seus esclarecimentos em 17/10/2012.
+    Em 7/2/2013, o Ministro Relator do HC 216.693/SP do Superior Tribunal de Justiça prestou informações complementares por meio do Ofício 9/2013, de 7/2/2013.
+    É o relatório suficiente. Decido.
+    Conforme relatado, o impetrante pretende a concessão da ordem para revogar a prisão preventiva do paciente ou para que seja expedido salvo-conduto até o julgamento de mérito do habeas corpus manejado no Superior Tribunal de Justiça.
+    Nas informações prestadas pelo Ministro Campos Marques, do STJ, Sua Excelência esclarece que a Quinta Turma daquele Tribunal não conheceu do HC 216.693/SP, em acórdão ainda não publicado.
+    Houve, portanto, modificação da situação fático-processual, de modo a tornar esta impetração sem objeto. Qualquer questionamento, agora, deverá ser suscitado a partir do que foi decido naquele julgado, sob pena de supressão de instância nesta Corte.
+    Ante o exposto, julgo prejudicado o habeas corpus e, por consequência, o agravo regimental interposto contra a decisão que indeferiu a medida liminar (art. 21, IX, do RISTF).
+    Publique-se.
+    Brasília, 19 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
