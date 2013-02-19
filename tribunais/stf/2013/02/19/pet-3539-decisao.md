@@ -1,0 +1,11 @@
+Decisão: Trata-se de procedimento instaurado pelo Ministério Público do Estado do Amazonas para apuração de eventual descumprimento, por parte do então Prefeito de Manaus, Alfredo Pereira do Nascimento, da requisição de pagamento feita pelo Tribunal Regional do Trabalho da 11ª Região nos atuos do Processo TRT-Precatório Requisitório PTT-0099/1999.
+    Em janeiro de 2005, o procedimento foi encaminhado à Procuradoria-Geral da República em razão de Alfredo Nascimento exercer o cargo de Ministro dos Transportes. Os autos, todavia, foram devolvidos pela Procuradoria-Geral da República ao Ministério Pública Estadual, por entender ser da competência do juízo de primeira instância o processo e julgamento dos processos alusivos a atos de improbidade administrativa.
+    O Ministério Público Estadual, discordando desse entendimento, determinou a remessa do procedimento a esta Corte para que fosse recebido como notitia criminis, “a fim de que fossem tomadas as providências aplicáveis à espécie, em se tratando de ato de improbidade praticado por Ministro de Estado”(fl. 183).
+    Manifestação do Ministério Público Federal às fls. 211/215, pela devolução dos autos ao Ministério Público Estadual, em razão de Alfredo Nascimento, atual Senador da República, não exercer mais o cargo de Ministro de Estado, bem como pela incompetência desta Corte para o julgamento de ações de improbidade contra membros do Parlamento.
+    O Plenário desta Corte, resolvendo questão de ordem na Petição 3030 QR/RO, rel. Min. Marco Aurélio, j. 23.5.2012, reafirmou a incompetência do STF para o processo e julgamento de parlamentares por atos de improbidade, ante a inconstitucionalidade dos §§ 1º e 2º do artigo 84 do CPP, com a redação da Lei 10.628/02, declarada na ADI 2797 (DJU de 19.12.2006), e modulou os efeitos dessa decisão para conferir-lhe eficácia a partir de 15.9.2005, assegurando-se o aproveitamento dos atos processuais já praticados até o julgamento da referida ação direta.
+    Com essas considerações, declaro a incompetência do STF em relação aos fatos objeto desta Petição, e determino o encaminhamento dos autos ao Procuradoria-Geral de Justiça do Estado do Amazonas.
+    Publique-se. Intimem-se.
+    Brasília, 19 de fevereiro de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
