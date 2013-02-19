@@ -1,0 +1,35 @@
+DECISÃO
+MANDADO DE SEGURANÇA. PROCESSUAL. DECISÃO DE MINISTRO DO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 102, INC. I, ALÍNEA D, DA CONSTITUIÇÃO DA REPÚBLICA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA CONHECER DO MANDADO DE SEGURANÇA. COMPETÊNCIA DECLINADA.
+Relatório
+    1. Mandado de segurança, com pedido de medida liminar, impetrado por Edílson Teodoro Lopes, em 15.2.2013, contra ato do Relator do Agravo Regimental no Agravo Regimental nos Embargos de Divergência em Agravo de Instrumento em Recurso Especial n. 1.240.495/MS e do Órgão Especial do Superior Tribunal de Justiça.
+O caso
+    2. Narra o Impetrante ter sido condenado a seis (06) anos de reclusão, mais quinhentos (500) dias multa, pela prática da conduta tipificada no art. 33, caput, da Lei n. 11.343/2006.
+    Dos documentos juntados aos autos eletrônicos, tem-se que o Tribunal de Justiça de Mato Grosso do Sul julgou improcedente a apelação dirigida contra a sentença condenatória, tendo sido interposto recurso especial, o qual não foi admitido na origem.
+    Contra essa decisão o Impetrante interpôs agravo para o Superior Tribunal de Justiça, não conhecido por falta de peça obrigatória no traslado do instrumento, a saber, a cópia da certidão de intimação do acórdão recorrido.
+    O Impetrante apresentou, então, agravo regimental, suscitando, em resumo, a juntada da peça faltante e a existência de outros elementos nos autos capazes de comprovar a tempestividade do recurso especial.
+    A decisão agravada foi mantida pela Sexta Turma do Superior Tribunal de Justiça, opostos embargos de declaração foram eles rejeitados.
+    Daí a oposição de embargos de divergência, indeferido liminarmente pelo Relator, o Ministro Castro Meira, sob o fundamento da falta de demonstração do dissídio jurisprudencial “por meio do cotejo analítico entre o decisum recorrido e os arestos dissonantes” (DJe 22.2.2012).
+    Essa decisão foi mantida pela Corte Especial do Superior Tribunal de Justiça no julgamento do agravo regimental interposto pelo Impetrante.
+    Irresignado, o Impetrante apresentou novo recurso de agravo regimental, não conhecido pelo Órgão Especial do Superior Tribunal de Justiça sob o fundamento de manifesto descabimento.
+    3. Nesse contexto, foi impetrado o presente mandado de segurança, no qual o Impetrante sustenta a violação a direito líquido e certo, “que seria o conhecimento do [recurso] especial, pois desde o inicio, por conta de uma certidão equivocada do TJ/MS o ora impetrante está no prejuízo, sem concorrer com culpa alguma” (fl. 3).
+    Após reiterar as alegações suscitadas nos diversos recursos julgados no Superior Tribunal de Justiça, requer liminar “para efeito de revogar a decisão que não recebe o agravo de instrumento em recurso especial, mesmo tendo sido claramente verificado que o não recebimento se deu única e exclusivamente por conta de erro de uma certidão emitida por um funcionário do TJ/MS” (fl. 9).
+    No mérito, limita-se a pedir a confirmação da liminar.
+    4. O processo veio-me distribuído por prevenção ao Habeas Corpus n. 98.217 (de minha relatoria, julgado na Primeira Turma deste Supremo Tribunal em 8.9.2009), cujo paciente era o Impetrante.
+    5. Em 15.2.2013, o processo veio-me em conclusão.
+    Examinados os elementos havidos nos autos, DECIDO.
+    6. O presente mandado de segurança não pode ser conhecido por este Supremo Tribunal Federal.
+    O art. 102, inc. I, alínea d, da Constituição da República estabelece as competências do Supremo Tribunal Federal para conhecer de mandado de segurança:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    d) (...) o mandado de segurança e o "habeas-data" contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal”.
+    No rol dos casos subsumidos constitucionalmente à competência originária do Supremo Tribunal não se inclui a atribuição para processar e julgar, originariamente, mandado de segurança em que figure como autoridade coatora Ministro ou órgão colegiado do Superior Tribunal de Justiça.
+    A matéria não admite discussão mínima, por se cuidar de regra de competência constitucional expressa, que não possibilita interpretação extensiva. Nesse sentido:
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ATO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCOMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O impedimento ou a suspeição que autorizam o julgamento da demanda pelo Supremo Tribunal Federal, nos termos do art. 102, inc. I, alínea n, da Constituição da República, pressupõem a manifestação expressa dos membros do Tribunal competente para o julgamento da causa. 2. O Supremo Tribunal Federal não dispõe de competência originária para processar e julgar mandado de segurança impetrado contra ato de outros Tribunais judiciários, ainda que se trate do Superior Tribunal de Justiça. Precedentes. 3. Agravo regimental ao qual se nega provimento” (MS 29.342-AgR, de minha relatoria, Plenário, DJe 4.10.2011, grifos nossos).
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. MANDADO DE SEGURANÇA INTERPOSTO CONTRA ATO DE OUTRO TRIBUNAL. INCOMPETÊNCIA DO STF. SÚMULA 624. AGRAVO IMPROVIDO. I - Não é da competência do Supremo Tribunal Federal, nos termos do art. 102, I, d, da CF, processar e julgar, originariamente, mandado de segurança contra atos de outros Tribunais. II - Agravo regimental improvido” (MS 26.839-AgR/RS, Rel. Min. Ricardo Lewandowski, Plenário, DJ 8.8.2008).
+    Na mesma linha: MS 27.674/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 28.10.2008; MS 27.497/DF, Rel. Min. Ellen Gracie, decisão monocrática, DJ 17.9.2008; MS 27.563/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 16.9.2008; MS 27.494-MC/DF, Rel. Min. Joaquim Barbosa, decisão monocrática, DJ 15.9.2008; MS 27.191-MC/SP, Rel. Min. Eros Grau, decisão monocrática, DJ 17.3.2008; MS 26.558/DF, de minha relatoria, decisão monocrática, DJ 2.5.2007; MS 24.274-AgR/PE, Rel. Min. Celso de Mello, Segunda Turma, DJ 11.5.2007; MS 25.509-AgR/SP, Rel. Min. Sepúlveda Pertence, Plenário, DJ 24.3.2006; e MS 24.193/DF, Rel. Min. Gilmar Mendes, Plenário, DJ 19.3.2004.
+    7. No julgamento dos Embargos de Declaração no Mandado de Segurança n. 25.087/SP, Relator o Ministro Ayres Britto, DJ 11.5.2007, o Plenário deste Supremo Tribunal decidiu que, em caso de não conhecimento do mandado de segurança por incompetência manifesta e de risco de perecimento do direito, há de se encaminharem os autos ao tribunal competente.
+    8. Pelo exposto, não conheço do mandado de segurança e determino a imediata remessa dos autos, com urgência e prioridade, ao Superior Tribunal de Justiça (art. 21, inc. VI, da Lei Complementar n. 35/1979 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), a fim de que seja apreciado o pedido como de direito.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
