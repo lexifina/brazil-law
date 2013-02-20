@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. LESÃO AO ERÁRIO. ENRIQUECIMENTO ILÍCITO. ÔNUS DA PROVA. IMPOSSIBILIDADE DE REEXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “AÇÃO CIVIL PÚBLICA – NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO – INÉPCIA DA INICIAL – LEGITIMIDADE PASSIVA AD CAUSAM – PRESCRIÇÃO – LESÃO AO ERÁRIO DECORRENTE DE FATOS OCORRIDOS ANTES DA LEI Nº 8.429/92 – RESSARCIMENTO SOMENTE MEDIANTE COMPROVAÇÃO DE ENRIQUECIMENTO ILÍTICO DO GESTOR PÚBLICO.
+    (…)
+    A legislação anterior à Lei 8.429/92 determinava o ressarcimento ao erário de despesas criadas pelo Gestor Público no caso de seu comprovado enriquecimento ilícito. Sendo do autor o ônus da prova do fato constitutivo do seu direito, e dele não se desincumbindo, impõe-se a improcedência do seu pedido” (fl. 375, doc. 8).
+    Os embargos de declaração opostos pelo Agravante foram rejeitados.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. LIV, 37, §§ 4º e 5º, e 93, inc. IX, da Constituição da República.
+    Sustenta que “a desconstituição da prova produzida nos autos pelo autor – Ministério Público -, basicamente traduzida na apresentação das conclusões do parecer técnico do Tribunal de Contas, é de responsabilidade do réu, já que se cuida de órgão legitimado pela própria administração a examinar as contas públicas e apresentar conclusões sobre sua regularidade, sendo certo que a tais conclusões são atribuídas certeza e legitimidade ” (fl. 18, doc. 9).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de ausência de ofensa constitucional direta e de incidência da Súmula n. 279 do Supremo Tribunal Federal (fls. 40-43, doc. 9).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. Concluir de forma diversa demandaria a interpretação da legislação infraconstitucional aplicável à espécie (Leis n. 3.164/1957, 3.502/1958, 7.347/1985 e 8.429/1992, Código de Processo Civil, Decreto estadual n. 27.588/1987 e Lei estadual n. 9.444/1987) e a análise do conjunto fático-probatório constante do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Improbidade administrativa. 4. O Tribunal de origem concluiu pela inexistência de dolo ou má-fé do agente público e, por conseguinte, não configuração de ato de improbidade administrativa (art. 11 da Lei 8.429/92). Necessidade do revolvimento do conjunto fático-probatório. Óbice da Súmula 279. 5. Alegação de aplicação do art. 11 da Lei 8.429/92 ao caso. Discussão de índole infraconstitucional. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento” (RE 589.784-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 17.8.2012).
+    “A controvérsia sobre a aplicação cumulativa das sanções previstas no art. 12, II, da Lei nº 8.429/97, cominadas para o ato de improbidade em que incorreu os agravados é de índole infraconstitucional, por isso que eventual ofensa à Constituição deu-se de forma indireta, circunstância que inviabiliza a admissão do recurso extraordinário. 4. Agravo regimental desprovido” (RE 607.679-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 28.6.2011).
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. 1. APLICAÇÃO DA MULTA PREVISTA NO ART. 12 DA LEI N. 8.429/1992. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA” (AI 545.466-ED, de minha relatoria, Primeira Turma, DJe 20.6.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
