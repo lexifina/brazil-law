@@ -1,0 +1,13 @@
+AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. REVISÃO DE RENDA MENSAL DE BENEFÍCIO. SALÁRIO DE CONTRIBUIÇÃO. MESES DE JUNHO/1999 E MAIO DE 2004. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. PLENÁRIO VIRTUAL. TEMA 589. ARE Nº 685.029-RG.
+    Decisão: Trata-se de agravo de instrumento interposto contra decisão que negou seguimento ao apelo extremo em que se discute a revisão de renda mensal de benefício previdenciário mediante aplicação dos mesmos índices utilizados para reajuste do teto do salário de contribuição, relativamente aos meses de junho de 1999 e maio de 2004.
+    O Supremo Tribunal Federal, ao apreciar o ARE nº 685.029, da relatoria do Ministro Cezar Peluso, no Plenário Virtual, rejeitou a repercussão geral da matéria, sob o fundamento de que a controvérsia restringe-se à análise da legislação infraconstitucional pertinente. Na oportunidade, a decisão restou assim fundamentada:
+    “ (…)
+    A matéria suscitada no recurso extraordinário versa sobre a adoção, para fins de revisão da renda mensal de benefício previdenciário, dos mesmos índices aplicados para o reajuste do teto do salário-de-contribuição, relativamente aos meses de junho de 1999 (Portaria nº 5.188/99) e maio de 2004 (Decreto nº 5.061/04), conforme o disposto nas Emendas Constitucionais nº 20/98 e nº 41/2003.
+    Verifico, no entanto, que o acórdão impugnado, ao confirmar os termos da sentença, decidiu a causa com base apenas na interpretação e aplicação da legislação infraconstitucional pertinente (Leis n.º 8.212/1991 e nº 8.213/1991), de modo que eventual ofensa à Constituição Federal seria, aqui, apenas indireta.
+    Ademais, é assente o entendimento de que o debate em torno do índice utilizado para o reajuste de benefícios previdenciários depende de exame da legislação infraconstitucional, pois [...] os critérios informadores do reajustamento dos benefícios previdenciários hão de ser aqueles resultantes da lei, segundo prescreve a própria Constituição da República, em seu art. 201, § 4º (antigo § 2º), na redação dada pela EC nº 20/98 (cf. ARE nº 648.039, Rel. Min. CELSO DE MELLO, DJe 9.11.2011. No mesmo sentido: ARE nº 648.042-AgRg, Rel. Min. CELSO DE MELLO, DJe 23.04.2012; ARE nº 648.037-AgRg, Rel. Min. LUIZ FUX, DJe 06.06.2012; RE nº 537.616-AgRg, Rel. Min. DIAS TOFFOLI, Dje 03.02.2012; e AI nº 543.804-AgRg, Rel. Min. ELLEN GRACIE, DJe 15.04.2010).”
+    Ante a similitude do tema citado, com a controvérsia objeto dos presentes autos, NEGO SEGUIMENTO ao agravo de instrumento, com fundamento no art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 20 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
