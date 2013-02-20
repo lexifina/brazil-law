@@ -1,0 +1,15 @@
+Decisão: Trata-se de Reclamação, com pedido liminar, com fulcro no art. 102, I, “l”, da CF/88, artigos 156 e seguintes do RISTF, bem como nos artigos 13 e seguintes da Lei 8.038/90 e na súmula n.º 727 deste C. STF contra a Excelentíssima Ministra Vice-Presidente do TST.
+    Alega a Reclamante que foi negado seguimento ao Recurso sob o argumento de não ser admissível, tendo em vista a decisão deste E. Supremo Tribunal Federal que, no julgamento do RE nº 598.365/MG, reconheceu a inexistência de repercussão geral das questões atinentes a pressupostos de admissibilidade de recursos.
+    Em razão do referido despacho, interpôs o recurso de Agravo com fulcro no artigo 313, inciso II, do Regimento Interno do Supremo Tribunal Federal (RISTF) c/c com o artigo 269, caput, do Regimento Interno desse C. Tribunal Superior do Trabalho, e ainda, com os artigos 897, alínea “b”, da CLT, e 544 e ss. do Código de Processo Civil, ao qual foi negado provimento, por entender o C. Órgão Especial do TST ser infundado o Agravo interposto pelo Reclamante, aplicando-lhe ainda multa de 10% sobre o valor corrigido da causa.
+    Aduz usurpação de competência desta Corte Suprema por reiteradas ofensas literais e diretas aos preceitos Constitucionais (artigos 5º, II, XXII, XXIII, XXX, XXXV, LIV, LV, 93, IX da Constituição Federal) e de preceitos de ordem legal e pública (artigos 770, 775, parágrafo único, 776 e 897, todos da CLT).
+    É o relatório. Decido.
+    A questão sub judice não possui repercussão geral. Além de envolver análise de questões fáticas, tais como regularidade da intimação da penhora, ausência de comprovação de bem de família, valor vil da arrematação, entre outros, afronta indiretamente a Constituição Federal, o que se dá por intermediação de normas de cunho processual.
+    A repercussão geral é requisito de admissibilidade, por força dos arts. 102, § 3º, CF, 543-A, do CPC e 326, do RISTF, nesta toada, inviável a apreciação da presente reclamação.
+    Isso porque a admissibilidade do recurso, em face do qual fora interposto agravo, demanda, em última ratio, análise de requisito de admissibilidade, disciplinado pela legislação processual ordinária, sendo correto o despacho que negou seu seguimento, em razão da identidade da matéria versada no acórdão impugnado com a analisada nos autos do RE n. 598.365 RG/MG, verbis:
+    PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso elemento de configuração da própria repercussão geral, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+    Face ao exposto, nego seguimento à reclamação, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 20 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
