@@ -1,0 +1,16 @@
+Decisão: Trata-se de Reclamação, com base no art. 102, I, “l”, e art. 103-A, § 3º, ambos da CF/88 e arts. 156 a 162, do Regimento Interno do STF, com pedido de medida liminar, em face de ato proferido por Excelentíssimo Relator da 3ª Turma do TRF da 4ª Região, que nos autos do processo eletrônico (Apelação cível nº 5000314-03.2011.404.7120) teria violado a autoridade da súmula vinculante nº 10 do STF, art. 5º, LV da CF/88, súmula nº 281 do STF e precedente que julgou a lei da “Ficha Limpa” - Agravo Regimental no Recurso Extraordinário nº 636359.
+    Alegam os reclamantes que no “evento 15” do processo eletrônico, exatamente dia 23/01/2012, os mesmos foram intimados oficialmente do julgamento dos Embargos de Declaração prequestionadores de matéria federal para futura interposição de Recurso Extraordinário.
+    Aduzem que o Reclamado, no julgamento dos Embargos de Declaração, atendendo orientação da súmula 282 do STF e 356 do STF, deu por prequestionadas todas as questões federais suscitadas, iniciando-se no dia 24/01/2012 (intimação eletrônica da decisão dos embargos prequestionadores) a contagem do único prazo recursal cabível: Recurso Extraordinário.
+    Argumentam que, atento à presunção de constitucionalidade das normas constitucionais, seguindo jurisprudência do TRF da 4ª Região e Recurso Repetitivo do STJ - Resp nº 1.123.539/RS, o Reclamado, em decisão monocrática, defendeu a constitucionalidade da MP nº 2.196-3/01 e, acertadamente, não submeteu o processo aos trâmites regimentais e processuais da reserva de plenário (conforme art. 97, CF/88 e súmula vinculante nº 10 do STF), o que se coadunaria com a orientação do STF, conforme relatado no julgamento do precedente - lei da “Ficha Limpa” - Agravo Regimental no Recurso Extraordinário nº 636359, desta relatoria.
+    Assim, segundo os reclamantes, não era hipótese de manejar Agravo Regimental (como aparentemente consta no prazo de cinco dias lançado no processo eletrônico) para forçar a remessa da matéria ao Pleno ou Órgão Especial, eis que o Reclamado afastou a inconstitucionalidade da MP nº 2.196-3/01.
+    Nessa linha de raciocínio, conclui que não se reabrindo aos Reclamantes prazo para Recurso Extraordinário (inclusive com embargos de Declaração que deram por prequestionados todos os artigos federais invocados), flagrantemente estar-se-á negando vigência ao princípio constitucional do contraditório e ampla defesa, insculpido no art. 5º, LV, CF/88.
+    É o relatório. Decido.
+    Não vislumbramos a presença do "periculum in mora”, pois após o provimento final na presente ação, restará incólume, acaso julgada procedente, o direito dos reclamados.
+    Ausente também a fumaça de bom direito, pois o processo eletrônico ventilado pelos Reclamantes pode conter peculiaridades não narradas na sua integralidade pelas partes, revolvendo alguma questão fática.
+    Outrossim, negar ao Reclamado um contraditório mínimo também poderia estar violando a ampla defesa de forma reversa.
+    Ex positis, indefiro o pedido de medida liminar. Oficie-se ao juízo reclamado, para que preste informações no prazo de dez dias. Prestadas as informações, dê-se vista ao Procurador-Geral da República (art. 160 do RISTF).
+    Publique-se. Int..
+    Brasília, 20 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
