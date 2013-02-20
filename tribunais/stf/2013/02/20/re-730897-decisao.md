@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão cuja ementa transcrevo no que interessa:
+    “RECURSO INOMINADO – AÇÃO DE OBRIGAÇÃO DE FAZER – PRELIMINAR DE CARÊNCIA DE AÇÃO REJEITADA – UTILIZAÇÃO DA REMUNERAÇÃO INTEGRAL DO POLICIAL MILITAR COMO BASE DE CÁLCULO AS HORAS EXTRAS E ADICIONAL NOTURNO – IMPOSSIBILIDADE – CONFLITO DE NORMAS – NORMA ESPECIAL QUE VEDA EXPRESSAMENTE A INCIDÊNCIA DA VANTAGEM PECUNIÁRIA SOBRE OS BENEFÍCIOS POR ELA CONCEDIDOS – NORMA ESPECIAL QUE PREVALECE SOBRE A GERAL – ACÚMULO DE VANTAGENS PECUNIÁRIAS – PROIBIÇÃO CONSTITUCIONAL – RECURSO CONHECIDO E DESPROVIDO”. (fl. 218)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 1º, IV; 5º, XXXV, XXXIV, LXXIV, LV; 7º, IX, XVI; 37, XIV; 39, caput, § 3º , todos do texto constitucional.
+    Alega-se, em síntese, que o pagamento de horas extras e adicional noturno devem ser calculados sobre o valor integral da remuneração, tendo em vista que outras verbas recebidas em folha de pagamento também são de natureza remuneratória.
+    Decido.
+    O recurso não merece prosperar.
+    Verifica-se que a Turma Recursal, mantendo a sentença por seus próprios fundamentos, decidiu a controvérsia à luz da legislação local aplicável, qual seja: Leis Complementares Estaduais 266/2004 e 549/2009 e da Lei Estadual 6.218/83. Confira-se, a propósito, excerto do acórdão recorrido:
+    “Ou seja, muito embora a LCE 266/04 seja aplicável aos Policiais Militares para calcular sua contribuição previdenciária, face a sua especificidade (criada exclusivamente para o fim de cálculo da contribuição previdenciária), referida norma não pode ter seus termos, disposições e efeitos estendidos para ser adotada como critério de cálculo de pagamentos dispendidos pela Administração Pública a título de horas extras e adicional noturno, notadamente porque a Lei 5.645/79 trata de forma clara e específica (princípio da especificidade) sobre a matéria”. (fl. 169)
+    Assim, para divergir do entendimento adotado, far-se-ia imprescindível a prévia análise e interpretação da referida legislação local, o que encontra óbice no Enunciado 280/STF, tendo em vista que eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta.
+    Nesse sentido, confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário. Servidor público. Jornada de trabalho. Horas extras. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 2. Agravo regimental não provido”. (RE-AgR 633.663, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 22.6.2012)
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. POLICIAL CIVIL DO ESTADO DE SERGIPE. JORNADA DE TRABALHO. PAGAMENTO DE HORAS EXTRAORDINÁRIAS E ADICIONAL NOTURNO. CONTROVÉRSIA DECIDIDA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Eventual ofensa ao Magno Texto apenas ocorreria de modo reflexo ou indireto. Precedentes do Supremo Tribunal Federal. 2. Agravo regimental desprovido”. (RE-AgR 597.351, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 22.9.2011)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 20 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
