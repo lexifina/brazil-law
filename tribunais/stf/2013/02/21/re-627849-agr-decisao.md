@@ -1,0 +1,14 @@
+Decisão: No caso, determinei a remessa dos autos ao tribunal de origem para que fosse observada a sistemática da repercussão geral, tendo em vista que o assunto tratado na petição do recurso extraordinário seria análogo ao RE-RG 566.622, Rel. Min Marco Aurélio, DJe 25.4.2008 (fl. 395).
+    Contudo, o Tribunal Regional Federal da 4ª Região determinou a devolução dos autos a esta Corte, por entender que a hipótese não se amoldaria à matéria discutida no referido paradigma (fl. 401).
+    Após nova análise dos autos, reconsiderei a decisão de fl. 395 e julguei a matéria de acordo com o entendimento firmando no julgamento do RE-RG 642.442, tema 459, oportunidade em que esta Corte rejeitou a repercussão geral da discussão acerca do preenchimento dos requisitos impostos pelo art. 55 da Lei 8.212/91, aptos a caracterizar pessoa jurídica como entidade beneficente de assistência social, para efeitos de reconhecimento de imunidade tributária, tendo em vista a natureza infraconstitucional do tema (fls. 405-406).
+    Em face da mencionada decisão, foi interposto agravo regimental, no qual se alega que a primeira vinculação, realizada à fl. 395, estaria correta, uma vez que, no caso, a discussão versaria sobre a possibilidade de veiculação por lei ordinária de exigências específicas para o alcance, às entidades beneficentes de assistência social, do benefício de dispensa do pagamento de contribuições sociais para a Seguridade Social, questão análoga à do RE-RG 566.622, Rel. Min Marco Aurélio, DJe 25.4.2008.
+    Decido.
+    Verifico que os dois precedentes (RE-RG 566.622 e RE-RG 642.442) aplicam-se à espécie.
+    A princípio, destaque-se que, no caso, a questão referente à reserva de lei complementar para a instituição de requisitos à concessão de imunidade tributária às entidades beneficentes de assistência social, matéria discutida no RE-RG 566.622, é prejudicial à análise do preenchimento dos requisitos previstos pelo art. 55 da Lei 8.212/91, tema em discussão no RE-RG 642.442 , para a concessão da referida imunidade.
+    Assim, tendo em vista que o mérito do RE-RG 566.622 ainda encontra-se pendente de julgamento pelo plenário desta Corte, faz-se imperativa a devolução dos autos ao tribunal de origem para que se observe o disposto no art. 543-B do CPC.
+    Acrescente-se que, após o julgamento do referido paradigma, caso se entenda pela possibilidade de imposição de requisitos para a concessão de imunidade tributária às entidades beneficentes de assistência social por intermédio de lei ordinária, a discussão acerca do implemento ou não de tais requisitos terá índole eminentemente infraconstitucional, conforme decido no RE-RG 642.442, Rel. Min. Presidente, DJe 8.9.2011.
+    Publique-se.
+    Brasília, 21 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
