@@ -1,0 +1,817 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 19
+
+21/02/2013
+
+PLENÁRIO
+
+AG.REG. NA RECLAMAÇÃO 12.580 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+INTDO.(A/S)
+
+: MIN. CELSO DE MELLO
+: UNIVERSIDADE DE SÃO PAULO - USP
+: ADRIANA FUMIE AOKI E OUTRO(A/S)
+: MARCOS APARECIDO DE FARIAS AGOSTINHO
+: LUIZ CARLOS DE SOUZA RIBEIRO JÚNIOR
+: CORPORAÇÃO
+GUTTY
+DE
+SEGURANÇA
+PATRIMONIAL E VIGILÂNCIA LTDA
+: TRIBUNAL REGIONAL DO TRABALHO DA 2ª
+REGIÃO
+
+E M E N T A: RECLAMAÇÃO – ALEGAÇÃO DE DESRESPEITO À
+AUTORIDADE
+DA
+DECISÃO
+PROFERIDA,
+COM
+EFEITO
+VINCULANTE, NO EXAME DA ADC 16/DF – INOCORRÊNCIA –
+RESPONSABILIDADE
+SUBSIDIÁRIA
+DA ADMINISTRAÇÃO
+PÚBLICA POR DÉBITOS TRABALHISTAS (LEI Nº 8.666/93, ART. 71,
+§ 1º) – ATO JUDICIAL RECLAMADO PLENAMENTE JUSTIFICADO, NO
+CASO,
+PELO
+RECONHECIMENTO
+DE
+SITUAÇÃO
+CONFIGURADORA DE CULPA “IN VIGILANDO”, “IN ELIGENDO”
+OU “IN OMITTENDO” – DEVER LEGAL DAS ENTIDADES PÚBLICAS
+CONTRATANTES DE FISCALIZAR O CUMPRIMENTO, POR PARTE
+DAS EMPRESAS CONTRATADAS, DAS OBRIGAÇÕES TRABALHISTAS
+REFERENTES AOS EMPREGADOS VINCULADOS AO CONTRATO
+CELEBRADO (LEI Nº 8.666/93, ART. 67) – ARGUIÇÃO DE OFENSA AO
+POSTULADO DA RESERVA DE PLENÁRIO (CF, ART. 97) –
+SÚMULA VINCULANTE Nº 10/STF – INAPLICABILIDADE –
+INEXISTÊNCIA, NO CASO, DE JUÍZO OSTENSIVO OU DISFARÇADO
+DE INCONSTITUCIONALIDADE DE QUALQUER ATO ESTATAL –
+PRECEDENTES – RECURSO DE AGRAVO IMPROVIDO.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478631.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 19
+
+RCL 12580 AGR / SP
+
+ACÓRDÃO
+
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Sessão Plenária, sob a Presidência do
+Ministro Joaquim Barbosa, na conformidade da ata de julgamentos e das
+notas taquigráficas, por unanimidade de votos, em negar provimento ao
+recurso de agravo, nos termos do voto do Relator. Ausente, neste
+julgamento, a Ministra Cármen Lúcia.
+Brasília, 21 de fevereiro de 2013.
+
+CELSO DE MELLO – RELATOR
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478631.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 19
+
+21/02/2013
+
+PLENÁRIO
+
+AG.REG. NA RECLAMAÇÃO 12.580 SÃO PAULO
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+ADV.(A/S)
+AGDO.(A/S)
+INTDO.(A/S)
+
+: MIN. CELSO DE MELLO
+: UNIVERSIDADE DE SÃO PAULO - USP
+: ADRIANA FUMIE AOKI E OUTRO(A/S)
+: MARCOS APARECIDO DE FARIAS AGOSTINHO
+: LUIZ CARLOS DE SOUZA RIBEIRO JÚNIOR
+: CORPORAÇÃO
+GUTTY
+DE
+SEGURANÇA
+PATRIMONIAL E VIGILÂNCIA LTDA
+: TRIBUNAL REGIONAL DO TRABALHO DA 2ª
+REGIÃO
+RE LAT Ó RI O
+
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): A parte
+agravante insurge-se, na presente sede recursal, contra ato decisório que,
+por entender inocorrente, na espécie, qualquer situação caracterizadora de
+desrespeito à autoridade de decisão ou de enunciado sumular
+impregnados de eficácia vinculante emanados desta Suprema Corte,
+julgou improcedente a reclamação deduzida pela ora recorrente.
+A parte agravante, para justificar, no caso, a utilização da via
+reclamatória, alegou que o ato judicial reclamado – que resultou de
+julgamento pelo E. Tribunal Regional do Trabalho da 2ª Região – teria
+transgredido a autoridade da decisão que esta Suprema Corte proferiu,
+com efeito vinculante, no exame da ADC 16/DF, Rel. Min. CEZAR PELUSO,
+além de supostamente haver desrespeitado o enunciado constante da
+Súmula Vinculante nº 10/STF, que possui o seguinte teor:
+“Viola a cláusula de reserva de plenário (CF, artigo 97) a
+decisão de órgão fracionário de tribunal que, embora não declare
+expressamente a inconstitucionalidade de lei ou ato normativo do
+poder público, afasta sua incidência, no todo ou em parte.” (grifei)
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478632.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 19
+
+RCL 12580 AGR / SP
+
+Sustentou-se, em síntese, que o órgão reclamado, no
+julgamento objeto desta ação reclamatória, teria decidido com base na
+Súmula nº 331, IV, do TST (em sua antiga redação), afastando, em
+consequência, a incidência do art. 71, § 1º, da Lei nº 8.666/93, o que, além
+de supostamente desrespeitar a decisão proferida quando do julgamento
+da ADC 16/STF, implicaria, ainda, ofensa ao princípio da reserva de
+plenário (CF, art. 97).
+O Ministério Público Federal, em pronunciamento da lavra do
+eminente Procurador-Geral da República, Dr. ROBERTO MONTEIRO
+GURGEL SANTOS, ao manifestar-se pela improcedência desta
+reclamação, assim resumiu e apreciou a presente causa:
+“Reclamação. Alegação de aplicação, pelo
+acórdão reclamado, da Súmula nº 331 do TST,
+a qual afastou o parágrafo 1º do artigo 71 da
+Lei 8.666/93 sem o devido respeito à cláusula
+de reserva de plenário. Inobservância de
+ofensa à decisão proferida na ADC nº 16 ou à
+Súmula Vinculante nº 10. Parecer pela
+improcedência da reclamação.
+1. Trata-se de reclamação, com pedido de liminar, proposta
+pela Universidade de São Paulo em face da decisão proferida pela 13ª
+Turma do Tribunal Regional do Trabalho da 2ª Região, que estaria em
+confronto com a Ação Direta de Constitucionalidade nº 16 e com a
+Súmula Vinculante nº 10.
+2. A reclamante alega que o Juízo ‘a quo’ teria aplicado a
+Súmula 331, IV, do TST, para afastar a regra contida no § 1º do
+art. 71 da Lei nº 8.666/93, em violação à ADC nº 16, além de não ter
+submetido a questão ao órgão pleno do tribunal, conforme
+determinação da Súmula Vinculante nº 10 e da cláusula da reserva de
+plenário.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478632.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 19
+
+RCL 12580 AGR / SP
+3. A reclamação deve ser julgada improcedente.
+4. Pela leitura do acórdão acostado aos autos eletrônicos,
+percebe-se que a decisão reclamada concluiu pela culpa ‘in vigilando’
+da Administração.
+5. A 13ª Turma do TRT da 2ª Região analisou o caso ali
+discutido à luz do artigo 927 do Código Civil. Segundo a Relatora, a
+relação sobre a qual incidiu a decisão foi entre ‘o prestador de serviço
+inadimplente e o seu empregado’, ou seja, ‘res inter alios acta’ na
+relação administrativa’. Analisou-se a culpa sob o ponto de vista da
+responsabilidade civil, calcada no direito civil.
+6. Conforme entendimento do STF, o Estado não pode ser
+compelido a indenizar diretamente empregado de empresa licitada por
+inadimplemento dessa última. Todavia, isso não significa, de acordo
+com o inteiro teor do julgado, que a Administração não deve responder
+em caso de omissão culposa de agente público em fiscalizar a empresa
+tomadora de serviço. Esse último tema não foi afetado pela declaração
+de constitucionalidade do § 1º do artigo 71 da Lei 8.666/93.
+7. No caso dos autos, o acórdão reclamado reconheceu a
+conduta omissiva culposa do Estado. Em sendo assim, não há de se
+falar em ofensa à decisão proferida na ADC nº 16, tendo em vista a
+análise da ‘culpa’ no caso concreto.
+8. Entende-se, portanto, que o conteúdo da ADC nº 16 não foi
+violado eis que a responsabilização do Estado, nesse ponto, não
+ocorreu de forma direta, pelo simples fato de a empresa contratada ter
+inadimplido com as suas obrigações. A instância ordinária adentrou
+no tema referente à culpa missiva do agente, não cabendo, nesse
+momento, analisar-se o acerto ou desacerto do julgamento. A
+desconstituição do entendimento em relação à caracterização da culpa
+não pode ser feita na via estreita da reclamação.
+9. Por fim, não houve violação à Súmula Vinculante nº 10. A
+análise do caso concreto centrou-se no reconhecimento da culpa ‘in
+vigilando’, não tendo havido juízo de inconstitucionalidade sobre o
+tema. A decisão teve como base a legislação civil e, por isso, não
+era o caso de exigir-se o julgamento pelo órgão plenário do tribunal
+‘a quo’.
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478632.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 19
+
+RCL 12580 AGR / SP
+Ante o exposto, o parecer é pela improcedência da
+reclamação.” (grifei)
+
+Por não me convencer das razões expostas, submeto, à apreciação do
+Egrégio Plenário desta Suprema Corte, o presente recurso de agravo.
+É o relatório.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478632.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 7 de 19
+
+21/02/2013
+
+PLENÁRIO
+
+AG.REG. NA RECLAMAÇÃO 12.580 SÃO PAULO
+
+VOTO
+
+O SENHOR MINISTRO CELSO DE MELLO – (Relator): Não
+assiste razão à parte recorrente, eis que a decisão impugnada na presente
+sede recursal
+ajusta-se,
+com
+integral
+fidelidade,
+à
+diretriz
+jurisprudencial firmada pelo Supremo Tribunal Federal na matéria ora
+em exame.
+Como tive o ensejo de enfatizar quando da prolação da decisão
+agravada, esta Suprema Corte, ao apreciar a ADC 16/DF, Rel. Min.
+CEZAR
+PELUSO,
+julgou-a
+procedente,
+para
+declarar
+a
+constitucionalidade do art. 71, § 1º, da Lei 8.666/93, em julgamento que se
+acha assim ementado:
+“RESPONSABILIDADE CONTRATUAL. Subsidiária.
+Contrato com a administração pública. Inadimplência negocial
+do outro contraente. Transferência consequente e automática dos
+seus encargos trabalhistas, fiscais e comerciais, resultantes da
+execução do contrato, à administração. Impossibilidade jurídica.
+Consequência proibida pelo art. 71, § 1º, da Lei federal nº 8.666/93.
+Constitucionalidade reconhecida dessa norma. Ação direta de
+constitucionalidade
+julgada,
+nesse
+sentido,
+procedente.
+Voto vencido. É constitucional a norma inscrita no art. 71, § 1º, da
+Lei federal nº 8.666, de 26 de junho de 1993, com a redação dada pela
+Lei nº 9.032, de 1995.”
+(ADC 16/DF, Rel. Min. CEZAR PELUSO – grifei)
+
+É oportuno ressaltar, no ponto, que, em referido julgamento, não
+obstante o Plenário do Supremo Tribunal Federal tenha confirmado a
+plena validade constitucional do § 1º do art. 71 da Lei nº 8.666/93 – por
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 8 de 19
+
+RCL 12580 AGR / SP
+entender juridicamente incompatível com a Constituição a transferência
+automática, em detrimento da Administração Pública, dos encargos
+trabalhistas, fiscais, comerciais e previdenciários resultantes da execução
+do contrato na hipótese de inadimplência da empresa contratada –,
+enfatizou-se que essa declaração de constitucionalidade não impediria, em
+cada situação ocorrente, o reconhecimento de eventual culpa “in omittendo”
+ou “in vigilando” do Poder Público.
+Essa visão em torno do tema tem sido observada por
+Ministros de ambas as Turmas desta Suprema Corte (Rcl 8.475/PE, Rel. Min.
+AYRES BRITTO – Rcl 11.917/SP, Rel. Min. LUIZ FUX – Rcl 12.089/RJ, Rel.
+Min. LUIZ FUX – Rcl 12.310/SP, Rel. Min. LUIZ FUX – Rcl 12.388/SC, Rel.
+Min. JOAQUIM BARBOSA – Rcl 12.434/SP, Rel. Min. LUIZ FUX –
+Rcl 12.595/SP, Rel. Min. JOAQUIM BARBOSA – Rcl 12.828/PE, Rel. Min.
+CELSO DE MELLO – Rcl 12.944/DF, Rel. Min. CELSO DE MELLO –
+Rcl 13.272-MC/MG, Rel. Min. ROSA WEBER – Rcl 13.425/SP, Rel.
+Min. TEORI ZAVASCKI – Rcl 13.841/SP, Rel. Min. CELSO DE MELLO –
+Rcl 14.623/ES, Rel. Min. JOAQUIM BARBOSA – Rcl 14.658/SP, Rel. Min.
+DIAS TOFFOLI – Rcl 14.943/RS, Rel. Min. DIAS TOFFOLI –
+Rcl 15.052/RO, Rel. Min. DIAS TOFFOLI, v.g.), em julgamentos nos quais
+se tem reconhecido possível a atribuição de responsabilidade subsidiária
+ao ente público na hipótese excepcional de restar demonstrada a
+ocorrência de comportamento culposo da Administração Pública.
+Vale referir, bem por isso, ante a pertinência de seu conteúdo, trecho
+da decisão que o eminente Ministro JOAQUIM BARBOSA proferiu no
+âmbito da Rcl 12.925/SP, de que foi Relator:
+“(...) ao declarar a constitucionalidade do referido § 1º do
+art. 71 da Lei 8.666/1993, a Corte consignou que se, na análise do
+caso concreto, ficar configurada a culpa da Administração em
+fiscalizar a execução do contrato firmado com a empresa
+contratada, estará presente sua responsabilidade subsidiária
+pelos débitos trabalhistas não adimplidos. Em outras palavras,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 9 de 19
+
+RCL 12580 AGR / SP
+vedou-se, apenas, a transferência automática ou a responsabilidade
+objetiva da Administração Pública por essas obrigações.
+No presente caso, a autoridade reclamada, embora de forma
+sucinta, a partir do conjunto probatório presente nos autos da
+reclamação trabalhista, analisou a conduta do ora reclamante e
+entendeu configurada a sua culpa ‘in vigilando’.
+…...................................................................................................
+Como o controle da regularidade da execução dos
+contratos firmados com a administração deve ser feito por
+dever de ofício, é densa a fundamentação do acórdão-reclamado ao
+atribuir ao Estado o dever de provar não ter agido com tolerância ou
+desídia incompatíveis com o respeito ao erário.
+Se bem ou mal decidiu a autoridade reclamada ao
+reconhecer a responsabilidade por culpa imputável à
+reclamante, a reclamação constitucional não é o meio adequado para
+substituir os recursos e as medidas ordinária e extraordinariamente
+disponíveis para correção do alegado erro.
+Ante o exposto, julgo improcedente esta reclamação (art. 38
+da Lei 8.038/1990 e art. 161, par. ún. do RISTF).” (grifei)
+
+Cumpre assinalar, por necessário, que o dever legal das entidades
+públicas contratantes de fiscalizar a idoneidade das empresas que lhes
+prestam serviços abrange não apenas o controle prévio à contratação –
+consistente em exigir, das empresas licitantes, a apresentação dos
+documentos aptos a demonstrar a habilitação jurídica, a qualificação
+técnica, a situação econômico-financeira, a regularidade fiscal e o
+cumprimento do disposto no inciso XXXIII do artigo 7º da Constituição
+Federal (Lei nº 8.666/93, art. 27) –, mas compreende, também, o controle
+concomitante à execução contratual, viabilizador, dentre outras medidas,
+da vigilância efetiva e da adequada fiscalização do cumprimento das
+obrigações trabalhistas em relação aos empregados vinculados ao
+contrato celebrado (Lei nº 8.666/93, art. 67).
+Esse entendimento encontra apoio em expressivo magistério doutrinário
+(LÍVIA DEPRÁ CAMARGO SULZBACH, “A Responsabilidade
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 10 de 19
+
+RCL 12580 AGR / SP
+Subsidiária da Administração Pública na Terceirização de Serviços –
+Princípio da supremacia do interesse público x dignidade da pessoa
+humana? – Repercussões do julgamento da ADC n. 16 pelo STF na
+Súmula n. 331 do TST”, “in” Revista LTr, vol. 76/2012, p. 719/739;
+ROBERTO NOBREGA DE ALMEIDA FILHO, “Terceirização na
+Administração Pública e Suas Consequências no Âmbito da Justiça do
+Trabalho”, “in” Revista do Tribunal Regional do Trabalho da 15ª Região,
+nº 40/2012, p. 187/196; PLÍNIO ANTÔNIO PÚBLIO ALBREGARD,
+“Responsabilidade Subsidiária da Administração Pública Direta,
+Autárquica e Fundacional”, “in” Revista do TRT da 2ª Região, nº 07/2012,
+p. 67/73; IVANI CONTINI BRAMANTE, “A Aparente Derrota da
+Súmula 331/TST e a Responsabilidade do Poder Público na
+Terceirização”, “in” Repertório de Jurisprudência IOB, nº 24/2011,
+vol. II/721-767; BRUNO SANTOS CUNHA, “Fiscalização de Contratos
+Administrativos de Terceirização de Mão de Obra: Uma Nova Exegese e
+Reforço de Incidência”, “in” Revista do TST, nº 01/2011, vol. 77/131-138;
+EDITE HUPSEL, “Controle de Execução dos Contratos Administrativos
+pela Administração Pública”, “in” Revista Zênite de Licitações e
+Contratos – ILC, nº 163/2007, p. 872/878, v.g.).
+Cabe destacar, ainda, nessa mesma linha de orientação, em face de
+sua precisa abordagem, a lição de HELDER SANTOS AMORIM,
+MÁRCIO TÚLIO VIANA e GABRIELA NEVES DELGADO
+(“Terceirização – Aspectos Gerais: Última Decisão do STF e a
+Súmula 331 do TST – Novos Enfoques”, “in” Revista do TST, nº 01/2011,
+vol. 77/76-83):
+“A interpretação do § 1º do art. 71 da Lei nº 8.666/93
+desafia sua leitura conjunta e contextualizada com vários
+outros dispositivos legais que imputam à Administração
+Pública, de forma correlata e proporcional, o dever de fiscalizar
+eficientemente a execução dos seus contratos de terceirização, por
+imperativo de legalidade e moralidade pública (Constituição, art. 37,
+capuz), inclusive em relação ao adimplemento dos direitos dos
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 11 de 19
+
+RCL 12580 AGR / SP
+trabalhadores terceirizados, tendo em vista que se trata de direitos
+fundamentais (Constituição, art. 7º) cuja promoção e fiscalização
+incumbe aprioristicamente ao Estado, como razão essencial de sua
+existência.
+Daí porque a fiscalização do fiel cumprimento dos
+direitos dos trabalhadores terceirizados constitui elemento
+intrínseco à fiscalização do contrato de prestação de serviços,
+tal como decorre expressamente de dispositivos da Lei de Licitações e
+das normas que a regulamentam no nível federal, em observância aos
+preceitos constitucionais que consagram a dignidade da pessoa
+humana e os valores sociais do trabalho e da livre iniciativa como
+fundamento da República (CF, art. 1º, III e IV), que instituem como
+objetivo da República construir uma sociedade livre, justa e solidária
+(art. 3º, I), que fundamentalizam os direitos essenciais dos
+trabalhadores (art. 7º), que fundam a ordem econômica na valorização
+do trabalho humano (art. 170) e que alicerçam a ordem social no
+primado do trabalho (art. 193).
+No plano infraconstitucional, o dever da Administração
+Pública de fiscalizar o cumprimento de direitos dos trabalhadores
+terceirizados decorre primeiramente de dispositivos da Lei de
+Licitações, mas o padrão fiscalizatório, que diz respeito à extensão e
+profundidade deste dever de fiscalizar, encontra-se emoldurado na
+integração deste diploma legal com preceitos da Instrução Normativa
+(IN) nº 02/08, alterados pela Instrução Normativa (IN) nº 03/09, do
+Ministério do Planejamento, Orçamento e Gestão (MPOG), que
+regulamentam a matéria no âmbito da Administração Pública Federal.
+…...................................................................................................
+E estando assim evidentes os extensos limites do dever
+constitucional e legal da Administração de fiscalizar o
+cumprimento dos direitos dos trabalhadores terceirizados,
+disso decorre naturalmente que a inobservância deste dever de
+fiscalização implica a responsabilidade da Administração pelo
+inadimplemento dos direitos que deveriam ser fiscalizados.
+Esta responsabilidade não se esgota com a demonstração
+de uma simples verificação superficial da formalização dos
+vínculos de emprego, pois o padrão fiscalizatório acima retratado
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 12 de 19
+
+RCL 12580 AGR / SP
+exige o envolvimento direto e diário da Administração com a rotina
+das práticas trabalhistas da empresa contratada.
+A Administração só se desincumbe deste seu dever quando
+demonstra a promoção eficaz de todos os procedimentos legais
+de controle, além daqueles que, embora não previstos
+expressamente na lei, sejam indispensáveis à eficiência da fiscalização
+na obtenção dos seus resultados, em respeito ao princípio da eficiência
+administrativa que rege a Administração Pública (Constituição,
+art. 37).
+…..................................................................................................
+Lado outro, a ausência de fiscalização ou a fiscalização
+insuficiente, descomprometida com a efetividade dos direitos
+fiscalizados, implica inadimplência do ente público contratante para
+com o seu dever de tutela, dever decorrente da sua própria condição de
+Administração Pública.” (grifei)
+
+Cumpre ter presente, por relevante, que essa diretriz tem sido
+observada pela jurisprudência dos Tribunais, notadamente por aquela
+emanada do E. Tribunal Superior do Trabalho (AIRR 132100-60.2008.5.04.0402, Rel. Min. ALOYSIO CORRÊA DA VEIGA –
+AIRR 14726-94.2010.5.04.0000, Rel. Min. MARIA DE ASSIS CALSING –
+AIRR 2042-50.2010.5.18.0000, Rel. Min. ROSA WEBER – AIRR 546040-57.2006.5.07.0032, Rel. Min. GUILHERME AUGUSTO CAPUTO
+BASTOS – RR 193600-61.2009.5.09.0594, Rel. Min. MAURICIO
+GODINHO DELGADO, v.g.):
+“AGRAVO DE INSTRUMENTO. RECURSO DE
+REVISTA. TERCEIRIZAÇÃO TRABALHISTA – ENTIDADES
+ESTATAIS – RESPONSABILIDADE EM CASO DE CULPA ‘IN
+VIGILANDO’ NO QUE TANGE AO CUMPRIMENTO DA
+LEGISLAÇÃO TRABALHISTA E PREVIDENCIÁRIA POR
+PARTE DA EMPRESA TERCEIRIZANTE CONTRATADA –
+COMPATIBILIDADE COM O ART. 71 DA LEI DE
+LICITAÇÕES – INCIDÊNCIA DOS ARTS. 159 DO CCB/1916,
+186 E 927, ‘CAPUT’, DO CCB/2002. A mera inadimplência da
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 13 de 19
+
+RCL 12580 AGR / SP
+empresa terceirizante quanto às verbas trabalhistas e
+previdenciárias devidas ao trabalhador terceirizado não transfere a
+responsabilidade por tais verbas para a entidade estatal tomadora de
+serviços, a teor do disposto no art. 71 da Lei 8.666/93 (Lei de
+Licitações), cuja constitucionalidade foi declarada pelo Supremo
+Tribunal Federal na ADC nº 16-DF. Entretanto, a inadimplência
+da obrigação fiscalizatória da entidade estatal tomadora de
+serviços no tocante ao preciso cumprimento das obrigações
+trabalhistas e previdenciárias da empresa prestadora de serviços gera
+sua responsabilidade subsidiária, em face de sua culpa ‘in
+vigilando’, a teor da regra responsabilizatória incidente sobre
+qualquer pessoa física ou jurídica que, por ato ou omissão culposos,
+cause prejuízos a alguém (art. 186, Código Civil). Evidenciando-se
+essa culpa ‘in vigilando’ nos autos, incide a responsabilidade
+subjetiva prevista no art. 159 do CCB/1916, arts. 186 e 927, ‘caput’,
+do CCB/2002, observados os respectivos períodos de vigência.
+Agravo de instrumento desprovido.”
+(AIRR 157240-94.2007.5.16.0015, Rel. Min. MAURICIO
+GODINHO DELGADO – grifei)
+
+O exame da decisão reclamada, tendo em vista a situação concreta
+nela apreciada, revela que se reconheceu, na espécie, a responsabilidade
+subsidiária da parte reclamante, ora recorrente, em decorrência de
+situação configuradora de culpa “in vigilando”, “in eligendo” ou “in
+omittendo”.
+Com efeito, o Ministério Público Federal, em pronunciamento da
+lavra do eminente Procurador-Geral da República, Dr. ROBERTO
+MONTEIRO GURGEL SANTOS, ao manifestar-se pela improcedência
+da presente reclamação, formulou parecer que está assim ementado:
+“Reclamação. Alegação de aplicação, pelo acórdão
+reclamado, da Súmula nº 331 do TST, a qual afastou o parágrafo 1º
+do artigo 71 da Lei 8.666/93 sem o devido respeito à cláusula de
+reserva de plenário. Inobservância de ofensa à decisão proferida
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 14 de 19
+
+RCL 12580 AGR / SP
+na ADC nº 16 ou à Súmula Vinculante nº 10. Parecer pela
+improcedência da reclamação.” (grifei)
+
+Os fundamentos expostos em referida manifestação ajustam-se,
+integralmente, à orientação jurisprudencial que esta Suprema Corte
+firmou a propósito da matéria em análise, valendo destacar, por relevante,
+fragmento desse parecer oferecido pela douta Procuradoria-Geral da
+República, que a seguir reproduzo:
+“3. A reclamação deve ser julgada improcedente.
+4. Pela leitura do acórdão acostado aos autos eletrônicos,
+percebe-se que a decisão reclamada concluiu pela culpa ‘in vigilando’
+da Administração.
+5. A 13ª Turma do TRT da 2ª Região analisou o caso ali
+discutido à luz do artigo 927 do Código Civil. Segundo a Relatora, a
+relação sobre a qual incidiu a decisão foi entre ‘o prestador de serviço
+inadimplente e o seu empregado’, ou seja, ‘res inter alios acta’ na
+relação administrativa’. Analisou-se a culpa sob o ponto de vista da
+responsabilidade civil, calcada no direito civil.
+6. Conforme entendimento do STF, o Estado não pode ser
+compelido a indenizar diretamente empregado de empresa licitada por
+inadimplemento dessa última. Todavia, isso não significa, de acordo
+com o inteiro teor do julgado, que a Administração não deve responder
+em caso de omissão culposa de agente público em fiscalizar a empresa
+tomadora de serviço. Esse último tema não foi afetado pela declaração
+de constitucionalidade do § 1º do artigo 71 da Lei 8.666/93.
+7. No caso dos autos, o acórdão reclamado reconheceu a
+conduta omissiva culposa do Estado. Em sendo assim, não há de se
+falar em ofensa à decisão proferida na ADC nº 16, tendo em vista a
+análise da ‘culpa’ no caso concreto.
+8. Entende-se, portanto, que o conteúdo da ADC nº 16 não foi
+violado eis que a responsabilização do Estado, nesse ponto, não
+ocorreu de forma direta, pelo simples fato de a empresa contratada ter
+inadimplido com as suas obrigações. A instância ordinária adentrou
+no tema referente à culpa missiva do agente, não cabendo, nesse
+momento, analisar-se o acerto ou desacerto do julgamento. A
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 15 de 19
+
+RCL 12580 AGR / SP
+desconstituição do entendimento em relação à caracterização da culpa
+não pode ser feita na via estreita da reclamação.
+9. Por fim, não houve violação à Súmula Vinculante nº 10. A
+análise do caso concreto centrou-se no reconhecimento da culpa ‘in
+vigilando’, não tendo havido juízo de inconstitucionalidade sobre o
+tema. A decisão teve como base a legislação civil e, por isso, não
+era o caso de exigir-se o julgamento pelo órgão plenário do tribunal ‘a
+quo’.” (grifei)
+
+Não vislumbro, desse modo, a ocorrência do alegado desrespeito à
+autoridade da decisão que esta Corte proferiu, com eficácia vinculante, no
+julgamento da ADC 16/DF.
+De outro lado, e no que concerne ao alegado desrespeito à diretriz
+resultante da Súmula Vinculante nº 10/STF, não verifico, na decisão de que
+ora se reclama, a existência de qualquer juízo, ostensivo ou disfarçado, de
+inconstitucionalidade do art. 71 da Lei nº 8.666/1993.
+Na realidade, tudo indica que, em referido julgamento, o órgão
+judiciário reclamado apenas reconheceu, no caso concreto, a omissão do Poder
+Público, em virtude do descumprimento de sua obrigação de fiscalizar a fiel
+execução das obrigações trabalhistas pela contratada, não havendo
+formulado juízo de inconstitucionalidade, o que afasta, ante a inexistência de
+qualquer declaração de ilegitimidade inconstitucional, a ocorrência de
+transgressão ao enunciado constante da Súmula Vinculante 10/STF.
+É certo que o Supremo Tribunal Federal, em sua jurisprudência
+(RE 432.597-AgR/SP e AI 473.019-AgR/SP, ambos relatados pelo Ministro
+SEPÚLVEDA
+PERTENCE),
+considera
+“declaratório
+de
+inconstitucionalidade o acórdão que – embora sem o explicitar – afasta a
+incidência da norma ordinária pertinente à lide, para decidi-la sob critérios
+diversos alegadamente extraídos da Constituição” (RTJ 169/756-757, Rel. Min.
+SEPÚLVEDA PERTENCE – grifei).
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 16 de 19
+
+RCL 12580 AGR / SP
+
+Esta Suprema Corte tem entendido equivaler, à própria declaração de
+inconstitucionalidade, o julgamento que, sem reconhecer, explicitamente, a
+eiva de ilegitimidade constitucional, vem, não obstante, a recusar
+aplicabilidade ao ato do Poder Público, sob alegação de conflito com
+critérios outros resultantes do texto da Carta Política.
+Como se sabe, a inconstitucionalidade de qualquer ato estatal só
+pode ser declarada pelo voto da maioria absoluta dos membros do
+Tribunal ou, onde houver, dos integrantes do respectivo órgão especial, sob
+pena de absoluta nulidade da decisão emanada do órgão fracionário
+(Turma, Câmara ou Seção).
+É preciso ter presente, por necessário, que o respeito ao postulado da
+reserva de plenário – consagrado pelo art. 97 da Constituição (e
+introduzido, em nosso sistema de direito constitucional positivo, pela
+Constituição de 1934) – atua como verdadeira condição de eficácia
+jurídica da própria declaração jurisdicional de inconstitucionalidade
+dos atos do Poder Público, consoante adverte o magistério da
+doutrina (LÚCIO BITTENCOURT, “O Controle Jurisdicional da
+Constitucionalidade das Leis”, p. 43/46, 2ª ed., 1968, Forense; MANOEL
+GONÇALVES FERREIRA FILHO, “Comentários à Constituição
+Brasileira de 1988”, vol. 2/209, 1992, Saraiva; ALEXANDRE DE MORAES,
+“Constituição do Brasil Interpretada”, p. 1.424/1.440, 6ª ed., 2006, Atlas;
+JOSÉ AFONSO DA SILVA, “Curso de Direito Constitucional Positivo”,
+p. 50/52, item n. 14, 27ª ed., 2006, Malheiros; UADI LAMMÊGO BULOS,
+“Constituição Federal Anotada”, p. 939/943, 5ª ed., 2003, Saraiva; LUÍS
+ROBERTO BARROSO, “O Controle de Constitucionalidade no Direito
+Brasileiro”, p. 77/81, itens ns. 3.2 e 3.3, 2004, Saraiva; ZENO VELOSO,
+“Controle Jurisdicional de Constitucionalidade”, p. 50/51, item n. 41, 1999,
+Cejup; OSWALDO LUIZ PALU, “Controle de Constitucionalidade”,
+p. 122/123 e 276/277, itens ns. 6.7.3 e 9.14.4, 2ª ed., 2001, RT, v.g.).
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 17 de 19
+
+RCL 12580 AGR / SP
+A jurisprudência do Supremo Tribunal Federal, por sua vez,
+tem reiteradamente proclamado que a desconsideração do
+princípio em causa gera, como inevitável efeito consequencial, a nulidade
+absoluta da decisão judicial colegiada que, emanando de órgão
+meramente fracionário, haja declarado a inconstitucionalidade de
+determinado ato estatal (RTJ 58/499 – RTJ 71/233 – RTJ 110/226 –
+RTJ 117/265 – RTJ 135/297) ou, então, “embora sem o explicitar”, haja
+afastado “a incidência da norma ordinária pertinente à lide, para decidi-la sob
+critérios diversos alegadamente extraídos da Constituição” (RTJ 169/756-757,
+v.g.).
+As razões subjacentes à formulação do postulado constitucional do
+“full bench”, excelentemente identificadas por MARCELLO CAETANO
+(“Direito Constitucional”, vol. II/417, item n. 140, 1978, Forense),
+justificam a advertência dos Tribunais, cujos pronunciamentos –
+enfatizando os propósitos teleológicos visados pelo legislador
+constituinte – acentuam que “A inconstitucionalidade de lei ou ato do poder
+público só pode ser decretada pelo voto da maioria absoluta dos membros do
+Tribunal, em sessão plena” (RF 193/131 – RTJ 95/859 – RTJ 96/1188 –
+RT 508/217).
+Não se pode perder de perspectiva, por isso mesmo, o magistério
+jurisprudencial desta Suprema Corte, cujas decisões assinalam a alta
+significação político-jurídica de que se reveste, em nosso ordenamento
+positivo, a exigência constitucional da reserva de plenário:
+“Nenhum órgão fracionário de qualquer Tribunal dispõe
+de competência, no sistema jurídico brasileiro, para declarar a
+inconstitucionalidade de leis ou atos emanados do Poder Público.
+Essa magna prerrogativa jurisdicional foi atribuída, em grau
+de absoluta exclusividade, ao Plenário dos Tribunais ou, onde
+houver, ao respectivo Órgão Especial. Essa extraordinária
+competência dos Tribunais é regida pelo princípio da reserva de
+plenário inscrito no artigo 97 da Constituição da República.
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Voto - MIN. CELSO DE MELLO
+
+Inteiro Teor do Acórdão - Página 18 de 19
+
+RCL 12580 AGR / SP
+Suscitada a questão prejudicial de constitucionalidade
+perante órgão fracionário de Tribunal (Câmaras, Grupos, Turmas ou
+Seções), a este competirá, em acolhendo a alegação, submeter a
+controvérsia jurídica ao Tribunal Pleno.”
+(RTJ 150/223-224, Rel. Min. CELSO DE MELLO)
+
+Tenho para mim, na linha do que tem sido iterativamente
+proclamado pela jurisprudência do Supremo Tribunal Federal
+(Rcl 11.846/MG, Rel. Min. RICARDO LEWANDOWSKI – Rcl 12.388/ES,
+Rel. Min. JOAQUIM BARBOSA – Rcl 12.486/SP, Rel. Min. RICARDO
+LEWANDOWSKI – Rcl 14.623/ES, Rel. Min. JOAQUIM BARBOSA, v.g.),
+que o ato objeto da presente reclamação não declarou a
+inconstitucionalidade do § 1º do art. 71 da Lei nº 8.666/93 nem afastou,
+mesmo implicitamente, a sua incidência, para decidir a causa “sob critérios
+diversos alegadamente extraídos da Constituição” (RTJ 169/756-757, v.g.).
+Sendo assim, pelas razões expostas, nego provimento ao presente
+recurso de agravo, mantendo, por seus próprios fundamentos, a decisão ora
+agravada.
+É o meu voto.
+
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 3478633.
+
+Supremo Tribunal Federal
+Decisão de Julgamento
+
+Inteiro Teor do Acórdão - Página 19 de 19
+
+PLENÁRIO
+EXTRATO DE ATA
+AG.REG. NA RECLAMAÇÃO 12.580
+PROCED. : SÃO PAULO
+RELATOR : MIN. CELSO DE MELLO
+AGTE.(S) : UNIVERSIDADE DE SÃO PAULO - USP
+ADV.(A/S) : ADRIANA FUMIE AOKI E OUTRO(A/S)
+AGDO.(A/S) : MARCOS APARECIDO DE FARIAS AGOSTINHO
+ADV.(A/S) : LUIZ CARLOS DE SOUZA RIBEIRO JÚNIOR
+AGDO.(A/S) : CORPORAÇÃO GUTTY DE SEGURANÇA PATRIMONIAL E
+VIGILÂNCIA LTDA
+INTDO.(A/S) : TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO
+Decisão: O Tribunal, por votação unânime e nos termos do voto
+do Relator, negou provimento ao recurso de agravo. Ausente, neste
+julgamento, a Ministra Cármen Lúcia. Presidiu o julgamento o
+Ministro Joaquim Barbosa. Plenário, 21.02.2013.
+Presidência do Senhor Ministro Joaquim Barbosa.
+Presentes à
+sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar
+Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux,
+Rosa Weber e Teori Zavascki.
+Procurador-Geral
+Santos.
+
+da
+
+República,
+
+Dr.
+
+Roberto
+
+Monteiro
+
+Gurgel
+
+p/ Luiz Tomimatsu
+Assessor-Chefe do Plenário
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 3467561
