@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, inciso II e § 2º, e 206, inciso V, e na Súmula 473/STF.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REGIME PRÓ-LABORE. AVERBAÇÃO DE TEMPO DE SERVIÇO. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 356/STF. QUESTÃO DECIDIDA PELO TRIBUNAL À LUZ DE INTERPRETAÇÃO DE LEI LOCAL. LEIS ESTADUAIS NºS 13.909/01, 6.725/67 E 8.274/77. INCIDÊNCIA DA SÚMULA 280/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. SÚMULA 279/STF. APLICAÇÃO. 1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice da Súmula 282 do Supremo Tribunal Federal. 2. A ofensa ao direito local não viabiliza o apelo extremo (Súmula 280 do STF). Precedentes: AI 607.504-AgR, Relator Ministro Gilmar Mendes, Segunda Turma, DJe de 16.10.1007, e AI 657.461-AgR, Relator Ministro Dias Toffoli, Primeira Turma, DJe de 22.11.2010. 3. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”. 4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 5. Agravo Regimental desprovido.” (AI 830.846-AgR/GO, rel. Min. Luiz Fux, 1ª Turma, DJe 14.10.2011).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
