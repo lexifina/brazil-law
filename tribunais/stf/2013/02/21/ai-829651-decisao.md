@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, I, XXXV, XXXVI e LV, e 195, § 5º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido de que o benefício previdenciário recebido de boa-fé pelo segurado não está sujeito a repetição de indébito, dado o seu caráter alimentar, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 553.159-ED/DF, Rel. Min. Ellen Gracie, 2ª Turma, DJe 18.12.2009; e RE 633.900-AgR/BA, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 08.4.2011; e ARE 658.650-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 14.9.2012, este assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. BENEFÍCIO PAGO A MAIOR. DEVOLUÇÃO. ART. 115 DA LEI 8.213/91. IMPOSSILIDADE. BOA-FÉ. NATUREZA ALIMENTAR. ALEGAÇÃO DE VIOLAÇÃO AO PRINCÍPIO DA RESERVA DE PLENÁRIO. INOCORRÊNCIA. PRECEDENTES. 1. O benefício previdenciário recebido de boa-fé pelo segurado não está sujeito a repetição de indébito, dado o seu caráter alimentar. Precedentes: Rcl. 6.944, Plenário, Rel. Min. Cármen Lúcia, Dje de 13/08/10 e AI n. 808.263-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 16.09.2011. 2. O princípio da reserva de plenário não restou violado, conforme a tese defendida no presente recurso, isso porque a norma em comento (art. 115 da Lei 8.213/91) não foi declarada inconstitucional nem teve sua aplicação negada pelo Tribunal a quo, ou seja, a controvérsia foi resolvida com fundamento na interpretação conferida pelo Tribunal de origem à norma infraconstitucional que disciplina a espécie. … 4. Agravo regimental a que se nega provimento” (destaquei).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
