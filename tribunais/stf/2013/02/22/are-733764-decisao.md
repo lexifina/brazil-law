@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. DIREITO PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. INTEGRALIDADE DE PENSÃO. SERVIDOR DA EXTINTA VIFER, VINCULADO À RFFSA. COMPLEMENTAÇÃO DA PENSÃO. (...)” (fl. 229).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 40, §§ 2º e 7º, da mesma Carta.
+    A pretensão recursal não merece acolhida. O acórdão recorrido decidiu a questão posta nos autos da seguinte forma:
+    “Especificamente em relação aos servidores da extinta Viação Férrea do Rio Grande do Sul (extinta em 1957, revertida à RFFSA, criada pela Lei n° 3.115/57, e que por força do Termo de Acordo de Reversão aprovado pela Lei n° 3.887/61, passaram a ser segurados também pelo Instituto de Previdência do Estado do Rio Grande do Sul), posteriormente vinculados à Rede Ferroviária Federal S/A, a Lei Estadual nº 2.061/1953 em seu artigo 189 previa que o servidor ferroviário terá direito quando aposentado pela instituição a que estiver vinculado, à diferença entre os proventos pagos por esta instituição e o estipêndio total percebido na data da aposentação.
+      Pela redação do art. 189 da Lei nº 2.061/1953 acima examinado, resulta demonstrado que à Autarquia Previdenciária Estadual assiste o dever de apenas complementar os proventos pagos ou que deveriam ser pagos pelo INSS.
+      A responsabilidade do IPERGS pela pensão aos dependentes de servidores revertidos para a RFFSA é de complementação, limitando-se à diferença entre a totalidade dos vencimentos a que teria direito o servidor, se fosse vivo e o valor devido pelo INSS. Falecido o servidor, o benefício de pensão é integrado por duas quotas, uma a ser paga pelo INSS e a outra quota a ser adimplida pelo IPERGS, de forma a atingir a integralidade do que receberia o servidor falecido, se vivo fosse” (fls. 230v-231).
+    Nesse contexto, resta claro que para se chegar a conclusão contrária à adotada pelo Juízo de origem, necessário seria a interpretação da legislação infraconstitucional local aplicável à espécie (Lei Estadual 2.061/53), o que inviabiliza o extraordinário a teor da Súmula 280 do STF. No mesmo sentido, AI 761.313/RS, Rel. Min. Gilmar Mendes, RE 477.092/RS, Rel. Min. Ellen Gracie, RE 493.895/RS, Rel. Min. Cezar Peluso e RE 574.191/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
