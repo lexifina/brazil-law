@@ -1,0 +1,12 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – TAXA DE FUNCIONAMENTO E LOCALIZAÇÃO – EFETIVO EXERCÍCIO DO PODER DE POLÍCIA – REPERCUSSÃO GERAL ADMITIDA – DECISÃO DO PLENÁRIO – PROVIMENTO PARCIAL NOS AUTOS DE AGRAVO PROVIDO.
+    1. Quanto à cobrança do ISS, relativamente a atos cooperativos, a recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência – a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o Verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que, nesse ponto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    De resto, em sessão realizada em 16 de junho de 2010, o Tribunal, julgando o Recurso Extraordinário nº 588.322/RO, da relatoria do Ministro Gilmar Mendes, assentou que, apesar de a constitucionalidade de taxa de localização e funcionamento depender do efetivo exercício do poder de polícia, para legitimar-se a cobrança basta a comprovação da existência de órgão e de estrutura fiscal competentes.
+    2. Ante o precedente, conheço do agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Com fundamento no artigo 543-B, § 4º, do Código de Processo Civil, conheço parcialmente deste recurso e lhe dou provimento, para, reformando o acórdão de origem, assentar a constitucionalidade da Taxa de Localização e Funcionamento. Ressalvo o entendimento pessoal. Custas e honorários advocatícios, na forma do artigo 21 do Código de Processo Civil, recíproca e proporcionalmente distribuídos e compensados.
+    3. Publiquem.
+Brasília, 22 de fevereiro de 2013.
+Ministro MARCO AURÉLIO
+Relator
