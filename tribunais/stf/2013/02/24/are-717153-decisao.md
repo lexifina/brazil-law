@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO. CONDENAÇÃO EM CUSTAS: LEI ESTADUAL N. 16.017/2008. 1. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA RESERVA DE PLENÁRIO. 2. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Paraná:
+    “AGRAVO. DECISÃO ISOLADA DO RELATOR. NEGATIVA DE SEGUIMENTO À APELAÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO DA EXECUÇÃO. CANCELAMENTO POR DISPENSA. LEI ESTADUAL 16.0178/08. CUSTAS DEVIDAS PELA FAZENDA. INAPLICABILIDADE DO ART. 26 DA LEI 6.830/80. SERVENTIAS NÃO OFICIALIZADAS. MITIGAÇÃO DO ART. 7º DA REFERIDA LEI. RECURSO NÃO PROVIDO” (fl. 160, doc. 1 ).
+    Os embargos de declaração opostos foram rejeitados (fls. 23-24, doc. 2)
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 24, inc. IV, e 97 da Constituição da República.
+    Sustenta que “a 2ª Câmara Cível do Tribunal de Justiça estadual, ao manter a condenação do Estado do Paraná nas custas processuais decorrentes de processo executivo tributário cujos créditos tributários foram remitidos e dispensados por lei estadual, deixou de aplicar o disposto no artigo 7º da Lei estadual 16.017/2008. Deixou, assim, de observar a cláusula da reserva de plenário” (fl. 48, doc. 2).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal (fls. 63-65, doc. 2).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Cumpre anotar, inicialmente, que a matéria constitucional suscitada no recurso extraordinário foi objeto de debate e decisão prévios no Tribunal de origem.
+    Este Supremo Tribunal assentou que o requisito do prequestionamento não exige a menção expressa do dispositivo constitucional em exame. É suficiente que o Tribunal a quo examine a questão constitucional objeto do recurso extraordinário. Nesse sentido: RE 469.054-AgR, de minha relatoria, Primeira Turma, DJ 2.2.2007.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. No julgamento dos embargos de declaração opostos pelo Estado do Paraná, o Tribunal de origem esclareceu que “especificamente sobre a mencionada cláusula de plenário, convém dizer que a decisão embargada não negou vigência à Lei estadual 16.017/2008, mas apenas ressaltou que seu artigo 7º não pode ser aplicado às serventias não oficializadas. Note-se que existem serventias oficializadas no Estado do Paraná, e, para estas, o mencionado dispositivo legal tem plena eficácia” (fl. 24, doc. 2, grifos nossos).
+    A 2ª Câmara Cível do Tribunal de Justiça do Paraná limitou-se a interpretar e aplicar o art. 7º da Lei estadual n. 16.017/2008 à situação fática dos autos e concluiu que “não há que se falar em atribuição das custas ao executado, pois a aplicabilidade do art. 7º está condicionada à oficialização do Cartório” (fl. 161, doc. 1). Portanto, o órgão fracionário do Tribunal não declarou a inconstitucionalidade desse dispositivo legal, tampouco afastou sua incidência.
+    O Supremo Tribunal assentou que “o princípio da reserva de plenário resta indene nas hipóteses em que não há declaração de inconstitucionalidade por órgão fracionário do Tribunal de origem, mas apenas a interpretação e a conclusão de que a lei invocada não é aplicável ao caso em apreço. Precedentes: AI 684.976-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 02/06/2010; e RE 612.800-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe de 05/12/2011” (ARE 676.006-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 6.6.2012).
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIÁRIO. ALEGAÇÃO DE OFENSA AO PRINCÍPIO DA RESERVA DE PLENÁRIO. ACÓRDÃO RECORRIDO QUE SE LIMITA A INTERPRETAR A NORMA E APLICÁ-LA AO CASO CONCRETO. AUSÊNCIA DE CONTRARIEDADE AO ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 821.963-AgR, de minha relatoria, Primeira Turma, DJe 12.4.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. INTERPRETAÇÃO DE NORMAS LEGAIS. ALEGADA AFRONTA AO PRINCÍPIO DA RESERVA DE PLENÁRIO – ART. 97 DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 679.351-AgR, de minha relatoria, Segunda Turma, DJe 10.10.2012).
+    7. Ademais, o reexame do julgado impugnado exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Lei estadual n. 16.017/2008). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incidência da Súmula n. 280 do Supremo Tribunal Federal. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CUSTAS E EMOLUMENTOS JUDICIAIS. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO ESTADUAL. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 626.704-AgR, de minha relatoria, Primeira Turma, DJe 3.3.2011).
+    “Discussão sobre custas, não enseja recurso extraordinário. Súmula 280. Agravo regimental improvido” (AI 68.951-AgR, Rel. Min. Cordeiro Guerra, Segunda Turma, DJ 15-04-1977).
+    Nada há, pois, a prover quanto às alegações do Agravante
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
