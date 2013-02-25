@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1334, de 22 de fevereiro de 2013
+Aprova, para o exercício de 2013, o programa multiplataforma da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física, da Declaração Final de Espólio e da Declaração de Saída Definitiva do País.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Instrução Normativa RFB nº 1.333, de 18 de fevereiro de 2013, resolve:
