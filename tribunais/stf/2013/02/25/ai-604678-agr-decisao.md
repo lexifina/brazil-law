@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. 1. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. 2. INSUMOS DESONERADOS (ENERGIA ELÉTRICA): INEXISTÊNCIA DE DIREITO AO CREDITAMENTO. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Em 25 de outubro de 2010, determinei a devolução destes autos ao Tribunal de origem, para que fosse observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal (fls. 134-135).
+    2. Em 22.11.2010, a União, por meio da petição n. 67.025, alegou que:
+    “Sem superar a falta de prequestionamento, não há como admitir o recurso extraordinário. Nesse ponto, verificamos que não houve qualquer debate na decisão agravada. A decisão deveria, portanto, data venia, verificar, nos termos do art. 323 do RISTF, se estariam superados os motivos de inadmissibilidade do recurso, antes de apreciar a existência de repercussão geral na matéria” (fl. 139).
+    Torno sem efeito a devolução dos autos à origem e passo ao exame do agravo de instrumento.
+    3. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    4. O recurso inadmitido tem como objeto o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “Cumpre ressaltar que a controvérsia cinge-se tão somente na possibilidade de reconhecer o direito aos créditos do IPI relativos à energia elétrica utilizada no processo de industrialização de produtos finais onerados por este imposto.
+    A energia elétrica não representa insumo ou matéria-prima que integra o produto final, uma vez que não se aglutina no processo de transformação do qual resultará o produto industrializado” (fl. 94v).
+    5. A Agravante alega que o Tribunal a quo teria contrariado os arts. 153, § 3°, inc. II, e 155, § 3°, da Constituição da República.
+    6. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de prequestionamento da matéria constitucional (fl. 126).
+    Examinados os elementos havidos no processo, DECIDO.
+    7.  Razão jurídica não assiste à Agravante.
+    8. Os arts. 153, § 3º, inc. III, e 155, § 3°, da Constituição da República não foram objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    9. Ademais, a jurisprudência deste Supremo Tribunal Federal firmou entendimento no sentido de que a Constituição da República não confere direito ao creditamento do Imposto sobre Produtos Industrializados – IPI no caso de insumos desonerados (como a energia elétrica):
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. 1. Ausência de prequestionamento da matéria constitucional suscitada. Súmulas n. 282 e 356 do Supremo Tribunal Federal. 2. Insumos desonerados (energia elétrica). Inexistência de direito ao creditamento. Julgado recorrido em harmonia com a jurisprudência do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento” (AI 753.227-AgR, de minha relatoria, Primeira Turma, DJe 4.10.2012).
+    “CONSTITUCIONAL. TRIBUTÁRIO. IPI. CRÉDITO. OPERAÇÕES COM ENERGIA ELÉTRICA. I - Na sistemática que rege o princípio constitucional da não cumulatividade, a operação desonerada de IPI impede o reconhecimento do imposto pago na operação anterior e não gera crédito para a seguinte , raciocínio que deve ser aplicado de forma indistinta aos casos de alíquota zero, isenção, não incidência e de imunidade. II - Inexiste direito constitucional ao crédito de IPI decorrente da aquisição de energia elétrica empregada no processo de fabricação de produtos industrializados que são onerados pelo imposto em suas saídas. III - Agravo regimental improvido” (RE 561.676-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 6.8.2010 – grifos nossos).
+    “A compensação prevista na Constituição da República, para fins da não cumulatividade, depende do cotejo de valores apurados entre o que foi cobrado na entrada e o que foi devido na saída: o crédito do adquirente se dará em função do montante cobrado do vendedor do insumo e o débito do adquirente existirá quando o produto industrializado é vendido a terceiro, dentro da cadeia produtiva” (RE 475.551, do qual fui redatora para o acórdão, Plenário, DJe 13.11.2009).
+    Nada há, pois, a prover quanto à alegação da Agravante.
+    10. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2013.
+ Ministra CÁRMEN LÚCIA
+Relatora
