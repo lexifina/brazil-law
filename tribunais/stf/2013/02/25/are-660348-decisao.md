@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Décima Sétima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “A competência para processar e julgar as ações relativas a acidente de trabalho fundadas no direito comum, é da Justiça do Trabalho.
+    Inteligência do artigo 114, inciso VI, da Constituição Federal, introduzido pela Emenda nº 45/2004” (fl. 146).
+    Opostos embargos de declaração, foram rejeitados.
+    No recurso extraordinário, sustenta-se a violação do artigo 114, inciso I, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, haja vista que o acórdão impugnado está em consonância com a jurisprudência desta Corte, no sentido de ser da competência da justiça trabalhista o julgamento das ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho. Anote-se:
+    “A JUSTIÇA DO TRABALHO É COMPETENTE PARA PROCESSAR E JULGAR AS AÇÕES DE INDENIZAÇÃO POR DANOS MORAIS E PATRIMONIAIS DECORRENTES DE ACIDENTE DE TRABALHO PROPOSTAS POR EMPREGADO CONTRA EMPREGADOR, INCLUSIVE AQUELAS QUE AINDA NÃO POSSUÍAM SENTENÇA DE MÉRITO EM PRIMEIRO GRAU QUANDO DA PROMULGAÇÃO DA EMENDA CONSTITUCIONAL Nº 45/04”.
+    Importa destacar que a sentença de mérito proferida nos autos foi publicada em 7/6/05, conforme expresso na certidão de fl. 124, sendo tal data posterior à edição da Súmula vinculante nº 22. Resta clara, portanto, a incidência da súmula em tela na espécie. No mesmo sentido ressaltem-se ainda os seguintes precedentes:
+    “RECURSO EXTRAORDINÁRIO - ACIDENTE DO TRABALHO - INDENIZAÇÃO POR DANOS MATERIAIS E/OU MORAIS - AÇÃO AJUIZADA EM FACE DO EMPREGADOR, COM FUNDAMENTO NO DIREITO COMUM - SUPERVENIÊNCIA DA EC Nº 45/2004 - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - SÚMULA VINCULANTE Nº 22 - APLICABILIDADE AO CASO - RECURSO DE AGRAVO IMPROVIDO” (RE nº 458.834/MG-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 15/2/12).
+    “CONSTITUCIONAL. COMPETÊNCIA JUDICANTE EM RAZÃO DA MATÉRIA. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E PATRIMONIAIS DECORRENTES DE ACIDENTE DO TRABALHO, PROPOSTA PELO EMPREGADO CONTRA SEU (EX-)EMPREGADOR. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114 DA MAGNA CARTA DE 1988. PROCESSOS EM CURSO NA JUSTIÇA COMUM DOS ESTADOS. IMPERATIVO DE POLÍTICA JUDICIÁRIA. SÚMULA VINCULANTE 22 DO STF. 1. O Plenário do Supremo Tribunal Federal, no julgamento do Conflito de Competência 7.204, da minha relatoria, concluiu que a Lei Republicana de 1988 conferiu à Justiça do Trabalho a competência para processar e julgar as ações de indenização por danos morais e patrimoniais decorrentes de acidente de trabalho. Mais: como imperativo de política judiciária, decidiu, por maioria, que o marco temporal da competência da Justiça trabalhista é o advento da EC 45/04. 2. A nova orientação, cristalizada na Súmula Vinculante 22 do STF, alcança os processos em trâmite pela Justiça comum estadual, desde que pendentes de julgamento de mérito. 3. Agravo Regimental desprovido” (AI nº 634.728/GO-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 6/8/10).
+    Quanto à alegação de que o litígio não decorreria da relação de trabalho, carece do necessário prequestionamento, sendo certo que o Tribunal local, nesse ponto, se limitou a assentar que “a matéria (negativa de relação de trabalho) não foi ventilada durante a instruçã processual, tampouco antes do julgamento do recurso oficial, o que inviabiliza a apreciação nesta fase, sob pena de ofensa ao princípio do contraditório”.
+    Ademais, para acolher a pretensão recursal seria necessário o reexame do conjunto fático-probatório carreado aos autos, o que é incabível na via extraordinária. Incidência da Súmula nº 279 desta Corte. À propósito:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO DE INDENIZAÇÃO POR DANO DECORRENTE DE ACIDENTE DE TRABALHO: COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CONTROVÉRSIA SOBRE A NATUREZA DO LITÍGIO. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DO CONTRATO FIRMADO ENTRE AS PARTES. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 665.816/MG-AgR, Primeira Turma, Relator a Ministra Cármen Lúcia, DJe de 14/3/12).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
