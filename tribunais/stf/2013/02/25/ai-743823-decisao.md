@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Maria Helena Dias Sabará interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 37, inciso XVI e § 10º, e 40, § 6º, da Constituição Federal e 11 da Emenda Constitucional nº 20/98.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. RECURSO ORDINÁRIO. ADMINISTRATIVO. ACUMULAÇÃO DE CARGO DA ATIVA COM DOIS PROVENTOS DE APOSENTADORIA. CONCURSO PÚBLICO ANTERIOR À EC 20/98. IMPOSSIBILIDADE. INAPLICABILIDADE DO ART. 11 DA REFERIDA EMENDA CONSTITUCIONAL.
+    1. Pacífico o entendimento, tanto do Excelso Pretório, como deste Superior Tribunal de Justiça, que é indevida a acumulação de proventos de duas aposentadorias com os vencimentos de cargo público, ainda que proveniente este de aprovação em concurso público antes da EC 20/98.
+    2. Agravo regimental improvido” (fl. 152).
+    Decido.
+    Tem-se que a questão posta em debate nestes autos, trata da possibilidade de acumulação de um cargo público acumulável, e dois proventos de aposentadoria, antes publicação da Emenda Constitucional nº 20/98.
+     O inconformismo não merece prosperar, pois a jurisprudência desta Corte firmou o entendimento de que é vedada em qualquer hipótese, a acumulação tríplice de remunerações, sejam proventos ou vencimentos, bem como a percepção de mais de uma aposentadoria. Nesse sentido, destaco os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário. 2. Acumulação de um provento de aposentadoria com dois vencimentos da atividade. 3. Impossibilidade. 4. Interpretação restritiva do art. 11 da EC 20/98. Possibilidade de acumular um provento da inatividade com um vencimento de cargo da ativa, no qual tenha ingressado antes da publicação da referida emenda, ainda que inacumuláveis os cargos. 5. Vedada em qualquer caso a cumulação tríplice de remunerações. 6. Agravo regimental a que se nega provimento” (RE nº 328.109/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 11/3/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDORA PÚBLICA. CUMULAÇÃO TRÍPLICE DE PROVENTOS. TRÊS CARGOS DE PROFESSORA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO. I – Consoante a jurisprudência desta Corte, é vedada a acumulação tríplice de proventos, ante a impossibilidade do acúmulo de três cargos públicos na atividade. II – Agravo regimental improvido” (ARE nº 668.478/RJ-AgR, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/9/12).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. MAGISTÉRIO. DE ACUMULAÇÃO DE PROVENTOS DE DOIS CARGOS DE PROFESSOR COM VENCIMENTOS DE UM TERCEIRO CARGO. ART. 11, DA EC 20/98. INAPLICABILIDADE. AGRAVO IMPROVIDO. I – Somente se admite a acumulação de proventos e vencimentos quando se tratar de cargos, empregos ou funções acumuláveis em atividade, na forma prevista pela Constituição Federal. Precedentes. II – Não é permitida a acumulação de proventos de duas aposentadorias com os vencimentos de cargo público, ainda que proveniente de aprovação em concurso público antes da EC 20/98. Precedentes. III – Agravo regimental improvido” (AI nº 529.499/PR-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 17/11/10).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. MAGISTÉRIO. ACUMULAÇÃO TRÍPLICE DE PROVENTOS E VENCIMENTOS. SUPERVENIÊNCIA DA EMENDA CONSTITUCIONAL N. 20/98. INAPLICABILIDADE. 1. A acumulação de proventos e vencimentos somente é permitida quando se tratar de cargos, funções ou empregos acumuláveis na atividade, na forma permitida pela Constituição do Brasil. 2. Inaplicabilidade, no caso, da Emenda Constitucional n. 20/98, vez que inadmissível, na ativa, a acumulação de três cargos de magistério. Precedentes. Agravo regimental a que se nega provimento” (AI nº 567.707/PR-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 23/6/06).
+    O acórdão recorrido ajusta-se a essa orientação.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 25 de fevereiro de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
