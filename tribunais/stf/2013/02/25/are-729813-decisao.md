@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ADICIONAL DE INSALUBRIDADE. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA: SÚMULA N. 280 DO SUPREMO TRIBUNAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça Sergipe:
+    “APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – SERVIDOR PÚBLICO – MUNICÍPIO DE PROPRIÁ – PRELIMINAR DE CERCEAMENTO DE DEFESA – REJEITADA – DESNECESSIDADE DE DILAÇÃO PROBATÓRIA – MÉRITO ADICIONAL DE INSALUBRIDADE – LEI Nº 502/2010 – REGULAMENTAÇÃO DA CONCESSÃO DO REFERIDO ADICIONAL – ROL TAXATIVO DA FUNÇÕES CONTEMPLÁVEIS COM A VERBA – CARGO DO AUTOR NÃO CONSTA DO ROL – IMPOSSIBILIDADE DE EXTENSÃO DA ALUDIDA VANTAGEM – PRECEDENTES DESTE EGRÉGIO TRIBUNAL – MANUTENÇÃO DA SENTENÇA. DECISÃO UNÂNIME (doc. 5, fl. 6).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, caput, LIV, LV, 7º, inc. XXIII, da Constituição da República.
+    Alega que “o desenvolvimento do processo em questão não seguiu as normas atinentes à Legislação Processual Civil, tendo em vista que não houve o anúncio do julgamento antecipado da lide. Isso gerou o cerceamento de produção de provas e a ausência do devido processo legal.” (doc. 8, fls. 16).
+    Argumenta que “no caso em fulcro é claro que há previsão legal de percebimento do direito ao adicional de insalubridade de baixo risco e máximo risco, basta analisar o art. 23 e seguintes da Lei Municipal nº 502/2010.” (doc. 8, fls. 18).
+    Assevera que “a norma transcrita acima estabelece a necessidade de pagamento do adicional de insalubridade em razão do exercício de uma determinada atividade que exponha o servidor a riscos de saúde, independentemente do cargo que ele ocupe. A partir do momento em que a Lei Municipal define os cargos que receberão o adicional de insalubridade este garante o pagamento a todos que estejam desempenhando aquela atividade insalubre.” (doc. 8, fls 19).
+    Sustenta que “a lista apenas deixa cristalino que aquelas atividades elencadas são insalubres, não implicando a exclusão das atividades não descritas na norma. O rol é meramente exemplificativo, garantindo aos servidores cujos cargos estão ali descritos o direito inquestionável, sendo despiciendo discutir com o Executivo.” (doc. 8, fls. 19).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de inexistir ofensa constitucional direta à Constituição da República (doc. 14).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Código de Processo Civil e Lei Municipal nº 502/2010). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Servidor público municipal. Complementação de proventos. Reexame de legislação local. Ofensa reflexa. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. O recurso extraordinário não se presta ao reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280/STF. 3. Agravo regimental não provido” (AI 796.875-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 26.4.2012, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CRÉDITO DE PEQUENO VALOR. AFERIÇÃO DO LIMITE MÁXIMO. LEI MUNICIPAL N. 13.179/2001. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 829.021-AgR, de minha relatoria, Primeira Turma, DJe 13.4.2011).
+    Nada há, pois, a prover quanto às alegações do Agravante. ,
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
