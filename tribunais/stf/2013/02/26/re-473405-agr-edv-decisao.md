@@ -1,0 +1,19 @@
+Trata-se de embargos de divergência opostos ao acórdão da Segunda Turma que negou provimento ao agravo regimental no recurso extraordinário, no seguintes termos:
+    “EMENTA: 1. RECURSO. Extraordinário. Pedido de complementação de aposentadoria. Previdência privada. Competência. Justiça Comum. Decisão mantida. Precedentes. Agravo regimental não provido. É competente a Justiça Comum para julgar pedido de complementação de aposentadoria na órbita da previdência privada.
+    2.  RECURSO. Agravo. Regimental. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (fl. 143).
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, incumbe ao recorrente comprovar, no ato de interposição dos embargos de divergência, o pagamento do respectivo preparo, consoante se vê no julgamento do RE 143.808-EDv-QO/SP, Relatora para o acórdão a Min. Ellen Gracie, cuja ementa segue transcrita:
+    “QUESTÃO DE ORDEM. PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. PREPARO. PRAZO.
+    1. A Lei nº 8.950/94, ao modificar o art. 511 do CPC, derrogou o disposto no art. 335, § 3º do RISTF - segundo o qual o prazo para a realização do preparo dos embargos de divergência era aberto a partir da publicação do despacho que os admitisse. Precedente: RE 146.747-AgR-Edv. A nova disposição estabelece que o preparo - inclusive porte de remessa e retorno - seja feito no ato de interposição do recurso, pena de deserção.
+    2. Questão de ordem resolvida no sentido de julgar desertos os presentes embargos de divergência.
+    3. Embargos não conhecidos”.
+    No mesmo sentido, menciono os seguintes precedentes, entre outros: AI 560.049-AgR-EDv/MG e AI 335.046-AgR-ED-EDv-AgR/MG, Rel. Min. Cezar Peluso; AI 547.073-AgR-ED-EDv-AgR/RJ, Rel. Min. Eros Grau; AI 614.073-AgR-EDv-AgR/SP, Rel. Min. Ayres Britto; AI 422.456-AgR-ED-EDv-AgR/DF, Rel. Min. Sepúlveda Pertence; RE 551.660-AgR-EDv-ED/PR e AI 649.113-AgR-ED-EDv-AgR/MG, de minha relatoria.
+    No caso, conforme certidão da Secretaria Judiciária desta Corte (fl. 146), a petição dos embargos de divergência foi protocolada desacompanhada de comprovante de recolhimento do preparo, o que inviabiliza o recurso.
+    Além disso, verifica-se que a embargante também não demonstrou o pagamento da multa por litigância de má-fé fixada no acórdão embargado, o que impõe o não conhecimento do recurso.
+    Com efeito, o prévio depósito da multa aplicada configura pressuposto objetivo de recorribilidade, sendo certo que a ausência de recolhimento inviabiliza o recurso, ainda que tenha sido interposto com o propósito de afastar a mencionada multa. Nesse sentido, menciono os seguintes precedentes, entre outros: AI 478.513-AgR-ED/RJ, Rel. Min. Menezes Direito; AI 233.671-AgR-ED/SC, Rel. para acórdão Min. Maurício Corrêa; AI 491.386-AgR-ED/SP, Rel. Min. Marco Aurélio; RE 556.835-AgR-ED/SP, Rel. Min. Cezar Peluso; e o AI 567.171 AgR-ED-EDv-ED/SE, Rel. Min. Celso de Mello, de cuja ementa destaco o seguinte trecho:
+    “(...) O agravante - quando condenado pelo Tribunal a pagar, à parte contrária, a multa a que se refere o § 2º do art. 557 do CPC - somente poderá interpor 'qualquer outro recurso', se efetuar o depósito prévio do valor correspondente à sanção pecuniária que lhe foi imposta. A ausência de comprovado recolhimento do valor da multa importará em não-conhecimento do recurso interposto, eis que a efetivação desse depósito prévio atua como pressuposto objetivo de recorribilidade (...)”.
+    Isso posto, não admito os embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335, redação original).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
