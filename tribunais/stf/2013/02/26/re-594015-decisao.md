@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSO SUBJETIVO – REPERCUSSÃO GERAL – ASSISTÊNCIA SIMPLES – ADMISSÃO.
+    1. O Gabinete prestou as seguintes informações:
+    A Associação Nacional dos Transportadores Ferroviários – ANTF pleiteia a reconsideração do ato mediante o qual Vossa Excelência indeferiu o pedido de admissão como interessada. Alega versar o recurso extraordinário sobre a constitucionalidade da cobrança de IPTU de empresa cessionária de bens imóveis pertencentes à União, tendo em vista o disposto nos artigos 150, inciso VI, e 156, inciso I, da Constituição Federal. Ressalta que a decisão a ser formalizada pelo Supremo afetará as respectivas associadas, porquanto, apesar de serem concessionárias de serviço público ferroviário de titularidade da União – conforme o artigo 21, inciso XII, alínea “d”, da Carta da República –, há Municípios exigindo o pagamento de IPTU sobre áreas por onde passam as estradas de ferro. Aduz que as linhas férreas e os demais imóveis inerentes ao serviço público, como pátios e estações, são bens federais – nos termos dos artigos 20, inciso I, do Diploma Maior e 1º, alínea “g”, do Decreto-Lei nº 9.760/46 – cuja cessão é feita por contrato de arrendamento ou de concessão.
+    Entende que, a despeito de o paradigma referir-se à incidência de IPTU sobre imóvel situado em área portuária, a tese jurídica sob debate foi ampliada, ante o reconhecimento da repercussão geral do tema, vindo a abranger imóveis de propriedade da União cedidos a particulares para a prestação de serviços públicos. A fim de comprovar o interesse do setor ferroviário nesta demanda, aponta a existência de extraordinários de associadas sobrestados ou devolvidos à origem, aguardando o julgamento deste recurso e o do Recurso Extraordinário nº 601.720/RJ, no qual se discute a incidência de IPTU sobre imóveis cedidos a particulares.
+    O Tribunal, em 15 de abril de 2011, assentou a repercussão geral da matéria suscitada: obrigatoriedade de recolhimento de IPTU, incidente em terreno localizado na área portuária de Santos, pertencente à União, pela Petróleo Brasileiro S/A – PETROBRAS, mesmo quando esta estiver na condição de arrendatária da Companhia Docas do Estado de São Paulo – CODESP.
+    O processo está no Gabinete.
+    2. Certamente, no caso que deu origem ao recurso extraordinário no qual admitida a repercussão geral, o Plenário sinalizará sobre a matéria de interesse dos congregados pela Associação Nacional dos Transportadores Ferroviários – ANTF. Conforme ressaltado na petição, processos vêm sendo sobrestados na origem para aguardar-se a apreciação maior.
+    3. Admito a requerente como assistente simples, recebendo o processo no estágio em que se encontra.
+    4. Deem sequência.
+    5. Publiquem.
+Brasília – residência –, 26 de fevereiro de 2013, às 10h36.
+Ministro MARCO AURÉLIO
+Relator
