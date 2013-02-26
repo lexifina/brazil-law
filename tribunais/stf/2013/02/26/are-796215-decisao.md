@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “RECURSO INOMINADO. CONSUMIDOR. PULSOS ALÉM DA FRANQUIA. FALTA DE PREVISÃO LEGAL PARA LEGITIMAR A REFERIDA COBRANÇA QUE SE CARACTERIZA ABUSIVA. RESTITUIÇÃO NA FORMA SIMPLES. PRELIMINAR DE INCOMPETÊNCIA ABSOLUTA RATIONE PERSONAE; NULIDADE EM RAZÃO DO CERCEAMENTO DE DEFESA; INCOMPETÊNCIA ABSOLUTA EM RAZÃO DA MATÉRIA E DECADÊNCIA. REJEITADAS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO APENAS PARA QUE SEJA RESTITUÍDO OS VALORES PAGOS A TÍTULO DE “PULSOS ALÉM FRANQUIA” DE FORMA SIMPLES, DEVENDO A SENTENÇA A QUO SER MANTIDA NOS DEMAIS TERMOS. CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS A BASE DE 10% SOBRE O VALOR DA CAUSA, PELO RECORRENTE” (fl. 153).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 2º, 5, II, LIV, LV, 21, XI, 37, XXI, 98, I, e 175, III, da mesma Carta.
+    A pretensão recursal não merece acolhida. O plenário desta Corte, no julgamento do RE 571.572/BA, Rel. Min. Gilmar Mendes e RE 567.454/BA, Rel. Min. Ayres Britto, consignou que nos feitos em que se discute a necessidade de discriminação e a possibilidade da cobrança dos “pulsos excedentes”, bem como a legalidade da cobrança de tarifa de assinatura básica mensal de serviços de telefonia fixa, estão no âmbito da justiça comum, inclusive na esfera de atuação dos Juizados Especiais, bem como que esta matéria esta restrita ao plano infraconstitucional. Por oportuno, aplicando essa orientação trago os seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TELEFONIA. COBRANÇA DE PULSOS ALÉM DA FRANQUIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTE DO PLENÁRIO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 675.515/MG-AgR, Primeira Turma, Rel. Ministra Cármen Lúcia).
+    “1. A discussão sobre a discriminação nas contas telefônicas dos pulsos além da franquia está restrita ao âmbito da interpretação da legislação infraconstitucional. Precedentes.
+    2. Competência da Justiça estadual por ausência de manifestação de interesse da ANATEL. Confirmação da competência dos Juizados Especiais para julgamento da causa.
+    3. Agravo regimental improvido” (AI 604.258/BA-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
