@@ -1,0 +1,38 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PROCESSUAL CIVIL. LAUDO PERICIAL. FRAUDE. INVIABILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “Processual Civil. Ação acidentária. Fraudes. Notoriedade do fato. Relativização da coisa julgada.
+    Recurso provido.
+    1. Embora não se possa dizer que, em todos os processos que tiveram curso na 5ª Vara Cível da Comarca de Nova Iguaçu no período em que ali ocorreram fraudes, tenha esta ocorrido, certo é, contudo, que, no caso vertente, há laudo do assistente técnico atestando a ausência de lesão indenizável.
+    2. Destarte, considerando-se o princípio do devido processo legal e ainda da moralidade, também princípios constitucionais, à semelhança do princípio do respeito à coisa julgada material, anula-se o processo e determina-se a realização de nova prova pericial, prosseguindo-se o feito após, como de direito.
+    3. Agravo de Instrumento a que se dá provimento” (fl. 83).
+    Os embargos de declaração opostos pelo Agravante foram rejeitados.
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 5º, inc. XXXVI e LIV, e 37, caput e § 4º, da Constituição da República.
+    Argumenta que
+    “Afora o fato de não poder sustentar-se que todas as sentenças proferidas por aquele juiz naquele período foram fraudulentas, com efeito, inexiste qualquer vício processual que tome nulo o julgado, eis que fundamentado no documento de f. 07 - que comprova que o recorrente foi submetido a perícia do INSS quando da ocasião do acidente e que fora constado a incapacidade decorrente do acidente de trabalho - e na perícia judicial de fls. 19-21 dos autos principais.
+    Portanto, comprovado o nexo causal positivo e não havendo dúvida de que a lesão não deu causa a incapacidade para o exercício da atividade que o recorrente exercia habitualmente, mas sim, a seqüela definitiva que, embora não impedisse o desempenho da mesma atividade, demandou, permanentemente, maior esforço na realização do trabalho, a hipótese determina a concessão de benefício de auxílio acidentário” (fl. 150-151).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de que“os recursos especial (fls. 88/118) e extraordinário (fls. 120/155) foram interpostos por advogada não constituída nos autos, uma vez que, ao interpor o recurso, não foi localizada procuração outorgada pela parte recorrente à advogada subscritora das peças recursais Dra. Fernanda Almeida Mateus de Melo - OAB/RJ 117.721” (fls. 197-198).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois consta do processo (fl. 195) a procuração do Agravante outorgando poderes à advogada subscritora dos recursos.
+    Todavia, a superação desse fundamento não é suficiente para o acolhimento da pretensão do Agravante.
+    6. Razão jurídica não assiste ao Agravante.
+    7. No voto condutor do acórdão recorrido, o Relator, Desembargador Horácio dos Santos Ribeiro Neto, afirmou:
+    “embora seja certo de que não é possível crer-se que todos os processos desta época que tiveram curso na 5a. Vara Cível da Comarca de Nova Iguaçu tenham sido alvo de fraude, no caso vertente, o parecer do assistente técnico da autarquia aponta a inexistência de qualquer sequela indenizável. Tal fato ratifica que o presente processo é um daqueles em que lamentavelmente se fraudou a Previdência” (fl. 86).
+    O Tribunal a quo apreciou a matéria à luz dos fatos e das provas constantes do processo.
+    Concluir de forma diversa demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. PENSÃO POR MORTE. FILHO MAIOR INVÁLIDO. NATUREZA TEMPORÁRIA. CANCELAMENTO. LEI N. 1.195/54. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO” (AI 844.425-AgR, Rel. Min. Luiz Fux, Pimeira Turma, DJe 15.6.2012).
+    “Benefício previdênciário. Cancelamento. Suspeita de fraude. Recurso extraordinário: descabimento: controvérsia atinente à regularidade de procedimento administrativo e à violação dos princípios constitucionais do contraditório e da ampla defesa, a cujo deslinde seria necessário o revolvimento de matéria de fato e reexame de prova, aos quais não se presta o recurso extraordináro: incidência da Súmula 279” (AI 504.261-AgR, Rel. Min. Sepúlveda Pertence, Primeira Turma, Dje 24.8.2007, grifos nossos).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Impossibilidade de reexame do conjunto fático-probatório. Súmula 279. Matéria infraconstitucional. 3. Agravo regimental a que se nega provimento” (ARE 708.243-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 8.11.2012).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. REQUISITOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. QUESTÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – A verificação da existência ou não de fraude à execução, na espécie, demanda a análise do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. II – A questão atinente aos pressupostos de admissibilidade dos recursos de competência de outros Tribunais possui natureza infraconstitucional. III – Agravo regimental improvido” (RE 602.951-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, Dje 4.11.2011).
+    8. Ademais, o Supremo Tribunal assentou, ainda, que as alegações de contrariedade aos princípios direito adquirido e do devido processo legal, quando dependentes de exame de legislação infraconstitucional (Código de Processo Civil), podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+     Nada há a prover quanto à alegação do Agravante.
+    9. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
