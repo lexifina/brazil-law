@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 7º, XIV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta ao preceito constitucional indicado nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional aplicável à espécie, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: AI 809.685-AgR/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 14.10.2011; e AI 840.731-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 28.6.2011, verbis:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. “REDUÇÃO DA HORA NOTURNA”. APLICABILIDADE A EMPREGADOS SUBMETIDOS À JORNADA DE TRABALHO EM TURNOS ININTERRUPTOS DE REVEZAMENTO. MATÉRIA RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. VIOLAÇÃO À MAGNA CARTA, SE EXISTENTE, APENAS OCORRERIA DE MODO REFLEXO OU INDIRETO. Agravo regimental desprovido.”
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. TURNO ININTERRUPTO DE REVEZAMENTO. TRABALHADOR HORISTA. HORA NOTURNA REDUZIDA. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO NO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. 1. A violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra ofensa reflexa e oblíqua, tornando inadmissível o recurso extraordinário. 2. É cediço na Corte que a discussão a respeito da redução do horário noturno dos trabalhadores que laboram no regime de turnos ininterruptos de revezamento, prevista no artigo 73, § 1º, da Consolidação das Leis do Trabalho, não é incompatível com o disposto no artigo 7º, XIV, da Constituição Federal. 3. Precedentes: AI 819.972-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, publicado no DJe de 04.03.2010, AI 670780-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, publicado no DJe de 11.04.2008, AI 656940-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, publicado no DJe de 29.02.2008, e AI n. 735.868-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, publicado no DJe de 19.06.2009. 4. Agravo regimental desprovido”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
