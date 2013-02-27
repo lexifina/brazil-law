@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Vander Batista Casoti contra acórdão da Quinta Turma do Superior Tribunal de Justiça que, nos autos do REsp 1.206.103/ES, deu provimento ao recurso interposto pelo Ministério Público Federal, reformando decisão que havia absolvido sumariamente o paciente em face da atipicidade da conduta. Eis a ementa do julgado:
+    CRIMINAL. RESP. DESCAMINHO. ABSOLVIÇÃO SUMÁRIA APÓS O RECEBIMENTO DA DENÚNCIA. IMPOSSIBILIDADE. APLICAÇÃO ANALÓGICA DO ART. 397 DO CPP. IMPOSSIBILIDADE. RECURSO PROVIDO.
+    I - Hipótese na qual, recebida a denúncia, o réu foi sumariamente absolvido nos termos do art. 386, inc. III do CPP.
+    II- Não obstante a superveniência do art. 397, do Código de Processo Penal tenha possibilitado ao Juízo a absolvição sumária do réu, após o recebimento da denúncia e a apresentação de resposta, a absolvição nos termos do art. 386, inc. III do Código de Processo Penal, pressupõe todo o trâmite da ação penal iniciada com o recebimento da denúncia.
+    III É inviável, na espécie, a aplicação analógica do art. 397, do CPP, considerando-se a inexistência de manifestação do réu o qual foi citado e intimado apenas para o comparecimento à audiência prevista no § 1.º do art. 89 da Lei n.º 9.099/95 -, condição inafastável para a absolvição sumária de que trata o dispositivo em questão.
+    IV - Recurso conhecido e provido, para cassar o acórdão recorrido e a sentença por ele mantida, determinando o prosseguimento da ação penal instaurada pelo recebimento da denúncia.
+    Sustenta a impetrante, em síntese, que: (a) o paciente foi denunciado como incurso no art. 334, § 1º, alíneas “c” e “d” do Código Penal, por supostamente manter em seu estabelecimento comercial quatro máquinas de caça-níqueis de procedência estrangeira e introdução clandestina no território nacional; (b) recebida a denúncia, o paciente foi sumariamente absolvido, entendendo o magistrado de primeira instância que a conduta praticada seria atípica, pois a configuração do delito de descaminho exige do agente a consciência da procedência estrangeira da mercadoria o que, no caso, não teria ficado caracterizado; (c) o Ministério Público Federal interpôs recurso de apelação que foi desprovido, por maioria; (d) o paciente incorreu em erro de tipo, pois desconhecia a procedência estrangeira dos componentes eletrônicos das máquinas caça-níqueis e não detinha conhecimento técnico o suficiente para saber tal informação; (e) ausência de lastro probatório que justifique a manutenção do processo. Requer a concessão da ordem para que seja restabelecida a extinção da ação penal.
+    O pedido de medida liminar foi indeferido.
+    Foram prestadas informações pelo Superior Tribunal de Justiça.
+    Em parecer, a Procuradoria-Geral da República manifestou-se pela denegação da ordem.
+    2. Em razão do provimento do recurso especial interposto pelo Ministério Público Federal, a ação penal retornou o seu curso normal perante a primeira instância, nos termos fixados pelo Superior Tribunal de Justiça. Após o deslinde da instrução criminal, o Juízo da Primeira Vara Federal Criminal da Seção Judiciária do Espírito Santo julgou improcedente a pretensão acusatória e absolveu o paciente com base no art. 386, VII, do CPP. Contra essa decisão não houve interposição de recurso. Sendo esse o quadro, está prejudicado o pedido, em face da perda de seu objeto.
+    3. Com essas considerações, julgo prejudicado o presente habeas corpus (RISTF, art. 21, IX). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 27 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
