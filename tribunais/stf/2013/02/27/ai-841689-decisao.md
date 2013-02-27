@@ -1,0 +1,10 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “EMBARGOS EM RECURSO DE REVISTA DO RECLAMANTE. ACÓRDÃO EMBARGADO PUBLICADO NA VIGÊNCIA DA LEI Nº 11.496/2007. INTEMPESTIVIDADE DO RECURSO DE REVISTA. APLICAÇÃO DA SÚMULA 385/TST PELA TURMA. O presente recurso foi interposto na vigência da Lei 11.496/2007. Assim, a denúncia de violação do artigo 5º, LV, da CF/88 encontra obstáculo no artigo 894, II, da CLT, que só autoriza o conhecimento do apelo por divergência jurisprudencial. Recurso de embargos não conhecido.
+    EMBARGOS EM RECURSO DE REVISTA DA RECLAMADA. UNICIDADE CONTRATUAL. FRAUDE. MATÉRIA PROBATÓRIA. A e. Turma recusou a denúncia de violação do artigo 453 da CLT, a partir do cotejo dos elementos fáticos disponibilizados pelo Tribunal Regional, ressaltando a existência de fraude. Dessa forma, não resta dúvida de que a pretensão da reclamada encontra óbice na Súmula 296, I, do TST, uma vez que os arestos apresentados para confronto não partem do mesmo pressuposto fático a que alude a e. Turma, no sentido da ocorrência de fraude perpetrada pela empresa. Recurso de embargos não conhecido” (fl. 272).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II e XXXVI, e 7º, XXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque os Ministros desta Corte, no RE 598.365/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos de competência de Cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
