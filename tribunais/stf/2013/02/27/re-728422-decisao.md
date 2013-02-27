@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado São Paulo que, em ação de repetição de indébito, julgou cabível a repetição dos valores indevidamente pagos pela autora, uma vez que a Lei Complementar 6/2002 do Município de General Salgado foi declarada inconstitucional pelo Órgão Especial daquela Corte.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Assevera, em suma, que o acórdão recorrido divergiu do entendimento firmado por este Supremo Tribunal Federal em julgamento de processo submetido à sistemática da repercussão geral, no que toca à constitucionalidade de Lei municipal que institui a cobrança de contribuição para custeio de serviço de iluminação pública.
+    2. O recurso extraordinário não pode ser conhecido. Em primeiro lugar, a ora recorrente não apontou, nas suas razões recursais, os dispositivos constitucionais tidos por violados. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não pode ser conhecido, quanto a essa matéria, o recurso extraordinário. Incide, na hipótese, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+    Por fim, a teor da Súmula 283/STF, é "inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles".
+    No caso, o aresto decidiu que não se aplica ao caso a orientação pacificada por esta Corte no julgamento do RE 573.675, porquanto “quando o intérprete máximo da Constituição Federal manifestou-se sobre a questão, a Lei Complementar nº 06/2002, do Município de General Salgado, já havia sido submetida ao controle de constitucionalidade” (fls. 139-140) perante Órgão Especial do Tribunal a quo, que culminou na declaração de inconstitucionalidade da norma e sua consequente retirada do ordenamento jurídico. A peça recursal, todavia, não se insurge contra esse fundamento, limitando-se a afirmar a existência de divergência jurisprudencial entre o acórdão recorrido eu entendimento deste Supremo Tribunal Federal.
+    3. Isto posto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 27 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
