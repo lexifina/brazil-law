@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pela União contra decisão do Tribunal Superior do Trabalho, proferida nos autos do AIRR 34364060.2005.5.15.0131, que, ao considerar intempestivos os embargos à execução opostos, teria violado a autoridade da decisão deste Supremo Tribunal Federal proferida por ocasião do julgamento da Medida Cautelar na Ação Declaratória de Constitucionalidade 11, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 29.6.2007.
+    No presente caso, os embargos à execução opostos pela Fazenda Pública não foram conhecidos, ao fundamento de intempestividade da petição, uma vez que se afastou a aplicabilidade da medida provisória que aumentou o prazo para oposição dos embargos para trinta dias.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Passo a decidir.
+    Inicialmente, verifico que o artigo 1º-B da Lei 9.494/1997, com a redação dada pela Medida Provisória 2.180-35/2001, alterou o prazo para interposição de embargos à execução contra a Fazenda Pública de 5 para 30 dias.
+    Ocorre que o Tribunal Superior do Trabalho afastou a aplicabilidade do referido dispositivo por meio da decisão abaixo transcrita, no que interessa:
+    “Trata-se de Acórdão exarado pela e. 6ª Turma do Tribunal Superior do Trabalho em sede de agravo de instrumento que discute a suspensão dos processos em curso nos Tribunais que estejam em seus autos discutindo a inconstitucionalidade do art. 1º-B da medida Provisória nº 2.180-35/01, pelo fato de existir expressa decisão da Corte Magna Pátria determinando o sobrestamento processual até a decisão meritória da ADC-MC 11.
+    Vale mencionar que a referida norma alterou o artigo 884 da Consolidação das Leis de Trabalho, ampliando o prazo dos embargos à execução da Fazenda Pública de dez para trinta dias.
+    Entretanto, adotou-se na decisão agravada o posicionamento do e. TST sobre a matéria que, em sede de controle incidental de constitucionalidade, julgou inconstitucional a norma mencionada” (eDOC 4, p. 9-10).
+    Ao julgar a Medida Cautelar na Ação Declaratória de Constitucionalidade 11, Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 28.3.2007, esta Corte deferiu o pedido de medida liminar para determinar a suspensão do trâmite de todos os processos em que se discuta a constitucionalidade do art. 1º-B da Lei 9.494/1997, na redação dada pela Medida Provisória 2.180-35/2001. O acórdão possui a seguinte ementa:
+    “FAZENDA PÚBLICA. Prazo processual. Embargos à execução. Prazos previstos no art. 730 do CPC e no art. 884 da CLT. Ampliação pela Medida Provisória nº 2.180-35/2001, que acrescentou o art. 1º-B à Lei Federal nº 9.494/97. Limites constitucionais de urgência e relevância não ultrapassados. Dissídio jurisprudencial sobre a norma. Ação direta de constitucionalidade. Liminar deferida. Aplicação do art. 21, caput, da Lei nº 9.868/99. Ficam suspensos todos os processos em que se discuta a constitucionalidade do art. 1º-B da Medida Provisória nº 2.180-35”.
+    Assim, a violação à autoridade da decisão desta Corte é manifesta, pois a própria decisão reclamada cientifica a existência do pronunciamento proferido por este Tribunal no julgamento da ADI-MC 11, mas, ainda assim, viola a autoridade desta decisão para aplicar entendimento firmado pelo Tribunal Superior do Trabalho.
+    Ante o exposto, conheço da reclamação e julgo-a procedente, para anular o acórdão reclamado e determinar o sobrestamento do AIRR -34364060.2005.5.15.0131, até o julgamento da Ação Declaratória de Constitucionalidade 11 por esta Corte.
+    Publique-se.
+    Brasília, 27 de fevereiro de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
