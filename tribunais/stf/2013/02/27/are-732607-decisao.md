@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. ADMINISTRATIVO. INDEVIDA A GRATIFICAÇÃO DE ATIVIDADE DE GESTÃO ADMINISTRATIVA – GAG. ART. 15, LEI DISTRITAL N° 3.351/1994. CONVERTIDA EM VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA – VPNI. ART. 17, § 1°, LEI DISTRITAL N° 4.355/2009. AUTOR NÃO SE ENCONTRA EM EXERCÍCIO NA SECRETARIA DE GESTÃO ADMINISTRATIVA. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS (...)”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, caput, XXXV, LIV e LV, e 37, caput e XV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    No presente caso, o acórdão impugnado assentou que, por o recorrente não preencher os requisitos legais, não faz jus ao recebimento da vantagem pecuniária. Desse modo, para concluir em sentido diverso, seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como a interpretação da legislação infraconstitucional local aplicável à espécie (Leis distritais 3.351/2004 e 4.355/2009), o que inviabiliza o extraordinário, nos termos das Súmulas 279 e 280 desta Corte.
+    Ademais, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, a jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 27 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
