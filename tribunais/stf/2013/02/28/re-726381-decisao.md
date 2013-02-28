@@ -1,0 +1,10 @@
+Trata-se de recurso extraordinário contra acórdão proferido em ação direta de inconstitucionalidade que concedeu medida liminar para suspender os efeitos da lei municipal impugnada.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 30, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida. Nos termos da jurisprudência desta Corte, as decisões que concedem ou denegam antecipação de tutela, medidas cautelares ou provimentos liminares não perfazem juízo definitivo de constitucionalidade apto a ensejar o cabimento do recurso extraordinário. Aplicam-se ao caso as razões que deram ensejo à Súmula 735 do STF. Nesse sentido, transcrevo a ementa do AI 597.618-AgR/SP, Rel. Min. Celso de Mello:
+    “AGRAVO DE INSTRUMENTO - ACÓRDÃO QUE CONFIRMA DEFERIMENTO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA - ATO DECISÓRIO QUE NÃO SE REVESTE DE DEFINITIVIDADE - MERA ANÁLISE DOS PRESSUPOSTOS DO ‘FUMUS BONI JURIS’ E DO ‘PERICULUM IN MORA’ - INVIABILIDADE DO APELO EXTREMO - RECURSO DE AGRAVO IMPROVIDO. - Não cabe recurso extraordinário contra decisões que concedem ou que denegam a antecipação dos efeitos da tutela jurisdicional ou provimentos liminares, pelo fato de que tais atos decisórios - precisamente porque fundados em mera verificação não conclusiva da ocorrência do ‘ periculum in mora’ e da relevância jurídica da pretensão deduzida pela parte interessada - não veiculam qualquer juízo definitivo de constitucionalidade, deixando de ajustar-se, em consequência, às hipóteses consubstanciadas no art. 102, III, da Constituição da República. Precedentes”.
+    No mesmo sentido, menciono, ainda, as seguintes decisões, entre outras: AI 612.888/PR e AI 652.802-AgR/CE, Rel. Min. Cármen Lúcia; AI 788.286/CE, Rel. Min. Eros Grau; AI 780.976/PE, Rel. Min. Ayres Britto; RE 570.610-AgR/DF e AI 694.440-AgR/RJ, Rel. Min. Joaquim Barbosa; AI 619.438-AgR/SP, Rel. Min. Ellen Gracie; RE 550.865-AgR/SP, Rel. Min. Cezar Peluso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
