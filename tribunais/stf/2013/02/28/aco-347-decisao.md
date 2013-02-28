@@ -1,0 +1,9 @@
+Despacho: Em petição de fls. 2.360-2.366, Luiz Debona e Outros informaram que são detentores de provimentos judiciais favoráveis oriundos do juízo da Comarca de Posse (GO) que lhes garantem a reintegração na posse de imóveis localizados em região abrangida pela controvérsia dos autos. Ao final, foi postulado o restabelecimento da eficácia dos provimentos judiciais oriundos da Comarca de Posse (GO), bem como que diversas autoridades do estado da Bahia se abstivessem de realizar medidas que dificultem ou impeçam o cumprimento das decisões e sentenças da Comarca de Posse (GO).
+    Em observância ao contraditório e à ampla defesa, e considerando que a determinação de suspensão dos efeitos dos provimentos judiciais da Comarca de Posse decorreu de requerimento da Procuradoria do Estado da Bahia, dê-se vista ao Estado da Bahia para que, no prazo de 10 (dez) dias, se manifeste a respeito da petição de fls. 2.360-2.366, informando, em particular, se subsiste o interesse do estado da Bahia de que as decisões judiciais da Comarca de Posse permaneçam com a eficácia suspensa até a decisão final deste processo.
+    Em decorrência do que requerido na petição de fls. 2.716-2.720, oficie-se ao juízo da Comarca de São Domingos (GO) para que informe, no prazo de 10 (dez) dias, sobre as alegações apresentadas pelo requerente, no sentido de que a decisão liminar desta Suprema Corte que determinou o sobrestamento dos feitos está sendo descumprida. O ofício deverá ser instruído com cópia da aludida petição (fls. 2.716-2.720).
+    Após o decurso do prazo acima previsto (prazo de dez dias), dê-se vista a todas as partes para que, no prazo de 15 (quinze) dias, tenham ciência de todos os documentos acostados aos autos e possam sobre eles se manifestar.
+    Em seguida, dê-se vista ao Ministério Público Federal para elaboração de parecer.
+    Brasília, 28 de fevereiro de 2013.
+Ministro LUIZ FUX
+Relator
+Documento assinado digitalmente
