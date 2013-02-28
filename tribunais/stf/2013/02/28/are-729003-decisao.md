@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “REMESSA OFICIAL E APELAÇÃO CÍVEL – PROCESSUAL CIVIL – ADMINISTRATIVO E CONSTITUCIONAL – SERVIDORES PÚBLICOS MILITARES TRANSFERIDOS PARA A RESERVA REMUNERADA ANTES DO ADVENTO DA EC Nº 21/95 E DA EC Nº 19/98 – INCORPORAÇÃO DE VANTAGENS DE ACORDO COM A LEGISLAÇÃO EM VIGOR NA ÉPOCA DAS RESPECTIVAS CONCESSÕES – ATO JURÍDICO PERFEITO E DIREITO ADQUIRIDO – SENTENÇA QUE NÃO COMPORTA REPAROS PORQUE DESLINDOU A QUESTÃO EM CONFORMIDADE COM A LEI ENTÃO EM VIGOR E COM PRINCÍPIOS CONSTITUCIONAIS ATINENTES À ESPÉCIE – REMESSA OFICIAL E APELO RECURSAL CONHECIDOS MAS IMPROVIDOS”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 37, XIV, da mesma Carta, bem como ao art. 17 do ADCT.
+    A pretensão recursal merece acolhida.
+    Isso porque o Juízo a quo divergiu do entendimento firmado por esta Corte, quando do julgamento do RE 288.304/CE, Rel. Min. Ilmar Galvão, pelo Plenário desta Corte, no sentido de que o adicional de inatividade instituído pela Lei Estadual 11.167/86, calculado sobre os proventos em função do tempo de serviço ofende o artigo 37, XIV, da CF/88. Com o mesmo entendimento menciono julgados de ambas as Turma deste Tribunal:
+    “Agravo regimental no recurso extraordinário. Lei estadual nº 11.167/86. Adicional de inatividade. Impossibilidade. Precedentes. 1. A percepção, pelos servidores inativos da Polícia Militar do Estado do Ceará, do adicional de inatividade instituído pela Lei Estadual nº 11.167/86, calculado sobre os proventos, em função do tempo de serviço, ofende o art. 37, XIV, da Constituição Federal. 2. Agravo regimental não provido” (RE 400.511-AgR/CE, Rel. Min. Dias Toffoli, Primeira Turma).
+    “CONSTITUCIONAL E ADMINISTRATIVO. LEI 11.167/86 DO ESTADO DO CEARÁ. ADICIONAL DE INATIVIDADE. 1. Afastamento da incidência recíproca de adicionais de igual título ou idêntico fundamento, nos termos do art. 37, XIV, da Constituição Federal, em obediência ao precedente do Plenário: RE 288.304/CE. 2. Agravo regimental improvido” (RE 449.671-AgR/CE, Rel. Min. Ellen Gracie, Segunda Turma).
+    Isso posto, com base no art. 544, § 4º, II, c, do CPC, dou provimento ao agravo, conheço do recurso extraordinário e dou-lhe provimento. Honorários a serem fixados pelo juízo de origem, nos termos da legislação processual.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
