@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, X, LV, e 220, §1º, da Carta Política.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O exame de eventual ofensa ao preceito constitucional indicados nas razões recursais, consagrador da proteção à ampla defesa, demanda, em primeiro plano, a interpretação das normas infraconstitucionais aplicáveis à espécie, de tal modo que, se afronta ocorresse, seria indireta, o que não atende à exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal, verbis:
+    "CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO: ALEGAÇÃO DE OFENSA À C.F., art. 5º, II, XXXV, XXXVI, LIV e LV. I. - Ao Judiciário cabe, no conflito de interesses, fazer valer a vontade concreta da lei, interpretando-a. Se, em tal operação, interpreta razoavelmente ou desarrazoadamente a lei, a questão fica no campo da legalidade, inocorrendo o contencioso constitucional. II. - Decisão contrária ao interesse da parte não configura negativa de prestação jurisdicional (C.F., art. 5º, XXXV). III. - A verificação, no caso concreto, da existência, ou não, do direito adquirido, situa-se no campo infraconstitucional. IV. - Alegação de ofensa ao devido processo legal: C.F., art. 5º, LIV e LV: se ofensa tivesse havido, seria ela indireta, reflexa, dado que a ofensa direta seria a normas processuais. E a ofensa a preceito constitucional que autoriza a admissão do recurso extraordinário é a ofensa direta, frontal. V. - Agravo não provido" (STF-RE-AgR-154.158/SP, Relator Ministro Carlos Velloso, 2ª Turma, DJ 20.9.2002).
+     O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da inexistência de dano moral indenizável, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2013.
+Ministra Rosa Weber
+Relatora
