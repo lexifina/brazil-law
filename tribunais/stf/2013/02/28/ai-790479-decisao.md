@@ -1,0 +1,23 @@
+AGRAVO DE INSTRUMENTO. CIVIL. CONTRATO DE SEGURO. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL CÓDIGO DE DEFESA DO CONSUMIDOR. OFENSA INDIRETA. ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULA 454 DO STF. IMPOSSIBILIDADE DE APRECIAÇÃO PELO SUPREMO TRIBUNAL FEDERAL.
+1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+2. É cediço na Corte que a interpretação de cláusulas contratuais não viabiliza o recurso extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal.
+3. In casu, o acórdão recorrido assentou:
+“Apelação cível. Seguros. Ação declaratória de nulidade de cláusula. Aplicação do Código de Defesa do Consumidor aos contratos de seguro. É abusiva a cláusula contratual que prevê a possibilidade de cancelamento unilateral do contrato de seguro em caso de alteração da natureza dos riscos. O fato de a seguradora ter demonstrado seu prejuízo com a contratualidade não se mostra suficiente para configurar desequilíbrio, mas mera realização do risco assumido. Ou seja, não pode pretender a seguradora operar apenas com lucros ou denunciar o contrato em face de ocorrência do risco, pois isso está intrínseco na própria natureza e finalidade do contrato. Apelo provido.”
+4. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Trata-se de agravo de instrumento interposto por COMPANHIA DE SEGUROS MINAS BRASIL S.A., com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 177):
+    “Apelação cível. Seguros. Ação declaratória de nulidade de cláusula. Aplicação do Código de Defesa do Consumidor aos contratos de seguro. É abusiva a cláusula contratual que prevê a possibilidade de cancelamento unilateral do contrato de seguro em caso de alteração da natureza dos riscos. O fato de a seguradora ter demonstrado seu prejuízo com a contratualidade não se mostra suficiente para configurar desequilíbrio, mas mera realização do risco assumido. Ou seja, não pode pretender a seguradora operar apenas com lucros ou denunciar o contrato em face de ocorrência do risco, pois isso está intrínseco na própria natureza e finalidade do contrato. Apelo provido.”
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, apontam violação ao artigo 5º, XX, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a intimação do acórdão recorrido ocorreu em data anterior a maio de 2007, logo, o agravante está desobrigado de apresentar a preliminar formal e fundamentada da repercussão do caso, nos termos do decidido pelo Plenário desta Corte quando do julgamento da QO-AI n. 664.567, Relator o Ministro SEPÚLVEDA PERTENCE, DJ de 6.9.2007:
+          “a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 03 de maio de 2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007 ”.
+    Não merece prosperar o apelo.
+    Verifica-se que a controvérsia foi decidida com fundamento na legislação infraconstitucional de regência, no caso sub examine o Código de Defesa do Consumidor. A violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido, o RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10, entre outros.
+    Demais disso, para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame de cláusulas contratuais, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 28 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
