@@ -1,0 +1,10 @@
+Decisão:
+    1. Trata-se de habeas corpus preventivo, com pedido de medida liminar, impetrado em favor de Carmen Vitória Quaggio Bresolin contra decisão proferida pela Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que deu provimento ao Resp 1.122.446/SP para fixar o regime semiaberto para o início do cumprimento da pena.
+    Na inicial, alega-se que: (a) a paciente foi condenada à pena de 04 (quatro) anos de reclusão pela prática do delito tipificado no art. 95, “d” da Lei 8.212/91 c/c o art. 5º da Lei 7.492/86, na forma do art. 71 do CP; (b) o Juízo de primeiro grau fixou o regime inicial fechado para o cumprimento da pena; (c) o TRF reformou a decisão, no ponto, para estabelecer o regime inicial aberto e determinar a substituição da pena privativa de liberdade por restritivas de direitos; (c) o acórdão foi impugnado pelo Ministério Público, dando ensejo à decisão ora atacada; (d) a paciente encontra-se acometida de doença grave, mieloma múltiplo, sendo submetida, inclusive, à transplante de medula óssea e a quimioterapia; (e) a impossibilidade do cumprimento da pena na forma determinada, pois coloca em risco a vida da paciente, conforme os atestados médicos apresentados. Requer a concessão de medida liminar para que “a paciente cumpra a pena em regime domiciliar”.
+    2. Na hipótese, a decisão impugnada não apreciou a matéria invocada na impetração, limitando-se a decidir sobre o regime inicial do cumprimento da reprimenda imposta. Assim, qualquer juízo desta Corte acerca das questões aqui suscitadas implicaria indevida supressão de instância e de contrariedade à repartição constitucional de competências. Nessa linha de consideração: RHC 93.304, 2ª T., Min. Joaquim Barbosa, Dje de 19/12/2008; HC 112.100/DF, 2ª T., Min. Cezar Peluso, Dje de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, Dje de 06/09/2012.
+    3. Diante do exposto, sem prejuízo do exame da matéria perante o juízo da execução penal, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 28 de fevereiro de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
