@@ -1,0 +1,9 @@
+Decisão: Cuida-se de exceção de impedimento em mandado de segurança impetrado perante o Tribunal de Justiça do Estado do Amazonas, contra ato do próprio Tribunal que, em processo administrativo disciplinar, aplicou ao excipiente a pena de aposentadoria compulsória com proventos proporcionais. Alega o excipiente que 17 dos 19 Desembargadores daquela Corte estão impedidos de julgar o mandado de segurança por terem participado do julgamento do processo administrativo.
+    Os Desembargadores exceptos, instados a se manifestar, não reconheceram, nenhum deles, o alegado impedimento, razão pela qual os autos da exceção foram remetidos a esta Corte, visto que, conforme precedente sobre o tema, “O STF é competente para processar e julgar exceção quando a ela se opõem mais da metade dos Desembargadores do Tribunal a quo. Se procedente, julga-se o mérito da ação principal. Se improcedente, devolvem-se os autos ao Tribunal de origem, a quem competirá apreciar a questão de fundo” (STF, AO 847, Rel. Min. Maurício Corrêa, Tribunal Pleno, DJ 18.10.2002).
+    No que se refere ao objeto da exceção, decidiu o Plenário desta Corte, também em exceção em que se questionava o impedimento de Desembargadores em mandado de segurança, que “o fato de haverem participado com seus votos da formação dos atos administrativos questionados não lhes acarreta, por si só, nem interesse direto, nem impedimento para julgá-lo” (STF, AO 813 AgR, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ 31.8.2001).
+    Pelo exposto, nego seguimento à exceção, com fundamento no art. 21, §1º, do RISTF, reconhecendo, com isso, a competência do Tribunal local para o processo e julgamento do mandado de segurança.
+    Publique-se.
+    Brasília, 28 de fevereiro de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
