@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve a sentença que declarou o “o direito do autor ao imediato processamento, na via administrativa, da progressão (vertical e horizontal) na Carreira de Procurador Federal, observados os requisitos previstos nos Decretos nº 84.669/80 e nº 89.310/84, bem como as alterações promovidas pela Lei nº 10.909/04”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, e 98, I, da mesma Carta.
+    A pretensão recursal não merece acolhida. Os Ministros desta Corte, no ARE 640.671-RG/RS, Rel. Min. Presidente, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da complexidade da causa para efeito de competência do juizado especial, por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 10.909/2004, Medida Provisória 2.229-43/2001 e Decretos 84.669/1980 e 89.310/84). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, em casos análogos ao dos autos, cito os seguintes precedentes: RE 716.835/RS, Rel. Min. Cármen Lúcia e ARE 700.916/SC, Rel. Min. Dias Toffoli.
+    Por fim, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo juízo a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 28 de fevereiro de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
