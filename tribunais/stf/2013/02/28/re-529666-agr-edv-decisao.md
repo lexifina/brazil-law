@@ -1,0 +1,23 @@
+EMBARGOS DE DIVERGÊNCIA. TESE SOBRE O CONFLITO APARENTE ENTRE LEI COMPLEMENTAR E LEI ORDINÁRIA. ACÓRDÃO EMBARGADO QUE DIVERGE DO ENTENDIMENTO PROFERIDO NO PLENO DESTA CORTE.
+1. O Plenário deste Tribunal, ao apreciar o RE 377.457/PR e o RE 381.964/MG, Relator o Ministro GILMAR MENDES, reconheceu como exclusivamente de âmbito constitucional a questão relativa à revogação, pelo art. 56 da Lei 9.430/96, da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Tal entendimento é diametralmente oposto àquele resultante do acórdão ora embargado.
+2. Embargos de divergência acolhidos para conhecer e dar provimento ao recurso extraordinário interposto pela União Federal, em ordem a denegar o mandado de segurança impetrado pela parte ora embargada.
+    Decisão: Trata-se de embargos de divergência opostos pela União Federal (Fazenda Nacional) contra acórdão proferido pela 1ª Turma desta Corte, da relatoria do Ministro Marco Aurélio, com esta ementa (fl. 291):
+    “RECURSO EXTRAORDINÁRIO – PROVIMENTO JUDICIAL COM DUPLO FUNDAMENTO – LEGAL E CONSTITUCIONAL – AUSÊNCIA DE INTERPOSIÇÃO DO ESPECIAL. Se do acórdão impugnado mediante o extraordinário consta duplo fundamento – legal e constitucional -, incumbe à parte interpor simultaneamente o recurso especial. Não o fazendo, dá-se a preclusão”.
+    Cuida-se de recurso extraordinário interposto pela União Federal com a finalidade de que seja declarada a constitucionalidade da revogação, por meio da Lei 9.430/96, da isenção da COFINS concedida pela LC 70/91 às sociedade civis de prestação de serviços profissionais.
+    Discute-se a, entendendo a embargante haver divergência jurisprudencial entre o acórdão ora embargado e outras decisões deste Tribunal.
+    Intimados para manifestarem-se em contrarrazões, os embargados permaneceram silentes (fls. 472).
+    É o breve relatório. Decido.
+    O artigo 330 do RISTF prevê, verbis:
+    “Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento , divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal”.
+    O Plenário deste Tribunal, ao apreciar o RE 377.457/PR e o RE 381.964/MG, Rel. Min. GILMAR MENDES, reconheceu como exclusivamente de âmbito constitucional a questão referente à subsistência jurídica do art. 56 da Lei nº 9.430/96 em face do art. 6º, inciso II, da Lei Complementar nº 70/91. Tal entendimento é diametralmente oposto àquele resultante do acórdão ora embargado. Vejamos:
+    EMENTA: Contribuição social sobre o faturamento - COFINS (CF, art. 195, I). 2. Revogação pelo art. 56 da Lei 9.430/96 da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Legitimidade. 3. Inexistência de relação hierárquica entre lei ordinária e lei complementar. Questão exclusivamente constitucional, relacionada à distribuição material entre as espécies legais. Precedentes. 4. A LC 70/91 é apenas formalmente complementar, mas materialmente ordinária, com relação aos dispositivos concernentes à contribuição social por ela instituída. ADC 1, Rel. Moreira Alves, RTJ 156/721. 5. Recurso extraordinário conhecido mas negado provimento.
+    (RE 377457, Relator o Ministro Gilmar Mendes, Pleno, DJ de 17.09.2008).
+    EMENTA: Contribuição social sobre o faturamento – COFINS (CF, art. 195, I). 2. Revogação, pelo art. 56 da Lei 9.430/96, da isenção concedida às sociedades civis de profissão regulamentada pelo art. 6º, II, da Lei Complementar 70/91. Legitimidade. 3. Inexistência de relação hierárquica entre lei ordinária e lei complementar. Questão exclusivamente constitucional, relacionada à distribuição material entre as espécies legais. Precedentes. 4. A LC 70/91 é apenas formalmente complementar, mas materialmente ordinária, com relação aos dispositivos concernentes à contribuição social por ela instituída. ADC 1, Rel. Moreira Alves, RTJ 156/721. 5. Recurso extraordinário conhecido, mas negado provimento.
+    (RE 381664, Relator o Ministro Gilmar Mendes, Pleno, DJ de 12.03.2009).
+    Ex positis, em face das razões expostas, acolho os presentes embargos de divergência, para conhecer e dar provimento ao recurso extraordinário interposto pela União Federal, em ordem a denegar o mandado de segurança impetrado pela parte ora embargada.
+    Considerando a súmula 512 do Supremo Tribunal Federal, deixo de condenar ao pagamento de honorários advocatícios de sucumbência: Súmula 512/STF: Não cabe condenação em honorários de advogado na ação de mandado de segurança.
+    Publique-se. Int..
+    Brasília, 28 de fevereiro de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
