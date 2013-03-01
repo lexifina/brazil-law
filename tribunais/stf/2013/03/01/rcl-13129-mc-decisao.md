@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra decisão da Turma Recursal dos Juizados Especiais Federais de Pernambuco, que, ao julgar apelação, teria desrespeitado a autoridade da decisão desta Corte proferida no AI 754745, convertido no RE 632212 (Rel. Min. Gilmar Mendes), sujeito ao regime da repercussão geral.
+    Sustenta a reclamante, em síntese, que a turma não poderia ter julgado o recurso, ante a determinação de que deveriam ficar sobrestados todos os recursos que se referem à questão dos expurgos inflacionários relativos ao Plano Collor II. Requer o deferimento de liminar, “(...) a fim de evitar que o RE não tenha seu seguimento deferido e a decisão transite em julgado, causando danos irreparáveis à ora Reclamante” (pág. 5 da petição inicial).
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, para garantir a efetividade do resultado do futuro e provável juízo de procedência.
+    No caso, não foi demonstrada a indispensabilidade de se antecipar o deferimento do pedido, suposto cabível. Inicialmente, há dúvida razoável sobre a questão jurídica versada no acórdão ora reclamado, porquanto não é possível identificar quais os valores objeto dos expurgos – os bloqueados pelo Banco Central ou os que ficaram disponíveis na conta de poupança.
+    E a questão constitucional reconhecida como de repercussão geral no caso paradigma versa sobre os valores disponíveis, conforme se depreende de trecho do voto do Min. Gilmar Mendes: “Importante frisar que o tema submetido à análise de repercussão geral trata de correção monetária de depósitos em cadernetas de poupança com relação ao plano econômico denominado Collor II e abrange os valores não bloqueados pelo Banco Central do Brasil.” (grifei).
+    Ademais, se de fato o acórdão reclamado versar sobre os valores que ficaram disponíveis para os poupadores, não há risco de dano à reclamante. Inicialmente porque o recurso extraordinário interposto ficará sobrestado, em razão de o tema estar sujeito ao regime da repercussão geral. E, ainda, porque a reclamante ajuizou a reclamação antes do trânsito em julgado da ação originária, de modo que a procedência da reclamação, ainda que reconhecida posteriormente, implicará cassação do acórdão alegadamente ofensivo à autoridade de julgado desta Corte. Ausente, portanto, o chamado periculum in mora.
+    3. Ante o exposto, indefiro a liminar.
+    Solicitem-se informações à Turma Recursal dos Juizados Especiais Federais de Pernambuco, especificamente sobre os valores objeto da ação – os bloqueados pelo Banco Central ou os disponíveis à poupadora.
+    Após, remetam-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 1º de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
