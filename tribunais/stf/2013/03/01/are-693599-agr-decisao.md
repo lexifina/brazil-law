@@ -1,0 +1,19 @@
+DECISÃO: Reconsidero a decisão ora agravada, restando prejudicado, em consequência, o exame do recurso contra ela interposto.
+    Passo, desse modo, a apreciar o presente agravo.
+    O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 569.056/PA, Rel. Min. MENEZES DIREITO, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Recurso extraordinário. Repercussão geral reconhecida. Competência da Justiça do Trabalho. Alcance do art. 114, VIII, da Constituição Federal.
+    1. A competência da Justiça do Trabalho prevista no art. 114, VIII, da Constituição Federal alcança apenas a execução das contribuições previdenciárias relativas ao objeto da condenação constante das sentenças que proferir.
+    2. Recurso extraordinário conhecido e desprovido.”
+    Cumpre destacar, por oportuno, ante a inquestionável procedência de suas observações, a seguinte passagem do voto do eminente Ministro MENEZES DIREITO, proferido por ocasião do mencionado julgamento plenário, no sentido de que “a execução das contribuições previdenciárias está no alcance da Justiça Trabalhista quando relativas ao objeto da condenação constante das suas sentenças, não abrangendo a execução de contribuições previdenciárias atinentes ao vínculo de trabalho reconhecido na decisão, mas sem condenação ou acordo quanto ao pagamento de verbas salariais que lhe possam servir como base de cálculo”.
+    Cabe ressaltar, por necessário, que essa orientação plenária vem sendo observada em julgamentos, que, proferidos no âmbito desta Corte, versaram questão essencialmente idêntica à que ora se examina nesta sede recursal (AI 625.934/MT, Rel. Min. JOAQUIM BARBOSA – AI 630.763/PE, Rel. Min. MARCO AURÉLIO – AI 657.248/MS, Rel. Min. CÁRMEN LÚCIA – RE 570.432/MS, Rel. Min. AYRES BRITTO – RE 588.796/MT, Rel. Min. ELLEN GRACIE – RE 599.728/MT, Rel. Min. EROS GRAU, v.g.), valendo referir, dentre eles, aquele que, proferido pela colenda Segunda Turma desta Corte, apreciou controvérsia idêntica à ora versada nesta causa, em decisão que desautoriza a pretensão recursal da recorrente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. ACORDO HOMOLOGADO APÓS TRÂNSITO EM JULGADO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ART. 114, VIII, DA CONSTITUIÇÃO DO BRASIL.
+    1. O Supremo Tribunal Federal fixou entendimento no sentido de que a competência da Justiça do Trabalho restringe-se à execução, de ofício, das contribuições previdenciárias decorrentes de sentenças condenatórias e não alcança, assim, aquela relativa ao vínculo empregatício reconhecido na sentença, mas sem condenação ou acordo sobre o pagamento das verbas trabalhistas que possam servir como base de cálculo. [RE n. 569.056, Plenário, Relator o Ministro Menezes Direito, DJ de 12.12.08].
+    2. As alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição.
+    Agravo regimental a que se nega provimento.”
+    (AI 760.826-AgR/SP, Rel. Min. EROS GRAU)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em análise.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 1º de março de 2013.
+Ministro CELSO DE MELLO
+Relator
