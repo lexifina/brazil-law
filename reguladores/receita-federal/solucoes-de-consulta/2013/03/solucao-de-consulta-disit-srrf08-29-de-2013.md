@@ -1,0 +1,17 @@
+Solução de Consulta Disit/SRRF08 nº 29, de 31 de janeiro de 2013
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins RETENÇÃO NA FONTE. Assunto: Contribuição para o PIS/Pasep RETENÇÃO NA FONTE. Assunto: Contribuição Social sobre o Lucro Líquido - CSLL RETENÇÃO NA FONTE.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+RETENÇÃO NA FONTE. O pagamento por serviços de instalação de “sistemas centrais de ar condicionado” não está sujeito à retenção de Cofins, nos termos do art.30 da Lei nº10.833, de 2003.
+Em contraste, os pagamentos por serviços de manutenção de sistemas centrais de ar condicionado, quando tais serviços sejam destinados a mantê-los em condições eficientes de operação, estão sujeitos à referida obrigação de retenção.
+No entanto, se a manutenção for feita em ‘caráter isolado’, como um mero conserto de um bem defeituoso, o pagamento pelo serviço não está sujeito à retenção em pauta. Não há, porém, como se identificar ‘caráter isolado’ em quaisquer trabalhos de manutenção que decorram de contrato de trato continuado, o que inviabiliza sequer se cogitar de aos pagamentos decorrentes de tais contratos se aplicar a exceção à obrigação de retenção.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, §1º; IN SRF nº 459, de 2004, art.1º, §2º, II e IV; PN CST nº 08, de 1986.
+Assunto: Contribuição para o PIS/Pasep
+RETENÇÃO NA FONTE. O pagamento por serviços de instalação de “sistemas centrais de ar condicionado” não está sujeito à retenção de Contribuição para o PIS/Pasep, nos termos do art.30 da Lei nº10.833, de 2003.
+Em contraste, os pagamentos por serviços de manutenção de sistemas centrais de ar condicionado, quando tais serviços sejam destinados a mantê-los em condições eficientes de operação, estão sujeitos à referida obrigação de retenção.
+No entanto, se a manutenção for feita em ‘caráter isolado’, como um mero conserto de um bem defeituoso, o pagamento pelo serviço não está sujeito à retenção em pauta. Não há, porém, como se identificar ‘caráter isolado’ em quaisquer trabalhos de manutenção que decorram de contrato de trato continuado, o que inviabiliza sequer se cogitar de aos pagamentos decorrentes de tais contratos se aplicar a exceção à obrigação de retenção.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, §1º; IN SRF nº 459, de 2004, art.1º, §2º, II e IV; PN CST nº 08, de 1986.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+RETENÇÃO NA FONTE. O pagamento por serviços de instalação de “sistemas centrais de ar condicionado” não está sujeito à retenção de CSLL, nos termos do art.30 da Lei nº10.833, de 2003.
+Em contraste, os pagamentos por serviços de manutenção de sistemas centrais de ar condicionado, quando tais serviços sejam destinados a mantê-los em condições eficientes de operação, estão sujeitos à referida obrigação de retenção.
+No entanto, se a manutenção for feita em ‘caráter isolado’, como um mero conserto de um bem defeituoso, o pagamento pelo serviço não está sujeito à retenção em pauta. Não há, porém, como se identificar ‘caráter isolado’ em quaisquer trabalhos de manutenção que decorram de contrato de trato continuado, o que inviabiliza sequer se cogitar de aos pagamentos decorrentes de tais contratos se aplicar a exceção à obrigação de retenção.
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, §1º; IN SRF nº 459, de 2004, art.1º, §2º, II e IV; PN CST nº 08, de 1986.
