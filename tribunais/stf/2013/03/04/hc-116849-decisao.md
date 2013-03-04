@@ -1,0 +1,34 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Djalma da Costa e Silva em favor de Pedro Alberto Telis de Sousa, apontando como autoridade coatora o Ministra Ari Pargendler, à época, Presidente do Superior Tribunal de Justiça, que indeferiu a liminar no HC nº 247.770/MA, impetrado àquela Corte de Justiça.
+    Inicialmente, assevera o impetrante que o caso concreto autoriza o afastamento do enunciado da Súmula nº 691/STF.
+    No mais, sustenta o constrangimento ilegal imposto ao paciente, tendo em vista a existência de eventual nulidade da sentença que o pronunciou.
+    Aduz, para tanto, a ocorrência de excesso de linguagem, uma vez que “o magistrado exarou convicção no sentido de ser o paciente o autor do fato em questão, inclusive extrapolando o mero exame de admissibilidade, para adentrar no mérito (...)” (fl. 10 da inicial – grifos do autor).
+    Alega que nulidade da pronúncia também decorre da não apresentação de alegações finais por parte de 2 (dois) corréus.
+    Esclarece, ainda, que a desistência de agravo regimental interposto na oportunidade pelo antigo patrono teria causado prejuízo ao paciente.
+    Afirma, por fim, que o periculum in mora se faz presente na espécie, pois o julgamento do paciente pelo Tribunal do Júri encontra-se marcado para 5/3/13.
+    Requer o deferimento da liminar para suspender a sessão de julgamento do paciente pelo Tribunal do Júri e, no mérito, pede a concessão da ordem para que seja anulada a sentença de pronúncia ou “desconstituída a desistência de julgamento do Agravo Regimental no Agravo de Instrumento (item IV), e renovado o prazo para sua interposição” (fl. 23 - grifos do autor).
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    Cuida-se, na espécie de decisão indeferitória de liminar, devendo incidir, na espécie, a Súmula nº 691 deste Supremo Tribunal Federal, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de 'habeas corpus' impetrado contra decisão do Relator que, em 'habeas corpus' requerido a tribunal superior, indefere a liminar”.
+    Embora o impetrante não tenha juntado cópia da decisão ora questionada, é possível acessá-la através do sítio do Superior Tribunal de Justiça na internet, cujo teor transcrevo:
+    “1. Trata-se de habeas corpus, com pedido de liminar, impetrado por Antônio Joabe Bonfim Rodrigues e outros em favor de Pedro Alberto Telis de Sousa contra acórdão proferido pela Segunda Câmara de Direito Criminal do Tribunal de Justiça do Estado do Maranhão em que requer a anulação do desaforamento de julgamento pelo Tribunal do Júri (fl. 1/14).
+    2. O deferimento da medida liminar implica o exame do próprio mérito da impetração, tarefa insuscetível de ser realizada em juízo preliminar.
+    Indefiro, por isso, a medida liminar.
+    Solicitem-se as informações.
+    Após, vista ao Ministério Público Federal e posterior encaminhamento ao Relator” (www.stj.jus.br).
+    É certo que a jurisprudência desta Suprema Corte tem acolhido o abrandamento da referida súmula para admitir a impetração de habeas corpus se os autos demonstrarem ser hipótese de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre na espécie.
+    Com efeito, essa circunstância, por si só, já inviabilizaria conhecimento da presente impetração, uma vez que não se verifica situação de flagrante ilegalidade apta a ensejar o afastamento excepcional da Súmula nº 691 desta Suprema Corte.
+    Ademais, ainda que fosse o caso de superação da súmula em questão, há de se considerar, ressalvado meu entendimento pessoal, a decisão da Primeira Turma que, em sessão extraordinária datada de 7/8/12, assentou, quando do julgamento do HC nº 109.956/PR, Relator o Ministro Marco Aurélio, a inadmissibilidade do habeas corpus que tenha por objetivo substituir o recurso ordinário constitucional, previsto no art. 102, inciso II, alínea a da Carta da República.
+    Consoante o dispositivo em questão, compete a este Supremo Tribunal julgar, em recurso ordinário, “o ‘habeas-corpus’, o mandado de segurança, o ‘habeas-data’ e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão”.
+    Além disso, conforme expressamente consignado pelo eminente relator naquela assentada, “o habeas corpus substitutivo do recurso ordinário, além de não estar abrangido pela garantia constante do inciso LXVIII do artigo 5º do Diploma Maior, não existindo sequer previsão legal, enfraquece este último documento, tornando-o desnecessário no que, nos artigos 102, inciso II, alínea ‘a’, e 105, inciso II, alínea ‘a’, tem-se a previsão do recurso ordinário constitucional a ser manuseado, em tempo, para o Supremo, contra decisão proferida por Tribunal Superior indeferindo ordem, e para o Superior Tribunal de Justiça contra ato de Tribunal Regional Federal e de Tribunal de Justiça” (HC nº 108.715/RJ).
+    Esse é exatamente o caminho a ser trilhado por esta impetração em caso de eventual retificação da inicial, após superveniente julgamento de mérito do writ impetrado ao Superior Tribunal de Justiça.
+    Entretanto, nada impede que esta Suprema Corte, quando do manejo inadequado do habeas corpus como substitutivo (art. 102, inciso II, alínea “a” da CF), analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que não é o caso dos autos.
+    Apenas para registro, destaco que as questões tratadas nesta impetração não foram objeto do HC nº 247.770/MA, impetrado àquela Corte de Justiça. Pelo que se verifica das decisões que indeferiram os pedidos de liminar e de reconsideração o objeto daquele writ diz respeito à anulação de pedido de desaforamento acolhido pelo juízo de primeiro grau.
+    Portanto, a apreciação das questões trazidas à apreciação, de forma originária, neste ensejo, configuraria verdadeira supressão de instância não admitida. Nesse sentido, os precedentes seguintes: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    Por tudo quanto exposto, entendendo não demonstrada, satisfatoriamente, nenhuma ilegalidade flagrante apta a ensejar uma concessão de ofício, nos termos do art. 38 da Lei nº 8.038/90 e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 4 de março de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
