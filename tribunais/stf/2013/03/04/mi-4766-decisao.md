@@ -1,0 +1,21 @@
+Decisão: Trata-se de mandado de injunção contra suposta omissão legislativa sobre “propagandas ambientais”.
+    O impetrante aponta a suposta omissão da regulamentação legislativa da proteção da propaganda comercial ambiental enganosa, que deveria ser tutelada por uma “certificação da propaganda ambiental” por meio da edição de uma lei federal, de modo a atender ditames do art. 220, §3º, II, da CF/88.
+    Alega o seguinte:
+    “A propaganda ambiental enganosa é um problema mundia designado pelo termo ‘greenwashing’. Da propaganda enganosa ambiental, não se encontra proteção junto ao direito pátrio, onde a defesa contra a ‘publicidade enganosa’, com sede no artigo 37 da Lei 8078/90, Código de Defesa do Consumidor, não tutela os aspectos ideológicos da propaganda. (…)
+    Nesse contexto, urge atender ao clamor constitucional de mais de vinte anos (1988), constante do artigo 220, parágrafo 3º, inciso II, norma constitucional de eficácia limitada (classificação de José Afonso da Silva), de forma a garantir, com edição de lei federal nela pretendida, a idoneidade da informação transmitida nas ‘propagandas ambientais’, certificando-se de sua veracidade.
+    (...)”. (eDOC 1 ,p.3)
+    Ao final, requer a citação do Presidente do Congresso Nacional, e a sua notificação acerca da necessidade da ediçãode legislação de norma que supra a suposta lacuna constitucional, de modo a regulamentar a “certificação da propaganda ambiental” (eDOC 1, p.6)
+    Decido.
+    O mandado de injunção é uma garantia constitucional cabível para viabilizar o exercício de direitos ou liberdades constitucionais que estejam obstados por ausência de norma regulamentadora (art. 5º, LXXI, da Constituição). Desse modo, o Supremo Tribunal Federal assentou que a omissão legislativa que inviabilize o exercício de um direito assegurado constitucionalmente ao impetrante é pressuposto de admissibilidade e cabimento do mandado de injunção.
+    Nesse sentido é a jurisprudência dominante deste Tribunal; entre os precedentes cito os seguintes: MI 701, Rel. Min. Marco Aurélio, Plenário, DJ 4.2.2005; MI 689, Rel. Min. Eros Grau, Plenário, DJ 18.8.2006; MI-AgR 766, Rel. Min. Joaquim Barbosa, Plenário, DJe 13.11.2009; MI-AgR 375, Rel. Min. Carlos Velloso, Plenário, DJ 15.5.1992 e MI-AgR 3.680, Rel. Min. Cármen Lúcia, DJe 3.6.2011, estes últimos com trechos transcritos a seguir, respectivamente, no que interessa:
+    “Para o cabimento do mandado de injunção, é imprescindível a existência de um direito previsto na Constituição que não esteja sendo exercido por ausência de norma regulamentadora. O mandado de injunção não é remédio destinado a fazer suprir lacuna ou ausência de regulamentação de direito previsto em norma infraconstitucional, e muito menos de legislação que se refere a eventuais prerrogativas a serem estabelecidas discriminadas pela União”. (grifei)
+    “Somente tem legitimidade ativa para a ação o titular ou liberdade constitucional, ou de prerrogativa inerente a nacionalidade, a soberania e a cidadania, cujo exercício esteja inviabilizado pela ausência da norma infraconstitucional regulamentadora”.
+    “Portanto, por existir a norma regulamentadora da Constituição da República (Lei n. 8.078/1990) e por não ser o agravante titular de direito previsto na Constituição, cujo exercício estaria inviabilizado pela falta de regulamentação, ausentes estão os elementos processuais que viabilizariam o trâmite do mandado de injunção”. (grifei)
+    Dessa forma, já há norma federal que viabilize o exercício dos direitos de proteção à propaganda comercial, seja ela ambiental ou de qualquer outra natureza. E uma vez que não demonstrada a inviabilidade, em concreto, de direitos ou liberdades tutelados constitucionalmente, ausente está a legitimidade do impetrante para postular, em mandando de injunção, a sua viabilização. Situação configurada nos presentes autos, haja vista a existência da Lei nº 8.078/90.
+    Portanto, não há omissão legislativa a ser sanada, e assim, o presente writ é manifestamente incabível.
+    Ante o exposto, nego seguimento ao presente mandado de injunção (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 4 de março de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
