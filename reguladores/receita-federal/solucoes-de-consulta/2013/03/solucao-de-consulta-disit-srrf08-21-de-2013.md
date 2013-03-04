@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 21, de 22 de janeiro de 2013
+Assunto: Contribuições Sociais Previdenciárias CESSÃO DE MÃO-DE-OBRA. AUSÊNCIA DE DISPONIBILIZAÇÃO DO TRABALHADOR. DESCARACTERIZAÇÃO.
+Assunto: Contribuições Sociais Previdenciárias
+CESSÃO DE MÃO-DE-OBRA. AUSÊNCIA DE DISPONIBILIZAÇÃO DO TRABALHADOR. DESCARACTERIZAÇÃO.
+Nos casos em que o serviço é prestado em decorrência de demanda específica e determinada, encaminhada pelo contratante, com o conseqüente deslocamento dos trabalhadores apenas no momento da necessidade da execução deste serviço e com a permanência destes, no local determinado pela contratante, somente durante o tempo necessário para a consecução da tarefa, resta descaracterizada a cessão de mão-de-obra, pois inexiste a disponibilização do trabalhador. Em se tratando de transporte de pessoas, embora se trate de um serviço elencado no inciso XIX do artigo 219 do Regulamento da Previdência Social, é descabida a incidência da retenção de contribuição previdenciária de 11% sobre o valor bruto da nota fiscal, fatura ou recibo, quando inexistente a cessão de mão-de-obra. Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, art. 31;
+Regulamento da Previdência Social, aprovado pelo Decreto 3.048, de 06 de maio de 1999, artigo 219; e Instrução Normativa RFB nº 971, de 13 de novembro de 2009, artigos 112 e 118.
