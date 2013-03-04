@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 23, de 22 de janeiro de 2013
+Assunto: Contribuições Sociais Previdenciárias EMPREITADA TOTAL NA CONSTRUÇÃO CIVIL
+Assunto: Contribuições Sociais Previdenciárias
+EMPREITADA TOTAL NA CONSTRUÇÃO CIVIL
+Considera-se empreitada total a contratação de empresa construtora para realização da integralidade de uma obra de construção civil, assim entendida a execução de todos os serviços previstos no projeto da obra. Há fracionamento projeto quando, como mencionado na inicial do presente processo tributário, existem outras edificações fabris no mesmo parque industrial, sendo cada bloco de responsabilidade de outras construtoras, cabendo a cada delas a responsabilidade pela execução de todos os serviços da sua parte da obra. Tal situação não descaracteriza a empreitada total segundo o permissivo constante do inciso I do parágrafo 2º do artigo 24 da IN RFB nº 971, de 2009. Decorre da contratação em empreitada total a solidariedade entre proprietário e construtora consoante o disposto na legislação previdenciária.
+Dispositivos Legais: Lei nº 8.212, de 24 de julho de 1991, artigos. 30, inciso IV; e 49; e Instrução Normativa RFB nº 971, de 13 de novembro de 2009, artigos 19, inciso II, alínea ‘b’; 24, § 2 º, I; 149; 154 e 322.
