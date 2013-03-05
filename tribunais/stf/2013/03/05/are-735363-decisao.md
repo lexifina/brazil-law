@@ -1,0 +1,12 @@
+Trata-se de agravo de contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “AÇÃO POPULAR. ILEGALIDADE E LESÃO AO ERÁRIO. Ilegitimidade de parte. Não comprovação da condição de eleitor. Sentença de extinção sem resolução do mérito. Reexame necessário. Contratação de editora para publicação e divulgação da história do município de Araçoiaba da Serra. Desvio de finalidade. Ato que teve por objetivo exaltar a vida e obra dos réus. Recurso provido para afastar a carência de ação. No mérito, pedido procedente para reconhecer a invalidade do contrato firmado entre as partes, bem como para condenar os réus à devolução do valor de R$ 2.000,00, corrigidos e com juros de 1% ao mês. Condenação em custas e honorários advocatícios de 15% sobre o valor da causa”.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LXXIII, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. AÇÃO POPULAR. REQUISITOS. LESIVIDADE AO PATRIMÔNIO PÚBLICO. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. DEVOLUÇÃO DOS PAGAMENTOS REALIZADOS. SERVIÇOS EFETIVAMENTE PRESTADOS. PRINCÍPIO DA VEDAÇÃO DO ENRIQUECIMENTO SEM CAUSA. 1. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do Supremo Tribunal Federal. 2. No caso dos autos, a devolução dos pagamentos realizados pela Municipalidade a título de remuneração por serviços efetivamente prestados implicaria em locupletamento indevido da Administração. Princípio da vedação do enriquecimento sem causa. Agravo regimental a que se nega provimento” (RE 594.354-AgR/SP, Rel. Min. Eros Grau, grifos meus).
+    Seguindo essa mesma orientação, menciono as seguintes decisões, entre outras: AI 699.509/SP, Rel. Min. Joaquim Barbosa; RE 612.008/MT, Rel. Min. Dias Toffoli; AI 613.508/SP, Rel. Min. Cármen Lúcia; AI 843.380/SP, Rel. Min. Luiz Fux; AI 736.336/SP, Rel. Min. Ellen Gracie; AI 835.415/RJ, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
