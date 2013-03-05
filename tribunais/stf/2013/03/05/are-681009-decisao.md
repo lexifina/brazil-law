@@ -1,0 +1,12 @@
+Trata-se de recurso de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que decidiu ser ilegítida a cobrança de contribuições previdenciária e para assistência médica sobre os proventos de servidores inativos, instituída por lei municipal anterior à Emenda Constitucional 41/2003.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 149, parágrafo único, e 195, § 5º, da mesma Carta. Sustentou-se, ainda, que a hipótese dos autos não se refere a descontos previdenciários e, sim, securitários.
+    A pretensão recursal não merece acolhida.
+    Ressalto, inicialmente, que a questão referente à constitucionalidade da contribuição para o custeio de assistência médica já foi solucionada pelo Tribunal de origem. Com efeito, a decisão agravada, com amparo no RE 573.540/MG, Rel. Min. Gilmar Mendes e nos termos do art. 543-B, § 3º, julgou prejudicado o recurso extraordinário nesse ponto.
+    Assim, passo a examinar o presente recurso extraordinário unicamente quanto ao tema atinente à instituição de contribuição previdenciária sobre os proventos de servidores inativos.
+    Em relação a esse ponto, verifico inicialmente que, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, no que diz respeito à natureza da contribuição discutida, necessário seria a interpretação da legislação local aplicável à espécie (Leis Municipais 2.232/1960 e 1.780/1999 e Decreto Municipal 1.932/1960), circunstância que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Nesse contexto, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal pacificada no sentido de que é inconstitucional a cobrança da contribuição previdenciária sobre os proventos de inativos e pensionistas após o advento da Emenda Constitucional 20/1998 até a edição da Emenda Constitucional 41/2003. Nesse sentido, as seguintes decisões, entre outras: RE 580.871-QO-RG/SP, Rel. Min. Gilmar Mendes; RE 504.068-ED/PE, Rel. Min. Cármen Lúcia; RE 573.093-AgR/SP, Rel. Min. Ellen Gracie; AI 577.276-ED/SP, Rel. Min. Cezar Peluso; AI 736.559/SP, Rel. Min. Marco Aurélio; AI 655.776/SP, Rel. Min. Joaquim Barbosa; AI 739.088/SP, Rel. Min. Ayres Britto; AI 757.791/SP, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
