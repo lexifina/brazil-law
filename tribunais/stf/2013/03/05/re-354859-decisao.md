@@ -1,0 +1,14 @@
+DECISÃO
+SERVIDOR – TRANSPOSIÇÃO DE REGIME – CLT PARA ESTATUTÁRIO – TEMPO DE SERVIÇO CELETISTA – LICENÇA ESPECIAL – CÔMPUTO – IMPOSSIBILIDADE – PRECEDENTE DO PLENO – ADI Nº 1.695/PR – RECURSO EXTRAORDINÁRIO – PROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Paraná deferiu a segurança pleiteada, havendo concluído que os servidores contratados mediante o regime da Consolidação das Leis do Trabalho que passaram a ser regidos pelo Estatuto do Servidor Público Civil têm direito ao cômputo do período dito celetista para efeito de gozo da licença especial. Eis a síntese dos fundamentos lançados (folhas 815 e 816):
+    MANDADO DE SEGURANÇA. LICENÇA ESPECIAL. SERVIDORES PÚBLICOS. TEMPO DE SERVIÇO PRESTADO SOB O REGIME CELETISTA - LEI ESTADUAL Nº. 10.219/92, ART. 70 E § 2º, ART. 35, DA CONSTITUIÇÃO ESTADUAL E ART. 247, DA LEI ESTADUAL Nº. 6.174/70. RESOLUÇÃO Nº. 4.152, DE 10 DE JANEIRO DE 1996, DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO. - DIREITO LÍQUIDO E CERTO LESADO. SEGURANÇA CONCEDIDA PARA NEGAR EFICÁCIA DA ALUDIDA RESOLUÇÃO RELATIVAMENTE AOS ASSOCIADOS DOS SINDICATOS IMPETRANTES, ANULANDO OS ATOS DELA ORIGINADOS. - Para fins de fruição de licença especial, deve ser computado o tempo em que os servidores públicos, tornados estatutários pelo art. 70 da Lei Estadual nº. 10.218/92, trabalharam para o mesmo órgão público sob o regime celetista.
+    2. O Pleno, ao julgar a Ação Direta de Inconstitucionalidade nº 1.695, declarou a inconstitucionalidade da expressão “computando-se o tempo de serviço prestado ao Estado, para os demais efeitos legais”, contida no § 2º do artigo 35 da Constituição do Estado do Paraná e, sem redução de texto, conferiu ao § 2º do artigo 70 da Lei estadual paranaense nº 10.219/92 interpretação conforme à Carta Federal. Eis o teor da ementa respectiva:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUIÇÃO ESTADUAL. REGIME JURÍDICO DOS SERVIDORES PÚBLICOS. TEMPO DE SERVIÇO. COMPETÊNCIA PRIVATIVA DO CHEFE DO PODER EXECUTIVO. AFRONTA AO PRINCÍPIO DA RESERVA DE INICIATIVA. LEI 10219/92. REGIME CELETISTA. EQUIPARAÇÃO AOS EFETIVOS.
+    1. Regime Jurídico. Servidor Público Estadual. Competência Privativa do Chefe do Poder Executivo. Ofende o princípio da reserva de iniciativa a eventual ampliação de incidência de vantagens funcionais sem a participação ativa do Poder competente.
+    2. Regime celetista. Equiparação. Os servidores oriundos do regime celetista, mesmo considerados estáveis no serviço público, enquanto nesta situação, não se equiparam aos efetivos, no que concerne aos efeitos legais que dependam da efetividade.
+    Ação direta de inconstitucionalidade julgada procedente em parte.
+    3. Ante o quadro, conheço do extraordinário e o provejo para, reformando o acórdão recorrido, assentar improcedentes os pedidos formulados.
+    4. Publiquem.
+Brasília, 5 de março de 2013.
+Ministro MARCO AURÉLIO
+Relator
