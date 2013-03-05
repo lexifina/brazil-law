@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “MANDADO DE SEGURANÇA – PRORROGAÇÃO DA LICENÇA MATERNIDADE DE 120 PARA 180 DIAS – SERVIDORA PÚBLICA ESTADUAL – APLICAÇÃO DA LEI FEDERAL Nº 11.770/2008 – DIREITO LÍQUIDO E CERTO – CONCESSÃO DA SEGURANÇA. AGRAVO REGIMENTAL PREJUDICADO.
+    1. O art. 2º da Lei nº 11.770/08 configura norma de aplicabilidade imediata, não necessitando, portanto, de qualquer regulamentação para a sua aplicação;
+    2. O direito à licença-maternidade previsto no art. 7º, inciso XVIII da CR/88, é direito social auto-aplicável, não sendo razoável entender que a lei infraconstitucional necessitaria de regulamentação para ser efetivamente aplicada.
+    3. O Estado da Bahia, através de seu Governador, em data de 26 de maio de 2011, sob a louvável justificativa de aumentar o tempo de aleitamento materno, evitando-se, desse modo, a incidência de doenças entre os recém-nascidos, sancionou a Lei nº 12.241/11, reconhecendo o direito das servidoras públicas gozarem de 180 dias de licença-maternidade. Assim, ao estender às servidoras o direito à prorrogação da licença-maternidade, é de se afirmar a certeza e liquidez do direito da parte impetrante.”
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação aos arts. 7º, XVIII, 25, caput, 39, caput e § 3º, e 61, § 1º, II, c, da mesma Carta.
+    A pretensão recursal não merece acolhida. Ressalta-se, preliminarmente, que, com exceção do art. 7º, XVIII, da Constituição Federal, os demais dispositivos constitucionais apontados como violados não foram prequestionados. Assim, como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios foram opostos somente para suprir, em parte, a omissão (art. 39, caput e § 3º), é inviável o recurso, nos termos da Súmula 356 do STF.
+    É certo, ainda, que a jurisprudência desta Corte orienta-se no sentido de que a questão referente a prorrogação de licença maternidade de servidora pública estadual possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 664.076/MG, Rel. Min. Luiz Fux e ARE 693.307/MG, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
