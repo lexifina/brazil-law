@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    REMESSA DE OFÍCIO. APELAÇÃO. MANDADO DE SEGURANÇA COLETIVO. PROCESSUAL CIVIL. SINDICATO. REDUÇÃO DE ALÍQUOTA DE ICMS EM RELAÇÃO À SERVIÇOS DE ENERGIA ELÉTRICA E COMUNICAÇÕES. ELEMENTOS PROBATÓRIOS INSUFICIENTES. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO (ART. 267, VI, CPC). ALTERAÇÃO, PELO PODER JUDICIÁRIO, DE ATO NORMATIVO: DESCABIMENTO. MANDADO DE SEGURANÇA COM EFEITOS PATRIMONIAIS PRETÉRITOS: DESCABIMENTO. SÚMULAS 269 E 271 DO STF.
+    1. Assim como no mandado de segurança individual, que difere do presente writ coletivo apenas quanto à legitimidade e a abrangência do pedido, deve-se provar, de plano, os pressupostos exigidos para a admissibilidade da demanda, dentre os quais destaca-se a prova pré-constituída e de natureza inequívoca da existência do direito alegado, devendo ser líquido na sua existência e certo na sua extensão.
+    2. A ação mandamental é demanda constitucional de cunho eminentemente documental, cabendo à parte impetrante carrear aos autos os elementos probatórios suficientes para a elucidação dos fatos alegados na inicial, sendo, portanto, a prova pré-constituída requisito específico do mandado de segurança, sem o qual impossibilitará o exame do mérito da demanda.
+    3. Processo extinto sem resolução do mérito (art. 267, VI, do CPC)” (fl. 390 do e-STJ)
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, 150, I, 155, II e § 2º, III, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem limitou-se a analisar os requisitos específicos para admissibilidade do mandado de segurança. O recorrente, por sua vez, sustentou, em suma, que, em razão do princípio da seletividade, a alíquota de ICMS incidente sobre energia elétrica e telecomunicações deve ser reduzida para um valor percentual inferior àquele incidente sobre produtos supérfluos, em razão da essencialidade dos bens e serviços sobre os quais recai.
+    Portanto, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na sua fundamentação. Inadmissível o recurso, nos termos da Súmula 284 do STF.
+    Caracterizada também a deficiência na fundamentação do apelo com relação às supostas ofensas aos arts. 5º, XXXV e 150, I, da CF, pois o recorrente não demonstrou as razões pelas quais entende violados esses dispositivos constitucionais. Inadmissível o recurso quanto ao ponto, nos termos da Súmula 284 do STF.
+    Além disso, ainda que afastados esses óbices, os Ministros desta Corte, no AI 800.074-RG/SP, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca do preenchimento dos requisitos de admissibilidade do mandado de segurança, por entenderem que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Por oportuno, trago à colação trecho da manifestação proferida no referido julgado:
+    A questão a ser analisada diz respeito ao preenchimento dos requisitos do mandado de segurança.
+    Em que pese à ação mandamental ser um remédio constitucional por excelência, a admissibilidade do writ se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009.
+    Ademais, a análise da demonstração do direito líquido e certo ou da existência de prova pré-constituída exige o revolvimento de provas, inviável em sede de recurso extraordinário.
+    Isso posto, não conheço do recurso (CPC, art. 543-A, § 5º).
+    Publique-se.
+    Brasília, 5 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
