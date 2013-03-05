@@ -1,0 +1,32 @@
+DECISÃO: Trata-se de mandado de segurança, com pedido de medida liminar, impetrado com o objetivo “de anular a decisão da Corregedora Nacional de Justiça, praticada no Pedido de Providências nº 0001578-42.2011.2.00.0000, (…) que determinou a inclusão do Serviço Notarial e Registral do único ofício de São José da Lage (CNS 00.384-8), no rol das serventias vagas”.
+    A parte ora impetrante assim fundamentou, em seus aspectos essenciais, a sua pretensão mandamental:
+    “(...) Em 12 de dezembro de 2011, a mesma foi surpreendida com uma notificação do CNJ que continha uma cópia do parecer 11099/2011 (Doc. 08) com a respectiva aprovação da Autoridade Coatora.
+    O parecer afirma, em síntese que:
+    a. Que o parecer feito pelo TJ/AL opinou pela declaração de vacância da serventia em razão da opção tácita da interessada pela serventia judicial;
+    b. Que a impetrante recebe subsídios como servidora do TJ/AL, no cargo de escrivã de cartório oficializado, fato que justifica a vacância da delegação extrajudicial ‘pela qual vem respondendo precariamente, sem designação.’.
+    Tal decisão foi tomada sem a garantia do contraditório e da ampla defesa, além de estar recheada de inverdades e conclusões equivocadas, como demonstrado a seguir.
+    …..............................................................................................................
+    Primeiro equívoco:
+    A própria Corregedoria analisou a documentação à época e agora, se fundamenta em outra informação totalmente conflitante, deveria ela apurar a ocorrência de crime e as responsabilidades aos seus infratores, pois estamos diante de uma flagrante falsificação de documentos públicos. Ou diante de uma extrema falta de organização.
+      Segundo equívoco:
+    Além desta grave falha do CNJ, que confiou unicamente nas informações da Corregedoria de Justiça de Alagoas e não oportunizou manifestação da impetrante, a autoridade coatora comete outro equívoco grave ao concordar com a tese da ‘renúncia tácita’.
+    …..............................................................................................................
+    Outra nulidade evidente da decisão é que a mesma foi proferida em um Pedido de Providências sigiloso (Doc. 09).
+    Ora, não existe no Regimento interno do CNJ nenhuma fundamentação jurídica para que se considere um pedido de providências sigiloso, especialmente quando se trata de diversas serventias atingidas (o PP não trata apenas da impetrante, como se comprova clicando nos links dos ‘ARs’). Tal fato per si já invalida todo o procedimento, pois invibializa para a impetrante o acesso aos autos, mesmo eletronicamente. Só sendo possível o acompanhamento do andamento, mas não dos documentos e/ou decisões que lhe afetam.” (grifei)
+    Sendo esse o contexto, passo a analisar a postulação cautelar deduzida pela parte ora impetrante. E, ao fazê-lo, entendo, em juízo de estrita delibação, que não se acham cumulativamente configurados, na espécie, os requisitos autorizadores da concessão da medida liminar em referência.
+    É que o exame dos presentes autos parece revelar que a eminente Senhora Corregedora Nacional de Justiça teria, apenas, limitado-se a tornar pública a “relação provisória de vacâncias das serventias extrajudiciais vagas”, em cumprimento ao disposto no art. 2º da Resolução CNJ nº 80/2009.
+    Como se sabe, a elaboração das listas das delegações vagas incumbe ao respectivo Tribunal de Justiça a que estiver vinculado o serviço notarial e/ou de registro, cabendo, posteriormente, à Corregedoria Nacional de Justiça, organizar a Relação Provisória de Vacâncias.
+    A eventual inclusão da serventia extrajudicial ocupada pelo interessado no quadro definitivo de serventias vagas será sempre antecedida, nos termos do art. 2º, parágrafo único, da Resolução CNJ nº 80/2009, de procedimento administrativo em cujo âmbito estará assegurada a plenitude do direito de defesa, a significar que a mera possibilidade de vir a ser declarada a vacância do serviço notarial e/ou de registro não configura, só por si, situação de ilegalidade, apta a justificar a impetração de mandado de segurança.
+    É por isso que a jurisprudência do Supremo Tribunal Federal, sob tal específico aspecto, tem assinalado, em diversos precedentes, que a mera organização da relação provisória de vacâncias não caracteriza qualquer violação a direito individual (MS 28.169/DF, Rel. Min. JOAQUIM BARBOSA – MS 28.170-MC/DF, Rel. Min. CELSO DE MELLO – MS 28.225/GO, Rel. Min. CÁRMEN LÚCIA – MS 28.319-MC/DF, Rel. Min. CELSO DE MELLO – MS 28.575/SP, Rel. Min. EROS GRAU – MS 28.591/DF, Rel. Min. CEZAR PELUSO – MS 28.587/DF, Rel. Min. AYRES BRITTO – MS 28.597/DF, Rel. Min. DIAS TOFFOLI – MS 28.621/DF, Rel. Min. AYRES BRITTO – MS 28.657/DF, Rel. Min. EROS GRAU – MS 28.676/DF, Rel. Min. EROS GRAU – MS 28.693/DF, Rel. Min. AYRES BRITTO – MS 28.791/DF, Rel. Min. DIAS TOFFOLI, v.g.).
+    É importante rememorar, neste ponto, que o deferimento da medida liminar, resultante do concreto exercício do poder cautelar geral outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos pressupostos referidos no art. 7º, III, da Lei nº 12.016/2009: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    Sem que concorram esses dois requisitos – que são necessários, essenciais e cumulativos –, não se legitima a concessão da medida liminar, consoante enfatiza a jurisprudência do Supremo Tribunal Federal:
+    “Mandado de segurança. Liminar. Embora esta medida tenha caráter cautelar, os motivos para a sua concessão estão especificados no art. 7º, II da Lei nº 1.533/51, a saber:  a) relevância do fundamento da impetração; b) que do ato impugnado possa resultar a ineficácia da medida, caso seja deferida a segurança.
+    Não concorrendo estes dois requisitos, deve ser denegada a liminar.”
+    (RTJ 112/140, Rel. Min. ALFREDO BUZAID – grifei)
+    Sendo assim, em juízo de estrita delibação, e sem prejuízo de ulterior reexame da pretensão mandamental deduzida na presente sede processual, indefiro o pedido de medida liminar.
+    2. Dê-se ciência ao eminente Senhor Advogado-Geral da União (Lei Complementar nº 73/93, art. 4º, III, e art. 38, c/c o art. 7º, II, da Lei nº 12.016/2009 e o art. 6º, “caput”, da Lei nº 9.028/95).
+    3. Ouça-se a douta Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 05 de março de 2013.
+Ministro CELSO DE MELLO
+Relator
