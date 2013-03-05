@@ -1,0 +1,10 @@
+Decisão:
+    1. Trata-se de habeas corpus preventivo, com pedido de medida liminar, impetrado em favor de Nerle Quaggio Bresolin contra decisão proferida pela Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que deu provimento ao Resp 1.122.446/SP para fixar o regime semiaberto para o início do cumprimento da pena.
+    Na inicial, alega-se que: (a) a paciente foi condenada a pena de 04 (quatro) anos de reclusão pela prática do delito tipificado no art. 95, “d” da Lei 8.212/91 c/c o art. 5º da Lei 7.492/86, na forma do art. 71 do CP; (b) o Juízo de primeiro grau fixou o regime inicial fechado para o cumprimento da pena; (c) o TRF reformou a decisão, no ponto, para estabelecer o regime inicial aberto e determinar a substituição da pena privativa de liberdade por restritivas de direitos; (c) o acórdão, prolatado em 09 de outubro de 2012, foi impugnado pelo Ministério Público, dando ensejo à decisão ora atacada; (d) a incidência da prescrição da pretensão punitiva em face do art. 115 do CP, eis que a paciente nasceu em 07 de janeiro de 1939. Requer a concessão de medida liminar para que seja declarada a extinção da punibilidade.
+    2. Na hipótese, a decisão impugnada não apreciou a matéria invocada na impetração, limitando-se a decidir sobre o regime inicial do cumprimento da reprimenda imposta. Assim, qualquer juízo desta Corte acerca das questões aqui suscitadas implicaria indevida supressão de instância e de contrariedade à repartição constitucional de competências. Nessa linha de consideração: RHC 93.304, 2ª T., Min. Joaquim Barbosa, Dje de 19/12/2008; HC 112.100/DF, 2ª T., Min. Cezar Peluso, Dje de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, Dje de 06/09/2012. De qualquer modo, não se vislumbra, nesta sede processual, a ocorrência da prescrição.
+    3. Diante do exposto, sem prejuízo do exame da matéria perante o juízo natural, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 05 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
