@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário contra acórdão que porta a seguinte ementa:
+    “Serviços médicos e de saúde – Santa Casa de Lins, conveniada com o SUS, que não tinha condições de atender dois pacientes, por não contar com profissionais especializados em seu quadro e os encaminhou à Unimed. Ação promovida por esta última para impor à Municipalidade a obrigação de não mais encaminhar pacientes como os referidos. Não obstante o Estado tenha a obrigação de atender as pessoas carentes (CF, art. 196), o certo é que o art. 2º da Lei 8.080/90 afirma que o dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade. O Código Penal (art. 135) e o de Ética Médica impunham, ainda, o atendimento. Ditos serviços, entretanto, não são gratuitos e deverão ser pagos pela Municipalidade. Ação improcedente, com observação. Recurso não provido” (fl. 323).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, 6º e 196 da mesma Carta. Sustentou-se que a obrigação de atender pacientes que procuram a rede pública de saúde não pode ser transferida para a iniciativa privada.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do acórdão recorrido:
+    “(…) nos termos do disposto no parágrafo único do art. 2º da Lei 8.080/90, o dever do Estado não exclui o das pessoas, da família, das empresas e da sociedade. Na cidade de Lins, o Sus atuava por meio da Santa Casa de Misericórdia que, como explicitado, não tinha condições de atender aqueles pacientes, razão pela qual encaminhou à Unimed, cujos médicos não podiam deixar de atendê-los. O código de Ética Médica, em seu art. 58, impede que o profissional deixe de atender pacientes que o procure ou que precise de seus cuidados em caso de urgência, quando não haja outro médico em condições de fazê-lo” (fl. 324).
+    Portanto, verifico que o Tribunal de origem valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Dessa forma, ante o não conhecimento do REsp 1.167.461/SP interposto pela ora recorrente (com trânsito em julgado certificado em 1º/7/2011), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão recorrido, o que atrai a incidência da Súmula 283 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
