@@ -1,0 +1,21 @@
+Trata-se de recurso extraordinário interposto contra acórdão que concedeu a segurança para determinar a nomeação de candidata aprovada em concurso público para o cargo de secretária escolar do serviço civil do poder executivo estadual.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 2º da mesma Carta, bem como à Súmula 15 do STF.
+    A pretensão recursal não merece acolhida.
+    Destaca-se do acórdão recorrido:
+    “Classificada em terceiro lugar no certame, após alegar que foram ofertadas duas vagas para o provimento do referido cargo em Chã Preta, aponta a impetrante que houve a desistência do 2º colocado, passando a figurar dentro do número de vagas prevista no edital, tal como dispõe o item 13.3 do edital.
+    Vislumbra-se o direito líquido e certo asseverado pela impetrante, uma vez que o segundo colocado desistiu do certame, passando a impetrante a figurar dentro do número de vagas ofertadas no edital, revelando-se direito subjetivo à nomeação e não mera expectativa de direito, consoante o novo entendimento jurisprudencial” (fl. 281).
+    Verifica-se, assim, que a candidata aprovada no concurso público em questão, apesar de ter sido classificada fora das vagas previstas no edital, passou a figurar dentro do número de vagas em decorrência da renúncia ao direito de posse por candidato mais bem colocado, no prazo de validade do concurso.
+    Desse modo, o acórdão recorrido está em consonância com a recente jurisprudência desta Corte firmada pelo Plenário no julgamento do RE 598.099/MS, Rel. Min. Gilmar Mendes, no sentido do direito subjetivo à nomeação de candidato aprovado dentro do número de vagas previstas no edital de concurso público. Por oportuno, destaco da ementa do indigitado julgado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONCURSO PÚBLICO. PREVISÃO DE VAGAS EM EDITAL. DIREITO À NOMEAÇÃO DOS CANDIDATOS APROVADOS.
+    I. DIREITO À NOMEAÇÃO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTAS NO EDITAL. Dentro do prazo de validade do concurso, a Administração poderá escolher o momento no qual se realizará a nomeação, mas não poderá dispor sobre a própria nomeação, a qual, de acordo com o edital, passa a constituir um direito do concursando aprovado e, dessa forma, um dever imposto ao poder público. Uma vez publicado o edital do concurso com número específico de vagas, o ato da Administração que declara os candidatos aprovados no certame cria um dever de nomeação para a própria Administração e, portanto, um direito à nomeação titularizado pelo candidato aprovado dentro desse número de vagas.
+    (...)”.
+    Ressalte-se, ainda, que o direito à nomeação também se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de candidatos classificados em colocação superior. Com esse entendimento, cito o seguinte julgado:
+    “DIREITOS CONSTITUCIONAL E ADMINISTRATIVO. NOMEAÇÃO DE APROVADOS EM CONCURSO PÚBLICO. EXISTÊNCIA DE VAGAS PARA CARGO PÚBLICO COM LISTA DE APROVADOS EM CONCURSO VIGENTE: DIREITO ADQUIRIDO E EXPECTATIVA DE DIREITO. DIREITO SUBJETIVO À NOMEAÇÃO. RECUSA DA ADMINISTRAÇÃO EM PROVER CARGOS VAGOS: NECESSIDADE DE MOTIVAÇÃO. ARTIGOS 37, INCISOS II E IV, DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+    1. Os candidatos aprovados em concurso público têm direito subjetivo à nomeação para a posse que vier a ser dada nos cargos vagos existentes ou nos que vierem a vagar no prazo de validade do concurso.
+    2. A recusa da Administração Pública em prover cargos vagos quando existentes candidatos aprovados em concurso público deve ser motivada, e esta motivação é suscetível de apreciação pelo Poder Judiciário. 3. Recurso extraordinário ao qual se nega provimento” (RE 227.480/RJ, Rel. Min. Cármen Lúcia - grifos meus).
+    No mesmo sentido, menciono as seguintes decisões, entre outras: RE 695.192/BA, Rel. Min. Cármen Lúcia; RE 718.192/BA e RE 708.653/BA, Rel. Min. Luiz Fux; RE 715.433/BA e RE 596.015/RJ, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
