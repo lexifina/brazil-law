@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. CRÉDITO DE NATUREZA TRIBUTÁRIA. ICMS. DECISÃO QUE AFASTOU A ARGUIÇÃO DE PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO. INCIDÊNCIA DO INCISO I DO PARÁGRAFO ÚNICO DO ART. 174 DO CTN, COM A REDAÇÃO ANTERIOR A QUE LHE FOI DADA PELA LEI COMPLEMENTAR Nº 118/2005. PRESCRIÇÃO NÃO VERIFICADA. RETARDAMENTO ATRIBUÍVEL EXCLUSIVAMENTE AO CARTÓRIO, A QUEM CABIA A EXPEDIÇÃO DO EDITAL DE CITAÇÃO REQUERIDA E DEFERIDA PELO JUÍZO. A prescrição pressupõe inércia da parte, paralisando o trâmite processual por desídia do autor ou do exequente, o que não se verificou no caso. Precedente do STJ. Execução Fiscal ajuizada e que recebeu o despacho ordinatório do cite-se dentro do prazo prescricional. Se houve eventual decurso do prazo prescricional antes da efetivação da citação do devedor, tal fato se deveu exclusivamente à mora dos mecanismos do Judiciário, ao não providenciar a diligência requerida pelo exequente e deferida pelo Juízo, sendo de se aplicar a Súmula 106 do STJ, a qual dispõe que “ Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência”.(fl.159)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, inciso LXXVIII, do texto constitucional.
+    O recorrente alega, em síntese, que o acórdão recorrido violou o princípio da razoável duração do processo, na medida em que não decretou a prescrição intercorrente da pretensão executiva do Estado do Rio de Janeiro.
+    O cerne da controvérsia refere-se à aplicação da prescrição à crédito da Fazenda Pública Estadual.
+    O Tribunal de origem entendeu o seguinte:
+    “Segundo se colhe do processado, o despacho determinante da citação ocorreu em 26/09/2001, valendo ele para todas as formas de citação. Caberia ao cartório impulsionar o processo e expedir o edital de citação, por ele requerido e deferido pelo juiz de primeiro garu.
+    Assim, pode-se afirmar que não houve prescrição, já que esta pressupõe inércia da parte, paralisação do trâmite processual por desídia do autor ou do exequente, não bastando o mero transcurso do lapso temporal, sendo este o posicionamento do egrégio STJ”. (fl. 163)
+    Entendeu ainda, o seguinte:
+    “Se houve eventual decurso do prazo prescricional antes da efetivação da citação do devedor, tal fato se deveu, repita-se, exclusivamente à mora dos mecanismos do Judiciário, sendo de se aplicar a Súmula 106, a qual dispõe que “Proposta a ação no prazo fixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da Justiça, não justifica o acolhimento da arguição de prescrição ou decadência”. (fl. 163/164)
+     A questão referente ao reconhecimento de prescrição intercorrente no âmbito da execução fiscal possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo a ementa do AI-AgR 757.540, Rel. Min. Joaquim Barbosa, DJe 24.4.2012, cuja ementa transcrevo :
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. AFASTAMENTO. ATRASO NA CITAÇÃO CAUSADO PELO JUDICIÁRIO. DISCUSSÃO INFRACONSTITUCIONAL. PREQUESTIONAMENTO.
+    Ainda que superado referido óbice, observo que concluir diversamente do acórdão recorrido demandaria o reexame dos fatos e das provas da causa, o que é vedado em sede de recurso extraordinário (Súmula 279/STF).
+    Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 6 de março de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
