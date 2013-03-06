@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. RESPONSABILIDADE SOLIDÁRIA. CONTRATO DE COMPRA E VENDA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da 3ª Turma Recursal do Conselho Recursal dos Juizados Especiais Cíveis e Criminais do Rio de Janeiro:
+    “O fato de as promitentes vendedoras serem detentoras de percentuais sobre o bem objeto de transferência, em nada altera a natureza de responsabilidade, razão por que deve ser rejeitada a preliminar arguida na resposta e reiterada em sede recursal. No mérito, nenhum reparo merece a sentença. A autora juntou provas suficientes para corroborar suas alegações e comprovar as despesas que realizou para liquidação do débito pendente (fls. 07). Enfim, o cenário apresentado no processo não autoriza qualquer modificação da sentença” (fl. 80, grifei).
+    Os embargos de declaração opostos foram rejeitados (fl. 111).
+    2. A Agravante afirma que a Turma Recursal de origem teria contrariado os arts. 3º, inc. I, 5º, caput, e 93, inc. IX, da Constituição da República.
+    Assevera que “a agravante não pretende (…) análise e interpretação de cláusula contratual (…) Ao negar provimento aos embargos declaratórios restou plenamente caracterizada a negativa de prestação jurisdicional (…) O v. acórdão recorrido negou vigência a dois dispositivos constitucionais, quais sejam: artigos 3º, I e 5º, caput. Isso porque, ao se condenar a agravante sem se ater às suas teses que – diga-se – são plenamente cabíveis e pertinentes, e sem ao menos fundamentar suas razões, o acórdão (súmula) proferido em sede de recurso inominado instaurou no presente processo uma situação de desigualdade entre as partes e totalmente injusta” (fls. 153-158).
+    Sustenta no recurso extraordinário que:
+    “A cláusula ‘1’ da referida escritura [escritura de promessa de compra e venda] é clara no sentido de que a recorrente possuía apenas 25% do imóvel em foco (…) Por essa razão, não pode se considerar que a recorrente venha a responder pela integralidade dos pedidos (…) sequer existe solidariedade (…) a pretensão da recorrida encontra-se prescrita (…) Ao realizar o pagamento em foco sem implementar qualquer tentativa judicial ou administrativa para desconstituir a dívida, a recorrida trouxe para si o ônus de arcar com a integralidade do referido pagamento (…) Perfeitamente demonstrada, então, a afronta aos supracitados artigos da Constituição Federal, razão pela qual se requer, desde já, o provimento deste apelo” (fls. 119-121).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas n. 284 e 454 do Supremo Tribunal Federal (fls. 144-147).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão a Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. A Turma Recursal a quo apreciou a matéria à luz dos fatos e das provas constantes dos autos.
+    Concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório e das cláusulas contratuais, procedimento que não pode ser validamente adotado em recurso extraordinário. Incidem na espécie as Súmulas n. 279 e 454 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSUMIDOR E PROCESSUAL CIVIL. CONTRATO DE FRETE. INDENIZAÇÃO POR DANOS MATERIAIS. 1. Ausência de prequestionamento da matéria constitucional. Súmulas n. 282 e 356 do Supremo Tribunal Federal. 2. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 3. Reexame de fatos e provas e do contrato. Súmulas n. 279 e 454 do Supremo Tribunal Federal. 4. Agravo regimental ao qual se nega provimento” (ARE 714.372-AgR, de minha relatoria, Segunda Turma, DJe 14.2.2013).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
