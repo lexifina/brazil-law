@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO RE Nº 598.365-RG. TEMA Nº 181 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL.
+    Decisão: A controvérsia objeto dos presentes autos já foi analisada no RE 598.365 RG, Rel. Min. Ayres Britto, DJe de 25/03/2010, em que o Plenário desta Corte recusou o recurso extraordinário ante a ausência de repercussão geral, visto que a matéria está restrita a análise de norma infraconstitucional. O mencionado precedente está assim ementado:
+    PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+    In casu, o acórdão recorrido assentou:
+    RECURSO INOMINADO. APRESENTAÇÃO TEMPESTIVA. PREPARO PARCIAL. DESERÇÃO. RECURSO NÃO CONHECIDO.
+    1. Compulsando-se os autos, verifica-se que a irresignação recursal fora interposta em 05 de Julho de 2011, conforme protocolo cartório de fl. 423. O recurso fora parcialmente preparado, devendo ser completado nas 48 (quarenta e oito) horas seguintes à interposição do recurso. In casu, observa-se que a guia de recolhimento não fora devidamente juntada aos autos no prazo legal de 48 (quarenta e oito) horas, conforme determina a Lei nº 9.0099/95. Isso significa que a falta de comprovação do preparo, no prazo de 48 (quarenta e oito) horas seguintes à interposição do recurso, leva à sua deserção, embora o preparo tenha sido realizado parcialmente dentro do prazo.
+    2. O entendimento das Turmas Recursais do Tribunal de Justiça do Estado da Bahia encontra-se pacificado, senão vejamos o enunciado nº 03: “Não é compatível com o sistema recursal dos juizados especiais a complementação do preparo, no que inclui o recolhimento prévio da GR (Guia de Recolhimento) e demais despesas processuais.”
+    3. “Especificamente no caso do preparo dos recursos interpostos no âmbito dos Juizados Especiais Cíveis, a Lei nº. 9.009/95, em seu art. 42, estabelece claramente que o pagamento deve ser integral e realizado nas 48 horas após a interposição: (...). Portanto, ainda dos Juizados Especiais, não seria ela cabível no aspecto específico do preparo, pois essa matéria já esta regulada por norma especial.” (STJ – Decisão Monocrática, Recl. nº. 3887/PR, Rel. Min. Aldir Passarinho Júnior, j. 13.04.2011).
+    4. Ante o exposto, voto no sentido de NÃO CONEHCER do recurso. Custas e honorários advocatícios, pelo recorrente, esse no percentual de 10% sobre o valor da causa. É como voto.
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 6 de março de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
