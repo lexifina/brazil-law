@@ -1,0 +1,7 @@
+Solução de Divergência Cosit nº 1, de 5 de fevereiro de 2013
+ASSUNTO: SIMPLES NACIONAL VENDA DE VEÍCULOS EM CONSIGNAÇÃO.
+ASSUNTO: SIMPLES NACIONAL
+EMENTA: VENDA DE VEÍCULOS EM CONSIGNAÇÃO.
+A venda de veículos mediante contrato de comissão ou contrato estimatório, é feita em nome próprio. Por esse motivo, não constitui mera intermediação de negócios, de sorte que o exercício dessa atividade, por si só, não veda a opção pelo Simples Nacional.
+O contrato de comissão (arts. 693 a 709 do Código Civil) tem por objeto um serviço de comissário. Nesse caso, a receita bruta (base de cálculo) é a comissão, e a tributação se dá por meio do Anexo III da Lei Complementar nº 123, de 14 de dezembro de 2006.Já o contrato estimatório (arts. 534 a 537 do Código Civil) recebe o mesmo tratamento da compra e venda. Ou seja, a receita bruta (base de cálculo), tributada por meio do Anexo I da Lei Complementar nº 123, de 2006, é o produto da venda a terceiros dos bens recebidos em consignação, excluídas tão-somente as vendas canceladas e os descontos incondicionais concedidos. Inaplicável a equiparação do art. 5º da Lei nº 9.716, de 26 de novembro de 1998, para fins de Simples Nacional.
+DISPOSITIVOS LEGAIS: Constituição Federal, art. 146, inciso III, alínea 'a' e parágrafo único; Lei Complementar nº 123, de 14 de dezembro de 2006, arts. 3º, 17 e 18; Lei nº 10.406, de 10 de janeiro de 2002, arts. 534 a 537, e 693 a 709; e Lei nº 9.716, de 26 de novembro de 1998, art. 5º.
