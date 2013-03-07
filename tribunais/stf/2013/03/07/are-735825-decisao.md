@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. JORNADA DE TRABALHO. DIVISOR. LEI MUNICIPAL N. 5.819/2003: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “APELAÇÃO CÍVEL. MUNICÍPIO DE RIO GRANDE. SERVIDOR PÚBLICO. REGIME DE TRABALHO DE 30 HORAS SEMANAIS. CÁLCULO DAS HORAS-EXTRAS. LEI Nº 5.819/2003. DIVISOR 150 HORAS MENSAIS. REDUÇÃO DA VERBA HONORÁRIA. APELO PARCIALMENTE PROVIDO” (fl. 119).
+    Os embargos de declaração opostos pelo Agravante foram rejeitados (fl. 132).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 37, caput, e 39, caput e § 3º, da Constituição da República.
+    Assevera, no recurso extraordinário, que “o que se busca é que o simples cálculo aritmético, se materialize no universo concreto dos servidores públicos do Município de Rio Grande, RS, na forma da legalidade e moralidade administrativa, onde a Administração Pública pague o que efetivamente se trabalha” (fl. 156).
+    Sustenta que “não foi considerado o caso em concreto, de forma que ao entender que não existindo previsão legal adota-se mero cálculo aritmético para o cálculo de divisor, não foi considerado na decisão o efetivo número de horas trabalhadas e os dias da semana trabalhados” (fl. 156).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas n. 279 e 280 do Supremo Tribunal Federal (fls. 164-165).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No voto condutor do acórdão recorrido, o Desembargador Relator José Luiz Reis de Azambuja afirmou:
+    “Quanto ao divisor a ser aplicado no cálculo das horas-extras, inexistindo previsão legal, deve ser apurado mediante simples cálculo aritmético, tendo como base a jornada semanal de 30 horas, excluindo-se apenas o dia correspondente ao repouso remunerado, previsto no art. 51, § 1º, da LM nº 5.819/03 (…). Assim, chega-se a um divisor de 5 horas (30 horas : 6 dias), que multiplicado pelos 30 dias do mês civil resulta 150 horas, e não 180 como sustenta o réu/apelante” (fl. 120-v).
+    7. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei Municipal n. 5.819/2003). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental. Agravo de instrumento. Trabalhista. Jornada de trabalho. Turnos ininterruptos de revezamento. Trabalhador horista. Horas extras. Aplicação do divisor de 180 para o cálculo do salário-hora. Ofensa reflexa à Constituição Federal. Precedentes. 1. Controvérsia decidida à luz da legislação infraconstitucional, a cujo exame não se presta o recurso extraordinário. 2. Agravo regimental desprovido” (AI 692.694-AgR, Rel. Min. Menezes Direito, Primeira Turma, DJe 13.5.2008, grifos nossos).
+    “RECURSO. Agravo de Instrumento. Inadmissibilidade. Horas extras. Trabalhador horista. Forma do pagamento. Divisor 180. Matéria infraconstitucional. Agravo regimental não provido. Precedentes. A questão sobre o pagamento de horas extras a trabalhador horista submetido a turnos ininterruptos de revezamento e a aplicação do divisor para o cálculo de seu salário é regida pela legislação infraconstitucional. 2. RECURSO. Agravo. Regimental. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, cc. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (AI 670.780-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 11.4.2008, grifos nossos).
+    “AGRAVO REGIMENTAL. JORNADA DE TRABALHO. TURNO ININTERRUPTO DE REVEZAMENTO. CÁLCULO DO ADICIONAL DE HORAS EXTRAS. MATÉRIA QUE SE RESTRINGE AO ÂMBITO INFRACONSTITUCIONAL. Caso em que a alegada ofensa à Constituição Federal, se existente, ocorreria de forma reflexa ou indireta, o que não enseja a abertura da via extraordinária. Incidência, ademais, do óbice das Súmulas 282 e 356 do STF. Aplicação de multa de 5% (cinco por cento) sobre o valor da causa, na forma do § 2º do art. 557 do Código de Processo Civil. Agravo desprovido” (AI 635.781-AgR, Rel. Min. Ayres Britto, Primeira Turma, Dje 31.8.2007, grifos nossos).
+    No mesmo sentido: ARE 707.346/RS, de minha relatoria, DJe 13.9.2012, e ARE 694.865/RS, Rel. Min. Gilmar Mendes, DJe 29.6.2012.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
