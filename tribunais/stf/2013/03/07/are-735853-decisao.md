@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve a condenação da recorrente ao pagamento de danos materiais e morais pelo extravio de bagagem.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, V e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, para se chegar a conclusão contrária à adotada pelo Tribunal de origem quanto à existência de nexo de causalidade a ensejar o dever de indenizar, bem como no concernente ao montante indenizatório, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Inviável, portanto, o extraordinário. Nesse sentido: ARE 680.589/RS, Rel. Min. Luiz Fux; RE 634.076/DF, Rel. Min. Joaquim Barbosa; e RE 630.097/DF, Rel. Min. Cármen Lúcia; AI 835.478-AgR/RS, de minha relatoria; e AI 593.514-AgR/RJ, cuja ementa segue transcrita:
+     “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO CONSUMIDOR. EXTRAVIO DE BAGAGEM. DANOS MORAIS. MONTANTE INDENIZATÓRIO. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL.
+    1. A análise da legislação infraconstitucional bem como o reexame dos fatos e provas constantes dos autos são providências incompatíveis com a via recursal extraordinária.
+    2. Agravo regimental desprovido.”
+    Ademais, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Com o mesmo entendimento, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 7 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
