@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PROCESSUAL CIVIL. 1) PREQUESTIONAMENTO. ART. 37 DA CONSTITUIÇÃO DA REPÚBLICA. SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2) PROCESSO ADMINISTRATIVO. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. NECESSIDADE DE PRÉVIO EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça Militar de São Paulo:
+    “POLICIAL MILITAR – Ação rescisória – Art. 485, V do CPC – Preliminar – Decisão que reconhece a ocorrência de prescrição – Admissibilidade da Ação Rescisória – Inépcia da Inicial – Não reconhecida – Prejudicial de mérito – decadência – Retroação do dies a quo somente nas hipóteses de manifesta má-fé ou malícia da parte – Presunção de boa-fé – Ação tempestiva - Violação literal a disposição de lei – Inocorrência – Comentário na parte expositiva do Acórdão atacado sem reflexos em seu dispositivo – Decisão suficientemente fundamentada – Inteligência do artigo 485 do CPC – Violação literal de disposição legal não reconhecida – Negado provimento” (fl. 950).
+    Os embargos de declaração opostos foram rejeitados:
+    “Embargos de Declaração – contradição externa – impossibilidade de manifestação em sede de embargos de declaração – omissão – alegações que visavam a modificação da decisão, após sua desconstituição. Inexistência de omissão, quando não rescindida a decisão atacada via Ação Rescisória – Recurso não provido” (fl. 983).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, caput, inc. XXXV, LIV e LV, 37, e 93, inc. IX, da Constituição da República.
+    Assevera que “não se trata de análise de provas e sim de ofensa direta a Constituição Federal e muito menos de análise de legislação infraconstitucional (…) O STF é o único que poderá infirmar as razões de mérito do Recurso Extraordinário” (fl. 1077).
+    Sustenta, em síntese, no recurso extraordinário que:
+    “Fato incontroverso neste processado, que conforme ora exposto, o recorrente teve seu direito cerceado, logo não se trata de incursionar nas provas e sim no princípio da legalidade e deve ser alvo de apreciação do Poder Judiciário em relação a ilegalidade” (fl. 1042).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) “julgo prejudicado o presente recurso extraordinário no que concerne à alegação de infringência ao disposto no inc. IX do art. 93 da Constituição Federal, em vista do julgamento do tema 339, pelo E. Supremo Tribunal Federal”; e b) a ofensa à Constituição, se tivesse ocorrido, seria indireta (fls.1053-1055).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Quanto a alegação de contrariedade ao art. 37 da Constituição da República, verifica-se não ter sido objeto de debate e decisão prévios pelo Tribunal de origem, tampouco os embargos de declaração opostos o foram com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal. Nesse sentido:
+    “A jurisprudência deste Supremo Tribunal firmou-se no sentido de que os embargos declaratórios só suprem a falta de prequestionamento quando a decisão embargada tenha sido efetivamente omissa a respeito da questão antes suscitada. Precedentes” (AI 580.465-AgR, de minha relatoria, Primeira Turma, DJ 19.9.2008).
+    7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    8. O Desembargador Relator Clovis Santinon afirmou:
+    “Como se observa, o conteúdo decisório do v. Acórdão independe do exame sobre a regularidade do processo administrativo. Nesse sentido, assiste razão à Fazenda Pública, ao entender que a menção à inexistência de nulidade no procedimento se deu incidenter tantum” (fl. 954).
+    9. Este Supremo Tribunal Federal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV, LIV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. REVISÃO DE ATO ADMINISTRATIVO. 1. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 2. ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 855.694-AgR, de minha relatoria, Primeira Turma, DJe 19.9.012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 7 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
