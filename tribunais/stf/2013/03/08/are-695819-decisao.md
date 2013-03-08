@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. CIVIL. CONTRATO DE LOCAÇÃO DE IMÓVEL. INADIMPLEMENTO. DANO. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS CONTRATUAIS: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “AGRAVO LEGAL QUE ALVEJA DECISÃO DO RELATOR QUE DEU PROVIMENTO PARCIAL AO RECURSO DE APELAÇÃO. DECISÃO PROLATADA DENTRO DA PRERROGATIVA CONFERIDA AO RELATOR NO ART. 557, § 19-A, DO CPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. FRUSTRAÇÃO DECORRENTE DA NÃO ENTREGA DAS CHAVES DE IMÓVEL CONFORME PROMETIDO PELA AGRAVANTE. CONFIGURAÇÃO DOS DANOS MORAIS, UMA VEZ QUE A HIPÓTESE DE INADIMPLEMENTO CONTRATUAL SUPLANTA O MERO ABORRECIMENTO. DEVIDO O REEMBOLSO DOS VALORES DESPENDIDOS PELOS AGRAVADOS COM VISTAS AO PAGAMENTO DE ALUGUÉIS. NECESSIDADE DE INTIMAÇÃO DO DEVEDOR VIA DIÁRIO OFICIAL QUANTO AO RETORNO DOS AUTOS E CUMPRIMENTO DO ARESTO. RECURSO CONHECIDO E DESPROVIDO” (fl. 62, doc. 2).
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LIV e LV, da Constituição da República.
+    Assevera que
+    “em razão da previsão contratual que estipula e fixa, de forma antecipada, o valor das perdas e danos, não há que se falar em condenação por danos materiais. Por tal motivo, a única hipótese de reivindicação de indenização suplementar seria a previsão de tal possibilidade em sede contratual, o que não ocorreu no caso do contrato em análise.
+    Mesmo que tal previsão contratual existisse, os Recorridos teriam o ônus de comprovar nos autos do processo o prejuízo excedente suportado, fato este que não ocorreu, uma vez que o mesmo apenas reivindicou a condenação da Recorrente ao pagamento de danos materiais referentes ao aluguel mensal” (fls. 116-117, doc. 2).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de não haver comprovação do pagamento do porte de remessa e retorno dos autos, nos termos do artigo 511 do Código de Processo Civil (fls. 133-139, doc. 2) .
+    O Terceiro Vice-Presidente, Desembargador Antônio Eduardo F. Duarte, afirmou:
+    “No caso concreto, não se está diante de preparo insuficiente — a demandar a intimação do recorrente para complementação das custas — mas, sim, de deficiente comprovação do preparo, eis que a parte recorrente trouxe por cópia as respectivas Guias de Recolhimento da União — GRU, conforme certificado às fls. 315” (fl. 134, doc. 2, grifos nossos).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Ainda que fosse possível superar o fundamento da decisão agravada, considerando-se válida a apresentação de cópias das guias de recolhimento - o que não é possível na espécie -, não assistiria razão jurídica à Agravante.
+    6. No voto condutor do acórdão recorrido, o Relator, Desembargador Gabriel de Oliveira Zefiro, afirmou:
+    “o agravante deixou de proceder à entrega do imóvel no prazo avençado e os agravados se viram obrigados a alugar imóvel em razão do matrimônio contraído (fls. 52/58), devido o reembolso de tais valores, em vistas do princípio do neminem laedere.
+    Ademais, insustentável a alegação de inexistência de danos morais, dadas as repercussões psicológicas infligidas às vítimas. O valor da indenização a esse título atendeu ao caráter pedagógico-punitivo que lhe é peculiar” (fl. 64, doc. 2).
+    7. Concluir de forma diversa demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código Civil e Lei n. 8.245/1991), do conjunto fático-probatório constante do processo e de cláusulas do contrato de locação. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incidem, na espécie, as Súmulas n. 279 e 454 do Supremo Tribunal Federal.
+    Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. CONTRATO DE LOCAÇÃO. IMPOSSIBILIDADE DO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL E DA ANÁLISE DE CLÁUSULAS CONTRATUAIS (SÚMULA 454). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 636.423-ED, de minha relatoria, Primeira Turma, DJ 19.12.2007, grifos nossos).
+    “Agravo regimental no recurso extraordinário. 2. Diferenças decorrentes de descumprimento do contrato de locação de veículos. 3. Necessário o reexame de fatos, provas e cláusulas contratuais para chegar a conclusão diversa daquela do acórdão recorrido. 4. Incidência das súmulas 279 e 454. 5. Agravo regimental a que se nega provimento” (RE 485.564-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ 6.4.2011, grifos nossos).
+    7. O Supremo Tribunal assentou, ainda, que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependentes de exame de legislação infraconstitucional (Código Civil e Lei n. 8.245/1991), podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há, pois, a prover quanto à alegação da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 8 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
