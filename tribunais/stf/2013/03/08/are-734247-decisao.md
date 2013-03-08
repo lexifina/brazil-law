@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. FUNDAMENTO INATACADO. SÚMULA 182/STJ.
+    1. Não se conhece de Agravo Regimental que deixa de impugnar os fundamentos da decisão atacada. Incidência da Súmula 182/STJ.
+    2. In casu, não houve impugnação à negativa de seguimento do Recurso Especial porque a instância a quo utilizou como fundamento central matéria de cunho eminentemente constitucional.
+    3. Agravo Regimental não conhecido”.
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXV, LIV e LV, 93, IX, 145, II, e 150, I e III, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Observa-se, preliminarmente, que os arts. 145, II, 150, I e III, b, da Lei Maior não foram prequestionados. Assim, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o Tribunal a quo limitou-se à verificação dos pressupostos de admissibilidade do agravo regimental interposto pela ora recorrente. Ressalto que os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Outrossim, observo que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, verifica-se que o presente caso não trata de acórdão que tenha declarado, nos termos do art. 97 da Constituição Federal, a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 8 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
