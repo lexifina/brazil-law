@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo interposto contra decisão que inadmitiu recurso extraordinário de acórdão da Turma Recursal do Grupo Jurisdicional de Araxá/MG que manteve sentença que condenara o recorrente a (a) declarar inexistente débito que originou restrição cadastral em nome do recorrido; (b) promover a exclusão do recorrido de qualquer banco de dados de inadimplentes; e (c) pagar indenização por danos morais.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC. Em suas razões, aponta violação ao art. 5º, LIV, da Constituição Federal, aduzindo, em síntese, que o valor de indenização fixado é exagerado, afrontando, assim, o princípio da proporcionalidade. Requer a reforma do acórdão recorrido para a redução do referido valor.
+    O juízo de origem inadmitiu ao recurso, argumentando que (a) o devido processo legal foi fielmente observado; (b) a matéria alegada não foi objeto de prequestionamento; (c) não há repercussão geral na matéria; (d) o recurso é manifestamente procrastinatório. Por fim, impôs ao recorrente multa equivalente ao valor de 20% do valor atualizado da condenação principal.
+    No agravo, o recorrente alega que (a) houve prequestionamento; (b) foram improcedentes os argumentos do juízo a quo, por ter examinado o mérito e não a admissibilidade; (c) foi comprovada a repercussão geral; e (d) é inaplicável a multa imposta. Com tais argumentos, requer o conhecimento e provimento do agravo, para que seja (a) cassada a decisão que entendeu pelo trancamento do recurso e (b) extinta ou minorada a multa aplicada.
+    2. De acordo com reiterada jurisprudência desta Corte, é inviável a apreciação, em recurso extraordinário, de alegada violação ao princípio do devido processo legal (art. 5º, LIV, da Constituição Federal), que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    3. Quanto à multa, ressente-se de base legal, razão pela qual merece ser afastada.
+    4. Ante o exposto, dou parcial provimento ao agravo apenas para afastar a multa imposta à fl. 119.
+    Publique-se. Intime-se.
+    Brasília, 08 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
