@@ -1,0 +1,20 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. ENTREGA DE GUIAS DE ARRECADAÇÃO E FATURAS DE ÁGUA E ESGOTO DIRETAMENTE AO CONSUMIDOR. ALEGADA VIOLAÇÃO AO PRIVILÉGIO POSTAL DA UNIÃO. REPERCUSSÃO GERAL. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. PARÁGRAFO ÚNICO DO ART. 328 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III. al. “a”, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “CONSTITUCIONAL E ADMINISTRATIVO. SERVIÇO POSTAL: SERVIÇO PÚBLICO DE COMPETÊNCIA DA UNIÃO. EXCLUSÃO DA ATIVIDADE DE ENTREGA IMEDIATA DE CONTAS DE ÁGUA, ENERGIA ELÉTRICA E DE GUIAS DE ARRECADAÇÃO TRIBUTÁRIA.
+    1. A atividade prevista no art. 21, X, da Constituição - “compete à União manter o serviço postal e o correio aéreo nacional” -, é diversa da que está prevista no art. 170, parágrafo único: “É assegurado a todos o livre exercício de qualquer atividade econômica, independentemente de autorização de órgãos públicos, salvo nos casos previstos em lei”.
+    2. O serviço público, conquanto seja atividade econômica em sentido amplo, não o é em sentido estrito. A identificação do serviço público com a atividade econômica em sentido estrito faz parte da ideologia neoliberal, cuja pretensão de um “Estado mínimo” implica eliminar aquela categoria de atividade, em princípio, privativamente estatal. Mas não é possível, diante do sistema jurídico brasileiro, nem é conveniente, essa equiparação. Há, sim, um campo de atividades que se justifica continuar classificado como serviço público, com os princípios que lhe são pertinentes, em face de sua importância para a interdependência social e solidariedade.
+    3. Incumbe ao Estado a “provisão, à sociedade, como serviço público, de todas as as parcelas da atividade econômica em sentido amplo que sejam tidas como indispensáveis à realização e ao desenvolvimento da coesão e da interdependência social” (Eros Grau). Outra ideia, mais recentemente defendia, é a do serviço público como atividade destinada à efetivação dos direitos fundamentais.
+    4. Os serviços de correios e telégrafos são, na origem e por natureza, típico instrumento da interdependência e solidariedade sociais. Para cumprir essa finalidade, o princípio da universalização orienta que as operações deficitárias possam ser custeadas com os rendimento obtidos em operações “lucrativas”, ocorrendo uma espécie de subsídio ao custeio das prestações realizadas em locais de acesso dispendioso. Por outro lado, a atividade postal destina-se a preservar os direitos fundamentais à comunicação e ao sigilo da correspondência.
+    5. Não há, entretanto, prestação de serviços quando a própria entidade efetua a entrega de correspondências ligadas a suas atividades ou quando a empresa contratada para a leitura de medidores de água ou energia elétrica efetua a entrega da conta imediatamente ao consumidor, não havendo remessa de correspondência.
+    6. Apelação a que se nega provimento”. (fl. 192).
+    2. A Recorrente alega ter o julgado contrariado os arts. 2º, 21, inc. X, 93, inc. IX, da Constituição da República.
+    Apreciado os elementos havidos nos autos, DECIDO.
+    3. No julgamento eletrônico do Recurso Extraordinário n. 667.958, Relator Ministro Gilmar Mendes, este Supremo Tribunal reconheceu a existência de repercussão geral de questão constitucional idêntica a deste recurso extraordinário.
+    4. Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    5. Pelo exposto, determino a devolução destes autos ao Tribunal a quo para que seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 11 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
