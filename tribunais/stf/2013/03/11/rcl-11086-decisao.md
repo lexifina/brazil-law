@@ -1,0 +1,13 @@
+DECISÃO: O Ministério Público Federal, em pronunciamento da lavra da ilustre Subprocuradora-Geral da República Dra. CLÁUDIA SAMPAIO MARQUES, aprovado pelo eminente Chefe da Instituição, Dr. ROBERTO MONTEIRO GURGEL SANTOS, ao opinar pela extinção, sem julgamento de mérito, da presente reclamação, formulou parecer assim ementado:
+    “RECLAMAÇÃO CRIMINAL. RESTRIÇÃO DE ACESSO A ESCUTA TELEFÔNICA IMPOSTA À ADVOGADO CONSTITUÍDO. SUPOSTA AFRONTA AO ENUNCIADO Nº 14 DA SÚMULA VINCULANTE. PERDA DO OBJETO. PARECER PELA EXTINÇÃO DA RECLAMAÇÃO SEM JULGAMENTO DE MÉRITO.”
+    Acolho, integralmente, como razão de decidir, os fundamentos subjacentes à promoção em referência, valendo-me, para tanto, da técnica da motivação “per relationem”, cuja legitimidade jurídica tem sido considerada compatível com a norma inscrita no art. 93, inciso IX, da Constituição da República (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    “Reveste-se de plena legitimidade jurídico- -constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.”
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Com efeito, a tutela cautelar por mim anteriormente deferida revestiu-se de caráter satisfativo, razão pela qual a presente reclamação sofreu perda superveniente de seu objeto, eis que o único pleito nela formulado consiste, precisamente, no reconhecimento do direito de acesso dos defensores do ora reclamante aos elementos probatórios em poder da autoridade apontada como reclamada.
+    A ocorrência desse fato, como assinalado, assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste processo reclamatório.
+    Sendo assim, e tendo em consideração as razões expostas, julgo prejudicada a presente reclamação, em virtude da perda superveniente de seu objeto.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 11 de março de 2013.
+Ministro CELSO DE MELLO
+Relator
