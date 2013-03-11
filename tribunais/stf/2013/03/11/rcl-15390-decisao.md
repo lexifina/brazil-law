@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada com fundamento em suposta ofensa à autoridade da decisão proferida por esta Corte no julgamento da ADC 16 (Rel. Min. Cezar Peluso, Pleno, DJe de 9.9.2011), bem como à súmula vinculante 10.
+    Narra a reclamante ter sido condenado subsidiariamente ao pagamento de verbas trabalhistas pelo Tribunal Regional do Trabalho da 15ª Região. Alega, ainda, que a decisão reclamada teria adotado como fundamento, equivocadamente, a responsabilidade da Administração Pública em decorrência do mero inadimplemento da empresa contratada.
+    Quanto ao risco na demora da prestação jurisdicional, que justificaria a necessidade de deferimento imediato do pedido, o reclamante alega haver “(...) necessidade de concessão de medida liminar, uma vez que pode perecer o direito da reclamante constitucional em razão da possibilidade de trânsito em julgado da decisão reclamada, haja vista que foi denegado seguimento ao recurso de revista.” (pág. 5 da petição inicial).
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, para garantir a efetividade do resultado do futuro e provável juízo de procedência. Este requisito, entretanto, não se encontra presente.
+    É que a urgência invocada pela reclamante limita-se à alegação de que poderia sobrevir o trânsito em julgado da decisão impugnada, o que implicaria alegado perecimento de direito. Mas o argumento não subsiste, uma vez que a jurisprudência do Pleno desta Corte é consolidada no sentido de não haver óbice ao conhecimento da reclamação, caso o trânsito em julgado do ato reclamado seja posterior ao ajuizamento da reclamação:
+    “Embargos de declaração em reclamação. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Alegação de ausência de provas. Inconsistência. 4. Súmula 734. Inaplicabilidade ao caso. Trânsito em julgado posterior ao ajuizamento da reclamação. 5. Agravo regimental a que se nega provimento.” (Rcl 10272-ED, Rel. Min. Gilmar Mendes, Pleno, DJe de 13.9.2011).
+    Assim, não há fundamento, pelo menos neste juízo de verossimilhança, inerente às medidas urgentes, para o deferimento do pedido, suposto cabível no caso, antes das informações a serem prestadas pela autoridade reclamada.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada. Após, dê-se vista à Procuradoria-Geral
+    Publique-se. Intime-se.
+    Brasília, 11 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
