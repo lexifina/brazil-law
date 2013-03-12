@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Agravo interno em apelação. Direito administrativo. Servidor público do Município do Rio de Janeiro, que exerceu fidúcia em companhia de direito privado, integrante da Administração Indireta. Não preenchimento dos requisitos para incorporação do símbolo correspondente à função de confiança, como previstos nas disposições legais que viriam a ser declaradas inconstitucionais pelo Órgão Especial, com efeito ex nunc, nas Representações nº 30/96 e nº 51/99. Forçosa interpretação restritiva do art. 129 da Lei nº 94/79 (Estatuto dos Funcionários Públicos do Município), decorrente do princípio da legalidade estrita, em sede de Direito Administrativo. Possibilidade de a Administração, no regular exercício de seu poder-dever de autotutela, rever os seus próprios atos, anulando a concessão do benefício de incorporação antes deferido. Súmula nº 473 do Supremo Tribunal Federal. Jurisprudência predominante desta Corte. Desprovimento”. (fl. 382).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    É que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Lei Municipal 94/79). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquele diploma legal pelo Juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido:
+    Agravo regimental no agravo de instrumento. Servidor público estadual. Incorporação de gratificação. Reexame de legislação estadual. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem decidiu a lide amparado na legislação local e no exame do conjunto fático-probatório dos autos, o que inviabiliza o recurso extraordinário. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido. (AI 644.804-AgR/PI, Rel. Min. Dias Toffoli).
+    Por fim, para se chegar a conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 desta Corte.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de março de 2012.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
