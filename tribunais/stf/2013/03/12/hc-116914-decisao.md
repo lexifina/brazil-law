@@ -1,0 +1,15 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Jacilene Melo da Silva Moraes contra decisão do Ministro Felix Fischer, do Superior Tribunal de Justiça, que, nos autos do HC 262.433/PA, indeferiu o pedido de liminar, nos seguintes termos:
+    “(...)
+    Os autos não retratam a excepcional hipótese de juízo provisório antecipado acerca do pedido, porquanto na linha de precedentes desta Corte, o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando mera soma aritmética de tempo para os atos processuais. Dessa forma, o constrangimento ilegal por excesso de prazo só pode ser reconhecido quando houver demora injustificada.
+    No caso em tela, a demora no encerramento da instrução criminal decorre, aparentemente, da complexidade do processo, que envolve elevado número de réus e testemunhas, bem como a necessidade de expedição de diversas cartas precatórias, além da argüição da suspeição de duas magistradas.
+    Dessa maneira, a quaestio trazida à baila na exordial do writ não vislumbra o pretenso quadro claro e adequado à concessão da liminar, não sendo constatado de plano, o fumus boni iuris do pedido.
+    Por este motivo, indefiro o pedido liminar.”
+    Na inicial, alega-se o seguinte: (a) em 12 de julho de 2012, a paciente foi presa preventivamente em face da suposta prática dos delitos tipificados nos art. 121, § 2º, I e IV, e 12 da Lei 10.826/03; (b) não houve decisão no pedido de revogação da custódia; (c) embora deferido o pedido de transferência de estabelecimento prisional, até o momento não foi realizada; (d) ausência de justa causa para a segregação cautelar, conforme o disposto no art. 312 do CPP; (e) excesso de prazo para a instrução criminal e inexistência de complexidade da causa apta a ensejar a sua demora; (g) a hipótese requer o afastamento do entendimento firmado na Súmula 691/STF. Postula a concessão de medida liminar para que seja posta em liberdade.
+    2. De acordo com a Súmula 691 do STF, não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012). A hipótese dos autos, todavia, não se caracteriza por qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 12 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
