@@ -1,0 +1,19 @@
+Trata-se de agravo regimental interposto contra decisum que sobrestou o feito até o julgamento dos Mandados de Injunção 833/DF e 844/DF.
+    A impetração fundamentou-se na premissa de que, durante todo o período trabalhado pelo servidor público estadual, ora impetrante, na qualidade de Escrivão de Policia, foi exercida atividade que expôs sua vida a risco.
+    Tendo em vista que os Mandados de Injunção 844/DF, de minha relatoria, e 833/DF, de relatoria da Ministra Cármen Lúcia – que tratam do parâmetro para uma eventual apreciação de pedido administrativo de aposentadoria especial até que seja editada a norma a que se refere o artigo 40, § 4º, II, da Carta Magna, em relação aos servidores que alegam exercer atividades de risco – tiveram o julgamento suspenso em razão de pedido de vista do Min. Ayres Britto, determinei o sobrestamento do feito até o julgamento daqueles mandados de injunção.
+    Irresignado, o Estado de São Paulo interpôs este agravo regimental, argumentando, em suma, que a Lei Complementar 51/1985 regulamenta a aposentadoria especial dos servidores da polícia civil, categoria a qual pertence o impetrante, não havendo falar em aplicação do artigo 57 da Lei 8.213/1991.
+    Requereu, dessa forma, a reconsideração da decisão que sobrestou o feito para que fosse negado seguimento ao mandado de injunção.
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, entendo que o agravo merece acolhida. Isso porque o mandado de injunção não é via correta para alcançar o desiderato pretendido pelo impetrante.
+    Com efeito, dispõe o art. 5º, LXXI, da Constituição, que:
+    “conceder-se-á mandado de injunção sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania” (grifei).
+    Pressupõe, portanto, a existência de preceito constitucional dependente de regulamentação por outra norma de categoria inferior na hierarquia dos tipos normativos.
+    No caso dos autos, há norma que regulamenta a aposentadoria especial para os policiais civis que exercem atividade de risco (Lei Complementar 51/1985). Ora, se há norma regulamentadora, não há falar na ausência que permite o ajuizamento dessa garantia constitucional.
+    Assim, a existência de lei complementar que estabelece critérios diferenciados para a aposentadoria especial de policial torna inviável o mandado de injunção, por inexistir lacuna legislativa necessária ao seu cabimento. Nesse sentido:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO POLICIAL. ATIVIDADE DE RISCO. ART. 40, § 4º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. LEI COMPLEMENTAR N. 51/1985. INEXISTÊNCIA DE OMISSÃO LEGISLATIVA. 1. A Lei Complementar n. 51/1985, que trata da aposentadoria especial dos servidores públicos policiais, foi recepcionada pela Constituição da República de 1988 (ADI 3.817/DF). 2. O reconhecimento da existência e da aplicabilidade de norma infraconstitucional regulamentadora do direito constitucional pleiteado evidencia o não cabimento do mandado de injunção, por inexistir omissão legislativa inviabilizadora do exercício de direito constitucionalmente assegurado. 3. Impossibilidade de conjugação do sistema da Lei Complementar n. 51/1985 com o do art. 57 da Lei n. 8.213/91, para com isso, cogitar-se de idade mínima para aposentação. Precedentes. 4. Agravo regimental ao qual se nega provimento” (MI 2.518-AgR/DF, Rel. Min. Cármen Lúcia, grifos nossos).
+    Por essas razões, no exercício do juízo de retratação, ínsito a todo agravo regimental, reconsidero a decisão recorrida e, nessa nova apreciação do pedido formulado, nego seguimento ao mandado de injunção.
+    Publique-se.
+    Brasília, 13 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
