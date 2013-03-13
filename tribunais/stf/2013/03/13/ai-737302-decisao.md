@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, maneja agravo de instrumento a União. Na minuta, sustenta, em síntese, que o recurso interposto por alegada ofensa aos princípios da isonomia e da estrita legalidade tributária previstos nos arts. 5º, I, e 150, I, da Constituição Federal.
+    Contraminuta (fls. 542-5).
+    Substituição da Relatora à fl. 546 (art. 38 do RISTF).
+    Intimação do acórdão recorrido em 12.9.2006 (fl. 411).
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Nada colhe o presente agravo porquanto a infringência aos preceitos constitucionais suscitados somente poderia ser constatada a partir da análise de legislação infraconstitucional apontada no apelo extremo (CTN, Lei 4.595/1964, Lei 4.728/1965, Lei 6.099/1974Lei 9.311/1996 e Lei 9.539/1997), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário. Nesse sentido: AI 671.851/SP, decisão monocrática, rel. Min. Cármen Lúcia, DJe 02.3.2009; AI 664.238/SP, decisão monocrática, rel. Min. Dias Toffoli, DJe 23.5.2011; e o AI 814.820-AgR/SP, rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 06.9.2011, este com a seguinte ementa:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CPMF. ALÍQUOTA ZERO. INCIDÊNCIA. CARACTERIZAÇÃO DE EMPRESA DE ARRENDAMENTO MERCANTIL COMO INSTITUIÇÃO FINANCEIRA. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão à luz das legislações infraconstitucionais aplicáveis à espécie (Leis 4.595/64, 6.099/74, 7.132/83, 9.311/96, Resolução BACEN 2.309/96 e Portarias 6/97 e 134/99 do Ministério da Fazenda). A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II - Agravo regimental improvido”.
+    Na esteira da súmula 636/STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”. Cito precedentes: RE 626.359-AgR/DF, por mim relatado, 1ª Turma, DJe 07.02.2013; e ARE 684.209-AgR/SC, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 19.9.2012, verbis:
+    “DIREITO TRIBUTÁRIO. ICMS. PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. QUALIFICAÇÃO E EQUIPARAÇÃO DE MERCADORIAS. IMPOSSIBILIDADE DE REAPRECIAÇÃO DE PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULAS STF 279 E 636. A resolução da controvérsia acerca da qualificação de mercadorias como refresco, isotônico ou energético e da legitimidade do enquadramento estabelecido pela Portaria 63/2004 do Secretário de Estado da Fazenda do Distrito Federal não prescinde do reexame do contexto fático-probatório. Aplicação da Súmula 279/STF. O exame da acenada violação do princípio da legalidade tributária somente se viabilizaria com análise de âmbito infraconstitucional inviável em sede de recurso extraordinário (Súmula 636/STF). Agravo regimental conhecido e não provido”;
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITOS TRIBUTÁRIOS FEDERAIS COM DÉBITOS PREVIDENCIÁRIOS. PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de março de 2013.
+                      Ministra Rosa Weber
+                            Relatora
