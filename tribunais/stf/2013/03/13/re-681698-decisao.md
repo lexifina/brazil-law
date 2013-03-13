@@ -1,0 +1,18 @@
+Trata-se de recurso extraordinário interposto contra acórdão de cuja ementa transcrevo o seguinte trecho:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA – POLICIAL CIVIL – REGIME DE PLANTÃO – ADICIONAL NOTURNO – DIREITO ASSEGURADO PELA CONSTITUIÇÃO FEDERAL – ART. 7º, INC. IX – HORAS EXTRAS AFASTADAS – ASSÉDIO MORAL – NÃO COMPROVAÇÃO – SENTENÇA PARCIALMENTE REFORMADA.
+    (…).
+    2) o agente de polícia civil que trabalha em regime de plantão possui jornada de 44 (quarenta e quatro) horas semanais, visto que no período de 24 (vinte e quatro) horas (em que se encontra de serviço) o servidor tem direito ao intervalo para almoço, razão pela qual tenho a convicção que sua jornada se amolda ao limite previsto pela Constituição Federal.
+    (...)” (fl. 205).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 7º, XIII, e 39, § 3º, da mesma Carta. Sustentou-se, ainda, que
+    “quando a Constituição diz '… e quarenta e quatro semanais', almeja o entendimento que, v.g., o empregado possa trabalhar 07 horas por dia 06 vezes por semana, porém jamais que o empregado possa trabalhar 14h40min, por dia, 03 vezes na semana, ou trabalhar de segunda à quarta iniciando a sua atividade laborativa na segunda-feira às 8h e terminando na quarta-feira às 4h da manhã, perfazendo assim 44 semanais, e compensado essa SUPERJORNADA, com folgas na quinta, sexta e sábado” (fls. 222-223).
+    A pretensão recursal não merece acolhida. Isso porque esta Corte tem se orientado no sentido de que a controvérsia acerca do cabimento de horas extras aos policiais civis cuja jornada de trabalho é estabelecida em regime de plantão demanda a análise da legislação infraconstitucional local que disciplina a carreira, bem como o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário nos termos das Súmulas 280 e 279 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. HORAS EXTRAS E ADICIONAL NOTURNO. REGIME DE COMPENSAÇÃO. LEIS ESTADUAIS 2.068/1976, 2.148/1977 E 3.868/1977 E DECRETO 21.892/2003. MATÉRIA INFRACONSTITUCIONAL LOCAL. OFENSA REFLEXA. SÚMULA 280 DO STF. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO.
+    I - O acórdão recorrido dirimiu a questão dos autos com base no conjunto fático-probatório dos autos e na legislação infraconstitucional local aplicável à espécie, o que inviabiliza o recurso extraordinário, nos termos das Súmulas 279 e 280 do STF. Precedentes.
+    II - Agravo regimental improvido” (RE 606.516-AgR/SE, de minha relatoria, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Policial civil. Jornada de trabalho. Regime de plantão. Pagamento de horas extras. 3. Aplicação do Estatuto dos Servidores Públicos Estaduais, Lei 2.148/77 do Estado de Sergipe. 4. Deslinde da controvérsia demanda análise da legislação local. Impossibilidade. Enunciado 280 da Súmula do STF. Precedentes desta Corte. 5. Ausência de argumentos suficientes para infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento” (AI 784.639-AgR/PE, Rel. Min. Gilmar Mendes, Segunda Turma).
+    No mesmo sentido, em situações semelhantes à destes autos, cito as seguintes decisões: RE 695.371/RR, Rel. Min. Dias Toffoli; RE 670.652/RR, Rel. Min. Joaquim Barbosa; ARE 659.394/RR, Rel. Min. Gilmar Mendes; RE 700.002/RR, Rel. Min. Rosa Weber.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
