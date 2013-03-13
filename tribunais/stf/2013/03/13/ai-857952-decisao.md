@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DEFICIÊNCIA NO TRASLADO. FALTA DA PETIÇÃO DE APELAÇÃO. SÚMULA N. 288 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “EMBARGOS À EXECUÇÃO FISCAL. CONSELHO REGIONAL DE QUÍMICA. CASAN. ANUIDADE. ANOTAÇÃO DE FUNÇÃO TÉCNICA. MULTA POR AUSÊNCIA DE RESPONSÁVEL TÉCNICO.
+    É legítima a exigência, pelo Conselho Regional de Química, que a empresa que explora os serviços de água e esgoto mantenha em seu quadro funcional químico devidamente inscrito perante o aludido conselho profissional, porquanto a natureza da atividade desempenhada envolve procedimentos essencialmente químicos (Lei 2.800/56, art. 27; CLT, art. 335, e art. 2º, III do Decreto 85.877/81); bem assim está obrigada ao pagamento da anuidade respectiva.
+    A Lei n.º 2800/56, no seu artigo 27, estabelece que o registro perante o Conselho Regional de Química é necessário tanto para a matriz da empresa quanto para suas filiais. A atividade de filial situada no mesmo Estado da matriz, contudo, não enseja pagamento de anuidade específica, pois ambas situam-se em território jurisdicionado pelo mesmo Conselho Regional, incidindo o disposto no § 3º do art. 1º da Lei 6994/82, que admite o pagamento por filial, apenas se situada sob a jurisdição de outro Conselho Regional, e nos limites que estabelece.
+    No caso específico dos autos, como a CDA nº 202/03 foi lançada contra a Companhia Catarinense de Água e Saneamento - CASAN da cidade de Campo Erê - SC, inscrita com CNPJ diverso da CASAN - matriz, localizada na cidade de Florianópolis, deve-se afastar a exigência de anuidade e multa sobre a atividade de filial, assegurando-se que o Conselho as exija, por ação própria, fundada em CDA própria, somente da matriz, se ainda não o fez.
+    A taxa decorrente de expedição de certidão de Anotação de Função Técnica - AFT - é decorrente do efetivo exercício do poder de polícia, não podendo ser exigida com base em potencial exercício fiscalizatório, pois apenas as taxas de serviço admitem cobrança fundada em potencial prestação de serviço público.
+    Em conseqüência, são indevidas as multas acessórias exigidas.
+    É indevida a multa aplicada por falta de profissional químico como responsável técnico junto à filial da CASAN, pois há comprovação nos autos de há responsável técnico atuando com competência sobre a filial de Quilombo/SC” (fls. 64 e 65).
+    Os embargos de declaração opostos foram rejeitados (fl. 198-199).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal (fls. 149-150).
+    3. O Agravante alega que o Tribunal de origem teria contrariado os arts. 145, § 1º, 150, inc. II, e 151, inc. I, da Constituição da República.
+    Sustenta que “os dispositivos constitucionais tidos por violados, ao menos de modo implícito restou constatado da análise do acórdão, e de modo explícito nos embargos de declaração e no Recurso Extraordinário” (fl. 10-11).
+    Argumenta no recurso extraordinário:
+    “Como se denota, o decisum vergastado reconheceu o fato gerador do tributo, entretanto, contrariou a Constituição Federal, ao conceder isenção tributária, sem observar o princípio da capacidade contributiva, da uniformidade tributária e da isonomia.
+    (…) O Acórdão atacado ao negar vigência as Leis Federais, vez que, também à luz do disposto no § 3º do artigo 1º da Lei n. 6.994/82, e nos §§ 3º e 4º do artigo 1º [do] Decreto 88.147/1983, há obrigatoriedade de pagamento da anuidade ao Órgão Fiscalizador quando se tratar de estabelecimento filial sediado na mesma jurisdição de sua sede, está contrariando, o princípio da capacidade contributiva prevista no artigo 145, § 1º da CF, in verbis:
+    (…) Impossível ao Poder Judiciário criar isenção a Filiais que se encontram na mesma situação econômica e que não foram contempladas pela Lei” (fls. 82-96).
+    4. Examinados os elementos havidos no processo, DECIDO.
+    5. Há deficiência no traslado, pois o Agravante não juntou cópia da petição de apelação, peça fundamental à verificação do prequestionamento da questão constitucional trazida na espécie e, portanto, indispensável à formação do instrumento, nos termos do art. 544, § 1º (norma anterior à alteração da Lei n. 12.322/2010), do Código de Processo Civil. Incide na espécie a Súmula n. 288 deste Supremo Tribunal.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULA N. 282). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. Não houve o traslado da cópia da petição dos embargos de declaração, peça essencial para demonstrar, no caso em pauta, se teria sido suprida a exigência do prequestionamento da matéria constitucional. Incide, na espécie, a Súmula n. 288 do Supremo Tribunal Federal. Precedentes. 2. A jurisprudência do Supremo Tribunal pacificou-se no sentido de que o prequestionamento da matéria constitucional deve ser explícito. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 699.186-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+    6. Pelo exposto, diante da deficiência apontada, nego seguimento a este agravo art. 544, § 1º (redação anterior à alteração da Lei n. 12.322/2010), do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 13 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
