@@ -1,0 +1,19 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “INCIDENTE DE UNIFORMIZAÇÃO. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONTAGEM DO TEMPO POSTERIOR À DATA DE ENTRADA DO REQUERIMENTO ADMINISTRATIVO (DER). POSSIBILIDADE. FATO SUPERVENIENTE (ART. 462 DO CPC). FATOR UTILIZADO NA CONVERSÃO DO TEMPO DE ATIVIDADE ESPECIAL PARA COMUM. LEGISLAÇÃO VIGENTE NO MOMENTO DA CONCESSÃO DA APOSENTADORIA. DECRETO 357/91.
+    1. A implementação das condições para a concessão do benefício de aposentadoria por tempo de contribuição, no que concerne ao cômputo do tempo de contribuição após a DER, pode ser considerada como fato superveniente para a procedência do pedido, nos termos do artigo 462 do CPC.
+    2. A conversão de tempo especial em comum deve obedecer a legislação vigente no momento da concessão da aposentadoria, independente da época da prestação do serviço.
+    3. Desde 07/12/1991, data da edição do Decreto 357/91, cabe a aplicação do coeficiente 1,4 na conversão do tempo especial para comum.
+    4. Precedentes do STJ e da própria TRU.
+    5. Incidente de Uniformização da parte-autora provido, e negado provimento ao da parte-ré” (fl. 234).
+    No RE, fundado no art. 102, III, a e b, da Constituição, alegou-se violação aos arts. 5º, caput, XXXV, XXXVI, LIII, LIV e LV, e 93, IX, da mesma Carta.
+    A Procuradoria Geral da República manifestou-se pelo desprovimento do recurso (fls. 291-295).
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa aos arts. 5º, caput e LIII, e 93, IX, da Lei Maior, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Outrossim, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela legislação pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: ARE 725.356/RS, ARE 725.856/PR e ARE 725.402/SC, Rel. Min. Cármen Lúcia; RE 602.789/RS, Rel. Min Cezar Peluso.
+    Por fim, o presente caso não trata de acórdão que tenha declarado a inconstitucionalidade de lei federal ou tratado, o que afasta o cabimento de recurso extraordinário com base na alínea b do art. 102, III, da Constituição.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
