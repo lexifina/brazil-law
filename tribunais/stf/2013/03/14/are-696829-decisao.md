@@ -1,0 +1,26 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Sétima Turma do Tribunal Superior do Trabalho, assim ementado:
+    “RECURSO DE REVISTA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. DANO MORAL. "Nos termos do art. 114 da Constituição Federal de 1988, a Justiça do Trabalho é competente para dirimir controvérsias referentes a indenização por dano moral, quando decorrente da relação de trabalho’ (Súmula no 392 desta Corte).
+    NULIDADE DA SENTENÇA EM DECORRÊNCIA DA UTILIZAÇÃO DE DISPOSITIVOS DA CLT E EM FACE DA INCONSTITUCIONALIDADE DA RESOLUÇÃO N°126/05 E DA INSTRUÇÃO NORMATIVA N° 27, AMBAS DO TRIBUNAL SUPERIOR DO TRABALHO. Não se vislumbra violação direta e literal do artigo 5°, II, da Lei Maior, visto que a aferição demanda análise de legislação infraconstitucional que aborde a matéria objeto do apelo. Entendimento em consonância ao da Suprema Corte.
+    NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VALORAÇÃO DO DANO MORAL. Estando a decisão de origem devidamente fundamentada, não se há de falar em ausência de tutela. Exegese que se extrai do artigo 93, IX, da Constituição Federal. Razões recursais com objetivo de rever o posicionamento acatado pela Corte 'a quo" .
+    LIMITE TEMPORAL DA INDENIZAÇÃO. Os arestos transcritos ao dissenso de teses são oriundos de Tribunal de Justiça, o que esbarra no óbice do artigo 896, 'a", da Consolidação das Leis do Trabalho. Recurso de revista de que não se conhece”.
+    Opostos embargos de declaração , foram rejeitados.
+    No recurso extraordinário, sustenta-se a violação dos artigos 5°, inciso II, e 114, inciso I, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal ter trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação quanto à alegada incompetência da Justiça do Trabalho, haja vista que o acórdão recorrido está em sintonia com o entendimento firmado pelo Plenário desta Corte no julgamento do RE nº 600.091/MG-RG, DJe de 15/8/12, de minha relatoria, no qual se assentou que é irrelevante, para fins de fixação da competência, o fato de a ação de indenização decorrente de acidente de trabalho ter sido ajuizada por sucessores do trabalhador falecido.
+    O referido julgado restou assim ementado:
+    “Recurso extraordinário – Competência – Processual Civil e do Trabalho – Repercussão geral reconhecida – Ação de indenização decorrente de danos sofridos em acidente de trabalho – Demanda diretamente decorrente de relação de trabalho, sendo irrelevante, para fins de fixação da competência, o fato de ter sido ajuizada por sucessores do trabalhador falecido – Aplicação da norma do art. 114, inciso VI, da Constituição Federal, com a redação que a ela foi dada pela Emenda Constitucional nº 45/04 – Reconhecimento da competência da Justiça Federal do Trabalho para o processamento do feito – Recurso não provido”.
+    Nesse sentido, as seguintes decisões:
+    “RECURSO EXTRAORDINÁRIO - ACIDENTE DO TRABALHO - INDENIZAÇÃO POR DANOS MATERIAIS E/OU MORAIS - AÇÃO AJUIZADA EM FACE DO EMPREGADOR, COM FUNDAMENTO NO DIREITO COMUM - SUPERVENIÊNCIA DA EC Nº 45/2004 - COMPETÊNCIA DA JUSTIÇA DO TRABALHO - SÚMULA VINCULANTE Nº 22 - APLICABILIDADE AO CASO - RECURSO DE AGRAVO IMPROVIDO” (RE nº 458.834/MG-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJe de 15/2/12);
+    “AGRAVO REGIMENTAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DA DIVULGAÇÃO DE INFORMAÇÕES DESABONADORAS SOBRE EX-EMPREGADO DA PARTE AGRAVANTE. COMPETÊNCIA. JUSTIÇA DO TRABALHO. A jurisprudência desta Corte se firmou no sentido de que a competência para julgar ações de indenização por danos materiais e morais decorrentes da relação de trabalho é da Justiça do Trabalho. Agravo regimental a que se nega provimento” (AI nº 420.949/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 1°/10/10);.
+    Por fim, a alegada violação do artigo 5º, inciso II, da Constituição Federal seria, se ocorresse, indireta ou reflexa, o que não enseja reexame em sede de recurso extraordinário, conforme previsto na Súmula nº 636 desta Corte, que assim dispõe, in verbis:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 14 de março de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
