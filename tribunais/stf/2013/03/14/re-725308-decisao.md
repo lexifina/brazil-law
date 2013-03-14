@@ -1,0 +1,27 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. PERMISSÃO PARA USO DE ESPAÇO PÚBLICO. CONFLITO ENTRE NORMAS LOCAIS. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e Territórios:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO 19 DA LEI DISTRITAL Nº 324/92. LEIS DISTRITAIS 4.384/2009 E 4.534/2011. PRORROGAÇÃO DAS PERMISSÕES DE USO DE ÁREAS PÚBLICAS DO DISTRITO FEDERAL PARA O EXERCÍCIO DE ATIVIDADE ECONÔMICA. AUSÊNCIA DE PROCEDIMENTO LICITATÓRIO. VIOLAÇÃO AOS PRINCÍPIOS DA MORALIDADE, DA IMPESSOALIDADE, DA RAZOABILIDADE E DO INTERESSE PÚBLICO.
+    INICIAL E ADITAMENTO QUE ATENDEM TODOS OS REQUISITOS LEGAIS.
+    A DISPENSA DE LICITAÇÃO ESTÁ DEFINIDA NO ART. 24 DA LEI 8.666/1993, SENDO DEFESO AMPLIAR AS HIPÓTESES ALI PRESCRITAS.
+      EVIDENCIADO O DESCOMPASSO DAS LEIS DISTRITAIS 4.384/2009 E 4.534/2011, E DO ART. 19 DA LEI DISTRITAL Nº 324/92, COM O ESTATUÍDO NA LODF E CF (ARTIGOS 19, CAPUT, 26 E 49, 51, CAPUT E PARÁGRAFO 3°, TODOS DA LEI ORGÂNICA DO DISTRITO FEDERAL; E ART. 5º, CAPUT, 19, III., 37, CAPUT, E INC. XXI, E 175, DA CONSTITUIÇÃO FEDERAL), DECLARA-SE, POR VIOLAÇÃO AOS PRINCÍPIOS DA ISONOMIA, DA LEGALIDADE, DA MORALIDADE, E DO INTERESSE PÚBLICO, A INCONSTITUCIONALIDADE MATERIAL DAS LEIS DISTRITAIS NºS 4.384, DE 29/09/2009, E 4.534, DE 12/01/2011, E A REVOGAÇÃO DO ARTIGO 19 DA LEI DISTRITAL Nº 324/92 PELA LEI ORGÂNICA DO DISTRITO FEDERAL, PROMULGADA EM 08/06/1993.
+      HIPÓTESE DE MODULAÇÃO DOS EFEITOS DESSA DECISÃO, NO TOCANTE ÀQUELES QUE OCUPAVAM AS ÁREAS POR LONGOS ANOS, POR RELEVANTE INTERESSE SOCIAL E RAZÕES DE SEGURANÇA JURÍDICA, PERMITINDO-SE QUE A MESMA TENHA EFEITOS EX NUNC.
+      AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE (fl. 1, doc. 16. grifos nossos)”.
+    2. O Recorrente alega que teriam sido contrariados os arts. 125, § 2º, e 175 da Constituição da República.
+    Afirma que
+    “o entendimento revelado no acórdão vergastado impõe agressão severa ao texto constitucional (art. 175), ditando exigência de licitação em serviços que não são públicos.
+    Com efeito, a exploração de bancas de jornais e revistas é uma atividade que não foi atribuída pela lei ao Estado, devendo ser prestada por particulares. Mas como satisfaz a interesses comuns da comunidade, depende de autorização do Poder Público.
+    Não sendo propriamente um serviço público, a atividade não está submetida às normas do procedimento licitatório, identificando-se como uso de um bem público. Pode sim, se o Estado desejar, licitar seu objeto, mas não está obrigado por lei a realizar a licitação. Trata-se, pois, de utilização de bem público por particular ” (fls. 16-17, doc. 18).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao Agravante.
+    4. Concluir de forma diversa do acórdão recorrido demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Leis distritais n. 4.384/2009, 4.534/2011 e 324/1992 e Lei Orgânica do Distrito Federal e Lei n. 8.666/1993). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PERMISSÃO DE USO DE ESPAÇO PÚBLICO. CASSAÇÃO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Tribunal a quo não se manifestou explicitamente sobre os temas constitucionais tidos por violados. Incidência dos óbices das Súmulas ns. 282 e 356 do Supremo Tribunal Federal. 2. A controvérsia foi decidida com fundamento na legislação local, incidência da Súmula n. 280 deste Tribunal. 3. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula 279 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (AI 766.514-AgR, Rel. Min. Eros Grau, Segunda Turma, DJe 12.3.2010, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E AMBIENTAL. CESSÃO DE USO DE ÁREA PÚBLICA. 1. CONTROVÉRSIA SOBRE A CARACTERIZAÇÃO DO DANO AMBIENTAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO LOCAL E DE REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. 2. O TRIBUNAL A QUO NÃO JULGOU VÁLIDA LEI OU ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO PELA ALÍNEA C DO ART. 102, INC. III, DA CONSTITUIÇÃO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 613.787-AgR, de minha relatoria, Primeira Turma, Dje 1º.2.2011, grifos nossos).
+    Nesse sentido: ARE 724.748, de minha relatoria, Dje 22.2.2013; RE 679.171, Rel. Min. Luiz Fux, Dje 6.9.2012; AI 853.109, Rel. Min. Cezar Peluso, Dje 15.8.2012 e AI 852202, Rel. Min. Gilmar Mendes, Dje 13.4.2012.
+    Não há, pois, o que prover quanto às alegações do Recorrente.
+    6. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
