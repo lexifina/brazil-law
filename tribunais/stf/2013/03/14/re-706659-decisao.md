@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que o prazo de recolhimento do ICMS devido em razão dos serviços de comunicação prestados pela recorrida rege-se pelo disposto no Convênio ICMS 4/1989.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 24, I, §1º e §2º, 59, 105, III, a, b e c, 146, e 155, §2º, XII, bem como ao art. 34, §8º, do ADCT.
+    A pretensão recursal não merece acolhida.
+    Quanto à possibilidade de conhecimento do recurso especial interposto pela recorrida, os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas, por não se tratar de matéria constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo a ementa do referido julgado:
+    “PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+    A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes.
+    Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso “elemento de configuração da própria repercussão geral”, conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608”.
+    No mesmo sentido, menciono as seguintes decisões, entre outras: AI 748.181-AgR/RS, Rel. Min. Ellen Gracie; RE 436.509-AgR/SP, Rel. Min. Eros Grau; AI 719.002-AgR/DF, Rel. Min. Joaquim Barbosa; RE 362.857-AgR/DF, Rel. Min. Gilmar Mendes; AI 670.588-AgR/PE, Rel. Min. Dias Toffoli; AI 660.302-ED/PR, Rel. Min. Cármen Lúcia; AI 754.296-AgR/RJ, de minha relatoria.
+    Melhor sorte não assiste ao recorrente quanto à discussão referente ao prazo de recolhimento do ICMS devido pela recorrida no caso. Nesse ponto, a pretensão do recorrente cinge-se a fazer prevalecer a interpretação que lhe parece mais adequada das regras do Convênio ICMS 4/1989 e da legislação federal e estadual que rege a matéria. Demonstram esse objetivo os seguintes trechos das razões do extraordinário:
+    “(...) foi totalmente ignorado pelo E. Relator que o Convênio tratou do prazo para entrega de documento em que ficariam registradas todas as atividades da empresa no período, DAICMS, e portanto, de período de apuração, delegando à legislação estadual a definição do prazo para recolhimento do tributo, nos exatos termos constantes das alíneas 'b' e 'c' do inc. V da mesma cláusula 1ª citada no acórdão ora embargado(...).
+    Como se verifica da leitura da norma aplicada ao caso pela Colenda Turma, o momento para a entrega do DAICMS é um, sendo que o prazo para o recolhimento do imposto devido, nos exatos termos do Convênio 4/89, será definido pela legislação estadual, como de fato o foi.
+    (…)
+    A Lei Estadual 8.820/89, arts. 32 e 33, remeteu ao regulamento a fixação dos respectivos prazos para recolhimento. E em seu art. 37 definiu que poderá haver o '...pagamento antecipado do imposto, subsequente, a ser realizada pelo próprio contribuinte'.
+    (…)
+    In casu, o Convênio nº 4/89 não determinou incidência nova, pois desde o Convênio nº 66/88 estava instituído o ICMS sobre operações de comunicações, como vem demonstrando à exaustão nos inúmeros pronunciamentos do Estado nos autos.
+    O convênio nº 04/89 é simplesmente norma complementar da legislação estadual conforme o artigo 100, inciso IV, do Código Tributário Nacional, ou seja, não pode ser contra legem, a não ser que ratificado por lei da assembléia legislativa” (fls. 1.234, 1.235 e 1.239).
+    Dessa forma, apesar de apontar violação de dispositivos constitucionais, o que se nota é a intenção do recorrente de utilizar-se deste recurso como instrumento para reverter a interpretação de normas infraconstitucionais. Contudo, a tal finalidade não se presta o extraordinário. Eventual afronta à Constituição, se ocorrente, seria indireta, além de incidir na espécie a Súmula 280 do STF. Incabível, portanto, o recurso.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 14 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
