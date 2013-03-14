@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 6º e 226 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: RE 593.871-AgR, Rel. Min. Dias Toffoli, 1ª Turma, DJe 07.02.2013, ARE 715.517-AgR, Rel. Min. Cármen Lúcia, 2ª Turma, DJe 04.12.2012 e RE 629.993-AgR, de minha relatoria, 1ª Turma, DJe 04.12.2012, com a seguinte ementa:
+    “AGRAVOS REGIMENTAIS EM RECURSOS EXTRAORDINÁRIOS INTERPOSTOS PELA UNIÃO E PELA FUNAI. DIREITO ADMINISTRATIVO. TERRAS LOCALIZADAS EM RESERVA INDÍGENA. ALIENAÇÃO PELO ESTADO DO MATO GROSSO. DESAPROPRIAÇÃO INDIRETA. INDENIZAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULAS 279 E 650 DO STF. PRECEDENTES. Pedido de indenização por desapropriação indireta julgado procedente na instância recursal ordinária, ao entendimento de que não sujeitas à disciplina do art. 231, § 6º, da Lei Maior as terras objeto da lide, diante da prova produzida, e a teor da diretriz sedimentada na Súmula nº 650/STF (“Os incisos I e XI do art. 20 da Constituição Federal não alcançam terras de aldeamentos extintos, ainda que ocupadas por indígenas em passado remoto”). Não se conhece do recurso extraordinário quando a aferição da alegada afronta aos preceitos constitucionais invocados supõe o revolvimento do quadro fático delineado na origem. Aplicação da Súmula 279/STF. Precedentes das turmas. Agravos regimentais conhecidos e não providos.”
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2013.
+Ministra Rosa Weber
+Relatora
