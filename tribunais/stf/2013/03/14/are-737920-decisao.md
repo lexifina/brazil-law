@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “REPETIÇÃO DE DEMANDA – PEDIDO FORMULADO EM AÇÃO ANTERIOR NÃO ANALISADO – ART. 474 DO CPC – EFICÁCIA PRECLUSIVA DA COISA JULGADA – EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO – A eficácia preclusiva da coisa julgada impede a rediscussão em nova ação de todas as questões anteriormente deduzidas, ainda que não apreciadas por completo pelo julgador, pois competia à parte provocá-lo através de embargos de declaração, a fim de suprir a apontada omissão” (fl. 292).
+    No apelo extremo, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, XXXV; e 6º, do texto constitucional.
+    A recorrente insurge-se contra acórdão que julgou extinto o processo, sem resolução do mérito, com fundamento no artigo 267, V, do CPC.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 5º, XXXV; e 93, IX, da Constituição Federal.
+    Saliento, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Ademais, esta Corte consignou entendimento de que a controvérsia referente aos limites objetivos da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, acaso existente, dar-se-ia de forma indireta ou reflexa.
+    Nesse sentido, destaco os julgamentos do AI-AgR 639.002, Rel. Min. Menezes Direito, DJe 17.4.2009; do AI-AgR 702.182, Rel. Min. Ricardo Lewandowski, DJe 27.3.2009, e do RE-AgR 397.227, Rel. Min. Ayres Britto, DJe 13.8.2010, este último assim ementado:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. CONTROVÉRSIA ALUSIVA AOS LIMITES OBJETIVOS DA COISA JULGADA. 1. A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 639.002-AgR, da relatoria do ministro Menezes Direito; 667.691-AgR, da relatoria do ministro Celso de Mello; 702.182-AgR, da relatoria do ministro Ricardo Lewandowski; e 735.268-AgR, da relatoria da ministra Cármen Lúcia. 2. Incide, de mais a mais, a Súmula 279/STF. 3. Agravo regimental desprovido.”
+    Ante o exposto, nego provimento ao agravo (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 14 de março de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
