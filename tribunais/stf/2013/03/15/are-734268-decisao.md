@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “Apelação Cível. Consumidor. Ação declaratória c/c repetição de indébito. Anulação de cobranças. Esgoto sanitário. Município de Três Rios. Sentença de improcedência. Recurso da autora. Alegação de cerceamento de defesa, pela não produção da prova pericial técnica e de ilegalidade da cobrança por serviço não prestado. Desnecessidade de perícia técnica no local. A própria ré sustenta em sua contestação que não existe tratamento de esgoto do Município de Três Rios. Diante da falta de tratamento e de infra-estrutura, é de se concluir pela ausência do próprio serviço de esgotamento sanitário na sua definição legal e, por conseguinte, do fato gerador subjacente à cobrança da tarifa. Repetição que deve se dar na forma simples, haja vista que a cobrança impugnada, ainda que indevida, encontra previsão na lei 693/67 e decreto executivo n° 203/67, o que traz à baila o disposto no verbete sumular n° 85 deste tribunal a retirar a má-fé do apelado, afastando-se a aplicação da norma do artigo 42 do CDC (...)”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, II, e 37, caput, da mesma Carta.
+    O agravo não merece acolhida.
+    É que o Tribunal a quo decidiu a questão em exame com base nas provas dos autos e na interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.445/2007). Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que é vedado pela da Súmula 279 do STF, bem como seria imprescindível a análise das normas infraconstitucionais pertinentes ao caso. Nesse sentido: AI 843.595/RJ, Rel. Min. Cármen Lúcia, e ARE 701.810/RJ, de minha relatoria.
+    Ademais, ressalte-se que o Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 15 de março de 2013 .
+Ministro RICARDO LEWANDOWSKI
+- Relator -
