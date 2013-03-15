@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO. DIREITO CIVIL E ADMINISTRATIVO. DANO AO ERÁRIO. ARTIGO 37, §5º. IMPRESCRITIBILIDADE. PRECEDENTES. RECURSO EXTRAORDINÁRIO PROVIDO.
+1. São imprescritíveis as ações de ressarcimento de danos ao erário. Precedentes: MS n.º 26210/DF, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, 10.10.2008; RE n.º 578.428/RS-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe 14.11.2011; RE n.º 646.741/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 22.10.2012; AI n.º 712.435/SP-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 12.4.2012.
+2. In casu, o acórdão recorrido assentou: “DIREITO ADMINISTRATIVO – AÇÃO DE INDENIZAÇÃO PROPOSTA PELO ENTE ESTATAL – DANO MATERIAL – APLICAÇÃO DA LEI CIVIL – PRAZO PRESCRICIONAL DE TRÊS ANOS – RECURSO DESPROVIDO. 1 – O prazo prescricional aplicável nas hipóteses de pretensão indenizatória material, decorrente de acidente de trânsito, manejada pelo ente estadual em face do particular, é o constante nas disposições gerais do Código Civil, qual seja, três anos (art. 206, § 3º, V). 2 – Ocorrido o fato supostamente danoso em 06 de junho de 2004, quando deflagrado o prazo prescricional, em conformidade com o princípio da ‘actio nata’, tendo sido ajuizado o pedido judicial de indenização somente em 17 de maio de 2010, resta consumada a prescrição”.
+3. Recurso extraordinário provido.
+    Decisão: Cuida-se de recurso extraordinário interposto pelo ESTADO DE MINAS GERAIS, com fulcro no art. 102, III, a, da Constituição Federal de 1988, em face de v. acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (fl. 113), ementado nos seguintes termos, in verbis:
+    DIREITO ADMINISTRATIVO – AÇÃO DE INDENIZAÇÃO PROPOSTA PELO ENTE ESTATAL – DANO MATERIAL – APLICAÇÃO DA LEI CIVIL – PRAZO PRESCRICIONAL DE TRÊS ANOS – RECURSO DESPROVIDO.
+    1 – O prazo prescricional aplicável nas hipóteses de pretensão indenizatória material, decorrente de acidente de trânsito, manejada pelo ente estadual em face do particular, é o constante nas disposições gerais do Código Civil, qual seja, três anos (art. 206, § 3º, V).
+    2 – Ocorrido o fato supostamente danoso em 06 de junho de 2004, quando deflagrado o prazo prescricional, em conformidade com o princípio da ‘actio nata’, tendo sido ajuizado o pedido judicial de indenização somente em 17 de maio de 2010, resta consumada a prescrição.
+    Não foram opostos embargos de declaração.
+    Em suas razões recursais, o recorrente aponta violação ao artigo 37, § 5º, da Constituição Federal.
+    Não foram apresentadas contrarrazões ao recurso extraordinário.
+    É o Relatório. DECIDO.
+    A irresignação merece prosperar.
+    O entendimento adotado pelo tribunal de origem sobre a questão da imprescritibilidade da ação de ressarcimento ao erário não está em sintonia com a interpretação pacificada por este Supremo Tribunal Federal, que, no julgamento do MS n.º 26.210, Relator o Ministro Ricardo Lewandowski, decidiu pela imprescritibilidade de ações de ressarcimento de dano ao erário. Eis a ementa do acórdão paradigma:
+    “MANDADO DE SEGURANÇA. TRIBUNAL DE CONTAS DA UNIÃO. BOLSISTA DO CNPq. DESCUMPRIMENTO DA OBRIGAÇÃO DE RETORNAR AO PAÍS APÓS TÉRMINO DA CONCESSÃO DE BOLSA PARA ESTUDO NO EXTERIOR. RESSARCIMENTO AO ERÁRIO. INOCORRÊNCIA DE PRESCRIÇÃO. DENEGAÇÃO DA SEGURANÇA. I. O beneficiário de bolsa de estudos no exterior patrocinada pelo Poder Público, não pode alegar desconhecimento de obrigação constante no contrato por ele subscrito e nas normas do órgão provedor. II. Precedente: MS 24.519, Rel. Min. Eros Grau. III. Incidência, na espécie, do disposto no art. 37, § 5º, da Constituição Federal, no tocante à alegada prescrição. IV. Segurança denegada”.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. § 5º DO ART. 37 DA CONSTITUIÇÃO. PRECEDENTES. 1. O Plenário do Supremo Tribunal Federal, no julgamento do MS 26.210, da relatoria do ministro Ricardo Lewandowski, decidiu pela imprescritibilidade de ações de ressarcimento de danos ao erário. 2. Agravo regimental desprovido” (RE n.º 578.428-AgR/RS, Segunda Turma, Relator o Ministro Ayres Britto, DJe 14.11.2011).
+    “Agravo regimental em recurso extraordinário. 2. Ação de ressarcimento de danos ao erário. Art. 37, § 5º, da Constituição Federal. Imprescritibilidade. Precedentes. 3. Agravo regimental a que se nega provimento” (RE n.º 646.741/RS-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe 22.10.2012).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. CONCESSIONÁRIO DE SERVIÇO PÚBLICO. CONTRATO, SERVIÇOS DE MÃO-DE-OBRA SEM LICITAÇÃO. RESSARCIMENTO DE DANOS AO ERÁRIO. ART. 37, § 5º, DA CF. PRESCRIÇÃO. INOCORRÊNCIA. 1. As ações que visam ao ressarcimento do erário são imprescritíveis (artigo 37, parágrafo 5º, in fine , da CF). Precedentes. 2. Agravo regimental a que se nega provimento” (AI n.º 712.435-AgR/SP, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 12.4.2012).
+    Ex positis, DOU PROVIMENTO ao recurso extraordinário (art. 557, § 1º-A, do CPC).
+    Publique-se.
+    Brasília, 15 de março de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
