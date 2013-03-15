@@ -1,3 +1,4 @@
-Art. 49-A. A parcela do valor do royalty previsto nos contratos de concessão firmados a partir de 3 de dezembro de 2012 que exceder a cinco por cento da produção terá a seguinte distribuição:.
-I - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e lacustres, segundo a forma estipulada pelo inciso I do caput do art. 49; e
-II - quando a lavra ocorrer na plataforma continental, no mar territorial ou na zona econômica exclusiva, na forma do Anexo II a esta Lei.
+Art. 49-A. Os percentuais de distribuição a que se referem a alínea "b" do inciso II do art. 48 e a alínea "b" do inciso II do art. 49 serão reduzidos:
+I - em 2 (dois) pontos percentuais em 2013 e em cada ano subsequente até 2018, quando alcançará 5% (cinco por cento);
+II - em 1 (um) ponto percentual em 2019, quando alcançará o mínimo de 4% (quatro por cento).
+Parágrafo único. A partir de 2019, o percentual de distribuição a que se refere este artigo será de 4% (quatro por cento).
