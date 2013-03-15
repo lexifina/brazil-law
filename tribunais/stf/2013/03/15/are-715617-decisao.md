@@ -1,0 +1,31 @@
+DECISÃO
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Vigésima Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Arrendamento mercantil. Aumento repentino e substancial do dólar. Situação de onerosidade excessiva para o arrendatário. Aplicabilidade do Código de Defesa do Consumidor.
+    Os contratos de arrendamento mercantil submetem-se ao Código de Defesa do Consumidor.
+    Na esteira da atual jurisprudência do Superior Tribunal de Justiça e por configurar medida de equidade, reparte-se pela metade, entre os contratantes, o índice de reajuste segundo o dólar americano, a partir de 13 de janeiro de 1999, com observância dos limites do pedido.
+    Recurso parcialmente provido”.
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta o agravante, nas razões do recurso extraordinário, violação do artigo 5º, incisos XXXII e XXXVI, da Constituição Federal, sob o fundamento de que não foram observados os princípios do ato jurídico perfeito e da liberdade de contratar.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    A jurisprudência deste Supremo Tribunal Federal está consolidada no sentido de que o conceito dos institutos do direito adquirido, do ato jurídico perfeito e da coisa julgada não se encontra na Constituição Federal, senão na legislação ordinária (Lei de Introdução ao Código Civil, artigo 6º). Nessa conformidade, encontra-se sob o pálio da proteção constitucional, tão somente a garantia desses direitos, mas não seu conteúdo material, isoladamente considerado, conforme bem, explicitado nos seguintes precedentes:
+    CONSTITUCIONAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. SÚMULA 279 DO STF. SÚMULA 636 DO STF. ALEGADA VIOLAÇÃO AO ART. 5º, XXXVI, LIV E LV, DA CONSTITUIÇÃO. AGRAVO IMPROVIDO. MULTA. I - Inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Se a questão constitucional não vinha sendo discutida, e foi suscitada somente nos embargos de declaração, não há falar em prequestionamento. Incidem, na espécie, as Súmulas 282 e 356 da Corte. II - Matéria que demanda a análise de fatos e provas, o que atrai a incidência da Súmula 279 do STF. III - Incabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF). IV - A alegada violação ao art. 5º, XXXVI, LIV e LV, da Constituição, em regra, configura situação de ofensa meramente reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. V - Aplicação de multa. VI - Agravo regimental improvido” (AI nº 638.758/SP-AgR, Primeira Turma,Relator o Ministro Ricardo Lewandowski, DJe de 19/12/07);
+    PROCESSUAL CIVIL: QUESTÃO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356-STF. OFENSA REFLEXA À CONSTITUIÇÃO. I. - Questão constitucional posta no RE não prequestionada no acórdão. Incidência das Súmulas 282 e 356-STF. II. - Somente a ofensa direta à Constituição autoriza a admissão do recurso extraordinário. No caso, o acórdão limita-se a interpretar normas infraconstitucionais. III. - A verificação, no caso concreto, da existência, ou não, do direito adquirido situa-se no campo infraconstitucional. IV. - Agravo não provido” (AI nº 504.844/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 8/10/04).
+    Ademais, a garantia constitucional do ato jurídico perfeito não elide a possibilidade da revisão judicial do contrato para coibir o enriquecimento sem causa. Nesse sentido, anote-se:
+    “1. Recurso extraordinário: descabimento: dispositivos constitucionais dados por violados não analisados pelo acórdão recorrido nem objeto de embargos de declaração: incidência das Súmulas 282 e 356.
+    2. Recurso extraordinário: inadmissibilidade: controvérsia decidida à luz de legislação infraconstitucional: alegada violação dos dispositivos constitucionais invocados que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636.
+    3. A garantia constitucional do ato jurídico perfeito não exclui a possibilidade de revisão judicial do contrato para coibir o enriquecimento sem causa” (AI 587.727-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 20/10/06).
+    “CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. REEXAME DE PROVA. SÚMULA 279-STF.
+    I. - O acórdão assenta-se na prova, que não se examina em recurso extraordinário (Súmula 279-STF).
+    II. - A verificação, no caso concreto, da ocorrência, ou não, de violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada situa-se no campo infraconstitucional.
+    III. - Agravo não provido” (AI 496.468-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 22/10/04).
+    Ressalte-se, por fim, que o Tribunal de origem decidiu a lide amparado em legislação infraconstitucional (Código de Defesa do Consumidor) e no contrato celebrado entre as partes, cujo reexame é incabível em sede de recurso extraordinário. Incidência das Súmulas nºs 454 e 636 desta Corte.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de março de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
