@@ -1,0 +1,51 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. DISCRICIONARIEDADE. PERCENTUAL DE VAGAS PARA PROMOÇÃO. NECESSIDADE DE ANÁLISE DA LEI COMPLEMENTAR ESTADUAL N. 53/1990. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Mato Grosso do Sul:
+    “APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA C/C OBRIGAÇÃO DE FAZER – PROMOÇÃO DE BOMBEIROS MILITAR – DESTINAÇÃO DE IGUAL NÚMERO DE VAGAS PARA PROMOÇÃO POR ANTIGUIDADE E POR MERECIMENTO – PRINCÍPIO DA PROPORCIONALIDADE – FLUXO REGULAR E EQUILÍBRIO NA CARREIRA – RECURSO CONHECIDO E PROVIDO.
+    A promoção é forma de provimento derivado em cargo público no qual o servidor é elevado para outro cargo e, na carreira de Bombeiros, pode ocorrer por merecimento, por antiguidade, por bravura ou post mortem.
+    A reserva legal de 50% das vagas à promoção na carreira de bombeiro militar pelo critério de antiguidade impõe que a outra metade das vagas seja destinada ao critério de merecimento, garantindo a paridade de tratamento e o fluxo regular e equilíbrio na carreira.
+    A excessiva disponibilização de vagas para promoção em uma só modalidade viola o princípio da legalidade, razoabilidade e da impessoalidade.
+    Ainda que a quantidade de claros não possa exceder 80% das vagas, tal limitação não influi na distribuição das vagas existentes entre as modalidades merecimento e antiguidade.
+    Recurso conhecido e provido” (fl. 246).
+    Os embargos de declaração opostos foram acolhidos para sanar omissão sem modificação do julgado:
+    “EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL – OMISSÃO CARACTERIZADA – ATO ADMINISTRATIVO DISCRICIONÁRIO – INGERÊNCIA DO PODER JUDICIÁRIO – POSSIBILIDADE – AUSÊNCIA DE RAZOABILIDADE E PROPORCIONALIDADE DO ATO – EMBARGOS ACOLHIDOS SEM MODIFICAÇÃO DO JULGADO.
+    Encontra-se pacificado o entendimento no sentido de admitir o controle judicial de ato administrativo discricionário quando este violar o princípio da razoabilidade e da proporcionalidade, os quais decorrem da legalidade.
+    A determinação de distribuição proporcional e igualitária das vagas para promoção entre os critérios de merecimento e de antiguidade não viola o disposto no artigo 2º, da CF.
+    Embargos acolhidos sem modificação do julgado” (fl. 264, grifos nossos).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 2º, 5º, caput, inc. XXXV, LIV e LV, 37, e 93, inc. IX, da Constituição da República.
+    Assevera que “os dispositivos indicados foram devidamente prequestionados mediante interposição de embargos de declaração, sobre os quais o acórdão, injustificadamente, se recusou a manifestar, não se justificando o óbice ao seguimento do presente recurso pela incidência das Súmulas 282 e 356 do STF (…) A ofensa direta à Lei Maior é inequívoca e cristalina” (fls. 324).
+    Sustenta no recurso extraordinário que:
+    “O r. voto vencedor, apesar de reconhecer que a lei (LCE 53/90) apenas previu percentual mínimo de vagas (50%) à promoção por critério de antiguidade, entendeu que estaria havendo burla ao princípio da impessoalidade pela Administração, por esta ter disponibilizado em edital da seleção interna, ao critério de merecimento, número inferior de vagas do que em relação ao número oferecido para o critério de antiguidade.
+    (…)
+    Porém, data venia, constata-se nítida violação ao princípio da separação dos Poderes pelo acórdão (art. 2º, da CF), 5º, caput e LIV e 37, caput, todos da CF/88.
+    Com efeito, se a lei apenas obriga o percentual mínimo de 50% de vagas para o critério de antiguidade, evidente que deixou à conveniência e oportunidade do Executivo a distribuição do restante das vagas para os demais critérios (merecimento, bravura e post mortem).
+    (…)
+    Assim, não há afronta aos supracitados primados (igualdade e proporcionalidade) por não estarem concorrendo somente cabos, ao posto de terceiro sargento (…) Por fim, oportuno destacar que se está adentrando no mérito do ato administrativo, cuja competência é afeta ao Comandante Geral do Comando da Polícia Militar (…) mais precisamente no artigo 11, do Regulamento de Promoções de Graduados do Exército (R-196) – anexo do Decreto n. 4853/2003.
+    Como bem delineado nos autos, a Administração Pública não está obrigada a preencher de uma só vez as vagas porventura existentes, o que está dentro da discricionariedade administrativa, sendo que a única vinculação existente (e prevista na legislação de regência) é a de que os claros existentes no posto ou na graduação não podem exceder 80%” (fls.275-277, grifos nossos).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) a ofensa à Constituição, se tivesse ocorrido, seria indireta; e b) incidência da Súmula n. 279, 282 e 356 do Supremo Tribunal Federal (fls. 308-312).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    7. O Desembargador Relator, Oswaldo Rodrigues de Melo, afirmou:
+    “Pois bem, o cerne da questão posta em discussão cinge-se em saber se o recorrido tem a obrigação de disponibilizar igual quantidade de vagas para promoção por habilitação (merecimento) e por antiguidade para o concurso de promoção para o posto de Terceiro Sargento Bombeiro Militar.
+    (…)
+    Ao fazer a destinação de 50% (cinquenta por cento) das vagas para a promoção por antiguidade, não quis o legislador dizer que todas as vagas remanescentes fossem distribuídas entre as demais formas de promoção (merecimento, bravura e post mortem).
+    Na verdade, deve ser feita uma interpretação das normas que regem a matéria à luz do texto constitucional e, nesse contexto, conclui-se que a distribuição das vagas para promoção deve respeitar aos princípios da proporcionalidade e da razoabilidade, sob pena de haver o comprometimento de algumas formas de promoção em razão da excessiva discricionariedade da administração pública, causando grande insegurança jurídica.
+    Tampouco pode subsistir o argumento do ente estatal de que somente teria a obrigação de preencher somente 20% (vinte por cento) das vagas existentes para promoção, segundo determina o § 1º do artigo 55 da LC 53/1990.
+    Referido dispositivo legal deve ser interpretado no seguinte sentido: existindo um número determinado de vagas disponíveis (claros) que ultrapassem 80% (oitenta por cento) do total, o Comandante-Geral passa a ter obrigação de preenchê-las até que se complete o mínimo de 20% (vinte por cento).
+    (…)
+    Com efeito, diante da existência de 98 (noventa e oito) vagas para promoção a Terceiro Sargento, a serem preenchidas pelo critério merecimento, nada justifica a disponibilização de apenas 39 (trinta e nove) vagas, nesta modalidade” (fls. 247-250, grifei).
+    8. Concluir de forma diversa demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Lei Complementar Estadual n. 53/1990). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MILITAR. TRANSFERÊNCIA PARA A RESERVA REMUNERADA. PROMOÇÃO E PROVENTOS. GRAU IMEDIATAMENTE SUPERIOR. LEI COMPLEMENTAR ESTADUAL 53/1990. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO COM BASE NAS ALÍNEAS C E D DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissível o RE, ante a incidência da Súmula 280 do STF. Precedentes. II - O aresto impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição, tampouco lei local contestada em face de lei federal. Incabível, portanto, o recurso pelas alíneas c e d do art. 102, III, da Constituição. Precedentes. III - Agravo regimental improvido” (ARE 702.999-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.10.2012, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. POLICIAL MILITAR. CONCESSÃO DE PROMOÇÃO NO MESMO ATO QUE REMETE À RESERVA REMUNERADA. 1. JULGADO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. 2. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 831.687-AgR, de minha relatoria, Primeira Turma, DJe 9.5.2011, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
