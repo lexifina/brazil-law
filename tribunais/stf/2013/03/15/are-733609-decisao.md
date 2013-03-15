@@ -1,0 +1,11 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO RE Nº 598.365-RG. TEMA Nº 181 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL.
+    Decisão: A controvérsia objeto dos presentes autos já foi analisada no RE 598.365 RG, Rel. Min. Ayres Britto, DJe de 25/03/2010, em que o Plenário desta Corte recusou o recurso extraordinário ante a ausência de repercussão geral, visto que a matéria está restrita a análise de norma infraconstitucional. O mencionado precedente está assim ementado:
+    PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso 'elemento de configuração da própria repercussão geral', conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+    In casu, o acórdão recorrido assentou:
+    “RECURSO – Preparo - Ação de cobrança - Lei nº 11.608, de 29.12.2003, que revogou expressamente a Lei nº 4.952, de 27.12.1985 – A partir de 01.01.2004, é obrigatório, quando da interposição do recurso de apelação, o recolhimento das custas do preparo e porte de remessa e de retorno, consoante Lei nº 11.608, de 29.12.2003 e artigo 511 do CPC e Provimento nº 833, de 08. 01.2004 do E. Tribunal de Justiça do Estado de são Paulo- O pagamento das custas do preparo e recolhimento do porte de remessa e de retorno e as juntadas das respectivas guias deverão ser feitos no prazo do recurso – Se não foi feito o recolhimento das custas do porte de remessa e retorno, ocorre a deserção do recurso por falta do preparo – O pedido de assistência judiciária foi indeferido pela r. decisão datada de 01.12.2006, que restou irrecorrida- Recurso não provido.”
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 15 de março de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
