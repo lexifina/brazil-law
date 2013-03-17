@@ -1,0 +1,16 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO – INTEMPESTIVIDADE DECLARADA NA ORIGEM E AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO DO JUÍZO PRIMEIRO DE ADMISSIBILIDADE – RELEVÂNCIA NÃO DEMONSTRADA – LIMINAR INDEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O Presidente do Tribunal de Justiça do Estado do Piauí negou seguimento ao especial interposto pela ora paciente. Consoante afirmou, não ficou demonstrado de maneira clara, nas razões do recurso, de que modo aconteceu a ofensa aos dispositivos legais citados. Fez ver a ausência de prequestionamento da matéria veiculada. Destacou que a mera transcrição de ementas, na peça, não comprova o dissídio jurisprudencial.
+    O agravo em recurso especial formalizado – de nº 218.841 – não foi conhecido pela ministra Marilza Maynard. Sua Excelência assentou a intempestividade, pois a decisão agravada foi publicada em 13 de dezembro de 2011 e o agravo, protocolado em 2 de abril de 2012. Consignou não haver o agravante atacado todos os fundamentos do pronunciamento, em inobservância aos Verbetes nº 283 da Súmula do Supremo e 182 da Súmula do Superior Tribunal de Justiça. Esse é o ato impugnado.
+    Os impetrantes dizem de erro material na decisão. Conforme sustentam, 13 de dezembro de 2011 é a data em que o Presidente do Tribunal de Justiça assinou o ato que implicou a negativa de seguimento ao recurso especial. Asseveram não ter havido a publicação. A intimação da parte teria ocorrido com a vista do processo ao advogado, em 27 de março de 2012, terça-feira. Apontam a necessidade de conhecimento do agravo, ressaltando que a intempestividade foi a única razão para a sequência do recurso ser obstada. Anotam a existência de diversas nulidades no transcurso do processo-crime, o que permitiria até mesmo o implemento da ordem de ofício.
+    Em âmbito liminar, buscam a suspensão dos efeitos do ato agravado na origem, de forma a impedir a adoção de qualquer medida constritiva contra a paciente antes do trânsito em julgado do pronunciamento condenatório. No mérito, requerem seja determinado ao Superior Tribunal de Justiça o exame do mérito do agravo em recurso especial.
+    Solicitadas informações, o processo volta concluso para apreciação da medida acauteladora.
+    2. Inicialmente, consigno que a competência para julgar o agravo visando a subida de recurso especial é do relator. Mostra-se impróprio cogitar de negativa de seguimento ao agravo como o fazem os impetrantes.
+    No mais, há equívoco ao apontar-se que a data de 13 de dezembro de 2011 diz respeito à assinatura da decisão atacada mediante o agravo. Esta foi subscrita em 5 de dezembro de 2011. Além disso, no ato atacado por meio deste habeas, a ministra Marilza Maynard, desembargadora do Tribunal de Justiça do Estado de Sergipe, convocada, remeteu à publicação do pronunciamento agravado no Diário de 13 de dezembro de 2011, referindo-se, inclusive, à folha em que se encontra a notícia da publicidade. A par desse aspecto, a agravante não teria impugnado todos os fundamentos da decisão recorrida e, quanto a esse aspecto, não há articulação na inicial deste habeas.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 17 de março de 2013, às 19h20.
+Ministro MARCO AURÉLIO
+Relator
