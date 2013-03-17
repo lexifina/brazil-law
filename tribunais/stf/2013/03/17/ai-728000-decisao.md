@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 150, VI, “c”, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: AI 724.793-AgR/SP, Rel. Min. Marco Aurélio, 1ª Turma, DJe 10.5.2011; e RE 454.753-AgR/CE, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 28.5.2010, verbis:
+    “RECURSO EXTRAORDINÁRIO – IMUNIDADE – IOF – ENTIDADES DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS – RENDAS – OPERAÇÕES FINANCEIRAS – ARTIGO 150, INCISO VI, ALÍNEA "C", DA CARTA FEDERAL. O texto da alínea “c” do inciso VI do artigo 150 é categórico ao revelar a imunidade quanto ao patrimônio e renda de entidades de assistência social que não tenham fins lucrativos.” (destaquei).
+    “CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. ENTIDADE ASSISTENCIAL. EXTENSÃO AO IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS - IOF. ART. 150, VI, C DA CONSTITUIÇÃO. VINCULAÇÃO DO BENEFÍCIO ÀS ATIVIDADES ESSENCIAIS. CARÁTER VINCULADO DO LANÇAMENTO. IMPOSSIBILIDADE DE ACOLHIMENTO DE RAZÕES GENÉRICAS. 1. Esta Corte já definiu que a imunidade tributária (art. 150, VI, c da Constituição) também se aplica ao imposto previsto no art. 153, V, comumente chamado de "Imposto sobre Operações Financeiras - IOF". 2. Devido ao caráter plenamente vinculado da atividade administrativa de constituição do crédito tributário, descabe acolher afirmativa genérica de que o resultado da atividade que se tem por imune deve estar vinculado à atividade essencial da entidade. Necessidade de reexame de fatos e provas, que não podem ser meramente pressupostos. 3. Ademais, a manutenção de investimentos pode ser instrumento útil para a formação de recursos destinados às atividades filantrópicas. Desde que respeitados os limites da imunidade (não privilegiar atividade privada econômica lucrativa e não afetar a livre iniciativa), a imunidade tributária será aplicável ao produto das operações financeiras. Agravo regimental ao qual se nega provimento”. (destaquei).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de março de 2013.
+Ministra Rosa Weber
+Relatora
