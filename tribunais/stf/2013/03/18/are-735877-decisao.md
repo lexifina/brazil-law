@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. JUROS DE MORA. LEI N. 9.494/1997, ART. 1º-F. INCIDÊNCIA NO PERÍODO ANTERIOR AO DA SUCESSÃO DA REDE FERROVIÁRIA FEDERAL S/A - RFFSA PELA UNIÃO. ALEGADA CONTRARIEDADE AO ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Superior do Trabalho:
+    “EXECUÇÃO. JUROS DA MORA. REDE FERROVIÁRIA FEDERAL S.A. SUCESSÃO. UNIÃO. ARTIGO 1º-F DA LEI N.º 9.497/1997. INCIDÊNCIA DE JUROS DE 0,5% SOMENTE APÓS A SUCESSÃO. Nas condenações impostas à Rede Ferroviária Federal, sucedida pela União, somente incidem juros de 0,5% ao mês após a efetiva sucessão ocorrida em 22/1/2007, impondo-se respeitar as situações fático-jurídicas já consolidadas. Incólumes, portanto, os artigos 5º, II, 37, II, XVII, e § 9º, da Constituição da República. Agravo de instrumento a que se nega provimento.”
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. II, da Constituição da República.
+    Argumenta ser “perfeitamente aplicável o disposto art. 1ºF da Lei nº 9.494, de 1997, ao débito apurado entre a data da citação inicial e a extinção da RFFSA, posto que se está diante de uma situação jurídica não consolidada - apuração do quantum debeatur-, por isso mesmo não resguardada pelo direito adquirido, ato jurídico perfeito ou coisa julgada.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos desse recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Inicialmente, cumpre ressalvar que a presente controvérsia refere-se à incidência do art. 1º-F da Lei n. 9.494/1997 no período anterior à sucessão da empresa privada (RFSSA) pela União. Assim, a matéria é diversa da julgada no Agravo de Instrumento n. 842.063, Relator o Ministro Presidente, cuja repercussão geral foi reconhecida, no qual se discute a aplicação imediata daquela norma.
+    7. Este Supremo Tribunal assentou que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional (Lei n. 9.494/1997), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide na espécie a Súmula n. 636 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO. JUROS DE MORA. PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (are 679.154-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2012).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. 1. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE EFEITO SUSPENSIVO. CONTROVÉRSIA DE ÍNDOLE EMINENTEMENTE INFRACONSTITUCIONAL. 2. ALEGAÇÃO DE AFRONTA AO INCISO II DO ART. 5º DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA SÚMULA 636/STF. 3. OFENSA AO INCISO IX DO ART. 93 DA MAGNA CARTA. INSUBSISTÊNCIA. 1. Caso em que entendimento diverso do adotado pelo Tribunal de Justiça do Estado de Goiás demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância recursal extraordinária. 2. É de incidir no particular a Súmula 636/STF. 3. A jurisdição foi prestada de forma completa, em acórdão devidamente fundamentado, embora em sentido contrário aos interesses da parte recorrente, o que não configura cerceamento de defesa. Agravo regimental desprovido” (AI 765.031-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 21.3.2011).
+    Nada há a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
