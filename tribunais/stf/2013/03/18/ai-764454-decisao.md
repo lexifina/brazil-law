@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na fronta aos arts. 5º, LXIX e 37, XVI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento acerca da compatibilidade de horários, concluindo pela legalidade da acumulação de cargos, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido: AI 838.592/CE, Rel. Min. Marco Aurélio, 1ª Turma, DJe 09.4.2012; RE 634.086-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2011; e RE 633.298/MG, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 14.02.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONSTITUCIONAL. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. EXISTÊNCIA DE NORMA INFRACONSTITUCIONAL QUE LIMITA A JORNADA SEMANAL DOS CARGOS A SEREM ACUMULADOS. PREVISÃO QUE NÃO PODE SER OPOSTA COMO IMPEDITIVA AO RECONHECIMENTO DO DIREITO À ACUMULAÇÃO. COMPATIBILIDADE DE HORÁRIOS RECONHECIDA PELA CORTE DE ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - A existência de norma infraconstitucional que estipula limitação de jornada semanal não constitui óbice ao reconhecimento do direito à acumulação prevista no art. 37, XVI, c, da Constituição, desde que haja compatibilidade de horários para o exercício dos cargos a serem acumulados. II – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à compatibilidade de horários entre os cargos a serem acumulados, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido.”
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministra Rosa Weber
+Relatora
