@@ -1,0 +1,13 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 37, II, da Constituição Federal e 19 do ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: ARE 649.046-AgR, Rel. Min. Luiz Fux, 1ª Turma, DJe 13.9.2012 e ADI 289, Rel. Min. Sepúlveda Pertence, Pleno, DJ 16.3.2007, com a seguinte ementa:
+    “I. Servidor Público: estabilidade extraordinária (ADCT/CF/88, art. 19). O Tribunal tem afirmado a sujeição dos Estados-membros às disposições da Constituição Federal relativas aos servidores públicos, não lhes sendo dado, em particular, restringir ou ampliar os limites da estabilidade excepcional conferida no artigo 19 do ato federal das disposições transitórias. II. Estabilidade excepcional (Art. 19 ADCT): não implica efetividade no cargo, para a qual é imprescindível o concurso público (v.g. RE 181.883, 2ª T., Corrêa, DJ 27.02.98; ADIns. 88-MG, Moreira, DJ 08.09.00; 186-PR, Rezek, DJ 15.09.95; 2433-MC, Corrêa, DJ 24.8.01). III. Concurso público: exigência incontornável para que o servidor seja investido em cargo de carreira diversa. 1. Reputa-se ofensiva ao art. 37, II, CF, toda modalidade de ascensão de cargo de uma carreira ao de outra, a exemplo do "aproveitamento" de que cogita a norma impugnada. 2. Incidência da Súmula/STF 685 ("É inconstitucional toda modalidade de provimento que propicie ao servidor investir-se, sem prévia aprovação em concurso público destinado ao seu provimento, em cargo que não integra a carreira na qual anteriormente investido"). IV. Ação direta de inconstitucionalidade julgada procedente, para declarar a inconstitucionalidade dos artigos 25, 26, 29 e 30 do Ato das Disposições Constitucionais Transitórias da Constituição do Estado do Ceará.”
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministra Rosa Weber
+Relatora
