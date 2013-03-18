@@ -1,0 +1,14 @@
+Contra despacho negativo de admissibilidade da Presidência da Seção Criminal do Tribunal de Justiça do Estado de São Paulo, maneja agravo Antônio Carlos Gomes com vista a assegurar o trânsito do recurso extraordinário que interpôs. Opostos na origem os óbices da falta de prequestionamento, da ausência de preliminar formal da repercussão geral e da inviabilidade do reexame de fatos e provas.
+    Insiste, em síntese, na afronta ao art. 93, IX, da Constituição da República.
+    Ao exame dos autos, verifico a ocorrência de intempestividade recursal.
+    Nos termos da Súmula 699/STF, o agravo, em matéria criminal, deve ser interposto no prazo de cinco dias contados da data de publicação da decisão que não admite o recurso extraordinário.
+    A superveniente Lei nº 12.322/2010, de alteração do Código de Processo Civil, não afetou o prazo de interposição do agravo em matéria criminal, não se justificando a revisão da súmula. Nesse sentido, precedente do Plenário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRAZO. LEI Nº 12.322/2010. MATÉRIA CRIMINAL. INAPLICABILIDADE DO ART. 544 DO CPC. INCIDÊNCIA DO ART. 28 DA LEI Nº 8.038/90. PRECEDENTES. QUESTÃO DE ORDEM REJEITADA E AGRAVO NÃO CONHECIDO. 1. A alteração promovida pela Lei nº 12.322, de 9 de setembro de 2010, não se aplica aos recursos extraordinários e agravos que versem sobre matéria penal e processual penal, de modo que o prazo do Agravo em Recurso Extraordinário criminal é o de 5 (cinco) dias previsto no art. 28 da Lei nº 8.038/90, e não o de 10 (dez) dias, conforme o art. 544 do CPC. Precedentes (AG 197.032-RS, rel. Min. Sepúlveda Pertence, 5.11.97; AG (AgRg) 234.016-SP, rel. Min. Ilmar Galvão, 8.6.99). 2. Questão de ordem rejeitada para não conhecer do recurso de agravo” (ARE 639.846-AgR-QO, Redator p/ acórdão Min. Luiz Fux, Plenário, Dje 20.3.2012 – grifos nossos).
+    No caso, o Recorrente foi intimado da decisão agravada no dia 27.10.2010, quarta-feira, tendo o agravo sido protocolado somente em 03.11.2010, quarta-feira, razão pela qual é intempestivo. Mesmo considerando o feriado do dia 02.11.2010, o prazo expirou em 1º.11.2010, segunda-feira.
+    Oportuno destacar que o Provimento 1744/2010 do Conselho Superior de Magistratura do Tribunal de Justiça do Estado de São Paulo, que dispõe sobre as datas de suspensão do expediente forense no ano de 2010, no primeiro e segundo graus de jurisdição do Estado de São Paulo, apesar de indicar o feriado nacional do dia 02 de novembro, não incluiu nessa relação o dia anterior.
+    Por fim, ressalto que, em relação ao dia 1º.11.2010, não consta dos autos qualquer elemento probatório de causa suspensiva ou interruptiva do prazo recursal, cuja prova, em qualquer hipótese, incumbiria à parte agravante.
+    Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, do Regimento Interno).
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministra Rosa Weber
+Relatora
