@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso afronta aos arts. 40, § 8º, e 195, § 5º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e AI 842.553-AgR/PR, Rel. Min. Luiz Fux, 1ª Turma, DJe 29.9.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. EXTENÇÃO AOS INATIVOS DA MAJORAÇÃO DOS VALORES DAS QUOTAS DE PREMIO PRODUTIVIDADE. MATÉRIA INFRACONSTITUCIONAL. LC PR 92/02. RESOLUÇÃO 36/05 SEFA. DIREITO LOCAL. SÚMULA 280. ANÁLISE DOS FATOSE PROVAS. SÚMULA 279/STF. 1. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. Precedentes: AI n. 738.145 - AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 25.02.11; AI n. 482.317-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma DJ 15.03.11; AI n. 646.103-AgR, Rel. Min. CÁRMEN LÚCIA, 1ª Turma, DJ 18.03.11. 2. In casu, o acórdão recorrido decidiu a lide com aplicação de normas infraconstitucionais, por isso que eventual violação à Constituição o foi de forma indireta ou reflexa, o que inviabiliza a admissibilidade do recurso extraordinário. 3. A ofensa ao direito local não viabiliza o apelo extremo. 4. O recurso extraordinário não é servil ao exame de questões que demandam o revolvimento do contexto fático-probatório encartado nos autos, em face do óbice erigido pela súmula 279 do STF, de seguinte teor: Para reexame de prova não cabe recurso extraordinário. 5. Agravo regimental desprovido”.
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministra Rosa Weber
+Relatora
