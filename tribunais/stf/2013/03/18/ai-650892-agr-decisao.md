@@ -1,0 +1,35 @@
+Decisão
+    Vistos.
+    Associação de Poupança e Empréstimo - Poupex interpõe tempestivo agravo regimental (fls. 219 a 223 – fax e 225 a 229 – original) contra decisão em que o Ministro Sepúlveda Pertence negou provimento ao agravo de instrumento (fls. 215/216), com a seguinte fundamentação:
+    “Agravo de instrumento de decisão que inadmitiu RE, a, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (f. 141):
+    ‘EMBARGOS À EXECUÇÃO DECORRENTE DE INSTRUMENTO PARTICULAR DE COMPRA E VENDA E FINANCIAMENTO DE IMÓVEL, COM GARANTIA HIPOTECÁRIA, PARCIALMENTE ACOLHIDOS - AVENÇA QUE PREVIA REAJUSTE DE PRESTAÇÕES COM BASE EM VARIAÇÃO SALARIAL DA CATEGORIA PROFISSIONAL DO CONTRATANTE, OU PELOS ÍNDICES DA CADERNETA DE POUPANÇA - CONTRATO FIRMADO ANTES DA EDIÇÃO DA LEI Nº 8.177, VOLTADA À DESINDEXAÇÃO DA ECONOMIA - INVIABILIDADE DE OS REAJUSTES DAS PRESTAÇÕES OU DO SALDO DEVEDOR SEREM PAUTADOS PELA TR - RECURSO NÃO PORVIDO.’
+    Lê-se do voto condutor (f. 143):
+    ‘O Excelso Pretório deixou assentado, no julgamento da ADIN nº 493/DF, que a TR não pode ser utilizada como índice de atualização monetária em contratos como o presente, celebrados anteriormente à entrada em vigor da referida Lei’.
+    Alega o RE, em síntese, a violação do artigo 5º, XXXVI, da Constituição Federal.
+    Decido.
+    É inviável o RE.
+    O acórdão recorrido está em harmonia com o entendimento pacificado na ADIn 493, 25.6.92, Moreira Alves, assim ementado:
+    ‘Ação direta de inconstitucionalidade.
+    - Se a lei alcançar os efeitos futuros de contratos celebrados anteriormente a ela, será essa lei retroativa (retroatividade mínima) porque vai interferir na causa, que é um ato ou fato ocorrido no passado.
+    - O disposto no artigo 5º, XXXVI, da Constituição Federal se aplica a toda e qualquer lei infraconstitucional, sem qualquer distinção entre lei de direito público e lei de direito privado, ou entre lei de ordem pública e lei dispositiva. Precedente do S.T.F..
+    - Ocorrência, no caso, de violação de direito adquirido. A taxa referencial (TR) não é índice de correção monetária, pois, refletindo as variações do custo primário da captação dos depósitos a prazo fixo, não constitui índice que reflita a variação do poder aquisitivo da moeda. Por isso, não há necessidade de se examinar a questão de saber se as normas que alteram índice de correção monetária se aplicam imediatamente, alcançando, pois, as prestações futuras de contratos celebrados no passado, sem violarem o disposto no artigo 5º, XXXVI, da Carta Magna.
+    - Também ofendem o ato jurídico perfeito os dispositivos impugnados que alteram o critério de reajuste das prestações nos contratos já celebrados pelo sistema do Plano de Equivalência Salarial por Categoria Profissional (PES/CP).
+    Ação direta de inconstitucionalidade julgada procedente, para declarar a inconstitucionalidade dos artigos 18, ‘caput’ e parágrafos 1º e 4º; 20; 21 e parágrafo único; 23 e parágrafos; e 24 e parágrafos, todos da Lei n. 8.177, de 1º de março de 1991.’
+    Nego provimento ao agravo”.
+    Alega a agravante que, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, foram interpostos, simultaneamente, recursos especial e extraordinário e que “no contrato firmado entre as partes, à cláusula 23, foi estabelecido que o saldo devedor do financiamento seria atualizado mediante aplicação dos mesmo índices utilizados para o reajustamento de depósito de poupança mantidos nas instituições integrantes do Sistema Brasileiro de Poupança e Empréstimo” (fl. 226), motivo pelo qual, o saldo devedor deveria ser atualizado com base na TR.
+    Posteriormente, vem “informar que no julgamento do Resp n. 935.318, o C. STJ reformou o v. acórdão recorrido, a fim de restabelecer a aplicação da TR no contrato de mútuo firmado entre as partes, estando, por esse motivo, prejudicado o conhecimento e julgamento do presente recurso” (fl. 232).
+    É o relatório.
+    Decido.
+    A agravante interpôs, simultaneamente, recursos especial e extraordinário, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que afastou a aplicação da TR como índice de atualização do saldo devedor do contrato celebrado entre os litigantes.
+    O Superior Tribunal de Justiça, por sua vez, examinando o recurso especial, reformou o acórdão proferido na origem e consignou a possibilidade de utilização da TR.
+    Desse modo, com o provimento integral da pretensão recursal, pelo STJ, o recurso extraordinário manejado contra o julgado proferido na origem torna-se prejudicado, pela superveniente perda de seu objeto.
+    Isso porque, com o provimento do recurso especial e o trânsito em julgado dessa decisão (fl. 233), houve a substituição do acórdão recorrido, exatamente no ponto objeto do recurso extraordinário, acarretando o prejuízo desse recurso. Nesse sentido, anote-se:
+    “PROCESSO CIVIL. RECURSO EXTRAORDINÁRIO PREJUDICADO. SUBSTITUIÇÃO DO ACÓRDÃO DO TRF PELO DO STJ. PRECLUSÃO DAS QUESTÕES CONSTITUCIONAIS: INEXISTÊNCIA. 1. O acórdão do Superior Tribunal de Justiça substituiu o acórdão proferido pelo Tribunal Regional Federal, nos termos do art. 512 do CPC. Precedentes. 2. O recurso extraordinário, interposto do acórdão do TRF, no caso, está prejudicado pela perda superveniente de seu objeto. 3. Inexistência, no caso, de preclusão das questões constitucionais, notadamente porque foi interposto recurso extraordinário do acórdão que deu provimento ao recurso especial, tendo inclusive sido oferecidas contra-razões pela ora agravante. 4. Agravo regimental a que se nega provimento” (RE nº 524.069/PR-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 4/5/11).
+    “RECURSO. Extraordinário. Provimento parcial. Multa processual aplicada pelo Tribunal de origem. Pedido de afastamento. Recurso especial provido pelo STJ. Prejudicialidade. Agravo regimental improvido. Tendo o Superior Tribunal de Justiça conhecido e provido integralmente o recurso especial, com trânsito em julgado, está prejudicado o pedido” (AI nº 665.942/SP-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 14/8/09).
+    “RECURSO EXTRAORDINÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PERDA DO OBJETO. PRETENSÃO ATENDIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. - Podem ser conhecidos como agravo regimental os embargos de declaração apresentados contra decisão monocrática emanada de membro do Supremo Tribunal Federal. - Perda de objeto porque a pretensão fora atendida no Superior Tribunal de Justiça. Impugnação da parte recorrida, cujo pleito é a reconsideração da decisão agravada. Agravo a que se nega provimento” (RE nº 367.227/RS-ED, Primeira Turma, Relator o Ministro Joaquim Barbosa, DJ de 10/9/04).
+    Ante o exposto, reconsidero a decisão agravada e, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o agravo de instrumento, pela perda superveniente de seu objeto.
+    Publique-se.
+    Brasília, 18 de março de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
