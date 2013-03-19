@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça de Mato Grosso do Sul que julgou ser a Justiça Estadual a competente para apreciar a causa – ação buscando o ressarcimento de valores cobrados a título de energia elétrica, proposta contra empresa concessionária de serviço de distribuição de energia –, ao argumento de que a remessa dos autos à Justiça Federal para decidir sobre o ingresso de ente federal (ANEEL) depende de pedido deste órgão.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC. Em suas razões, aponta ofensa aos artigos 21, XII, b, 22, IV e 109, I, da Constituição Federal, aduzindo, em síntese, que a situação exige a intervenção imediata da ANEEL no pólo passivo e o deslocamento da competência para uma das Varas Federais da Seção Judiciária do Distrito Federal.
+    2. No que se refere à alegada violação aos artigos 21, XII, b, 22, IV e 109, I, da Constituição Federal, para se chegue a qualquer conclusão acerca da ocorrência de violação a preceito constitucional, seria necessário recorrer previamente às Leis 8.987/1995 e 9.247/1996, de modo que eventual ofensa à Constituição se daria de forma indireta ou reflexa, o que não é possível nesta via recursal.
+    Ademais, o recorrente não atacou, de forma específica, o argumento central do acórdão recorrido, sustentando apenas que a situação exige a intervenção imediata da ANEEL. O aresto, a seu turno, apontou como razão de decidir a necessidade de manifestação de interesse do ente federal para que a Justiça Federal, então, seja instada a se pronunciar a respeito. Tal circunstância consubstancia o óbice da Súmula 283/STF: “É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles”.
+    3. Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 19 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
