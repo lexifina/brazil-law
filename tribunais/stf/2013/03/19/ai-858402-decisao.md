@@ -1,0 +1,16 @@
+Trata-se de agravo de instrumento interposto contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que reconheceu que a cobrança do IPTU do Município de Ipatinga com base na Lei Municipal 1.206/1991 previa a progressividade de alíquotas de forma incompatível com o texto da Constituição então vigente.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 145, § 1º, e 156, I e § 1º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência do Supremo Tribunal Federal fixou entendimento segundo o qual é inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana (redação original do § 1º do art. 156 da CF) e desde que atendidos os requisitos previstos no art. 182, § 2º e § 4º, II, da Carta Maior (Súmula 668 do STF).
+    Assim, tal progressividade deverá, pelo menos, estar prevista em lei específica, abranger área incluída em plano diretor, recair sobre imóvel urbano não-edificado, subutilizado ou não-utilizado e ser graduada apenas em razão do tempo.
+    Esse entendimento foi ratificado em feito que, inclusive, foi submetido a sistemática da repercussão geral (AI 712.743-QO-RG/SP, Rel. Min. Ellen Gracie). Por oportuno, trago à colação a ementa do referido julgado:
+    “QUESTÃO DE ORDEM. AGRAVO DE INSTRUMENTO. CONVERSÃO EM RECURSO EXTRAORDINÁRIO (CPC, ART. 544, PARÁGRAFOS 3º E 4º). IPTU. INCIDÊNCIA DE ALÍQUOTAS PROGRESSIVAS ATÉ A EC 29/2000. RELEVÂNCIA ECONÔMICA, SOCIAL E JURÍDICA DA CONTROVÉRSIA. RECONHECIMENTO DA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO DEDUZIDA NO APELO EXTREMO INTERPOSTO. PRECEDENTES DESTA CORTE A RESPEITO DA INCONSTITUCIONALIDADE DA COBRANÇA PROGRESSIVA DO IPTU ANTES DA CITADA EMENDA. SÚMULA 668 DESTE TRIBUNAL. RATIFICAÇÃO DO ENTENDIMENTO. POSSIBILIDADE DE APLICAÇÃO DOS PROCEDIMENTOS DA REPERCUSSÃO GERAL (CPC, ART. 543-B).
+    1. Mostram-se atendidos todos os pressupostos de admissibilidade, inclusive quanto à formal e expressa defesa pela repercussão geral da matéria submetida a esta Corte Suprema. Da mesma forma, o instrumento formado traz consigo todos os subsídios necessários ao perfeito exame do mérito da controvérsia. Conveniência da conversão dos autos em recurso extraordinário.
+    2. A cobrança progressiva de IPTU antes da EC 29/2000 - assunto de indiscutível relevância econômica, social e jurídica - já teve a sua inconstitucionalidade reconhecida por esta Corte, tendo sido, inclusive, editada a Súmula 668 deste Tribunal.
+    3. Ratificado o entendimento firmado por este Supremo Tribunal Federal, aplicam-se aos recursos extraordinários os mecanismos previstos no parágrafo 1º do art. 543-B, do CPC.
+    4. Questão de ordem resolvida, com a conversão do agravo de instrumento em recurso extraordinário, o reconhecimento da existência da repercussão geral da questão constitucional nele discutida, bem como ratificada a jurisprudência desta Corte a respeito da matéria, a fim de possibilitar a aplicação do art. 543-B, do CPC ”
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
