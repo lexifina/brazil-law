@@ -1,0 +1,9 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que fixou, ao ora agravante, o regime integralmente fechado pela prática do crime de tráfico de drogas.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, XLVI, da mesma Carta.
+    A pretensão recursal merece acolhida. Isso porque o Plenário desta Corte, no julgamento do HC 82.959/SP, Rel. Min. Marco Aurélio, julgou inconstitucional o disposto no art. 2º, § 1º, da Lei 8.072/1990, que vedava a progressão de regime, por entendê-lo contrário ao princípio da individualização da pena. Por oportuno, trago à colação ementa do indigitado julgado:
+    “PENA - REGIME DE CUMPRIMENTO - PROGRESSÃO - RAZÃO DE SER. A progressão no regime de cumprimento da pena, nas espécies fechado, semiaberto e aberto, tem como razão maior a ressocialização do preso que, mais dia ou menos dia, voltará ao convívio social. PENA - CRIMES HEDIONDOS - REGIME DE CUMPRIMENTO - PROGRESSÃO - ÓBICE - ARTIGO 2º, § 1º, DA LEI Nº 8.072/90 - INCONSTITUCIONALIDADE - EVOLUÇÃO JURISPRUDENCIAL. Conflita com a garantia da individualização da pena - artigo 5º, inciso XLVI, da Constituição Federal - a imposição, mediante norma, do cumprimento da pena em regime integralmente fechado. Nova inteligência do princípio da individualização da pena, em evolução jurisprudencial, assentada a inconstitucionalidade do artigo 2º, § 1º, da Lei nº 8.072/90”.
+    Isso posto, com base no art. 544, § 4º, II, c, do CPC, conheço do agravo para dar provimento ao recurso extraordinário, garantindo ao réu o direito à progressão de regime, sem prejuízo da apreciação, pelo magistrado competente, dos demais requisitos pertinentes ao reconhecimento da possibilidade de progressão.
+    Publique-se.
+    Brasília, 19 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+ - Relator -
