@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário criminal sob o fundamento de que o recorrente não demonstrou, em preliminar, a existência de repercussão geral .
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    A pretensão não merece acolhida. É que o recorrente, de fato, deixou de atacar o fundamento da decisão agravada. Como se sabe, incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso (AI 589.978-AgR/DF, Rel. Min. Cármen Lúcia).
+    Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono as seguintes decisões, entre outras: AI 580.361-AgR/RS, de minha relatoria; AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence.
+    Ressalte-se, também, que o entendimento deste Tribunal é assente no sentido de que a afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Incabível, portanto, o recurso extraordinário.
+    Transcrevo, por oportuno, a ementa do AI 580.465-AgR/SP, Rel. Min. Cármen Lúcia, que bem ilustra a jurisprudência desta Corte:
+    “PROCESSUAL PENAL . AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282 DESTE SUPREMO TRIBUNAL. MATÉRIA INFRACONSTITUCIONAL . OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (...). 2. O Supremo Tribunal Federal firmou jurisprudência no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa reflexa à Constituição da República. Precedentes. 3. Agravo regimental desprovido” (grifos meus).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 19 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
