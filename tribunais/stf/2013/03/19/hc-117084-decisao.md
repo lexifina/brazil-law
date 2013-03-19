@@ -1,0 +1,14 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Bruno da Silva Rodrigues contra decisão do Ministro Og Fernandes, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 265.951/SP em face do óbice constante da Súmula 691/STF. Eis o teor da decisão:
+    “(…) Na caso, é de se aplicar o enunciado da Súmula n.º 691 do STF, observado também por esta Corte, no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ.
+    Essa compreensão é afastada de modo excepcional se evidenciada nos autos a configuração de flagrante ilegalidade ou abuso de poder, situação esta inocorrente na espécie, consoante se observa do provimento atacado, que deixou certo não ter o sustentado constrangimento se revelado de plano, requisitando informações ao Juiz de primeiro grau.
+    Ademais, em consulta ao sítio eletrônico do Tribunal de origem, verificou-se que a impetração originária foi distribuída em 25/2/2013 e a liminar indeferida no dia 26/2/2013. Aguarda a Corte Estadual o envio de informações, solicitadas por meio de ofício expedido em 6/3/2013.
+    Diante desse quadro, não vejo como afastar a aplicação do enunciado nº 691 da Súmula do STF, cabendo aguardar o julgamento do mérito da impetração na Corte de origem, sob pena de indevida supressão de instância.”
+    Na inicial, alega-se o seguinte: (a) o paciente foi preso em flagrante em 11 de fevereiro de 2013 pela suposta prática do crime de furto qualificado tentado; (b) a prisão foi convertida em preventiva; (c) a decisão que determinou a prisão preventiva encontra-se desprovida dos requisitos autorizadores preconizados no art. 312 do Código de Processo Penal; (d) a hipótese requer o afastamento do entendimento firmado na Súmula 691/STF. Por fim, postula a concessão da medida liminar para que seja posto em liberdade.
+    2. Ao contrário do alegado, não se trata, aqui, de superação da Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de ‘habeas corpus’ impetrado contra decisão do relator que, em ‘habeas corpus’ requerido a tribunal superior, indefere a liminar”. A hipótese, a rigor, é de insuperável dupla supressão de instância. É que a decisão impugnada negou seguimento ao habeas corpus por entender não demonstrada flagrante ilegalidade que justificasse o abrandamento da Súmula 691 do STF. Concluiu-se, com efeito, que o conhecimento do habeas corpus implicaria a indevida supressão de instância, já que o TJ/SP não chegou a apreciar o mérito da ordem. Assim, o conhecimento do pedido nesta Corte acarretaria a deliberação de matéria que não foi objeto de apreciação, tanto pelo STJ, quanto pelo Tribunal estadual, o que é inadmissível.
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 19 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
