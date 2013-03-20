@@ -1,0 +1,18 @@
+Trata-se de recurso ordinário em habeas corpus interposto por Magno José de Oliveira, representado pela Defensoria Pública da União, contra julgamento colegiado do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC 223.043/MS.
+    Magno José de Oliveira foi condenado às penas de 3 (três) anos e 3 (três) meses de reclusão, em regime inicial semiaberto, e 60 (sessenta) dias-multa, pela prática do delito tipificado no art. 14, caput, da Lei 10.826/2003 (porte ilegal de arma de fogo de uso permitido). O magistrado de primeiro grau concedeu ao réu o direito a recorrer em liberdade.
+    Em sede de apelação criminal, o Tribunal de Justiça do Mato Grosso do Sul deu parcial provimento ao recurso defensivo apenas para redimensionar a pena a 2 (dois) anos, 2 (dois) meses e 18 (dezoito) dias de reclusão.
+    A Defensoria Pública, ao argumento da atipicidade da conduta de portar arma de fogo inapta a efetuar disparos, impetrou o HC 223.043/MS ao Superior Tribunal de Justiça, que, mediante decisão monocrática exarada pelo Ministro Marco Aurélio Bellizze, negou seguimento ao writ. Ato contínuo, manejado agravo regimental, restou não provido em acórdão assim ementado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 14 DA LEI Nº 10.826/2003. CRIME DE PERIGO ABSTRATO. POTENCIALIDADE LESIVA DO INSTRUMENTO VULNERANTE. IRRELEVÂNCIA. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. De acordo com a jurisprudência do Superior Tribunal de Justiça, o tipo penal do art. 14 da Lei nº 10.826/2003 incrimina o mero porte de arma de fogo, de uso permitido, sem autorização ou em desacordo com determinação legal, não fazendo registro quanto à necessidade de se aferir a potencialidade lesiva do artefato. Precedentes.
+    2. Desse modo, existindo outras provas nos autos capazes de demonstrar a materialidade do crime de porte ilegal de arma de fogo, mostra-se irrelevante a presença de laudo pericial atestando sua inaptidão para realizar disparos, tendo em vista que a consumação do delito, repita-se, não depende da potencialidade lesiva do instrumento vulnerante, razão pela qual não há constrangimento ilegal a ser sanado na espécie.
+    3. Agravo regimental a que se nega provimento.”
+    Argumenta o recorrente, em síntese, a atipicidade da conduta em razão da perícia ter constatado a inaptidão da arma para efetuar disparos. Nesse diapasão, sustenta a indispensabilidade da comprovação da potencialidade lesiva da arma para configuração do crime. Requer o provimento do recurso ordinário para reconhecer a atipicidade da conduta.
+    A Secretaria desta Corte Suprema certifica que este RHC 115.483/MS foi distribuído por prevenção à minha relatoria em razão do RHC 115.482/MS. Naquela oportunidade, registrada a semelhança entre as petições iniciais.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, manifestou-se pelo desprovimento do recurso.
+    Ao exame dos autos, verifico que o objeto do presente feito já está sendo submetido à apreciação desta Suprema Corte nos autos do RHC 115.482/MS, da minha relatoria, distribuído em 10.10.2012.
+    Ressalto que ambos os recursos ordinários em habeas corpus são idênticos, com as mesmas partes, o mesmo pedido e a mesma causa de pedir, configurando-se, assim, a litispendência. Dessa maneira, não há razão para o prosseguimento do presente feito, visto que se trata de mera reiteração de recurso anterior.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se. Arquive-se.
+    Brasília, 20 de março de 2013.
+Ministra Rosa Weber
+Relatora
