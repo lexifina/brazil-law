@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Município de Caxias do Sul interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 183, parágrafo 3°, e 191, parágrafo único, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Nona Câmara Cível do Tribunal de Justiça da Comarca de Caxias do Sul, assim ementado:
+    “AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO. APELAÇÃO. RECURSO ADESIVO. VERBA HONORÁRIA. COMPENSAÇÃO.
+    1. Recurso adesivo não conhecido. Ausência de pressuposto recursal.
+    2. Prova colhida que autoriza o reconhecimento da prescrição aquisitiva postulada. Comprovação dos requisitos do art. 550 do CC/16, vigente à época dos fatos. Sentença confirmada.
+    APELO IMPROVIDO E RECURSO ADESIVO NÃO CONHECIDO.”
+    Opostos embargos de declaração foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação uma vez que o acórdão atacado, na parte que decidiu acerca da natureza da área usucapienda, está amparado no conjunto fático-probatório dos autos, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. USUCAPIÃO URBANO. AQUISIÇÃO. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O acórdão recorrido concluiu que foram atendidos os requisitos exigidos pelo artigo 183 da Constituição do Brasil para a aquisição da propriedade por meio de usucapião urbano. 2. Necessidade de reexamina-se fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE n° 593.566/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 17/4/09).
+    “1. RECURSO. Extraordinário prejudicado. Provimento pelo STJ. Prejudicialidade ausente. Decisão agravada. Reconsideração. Deve ser conhecido recurso extraordinário indeferido por erro de fato. 2. RECURSO. Extraordinário. Inadmissibilidade. Usucapião. Ilha costeira. Apreciação da causa perante a prova e a legislação infraconstitucional pertinente. Aplicação da súmula 279. Agravo regimental improvido. Não se admite, em recurso extraordinário, alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República, nem tampouco de violação que dependeria de reexame prévio de provas” (RE n° 483.693/SC-AgR, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 11/10/07).
+    “CONSTITUCIONAL. ADMINISTRATIVO. USUCAPIÃO DE DOMÍNIO ÚTIL. TERRENO DE MARINHA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 279 DO STF. OFENSA INDIRETA À CONSTITUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. I - O julgamento do RE demanda o reexame do conjunto fático-probatório dos autos, o que atrai a incidência da Súmula 279 do STF. II - O acórdão recorrido dirimiu a controvérsia com base na legislação infraconstitucional aplicável à espécie. Inadmissibilidade do RE, porquanto a ofensa à Constituição, se ocorrente, seria indireta. III - Ausência de prequestionamento da questão constitucional suscitada. Incidência das Súmulas 282 e 356 do STF. IV - Agravo regimental improvido” (RE nº 534.546/PE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/9/08).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de março de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
