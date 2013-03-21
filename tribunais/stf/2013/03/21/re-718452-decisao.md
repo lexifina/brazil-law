@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário interposto contra decisão que, proferida pelo E. Tribunal de Justiça do Distrito Federal e dos Territórios, está assim ementada:
+    “CONCURSO PÚBLICO. PROVIMENTO DE CARGOS. CARREIRA ASSEMELHADA. INCONSTITUCIONALIDADE. MODULAÇÃO DE EFEITOS. ‘EX NUNC’.
+    I - Conforme decidido pelo e. Conselho Especial deste TJDFT na ADI 2007.00.2. 006740-7, é inconstitucional o art. 6º do Decreto 21.688/00, que permite a nomeação de servidor aprovado em concurso público para cargos de atribuição assemelhada em outro órgão da Administração.
+    II - Em respeito à modulação de efeitos da decisão, no sentido ‘ex nunc’, com apoio no art. 27 c/c art. 30, § 5º, ambos da Lei nº 9.868/99, devem ser preservadas as situações jurídicas já consolidadas.
+    III - Apelação desprovida.”
+    A parte ora recorrente, ao alegar que o Tribunal “a quo” teria infringido preceito constitucional (art. 37, inciso II), requereu, em síntese, “a declaração de inconstitucionalidade do artigo 6º do Decreto 21.688/2000, com efeito, ‘ex tunc’”.
+    Sendo esse o contexto, passo a examinar o presente recurso extraordinário. E, ao fazê-lo, reconheço que o exame desta causa evidencia achar-se o acórdão ora impugnado em harmonia com a diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Com efeito, a controvérsia jurídica objeto deste processo já foi dirimida pelo Plenário do Supremo Tribunal Federal, que, ao julgar a ADI 3.601-ED/DF, Rel. Min. DIAS TOFFOLI (RTJ 217/230), fixou entendimento consubstanciado em decisão cuja ementa possui o seguinte teor:
+    “EMBARGOS DE DECLARAÇÃO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DISTRITAL Nº 3.642/05, QUE ‘DISPÕE SOBRE A COMISSÃO PERMANENTE DE DISCIPLINA DA POLÍCIA CIVIL DO DISTRITO FEDERAL’. AUSÊNCIA DE PEDIDO ANTERIOR. NECESSIDADE DE MODULAÇÃO DOS EFEITOS.
+    1. O art. 27 da Lei nº 9.868/99 tem fundamento na própria Carta Magna e em princípios constitucionais, de modo que sua efetiva aplicação, quando presentes os seus requisitos, garante a supremacia da Lei Maior. Presentes as condições necessárias à modulação dos efeitos da decisão que proclama a inconstitucionalidade de determinado ato normativo, esta Suprema Corte tem o dever constitucional de, independentemente de pedido das partes, aplicar o art. 27 da Lei nº 9.868/99.
+    2. Continua a dominar no Brasil a doutrina do princípio da nulidade da lei inconstitucional. Caso o Tribunal não faça nenhuma ressalva na decisão, reputa-se aplicado o efeito retroativo. Entretanto, podem as partes trazer o tema em sede de embargos de declaração.
+    3. Necessidade de preservação dos atos praticados pela Comissão Permanente de Disciplina da Polícia Civil do Distrito Federal durante os quatro anos de aplicação da lei declarada inconstitucional.
+    4. Aplicabilidade, ao caso, da excepcional restrição dos efeitos prevista no art. 27 da Lei 9.868/99. Presentes não só razões de segurança jurídica, mas também de excepcional interesse social (preservação da ordem pública e da incolumidade das pessoas e do patrimônio – primado da segurança pública), capazes de prevalecer sobre o postulado da nulidade da lei inconstitucional.
+    5. Embargos declaratórios conhecidos e providos para esclarecer que a decisão de declaração de inconstitucionalidade da Lei distrital nº 3.642/05 tem eficácia a partir da data da publicação do acórdão embargado.”
+    Impende assinalar, por oportuno, em face de sua extrema pertinência e ante a inquestionável procedência de suas observações, a seguinte passagem da decisão proferida pelo eminente Ministro GILMAR MENDES no AI 830.401/DF:
+    “Como sabido, a declaração de inconstitucionalidade de ato normativo opera, via de regra, efeitos ‘ex tunc’. Contudo, ao contrário do afirmado pelo recorrente, tendo em vista razões de segurança jurídica ou de excepcional interesse social, é permitido ao órgão julgador a modulação dos efeitos da decisão (art. 27 da Lei 9.868/99), sendo esta a hipótese adotada no caso dos autos.”
+    Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 21 de março de 2013.
+Ministro CELSO DE MELLO
+Relator
