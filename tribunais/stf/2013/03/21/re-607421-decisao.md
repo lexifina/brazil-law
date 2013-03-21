@@ -1,0 +1,25 @@
+Trata-se de recurso extraordinário interposto contra acórdão que concedeu a segurança para afastar a aplicabilidade do Ato 9/1998 por meio do qual a Mesa Diretora da Assembleia Legislativa do Estado do Amazonas excluiu dos proventos das recorridas a gratificação de produtividade, anteriormente concedida pelo Ato 17/1996.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, LV, 40, § 8º, 93, IX, 131 e 132, da mesma Carta. Sustentou-se, em suma, que a gratificação em análise é uma vantagem de natureza pro-labore faciendo, vinculada a uma contraprestação de serviços.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, a controvérsia relativa à ilegitimidade passiva ad causam e a existência de litisconsórcio passivo necessário situa-se no âmbito da legislação processual ordinária. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “Recurso extraordinário: descabimento: questão referente à legitimidade passiva ad causam, restrita ao plano da legislação processual ordinária, de reexame inviável no RE” (AI 257.275-AgR/SP, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+    “DIREITO CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE OBJETIVA DO ESTADO. LEGITIMIDADE PASSIVA E DENUNCIAÇÃO DA LIDE. MATÉRIA DE ORDEM PROCESSUAL. E PROBATÓRIA.AGRAVO IMPROVIDO.
+    1. Necessidade de verificação de responsabilidade por dano causado por terceiros a imóvel sob guarda judicial do Estado. Matéria de ordem processual referente à legitimidade de parte e intervenção de terceiros.
+    2. Reexame de fatos e provas para eventual desconstituição do acórdão recorrido. Impossibilidade decorrente da incidência da Súmula/STF 279.
+    3. Precedentes.
+    4. Agravo regimental improvido” (RE 387.729-AgR/PR, Rel. Min. Ellen Gracie, Segunda Turma).
+    No mesmo sentido, cito as seguintes decisões, entre outras: AI 467.709-AgR/SP, Rel. Min. Nelson Jobim; AI 256.817-AgR/SP, Rel. Min. Ilmar Galvão; RE 630.590/DF e RE 502.729/RR, Rel. Min. Cármen Lúcia; RE 533.005/RS, Rel. Min. Menezes Direito.
+    É certo, ainda, que esta Corte tem se orientado no sentido de que a controvérsia discutida nestes autos demanda a análise da legislação infraconstitucional local pertinente (Atos 7/1996 e 9/1998 da Mesa Diretora da Assembleia Legislativa do Estado do Amazonas), o que inviabiliza o extraordinário nos termos da Súmula 280 do STF. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “Servidor público estadual. Abono instituído pelo Ato Normativo 447/99 da Mesa Diretora da Assembleia Legislativa do Rio de Janeiro: extensão a servidor inativo, por força do art. 40, § 8º da Constituição Federal, na redação da EC 20/98, dado o seu caráter geral: precedentes.
+    Na espécie, a verificação in concreto da natureza da vantagem postulada e da existência ou não de direito do recorrido à percepção da mesma demandaria o reexame da legislação local (Ato Normativo 447/99), incabível no extraordinário (Súmula 280)” (AI 394.268-AgR/RJ, Rel. Min. Sepúlveda Pertence, Primeira Turma).
+    “ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO AOS SERVIDORES DO FUNDO DE ARRECADAÇÃO TRIBUTÁRIA ESTADUAL. NATUREZA DA GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. PRECEDENTES.
+    1. O Tribunal a quo, interpretando legislação estadual que trata da matéria, entendeu que a gratificação seria extensível aos inativos.
+    2. Para se concluir, como pretende a parte agravante, pela natureza pro laborem faciendo da gratificação em análise, necessário seria o reexame de legislação local. Precedente.
+    3. Agravo regimental improvido” (AI 764.261-AgR/SE, Rel. Min. Ellen Gracie, Segunda Turma).
+    No mesmo sentido, menciono, ainda, as seguintes decisões: RE 153.903-AgR/SP e RE 603.310/AM, Rel. Min. Ellen Gracie; RE 550.308/AM, Rel. Min. Dias Toffoli; RE 601.819-ED/AM, AI 677.237-AgR/DF e RE 630.590/DF, Rel. Min. Cármen Lúcia; RE 600.652-AgR/AM, RE 444.273-AgR/AM e AI 722.591-AgR/MG, Rel. Min. Eros Grau; RE 560.695/AM, Rel. Min. Ayres Britto; RE 602.176/AM e AI 655.140-AgR/AM, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 21 de março de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
