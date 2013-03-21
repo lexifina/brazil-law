@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Superior Tribunal de Justiça segundo o qual o prazo prescricional para ajuizamento de execução individual com fundamento em sentença transitada em julgado proferida em ação civil pública é quinquenal, por aplicação analógica da Lei 4.717/1965 (Lei da Ação Popular).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao art. 5º, XXXV e XXXVI, da Constituição Federal, asseverando, em suma, que (a) o acórdão recorrido violou o princípio da coisa julgada, porquanto foi decidido na ação coletiva originária que o prazo prescricional para propositura de execução individual seria vintenário; (b) a mudança de orientação do Superior Tribunal de Justiça quanto ao prazo prescricional em análise não pode resultar em aplicação retroativa do novo entendimento, tendo em vista a irretroatividade do direito judicial; (c) ao instituir novo prazo para o ajuizamento das execuções individuais, a partir de interpretação jurídica inédita, o STJ impediu o exercício do direito de acesso à justiça do recorrente.
+    2. Não prospera a irresignação do agravante. É que não há matéria constitucional a ser analisada, uma vez que o Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (4.717/1965).
+    3. Ademais, conforme reiterada jurisprudência desta Corte, alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 21 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
