@@ -1,0 +1,32 @@
+Despacho: Trata-se de agravo regimental nos embargos de declaração nos embargos de declaração nos embargos de declaração interposto contra despacho proferido pelo então Presidente desta Corte, Min. Ayres Britto, sobre a prevenção alegada na petição inicial.
+    O agravante alega que “a aplicação do Regimento Interno do E. STF está em conflito com a norma processual penal” (fls. 269), e busca, em evidente intuito protelatório, a reconsideração do despacho proferido pelo ministro Ayres Britto, então Presidente da Corte, que não conheceu dos embargos de declaração nos embargos de declaração nos embargos de declaração e determinou o imediato retorno dos autos ao gabinete do ministro relator. Eis o inteiro teor do referido despacho:
+    “Trata-se de embargos declaratórios contra decisão da Presidência do Supremo Tribunal Federal, que não conheceu dos embargos declaratórios opostos. Decisão assim versada (fls. 165-168):
+    “Trata-se de novos embargos de declaração opostos do despacho de fls. 137/138, de minha lavra, em que neguei seguimento ao pedido, por ser manifestamente admissível, e determinei fossem devolvidos os autos ao Min. JOAQUIM BARBOSA :
+    [...]
+    Insiste o embargante sejam os autos redistribuídos ao Min. CELSO DE MELLO , por prevenção ao HC nº 88.702 .
+    Solicitei informações à 2ª Vara da 8ª Subseção Judiciária de Bauru SP a respeito da reunião dos Processos nº 2000.61.08.009899-0 e 2000.61.08.008761-0, originários dos HCs nº 101.551 e 88.702 , respectivamente, prestadas nos termos seguintes (fls. 159/161):
+    ‘Informo a Vossa Excelência, em atenção ao ofício nº 5.718/SEJ, referente ao Habeas Corpus nº 91220, em que é paciente Ezio Rahal Melillo, impetrante Luiz Fernando Comegno e Coator o C. Superior Tribunal de Justiça, que a sentença proferida no processo nº 2002.61.08.000957-6, unificou todos os processos e inquéritos em andamento, de acordo com o dispositivo, abaixo transcrito:
+    (...)
+    Na origem, não houve a reunião dos processos nº 2000.61.08.009899-0 e 2000.61.08.008761-0.
+    Não há menção, na sentença, cujo dispositivo foi retrotranscrito, do número dos processos unificados.
+    No entanto, os processos nº 2000.61.08.009899-0 e 2000.61.08.008761-0 foram anteriormente sentenciados ao de nº 2002.61.08.000957-6.
+    Portanto, tais processos não estavam em andamento e não foram atingidos por tal decisão.’
+    2. Incognoscíveis os embargos.
+    A fixação da competência de um, dentre todos os Ministros igualmente competentes desta Corte para relatar causas e recursos, é assunto atinente à organização interna deste Tribunal e, portanto, indisponível ao interesse das partes. Trata-se de despacho de mero expediente, contra o qual não cabe recurso, em sendo ato processual insuscetível de causar gravame às partes ou a terceiros, nos termos do art. 504, do CPC.
+    Ainda que assim não fosse, melhor sorte não assistiria ao embargante. Em consulta aos autos e ao sítio eletrônico desta Corte, verifico que o HC nº 101.551 possui como origem a Apelação nº 2000.61.08.009899-0 , do Tribunal Regional Federal da 3ª Região, enquanto o HC nº 88.702 , de Relatoria do Min. CELSO DE MELLO , possui como origem processo diverso daquele, qual seja, o Processo Crime nº 2000.61.08.008761-0 , do Tribunal Regional Federal da 3ª Região, como já explicitado no despacho proferido pelo Ministro GILMAR MENDES às fls. 59/60.
+    Ademais, as informações prestadas pelo Juízo de origem afirmaram não ocorrida a unificação dos processos que deram origem aos HCs nºs 88.702 e 101.551 .
+    3. Diante do exposto, nego seguimento ao pedido, por manifestamente inadmissível (art. 21, § 1º, do RISTF, e 38 da Lei nº 8.038, de 28.05.1990) e determino a devolução dos autos ao eminente Min. JOAQUIM BARBOSA.”
+    2. Pois bem, a parte embargante insiste no reconhecimento da competência do “eminente Min. Celso de Mello para processamento a julgamento deste e os demais feitos relativos à situação fática nele expostos, por força da prevenção reconhecida por este mesmo E. STF nos autos do HC 91.895” (sic , fls. 185).
+    3. Tenho que o recurso não é de ser conhecido. Isso porque são manifestamente inadmissíveis os presentes embargos de declaração, opostos contra decisão monocrática da Presidência do Supremo Tribunal Federal, que, não conhecendo dos segundos embargos de declaração opostos, manteve a prevenção do ministro Joaquim Barbosa para a relatoria do processo.
+    4. Acresce que a jurisprudência desta nossa Casa de Justiça é firme no sentido de que a fixação da competência de um Ministro para relatar causas e recursos é assunto atinente à organização interna do Tribunal e, portanto, estranho ao interesse das partes.
+    5. Nessa ampla moldura, o despacho que reconhece, ou não, a prevenção para relatoria das causas a determinado Ministro, em respeito às normas regimentais de organização interna e à legislação processual, não possui conteúdo capaz de lesar direito da parte. Trata-se de ato privativo da Presidência como órgão supervisor da distribuição, e, como tal, de mero expediente, a atrair a incidência do art. 504 do Código de Processo Civil.
+    6. À derradeira, pontuo que a via processual dos embargos não pode conduzir à renovação de decisão que não se ressente dos vícios apontados. Entendo inexistir obscuridade, contradição ou omissão na decisão questionada. O que afasta a presença de qualquer dos pressupostos de embargabilidade, conforme o art. 535 do CPC.
+    7. Esse o quadro, não conheço do presente recurso e determino o retorno imediato dos autos ao Gabinete do ministro Joaquim Barbosa.”
+    Ante o exposto, não conheço do presente recurso, em razão de sua manifesta inadmissibilidade, conforme já assentado nas decisões proferidas em 04.11.2011 (fls. 137-138), 15.12.2011 (fls. 165-168) e em 29.10.2012 (fls. 247-248).
+    Corroborando o entendimento consignado nas aludidas decisões, destaco os seguintes precedentes: AI 748.144-AgR, HC 89.965-AgR, MS 28.847-AgR, Rcl 9.460-AgR, e RE 627.276-AgR, todos relatados pelo ministro Cezar Peluso, e HC 91.220-ED-ED, da relatoria do ministro Ayres Britto.
+    Ademais, conforme consignado na decisão por mim proferida nos autos do ARE 639.839 ED-ED-AgR em 14.02.2013, sobretudo no tocante ao iminente decurso do prazo prescricional, determino a imediata redistribuição do presente feito (art. 68, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de março de 2013.
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
