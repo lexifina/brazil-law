@@ -1,0 +1,12 @@
+Decisão: 1.Trata-se de conflito de competência, suscitado por Juiz de Direito contra decisão do Superior Tribunal de Justiça, que considerou ser da Justiça Estadual a competência para processar e julgar causa de empregado contra empregador, visando a indenização por danos decorrentes da incapacidade física sofrida durante a relação de trabalho. Segundo a demanda, o empregado sofreu lesão irreversível na mão e punho direitos resultantes do manuseio de ferramentas na unidade fabril do empregador.
+    A instrução desenvolveu-se normalmente perante o Juízo de Direito da 3ª Vara Cível de Itajubá/MG até que, em razão da superveniência da Emenda Constitucional 45/2004, declinou ele de sua competência ao Juiz do Trabalho da Vara do Trabalho de Itajubá/MG. Este, ao recusar a competência, suscitou conflito perante o STJ que, adotando sua jurisprudência predominante, declarou a competência do suscitante.
+    Baixando os autos, o Juiz de Direito da 3ª Vara Cível da Comarca de Itajubá/MG, insiste na recusa da competência da Justiça Estadual, enquadrando o caso como conflito “entre o Superior Tribunal de Justiça e quaisquer tribunais” (art. 102, I, ‘o’ CF).
+    O Procurador-Geral da República opinou pelo não conhecimento do conflito.
+    2. O conflito não pode ser conhecido. A jurisprudência do Tribunal, lembrada pelo parecer da PGR (CC 7.317/MG, Rel. Min. Pertence, monocrática, DJ 31.03.2006 p. 40, citando inúmeros precedentes), é firme no entendimento de que, em vista da hierarquia jurisdicional, não é viável a instalação de tal espécie de conflito entre o STJ e juiz de direito, vinculado ao TJ/MG. Ou, como consignado no precedente, “o Supremo Tribunal é competente, sim, para julgar conflitos de jurisdição entre quaisquer Tribunais, suposto, porém, que se trate de Tribunais, entre os quais o conflito é suscetível de se instalar” (CJ 6.164 RTJ 90/435 Rel. Min. Xavier de Albuquerque)”.
+    Por essa razão, na espécie, logicamente não se pode instalar conflito entre Juiz de primeiro grau vinculado a Tribunal vinculado ao Tribunal Superior. Ademais, o acórdão do STJ transitou em julgado (fls. 489).
+    3. Pelo exposto, com base no disposto no art. 120, § único do CPC c/c 38 da Lei 8.038/90, sendo manifestamente improcedente o conflito, não deve ser conhecido, mantida a competência do Juízo suscitante da 3ª vara Cível da Comarca de Itajubá. Intimem-se e restituam-se os autos.
+    Publique-se. Intime-se.
+    Brasília, 22 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
