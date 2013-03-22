@@ -1,0 +1,15 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Jefferson Camilo de Siqueira e de Fernando de Siqueira contra decisão do Ministro Campos Marques (Desembargador convocado do TJ/PR), do Superior Tribunal de Justiça, que indeferiu o pedido de liminar requerido no HC 266.507/SP. Eis o teor da decisão:
+    Constato, todavia, que os elementos dos autos não autorizam, neste juízo preliminar, o deferimento da providência de urgência requerida.
+    Verifico, da leitura do acórdão atacado, que, relativamente à aplicação, ao caso, do princípio da insignificância, restou consignado que estão presentes os requisitos necessários para o recebimento da denúncia, e que a conduta praticada pelos pacientes reveste-se de aparente tipicidade, e que o delito cometido "tutela a incolumidade do meio ambiente e é de perigo abstrato, bastando para sua caracterização a demonstração que o acusado realizou a ação proibida pela lei".
+    E concluiu que, na hipótese, "o pretendido reconhecimento do princípio da insignificância, além de desarrazoado, estabeleceria uma 'faixa de isenção' na época da piracema, permitindo-a aquele que fosse praticar pesca com molinetes e barcos sem motor. Tal brecha teria o condão de gerar resultados desastrosos para o meio ambiente, uma vez que legitimaria a pesca indiscriminada em pleno período de reprodução da espécie" (fls. 162/163-STJ).
+    Demonstrada está, assim, a utilização de fundamentação que não se mostra, ao menos à primeira vista, inidônea para manter a tramitação do processo.
+    Ante os fundamentos expostos, indefiro a liminar.
+    Na inicial, alega-se, em suma, o seguinte: (a) os pacientes foram denunciados pela prática do delito tipificado no art. 34 da Lei 9.605/98, tendo sido determinada a suspensão condicional do processo; (b) é atípica a conduta narrada na inicial acusatória, já que incide, no caso, o princípio da insignificância; (c) a hipótese requer o afastamento do entendimento firmado na Súmula 691/STF. Postula a concessão de medida liminar para suspender o cumprimento das medidas fixadas na suspensão condicional do processo até final julgamento do habeas corpus.
+    2. De acordo com a Súmula 691 do STF, não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012). A hipótese dos autos, todavia, não se caracteriza por qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 22 de março de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
