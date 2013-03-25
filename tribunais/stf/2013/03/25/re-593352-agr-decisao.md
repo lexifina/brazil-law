@@ -1,0 +1,40 @@
+DECISÃO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE INSTITUCIONAL AUTÔNOMA CONCEDIDA AOS PROCURADORES DO ESTADO DE MINAS GERAIS. EXTENSÃO AOS PROCURADORES DA FAZENDA DO ESTADO. AUSÊNCIA DE REPERCUSSÃO GERAL. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RECURSO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Em 1º de dezembro de 2009, dei provimento ao recurso extraordinário interposto por Éder Sousa e outros, ao fundamento de que o Tribunal a quo teria divergido da jurisprudência deste Supremo Tribunal Federal (fls. 374-378).
+    2. Publicada essa decisão no DJe de 4.2.2010 (fl. 379), interpõe o Estado de Minas Gerais, em 12.2.2010, tempestivamente, agravo regimental (fls. 381-395).
+    3. Alega o Agravante que “o recurso extraordinário sequer poderia ser conhecido, uma vez que no julgamento do RE 593.388, cujo objeto é idêntico ao deste feito, o Plenário do STF não reconheceu a repercussão geral da questão constitucional suscitada” (fl. 384)
+    Requer a reconsideração da decisão agravada ou o provimento do presente recurso.
+    4. Houve erro material na espécie, pois o tema abordado teve ausência de repercussão geral reconhecida pelo Supremo Tribunal Federal em data anterior à apreciação do mérito recursal (Dje 13.2.2009). Por essa razão, reconsidero a decisão agravada, ficando prejudicadas as razões do agravo regimental.
+    Passo ao exame do recurso extraordinário.
+    5. Recurso extraordinário interposto por Éder Sousa e outros, com base no art. 102, inc. III, alínea a, da Constituição da República, contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “A questão lançada sobre o direito à percepção da Gratificação de Atividade Institucional Autônoma - GAIA também pelos Procuradores do Estado versa sobre matéria controvertida, diante de posicionamentos diversos entre as Câmaras Cíveis, não tendo sido, ainda, unificada a jurisprudência por este E. Tribunal.
+    De início, há de se ressaltar que o debate sobre a extensão da GAIA aos Procuradores da Fazenda, refere-se tão-somente ao período anterior à unificação das carreiras que, através da Emenda Constitucional nº 56/03, alterou a Constituição Estadual, criando a Advocacia-Geral do Estado. Diante disso, passaram a perceber a gratificação todos os procuradores, quer fossem do Estado ou da Fazenda.
+    Portanto, ao meu sentir, o caso 'sub judice' deve ser destrinchado a partir da interpretação das leis que disciplinam ambas carreiras, quais sejam, a Lei Complementar n° 35/94, que dispunha sobre a Procuradoria da Fazenda, e a Lei Complementar n° 30/93, que dispunha sobre a Procuradoria do Estado.
+    Junto-me ao coro daqueles que entendem ser indevida o pagamento da Gratificação de Atividade Institucional Autônoma aos Procuradores da Fazenda.
+    Pela leitura dos dispositivos de ambas leis, tenho que estamos diante de cargos distintos, sendo a Procuradoria da Fazenda era órgão especializado em tributos e está vinculada à Secretaria de Estado da Fazenda e Procuradoria do Estado, atuava em âmbito mais amplo em defesa dos interesses do Poder Executivo do Estado e está subordinada ao Governador do Estado.
+    Se assim não fosse, não haveria necessidade alguma de alterar a Constituição Estadual para unificar as carreiras, com a EC 56/03.
+    Registre-se, ademais, que foi revogado pela Emenda Constitucional nº 19/98, o princípio constitucional da isonomia entre carreiras, alterando-se a redação dos artigos 39, § 1º e 135 da Carta Republicana. A alteração encontrou guarida também na Constituição Estadual, que extinguiu a vinculação de vencimentos, conforme artigos 32 e 131, com redação dada pela EC nº 40/00.
+    (…)
+    Por tais fundamentos, em reexame necessário, reformo a r. decisão de primeiro grau, e julgo improcedente o pedido inicial, invertendo os ônus da sucumbência, tornando sem efeito a tutela antecipada anteriormente deferida, e determinando que os apelados restituam ao apelante os valores porventura recebidos a título de gratificação conferida até a entrada em vigor da Emenda Constitucional 56/2003. Restaram prejudicados os recursos voluntário e adesivo” (fls. 202-208 – grifos nossos).
+    Os embargos infringentes e os embargos de declaração opostos pelos ora Recorrentes foram rejeitados (fls. 251 e 262).
+    6. Os Recorrentes alegam que o Tribunal a quo teria contrariado os arts. 5º, caput, inc. XXXVI, 37, 39, § 1º, e 132 da Constituição da República.
+    Sustentam que “se concedeu novamente aos Procuradores da Procuradoria-Geral do Estado aumento de vencimentos (a nova gratificação constituiu mero adicional, porque correspondente a um percentual incidente sobre o vencimento básico do servidor), tanto que extensiva aos seus inativos, com injustificada exclusão dos Procuradores da Fazenda e daqueles que se aposentaram nos respectivos cargos” (fl. 320).
+    Alegam que “a não inclusão da denominada Gratificação de Atividade Institucional Autônoma nos contra-cheques dos recorrentes, acarreta desigualdade de remuneração entre os ocupantes dos cargos de Procurador previstos nos §§ 1º, 2º e 3º do art. 128 da Constituição do Estado e no art. 132 da própria Constituição da República” (fl. 325).
+    Afirmam que “fica demonstrada não só a inconstitucionalidade da discriminação de não estender a Gratificação de Atividade Institucional Autônoma (GAIA) aos então Procuradores da Fazenda, desde a sua instituição, pela Lei Delegada n. 46, de 28.6.2000, assim como o total despropósito de entendimento contrário” (fl. 328).
+    Requerem o provimento do presente recurso.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    7. Razão jurídica não assiste aos Recorrentes.
+    8. No julgamento de caso idêntico ao presente, decidiu-se no Plenário Virtual que a matéria em debate não tem repercussão geral por ser de natureza infraconstitucional RE 593.388-RG, Rel. Min. Menezes Direito, Plenário Virtual, Dje 13.2.2009).
+    Confira-se trecho da manifestação do Ministro Relator:
+    “No mérito, alegam contrariedade aos artigos 5º, caput, 39, § 1º, e 132 da Constituição Federal, uma vez que as classes de Procurador do Estado e Procurador da Fazenda Estadual estavam situadas no mesmo patamar, exercendo as mesmas funções e se incumbindo das mesmas atribuições (fl. 478), sendo, portanto, devida a extensão da denominada Gratificação de Atividade Institucional Autônoma, concedida aos Procuradores do Estado de Minas Gerais, aos autores, ora recorrentes, todos Procuradores da Fazenda Estadual.
+    A matéria constitucional discutida nestes autos não possui repercussão geral a ensejar o julgamento do recurso extraordinário por esta Corte, haja vista que a questão está restrita ao interesse de um grupo reduzido de pessoas, não havendo falar em repercussão política, jurídica, econômica ou social.
+    Além disso, o assunto suscitado no apelo extremo está limitado a determinado lapso temporal, uma vez que, conforme destacou o voto do Relator do acórdão da apelação, o debate sobre a extensão da GAIA aos Procuradores da Fazenda, refere-se tão-somente ao período anterior à unificação das carreiras que, através da Emenda Constitucional nº 56/03, alterou a Constituição Estadual, criando a Advocacia-Geral do Estado. Diante disso, passaram a perceber a gratificação todos os procuradores, quer fossem do Estado ou da Fazenda (fl. 328).
+    Por fim, considero, em princípio, que a análise da questão suscitada no recurso extraordinário demandaria o reexame da legislação infraconstitucional.
+    Assim, entendo ausente a repercussão geral” (grifos nossos).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    9. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
