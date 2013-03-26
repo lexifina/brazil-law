@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo interposto contra decisão do Colégio Recursal Central dos Juizados Especiais do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso extraordinário ementado nos seguintes termos:
+    “ADICIONAIS TEMPORAIS – Incidência sobre os vencimentos integrais – Pedido procedente – Sentença confirmada por seus próprios fundamentos – Recurso improvido.” (fl.130)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação ao artigo 37, XIV, do texto constitucional.
+    Na espécie, defende-se, a princípio, o sobrestamento do feito sob o argumento de que a controvérsia já foi objeto de reconhecimento de repercussão geral, nos autos do RE-RG 563.708-5, Rel. Min. Cármen Lúcia.
+    Alega-se, em síntese, que :
+    “Apenas as vantagens pecuniárias que se integram mediante determinação legal expressa ou determinação administrativa, é que podem ser computadas na base de cálculo da sexta parte e dos quinquênios”. (fl. 140)
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, verifico não se aplicar ao caso o RE-RG 563.708, o qual diz respeito à discussão sobre a existência de direito adquirido de servidor público admitido anteriormente à Emenda Constitucional 20/98 – que suprimiu a expressão “sob o mesmo título ou idêntico fundamento” do art. 37, XIV, da CF - ao adicional por tempo de serviço calculado de acordo com a redação originária do inciso XIV, do art. 37, da Constituição Federal.
+    Na espécie, constata-se que o Tribunal de origem, expressamente, concluiu que vantagens pecuniárias de natureza eventual, bem como a sexta-parte, não devem ser consideradas na base de cálculo do quinquênio, motivo pelo qual não incide o paradigma supracitado, afastando-se, portanto, a alegação recursal de que incide vantagem “sob o mesmo título ou idêntico fundamento” no cálculo do adicional por tempo de serviço.
+    Eis a fundamentação do acórdão recorrido:
+    “Uma observação: o regime era um até a promulgação da EC 19, ou seja, até os adicionais que foram obtidos até a data de sua vigência, porque depois disso os adicionais só podem incidir sobre o vencimento básico: o artigo 3º, inciso XVI, dessa Emenda, determina que ‘os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados para fins de concessão de acréscimos ulteriores’. Isso não viola a garantia do direito adquirido, porque não há direito adquirido a regime de vencimentos, e o novo critério só se aplica aos benefícios adquiridos posteriormente à EC 19.” (fl. 130)
+    Assim, quanto ao mérito, verifica-se que o acórdão recorrido decidiu a controvérsia, acerca da base de cálculo do adicional por tempo de serviço (quinquênios), com fundamento na interpretação da legislação local (art. 129 da Constituição do Estado de São Paulo e Lei Estadual 6.628/89), de modo que, para se concluir de forma diversa, far-se-ia imprescindível a prévia interpretação da referida legislação local, providência vedada no âmbito do recurso extraordinário, nos termos do Enunciado 280 do STF.
+    Nesse sentido, confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE-AgR 593.098, Rel. Min. EROS GRAU, Segunda Turma, DJe 19.12.2008)
+    Na mesma linha de entendimento, cito as seguintes decisões monocráticas: ARE 682.248, Rel. Min. Cezar Peluso, DJe 21.5.2012; ARE 681.902, de minha relatoria, DJe 7.5.2012; RE 556.936, Rel. Min. Dias Toffoli, DJe 26.8.2011; RE 576.197, Rel. Min. Ayres Britto, DJe 12.5.2011.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF, e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 26 de março de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
