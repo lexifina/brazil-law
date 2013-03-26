@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 4ª Região ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIÇO MILITAR OBRIGATÓRIO. MÉDICO. ESTÁGIO DE ADAPTAÇÃO E SERVIÇO.
+    Aquele que obtém o adiamento da incorporação ao serviço militar para concluir curso de medicina, farmácia, odontologia ou veterinária, situação esta disciplinada pela Lei 5.292/67, será considerado convocado para prestação do serviço militar no ano seguinte ao da terminação do curso (art. 9º).
+    A legislação não confere à Administração Pública poderes ilimitados o que se refere à convocação daqueles que já tenham obtido o adiamento da incorporação ou tenham sido dispensados dos serviços da caserna.
+    A dispensa por excesso de contingente é ato administrativo praticado de ofício, que se exercita sem o requerimento do administrado, dessa circunstância advindo sua delimitação no tempo”. (fl. 106)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, caput, XXXV, LIV, LV, § 2º; 93, IX; 97 e 143, do texto constitucional.
+    A agravante alega, em síntese, a nulidade do acordão recorrido por negativa de prestação jurisdicional e por violação aos princípios do devido processo legal, do acesso à jurisdição e da ampla defesa. Ademais, argumenta que a Lei 5.292/1967 possibilita à Administração Militar convocar, para prestação de serviço militar como oficial, estudantes de medicina, farmácia, odontologia e veterinária que tenham obtido o adiamento da incorporação, bem como aqueles que foram incluídos no excesso de contingente.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, com relação à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência do Supremo Tribunal Federal no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ademais, verifico que a controvérsia referente à possibilidade de a Administração Militar convocar, para prestação de serviço militar como oficiais, pessoas que concluíram os cursos de medicina, farmácia, odontologia e veterinária que haviam sido dispensadas de prestar serviço militar obrigatório por excesso de contingente está restrita ao âmbito da interpretação da legislação infraconstitucional, ou seja, das Leis 4.375/64 e 5.292/67. Assim, eventual ofensa à Constituição Federal, se houvesse, seria indireta, hipótese que impede a admissão de recurso extraordinário, a teor da Súmula 280 do STF.
+    Nesse sentido, por se tratar de controvérsia idêntica, cito as decisões monocráticas: RE 294.033, Rel. Min. Carlos Velloso, DJ 4.5.2004; AI 615.302/RS, de minha relatoria, DJ 6.6.2007; AI 818.939/RS, Rel. Min Ricardo Lewandowski, DJe 30.9.2010; AI 817.694/RS Rel. Min Ricardo Lewandowski, DJe 30.9.2010, AI 804.981, Rel. Min Ricardo Lewandowski, DJe 23.8.2010, e AI 793.110/RS, Rel. Min. Cármen Lúcia, DJe 4.5.2010.
+    Quanto ao art. 97 da Constituição Federal, a pretensão recursal não merece acolhida, pois, no caso, não houve declaração de inconstitucionalidade de diploma legislativo por parte de órgão fracionário.
+    Ante exposto, nego provimento ao recurso (art. 557, caput, do CPC).
+    Publique-se.
+    Brasília, 26 de maço de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
