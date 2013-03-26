@@ -1,0 +1,39 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL. ADMINISTRATIVO. SERVIDOR ESTADUAL APOSENTADO. APOSENTADORIA PROPORCIONAL POR TEMPO DE SERVIÇO. DOENÇA GRAVE SUPERVENIENTE. CONVERSÃO PARA APOSENTADORIA POR INVALIDEZ INTEGRAL. INADMISSIBILIDADE. O servidor público que há muito requereu e obteve sua aposentadoria proporcional por tempo de serviço não faz jus, quando supervenientemente acometido de doença grave sem qualquer relação com a atividade pública por ele outrora exercida, à conversão de sua jubilação para a da invalidez integral” (fl. 205).
+    Não foram opostos embargos de declaração.
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 37, caput, e 40, § 1º, inc. I, da Constituição da República.
+    Assevera que “a norma constitucional ao assegurar proventos integrais para servidores acometidos por doença grave – legalmente relacionada, não faz a limitação que está sendo imposta pela decisão atacada” (fl. 259).
+    Sustenta, no recurso extraordinário, que:
+    “O artigo 108, alínea ‘e’, § 5º, da Lei 869/52 – Estatuto dos Funcionários Públicos de Minas Gerais, que foi alterada pela Lei Complementar 44/96, c/c a Lei Complementar 64/2002 artigo 8º, inciso III, § 2º, e o art. 36, I da Constituição Estadual, não condicionam a concessão do benefício da aposentadoria integral para os portadores de doença grave ao fato da doença ser contemporânea ao ingresso na aposentadoria.
+    (…)
+    Logo, as normas aqui levantadas não têm a intenção de excluir o servidor que adquiriu a doença grave já na aposentadoria.
+    (…)
+    O autor foi aposentado proporcionalmente, entretanto ao decorrer dos anos ele adquiriu uma grave doença diagnosticada como adenocarcinoma, espécie de neoplasia maligna.
+    É importante salientar que a doença do Autor está figurada no rol da Lei, ele foi aposentado recebendo proporcionalmente sob o tempo de serviço” (fls. 217-219).
+    3. O recurso extraordinário foi inadmitido sob os seguintes fundamentos: a) “a matéria remete o julgador, impreterivelmente, à análise do conteúdo fático dos autos”; e b) incidência das Súmulas n. 280 e 283 do Supremo Tribunal Federal (fls. 252-254).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. O Desembargador Relator, Peixoto Henrique, afirmou:
+    “Verifica-se que, no caso em comento, o ex-servidor foi aposentado aos 09/02/1994 (v. fl. 54) nos termos do art. 36, III, ‘c’ da CE/89 (aposentadoria voluntária), c/c arts. 108, ‘b’ e 110, I da Lei nº 869/52 e arts. 4º e 15, II do Dec. Nº 31.930/90, com proventos proporcionais ao tempo de serviço (30 anos).
+    (…)
+    Toda legislação citada pelo autor (art. 108, ‘e’, § 5º, da LE nº 869/52 – redação dada pela LCE nº 44/96; art. 8º, III, § 2º, da LCE nº 64/02; art. 36, da CEMG; e, art. 40, I, da CF) fala do direito do servidor ativo à aposentadoria por invalidez e, força convir, não do direito do servidor inativo à aposentadoria por invalidez.
+    (…)
+    Ora, como o servidor aposentado não reassumirá o exercício do cargo, óbvio que ele não faz jus à aposentadoria por invalidez prevista no art. 108 da LE nº 869/52.
+    Note, lado outro, que tanto o art. 40 da CF quanto o art. 36 da CEMG preveem a aposentadoria por invalidez para o ‘servidor [que] será aposentado’, o que a toda evidência, não é o caso do servidor já aposentado.
+    Curial notar, a insidiosa doença que acometeu o autor/apelante não tem qualquer relação ou nexo com a atividade laboral que ele exerceu no serviço público mineiro” (fls. 208-209, grifei).
+    7. O Agravante não impugnou os fundamentos do acórdão recorrido. Limitou-se a reiterar os argumentos apresentados em sua apelação, o que atrai a incidência das Súmulas n. 283 e 284 do Supremo Tribunal Federal não se viabilizando o recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. APOSENTADORIA POR INVALIDEZ. 1. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 654.505-AgR, de minha relatoria, Primeira Turma, DJe 16.2.2012, grifei).
+    “PROCESSUAL CIVIL E CONSTITUCIONAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE EM EXECUÇÃO FISCAL. ANÁLISE DE FATOS E PROVAS E LEGISLAÇÃO INFRACONSTITUCIONAL. INADMISSIBILIDADE DE PREQUESTIONAMENTO IMPLÍCITO. AUSÊNCIA DE IMPUGNAÇÃO INTEGRAL DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS/STF 283 E 284. 1. O Supremo Tribunal Federal exige o prequestionamento explícito da matéria impugnada no recurso extraordinário não admitindo, em princípio, o chamado prequestionamento implícito. Precedentes. 2. Mera alegação de ser desnecessária a apreciação de material fático-probatório não é suficiente para afastar esse fundamento. 3. Subsistência de fundamentos suficientes para a manutenção da decisão agravada com incidência da Súmula/STF 283. 4. A deficiência das alegações recursais impede a exata compreensão da controvérsia, pois não ataca, com a objetividade necessária, os fundamentos da decisão agravada. Súmula/STF 284. 5. Agravo regimental a que se nega provimento” (AI 789.335-AgR, Rel. Min. Ellen Gracie, Segunda Turma, DJe 27.6.2011, grifei).
+    “DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO DE EXECUÇÃO. AUSÊNCIA DE INDICAÇÃO DO VALOR REPUTADO DEVIDO. INOBSERVÂNCIA DO DISPOSTO NO ART. 475-L, § 2º, DO CPC. RECURSO EXTRAORDINÁRIO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA. SÚMULAS 283 E 284/STF. SUPOSTA AFRONTA AO ART. 5º, CAPUT E II, DA CONSTITUIÇÃO DA REPÚBLICA. PRINCÍPIOS DA ISONOMIA E DA LEGALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia” (Súmula 284/STF). A matéria constitucional versada no recurso extraordinário não foi analisada pelas instâncias ordinárias, tampouco ventilada em embargos de declaração. “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” (Súmula 282/STF). “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento” (Súmula 356/STF). Agravo regimental conhecido e não provido” (ARE 663.466-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 11.12.2012, grifei).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
