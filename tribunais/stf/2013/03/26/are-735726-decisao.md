@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO. PREPARO. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO: DESERÇÃO. PRECEDENTES. AGRAVO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido tem por objeto o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO(CUMPRIMENTO) DE SENTENÇA. PENHORA. NOMEAÇÃO DE DEBÊNTURES DA ELETROBRÁS. RECUSA À ORDEM LEGAL CONTIDA NO ART. 655 DO CÓDIGO DE PROCESSO CIVIL”.
+    2. A Agravante alega que o Tribunal a quo teria contrariado o art. artigo 5º, inc. LIV, da, da Constituição da República.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de comprovação do preparo.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão de direito não assiste à Agravante.
+    6. A jurisprudência do Supremo Tribunal Federal assentou que a comprovação do preparo deve ser realizada no momento da interposição do recurso extraordinário, nos termos da exigência prevista no art. 59 do Regimento Interno do Supremo Tribunal Federal e no art. 511, caput, do Código de Processo Civil, o que, nos termos da decisão agravada, não teria ocorrido na espécie. Nesse sentido:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO. PORTE DE REMESSA E RETORNO DOS AUTOS. AUSÊNCIA DE PAGAMENTO. DESERÇÃO. I - O recorrente deve comprovar o pagamento do preparo no momento da interposição do recurso. Precedentes. II - Intimado a regularizar o preparo, o agravante não o fez no prazo fixado, o que resultou na deserção do recurso. III - Agravo regimental improvido” (AI 642.626-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 22.6.2007).
+    “Embargos de declaração. - A falta de preparo no prazo implica a deserção do recurso extraordinário, matéria essa que é de ordem pública, porquanto com a deserção do recurso se da o trânsito em julgado da decisão recorrida, razão por que, ainda quando não alegada, deve ela ser decretada de oficio por esta Corte, quando do julgamento do recurso extraordinário. - Procedência da alegação de que o acórdão embargado foi omisso ao deixar de declarar, de ofício, a deserção do recurso extraordinário. Embargos declaratórios que são recebidos, para, reformando-se o acórdão a fls. 198/199, julgar-se deserto, por falta de preparo, o recurso extraordinário interposto pela ora embargada” (RE 169.347-ED, Rel. Min. Moreira Alves, Primeira Turma, DJ 19.4.1996).
+    7. Ademais, contra o fundamento da decisão agravada que inadmitiu o recurso extraordinário por ausência de preparo a Agravante não apresentou qualquer argumento.
+    Este Supremo Tribunal firmou entendimento de ser incabível o agravo que não infirma todos os fundamentos da decisão agravada. Confiram-se os seguintes julgados:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Decisão de inadmissibilidade. Fundamentos não impugnados. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que devem ser impugnados, na petição de agravo, todos os fundamentos da decisão com que não se admitiu o apelo extremo. 2. Agravo regimental não provido” (ARE 711.585-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 10.12.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II - Agravo regimental improvido” (ARE 654.292-AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 25.10.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACOU OS FUNDAMENTOS DO ARESTO IMPUGNADO, NEM PROCEDEU À INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. Agravo regimental desprovido” (AI 552.131-AgR, Rel. Min. Carlos Britto, Primeira Turma, DJ 17.11.2006, grifos nossos).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
