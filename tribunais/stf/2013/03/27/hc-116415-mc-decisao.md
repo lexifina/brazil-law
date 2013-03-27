@@ -1,0 +1,21 @@
+DECISÃO
+HABEAS CORPUS – DISTRIBUIÇÃO – ATO DA PRESIDÊNCIA – RESSALVA DE ENTENDIMENTO PESSOAL.
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+HABEAS CORPUS – MATÉRIA DE FUNDO – ENFRENTAMENTO PELA TURMA EM IDÊNTICA MEDIDA – LIMINAR DE OFÍCIO – IMPROPRIEDADE.
+    1. O Gabinete prestou as seguintes informações:
+    O Juízo da Primeira Vara Criminal de Arujá, Comarca de Santa Isabel, Estado de São Paulo, determinou a preventiva do paciente, ocorrida em 25 de julho de 2006. Anotou a gravidade do delito de extorsão mediante sequestro, ressaltando ter sido sequestrada criança de seis anos de idade, que assim permaneceu por mais de dois meses, fato que estaria a mostrar a organização dos criminosos. Observou que a vítima e as testemunhas necessitavam de tranquilidade para oitiva e reconhecimento dos réus. Salientou o risco de evasão do distrito da culpa.
+    Sobreveio a sentença condenatória na qual o paciente foi condenado à pena privativa de liberdade de trinta e seis anos de reclusão, em regime inicial fechado, sendo negado o direito de apelar em liberdade.
+    Em 13 de março de 2010, no Habeas Corpus nº 101.979/SP, Vossa Excelência afastou o óbice previsto no Verbete nº 691 da Súmula do Supremo e implementou medida acauteladora em favor do paciente, em virtude do excesso de prazo da prisão. Em 15 de maio de 2012, a Primeira Turma cassou a liminar e as extensões, indeferindo a ordem. Em acórdão, para o qual foi designada redatora a ministra Rosa Weber, destacou não se tratar de custódia determinada com suporte na gravidade abstrata do delito, mas fundada em circunstâncias concretas, que revelaram a periculosidade do agente.  Aludiu a reiterados pronunciamentos do Supremo, segundo os quais fica afastado o excesso de prazo uma vez proferida a sentença condenatória.
+    Expedido novo mandado de prisão pelo Juízo, o paciente foi recolhido em 31 de maio de 2012, em regime domiciliar, até o surgimento de vaga em sala de estado-maior, o que ocorreu.
+    O Tribunal de Justiça do Estado de São Paulo não conheceu do habeas formalizado, por considerá-lo mera reiteração de impetrações anteriores.
+    A decisão impugnada é a prolatada pela ministra Maria Thereza de Assis Moura, que negou seguimento ao Habeas Corpus nº 261.987/SP. Consoante entendeu, o tema relativo à presença dos requisitos da custódia preventiva já foi analisado pelo Supremo, que os consignou existentes ao cassar a liminar e indeferir a ordem pleiteada no Habeas Corpus nº 101.979.
+    O impetrante reitera a alegação de ausência de motivação idônea para a manutenção da prisão provisória. Ressalta ter permanecido solto por dois anos e seis meses e aponta a ilegalidade da execução antecipada da pena. Afirma visar providência diversa da anteriormente examinada pelo Supremo. Segundo assevera, busca, neste habeas, o direito de apelar em liberdade ou a aplicação de medidas cautelares alternativas.
+    Em resposta às informações solicitadas por Vossa Excelência, em razão da ausência de documentos indispensáveis à solução da controvérsia, o Tribunal de Justiça noticiou a interposição de apelação contra a sentença condenatória. O recurso encontra-se concluso ao relator, com parecer da Procuradoria Geral de Justiça.
+    Em 6 de março passado, Vossa Excelência determinou a remessa do processo à Presidência, para ser analisada a arguição de erronia na distribuição por prevenção. Afastada a hipótese pelo ministro Joaquim Barbosa, o processo volta aparelhado para exame do pleito de liminar.
+    2. Inicialmente, consigno a ressalva quanto à distribuição deste habeas. O julgamento do de nº 101.979/SP precedeu-a e, na oportunidade, fiquei vencido, sendo designada redatora a ministra Rosa Weber. Então, haveria, assim não entendendo a Presidência, a prevenção da Colega.
+    No mais, ganha a impetração o caráter de substitutiva do recurso ordinário constitucional, mostrando-se inadequada. Vale frisar que descabe cogitar, ante o que decidido pelo Colegiado no habeas mencionado, de implemento de liminar de ofício.
+    3. Colham o parecer da Procuradoria Geral da República.
+    4. Publiquem.
+Brasília – residência –, 27 de março de 2013.
+Ministro MARCO AURÉLIO
+Relator
