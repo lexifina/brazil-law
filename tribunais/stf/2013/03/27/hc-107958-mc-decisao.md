@@ -1,0 +1,21 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+LIMINAR DE OFÍCIO – AUSÊNCIA DE BASE.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente respondeu a processo que teve curso na 5ª Vara Penal da Comarca de Marabá, Estado do Pará, ante a prática do crime previsto no artigo 157, § 2º, incisos I, I e V, do Código Penal – roubo qualificado pelo uso de arma, concurso de pessoas e restrição da liberdade da vítima. Ao condená-lo a oito anos e oito meses de reclusão, em regime inicial fechado, o Juízo determinou a custódia cautelar. Consoante assentou, uma vez solto provisoriamente, não foi mais localizado.
+    O Tribunal de Justiça do Estado do Pará deferiu parcialmente a ordem no habeas formulado, garantindo o direito de apelar em liberdade. O Colegiado não acolheu o pleito de anulação do processo a partir da instrução, veiculado sob o fundamento de que o paciente não pôde se defender depois da data na qual veio a ser erroneamente tido como foragido. Consignou a necessidade de exame do conjunto probatório para concluir sobre eventual prejuízo ao direito de defesa.
+    O impetrante narra a formalização de dois habeas corpus no Superior Tribunal de Justiça – de nº 195.022/PA e 198.570/PA. No primeiro, afirma, reiterou o pedido de liberdade provisória, pois, apesar de implementada pelo Tribunal de origem, não havia sido expedido o alvará de soltura. Conforme assevera, a impetração acabou considerada prejudicada, porquanto o paciente foi solto depois de solicitadas informações pelo ministro relator ao Tribunal local. No segundo, anota, buscou a nulidade do processo a partir da instrução, com base na impossibilidade de apresentar defesa.
+    A decisão impugnada é a mediante a qual o ministro Haroldo Rodrigues, nessa última impetração, indeferiu liminarmente a inicial. Sua Excelência fez ver que o ato atacado e o pedido formulado eram idênticos ao veiculado na anterior.
+    O impetrante diz da falta de identidade entre os dois habeas formalizados perante o Superior Tribunal de Justiça. Salienta que a errônea declaração de revelia teria inviabilizado a oportunidade de resposta às alegações do Ministério Público. Destaca ter comparecido à Secretaria do Juízo por trinta e uma vezes durante o transcurso da liberdade provisória, o que demonstraria o citado equívoco. Conforme frisa, apesar do reconhecimento do erro pelo Tribunal local, o processo não foi anulado.
+    Em âmbito liminar, requer a anulação do Processo nº 000414-14.2006.814.2008, que tramitou no Juízo mencionado, a partir da instrução. No mérito, busca a confirmação da providência.
+    Em agosto de 2011, Vossa Excelência declinou da competência para o Superior Tribunal de Justiça, ao entendimento de que a impetração voltava-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Pará. O ministro Og Fernandes indeferiu liminarmente a inicial e determinou o retorno do habeas ao Supremo, pois considerou como ato impugnado a decisão mediante a qual examinado o pleito acautelador, proferida no Habeas Corpus nº 198.570.
+    A Presidência do Supremo determinou a remessa do processo a Vossa Excelência.
+    Após nova solicitação de informações, o processo retorna concluso para apreciação da medida acauteladora. Dele não constam as iniciais dos habeas impetrados no Superior Tribunal de Justiça.
+    2. Este habeas ganhou contornos de substitutivo do recurso ordinário constitucional. É, assim, inadequado.
+    No mais, surge, de início, o conflito no que, a um só tempo, o Superior Tribunal de Justiça indeferiu a liminar e declinou da competência. Entretanto, a situação revelada não enseja o implemento de medida acauteladora, porquanto o pleito, dirigido à declaração de nulidade do processo criminal a que responde o paciente, confunde-se com o próprio mérito da impetração. Ter-se-ia como que implícito o pedido menor para o Superior Tribunal, afastada a duplicidade evocada, julgar o segundo habeas lá formalizado.
+    3. Solicitem ao citado Tribunal cópias das iniciais dos habeas acima referidos. Ao impetrante, profissional da advocacia, para a antecipação cabível.
+    4. Após, colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 27 de março de 2013, às 15h50.
+Ministro MARCO AURÉLIO
+Relator
