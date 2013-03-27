@@ -1,0 +1,17 @@
+DECISÃO
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – INADEQUAÇÃO.
+LIMINAR DE OFÍCIO – IMPROPRIEDADE.
+    1. O Gabinete prestou as seguintes informações:
+    Heber Barbosa de Amorim, Fernando Mendes Leite e André Evangelista Peçanha foram condenados pelo Juízo da 3ª Vara Criminal de Campo Grande como incursos no artigo 157, § 2º, incisos I, II e V (roubo qualificado), do Código Penal às penas de, respectivamente, 9 anos de reclusão e 135 dias-multa, 8 anos, 8 meses e 17 dias de reclusão e 115 dias-multa bem como 8 anos e 8 meses de reclusão e 111 dias-multa, fixando a todos o regime fechado. Em apelação, o Tribunal de Justiça do Estado de Mato Grosso do Sul manteve integralmente a sentença.
+    A Defensoria Pública estadual formalizou habeas corpus no Superior Tribunal de Justiça – de nº 134.344/MS. Buscou a redução das penas-base ao mínimo legal, sustentando a ausência de motivação idônea para a exacerbação. Requereu fosse estabelecido regime prisional mais brando do que o fechado. O então relator, ministro Haroldo Rodrigues, desembargador do Tribunal de Justiça do Estado do Ceará, negou seguimento ao pedido.
+    O agravo regimental interposto contra essa decisão foi desprovido pela Sexta Turma. O Colegiado consignou ter sido a pena-base estabelecida acima do patamar mínimo em razão da “gravidade concreta do delito, evidenciada pelo modus operandi empregado, revelador de maior periculosidade do agente, e pela culpabilidade acentuada dos réus”. Afirmou justificar-se o implemento de regime inicial fechado nas circunstâncias judiciais, consideradas desfavoráveis aos réus.
+    Neste habeas, a Defensoria Pública da União questiona a dosimetria das sanções impostas aos ora pacientes. Sublinha ser indispensável, relativamente à exasperação da pena-base, a fundamentação em dados concretos. Sustenta haver bis in idem, porquanto uma mesma circunstância do delito teria sido utilizada, como desfavorável, para aumentar a pena na primeira fase da dosimetria, na segunda fase, como agravante prevista no artigo 61, inciso II, alínea “c”, do Código Penal e, finalmente, na terceira, como fator de maior reprovabilidade da conduta praticada. Salienta haver sido levada em conta, na segunda fase da dosimetria da pena, a gravidade genérica do crime, razão pela qual não poderia servir à majoração das penas-base. Acrescenta que a culpa ficou assentada em premissas genéricas.
+    Requer a concessão de liminar, a fim de garantir aos pacientes o direito à redução da pena-base para o mínimo legal, readequando-se, por conseguinte, o regime inicial de cumprimento. No mérito, pede a confirmação da providência.
+    O habeas encontra-se concluso para apreciação da medida acauteladora.
+    2. Este habeas ganha contornos de substitutivo do recurso ordinário constitucional, sendo inadequado. No mais, quanto à possibilidade de implemento da liminar de ofício, tem-se que a Defensoria Pública acaba por confundir os pedidos formulados – de liminar e de deferimento da ordem. Simplesmente, pleiteia que, no campo precário e efêmero como é o da medida acauteladora, garanta-se aos pacientes o direito à redução da pena-base ao mínimo legal.
+    3. Remetam cópia desta decisão ao Defensor Público-Geral da União.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 27 de março de 2013, às 16h35.
+Ministro MARCO AURÉLIO
+Relator
