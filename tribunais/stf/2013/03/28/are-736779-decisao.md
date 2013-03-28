@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REQUISITOS DO MANDADO DE SEGURANÇA. AUSÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS. SUPRESSÃO DE GRATIFICAÇÃO. ATO DE EFEITOS CONCRETOS. MANDADO DE SEGURANÇA. DECADÊNCIA. OCORRÊNCIA.
+    1. A supressão de vantagem pecuniária devida a servidor público caracteriza-se como ato comissivo, único e de efeitos permanentes, não havendo, pois, que se falar em prestações de trato sucessivo.
+    2. Não tendo trazido, os agravantes, qualquer argumento capaz de infirmar a decisão que pretende ver reformada, ela deve ser mantida.
+    3. Agravo regimental a que se nega provimento”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. No recurso extraordinário, os Recorrentes, ora Agravantes, alegam que teriam sido contrariados os arts. 5º, inc. XXXV, XXXVI, LIV e LV, e 93, inc. IX, da Constituição da República.
+    Afirmam, inicialmente, a nulidade do acórdão proferido nos embargos de declaração, por não terem sido apreciadas as omissões apontadas.
+    Argumentam que “ao contrário do que restou asseverado no venerando aresto ora atacado, a ilicitude apontada no writ não foi o ato de aposentadoria dos servidores, mas sim a redução remuneratória que os servidores vêm sofrendo após sua aposentadoria, o que vem lhes causando, mensalmente, relevante prejuízo econômico-financeiro”.
+    Asseveram que “reformáveis se mostram os fundamentos da respeitável decisão recorrida, uma vez que como já afirmado, o ato impugnado no presente writ não é ato de aposentadoria dos impetrantes, mas sim, a ilícita redução remuneratória que lhe vem sendo imposta em seus proventos, lesão de nítida feição continuada, a qual, por se repetir a cada mês, consequentemente, renova o prazo de impetração da ação mandamental previsto no art. 18 da Lei n. 1.533/51. Assim sendo, como de fato ocorre, há de ser afastada no presente caso, a inadvertida decadência aplicada”.
+    3. A Ministra Eliana Calmon, Vice-Presidente em exercício, julgou prejudicado o recurso quanto à alegada afronta ao art. 93, inc. IX, da Constituição, em razão do entendimento firmado por este Supremo Tribunal Federal no julgamento do Agravo de Instrumento n. 791.292 QO-RG e deixou de admiti-lo quanto à suposta contrariedade ao art. 5º, inc. XXXVXXXVI, LIV e LV, porque, nesse caso, a ofensa constitucional, se tivesse ocorrido, seria indireta.
+    No agravo interposto, os Agravantes reiteram os argumentos do recurso extraordinário.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade da formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. O Superior Tribunal de Justiça assentou:
+    “Em que pesem as alegações dos agravantes, não há como modificar o julgado. O ato que suprimiu o pagamento das gratificações efetivou-se em abril de 1996, quando da publicação da Lei nº 12.582/96, enquanto o mandamus foi impetrado, tão somente, em novembro de 2003, muito além do prazo de 120 (cento e vinte) dias preconizado pela Lei nº 12.016/09 para impetração do writ, daí porque há que se reconhecer a decadência no tocante a essa pretensão”.
+    7. No julgamento do Agravo de Instrumento n. 800.074-RG, Relator o Ministro Gilmar Mendes, este Supremo Tribunal Federal assentou que a controvérsia relativa ao preenchimento dos requisitos do mandado de segurança é de natureza infraconstitucional e não tem repercussão geral:
+     “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral” (DJe 6.12.2010).
+    No mesmo sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CABIMENTO DE MANDADO DE SEGURANÇA. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA. 1. A controvérsia em que se discute o cabimento de mandado de segurança, em face de seus específicos pressupostos de admissibilidade, já restou analisada no AI 800.074–RG, da relatoria do Min. Gilmar Mendes, DJe de 06/12/10, em que o Plenário desta Corte decidiu rejeitar sua repercussão geral, uma vez que a matéria está restrita a análise de norma infraconstitucional. 2. In casu, o acórdão originariamente recorrido indeferiu a inicial do mandado de segurança impetrado pelo ora recorrente, com fulcro no artigo 10 da Lei nº 12.016/2009, extinguindo o processo, sem resolução de mérito. 3. Agravo regimental desprovido” (AI 841.801-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 5.9.2012).
+    “TRIBUTÁRIO. CONTRIBUIÇÕES DESTINADAS AO CUSTEIO DAS OBRIGAÇÕES DA UNIÃO DECORRENTES DE CONDENAÇÕES À RECOMPOSIÇÃO DO FGTS. ACÓRDÃO QUE ENTENDE INCABÍVEL A AÇÃO DE MANDADO DE SEGURANÇA PARA GARANTIR O DIREITO LÍQUIDO E CERTO PLEITEADO. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E DE PROVAS. LC 110/2001, ARTS. 1º E 2º. AGRAVO REGIMENTAL. Esta Suprema Corte, ao julgar o AI 800.074-RG (rel. min. Gilmar Mendes, Plenário, DJe de 06.12.2010, tema 318 ), reafirmou a orientação no sentido de que discussões acerca do cabimento ou não de mandamus são afetas à legislação processual, ofendem a Constituição Federal somente de forma reflexa e, comumente, demandam a análise de provas. Logo, salvo situações excepcionais em que a decisão quanto ao cabimento do mandado de segurança revele patente esvaziamento do remédio previsto no artigo 5º, LXIX, da Constituição Federal, a controvérsia restringe-se ao âmbito infraconstitucional. Agravo regimental ao qual se nega provimento” (AI 781.092-AgR, Rel. Min. Joaquim Barbosa,, Segunda Turma, DJe 19.9.2012).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos de instrumento que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Não há, pois, o que prover quanto às alegações dos Agravantes.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
