@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL. AGRAVO NO AGRAVO DE INSTRUMENTO. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. - A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial. - A existência de fundamento do acórdão recorrido não impugnado – quando suficiente para a manutenção de suas conclusões – impede a apreciação do recurso especial. - Agravo não provido”.
+    2. O Agravante alega que o Tribunal a quo teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Argumenta que “uma vez exonerado o agravante da obrigação decorrente da avença contratada com o agravado, à vista da quitação, a impossibilidade jurídica do pedido deveria ter sido reconhecida pelo Juiz Monocrático e pelo C. Tribunal de Justiça de São Paulo. Deve, pois, este E. Superior Tribunal, acolher a preliminar arguida e, consequentemente, decretar a EXTINÇÃO DO PROCESSO, SEM JULGAMENTO DO MÉRITO, sob pena de ser negada vigência a disposição de lei expressa, contida no artigo 267, inciso VI, do Código de Processo Civil”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E PROCESSUAL CIVIL. ALEGADA CONTRARIEDADE AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. NECESSIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL (CÓDIGO DE PROCESSO CIVIL): OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 831.267-AgR, de minha relatoria, Primeira Turma, DJe 7.4.2011).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE REJEITADA. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 573.345-AgR, de minha relatoria, Primeira Turma, DJe 12.5.2011).
+    “1. É inviável o processamento do apelo extremo, por suposta ofensa ao art. 5º, XXXV, LIV e LV, da Constituição Federal, para debater matéria processual, relativa à possibilidade do juiz da execução fiscal extingui-la de ofício, ante a ocorrência da prescrição. 2. Agravo regimental improvido” (AI 666.848-AgR/RR, Rel. Min. Ellen Gracie, Segunda Turma, DJ 14.8.2009).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA VIOLAÇÃO AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL E DO DIREITO ADQUIRIDO. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. INEXISTÊNCIA DE OFENSA AO ART. 93, IX, DA CARTA MAGNA. ACORDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO” (AI 816.034-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 23.2.2011).
+    Nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de março de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
