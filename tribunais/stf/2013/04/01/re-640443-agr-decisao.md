@@ -1,0 +1,24 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. RECONSIDERAÇÃO DA DECISÃO. TEMA 313 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. FIXAÇÃO DE PRAZO DECADENCIAL. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de agravo regimental interposto contra decisão de minha lavra que negou seguimento ao recurso extraordinário, assim ementada (fl. 269):
+    RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. MATÉRIA REGULADA POR LEGISLAÇÃO INFRACONSTITUCIONAL.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+    2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. (Precedentes: AI n. 135.632-AgR, Relator o Ministro CELSO DE MELLO, 1ª Turma, DJ de 03/09/99 e AI n. 551.002-AgR, Relator o Ministro CARLOS VELLOSO, 2ª Turma, DJ de 16.12.05).
+    3. In casu, o Tribunal a quo decidiu a controvérsia à luz da interpretação das Leis nºs 8.213/91 e 9.784/99 e da Medida Provisória nº 138/03, revelando-se incabível a insurgência recursal extraordinária para rediscussão da matéria.
+    4. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+    5. Nego seguimento ao recurso extraordinário.
+    Todavia, observo que o Supremo Tribunal Federal reconheceu a repercussão geral da controvérsia objeto dos presentes autos, em que se discute a tese sobre a questão constitucional alusiva à possibilidade de aplicação do prazo decadencial aos benefícios concedidos antes da vigência da Medida Provisória 1.523/1997. Trata-se do tema nº 313 da sistemática da Repercussão Geral, RE 626489, Relator o Ministro Ayres Britto, cuja ementa do acórdão no Plenário Virtual tem o seguinte teor, verbis:
+    “EMENTA: CONSTITUCIONAL, PREVIDENCIÁRIO, REVISÃO DE BENEFÍCIOS. FIXAÇÃO DE PRAZO DECADENCIAL. MEDIDA PROVISÓRIA 1.523, DE 27/06/1997. BENEFÍCIOS CONCEDIDOS ANTERIORMENTE À RESPECTIVA VIGÊNCIA. DIREITO ADQUIRIDO. SEGURANÇA JURÍDICA. PRESENÇA DA REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL DISCUTIDA.
+    Possui repercussão geral a questão constitucional alusiva à possibilidade de aplicação do prazo decadencial estabelecido pela Medida Provisória 1.523/1997 aos benefícios previdenciários concedidos antes da respectiva vigência”.
+    In casu, o acórdão recorrido assentou: (fl. 137):
+    RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. ALEGAÇÃO DE OFENSA AO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. REVISÃO DE BENEFÍCIO. DECADÊNCIA. MATÉRIA REGULADA POR LEGISLAÇÃO INFRACONSTITUCIONAL.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF).
+    2. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. (Precedentes: AI n. 135.632-AgR, Relator o Ministro CELSO DE MELLO, 1ª Turma, DJ de 03/09/99 e AI n. 551.002-AgR, Relator o Ministro CARLOS VELLOSO, 2ª Turma, DJ de 16.12.05).
+    3. In casu, o Tribunal a quo decidiu a controvérsia à luz da interpretação das Leis nºs 8.213/91 e 9.784/99 e da Medida Provisória nº 138/03, revelando-se incabível a insurgência recursal extraordinária para rediscussão da matéria.
+    4. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682 Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+    5. Nego seguimento ao recurso extraordinário.
+    Ante a similitude da controvérsia, determino a devolução do feito ao Tribunal de origem para observância do disposto no artigo 328, parágrafo único, do RISTF c.c. artigo 543-B e seus parágrafos do Código de Processo Civil.
+    Publique-se.
+    Brasília, 1º de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
