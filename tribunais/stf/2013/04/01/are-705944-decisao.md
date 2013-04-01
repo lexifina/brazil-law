@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de decisão monocrática do Tribunal de Justiça do Estado de Minas Gerais que, em ação revisional de débito c/c repetição de indébito, indeferiu o pedido de antecipação da tutela, devido à ausência dos requisitos fundamentais para sua concessão.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao artigos 5º, LIV e LV, asseverando, em suma, que, “o indeferimento da tutela antecipada para compelir a recorrida a retirar o nome da recorrente dos cadastros de restrição de crédito, dada a discussão do débito, a privará do seu direito de propriedade ” (fl. 104).
+    2. O recurso extraordinário foi interposto imediatamente após acórdão que rejeitara embargos de declaração opostos contra decisão monocrática que negou seguimento ao recurso de agravo de instrumento. Desse modo, tal matéria estava sujeita a recurso de natureza ordinária para o órgão colegiado competente. Diante desse quadro, não se pode conhecer do extraordinário ante o óbice da Súmula 281 do STF (“É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada). Nesse sentido, confira-se:
+    EMENTA Agravo regimental no agravo de instrumento. Recurso especial julgado por decisão monocrática. Embargos de declaração julgados por decisão colegiada. Complementação da decisão anterior. Não esgotadas as instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto após decisão monocrática proferida pelo Relator, haja vista que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. O julgamento colegiado dos embargos declaratórios não tem, em regra, o efeito de substituir, mas sim de aclarar ou complementar a decisão embargada quando há omissão, contradição ou obscuridade. 3. Agravo regimental desprovido (AI 633.489 AgR, Rel. Min. MENEZES DIREITO, 1ª Turma, DJe de 21/08/2009).
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
