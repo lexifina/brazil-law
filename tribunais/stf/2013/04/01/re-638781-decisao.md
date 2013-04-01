@@ -1,0 +1,13 @@
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PROCESSUAL PENAL. PRERROGATIVA DE FORO. INFRAÇÕES PENAIS COMUNS PRATICADAS EM DETRIMENTO DA CAIXA ECONÔMICA FEDERAL ENVOLVENDO VICE-GOVERNADOR. ACÓRDÃO DO TRIBUNAL REGIONAL FEDERAL, EM RECURSO EM SENTIDO ESTRITO, ASSENTANDO SUA COMPETÊNCIA PARA CONHECER E JULGAR A AÇÃO PENAL. RAZÕES EXTRAORDINÁRIAS NAS QUAIS SE ALEGA A AUSÊNCIA DE PRERROGATIVA DE FORO DO RECORRIDO E SE PUGNA PELA FIXAÇÃO DA COMPETÊNCIA DO JUÍZO FEDERAL DE PRIMEIRA INSTÂNCIA. SUPERVENIENTE EXTINÇÃO DO MANDATO DE VICE-GOVERNADOR. REMESSA DO PROCESSO-CRIME PARA O JUÍZO FEDERAL. FATO JURÍDICO QUE TRAZ COMO CONSEQUÊNCIA A DECLARAÇÃO DE SUPERVENIENTE PREJUDICIALIDADE DO RECURSO, EM VIRTUDE DA PERDA DO SEU OBJETO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo Ministério Público Federal contra acórdão da Quarta Turma do Tribunal Regional Federal da 1ª Região que deu provimento a recurso em sentido estrito, reconhecendo a sua competência para processar e julgar infrações penais praticadas contra a Caixa Econômica Federal, imputadas a Eduardo Machado Silva, então Vice-Governador do Estado do Tocantins.
+    O recorrente alega ter o acórdão recorrido violado o disposto nos artigos 108, I, “a”, e 109, IV, da Constituição Federal e, sustentando a ausência de foro por prerrogativa de função no caso sub examine, afirma ser competente o Juízo Federal de Primeira Instância para conhecer e julgar o processo-crime.
+    A Procuradoria Geral da República, no parecer de folhas 237/240, anota a ocorrência de prejuízo do recurso, em face do transcurso do mandato do recorrido Eduardo Machado Silva.
+    É o relatório. Decido.
+    Consulta ao sítio eletrônico do Governo do Estado do Tocantins revela que, após a interposição do recurso extraordinário, findou-se, em 31 de dezembro de 2010, o mandato de Eduardo Machado Silva.
+    Assim sendo, não estando o denunciado no exercício do cargo Vice-Governador, o recurso extraordinário perdeu o seu objeto, tendo em vista que se limita a impugnar decisão que reconheceu a competência do Tribunal Regional Federal para o julgamento da ação penal, sustentando-se a competência da Justiça Federal da Primeira Instância, em razão da ausência de prerrogativa de foro em virtude da função, deslocamento de competência que em razão do fato jurídico novo superveniente se impõe.
+    Ex positis, com base no artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, declaro prejudicado o presente recurso, em virtude da perda superveniente do seu objeto.
+    Publique-se. Int.
+    Brasília, 1º de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
