@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo de decisão que julgou prejudicado recurso extraordinário aos fundamentos de que (a) é pacífico o entendimento das Cortes Superiores no sentido de que deve ser observada a Súmula 279 do STF, que veda o reexame de fatos ou provas; (b) o recurso é carente de fundamentos relevantes e não demonstra como o acórdão recorrido teria ofendido o dispositivo alegadamente violado, incidindo a Súmula 284 do STF; (c) o acórdão recorrido está assentado em mais de um fundamento suficiente para a manutenção do julgado, porém, o recurso não ataca todos, configurando o óbice da súmula 283 do STF; (d) quanto à alegada violação ao art. 93, IX, da Constituição Federal, o acórdão recorrido está em conformidade com o julgamento, por esta Corte Suprema, do AI 791.292/PE.
+    No agravo em recurso extraordinário, a agravante alega, em suas razões, que (a) sem base legal para tanto, o julgador analisou o mérito ao indeferir o processamento do recurso extraordinário, sob os fundamentos de que (i) não houve violação ao art. 93, IX, da Constituição Federal, e (ii) incide no caso as Súmulas 279 e 284; (b) houve usurpação da competência do Supremo Tribunal Federal; (c) não se faz necessária a reapreciação do conjunto probatório, estando resguardada a disposição da Súmula 279 do STF; (d) embora tenham sido opostos embargos de declaração contra o acórdão recorrido, foram rejeitados, violando-se, assim, o art. 93, IX, da Constituição Federal.
+    2. Como se vê, as razões do agravo não impugnaram a totalidade dos fundamentos suficientes para manter a decisão agravada, deixando incólume o argumento acerca da Súmula 283/STF. Nesses termos, inevitável o não-conhecimento do presente recurso, a teor do que dispõe o art. 544, § 4º, I, do CPC.
+    3. Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
