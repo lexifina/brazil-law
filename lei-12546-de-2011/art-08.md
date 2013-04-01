@@ -1,8 +1,11 @@
-Art. 8º Até 31 de dezembro de 2014, contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, à alíquota de 1% (um por cento), em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei no 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo desta Lei.
+Art. 8º Até 31 de dezembro de 2014, contribuirão sobre o valor da receita bruta, excluídas as vendas canceladas e os descontos incondicionais concedidos, à alíquota de um por cento, em substituição às contribuições previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 24 de julho de 1991, as empresas que fabricam os produtos classificados na Tipi, aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, nos códigos referidos no Anexo I.
 c) às empresas aéreas internacionais de bandeira estrangeira de países que estabeleçam, em regime de reciprocidade de tratamento, isenção tributária às receitas geradas por empresas aéreas brasileiras.
 II - de transporte aéreo de carga;
 III - de transporte aéreo de passageiros regular;
-§ 4º A partir de 1º de janeiro de 2013, ficam incluídos no Anexo referido no caput os produtos classificados nos seguintes códigos da Tipi:
+XI - de manutenção e reparação de embarcações;
+XII - de varejo que exercem as atividades listadas no Anexo II.
+§ 4º A partir de 1º de janeiro de 2013, ficam incluídos no Anexo I referido no caput os produtos classificados nos seguintes códigos da Tipi:
+§ 5º No caso de contratação de empresas para a execução dos serviços referidos no § 3º, mediante cessão de mão de obra, na forma definida pelo art. 31 da Lei nº 8.212, de 1991, a empresa contratante deverá reter 3,5% (três inteiros e cinco décimos por cento) do valor bruto da nota fiscal ou fatura de prestação de serviços.
 I - (revogado);
 II - (revogado);
 III - (revogado);
