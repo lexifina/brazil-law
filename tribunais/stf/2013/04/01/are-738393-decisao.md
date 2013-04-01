@@ -1,0 +1,17 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário, interposto contra acórdão da Decima Sétima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “TAXA DE ESGOTO — FALTA DE UTILIZAÇÃO EFETIVA OU POTENCIAL DO SERVIÇO PÚBLICO PELO CONTRIBUINTE — Rejeição do agravo retido. ilegitimidade passiva do Município. A autarquia ré reconhece implicitamente a ausência de prestação de serviço de tratamento de esgoto, pois busca com empenho justificar a legalidade da cobrança da taxa de esgoto no transporte, coleta e destino final dos dejetos que são efetivamente realizados. 0 sistema de esgoto sanitário deve obediência à complexa atividade, sendo certo que à falta de atendimento por completo de todas as diretrizes do regramento legal especifico da matéria, por si só, atrai ilegalidade da cobrança da aludida exação. Demonstração pelo autor da ausência de prestação do serviço público. Validade da prova emprestada. Ausência de danos morais. Correta a devolução simples dos valores cobrados indevidamente pelos demandantes. Acerto da distribuição do ônus sucumbencial. Rejeição do Agravo retido e improvimento dos recursos”.
+    Opostos embargos declaratórios, foram rejeitados.
+    Alega a recorrente violação do artigo 5º, inciso LV, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o dispositivo constitucional indicado como violado no recurso extraordinário carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pela recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas nas provas dos autos e na legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. COBRANÇA DE TARIFA DE ESGOTO. 1. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 685.741/RJ-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/11/12)
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 1º de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
