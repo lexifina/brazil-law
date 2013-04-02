@@ -1,0 +1,9 @@
+Trata-se de recurso extraordinário interposto contra a parte do acórdão que entendeu pela não ocorrência de fato gerador do ITCD, na hipótese em discussão, uma vez que todo o valor do patrimônio do inventariado serviu ao pagamento de honorários advocatícios e de dívidas reconhecidas em vida pelo de cujus, não restando base de cálculo sobre a qual incidiria o referido tributo. O acórdão foi assim ementado:
+    “CIVIL. SUCESSÕES. DA PRELIMINAR DE AUSÊNCIA DA CERTIDÃO DE INTIMAÇÃO DA DECISÃO AGRAVADA – PEÇA OBRIGATÓRIA PARA O CONHECIMENTO DO AGRAVO DE INSTRUMENTO – LEVARIA AO NÃO CONHECIMENTO DO PRESENTE RECURSO. PRELIMINAR REJEITADA. BASE DE CÁLCULO DO ITCD. NÃO INCIDÊNCIA SOBRE A QUANTIA USADA PARA A QUITAÇÃO DE DÍVIDA DO DE CUJUS COM SUA GENITORA. NÃO INCIDÊNCIA DE MULTA POR ATRASO NA ABERTURA DO INVENTÁRIO. NÃO INCIDÊNCIA DO ITCD SOBRE O VALOR DOS HONORÁRIOS DO ADVOGADO CONTRATATADO PELA INVENTARIANTE. APLICAÇÃO DA SÚMULA 115 DO SUPREMO TRIBUNAL FEDERAL. INCIDÊNCIA DO ITCD APENAS SOBRE A IMPORTÂNCIA DOADA PELA GENITORA DO DE CUJUS PARA SUAS NETAS. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME” (fls. 256).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 146, III, a e b, e 155, I, da mesma Carta.
+    A pretensão recursal não merece acolhida. Com efeito, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, no que diz respeito a não ocorrência do fato gerador do ITCD, faz-se necessário o exame do conjunto fático-probatório dos autos, bem como a análise de normas infraconstitucionais, o que inviabiliza o extraordinário com base na Súmula 279 do STF ou porque a afronta à Constituição, se ocorrente, seria indireta.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
