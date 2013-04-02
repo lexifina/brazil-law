@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário sob os fundamentos de que (a) o acórdão recorrido pautou-se na análise documental em face de lei local, incidindo na hipótese o óbice das Súmulas 279 e 280 do STF; e (b) no que toca à alegada ofensa ao princípio da moralidade, a matéria não foi devidamente prequestionada; (c) o recurso extraordinário não prospera pelas alíneas “c” e “d” do art. 102, III, da Constituição Federal, porquanto o Tribunal de origem não julgou válidos lei ou ato de governo local contestados em face da Constituição Federal, ou lei local contestada em face de lei federal. No agravo em recurso extraordinário, a parte agravante alega, em síntese, que (a) a legislação local na qual se baseou o acórdão recorrido é “objeto de pedido de declaração de inconstitucionalidade” (fl. 289); (b) a ofensa ao art. 5º, XXXV, da Constituição Federal não é reflexa, mas direta. Por fim, reitera argumentos jurídicos trazidos na petição do recurso extraordinário.
+    2. Como se vê, as razões do agravo não impugnaram fundamento suficiente para manter, por si só, a decisão agravada, nada aduzindo sobre os óbices das Súmulas 279 e 280 do STF. A falta de ataque específico a todos os fundamentos aptos a sustentar a decisão agravada acarreta o não-conhecimento do presente recurso, a teor do que dispõe o art. 544, § 4º, I, do CPC, com a redação dada pela Lei 12.322/2010.
+    3. Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 02 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
