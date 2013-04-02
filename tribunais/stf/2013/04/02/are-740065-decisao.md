@@ -1,0 +1,8 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário sob os fundamentos de que (a) a parte foi intimada do acórdão em 26/01/2012, mas protocolou o recurso extraordinário apenas em 23/05/2012, intempestivamente, portanto; e (b) “não há previsão legal para interposição de Recurso Extraordinário contra decisões proferidas pelas Presidências de Turmas Recursais dos Juizados Especiais Federais em juízo de análise de admissibilidade de recursos interpostos em face de acórdãos proferidos pelas Turmas” (evento 81, fl. 1). No agravo em recurso extraordinário, a parte agravante alega, em síntese, que a intimação que recebeu “possibilitava a interposição de Recurso Extraordinário no prazo de 15 dias, tanto é que não houve decurso de prazo” (evento 88, fl. 3). Por fim, reitera os mesmos argumentos jurídicos trazidos na petição do recurso extraordinário.
+    2. Como se vê, as razões do agravo não impugnaram fundamento suficiente para manter, por si só, a decisão agravada, nada aduzindo acerca do não cabimento de recurso extraordinário contra decisão monocrática do Presidente de Turma Recursal dos Juizados Especiais Federais em juízo de admissibilidade de incidente de uniformização regional. A falta de ataque específico a todos os fundamentos aptos a sustentar a decisão agravada acarreta o não-conhecimento do presente recurso, a teor do que dispõe o art. 544, § 4º, I, do CPC, com a redação dada pela Lei 12.322/2010.
+    3. Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 02 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
