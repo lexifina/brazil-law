@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Rio de Janeiro.
+    Opostos embargos de declaração, foram desprovidos.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, haja vista que o recurso extraordinário foi interposto antes mesmo do julgamento do pedido de uniformização de jurisprudência. Observe-se que a jurisprudência desta Corte firmou entendimento no sentido de considerar extemporâneo o apelo extremo interposto antes do julgamento do incidente de uniformização de jurisprudência em virtude da inexistência de decisão proferida em única ou última instância. Nesse sentido, anote-se:
+    “EMENTA: PROCESSUAL CIVIL. CONSTITUCIONAL. SERVIDOR PÚBLICO. REVISÃO GERAL ANUAL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. RECURSO EXTRAORDINÁRIO. DESCABIMENTO. I - Esta Corte firmou entendimento no sentido de se considerar extemporâneo o RE interposto antes do julgamento do incidente de uniformização de jurisprudência. II - Somente após o pronunciamento da Turma de Uniformização estaria esgotada a prestação jurisdicional, que daria ensejo à interposição do recurso extremo. III - Agravo regimental improvido” (RE n° 468.259/AM-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 19/12/07).
+    “EMENTA: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. SÚMULA 281 DO STF. Consoante a jurisprudência sumulada do Supremo Tribunal Federal, ‘é inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada’ (Súmula 281 do STF). Admitido Incidente de Uniformização em face de acórdão de Turma Recursal dos Juizados Especiais Federais, resta demonstrada a ausência de decisão de única ou última instância. Pelo que incabível, concomitantemente, a interposição do apelo extremo. Agravo regimental desprovido” (RE n° 468.365/AM-AgR, Primeira Turma, Relator o Ministro Carlos Britto, DJ de 20/4/07).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: RE n° 577.053/MG, Relator o Ministro Ricardo Lewandowski, DJe de 26/2/08, e RE n° 445.169/TO, Relator o Ministro Carlos Velloso, DJ de 9/12/05.
+    Ressalte-se, por fim, que não houve a ratificação do recurso prematuramente interposto após o julgamento do referido incidente de uniformização.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
