@@ -1,0 +1,13 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Roberto Barros Filho e Roberto Barros Júnior contra acórdão proferido pela Quinta Turma do STJ nos autos do HC 203.857/AC. No que importa à presente impetração, o acórdão atacado não conheceu do pedido relativo à absorção do delito de incêndio (CP, art. 250) pelo de fraude para recebimento de indenização ou valor de seguro (CP, art. 171, § 2º, V) por implicar supressão de instância.
+    Sustenta a impetrante, em síntese, que (a) “os réus foram condenados por estelionato na modalidade específica e incêndio, em concurso formal e mais incêndio, na forma do concurso material, restando a pena para cada um em seis anos e seis meses de reclusão, em regime semiaberto, além de multa”(petição inicial, p. 1); (b) “a questão da (...) aplicação do princípio da consunção vem sendo debatida neste caso desde a sentença de piso, passando pela apelação e dela teve conhecimento a egrégia Corte Superior, ora coatora” (p. 10); (c) praticado o delito de estelionato mediante incêndio, que destruiu bem próprio, para receber valor de seguro, deve ser aplicado o princípio da consunção; (d) “não há de aplicar a regra do concurso com a infração do artigo 250 do CPB, pois neste delito se protege a incolumidade pública ameaçada por incêndio de grandes proporções”; (e) no caso, “restou comprovado pelas instâncias ordinárias que o incêndio ocorreu em área de chácara, somente dentro das residências afetadas, naquela ocasião desocupadas, sem qualquer risco ao público” (p. 6).
+    A liminar foi indeferida por decisão do então Relator, Min. Ayres Britto, em razão da formação deficiente dos autos.
+    Foram prestadas informações pelo Superior Tribunal de Justiça.
+    Em parecer, o Ministério Público Federal manifesta-se pela denegação da ordem.
+    2. O acórdão da Quinta Turma do STJ não conheceu do habeas corpus no que pertine ao pleito de aplicação do princípio da consunção, pois a matéria não foi apreciada pelo Tribunal de origem. Com efeito, ao contrário do que alega a impetrante, o TJ/AC não emitiu juízo sobre o tema. Nessa perspectiva, o conhecimento do pedido por esta Corte implicaria dupla supressão de instância, o que não é admitido pela jurisprudência do Supremo Tribunal Federal (v.g. HC 111.030/PE, 2ª T., Min. Teori Zavascki, DJe de 19.03.2013; HC 109.713/RJ, 1ª T., Min. Rosa Weber, DJe de 06.03.2013).
+    3. Diante do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 02 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
