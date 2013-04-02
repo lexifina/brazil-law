@@ -1,0 +1,13 @@
+DECISÃO: Trata-se de “recurso ordinário” interposto pelo Município de Paulínia contra decisão que, por mim proferida a fls. 271/277, concedeu, em parte, a ordem injuncional, para, reconhecido o estado de mora legislativa, garantir, à parte impetrante, o direito de ter o seu pedido de aposentadoria especial concretamente analisado pela autoridade administrativa competente, observado, para tanto, o que dispõe o art. 57 da Lei nº 8.213/91.
+    O recurso em questão é insuscetível de conhecimento.
+    Com efeito, não há como conhecer do presente “recurso ordinário”, porque inexistente, em nosso ordenamento positivo, previsão legal de utilização de “recurso ordinário” contra julgamentos emanados do Supremo Tribunal Federal.
+    Esse comportamento processual da parte ora recorrente evidencia a ocorrência, no caso, de erro grosseiro, apto a inviabilizar o próprio conhecimento do recurso e a obstar a invocação do postulado da fungibilidade recursal.
+    A ocorrência, na espécie, de erro grosseiro evidente torna inaplicável o princípio da fungibilidade recursal, consoante iterativa jurisprudência firmada por esta Suprema Corte (RTJ 105/792 – RTJ 105/1275 – RTJ 120/458 – RTJ 132/1374).
+    Impende registrar, por oportuno, que os Tribunais sempre recusaram aplicabilidade ao postulado da fungibilidade recursal nos casos em que a errônea interposição de um recurso revelasse desconhecimento inescusável, por parte do recorrente, da existência de norma legal expressa indicativa das hipóteses de cabimento da modalidade recursal adequada (RF 148/176 – RF 148/179 – RF 163/215 – RT 489/105 - Revista de Processo, vols. 1/196 – 1/210 – 4/393).
+    Essa mesma orientação é perfilhada pela doutrina, que, ao admitir o recurso indiferente, consagra a fungibilidade recursal como uma das mais expressivas projeções do princípio da instrumentalidade das formas no âmbito da teoria do processo, desde que não se registre a hipótese de má-fé ou de erro grosseiro (MILTON SANSEVERINO, “Fungibilidade dos Recursos”, “in” Revista de Processo, vol. 25/181; JOSÉ FREDERICO MARQUES, “Manual de Direito Processual Civil”, vol. III/128, item n. 606, 1975, Saraiva; JOSÉ CARLOS BARBOSA MOREIRA, “Comentários ao Código de Processo Civil”, vol. V/247-249, item n. 141, 7ª ed., 1998, Forense; MOACYR AMARAL SANTOS, “Primeiras Linhas de Direito Processual Civil”, vol. 3/82, 1979, Saraiva; SÉRGIO BERMUDES, “Comentários ao Código de Processo Civil”, vol. VII/44, item n. 26-A, 2ª ed., 1977, RT, “inter plures”).
+    Sendo assim, e em face das razões expostas, nego seguimento ao presente recurso (CPC, art. 557, “caput”).
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 02 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
