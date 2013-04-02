@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. EXECUÇÃO. COISA JULGADA.
+    Recurso de revista que não merece admissibilidade, uma vez que não restou configurada, de forma direta e literal, nos termos do artigo 896, § 2º, da CLT e da Súmula nº 266 desta Corte, a alegada ofensa ao artigo 5º, incisos II e XXXVI, da Constituição Federal, pelo que, não infirmados os fundamentos do despacho denegatório do recurso de revista, mantém-se a decisão agravada por seus próprios fundamentos. Ressalta-se que, conforme entendimento pacificado da Suprema Corte (MS-27.350/DF, Rel. Min. Celso de Mello, DJ 04/06/2008), não configura negativa de prestação jurisdicional ou inexistência de motivação a decisão do Juízo ad quem pela qual se adotam, como razões de decidir, os próprios fundamentos constantes da decisão da instância recorrida (motivação per relationem), uma vez que atendida a exigência constitucional e legal da motivação das decisões emanadas do Poder Judiciário. Agravo de instrumento desprovido.”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. É que esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Ayres Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes , sendo que deste último extraio a ementa:
+    “Agravo regimental em agravo de instrumento. 2. Embargos à execução. Ofensa ao art. 5º, XXXVI (princípio da coisa julgada), da Constituição Federal. Questão que não se examina em face de execução. Limites da coisa julgada. Ofensa reflexa. Precedentes. 3. Agravo regimental a que se nega provimento”.
+    Ademais, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
