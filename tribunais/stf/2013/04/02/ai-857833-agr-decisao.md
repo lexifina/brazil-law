@@ -1,0 +1,12 @@
+DECISÃO
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. QUESTÃO SUSCETÍVEL DE REPRODUZIR-SE EM MÚLTIPLOS FEITOS. ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. ART. 328, PARÁGRAFO ÚNICO, DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DEVOLUÇÃO DOS AUTOS À ORIGEM.
+Relatório
+    1. Agravo regimental contra decisão que proferi em recurso extraordinário interposto, com base na alínea a do inc. III do art. 102 Constituição da República, contra julgado que afastou o prazo decadencial previsto na Medida Provisória n. 1.523/1997 para os benefícios previdenciários, concedidos em data anterior à sua edição, e determinou a revisão da renda mensal inicial.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    2. No julgamento do Recurso Extraordinário n. 626.489, Relator o Ministro Ayres Britto, este Supremo Tribunal reconheceu a existência de repercussão geral da questão constitucional em exame neste processo.
+    3. Reconhecida a repercussão geral do tema, os autos deverão retornar à origem para aguardar o julgamento do mérito e, após a decisão, observar o disposto no art. 543-B do Código de Processo Civil.
+    4. Pelo exposto, em juízo de reconsideração, anulo a decisão agravada, mantendo a matéria sub judice, e determino a devolução deste autos ao Tribunal a quo para que seja observado o art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
