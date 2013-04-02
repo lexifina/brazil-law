@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que julgou inconstitucional a cobrança de tarifa de coleta de lixo, por entender que a coleta residencial de lixo deve ser remunerada por meio de taxa.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 5º, XXXV, LIV e LV, 93, IX, 145, II, e 175, III, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o acórdão recorrido está em harmonia com com a jurisprudência desta Corte no sentido de que a coleta de lixo domiciliar tem natureza jurídico-tributária, devendo ser remunerada por meio de taxa, a qual deve ser instituída por lei específica. Nesse sentido:
+    “EMENTA: RECURSO EXTRAORDINÁRIO - TAXA INCIDENTE, EXCLUSIVAMENTE, SOBRE OS SERVIÇOS PÚBLICOS DE COLETA, REMOÇÃO E TRATAMENTO OU DESTINAÇÃO DE LIXO OU RESÍDUOS SÓLIDOS - EXIGIBILIDADE DESSA ESPÉCIE TRIBUTÁRIA - SÚMULA VINCULANTE Nº 19 - APLICABILIDADE AO CASO - RECURSO DE AGRAVO IMPROVIDO” (RE 602.741-AgR/DF, Rel. Min. Celso de Mello).
+    Seguindo essa mesma orientação, em casos análogos, menciono as seguintes decisões, entre outras: AI 827605/MG, Rel. Min. Rel. Min. Gilmar Mendes; AI 842.934/MG, Rel. Min. Rosa Weber; RE 709.585/MG, Rel. Min. Dias Toffoli; ARE 720.733/MG, Rel. Min. Celso de Mello; AI 840.959/MG, de minha relatoria; AI 843.774/MG, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
