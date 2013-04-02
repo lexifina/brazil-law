@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário criminal sob os fundamentos de que não está configurado o necessário prequestionamento da matéria constitucional e de que a eventual ofensa à Constituição, se existente, seria reflexa.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação ao art. 5º, incisos XXXIX, XL e LVII e art. 93, inciso IX, da mesma Carta.
+    A pretensão não merece acolhida. É que o recorrente deixou de atacar os fundamentos da decisão agravada, limitando-se a alegar que não seria competência do tribunal estadual o juízo prévio de admissibilidade do recurso extraordinário. Como se sabe, incumbe ao agravante o dever de impugnar, de forma específica, os fundamentos da decisão recorrida, sob pena de não seguimento do recurso (AI 589.978-AgR/DF, Rel. Min. Cármen Lúcia).
+    Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Nesse sentido, menciono as seguintes decisões, entre outras: AI 407.427/SP, Rel. Min. Cezar Peluso; AI 590.913-AgR/RS, Rel. Min. Eros Grau; AI 466.398-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 519.396/SP, Rel. Min. Gilmar Mendes; AI 822.317-ED/MG, Rel. Min. Rosa Weber; AI 850.353-AgR/PB, de minha relatoria, este último assim ementado:
+    “PENAL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO IMPROVIDO. I – O agravante não observou o dever de atacar todos os fundamentos da decisão agravada, o que torna inviável o agravo regimental. Incidência da Súmula 287 do STF. Precedentes. II – Agravo regimental improvido”.
+    Destaco, ainda, por oportuno, que não procede a alegação do agravante no sentido de que falece competência ao Vice-Presidente do tribunal estadual para se manifestar acerca da admissibilidade do extraordinário.
+    Isso porque é assente na jurisprudência desta Corte o entendimento no sentido de que o juízo prévio de admissibilidade do recurso extraordinário realizado pelos tribunais não usurpa a competência deste Tribunal, tampouco o vincula. A corroborar essa assertiva, menciono:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. RECEBIMENTO COMO AGRAVO REGIMENTAL. JUÍZO DE ADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO EFETUADO PELA ORIGEM E ANÁLISE DO SEU MÉRITO POR ESTA CORTE, EM AUTOS DE AGRAVO DE INSTRUMENTO. POSSIBILIDADE. PRECEDENTES.
+    1. O juízo prévio de admissibilidade de recursos dirigidos a este Supremo Tribunal Federal deve ser feito pelos Tribunais de origem, sem que isso implique usurpação de competência desta Corte.
+    2. Discordando a parte da decisão assim proferida, incumbe-lhe interpor agravo de instrumento, que necessariamente será encaminhado a esta Suprema Corte, que poderá apreciar não apenas o aludido juízo de admissibilidade feito pela Corte de origem, mas o próprio mérito da insurgência recursal.
+    3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento” (AI 815.975 ED/RJ, Rel. Min. Dias Toffoli).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
