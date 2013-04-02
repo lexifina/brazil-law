@@ -1,0 +1,17 @@
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DIREITO, OU NÃO, DE RECORRER EM LIBERDADE. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. PERDA DE OBJETO DO WRIT.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado pela DEFENSORIA PÚBLICA DA UNIÃO em benefício de GILSON JOSÉ SANTOS contra ato do Ministro Jorge Mussi, do Superior Tribunal de Justiça, que negou seguimento ao writ lá impetrado com respaldo no artigo 34, inciso XVIII, do RISTJ.
+    Colhe-se dos autos que o paciente foi condenado a 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, pela prática do crime previsto no artigo 33 da Lei 11.343/06 (tráfico de entorpecentes), sendo-lhe vedados o direito de recorrer em liberdade e a substituição da pena privativa de liberdade por outra restritiva de direitos.
+    A defesa apelou e o Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso.
+    Irresignada, impetrou habeas corpus no Superior Tribunal de Justiça, requerendo “a concessão da ordem para revogar o decreto de prisão preventiva do acusado mediante a aplicação ou não das medidas cautelares alternativas à prisão estabelecidas pela Lei 12.403/2011, permitindo que o segregado se defenda solto até eventual postulação de recursos”. O Ministro Jorge Mussi negou seguimento ao writ com fundamento no artigo 34, inciso XVIII, do RISTJ.
+    Contra essa decisão, a defesa impetra este habeas corpus, sustentando, preliminarmente, a violação do princípio da colegialidade, sob o argumento de que o writ impetrado no STJ deveria ter sido submetido à análise do colegiado daquela Corte Superior. No mérito, alega, em síntese, que “evidencia constrangimento ilegal a decisão que nega a liberdade provisória sem a observância das hipóteses do artigo 312 do Código de Processo Penal e com fulcro em dados concretos e substanciais da real necessidade de segregação corporal”.
+    Requer a concessão de medida liminar a fim de que seja assegurado ao paciente o direito de recorrer em liberdade. No mérito, postula “seja concedida a ordem de habeas corpus concedida para cassar a decisão monocrática proferida no âmbito do Superior Tribunal de Justiça e determinar que o writ seja levado ao órgão colegiado para a devida apreciação”.
+    A medida liminar foi indeferida em decisão assim ementada:
+    “PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES – ART. 33 DA LEI N. 11.343/2006. HC NO STJ. SEGUIMENTO NEGADO POR DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DO COLEGIADO. INOCORRÊNCIA. PREVISÃO DE AGRAVO REGIMENTAL. NÃO UTILIZAÇÃO. PRECLUSÃO. DIREITO DE RECORRER EM LIBERDADE. CONCESSÃO. IMPOSSIBILIDADE: TEMA DISSOCIADO DAS RAZÕES DA IMPETRAÇÃO.
+    - Liminar indeferida, por ausência de seus requisitos.”
+    O Ministério Público Federal manifesta-se pela prejudicialidade do writ, sob o fundamento de que, “conforme informações extraídas do sítio eletrônico do Tribunal de Justiça do Estado de Minas Gerais (www.tjmg.jus.br), o Juízo da 1ª Vara de Tóxicos da Comarca de Belo Horizonte, em 27/11/2012, atestou o trânsito em julgado da Ação Penal nº 1696183-72.2011.8.13.0024, determinando a expedição da respectiva certidão”.
+    Ex positis, acolho a manifestação ministerial e declaro a prejudicialidade deste habeas corpus com fundamento no artigo 21, inciso IX, do RISTF.
+    Publique-se.
+    Brasília, 2 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
