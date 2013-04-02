@@ -1,0 +1,11 @@
+Decisão:
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, impetrado em favor de Odete Felix da Silva contra decisão da Min. Maria Doralice Novaes (Juíza convocada) do Tribunal Superior do Trabalho, que indeferiu liminarmente o HC 66601-17.2010.5.00.0000.
+    Sustenta a impetrante, em síntese, que (a) a recorrente é reclamada na Ação Trabalhista 0054-2007-124-08-00-4, logrando-se vitoriosa, em primeiro grau, em relação ao pedido de danos morais; (b) interposto recurso ordinário pelo reclamante, a sentença restou reformada e a ora recorrente vencida; (c) contra esta decisão foi interposto recurso de revista perante o Tribunal Superior do Trabalho; (d) a advogada constituída nos autos do recurso não foi intimada do acórdão que julgou o segundo embargos de declaração opostos no recurso ordinário, apesar de ter solicitado por duas vezes tal providência, o que resultou na intempestividade do recurso de revista interposto perante o TST; (e) contra essa decisão foi impetrado habeas corpus perante o TST, que foi indeferido liminarmente pela Relatora Maria Doralice Novaes; (f) “tendo constado nas intimações o nome de advogado diverso daquele designado pela parte quando da publicação do acórdão que julgou os embargos de declaração opostos pela paciente, é de se reconhecer a nulidade de tal ato e dos demais que se sucederam para determinar o retorno dos autos ao TRT da 8ª Região, para que se proceda à nova publicação do acórdão impugnado a fim de que dele conste o nome desta advogada indicada, e assim, seja possível a interposição de recurso de revista”.
+    Em parecer, a Procuradoria-Geral da República manifesta-se pelo desprovimento do recurso.
+    2. O presente recurso constitui reiteração de impetração anterior, com causa de pedir e pedido idênticos, já julgada por esta Corte (HC 106.633-AgR/DF, 1ª T., Min. Ricardo Lewandowski, DJe de 21.03.2011). Assim, a impetração não pode ser conhecida. Nesse sentido: HC 113.537 AgR/RJ, 2ª T., Min. Gilmar Mendes, DJe de 16.10.2012; HC 108.568 AgR/SP, 1ª T., Min., Dias Toffoli, DJe de 22.06.2012.
+    3. Diante do exposto, nego seguimento ao recurso (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 02 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
