@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1341, de 2 de abril de 2013
+Dispõe sobre normas complementares relativas à rotulagem nas embalagens do papel destinado à impressão de livros e periódicos, de que trata o art. 2º da Lei nº 12.649, de 17 de maio de 2012.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 2º da Lei nº 12.649, de 17 de maio de 2012, no art. 273 do Decreto nº 7.212, de 15 de junho de 2010, e no Decreto nº 7.882, de 28 de dezembro de 2012, resolve:
