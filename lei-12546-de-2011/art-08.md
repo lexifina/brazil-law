@@ -4,8 +4,15 @@ II - de transporte aéreo de carga;
 III - de transporte aéreo de passageiros regular;
 XI - de manutenção e reparação de embarcações;
 XII - de varejo que exercem as atividades listadas no Anexo II.
+XIII - (VETADO);
+XIV - (VETADO);
+XV - (VETADO);
+XVI - (VETADO);
 § 4º A partir de 1º de janeiro de 2013, ficam incluídos no Anexo I referido no caput os produtos classificados nos seguintes códigos da Tipi:
 § 5º No caso de contratação de empresas para a execução dos serviços referidos no § 3º, mediante cessão de mão de obra, na forma definida pelo art. 31 da Lei nº 8.212, de 1991, a empresa contratante deverá reter 3,5% (três inteiros e cinco décimos por cento) do valor bruto da nota fiscal ou fatura de prestação de serviços.
+§ 6º (VETADO).
+§ 7º (VETADO).
+§ 8º (VETADO).
 I - (revogado);
 II - (revogado);
 III - (revogado);
