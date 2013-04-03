@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Município de Londrina interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 84, IV, 109, 153, III, 156 e 158, I, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE TRIBUTO C/C REPETIÇÃO DE INDÉBITO. IMPOSTO DE RENDA. LICENÇA PRÊMIO E FÉRIAS. IMPOSSIBILIDADE DE INCIDÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. HONORÁRIOS ADVOCATÍCIOS MANTIDOS.
+    RECURSO NÃO PROVIDO.
+    RECURSO ADESIVO CONHECIDO E PROVIDO.”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar.
+    Esta Corte firmou entendimento no sentido de que os Estados-Membros possuem legitimidade passiva para figurar em ação judicial em que se discute matéria atinente à arrecadação do imposto sobre renda e proventos de qualquer natureza, incidente na fonte, sobre rendimentos pagos por eles.
+    Embora seja de competência da União a instituição deste tributo, o produto da arrecadação tributária pertence aos referidos entes federados. Desse modo, no caso em tela, aplica-se esse mesmo entendimento, encontrando-se, portanto, presente a legitimidade passiva do Município. Em casos semelhantes, colhem-se os seguintes julgados:
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. LEGITIMIDADE E COMPETÊNCIA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O Estado-Membro é parte legítima para figurar no polo de ação de restituição de imposto de renda, por pertencer a ele o produto da arrecadação do imposto da União sobre a renda e os proventos de qualquer natureza, incidente na fonte, sobre pagamentos feitos a servidores. 2. Compete à Justiça comum estadual processar e julgar as causas em que se discute a repetição do indébito. Precedentes” (AI n° 577.516/PE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe 20/11/09).
+    “EMENTA: Agravo regimental em agravo de instrumento. 2. Recurso que não demonstra o desacerto da decisão agravada. 3. Servidor Público estadual. Licença-prêmio não gozada. Pagamento em pecúnia. Retenção de imposto de renda sobre o valor pago. Controvérsia infraconstitucional. Ofensa indireta à Constituição Federal. 4. Competência da Justiça estadual para julgar a ação de repetição de indébito. Precedentes. 5. Agravo regimental a que se nega provimento” (AI n° 488.425/PE- AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 25/4/08).
+    “EMENTA: 1. Recurso extraordinário: descabimento: controvérsia relativa a imposto de renda retido na fonte pelo Estado sobre pagamentos "in pecunia", referentes a férias e licenças-prêmio não gozadas, decidida à luz de legislação infraconstitucional: a alegada violação dos dispositivos constitucionais invocados, se ocorresse, seria reflexa ou indireta que não enseja reexame no RE: incidência, mutatis mutandis, do princípio da Súmula 636. 2. Competência da Justiça estadual e legitimidade passiva do Estado para a demanda: inexistência da alegada violação do artigo 157, I, da Constituição Federal” (AI n° 571.850/PE-AgR, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJe de 25/5/07).
+    No mesmo sentido, as seguintes decisões monocráticas: ARE n° 722.983/PR, de minha relatoria, DJe de 18/3/13, RE n° 465.858/PR, Relator o Ministro Joaquim Barbosa, DJe de 2/2/10, AI n° 374.562/MG, Relator o Ministro Ilmar Galvão, DJ de 25/3/02, e AI n° 296.442/MG, Relator o Ministro Marco Aurélio, DJ de 8/8/01.
+    Nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 3 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
