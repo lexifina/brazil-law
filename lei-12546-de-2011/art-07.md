@@ -3,7 +3,15 @@ I - as empresas que prestam os serviços referidos nos §§ 4º e 5º do art. 14
 II - as empresas do setor hoteleiro enquadradas na subclasse 5510-8/01 da Classificação Nacional de Atividades Econômicas - CNAE 2.0;
 III - as empresas de transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal, intermunicipal em região metropolitana, intermunicipal, interestadual e internacional enquadradas nas classes 4921-3 e 4922-1 da CNAE 2.0.
 IV - as empresas do setor de construção civil, enquadradas nos grupos 412, 432, 433 e 439 da CNAE 2.0.
+V - (VETADO);
+VI - (VETADO);
+VII - (VETADO);
+VIII - (VETADO);
+IX - (VETADO);
+X - (VETADO); e
+XI - (VETADO).
 § 1º Durante a vigência deste artigo, as empresas abrangidas pelo caput e pelos §§ 3º e 4º deste artigo não farão jus às reduções previstas no caput do art. 14 da Lei nº 11.774, de 2008.
 § 2º O disposto neste artigo não se aplica a empresas que exerçam as atividades de representante, distribuidor ou revendedor de programas de computador, cuja receita bruta decorrente dessas atividades seja igual ou superior a 95% (noventa e cinco por cento) da receita bruta total.
 § 5º (VETADO).
 § 6º No caso de contratação de empresas para a execução dos serviços referidos no caput, mediante cessão de mão de obra, na forma definida pelo art. 31 da Lei nº 8.212, de 24 de julho de 1991, a empresa contratante deverá reter 3,5% (três inteiros e cinco décimos por cento) do valor bruto da nota fiscal ou fatura de prestação de serviços.
+§ 7º (VETADO).
