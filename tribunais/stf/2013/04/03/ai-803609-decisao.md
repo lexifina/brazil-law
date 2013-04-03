@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região que manteve a sentença de 1ª instância que extinguiu o feito sem resolução do mérito, em virtude do reconhecimento de coisa julgada (fls. 236-245).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 1º; 2º; 515, §§ 1º, 2º; 301, VI, §§ 1º, 2º e 3º; 468; 471, I e II; 535, II, do Código de Processo Civil e aos arts. 1º, III, e 5º, LV, do texto constitucional.
+    O recorrente aduz que não há identidade entre as demandas, tendo em vista a diversidade dos pedidos e da causa de pedir próxima, motivo pelo qual não haveria que se falar em ocorrência da coisa julgada.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, registre-se que somente compete ao Supremo Tribunal Federal julgar, mediante recurso extraordinário, as hipóteses previstas no art. 102, III, da Constituição Federal, entre as quais não se inclui afronta à legislação infraconstitucional.
+    Desse modo, é inviável o processamento do apelo no que se refere à afronta aos dispositivos do Código de Processo Civil.
+    Além disso, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos limites objetivos da coisa julgada configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    Nesse sentido confiram-se os seguintes precedentes:
+    “Agravo regimental no agravo de instrumento. Previdenciário. Aposentadoria rural. Princípios do devido processo legal, do contraditório e da ampla defesa. Coisa julgada. Limites objetivos. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República. 2. É pacífica a orientação desta Corte de que não se presta o recurso extraordinário à verificação dos limites objetivos da coisa julgada, haja vista tratar-se de discussão de índole infraconstitucional. 3. Inadmissível em recurso extraordinário o reexame da legislação infraconstitucional e dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido. (AI-AgR 846.243, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 1.8.2012)
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ENVOLVENDO AS GARANTIAS CONSTITUCIONAIS DO PROCESSO. LIMITES OBJETIVOS E SUBJETIVOS DA COISA JULGADA. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 1. Segundo a jurisprudência do Supremo Tribunal Federal, suposta ofensa às garantias constitucionais da ampla defesa, do contraditório e aos limites objetivos e subjetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 517.643-AgR e 733.272-AgR, da relatoria do ministro Celso de Mello. 2. Agravo regimental desprovido”. (AI-AgR 755.396, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 6.12.2011)
+    Ante o exposto, nego provimento ao agravo de instrumento (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 3 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
