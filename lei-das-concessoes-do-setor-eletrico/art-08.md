@@ -2,3 +2,4 @@ Art. 8º As concessões de geração, transmissão e distribuição de energia e
 § 1º A licitação de que trata o caput poderá ser realizada sem a reversão prévia dos bens vinculados à prestação do serviço.
 § 2º O cálculo do valor da indenização correspondente às parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou não depreciados, utilizará como base a metodologia de valor novo de reposição, conforme critérios estabelecidos em regulamento do poder concedente.
 § 3º Aplica-se o disposto nos §§ 1º ao 6º do art. 1º às outorgas decorrentes de licitações de empreendimentos de geração de que trata o caput, o disposto no parágrafo único do art. 6º, às concessões de transmissão, e o disposto no art. 7º, às concessões de distribuição.
+§ 4º Ficam reduzidas a zero as alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS incidentes sobre as indenizações a que se referem o § 2º.
