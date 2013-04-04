@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, o qual deferiu pedido de penhora sobre o faturamento diário da empresa recorrente no percentual de 30% do valor encontrado em caixa.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, XXXV, LIV e LV, 93, IX, e 170 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria imprescindível a interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil), bem como, o reexame dos fatos e provas existentes nos autos. Desse modo, a afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 279 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, anote-se:
+          Agravo regimental no agravo de instrumento. Execução fiscal. Penhora. Ofensa reflexa. Reexame de provas. Precedentes.
+          1. A afronta aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República.
+          2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame dos fatos e das provas dos autos. Incidência das Súmulas nºs 636 e 279/STF.
+    3. Agravo regimental não provido” (AI 814.912-AgR/MG, Rel. Min. Dias Toffoli, Primeira Turma).
+    “Agravo regimental em agravo de instrumento. 2. Processual civil. Penhora de faturamento de empresa. 3. Alegação de negativa de prestação jurisdicional. Decisão fundamentada, apesar de contrária aos interesses da parte. AI-QO-RG 791.292. 4. Matéria infraconstitucional. Ofensa reflexa. Precedentes. 5. Agravo regimental a que se nega provimento” (AI 760.882-AgR/DF, Rel. Min. Gilmar Mendes, Segunda Turma).
+    Ademais, este Tribunal tem consignado, por meio de remansosa jurisprudência, que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
