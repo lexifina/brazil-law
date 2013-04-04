@@ -1,0 +1,1 @@
+Art. 26-A. As reduções de que tratam o § 4º do art. 8º e § 9º do art. 15 serão aplicadas às indenizações cujas obrigações de pagamento sejam assumidas pelo poder concedente em até cinco anos após a data de publicação desta Lei, alcançadas, inclusive, as parcelas dessas indenizações pagas depois do prazo.
