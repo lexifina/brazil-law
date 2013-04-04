@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF09 nº 46, de 8 de março de 2013
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins NÃO CUMULATIVIDADE. COOPERATIVA DE PRODUÇÃO AGROPECUÁRIA. BASE DE CÁLCULO. EXCLUSÕES E DEDUÇÕES. CRÉDITOS. MANUTENÇÃO. Assunto: Contribuição para o PIS/Pasep NÃO CUMULATIVIDADE. COOPERATIVA DE PRODUÇÃO AGROPECUÁRIA. BASE DE CÁLCULO. EXCLUSÕES E DEDUÇÕES. CRÉDITOS. MANUTENÇÃO.
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins
+NÃO CUMULATIVIDADE. COOPERATIVA DE PRODUÇÃO AGROPECUÁRIA. BASE DE CÁLCULO. EXCLUSÕES E DEDUÇÕES. CRÉDITOS. MANUTENÇÃO.
+Os ajustes de base de cálculo da Cofins previstos no art. 11, II e V, da IN SRF nº 635, de 2006, não impedem a manutenção dos créditos porventura apurados na forma do art. 3o da Lei 10.833, de 2003, consoante previsto no art. 17 da Lei nº 10.033, de 2004.
+Dispositivos Legais: LC nº 73, de 1993; Lei nº 5.172, de 1966 (CTN), art. 151; Lei nº 10.684, de 2003, art. 17; Lei nº 10.833, de 2003, art. 1o, § 3o, I, art. 3o, I e II, e § 2o; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16; MP nº 2.158-35, de 2001, art. 15, II; IN SRF nº 635, de 2006, art. 11, II e V, e § 8o, e art. 23, I e II.
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. COOPERATIVA DE PRODUÇÃO AGROPECUÁRIA. BASE DE CÁLCULO. EXCLUSÕES E DEDUÇÕES. CRÉDITOS. MANUTENÇÃO.
+Os ajustes de base de cálculo da Contribuição ao PIS/Pasep previstos no art. 11, II e V, da IN SRF nº 635, de 2006, não impedem a manutenção dos créditos porventura apurados na forma do art. 3o da Lei nº 10.637, de 2002, e do art. 3o da Lei 10.833, de 2003, consoante previsto no art. 17 da Lei nº 10.033, de 2004.
+Dispositivos Legais: LC nº 73, de 1993; Lei nº 5.172, de 1966 (CTN), art. 151; Lei nº 10.684, de 2003, art. 17; Lei nº 10.637, de 2003, art. 3o, I e II, e § 2o; Lei nº 10.833, de 2003, art. 1o, § 3o, I, c/c art. 15, I; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16; MP nº 2.158-35, de 2001, art. 15, II; IN SRF nº 635, de 2006, art. 11, II e V, e § 8o, e art. 23, I e II.
