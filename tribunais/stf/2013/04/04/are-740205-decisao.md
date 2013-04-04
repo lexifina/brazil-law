@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que julgou improcedente o pedido de revisão de benefício previdenciário com a aplicação do INPC como índice de reajuste.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 1º, III, 3º, III e IV, 194, IV, e 201, § 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque a jurisprudência dessa Corte é pacífica no sentido de que a questão relativa aos índices aplicáveis ao reajuste de benefícios previdenciários possui natureza eminentemente infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+    “Agravo regimental no recurso extraordinário. Previdenciário. Salário de contribuição e benefício de prestação continuada. Equivalência dos reajustes. Preservação do valor real. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. A jurisprudência desta Corte é de que, embora o segurado tenha direito ao reajuste dos benefícios, esse se dará nos moldes e critérios previstos na lei, que definirá, inclusive, os índices de correção monetária aplicáveis e os períodos de sua incidência. 2. Inviável em recurso extraordinário a interpretação da legislação infraconstitucional e a análise de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF. 3. Agravo regimental não provido” (RE 537.616-AgR/PR, Rel. Min. Dias Toffoli, Primeira Turma).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. REAJUSTE PREVIDENCIÁRIO. MATÉRIA INFRACONSTITUCIONAL. INCIDÊNCIA DA SÚMULA STF 287. FUNDAMENTO NÃO ATACADO: SÚMULA STF 283. 1. O Supremo Tribunal Federal consolidou o entendimento no sentido de que é infraconstitucional a questão relativa aos índices de reajuste dos benefícios previdenciários. 2. A decisão recorrida fundamentou-se, também, na Súmula STF 287, argumento não atacado pelo ora agravante. Incide, na espécie, a Súmula STF 283. 3. Agravo regimental a que se nega provimento” (AI 780.087-AgR/MG, Rel. Min. Ellen Gracie, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 4 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
