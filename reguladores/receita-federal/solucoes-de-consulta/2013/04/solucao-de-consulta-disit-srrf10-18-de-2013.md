@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 18, de 19 de março de 2013
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI EMENTA: ZONA FRANCA DE MANAUS. AMAZÔNIA OCIDENTAL. ISENÇÃO. REMESSA COM SUSPENSÃO. PRODUTOS NACIONALIZADOS. TRATADO INTERNACIONAL. APLICABILIDADE.
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI
+EMENTA: ZONA FRANCA DE MANAUS. AMAZÔNIA OCIDENTAL. ISENÇÃO. REMESSA COM SUSPENSÃO. PRODUTOS NACIONALIZADOS. TRATADO INTERNACIONAL. APLICABILIDADE.
+As isenções do IPI para os produtos nacionais entrados na Zona Franca de Manaus para seu consumo interno, utilização ou industrialização, e para os produtos nacionais consumidos ou utilizados na Amazônia Ocidental, bem como as respectivas remessas com suspensão desse imposto, atendidas as condições estipuladas no Regulamento do IPI, estendem-se aos produtos nacionalizados que sejam oriundos de países com os quais o Brasil mantenha tratado, acordo ou convenção internacional que assegure igualdade de tratamento, quanto aos tributos internos, para o produto nacional e o importado.
+DISPOSITIVOS LEGAIS: Decreto nº 7.212, de 2010 (RIPI/2010), arts. 81, III, 84, 95, I, e 96; Lei nº 5.172, de 1966 (CTN), art. 98; Parecer Normativo CST nº 40/75 (D.O.U. de 08.05.1975).
