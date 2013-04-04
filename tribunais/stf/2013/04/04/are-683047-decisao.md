@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 2º, 93, IX, e 156, I, da Carta Magna.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Nada colhe o agravo.
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, a afastar o vício da nulidade por negativa de prestação jurisdicional arguido. Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano. Precedentes desta Suprema Corte na matéria:
+    “Fundamentação do acórdão recorrido. Existência. Não há falar em ofensa ao art. 93, IX, da CF, quando o acórdão impugnado tenha dado razões suficientes, embora contrárias à tese da recorrente.” (AI 426.981-AgR, Relator Ministro Cezar Peluso, DJ 05.11.04; no mesmo sentido: AI 611.406-AgR, Relator Ministro Carlos Britto, DJE 20.02.09)
+    “Omissão. Inexistência. O magistrado não está obrigado a responder todos os fundamentos alegados pelo recorrente. PIS. Lei n. 9.715/98. Constitucionalidade. A controvérsia foi decidida com respaldo em fundamentos adequados, inexistindo omissão a ser suprida. Este Tribunal fixou entendimento no sentido de que o magistrado não está vinculado pelo dever de responder todo s os fundamentos alegados pela parte recorrente. Precedentes. Esta Corte afastou a suposta inconstitucionalidade das alterações introduzidas pela Lei n. 9.715/98, admitindo a majoração da contribuição para o PIS mediante a edição de medida provisória. Precedentes.” (RE 511.581-AgR, Relator Ministro Eros Grau, DJE 15.8.08)
+    “O que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional.” (AI 402.819-AgR, Relator Ministro Sepúlveda Pertence, DJ 05.9.03)
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, a, do CPC).
+    Publique-se.
+    Brasília, 04 de abril de 2013.
+Ministra Rosa Weber
+Relatora
