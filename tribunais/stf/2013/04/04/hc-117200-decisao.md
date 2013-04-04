@@ -1,0 +1,22 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado por SÉRGIO SORGI FILHO, em nome próprio, em que aponta como autoridades coatoras o Tribunal de Justiça do Estado de São Paulo e o Superior Tribunal de Justiça.
+    O impetrante/paciente narra, de início, que sofre flagrante constrangimento ilegal, devido à falta de intimação pessoal da Defensoria Pública estadual para a sessão de julgamento das apelações interpostas nos Processos 493/1992, 093/1993, 408/1993, 918/2001, 182/2002 e 670/2000.
+    Explica, em seguida, que a declaração de nulidade dos feitos ocasionará a prescrição das penas aplicadas nos Processos 493/1992, 093/1993 e 408/1993, bem como das reprimendas fixadas para os delitos de roubo tentado correspondentes aos Processos 670/2000 e 918/2001.
+    Assevera, além disso, que, com a anulação das referidas ações penais, haverá o restabelecimento das ordens concedidas pelo Tribunal de Justiça do Estado de São Paulo e pelo Superior Tribunal de Justiça, que garantiram a ele a possibilidade de responder aos Processos 182/2002 e 670/2000 em liberdade. Consequentemente, não existirá nenhuma ordem de prisão contra ele ou pena a ser cumprida.
+    Daí a impetração deste writ.
+    O impetrante/paciente aduz, em síntese, que o recurso de apelação é ato processual de suma importância para o exercício da ampla defesa (art. 5º, LV, da CF), de modo que, “se a defesa constituída pelo Estado não for pessoalmente intimada para a sessão de julgamento (…)”, ele não disporá de profissional que possa fazer apontamentos importantes referentes aos processos, bem como ficará impossibilitado de apresentar recursos destinados às instâncias superiores.
+    Assevera, ainda, que a legislação infraconstitucional prevê a intimação pessoal dos defensores públicos, ou de quem exerça cargo equivalente, para a prática de todos os atos do processo (art. 5º, § 5º, da Lei 1.060/1950; art. 128, I, da Lei Complementar 80/1994 e art. 370, § 4º, do Código de Processo Penal).
+    Menciona, em reforço, alguns julgados do Superior Tribunal de Justiça e do Supremo Tribunal Federal.
+    Requer, ao final, liminarmente, seja colocado imediatamente em liberdade. Pede, ainda, em sede de liminar, a cassação dos acórdãos que julgaram as apelações interpostas nos Processos 493/1992, 093/1993, 408/1993, 918/2001, 182/2002 e 670/2000, e, de ofício, a extinção das penas a eles relativas, pela ocorrência da prescrição.
+    É o relatório suficiente. Decido.
+    Preliminarmente, a impetração não deve ser conhecida relativamente à decisão do Tribunal de Justiça do Estado de São Paulo, pois, como se sabe, essa autoridade não está incluída no rol taxativo previsto no art. 102, I, i, da Constituição Federal cujos atos estão sujeitos diretamente à jurisdição do Supremo Tribunal Federal.
+    No mais, o writ também não merce seguimento.
+    Como se sabe, a petição inicial do habeas corpus deverá conter: a) o nome de quem sofre ou está ameaçado de sofrer violência ou coação e o de quem exerce a violência, coação ou ameaça; b) a declaração da espécie de constrangimento ou, em caso de simples ameaça de coação, as razões em que se funda o temor; e c) a assinatura do impetrante ou de alguém a seu rogo, quando não souber ou não puder escrever, e a designação das respectivas residências. Assim dispõe o art. 654, § 1º, do Código de Processo Penal, reproduzido nos incisos do art. 190 do Regimento Interno desta Corte.
+    No caso sob exame, embora o impetrante/paciente tenha apontado como autoridade coatora o Superior Tribunal de Justiça, não indicou qual o ato coator e o seu conteúdo, o que impede a análise dos demais requisitos da impetração, não sendo possível emendar a inicial de ofício.
+    Ademais, o impetrante/paciente juntou documentação relativa apenas à Ação Penal 918/2001, e, mesmo assim, não é possível verificar a irregularidade apontada na inicial, fato que também torna inviável o completo entendimento das questões postas sob exame.
+    Isso posto, com base no art. 38 da Lei 8.038/1990 e no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus. Prejudicado o exame da medida liminar.
+    Encaminhe-se cópia da inicial deste writ, bem como desta decisão à Defensoria Pública do Estado de São Paulo, para que tome as providências que entender necessárias.
+    Comunique-se, ainda, o impetrante/paciente.
+    Publique-se.
+    Brasília, 4 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
