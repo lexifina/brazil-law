@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF10 nº 14, de 5 de março de 2013
+ASSUNTO: Imposto sobre Produtos Industrializados - IPI
+EMENTA: SUSPENSÃO. ART. 29 DA LEI Nº 10.637, DE 2002. REQUISITOS. AUTONOMIA DOS ESTABELECIMENTOS. CISÃO PARCIAL.
+Para adquirir, com suspensão do IPI, matérias-primas, produtos intermediários e materiais de embalagem que serão empregados na industrialização dos produtos classificados no Capítulo 64 da Tipi, o estabelecimento industrial da pessoa jurídica deve satisfazer a todos os requisitos estabelecidos pela IN RFB nº 948, de 2009, inclusive o de ser considerado preponderantemente produtor, cujo enquadramento toma por base, exclusivamente, a receita bruta de cada estabelecimento industrial.
+No caso de cisão parcial, o estabelecimento industrial, devidamente inscrito no CNPJ pela pessoa jurídica cindenda, que passar a exercer a atividade econômica de fabricação de calçados, polainas e artefatos de usos semelhantes, classificados no Capítulo 64 da Tipi, não atenderá, de imediato, ao requisito da “preponderância”, tendo em vista que no ano-calendário imediatamente anterior não tem como ter obtido receita bruta decorrente desses produtos superior a 60% (sessenta por cento) da receita bruta total no mesmo período.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (CTN), arts. 51, parágrafo único, e 111, I; Lei nº 10.637, de 2002, art. 29; Decreto nº 7.212, de 2010 (Ripi/2010), art. 609, IV; Instrução Normativa RFB nº 948, de 2009, arts. 21, 23, e 24, III; Instrução Normativa RFB nº 1.183, de 2011, arts. 4º, § 2º, e 34, XVI.
+Novo segmento
+[arquivo anexo: SC SRRF10-Disit nº 14-2013.pdf]
