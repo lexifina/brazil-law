@@ -14,4 +14,7 @@ XI - (VETADO).
 § 2º O disposto neste artigo não se aplica a empresas que exerçam as atividades de representante, distribuidor ou revendedor de programas de computador, cuja receita bruta decorrente dessas atividades seja igual ou superior a 95% (noventa e cinco por cento) da receita bruta total.
 § 5º (VETADO).
 § 6º No caso de contratação de empresas para a execução dos serviços referidos no caput, mediante cessão de mão de obra, na forma definida pelo art. 31 da Lei nº 8.212, de 24 de julho de 1991, a empresa contratante deverá reter 3,5% (três inteiros e cinco décimos por cento) do valor bruto da nota fiscal ou fatura de prestação de serviços.
-§ 7º (VETADO).
+§ 7º Serão aplicadas às empresas referidas no inciso IV do caput as seguintes regras:
+I - para as obras matriculadas no Cadastro Específico do INSS - CEI a partir do dia 1º de abril de 2013, o recolhimento da contribuição previdenciária ocorrerá na forma do caput, até o seu término;
+II - para as obras matriculadas no Cadastro Específico do INSS - CEI até o dia 31 de março de 2013, o recolhimento da contribuição previdenciária ocorrerá na forma dos incisos I e III do caput do art. 22 da Lei nº 8.212, de 1991, até o seu término; e
+III - no cálculo da contribuição incidente sobre a receita bruta, serão excluídas da base de cálculo, observado o disposto no art. 9º, as receitas provenientes das obras a que se refere o inciso II.
