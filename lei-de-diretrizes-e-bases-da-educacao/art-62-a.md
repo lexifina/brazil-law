@@ -1,0 +1,2 @@
+Art. 62-A. A formação dos profissionais a que se refere o inciso III do art. 61 far-se-á por meio de cursos de conteúdo técnico-pedagógico, em nível médio ou superior, incluindo habilitações tecnológicas.
+Parágrafo único. Garantir-se-á formação continuada para os profissionais a que se refere o caput, no local de trabalho ou em instituições de educação básica e superior, incluindo cursos de educação profissional, cursos superiores de graduação plena ou tecnológicos e de pós-graduação.
