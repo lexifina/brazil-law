@@ -1,1 +1,1 @@
-Art. 29. A educação infantil, primeira etapa da educação básica, tem como finalidade o desenvolvimento integral da criança até seis anos de idade, em seus aspectos físico, psicológico, intelectual e social, complementando a ação da família e da comunidade.
+Art. 29. A educação infantil, primeira etapa da educação básica, tem como finalidade o desenvolvimento integral da criança de até 5 (cinco) anos, em seus aspectos físico, psicológico, intelectual e social, complementando a ação da família e da comunidade.
