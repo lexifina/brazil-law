@@ -1,0 +1,14 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL. SERVIÇO PÚBLICO DE TELEFONIA POR MEIO DE CONCESSÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS COM COBRANÇA DE ASSINATURA BÁSICA MENSAL. INSURGÊNCIA DO ASSINANTE CONTRA ESSA COBRANÇA. SERVIÇOS POSTOS À DISPOSIÇÃO NÃO SE TRADUZEM EM SERVIÇOS EFETIVAMENTE PRESTADOS. TARIFA QUE NÃO SE CONFUNDE COM TAXA. RELAÇÃO DE CONSUMO. EQUILÍBRIO CONTRATURAL. SUSPENSÃO DA COBRANÇA. IMPOSSIBILIDADE DE COMPENSAÇÃO DO ICMS. RECURSO PROVIDO PARCIALMENTE.
+    O serviço de telefonia é serviço público privativo do Estado, prestado mediante concessão por empresa de iniciativa privada, devendo o contrato ser analisado à luz do Código de Defesa do Consumidor.
+    Por ser serviço remunerado por tarifa, esta é vinculada ao efetivo uso, descabendo cobrança por simples disponibilização. O fornecedor tem o dever da prestação de serviço e o usuário tem a faculdade de utilizá-lo (art. 39, IX do CDC). O serviço não usado não pode, efetivamente, ser cobrado.
+    Assim, fica estipulada a vedação de sua cobrança, instituindo-se multa diária de R$ 100,00 (cem reais), para eventual descumprimento do ora estipulado” (fl. 242 do e-STJ).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 5º, XXXVI, LIV, LV, 21, XI, 22, IV, 37, XXI, 93, IX, 109, I, e 175, parágrafo único e III, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, no julgamento do RE 567.454/BA, Rel. Min. Ayres Britto, o Supremo Tribunal Federal decidiu que a discussão sobre a cobrança da tarifa básica de assinatura de serviço de telefonia fixa tem natureza infraconstitucional e reconheceu a competência da Justiça Estadual para processar e julgar as ações do gênero, em face da ilegitimidade da Anatel para compor o polo passivo da demanda.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
