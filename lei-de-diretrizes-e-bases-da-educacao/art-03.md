@@ -10,3 +10,4 @@ VIII - gestão democrática do ensino público, na forma desta Lei e da legisla�
 IX - garantia de padrão de qualidade;
 X - valorização da experiência extra-escolar;
 XI - vinculação entre a educação escolar, o trabalho e as práticas sociais.
+XII - consideração com a diversidade étnico-racial.
