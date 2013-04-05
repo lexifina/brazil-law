@@ -1,0 +1,7 @@
+Solução de Consulta Diana/SRRF07 nº 13, de 18 de março de 2013
+ASSUNTO: Classificação de Mercadorias
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Conjunto feminino, infanto juvenil, composto de um vestido curto e uma calcinha, não se caracteriza como "sortido" nos termos da RGI 3 "b", e também não atende as condições para ser classificado como conjunto da posição 62.04. Cada peça deve ser classificada separadamente.
+Item 1 - vestido curto em tecido plano com 100% de fibras sintéticas de poliéster, tamanhos 2, 3 e 4 anos. - CÓDIGO NCM:6204.43.00.
+Item 2 - calcinha em tecido plano com 100% de fibras sintéticas de poliéster, tamanhos 2, 3 e 4 anos - CÓDIGO NCM: 6208.92.00.
+DISPOSITIVOS LEGAIS: Item 1 - RGI 1(Texto da posição 62.04) e RGI 6 (Textos das subposições 6204.4 e 6204.43); Item 2 - RGI 1(Texto da posição 62.08) e RGI 6 (Textos das subposições 6208.9 e 6208.92), da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011.
