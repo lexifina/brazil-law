@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. INEXISTÊNCIA. INTERRUPÇÃO NO FORNECIMENTO DE ENERGIA ELÉTRICA. HOSPITAL PRIVADO CONVENIADO COM O SUS. INVIABILIDADE. PREJUIZO AO INTERESSE DA COLETIVIDADE. SUPREMACIA DO PRINCÍPIO DA CONTINUIDADE DO SERVIÇO PÚBLICO. IMPROCEDÊNCIA.1. A interpretação da legislação atinente à prestação de serviço de fornecimento de energia elétrica, em especial à possibilidade da interrupção do mesmo em função do inadimplemento do usuário, deve ser relativizada diante dos interesses jurídicos maiores a merecerem tutela em nosso ordenamento, tais como o direito à vida e à saúde. 2. Tratando-se de hospital conveniado com o SUS, impõe-se a vedação ao corte de energia elétrica, levando em consideração as repercussões que a medida acarretariam à coletividade e, ainda, a possibilidade de se reclamar o débito através das vias judiciais ordinárias, o que afasta o enriquecimento indevido da usuária devedora.3. À unanimidade de votos, julgou-se improcedente a ação rescisória” (fl. 554).
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 2º; 5º, I; 21, XII, “b”; 37, caput e XXI; 170 e 175 do texto constitucional.
+    Decido.
+    No caso, a ora recorrente interpôs ação rescisória visando desconstituir sentença que impediu o corte do fornecimento de energia elétrica do recorrido, hospital particular conveniado ao SUS, mesmo em caso de inadimplemento, ao argumento de teria sido violada literal disposição de lei.
+    O Tribunal de origem, interpretando a legislação infraconstitucional aplicável ao caso, julgou improcedente a referida ação rescisória por entender que não teria ocorrido afronta a literal dispositivo legal.
+    Com efeito, verifico que o Tribunal a quo examinou a controvérsia à luz da legislação infraconstitucional (Leis 9.427/96, 8.987/95, Resolução 456 da ANEEL e CPC). A ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária.
+    Nesse sentido, confiram-se: ARE-ED 693.737, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 25.3.2013; RE-AgR 689.777, Rel. Min. Rosa Weber, Primeira Turma, DJe 1.4.2013;
+    Além disso, acrescente-se que é pacífica a jurisprudência desta Corte no sentido de que inviável a interposição de recurso extraordinário para discutir a admissibilidade da ação rescisória por tratar-se de matéria de índole infraconstitucional. Confira-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CABIMENTO DE AÇÃO RESCISÓRIA. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA AO INCISO IX DO ART. 93 DA CONSTITUIÇÃO FEDERAL. INSUBSISTÊNCIA. 1. A questão alusiva ao cabimento de ação rescisória se enquadra no âmbito processual. 2. No caso, o acórdão recorrido está devidamente fundamentado. Pelo que não há falar em ofensa à Magna Carta de 1988. 3. Agravo regimental desprovido.”
+(AI-AgR 594.821, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 23.2.2011)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CABIMENTO DE AÇÃO RESCISÓRIA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI-AgR 840.932, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 26.5.2011).
+    Ante o exposto, nego provimento ao agravo de instrumento (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 5 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
