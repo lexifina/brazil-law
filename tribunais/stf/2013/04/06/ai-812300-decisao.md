@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 40, § 2º, 61, § 1º, I, 167, I e II, e 169, § 1º, I e II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Servidor público militar. Aposentadoria. 4. O Tribunal de origem consignou que o servidor preenchia os requisitos legais para a concessão da aposentadoria. 5. Necessário rever a interpretação conferida pelo acórdão recorrido à legislação local aplicável ao caso (Lei estadual 3.808/81), bem como revolver o conjunto fático-probatório. Óbices previstos nas Súmulas 280 e 279. 6. Inaplicabilidade da vedação constante no art. 40, § 2º, CF, aos servidores públicos militares. O art. 40, § 2º, da CF se destina aos civis titulares de cargo efetivo. A Constituição Federal reservou regramento próprio para os servidores públicos militares (art. 42, § 1º, CF), o qual não abrange o mencionado art. 40, § 2º, da CF. 7. Ausência de argumentos capazes de infirmar a decisão agravada. 8. Agravo regimental a que se nega provimento.” (RE 534.323-AgR/PI, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 05.9.2012.)
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“Para simples reexame de prova não cabe recurso extraordinário.”).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 06 de maio de 2013.
+Ministra Rosa Weber
+Relatora
