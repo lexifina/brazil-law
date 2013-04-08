@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1342, de 5 de abril de 2013
+Dispõe sobre o tratamento tributário do aporte de recursos em favor do parceiro privado realizado nos termos do § 2º do art. 6º da Lei nº 11.079, de 30 de dezembro de 2004.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 6º da Lei nº 11.079, de 30 de dezembro de 2004, e nos arts. 15 a 17 da Lei nº 11.941, de 27 de maio de 2009, resolve:
