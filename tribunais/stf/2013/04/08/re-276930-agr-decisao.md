@@ -1,0 +1,15 @@
+DECISÃO: Trata-se de recurso de agravo interposto pela União Federal (fls. 296/302) contra decisões que homologaram os pedidos de renúncia ao direito sobre o qual se funda a ação, formulados por Fair Corretora de Câmbio e Valores Mobiliários Ltda. (fls. 279/280 e 285), e por Doria e Atherino S/A Corretora de Câmbio e Valores Mobiliários (fls. 283/284 e 286).
+    Cabe registrar, desde logo, que, da decisão de fls. 281, foi regularmente intimada a União (fls. 290/291), que deixou transcorrer, “in albis”, o prazo legal para a oportuna interposição do pertinente recurso. Desse modo, vê-se que referido ato decisório já transitou em julgado (certidão a fls. 292), nada mais havendo a prover na presente causa em relação à homologação do pedido de renúncia deduzido por Fair Corretora de Câmbio e Valores Mobiliários Ltda..
+    De outro lado, no que concerne à decisão de fls. 288, assiste razão à parte agravante. Sendo assim, reconsidero a decisão que homologou o pedido de renúncia ao direito sobre o qual se funda a ação, formulado por Doria e Atherino S/A Corretora de Câmbio e Valores Mobiliários, eis que os pedidos de fls. 283 e 284 foram deduzidos em momento posterior à decisão por mim proferida a fls. 267/269.
+    Com efeito, a colenda Primeira Turma desta Suprema Corte, ao julgar o RE 257.676-ED/RJ, Rel. Min. ELLEN GRACIE, firmou entendimento que torna acolhível a pretensão recursal de fls. 296/302, tempestivamente deduzida pela União:
+    “PEDIDO DE DESISTÊNCIA DA AÇÃO E RENÚNCIA ÀS ALEGAÇÕES DE DIREITO EM QUE ELA SE FUNDA. APRESENTAÇÃO APÓS O JULGAMENTO DO RECURSO EXTRAORDINÁRIO, PORÉM ANTES DE PUBLICADA A RESPECTIVA DECISÃO. INVIABILIDADE DE SUA HOMOLOGAÇÃO.
+    1. Não há omissão na decisão embargada, que negou seguimento ao recurso extraordinário, porquanto impossível antever que dois meses mais tarde seria aviado pleito de desistência da ação e renúncia ao direito em que ela se funda. A publicação, embora tardia, não altera esta ordem lógica. O julgador define a controvérsia como se encontra posta no momento da decisão, após o que não lhe é dado inovar. A publicação respectiva apenas dá publicidade ao que foi decidido, e abre prazo para os recursos cabíveis.
+    2. Ademais, a desistência não conta com expressa concordância da parte contrária, nos termos do art. 267, § 4º do CPC.
+    3. Embargos de declaração rejeitados.”
+    Cumpre ressaltar, por necessário, que esse entendimento vem sendo observado por ambas as Turmas do Supremo Tribunal Federal (RTJ 196/649, Rel. Min. CEZAR PELUSO – RE 522.395-AgR-ED-AgR/RJ, Rel. Min. CÁRMEN LÚCIA – RE 602.536-AgR-AgR/PE, Rel. Min. RICARDO LEWANDOWSKI, v.g.).
+    Sendo assim, e pelas razões expostas, conheço, em parte, do recurso de agravo de fls. 296/302, para dar-lhe parcial provimento, em ordem a reconsiderar, apenas, a decisão de fls. 288.
+    2. Após, voltem-me conclusos os presentes autos para julgamento do recurso de fls. 272/275.
+    Publique-se.
+    Brasília, 08 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
