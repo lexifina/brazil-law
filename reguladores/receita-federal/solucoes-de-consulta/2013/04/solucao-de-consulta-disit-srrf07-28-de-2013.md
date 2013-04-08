@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF07 nº 28, de 14 de março de 2013
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL EMENTA: BASE DE CÁLCULO. EXECUÇÃO DE OBRAS COM FORNECIMENTO DE MATERIAL E PRESTAÇÃO DE SERVIÇOS. RECEITAS DAS ATIVIDADES. PERCENTUAIS. ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO PRESUMIDO. EXECUÇÃO DE OBRAS COM FORNECIMENTO DE MATERIAL E PRESTAÇÃO DE SERVIÇOS. RECEITAS DAS ATIVIDADES. PERCENTUAIS.
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+EMENTA: BASE DE CÁLCULO. EXECUÇÃO DE OBRAS COM FORNECIMENTO DE MATERIAL E PRESTAÇÃO DE SERVIÇOS. RECEITAS DAS ATIVIDADES. PERCENTUAIS. A base de cálculo da contribuição social sobre o lucro líquido da pessoa jurídica dedicada à execução de obras, para as quais fornece o material necessário, e à prestação de serviços de conservação e limpeza corresponde a 12% (doze por cento) e 32% (trinta e dois por cento), respectivamente, da receita de cada uma destas atividades.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 20.
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO PRESUMIDO. EXECUÇÃO DE OBRAS COM FORNECIMENTO DE MATERIAL E PRESTAÇÃO DE SERVIÇOS. RECEITAS DAS ATIVIDADES. PERCENTUAIS. A pessoa jurídica dedicada à execução de obras, para as quais fornece o material necessário, e à prestação de serviços de conservação e limpeza deve determinar o lucro presumido mediante a aplicação dos percentuais de 8% (oito por cento) e 32% (trinta e dois por cento), respectivamente, sobre a receita de cada uma destas atividades.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, caput, § 1º, inciso III, e § 2º.
