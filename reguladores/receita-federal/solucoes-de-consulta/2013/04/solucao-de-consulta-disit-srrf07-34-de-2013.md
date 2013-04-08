@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF07 nº 34, de 20 de março de 2013
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: PROVENTOS. PRÊMIOS. RESSEGURO. RETROCESSÃO DE SEGURO. INCIDÊNCIA DO IMPOSTO. MOMENTO. A incidência do imposto de renda na fonte ocorre no momento em que se realiza o pagamento, a entrega, o emprego ou a remessa para o exterior de qualquer provento, de prêmio de resseguro e de retrocessão de seguro inclusive, ou no momento em que se disponibiliza o crédito a ele relativo. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999 (RIR/1999), art. 685.
+[arquivo anexo: SC SRRF07-Disit nº 34 - 2013.pdf]
