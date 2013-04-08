@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 30, de 20 de março de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: RETENÇÃO 11%. CESSÃO DE MÃO-DE-OBRA.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: RETENÇÃO 11%. CESSÃO DE MÃO-DE-OBRA. A disponibilização de trabalhadores para alocação em embarcação afretada pela empresa contratante (UNIDADE), utilizada na perfuração e/ou completação e/ou avaliação e/ou manutenção de poços de petróleo, a fim de que esses executem serviços contínuos de operação de equipamentos, bem como serviços de manutenção, limpeza e armazenagem, além de quaisquer outros necessários ao cumprimento do objeto do contrato, subsume-se à hipótese descrita no §1º, do art. 219, do RPS, restando acertada a incidência da retenção relativamente àquelas atividades efetivamente prestadas que possam ser encontradas dentre as listadas no §2º do mesmo artigo.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31, caput e §§3º e 4º; RPS, aprovado pelo Dec. nº 3.048, de 1999, art. 219, §§ 1º e 2º; IN RFB nº 971, de 2009, arts. 118.
