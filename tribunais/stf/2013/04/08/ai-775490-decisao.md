@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 20, e 53, II e III, do Ato das Disposições Constitucionais Transitórias - ADCT.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos suscitados. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. FILHA DE EX- COMBATENTE. PENSÃO ESPECIAL. REGÊNCIA. LEGISLAÇÃO VIGENTE À DATA DO ÓBITO DO INSTITUIDOR. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. ‘O direito à pensão de ex-combatente é regido pelas normas legais em vigor à data do evento morte. Tratando-se de reversão do benefício à filha mulher, em razão do falecimento da própria mãe que a vinha recebendo, consideram-se não os preceitos em vigor quando do óbito desta última, mas do primeiro, ou seja, do ex-combatente’ (MS 21.707/DF, Redator para o acórdão o Ministro Marco Aurélio, Pleno DJ de 22.09.95). No mesmo sentido: AI 537.651-AgR, Relator o Ministro Eros Grau, Primeira Turma, DJ de 11.11.05; AI 724.458-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ de 1º.10.10. 2. In casu, o acórdão originalmente recorrido assentou que: ‘PENSÃO DE EX-COMBATENTE. REVERSÃO DO BENEFÍCIO. FILHA MAIOR DE 21 ANOS, EM DECORRÊNCIA DO ÓBITO DA MÃE OCORRIDO ANTES DA LEI Nº 8.059/90. A Lei nº 8.059 de 04 de julho de 1990, que regulamentou o artigo 53 do ADCT, estabelece, em seu artigo 5º, III, as condições para a persecução do benefício. A autora é maior de 21 anos e, por isso, não faz jus à pensão aumentada. No que concerne à assistência médico-hospitalar gratuita, de que trata o art. 53, IV, do ADCT, a sentença que a concedeu é mantida. Sentença reformada. Apelação e remessa necessária providas em parte.’ 3. Agravo regimental a que se nega provimento.” (RE 638.227-AgR/RJ, Rel. Min. Luiz Fux, 1ª Turma, DJe 09.11.2012.)
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 08 de abril de 2013.
+Ministra Rosa Weber
+Relatora
