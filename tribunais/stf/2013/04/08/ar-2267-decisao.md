@@ -1,0 +1,24 @@
+DECISÃO: Trata-se de ação rescisória que, promovida com fundamento no inciso V do art. 485 do CPC, tem por finalidade desconstituir decisão irrecorrível emanada desta Corte, proferida pelo eminente Ministro MARCO AURÉLIO, no julgamento do RE 591.259/SP.
+    A decisão rescindenda tem o seguinte conteúdo:
+“RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS – INVIABILIDADE.
+    1. O Tribunal de Justiça do Estado de São Paulo proferiu decisão assim sintetizada (folha 440):
+    ‘Cobrança de indenização por parte do segurado junto à seguradora. Lapso prescricional de um ano a contar da data do conhecimento da negativa de pagamento. Prazo para propositura da ação ultrapassou em muito. Prescrição configurada. Ação penal não tem interferência na suspensão, ou interrupção da prescrição. Dano moral não caracterizado. Apelo desprovido’.
+    2. O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    Este recurso somente serve à sobrecarga da máquina judiciária, ocupando espaço que deveria estar sendo utilizado no exame de outro processo.
+    3. Nego seguimento ao extraordinário.” (grifei)
+    Como se sabe, o Supremo Tribunal Federal apenas dispõe de competência originária para processar e julgar as ações rescisórias, quando estas forem promovidas contra decisões que, emanadas desta Corte, hajam examinado o próprio fundo da controvérsia.
+    O exame da decisão rescindenda, no entanto, claramente evidencia que o Supremo Tribunal Federal, na espécie em análise, não apreciou a questão constitucional controvertida, deixando, por isso mesmo, por razões de ordem estritamente formal (situação de ofensa meramente reflexa ao texto da Constituição e impossibilidade de inovação em sede recursal), de julgar o mérito da causa.
+    Vê-se, pois, ante a ocorrência de tal circunstância – que assume indiscutível relevo jurídico-processual no contexto da presente ação rescisória – que a decisão em referência não se ajusta ao que dispõe o art. 485 do CPC, que exige, para efeito de ajuizamento da ação autônoma de impugnação, que o ato rescindendo se qualifique como pronunciamento jurisdicional que tenha efetivamente julgado o fundo da controvérsia de direito material (RISTF, art. 259).
+    Por tal razão, o Supremo Tribunal Federal – com apoio no magistério da doutrina (PONTES DE MIRANDA, “Tratado da Ação Rescisória das Sentenças e de outras decisões”, p. 481, § 43, 5ª ed., 1976, Forense; VICENTE GRECO FILHO, “Direito Processual Civil Brasileiro”, vol. 2/375, 4ª ed., 1989, Saraiva; JOSÉ CARLOS BARBOSA MOREIRA, “Comentários ao Código de Processo Civil”, vol. V/112-113 e 199, itens ns. 69 e 121, 8ª ed., 1999, Forense, v.g.) – tem reiteradamente proclamado não caber ação rescisória contra acórdão ou decisão desta Corte, que, sem qualquer exame do mérito da causa, tenha deixado de conhecer do recurso extraordinário, por razões eminentemente formais (Súmula 249/STF – RTJ 87/776 – RTJ 105/473 – RTJ 107/528 – RTJ 112/29 – RTJ 114/471 – RTJ 117/461 – RTJ 119/46 – RTJ 121/898 – RTJ 131/1066 – Súmula 515/STF – AR 1.474/PE, Rel. Min. CELSO DE MELLO, v.g.):
+    “Em tema de ação rescisória, é essencial que o acórdão rescindendo, proferido pelo Supremo Tribunal Federal, tenha efetivamente apreciado a questão federal controvertida, quer acolhendo-a, quer repelindo-a. É essa circunstância que define, para efeito do procedimento rescisório, a competência originária do Supremo Tribunal Federal (...).”
+    (RTJ 148/703, Rel. p/ o acórdão Min. CELSO DE MELLO)
+    “AÇÃO RESCISÓRIA E DECISÃO MONOCRÁTICA DO RELATOR.
+    - Não cabe ação rescisória contra decisão proferida por Ministro-Relator, quando esta - por não haver apreciado o mérito do pedido - apresenta-se desvestida de conteúdo sentencial. Precedentes.”
+    (RTJ 176/99-100, Rel. Min. CELSO DE MELLO, Pleno)
+    Sendo assim, e tendo em consideração as razões expostas, não conheço da presente ação rescisória, por falecer ao Supremo Tribunal Federal competência originária para processá-la e julgá-la.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 18 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
