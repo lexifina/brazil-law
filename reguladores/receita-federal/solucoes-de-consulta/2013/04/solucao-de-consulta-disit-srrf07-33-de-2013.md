@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 33, de 20 de março de 2013
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO REAL. FATO GERADOR. JUROS. DEPÓSITO JUDICIAL.
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO REAL. FATO GERADOR. JUROS. DEPÓSITO JUDICIAL. Até a decisão final da lide, a importância correspondente aos juros incidentes sobre o valor do depósito judicial agrega-se ao principal, como um crédito meramente escritural vinculado ao juízo, com duvidosas cargas de certeza e liquidez e de nenhuma exigibilidade, revestindo-se de mera expectativa de direito, razão pela qual não enseja a ocorrência do fato gerador do imposto, uma vez que, enquanto tal, encontra-se juridicamente indisponível para o depositante (ao contrário do pressuposto pelo art. 43 do Código Tributário Nacional), não havendo comando para que se possa entendê-la como renda tributável, até porque, antes da decisão judicial, verifica-se indefinido o seu titular.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 (CTN), art. 43.
