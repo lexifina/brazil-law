@@ -1,0 +1,8 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, no julgamento do AI 664.567-QO, rel. min. Sepúlveda Pertence, estabeleceu que “(...) a exigência da demonstração formal e fundamentada no recurso extraordinário da repercussão geral das questões constitucionais discutidas só incide quando a intimação do acórdão recorrido tenha ocorrido a partir de 3.5.2007, data da publicação da Emenda Regimental nº 21, de 30 de abril de 2007.” (DJ de 06.09.2007).
+    Verifico que a intimação da recorrente ocorreu após 3.5.2007 e a interposição do recurso extraordinário não se fez acompanhar da devida demonstração, nas razões recursais, da existência de repercussão geral, o que inviabiliza o apelo extraordinário.
+    Nesse sentido: ARE 667.043-AgR (relator-presidente min. Ayres Britto, Plenário, DJe de 09.08.2012), ARE 692.735-AgR (rel. min. Celso de Mello, Segunda Turma, DJe de 24.08.2012), AI 821.305-AgR (rel. min. Gilmar Mendes, Segunda Turma, DJe de 15.08.2011), AI 780.477-AgR (de minha relatoria, Segunda Turma, DJe de 08.03.2012), ARE 654.250-ED (rel. min. Ricardo Lewandowski, Segunda Turma, DJe de 11.10.2011), AI 853.702-AgR (rel. min. Cármen Lúcia, Primeira Turma, DJe de 13.03.2012), RE 629.255-AgR (rel. min. Dias Toffoli, Primeira Turma, DJe de 10.10.2012), RE 614.223-AgR (rel. min. Luiz Fux, Primeira Turma, DJe de 15.09.2011), ARE 683.660-AgR (rel. min. Rosa Weber, Primeira Turma, DJe de 18.09.2012) e ARE 654.243 (rel. min. Marco Aurélio, DJe de 03.10.2011).
+    Do exposto, nego seguimento ao agravo.
+    Publique-se.
+    Brasília, 9 de abril de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
