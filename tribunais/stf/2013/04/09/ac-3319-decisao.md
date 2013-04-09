@@ -1,0 +1,28 @@
+Decisão: Trata-se de ação cautelar ajuizada com o objetivo de conceder efeito suspensivo a recurso extraordinário interposto contra acórdão proferido pela 2ª Turma do Tribunal Regional Federal da 5ª Região e já admitido por decisão da Vice-Presidência da referida corte, publicada em 7.2.2013.
+    O recorrente alega ter prestado vestibular para ingressar no curso de medicina da Universidade Federal de Sergipe e que obteria o êxito almejado não fosse o regramento introduzido pela Resolução 80/2008 da referida instituição.
+    Segunda a sistemática trazida pela Resolução 80/2008, 50% das vagas de todos os cursos oferecidos pela Universidade serão destinados a alunos oriundos de escolas públicas e, desse percentual, 70% das vagas deverão ser reservadas aos alunos autodeclarados negros, pardos ou índios.
+    Alega que a Universidade Federal de Sergipe ofereceu 80 (oitenta) vagas para o curso de medicina e que o recorrente foi aprovado em 48º (quadragésimo oitavo) lugar, com pontuação superior à alcançada pelos alunos beneficiários do sistema de cotas.
+    O juízo de primeira instância julgou procedente o pleito do autor, de modo a lhe garantir o direito de se matricular e iniciar o curso para o qual prestara vestibular.
+    A 2ª Turma do Tribunal Regional Federal da 5ª Região deu provimento ao recurso de apelação interposto pela Universidade e garantiu a higidez do sistema de cotas da referida instituição.
+    Contra esse acórdão foi interposto o recurso extraordinário, já admitido pela Vice-Presidência do TRF da 5ª Região, ao qual se pretende conceder efeito suspensivo por meio da presente ação cautelar, objetivando-se garantir a matrícula regular do autor no semestre letivo que se inicia.
+    Decido.
+    Na cautelar, o autor requer a concessão de efeito suspensivo ao recurso extraordinário sob a alegação de que o fumus boni juris estaria presente, na medida em que o sistema de cotas instituído pela Universidade Federal de Sergipe por meio da Resolução 80/2008 ofenderia o princípio da isonomia, previsto no art. 5º, inciso II, bem como o critério de capacidade individual disposto pelo art. 208, V, ambos da Constituição Federal de 1988.
+    O periculum in mora residiria no fato de que a eventual demora na apreciação do extraordinário pode inviabilizar a continuidade dos estudos do autor que, no mínimo, perderia a matrícula neste semestre e nos subsequentes, enquanto não julgado o recurso por esta Corte, atrasando a conclusão de seu curso superior.
+    No caso em apreço, não vislumbro a presença dos requisitos autorizadores da concessão de medida cautelar. O Tribunal Regional Federal da 5ª Região decidiu a questão e já se posicionou sobre a constitucionalidade da Resolução 80/2008, editada pela Universidade Federal de Sergipe. Confira-se a ementa do acórdão recorrido por meio do extraordinário ao qual se pretende atribuir efeito suspensivo:
+    “CONSTITUCIONAL. ADMINISTRATIVO. ENSINO SUPERIOR. SISTEMA DE COTAS. COMPATIBILIDADE COM O TEXTO CONSTITUCIONAL. AUTONOMIA DIDÁTICA E CIENTÍFICA. IMPOSSIBILIDADE DE REANÁLISE PELO PODER JUDICIÁRIO.
+    - A Constituição Federal, em seu art.207, assegura às universidade autonomia didático-científica, possibilitando, assim, o poder de decidirem sobre os requisitos para ingresso em seus quadros.
+    - Efetivando tal autonomia, dispõe o art. 51 da Lei n.º 9.394/96, que estabelece as diretrizes bases da educação nacional: As instituições de educação superior credenciadas como universidades, ao deliberar sobre os critérios e normas de seleção e admissão de estudantes, levarão em conta os efeitos desses critérios sobre a orientação do ensino médio, articulando-os com os órgãos normativos dos sistemas de ensino.
+    - Cabe ao Poder Judiciário, neste contexto, apenas o exame da legalidade dos atos admissionais para ingresso no ensino superior, não cabendo ao mesmo intervir nos critérios adotados pelas universidades para tais admissões.
+    - Ademais, o Pleno desta Corte na Sessão de 29.06.2011 rejeitou a Declaração de Inconstitucionalidade da Resolução nº 80/2008 da Universidade Federal de Sergipe, ora impugnada. (Apelreex nº 12664-SE. Rel. Des. Federal Edílson Nobre. Relator para Acórdão: Desembargador Federal Rubens Canuto – Convocado, por maioria. Publ. Dje 11/07/2011).
+    - Precedentes: MC 00054552920104058500, Desembargador Federal Francisco Barros Dias, TRF5 – Segunda Turma, 17/03/2011 e PROCESSO: 00035232420104058300, AC508256/PE, DESEMBARGADOR FEDERAL PAULO GADELHA, Segunda Turma, JULGAMENTO: 13/09/2011, PUBLICAÇÃO: DJE 22/09/2011 – Página 367.
+    - Apelações e remessa obrigatória providas”.
+    Esse posicionamento do TRF da 5ª Região está em consonância com a jurisprudência recente do Supremo Tribunal Federal, expressa, por exemplo, no julgamento da ADPF 186, Rel. Min. Ricardo Lewandowski, julgada em 26.4.2012.
+    Constatada a harmonia entre o acórdão objeto do recurso extraordinário, ao qual se pretende dar efeito suspensivo por meio da presente ação cautelar, e a jurisprudência desta Corte, restaria evidenciada não apenas a ausência dos requisitos autorizadores da concessão da medida cautelar pleiteada, mas também a provável inviabilidade do próprio recurso extraordinário.
+    Desse modo, em razão da relação de dependência entre esta ação cautelar e a causa principal, tenho por insuscetível de acolhimento a presente pretensão.
+    Ante o exposto, nego seguimento à presente ação cautelar inominada, restando prejudicado o exame do pedido de medida liminar.
+    Arquivem-se os autos.
+    Publique-se.
+    Brasília, 9 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
