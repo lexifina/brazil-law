@@ -1,0 +1,18 @@
+CONSTITUCIONAL E PROCESSUAL PENAL. RECLAMAÇÃO. ALEGAÇÃO DE AFRONTA À SÚMULA VINCULANTE 14. SUPERVENIENTE DISPONIBILIZAÇÃO DO ACESSO DO PATRONO DO RECLAMANTE AOS AUTOS DO INQUÉRITO POLICIAL MILITAR. INEXISTÊNCIA DE INTERESSE JURÍDICO LEGÍTIMO DA PARTE RECLAMANTE. PERDA SUPERVENIENTE DO OBJETO. PEDIDO PREJUDICADO.
+    Decisão: Trata-se de reclamação, com pedido de medida liminar, ajuizada em 21/02/2013 por Fernando de Lima Jardim, bombeiro militar, em face do Encarregado-Instrutor do Comando de Correições e Disciplina do Corpo de Bombeiros Militar do Estado de Goiás que teria negado acesso aos elementos de prova colhidos nos autos do IPM 003/2012/CG/CBMGO “e não obstante deseja submeter o Reclamante a Interrogatório sem que lhe franqueie acesso a todos os elementos já colhidos, em especial depoimentos de testemunhas” (eDoc. 1, fl. 1).
+    O reclamante pede, ao final, que se julgue procedente o pedido “para que a Autoridade Coatora se digne respeitar a autoridade do Enunciado 14 da Súmula Vinculante do Excelso Supremo Tribunal Federal, permitindo acesso aos elementos referidos, garantindo seus direitos constitucionais” (eDoc. 1, fl. 9).
+    Tendo em vista o teor do despacho anexado à fl. 3 da inicial da reclamação, no sentido deferir o acesso do patrono do reclamante às provas produzidas e ainda não juntadas ao inquérito policial militar na data de 21/02/2013, determinei que fosse oficiado à autoridade reclamada requerendo informações sobre o cumprimento desta diligência, as quais foram prestadas (eDocs. 10 e 15).
+    Em 25/02/2013, o reclamante assevera que não lhe fora fornecida cópia do Relatório do IPM (eDoc. 13).
+    É o relatório. Decido.
+    Preliminarmente, destaco das informações prestadas pela autoridade reclamada, mediante o Ofício nº 126, de 05/03/2013:
+    “(…) informamos a Vossa Excelência, em resposta ao Ofício nº 1558/13 – STF, que fora deferido acesso ao patrono do reclamante a todo o conteúdo do Inquérito Policial Militar – IPM 003/2012 – CG, cumprindo diligentemente, a Súmula 14 do STF e demais Normas, ante o teor da documentação anexa.
+    (…)
+    Salientamos que cópias das laudas n. 280 a 353, correspondentes à juntada da documentação produzida até àquela presente data foram colocadas à disposição dos doutos procuradores em 21/02/2013, entretanto, os mesmos não foram buscar, preferindo, formalizar para retirar as cópias requeridas somente no dia 25/02/2013, (anexo-6). Finalizando as diligências e encerrado o Inquérito Policial Militar – IPM 003/2012-CG, o Relatório do encarregado, laudas n. 354 à 385 foram entregues ao procurador do reclamante em 04/03/2013, (anexo-7).”  (eDoc. 9, fl. 3). (grifo nosso)
+    Saliente-se, ainda, que às fls. 10 e 11 das informações referidas (Anexos 6 e 7, eDoc. 9), constam, respectivamente, recibos, com datas de 25/02/2013 e 04/03/2013, vale dizer, posteriores ao ajuizamento da presente reclamação, no sentido de que o patrono do reclamante recebera “cópia do RELATÓRIO DO IPM n. 03/2012-CG, de toda documentação reproduzida até a data de 21/02/2013, dos autos em referência, conforme solicitado”, bem como “cópia do RELATÓRIO DO IPM n. 003/2012-CG, laudas de n. 354 à 385”.
+    Assim, diante do pedido formulado nesta reclamação e, principalmente, em face da superveniente disponibilização do acesso do patrono do reclamante aos autos do citado inquérito policial militar, não mais subsiste interesse jurídico legítimo da parte reclamante a ser amparado na presente via.
+    Ex positis, julgo prejudicada a presente reclamação, diante da perda superveniente de seu objeto (art. 21, IX, do RI/STF).
+    Publique-se.
+    Brasília, 9 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
