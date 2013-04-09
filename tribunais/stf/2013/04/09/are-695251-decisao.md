@@ -1,0 +1,16 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário criminal.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação aos arts. 1º, III e 5º, LXVII, da mesma Carta.
+    O agravo não merece acolhida.
+    É que o recorrente, apesar de sustentar a existência de repercussão geral no apelo extremo, não demonstrou as razões pelas quais entende que a questão constitucional versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa, limitando-se a afirmar que “a discussão sobre a inconstitucionalidade do artigo 168-A, do Código Penal, ultrapassa meros interesses subjetivos da causa, sendo de extrema relevância social, política e jurídica, já que se trata de lei penal incriminadora”.
+    Ora, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I – O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II – A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III – Agravo regimental improvido”.
+    Ainda que assim não fosse, o acórdão impugnado está em perfeita consonância com a jurisprudência desta Corte, assentada no sentido de que não há falar em prisão civil por dívida nas hipóteses de condenação por apropriação indébita previdenciária. A corroborar essa assertiva:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA CRIMINAL. CRIME DE APROPRIAÇÃO INDÉBITA PREVIDENCIÁRIA. ALEGAÇÃO DE PRISÃO CIVIL POR DÍVIDA. IMPROCEDÊNCIA. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. INOVAÇÃO DAS RAZÕES RECURSAIS. IMPOSSIBILIDADE. INCIDÊNCIA A SÚMULA 279/STF. 1. O acórdão recorrido afina com a jurisprudência desta nossa Corte de que não que existe nenhuma relação entre o crime de apropriação indébita previdenciária e a prisão civil por dívida. Precedentes: HC 91.704, sob a relatoria do ministro Joaquim Barbosa; AI 366.390-AgR, sob a relatoria do ministro Nelson Jobim; AI 675.619-AgR, sob a relatoria da ministra Cármen Lúcia; e RE 391.996-AgR, sob a relatoria da ministra Ellen Gracie. 2. As questões suscitadas no agravo regimental não fizeram parte das razões do recurso extraordinário, constituindo-se em inovações insuscetíveis de serem apreciadas nesta oportunidade. 3. Agravo regimental desprovido” (AI 800.589 AgR/SC, Rel. Min. Ayres Britto).
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 9 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
