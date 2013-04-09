@@ -1,0 +1,15 @@
+DECISÃO
+SERVIDOR – REAJUSTE – VINCULAÇÃO – DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO TRIBUNAL DE ORIGEM – HARMONIA COM A CONSTITUIÇÃO FEDERAL – RECURSO EXTRAORDINÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. Eis a síntese do acórdão prolatado pelo Tribunal de Justiça do Estado do Rio Grande do Norte (folhas 893 e 894):
+    EMENTA: PROCESSUAL CIVIL, ADMINISTRATIVO E CONSTITUCIONAL. SENTENÇA CONDENATÓRIA. ARGÜIÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 4º DA LEI MUNICIPAL Nº 4.108/92 SUSCITADA PELO MUNICÍPIO DO NATAL. VEDAÇÃO CONSTITUCIONAL DE VINCULAÇÃO DE CARREIRAS DISTINTAS E NÃO DE NÍVEIS DE CARREIRA. REJEIÇÃO. ARGÜIÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO ART. 15 DA LEI MUNICIPAL Nº 4.108/92 SUSCITADA PELA PROCURADORIA GERAL DE JUSTIÇA. ACOLHIMENTO. CONTROLE DIFUSO DA CONSTITUCIONALIDADE. AFRONTA AO ART. 37, XIII, DA CF/88. PROCEDÊNCIA DA ARGÜIÇÃO.
+    1. A instituição, pelo art. 4º da Lei Municipal nº 4.108/92, de que qualquer aumento conferido a um dos níveis será necessariamente atribuído aos demais, a fim de conservar o percentual, não confronta com o comando constitucional previsto no art. 37, VIII, da Carta Magna, por vedar este apenas a vinculação entre carreiras distintas, e não entre níveis de uma mesma carreira, como no caso dos autos.
+    2. O art. 15 da Lei Municipal n° 4.108/92, por sua vez, vincula o aumento de vencimentos entre carreiras distintas dentro do serviço público municipal, o que é vedado pelo art. 37, inciso VIII, da Constituição Federal.
+    3. Rejeição da Argüição de Inconstitucionalidade do art. 4° da Lei Municipal nº 4.108/92, suscitada pelo Município de Natal.
+    4. Inconstitucionalidade, incidenter tantum, do art. 15 da Lei Municipal nº 4.108/92.
+     De fato, há manifesto descompasso entre o ato normativo contestado e o artigo 37, inciso XIII, da Carta Federal, no que este veda “a vinculação de quaisquer espécies remuneratórias para efeito de remuneração de pessoal do serviço público”, salvo exceções expressamente reveladas no próprio Diploma maior. O preceito constitucional impede reajustes automáticos ou em cadeia de vencimentos ou subsídios de agentes públicos, cuja fixação ou alteração é matéria reservada à edição de lei específica, observada a reserva de iniciativa em cada caso. Cito os acórdãos formalizados na Ação Direta de Inconstitucionalidade nº 4.154/MT, relator ministro Ricardo Lewandowski, publicado no Diário da Justiça de 17 de junho de 2010, e na Medida Cautelar na Ação Direta de Inconstitucionalidade nº 1.714/AM, relator ministro Néri da Silveira, veiculado no Diário da Justiça de 23 de abril de 1999.
+    A par desse aspecto, a vinculação entre agentes públicos de esferas distintas também acaba por implicar desrespeito à autonomia do ente federativo e inobservância à necessidade de previsão orçamentária para as despesas do Poder Público.
+    2. Ante o quadro, nego seguimento ao extraordinário interposto pelo Sindicato dos Servidores Públicos Municipais de Natal – SINSENAT.
+    3. Publiquem.
+Brasília, 9 de abril de 2013.
+Ministro MARCO AURÉLIO
+Relator
