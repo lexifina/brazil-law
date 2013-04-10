@@ -1,0 +1,48 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado pelo advogado Fábio Trad e outros em favor de Fábio Marcelo Sucolotti, apontando como autoridade coatora a Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que proveu parcialmente o REsp nº 1.134.490/MS e negou seguimento ao HC nº 265.905/MS.
+    Os impetrantes sustentam, em síntese, o constrangimento ilegal imposto ao paciente, tendo em vista que, em sede de recurso especial interposto àquela Corte, o “Eg. Superior Tribunal de Justiça (...) procedeu intimação nula da defesa e, além disto, manteve o regime inicial de cumprimento de pena no patamar mais severo previsto pela legislação, mesmo depois de ter revisto e excluído as circunstâncias judiciais do art. 59 do Código Penal para a finalidade de fixação de pena-base, desconsiderando que as mesmas circunstâncias do art. 59 foram os únicos fundamentos utilizados para a fixação do regime inicial de cumprimento de pena no regime fechado” (fl. 16 da inicial).
+    Anotam, ainda, que a questão tratada no HC nº 265.905/MS, seria “de extrema simplicidade e que dispensaria qualquer tergiversação acerca de competências, por tratar-se de matéria de ordem pública poderia (e deveria) ter sido declarado pela Corte de Origem (STJ), inclusive de ofício” (fls. 7/8 da inicial – grifos do autor).
+    Requerem o deferimento da liminar para assegurar ao paciente o cumprimento de sua pena em regime inicial semiaberto e, no mérito, pedem a concessão da ordem para, afastado o trânsito em julgado do REsp nº 1.134.490/MS , seja “determina[do] o retorno dos autos ao status quo ante e [a reabertura] do prazo para a defesa, bem como determina[da] a imediata soltura do paciente para aguardar em liberdade a formação de sua culpa” (fl. 30 da inicial). Alternativamente pedem a concessão da ordem para que seja assegurada a fixação do regime inicial semiaberto para o cumprimento de pena imposta ao paciente.
+    Examinados os autos, decido.
+    Há óbice jurídico-processual para o conhecimento do habeas corpus.
+    No que concerne o suposto constrangimento ilegal decorrente da decisão proferida no HC nº 265.905/MS, anoto que a Ministra Maria Thereza de Assis Moura, negou seguimento ao writ pelos seguintes fundamentos:
+    “Trata-se de ‘habeas corpus’, com pedido liminar, impetrado em favor de FÁBIO MARCELO SUCOLOTTI.
+    Diz a inicial que o paciente foi condenado, em primeiro grau de jurisdição, a 6 anos e 8 meses de reclusão, no regime inicial fechado, por prática descrita no art. 250, §1º, II, ‘b’ do Código Penal e, manejada apelação, não foi provida.
+    Interposto recurso especial, admitido na origem, ascendeu a esta Corte e, em 17 de outubro de 2012, proferi decisão monocrática, dando-lhe parcial provimento, apenas para reduzir a pena-base a 3 (três) anos e 6 (seis) meses. Essa decisão transitou em julgado (Resp nº 1.134.490/MS).
+    Em razão disso, vem esta impetração, alegando que o paciente sofreu cerceamento de defesa, pois a publicação da mencionada decisão proferida no especial, foi em nome de advogada (Maria de Fátima da Silva Gomes) que não mais representava o paciente, por ter expressamente renunciado aos poderes que havia recebido.
+    Afirma que, não obstante constar a expressão ‘e outros’ na intimação e não ter havido comunicação formal aos autos, da renúncia do mandato, não há como negar o prejuízo, pois a advogada, Kaline Rúbia da Silva, remanescente na defesa do paciente, acabou não tomando ciência da decisão do recurso especial, deixando transcorrer in albis o prazo para quaisquer outros recursos.
+    Diz ainda a impetração que, apesar do provimento parcial do recurso especial, teria ainda a defesa outras questões a suscitar, como por exemplo a alteração do regime inicial da pena, que não foi decidida por esta Corte.
+    Neste particular, diz que este Tribunal deveria ter fixado regime inicial mais brando, embora não tenha havido pedido expresso nesse sentido no recurso especial, porque trata-se de questão de ordem pública, que causa flagrante ilegalidade.
+    Assevera que, tendo havido a exclusão de três circunstâncias judiciais tidas por desfavoráveis, no juízo de primeiro grau, soa desarrazoado não ter sido alterado o regime inicial, pois o que o motivara (art. 59 do Código Penal) sofreu grande mudança.
+    Lembra que as circunstâncias judiciais que esta Corte utilizou para reduzir pena-base são as mesmas que dão lastro ao regime inicial que, por isso mesmo, não pode continuar a ser o fechado, justamente pelo reconhecimento de ilegalidade na primeira fase da dosimetria.
+    Pede, em liminar, seja fixado o regime semiaberto, até a decisão definitiva deste ‘writ’. No mérito, que seja declarada nula a intimação realizada por esta Corte, na publicação da decisão do recurso especial, volvendo o processo ao status quo ante e reabrindo prazo para a defesa, determinando ainda a soltura do paciente para aguardar em liberdade a formação da culpa. Alternativamente, que seja concedida esta ordem para fixar o regime inicial semiaberto.
+    Este processo veio distribuído por prevenção ao Resp nº 1.134.490/MS, já mencionado.
+    É o relatório.
+    A presente súplica é manifestamente incabível, ante a total incompetência desta Corte para dela conhecer.
+    É que, conforme asseverado pela própria impetração e isto é a realidade, a condenação transitou em julgado neste Superior Tribunal de Justiça, após o julgamento do recurso especial, provido parcialmente para alterar a pena-base.
+    Nesse contexto, não é difícil concluir que, se há alguma nulidade na publicação/intimação ou qualquer equívoco no próprio julgamento que, bem ou mal, alterou a pena, emanam essas pretensas falhas desta Corte e, pois, é a autoridade tida como coatora.
+    Se é assim, a presente impetração não pode ser aqui apresentada, porque não há previsão constitucional para que este Tribunal julgue ‘habeas corpus’ quando é ele a própria autoridade coatora.
+    Basta ler o art. 105 da Constituição Federal:
+    Art. 105. Compete ao Superior Tribunal de Justiça:
+    I - processar e julgar, originariamente:
+    a) nos crimes comuns, os Governadores dos Estados e do Distrito Federal, e, nestes e nos de responsabilidade, os desembargadores dos Tribunais de Justiça dos Estados e do Distrito Federal, os membros dos Tribunais de Contas dos Estados e do Distrito Federal, os dos Tribunais Regionais Federais, dos Tribunais Regionais Eleitorais e do Trabalho, os membros dos Conselhos ou Tribunais de Contas dos Municípios e os do Ministério Público da União que oficiem perante tribunais;
+    (...)
+    c) os habeas corpus, quando o coator ou paciente for qualquer das pessoas mencionadas na alínea ‘a’, ou quando o coator for tribunal sujeito à sua jurisdição, Ministro de Estado ou Comandante da Marinha, do Exército ou da Aeronáutica, ressalvada a competência da Justiça Eleitoral;
+    (...)
+    II - julgar, em recurso ordinário:
+    a) os ‘habeas-corpus’ decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+    Portanto, falece a esta Corte competência, tanto originária como recursal, para conhecer da presente impetração.
+    Ante o exposto, nos termos do art. 34, XVIII do Regimento Interno do Superior Tribunal de Justiça, nego seguimento a este ‘habeas corpus’.” (fls. 1/2/do anexo 15 – grifos do autor).
+    Não há o que ser censurado naquela decisão.
+    Percebe-se que a eminente relatora ao negar seguimento ao habeas corpus em questão assentou que o ato coator apontado originava-se de decisão proferida no âmbito do próprio Superior Tribunal de Justiça (REsp nº 1.134.490/MS), o que afastou a competência constitucional daquela Corte para processá-lo e julgá-lo.
+    Conclui-se, portanto, que a questão relativa à suposta nulidade na intimação defesa, não foi apreciada pelo Superior Tribunal de Justiça na decisão impugnada, o que impede a análise per saltum desta Suprema Corte, sob pena de supressão de instância: HC nº 92.264/SP, Primeira Turma, Relator o Ministro Menezes Direito, DJ de 14/12/07; HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07; HC nº 90.162/RJ, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 29/6/07; HC nº 90.312/PR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 27/4/07; e HC nº 86.997/DF, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 3/2/06, entre outros.
+    De qualquer forma, apenas para registro, anoto que, conforme declarado pelos próprios impetrantes (fl. 10 da inicial), a renúncia da advogada à qual a publicação teria sido direcionada não teria sido formalmente comunicada nos autos do REsp nº 1.134.490/MS, não havendo, portanto, que se cogitar da existência de vício processual quanto ao ato.
+    Em relação ao REsp nº 1.134.490/MS, anoto que o tema relativo à manutenção do regime mais severo para o inicial cumprimento da pena imposta ao paciente não foi analisado na decisão proferida pela Ministra Maria Thereza de Assis Moura. Portanto, a análise desse tema, deforma originária, neste ensejo, também configura verdadeira supressão de instância não admitida, na linha dos precedentes já citados.
+    Ante o exposto, nos termos dos arts. 38 da Lei nº 8.038/90 e 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Retifique-se a autuação para fazer constar também como autoridade coatora a Relatora do REsp nº 1.134.490/MS no Superior Tribunal de Justiça.
+    Publique-se.
+    Brasília, 10 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
