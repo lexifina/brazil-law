@@ -1,0 +1,34 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Sergipe ementado nos seguintes termos:
+    “MANDADO DE INJUNÇÃO. PRELIMINARES DE ILEGITIMIDADE PASSIVA AD CAUSAM E NECESSIDADE DA CITAÇÃO DO SERGIPE PREVIDÊNCIA COMO LISTISCONSORTE PASSIVO SECUNDÁRIO REJEITADAS. SERVIDOR PÚBLICO ESTADUAL – EXERCÍCIO DE ATIVIDADE INSALUBRE. APOSENTADORIA ESPECIAL. AUSÊNCIA DE PREVISÃO NA LEGISLAÇÃO ESTADUAL. DIREITO ASSEGURADO ATRAVÉS DA NOVA ORIENTAÇÃO FIRMADA NA JURISPRUDÊNCIA DO STF.
+    As preliminares suscitadas pela autoridade impetrada não se apresentam com a consistência jurídica capaz de obstaculizar o prosseguimento regular do feito, restando assim rejeitadas.
+    Apesar da omissão do legislador estadual em regular o direito do servidor público do Estado de Sergipe em ser beneficiado com a concessão da aposentadoria especial decorrente da prestação do serviço insalubre, tem este assegurado o seu direito através da aplicação supletiva do art. 57 da Lei Federal nº 8.213/91 (Regime Geral da Previdência)
+    A hodierna jurisprudência do STF, ampara a pretensão do impetrante, posto que determina sejam aplicadas, de forma supletiva, as regras previstas na legislação previdenciária de âmbito nacional. Concessão da injunção postulada. Unanimidade”. (eDOC 2)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 24º, XII e 40, § 4º, ambos insertos no texto constitucional.
+    Defende-se, em síntese, que compete privativamente a União, por meio de lei complementar, regulamentar a aposentadoria especial de servidor público. Assim requer o reconhecimento da ilegitimidade passiva do Governador de Estado e consequente extinção do feito sem julgamento de mérito.
+    Decido.
+    O recurso não merece prosperar.
+    A jurisprudência desta se firmou no sentido de que a inexistência de norma estadual que estabeleça critérios para aferição de condições especiais de trabalho não impede o julgamento do mandado de injunção, uma vez que a indefinição decorre de omissão legislativa objeto do referido writ.
+    Nesse sentido, confiram-se os seguintes julgados: MI 4.534, Rel. Min. Dias Toffoli, DJe 8.8.2012; MI 3.784, Rel. Min. Luiz Fux, DJe 15.3.2012; e o MI-AgR 1.169, Rel. Min. Cármen Lúcia, este último assim ementado:
+    “AGRAVO REGIMENTAL NO MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991.
+    1. A inexistência de norma estadual que estabeleça critérios para a aferição das condições especiais de trabalho que prejudiquem a saúde ou integridade física dos servidores públicos não impede o julgamento do mandado de injunção. A indefinição desses critérios decorre da omissão legislativa objeto do mandado de injunção.
+    2. Agravo regimental ao qual se nega provimento”.
+    Ainda sobre a matéria, esta Corte tem entendimento pacificado no sentido de que é aplicável ao caso, no que couber, o art. 57 da Lei 8.213/91, caso reconhecida omissão legislativa referente às condições para o implemento de aposentadoria especial.
+    Além disso, a jurisprudência desta Corte consolidou-se no sentido de que a autoridade administrativa responsável pelo exame de pedido de aposentadoria é competente para analisar o preenchimento dos critérios e requisitos previstos para este fim.
+    Nesse sentido, leia-se o MI 795, Rel. Min. Cármen Lúcia, DJe 22.5.2009; e, também, o MI-ED 1.286, Rel. Min. Cármen Lúcia, DJe 19.2.2010, a seguir ementados:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE LEI COMPLEMENTAR A DISCIPLINAR A MATÉRIA. NECESSIDADE DE INTEGRAÇÃO LEGISLATIVA.
+    1. Servidor público. Investigador da polícia civil do Estado de São Paulo. Alegado exercício de atividade sob condições de periculosidade e insalubridade.
+    2. Reconhecida a omissão legislativa em razão da ausência de lei complementar a definir as condições para o implemento da aposentadoria especial.
+    3. Mandado de injunção conhecido e concedido para comunicar a mora à autoridade competente e determinar a aplicação, no que couber, do art. 57 da Lei n. 8.213/91”.
+    “EMBARGOS DE DECLARAÇÃO NO MANDADO DE INJUNÇÃO. CONVERSÃO EM AGRAVO REGIMENTAL. APOSENTADORIA ESPECIAL DO SERVIDOR PÚBLICO. ARTIGO 40, § 4º, DA CONSTITUIÇÃO DA REPÚBLICA. APLICAÇÃO DO ART. 57 DA LEI N. 8.213/1991. COMPETÊNCIA DA AUTORIDADE ADMINISTRATIVA.
+    1. A autoridade administrativa responsável pelo exame do pedido de aposentadoria é competente para aferir, no caso concreto, o preenchimento de todos os requisitos para a aposentação previstos no ordenamento jurídico vigente.
+    2. Agravo regimental ao qual se nega provimento”.
+    Assim, verifica-se que o Tribunal de origem decidiu em conformidade com a jurisprudência desta Corte, tendo em vista que a concessão da ordem reconheceu a mora legislativa - diante da ausência de regulamentação no âmbito interno dos critérios para a aposentadoria especial - para determinar a análise do pedido formulado pelo ora recorrido à recorrente.
+    Ressalte-se, entretanto, no tocante à aplicabilidade do art. 57 da Lei 8.213/1991 aos casos de atividades de risco, que os MIs 833 e 844 (que tratam especificamente sobre a matéria) encontram-se pendentes de julgamento pelo Plenário desta Corte, em razão do pedido de vista pelo Min. Ayres Britto.
+    Por fim, registre-se que a jurisprudência desta Corte firmou-se no sentido de que a discussão acerca da legitimidade ad causam demanda a prévia análise da legislação infraconstitucional, no caso, a Constituição do Estado de Sergipe, o que inviabiliza o prosseguimento do recurso extraordinário quanto a este ponto, tendo em vista que a ofensa à Constituição Federal, se existente, dar-se-ia de forma reflexa. Nesse sentido, confira-se o seguinte precedente:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 587.112, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 4.6.2010)
+    Ante o exposto, dou provimento ao agravo para negar seguimento ao recurso extraordinário (arts. 21, § 1º, do RISTF e 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 10 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
