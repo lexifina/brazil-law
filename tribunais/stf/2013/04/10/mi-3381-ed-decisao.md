@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de embargos de declaração opostos pelos impetrantes, contra decisão monocrática que concedeu a ordem pleiteada, nos seguintes termos:
+    “(...) 4. Em suma, a jurisprudência do STF está assentada nas seguintes diretrizes: (a) enquanto não editada a lei complementar de que trata o § 4º do art. 40 da Constituição, os servidores públicos têm direito à aposentadoria especial de acordo com as normas do Regime Geral de Previdência Social (atualmente os arts. 57/58 da Lei 8.213/91 e arts. 64/70 do Decreto 3.048/99, ou as normas vigentes no momento da prestação da atividade em condições especiais); (b) o mandado de injunção é instrumento apto a afirmar e suprir a referida lacuna normativa, mas não para assegurar, desde logo, a própria concessão do benefício de aposentadoria especial, que deve ser requerido administrativamente; (c) o juízo de mérito, nesses casos, supõe que o impetrante comprove a existência do requerimento e do indeferimento administrativo do benefício, bem como identifique os nomes, cargos e funções dos servidores a serem beneficiados.
+    Ainda, devem ser observadas as seguintes situações específicas: (a) na verificação do interesse processual, incumbe ao impetrante comprovar inicialmente o requerimento administrativo da aposentadoria especial, mas, nos processos já instruídos, presume-se a resistência quando há impugnação ao mérito ou omissão quanto à ausência de interesse por parte dos impetrados, (b) o STF é competente para processar e julgar mandados de injunção impetrados por servidores públicos municipais, estaduais, distritais e federais , (c) a Presidente da República deve obrigatoriamente figurar como autoridade impetrada.
+    Acrescenta-se, por fim, que o Plenário do STF dispensa a remessa prévia dos autos à Procuradoria-Geral da República quando se tratar de processo com matéria similar à discutida em processos anteriores:
+    (...).
+    5. No caso concreto, o impetrante enquadra-se nas regras gerais (comprovou o prévio requerimento na fl. 16) e não há nenhuma exceção ou impedimento específico ao seu pedido.
+    6. Diante do exposto, concedo a ordem, para determinar que a autoridade administrativa competente proceda à análise do pedido de aposentadoria especial do impetrante, nos termos do disposto nos arts. 57/58 da Lei 8.213/91 e arts. 64/70 do Decreto 3.048/99, ou as normas vigentes no momento da prestação da atividade em condições especiais”.
+    Em suma, alegam os embargantes a existência de omissão acerca do direito à aposentadoria especial com valores integrais e paridade dos vencimentos.
+    2. A decisão impugnada não é omissa e apreciou integralmente a petição inicial, que não contém pedido de concessão de aposentadoria com valores integrais e paridade dos vencimentos.
+    Além disso, o enquadramento – ou não – dos impetrantes nas regras constitucionais anteriores à EC 20/1988, à EC 41/2003 ou à EC 47/2005 dependerá da verificação do cumprimento dos requisitos para a concessão da aposentadoria especial e da data do início do benefício, o que não é cabível na via do mandado de injunção.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 10 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
