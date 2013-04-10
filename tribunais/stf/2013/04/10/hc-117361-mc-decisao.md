@@ -1,0 +1,81 @@
+DECISÃO: Trata-se de “habeas corpus”, com pedido de medida liminar, impetrado contra decisão emanada do E. Superior Tribunal de Justiça, que está assim fundamentada:
+    “Trata-se de recurso especial, interposto por JOSÉ CÍCERO DOS SANTOS TAVARES com fundamento na alínea ‘a’ do inciso III do artigo 105 da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Alagoas que negou provimento ao apelo da defesa, mantendo a condenação do recorrente, como incurso no delito previsto no art. 121, § 1º, do CP, à pena privativa de liberdade de 8 anos, 2 meses e 10 dias de reclusão, a ser cumprida em regime inicial fechado.
+    A ementa do aresto foi redigida nos seguintes termos:
+    ‘PENAL. PROCESSUAL PENAL. HOMICÍDIO. JÚRI. APELAÇÃO. RECURSO DESACOMPANHADO DE RAZÕES. CONHECIMENTO. ALEGAÇÃO DE NULIDADE POSTERIOR À PRONÚNCIA. SENTENÇA CONTRÁRIA À DECISÃO DOS JURADOS E À PROVA DOS AUTOS. ALÉM DE ERRO DE DOSIMETRIA. HIPÓTESES AFASTADAS. SENTENÇA MANTIDA.
+    I - É conhecida a apelação contra sentença proferida pelo júri, desde que aponte os fundamentos legais de sua interposição, como se deu no caso dos autos.
+    II - Não se conhecem de nulidades absolutas sem alegação de prejuízo pela parte interessada.
+    III - Procedimento que observou ditames legais pertinente ao rito do júri. Não configuração de qualquer nulidade absoluta posterior à pronúncia.
+    IV - Sentença em perfeita correspondência à decisão dos jurados, inclusive quanto ao reconhecimento do privilégio (motivo de relevante valor moral).
+    I - Dosimetria correta, contemplando critérios legais e jurisprudenciais de fixação de pena.
+    VI - Só enseja anulação da sentença proferida em rito do Júri a decisão que se dissocia totalmente das provas produzidas, revelando verdadeira arbitrariedade dos juízes leigos. Fato confessado pelo réu e referendado por testemunhas. Sentença que não se revela manifestamente contrária à prova dos autos.
+    VII - Apelação improvida’.
+    Aponta o recorrente violação do artigo 59 do Código Penal.
+    Alega que a pena-base foi fixada ‘em dez anos e dez meses de reclusão, mais perto da pena máxima, (...) malgrado a maioria das circunstâncias judiciais favorecê-lo’.
+    Sustenta que a culpabilidade tida como circunstância judicial não se relaciona com a reprovabilidade da conduta, ‘essa já considerada no momento da tipificação da conduta, enquanto exigibilidade de conduta diversa’.
+    Assevera, outrossim, que ‘as circunstâncias de delito também têm estreita relação com a eleição dos meios, a possibilidade de premeditação, etc., não sendo somente referente ao local do delito’.
+    Além disso, salienta que tampouco serve de fundamento para a majoração da pena-base o argumento de que e as conseqüências do delito ‘são reprováveis, haja vista a destruição de um casal e morte prematura da vítima’.
+    Pleiteia o provimento do recurso, ‘para que se reduza a pena-base ao mínimo legal, seis anos de reclusão, sobre a qual incidirá na terceira fase, já que a atenuante não poderá levá-la aquém da pena mínima cominada, a causa especial de redução da pena, consistente na privilegiadora do relevante valor moral, esta sim com o condão de trazer a pena definitiva aquém do mínimo legal’.
+    Ao final, acrescenta que ‘o Magistrado que determinara publicamente a prisão da filha do réu pela suspeita de oficial de Justiça de que pedira ou falara com dois dos integrantes do Conselho de Sentença, sem sequer confirmar com estes dois o que ocorrera, tendo sua Excelência inclusive, excluído do sorteio tais jurados, deveria este ter dissolvido o Conselho de Sentença, pois prejuízos restaram ao Réu, por fato não verificado, mas meramente suspeitado, matéria de nulidade absoluta que pode, inclusive se objeto de apreciação até para concessão de ‘habeas corpus’ de ofício, anulando o referido julgamento pelo Júri Popular’.
+    Apresentadas as contrarrazões e admitido o recurso especial, o Ministério Público Federal manifestou-se pelo seu desprovimento.
+    É o relatório.
+    Insurge-se o recorrente em face de acórdão que, quanto à dosimetria da pena aplicada quanto ao crime de homicídio, adotou os seguintes fundamentos:
+    ‘Na primeira fase da dosimetria, das oito circunstâncias judiciais, apenas 3 foram tomadas como desfavoráveis ao apelante: culpabilidade, circunstâncias do crime e conseqüências do crime. Tanto que a pena-base foi fixada em apenas 10 anos, dentro de uma variação de 6 a 20 anos (art. 121, ‘caput’, do CP).
+    No caso, há intensa reprovabilidade da conduta, praticada a sangue-frio pelo apelante, o que torna a culpabilidade desfavorável.
+    As circunstâncias do crime são desfavoráveis, pois colocou em risco terceiros que se encontravam no interior da loja.
+    As conseqüências, da mesma forma, são reprováveis, haja vista a destruição de um casal e a morte prematura da vítima.
+    Tomadas essas três circunstâncias, correta a pena-base fixada em 10 anos.
+    Na segunda fase da dosimetria, verifica-se, efetivamente, haver erro.
+    Todavia, este se deu em benefício do réu, pois a atenuante da confissão não deveria ser aplicada ao caso. Só se usufrui deste benefício quanto a confissão é pura, direta, sem a alegação de causas de excludente de ilicitude ou culpabilidade. Como o apelante pugnou pela tese de legítima defesa, sua pena não deveria ter sido atenuada. Conquanto tenha havido erro de dosimetria, a pena deve ser mantida, pois, de outra forma, praticar-se-ia a ‘reformatio in pejus’.
+    Na terceira fase de dosimetria, houve a aplicação da causa de diminuição de pena reconhecida pelo júri e no quantum adequado. Descabe, por conseguinte, qualquer reforma nesse ponto.
+    Ademais, dada a quantidade de pena, foram corretamente afastadas a substituição e suspensão condicional da pena e aplicado o regime inicial fechado de execução.
+    Em suma, não há o que se retificar na sentença que se enquadre na hipótese do art. 593, III, ‘c’, do CPP pelo que deve ser improvido o apelo também nessa questão’.
+    Desse modo, para se chegar a conclusão diversa da que chegou o Tribunal de origem, no que toca à dosimetria da pena, seria inevitável o revolvimento dos elementos probatórios carreados aos autos, procedimento que é vedado nesta instância especial, a teor do enunciado nº 7 da súmula desta Corte, ‘verbis’: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+    Confiram-se, nessa linha, precedentes desta Corte:
+    ‘AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO TENTADO. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INOCORRÊNCIA, NA ESPÉCIE. FIXAÇÃO DA PENA. CRITÉRIOS BEM OBSERVADOS PELAS INSTÂNCIAS ORDINÁRIAS. ADEMAIS, ‘IN CASU’, IMPOSSÍVEL A REVISÃO DE TAL ENTENDIMENTO NESTA VIA RECURSAL, ANTE O ÓBICE DO ENUNCIADO N. 7 DA SÚMULA/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Afasta-se a alegação de omissão do acórdão recorrido no tocante à figura do homicídio privilegiado, uma vez que o aresto de embargos declaratórios concluiu que os Jurados afastaram a figura do homicídio tentado privilegiado (pelo domínio de violenta emoção, logo após injusta provocação da vítima), fundamentando que, embora os disparos de arma de fogo tenham sido precedidos de discussão entre o agravante e a vítima, tal fato não seria capaz de ensejar a violenta emoção.
+    2. No tocante à fixação da pena, o acórdão recorrido entendeu que a pena foi corretamente aplicada pelo Juízo monocrático, sendo que, na primeira fase da dosimetria, os antecedentes criminais apresentados pelo acusado foram observados. Na segunda fase, a agravante da reincidência não foi considerada em razão do lapso depurador, nem mesmo a atenuante da violenta emoção, vez que não há indícios de sua ocorrência nos autos (fls. 296/308).
+    3. Portanto, também não há se falar em violação ao art. 59 do Código Penal, ressaltando-se que, eventual revisão do entendimento do Tribunal ‘a quo’, na forma pretendida pelo agravante, demandaria, necessariamente, incursão no conjunto probatório dos autos, providência de todo inadequada em sede de recurso especial, em função do óbice da Súmula 7 desta Corte Superior.
+    4. Agravo regimental improvido.’
+    (AgRg no AREsp 235.336/SP, Rel. Ministro CAMPOS MARQUES (DESEMBARGADOR CONVOCADO DO TJ/PR), QUINTA TURMA, julgado em 21/02/2013, DJe 27/02/2013)
+    ‘RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. PRIMARIEDADE E BONS ANTECEDENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. ELEVAÇÃO JUSTIFICADA. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. RECURSO NÃO-CONHECIDO.
+    1. A primariedade e os bons antecedentes do acusado não acarretam, por si só, a fixação da pena-base no mínimo legal, pois, se houverem circunstâncias judiciais desfavoráveis, a reprimenda de piso poderá ficar em patamar acima do mínimo.
+    2. ‘In casu’, verifica-se existir motivação idônea que justifique a presença de circunstâncias judiciais desfavoráveis, situação apta legitimar a elevação da sanção inicial, a saber: a intensa culpabilidade e as consequências negativas do crime. Ademais, rever o julgado, da maneira pretendida nas razões do especial, demanda revolvimento do conjunto fático-probatório dos autos, medida interditada pela Súmula n. 7 do STJ.
+    3. Recurso especial não conhecido.’
+    (REsp 1157887/AC, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEXTA TURMA, julgado em 03/11/2011, DJe 26/03/2012)
+    ‘PENAL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. APROPRIAÇÃO INDÉBITA. DOSIMETRIA. CONDENAÇÃO ACIMA DO MÍNIMO. PRESENÇA DE DUAS CIRCUNSTÂNCIAS DESFAVORÁVEIS. ALEGADO DESACERTO NA FIXAÇÃO DA PENA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+    1. ‘A orientação reiteradamente firmada nesta Corte é no sentido de que somente nas hipóteses de erro ou ilegalidade prontamente verificável na dosimetria da reprimenda, em flagrante afronta ao art. 59 do Código Penal, pode esta Corte reexaminar o ‘decisum’ em tal aspecto, sendo que uma análise mais acurada das circunstâncias judiciais ensejaria a reapreciação de matéria fático-probatória, inviável na via especial, diante do óbice da Súmula 07 desta Corte’ (REsp 1.185.355/PB, Rel. Ministro GILSON DIPP, QUINTA TURMA, DJe 19/12/2011) 2. Agravo regimental não provido. (AgRg no Ag 1416488/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/06/2012, DJe 28/06/2012)
+    ‘AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO PENAL E PROCESSUAL PENAL. CRIMES DE RESPONSABILIDADE. REAPRECIAÇÃO DA DOSIMETRIA DA PENA IMPOSTA NA ORIGEM. NECESSIDADE DE AMPLO REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA Nº 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    1. A pretensão dos recorrentes de reforma do v. acórdão impugnado demanda, indubitavelmente, o revolvimento do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial, ut Súmula 7-STJ.
+    2. A nova aferição da correta aplicação do artigo 59, do Código Penal, inclusive reapreciando o caráter trifásico, esbarra, inevitavelmente, no óbice da Súmula 7-STJ. Precedentes.
+    3. Agravo regimental a que se nega provimento.’
+    (AgRg no AREsp 10.084/MA, Rel. Ministro ADILSON VIEIRA MACABU (DESEMBARGADOR CONVOCADO DO TJ/RJ), QUINTA TURMA, julgado em 13/09/2011, DJe 20/10/2011)
+    Ante o exposto, com fundamento no artigo 557, ‘caput’, do Código de Processo Civil, combinado com o artigo 3º do Código de Processo Penal, nego seguimento ao recurso especial.”
+    (REsp 1.239.609/AL, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Sendo esse o contexto, passo a apreciar o pedido de medida liminar.
+    Tal como assinalei em anterior decisão (HC 108.194-MC/RJ, Rel. Min. CELSO DE MELLO), cabe reafirmar, por relevante, que o deferimento de medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e Tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos: a existência de plausibilidade jurídica (“fumus boni juris”), de um lado, e a possibilidade de lesão irreparável ou de difícil reparação (“periculum in mora”), de outro.
+    O exame dos fundamentos que deram suporte à decisão ora impugnada parece descaracterizar, ao menos em juízo de sumária cognição, a plausibilidade jurídica da pretensão deduzida nesta sede processual.
+    É que o Supremo Tribunal Federal não tem conhecido de ações de “habeas corpus” em que a parte impetrante pretende rediscutir os pressupostos de admissibilidade do recurso especial interposto perante o Superior Tribunal de Justiça, cabendo destacar, dentre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame (HC 93.824/RS, Rel. Min. EROS GRAU, v.g.):
+    “‘HABEAS CORPUS’. PENAL. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. REAPRECIAÇÃO. VEDAÇÃO. EXECUÇÃO PENAL. FALTA GRAVE. PERDA DOS DIAS REMIDOS.
+    1. Não compete ao Supremo Tribunal Federal reapreciar os pressupostos de admissibilidade do recurso especial e proceder ao exame da matéria de mérito nele suscitada.
+    .......................................................................................................
+    Ordem indeferida.”
+    (HC 94.336/RS, Rel. Min. EROS GRAU – grifei)
+    “‘HABEAS CORPUS’. ALEGADO CONSTRANGIMENTO ILEGAL, CONSISTENTE EM ACÓRDÃO QUE NÃO CONHECEU DO RECURSO ESPECIAL, AO FUNDAMENTO DE IMPUGNAÇÃO GENÉRICA E DE IMPRESCINDIBILIDADE DE REEXAME PROBATÓRIO.
+    O Superior Tribunal de Justiça é a jurisdição final sobre os pressupostos de admissibilidade do recurso especial, motivo pelo qual não pode o Supremo Tribunal Federal reapreciar tais requisitos, para rejulgar o recurso, salvo, por se tratar de habeas corpus, na hipótese de flagrante ilegalidade.
+    Caso em que a Corte Superior de Justiça deu adequada solução ao recurso interposto. Inexistência, portanto, do alegado constrangimento ilegal.”
+    (HC 85.195/RS, Rel. Min. AYRES BRITTO – grifei)
+    “‘HABEAS CORPUS’. RECURSO ESPECIAL NÃO CONHECIDO PELO STJ. NÃO CABE AO STF REAPRECIAR OS REQUISITOS DE ADMISSIBILIDADE DO RESP. PRECEDENTES. DOSIMETRIA DA PENA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. DECISÃO FUNDAMENTADA. NÃO CONHECIMENTO DO ‘WRIT’.
+    1. O Superior Tribunal de Justiça não conheceu do recurso especial interposto pela defesa em razão da impossibilidade do reexame de provas e da ausência de violação à legislação federal.
+    2. ‘Não compete ao Supremo Tribunal Federal reapreciar os requisitos de admissibilidade do recurso especial e proceder ao julgamento do mérito’ (HC 93.966/RS, Rel. Min. Eros Grau,  DJe 167, 04.09.2008).
+    .......................................................................................................
+    6. ‘Habeas corpus’ não conhecido.”
+    (HC 98.733/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    Cumpre observar, de outro lado, que a análise da controvérsia, na perspectiva sugerida pela parte impetrante, parece tornar necessária a interpretação do conjunto probatório emergente do processo penal de conhecimento, o que, em princípio, constitui matéria pré-excluída da via estreita do “habeas corpus” (RTJ 136/1221 – RTJ 137/198).
+    Como se sabe, a ocorrência de iliquidez quanto aos fatos alegados na impetração basta, por si só, para inviabilizar a utilização adequada da ação de “habeas corpus”, que constitui remédio processual que não admite dilação probatória, nem permite o exame aprofundado de matéria fática, nem comporta a análise valorativa de elementos de prova produzidos no curso do processo penal de conhecimento (RTJ 110/555 – RTJ 129/1199 – RTJ 136/1221 – RTJ 163/650-651 – RTJ 165/877-878 – RTJ 186/237, v.g.):
+    “A ação de ‘habeas corpus’ constitui remédio processual inadequado, quando ajuizada com objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (RTJ 195/486, Rel. Min. CELSO DE MELLO)
+    Sendo assim, e sem prejuízo do reexame ulterior da matéria em causa, indefiro o pedido de medida cautelar.
+    Publique-se.
+    Brasília, 10 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
