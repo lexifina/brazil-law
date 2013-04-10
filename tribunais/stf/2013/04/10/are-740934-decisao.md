@@ -1,0 +1,8 @@
+DECISÃO: O Supremo Tribunal Federal, apreciando a ocorrência, ou não, de controvérsia alegadamente impregnada de transcendência e observando o procedimento a que se refere a Lei nº 11.418/2006, entendeu destituída de repercussão geral a questão suscitada no ARE 642.137-RG/MG, Rel. Min. CEZAR PELUSO (Presidente), por tratar-se de litígio referente a matéria infraconstitucional, fazendo-o em decisão assim ementada:
+    “Agravo convertido em Extraordinário. Inadmissibilidade deste. Complementação de aposentadoria. Revisão de contrato. Entidade fechada de previdência complementar. Regime geral de previdência social. Equiparação de reajustes. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto revisão de contrato celebrado com entidade fechada de previdência complementar, a fim de equiparar o reajuste da complementação de aposentadoria custeada por esta entidade com aqueles reajustes que foram implementados pelo regime geral de previdência social, versa sobre tema infraconstitucional.”
+    O não atendimento desse pré-requisito de admissibilidade recursal, considerado o que dispõe o art. 322 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, inviabiliza o conhecimento do recurso extraordinário interposto pela parte ora agravante.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 10 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
