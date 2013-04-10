@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE DIFERENÇA DE PROVENTO. LEGITIMIDADE PASSIVA AD CAUSAM. POSSIBILIDADE JURÍDICA DO PEDIDO. INTERESSE DE AGIR. CORREÇÃO MONETÁRIA. JUROS DE MORA.HONORÁRIOS ADVOCATÍCIOS.
+    1. O Instituto de Seguridade Social dos servidores municipais de Anápolis - ISSA, autarquia pública dotada de personalidade própria, autonomia administrativa, orçamentária e financeira, responsável por gerir os regimes de seguridade social dos servidores daquele município, bem como de administrar o Fundo Municipal de Previdência Social de Anápolis - PREVIAN (LC n° 27/2002 e n° 77/2003), tem legitimidade para atuar no polo passivo de demanda que trata de diferença de proventos em favor de aposentado daquela municipalidade.
+    ()”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 93, IX e X, da mesma Carta.
+    A pretensão recursal não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Complementares Municipais 27/2002, 77/2003 e 176/2008). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
