@@ -1,0 +1,45 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LV E LIV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado da Turma Recursal da Comarca de Curvelo/MG, que manteve a seguinte sentença:
+    “Vistos, etc. MÁRIO ALVES DOS SANTOS, ingressou com a presente ação de indenização contra MARCONE SEBASTIÃO NASCIMENTO, aduzindo que adquiriu um veículo do requerido em 03 de novembro de 1999, conforme contrato de cessão de veículo em alienação fiduciária.
+    Em data de 12 de abril de 2004, o requerente teve seu veículo apreendido, em razão da busca e apreensão impetrada pelo Banco GM S/A em desfavor do requerido, uma vez que estaria em mora com a autora da referida ação, referente a um contrato, tendo dado em garantia o veículo que vendera ao Requerente.
+    O veículo somente foi restituído ao requerente no dia 11 de julho de 2004.
+    É o relatório.
+    DECIDO.
+    Cuida-se de ação de indenização ajuizada por Mário Alves dos Santos contra Marcone Sebastião Nascimento, onde pleiteia indenização por danos morais e materiais em razão de ter adquirido um veículo alienado do requerido, tendo este se responsabilizado quanto ao débito financiado, o que não foi feito, ensejando na busca e apreensão do veículo.
+    Verifico que o réu foi devidamente citado, eis que apresentou contestação, mas não compareceu a audiência designada.
+    Por conseguinte, não tendo o réu ou seu advogado comparecido à audiência de conciliação, caracterizada se acha a revelia do mesmo, consoante disposto no art. 9º, § 4º, c/c art. 20, ambos da Lei nº 9.099/95.
+    Face à sua revelia, restou também incontroverso nos autos que o autor teve sua moral abalada em consequência da inadimplência do requerido, que não cumpriu o acordado e colocou o requerente em situação constrangedora.
+    Observo que não há, aqui, que se falar em ‘prova do dano’, eis que, cuidando-se de dano moral, o mesmo é presumido.
+    Ora, sendo o dano moral uma ofensa ao patrimônio imaterial da vítima (honra, saúde, etc.), exigir-se tal prova implicaria na verdade em anular o instituto, posto que tais bens nunca são passíveis de comprovação material ou aferição exata.
+    Exatamente por essa razão é que, no dando moral, a vítima não é ressarcida do desfalque sofrido, eis que impossível sua valoração exata, mas sim compensada da dor sofrida, atuando a indenização arbitrada como um lenitivo à mesma.
+    Sopesadas essas circunstâncias, tenho que procede o pedido do autor, ele que inegável a intranquilidade e o aborrecimento causados a ele pela retratada neste autos e também pela comprovação dos gastos efetuados no veículo após restituição do mesmo ao autor.
+    Cuidando-se de dano moral, recomendam doutrina e jurisprudência que o quantum devido seja arbitrado de plano pelo juiz.
+    Assim, tenho que o valor de R$ 2.500,00 (dois mil e quinhentos reais), atende ao duplo desiderato da indenização.
+    O primeiro, de compensar o dissabor sofrido pela vítima sem, contudo, que o valor fixado, constitua fonte de enriquecimento indevido para esta. E segundo, de punir o agente faltoso pelo ato cometido, possuindo ainda, e por isso, caráter pedagógico.
+    Quanto ao dano material, restou comprovado que o autor efetuou gastos nos valor de R$ 105,00 (cento e cinco reais).
+    Ante o exposto, julgo procedente o pedido e condeno o réu a pagar ao autor a quantia de R$ 2.605,00 (dois mil, seiscentos e cinco reais(, a título de indenização por danos morais e materiais.
+    Sem custas e honorários nesta fase, nos termos do art. 55 da Lei nº 9.099/95” (fls. 43-44, grifos nossos).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, incs. XXXV, LV e LIV, da Constituição da República.
+    Assevera “não [ter] comparec [ido] à Audiência de Conciliação por não ter sido citado, vez ser técnico da CEMIG e desenvolver seu trabalho em todo o Estado e se encontrar viajando na ocasião” (fl. 151).
+    Argumenta que “a decisão da Turma Recursal, negou provimento ao recurso, exatamente por entender que o ora recorrente ‘teve sua revelia decretada, acertadamente’. Com isto desacreditando uma decisão judicial” (fl. 150).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de “ausência de repercussão geral” (fl. 168).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra a decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante do processo e a análise prévia da legislação infraconstitucional aplicável à espécie (Lei n. 9.099/1995 e Código de Processo Civil). Incide a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. CONSUMIDOR. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. IRREGULARIDADES. DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DO REEXAME DE CLÁUSULAS CONTRATUAIS, DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE 685.508/SP, de minha relatoria, Segunda Turma, DJ 13.05.2012, grifos nossos).
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS, DOS CONTRATOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 5º, INC. LV, E 93, INC. IX, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE 638.479/ES, de minha relatoria, Primeira Turma, DJ 21.04.2011, grifos nossos).
+    “AGRAVO DE INSTRUMENTO. DIREITO CIVIL E DO CONSUMIDOR. ALIENAÇÃO FIDUCIÁRIA. REVISÃO DE CONTRATO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. MATÉRIA INFRACONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME DE CLÁUSULA CONTRATUAL. ÓBICE DA SÚMULA 454” (AI 834.159/RS, Rel. Min. Luiz Fux, Primeira Turma, DJ 28.06.2012, grifos nossos).
+    7. Ademais, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, incs. XXXV, LV e LIV, da Constituição da República, se dependente do exame de legislação infraconstitucional (Código de Defesa do Consumidor e Código de Processo Civil), podem configurar, se for o caso, ofensa constitucional indireta:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. DIREITO DO CONSUMIDOR. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. IMPOSSIBILIDADE DE REEXAME DE FATOS, PROVAS E DA LEGISLAÇÃO INFRACONSTITUCIONAL: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA DA ALEGAÇÃO DE CONTRARIEDADE AOS ARTS. 5º, INC. LV, DA CONSTITUIÇÃO: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE 649.649/SP, de minha relatoria, Primeira Turma, DJ 01.08.2011, grifos nossos).
+    “AGRAVO REGIMENTAL. INEXISTÊNCIA DE OFENSA AOS ARTIGOS 5º, XXXV, LIV E LV e 93, IX, DA CONSTITUIÇÃO. O Tribunal de origem prestou jurisdição por acórdão devidamente fundamentado, em observância aos princípios do devido processo legal, do contraditório e da ampla defesa. Ainda que assim não fosse, esta Corte firmou entendimento no sentido de que, em regra, as alegações de afronta aos mencionados princípios configuram, quando muito, ofensa indireta ou reflexa à Constituição da República. Agravo regimental a que se nega provimento” (AI 602.224-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 7.12.2010, grifos nossos).
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. CIVIL. INDENIZAÇÃO. IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS: SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO” (ARE 737.559/DF, de minha relatoria, Segunda Turma, DJ 22.03.2013, grifos nossos).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
