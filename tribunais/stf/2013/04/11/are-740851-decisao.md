@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “AGRAVO DE INSTRUMENTO - EXECUÇÃO PROVISÓRIA - ALEGAÇÃO DE ILEGETIMIDADE PASSIVA – INOCORRÊNCIA - RESPONSABILIDADE SOLIDÁRIA DO AGRAVANTE RECONHECIDA POR FORÇA CONTRATUAL - DESNECESSIDADE DA PRESTAÇÃO DE CAUÇÃO PARA O PROSSEGUIMENTO DA EXECUÇÃO - QUANTIA EXECUTADA INCONTROVÉRSA - INAPLICABILIDADE DA MULTA DISCIPLINADA NO ART. 475-J DO CPC EM SEDE DE EXECUÇÃO PROVISÓRIA - POSSIBILIDADE DE CONCESSÃO DE JUSTIÇA GRATUITA A PESSOA JURÍDICA DE DIREITO PRIVADO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO PELOS FUNDAMENTOS CONSTANTES DO VOTO – UNANIMIDADE.
+    (...)”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa ao art. 5º, II e LXXIV, da mesma Carta.
+    Verifica-se, preliminarmente, que o art. 5º, II, da Constituição Federal não foi prequestionado. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Além disso, os Ministros desta Casa, no AI 759.421 RG/RJ, Rel. Min. Cezar Peluso, manifestaram-se pela inexistência de repercussão geral acerca do tema – Concessão de justiça gratuita com base na Lei 1.060/50 – decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
