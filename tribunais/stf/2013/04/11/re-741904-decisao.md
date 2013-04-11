@@ -1,0 +1,14 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, resolvendo questão de ordem formulada no AI 712.743-RG/SP, Rel. Min. ELLEN GRACIE, reconheceu existente a repercussão geral da matéria constitucional igualmente versada na presente causa, e, na mesma oportunidade, reafirmou a jurisprudência desta Corte sobre o tema, proferindo decisão consubstanciada em acórdão assim ementado:
+    “QUESTÃO DE ORDEM. AGRAVO DE INSTRUMENTO. CONVERSÃO EM RECURSO EXTRAORDINÁRIO (CPC, ART. 544, PARÁGRAFOS 3º E 4º). IPTU. INCIDÊNCIA DE ALÍQUOTAS PROGRESSIVAS ATÉ A EC 29/2000. RELEVÂNCIA ECONÔMICA, SOCIAL E JURÍDICA DA CONTROVÉRSIA. RECONHECIMENTO DA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO DEDUZIDA NO APELO EXTREMO INTERPOSTO. PRECEDENTES DESTA CORTE A RESPEITO DA INCONSTITUCIONALIDADE DA COBRANÇA PROGRESSIVA DO IPTU ANTES DA CITADA EMENDA. SÚMULA 668 DESTE TRIBUNAL. RATIFICAÇÃO DO ENTENDIMENTO. POSSIBILIDADE DE APLICAÇÃO DOS PROCEDIMENTOS DA REPERCUSSÃO GERAL (CPC, ART. 543-B).
+    1. Mostram-se atendidos todos os pressupostos de admissibilidade, inclusive quanto à formal e expressa defesa pela repercussão geral da matéria submetida a esta Corte Suprema. Da mesma forma, o instrumento formado traz consigo todos os subsídios necessários ao perfeito exame do mérito da controvérsia. Conveniência da conversão dos autos em recurso extraordinário.
+    2. A cobrança progressiva de IPTU antes da EC 29/2000 – assunto de indiscutível relevância econômica, social e jurídica – já teve a sua inconstitucionalidade reconhecida por esta Corte, tendo sido, inclusive, editada a Súmula 668 deste Tribunal.
+    3. Ratificado o entendimento firmado por este Supremo Tribunal Federal, aplicam-se aos recursos extraordinários os mecanismos previstos no parágrafo 1º do art. 543-B, do CPC.
+    4. Questão de ordem resolvida, com a conversão do agravo de instrumento em recurso extraordinário, o reconhecimento da existência da repercussão geral da questão constitucional nele discutida, bem como ratificada a jurisprudência desta Corte a respeito da matéria, a fim de possibilitar a aplicação do art. 543-B, do CPC.”
+    Como se sabe, com essa decisão, o Plenário desta Suprema Corte limitou-se a reiterar diretriz jurisprudencial já prevalecente, no âmbito deste Tribunal, e que restou consubstanciada na Súmula 668 desta Corte, que possui o seguinte enunciado:
+    “É inconstitucional a lei municipal que tenha estabelecido, antes da Emenda Constitucional 29/2000, alíquotas progressivas para o IPTU, salvo se destinada a assegurar o cumprimento da função social da propriedade urbana.” (grifei)
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte estabeleceu – e reafirmou – na matéria em referência.
+    Sendo assim, e considerando as razões expostas, conheço do presente recurso extraordinário, para negar-lhe provimento.
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
