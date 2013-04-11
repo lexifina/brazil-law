@@ -1,0 +1,10 @@
+Despacho: Trata-se de petição acostada aos autos pelo Conselho Federal da Ordem dos Advogados do Brasil na qual se noticia a paralisação do pagamento de precatórios por alguns Tribunais de Justiça do País, determinada após o julgamento conjunto das Ações Diretas de Inconstitucionalidade nº 4.357 e 4.425, realizado em 14/03/2013, pelo Plenário do Supremo Tribunal Federal. Segundo narra a peça, “os recursos estão disponíveis, mas a Presidência de alguns Tribunais entendeu por paralisar os pagamentos/levantamentos de valores enquanto não modulados os efeitos da r. decisão”. Requer-se, em seguida, seja determinada “a continuidade dos pagamentos até que o e. Plenário module os efeitos da v. decisão, com a consequente expedição de ofícios a todos os Tribunais de Justiça”. Pede-se ainda sejam os entes devedores instados ao repasse e ao depósito dos recursos junto aos Tribunais locais, sob pena de incidência do regime sancionatório.
+    É o relato suficiente. Decido.
+    A decisão do Plenário do Supremo Tribunal Federal reconheceu a inconstitucionalidade parcial da Emenda Constitucional nº 62/09, assentando a invalidade de regras jurídicas que agravem a situação jurídica do credor do Poder Público além dos limites constitucionalmente aceitáveis. Sem embargo, até que a Suprema Corte se pronuncie sobre o preciso alcance da sua decisão, não se justifica que os Tribunais Locais retrocedam na proteção dos direitos já reconhecidos em juízo. Carece de fundamento, por isso, a paralisação de pagamentos noticiada no requerimento em apreço.
+    Destarte, determino, ad cautelam, que os Tribunais de Justiça de todos os Estados e do Distrito Federal deem imediata continuidade aos pagamentos de precatórios, na forma como já vinham realizando até a decisão proferida pelo Supremo Tribunal Federal em 14/03/2013, segundo a sistemática vigente à época, respeitando-se a vinculação de receitas para fins de quitação da dívida pública, sob pena de sequestro.
+    Expeça-se ofício aos Presidentes de todos os Tribunais de Justiça do País.
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
