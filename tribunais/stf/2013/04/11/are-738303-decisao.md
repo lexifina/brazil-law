@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de Minas Gerais que negou seguimento ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “DIREITO ADMINISTRATIVO – APELAÇÃO – REEXAME NECESSÁRIO – REALIZAÇÃO DE OFÍCIO – SERVIDOR PÚBLICO – PROGRESSÃO HORIZONTAL – LEI ESTADUAL 10.961/92 E DECRETO 36.033/94 – REQUISITOS – COMPROVAÇÃO – ATUALIZAÇÃO MONETÁRIA E JUROS DE MORA – ARTIGO 1º-F DA LEI 9.494/97 – ALTERAÇÃO PELA LEI 11.960/2009 – SENTENÇA PARCIALMENTE REFORMADA – RECURSO PREJUDICADO.
+    - Comprovando o servidor que preencheu os requisitos a que se referem os artigos 25 e 26 da lei estadual 10.961/92, deve a ele ser concedida a progressão funcional.
+    - Com a edição da Lei 11.960/09, os juros de mora devem ser calculados com base nos parâmetros na mesma fixados, nos casos em que a sentença é proferida durante sua vigência”. (eDOC 1, p. 111)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se, violação aos artigos 7º , XXIX, 37, X, e 61, § 1º, II, “a”, do texto constitucional.
+    Sustenta-se, em síntese, que somente por lei específica era possível a majoração da remuneração do servidor, tal aumento da remuneração depende de lei de iniciativa privativa do Chefe do Executivo e que já ocorreu a prescrição sobre o próprio direito pretendido.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o acórdão recorrido decidiu que “é inegável o direito do autor de obtenção da progressão e das vantagens pecuniárias dela advindas, nos termos da Lei estadual 10.961/92, regulamentada pelo decreto estadual 36.033/94, limitadas à entrada em vigor da Lei 15.463/05.” (eDOC 1, p. 115)
+    Ademais, o tribunal de origem consignou, ao contrário do que alega a recorrente, que:
+    “(...) a Lei estadual 10.961/92 aplica-se aos servidores da Administração indireta vinculada ao Estado de Minas Gerais. Dessa forma, não há como falar em ausência de lei que autorize o pedido de progressão horizontal”. (eDOC 1, p.113)
+    Verifico que o tribunal de origem resolveu a controvérsia baseado no conjunto fático-probatório constante dos autos e na interpretação e aplicação da legislação infraconstitucional, de modo que, para se concluir de forma diversa, far-se-ia imprescindível o revolvimento das provas dos autos e a prévia interpretação da legislação aplicada ao caso, circunstância que impede a abertura do recurso extraordinário ante o óbice das Súmulas 279 e 280 do STF.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. A controvérsia foi decidida com fundamento em legislação de índole local, circunstância que impede a admissão do extraordinário em virtude do óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento”. (RE-AgR 594.028, Rel. Min. Eros Grau, Segunda Turma, DJe 27.2.2009)
+    “RECURSO. Extraordinário. Inadmissibilidade. Servidor Público. Magistério. Adicional de insalubridade: Lei Complementar estadual nº 10.098/94. Requisitos não preenchidos. Interpretação de lei local. Agravo regimental não provido. Aplicação das Súmula nº 279 e 280. Não cabe recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou, até, inobservância de direito local, seria apenas indireta à Constituição da República, e, muito menos, de reexame de provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LIV e LV da Constituição. Ofensa constitucional indireta. Não recurso extraordinário que teria por objeto alegação de ofensa que, irradiando-se de má interpretação, aplicação, ou , até, de inobservância de normas infraconstitucionais, seria apenas indireta à Constituição da República. 3. (...)”. (AI-AgR 438.909, Rel. Min. Cezar Peluso, Primeira Turma, DJe 17.6.2005)
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
