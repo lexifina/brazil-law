@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Distrito Federal, assim ementado:
+    “JUIZADOS ESPECIAIS CRIMINAIS. CONTRAVENÇÃO PENAL DE PERTURBAÇÃO DO TRABALHO OU DO SOSSEGO ALHEIOS. ARTIGO 42, INCISO I E III, DO DECRETO-LEI 3.688/1941. ATINGIMENTO DE UMA COLETIVIDADE DEMONSTRADA COM O REGISTRO DE OCORRÊNCIA POR UMA MORADORA, COM TESTEMUNHO DE OUTRA MORADORA. RUIDOS EXCESSIVOS. REALIZAÇÃO DE FESTA. DESNECESSIDADE DE PERÍCIA E INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E NÃO PROVIDO. 1. Não há necessidade da realização de perícia para comprovação de ruídos decorrentes da realização de festa, fato que pode ser comprovado por prova testemunhal. 2. Inaplicabilidade do Princípio da Insignificância diante da relevância do fato contravencional. Afetação do sossego e do necessário descanso das pessoas. 3. Para aperfeiçoamento do tipo contravencional não exige a reclamação de toda coletividade, até porque o tipo não o exige. Neste caso, houve registro de ocorrência por uma moradora, sendo outra moradora testemunha. Também, não há necessidade da juntada de abaixo-assinado, porquanto, não se pode exigir o que a lei não exige. 4. RECURSO CONHECIDO E NÃO PROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS”. (eDOC. 10)
+    No apelo extremo, interposto com fulcro no art. 102, inciso III, alínea a, do permissivo constitucional, a recorrente alega que o acórdão impugnado violou o art. 1º, inciso III, da Constituição Federal (eDOC 12).
+    Aduz a defesa que o sujeito passivo principal do art. 42 da Lei de Contravenções Penais é a coletividade, não configurando conduta típica quando o dano causado restringe-se a uma única pessoa.
+    Dessa forma, alega que a lesão causada pela sua conduta é insignificante para a pretensão punitiva penal, caracterizando, distintamente, matéria de direito civil.
+    Requer, por fim, que seja aplicado o princípio da insignificância ou que se considere atípica a conduta perpetrada pela acusada.
+    O Tribunal a quo inadmitiu o recurso extraordinário ao argumento de que não apresenta repercussão geral o recurso extraordinário que verse sobre a questão do reconhecimento de aplicação do princípio da insignificância, porque se trata de matéria infraconstitucional (eDOC 14, p. 2).
+    Contra a referida decisão de inadmissibilidade foi interposto o presente agravo, que contra-argumenta o óbice destacado (eDOC 16).
+    É o relatório.
+    Decido.
+    No caso, verifica-se a perda superveniente do interesse recursal, visto que a pena aplicada foi alcançada pelo decurso de prazo prescricional.
+    Na espécie, a recorrente, incursa na sanção do artigo 42, incisos I e III da Lei 3.688/41, foi condenada ao pagamento de 10 (dez) dias-multa, calculadas à razão de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos (eDOC. 4).
+    Ressalta-se que a sentença condenatória transitou em julgado para a acusação (art. 110, § 1º, do CP), sendo, portanto, juridicamente impossível o aumento da pena fixada em primeira instância e, inclusive, reduzida pelo Tribunal a quo.
+    Da leitura dos autos, cerifico que a pena de multa foi determinada originariamente, não configurando medida substitutiva à pena privativa de liberdade. Desse modo, aplica-se ao caso concreto o prazo prescricional de 2 (dois) anos, conforme redação do art. 114, inciso I, do Código Penal.
+    Com efeito, a última causa interruptiva do lapso prescricional (art. 117, IV, CP) foi a sentença condenatória recorrível, ocorrida em 17.12.2010 (eDOC 4). Destarte, entre o último marco interruptivo da prescrição e o presente, transcorreram mais de 2 (dois) anos, tempo suficiente para configurar a prescrição da pretensão punitiva.
+    Ante o exposto, com fulcro no art. 114, inciso I, do CP, reconheço a extinção da punibilidade da recorrente, tendo em vista a ocorrência da prescrição punitiva intercorrente e, em consequência, julgo prejudicado o presente recurso pela perda de objeto (RI/STF, art. 21, IX, e Lei nº 8.038/1990, art. 38).
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
