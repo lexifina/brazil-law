@@ -1,0 +1,12 @@
+Trata-se de agravos interpostos pela FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS – FUNCEF.
+    O primeiro impugna decisão que negou seguimento a recurso extraordinário interposto de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, o qual consignou que a utilização de percentuais diferenciados para cálculo de aposentadoria complementar de segurados do sexo masculino e feminino afronta o princípio da isonomia previsto na Constituição Federal.
+    O segundo, por sua vez, impugna decisão que inadmitiu o apelo extremo interposto de acórdão do Superior Tribunal de Justiça, que ao julgar o Resp 1.195.861/RS, rejeitou os embargos de declaração opostos pela recorrente.
+    Quanto ao agravo interposto contra a decisão proferida pelo Tribunal de Justiça do Estado do Rio Grande do Sul, verifico que o recurso extraordinário versa sobre matéria cuja repercussão geral já foi reconhecida pelo Supremo Tribunal Federal (RE 639.138-RG/RS, Rel. Min. Gilmar Mendes).
+    Por seu turno, quanto ao recurso que impugna a decisão emitida pelo Superior Tribunal de Justiça, melhor sorte não assiste a recorrente.
+    Isso porque a jurisprudência desta Corte firmou-se no sentido de que o acórdão do Superior Tribunal de Justiça, proferido no julgamento de recurso especial, somente legitimará o uso da via recursal extraordinária se a questão constitucional nele versada for diversa daquela decidida pela instância ordinária. Assim, a matéria constitucional impugnável via RE deve ter surgido, originariamente, no julgamento do recurso especial, o que não é o caso dos autos. Nesse sentido, menciono as seguintes decisões, entre outras: RE 409.973-AgR/SP, Rel. Min. Celso de Mello; AI 302.930-AgR-ED/SP, Rel. Min. Ellen Gracie; AI 787.991-AgR/DF, de minha relatoria; AI 641.299-AgR/PR, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso que impugna a decisão emitida pelo Superior Tribunal de Justiça (CPC, art. 557, caput).
+    No que concerne ao recurso interposto contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, dou provimento ao agravo para admitir o recurso extraordinário e, com fundamento no art. 328, parágrafo único, do RISTF, determino a devolução destes autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, visto que neles se discute questão que será apreciada no RE 639.138-RG/RS, Rel. Min. Gilmar Mendes.
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
