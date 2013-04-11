@@ -1,0 +1,20 @@
+PROCESSUAL PENAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. LEI DE EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO PENAL. REGRESSÃO DE REGIME PRISIONAL. COMETIMENTO DE FALTA GRAVE. INTERPOSIÇÃO SIMULTÂNEA DE RECURSO ESPECIAL. PROVIMENTO DO PEDIDO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. PERDA SUPERVENIENTE DE OBJETO. PREJUÍZO DO RECURSO EXTRAORDINÁRIO.
+    Decisão: Trata-se de recurso extraordinário interposto pelo Ministério Público do Estado do Rio Grande do Sul, com base no art. 102, inc. III, alínea a, da Constituição da República, contra acórdão da Sétima Câmara Criminal do Tribunal de Justiça do Estado do Rio Grande do Sul, a qual provera agravo em execução interposto pelo réu para revogar a regressão de regime prisional.
+    Nas razões recursais, o representante do Parquet estadual alega, em síntese, ofensa aos princípios da legalidade e da individualização da pena (art. 5º, XXXIX e XLVIII, da Constituição Federal), quando o acórdão recorrido entendeu que o cometimento de falta grave não acarretaria a regressão para o regime mais gravoso, sob o argumento de que somente nova condenação criminal autorizaria tal consequência. Pede, ao final, que seja determinada a regressão de regime ao apenado, em função da falta grave reconhecida.
+    Inadmitiu-se o processamento do recurso extraordinário, daí o presente agravo nos próprios autos.
+    O MP/RS também interpôs recurso especial, o qual foi admitido.
+    Analisados os elementos havidos nos autos, DECIDO.
+    Este recurso encontra-se prejudicado.
+    Conforme salientado, cumpre registrar que o representante do Ministério Público interpôs, simultânea e tempestivamente, recursos especial e extraordinário.
+    No Superior Tribunal de Justiça, o Recurso Especial foi autuado sob o nº 1.323.339, e provido mediante decisão monocrática do relator, Ministro Jorge Mussi, de cuja conclusão destaco, in verbis:
+    “...Ante o exposto, com fulcro no art. 557, § 1-A, do Código de Processo Civil, dou provimento ao recurso especial para restabelecer a decisão do Juiz da Vara de Execuções Penais que determinou a regressão do reeducando ao modo semiaberto de execução em decorrência de falta disciplinar de natureza grave” (eDoc. 3, fl. 88)
+    A referida decisão transitou em julgado em 24 de setembro de 2012 (certidão, eDoc. 3, fl. 99).
+    Atendida a pretensão do ora Recorrente pelo Superior Tribunal de Justiça, fica prejudicado o recurso extraordinário interposto. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ARGÜIÇÃO DE NULIDADE. FUNDAMENTOS CONSTITUCIONAL E LEGAL. NÃO-INTERPOSIÇÃO DE RECURSO ESPECIAL. PRECLUSÃO. RECURSO EXTRAORDINÁRIO. PREJUÍZO. AGRAVO AO QUAL SE NEGA PROVIMENTO. A anulação de decisão judicial fundada em norma legal e constitucional exige do Agravante a interposição simultânea dos recursos extraordinário e especial, para que, sob o ângulo estritamente legal, o tema possa ser apreciado pelo Superior Tribunal de Justiça. Não tendo sido tomada essa providência, ocorre a preclusão da matéria infraconstitucional, inviabilizando o processamento do recurso extraordinário. Agravo Regimental ao qual se nega provimento.” (AI 543.316-AgR, Relatora Ministra Cármen Lúcia, Primeira Turma, DJ 16/02/2007)
+    “RECURSO - INTERPOSIÇÃO SIMULTÂNEA DO ESPECIAL E DO EXTRAORDINÁRIO - PREJUÍZO. Ocorre o prejuízo do extraordinário quando o recorrente haja logrado êxito no julgamento do especial. O Direito é orgânico e dinâmico, sendo certo que, a teor do disposto no artigo 512 do Código de Processo Civil, o julgamento proferido pelo Tribunal substituiria a sentença ou a decisão recorrida que tiver sido objeto do recurso.” (AI 276.868-AgR, Rel. Min. Marco Aurélio, Segunda Turma, DJ 29/06/2001).
+    Ex positis, julgo prejudicado o recurso extraordinário com agravo, por perda superveniente de objeto, e determino a baixa dos autos à origem, com fundamento no artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se. Int..
+    Brasília, 11 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
