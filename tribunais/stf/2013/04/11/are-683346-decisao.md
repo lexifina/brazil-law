@@ -1,0 +1,15 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que negou seguimento ao recurso extraordinário no qual se alega contrariedade aos artigos 5°, incisos LIV e LV, e 37, caput e incisos X e XIV, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente, consignando expressamente que “o complemento de salário pago ao reclamante encontra-se disciplinado na Lei Municipal nº 4.684/01, não tendo por objetivo o complemento do salário do empregado para o atingimento do mínimo legal, como preconiza a Súmula Vinculante nº 15 do STF. Tanto assim é que a Corte a quo ressaltou que a própria lei municipal retromencionada prevê a integração da parcela em comento na base de cálculo das vantagens remuneratórias do servidor”.
+    Assim, o acolhimento da pretensão recursal demandaria o reexame da mencionada legislação municipal e do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 280 desta Corte. Sobre o tema:
+    “DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. GRATIFICAÇÃO. INCIDÊNCIA EM CASCATA. ART. 37, XIV, DA CONSTITUIÇÃO FEDERAL. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA STF 279. 1. Em casos como o dos presentes autos, esta Corte tem se posicionado no sentido de que para se verificar a ocorrência do denominado “efeito cascata”, seria necessário a análise de fatos e provas, procedimento vedado em sede extraordinária, a teor da Súmula STF 279. 2. Agravo regimental a que se nega provimento” (RE nº 477.979/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 28/4/11).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário
+    Publique-se.
+    Brasília, 11 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
