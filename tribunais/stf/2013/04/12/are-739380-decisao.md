@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário contra acórdão do Tribunal Regional do Trabalho da 5ª Região que negou provimento ao agravo de petição interposto pelo recorrente. Os embargos de declaração foram rejeitados (fl. 1082), além de ter-lhe sido aplicada a multa de 1% sobre o valor da causa, por serem manifestamente protelatórios.
+    No recurso extraordinário, a recorrente, com fundamento no artigo 102, III, a, da Constituição, aponta ofensa ao artigo 5º, XXII, da Carta Magna, asseverando, em suma, que a arrematação do bem por 20% do valor da avaliação, previsto no edital, configura preço vil, enriquecimento sem causa do arrematante e ofensa ao seu direito de propriedade.
+    O recurso foi inadmitido ao argumento de falta de exaurimento de instância, pois não cabe extraordinário de acórdão de TRT. Em suas razões, o agravante defende que tal entendimento representa cerceamento a seu direito de defesa.
+    2. Não prospera a irresignação da recorrente. Isto porque o recurso extraordinário foi interposto de acórdão do Tribunal Regional do Trabalho que negou provimento a agravo de petição. Desse modo, tal matéria estava sujeita a recurso de revista para o Tribunal Superior do Trabalho, órgão colegiado competente. A jurisprudência desta Corte é firme em não admitir recurso extraordinário de quaisquer decisões proferidas por Tribunal Regional do Trabalho. Diante desse quadro, não se pode conhecer do extraordinário ante o óbice da Súmula 281 do STF (É inadmissível o recurso extraordinário, quando couber, na Justiça de origem, recurso ordinário da decisão impugnada). Nesse sentido, confira-se: ARE 682.687 AgR/SP, Rel. Min. AYRES BRITTO (Presidente), Tribunal Pleno, DJe de 30/11/2012; AI 800.149 ED/SP, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe de 24/09/2010; AI 689.741 AgR/SP, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 17/04/2009.
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 12 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
