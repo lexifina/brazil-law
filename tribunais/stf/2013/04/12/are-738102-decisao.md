@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. PROGRESSÃO HORIZONTAL. REQUISITOS. LEI MUNICIPAL N. 1.173/2001. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO LOCAL: SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso inadmitido teve como objeto o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “REEXAME NECESSÁRIO. PROGRESSÃO HORIZONTAL. SERVIDORA DO MUNICÍPIO DE ATALÉIA. LEI MUNICIPAL N.º 1.173/2001. REQUISITOS NÃO COMPROVADOS.
+    Não tem direito à progressão horizontal a servidora que não tenha comprovado preencher os requisitos previstos na Lei Municipal n.º 1.173/2001.
+    Em reexame necessário, reformar a sentença. Julgar improcedente o pedido inicial” (grifos nossos).
+    2. No recurso extraordinário, a Agravante alega que teriam sido contrariados os arts. 5º, inc. XXXIV, alínea a, e 37, caput, e § 1º, da Constituição da República.
+     Argumenta ter restado comprovado “o cumprimento dos requisitos contidos nos incisos I, II e § 1º do artigo supracitado – sendo demonstrado por meio de provas juntadas aos autos, bem como pela inaplicabilidade lógica da exigência de se obter conceito favorável na avaliação de desempenho, haja vista a omissão do Município em promover a referida avaliação”.
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a incidência das Súmulas 279 e 280 deste Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório constante do processo e a análise prévia da legislação local aplicável à espécie (Lei municipal n. 1.173/2001). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incidem as Súmulas n. 279 e 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PROGRESSÃO SALARIAL. LEI ESTADUAL N. 10.961/1992 E DECRETO ESTADUAL N. 36.033/1994. IMPOSSIBILIDADE DE REEXAME DE PROVAS E DE ANÁLISE DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DAS SÚMULAS N. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 853.465-AgR, de minha relatoria, DJe 9.4.2012, grifos nossos).
+    “Agravo regimental no recurso extraordinário. Legislação infraconstitucional. Lei Municipais nºs 7.169/96 e 8.690/03. Súmulas nºs 279 e 280. Precedentes. 1. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional (Lei Municipais nºs 7.169/96 e 8.690/03) e o reexame dos fatos e das provas dos autos. Incidência da Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido” (RE 627.731-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 17.6.2011, grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. PROGRESSÃO NA CARREIRA. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. ALEGADA OFENSA AO ART. 5º, II, DA CF. OFENSA REFLEXA. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie (Lei 10.961/92 e Decreto 36.033/94). Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - O Tribunal entende não ser cabível a interposição de RE por contrariedade ao art. 5º, II, da Constituição Federal, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais. III – Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. IV - Agravo regimental improvido” (AI 803.599-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 10.11.2010, grifos nossos).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 12 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
