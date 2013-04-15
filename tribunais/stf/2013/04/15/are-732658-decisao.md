@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro que manteve a sentença que julgara procedente o pedido para condenar o recorrente: (a) a proceder à revisão de benefício de pensão por morte, para que corresponda a 100% dos rendimentos do ex-segurado; (b) ao pagamento das diferenças não atingidas pela prescrição quinquenal. No julgamento dos embargos declaratórios, consignou-se que “o art. 1º da Lei estadual 1586/89 assegurou a complementação salarial e a incorporação do valor correspondente, com o direito pessoal, ao servidor estatutário que, na data da vigência da presente lei, estivesse à disposição da entidade da Administração indireta” (fls. 249 e 312).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta, com fundamento no artigo 102, III, a, da Constituição, ofensa aos seguintes dispositivos constitucionais: (a) art. 40, §§ 2º, 3º, 7º e 8º, tendo em vista que o cargo ocupado pelo ex-segurado na Sociedade de Economia Mista da Companhia de Águas e Esgotos – CEDAE - não pode servir de base à revisão da pensão da parte autora, pois o ex-servidor ocupava cargo na Administração Direta do Estado do Rio de Janeiro e estava apenas à disposição da sociedade de economia mista; (b) art. 37, II, asseverando que a cessão de servidor público tem a natureza precária e provisória, não lhe conferindo o direito de permanecer no cargo para o qual foi cedido, e nem de ser considerado servidor efetivo do mesmo.
+    2. Não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria contida no art. 37, II, da Constituição, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido.
+    3. Quanto ao mais, o acolhimento do recurso exigiria incursão em norma estadual (Lei estadual 1.586/89 – fl. 330), o que esbarra no óbice da Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+    4. Ante o exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 15 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
