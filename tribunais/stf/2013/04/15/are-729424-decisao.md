@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão do Colégio Recursal do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “SERVENTUÁRIA ESTADUAL QUE RECEBE GRATIFICAÇÃO DE INSALUBRIDADE. FATO INCONTROVERSO: INSALUBRIDADE RECONHECIDA. DIREITO À APOSENTADORIA ESPECIAL (ART. 40, §4º CF). INEXISTÊNCIA DE LEI ESTADUAL REGULAMENTANDO O DIREITO. APLICAÇÃO POR ANALOGIA DA LEI 8.213/91. ORDEM EMANADA EM MANDADO DE INJUNÇÃO, PELO STF COM EFEITO ‘ERGA OMNES’ SENTENÇA DE PROCEDÊNCIA MANTIDA. RECURSO CONHECIDO E NAO PROVIDO” (fl. 302)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se, violação ao artigo 40, § 4º, do texto constitucional.
+    Alega-se, em síntese, que inexiste legislação autorizadora do pedido inicial da recorrida, “no âmbito das leis que regem o funcionalismo público do Estado de São Paulo, descabendo, ainda, aplicar-se o artigo 40, § 4º, da Constituição Federal, considerando-se não ser tal norma auto-aplicável”. (fl. 323)
+    Decido.
+    As razões recursais não merecem prosperar.
+    Verifico que o Tribunal de origem decidiu em conformidade com a jurisprudência da Corte, diante da ausência de regulamentação no âmbito interno dos critérios para a aposentadoria especial, para determinar à Fazenda Pública do Estado de São Paulo a averbação do tempo de serviço prestado em caráter insalubre, coma respectiva conversão do tempo comum, para fins de aposentadoria, por analogia à Lei 8.213/91. A propósito disso, confiram-se os fundamentos adotados pelo voto do seguinte trecho do aresto recorrido:
+    “Esclareça-se que o feito trata da concessão de apostilação de tempo de serviço prestados em condições especiais por servidor publico estadual, com vistas senão à obtenção futura de aposentadoria especial, em analogia aos termos do Regime Geral da Previdência Social, consolidado o entendimento pelo Plenário do Supremo Tribunal Federal, no sentido de que a mora legislativa identificada por inúmeros mandados de injunções julgados por aquela Corte Suprema, em relação ao art. 40, § 4º, da Constituição Federal, acarreta, como consequência, a subsistência da contagem diferenciada de tempo de serviço em condições especiais, subsumindo-se nestes casos o regime jurídico previdenciário previsto na Lei nº 8.212/91, ainda que os servidores públicos possuam regime próprio de previdência.
+    E o voto condutor deste novo posicionamento, no sentido de se aplicar analogicamente as regras do Regime Geral de Previdência Social aos servidores públicos, adveio da decisão adotada pelo Pleno do Supremo Tribunal Federal, no julgamento do Mandado de Injunção nº 721-7 DF, com votação unânime, de relatoria do E. Ministro Marco Aurélio de Mello” (fls. 229v-230)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (arts. 21, § 1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
