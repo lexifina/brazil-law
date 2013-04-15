@@ -1,0 +1,9 @@
+Despacho: Trata-se de agravo regimental (fls. 126) contra decisão que deu provimento ao recurso extraordinário, sob o fundamento de que o Plenário desta Corte, ao apreciar o RE 573.540/MG, Relator o Ministro Gilmar Mendes, cuja repercussão geral da questão constitucional nele tratada foi reconhecida, decidiu que falece aos Estados-membros competência para criar contribuição compulsória destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores.
+    Os agravantes sustentam que “o Estado de Minas Gerais opôs embargos declaratórios nos autos da ADI nº 3106, veiculando a omissão naquele acórdão embargado quanto a modulação dos seus efeitos. Os embargos ainda não foram julgados e necessitam de modulação diante do risco iminente de se inviabilizar, doravante, a prestação de assistência a saúde dos servidores públicos mineiros pelo Estado de Minas Gerais, via IPSEG. (…) Requer-se a aplicação analógica do disposto no art. 27 a Lei nº 9.868/98, nos presentes autos, o que possibilitará que a declaração de inconstitucionalidade seja dotada de eficácia ex nunc, a operar efeitos somente a partir do trânsito em julgado da decisão, desautorizando, portanto, petição de indébito como efeito da decisão ora recorrida.” (fl. 131).
+    Requerem, ao final, “quanto a existência de embargos de declaração opostos pelo Estado de Minas Gerais pendentes de apreciação por essa Egrégia Corte Maior nos autos da ADI 3106, para que, como se disse, sejam modulados os efeitos da decisão ali proferida, o sobrestamento do presente processo, até que se ultime o julgamento nos embargos de declaração opostos pelo ora Agravante na ADI 3106”.
+    Tendo em vista as considerações acima, determino o sobrestamento do feito até o julgamento final da ADI 3.106/MG.
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
