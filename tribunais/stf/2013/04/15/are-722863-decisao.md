@@ -1,0 +1,25 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. REGIME ESTATUTÁRIO. REENQUADRAMENTO. PARIDADE. EXTENSÃO DE VANTAGEM AOS INATIVOS. IMPOSSIBILIDADE. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE SOBRE O TEMA.
+1. O recorrente apesar de não indicar o dispositivo constitucional supostamente ofendido, seus argumentos indicam violação ao art. 40, § 8º, da Constituição Federal.
+2. A jurisprudência da Corte é no sentido de que é inviável estender a servidores inativos as vantagens pecuniárias decorrentes de reposicionamento, na carreira, de servidores ativos, com fundamento no art. 40, § 8º, da Constituição. Precedentes.
+3. In casu, o acórdão impugnado não teria observado o disposto no art. 7º, da Emenda Constitucional nº 41/2003, no que diz respeito à paridade entre servidores ativos e inativos, pois, segundo defende, a Lei estadual nº 15.470/05, que reestruturou o funcionalismo público local com transformação do cargo ocupado pelo recorrente, e a Lei nº 15.961/05, que o reenquadrou em determinada posição na tabela de vencimentos, não o teria reposiciona na carreira em situação igual ao do seu paradigma em atividade.
+4. Conheço do agravo para negar provimento ao recurso extraordinário (arts. 544, § 4º, II, a, do CPC, c/c 21, § 1º, do RISTF).
+    Decisão: Trata-se de agravo interposto com base no art. 544 do Código de Processo Civil, contra decisão que inadmitiu recurso extraordinário, sob o fundamento de que a alegação de ofensa ao texto constitucional, acaso existente, seria indireta e reflexa.
+    Nas razões recursais, a parte agravante alega desacerto da decisão agravada, contrapondo-se, em síntese, aos argumentos do julgado. Pede, ao fim, o conhecimento do agravo e o provimento do recurso.
+    Na origem, o recurso extraordinário foi manejado com esteio no art. 102, III, a, da Constituição da República, em face de acórdão do Tribunal de Justiça de Santa Catarina, assim ementado:
+    “APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - SERVIDOR APOSENTADO DA IMPRENSA OFICIAL - TRANSFORMAÇÃO DO CARGO - LEI Nº15.470/2005 - NOVA TABELA DE VENCIMENTOS - LEI Nº 15.961/2005 - POSICIONAMENTO - VENCIMENTO BÁSICO - CONSONÂNCIA COM A NORMA APLICÁVEL - UTILIZAÇÃO DO TEMPO DE SERVIÇO - DECRETO Nº45.274/2009 - IMPOSSIBILIDADE - AUSÊNCIA DE REQUISITO LEGAL - MANUTENÇÃO DA SENTENÇA.
+    A Lei nº 15.961/2005 estabeleceu novas tabelas de vencimento básico das carreiras do Poder Executivo, dispondo sobre o posicionamento dos servidores nas carreiras, inclusive quanto aos Técnicos da Indústria Gráfica, servidores da Imprensa Oficial do Estado de Minas Gerais.
+    O art. 18 do Decreto nº 45.274/2009, aplicável ao servidor aposentado da Imprensa Oficial, exige o implemento de certas condições para o reposicionamento com base no tempo de serviço na carreira.
+    Comprovado que não houve equívoco quando do reposicionamento do servidor aposentado na nova tabela de vencimentos prevista para o cargo, nem que do referido ato tenha havido redução salarial, deve ser mantida a sentença que julgou improcedente o pedido inaugural” (fl. 154).
+    Não foram opostos embargos de declaração.
+    Nas razões do recurso extraordinário, o recorrente apresenta preliminar de repercussão geral fundamentada e, no mérito, apesar de não indicar o dispositivo constitucional supostamente ofendido, seus argumentos indicam violação ao art. 40, § 8º, da Constituição Federal.
+    Aduz, nesse sentido, que o acórdão impugnado não teria observado o disposto no art. 7º da Emenda Constitucional nº 41/2003, no que diz respeito à paridade entre servidores ativos e inativos, pois, segundo defende, a Lei estadual nº 15.470/05, que reestruturou o funcionalismo público local com transformação do cargo ocupado pelo recorrente, e a Lei nº 15.961/05, que o reenquadrou em determinada posição na tabela de vencimentos, não o teria reposicionado na carreira em situação igual ao do seu paradigma em atividade.
+    É o relatório. Decido.
+    Conquanto admissível o agravo de instrumento, o recurso extraordinário não prospera.
+    Com efeito, o acórdão impugnado está em conformidade com a jurisprudência pacífica desta Corte que, no julgamento do RE nº 522.570-AgR, (Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe de 5.6.2009), assim manifestou-se sobre tema, objeto deste recurso:
+    “A jurisprudência da Corte é no sentido de que é inviável estender a servidores inativos as vantagens pecuniárias decorrentes de reposicionamento, na carreira, de servidores ativos, com fundamento no art. 40, § 8º, da Constituição” (No mesmo sentido: RE 536.593-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe de 27.11.2009; RE 425.451-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJ de 31.8.2007; RE 323.857, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 6.8.2004).
+    Ex positis, conheço do agravo para negar provimento ao recurso extraordinário (arts. 544, § 4º, II, a, do CPC, c/c 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
