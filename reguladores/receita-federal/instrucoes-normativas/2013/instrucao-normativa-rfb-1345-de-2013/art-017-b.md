@@ -1,0 +1,1 @@
+Art. 17-B. O despacho aduaneiro para admissão no regime de que trata o art. 17-A poderá ser realizado com base em DSI, mediante a utilização dos formulários de que trata o art. 4º da Instrução Normativa SRF nº 611, de 18 de janeiro de 2006.

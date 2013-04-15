@@ -1,0 +1,1 @@
+Art. 17-D. O preenchimento dos campos constantes dos formulários da DSI referidos no art. 4º da Instrução Normativa SRF nº 611, de 2006, relativos aos valores dos tributos incidentes na importação, bem como o respectivo demonstrativo de cálculos, fica dispensado na hipótese de que trata o art. 17-A.

@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1345, de 12 de abril de 2013
+Altera a Instrução Normativa RFB nº 1.293, de 21 de setembro de 2012, que dispõe sobre o despacho aduaneiro de bens procedentes do exterior destinados à utilização na Copa das Confederações Fifa 2013 e na Copa do Mundo Fifa 2014, de que trata a Lei nº 12.350, de 20 de dezembro de 2010.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no § 2º do art. 3º, no § 3º do art. 4º e no art. 6º da Lei nº 12.350, de 20 de dezembro de 2010, resolve:
