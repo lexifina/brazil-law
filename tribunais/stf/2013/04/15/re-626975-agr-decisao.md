@@ -1,0 +1,17 @@
+DECISÃO: A Confederação Nacional do Comércio (CNC) e a Associação Brasileira de Supermercados (ABRAS), com apoio no art. 106 do CPC, formulam pedido de redistribuição destes autos ao eminente Ministro MARCO AURÉLIO, Relator do AI 812.328/MG, sob a alegação de estar configurada, na espécie, hipótese caracterizadora de prevenção (fls. 540/541).
+    A postulação ora deduzida apoia-se, em síntese, nos seguintes fundamentos (fls. 540/541):
+    “Com efeito, no presente Recurso Extraordinário a primeira decisão foi proferida 06/09/2010 e registrada no site em 20/09/2010, prolatada pelo preclaro Ministro CELSO DE MELLO.
+    Ocorre que em 08/08/2010 o altiloqüente Ministro MARCO AURÉLIO DE MELLO já havia prolatado decisão (cópia anexa) que fora registrada no site em 10/09/2010 nos autos do Agravo de Instrumento n.º 812.328/MG (cópia anexa), em que figuram as mesmas partes.
+    Deve ser registrado que ambos os recursos são derivados do mesmo processo, havendo inclusive prejudicialidade do Recurso Extraordinário em caso de procedência do Agravo por Instrumento, eis que o último versa sobre CERCEAMENTO DO DIREITO DE DEFESA em virtude de inexistência de intimação do advogado indicado nos autos.
+    Dessa forma, deve ser aplicada a prevenção nos termos do art. 106, do Código de Processo Civil, que dispõe, ’in verbis’:
+    ‘Art. 106. Correndo em separado ações conexas perante juízes que têm a mesma competência territorial, considera-se prevento aquele que despachou em primeiro lugar.’
+    ‘In casu’, imprescindível que os recursos sejam julgados pelo mesmo Relator, que possuirá melhor visão global para julgar a lide, afastando qualquer possibilidade de haver decisões contraditórias prolatadas pelo PRETÓRIO EXCELSO.”
+    O pedido em referência, contudo, revela-se insuscetível de conhecimento, eis que eventual hipótese de prevenção deveria ter sido apontada pela parte interessada na primeira oportunidade que teve para se pronunciar nestes autos, consoante prescreve o art. 67, § 6º, do RISTF, na redação dada pela Emenda Regimental nº 34/2009.
+    Como nada se arguiu na fase procedimental adequada, registrou-se, no caso, em face dessa omissão, situação configuradora de preclusão referente à suposta ocorrência de prevenção na espécie.
+    Não pode, desse modo, a parte ora interessada – a quem se impunha o dever de alegar, na primeira oportunidade que se lhe apresentasse, a configuração de hipótese de prevenção – deduzir, agora, em momento procedimental já superado no tempo, o pedido em questão, pois não mais lhe assiste o direito de fazê-lo, em virtude da configuração, na espécie, de típica situação caracterizadora de preclusão.
+    Cabe acentuar, no ponto, que esse entendimento tem prevalecido na jurisprudência do Supremo Tribunal Federal, que, por mais de uma vez, já afirmou, quanto à matéria ora em exame, que a ausência de arguição, “opportuno tempore”, de eventual ocorrência de hipótese de prevenção opera insuperável situação de preclusão da faculdade processual de suscitar essa questão (AI 737.144/RJ, Rel. Min. GILMAR MENDES – AI 817.289-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI – CC 7.699- -AgR/MG, Rel. Min. GILMAR MENDES, v.g.).
+    Sendo assim, e tendo em consideração as razões expostas, não conheço do pedido formulado a fls. 540/541, eis que deduzido extemporaneamente (RISTF, art. 67, § 6º, na redação dada pela Emenda Regimental nº 34/2009).
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
