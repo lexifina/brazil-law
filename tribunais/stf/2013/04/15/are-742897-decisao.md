@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CIVIL. ALTERAÇÃO DE REGISTRO DE NASCIMENTO. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Retificação de assento. Pretensão do requerente de alterar a data constante do registro de nascimento de 17.06.1951 para 18.06.1950. Certidão de batismo e cópias de livro de batismo que não bastam para suprimir a presunção de veracidade do registro público. Recurso não provido.”
+    2. O Agravante alega que Tribunal de origem teria contrariado o art. 5º, inc. XXXV, LV e LXXIV, da Constituição da República.
+    Argumenta existir “erro sobre critérios de apreciação da prova, e inexata valoração jurídica da prova que consiste em matéria de direito, uma vez que a prova documental juntada veio comprovar que o recorrente efetivamente nasceu na data de 18/06/1950, pois a prova documental produzida foi coerente e harmônica.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. No voto condutor do acórdão recorrido, o Desembargador Relator Ênio Santarelli Zuliani afirmou:
+    “Não há prova suficiente de que o requerente nasceu em ano diferente daquele declarado em sua certidão de nascimento.O assento aponta como data de nascimento a de 17.06.1951, como se vê à fl. 12, enquanto o autor alega que o correto seria 18.06.1950. Nota-se que, apesar de o registro só ter sido providenciado 5 anos depois, não há como deduzir que o responsável pela declaração se equivocou quanto ao dia e ano do nascimento noticiado, na medida em que até o seu horário foi informado.”
+    O Tribunal a quo apreciou a matéria à luz dos fatos e das provas constantes dos autos.
+    Concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXIBIÇÃO DE DOCUMENTOS. IMPOSSIBILIDADE DE REEXAME DAS PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. ALEGADO DESCUMPRIMENTO DO ART. 5º, INC. XXXV, DA CONSTITUIÇÃO DA REPÚBLICA. CONTROVÉRSIA DECIDIDA À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 842.998-AgR, de minha relatoria, Primeira Turma, DJe 21.6.2011).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279. FUNDAMENTO SUFICIENTE DO ACÓRDÃO RECORRIDO AMPARADO EM EXAME DE PROVAS. IMPOSSIBILIDADE DE SUA MODIFICAÇÃO. APLICAÇÃO DA SÚMULA 283 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. AGRAVO IMPROVIDO. I – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. II – Nas hipóteses em que o acórdão recorrido se assenta em fundamento suficiente amparado no exame das provas constantes dos autos e este se torna imodificável, como na espécie, torna-se inviável o exame do recurso extraordinário ante a incidência da Súmula 283 do STF. III – Agravo regimental improvido” (RE 608.017-AgR-segundo, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 12.4.2013).
+    7. Ademais, o Supremo Tribunal assentou que as alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
