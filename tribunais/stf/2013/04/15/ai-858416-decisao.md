@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. SERVIDOR PÚBLICO FEDERAL. VENCIMENTOS: CONVERSÃO EM UNIDADE REAL DE VALOR – URV. DIFERENÇAS. LIMITAÇÃO TEMPORAL. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Turma do Tribunal Regional Federal da 4ª Região decidiu:
+    “PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. VENCIMENTOS. CONVERSÃO PARA URV. LIMITAÇÃO. ACUMULAÇÃO DOS HONORÁRIOS. 1. O Supremo Tribunal Federal, em sede de medida cautelar na ADI n. 2.323-3/DF, deu nova orientação no sentido de não limitar o pagamento da diferença de 10,94% à Lei 9.421/96. 2. A verba honorária decorrente da sucumbência havida nos embargos à execução não se confunde com os honorários advocatícios fixados no processo de execução” (fl. 172).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a circunstância de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    4. A Agravante argumenta que:
+    “A matéria ventilada no acórdão recorrido, ademais dos fundamentos legais específicos, é de índole eminentemente constitucional – o que impede, portanto, afirmação de que se trata de ofensa reflexa” (fl. 7).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado os arts. 5º, inc. II, 37, caput, e 102, § 2º, da Constituição da República.
+    Sustenta que:
+    “não se poderia pagar a totalidade do que é postulado, em virtude de decisão proferida em ação direta de inconstitucionalidade, dotada de efeitos vinculantes e eficácia ‘erga omnes’, nos moldes dos arts. 102, § 2º, da CRFB/88 e 28, parágrafo único, da Lei n. 9.868/99, que em julgamento da matéria aqui discutida, entendeu que eventuais diferenças somente seriam devidas aos servidores, caso dos autos, até dezembro de 1996, inclusive, o que faria com que o montante exequendo devesse ser reduzido drasticamente, em face de tal limitação temporal. Confira-se a dicção do julgado: (...).
+    Não bastasse o efeito vinculante aos demais órgãos do Poder Judiciário que exsurge da declaração do STF em sede de ADI, temos ainda que, em se tratando de execução judicial de título que transitou em julgado em desacordo com a decisão do STF, nos moldes do art. 741, II, c/c parágrafo único, do CPC, o título passa a ser inexigível em relação às parcelas posteriores a dezembro de 1996, no que essas passam, automaticamente a constituírem verdadeiro excesso de execução, ‘in verbis’: (...).
+    (...)
+    Frente a esse quadro, qualquer decisão que autorize novo pagamento do reajuste pleiteado além da limitação temporal fixada na decisão do STF acima referida, configura privilégio infundado em prol de interesses particulares em detrimento de interesses públicos indisponíveis, violando, de uma só vez, os artigos 5º, II, e 37, ambos da CF/88 (princípios da legalidade e moralidade orientadores da atuação da Administração Pública), art. 5º, ‘caput’, da CF/88 (princípios da isonomia – pela concessão de privilégio sem amparo legal) e art. 964 do Código Civil/1916 (art. 876 do CC/2002) (pagamento indevido).
+    Dessa forma, a remuneração dos servidores, caso não observada a limitação a dezembro de 1996, representaria um incremento superior ao relativo à URV, devendo este ser absorvido por aquele já recebido.
+    Assim, manter a homologação dos cálculos, implica em manter o excesso de execução, em afronta direta por aquele já recebido” (fls. 209-211).
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada, pois a matéria posta à apreciação foi julgada, em caso análogo, por este Supremo Tribunal, demonstrando-se cuidar de matéria constitucional, única a autorizar a análise em recurso extraordinário.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão da Agravante.
+    6. O Desembargador Federal Relator do caso, na Quarta Turma do Tribunal Regional Federal da 4ª Região, afirmou:
+    “Inicialmente, o Supremo Tribunal Federal entendeu que a Lei n. 9.421/96, ao instituir as carreiras dos servidores do Poder Judiciário, havia fixado novos padrões de vencimentos em real, de modo que os efeitos do reajuste de 10,98% não deveriam ser aplicados a esta nova base. Essa decisão foi tomada na Ação Direta de Inconstitucionalidade n. 1.797-0, Relator o Ministro Ilmar Galvão.
+    Posteriormente, o Supremo Tribunal Federal deu nova orientação à matéria, fruto de muito debate na Corte, para concluir que a Lei n. 9.421/96, não promoveu nenhum aumento de vencimento, de modo que permaneceram em vigor os valores de agosto de 1995. O efeito desta lei foi apenas de reestruturar as carreiras dos servidores do Poder Judiciário da União.
+    Esse novo entendimento foi tomado em apreciação de medida cautelar na Ação Direta de Inconstitucionalidade n. 2.323-3, Relator o Ministro Ilmar Galvão que, desta vez, foi vencido.
+    Desta forma, em vista da orientação do Supremo Tribunal Federal, deve-se reconhecer a impossibilidade de limitar-se no tempo o pagamento da diferença, em virtude da Lei n. 9.421/96, haja vista esta lei não ter efetuado nenhum aumento de vencimentos, tendo mantido os seus valores com a expressão real vigorante desde agosto de 1995” (fl. 170).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que afastou a limitação temporal imposta ao pagamento das diferenças devidas aos servidores do Poder Judiciário em consequência da conversão de seus vencimentos em Unidade Real de valor – URV pela Administração Pública Federal.
+    Nesse sentido:
+    “SERVIDOR PÚBLICO DO PODER JUDICIÁRIO. CONVERSÃO EM URV. ÍNDICE DE 11,98%. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. SUPERAÇÃO DO ENTENDIMENTO FIRMADO NO JULGAMENTO DA ADI N. 1.797 NO JULGAMENTO DA ADI N. 2.323. A questão relativa à limitação temporal do acréscimo de 11,98% à remuneração dos servidores públicos foi analisada por esta Corte no julgamento dos pedidos de medida cautelar na ADI n. 2.321, Min. Celso de Mello, DJ 10.06.2005 e na ADI n. 2.323, Min. Ilmar Galvão, DJ 20.04.2001, restando superado o entendimento firmado na ADI n. 1.797 de incidência do aludido percentual para o período de abril de 1994 a dezembro de 1996. Agravo regimental a que se nega provimento” (RE 416.940-AgR, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 3.8.2007).
+    Nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
