@@ -1,0 +1,421 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 10
+
+16/04/2013
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 593.573 SÃO PAULO
+RELATOR
+EMBTE.(S)
+PROC.(A/S)(ES)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DO ESTADO DE SÃO PAULO
+: KEITI MINAKATA
+: AGNELLO HERTON TRAMA
+EMENTA
+
+Embargos de declaração no recurso extraordinário. Conversão em
+agravo regimental. Precatório. Juros moratórios e compensatórios.
+Incidência de juros de mora no caso de inadimplemento.
+1. Os juros moratórios e compensatórios não incidem durante o
+parcelamento previsto no art. 33 do ADCT da Constituição Federal de
+1988.
+2. Somente são cabíveis os juros moratórios na hipótese de
+inadimplência da Fazenda Pública. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao
+qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Primeira Turma do Supremo Tribunal Federal, sob a Presidência do
+Senhor Ministro Dias Toffoli, na conformidade da ata do julgamento e das
+notas taquigráficas, por maioria de votos, em converter os embargos de
+declaração em agravo regimental, vencido, nessa parte, o Senhor Ministro
+Marco Aurélio. Acordam, ademais, os Ministros, por unanimidade de
+votos, em negar provimento ao agravo regimental, nos termos do voto do
+Relator.
+Brasília, 16 de abril de 2013.
+MINISTRO DIAS TOFFOLI
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104632.
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 10
+
+RE 593573 ED / SP
+Relator
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104632.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 10
+
+16/04/2013
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 593.573 SÃO PAULO
+RELATOR
+EMBTE.(S)
+PROC.(A/S)(ES)
+EMBDO.(A/S)
+ADV.(A/S)
+
+: MIN. DIAS TOFFOLI
+: ESTADO DE SÃO PAULO
+: PROCURADOR-GERAL DO ESTADO DE SÃO PAULO
+: KEITI MINAKATA
+: AGNELLO HERTON TRAMA
+RELATÓRIO
+
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Estado de São Paulo opõe tempestivos embargos de declaração (fls.
+199/200) contra decisão em que dei parcial provimento ao recurso
+extraordinário, com a seguinte fundamentação:
+“Vistos.
+Estado de São Paulo interpõe recurso extraordinário, com
+fundamento na alínea ‘a’ do permissivo constitucional, contra
+acórdão da Décima Terceira Câmara de Direito Público do
+Tribunal de Justiça daquele Estado, assim ementado:
+‘Fazenda do Estado de São Paulo – Embargos à
+Execução – Improcedência – Inconformismo – Alegações
+de ocorrência de prescrição, preclusão, ilegalidade dos
+juros e do índice aplicado – Impossibilidade de
+acolhimento – Prequestionamento solucionado –
+Honorários advocatícios mantidos – Apelos improvidos’
+(fl. 122).
+Sustenta o recorrente contrariedade ao artigo 33 do Ato
+das Disposições Constitucionais Transitórias. Pretende ‘declarar
+a impossibilidade de incidência de juros moratórios e
+compensatórios sobre as parcelas do precatório colhido pelo
+artigo 33 do ADCT e determinar sua exclusão do montante da
+dívida’ (fl. 147).
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 10
+
+RE 593573 ED / SP
+Contra-arrazoado (fls. 165 a 171), o recurso extraordinário
+(fls. 141 a 147) foi admitido (fls. 185/186).
+Decido.
+A Emenda Constitucional nº 45, de 30/12/04, que
+acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a
+exigência da demonstração da existência de repercussão geral
+das questões constitucionais trazidas no recurso extraordinário.
+A matéria foi regulamentada pela Lei nº 11.418/06, que
+introduziu os artigos 543-A e 543-B ao Código de Processo
+Civil, e o Supremo Tribunal Federal, através da Emenda
+Regimental nº 21/07, dispôs sobre as normas regimentais
+necessárias à sua execução. Prevê o artigo 323 do Regimento
+Interno do Supremo Tribunal Federal, na redação da Emenda
+Regimental nº 21/07, que, quando não for o caso de
+inadmissibilidade do recurso extraordinário por outra razão,
+haverá o procedimento para avaliar a existência de repercussão
+geral na matéria objeto do recurso.
+Esta Corte, com fundamento na mencionada legislação,
+quando do julgamento da Questão de Ordem no Agravo de
+Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro
+Sepúlveda Pertence, firmou o entendimento de que os recursos
+extraordinários interpostos contra acórdãos publicados a partir
+de 3/5/07, data da publicação da Emenda Regimental nº 21/07,
+deverão demonstrar, em preliminar do recurso, a existência da
+repercussão geral das questões constitucionais discutidas no
+apelo.
+No caso em tela, o recurso extraordinário possui a referida
+preliminar e o apelo foi interposto contra acórdão publicado em
+24/11/07 (fl. 129), quando já era plenamente exigível a
+demonstração da repercussão geral.
+Os artigos 543-A, § 3º, do Código de Processo Civil e 323, §
+1º, in fine, do RISTF, na redação da Emenda Regimental nº
+21/07, prevêem que haverá repercussão geral sempre que o
+recurso impugnar decisão contrária a súmula ou jurisprudência
+dominante desta Corte, o que, efetivamente, ocorre em parte no
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 10
+
+RE 593573 ED / SP
+caso dos autos.
+A irresignação merece prosperar, em parte.
+No tocante aos juros moratórios, ressalte-se que o Plenário
+desta Corte, em sessão realizada por meio eletrônico, concluiu,
+no exame do Recurso Extraordinário nº 591.085/MS-QO, Relator
+o Ministro Ricardo Lewandowski, pela existência da
+repercussão geral do tema constitucional versado no presente
+feito, qual seja, a possibilidade de incidência de juros de mora
+sobre os precatórios, no período compreendido entre a sua
+expedição e o seu pagamento, quando realizado até o final do
+exercício seguinte.
+Ao apreciar o mérito, o Plenário confirmou a
+jurisprudência consolidada nesta Corte no sentido da
+inconstitucionalidade da incidência de juros de mora no
+período entre a inclusão do precatório em orçamento até o
+prazo constitucional previsto para seu pagamento, qual seja, até
+o final do exercício seguinte. O julgamento restou assim
+ementado:
+‘CONSTITUCIONAL. PRECATÓRIOS. JUROS DE
+MORA. INCIDÊNCIA DURANTE O PRAZO PREVISTO
+NA CONSTITUIÇÃO PARA SEU PAGAMENTO.
+IMPOSSIBILIDADE. ART. 100, § 1º (REDAÇÃO
+ORIGINAL E REDAÇÃO DADA PELA EC 30/2000), DA
+CONSTITUIÇÃO.
+I - QUESTÃO DE ORDEM. MATÉRIA DE MÉRITO
+PACIFICADA NO STF. REPERCUSSÃO GERAL
+RECONHECIDA.
+CONFIRMAÇÃO
+DA
+JURISPRUDÊNCIA. DENEGAÇÃO DA DISTRIBUIÇÃO
+DOS RECURSOS QUE VERSEM SOBRE O MESMO
+TEMA. DEVOLUÇÃO DESSES RE À ORIGEM PARA
+ADOÇÃO DOS PROCEDIMENTOS PREVISTOS NO ART.
+543-B, § 3º, DO CPC. PRECEDENTES: RE 579.431-QO/RS,
+RE 582.650-QO/BA, RE 580.108-QO/SP, MIN. ELLEN
+GRACIE; RE 591.068-QO/PR, MIN. GILMAR MENDES;
+RE 585.235-QO/MG, REL. MIN. CEZAR PELUSO. II –
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 10
+
+RE 593573 ED / SP
+Julgamento de mérito conforme precedentes.
+III – Recurso provido’ (DJe de 19/2/09).
+Demais disso, o Tribunal Pleno, em sessão do dia 29/10/09,
+aprovou o Enunciado Vinculante nº 17, desta Corte, com a
+seguinte redação:
+‘Durante o período previsto no parágrafo 1º do
+artigo 100 da Constituição, não incidem juros de mora
+sobre os precatórios que nele sejam pagos.’
+Com efeito, conforme a jurisprudência deste Tribunal, não
+se admite a incidência de juros moratórios ou compensatórios,
+para efeito de pagamento de precatório, mediante a regra
+instituída pelo artigo 33 do Ato de Disposições Constitucionais
+Transitórias, quando não configurado o inadimplemento ou
+atraso na liquidação das parcelas. Nesse sentido:
+‘AGRAVO REGIMENTAL NO AGRAVO DE
+INSTRUMENTO.
+CONSTITUCIONAL.
+DESAPROPRIAÇÃO
+INDIRETA.
+PRECATÓRIO.
+AGRAVO REGIMENTAL AO QUAL SE NEGA
+PROVIMENTO. 1. A jurisprudência do Supremo Tribunal
+Federal firmou-se no sentido de que não incidem juros de
+mora e compensatórios no período compreendido pelo
+art. 33 do Ato das Disposições Constitucionais
+Transitórias. Somente serão cabíveis os juros moratórios se
+houver atraso
+no pagamento. Precedentes. 2.
+Desapropriação
+indireta.
+Justa
+indenização.
+Impossibilidade do reexame de provas. Incidência da
+Súmula 279 do Supremo Tribunal’ (AI nº 643.732/SP-AgR,
+Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe
+de 26/6/09).
+‘CONSTITUCIONAL.
+ADMINISTRATIVO.
+DESAPROPRIAÇÃO. PRECATÓRIO. PARCELAMENTO.
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 10
+
+RE 593573 ED / SP
+ART. 33 DO ADCT. JUROS COMPENSATÓRIOS E
+MORATÓRIOS. EXCLUSÃO. INCIDÊNCIA DE JUROS
+MORATÓRIOS NO PAGAMENTO DE PARCELAS
+PAGAS EM ATRASO. EXPEDIÇÃO DE NOVO
+PRECATÓRIO. PRECEDENTES. I. - Excluem-se os juros
+moratórios e compensatórios do pagamento de
+precatórios decorrentes de desapropriação, realizado
+conforme o art. 33 do ADCT, contanto que se observem as
+épocas próprias dos vencimentos das prestações. Os juros
+moratórios são cabíveis nos casos de inadimplência da
+Fazenda Pública no pagamento do parcelamento previsto
+no art. 33 do ADCT. RE 155.979/SP, Min. Marco Aurélio,
+‘DJ’ de 23.02.2001; 400.413-AgR/SP, Min. Carlos Britto, ‘DJ’
+de 08.11.2004, inter plures. II. - Agravo não provido’ (RE
+nº 438.172/SP-AgR, Segunda Turma, Relator o Ministro
+Carlos Velloso, DJ de 16/12/05).
+Assim, embora não se confundam, assentou-se também
+que, por tratarem de regramento análogo – acerca do
+parcelamento de precatórios – os artigos 33 e 78 do Ato de
+Disposições Constitucionais Transitórias merecem igual
+interpretação, no que concerne à incidência de juros moratórios
+ou compensatórios. A propósito da questão, destaco:
+‘CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO
+ADCT. ART 5º, XXIV E XXXVI. OFENSA REFLEXA.
+NECESSIDADE DE REEXAME DE PROVA. INCIDÊNCIA
+DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O
+art. 78 do ADCT, possui a mesma mens legis do art. 33 do
+mesmo Ato. Dessa forma, em tendo sido calculado o valor
+devido na data da promulgação da EC 30/2000, acrescidos
+dos juros legais e da correção monetária, aqueles não mais
+incidirão por ocasião do pagamento das parcelas
+sucessivas. II - Eventual ofensa ao princípio da justa
+indenização, previsto no art. 5º, XXIV, da Constituição
+Federal, se ocorrente, seria indireta, além de demandar o
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 10
+
+RE 593573 ED / SP
+reexame de prova, o que atrai a incidência da Súmula 279
+do STF. III - A discussão acerca dos limites objetivos da
+coisa julgada, matéria de legislação ordinária, não dá
+ensejo à abertura da via extraordinária. IV - Agravo
+regimental improvido’ (RE nº 421.616/SP-AgR, Primeira
+Turma, Relator o Ministro Ricardo Lewandowski, DJe de
+10/8/07).
+O acórdão recorrido reconheceu expressamente o
+inadimplemento ‘pois os depósitos não seguiram a ordem’ (fl.
+125). Desse modo, concluiu que ‘não havendo pagamento dos
+valores a que estava obriga na época correta, a Fazenda tem de
+arcar com os juros de mora e os compensatórios’ (fl. 127).
+No tocante à incidência dos juros de mora, ressalte-se que
+o próprio recorrente consignou nas razões extraordinárias pela
+‘impossibilidade de incidência de juros moratórios e
+compensatórios sobre as parcelas do precatório colhido pelos
+artigos 33 e 78 do Ato das Disposições Constitucionais
+Transitórias, salvo quanto aos primeiros, somente nas hipóteses
+de pagamento atrasado’ (fl. 144 – grifo nosso), o que
+efetivamente ocorreu no caso dos autos.
+Ante o exposto, nos termos do artigo 557, caput e § 1º-A,
+do Código de Processo Civil, conheço do recurso, para dar-lhe
+parcial provimento, para afastar a incidência de juros
+compensatórios, mantidos os ônus sucumbenciais e honorários
+arbitrados na origem” (fls. 192 a 197).
+
+Alega o embargante que postulou também “a exclusão dos juros
+moratórios após esse período, ressalvada a sua incidência no caso de
+atraso no pagamento de parcela” (fl. 200), motivo pelo qual requer seja
+determinada a não incidência dos juros moratórios na parte dispositiva
+da decisão.
+É o relatório.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104630.
+
+Supremo Tribunal Federal
+Voto - MIN. DIAS TOFFOLI
+
+Inteiro Teor do Acórdão - Página 9 de 10
+
+16/04/2013
+
+PRIMEIRA TURMA
+
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 593.573 SÃO PAULO
+
+VOTO
+O SENHOR MINISTRO DIAS TOFFOLI (RELATOR):
+Inicialmente, nos termos da pacífica jurisprudência desta Corte,
+recebo os embargos de declaração como agravo regimental, o qual passo
+a analisar.
+Conforme asseverado na decisão agravada, é certo que a
+jurisprudência desta Corte firmou entendimento no sentido de não se
+admitir a incidência de juros moratórios ou compensatórios para efeito de
+pagamento de precatório mediante a regra instituída pelo art. 33 do Ato
+de Disposições Constitucionais Transitórias da Constituição Federal de
+1988, exceto no tocante às parcelas que não foram adimplidas
+corretamente, caso em que este Supremo Tribunal Federal reconhece a
+incidência, tão somente, de juros moratórios.
+A hipótese aqui em discussão relaciona-se à exceção do referido
+entendimento, consubstanciada no caso de inadimplência da Fazenda
+Pública.
+Conforme mencionado na decisão atacada, o Tribunal de origem
+reconheceu o inadimplemento em razão da inobservância no pagamento
+dos valores na época correta, devendo a Fazenda Pública arcar com os
+juros, haja vista não ter obedecido a ordem constitucional para o depósito
+dos valores.
+Ante o exposto, voto pelo recebimento dos embargos de declaração
+como agravo regimental e pelo seu não provimento.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/ sob o número 4104629.
+
+Supremo Tribunal Federal
+Extrato de Ata - 16/04/2013
+
+Inteiro Teor do Acórdão - Página 10 de 10
+
+PRIMEIRA TURMA
+EXTRATO DE ATA
+EMB.DECL. NO RECURSO EXTRAORDINÁRIO 593.573
+PROCED. : SÃO PAULO
+RELATOR : MIN. DIAS TOFFOLI
+EMBTE.(S) : ESTADO DE SÃO PAULO
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO ESTADO DE SÃO PAULO
+EMBDO.(A/S) : KEITI MINAKATA
+ADV.(A/S) : AGNELLO HERTON TRAMA
+Decisão: Por maioria de votos, a Turma converteu os embargos
+de declaração em agravo regimental, vencido, nessa parte, o Senhor
+Ministro Marco Aurélio. Por unanimidade, negou provimento ao
+agravo regimental, nos termos do voto do Relator. Presidência do
+Senhor Ministro Luiz Fux. 1ª Turma, 16.4.2013.
+Presidência do Senhor Ministro Luiz Fux. Presentes à Sessão os
+Senhores Ministros Marco Aurélio, Dias Toffoli e Rosa Weber.
+Subprocurador-Geral
+Lucas.
+
+da
+
+República,
+
+Dr.
+
+Paulo
+
+de
+
+Tarso
+
+Braz
+
+Carmen Lilian Oliveira de Souza
+Secretária da Primeira Turma
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+documento pode ser acessado no endereço eletrônico http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o número 3700865
