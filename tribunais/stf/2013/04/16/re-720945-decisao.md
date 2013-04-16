@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra a parte de acórdão que entendeu pela constitucionalidade da progressividade de alíquotas do imposto sobre propriedade territorial rural (ITR) prevista na Lei 8.847/1994.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 151, I, e 153, §4º (redação original), da mesma Carta.
+    A pretensão recursal merece acolhida.
+    Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Esse o caso dos autos em relação à suposta ofensa ao art. 151, I, da Constituição.
+    No que diz respeito à alegação de contrariedade à redação original do parágrafo 4º do art. 153 da Constituição, observo que o entendimento desta Corte, firmado a partir do julgamento do RE 562.045-RG/RS, Relatora para o acórdão a Min. Cármen Lúcia, é no sentido de que, nos termos do art. 145, § 1º, da CF, todos os impostos, independentemente de seu caráter real ou pessoal, devem guardar relação com a capacidade contributiva do sujeito passivo e, tratando-se de impostos diretos, será legítima a adoção de alíquotas progressivas. Nesse sentido, transcrevo o seguinte trecho do voto proferido pelo Ministro Eros Grau que sintetiza a orientação adotada por este Tribunal:
+    “(…) todos os impostos podem e devem guardar relação com a capacidade contributiva do sujeito passivo e não ser impossível aferir-se a capacidade contributiva do sujeito passivo do ITCD. Ao contrário, tratando-se de imposto direto, a sua incidência poderá expressar, em diversas circunstâncias, progressividade ou regressividade direta. Todos os impostos --- repito --- estão sujeitos ao princípio da capacidade contributiva, especialmente os diretos, independentemente de sua classificação como de caráter real ou pessoal; isso é completamente irrelevante”.
+    Assim, é de se reconhecer a constitucionalidade da previsão de sistema progressivo de alíquotas para o imposto sobre a propriedade territorial rural mesmo antes da EC 42/2003.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
