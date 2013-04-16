@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO DE SENTENÇA. CADERNETA DE POUPANÇA. DIFERENÇAS. AÇÃO CIVIL PÚBLICA. APADECO. PRAZO PRESCRICIONAL. PRECEDENTES DO STJ.
+    1. Em que pese o ordenamento jurídico não prever um prazo prescricional específico para a propositura de ação civil pública, aplica-se por analogia, o prazo de 5 (cinco) anos previsto para as ações populares, tendo em vista que integram o microssistema de defesa dos interesses difusos (Precedente do STJ, RESP 1.070.896/SC 2ª Seção, Ministro LUIS FELIPE SALOMÃO, DJe 04/08/2010). Ressalva do ponto de vista do relator.
+    2. Precedente do Superior Tribunal de Justiça no sentido de que inaplicável o mesmo prazo que regula a relação de direito material.
+    3. Extinta a execução, invertem-se os encargos sucumbenciais”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão relativa à prescrição com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 4.717/1965). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo . A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “Agravo regimental em agravo de instrumento. 2. Processo civil. Execução judicial. Inexigibilidade de título. Prescrição. Matéria infraconstitucional. Precedentes. 3. Agravo regimental a que se nega provimento” (AI 738.588-AgR/PI, Rel. Min. Gilmar Mendes).
+    Ademais, esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 627.902-AgR/SP, de minha relatoria; AI 736.916/AL, Rel. Min. Luiz Fux; AI 446.131-AgR-AgR/DF, Rel. Min. Dias Toffoli; e o RE 714.946-AgR/PE, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO POSTULADO CONSTITUCIONAL DA COISA JULGADA ALEGAÇÃO DE OFENSA DIRETA INOCORRÊNCIA LIMITES OBJETIVOS TEMA DE DIREITO PROCESSUAL MATÉRIA INFRACONSTITUCIONAL INCOGNOSCIBILIDADE DO APELO EXTREMO RECURSO IMPROVIDO. - Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da 'res judicata', revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição por supor o exame, 'in concreto' , dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes”.
+    No mesmo sentido, em casos análogos, menciono as seguintes decisões: ARE 705.615/DF, Rel. Min. Dias Toffoli; ARE 712.597/DF, Rel. Min. Cármen Lúcia (mérito); ARE 708.583/DF, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
