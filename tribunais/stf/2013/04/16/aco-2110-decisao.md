@@ -1,0 +1,8 @@
+Decisão: Cuida-se de conflito negativo de atribuições suscitado em face do Ministério Público do Estado de São Paulo, para apuração da suposta prática das infrações penais tipificadas nos artigos 19, §2º, da Lei 8.213/91 e 132 e 297, §4º do Código Penal, pelos proprietários da empresa Tanus Gastin Indústria Textil Ltda., por obstruir parcialmente o acesso a um extintor de incêndio em razão do armazenamento de materiais junto às paredes do estabelecimento da empresa, conforme relatório de diligência realizada em 2008.
+    Sustenta o Ministério Público Federal a atribuição do Ministério Público Estadual para atuar no caso pelos seguintes motivos: a) O art. 19, §2º, da Lei 8.213/91 tipifica contravenção penal, prática delitiva expressamente excluída da competência da Justiça Federal pelo art. 109, IV, da Constituição Federal; b) o crime de perigo previsto no art. 132 do Código Penal requer a existência de perigo concreto à vida ou saúde de outrem, não bastando, para a sua configuração, simples possibilidades indiretas ou remotas de danos; c) Não há indícios da prática do crime omisso próprio previsto no art. 297, §4º, do Código Penal (falsidade documental).
+    Não tendo o Ministério Público Federal identificado, no relatório das diligências, condutas da competência da Justiça Federal, e ante a manifesta competência da Justiça Estadual para o processo e julgamento da suposta prática de contravenção penal, declaro a atribuição do Ministério Público do Estado de São Paulo para atuar no caso.
+    Publique-se. Int.
+    Brasília, 16 de abril de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
