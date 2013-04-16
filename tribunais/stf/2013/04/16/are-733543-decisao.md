@@ -1,0 +1,12 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 2º, 60, § 4º, e 175, parágrafo único, inciso III, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, haja vista que o Pleno desta Corte, ao apreciar o RE n° 573.540/MG, Relator o Ministro Gilmar Mendes, DJe de 11/6/10, cuja repercussão geral havia sido reconhecida, decidiu que falece aos Estados-membros competência para a criação de contribuição compulsória ou de qualquer outra espécie tributária destinada ao custeio de serviços médicos, hospitalares, farmacêuticos e odontológicos prestados aos seus servidores. Confira-se a ementa do referido julgado:
+    “EMENTA: CONTRIBUIÇÃO PARA O CUSTEIO DOS SERVIÇOS DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACEÚTICA. ART. 85 DA LEI COMPLEMENTAR Nº 62/2002, DO ESTADO DE MINAS GERAIS. NATUREZA TRIBUTÁRIA. COMPULSORIEDADE. DISTRIBUIÇÃO DE COMPETÊNCIAS TRIBUTÁRIAS. ROL TAXATIVO. INCOMPETÊNCIA DO ESTADO-MEMBRO. INCONSTITUCIONALIDADE. RECURSO EXTRAORDINÁRIO NÃO PROVIDO. I - É nítida a natureza tributária da contribuição instituída pelo art. 85 da Lei Complementar nº 64/2002, do Estado de Minas Gerais, haja vista a compulsoriedade de sua cobrança. II - O art. 149, caput, da Constituição atribui à União a competência exclusiva para a instituição de contribuições sociais, de intervenção no domínio econômico e de interesse das categorias profissionais e econômicas. Essa regra contempla duas exceções, contidas no arts. 149, § 1º, e 149-A da Constituição. À exceção desses dois casos, aos Estados-membros não foi atribuída competência para a instituição de contribuição, seja qual for a sua finalidade. III - A competência, privativa ou concorrente, para legislar sobre determinada matéria não implica automaticamente a competência para a instituição de tributos. Os entes federativos somente podem instituir os impostos e as contribuições que lhes foram expressamente outorgados pela Constituição. IV - Os Estados-membros podem instituir apenas contribuição que tenha por finalidade o custeio do regime de previdência de seus servidores. A expressão "regime previdenciário" não abrange a prestação de serviços médicos, hospitalares, odontológicos e farmacêuticos” (Grifo nosso).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 16 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
