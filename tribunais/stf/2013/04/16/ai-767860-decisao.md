@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO. DECISÃO TRANSITADA EM JULGADO. PERDA SUPERVENIENTE DO OBJETO. AGRAVO DE INSTRUMENTO PREJUDICADO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso inadmitido foi interposto contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “CONSTITUCIONAL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. VIA ELEITA. ADEQUAÇÃO. AUTORIDADE COATORA. LEGITIMIDADE. CORTE DE MOGNO. SUSPENSÃO PARA LEVANTAMENTO DE ESTOQUES. IN 03/98 IBAMA. EMISSÃO LEGAL DE AUTORIZAÇÕES ANTERIORES. INEXISTÊNCIA DE PROVA DE IRREGULARIDADE. ABUSIVIDADE DO ATO QUE AS SUSPENDE. LEGALIDADE DA SUSPENSÃO DE NOVAS AUTORIZAÇÕES E LICENÇAS. (…)
+    4. Todavia, mantém-se sentença que concede parcialmente a segurança para, no caso concreto, suspender parcialmente a proibição contida na IN n. 03/98 – IBAMA, autorizando a impetrante a beneficiar, comercializar e transportar a madeira já derrubada com autorização, pois, nesse caso, configura excesso e abuso de poder o ato que suspende a comercialização, sem prova de irregularidade e sem a garantia da ampla defesa e do contraditório.
+    5. Não provimento das apelações da Impetrante, do IBAMA e da remessa oficial” (fl. 233).
+    Os embargos de declaração opostos foram rejeitados.
+    2. O recurso extraordinário foi inadmitido por deficiência na sua fundamentação (Súmula n. 284 do Supremo Tribunal Federal) (fls. 283-284).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 5º, inc. LXV, e 225, caput, § 1º, inc. VII, § 3º, da Constituição da República.
+    Assevera que “ao desconsiderar o ato normativo editado pelo IBAMA, órgão executor da política e das diretrizes governamentais no tocante ao meio ambiente, com base em falsa premissa e conclusão equivocada, data venia, a E. Corte Regional violou o poder de polícia do IBAMA” (fl. 55).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O recurso está prejudicado pela perda superveniente de objeto.
+    5. O Superior Tribunal de Justiça deu provimento ao Recurso Especial n. 1.183.279, interposto pelo ora Agravante:
+    “AMBIENTAL E ADMINISTRATIVO. INSTRUÇÃO NORMATIVA 03/98. COMPATIBILIDADE COM O ORDENAMENTO JURÍDICO. PROTEÇÃO AO MEIO AMBIENTE COMO PRINCÍAPIO QUE REGE A ORDEM ECONÔMICA.
+    1. A Instrução Normativa 03/1998, ao determinar a suspensão do transporte, beneficiamento, comercialização e exportação da madeira da espécie mogno, possui amparo no art. 14, ‘b’, da Lei n. 4.771/65 e nos arts. 225, § 1º, V e VII, da Constituição Federal.
+    2. A referida norma, quando assim determinou, incluiu em sua hipótese de incidência a madeira já derrubada, pois, pressupõem-se, por óbvio, que o mogno já tenha sido extraído da natureza.
+    3. Assim, limitar a incidência da norma à madeira que ainda não tenha sido levada ao chão é esvaziar o seu conteúdo ou reconhecer a sua ilegalidade e inconstitucionalidade parcial, o que não deve ser aceito, pois há total compatibilidade entre a IN 03/98 e o ordenamento jurídico.
+    4. Ademais, eventual restrição à atividade econômica desenvolvida pelo recorrido é plenamente aceita pela própria Carta Federal, quando esta estabelece em seu art. 170, VI que a defesa do meio ambiente é um dos princípios que regem a ordem econômica.
+    5. Portanto, as restrições à atividade econômica, em virtude de atos do Poder Público tendentes a proteger o meio ambiente, encontram respaldo legal e constitucional, decorrendo daí a adequação d IN 03/98 do IBAMA com a ordem jurídica.
+    Agravo regimental provido”.
+    Essa decisão transitou em julgado em 15.4.2013 e operou, assim, a substituição expressa do julgado recorrido, conforme dispõe o art. 512 do Código de Processo Civil. Nesse sentido:
+    “DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL PROVIDO. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA TRANSITADA EM JULGADO. SUBSTITUIÇÃO DO ACÓRDÃO RECORRIDO. ART. 512 DO CPC. PERDA DO OBJETO DO RECURSO EXTRAORDINÁRIO. AGRAVO DE INSTRUMENTO PREJUDICADO. Substituído, a teor do art. 512 do CPC, por decisão trânsita em julgado do Superior Tribunal de Justiça, o acórdão do Tribunal de Justiça estadual contra o qual manejado o recurso extraordinário cujo destrancamento o agravo de instrumento perseguia, configurou-se a perda superveniente do objeto do apelo extremo, com a insubsistência da decisão agravada. Precedentes. Agravo regimental conhecido e provido para julgar prejudicado o agravo de instrumento” ( AI 764.057-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe 8.10.2012).
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PRETENÇÃO DE REFORMA DO JULGADO: IMPOSSIBILIDADE. RECURSO EXTRAORDINÁRIO PREJUDICADO. SUBSTITUIÇÃO DO ACÓRDÃO DO TRF PELO DO STJ. 1. Os embargos de declaração não constituem meio processual cabível para reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais. 2. Inexistência de omissão, contradição, obscuridade ou erro material a sanar. A parte embargante repisa argumentos já devidamente apreciados por esta Turma. 3. O acórdão do Superior Tribunal de Justiça substituiu o acórdão proferido pelo Tribunal Regional Federal, nos termos do art. 512 do CPC. 4. Provimento dos embargos de divergência em recurso especial que não terá o condão de considerar íntegros os fundamentos trazidos pelo acórdão do TRF que não mais existe. 5. Não-interposição de novo recurso extraordinário do acórdão proferido nos embargos de divergência em recurso especial, apesar de vencida a ora embargante. 6. Embargos de declaração rejeitados” (RE 539.785-AgR-ED, Rel. Min. Ellen Gracie, Segunda Turma, DJe 4.5.2011).
+    6. Pelo exposto, julgo prejudicado este agravo de instrumento, por perda superveniente de objeto, e determino a baixa imediata dos autos à origem (art. 21, inc. IX, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
