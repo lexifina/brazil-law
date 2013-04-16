@@ -1,0 +1,12 @@
+DECISÃO: O recurso extraordinário a que se refere o presente agravo revela-se processualmente inviável, eis que se insurge contra acórdão que decidiu a causa em estrita conformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, o Plenário desta Suprema Corte, ao julgar a ADI 3.324/DF, Rel. Min. marco aurélio (RTJ 198/64), fixou entendimento que desautoriza a pretensão de direito material deduzida pela parte ora agravante:
+    “UNIVERSIDADE – TRANSFERÊNCIA OBRIGATÓRIA DE ALUNO – LEI Nº 9.536/97. A constitucionalidade do  artigo 1º da Lei nº 9.536/97, viabilizador da transferência de alunos, pressupõe a observância da natureza jurídica do estabelecimento educacional de origem, a congeneridade das instituições envolvidas – de privada para privada, de pública para pública –, mostrando-se inconstitucional interpretação que resulte na mesclagem – de privada para pública.” (grifei)
+    Cabe ressaltar, neste ponto, que essa orientação plenária reflete-se em sucessivos julgamentos, monocráticos e colegiados, proferidos no âmbito desta Corte (AI 826.832/SP, Rel. Min. DIAS TOFFOLI – RE 495.325-AgR/RO, Rel. Min. ELLEN GRACIE – RE 575.830/SP, Rel. Min. ELLEN GRACIE, v.g.), valendo referir, dentre eles, aquele que, proferido pela colenda Segunda Turma desta Corte, apreciou controvérsia idêntica à ora versada nesta causa, em decisão que, tal como anteriormente ressaltado, desautoriza a pretensão recursal da parte recorrente:
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Policial militar. Remoção ‘ex officio’. Matrícula em instituição pública federal. Possibilidade. Agravo regimental improvido. O servidor público estadual, estudante de universidade pública do Estado, removido de ofício, pode ser matriculado em instituição congênere federal, caso não haja vaga na universidade de origem.”
+    (RE 464.217-AgR/RN, Rel. Min. CEZAR PELUSO)
+    O exame da presente causa evidencia que o acórdão impugnado em sede recursal extraordinária ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na apreciação da matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 16 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
