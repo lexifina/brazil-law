@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão assim ementado:
+    “DIREITO TRIBUTÁRIO. MANDADO DE SEGURANÇA. ICMS. CREDITAMENTO FISCAL ESCRITURAL DE IMPOSTO PAGO RELATIVAMENTE A SAÍDAS DE MERCADORIAS CUJO PREÇO NÃO FOI PAGO PELOS SEUS DESTINATÁRIOS: IMPOSSIBILIDADE. Nos termos do inciso I do § 2º do art. 155 da Constituição Federal somente se permite a compensação escritural (dedução ou abatimento, nos livros fiscais próprios) do ICMS devido em cada operação relativa à circulação de mercadorias, com o montante cobrado nas anteriores (operações) pelo mesmo ou outro Estado ou pelo Distrito Federal, daí porque não há direito a creditamento de imposto pago relativamente a saídas de mercadorias cujo preço não foi satisfeito pelos seus destinatários. O crédito respectivo somente será permitido se a mercadoria pendente de pagamento for devolvida ao estabelecimento vendedor. Não há, ademais, lei estadual permitindo o referido creditamento como benefício ou favor fiscal.
+    DECISÃO: Recurso desprovido. Unânime” (fl. 353).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, II, 63, IX, 93, IX, 145, § 1º, 150, I, II e IV, 155, § 2º, I, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador indique de forma clara as razões de seu convencimento, tal como ocorreu.
+    Quanto ao mérito, verifico que esta Corte entende que a discussão sobre o direito ao creditamento ou devolução do ICMS recolhido em operações em que ocorre a inadimplência por parte do comprador da mercadoria possui natureza infraconstitucional. Desse modo, eventual ofensa à Constituição, se houvesse, seria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, menciono os seguintes julgados, entre outros: AI 750.994-AgR/SP, Rel. Min. Luiz Fux; AI 822.192/MG, Rel. Min. Dias Toffoli; AI 723.167-AgR/RS, Rel. Min. Eros Grau; e o AI 817.801-ED/SP, Rel. Min. Cármen Lúcia, cuja ementa segue transcrita:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS. CONTRATO DE COMPRA E VENDA. INADIMPLÊNCIA. CONTROVÉRSIA SOBRE FATO GERADOR. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
