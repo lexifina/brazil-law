@@ -1,0 +1,42 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ACÓRDÃO NÃO UNÂNIME. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA: SÚMULA N. 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO VESTIBULAR. SISTEMA DE COTAS. LEGALIDADE. AUTONOMIA UNIVERSITÁRIA. INSTITUIÇÃO POR RESOLUÇÃO. POSSIBILIDADE. APELAÇÃO E REMESSA NECESSÁRIA PROVIDAS.
+    1. Apelação desafiada contra sentença que julgou procedente o pedido inaugural para, invalidando o sistema de provimento de vagas discentes por cotas étnicas e sociais, estabelecido com base na Resolução nº 80/2008/CONEPE, condenou a Universidade Federal de Sergipe a reconhecer a aprovação e, por conseguinte, a viabilizar a matrícula da parte autora/apelada no curso de odontologia, tomando por base exclusiva a grandeza dos escores obtidos por todos os candidatos.
+    2. As Universidades têm autonomia para a implementação das suas ações e, no presente caso, as normas objetivas de acesso às vagas destinadas à política de "cotas", fazem parte da autonomia específica trazida pelo artigo 53 da Lei nº 9.394/96, desde que observados os princípios da razoabilidade e da proporcionalidade.
+    3. Ademais, a jurisprudência majoritária da Terceira Turma entende que as chamadas ações afirmativas podem ser adotadas pela Administração, haurindo sustentação direta na Constituição Federal, sem a necessidade da intermediação da lei ordinária. Precedentes no AGTR nº 106370, Relator Desembargador Federal Paulo Roberto de Oliveira Lima, DJE 30-9-2010, APELREEX nº 11681/PE, Relator Desembargador Federal Geraldo Apoliano, DJE 20-8-2010, e AC nº 497959/AL, Relator Desembargador Federal Paulo Roberto de Oliveira Lima, DJE 29-6-2010).
+    4. Apelação e Remessa Necessária providas” (fl. 137).
+    Os embargos de declaração opostos foram rejeitados:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO E OBSCURIDADE. INOCORRÊNCIA. REEXAME DA CAUSA. PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+    1. Alegação de que o aresto embargado seria obscuro, porque não teria deixado claro se a Resolução nº 80/2008/CONEPE encontra-se em consonância com o art. 207 da CF/88, que trata da autonomia das Universidades Federais. Também não haveria manifestação quanto à exclusão da previsão das cotas raciais pela Lei nº 12.288/2010, o que configuraria omissão.
+    2. Acórdão que enfrentou a questão posta nos autos, tendo-se consignado que as Universidades têm autonomia para a implementação das suas ações e, no presente caso, as normas objetivas de acesso às vagas destinadas à política de "cotas", decorrem da autonomia específica referida no artigo 53 da Lei nº 9.394/96, sendo certo que no exercício dessa autonomia, hão de ser observados os princípios constitucionais da razoabilidade e da proporcionalidade.
+    3. A jurisprudência majoritária da colenda Terceira Turma entende que as chamadas ‘ações afirmativas’ podem ser adotadas pela Administração, que poderá haurir, diretamente da Carta Federal vigente, o necessário estofo normativo, sem a necessidade de invocação à lei ordinária.
+    4. Questões suscitadas, que foram analisadas no Acórdão, que está devidamente fundamentado, não importando em omissão/obscuridade o não acolhimento da tese esposada pela parte.
+    5. O juiz ou o Tribunal não é obrigado a examinar todos os argumentos jurídicos trazidos pelas partes, ou a invocação desta ou daquela regra ou princípio jurídico, podendo deixar de analisar alguns quando, da apreciação dos demais, tal render ensejo à formação do seu convencimento; incidência, no caso, do princípio jura novit curia.
+    6. Pretensão de que a matéria seja reexaminada, o que não é permitido nas vias estreitas dos Declaratórios, mas, somente, por meio dos Recursos Especial e/ou Extraordinário. Embargos de Declaração improvidos” (fls.166-167).
+    2. A Agravante afirma que o Tribunal de origem teria contrariado os arts. 1º, caput e inc. III, 3º, inc. IV, 4º, inc. VIII, 5º, inc. I, II, XXXIII, XLII e LIV, 37, caput, 205, 206, caput e inc. I, 207 caput, e 208, inc. V, da Constituição da República.
+    Assevera que “foram interpostos embargos de declaração, que pode fazer as vezes de embargos infringentes, sendo opção da parte em muitas vezes, interpor os embargos infringentes. In casu, os embargos tiveram julgamento por unanimidade. Frise-se que os julgados atuais têm aplicado reiteradamente multas por litigância de má-fé por recursos repetidos como é, basicamente, o caso dos embargos de declaração e embargos infringentes” (fls. 197-198).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 281 do Supremo Tribunal Federal (fl. 193).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Relator Convocado, Desembargador Leonardo Resende Martins, afirmou:
+    “O eminente Relator, o Desembargador Federal Vladimir Souza Carvalho, é contrário às cotas, por entender que a resolução não é o instrumento normativo adequado para disciplinar tal matéria, mas apenas a lei em sentido formal.
+    Peço vênia para dissentir e votar de acordo com a jurisprudência majoritária que se firmou na Terceira Turma deste Tribunal, favorável às cotas; neste sentido, trago à colação os seguintes arestos:
+    (…)
+    Pelo exposto, dou provimento à Apelação e à Remessa Necessária. Sem honorários advocatícios, tendo em vista ser a parte vencida beneficiária da Justiça Gratuita” (fls. 130-133).
+    7. A Agravante interpôs recurso extraordinário contra decisão não-unânime que reformou, em grau de apelação, a sentença de mérito, quando ainda eram cabíveis embargos infringentes, conforme prevê o art. 530 do Código de Processo Civil.
+    A decisão recorrida, portanto, não se mostra de única ou última instância, o que impede a utilização do recurso extraordinário (art. 102, inc. III, da Constituição da República, e art. 541, caput, do Código de Processo Civil.
+    Incide, no caso, a Súmula n. 281 deste Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO CONTRA DECISÃO NÃO UNÂNIME. POSSIBILIDADE DE CABIMENTO DE EMBARGOS INFRINGENTES. ART. 530 DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE DECISÃO DE ÚLTIMA INSTÂNCIA. VIA RECURSAL NÃO ESGOTADA NA ORIGEM. SÚMULA 281 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 670.775-AgR, de minha relatoria, Primeira Turma, DJe 17.4.2009).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. MATÉRIA PROCESSUAL. AUSÊNCIA DE EXAURIMENTO DAS VIAS RECURSAIS NA INSTÂNCIA ORDINÁRIA. AINDA CABÍVEIS OS EMBARGOS INFRINGENTES PREVISTOS NO ART. 530 DO CPC. INCIDÊNCIA DA SÚMULA 281/STF. Agravo regimental desprovido” (RE 464.780-AgR, Rel. Min. Ayres Britto, Segunda Turma, DJe 1º.6.2011).
+    “Agravo regimental no recurso extraordinário. Processual. Sentença de mérito reformada em grau de apelação. Acórdão não unânime. Ausência de interposição de embargos infringentes. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. 1. O recurso extraordinário é inadmissível quando interposto contra acórdão não unânime, proferido no julgamento da apelação, com o qual se haja reformado a sentença de mérito, uma vez que não esgotada a prestação jurisdicional pelo Tribunal de origem. Incidência da Súmula nº 281/STF. 2. Agravo regimental não provido” (RE 625.258-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 25.9.2012).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
