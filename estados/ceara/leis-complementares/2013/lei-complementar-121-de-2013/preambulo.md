@@ -1,0 +1,4 @@
+# LEI COMPLEMENTAR N.º 121, DE 15.04.13 (D.O. 17.04.13)
+ACRESCE O §2º AO ART. 2º DA LEI COMPLEMENTAR Nº 65, DE 3 DE JANEIRO DE 2008, E ALTERA O CAPUT DO ART. 48, DA LEI COMPLEMENTAR Nº58, DE 31 DE MARÇO DE 2006.
+O GOVERNADOR DO ESTADO DO CEARÁ.
+Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
