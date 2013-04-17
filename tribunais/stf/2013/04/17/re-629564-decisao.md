@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em mandado de segurança impetrado pela parte recorrente no qual buscava a expedição de Certificado de Registro e Licenciamento de Veículo sem o recolhimento de multas e a liberação de seu veículo anteriormente apreendido, deu parcial provimento à apelação da parte recorrida, apenas para determinar a liberação do veículo apreendido, mantendo, contudo, o indeferimento da expedição do CRLV.
+    No recurso extraordinário, a parte recorrente aponta ofensa aos artigos 37, XXI e 175, III, da Constituição Federal, asseverando, em suma, que (a) o valor das tarifas decorre de cláusulas contratuais firmadas com o Poder Público, não havendo falar em cobrança de tributo da espécie taxa; e (b) em razão da natureza jurídica de preço público, a tarifa cobrada não afronta o princípio da legalidade tributária previsto no art. 150, I, da Constituição Federal (fls. 269 e 274).
+    2. Em primeiro lugar, não houve emissão, pelo acórdão recorrido, de juízo acerca da violação das matérias de que tratam as normas insertas nos artigos 37, XXI, e 175, III, da Constituição Federal, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo o óbice da Súmula 282 do STF.
+    Por fim, os fundamentos infraconstitucionais utilizados pelo acórdão recorrido (fls. 237 e ss) transitaram em julgado, pois o Superior Tribunal de Justiça não conheceu, em caráter definitivo, do agravo oposto ante à inadmissão do recurso especial interposto para atacá-los (Ag 1154738, Min. Luiz Fux, DJ de 10/08/2009, trânsito em julgado certificado em 09/09/2009). Configura-se, assim, por analogia, o óbice da Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+    3. Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 17 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
