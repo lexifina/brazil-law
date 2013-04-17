@@ -1,0 +1,22 @@
+Trata-se de reclamação, com pedido liminar, ajuizada pela União contra acórdão do Tribunal Regional do Trabalho da 4ª Região que, nos autos da Ação Trabalhista 0000799-70.2011.5.04.0018, teria desrespeitado o quanto decidido na ADI 3.395/DF, Rel. Min. Cezar Peluso.
+    A reclamante sustenta, em síntese, que compete à Justiça comum processar e julgar demanda atinente à complementação de aposentadoria de ex-empregada da Empresa de Trens Urbanos de Porto Alegre S/A -Trensurb, antiga subsidiária da extinta RFFSA, sucedida pela União.
+    Invoca a existência de relação de caráter jurídico-administrativo entre servidor e o Poder Público, pois a “complementação da aposentadoria, sua administração e modo de custeio decorrem da lei e a quitação será de responsabilidade da União e do INSS”.
+    Pugna pela procedência desta reclamação para cassar os atos decisórios prolatados pela Justiça do Trabalho e determinar a remessa dos autos à Justiça comum federal.
+    Deferi o pleito liminar em 25/10/2012.
+    A Procuradoria Geral da República manifestou-se pela procedência desta reclamação.
+    É o relatório.
+    Decido.
+    Bem examinados os autos, vê-se que a pretensão merece acolhida.
+    Com efeito, várias decisões vêm sendo prolatadas no sentido de que o processamento de litígios, entre servidores estatutários e a Administração Pública, na Justiça do Trabalho, afronta a decisão do Plenário desta Corte, proferida na ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, cujo acórdão foi assim ementado:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    A propósito, saliento que o Pleno desta Corte, vencido o Min. Marco Aurélio, concluiu pela competência da Justiça comum para apreciar a controvérsia em apreço, no julgamento da Rcl. 11.230-AgR, Rel. Min. Gilmar Mendes, em precedente que restou assim ementado:
+    “Agravo regimental em reclamação. 2. Competência. Ação para complementação de aposentadoria de servidor aposentado da Rede Ferroviária Federal S/A 3. Alegação de competência da Justiça do Trabalho. Inconsistência. ADI-MC 3.395. 4. Agravo Regimental a que se nega provimento”.
+    Por oportuno, colaciono trecho de apontamento feito pelo Ministro Ayres Britto no julgamento da referida reclamação:
+    “A decisão do Supremo Tribunal Federal invocada como paradigma é a ADI 3.395-MC. Ao referendar a medida cautelar concedida pelo ministro Nelson Jobim, esta nossa Casa de Justiça fixou o entendimento de que inciso I do art. 114 da Constituição Federal 'não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária'. Em outras palavras, só compete à Justiça do Trabalho o processamento de ações que envolvam, de um lado, pessoa jurídica de Direito Público e, de outro, trabalhadores, quando se tratar de vínculo celetista.
+    É de se afirmar, portanto, a imprescindibilidade de uma prova de que se desincumbiu a reclamante. É que não há presunção absoluta de competência da Justiça comum, quando seja parte na demanda a Administração Pública Direta, Autárquica e Fundacional. Faz-se indispensável a prova do vínculo estatutário, ou então de natureza singelamente administrativa. Tendo a reclamante dela se desincumbido, no caso, houve desrespeito à cautelar na ADI 3.395”.
+    Isso posto, julgo procedente esta reclamação constitucional, em razão da incompetência da Justiça do Trabalho para processar e julgar o feito, para, nos termos do decidido pelo Plenário desta Suprema Corte no julgamento da ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, cassar os atos decisórios proferidos na Reclamação Trabalhista 0000799-70.2011.5.04.0018 e determinar a imediata remessa dos autos à Justiça comum federal.
+    Comuniquem-se ao Tribunal Regional do Trabalho da 4ª Região e ao Tribunal Superior do Trabalho.
+    Publique-se.
+    Brasília, 17 de abril de 2013.
+Ministro Ricardo Lewandowski
+Relator
