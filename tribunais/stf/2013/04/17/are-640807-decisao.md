@@ -1,0 +1,10 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. CONTRIBUINTE EMPRESA DE PEQUENO PORTE. RECOLHIMENTO DO IMPOSTO PELO SISTEMA SIMPLIFICADO DE RECOLHIMENTO DO ICMS DO ESTADO DE SÃO PAULO – SIMPLES. PEDIDO DE COMPENSAÇÃO. APROVEITAMENTO DE CRÉDITOS DO ICMS PAGOS NA OPERAÇÃO ANTECEDENTE. NÃO-CUMULATIVIDADE. REPERCUSSÃO GERAL RECONHECIDA. NO RE 632783. BAIXA À ORIGEM.
+    Decisão: Trata-se de recurso extraordinário com agravo, em que se discute, em síntese, o aproveitamento de créditos do ICMS recolhido através do Sistema Simplificado de Recolhimento do ICMS do Estado de São Paulo – SIMPLES por aplicação do princípio da não-cumulatividade, teve sua repercussão geral reconhecida pelo Plenário desta Suprema Corte no RE 632783-RG, da Relatoria do Ministro Joaquim Barbosa, cuja ementa restou assim editada:
+    Ementa: TRIBUTÁRIO. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO E DE TRANSPORTE INTERMUNICIPAL E INTERESTADUAL. APLICAÇÃO DE METOLOGIA DE CÁLCULO CONHECIDA COMO DIFERENCIAL DE ALÍQUOTA À EMPRESA OPTANTE PELO SIMPLES NACIONAL. ALEGADAS USURPAÇÃO DA COMPETÊNCIA DA UNIÃO PARA ESTABELECER O TRATAMENTO FAVORECIDO DAS MICRO E DAS PEQUENAS EMPRESAS (ART. 146-A DA CONSTITUIÇÃO) E DA REGRA DA NÃO-CUMULATIVIDADE (ART. 155, § 2º DA CONSTITUIÇÃO). ENCAMINHAMENTO DE PROPOSTA PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. Tem repercussão geral a discussão sobre a cobrança do ICMS de empresa optante pelo SIMPLES NACIONAL, na modalidade de cálculo conhecida como diferencial de alíquota.
+    Este paradigma encontra-se com pedido de inclusão em pauta para julgamento em 19/11/2012.
+    Destarte, em observância ao disposto no art. 328, parágrafo único do RISTF c.c. art. 543-B do Código de Processo Civil, dou provimento ao agravo, e determino a baixa dos autos à origem, onde deverá o extraordinário aguardar SOBRESTADO, até final julgamento do paradigma pelo Pleno.
+    Publique-se. Int..
+    Brasília, 17 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
