@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “CIVIL E PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO C/C OBRIGAÇÃO DE FAZER. OCUPAÇÃO E CONSTRUÇÃO ERIGIDA EM ÁREA PÚBLICA SEM A EXISTÊNCIA DE PRÉVIA AUTORIZAÇÃO. ÁREA PÚBLICA DISTRIBUÍDA ANTERIORMENTE A TÍTULO PROVISÓRIO. DISTRIBUIÇÃO DE LOTE PELO PRO-DF. HIPÓTESE CONFIGURADA COMO ÁREA PÚBLICA INVADIDA. PREVALÊNCIA DO EXERCÍCIO REGULAR DO PODER DE POLÍCIA. RECURSO IMPROVIDO.” (fl. 162)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 5º, incisos XXII, XXIII, XXXIII, XXXIV, “a” e “b”, do texto constitucional.
+    A recorrente alega, em síntese, que reside ha mais de 15 anos no endereço mencionado nos autos, ininterruptamente e sempre de boa fé, não podendo ser configurada invasão de área pública. Aduz também que a demolição pretendida pela Administração contraria seu direito de propriedade, além de afronta ao princípio da dignidade da pessoa humana.
+    Decido.
+    O recurso não merece prosperar.
+    Segundo orientação sumulada do STF, não cabe recurso extraordinário para simples reexame de prova (Súmula 279).
+    Deve-se anotar que a reapreciação de questões probatórias é diferente da valoração das provas. Enquanto a primeira prática é vedada em sede de recurso extraordinário, a segunda, a valoração, há de ser aceita.
+    Na espécie, o acórdão recorrido decidiu o seguinte:
+    “(...) a demandante foi devidamente notificada da irregular ocupação do espaço público e da irregularidade da construção erigida, diante das intimações e embargo da obra referidos, não havendo que se cogitar sequer de tolerância do Poder Público, mas de procedimento em total afronta à norma edilícia. A isso, acresce a descaracterização da obra como benfeitoria, pois de irregular construção erigida em área pública, insuscetível de regularização, pois não consta a regularidade do registro do lote, só fictamente estabelecido. Não há, pois, se cogitar de presença de elemento hábil à demonstração de dano. Isso, em se admitindo hipoteticamente se regular fosse a obra, o que não é o caso.
+    (…)
+    Como visto, verifica-se do documento de folha 23, que a autora foi interpelada extrajudicialmente para promover a desocupação do imóvel, a implicar, a hipótese, em prática de esbulho possessório(...)”. (fls. 164 e 165, verso)
+    Para se entender de forma diversa, e superar o entendimento adotado pelo tribunal de origem, seria necessário o revolvimento do acervo fático-probatório, providência esta vedada em sede de recurso extraordinário, por óbice do Enunciado 279 da Súmula desta Corte.
+    Para se entender de forma diversa, far-se-ia imprescindível a revisão dos fatos e das provas analisados, o que não é possível nos termos da jurisprudência desta Corte. Nesse sentido, cito os seguintes precedentes:
+    “Agravo regimental em recurso extraordinário. 2. Impossibilidade do reexame do conjunto fático-probatório e da análise de matéria infraconstitucional. Súmulas 279 e 280 do STF. 3. Agravo regimental a que se nega provimento” (RE-AgR 537.706, de minha relatoria, Segunda Turma, DJe 13.12.2010).
+    “1. RECURSO. Extraordinário. Inadmissibilidade. Reexame de fatos e provas. Aplicação da Súmula nº 279. Agravo regimental improvido. Não cabe recurso extraordinário que tenha por objeto o simples reexame de fatos e provas. 2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte. 3. RECURSO. Agravo. Regimental. Jurisprudência assentada sobre a matéria. Caráter meramente abusivo. Litigância de má-fé. Imposição de multa. Aplicação do art. 557, § 2º, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a interposição de agravo, manifestamente inadmissível ou infundado, deve o Tribunal condenar o agravante a pagar multa ao agravado” (RE-AgR 330.907, Rel. Min. Cezar Peluso, Segunda Turma, DJe 9.5.2008). (grifei)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 17 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
