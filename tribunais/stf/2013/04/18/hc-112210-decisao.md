@@ -1,0 +1,14 @@
+Trata-se de habeas corpus impetrado por Ana Lúcia Carlos Pereira em favor de Rodrigo Pereira Félix contra decisão monocrática da lavra do Ministro Gilson Dipp, do Superior Tribunal de Justiça, denegatória de seguimento da Reclamação nº 7.439/SP.
+    O paciente, preso em flagrante no dia 12.4.2010, foi condenado pelo Juízo de Direito da 1ª Vara da Comarca de Itanhém – SP à pena de 01 (um) ano e 08 (oito) meses de reclusão, no regime inicial fechado, pela prática de tráfico de drogas, tipificado no art. 33 da Lei nº 11.343/2006.
+    Em 21.01.2011 foi concedida ao paciente a progressão ao regime prisional semiaberto. O benefício foi sustado em 16.5.2011, em razão da fuga por ele empreendida. A recaptura ocorreu em 30.8.2011.
+    A Quinta Turma do Superior Tribunal de Justiça, em 15.9.2011, no julgamento do HC 199.423/SP, de relatoria do Ministro Gilson Dipp, concedeu a ordem para determinar ao Juízo das Execuções Penais que procedesse à verificação da presença dos requisitos objetivos e subjetivos exigidos por lei, para a substituição da pena privativa de liberdade por restritiva de direitos, bem como a adequação do regime prisional.
+    Realizado o exame necessário, o Juízo da Execução indeferiu o pedido de substituição da pena privativa de liberdade por restritiva de direitos.
+    Irresignada, a Defesa aforou a Reclamação nº 7.439/SP no Superior Tribunal de Justiça, que teve seu seguimento negado monocraticamente pelo Ministro Gilson Dipp.
+    Neste writ o paciente alega constrangimento ilegal na manutenção de sua pena no regime inicial fechado e na negativa de substituição da pena privativa de liberdade por restritiva de direitos, porquanto devidamente reconhecida a inidoneidade da fundamentação adotada pelo Tribunal de Justiça no julgamento do habeas corpus pelo Superior Tribunal de Justiça.
+    Ressalta que, nesses casos, caberia à autoridade coatora, após averiguado o equívoco da decisão combatida, estabelecer, desde logo, o regime inicial de cumprimento e a possibilidade de substituição das penas.
+    Considerando o transcurso do tempo em que o paciente se encontra segregado – foi preso em 12.4.2010, tendo permanecido em fuga entre 16.5.2011 a 30.8.2011 –, bem assim o quantum da pena restritiva de liberdade fixada na condenação (um ano e oito meses de reclusão), pertinente colher informações processuais atualizadas junto ao Juízo de Execuções Criminais.
+    Assim, solicitem-se informações, no prazo de 10 (dez) dias, ao Juízo da Vara de Execuções Criminais da Comarca de Praia Grande-SP sobre a situação processual atualizada do paciente Rodrigo Pereira Félix, condenado pelo Juízo da 1ª Vara da Comarca de Itanhaém-SP, na Ação Penal nº 266.01.2010.002183-5, sobretudo quanto à data do trânsito em julgado da condenação e eventual progressão de regime de cumprimento da pena.
+    Publique-se.
+    Brasília, 18 de abril de 2013.
+Ministra Rosa Weber
+Relatora
