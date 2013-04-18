@@ -1,0 +1,12 @@
+DECISÃO (Petição STF n. 15.910/2013)
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. CONSTITUCIONAL. CONCURSO PÚBLICO. RESERVA DE VAGAS PARA CANDIDATOS PORTADORES DE NECESSIDADES ESPECIAIS. PEDIDO DE DESISTÊNCIA. HOMOLOGAÇÃO.
+    1. Em 4.7.2012, o Procurador-Geral da República ajuizou reclamação, com pedido de medida liminar, contra a União, que teria publicado os “Editais n. 9/2012, 10/2012 e 11/2012 dos concursos públicos para provimento de vagas nos cargos de escrivão de Polícia Federal, perito criminal federal e delegado de Polícia Federal, respectivamente, sem fazer reserva de vagas para pessoas portadoras de necessidades especiais” (fl. 4), o que teria contrariado a decisão proferida no Recurso Extraordinário n. 676.335.
+    2. Em 9.7.2012, o Ministro Ayres Britto, então Presidente do Supremo Tribunal Federal, nos termos do art. 13, inc. VIII, do Regimento Interno do Supremo Tribunal Federal, deferiu a medida liminar pleiteada (doc. 14).
+    3. Em 28.11.2012, julguei parcialmente procedente a Reclamação “para reconhecer a validade dos concursos públicos desde que a União neles inclua a garantia da reserva de vagas para pessoas portadoras de necessidades especiais nos certames para os cargos de escrivão de Polícia Federal, perito criminal federal e delegado de Polícia Federal (Editais n. 9/2012, 10/2012 e 11/2012), conforme decidido no Recurso Extraordinário n. 676.335, assegurando-se que o estabelecimento das condições especiais sejam compatíveis com as funções correspondentes aos cargos postos em competição e confirmando-se, assim, a liminar deferida” (doc. 37).
+    Contra essa decisão a União interpôs agravo regimental (doc. 2). A Associação Nacional dos Delegados de Polícia Federal – ADPF apresentou questão de ordem para que o caso fosse apreciado pelo Plenário deste Supremo Tribunal (doc. 40).
+    4. Em 9.4.2013, pela Petição STF n. 15.910/2013, “a União, representada por seu Advogado-Geral (art. 4º, III, da Lei Complementar n. 73/93), vem, nos autos da reclamação em referência, considerando a decisão proferida no RE n. 676.335 (DJe n. 58, de 26/03/2013), desistir do agravo regimental (petição 26.551/2013)” (doc. 45).
+    5. Pelo exposto, homologo o pedido de desistência do agravo regimental na reclamação (art. 21, inc. VIII, do Regimento Interno do Supremo Tribunal Federal) e julgo prejudicada a questão de ordem apresentada pela Associação Nacional dos Delegados de Polícia Federal – ADPF.
+    Publique-se.
+    Brasília, 18 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
