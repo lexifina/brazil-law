@@ -1,0 +1,18 @@
+Decisão.
+    Vistos.
+    Município de Cascavel interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 2º, caput, 5º, inciso LXIX, e 37, caput e inciso IV, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da 4ª Câmara Cível do Tribunal de Justiça do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA CONCURSO PÚBLICO. CANDIDATO QUE NÃO APRESENTOU DOCUMENTO EXIGIDO NO EDITAL NO MOMENTO DA POSSE. LIMINAR CONCEDIDA E SEGURANÇA MANTIDA NA DECISÃO FINAL. EXIGÊNCIA DO EDITAL SUPRIDA POR DOCUMENTO EQUIVALENTE. PRINCÍPIO DA RAZOABILIDADE. APELO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA EM REEXAME NECESSÁRIO”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que as instâncias de origem decidiram a lide amparadas no conjunto fático-probatório constante dos autos, na legislação infraconstitucional pertinente e na interpretação de cláusulas editalícias, cujo reexame e vedado em sede de recurso extraordinário. Incidência das Súmulas 279, 280 e 454 do STF. Nesse sentido, mencione-se o seguinte julgado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA EDITALÍCIA. NÃO ATENDIMENTO. ANÁLISE DE CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279 E 454 DO SFT. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas editalícias. Súmulas 279 e 454 do STF. Precedentes. II – A alegada inconstitucionalidade da regra de edital que exige experiência profissional sem prévia previsão legal traduz inovação recursal, posto que a alegada afronta à Constituição não foi mencionada nas razões do apelo extremo. III - Agravo regimental improvido” (AI nº 807362/RN-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11).
+    Mencionem-se, ainda, as seguintes decisões monocráticas: AI nº. 836.822/SE, Relator o Ministro Luiz Fux, DJe de 2/8/2011; e AI nº. 825.037/RJ, Relatora a Ministra Ellen Gracie, DJe de 21/10/2011.
+    Ressalte-se, por fim, que o Plenário desta Corte, em sessão realizada por meio eletrônico, no exame do ARE nº. 690.113/RS, Relator o Ministro Cezar Peluso, DJe de 11/9/2012, concluiu pela ausência de repercussão geral da matéria consistente na verificação do preenchimento de requisitos exigidos em edital de concurso para provimento de cargo público, por cuidar-se de matéria circunscrita ao âmbito infraconstitucional.
+    Pelo exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 18 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
