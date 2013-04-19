@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de reclamação constitucional, com pedido de liminar, contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais nos autos da Apelação Cível 10704.09.134243-3, em razão de suposta contrariedade ao decidido no RE 596.478 (rel. p/ acórdão Min. Dias Toffoli, DJe de 01/03/2013).
+    Alega o reclamante, em síntese, que: (a) por ter prestado serviços ao Estado de Minas Gerais, na função de agente penitenciário e sem prévia aprovação em concurso público, teria direito a depósitos de FGTS, nos termos do decidido por esta Corte no julgamento do RE 596.478, com repercussão geral reconhecida; (b) o acórdão reclamado, ao não reconhecer o direito aos depósitos de FGTS, teria contrariado o decidido pelo STF no julgamento do RE 596.478; e (c) contra o acordão reclamado, teria interposto recurso especial e extraordinário, ainda pendentes de juízo de admissibilidade pelo Tribunal de origem. Requer o deferimento da medida liminar, para determinar o sobrestamento do processo e a sustação dos efeitos do acórdão reclamado. Entende presentes os requisitos justificadores da concessão da medida liminar ora pleiteada.
+    2. O deferimento de medidas liminares supõe presentes a relevância jurídica da pretensão, bem como a indispensabilidade da providência antecipada, de modo a garantir a efetividade do resultado do futuro e provável juízo de procedência. Este requisito, entretanto, não se encontra presente.
+    Não há nos autos elementos probatórios suficientes, no sentido da ocorrência iminente de dano irreparável ou de difícil reparação, de modo a justificar a indispensabilidade da medida liminar pleiteada. Ora, não se concebe o deferimento de medidas liminares com base em meras suposições, sem respaldo nos elementos fáticos constantes dos autos.
+    3. Ante o exposto, indefiro a liminar. Solicitem-se informações à autoridade reclamada. Após, dê-se vista à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 19 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
