@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5º, incisos LIV e LV, 93, inciso IX, e 97 da Constituição Federal.
+    Decido.
+    Não assiste razão jurídica ao agravante.
+    Não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente. Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    No concernente à alegada ofensa à cláusula de reserva de plenário contida no art. 97 da Constituição Federal, observo que o Tribunal de origem não afastou a aplicação de dispositivos da Lei 6.830/80, mas apenas interpretou-os com a amplitude que entendeu suficientemente correta, julgando que deveria prevalecer, no caso concreto, o disposto no art. 174, do Código Tributário Nacional.
+    Além disso, este Supremo Tribunal Federal já decidiu pela ausência de repercussão geral da questão de mérito envolvendo conflito entre a aplicação do art. 174, CTN e o art. 8º, § 2º da Lei nº 6.830/80, como se vê do RE nº 602.883/SP, Relatora a Ministra Ellen Gracie, assim ementado:
+    “EMENTA TRIBUTÁRIO. EXECUÇÃO FISCAL. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. CONFLITO ENTRE A APLICAÇÃO DO ART. 174, PARÁGRAFO ÚNICO, I, DO CTN, COM REDAÇÃO ANTERIOR À LC 118/05, E A DO ART. 8º, § 2º, DA LEI 6.830/80. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL”.
+    Ante ao exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
