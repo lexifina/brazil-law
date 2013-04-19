@@ -1,0 +1,29 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. PRESCRIÇÃO. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1 . Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE SOBRESTAMENTO DO FEITO. MATÉRIASUBMETIDA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. REGRAMENTO DIRIGIDO AOS TRIBUNAIS DE SEGUNDA INSTÂNCIA. PROCESSUAL CIVIL. PRESCRIÇÃO. EXECUÇÃO INDIVIDUAL DE AÇÃO COLETIVA. PRAZO DE PRESCRIÇÃO. QUINQUENAL. APADECO. EXPURGOS INFLACIONÁRIOS.
+    1. A afetação de tema pelo Superior Tribunal de Justiça como representativo da controvérsia, nos termos do art. 543-C do CPC, não impõe o sobrestamento dos recursos especiais que tratem de matéria afetada, aplicando-se somente aos tribunais de segunda instância.
+    2. O prazo prescricional das execuções individuais de sentença proferida em ação coletiva é quinquenal, por aplicação analógica do art. 21 da Lei nº 4.717/65 e em virtude da incidência da Súmula nº 150/STF, contado a partir do trânsito em julgado da sentença exequenda.
+    3. Agravo regimental não provido”.
+    Os embargos de declaração opostos foram rejeitados:
+    2 . O Agravante afirma que o Superior Tribunal teria contrariado os arts. 1º, inc. III, 5º, inc. XXXII e XXXVI, e 7º, da Constituição da República.
+    Assevera que “o que se defende, na linha da Súmula 150/STF, é que o prazo prescricional da pretensão exercitada na execução individual manejada pelos ora Recorrentes seja o mesmo prazo prescricional em concreto definido para a ação civil pública que deu origem ao título executivo” (grifos no original).
+    Afirma que “se a lei consumerista, tida como especial, e a LACP não previram prazo prescricional para as ações coletivas de cobrança baseadas na dimensão juridicamente protegida no que diz com a vulnerabilidade do consumidor, deve ser aplicada a regra geral, assim entendida o Código civil, muito mais ínsito ao microssistema de defesa do consumidor” (grifos no original).
+    Sustenta que “ainda que fossem maiores os pontos de contato existentes entre ambas, a aplicação da analogia é inadequada, porque, nos termos do art. 1º da 7.347/85, a ação disciplinada é independente daquela prevista na Lei n. 4.717/65” (grifos no original)
+    Requer seja “o recurso extraordinário conhecido e provido para o fim de reformar o v. Acórdão da Colenda Quarta Turma do Superior Tribunal de Justiça, para o fim determinar o prosseguimento normal do curso da ação principal”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de inexistir ofensa direta à Constituição da República.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. As alegações de contrariedade aos princípios do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional (Leis n. 4.717/1965, 7.347/1985, e Código de Processo civil), como se dá no caso em pauta, podem configurar apenas ofensa constitucional indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. TRIBUTÁRIO. ICMS. LIMITES OBJETIVOS DA COISA JULGADA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário por ausência do necessário prequestionamento. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta . 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009, grifos nossos).
+    “O direito adquirido, o ato jurídico perfeito e a coisa julgada , quando objeto de verificação de cada caso concreto acerca da ocorrência ou não de violação, não desafiam a instância extraordinária, posto implicar análise de matéria infraconstitucional . Precedentes. AI 700.685-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe 23.02.2008 e AI 635.789-AgR, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 27.04.2011” (AI 833.410-AgR, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.6.2012, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 19 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
