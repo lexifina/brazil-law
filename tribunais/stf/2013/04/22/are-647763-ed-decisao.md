@@ -1,0 +1,12 @@
+DECISÃO: Constato a existência, no ato judicial de fls. 1.701/1.702, de erro material, passível de correção, nos termos do art. 463, I, do CPC.
+    A possibilidade de tal correção, além de encontrar suporte na legislação processual civil (art. 463, I), tem o beneplácito da própria jurisprudência desta Suprema Corte (RTJ 64/389 – RE 161.174-QO/SP, Rel. Min. ILMAR GALVÃO – RE 183.376-QO/DF, Rel. Min. MARCO AURÉLIO – RE 199.466-QO/PR, Rel. Min. MARCO AURÉLIO, v.g.).
+    Sendo assim, e corrigindo o erro material ora constatado, torno ineficaz referido ato judicial, que havia determinado – com fundamento no art. 543-B do CPC – a devolução dos presentes autos ao Tribunal de origem, restando prejudicado, em consequência, o exame do pedido de fls. 1.706/1.709.
+    Passo a apreciar, desse modo, o recurso de agravo deduzido pelo Estado do Rio Grande do Sul.
+    O Plenário do Supremo Tribunal Federal, ao apreciar o  AI 715.423-QO/RS, Rel. Min. ELLEN GRACIE, firmou entendimento, posteriormente confirmado no julgamento do RE 540.410-QO/RS, Rel. Min. CEZAR PELUSO, no sentido de que também se aplica o disposto no art. 543-B do Código de Processo Civil aos recursos deduzidos contra acórdãos publicados antes de 03 de maio de 2007 e que veiculem tema em relação ao qual já foi reconhecida a existência de repercussão geral.
+    Esta Suprema Corte, em sessão realizada por meio eletrônico, apreciando o RE 704.815-RG/SC, Rel. Min. LUIZ FUX, reconheceu existente a repercussão geral da questão constitucional nele suscitada, e que coincide, em todos os seus aspectos, com a mesma controvérsia jurídica ora versada na presente causa.
+    O tema objeto do recurso extraordinário representativo de mencionada controvérsia jurídica, passível de se reproduzir em múltiplos feitos, refere-se ao “Direito ao creditamento, após a Emenda Constitucional 42/2003, do ICMS decorrente da aquisição de bens de uso e de consumo empregados na elaboração de produtos destinados à exportação, independentemente de regulamentação infraconstitucional” (Tema nº 633 – www.stf.jus.br – Jurisprudência – Repercussão Geral).
+    Isso significa que se impõe, nos termos do art. 328 do RISTF, na redação dada pela Emenda Regimental nº 21/2007, a devolução destes autos ao Tribunal de origem, para que, neste, seja observado  o disposto no art. 543-B e respectivos parágrafos do CPC (Lei nº 11.418/2006).
+    Publique-se.
+    Brasília, 22 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
