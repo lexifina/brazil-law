@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Y do Tribunal Regional Federal da Terceira Região, assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO MILITAR. CABOS MASCULINOS E FEMININOS. LEGISLAÇÕES DIFERENTES. ISONOMIA. INEXISTÊNCIA DE VIOLAÇÃO.
+    1. Pelo que se verifica da análise da legislação que rege a Arma, não há interação entre os Quadros, sendo o Quadro Feminino de Graduadas regido pela Lei n. 6.924/81 e pelo Decreto n. 86.325/81, ao passo que para o Quadro de Cabos masculinos da Arma a legislação de regência é o Estatuto dos Militares (Lei n. 6.880/80 e o Decreto n. 881/93), vindo os critérios para promoções previstos no Decreto n. 881/93.
+    2. O princípio da igualdade diferentemente da postulada liberdade, pressupõe a necessária comparação entre os iguais, que se dizem desigualados; não estando presente a premissa primeira (presença de iguais), não se pode falar em desequiparação à míngua de elementos que devem compor a relação sob análise.
+    3. De tal sorte, existindo carreiras próprias destinadas aos militares do sexo feminino e do sexo masculino, a forma de acesso previsto para cada um desses Quadros não atenta contra direito do outro.
+    4. Apelação e remessa oficial, tida por ocorrida, providas para julgar improcedente o pedido.”
+    No recurso extraordinário, sustenta-se a violação do artigo 5º, caput e inciso I, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, no sentido de que não afronta o princípio da isonomia a utilização de critérios distintos para promoção para as carreiras de militares do sexo feminino e masculino. Nesse sentido, anote-se:
+    “Agravo regimental em agravo de instrumento. Pedido de cabos da aeronáutica para serem promovidos, dentro dos respectivos quadros, da mesma maneira que os cabos do corpo feminino da corporação. Impossibilidade. 1. Mostra-se de inviável aplicação o princípio da isonomia, quando, como no caso ora em análise, há diversos regramentos legais a disciplinar, dentro da mesma carreira, a ascensão funcional de homens e mulheres. 2. Pacífica jurisprudência desta Suprema Corte assim dispondo. 3. Agravo regimental não provido” (AI nº 591.586/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 26/4/12).
+    “MILITAR. PROMOÇÃO. CABOS DA AERONÁUTICA. QUADRO MASCULINO E FEMININO. CRITÉRIOS DISTINTOS. PRINCÍPIO DA ISONOMIA. A jurisprudência deste Supremo Tribunal firmou entendimento no sentido de que não afronta o princípio da isonomia a adoção de critérios distintos para a promoção de integrantes do corpo feminino e masculino da Aeronáutica. Precedentes” (AI nº 443.315/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJ de 16/2/07).
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. EMBARGOS RECEBIDOS COMO AGRAVO REGIMENTAL. ADMINISTRATIVO. MILITAR. LICENCIAMENTO. REINTEGRAÇÃO. CORPO FEMININO DA AERONÁUTICA. CRITÉRIOS DIFERENCIADOS. POSSIBILIDADE. PRECEDENTES. AGRAVO IMPROVIDO. I – A jurisprudência desta Corte firmou-se no sentido de que não viola o princípio da isonomia a utilização de critérios diferenciados para as carreiras de militares do sexo feminino e masculino. Precedentes. II – Embargos de declaração recebidos como agravo regimental a que se nega provimento” (AI nº 786.568/RJ-ED, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 16/9/11).
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática do relator. Embargos de declaração recebidos como agravo regimental. 3. Desacerto da decisão não demonstrado. 4. Militar. Quadro masculino. Estabilidade. Isonomia com o corpo feminino. 5. Discriminação com base na natureza das atribuições e funções exercidas em razão do sexo. Ofensa ao princípio da isonomia. Inocorrência. Precedentes. 6. Agravo regimental a que se nega provimento” (AI nº 440.905/RJ-ED, Segunda Turma, relator o Ministro Gilmar Mendes, DJe de 30/11/07).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
