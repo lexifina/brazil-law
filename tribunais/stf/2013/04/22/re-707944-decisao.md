@@ -1,0 +1,35 @@
+Decisão:
+    Vistos.
+    Estado do Amazonas interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão das Câmaras Reunidas do Tribunal de Justiça do Estado do Amazonas, assim ementado:
+    “MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ELIMINAÇÃO DE CANDIDATO. CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR. MATRÍCULA EFETIVADA MEDIANTE COMPROVAÇÃO DO CUMPRIMENTO DOS REQUISITOS EXIGIDOS PELO EDITAL. ACUMULAÇÃO DE CARGOS. APLICAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. CONCESSÃO DA SEGURANÇA.
+    I - In casu, verifica que a impetrante prestou concurso público para Polícia Militar, sendo aprovada nas primeiras fases do certame. Ao contrário do que afirma a autoridade impetrada, observa-se que embora haja nos autos a informação de que a autora figura como ré em Representação Criminal, distribuída em 16/11/2005, tal representação inexistia á época em que a candidata efetuou sua matrícula.
+    II - Embora a impetrante demonstre que só solicitou sua exoneração junto a secretaria de Estado da Saúde em 06.03.2006, no ato da matrícula, houve a aceitação por parte da administração, na medida em que o órgão da Polícia Militar responsável pelo ingresso dos candidatos no Curso de Formação efetivou a matrícula da impetrante. Ato convalidado por Sargento QPPM.
+    III - As exigências impostas pelo Edital regulador do certame devem se ater ao princípio da razoabilidade, ou sejam, revelar-se válidas, tão somente, caso sejam justificáveis pela natureza das atribuições inerentes ao cargo em disputa.
+    IV - Segurança concedida”.
+    Opostos embargos de declaração, foram rejeitados.
+    O recurso especial interposto na sequência pelo ora recorrente foi provido pelo Superior Tribunal de Justiça para anular o acórdão dos embargos declaratórios e determinar que novo julgamento fosse realizado com o exame dos omissões identificadas por aquela Corte.
+    O acórdão desse novo julgado ficou assim ementado:
+    “EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. POSSIBILIDADE DE ACLARAR O JULGADO SEM ALTERAÇÃO DO RESULTADO. EMBARGOS ACOLHIDOS. MANUTENÇÃO DO JULGADO.
+    I – Consoante dispõe o artigo 535 do Código de Processo Civil, os Embargos de Declaração destinam-se a retirar do julgado eventuais omissão, obscuridade ou contradição, não se caracterizando via própria à rediscussão do mérito da lide.
+    II - É admitido ao julgador explicar, nos aclaratórios, a questão, sem que seja necessário modificar o julgado.
+    III - Embargos de Declaração acolhidos para o fim de aclarar o decisum, sem alterar-lhe o mérito”.
+    Irresignado, o Estado de Amazonas interpõe recurso extraordinário no qual sustenta violação dos artigos 5º, incisos LXIX, e 37, inciso II, da Constituição Federal.
+    Contra-arrazoado, o recurso foi admitido.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, uma vez que o acolhimento da pretensão recursal não prescinde da análise da legislação infraconstitucional invocada no acórdão recorrido, bem como do reexame das provas dos autos, o que não é admitido na via extraordinária. Incidência, no caso, das Súmulas nºs 279 e 636 desta Corte. A propósito:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXIGÊNCIA EDITALÍCIA. NÃO ATENDIMENTO. ANÁLISE DE CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS EDITALÍCIAS. SÚMULAS 279 E 454 DO SFT. AGRAVO IMPROVIDO. I – Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas editalícias. Súmulas 279 e 454 do STF. Precedentes. II – A alegada inconstitucionalidade da regra de edital que exige experiência profissional sem prévia previsão legal traduz inovação recursal, posto que a alegada afronta à Constituição não foi mencionada nas razões do apelo extremo. III - Agravo regimental improvido” (AI nº 807362/RN-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1/2/11).
+    “Agravo regimental no agravo de instrumento. Servidor público. Reintegração. Prequestionamento. Ausência. Ofensa reflexa. Reexame de provas. Impossibilidade. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional local e das provas dos autos. Incidência das Súmulas nºs 280 e 279/STF. 3. Agravo regimental não provido” (AI nº 730.826/RO-AgR, Primeira Turma, de minha relatoria, DJe de 12/9/12).
+    Ressalte-se que o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Pleno, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria relativa aos pressupostos de cabimento de mandado de segurança. Da manifestação do Relator destacam-se os seguintes fundamentos:
+    “(...)
+    A questão a ser analisada diz respeito ao preenchimento dos requisitos do mandado de segurança.
+    Em que pese à ação mandamental ser um remédio constitucional por excelência, a admissibilidade do writ se relaciona com a Constituição Federal apenas de forma mediata, porque as normas processuais atinentes ao seu cabimento são disciplinadas pela Lei n. 12.016/2009.
+    Ademais, a análise da demonstração do direito líquido e certo ou da existência de prova pré-constituída exige o revolvimento de provas, inviável em sede de recurso extraordinário” (DJe de 6/12/10).
+    Por fim, anote-se que o Plenário desta Corte concluiu pela ausência de repercussão geral da matéria consistente na verificação do preenchimento de requisitos exigidos em edital de concurso para provimento de cargo público, por cuidar-se de matéria circunscrita ao âmbito infraconstitucional (ARE n° 690.113/RS, Relator o Ministro Cezar Peluso, DJe de 11/9/12).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 22 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
