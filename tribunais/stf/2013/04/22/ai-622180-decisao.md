@@ -1,0 +1,28 @@
+DECISÃO
+    Vistos.
+    Qualix Serviços Ambientais Ltda interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 18, 22, inciso XXVII, e 129, incisos III e IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Sexta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “PROCESSUAL CIVIL - agravo retido - não conhecimento quando não reiterado, na apelação ou em contra-razões, ou quando da mesma decisão foi extraído e julgado agravo de instrumento.
+    PROCESSUAL CIVIL - ação constitutiva negativa e condenatória - apelação - interesse processual em prevalência de tese jurídica - inexistência - não conhecimento do recurso deduzido sob esse exclusivo fundamento.
+    PROCESSUAL CIVIL - ação civil pública visando ressarcimento do erário por prejuízos resultantes de negócios jurídicos subjacentes a atos de improbidade administrativa - idoneidade do meio - inteligência dos artigos 25 da lei n° 8.625/93 e 1º da lei n° 7.347/85.
+    PROCESSUAL CIVIL - ação civil pública visando ressarcimento do erário por prejuízos resultantes de negócios jurídicos resultantes de atos de improbidade administrativa - legitimidade ativa do Ministério Público para sua propositura - previsão constitucional (art 129, III, da CF.) e infraconstitucional (art. 17 da lei 8.429/92).
+    PROCESSUAL CIVIL - petição inicial que descreve adequadamente a causa de pedir e formula pedido que dela decorre de forma lógica - higidez - indeferimento de pedido de declaração de sua inépcia.
+    PROCESSUAL CIVIL - julgamento antecipado - cerceamento de defesa - inocorrência quando a prova documental permite resolver a questão fática sobre a qual incidiria a pretendida perícia.
+    PROCESSUAL CIVIL - sentença - suficiência da fundamentação que, sinteticamente, examina todos os pontos controvertidos – desobrigação, do julgador, de dar resposta a todas as alegações, quando já tenha encontrado motivo suficiente para fundar a decisão - desobrigação do julgador a ater-se aos fundamentos indicados pela parte ou, tampouco, responder um a um todos os seus argumentos.
+    CONTRATO ADMINISTRATIVO - lei municipal n° 10.544, de São Paulo, art 81, § V - ab-rogação pelo art 65, § 2°, da lei 8.666/93, que não contraria, ao menos de forma clara, dispositivo da Constituição da República - incompetência do Tribunal de Contas do Município para afirmação de sua inconstitucionalidade em resposta a consulta formulada pelo prefeito municipal.
+    CONTRATO ADMINISTRATIVO - licitação anterior ao Plano Real - outorga do instrumento após sua edição, sem a inicial previsão de correção monetária entre os momentos da aferição dos serviços e do pagamento - pretensão à redução do prazo inicialmente estipulado acolhida pela Administração - ilegalidade - não subsistência das hipóteses do art. 65, II, c e d, da lei 8.666/93 - prejuízo econômico resultante passível de reparação.
+    CONTRATO ADMINISTRATIVO - agregação de serviços anteriormente prestados, mas que não foram objeto da licitação – não caracterização da hipótese do art 65, I, da lei 8.666/93 - inadmissibilidade - prejuízo econômico resultante passível de reparação.
+    CONTRATO ADMINISTRATIVO - empreitada por preço unitário - agregação de serviços que elevaram o valor do contrato a mais de 25% do original - impossibilidade de extrapolação por causa de defeito da licitação e indevida agregação de serviços não licitados - inteligência do art 65, § 2º, da lei 8.666/93 - prejuízo econômico conseqüente passível de reparação.
+    IMPROBIDADE ADMINISTRATIVA - alterações realizadas em contrato administrativo em claro ferimento a dispositivos da lei de regência - irrelevância de pareceres emitidos pela Administração e Tribunal de Contas do Município dando conta da suposta legalidade dos atos - responsabilidade dos agentes que os subscreveram e dos terceiros beneficiários - inteligência dos arte. 3º, 5º, 10, caput e inc VIII, e 12, II da lei n° 8.429/92.
+    IMPROBIDADE ADMINISTRATIVA - aditamentos contratuais irregulares, subscritos por vários agentes – responsabilidade solidária pelos efeitos antecedentes nos subscritos posteriormente - omissão do dever de revisão do ato ilegal.
+    Agravos retidos e apelação da Municipalidade não conhecidos. Demais recursos parcialmente providos” (fls.594/595).
+    Opostos embargos de declaração por ambas as partes, foram rejeitados (fls. 649 a 676).
+    Em pesquisa realizada no sistema processual do sítio do Superior Tribunal de Justiça na internet pelo número de origem e pelos nomes das partes, verifica-se que aquela Corte, por decisão transitada em julgado, deu provimento ao recurso especial interposto paralelamente ao extraordinário (REsp nº 827.445/SP), para “julgar improcedente o pedido inicial, ficando prejudicado o exame das demais questões suscitadas nos recurso (...)”.
+    Decido.
+    Como visto, o Superior Tribunal de Justiça, conforme já relatado, deu provimento ao recurso especial interposto pela ora agravante para julgar improcedente a ação reparatória por ato de improbidade administrativa ajuizada pelo Ministério Público do Estado de São Paulo. Destarte, a improcedência total do pedido inicial torna prejudicado o recurso extraordinário e, em consequência, o presente agravo de instrumento, por falta de objeto.
+    Ante o exposto, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o agravo, dada a perda superveniente de seu objeto.
+    Publique-se.
+    Brasília, 22 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
