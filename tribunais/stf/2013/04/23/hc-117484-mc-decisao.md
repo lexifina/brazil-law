@@ -1,0 +1,22 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida cautelar, impetrado em favor de Sônia Maria de Camargo Ribeiro, contra acórdão da Sexta Turma do Superior Tribunal de Justiça que não conheceu do HC 222.858/SP. Eis o teor do acórdão:
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. MODIFICAÇÃO DA ORIENTAÇÃO JURISPRUDENCIAL DO STJ, EM CONSONÂNCIA COM ORIENTAÇÃO ADOTADA PELO PRETÓRIO EXCELSO. CONDENAÇÃO. TRÂNSITO EM JULGADO. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. MARCOS INTERRUPTIVOS. PROVA PRÉ-CONSTITUÍDA. AUSÊNCIA. REGIME SEMIABERTO. SOMATÓRIO DAS PENAS SUPERIOR A QUATRO ANOS. ART. 111 DA LEI N. 7.210/1984. PLEITO DE PRISÃO DOMICILIAR. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA.
+    – O Supremo Tribunal Federal, pela sua Primeira Turma, passou a adotar orientação no sentido de não mais admitir habeas corpus substitutivo de recurso ordinário. Precedentes: HC 109.956/PR, Ministro Marco Aurélio, DJe de 11.9.2012 e HC 104.045/RJ, Ministra Rosa Weber, DJe de 6.9.2012, dentre outros.
+    – Este Superior Tribunal de Justiça, na esteira de tal entendimento, tem amoldado o cabimento do remédio heróico, sem perder de vista, contudo, princípios constitucionais, sobretudo o do devido processo legal e da ampla defesa. Nessa toada, tem-se analisado as questões suscitadas na exordial a fim de se verificar a existência de constrangimento ilegal para, se for o caso, deferir-se a ordem de ofício. A propósito: HC 221.200/DF, Rel. Min. Laurita Vaz, DJe de 19.9.2012.
+    – O rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos a existência do alegado constrangimento ilegal.
+    – Não há nos autos nenhuma informação acerca da data do recebimento da denúncia, assim como da data da publicação da sentença condenatória – marcos interruptivos da prescrição (art. 117, I e IV, do CP) –, indispensáveis para a análise do pleito.
+    – O regime inicial de cumprimento da pena no semiaberto foi corretamente aplicado pela Corte estadual, à luz do art. 33, § 2º, b, do CP, já que o somatório das penas (art. 111 da Lei n. 7.210/1984) é superior a 4 anos e inferior a 8 anos.
+    – A pretensão de concessão de prisão domiciliar não foi analisada pelas instâncias ordinárias o que impede a apreciação dessa questão diretamente por este Superior Tribunal, sob pena de indevida supressão de instância.
+    Habeas corpus não conhecido.
+    Na inicial, alega-se o seguinte: (a) a paciente foi condenada às penas de 04 (quatro) anos de reclusão e 01 (um) ano de detenção pela prática dos delitos tipificados nos arts. 289, § 1º, e 307, do Código Penal, respectivamente; (b) foi imposto o regime inicial semiaberto; (c) operou-se a prescrição da pretensão punitiva estatal, eis que “o crime ocorreu a mais de dez anos e a sentença transitada em julgado ocorreu no ano de 2010”; (d) alternativamente, impõe-se o regime inicial aberto, nos termos do art. 33, § 2º, b, do CP; ou (e) a adoção da prisão domiciliar, já que “a paciente hoje se encontra com quase 60 anos de idade, sua saúde está prejudicada, visto que possui Hepatite do Tipo C, além de diabetes do tipo Melitus, necessitando aplicar insulina com regularidade”. Requer a concessão de medida liminar para que se expeça salvo-conduto.
+    2. Não estão presentes os requisitos autorizadores da concessão da medida liminar.
+    3. Relativamente à prescrição, a petição inicial encontra-se deficientemente instruída ante a ausência de peças imprescindíveis à verificação da ilegalidade apontada.
+    4. No tocante ao pedido de prisão domiciliar, cumpre registrar que o acórdão do STJ, contra o qual se insurge a impetração, não apreciou o pedido, por entender que a pretensão veiculada não foi examinada pelo Tribunal de origem. Nessa perspectiva, o conhecimento do pedido por esta Corte implicaria dupla supressão de instância.
+    5. Por fim, estabelecidos cinco anos de privação de liberdade, não há como deferir a medida liminar para a concessão do regime inicial aberto, eis que o somatório da pena imposta, nos termos do art. 111 da Lei de Execução Penal, afasta o requisito objetivo previsto no art. 33, § 2º, b, do Código Penal.
+    6. Com essas considerações, indefiro o pedido de liminar.
+    Solicitem-se informações ao Juízo Federal da 4ª Vara de São José do Rio Preto/SP. Após, encaminhem-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 23 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
