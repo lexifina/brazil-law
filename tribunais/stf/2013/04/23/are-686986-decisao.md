@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário sob os seguintes fundamentos: (a) as questões constitucionais aduzidas não foram debatidas no acórdão recorrido, incidindo as vedações das súmulas 282 e 356 do STF; (b) a matéria foi resolvida com fundamento no artigo 71, § 3º, da Constituição, amparada no entendimento jurisprudencial das Cortes Superiores, não havendo ofensa a normas constitucionais.
+    No agravo em recurso extraordinário, a parte agravante alega, em síntese, que: (a) a lei autoriza que a Presidência dos Tribunais somente verifique os pressupostos de admissibilidade dos recursos, não havendo previsão para que reforme, mantenha, ou opine sobre o mérito de decisão final proferida pelo próprio Tribunal, de forma a prejudicar ou favorecer qualquer das partes, sendo nula a decisão ora em exame, pois viola o artigo 5º, XXXV, da Constituição Federal; (b) a decisão local é frontalmente contrária a decisão do STF em questão idêntica, proferida no RE 597.362; (c) a Constituição do Estado do Rio Grande do Sul não reproduziu o artigo 71, § 3º, da Constituição Federal, não atribuindo força de título executivo às deliberações, sendo inaplicável o princípio da simetria, porquanto este artigo, refere-se exclusivamente ao Tribunal de Contas da União.
+    2. Como se vê, as razões do agravo não impugnaram todos os fundamentos suficientes para manter, por si sós, a decisão agravada, nada aduzindo sobre a falta de prequestionamento, incidindo o óbice da súmula 282 do STF. A falta de ataque específico a todos os fundamentos aptos a sustentar a decisão agravada acarreta o não-conhecimento do presente recurso, a teor do que dispõe o art. 544, § 4º, I, do CPC, com a redação dada pela Lei 12.322/2010.
+    3. Diante do exposto, não conheço do agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 23 de abril de 2013
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
