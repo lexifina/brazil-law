@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso ordinário em mandado de segurança interposto por Carolina Armazéns Gerais Ltda. contra acórdão do Superior Tribunal de Justiça (STJ) que negou provimento a agravo regimental em face de decisão que indeferiu liminarmente o mandado de segurança.
+    O aresto recorrido restou assim ementado:
+    “PROCESSO CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. ATO JUDICIAL. TERATOLOGIA OU MANIFESTA ILEGALIDADE. AUSÊNCIA. DESCABIMENTO. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO NÃO PROVIDO.
+    1. O cabimento do mandado de segurança contra ato judicial está adstrito a situações excepcionais nas quais o impetrante demonstra que não há recurso apto a sanar a ilegalidade e que existe teratologia no julgado combatido. Precedentes.
+    2. Na espécie, o acórdão impugnado manteve, de maneira fundamentada, a decisão da Corte de origem que inadmitiu o recurso especial, concluindo pela ausência de violação dos arts. 535 e 538, parágrafo único, do CPC; pela impossibilidade de revolvimento de matéria fática no apelo nobre; e pela falta de prequestionamento dos dispositivos legais questionados.
+    3. Como a discussão posta no recurso especial centrou-se apenas no debate das normas contidas no Código de Processo Civil, revela-se descabida a pretensão de prequestionar dispositivos constitucionais.
+    4. Ainda que assim não fosse, a multa do art. 538, parágrafo único, do CPC já havia sido aplicada desde o julgamento proferido na origem. Nesse contexto, cumpriria à impetrante, caso entendesse pela repercussão constitucional da controvérsia, interpor o competente recurso extraordinário contra o acórdão primevo e não ressuscitar essa matéria na instância especial.
+    5. Agravo regimental não provido”.
+    A recorrente alega, em síntese, que a aplicação de multa no julgamento dos primeiros embargos de declaração em agravo regimental em recurso especial com agravo restringiu seu direito de acesso à jurisdição (art. 5º, XXXV, da Constituição), pois o recurso teria sido interposto com o objetivo de prequestionar a matéria a ser suscitada em recurso extraordinário.
+    Decido.
+    A impetração, ao fundamento de violação do direito de acesso à jurisdição, busca afastar acórdão proferido pela Quarta Turma do STJ com a seguinte ementa:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA. OMISSÃO. MERO INCONFORMISMO. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+    1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 535 do CPC.
+    2. No caso concreto, não se constata qualquer das hipóteses ensejadoras dos embargos de declaração.
+    3. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor da causa, nos termos do art. 538, parágrafo único, do CPC”.
+    Contudo, a jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que não cabe mandado de segurança contra ato judicial, salvo em situações excepcionais, em que a decisão impugnada seja teratológica ou quando haja abuso de poder.
+    Nesse sentido, cito os seguintes julgados, de ambas as turmas desta Corte:
+    “RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DECISÃO JUDICIAL QUE NEGA PROVIMENTO A RECURSO ESPECIAL. ALEGADA CONTRARIEDADE AO DIREITO DO IMPETRANTE À SUPENSÃO DE EXECUÇÃO FISCAL. MANDADO DE SEGURANÇA IMPETRADO CONTRA ATO JURISDICIONAL. AUSÊNCIA DE CONFIGURAÇÃO DE ILEGALIDADE OU ABUSO DE PODER. DESCABIMENTO. PRECEDENTES. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA AO QUAL SE NEGA PROVIMENTO”. (RMS 30.989, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 11.4.2013)
+    “Agravo regimental em recurso ordinário em mandado de segurança. Ato da 3ª Turma do Superior Tribunal de Justiça. Ato de índole jurisdicional. Inadmissibilidade de mandado de segurança. Inexistência de decisão teratológica que cause ofensa a direito líquido e certo. Inexistência de obstáculo judicial. Agravo regimental a que se nega provimento. 1. Inadmissibilidade de impetração de mandado de segurança contra ato revestido de conteúdo jurisdicional passível de recurso próprio. Precedentes. O ato questionado consiste em ato de índole jurisdicional passível de recurso. Deixou-se de interpôr o respectivo recurso extraordinário, transitando em julgado a ação. 2. Não há particularidades no caso que apontariam para uma decisão teratológica. A decisão do Superior Tribunal de Justiça encontra-se amplamente fundamentada na legislação aplicável à situação e na jurisprudência dominante daquele Tribunal, bastando uma rápida pesquisa em seu sítio na internet para que se verifique a necessidade da identificação do número do processo quando do preparo, sob pena de ser o recurso considerado deserto. 3. Agravo regimental a que se nega provimento”. (RMS 31.214 AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 14.12.2012)
+    No caso, não ficou demonstrada a ocorrência de teratologia ou de abuso de poder na decisão judicial combatida, de modo que impetração é manifestamente incabível.
+    Ante o exposto, nego seguimento ao recurso ordinário (art. 21, § 1º/RI-STF).
+    Publique-se. Int..
+    Brasília, 23 de abril de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
