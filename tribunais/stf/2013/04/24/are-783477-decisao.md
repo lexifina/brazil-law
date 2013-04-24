@@ -1,0 +1,15 @@
+DECISÃO :
+    Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “RECURSO EM SENTIDO ESTRITO. TENTATIVA DE HOMICÍDIO QUALIFICADO POR MOTIVO TORPE. PLEITO DE DESPRONÚNCIA. ALEGAÇÃO DE AUSÊNCIA DE MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA - IMPOSSIBILIDADE DE ACOLHIMENTO - MATERIALIDADE COMPROVADA PELO LAUDO DE LESÕES COPORAIS E PALAVRA DA VÍTIMA QUE APONTA O RECORRENTE COMO O AUTOR DO CRIME. PRETENSÃO DE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL CULPOSA. AUSÊNCIA DE RESPALDO PROBATÓRIO SÓLIDO ACERCA DA ALEGADA FALTA DO ELEMENTO SUBJETIVO DO TIPO PENAL (DOLO).DÚVIDAS QUE, NESTA FASE, SE RESOLVEM PRO SOCIETATE. DECISÃO DE PRONÚNCIA QUE ENCERRA MERO JUÍZO DE ADMISSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI PARA DIRIMIR TAIS CONTROVÉRSIAS. RECURSO DESPROVIDO, COM A CORREÇÃO, DE OFÍCIO, DO EQUÍVOCO MATERIAL CONSTANTE NO DISPOSITIVO DA DECISÃO DE PRONÚNCIA.”
+    O recurso busca fundamento no art. 102, III, a , da Constituição Federal. A parte recorrente alega violação aos arts. 1º, III, e 5º, LIII, da Constituição. Aduz que, “no caso em tela, a fase processual “reservada essencialmente à formação de um juízo positivo ou negativo sobre a existência de um crime da competência do tribunal do Júri”, foi realizada contrariando os dispositivos legais citados, pois, em nenhum momento, chega-se a conclusão de que ocorreu tentativa de homicídio.”
+    A decisão agravada negou seguimento ao recurso sob os seguintes fundamentos: (i) incide, no caso, a Súmula 282/STF; (ii) “a alegação de afronta à norma constitucional constituiria ofensa meramente reflexa à Lei Fundamental.”
+    O recurso é inadmissível, tendo em vista que o recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante dos autos, bem como a questionar alegado erro no enquadramento do caso à legislação penal. Nessas condições, a hipótese atrai a incidência da Súmula 279/STF. Nessa linha, veja-se a decisão do ARE 742.862, Rel.ª Min.ª Rosa Weber, da qual se extrai o seguinte trecho conclusivo:
+    “(...)
+    Além disso, para dissentir da conclusão do Tribunal de Justiça do Estado da Bahia, a pretexto de a decisão de pronúncia ser injusta, porquanto não há nos autos provas contundentes de autoria contra os Recorrentes, seria necessário o revolvimento dos fatos e provas do caso, de todo inviável em sede extraordinária, nos termos da Súmula 279/STF (para simples reexame de prova não cabe recurso extraordinário ).
+    (...)”
+    Ademais, a jurisprudência do Supremo Tribunal Federal assentou tratar-se de matéria infraconstitucional a questão relativa à afronta ao princípio do juiz natural. Nessa linha, vejam-se o AI 839.398, Rel. Min. Joaquim Barbosa, o AI 735.009, Rel. Min. Cezar Peluso, e o AI 681.668- AgR, Relª. Minª Ellen Gracie.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 24 de abril de 2013.
+Ministro Luís Roberto Barroso
+Relator
