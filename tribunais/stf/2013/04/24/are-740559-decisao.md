@@ -1,0 +1,34 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REMARCAÇÃO E INDENIZAÇÃO DE FÉRIAS NÃO GOZADAS. DIRETOR DE ESCOLA MUNICIPAL. INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. NECESSIDADE DE ANÁLISE PRÉVIA DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Tribunal de Justiça de Minas Gerais:
+    “Apelação Cível. Ex-ocupante do cargo de Diretor Escolar Municipal. Cobrança de férias supostamente não gozadas. Obrigatoriedade do gozo prevista em Decreto Municipal. Descabimento da indenização pretendida.
+    - Nos termos do art. 333, incisos I e II, do Código de Processo Civil, cabe ao autor provar o fato constitutivo de seu direito e ao réu, por sua vez, provar a existência de elemento impeditivo, modificativo ou extintivo do pleito contra ele deduzido.
+    - Exigindo a Lei Municipal que o servidor não deixe de gozar, sob qualquer pretexto, das férias anuais obrigatórias, e não existindo prova concreta da necessidade excepcional de serviço, descabe a pretensão à indenização por férias efetivamente não usufruídas.
+    - A vedação ao enriquecimento sem causa deve ser harmonizada com o princípio da legalidade, que impõe que as atividades dos agentes públicos se limitem ao que estiver autorizado pela lei.
+    - Recurso não provido” (grifos nossos).
+    Os embargos de declaração opostos pelo Agravante foram rejeitados.
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 1º, inc. III e IV, 5º, inc. LIV, 7º, inc. XVII, e 93, inc. IX, da Constituição da República.
+    O Agravante argumenta que
+    “os documentos anexos aos autos deram conta da realização de despesas correntes durante os já referidos períodos (16/01/06 a 27/01/06, 03/07/06 a 21/07/06 15/01/07 a 26/01/07, 11/07/07 a 31/07/07, 08/09/08 a 10/10/08), através da assinatura de vários cheques, prestação de informações a diversos órgãos (…)
+    NOTÓRIO QUE O TRABALHO DO SERVIDOR RECORRENTE DURANTE SEU PERÍODO DE FÉRIAS DECORREU DA NECESSIDADE DO SERVIÇO E DA SUPREMACIA DO INTERESSE DA ADMINISTRAÇÃO”.
+    3. A decisão agravada teve como fundamentos para a inadmissibilidade do recurso extraordinário a circunstância de que: a) a contrariedade à Constituição da República, se existente, seria indireta; b) a inexistência de contrariedade ao art. 93, inc. IX, da Constituição da República; e c) a incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    7. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Decreto municipal n. 2.048/1971, Lei municipal n. 353/1953 e Código de Processo Civil) e o reexame do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL. LIMITES OBJETIVOS DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REVISÃO DE MATÉRIA FÁTICA. ÓBICE DO ENUNCIADO 279 DA SÚMULA/STF. ALEGAÇÃO DE OFENSA AO ART. 5º, XXXV E LV. VIOLAÇÃO INDIRETA OU REFLEXA. Agravo regimental a que se nega provimento” (AI 583.117-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, Dje 8.10.2010, grifos nossos).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO E FÉRIAS NÃO GOZADAS NA ATIVIDADE. MEMBRO APOSENTADO DO MINISTÉRIO PÚBLICO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS E DE MATÉRIA FÁTICA. SÚMULAS 279 E 280 DO STF. AGRAVO IMPROVIDO” (RE 600.096-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, Dje 27.10.2011, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ARTS. 544 E 545 DO CPC. INDENIZAÇÃO POR FÉRIAS NÃO GOZADAS. ARTIGOS 37, § 6º, 5º, LV, e 93, IX, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO” (AI 799.622-AgR, Relator o Ministro Luiz Fux, Primeira Turma, grifos nossos).
+    8. O Supremo Tribunal assentou que a alegação de contrariedade ao princípio do devido processo legal, quando dependente de exame de legislação infraconstitucional (Decreto municipal n. 2.048/1971, Lei municipal n. 353/1953 e Código de Processo Civil), pode configurar, se for o caso, ofensa constitucional indireta:
+    “A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que as alegações de afronta aos princípios do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, configurariam ofensa constitucional indireta. 3. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 24 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
