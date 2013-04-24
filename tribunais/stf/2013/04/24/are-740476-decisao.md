@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “EMBARGOS À EXECUÇÃO. CORREÇÃO MONETÁRIA. CRITÉRIO OMISSO NO ACÓRDÃO EXEQUENDO. LEI N.º 11.960/2009.
+    1. A Corte Especial - no julgamento do EREsp 1.207.197/RS, acórdão pendente de publicação - alinhou a jurisprudência deste Superior Tribunal de Justiça ao entendimento pacificado do Supremo Tribunal, no sentido de que as normas que disciplinam os juros moratórios possuem natureza processual devendo incidir de imediato nos processos em andamento.
+    2. Na linha dessa nova orientação, nas condenações impostas à Fazenda Pública independentemente de sua natureza, devem incidir os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, a partir do advento da Lei n.º 11.960, publicada em 30/06/2009, que deu nova redação ao art. 1.º -F da Lei n.º 9.494/97.
+    3. Não há que se falar em violação à coisa julgada, posto que o acórdão exequendo não especificou qual o índice a ser aplicado, apenas referiu 'corrigida monetariamente desde quando devida'.
+    4. Agravo desprovido”.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXVI, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 627.902-AgR/SP, de minha relatoria; AI 736.916/AL, Rel. Min. Luiz Fux; AI 446.131-AgR-AgR/DF, Rel. Min. Dias Toffoli; e o RE 714.946-AgR/PE, Rel. Min. Celso de Mello, cuja ementa segue transcrita:
+    “RECURSO EXTRAORDINÁRIO POSTULADO CONSTITUCIONAL DA COISA JULGADA ALEGAÇÃO DE OFENSA DIRETA INOCORRÊNCIA LIMITES OBJETIVOS TEMA DE DIREITO PROCESSUAL MATÉRIA INFRACONSTITUCIONAL INCOGNOSCIBILIDADE DO APELO EXTREMO RECURSO IMPROVIDO. - Se a discussão em torno da integridade da coisa julgada reclamar análise prévia e necessária dos requisitos legais, que, em nosso sistema jurídico, conformam o fenômeno processual da 'res judicata', revelar-se-á incabível o recurso extraordinário, eis que, em tal hipótese, a indagação em torno do que dispõe o art. 5º, XXXVI, da Constituição por supor o exame, 'in concreto' , dos limites subjetivos (CPC, art. 472) e/ou objetivos (CPC, arts. 468, 469, 470 e 474) da coisa julgada traduzirá matéria revestida de caráter infraconstitucional, podendo configurar, quando muito, situação de conflito indireto com o texto da Carta Política, circunstância essa que torna inviável o acesso à via recursal extraordinária. Precedentes”.
+    No mesmo sentido, menciono as seguintes decisões: ARE 705.615/DF, Rel. Min. Dias Toffoli; ARE 712.597/DF, Rel. Min. Cármen Lúcia; ARE 708.583/DF, Rel. Min. Luiz Fux.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 24 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
