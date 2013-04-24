@@ -1,0 +1,23 @@
+Decisão: Trata-se de ação cautelar, com pedido de medida liminar, destinada a atribuir efeito suspensivo a recurso extraordinário.
+    O Autor, Olímpio José de Souza Neto, impetrou mandado de segurança, distribuído à 2ª Vara Federal Cível em Itajaí, Seção Judiciária de Santa Catarina, em face do Delegado da Receita Federal em Cuiabá/SC, questionando a exigibilidade do IPI sobre veículos importados por pessoa física.
+    Processado o feito, foi concedida a segurança pleiteada para declarar a inexigibilidade do IPI sobre importação de veículo por pessoa física.
+    Em face desta decisão, a União interpôs apelação à Colenda Segunda Turma do Egrégio Tribunal Regional Federal da 4ª Região, que deu provimento ao recurso sob o argumento de ser legítima a incidência do IPI na importação por pessoa física de veículo para uso próprio, uma vez que a destinação final do bem não é relevante para a definição da incidência do tributo em questão.
+    Face aos termos do acórdão proferido, foi interposto embargos de declaração pelo Autor, o qual foi acolhido para fins de prequestionamento de dispositivo constitucional aventado.
+    Ato contínuo, em 22/01/2013 foi interposto Recurso Extraordinário pelo ora Autor, o qual foi admitido na origem e aguarda remessa ao Supremo.
+    Com o objetivo de obter efeito suspensivo ao recurso extraordinário, o autor ajuíza a presente ação cautelar.
+    É o relatório. Decido.
+    A outorga de efeito suspensivo ao recurso extraordinário reveste-se de caráter excepcional em face do que dispõe o art. 542, § 2º, do CPC, na redação da Lei nº 8.950/94, in verbis:
+    § 2º Os recursos extraordinário e especial serão recebidos no efeito devolutivo.
+    O Supremo Tribunal Federal somente tem admitido essa possibilidade processual quando satisfeitas determinadas condições que a jurisprudência desta Corte assim define:
+    O recurso extraordinário somente dispõe de efeito devolutivo ( CPC , art. 542, § 2º, na redação dada pela Lei nº 8.950/94). Por isso mesmo, a outorga de efeito suspensivo ao recurso extraordinário - embora processualmente viável em sede cautelar - reveste-se de excepcionalidade absoluta.
+    A concessão de eficácia suspensiva ao apelo extremo, para legitimar-se, supõe a conjugação necessária dos seguintes requisitos: ( a ) que tenha sido instaurada a jurisdição cautelar do Supremo Tribunal Federal ( existência de juízo positivo de admissibilidade do recurso extraordinário, consubstanciado em decisão proferida pelo Presidente do Tribunal de origem), ( b ) que o recurso extraordinário interposto possua viabilidade processual, caracterizada, dentre outras, pelas notas da tempestividade, do prequestionamento explícito da matéria constitucional e da ocorrência de ofensa direta e imediata ao texto da Constituição, ( c ) que a postulação de direito material deduzida pela parte recorrente tenha plausibilidade jurídica e ( d ) que se demonstre , objetivamente, a ocorrência de situação configuradora do periculum in mora . Precedentes .
+    (AC nº 254-QO, Rel. Ministro Celso de Mello)
+    Nesta análise preliminar, para fins de deferimento de efeito suspensivo do recurso extraordinário, plausível é a argumentação do Autor quanto à matéria de fundo do recurso extraordinário, pois no julgamento eletrônico do Recurso Extraordinário nº 723.651, o Relator, Ministro Marco Aurélio, manifestou-se pelo reconhecimento da existência de repercussão geral da questão constitucional suscitada, qual seja “definir se pessoa natural que não atua na compra e venda de automóveis, importando veículo para o próprio uso, está sujeita à satisfação do tributo”.
+    A plausibilidade jurídica da tese por ele sustentada pode ser reconhecida ainda pela análise do posicionamento adotado pelo Supremo Tribunal Federal, que afasta a incidência do IPI em importação de veículo automotor, para uso próprio, por pessoa física.
+    O Autor argumenta que o perigo da demora estaria consubstanciado no risco iminente “do pagamento do valor consignado no mencionado Auto de Infração. Portanto, a medida cautelar incidental pretende impedir a ocorrência destes danos, que incontestavelmente são de difícil reparação, senão irreparáveis. Desse modo, apresenta-se inconteste o perigo da demora da tutela jurisdicional”.
+    Ante o exposto, defiro, ad referendum da Turma, a medida liminar requerida, para fins de conceder efeito suspensivo ao Recurso Extraordinário interposto pelo ora Autor nos autos do Processo n° 5004312-69.2012.4.01.7208.
+    Publique-se. Intime-se
+    Brasília, 24 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
