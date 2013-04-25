@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 39, § 1º, 115, 116 e 117 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: MS 21.299/DF, Rel. Min. Moreira Alves, Tribunal Pleno, DJ 19.12.1996, verbis:
+    “Justiça Trabalhista. Juiz classista. Aposentadoria. Interpretação do artigo 4º da Lei nº 6.903/81. - Esta Corte, interpretando o artigo 4º da Lei nº 6.903/81, quando do julgamento do MS nº 20.864, entendeu que o Juiz classista, que, ao pretender aposentar-se como tal, estiver no exercício da magistratura trabalhista, só o poderá fazer no cargo em que tiver efetivo exercício, continuamente ou não, por cinco anos no mínimo. - No caso, não tendo o impetrante cinco anos, contínuos ou não, quer no cargo de Juiz classista de 1º grau, quer no cargo de Juiz classista do TRT, não pode ele aposentar-se, como requer, no primeiro, não tendo também direito a aposentar-se no segundo. - Ademais, há um argumento novo que afasta, na hipótese, a questão legal que se discute. A aposentadoria em causa foi requerida na vigência da atual Constituição, que só admite (inciso VI do artigo 93) a aposentadoria facultativa do magistrado, após cinco anos de exercício efetivo na judicatura. Assim, sendo pela atual Constituição magistrados os Juizes classistas do Trabalho, e podendo eles exercer, nessa magistratura, cargos isolados distintos, para se aposentarem, em face do sistema constitucional em vigor - que se aplica de imediato -, necessitam de contar cinco anos de exercício efetivo em qualquer um deles, que é o que decorre do termo "judicatura" empregado pelo inciso VI do artigo 93 da Constituição, quando não se trate de cargo de carreira. Mandado de segurança indeferido” (destaquei).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de abril de 2013.
+Ministra Rosa Weber
+Relatora
