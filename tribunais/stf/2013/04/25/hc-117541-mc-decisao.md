@@ -1,0 +1,13 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Eduardo Henrique Soares da Silva, de Leonardo Teles Monteiro e de Ramon Felipe Lima de Matos contra decisão da Ministra Laurita Vaz, do Superior Tribunal de Justiça, que negou seguimento ao AREsp 289/942/MG. Eis a ementa da decisão:
+    AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. CRIME DE FURTO. SUBTRAÇÃO DE LATAS DE REFRIGERANTE E CERVEJA DE ESTABELECIMENTO COMERCIAL, AVALIADAS EM R$ 221,78. PEQUENO VALOR. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. AGRAVO CONHECIDO, PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL.
+    Em suma, alega-se o seguinte: (a) os pacientes foram denunciados pela suposta prática do crime previsto no art. 155, §4º, inciso II e IV Código Penal; (b) “os acusados teriam subtraído 84 latas de cerveja Brahma, 93 latas de refrigerante Coca-Cola de 250 ml, 60 latas de refrigerante Coca-Cola de 350 ml e 06 latas de refrigerante Fanta de 350 ml de estabelecimento comercial, avaliadas, no montante, em R$ 221,78 (duzentos e vinte e um reais e setenta e oito centavos), o equivale a R$ 73,92 (setenta e três reais e noventa e dois centavos para cada um dos acusados”; (c) é atípica a conduta em face da aplicação do princípio da insignificância; (d) “mesmo que se entenda que é típico o comportamento da paciente, não é o caso de aplicação de sanção penal, vez que essa se mostra desnecessária no caso concreto”. Requer a concessão de medida liminar para determinar a suspensão da ação penal.
+    2. Não estão presentes os requisitos autorizadores da concessão da medida liminar. Há convergência de entendimento, na jurisprudência do STF, de que, para se caracterizar hipótese de aplicação do denominado princípio da insignificância e assim afastar a recriminação penal, é indispensável que a conduta do agente seja marcada por ofensividade mínima ao bem jurídico tutelado, reduzido grau de reprovabilidade, inexpressividade da lesão e nenhuma periculosidade social. É ilustrativo e sempre referido, a propósito, o acórdão de lavra do Ministro Celso de Mello, no HC 84.412-SP, 2 ª Turma, DJ de 19.11.2004.
+    No caso, os pacientes são acusados de terem subtraído, mediante abuso de confiança (CP, 155, § 4º, II e IV), bens avaliados em R$ 221,78 (duzentos e vinte e um reais e setenta e oito centavos), pertencentes ao supermercado no qual trabalhavam. Sendo esse quadro, não se evidencia, desde logo, presentes os elementos concretos que justificariam o reconhecimento da irrelevância penal da conduta imputada.
+    3. Com essas considerações, indefiro o pedido de liminar.
+     Encaminhem-se os autos à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 25 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
