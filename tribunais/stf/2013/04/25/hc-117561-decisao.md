@@ -1,0 +1,11 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida cautelar, impetrado em favor de Alex Junio Paixão contra decisão da Ministra Laurita Vaz, do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 268.257/PR. Eis a ementa da decisão:
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DESTE SUPERIOR TRIBUNAL DE JUSTIÇA: MATÉRIA DE DIREITO ESTRITO. MODIFICAÇÃO DE ENTENDIMENTO DESTA CORTE, EM CONSONÂNCIA COM O PRETÓRIO EXCELSO. TRÁFICO ILÍCITO DE DROGAS. CONDENAÇÃO. PEDIDO DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO. ACÓRDÃO IMPUGNADO SEQUER JUNTADO AOS AUTOS. CORRETA INSTRUÇÃO DO REMÉDIO CONSTITUCIONAL DO HABEAS CORPUS : ÔNUS DA DEFESA, A QUEM COMPETE APRESENTAR DOCUMENTAÇÃO APTA A COMPROVAR O CONSTRANGIMENTO ILEGAL ADUZIDO. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
+    Na inicial, alega-se o seguinte: (a) o paciente foi condenado à pena de 05 (cinco) anos, 08 (oito) meses e 22 (vinte e dois) dias de reclusão, em regime inicial fechado, como incurso no art. 33 da Lei 11.343/2006; (b) o paciente é primário; (c) de acordo com a quantidade da pena aplicada o regime inicial para o cumprimento da pena deve ser o semiaberto. Requer a concessão de medida liminar para declarar, de ofício, a nulidade da sentença condenatória e modificar o regime de cumprimento da pena.
+    2. No caso, o ato impugnado indeferiu liminarmente o pedido de habeas corpus em razão (a) da formação deficiente dos autos; e (b) incidência da supressão de instância, já que o Tribunal estadual não emitiu juízo sobre o tema invocado. Assim, como as matérias aqui suscitadas não foram apreciadas, tanto pelo STJ, quanto pelo Tribunal estadual, qualquer conclusão desta Corte a respeito implicaria dupla supressão de instância (v.g., RHC 93.304, 2ª T., Min. Joaquim Barbosa, Dje de 19/12/2008; HC 112.100/DF, 2ª T., Min. Cezar Peluso, Dje de 24/08/2012 e HC 113.490/RS, 1ª T., Min. Luiz Fux, Dje de 06/09/2012).
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 25 de abril de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
