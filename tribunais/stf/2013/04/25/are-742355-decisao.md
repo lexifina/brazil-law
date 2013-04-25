@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PETIÇÃO SUBSCRITA POR ADVOGADO SEM PROCURAÇÃO NO PROCESSO. RECURSO INEXISTENTE: NÃO CONHECIDO.
+Relatório
+          1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e Territórios:
+    “AGRAVO REGIMENTAL CONTRA DECISÃO QUE NEGA SEGUIMENTO A AGRAVO. RAZÕES DA DECISÃO OBJURGADA NÃO DESMERECIDAS. 1.Quando as razões apresentadas não se mostram suficientes para alterar o resultado apanhado pelo agravante, nega-se provimento ao seu agravo regimental. 2. Agravo improvido”.
+    2. O recurso extraordinário foi inadmitido sob o fundamento de irregularidade na representação processual da Agravante.
+    3. No agravo, a Agravante afirma que, “de acordo com o artigo 36 do Código de Processo Civil, a parte será representada em juízo por advogado legalmente habilitado. Nada impede, entretanto, que sem procuração possa intervir no processo para praticar atos reputados urgentes, com o escopo de evitar dano ao seu patrocinado, podendo juntar mandato, posteriormente, a fim de ratificar os atos praticados (art. 37 c/c o parágrafo único do CPC). Além disso, não prevê o art. 541 do CPC que a procuração seja requisito obrigatório para interposição do recurso extraordinário, como ocorre com o agravo em sua forma instrumental”.
+    Examinada a matéria trazida na espécie, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O Supremo Tribunal assentou ser ato inexistente o recurso extraordinário interposto por advogado sem procuração no processo e a inaplicabilidade do art. 13 do Código de Processo Civil na espécie:
+    “PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SUBSCRITO POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. RECURSO INEXISTENTE. I - A jurisprudência da Corte firmou-se no sentido de considerar inexistente o recurso interposto por advogado sem procuração nos autos e de que não se aplica a regra do art. 13 do CPC em sede extraordinária. II - Agravo regimental improvido” (AI 577.802-AgR, Rel. Min. Ricardo Lewandowski, Primeira Turma, Dje 31.10.2007).
+    “RECURSO - REPRESENTAÇÃO PROCESSUAL - REGULARIDADE - OPORTUNIDADE. Na hipótese de interposição de recurso, o pressuposto objetivo de recorribilidade, que é a regular representação processual, há de estar atendido no prazo assinado em lei para a própria interposição. Descabe aplicar, em tal fase, o disposto no artigo 13 do Código de Processo Civil, cuja incidência sempre pressupõe a fase de conhecimento” (AI 546.997-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJ 31.3.2006).
+    “PROCESSUAL CIVIL. REPRESENTAÇÃO PROCESSUAL: REGULARIDADE. INEXISTÊNCIA DE PROCURAÇÃO: NÃO CONHECIMENTO DO RECURSO. I. - Recurso interposto por advogado que não disponha, nos autos do processo, do necessário instrumento de mandato não pode ser conhecido. Inaplicabilidade, na fase recursal, do disposto no art. 13, CPC. II. - Precedentes do STF. III. - Agravo da União provido. Não conhecimento do agravo da empresa autora da demanda” (RE 281.287-ED-AgR-AgR, Relator o Ministro Carlos Velloso, Segunda Turma, DJ 4.4.2003).
+    “PROCESSUAL CIVIL. PETIÇÕES SUBSCRITAS POR ADVOGADO SEM PROCURAÇÃO NOS AUTOS. JUNTADA POSTERIOR. IMPOSSIBILIDADE. I. - Cabe ao agravante o dever de vigilância na formação do instrumento. Súmula 288-STF. II. - Impossibilidade de juntada de peça essencial na Corte. Precedentes. III. - Agravo não provido” (AI 518.385-AgR, Relator o Ministro Carlos Velloso, Segunda Turma, DJ 1º.4.2005).
+    “Recurso subscrito por advogada sem procuração nos autos. A regra geral que decorre do art. 37, caput, do CPC, expressa ser indispensável a presença, em autos de processo judicial, do instrumento de mandato outorgado pela parte ao advogado, sob pena de serem considerados inexistentes os atos praticados. 2. Agravo regimental não conhecido” (AI 625.581-AgR, Relatora a Ministra Ellen Gracie, Tribunal Pleno, DJ 13.4.2007).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, não conheço deste agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 25 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
