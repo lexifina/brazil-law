@@ -1,0 +1,2 @@
+Altera a Lei nº 9.797, de 6 de maio de 1999, que "dispõe sobre a obrigatoriedade da cirurgia plástica reparadora da mama pela rede de unidades integrantes do Sistema Único de Saúde - SUS nos casos de mutilação decorrentes de tratamento de câncer", para dispor sobre o momento da reconstrução mamária.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
