@@ -1,0 +1,17 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa, no que importa, segue transcrita:
+    “APELAÇÃO CÍVIL. PREVIDÊNCIA PÚBLICA. REVISÃO DE PENSÃO. VIÚVA PENSIONISTA DE EX-SERVIDOR FERROVIÁRIO DA EXTINTA RFFSA. PENSÃO INTEGRAL. O direito à integralidade de pensão, na forma do art. 40, § 5º, da CF, na sua redação original e § 7º do mesmo artigo, com redação dada pela EC nº 20/98, é matéria pacificada no Supremo Tribunal Federal e neste Tribunal.
+    OBSERVÂNCIA À QUOTA DE RESPONSABILIDADE DO IPERGS.
+    Cabe ao Instituto de Previdência do Estado do Rio Grande do Sul o pagamento da pensão à pensionista de forma integral ao que o extinto servidor ferroviário perceberia se vivo fosse, nos termos do artigo 40, §7º, inciso I da Constituição Federal, sobre a parcela do benefício de sua responsabilidade, em razão de termo de reversão firmado entre o Estado e a União. Artigo 189 da Lei Estadual nº. 2.061/53, combinado com os artigos 4º, alínea ‘b’, 15 parágrafo único e, 18, §4º, da Lei Estadual nº. 7.672/82, se fazendo desnecessário o abatimento ou a verificação dos valores recebidos do INSS – Instituto Nacional de Seguridade Social”. (fl. 159).
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se violação ao art. 40, §§ 2º e 7º, da mesma Carta.
+    A pretensão recursal não merece acolhida. O acórdão recorrido decidiu a questão posta nos autos da seguinte forma:
+    “O § 2º da cláusula 11 do Termo de Reversão dispôs que os encargos com a aposentadoria seriam divididos entre o Estado e a União proporcionalmente ao tempo de serviço prestado pelo servidor a cada um dos respectivos entes públicos.
+    Além disso, a Lei Estadual nº 2.061/53 conferiu ao servidor ferroviário aposentado o direito ao pagamento da diferença entre proventos alcançados pela instituição a qual estava vinculado e a remuneração total recebida na data de sua aposentadoria.
+    Por sua vez, a Lei Estadual nº 7.672/82, que trata do Instituto de Previdência do Estado do Rio Grande do Sul – IPERGS regulou a situação envolvendo os servidores ferroviários nos seguintes termos (…).
+    Na data da aposentadoria do servidor ferroviário, para fins de cálculo do seu benefício, foi realizado o rateio proporcional ao tempo de serviço prestado à VIFER e à RFFSA. Uma parcela ficou a cargo do Instituto Nacional do Seguro Social e outra, a cargo do Tesouro do Estado.
+    Após tal distribuição dos encargos, nos termos do artigo 189 da Lei Estadual nº. 2.061/53 restou garantido aos servidores ferroviários que a soma das parcelas de responsabilidade do INSS com a do IPERGS garantiria que o servidor inativo percebesse proventos em valor igual ao que estaria percebendo se estivesse em atividade.” (fls. 161v-162).
+    Nesse contexto, resta claro que para se chegar a conclusão contrária à adotada pelo Juízo de origem, necessário seria a interpretação da legislação infraconstitucional local aplicável à espécie (Leis Estaduais 2.061/53 e 7.672/82), o que inviabiliza o extraordinário a teor da Súmula 280 do STF. No mesmo sentido, AI 761.313/RS, Rel. Min. Gilmar Mendes, RE 477.092/RS, Rel. Min. Ellen Gracie, RE 493.895/RS, Rel. Min. Cezar Peluso e RE 574.191/RS, Rel. Min. Cármen Lúcia.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de abril de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
