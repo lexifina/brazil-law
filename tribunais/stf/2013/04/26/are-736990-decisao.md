@@ -1,0 +1,20 @@
+DECISÃO
+    Vistos.
+    Fundo Único de Previdência Social do Estado do Rio de Janeiro – RIOPREVIDÊNCIA interpõe recurso extraordinário assentado em contrariedade aos artigos 2º, 37, inciso X, 61, § 1º, inciso II, alínea “b”, 84, inciso II, 167 e 169 da Constituição Federal.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence , DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá quando não for o caso de inadmissibilidade do recurso por outra razão .
+    Não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte está consolidada no sentido de que a discussão acerca da natureza jurídica de gratificação concedida aos servidores em atividade, para fins de extensão aos inativos e pensionistas está restrita à interpretação da legislação local. Sobre o tema, destaca-se o seguinte julgado da relatoria do Ministro Cezar Peluso :
+    RECURSO. Extraordinário. Inadmissibilidade. Servidor público. Vencimentos. Proventos. Vantagem pecuniária. Gratificação devida aos funcionários em atividade. Extensão aos aposentados. Rediscussão do caráter geral sob fundamento de ofensa ao art. 40, § 8º, da CF. Impossibilidade. Questão infraconstitucional. Recurso não conhecido. Aplicação das súmulas 279, 280 e 636. Reconhecido ou negado pelo tribunal a quo o caráter geral de gratificação funcional ou de outra vantagem pecuniária, perante os termos da legislação local que a disciplina, não pode o Supremo, em recurso extraordinário, rever tal premissa para estender ou negar aquela aos servidores inativos com base no art. 40, § 8º, da Constituição da República (RE nº 586.949/MG, Segunda Turma, DJ de 13/3/09).
+    Anote-se, também:
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PRÊMIO DE PRODUTIVIDADE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL (SÚMULA 280). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI nº 657.696/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJ de 13/2/09).
+    SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO. INCORPORAÇÃO AOS PROVENTOS. NECESSIDADE DE EXAME DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, bem como o conjunto fático-probatório constante dos autos, o que inviabiliza o extraordinário, a teor das Súmulas 279 e 280 do STF. Precedentes. II - Agravo regimental improvido (AI nº 733.499/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski , DJ de 13/3/09).
+    GRATIFICAÇÃO PROVISÓRIA INSTITUÍDA PELA MP 1.587/1997 (CONVERTIDA NA LEI 9.651/1998). EXTENSÃO A SERVIDOR INATIVO. DISCUSSÃO SOBRE A NATUREZA JURÍDICA DA VANTAGEM. REEXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. IMPOSSIBILIDADE. Agravo regimental a que se nega provimento (RE nº 504.820/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 4/6/12).
+    Nesse sentido, em casos análogo aos dos autos, as recentíssimas decisões monocráticas: ARE n° 672.578/RJ, Relatora a Ministra Cármen Lúcia, DJe de 26/2/13; e RE n° 721.417/RJ, Relator o Ministro Ricardo Lewandowski , DJe de 1°/2/13.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 26 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
