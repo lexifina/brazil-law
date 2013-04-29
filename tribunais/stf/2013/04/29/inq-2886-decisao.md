@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    Instado a se manifestar (fl. 365), o Ministério Público Federal, pelo parecer da ilustre Subprocuradora-Geral da República Dra. Cláudia Sampaio Marques, aprovado pelo ilustre Procurador-Geral, Dr. Roberto Monteiro Gurgel Santos, assim se pronunciou:
+    “(...)
+    1. Trata-se de Inquérito instaurado para apurar a suposta prática do crime previsto no art. 38 da Lei n° 9.605/98 pelo Deputado Federal Odílio Balbinotti, devido à destruição de 15,8165 hectares de área de preservação permanente localizada na Fazenda ‘Cristo Rei’, no Município de Alto Garças/MT, de propriedade do Parlamentar, conforme Auto de Infração n° 119308 lavrado em 02.06.2009.
+    2. Os autos, baixados à Justiça Federal após o término do mandato do investigado, retornam ao Supremo Tribunal Federal diante de sua nova diplomação como Deputado Federal (fls. 363).
+    3. Das diligências já deferidas, verifica-se o cumprimento das seguintes: a) oitiva de Vanessa Pereira Bianchin (fls. 93/94), de Odílio Balbinotti (fls. 157/158) e de Odílio Balbinotti Filho (fls. 320/321); b) fornecimento de cópias da certidão do imóvel objeto de fiscalização (fls. 39/83), do contrato social da empresa Adriana Agrícola Ltda. e suas alterações (fls. 97/131) e do Processo n° 397162/2009 (fls. 269/294).
+    4. Encontram-se pendentes, contudo, a elaboração do laudo pericial necessário à confirmação do dano ambiental e o fornecimento de cópia do Processo n° 8573/2008, referente ao pedido de licença ambiental realizado pelo Parlamentar à Secretaria de Meio Ambiente do Estado de Mato Grosso. Além disso, considerando que a cópia do Processo n° 397162/2009 (referente ao Auto de Infração n° 119308) foi fornecida sem que houvesse decisão final naqueles autos, faz-se necessário obter informações atualizadas sobre o seu andamento.
+    5. Ante o exposto, o Ministério Público Federal requer que seja determinada a realização das seguintes diligências:
+    a) expedição de ofício à Polícia Federal para que informe se foi cumprido o despacho de fls. 30, no que concerne à elaboração de laudo pericial para a constatação do dano ambiental em área de preservação permanente na Fazenda "Cristo Rei";
+    b) expedição de ofício à Secretaria de Meio Ambiente do Estado de Mato Grosso para que forneça cópia do Processo n° 8573/2008 (pedido de licenciamento ambiental) e do Processo n° 397162/2009 (referente ao Auto de Infração n° 119308), este último a partir das fls. 40;
+    c) que seja determinado à Secretaria do Supremo Tribunal Federal o levantamento atualizado, junto aos órgãos competentes, da Folha de Antecedentes Criminais de Odílio Balbinotti” (fls. 368/369).
+    Examinado os autos, decido.
+    Acolho a manifestação ora apresentada, para deferir a realização das diligências mencionadas nos subitens “a” a “c” do item 5 do parecer, na seguinte forma:
+    a) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício à Polícia Federal para que informe se foi cumprido o despacho de fls. 30, no que concerne à elaboração de laudo pericial para a constatação do dano ambiental em área de preservação permanente na Fazenda "Cristo Rei", bem como para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    b) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício à Secretaria de Meio Ambiente do Estado de Mato Grosso para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça cópia do Processo n° 8573/2008 (pedido de licenciamento ambiental) e do Processo n° 397162/2009 (referente ao Auto de Infração n° 119308), este último a partir das fls. 40; e
+    c) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício à Secretaria da Segurança Pública do Estado de Mato Grosso para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    d) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício à Secretaria da Segurança Pública do Estado do Paraná para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    e) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício ao Tribunal de Justiça do Estado de Mato Grosso para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    f) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício ao Tribunal de Justiça do Estado do Paraná para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    g) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício ao Tribunal Regional Eleitoral do Estado do Paraná para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    h) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício ao Tribunal Regional Federal da 1ª Região para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti;
+    i) expedição, pela Secretaria do Supremo Tribunal Federal, de ofício ao Tribunal Regional Federal da 4ª Região para que, no prazo de 30 (trinta) dias a contar do recebimento do respectivo ofício, forneça a Folha de Antecedentes Criminais de Odílio Balbinotti.
+    Publique-se.
+    Brasília, 29 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
