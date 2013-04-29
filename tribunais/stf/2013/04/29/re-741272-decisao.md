@@ -1,0 +1,8 @@
+DECISÃO: O Supremo Tribunal Federal reconheceu a ausência de repercussão geral da questão tratada no presente recurso:
+    “EMENTA Juizado especial. Parágrafo 5º do art. 82 da Lei nº 9.099/95. Ausência de fundamentação. Artigo 93, inciso IX, da Constituição Federal. Não ocorrência. Possibilidade de o colégio recursal fazer remissão aos fundamentos adotados na sentença. Jurisprudência pacificada na Corte. Matéria com repercussão geral. Reafirmação da jurisprudência do Supremo Tribunal Federal.” (RE 635.729-RG, rel. Min. Dias Toffoli, DJe de 24.08.2011 – Tema 451)
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem dete rminar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”(AI 791.292-QO-RG, rel. Min. Gilmar Mendes, DJe de 13.08.2010 – Tema 339)
+    Do exposto, nos termos dos arts. 543-A, caput, e § 5º; 557, caput, do Código de Processo Civil e do art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 29 de abril de 2013.
+Ministro JOAQUIM BARBOSA
+Presidente
