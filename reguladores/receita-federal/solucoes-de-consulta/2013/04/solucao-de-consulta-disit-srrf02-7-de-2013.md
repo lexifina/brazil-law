@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF02 nº 7, de 12 de abril de 2013
+ASSUNTO: Imposto sobre a Renda Retido na Fonte – IRRF EMENTA: RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. COOPERATIVAS. REMUNERAÇÃO. VALORES FIXOS.
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+EMENTA: RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. COOPERATIVAS. REMUNERAÇÃO. VALORES FIXOS. Ressalvada a disciplina própria aplicável aos pagamentos efetuados por entidade da administração pública federal, as importâncias pagas ou creditadas por pessoas jurídicas de direito privado a cooperativa operadora de planos de assistência à saúde, quando relativas a contratos que estipulem valores de remuneração fixos, independentes da utilização dos serviços pelo contratante, não estão sujeitas à retenção na fonte do Imposto sobre a Renda.
+DISPOSITIVOS LEGAIS: Lei nº 8.541, de 1992, art. 45; Lei nº 9.430, de 1996, art. 64; Lei nº 10.833, de 2003, arts. 30, § 3º, e 34; Decreto nº 3.000, de 1999 (RIR/1999), arts. 647 e 652; IN RFB nº 1.234, de 2012, arts. 2º e 28; RN ANS nº 100, de 2005, Anexo II, item 11; e Parecer Normativo CST nº 8, de 1986.
