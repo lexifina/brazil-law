@@ -1,0 +1,37 @@
+CONSTITUCIONAL E ELEITORAL. PERDA DO CARGO ELETIVO E PROCESSO DE JUSTIFICAÇÃO DA DESFILIAÇÃO PARTIDÁRIA. RESOLUÇÕES 22.610/2007 E 22.733/2008 DO TRIBUNAL SUPERIOR ELEITORAL: CONSTITUCIONALIDADE. ADI 3.999/DF, REL. MIN. JOAQUIM BARBOSA, DJE DE 17/4/2009. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA INADMISSÍVEL.
+1. As Resoluções 22.610/2007 e 22.733/2008, do Tribunal Superior Eleitoral, são constitucionais, consoante o decidido na ADI 3.999/DF, Rel. Min. Joaquim Barbosa, Pleno, 12/11/2008, DJe de 17/4/2009.
+2. In casu, trata-se de writ impetrado no Tribunal Superior Eleitoral visando à inconstitucionalidade da Resolução TSE 22.610/2007 e consequente inaplicabilidade de seus termos aos Vereadores do Estado de Santa Catarina.
+3. Ausência de direito líquido e certo a ser amparado neste writ.
+4. Recurso ordinário em mandado de segurança inadmissível (art. 21, § 1º, do RI/STF).
+    Decisão: Trata-se de recurso ordinário em mandado de segurança, interposto pela União dos Vereadores do Estado de Santa Catarina - UVESC, contra acórdão proferido pelo Tribunal Superior Eleitoral, assim ementado, in verbis:
+    “Agravo regimental. Mandado de segurança. Res.-TSE nº 22.610/2007. Disciplina. Processo. Perda de mandato eletivo. Alegação. Ilegalidade. Improcedência. Precedente.
+    1. Conforme já decidido pelo Tribunal no Agravo Regimental no Mandado de Segurança nº 3.668, relator Ministro Arnaldo Versiani, de 20.11.2007, não há falar em ilegalidade da Res.-TSE nº 22.610/2007, que disciplinou os processos de perda de cargo eletivo, bem como de justificação de desfiliação partidária.
+    2. Esta Corte Superior, ao editar essa resolução, apenas deu cumprimento ao que decidiu o egrégio Supremo Tribunal Federal nos Mandados de Segurança nos 26.602, 26.603 e 26.604.
+    Agravo regimental a que se nega provimento” (fl. 78)
+    A recorrente sustenta, em síntese, ser inadequada a aplicação do contido no art. 36, § 6º, do RI/TSE, à espécie, visto que “não há qualquer súmula ou jurisprudência sobre o tema específico que aqui se discute” (fl. 111), vale dizer, a matéria objeto da Resolução TSE 22.610, no que concerne à competência originária dos TREs, à apresentação das testemunhas independentemente de intimação e à irrecorribilidade das decisões interlocutórias. Pede, ao final, o provimento do recurso para que seja dado seguimento ao writ.
+    Admitido o recurso, subiram os autos (fl. 114).
+    O Ministério Público Federal opinou, preliminarmente, pelo sobrestamento do feito até o julgamento definitivo da ADI 3.999/DF; no mérito, pelo provimento do recurso (fls. 128-131).
+    Tendo em vista transcurso de tempo, determinei, em 8/10/2012, que a recorrente informasse se ainda possuía interesse no julgamento do presente recurso em mandado de segurança, justificando-se, principalmente em face do acórdão proferido pelo Supremo Tribunal Federal na ADI 3.999/DF (fl. 147).
+    Todavia, transcorreu, in albis, o prazo para cumprimento da referida diligência (certidões, fls. 150 e 155).
+     É o relatório. Decido.
+    Ab initio, assevero que a ora recorrente, no presente mandado de segurança impetrado originariamente no Tribunal Superior Eleitoral em 3/3/2008, requereu “a inconstitucionalidade e, consequentemente, a inaplicabilidade aos Vereadores do Estado de Santa Catarina, dos artigos 2º, 7º e 11, da Resolução nº 22.610-DF (...)” (petição inicial, fl. 22).
+    Contudo, o Plenário do Supremo Tribunal Federal, em 12/11/2008, ao julgar a ADI 3.999/DF, Rel. Min. Joaquim Barbosa, DJe de 17/4/2009, decidiu pela constitucionalidade das Resoluções 22.610/2007 e 22.733/2008, do Tribunal Superior Eleitoral, mediante acórdão assim ementado, in verbis:
+    “EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. RESOLUÇÕES DO TRIBUNAL SUPERIOR ELEITORAL 22.610/2007 e 22.733/2008. DISCIPLINA DOS PROCEDIMENTOS DE JUSTIFICAÇÃO DA DESFILIAÇÃO PARTIDÁRIA E DA PERDA DO CARGO ELETIVO. FIDELIDADE PARTIDÁRIA.
+    1. Ação direta de inconstitucionalidade ajuizada contra as Resoluções 22.610/2007 e 22.733/2008, que disciplinam a perda do cargo eletivo e o processo de justificação da desfiliação partidária.
+    2. Síntese das violações constitucionais argüidas.
+    Alegada contrariedade do art. 2º da Resolução ao art. 121 da Constituição, que ao atribuir a competência para examinar os pedidos de perda de cargo eletivo por infidelidade partidária ao TSE e aos Tribunais Regionais Eleitorais, teria contrariado a reserva de lei complementar para definição das competências de Tribunais, Juízes e Juntas Eleitorais (art. 121 da Constituição).
+    Suposta usurpação de competência do Legislativo e do Executivo para dispor sobre matéria eleitoral (arts. 22, I, 48 e 84, IV da Constituição), em virtude de o art. 1º da Resolução disciplinar de maneira inovadora a perda do cargo eletivo.
+    Por estabelecer normas de caráter processual, como a forma da petição inicial e das provas (art. 3º), o prazo para a resposta e as conseqüências da revelia (art. 3º, caput e par. ún.), os requisitos e direitos da defesa (art. 5º), o julgamento antecipado da lide (art. 6º), a disciplina e o ônus da prova (art. 7º, caput e par. ún., art. 8º), a Resolução também teria violado a reserva prevista nos arts. 22, I, 48 e 84, IV da Constituição.
+    Ainda segundo os requerentes, o texto impugnado discrepa da orientação firmada pelo Supremo Tribunal Federal nos precedentes que inspiraram a Resolução, no que se refere à atribuição ao Ministério Público eleitoral e ao terceiro interessado para, ante a omissão do Partido Político, postular a perda do cargo eletivo (art. 1º, § 2º). Para eles, a criação de nova atribuição ao MP por resolução dissocia-se da necessária reserva de lei em sentido estrito (arts. 128, § 5º e 129, IX da Constituição). Por outro lado, o suplente não estaria autorizado a postular, em nome próprio, a aplicação da sanção que assegura a fidelidade partidária, uma vez que o mandato “pertenceria” ao Partido.)
+    Por fim, dizem os requerentes que o ato impugnado invadiu competência legislativa, violando o princípio da separação dos poderes (arts. 2º, 60, §4º, III da Constituição).
+    3. O Supremo Tribunal Federal, por ocasião do julgamento dos Mandados de Segurança 26.602, 26.603 e 26.604 reconheceu a existência do dever constitucional de observância do princípio da fidelidade partidária. Ressalva do entendimento então manifestado pelo ministro-relator.
+    4. Não faria sentido a Corte reconhecer a existência de um direito constitucional sem prever um instrumento para assegurá-lo.
+    5. As resoluções impugnadas surgem em contexto excepcional e transitório, tão-somente como mecanismos para salvaguardar a observância da fidelidade partidária enquanto o Poder Legislativo, órgão legitimado para resolver as tensões típicas da matéria, não se pronunciar.
+    6. São constitucionais as Resoluções 22.610/2007 e 22.733/2008 do Tribunal Superior Eleitoral.
+    Assim, diante do referido acórdão, não há falar em direito líquido e certo a ser amparado neste writ, tampouco na ausência de “qualquer súmula ou jurisprudência sobre o tema específico que aqui se discute”, como alega a recorrente. No mesmo sentido, recentemente: RMS 27.151/PR, Rel. Min. Rosa Weber, DJe de 4/4/2013.
+    Do exposto, nego seguimento ao presente recurso ordinário em mandado de segurança (art. 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 29 de abril de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
