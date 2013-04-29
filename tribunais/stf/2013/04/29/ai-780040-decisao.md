@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Francisco Flamarion Portela interpõe agravo de instrumento contra a decisão (fls. 455/456) que não admitiu recurso extraordinário, assentado em contrariedade aos arts. 5º, incisos XXXVI, LIII e LIV, 56, e 105, inciso I, “a”, todos da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão proferido pela Corte Especial do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL. AÇÃO PENAL. FORO POR PRERROGATIVA DE FUNÇÃO. GOVERNADOR DE ESTADO. DIPLOMA CASSADO PELO TRIBUNAL SUPERIOR ELEITORAL. AFASTAMENTO DO CARGO. ACÓRDÃO AINDA NÃO TRANSITADO EM JULGADO. REMESSA DOS AUTOS AO JUÍZO DE PRIMEIRO GRAU EM FACE DO JULGAMENTO DA ADIN Nº 2.797 DO STF.
+    1. Pretensão de manter a prerrogativa de foro até o trânsito em julgado da decisão tomada pelo TSE no Recurso Especial Eleitoral de nº 21.320, no qual se determinou a cassação do diploma do denunciado, ora agravante, por violação do disposto no art. 73, IV, da Lei 9.504/97.
+    2. A Corte Especial, no julgamento do AgRg na Ação Penal nº 322/RR, instaurada também contra o agravante, apreciou a questão aqui deduzida, proclamando que “a prerrogativa de foro não se aplica às autoridades ou mandatários que, por qualquer razão, deixaram o exercício do cargo ou do mandato.”
+    3. Diante do julgamento da Ação Direta de Inconstitucionalidade nº 2.797, pelo Plenário do Supremo Tribunal Federal, em 15/9/2005, no qual se declarou a inconstitucionalidade dos parágrafos 1º e 2º do art. 84 do Código de Processo Penal, introduzidos pela Lei nº 10.628/2002, bem como da circunstância de o denunciado Francisco Flamarion Portela não mais ser Governador do Estado de Roraima, o Superior Tribunal de Justiça não tem competência para o julgamento da presente ação penal.
+    4. Agravo improvido” (fl. 435).
+    O agravante, nas razões do extraordinário, alega que ”o Superior Tribunal de Justiça, decidindo a causa em única instância, negou a prerrogativa de foro do ora Recorrente, sem se pronunciar expressamente sobre aqueles dispositivos constitucionais, razão pela qual, caso se entenda não terem sido devidamente prequestionados, há de ser reconhecida a omissão daquela Corte e, assim, a violação do direito do Recorrente interpor Recurso Extraordinário (art. 102, III, “a”, da CF), para que esse Pretório Excelso aprecie a questão atinente à prerrogativa de foro e a vulneração do seu direito à prestação de tutela jurisdicional e ao devido processo legal, assegurados pelo Constituição Federal (XXXV e LIV, do art. 5º)” (fl. 463).
+    Examinados os autos, decido.
+    Conforme preconizado no bem lançado parecer da Procuradoria-Geral da República, “eventual juízo positivo de admissibilidade incidente sobre o recurso extraordinário seria inócuo, uma vez que, estando já extinto o mandato para o qual fora eleito o agravante, nenhum sentido haveria em manter-se o foro privilegiado por prerrogativa de função concedido, pela Constituição Federal, àqueles que ocupam o cargo de Governador de Estado” (fl. 487).
+    Diante desse quadro, forçoso concluir que a pretensão formulada no recurso encontra-se prejudicada, por perda superveniente de objeto. Anote-se que a jurisprudência deste Supremo Tribunal é assente no sentido de que, nos casos como o presente, há o prejuízo do recurso extraordinário ou do respectivo agravo de instrumento interpostos. Nesse sentido, as seguintes decisões monocráticas: AI nº 570.205/RS, Relator o Ministro Joaquim Barbosa, DJ de 16/508; AI nº 667.998/RJ, Relator o Ministro Gilmar Mendes, DJ de 25/4/08; e AI nº 627.834/SP, Relatora a Ministra Cármen Lúcia, DJ de 28/11/07, entre outras.
+    Ante o exposto, nos termos dos arts. 21, inciso IX, do RISTF, e 38 da Lei nº 8.038/90, julgo prejudicado o agravo de instrumento.
+    Publique-se.
+    Brasília, 29 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
