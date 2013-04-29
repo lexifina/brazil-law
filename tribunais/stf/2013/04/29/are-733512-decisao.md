@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. CÓDIGO DE DEFESA DO CONSUMIDOR. REVISÃO CONTRATUAL. IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Contratos bancários. Cheque especial e mútuo. Revisional. Revisão de consumo. Possibilidade de revisão de todo o período da relação contratual. Capitalização de juros e comissão de permanência afastadas. Juros remuneratórios livres para os bancos, incidentes de forma linear e nas taxas comunicadas ao consumidor, mas, como o Banco réu não juntou aos autos contratos pleiteados pelo autora na inicial, o que impediu a verificação das taxas de juros praticadas, só incidem juros remuneratórios equivalentes à taxa média de mercado publicada pelo BACEN. Eventual crédito apurado a favor da autora, será devolvido de forma simples e não em dobro, eis que não provada a má-fé do banco réu. Após o vencimento de cada saldo financiado e da dívida, só incidem correção monetária pela tabela prática deste Eg. Tribunal de Justiça, mais juros de mora de 1% ao mês e multa de 2%. Cálculo por arbitramento, com base nos parâmetros fixados neste Acórdão, com ônus jurídico e financeiro atribuído ao banco réu (art. 6º, VIII, do CDC). Ação parcialmente procedente. Apelo provido em parte, com determinação.”
+    2. O Agravante alega que teriam sido contrariados o art. 5º, inc. II e XXXVI, da Constituição da República.
+    Argumenta que “os contratos sub judice, livremente pactuados entre as partes, são atos jurídicos perfeitos e como tais devem ser fielmente obedecidos, dentro do sagrado princípio da ‘força obrigatória do contrato’.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de demonstração insuficiente, em preliminar, da existência de repercussão geral da questão constitucional, nos termos do § 2º do art. 543-A do Código de Processo Civil.
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Inicialmente, cumpre afastar o primeiro óbice imposto pela decisão agravada, pois a preliminar apresentada de repercussão geral da questão constitucional é suficiente para se ter por atendido esse requisito formal.
+    Todavia, a superação desse óbice não é suficiente para o acolhimento da pretensão do Agravante.
+    6. O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Código de Defesa do Consumidor) e do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E PROCESSUAL CIVIL. LEGITIMIDADE PARA A CAUSA E CESSÃO DE CRÉDITO. JULGADO RECORRIDO FUNDAMENTADO EM LEGISLAÇÃO INFRACONSTITUCIONAL, NAS PROVAS DOS AUTOS E NO CONTRATO FIRMADO. OFENSA CONSTITUCIONAL INDIRETA. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 704301-AgR, de minha relatoria, Segunda Turma, DJe 26.9.2012).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Não esgotamento de instâncias ordinárias. Enunciado 281 da Súmula do STF. 3. Revisão contratual. Matéria infraconstitucional. Incidência dos Enunciados 279 e 454 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento” (ARE 687.158-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 11.3.2013).
+    7. Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. I, do Código de Processo Civil, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 29 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
