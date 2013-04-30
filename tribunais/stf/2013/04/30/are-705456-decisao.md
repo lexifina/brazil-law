@@ -1,0 +1,22 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Primeira Seção Especializada do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “PREVIDENCIÁRIO. APOSENTADORIA. OPÇÃO PELO ABONO DE PERMANÊNCIA EM SERVIÇO. LEGISLAÇÃO POSTERIOR. TETO. LEI 7.787/89. DIREITO ADQUIRIDO. CÁLCULO DA RMI. EMBARGOS INFRINGENTES PARCIALMENTE PROVIDOS.
+    1. Autor que, podendo se aposentar, opta por permanecer em atividade, incentivado pelo recebimento do abono de permanência em serviço. Posterior Legislação (Lei 7.789/89) que institui o ‘teto’ de 20 salários mínimos para o salário de contribuição. O critério a ser utilizado no cálculo da RMI da aposentadoria é aquele em vigor à época em que foram reunidos os requisitos necessários à concessão da aposentadoria.
+    2 – Nos termos em que foi exposto o pedido, pretende o autor substituir a sua aposentadoria concedida em termos integrais, por outra, proporcional, sendo duvidoso o resultado benéfico de tal substituição. A sentença, indo além do pedido do autor, determinou a utilização do coeficiente de cálculo correspondente ao tempo de serviço completado por ocasião da aposentadoria. Provimento apenas parcial dos embargos infringentes, de modo a ser observado o coeficiente indicado pelo autor, na inicial, para recálculo de sua RMI, sob pena de caracterização de julgamento ‘ultra petita’.
+    3 – Embargos Infringentes parcialmente providos” (fl. 191).
+    Opostos embargos de declaração (fls. 196 a 200), foram acolhidos, para prestar esclarecimentos (fls. 205 a 215).
+    No recurso extraordinário (fls. 218 a 236), sustenta-se violação do artigo 5º, inciso XXXVI, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação, haja vista que o acórdão recorrido está em sintonia com a jurisprudência desta Corte, no sentido de que os segurados do Regime Geral de Previdência têm direito adquirido ao cálculo dos proventos segundo as regras vigentes à data da reunião dos requisitos para a concessão da aposentadoria, ainda que permaneçam em atividade. Sobre o tema, anote-se:
+    “PREVIDENCIÁRIO. PROVENTOS DA APOSENTADORIA CALCULADOS COM BASE NA LEGISLAÇÃO VIGENTE AO TEMPO DA REUNIÃO DOS REQUISITOS QUE, TODAVIA, FORAM CUMPRIDOS SOB O REGIME DA LEI ANTERIOR, EM QUE O BENEFÍCIO TINHA POR BASE VINTE SALÁRIOS DE CONTRIBUIÇÃO EM VEZ DE DEZ. ALEGADA OFENSA AO PRINCÍPIO DO DIREITO ADQUIRIDO. Hipótese a que também se revela aplicável -- e até com maior razão, em face de decorrer o direito de contribuições pagas ao longo de toda a vida laboral -- a Súmula 359, segundo a qual os proventos da inatividade se regulam pela lei vigente ao tempo em que reunidos os requisitos necessários à obtenção do benefício, não servindo de óbice à pretensão do segurado, obviamente, a circunstância de haver permanecido em atividade por mais alguns anos, nem o fato de a nova lei haver alterado o lapso de tempo de apuração dos salários de contribuição, se nada impede compreenda ele os vinte salários previstos na lei anterior. Recurso conhecido e provido” (RE nº 266.927/RS, Primeira Turma, Relator o Ministro Ilmar Galvão, DJ de 10/11/2000).
+    “Aposentadoria: proventos: direito adquirido aos proventos conformes à lei regente ao tempo da reunião dos requisitos da inatividade, ainda quando só requerida após a lei menos favorável (Súmula 359, revista): aplicabilidade a fortiori, à aposentadoria previdenciária” (RE nº 243.415/RS, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 11/2/2000).
+    No mesmo sentido, ainda, as seguintes decisões monocráticas: AI nº 829.911/RJ, Relator o Ministro Cezar Peluso, DJe de 6/8/12; RE nº 684.253/RS, Relatora a Ministra Cármen Lúcia, DJe de 5/6/12; e AI nº 748.940/SP, Relator o Ministro Luiz Fux, DJe de 6/6/12.
+    Diga-se, em arremate, que o Plenário desta Corte, que já havia reconhecido a repercussão geral de matéria semelhante a essa ora em discussão, apreciando o mérito da questão, em sessão realizada no dia 21/2/13, decidiu que há direito adquirido ao benefício mais vantajoso, desde quando preenchidos os requisitos mínimos para a aposentação (RE nº 630.501-RG/RS, redator para o acórdão o Ministro Marco Aurélio).
+    A decisão regional, por ajustar-se a tal orientação, deve ser mantida inalterada.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 30 de abril de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
