@@ -1,0 +1,26 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. LV, DA CONSTITUIÇÃO DA REPÚBLICA. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL – INCIDENTE DE FALSIDADE – AUTOS APARTADOS – INTEMPESTIVIDADE – DECISÃO DE EXTINÇÃO.
+    É intempestivo o incidente de falsidade de documentos quando já julgados os embargos à execução.
+    No art. 745 do Código de Processo Civil em vigor estão elencadas as matérias que podem ser alegadas em Embargos do Devedor.
+    O vício de nulidade do negócio jurídico por falsidade documental, por tratar-se de vício que inquina de nulidade absoluta o negócio jurídico, acaso comprovado, traduziria em nulidade do título executivo que aparelhou a execução”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante afirma que o Tribunal de origem teria contrariado o art. 5º, inc. LV, da Constituição da República.
+    Sustenta que “o Juízo de Primeira Instância e o Egrégio Tribunal de Justiça de Minas Gerais sequer deram oportunidade a Recorrente do seu direito/garantia legal e constitucional de produzir provas, tendo em vista que não se dignaram a determinar a realização de exames/laudos técnicos periciais – grafotécnicos das assinaturas falsas constantes dos documentos acostados aos autos, tomada de declarações de testemunhas, partes, informantes, e demais meios de prova admitidos pelo Direito”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (na espécie vertente, Código de Processo Civil), não viabiliza o recurso extraordinário, pois ofensa constitucional, se tivesse ocorrido, seria indireta. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 603.357-AgR, de minha relatoria, Primeira Turma, DJe 11.3.2010).
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 14 DA CF. SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMA INFRACONSTITUCIONAL. OFENSA INDIRETA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I Ausência de prequestionamento do art. 14 da CF. Os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão. Incidência das Súmulas 282 e 356 do STF. II - Esta Corte firmou orientação no sentido de ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada à ofensa aos princípios constitucionais do devido processo legal, da ampla defesa e do contraditório, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por configurar situação de ofensa reflexa ao texto constitucional. Precedentes. III É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de norma infraconstitucional que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria apenas indireta. IV - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF. V - Agravo regimental improvido” (RE 631.228-ED, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 21.3.2012, grifos nossos).
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
