@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF08 nº 66, de 14 de março de 2013
+Assunto: Contribuição para o PIS/Pasep PROGRAMA DE INCLUSÃO DIGITAL. ALÍQUOTA ZERO. VENDA A VAREJO. Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins PROGRAMA DE INCLUSÃO DIGITAL. ALÍQUOTA ZERO. VENDA A VAREJO.
+Assunto: Contribuição para o PIS/Pasep
+PROGRAMA DE INCLUSÃO DIGITAL. ALÍQUOTA ZERO. VENDA A VAREJO. Caracteriza venda a varejo, para os fins do art. 28 da Lei nº 11.196, de 2005, a operação comercial de venda de bens que atenda aos seguintes requisitos: (i) a venda seja realizada diretamente a consumidor final; e (ii) o adquirente não faça uso econômico/comercial do bem adquirido.
+Portanto, não faz jus à redução a 0 (zero) da alíquota da Contribuição para o PIS/Pasep de que trata o dispositivo mencionado a receita bruta auferida com a venda de modems para pessoa jurídica prestadora de serviço de telefonia e acesso à internet quando esses sejam utilizados na exploração de suas atividades comerciais.
+Dispositivos Legais: Lei nº 11.196, de 2005, art. 28, caput, inciso V, e §§ 1º e 2º; Decreto nº 5.906, de 2005, arts. 1º, inciso V e parágrafo único, e 2º, inciso V.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+PROGRAMA DE INCLUSÃO DIGITAL. ALÍQUOTA ZERO. VENDA A VAREJO. Caracteriza venda a varejo, para os fins do art. 28 da Lei nº 11.196, de 2005, a operação comercial de venda de bens que atenda aos seguintes requisitos: (i) a venda seja realizada diretamente a consumidor final; e (ii) o adquirente não faça uso econômico/comercial do bem adquirido.
+Portanto, não faz jus à redução a 0 (zero) da alíquota da Cofins de que trata o dispositivo mencionado a receita bruta auferida com a venda de modems para pessoa jurídica prestadora de serviço de telefonia e acesso à internet quando esses sejam utilizados na exploração de suas atividades comerciais.
+Dispositivos Legais: Lei nº 11.196, de 2005, art. 28, caput, inciso V, e §§ 1º e 2º; Decreto nº 5.906, de 2005, arts. 1º, inciso V e parágrafo único, e 2º, inciso V.
