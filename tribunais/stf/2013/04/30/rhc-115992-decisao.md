@@ -1,0 +1,56 @@
+DECISÃO: Trata-se de recurso ordinário em “habeas corpus” interposto contra decisão que, emanada do E. Superior Tribunal de Justiça, restou consubstanciada em acórdão assim ementado:
+    “PROCESSUAL PENAL. JULGAMENTO COLEGIADO. VOTOS DOS INTEGRANTES DO ÓRGÃO JULGADOR PROFERIDOS ORALMENTE. AUSÊNCIA DOS SEUS TEORES. NULIDADE DO ACÓRDÃO. OCORRÊNCIA.
+    1. A inexistência de serviço de taquigrafia no Tribunal não é motivo para que os votos dos integrantes do órgão colegiado não sejam juntados aos autos.
+    2. As manifestações dos Desembargadores, ou seja, seus votos, são parte integrante do acórdão e dele devem constar, ainda mais na espécie, onde foi decidido impedimento, suspeição e, no mérito, o relator ficou vencido, prevalecendo um voto divergente, pela denegação da ordem, no tocante à inépcia da denúncia.
+    3. Ainda que não se queira ou não se possa fazer a transcrição de tudo que é gravado na sessão de julgamento, que os votos sejam, então, registrados por escrito, para integrarem o acórdão.
+    4. Necessidade de que a defesa tenha conhecimento formal das razões que, afinal, na espécie, nortearam o julgamento do paciente.
+    5. Ordem concedida para anular o acórdão do Tribunal de Justiça do Estado do Tocantins, proferido no ‘habeas corpus’ nº 5.304, determinando que outro seja elaborado com o inteiro teor de todos os votos proferidos pelos integrantes do órgão julgador, na assentada de 24 de março de 2009, da Segunda Câmara Criminal.
+    6. Pedido de inépcia da denúncia e afastamento de Desembargadora por impedimento, julgados prejudicados por ora, até que o novo acórdão seja redigido.”
+    (HC 133.844/TO, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    A parte ora recorrente, para justificar a sua pretensão, apoia-se em 03 (três) fundamentos, que assim podem ser resumidos: (a) alegada inépcia da denúncia, por não descrever todas as circunstâncias do crime previsto no art. 171, “caput”, do CP; (b) suposta “impossibilidade de recuperação do acórdão a partir da gravação da sessão de julgamento, em razão de fato superveniente – afastamento de membros do órgão julgador – e, também, porque o ato jurisdicional não pode ser assinado por pessoa diversa do seu autor”; e (c) sustentada existência de impedimento de magistrada federal para julgar o “habeas corpus” impetrado perante o E. Tribunal de Justiça do Estado de Tocantins, eis que o fato imputado à recorrente teria ocorrido sob administração dessa mesma magistrada, que ocupava o cargo de Procuradora-Geral do Estado.
+    O Ministério Público Federal, em pronunciamento da lavra do ilustre Subprocurador-Geral da República, Dr. MARIO JOSÉ GISI, opinou, preliminarmente, pelo não conhecimento do presente recurso ordinário e, no mérito, pelo seu improvimento, em parecer cuja ementa bem resumiu a sua douta manifestação:
+    “RECURSO ORDINÁRIO CONSTITUCIONAL. ARESTO QUE, ACOLHENDO PRELIMINAR SUSCITADA PELA DEFESA, CONCEDE A ORDEM DE ‘HABEAS CORPUS’ EM ALCANCE MENOR QUE O PRETENDIDO, E DETERMINA A REFORMULAÇÃO DE ACÓRDÃO PROFERIDO POR TRIBUNAL LOCAL. MÉRITO NÃO APRECIADO. INADMISSIBILIDADE DO RECURSO ORDINÁRIO – ART. 102, II, A, CF/1988. PENAL. PROCESSUAL PENAL. ESTELIONATO – ART. 171, CP. NULIDADE. INÉPCIA DA DENÚNCIA. INICIAL QUE NARRA O CRIME EM TODOS OS SEUS ASPECTOS, VIABILIZANDO O PLENO EXERCÍCIO DA AMPLA DEFESA. EXTINÇÃO PREMATURA DA AÇÃO PENAL IMPOSSIBILITADA. COAÇÃO ILEGAL INEXISTENTE.
+    - Parecer pelo não conhecimento do recurso e, se conhecido, pelo seu improvimento.” (grifei)
+    O exame dos presentes autos revela ser processualmente inviável o recurso ordinário em questão, no que concerne à alegada inépcia da denúncia e à suposta configuração de impedimento de magistrada federal, pois a decisão ora impugnada sequer examinou os fundamentos em que se apoiam esses pleitos.
+    Inexiste, portanto, coincidência temática entre os fundamentos invocados no presente recurso ordinário em “habeas corpus” e aqueles que dão apoio à decisão objeto de impugnação nesta sede processual.
+    A circunstância que venho de mencionar (ocorrência de incoincidência temática) faz incidir, na espécie, em relação ao presente recurso, a jurisprudência desta Corte, que assim se tem pronunciado nos casos em que as razões invocadas na postulação não guardam pertinência com aquelas que dão suporte à decisão impugnada (RTJ 182/243-244, Rel. Min. SEPÚLVEDA PERTENCE – HC 73.390/RS, Rel. Min. CARLOS VELLOSO – HC 81.115/SP, Rel. Min. ILMAR GALVÃO, v.g.):
+    “IMPETRAÇÃO DE ‘HABEAS CORPUS’ COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR: HIPÓTESE DE INCOGNOSCIBILIDADE DO ‘WRIT’ CONSTITUCIONAL.
+    - Revela-se insuscetível de conhecimento, pelo Supremo Tribunal Federal, o remédio constitucional do ‘habeas corpus’, quando impetrado com suporte em fundamento que não foi apreciado pelo Tribunal apontado como coator.
+    Se se revelasse lícito ao impetrante agir ‘per saltum’, registrar-se-ia indevida supressão de instância, com evidente subversão de princípios básicos de ordem processual. Precedentes.”
+    (RTJ 192/233-234, Rel. Min. CELSO DE MELLO)
+    “Em ‘habeas corpus’ substitutivo de recurso ordinário, a inconformidade deve ser com o acórdão proferido pelo STJ e não contra o julgado do Tribunal de Justiça.
+    O STF só é competente para julgar ‘habeas corpus’ contra decisões provenientes de Tribunais Superiores.
+    Os temas objeto do ‘habeas corpus’ devem ter sido examinados pelo STJ.
+    .......................................................................................................
+    Caso contrário, caracterizaria supressão de instância.
+    ‘Habeas Corpus’ não conhecido.”
+    (HC 79.551/SP, Rel. Min. NELSON JOBIM – grifei)
+    Disso tudo resulta que os fundamentos que dão suporte ao presente recurso, para serem conhecidos pelo Supremo Tribunal Federal, precisam constituir objeto de prévio exame por parte do E. Superior Tribunal de Justiça, sob pena de configurar-se, como precedentemente já acentuado, inadmissível supressão de instância, consoante tem advertido o magistério jurisprudencial desta Suprema Corte:
+    “EXECUÇÃO PENAL. ‘HABEAS CORPUS’. PROGRESSÃO DE REGIME. CUMPRIMENTO DE UM SEXTO DA PENA. QUESTÃO NÃO APRECIADA PELO TRIBUNAL ‘A QUO’. SUPRESSÃO DE INSTÂNCIAS. PRECEDENTES. ‘WRIT’ NÃO CONHECIDO.
+    1. A presente impetração visa ao reconhecimento do direito do paciente em progredir de regime prisional em razão do cumprimento de um sexto da pena.
+    2. A questão suscitada pelo impetrante no presente ‘habeas corpus’ não foi sequer apreciada pelo Superior Tribunal de Justiça, já que não tinha sido submetida anteriormente ao crivo do Tribunal de Justiça do Rio de Janeiro.
+    3. Desse modo, o conhecimento da matéria, neste momento, pelo Supremo Tribunal Federal acarretaria inadmissível supressão de instâncias.
+    4. A jurisprudência dessa Suprema Corte é firme no sentido de que ‘não se conhece de ‘habeas corpus’ cujas questões não foram apreciadas pela decisão contra a qual é impetrado.’ (HC 93.904/RS, Rel. Min. Cezar Peluso, DJe 094).
+    5. ‘Writ’ não conhecido.”
+    (HC 97.761/RJ, Rel. Min. ELLEN GRACIE – grifei)
+    Impende destacar, de outro lado, que, também, se revela processualmente inviável o presente recurso ordinário, no ponto em que se pretende fazer prevalecer, no caso, o voto vencido no julgamento do “habeas corpus” impetrado perante o Tribunal local, em decorrência do “afastamento de membros do órgão julgador”.
+    É que, conforme se verifica da fundamentação do acórdão proferido, em sede de embargos de declaração opostos à decisão ora recorrida, não mais subsiste a situação versada nos presentes autos, valendo referir, de douto voto, a seguinte passagem:
+    “Com efeito, um dos pedidos do presente ‘habeas corpus’, ou seja, a anulação do acórdão, foi atendido, não sendo motivo para a presente via integrativa a existência de pretenso fato superveniente.
+    De outra parte, não vejo ocorrente a impossibilidade de ser cumprida a determinação do julgamento ora embargado, no sentido de que sejam apresentados os votos de cada integrante da sessão de julgamento, ocorrido em data passada.
+    O fato de os Desembargadores encontrarem-se afastados, não impede a execução do comando contido no acórdão desta Corte.
+    Além desse afastamento ser temporário, pois conforme afirma a própria embargante, tem vigência até dezembro de 2012, o que se determinou foi que os julgadores apresentem seus votos, formalizados (escritos), em relação a um acontecimento passado, em época, pois, que tinham jurisdição e que estavam no pleno exercício de suas funções.
+    Não se trata de realizar nova sessão de julgamento, até porque isso não foi determinado, mas é apenas e tão-somente para ser elaborado o competente acórdão, relativo a uma sessão de julgamento ocorrida no passado, possibilitando à defesa ter conhecimento, formal e legítimo, das razões de cada julgador, externadas à época.
+    Em realidade, a pretexto de fato superveniente, pretende a defesa modificar o julgamento, fazendo com que seja atendido um dos outros pedidos deduzidos neste ‘habeas corpus’ (trancamento da ação penal), em pretensão alternativa, mas que não foi acolhido, em face da proclamação da nulidade.”
+    (HC 133.844-ED/TO, Rel. Min. MARIA THEREZA DE ASSIS MOURA – grifei)
+    Esse dado informativo – afastamento temporário dos magistrados “até dezembro de 2012” – assume relevo processual, eis que faz instaurar, na espécie, situação de prejudicialidade, apta a gerar a extinção deste recurso ordinário em “habeas corpus”, em face da superveniente perda de seu objeto.
+    Enfatize-se, por oportuno, que esse entendimento encontra apoio na jurisprudência do Supremo Tribunal Federal (RTJ 132/1185, Rel. Min. OCTAVIO GALLOTTI – HC 55.437/ES, Rel. Min. MOREIRA ALVES – HC 58.903/MG, Rel. Min. CUNHA PEIXOTO – HC 64.424/RJ, Rel. Min. NÉRI DA SILVEIRA – HC 69.236/PR, Rel. Min. PAULO BROSSARD – HC 74.107/SP, Rel. Min. MAURÍCIO CORRÊA – HC 74.457/RN, Rel. Min. NÉRI DA SILVEIRA – HC 80.448/RN, Rel. Min. SEPÚLVEDA PERTENCE – HC 84.077/BA, Rel. Min. GILMAR MENDES – RHC 82.345/RJ, Rel. Min. MAURÍCIO CORRÊA, v.g.), cabendo destacar, dentre outras, as seguintes decisões que esta Corte proferiu a propósito do tema ora em exame:
+    “Superados os motivos de direito ou de fato que configuravam situação de injusto constrangimento à liberdade de locomoção física do paciente, e afastada, em conseqüência, a possibilidade de ofensa ao seu ‘status libertatis’, reputa-se prejudicado o ‘habeas corpus’ impetrado em seu favor.  Precedentes.”
+    (RTJ 141/502, Rel. Min. CELSO DE MELLO)
+    “- A superveniente modificação do quadro processual, resultante de inovação do estado de fato ou de direito ocorrida posteriormente à impetração do ‘habeas corpus’, faz instaurar situação configuradora de prejudicialidade (RTJ 141/502), justificando-se, em conseqüência, a extinção anômala do processo.”
+    (RHC 83.799-AgR/CE, Rel. Min. CELSO DE MELLO)
+    Sendo assim, tendo em vista a situação processual registrada nesta causa, não conheço do presente recurso ordinário em “habeas corpus”.
+    Devolvam-se, pois, ao E. Superior Tribunal de Justiça, os presentes autos.
+    Publique-se.
+    Brasília, 30 de abril de 2013.
+Ministro CELSO DE MELLO
+Relator
