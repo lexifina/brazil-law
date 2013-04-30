@@ -1,0 +1,31 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. VERBA HONORÁRIA. AÇÕES PREVIDENCIÁRIAS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 1ª Região:
+    “PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. CÁLCULO DA RMI. ATUALIZAÇÃO DOS SALÁRIOS DE CONTRIBUIÇÃO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO (DIB: 13/08/1981) E APOSENTADORIAS POR TEMPO DE SERVIÇO (DIB: 01/04/1983 E 01/08/1983). CONCESSÕES ANTERIORES À VIGÊNCIA DA CONSTITUIÇÃO FEDERAL DE 1988 E DURANTE A VIGÊNCIA DA LEI N. 6.423/1977. CORREÇÃO DOS 24 SALÁRIOS DE CONTRIBUIÇÃO ANTERIORES AOS 12 ÚLTIMOS. POSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 111 DO STJ. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+    1. No caso de aposentadorias por tempo de contribuição e de serviço concedidas antes da promulgação da Constituição Federal de 1988 e na vigência da Lei n. 6.423/1977, a renda mensal inicial deve ser calculada com base na variação dos 24 (vinte e quatro) salários-de-contribuição anteriores aos 12 (doze) últimos, corrigidos pela variação dos índices ORTN/OTN/BTN. Precedentes do eg. STJ e desta col. Corte Federal.
+    2. Os honorários de advogado, no percentual de 10% (dez por cento) sobre o valor da condenação, devem incidir somente sobre as parcelas vencidas até o momento da prolação da sentença, de acordo com a Súmula n. 111 do Superior Tribunal de Justiça e artigo 20, § 3º, do CPC.
+    3. A correção monetária incide sobre o débito previdenciário, a partir do vencimento de cada prestação, nos termos da Lei n. 6.899, de 8 de abril de 1.981, conforme Manual de Orientação de Procedimentos para os cálculos na Justiça Federal.
+    4. Os juros de mora de 1% ao mês devem ser contados da citação, no tocante às prestações a ela anteriores e, da data do vencimento, para as posteriores. Orientação da Primeira Seção e do STJ.
+    5. Apelação dos autores a que se nega provimento. Apelação do INSS e remessa oficial parcialmente providas, nos termos dos itens 3 e 4” (fls. 157-162).
+    Os embargos de declaração opostos foram rejeitados (fl. 186).
+    2. Os Agravantes afirmam que o Tribunal de origem teria contrariado os arts. 7º, inc. V, e 133 da Constituição da República.
+    Pretendem “a condenação do recorrido a pagar encargos de sucumbência, com fixação da verba honorária nos limites do § 3º do artigo 20 do CPC. Em primeiro grau de jurisdição, a r. sentença a fixou em 10% sobre o valor da condenação, limitando-se até a prolação da r. sentença. Referida decisão foi confirmada pelo TRF da 1ª Região. Fê-lo com base na súmula n. 111 do STJ” (fl. 196).
+     Alegam que “violados foram os ditames do artigo 133 c/c inciso V do artigo 7º da CF/88, em especial, o segundo, que impõe ao julgador fixar a verba honorária proporcionalmente à extensão e à complexidade do trabalho, o que inocorreu na espécie” (fl. 200).
+    Sustentam que a “súmula do STJ não tem fito vinculante. Acresça-se que, como demonstrado, existem normas que regulam à espécie, não podendo ser aplicada à jurisprudência ao arrepio das normas legais” (fl. 200).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 279 do Supremo Tribunal Federal (fl. 214).
+    Examinados os elementos havidos nos autos, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo de instrumento, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. Concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Processo Civil). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS: INCIDÊNCIA SOBRE AS PARCELAS VENCIDAS ATÉ A PROLAÇÃO DA SENTENÇA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 673.503-AgR/SP, de minha relatoria, Primeira Turma, DJe 23.10.2009).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PROCESSO CIVIL. SÚMULA 111 DO SUPERIOR TRIBUNAL DE JUSTIÇA. DECLARAÇÃO DE INCONSTITUCIONALIDADE. 1. Controvérsia envolvendo a Súmula 111/STJ (Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença) não transborda os limites do âmbito infraconstitucional. Precedentes. 2. O Plenário do Supremo Tribunal Federal, no julgamento da ADI 923-AgR, da relatoria do ministro Sydney Sanches, decidiu ser incabível a declaração de inconstitucionalidade de súmula de jurisprudência dominante por não se tratar de ato normativo. 3. Agravo regimental desprovido” (RE 584.188-AgR/SP, Relator o Ministro Ayres Britto, Segunda Turma, DJe 3.12.2010).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. HONORÁRIOS ADVOCATÍCIOS. AÇÕES PREVIDENCIÁRIAS. BASE DE CÁLCULO. PRESTAÇÕES VENCIDAS ATÉ A SENTENÇA. ENUNCIADO 111 DA SÚMULA/STJ. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE PRESSUPOSTOS FÁTICOS. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI 816.662-AgR/MG, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 7.12.2010).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de abril de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
