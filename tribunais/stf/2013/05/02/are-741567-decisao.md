@@ -1,0 +1,33 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. ADICIONAL DE PERICULOSIDADE. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Quarta Câmara Cível do Tribunal de Justiça do Rio Grande do Sul decidiu:
+    “APELAÇÃO CÍVEL. AGRAVO RETIDO. DESPROVIMENTO. SERVIDOR PÚBLICO. PROFESSOR. CONTRATO TEMPORÁRIO. ADICIONAL DE PERICULOSIDADE. LAUDO PERICIAL. AUSÊNCIA DE PREVISÃO LEGAL. Desnecessidade de perícia judicial, considerando que há perícia administrativa nos autos, feita no local de trabalho da parte autora. Agravo retido desprovido. O adicional de periculosidade está previsto no artigo 7º, XXIII, da Constituição Federal, sendo que a determinação, contudo, por força do disposto no artigo 39, § 3º, da Constituição Federal, não é diretamente aplicável aos servidores públicos, dependendo de regulamentação pelo Poder Executivo do ente federativo em que inserida a realidade sob análise, competindo ao ente público, na espécie, dispor acerca do regime de trabalho e remuneração dos seus servidores, pois a matéria é de interesse próprio. A matéria a respeito da periculosidade foi tratada na Lei Complementar n. 10.098/94, sendo que o direito ao pretendido adicional não encontra amparo em laudo pericial administrativo uma vez não enquadra a atividade desenvolvida pelo autor como perigosa. RECURSOS DESPROVIDOS” (fl. 114).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal.
+    4. O Agravante argumenta que “estão presentes os requisitos de admissibilidade de interposição do recurso extraordinário” (fl. 155).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado os arts. 7º, inc. XXIII, e 39, § 3º, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Desembargador Relator no Tribunal de Justiça do Rio Grande do Sul observou:
+    “Quanto ao agravo retido nos autos interposto contra a decisão que indeferiu a produção de prova pericial, entendo que desnecessária a referida prova, considerando que há perícia administrativa nos autos, feita no local de trabalho da parte autora sobre a qual se fundamentou a douta sentença recorrida. E o sistema de valoração probatória adotado pela legislação processual brasileira é o do livre convencimento motivado, nos termos do art. 131 do CPC, que estabelece inexistir limitação quanto aos meios de prova de que o magistrado se possa valer, nem restrições especiais quanto à origem ou qualidade de certas provas.
+    (...)
+    Nego provimento, portanto, ao agravo retido.
+    No mérito, a Administração Pública está adstrita ao princípio da legalidade e, portanto, somente pode fazer aquilo que a lei determina.
+    (...)
+    Aduzo que a parte autora exerce a função pública de Professor na Escola Técnica Estadual Parobé, ministrando o curso técnico de eletrônica desde a data de 09.04.2002, mediante contrato temporário.
+    No presente caso, foi realizada perícia administrativa referida na Informação n. 0431/2008/DISAT, que concluiu que, face à natureza das atribuições e o efetivo exercício das mesmas, o caso dos autos não encontra amparo nas Portarias Ministeriais n. 3.214/78 e 12/79, conforme Decreto n. 93.412, de 14 de outubro de 1986. Portanto, às atividades desempenhadas pelo requerente, na Escola Técnica Estadual Parobé, inexiste periculosidade.
+    A parte autora, ainda em sede administrativa, requereu a revisão das conclusões exaradas pelo Departamento de Perícia Médica e Saúde do Trabalhador, pela sua Divisão de Saúde do Trabalhador (fl. 24), a qual foi indeferida, nos seguintes termos: (...).
+    Destaco que os itens 3 e 5 citados na resposta ao pedido administrativo de revisão referem-se ao Anexo ao Decreto n. 93.412/1986, que define o Quadro de Atividades/Área de Risco para o efeito da concessão da gratificação por atividades periculosas, sendo que a parte autora ministra aulas em estabelecimento escolar, em laboratório da instituição de ensino sem qualquer correlação com aqueles ambientes propensos à exposição aos riscos ensejadores do postulado adicional.
+    Do exposto, não há dúvida de que a parte autora não tem direito ao adicional previsto no artigo 107, § 1º, da Lei Complementar n. 10.098/1994” (fls. 115-117 – grifos nossos).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria do reexame de provas, o que não pode ser adotado em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal Federal.
+    O novo exame do julgado impugnado exigiria, ainda, a análise prévia de legislação infraconstitucional e de normas infralegais aplicadas à espécie (Código de Processo Civil, Decreto n. 93.412/1986, Lei Complementar estadual n. 10.098/1994 e Portarias n. 3.214/1978 e 12/1979 do Ministério do Trabalho e Emprego). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ADICIONAL DE PERICULOSIDADE. SERVIDOR PÚBLICO. PAGAMENTO DE VALORES EM ATRASO. 1. Insuficiência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário. 2. Reexame de fatos e provas. Súmula n. 279 do Supremo Tribunal Federal. 3. Análise de matéria infraconstitucional. Ofensa constitucional indireta. 4. Agravo regimental ao qual se nega provimento” (ARE 715.601, de minha relatoria, Segunda Turma, DJe 13.11.2012).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
