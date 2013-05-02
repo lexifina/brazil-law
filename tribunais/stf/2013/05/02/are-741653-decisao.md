@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. TÉCNICO JUDICIÁRIO DE REFERÊNCIA PJ-III. AUSÊNCIA DE DIREITO A REENQUADRAMENTO NO CARGO DE TÉCNICO JUDICIÁRIO DE PLENÁRIO SÍMBOLO PJ-IV. INEXISTÊNCIA DE AFRONTA AO PRINCÍPIO DA ISONOMIA.
+    1. A Lei 12.850/06, ao promover o reenquadramento dos Técnicos Judiciários de Plenário, criou a possibilidade de estabelecer remuneração diferenciada para o referido cargo, dado à discrepância de atribuições.
+    2. A análise dos requisitos indicados na referida Lei 12.850/06, demandaria a necessidade de instrução probatória, o que não é compatível com a estreita via do mandamus.
+    3. Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia. Entendimento consubstanciado na Súmula n° 339 do STF.
+    4. Agravo regimental não provido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, I, 37, II, e 39, § 1º, da mesma Carta.
+    A pretensão recursal não merece acolhida. O Tribunal a quo decidiu a questão referente ao reenquadramento do servidor com base na interpretação das provas dos autos e na legislação infraconstitucional local (Leis 12.850/2006). Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF, bem como, seria imprescindível a análise de normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ESTABILIDADE FINANCEIRA. MATÉRIA INFRACONSTITUCIONAL. SIMILITUDE DE ATRIBUIÇÕES ENTRE CARGOS. REEXAME DE PROVA. 1. O deslinde da controvérsia --- se a função antes exercida pelo impetrante e o novo cargo criado apresentam atribuições similares --- implica o reexame das provas carreadas aos autos, o que desafia o teor da Súmula 279 deste Tribunal. 2. Outrossim, o entendimento assentado na segunda instância decorre da interpretação do disposto na Lei estadual n. 6.745/85, na Lei Complementar estadual n. 43/92 e na Resolução n. 40/92 da Assembléia Legislativa. Para dissentir do aresto impugnado e acolher as razões do agravante, é imprescindível o exame prévio da legislação ordinária aplicável à espécie, o que encontra óbice na Súmula 280 desta Corte. Agravo regimental a que se nega provimento” (RE 716.223-AgR/SC, Rel. Min. Eros Grau).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 2 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
