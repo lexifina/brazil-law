@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1353, de 30 de abril de 2013
+Institui a Escrituração Fiscal Digital do Imposto sobre a Renda e da Contribuição Social sobre o Lucro Líquido da Pessoa Jurídica (EFD-IRPJ).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Lei nº 6.404, de 15 de dezembro de 1976, nos §§ 2º e 3º do art. 8º do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e nos arts. 15 a 17 e 24 da Lei nº 11.941, de 27 de maio de 2009, resolve:
