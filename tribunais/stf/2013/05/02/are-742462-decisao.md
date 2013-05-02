@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “PROVA - Cerceamento de defesa - Pretensão dos autores à realização de prova pericial e testemunhal - Desnecessidade - Hipótese em que a prova documental constante dos autos permitiu ao magistrado a compreensão da questão em todos os seus contornos - Preliminar rejeitada - Redução dos honorários advocatícios determinada - Recurso parcialmente provido.
+    HONORÁRIOS DE ADVOGADO - Ação de indenização por danos morais - Improcedência da ação, com fixação de honorários advocatícios em 10% sobre o valor da causa - Inadmissibilidade - Remuneração extraordinária incompatível com o trabalho realizado - Redução dos honorários para R$ 3.000,00 de acordo com os parâmetros do art. 20, § 4º do CPC - Recurso parcialmente provido” (grifos nossos).
+    2. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado os arts. 7º, incs. VI, VII e X, e 100, § 1º, da Constituição da República.
+    Argumenta que “o v. Acórdão merece ser reformado em todos os seus termos, para reconhecer a necessidade de manutenção do percentual fixado em 1ª Instância, a título de honorários advocatícios, qual seja, 10% do valor atribuído à causa, com o estrito atendimento à legislação aplicável, resguardada pela CF”.
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob o fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5 . Razão jurídica não assiste ao Agravante.
+    6. Quanto à alegação de contrariedade ao arts. 7º, incs. VI, VII e X, e 100, § 1º, da Constituição da República, verifica-se não terem sido os dispositivos objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Ademais, concluir de forma diversa do que decidido pelas instâncias originárias demandaria a análise prévia da legislação infraconstitucional aplicável à espécie (Código de Processo Civil) e o reexame do conjunto fático-probatório do processo. Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ALEGAÇÃO DE AFRONTA À COISA JULGADA. NECESSIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 794.606-AgR, de minha relatoria, Segunda Turma, DJe 15.10.2012, grifos nossos).
+    “Agravo regimental em agravo de instrumento. 2. Processual Civil. Critérios de fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado 636 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento” (AI 825.319-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, Dje 15.10.2012, grifos nossos).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 2 de maio de 2013.
+ Ministra CÁRMEN LÚCIA
+Relatora
