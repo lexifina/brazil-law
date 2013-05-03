@@ -1,0 +1,28 @@
+Decisão: Trata-se agravo de instrumento remetido ao Tribunal de Justiça do Estado de Santa Catarina (TJSC), por meio de decisão de 22.2.2011, que não conheceu do recurso contra a aplicação, pelo Tribunal a quo, do disposto no art. 543-B do Código de Processo Civil, e determinou a devolução dos autos à Corte de origem para que o feito fosse processado como agravo regimental.
+    Encaminhados os autos ao Tribunal de origem, este determinou a devolução do processo ao STF, tendo em vista que “o agravante se conformou com a questão objeto do representativo da controvérsia e o reclamo não questiona a aplicação do paradigma citado, tratando apenas de outras teses recursais remanescentes” (fl. 679).
+    O recurso extraordinário, interposto por Sudameris Arrendamento Mercantil S.A., impugna acórdão assim ementado:
+    “APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA – ANULAÇÃO DE NOTIFICAÇÃO FISCAL – TRIBUTÁRIO – ISS SOBRE ARRENDAMENTO MERCANTIL.
+    ISS – OPERAÇÕES DE LEASING – INCIDÊNCIA – REFORMA DA SENTENÇA QUE HAVIA JULGADO PROCEDENTE O PEDIDO POR ESSE FUNDAMENTO.
+    ‘O ISS incide na operação de arrendamento mercantil de coisas móveis.’ (Súmula n. 18 do TJSC)
+    APRECIAÇÃO DOS DEMAIS FUNDAMENTOS DO PEDIDO – ART. 515, § 2º, DO CPC.
+    COMPETÊNCIA PARA A EXIGÊNCIA DO TRIBUTO – MUNICÍPIO ONDE HOUVE A EFETIVA PRESTAÇÃO DO SERVIÇO.
+    ‘O ISS incidente sobre os contratos de arrendamento mercantil é devido ao Município onde ocorreu e efetiva prestação do serviço, e não ao ente municipal onde está localizada a sede da empresa contribuinte.’ (AC n. 2006.046695-2, de Blumenau, Rel. Des. Rui Fortes, j. Em 7.5.2008)
+    DECADÊNCIA – TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO – INÉRCIA DO CONTRIBUINTE – LANÇAMENTO DE OFÍCIO – ART. 173, I, DO CTN – PROCEDÊNCIA PARCIAL DO PEDIDO NESSA PARTE.
+    ‘É de cinco anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado ao da data em que se tornar definitiva a decisão que houver anulado, por vício formal, o lançamento anteriormente efetuado, o prazo de decadência para que, de ofício, a autoridade fiscal constituía o crédito tributário não declarado pelo contribuinte por autolançamento (CTN, art. 173).’ (AC n. 2006.010836-6, de Içara, Rel. Des. Jaime Ramos, j. Em 28.2.2008)
+    MULTA FISCAL – 100% DO VALOR DO TRIBUTO – NÃO INCIDÊNCIA DA VEDAÇÃO DA UTILIZAÇÃO DO TRIBUTO COM EFEITOS DE CONFISCO – EXCESSO OU DESPROPORÇÃO – NÃO OCORRÊNCIA.
+    ‘A multa moratória fixada no percentual de 500% sobre o valor do crédito atualizado, embora não viole o disposto no art. 150, inciso IV, da CF/88, que veda a instituição de tributo com efeito de confisco, porque de tributo não se trata, mostra-se excessiva e, por isso, deve ser reduzida para 100% do valor do imposto, tanto com fundamento nos princípios da razoabilidade e da proporcionalidade, como pela analogia com o art. 412 do Código Civil de 2002 (similar ao art. 920 do Código Civil de 1916), segundo o qual ‘o valor da cominação imposta na cláusula penal não pode exceder o valor da obrigação principal’.’ (AC n. 2007.054238-9, de Brusque, rel. Des. Jaime Ramos, j. 21.2.2008)
+    REFORMA DA SENTENÇA – REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO PARCIALMENTE PROVIDOS – ORDEM CONCEDIDAEM PARTE PARA RECONHECER A DECADÊNCIA DE PARTE DOS CRÉDITOS TRIBUTÁRIOS – SUCUMBÊNCIA RECÍPROCA – CPC, ART. 21”. (fls. 22-23)
+    No recurso extraordinário, a recorrente alega, em síntese, que o aresto recorrido viola o art. 156, III, da Constituição, pois seria incabível a incidência de ISS sobre as operações de arrendamento mercantil e por não ser o agravado competente para arrecadar o imposto. Sustenta, ainda, que há violação aos arts. 5º, caput, e 150, IV, da Carta da República, pois a multa moratória aplicada, de 100% do valor do tributo, teria efeito confiscatório.
+    A decisão do TJSC que não admitiu o recurso extraordinário aplicou à hipótese o entendimento fixado pelo Supremo Tribunal Federal no julgamento do tema 125 da sistemática da repercussão geral, cujo processo-paradigma é o RE-RG 592.905, Rel. Min. Eros Grau, no que diz respeito à incidência de ISS sobre as operações de arrendamento mercantil.
+    Entretanto, conforme bem atestado pela decisão de fls. 678-680, a decisão de inadmissibilidade não examinou as teses ventiladas pelo recorrente quanto à competência para arrecadar o imposto e ao caráter confiscatório da multa aplicada.
+    Na referida decisão, tendo em vista que a repercussão geral questão relativa à competência para arrecadar o ISS já fora afastada pelo STF no AI-RG 790.283, de minha relatoria, o TJSC aplicou ao recurso o disposto no art. 328-A, § 1º do CPC.
+    No tocante à alegação de que a multa moratória aplicada teria caráter confiscatório, o Tribunal a quo determinou o retorno do recurso a esta Corte.
+    Decido.
+    Da leitura do acórdão recorrido, verifico que a multa moratória aplicada, no caso, é de 100% do valor do tributo. A hipótese, portanto, é diversa da examinada pelo STF no RE-RG 582.461, Rel. Min. Cezar Peluso, DJe 5.2.2010, em que se discutia, sob a sistemática da repercussão geral, a natureza da multa moratória fixada em 20% do valor do tributo.
+    Assim, tendo em vista o regular preenchimento dos pressupostos de admissibilidade, reconsidero a decisão de fl. 674 e dou provimento ao agravo para determinar a subida do recurso extraordinário.
+    Encaminhe-se cópia desta decisão à Corte de origem, para juntada aos autos principais ainda antes da remessa ao Supremo Tribunal Federal.
+    Publique-se. Int..
+    Brasília, 3 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
