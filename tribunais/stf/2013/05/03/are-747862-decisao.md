@@ -1,0 +1,17 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal Regional Federal da 4ª Região que, em mandado de segurança, manteve entendimento firmado em sentença, no sentido de que, em face da existência de indícios de infração punível com pena de perdimento – no caso, “de que operações relacionadas com o comércio exterior em nome da autora foram feitas por interposta pessoa” (vol. 13) –, é legítima a retenção da mercadoria.
+    Os embargos de declaração foram parcialmente acolhidos (vol. 19).
+    No recurso extraordinário, a recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos seguintes dispositivos da Constituição Federal: (a) art. 5º, LV, asseverando, em suma, que o ato administrativo que determinou a retenção dos bens carece de motivação fática, razão pela qual deve ser considerado nulo, uma vez que impede o administrado de exercer seu direito de defesa; e (b) artigos 5º, LIV, e 170, caput e parágrafo único, porquanto, tendo em vista a irregularidade da retenção das mercadorias, a recorrente foi privada de maneira ilícita de seus bens e, consequentemente, impedida de exercer suas atividades econômicas.
+    2. O Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e aplicação das normas infraconstitucionais pertinentes (Lei 10.637/2002, Decreto-Lei 1.455/1976, Medida Provisória 2.158/2001 e Instruções Normativas/SRF 206/2002 e 228/2002). É incabível a apreciação, em sede de recurso extraordinário, de ofensa a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa.
+    3. Ademais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, .DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    4. Por fim, a recorrente afirma que, “no caso em tela, não existe nas intimações motivação fática que autorize a instauração de procedimento especial de fiscalização conjugado com a retenção das mercadorias” (vol. 21, fl. 11). Todavia, o acórdão recorrido asseverou o seguinte:
+    A autoridade impetrada ofereceu indícios consistentes das alegações contidas no ato administrativo, como se vislumbra do exame do Auto de Infração e Termo de Apreensão e Guarda Fiscal.
+    (…)
+    Com efeito, restando comprovada na esfera administrativa, através de processo administrativo regular, a intervenção fraudulenta de terceiras pessoas, correta a sentença que denegou a segurança. (vol. 11, fl. 3).
+    Assim, refutar essas afirmações demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a súmula 279 do STF.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 03 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
