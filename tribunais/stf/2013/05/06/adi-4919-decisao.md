@@ -1,0 +1,9 @@
+Decisão: Por meio da Petição 14.077, de 28/03/2013, a Confederação Nacional dos Municípios (CNM) postula a sua habilitação como “amicus curiae”, nos seguintes termos, verbis: “nos autos da Ação Direta de Inconstitucionalidade n° 4917, buscando elucidar pontos relevantes e a preservação do interesse público, a fim de contribuir para o melhor julgamento da demanda, em especial na matéria fática que repercute sobre os municípios, manifestando-se acerca das questões de fato e de direito a seguir expostas”.
+    A mencionada petição alude, portanto a número equivocado – vez que a presente Ação Direta de Inconstitucionalidade é a de número 4.919/RR (em que se impugna a Emenda Constitucional 24/2010, do Estado de Roraima), e não a ADI 4.917/DF, de relatoria da Ministra Cármen Lúcia (a qual apresenta como objeto a Lei Federal 12.734/2012).
+    Não bastasse a imprecisa indicação do número dos autos, da leitura das razões fáticas e jurídicas apresentadas pela Confederação requerente, denota-se que, a rigor, tais considerações dirigem-se à configuração do interesse da CMN em participar, na condição de “amicus curiae”, na discussão de matéria manifestamente diversa da versada nestes autos, a saber: “redistribuição dos royalties aos estados e municípios”. Em consulta processual no portal do Supremo Tribunal Federal, é possível constatar, ademais, que a CMN formulou pedido, com idêntico conteúdo, nos autos da ADI 4.919/DF (por meio da Petição 14.073, de 28/03/2013).
+    Ante o exposto, diante da ausência de alegações específicas quanto ao interesse da requerente nos autos da ADI 4.917/RR, indefiro o pedido de ingresso nos termos do art. 7°, § 2° da Lei 9.868/1999.
+    Publique-se. Intime-se.
+    Brasília, 06 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
