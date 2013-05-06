@@ -1,0 +1,14 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Leonardo Leandro Silva contra decisão do Ministro Campos Marques (Desembargador convocado do TJ/PR), do Superior Tribunal de Justiça, que indeferiu liminarmente o HC 268.112/SP, em face do óbice constante da Súmula 691/STF. Eis o teor da decisão:
+    Além de o paciente ter sido preso com "um saquinho tendo em seu interior 31 (trinta e um) invólucros plásticos, contendo substância semelhante a maconha " (fl. 15-STJ), o que revela sua periculosidade concreta, em face da quantidade, como referido, o Tribunal de Justiça de São Paulo ainda não proferiu decisão de mérito capaz de estabelecer a competência do Superior Tribunal de Justiça. Nesse contexto, vem à baila o enunciado da Súmula 691 do Supremo Tribunal Federal:
+    "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido ao tribunal superior, indefere a liminar".
+    Diante do exposto, porque não resultou inaugurada a competência desta Corte, o indeferimento liminar da ordem é medida que se impõe, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+    Com tais fundamentos, indefiro liminarmente o pedido de habeas corpus .
+    Na inicial, alega-se o seguinte: (a) o paciente foi preso em flagrante na posse de 57,4g de maconha; (b) foi decretada a prisão preventiva para garantir a ordem pública, com base na gravidade abstrata da conduta; (c) o paciente é primário; (d) desproporcionalidade da custódia, já que o paciente fará jus à redução da pena, nos termos do § 4º do art. 33 da Lei 11.343/2006; (e) a hipótese impõe o afastamento do entendimento firmado na Súmula 691/STF. Requer a concessão de medida liminar para que seja posto em liberdade.
+    2. Ao contrário do alegado, não se trata, aqui, de superação da Súmula 691/STF, segundo a qual “não compete ao Supremo Tribunal Federal conhecer de ‘habeas corpus’ impetrado contra decisão do relator que, em ‘habeas corpus’ requerido a tribunal superior, indefere a liminar”. A hipótese, a rigor, é de insuperável dupla supressão de instância. É que a decisão impugnada negou seguimento ao habeas corpus por entender não demonstrada flagrante ilegalidade que justificasse o abrandamento da Súmula 691 do STF. Concluiu-se, com efeito, que o conhecimento do habeas corpus implicaria a indevida supressão de instância, já que o TJ/SP não chegou a apreciar o mérito da ordem. Assim, o conhecimento do pedido nesta Corte acarretaria a deliberação de matéria que não foi objeto de apreciação, tanto pelo STJ, quanto pelo Tribunal estadual, o que é inadmissível.
+    3. Com essas considerações, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 06 de maio de de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
