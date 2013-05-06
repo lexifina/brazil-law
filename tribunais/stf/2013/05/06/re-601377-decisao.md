@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Trata-se de recurso extraordinário assentado em contrariedade ao artigo 37, § 4º, inciso XXI, da Constituição Federal.
+    Alega o recorrente violação aos princípios da legalidade e moralidade uma vez que “na espécie dos autos, em nenhum momento justificava-se a contratação sem a elaboração de certame licitatório, porquanto a prestação do serviço não exigia a notória especialização nos termos da lei, como também não se tratava de objeto singular, porque outras empresas estavam aptas a se utilizar dos instrumentos próprios, postos à sua disposição, visando resolver pendência judicial, bem como revisão das DIPAM’s.”
+    Opina o Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Rodrigo Janot Monteiro de Barros, pelo não conhecimento do recurso extraordinário.
+    Decido.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se, por fim, que as instâncias de origem decidiram a lide amparadas na legislação infraconstitucional pertinente (Decreto-Lei nº 2.300/86). Assim, a afronta aos dispositivos constitucionais suscitados no recurso extraordinário seria, se ocorresse, indireta ou reflexa, o que é insuficiente para amparar o apelo extremo. Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede extraordinária. Incidência da Súmula nº 279 desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. ART. 129, III, DA CONSTITUIÇÃO FEDERAL. PROTEÇÃO AO PATRIMÔNIO PÚBLICO. ELETROPAULO. CONTRATAÇÃO DE MÃO-DE-OBRA. AUSÊNCIA DE PROCEDIMENTO LICITATÓRIO. EMPRESA PÚBLICA À ÉPOCA DA ASSINATURA DO CONTRATO. PARTICIPAÇÃO MAJORITÁRIA DO ESTADO DE SÃO PAULO NO CAPITAL SOCIAL. LEI N. 98.666/93, ART. 24, I E XXVI. NECESSIDADE DE LICITAÇÃO. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 5º, LIV e LV, 37, § 5º, II e XIX, 127, caput, e 129, III e IX, DA CARTA FEDERAL. OFENSA REFLEXA. MATÉRIA FÁTICA. SÚMULA N. 279/STF. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+    1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes.
+    2. Legitimatio ad causam do Ministério Público à luz da dicção do art. 129, III, da C.F/1988, que o habilita a demandar em prol do patrimônio público. Precedentes: RE 459.138-AgR, Rel Min. GILMAR MENDES, 2ª Turma, DJ 25.4.2008; RE 262.134-AgR, Rel. Min. CELSO DE MELLO, 2ª Turma, DJ 2.2.2007; AI 495.632-AgR, Rel. Min. SEPÚLVEDA PERTENCE, 1ª Turma, DJ 16.6.2006;AI 244.217- AgR, Rel. Min. EROS GRAU, 1ª Turma, DJ 25.11.2005.
+    3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes.
+    4. A Súmula 279/STF dispõe verbis: Para simples reexame de prova não cabe recurso extraordinário.
+    5. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional.
+    6. In casu, o acórdão recorrido assentou: AÇÃO CIVIL PÚBLICA Improbidade ELETROPAULO. Empresa controlada pelo Estado Dispensa de licitação para contratação de mão-de-obra complementar. Emergência. - Ação procedente Declaração de nulidade contratual e condenação na indenização da taxa de administração, solidariamente Agravo retido desprovido Preliminares rejeitadas Sentença mantida Recursos desprovidos.
+    7. Agravo Regimental a que se nega provimento” (AI nº 837.555 AgR/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 29/3/12).
+    No mesmo sentido, ainda: AI nº 836.682/SP, Relator o Ministro Gilmar Mendes, DJe de 19/2/13; ARE nº 712.564/TO, Relator o Ministro Gilmar Mendes, DJe de 11/12/12; e AI nº 637.221/SP, Relatora a Ministra Cármen Lúcia, DJe de 18/6/08.
+    Ante o exposto, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 6 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
