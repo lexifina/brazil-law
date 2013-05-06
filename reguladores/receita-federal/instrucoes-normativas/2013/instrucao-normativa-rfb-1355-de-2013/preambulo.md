@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1355, de 3 de maio de 2013
+Estabelece os procedimentos para habilitação e coabilitação ao Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações (REPNBL-Redes).
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III, XVI e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 28 a 33 da Lei nº 12.715, de 17 de setembro de 2012, e no Decreto nº 7.921, de 15 de fevereiro de 2013, resolve:
