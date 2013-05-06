@@ -1,0 +1,21 @@
+Contra o juízo negativo de admissibilidade exarado pela Terceira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais, maneja agravo Francisco Laface Netto, com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da falta de prequestionamento.
+    O Juízo de Direito da Vara Criminal da Comarca de Rio Pomba/MG pronunciou o Recorrente, imputando-lhe a prática do delito tipificado no art. 121, § 2º, IV, e art. 121, § 2º, IV, c/c art. 14, II, do Código Penal, em concurso material, para ser submetido a julgamento pelo Tribunal do Júri.
+    Em sede de recurso em sentido estrito, o Tribunal de Justiça do Estado de Minas Gerais deu parcial provimento ao pleito defensivo, para extirpar da sentença de pronúncia o concurso material de crimes, nos termos da seguinte ementa:
+    “Homicídio. Sentença de pronúncia. Limites qualificadoras. Indícios. Prevalência na acusação. Concurso material de crimes. Matéria afeta ao Tribunal do Júri. A sentença de pronúncia objetiva viabilizar a acusação da prática do homicídio, bastando apenas que o juiz se convença da existência do delito e de indícios suficientes de autoria com relação ao acusado. Embora seja viável decotarem-se as qualificadoras na fase de pronúncia, resulta que prevalecerá a incidência das mesmas no caso concreto, caso haja mínimo arcabouço probatório a respeito. Tal situação determina a subsistência da qualificadora aos fins de que o Tribunal do Júri se pronuncie sobre ela. (Súmula nº 64 do Grupo de Câmaras Criminais do TJMG). O reconhecimento do concurso material de crimes é matéria afeta ao Tribunal do Júri, não podendo ser objeto da sentença de pronúncia”.
+    Inconformado, Francisco Laface Netto manejou recurso extraordinário, ao argumento da violação do art. 93, IX, da Constituição Federal.
+    Alega, em síntese, que o acórdão recorrido carece de fundamentação idônea.
+    Requer o provimento do recurso para anular a sentença de pronúncia.
+    A inadmissão do apelo extremo pela Corte de origem resultou na interposição do presente agravo.
+    É o relatório.
+    Decido.
+    Não há como assegurar trânsito ao recurso extraordinário.
+    Para dissentir do entendimento do Tribunal Estadual sobre aplicação da qualificadora, a pretexto de ofensa ao apontado dispositivo constitucional, demandaria revolvimento do conjunto fático-probatório do caso, o que encontra óbice na Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Não há falar em violação do artigo 93, IX, da Constituição Federal. Este Supremo Tribunal Federal entende que o referido dispositivo constitucional exige que o órgão jurisdicional explicite as razões do seu convencimento, dispensando o exame detalhado de cada argumento suscitado pelas partes. Nesse sentido, cito o seguinte precedente:
+    “Questão de ordem. agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art 93 da Constituição Federal. Inocorrência. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791.292-QO-RG, rel. Min. Gilmar Mendes, Tribunal Pleno, por maioria, DJe 13.08.2010)
+    Ainda sobre o tema, cito o AI 442.113-AgR, 1ª Turma, rel. Min. Cármen Lúcia, DJe 05.02.2010 e o AI 696.044-AgR, 2ª Turma, rel. Min. Joaquim Barbosa, DJe 28.04.2011.
+    Presentes, no acórdão do Tribunal Estadual que ensejou o recurso extraordinário, justificativas suficientes para o provimento parcial do recurso em sentido estrito para retirar a incidência do concurso material de crimes, e manter, no mais, a sentença de pronúncia por seus próprios fundamentos.
+    Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 06 de maio de 2013.
+Ministra Rosa Weber
+Relatora
