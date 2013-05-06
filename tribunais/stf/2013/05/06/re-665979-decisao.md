@@ -1,0 +1,31 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. INCIDÊNCIA: NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA DIRETA Á CONSTITUIÇÃO. PRECEDENTES. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. recurso extraordinário interposto com base na alínea a do inciso III do art. 102 da Constituição da República contra julgado do Tribunal de Justiça de Santa Catarina.
+    2. Tem-se no acórdão recorrido:
+    “MANDADO DE SEGURANÇA - TRIBUTÁRIO – ISS - ATIVIDADE DE HOTELARIA - CONSTITUCIONALIDADE - AUSÊNCIA DE OFENSA AO CONCEITO DE SERVIÇO - SEGURANÇA DENEGADA - APELO DESPROVIDO.
+    É inviável a pretensão de decompor todas as etapas e atividades envolvidas no conceito de serviço tributado pelo ISS, sob pena de descaracterizá-lo. Os usuários que recorrem ao serviço de hotelaria, verbi gratia, certamente desejam que inúmeras comodidades sejam colocadas à sua disposição, do mesmo modo que não se contrataria o leasing de veículos sem a opção de adquiri-lo ao final ou de obter um financiamento. Por conseguinte, cada elemento do serviço constitui parte essencial de sua definição.
+    A tributação dos serviços de hotelaria pelo ISS é constitucional, isto que há um serviço no qual se acomoda um hospede em seu quarto, com o oferecimento de diversas funções para garantir sua comodidade no repouso ou em viagens profissionais”.
+    Os embargos de declaração opostos foram rejeitados.
+    3. A Recorrente alega que o Tribunal de origem teria contrariado o art. 156, inc. III, da Constituição da República.
+    Argumenta que a atividade de “hospedagem” é considerada uma obrigação de dar, não passível de cobrança do Imposto sobre Serviços e que, ao concluir de modo contrário, estaria o acórdão recorrido infringindo a norma constitucional que “escolheu a prestação de serviço como fato tributável” (grifos no original).
+    4. Em contrarrazões, o Recorrido sustenta que “o escopo do recurso é o reexame de provas e o revolvimento de questões fáticas, o que é vedado na via estreita do recurso extremo, o que impõe concluir que o recurso não permite a exata compreensão da controvérsia”.
+    Examinados os elementos havidos nos autos, DECIDO.
+    5. Razão jurídica não assiste à Recorrente.
+    6. O acórdão recorrido guarda consonância com a jurisprudência deste Supremo Tribunal, como se verifica, por exemplo, do que decidido no RE n. 112.040, Relator o Ministro. Francisco Rezek, cuja ementa é a seguinte:
+    “RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. ISS. INCIDENCIA SOBRE GORJETA COBRADA COMPULSORIAMENTE. ARTS. 21 DA CF E 457, PARAGRAFO 3. DA CLT. I - A GORJETA, AINDA QUANDO COMPULSORIAMENTE COBRADA PELO ESTABELECIMENTO, INTEGRA A REMUNERAÇÃO DO EMPREGADO - SUJEITA, POR SUA VEZ, A TRIBUTAÇÃO FEDERAL (IR) E NÃO MUNICIPAL (ISS). II - O SERVIÇO DE OFERECIMENTO DE HOSPEDAGEM, ALCANCAVEL PELO ISS, E PRESTADO PELO HOTEL, NÃO PODENDO A REMUNERAÇÃO DE SEUS EMPREGADOS SER TRIBUTADA SE NÃO PRESTAM, ESTES, A ATIVIDADE ATINGIDA PELO TRIBUTO. RECURSO PROVIDO” (grifos nossos).
+    7. Ademais, consta do voto do Desembargador Relator, Francisco Oliveira Filho:
+    “Concessa vênia, esse raciocínio não é adequado. São inúmeros os litígios que nascem no direito tributário justamente embasados na quebra do serviço tributado nas diversas etapas que o podem compor.
+    Todavia, o óbice verificado nestas situações é que, ao se decompor um serviço prestado, ele é absolutamente descaracterizado, deixando de ser aquilo que realmente é. Verbi gratia, ao se separar, no leasing, a locação da obrigatória opção de compra e do sempre presente financiamento, tem-se algo que certamente desmotivaria grande parte dos usuários de fazer a opção por ele. Sua intenção não é meramente locar um veículo, mas ter opção de adquiri-lo ao final.
+    Do mesmo modo, que contrata um serviço de hotelaria, busca plena tranquilidade para seu repouso ou viagem profissional, sem se preocupar com a limpeza do local e tendo amplo acesso à serviços de informação e aquisição de determinadas mercadorias, como, especialmente, alimentos e bebidas.
+    Caso não lhes fosse providenciado todas estas opções, certamente teria uma simples locação, que abrange um tipo distinto de usuário de serviços, que, para alcançar uma inegável economia com maior privacidade, renuncia a estas comodidades firmando o contrato de locação de imóvel. Assim, certamente ter-se-ia uma obrigação de entregar coisa certa.
+    No caso da hotelaria, há inequívoca prestação de serviços, na qual o usuário, além de obter o acesso ao imóvel no qual pretende hospedar-se, terá a sua plena disposição uma vasta e indeterminada gama de serviços, mesmo que por alguns deles precise pagar algum acréscimo. A sua simples oferta, elemento essencial da hotelaria, integra a noção de prestação de serviço”.
+    8. Verifica-se, na espécie, que a controvérsia referente ao alcance da lista de serviços sujeitos à incidência de ISS impõe a análise da legislação infraconstitucional, o que não permite, por conseguinte, a abertura da via extraordinária. Nesse sentido:
+     “Extraordinário. Inadmissibilidade. Tributo. ISS. Incidência sobre operações de “seguro saúde”. Matéria infraconstitucional. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte” (RE 576.105-AgR, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 4.9.2012).
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS – ISS. RAMO METALÚRGICO. ATIVIDADE DE INDUSTRIALIZAÇÃO POR ENCOMENDA RAMO METALÚRGICO. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 826.554-AgR, de minha relatoria, Segunda Turma, DJe 12.11.2012)
+     Desse modo, se tivesse ocorrido a alegada ofensa a Constituição da República, essa se daria de forma indireta ou reflexa. Inviável, portanto, o prosseguimento do presente recurso extraordinário.
+    9. Pelo exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 6 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
