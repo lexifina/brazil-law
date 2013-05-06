@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma do Tribunal Superior do Trabalho, assim ementado:
+    “AGRAVO DE INSTRUMENTO. EXECUÇÃO.
+    1. HORAS EXTRAORDINÁRIAS. BASE DE CÁLCULO. OFENSA À COISA JULGADA. VIOLAÇÃO DO ARTIGO 5º, XXXVI, DA CONSTITUIÇÃO FEDERAL. NÃO CONFIGURAÇÃO. NÃO PROVIMENTO.
+    Esta Corte Superior possui entendimento de que somente há ofensa à coisa julgada quando verificada inequívoca dissonância entre a decisão transitada em julgado e a proferida em sede de execução, não se verificando tal ofensa quando omissa a decisão exequenda a respeito da questão controvertida ou quando houver necessidade de se interpretar o título executivo judicial para concluir-se procedente a respectiva arguição. (Aplicação analógica da Orientação Jurisprudencial nº 123 da SDI-2). Precedentes.
+    Em sendo assim, não há falar em violação do artigo 5º, XXXVI, da Constituição Federal quando não há discordância entre a sentença exequenda e a decisão proferida na fase de execução, que apenas aplicou critérios para o cálculo das horas extraordinárias, os quais não haviam sido estabelecidos no decisum primitivo.
+    2. SOCIEDADE ANÔNIMA. EXECUÇÃO POR MEIO DE PRECATÓRIO. VIOLAÇÃO DO ARTIGO 100 DA CONSTITUIÇÃO FEDERAL. NÃO PROVIMENTO.
+    O Tribunal Regional, ao firmar posição de que o reclamado, integrante do Grupo Hospitalar Conceição, constituído sob a forma jurídica de sociedade anônima de direito privado, não se enquadra no conceito de Fazenda Pública de que trata o artigo 100 da Constituição Federal e, portanto, não dispõe do privilégio de execução de sentença por meio de precatório, decidiu em consonância com a iterativa e atual jurisprudência deste Tribunal Superior. Precedentes.
+    Em sendo assim, o processamento do recurso de revista encontra obstáculo na Súmula nº 333.
+    Agravo de instrumento a que se nega provimento”.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, incisos XIII, XXXVI e § 2º, 100, 173, 175 e 195, § 7º, da Constituição Federal.
+    Decido.
+    A irresignação merece prosperar, mas apenas em parte.
+    Este Supremo Tribunal Federal assentou que as alegações de afronta ao postulado constitucional que alberga a coisa julgada, se dependentes de reexame de normas infraconstitucionais que ampara a decisão atacada, como ocorre no presente caso, configuram ofensa constitucional indireta. Confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. TRABALHISTA. 1. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. 2. ACORDO HOMOLOGADO NA EXECUÇÃO DE SENTENÇA. ALEGAÇÃO DE CONTRARIEDADE À COISA JULGADA. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE n° 631.850/SP-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia , DJe de 16/5/11).
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA REFERENTE AOS LIMITES OBJETIVOS DA COISA JULGADA. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. PRECEDENTES . A discussão em torno dos limites objetivos da coisa julgada pertence ao plano infraconstitucional. Precedentes: AIs 587.396-AgR, da relatoria do ministro Sepúlveda Pertence; 710.529-AgR, da relatoria do ministro Ricardo Lewandowski; 765.612-AgR, da relatoria da ministra Cármen Lúcia; 767.968-AgR, da relatoria do ministro Joaquim Barbosa; e 733.272-AgR, da relatoria do ministro Celso de Mello. Agravo regimental desprovido”. (AI 785.738/PE-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 24/2/11) (Grifo nosso).
+    No entanto, a decisão atacada, ao excluir eventual execução que venha a ser movida contra o recorrente, do regime do precatório, dissentiu da jurisprudência pacificada nesta Corte sobre o tema, que aponta no sentido oposto.
+    Tal matéria foi pacificada a partir do julgamento do RE nº 580.264-RG/RS, Relator para o acórdão o Ministro Ayres Britto (Tribunal Pleno, DJe de 6/10/11), cuja ementa assim ficou redigida:
+    “CONSTITUCIONAL. TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. IMUNIDADE TRIBUTÁRIA RECÍPROCA. SOCIEDADE DE ECONOMIA MISTA. SERVIÇOS DE SAÚDE. 1. A saúde é direito fundamental de todos e dever do Estado (arts. 6º e 196 da Constituição Federal). Dever que é cumprido por meio de ações e serviços que, em face de sua prestação pelo Estado mesmo, se definem como de natureza pública (art. 197 da Lei das leis). 2 . A prestação de ações e serviços de saúde por sociedades de economia mista corresponde à própria atuação do Estado, desde que a empresa estatal não tenha por finalidade a obtenção de lucro. 3. As sociedades de economia mista prestadoras de ações e serviços de saúde, cujo capital social seja majoritariamente estatal, gozam da imunidade tributária prevista na alínea “a” do inciso VI do art. 150 da Constituição Federal. 3. Recurso extraordinário a que se dá provimento, com repercussão geral.
+    E, aplicando tal entendimento, em caso similar ao presente, cite-se a ementa do seguinte acórdão:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSTITUCIONAL. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO EM REGIME NÃO CONCORRENCIAL: APLICABILIDADE DO REGIME DE PRECATÓRIO. JULGADO RECORRIDO DIVERGENTE DA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL. AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 698.357-AgR/RS, Relatora a Ministra Cármen Lúcia, Segunda Turma, DJe de 4/10/12).
+    Da fundamentação desse aresto, destaque-se o seguinte trecho:
+    “Ademais, o Supremo Tribunal afirmou que o ora Agravado, Hospital Nossa Senhora da Conceição S/A, é uma empresa [sociedade de economia mista] que, na verdade, não é empresa, é órgão direto da União (RE 580.264, Redator para o acórdão o Ministro Ayres Britto, Plenário, DJe 6.10.2011)”.
+    Impõe-se, pois, a parcial reforma da decisão atacada, para submeter ao regime do precatório, eventual execução que venha a ser processada contra o recorrente.
+    Ante o exposto, conheço do agravo para dar parcial provimento ao recurso extraordinário, nos termos e para o fim supra explicitado.
+    Publique-se.
+    Brasília, 6 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
