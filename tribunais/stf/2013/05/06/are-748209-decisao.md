@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado de Minas Gerais que, em mandado de segurança, confirmou a sentença, em reexame necessário, consignando a inexistência previsão legal clara quanto ao limite de idade para o ingresso no ensino fundamental – se exigível no início, meio ou fim do ano –, de forma a afastar determinação contida em resolução local a esse respeito, por não atender ao direito à educação, garantido pela Constituição e por legislação federal.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao art. 97 da Constituição Federal, asseverando, em suma, que o Tribunal de origem, ao deixar de aplicar a norma inscrita no art. 32, caput, da Lei 9.394/1996, relativa à idade mínima exigida para a matrícula no ensino fundamental, teria afrontado a cláusula de reserva de plenário.
+    2. Não houve emissão, pelo acórdão recorrido, de juízo acerca da violação da matéria de que trata a norma inserta no art. 97 da Constituição Federal, qual seja, a suposta ofensa à cláusula de reserva de plenário, tampouco a questão foi suscitada no momento oportuno, em sede dos embargos de declaração opostos, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido, incidindo o óbice das súmulas 282 e 356 do STF. Nesse sentido: AI 744.863 AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 25/04/2011; RE 639.866 AgR-ED, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, Dje de 30/11/2011; ARE 694.076 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 02/10/2012; ARE 676.180 AgR, de minha relatoria, Segunda Turma, DJe de 06/05/2013.
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 06 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
