@@ -1,0 +1,19 @@
+HABEAS CORPUS. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. LIBERDADE PROVISÓRIA. VEDAÇÃO CONTIDA NO ARTIGO 44 DA LEI Nº 11.343/06. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE DO DISPOSITIVO LEGAL, POR OFENSA AO PRINCÍPIO DA PRESUNÇÃO DE NÃO CULPABILIDADE E DA DIGNIDADE DA PESSOA HUMANA. ORDEM PARCIALMENTE CONCEDIDA, PARA AFASTAR O ÓBICE PREVISTO NA LEI ANTIDROGAS, DETERMINANDO AO SUPERIOR TRIBUNAL DE JUSTIÇA QUE REAPRECIE A QUESTÃO À LUZ DO DISPOSTO NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL.
+    Decisão: Trata-se de habeas corpus impetrado em favor de Ledevir Marini contra ato do Ministro Napoleão Nunes Maia Filho do Superior Tribunal de Justiça, que indeferiu liminar no HC 150508/RS.
+    Consta dos autos que o paciente foi preso em flagrante e denunciado por tráfico ilícito de entorpecentes e associação para o tráfico de drogas. A defesa formalizou pedido de liberdade provisória, que foi indeferido pelo Juízo de Primeira Instância.
+    Inconformada, a defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio Grande do Sul e o Superior Tribunal de Justiça, sendo a ordem denegada.
+    Nesta impetração, aponta-se a falta de fundamentação da decisão mediante a qual foi determinada a custódia cautelar, não sendo indicados elementos concretos indicadores dos requisitos previstos no artigo 312 do Código de Processo Penal.
+    Alega-se, também, possibilidade de concessão da liberdade provisória mesmo diante da vedação do artigo 44 da Lei nº 11.343/06.
+    Pleiteia-se, ao final, a concessão da ordem para assegurar ao paciente o direito de aguardar em liberdade a tramitação do processo-crime.
+    O pedido de liminar foi deferido pelo Ministro Eros Grau, então relator, para que o paciente fosse “posto imediatamente em liberdade, até o julgamento definitivo deste habeas corpus”.
+    Determinei o sobrestamento do feito, pois encontrava-se submetida ao crivo do Plenário a apreciação da controvérsia acerca da inconstitucionalidade do artigo 44 da Lei nº 11.343/06, no ponto em que vedava a concessão de liberdade provisória em favor daqueles aos quais há imputação da prática do crime de tráfico de drogas.
+    O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem e cassação da liminar deferida.
+    É o relatório. Decido.
+    O Plenário do Supremo Tribunal Federal, na sessão de 10 de maio de 2012, declarou a inconstitucionalidade do disposto no artigo 44 da Lei nº 11.343/06, que veda a concessão de liberdade provisória em favor daqueles aos quais é imputada a prática do crime de tráfico de drogas, por entender que o referido preceito afronta os princípios da presunção de não culpabilidade e da dignidade humana, devendo, contudo, o processo retornar ao juízo de origem para apreciar-se a existência dos requisitos da prisão preventiva à luz do artigo 312 do Código de Processo Penal.
+    Na oportunidade, fiquei vencido, por entender que o disposto na Lei nº 11.343/06, no ponto em que veda a concessão de liberdade provisória, foi editado em observância ao artigo 5º, XLIII, da Constituição Federal, que remete ao legislador ordinário a disciplina da matéria, não sendo admissível falar em antinomia entre as normas constitucionais.
+    Ex positis, com base no artigo 192 do Regimento Interno do Supremo Tribunal Federal e em face da deliberação desta Corte permitindo decidir-se monocraticamente habeas corpus cujas alegações guardem identidade com o referido precedente, concedo parcialmente a ordem para afastar a incidente do artigo 44 da Lei Antidrogas à espécie, e determinar que o juízo processante decida sobre a necessidade, ou não, da prisão preventiva, à luz do art. 312 do Código de Processo Penal.
+    Publique-se. Int.
+    Brasília, 6 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
