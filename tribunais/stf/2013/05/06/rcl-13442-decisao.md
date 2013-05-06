@@ -1,0 +1,25 @@
+Trata-se de reclamação constitucional, com pedido de liminar, fundada nos arts. 103-A, § 3º, da Constituição Federal; 13 a 18 da Lei 8.038/90; e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, ajuizada pelo Ministério Público do Estado de Minas Gerais contra ato proferido pelo Tribunal de Justiça daquela unidade federativa, que, nos autos da Apelação Criminal 1.0058.10.003162-2/001, supostamente teria contrariado o enunciado da Súmula Vinculante nº 10.
+    Em 15.3.2012, deferi o pedido de tutela emergencial em decisão assim exarada:
+    “Narra a inicial que Vinícius Augusto da Silva Marques foi condenado à pena de 5 (cinco) anos de reclusão, em regime inicial fechado, e ao pagamento de 500 (quinhentos) dias-multa como incurso nas sanções do art. 33, caput, da Lei 11.343/2006.
+    O Tribunal de Justiça do Estado de Minas Gerais, nos autos da Apelação Criminal 1.0058.10.003162-2/001, deu parcial provimento ao recurso defensivo, para fixar o regime inicial semiaberto. O Parquet Estadual opôs embargos de declaração, os quais foram rejeitados. Inconformado com a decisão colegiada, o Ministério Público interpôs recurso especial, ainda em fase de admissibilidade.
+    O Reclamante argumenta, em síntese, que o ato da Corte local violou frontalmente o enunciado contido na Súmula Vinculante nº 10, visto que prolatado por órgão fracionário, o qual afastou a incidência do art. 2º, § 1º, da Lei 8.072/90 com fundamento em argumentos constitucionais.
+    Requer a concessão de provimento liminar para o fim de suspender os efeitos da decisão proferida pela Corte Estadual. No mérito, pugna pela procedência da presente reclamação.
+    (…).
+    A respeito do ato reclamado, colho ainda a manifestação do TJMG prolatada nos embargos de declaração:
+    “(...).
+    Assim, além de o acórdão, em momento algum, afirmar que o art. 44 da Lei 11.343/06 trata de regime inicial de cumprimento de pena, não há qualquer contradição em se afirmar que a inconstitucionalidade de tal artigo, declarada pelo Plenário do STF, aduz à inexorável conclusão de que também é inconstitucional a imposição de fixação de regime fechado aos crimes da Lei 11.343/06, motivo pelo qual a declaração de inconstitucionalidade, por este Órgão fracionário do TJMG, não fere a cláusula constitucional de reserva de plenário (art. 97 da CF e S. Vin. n. 10)”.
+    ... resta claro que a Primeira Câmara Tribunal de Justiça de Minas Gerais reputou inconstitucional a imposição obrigatória de regime inicial fechado para cumprimento de pena por tráfico de drogas.
+    Trata-se de previsão do art. 2º, § 1º, da Lei 8.072/90, embora a Corte de Apelação não tenha feito a ela referência.
+    Não há, por outro lado, precedentes do Supremo Tribunal Federal no sentido da inconstitucionalidade do art. 2º, § 1º, da Lei 8.072/90.
+    Pode-se é certo especular que esta Corte assim decidiria em vista do precedente no HC 97.256/RS - Plenário - Rel. Min. Ayres Britto - por maioria - j. 01/09/2010 – Dje247, no qual foi afastado o óbice abstrato à substituição da pena privativa de liberdade por restritiva de direito em crime por tráfico e que estava previsto no art. 44 da Lei 11.343/2006. Mas ainda assim, são temas e normas diferentes.
+    Houve, portanto, violação do art. 97 da Constituição Federal e do enunciado da Súmula Vinculante 10.
+    Ante o exposto, defiro o pedido de liminar para suspender por ora o acordão prolatado pela Primeira Câmara Tribunal de Justiça de Minas Gerais na Apelação Criminal nº 1.0058.10.003162-2/001, no que se refere exclusivamente à substituição do regime fechado pelo regime semiaberto para cumprimento da pena.”
+    Contudo, em sessão de julgamento realizada em 27.6.2012, o Plenário deste Supremo Tribunal Federal, nos autos do HC 111.840/ES, Rel. Min. Dias Toffoli, declarou a inconstitucionalidade do § 1º do artigo 2º da Lei 8.072/90, com a redação dada pela Lei 11.464/07, que instituiu a obrigatoriedade de imposição do regime inicial fechado para o cumprimento da pena de crimes hediondos e equiparados.
+    Destaco que, naquele julgamento, não reconhecido direito automático à imposição de regime inicial menos gravoso, remetido, o exame da questão, ao exame do juiz do processo à luz do preenchimento, ou não, dos requisitos legais. A fixação do regime inicial de cumprimento de pena, nos termos do art. 33, § 3º, do Código Penal há de se fazer com observância dos critérios estabelecidos no art. 59 do Estatuto Repressivo – culpabilidade, antecedentes, conduta social, personalidade do agente, motivos, circunstâncias e consequências do crime.
+    Nesse diapasão, diante da superveniente declaração de inconstitucionalidade incidental do § 1º do artigo 2º da Lei 8.072/90 por esta Suprema Corte, encontra-se prejudicada, por perda de objeto, esta reclamação.
+    Ante o exposto, forte no art. 21, IX, do RISTF, julgo prejudicada a presente reclamação e, consequentemente, a liminar anteriormente deferida.
+    Comunique-se à autoridade reclamada.
+    Publique-se.
+    Brasília, 06 de maio de 2013.
+Ministra Rosa Weber
+Relatora
