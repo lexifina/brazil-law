@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO – MILITAR – ANISTIA – ARTIGO 8º, ADCT – PROMOÇÃO - POSTO DE CAPITÃO DE CORVETA - ART. 6º, CAPUT, DA LEI Nº 10.559/02 – CARREIRA DE PRAÇA - ACESSO AO OFICIALATO – TRANSPOSIÇÃO DE QUADRO – IMPOSSIBILIDADE.
+    I – O art. 6º, caput, da Lei 10.559/2002, ao assegurar a possibilidade de promoção do anistiado, determinou que fossem respeitadas as características e peculiaridades dos respectivos regimes jurídicos.
+    II – O novo entendimento do STF acerca da matéria, expresso no RE 165.438-DF, não se aplica à hipótese, porquanto a carreira de praças é diversa da carreira de oficiais, com quadros diversos. A promoção a Capitão de Corveta, sem observância dos parâmetros definidos na legislação pertinente, implicaria desrespeito às características e peculiaridades do regime jurídico militar. Não se poderia presumir aprovação em concurso público para ingresso no oficialato.
+    III – Apelação e remessa providas”. (eDOC 4, p. 23)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 8º do ADCT.
+    Defende-se, em síntese, que é direito dos anistiados as promoções da carreira interrompida independentemente dos requisitos funcionais. Assim, sustenta que não pode sofrer qualquer restrição quanto a promoção ao oficialato.
+    Decido.
+    Verifico que o acórdão recorrido está em harmonia com a jurisprudência desta Corte que se firmou no sentido que as promoções dos anistiados se restringem ao quadro que pertencia o militar na ativa. Neste sentido destacam-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL. CONSTITUCIONAL. ANISTIA. MILITAR. ART. 8º DO ADCT. PROMOÇÕES RESTRITAS AO QUADRO QUE FOI INTEGRADO PELO ANISTIADO. O que o art. 8º do Ato das Disposições Constitucionais Transitórias exige para a concessão de promoções, na aposentadoria ou na reserva, é a observância, apenas, dos prazos de permanência em atividade inscritos nas leis e regulamentos vigentes, no entanto, referidas promoções só podem ocorrer dentro dos quadros que foram integrados pelo anistiado. Agravo regimental a que se nega provimento”. (RE-AgR 630.868/RJ, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 18.9.2012)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MILITAR. ANISTIA. ART. 8º DO ADCT. PROMOÇÃO. QUADRO DIVERSO. ANÁLISE DE NORMA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – O Supremo Tribunal Federal, no julgamento do RE 165.438/DF, Rel. Min. Carlos Velloso, afirmou que as promoções concedidas na forma do art. 8º do ADCT devem observar os prazos de permanência em atividade e desde que ocorram dentro do mesmo quadro da carreira militar. II – Para analisar a estrutura da carreira militar, necessário seria o reexame da legislação infraconstitucional aplicável à espécie (Estatuto dos Militares – Lei 6.880/1980), de forma que a afronta à Constituição, se ocorrente, seria indireta. III - Agravo regimental improvido”. (RE-AgR 610.191/RJ, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 7.11.2011)
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (arts. 21, §1º, do RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 7 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
