@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul que, em ação indenizatória, no que importa ao presente recurso, manteve a condenação da ora recorrente ao pagamento de indenização a título de danos materiais e morais, em decorrência de acidente de trabalho.
+    Os embargos de declaração foram rejeitados (fl. 94).
+    No recurso extraordinário, o recorrente aponta ofensa aos seguintes dispositivos: (a) art. 6º da LICC, asseverando, em suma, que o caso deveria ter sido julgado à luz da legislação vigente à época em que ocorreram os fatos, enquanto ainda se encontrava em vigor a Constituição Federal de 1967, que não previa a possibilidade de indenização por danos morais e, quanto à indenização acidentária, exigia comprovação de culpa grave ou de dolo do empregador; e (b) arts. 5º, V, e X, e 7º XXVIII, da Constituição Federal de 1988, pois o Tribunal de origem os teria aplicado retroativamente, a fim de reger situações ocorridas sob a vigência de ordem constitucional distinta.
+    2. A teor do art. 102, III, a, da Constituição, fundamento da interposição do presente recurso extraordinário, não cabe invocar nesse apelo a violação a norma infraconstitucional, razão pela qual não se conhece a alegada violação ao art. 6º da LICC.
+    3. Quanto aos dispositivos constitucionais ditos violados, não houve emissão, pelo acórdão recorrido, de juízo acerca da matéria de que tratam tais normas, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido no ponto.
+    Com efeito, os embargos de declaração opostos não tiveram o objetivo de prequestionar as matérias de que tratam os dispositivos supracitados.
+    4. Por fim, o Tribunal de origem decidiu a controvérsia tão somente a partir de interpretação e de aplicação das normas infraconstitucionais pertinentes (Código Civil de 1916), bem como de exame de fatos da causa. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Da mesma forma, quanto à incursão em fatos, impõe-se a aplicação da Súmula 279/STF: Para simples reexame de prova não cabe recurso extraordinário.
+    Acrescente-se que a ora recorrente sequer se preocupou em interpor recurso especial quanto aos fundamentos infraconstitucionais suficientes para manter o acórdão, de modo que se aplica, ainda, por analogia, a Súmula 283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.).
+    5. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 09 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
