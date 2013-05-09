@@ -1,0 +1,33 @@
+DECISÃO
+AGRAVO DE INSTRMUENTO. PROCESSUAL CIVIL. 1) AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 129, INC. I, DA CONSTITUIÇÃO DA REPÚBLICA. INCIDÊNCIA DA SÚMULA N. 282 DO SUPREMO TRIBUNAL FEDERAL. 2) INEXISTÊNCIA DE CONTRARIEDADE AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. 3) ART. 5º, INCS. XXXV E LV, DA CONSTITUIÇÃO: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL.. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “ANULATÓRIA DE ATO JURÍDICO. Pretensão de expedição de ofícios rejeitada. Possibilidade. Poder de direção da prova conferido ao julgador. CPC, ART. 130. Observação quanto a eventual improcedência da ação fundada na ausência de tais provas. Peculiaridade da causa que, ainda, pode ensejar nova oportunidade da prova pretendida. Pedido de efeito suspensivo prejudicado. Decisão mantida. Recurso improvido.
+    ANULATÓRIA DE ATO JURÍDICO. Pretensão de afastamento de caução. Autores residentes no exterior. incidência da lei adjetiva (835). necessidade efetiva da caução. Pedido de efeito suspensivo prejudicado. Decisão mantida. Recurso improvido” (fl. 491).
+    2. Os Agravantes afirmam que o Tribunal de origem teria contrariado os arts. 5º, inc. XXXV e LV, 93, inc. IX, e 129, inc. I, da Constituição da República.
+    Asseveram que:
+    “ao determinar a prestação de caução, negando (...) a possibilidade de fazê-lo com crédito detido contra um dos co-Recorridos, (...) está o MM. Magistrado impedindo que os Recorrentes submetam a questão ao Judiciário.
+    (...)
+    O cerceamento de defesa, todavia, ocorre (...) também quando o MM. Magistrado se nega a expedir os ofícios solicitados pelos Recorrentes, a fim de que sejam tomadas providências para elucidação dos fatos subjacentes (...)
+    Novamente, uma formalidade processual está impedindo o acesso dos Recorrentes ao Poder Judiciário e, pior ainda, o esclarecimento de uma questão de interesse público, já que a fraude fiscal ou a falsidade ideológica são expressamente crimes de ordem pública. (...)
+    A obrigação de informar o Ministério Público, para que esse promova a ação penal cabível, é dever de ofício” (fls. 47-48).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência da Súmula n. 282 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. O art. 129, inc. I, da Constituição da República, suscitado no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem. Incide na espécie vertente a Súmula n. 282 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo . Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão do Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Rel. Min. Sepúlveda Pertence, RTJ 150/269).
+    8. Além disso, este Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, inc. XXXV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (Código de Processo Civil), não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PENHORA. INTIMAÇÃO PESSOAL. MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A jurisprudência do Supremo Tribunal firmou-se no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, do contraditório, da ampla defesa, dos limites da coisa julgada e da prestação jurisdicional, quando dependentes de exame de legislação infraconstitucional, configurariam ofensa constitucional indireta” (AI 776.282-AgR, de minha relatoria, Primeira Turma, DJe 12.3.2010).
+    “RECURSO. Extraordinário. Inadmissibilidade. Alegação de ofensa ao art. 5º, LV, da Constituição Federal. Ofensa constitucional indireta. Agravo regimental não provido. Alegações de desrespeito aos postulados da legalidade, do devido processo legal, do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame prévio de normas inferiores, podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição” (RE 547.201-AgR, Rel. Min. Cezar Peluso, Segunda Turma, DJe 14.11.2008).
+    9. Nada há, pois, a prover quanto às alegações da Agravante.
+    10. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Quanto à petição n. 51.562/2010 (na qual a Agravante pede a suspensão do processo para regularização do espólio do Agravado, investigação de atos praticados por advogados do Agravado, litigância de má-fé, entre outros), compete ao Juízo a quo decidir sobre os pedidos formulados.
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
