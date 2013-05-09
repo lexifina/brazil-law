@@ -1,0 +1,11 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO. DIREITO ADMINISTRATIVO. MILITAR. INGRESSO NO CURSO DE FORMAÇÃO DE MÚSICOS DO EXÉRCITO. NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO ALEGADO. ART. 333, I DO CPC. IMPROVIMENTO
+    (...)” (fl. 112).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º e 37 da mesma Carta.
+    A pretensão recursal não merece acolhida. O Tribunal de origem não divergiu da jurisprudência firmada por esta Corte no sentido de que ao Poder Judiciário não é dado substituir banca examinadora de concurso público, seja para rever os critérios de avaliação, seja para censurar o conteúdo de questões formuladas. Nesse sentido, trago à colação ementa do MS 27.260/DF, Rel. Min. Cármen Lúcia, julgado pelo Pleno desta Corte:
+    “CONCURSO PÚBLICO. PROCURADOR DA REPÚBLICA. PROVA OBJETIVA: MODIFICAÇÃO DO GABARITO PRELIMINAR. REPROVAÇÃO DE CANDIDATA DECORRENTE DA MODIFICAÇÃO DO GABARITO. ATRIBUIÇÕES DA BANCA EXAMINADORA. MÉRITO DAS QUESTÕES: IMPOSSIBILIDADE DE REVISÃO JUDICIAL. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. RECURSO AO QUAL SE NEGA PROVIMENTO. 1. A modificação de gabarito preliminar, anulando questões ou alterando a alternativa correta, em decorrência do julgamento de recursos apresentados por candidatos não importa em nulidade do concurso público se houver previsão no edital dessa modificação. 2. A ausência de previsão no edital do certame de interposição de novos recursos por candidatos prejudicados pela modificação do gabarito preliminar não contraria os princípios constitucionais do contraditório e da ampla defesa. 3. Não cabe ao Poder Judiciário, no controle jurisdicional da legalidade, substituir-se à banca examinadora do concurso público para reexaminar os critérios de correção das provas e o conteúdo das questões formuladas (RE 268.244, Relator o Ministro Moreira Alves, Primeira Turma, DJ 30.6.2000; MS 21.176, Relator o Ministro Aldir Passarinho, Plenário, DJ 20.3.1992; RE 434.708, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 9.9.2005)” (grifos meus).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
