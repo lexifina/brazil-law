@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Distrito Federal e Territórios cuja ementa transcrevo no que interessa:
+    “ADMINISTRATIVO, CONSTITUCIONAL E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AUTORIDADE IMPETRADA E PESSOA JURÍDICA DE DIREITO PÚBLICO. LITISCONSÓRCIO PASSIVO. ART. 3º, LEI 4.348/64 (LEI 10.910/2004). LEGITIMIDADE PASSIVA AD CAUSAM. ADEQUAÇÃO DA VIA ELEITA. POSSIBILIDADE JURÍDICA DO PEDIDO. PRELIMINARES REJEITADAS. CONCURSO PÚBLICO. CANDIDATA QUE, APROVADA, TEVE NEGADA A SUA POSSE, POR INAPTIDÃO FÍSICA RECONHECIDA PELA ADMINISTRAÇÃO NOS EXAMES PRÉ-ADMISSIONAIS. ART. 5º, VI, DA LEI 8.112/90. NORMA CARENTE DE REGULAMENTAÇÃO. PRESUNÇÃO DE LEGITMIDADE E LEGALIDADE. INAPLICABILIADE EM SEDE JUDICIAL. DIREITO FUNDAMENTAL DE ACESSO AO CARGO PÚBLICO. ART. 37, I, CF/88. AUSÊNCIA DE CRITÉRIOS LEGAIS. MATÉRIA QUE NÃO PODE FICAR AO ALVEDRIO SUBJETIVO E EXCLUSIVO DO ADMINISTRADOR. DISTINÇÃO ENTRE O EXAME DA APTIDÃO FÍSICA ANTES E DEPOIS DA POSSE (ESTÁGIO PROBATÓRIO)”. (eDOC 4 , p. 9)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, LXIX e 37, I ; do texto constitucional.
+    Alega-se, em síntese, que a admissão no exame de aptidão física e mental consiste em requisito para a investidura do candidato em cargo público, sendo vedado ao Judiciário a intervenção em sede administrativa quanto às normas contantes no edital.
+    Decido.
+    O recurso não merece prosperar.
+    O acórdão recorrido assentou o seguinte:
+    “Na mesma linha, impende rejeitar a preliminar de inadequação da via eleita, porquanto a matéria que ora se examina não exige outras provas além das que foram produzidas pela impetrante conjuntamente com a petição inicial, antes se revelando questão exclusivamente de direito.
+    (…)
+    No caso dos autos, os fatos comprovados pela autora são suficientes para demonstrar a sua aptidão física e mental para exercício das funções alusivas ao caro de professor. É o que se pode concluir da circunstância de que a impetrante já vem exercendo essas funções, na qualidade de professora submetida ao regime de contrato temporário, desde 12/8/2004, como prova instrumento contratual de fl. 68, o qual foi sendo regularmente renovado (...)
+    (…)
+    Não bastasse isso, entendo que a recusa administrativa à posse da autora é ilegal, pois, não obstante a Lei 8.112/90 (art. 5º, inciso VI) coloque a aptidão física e mental como requisito básico para a investidura no cargo público, é necessário que tal dicção normativa detalhada em regulamento, da competência exclusiva do Chefe do Poder Executivo, não podendo a questão ficar ao completo alvedrio do administrador, sob pena de afronta ao próprio conceito de Estado de Direito, cuja premissa básica é a do ‘governo das leis’ e não a do ‘governo dos homens’”. (eDOC 4, pp. 17-19)
+    Para se entender de forma diversa, e modificar o entendimento adotado pelo tribunal de origem, seria necessário revolvimento do acervo fático-probatório e a interpretação da legislação infraconstitucional (Lei 8.112/90), providências estas vedadas em sede de recurso extraordinário, nos termos da jurisprudência desta Corte. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. REPROVAÇÃO EM EXAME MÉDICO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. POSSIBILIDADE DE EXIGÊNCIA DE EXAME MÉDICO QUANDO PREVISTO EM LEI E COM A ADOÇÃO DE CRITÉRIOS OBJETIVOS. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE-AgR 593.873, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 20.11.2009).
+    "Recurso extraordinário: descabimento: acórdão recorrido, do Tribunal Superior do Trabalho, que decidiu a questão à luz de legislação infraconstitucional: alegada violação ao texto constitucional que, se ocorresse, seria reflexa ou indireta; ausência de negativa de prestação jurisdicional ou de defesa aos princípios compreendidos nos arts. 5º, II, XXXV, LIV e LV e 93, IX, da Constituição Federal". (AI-AgR 436.911, Rel. Min. Sepúlveda Pertence, 1ª Turma, DJ 17.6.2005)
+    Não há, pois, o que prover quanto às alegações recursais.
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC e art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
