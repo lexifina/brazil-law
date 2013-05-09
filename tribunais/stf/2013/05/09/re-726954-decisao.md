@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto de decisão monocrática proferida pela 1ª Vara da Fazenda Pública do Estado de São Paulo que, em embargos infringentes em execução fiscal, manteve a sentença que julgara extinta a ação por ausência de interesse de agir do Estado, em razão do valor do crédito tributário ser inferior ao do procedimento de cobrança (fl. 11).
+    A parte agravante, no recurso extraordinário, aponta violação aos seguintes dispositivos constitucionais: (a) art. 5º, XXXV, da Constituição Federal, asseverando, em suma, que “ao extinguir o processo de execução, sem prestar a devida tutela jurisdicional necessária à resolução da lide, o juízo inferior está a retirar da Fazenda Pública o direito fundamental de acesso à jurisdição” (fl. 18) e (b) arts. 2º e 150, § 6º, pois somente lei específica, de iniciativa do Chefe do Poder Executivo, pode conceder benefícios tributários, de modo que sua concessão pelo Poder Judiciário, sem respaldo legal, ofende o princípio da separação dos Poderes.
+    2. Não houve emissão, pela sentença recorrida, de juízo acerca da matéria contida nos arts. 2º e 150, § 6º, da Constituição, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido no ponto.
+    3. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação aos princípios do acesso à jurisdição, do devido processo legal, do contraditório e da ampla defesa que, por não prescindir do exame de normas infraconstitucionais, apontam ofensa, meramente, indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    4. Ante o exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 09 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
