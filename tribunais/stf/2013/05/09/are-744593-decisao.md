@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão proferido pelo 4º Juizado Especial Cível da Comarca de Curitiba que, em embargos à execução, decidiu que a citação foi realizada de maneira correta, não havendo falar em nulidade.
+    A parte agravante, no recurso extraordinário, aponta violação aos arts. 5º, XXXV, LIV, LV e 93, IX da Constituição Federal, enquanto a decisão agravada o inadmitiu por (a) ser indispensável para a análise do recurso extraordinário, o revolvimento do conjunto fático-probatório dos autos, incidindo o óbice da Súmula 279 do STF; (b) não ter ocorrido o prequestionamento dos dispositivos constitucionais apontados como violados e (c) tratar-se, quando muito, de ofensa reflexa à Constituição.
+    2. Não se verifica a suposta violação ao artigo 93, IX, da Constituição Federal, pois o acórdão e a sentença estão devidamente fundamentados. Esta Corte, no julgamento do AI 791.292 QO-RG/PE (rel. Min. GILMAR MENDES, DJe de 13.8.2010), cuja repercussão geral foi reconhecida, entendeu que a Constituição da República exige acórdão ou decisão fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação aos princípios do acesso à jurisdição, do devido processo legal, do contraditório e da ampla defesa que, por não prescindir do exame de normas infraconstitucionais, apontam ofensa, meramente, indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 09 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
