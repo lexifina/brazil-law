@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. REVISÃO DE PENSÃO POR MORTE. IMPOSSIBILIDADE DE REEXAME DE FATOS E DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Rio de Janeiro:
+    “DIREITO ADMINISTRATIVO. AÇÃO DE REVISÃO DE PENSÃO POR MORTE. RIOPREVIDÊNCIA. Pedido julgado improcedente, por não estar comprovada a alegada defasagem da pensão. Ex-servidor aposentado em 1954 e falecido em 1968, cujo cargo hoje corresponde ao de GARI-A, vinculado à COMLURB, empresa pública que possui em seus arquivos os dados funcionais do marido da Autora. Pensionista que não pode ser prejudicada pelos posteriores arranjos administrativos do funcionalismo ligado à limpeza pública. Aplicação da Súmula n° 68 deste E. Tribunal. Provimento recurso para rever a pensão para o valor correspondente ao de gari”.
+    Os embargos de declaração foram rejeitados.
+    2. O Agravante alega que o Tribunal a quo teria contrariado os arts. 18, 37, inc. II, e 40, §§ 2º, 3º, 7º e 8º, da Constituição da República.
+    Argumenta que “cargo paradigmático ocupado por empregado da Companhia Municipal de Limpeza Urbana (COMLURB), sociedade de economia mista integrante da Administração Indireta do Município do Rio de Janeiro, não pode servir de base à revisão da pensão da parte autora, pois o ex-servidor ocupava cargo na Administração Direta do Estado do Rio de Janeiro e estava apenas à disposição desta sociedade de economia mista. Entendimento contrário significaria violação ao princípio do concurso público e, ainda, ao art. 40, § 2° da Constituição”.
+    3. O recurso extraordinário foi inadmitido pela Turma Recursal de origem ao fundamento de inexistência de ofensa direta à Constituição da República e da necessidade de reexame de fatos e provas, inviável na via recursal eleita.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Na peça recursal, o ora Agravante sustenta que, “sendo o instituidor da pensão ex-servidor do Estado, é em relação aos servidores estaduais — e não aos empregados da COMLURB, pessoa jurídica cujos quadros o servidor não integrava — que se verificará eventual defasagem na pensão. Por este motivo, que nos comprovantes de pagamento de pensão da autora consta como órgão de origem do ex-servidor, a Administração Direta (estadual)”.
+    Alega que, “no caso dos autos, o cargo do ex-servidor era vinculado à Administração Direta do Estado do Rio de Janeiro. O instituidor estava apenas à disposição da COMLURB. Sendo assim, evidentemente que a pensão da parte autora deve ter por base o cargo efetivo do servidor e não aquele em que estava cedido. Por estes motivos, o presente recurso deve ser provido”.
+    7. Tem-se no julgado recorrido:
+    “o ex-servidor se aposentou no ano de 1954, ocasião em que exercia o cargo de trabalhador de limpeza urbana, no então Distrito Federal (fls. 65), vindo a falecer em 1968, quando já havia o Estado da Guanabara (fls. 28). E, consoante esclarecido às fls. 92, após a fusão ocorrida em meados dos anos 70, as obrigações previdenciárias dos antigos Estados do Rio de Janeiro e da Guanabara ficaram a cargo do Instituto de Previdência do Estado do Rio de Janeiro — IPERJ, sucedido pelo RIOPREVIDÊNCIA.
+    (…)
+    Em que pese sua condição de empresa pública municipal, cujos empregados ostentam vinculo trabalhista como celetistas, não se vislumbra impossibilidade alguma de se utilizar como paradigma os salários atualmente pagos pela COMLURB.
+    Isto porque o cargo anteriormente ocupado pelo ex-servidor corresponde atualmente ao de GARI-A, cujas atividades encontram-se vinculadas à referida empresa pública, que até possui em seus arquivos os dados funcionais do marido da Autora (fls. 66/69).
+    Por outro lado, não se concebe que as alterações ocorridas na seara administrativa desde a época do desligamento do ex-servidor, no ano de 1954, quando se encontrava em vigor a Constituição Federal de 1946, até os dias atuais, com as notórias mudanças na repartição de competências entre os entes da Federação implementadas pela Constituição Federal de 1988, se prestem para o afastamento da pretensão recursal”.
+    8. Concluir de forma diversa do que decidido nas instâncias originárias demandaria o reexame do conjunto fático-probatório constante do processo, que acolheu a pretensão de revisão da pensão por morte, por meio da equiparação do cargo ocupado pelo ex-servidor ao cargo de gari, atualmente existente no quadros da Companhia Municipal de Limpeza Urbana - COMLURB, procedimento inviável de ser validamente adotado nessa via processual. Incide a súmula n. 279 deste Supremo Tribunal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. BENEFÍCIO ASSISTENCIAL. IMPOSSIBILIDADE DE REEXAME DE PROVAS. OFENSAS À CONSTITUIÇÃO DA REPÚBLICA E AO JULGADO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 1.232 NÃO DEMONSTRADAS. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 612.456-AgR/SC, de minha relatoria, Primeira Turma, DJ 3.8.2007).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 662.120-AgR/RS, de minha relatoria, Primeira Turma, DJ 06.12.2011, grifos nossos).
+     “PREVIDENCIÁRIO. PENSÃO POR MORTE. DECISÃO BASEADA NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E EM NORMA INFRACONSTITUCIONAL LOCAL. SÚMULAS 279 E 280 DO STF. AGRAVO IMPROVIDO.
+      I - O acórdão recorrido, com base na análise do conjunto fático-probatório dos autos, firmou entendimento a respeito da dependência econômica do beneficiário da pensão. O revolvimento de fatos e provas é inviável em sede recursal, a teor da Súmula
+    279 do STF.
+      II - A questão em debate foi decidida, também, com esteio em norma infraconstitucional local (Lei Complementar estadual 122/94). Incide, ao caso, a Súmula 280 do STF.
+      III - Agravo regimental improvido” (RE 568.760-AgR/RN, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJE de 24.92010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
