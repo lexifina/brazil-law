@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que julgou legítimo o ato administrativo que declarou a inaptidão da recorrente para o exercício do cargo de professora da rede estadual de ensino. A ementa segue transcrita:
+    “DIREITO ADMINISTRATIVO – lei 500/74 – acesso a função-atividade – DPME – inaptidão atestada em laudo médico pericial – recurso desprovido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 1º, 3º, 5º, I, II, III, IV, V, VI, X, XIII, LV, 37, caput, I e II, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário nos termos da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO PARA INGRESSO NOS QUADROS DA POLÍCIA MILITAR DE PERNAMBUCO. REPROVAÇÃO NO EXAME MÉDICO. AMETROPIA. SEGURANÇA DEFERIDA PARA DETERMINAR A PARTICIPAÇÃO NO CERTAME. ENTENDIMENTO DE QUE A DEFICIÊNCIA VISUAL APRESENTADA PODE SER REPARADA POR MEIO DE CIRURGIA OU USO DE LENTES CORRETIVAS. REGRAS DO EDITAL QUE ATENTARIAM CONTRA OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. REEXAME DE FATOS E PROVAS E CLÁUSULAS EDITALÍCIAS. SÚMULAS 279 E 454 DO STF.
+    (…)
+    2. As cláusulas contratuais ou editalícias e a verificação de suas validades encerram reexame de norma infraconstitucional, insuscetível de discussão via recurso extraordinário, incidindo, in casu o óbice da Súmula 454 do STF, verbis : Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário. Precedentes: RE 413.777-AgR, Primeira Turma, Rel. Min. Cármen Lúcia, DJe de 13.11.2009 e AI 482.943-AgR, Segunda Turma, Rel. Min. Nelson Jobim, DJ de 1.04.2004 3. A Súmula 279/STF dispõe, verbis: Para simples reexame de prova não cabe recurso extraordinário. 4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional”. (AI 797.363-AgR/PE, Rel. Min. Luiz Fux).
+    Ademais, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
