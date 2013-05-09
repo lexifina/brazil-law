@@ -1,0 +1,20 @@
+Decisão
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “MANDADO DE SEGURANÇA. AUSÊNCIA DE PRESTAÇÃO DE INFORMAÇÕES EM REQUERIMENTO FORMULADO PELO SINDICATO DOS SERVIDORES PÚBLICOS MUNICIPAIS DE LONDRINA. QUESTÕES MERAMENTE ADMINISTRATIVAS. CUSTAS PROCESSUAIS EFETIVAMENTE ADIANTADAS PELO SINDICATO IMPETRANTE. DECADÊNCIA. NÃO OCORRÊNCIA. PRAZO DE 120 (CENTO E VINTE) DIAS PARA A IMPETRAÇÃO DO MANDADO DE SEGURANÇA OBSERVADO (ART. 18 DA LEI N.º 1.533/51). REQUERIMENTO F'ORMULADO PELO SINDICATO SEQUER FOI RESPONDIDO PELA AUTORIDADE COATORA. VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO DO SINDICATO À OBTENÇÃO DE INFORMAÇÕES RELATIVAS AOS SERVIDORES, BEM COMO, VIOLAÇÃO AO PRINCÍPIO DA PUBLICIDADE, AMBOS PREVISTOS NA CONSTITUIÇÃO FEDERAL DE 1.988. REEXAME NECESSÁRIO. MANUTENÇÃO”.
+    No recurso extraordinário, fundado nas alíneas “a” e “c”, do permissivo constitucional, sustenta-se violação do artigo 37, caput, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que as instâncias de origem decidiram a lide amparadas nas provas dos autos, bem como em normas de legislação infraconstitucional, de reexame incabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido:
+    “Agravo regimental no agravo de instrumento. Constitucional. Artigo 97 da Constituição Federal. Súmula Vinculante nº 10. Violação. Inexistência. Artigo 5º, inciso XXXII. Ofensa reflexa. Precedentes. 1. Pacífica a jurisprudência desta Corte de que não há violação do art. 97 da Constituição Federal e da Súmula Vinculante nº 10 do STF quando o Tribunal de origem, sem declarar a inconstitucionalidade da norma e sem afastá-la sob fundamento de contrariedade à Constituição Federal, limita-se a interpretar e aplicar a legislação infraconstitucional ao caso concreto. 2. Inadmissível, em recurso extraordinário, a análise de ofensa indireta ou reflexa à Constituição. 3. Agravo regimental não provido.” (AI nº 848.332/RJ-AgR, Primeira Turma, de minha relatoria, DJe de 24/4/12)
+    Diga-se, ainda, que para dissentir do acórdão regional, seria mister perquirir-se acerca da presença, in casu, dos requisitos que ensejaram a concessão da segurança impetrada, matéria que esta Corte já reconheceu ser de natureza infraconstitucional, por meio de acórdão assim ementado:
+    “Requisitos de admissibilidade. Mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral” (AI nº 800.074-RG/SP, Relator o Ministro Gilmar Mendes, DJe de 6/12/10).
+    No que tange à alínea “c”, do permissivo constitucional, muito embora mencionada no início da petição recursal, não foi abordada nas razões do inconformismo, fato a impor a rejeição do apelo, sob tal fundamento.
+    Não padece, pois, a decisão atacada, das inconstitucionalidade que lhe foram apontadas, razão pela qual, deve ser mantida inalterada.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 9 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
