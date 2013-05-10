@@ -1,0 +1,38 @@
+DECISÃO
+    Vistos.
+    Marcelo Martins Gomes interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MILITAR. DESCONSTITUIÇÃO DE ATO DISCIPLINAR. COMPETÊNCIA DA JUSTIÇA MILITAR.
+    Incompetência da Justiça Comum para o julgamento do feito, em face do que dispõem os §§ 4º e 5º do art. 125 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 45/04. Competência da Justiça Militar. Regra de competência que guarda natureza absoluta, em função da matéria.
+    NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO” (fl. 39).
+    Sustenta o recorrente violação do artigo 125, §§ 4º e 5º, da Constituição Federal.
+    Apresentadas contrarrazões (fls. 59 a 65), o recurso extraordinário (fls. 50 a 55) foi admitido (fls. 67/68).
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que o acórdão recorrido está em sintonia com a jurisprudência desta Corte firmada no sentido de que a Emenda Constitucional nº 45/04, que deu nova redação ao § 4º do artigo 125 da Constituição Federal, ampliou o âmbito de atuação da Justiça Militar Estadual, atribuindo-lhe competência para processar e julgar as ações judiciais ajuizadas contra atos disciplinares militares.
+    Especificamente sobre o tema ora análise, transcrevo o teor da recente decisão proferida pelo Ministro Celso de Mello, em caso análogo ao presente, nos autos do RE nº 729.615/RS (DJe de 4/4/13), que bem aborda a questão:
+    “DECISÃO: O presente recurso extraordinário foi interposto contra decisão que, proferida pelo E. Tribunal de Justiça do Estado do Rio Grande do Sul, acha-se consubstanciada em acórdão assim ementado (fls. 47):
+    ‘AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO MILITAR. DESCONSTITUIÇÃO DE ATO DISCIPLINAR. COMPETÊNCIA DA JUSTIÇA MILITAR.
+    Incompetência da Justiça Comum para o julgamento do feito, em face do que dispõem os §§ 4º e 5º do art. 125 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 45/04. Competência da Justiça Militar. Regra de competência que guarda natureza absoluta, em função da matéria. Precedentes da Corte.
+    NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO.’
+    A parte recorrente, ao deduzir o presente apelo extremo, sustentou que o Tribunal “a quo” teria transgredido preceitos inscritos na Constituição da República.
+    O Ministério Público Federal, em parecer da lavra do ilustre Subprocurador-Geral da República Dr. PAULO DE TARSO BRAZ LUCAS, ao opinar pelo improvimento do recurso extraordinário em questão, formulou parecer assim ementado (fls. 78):
+    ‘RECURSO EXTRAORDINÁRIO – AÇÃO DE NULIDADE DE ATO ADMINISTRATIVO PUNITIVO C/C REINTEGRAÇÃO – SERVIDOR PÚBLICO MILITAR – COMPETÊNCIA DECLINADA EM FAVOR DA JUSTIÇA MILITAR – AGRAVO DE INSTRUMENTO – DECISÃO MANTIDA – ALEGAÇÃO DE CONTRARIEDADE AO ART. 125, §§ 4º E 5º, DA CF/88 – REDAÇÃO DADA PELA EC 45/04 – AMPLIAÇÃO DA COMPETÊNCIA DA JUSTIÇA CASTRENSE – PRECEDENTES DO STJ E DO STF – PARECER PELO IMPROVIMENTO DO RECURSO.’
+    Entendo assistir razão ao parecer da douta Procuradoria-Geral da República, no ponto em que opina pelo improvimento do presente recurso extraordinário, cujos termos adoto como fundamento da presente decisão, valendo-me, para tanto, da técnica da motivação “per relationem”, reconhecida como plenamente compatível com o texto da Constituição (AI 738.982/PR, Rel. Min. JOAQUIM BARBOSA – AI 809.147/ES, Rel. Min. CÁRMEN LÚCIA – AI 814.640/RS, Rel. Min. RICARDO LEWANDOWSKI – ARE 662.029/SE, Rel. Min. CELSO DE MELLO – HC 54.513/DF, Rel. Min. MOREIRA ALVES – MS 28.989-MC/PR, Rel. Min. CELSO DE MELLO – RE 37.879/MG, Rel. Min. LUIZ GALLOTTI – RE 49.074/MA, Rel. Min. LUIZ GALLOTTI, v.g.):
+    ‘Reveste-se de plena legitimidade jurídico-constitucional a utilização, pelo Poder Judiciário, da técnica da motivação ‘per relationem’, que se mostra compatível com o que dispõe o art. 93, IX, da Constituição da República. A remissão feita pelo magistrado – referindo-se, expressamente, aos fundamentos (de fato e/ou de direito) que deram suporte a anterior decisão (ou, então, a pareceres do Ministério Público ou, ainda, a informações prestadas por órgão apontado como coator) – constitui meio apto a promover a formal incorporação, ao ato decisório, da motivação a que o juiz se reportou como razão de decidir. Precedentes.’
+    (AI 825.520-AgR-ED/SP, Rel. Min. CELSO DE MELLO)
+    Impende assinalar, por relevante, que o Supremo Tribunal Federal, corroborando a manifestação do Ministério Publico Federal, consagrou diretriz jurisprudencial que torna inacolhível a pretensão recursal ora deduzida (AI 785.580-AgR/SP, Rel. Min. GILMAR MENDES – ARE 664.930-AgR/SP, Rel. Min. LUIZ FUX, v.g.):
+    ‘AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. ALEGADA CONTRARIEDADE AO ART. 5º, XXXV, LIV E LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. VIOLAÇÃO AO ART. 93, IX, DA CONSTITUIÇÃO. INOCORRÊNCIA. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ART. 125, § 5º, DA CF. DETERMINAÇÃO DA COMPETÊNCIA DOS JUÍZES DE DIREITO DA JUSTIÇA MILITAR PARA PROCESSAR E JULGAR, SINGULARMENTE, AS AÇÕES JUDICIAIS CONTRA ATOS DISCIPLINARES, NADA DISPONDO ACERCA DO JULGAMENTO DESSAS AÇÕES PELO COLEGIADO. AGRAVO IMPROVIDO.
+    ..............................................................................................
+    III - O art. 125, § 5º, da Constituição Federal, determina que ‘compete aos juízes de direito do juízo militar processar e julgar, singularmente, os crimes militares cometidos contra civis e as ações judiciais contra atos disciplinares militares’, nada dispondo acerca do julgamento dessas ações pelo colegiado. Precedentes.
+    IV - Agravo regimental improvido.’
+    (ARE 715.817-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    Vale referir, ainda, ante a pertinência de seu conteúdo, trecho da decisão que a eminente Ministra ELLEN GRACIE proferiu no âmbito do RE 634.703/SP, de que foi Relatora:
+    ‘Verifico que o acórdão recorrido divergiu da orientação deste Supremo Tribunal Federal no sentido de que a EC 45/04, que deu nova redação ao § 4º do art. 125 da CF/88, ampliou o âmbito de atuação da Justiça Militar Estadual, conferindo-lhe competência para processar e julgar as ações judiciais contra atos disciplinares militares. Nesse sentido cito o RHC 88.543/SP, rel. Min. Ricardo Lewandowski, 1ª Turma, DJ 27.4.2007.’
+    Sendo assim, pelas razões expostas, e considerando os precedentes referidos, conheço do presente recurso extraordinário, para negar-lhe provimento”.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
