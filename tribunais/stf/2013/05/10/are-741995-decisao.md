@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão assim ementado:
+    “IMPOSTO – ITBI – São Paulo – Tributo recolhido com base no valor venal do imóvel lançado para fins de cálculo do IPTU, eis que este superou o da transação – Exigência, pela Municipalidade, do recolhimento da diferença do tributo arbitrado por meio de procedimento administrativo, segundo valor constante do instrumento particular de promessa de venda e compra – Tributação com base em valor venal diferente do lançado para cobrança do IPTU – Inadmissibilidade – Afronta ao princípio da legalidade – Somente lei pode estabelecer nova base de cálculo para tributos, nos termos do art. 97, inciso II, § 1° da Constituição Federal – Ação procedente – Sentença mantida por seus próprios fundamentos – Recurso de ofício e apelo da Municipalidade desprovidos” (fl. 345 do e-STJ).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, a legitimidade do procedimento adotado pela municipalidade para apurar o valor do crédito tributário em debate.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Código Tributário Nacional e Lei Municipal 11.154/1991). Dessa forma, o exame do recuso envolve a reanálise da interpretação dada àqueles diplomas legais pelo Juízo a quo. Eventual afronta à Constituição, se ocorrente, seria indireta, além de incidir, no caso, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário.
+    Ademais, embora este extraordinário tenha sido interposto com fundamento no art. 102, III, a, da Constituição, o recorrente não desenvolveu qualquer argumentação destinada a evidenciar qual dispositivo constitucional teria sido contrariado pela decisão recorrida. De fato, nas razões recursais, o recorrente limitou-se à tentativa de demonstrar suposta desconformidade entre o acórdão recorrido e a legislação federal e local que disciplina o ITBI.
+    Ressalto que o recurso extraordinário tem por objeto o exame de questões constitucionais. Assim, inviável a pretensão de que esta Corte analise se houve, no caso, a devida aplicação da legislação federal ou local que disciplina a matéria objeto desta demanda.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 10 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
