@@ -1,0 +1,32 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE OS PAGAMENTOS EFETUADOS AO EMPREGADO NOS PRIMEIROS 15 DIAS DO AUXÍLIO-DOENÇA. INEXISTÊNCIA DE CONTRARIEDADE AOS ART. 93, INC. IX, E 97 DA CONSTITUIÇÃO DA REPÚBLICA. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Superior Tribunal de Justiça:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-DOENÇA, VERBAS RECEBIDAS NOS 15 (QUINZE) PRIMEIROS DIAS DE AFASTAMENTO. NÃO-INCIDÊNCIA. COMPENSAÇÃO. CORREÇÃO MONETÁRIA.
+    1. O auxílio-doença pago até o 15º dia pelo empregador é inalcançável pela contribuição previdenciária, uma vez que referida verba não possui natureza remuneratória, inexistindo prestação de serviço pelo empregado, no período. Precedentes: EDcl no Resp 800.024/SC , Rel. Ministro LUIZ FUX, DJ 10.09.2007; Resp 951.623/PR , Rel. Ministro JOSÉ DELGADO, DJ 27.09.2007; Resp 916.388/SC , Rel. Ministro CASTRO MEIRA, DJ 26.04.2007.
+    2. A Previdência Social é instrumento de política social do governo, sendo certo que sua finalidade primeira é a manutenção do nível de renda do trabalhador em casos de infortúnios ou de aposentadoria, abrangendo atividades de seguro social definidas como aquelas destinadas a amparar o trabalhador nos eventos previsíveis ou não, como velhice, doença, invalidez: aposentadorias, pensões, auxílio- doença e auxílio-acidente do trabalho, além de outros benefícios ao trabalhador.
+    3. Inexiste ofensa ao art. 535 do CPC, quando o Tribunal de origem, embora sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+    4. Agravos regimentais desprovidos” (grifos nossos).
+    Os embargos de declaração opostos pela Agravante foram rejeitados.
+    2. No recurso extraordinário, a Agravante afirma que Turma Recursal de origem teria contrariado os arts. 5º, inc. XXXV e LIV, 93, inc. IX, 97 e 195, inc. I, da Constituição da República.
+    Argumenta que “não resta dúvida sobre a natureza salarial da verba em questão, posto que decorrente do vínculo empregatício, razão porque é devida a contribuição previdenciária incidente sobre os pagamentos efetuados pelo empregador nos primeiros 15 (quinze) dias de afastamento do empregado por motivo de doença”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste à Agravante.
+    5. A alegação de nulidade do acórdão por contrariedade ao art. 93, inc. IX, da Constituição da República não pode prosperar. Embora em sentido contrário à pretensão doa Agravante, o acórdão recorrido apresentou suficiente fundamentação.
+    Conforme a jurisprudência do Supremo Tribunal Federal, “o que a Constituição exige, no art. 93, IX, é que a decisão judicial seja fundamentada; não, que a fundamentação seja correta, na solução das questões de fato ou de direito da lide: declinadas no julgado as premissas, corretamente assentadas ou não, mas coerentes com o dispositivo do acórdão, está satisfeita a exigência constitucional” (RE 140.370, Relator o Ministro Sepúlveda Pertence, RTJ 150/269).
+    6. No julgamento do Recurso Extraordinário n. 611.505, Relator o Ministro Ayres Britto, este Supremo Tribunal assentou a inexistência de repercussão geral da questão referente à incidência de contribuição previdenciária sobre os valores pagos pelo empregador ao empregado nos primeiros quinze dias de auxílio-doença.
+    Nesse julgamento, o Relator afirmou:
+    “ao apreciar casos análogos, esta nossa Casa de Justiça assentou que o Superior Tribunal de Justiça não violou o art. 97 da Constituição Federal. Mais: que, quanto ao mérito, não há questão constitucional a ser apreciada pelo Supremo Tribunal Federal. Leia-se, a propósito, o seguinte trecho do voto condutor do Agravo Regimental no AI 789.162, da relatoria do ministro Marco Aurélio:
+    ‘Atentem para o que decidido na origem. O Superior Tribunal de Justiça, ao negar provimento ao recurso, manteve a decisão agravada pelos próprios fundamentos, registrando não ser de natureza previdenciária a verba paga ao empregado nos primeiros quinze dias de afastamento por motivo de doença, uma vez que não possui natureza remuneratória, inexistindo prestação de serviços.
+    O deslinde da controvérsia deu-se sob o ângulo estritamente legal e não considerada a Carta República. Em momento algum houve a declaração de inconstitucionalidade de ato normativo ou afastamento da respectiva incidência. Está-se diante de conflito de interesses que tem desfecho na origem, não ensejando campo de acesso ao Supremo’.
+    4. Nessa mesma vertente, confiram-se os seguintes precedentes: AIs 780.674-AgR (Primeira Turma), da relatoria do ministro Ricardo Lewandowski; 771.671-AgR (Segunda Turma), da relatoria do ministro Eros Grau; e 767.064-AgR (Primeira Turma), da relatoria da ministra Cármen Lúcia.
+    5. Presente essa moldura, e considerando que há pronunciamentos de ambas as turmas desta nossa Casa de Justiça sobre a matéria, proponho, excepcionalmente, que seja reafirmada a jurisprudência no sentido de que o Superior Tribunal de Justiça, ao assentar a natureza não-salarial do auxílio-doença (e, por conseguinte, concluir pela não-incidência da contribuição previdenciária), não declarou a inconstitucionalidade ”.
+    Declarada a ausência de repercussão geral, os recursos extraordinários e os agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 557, caput, do Código de Processo Civil c/c art. 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
