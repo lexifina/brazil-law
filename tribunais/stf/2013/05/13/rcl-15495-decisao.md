@@ -1,0 +1,17 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de medida liminar, ajuizada pelo Banco Mercantil do Brasil S/A contra ato da 5ª Turma do Tribunal Regional Federal da 1ª Região que, ao não determinar o sobrestamento do feito com base no art. 543-B do CPC até o julgamento de mérito do RE-RG 667.958, de minha relatoria, DJe 28.3.2012, teria afrontado decisão do STF.
+    É o breve relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (art. 52, parágrafo único, RISTF).
+    Passo a decidir.
+    Não há, no presente feito, indicação de afronta à decisão dotada de efeito vinculante, nem alegação de usurpação de competência desta Corte. Não se verifica, portanto, nenhuma das hipóteses constitucionalmente previstas para o ajuizamento da reclamação (art. 102, I, “l”, da CF/88).
+    A jurisprudência do Supremo Tribunal Federal segue no sentido do não cabimento de reclamação por afronta à autoridade de súmula do STF ou de decisão não dotada de efeito vinculante.
+    Quanto à diferenciação de tratamento entre súmulas dotadas de efeito vinculante e súmulas regimentais, para fins de ajuizamento de reclamação, cite-se o acórdão proferido no Rcl-AgR 3.979, de minha relatoria, DJ 2.6.2006.
+    No mesmo sentido: Rcl 3.043, Rel. Min. Ellen Gracie, DJ 1.2.2005; Rcl 3.839, de minha relatoria, DJ 17.10.2005; e Rcl 3.112, Rel. Min. Celso de Mello, DJ 20.3.2006.
+    No que concerne à hipótese dos autos, registro que esta Corte firmou orientação no sentido de que não é cabível reclamação ao fundamento de descumprimento da autoridade da decisão proferida em processo-paradigma da repercussão geral, haja vista a possibilidade de impugnação pela via recursal ordinária.
+    Constato, portanto, a utilização desta via processual como sucedâneo recursal, o que não é admissível, consoante, entre outros, os seguintes precedentes desta Corte: Rcl 9.545, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 13.5.2010; e da Rcl 5.494, Rel. Min. Celso de Mello, Tribunal Pleno, DJe 11.12.2009, esta com a seguinte ementa:
+    “RECLAMAÇÃO - ALEGADO DESRESPEITO A DISPOSITIVOS DA CONSTITUIÇÃO FEDERAL - INADMISSIBILIDADE - INADEQUAÇÃO DO EMPREGO DA RECLAMAÇÃO COMO SUCEDÂNEO DE AÇÃO RESCISÓRIA, DE RECURSOS OU DE AÇÕES JUDICIAIS EM GERAL - EXTINÇÃO DO PROCESSO DE RECLAMAÇÃO - PRECEDENTES - RECURSO IMPROVIDO. - Para que se legitime o acesso à via reclamatória, impõe-se a demonstração da efetiva ocorrência de desrespeito a julgamento emanado do Supremo Tribunal Federal ou, ainda, de usurpação de competência desta Suprema Corte. - O remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes. - A reclamação, constitucionalmente vocacionada a cumprir a dupla função a que alude o art. 102, I, 'l', da Carta Política (RTJ 134/1033), não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do mero reexame do conteúdo de atos jurisdicionais ou administrativos, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual. Precedentes”.
+    Ante o exposto, nego seguimento à reclamação (RISTF, art. 21, § 1º).
+    Publique-se.
+    Brasília, 13 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
