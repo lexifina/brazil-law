@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo interposto contra decisão do Tribunal de Justiça do Estado de São Paulo de inadmissibilidade ao recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “Ação Civil Pública – loteamento – Portaria que impede o ingresso a não moradores – concessão de direito real de uso – possibilidade, com restrições - controle de portaria que deve se limitar à identificação – reforma parcial da sentença” (eDOC 5, p.44).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria. No mérito, alega-se violação aos artigos 1º, III, 3º, I, III e IV, 5º, caput, II, X, XV, XXIII, XXXV, LIV, LV e LVII, 24, I, 30, I, II e III, e 182, caput, do texto constitucional.
+    Sustenta-se, em síntese, que a recorrida foi autorizada pela Prefeitura Municipal de São Carlos (Lei Municipal nº 11.235/1996) a promover o fechamento físico do loteamento, com a instalação de muros ao redor do empreendimento e de portarias com cancelas, que possuem o intuito de limitar o acesso e a circulação de pessoas ao condomínio, restringindo, assim, o direito de ir e vir das pessoas.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Na espécie, o Tribunal de origem consignou que:
+    “(...) não há discussão ou dúvida sobre a regularidade do loteamento, que cumpriu as exigências da Lei nº 6.766/79, se ajustando às diretrizes viárias da cidade, tendo sido planejado, projetado e executado com o mesmo ‘dna’ do município que o abriga. Entretanto, o empreendimento se encontra afastado do centro urbano, o que significa dizer que suas ruas internas não representam, propriamente, vias de circulação urbana, recebendo apenas o tráfego de moradores locais.
+    O loteamento não estorva ou atrapalha a circulação de veículos e pessoas da cidade de São Carlos.” (eDOC 5, p. 47/48)
+    No caso, verifico que o Tribunal de origem decidiu a controvérsia com fundamento na interpretação dada a legislação local (Lei Municipal nº 11.235/1996), de modo que, para se concluir de forma diversa, far-se-ia imprescindível a prévia interpretação de referida lei local, providência vedada no âmbito do recurso extraordinário, nos termos do Enunciado 280 do STF.
+    Nesse sentido cito o RE-AgR 445.819, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.5.2011:
+     “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. LEI 6.938/1981, CONSTITUIÇÃO ESTADUAL PAULISTA, DECRETO-LEI ESTADUAL 2/1969, DECRETOS ESTADUAIS 52.892/1972, 5.993/1975 E 9.484/1977 E LEI MUNICIPAL 1.632/1983. OFENSA INDIRETA. SÚMULA 280 DO STF. COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REEXAME DE PROVAS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional aplicável à espécie. Inadmissível o RE, dado que eventual ofensa à Lei Maior seria apenas indireta. II - Ausência de prequestionamento da questão constitucional suscitada (art. 5º, XXXVI). Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, a teor da Súmula 356 do STF. III - Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incide, no caso, a Súmula 279 do STF. IV - Agravo regimental improvido.” (grifei)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (arts. 21, § 1º, e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 23 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
