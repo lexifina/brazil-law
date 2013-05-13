@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+    “ADMINISTRATIVO - CONCURSO PÚBLICO - ANATEL - EDITAL - LEI DO CONCURSO - EDITAL Nº 14/2004 (ANATEL) - CONVOCAÇÃO DA AUTORA PARA CURSO DE FORMAÇÃO.
+    1- Em sendo o Edital a lei do concurso, “estabelece-se um vínculo entre a Administração e os candidatos, igualmente ao descrito na Lei de Licitações Públicas, já que o escopo principal do certame é propiciar a toda a coletividade igualdade de condições no ingresso ao serviço público. Pactuam-se, assim, normas preexistentes entre os dois sujeitos da relação editalícia. De um lado, a Administração. De outro, os candidatos. Com isso, é defeso a qualquer das condutas lineares, universais e imparciais adotadas no certame” (STJ, EARESP 657.488, DJ 16/05/2005).
+    2- A r.sentença objurgada observou, acertadamente, que o parágrafo 1º do art. 12, da Lei nº 8.112/90, não é aplicável aos atos convocatórios posteriores à publicação do próprio Edital inicial do certame.
+    3- No Edital nº 14/2004-ANATEL, de 08/12/2004 (fls.223), que convocou os candidatos em segunda chamada para a matrícula no Curso de Formação, consta o nome da autora, com o respectivo número de inscrição, para o cargo de Especialista em Regulação de Serviços Públicos de Telecomunicações – Área: Jurídica.
+    4- Apelação desprovida”. (eDOC 21, p. 17)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, caput, IV, do texto constitucional.
+    Defende-se, em síntese, a violação aos princípios da razoabilidade, da publicidade, da igualdade, da moralidade e da finalidade pública, uma vez que exige-se do candidato que acompanhe todas as convocações do concurso pela internet ou pelo Diário Oficial. Ademais, sustenta-se que não existe uma lista classificatória.
+    Decido.
+    O recurso não merece prosperar.
+    O acórdão recorrido está em sintonia com a jurisprudência desta Corte que firmou o entendimento segundo o qual é suficiente para dar publicidade ao ato administrativo a publicação no Diário Oficial, no caso, da convocação para fase seguinte do concurso. Neste sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA FÍSICA. ALTERAÇÃO NO EDITAL. PRINCÍPIOS DA RAZOABILIDADE E DA PUBLICIDADE. 1. Alterações no edital do concurso para agente penitenciário, na parte que disciplinou o exercício abdominal, para sanar erro material, mediante uma ‘errata’ publicada dias antes da realização da prova física no Diário Oficial do Estado. 2. Desnecessária a sua veiculação em jornais de grande circulação. A divulgação no Diário Oficial é suficiente per se para dar publicidade a um ato administrativo. 3. A Administração pode, a qualquer tempo, corrigir seus atos e, no presente caso, garantiu aos candidatos prazo razoável para o conhecimento prévio do exercício a ser realizado. 4. Recurso extraordinário conhecido e provido”. (RE 390.939/MA, Rel. Min. Ellen Gracie, DJ 9.9.2005) (grifei).
+    Ademais, para se entender de forma diversa do que foi consignado pelo Tribunal de origem, far-se-ia imprescindível o reexame do conjunto fático-probatório constante dos autos e do edital do concurso, o que não é possível em sede de recurso extraordinário, segundo os Enunciados 279 e 454 da Súmula de Jurisprudência do Supremo Tribunal Federal.
+    Nesse sentido, é pacífica a jurisprudência da Corte. Confira-se o ARE-AgR 684.298, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 14.9.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. 2. Necessidade de reexame de provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento.”
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (arts. 21, § 1º, do RISTF e 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
