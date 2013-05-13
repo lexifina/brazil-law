@@ -1,0 +1,20 @@
+DECISÃO
+AGRAVO REGIMENTAL – JUÍZO DE RETRATAÇÃO.
+MEDIDA PROVISÓRIA – CONVERSÃO – ANTERIORIDADE NONAGESIMAL – PRAZO – PRIMEIRO PUBLICAÇÃO – RECURSO EXTRAORDINÁRIO – CONHECIMENTO E PROVIMENTO NOS AUTOS DE AGRAVO PROVIDO.
+    1. Por meio da decisão de folhas 235 e 236, neguei provimento ao agravo, consignando:
+AGRAVO DE INSTRUMENTO – SUBIDA DO EXTRAORDINÁRIO – AUSÊNCIA DE PREQUESTIONAMENTO.
+    1. O recurso extraordinário direciona ao atendimento cumulativo dos requisitos gerais de recorribilidade - adequação, oportunidade, interesse de agir, representação processual e preparo - e a um dos específicos previstos no inciso III do artigo 102 da Carta da República. O acesso ao Supremo faz-se, por isso mesmo, em via de excepcionalidade maior, tudo objetivando a atuação precípua da Corte, qual seja, a guarda da supremacia da Constituição Federal. Quanto ao pressuposto especifico, quase sempre retratado na alínea "a" do inciso III do artigo 102 da Lei Fundamental - violência a dispositivo nela inserto -, mostra-se necessário, ante a ordem natural das coisas, proceder-se a cotejo. Somente é possível definir se houve transgressão de texto da Carta mediante o confronto do que decidido com as razões do extraordinário, mais precisamente com o que evocado no tocante à adoção de entendimento contrário ao ditame constitucional. Dai o instituto do prequestionamento, que significa o debate e a decisão prévios do tema jurídico constante das razões apresentadas. Se o acórdão impugnado nada contém sobre o que versado pela parte recorrente, descabe assentar o enquadramento deste no permissivo constitucional.
+    2. No caso, o que sustentado nas razões do extraordinário não foi enfrentado pelo órgão julgador. Não houve debate sobre eventual edição de medida provisória prévia, de cuja conversão ter-se-ia originado a Lei n° 8.114, de 12 de dezembro de 1990. Padece o recurso da ausência de prequestionamento, esbarrando nos Verbetes nos 282 e 356 da Súmula desta Corte.
+    3. Conheço deste agravo e o desprovejo.
+    4. Publiquem.
+    A União, no regimental de folha 239 a 241, afirma que além de estar devidamente prequestionada a matéria, uma vez que houve prévio debate pelo Tribunal de origem, o tema é de índole constitucional.
+    A parte agravada apresentou a contraminuta de folha 252 a 256, apontando o acerto do ato atacado.
+    2. Na interposição deste agravo, observaram-se os pressupostos de recorribilidade. A peça, subscrita por Procurador da Fazenda Nacional, foi protocolada no prazo legal. Conheço.
+    Assiste razão à agravante. A tese, sustentada no extraordinário, quanto à necessidade de contagem do prazo da anterioridade nonagesimal a partir da Medida Provisória nº 225, de 18 de setembro de 1990, reeditada sob o número 249, de 19 de outubro de 1990, foi enfrentada no acórdão recorrido. Reconsidero o ato impugnado e passo ao exame do agravo.
+    3. O Supremo, ao julgar a Ação Direta de Inconstitucionalidade nº 399/DF, da relatoria do Ministro Néri da Silveira e a Ação Direta de Inconstitucionalidade nº 393/DF-QO, da relatoria do Ministro Aldir Passarinho, assentou ser a Lei nº 8.114, de 12 de dezembro de 1990, resultado da conversão da Medida Provisória nº 249/90.
+    A jurisprudência entende contar-se o prazo de noventa dias, do artigo 195, § 6º, da Carta Maior, a partir da primitiva publicação da medida provisória que enuncie norma tributária sujeita a essa anterioridade. Forçoso concluir que o disposto no artigo 11 da Lei nº 8.114 de 1990, ao reproduzir preceito outrora contido na medida provisória, observou o princípio da anterioridade nonagesimal.
+    4. Ante o quadro, conheço deste agravo e o provejo, consignando o enquadramento do extraordinário no permissivo da alínea “a” do inciso III do artigo 102 da Constituição Federal. Ante os precedentes, aciono o disposto nos artigos 544, §§ 3º e 4º, e 557, § 1º-A, do Código de Processo Civil e julgo desde logo o extraordinário para, reformando o acórdão recorrido, denegar a segurança. Sem honorários, a teor do Verbete nº 512 da Súmula do Supremo.
+    5. Publiquem.
+Brasília, 13 de maio de 2013.
+Ministro MARCO AURÉLIO
+Relator
