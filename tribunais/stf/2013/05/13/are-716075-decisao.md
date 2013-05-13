@@ -1,0 +1,28 @@
+DIREITO PREVIDENCIÁRIO. RECURSO EXTRAORDINÁRIO COM AGRAVO. CANCELAMENTO DE BENEFÍCIO. ERRO DA ADMINISTRAÇÃO. IMPOSSIBILIDADE DE RESTITUIÇÃO. SEGURADO DE BOA-FÉ. INEXISTÊNCIA DE REPERCUSSÃO GERAL (AI 841.473 – TEMA: 425). INVIABILIDADE DA INTERPOSIÇÃO DO RECURSO EXTRAORDINÁRIO PELA ALÍNEA “B” DO PREMISSIVO CONSTITUCIONAL. SEGUIMENTO NEGADO.
+1. Não viabiliza a interposição de recurso extraordinário pela alínea b do inc. III do art. 102 da Constituição da República, acórdão que afasta a aplicação de legislação federal com base em sua orientação jurisprudencial.
+2. Ausente a repercussão geral, a hipótese é de negativa de seguimento de recursos que impugnam a mesma questão, conforme prevê o Regimento Interno deste Tribunal.
+3. In casu, a turma recursal federal de origem manteve sentença que reconheceu a ilegalidade da cobrança feita pela Autarquia previdenciária dos valores recebidos pelo segurado, ora agravado, a título de aposentadoria por tempo de serviço proporcional, em virtude da errônea concessão do benefício posteriormente constatada em auditoria interna. Ressalvou, ainda, que a equivocada concessão de aposentadoria por erro exclusivo da Administração Pública e a boa fé do segurado no recebimento do valor do benefício, não geraria dever de devolução das parcelas recebidas a maior.
+4. Conheço do agravo para negar-lhe provimento (arts. 544, § 4º, II, a, do CPC, c/c 21, § 1º, do RISTF).
+    Decisão: Trata-se de agravo nos próprios autos interposto com base no art. 544 do Código de Processo Civil, contra decisão que inadmitiu recurso extraordinário, sob o fundamento de que a alegação de ofensa ao texto constitucional, acaso existente, seria indireta e reflexa.
+    Nas razões recursais, a parte agravante alega desacerto da decisão agravada, contrapondo-se, em síntese, aos argumentos do julgado. Pede, ao fim, o conhecimento do agravo e o provimento do recurso.
+    Na origem, o recurso extraordinário foi manejado com esteio no art. 102, III, a e b, da Constituição da República, em face de acórdão de Turma Recursal de Juizado Especial do Tribunal Regional Federal da 1ª Região, assim ementado, no trecho que guarda pertinência com a matéria:
+    “PREVIDENCIÁRIO. CANCELAMENTO DE BENEFÍCIO. ERRO DA ADMINISTRAÇÃO. RECONHECIMENTO NO CURSO DO PROCESSO. IMPOSSIBILIDADE DE RESTITUIÇÃO. BOA-FÉ DO SEGURADO. RECURSO DESPROVIDO.
+    (...)” (fl. 262).
+    Os embargos de declaração foram desprovidos (fl. 285).
+    Nas razões do recurso extraordinário, o recorrente apresenta preliminar de repercussão geral fundamentada e, no mérito, sustenta violação aos arts. 5º, I, XXXV, XXXVI e LV, 37 e 195, § 5º, da Constituição Federal.
+    Aduz, nesse sentido, que o acórdão impugnado, “impediu a restituição dos valores recebidos indevidamente pela parte autora mesmo estando ciente da cessação da tutela antecipada” (fl. 290).
+    Requer, também, que se reconheça que o Tribunal de origem, de modo implícito, declarou a inconstitucionalidade, pois, “se o julgador entende que a Constituição impede a aplicação da Lei [art. 115 da Lei nº 8.213/91, fala de desconto em parcelas, salvo má-fé] aos casos em que a verba é alimentar, deve fundamentar sua decisão nesse sentido, declarando a inconstitucionalidade parcial sem redução (no caso do CPC) ou a inconstitucionalidade completa ( no caso da Lei nº 8.213/91)” (fl. 297 – destaques no original).
+    É o relatório. Decido.
+    As razões do agravante não prosperam.
+    Com efeito, a turma recursal federal de origem manteve sentença que reconheceu a ilegalidade da cobrança feita pela Autarquia previdenciária dos valores recebidos pelo segurado, ora agravado, a título de aposentadoria por tempo de serviço proporcional, em virtude da errônea concessão do benefício posteriormente constatada em auditoria interna.
+    Ressalvou, ainda, que a equivocada concessão de aposentadoria por erro exclusivo da Administração Pública e a boa fé do segurado no recebimento do valor do benefício, não geraria dever de devolução das parcelas recebidas a maior.
+    Esta Corte, no julgamento do AI nº 841.473, (Rel. Min. Cezar Peluso, DJe de 1º.9.2011), assentou a inexistência de repercussão geral da questão relativa à devolução dos valores recebidos indevidamente pelo segurado da Previdência Social. O julgado restou assim ementado:
+     “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional”.
+    Assim, ausente a repercussão geral, a hipótese é de negativa de seguimento de recursos que impugnam a mesma questão, conforme prevê o Regimento Interno deste Tribunal.
+    Quanto ao mais, embora a instância de origem não tenha examinado a admissibilidade do recurso com base na alínea b do inc. III do art. 102 da Constituição da República, a leitura do acórdão impugnado revela que não houve qualquer declarou de inconstitucionalidade de legislação federal, mas tão-somente o afastamento da sua aplicação ao caso, com base em sua orientação jurisprudencial, o que não viabiliza a interposição do recurso extraordinário sob este fundamento.
+    Ex positis, conheço do agravo para negar-lhe provimento (arts. 544, § 4º, II, a, do CPC, c/c 21, § 1º, do RISTF).
+    Publique-se. Int..
+    Brasília, 13 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
