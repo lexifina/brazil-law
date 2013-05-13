@@ -1,1 +1,0 @@
-Art. 81-A. As regras de distribuição estabelecidas nos arts. 48, 49, e no § 2º do art. 50 desta Lei aplicam-se apenas aos contratos de concessão celebrados até 2 de dezembro de 2012, observado o disposto no art. 50-A.
