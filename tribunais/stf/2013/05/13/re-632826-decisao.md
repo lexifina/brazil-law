@@ -1,0 +1,23 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça do Estado de São Paulo, por meio de decisão de 26.11.2010, que determinou a devolução dos autos para fins do art. 543-B do CPC, uma vez que a controvérsia estaria representada na sistemática da repercussão geral pelo tema 339, cujo processo-paradigma é o AI-QO-RG 791.292, de minha relatoria.
+    Encaminhados os autos ao Tribunal de origem, este determinou a devolução do processo ao STF por entender que, na espécie, a questão decidida pelo acórdão recorrido não foi examinada no AI-QO-RG 791.292 (fl. 440).
+    Após detida análise, verifico que a vinculação ao precedente indicado está equivocada, tendo em vista que a matéria debatida nestes autos é diversa da controvérsia do paradigma citado, motivo pelo qual reconsidero a decisão de fl. 437.
+    No caso, foram interpostos por Maria Luiza Amaral Kfouri e pelo espólio de Luiza Amaral Kfouri recursos extraordinário e especial em face de acórdão do TJSP assim ementado:
+    “Previdência. Integralidade da pensão. Benefício pleiteado em nome de filha solteira e do espólio da mãe. Sentença reformada em parte. 1. Modificada a legislação antes do falecimento da viúva do instituidor da vantagem e não sendo a pretendente inválida, impossível o direito de acrescer ao seu patrimônio a totalidade dos vencimentos. 2. O Espólio da co-favorecida não faz jus a percepção das diferenças atrasadas, diante da natureza pessoal da pensão, devendo ser excluído da relação processual. 3. Regido o encargo pela legislação vigente à época de sua concessão, o ganho devido à interessada remanescente corresponde a 100% da metade e não 75% como estabelecido na legislação estadual. 4. Reexame provido em parte, desprovida a apelação autárquica e prejudicada a dos autores”. (fl. 152)
+    Ambos os recursos não foram admitidos pelo TJSP. Irresignados, os recorrentes interpuseram recursos de agravo perante o Superior Tribunal de Justiça e o Supremo Tribunal Federal.
+    Por meio do acórdão de fls. 336-339, o STJ negou provimento ao agravo. Contra o referido aresto, os interessados interpuseram outro recurso extraordinário, o qual não foi admitido por aquela Corte superior, tendo a decisão de inadmissibilidade transitado em julgado, conforme certidão de fl. 405.
+    No STF, por meio de decisão de fl. 415, o Min. Cezar Peluso deu provimento ao agravo contra a decisão do TJSP que não admitiu o recurso extraordinário e determinou a subida dos autos a esta Corte.
+    Tendo em vista o equívoco na vinculação do recurso ao precedente citado na decisão de fl. 437, passo ao exame do apelo de fls. 181-195.
+    Os recorrentes alegam, em síntese, que o acórdão impugnado viola o art. 5º, XXXVI, da Constituição. Requerem o provimento do recurso extraordinário para que seja reconhecido o direito da filha do de cujus ao recebimento da parcela da pensão que cabia a sua mãe, bem como o direito do espólio desta a receber diferença equivalente a 25% do valor pago a menor no período de 10.7.1985 a 7.7.1996.
+    Decido.
+    Não assiste razão aos recorrentes.
+    Na espécie, o Tribunal de origem, interpretando a legislação local aplicável, mais precisamente a Lei Complementar 180/78, do Estado de São Paulo, julgou prejudicada a apelação interposta pelos recorrentes.
+    Com efeito, para se entender de forma diversa, é imprescindível a revisão da interpretação dada pelo acórdão impugnado à legislação local. É certo, no entanto, que o julgamento de recurso extraordinário não comporta a análise de ofensa a direito local, nos termos da Súmula 280/STF.
+    Nesse sentido, cito os seguintes acórdãos, de ambas as turmas desta Corte:
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE À FILHA SOLTEIRA. NORMAS LOCAIS. IMPOSSIBILIDADE DE EXAME. SÚMULA 280 DESTE SUPREMO TRIBUNAL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO”. (AI-AgR 576.770, Rel. Min. Cármen Lúcia, Primeira Turma, DJ 9.2.2007)
+    “CONSTITUCIONAL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AUSÊNCIA DE INDICAÇÃO DO PERMISSIVO CONSTITUCIONAL AUTORIZADOR DO RE (ART. 321 DO RISTF). EXAME DE LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA STF 280. 1. Impossibilidade de trânsito de recurso extraordinário interposto sem indicação do permissivo constitucional autorizador de sua interposição (art. 102, inciso e alínea). Exigência do art. 321 do RISTF; 2. Agravo regimental improvido”. (AI-AgR 639.777, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.6.2010)
+    Ante o exposto, nego seguimento ao recurso extraordinário de fls. 181-195 (art. 21, § 1º, RISTF).
+    Publique-se. Int..
+    Brasília, 13 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
