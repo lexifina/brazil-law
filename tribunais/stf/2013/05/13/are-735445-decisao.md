@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 1º, III, 5º, V e X, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual aferir a ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula 279/STF (“para simples reexame de prova não cabe recurso extraordinário”). Nesse sentido:
+    “PROCESSUAL CIVIL. CIVIL. DANOS MORAIS. DIVULGAÇÃO DE IMAGEM DA AUTORA AO LADO DE NOTÓRIO CRIMINOSO NA CONDIÇÃO DE SUA NAMORADA. REDUÇÃO DO VALOR DA INDENIZAÇÃO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SÚMULAS 282 E 356/STF. MATÉRIA INFRACONSTITUCIONAL. REEXAME PROBATÓRIO. INTELIGÊNCIA DA SÚMULA N. 279/STF. ALEGAÇÃO DE VIOLAÇÃO AO ART. 5º, X, DA C.F. INOCORRÊNCIA. 1. O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso extraordinário, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo o óbice das Súmulas 282 e 356 do Supremo Tribunal federal. 2. A violação indireta ou reflexa das regras constitucionais não enseja recurso extraordinário. (Precedentes: AI n. 743.775-AgR, Rel. Min. ELLEN GRACIE, 2ª Turma, DJ 3.9.2010; AI 534.118-ED, Rel. Min. CEZAR PELUSO, 1ª Turma, DJ 7.4.2006; RE 250.424-AgR, Rel. Min. ILMAR GALVÃO, 1ª Turma, DJ 2.2.2001 ) 3. A discussão acerca do quantum da indenização por danos morais situa-se no contexto fático-probatório dos autos, demandando o revolvimento da matéria fática, o que é defeso em sede de recurso extraordinário, em face do óbice erigido pela Súmula n. 279 do Supremo Tribunal Federal. 4. Agravo regimental desprovido.” (AI 797.313-AgR/SO, Rel. Min. Luiz Fux, 1ª Turma, DJe 12.5.2011)
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de maio de 2013.
+Ministra Rosa Weber
+Relatora
