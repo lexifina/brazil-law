@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu pela ausência de direito à paridade entre servidores ativos e inativos no caso de a aposentadoria ter sido concedida após a Emenda Constitucional 41/2003, em razão de essa emenda ter extinguido a equiparação mencionada.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, que a Emenda Constitucional 47/2005 assegura a paridade na hipótese citada.
+    A pretensão recursal merece acolhida. A decisão recorrida está em discordância com o entendimento fixado por esta Corte no julgamento do RE 590.260/SP, de minha relatoria, no sentido de que os servidores que ingressaram no serviço público antes da publicação das Emendas Constitucionais 20/1998 e 41/2003 e se aposentaram após a EC 41/2003 possuem o direito à paridade e à integralidade remuneratória, desde que observadas as regras dos arts. 2º e 3º da EC 47/2005. Nesse sentido, transcrevo a ementa daquele julgado:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR PÚBLICO. GRATIFICAÇÃO POR ATIVIDADE DE MAGISTÉRIO, INSTITUÍDA PELA LEI COMPLEMENTAR 977/2005, DO ESTADO DE SÃO PAULO. DIREITO INTERTEMPORAL. PARIDADE REMUNERATÓRIA ENTRE SERVIDORES ATIVOS E INATIVOS QUE INGRESSARAM NO SERVIÇO PÚBLICO ANTES DA EC 41/2003 E SE APOSENTARAM APÓS A REFERIDA EMENDA. POSSIBILIDADE. ARTS. 6º E 7º DA EC 41/2003, E ARTS. 2º E 3º DA EC 47/2005. REGRAS DE TRANSIÇÃO. REPERCUSSÃO GERAL RECONHECIDA. RECURSO PARCIALMENTE PROVIDO.
+    I - Estende-se aos servidores inativos a gratificação extensiva, em caráter genérico, a todos os servidores em atividade, independentemente da natureza da função exercida ou do local onde o serviço é prestado (art. 40, § 8º, da Constituição).
+    II - Os servidores que ingressaram no serviço público antes da EC 41/2003, mas que se aposentaram após a referida emenda, possuem direito à paridade remuneratória e à integralidade no cálculo de seus proventos, desde que observadas as regras de transição especificadas nos arts. 2º e 3º da EC 47/2005.
+    III - Recurso extraordinário parcialmente provido”.
+    Isso posto, conheço do recurso e dou-lhe provimento (CPC, art. 557, § 1º-A) para cassar o acórdão recorrido e determinar ao Juízo de origem que, afastada a conclusão de que o direito à paridade remuneratória restringe-se às pensões e aposentadorias anteriores à EC 41/2003, prossiga no julgamento da causa.
+    Publique-se.
+    Brasília, 14 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
