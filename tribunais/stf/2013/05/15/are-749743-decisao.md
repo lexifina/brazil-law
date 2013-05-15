@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo interposto contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso LV, e 133 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 133 da Constituição Federal carece do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram da referida norma, a qual, também, não foi objeto dos embargos declaratórios opostos pelo recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, a jurisprudência deste Supremo Tribunal Federal é firme no sentido de que afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Por fim, no que se refere ao pedido de substituição do bem penhorado, o inconformismo não prospera, uma vez que a recorrente não indica nas razões do recurso extraordinário qual o dispositivo constitucional teria sido, nesse ponto, violado pelo acórdão recorrido, limitando-se a manifestar sua irresignação contra o julgado. Assim, mostra-se inviável o apelo extremo. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL. FALTA DE INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL TIDO POR VIOLADO. Não se conhece de recurso extraordinário no qual não se aponta o dispositivo constitucional tido por violado. Agravo regimental a que se nega provimento” (AI nº 603.864/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/2/07).
+    “CONSTITUCIONAL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO EXTRAORDINÁRIO. QUESTÃO CONSTITUCIONAL: NÃO-INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. I. - Inatacados os fundamentos da decisão agravada, torna-se inviável o recurso. Precedentes. II. - O recurso extraordinário é inviável se a questão constitucional não é posta com clareza, com a indicação expressa das normas constitucionais que se dizem ofendidas. III. - Agravo não provido” (AI nº 527.232/SP-AgR, Segunda Turma, Relator o Ministro Carlos Velloso, DJ de 23/8/05).
+    Ante o exposto, conheço do agravo e nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 15 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
