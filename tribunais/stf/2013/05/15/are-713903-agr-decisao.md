@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo regimental interposto contra decisão (eDOC 5) que determinou a devolução dos autos à origem para que fosse observado o disposto no art. 543-B do CPC, por entender que os assuntos versados no recurso extraordinário correspondiam aos temas 171 e 343 da sistemática da repercussão geral, cujos paradigmas são, respectivamente, o RE-RG 594.996, Rel. Min. Eros Grau, DJe 7.8.2009 e o RE-RG 608.872, Rel. Min. Dias Toffoli, DJe 1.8.2011.
+    No agravo regimental, sustenta-se, em síntese, que os recursos-paradigma referem-se a hipóteses diversas da discutida nos autos.
+    Inicialmente, reconsidero a decisão eDOC 5, e, consequentemente, julgo prejudicado o agravo regimental eDOC 1, tendo em vista que os assuntos versados nos recursos-paradigma indicados, referem-se a matérias diversas da discutida nos autos.
+    Passo à análise do recurso.
+    Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais, ementado nos seguintes termos:
+    “REEXAME NECESSÁRIO. APELAÇÃO. MANDADO DE SEGURAÇA. ICMS. IMPORTAÇÃO. EQUIPAMENTOS MÉDICO-HOSPITALARES. ENTIDADE BENEFICENTE SEM FINS LUCRATIVOS. IMUNIDADE PREVISTA NO ARTIGO 150, VI, ‘C’, DA CONSTITUIÇÃO FEDERAL. MANUTENÇÃO DA CONCESSÃO DA SEGURANÇA. - Consoante orientação da jurisprudência emanada do Colendo Supremo Tribunal Federal par fins da imunidade tributária, prevista no artigo 150, VI, ‘c’, da Constituição da República, cumpre perquirir-se o bem adquirido integra o patrimônio da entidade abrangida pela imunidade. - Demonstrado de plano que o impetrante se trata de entidade beneficente, sem fins lucrativos, voltada ao trabalho de assistência social, descabe a incidência do ICMS sobre a importação de equipamento médico-hospitalar, nos termos do artigo 150, VI, ‘c’, da CF/88”. (eDOC 3, p. 26)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 155, § 2º, IX, “a”, do texto constitucional.
+    O recorrente alega que a Constituição Federal determina a incidência do ICMS na importação de mercadoria por pessoa física ou jurídica, em qualquer que seja a finalidade, ainda que não seja contribuinte habitual do imposto.
+    Decido.
+    As razões recursais não merecem acolhida.
+    Com efeito, o acórdão recorrido está consonância com a jurisprudência desta Corte que se firmou no sentido de que as entidades de assistência social, sem fins lucrativos, são imunes à tributação do ICMS em caso de importação de bens relacionados com suas finalidades essenciais, tendo em vista o art. 150, VI, “c”, da Constituição Federal.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO”. (AI-AgR 785.459, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe 19.12.2011)
+    “Agravo regimental no agravo de instrumento. ICMS. Imunidade. Importação. Precedentes. Repercussão geral presumida. 1. É pacífico o entendimento desta Corte no sentido de que a imunidade tributária consignada no art. 150, inciso VI, alínea “c”, da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços (ICMS) incidente na importação de bens utilizados na prestação de serviços específicos das entidades de assistência social sem fins lucrativos. 2. Caso de repercussão geral presumida, conforme disposto no art. 543-A, § 3º, do Código de Processo Civil. 3. Agravo regimental não provido”. (AI-AgR 776.205, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe 10.11.2011)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (Art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 15 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
