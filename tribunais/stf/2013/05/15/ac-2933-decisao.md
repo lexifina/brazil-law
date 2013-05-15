@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de “medida cautelar incidental”, com pedido de provimento liminar, promovida pelo Estado de São Paulo com o objetivo de conferir eficácia suspensiva a recurso extraordinário por ela interposto.
+    O eminente Ministro CEZAR PELUSO, durante o período de recesso forense (27/07/2011), no exercício da Presidência desta Suprema Corte, indeferiu o pedido de medida liminar.
+    Observo que, em consulta aos registros processuais constantes na página oficial que o E. Tribunal de Justiça do Estado de São Paulo mantém na “Internet”, constatei que a Presidência do Tribunal local ordenou o sobrestamento do agravo interposto no apelo extremo em questão, em razão de esta Suprema Corte haver reconhecido a existência de repercussão geral da controvérsia constitucional veiculada em tal recurso.
+    Cabe verificar, preliminarmente, se se revela viável, ou não, na espécie, a pretendida outorga de efeito suspensivo a recurso extraordinário cujo processamento, considerado o contexto ora em exame, foi sobrestado por efeito do que dispõe o art. 543-B, § 1º, do CPC, na redação dada pela Lei nº 11.418/2006.
+    Entendo que não, pois a jurisprudência do Supremo Tribunal Federal, em situações como a de que ora se trata, tem assinalado que, havendo sido reconhecida a existência de repercussão geral, é do Tribunal recorrido (por intermédio de sua Presidência) – e não desta Suprema Corte – a competência para apreciar a postulação cautelar, não cabendo, ainda, ao STF, quando a tanto provocado, determinar o processamento do recurso extraordinário sobrestado na origem, em ordem a que, admitido, possa, então, legitimar-se a instauração da jurisdição cautelar deste Tribunal (AC 2.569-AgR/RS, Rel. Min. CÁRMEN LÚCIA – AC 2.867/SP, Rel. Min. RICARDO LEWANDOWSKI - AC 2.883/PR, Rel. Min. DIAS TOFFOLI – AC 2.888/RS, Rel. Min. DIAS TOFFOLI, v.g.):
+    “QUESTÃO DE ORDEM. AÇÃO CAUTELAR. RECURSO EXTRAORDINÁRIO. PEDIDO DE CONCESSÃO DE EFEITO SUSPENSIVO E O SOBRESTAMENTO, NA ORIGEM, EM FACE DO RECONHECIMENTO DE REPERCUSSÃO GERAL PELO SUPREMO TRIBUNAL FEDERAL. ARTIGOS 543-B, § 1º, DO CPC, E 328-A, DO RISTF. SÚMULAS STF 634 E 635. JURISDIÇÃO CAUTELAR QUE DEVE SER PRESTADA PELOS TRIBUNAIS E TURMAS RECURSAIS ‘A QUO’, INCLUSIVE QUANTO AOS RECURSOS ADMITIDOS, PORÉM SOBRESTADOS NA ORIGEM.
+    1. Para a concessão do excepcional efeito suspensivo a recurso extraordinário, é necessário o juízo positivo de sua admissibilidade no tribunal de origem, a sua viabilidade processual pela presença dos pressupostos extrínsecos e intrínsecos, a plausibilidade jurídica da pretensão de direito material nele deduzida e a comprovação da urgência da pretensão cautelar. Precedentes.
+    2. Para os recursos anteriores à aplicação do regime da repercussão geral ou para aqueles que tratem de matéria cuja repercussão geral ainda não foi examinada, a jurisdição cautelar deste Supremo Tribunal somente estará firmada com a admissão do recurso extraordinário ou, em caso de juízo negativo de admissibilidade, com o provimento do agravo de instrumento, não sendo suficiente a sua simples interposição. Precedentes.
+    3. Compete ao tribunal de origem apreciar ações cautelares, ainda que o recurso extraordinário já tenha obtido o primeiro juízo positivo de admissibilidade, quando o apelo extremo estiver sobrestado em face do reconhecimento da existência de repercussão geral da matéria constitucional nele tratada.
+    4. Questão de ordem resolvida com a declaração da incompetência desta Suprema Corte para a apreciação da ação cautelar que busca a concessão de efeito suspensivo a recurso extraordinário sobrestado na origem, em face do reconhecimento da existência da repercussão geral da questão constitucional nele discutida.”
+    (AC 2.177-MC-QO/PE, Rel. Min. ELLEN GRACIE, Pleno – grifei)
+    “RECURSO Extraordinário. Repercussão geral reconhecida sobre a matéria. Sobrestamento na origem. Subida dos autos. Ação cautelar para esse fim não conhecida. Competência do tribunal local. Agravo improvido. Precedentes. O Supremo não tem competência para determinar subida de recurso extraordinário sobrestado na origem em virtude do reconhecimento de repercussão geral sobre a questão que constitui seu objeto.”
+    (AC 2.414-AgR/SP, Rel. Min. CEZAR PELUSO – grifei)
+    “PROCESSUAL. IMEDIATO PROCESSAMENTO A RECURSO EXTRAORDINÁRIO SOBRESTADO EM VIRTUDE DE REPERCUSSÃO GERAL. ALEGADA INEXISTÊNCIA DE PERTINÊNCIA TEMÁTICA ENTRE O RE SOBRESTADO E O ESCOLHIDO COMO REPERCUSSÃO GERAL. INCOMPETÊNCIA DESSA CORTE PARA A CONCESSÃO DO QUANTO PLEITEADO.
+    I - É pacífica a jurisprudência desta Corte de que a sua competência para dar prosseguimento a RE sobrestado apenas se instaura após o juízo de admissibilidade pelo Tribunal ‘a quo’.
+    II - Existindo a repercussão geral, a competência para definir o recurso representativo da controvérsia e para sobrestar os demais recursos é do tribunal de origem.
+    III - Incompetência da Corte para determinar o prosseguimento do recurso.
+    IV - Precedentes.
+    V - RE desprovido.”
+    (AC 2.124-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI – grifei)
+    Sendo assim, em face dos aspectos de ordem processual ora invocados, nego seguimento à presente “medida cautelar incidental”.
+    Arquivem-se os presentes autos.
+    Publique-se.
+    Brasília, 15 de maio de 2013.
+Ministro CELSO DE MELLO
+Relator
