@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO – COISA JULGADA - EXISTÊNCIA - EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO - MEDIDA QUE SE IMPÕE - RECURSO IMPROVIDO”. (eDOC 5, p. 58)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 5º, XXXV e XXXVI; e 93, IX, do texto constitucional.
+    Nas razões recursais, sustenta-se ausência de prestação jurisdicional e afronta ao princípio da coisa julgada.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação aos artigos 5º, XXXV, e 93, IX, da Constituição Federal.
+     Saliento, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+     Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Além disso, esta Corte consignou o entendimento de que a controvérsia referente aos limites da coisa julgada é uma discussão de índole infraconstitucional que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existente, dar-se-ia de forma indireta ou reflexa. Nesse sentido, cito o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1º.4.2011, e o AI-AgR 788.564, Rel. Min. Eros Grau, Segunda Turma, DJe 28.5.201, este último com acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. ERRO MATERIAL. CORREÇÃO DE OFÍCIO. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUICONAL. OFENSA REFLEXA. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. O Supremo Tribunal Federal fixou entendimento no sentido de que cabe ao juízo da execução a interpretação de sua própria declaração sobre os honorários advocatícios quando verificado erro material sem que tal interpretação seja considerada ofensa à coisa julgada. Precedente. Agravo regimental a que se nega provimento”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
