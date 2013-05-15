@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1360, de 14 de maio de 2013
+Altera a Instrução Normativa nº 1.339, de 28 de março de 2013, que aprova o aplicativo m-IRPF, que permite a apresentação, por meio de dispositivos móveis, da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física referente ao exercício de 2013, ano-calendário de 2012.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no caput do art. 7º e nos arts. 10, 14 e 25 da Lei nº 9.250, de 26 de dezembro de 1995, e no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, resolve:
