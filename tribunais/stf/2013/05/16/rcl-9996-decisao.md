@@ -1,0 +1,36 @@
+Trata-se de reclamação, com pedido de medida liminar, proposta pela Defensoria Pública do Estado de São Paulo, em favor de LUIZ CARLOS TEODORO DOS SANTOS, contra acórdão do Tribunal de Justiça daquele Estado proferido no HC 990.09.229340-0, que teria descumprido o enunciado da Súmula Vinculante 26 desta Corte.
+    A inicial narra que o reeducando foi condenado ao cumprimento de reprimenda em regime integralmente fechado, nos termos do art. 2º, § 1º, da Lei 8.072/1990, antes da publicação da Lei 11.464/2007.
+    A reclamante afirma que, “ante notória inconstitucionalidade do § 1º, art. 2º, da Lei 8.072/1990”, LUIZ CARLOS TEODORO DOS SANTOS postulou progressão de regime penal ao Juízo de Direito das Execuções Criminais da Comarca de Marília/SP, alegando que preenchia os requisitos objetivos e subjetivos necessários para a concessão do benefício.
+    Diz que, no entanto, seu pleito foi indeferido ao argumento de que a Lei 11.464/2007, que alterou os §§ 1º e 2º da Lei 8.072/1990, deve ser aplicada retroativamente, de modo que o requerente ainda não teria cumprido o novo lapso temporal de pena fixado por aquela norma.
+    Informa, também, que, alegando violação do art. 5º, XXXIX, XL e XLVI, da Constituição Federal, bem como da jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça sobre a matéria, a defesa manejou habeas corpus no Tribunal de Justiça do Estado de São Paulo, que denegou a ordem.
+    É contra essa decisão que se insurge a reclamante.
+    Alega, em síntese, que o TJSP aplicou indevidamente a Lei 11.464/2007, que, no caso, por se tratar de lex gravior, não poderia retroagir para alcançar o apenado, com direito à progressão de regime após o cumprimento de 1/6 da reprimenda, e não de 2/5 como exigido pela nova legislação.
+    Entende, desse modo, que houve violação à Súmula Vinculante 26 desta Suprema Corte.
+    Requer, ao final, liminarmente, o afastamento da incidência retroativa do art. 2º, §§ 1º e 2º, da Lei 8.072/1990 com a redação dada pela Lei 11.464/2007, nos termos da Súmula Vinculante 26, permitindo a aplicação do art. 112 da Lei de Execuções Penais.
+    Em 9/4/2010, indeferi o pedido de liminar e, por estar a reclamação devidamente instruída com cópia do ato reclamado e sendo a questão meramente de direito, determinei fosse ouvido o Procurador-Geral da República.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques e aprovado pelo Procurador-Geral Roberto Monteiro Gurgel Santos, manifestou-se pelo não conhecimento do pedido.
+    É o relatório suficiente. Decido.
+    Bem examinados os autos, entendo que esta reclamação não pode ser conhecida.
+    Inicialmente, registro que a reclamação tem previsão constitucional para a preservação da competência do Supremo Tribunal Federal e a garantia da autoridade de suas decisões (art. 102, I, l, da CF) ou, ainda, quando o ato administrativo ou decisão judicial contrariar súmula vinculante aplicável ou indevidamente aplicada (art. 103-A, § 3º, da CF, incluído pela EC 45/2004).
+    Entretanto, observo que o acórdão ora questionado foi proferido em 26/11/2009 e a Súmula Vinculante 26 foi publicada em 26/2/2010. Ou seja, o ato atacado deu-se em momento anterior à edição da súmula vinculante tida como violada, o que impede o conhecimento desta ação, nos termos da reiterada jurisprudência desta Corte. Vejam-se, a propósito, os seguintes julgados:
+    “RECLAMAÇÃO. Inadmissibilidade. Alegação de ofensa à súmula vinculante nº 10. Decisão anterior à edição desta. Seguimento negado. Agravo improvido. Não cabe reclamação por ofensa a súmula vinculante editada após a decisão impugnada” (Rcl 8.846-AgR/SP, Rel. Min. Cezar Peluso – grifos meus).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. ALEGAÇÃO DE DESRESPEITO À SÚMULA VINCULANTE DO STF. DECISÃO RECLAMADA PROFERIDA EM DATA ANTERIOR À EDIÇÃO DA SÚMULA VINCULANTE. AUSÊNCIA DO INTERESSE DE AGIR. DECLARAÇÃO INCIDENTAL DE INCONSTITUCIONALIDADE. AÇÃO CIVIL PÚBLICA. USURPAÇÃO DA COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. IMPROCEDÊNCIA.
+    1. Inexiste ofensa à autoridade de Súmula Vinculante quando o ato de que se reclama é anterior à decisão emanada da Corte Suprema.
+    2. Não usurpa a competência do Supremo Tribunal Federal a declaração incidental de inconstitucionalidade proferida por juiz em ação civil pública. Precedentes. Agravo regimental a que se nega provimento” (Rcl 6.449-AgR/RS, Rel. Min. Eros Grau – grifos meus).
+    Não bastasse isso, o enunciado da Súmula Vinculante 26 não tem qualquer identidade temática com a questão submetida a exame nesta reclamação. O seu verbete foi assim redigido:
+    “PARA EFEITO DE PROGRESSÃO DE REGIME NO CUMPRIMENTO DE PENA POR CRIME HEDIONDO, OU EQUIPARADO, O JUÍZO DA EXECUÇÃO OBSERVARÁ A INCONSTITUCIONALIDADE DO ART. 2º DA LEI N. 8.072, DE 25 DE JULHO DE 1990, SEM PREJUÍZO DE AVALIAR SE O CONDENADO PREENCHE, OU NÃO, OS REQUISITOS OBJETIVOS E SUBJETIVOS DO BENEFÍCIO, PODENDO DETERMINAR, PARA TAL FIM, DE MODO FUNDAMENTADO, A REALIZAÇÃO DE EXAME CRIMINOLÓGICO”.
+    Assim, ainda que superado o óbice relativo ao conhecimento, não haveria qualquer afronta ao enunciado sumular vinculante mencionado pela reclamante.
+    Por outro lado, o caso seria de concessão de habeas corpus de ofício, uma vez que a reclamante tem razão quando afirma que a nova regra imposta pela Lei 11.464/2007 não pode ser aplicada retroativamente para prejudicar o apenado, pois, ao contrário do que foi afirmado no acórdão ora atacado, trata-se de lei penal mais grave.
+    Com efeito, no julgamento do HC 93.669/SP, da minha relatoria, reafirmei a jurisprudência desta Corte no sentido da irretroatividade da Lei 11.464/2007, no que se refere à fixação de cumprimento de 2/5 a 3/5 da pena aplicada para progressão de regime em virtude da prática de crime hediondo.
+    Eis a ementa desse julgado:
+    “PENAL. PROCESSUAL PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME. LEI 11.464/07. IRRETROATIVIDADE DE LEI PENAL MAIS GRAVOSA. CONTAGEM DE PRAZO PARA O BENEFÍCIO. ART. 112 DA LEP. ORDEM CONCEDIDA DE OFÍCIO.
+    I - Em matéria de progressão de regime em delito considerado como hediondo, cometido anteriormente à entrada em vigor da Lei 11.464/07, deve prevalecer o entendimento da inconstitucionalidade do então vigente art. 2º, § 1º, da Lei 8.072/90, conforme precedente desta Corte.
+    II - Para evitar-se a retroatividade da lei mais gravosa, o prazo a ser considerado é o do art. 112, original da LEP.
+    III - Determinação ao Juízo da Vara das Execuções para que aprecie a possibilidade de concessão da progressão pleiteada, à vista dos requisitos objetivos e subjetivos.
+    IV - Ordem concedida de ofício“.
+    Todavia, em contato telefônico com a 2ª Vara das Execuções Criminais da Comarca de Ribeirão Preto/SP, atualmente o juízo responsável pelo processo executório do interessado, obtive a informação de que o condenado encontra-se em livramento condicional desde 10/3/2011. Veja-se, a propósito, cópia da decisão proferida pelo Juízo da 2ª Vara das Execuções Criminais da Comarca de Bauru/SP em 26/2/2011, recebida nesta Corte em 10/5/2013, por meio de fax (Petição 22072/2013 - STF).
+    Ante o exposto, nego seguimento a esta reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
