@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, O Instituto Nacional do Seguro Social – INSS. Aparelhado o recurso na violação do art. 109, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    A matéria constitucional versada no recurso extraordinário, referente à suposta contrariedade ao art. 109, I, da Constituição Federal, carece do necessário prequestionamento, porquanto não foi devidamente analisada pelas instâncias ordinárias, tendo sido ventilada apenas nos embargos de declaração – opostos contra o acórdão regional –, a evidenciar o seu caráter inovatório. Incide, na espécie, o óbice da Súmula 282/STF: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+    Saliento que os embargos de declaração opostos contra o acórdão regional não se revelam meio apto a ventilar questão inovatória, consoante se denota dos seguintes julgados:
+    “Para que haja o prequestionamento da questão constitucional com base na súmula 356, é preciso que o acórdão embargado de declaração tenha sido omisso quanto a ela, o que implica dizer que é preciso que essa questão tenha sido invocada no recurso que deu margem ao acórdão embargado e que este, apesar dessa invocação, se tenha omitido a respeito dela. No caso, não houve omissão do aresto embargado quanto às questões concernentes aos incisos XXIII e XXX do artigo 5º da Carta Magna, sendo elas invocadas originariamente nos embargos de declaração, o que, como salientou o despacho agravado, não é bastante para o seu prequestionamento. Agravo a que se nega provimento” (AI 265.938-AgR, Rel. Min. Moreira Alves, Primeira Turma, DJ 15.9.2000).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA CONSTITUCIONAL. INCIDÊNCIA DA SÚMULA 282 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O cumprimento do requisito do prequestionamento dá-se quando oportunamente suscitada a matéria constitucional, o que ocorre em momento processualmente adequado, nos termos da legislação vigente. A inovação da matéria em sede de embargos de declaração é juridicamente inaceitável para os fins de comprovação de prequestionamento. Precedentes. 2. A jurisprudência do Supremo Tribunal Federal firmou-se no sentido de que, ainda que a questão verse sobre matéria de ordem pública, é necessário o prequestionamento” (RE 593.505-AgR, Rel. Min. Cármen Lúcia, DJe 13.11.2009).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de maio de 2013.
+Ministra Rosa Weber
+Relatora
