@@ -16,6 +16,7 @@ Seção VII
 Das garantias
 CAPÍTULO II
 Da Alienação Fiduciária de Coisa Imóvel
+CAPÍTULO II-A
 DO REFINANCIAMENTO COM
 TRANSFERÊNCIA DE CREDOR
 CAPÍTULO III

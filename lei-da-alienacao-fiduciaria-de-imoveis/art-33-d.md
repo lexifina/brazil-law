@@ -1,0 +1,3 @@
+Art. 33-D. A instituição credora original poderá exigir ressarcimento financeiro pelo custo de originação da operação de crédito, o qual não poderá ser repassado ao mutuário.
+§ 1º O ressarcimento disposto no caput deverá ser proporcional ao valor do saldo devedor apurado à época da transferência e decrescente com o decurso de prazo desde a assinatura do contrato, cabendo sua liquidação à instituição proponente da transferência.
+§ 2º O Conselho Monetário Nacional disciplinará o disposto neste artigo, podendo inclusive limitar o ressarcimento considerando o tipo de operação de crédito ou o prazo decorrido desde a assinatura do contrato de crédito com a instituição credora original até o momento da transferência.
