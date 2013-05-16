@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que negou provimento aos embargos infringentes e manteve a sentença por seus fundamentos.
+    No apelo extremo, interposto com fundamento no artigo 102, III, “d”, da Constituição Federal, aponta-se violação à súmula 640 desta Corte.
+    Nas razões recursais, sustenta-se, em síntese, que o recorrente está isento da incidência do ICMS, por força da decisão proferida na ação declaratória nº 577/89.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Não assiste razão ao recorrente.
+    A jurisprudência do Supremo Tribunal Federal é no sentido de que a controvérsia referente aos limites objetivos da coisa julgada é uma discussão de índole infraconstitucional , que não enseja abertura da via extraordinária, pois ofensa à Constituição Federal, se existisse, dar-se-ia de forma indireta ou reflexa.
+    Nesse sentido, o AI-AgR 794.857, de minha relatoria, DJe 14.3.2011; o ARE-AgR 657.316, Rel. Min. Luiz Fux, Primeira Turma, DJe 16.3.2012, e o AI 601.325, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 17.8.2007, cuja ementa dispõe:
+    CONSTITUCIONAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. DECISÃO BASEADA NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. limites DA coisa julgada. OFENSA REFLEXA. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Incidência da Súmula 280 desta Corte. II - esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. III - Agravo regimental improvido.
+    Além disso, o entendimento desta Corte firmou-se no sentido de que a afronta aos princípios constitucionais do contraditório, da ampla defesa, do devido processo legal, se dependente de reexame prévio de normas infraconstitucionais ,configura ofensa meramente reflexa ao texto constitucional, o que inviabiliza o prosseguimento do recurso extraordinário. Cito, a propósito, os seguintes precedentes: RE-AgR 356.209, Rel. Min. Ellen Gracie, Segunda Turma, DJe 25.3.2011; e o AI-AgR 618.795, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 1.4.2011.
+    Ainda que assim não fosse, ressalto que no presente recurso, as razões recursais estão dissociadas dos fundamentos da decisão recorrida, o que caracteriza a deficiência na fundamentação do recurso. Incide, na hipótese, a Súmula 284 do Supremo Tribunal Federal. Nesse sentido, ARE-AgR 646.556, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 4.10.2011:
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. RECURSO DE REVISTA NÃO CONHECIDO PELO TRIBUNAL SUPERIOR DO TRABALHO. PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DE CORTES DIVERSAS. MATÉRIA CIRCUNSCRITA AO ÂMBITO INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. AGRAVO IMPROVIDO. I - As razões do agravo regimental não atacaram os fundamentos da decisão recorrida. Incidência da Súmula 284 do STF. II - Os Ministros desta Corte, no RE 598.365-RG/MG, Rel. Min. Ayres Britto, manifestaram-se pela inexistência de repercussão geral do tema constitucional versado nos presentes autos - pressupostos de admissibilidade de recursos de Cortes diversas - ante a natureza infraconstitucional do tema, decisão que vale para todos os recursos sobre matéria idêntica. III - Agravo regimental improvido. (grifei)
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se. Int..
+    Brasília, 16 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
