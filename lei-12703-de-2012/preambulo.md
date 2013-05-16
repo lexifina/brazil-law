@@ -1,0 +1,2 @@
+Altera o art. 12 da Lei nº 8.177, de 1º de março de 1991, que estabelece regras para a desindexação da economia e dá outras providências, o art. 25 da Lei nº 9.514, de 20 de novembro de 1997, que dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação fiduciária de coisa imóvel e dá outras providências, e o inciso II do art. 167 da Lei nº 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos e dá outras providências.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
