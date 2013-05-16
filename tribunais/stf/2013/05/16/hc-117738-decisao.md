@@ -1,0 +1,17 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida liminar, impetrado em favor de Fernando Ribeiro de Brito e de Marcelo da Silva contra decisão da Min. Alderita Ramos de Oliveira (Desembargadora convocada do TJ/PE), do Superior Tribunal de Justiça, que indeferiu o pedido de liminar no HC 266.958/SP.
+    Sustentam os impetrantes, em síntese, que (a) o TJ/SP anulou a sentença que condenara os pacientes pela prática do delito previsto no art. 157, § 2º, I e II, do CP, em razão de cerceamento de defesa; (b) todavia, o referido tribunal manteve a custódia cautelar, perfazendo mais de 1 (um) ano e 07 (sete) meses de cárcere, sem qualquer perspectiva de quando será proferida nova sentença pelo magistrado de primeiro grau; (c) há, portanto, excesso de prazo para a formação da culpa dos pacientes, sem que tal fato possa ser atribuído à defesa. Requer a concessão de liminar para que os pacientes sejam postos imediatamente em liberdade.
+    2. De acordo com a Súmula 691 do STF, “não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância”. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012). No caso, a decisão atacada possui o seguinte teor:
+    (…)
+    Não merece acolhida o pedido liminarmente formulado.
+    Cumpre ressaltar, inicialmente, que a concessão de medida liminar, em sede de habeas corpus, é medida que se reveste de caráter excepcional, admitida, assim, tão-somente quando estiver configurado manifesto constrangimento ilegal ou abuso de poder a cercear a liberdade de locomoção do paciente, o que não se verifica no caso sob exame.
+    Outrossim, resulta evidente que a medida liminarmente pleiteada, no caso em espécie, confunde-se com o mérito da impetração, revelando, assim, seu caráter satisfativo, o que demonstra, mais uma vez, ser apropriada a análise da questão em tempo oportuno.
+    Por tais razões, INDEFIRO o pedido de liminar.
+    Pleiteada sua reconsideração, a Min. Relatora registrou que “o critério temporal, por si só, não é suficiente para reconsideração das razões decididas, bem como, permanece nítida a necessidade de um exame minudenciado dos autos para o julgamento definitivo da demanda”. Registre-se, ainda, que, segundo a jurisprudência desta Corte, o decurso temporal, por si só, não é suficiente para caracterizar o excesso de prazo da prisão preventiva, devendo também ser sopesada, para tal finalidade, a complexidade da causa e as circunstâncias do processo. Nesse sentido: HC 108.010/PE, 2ª T., Min. Cármen Lúcia, DJe de 17.04.2013; HC 95.977/SP, 1ª T., Red. p/ acórdão Min. Luiz Fux, DJe de 12.12.2012.
+    A hipótese dos autos, portanto, não se caracteriza por qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Diante do exposto, nego seguimento ao pedido de habeas corpus (RISTF, art. 21, § 1º).
+    Publique-se. Intime-se.
+    Brasília, 16 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
