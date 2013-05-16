@@ -1,0 +1,3 @@
+LEI Nº 12.337, DE 12 DE NOVEMBRO DE 2010
+Altera o Anexo I da Lei nº 11.440, de 29 de dezembro de 2006, para modificar a divisão por níveis da Carreira de Diplomata, extingue cargos de Assistente de Chancelaria e autoriza a prorrogação de contratos por tempo determinado.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 493, de 2010, que o Congresso Nacional aprovou, e eu, José Sarney, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32, combinado com o art. 12 da Resolução nº 1, de 2002-CN, promulgo a seguinte Lei:
