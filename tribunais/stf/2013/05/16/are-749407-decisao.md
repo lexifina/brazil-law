@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Regional Federal da 5ª Região que, em embargos à execução, no que importa ao presente recurso, decidiu que, na fase de conhecimento, não foram excluídos da condenação os valores devidos a título de horas extraordinárias relativas a período do ano de 1998.
+    No recurso extraordinário, a recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos seguintes dispositivos da Constituição Federal: (a) art. 5º, XXXVI, asseverando, em suma, que o acórdão recorrido deixou de observar decisão anterior em que estabelecidos “os critérios a serem observados na execução do julgado” (fl. 212), o que não foi, na ocasião, impugnado pelos recorridos; e (b) art. 93, IX, pois o Tribunal de origem não apresentou as razões pelas quais deixou de aplicar o disposto no art. 183 do CPC.
+    2. No que toca à alegação de ofensa ao art. 93, IX, da Constituição Federal, deve ser observado no caso entendimento assentado por esta Corte no julgamento do AI 791.292 QO - RG (Min. Rel. GILMAR MENDES, DJe de 13/8/2010) – do qual não divergiu o acórdão recorrido –, cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que:
+     (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. Quanto ao restante, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, .DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 16 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
