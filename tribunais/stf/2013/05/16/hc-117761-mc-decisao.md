@@ -1,0 +1,33 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública do Estado de São Paulo, em favor de GILVAN CONSELHO DE JESUS, contra decisão da Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), que indeferiu liminarmente o HC 267.745/SP do Superior Tribunal de Justiça.
+    A impetrante, narra, de início, que o paciente, que não ostenta nenhum antecedente criminal, foi preso em flagrante em 10/3/2013, em razão da tentativa de furto de um saco de cimento avaliado em R$ 25,00 (vinte e cinco reais), em concurso de agentes e com rompimento de obstáculo.
+    Aduz, mais, que a prisão foi comunicada ao juízo, que, em 15/3/2013, convolou a prisão em flagrante em custódia preventiva, com fundamento no art. 310, II, combinado com o art. 313, parágrafo único, ambos do Código de Processo Penal, diante da dúvida a respeito da identidade civil do paciente, que não portava nenhum documento de identificação no momento do flagrante.
+    Noticia, em seguida, que o juízo processante concedeu liberdade provisória ao corréu em 18/3/2013, sob o entendimento de que não havia previsão de cumprimento de pena privativa de liberdade em concreto e porque o acusado apresentou sua cédula de identidade. Todavia, o paciente, por não ter apresentado o referido documento de identificação, não foi igualmente beneficiado.
+    Informa, também, que o magistrado determinou que o paciente deveria aguardar preso o confronto de suas impressões papilares, colhidas por ocasião da lavratura do auto de prisão em flagrante delito, com as armazenadas no Instituto de Identificação.
+    Irresignada, a defesa impetrou habeas corpus no TJSP, mas a liminar foi indeferida, o que deu ensejo a nova impetração, desta vez no Superior Tribunal de Justiça. Entretanto, a Ministra Relatora indeferiu liminarmente a ordem.
+    É contra essa última decisão que se insurge a impetrante.
+    Sustenta, em síntese, a teratologia da decisão questionada, em face do “absurdo que é a manutenção de alguém que tem passado criminal imaculado preso por uma tentativa de furto insignificante, antes mesmo da prolação da sentença condenatória”.
+    Anota, adiante, que a conduta imputada ao paciente é insignificante e, portanto, atípica, uma vez que “a subtração de um saco de cimento, no valor de R$ 25,00 (vinte e cinco reais), não atinge o patrimônio de ninguém, não tem o condão de enriquecer nem empobrecer quem quer que seja”.
+    Entende, ademais, que a tentativa de furto de um saco de cimento, em função da falta de razoabilidade, não deveria dar ensejo a toda uma atividade de persecução penal.
+    Assevera, ainda, que o fundamento para o indeferimento da liberdade provisória – a ausência de apresentação do documento de identidade – é inadequado, pois o paciente, quando instado, forneceu à polícia seus dados qualificativos, que são compatíveis com a certidão de nascimento apresentada em juízo.
+    Salienta, nesse contexto, que não é razoável mantê-lo preso enquanto não são confrontadas suas impressões digitais com as constantes no Instituto de Identificação, pois o paciente não pode responder pela lentidão e burocracia da máquina estatal. Ressalta que, embora o paciente esteja preso há mais de dois meses, não há notícia do procedimento de legitimação de sua identidade.
+    Requer, ao final, o deferimento de medida liminar, para determinar a imediata soltura do paciente e o sobrestamento da persecução criminal até o julgamento final deste writ.
+    No mérito, pede a concessão da ordem para trancar o inquérito policial ou a ação penal, caso já tenha sido instaurada, em face da atipicidade material dos fatos.
+    É o relatório suficiente. Decido.
+    Como tenho reiteradamente decidido, a superação da Súmula 691 do STF constitui medida excepcional, que somente se legitima quando a decisão atacada se mostra teratológica, flagrantemente ilegal ou abusiva.
+    No caso sob exame, verifico que a situação é excepcional, apta a superar o entendimento sumular, diante do aparente constrangimento ilegal ao qual está submetido o paciente.
+    Passo, então, ao exame da cautelar requerida.
+    A concessão de medida liminar se dá em casos excepcionais, nos quais se verifique, de plano, o fumus boni iuris e o periculum in mora.
+    Na análise que se faz possível nesta fase processual, entendo estarem presentes os requisitos para a concessão da liminar.
+    De fato, a alegação de que o paciente não pode responder pela morosidade e burocracia do aparelhamento estatal merece acolhida, tendo em vista o tempo decorrido desde sua prisão em flagrante – dois meses – sem que o procedimento de legitimação de sua identidade tenha sido concluído.
+    Ademais, conforme dispõe o art. 282 do Código de Processo Penal, as medidas cautelares deverão ser aplicadas com a observância do binômio necessidade/adequação, o qual não me parece estar presente, no caso sob exame.
+    Se num primeiro momento entendeu-se pela necessidade e adequação da custódia para que se providenciasse a identificação do paciente, passados dois meses sem que o Estado fosse capaz de comparar as impressões digitais colhidas com as constantes do banco de dados, a medida deixa de ser adequada, pois impõe-se ao acusado a restrição à sua liberdade sem que dessa medida advenha o resultado prático esperado – a confirmação de sua identidade -, que ainda não foi alcançado apenas e tão somente pela ineficiência do aparelho estatal.
+    Evidente, de outro lado, a presença do periculum in mora ante a concreta possibilidade de que o paciente seja mantido preso por tempo indeterminado sem que o procedimento de identificação seja concluído e, ainda, tendo em conta a afirmação do próprio magistrado processante no sentido de que, em tese, “não há prognóstico de cumprimento de pena privativa de liberdade em concreto”, o que revela, ademais, a falta de proporcionalidade da medida.
+    Isso posto, defiro a medida liminar em parte, para conceder liberdade provisória ao paciente nos autos da Ação Penal 0014516-11.2013.8.26.0506 da 1ª Vara Criminal da Comarca de Ribeirão Preto/SP, sem prejuízo da fixação pelo juízo processante de uma ou mais de uma das medida cautelares previstas no art. 319 do CPP, conforme entender necessário e suficiente.
+    Solicitem-se informações ao juízo processante acerca da ação penal a que responde o paciente, com o encaminhamento de cópias das principais peças que instruem o feito.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Expeça-se o competente alvará de soltura clausulado.
+    Comunique-se.
+    Publique-se.
+    Brasília, 16 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
