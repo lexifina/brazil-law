@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão assim ementado:
+    “PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. RECOLHIMENTO POST MORTEM. SÚMULA 52 DA TNU. SENTENÇA MANTIDA. RECURSO IMPROVIDO”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 1º, caput e III, 5º, caput e LIV, 6º, 194 parágrafo único, III, 201, I e V, e 226 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Verifica-se, preliminarmente, que à exceção do artigo 201 da Constituição Federal, os demais dispositivos não foram prequestionados. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, quanto a perda da qualidade de segurado da previdência social, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, §3º, DA CONSTITUIÇÃO FEDERAL. REQUISITOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O entendimento diverso do adotado pelo Tribunal a quo, concluindo que na data do óbito o ‘de cujus’ não possuía a qualidade de segurado, ensejaria o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, verbis: ‘para simples reexame de prova não cabe recurso extraordinário’. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 16 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
