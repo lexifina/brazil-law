@@ -1,0 +1,2 @@
+Art. 33-A. A transferência de dívida de financiamento imobiliário com garantia real, de um credor para outro, inclusive sob a forma de sub-rogação, obriga o credor original a emitir documento que ateste, para todos os fins de direito, inclusive para efeito de averbação, a validade da transferência.
+Parágrafo único. A emissão do documento será feita no prazo máximo de 2 (dois) dias úteis após a quitação da dívida original.
