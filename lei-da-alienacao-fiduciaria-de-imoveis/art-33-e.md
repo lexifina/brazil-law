@@ -1,0 +1,1 @@
+Art. 33-E. O Conselho Monetário Nacional e o Conselho Curador do Fundo de Garantia do Tempo de Serviço, no âmbito de suas respectivas competências, expedirão as instruções que se fizerem necessárias à execução do disposto no parágrafo único do art. 31 e nos arts. 33-A a 33-D desta Lei.
