@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 48, de 30 de abril de 2013
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ EMENTA: LUCRO PRESUMIDO. BASE DE CÁLCULO. ORGANIZAÇÃO DE EXCURSÕES EM VEÍCULOS RODOVIÁRIOS. FRETAMENTO. PERCENTUAIS APLICÁVEIS.
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO PRESUMIDO. BASE DE CÁLCULO. ORGANIZAÇÃO DE EXCURSÕES EM VEÍCULOS RODOVIÁRIOS. FRETAMENTO. PERCENTUAIS APLICÁVEIS. Na atividade de organização de excursões em veículos rodoviários próprios intermunicipal, interestadual e internacional - regime de fretamento - aplica-se às receitas estritamente provenientes da prestação de serviço de transporte de passageiros o percentual de presunção de lucro de 16%, para a determinação da base de cálculo do IRPJ. Para as receitas originadas na prestação de “serviços em geral”, relacionadas ou não à organização de excursões propriamente dita, o percentual aplicável é de 32%.
+DISPOSITIVOS LEGAIS: Lei n.º 9.249, de 1995, art. 15, §§ 1.º e 2.º; IN SRF n.º 93, de 1997, arts. 3.º, §§ 1.º e 2.º e 10; IN SRF n.º 700, de 2006, art. 1.º.
