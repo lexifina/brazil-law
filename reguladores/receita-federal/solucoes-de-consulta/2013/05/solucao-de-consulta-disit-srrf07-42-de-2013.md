@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 42, de 17 de abril de 2013
+ASSUNTO: Normas Gerais de Direito Tributário EMENTA: DIREITO DE CRÉDITO RECONHECIDO. DECISÃO JUDICIAL TRANSITADA EM JULGADO. RESTRITIVA A TRIBUTO DE MESMA ESPÉCIE. LEGISLAÇÃO SUPERVENIENTE MAIS FAVORÁVEL AO CONTRIBUINTE. ADMISSÃO DA COMPENSAÇÃO COM OUTROS TRIBUTOS.
+ASSUNTO: Normas Gerais de Direito Tributário
+EMENTA: DIREITO DE CRÉDITO RECONHECIDO. DECISÃO JUDICIAL TRANSITADA EM JULGADO. RESTRITIVA A TRIBUTO DE MESMA ESPÉCIE. LEGISLAÇÃO SUPERVENIENTE MAIS FAVORÁVEL AO CONTRIBUINTE. ADMISSÃO DA COMPENSAÇÃO COM OUTROS TRIBUTOS. Admite-se, em face de legislação ulterior, que crédito relativo a tributo sob a administração da Receita Federal do Brasil, reconhecido em sentença judicial transitada em julgado que tenha restringido a sua utilização à compensação de débitos de tributos da mesma espécie, seja utilizado para compensar débitos próprios relativos a quaisquer tributos administrados pelo órgão, desde que a legislação assegure igual tratamento aos demais contribuintes.
+DISPOSITIVOS LEGAIS: Lei nº 9.430, de 1996, art. 74 modificado pelo art. 49 da MP nº 66, de 2002; Lei nº 10.637, de 2002, art. 49.
