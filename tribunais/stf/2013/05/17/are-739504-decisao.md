@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “b”, da Constituição Federal, reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta ao art. 97 da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Inexiste ofensa ao art. 97 da CF/88, não declarada a inconstitucionalidade de lei ou ato normativo do poder público, tampouco afastada sua aplicação por fundamentos extraídos da Constituição, a ensejar a observância do contido no art. 97 da Constituição Federal. Nesse sentido: AI 818.260-AgR/RS, Rel. Min. Ellen Gracie, 2ª Turma, DJe 18.8.2011; AI 821.963-AgR/RS, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 12.4.2011; AI 791.673-AgR/SC, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 17.11.2010; e Rcl 6.944/DF, Plenário, Rel. Min. Cármen Lúcia, DJe 13.8.2010, de cuja ementa destaco:
+    “1. A simples ausência de aplicação de uma dada norma jurídica ao caso sob exame não caracteriza, apenas por isso, violação da orientação firmada pelo Supremo Tribunal Federal. 2. Para caracterização da caracterização da contrariedade à súmula vinculante n. 10, do Supremo Tribunal Federal, é necessário que a decisão fundamente-se na incompatibilidade entre a norma legal tomada como base dos argumentos expostos na ação e a Constituição”.
+    Nesse sentir, incabível à interposição do apelo extremo pelo permissivo da alínea “b” do art. 102, III, da CF/88, deixando o Tribunal de origem de declarar a inconstitucionalidade de tratado ou lei federal. Colho os seguintes precedentes o AI 531.878-AgR/DF, Rel. Min. Ayres Britto, 2ª turma, DJe 25.4.2012; e o AI 759.677-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 15.8.2012, verbis:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. 1. Parâmetros delimitados por avaliação prévia. Análise de normas infraconstitucionais. Ofensa constitucional indireta. 2. Recurso extraordinário interposto com base na alínea b do inc. III do art. 102 da Constituição da República. Inexistência de declaração de inconstitucionalidade de tratado ou lei federal. 3. Interposição simultânea de recursos extraordinário e especial. Aplicabilidade do art. 543, § 1º, do Código de Processo Civil somente se admitidos os recursos. Precedentes. 4. Agravo regimental ao qual se nega provimento”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de maio de 2013.
+Ministra Rosa Weber
+Relatora
