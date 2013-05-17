@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão com a seguinte ementa:
+    “AÇÃO CIVIL PÚBLICA - IMPROCEDÊNCIA - MINISTÉRIO PÚBLICO - ÔNUS SUCUMBENCIAIS - ISENÇÃO. A teor do disposto no art. 87 do Código de Defesa do Consumidor, nas ações coletivas de que trata este Código, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má-fé, em honorários de advogados, custas e despesas processuais. Recurso não provido”. (fl. 619)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, aponta-se violação aos arts. 5º, caput; e 129, III, do texto constitucional.
+    Sustenta-se que “(...) ‘o patrimônio público e social’, cuja proteção a Constituição da República remete ao Ministério Público (art. 129, inc. III), é estritamente aquele conjunto de valores integrantes da constelação que se chama interesses difusos ou coletivos, os quais, necessariamente, não tem e não podem ter um titular personificado” (fls. 709-710).
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o STF já firmou orientação no sentido de que o Ministério Público tem legitimidade ativa para ajuizar ação civil pública em defesa dos interesses individuais homogêneos dos consumidores.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    PROCESSO CIVIL. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. DIREITOS DO CONSUMIDOR. CONTRATO DE LEASING. AGRAVO REGIMENTAL DESPROVIDO. O acórdão recorrido prestou, inequivocamente, jurisdição, sem violar os princípios do devido processo legal, do contraditório e da ampla defesa, tendo enfrentado as questões que lhe foram postas. Esta Corte firmou entendimento no sentido de que o Ministério Público tem legitimidade ad causam para propor ação civil pública quando a controvérsia envolver a defesa de direitos individuais homogêneos de consumidores. Agravo regimental desprovido. (AI-AgR 606.235, rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 22.6.2012).
+    RECURSO EXTRAORDINÁRIO LEGITIMIDADE MINISTÉRIO PÚBLICO AÇÃO CIVIL PÚBLICA INTERESSES DIFUSOS, COLETIVOS E INDIVIDUAIS HOMOGÊNEOS. O Tribunal, no Recurso Extraordinário nº 163.231/SP, concluiu pela legitimidade do Ministério Público para o ajuizamento de ação civil pública, com vistas à defesa dos interesses de uma coletividade, mesmo no caso de interesses homogêneos de origem comum, por serem subespécies de interesses coletivos. (AIAgR 559.141, rel. Min. MARCO AURÉLIO, Primeira Turma, DJe 15.8.2011).
+    Registro que, no caso, a decisão recorrida não divergiu dessa orientação, uma vez que, à luz do acervo probatório constante dos autos e da legislação infraconstitucional (Código de Defesa do Consumidor), consignou que os direitos em questão são individuais homogêneos. Acrescento ainda que, para se entender de forma diversa do consignado pelo acórdão recorrido acerca da natureza do direito tutelado, seria necessário reexaminar o conjunto fático-probatório, bem como rever interpretação conferida à legislação infraconstitucional, providências vedadas no âmbito do recurso extraordinário.
+    Além disso, para se divergir do acórdão impugnado acerca da existência da litigância de má-fé, também seria necessário reexaminar provas que permeiam a lide, situação inviável nessa seara, a teor do Enunciado 279 da Súmula .
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 17 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
