@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “DIREITO CONSTITUCIONAL – DIREITO ADMINISTRATIVO – APELAÇÃO – MANDADO DE SEGURANÇA – CONCURSO PÚBLICO – POSSE – IDADE MÍNIMA – 18 ANOS – PREVISÃO NA LEI E NO EDITAL – ARTIGO 37, INCISO I, DA CONSTITUIÇÃO FEDERAL – EMANCIPAÇÃO – MANUTENÇÃO DA EXIGÊNCIA – RECURSO DESPROVIDO. Se está prevista no edital e na lei a exigência da idade de 18 anos para a posse em cargo público, com amparo no artigo 37, inciso I, da Constituição Federal, tal requisito não pode ser reputado desarrazoado, já que se refere à idade mínima coincidente com a maioridade civil, devendo ser mantida a denegação da segurança”. (fl. 136)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 3º, IV; 5º, caput; e 7º, XXX, todos insertos na Carta Magna.
+    Alega-se que a “emancipação concede ao menor a aquisição da plena capacidade jurídica antes da idade legal, possibilitando-o para todos os atos da vida civil” (fl. 150), razão pela qual sustenta ser suficiente para a assunção do menor de 18 (dezoito) anos em cargo público.
+    Decido.
+    A irresignação não merece prosperar.
+    A questão versada nos autos diz respeito à possibilidade de a emancipação suprir requisito legal e editalício acerca de idade mínima prevista para ingresso em concurso público.
+    Segundo o que foi consignado pelo Tribunal de origem, a exigência de idade mínima de 18 (dezoito) anos para posse em cargo público é prevista tanto pela lei, quanto pelo edital do certame realizado. Ademais, concluiu o Tribunal a quo que a recorrente “tinha dezessete anos ao tempo da posse” (fl. 139).
+    Dessa forma, para dissentir do aresto recorrido, far-se-ia imprescindível a revisão da legislação local aplicável (Lei Municipal 1.682/91), o reexame das cláusulas do certame e, além disso, o revolvimento de fatos e provas analisados, medidas que inviabilizam o prosseguimento do recurso extraordinário, a teor dos Enunciados 280, 454 e 279 da Súmula desta Corte.
+    Nesse sentido, dentre outros, confiram-se os seguintes precedentes: AI-AgR 829.036, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.3.2011; AI-AgR 832.149, Rel. Min. Ellen Gracie, Segunda Turma, DJe 19.8.2011. Este último foi assim ementado:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. EDITAL. NOMEAÇÃO. AGRAVO REGIMENTAL QUE NÃO ATACA TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA STF 283. NECESSIDADE DE REEXAME DE FATOS E PROVAS, LEGISLAÇÃO INFRACONSTITUCIONAL E CLÁUSULAS DE EDITAL. SÚMULAS STF 279, 280 E 454 . 1. As razões do agravo regimental não atacam dois dos fundamentos da decisão agravada, referentes à necessidade de reexame de legislação local e de cláusulas de edital de concurso público, o que atrai a aplicação, no presente caso, da Súmula STF 283. 2. Para divergir da conclusão do aresto impugnado, seria necessário o reexame do conjunto fático-probatório, cláusulas de edital de concurso público e legislação local (Súmulas STF 279, 454 e 280). 3. Agravo regimental a que se nega provimento”.
+    Confira-se, ainda, a seguinte decisão monocrática: ARE 719.073, Rel. Min. Cármen Lúcia, DJe 19.11.2012
+    Ressalte-se, ainda, que a jurisprudência desta Corte é no sentido de a previsão editalícia obriga os candidatos e a Administração Pública, desde que adequado à lei. Confira-se:
+    “CONCURSO PÚBLICO – PARÂMETROS – EDITAL. O edital de concurso, desde que consentâneo com a lei de regência em sentido formal e material, obriga candidatos e Administração Pública”. (RE 480.129, Rel. Min. Marco Aurélio, Primeira Turma, DJe 23.10.2009)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 20 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
