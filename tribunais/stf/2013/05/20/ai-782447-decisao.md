@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “TRIBUTÁRIO. PIS. CRITÉRIO DE IMPUTAÇÃO DOS JUROS. 1. O Fisco, na cobrança de seus créditos, não imputa os pagamentos dos contribuintes primeiramente nos juros/correção monetária (SELIC) para, só depois, levá-los à diminuição do valor principal ou histórico. Pelo contrário, os pagamentos são trazidos à conta globalmente no valor consolidado atualizado, implicando imputação proporcional. 2. A aplicação dos meios de interpretação e integração do art. 108 do CTN pressupõe a “ausência de disposição expressa” a ser aplicada, hipótese não ocorrida no caso concreto. 3. Está correto o Fisco quando, para preservar a indivisibilidade do crédito tributário, elabora sistemática assentada na matemática financeira que possibilite a compensação e, ao mesmo tempo, obedeça à imputação proporcional. 4. Apelação improvida”. (fl. 70)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, violação aos artigos 5º, incisos II, XXII e LIV; 37; 146, III, “b”; e 150, I, da Constituição Federal.
+    O recorrente alega, em síntese, a invalidade da constituição do crédito tributário em razão de lacuna de lei. Sustenta a utilização da regra inserta no artigo 354, do Código Civil, uma vez que inexiste lei tributária no mesmo sentido. Requer o provimento do recurso extraordinário para declarar a ilegalidade da constituição do crédito tributário e declarar o direito da contribuinte, nos casos de compensação, a imputar primeiramente os juros e depois o principal.
+    Decido.
+    Não assiste razão ao agravante.
+    Inicialmente, ressalto que a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice no enunciado da Súmula 636 do Supremo Tribunal Federal, o qual dispõe que ‘não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida“.
+    Quanto ao mérito, melhor sorte não assiste ao recorrente. Isso porque o Tribunal de origem, interpretando a legislação infraconstitucional aplicável ao caso, consignou que não prospera a pretensão do impetrante, já que o modo de proceder à imputação em pagamento pretendido desatende à norma restritiva do CTN, importando em capitalização de juros (fl. 69).
+    O acórdão recorrido entendeu ainda que não é possível a aplicação do Código Civil ao caso concreto como base para a imputação que quer ver aplicada.
+    Assim, para entender de forma diversa, é imprescindível rever a interpretação conferida pelo acórdão recorrido à legislação infraconstitucional, providência vedada no âmbito do recurso extraordinário, a teor do disposto na Súmula 636 do STF.
+    Nesse sentido, confiram-se a jurisprudência de ambas as Turmas: os RE-AgR 627.533, Rel. Min. Marco Aurélio, DJe 29.7.2011; AI-AgRRel. Min. Joaquim Barbosa, DJe 29.3.2011; e o AI-AgR 822.246, de minha relatoria, DJe 24.2.2011 , cuja ementa dispõe:
+    “Agravo regimental em agravo de instrumento. Modo de aproveitamento de indébito tributário. Compensação. 2. Utilização da regra de imputação de pagamento prevista no artigo 354 do Código Civil. 3. Debate infraconstitucional (Súmula n. 636). 4. Legislação de política fiscal. Impossibilidade de o Judiciário atuar como legislador positivo. Precedentes. 5. Agravo regimental a que se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso (arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se. Int..
+    Brasília, 20 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
