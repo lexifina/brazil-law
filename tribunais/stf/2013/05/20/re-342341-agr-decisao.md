@@ -1,0 +1,24 @@
+Decisão: 1. Trata-se de agravo regimental interposto contra decisão que deu provimento ao recurso extraordinário, por entender que até a edição da lei prevista no § 2º, do art. 40, da Constituição Federal, na redação originária, era garantido ao servidor temporário o direito à aposentadoria nos moldes assegurados aos servidores públicos em geral (art. 40, I a III, da Constituição Federal).
+    O agravante alega, em suma, que o art. 40, § 2º, da Constituição Federal não é autoaplicável, razão pela qual, inexistindo legislação estadual regulamentadora, o servidor temporário não pode se aposentar de forma voluntária, como ocorre com os estáveis e efetivos, mas apenas compulsoriamente ou por invalidez.
+    2. A decisão agravada não merece subsistir, uma vez que o recurso extraordinário das autoras sequer poderia ter sido conhecido.
+    Extraem-se do acórdão que rejeitou os embargos infringentes os seguintes excertos:
+    O mesmo comando foi repetido na Constituição Mineira, em seu artigo 36, § 2º, não tendo sido ainda editada a lei nele mencionada, não fazendo jus as embargantes à aposentadoria nos moldes pleiteados, sendo-lhes assegurado apenas o disposto no artigo 287 da Carta Estadual (fl. 568).
+    Segundo dispõe o artigo 40, § 2º, da Carta Federal, ao servidor submetido ao regime de convocação, não ocupante de cargo efetivo, é assegurado o disposto no art. 36, I e II, [da Constituição do Estado de Minas Gerais] disciplinando a aposentadoria em cargos ou empregos temporários.
+    Adaptando-se ao permissivo constitucional federal, a Constituição Mineira prescreve em seu art. 36, I e II, litteris:
+    Art. 36. O servidor público será aposentado:
+    I – por invalidez permanente, com proventos integrais, quando decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, especificadas em lei, e proporcionais nos demais casos;
+    II – compulsoriamente, aos setenta anos de idade, com proventos proporcionais ao tempo de serviço.
+    Vê-se, destarte, que, inegavelmente, nenhuma razão recorre às embargantes, em que pesem as bem lançadas razões contidas no inconformismo infringencial. (fl. 570)
+    Ora, o acórdão recorrido decidiu a controvérsia à luz dos arts. 36, I e II, § 2º, e 287 da Constituição do Estado de Minas Gerais, que preveem apenas a aposentadoria compulsória ou por invalidez de servidores submetidos ao regime de convocação, não ocupantes de cargo efetivo, como é o caso dos autos.
+    Assim, a apreciação dos aspectos concernentes à suposta violação dos dispositivos constitucionais apontados demanda análise de direito local, fazendo incidir o óbice constante da Súmula 280 do Supremo Tribunal Federal (“por ofensa a direito local não cabe recurso extraordinário”).
+    Ressalte-se que a jurisprudência desta Corte, em casos análogos ao presente, tem entendido ser inviável o conhecimento do recuso extraordinário com base no referido óbice.
+    Citem-se, por exemplo, os seguintes julgados, todos proferidos em demandas análogas oriundas do mesmo Estado da Federação: RE 571.937/MG, rel. Min. Ayres Britto, DJe de 11/04/2011; AI 767.525/MG, rel. Min. Cármen Lúcia, DJe de 10/11/2009; RE 291.568/MG, rel. Min. Cézar Peluso, DJ de 13/08/2009; e RE 487.395/MG-AgR, rel. Min. Ricardo Lewandowski, Primeira Turma, DJ 13.10.2006.
+    Ademais, as próprias autoras, ao afirmarem que o disposto na redação originária do art. 40, § 2º, da Constituição Federal não se aplica ao caso dos autos, uma vez que as “funções de magistério não podem ser objeto de contratação temporária” (fl. 581), suscitam regra inserta em legislação infraconstitucional, qual seja, o art. 22, parágrafo único, da Constituição Estadual de Minas Gerais, o que confirma a impossibilidade de conhecimento do apelo.
+    3. Registre-se, ainda, que a peça recursal não se insurgiu contra o fundamento de que houve diversas interrupções na prestação do serviço prestado pelas autoras, não tendo sequer sido alcançada a estabilidade excepcional instituída pelo art. 19 do ADCT/88, circunstância que, além de atrair o óbice da Súmula 283/STF (“é inadmissível o recurso extraordinário quando a decisão recorrida se assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles”), demanda a reapreciação do conjunto fático-probatório dos autos - inclusive quanto à natureza jurídica do vínculo de trabalho estabelecido entre os litigantes -, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279/STF.
+    Como se vê, o recurso extraordinário não reunia condições de admissibilidade, razão pela qual a decisão ora agravada merece reparos.
+    4. Diante do exposto, torno sem efeito a decisão de fls. 626-627, para negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 20 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
