@@ -1,0 +1,24 @@
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. ADMINISTRATIVO. AGENTE POLÍTICO. DEPUTADO ESTADUAL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE. PREJUÍZO AO ERÁRIO. ARTIGO 10, INCISO XIII, DA LEI Nº 8.429/92. QUESTÃO COM REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO NO ARE 683235. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. AGRAVO PROVIDO. SOBRESTAMENTO DO RECURSO EXTRAORDINÁRIO. BAIXA À ORIGEM.
+    Decisão: Trata-se de agravo regimental interposto contra decisão monocrática de fl. 462/469, publicada no Diário de 1º de agosto de 2012, mediante a qual neguei seguimento ao recurso extraordinário, cuja ementa restou assim editada:
+    RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. DEPUTADO ESTADUAL. AÇÃO CIVIL PÚBLICA. ATO DE IMPROBIDADE. PREJUÍZO AO ERÁRIO. ARTIGO 10, INCISO XIII, DA LEI Nº 8.429/92. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. RECONHECIMENTO DE PRESCRIÇÃO. DESCONFIGURAÇÃO DO ATO CONSIDERADO IMPROBO. REVISÃO DA PENA IMPOSTA. RAZOABILIDADE. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. OFENSA CONSTITUCIONAL INDIRETA. RECURSO A QUE SE NEGA SEGUIMENTO.
+    1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida a repercussão geral das questões constitucionais discutidas no caso (art. 102, III, § 3º, da CF).
+    2. O recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. Nesse sentido, a Súmula 279 do STF dispõe: Para simples reexame de prova não cabe recurso extraordinário .
+    3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, dos limites da coisa julgada e da prestação jurisdicional, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes. AI 804.854-AgR, 1ª Turma, Rel. Min. Cármen Lúcia, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 22/10/2010.
+    4. In casu, o acórdão proferido pela 1ª Câmara Especial do Tribunal de Justiça do Estado de Rondônia restou assim ementado: Ação civil pública. Aplicação da Lei n. 8.429/92. Agente político. Ato de improbidade. Competência. Poder Judiciário. Desvio de verba pública.
+    Aplica-se a Lei de Improbidade aos agentes políticos, os quais devem ser responsabilizados no caso da prática de ato ímprobo.
+    É cabível o controle, pelo Judiciário, do ato administrativo emanado de agente político.
+    Configura-se ato de improbidade a conduta do agente político que, aproveita da verba pública para custear a remuneração dos funcionários que prestavam serviços à associação beneficente.
+    5. RECURSO EXTRAORDINÁRIO a que se nega seguimento.
+    Nas razões do regimental a agravante articula, em síntese, a impossibilidade de submissão de agente político aos termos da Lei nº 8.429/92. Indica precedente da RCL nº 2.138, Rel. Min. Gilmar Mendes. Requer o provimento do agravo, para anular o processo desde a origem e declarar a incompetência do juízo a quo, ante a inaplicabilidade da lei de improbidade administrativa na espécie.
+    Em contraminuta, o Parquet estadual requereu o desprovimento do regimental (fls. 503/507).
+    A Procuradoria-Geral da República ofertou parecer (fls. 512/514).
+    Todavia, em 31 de agosto de 2012, um mês após a publicação da decisão agravada, o Plenário Virtual deste Supremo Tribunal reconheceu a existência da repercussão geral desta questão constitucional, nos autos do Recurso Extraordinário com Agravo nº 683.235, Rel. Min. Gilmar Mendes, cuja ementa restou assim editada:
+    Recurso extraordinário com agravo. 2. Administrativo. Aplicação da Lei de Improbidade Administrativa – Lei 8.429/1992 a prefeitos. 3. Repercussão Geral reconhecida.
+    Decisão: O Tribunal reconheceu a existência de repercussão geral da questão constitucional suscitada. Não se manifestou o Ministro Joaquim Barbosa.
+    Esse precedente ainda não teve julgamento de mérito realizado pelo Plenário físico.
+    Ex positis, reconsidero a decisão agravada, nos termos do artigo 21, § 1º, do RISTF, e determino a baixa dos presentes autos ao Tribunal de origem, onde deverá o recurso extraordinário permanecer sobrestado até final julgamento de mérito do ARE 683235 pelo Plenário do Supremo Tribunal Federal, com fundamento no artigo 543-A do Código de Processo Civil.
+    Publique-se. Int..
+    Brasília, 20 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
