@@ -1,0 +1,20 @@
+embargos de divergência. acórdão proferido em agravo regimental em agravo de instrumento. Não demonstração de dissídio jurisprudencial, nos termos do artigo 330 do Regimento Interno do Supremo Tribunal Federal. Embargos de divergência não admitidos.
+1. O entendimento desta Corte é no sentido de que são incabíveis os embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, ressalvadas às hipóteses nas quais a decisão do relator, proferida com base no artigo 557, caput e § 1º, do Código de Processo Civil, tenha convertido o agravo em recurso extraordinário e lhe dado provimento.
+2. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário. Consectariamente, não se prestam à comprovar dissensão jurisprudencial acórdãos que, tomados como paradigmas pela parte embargante, foram proferidas pela mesma Turma em que prolatado o ato judicial impugnado. Assim, sendo esta a realidade processual destes autos, não se tem como demonstrado ao dissenso jurisprudencial.
+3. Embargos de divergência não admitidos.
+    Decisão: Trata-se de embargos de divergência interpostos pela empresa DIMACI MATERIAL CIRÚRGICO LTDA. contra acórdão da Primeira Turma do Supremo Tribunal Federal, subscrito pelo Ministro Ricardo Lewandowski, assim ementado (folha 357):
+    “EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. ICMS. IMPORTAÇÃO DE MERCADORIA. SUJEITO ATIVO DA RELAÇÃO TRIBUTÁRIA. ESTADO DO ESTABELECIMENTO DO DESTINATÁRIO JURÍDICO. AGRAVO IMPROVIDO
+    I - Nos termos do art. 155, § 2º, IX, a, da Constituição Federal, o sujeito ativo da relação jurídico-tributária do ICMS é o Estado onde estiver situado o domicílio ou o estabelecimento do destinatário jurídico da mercadoria importada. Precedentes.
+    II - Na definição do destinatário da mercadoria importada, não devem prevalecer os pactos particulares mantidos entre as partes envolvidas na importação, mas a efetiva destinação do bem importado. Precedentes.
+    III - Agravo regimental não provido.”
+    Em suas razões, a embargante sustenta a existência de dissensão de julgados, apontando como paradigmas os acórdãos proferidos nos RREE nºs 299.079 e 396.859, bem assim na Medida Cautelar (AgRg) nº 1292, pela Primeira Turma desta Corte.
+    É o relatório. Decido.
+    O artigo 330 do Regimento Interno do Supremo Tribunal Federal estabelece que: “Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.”
+    In casu, consoante se verifica, os paradigmas trazidos à colação para demonstrar a divergência de julgados foram proferidos pelo mesmo Órgão Fracionário prolator do acórdão embargado. Assim sendo, tendo adiante o que disposto na norma regimental, não se tem a adequada comprovação do dissenso jurisprudencial.
+    É importante anotar o que decidido pelo Plenário do Supremo, por ocasião do julgamento do Agravo Regimental nos Embargos de Divergência nos Embargos de Declaração no Agravo Regimental no Agravo de Instrumento nº 563.464/MG, relator Ministro Marco Aurélio, sessão de 14 de outubro de 2010. Na oportunidade, teve-se em conta o disposto no artigo 546 do Código de Processo Civil, visando alcançar situações nas quais, com base no disposto no artigo 557, caput e § 1ºA, do Código de Processo Civil, o relator proferiu decisão quanto ao mérito da controvérsia submetida ao Supremo Tribunal no recurso extraordinário e houve interposição de agravo regimental. Essa, no entanto, não é a realidade processual destes autos. O agravo regimental foi interposto contra ato proferido em agravo de instrumento, e não em recurso extraordinário. Mostram-se, por isso, inadequados os embargos de divergência.
+    Ex positis, não admito os presentes embargos de divergência (CPC, art. 557, caput, e RISTF, arts. 21, § 1º, e 335).
+    Publique-se. Int.
+    Brasília, 20 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
