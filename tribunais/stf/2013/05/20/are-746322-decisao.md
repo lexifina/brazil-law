@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que negou seguimento ao recurso extraordinário interposto contra acórdão da Segunda Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO DE USUCAPIÃO – COMPROVADA POSSE MANSA, PACÍFICA E ININTERRUPTA – AQUISIÇÃO DA PROPRIEDADE IMÓVEL – INCOMPROVADA A ALEGAÇÃO DE SE TRATAR DE BEM PÚBLICO – SENTENÇA CONFIRMADA EM REEXAME NECESSÁRIO – RECURSO VOLUNTÁRIO PREJUDICADO” (fl. 245).
+     No recurso extraordinário sustenta-se violação dos artigos 183, § 3° e 191 da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que o Tribunal de origem decidiu a lide a partir das provas dos autos, concluindo que, “ao contrário do que alega o apelante, inexiste nos autos qualquer prova capaz de atestar a propriedade do imóvel, não logrando êxito em comprovar tais afirmações, motivo porque impõe-se o reconhecimento da propriedade aos autores, ora apelados”.
+    Assim, para ultrapassar o entendimento do Tribunal a quo seria necessário o reexame do conjunto probatório do feito, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 desta Corte. Nesse sentido, anote-se:
+    “CONSTITUCIONAL. CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. USUCAPIÃO DE TERRAS PÚBLICAS. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. SÚMULA 279. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que foi deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa (Súmula STF 279). 3. Agravo regimental a que se nega provimento” (AI nº 598.495/SP-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 5/4/11).
+    “CONSTITUCIONAL. CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. USUCAPIÃO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. FATOS E PROVAS. 1. O acórdão recorrido decidiu a lide com base na legislação infraconstitucional. Inadmissível o recurso extraordinário porquanto a ofensa à Constituição Federal, se existente, se daria de maneira reflexa. 2. Decidir de maneira diferente do que deliberado pelo tribunal a quo demandaria o reexame de fatos e provas da causa, ante a incidência da Súmula STF 279. 3. Agravo regimental improvido.” (AI n° 586.219/RS-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 11/9/09);
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 20 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
