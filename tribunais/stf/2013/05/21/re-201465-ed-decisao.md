@@ -1,0 +1,13 @@
+EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. SUBMISSÃO DA MATÉRIA AO CRIVO DO PLENÁRIO DESTA CORTE EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE E EM RECURSO EXTRAORDINÁRIO, NO QUAL HOUVE RECONHECIMENTO DA EXISTÊNCIA DE REPERCUSSÃO GERAL DA QUESTÃO CONSTITUCIONAL. SOBRESTAMENTO DO PROCESSO, COM BASE NO ARTIGO 103 (PARTE FINAL) DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL.
+    Decisão: O Plenário do Supremo Tribunal Federal conheceu e proveu o recurso extraordinário formalizado pela União Federal. A ementa do acórdão está assim redigida (folha 481):
+    “EMENTA: CONSTITUCIONAL. TRIBUTÁRIO. IMPOSTO DE RENDA. DEMONSTRAÇÕES FINANCEIRAS. CORREÇÃO MONETÁRIA. LEI 8.200/91 (ART. 3º, I, COM A REDAÇÃO DADA PELA LEI 8.682/93). CONSTITUCIONALIDADE.
+    A Lei 8.200/91, (1) em nenhum momento, modificou a disciplina da base de cálculo do imposto de renda referente ao balanço de 1990, (2) nem determinou a aplicação, ao período-base de 1990, da variação do IPC; (3) tão somente reconheceu os efeitos econômicos decorrentes da metodologia de cálculo da correção monetária.
+    O art. 3º, I (L. 8.200/91), prevendo hipótese nova de dedução na determinação do lucro real, constituiu-se como favor fiscal ditado por opção política legislativa. Inocorrência, no caso, de empréstimo compulsório. Recurso conhecido e provido.”
+    A empresa CONSTRUSERVICE – Construção e Serviços de Engenharia Ltda. interpôs embargos de declaração (folhas 486 usque 495). A União Federal apresentou contrarrazões aos embargos e o Ministério Público Federal, no parecer de folhas 519, opina no sentido da rejeição dos declaratórios. Na sequência, o Ministro Eros Grau, a quem sucedi, determinou o sobrestamento do processo, pois a controvérsia fora submetida novamente ao crivo do Plenário desta Corte no RE nº 201.512, relator o Ministro Marco Aurélio.
+    Neste interregno, advieram fatos processuais supervenientes: a propositura da Ação Direta de Inconstitucionalidade nº 712, distribuída ao Ministro Celso de Mello, na qual foi indeferida a medida acauteladora requerida; e o reconhecimento da existência de repercussão geral da questão constitucional suscitada nos Recursos Extraordinários nºs 545.796 e 242.689, relator Ministro Gilmar Mendes, acórdãos publicados nos DJ e de 14.12.2010 e 23.02.2011, respectivamente.
+    Ex positis, nos termos do artigo 103 (parte final) do Regimento Interno do Supremo Tribunal Federal, determino o sobrestamento destes embargos de declaração no recurso extraordinário.
+    Publique-se. Int.
+    Brasília, 21 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
