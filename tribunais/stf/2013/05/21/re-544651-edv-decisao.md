@@ -1,0 +1,16 @@
+Decisão: 1. Trata-se de embargos de divergência opostos contra acórdão que, ao negar provimento a agravo regimental, manteve decisão que negara seguimento a recurso extraordinário. Eis o teor da ementa:
+    1. PROCESSO CIVIL. Execução. Penhora. Bem de Família. Possibilidade como garantia de locação. A penhorabilidade do bem de família do fiador do contrato de locação, objeto do art. 3º, inc. VII, da Lei nº 8.009, de 23 de março de 1990, com a redação da Lei nº 8.245, de 15 de outubro de 1991, não ofende o art. 6º da Constituição da República.
+    2. RECURSO. Extraordinário. Inadmissibilidade. Jurisprudência assentada. Ausência de razões consistentes. Decisão mantida. Agravo regimental improvido. Nega-se provimento a agravo regimental tendente a impugnar, sem razões consistentes, decisão fundada em jurisprudência assente na Corte.
+    A parte embargante sustenta que (a) o contrato de fiança foi celebrado antes da entrada em vigor da Lei 8.245/91 e (b) a aplicação retroativa do art. 3º, inc. VII, da Lei nº 8.009/90, com a redação da Lei nº 8.245/91, representa ofensa aos princípios da irretroatividade da lei, do ato jurídico perfeito e do direito adquirido. Indica julgados desta Corte que prestigiaram esses princípios.
+    Instada a se manifestar (fl. 232), a parte embargada quedou-se silente (fl. 233).
+    2. O cabimento dos embargos de divergência está restrito “à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário”, nos termos do art. 330 do RISTF.
+    No presente caso, conforme ementa acima transcrita, a Segunda Turma decidiu (a) pela possibilidade de penhora do bem de família do fiador em contrato de locação, e (b) pela inexistência de ofensa ao art. 6º da Constituição pelo art. 3º, VII, da Lei nº 8.009/90, com a redação da Lei 8.245/91.
+    Os paradigmas apontados pela parte embargante para demonstrar a divergência (RE 209.519, rel. Min. Celso de Mello, Primeira Turma, DJ de 29.8.1997; RE 201.176, rel. Min. Celso de Mello, Primeira Turma, DJ de 21.3.1997; RE 596.673, rel. Min. Celso de Mello, Primeira Turma, DJe de 23.2.2012), a seu turno, não se relacionam com a específica situação jurídica tratada nestes autos, pois dizem respeito a contratos de caderneta de poupança e a relações de caráter tributário.
+    A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Nesse sentido: AI 378.629-AgR-ED-Edv/SP, rel. Min. Cezar Peluso, Pleno DJe de 12.3.2010; AI 665.622-AgR-EDv-ED/RS, rel. Min. Ricardo Lewandowski, Pleno, DJe de 09.11.2011; AI 654.148-AgR-EDv-AgR-ED/SP; rel. Min. Celso de Mello, Pleno, DJe de 06.12.2011; e AI 836.992-AgR-EDv-AgR/SC, rel. Min. Ricardo Lewandowski, Pleno, DJe de 30.5.2012.
+    3. Por fim, a circunstância de fato essencial para a argumentação da ora embargante – a celebração do contrato de fiança antes da vigência da Lei 8.245/91 – não foi abordada pela Segunda Turma, evidenciando, também, a ausência de identidade fática entre os precedentes paradigmas e o julgado embargado.
+    4. Diante do exposto, não admito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 21 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
