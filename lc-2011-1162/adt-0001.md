@@ -1,0 +1,2 @@
+## DISPOSIÇÕES TRANSITÓRIAS (NR)
+Artigo 1º - Para fins do disposto no artigo 22 da Lei Complementar nº 1.058, de 16 de setembro de 2008, com a redação dada por esta lei complementar, não serão computados os servidores do Quadro Especial, a que se refere o artigo 20 da Lei Complementar nº 1.058, de 16 de setembro de 2008, afastados junto à SPPREV, pelo prazo de 3 (três) anos a contar da data da publicação desta lei complementar.
