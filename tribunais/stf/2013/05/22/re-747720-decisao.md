@@ -1,0 +1,10 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, o Plenário desta Suprema Corte, ao julgar a ADI 4.357/DF e a ADI 4.425/DF, ambas Red. p/ o acórdão Min. LUIZ FUX, fixou entendimento que torna plenamente acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “Declarou-se, ainda, a inconstitucionalidade parcial do § 12 do art. 100 da CF (‘A partir da promulgação desta Emenda Constitucional, a atualização de valores requisitórios, após sua expedição, até o efetivo pagamento, independentemente de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta de poupança, e para fins de compensação da mora, incidirão juros simples no mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando excluída a incidência de juros compensatórios’), no que diz respeito à expressão ‘índice oficial de remuneração básica da caderneta de poupança’, bem como do inciso II do § 1º e do § 16, ambos do art. 97 do ADCT. Realçou-se que essa atualização monetária dos débitos inscritos em precatório deveria corresponder ao índice de desvalorização da moeda, no fim de certo período, e que esta Corte já consagrara não estar refletida, no índice estabelecido na emenda questionada, a perda de poder aquisitivo da moeda. Dessa maneira, afirmou-se a afronta à garantia da coisa julgada e, reflexamente, ao postulado da separação dos Poderes.”
+    (Informativo/STF nº 698/2013)
+    O exame da causa em que interposto o presente recurso extraordinário evidencia que o acórdão impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na análise da matéria em referência.
+    Sendo assim, e pelas razões expostas, conheço do presente recurso extraordinário, para dar-lhe provimento (CPC, art. 557, § 1º–A).
+    Publique-se.
+    Brasília, 22 de maio de 2013.
+Ministro CELSO DE MELLO
+Relator
