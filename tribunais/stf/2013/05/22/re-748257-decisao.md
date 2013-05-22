@@ -1,0 +1,12 @@
+Trata-se de recurso extraordinário interposto contra a parte do acórdão que afastou a cobrança de multa moratória de 150% do valor do tributo devido, sob o fundamento de ser confiscatória, para aplicar ao caso dos autos uma no percentual de 20%.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 97, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    A obediência à cláusula de reserva de plenário pelos Tribunais (CF, art. 97) não se faz necessária quando houver orientação consolidada do STF sobre a questão constitucional. Pelo mesmo motivo, não se justifica o retorno dos autos ao Tribunal a quo para que este, por meio de seu pleno ou órgão especial, se pronuncie sobre a matéria, considerando a existência de entendimento já fixado por esta Corte. Nesse sentido, cito os seguintes precedentes, entre outros: RE 370.765-AgR/RS, Rel. Min. Marco Aurélio; RE 278.710-AgR/RS, Rel. Min. Joaquim Barbosa; AI 481.584-AgR/MG, Rel. Min. Cármen Lúcia.
+    Além disso, sobre a desnecessidade de observância do art. 97 da Lei Maior, saliento, nos termos da jurisprudência deste Tribunal, que “(...) não é necessária identidade absoluta para aplicação dos precedentes dos quais resultem a declaração de inconstitucionalidade ou de constitucionalidade. Requer-se, sim, que as matérias examinadas sejam equivalentes” (AI 607.616-AgR/RJ, Rel. Min. Joaquim Barbosa).
+    Neste contexto, verifico que esta Corte já fixou entendimento no sentido de que é possível examinar se determinado tributo ofende, ou não, a proibição constitucional do confisco em matéria tributária, nos termos do art. 150, IV, da CF, e que esse princípio deve ser observado ainda que se trate de multa fiscal resultante do inadimplemento, pelo contribuinte, de suas obrigações tributárias, a exemplo do que se decidiu nos seguintes feitos: ADI 1075-MC/DF, Rel. Min. Celso de Mello; ADI 551/RJ, Rel. Min. Ilmar Galvão; ARE 637.717-AgR/GO, Rel. Min. Luiz Fux.
+    Além disso, é antiga a jurisprudência desta Corte que, com base na vedação ao confisco, reconhece como inconstitucionais multas fixadas em índices de 100% ou mais. Nesse sentido, anoto os seguintes precedentes: ADI 551/RJ, Rel. Min. Ilmar Galvão; ADI 1075-MC/DF, Rel. Min. Celso de Mello; RE 91.707/MG, Rel. Min. Moreira Alves; RE 81.550/MG, Rel. Min. Xavier de Albuquerque.
+    Isso posto, nego seguimento ao recurso (CPC, 557, caput).
+    Publique-se.
+    Brasília, 22 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
