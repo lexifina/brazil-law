@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 37, de 30 de abril de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: SUBSTITUIÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA DE QUE TRATA A LEI Nº 12.546, DE 2011. CÓDIGO CNAE DA ATIVIDADE PRINCIPAL NÃO RELACIONADO NO ART. 7º DA LEI Nº 12.546, DE 2011. NÃO OCORRÊNCIA DA SUBSTITUIÇÃO.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: SUBSTITUIÇÃO DA CONTRIBUIÇÃO PREVIDENCIÁRIA DE QUE TRATA A LEI Nº 12.546, DE 2011. CÓDIGO CNAE DA ATIVIDADE PRINCIPAL NÃO RELACIONADO NO ART. 7º DA LEI Nº 12.546, DE 2011. NÃO OCORRÊNCIA DA SUBSTITUIÇÃO.
+No período anterior à entrada em vigor do inciso IX do art. 7º da Lei nº 12.546, de 2011, ou seja, no período anterior a 01.01.2014, não ocorre a substituição da contribuição previdenciária de que trata esse artigo, se a atividade principal da consulente, assim considerada aquela de maior receita auferida ou esperada, é a construção de estações e redes de telecomunicações, visto que o código CNAE dessa atividade (4221-9/04) não corresponde aos grupos da CNAE 2.0 relacionados no inciso IV desse mesmo artigo.
+DISPOSITIVOS LEGAIS: Lei nº 12.546, de 2011, art. 7º, IV, IX e art. 9º, §§ 9º e 10; Medida Provisória nº 601, de 2013, art. 1º; Medida Provisória nº 612, de 2013, arts. 25 e 28, II, “a”.
