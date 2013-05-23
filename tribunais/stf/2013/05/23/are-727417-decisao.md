@@ -1,0 +1,27 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita no que importa:
+    “(...)
+    REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. AÇÃO DECLARATÓRIA. SERVIÇOS DE CONTABILIDADE. ISS. BASE DE CÁLCULO. TRATAMENTO PRIVILEGIADO. LEIS MUNICIPAIS 2.769/94 E 3.490/03 DO MUNICÍPIO DE CACHOEIRA DO SUL. IMPOSSIBILIDADE NO CASO CONCRETO. SOCIEDADE EMPRESARIAL.
+    Nos termos do artigo 156, III, da CF, dispõem os Municípios de competência para instituição de imposto sobre os serviços de qualquer natureza, a serem definidos em Lei Complementar, desde que não compreendidos no artigo 155, II do mesmo diploma legal.
+    Configurada a atividade de sociedade formada por contadores, que presta serviços de contabilidade, como empresarial, impossibilita-se a concessão de tratamento privilegiado no recolhimento do ISS, uma vez que não caracterizada como unipessoal.
+    Inaplicabilidade do § 3º. do art. 9º do DL 406/68.
+    Precedentes do TJRGS, STJ E STF.
+    Agravo desprovido, por maioria” (fl. 223 do e-STJ).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, violação aos arts. 5º, 150, II, e 156, III, da mesma Carta, sob o argumento de que o serviço de contabilidade por ela prestado, submete-se à tributação privilegiada prevista no art. 9º, § 1º e § 3º, do Decreto-Lei 406/1968.
+    A pretensão recursal não merece acolhida.
+    O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional, federal e local, aplicável à espécie (Decreto-Lei 406/1968 e Leis Municipais 2.769/1994 e 3.490/2003). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 280 do STF. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco julgados de ambas as Turmas desta Corte, cujas ementas transcrevo a seguir:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS - ISS. 1. RECOLHIMENTO DO TRIBUTO POR ALÍQUOTAS FIXAS. LEI MUNICIPAL. NATUREZA JURÍDICA DA ATIVIDADE EMPRESARIAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. NECESSIDADE DO REEXAME DE PROVAS: INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 2. FUNDAMENTAÇÃO DEFICIENTE: INCIDÊNCIA DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO” (AI 784.491-AgR/SP, Rel. Min. Cármen Lúcia, Primeira Turma).
+    “AGRAVO REGIMENTAL.
+    PROCESSUAL. AUSÊNCIA DE PREQUESTIONAMENTO (SÚMULA 282 DO STF). AUSÊNCIA DE PERTINÊNCIA ENTRE A MATÉRIA SUSCITADA NAS RAZÕES DO AGRAVO REGIMENTAL E A QUESTÃO APRECIADA NA DECISÃO AGRAVADA. SÚMULAS 284 E 287 DO STF. MATÉRIA QUE ATRAI O ÓBICE DAS SÚMULAS 279, 280, 454 e 636 DO STF.
+    Matéria suscitada originariamente nas razões do agravo regimental. Ausência do indispensável prequestionamento (Súmula 282 do STF).
+    A questão relativa ao enquadramento da atividade realizada pela parte ora agravada nas premissas necessárias à concessão do benefício tributário da alíquota fixa do ISS é estranha à controvérsia devolvida a esta Corte por meio do recurso extraordinário, que se refere tão somente à compatibilidade do Decreto-Lei 406/1968 com a Constituição federal de 1988.
+    Necessidade de prévio exame da legislação infraconstitucional, de cláusulas contratuais e do quadro fático-probatório (Súmulas 279, 280, 454 e 636 do STF).
+    Agravo regimental a que se nega provimento” (AI 729.121-AgR/SP, Rel. Min. Joaquim Barbosa, Segunda Turma).
+    Com essa mesma orientação, menciono, ainda, os seguintes precedentes, entre outros: AI 730.786-AgR/MG, Rel. Min. Ellen Gracie; AI 646.997-AgR/PR, Rel. Min. Joaquim Barbosa; AI 802.724-AgR/MS, Rel. Min. Dias Toffoli; AI 739.586-AgR/SP, de minha relatoria.
+    Ademais, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, quanto ao enquadramento dos serviços prestados pela recorrente para fins do recolhimento privilegiado do art. 9º, § 1º e § 3º, do Decreto-Lei 406/1968, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Além disso, o acórdão impugnado não julgou válida lei ou ato de governo local contestado em face da Constituição. Incabível, portanto, o recurso pela alínea c do art. 102, III, da Constituição Federal. Nesse sentido, cito, entre outras, as seguintes decisões: AI 774.204-AgR/MG, Rel. Min. Ayres Britto; RE 602.456-AgR/RN, Rel. Min. Eros Grau; AI 763.681-AgR/MG, Rel. Min. Cármen Lúcia; RE 571.978-AgR/SP, Rel. Min. Cezar Peluso.
+    Por fim, observa-se que o Tribunal a quo valeu-se de fundamentação infraconstitucional suficiente para solucionar a questão posta nos autos. Desse modo, com a negativa de provimento ao agravo em recurso especial pelo Superior Tribunal de Justiça (AREsp 26.123/RS, com trânsito em julgado certificado à fl. 459 do e-STJ), tornaram-se definitivos os fundamentos infraconstitucionais que amparam o acórdão impugnado, o que atrai a incidência da Súmula 283 do STF. Nesse sentido: AI 785.229/PR, Rel. Min. Cármen Lúcia; RE 588.235-AgR/SP, Rel. Min. Celso de Mello; AI 627.964-AgR/RS e RE 594.910/MT, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 23 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
