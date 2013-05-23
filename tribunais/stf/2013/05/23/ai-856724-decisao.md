@@ -1,0 +1,28 @@
+Decisão:
+    Vistos.
+    União interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 41, § 3º, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Turma do Tribunal Regional da 1ª Região, assim ementado:
+    “ADMINISTRATIVO. FISCAL DE TRIBUTOS DO EXTINTO IAA. APROVEITAMENTO NO CARGO DE AUDITOR FISCAL DO TESOURO NACIONAL. COMPATIBILIDADE DE ATRIBUIÇÕES. POSSIBILIDADE. LEI N. 8.112/90. DECRETO N. 472/92. ARTS. 40, § 8·, DA C.F. INATIVOS. PRECEDENTES DO ST J E STF.
+    1. Extinto o Instituto do Açúcar e do Álcool por força da Lei n. 8.029, de 12.04.90, as suas atribuições foram transferidas, desde a edição dos Decretos ns. 96.022/88 e 2.471/88, aos Auditores do Tesouro Nacional da Secretaria da Receita Federal.
+    2. Os Fiscais de Tributo do Açúcar e do Álcool, pertencentes ao Grupo de Tributação, Arrecadação e Fiscalização, podem ser enquadrados nos cargos de Auditor Fiscal. do Tesouro Nacional, nos termos do Decreto n. 472/92.
+    3. Estende-se o benefício do aproveitamento dos FTAA como AFTN aos inativos e pensionistas de aposentados antes do enquadramento promovido, sob pena de violação ao princípio da isonomia. Precedente do STF (RE 380.233/PB).
+    4. A correção monetária incide a partir do vencimento de cada parcela, na forma do art. 1º, caput, da Lei n. 6.899/81, utilizando-se os índices de correção monetária, de acordo com os seus respectivos períodos de vigência. Súmulas 43 e 148 do STJ. Os juros são devidos à razão de 0,5% (meio por cento) ao mês a contar da citação (MP n. 2.180-35, de 24/08/2001).
+    5. Honorários advocatícios fixados em 10% sobre o valor da condenação.
+    6. Apelação provida”.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação.
+    O acórdão recorrido reformou a sentença, para julgar procedente o pedido formulado na petição inicial, amparado no disposto nas Leis nºs 8.029/90 e 8.270/91, Decretos nºs 72.933/73, 474/92 e 96.022/88 e Decreto-Lei nº 2.225/85, além de análise dos fatos e provas dos autos.
+    Desse modo para ultrapassar o entendimento do Tribunal de origem, seria necessário reexame desses fatos e provas, bem como da legislação infraconstitucional pertinente ao caso, o que se mostra incabível em sede de recurso extraordinário. Incidência da Súmula nº 279, desta Corte. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. INSPETOR DE CAFÉ. ENQUADRAMENTO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 743.010/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/6/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. LEI N. 8.112/90, ART. 30. APROVEITAMENTO. JULGADO RECORRIDO FUNDAMENTADO UNICAMENTE EM NORMAS INFRACONSTITUCIONAIS: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 590.575/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 14/8/09).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA. SERVIDORES DO EXTINTO INSTITUTO DO AÇÚCAR E DO ALCOOL. APROVEITAMENTO. LEI 8.112/90. OFENSA REFLEXA. AGRAVO IMPROVIDO. I – A discussão sobre os pressupostos de admissibilidade do recurso especial demanda a análise de normas infraconstitucionais. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II – O tribunal de origem decidiu a questão referente ao aproveitamento dos servidores do extinto Instituto do Açúcar e do Alcool com base na legislação ordinária aplicável à espécie (Lei 8.112/90), o que inviabiliza o extraordinário. III – Agravo regimental improvido” (AI n° 601.974/PE-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 24/2/11);
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. FISCAIS DE TRIBUTOS DO AÇÚCAR E DO ÁLCOOL. AUDITOR FISCAL DO TESOURO NACIONAL. APROVEITAMENTO. 2. O servidor público posto em disponibilidade tem o direito de ser aproveitado em outro cargo da Administração Pública Direta ou Indireta, desde que observada a compatibilidade de atribuições e vencimentos com o cargo anterior. 3. Agravo regimental a que se nega provimento” (RE nº 560.464-AgR/DF, Relator o Ministro Eros Grau, Segunda Turma, DJe de 15/2/08).
+    Nesse sentido, ainda, as seguintes decisões monocráticas: RE n° 490.754/DF, Relator o Ministro Cezar Peluso, DJ de 24/8/06; ARE nº 709.732/PE, Relator o Ministro Ricardo Lewandowski, DJe de 18/9/12 e RE nº 674.757/PE, Relatora a Ministra Cármen Lúcia, DJe de 29/3/12.
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 23 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
