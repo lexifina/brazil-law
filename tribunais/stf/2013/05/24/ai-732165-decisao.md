@@ -1,0 +1,16 @@
+DECISÃO
+HONORÁRIOS ADVOCATÍCIOS – NATUREZA – CRÉDITO DE NATUREZA ALIMENTÍCIA – ARTIGO 100 DA CONSTITUIÇÃO FEDERAL – AGRAVO DESPROVIDO.
+    1. Afasto o sobrestamento determinado à folha 268 e declaro o prejuízo do agravo regimental de folha 279 a 282.
+    2. Na interposição deste agravo, foram observados os pressupostos de recorribilidade. A peça, subscrita por Procuradora da Fazenda Nacional, veio acompanhada dos documentos previstos no artigo 544, § 1º, do Código de Processo Civil e restou protocolada no prazo assinado em lei.
+    O Tribunal Regional Federal da 4ª Região deu provimento ao pedido formulado no agravo, ante fundamentos assim resumidos (folha 152):
+    EXECUÇÃO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. NATUREZA ALIMENTAR.
+    O Supremo Tribunal Federal, a quem cumpre interpretar a Constituição em última instância, no julgamento do RE 470407/DF, concluiu pelo caráter estritamente alimentar dos honorários de sucumbência.
+    O artigo 100, §1°-A da Constituição da República é meramente exemplificativo, devendo prevalecer, assim, o caráter alimentício da verba honorária.
+    Se por um aspecto verifica–se explicitação do que se entende como crédito de natureza alimentícia, por outro, cabe concluir pelo caráter simplesmente exemplificativo da norma do artigo 100, § 1º-A, da Constituição Federal. E que há de prevalecer a regra básica da cabeça do artigo 100 e, nesse sentido, constata-se a alusão ao gênero crédito de natureza alimentícia. O preceito remete necessariamente ao objeto, em si, do crédito alfim visado. Ora, salários e vencimentos dizem respeito a relações jurídicas específicas e ao lado destas tem-se a revelada pelo vínculo liberal. Os profissionais liberais não recebem salários, vencimentos, mas honorários e a finalidade destes não é outra senão prover a subsistência própria e das respectivas famílias.
+    Ao julgar, perante a Segunda Turma, o Recurso Extraordinário nº 170.220-6/SP em 19 de maio de 1998, cujo acórdão foi publicado no Diário da Justiça de 7 de agosto de 1998, tive a oportunidade de consignar que a jurisprudência consolidou-se no sentido de dar-se ordem especial de precatórios quando envolvida prestação alimentícia, em que pese o artigo 100 da Constituição Federal conter expressão, em bom vernáculo, excluindo o hoje famigerado sistema de execução. Nesse sentido, também os Recursos Extraordinários nos170.767-4/SP, 470.407-2/DF, ambos de minha relatoria, e nº 146.318-0/SP, da relatoria do Ministro Carlos Velloso.
+    Consoante o disposto na Lei nº 8.906, de 4 de julho de 1994, os advogados têm direito não só aos honorários convencionados como também aos fixados por arbitramento e na definição da sucumbência – artigo 22 –, sendo explícito o artigo 23 ao estabelecer que os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado, tendo este direito autônomo para executar a sentença nesta parte, podendo requerer que o precatório, quando necessário, seja expedido a seu favor. Repito mais uma vez que os honorários advocatícios consubstanciam, para os profissionais liberais do direito, prestação alimentícia.
+    3. Ante os precedentes, nego provimento ao agravo.
+    4. Publiquem.
+Brasília, 24 de maio de 2013.
+Ministro MARCO AURÉLIO
+Relator
