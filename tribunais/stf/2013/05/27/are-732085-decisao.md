@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário em demanda objetivando a revisão de benefício previdenciário. O Superior Tribunal de Justiça negou provimento ao recurso especial, sob os seguintes fundamentos: (a) é incabível a restituição de valores indevidamente recebidos, por força de decisão judicial, quando presente a boa-fé do segurado; (b) as verbas recebidas pelo segurado têm natureza alimentar, tendo como consequência sua irrepetibilidade. No recurso extraordinário, com fundamento no artigo 102, III, a, da Constituição, aponta a agravante ofensa ao artigo 97 da Carta Magna, tendo em vista que o Superior Tribunal de Justiça afastou a aplicação dos arts. 273, § 2º e 475-O do CPC e 115 da Lei 8.213/91 sem observar o princípio da reserva de plenário.
+    2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada por recurso extraordinário contra esse acórdão, no momento próprio, sob pena de preclusão. Assim, recurso extraordinário contra acórdão do STJ, em julgamento de recurso especial, somente é admissível quando a matéria constitucional impugnada for ali suscitada originariamente. Nesse sentido, os seguintes precedentes: RE 482.932-AgR-Segundo/DF, Rel. Min. Celso de Mello, Segunda Turma, DJe de 08.3.2013; AI 718.334-AgR/AL, Rel. Min. Rosa Weber, Primeira Turma, DJe de 12.11.2012.
+    Ora, no caso, os fundamentos constitucionais suscitados no recurso extraordinário foram invocados pelo acórdão de segundo grau, contra o qual não foi interposto recurso extraordinário. A matéria constitucional está, consequentemente, preclusa.
+    3. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 27 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
