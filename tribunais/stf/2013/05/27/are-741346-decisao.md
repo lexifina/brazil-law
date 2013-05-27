@@ -1,0 +1,17 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que negou seguimento ao recurso extraordinário no qual se alega contrariedade aos artigos 5°, incisos II, XXXV, LIV e LV, 7°, XXVI, 8°, III, 114, 170, §1 e IV e 173 da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No que se refere ao artigo 114 da Constituição Federal, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Por outro lado, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido:
+    “AGRAVO DE INSTRUMENTO - ALEGAÇÃO DE OFENSA AO POSTULADO DA MOTIVAÇÃO DOS ATOS DECISÓRIOS - INOCORRÊNCIA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - RECURSO IMPROVIDO. O Supremo Tribunal Federal deixou assentado que, em regra, as alegações de desrespeito aos postulados da legalidade, do devido processo legal, da motivação dos atos decisórios, do contraditório, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações de ofensa meramente reflexa ao texto da Constituição, circunstância essa que impede a utilização do recurso extraordinário. Precedentes” (AI nº 360.265/RJ-AgR, Segunda Turma, Relator o Ministro Celso de Mello, DJ de 20/9/02).
+    No mais, o Tribunal de origem, para decidir, ateve-se ao exame da legislação infraconstitucional pertinente, tanto com relação aos pressupostos recursais no âmbito da Justiça do Trabalho, quanto no que concerne à matéria de fundo, motivo pelo qual a violação ao texto constitucional seria, caso houvesse, indireta ou reflexa, o que se mostra insuficiente para amparar o apelo extremo. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA POR ACIDENTE DE TRABALHO. ART. 7º, XXVIII, DA CONSTITUIÇÃO. TERCEIRIZAÇÃO. LEGITIMIDADE PASSIVA DO TOMADOR DE SERVIÇOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA INDIRETA OU REFLEXA À CONSTITUIÇÃO. REEXAME DE FATOS E PROVAS. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI nº 574.036/SP-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 3/6/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. TRABALHISTA. TERCEIRIZAÇÃO. CONTROVÉRSIA SOBRE A EXISTÊNCIA DE RELAÇÃO EMPREGATÍCIA E SOBRE A NATUREZA DA ATIVIDADE PRESTADA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 791.247/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 11/11/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
