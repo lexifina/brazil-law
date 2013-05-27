@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário no qual se alega contrariedade aos artigos 5°, XXXV, LIV, LV, LXIX, e 37, XVIII, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar.
+    No tocante à alegação do direito de retenção de mercadoria até a comprovação da posse legítima da mesma, verifico que o Tribunal de origem ao se manifestar sobre o assunto, consignou que “O cerne dos autos se refere à apreensão de mercadorias como meio coercitivo de pagamento de tributo e que, ressalta-se, é o caso em questão” (fl. 186). Desse modo, para acolher a pretensão do agravante e ultrapassar o entendimento do Tribunal a quo seria necessário o reexame do conjunto fático-probatório dos autos, o que é inviável em sede de recurso extraordinário. Incidência do enunciado da Súmula nº 279 do STF.
+    Ademais, a jurisprudência desta Corte está consolidada no sentido de que as alegações de afronta aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, dos limites da coisa julgada e da prestação jurisdicional, se dependentes de reexame de normas infraconstitucionais, podem configurar apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame em recurso extraordinário. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO DO TRABALHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGADA VIOLAÇÃO PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO. OFENSA REFLEXA. ALEGADA VIOLAÇÃO AO ART. 93, IX, DA MESMA CARTA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. AGRAVO IMPROVIDO. I - O Supremo Tribunal Federal possui entendimento pacífico no sentido de que a violação ao art. 5º, XXXV, LIV e LV, da Magna Carta, pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes. II - O art. 93, IX, da Constituição, não impõe seja a decisão exaustivamente fundamentada, mas sim que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu. III – Agravo regimental improvido” (AI nº 812.481/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11).
+    Além disso, a questão relativa à ocorrência de julgamento extra ou ultra petita está limitada ao campo da legislação infraconstitucional pertinente, de reexame incabível em sede de recurso extraordinário. Nesse sentido:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL EM RAZÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE EXAME PRÉVIO DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 797.663/RS-ED, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/4/11).
+    Por fim, o Plenário deste Supremo Tribunal Federal, em sessão realizada por meio eletrônico, no exame do Agravo de Instrumento nº 800.074/SP, Relator o Ministro Gilmar Mendes, concluiu pela ausência da repercussão geral da matéria referente à análise da demonstração dos requisitos de cabimento de mandado de segurança. O referido julgado recebeu a seguinte ementa:
+    “Requisitos de admissibilidade. mandado de segurança. Revisão. Recurso Extraordinário. Não cabimento. Matéria infraconstitucional. Inexistência de repercussão geral”.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 27 de maio de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
