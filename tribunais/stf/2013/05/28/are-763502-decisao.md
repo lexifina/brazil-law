@@ -1,0 +1,30 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PROVA TESTEMUNHAL. ALEGADA CONTRARIEDADE AO ART. 5º, INCS., LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do da Terceira Turma Recursal dos Juizados Especiais Cíveis e Criminais do Distrito Federal:
+    “DIREITO CIVIL. RESPONSABILIDADE CIVIL. BOLETIM DE OCORRÊNCIA. NOTÍCIA DE FURTO. NOTICIANTE NÃO MENCIONA O NOME DO ACUSADO. DESNECESSIDADE DE PRODUÇÃO DE PROVA TESTEMUNHAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. NEGADO PROVIMENTO AO RECURSO.
+      O autor narra que, em virtude de um desentendimento entre as partes, o réu registrou boletim de ocorrência acusando-o do furto de uma jaqueta e de um aparelho celular, ocorrido enquanto conheciam cachoeira localizada nas proximidades. Aduz que sofreu aborrecimentos e constrangimentos. Pretende a reparação por danos morais no valor de R$ 10.900,00 (dez mil e novecentos reais).
+      Em audiência de conciliação, o réu afirmou ter recebido novamente os bens perdidos (f. 08) e que desejava que o autor desistisse do processo, uma vez que ambos nada poderiam provar. O autor afirmou que possuía provas testemunhais.
+      O d. Juízo de Primeiro Grau julgou improcedente o pedido, eis que o boletim de ocorrência sequer menciona o nome do autor, não havendo se falar em dano moral.
+      O recorrente requer a cassação da r. sentença, por cerceamento de defesa, sob o argumento de que, em audiência de conciliação, solicitou a produção de prova testemunhal (f. 08).
+      Não assiste razão ao recorrente. O destinatário da prova é o Juiz, sendo livre para formar o seu livre convencimento, cabendo-lhe determinar as provas necessárias à instrução do processo, podendo indeferir as inúteis ou meramente protelatórias, nos termos dos artigos 130 e 131 do Código de Processo Civil.
+      O pedido do recorrente se fundamenta nos danos morais que narra ter sofrido pela suposta acusação de furto noticiado em boletim de ocorrência. Ocorre, porém, que a simples análise do registro policial demonstra que o nome dele sequer foi mencionado na ocorrência, inexistindo violação a qualquer direito da personalidade, sendo, no caso, desnecessária a produção de prova testemunhal para a formação do convencimento do d. Juízo.
+      Ante o exposto, NEGO PROVIMENTO ao recurso e mantenho a r. sentença recorrida. Condeno a parte recorrente ao pagamento das custas processuais, cuja exigibilidade fica suspensa, nos termos do art. 12 da lei 1.060/1950. Sem honorários advocatícios, haja vista a ausência de contrarrazões.
+      Acórdão lavrado conforme o art. 46 da Lei nº 9.099, de 26 de setembro de 1995. ”
+    2. O Agravante afirma que a Turma Recursal teria contrariado o art. 5º, incs., LIV e LV, da Constituição da República.
+    Argumenta que “o acórdão e a sentença atacados violaram o direito à produção de prova do recorrente, na medida em que indeferiu indevidamente a produção de uma prova testemunhal imprescindível para o deslinde da causa”.
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a ofensa à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Não houve cerceamento de defesa pelo indeferimento da produção de prova, pois cabe ao juiz da causa o exame de sua suficiência e a eventual necessidade de dilação probatória. A questão posta foi solucionada, nos termos da jurisprudência deste Supremo Tribunal, com base na legislação infraconstitucional, o que impede o seguimento deste recurso:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DA NECESSIDADE DE PRODUÇÃO DE PROVA PERCIAL. QUESTÃO RESTRITA AO ÂMBITO INFRACONSTITUCIONAL. ALEGAÇÃO DE OFENSA ÀS GARANTIAS CONSTITUCIONAIS DO CONTRADITÓRIO E DA ampla defesa. INEXISTÊNCIA. 1. Não caracteriza cerceamento de defesa a decisão que, motivadamente, indefere determinada diligência probatória. Precedentes: AIs 382.214, da relatoria do ministro Celso de Mello; e 114.548-AgR, da relatoria do ministro Sepúlveda Pertence. 2. Agravo desprovido” (AI 788.835-AgR, Rel. Min. Ayres Britto, Primeira Turma, DJe 17.9.2010).
+    “Agravo regimental no agravo de instrumento. ofensa indireta ou reflexa à Constituição Federal. Indeferimento de diligência probatória. Cerceamento de defesa. Inocorrência. Precedentes. 1. A afronta aos princípios constitucionais da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação dos atos decisórios, dos limites da coisa julgada e da prestação jurisdicional, se dependente de reexame prévio de normas infraconstitucionais, seria indireta ou reflexa. 2. A jurisprudência predominante desta Suprema Corte é no sentido de que não constitui constrangimento ilegal a prolação de decisão de primeiro grau que, de maneira fundamentada, indefere pedido de produção de prova pericial. 3. Agravo regimental desprovido” (AI 728.267-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 27.8.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 28 de maio de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
