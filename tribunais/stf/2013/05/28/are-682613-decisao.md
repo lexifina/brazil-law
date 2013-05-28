@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Paraná que, em ação ordinária, manteve o bloqueio de valores realizado em decorrência de decisões proferidas por magistrados em ações diversas que tramitam contra a parte recorrente, porquanto não há como deixar de promover ordens de mesma hierarquia jurisdicional.
+    Os embargos de declaração foram rejeitados (fls. 185-191).
+    No recurso extraordinário, interposto com base no art. 102, III, alíneas “a”, da Constituição Federal, a parte recorrente sustenta, preliminarmente, a existência de repercussão gera da matéria, conforme estabelece o art. 543-A, do CPC.
+    Aponta ofensa aos seguintes dispositivos constitucionais: (a) art. 93, IX, uma vez que o Juízo a quo não teria apresentado argumentos para rejeitar os embargos; (b) art. 5º, II e LIV, por ter o Tribunal de origem confirmado o bloqueio de valores realizado em primeira instância sem observar a limitação máxima representada pela quantia remanescente.
+    2. No que toca à alegação de ofensa ao art. 93, IX, da Constituição Federal, relativa à suposta negativa de prestação jurisdicional, deve ser observado entendimento assentado por esta Corte, do qual não divergiu o acórdão recorrido, no julgamento do AI 791.292 QO - RG (min. Rel. GILMAR MENDES, DJe de 13/8/2010), cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que:
+     (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. No que se refere à alegada ofensa ao art. 5º, II, da Constituição Federal, caso exista, é reflexa, uma vez que a análise da violação demandaria o prévio exame de normas infraconstitucionais, o que é incabível em sede de recurso extraordinário. Nesse sentido: ARE 698.491-AgR, Relatora Ministra ROSA WEBER, Primeira Turma, DJe de 19.3.2013; ARE 640.413-AgR, Relator Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 18.3.2013.
+    4. Quanto ao art. 5º, LIV, da Carta Magna, conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em recurso extraordinário, de alegada violação ao princípio do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, .DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    5. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 28 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
