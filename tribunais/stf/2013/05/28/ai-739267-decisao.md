@@ -1,0 +1,12 @@
+DECISÃO
+COMPLEMENTAÇÃO DE APOSENTADORIA – PREVIDÊNCIA PRIVADA – COMPETÊNCIA – JUSTIÇA COMUM. RECURSO EXTRAORDINÁRIO – INTERPRETAÇÃO DE NORMAS LEGAIS. REPERCUSSÃO GERAL INADMITIDA – INDEFERIMENTO DE PEDIDO DE PRODUÇÃO DE PROVAS REQUERIDAS JUDICIALMENTE – PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO – MATÉRIA INFRACONSTITUCIONAL. RECURSO EXTRAORDINÁRIO – INTERPOSIÇÃO SIMULTÂNEA DO ESPECIAL – PREJUÍZO.
+    1. O Tribunal, no Recurso Extraordinário nº 586.453/SE, em que designado redator para o acórdão o ministro Dias Toffoli, concluiu incumbir à Justiça Comum o julgamento de controvérsias referentes ao pagamento de complementação de aposentadoria devida por entidade de previdência privada.
+    De resto, o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando o acesso ao Supremo. À mercê de articulação sobre a ofensa à Carta da República, pretende-se guindar a esta Corte recurso que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    A par desse aspecto, descabe confundir a ausência de entrega aperfeiçoada da prestação jurisdicional com decisão contrária aos interesses defendidos. A violência ao devido processo legal não pode ser tomada como uma alavanca para alçar a este Tribunal conflito de interesses cuja solução se exaure na origem. A tentativa acaba por se fazer voltada à transformação do Supremo em mero revisor dos atos dos demais tribunais do País. Na espécie, o Colegiado de origem procedeu a julgamento fundamentado de forma consentânea com a ordem jurídica.
+    No mais, o Tribunal, no Recurso Extraordinário com Agravo nº 639.228/RJ, da relatoria do Ministro Gilmar Mendes, assentando a natureza infraconstitucional da matéria, concluiu não ter repercussão geral o tema relativo à suposta ofensa aos princípios da ampla defesa e do contraditório quando o juiz indefere pedido de produção de provas.
+    Quanto ao pedido de extensão do abono salarial aos inativos, simultaneamente com o extraordinário, versando sobre idêntica matéria, foi interposto recurso especial. O Superior Tribunal de Justiça dele conheceu e acolheu o pedido formulado. A decisão prolatada substituiu, consoante o disposto no artigo 512 do Código de Processo Civil, a formalizada pelo Tribunal de Justiça do Estado de Santa Catarina, que, assim, não mais subsiste, no particular.
+    2. Conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 28 de maio de 2013.
+Ministro MARCO AURÉLIO
+Relator
