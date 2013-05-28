@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF04 nº 35, de 30 de abril de 2013
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL EMENTA: LUCRO PRESUMIDO. PERCENTUAL. PRESTAÇÃO DE SERVIÇOS DE FISIOTERAPIA, TERAPIA OCUPACIONAL E FONOAUDIOLOGIA. ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ EMENTA: LUCRO PRESUMIDO. PERCENTUAL. PRESTAÇÃO DE SERVIÇOS DE FISIOTERAPIA, TERAPIA OCUPACIONAL E FONOAUDIOLOGIA.
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+EMENTA: LUCRO PRESUMIDO. PERCENTUAL. PRESTAÇÃO DE SERVIÇOS DE FISIOTERAPIA, TERAPIA OCUPACIONAL E FONOAUDIOLOGIA. Para fins de determinação da base de cálculo presumida da CSLL, as atividades de fisioterapia, terapia ocupacional e fonoaudiologia são contempladas pelo art. 29 da Lei nº 11.727, de 2008, desde que a prestadora destes serviços esteja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, com alterações, arts. 15, § 1º, III, “a”, e 20; Lei nº 11.727, de 2008, arts. 29 e 41, VI; Resolução - RDC Anvisa nº 50, de 2002.
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+EMENTA: LUCRO PRESUMIDO. PERCENTUAL. PRESTAÇÃO DE SERVIÇOS DE FISIOTERAPIA, TERAPIA OCUPACIONAL E FONOAUDIOLOGIA. Para fins de determinação da base de cálculo presumida do IRPJ, as atividades de fisioterapia, terapia ocupacional e fonoaudiologia são contempladas pelo art. 29 da Lei nº 11.727, de 2008, desde que a prestadora destes serviços esteja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa.
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, com alterações, arts. 15, § 1º, III, “a”, e 20; Lei nº 11.727, de 2008, arts. 29 e 41, VI; Resolução - RDC Anvisa nº 50, de 2002.
