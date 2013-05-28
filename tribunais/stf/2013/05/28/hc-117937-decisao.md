@@ -1,0 +1,13 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor José Gallardo Diaz, Elaine Cristina do Prado Brunheroto Pires e José Carlos Andrade Gomes contra acórdão da Primeira Turma do Supremo Tribunal Federal que, nos autos do RHC 82.390/SP, deu provimento ao recurso, nos termos da seguinte ementa:
+    Crime material contra a ordem tributária (L. 8.137/90, art. 1º): lançamento do tributo pendente de decisão definitiva do processo administrativo: falta de justa causa para a ação penal, suspenso, porém, o curso da prescrição enquanto obstada a sua propositura pela falta do lançamento definitivo: precedente (HC 81.611, Pleno, 10.12.2003, Pertence, Inf.STF 333).
+    (RHC 82.390/SP, 1ª T., Rel. Min. Moreira Alves, Relator p/ Acórdão: Min. Sepúlveda Pertence, DJ 15/10/2004).
+    Sustenta o impetrante, em síntese, que: (a) o provimento do recurso, anulando a ação penal, ocorreu após o cumprimento definitivo das penas impostas ao paciente; (b) após a decisão proferida pelo STF, os pacientes foram denunciados perante o Juízo da Comarca de Aguaí/SP pela prática dos mesmos fatos (arts. 1º, II, c/c os arts. 11 e 12 da Lei 8.137/90); (c) oferecida exceção de coisa julgada perante ao Juízo de Aguaí/SP, este a rejeitou; (d) é inequívoca a ofensa ao princípio da proporcionalidade e do no bis in idem, já que não podem responder novamente por fatos pelos quais já foram denunciados, condenados e cujas penas já foram declaradas extintas; (e) nulidade da decisão do STF que julgou recurso que não havia mais interesse de agir; (g) impõe-se o reconhecimento da prescrição retroativa. Requer a concessão de medida liminar para suspender o curso da ação penal 200/2012, em trâmite na Comarca de Aguaí/SP.
+    2. Nos termos da Súmula 606/STF, “não cabe habeas corpus originário para o Tribunal Pleno de decisão de turma, ou do plenário, proferida em habeas corpus ou no respectivo recurso”. Reafirmando esse entendimento: HC 102.745 AgR/SP, Tribunal Pleno, Min. Gilmar Mendes, Dje de 10/05/2013.
+    De qualquer modo, cumpre enfatizar que, além de as questões aqui suscitadas não terem sido objeto de apreciação pelo ato impugnado, a presente impetração se insurge, em verdade, contra decisão proferida pelo Juízo da Comarca de Aguaí/SP que rejeitou exceção de coisa julgada formulada em favor dos pacientes. Assim, como a autoridade que praticou o ato descrito – Juiz de Direito – não se encontra entre aquelas previstas no art. 102, I, d e i, da Constituição Federal, o pedido, também por essa razão, não pode ser conhecido.
+    3. Diante do exposto, nego seguimento ao habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 28 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
