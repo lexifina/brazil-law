@@ -1,0 +1,4 @@
+Solução de Consulta Diana/SRRF10 nº 68, de 14 de novembro de 2012
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8521.90.90 Mercadoria: Aparelho para gravação e reprodução de vídeo e áudio digitais (DVR - Digital Video Recorder), próprio para sistema de vigilância em circuito fechado de televisão, com armazenamento em disco rígido, contendo entradas para 16 câmeras digitais e 4 microfones, uma saída para monitor de vídeo, uma porta LAN e duas portas USB, capaz de realizar diversas operações ao mesmo tempo (por exemplo, gravação, visualização, reprodução, transmissão e backup), modelo "LVR6016A-D", comercialmente denominado "DVR 16 Canais"
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 85.21) e 6 (texto da subposição 8521.90) e RGC 1 (texto do item 8521.90.90), da TEC aprovada pela Resolução Camex nº 94, de 2011
