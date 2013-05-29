@@ -1,0 +1,26 @@
+Trata-se de reclamação constitucional, com pedido liminar, ajuizada pelo Município de Itajaí/SC, contra decisões prolatadas pelo Juízo da 2ª Vara do Trabalho de Itajaí (12ª Região) que, nos autos da Ação Anulatória 0004078-30.2011.5.12.0022 e da Ação Cautelar 0002666-64.2011.5.12.0022, teriam desrespeitado a autoridade do acórdão proferido pelo Plenário desta Corte no julgamento da ADI 3.395-MC/DF, Rel. Min. Cezar Peluso.
+    Na origem, o Município de Itajaí/SC ajuizou Ação Anulatória contra a União, em que buscava anular crédito tributário inscrito em dívida ativa, relativo à fiscalização do Ministério do Trabalho e Emprego, que culminou na abertura dos Processos Administrativos 46220.006240/2007-1 e 46220.006271/2007-60.
+    Verifica-se que os agentes de fiscalização do Ministério do Trabalho e Emprego concluíram pela descaracterização da necessidade temporária de excepcional interesse público e, desta feita, reconheceram a existência de vínculo de emprego entre os servidores e a Municipalidade ora reclamante.
+    Ademais, constataram o descumprimento das obrigações legais de recolhimento do Fundo de Garantia por Tempo de Serviço - FGTS de 8.391 trabalhadores, bem como de recolhimento da contribuição social devida, razão pela qual emitiram autos de infração em face do Município de Itajaí.
+    O reclamante alega, em suma, a incompetência da Justiça Trabalhista para processar e julgar o feito, sob a alegação de que:
+    “Ambos os processos administrativos foram instaurados, em que pese a relação jurídica mantida ser de cunho nitidamente jurídico-administrativo, eis que expressamente regida pelo art. 162 do Estatuto dos Servidores Públicos Municipais, Lei Municipal nº. 2.960/95”.
+    Deferi o pedido liminar em 12/6/2012.
+    A Procuradoria Geral da República manifestou-se pelo não conhecimento da reclamação.
+    É o relatório necessário.
+    Decido.
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida, pois o pedido formulado pelo reclamante não se enquadra em nenhuma das duas hipóteses permissivas inscritas no art. 102, I, l, da Constituição Federal, seja para preservar a competência da Suprema Corte, seja para garantir a autoridade de suas decisões.
+    A reclamação utiliza como paradigma a decisão proferida por esta Corte na ADI 3.395-MC/DF, Rel. Min. Cezar Peluso, que porta a seguinte ementa:
+    “INCONSTITUCIONALIDADE. ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Observa-se que, no referido julgamento, o Plenário desta Casa determinou o afastamento de qualquer interpretação dada ao art. 114, I, da Constituição Federal, que inclua na competência da Justiça do Trabalho as causas instauradas entre o Poder público e servidor que lhe esteja vinculado por relação jurídico-estatutária.
+    Ocorre que, no caso dos autos, a ação ajuizada na Justiça trabalhista não tem como pano de fundo causa entre a Administração pública e servidor a ela vinculado.
+    Com efeito, o Município buscar anular crédito tributário inscrito em dívida ativa da União mediante propositura de Ação Anulatória. Ora, ainda que o crédito tenha origem na suposta atuação do órgão de fiscalização das relações de emprego, a competência do Ministério do Trabalho e Emprego para essa fiscalização não foi objeto de decisão da ADI 3.395-MC/DF.
+    Nesse sentido, menciono a Rcl 15.095/RS, de minha relatoria.
+    Ressalto, por oportuno, o que restou consignado por esta Corte por ocasião do julgamento da Rcl 6.534-AgR/MA, Rel. Min. Celso de Mello:
+    “Os atos questionados em qualquer reclamação - nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal - hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal”.
+    De fato não se pode ampliar o alcance da reclamação, sob pena de transformá-la em verdadeiro sucedâneo ou substitutivo de recurso, ajuizada diretamente no órgão máximo do Poder Judiciário. Nesse sentido: Rcl 4.713/SC, de minha relatoria; Pet 2.847, Rel. Min. Carlos Velloso; Rcl 2.279/MA, Rel. Min. Ellen Gracie; Rcl 2.481/MS, Rel. Min. Carlos Velloso; Rcl 968/DF, Rel. Min. Marco Aurélio.
+    Assim, ante a ausência de identidade material entre os fundamentos do ato reclamado e aqueles emanados da ADI 3.395-MC/DF, não merece seguimento a pretensão ora deduzida pelo reclamante.
+    Isso posto, nos termos do art. 21, § 1º, do RISTF, nego seguimento a esta reclamação, ficando cassada, por conseguinte, a concessão do pedido de liminar.
+    Publique-se.
+    Brasília, 29 de maio de 2013.
+Ministro RICARDO LEWANDOWSKI
+Relator
