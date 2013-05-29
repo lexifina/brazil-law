@@ -1,0 +1,26 @@
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CÉDULA DE CRÉDITO HIPOTECÁRIA. IMÓVEL RURAL DADO EM GARANTIA. BEM DE FAMÍLIA. ARTIGO 3º, V, DA LEI 8.009/1990. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10.
+3. In casu, o acórdão recorrido assentou:
+“PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO HIPOTECÁRIA. IMÓVEL RURAL DADO COMO GARANTIA. BEM DE FAMÍLIA. DEFESA INOPONÍVEL. EXCEÇÃO ESTATUÍDA PELO ART. 3º, V, LEI 8.009/1990. REDISTRIBUIÇÃO DA SUCUMBÊNCIA DEVIDA. APELAÇÃO PROVIDA E RECURSO ADESIVO PREJUDICADO.
+Tendo os embargantes dado em hipoteca sua propriedade rural em garantia de cédula da crédito executada não incide a impenhorabilidade, porque são "... impenhoráveis os bens de família, ressalvados os imóveis dados em garantia hipotecária da dívida exeqüenda. Artigo 3º, V, da Lei nº 8.009/90."
+4. Agravo de instrumento a que se NEGA seguimento.
+    Decisão: Trata-se de agravo de instrumento interposto por EDSON ALVES DA CRUZ E OUTROS, com objetivo de ver reformada a decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acórdão prolatado pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO HIPOTECÁRIA. IMÓVEL RURAL DADO COMO GARANTIA. BEM DE FAMÍLIA. DEFESA INOPONÍVEL. EXCEÇÃO ESTATUÍDA PELO ART. 3º, V, LEI 8.009/1990. REDISTRIBUIÇÃO DA SUCUMBÊNCIA DEVIDA. APELAÇÃO PROVIDA E RECURSO ADESIVO PREJUDICADO.
+    Tendo os embargantes dado em hipoteca sua propriedade rural em garantia de cédula da crédito executada não incide a impenhorabilidade, porque são "... impenhoráveis os bens de família, ressalvados os imóveis dados em garantia hipotecária da dívida exeqüenda. Artigo 3º, V, da Lei nº 8.009/90."
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustentam a preliminar de repercussão geral e, no mérito, apontam violação ao artigo 5º, XXVI, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo extremo, sob o fundamento de que a matéria não foi devidamente prequestionada, e que a questão demanda a análise de matéria infraconstitucional.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    Verifica-se, que a controvérsia sub examine foi decidida à luz da legislação infraconstitucional de regência, in casu a Lei nº. 8.009/1990, artigo 3º, inciso V. Ora, esta Suprema Corte firmou jurisprudência no sentido de que a violação constitucional dependente da análise de malferimento de dispositivos infraconstitucionais encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Nesse sentido: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10, entre outros.
+    Além disso, o acórdão recorrido está em harmonia com a jurisprudência do Supremo Tribunal Federal, no sentido de que a questão relativa à penhorabilidade do bem imóvel objeto de hipoteca cedular, restringe-se à análise de legislação infraconstitucional, como se pode depreender do teor da ementa dos seguintes julgados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DIREITO CIVIL. BEM IMÓVEL OBJETO DE HIPOTECA CEDULAR. PENHORABILIDADE. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI nº 599.166/SP-AgR, Relatora a Ministra Cármen Lúcia, DJe de 26/6/09)
+    “Agravo regimental no agravo de instrumento. Bem de família. Não caracterização. Lei nº 8.009/90. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu, com fundamento na Lei nº 8.009/90 e nos fatos e nas provas dos autos, que o imóvel em discussão não se caracteriza como bem de família. 2. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 e 279/STF. 3. Agravo regimental não provido.” (AI nº 837.206-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 19.9.2012)
+     NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 29 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
