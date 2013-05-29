@@ -1,0 +1,32 @@
+AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE VALORES RECOLHIDOS. NÃO OBRIGATORIEDADE DAS CONTRIBUIÇÕES. CARÁTER COMPLEMENTAR E FACULTATIVO. PRECEDENTES.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2.  A adesão a regime de previdência privada, de caráter complementar, é facultativa, conforme previsto no art. 202 da Constituição Federal. Ante o caráter facultativo da adesão, a liberdade de associação, em sua dimensão negativa, comporta também o direito de não se filiar ou de não permanecer filiado. Precedentes: RE n. 600.392-ED, Relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 28.11.2011 e RE n. 482.207-AgR, Relator Ministro Eros Grau, Segunda Turma, DJe de 29.5.2009.
+3. In casu, o acórdão recorrido assentou:
+“APELAÇÃO CÍVEL - COMPREVI - CARTEIRA DE PREVIDÊNCIA COMPLEMENTAR DOS ESCRIVÃES, NOTÁRIOS E REGISTRADORES - AÇÃO DE DEVOLUÇÃO DE QUANTIAS PAGAS - CARÁTER COMPLEMENTAR E FACULTATIVO DA PREVIDÊNCIA PRIVADA - LIVRE DIREITO DE ASSOCIAÇÃO - NÃO OBRIGATORIEDADE DE FILIAÇÃO E CONTRIBUIÇÃO - JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - PRINCÍPIO DA AUTONOMIA DA VONTADE E DA LIBERDADE ASSOCIATIVA - APELAÇÃO CÍVEL CONHECIDA E PROVIDA. ”
+4. NEGO SEGUIMENTO ao agravo de instrumento.
+    Decisão: Trata-se de agravo de instrumento interposto pela CARTEIRA DE PREVIDÊNCIA COMPLEMENTAR DOS ESCRIVÃES, NOTÁRIOS E REGISTRADORES – CONPREVI, com fundamento no artigo 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pelo Tribunal de Justiça do Estado Paraná, assim ementado (fl. 14):
+    “APELAÇÃO CÍVEL - COMPREVI - CARTEIRA DE PREVIDÊNCIA COMPLEMENTAR DOS ESCRIVÃES, NOTÁRIOS E REGISTRADORES - AÇÃO DE DEVOLUÇÃO DE QUANTIAS PAGAS - CARÁTER COMPLEMENTAR E FACULTATIVO DA PREVIDÊNCIA PRIVADA - LIVRE DIREITO DE ASSOCIAÇÃO - NÃO OBRIGATORIEDADE DE FILIAÇÃO E CONTRIBUIÇÃO - JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA - PRINCÍPIO DA AUTONOMIA DA VONTADE E DA LIBERDADE ASSOCIATIVA - APELAÇÃO CÍVEL CONHECIDA E PROVIDA. ”
+    Opostos embargos de declaração, foram eles rejeitados.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação aos artigos 2º, 5º, XX e XXXVI, e 202 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por não vislumbrar ofensa direta à Constituição Federal.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o agravo.
+    Verifica-se que o acórdão recorrido está em harmonia com a jurisprudência desta Suprema Corte, no sentido de que a adesão a regime de previdência privada, de caráter complementar, é facultativa, conforme previsto no art. 202 da Constituição Federal. Ante o caráter facultativo da adesão, a liberdade de associação, em sua dimensão negativa, comporta também o direito de não se filiar ou de não permanecer filiado. Nesse sentido, colacionam-se os seguintes julgados:
+    “EMBARGOS DE DECLARAÇÃO OPOSTOS DE DECISÃO MONOCRÁTICA. CONVERSÃO EM AGRAVO REGIMENTAL. CONSTITUCIONAL. REGIME DE PREVIDÊNCIA PRIVADA. LIBERDADE DE ASSOCIAÇÃO. MATÉRIA DEVIDAMENTE PREQUESTIONADA. IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INAPLICABILIDADE DAS SÚMULAS 282, 283 E 356 DO STF. AGRAVO IMPROVIDO.
+    I - Matéria constitucional devidamente prequestionada. Inaplicabilidade das Súmulas 282 e 356 do STF.
+    II – Impugnação dos fundamentos do acórdão recorrido. Não incidência da Súmula 283 desta Corte.
+    III - A adesão a regime de previdência privada, de caráter complementar, é facultativa, conforme previsto no art. 202 da Constituição. Ante o caráter facultativo da adesão, este Tribunal firmou entendimento no sentido de que a liberdade de associação, em sua dimensão negativa, comporta também o direito de não se filiar ou de não permanecer filiado. Precedente.
+    IV – Agravo regimental improvido.” (RE n. 600.392-ED, Relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 28.11.2011)
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REGIME DE PREVIDÊNCIA PRIVADA. CARÁTER COMPLEMENTAR. ADESÃO. FACULDADE. LIBERDADE DE ASSOCIAÇÃO.
+    1.A faculdade que tem os interessados de aderirem a plano de previdência privada decorre de norma inserida no próprio texto constitucional [artigo 202 da CB/88].
+    2.Da não-obrigatoriedade de adesão ao sistema de previdência privada decorre a possibilidade de os filiados desvincularem-se dos regimes de previdência complementar a que aderirem, especialmente porque a liberdade de associação comporta, em sua dimensão negativa, o direito de desfiliação, conforme já reconhecido pelo Supremo em outros julgados. Precedentes.
+          Agravo regimental a que se nega provimento.” (RE n. 482.207-AgR, Relator Ministro Eros Grau, Segunda Turma, DJe de 29.5.2009)
+    Demais disso, este Tribunal firmou jurisprudência no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada não desafia a instância extraordinária, visto situar-se no âmbito infraconstitucional. Nesse sentido, AI 700.685-AgR, Segunda Turma, Relator Ministro Eros Grau, DJe 23.02.2008 e AI 635.789-AgR, Primeira Turma, Relator Ministro Dias Toffoli, DJe de 27.04.2011.
+    Registre-se, por derradeiro, que para se chegar à conclusão contrária à adotada pelo acórdão recorrido necessário seria o reexame de cláusulas contratuais, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula 454 do Supremo Tribunal Federal: “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.
+    NEGO SEGUIMENTO ao agravo de instrumento com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Intimações necessárias.
+    Brasília, 29 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
