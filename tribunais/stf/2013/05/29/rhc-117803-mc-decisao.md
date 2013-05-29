@@ -1,0 +1,34 @@
+Penal e processual penal. Recurso ordinário em Habeas corpus, com pedido de liminar. Apropriação indébita previdenciária – art. 168-A do Código Penal. Absolvição. Condenação no recurso de apelação do ministério público. Pena-base exacerbada sem fundamentação. Bis in idem. Atenuante da confissão espontânea. Expectativa de nova dosimetria. Regime aberto. Inexistência de estabelecimento prisional compatível. Prisão domiciliar deferida na origem. Manutenção. Efetividade de eventual decisão favorável.
+- Liminar deferida para que o recorrente permaneça em prisão domiciliar, até o julgamento definitivo do recurso.
+    Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto contra acórdão do Superior Tribunal de Justiça cuja ementa possui o seguinte teor:
+    “HABEAS CORPUS. ART. 168-A DO CÓDIGO PENAL. CONDENAÇÃO EM GRAU DE APELAÇÃO. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO DE INSTRUMENTO EXAMINADO POR ESTA CORTE. MATÉRIA JÁ ENFRENTADA . VIA INDEVIDAMENTE UTILIZADA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. NÃO CONHECIMENTO.
+    1. Mostra-se inadequado e descabido o manejo de habeas corpus em substituição a revisão criminal, posteriormente ao trânsito em julgado e após regular apreciação de agravo de instrumento por esta Corte, no qual inclusive pate da matéria foi enfrentada.
+    2. É imperiosa a necessidade de racionalização do writ, a bem de se prestigiar a lógica do sistema recursal, devendo ser observada sua função constitucional de sanar ilegalidade ou abuso de poder que resulte em coação ou ameaça à liberdade de locomoção.
+    3. “O habeas corpus é garantia fundamental que não pode ser vulgarizada, sob pena de sua descaracterização como remédio heróico, e seu emprego não pode servir a escamotear o instituto recursal previsto no texto da Constituição” (STF, HC 104.045/RJ).
+    4. Hipótese em que não há flagrante ilegalidade a ser reconhecida. A fixação da pena-base acima do mínimo legal foi concretamente motivada, dadas as consequências do delito, indicando-se o montante do prejuízo sofrido pelo INSS. E, como já asseverado no agravo de instrumento, inviável reexaminar as provas dos autos para alterar tal conclusão. De outra parte, o acréscimo pela continuidade delitiva se deu no mínimo legal, faltando interesse à Defesa, no ponto. Por fim, quanto à incidência da atenuante da confissão espontânea, a questão não foi submetida ao exame da Corte estadual, veda a supressão de instância. Preservada a sanção, não há falar em alteração do regime prisional fixado.
+    5. Habeas corpus não conhecido.”
+    Colhe-se dos autos que o paciente foi denunciado pela prática do crime de apropriação indébita de contribuição previdenciária (art. 168-A, do Código Penal), e absolvido, em 02/07/2003, pelo juízo singular, que reconheceu a causa supralegal de exclusão da culpabilidade, por inexigibilidade de conduta diversa, considerada a grave crise financeira enfrentada pela empresa CHOCOLATES DIZIOLI S/A, que a levou ao não repasse ao INSS da quantia de R$ 2.215.462,45 (dois milhões, duzentos e quinze mil, quatrocentos e sessenta e dois reais e quarenta e cinco centavos) descontada dos empregados.
+    O Tribunal Regional Federal da 3ª Região proveu o apelo do Parquet para afastar a causa supralegal de inexigibilidade de conduta diversa, condenando o recorrente à pena de 4 (quatro) anos e 1 (um) mês de reclusão, em regime inicial semiaberto.
+    A defesa interpôs recurso especial sustentando ofensa ao art. 59 do Código Penal, por ausência de fundamentação para exacerbar a pena-base, do mínimo legal de 2 (dois) anos para 3 (três) anos e 6 (seis) meses. Inadmitido o REsp, interpôs agravo de instrumento, o qual restou desprovido, sobrevindo, em consequência, em 26/08/2011, o trânsito em julgado do aresto condenatório.
+    Consta na inicial a informação de que o paciente encontra-se em prisão albergue domiciliar, até que seja designada vaga no regime semiaberto.
+    O recorrente alega, em síntese, que o paciente está submetido a constrangimento ilegal em decorrência:
+    (i) da exasperação da pena-base sem fundamentação,
+    (ii) da ocorrência de bis in idem na análise das circunstâncias judiciais do art. 59 do Código Penal, consistente em que o juiz considerou o não repasse da verba ao INSS, que é elementar do tipo penal, para agravar a pena-base, e
+    (iii) da não aplicação da atenuante genérica da confissão espontânea, não obstante ter sido aventada a sua existência no acórdão condenatório.
+    O recorrente sustenta que o Superior Tribunal de Justiça recusou-se ao exame da referida atenuante sob o fundamento de que não fora analisada pelo Tribunal Regional Federal da 3ª Região. Argumenta que se tratando-se de matéria de ordem pública, deve ser examinada por esta Corte.
+    Informa ter iniciado o cumprimento da pena no regime aberto e que se encontra em prisão domiciliar por força de decisão proferida nos autos da Execução Penal n. 11983-72.2011.403.6181, até o surgimento de vaga em estabelecimento prisional compatível.
+    Requer a concessão de liminar a fim de que continue cumprindo a pena em regime domiciliar e, no mérito, o provimento do recurso para que:
+    “a. seja reformado o acórdão recorrido, para reajuste da pena imposta, para (i) reduzir a pena base, fazendo-se cessar o constrangimento ilegal decorrente de sua exasperação imotivada e da ofensa ao princípio do non bis in idem; (ii) aplicar a atenuante da confissão espontânea a que faz jus o Paciente, tendo-se como limite máximo de redução a pena mínima de 02 anos.
+    b. sendo a hipótese de progressão para regime menos grave (aberto), requer seja concedido ao paciente o direito de continuar o cumprimento da pena a ele imposta no regime aberto, em prisão domiciliar, tal qual forma iniciou o cumprimento de sua pena.”
+    É o relatório.
+    DECIDO.
+    O presente recurso foi distribuído por prevenção, tendo em conta o HC n. 116.580, no qual afastei a Súmula 691/STF e deferi a liminar para suspender a ordem de prisão decorrente da condenação, até o julgamento do mérito do writ impetrado no STJ.
+    As razões recursais são, prima facie, consistentes no que visam ao reconhecimento da confissão espontânea, porquanto o recorrente admitiu o não recolhimento, ao INSS, das contribuições descontadas dos empregados, em que pese ter sustentado a causa supralegal de exclusão da culpabilidade por inexigibilidade de conduta diversa.
+    Ex positis, coerente com os fundamentos da liminar concedida no HC 116.580, que deu ensejo à prevenção deste RHC, e tendo em vista a possibilidade de redimensionamento do pena, concedo a liminar para que o paciente permaneça em prisão domiciliar, até o julgamento final deste recurso, garantindo-se, desse modo, a efetividade de eventual decisão favorável.
+    Comunique-se.
+    Dê-se vista ao Ministério Público Federal.
+    Publique-se. Int..
+    Brasília, 29 de maio de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
