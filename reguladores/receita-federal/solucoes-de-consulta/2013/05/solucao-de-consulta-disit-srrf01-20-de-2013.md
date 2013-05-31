@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF01 nº 20, de 22 de abril de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONSTRUÇÃO CIVIL. RETENÇÃO. RESPONSABILIDADE SOLIDÁRIA. ELISÃO DA RESPONSABILIDADE. CONTRATAÇÃO DE EMPRESA NÃO OPTANTE PELO SIMPLES NACIONAL POR PESSOA JURÍDICA DE DIREITO PRIVADO.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONSTRUÇÃO CIVIL. RETENÇÃO. RESPONSABILIDADE SOLIDÁRIA. ELISÃO DA RESPONSABILIDADE. CONTRATAÇÃO DE EMPRESA NÃO OPTANTE PELO SIMPLES NACIONAL POR PESSOA JURÍDICA DE DIREITO PRIVADO.
+A contratação de serviço de construção civil, mediante empreitada total ou parcial, está sujeita ao instituto da retenção de 11% (onze por cento) do valor bruto da nota fiscal, da fatura ou do recibo de prestação de serviços.
+A contratação de obra de construção civil, mediante empreitada total, está sujeita ao instituto da responsabilidade solidária entre a empresa contratante e a empresa contratada. A contratante de obra de construção civil, mediante empreitada total, poderá elidir-se da responsabilidade solidária por meio da comprovação do recolhimento da retenção de 11% (onze por cento) do valor bruto da nota fiscal emitida pela contratada. O valor retido poderá ser compensado pela empresa contratada, ou ser objeto de restituição, nos termos dos arts. 17 a 19 e 60 da IN RFB nº 1.300, de 2012.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, arts. 30 e 31; Decreto nº 3.048, de 1999, arts. 219 e 220; IN RFB nº 971, de 2009, arts. 112, 117, 142, 149, 154, 160, 163, 164 e 322; IN RFB nº 1.300, de 2012, arts. 17 a 19 e 60.
