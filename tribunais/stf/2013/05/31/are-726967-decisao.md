@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão da Turma Recursal dos Juizados Especiais Fazendários do Estado do Rio de Janeiro que, em ação de cobrança, reformou a sentença que condenara a Administração a indenizar o autor por férias não gozadas, com fundamento no postulado da vedação ao enriquecimento ilícito e na responsabilidade objetiva do Estado.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos artigos 7º, XVII, 37, caput, e 93, caput, da Constituição, asseverando, em suma, que, diante da declaração de inconstitucionalidade do art. 77, XVII, da Constituição Estadual do Rio de Janeiro, inexiste qualquer legislação a amparar o pleito indenizatório, de forma que a manutenção do entendimento firmado pelo Tribunal de origem imporia à Administração obrigação desprovida de fundamento legal, violando, ainda, o princípio da separação dos poderes.
+    2. A matéria em discussão já foi enfrentada diversas vezes por esta Corte, que pacificou entendimento a seu respeito, orientação da qual não divergiu o Tribunal de origem.
+    Com efeito, ambas as Turmas do Supremo Tribunal Federal decidiram pela possibilidade de o servidor público, ativo ou inativo, requerer a conversão de férias não gozadas por necessidade da Administração Pública em indenização (ARE 698.641 AgR, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 21/11/2012), tendo em vista a responsabilidade objetiva desta e sob risco de ofensa à vedação ao enriquecimento ilícito. Nesse sentido, confira-se também: ARE 731.803 AgR/RJ, Rel. Min. RICARDO LEWANDOWISKI, Segunda Turma, DJe de 28/05/2013; RE 596.444 AgR, Rel. Min. MARCO AURÉLIO, Primeira Turma, DJe de 01/02/2013.
+    Ressalte-se que não se trata o presente caso de aplicação do art. 77, XVII, da Constituição Estadual do Rio de Janeiro, declarado inconstitucional por esta Corte no julgamento da ADI 227 (Rel. Min. Maurício Corrêa, DJ de 18/05/2001), uma vez que deixava ao arbítrio do servidor a opção pelo gozo das férias ou sua conversão em pecúnia, mas, em verdade, de impedimento ao exercício deste direito por necessidade da Administração, o que gera o dever de indenização. Precedente: ARE 721.001 RG, Rel. Min. GILMAR MENDES, DJe de 07/03/2013.
+    Dessa forma, inexistindo divergência entre o entendimento da decisão recorrida e a jurisprudência consolidada pelo Supremo Tribunal Federal, inviável o recurso.
+    3. Diante do exposto, conheço do agravo para, desde logo, negar seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 31 de maio de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
