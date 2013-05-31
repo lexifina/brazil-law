@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região ementado nos seguintes termos:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDORES PÚBLICOS. ‘ABATE-TETO’. VANTAGENS DE CARÁTER PESSOAL. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. REGULAMENTAÇÃO. ART. 8º DA EMENDA CONSTITUCIONAL 41/2003. GRATIFICAÇÃO RELATIVA À ATIVIDADE POLICIAL FEDERAL. GRATIFICAÇÃO RELATIVA À ATIVIDADE DE RISCO. GRATIFICAÇÃO RELATIVA À COMPENSAÇÃO ORGÂNICA. ART. 4º DA LEI N. 9.266/96. NATUREZA FUNCIONAL. INCLUSÃO NO TETO. PRECEDENTE. APELO DESPROVIDO. 1. O Supremo Tribunal Federal firmou orientação no sentido de que o art. 37, XI, da CF/88, mesmo na vigência da Emenda Constitucional 19/98, permaneceu com sua aplicabilidade sujeita ao advento de lei regulamentadora, de modo que, na falta desta, teria vigência o sistema original o qual excluía do redutor constitucional as vantagens de caráter pessoal. 2. As parcelas relativas à gratificação de atividade policial, à gratificação de atividades de risco de vida e à gratificação de compensação orgânica previstas no artigo 4º da Lei n. 9.266/96 não possuem natureza de vantagem pessoal, mas funcional, de modo que deve ser computada para fins de teto remuneratório. Precedentes. 3. Apelo desprovido. 4. Sentença confirmada”. (fl. 353)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 37, XI; e 39, § 1º, ambos insertos no texto constitucional.
+    Alega-se, em síntese, que as gratificações de risco de vida, de compensação orgânica e de atividade policial possuem natureza de vantagem pessoal, razão pela qual deveriam ter sido excluídas do cômputo do teto remuneratório.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque o Tribunal de origem consignou, a partir de prévia análise e interpretação da legislação infraconstitucional aplicável - Lei 9.266/96, que as gratificações de atividade policial, de risco de vida e de compensação orgânica não possuem natureza de vantagem pessoal, mas sim funcional, razão pela qual não estariam excluídas no cálculo do teto remuneratório.
+    Para divergir do entendimento adotado, e concluir de forma diversa acerca da natureza jurídica das vantagens em exame, faz-se imprescindível a prévia análise e interpretação da referida legislação infraconstitucional, o que inviabiliza o prosseguimento do recurso extraordinário, a teor de remansosa jurisprudência desta Corte, segundo a qual eventual ofensa à Carta Magna, se existente, dar-se-ia de maneira reflexa ou indireta.
+    Nesse sentido, confira-se o AI-AgR 502.552, Rel. Min. Carlos Britto, Primeira Turma, DJe 24.11.2006, a seguir ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SERVIDORES PÚBLICOS DO ESTADO DO PARANÁ. INCIDÊNCIA DE REDUTOR SALARIAL. LEI ESTADUAL Nº 11.071/95. NATUREZA DAS PARCELAS EXCLUÍDAS. DISCUSSÃO DE ÍNDOLE INFRACONSTITUCIONAL.
+    Restringe-se ao âmbito infraconstitucional a controvérsia em torno da natureza das parcelas que os recorrentes pretendem ver excluídas do cômputo do teto remuneratório. Indispensável, no caso, o reexame da legislação local, procedimento vedado na instância extraordinária.
+    Agravo regimental desprovido”.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 31 de maio de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
