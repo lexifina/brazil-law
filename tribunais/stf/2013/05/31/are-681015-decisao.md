@@ -1,0 +1,21 @@
+Contra o juízo negativo de admissibilidade da Segunda Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul, maneja agravo o Ministério Público Estadual com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da violação indireta de dispositivo constitucional.
+    O Juízo de Direito da Comarca de Ibirubá/RS condenou Luis Felipe Freese Teixeira às penas de 3 (três) anos de reclusão, em regime inicial semiaberto, e 60 (sessenta) dias-multa, pela prática do crime tipificado no art. 155 do Código Penal. Naquele julgamento, decretada a prisão cautelar do Recorrido ao fundamento da garantia da ordem pública (art. 312 do CPP).
+    A Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado do Rio Grande do Sul, que concedeu a ordem, para assegurar o direito de recorrer em liberdade, em acórdão assim ementado:
+    “Habeas corpus. Sentença que negou ao paciente, por situações conhecidas desde antes (antecedentes e não localização na audiência de instrução e julgamento) o direito de apelar em liberdade. Se tais circunstâncias não impediram o réu de responder solto o processo, não podem só elas inviabilizarem a possibilidade de apelo sem recolhimento ao cárcere. Coação ilegal configurada. Ordem concedida. Por maioria”.
+    Inconformado, o Ministério Público manejou recurso extraordinário, sob o argumento da violação do art. 5º, LVII, da Constituição Federal. Sustenta a necessidade de manutenção da sua prisão preventiva em razão dos registros criminais pretéritos do Recorrido.
+    Requer o restabelecimento da constrição cautelar decretada pelo magistrado de primeiro grau.
+    O apelo extremo inadmitido na Corte de origem resultou na interposição do presente agravo.
+    É o relatório.
+    Decido.
+    Não há como assegurar trânsito ao recurso extraordinário.
+    Colho, oportunamente, os seguintes excertos do voto condutor do acórdão hostilizado:
+    “Ora, se os registros constantes da certidão de antecedentes do paciente e o fato de não ter sido localizado para audiência de instrução e julgamento, situações conhecidas do Julgador singular desde antes da sentença, não o impediram de seguir respondendo solto o processo, evidente que, ao final, até em respeito ao princípio da presunção de inocência, não poderiam estas mesmas circunstâncias (e só elas) inviabilizar que o paciente apelasse sem se recolher ao cárcere.
+    Quem responde ao processo em liberdade, de ordinário (e o caso em exame nada tem de excepcional), tem o direito de assim permanecer até o julgamento de eventual apelo”.
+    A questão debatida, envolvendo a possibilidade ou não da manutenção da prisão preventiva do Recorrido, mesmo com registros de antecedentes criminais, é eminentemente infraconstitucional (art. 312 do CPP).
+    Ofensa à Constituição, se houvesse, seria meramente reflexa, não sendo cabível o extraordinário, conforme jurisprudência uníssona do Supremo Tribunal Federal (v.g.: “Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” – RE 660.186 AgR/RS – 1ª Turma – Rel. Min. Dias Toffoli – un. – j. 13.12.2011 – DJe 032, de 14.02.2012; “Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária” – RE 642.408 AgR/SP – 1ª Turma – Rel. Min. Luiz Fux – un. – j. 13.12.2011 – DJe 032, de 14.02.2012).
+    Nesse contexto, forçoso concluir que, para dissentir do entendimento do Tribunal de Justiça sobre a impossibilidade de manutenção da prisão preventiva, a pretexto de ofensa ao apontado dispositivo constitucional, necessário seria o revolvimento do conjunto fático-probatório do caso, o que encontra óbice na Súmula 279/STF: “Para simples reexame de prova não cabe recurso extraordinário”.
+    Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de maio de 2013.
+Ministra Rosa Weber
+Relatora
