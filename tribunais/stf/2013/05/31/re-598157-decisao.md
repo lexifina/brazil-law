@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado do Rio de Janeiro. Aparelhado o recurso na afronta aos arts. 5º, XXXVI, 40, § 10, e 195, § 5º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Da leitura dos fundamentos do acórdão prolatado na origem, verifico que o Tribunal de origem, para reconhecer o direito da agravada ao percebimento da pensão ora questionada, não se fundamentou na Lei Complementar 69/1990, declarada inconstitucional pelo Tribunal de Justiça local, mas na Lei Estadual 3.189/1999. Dessa forma, a infringência aos preceitos constitucionais indicados somente poderia ser constatada a partir da análise de legislação local apontada no apelo extremo (Leis Estaduais 7.301/1973, 7.602/1974 e 3.189/1999, Lei Complementar Estadual 69/1990 e Decreto Estadual 25.535/1999), o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Aplicável, na hipótese, o entendimento jurisprudencial vertido na Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 665.560-AgR/SC, Rel. Min. Luiz Fux, 1ª Turma, DJe 06.6.2012, AI 446.553-AgR/RJ, Rel. Min. Eros Grau, 1ª Turma, DJ 15.10.2004; e RE 577.827-AgR/RJ, Rel. Min. Ellen Gracie, 2ª Turma, DJe 13.6.2011, cujas ementas transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. PENSÃO ESPECIAL. DEFICIENTE MENTAL. REVISÃO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. SÚMULA 280/STF. PRECEDENTES. 1. A ofensa ao direito local não viabiliza o apelo extremo (Súmula 280 do STF). (...) 3. Agravo regimental a que se nega provimento”.
+    “EMENTA: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PENSÃO ESPECIAL. LEI COMPLEMENTAR 69/90. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280-STF. Questão apreciada à luz de legislação de direito local, circunstância impeditiva a apreciação do extraordinário. Súmula 280-STF. Precedentes. Agravo regimental a que se nega provimento” (destaquei).
+    “PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PENSÃO ESPECIAL. FISCAIS DE RENDA. ÓBITO DO SERVIDOR ANTERIOR AO ADVENTO DA LC ESTADUAL 69/90. LEI DE REGÊNCIA. PRINCÍPIO TEMPUS REGIT ACTUM. NATUREZA DO BENEFÍCIO. SÚMULA STF 280. 1. Em matéria previdenciária, a lei de regência é a vigente ao tempo em que reunidos os requisitos para a concessão do benefício (princípio tempus regit actum). Precedentes. 2. Necessidade de prévio exame de legislação local (LC 69/90) para concluir de forma diversa do aresto impugnado que considerou o benefício como “de natureza previdenciária”. Súmula STF 280. 3. Agravo regimental a que se nega provimento” (destaquei).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 31 de maio de 2013.
+Ministra Rosa Weber
+Relatora
