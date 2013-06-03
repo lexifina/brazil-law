@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia que julgou improcedente ação rescisória proposta pelo ora recorrente, visando a desconstituir acórdão que extinguira ação ordinária com fundamento na prescrição do fundo do direito, na qual pleiteava sua reintegração ao quadro da Polícia Militar do Estado da Bahia.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, da Constituição Federal, aponta violação aos seguintes dispositivos constitucionais: (a) artigo 3º, I, e III, asseverando que foi excluído da corporação de forma desarrazoada e em afronta aos princípios constitucionais básicos necessários para apuração da infração cometida, marginalizando-o perante a sociedade em virtude de seu desemprego; (b) artigo 5º, XXXV, e XXXVI, tendo em vista que o acórdão violou a estabilidade, a ampla defesa, e o contraditório, que são direitos adquiridos do recorrente.
+    2. Quanto ao art. 3º, I e III, da Constituição, trata-se de norma que define os objetivos fundamentais da República Federativa do Brasil. Como se vê, o apelo apóia-se em norma incapaz de infirmar o juízo formulado pelo acórdão recorrido, por trazer disposição demasiado genérica, o que atrai a aplicação analógica da Súmula 284 do STF.
+    3. Quanto ao mais, conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação aos princípios do acesso à jurisdição, do ato jurídico perfeito, do devido processo legal, do contraditório e da ampla defesa que, por não prescindir do exame de normas infraconstitucionais, apontam ofensa, meramente, indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 03 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
