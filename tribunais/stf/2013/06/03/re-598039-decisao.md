@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Estado do Acre interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça daquele Estado, assim ementado:
+    “MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO FEDERAL, ESTADUAL OU MUNICIPAL. SEXTA PARTE. GARANTIA CONSTITUCIONAL. LAPSO TEMPORAL. PREENCHIDO. ATO JURÍDICO PERFEITO. SEGURANÇA CONCEDIDA.
+    1. O Procurador-Geral de Estado faz jus à gratificação correspondente à sexta parte dos vencimentos integrais, a teor do que dispõe o art. 36, § 4º, da Constituição Federal.
+    2. A sexta parte é vantagem pecuniária adquirida pelo simples passar do tempo, vinte e cinco anos. Verificado o atendimento dos requisitos legais, a sua concessão constitui ato jurídico perfeito.
+    3. Segurança concedida, unânime. Precedentes jurisprudenciais” (fl. 65).
+    Opostos embargos de declaração (fls. 75 a 89), foram parcialmente acolhidos, para sanar erro material na ementa e sanar omissão no tocante à emissão de juízo sobre o abate-teto (fls. 96 a 100).
+    Sustenta o recorrente, violação do artigo 5º, caput e incisos I e LXIX e 37, caput e inciso XIV, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, pois a jurisprudência deste Supremo Tribunal Federal pacificou-se no sentido de que a análise da legalidade do pagamento de adicionais do tipo “sexta parte”, depende da apreciação da legislação local acerca desse tipo de vantagem, de modo que, para alcançar conclusão diversa daquela adotada pela Corte de origem, seria imprescindível a prévia interpretação de dispositivos infraconstitucionais – in casu, Constituição do Estado do Acre e Lei Complementar Estadual pertinente –, providência vedada no âmbito do recurso extraordinário, nos termos da Súmula nº 280 desta Corte. Nesse sentido, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. QUINQUÊNIOS. LEGISLAÇÃO LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. As normas contidas no artigo 129 da Constituição do Estado de São Paulo dizem respeito tão-somente ao Direito local. Para dissentir-se do acórdão recorrido seria necessário o reexame de legislação local, circunstância que impede a admissão do recurso extraordinário ante o óbice da Súmula n. 280 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 593.098/SP-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 19/12/08).
+    “AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO DO ESTADO DE SÃO PAULO. ADICIONAL DE SEXTA PARTE. DIREITO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. SUPERVENIÊNCIA DA EC 19/1998.
+     A decisão agravada está em perfeita consonância com o entendimento firmado por ambas as Turmas desta Corte no sentido de que é inviável em recurso extraordinário o debate de questão relativa a direito meramente local. O Tribunal a quo, ao reconhecer o direito dos servidores do Estado de São Paulo à vantagem da sexta parte calculada sobre os vencimentos integrais, fundamentou-se exclusivamente no art. 129 da Constituição estadual. Assim, eventual violação da Constituição federal seria indireta. Incidência da Súmula 280/STF. Óbice não afastado pelo advento da Emenda Constitucional 19/1998. Agravo regimental a que se nega provimento” (AI nº. 406.697-AgR/SP, Relator o Ministro Joaquim Barbosa, DJ de 27/9/05).
+    “RECURSO EXTRAORDINÁRIO. ADICIONAL DE SEXTA-PARTE. ART. 129 DA CONSTITUIÇÃO DO ESTADO DE SÃO PAULO. MATÉRIA INFRACONSTITUCIONAL.
+    A presente controvérsia passa, necessariamente, pela análise da legislação infraconstitucional pertinente, na qual se baseara o acórdão recorrido (art. 129 da Constituição do Estado de São Paulo). Incide, no caso concreto, o óbice da Súmula 280 desta colenda Corte. Agravo regimental desprovido” (RE nº 309.574/SP-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJ de 10/9/04).
+    Seguindo a mesma orientação, cito as seguintes decisões monocráticas: RE nº 575.655/SP, Relator o Ministro Ayres Britto, DJe de 1º/6/11; AI nº 668.668/SP, Relator o Ministro Joaquim Barbosa, DJe de 17/9/10; AI nº 615.885/SP, Relatora a Ministra Cármen Lúcia, DJe de 26/5/08; ARE nº 681.902/SP, Relator o Ministro Gilmar Mendes, DJe de 7/5/2012; e RE 556.936/SP, de minha relatoria, DJe de 26/8/11.
+    Ressalte-se, por fim, que, ao examinar o ARE nº 675.153/SP, esta Corte concluiu pela ausência de repercussão geral da matéria discutida nos presentes autos. O assunto corresponde ao tema 563 da Gestão por Temas da Repercussão Geral do portal do STF na internet.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 3 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
