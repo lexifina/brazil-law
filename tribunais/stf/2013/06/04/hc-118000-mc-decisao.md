@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de CÍCERO GONÇALVES DA SILVA, contra acórdão da Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao Agravo Regimental no Agravo em Recurso Especial 286.181/PR, Rel. Min. Laurita Vaz.
+    A impetrante narra, de início, que o paciente foi denunciado pela suposta prática do crime previsto no art. 334, § 1º, d, do Código Penal (contrabando ou descaminho).
+    Diz, mais, que o juízo processante aplicou ao caso o princípio da insignificância, por entender que o valor dos tributos devidos era inferior ao disposto no art. 20, da Lei 10.522/2002, modificado pela na Portaria nº 75 do Ministério da Fazenda, de 22 de março de 2012 (DOU, Seção 1, de 26/03/2012, pg. 22-23). Assim, entendendo ser atípica a conduta descrita na denúncia, absolveu o paciente com base no art. 386, III, do Código de Processo Penal.
+    Relata, em seguida, que o Ministério Público Federal apelou para o Tribunal Regional Federal da 4ª Região, que negou provimento ao recurso. Desse acórdão, opôs embargos de declaração, que foram rejeitados.
+    Irresignado, o Parquet apresentou recurso especial no Superior Tribunal de Justiça, que lhe negou seguimento, dando ensejo à interposição de agravo. O recurso foi provido para cassar o acórdão recorrido e a sentença de primeiro grau e determinar o retorno dos autos à origem, para o prosseguimento da ação penal.
+    Sustentando a possibilidade de que não se pode afastar, de forma absoluta, a aplicação do princípio da insignificância aos crimes de contrabando, a defesa interpôs agravo regimental, que foi improvido pela Quinta Turma, em acórdão assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. CRIME DE CONTRABANDO. IMPORTAÇÃO IRREGULAR DE CIGARROS DE ORIGEM ESTRANGEIRA. INAPLICABILIDADE DO PRINCÍPIO DA INSIGNIFICÂNCIA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Na ausência de argumento apto a afastar as razões consideradas no julgado ora agravado, deve ser a decisão mantida por seus próprios fundamentos.
+    2. Agravo regimental desprovido”.
+    É contra esse julgado que se insurge a impetrante.
+    Sustenta, inicialmente, que, no julgamento da QO-Ag 1.154.599/SP no STJ, decidiu-se que, em caso de inadmissão do recurso especial com base no art. 543-C, § 7º, do CPC e decidido o tema em sede de recurso representativo da controvérsia, deverá ser interposto agravo interno no tribunal de origem. Assim, alega que o conhecimento e o provimento do agravo em recurso especial afronta diretamente a jurisprudência do STJ.
+    Aduz, quanto ao mérito, que, o juízo de 1º grau aplicou o princípio da insignificância ao caso dos autos devido ao valor do débito tributário ser inferior a R$ 10.000,00, entendimento confirmado pelo TRF da 4ª Região.
+    Afirma, também, que a Ministra Laurita Vaz, ao conhecer do agravo e dar provimento ao recurso especial, afastou a incidência do princípio da insignificância, determinado o retorno dos autos à origem para o prosseguimento da ação penal.
+    Alega, em seguida, não ser pacífico o entendimento das Cortes Superiores a respeito do tema.
+    Argumenta, outrossim, que o princípio da insignificância pode ser aplicado a qualquer crime, desde que não haja significativa lesão ao bem jurídico tutelado, não se podendo, portanto, afastar tal princípio sem a análise do caso concreto.
+    Requer, ao final, liminarmente, seja concedida a ordem, determinando-se a suspensão da ação penal 2009.70.02.004393-9 da 2ª Vara Federal da Subseção Judiciária de Foz do Iguaçu/PR. No mérito, pede seja cassado o acórdão ora recorrido, restabelecendo-se as decisões das instâncias ordinárias, aplicando-se o princípio da insignificância ao presente caso e reconhecendo-se o trânsito em julgado do acórdão proferido pelo TRF.
+    É o relatório suficiente. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional, nas hipóteses em que se demonstre, de modo inequívoco, dada a natureza do próprio pedido, a presença dos requisitos autorizadores da medida. Em um primeiro exame, tenho por ausentes tais requisitos.
+    Como se sabe, a configuração do delito de bagatela, conforme têm entendido as duas Turmas deste Tribunal, exige a satisfação, de forma concomitante, de certos requisitos, quais sejam, a conduta minimamente ofensiva, a ausência de periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a lesão jurídica inexpressiva.
+    Nesse contexto, verifico que a Segunda Turma desta Corte vem, sistematicamente, afastando a aplicação do princípio da insignificância quando se trata do delito de contrabando de cigarros, por entender que é típica mercadoria que abastece um intenso comércio clandestino, extremamente nocivo para o País, seja do ponto de vista tributário, seja do ponto de vista da saúde pública.
+    Desse modo, tenho que os argumentos da impetrante não são suficientes para, a priori, justificar a suspensão da ação penal, devendo ser melhor analisados pelo Colegiado no julgamento de mérito da impetração.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Estando bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 4 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
