@@ -25,6 +25,3 @@ III - agrícolas, conforme ato do Conselho Monetário Nacional.
 I - co-responsabilidades cedidas;
 II - a parcela das contraprestações pecuniárias destinada à constituição de provisões técnicas;
 III - o valor referente às indenizações correspondentes aos eventos ocorridos, efetivamente pago, deduzido das importâncias recebidas a título de transferência de responsabilidades.
-§ 10. As pessoas jurídicas integrantes da Rede Arrecadadora de Receitas Federais - Rarf poderão excluir da base de cálculo da Cofins o valor auferido em cada período de apuração como remuneração dos serviços de arrecadação de receitas federais, dividido pela alíquota referida no art. 18 da Lei nº 10.684, de 30 de maio de 2003.
-§ 11. Caso não seja possível fazer a exclusão de que trata o § 10 na base de cálculo da Cofins referente ao período em que auferida remuneração, o montante excedente poderá ser excluído da base de cálculo da Cofins dos períodos subsequentes.
-§ 12. A Secretaria da Receita Federal do Brasil do Ministério da Fazenda disciplinará o disposto nos §§ 10 e 11, inclusive quanto à definição do valor auferido como remuneração dos serviços de arrecadação de receitas federais.
