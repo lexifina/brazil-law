@@ -1,0 +1,22 @@
+Decisão:
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça, proferido nos autos do HC 247.452/MG, com a seguinte ementa:
+    HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. RECENTE ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL. PLEITO PELA REVOGAÇÃO DA PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS AUTORIZADORAS PRESENTES. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. DECISÃO FUNDAMENTADA. PRECEDENTES.
+    (...)
+    3. No caso concreto, a necessidade da segregação cautelar do paciente encontra-se fundamentada pela fuga do distrito da culpa, concretizando o requisito hábil do permissivo legal, para assegurar a aplicação da lei penal.
+    4. O Superior Tribunal de Justiça, em orientação uníssona, entende que persistindo os requisitos autorizadores da segregação cautelar (art. 312 CPP), despiciendo o paciente possuir condições pessoais favoráveis.
+    5. Habeas corpus não conhecido, por ser substitutivo do recurso cabível.
+    Sustenta o recorrente, em síntese, que: (a) foi denunciado como incurso no art. 121, § 2º, III, do CP; (b) a prisão preventiva do paciente foi determinada pelo Tribunal de Justiça de Minas Gerais, que proveu recurso em sentido estrito da acusação; (c) “o acórdão proferido pelo TJ/MG decretou a prisão preventiva do recorrente, em razão da gravidade do delito, da repercussão social gerada e da fuga do acusado do distrito da culpa” (d) o STJ chancelou a prisão preventiva em razão do fundamento relacionado à fuga do paciente do distrito da culpa; (e) “mesmo que se pudesse concluir pela fuga – hipótese que despreza os apontamentos feitos pelo juízo de primeira instância -, não há dúvidas de que, mesmo preso, o réu poderia gozar do direito ao silêncio. Portanto, proveito algum há na decretação da medida cautelar extrema”. Requer a concessão de medida liminar para que seja posto em liberdade.
+    2. A concessão liminar da ordem supõe, além da comprovação da urgência da medida, a demonstração inequívoca da plausibilidade do direito invocado. Em juízo de cognição sumária, constata-se que a ordem de prisão preventiva está devidamente fundamentada, de acordo com os pressupostos do art. 312 do CPP, como já assinalado pela instância inferior. Eis, a propósito, o registro do STJ:
+    Narram os autos que, em 5.6.12, o Tribunal a quo decretou a prisão preventiva em desfavor do paciente, estando, até o momento, pendente de cumprimento. Foi denunciado pela prática, em tese, do crime previsto no art. 121, § 2º, III, do Código Penal, vez que, mediante emprego de arma perfuro-cortante, desferiu diversos golpes na sua companheira, levando-a a óbito.
+    Consignou o acórdão, à vista do decreto preventivo, que a custódia cautelar do paciente tem por objeto assegurar a aplicação da lei penal, demonstrada pela fuga do distrito da culpa, logo após o fato criminoso, conforme extrai-se do seguinte trecho:
+    "Ademais, quando realizada tentativa de citação ao acusado, o oficial de justiça certificou que compareceu ao citado local e deixou de citar João Paulo Sérgio da Cunha, pois o mesmo mudou sem deixar novo endereço, estando em local incerto e não sabido, segundo informações dos vizinhos, fls. 69.
+    Assim, entendo necessária a decretação da prisão preventiva em desfavor do recorrido, visando, primeiramente, a garantia da ordem pública, diante a gravidade concreta da infração cometida e para assegurar a aplicação da lei penal, uma vez que todos os elementos trazidos a exame se pautam no sentido de que o acusado empreendeu fuga do local após o ocorrido." (fl. 136-STJ).
+    Sendo assim, nada mais falta para concretizar a necessidade de sua prisão para ver assegurada a aplicação da lei penal, segundo dispõe o art. 312 do CPP, in fine.
+    Os fundamentos utilizados revelam-se, à primeira vista, idôneos para manter a segregação cautelar, tendo em vista a necessidade de garantir a aplicação da lei penal em razão da fuga do distrito da culpa. Nessa linha de consideração: HC 105.511/GO, 2ª T., Min. Ayres Britto, DJe de 06/06/2011; HC 105.033/SP, 2ª T., Min. Ellen Gracie, DJe de 04/02/2011; HC 110.353/SP, 2ª T., Min. Ricardo Lewandowski, Dje de 09/02/2012.
+    3. Com essas considerações, indefiro o pedido de liminar.
+    À Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 04 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
