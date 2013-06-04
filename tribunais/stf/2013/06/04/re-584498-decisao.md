@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Rio Grande do Sul que, em ação ordinária, entendeu que o apelado, ora interessado, não poderia ser eliminado do concurso pelo não comparecimento à avaliação psicológica, uma vez que seu chamamento foi realizado em desacordo com o edital (fl. 232).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos arts. 37, caput, e 5º, caput, da Constituição, asseverando, em síntese, que (I) a Fundação Conesul deu a devida publicidade ao ato de convocação dos candidatos para a avaliação psicológica quando publicou-a em sua página da internet (fl. 242); (II) ninguém foi chamado por telegrama para comparecer à avaliação psicológica do dia 18/06/2006; (III) qualquer outra forma utilizada pela banca examinadora para comunicar o recorrido afronta os princípios da moralidade e da impessoalidade da administração pública; (fl. 243) e (IV) não há nenhum documento que comprove a convocação do recorrido para submeter-se à avaliação psicológica no dia 20/06/2006 (fl. 243).
+    2. A parte recorrente afirma que “a Fundação Conesul deu a devida publicidade ao ato de convocação dos candidatos para a avaliação psicológica quando publicou-a em sua página da internet” (fl. 242). Todavia, o acórdão recorrido asseverou que “o recorrente não poderia ser eliminado do certame ante o não comparecimento, à medida que seu chamamento foi feito em desacordo com o edital” (fl. 232). Assim, refutar essas afirmações demanda a reapreciação do conjunto fático-probatório dos autos, bem como do edital do concurso, o que não é cabível no âmbito do recurso extraordinário, conforme estabelecem as Súmula 279 e 454 do STF.
+    3. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 04 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
