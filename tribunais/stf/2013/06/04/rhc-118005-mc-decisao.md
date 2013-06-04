@@ -1,0 +1,37 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus interposto por Thomas Law, em favor de Wilson Alfredo Perpetuo, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que não conheceu do HC n. 148.435/SP.
+    Na espécie, o recorrente foi denunciado pela prática dos crimes crimes previstos nos artigos 317, § 1º, e 321, caput, c/c o art. 69, todos do CP, tendo sido, ao final, absolvido da primeira imputação e declarada extinta a punibilidade com relação à segunda.
+    Interposta apelação pelo Ministério Público Federal, o Tribunal Regional Federal da 3ª Região rejeitou as preliminares arguidas pelos acusados e deu provimento ao recurso, para condenar o paciente, pela prática do crime previsto no art. 317, § 1º, do CP, à pena de 8 anos de reclusão e 133 dias-multa, no regime inicial fechado, e decretada, nos termos do art. 92, I, a e b, do CP, a perda do cargo de Delegado da Polícia Federal, como efeito da condenação.
+    Daí a impetração de habeas corpus perante o STJ, sustentando nulidade, “por cerceamento de defesa, ante a ausência de notificação do paciente, para apresentação de defesa prévia, em conformidade com o procedimento delineado no art. 514 do Código de Processo Penal”.
+    A defesa alegou, ainda, que, "apesar de não ser necessária a comprovação do prejuízo acarretado ao paciente, esta restou demonstrada uma vez que, apesar de absolvido em primeira instância, foi condenado em segundo grau".
+    A ordem não foi conhecida, nos termos da ementa a seguir transcrita:
+    “HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. RECENTE ORIENTAÇÃO DO SUPREMO TRIBUNAL FEDERAL. CORRUPÇÃO PASSIVA. CRIME FUNCIONAL. ART. 514 DO CPP. INOBSERVÂNCIA. PLEITO DE NULIDADE. AÇÃO PENAL EMBASADA POR INQUÉRITO POLICIAL. NOTIFICAÇÃO PARA DEFESA PRÉVIA. DESNECESSIDADE. SÚMULA 330 DO STJ. INCIDÊNCIA. ORDEM NÃO CONHECIDA.
+    1. Buscando dar efetividade às normas previstas no artigo 102, inciso II, alínea ‘a’, da Constituição Federal, e aos artigos 30 a 32, ambos da Lei nº 8.038/90, a mais recente jurisprudência do Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus em substituição a recursos ordinários (apelação, agravo em execução, recurso especial), tampouco como sucedâneo de revisão criminal.
+    2. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Colenda Corte, passou também a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição do recurso cabível.
+    3. A jurisprudência do STJ, consolidada no verbete sumular nº 330, firmou-se no sentido da desnecessidade de resposta preliminar, conforme disciplina o artigo 514 do Código de Processo Penal, quando a ação penal for embasada por inquérito policial, como na hipótese.
+    4. Habeas corpus não conhecido, por ser substitutivo do recurso cabível”.
+    Nesta Suprema Corte, a defesa reitera os argumentos suscitados no STJ.
+    Liminarmente, requer a suspensão dos efeitos do decreto condenatório e, no mérito, a concessão da ordem para declarar a nulidade, ab initio, do Processo nº 2004.61.02.011856-4, em razão da inobservância do disposto no art. 514, caput, do CPP, tendo em vista a inaplicabilidade da Súmula n. 330 do STJ.
+    Decido.
+    A concessão de liminar em habeas corpus dá-se em caráter excepcional, em face da configuração do fumus boni iuris e do periculum in mora.
+    No caso dos autos, em uma análise preliminar, não vislumbro a presença dos requisitos exigidos para a concessão da medida cautelar.
+    Preliminarmente, cumpre observar que a jurisprudência desta Corte Suprema firmou o entendimento no sentido de que, para o reconhecimento de eventual nulidade, ainda que absoluta, faz-se necessária a demonstração do prejuízo. Consoante frisou o Ministro Cezar Peluso, ao denegar a ordem no HC 82.899/SP: “Não há, no processo penal, nulidade ainda que absoluta, quando do vício alegado não haja decorrido prejuízo algum ao réu.”
+    É que o sistema das nulidades é norteado pelo princípio do prejuízo, ou seja, as formas processuais descumpridas devem ser invalidadas apenas quando verificado o prejuízo.
+    Ademais, dispõe o artigo 563 do CPP: “nenhum ato será declarado nulo, se da nulidade não resultar prejuízo para a acusação ou para a defesa”. Portanto, vê-se que a literalidade do dispositivo deixa clara a exigência do prejuízo para as partes para o reconhecimento da nulidade processual.
+    No caso dos autos, em análise preliminar, em que pese as alegações da defesa encontrarem respaldo na jurisprudência desta Corte, verifico, também, que o entendimento do STF caminha no sentido de que a superveniência da sentença condenatória prejudica possível arguição de nulidade por falta de defesa prévia anterior à denúncia. Cito os seguintes precedentes:
+    “Habeas Corpus. Processo Penal. Ausência da notificação para apresentação de resposta preliminar prevista no art. 514 do CPP. Alegação não comprovada. Superveniência de sentença condenatória. Prejuízo da questão preliminar. Precedentes.
+    É da jurisprudência desta Corte que ‘a ausência da notificação prévia de que trata o art. 514 do Código de Processo Penal constitui vício que gera nulidade relativa e deve ser argüida oportunamente, sob pena de preclusão’ (HC 97.033/SP, rel. min. Cármen Lúcia, DJe 108 de 10.06.2009).
+    Igualmente sedimentado é o entendimento de que ‘a superveniência de sentença condenatória, que denota a viabilidade da ação penal, prejudica a preliminar de nulidade processual por falta de defesa prévia à denúncia” (HC 89.517/RJ, rel. min. Cezar Peluso, DJe 27 de 11.02.2010).
+    Ordem denegada”. (HC 104.054/RJ, Relator Min. Joaquim Barbosa, Segunda Turma, à unanimidade, DJe 12.6.2012)
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL E PROCESSUAL PENAL. PECULATO. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA (ART. 514 E SEGUINTES DO CÓDIGO DE PROCESSO PENAL). NULIDADE RELATIVA. AUSÊNCIA DE DEMONSTRAÇÃO DO PREJUÍZO. SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA. ALEGAÇÃO DE PREJUÍZO PREJUDICADA.
+    1. A ausência da notificação prévia de que trata o art. 514 do Código de Processo Penal constitui vício que gera nulidade relativa e deve ser arguida oportunamente, sob pena de preclusão. Precedentes.
+    2. O princípio do pas de nullité sans grief exige a demonstração de prejuízo concreto à parte que suscita o vício, independentemente da sanção prevista para o ato, pois não se declara nulidade processual por mera presunção. Precedentes.
+    3. Este Supremo Tribunal Federal assentou que a defesa prévia à denúncia prevista no art. 514 do Código de Processo Penal tem por objetivo proporcionar ao réu, funcionário público, a possibilidade de impedir a tramitação de ação penal baseada em acusação infundada. Superveniência da sentença condenatória. Alegação de prejuízo prejudicada, pois a denúncia foi confirmada com a procedência no exame do mérito da ação penal.
+    4. Ordem denegada”. (HC 111.711/SP, Relatora Min. Cármen Lúcia, Segunda Turma, à unanimidade, DJe 5.12.2012)
+    Dessa forma, salvo melhor juízo quanto ao mérito, os fundamentos adotados pelo Superior Tribunal de Justiça, assim como os demais elementos constantes dos autos, não autorizam a concessão da liminar.
+    Ante o exposto, indefiro o pedido de medida liminar.
+    Estando os autos suficientemente instruídos, abra-se vista à Procuradoria-Geral da República.
+    Publique-se. Int..
+    Brasília, 4 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
