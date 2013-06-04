@@ -1,0 +1,15 @@
+Decisão:
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, impetrado em favor de Magno Peter Schek de Oliveira, contra acórdão da Quinta Turma do STJ proferido nos autos do HC. 241.635/ES. Eis a ementa do julgado:
+    PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. MODIFICAÇÃO DO ENTENDIMENTO JURISPRUDENCIAL DO STJ, EM CONSONÂNCIA COM ORIENTAÇÃO ADOTADA PELO PRETÓRIO EXCELSO. TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES. REGIME INICIAL DE CUMPRIMENTO DA PENA. VARIEDADE E EXPRESSIVA QUANTIDADE DE DROGA. FUNDAMENTAÇÃO SUFICIENTE. REGIME MAIS RIGOROSO. INEXISTÊNCIA DE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+    (...)
+    - No caso, a fixação de regime mais rigoroso está devidamente fundamentado, nos exatos termos dos art. art. 33, §§ 2º e 3º do CP, bem como do art. 42 da Lei 11.343/06 (Lei de Drogas). Não obstante a pena do paciente tenha sido fixada em 1 (um) ano, 10 (dez) meses e 10 (dez) dias de reclusão, as circunstâncias do crime (comércio de variada e expressiva quantidade de droga - 19 papelotes de cocaína e 3 buchas de maconha), justificam a imposição do regime fechado, conforme estabelecido pelo Tribunal de origem.
+    Habeas corpus não conhecido.
+    No recurso, alega-se que: (a) o recorrente foi condenado à pena de 1 (um) ano e 10 (dez) meses de reclusão, como incurso no art. 33, § 4º, da Lei 11.343/2006, em regime inicial fechado; (b) a quantidade de drogas apreendidas - 19 (dezenove) “papelotes de cocaína” e 03 (três) “buchas de maconha” - não pode ser considerada expressiva e inviabilizadora da fixação de regime diverso do fechado; (c) ocorrência de bis in idem, já que a quantidade de drogas foi valorada negativamente, tanto na primeira fase de fixação da pena, quanto na aplicação do regime inicial; (d) foi declarada a inconstitucionalidade do regime inicial fechado, previsto no §1º do art. 2º da Lei 8.072/90, e o paciente preenche todos os requisitos objetivos e subjetivos para cumprir a sanção em regime diverso do fechado, nos termos dos arts. 33, § 2º, “b” e “c”, do CP. Requer o provimento cautelar para seja colocado em regime aberto.
+    2. Não se evidencia flagrante ilegalidade ou abuso de poder a justificar a concessão de medida liminar para que o paciente seja posto em regime inicial aberto. Em juízo de cognição sumária, verifica-se que a postulação da impetrante não encontra amparo na jurisprudência desta Corte, segundo a qual é possível fixar regime inicial de cumprimento de pena mais gravoso do que o previsto abstratamente pelo Código Penal (art. 33, § 3º), desde que a imposição do regime tenha fundamento numa das circunstâncias judiciais previstas no art. 59 do Código Penal (v.g.: RHC 111.304/DF, 2ª T., Min. Ricardo Lewandowski, Dje de 13/09/2012; HC 101.590/MS, 1ª T., Min. Dias Toffoli, Dje de 30/11/2010.
+    4. Com essas considerações, indefiro o pedido de liminar.
+    Solicitem-se informações ao Juízo da 6ª Vara Criminal de Vitória/ES. Após, à Procuradoria-Geral da República.
+    Publique-se. Intime-se.
+    Brasília, 04 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
