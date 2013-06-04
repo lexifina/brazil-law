@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Minas Gerais ementado nos seguintes termos:
+    “REINTEGRAÇÃO E POSSE – REQUISITOS – COMPROVAÇÃO – AUSÊNCIA – IMPROCEDÊNCIA MANTIDA. Há que ser mantida a improcedência da reintegração de posse se não comprovados os elementos estabelecidos pelo artigo 927, do Código de Processo Civil”. (eDOC 7, p. 46)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, XXII, XIII, XXX, XXXV, XXXVI, do texto constitucional.
+    Decido.
+    As razões recursais não merecem acolhida.
+    O Tribunal de origem, com base no acervo probatório constante dos autos e interpretando a legislação infraconstitucional aplicável ao caso, consignou que o ora recorrente não teria comprovado os requisitos necessários para concessão da reintegração de posse.
+    Assim, para se entender de forma diversa do consignado pelo acórdão recorrido seria necessário rever a interpretação conferida pela origem à legislação infraconstitucional, bem como reexaminar o conjunto fático-probatório, providências vedadas no âmbito do recurso extraordinário.
+    Nesse sentido, confiram-se os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CIVIL. POSSE. REINTEGRAÇÃO. ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: “CIVIL. POSSE. REINTEGRAÇÃO. DEMANDA PROCEDENTE. Em sede de ação possessória, não cabe discutir o domínio, ou seja, a titularidade da propriedade. Apesar da alegação de posse constitucional da comunidade indígena, deduzida pelo Parquet, não se há de reconhecer a turbação ou o esbulho como meios legítimos de afirmá-la.” 5. Agravo regimental a que se nega provimento”. (AI- AgR 821.652, Rel. Min. LUIZ FUX, Primeira Turma, Dje13.9.2012)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REINTEGRAÇÃO DE POSSE. 1. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. 2. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. 3. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 835.674, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 19.6.2012)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 4 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
