@@ -1,0 +1,2 @@
+Art. 23. A entrada ou a saída de mercadorias procedentes do exterior ou a ele destinadas somente poderá efetuar-se em portos ou instalações portuárias alfandegados.
+Parágrafo único. O alfandegamento de portos organizados e instalações portuárias destinados à movimentação e armazenagem de mercadorias importadas ou à exportação será efetuado após cumpridos os requisitos previstos na legislação específica.

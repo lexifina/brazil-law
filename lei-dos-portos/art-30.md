@@ -1,0 +1,1 @@
+Art. 30. A operação portuária em instalações localizadas fora da área do porto organizado será disciplinada pelo titular da respectiva autorização, observadas as normas estabelecidas pelas autoridades marítima, aduaneira, sanitária, de saúde e de polícia marítima.

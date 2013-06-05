@@ -1,0 +1,1 @@
+Art. 42. A seleção e o registro do trabalhador portuário avulso serão feitos pelo órgão de gestão de mão de obra avulsa, de acordo com as normas estabelecidas em contrato, convenção ou acordo coletivo de trabalho.
