@@ -1,0 +1,6 @@
+Art. 54. A dragagem por resultado compreende a contratação de obras de engenharia destinadas ao aprofundamento, alargamento ou expansão de áreas portuárias e de hidrovias, inclusive canais de navegação, bacias de evolução e de fundeio e berços de atracação, bem como os serviços de sinalização, balizamento, monitoramento ambiental e outros com o objetivo de manter as condições de profundidade e segurança estabelecidas no projeto implantado.
+§ 1º As obras ou serviços de dragagem por resultado poderão contemplar mais de um porto, num mesmo contrato, quando essa medida for mais vantajosa para a administração pública.
+§ 2º Na contratação de dragagem por resultado, é obrigatória a prestação de garantia pelo contratado.
+§ 3º A duração dos contratos de que trata este artigo será de até 10 (dez) anos, improrrogável.
+§ 4º As contratações das obras e serviços no âmbito do Programa Nacional de Dragagem Portuária e Hidroviária II poderão ser feitas por meio de licitações internacionais e utilizar o Regime Diferenciado de Contratações Públicas, de que trata a Lei nº 12.462, de 4 de agosto de 2011.
+§ 5º A administração pública poderá contratar empresa para gerenciar e auditar os serviços e obras contratados na forma do caput.

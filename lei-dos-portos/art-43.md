@@ -1,0 +1,2 @@
+Art. 43. A remuneração, a definição das funções, a composição dos ternos, a multifuncionalidade e as demais condições do trabalho avulso serão objeto de negociação entre as entidades representativas dos trabalhadores portuários avulsos e dos operadores portuários.
+Parágrafo único. A negociação prevista no caput contemplará a garantia de renda mínima inserida no item 2 do Artigo 2 da Convenção nº 137 da Organização Internacional do Trabalho - OIT.

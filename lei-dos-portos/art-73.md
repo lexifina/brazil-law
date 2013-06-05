@@ -1,0 +1,3 @@
+Art. 73. A Lei nº 9.719, de 27 de novembro de 1998, passa a vigorar acrescida do seguinte art. 10-A:
+" Art. 10-A. É assegurado, na forma do regulamento, benefício assistencial mensal, de até 1 (um) salário mínimo, aos trabalhadores portuários avulsos, com mais de 60 (sessenta) anos, que não cumprirem os requisitos para a aquisição das modalidades de aposentadoria previstas nos arts. 42, 48, 52 e 57 da Lei nº 8.213, de 24 de julho de 1991, e que não possuam meios para prover a sua subsistência.
+Parágrafo único. O benefício de que trata este artigo não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória."

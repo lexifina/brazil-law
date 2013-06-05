@@ -1,0 +1,1 @@
+Art. 31. O disposto nesta Lei não prejudica a aplicação das demais normas referentes ao transporte marítimo, inclusive as decorrentes de convenções internacionais ratificadas, enquanto vincularem internacionalmente o País.

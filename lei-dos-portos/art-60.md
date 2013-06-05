@@ -1,0 +1,1 @@
+Art. 60. Os procedimentos licitatórios para contratação de dragagem homologados e os contratos de dragagem em vigor na data da publicação desta Lei permanecem regidos pelo disposto na Lei nº 11.610, de 12 de dezembro de 2007.

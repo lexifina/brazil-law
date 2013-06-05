@@ -1,0 +1,1 @@
+Art. 52. O descumprimento do disposto no caput e no § 3º do art. 40 desta Lei sujeitará o infrator à multa prevista no inciso III do art. 10 da Lei nº 9.719, de 27 de novembro de 1998, sem prejuízo das demais sanções cabíveis.

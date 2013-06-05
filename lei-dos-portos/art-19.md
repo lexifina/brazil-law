@@ -1,0 +1,2 @@
+Art. 19. A administração do porto poderá, a critério do poder concedente, explorar direta ou indiretamente áreas não afetas às operações portuárias, observado o disposto no respectivo Plano de Desenvolvimento e Zoneamento do Porto.
+Parágrafo único. O disposto no caput não afasta a aplicação das normas de licitação e contratação pública quando a administração do porto for exercida por órgão ou entidade sob controle estatal.

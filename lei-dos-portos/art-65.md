@@ -1,0 +1,1 @@
+Art. 65. Ficam transferidas à Secretaria de Portos da Presidência da República as competências atribuídas ao Ministério dos Transportes e ao Departamento Nacional de Infraestrutura de Transportes - DNIT em leis gerais e específicas relativas a portos fluviais e lacustres, exceto as competências relativas a instalações portuárias públicas de pequeno porte.
