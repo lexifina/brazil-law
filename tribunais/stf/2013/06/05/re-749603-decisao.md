@@ -1,0 +1,13 @@
+Trata-se de recurso extraordinário interposto contra acórdão que entendeu que a cobrança do ITR com base nas alíquotas previstas na Lei 8.847/94, resultante da conversão da MP 339/1993, somente é possível a partir de 1º de janeiro de 1995, uma vez que essas alíquotas só foram publicadas com a retificação da referida MP que foi publicada em 7/1/94.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 97 e 150, III, b, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Com efeito, a obediência à cláusula de reserva de plenário pelos Tribunais (CF, art. 97) não se faz necessária quando houver orientação consolidada do STF sobre a questão constitucional. Pelo mesmo motivo, não se justifica o retorno dos autos ao Tribunal a quo para que este, por meio de seu pleno ou órgão especial, se pronuncie sobre a matéria, considerando a existência de entendimento já fixado por esta Corte. Nesse sentido, cito os seguintes precedentes, entre outros: RE 370.765-AgR/RS, Rel. Min. Marco Aurélio; RE 278.710-AgR/RS, Rel. Min. Joaquim Barbosa; AI 481.584-AgR/MG, Rel. Min. Cármen Lúcia.
+    Além disso, sobre a desnecessidade de observância do art. 97 da Lei Maior, saliento, nos termos da jurisprudência deste Tribunal, que “(...) não é necessária identidade absoluta para aplicação dos precedentes dos quais resultem a declaração de inconstitucionalidade ou de constitucionalidade. Requer-se, sim, que as matérias examinadas sejam equivalentes” (AI 607.616-AgR/RJ, Rel. Min. Joaquim Barbosa).
+    Nesse contexto, observo que acórdão recorrido encontra-se em harmonia com a orientação desta Corte a respeito do tema – princípio da anterioridade tributária –, firmada no julgamento do RE 448.558/PR, Rel. Min. Gilmar Mendes, cuja ementa segue transcrita:
+    “Recurso extraordinário. 2. Tributário. ITR. 3. A nova configuração do ITR disciplinada pela MP 399 somente se aperfeiçoou com sua reedição de 07.01.94, a qual por meio de seu Anexo alterou as alíquotas do referido imposto. 4. A exigência do ITR sob esta nova disciplina, antes de 01 de janeiro de 1995, viola o princípio constitucional da anterioridade tributária (Art. 150, III, b). 5. Recurso extraordinário a que se nega provimento”.
+    No mesmo sentido, destaco as seguintes decisões que tratam especificamente da questão dos autos: RE 470.823-AgR/PR, Rel. Min. Joaquim Barbosa; AI 741.463/SP, Rel. Min. Rosa Weber; RE 579.918/PR, Rel. Min. Dias Toffoli; RE 550.984/PR, Rel. Min. Cezar Peluso; AI 744.793/SP, Rel. Min. Cármen Lúcia; AI 731.269/PR, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 5 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
