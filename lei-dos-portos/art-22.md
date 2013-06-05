@@ -1,0 +1,1 @@
+Art. 22. A Secretaria de Portos da Presidência da República coordenará a atuação integrada dos órgãos e entidades públicos nos portos organizados e instalações portuárias, com a finalidade de garantir a eficiência e a qualidade de suas atividades, nos termos do regulamento.
