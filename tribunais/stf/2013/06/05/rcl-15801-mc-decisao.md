@@ -1,0 +1,19 @@
+DECISÃO
+AÇÃO CIVIL PÚBLICA – HONORÁRIOS PERICIAIS – ADIANTAMENTO PELO AUTOR – ADMISSIBILIDADE NA ORIGEM – ARTIGO 18 DA LEI Nº 7.347/85 – AFASTAMENTO POR ÓRGÃO FRACIONADO – RESERVA DE COLEGIADO – VERBETE VINCULANTE Nº 10 DA SÚMULA DO SUPREMO –LIMINAR DEFERIDA.
+    1. A Assessoria prestou as seguintes informações:
+    O Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis – IBAMA ajuíza reclamação sob a alegação de ofensa ao Verbete Vinculante nº 10 da Súmula do Supremo, no julgamento do Agravo de Instrumento nº 5000216-67.2013.404.0000, pela Quarta Turma do Tribunal Regional Federal da 4ª Região.
+    Consoante narra, o Tribunal de origem confirmou decisão interlocutória proferida em ação civil pública no sentido de determinar à Autarquia a antecipação do pagamento de honorários periciais para custeio de prova cuja produção foi determinada de ofício. A documentação acostada à petição inicial revela a interposição de embargos declaratórios, parcialmente providos “para o fim exclusivo de prequestionamento.” Informa ter protocolado recursos especial e extraordinário, pendentes de juízo de admissibilidade.
+    Baseado na primeira parte do artigo 18 da Lei nº 7.347/85, sustenta não haver, em ação civil pública, adiamento de custas, emolumentos, honorários periciais ou quaisquer outras despesas. Entende não se resumir a questão à mera interpretação do referido dispositivo legal, afastado, segundo defende, sem observância ao mencionado verbete vinculante e ao artigo 97 da Constituição.
+    Discorre sobre a importância da inversão do ônus da prova e respectivo encargo financeiro em ações coletivas envolvendo a matéria ambiental, “transferindo-se ao degradador do meio ambiente e ao empreendedor da atividade potencialmente perigosa o ônus de demonstrar a inexistência da ocorrência de dano e ausência do nexo de causalidade entre conduta e o dano”. Faz referência às medidas acauteladoras deferidas nas Reclamações nº 15.276, da relatoria de Vossa Excelência, e nº 10.428, relatora ministra Ellen Gracie.
+    Sob o ângulo do risco, afirma estar a produção da prova condicionada ao custeio pela autarquia.
+    Requer, em sede liminar, a suspensão do ato reclamado e, alfim, a cassação do pronunciamento.
+    Anoto haver o Tribunal de origem fundamentado que, “em se tratando de ação civil pública, a isenção conferida pelo artigo 18 da Lei nº 7.347/85 não obriga à realização gratuita da perícia e nem transfere ao réu o encargo de financiar as ações contra ele movidas, nos termos dos artigos 19 e 20 do CPC”. Aludiu, ainda, ao Verbete nº 232 da Súmula do Superior Tribunal de Justiça.
+    O processo encontra-se concluso para apreciação da medida acauteladora.
+    2. O artigo 18 da Lei nº 7.347/85 preceitua que, nas ações versadas no diploma, inexistirá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má-fé, em honorários de advogado, custas e despesas processuais. Nota-se haver sido afastado o mencionado dispositivo, sem a instauração do incidente de inconstitucionalidade, olvidando-se o disposto no artigo 97 da Constituição Federal e retratado no Verbete Vinculante nº 10 da Súmula do Supremo:
+    Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte.
+    3. Defiro a liminar para suspender, até a decisão final desta reclamação, a eficácia do acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região concernente ao Agravo de Instrumento nº 5000216-67.2013.404.0000.
+    4. Deem ciência, via postal, desta reclamação aos interessados e solicitem informações. Com o recebimento, colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília, 5 de junho de 2013.
+Ministro MARCO AURÉLIO
+Relator
