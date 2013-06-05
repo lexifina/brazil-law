@@ -1,0 +1,1 @@
+Art. 13. A Antaq poderá disciplinar as condições de acesso, por qualquer interessado, em caráter excepcional, às instalações portuárias autorizadas, assegurada remuneração adequada ao titular da autorização.

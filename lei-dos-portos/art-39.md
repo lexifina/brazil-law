@@ -1,0 +1,1 @@
+Art. 39. O órgão de gestão de mão de obra é reputado de utilidade pública, sendo-lhe vedado ter fins lucrativos, prestar serviços a terceiros ou exercer qualquer atividade não vinculada à gestão de mão de obra.
