@@ -1,0 +1,32 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO: CANDIDATO CLASSIFICADO. EXISTÊNCIA DE CARGOS VAGOS. NOMEAÇÃO. SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Câmara Cível do Tribunal de Justiça do Maranhão decidiu:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. APELAÇÃO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO COMO EXCEDENTE. COMPROVAÇÃO DE EXISTÊNCIA DE CARGOS VAGOS. NECESSIDADE DE SERVIÇO DEMONSTRADA PELA MANUTENÇÃO DE CONTRATOS TEMPORÁRIOS PARA A MESMA ATIVIDADE. OMISSÃO. ACOLHIMENTO. EFEITOS INFRINGENTES. Em sendo constatada a omissão quanto à matéria, forçoso é concluir que, comprovada a existência de cargos efetivos vagos, a expectativa de direito de candidato aprovado na qualidade de excedente convola-se em direito subjetivo à nomeação e posse, até porque demonstrada a necessidade de serviço, ante a manutenção de contratos temporários para desempenhar as mesmas funções dos cargos vagos. Embargos de declaração acolhidos” (fl. 656).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a harmonia do julgado recorrido com a jurisprudência do Supremo Tribunal Federal.
+    4. O Agravante argumenta que:
+    “A questão debatida nos acórdãos diz respeito ao fato de haver contratações temporárias anteriores aos concurso, e se essas contratações dariam margem a transformar expectativas de direito em direito subjetivo.
+    (…)
+    O impetrante do presente ‘mandamus’ é excedente, como destacado na inicial, não tendo sido classificado dentro do número de vagas, não sendo detentor de direito líquido e certo a ser amparado como imagina ter, pois detém apenas expectativa de direito, já que o impetrado não está obrigado a chamar mais do que o número de vagas previstas para o cargo no edital” (fl. 751).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado os incs. II, IV e IX do art. 37 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Desembargador Relator do caso na Terceira Câmara Cível observou:
+    “Ocorre que, de fato, omitiu-se o acórdão ora impugnado quanto à causa de pedir ora declinada, de que existem mais de 600 cargos vagos na Administração Municipal, o que restou demonstrado pela confluência das provas.
+    (…)
+    Tendo o concurso em epígrafe previsto a formação de cadastro de reserva e tendo sido aprovados candidatos excedentes em número suficiente para tanto, a demonstração da existência de cargos vagos efetivamente convola expectativa de direito do impetrante em direito subjetivo a ser nomeado, tal como ocorreria com a criação de novos cargos ou a vacância de cargos existentes.
+    (…)
+    Na resposta do Município de São Luís aos presentes embargos, não verifico a apresentação de qualquer razão robusta a fundamentar a recusa do Município em convocar os excedentes aprovados para os cargos vagos existentes em seu quadro de pessoal, já que a necessidade de serviço existe, pois mantém até hoje servidores em caráter precário.
+    (…)
+    Comprovado, assim, nos autos a existência de cargos efetivos vagos, assiste razão ao embargante quanto à convolação da sua expectativa de direito (por ter sido aprovado como excedente), em direito subjetivo à nomeação e posse, pois existe cargo vago e o interesse público resta confirmado, já que os contratos temporários têm sido mantidos ao longo do tempo, demonstrando a necessidade de serviço” (fls. 663-668, grifos nossos).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria do reexame de provas e de cláusulas de edital, o que não pode ser adotado em recurso extraordinário, nos termos das Súmulas n. 279 e 454 deste Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. EXISTÊNCIA DE CARGOS VAGOS A SEREM PREENCHIDOS. CONTRATAÇÃO PRECÁRIA DE PESSOAL. CONTROVÉRSIA ACERCA DA CONFIGURAÇÃO DA SITUAÇÃO. QUESTÃO INFRACONSTITUCIONAL LOCAL. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DE CLÁUSULAS DE EDITAL. SÚMULAS 279 E 454 DO STF. ENTENDIMENTO DO ACÓRDÃO RECORRIDO DE QUE HOUVE PRETERIÇÃO DE CANDIDATO. DIREITO À NOMEAÇÃO. AGRAVO IMPROVIDO. I – Para dissentir do acórdão recorrido quanto ao entendimento de que existem cargos vagos a serem preenchidos, bem como de que houve a contratação de servidores comissionados e temporários pela Administração, seria necessário o reexame do conjunto fático-probatório constante dos autos e das cláusulas do edital do certame, o que atrai a incidência das Súmulas 279 e 454 do STF, e seria imprescindível a análise de norma infraconstitucional local (Lei Estadual 15.745/2006), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. II – O STF possui orientação no sentido de que a contratação em caráter precário, para o exercício das mesmas atribuições do cargo para o qual foi promovido concurso público, implica em preterição de candidato habilitado, quando ainda subsiste a plena vigência do referido concurso, o que viola o direito do concorrente aprovado à respectiva nomeação. Precedentes. III - Agravo regimental improvido” (AI 788.628-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 08.11.2012, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 5 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
