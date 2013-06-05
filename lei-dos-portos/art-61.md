@@ -1,0 +1,1 @@
+Art. 61. Até a publicação do regulamento previsto nesta Lei, ficam mantidas as regras para composição dos conselhos da autoridade portuária e dos conselhos de supervisão e diretorias executivas dos órgãos de gestão de mão de obra.

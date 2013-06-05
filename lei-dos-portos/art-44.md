@@ -1,0 +1,1 @@
+Art. 44. É facultada aos titulares de instalações portuárias sujeitas a regime de autorização a contratação de trabalhadores a prazo indeterminado, observado o disposto no contrato, convenção ou acordo coletivo de trabalho.

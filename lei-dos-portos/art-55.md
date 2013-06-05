@@ -1,0 +1,1 @@
+Art. 55. As embarcações destinadas à dragagem sujeitam-se às normas específicas de segurança da navegação estabelecidas pela autoridade marítima e não se submetem ao disposto na Lei nº 9.432, de 8 de janeiro de 1997.

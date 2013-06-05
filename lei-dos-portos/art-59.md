@@ -1,0 +1,2 @@
+Art. 59. As instalações portuárias enumeradas nos incisos I a IV do caput do art. 8º, localizadas dentro da área do porto organizado, terão assegurada a continuidade das suas atividades, desde que realizada a adaptação nos termos do art. 58.
+Parágrafo único. Os pedidos de autorização para exploração de instalações portuárias enumeradas nos incisos I a IV do art. 8º, localizadas dentro da área do porto organizado, protocolados na Antaq até dezembro de 2012, poderão ser deferidos pelo poder concedente, desde que tenha sido comprovado até a referida data o domínio útil da área.

@@ -1,0 +1,1 @@
+Art. 4º A concessão e o arrendamento de bem público destinado à atividade portuária serão realizados mediante a celebração de contrato, sempre precedida de licitação, em conformidade com o disposto nesta Lei e no seu regulamento.

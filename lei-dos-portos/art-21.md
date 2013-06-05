@@ -1,0 +1,2 @@
+Art. 21. Fica assegurada a participação de um representante da classe empresarial e outro da classe trabalhadora no conselho de administração ou órgão equivalente da administração do porto, quando se tratar de entidade sob controle estatal, na forma do regulamento.
+Parágrafo único. A indicação dos representantes das classes empresarial e trabalhadora a que alude o caput será feita pelos respectivos representantes no conselho de autoridade portuária.

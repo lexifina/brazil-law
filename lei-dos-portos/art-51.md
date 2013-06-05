@@ -1,0 +1,1 @@
+Art. 51. O descumprimento do disposto nos arts. 36, 39 e 42 desta Lei sujeitará o infrator à multa prevista no inciso I do art. 10 da Lei nº 9.719, de 27 de novembro de 1998, sem prejuízo das demais sanções cabíveis.

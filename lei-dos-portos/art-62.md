@@ -1,0 +1,3 @@
+Art. 62. O inadimplemento, pelas concessionárias, arrendatárias, autorizatárias e operadoras portuárias no recolhimento de tarifas portuárias e outras obrigações financeiras perante a administração do porto e a Antaq, assim declarado em decisão final, impossibilita a inadimplente de celebrar ou prorrogar contratos de concessão e arrendamento, bem como obter novas autorizações.
+§ 1º Para dirimir litígios relativos aos débitos a que se refere o caput, poderá ser utilizada a arbitragem, nos termos da Lei nº 9.307, de 23 de setembro de 1996.
+§ 2º O impedimento previsto no caput também se aplica às pessoas jurídicas, direta ou indiretamente, controladoras, controladas, coligadas, ou de controlador comum com a inadimplente.

@@ -1,0 +1,1 @@
+Art. 63. As Companhias Docas observarão regulamento simplificado para contratação de serviços e aquisição de bens, observados os princípios constitucionais da publicidade, impessoalidade, moralidade, economicidade e eficiência.

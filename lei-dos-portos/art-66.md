@@ -1,0 +1,1 @@
+Art. 66. Aplica-se subsidiariamente às licitações de concessão de porto organizado e de arrendamento de instalação portuária o disposto nas Leis nºs 12.462, de 4 de agosto de 2011, 8.987, de 13 de fevereiro de 1995, e 8.666, de 21 de junho de 1993.

@@ -1,0 +1,1 @@
+Art. 7º A Antaq poderá disciplinar a utilização em caráter excepcional, por qualquer interessado, de instalações portuárias arrendadas ou exploradas pela concessionária, assegurada a remuneração adequada ao titular do contrato.
