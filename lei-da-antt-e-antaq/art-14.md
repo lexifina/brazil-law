@@ -6,10 +6,12 @@ II - (VETADO)
 III - depende de autorização:
 a) (VETADO)
 b) o transporte rodoviário de passageiros, sob regime de afretamento;
-c) a construção e a exploração das instalações portuárias de que trata o art. 8º da Medida Provisória nº 595, de 6 de dezembro de 2012.
+c) a construção e a exploração das instalações portuárias de que trata o art. 8º da Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012;
 d) (VETADO)
 e) o transporte aquaviário;
 f) o transporte ferroviário não regular de passageiros, não associado à exploração da infra-estrutura.
+g) (revogada);
+h) (revogada);
 i) o transporte ferroviário de cargas não associado à exploração da infraestrutura, por operador ferroviário independente; e
 IV - depende de permissão:
 a) o transporte rodoviário coletivo regular de passageiros;

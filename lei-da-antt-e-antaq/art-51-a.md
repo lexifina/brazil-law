@@ -1,3 +1,3 @@
-Art. 51-A. Fica atribuída à ANTAQ a competência de fiscalização das atividades desenvolvidas pelas administrações de portos organizados, pelos operadores portuários e pelas arrendatárias ou autorizatárias de instalações portuárias, observado o disposto na Medida Provisória nº 595, de 6 de dezembro de 2012.
+Art. 51-A. Fica atribuída à Antaq a competência de fiscalização das atividades desenvolvidas pelas administrações de portos organizados, pelos operadores portuários e pelas arrendatárias ou autorizatárias de instalações portuárias, observado o disposto na Lei na qual foi convertida a Medida Provisória nº 595, de 6 de dezembro de 2012.
 § 1º Na atribuição citada no caput incluem-se as administrações dos portos objeto de convênios de delegação celebrados nos termos da Lei nº 9.277, de 10 de maio de 1996.
-§ 2º A ANTAQ prestará ao Ministério dos Transportes ou à Secretaria de Portos da Presidência da República todo apoio necessário à celebração dos convênios de delegação.
+§ 2º A Antaq prestará ao Ministério dos Transportes ou à Secretaria de Portos da Presidência da República todo apoio necessário à celebração dos convênios de delegação.
