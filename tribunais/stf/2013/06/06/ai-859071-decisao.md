@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO REIVINDICATÓRIA. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIO. CAUSA CONEXAS. JULGAMENTO CONJUNTO. No julgamento conjunto da ação de usucapião extraordinário e da ação reivindicatória, a improcedência do pedido de reconhecimento de domínio sobre o imóvel conduz à improcedência do pedido formulado na primeira e à procedência do pedido formulado na segunda. Para fazer jus à indenização e retenção por benfeitorias (art. 1.219, CCB) o possuidor deve provar que as fez de boa-fé, como também de que elas são úteis e necessárias. A indenização de acessões (art. 1.248, V, CCB), que não se confundem com benfeitorias, funda-se na antijuridicidade do enriquecimento sem causa (artigos 884  usque 886, CCB), mas para que seja devida devem ser cumpridos os mesmos requisitos exigidos no art. 1.219 do Código Civil Brasileiro, por equiparação” (fl. 297).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, caput e XXIII, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para divergir das conclusões do acórdão recorrido, seria necessário o revolvimento do conjunto fático-probatório constante dos autos, bem como a análise de normas infraconstitucionais aplicáveis à espécie, o que atrai a incidência da Súmula 279 do STF. Inviável, portanto, o extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. USUCAPIÃO URBANO. AQUISIÇÃO. REQUISITOS. REEXAME DE PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O acórdão recorrido concluiu que foram atendidos os requisitos exigidos pelo artigo 183 da Constituição do Brasil para a aquisição da propriedade por meio de usucapião urbano. 2. Necessidade de reexamina-se fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE 593.566-AgR/ , Rel. Min. Eros Grau/MG, Segunda Turma)
+    No mesmo sentido, menciono, ainda, as seguintes decisões: AI 755.955/RS, Rel. Min. Gilmar Mendes; AI 340.428-AgR, Rel Min. Ilmar Galvão; e RE 715.501/RN, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
