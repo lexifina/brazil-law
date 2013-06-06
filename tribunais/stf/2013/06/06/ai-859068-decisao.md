@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AGRAVO DE INSTRUMENTO. EMBARGOS PARCIAIS. PRECATÓRIO REFERENTE À PARCELA INCONTROVERSA. PRELIMINAR QUE IMPLIQUE NA INSUBSISTÊNCIA DO TÍTULO. IMPOSSIBILIDADE.
+    Esta corte tem entendido que a oposição de embargos à execução, em havendo parcelas incontroversas, não impossibilita a expedição do precatório a elas relativo. Por outro lado, sendo alegada preliminar que implique na insubsistência do título, há embargos sobre a totalidade do valor exeqüendo” (fl. 201).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 100, §§ 1º e 4º, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque, para divergir do acórdão recorrido sobre a existência de valores incontroversos na execução, necessário o reexame do conjunto fático probatório constante dos autos, o que implicaria na incidência da Súmula 279 do STF, inviável, portanto, o extraordinário. Nesse sentido:
+    “CONSTITUCIONAL. PRECATÓRIO. PARCELA INCONTROVERSA DO VALOR DO DÉBITO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - É inviável o recurso extraordinário, a teor da Súmula 279 do STF, quando o acórdão recorrido, com apoio nas provas dos autos, entende não ser possível verificar a existência de valores incontroversos. II - Agravo regimental improvido” (AI 682.900-AgR/PR, de minha relatoria).
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
