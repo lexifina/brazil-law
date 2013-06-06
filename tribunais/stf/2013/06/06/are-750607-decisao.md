@@ -1,0 +1,20 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “PROCESSO CIVIL. FALÊNCIA. EXTENSÃO DE EFEITOS. SOCIEDADES COLIGADAS. POSSIBILIDADE. AÇÃO AUTÔNOMA. DESNECESSIDADE. DECISÃO 'INAUDITA ALTERA PARTE'. VIABILIDADE. RECURSO IMPROVIDO.
+    1. Em situação na qual dois grupos econômicos, unidos em torno de um propósito comum, promovem uma cadeia de negócios formalmente lícitos mas com intuito substancial de desviar patrimônio de empresa em situação pré-falimentar, é necessário que o Poder Judiciário também inove sua atuação, no intuito de encontrar meios eficazes de reverter as manobras lesivas, punindo e responsabilizando os envolvidos.
+    2. É possível ao juízo antecipar a decisão de estender os efeitos de sociedade falida a empresas coligadas na hipótese em que, verificando claro conluio para prejudicar credores, há transferência de bens para desvio patrimonial. Inexiste nulidade no exercício diferido do direito de defesa nessas hipóteses.
+    3. A extensão da falência a sociedades coligadas pode ser feita independentemente da instauração de processo autônomo. A verificação da existência de coligação entre sociedades pode ser feita com base em elementos fáticos que demonstrem a efetiva influência de um grupo societário nas decisões do outro, independentemente de se constatar a existência de participação no capital social.
+    4. Na hipótese de fraude para desvio de patrimônio de sociedade falida, em prejuízo da massa de credores, perpetrada mediante a utilização de complexas formas societárias, é possível utilizar a técnica da desconsideração da personalidade jurídica com nova roupagem, de modo a atingir o patrimônio de todos os envolvidos.
+    5. Recurso especial não provido.”
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 105, III, da mesma Carta.
+    A pretensão recursal não merece acolhida. É pacífico o entendimento nesta Corte de que não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no presente caso. De modo diverso, se o Supremo Tribunal Federal acatasse o argumento do recorrente passaria, em última análise, a julgar o recurso especial, o que é incompatível com a norma do texto constitucional. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. REQUISITOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. IMPOSSIBILIDADE DE REEXAME EM SEDE EXTRAORDINÁRIA. ALEGADA VIOLAÇÃO AOS ARTS. 5º, XXXV, LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. ART. 93, IX, DA CF. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. AGRAVO IMPROVIDO.
+    I Não cabe recurso extraordinário fundado em violação ao art. 105, III, da Constituição Federal, para rever a correção, no caso concreto, da decisão do Superior Tribunal de Justiça de conhecer ou não do recurso especial, exceto se o julgamento emanado deste Superior Tribunal apoiar-se em premissas que conflitem, diretamente, com o disposto no referido art. 105, III, o que não ocorre no presente caso. Precedentes.
+    II - A alegada violação ao art. 5º, XXXV e LV, da Constituição pode configurar, em regra, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III Não há contrariedade ao art. 93, IX, da Constituição, quando o acórdão recorrido encontra-se suficientemente fundamentado.
+    IV - Agravo regimental improvido”. (AI 754.296-AgR/RJ, 1ª Turma, de minha relatoria).
+    No mesmo sentido: RE 641.083-AgR/SP, Rel. Min. Luiz Fux; AI 658.872-AgR/RS, Rel. Min. Dias Toffoli; dentre outros.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 6 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
