@@ -1,0 +1,4 @@
+LEI Nº 12.821, DE 5 DE JUNHO DE 2013
+Institui o Dia Nacional dos Agentes da Autoridade de Trânsito.
+A P R E S I D E N T A D A R E P Ú B L I C A
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
