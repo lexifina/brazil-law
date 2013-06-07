@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “Responsabilidade civil do Estado - Acidente de trânsito - Assaltantes que, ante a aproximação de viatura policial, empreenderam fuga e provocaram colisão do veículo roubado com um caminhão, dando causa a ferimentos na vítima que mantinham em seu poder no carro - Indenização por danos sofridos por esta - Ação policial que se desenvolveu dentro da lei e sem excessos ou irregularidades – Dano decorrente da ação dos bandidos e não da conduta dos agentes do Poder Público - Inexistência de responsabilidade do Estado”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, V e X, e 37, § 6º, da mesma Carta.
+    O agravo não merece acolhida. É que para dissentir da conclusão adotada pelo Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 634.072-AgR/RJ, de minha relatoria; AI 642.351-AgR/SP, Rel. Min. Eros Grau; RE 516.836/DF, Rel. Min. Menezes Direito; AI 666.378-AgR/PI, Rel. Min. Dias Toffoli e ARE 601.839-AgR/SC, Rel. Min. Gilmar Mendes e, cuja ementa segue transcrita:
+    “Agravo regimental no agravo de instrumento. Ação de regresso contra servidor público envolvido em acidente de trânsito. Ausência de culpa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu que não houve culpa do servidor público na ocorrência do acidente de trânsito, o que inviabilizaria a ação de regresso prevista no art. 37, § 6º, da Constituição Federal. 2. A aferição da existência ou não de culpa de servidor público no caso em tela requer o reexame de fatos e provas. Impossibilidade. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 7 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
