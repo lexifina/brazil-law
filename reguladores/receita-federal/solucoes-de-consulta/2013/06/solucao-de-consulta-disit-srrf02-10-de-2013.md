@@ -1,0 +1,13 @@
+Solução de Consulta Disit/SRRF02 nº 10, de 22 de maio de 2013
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: NÃO CUMULATIVIDADE. ENERGIA ELÉ TRICA. GERAÇÃO. SISTEMAS ISOLADOS. COMBUSTÍVEIS FÓSSEIS. INSUMOS DIRETOS. CONTA DE CONSUMO DE COMBUSTÍVEIS. REEMBOLSO. CREDITAMENTO.
+O reembolso do custo com combustíveis fósseis - adquiridos como insumo direto por agente que promove a geração de energia elétrica destinada ao serviço público de distribuição desta nos Sistemas Isolados, mediante recursos provenientes da Conta de Consumo de Combustíveis (CCC), não elide a possibilidade de creditamento, em tais aquisições, da Cofins, apurada sob o regime de não cumulatividade, mesmo quando o reembolso se faça diretamente ao fornecedor dos combustíveis.
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. ENERGIA ELÉTRICA. GERAÇÃO. SISTEMAS ISOLADOS. COMBUSTÍVEIS FÓSSEIS. INSUMOS DIRETOS. CONTA DE CONSUMO DE COMBUSTÍVEIS. REEMBOLSO. CREDITAMENTO.
+O reembolso do custo com combustíveis fósseis - adquiridos como insumo direto por agente que promove a geração de energia elétrica destinada ao serviço público de distribuição desta nos Sistemas Isolados, mediante recursos provenientes da Conta de Consumo de Combustíveis (CCC), não elide a possibilidade de creditamento, em tais aquisições, da Contribuição para o PIS/Pasep, apurada sob o regime de não cumulatividade, mesmo quando o reembolso se faça diretamente ao fornecedor dos combustíveis.
+Assunto: Normas Gerais de Direito Tributário
+ENERGIA ELÉTRICA. GERAÇÃO SISTEMAS ISOLADOS. COMBUSTÍVEIS FÓSSEIS. INSUMOS DIRETOS. CONTA DE CONSUMO DE COMBUSTÍVEIS. REEMBOLSO. RECEITA OPERACIONAL.
+Ao obter reembolso do custo de combustíveis fósseis - adquiridos como insumo direto para a geração de energia elétrica destinada ao serviço público de distribuição desta nos Sistemas Isolados, mediante recursos provenientes da Conta de Consumo de Combustíveis (CCC) - a termelétrica beneficiária aufere subvenção para custeio, a ser considerada, para todos os efeitos de incidência tributária, receita operacional de sua atividade.
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, arts. 1º e 3º; Lei nº 10.833, de 2003, arts. 1º e 3º; Lei nº 11.941, de 2009; RIR/99 (Decreto nº 3.000, de 1999), arts. 392 e 443; Decreto nº 774, de 1993, arts. 22 e 25; Decreto-Lei nº 1.598, de 1977, art. 38, § 2.º; Instrução Normativa SRF nº 247, de 2002, art. 66; Instrução Normativa SRF nº 404, de 2004, art. 8º; Resolução Normativa ANEEL nº 427, de 2011, arts. 2º, 3º e 6º; Parecer Normativo CST nº 112, de 1978.
+Novo segmento
+[arquivo anexo: SC SRRF02-Disit nº 10-2013.pdf]
