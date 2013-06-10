@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 61, de 11 de abril de 2013
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ RESERVA DE REAVALIAÇÃO. MUDANÇA DE REGIME. REALIZAÇÃO. LUCRO REAL. LUCRO PRESUMIDO. A mudança de regime do lucro real para o presumido não obrigada a pessoa jurídica a adicionar à base de cálculo do imposto de renda, correspondente ao primeiro período de apuração no qual houver optado pela tributação com base no lucro presumido, o valor da reserva de reavaliação ainda não realizada. Dispositivos Legais: Lei nº 6.404, de 1976, art. 182, § 3º; Lei nº 9.430, de 1996, arts. 52 e 54; RIR/1999, art. 434.
+[arquivo anexo: SC SRRF09-Disit nº 61-2013.pdf]
