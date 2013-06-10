@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Superior do Trabalho ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. RECURSO DE REVISTA. JUSTIÇA DO TRABALHO. COMPETÊNCIA. DESPACHO MANTIDO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO DESPROVIDO. A despeito das razões expostas pela parte agravante, merece ser mantido o despacho que negou seguimento ao Recurso de Revista, pois subsistentes os seus fundamentos. Agravo conhecido e desprovido”. (eDOC 9, p. 1)
+    No recurso extraordinário (eDOC 11), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 114, I, da Carta da República e ao art. 2º da Emenda Constitucional 51/2006 c/c § 5º do art. 198 também do texto constitucional.
+    Nas razões recursais, sustenta-se a competência da justiça do trabalho para julgamento do feito. Argumenta-se que, no caso dos autos, trata-se de empregado celetista contratado após aprovação em processo seletivo (eDOC 11, p. 4).
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque a jurisprudência deste Supremo Tribunal Federal tem se firmado no sentido de que compete à Justiça Comum processar e julgar as causas instauradas entre Poder Público e servidor a ele vinculado por relação de ordem jurídico-administrativa. Nesse sentido, cito a decisão cautelar proferida na ADI-MC 3.395, Rel. Min. Cezar Peluso, DJ 10.11.2006, cuja ementa possui o seguinte teor:
+    “INCONSTITUCIONALIDADE. Ação direta. Competência. Justiça do Trabalho. Incompetência reconhecida. Causas entre o Poder Público e seus servidores estatutários. Ações que não se reputam oriundas de relação de trabalho. Conceito estrito desta relação. Feitos da competência da Justiça Comum. Interpretação do art. 114, inc. I, da CF, introduzido pela EC 45/2004. Precedentes. Liminar deferida para excluir outra interpretação. O disposto no art. 114, I, da Constituição da República, não abrange as causas instauradas entre o Poder Público e servidor que lhe seja vinculado por relação jurídico-estatutária”.
+    Assim, compete a Justiça Comum estadual ou federal processar e julgar toda e qualquer demanda que envolva servidor público, de um lado, e Administração Pública Direta, Autárquica e Fundacional, do outro, pois essas relações evidenciam a natureza jurídico-administrativa dos contratos pelo simples fato de envolverem pessoas jurídicas de direito público que não dispõem de autonomia negocial para contratar, mas, ao contrário, estão sujeitas a uma série de limitações de índole administrativa, como os princípios da legalidade, do concurso público e da impessoalidade.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 10 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
