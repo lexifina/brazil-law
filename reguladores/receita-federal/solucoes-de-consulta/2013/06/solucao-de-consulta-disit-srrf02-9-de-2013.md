@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF02 nº 9, de 26 de abril de 2013
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins EMENTA: PESSOA JURÍDICA PREPONDERANTEMENTE EXPORTADORA. AQUISIÇÕES. MATÉRIA-PRIMA. CRUDE. CAULIM SEMIELABORADO. SUSPENSÃO. APLICABILIDADE. Assunto: Contribuição para o PIS/Pasep PESSOA JURÍDICA PREPONDERANTEMENTE EXPORTADORA. AQUISIÇÕES. MATÉRIA-PRIMA. CRUDE. CAULIM. SEMIELABORADO. SUSPENSÃO. APLICABILIDADE.
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social - Cofins
+EMENTA: PESSOA JURÍDICA PREPONDERANTEMENTE EXPORTADORA. AQUISIÇÕES. MATÉRIA-PRIMA. CRUDE. CAULIM SEMIELABORADO. SUSPENSÃO. APLICABILIDADE. Nas aquisições de caulim semielaborado (“crude”), por pessoa jurídica preponderantemente exportadora que o utilize como insumo direto a incorporar-se ao produto a exportar, é aplicável a suspensão da Cofins prevista no art. 40 da Lei nº 10.865, de 2004.
+Assunto: Contribuição para o PIS/Pasep
+PESSOA JURÍDICA PREPONDERANTEMENTE EXPORTADORA. AQUISIÇÕES. MATÉRIA-PRIMA. CRUDE. CAULIM. SEMIELABORADO. SUSPENSÃO. APLICABILIDADE. Nas aquisições de caulim semielaborado (“crude”), por pessoa jurídica preponderantemente exportadora que o utilize como insumo direto a incorporar-se ao produto a exportar, é aplicável a suspensão da Contribuição para o PIS/Pasep prevista no art. 40 da Lei nº 10.865, de 2004.
+DISPOSITIVOS LEGAIS: Lei nº 5.172, de 1966 - CTN, art. 111, I; Lei nº 10.865, de 2004, art. 40; e IN SRF nº 595, de 2005.
