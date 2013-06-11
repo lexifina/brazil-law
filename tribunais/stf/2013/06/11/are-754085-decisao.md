@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que julgou improcedente o pedido de pensão por morte, tendo em vista que o falecido não possuía a qualidade de segurado na data do óbito.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, III, 201, V, e 229 da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 8.213/1991), bem como com apoio no conjunto fático probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo . A afronta à Constituição, se ocorrente, seria indireta, além de incidir, na espécie, a Súmula 279 STF. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, §3º, DA CONSTITUIÇÃO FEDERAL. REQUISITOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O entendimento diverso do adotado pelo Tribunal a quo, concluindo que na data do óbito o ‘de cujus’ não possuía a qualidade de segurado, ensejaria o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, verbis: ‘para simples reexame de prova não cabe recurso extraordinário’. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. Agravo regimental a que se nega provimento”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
