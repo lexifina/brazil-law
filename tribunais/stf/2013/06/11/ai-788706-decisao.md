@@ -1,0 +1,13 @@
+Trata-se de agravo de instrumento contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “Embargos à Execução - Nulidade de CDA - A declaração do contribuinte em que comunica a existência de obrigação tributária, é confissão de dívida e se constitui em instrumento hábil para a exigência do crédito. Recurso da Fazenda provido” (fl. 73).
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, violação aos arts. 5º, XXXVI e LV, 155, II e IX, b, e 156, III, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Tribunal de origem, ao concluir como suficientes as provas contidas nos autos, não violou o art. 5º, LV, da Constituição, porquanto o mencionado dispositivo não impede a livre análise e valoração da prova pelo Juízo a quo . Seguindo essa linha de raciocínio, anote-se:
+    “Recurso extraordinário: descabimento: ausência de violação à garantia da ampla defesa (CF, artigo 5º, LV), que não impede a livre análise e valoração da prova pelo órgão julgador; pretensão, ademais, ao reexame de fatos e provas, inviável no RE (Súmula 279)” (AI 491.730-AgR/SP, Rel. Min. Sepúlveda Pertence).
+    Ressalte-se, ainda, que esta Corte tem se orientado no sentido de que a discussão em torno dos limites objetivos da coisa julgada, matéria de legislação ordinária, não dá ensejo à abertura da via extraordinária. Nesse sentido, menciono as seguintes decisões, entre outras: AI 602.832-ED/SC, Rel. Min. Sepúlveda Pertence; AI 608.978-AgR/RS, Rel. Min. Eros Grau; AI 536.022-AgR/SP, Rel. Min. Carlos Britto; AI 590.021-AgR/PI, Rel. Min. Cezar Peluso; e AI 451.773-AgR/DF, Rel. Min. Gilmar Mendes.
+    Por fim, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, no que diz respeito à validade da CDA, faz-se necessário o exame do conjunto fático-probatório dos autos, bem como a análise de normas infraconstitucionais, o que inviabiliza o extraordinário com base na Súmula 279 do STF ou porque a afronta à Constituição, se ocorrente, seria indireta. Nesse sentido, menciono as seguintes decisões, entre outras: AI 846.803-RG-SP, Rel. Min. Cezar Peluso; AI 744.676-AgR/MG e AI 765.222-AgR/SC, Rel. Min. Dias Toffoli; ARE 684.215-AgR/SC, Rel. Min. Joaquim Barbosa; AI 801.618-AgR/RS, Rel. Min. Luiz Fux; AI 805.649-AgR/RJ, Rel. Min. Gilmar Mendes; AI 592.101-AgR/MG, Rel. Min. Sepúlveda Pertence; RE 404.663-AgR/RS, Rel. Min. Cármen Lúcia; AI 689.102-AgR/RS, de minha relatoria.
+    Isso posto, nego seguimento ao recurso. (CPC, 557, caput).
+    Publique-se.
+    Brasília, 11 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
