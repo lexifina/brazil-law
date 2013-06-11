@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “ADMINISTRATIVO. EXECUÇÃO FISCAL. POSTOS DE AUTOATENDIMENTO BANCÁRIO. INSTALAÇÃO DE PORTA ELETRÔNICA DE SEGURANÇA INDIVIDUALIZADA. LEI MUNICIPAL Nº 7.494/94.MUNICÍPIO DE PORTO ALEGRE.
+    A exigência legal de instalação de porta eletrônica de segurança com detector de metais restringe-se às agências e postos de serviços, assim entendidos os postos que realizam as mesmas atividades das agências, com atendimento ao público, mas com menor número de funcionários, não se estendendo aos meros terminais de auto-atendimento”.
+     No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque a decisão atacada está devidamente fundamentada, sendo certo que não há negativa de prestação jurisdicional se o acórdão, embora fundamentado, está em dissonância com os interesses do recorrente. Nesse sentido, transcrevo ementa do AI 791.292-QO-RG/PE, Rel. Min. Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”.
+    Ressalte-se, que com relação ao mérito tratado nos autos, o recorrente não apontou qual o dispositivo constitucional estaria violado. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da Súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes e AI 470.069-AgR/PR, Rel. Min. Ayres Britto.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 11 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
