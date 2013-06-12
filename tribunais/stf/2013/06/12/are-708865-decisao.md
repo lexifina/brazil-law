@@ -1,0 +1,11 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E EMPRESARIAL. CÁLCULO DA QUANTIDADE DE AÇÕES EM QUE DIVIDIDO O CAPITAL SUBSCRITO EM UMA SOCIEDADE ANÔNIMA, REFERENTE AOS CONTRATOS DE PARTICIPAÇÃO FINANCEIRA E SUBSCRIÇÃO DE AÇÕES DE TELEFONIA, COM COMPLEMENTAÇÃO DOS TÍTULOS ACIONÁRIOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO RE Nº 729.263-RG. TEMA Nº 178 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL.
+    Decisão: A controvérsia objeto dos presentes autos já foi analisada no RE 729.263 RG, Rel. Min. Cezar Peluso, DJe de 16/10/2009, em que o Plenário desta Corte recusou o recurso extraordinário ante a ausência de repercussão geral, visto que a matéria está restrita a análise de norma infraconstitucional. O mencionado precedente está assim ementado:
+    RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional.
+    In casu, o acórdão recorrido assentou, in verbis:
+    AÇÃO DE ADIMPLEMENTO DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA FIRMADO COM EMPRESA TELEFÔNICA. SUBSCRIÇÃO DEFICITÁRIA. AUSÊNCIA DE INTERESSE RECURSAL QUANTO À PRELIMINAR RELATIVA À TELEFONIA CELULAR. ILEGITIMIDADE PASSIVA AD CAUSAM RECHAÇADA. PRESCRIÇÃO INOCORRENTE. APLICAÇÃO DOS PRAZOS DO CÓDIGO CIVIL QUE NÃO AFRONTA O PRINCÍPIO DA ISONOMIA. RESSARCIMENTO EM RELAÇÃO AOS DIVIDENDOS NÃO PERCEBIDOS. CABIMENTO. INCIDÊNCIA DE CORREÇÃO MONETÁRIA QUE NÃO VIOLA O ATO JURÍDICO PERFEITO. PRESCINDIBILIDADE DE APURAÇÃO DA DIFERENÇA ACIONÁRIA NA FASE COGNITIVA. CÁLCULO DO VALOR PATRIMONIAL DAS AÇÕES COM BASE BALANCETE MENSAL CORRESPONDENTE À DATA DO PAGAMENTO DA PRIMEIRA OU ÚNICA PARCELA DO APORTE FINANCEIRO. EXEGESE DA SÚMULA N. 371 DO STJ. MODIFICAÇÃO NO PARTICULAR. RECURSO CONHECIDO EM PARTE E, NESTA, PARCIALMENTE PROVIDO.
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 12 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
