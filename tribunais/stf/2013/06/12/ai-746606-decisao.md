@@ -1,0 +1,23 @@
+Decisão:
+    Vistos.
+    Prefeito Municipal de Botucatu interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5º, inciso XXXVI e 40, § 13, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “COMPLEMENTAÇÃO DE APOSENTADORIA. Botucatu. LM nº 3.296/93, LM nº 4.647/05. Revogação da complementação concedida. - 1. Regime especial de previdência. Emenda 20/98. A Emenda 20/98 não extinguiu, por si só, os regimes próprios de previdência; determinou que se adaptassem às normas nela previstas e na lei complementar a ser editada, que concedeu prazo para a adaptação. Inviabilidade de, com base na Emenda tão somente, considerar suspensa a eficácia da LM nº 3.296/93 e inconstitucionais os benefícios com base nela concedidos. - 2. Regime especial de previdência. Revogação. É válida a revogação pela LM nº 4.647/05 da lei anterior e do regime especial de previdência; ofende o ato jurídico perfeito, no entanto, a revogação dos benefícios anteriores, concedidos a partir de 15-12-1998. Ofensa ao art. 5º, XXXVI da Constituição Federal e do art. 6º do DL nº 4.657/42. Sentença que denegou a segurança. Recurso da impetrante provido para restabelecer a complementação.”
+    Opostos embargos de declaração, foram rejeitados.
+    Consulta ao endereço eletrônico do Superior Tribunal de Justiça mantido na rede mundial de computadores demostra que aquela Corte já rejeitou o recurso especial interposto paralelamente ao extraordinário.
+    Decido.
+    Não prospera a irresignação.
+    Verifica-se que a Corte de origem solucionou a lide, consignado o que se segue, in verbis:
+    “Posto isso, não vejo inconstitucionalidade na concessão da complementação da aposentadoria da autora, o benefício foi concedido segundo a lei vigente ao tempo da inatividade em 2003 e não é alcançado pela LM nº 4.647/05, que podia extinguir o regime especial e o Fundo de Previdência, mas não podia atingir os benefícios antes concedidos por força do art. 5º XXXVI da Constituição Federal e do art 6º do DL nº 4657/42, a Lei de Introdução do Código Civil, isso por proteção ao ato jurídico perfeito, não ao direito adquirido.
+    (…)
+    Feita essa digressão, a LM nº 4647/05 de 31-5-2005 podia revogar a lei anterior e extinguir o regime especial de complementação e o fundo especial de complementação e o fundo especial então existente, cessando a partir daí a concessão de novos benefícios, mas não podia revogar as complementações concedidas a partir de 15-12-1998 (art 3º) até a data da extinção do regime, por ofensa ao art. 5º XXXVI da Constituição Federal e ao art 6º do DL nº 4.657/42. A impetrante tem razão.”
+    Como visto, para divergir das premissas fixadas no acórdão recorrido e acolher a pretensão do recorrente, seria necessária a análise da legislação infraconstitucional aplicável na espécie, o que configuraria, quando muito, ofensa reflexa ou indireta ao texto constitucional, não sendo possível seu reexame por esta via extraordinária. Incidência da Súmula 280 desta Corte. Em sentido semelhante, confira-se:
+    “PROCESSUAL CIVIL. AGRAVO REGIMENTAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEIS ESTADUAIS 1.386/51 E 4.819/58 E LEI COMPLEMENTAR ESTADUAL 200/74 MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido dirimiu a questão dos autos com base na legislação infraconstitucional local aplicável à espécie. Inadmissibilidade do RE, ante a incidência da Súmula 280 do STF. II - Para dissentir da conclusão a que chegou o acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. III - Agravo regimental improvido” (AI nº 527.504/SP-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 7/11/08).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. LEIS ESTADUAIS Ns. 4.819/58, 1.386/51 E 200/74. OFENSA INDIRETA. INTERPRETAÇÃO DE NORMA LOCAL. Controvérsia afeta à interpretação de norma local, incidência da Súmula 280. Eventual ofensa à Constituição do Brasil adviria, quando muito, de forma indireta. Agravo regimental a que se nega provimento”
+(AI nº 568.155/SP- AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 01/9/06).
+    Ante o exposto, nego provimento ao agravo de instrumento.
+    Publique-se.
+    Brasília, 12 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
