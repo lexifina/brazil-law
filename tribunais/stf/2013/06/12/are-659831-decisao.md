@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E EMPRESARIAL. CÁLCULO DA QUANTIDADE DE AÇÕES EM QUE DIVIDIDO O CAPITAL SUBSCRITO EM UMA SOCIEDADE ANÔNIMA, REFERENTE AOS CONTRATOS DE PARTICIPAÇÃO FINANCEIRA E SUBSCRIÇÃO DE AÇÕES DE TELEFONIA, COM COMPLEMENTAÇÃO DOS TÍTULOS ACIONÁRIOS. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO VIRTUAL NO RE Nº 729.263-RG. TEMA Nº 178 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL.
+    Decisão:  Cuida-se de agravo nos próprios autos interposto por BERDUMIDES BOEIRA DA SILVA com o objetivo de ver reformada a r. decisão de fls. 360/362, que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão prolatado pelo Superior Tribunal de Justiça, assim ementado (fl. 314), in verbis:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL – VIOLAÇÃO AO INSTITUTO DA COISA JULGADA - INEXISTÊNCIA – RECURSO IMPROVIDO.”
+    Os embargos de declaração opostos foram rejeitados (fl. 326).
+    Nas razões do apelo extremo, sustenta preliminar de repercussão geral e, no mérito, alega violação aos princípios constitucionais da certeza do direito e da segurança jurídica.
+    O Superior Tribunal de Justiça negou seguimento ao recurso extraordinário por entender que há deficiência em sua fundamentação, encontrando óbice na Súmula 284 desta Corte.
+    É o relatório. DECIDO.
+    A controvérsia objeto dos presentes autos já foi analisada no RE 729.563 RG, Rel. Cezar Peluso, DJe de 16/10/2009, em que o Plenário desta Corte recusou o recurso extraordinário ante a ausência de repercussão geral, visto que a matéria está restrita a análise de norma infraconstitucional. O mencionado precedente está assim ementado:
+    RECURSO. Extraordinário. Incognoscibilidade. Telefonia. Contrato de participação financeira. Subscrição de ações. Matéria infraconstitucional. Ausência de repercussão geral. Recurso não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto contrato de participação financeira e subscrição de ações de telefonia, com complementação dos títulos acionários, versa sobre matéria infraconstitucional.
+    Quanto à alegada violação ao artigo 5º, XXXVI, da Constituição, a jurisprudência desta Corte é uníssona no sentido de que a verificação, em cada caso concreto, da ocorrência, ou não, de violação do direito adquirido, do ato jurídico perfeito e da coisa julgada não desafia a instância extraordinária, visto (também) situar-se no âmbito infraconstitucional. Nesse sentido:
+    “DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ALEGADA OFENSA AO ART. 5º, CAPUT, I, XXXV, XXXVI, LIV E LV, CF/1988. COISA JULGADA. LITISPENDÊNCIA. TRÂNSITO EM JULGADO DA SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA. OFENSA INDIRETA. 1. Necessidade do revolvimento de legislação infraconstitucional para se concluir pela afronta à Constituição Federal. 2. Alegação de ofensa aos princípios da legalidade, da prestação jurisdicional, do direito adquirido, do ato jurídico perfeito, dos limites da coisa julgada, do devido processo legal, do contraditório e da ampla defesa configura, quando muito, ofensa meramente reflexa à Constituição Federal. Precedentes. 3. Agravo regimental a que se nega provimento.” (AI 692.591-AgR, 2ª Turma, Rel. Min. Ellen Gracie, DJe de 13/06/2011) (grifo nosso).
+    Ex positis, NÃO CONHEÇO do agravo.
+    Publique-se.
+    Brasília, 12 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
