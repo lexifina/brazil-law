@@ -1,0 +1,17 @@
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO. LIVROS E PERIÓDICOS. KINDLE – LEITOR DE LIVRO ELETRÔNICO. CONCEITO DE IMUNIDADE. EXTENSÃO. REPERCUSSÃO GERAL RECONHECIDA PELO PLENÁRIO VIRTUAL NO RE Nº 330817. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM (ART. 328, PARÁGRAFO ÚNICO, DO RISTF).
+    Decisão: Trata-se de recurso extraordinário da União, com fundamento no artigo 102, III, a, da Constituição Federal, interposto contra acordão proferido pela 1ª Turma do Tribunal Regional Federal da 4ª Região mediante o qual foi desprovido o recurso de apelação, ante os seguintes fundamentos:
+    “TRIBUTÁRIO. MANDADO DE SEGURANÇA. IMUNIDADE DE IMPOSTOS PARA LIVROS. ART. 150, VI, 'D' DA CARTA MAGNA. EXTENSÃO AO 'KINDLE'.
+    1. Se a finalidade precípua da imunidade de impostos conferida aos livros (art. 150, VI, 'd' da Carta Magna) é incentivar a divulgação do conhecimento, não é menos verdade que se imaginava a sua divulgação pela forma escrita, pois, se a lei não emprega palavras inúteis, esta é a conclusão a que se chega com a leitura da parte final do dispositivo transcrito. Isto se deve ao fato de que o Constituinte de 88 legislou a partir do conceito tradicional de livro, a de objeto escrito, impresso.
+    2. Desde então novas tecnologias surgiram, a informática popularizou-se, tornando-se poderosa ferramenta para a divulgação de idéias e de cultura. CDROMs, livros virtuais etc, eram desconhecidos ou incomuns há 15 anos, mas agora, são de uso frequente. Se a sociedade e a técnica evoluem, ocasionando novas demandas, é função do operador do direito interpretar as normas a fim de adequá-las à nova realidade social, emprestando feição conforme as novas exigências que se apresentam. Destarte, o leitor digital 'Kindle', ainda que não incluído no conceito tradicional de livro, se presta ao mesmo objetivo, pelo que entendo estar abrangido na imunidade do art. 150, IV, 'd', da Lei Maior.
+    3. Dessa forma privilegia-se o fim objetivado (divulgação do conhecimento), não o meio utilizado (livro impresso em papel).”
+    Nas razões recursais, a União sustenta, em síntese, tratar-se de situação diversa, porquanto o Kindle não seria considerado livro propriamente e sim equipamento eletrônico, não coberto pela imunidade prevista pelo Constituinte.
+    Esta controvérsia está sob análise desta Corte.
+    O Plenário Virtual do Supremo Tribunal Federal, nos autos do Recurso Extraordinário nº 330.817, Relator Ministro Dias Toffoli, reconheceu a repercussão geral da controvérsia objeto dos presentes autos, cujo pronunciamento restou assim redigido:
+    EMENTA DIREITO CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA COLETIVO. PRETENDIDA IMUNIDADE TRIBUTÁRIA A RECAIR SOBRE LIVRO ELETRÔNICO. NECESSIDADE DE CORRETA INTERPRETAÇÃO DA NORMA CONSTITUCIONAL QUE CUIDA DO TEMA (ART. 150, INCISO IV, ALÍNEA D). MATÉRIA PASSÍVEL DE REPETIÇÃO EM INÚMEROS PROCESSOS, A REPERCUTIR NA ESFERA DE INTERESSE DE TODA A SOCIEDADE. TEMA COM REPERCUSSÃO GERAL.
+    Este paradigma aguarda julgamento de mérito pelo Plenário.
+    Ex positis, com fundamento no artigo 328, parágrafo único, do RISTF e artigo 543-B do CPC, determino a devolução dos autos ao Tribunal Regional Federal da 4ª Região, onde deverá o extraordinário aguardar SOBRESTADO, até final julgamento do Recurso Extraordinário nº 330817 pelo Plenário deste Supremo Tribunal.
+    Publique-se. Int..
+    Brasília, 12 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
