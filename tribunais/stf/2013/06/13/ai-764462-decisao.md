@@ -1,0 +1,13 @@
+Decisão: 1. Em decisão de fl. 671, o Min. AYRES BRITTO, então relator, deu provimento ao agravo de instrumento e determinou a devolução dos autos ao Tribunal de origem, com base no art. 543-B do CPC, consignando conter, o recurso extraordinário interposto pela União, matéria idêntica àquela a respeito da qual esta Corte reconheceu a repercussão geral, quando da análise do RE 577.302 (Rel. Min. RICARDO LEWANDOWSKI, DJE de 02.08.2008).
+    Após a efetivação dessa ordem, os autos foram restituídos ao Supremo Tribunal Federal em 04/08/2009 (fl. 677), sem motivo aparente.
+    Negou-se, então, provimento ao agravo de instrumento da União (fls. 679-680), porquanto (a) ausente o devido prequestionamento das matérias (súmulas 282/STF); e (b) pacífico nesta Corte o entendimento de que a questão tem natureza infraconstitucional.
+    2. O STF possui jurisprudência consolidada no sentido de que, em caso de nítido erro material, é possível que seja afastada a devolução com base no art. 543-B. Confira-se o seguinte julgado:
+    RECURSO. Embargos de declaração. Interposição contra acórdão que determinou a devolução dos autos para o Tribunal de origem. Art. 543-B do CPC. erro material na indicação do precedente cuja repercussão geral foi reconhecida. Correção. Sobrestamento. Embargos de declaração providos. Embargos declaratórios prestam-se à correção de erro material, quando o acórdão embargado indica precedente sobre tema diverso do discutido nos autos. (RE 545519 ED, Min. Cezar Peluso, Segunda Turma, DJe 09-10-2009)
+    Foi o que ocorreu na presente hipótese, no que diz respeito à decisão de fl. 671. Isso porque o RE 577.302, substituído pelo RE 561.485 como paradigma da repercussão geral, trata sobre o termo final de vigência do crédito-prêmio do IPI instituído pelo Decreto-lei nº 491/69. O presente recurso extraordinário, por sua vez, diz respeito à constitucionalidade e à possibilidade de aplicação da Resolução CIEX 2/1979, para fins de estabelecimento de alíquotas para o cálculo do crédito-prêmio de IPI, à luz da Constituição Federal de 1967. Evidente, assim, o erro material, tornando inviável a aplicação da sistemática da repercussão geral ao caso.
+    Por outro lado, nada a reparar ou acrescentar em relação à decisão de fls. 679-680, a qual, inclusive, não foi objeto de recursos, tendo transitado em julgado.
+    3. Ante o exposto, torno sem efeito a decisão de fl. 671. À Secretaria para que certifique o trânsito em julgado da decisão de fls. 679-680.
+    Publique-se. Intime-se.
+    Brasília, 13 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
