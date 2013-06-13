@@ -1,0 +1,27 @@
+RECLAMAÇÃO. NÃO CABIMENTO DA RECLAMAÇÃO CONTRA ATO DE MINISTRO OU TURMA DO SUPREMO TRIBUNAL FEDERAL. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+    Decisão: Cuida-se de Reclamação ajuizada por Clarice Pereira Pinto e outro contra acórdão proferido pela 2ª Turma deste Supremo Tribunal Federal nos autos do Agravo de Instrumento nº 856.833, que teria afrontado a autoridade do Supremo Tribunal Federal.
+    Os reclamantes sustentam que, na hipótese dos autos, houve afronta ao devido processo legal em razão de omissão, pois a 2ª Turma do Supremo Tribunal Federal, por meio de seus membros, se negou a conhecer e a julgar o mérito dos Embargos de Declaração.
+    Alegam que “não há como imputar à Reclamante à pecha de recalcitrante, isso por insistir na interposição de sucessivos recursos, ou mesmo de se reconhecer o nítido intuito protelatório dos embargos de declaração, eis que o artigo 535 do CPC não determina, expressamente, o que seja: OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, como também não determina que a eles, embargos, não se possa atribuir o efeito infringente/modificativo”.
+    Afirmam que ”para algumas situações, como é o caso que se apresenta nos autos, a 2ª Turma desse Supremo Tribunal Federal, por meio de seus membros, se nega a reconhecer, em sede de Embargo de Declaração prequestionador, a omissão da questão suscitada pela Reclamante, para, então, anular-se o Acórdão recorrido e determinar a remessa dos autos ao TJDF, para que a Turma da Instância a quo analise e julgue as questões suscitadas pela parte, também, oportunamente, arguidas em sede de aclaratórios naquele Tribunal de Origem”.
+    Alegam que “o que se pretende nesses autos é que seja observado o devido processo legal, eis que até o presente momento não se analisou a questão da afronta ao artigo 535 do CPC”.
+    É o relatório. Decido.
+    A presente reclamação não merece seguimento.
+    A reclamação constitucional é o instrumento adequado para impedir a usurpação da competência do Supremo Tribunal Federal e para garantir a autoridade de suas decisões e súmulas vinculantes (art. 102, I, “l”e art. 103-A, § 3º, da CF).
+    Esta Corte firmou orientação afirmando a impossibilidade de ajuizamento de reclamação que objetiva impugnar decisão do Presidente da Corte, suas Turmas e seus Ministros-Relatores.
+    Confira-se, à guisa de exemplo, os seguintes precedentes desta Corte Suprema:
+    “EMENTA: RECLAMAÇÃO. DECISÃO PROFERIDA PELO VICEPRESIDENTE DESTA CORTE. NÃO CABIMENTO. Não cabe reclamação contra decisões dos membros do Supremo Tribunal Federal. Precedentes. Com efeito, a reclamação não é via processual adequada, no Supremo Tribunal Federal, à impugnação de suas decisões (Rcl-AgRg 3.316, de minha relatoria, Segunda Turma, 21.06.2005; Rcl-AgRg 3.916, rel. min. Carlos Britto, Pleno, 12.06.2006). A impugnação das decisões do Supremo Tribunal Federal se faz nos termos da legislação processual, por meio dos recursos próprios. Agravo regimental desprovido” (Rcl nº 4.591-AgR, Rel. Min. Joaquim Barbosa, DJe de 4/12/2009).
+    “EMENTA: AGRAVO REGIMENTAL. DECISÃO QUE NEGOU SEGUIMENTO À RECLAMAÇÃO. Recurso que não ataca todos os fundamentos no qual se assenta o ato impugnado.
+    1. A reclamação constitucional, prevista na alínea “l” do inciso I do artigo 102 da Constituição Federal, destina-se a impedir usurpação da competência deste Supremo Tribunal Federal e a garantir a autoridade de suas decisões. Trata-se, portanto, de uma importante ferramenta processual com a finalidade de proteger o próprio guardião da Lei Maior.
+    2. A jurisprudência deste Tribunal vem reconhecendo ser a reclamação um instrumento apto à proteção dele mesmo, Supremo Tribunal, contra atos de terceiros (Reclamações 2.106 e 1.775). Atos de terceiros que impliquem, lógico, usurpação de competência da Corte, ou, então, desrespeito à autoridade das decisões por ele, STF, exaradas. Logo, o cabimento da reclamação pressupõe a prática de atos externa corporis ou extramuros desta Corte Maior de Justiça. Donde a desembaraçada ilação de que os atos protagonizados pelo Presidente da Corte, suas Turmas e seus Ministros-Relatores são reputados como de autoria do Supremo Tribunal mesmo.
+    3. No caso, a reclamação se volta contra a decisão tomada no AI 481.829-AgR-ED-EDV-AgR, da relatoria do ministro Celso de Mello.
+    4. De outra parte, o reclamante aponta o descumprimento da decisão da RCL 2.138, cujo julgamento, à época do ajuizamento da reclamação, ainda não havia se encerrado. De mais além, ante a natureza subjetiva do processo, a decisão nela proferida não teria efeito vinculante.
+    5. Agravo regimental a que se nega provimento”(Rcl nº 4.174-AgR, Rel. Min. Ayres Britto, DJe de 6/3/2009).
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. IMPUGNAÇÃO DE ATO DE MINISTRO DO SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA DO RELATOR PARA DECIDIR MONOCRATICAMENTE AÇÃO SOB SUA RELATORIA. AGRAVO REGIMENTAL PREJUDICADO.
+    1. Não cabe reclamação para impugnar decisão monocrática de Ministro do Supremo Tribunal Federal.
+    2. Reconsideração da decisão reclamada. Substituição do título judicial: perda de objeto”(Rcl nº 8.301-AgR, Rel. Min. Cármen Lúcia, Plenário, DJe 9/10/2009).
+    Ante o exposto, nego seguimento à presente reclamação (art. 21, § 1º do RISTF), restando prejudicada a análise do pedido de medida liminar.
+    Publique-se. Int..
+    Brasília, 13 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
