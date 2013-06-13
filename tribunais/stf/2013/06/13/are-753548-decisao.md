@@ -1,0 +1,21 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Rio Grande do Sul ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. piso salarial profissional nacional para os profissionais do magistério público da educação básica. implantação. AÇÃO INDIVIDUAL. ajuizamento concomitante com AÇÃO CIVIL PÚBLICA proposta PELO MINISTÉRIO PÚBLICO estadual. SUSPENSÃO DO PROCESSO singular CONCERNENTE À AÇÃO INDIVIDUAL no aguardo do julgamento Da demanda coletiva (PROCESSO DE AÇÃO COLETIVA QUE CONTÉM A MACRO-LIDE). VIABILIDADE.
+    É de se considerar admissível a suspensão de processo individual no qual se controverte sobre a mesma matéria discutida em ação civil pública ajuizada pelo Ministério Público Estadual – implantação do piso salarial profissional nacional para os profissionais do magistério público da educação básica. Com essa providência, dotada de razoabilidade, pretende-se evitar a multiplicação de demandas de cunho repetitivo que acabam abarrotando o Poder Judiciário e dificultando a prestação jurisdicional em tempo célere e de forma útil e proveitosa e a prolação de decisões contraditórias. Por outro lado, concede-se prazo razoável para que o ente de direito público demandado encontre uma solução macro para a macro-lide posta sob o crivo judicial.
+    AGRAVO DE INSTRUMENTO DESPROVIDO, POR MAIORIA”. (eDOC 1, p. 93)
+    No recurso extraordinário, interposto com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, o recorrente sustenta, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 1º, II e 5º II e XXXV, do texto constitucional.
+    Nas razões recursais, defende-se, em síntese, que violação ao princípio da legalidade. Ademais, sustenta-se a inafastabilidade do poder judiciário uma vez que o objeto da ação individual e mais abrangente do que o objeto da ação civil pública.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, registre-se que, nos termos do Enunciado 636 da Súmula do STF, não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    Nesse sentido: AI-AgR 822.961, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.11.2012; e o ARE-AgR 706.650, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.11.2012, cuja ementa assim dispõe:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. ALEGADA AFRONTA AO PRINCÍPIO DA LEGALIDADE (ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA). OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Ademais, verifica-se que o Tribunal de origem decidiu a causa com fundamento na legislação infraconstitucional – Código de Processo Civil. Assim, eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+     Nesse sentido, destaca-se o seguinte precedente que trata de questão idêntica a destes autos, assim ementado:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. SUSPENSÃO DA AÇÃO INDIVIDUAL ANTE A EXISTÊNCIA DE AÇÃO COLETIVA SOBRE O MESMO OBJETO. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido” (AI-AgR 821.817/RS, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 4.3.11).
+    Assim, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 13 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
