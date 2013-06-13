@@ -1,0 +1,10 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto em ação de reparação de danos por acidente de trânsito objetivando a responsabilização do Município de Passos para o pagamento de danos (a) materiais; (b) morais; (c) físicos; (d) estéticos. O Tribunal de Justiça do Estado de Minas Gerais (TJMG) reformou parcialmente a sentença para majorar o valor da indenização, aos seguintes fundamentos: (a) o dever de indenizar nasce da demonstração de que o agente estatal, ao dirigir veículo de fundação pública, efetuou manobra indevida em via pública; (b) o Município não comprovou sua alegação de que houve culpa exclusiva da vítima; (c) o dano estético é acumulável com dano moral, conforme Súmula 378/STJ.
+    No recurso extraordinário, interposto com base no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 37, § 6º, da Carta Magna, sob os seguintes argumentos: (a) o Poder Público apenas é obrigado a reparar dano ocasionado a terceiro se estabelecida relação de causalidade entre a injuridicidade da ação e a lesão sofrida; (b) diversamente do entendimento do TJMG, a culpa por omissão não se presume, criando-se o dever de investigar a existência de provas; (c) a recorrida concorreu com o fato danoso. Requer o recorrente, por fim, (a) a reforma do acórdão recorrido, para que seja declarada a inexistência de responsabilidade estatal; (b) ou a redução do quantum indenizatório, em razão da concorrência da vítima.
+    2. Não é cabível, na via extraordinária, juízo sobre os elementos fáticos da existência do nexo de causalidade para verificação da responsabilidade do Município, por não prescindir do exame de provas, incidindo o óbice da Súmula 279/STF (Para simples reexame de prova não cabe recurso extraordinário).
+    No mesmo óbice incorre o exame do quantum indenizatório. Nesse sentido o ARE 743771 RG, Relator(a): Min. GILMAR MENDES, DJe 31-05-2013, TEMA 655.
+    3. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 13 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
