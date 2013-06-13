@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de novos embargos de declaração opostos pela União (fls. 99/103), contra acórdão do Plenário que manteve a decisão monocrática que concedeu a ordem pleiteada, com a seguinte ementa:
+    “MANDADO DE INJUNÇÃO. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO. ART. 40, § 4º, DA CONSTITUIÇÃO FEDERAL, APLICAÇÃO DAS NORMAS DO REGIME GERAL DE PREVIDÊNCIA SOCIAL. AGRAVO DESPROVIDO.
+    1. Segundo a jurisprudência do STF, a omissão legislativa na regulamentação do art. 40, § 4º, da Constituição, deve ser suprida mediante a aplicação das normas do Regime Geral de Previdência Social previstas na Lei 8.213/91 e no Decreto 3.048/99. Não se admite a conversão de períodos especiais em comuns, mas apenas a concessão da aposentadoria especial mediante a prova do exercício de atividades exercidas em condições nocivas. Fundamentos observados pela decisão agravada.
+    2. Agravo regimental desprovido”.
+    Em suma, alega o embargante a existência de contradição e omissão, considerando que o impetrante não completou 25 anos de tempo de contribuição em atividades insalubres, deixando de preencher o requisito temporal para a concessão do benefício de aposentadoria especial pretendido.
+    2. Aos fundamentos já expostos nas decisões anteriores, reitera-se que foge ao objeto do mandado de injunção a análise específica do enquadramento – ou não – da atividade desempenhada pela parte impetrante em alguma das hipóteses abrangidas pelo Regime Geral da Previdência Social, ou do cumprimento. Sobre o assunto, recentemente decidiu o Plenário do STF:
+    “MANDADO DE INJUNÇÃO. REVISÃO GERAL ANUAL. ART. 37, X, DA CONSTITUIÇÃO FEDERAL, EXISTÊNCIA DE LEI REGULAMENTADORA. DESCABIMENTO DO MANDADO DE INJUNÇÃO. AGRAVO DESPROVIDO. 1. Segundo a jurisprudência do STF, a existência, ainda que superveniente, de norma regulamentadora do direito constitucional pretendido leva à perda do objeto do mandado de injunção. A Lei 10.331/2001 regulamentou o art. 37, X, da Constituição, conferindo-lhe eficácia plena, e está em vigor desde 19 de dezembro de 2001. Posteriormente, a Lei 10.697/2003 também cumpriu o dispositivo constitucional. Ainda, o mandado de injunção não é o meio processual adequado para questionar a efetividade da lei regulamentadora. Fundamentos observados pela decisão agravada. 2. Agravo regimental desprovido” (MI 2182 AgR/DF, Pleno, rel. Min. Teori Zavascki, j. 24/04/2013, DJe 09/05/2013).
+    Com o mesmo entendimento: MI 4409 AgR/DF, Pleno, rel. Min. Teori Zavascki, j. 24/04/2013, DJe 09/05/2013; MI 4831 AgR/DF, Pleno, rel. Min. Teori Zavascki, j. 29/05/2013, DJe 07/06/2013; MI 4932 AgR/DF, Pleno, rel. Min. Teori Zavascki, j. 29/05/2013, DJe 07/06/2013.
+    Em consequência, o cumprimento do tempo de contribuição trabalhado em condições especiais deverá ser apreciado apenas no requerimento administrativo de aposentadoria especial da parte impetrante, não sendo relevante para o julgamento do mandado de injunção.
+    3. Diante do exposto, rejeito os embargos de declaração.
+    Publique-se. Intimem-se.
+    Brasília, 13 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
