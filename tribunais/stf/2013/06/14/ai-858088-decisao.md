@@ -1,0 +1,17 @@
+AGRAVO DE INSTRUMENTO. RECONHECIMENTO DA REPERCUSSÃO GERAL NO RE Nº 667.958 (TEMA: 527). ENTREGA DE GUIAS E BOLETOS DE COBRANÇA. SERVIÇO REALIZADO DIRETAMENTE PELO ENTE FEDERATIVO. OFENSA AO MONOPÓLIO POSTAL EXERCIDO PELOS CORREIOS. DEVOLUÇÃO DO PROCESSO AO TRIBUNAL DE ORIGEM.
+1. In casu, o Tribunal Regional Federal da 1ª Região reformou sentença para julgar improcedente pedido da ECT de incluir no monopólio do serviço postal que explora, a operação de leitura de medidores e entrega imediata da conta ao consumidor de água ou de energia elétrica.
+2. Dou provimento ao agravo de instrumento para admitir o recurso extraordinário. Determino, por conseguinte, a devolução dos autos ao Tribunal de origem (arts. 328, parágrafo único, do RISTF e 543-B do CPC).
+    Decisão: Trata-se de agravo de instrumento interposto com base no art. 544 do Código de Processo Civil, contra decisão que inadmitiu recurso extraordinário, sob o fundamento de que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, ou seja, de acordo com o que decidido na ADPF 46 (Rel. Min. Eros Grau, Plenário, DJ de 25.2.2010).
+    Nas razões recursais, a parte agravante alega desacerto da decisão agravada, contrapondo-se, em síntese, aos argumentos do julgado. Pede, ao fim, o conhecimento do agravo e o provimento do recurso.
+    Na origem, o recurso extraordinário foi manejado com esteio no art. 102, III, a, da Constituição da República, em face de acórdão do Tribunal Regional Federal da 1ª Região que reformou sentença para julgar improcedente pedido da ECT de incluir, no monopólio do serviço postal que explora, a operação de leitura de medidores e entrega imediata da conta ao consumidor de água ou de energia elétrica.
+    Os embargos de declaração foram desprovidos (fl. 375).
+    Nas razões do recurso extraordinário, a recorrente apresenta preliminar de repercussão geral fundamentada e, no mérito, sustenta violação aos arts. 2º, 5º, II, 21, X, 93, IX, 170 e 175, da Constituição Federal.
+    É o relatório. Decido.
+    O Supremo Tribunal Federal, no julgamento do RE nº 667.958 (Rel. Min. Ellen Gracie, DJe de 23.11.2010 tema: 334), reconheceu a repercussão geral da controvérsia objeto da discussão nestes autos. Confira-se, a propósito, a ementa do referido julgado:
+    “Recurso Extraordinário. 2. Análise da possibilidade de os entes federativos, empresas e entidades públicas ou privadas entregarem diretamente suas guias ou boletos de cobranças aos contribuintes ou consumidores 3. Recurso Extraordinário em que a Empresa Brasileira de Correios e Telégrafos sustenta violação ao artigo 21, X, da Constituição Federal, segundo o qual compete à União manter o serviço postal e o correio aéreo nacional. 4. Razões recursais que também sustentam ofensa aos arts. 170 e 175 da CF. 5. Tema que diz respeito à organização político-administrativa do Estado, alcançando, portanto, relevância econômica, política e jurídica, que ultrapassa os interesses subjetivos da causa. 6. Repercussão Geral reconhecida” (RE nº 667.958, Rel. Min. Gilmar Mendes, DJe de 28.3.2012).
+    Ex positis, dou provimento ao agravo de instrumento para admitir o recurso extraordinário. Determino, por conseguinte, a devolução dos autos ao Tribunal de origem (arts. 328, parágrafo único, do RISTF e 543-B do CPC).
+    Publique-se. Int..
+    Brasília, 14 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
