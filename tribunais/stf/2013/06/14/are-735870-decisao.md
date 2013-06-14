@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. AGRAVO QUE NÃO INFIRMA OS FUNDAMENTOS DA DECISÃO AGRAVADA: INVIABILIDADE. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e dos Territórios:
+    “RECURSO DE AGRAVO - EXECUÇÃO PENAL - PLEITO DE ANTECIPAÇÃO DO CUMPRIMENTO DA PENA SUBSTITUTIVA DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE - DEFERIMENTO - NÃO OBSERVÂNCIA DOS REQUISITOS PREVISTOS NO § 4º, ART. 46, DO CÓDIGO PENAL - RECURSO PROVIDO.
+      1. A PENA ALTERNATIVA DE PRESTAÇÃO DE SERVIÇOS À COMUNIDADE TERÁ A MESMA DURAÇÃO DA PENA PRIVATIVA DE LIBERDADE (ART. 55, CÓDIGO PENAL), MAS A SUPERIOR A UM ANO PODERÁ SER CUMPRIDA EM MENOR TEMPO, DESDE QUE NUNCA INFERIOR À METADE DA PENA PRIVATIVA DE LIBERDADE (ART. 46, § 4º, CÓDIGO PENAL). O ART. 46, § 4º, DO CÓDIGO PENAL, DEFINE A POSSIBILIDADE DE REDUÇÃO DO TEMPO COMO UMA FACULDADE DO CONDENADO, O QUE HÁ DE SE ENTENDER COMO UM DIREITO DE REQUERER AO JUIZ A REDUÇÃO DO PRAZO, A SER DEFERIDA QUANDO PRESENTES AS CONDIÇÕES PERTINENTES.
+      2. NA HIPÓTESE, O D. JUÍZO "A QUO", AO APLICAR O DISPOSTO NO § 4º, ART. 46, DO CÓDIGO PENAL, DEIXOU DE OBSERVAR OS REQUISITOS LEGAIS: A) A PENA SUBSTITUÍDA DEVE SER SUPERIOR A UM ANO; B) O CUMPRIMENTO DA PENA SUBSTITUTIVA EM MENOR TEMPO (ART. 55) NUNCA INFERIOR À METADE DA PENA PRIVATIVA DE LIBERDADE FIXADA. NÃO DEVE SUBSISTIR, POIS, A R. DECISÃO AGRAVADA, POR AUSÊNCIA DE PREVISÃO LEGAL.
+      3. RECURSO PROVIDO”.
+    2. O Agravante afirma que:
+    “levando-se em conta os princípios da dignidade da pessoa humana, esculpido no artigo 1º, inciso III, CF, e da individualização da pena, previsto no artigo 5º, inciso XLVI, CF, pode-se concluir que, efetivamente, são três as finalidades da pena, quais sejam, a de repressão ao crime cometido, de prevenção na ocorrência de novos delitos e de ressocialização do delinquente” (fl. 107).
+    Sustenta que:
+    “sem dúvida que a decisão do magistrado a quo se fez em consonância com o artigo 1º da LEP e o acórdão recorrido não” (fl. 107).
+    Pede que:
+    “o presente recurso extraordinário seja julgado procedente, reconhecendo a contrariedade à Constituição da INTERPRETAÇÃO RESTRITIVA E FORA DO CONTEXTO efetivada pela 3ª Turma Criminal do Tribunal de Justiça do Distrito Federal que aplicou de forma restrita o art. 46, parágrafo 4º do Código Penal, ao reformar a sentença de primeiro grau. Por tudo isso, pede-se que o presente recurso seja conhecido e provido para reformar o acórdão recorrido, restabelecendo a decisão de primeiro grau, que reduziu os prazos de prestação de serviços à comunidade em face do caso concreto, da individualização da pena, da dignidade da pessoa humana, do art. 1º da LEP e principalmente fazer JUSTIÇA”(fl. 109 – grifos do original).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 284 do Supremo Tribunal Federal, por não ter sido indicado no recurso o dispositivo constitucional contrariado.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. Em seu agravo, a ora Agravante limitou-se a afirmar:
+    “O art. 55 do Código Penal, assim, a par de estabelecer a regra geral quanto à duração das penas restritivas, ressalvou a regra especial constante do art. 46, § 4º, do mesmo Codex, quanto à pena de prestação de serviços à comunidade.
+    (…)
+    O § 4º do art. 46, portanto, é de clareza solar ao possibilitar o encurtamento do período de cumprimento de pena substituta e ao estabelecer o limite para tal abreviação. Trata-se, como dito acima, de regra especial quanto ao tempo de cumprimento da pena restritiva e como exceção à regra geral deve ser interpretada restritivamente, mormente porque o legislador detalhou seu cabimento, delimitou seu alcance e vedou expressamente que o tempo de cumprimento da pena seja inferior à metade da pena privativa de liberdade fixada” (fl. 8).
+    7. O agravo não pode ter seguimento, pois o Agravante não infirmou qualquer dos fundamentos da decisão agravada, os quais, por esse motivo, subsistem.
+    O Supremo Tribunal firmou entendimento no sentido de ser incabível o agravo que não infirma todos os fundamentos da decisão agravada:
+    “Agravo regimental no recurso extraordinário com agravo. Recurso extraordinário. Decisão de inadmissibilidade. Fundamentos não impugnados. Precedentes. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que devem ser impugnados, na petição de agravo, todos os fundamentos da decisão com que não se admitiu o apelo extremo. 2. Agravo regimental não provido” (ARE 711.585-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 10.12.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287. AGRAVO IMPROVIDO. I - O agravo não atacou os fundamentos da decisão que inadmitiu o recurso extraordinário, o que o torna inviável, conforme a Súmula 287 do STF. Precedentes. II - Agravo regimental improvido” (ARE 654.292-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 25.10.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO EXTRAORDINÁRIO QUE NÃO ATACOU OS FUNDAMENTOS DO ARESTO IMPUGNADO, NEM PROCEDEU À INDICAÇÃO DO DISPOSITIVO CONSTITUCIONAL QUE TERIA SIDO VIOLADO. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. Agravo regimental desprovido” (AI 552.131-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJ 17.11.2006).
+    “1. RECURSO. Embargos de declaração. Deficiência na fundamentação do recurso. Súmula 284. Embargos rejeitados. Há fundamentação deficiente de recurso, quando não revele correlação entre as suas razões e os fundamentos da decisão recorrida. 2. RECURSO. Embargos de declaração. Caráter meramente protelatório. Litigância de má-fé. Imposição de multa. Aplicação do art. 538, § único, c.c. arts. 14, II e III, e 17, VII, do CPC. Quando abusiva a oposição de embargos de declaração manifestamente protelatórios, deve o Tribunal condenar o embargante a pagar multa ao embargado” (RE 511.693-ED, Relator o Ministro Cezar Peluso, Segunda Turma, DJe 19.12.2008).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 14 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
