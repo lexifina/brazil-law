@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF06 nº 20, de 20 de maio de 2013
+ASUNTO: Classificação de Mercadorias EMENTA: Código TIPI Mercadoria 7308.30.00 - Portas em aço carbono SAE 1006/1008, de diferentes dimensões retangulares e abas dobradas de 10 a 20 mm, espessuras de 1,2 até 2,65 mm, e peso específico de 7,9 g/cm3, fabricadas de acordo com a necessidade de utilização.
+ASUNTO: Classificação de Mercadorias
+EMENTA: Código TIPI Mercadoria 7308.30.00 - Portas em aço carbono SAE 1006/1008, de diferentes dimensões retangulares e abas dobradas de 10 a 20 mm, espessuras de 1,2 até 2,65 mm, e peso específico de 7,9 g/cm3, fabricadas de acordo com a necessidade de utilização.
+DISPOSITIVOS LEGAIS: Decreto 97.409 de 23/12/88. Decreto nº 435, de 27/01/1992. Decreto nº 7.660, de 23/12/2011, publicado no D.O.U de 26/12/2011. RGI-1ª (texto das posições 73.08), Notas Explicativas , RGI-6 (texto da subposição 73.08 e 73.25) da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI). IN RFB nº 807, de 11/01/2008.
