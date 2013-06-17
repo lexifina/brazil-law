@@ -1,0 +1,13 @@
+Trata-se de agravo contra a decisão que negou seguimento a recurso extraordinário interposto de acórdão que determinou a suspensão de processo individual ante a existência de ação civil pública ajuizada pelo Ministério Público Estadual, referente à implantação do piso salarial profissional nacional para os profissionais do magistério público da educação básica.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 1º, II, 5º, II e XXXV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Inicialmente, quanto ao art. 5º, XXXV, da Constituição, observe-se que o julgamento contrário aos interesses da parte não basta à configuração da negativa de prestação jurisdicional. Nesse sentido, cito os seguintes precedentes, entre outros: AI 747.611-AgR/SP, Rel. Min. Cármen Lúcia; AI 657.164-AgR/AM, Rel. Min. Menezes Direito; AI 648.551-AgR/RS, Rel. Min. Sepúlveda Pertence; AI 469.341-AgR/SP, Rel. Min. Ayres Britto; AI 690.551-AgR/RJ, de minha relatoria.
+    Ademais, o acórdão recorrido decidiu a questão atinente a suspensão da ação individual com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código de Processo Civil e Lei 11.277/2006). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. SUSPENSÃO DA AÇÃO INDIVIDUAL ANTE A EXISTÊNCIA DE AÇÃO COLETIVA SOBRE O MESMO OBJETO. MATÉRIA PROCESSUAL ORDINÁRIA. OFENSA INDIRETA. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão com base em normas processuais, sendo pacífico na jurisprudência desta Corte o não cabimento de recurso extraordinário sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Agravo regimental improvido” (AI 821.817-AgR/RS, de minha relatoria).
+    Seguindo essa mesma orientação, em casos análogos ao dos auto, menciono as seguintes decisões: ARE 727.240/RS, Rel. Min. Dias Toffoli, e ARE 716.267/RS, Rel. Min. Cármen Lúcia.
+    Por fim, este Tribunal entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade, quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557 caput).
+    Publique-se.
+    Brasília, 17 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
