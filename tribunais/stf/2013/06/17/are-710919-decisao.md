@@ -1,0 +1,16 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na afronta aos arts. 37, XIV, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal no sentido da impossibilidade de limitação temporal da condenação à reposição das perdas remuneratórias decorrentes da conversão para URV. Nesse contexto, encontra-se superada a orientação firmada na ADI 1.797/PE. Precedentes da Suprema Corte na matéria:
+    "AGRAVO REGIMENTAL EM RECLAMAÇÃO. VENCIMENTOS. SERVIDOR PÚBLICO ESTADUAL. URV. INAPLICABILIDADE DO ENTENDIMENTO SEDIMENTADO NA ADI 1.797/PE. LIMITAÇÃO TEMPORAL. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I - O objeto da ADI 1.797/PE é ato administrativo restrito aos membros e servidores do Tribunal Regional do Trabalho (6a Região), matéria estranha à debatida nestes autos. Ausência de identidade material. Precedente: Rcl 2.916/RN, Rel. Min. Gilmar Mendes. II - O entendimento firmado na ADI 1.797/PE foi superado no julgamento da ADI 2.323-MC/DF, Rel. Min. Ilmar Galvão, pois não se trata de reajuste ou aumento de vencimentos. Incabível, portanto, a limitação temporal. III - Agravo regimental improvido". (AI 721.752-AgR/RN, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 15.8.2008).
+    "Agravo regimental em agravo de instrumento 2. Servidor público. Reposição salarial de 11,98%. Lei no 8.880/94. Conversão em URV. Limitação temporal. ADI 1.797. Entendimento superado. 3. Agravo regimental a que se nega provimento". (AI 654.890-AgR/MG, Rel. Min. Gilmar Mendes, 2ª Turma DJe 07.3.2008).
+    "AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REAJUSTE DE VENCIMENTOS NO PERCENTUAL DE 11,98%. LEI FEDERAL N. 8.880/94. SUPERAÇÃO DO LIMITE TEMPORAL FIXADO PELA ADI N. 1.797. ADI N. 2.323. 1. O Supremo Tribunal fixou orientação no sentido de que aos servidores públicos estaduais, independentemente de lei local, é aplicada a Lei federal n. 8.880/94. 2. A orientação fixada na ADI n. 1.797, que reconheceu devido o percentual de 11,98% apenas para o período de abril de 1994 a dezembro de 1996, foi superada no julgamento da ADI 2.323. 3. Agravo regimental a que se nega provimento". (AI 654.890-AgR/MG, Rel. Min. Eros Grau, 2ª Turma DJe 24.8.2007).
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 17 de junho de 2013.
+Ministra Rosa Weber
+Relatora
