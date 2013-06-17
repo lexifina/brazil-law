@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, a, da Constituição Federal contra acórdão do Tribunal de Justiça do Estado de Goiás que, em ação declaratória de nulidade de exigência de teste de aptidão física previsto em edital de concurso público para ingresso no cargo inicial do quadro de Oficiais músicos e para promoção de Praças Músicos, manteve a inexigibilidade desse teste para a parte recorrida.
+    No recurso extraordinário, o recorrente aponta ofensa aos seguintes dispositivos da Constituição: (a) art. 5º, II, asseverando, em suma, que o concurso em questão não está relacionado ao “provimento originário de cargo público, mas à promoção na carreira de praça da Polícia Militar.” (fl. 274); (b) art. 37, I, pois a obrigatoriedade do teste “para promoção deve ser prevista em lei de acordo com a natureza e complexidade do cargo ou emprego” (fl. 274), ao separar os candidatos por faixa de idade, para fins de exigir menos esforço físico dos mais velhos.
+    2. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, .DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    Ademais, o recurso encontra óbice na Súmula 636/STF (Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida).
+    3. Por fim, constituem fundamentos suficientes para a manutenção do acórdão as normas constantes das Leis 8.033/75 e 8.341/77 e do Decreto 3.540/90, cuja análise é inviável em recurso extraordinário a teor da Súmula 280/STF.
+    4. Diante do exposto, nego seguimento ao recurso.
+    Publique-se. Intime-se.
+    Brasília, 17 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
