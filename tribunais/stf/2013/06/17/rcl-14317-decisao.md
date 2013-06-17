@@ -1,0 +1,13 @@
+Decisão: Cuida-se de Reclamação proposta em face de acórdãos proferidos pela 4ª Turma do Superior Tribunal de Justiça, nos autos da Reclamação nº 2.826/BA.
+    Alega o Reclamante que houve violação à Súmula Vinculante nº 10 desta Corte, na medida em que o Superior Tribunal de Justiça teria afastado a aplicação do art. 5º, XXXIV e LV, da Constituição, dos artigos 100 e 103, § 1º, do Regimento Interno daquela Corte, do art. 1º da Lei nº 11.419/2006, dos artigos 1º a 5º, 7º e 22 da Lei nº 8.159/91, bem como dos artigos 1º, 3º, 4º, 5º, 7º e 11 da Lei nº 12.527/11, ao negar ao Reclamante, então Recorrente, “o direito à obtenção das Notas Taquigráficas do julgamento da RCL 2.826/BA”.
+    É o relatório. Passo a decidir.
+    Em verdade, a presente Reclamação encarta um mero inconformismo do Reclamante com o suposto não fornecimento das notas taquigráficas e de cópia da gravação em áudio e vídeo das sessões de julgamento pelo Superior Tribunal de Justiça.
+    A Corte reclamada não exerceu qualquer tipo de controle de constitucionalidade, indireto ou não, mesmo que procedentes os argumentos da exordial acerca da recusa em disponibilizar o material solicitado pelo ora Reclamante. Sendo assim, não há espaço para cogitar-se de qualquer ofensa ao teor da Súmula Vinculante nº 10 do STF, que visa tão somente a resguardar o respeito ao art. 97 da Constituição contra subterfúgios que culminassem em usurpação à competência do Pleno ou Órgão Especial do Tribunal para a declaração de inconstitucionalidade de lei ou ato normativo do Poder Público.
+    In casu, pretende o Reclamante a absurda interpretação de que apenas a Corte Especial do Superior Tribunal de Justiça poderia deliberar sobre o fornecimento, ou não, de notas taquigráficas. Além disso, o Reclamante ainda elenca diversos dispositivos legais, regimentais e até mesmo constitucionais, que supostamente teriam experimentado negativa de vigência perante o Superior Tribunal de Justiça, o que não se afigura plausível, na medida em que os referidos dispositivos não foram afastados com fulcro em argumentos de ordem constitucional, pressuposto básico para a incidência da Súmula Vinculante nº 10.
+    Demais disso, todos os outros argumentos do Reclamante dizem respeito a especificidades do caso concreto, como a existência ou não de coisa julgada, e que não podem ser conhecidos pela via estreita da Reclamação Constitucional.
+    Ex positis, nego seguimento à presente Reclamação, nos termos do art. 161, p. u., do Regimento Interno do Supremo Tribunal Federal.
+    Publique-se. Int..
+    Brasília, 17 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
