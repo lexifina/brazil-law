@@ -1,0 +1,21 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE DO ACÓRDÃO RECORRIDO: SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal Regional Federal da 4ª Região:
+    “O réu não faz jus à conversão da pena privativa de liberdade por restritiva de direitos, pois confirmou que foi processado como réu em um homicídio, sendo absolvido, mas que possui outro processo como incurso nas penas do artigo 33 da Lei de Tóxicos; fatores estes que demonstram que não ostenta méritos pessoais para cumprir uma pena alternativa” (fl. 188).
+    2. O Recorrente sustenta, basicamente, a contrariedade ao art. 44 do Código Penal e ao art. 5º, incs. LVII e XLVI, da Constituição da República (fl. 206).
+    Alega que “preencheu os requisitos legais, no entanto, não foi reconhecido na sentença o direito à substituição da pena carcerária por restritiva de direitos, o que fere o princípio da individualização da pena” (fl. 214).
+    Requer:
+    “seja dado provimento para reformar o venerando acórdão recorrido para reconhecer o [seu] direito em ter nos termos do artigo 44 do Código Penal a pena carcerária substituída por outra restritiva de direitos em respeito ao artigo 5º, LVII e XLVI, ambos da Constituição Federal” (fl. 215).
+    3. Às fls. 218-231, o Recorrido apresentou suas contrarrazões.
+    4. Razão jurídica não assiste ao Recorrente.
+    O Desembargador Relator no Tribunal de Justiça de São Paulo afirmou não ser viável a substituição da pena privativa de liberdade por restritiva de direitos pois, o Recorrente “possui outro processo como incurso nas penas do artigo 33 da Lei de Tóxicos; fatores estes que demonstram que não ostenta méritos pessoais para cumprir uma pena alternativa” (fl. 188).
+    Assim, verifica-se que o Tribunal de origem decidiu a controvérsia com base em fundamento infraconstitucional, autônomo e suficiente para manutenção do julgado recorrido, e, não interposto recurso especial para o Superior Tribunal de Justiça, incide na espécie a Súmula n. 283 deste Supremo Tribunal. Nesse sentido são os seguintes julgados:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. ESCOLA AGROTÉCNICA. COBRANÇA DE TAXA DE ALIMENTAÇÃO. IMPUGNAÇÃO DO ACÓRDÃO RECORRIDO APENAS POR RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO DE RECURSO ESPECIAL. FUNDAMENTO INFRACONSTITUCIONAL SUFICIENTE. INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA PROVIMENTO” (RE 597.842-AgR, de minha relatoria, Primeira Turma, DJe 4.6.2010).
+    “AGRAVO REGIMENTAL. TRIBUTÁRIO E PROCESSUAL. ICMS. BENS DESTINADOS AO ATIVO FIXO. COMPENSAÇÃO. DIREITO NÃO PREVISTO NA CONSTITUIÇÃO. BENEFÍCIO FISCAL QUE DEPENDE DE PREVISÃO EM LEI. ART. 20, §§ 3º, I E II, E 5º, V, DA LEI COMPLEMENTAR 87/1996. FUNDAMENTO INFRACONSTITUICONAL SUFICIENTE NÃO AFASTADO PELA VIA PRÓPRIA DO RECURSO ESPECIAL PERANTE O STJ. Não há direito constitucional assegurado ao creditamento do ICMS incidente nas operações de aquisição de bens destinados à integração ao ativo fixo que não se integrem diretamente à mercadoria circulada ou ao serviço prestado. Trata-se de benefício fiscal cuja aplicabilidade depende de previsão em legislação infraconstitucional. A conclusão de que a pretensão da parte encontraria óbice no art. 20, §§ 3º, I e II, e 5º, V, da Lei Complementar 87/1996 e no fato de a parte assumir a condição de consumidora final dos bens adquiridos e cedidos em comodato a terceiros consubstancia fundamento infraconstitucional autônomo e suficiente que não foi afastado pela via própria do recurso especial perante o Superior Tribunal de Justiça, o que inviabiliza o trânsito do recurso extraordinário (Súmulas 283 e 636 do STF). Agravo regimental a que se nega provimento” (AI 763848 AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, Dje 26.6.2012).
+    Nada há a prover quanto às alegações do Recorrente.
+    5. Pelo exposto, nego seguimento a este recurso extraordinário (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 17 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
