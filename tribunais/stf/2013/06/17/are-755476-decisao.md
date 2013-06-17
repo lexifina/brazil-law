@@ -1,0 +1,24 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região ementado nos seguintes termos:
+    “TRABALHISTA. EMPRESA DEDICADA À EXPLORAÇÃO DE COMBUSTÍVEIS. EXIGÊNCIA DE APRESENTAÇÃO DE PROGRAMA DE PREVENÇÃO DE RISCOS AMBIENTAIS: LEGALIDADE. COMPETÊNCIA DO MINISTÉRIO DO TRABALHO (CLT, ART. 200).
+    1. Por imposição legal (art. 200 da CLT), o Ministério do Trabalho tem o dever de regulamentar a segurança e proteção dos trabalhadores cuja atividade se relaciona com ‘depósitos, armazenagem e manuseio de combustíveis, inflamáveis e explosivos, bem como trânsito e permanência nas respectivas’.
+    2. O Programa de Prevenção de Riscos Ambientais (Norma Regulamentadora n. 09, instituída pela Portaria/MTE n. 3.214/78) consiste em uma maneira de o Ministério do Trabalho exercer a sua competência na preservação da saúde dos trabalhadores, prevista no art. 200 da CLT.
+    3. O descumprimento da apresentação do Programa de Prevenção pela empregadora autoriza a aplicação da multa do art. 630, § 6º, da CLT.
+    4. Apelação não provida”. (eDOC 1, p. 173)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, II, XXXV e LV; e 37, ambos do texto constitucional.
+    Alega-se, em síntese, violação ao princípio da legalidade decorrente da imposição do Ministério do Trabalho e Emprego (MTE) para que a agravante elabore Programa de Proteção de Riscos Ambientais (PPRA), sob pena de imposição de multa.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque o Tribunal de origem decidiu a controvérsia à luz da legislação infraconstitucional aplicável – Consolidação das Leis do Trabalho –, assentando que “o Ministério do Trabalho tem o dever de regulamentar a segurança e proteção dos trabalhadores envolvidos em atividades de ‘depósitos, armazenagem e manuseio de combustíveis, inflamáveis e explosivos, bem como trânsito e permanência nas respectivas’”(eDOC 1, p. 170), não havendo, por este motivo, violação ao princípio da legalidade na edição de norma regulamentadora da questão pelo MTE.
+    Dessa forma, para a adoção de entendimento diverso, far-se-ia necessária a prévia análise e interpretação da referida legislação, o que obsta o prosseguimento do recurso extraordinário, pois eventual ofensa à Constituição Federal, se existente, dar-se-ia de maneira reflexa ou indireta, consoante o Enunciado 636 da Súmula desta Corte.
+    Nesse sentido, confiram-se os seguintes julgados desta Corte: ARE-AgR 682.534, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 22.10.2012; e o ARE-AgR 660.196, Rel. Min. Dias Toffoli, Primeira Turma, DJe 1º.6.2012, a seguir mentados:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PORTARIA MPS 133/2006. EXTRAPOLAÇÃO DO PODER REGULAMENTAR EM RELAÇÃO AOS COMANDOS DA LEI 8.212/1991. MATÉRIA INFRACONSTITUCIONAL. SUPOSTA VIOLAÇÃO DO PRINCÍPIO DA LEGALIDADE. SÚMULA 636 DO STF. AGRAVO IMPROVIDO.
+    I. A discussão acerca de eventual extrapolação do ato regulamentar em relação ao comando legal regulamentado não possui natureza constitucional, porquanto depende do cotejo entre a norma regulamentadora e a lei ordinária, a cujo exame não se presta o recurso extraordinário.
+    II. O Tribunal entende não ser cabível a interposição de RE por contrariedade princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636 do STF).
+    III. Agravo regimental improvido”.
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Prequestionamento. Ausência. Astreintes. Fixação. Legislação infraconstitucional. Reexame de fatos e provas. Impossibilidade. Princípio da legalidade. Súmula nº 636/STF. Precedentes. 1. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 2. Inadmissível em recurso extraordinário a análise da legislação infraconstitucional e o reexame de fatos e provas dos autos. Incidência das Súmulas nºs 636 279/STF. 3. Não cabe recurso extraordinário por contrariedade ao princípio da legalidade quando, para a sua verificação, seja necessário analisar a legislação infraconstitucional aplicável ao caso. Incidência da Súmula nº 636/STF. 4. Agravo regimental não provido”.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 17 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
