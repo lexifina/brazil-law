@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF07 nº 43, de 7 de junho de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TEC: 8207.19.00 Mercadoria: Bico de jato, de carboneto de tungstênio, utilizado em brocas de perfuração de poços de petróleo e gás, fabricado por Baker Hughes Incorporated, Divisão Hughes Christensen.
+ASSUNTO: Classificação de Mercadorias
+EMENTA: Código TEC: 8207.19.00 Mercadoria: Bico de jato, de carboneto de tungstênio, utilizado em brocas de perfuração de poços de petróleo e gás, fabricado por Baker Hughes Incorporated, Divisão Hughes Christensen.
+DISPOSITIVOS LEGAIS: RGI 1 (texto da posição 82.07) e RGI 6 (texto das subposições 8207.1 e 8207.19) da Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC) aprovada pela Resolução Camex nº 99, de 29 de dezembro de 2011, e da Tabela de Incidência do Imposto Sobre Produtos Industrializados (TIPI), aprovada pelo Decreto nº 7.660, de 23 de dezembro de 2011, com os subsídios das Notas Explicativas do Sistema Harmonizado (NESH), aprovadas pelo Decreto n° 435, de 27 de janeiro de 1992, com versão atual aprovada pela IN SRF n° 807, de 11 de janeiro de 2008.
