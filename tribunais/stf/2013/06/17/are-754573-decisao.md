@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “(...) DIREITO DE CONSTRUIR. LIMITAÇÕES. (…) IRREGULARIDADES COMPROVADAS NA EDIFICAÇÃO DO EMPREENDIMENTO DESENVOLVIDO PELA EMPRESA APELANTE. GABARITO DA CONSTRUÇÃO QUE ATINGIU O MÁXIMO PERMITIDO NA LEGISLAÇÃO MUNICIPAL QUE ALBERGA À ESPÉCIE. DANO AMBIENTAL. RESPONSABILIDADE OBJETIVA. CONHECIMENTO E DESPROVIMENTO DOS RECURSOS INTERPOSTOS” (fls 344-345).
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 5º, XXXVI, e 97 da mesma carta, bem como à Súmula Vinculante nº 10.
+    A pretensão recursal não merece acolhida.
+    Verifica-se, preliminarmente, que o art. 97 da Constituição não foi prequestionado. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF. Nesse sentido, anote-se:
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. SERVIDOR PÚBLICO. REGIME DE TRABALHO. ALTERAÇÃO. ART. 207 DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356. 1. Ausência de prequestionamento dos dispositivos constitucionais dados como contrariados. Caso em que o aresto impugnado não abordou a questão constitucional disposta nos dispositivos tidos por violados (arts. 5º, LV; 93, IX e 207 da CF), tampouco foram opostos embargos de declaração, imprescindíveis a suprir eventual omissão. Incidência das Súmulas STF 282 e 356. 2. Agravo regimental improvido” (RE 363.743AgR/DF, Rel. Min. Ellen Gracie).
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação de legislação municipal, conforme se observa nos seguintes trechos:
+    “Insta esclarecer que o empreendimento em referência encontra-se inserido na Zona Especial de Interesse Turístico, sendo albergado pelo art. 3° da Lei Municipal n ° 3.607/1987 (…)
+    Por amor ao debate deve ser mencionado que o art. 62 da Lei Municipal n° 3.175/1984 que dispões acerca de superação do gabarito, perdeu sua vigência com a Lei Complementar Municipal n° 07/1994, antigo plano diretor.
+    (…)
+    Por conseguinte, o controle de mediação do gabarito encontra-se albergado na lei local acima em referência, dissipando qualquer controvérsia existente quanto a aplicação desta ou daquela lei complementar (87/2007 ou 07/94)” (fls. 355-356).
+    Assim, firmar entendimento diverso implicaria novo exame da legislação local aplicável à espécie, circunstância que torna inviável o recurso nos termos da Súmula 280 do STF.
+          Por fim, observa-se que o recorrente não demonstrou de que forma o acórdão recorrido teria julgado válida lei ou ato de governo local contestado em face da Constituição, de forma a ensejar o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 17 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
