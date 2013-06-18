@@ -1,0 +1,11 @@
+Decisão:
+    1. Trata-se de habeas corpus impetrado em favor de Rosa Maria Ferreira dos Santos contra decisão da Ministra Maria Thereza de Assis Moura, do Superior Tribunal de Justiça, que, nos autos do HC 249.952/BA, julgou prejudicado o pedido.
+    Sustenta o impetrante, em síntese, o seguinte: (a) a paciente foi denunciada e presa preventivamente pela suposta prática dos delitos tipificados nos art. 121, §2º, I e IV, e 211, do Código Penal; (b) carência de fundamentação para a manutenção da prisão preventiva, pois não embasada em elementos concretos; (c) a defesa apresentou recurso em sentido estrito contra a decisão de pronúncia; (d) não há provas seguras da autoria delitiva; (e) “o fato de a paciente não ter se apresentado para cumprimento da medida cautelar se justifica pelo motivo da prisão ter sido decretada de forma arbitrária e com fins punitivos”; (f) a paciente tem 51 (cinquenta e um) anos de idade e está passando por sérios problemas de saúde; (g) a decisão atacada ofendeu o princípio da colegialidade. Requer a concessão de medida liminar para que seja posta em liberdade.
+    2. No caso, a Ministra relatora no STJ, com fundamento no art. 34, XI, do Regimento Interno, julgou prejudicado o pedido de habeas corpus, na consideração de que a decisão superveniente que pronunciou a paciente, mantendo sua custódia cautelar, acarretou a perda de seu objeto. Entendeu-se, em suma, que houve “alteração no quadro fático que motivou a impetração”.
+    De fato, pelo que consta da sentença de pronúncia, além de registrado a permanência dos motivos que ensejaram a decretação da prisão, outra circunstância, visando a garantir a aplicação da lei penal, foi levada em consideração para a manutenção da cautelar: a paciente encontra-se foragida (fls. 33, doc. 2). Sendo esse o quadro, não há nenhuma ilegalidade na decisão aqui atacada, pois a superveniência de decisão “com novo fundamento para a manutenção da prisão constitui novo título prisional, cuja apreciação não pode ser inaugurada neste Supremo Tribunal” (HC 103.020, Min. Cármen Lúcia, DJe de 06/05/2011).
+    3. Com essas considerações, nego seguimento ao pedido de habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 18 de junho de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
