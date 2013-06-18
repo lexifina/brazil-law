@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Banco do Brasil S/A. Aparelhado o recurso na afronta ao art. 226, § 4º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. BEM DE FAMÍLIA. PENHORA. INTERPRETAÇÃO DE LEGISLAÇÃO INFRACONSTITUCIONAL. LEI Nº 8.009/91. OFENSA INDIRETA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO STF. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO. 1. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e o AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. 2. A Súmula 279/STF dispõe: “Para simples reexame de prova não cabe recurso extraordinário”. 3. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 4. In casu, o acórdão recorrido assentou: “AGRAVO DE INSTRUMENTO – HONORÁRIOS ADVOCATÍCIOS –EMBARGOS À EXECUÇÃO – 1. Preliminar suscitada pelo agravado em contraminuta de descumprimento do art. 526 do Código de Processo Civil. Fato alegado e não comprovado. Inexistência de prejuízo. Preliminar repelida. Agravo conhecido. 2. Bem de família. Decisão que manteve as hastas anteriormente designadas. Não comprovado, diante da falta de averbação a época da penhora, ser o único bem da agravada – Decisão mantida – Recurso não provido.” 5. Agravo regimental a que se nega provimento.”. (ARE 658.110-AgR/DF, Rel. Min. Luiz Fux, 1ª Turma, DJe 26.6.2012)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de junho de 2013.
+Ministra Rosa Weber
+Relatora
