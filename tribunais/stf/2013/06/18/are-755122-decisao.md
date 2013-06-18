@@ -1,0 +1,11 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que manteve sentença, a qual julgou improcedente o pedido de que o coeficiente de cálculo da aposentaria proporcional por tempo de contribuição se desse por critério aritmético e não por aquele previsto no art. 53 da Lei nº 8.213/1991.
+    No RE, interposto com base no art. 102, III, a, da Constituição, alegou-se violação ao art. 202, § 1º (redação original), da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque a jurisprudência dessa Corte é pacífica no sentido de que a questão relativa aos critérios de cálculo da aposentadoria proporcional possui natureza eminentemente infraconstitucional. Desse modo, eventual ofensa à Constituição se daria de forma meramente reflexa. Inviável, portanto, o recurso extraordinário. Nesse sentido, trago à colação a ementa dos seguintes julgados:
+    “Agravo regimental no agravo de instrumento. Previdenciário. Aposentadoria proporcional. Critérios de cálculo. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional. Incidência da Súmula nº 636/STF. 2. Agravo regimental não provido” (AI 849.810-AgR/SP, Rel. Min, Dias Toffoli).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO.APOSENTADORIA PROPORCIONAL. CRITÉRIOS DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 849.720-AgR/SP, Rel. Min. Cármen Lúcia).
+    No mesmo sentido, confiram-se os seguintes precedentes: RE 252.544-AgR/RS e RE 225.038-AgR/RS, Rel. Min. Ellen Gracie; RE 262.050/RS, Rel. Min. Moreira Alves; e AI 240.001-AgR/SP, Rel. Min. Sydney Sanches.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 18 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
