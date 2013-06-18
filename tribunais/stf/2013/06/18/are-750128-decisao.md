@@ -1,0 +1,9 @@
+DECISÃO
+APOSENTADORIA – NOTÁRIOS E REGISTRADORES – VINCULAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL – PRECEDENTE DO PLENO – AGRAVO DESPROVIDO.
+    1. O acórdão recorrido está em consonância com a jurisprudência do Supremo. Confiram com a ementa relativa ao julgamento da Ação Direta de Inconstitucionalidade nº 2.791/PR, relatada pelo ministro Gilmar Mendes, publicada no Diário da Justiça de 3 de setembro de 2006:
+    Ação direta de inconstitucionalidade. 2. Art. 34, §1°, da Lei Estadual do Paraná n° 12.398/98, com redação dada pela Lei Estadual n° 12.607/99. 3. Preliminar de impossibilidade jurídica do pedido rejeitada, por ser evidente que o parâmetro de controle da Constituição Estadual invocado referia-se à norma idêntica da Constituição Federal. 4. Inexistência de ofensa reflexa, tendo em vista que a discussão dos autos enceta análise de ofensa direta aos arts. 40, caput, e 63, I, c/c 61, §1°, II, ”c”, da Constituição Federal. 5. Não configuração do vício de iniciativa, porquanto os âmbitos de proteção da Lei Federal n° 8.935/94 e Leis Estaduais n°s 12.398/98 e 12.607/99 são distintos. Inespecificidade dos precedentes invocados em virtude da não-coincidência das matérias reguladas. 6. Inconstitucionalidade formal caracterizada. Emenda parlamentar a projeto de iniciativa exclusiva do Chefe do Executivo que resulta em aumento de despesa afronta os arts. 63, I, c/c 61, §1º, II, “c”, da Constituição Federal. 7. Inconstitucionalidade material que também se verifica em face do entendimento já pacificado nesta Corte no sentido de que o Estado-Membro não pode conceder aos serventuários da Justiça aposentadoria em regime idêntico ao dos servidores públicos (art. 40, capitital, da Constituição Federal). 8. Ação direta de inconstitucionalidade julgada procedente.
+    2. Ante o quadro, conheço do agravo e o desprovejo.
+    3. Publiquem.
+Brasília, 18 de junho de 2013.
+Ministro MARCO AURÉLIO
+Relator
