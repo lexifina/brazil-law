@@ -1,0 +1,18 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário criminal.
+    No RE, interposto com base no art. 102, III, a, da Constituição Federal, alegou-se violação aos arts. 5º, LV e 93, IX, da mesma carta.
+    A pretensão recursal não merece acolhida. É que o recorrente, apesar de sustentar a existência de repercussão geral no apelo extremo, não demonstrou as razões pelas quais entende que a questão constitucional versada seria relevante do ponto de vista econômico, político, social ou jurídico, e ultrapassaria os interesses subjetivos da causa, limitando-se a afirmar que
+    “A matéria tratada no bojo do presente recurso manejado preenche o requisito constitucional da repercussão geral do julgado levado à discussão perante o Supremo Tribunal Federal, nos termos do art. 102, § 3º da Constituição Federal de 1988, razão pela qual possibilita sua admissão para regular processamento e julgamento” (página 55 do documento eletrônico 9).
+    Ora, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF. Nesse sentido, transcrevo a ementa do AI 730.333-AgR/SE, de minha relatoria:
+    “PROCESSUAL CIVIL. AUSÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS DISCUTIDAS NO CASO. ALEGADA OFENSA AO ART. 5º, LIV e LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I - O agravante, nas razões do recurso extraordinário, não demonstrou, em preliminar formal e fundamentada, a existência de repercussão geral das questões constitucionais discutidas no caso. A simples alegação, destituída de argumentos convincentes, não satisfaz tal exigência.
+    II - A jurisprudência da Corte é no sentido de que a alegada violação ao art. 5º, LIV e LV, da Constituição pode configurar, quando muito, situação de ofensa reflexa ao texto constitucional, por demandar a análise de legislação processual ordinária.
+    III - Agravo regimental improvido”.
+    Ainda que fosse possível superar tal óbice, o recurso não prosperaria. A orientação desta Corte, por meio de remansosa jurisprudência, é a de que a alegada violação ao art. 5º, LV, da Constituição, pode configurar, em regra, situação de ofensa reflexa ao Texto Constitucional, por demandar a análise de legislação processual ordinária, o que inviabiliza o conhecimento do recurso extraordinário.
+    Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+    Registre-se, por fim, que, conforme jurisprudência remansosa e pacífica desta Corte, a exigência do art. 93, IX, da Constituição não impõe seja a decisão exaustivamente fundamentada. O que se busca é que o julgador informe de forma clara as razões de seu convencimento, tal como ocorreu.
+    Assim, não há contrariedade ao art. 93, IX, da mesma Carta, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 556.364-AgR/RJ, Rel. Min. Sepúlveda Pertence; AI 589.240-AgR/RS, Rel. Min. Joaquim Barbosa; RE 450.137-AgR/SP, Rel. Min. Carlos Velloso; AI 563.516-AgR/SP, Rel. Min. Cezar Peluso; AI 450.519-AgR/SP, Rel. Min. Celso de Mello.
+    Isso posto, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 18 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
