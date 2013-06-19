@@ -1,0 +1,15 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “CONSTITUCIONAL. ADMINISTRATIVO. PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ART. 515, § 3º CPC. EX-COMBATENTE. DIREITO À ASSISTÊNCIA MÉDICA E HOSPITALAR. ART. 53, INCISO IV, DO ADCT. GARANTIA DE ACESSO À TRATAMENTO MÉDICO NO HOSPITAL GERAL DO EXÉRCITO EM RECIFE-PE. GARANTIA DE ISONOMIA.
+    (…)
+    Vislumbro que à impetrante socorre o direito perseguido, haja vista que seu argumento de não haver tratamento isonômico entre ela, pensionista de ex-combatente, e os militares e seus beneficiários procede.
+    - Da análise do art. 53, IV, do ADCT, infere-se que ao ex-combatente que tenha participado de operações bélicas durante a Segunda Guerra Mundial e aos seus dependentes, são garantida assistência médico-hospitalar e educacional gratuita. (...)”.
+    No RE fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, caput, 37, XI, 196, 198, e 93, IX, da mesma Carta, bem como aos arts. 17 e 53, IV, do ADCT.
+    A pretensão recursal não merece acolhida. Isso porque o Tribunal de origem não divergiu do entendimento firmado por esta Corte no sentido de que os ex-combatentes e seus dependentes têm direito à assistência médico-hospitalar gratuita prestada nas unidades de saúde do Exército. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. PENSIONISTAS DE EX-COMBATENTE. POSSIBILIDADE DE ASSISTÊNCIA MÉDICO-HOSPITALAR EM ORGANIZAÇÕES MILITARES DE SAÚDE. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 498.443-AgR, Rel. Min. Cármen Lúcia).
+    “Agravo regimental no agravo de instrumento. Militar. Negativa de prestação jurisdicional. Não ocorrência. Prequestionamento. Ausência. Ofensa reflexa. Ex-combatente. Dependentes. Direito à assistência médica e hospitalar em organizações militares de saúde. Precedentes. 1. A jurisdição foi prestada pelo Tribunal de origem mediante decisão suficientemente motivada. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. A jurisprudência desta Corte está orientada no sentido de reconhecer aos dependentes de ex-combatente assistência médico-hospitalar gratuita, conforme preconizado no art. 53, IV, do Ato das Disposições Constitucionais Transitórias. 4. Agravo regimental não provido” (AI 852.688-AgR/SC, Rel. Min. Dias Toffoli – grifos meus).
+    Ressalte-se, ainda, que no presente caso não se discute o direito de inclusão de ex-combatentes e seus dependentes no FUSEX sem o pagamento de quaisquer contribuições, mas sim o seu direito à assistência médico-hospitalar gratuita prestada nas organizações militares de saúde, independentemente de contribuição para o FUSEX, nos termos do art. 53, IV, do ADCT.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
