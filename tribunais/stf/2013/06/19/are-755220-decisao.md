@@ -1,0 +1,16 @@
+DECISÃO:
+     Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, inciso II, e 37, caput, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    No que se refere ao inciso II do artigo 5º da Constituição, apontado como violado, carece do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ademais, o acolhimento da pretensão recursal demandaria o reexame do conjunto fático-probatório dos autos e dos termos do edital da respectiva licitação, o que se mostra incabível em sede extraordinária. Incidência das Súmulas nºs 279 e 454 desta Corte. Sobre o tema:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. LICITAÇÃO. LEI N. 8.666/93. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 632.035/DF-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 8/5/09).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CLÁUSULA DE EDITAL DE LICITAÇÃO. REEXAME DE FATOS E PROVAS: ÓBICE DA SÚMULA STF 279. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULA STF 282. 1. Não há como infirmar a conclusão a que chegou o acórdão recorrido sem o revolvimento do contexto fático-probatório da causa (Súmula STF 279) e da legislação infraconstitucional, hipóteses inviáveis em sede extraordinária. 2. A ofensa aos postulados constitucionais do direito adquirido, do ato jurídico perfeito e da coisa julgada, se existente, seria, segundo entendimento deste Tribunal, meramente reflexa ou indireta. 3. A questão constitucional tida como violada não foi prequestionada pelo acórdão recorrido, nem pelos embargos de declaração opostos para tal fim. Incidência da Súmula STF 282. 4. Agravo regimental improvido” (AI nº 800.291/RN-AgR, Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 22/10/10).
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 19 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
