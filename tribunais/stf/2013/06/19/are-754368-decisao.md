@@ -1,0 +1,13 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “CONSTITUCIONAL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. RESPONSABILIDADE CIVIL OBJETIVA. DNIT. ACIDENTE RODOVIÁRIO. PROVA EMPRESTADA. NULIDADE DA SENTENÇA. VIOLAÇÃO AO CONTRADITÓRIO E A AMPLA DEFESA. INEXISTÊNCIA. BURACO EM ESTRADA. MÁ CONSERVAÇÃO DE RODOVIA. FALECIMENTO DO FILHO DOS AUTORES. OBRIGAÇÃO DE INDENIZAR. ART. 37, PARÁGRAFO 6º, DA CONSTITUIÇÃO FEDERAL. DANOS MATERIAIS E MORAIS. APELAÇÃO E REMESSA OFICIAL PARCIALMENTE PROVIDAS.
+    (...)”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, 37, § 6º, e 93, IX, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido quanto à existência de nexo de causalidade a ensejar o dever de indenizar, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, anote-se:
+    “RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. ACIDENTE DE TRÂNSITO EM RODOVIA FEDERAL. DANOS MORAIS E MATERIAIS DECORRENTE DE MORTE. NEXO DE CAUSALIDADE. RESPONSABILIDADE OBJETIVA DO ESTADO. ARTIGO 37, § 6º, DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE. AUSÊNCIA DE
+    PREQUESTIONAMENTO AOS DEMAIS ARTIGOS TIDOS POR VIOLADOS. OFENSA REFLEXA. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DO RECURSO EXTRAORDINÁRIO” (RE 685.273/RS, Rel. Min. Luiz Fux).
+    Ademais, como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 19 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
