@@ -1,0 +1,31 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o Tribunal “a quo” teria transgredido os preceitos inscritos no art. 5º, inciso XXXVI, e no art. 37, § 6º, ambos da Constituição da República.
+    O exame da presente causa evidencia que o recurso extraordinário em questão não se mostra processualmente viável.
+    Com efeito, a análise da tese pertinente ao alegado desrespeito à autoridade da “res judicata” implica necessário exame prévio do ordenamento processual, especialmente no ponto em que este dispõe sobre os limites objetivos da coisa julgada.
+    Não basta, para efeito de acesso à via recursal extraordinária, que a parte interessada alegue a ocorrência de ofensa à norma constitucional que protege a autoridade da coisa julgada.
+    Mesmo que superável o entendimento mais restritivo, de que a norma constitucional que garante a incolumidade da “res judicata” dirige-se, unicamente, ao legislador (RTJ 112/1270) – o que afastaria a alegação de desrespeito por parte de magistrados e Tribunais –, ainda assim não se evidencia, no caso ora em exame, a pretendida ocorrência de conflito direto com o texto da Constituição.
+    É que a suposta ofensa ao texto constitucional, caso configurada, caracterizaria, quando muito, situação de conflito indireto com o texto da Carta Política, insuficiente para justificar, por si só, a utilização do apelo extremo (RTJ 105/704 – RTJ 127/758 – RTJ 132/455).
+    Cabe ter presente, por isso mesmo, a advertência fundada no magistério jurisprudencial do Supremo Tribunal Federal, que, no exame do tema concernente à coisa julgada, assim se tem pronunciado:
+    “A questão pertinente à definição formal dos limites objetivos da res judicata submete-se ao domínio normativo da lei ordinária, não se revestindo, em consequência, da estatura constitucional necessária à interposição do recurso extraordinário.”
+    (RTJ 161/284, Rel. Min. CELSO DE MELLO)
+    Não se pode perder de perspectiva, neste ponto, que a discussão em torno da definição dos limites subjetivos (CPC, art. 472) ou objetivos (CPC, arts. 468, 469, 470 e 474) pertinentes à coisa julgada traduz matéria revestida de caráter eminentemente infraconstitucional, podendo configurar, “no máximo, ofensa reflexa à Constituição, o que não dá margem a recurso extraordinário” (RTJ 158/327, Rel. Min. MOREIRA ALVES – grifei).
+    É que a constatação da ocorrência desse fenômeno processual torna imprescindível a identificação, sempre a partir dos requisitos fixados pela própria lei, dos elementos essenciais ao reconhecimento da configuração da “res judicata”.
+    Essa tem sido a razão pela qual a jurisprudência do Supremo Tribunal Federal vem acentuando, para efeito de acesso à via recursal extraordinária, que o debate sobre os elementos caracterizadores da coisa julgada não se reveste de qualificação constitucional (AI 159.796/RJ, Rel. Min. CELSO DE MELLO, p. ex.), eis que – consoante enfatizado pelo saudoso Ministro ALFREDO BUZAID – “A coisa julgada é instituto de direito processual” (RTJ 112/1270).
+    Bem por isso, e na linha desse entendimento, o Supremo Tribunal Federal tem advertido que “...o conceito de coisa julgada, e, portanto, a fixação de seus limites (...), é matéria de ordem legal, e não constitucional” (RTJ 93/154, Rel. Min. MOREIRA ALVES – AI 159.796/RJ, Rel. Min. CELSO DE MELLO – RE 230.517/SP, Rel. Min. NÉRI DA SILVEIRA, v.g.).
+    Não é por outra razão que esta Suprema Corte vem enfatizando – considerados os aspectos eminentemente legais que definem a estrutura da coisa julgada – que o reconhecimento de ofensa à autoridade da “res judicata”, para viabilizar-se, depende “do exame, in concreto, dos limites objetivos da coisa julgada” (RTJ 159/682), indagação esta que se mostra incabível em sede recursal extraordinária, mesmo porque, em tal hipótese, o suposto conflito com o texto da Carta Política (CF, art. 5º, XXXVI) importaria, caso existente, em transgressão meramente reflexa ao estatuto constitucional:
+    “Discussão acerca dos limites objetivos da coisa julgada, que não enseja a via extraordinária, posto que se restringe ao plano infraconstitucional, e a violação à norma constitucional somente adviria de maneira indireta e reflexa.”
+    (AI 178.320-AgR/MG, Rel. Min. MAURÍCIO CORRÊA – grifei)
+    É preciso ter em perspectiva, portanto, neste ponto, que é na legislação processual civil que reside, por excelência, em tema de definição dos limites objetivos da coisa julgada, a sede normativa do instituto:
+    “A coisa julgada, nos nossos dias, funda-se na idéia de que o Estado só deve prestar a sua atividade jurisdicional uma vez. Por isso a coisa julgada é tratada no Código de Processo Civil, que define os elementos que identificam duas ações.”
+    (RTJ 112/1270, 1273, Rel. Min. ALFREDO BUZAID – grifei)
+    De outro lado, quanto à alegada ofensa ao art. 37, § 6º, da Constituição, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos circunstância esta que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279 do Supremo Tribunal Federal.
+    Impõe-se registrar, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (AI 693.628-AgR/SP, Rel. Min. ELLEN GRACIE – RE 484.277-AgR/SE, Rel. Min. RICARDO LEWANDOWSKI – RE 587.311-AgR/RJ, Rel. Min. GILMAR MENDES, v.g.):
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE EXTRACONTRATUAL DO ESTADO. NEGLIGÊNCIA EM CONSERVAÇÃO DE RODOVIA. REPARAÇÃO DE DANOS. ART. 37, § 6º, DA CF/88. FATOS E PROVAS. SÚMULA STF 279.
+    1. Incidência da Súmula STF 279 para aferir alegada ofensa ao artigo 37, § 6º, da Constituição Federal – responsabilidade extracontratual do Estado.
+    2. Inexistência de argumento capaz de infirmar o entendimento adotado pela decisão agravada.
+    3. Agravo regimental improvido.”
+    (RE 568.782-AgR/MT, Rel. Min. ELLEN GRACIE)
+    Sendo assim, e pelas razões expostas, nego provimento ao presente agravo de instrumento.
+    Publique-se.
+    Brasília, 19 de junho de 2013.
+Ministro CELSO DE MELLO
+Relator
