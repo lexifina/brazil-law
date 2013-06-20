@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO SOBRESTADO NA ORIGEM: ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. AUSÊNCIA DE PREVISÃO LEGAL DE CABIMENTO DE RECURSO OU DE OUTRO INSTRUMENTO PROCESSUAL PARA O SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Sergipe:
+    “Apelação Cível. Administrativo. Ação de cobrança de salários. Contrato de trabalho temporário. Salário mínimo inferior ao mínimo legal. Jornada reduzida não comprovada. Honorários advocatícios. Sucumbência recíproca. Inocorrência. Recurso conhecido e improvido. Decisão unânime.
+    - Não restou comprovada pela municipalidade que o obreiro trabalhava em jornada reduzida, imperiosa a complementação dos seus vencimentos, visando a equipará-lo ao mínimo legal, previsto na CF/88.
+    - Inexistindo sucumbência recíproca, descabe a pretensão recursal no tocante ao redimensionamento dos honorários advocatícios.”
+    2. O Agravante alega que o Tribunal de origem teria contrariado o art. 7º, inc. IV e XIII, da Constituição da República.
+    Afirma que “ainda que se trate de contrato de trabalho sob a égide de direito público é possível o pagamento de remuneração proporcional a jornada de trabalho cumprida, pois tal dispositivo também é aplicado nas relações jurídicas regidas pelas normas de direito público, como é o caso dos autos, por autorização do § 3º do artigo 39 da Constituição Federal, que estende aos ocupantes de cargo público o direito ao salário-mínimo fixado com base na jornada de trabalho de oito horas diárias ou quarenta e quatro semanais (artigo 7º, incisos IV e XIII, da CF)”.
+    3. O recurso extraordinário foi sobrestado porque “a repercussão geral da matéria já foi reconhecida pelo Supremo Tribunal Federal (AI 757.244-RG/RJ, Rel. Min. Ayres Britto), mas o tema aguarda julgamento na Egrégia Corte”.
+    4. No agravo interposto o Agravante reitera as razões apresentadas no recurso extraordinário.
+    Examinados os elementos havidos no processo, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    7. Este Supremo Tribunal assentou não caber recurso ou outro instrumento processual para o Supremo Tribunal Federal contra a decisão que aplica a sistemática da repercussão geral na origem, nos termos do art. 543-B do Código de Processo Civil.
+    Confiram-se os seguintes julgados:
+    “RECURSO. Agravo de instrumento. Interposição para o Supremo Tribunal Federal de recurso contra aplicação da sistemática da repercussão geral. Inadmissibilidade. Agravo Regimental improvido. Não se conhece de agravo de instrumento, perante o Supremo Tribunal Federal, contra decisão que aplica sistemática da repercussão geral” (AI 775.144-AgR, Relator o Ministro Cezar Peluso, Plenário, DJe 25.8.2011).
+    “PROCESSUAL. IMEDIATO PROCESSAMENTO A RECURSO EXTRAORDINÁRIO SOBRESTADO EM VIRTUDE DE REPERCUSSÃO GERAL. ALEGADA INEXISTÊNCIA DE PERTINÊNCIA TEMÁTICA ENTRE O RE SOBRESTADO E O ESCOLHIDO COMO REPERCUSSÃO GERAL. INCOMPETÊNCIA DESSA CORTE PARA A CONCESSÃO
+    DO QUANTO PLEITEADO. I - É pacífica a jurisprudência desta Corte de que a sua competência para dar prosseguimento a RE sobrestado apenas se instaura após o juízo de admissibilidade pelo Tribunal a quo. II - Existindo a repercussão geral, a competência para definir o recurso representativo da controvérsia e para sobrestar os demais recursos é do tribunal de origem. III - Incompetência da Corte para determinar o prosseguimento do recurso. IV - Precedentes. V - RE desprovido” (AC 2.124-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 26.6.2009).
+    “O Plenário desta Corte decidiu, no julgamento da Ação Cautelar 2.177-MC-QO/PE, que a jurisdição do Supremo Tribunal Federal somente se inicia com a manutenção, pelo Tribunal de origem, de decisão contrária ao entendimento firmado no julgamento da repercussão geral, nos termos do § 4º do art. 543-B do Código de Processo Civil. 3. Fora dessa específica hipótese não há previsão legal de cabimento de recurso ou de outro remédio processual para o Supremo Tribunal Federal. 4. Inteligência dos arts. 543-B do Código de Processo Civil e 328-A do Regimento Interno do Supremo Tribunal Federal. 5. Possibilidade de a parte que considerar equivocada a aplicação da repercussão geral interpor agravo interno perante o Tribunal de origem. 6. Oportunidade de correção, no próprio âmbito do Tribunal de origem, seja em juízo de retratação, seja por decisão colegiada, do eventual equívoco” (Rcl 7.569, Relatora a Ministra Ellen Gracie, Plenário, DJe 11.12.2009).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 20 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
