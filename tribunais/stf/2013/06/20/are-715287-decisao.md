@@ -1,0 +1,35 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. APLICAÇÃO IMEDIATA DO ART. 1º-F DA LEI N. 9.494/1997 (ALTERADA PELA MEDIDA PROVISÓRA N. 2.180-35/2001). AGRAVO E RECURSO EXTRAORDINÁRIO PROVIDOS.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal Regional Federal da 5ª Região:
+    “ADMINISTRATIVO. MILITAR. SINISTRO AUTOMOBILÍSTICO, OCORRÊNCIA DURANTE DESLOCAMENTO AO SERVIÇO CASTRENSE. NEXO DE CAUSALIDADE. PRESENÇA. REFORMA COM PROVENTOS AO DO GRAU HIERÁRQUICO IMEDIATAMENTE SUPERIOR. AÇÃO AJUIZADA ANTES DA EDIÇÃO DA MP 2.180-35/2001. JUROS DE MORA DE 1% AO MÊS. CORREÇÃO MONETÁRIA PELA LEI 6.899/81. HONORÁRIO DE SUCUMBÊNCIA. APELO PROVIDO.
+    (…)
+    4. Sendo a ação ajuizada em data anterior à edição da Medida Provisória nº 2.180-35, de 24 de agosto de 2001, os juros de mora devem ser calculados à taxa de 1% (um por cento) ao mês, contados da data da citação para as parcelas a ela anteriores e a partir do vencimento para as posteriores.
+    5. As prestações em atraso devem ser pagas com correção monetária de acordo com a Lei nº 6.899/81, pelos índices previstos no Manual de Cálculos da Justiça Federal, incidindo desde a data do vencimento de cada parcela em atraso (Súmula nº 148 do STJ).
+    6. Verba honorária devida pela Apelada fixada em 10% (dez por cento) do valor da condenação aos advogados.
+    7. Apelo conhecido e provido”.
+    Os embargos de declaração opostos foram rejeitados.
+    2. A Agravante alega que o Tribunal de origem teria contrariado o art. 37, caput, da Constituição da República.
+    Afirma que “o acórdão ora recorrido, ao arbitrar os juros de mora em 1% a.m., violou os dispositivos constitucionais, mais especificamente o art. 37, caput”.
+    Assevera que “a decisão recorrida merece reforma para ser integrada por acórdão que se coadune com a fixação dos juros moratórios conforme preceitua o art. 1º-F, da Lei nº 9.494/97”.
+    Pondera que o Supremo Tribunal Federal declarou a constitucionalidade do art. 1º-F da Lei n. 9.494/1997 com as alterações da Medida Provisória n. 2.180-35/2001 e que este artigo “é norma jurídica especial, que prevalece sobre a regra geral do art. 406 do Código Civil de 2002. Assim, verifica-se que, nas condenações impostas à União, o percentual de juros de mora não poderá ultrapassar o que está estatuído no referido artigo da norma especial”.
+    Requer “o conhecimento e provimento do presente Recurso Extraordinário, para reformar, in totum, o v. acórdão guerreado, julgando improcedente o pedido da parte recorrida e invertendo-se o ônus da sucumbência” (grifos nossos).
+    3. O recurso extraordinário foi inadmitido sob os fundamentos de que a ofensa constitucional, se tivesse ocorrido, seria indireta e de que o prequestionamento não teria sido demonstrado.
+    No agravo interposto a Agravante assevera que a questão em debate é de natureza constitucional e que o prequestionamento teria sido realizado no momento processual adequado.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica assiste à Agravante.
+    6. No julgamento do Recurso Extraordinário n. 453.740, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal reconheceu a constitucionalidade do art. 1º-F da Lei n. 9.494/1997, com as alterações da Medida Provisória n. 2.180-35/2001. Naquela assentada, não ficou estabelecida a questão relativa à aplicabilidade da norma às ações já ajuizadas. Todavia, esse entendimento foi adotado em outros julgados proferidos pelas Turmas do Supremo Tribunal.
+    Confiram-se os seguintes julgados:
+    “AGRAVO REGIMENTAL. FINANCEIRO. SERVIDOR PÚBLICO. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DE VENCIMENTO OU REMUNERAÇÃO. JUROS. Esta Suprema Corte declarou constitucional o art. 1º-F da Lei 9.494/ 1997, que limitou em 6% ao ano os juros incidentes sobre vencimentos pagos a destempo ao servidor público (RE 453.740, rel .min. Gilmar Mendes, Pleno, DJ e de 24.08.2007). Naquela oportunidade nenhuma distinção foi feita acerca do prazo de início da vigência ou da eficácia normativa, de modo que é cabível sua aplicação imediata aos processos em curso. Agravo regimental ao qual se nega provimento” (AI 758.025-AgR, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJe 22.6.2012, grifos nossos).
+    “Agravo regimental em agravo de instrumento. 2. Execução contra a Fazenda Pública. Juros de mora. Art. 1º-F da Lei 9.494/97, com redação dada pela MP 2.180-35/2001. 3. Entendimento pacífico desta Corte no sentido de que a MP 2.180-35/2001 tem natureza processual. Aplicação imediata aos processos em curso. 4. Reconhecimento da repercussão geral. Precedente: AI-RG 842.063, DJe 2.9.2011 (Tema n. 435). 5. Agravo regimental a que se nega provimento” (AI 771.638-AgR-segundo, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 17.9.2012, grifos nossos).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO E CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CONSTITUCIONALIDADE DO ART. 1º-F DA LEI N. 9.494/1997. APLICABILIDADE IMEDIATA DA LIMITAÇÃO DE JUROS EM 6% AO ANO. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 842.377-AgR-segundo, de minha relatoria, Primeira Turma, DJe 6.3.2012, grifos nossos).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS DE MORA. ART. 1º-F DA LEI 9.494/97 COM REDAÇÃO DA MP 2.180-35. CONSTITUCIONALIDADE. EFICÁCIA IMEDIATA. AGRAVO IMPROVIDO. I – A norma do art. 1º-F, da Lei 9.494/97, modificada pela Medida Provisória 2.180-35/2001 é aplicável a processos em curso. Precedentes. II – Aplica-se a MP 2.180-35/2001 aos processos em curso, porquanto lei de natureza processual, regida pelo princípio do tempus regit actum, de forma a alcançar os processos pendentes. III – Agravo regimental improvido” (AI 767.094-AgR, Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011, grifos nossos).
+    Dessa orientação jurisprudencial divergiu o acórdão recorrido.
+    7. Pelo exposto, dou provimento ao agravo e, desde logo, provimento ao recurso extraordinário (art. 544, § 4º, inc. II, alínea c, do Código de Processo Civil e art. 21, § 2º, do Regimento Interno do Supremo Tribunal Federal), para determinar a aplicação imediata do art. 1º-F da Lei n. 9.494/1997 (alterada pela Medida Provisória n. 2.180-35/2001). Invertidos os ônus proporcionais de sucumbência, ressalvada situação de gratuidade da jurisdição.
+    Publique-se.
+    Brasília, 20 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
