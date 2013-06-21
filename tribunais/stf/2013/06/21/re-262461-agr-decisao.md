@@ -1,0 +1,22 @@
+Decisão:
+    Trata-se de agravo regimental interposto de decisão por mim proferida, mediante a qual neguei seguimento ao recurso extraordinário da União por não vislumbrar, na norma do art. 57 da Lei nº 8.981/91, afronta ao princípio da anterioridade nonagesimal, forte na jurisprudência da Corte relativamente às normas do art. 58 da Lei 8.981/91 que disciplina a dedução da base da cálculo negativa da CSLL.
+    A União alega que os precedentes citados não se aplicam ao caso dos autos, pois tratam de matéria diversa. Aduz que a questão alusiva à constitucionalidade do art. 57 da Lei nº 8.981/95 que dispõe sobre a modificação da base de cálculo da Contribuição Social sobre o Lucro (CSLL) é inédita na Corte, insistindo na alegação de afronta ao art. 97, CF e no art. 195, §6º, também da Carta Magna.
+    Decido.
+    Inicialmente, observo que a contenda versa sobre a modificação da base de cálculo da CSLL, perpetrada pelo art. 57 da Lei nº 8.981/95, não se lhe aplicando os precedentes trazidos na decisão agravada, motivo pelo qual passo a proferir nova decisão.
+    O recurso não merece seguimento.
+    Em primeiro lugar, verifico que o acórdão recorrido não violou a Cláusula de Reserva de Plenário, contida no art. 97 da Constituição Federal. Com efeito, não houve declaração de inconstitucionalidade do art. 57 da Lei 8.981/95 por afronta ao art. 195, § 6º, CF. O julgado tão somente concluiu ser desnecessário investigar se o dispositivo legal majorou ou não a CSLL “ante a evidência de modificação da base de cálculo”, fazendo incidir, ao caso, o disposto no citado dispositivo constitucional.
+    Ademais, evidencia-se a impossibilidade de, de pronto, analisar-se eventual afronta ao art. 195, § 6º, CF.
+    Transcrevo trecho do julgado:
+    “Resta o tema da anterioridade nonagesimal, aplicável à CSL, nos termos do art. 195, § 6º da CR/88. É manifesto que o art. 57 da Lei nº 8.981/95 modificou a base de cálculo da CSL instituída pela Lei nº 7.689/88, sendo dispiciendo, à vista dos dizeres constitucionais, investigar se a modificação acarretou majoração tributária. A simples alteração, mesmo não provocando aumento, é suficiente para determinar lapso de noventa dias na exigibilidade da contribuição.” (grifo nosso)
+    Dessa feita, consideradas as balizas traçadas no v. acórdão que não foi conclusivo quanto à existência ou não de majoração de tributo, evidencia-se que para decidir em sentido contrário, mister seria a revisitação do conjunto fático probatório, o que é vedado a teor da Súmula 279/STF.
+    Avaliar a existência ou não de majoração de tributo implica, ademais, na reinterpretação da legislação infraconstitucional aplicável à espécie, inclusive do IRPJ, sendo certo que eventual afronta ao texto constitucional, dar-se-ia, caso ocorresse, de maneira meramente reflexa ou indireta.
+    As informações da autoridade tida por coatora constante da fl. 34 bem demonstram que a contenda envolve o seu prévio exame à luz da legislação ordinária como se vê do trecho que segue:
+    “Quanto à questão da Contribuição Social está a impetrante a pretender, na verdade, obter uma declaração quanto à interpretação do dispositivo. Vale dizer, está discutindo norma em tese. No citado art. 57 da Lei 8.981, não se vislumbra, de pronto, qualquer afronta ao art. 195, § 6º, da Constituição Federal. Antes, a impetrante está apenas discutindo o que supõe será a possível interpretação que a Administração Tributária dará ao dispositivo. A expressão “Aplicam-se à Contribuição Social sobre o Lucro (Lei 7.689, de 1988) as mesmas normas de apuração e de pagamento estabelecidas para o imposto de renda das pessoas jurídicas” não está a indicar, necessariamente, que a mesma será cobrada a partir de 1/1/95, desrespeitando, assim, a vacatio legis prevista no art. 195, § 6º da Constituição.”
+    As lições do Ministro Néri da Silveira, no AI nº 289.724 - AgR, Segunda Turma, DJ 7/6/02, bem esclarecem a problemática da ofensa reflexa, como se vê do trecho do seu voto:
+    “...na admissão da irresignação extrema, a ofensa à Constituição há ser direta e imediata e não por via reflexa. Se, para isso, for necessário prévio exame da contenda à luz da legislação ordinária, esta é que conta, não se satisfazendo, desse modo, a exigência indispensável ao enquadramento da espécie no art. 102, III, Letra “a”, da Lei Maior”.
+    Diante do exposto, nego seguimento ao recurso extraordinário, prejudicado o agravo regimental.
+    Publique-se.
+    Brasília, 21 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
