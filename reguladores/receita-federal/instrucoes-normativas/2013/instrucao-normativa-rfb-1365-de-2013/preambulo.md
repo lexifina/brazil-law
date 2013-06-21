@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1365, de 20 de junho de 2013
+Revoga a Instrução Normativa SRF nº 31, de 1º de março de 1999, que dispõe o emprego do selo de controle a que estão sujeitos os fósforos de procedência estrangeira
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e o art. 46 da Lei nº 4.502, de 30 de novembro de 1964 e tendo em vista o disposto nos arts.284 e 312 do Decreto nº 7.212, de 15 de junho de 2012, resolve:
