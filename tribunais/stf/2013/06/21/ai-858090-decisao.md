@@ -1,0 +1,40 @@
+AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. PROCESSUAL CIVIL. IPI. CÁLCULOS. MODIFICAÇÃO DE JULGADO. PRECLUSÃO E COISA JULGADA. A REPERCUSSÃO GERAL NÃO DISPENSA O PREENCHIMENTO DOS DEMAIS REQUISITOS DE ADMISSIBILIDADE DOS RECURSOS. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA.
+1. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: AI 775.275-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJ 28.10.2011 e AI 595.651-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJ 25.10.2011.
+3. Os princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como os limites da coisa julgada, quando a verificação de sua ofensa dependa do reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a abertura da instância extraordinária. Precedentes: AI 804.854-AgR, 1ª Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. ELLEN GRACIE, DJe de 22/10/2010.
+4. A interposição do apelo extremo pela alínea b do artigo 102, III, da Constituição Federal, exige a declaração formal de inconstitucionalidade de tratado o lei federal pelo plenário ou órgão especial do Tribunal a quo. Precedentes: AI n. 627.610-AgR, Segunda Turma, Relator o Ministro AYRES BRITTO, DJe de 28.3.2012 e RE n. 288.974-AgR, Segunda Turma, Relatora a Ministra ELLEN GRACIE, DJe de 7.5.2011.
+5. In casu, o acórdão recorrido assentou: TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO. CRÉDITO-PRÊMIO DE IPI. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE.
+1. Os critérios para os cálculos de liquidação, estabelecidos nas decisões, estão acobertadas pela preclusão, tornando-se imutáveis.
+2. Devem ser preservados todos os critérios de cálculo anteriormente estabelecidos e cobertos pela preclusão e não somente alguns.
+3. Agravo provido.
+6. Agravo de instrumento a que se NEGA SEGUIMENTO.
+    Decisão: KODAK BRASILEIRA COMÉRCIO E INDÚSTRIA LTDA interpõe agravo de instrumento contra decisão que não admitiu seu recurso extraordinário interposto em face do acórdão do Tribunal Regional Federal da 1ª Região, ementado nos seguintes termos:
+    TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO. CRÉDITO-PRÊMIO DE IPI. MODIFICAÇÃO DO JULGADO. IMPOSSIBILIDADE.
+    1. Os critérios para os cálculos de liquidação, estabelecidos nas decisões, estão acobertadas pela preclusão, tornando-se imutáveis.
+    2. Devem ser preservados todos os critérios de cálculo anteriormente estabelecidos e cobertos pela preclusão e não somente alguns.
+    3. Agravo provido.
+    Irresignada com o teor do acórdão prolatado, a recorrente interpôs recurso extraordinário com fulcro no art. 102, III, “a” e “b”, da Constituição Federal, sustentando a preliminar de repercussão geral e apontando como violados os arts. 5º, LIV, 102 e 105, da Carta Federal.
+    Brevemente relatados, DECIDO.
+    O agravo de instrumento não merece prosperar.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    A violação constitucional dependente da análise de malferimento de dispositivo infraconstitucional encerra violação reflexa e oblíqua, tornando inadmissível o recurso extraordinário. Confira-se, à guisa de exemplos, os seguintes precedentes:
+    AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS INSCRITOS NA CONSTITUIÇÃO DA REPÚBLICA - AUSÊNCIA DE OFENSA DIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - RECURSO IMPROVIDO. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. (AI 775.275-AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJ 28.10.2011)
+    Agravo regimental no agravo de instrumento. Servidor público. Nomeação retroativa. Vencimentos atrasados. Indenização. Prequestionamento. Ausência. Ofensa reflexa. 1. Não se admite o recurso extraordinário quando tema nele suscitado não está devidamente prequestionado. Incidência da Súmula nº 282/STF.
+    2. Inadmissível em recurso extraordinário o exame de ofensa reflexa à Constituição Federal. Incidência da Súmula nº 636/STF.
+    3. Agravo regimental não provido. (AI 595.651-AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJ 25.10.2011)
+    Demais disso, a jurisprudência desta Corte é uníssona no sentido de que a verificação de ofensa aos princípios da legalidade, do devido processo legal, da ampla defesa e do contraditório, da motivação das decisões judiciais, bem como aos limites da coisa julgada, quando dependente do reexame prévio de normas infraconstitucionais, revela ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária. Precedentes: AI 804.854-AgR, 1ª Turma, Rel. Min. CÁRMEN LÚCIA, DJe de 24/11/2010 e AI 756.336-AgR, 2ª Turma, Rel. Min. ELLEN GRACIE, DJe de 22/10/2010.
+    Por fim, este Tribunal firmou jurisprudência no sentido de que a interposição do apelo extremo pela alínea b do artigo 102, III, da Constituição Federal, exige a declaração formal de inconstitucionalidade de tratado o lei federal pelo plenário ou órgão especial do Tribunal de origem. Nesse sentido, colacionam-se os seguintes julgados:
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. DIREITO À REALIZAÇÃO DE EXAME SUPLETIVO. REQUISITO DE IDADE INATENDIDO. 1. CONTROVÉRSIA DECIDIDA CENTRALMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. 2. INTERPOSIÇÃO DE RECURSO COM FUNDAMENTO NA ALÍNEA B DO INCISO III DO ART. 102 DA COSTITUIÇÃO REPUBLICANA. AUSÊNCIA DE DECLARAÇÃO DE INCONSTITUCIONALIDADE NA FORMA DO ART. 97 DO MAGNO TEXTO. 3. FUNDAMENTO INFRACONSTITUCIONAL PRECLUSO. INCIDÊNCIA DA SÚMULA 283/STF.
+    1. Na esteira da pacífica jurisprudência do Supremo Tribunal Federal, o reexame de legislação infraconstitucional é providência que não tem lugar neste momento processual.
+    2. A admissão do recurso extraordinário com fundamento na alínea b do inciso III do art. 102 da Constituição Federal está condicionada à existência de declaração formal de inconstitucionalidade de tratado ou lei federal, na forma do art. 97 da Carta Magna.
+    3. É inadmissível o recurso extraordinário, quando a decisão recorrida está calcada em mais de um fundamento suficiente e o recurso não abrange todos eles (Súmula 283/STF).
+    Agravo regimental desprovido (AI n. 627.610-AgR, Segunda Turma, Relator o Ministro AYRES BRITTO, DJe de 28.3.2012).
+    RECURSO EXTRAORDINÁRIO. AGRAVO REGIMENTAL. TRIBUTÁRIO. FUNDO SOCIAL DE EMERGÊNCIA. PIS. MEDIDA PROVISÓRIA 517/94. INCONSTITUCIONALIDADE DECLARADA POR ÓRGÃO FRACIONÁRIO DO TRIBUNAL DE ORIGEM. INTERPOSIÇÃO PELA ALÍNEA b DO ART. 102, III, DA CF. PRECEDENTES.
+    1. A interposição do recurso extraordinário pela alínea b, do inciso III do art. 102, da Constituição Federal pressupõe a declaração de inconstitucionalidade de lei ou ato normativo pelo plenário ou órgão especial do Tribunal, nos termos do art. 97 da CF/88.
+    2. Agravo regimental a que se nega provimento (RE n. 288.974-AgR, Segunda Turma, Relatora a Ministra ELLEN GRACIE, DJe de 7.5.2011).
+    Ex positis, NEGO SEGUIMENTO ao agravo, com fundamento no art. 21, § 1º, do RISTF.
+    Publique-se. Int..
+    Brasília, 21 de junho de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
