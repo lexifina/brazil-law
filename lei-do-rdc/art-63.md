@@ -1,4 +1,4 @@
-Art. 63. É instituído o Fundo Nacional de Aviação Civil (FNAC), de natureza contábil e financeira, vinculado à Secretaria de Aviação Civil da Presidência da República, para destinação dos recursos do sistema de aviação civil.
+Art. 63. É instituído o Fundo Nacional de Aviação Civil - FNAC, de natureza contábil e financeira, vinculado à Secretaria de Aviação Civil da Presidência da República, para destinação dos recursos do sistema de aviação civil.
 § 1º São recursos do FNAC:
 I - os referentes ao adicional tarifário previsto no art. 1º da Lei nº 7.920, de 12 de dezembro de 1989;
 II - os referidos no art. 1º da Lei nº 9.825, de 23 de agosto de 1999;
