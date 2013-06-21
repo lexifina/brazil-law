@@ -1,5 +1,5 @@
 Art. 2º A participação nos lucros ou resultados será objeto de negociação entre a empresa e seus empregados, mediante um dos procedimentos a seguir descritos, escolhidos pelas partes de comum acordo:
-I - comissão escolhida pelas partes, integrada, também, por um representante indicado pelo sindicato da respectiva categoria;
+I - comissão paritária escolhida pelas partes, integrada, também, por um representante indicado pelo sindicato da respectiva categoria;
 II - convenção ou acordo coletivo.
 § 1º Dos instrumentos decorrentes da negociação deverão constar regras claras e objetivas quanto à fixação dos direitos substantivos da participação e das regras adjetivas, inclusive mecanismos de aferição das informações pertinentes ao cumprimento do acordado, periodicidade da distribuição, período de vigência e prazos para revisão do acordo, podendo ser considerados, entre outros, os seguintes critérios e condições:
 I - índices de produtividade, qualidade ou lucratividade da empresa;
@@ -12,3 +12,6 @@ a) não distribua resultados, a qualquer título, ainda que indiretamente, a dir
 b) aplique integralmente os seus recursos em sua atividade institucional e no País;
 c) destine o seu patrimônio a entidade congênere ou ao poder público, em caso de encerramento de suas atividades;
 d) mantenha escrituração contábil capaz de comprovar a observância dos demais requisitos deste inciso, e das normas fiscais, comerciais e de direito econômico que lhe sejam aplicáveis.
+§ 4º Quando forem considerados os critérios e condições definidos nos incisos I e II do § 1º deste artigo:
+I - a empresa deverá prestar aos representantes dos trabalhadores na comissão paritária informações que colaborem para a negociação;
+II - não se aplicam as metas referentes à saúde e segurança no trabalho.
