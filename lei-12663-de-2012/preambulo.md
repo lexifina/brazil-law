@@ -1,0 +1,2 @@
+Dispõe sobre as medidas relativas à Copa das Confederações FIFA 2013, à Copa do Mundo FIFA 2014 e à Jornada Mundial da Juventude - 2013, que serão realizadas no Brasil; altera as Leis nºs 6.815, de 19 de agosto de 1980, e 10.671, de 15 de maio de 2003; e estabelece concessão de prêmio e de auxílio especial mensal aos jogadores das seleções campeãs do mundo em 1958, 1962 e 1970.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
