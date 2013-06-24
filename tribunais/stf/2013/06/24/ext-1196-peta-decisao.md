@@ -1,0 +1,17 @@
+Despacho:
+    Vistos.
+    Trata-se de pedido de extradição instrutória e executória formulado pelo Governo da Espanha, mediante a Nota Verbal nº 44/2010, encaminhado por via diplomática ao Ministério das Relações Exteriores, com base em Tratado de Extradição firmado entre o Brasil e o Estado requerente, pelo qual se pediu a extradição do nacional espanhol JOSÉ MARIA LLEVAT GADEA, investigado e condenado naquele País pela prática do delito previsto no art. 248 do Código Penal espanhol (fls. 4 a 22).
+    A Corte, em sessão plenária realizada em 16/6/11, acolheu o voto que proferi no sentido da prejudicialidade do pedido de extradição no que concerne à Nota Verbal nº 44; deferimento do primeiro, do quarto, do quinto, do sexto e do sétimo pedidos de extensão; e deferimento parcial do segundo e do terceiro pedidos de extensão, com a observação no sentido de que “deve o Estado requerente efetuar a detração do tempo de prisão ao qual foi o extraditando submetido no Brasil (art. 91, inciso II, da Lei nº 6.815/80)” e de que “para fins de detração, informo que o extraditando foi mantido preso, preventivamente, em virtude do pedido de extradição, desde o dia 29 de dezembro de 2009”.
+    Essa decisão transitou em julgado em 24/10/11.
+    Por intermédio da petição sob protocolo STF/nº 30.745/13, noticia o extraditando que o Estado requerente, supostamente, estaria descumprindo o Tratado de Extradição firmado entre o Brasil e o Governo da Espanha, já que não teria o pedido sido deferido em relação aos demais crimes imputados, solicitando o extraditando providências, entre elas a concessão de asilo político.
+    Dito isso, reafirmo que não compete ao Supremo Tribunal Federal resolver questões relativas ao eventual descumprimento do tratado firmado entre o Brasil e o Governo da Espanha, assim como deliberar sobre pedido de asilo político, por não exercer soberania internacional, inerente à República Federativa do Brasil.
+    Com efeito, o nosso ordenamento confere a esta Suprema Corte a competência para analisar a legalidade e a procedência do pleito de extradição. Nesse contexto, tendo sido ela julgada no sentido de ser possível a entrega do súdito estrangeiro ao estado requerente, está exaurida a função jurisdicional da Corte (art. 102, inciso I, alínea “g”, da CF; art. 83 da Lei nº 6.815/80; e art. 207 do RISTF). Confira-se a RCL nº 11.243/República Italiana, Tribunal Pleno, Relator para acórdão o Ministro Luiz Fux, DJe de 5/10/11).
+    Por outro lado, observo que para as providências cabíveis já foram encaminhadas ao Sr. Ministro de Estado da Justiça as cópias do requerimento do extraditado.
+    Por outro lado, verifico que foram anexados aos autos os ofícios de fls. 1.566 e 1.569/1.570 (este último solicitando certidões penitenciárias por parte do Estado requerente), e que não foram submetidas à minha apreciação, razão pela qual determino que obre a Secretaria Judiciária com mais cautela e atenção, para que situações de igual natureza não voltem a se repetir.
+    Expeça-se ofício à Corregedoria do Departamento de Polícia Federal no Distrito Federal para que, à vista dos registros penitenciários existentes, expeça a certidão requerida pelo Estado requerente, com registro do tempo em que o extraditado ficou preso no território nacional para fins de extradição.
+    Após, arquivem-se.
+    Publique-se.
+    Brasília, 24 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
