@@ -1,0 +1,17 @@
+DECISÃO
+    Vistos.
+    Elaine Cristina de Oliveira Soares interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão proferido pela Oitava Turma Especializada do Tribunal Regional Federal da 2ª Região.
+    Decido.
+    A Emenda Constitucional nº 45, de 30/12/04, que acrescentou o § 3º ao artigo 102 da Constituição Federal, criou a exigência da demonstração da existência de repercussão geral das questões constitucionais trazidas no recurso extraordinário.
+    Posteriormente, a matéria foi regulamentada pela Lei nº 11.418/06, que introduziu os artigos 543-A e 543-B ao Código de Processo Civil. A norma do § 2º do artigo 543-A determina que “o recorrente deverá demonstrar, em preliminar do recurso, para apreciação exclusiva do Supremo Tribunal Federal, a existência da repercussão geral”. Por fim, o Supremo Tribunal Federal, através da Emenda Regimental nº 21/07, dispôs sobre as normas regimentais necessárias à sua execução.
+    Esta Corte, com fundamento na mencionada legislação, por ocasião do julgamento da Questão de Ordem no AI 664.567, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, firmou o entendimento de que os recursos extraordinários interpostos contra acórdãos publicados a partir de 3/5/07, data da publicação da Emenda Regimental nº 21/07, deverão demonstrar, em preliminar formal e fundamentada do recurso, a existência da repercussão geral das questões constitucionais discutidas no apelo.
+    No caso em tela, o recurso extraordinário foi interposto contra acórdão publicado em 5/4/10, quando já era plenamente exigível a preliminar recursal para demonstrar a repercussão geral da matéria constitucional objeto do apelo.
+    A petição recursal, todavia, não possui a referida preliminar formal e devidamente fundamentada, o que implica a impossibilidade do trânsito do presente recurso. Sobre o tema, anote-se:
+    “Agravo de instrumento. 2. Apresentação expressa de preliminar formal e fundamentada sobre repercussão geral no recurso extraordinário. Necessidade. Art. 543-A, § 2º, do CPC. 3. Ausência da preliminar formal. 4. Agravo de instrumento a que se nega provimento (AI nº 733.503/DF, Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 29/5/09).
+    “Inobservância ao que disposto no artigo 543-A, § 2º, do Código de Processo Civil, que exige a apresentação de preliminar formal e fundamentada sobre a repercussão geral, significando a demonstração da existência de questões constitucionais relevantes sob o ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos das partes, em tópico destacado na petição de recurso extraordinário. 2. É imprescindível a observância desse requisito formal mesmo nas hipóteses de presunção de existência da repercussão geral previstas no art. 323, § 1º, do RISTF. Precedente. 3. A ausência dessa preliminar permite que a Presidência do Supremo Tribunal Federal negue, liminarmente, o processamento do recurso extraordinário, bem como do agravo de instrumento interposto contra a decisão que o inadmitiu na origem (13, V, c, e 327, caput e § 1º, do Regimento Interno do Supremo Tribunal Federal). 4. Agravo regimental desprovido” (RE nº 569.773/SP-AgR, Tribunal Pleno, Relatora a Ministra Ellen Gracie, DJe de 23/5/08).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 24 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
