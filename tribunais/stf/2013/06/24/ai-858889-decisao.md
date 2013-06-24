@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo de instrumento contra decisão do Vice-Presidente do Tribunal Regional Federal da 4ª Região que não admitiu recurso extraordinário interposto pela União em face de acórdão assim ementado :
+    “PENSÃO ESPECIAL DE EX-COMBATENTE. REVERSÃO ÀS FILHAS. REQUISITOS LEGAIS À ÉPOCA DO ÓBITTO. LEI Nº 4.242/63 E LEI Nº 3.765/60. PENSÃO CORRESPONDENTE A DEIXADA POR UM 2º SARGENTO.
+    Para a concessão de pensão especial, a lei aplicável é a vigente à época do óbito do instituidor.
+    Atendido os requisitos exigidos à época do falecimento do militar, é de ser confirmada a pensão especial devida às filhas de ex-combatente, correspondente à pensão deixada por um 2º Sargento”.
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 5º, II, XXXIV, XXXV, LIV e LV; 37, caput, 93, IX, do texto constitucional de 1988, artigo 53, caput, II e III do ADCT e artigo 178 da Constituição Federal de 1967.
+    Nas razões recursais, defende-se, em síntese, a nulidade do acórdão recorrido por negativa de prestação jurisdicional e violação aos princípios do contraditório, da ampla defesa e do devido processo legal. Ademais, alega-se a prescrição do direito à pensão. Além disso, aduz-se ainda, violação ao princípio da legalidade. Por fim, sustenta-se que não é devida a pensão às filhas maiores do instituidor, uma vez que a Constituição Federal de 1988 veda este benefício.
+    Decido.
+    As razões recursais não merecem prosperar.
+    Inicialmente, registre-se que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento desta Corte no sentido de ser desnecessário o enfrentamento específico de todos os argumentos trazidos pelo recorrente. Assim, não há que se falar em violação aos arts. 5º, XXXV; e 93, IX, da Constituição Federal.
+    Saliente-se, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (grifei) (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010)
+    Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses da recorrente.
+    No que tange à suposta violação aos princípios do contraditório e da ampla defesa, ressalte-se que esta Corte rejeitou a questão no tema 660 da sistemática da repercussão geral, cujo o paradigma é o ARE-RG 748.371, de minha relatoria, oportunidade em que rejeitou a repercussão, tendo em vista tratar-se de matéria infraconstitucional.
+    Ademais, ressalta-se que a jurisprudência desta Corte firmou-se no sentido de que a discussão acerca do prazo prescricional não possui índole constitucional a dar ensejo ao prosseguimento de recurso extraordinário, conforme pacífica jurisprudência desta Corte.
+    Nesse sentido, cito os seguintes precedentes das duas Turmas desta Corte: AI-AgR 764.126, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1º.2.2011; RE-AgR 586.977, Rel. Min. Eros Grau, Segunda Turma, DJe 27.3.2009.
+    Ademais, saliente-se que, nos termos do Enunciado 636 da Súmula do STF:
+    “Não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Nesse sentido: AI-AgR 822.961, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 8.11.2012; e o ARE-AgR 706.650, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.11.2012, cuja ementa assim dispõe:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO CONSUMIDOR. ALEGADA AFRONTA AO PRINCÍPIO DA LEGALIDADE (ART. 5º, INC. II, DA CONSTITUIÇÃO DA REPÚBLICA). OFENSA CONSTITUCIONAL INDIRETA. SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Quanto ao mérito, verifica-se que o acórdão recorrido está em harmonia com jurisprudência desta Corte que se firmou no sentido de que o direito a pensão de ex-combatente é regido pelas normas legais vigentes a data do evento morte.
+    Neste sentido, destaca-se o MS 21.707, Rel. Min. Carlos Velloso, Plenário, DJ 22.9.1995, que trata de controvérsia idêntica a destes autos, assim ementado:
+    “PENSÃO - EX-COMBATENTE - REGENCIA. O DIREITO A PENSÃO DE EX-COMBATENTE E REGIDO PELAS NORMAS LEGAIS EM VIGOR A DATA DO DO EVENTO MORTE. TRATANDO-SE DE REVERSAO DO BENEFÍCIO A FILHA MULHER, EM RAZÃO DO FALECIMENTO DA PROPRIA MÃE QUE A VINHA RECEBENDO, CONSIDERAM-SE NÃO OS PRECEITOS EM VIGOR QUANDO DO ÓBITO DESTA ÚLTIMA, MAS DO PRIMEIRO, OU SEJA, DO EX-COMBATENTE”.
+    Dessa forma, não há o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário (arts. 21, §1º, do RISTF e 544, §4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 24 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
