@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Por intermédio da petição STF/nº 30.641/13, informa o requerente haver o Juízo da 1ª Vara Federal da Subseção Judiciária de Cáceres/MT estendido a todos os corréus os efeitos da decisão proferida no HC nº 114.711/MT, com a imposição de medidas cautelares diversas da prisão, e entre elas, inovando no estabelecimento ao requerente de fiança de R$ 30.000,00, diversamente do que fixado por esta Suprema Corte em relação ao paciente Thiago de Araújo Moreira.
+    Aventa que a fixação de fiança para a hipótese encontra vedação constitucional e legal, assim como sustenta que o valor arbitrado pelo juízo é excessivo, tendo por escopo contornar, por vias oblíquas, o reconhecimento de excesso de prazo, já assentado por esta Suprema Corte no presente writ em relação a corréu, em idênticas condições à do ora requerente.
+    Pede, finalmente, seja implementada a medida acauteladora, permitindo possa o paciente aguardar em liberdade o desfecho da ação penal contra ele instaurada.
+    O V. Juízo da 1ª Vara Federal de Cáceres/MT, a seu turno, encaminha, por intermédio da petição STF/nº 30.177/13, cópia da decisão que estendeu ao requerente e outros corréus os efeitos da decisão implementada por esta Suprema Corte em favor de Thiago de Araújo Moreira, com adendo de fiança variável entre R$ 10.000,00 e R$ 30.000,00.
+    Examinados, decido.
+    Observo que, de acordo com a informação do juízo de primeira instância, o ora requerente e os demais corréus “estão presos há quase quatro (4) anos, sem que haja previsão de término da instrução processual” (fl. 4 do anexo 87), e que, segundo aquele mesmo juízo, incorre identidade de circunstâncias entre eles e o paciente Thiago de Araújo Medeiros.
+    Por outro lado, não verifico da decisão judicial que estabeleceu fiança em favor do requerente e demais corréus, qualquer justificativa no tocante ao valor da contracautela, que, ao que parece, veio a ser fixada apenas com base na gravidade abstrata do crime, bem como em aventada periculosidade dos agentes (sem qualquer indicação de elemento concreto nesse sentido).
+    Como percucientemente destacado pelo eminente Ministro Ayres Britto (HC nº 110.844/RS, Segunda Turma, DJe de 19/6/12), “[o] fato em si da inafiançabilidade dos crimes hediondos e dos que lhe sejam equiparados não tem a antecipada força de impedir a concessão judicial da liberdade provisória, jungido que está o juiz à imprescindibilidade do princípio tácito ou implícito da individualização da prisão (não somente da pena). A inafiançabilidade da prisão, mesmo em flagrante (inciso XLIII do art. 5º da CF), quer apenas significar que a lei infraconstitucional não pode prever como condição suficiente para a concessão da liberdade provisória o mero pagamento de uma fiança. A prisão em flagrante não pré-exclui o benefício da liberdade provisória, mas, tão-só, a fiança como ferramenta da sua obtenção. A inafiançabilidade de um crime não implica, necessariamente, vedação do benefício à liberdade provisória, mas apenas sua obtenção pelo simples dispêndio de recursos financeiros ou bens materiais.”
+    Nessas condições, verificando a plausabilidade do alegado, defiro a medida para afastar a determinação do juízo de origem, no que toca à necessidade de prévia prestação de fiança por parte do requerente e demais corréus (que igualmente postularam a extensão dos efeitos da decisão paradigmática por intermédio da Defensoria Pública da União).
+    Comunique-se com urgência
+    Após, dê-se vista dos autos à Procuradoria-Geral da República, nos termos de minha decisão de 20/6/13.
+    Publique-se.
+    Brasília, 24 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
