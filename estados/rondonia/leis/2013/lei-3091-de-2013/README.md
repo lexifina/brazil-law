@@ -1,0 +1,5 @@
+# Lei nº 3.091, de 25 de junho de 2013, do Estado de Rondônia
+
+AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO SUPLEMENTAR POR EXCESSO DE ARRECADAÇÃO ATÉ O MONTANTE DE R$ 913.176,00 EM FAVOR DAS UNIDADES ORÇAMENTÁRIAS: AGÊNCIA ESTADUAL DE VIGILÂNCIA EM SAÚDE - AGEVISA, FUNDAÇÃO DE HEMATOLOGIA, HEMOTERAPIA DO ESTADO - FHEMERON E FUNDO ESPECIAL DE MODERNIZAÇÃO E REAPARELHAMENTO DA POLÍCIA MILITAR DO ESTADO - FUNRESPOM.
+
+Fonte: Assembleia Legislativa (sapl.al.ro.leg.br), <https://sapl.al.ro.leg.br/norma/6295>; texto: <http://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2013/6295/6295_texto_integral.pdf>
