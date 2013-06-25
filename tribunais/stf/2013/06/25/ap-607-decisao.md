@@ -1,0 +1,9 @@
+A carta de ordem expedida à Justiça Federal de Curitiba (Processo 5049307-49.2011.404.7000) restou parcialmente cumprida, porquanto, entre as cinco testemunhas arroladas pelo Senador Roberto Requião (fls. 339-341), Onaireves Nilo Rolim de Moura não foi encontrado.
+    Determinei, às fls. 386-387, a expedição de carta de ordem à Justiça Federal de Campinas para a oitiva de Onaireves Nilo Rolim de Moura. Embora o patrono de Roberto Requião tenha deixado fluir in albis o prazo para se manifestar acerca da diligência negativa em Curitiba/PR (fls. 383-385), havia nos autos informações de que a testemunha aduzida pela defesa poderia ser localizada na Rua Batista Raffi, 837, Bairro Nova Aparecida, km 105, Anhanguera, CEP 130686-001. Contudo, de acordo com as informações constantes na certidão de fl. 402, ele também não foi encontrado no endereço acima.
+    Analisando detidamente os autos, verifico que Onaireves Nilo Rolim de Moura, denunciado na qualidade de corréu, apenas não integra o polo passivo desta ação penal em decorrência do desmembramento determinado à fl. 197, quando o processo estava em trâmite no Superior Tribunal de Justiça. Assentada esta premissa, não se afigura lícita a pretendida inquirição do codenunciado na qualidade de testemunha.
+    Saliento inexistir prejuízo à defesa, na medida em que, intimada para se manifestar a respeito da não localização de Onaireves Nilo Rolim de Moura após o retorno da primeira carta de ordem, nada requereu, evidenciando ausência de interesse em eventual substituição (fls. 383-385).
+    Isto posto, não havendo outros depoimentos a serem tomados, determino a intimação das partes para requerimento de diligências (art. 10 da Lei 8.038/1990 e art. 240 do RISTF).
+    Publique-se.
+    Brasília, 25 de junho de 2013.
+Ministro Ricardo Lewandowski
+Relator
