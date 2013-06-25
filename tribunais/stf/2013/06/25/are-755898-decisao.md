@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “APELAÇÃO CÍVEL. EMBARGOS À AÇÃO MONITÓRIA. APRESENTAÇÃO POR CURADOR NOMEADO. POSTERIOR INGRESSO NOS AUTOS DE EMBARGANTES ATRAVÉS DE ADVOGADO CONSTITUÍDO, ANTES MESMO DA AUDIÊNCIA DE CONCILIAÇÃO. PREVALÊNCIA DA DEFESA POR PARTE DO ADVOGADO CONSTITUÍDO DIANTE DO PRINCÍPIO DA AMPLA DEFESA. AINDA QUE ASSIM NÃO FOSSE POSSÍVEL, A JUNTADA DE NOVO ACORDO (CONTRATO COM GARANTIA), TRATA-SE DE DOCUMENTO TRAZIDO AOS AUTOS ANTES MESMO DA AUDIÊNCIA CONCILIATÓRIA, COM OPORTUNIDADE DE A PARTE ADVERSA MANIFESTAR-SE, NÃO PODE SER IGNORADO, POIS NÃO CAUSA SURPRESA ALGUMA À PARTE EMBARGADA. DOCUMENTO QUE RECEBEU A DEVIDA APRECIAÇÃO NO MOMENTO OPORTUNO. NOVAÇÃO CONFIGURADA. ARTIGO 999, INCISO I, DO CÓDIGO CIVIL DE 1916. RECURSO NÃO PROVIDO”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, LV, da mesma Carta.
+    A pretensão recursal não merece acolhida. Os Ministros desta Corte, no ARE 748.371-RG/RJ, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, por se tratar de ofensa meramente reflexa ao texto constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo trecho do voto do referido julgado:
+    “manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
