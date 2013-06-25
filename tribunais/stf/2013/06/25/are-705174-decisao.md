@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Quinta Câmara Cível do Tribunal de Justiça do Estado do Paraná, assim ementado:
+    “APELAÇÃO CÍVEL – CONSTITUCIONAL E ADMINISTRATIVO – AÇÃO SUMÁRIA – DELEGADO DE POLÍCIA CIVIL – PRISÃO PREVENTIVA DECRETADA – ATO ADMINISTRATIVO QUE DETERMINA DESCONTOS EM SEUS VENCIMENTOS – ART. 79, INCISO I, DA LEI COMPLEMENTAR 14/82 NÃO RECEPCIONADO PELA CONSTITUIÇÃO FEDERAL DA REPÚBLICA DE 1988 – OFENSA AO DISPOSTO NO ARTIGO 37, INCISO XV, DA CF – AFRONTA AO PRINCÍPIO CONSTITUCIONAL DA PRESUNÇAO DE INOCÊNCIA E DA IRREDUTIBILIDADE SALARIAL DO SERVIDOR – RECURSO DE APELAÇÃO DESPROVIDO – SENTENÇA CONFIRMADA EM SEDE DE REMESSA NECESSÁRIA”.
+    No recurso extraordinário, sustenta-se violação dos artigos 5º, inciso LVII, e 37, inciso XV, da Constituição Federal.
+    Decido.
+    Não merece prosperar a irresignação recursal, uma vez que o Plenário desta Corte no julgamento do RE n° 482.006/MG, Relator o Ministro Ricardo Lewandowski, em situação semelhante, decidiu que norma legal que prevê a redução dos vencimentos dos servidores públicos que respondam a processo criminal viola os princípios da presunção de inocência e da irredutibilidade de vencimentos. Colhe-se do voto condutor da citada decisão:
+    “No que se refere à previsão de redução dos vencimentos, pelo simples fato de os servidores terem sido denunciados e estarem respondendo a processo penal por crime funcional, sem que tenha havido ainda qualquer condenação, entendo que essa previsão legal implica flagrante violação ao princípio da presunção de inocência, consubstanciado no inciso LVII do art. 5° da Constituição Federal.
+    Isso porque, a se admitir a redução da remuneração dos servidores em tais hipóteses, estar-se-ia validando verdadeira antecipação de pena, sem que esta tenha sido precedida do devido processo legal, e antes mesmo de qualquer condenação, nada importando que haja previsão de devolução das diferenças, em caso de absolvição”.
+    Esse julgado está assim ementado:
+    “ART. 2º DA LEI ESTADUAL 2.364/61 DO ESTADO DE MINAS GERAIS, QUE DEU NOVA REDAÇÃO À LEI ESTADUAL 869/52, AUTORIZANDO A REDUÇÃO DE VENCIMENTOS DE SERVIDORES PÚBLICOS PROCESSADOS CRIMINALMENTE. DISPOSITIVO NÃO-RECEPCIONADO PELA CONSTITUIÇÃO DE 1988. AFRONTA AOS PRINCÍPIOS DA PRESUNÇÃO DE INOCÊNCIA E DA IRREDUTIBILIDADE DE VENCIMENTOS. RECURSO IMPROVIDO. I - A redução de vencimentos de servidores públicos processados criminalmente colide com o disposto nos arts. 5º, LVII, e 37, XV, da Constituição, que abrigam, respectivamente, os princípios da presunção de inocência e da irredutibilidade de vencimentos. II - Norma estadual não-recepcionada pela atual Carta Magna, sendo irrelevante a previsão que nela se contém de devolução dos valores descontados em caso de absolvição. III - Impossibilidade de pronunciamento desta Corte sobre a retenção da Gratificação de Estímulo à Produção Individual - GEPI, cuja natureza não foi discutida pelo tribunal a quo, visto implicar vedado exame de normas infraconstitucionais em sede de RE. IV - Recurso extraordinário conhecido em parte e, na parte conhecida, improvido” (DJ de 14/12/07).
+    Aplicando essa orientação, destacam-se as seguintes decisões monocráticas: RE n° 491.207/MG, Relator o Ministro Celso de Mello, DJ de 12/5/08; RE n° 245.407/PR, Relator o Ministro Cezar Peluso, DJ de 20/8/08; e AI n° 831.405/MG, Relator o Ministro Ricardo Lewandowski, DJe de 1°/2/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 25 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
