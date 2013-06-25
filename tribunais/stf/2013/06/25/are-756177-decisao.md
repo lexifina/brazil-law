@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA MEDIDA CAUTELAR. ASTREINTES. DISCUSSÃO NO RECURSO ESPECIAL ACERCA DO VALOR DA MULTA E DA NECESSIDADE DE INTIMAÇÃO PESSOAL DO DEVEDOR. DOMINANTE ENTENDIMENTO DESTA CORTE NO SENTIDO DA VIABILIDADE DA GLOSA DO VALOR DAS 'ASTREINTES' QUANDO IRRAZOÁVEL. CONCESSÃO DE EFEITOS INFRINGENTES AOS EMBARGOS DE DECLARAÇÃO. NECESSIDADE DE PARALISAÇÃO DA EXECUÇÃO ATÉ QUE SE EXAMINE A PERTINÊNCIA DO AGRAVO EM RECURSO ESPECIAL. REQUISITOS PARA A CONCESSÃO DA MEDIDA CAUTELAR QUE SE FAZEM PRESENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV, LIV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Isso porque os Ministros desta Corte, no ARE 748.371-RG/RJ, Rel. Min. Gilmar Mendes, manifestaram-se pela inexistência de repercussão geral da controvérsia acerca da violação dos limites da coisa julgada e dos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, por se tratar de ofensa meramente reflexa ao texto constitucional. Essa decisão vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006. Por oportuno, transcrevo trecho do voto do referido julgado:
+    “manifesto-me pela rejeição da repercussão geral do tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal, quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais”.
+    Ademais, o Plenário desta Corte, no RE 633.360-RG/SP, Rel. Min. Cezar Peluso, também se manifestou pela inexistência de repercussão geral da controvérsia acerca da aplicação de multa por litigância de má-fé, por entender que a discussão tem natureza infraconstitucional, decisão que vale para todos os recursos sobre matéria idêntica, consoante determinam os arts. 326 e 327, § 1º, do RISTF, e o art. 543-A, § 5º, do CPC, introduzido pela Lei 11.418/2006.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 25 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
