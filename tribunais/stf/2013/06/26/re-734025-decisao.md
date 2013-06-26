@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “Execução – Determinação de citação e pagamento para sócios em decorrência da aplicação da teoria da desconsideração da personalidade jurídica- Possibilidade exclusiva da penhora dos bens dos sócios, incabível a citação e pagamento, eis que a ação envolve apenas a pessoa jurídica – Aplicação da determinação do acórdão no agravo de instrumento n. 1.007.698-9 – Legitimidade da apreciação da decisão de fls. 1.095 dos autos principais em função do prejuízo da vista dos autos pela agravante- Fraude à execução reconhecida pelo Juízo que resta prejudicada à falta dos documentos que a fundamentaram – Decisões de citação e pagamento por sócios, falta de legitimidade para pedido de renovação de prazo e aplicação de fraude à execução – Agravo parcialmente provido” (fl. 586)
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Como tem consignado o Tribunal, por meio de remansosa jurisprudência, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório e da prestação jurisdicional, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário nos termos da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 26 de junho de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator –
