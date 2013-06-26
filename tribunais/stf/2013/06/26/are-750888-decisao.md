@@ -1,0 +1,36 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-EXECUTIVA E DE SUPORTE DO MEIO AMBIENTE - GTEMA E GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA DO MEIO AMBIENTE - GDAMB. EXTENSÃO AOS INATIVOS. CRITÉRIOS DE AVALIAÇÃO. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da Turma Recursal de Santa Catarina:
+    “Trata-se de ação em que a parte autora postula que o pagamento da Gratificação de Desempenho de Atividade Técnico-Administrativa do Meio Ambiente - GDAMB, bem como da Gratificação de Desempenho de Atividade Técnico-Executiva e de Suporte do Meio Ambiente - GTEMA, seja estendido aos inativos e pensionistas na forma como é realizado aos servidores em atividade, com os devidos reflexos na gratificação natalina.
+    (...)
+    HISTÓRICO DAS GRATIFICAÇÕES DE DESEMPENHO DO IBAMA
+    A Lei nº. 10.404/02 institui a Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA - para, entre outros, servidores do IBAMA (sem especificação de cargo).
+    A Lei nº. 10.140/2002 criou a Carreira de Especialista em Meio Ambiente, composta pelos cargos de Gestor Ambiental e Gestor Administrativo do Ministério do Meio Ambiente - MMA; Analista Ambiental, Analista Administrativo, Técnico Ambiental, Técnico Administrativo e Auxiliar Administrativo do IBAMA, decorrente da transformação dos cargos de provimento efetivo integrantes dos quadros de pessoal do MMA e do IBAMA.
+    A partir dessa lei todos os cargos efetivos ativos do IBAMA foram incorporados na Carreira de Especialista em Meio Ambiente, o que não ocorre com o Ministério do Meio Ambiente, cujos servidores somente de nível superior foram incluídos. Assim, os servidores de nível médio do MMA e apenas os inativos e pensionistas do IBAMA continuaram fazendo jus ao GDATA e submetidos ao Plano de Classificação de Cargos – PCC, instituído pela Lei nº. 5.645/70.
+    Criada a Carreira de Especialista em Meio Ambiente, a Lei nº. 11.156, de 29 de julho de 2005, instituiu a Gratificação de Desempenho de Atividade de Especialista Ambiental - GDAEM para esta carreira (efeitos financeiros retroativos a nov/2004) e também a Gratificação de Desempenho de Atividade Técnico-Administrativa do Meio Ambiente - GDAMB para os servidores submetidos ao PCC, diga-se os de nível médio do MMA e os inativos/pensionistas do IBAMA.
+    (…)
+    Portanto, essa lei possibilitou aos servidores não estruturados em carreira optarem pelo PGPE ou pelo PECMA e instituiu a Gratificação de Desempenho de Atividade Técnico-Executiva e de Suporte do Meio Ambiente - GTEMA, devida aos titulares dos cargos do PECMA, quando lotados e em exercício das atividades inerentes às atribuições do respectivo cargo no MMA, no IBAMA ou no Instituto Chico Mendes, em função do alcance das metas de desempenho institucional e do efetivo desempenho individual do servidor.”
+    2. O Agravante afirma que a Turma Recursal teria contrariado os arts. 5º, inc. XXXVI e 40, § 8º, da Constituição da República.
+    Sustenta que ”o fato de não existir mais ativos no IBAMA recebendo GDAMB e GTEMA, em nada afeta a paridade conquistada pelos mesmos conforme EC 41/03, em seu art. 7º.”
+    3. O recurso extraordinário foi inadmitido sob o fundamento de que a contrariedade à Constituição, se tivesse ocorrido, seria indireta.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A Juíza Federal Relatora Gabriela Pietsch Serafin asseverou:
+    “O IBAMA deixou claro que inexistem servidores ativos percebendo GTEMA. De fato, como antes asseverado no histórico, em janeiro de 2002 todos os seus servidores que se encontravam em atividade foram estruturados em carreira pela Lei nº. 10.410/2002 e, portanto, nunca fizeram jus a essa gratificação. Somente os servidores inativos do IBAMA passaram a perceber GTEMA, porquanto os ativos passaram a perceber e percebem GDAEM. Daí questiona-se: com quem os inativos do IBAMA pugnam pela paridade: Com os servidores ativos do MMA que percebem GTEMA? Ou com os servidores ativos do IBAMA que percebem GDAEM?
+    (...)
+    Assim, como o fundamento jurídico à paridade inexiste, qual seja, falta de avaliação concreta de desempenho dos servidores ativos que justifique a diferenciação entre ativos/inativos, já que nunca existiram servidores ativos do IBAMA percebendo GTEMA, não há justificativa para o pedido de pagamento igualitário.
+    Neste contexto, não há ilegalidade no pagamento da GTEMA nos percentuais que vem percebendo os inativos administrativamente, já que inexiste diferenciação alguma.
+    Conclui-se, assim, que a parte autora NÃO faz jus ao recebimento das gratificações pleiteadas: GDAMB e GTEMA.”
+    6. O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional aplicada à espécie (Leis n. 10.410/2002, 11.156/2005 e 11.357/2006). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. CONVERSÃO DOS EMBARGOS EM AGRAVO REGIMENTAL. RECURSOS EXTRAORDINÁRIOS PARCIALMENTE PREJUDICADOS. APLICABILIDADE DA LEI N. 8.186/1991: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. RETROATIVIDADE DA LEI N. 8.213/1991, EM SUA REDAÇÃO ORIGINÁRIA: IMPOSSIBILIDADE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE 594.739-ED, de minha relatoria, Primeira Turma, DJe 25.3.2011).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXTENSÃO DE REAJUSTE SOBRE A COMPLEMENTAÇÃO DE APOSENTADORIA. EX-FERROVIÁRIOS DA REDE FERROVIÁRIA FEDERAL - RFFSA. CONTROVÉRSIA DECIDIDA EXCLUSIVAMENTE À LUZ DA LEGISLAÇÃO INFRACONSTITUCIONAL. CONSTOU DO ARESTO IMPUGNADO FUNDAMENTO AUTÔNOMO SUFICIENTE QUE NÃO FOI IMPUGNADO. AUSÊNCIA DE PREQUESTIONAMENTO. 1. Caso em que entendimento diverso do adotado pelo aresto impugnado demandaria o reexame da legislação ordinária aplicada à espécie. Providência vedada na instância extraordinária. 2. É de se aplicar a Súmula 283 do STF. 3. Incidem, de mais a mais, as Súmulas 282 e 356 do STF. 4. Agravo regimental desprovido” (AI 570.778-AgR, Relator o Ministro Ayres Britto, Primeira Turma, DJe 29.10.2009).
+    No mesmo sentido, a seguinte decisão monocrática transitada em julgado: ARE 668.690, de minha relatoria, DJe 13.2.2012.
+    7. Este Supremo Tribunal Federal assentou, ainda, que a alegação de contrariedade ao art. 5º, inc. XXXVI, da Constituição da República, se dependente do exame da legislação infraconstitucional, não viabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Nesse sentido: AI 643.746-AgR, de minha relatoria, Primeira Turma, DJe 8.5.2009.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
