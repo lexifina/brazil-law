@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA ANTECIPADA – CONCURSO PÚBLICO – NÃO COMPARECIMENTO A EXAME PSICOTÉCNICO POR EXCLUSIVA DESÍDIA DA CANDIDATA – NÃO OCORRÊNCIA DE RESPONSABILIDADE DA ADMINISTRAÇÃO PÚBLICA – SENTENÇA MANTIDA – RECURSO IMPROVIDO.
+    Deve ser mantida a sentença de improcedência do pleito autoral consistente na feitura de exame psicotécnico de concurso público quando se constata que o não comparecimento da candidata na data originalmente designada deu-se por exclusiva desídia sua”. (Fl. 175).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação ao artigo 37, do texto constitucional.
+    Alega-se, em síntese, que por um erro exclusivo da Administração Pública, deixou de ser submetida ao exame psicotécnico do concurso público da Polícia Civil do Estado de Mato Grosso do Sul, sendo posteriormente excluída do certame.
+    Passo a decidir.
+    Verifico que o acórdão recorrido está em sintonia com a jurisprudência desta Corte que firmou entendimento segundo o qual é suficiente para dar publicidade ao ato administrativo a publicação no Diário Oficial, no caso, da convocação para a fase seguinte do concurso público. Nesse sentido:
+    “CONSTITUCIONAL. ADMINISTRATIVO. CONCURSO PÚBLICO. PROVA FÍSICA. ALTERAÇÃO NO EDITAL. PRINCÍPIOS DA RAZOABILIDADE E DA PUBLICIDADE. 1. Alterações no edital do concurso para agente penitenciário, na parte que disciplinou o exercício abdominal, para sanar erro material, mediante uma ‘errata’ publicada dias antes da realização da prova física no Diário Oficial do Estado. 2. Desnecessária a sua veiculação em jornais de grande circulação. A divulgação no Diário Oficial é suficiente per se para dar publicidade a um ato administrativo. 3. A Administração pode, a qualquer tempo, corrigir seus atos e, no presente caso, garantiu aos candidatos prazo razoável para o conhecimento prévio do exercício a ser realizado. 4. Recurso extraordinário conhecido e provido”. (RE 390.939/MA, rel. Min. Ellen Gracie, DJ 9.9.2005; grifei).
+    Ainda que assim não fosse, o Tribunal de origem, ao confirmar o entendimento do Magistrado, consignou o seguinte:
+    “Esquadrinhando os autos, verifico, todavia, que a pretensão da autora não merece prosperar, visto que, a despeito das publicações feitas de forma errada, a responsabilidade pelo seu não-comparecimento na prova de avaliação psicológica é dela própria.
+    Com efeito, ao contrário do que tenta crer, a publicação errônea do seu nome no Edital n. 007/01 (fl. 15), no qual consta como aprovada, bem como o mero indeferimento do pedido de correção do seu nome, por meio do Edital n. 008/01 (f. 62), não conduz, por consequência lógica, ao entendimento da sua reprovação na prova escrita ao aludido concurso. (Fls. 138-139).
+    Explicou ainda que mesmo existindo erro na digitação do nome da recorrente, o número de seu documento de identificação também fora publicado no ato de convocação, não se caracterizando dano à mesma. Assim restou assentado:
+    “Outrossim, vale ressaltar que, em todos os editais, houve a publicação do número do documento de identificação da autora; não vislumbro, pois, nenhum prejuízo a ela, no tocante ao reconhecimento do seu nome em editais”. (Fls. 139).
+    Para entender de forma diversa e superar o entendimento adotado na origem, seria necessário o revolvimento do acervo fático-probatório constante dos autos, providência vedada em sede de recurso extraordinário, por óbice dos enunciados n. 279 e 454 da Súmula do STF.
+    Nesse sentido, é pacífica a jurisprudência da Corte. Confira-se o ARE-AgR 684.298, rel. Min. Cármen Lúcia, Primeira Turma, DJe 14.9.2012, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. 1. Impossibilidade de análise de cláusulas de edital e de legislação infraconstitucional. Ofensa constitucional indireta. 2. Necessidade de reexame de provas. Incidência da Súmula n. 279 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento”.
+    Ante o exposto, nego seguimento ao recurso extraordinário (art. 557, caput, do CPC e art. 21, §1º, do RISTF).
+    Publique-se.
+    Brasília, 27 de junho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
