@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA CONDIÇÃO DE SEGURADO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. XXXV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: NECESSIDADE DE ANÁLISE PRÉVIA DA LEGISLAÇÃO INFRACONSTITUCIONAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra julgado do Juizado Especial Federal da 3ª Região:
+    “Cuida-se de recurso interposto em face de sentença, que julgou improcedente o pedido inicial para conceder o benefício de pensão por morte. É a síntese do necessário.
+    II - VOTO
+    Preliminarmente, concedo a gratuidade para a autora. Sem questões processuais pendentes de deliberação e, no mérito, o recurso não deve ser provido. Tendo em vista o lapso temporal transcorrido entre a data da última contribuição previdenciária (31/10/1991) e o óbito (18/11/1997), superar o período máximo de 36 meses referente ao “período de graça”, previsto no artigo 15 da Lei 8.213/91, configurada a perda da qualidade de segurado.
+    Ante o exposto, nego provimento ao recurso e confirmo a sentença. Sem condenação ao pagamento de honorários tendo em vista o deferimento da gratuidade para a parte autora.
+    É o voto”.
+    2. A Agravante alega que o Tribunal a quo teria contrariado o art. 5º, incs. XXXV e LV, da Constituição da República.
+    Argumenta que “a r. sentença a quo deve ser reformada, para que o benefício seja devido desde a data do óbito, em razão do benefício independe de carência e por ser a parte autora pessoa idosa doente, sua dependência é presumida tem direito a pensão por morte do esposo segurado que não perdeu a qualidade de segurado”.
+    3. O recurso extraordinário foi inadmitido ao fundamento de incidência da Súmula 279 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmitiu recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, então, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste à Agravante.
+    6. Concluir de modo diverso do que decidido pelo Tribunal a quo demandaria o reexame do conjunto fático-probatório constante do processo e da legislação infraconstitucional aplicável na espécie (no caso, o Código de Processo Civil e a Lei n. 8.213/1991), procedimento inviável de ser validamente adotado em recurso extraordinário. Incide no caso a Súmula n. 279 do Supremo Tribunal Federal:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, §3º, DA CONSTITUIÇÃO FEDERAL. REQUISITOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O entendimento diverso do adotado pelo Tribunal a quo, concluindo que na data do óbito o “de cujus” não possuía a qualidade de segurado, ensejaria o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, verbis: “para simples reexame de prova não cabe recurso extraordinário”. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. Agravo regimental a que se nega provimento” (RE 695.265-AgR/SP, Relator o Ministro Luzi Fux, Primeira Turma, DJ 2.10.2012).
+    “Ementa: AGRAVO REGIMENTAL. PROVA PERICIAL. ALEGAÇÃO DE NULIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. Para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seria necessário o reexame das provas constantes dos autos, o que encontra óbice na Súmula 279 do STF. Agravo regimental a que se nega provimento” (AI 635.414-AgR/MG, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ 24.2.2012, grifos nossos).
+    7. Ademais, o Supremo Tribunal assentou que a alegação de contrariedade ao art. 5º, incs. XXXV e LV, da Constituição da República, se dependente do exame da legislação infraconstitucional (no caso, Código de Processo Civil e Lei n. 8.213/1991), pode configurar, se for o caso, ofensa constitucional indireta:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. FUNDAMENTAÇÃO DO JULGADO RECORRIDO: INEXISTÊNCIA DE AFRONTA AO ART. 93, INC. IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. ALEGAÇÃO DE AFRONTA AO ART. 5º, INC. XXXV, XXXVI, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 806.616-AgR, de minha relatoria, Primeira Turma, DJe 24.11.2010).
+    8. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 27 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
