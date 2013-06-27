@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, caput e LIV, 93, IX, e 155, § 2º, I, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Ressalto, inicialmente, que não importa em ofensa ao princípio constitucional da ampla defesa (art. 5º, LIV e LV, da Constituição da República) a denegação de seguimento a recurso extraordinário, pelo juízo de admissibilidade a quo, quando verificado o não-atendimento dos pressupostos extrínsecos ou intrínsecos de admissibilidade recursal.
+    Da mesma forma, inocorrente a nulidade suscitada na minuta do agravo, consabido que o juízo de admissibilidade a quo não vincula nem torna precluso o reexame da matéria pelo juízo ad quem. No preciso dizer de Barbosa Moreira, in Comentários ao Código de Processo Civil, da Forense, o juízo positivo de admissibilidade proferido pelo órgão perante o qual interposto o recurso não basta para assegurar a obtenção do novo julgamento perseguido, seja pela possibilidade de advir algum fato que torne inadmissível o recurso, seja por não ficar preclusa a reapreciação da matéria pelo órgão ad quem, que procederá livremente ao controle da admissibilidade, inclusive para declarar insatisfeito algum ou mais de um dos pressupostos tidos, no juízo a quo, como cumpridos (vol. 5, 10ª ed., pp. 265-6).
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional local apontada no apelo extremo, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Aplicação da Súmula 280/STF: “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido: ARE 650.574-AgR/SP, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 28.9.2011; e AI 750.178-AgR/SP, por mim relatado, 1ª Turma, DJe 26.4.2012, cuja ementa transcrevo:
+    “DIREITO TRIBUTÁRIO. ICMS. ANISTIA DE DÉBITOS FISCAIS. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. DECRETO 44.970/2000 DO ESTADO DE SÃO PAULO. OFENSA À CONSTITUIÇÃO FEDERAL NÃO CONFIGURADA. Controvérsia limitada à interpretação de legislação local, a inviabilizar o reexame da matéria na via extraordinária. Aplicação da Súmula 280/STF: “por ofensa a direito local não cabe recurso extraordinário”. Agravo regimental a que se nega provimento.”.
+    Nesse sentir, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Conheço do agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 27de junho de 2013.
+Ministra Rosa Weber
+Relatora
