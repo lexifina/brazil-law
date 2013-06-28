@@ -1,0 +1,8 @@
+DECISÃO: O Plenário do Supremo Tribunal Federal, após reconhecer a existência de repercussão geral da questão constitucional igualmente versada na presente causa, julgou o RE 630.733/DF, Rel. Min. GILMAR MENDES, nele proferindo decisão consubstanciada em acórdão assim ementado:
+    “Recurso extraordinário. 2. Remarcação de teste de aptidão física em concurso público em razão de problema temporário de saúde. 3. Vedação expressa em edital. Constitucionalidade. 4. Violação ao princípio da isonomia. Não ocorrência. Postulado do qual não decorre, de plano, a possibilidade de realização de segunda chamada em etapa de concurso público em virtude de situações pessoais do candidato. Cláusula editalícia que confere eficácia ao princípio da isonomia à luz dos postulados da impessoalidade e da supremacia do interesse público. 5. Inexistência de direito constitucional à remarcação de provas em razão de circunstâncias pessoais dos candidatos. 6. Segurança jurídica. Validade das provas de segunda chamada realizadas até a data da conclusão do julgamento. 7. Recurso extraordinário a que se nega provimento.”
+    O exame da presente causa evidencia que o acórdão ora impugnado ajusta-se à diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, eis que o acórdão recorrido está em harmonia com diretriz jurisprudencial prevalecente nesta Suprema Corte (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 28 de junho de 2013.
+Ministro CELSO DE MELLO
+Relator
