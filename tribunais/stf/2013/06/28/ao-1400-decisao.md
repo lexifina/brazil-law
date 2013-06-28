@@ -1,0 +1,10 @@
+Decisão: Cuida-se de ação originária ajuizada pela Associação dos Magistrados do Trabalho (ANAMATRA), proveniente da 16ª Vara Federal do Distrito Federal, que tem por objeto a condenação da União ao pagamento aos associados substituídos, da chamada “parcela autônoma de equivalência”, correspondente ao auxílio-moradia concedido aos deputados federais. O processo foi encaminhado a esta Corte por se tratar de vantagem peculiar à magistratura, nos termos do art. 102, I, n, da Constituição Federal (fls. 325/326).
+          Às fls. 449/451, informou a União o reconhecimento, na via administrativa, do direito à referida parcela, impondo-se, dessa forma, a extinção do feito por perda de objeto.
+          Diante da informação trazida pela União, manifestou-se a autora, às fls. 475/476, no sentido de que, diante do reconhecimento administrativo da vantagem buscada neste feito, não se trata de perda de objeto da ação, mas de reconhecimento do pedido, fato que conduz à extinção do processo com julgamento de mérito, nos termos do art. 269, II, do CPC, com a condenação da União aos ônus da sucumbência.
+          Nos termos do art. 462 do CPC, “se, depois da propositura da ação, algum fato constitutivo, modificativo ou extintivo do direito influir no julgamento da lide, caberá ao juiz tomá-lo em consideração, de ofício ou a requerimento da parte, no momento de proferir a sentença”. Dessa forma, o pagamento administrativo de valores cobrados em demanda judicial configura fato superveniente extintivo da obrigação, esvaziando, consequentemente, o objeto da ação.
+    Em face da perda superveniente do objeto da causa, por força do pagamento integral do débito após a contestação, JULGO EXTINTO o feito, sem resolução do mérito, com fundamento no art. 267, VI, do Código de Processo Civil e condeno a União a honorários advocatícios, os quais fixo em R$ 3.000,00 (três mil reais), com fundamento no art. 20, § 4º, do CPC. Condeno ainda a União a restituir à autora as custas por ela antecipadas.
+    Publique-se. Intimem-se.
+    Brasília, 28 de junho de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
