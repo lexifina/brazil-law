@@ -1,0 +1,11 @@
+DECISÃO: O presente recurso extraordinário revela-se processualmente viável, eis que se insurge contra acórdão que decidiu a causa em desconformidade com a orientação jurisprudencial que o Supremo Tribunal Federal firmou na matéria em exame.
+    Com efeito, a colenda Segunda Turma desta Suprema Corte, ao julgar o AI 176.870-AgR/RS, Rel. Min. MARCO AURÉLIO, fixou entendimento que torna acolhível a pretensão de direito material deduzida pela parte ora recorrente:
+    “RECURSO EXTRAORDINÁRIO – PREQUESTIONAMENTO – AUMENTO DE TRIBUTO – DECRETO. Mostra-se objeto de debate e decisão prévios, tema alusivo ao aumento de tributo via decreto quando conste do acórdão proferido a exigibilidade de lei.
+    TRIBUTO – REAJUSTE X AUMENTO – DECRETO X LEI. Se de um lado é certo assentar-se que simples atualização do tributo, tendo em conta a espiral inflacionária, independe de lei, isto considerado o valor venal do imóvel (IPTU), de outro não menos correto é que, em se tratando de verdadeiro aumento, o decreto-lei não é o veículo próprio a implementá-lo. A teor do disposto no inciso I do artigo 150 da Constituição Federal, a via própria ao aumento de tributo é a lei em sentido formal e material.”
+    Cabe ressaltar, por necessário, que esse entendimento vem sendo observado em sucessivos julgamentos, proferidos no âmbito do Supremo Tribunal Federal, a propósito de questão idêntica à versada nesta causa, concernente à necessidade de lei em sentido formal e material para instituição/majoração de tributo (AI 739.427/SP, Rel. Min. GILMAR MENDES – AI 834.010/SP, Rel. Min. DIAS TOFFOLI – AI 839.686/SP, Rel. Min. LUIZ FUX – RE 603.007/SP, Rel. Min. RICARDO LEWANDOWSKI).
+    O exame da presente causa evidencia que o acórdão ora impugnado diverge da diretriz jurisprudencial que esta Suprema Corte firmou na matéria em referência.
+    Sendo assim, e tendo em consideração as razões expostas, conheço e dou provimento ao presente recurso extraordinário (CPC, art. 557, § 1º-A), em ordem a julgar procedente, em parte, a ação ordinária ajuizada pelo ora recorrente, nos termos dos precedentes referidos. Fixo os honorários advocatícios em 10% sobre o valor da condenação.
+    Publique-se.
+    Brasília, 28 de junho de 2013.
+Ministro CELSO DE MELLO
+Relator
