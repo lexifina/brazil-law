@@ -1,0 +1,30 @@
+DECISÃO
+    Vistos.
+    Eliane Emília da Cruz interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigos 5º, inciso XXXVI, 7º, incisos XVII e XVIII, 39, § 3º, e 93, inciso IX, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “AGRAVO INOMINADO. GRATIFICAÇÃO NOVA ESCOLA. PROGRAMA INSTITUÍDO PELO DECRETO Nº 25.959/2000. GRATIFICAÇÃO CONDICIONADA AO EFETIVO EXERCÍCIO DA FUNÇÃO EM UNIDADE ESCOLAR, PELO PERÍODO MÍNIMO DE 335 DIAS. PARTE AUTORA QUE NÃO DEMONSTROU O ATENDIMENTO DOS REQUISITOS ESTABELECIDOS NO DECRETO Nº 37.706/05. DESPROVIMENTO DO RECURSO”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que os acórdãos proferidos pelo Tribunal de origem não cuidaram das referidas normas, as quais, também, não foram objetos dos embargos declaratórios opostos pela parte recorrente. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Também não procede a alegada violação do artigo 93, inciso IX, da Constituição Federal, haja vista que a jurisdição foi prestada, no caso, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente.
+    Anote-se que o Plenário deste Supremo Tribunal Federal reconheceu a repercussão geral desse tema e reafirmou a orientação de que a referida norma constitucional não exige que o órgão judicante manifeste-se sobre todos os argumentos de defesa apresentados, mas que fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Relator o Ministro Gilmar Mendes, DJe de 13/8/10).
+    Ademais, colhe-se da fundamentação do voto condutor do acórdão recorrido, o seguinte excerto:
+    “(...)
+    O artigo 3º do Decreto Estadual nº 25.959/2000 prevê a Gratificação Nova Escola, dispondo que:
+    ‘Os servidores em efetivo exercício em qualquer das unidades da Rede Pública Estadual de Educação farão jus à gratificação específica de desempenho da escola classificada pelo Grau de Desempenho nos níveis de I a V, conforme Anexo ao presente Decreto.’
+    O artigo 9º dispõe que as gratificações previstas no Decreto não se incorporarão, para qualquer efeito, aos vencimentos do servidor.
+    Da leitura atenta da norma em referência observa-se que o benefício não era conferido em caráter genérico, mas vinculado à prova de que o servidor preenchia determinados requisitos legais.
+    À época dos fatos era vigente o Decreto 37.706/05, que exigia o efetivo exercício das funções com freqüência presencial em unidade escolar pelo período mínimo de 335 dias por ano.
+    Destarte, compulsando os autos, o que se depreende é que a autora/apelada não cumpriu o requisito de carga horária mínima (335 dias) durante o exercício de 2005, não fazendo jus à percepção da gratificação no ano de 2006”.
+    Nesse caso, para acolher a pretensão da agravante e ultrapassar o entendimento firmado pelo Tribunal de origem, seria necessário o reexame da legislação local pertinente (Decreto Estadual nº 25.959/00) e dos fatos e provas constantes dos autos, o que se mostra incabível em sede de recurso extraordinário, nos termos das Súmulas nºs 279 e 280 deste Supremo Tribunal Federal. Nesse sentido, anotem-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REAJUSTE DE GRATIFICAÇÃO DE ATIVIDADE INDUSTRIAL. LEI N. 2.120/1992 E DECRETOS NS. 14.645/1992 E 16.282/1992, TODOS DO ESTADO DO AMAZONAS. MATÉRIA INFRACONSTITUCIONAL E IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 725.266/AM-AgR, Segunda Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/6/13).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. NATUREZA DE GRATIFICAÇÃO. MATÉRIA INFRACONSTITUCIONAL. SÚMULA 280 DO STF. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. PRECEDENTES. AGRAVO IMPROVIDO I – A jurisprudência do STF orienta-se no sentido de que a análise da prévia definição pelo tribunal a quo, da natureza geral ou específica da gratificação concedida situa-se no âmbito infraconstitucional. Entender de forma contrária ao que definido pelo Tribunal de origem demanda a análise do conjunto fático-probatório dos autos e de normas infraconstitucionais locais, o que atrai a incidência das Súmulas 279 e 280 do STF. Precedentes. II – Agravo regimental improvido” (AI nº 836.841/RJ-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 30/6/11).
+    Especificamente sobre a gratificação em questão, destaco as seguintes decisões monocráticas: RE nº 595.623/RJ, Relator o Ministro Joaquim Barbosa, DJe de 22/10/12; ARE nº 671.766/RJ, Relator o Ministro Luiz Fux, DJe de 12/3/12; e ARE nº 662.609/RJ, Relatora a Ministra Cármen Lúcia, DJe de 1º/12/12.
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 28 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
