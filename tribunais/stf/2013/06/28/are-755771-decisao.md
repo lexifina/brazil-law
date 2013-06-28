@@ -1,0 +1,22 @@
+Contra o juízo negativo de admissibilidade da Presidência do Tribunal de Justiça Militar do Estado de São Paulo, maneja agravo Enivaldo Aleixo Gonçalves com vista a assegurar o trânsito do recurso extraordinário que interpôs. Oposto na origem o óbice da violação, acaso ocorrente, meramente indireta de dispositivo constitucional.
+    O Conselho Permanente da 4ª Auditoria da Justiça Militar de São Paulo condenou o Recorrente à pena de 3 (três) anos de reclusão, em regime aberto, pela prática do crime de peculato (art. 303 do Código Penal Militar).
+    Em sede de apelação criminal, o Tribunal de Justiça Militar do Estado de São Paulo negou provimento ao recurso defensivo em acórdão assim ementado:
+    “POLICIAL MILITAR. Policiais denunciados perante o MM Juízo da Quarta Auditoria desta Justiça Militar do Estado, como incursos nas sanções dos artigos 303 e 319, do Código Penal Militar, por terem cometido os crimes de peculato e prevaricação. Sentença que os condenou a pena de três anos de reclusão, a ser cumprida no regime aberto, considerando que o delito de prevaricação foi absorvido pelo delito de peculato, por não constituir infração penal autônoma, ante as circunstâncias do caso concreto. Apelação. Nulidade. Princípio da identidade física do Juiz. Inaplicabilidade. Inversão da ordem de votação pelos juízes. Afastamento Higidez processual. Alegada condenação contrária à evidência dos autos. Improcedência. O conjunto probatório trazido aos autos foi suficiente e robusto para demonstrar a conduta delitiva perpetrada pelos policiais, em acordo com a exordial acusatória. Todas as provas foram produzidas pelo Juízo, e validadas pela r. Sentença condenatória, não havendo como sequer se falar de insuficiência probatória, quanto mais em inexistência do fato.
+    Recurso não Provido. Mantida a sentença”.
+    Inconformado, o Recorrente manejou recurso extraordinário, ao argumento da violação dos arts. 5º, LIV, XXXVII e LIII, e 125, § 5º, da Constituição Federal.
+    Alega, em suma, ofensa aos princípios do devido processo legal e do juiz natural, sob o fundamento de que o Conselho de Justiça que acompanhou toda a instrução do processo não foi o mesmo que finalizou o julgamento.
+    Assevera que o voto do Presidente do Conselho Permanente de Justiça foi proferido antes do dos juízes militares, contrariando o art. 435 do Código de Processo Penal Militar.
+    Sustenta, ao fim, a negativa de autoria.
+    A inadmissão do apelo extremo na Corte de origem resultou no manejo do presente agravo.
+    É o relatório.
+    Decido.
+    Não há como assegurar trânsito ao recurso extraordinário.
+    As questões debatidas, envolvendo a ordem de pronunciamento dos juízes do Conselho de Justiça na sessão de julgamento e a prorrogação de competência, são eminentemente infraconstitucionais.
+    Ofensa à Constituição, se houvesse, seria meramente reflexa e, enquanto tal, insuscetível de empolgar o extraordinário, conforme jurisprudência uníssona do Supremo Tribunal Federal (v.g.: “Inviável em recurso extraordinário o exame de ofensa reflexa à Constituição Federal e a análise de legislação infraconstitucional” – RE 660.186 AgR/RS – 1ª Turma – Rel. Min. Dias Toffoli – un. – j. 13.12.2011 – DJe 032, de 14.02.2012; “Os princípios da legalidade, o do devido processo legal, o da ampla defesa e do contraditório, bem como a verificação dos limites da coisa julgada e da motivação das decisões judiciais, quando a verificação da violação dos mesmos depende de reexame prévio de normas infraconstitucionais, revelam ofensa indireta ou reflexa à Constituição Federal, o que, por si só, não desafia a instância extraordinária” – RE 642.408 AgR/SP – 1ª Turma – Rel. Min. Luiz Fux – un. – j. 13.12.2011 – DJe 032, de 14.02.2012).
+    Ademais, este Tribunal entende que, em regra, a alegação de desrespeito aos postulados do devido processo legal, do contraditório e da ampla defesa, se existentes, é meramente reflexa ou indireta, e ipso facto seu exame se mostra inviável nesta sede recursal. Nesse sentido, o AI 372.358-AgR, rel. Min. Celso de Mello, 2ª Turma, DJ 28.06.2002.
+    No tocante à negativa de autoria, necessário o revolvimento do conjunto probatório do caso, de todo inviável em sede extraordinária, nos termos da Súmula 279/STF, segundo a qual “para simples reexame de prova não cabe recurso extraordinário”.
+    Ante o exposto, nego seguimento ao agravo (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 28 de junho de 2013.
+Ministra Rosa Weber
+Relatora
