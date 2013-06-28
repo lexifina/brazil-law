@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Pedreira Santa Rosa Ltda em face do Juiz Federal da 2ª Vara Federal Cível da Seção Judiciária de São Paulo, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Súmula Vinculante nº 17.
+    Na peça vestibular, o reclamante defende a inclusão dos juros moratórios “entre a data da conta e a entrada no TRF da 3ª Região, da ordem de pagamento, e entre as parcelas julgadas inconstitucionais conforme EC 30, afastada por este Pretório Excelso, por inconstitucionalidade na ADI 2356 MCDF.”
+    Requer seja garantida a aplicação da súmula vinculante nº 17 e postula a concessão da medida liminar nos seguintes termos:
+    “ (…) conceder efeito suspensivo ao despacho atacado, da decisão que não deferiu o cálculo complementar de juros entre a data da conta e da expedição do oficio Precatório, e desprezando-se o írrito parcelamento da EC 30, afastado liminarmente e o pagamento de suas parcelas, com juros em continuação, da ora reclamante, e respectivamente, denegando a ordem supremacia da Súmula Vinculante nº 17deste Tribunal superior e medida Liminar na ADI 2356-DF, e pelas razões acima apostas (...).”
+    É o relatório.
+    Foram juntados documentos por meio eletrônicos, dentre os quais transcrevo trecho da decisão reclamada (doc. 24):
+    “Despachado em Inspeção
+    Processo nº 0046908-66.1999.403.6100
+    Fls. 730/732: trata-se de pedido da parte autora de pagamento de juros complementares, referentes ao período entre a data da conta e a data da expedição do ofício requisitório, mediante precatório (PRC).
+    Às fls. 735/740, a União (Fazenda Nacional) se insurge contra o pedido do exequente, sob a alegação de que se refere à cobrança de juros de mora, com incidência de juros em continuação.
+    Sem razão o exequente em suas alegações de fls. 730/732, vez que sobre os valores disponibilizados em parcelas pelo Setor competente do Eg. Tribunal Regional da 3ª região, a título de pagamento de precatório (PRC), houve atualização monetária, razão pela qual não há que prosperar o pleito do exequente de pagamento dos juros moratórios pretendidos. (…)
+    Por estas razões, indefiro o pedido de fls. 730/732 do exequente, vez que em desacordo com entendimento supramencionado.
+    Nada mais tendo requerido, em 05 (cinco) dias, conclusos para sentença de extinção de execução.”
+    O reclamante aponta como paradigma de confronto na presente reclamação a teor da Súmula Vinculante nº 17, que está assim redigida:
+    “Durante o período previsto no parágrafo 1º do art. 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos.”
+    Ocorre que a partir da análise da petição inicial, bem como dos elementos probatórios trazidos aos autos, não é possível aferir o momento exato em que discordam as partes acerca da incidência ou não dos juros moratórios, bem como a interposição de recurso, o que inviabiliza o juízo sumário.
+    Ademais a concessão da liminar esgotaria por completo o objeto da presente reclamação, na medida em que a pretensão liminar confunde-se com o mérito da ação.
+    Na Corte, há decisões que referendam essa leitura do caráter exauriente das liminares em reclamação e da impossibilidade de sua ocorrência:
+    “1. Pretendem os reclamantes a reconsideração da decisão de fl. 70, que indeferiu o pedido de liminar (fls. 96-97). Naquela oportunidade, afirmei que ‘toda medida liminar, que ostente natureza cautelar, visa, unicamente, a garantir o resultado final do procedimento em que é requerida, trate-se de causa ou recurso. No caso dos autos, o deferimento do requerido, a título de liminar, implicaria tutela satisfativa, que de certo modo exauriria o objeto da causa e, por conseqüência, usurparia ao órgão competente a apreciação da Reclamação.’ (fl. 70). O pedido de reconsideração da liminar fundamenta-se no fato de que a douta Procuradoria-Geral de justiça se manifestou terminantemente favorável à liberação dos pacientes, ora reclamantes e que há parecer favorável do Ministério Público acerca de expedição de ofício ao Delegado a fim de justificar o uso de algemas. (fls. 96-97).
+    2. Não assiste razão aos reclamantes. Em primeiro lugar, reitero os argumentos anteriormente expedidos, no sentido de que o deferimento do requerido, a título de liminar, implicaria tutela satisfativa. Vê-se, ademais, que o parecer do Ministério Público estadual trazido às fls. 104-107 - em razão do qual se pleiteia a reconsideração da decisão de fl. 70 - se refere apenas a eventual excesso de prazo decorrente da prisão cautelar imposta ao reclamante, já impugnada por meio de habeas corpus impetrado perante o Tribunal de Justiça de Minas Gerais. Não há, pois, nenhuma alusão a eventual afronta ao enunciado da Súmula Vinculante nº 11.
+    3. Tenho por irretocável a decisão de fl. 70, razão pela qual indefiro o pedido de fl. 97. Publique-se. Brasília, 4 de março de 2010” (Rcl 8409, Relator Ministro Cezar Peluso, DJe-045 de 12/3/10).
+    Com argumentos de similaridade patente, já se manifestou a Ministra Cármen Lúcia desse modo:
+    “6. Embora os argumentos dos Impetrantes possam produzir alguma impressão de plausibilidade jurídica, as razões que declinam não eliminam, na espécie, a natureza eminentemente satisfativa que a reveste. Assim, o objeto do pedido liminar confunde-se com o mérito da causa, o que determina seja a matéria submetida a uma necessária análise mais detida das razões do Superior Tribunal Militar para denegar o habeas corpus ali impetrado.
+    Por isso, é importante a análise do conteúdo integral do acórdão contra o qual incide a presente impetração.
+    Assim, indefiro a liminar” (HC nº 99.445 MC, Relatora Ministra Cármen Lúcia, DJe- 01/07/2009).
+    “5. A análise dos autos revela que o requerimento formulado quanto à medida liminar caracteriza-se pela satisfatividade do pleito em sua inteireza.
+    Quer-se dizer, o objeto da ação exaure-se no que requerido para deferimento liminar. Contudo, essa é medida inicial e precária, que não completa a jurisdição antes do exame de todos os elementos necessários ao convencimento do julgador e à conclusão do julgado. Daí sobrevém a necessidade de apreciar a questão posta sob análise de forma mais detida, após a complementação da instrução do pedido com as informações a serem prestadas pelo delegado da Receita Federal de Londrina/PR e pela juíza federal substituta da Vara Federal da Circunscrição de Londrina/PR e com o parecer do Procurador-Geral da República.
+    6. Além disso, apesar de ser possível verificar a verossimilhança do direito vindicado pelo Reclamante (fumus boni iuris), não se tem comprovado nos autos o perigo da demora (periculum in mora) para justificar o deferimento da medida liminar. Neste exame precário, próprio das liminares, não se tem caracterizado o fundamento relevante necessário ao seu deferimento. Tampouco se demonstrou que da decisão impugnada possa resultar a ineficácia da medida, pois a situação jurídica por ela estabelecida é incapaz de gerar novas relações ou direitos, o que poderia vir a comprometer a decisão definitiva nesta reclamação.
+    7. Pelo exposto, indefiro o pedido de medida liminar.” (Rcl nº 10.486/PR-MC, Relatora a Ministra Cármen Lúcia, DJe de 13/9/10).
+    Ante o exposto, e reservada a apreciação do quadro uma vez apresentadas as informações pela autoridade reclamada, indefiro o pedido liminar.
+    Notifique-se a digna autoridade reclamada, a fim de que preste as informações no prazo de lei (art. 14, I, da Lei nº 8.038/90).
+    Após, remetam-se os autos à douta Procuradoria-Geral da república para manifestação como custos legis.
+    Publique-se. Int..
+    Brasília, 28 de junho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
