@@ -1,0 +1,45 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. 1) SERVIDOR PÚBLICO ANISTIADO. 2) REENQUADRAMENTO. INCLUSÃO EM PLANO DE CARGOS E SALÁRIOS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. 3) OFENSA CONSTITUCIONAL IDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Turma Suplementar do Tribunal Regional Federal da 1ª Região decidiu:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. LEI N. 8.112/90. ANISTIA. LEI N. 8.878/94. ART. 37 DA CR/88. ART. 19 DO ADCT. ADEQUAÇÃO DA VIA ELEITA. COMPETÊNCIA DA JUSTIÇA FEDERAL. INCLUSÃO NO PLANO DE CARGOS E SALÁRIOS. REGIME JURÍDICO ÚNICO. CABIMENTO. 1. Os documentos apresentados com a petição inicial são suficientes à comprovação do direito pretendido quanto ao enquadrado no Plano de Classificação de Cargos dos servidores públicos, não havendo necessidade de dilação probatória, sendo, dessa forma, própria a via processual eleita (mandado de segurança). 2. A Justiça Federal, e não a trabalhista, é competente para o julgamento do presente feito, visto que a pretensão deduzida, não diz respeito a relação empregatícia, fundando-se em direito ao enquadramento no regime jurídico único. Preliminar de incompetência absoluta rejeitada. 3. A Lei n. 8.112/90, art. 243, § 1º, transpôs para o Regime Jurídico Único todos aqueles que à época eram empregados dos Poderes da União, sob o regime celetista, transformando os empregos em cargos públicos. 4. Os autores, antigos empregados celetistas anistiados pela Lei n. 8.878/94, devem ser enquadrados como servidores públicos estatutários no Regime Jurídico Único, pois que preencheram os requisitos legais para tal enquadramento, inclusive a estabilidade no serviço público, que lhes confere a garantia de inclusão no Plano de Cargos e Salários dos servidores do Ministério da Agricultura e do Abastecimento. Precedentes deste Tribunal. 5. Apelação e remessa oficial não providas” (fl. 200).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência das Súmulas n. 279, 282 e 356 do Supremo Tribunal Federal.
+    4. A Agravante argumenta que:
+    “‘In causu’, a questão atinente ao artigo 19 do ADCT foi expressamente tratada e refutada pelo acórdão recorrido.
+    Assim, uma vez debatida de forma conclusiva a matéria, não pode a ausência de menção expressa aos dispositivos constitucionais suscitados impedir que tal questão seja objeto de exame pela Corte de Justiça, por fundamento de excessivo rigorismo, uma vez que, de forma inequívoca, o prequestionamento implícito foi realizado.
+    (...)
+    Como já afirmado, a decisão também negou seguimento ao recurso extraordinário da União sob o fundamento de que não se admite recurso extraordinário para revolvimento de matéria fático-probatória, tendo em vista o óbice da Súmula n. 279 do STF.
+    Ocorre, entretanto, que o recurso da União, ao contrário do que afirmado na decisão recorrida, não visa o reexame da matéria fático-probatória” (fls. 223-225).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado o art. 19 do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    O Desembargador Relator no Tribunal de Regional Federal da 1ª Região afirmou:
+    “Quanto à alegação de impropriedade da via eleita, tem-se que os documentos acostados aos autos são aptos a demonstrar que os impetrantes foram enquadrados em funções diversas do Plano de Classificação de Cargos dos servidores públicos.
+    Quanto à alegação de impossibilidade jurídica do pedido, verifico que não há qualquer vedação legal quanto à pretensão de se garantir o retorno ao serviço em decorrência da dispensa dos empregados durante o Governo Collor, isto porque foi concedida anistia aos autores, com fundamento na Lei n. 8.878/84.
+    (...)
+    A questão posta nos autos para análise e julgamento em sede recursal diz respeito à possibilidade de assegurar aos impetrantes todos os direitos ínsitos à anistia e à qualidade de servidores públicos, previstos na Lei n. 8.112/90 e demais legislação em vigor.
+    De acordo com as normas constitucionais, os servidores públicos civis da União em exercício na data da promulgação da Constituição, há pelo menos cinco anos continuados, e que não tenham sido admitidos na forma regulada no art. 37 da Constituição, foram considerados estáveis no serviço público.
+    Ou seja, a Carta Magna previu exceção à regra do art. 37, inexistindo afronta à mesma na hipótese em que os servidores não concursados permaneceram no serviço público, quando cumpridos os requisitos do art. 19 do ADCT da CR/88.
+    A própria Lei n. 8.112/90 submeteu ao regime jurídico estatutário federal os antigos servidores celetistas da UNIÃO, assim: (...).
+    Assim, a qualidade de servidor público federal não é ilidida pela circunstância de o interessado ter sido contratado antes da promulgação da Carta Fundamental de 1988, mesmo sem concurso público, exigência inexistente para os celetistas de então.
+    Os servidores que estavam em exercício na data da promulgação da Constituição há pelo menos cinco anos continuados (art. 19 do ADCT da CR/88) passaram a ser considerados estáveis.
+    Afigurou-se de flagrante ilegalidade a demissão dos servidores que adquiriram a estabilidade anômala por expressa determinação constitucional.
+    Tanto assim que a Lei n. 8.878/94, concedendo anistia, veio reparar a situação daqueles que, mesmo detendo estabilidade, foram despedidos ou dispensados de seus empregos, assim: (...).
+    Tendo sido anistiados os servidores impetrantes, presume-se que encontravam-se em situação regular possuindo estabilidade no serviço público, nos termos constitucionais. Ademais, deve ser considerado que a anistia tem o condão de apagar todos os efeitos do ato de demissão, restabelecendo o status quo ante.
+    Diante tais fundamentos, verifico ser ilegal o tratamento diferenciado dispensado aos impetrantes pelo Ministério da Agricultura e do Abastecimento, que desempenham idênticas funções de outros servidores que não foram demitidos e posteriormente anistiados.
+    A jurisprudência desta Corte já assentou entendimento de que os servidores anistiados devem integrar os quadros da Administração Pública sob a égide do Regime Jurídico Único.
+    (...)
+    Em suma: os impetrantes que já foram reintegrados ao serviço público devem ser reenquadrados no regime jurídico único e estendidas todas as prerrogativas funcionais reconhecidas aos demais servidores, bem como o enquadramento no Plano de Cargos e Salários.
+    Ressalte-se que ao adotar tal entendimento inexiste qualquer afronta à Lei n. 8.878/94 ou aos artigos 37 da CR/88 e 19 de seu ADCT” (fls. 194-197 – grifos nossos).
+    Decidir de modo diverso do que assentado nas instâncias precedentes dependeria do reexame de provas, o que não pode ser adotado em recurso extraordinário, nos termos da Súmula n. 279 deste Supremo Tribunal Federal.
+    O novo exame do julgado impugnado exigiria, ainda, a análise prévia de legislação aplicada à espécie (Lei n. 8.878/1994). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ANISTIA. EFEITOS FINANCEIROS. PROGRESSÃO FUNCIONAL. LEI N. 8.878/94. MATÉRIA INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I – O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei n. 8.878/1994). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. II – Agravo regimental improvido” (ARE 656.411-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 7.12.2011).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações da Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 30 de junho de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
