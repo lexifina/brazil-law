@@ -1,0 +1,4 @@
+Ato Declaratório Interpretativo RFB nº 3, de 28 de junho de 2013
+Dispõe sobre a aplicação da alíquota zero de Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) na operação de câmbio que menciona.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos incisos XI e XII do art. 15-A e no art. 66 do Decreto nº 6.306, de 14 de dezembro de 2007, e no Decreto nº 8.023, de 4 de junho de 2013, declara:
+Artigo único. A alíquota zero prevista no Decreto nº 8.023, de 4 de junho de 2013, aplica-se às operações de câmbio contratadas a partir de 5 de junho de 2013.
