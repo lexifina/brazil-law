@@ -1,0 +1,33 @@
+Decisão:
+    Vistos.
+    Recurso ordinário em habeas corpus, com pedido de liminar, interposto por Marivânia Santana de Lima, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, que não conheceu do HC nº 177.505/PE, impetrado àquela Corte, Relator o Ministro Sebastião Reis Júnior.
+    Alega a recorrente, em linhas gerais, a presença de constrangimento ilegal a ela imposto, tendo em vista suposta inépcia da denúncia ofertada Aduz, para tanto, que:
+    “(...)
+    2. A paciente pediu ordem de ‘habeas corpus’ perante o e. Tribunal de Justiça do Estado de Pernambuco, à consideração de que a denúncia, em relação à sua pessoa era inepta, uma vez que lhe imputava, na condição de Oficiala de Justiça, fazer parte de um esquema de recebimento de propina pagos por escritórios de advocacia no cumprimento de mandado de busca e apreensão de veículos alienados aos bancos.
+    3. A denúncia, portanto, apenas descrevia que se tratava de um grandioso esquema de recebimento de propina no cumprimento de mandados de buscas e apreensões de veículos alienados fiduciariamente, cuja ‘propina’ girava em torno de R$ 200,00 a R$ 300,00 reais por cada apreensão.
+    4. No mais, a denúncia se apegou e se firmou no fato de a paciente ser Oficiala de Justiça, pois, não descreve e nem há indícios de quando se praticou, meios empregados, motivos, quando [dia mês e ano], se o pseudo pagamento da propina pelo cumprimento de mandado judicial era em dinheiro e quem o pagava? Quem o recebia? Se em cheque e qual a conta e quem o depositava e quem o sacava? Qual as ordens cumpridas? Quais os processos a eles vinculados? Para quais instituições foram cumpridos esses mandados pela paciente? Quais os veículos apreendidos debaixo do pretenso recebimento de propina?” (fl. 250 do volume 3).
+    Afirma, ainda, não haver “o mínimo do mínimo de elemento material exigido pelo artigo 41 do Código de Processo Penal para se deflagrar um persecução penal (...)” (fl. 255 do volume 3).
+    Requer o deferimento da liminar para determinar o “sobrestamento/suspensão da ação penal nº 2006.4730-4, que tramita Comarca de Caruaru/PE (...)” e, no mérito, pede o provimento do recurso para que seja reconhecida a inépcia da denúncia (fl. 257 do volume 3).
+    Examinados os autos, decido.
+    Eis a síntese do julgado preferido pelo Superior Tribunal de Justiça no HC nº 177.505/PE:
+    “‘HABEAS CORPUS’. FORMAÇÃO DE QUADRILHA E CORRUPÇÃO PASSIVA. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. CONHECIMENTO. IMPOSSIBILIDADE. VERIFICAÇÃO, DE OFÍCIO, DE OFENSA MANIFESTA À LIBERDADE DE LOCOMOÇÃO. VIABILIDADE. PRETENSÃO DE TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. INICIAL QUE DESCREVE SATISFATORIAMENTE A CONDUTA CRIMINOSA ATRIBUÍDA À PACIENTE E AOS CORRÉUS. FLAGRANTE CONSTRANGIMENTO À LIBERDADE DE LOCOMOÇÃO. INEXISTÊNCIA.
+    1.O ‘habeas corpus’ não pode ser utilizado como substitutivo do recurso ordinário previsto nos arts. 105, II, ‘a’, da Constituição Federal e 30 da Lei n. 8.038/1990, salvo em situações excepcionais. Precedentes.
+    2. Apesar de se ter solidificado o entendimento no sentido da impossibilidade de utilização do ‘habeas corpus’ como substitutivo do recurso cabível, este Superior Tribunal analisa, com a devida atenção e caso a caso, a existência de coação manifesta à liberdade de locomoção, não tendo sido aplicado o referido entendimento de forma irrestrita, de modo a prejudicar eventual vítima de coação ilegal ou abuso de poder e convalidar ofensa à liberdade ambulatorial.
+    3. Esta Corte pacificou o entendimento de que o trancamento da ação penal pela via do ‘habeas corpus‘ é cabível apenas quando demonstrada a atipicidade da conduta, a extinção da punibilidade ou a manifesta ausência de provas da existência do crime e de indícios de autoria.
+    4. Apesar de o membro do Ministério Público não ter individualizado a conduta atribuída a cada acusado, observa-se que descreveu o modo pelo qual a paciente e os referidos corréus se ajustaram para o fim de cometer o crime de corrupção passiva, bem como a maneira pela qual os acusados obtiveram vantagem pecuniária para a realização de atos de ofício, tendo ficado evidente a descrição da comunhão de propósitos para atingir o mesmo fim, razão pela qual se trata de nítida hipótese de denúncia geral, admitida pela jurisprudência deste Superior Tribunal.
+    5. A controvérsia sobre a constatação concreta de ter a paciente e os corréus agido do mesmo modo é questão afeta à instrução criminal, e não pressuposto para a instauração e prosseguimento da ação penal.
+    6. ‘Habeas corpus’ não conhecido” (fls. 225/226 do volume 3).
+    Essa é a razão pela qual se insurge a recorrente neste feito.
+    O deferimento de liminar em habeas corpus, como se sabe, é medida de caráter excepcional, cabível apenas se a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano, ou quando a situação constante dos autos representar manifesto constrangimento ilegal, o que não vislumbro na hipótese presente.
+    Pelo que se tem na decisão proferida pela Sexta Turma do Superior Tribunal de Justiça, não se vislumbra, neste primeiro exame, ilegalidade flagrante, abuso de poder ou teratologia que justifique o deferimento de liminar. Com efeito, o acórdão proferido por aquela Corte de Justiça encontra-se devidamente motivado, restando justificado o convencimento formado.
+    Ademais, o entendimento do Superior Tribunal de Justiça encampou a tese deste Supremo Tribunal a respeito do manejo inadequado do habeas corpus, quando substitutivo de recurso ordinário constitucionalmente previsto (HC nº 109.956/PR, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 11/9/12), que, aliás, é o entendimento que predomina até o momento na Turma.
+    De outra parte, registro, neste juízo de cognição sumária, que a denúncia contém descrição mínima dos fatos imputados à recorrente, assegurando-lhe condições de exercer seu direito de defesa. Portanto, não há que se falar, à primeira vista, em inépcia da denúncia.
+    Conforme a jurisprudência da Corte, não é inepta a denúncia que “contém a adequada indicação da conduta delituosa imputada ao paciente, apontando os elementos indiciários mínimos aptos a tornar plausível a acusação, o que lhe permite o pleno exercício do direito de defesa” (HC nº 111.030/PE, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 19/3/13).
+    Com essas considerações, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro a liminar requerida.
+    Estando o recurso devidamente instruído, dispenso o pedido de informações.
+    Abra-se vista à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 1º de julho de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
