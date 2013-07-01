@@ -1,0 +1,1 @@
+Art. 13. O disposto nesta Lei não afasta a aplicabilidade da Lei nº 8.112, de 11 de dezembro de 1990, especialmente no que se refere à apuração das responsabilidades e possível aplicação de sanção em razão de prática de ato que configure conflito de interesses ou ato de improbidade nela previstos.
