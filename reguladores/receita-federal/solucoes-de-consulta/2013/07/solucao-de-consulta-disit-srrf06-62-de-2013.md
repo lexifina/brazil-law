@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF06 nº 62, de 28 de junho de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONSTRUÇÃO CIVIL. EMPREITADA TOTAL. ÓRGÃO PÚBLICO. RETENÇÃO. NÃO CABIMENTO. RESPONSABILIDADE SOLIDÁRIA. INEXISTÊNCIA.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONSTRUÇÃO CIVIL. EMPREITADA TOTAL. ÓRGÃO PÚBLICO. RETENÇÃO. NÃO CABIMENTO. RESPONSABILIDADE SOLIDÁRIA. INEXISTÊNCIA. 1. Os órgãos da Administração Pública direta sujeitam-se à retenção prevista no art. 31 da lei nº 8.212, de 1991, nos casos de contratação de serviços mediante cessão de mão de obra ou empreitada. 2. O instituto da retenção não se aplica às obras de construção civil executadas mediante empreitada total. 3. Os órgãos da Administração Pública direta não respondem solidariamente pelas obrigações previdenciárias decorrentes da contratação de obra de construção civil mediante empreitada total.
+DISPOSITIVOS LEGAIS: Lei nº 8.212, de 1991, art. 31; Instrução Normativa RFB nº 971, de 2009, arts. 117, 118, 142, 149, 151, 152, 157, 158, 260 e 322, XXVII e XXVIII.
