@@ -1,0 +1,9 @@
+Art. 5º Configura conflito de interesses no exercício de cargo ou emprego no âmbito do Poder Executivo federal:
+I - divulgar ou fazer uso de informação privilegiada, em proveito próprio ou de terceiro, obtida em razão das atividades exercidas;
+II - exercer atividade que implique a prestação de serviços ou a manutenção de relação de negócio com pessoa física ou jurídica que tenha interesse em decisão do agente público ou de colegiado do qual este participe;
+III - exercer, direta ou indiretamente, atividade que em razão da sua natureza seja incompatível com as atribuições do cargo ou emprego, considerando-se como tal, inclusive, a atividade desenvolvida em áreas ou matérias correlatas;
+IV - atuar, ainda que informalmente, como procurador, consultor, assessor ou intermediário de interesses privados nos órgãos ou entidades da administração pública direta ou indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios;
+V - praticar ato em benefício de interesse de pessoa jurídica de que participe o agente público, seu cônjuge, companheiro ou parentes, consanguíneos ou afins, em linha reta ou colateral, até o terceiro grau, e que possa ser por ele beneficiada ou influir em seus atos de gestão;
+VI - receber presente de quem tenha interesse em decisão do agente público ou de colegiado do qual este participe fora dos limites e condições estabelecidos em regulamento; e
+VII - prestar serviços, ainda que eventuais, a empresa cuja atividade seja controlada, fiscalizada ou regulada pelo ente ao qual o agente público está vinculado.
+Parágrafo único. As situações que configuram conflito de interesses estabelecidas neste artigo aplicam-se aos ocupantes dos cargos ou empregos mencionados no art. 2º ainda que em gozo de licença ou em período de afastamento.
