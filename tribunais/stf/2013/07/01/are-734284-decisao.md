@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Conselho Recursal dos Juizados Cíveis e Criminais do Estado de São Paulo, o qual manteve a sentença por seus próprios fundamentos.
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se ofensa aos arts. 5º, incisos II, XXXVI e LV; e 93, inciso IX, do texto constitucional.
+    Nas razões recursais, requer-se o sobrestamento do feito, a fim de determinar a suspensão de qualquer ato constritivo em face da GOL LINHAS AÉREAS INTELIGENTES.
+    Sustenta-se afronta ao ato jurídico perfeito, em razão de o Tribunal de origem ter ignorado o processo de recuperação judicial já homologado em juízo diverso (fl. 156). Argumenta-se ausência de fundamentação do acórdão recorrido, bem como violação ao princípio da legalidade.
+    Decido.
+    O recurso não merece prosperar.
+    Inicialmente, no tocante à alegada ofensa ao artigo 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Ademais, a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta ao princípio do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário. Nesse sentido:
+    “DIREITO CIVIL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. INCIDÊNCIA. TEMPUS REGIT ACTUM. ALEGAÇÃO DE OFENSA AO ATO JURÍDICO PERFEITO, AO DEVIDO PROCESSO LEGAL, AO CONTRADITÓRIO, À AMPLA DEFESA E À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O MANEJO DE RECURSO EXTRAORDINÁRIO. ACÓRDÃO RECORRIDO PUBLICADO EM 25.02.2011. A suposta afronta aos preceitos constitucionais indicados nas razões recursais dependeria da análise de legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário, considerada a disposição do art. 102, III, a, da Lei Maior. Agravo regimental conhecido e não provido (ARE-AgR 720.824, Rel. Min. Rosa Weber, Primeira Turma, DJe 19.3.2013)”.
+    Por fim, no que se refere à afronta ao art. 5º, II, da CF/88, a jurisprudência desta Corte não admite a interposição de “recurso extraordinário por contrariedade ao princípio da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida” (Enunciado 636 da Súmula do STF).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 1º de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
