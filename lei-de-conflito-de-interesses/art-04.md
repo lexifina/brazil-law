@@ -1,0 +1,3 @@
+Art. 4º O ocupante de cargo ou emprego no Poder Executivo federal deve agir de modo a prevenir ou a impedir possível conflito de interesses e a resguardar informação privilegiada.
+§ 1º No caso de dúvida sobre como prevenir ou impedir situações que configurem conflito de interesses, o agente público deverá consultar a Comissão de Ética Pública, criada no âmbito do Poder Executivo federal, ou a Controladoria-Geral da União, conforme o disposto no parágrafo único do art. 8º desta Lei.
+§ 2º A ocorrência de conflito de interesses independe da existência de lesão ao patrimônio público, bem como do recebimento de qualquer vantagem ou ganho pelo agente público ou por terceiro.
