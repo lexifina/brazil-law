@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado de Sergipe assim ementado:
+    “APELAÇÃO CÍVEL – AÇÃO CIVIL PÚBLICA – ATO ADMINISTRATIVO QUE DETERMINOU A TRANSFERÊNCIA DO PRONTO SOCORRO DO HOSPITAL JOÃO ALVES FILHO PARA A UNIDADE PEDIÁTRICA – VIOLAÇÃO DIRETA DE NORMA CONSTITUCIONAL E DO PRINCÍPIO DA RAZOABILIDADE – POSSIBILIDADE DE APRECIAÇÃO PELO PODER JUDICIÁRIO.
+    - O direito à saúde, como consectário natural do direito à vida, é assegurado com absoluta prioridade às crianças e adolescentes pela Constituição Federal, conforme prescreve o art. 227;
+    - Observa-se que o ato da Administração Pública que determinou a transferência do Pronto de Socorro do HGJAF para a unidade pediátrica afronta diretamente o ordenamento jurídico pátrio, vez que ao invés de dar prioridade ao atendimento infantil, o ente público desvirtuou a área destinada para este fim, inclusive, promovendo alterações do projeto arquitetônico original;
+    - Dessa forma, por se tratar de ato lesivo à norma constitucional perpetrada pelo próprio Estado, não está o Judiciário impedido de apreciá-la ou decidi-la, uma vez que não se cogita ofensa ao poder discricionário da Administração, mas de obrigação legalmente imposta à liberdade de atuação do administrador;
+    - De acordo com os novos paradigmas do Direito Administrativo, parte da doutrina e da jurisprudência já admite que o Poder Judiciário possa controlar o mérito do ato administrativo, conveniência e oportunidade, sempre que, no uso da discricionariedade admitida legalmente, a Administração Pública atue contrariamente ao princípio da razoabilidade;
+    - No presente caso, verifica-se por meio do ofício de fl. 200/202, que o Conselho Regional de Medicina – CREMESE, a Sociedade Sergipana de Pediatria – SOSEPE, o Sindicato dos Médicos – SINDMED e a Sociedade Médica de Sergipe – SOMESE foram unânimes em considerar inadequada a transferência do pronto socorro para a unidade infantil, diante da inexistência de hospital pediátrico em todo o Estado, como também demonstrou preocupação com os possíveis prejuízos à estrutura recém-inaugurada;
+    Desse modo, denota-se que a medida de transferir mesmo que provisoriamente o pronto socorro para a unidade pediátrica ofende frontalmente o princípio da razoabilidade e da dignidade da pessoa humana, diante do patente interesse público, tendo em vista ser este o único hospital infantil do estado. Entretanto, em contramão ao direito constitucionalmente assegurado à criança e adolescente, tal setor foi relegado, não lhe foi dado pela Administração Pública, a prioridade necessária;
+    - Recurso improvido. Decisão unânime”. (fls. 911-912)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, sustenta-se a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 2º e 165, do texto constitucional.
+    Alega-se, em síntese, que a decisão adotada pelo Tribunal de origem afrontou o princípio da separação dos poderes, tendo em vista a impossibilidade do Poder Judiciário de adentrar em questões referentes ao mérito administrativo.
+    Decido.
+    O Estado de Sergipe prestou os seguintes esclarecimentos sobre a manutenção do objeto da presente ação (fls. 1046-1055):
+    “Com relação aos questionamentos solicitados, informo que a obra do Pronto Socorro dividi-se em 2 etapas: A primeira que antes ocupava o espaço onde funciona o Hospital Pediátrico, foi entregue, estando em pleno funcionamento. A segunda inclui consultórios do ambulatório de retorno, centro diagnóstico e UTI. Desses, os consultórios já foram entregues e a previsão da conclusão do restante da obra é no mês de julho.
+    A Unidade Pediátrica atende crianças e adolescentes, com exceção de uma parte ocupada por alguns leitos de UTI por adultos. Esses leitos serão transferidos com a entrega da obra da UTI prevista para o mês de julho”. (fl. 1046)
+    Nada obstante a plausibilidade do argumento do recurso extraordinário, verifica-se que as obras tratadas na demanda estão quase completamente concluídas e que o Hospital Pediátrico está em pleno funcionamento, tal como pleiteado na inicial.
+    Deste modo, tendo em vista a perda superveniente do objeto, extinguo a presente ação, prejudicado o recurso extraordinário, nos termos do art. 21, IX, do RISTF, .
+    Publique-se.
+    Brasília, 2 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
