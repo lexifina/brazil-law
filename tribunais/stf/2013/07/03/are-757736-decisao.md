@@ -1,0 +1,19 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça de Minas Gerais ementado nos seguintes termos:
+    “APELAÇÃO CÍVEL/ REEXAME NECESSÁRIO. ADMINISTRATIVO. AÇÃO ORDINÁRIA. PROFESSORA. ESPECIALIZAÇÃO. PROGRESSÃO HORIZONTAL. REQUISITOS LEGAIS COMPROVADOS. PROCEDÊNCIA. JUROS E CORREÇÃO MONETÁRIA. HONORÁRIOS. SENTENÇA REFORMADA EM PARTE. I – Preenchidos os requisitos mínimos previstos no Decreto n. 10.239/2000, faz jus a professora da rede municipal, com curso de especialização concluído, um nível na tabela de vencimentos. II – Os juros de mora e a correção monetária são computados de acordo com o art. 1º-f da Lei n. 9.494/1997, considerada a redação que lhe dava a MP n. 2.180-35/01 até o dia 30/06/2009 e, a partir de então, a redação que lhe passou a dar a Lei n. 11.960/09. III – Sem qualquer demérito ao trabalho do advogado, impõe-se a redução da verba honorária sucumbencial em quantia que se mostra mais adequada aos termos do art. 20, § 4º, do CPC”. (fl. 64)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alíneas “a” e “c”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos artigos 18 e 39 do texto constitucional.
+    Alega-se, em síntese, que o poder público municipal detém a competência plena para dispor sobre o regime jurídico de seus servidores e, por consequência, para dispor sobre as regras e critérios relativas à progressão destes.
+    Decido.
+    A irresignação não merece prosperar.
+    Isso porque a jurisprudência do Supremo Tribunal Federal firmou o entendimento de que a discussão sobre a progressão funcional dos servidores públicos da Prefeitura Municipal de Belo Horizonte está restrita ao âmbito da interpretação do direito local.
+    Dessa forma, para se adotar entendimento diverso do que o esposado pelo acórdão recorrido, seria necessária a prévia análise e interpretação da legislação local aplicável, qual seja: Leis nº 7.169/96 e 7.969/2000, o que é vedado nesta via extraordinária, consoante o disposto no Enunciado 280 da Súmula desta Corte.
+    Assim, a ofensa à Constituição, se existente, seria reflexa.
+    Nesse sentido, confira-se o entendimento das duas Turmas desta Corte:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROGRESSÃO FUNCIONAL. LEI MUNICIPAL N. 7.169/1996. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (RE-AgR 394.415/MG, Rel. Min. Cármen Lúcia, DJe 23.10.2009)
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. OFENSA INDIRETA À CONSTITUIÇÃO DO BRASIL. 1. O Tribunal a quo não se manifestou explicitamente sobre o tema constitucional tido por violado. Incidência das Súmulas nº 282 e 356 do Supremo Tribunal Federal. 2. Controvérsia decidida com fundamento na legislação local. Incidência da Súmula n. 280 deste Tribunal. Agravo regimental a que se nega provimento”. (AI-AgR 710.254/MG, Rel. Min. Eros Grau, DJe 27.6.2008)
+    No mesmo sentido, cito os seguintes precedentes que tratam de casos idênticos ao do presente recurso: RE 352.605/MG, Rel. Min. Joaquim Barbosa, DJe 31.8.2010; AI 794.837/MG, Rel. Min. Dias Toffoli, DJe 5.8.2010; RE 601.411/MG, Rel. Min. Ayres Britto, DJe 10.6.2010; AI-AgR 742.046/MG, Rel. Min. Ricardo Lewandowski, DJe 12.3.2010 e AI 783.076/MG, Rel. Min. Ricardo Lewandowski, DJe 17.2.2010.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 3 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
