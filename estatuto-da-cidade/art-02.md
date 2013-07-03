@@ -23,3 +23,4 @@ XIII - audiência do Poder Público municipal e da população interessada nos p
 XIV - regularização fundiária e urbanização de áreas ocupadas por população de baixa renda mediante o estabelecimento de normas especiais de urbanização, uso e ocupação do solo e edificação, consideradas a situação socioeconômica da população e as normas ambientais;
 XV - simplificação da legislação de parcelamento, uso e ocupação do solo e das normas edilícias, com vistas a permitir a redução dos custos e o aumento da oferta dos lotes e unidades habitacionais;
 XVI - isonomia de condições para os agentes públicos e privados na promoção de empreendimentos e atividades relativos ao processo de urbanização, atendido o interesse social.
+XVII - estímulo à utilização, nos parcelamentos do solo e nas edificações urbanas, de sistemas operacionais, padrões construtivos e aportes tecnológicos que objetivem a redução de impactos ambientais e a economia de recursos naturais.
