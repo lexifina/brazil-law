@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF09 nº 121, de 27 de junho de 2013
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins EXPORTAÇÃO DE SERVIÇOS. HOTELARIA. PAGAMENTO. Assunto: Contribuição para o PIS/Pasep EXPORTAÇÃO DE SERVIÇOS. HOTELARIA. PAGAMENTO.
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+EXPORTAÇÃO DE SERVIÇOS. HOTELARIA. PAGAMENTO.
+Para fins de não-incidência de Cofins na prestação de serviços de hotelaria a estrangeiros, o ingresso de divisas pode considerar-se comprovado por remessa internacional de valores para conta bancária de titularidade da prestadora (hotel), desde que feita de acordo com as normas do Banco Central do Brasil e no valor do preço cobrado pelos serviços prestados, ressalvada eventual variação cambial entre a data da emissão da nota fiscal e a do efetivo ingresso dos recursos. Dispositivos Legais: Lei nº 10.833, de 2003, art. 6º, II.
+Assunto: Contribuição para o PIS/Pasep
+EXPORTAÇÃO DE SERVIÇOS. HOTELARIA. PAGAMENTO. Para fins de não-incidência de Contribuição para o PIS/Pasep na prestação de serviços de hotelaria a estrangeiros, o ingresso de divisas pode considerar-se comprovado por remessa internacional de valores para conta bancária de titularidade da prestadora (hotel), desde que feita de acordo com as normas do Banco Central do Brasil e no valor do preço cobrado pelos serviços prestados, ressalvada eventual variação cambial entre a data da emissão da nota fiscal e a do efetivo ingresso dos recursos. Dispositivos Legais: Lei nº 10.637, de 2002, art. 5º, II.
