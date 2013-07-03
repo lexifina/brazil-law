@@ -4,7 +4,8 @@ II - programa básico de ocupação da área;
 III - programa de atendimento econômico e social para a população diretamente afetada pela operação;
 IV - finalidades da operação;
 V - estudo prévio de impacto de vizinhança;
-VI - contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados em função da utilização dos benefícios previstos nos incisos I e II do § 2º do art. 32 desta Lei;
+VI - contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados em função da utilização dos benefícios previstos nos incisos I, II e III do § 2º do art. 32 desta Lei;
 VII - forma de controle da operação, obrigatoriamente compartilhado com representação da sociedade civil.
+VIII - natureza dos incentivos a serem concedidos aos proprietários, usuários permanentes e investidores privados, uma vez atendido o disposto no inciso III do § 2º do art. 32 desta Lei.
 § 1º Os recursos obtidos pelo Poder Público municipal na forma do inciso VI deste artigo serão aplicados exclusivamente na própria operação urbana consorciada.
 § 2º A partir da aprovação da lei específica de que trata o caput, são nulas as licenças e autorizações a cargo do Poder Público municipal expedidas em desacordo com o plano de operação urbana consorciada.

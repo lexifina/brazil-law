@@ -3,3 +3,4 @@ Art. 32. Lei municipal específica, baseada no plano diretor, poderá delimitar 
 § 2º Poderão ser previstas nas operações urbanas consorciadas, entre outras medidas:
 I - a modificação de índices e características de parcelamento, uso e ocupação do solo e subsolo, bem como alterações das normas edilícias, considerado o impacto ambiental delas decorrente;
 II - a regularização de construções, reformas ou ampliações executadas em desacordo com a legislação vigente.
+III - a concessão de incentivos a operações urbanas que utilizam tecnologias visando a redução de impactos ambientais, e que comprovem a utilização, nas construções e uso de edificações urbanas, de tecnologias que reduzam os impactos ambientais e economizem recursos naturais, especificadas as modalidades de design e de obras a serem contempladas.
