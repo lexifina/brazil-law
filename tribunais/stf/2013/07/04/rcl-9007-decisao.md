@@ -1,0 +1,21 @@
+Decisão: Trata-se de reclamação constitucional, com pedido de liminar, ajuizada por Reinaldo Custódio da Silva, Maria Carmem Martins Marques e Fuade Pedro Elias contra ato do Juízo da 2ª Vara Cível da Comarca de Palmital/SP (Ação Civil Pública 673/09 – Processo 0003189-90.2009.8.26.0415), que concedeu tutela antecipada para determinar “a imediata suspensão dos requeridos Fuade e Maria Carmem do exercício dos cargos em comissão que ocupam na administração municipal, com prejuízo de seus vencimentos” (fl. 56).
+    Alega-se, em síntese, que a hipótese de parentesco colateral de terceiro grau por afinidade não está abrangida pelo óbice da Súmula Vinculante 13.
+    Sustenta-se que o art. 1.595, § 1º, do Código Civil estatui o vínculo de afinidade somente para os casos de ascendentes, descendentes e irmãos do cônjuge ou companheiro, razão pela qual a situação dos reclamantes, cujo parentesco por afinidade não se encontra reconhecido pela legislação civil, não deve ser subsumida à Súmula Vinculante 13.
+    Em abono à referida tese, aponta-se entendimento doutrinário segundo o qual só existe parentesco por afinidade até o segundo grau.
+    Requer-se, liminarmente, a suspensão dos “efeitos da antecipação de tutela deferida nos autos de Ação Civil Pública, feito sob n. 673/09 – 2ª Vara da Comarca de Palmital, Estado de São Paulo” (fl. 11) e, no mérito, seja confirmada a liminar e, por conseguinte, cassada a decisão proferida nos autos da Ação Civil Pública 673/2009 (Processo 0003189-90.2009.8.26.0415).
+    Decido.
+    A irresignação não merece prosperar.
+    A jurisprudência desta Corte é firme quanto à incidência da vedação constitucional ao nepotismo no âmbito dos Poderes Judiciário, Executivo e Legislativo, por decorrer a referida garantia diretamente do art. 37, caput, da Constituição Federal. Nesse sentido: RE 579.951, Rel. Min. Ricardo Lewandowski, Pleno, DJ 24.10.2008 e ADC 12, Rel. Min. Ayres Britto, Pleno, DJ 18.12.2009.
+    Assim, é com base nos referidos precedentes que este Tribunal editou a Súmula Vinculante n. 13, nas Sessões Plenárias de 20 e 21 de agosto de 2008, assim redigida:
+    “A nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia, ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta ou indireta em qualquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal.”
+     A finalidade da Súmula é muito clara, qual seja, evitar nomeações diretas ou cruzadas de parentes, as quais presumidamente envolvem escolhas pessoais em detrimento dos princípios constitucionais da impessoalidade, da moralidade, da publicidade e da eficiência administrativas (CF, art. 37, caput), assim como da garantia fundamental da igualdade de chances (Chancengleichheit).
+    Na espécie, a pretensão dos reclamantes reside em saber se a delimitação do parentesco por afinidade encartada pela legislação civil obsta a aplicação da Súmula Vinculante 13 àqueles que tiverem parentesco por afinidade até o terceiro grau.
+    Esta Corte, no julgamento da ADC-MC 12, Rel. Min. Ayres Britto, Tribunal Pleno, Dje 18.12.2009, dirimiu a presente questão, consignando que a independência das esferas civil e administrativo-constitucional autoriza o estabelecimento – por meio de normas infraconstitucionais de cunho administrativo-constitucional – de conceitos diversos de parentesco daqueles a que se refere a legislação civil, tendo em vista a finalidade de concretização dos princípios da impessoalidade, moralidade e eficiência, primados orientadores da vedação à prática do nepotismo na Administração Pública.
+    Nesse mesmo sentido, confiram-se os seguintes julgados: Rcl 9.013, Rel. Min. Ricardo Lewandowski, Dje 26.9.2011; e a Rcl 7.048, Rel. Min. Joaquim Barbosa, Dje 8.3.2012.
+    Ante o exposto, nego seguimento à reclamação (RISTF, art. 21, § 1º)
+    Publique-se.
+    Arquive-se.
+    Brasília, 4 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
