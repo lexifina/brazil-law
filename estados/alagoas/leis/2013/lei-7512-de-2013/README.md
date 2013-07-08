@@ -1,0 +1,5 @@
+# Lei nº 7.512, de 5 de julho de 2013, do Estado de Alagoas
+
+MODIFICA A EMENTA, E DISPOSITIVOS DA LEI ESTADUAL Nº 6.993, DE 28 DE OUTUBRO DE 2008, QUE CRIA PROGRAMAS DE PREVENÇÃO DE ACIDENTES, COMBATE À VIOLÊNCIA ESCOLAR E PRESERVAÇÃO DO MEIO AMBIENTE, NAS ESCOLAS PÚBLICAS DO ESTADO DE ALAGOAS ATRAVÉS DE COMISSÕES INTERNAS DE PREVENÇÃO DE ACIDENTES, COMBATE À VIOLÊNCIA E PRESERVAÇÃO DO MEIO AMBIENTE NA ESCOLA &#8211; CIPAVE.
+
+Fonte: Assembleia Legislativa (sapl.al.al.leg.br), <https://sapl.al.al.leg.br/norma/546>; texto: <http://sapl.al.al.leg.br/media/sapl/public/normajuridica/2013/546/546_texto_integral.pdf>
