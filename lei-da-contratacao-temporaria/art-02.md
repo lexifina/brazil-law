@@ -20,6 +20,7 @@ VII - admissão de professor, pesquisador e tecnólogo substitutos para suprir a
 VIII - admissão de pesquisador, nacional ou estrangeiro, para projeto de pesquisa com prazo determinado, em instituição destinada à pesquisa; e
 IX - combate a emergências ambientais, na hipótese de declaração, pelo Ministro de Estado do Meio Ambiente, da existência de emergência ambiental na região específica.
 X - admissão de professor para suprir demandas decorrentes da expansão das instituições federais de ensino, respeitados os limites e as condições fixados em ato conjunto dos Ministérios do Planejamento, Orçamento e Gestão e da Educação.
+XI - admissão de professor para suprir demandas excepcionais decorrentes de programas e projetos de aperfeiçoamento de médicos na área de atenção básica em saúde em regiões prioritárias para o Sistema Único de Saúde - SUS, mediante integração ensino-serviço, respeitados os limites e as condições fixados em ato conjunto dos Ministros de Estado do Planejamento, Orçamento e Gestão, da Saúde e da Educação.
 § 1º A contratação de professor substituto de que trata o inciso IV do caput poderá ocorrer para suprir a falta de professor efetivo em razão de:
 I - vacância do cargo;
 II - afastamento ou licença, na forma do regulamento; ou
