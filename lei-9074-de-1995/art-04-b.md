@@ -1,0 +1,1 @@
+Art. 4º-B. As concessionárias de distribuição de energia elétrica sujeitas a controle societário comum que, reunidas, atendam a critérios de racionalidade operacional e econômica, conforme regulamento, poderão solicitar o reagrupamento das áreas de concessão com a unificação do termo contratual.
