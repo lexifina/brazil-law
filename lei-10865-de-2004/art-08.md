@@ -4,7 +4,7 @@ II - 7,6% (sete inteiros e seis décimos por cento), para a COFINS-Importação.
 § 1º As alíquotas, no caso de importação de produtos farmacêuticos, classificados nas posições 30.01, 30.03, exceto no código 3003.90.56, 30.04, exceto no código 3004.90.46, nos itens 3002.10.1, 3002.10.2, 3002.10.3, 3002.20.1, 3002.20.2, 3006.30.1 e 3006.30.2 e nos códigos 3002.90.20, 3002.90.92, 3002.90.99, 3005.10.10, 3006.60.00, são de:
 I - 2,1% (dois inteiros e um décimo por cento), para o PIS/PASEP-Importação; e
 II - 9,9% (nove inteiros e nove décimos por cento), para a COFINS-Importação.
-§ 2º As alíquotas, no caso de importação de produtos de perfumaria, de toucador ou de higiene pessoal, classificados nas posições 3303.00 a 33.07, exceto na posição 33.06, e nos códigos 3401.11.90, exceto 3401.11.90 Ex 01, 3401.20.10 e 9603.21.00, são de:
+§ 2º As alíquotas, no caso de importação de produtos de perfumaria, de toucador ou de higiene pessoal, classificados nas posições 3303.00 a 33.07, exceto na posição 33.06; e nos códigos 3401.11.90, exceto 3401.11.90 Ex 01; 3401.20.10; e 9603.21.00; são de:
 I - 2,2% (dois inteiros e dois décimos por cento), para o PIS/PASEP-Importação; e
 II - 10,3% (dez inteiros e três décimos por cento), para a COFINS-Importação.
 § 3º Na importação de máquinas e veículos, classificados nos códigos 84.29, 8432.40.00, 8432.80.00, 8433.20, 8433.30.00, 8433.40.00, 8433.5, 87.01, 87.02, 87.03, 87.04, 87.05 e 87.06, da Nomenclatura Comum do Mercosul - NCM, as alíquotas são de:
