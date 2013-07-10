@@ -1,0 +1,1 @@
+Art. 3º-B. Fica caracterizada a exclusão de responsabilidade do empreendedor, no caso de atraso na emissão do ato de outorga pela administração pública em relação à data prevista no edital de licitação de que tratam os incisos II e III do § 5º do art. 2º e o art. 3º-A, desde que cumpridos todos os prazos de responsabilidade do empreendedor.
