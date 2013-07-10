@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1372, de 9 de julho de 2013
+Altera a Instrução Normativa RFB nº 800, de 27 de dezembro de 2007, que dispõe sobre o controle aduaneiro informatizado da movimentação de embarcações, cargas e unidades de carga nos portos alfandegados.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 42 e 54 do Decreto nº 6.759, de 5 de fevereiro de 2009, e no art. 64 da Lei nº 10.833, de 29 de dezembro de 2003, resolve:
