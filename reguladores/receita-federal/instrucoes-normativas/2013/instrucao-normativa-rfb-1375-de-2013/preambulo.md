@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1375, de 11 de julho de 2013
+Dispõe sobre a aplicação do regime aduaneiro especial de admissão temporária com suspensão total do pagamento de tributos para importação de bens destinados ao evento religioso Jornada Mundial da Juventude 2013.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto nos arts. 353 a 372 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
