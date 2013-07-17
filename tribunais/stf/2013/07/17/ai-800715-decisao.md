@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal Regional Federal da 4º Região ementado nos seguintes termos:
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. REAJUSTE DE 28,86%. OBRIGAÇÃO DE PAGAR. COMPENSAÇÕES. PORTARIA MARE N. 2.179/98. INAPLICABILIDADE. HONORÁRIOS ADVOCATÍRCIOS. PREQUESTIONAMENTO.
+    1. Para fins de compensação em relação aos percentuais já deferidos a título de reajustes de 28,86% decorrente das Leis 8.622 e 8.627, ambas de 1993, deve-se aferir o que foi concretamente percebido pelo instituidor da pensão, sendo inaplicáveis os índices indicados na Portaria MARE n. 2.179/98, eis que calcada em bases equivocadas.
+    2. A jurisprudência desta Turma tem se orientado no sentido de que, havendo regular título executivo judicial em favor do servidor, não há por que obrigá-lo a se submeter à discricionariedade da Administração, que estabeleceu cronograma administrativo de pagamento a dilatado prazo.
+    3. A Súmula n. 345 do STJ, publicada em 28.11.2007, estabelece que são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas.
+    4. Na linha da jurisprudência desta Turma, a verba honorária relativa à ação de embargos deve ser fixada no percentual de 10% do valor da ação, arcando cada parte na proporção em que decaiu do pedido.
+    5. Apelo da União desprovido. Apelo da embargada parcialmente provido”. (fl. 188)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação aos arts. 5º, XXXV, XXXVI e LV; 93, IX; e 97 do texto constitucional.
+    A recorrente aduz, preliminarmente, a deficiência de fundamentação do acórdão recorrido.
+    No mérito, alega que o Tribunal de origem, ao afastar a aplicação da MP 1.704/98 ao caso em espécie, sem a devida declaração de inconstitucionalidade pelo órgão competente, violou o princípio constitucional da reserva de plenário.
+    Decido.
+    As razões recursais não merecem acolhida.
+    Com relação à alegada ofensa ao artigo, 93, IX, da Constituição Federal, observo que esta Corte já apreciou a matéria por meio do regime da repercussão geral, no julgamento do AI-QO-RG 791.292, de minha relatoria, DJe 13.8.2010. Nessa oportunidade, este Tribunal reconheceu a existência de repercussão geral do tema e reafirmou a jurisprudência desta Corte no sentido de que o referido artigo exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem estabelecer, todavia, o exame pormenorizado de cada uma das alegações ou provas.
+    Quanto ao mérito, verifico que o acórdão recorrido decidiu o feito com base na interpretação da legislação aplicável à espécie, razão pela qual não se aplica o princípio da reserva de plenário.
+    Isso porque a origem não efetuou controle de constitucionalidade da referida medida provisória, mas apenas assentou que o caso dos autos não se amolda à hipótese prevista no diploma legal, haja vista que o acordo administrativo não havia sido homologado judicialmente, não se aplicando o comando previsto no art. 7º da MP 2.169/01.
+    Como precedentes da Corte que ratificam essa orientação, registro o RE-AgR 572.497, Rel. Min. Eros Grau, Segunda Turma, DJe 28.11.2008; e o RE-AgR 585.401, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 1.2.2011, este com a seguinte ementa:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. TRIBUTO DECLARADO INCONSTITUCIONAL PELO STF. LEIS 9.032/1995 E 9.129/1995. COMPENSAÇÃO. LIMITES. INTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA INDIRETA. RESERVA DE PLENÁRIO. ALEGAÇÃO DE VIOLAÇÃO AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INEXISTÊNCIA. AGRAVO IMPROVIDO. I – O acórdão recorrido dirimiu a questão relativa aos limites da compensação de tributos declarados inconstitucionais pelo Supremo Tribunal Federal com base na interpretação da legislação infraconstitucional aplicável à espécie. Assim, a afronta à Constituição, se ocorrente, seria apenas indireta. Incabível, portanto, o recurso extraordinário. Precedentes. II – Não há que falar em violação ao art. 97 da CF, uma vez que o Tribunal a quo não declarou a inconstitucionalidade de norma nem afastou sua aplicabilidade com apoio em fundamentos extraídos da Constituição. Precedentes. III – Agravo regimental improvido”
+    Ante o exposto, nego seguimento ao agravo de instrumento (arts. 21, §1º, do RISTF e 557 do CPC).
+    Publique-se.
+    Brasília, 17 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
