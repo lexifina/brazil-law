@@ -68,14 +68,10 @@ CAPÍTULO III
 Fundos de Participação dos Estados e dos Municípios
 Seção I
 Constituição dos Fundos
-Seção II
-Critério de Distribuição do Fundo de Participação dos Estados
 Seção III
 Critério de Distribuição do Fundo de Participação dos Municípios
 Seção IV
 Cálculo e Pagamento das Quotas Estaduais e Municipais
-Seção V
-Comprovação da Aplicação das Quotas Estaduais e Municipais
 CAPÍTULO IV
 Impôsto sôbre Operações Relativas a Combustíveis, Lubrificantes, Energia Elétrica e Minerais do País
 LIVRO SEGUNDO
