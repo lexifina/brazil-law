@@ -37,3 +37,4 @@ f) tiver como fundamento a alegação de inconstitucionalidade de lei, exceto no
 § 15. Será aplicada multa isolada de 50% (cinquenta por cento) sobre o valor do crédito objeto de pedido de ressarcimento indeferido ou indevido.
 § 16. O percentual da multa de que trata o § 15 será de 100% (cem por cento) na hipótese de ressarcimento obtido com falsidade no pedido apresentado pela sujeito passivo.
 § 17. Aplica-se a multa prevista no § 15, também, sobre o valor do crédito objeto de declaração de compensação não homologada, salvo no caso de falsidade da declaração apresentada pela sujeito passivo.
+§ 18. No caso de apresentação de manifestação de inconformidade contra a não homologação da compensação, fica suspensa a exigibilidade da multa de ofício de que trata o § 17, ainda que não impugnada essa exigência, enquadrando-se no disposto no inciso III do art. 151 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional.

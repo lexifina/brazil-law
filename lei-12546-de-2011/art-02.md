@@ -22,3 +22,4 @@ II - ao do vencimento do prazo estabelecido para a efetivação da exportação.
 § 11. Do valor apurado referido no caput:
 I - 17,84% (dezessete inteiros e oitenta e quatro centésimos por cento) corresponderão a crédito da Contribuição para o PIS/Pasep; e
 II - 82,16% (oitenta e dois inteiros e dezesseis centésimos por cento) corresponderão a crédito da Cofins.
+§ 12. Não serão computados na apuração da base de cálculo da Contribuição para o PIS/Pasep e da Cofins os valores ressarcidos no âmbito do Reintegra.
