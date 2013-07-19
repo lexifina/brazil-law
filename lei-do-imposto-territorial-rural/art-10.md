@@ -6,7 +6,7 @@ b) culturas permanentes e temporárias;
 c) pastagens cultivadas e melhoradas;
 d) florestas plantadas;
 II - área tributável, a área total do imóvel, menos as áreas:
-a) de preservação permanente e de reserva legal, previstas na Lei nº 4.771, de 15 de setembro de 1965, com a redação dada pela Lei nº 7.803, de 18 de julho de 1989;
+a) de preservação permanente e de reserva legal, previstas na Lei nº 12.651, de 25 de maio de 2012;
 b) de interesse ecológico para a proteção dos ecossistemas, assim declaradas mediante ato do órgão competente, federal ou estadual, e que ampliem as restrições de uso previstas na alínea anterior;
 c) comprovadamente imprestáveis para qualquer exploração agrícola, pecuária, granjeira, aqüícola ou florestal, declaradas de interesse ecológico mediante ato do órgão competente, federal ou estadual;
 d) sob regime de servidão ambiental;
