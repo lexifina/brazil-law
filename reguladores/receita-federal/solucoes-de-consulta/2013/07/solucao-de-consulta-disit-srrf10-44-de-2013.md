@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF10 nº 44, de 10 de junho de 2013
+ASSUNTO: Simples Nacional EMENTA: PRESTAÇÃO DE SERVIÇO DE ACABAMENTO EM GESSO E ESTUQUE MEDIANTE EMPREITADA. TRIBUTAÇÃO NA FORMA DO ANEXO III. PRESTAÇÃO DE SERVIÇO DE ACABAMENTO EM GESSO E ESTUQUE MEDIANTE CESSÃO DE MÃO DE OBRA. VEDAÇÃO AO SIMPLES NACIONAL.
+ASSUNTO: Simples Nacional
+EMENTA: PRESTAÇÃO DE SERVIÇO DE ACABAMENTO EM GESSO E ESTUQUE MEDIANTE EMPREITADA. TRIBUTAÇÃO NA FORMA DO ANEXO III. PRESTAÇÃO DE SERVIÇO DE ACABAMENTO EM GESSO E ESTUQUE MEDIANTE CESSÃO DE MÃO DE OBRA. VEDAÇÃO AO SIMPLES NACIONAL.
+Desde que não haja nenhuma vedação à opção pelo Simples Nacional, a prestação de serviços de acabamento em gesso e estuque mediante empreitada deve ser tributada na forma do Anexo III da Lei Complementar nº 123, de 2006, com base no § 2º do art. 17 combinado com o § 5º-F do art. 18 da mesma Lei Complementar. A prestação de serviço de acabamento em gesso e estuque mediante cessão de mão de obra impede a opção pelo Simples Nacional ou a permanência nesse regime de tributação.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 12, de 2006, 3 arts. 17, caput, e § 2º e 18, §§ 5º-C, 5º-D e 5º-F; Instrução Normativa RFB nº 971, de 2009, art. 322, I e X, e Anexo VII.
