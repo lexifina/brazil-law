@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão do Tribunal de Justiça do Rio de Janeiro ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. DECISÃO QUE INDEFERIU TUTELA ANTECIPADA, AO ARGUMENTO DE QUE HÁ VEDAÇÃO NA LEI Nº 9.494/1997, QUE IMPEDE O DEFERIMENTO LIMINAR POSTULADO. NÃO SENDO DISCUTIDO AQUI RECLASSIFICAÇÃO OU EQUIPARAÇÃO DE SERVIDORES PÚBLICOS OU CONCESSÃO DE AUMENTO OU EXTENSÃO DE VANTAGENS, MAIS SIM MERO REAJUSTE DE PENSÃO, NÃO ESTÁ A MATÉRIA ABRANGIDA PELA PROIBIÇÃO LEGAL DA LEI Nº 9.494/1997, QUE VEDA A CONCESSÃO DA TUTELA ANTECIPADA PREVISTA NOS ARTS. 273 E 461, DO CÓDIGO DE PROCESSO CIVIL, NOS CASOS EM QUE CUIDA DO ART. 5º, DA LEI Nº 4.348/1964. PROVIMENTO DO RECURSO.” (fl. 1.069)
+    No recurso extraordinário, interposto com fundamento no art. 102, inciso III, alínea “a”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 40, § 8°; 51, IV e 52, XVIII; do Texto Constitucional.
+    Decido.
+    A irresignação não merece prosperar.
+    Esta Corte firmou entendimento segundo o qual não cabe recurso extraordinário contra acórdão que defere medida liminar (Súmula 735/STF).
+    No mesmo sentido, cito o RE n. 315.052, 1ª Turma, Rel. Min. Moreira Alves, DJ 28.6.2002, assim ementado:
+    “Recurso extraordinário. Seu não-cabimento.
+    - Esta Primeira Turma, ao julgar o RE 232.387, decidiu que não cabe recurso extraordinário contra acórdão que defere liminar por entender que ocorrem os requisitos do fumus boni iuris e do periculum in mora , porquanto o que o aresto afirmou, com referência ao primeiro desses requisitos, foi que os fundamentos jurídicos alegados (no caso, constitucionais) eram relevantes, e isso, evidentemente, não é manifestação conclusiva da procedência deles para ocorrer a hipótese de cabimento do recurso extraordinário pela letra a do inciso III do artigo 102 da Constituição, que exige, necessariamente, decisão que haja desrespeitado dispositivo constitucional, por negar-lhe vigência ou por tê-lo interpretado erroneamente ao aplicá-lo ou ao deixar de aplicá-lo.
+    - A mesma fundamentação serve para não se conhecer de recurso extraordinário contra acórdão que dá provimento a agravo de instrumento, para reformar, por entender, em última análise, que há verossimilhança - e não manifestação conclusiva de procedência - da alegação para a obtenção da tutela antecipada, indeferida por decisão interlocutória de primeira instância.
+    Recurso extraordinário não conhecido”.
+    Ainda que assim não fosse, verifico que o assunto versado na petição do recurso extraordinário já foi submetido à sistemática da repercussão geral, e é análogo ao dos temas 435 (cujo processo-paradigma é o AI 842.063, Rel. Min. Presidente, DJe 2.9.2011) e 566 (cujo processo-paradigma é o ARE 652.235, Rel. Min. Cezar Peluso, DJe 11.9.2012), assim ementados, respectivamente:
+    “RECURSO. Agravo de instrumento convertido em Extraordinário. Art. 1º-F da Lei 9.494/97. Aplicação. Ações ajuizadas antes de sua vigência. Repercussão geral reconhecida. Precedentes. Reafirmação da jurisprudência. Recurso provido. É compatível com a Constituição a aplicabilidade imediata do art. 1º-F da Lei 9.494/97, com alteração pela Medida Provisória nº 2.180-35/2001, ainda que em relação às ações ajuizadas antes de sua entrada em vigor”.
+    “SERVIDOR PÚBLICO ESTADUAL. Inativo. Proventos. Paridade com servidores ativos. Regime próprio de previdência. Questão infraconstitucional. Ausência de repercussão geral. Recurso extraordinário recusado. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto a análise de direito a paridade de rendimentos entre servidores públicos estaduais inativos e ativos, que possuem regime próprio de previdência, versa sobre matéria infraconstitucional”.
+    Ante o exposto, nego provimento ao recurso (arts. 21, § 1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 25 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
