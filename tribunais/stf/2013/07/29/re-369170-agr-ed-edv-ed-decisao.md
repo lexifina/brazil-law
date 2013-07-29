@@ -1,0 +1,26 @@
+DECISÃO
+EMBARGOS DECLARATÓRIOS – ESCLARECIMENTOS.
+    1. Por meio da decisão de folhas 442 e 443, neguei seguimento aos embargos de divergência, consignando:
+EMBARGOS DE DIVERGÊNCIA – PRECEDENTE DO PLENÁRIO – NEGATIVA DE SEGUIMENTO.
+    1. A Segunda Turma negou acolhida a pedido formulado em agravo, ante os seguintes fundamentos (folha 362):
+    O recurso não merece ser provido.
+    2. A jurisprudência do Supremo Tribunal Federal fixou-se no sentido de que “a discussão acerca da correção monetária dos créditos escriturais do IPI possui natureza infraconstitucional, a cujo exame não se presta o recurso extraordinário” [RE n. 496.757-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 19.9.08, e RE n. 370.854-AgR, Relator o Ministro Marco Aurélio, DJe de 20.3.09].
+    A União, nos embargos de divergência de folha 389 a 399, defende a natureza constitucional da controvérsia e a não-incidência de correção monetária sobre crédito escritural, ante a falta de previsão legal. Evoca precedente do Plenário, buscando demonstrar o dissenso jurisprudencial.
+    2. Conquanto preenchidos os pressupostos de recorribilidade, o Pleno já pacificou o entendimento quanto ao tema versado neste processo. Ao julgar o Recurso Extraordinário nº 213.583-EDv/RS, assentou a inviabilidade de correção monetária dos créditos escriturais. Eis como ficou elucidada a matéria:
+    RECURSO. Embargos de divergência. Inadmissibilidade. Tributo. ICMS. Correção monetária de créditos escriturais. Não incidência. Recurso extraordinário provido. Violação ao princípio da legalidade. Matéria constitucional não prequestionada. Acórdão que, ademais, reflete a jurisprudência da Corte. Recurso não conhecido. Aplicação do art. 332 do RISTF. Não se conhece de embargos de divergência que argúem matéria constitucional não prequestionada e impugnam acórdão proferido de acordo com jurisprudência assentada do Supremo. (RE 213583 EDv, Relator: Ministro Cezar Peluso, Tribunal Pleno, julgado em 17 de março de 2008).
+    Os embargos encontram óbice no artigo 332 do Regimento Interno do Supremo:
+    Art. 332. Não cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada, salvo o disposto no art. 103.
+    3. Ante o quadro, ressalvado entendimento pessoal, nego seguimento a estes embargos.
+    4. Publiquem.
+    A União, nos declaratórios de folha 446 a 449, sustenta a existência de contradição na decisão embargada, porquanto, estando a tese defendida no recurso – não incidência da correção monetária sobre crédito escritural – em consonância com o precedente apontado no pronunciamento, cabível era o acolhimento do pedido formulado nos embargos de divergência.
+    A contribuinte, nas contrarrazões de folha 460, alega o caráter procrastinatório do recurso.
+    2. Na interposição destes declaratórios, atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por Procurador da Fazenda Nacional, foi protocolada no prazo legal.
+    Muito embora entenda que, no acórdão impugnado mediante o extraordinário, a conclusão tenha sido adotada a partir de interpretação dada a norma de natureza constitucional, porquanto o deferimento da correção monetária assentou-se na necessidade de tratamento isonômico entre o contribuinte e o Fisco, os embargos de divergência não servem ao propósito de promover o rejulgamento da causa. Prestam-se a uniformizar ópticas conflitantes adotadas pelos órgãos fracionários, relativas a questões jurídicas idênticas, de modo a garantir a coerência do Órgão maior – no caso, o Supremo – perante os jurisdicionados.
+    Observem que a negativa de seguimento ao extraordinário implicou a preservação do acórdão do Tribunal Regional Federal da 4ª Região, cuja premissa fática consignada, de que houve resistência do Fisco, conduziu a conclusão consonante com a jusrisprudência predominante no Supremo. Entre outros precedentes, destaco:
+    ICMS: direito de crédito do imposto pago na aquisição de bens para o ativo fixo, com correção monetária: embargos de divergência: não conhecimento: não aplicação ao caso da jurisprudência invocada pelo embargante. 1. É assente a jurisprudência do Supremo Tribunal que, em se tratando de regular lançamento de crédito tributário em decorrência de recolhimento de ICMS, não haverá incidência de correção monetária no momento da compensação com o tributo devido na saída da mercadoria do estabelecimento. Precedentes. 2. O caso, contudo, é de crédito tributário - reconhecido pelo acórdão embargado e não contestado pelo embargante -, cuja escrituração não ocorrera por óbice imposto pelo Estado, hipótese em que é devida a correção monetária e não se aplica a jurisprudência citada, cujo pressuposto é a regularidade da escrituração. Precedente: RE 282.120, Maurício Corrêa, RTJ 184/332 (RE 200379 ED-ED-EDv, Relator: Ministro Sepúlveda Pertence, Tribunal Pleno, julgado em 15 de fevereiro de2006).
+    Não havendo divergência jurisprudencial a ser enfrentada, descabe potencializar a função processual dos embargos de divergência para promover o rejulgamento da causa.
+    3. Ante o exposto, conheço dos embargos de declaração e os provejo para prestar os esclarecimentos acima.
+    4. Publiquem.
+Brasília, 29 de julho de 2013.
+Ministro MARCO AURÉLIO
+Relator
