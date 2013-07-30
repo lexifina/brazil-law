@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo de instrumento interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão ementado nos seguintes termos:
+    “AÇÃO CIVIL PÚBLICA – MUNICÍPIO DE BRUMADINHO – LEI MUNICIPAL Nº 1.507/06 – GRATUIDADE DE TRANSPORTE COLETIVO AOS MAIORES DE 60 ANOS – CONSTITUCIONALIDADE RECONHECIDA PELA CORTE DE JUSTIÇA – ADEQUAÇÃO CONSTITUCIONAL – FONTE DE CUSTEIO – TARIFA – INEXISTÊNCIA DE OFENSA A ATO JURÍDICO PERFEITO OU A IRRETROATIVIDADE DE LEI – DIREITO DA CONCESSIONÁRIA AO EQUILÍBRIO FINANCEIRO DO CONTRATO – PEDIDO JULGADO PROCEDENTE -RECURSO IMPROVIDO.” (fl. 465)
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a”, “c” e “d” da Constituição Federal, aponta-se violação aos arts. 1º; 2º; 3º; 22, XI; 24, XIV; 30, I e V; 37, XXI; 61, § 1º, II, “b”; 102, § 2º; 125, § 3º; 175; 195; 203; 204; 227, § 2º; 230, § 2º; 244, § 1º, I do texto constitucional.
+    O recorrente sustenta que a gratuidade do transporte coletivo dependeria da prévia indicação da fonte de custeio, que a decisão gera ofensa à garantia constitucional ao equilíbrio econômico-financeiro do contrato, além disso, que haveria violação ao princípio da separação dos poderes na medida em que o Poder Legislativo estaria interferindo na execução dos serviços públicos concedidos. Alega ainda a inexistência de previsão constitucional de gratuidade para os deficientes físicos e a falta de competência do município para legislar sobre transporte coletivo.
+    Decido.
+    Verifico que as discussões concernentes à indicação da fonte de custeio e do equilíbrio econômico-financeiro do contrato requerem análise dos elementos informativos dos autos, procedimento incabível de ser adotado validamente no recurso extraordinário, conforme dispõe a Súmula 279 desta Corte.
+    O reexame do acórdão impugnado demandaria, ainda, a interpretação da legislação infraconstitucional aplicável à espécie (Lei municipal n. 1.342/03). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula 280 do Supremo Tribunal Federal..
+    Quanto à competência municipal para legislar sobre a matéria, a decisão está de acordo com a jurisprudência desta Corte, a saber:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. 1. GRATUIDADE NO TRANSPORTE COLETIVO PARA OS APOSENTADOS E OS PENSIONISTAS RESIDENTES EM RONDONÓPOLIS/MT. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR SOBRE A MATÉRIA. PRECEDENTES. 2. ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO NO CONTRATO DE CONCESSÃO CELEBRADO PELAS PARTES. IMPOSSIBILIDADE DE INTERPRETAÇÃO DA LEI LOCAL E DO REEXAME DO CONJUNTO PROBATÓRIO CONSTANTE DOS AUTOS. PRECEDENTE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. RECURSO AO QUAL SE NEGA SEGUIMENTO. (RE 492140/MT, Relª. Minª. Carmen Lúcia, DJe 12/02/2010)
+    Ante o exposto, nego seguimento ao recurso ((arts. 21, §1º, do RISTF e 557, caput, do CPC).
+    Publique-se.
+    Brasília, 30 de julho de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
