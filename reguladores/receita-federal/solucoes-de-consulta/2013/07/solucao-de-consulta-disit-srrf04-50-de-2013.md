@@ -1,0 +1,7 @@
+Solução de Consulta Disit/SRRF04 nº 50, de 4 de julho de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: RETENÇÃO. BASE DE CÁLCULO. SERVIÇOS. DEDUÇÃO DE MATERIAIS E EQUIPAMENTOS.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: RETENÇÃO. BASE DE CÁLCULO. SERVIÇOS. DEDUÇÃO DE MATERIAIS E EQUIPAMENTOS. Na prestação de serviço com fornecimento de material e equipamento, é possível deduzir esses valores da base de cálculo da retenção da Contribuição Previdenciária, desde que haja previsão de fornecimento e discriminação desses valores em contrato ou em planilha ou documento que o integre, a qual se fará segundo os seguintes critérios:
+(i) Caso os valores referentes a material e equipamento estejam definidos em contrato, as notas fiscais deverão expressar o que foi pactuado, não se aplicando o limite de 50%, vez que baseados em valores reais, os quais poderão ser superiores ou inferiores a 50%, respeitados os valores de aquisição ou locação, nos moldes do § 1° do art. 121 da IN RFB nº 971, de 2009, com alterações. E, para respaldo de tal procedimento, a documentação relativa ao material ou equipamento deve ficar de posse da contratada para futura fiscalização.
+(ii) Caso o contrato não discrimine os valores, a nota fiscal poderá fazê-lo, mas deverá observar o limite de 50% como base de cálculo da retenção, sem prejuízo de se observar os valores de aquisição ou locação.
+DISPOSITIVOS LEGAIS: Instrução Normativa RFB nº 971, de 2009, com alterações, arts. 121 a 124.
