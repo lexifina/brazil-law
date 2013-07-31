@@ -1,0 +1,23 @@
+Trata-se de reclamação, com pedido de medida liminar, ajuizada pela Universidade Federal do Rio de Janeiro – UFRJ, contra decisão proferida pelo Juízo da 25ª Vara do Trabalho do Rio de Janeiro, que, ao impor solidariamente multa pessoal ao Procurador Federal que atuou em defesa da autarquia reclamante nos autos do Processo 0016400-46.1992.5.01.0025, teria desrespeitado a autoridade do quanto decidido por esta Corte na ADI 2.652/DF, Rel. Min. Maurício Corrêa.
+    A reclamante narra que, no curso de execução de reclamação trabalhista, apresentou exceção de pré-executividade sustentando “a inexigibilidade do título com base nos artigos 884, § 5º, da CLT e parágrafo único do artigo 741 do CPC”.
+    Relata que a autoridade ora reclamada, além de não examinar as razões apresentadas na referida peça processual, aplicou, por entender afrontada a autoridade da coisa julgada, “multa por litigância de má-fé ao ente público, bem como sancionou solidariamente o Procurador oficiante na petição que apresentou os esclarecimentos a respeito do teor da peça em que se apresentou a inexigibilidade do título judicial”. Noticia que o advogado público multado foi notificado em 19/7/2013.
+    Sustenta que os procuradores federais estão inseridos na categoria de advogados públicos, tendo esta Corte, por sua vez, no julgamento da referida ADI 2.652/DF, determinado a aplicação da ressalva do parágrafo único do art. 14 do CPC a todos os advogados indistintamente, inclusive aos advogados públicos.
+    Pugna, assim, pelo deferimento da medida liminar, a fim de suspender a aplicação de multa a advogado público imposta pela decisão ora reclamada.
+    No mérito, requer seja julgada procedente a reclamação, para cassar o referido decisum, “reconhecendo-se a impossibilidade de aplicação da penalidade em questão, com o afastamento definitivo da citada multa aplicada ao representante judicial da UFRJ”.
+    É o relatório necessário.
+    Bem examinados os autos, verifico ser caso de deferimento do pleito de liminar.
+    Com efeito, o Plenário do Supremo Tribunal Federal, no julgamento de mérito da Rcl 5.133/MG e da Rcl. 7.181/CE, ambas de relatoria da Min. Cármen Lúcia, analisou a controvérsia deduzida nos autos, consoante a ementa do primeiro precedente citado, a seguir transcrita:
+    “RECLAMAÇÃO. PROCURADOR FEDERAL. MULTA PESSOAL. SANÇÃO DISCIPLINAR. DESCUMPRIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE N. 2.652/DF.
+    1. Os procuradores federais estão incluídos na ressalva do parágrafo único do art. 14 do Código de Processo Civil, não sendo possível, assim, fixar-lhes multa em razão de descumprimento do dever disposto no art. 14, inc. V, do Código de Processo Civil.
+    2. Sem discutir o acerto ou desacerto da condenação por litigância de má-fé - prevista no art. 17, inc. V, do Código de Processo Civil -, imposta pela autoridade reclamada, tem-se que a condenação pessoal do Procurador do Instituto Nacional do Seguro Social ao pagamento de multa processual é inadequada porque, no caso vertente, ele não figura como parte ou interveniente na Ação”.
+    À ocasião, a Relatora, Ministra Cármen Lúcia, observou que:
+    “Sem discutir o acerto ou desacerto da condenação por litigância de má-fé - prevista no art. 17, inc. V, do Código de Processo Civil -, imposta pela autoridade reclamada, cumpre esclarecer que a condenação pessoal do Procurador do Instituto Nacional do Seguro Social ao pagamento de multa processual é inadequada porque, no caso vertente, ele não figura como parte ou interveniente na Ação n. 2006.38.00.744462-0.
+    A despeito de terem sido apontados como fundamento legal para a condenação do Procurador os arts. 17, inc. V, e 18 do Código de Processo Civil, está patente a aplicação do art. 14, inc. V e parágrafo único, do Código de Processo Civil, de forma transversa, reflexa e contrária ao que decidido na ação-paradigma” (grifos meus).
+    Acrescento, por oportuno, outros julgados no âmbito desta Corte sobre questão idêntica à dos autos: Rcl 14.875/MG e Rcl 14.880/MG, ambas de relatoria da Min. Rosa Weber, e Rcl 10.023/RN e Rcl 14.588/SP, ambas de relatoria do Min. Dias Toffoli.
+    Isso posto, defiro o pedido de liminar para suspender os efeitos da decisão judicial ora impugnada, proferida nos autos do Processo 0016400-46.1992.5.01.0025, em tramitação no Juízo da 25ª Vara do Trabalho do Rio de Janeiro, na parte em que impõe multa pessoal ao Procurador Federal atuante no referido feito.
+    Comunique-se, requisitando informações.
+    Após, ouça-se a Procuradoria Geral da República.
+    Publique-se.
+    Brasília, 31 de julho de 2013.
+Ministro RICARDO LEWANDOWSKI
+Presidente em exercício
