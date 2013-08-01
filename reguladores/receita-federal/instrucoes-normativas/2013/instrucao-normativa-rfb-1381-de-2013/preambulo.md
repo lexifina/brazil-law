@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1381, de 31 de julho de 2013
+Dispõe sobre procedimentos simplificados para o despacho aduaneiro de importação e exportação de petróleo bruto, gás natural, seus derivados e biocombustíveis, nos casos em que especifica.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no caput do art. 52 do Decreto-Lei nº 37, de 18 de novembro de 1966, e nos arts. 578, 579 e 595 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
