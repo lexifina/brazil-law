@@ -1,0 +1,12 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “EMENTA: REMESSA NECESSÁRIA COM APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. GRATIFICAÇÃO DOS DELEGADOS DE POLÍCIA – RUBRICA 23. APELO CONHECIDO E IMPROVIDO. REMESSA CONHECIDA E, POR NÃO VISLUMBRAR NENHUM VÍCIO, MANTIDA INTEGRALMENTE A SENTENÇA”.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se violação aos arts. 2º, 37, XIV, e 40, § 2º da mesma Carta.
+    A pretensão não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessária seria a análise de normas infraconstitucionais locais (Leis Complementares Estaduais 3.400/1981 e 57/1994), o que atrai a incidência da Súmula 280 do STF. Nesse sentido, destaco o julgamento do ARE 682.281-ED/ES, Rel. Min. Cármen Lúcia, cuja ementa transcrevo a seguir:
+    “EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. ADMINISTRATIVO. DELEGADO DE POLÍCIA. INCORPORAÇÃO DE GRATIFICAÇÃO DE CHEFIA. 1. Admissibilidade de recurso de competência de Tribunal diverso: Inexistência de repercussão geral. Matéria infraconstitucional. 2. Análise de norma local. Incidência da Súmula n. 280 do Supremo Tribunal Federal. 3. Agravo regimental ao qual se nega provimento”.
+    Com a mesma orientação, indico, ainda, as seguintes decisões, entre outras: RE 658.121/DF, AI 852.630/ES e AI 809.617-AgR/BA, Rel. Min. Cármen Lúcia; AI 852.619-AgR/ES e AI 840.135/ES, Rel. Min. Luiz Fux; RE 599.044-AgR/PE, Rel. Min. Ayres Britto; AI 752.671-AgR/RS, Rel. Min. Ellen Gracie; ARE 710.045/ES, de minha relatoria.
+    Por fim, observa-se que o recorrente não demonstrou de que forma o acórdão recorrido teria julgado válida lei ou ato de governo local contestado em face da Constituição, de forma a ensejar o cabimento de recurso extraordinário com base na alínea c do art. 102, III, da CF. Assim, a deficiência na fundamentação do recurso não permite a exata compreensão da controvérsia. Inviável, portanto, o presente recurso, a teor da súmula 284 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 313.051/DF, Rel. Min. Maurício Corrêa; AI 532.651/MG, Rel. Min. Ellen Gracie; AI 519.396/SP, Rel. Min. Gilmar Mendes.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
