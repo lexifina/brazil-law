@@ -1,0 +1,18 @@
+Decisão:
+    1. Trata-se de habeas corpus, com pedido de medida cautelar, impetrado em favor de Fernando Barbado contra decisão proferida pela Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), do Superior Tribunal de Justiça, que, nos autos do HC 272.482/SP, indeferiu pedido de liminar.
+    Em suma, alega-se o seguinte: (a) o paciente foi preso preventivamente e denunciado pela suposta prática do crime tipificado no art. 35 da Lei de Drogas; (b) a decisão que decretou a prisão preventiva possui fundamentação inidônea, eis que desprovida dos requisitos autorizadores previstos no art. 312 do CPP; (c) a manutenção da cautelar revela uma situação mais gravosa do que uma eventual julgamento procedente da denúncia; (d) o art. 44 da Lei de Drogas é inconstitucional; (e) são favoráveis as condições pessoais do paciente; (f) a hipótese requer o afastamento do entendimento firmado na Súmula 691 do STF. Requer a concessão da medida liminar para que o paciente seja posto em liberdade.
+    2. De acordo com a Súmula 691 do STF, não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar, sob pena de indevida supressão de instância. A jurisprudência desta Corte admite seu abrandamento apenas quando a não concessão da liminar enseja a manutenção de flagrante constrangimento ilegal ou de situação manifestamente contrária à jurisprudência do STF (HC 115509 AgR/MG, 2ª T., Min. Gilmar Mendes, DJe de 13/11/2012; HC 112972/PA, 1ª T., Min. Dias Toffoli, DJe de 29/10/2012).
+    No caso, a decisão atacada possui o seguinte teor:
+          (…) a concessão de medida liminar demanda a demonstração concomitante do fumus boni iuris e do periculum in mora, requisitos autorizadores os quais entendo não estarem presentes na hipótese em testilha. Ademais, o acolhimento do pedido na forma como deduzido, não pode ser acolhido porque a sua concessão ensejaria indevida antecipação do próprio mérito do writ, o que competirá à douta Turma Julgadora em tempo oportuno.
+    Ante o exposto, indefiro a liminar.
+    O Tribunal de Justiça de São Paulo, por sua vez, registrou o seguinte:
+    (…) Inicialmente, conforme disposição do art. 312, última parte, do CPP, estão presentes os pressupostos da prisão processual, pois há nos autos relevantes indícios de autoria e prova da materialidade delitiva.
+    Com efeito, ao que parece, o paciente é integrante de grupo bastante organizado cuja principal atividade é o tráfico de drogas e, de acordo com a denúncia, o paciente era encarregado do transporte de drogas para outras cidades, além de, de acordo com a degravação de interceptação telefônica, ter frustrado a apreensão de drogas, avisando um de seus comparsas para não buscar os entorpecentes na rodoviária porque policiais estavam lá aguardando.
+    Tais circunstâncias indicam o seu envolvimento com a quadrilha, bem como a ocorrência da traficância, e denotam, em princípio, a periculosidade do paciente, cuja segregação provisória se faz necessária para a garantia da ordem pública, que se viu seriamente abalada com a conduta delituosa e com as drogas apreendidas. Além disso, a impetração não trouxe nenhum elemento que pudesse enfraquecer os fortes elementos justificantes da prisão processual do paciente.
+    Nesse contexto, portanto, não se mostra presente qualquer das situações aptas a afastar a aplicação da Súmula 691/STF, razão pela qual o presente habeas corpus não pode ser conhecido.
+    3. Diante do exposto, nego seguimento ao pedido de habeas corpus (RISTF, art. 21, § 1º). Arquive-se.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
