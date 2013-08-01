@@ -1,0 +1,28 @@
+Trata-se de recurso extraordinário interposto contra acórdão que manteve sentença que condenou a concessionária de energia elétrica recorrente ao pagamento de indenização por danos materiais provocados em aparelhos eletrônicos do recorrido em razão de forte descarga elétrica.
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se ofensa aos arts. 37, § 6º, e 175, da mesma Carta. Sustentou-se, em suma, a inexistência do nexo de causalidade entre a atividade da concessionária e os danos ocasionados nos equipamentos de propriedade do autor.
+    A pretensão recursal não merece acolhida.
+    O Tribunal de origem manteve os fundamentos da sentença, da qual transcrevo os seguintes os trechos:
+    “(...).
+    Assim, a controvérsia a ser dirimida diz respeito ao reconhecimento do direito de indenização por danos materiais e morais, em virtude da forte descarga elétrica, fato que, segundo o autor, foi a causa da queima de diversos aparelhos elétricos de sua casa.
+    Imperioso reconhecer que a EDEVP, pessoa jurídica de direito privado, sendo concessionária de serviço público no fornecimento de energia elétrica, submete-se às normas constitucionais, o que gera sua responsabilidade objetiva por prejuízos causados a terceiros, decorrentes da prestação do serviço. Portanto, não se exige a comprovação da culpa na conduta lesiva, mas apenas o dever de indenizar que nasce do nexo de causalidade entre a ação ou omissão e o dano (artigo 37, § 6º, c.c art. 175, ambos da Constituição Federal).
+    Para a configuração da responsabilidade civil, um dos elementos indispensáveis é a caracterização do dano, seja material ou imaterial. Com efeito, no presente caso, conforme consta dos autos há prova dos prejuízos materiais suportados pelo usuário.
+    Ademais, forçoso reconhecer que a rede elétrica oferece risco permanente à coletividade, de modo que é dever da prestadora do serviço administrar o seu fornecimento, para, assim, evitar riscos em potencial e impedir lesões a particulares.
+    Deste modo, caracterizado está o dever de indenização por dano material, pela distribuidora de energia, a qual tem o dever de prever os problemas decorrentes de descargas e evitar as suas consequências.
+    A jurisprudência do Excelso STF assentou que, ‘a responsabilidade civil das pessoas jurídicas de direito público e das pessoas jurídicas de direito privado prestadoras de serviço público, responsabilidade objetiva, com base no risco administrativo, ocorre diante dos seguintes requisitos: a) do dano; b) da ação administrativa; c) e desde que haja nexo causal entre o dano e a ação administrativa’ (RE 178.806-RJ - Min. CARLOS VELLOSO - 2ª Turma - DJU 30.06.96 - pág. 20.485).
+    Segundo a lição de HELY LOPES MEIRELLES:
+    ‘para obter a indenização basta que o lesado acione a Fazenda Pública e demonstre o nexo causal entre o fato lesivo (comissivo ou omissivo) e o dano, bem como o seu montante. Comprovados esses dois elementos, surge naturalmente e obrigação de indenizar’.
+    (...).
+    Logo, em face da responsabilidade objetiva da concessionária requerida, prescindível - para fins indenizatórios - a prova da sua culpa pelos estragos dos aparelhos, fato, aliás, incontroverso.
+    Entende-se que a responsabilidade a que se refere essa norma constitucional não é de natureza absoluta, de modo que, consoante doutrina e jurisprudência, permite-se a apreciação dos fatos que envolvem culpa.
+    Em vista da adoção da teoria do risco administrativo, as pessoas jurídicas de direito público e as de direito privado prestadoras de serviço público podem se eximir da responsabilidade se demonstrarem ausência do nexo causal, o que por certo não ocorreu no caso em exame.
+    Não obstante as considerações acima, a resolução normativa nº 61, de 29 de abril de 2004, editada pela Agência Nacional de Energia Elétrica - ANEEL - estabelece disposições relativas ao ressarcimento de danos elétricos em equipamentos elétricos, causados por perturbação ocorrida no sistema elétrico, prevendo em seu artigo 10 sobre a responsabilidade objetiva da concessionária, in verbis:
+    ‘Art. 10. A concessionária responde, independentemente da existência de culpa, pelos danos elétricos causados a equipamentos elétricos de consumidores, nos termos do caput do artigo 3º desta Resolução.’
+    Assim, a concessionária de energia elétrica deve indenizar o autor pelos danos materiais por ele suportados referentes aos aparelhos eletrônicos danificados, uma vez que evidente resta a relação de causalidade entre sua atividade e o evento danoso.
+    (...)” (fls. 118-122).
+    Assim, para dissentir da conclusão adotada pelo Tribunal de origem, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Nesse sentido, menciono as seguintes decisões, entre outras: AI 634.072-AgR/RJ, de minha relatoria; AI 642.351-AgR/SP, Rel. Min. Eros Grau; RE 516.836/DF, Rel. Min. Menezes Direito; AI 766.051-AgR/SP, Rel. Min. Gilmar Mendes e AI 666.378-AgR/PI, Rel. Min. Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental no agravo de instrumento. Responsabilidade objetiva do Estado. Indenização. Nexo causal. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu pela responsabilidade objetiva da Administração Pública e o consequente dever de indenizar com fundamento nos elementos fáticos-probatórios constantes dos autos. 2. Inadmissível em recurso extraordinário o reexame de fatos e provas. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido”.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
