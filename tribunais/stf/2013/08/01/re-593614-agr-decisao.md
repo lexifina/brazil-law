@@ -1,0 +1,14 @@
+Decisão
+    Trata-se de agravo regimental interposto pela União contra decisão, mediante a qual julguei prejudicado o recurso extraordinário por ela interposto, considerando o provimento do seu recurso especial pelo Superior Tribunal de Justiça.
+    A agravante sustenta a não prejudicialidade do recurso extraordinário, considerando que o acórdão do Superior Tribunal de Justiça, ainda não transitou em julgado.
+    Exerço o juízo de retratação.
+    Reexaminando os autos, observo que o Superior Tribunal de Justiça deu provimento ao recurso especial da União reconhecendo: (i) inexistência de direito à indexação do balanço das empresas no ano base de 1990 pelo IPC, por ausência de previsão legal e, (ii) as deduções previstas na Lei nº 8.200/91 têm natureza de favor fiscal, pelo que são constitucionais as limitações que o art. 3º, I, da própria lei estabelece para o aproveitamento do benefício.
+    Disal Administradora de Consórcios S/C insurgiu-se, por meio de recurso extraordinário (fls. 340/369), tão somente quanto ao direito à indexação do seu balanço, no ano base de 1990, pelo IPC e não pela IRVF, sustentando a inconstitucionalidade das MPs nºs 89/90, 195/90, 200/90, 212/90, 237/90 e 237/90 e da Lei nº 8.088/90.
+    Portanto, a primeira conclusão que impõe é que o acórdão do Superior Tribunal de Justiça, na parte em que considerou constitucionais as limitações impostas no art. 3º, I, da Lei 8.200/91, transitou em julgado, restando, pois, prejudicado o recurso extraordinário interposto pela União contra o acórdão regional, quanto a esse ponto.
+    Por outro lado, verifico que nos autos do AI 728.419/SP, interposto por Disal Administradora de Consórcios S/C Ltda contra decisão da Presidência do Superior Tribunal de Justiça que não admitiu o recurso extraordinário, proferi decisão dando provimento ao agravo para admitir o recurso extraordinário de fl. 340/369, e determinei a devolução do AI ao Tribunal de origem para apensamento a estes autos de RE e aplicação do disposto no artigo 543-B do Código de Processo Civil, considerando que à controvérsia atinente a definição do correto índice a ser utilizado na correção monetária das demonstrações financeiras das pessoas jurídicas no ano-base de 1990, teve sua repercussão geral reconhecida no RE 242.689, Relator o Ministro Gilmar Mendes.
+    Ante o exposto, nos termos do artigo 21, inciso IX, do Regimento Interno do Supremo Tribunal Federal, julgo prejudicado o recurso extraordinário na parte em que julgou constitucionais as limitações da Lei nº 8.200/91 e, quanto à matéria que está com repercussão geral reconhecida no RE 242.689, determino a devolução dos autos ao Superior Tribunal de Justiça, para aplicação do art. 543-B do Código de Processo Civil. Fica prejudicado o agravo regimental de fls. 392/394.
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
