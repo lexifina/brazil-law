@@ -1,0 +1,18 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte que, em ação de revisão de proventos, acolheu o pedido da parte demandante, pois constatou a indevida redução dos vencimentos de professores municipais aposentados quando do advento da Lei Complementar Estadual 322/2006, que modificou o plano de carreira e a jornada de trabalho da categoria.
+     No recurso extraordinário, o recorrente aponta ofensa aos artigos 5º, II, e 37, caput, da Constituição Federal, asseverando, em síntese, que (a) não restou caracterizada a redução de vencimentos, mas o simples reenquadramento dos professores aposentados em novo plano de carreira e (b) a pretensão colocada na inicial, em vez de corrigir uma perda, implica, sim, um ilegítimo aumento dos proventos.
+    2. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    Por fim, o recorrente afirma que o Tribunal a quo equivocou-se, haja vista que não houve redução de vencimentos dos professores que se aposentaram em carreira que estabelecia 40 (quarenta) horas semanais de trabalho (LCE 159/1988), mas, tão-somente, a redução para 30 (trinta) horas semanais por certo período, e após a edição da LCE 322/2006, o retorno das 40 (quarenta) horas semanais de trabalho. Todavia, o acórdão recorrido afirma o seguinte:
+    Em verdade, a redução da carga horária suso referida importa necessária diminuição dos vencimentos da demandante, já que foi aposentada no cargo de Professor NE-1 Nível J, carga horária de 40h semanais, vindo a perceber o correspondente a carga horária de 20h semanais.
+    (…)
+    Vale destacar, por necessário, o documento de fl. (Planilha de cálculo contendo os valores devidos e os recebidos pela demandante do período de fev/2007 a fev/2012), do qual se extrai a discrepância entre o valor percebido pela servidora e o que realmente deveria receber.
+    O valor de R$ 1.326,28 (…) corresponde aos proventos do Professor Nível 1, Classe J, com carga horária de 20 (vinte) horas e o valor de R$ 2.792,56 (…), equivale à remuneração básica do Professor Nível 1, Classe J, com carga horária de 40 (quarenta) horas semanais
+    Assim, o acolhimento do recurso exige a reversão de todo esse minucioso juízo sobre os fatos e sobre as conseqüências das normas locais que redefiniram a carreira de magistério, o que não é cabível no âmbito do recurso extraordinário, conforme estabelecem as Súmulas 279 (Para simples reexame de prova não cabe recurso extraordinário) e 280/STF (Por ofensa a direito local não cabe recurso extraordinário).
+    Nesse sentido:
+    EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. SERVIDOR PÚBLICO. REENQUADRAMENTO. DECESSO REMUNERATÓRIO. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 732599 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe 14-06-2013)
+    3. Diante do exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
