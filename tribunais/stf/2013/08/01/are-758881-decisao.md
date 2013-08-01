@@ -1,0 +1,37 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RESPONSABILIDADE CIVIL. TRANSFERÊNCIA DE VEÍCULO. DANO MORAL. ALEGADA CONTRARIEDADE AO ART. 5º, INC. XXXVI, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO: SÚMULAS N. 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. ALEGADA CONTRARIEDADE AO PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de São Paulo:
+    “Passo a proferir o voto.
+    Os documentos dos autos demonstram a falha no CPF do autor na comunicação eletrônica de venda de responsabilidade da recorrente, razão pela qual a sentença deve ser mantida por seus próprios fundamentos.
+    A indenização restou bem reconhecida e fixada com moderação e de acordo com o caso concreto, não merecendo reparos.
+    Quanto à multa, basta o cumprimento da obrigação para que não incida, uma vez que é da essência da multa cominatória obrigar o cumprimento da ordem judicial.
+    Ante o exposto, nego provimento ao recurso” (fls. 84-85).
+    2. No recurso extraordinário, o Agravante afirma que o Tribunal a quo teria contrariado o art. 5º, incs. II, V, X e XXXVI, da Constituição da República.
+    Argumenta que
+    “a valoração das provas no caso em tela não observou a expressão jurídica a ser consignada aos fatos e provas existentes de acordo com a finalidade prevista pelo artigo 5º, X, CF.
+    (…)
+    O banco recorrente comprovou que encaminhou a solicitação correta (deixou os documentos inclusive nas mãos do próprio recorrido!!!) sendo o erro cometido por culpa de funcionários do DETRAN.
+    (…)
+    É certo que o recorrido não comprovou qualquer dano sofrido”(fls. 87-88).
+    3. O recurso extraordinário foi inadmitido pelo Tribunal de origem sob os seguintes fundamentos: a) incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal; e b) ausência de ofensa constitucional direta (fls. 100-103).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5 . Razão jurídica não assiste ao Agravante.
+    6. O art. 5º, inc. XXXVI, da Constituição Federal suscitado no recurso extraordinário, não foi objeto de debate e decisão prévios no Tribunal de origem, tampouco foram opostos embargos de declaração com a finalidade de comprovar ter havido, no momento processual próprio, o prequestionamento. Incidem na espécie vertente as Súmulas n. 282 e 356 do Supremo Tribunal Federal:
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. A matéria constitucional contida no recurso extraordinário não foi objeto de debate e exame prévios no Tribunal a quo. Tampouco foram opostos embargos de declaração, o que não viabiliza o extraordinário, por ausência do necessário prequestionamento” (AI 631.961-ED, de minha relatoria, Primeira Turma, DJe 15.5.2009).
+    7. Concluir de forma diversa do que decidido do que decidido pelas instâncias originárias demandaria o reexame do conjunto fático-probatório do processo e a análise da legislação infraconstitucional aplicada à espécie (Código de Trânsito Brasileiro e Código Civil), procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ADULTERAÇÃO DE PLACA. ALEGADA FALHA EM VISTORIA DE VEÍCULO AUTOMOTOR. QUESTÃO QUE DEMANDA ANÁLISE DE DISPOSITIVOS DE ÍNDOLE INFRACONSTITUCIONAL. AUSÊNCIA DO NECESSÁRIO PREQUESTIONAMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO JÁ CARREADO AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO” (ARE 721.793-AgR, Relator o Ministro Luiz Fux, Primeira Turma, DJ e 15.5.2013)
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Dano moral. Elementos da responsabilidade civil demonstrados na origem. Nexo causal. Discussão. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem concluiu, com base nos fatos e nas provas dos autos, que restaram devidamente demonstrados os pressupostos necessários à configuração da responsabilidade extracontratual do agravante. 2. Inadmissível, em recurso extraordinário, o reexame de fatos e provas dos autos. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido” (ARE 718.925-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 2.5.2013).
+    “EMBARGOS DE DECLARAÇÃO CONVERTIDOS EM AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTROVÉRSIA DECIDIDA COM BASE NO CÓDIGO CIVIL E NO CÓDIGO DE DEFESA DO CONSUMIDOR. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 1% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI 687.967-ED/SP, de minha relatoria, Primeira Turma, DJ 14.11.2008).
+    “AGRAVO REGIMENTAL. RESPONSABILIDADE CIVIL POR DANOS MORAIS E MATERIAIS. NEXO DE CAUSALIDADE. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. ENUNCIADO 279 DA SÚMULA/STF. Agravo regimental a que se nega provimento” (AI 702.268-AgR/SP, Relator o Ministro Joaquim Barbosa, Segunda Turma, DJ 1º.3.2011).
+    8. Este Supremo Tribunal assentou, ainda, que a alegação de contrariedade ao princípio da legalidade, se dependente do exame de legislação infraconstitucional (Código de Trânsito Brasileiro e Código Civil), inviabiliza o recurso extraordinário, pois eventual ofensa constitucional seria indireta. Incide na espécie a Súmula n. 636 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. EXECUÇÃO. JUROS DE MORA. PRINCÍPIO DA LEGALIDADE: SÚMULA N. 636 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE DA ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 679.154-AgR, de minha relatoria, Primeira Turma, DJe 14.6.2012).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    9. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+ Ministra CÁRMEN LÚCIA
+Relatora
