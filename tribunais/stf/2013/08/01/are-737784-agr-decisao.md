@@ -1,0 +1,9 @@
+Decisão: 1. Trata-se de agravo regimental contra decisão que negou provimento ao agravo pelos seguintes fundamentos: (a) qualquer juízo acerca das alegações da parte recorrente supõe, necessariamente, exame da legislação infraconstitucional (art. 11, §7º, da Lei 9.504/97), visto que eventual ofensa à Constituição seria apenas reflexa; (b) em relação ao art. 5º, XXXVI, da Constituição, é inviável a apreciação, neste recurso, de tal violação, que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa e (c) a aplicação do entendimento formado no julgamento do RE 637.485 demandaria exame da evolução da jurisprudência do TSE - incabível em recurso extraordinário diante da peremptória afirmação do acórdão recorrido no sentido de que se mantiveram as regras do pleito de 2010.
+    Alega a parte agravante, em síntese, que a decisão agravada deve ser reformada, uma vez que (a) não se trata de ofensa reflexa à Constituição, mas, sim, de ofensa direta aos dispositivos constitucionais apontados no recurso extraordinário; (b) a interpretação literal dada pelo TSE ao art. 11, § 7º, da Lei 9.504/97 viola frontalmente o dever de prestação de contas previsto nos arts. 17, III e 70, da Constituição Federal e (c) a oscilação da jurisprudência do TSE, quanto ao tema, causa insegurança jurídica no sistema eleitoral.
+    2. Em consulta ao sítio do Tribunal Superior Eleitoral na Internet, há informação de que o recorrido não foi eleito para o cargo pleiteado nas eleições municipais de 2012, o que esvazia a discussão sobre o registro da candidatura.
+    3. Presente tal circunstância, reconsidero a decisão agravada para julgar prejudicado o agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
