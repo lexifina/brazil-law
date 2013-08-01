@@ -1,0 +1,14 @@
+DECISÃO (Petições ns. 25.984/2013, 30.270/2013 e 31.871/2013)
+RECURSO EXTRAORDINÁRIO. PEDIDOS DE INGRESSO NO FEITO. ADMISSÃO DOS REQUERENTES NA CONDIÇÃO DE AMICI CURIAE.
+    1. Em 30.5.2013, a Associação dos Procuradores do Estado do Rio Grande do Sul – APERGS requereu o seu ingresso no feito na condição de amicus curiae.
+    Em seguida, em 20.6.2013, o Sindicato dos Funcionários Efetivos e Estáveis da Assembleia Legislativa do Estado do Rio Grande do Sul – SINFEEAL e, em 28.6.2013, o Sindicato dos Servidores do poder Legislativo Federal e do Tribunal de Contas da União – SINDILEGIS requereram igualmente seu ingresso no feito como amici curiae.
+    2. O tema objeto deste recurso extraordinário, cuja repercussão geral foi reconhecida em 20.3.2013, consiste em saber se redutor do teto remuneratório previsto no art. 37, inc. XI, da Constituição da República, alterado pela Emenda Constitucional n. 41/2003, aplica-se antes ou após as deduções previdenciárias e do imposto de renda.
+    A Associação dos Procuradores do Estado do Rio Grande do Sul – APERGS requer “a) seja deferido seu ingresso no feito, na condição de amicus curiae, para os fins de participar, em todos os atos e momentos processuais relacionados com o Recurso Extraordinário 675.978, sobretudo para os fins de oferecimento de memoriais e julgamento e de sustentação oral; b) seu cadastramento no feito, bem assim o de seu procurador firmatário, para fins de comunicação dos atos processuais futuros” (fl. 158-159).
+    O Sindicato dos Funcionários Efetivos e Estáveis da Assembleia Legislativa do Estado do Rio Grande do Sul – SINFEEAL requer “seja admitido seu ingresso no RE 675978, na condição de amicus curiae, para poder participar da tese sustentada quando do oferecimento da inicial, propugnando, desde já, pela vista do processo, pelo oferecimento oportuno de memoriais e de sustentação oral, bem como requerendo que seja counicado de todos os atos processuais a serem realizados no curso da ação” (195-196).
+    O Sindicato dos Servidores do poder Legislativo Federal e do Tribunal de Contas da União – SINDILEGIS requer, na condição de substituto processual da categoria representada, ”seu ingresso no presente Recurso Extraordinário na condição de amicus curiae” (fl. 232).
+    3. Os requerentes preenchem os requisitos do art. 543-A, § 6º, do Código de Processo Civil c/c art. 323, § 3º, do Regimento Interno do Supremo Tribunal Federal, razão pela qual defiro o pedido.
+    À Secretaria Judiciária para incluir neste processo, na condição de amici curiae, a Associação dos Procuradores do Estado do Rio Grande do Sul – APERGS, o Sindicato dos Funcionários Efetivos e Estáveis da Assembleia Legislativa do Estado do Rio Grande do Sul – SINFEEAL, e o Sindicato dos Servidores do poder Legislativo Federal e do Tribunal de Contas da União – SINDILEGIS.
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
