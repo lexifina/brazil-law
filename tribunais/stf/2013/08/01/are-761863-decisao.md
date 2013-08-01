@@ -1,0 +1,28 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR - GAP. 1) LEI ESTADUAL N. 7.154/1997. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. 2) IMPOSSIBILIDADE DO REEXAME DO CONJUNTO FÁTICO PROBATÓRIO: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça da Bahia:
+    “Apelação cível. Ação ordinária. Gratificação de atividade policial militar – GAP. Lei estadual n. 7.145/97. Preliminares de prescrição bienal e trienal rejeitadas. Reajuste da GAP na mesma época e percentual do reajuste do soldo. Previsão em lei estadual de eficácia plena e aplicabilidade imediata. Revogação do art. 7°, § 1°. Inocorrência. Leis estaduais que estabelecem reajuste para o soldo e integração da gratificação de atividade policial ao vencimento. Tem o policial militar direito a ter reajustada a GAP no mesmo percentual de reajuste estabelecido para o soldo, pois tal ajuste de vencimentos tem a finalidade de atualização monetária. Inexistente ofensa à matéria constitucional. Apelo improvido” (fl. 102).
+    2. O Agravante afirma que o Tribunal de origem teria contrariado os arts. 37, inc. X e XIII, e 97 da Constituição da República.
+    Sustenta que, “ao entender que a Lei 8.889/93 majorou o soldo dos servidores militares, e que por tal razão o mesmo reajuste deveria ser aplicado à GAP, afastou a incidência do art. 55, parágrafo único, da referida lei” (fl. 128).
+    Assevera que “não houve reajuste algum, nem acréscimo na remuneração, nem tampouco decréscimo. Na realidade, do montante tal dos vencimentos apenas deslocou-se parcela que se encontrava sobre a rubrica de GAP para um rubrica que melhor atendida à remuneração dos Policiais Militares: o soldo” (fl. 130).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de incidência nas Súmulas n. 279 e 280 do Supremo Tribunal Federal.
+    Examinados os elementos havidos no processo, DECIDO.
+    4. Razão jurídica não assiste ao Agravante.
+    5. A Desembargadora Relatora Silvia Carneiro Santos Zarif asseverou:
+    “Da simples leitura da norma legal que ela possui eficácia plena, apta, pois, à aplicabilidade imediata, sendo, por conseguinte, desnecessária a edição de outra norma específica para se proceder atualização da GAP. Desse modo, uma vez reajustado o soldo do servidor público militar, automaticamente o valor da gratificação será aumentado na mesma proporção. O dispositivo legal é nítido e claro, evidenciando o propósito de evitar desvalorização econômica da GAP sem que se antepusesse a criação de nova lei para esse fim.
+    A alegação de que não houve reajuste não deve prosperar, visto que os contracheques apresentados pelos Recorridos corroboram com o quanto afirmado na sua peça vestibular. Assim, confere-se que houve reajuste do soldo e uma diminuição do valor pago a título de GAP” (fl. 104).
+    O novo exame da decisão impugnada exigiria a análise prévia da legislação infraconstitucional local aplicada à espécie (Leis n. 7.145/1997 e 8.889/2003). Assim, a alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, o que inviabiliza o processamento do recurso extraordinário. Incide na espécie a Súmula n. 280 do Supremo Tribunal Federal:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR. LEI ESTADUAL N. 7.145/97. OFENSA CONSTITUCIONAL INDIRETA. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 708.713-AgR, de minha relatoria, Primeira Turma, DJe 6.2.2009).
+    E ainda: AI 834.727-AgR, Relatora a Ministra Rosa Weber, Primeira Turma, DJe 15.3.2012.
+    6. Ademais, concluir de forma diversa do que decidido demandaria o reexame do conjunto fático-probatório, procedimento que não pode ser validamente adotado em recurso extraordinário. Incide na espécie a Súmula n. 279 do Supremo Tribunal Federal:
+    “AGRAVO DE INSTRUMENTO - ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS - AUSÊNCIA DE PREQUESTIONAMENTO - OFENSA INDIRETA À CONSTITUIÇÃO - CONTENCIOSO DE MERA LEGALIDADE - REEXAME DE FATOS E PROVAS - IMPOSSIBILIDADE - SÚMULA 279/STF – RECURSO IMPROVIDO.
+    A ausência de efetiva apreciação do litígio constitucional, por parte do Tribunal de que emanou o acórdão impugnado, não autoriza - ante a falta de prequestionamento explícito da controvérsia jurídica - a utilização do recurso extraordinário. Precedentes. - A situação de ofensa meramente reflexa ao texto constitucional, quando ocorrente, não basta, só por si, para viabilizar o acesso à via recursal extraordinária. Precedentes. - Não cabe recurso extraordinário, quando interposto com o objetivo de discutir questões de fato ou de examinar matéria de caráter probatório. Precedentes” (AI 758.626-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 23.03.2011).
+    No mesmo sentido, a seguinte decisão monocrática transitada em julgado: RE 644.709, Relator o Ministro Luiz Fux, DJe 28.11.2011.
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
