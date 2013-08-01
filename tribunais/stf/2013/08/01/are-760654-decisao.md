@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão, cuja ementa segue transcrita:
+    “AÇÃO RESCISÓRIA. CONCURSO PÚBLICO. CORREÇÃO DE PROVA OBJETIVA. SUBSTITUIÇÃO DA BANCA EXAMINADORA PELO PODER JUDICIÁRIO. IMPOSSIBILIDADE.
+    1. Na esteira da jurisprudência do Supremo Tribunal Federal, é vedado ao Poder Judiciário substituir banca avaliadora de concurso público, seja para rever os critérios de correção das provas, seja para censurar o conteúdo das questões formuladas (AI 827.001 AgR/RJ, Rel. Ministro Joaquim Barbosa, Segunda Turma, DJe de 31/03/2011).
+    2. Hipótese em que não se verifica o intento de rescindir, mas de recorrer extemporaneamente do acórdão rescindendo.
+    3. Pedido rescisório indeferido”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 5º, LV, e 93, IX e X, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios da prestação jurisdicional e do devido processo legal, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. É certo, ainda, que não há contrariedade ao art. 93, IX, da Carta Magna, quando o acórdão recorrido encontra-se suficientemente fundamentado. Nesse sentido, menciono as seguintes decisões, entre outras: AI 663.125-AgR/PE, Rel. Min. Cármen Lúcia; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 634.217-AgR/GO, Rel. Min. Joaquim Barbosa; AI 764.042-AgR/MA, Rel. Min. Eros Grau; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 643.180-AgR/BA, Rel. Min. Gilmar Mendes; AI 787.991-AgR/DF, de minha relatoria.
+    Ressalte-se, por fim, que o recurso extraordinário interposto em processo de ação rescisória deve impugnar a fundamentação do acórdão nela proferido e não os fundamentos da decisão rescindenda. Inviável, portanto, o recurso extraordinário. Nesse sentido:
+    “Correção monetária de contas do FGTS. Ação rescisória: aplicação da Súmula 343. Recurso extraordinário: descabimento: incidência das Súmulas 282 e 356. 1. Firme a jurisprudência do STF no sentido de que o recurso extraordinário interposto em processo de ação rescisória há de voltar-se contra fundamentação do acórdão nela proferido e não a da decisão rescindenda. No caso, o acórdão recorrido decidiu questão prejudicial de inadmissibilidade da ação rescisória, enquanto o RE fundou-se em violação de dispositivo constitucional atinente só mérito da decisão rescindenda. 2. Agravo regimental: motivação da decisão agravada: necessidade de impugnação” (RE 408.409-AgR/PB, Rel. Min. Sepúlveda Pertence).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
