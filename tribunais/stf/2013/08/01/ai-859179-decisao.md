@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL – PROCESSUAL CIVIL – CIÊNCIA INEQUÍVOCA – AGRAVO RETIDO – SUSPEIÇÃO POR FORO ÍNTIMO – FUNDAMENTAÇÃO – ART. 93, INCISO IV DA CF/88 – PRIORIDADE DE TRAMITAÇÃO – ASSSISTÊNCIA JUDICIÁRIA GRATUITA – NULIDADE DA SENTENÇA POR NECESSIDADE DE QUEBRA DO SIGILO BANCÁRIO E FISCAL DA EMPRESA RECORRIDA – CIVIL – CONTRATO DE SEGURO – NATUREZA – DUPLICIDADE DE SEGUROS – PAGAMENTO RECUSADO LEGITIMAMENTE – INVERSÃO DOS ÔNUS SUCUMBENCIAIS”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação ao art. 5º, XXXV e LIV, da mesma Carta.
+    A pretensão recursal não merece acolhida. A jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios da prestação jurisdicional e do devido processo legal, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Ademais, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Código Civil), bem como no conjunto fático probatório constante dos autos. Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo juízo a quo, o que inviabiliza o extraordinário, além de incidir, na espécie, a Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
