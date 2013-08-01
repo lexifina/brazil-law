@@ -1,0 +1,20 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal Superior do Trabalho, assim ementado (fl. 219):
+    “RECURSO DE EMBARGOS INTERPOSTO APÓS A VIGÊNCIA DA LEI Nº 11.496/2007, QUE DEU NOVA REDAÇÃO AO ART. 894 DA CLT. INCOMPETÊNCIA DA JUSTIÇA DO TRABALHO
+    - A jurisprudência pacífica da Corte consagra que, se a fonte da obrigação decorreu do contrato de trabalho, insere-se no âmbito da competência desta Justiça Especializada conhecer e julgar a matéria, não se configurando a violação literal do artigo 114 da CF/88.
+    Recurso de Embargos conhecido por divergência e não provido.
+    PRESCRIÇÃO – Decisão embargada em perfeita harmonia com a jurisprudência pacificada na Súmula nº 327 do TST.
+    Recurso de Embargos não conhecido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, XXXV, XXXVI, LIV e LV; 7º, XXXIX, a; e 114, todos da Constituição.
+    A decisão agravada possui os seguintes fundamentos: (i) “não procede a alegação de ofensa ao art. 114 da Constituição Federal, como pretende o recorrente, a pretexto de que a relação jurídica seria de natureza previdenciária, e, assim, estaria afeta à Justiça comum”; (ii) “O Supremo Tribunal Federal tem decidido que prescrição, seja parcial ou total, está afeta à legislação ordinária, razão pela qual repudia a alegação de ofensa ao art. 7º, XXIX, da Constituição federal”; e (iii) “No tocante ao tema isenção e devolução das contribuições, o recurso não prospera, tendo em vista que a referida questão não foi objeto da decisão recorrida, motivo pelo qual, dado à falta de prequestionamento, a hipótese atrai a aplicação da Súmula nº 356 do STF”.
+    O Ministro Joaquim Barbosa, relator originário deste recurso, determinou o sobrestamento do feito até o advento de decisão do Tribunal no RE 586.543, em que reconhecida repercussão geral (fl. 276). Posteriormente, o relator originário foi por mim substituído (fl. 277).
+    O recurso não pode ser provido. Em primeiro lugar, o Plenário do Supremo Tribunal Federal reconheceu que a competência, na hipótese, é da Justiça comum (RE 586.453, Plenário, Rel.ª Min.ª Ellen Gracie, Rel. p/ o acórdão Min. Dias Toffolli). Entretanto, na mesma ocasião, tendo em vista a necessidade de se preservar a segurança jurídica, o Tribunal modulou os efeitos temporais da decisão, ressalvando os processos em que já tivesse havido decisão de mérito proferida até a data de julgamento do recurso extraordinário (20.02.2013). Nesses casos, foi mantida a competência da Justiça do Trabalho até a decisão final em eventual execução.
+    No caso, já houve sentença de mérito proferida em 21.02.2002 (fls. 57/64). Deve ser mantida, portanto, a competência da Justiça trabalhista.
+    Em segundo lugar, este Tribunal já assentou a inexistência de repercussão geral da controvérsia sobre a aplicação da prescrição total ou parcial em processo trabalhista, por se tratar de matéria infraconstitucional. Nessa sentido, veja-se a ementa do ARE 697.514, julgado sob a relatoria do Ministro Gilmar Mendes (Plenário Virtual):
+    “Trabalhista. 2. Prescrição aplicável, se total ou parcial. Controvérsia que se situa no âmbito da legislação infraconstitucional. Inexistência de repercussão geral.”
+    Por fim, no tocante ao tema “isenção e devolução das contribuições”, o recurso não pode ser conhecido, uma vez que a alegada violação não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos declaratórios para sanar eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF), fundamento, aliás, não atacado pelo recorrente em seu agravo.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília-DF, 1º de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
