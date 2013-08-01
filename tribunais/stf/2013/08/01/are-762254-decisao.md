@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça Militar do Estado do Rio de Janeiro, assim ementado (fl. 143):
+    “APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER PELO RITO ORDINÁRIO. CANDIDATO IMPEDIDO DE SE INSCREVER NO CURSO DE APERFEIÇOAMENTO DE SARGENTOS DO CORPO DE BOMBEIROS, EM RAZÃO DA INCLUSÃO DE SEU NOME NA RELAÇÃO DE SUB JUDICE. APESAR DE TER OCORRIDO A EXTINÇÃO DA PUNIBILIDADE. SENTENÇA DE IMPROCEDÊNCIA QUE SE MANTÉM. A MATRÍCULA NO CURSO DE APERFEIÇOAMENTO DE SARGENTOS (CAS) CONFIGURA-SE MERA EXPECTATIVA DE DIREITO E NÃO DIREITO ADQUIRIDO. RECORRENTE QUE NÃO LOGROU DEMONSTRAR OS DEMAIS REQUISITOS AUTORIZADORES DA PROMOÇÃO PRETENDIDA, DENTRE OS QUAIS A EXISTÊNCIA DE VAGA DISPONÍVEL, QUANDO DA CIÊNCIA PELA ADMINISTRAÇÃO DA EXTINÇÃO DA PUNIBILIDADE DO REQUERENTE. AUTOR-RECORRENTE NÃO APROVADO NO CURSO DE APERFEIÇOAMENTO DE SARGENTOS SEGUINTE (2007). DESPROVIMENTO DO RECURSO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 5º, II e XXXVI, da Constituição.
+    A decisão agravada negou seguimento ao recurso extraordinário sob o fundamento de que incide, na hipótese, a Súmula 279/STF.
+    O agravo não pode ser provido. De início, anoto que a alegada ofensa ao art. 5°, II, não foi apreciada pelo acórdão impugnado. Tampouco foram opostos embargos declaratórios para suprir eventual omissão. Nesse ponto, portanto, o recurso extraordinário carece de prequestionamento (Súmulas 282 e 356/STF).
+    O recurso tampouco deve ser conhecido quanto à alegação de ofensa ao art. 5º, XXXVI, da Carta. No caso, o acórdão recorrido afirmou que “o apelante não demonstrou a existência de vagas, ou seja, não comprovou que mesmo se não houvesse o impedimento relativo à listagem ‘sub judice’, o mesmo teria êxito em obter uma das vagas disponíveis”(fl. 145). Nota-se que não há questão de direito intertemporal a ser examinada. Com efeito, o recorrente pretende tão somente rever a conclusão do acórdão recorrido, o que dependeria de uma nova apreciação dos fatos e do material probatório constante nos autos, providência inviável, nesta sede, nos termos da Súmula 279/STF.
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1° de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
