@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto de acórdão do Tribunal Regional Federal da 2ª Região em demanda visando ao reconhecimento da legitimidade de acumulação de cargos públicos na área de saúde pela demandante. O Tribunal de origem julgou improcedente o pedido, entendendo, em suma, que (a) não há compatibilidade de horários e (b) a cumulação pretendida, por implicar jornadas excessivamente longas de trabalho, ocasionará prejuízo ao serviço público e à saúde da própria autora.
+    Os embargos de declaração foram desprovidos (fl. 181).
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos seguintes dispositivos constitucionais: (a) art. 37º, caput, uma vez que “há negação por parte da Administração pública ora Recorrida da possibilidade da acumulação de cargos em análise, argumentando que existe uma orientação “administrativa” de que existiria um limite de 60 (sessenta horas) semanais à acumulação de cargos públicos” (fl. 188); (b) art. 37º, XVI, c, asseverando, em síntese, que a parte recorrente “já comprovou a compatibilidade de horários dos 2 (dois) cargos públicos em análise”.
+    2. A recorrente defende, em suma, que é possível a acumulação dos cargos, pois há compatibilidade de horários. Assevera que pode cumprir ambas as jornadas sem qualquer prejuízo ao serviço. Todavia, o acórdão recorrido, em minucioso exame dos fatos da causa, reputou que a cumulação, na forma proposta, é inviável, pois os horários e as jornadas são inexeqüíveis sem perdas para o serviço e para a própria requerente. Assim, a discussão situa-se meramente em torno dos fatos, de modo que a reversão do julgado demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF (Para simples reexame de prova não cabe recurso extraordinário).
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
