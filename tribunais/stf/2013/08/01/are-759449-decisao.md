@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado da Turma Recursal dos Juizados Especiais da Comarca de São José do Rio Preto/SP:
+    “Trata-se de Recurso Inominado (fls. 77/79 ) interposto contra a r. sentença de fls. 72/74. Pretende o recorrente a reforma do julgado para não seja condenado em fornecer à Recorrida o medicamento de Nebido, com uso contínuo, por tempo indeterminado, e ainda com multa de um salário mínimo por dia de descumprimento já que a Recorrida não comprovou que esses são os únicos meios eficazes para seu tratamento, bem como, não estão no rol de insumos fornecidos pelo Estado. Requer seja afastada a multa diária. Transcurso in albis do prazo para contrarrazões (fl. 18V). Recurso tempestivo, dispensado de preparo: cabe o conhecimento.
+    Profere-se o voto. Sem razão o recorrente. A sentença fica mantida por seus próprios fundamentos, o que até dispensa acórdão (art. 46 da Lei 9.099/95, combinado com o artigo 27, Lei 12.153/09.
+    Posto isto, nega-se provimento do recurso, mantendo-se a r. sentença de 1º grau. Condena-se o Recorrente vencido a pagar as custas do processo e verba honorária de R$ 300,00, fixada por apreciação equitativa (artigo 27, Lei 12.153 combinado com o artigo 20, § 4º, do CPC e ainda artigo 55, caput, da Lei 9.099/95)” (fls. 85-86, grifos nossos).
+    2. Os Agravante afirmam que a Turma Recursal teria contrariado os arts. 7º e 133 da Constituição da República.
+    Sustenta que pelo “acórdão fixou os honorários advocatícios atentando-se o princípio da equidade, condenando-se a parte recorrida em R$ 300,00 (trezentos reais). No entender do causídico da parte recorrente, fixar honorários advocatícios no valor estabelecido no v. acórdão, viola dispositivos constitucionais sociais, pois neste país ninguém pode trabalhar por um valor inferior a 1 salário mínimo” (fl. 93).
+    3. O recurso extraordinário foi inadmitido sob o fundamento de ausência de ofensa constitucional direta (fls. 110-111).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste aos Agravantes.
+    6. A Turma Recursal fixou os honorários advocatícios à luz da legislação infraconstitucional aplicável à espécie (Lei n. 12.153/2009 e Código de Processo Civil), não ocorrendo ofensa constitucional direta, única a permitir o processamento do recurso extraordinário, nos termos do art. 102, inc. III, alínea a, da Constituição da República. Confira-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA ORIGEM: DISCUSSÃO SOBRE O PERCENTUAL E A FORMA DE INCIDÊNCIA. ANÁLISE DE NORMAS INFRACONSTITUCIONAIS. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 740.552-AgR, de minha relatoria, Segunda Turma, DJe 13.6.2013).
+    “RECURSO EXTRAORDINÁRIO – DELIMITAÇÃO. As razões do recurso extraordinário delimitam a matéria em relação à qual suscita-se o inconformismo. RECURSO EXTRAORDINÁRIO – MATÉRIA LEGAL. Inviável é pretender-se discutir - em sede extraordinária, a exigir transgressão à Carta da República - tema jurídico cuja regência mostra-se estritamente legal – honorários advocatícios. AGRAVO – ARTIGO 557, § 2º, DO CÓDIGO DE PROCESSO CIVIL – MULTA. Se o agravo é manifestamente infundado, impõe-se a aplicação da multa prevista no § 2º do artigo 557 do Código de Processo Civil, arcando a parte com o ônus decorrente da litigância de má-fé” (AI 447.935-AgR, Relator o Ministro Marco Aurélio, Primeira Turma, DJe 9.6.2011).
+    “Agravo regimental em agravo de instrumento. 2. Processual Civil. Critérios de fixação dos honorários advocatícios. Matéria infraconstitucional. Ofensa reflexa. 3. Violação ao princípio da legalidade. Enunciado 636 da Súmula do STF. Precedentes. 4. Agravo regimental a que se nega provimento” (AI 825.319-AgR, Relator o Ministro Gilmar Mendes, Segunda Turma, DJe 15.10.2012).
+    Nada há, pois, a prover quanto às alegações dos Agravantes.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. I, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
