@@ -1,0 +1,38 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Rose Mary Fernandes da Costa em face da 1ª Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Rio de Janeiro, cuja decisão teria negado aplicação à Súmula Vinculante nº 20.
+    Utilizo-me do relatório da decisão de 30/11/11, através da qual deferi a liminar:
+    “Na peça vestibular, a reclamante alega que:
+    a) na qualidade de pensionista de servidor público civil federal, ajuizou ação no Juizado Especial Federal para receber o valor referente à Gratificação de Desempenho Técnico-Administrativa – GDTA, conforme pontuação de servidor em atividade;
+    b) foi proferida decisão, por que se condenou o IBAMA ao pagamento da GDTA, observada a prescrição quinquenal, no correspondente a: fevereiro a maio de 2002 – 37,5 pontos; junho de 2002 a outubro de 2004 – 30 pontos; e maio de 200 a outubro de 2004 – 60 pontos;
+    c) opostos embargos declaratórios, deu-se ‘parcial provimento ao recurso para ‘adequar a pontuação à forma do RE 476279/DF, devendo a GDATA ser deferida aos inativos nos valores correspondentes a 37,5 (trinta e sete vírgula cinco) pontos no período de fevereiro a maio de 2002, 10 (dez) pontos de junho de 2002 a abril de 2004, 30 (trinta) pontos de maio a 15 de julho de 2004 e 60 (sessenta pontos) de 16 de julho de 2004 até que seja instituída nova disciplina para a aferição de avaliação de desempenho individual e institucional, observando-se a prescrição qüinqüenal, mantendo-se, no mais, a sentença recorrida.’’;
+    d) opostos novos aclaratórios, a fim de adequar a decisão ao teor da Súmula Vinculante nº 20, a pretensão não foi atendida, mantendo-se ‘um quarto período compreendido entre maio e 15 de julho de 2004 com pontuação de 30 (trinta) pontos (e não a devida correspondente a 60 pontos), conforme fixado pelo Supremo Tribunal Federal’;
+    e) ‘não tendo a decisão produzido efeitos de imutabilidade em razão da coisa julgada, perfeitamente cabível a oposição dos embargos de declaração de fls. 196/205, uma vez que em se tratando de Súmula Vinculante, ainda sendo cabível recursos na mesma relação jurídica processual, não pode haver julgamento diverso conteúdo obrigatória, por se tratar de matéria de ordem pública que pode ser argüida, nas instâncias ordinárias, a qualquer tempo e grau de jurisdição, para fazer incidir o entendimento pacificado pelo Supremo Tribunal Federal com efeitos vinculantes nos termos da Lei nº 11.417/2006’
+    f) requer seja deferida a liminar de forma a suspender os efeitos da decisão reclamada;
+    g) a reclamação deve ser julgada procedente para ‘cassar as decisões contrárias ao entendimento contido no enunciado da Súmula Vinculante nº 20 do STF e para declará-las nulas, determinando que outras sejam proferidas com a correta aplicação da referida súmula vinculante’.
+    A autora postula o benefício da justiça gratuita.”
+    Ainda que devidamente intimada, a Secretaria Judiciária certificou que, transcorrido o prazo em 10/2/12, autoridade reclamada não prestou as informações solicitadas.
+    A Procuradoria-Geral da República opinou pela perda do objeto da reclamação, em parecer assim ementado:
+    “RECLAMAÇÃO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE TÉCNICO-ADMINISTRATIVA – GDATA. SÚMULA VINCULANTE Nº 20. PARECER PELA PERDA DE OBJETO DA RECLAMAÇÃO.”
+    É o relatório.
+    Acolhendo o parecer ministerial, entendo que deve ser reconhecida a prejudicialidade da presente reclamação constitucional.
+    Em consulta ao sítio eletrônico da Justiça Federal do Rio de Janeiro, pelo processo nº 2007.51.51.078415-3/02, verifico que, em 9/1/12, o Juiz Paulo Alberto Jorge, em decisão no incidente de uniformização nacional proposto pela reclamante, proferiu a seguinte decisão:
+    “(...)
+    Portanto, INADMITO o incidente de uniformização nacional por se tratar de matéria já apreciada definitivamente pelo E. STF. Contudo, ressalto que deve ser aplicada a pontuação de acordo com o decidido pela Corte Suprema, qual seja, 37,5 pontos, no período de fevereiro a maio de 2002; de junho de 2002 a abril de 2004, a concessão se faça nos termos do art. 5º, II, da Lei 10.404/2002; e, no período de maio de 2004 até a conclusão dos efeitos do último ciclo de avaliação (art. 1º da Medida Provisória 198/2004, convertida na Lei 10.971/2004), a gratificação seja concedida aos inativos nos valores referentes a 60 pontos. Tendo em vista a existência de recurso extraordinário pendente de apreciação, remetam-se os autos à Presidência da 2ª Turma Recursal.” (grifei)
+     Tendo em vista que a reclamante também havia interposto recurso extraordinário, após a decisão do pedido de uniformização, foram os autos remetidos à Presidência da 2ª Turma Recursal e o Juiz Vladimir Santos Vitovsky, em 28/6/12, decidiu nos seguintes termos:
+    “Trata-se de recurso extraordinários interposto pela parte autora às fls. 210/235 e incidente de uniformização nacional, às fls.236/252, requerendo a retificação da pontuação atribuída à gratificação GDATA - ambos nos seguintes termos:
+    ‘No entanto, apesar de se fazer menção ao teor da Súmula Vinculante nº 20 do STF e aos precedentes do STF que embasaram a sua edição, aos embargos de declaração foi negado provimento por meio da decisão referendada da 1ª Turma Recursal da Seção Judiciária do Estado do Rio de Janeiro de fls. 206/208, deixando de retificar a pontuação equivocada fixada no acórdão de fls. 184/195.’
+    O pedido de uniformização foi inadmitido. Contudo, a decisão de fls. 259/260, ressalva que a pontuação a ser aplicada é aquela decidida pelo STF, ou seja a da Súmula nº 20, como requer a parte autora.
+    Assim, perde o objeto o recurso extraordinário interposto pela parte autora à fls. 210/235, uma vez que a Presidência da 1ª Turma já retratou a pontuação a ser atribuída quando da confecção dos cálculos de condenação do IBAMA.
+    Por outro lado, às fls. 263/270, a Fundação Instituto Brasileiro de Geografia e Estatística – IBGE interpôs agravo nos próprios autos contra a não admissão do recurso extraordinário.
+    Inicialmente o IBGE, não faz parte da relação processual e sim o INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NAT. RENOVAVEIS, em segundo lugar, não houve decisão de inadmissão com relação ao IBAMA, posto que não foi interposto recurso extraordinário pela referida autarquia. Destarte, não CONHEÇO do recurso de fls. 263/270.
+    Portanto, DECLARO A PERDA DE OBJETO do recurso interposto pela parte autora às fls. 210/235 e NÃO CONHEÇO do recurso interposto às fls. 263/270, por ilegitimidade passiva do IBGE.
+    Certifique-se o trânsito em julgado da decisão da Turma e do dispositivo da decisão de fls. 259/260, na parte referente à pontuação a ser atribuída à gratificação GDATA., e baixem os autos ao Juizado de origem para a execução do julgado.” (grifei)
+    Nos movimentos do processo não consta a interposição de qualquer recurso da decisão acima.
+    Uma vez que a pretensão deduzida na presente reclamação consiste em anular decisão do Juizado Especial Federal do Estado do Rio de Janeiro que contraria a Súmula Vinculante nº 20, e não mais subsistindo a decisão ora reclamada (ante a superveniência de despacho do Juiz Federal no exercício da Presidência da 1ª Turma Recursal no sentido de aplicar a pontuação da GDATA de acordo com o decidido por esta Suprema Corte), entendo que a reclamação perdeu supervenientemente seu objeto.
+    Ante o exposto, casso a liminar anteriormente deferida e julgo prejudicada a presente reclamação, por perda superveniente de objeto, nos termos do artigo 21, inciso IX, do RISTF.
+    Publique-se. Int..
+    Brasília, 1º de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
