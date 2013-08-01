@@ -1,0 +1,12 @@
+Decisão: 1. Trata-se de recurso extraordinário de acórdão do Tribunal de Justiça do Estado do Ceará que, ao dar provimento a recurso de apelação, reformou sentença que julgara procedente o pedido de extensão de piso salarial concedido a outras categorias de servidores em sentença trabalhista.
+    As ora recorrentes (servidoras públicas municipais ativas de Secretarias Executivas Regionais) ajuizaram ação ordinária postulando a revisão de seus vencimentos por equiparação ante a não aplicação do Decreto Municipal n. 7.135/1985, o que lhes garantiria um piso salarial de 6 (seis) salários mínimos.
+    Opostos embargos declaratórios, foram desprovidos (fls. 171/174).
+    No recurso extraordinário, as recorrentes apontam ofensa aos seguintes dispositivos da Constituição: (a) art. 5º, caput, e 7º, IV, pois o acórdão recorrido, ao não conceder a equiparação salarial, afrontou o princípio da isonomia. Ademais, sustentam a inaplicabilidade ao caso da Súmula 339 do STF, porque os autos versam sobre tema distinto, qual seja, o controle de legalidade de atos da Administração Pública reservada ao Poder Judiciário. Postulam, ao final, que a fixação de 6 (seis) salários mínimos seja incorporada aos seus vencimentos e proventos quando da instituição do Regime Jurídico Único (fl. 176/186).
+    2. Quanto aos arts. 5º, caput, e 7º, IV, da Constituição, não há, na fundamentação do recurso, a indicação adequada das questões constitucionais controvertidas, tendo deixado o recorrente de informar (a) de que modo a Constituição foi violada e (b) em que ponto o acórdão teria ofendido tais normas, incidindo, na espécie, o óbice da Súmula 284 do STF. De fato, o recurso mostra-se excessivamente superficial em relação a aspectos essenciais colocados no acórdão recorrido, v.g., a inviabilidade de promover-se a equiparação quando a diferenciação se dá por força de sentença transitada em julgado favorável a apenas determinadas pessoas (CPC, art. 472) – fls. 150.
+    3. Por fim, não merece qualquer reparo o acórdão recorrido, pois aplicou corretamente a Súmula 339 desta Corte: Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia.
+    4. Ante o exposto, nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
