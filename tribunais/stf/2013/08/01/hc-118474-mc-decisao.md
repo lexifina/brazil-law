@@ -1,0 +1,27 @@
+PENAL E PROCESSO PENAL. HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO. USO DE ARMA DE FOGO E CONCURSO DE AGENTES. ALEGAÇÃO DE NULIDADE DA CONDENAÇÃO BASEADA EM TESTEMUNHO DA VÍTIMA NÃO RATIFICADO NA FASE JUDICIAL. AUSÊNCIA DE FUMUS BONI JURIS. LIMINAR INDEFERIDA.
+    Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado em benefício de MARCELO DA CONCEIÇÃO PEREIRA contra acórdão proferido pelo Superior Tribunal de Justiça que possui a seguinte ementa:
+    “AGRAVO REGIMENTAL. ROUBO CIRCUNSTANCIADO. NULIDADE DA SENTENÇA POR ESTAR A CONDENAÇÃO AMPARADA EXCLUSIVAMENTE EM TESTEMUNHO DA VÍTIMA NÃO CORROBORADO NA FASE JUDICIAL. NÃO OCORRÊNCIA. TESE DEFENSIVA AMPARADA EM PREMISSA FALSA. ACÓRDÃO CONDENATÓRIO APOIADO EM OUTROS ELEMENTOS PROBATÓRIOS. SÚMULA N.º 284/STF. INVERSÃO DO ACÓRDÃO RECORRIDO. NECESSIDADE DE REEXAME DE PROVAS. VEDAÇÃO CONTIDA NA SÚMULA N.º 07/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Colhe-se do acórdão recorrido que o édito condenatório também está amparado, além do depoimento da vítima, em outros elementos de prova, mormente no depoimento dos policiais que efetuaram a prisão do Acusado, na recuperação da mercadoria subtraída e do veículo furtado na residência do Acusado, bem como na localização da arma do crime também na sua residência.
+    2. Nessa esteira, alicerçada a tese defensiva na premissa de que a condenação está amparada apenas no depoimento da vítima colhido na fase policial, resta evidente a deficiência na fundamentação do recurso especial, que inviabiliza seu conhecimento, nos termos da Súmula n.º 284/STF.
+    3. A reforma do acórdão recorrido no que se refere à condenação do Acusado se mostra inviável, uma vez que o afastamento das conclusões alcançadas pelo Tribunal de origem demandaria, inevitavelmente, o reexame do acervo probatório dos autos, o que não é permitido a esta Corte Superior de Justiça, nos termos do entendimento sufragado na Súmula n.º 07/STJ.
+    4. Agravo regimental desprovido”.
+    Consta dos autos que o paciente foi denunciado pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal.
+    O Ministério Público interpôs apelação no Tribunal de Justiça do Estado de São Paulo, que deu provimento ao recurso para condenar o paciente à pena de 5 (cinco) anos e 6 (seis) meses de reclusão em regime inicial fechado.
+    Irresignada, a defesa interpôs recurso especial, que foi parcialmente provido pela Ministra Relatora no Superior Tribunal de Justiça para reduzir a pena do paciente para 5 (cinco) anos e 4 (quatro) meses, bem como para fixar o regime semiaberto para início de cumprimento da pena. Ainda inconformada, foi interposto agravo regimental pela defesa, o qual foi desprovido pela Quinta Turma da Corte Superior.
+    É contra esse acórdão que se insurge a impetrante.
+    Alega, em suma, que a vítima do crime não reconheceu em juízo o paciente como o autor do fato. Aduz, nesse sentido, que não é possível desprestigiar o depoimento da vítima na fase judicial em face do depoimento na fase de inquérito.
+    Sustenta, assim, que “a única prova produzida em Juízo e, portanto, passível de embasar uma condenação é de que o paciente estava na posse da res furtiva configurando, no máximo, o delito de receptação”.
+    Aduz, ainda, que no caso restou violado o art. 155 do Código de Processo Penal e que o paciente deve ser absolvido com fundamento no art. 36, VII, do mesmo codex, em razão da ausência de provas suficientes produzidas na fase judicial.
+    Requer, ao final, o deferimento de medida liminar para que o paciente possa permanecer em liberdade até o julgamento final deste writ. No mérito, pleiteia a concessão da ordem para absolver o paciente, com base no art. 386, VII, do Código de Processo Penal.
+    É o relatório. DECIDO.
+    A concessão de medida liminar na via do habeas corpus é medida excepcional, admitida tão somente quando estiver configurado, de plano, manifesto constrangimento ilegal ou abuso de poder no cerceamento da liberdade de locomoção do paciente, o que não se verifica no caso sub examine.
+    In casu, consoante assentou o Superior Tribunal de Justiça, o paciente foi condenado não apenas com base no depoimento da vítima prestado na fase policial, mas também com fundamento em outras provas colhidas na fase judicial. Por oportuno, destaca-se o seguinte trecho do acórdão ora impugnado:
+    “(...) o édito condenatório também está amparado, além do depoimento da vítima, em outros elementos de prova, mormente no depoimento dos policiais que efetuaram a prisão do Acusado, na recuperação da mercadoria subtraída e do veículo furtado na residência do Acusado, bem como na localização da arma do crime também na sua residência”.
+    Assim, não se verifica, prima facie, o constrangimento ilegal suscitado, uma vez que esta Corte já se manifestou que “os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo” (RE 425.734-AgR/MG, Rel. Min. Ellen Gracie, Segunda Turma, DJ 28/10/2005).
+    Ex positis, indefiro o pedido liminar, sem prejuízo de uma análise mais aprofundada no julgamento de mérito pelo Colegiado.
+    Estando os autos suficientemente instruídos, dê-se vista ao Ministério Público Federal para emissão de parecer.
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
