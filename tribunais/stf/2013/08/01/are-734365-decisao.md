@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto de acórdão do Tribunal de Justiça do Estado de São Paulo em demanda visando à reparação por danos materiais e morais.
+     Os embargos de declaração foram desprovidos (fl. e-STJ 249).
+    No recurso extraordinário, a parte recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa ao artigo 37, § 6º, da Constituição Federal, asseverando, em síntese, que o Tribunal a quo não se ateve às provas acostadas aos autos que evidenciam a não ocorrência dos requisitos para a configuração da responsabilidade civil objetiva pelos danos.
+    2. A parte recorrente afirma que o Juízo a quo não se atentou aos documentos contidos nos autos e analisou a questão sob o enfoque da responsabilidade objetiva, sendo que as provas dos autos atestam a ocorrência da sua responsabilidade subjetiva, o que afastaria a condenação. Todavia, o acórdão recorrido, ao examinar a questão, asseverou que
+    […] Por óbvio, houvesse funcionários da requerida no local, impedindo o tráfego de veículo, o acidente não teria se consumado. De ser frisado, ainda, que o condutor do veículo, Carlos Eduardo Martins (fls. 248), negou qualquer imprudência ao asseverar que no momento que ingressou na “coluna de fumaça” reduziu a velocidade, mas só percebeu que não haveria visibilidade quando já no seu interior (fls. 248). Seu depoimento foi confirmado pela testemunha José Marcos Pirola (fls. 250), que afastou qualquer imprudência do motorista. Ainda que assim não fosse, entendendo-se pela responsabilidade subjetiva da requerida Renovias, há nos autos prova suficiente da falha na prestação pela requerida do serviço de vigilância e garantia da segurança dos usuários [...] (fl. e-STJ 545).
+    Assim, refutar essas afirmações demanda a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF. Nesse sentido
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL OBJETIVA DO ESTADO. CONTROVÉRSIA SOBRE O NEXO DE CAUSALIDADE ASSENTADO NA ORIGEM. REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (ARE-AgR 696.197, rel. Min. CARMÉN LÚCIA , Primeira Turma, DJe de 04/10/2012).
+    AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE DO ESTADO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279 DO STF. INCIDÊNCIA. AGRAVO IMPROVIDO. I A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes. II - Agravo regimental improvido (ARE-AgR 667.674, rel. Min. RICARDO LEWANDOWSKI , Segunda Turma, DJe de 26/03/2012).
+    3. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
