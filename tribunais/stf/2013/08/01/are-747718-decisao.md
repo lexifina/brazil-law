@@ -1,0 +1,13 @@
+AART    Trata-se de agravo interposto de decisão que negou seguimento a recurso extraordinário interposto contra acórdão que possui a seguinte ementa:
+    “APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. VENDA DE MERCADORIAS POR MEIO DE INTERNET, SHOWROOM E TELEMARKETING. DECRETO N. 13.162/2011. LEGALIDADE E CONSTITUCIONALIDADE. RECURSO NÃO PROVIDO.
+    A arrecadação do ICMS com fulcro no Decreto Estadual n. 13.162/2011 não inova o ordenamento jurídico, pois está em conformidade com o disposto no artigo 155, VII, 'a' da Constituição Federal de 1988, bem como com os artigos 4.º, 11 e 13 da Lei Complementar n. 87/96”.
+    No RE, fundado no art. 102, III, a e c, da Constituição, alegou-se, em suma, a inconstitucionalidade do Protocolo ICMS 21/2011 e do Decreto 13.162/2011 do Estado do Mato Grosso do Sul, por ofensa aos arts. 155, § 2º, IV e VII, b, da mesma Carta, porquanto essas normas teriam, segundo o recorrente, estabelecido a exigência de adicional de ICMS nas operações interestaduais que destinem bens a consumidor final não contribuinte do imposto.
+    A pretensão recursal não merece acolhida. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Com efeito, o voto condutor do acórdão atacado está fundamentado constitucionalmente apenas no art. 155, § 2º, VII, a, da Lei Maior, que trata das operações interestaduais que destinam bens e serviços a consumidor final contribuinte do imposto. Ou seja, sem mencionar as situações em que a mercadoria é enviada para consumidor final não contribuinte do ICMS e sem discutir eventual ausência de resolução do Senado Federal definindo as alíquotas interestaduais aplicáveis ao caso em questão.
+    Nesse contexto, observe-se que o mesmo dispositivo constitucional, em seu inciso VIII, prevê expressamente que cabe ao Estado da localização do destinatário o imposto correspondente à diferença entre a alíquota interna e a interestadual, quando se tratar de consumidor final contribuinte do ICMS.
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, em relação a definição do destinatário do bem como consumidor final contribuinte do imposto, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
