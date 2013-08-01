@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas que, em ação reparatória por danos materiais e morais, deu provimento à apelação da parte agravada, sob o fundamento de que o acervo probatório apresenta-se insuficiente ao juízo de procedência.
+    No recurso extraordinário, com fundamento no artigo 102, III, a, da Constituição, aponta a agravante, em síntese, ofensa ao artigo 5º, incisos V, X, LV, da Carta Magna, pois houve comprovado dano a seu patrimônio material e moral.
+    O Tribunal inadmitiu o recurso extraordinário por deserção. Em suas razões, a agravante defende que o despacho que determinou a complementação do preparo não foi claro, o que teria impossibilitado o seu cumprimento.
+    2. Ainda que haja plausibilidade nos argumentos do agravante quanto ao preparo, a negativa de seguimento ao recurso extraordinário deve ser mantida por outros fundamentos.
+    3. Não houve emissão, pelo acórdão recorrido, de juízo acerca da violação das matérias de que tratam as normas insertas no art. 5º, incisos V, X, LV, da Constituição Federal, tampouco os embargos de declaração suscitaram omissão quanto a tais temas, razão pela qual, à falta do indispensável prequestionamento, não pode ser o recurso extraordinário conhecido no ponto, incidindo o óbice das súmulas 282 e 356 do STF.
+    4. Conforme reiterada jurisprudência desta Corte, é inviável a análise da alegada violação ao direito adquirido, ao ato jurídico perfeito e à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/05/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/03/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/08/2011.
+    5. Por fim, a apreciação dos aspectos relativos à ocorrência de dano material e moral demanda análise dos fatos e das provas dos autos. Com efeito, para ultrapassar o entendimento do Tribunal de origem no sentido de que não houve comprovação dos atos ilícitos e dos alegados prejuízos, seria necessário o reexame do conjunto dos elementos fático-probatórios constantes dos autos, incorrendo na espécie o óbice constante da Súmula 279 do Supremo Tribunal Federal.
+      6. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
