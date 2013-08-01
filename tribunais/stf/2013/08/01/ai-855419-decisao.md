@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão proferido pelo Tribunal de Justiça do Estado da Bahia que deu provimento ao recurso de apelação da parte agravada para determinar o prosseguimento da execução fiscal.
+    A parte agravante, no recurso extraordinário, aponta violação aos arts. 5º, XXXV, LIV, LV, e 93, IX, da Constituição Federal, pelo seguintes fundamentos: (a) é manifestamente deficiente a fundamentação do acórdão, (b) o Tribunal de origem se omitiu acerca das teses apresentadas pelo recorrente, (c) o acórdão incorreu em julgamento extra petita e (d) a parte agravada interpôs recurso incabível da decisão do Juiz de primeira instância.
+    2. Não se verifica a suposta violação ao artigo 93, IX, da Constituição Federal, pois o acórdão e a sentença estão devidamente fundamentados. Esta Corte, no julgamento do AI 791.292 QO-RG/PE (rel. Min. GILMAR MENDES, DJe de 13.8.2010), cuja repercussão geral foi reconhecida, entendeu que a Constituição da República exige acórdão ou decisão fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação em recurso extraordinário de alegada violação aos princípios do acesso à jurisdição, do devido processo legal, do contraditório e da ampla defesa que, por não prescindir do exame de normas infraconstitucionais, apontam ofensa, meramente, indireta ou reflexa. Nesse sentido: AI 796.905 AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 21/5/2012; AI 622.814 AgR, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 08/3/2012; ARE 642.062 AgR, Rel. Min. ELLEN GRACIE, Segunda Turma, DJe de 19/8/2011.
+    De fato, qualquer juízo acerca das alegações da parte recorrente supõe, necessariamente, exame da legislação infraconstitucional (Código Tributário Nacional e Código de Processo Civil), visto que eventual ofensa à Constituição seria apenas reflexa.
+    4. Ante o exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
