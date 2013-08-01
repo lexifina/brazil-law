@@ -1,0 +1,21 @@
+DECISÃO
+    Vistos.
+    Estado da Bahia interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade ao artigo 37, inciso X, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Quarta Câmara Cível do Tribunal de Justiça daquele Estado, assim ementado:
+    “APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. SERVIDORES PÚBLICOS MILITARES. GRATIFICAÇÃO POR ATIVIDADE POLICIAL. GAP. PEDIDO DE REAJUSTE NO PERCENTUAL ESTABELECIDO NA LEI 7622/2000 PARA OS SOLDOS. APLICAÇÃO DO ART. 7°, § 1° DA LEI 7145/1997, O QUAL DETERMINA QUE OS VALORES DA GAP DEVEM SER EVISTOS NA MESMA ÉPOCA E PERCENTUAL DE REAJUSTE DOS SOLDOS. INEXISTÊNCIA DE VIOLAÇÃO AO ART. 37 DA CONSTITUIÇÃO FEDERAL. Considerando que o soldo dos policiais militares foram reajustados por lei estadual, é evidente que possuem o direito legalmente assegurado pela Lei 7.145/97, de terem o valor da Gratificação de Atividade Policial, reajustado em idêntico percentual.
+    APELO IMPROVIDO.”
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    Não merece prosperar a irresignação, pois o acórdão atacado solucionou a lide exclusivamente com fundamento na legislação local pertinente (Leis estaduais nºs 3.803/80, 7.145/97 e 7.622/00), insuscetível de análise na via extraordinária. Incide, na espécie, a Súmula nº 280 da Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR - GAPM. EXTENSÃO AOS SERVIDORES INATIVOS. ACÓRDÃO DO TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, QUE DECIDIU A CONTROVÉRSIA COM BASE NA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL PERTINENTE (LEI Nº 7.145/97). INCIDÊNCIA DA SÚMULA 280 DO STF. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. Precedentes: o AI 636.111-AgR, da relatoria do ministro Ricardo Lewandowski; o AI 639.129, da relatoria da ministra Cármen Lúcia; AI 661.219, da relatoria do ministro Marco Aurélio; e o AI 712.275-AgR, da relatoria do ministro Eros Grau. Agravo regimental desprovido” (AI nº 618.737/BA-AgR, Primeira Turma, Relator o Ministro Ayres Britto, DJe de 5/12/08)
+    “SERVIDOR PÚBLICO INATIVO DO ESTADO DA BAHIA. EXTENSÃO DA GRATIFICAÇÃO DE ATIVIDADE DE POLICIAL MILITAR - GAPM. REEXAME DE LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280 DESTA CORTE. Esta Turma já decidiu que o debate a respeito da extensão da Gratificação de Atividade Policial Militar - GAPM, conforme estabelecida pela Lei 7.145/1997, a servidor público inativo do Estado da Bahia demanda reexame de legislação local. Agravo regimental a que se nega provimento” (AI nº 459.418/BA-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 16/6/06).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. GRATIFICAÇÃO DE ATIVIDADE POLICIAL MILITAR - GAPM. EXTENSÃO AOS SERVIDORES INATIVOS. MATÉRIA INFRACONSTITUCIONAL LOCAL (LEIS 7.145/97 e 7.990/01). SÚMULA 280 DO STF. AGRAVO IMPROVIDO. I - Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais (Leis Estaduais 7.145/97 e 7.990/01), o que inviabiliza o extraordinário, a teor da Súmula 280 do STF. Precedentes. II – Agravo regimental improvido” (AI nº 775.479-AgR/BA,
+Relator o Ministro Ricardo Lewandowski, Primeira Turma, DJe de 1/2/11).
+    Ante o exposto, nego provimento ao agravo.
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
