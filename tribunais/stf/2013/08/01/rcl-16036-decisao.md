@@ -1,0 +1,39 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, proposta por Raul Wosniak e Ivone Franco de Camargo Wosniak em face do Superior Tribunal de Justiça, cuja atuação teria “viol[ado] a autoridade de julgado do Egrégio Supremo tribunal Federal”.
+    Os fundamentos apresentados na peça vestibular podem ser assim sintetizados:
+    a) o recurso especial interposto em sede de embargos a execução teve seguimento negado pelo Presidente da Seção de Direito Privado do Tribunal do Estado de São Paulo, o que deu ensejo à interposição de agravo de instrumento com fundamento no art. 544 do CPC;
+    b) referido agravo de instrumento foi julgado pela Terceira Câmara no Superior Tribunal de Justiça, ao qual negou-se seguimento ante a má formação do instrumento, por ausência de juntada a guia de recolhimento do preparo do recurso especial;
+    c) embora as partes tenham suprido o defeito apontado, a negativa de provimento ao agravo de instrumento foi mantida em deliberação colegiada. Nesse tocante, defendem que:
+    “A rigor, para que os Recorrentes possam sofrer tamanho prejuízo processual, deve haver, dentro da lógica jurídico-processual cabível à espécie, expressa disposição legal.”
+    d) houve a impetração de mandado de segurança, cuja ordem foi negada, o que deu ensejo a interposição de recurso extraordinário;
+    e) deve prevalecer o princípio da inafastabilidade do Poder Judiciário, cuidando-se de abuso de poder a negativa de seguimento ao agravo de instrumento em recurso especial mesmo após a comprovação do recolhimento do preparo, não havendo que se falar, sequer, de prejuízo às partes.
+    Conclui que:
+    “(...) inexiste no direito objetivo processual previsão legal para apresentação de cópias das quais de recolhimento de preparo do recurso especial, eis que o dispositivo legal acima tecido não prevê esta determinação.
+    Com efeito, em que pese existir orientação jurisprudencial neste sentido, todavia, não tem força de súmula que depende de votação e aprovada pelo Egrégio Supremo Tribunal Federal, por pelo menos 2/3 do plenário, onde se torna um entendimento obrigatório e todos os Tribunais e Juízes, Administração Pública, Direta e Indireta terão que seguir, ou seja, adquire força de Lei criando um vínculo jurídico e possuindo efeito erga omnes.
+    Requer que seja concedido o pedido de liminar e, no mérito, julada procedente a reclamação para
+    “[que] seja anulado o R Acórdão que não admitiu o mandado de segurança e o R. Acórdão do Agravo de Instrumento e os R. Acórdãos que foram negado provimento aos Agravos Regimentais, (…) requerendo que o Agravo e Instrumento seja conhecido, processado e julgado pela Egrégia Terceira Turma do Colendo Superior Tribunal e Justiça (…)”.
+    É o relatório.
+    A competência originária desta Corte submete-se a regime de direito estrito, estando fixada, em numerus clausus, no rol do art. 102, inciso I, da Constituição Federal.
+    No tocante à reclamação, deve ser ajuizada para preservar a competência do STF e garantir a autoridade das decisões deste Tribunal (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88).
+    Assim, na peça vestibular, deve existir alegação e comprovação a ocorrência de usurpação de competência do Supremo Tribunal Federal ou do descumprimento de decisão desta Corte proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, cuide-se da mesma relação jurídica em apreço na reclamação e das mesmas partes.
+     A jurisprudência da Corte definiu contornos para utilização da Reclamação, de que destaco os postulados abaixo citados:
+    1. Reclamação não pode se confundir com sucedâneo recursal, ação rescisória ou emprestar efeito suspensivo a recurso extraordinário. O instituto da reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo (Rcl nº 5.703/SP-AgR, Tribunal Pleno, Relatora a Ministra Cármen Lúcia , DJe-195 de 16/10/09). Precedentes: Rcl nº 5.926/SC-AgR, Tribunal Pleno, Relator o Ministro Celso De Mello , DJe-213 de 13/11/09; Rcl nº 5.684/PE-AgR, Tribunal Pleno,Relator o Ministro Ricardo Lewandowski , DJe-152 de 15/8/08.
+    2. Inadequação da reclamação para reexame do mérito da demanda originária. A reclamação não se configura instrumento viabilizador do reexame do conteúdo do ato reclamado (Rcl nº 6.534/MA-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe-197 de 17/10/08).
+    3. Caráter estrito da competência do STF no conhecimento das reclamações. A competência originária do Supremo Tribunal Federal não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados pelo rol exaustivo inscrito no art. 102, I, da Constituição. Precedentes (Rcl nº 5.411/GO-AgR, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski , DJe-152 de 15/8/08).
+    A pretensão deduzida nos autos não merece ser acolhida.
+    Destaco que, na peça vestibular, os reclamantes não indicaram qualquer competência jurisdicional desta Suprema Corte que esteja sendo usurpada ou decisão do STF cuja autoridade esteja sendo contrariada pela autoridade reclamada, estando sua pretensão fundada diretamente em dispositivo extraído da Constituição Federal de 1988, qual seja o inciso XXXV do art. 5º.
+    O pedido formulado na peça vestibular deixa evidente o uso dessa reclamatória jurisprudência do e. STJ no tocante a requisito de admissibilidade de seus recursos, pretendendo que o STF, em sede reclamatória, proceda, com fundamento no dispositivo constitucional acima referido, a juízo de reforma da decisão reclamada.
+    Quanto à alegação de que houve interposição de recurso extraordinário contra a decisão que denegou a ordem em mandado de segurança impetrado com o objetivo de questionar a decisão do e. STJ, sequer há que falar em usurpação da competência do STF, tendo em vista o disposto no art. 102, II, a, da CF/88, in verbis:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    (…)
+    II - julgar, em recurso ordinário:
+    a) o ‘habeas-corpus’, o mandado de segurança, o ‘habeas-data’ e o mandado de injunção decididos em única instância pelos Tribunais Superiores, se denegatória a decisão;”
+    Eventual inconformismo contra estas decisões deve ser veiculado pelos meios processuais ordinários colocados à disposição do jurisdicionado, em respeito ao devido processo legal. Nesse sentido, a jurisprudência do STF é firme no sentido de não poder a reclamação ser usada com sucedâneo de instrumento processual próprio. Vide :
+    ‘AGRAVO REGIMENTAL NA RECLAMAÇÃO. EX-PREFEITO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE. ALEGADO DESCUMPRIMENTO À DECISÃO PROFERIDA NA RECLAMAÇÃO 2.138. AUSÊNCIA DE ARGUMENTOS NOVOS. RECLAMAÇÃO UTILIZADA COMO SUCEDÂNEO recursal. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. 1. O instituto da Reclamação não se presta para substituir recurso específico que a legislação tenha posto à disposição do jurisdicionado irresignado com a decisão judicial proferida pelo juízo a quo. 2. Inaplicabilidade da teoria da transcendência dos motivos determinantes. 3. A decisão proferida pelo Plenário do Supremo Tribunal Federal na Reclamação 2.138/DF tem efeitos apenas inter partes, não beneficiando, assim, o ora Agravante. 4. Agravo regimental ao qual se nega provimento.” (Rcl nº 5.703/SP-AgR, Relatora a Ministra Cármen Lúcia , Tribunal Pleno, DJe de 16/10/09)
+    Ante o exposto, nego seguimento à presente reclamação, prejudicada a análise do pedido liminar.
+    Publique-se. Int..
+    Brasília, 2 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
