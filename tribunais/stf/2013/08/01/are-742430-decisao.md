@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário interposto de acórdão que negou provimento a recurso da parte recorrente em demanda indenizatória por danos materiais e morais. O Tribunal de Justiça do Estado de Minas Gerais entendeu que (a) deve ser mantido o indeferimento de provas testemunhais e periciais consideradas inúteis e protelatórias, porque a matéria é exclusivamente de direito, podendo ser demonstrada através de prova documental (fls. e-STJ 583/595) e (b) não ocorreu ação ou omissão que enseje o dever de indenizar, visto que o credor fiduciário não levou a registro, junto ao Departamento de Trânsito, o gravame sobre o bem.
+    Os embargos de declaração foram desprovidos (fls. e-STJ 609/621).
+    No recurso extraordinário, interposto com base no art. 102, III, da Constituição Federal, aponta-se ofensa ao artigo 37, § 6º, da Constituição, asseverando, em síntese, que (a) o Tribunal a quo não se ateve às provas acostadas nos autos que demonstram os requisitos para a configuração dos danos ocorridos e (b) houve negativa do direito à produção de prova pericial (fls. e-STJ 695/703).
+    2. Quanto ao indeferimento de provas, (a) a norma dita violada não tem relação com essa questão, pelo que incide o óbice da Súmula 284/STF e (b) essa matéria teve a repercussão geral rejeitada por esta Corte na análise do RE 639.228 (Rel. Min. MINISTRO PRESIDENTE-CEZAR PELUSO, Tema 424), por se tratar de questão infraconstitucional.
+    3. O recorrente entende que o Estado deve ser responsabilizado por ter emitido certificado de licenciamento de veículo sem fazer constar restrição. Sobre isso, assim se pronunciou o Tribunal de origem (fl. e-STJ 621):
+    […] Cabia aos embargantes, nos termos do art. 333, inciso I, do Código de Processo Civil, a prova de que a alienação fiduciária foi comunicada ao órgão de trânsito quando da aquisição do veículo pelo primeiro comprador e retirada, posteriormente, sem autorização da instituição financeira. A prova não foi feita.
+    A simples menção, no documento de fl. 146-TJ à retirada de impedimento não permite responsabilizar o Estado de Minas Gerais pelos alegados prejuízo material e abalo moral sofridos pelos embargantes.
+    Não há omissão no acórdão embargado. A Turma Julgadora apenas não fez referência ao documento de fl. 146-TJ, mas, assimilou a ausência de prova de que a existência de alienação fiduciária foi devidamente comunicada ao órgão de trânsito pelo adquirente originário do veículo.
+    Assim, refutar essas afirmações demanda (a) o exame das normas infraconstitucionais atinentes aos deveres e obrigações das partes nas alienações fiduciárias e (b) a reapreciação do conjunto fático-probatório dos autos, o que não é cabível no âmbito do recurso extraordinário, conforme estabelece a Súmula 279 do STF.
+    4. Diante do exposto, nego provimento ao agravo em recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
