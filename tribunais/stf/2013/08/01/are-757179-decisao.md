@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão do Tribunal Superior Eleitoral segundo o qual a parte que não apresentou impugnação do registro de candidatura, seja candidato, partido político, coligação ou o Ministério Público Eleitoral, carece de legitimidade para recorrer da decisão que o deferir, salvo quando se tratar de matéria constitucional, conforme preceitua a Súmula 11 do TSE.
+    No recurso extraordinário, a parte recorrente aponta violação ao art. 127 da Constituição Federal, argumentando que, em todas as esferas do Poder Judiciário, em qualquer grau de jurisdição, é assegurada ao Ministério Público a possibilidade de apresentar recursos nos processos em que a intervenção ministerial seja cabível na defesa da ordem democrática, da ordem jurídica e dos interesses sociais e individuais indisponíveis, independentemente de a instituição figurar como parte no processo específico.
+    2. Quanto à alegada violação ao art. 127 da Constituição Federal, trata-se de norma que define o Ministério Público e indica suas atribuições básicas. Como se vê, o apelo apóia-se em norma incapaz de infirmar o juízo formulado pelo acórdão recorrido, por trazer disposição demasiado genérica, o que atrai a aplicação analógica da Súmula 284 do STF. Embora tal norma confira legitimação ao Ministério Público, não o faz de forma irrestrita em toda e qualquer situação.
+    Ademais, a questão situa-se no âmbito do processo eleitoral, regido pelas normas infraconstitucionais pertinentes, de modo que a ofensa à Constituição é meramente reflexa. Nesse sentido:
+    Ementa: DIREITO ELEITORAL. REGISTRO DE CANDIDATURA. RECURSO EXTRAORDINÁRIO. VIOLAÇÃO ÀS GARANTIAS CONSTITUCIONAIS DO PROCESSO. OFENSA REFLEXA À CONSTITUIÇÃO. ART. 93, IX, DA CF. OMISSÃO NÃO CONFIGURADA. ART. 127 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.(ARE 744031 AgR, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, DJe 10-06-2013).
+    3. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
