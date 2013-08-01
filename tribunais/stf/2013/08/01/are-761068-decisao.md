@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. RECLASSIFICAÇÃO. NECESSIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo nos autos principais contra decisão que inadmitiu recurso extraordinário interposto com base no art. 102, inc. III, alínea a, da Constituição da República.
+    O recurso extraordinário foi interposto contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - ADMINISTRATIVO - FUNICIONÁRIO APOSENTADO DA IMPRENSA OFICIAL DO ESTADO DE MINAS GERAIS - LEIS ESTADUAIS N. 15.470/2005 E N. 15.961/2005 - POSICIONAMENTO - TEMPO DE SERVIÇO - IMPOSSIBLIDADE - RECURSO IMPROVIDO.
+      - A Lei Estadual nº 15.961/2005, que estabelece as novas tabelas de vencimento básico das carreiras do Poder Executivo e sobre o posicionamento dos servidores nas carreiras, dispõe que o funcionário será posicionado, por meio de decreto, na carreira, observando-se a escolaridade exigida para o provimento do cargo efetivo e o vencimento básico correspondente ao nível e ao grau do cargo de provimento do cargo efetivo transformado e recebido pelo funcionário até a data da publicação da mencionada Lei. Como o Decreto Estadual n. 44.618, de 20/09/2007, que dispõe sobre o posicionamento dos servidores que passaram para a inatividade em cargo do extinto órgão autônomo Imprensa Oficial do Estado de Minas Gerais na estrutura das carreiras da Autarquia, de que trata o inciso III do art. 3º da Lei nº 15.470/2005, estabelece que deve ser considerada a escolaridade, o nível, o grau e o valor do vencimento básico de provimento efetivo em que se deu a aposentadoria.
+      - Dessa forma, observados os requisitos legais para o posicionamento do servidor aposentado e ausente a prova de que houve equívoco no seu posicionamento, impõe-se a manutenção da sentença que julgou improcedente o pedido inicial” (fl. 161).
+    2. O recurso extraordinário foi inadmitido sob o fundamento de incidência das Súmulas n. 280, 282 e 356 do Supremo Tribunal Federal (fls. 203-204).
+    3. O Agravante afirma que o Tribunal de origem teria contrariado o art. 7° da Emenda Constitucional n. 41/2003.
+    Assevera que “as Leis Estaduais 15.691/05, 15.470/05, 16.684/07 e Decreto 45.274/09, não podem definir critérios de posicionamento que ocasionem em tratamento não isonômico entre o funcionário da ativa e o funcionário inativo, assim como não pode as referidas legislações mitigar a paridade plena de que goza o recorrente, garantia esculpida na Constituição Federal, ratificada no art. 7° da EC 41/03” (fl. 180).
+    Examinados os elementos havidos no processo, DECIDO.
+    4. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabeleceu que o agravo contra decisão que inadmite recurso extraordinário processa-se nos autos do processo, ou seja, sem a necessidade de formação de instrumento, sendo este o caso.
+    Analisam-se, portanto, os argumentos postos no agravo, de cuja decisão se terá, na sequência, se for o caso, exame do recurso extraordinário.
+    5. Razão jurídica não assiste ao Agravante.
+    6. A questão em debate foi decidida com base na aplicação e na interpretação da legislação infraconstitucional (Leis estaduais n. 15.470/2005 e 15.961/2005 e Decreto estadual n. 45.274/2009). Assim, a alegada ofensa constitucional, se tivesse ocorrido, seria indireta, o que não viabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental no recurso extraordinário com agravo. Servidor público. Reclassificação. Ofensa a direito local. Precedentes. 1. Não se abre a via do recurso extraordinário para o reexame de matéria ínsita ao plano normativo local. Incidência da Súmula nº 280 desta Corte. 2. Agravo regimental não provido” (ARE 646.912-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 9.11.2012).
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. EXTENSÃO DO NOVO PADRÃO NA CARREIRA AOS INATIVOS. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SUMULA STF 280. 1. O Tribunal a quo, na interpretação da legislação estadual que trata da matéria (Lei Estadual 19.844/92), estendeu aos inativos a reclassificação concedida genericamente aos servidores da ativa, nos termos do art. 40, § 8º, da Constituição Federal. 2. Para se concluir de forma diversa, seria necessário o reexame da legislação local. Incide, na espécie, a Súmula STF 280. 3. Agravo regimental improvido” (AI 539.413-AgR, Relatora a Ministra Ellen Gracie, Segunda Turma, DJe 19.11.2010).
+    Nada há, pois, a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento ao agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 1° de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
