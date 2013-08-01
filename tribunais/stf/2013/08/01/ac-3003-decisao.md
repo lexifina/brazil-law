@@ -1,0 +1,12 @@
+DECISÃO:
+    Trata-se de ação cautelar ajuizada pelo Estado do Rio Grande do Sul, na qual pede a concessão de efeito suspensivo aos embargos de declaração opostos pelo Governador daquele mesmo Estado contra o acórdão proferido na ADI 4.167/DF (Rel. Min. Joaquim Barbosa, DJe 24.08.2011). Essa pretensão do autor já havia sido dirigida ao próprio relator da ADI, que a rejeitou monocraticamente. Contra essa decisão foi interposto agravo regimental, pendente de julgamento. A presente ação, portanto, corresponde a uma renovação do pedido feito nos autos da ação direta de inconstitucionalidade.
+    Inicialmente sob a relatoria do Ministro Celso de Mello, a ação foi redistribuída, por prevenção, ao relator da ADI 4.167/DF. Posteriormente, os autos foram novamente redistribuídos, agora à minha relatoria, como decorrência da posse do Ministro Joaquim Barbosa na presidência desta Corte.
+    É o breve relatório. DECIDO.
+    Em consulta aos sistemas do Tribunal, observo que, embora a presente ação tenha sido redistribuída a mim, o agravo regimental e os embargos de declaração a que se referem o pedido cautelar continuam sob a relatoria do Ministro Presidente. Tal situação talvez justificasse uma nova redistribuição, a fim de se atender ao disposto no art. art. 77-A do RI/STF (“Serão distribuídos ao mesmo Relator a ação cautelar e o processo ou recurso principais”).
+    Ocorre, porém, que os recursos a que se refere a ação cautelar já foram julgados pelo Plenário desta Corte na Sessão de 28.02.2013. Na ocasião, foram acolhidos os embargos opostos pelo Governador do Estado do Rio Grande do Sul, a fim de “assentar que a Lei nº 11.738/2008 tenha eficácia a partir da data do julgamento do mérito desta ação direta, ou seja, 27 de abril de 2011”. Por conta disso, foi julgado prejudicado o agravo regimental interposto pelo ora demandante (DJe 08.03.2012). Naturalmente, isso conduz à perda de objeto da presente demanda, tendo em vista que a pretensão do autor já restou atendida por pronunciamento do Tribunal em outra ação.
+    Assim, em homenagem ao princípio da economia processual, deixo de suscitar a conveniência de se promover uma nova redistribuição do feito e, desde já, com base no art. 38 da Lei nº 8.038/90 e no art. 21, IX, do RI/STF, JULGO EXTINTO O PROCESSO SEM EXAME DE MÉRITO, por perda superveniente do interesse em agir (CPC, art. 267, VI).
+    Publique-se. Intimem-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
+Assinado digitalmente
