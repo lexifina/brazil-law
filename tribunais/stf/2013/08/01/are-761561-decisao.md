@@ -1,0 +1,14 @@
+Trata-se de agravo contra decisão que negou seguimento ao recurso extraordinário interposto de acórdão, cuja ementa segue transcrita, no que importa:
+    “ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ATO DO GOVERNADOR QUE TORNA SEM EFEITO A NOMEAÇÃO DO CANDIDATO EM RAZÃO DE A POSSE NÃO TER-SE DADO EM TEMPO HÁBIL. AUSÊNCIA DE PUBLICAÇÃO DO ATO DE NOMEAÇÃO NO SÍTIO ELETRÔNICO DA ADMINISTRAÇÃO PÚBLICA. AGIR ADMINISTRATIVO. PRINCÍPIOS DA IMPESSOALIDADE, MORALIDADE, PUBLICIDADE, EFICIÊNCIA E SEGURANÇA JURÍDICA. DESARAZOABILIDADE DA EXIGÊNCIA DE ACOMPANHAMENTO PELO DIÁRIO OFICIAL.
+    1. O STJ firmou orientação no sentido de que a publicação da convocação de candidato somente no Diário Oficial, após o transcurso de considerável lapso temporal entre uma fase e outra, para a qual houve a convocação, contraria o princípio da publicidade dos atos administrativos, mesmo que o edital preveja a convocação por meio do Diário Oficial, porquanto, nessa hipótese, não é razoável impor aos candidatos a exigência de leitura diária do diário oficial, por tempo indeterminado, para tomarem conhecimento de sua convocação.
+    (…)
+    4. Agravo regimental não provido”.
+    No RE, fundado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, ofensa aos arts. 5º, caput e II, e 37, caput e II, da mesma Carta.
+    A pretensão recursal não merece acolhida. Isso porque para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos e a análise de cláusulas editalícias, o que atrai a incidência das Súmulas 279 e 454 do STF.
+    “AGRAVO REGIMENTAL. CONCURSO PÚBLICO. LEGALIDADE E ISONOMIA. AUSÊNCIA DE PREQUESTIONAMENTO. PUBLICIDADE DO ATO DE CONVOCAÇÃO. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 279 DO STF. A questão relativa aos artigos 5º, caput e II, e 37, caput, da Constituição não foi ventilada no acórdão recorrido e nem foi objeto de embargos de declaração. Falta-lhe, pois, o indispensável prequestionamento. Incidência dos enunciados 282 e 356 da Súmula do STF. Para se chegar a conclusão diversa daquela a que chegou o acórdão recorrido, seria necessário reexaminar os fatos da causa, o que é vedado na esfera do recurso extraordinário, de acordo com a Súmula 279/STF. Agravo regimental a que se nega provimento” (RE 640.623-AgR/RR, Rel. Min. Joaquim Barbosa).
+    Ademais, este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando o exame da ofensa envolva a reanálise de interpretação dada à norma infraconstitucional pelo Juízo a quo (Súmula 636 do STF).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
