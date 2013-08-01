@@ -1,0 +1,18 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Turma Recursal do Juizado Especial Federal do Amazonas, proferido em sede de embargos de declaração, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO. OMISSÃO NO ACÓRDÃO. REQUISITOS PROCESSUAIS. REEXAME DA MATÉRIA. AUSÊNCIA DOS REQUISITOS DO ART. 535 DO CPC.
+    […]
+    4. A decisão da Turma foi clara ao reconhecer que o autor não faz jus à percepção do benefício. E na condição de recebedor de boa-fé das parcelas que lhe foram pagas, já que o fez por determinação judicial, não deverá ser compelido a restituir tais quantias dado o seu caráter de verba alimentar. Amolda-se o julgado a seguir: PREVIDENCIÁRIO. BENEFÍCIO PAGO A MAIOR. ERRO ADMINISTRATIVO. RECEBIMENTO DE BOAFÉ. NATUREZA ALIMENTAR. RESTITUIÇÃO INDEVIDA. 1. Em face do caráter social das demandas de natureza previdenciária, associada à presença da boa-fé do beneficiário, afasta-se a devolução de parcelas pagas a maior, mormente na hipótese de erro administrativo. 2. Agravo regimental improvido.(AGA 201001092581, JORGE MUSSI, STJ - QUINTA TURMA, 13/12/2010).
+    [...]”
+    O recurso busca fundamento no art. 102, III, a e b, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, I, XXXV, XXXVI e LV, e 195, § 5º, da Constituição. Defende que os valores pagos indevidamente pela Autarquia Previdenciária, por força de tutela antecipada, devam ser restituídos, nos termos do art. 273, § 2º, e do art. 475-O do Código de Processo Civil e do art. 115 da Lei nº 8.213/1991.
+    A decisão agravada negou seguimento ao recurso, sob o fundamento de que a análise demandaria o exame de matéria infraconstitucional.
+    O recurso extraordinário não pode ser provido por dois fundamentos. Em primeiro lugar, o Supremo Tribunal Federal assentou que, em casos tais, não há questão constitucional a ser examinada e, em consequência, deu pela ausência do requisito da repercussão geral. Veja-se a ementa do AI 841.473-RG, julgado sob a relatoria do Ministro Presidente (Plenário Virtual):
+    “Agravo de instrumento convertido em Extraordinário. Inadmissibilidade deste. Valores pagos indevidamente. Administração pública. Restituição. Beneficiário de boa-fé. Tema infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral recurso extraordinário que, tendo por objeto o dever de o beneficiário de boa-fé restituir aos cofres públicos os valores que lhe foram pagos indevidamente pela administração pública, versa sobre tema infraconstitucional.”
+    Cabe ressaltar, nos termos do voto condutor proferido pela Ministra Cármen Lúcia no ARE 722.420-AgR, que, “diversamente do quanto afirmado pelo Agravante, no caso apreciado pelo Plenário Virtual negou-se a repercussão geral em razão do fundamento infraconstitucional do acórdão recorrido, baseado na interpretação do art. 115 da Lei n. 8.213/1991, não se detendo o Relator no motivo pelo qual teria o beneficiário recebido valores indevidamente, se por erro da Administração ou por decisão judicial”.
+    Ademais, em segundo lugar, a parte recorrente não indicou as razões pelas quais caberia o recurso extraordinário pela alínea b do dispositivo constitucional autorizador. Nessas condições, aplica-se a Súmula 284/STF, in verbis:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    Diante do exposto, com base no art. 544, § 4º, II, b, do CPC e no art. 21, § 1º, do RI/STF, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 1º de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
