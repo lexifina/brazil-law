@@ -1,0 +1,14 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto com base no art. 102, III, da Constituição Federal em que o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria e aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    2. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional; ou, ainda, (e) a existência de jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/02/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14.2.2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19.02.2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/08/2012.
+    3. Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nesses moldes exigidos pela jurisprudência do STF.
+    4. Mesmo que se superasse esse grave óbice, o entendimento do Tribunal de origem é respaldado pela jurisprudência do STF. Veja-se o seguinte precedente em caso análogo:
+     AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE DE REFORMA AGRÁRIA – GDARA. EXTENSÃO. SERVIDORES INATIVOS. POSSIBILIDADE. SÚMULA VINCULANTE 20. AGRAVO IMPROVIDO.
+    I – É possível a extensão da GDARA aos inativos tendo em vista que a jurisprudência desta Corte tem aplicado às diversas gratificações concedidas no âmbito do serviço público federal o mesmo entendimento que embasou a Súmula Vinculante 20, que trata da Gratificação de Desempenho de Atividade Técnico-Administrativa – GDATA.
+    II – Agravo regimental improvido. (RE 630.880-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 05/06/2012).
+    No mesmo sentido: RE 517.387–AgR, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 03/09/2010 e RE 635.184 – AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 10/10/2012.
+    5. Diante do exposto nego seguimento ao recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
