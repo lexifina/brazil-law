@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Trata-se de embargos de declaração opostos por Afonso Celso Ferreira de Campos e outros contra decisão por mim proferida, mediante a qual neguei seguimento ao recurso extraordinário no tocante à alegada inconstitucionalidade da taxa de coleta de lixo domiciliar e determinei a devolução dos autos à origem para que se aplicasse o disposto no 543-B do Código de Processo Civil, no que se refere à discussão acerca da aplicação da alíquota mínima prevista em lei declarada inconstitucional.
+    Asseverou o embargante que tal decisão padece de omissão ao não se manifestar acerca da cobrança do IPTU em Curitiba no exercício de 2001,uma vez que fundamentada no artigo 20 da Lei n° 6.202/80, modificado pela Lei Complementar n° 28/99, que previa a progressividade da referida exação e é anterior à EC 29/00.
+    Decido.
+    Assiste razão ao embargante, motivo pelo passo a suprir a omissão apontada.
+    Como decidido, o Supremo Tribunal Federal, nos termos do enunciado nº 668, assentou que a instituição de alíquotas progressivas ou seletivas, que não atenda o artigo 156, § 1º, da Constituição, na redação anterior à EC nº 29/2000, é inconstitucional.
+    De igual modo, esta Corte consolidou entendimento no sentido de vedar a constitucionalização de lei, considerada inconstitucional ao tempo de sua edição, por meio de Emenda Constitucional superveniente à edição da referida lei.
+    No caso dos autos, verifico que muito embora a redação do art. 20 da LC nº 28/99 estabeleça em seu caput uma alíquota fixa do IPTU, o § 1º do referido dispositivo legal esclarece que o “imposto não poderá sofrer acréscimo superior à somatória dos valores do imposto e das taxas de iluminação pública e de limpeza e conservação lançados no ano anterior, atualizados monetariamente..”
+    Tal sistemática implicou na concessão de descontos escalonados, como forma de progressividade mascarada. Assim, a LC 28/99, que pautou o lançamento do IPTU de 2001, apenas simulou uma aparente correção da legislação, com a adoção de uma alíquota única de 3% (três por cento), que já era aplicada sobre alguns imóveis, porém agora incluiu os valores referentes às taxas de iluminação pública e limpeza e conservação, antes julgadas inconstitucionais.
+    A progressividade inconstitucional de alíquotas do IPTU na forma de isenções ou descontos parciais foi apreciada pelo Plenário da Corte no RE nº 194.036, Relator o Ministro Ilmar Galvão, DJ 20/6/97. Essa decisão foi reafirmada no RE nº 456.513, Relator o Ministro Sepúlveda Pertence, Primeira Turma, DJ 14/11/03, cuja ementa é a seguinte:
+    “EMENTA: IPTU: progressividade. 1. O STF firmou o entendimento - a partir do julgamento do RE 153.771, Pleno, 20.11.96, Moreira Alves - de que a única hipótese na qual a Constituição admite a progressividade das alíquotas do IPTU é a do art. 182, § 4º, II, destinada a assegurar o cumprimento da função social da propriedade urbana. 2. Manifestou-se também o plenário da Corte pela inconstitucionalidade da cobrança do IPTU de forma progressiva, estabelecida mediante a concessão de isenções parciais, variáveis conforme o valor venal do imóvel (RE 167.036, Ilmar Galvão, DJ 20.06.97)” (AI n° 456.513/SP-ED, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 14/11/03).
+    O Plenário da Corte novamente se pronunciou sobre o tema, em julgamento de 01/08/2011, nos autos do RE nº 355.046/SP. Na ocasião a Relatora Ministra Ellen Gracie asseverou que concessão de isenção parcial do IPTU inversamente proporcional ao valor dos imóveis, configura sistemática disfarçada de alíquotas progressivas.
+    Diante do exposto, acolho os embargos de declaração e, sanando a omissão apontada, dou parcial provimento ao recurso extraordinário para declarar inconstitucional a progressividade contida na LC 28/99, para os exercícios de 2000 e 2001.
+    No tocante à discussão acerca de aplicação da alíquota mínima prevista na legislação determino, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, a devolução dos autos ao Tribunal de origem, para que sejam apensados aos autos originais, devendo-se aplicar, nesse ponto, o disposto no art. 543-B do Código de Processo Civil.
+    Fica mantida, no mais, a decisão embargada.
+    Publique-se.
+    Brasília, 1° de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
