@@ -1,0 +1,24 @@
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES (ART. 33 DA LEI 11.343/06). REQUERIMENTO DE FIXAÇÃO DO REGIME ABERTO PARA O INÍCIO DO CUMPRIMENTO DA PENA OU, ALTERNATIVAMENTE, DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR OUTRA RESTRITIVA DE DIREITOS. SUPERVENIÊNCIA DE DECISÃO NO JUÍZO DE ORIGEM CONCEDENDO O LIVRAMENTO CONDICIONAL. PREJUDICIALIDADE DESTE RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Decisão: Trata-se de recurso ordinário em habeas corpus, sem pedido de liminar, interposto pela DEFENSORIA PÚBLICA DA UNIÃO, em benefício de GEORGE VERGILIO CARAVANTE, contra acórdão do Superior Tribunal de Justiça sintetizado na seguinte ementa:
+    “HABEAS CORPUS. TRÁFICO DE DROGAS. 1. REGIME INICIAL FECHADO. VULTUOSA QUANTIDADE DE DROGA APREENDIDA. 2. SUBSTITUIÇÃO DA REPRIMENDA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. 3. ORDEM DENEGADA.
+    1. O Plenário do Supremo Tribunal Federal (STF), ao analisar recentemente o Habeas Corpus n. 111.840, declarou incidentalmente, por maioria de votos, a inconstitucionalidade do parágrafo 1º do artigo 2º da Lei n. 8.072/1990, com redação dada pela Lei n. 11.464/2007, o qual determina que a sanção segregatória pela prática do delito de tráfico seria cumprida em regime inicial fechado.
+    2. O certo é, então, que a identificação do regime inicial mais adequado à repressão e prevenção de delitos deve ser pautada pelas circunstâncias do caso concreto, tomando-se por base os critérios legais dispostos no parágrafo 2º do art. 33 do Diploma Repressivo.
+    3. No caso, de acordo com o que preceituam os arts. 33, §§ 2º e 3º, do Código Penal, e 42 da Lei de Tóxicos, mesmo sendo a pena aplicada inferior a 4 anos - diga-se, 2 (dois) anos e 6 (seis) meses de reclusão -, considerando a vultuosa quantidade de substância entorpecente apreendida em poder do paciente (20.300g de maconha), o regime mais adequado à espécie é o fechado.
+    4. Pelos mesmos fundamentos, não se considera socialmente recomendável a substituição da reprimenda privativa de liberdade por medidas restritivas de direitos.
+    5. Habeas corpus denegado.”
+    Colhe-se dos autos que o paciente – preso em flagrante delito no dia 28 de março de 2011, ao transportar aproximadamente 20 (vinte) quilos de maconha – foi condenado a 2 (dois) anos e 6 (seis) meses de reclusão, em regime inicial fechado, e ao pagamento de 250 (duzentos e cinquenta) dias multa, pela prática do crime previsto no artigo 33, caput, da Lei 11.343/06 (tráfico de entorpecentes).
+    A defesa interpôs apelação, mas o Tribunal de Justiça do Estado do Mato Grosso do Sul negou provimento ao recurso.
+    Irresignada, impetrou habeas corpus no Superior Tribunal de Justiça, insurgindo-se, em síntese, contra a fixação do regime fechado para o início do cumprimento da pena e contra o indeferimento da substituição da pena privativa de liberdade por outra restritiva de direitos.
+    Denegada a ordem, sobreveio esta impetração, na qual a Defensoria Pública alega que o fundamento utilizado para fixar a pena-base acima do mínimo legal – natureza e quantidade da substância entorpecente – foi o mesmo adotado para justificar a imposição de regime inicial mais gravoso, o que configuraria bis in idem.
+    Afirma, ainda, que “tendo a pena definitiva sido fixada em 2 (dois) anos e 6 (seis) meses de reclusão, o paciente tem ainda direito à substituição da pena privativa de liberdade pela pena restritiva de direitos, uma vez que preenche os requisitos exigidos pelo artigo 44 do Código Penal”.
+    Requer, ao final, “seja conhecido e provido o recurso ordinário constitucional, concedendo -se a ordem de habeas corpus, para afastar o bis in idem, determinando o restabelecimento do regime inicial aberto ou a substituição da pena privativa de liberdade por pena restritiva de direito”.
+    O Ministério Público Federal manifesta-se pelo não provimento do recurso em parecer assim ementado:
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO. ALTERAÇÃO DO REGIME PRISIONAL E SUBSTITUIÇÃO DE PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. ARGUIÇÕES IMPROCEDENTES. REGIME ABERTO. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 33, § 3º, DO CÓDIGO PENAL. REGIME INICIALMENTE FECHADO ADEQUADO À ESPÉCIE. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS REQUISITOS DO ART. 44, III DO CÓDIGO PENAL. PARECER PELO DESPROVIMENTO DO RECURSO.”
+    É o relatório. DECIDO.
+    Em consulta ao site do Tribunal de Justiça do Estado do Mato Grosso do Sul, verifica-se que, em 13.12.12, foi expedida em favor do paciente Carta de Livramento Condicional.
+    Ex positis, julgo prejudicado este habeas corpus, com fundamento no art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 1º de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
