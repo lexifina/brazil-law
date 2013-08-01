@@ -1,0 +1,10 @@
+Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto de acórdão cuja ementa segue transcrita, no que importa:
+    “JUIZADOS ESPECIAIS FAZENDÁRIOS. OBRIGAÇÃO DE FAZER INCABÍVEL. COMPLEMENTAÇÃO SALARIAL. INCORPORAÇÃO DA VPNI (VANTAGEM PESSOAL NOMINALMENTE IDENTIFICADA). SERVIDOR DE CARREIRA DISTINTA. PERÍODO AGOSTO DE 2005 A MAIO DE 2011. AUSÊNCIA DE DIREITO ADQUIRIDO. CARREIRAS DISTINTAS. LEI DISTRITAL 379/92 REVOGADA PELA 3.351/04. APLICAÇÃO DA SÚMULA 339 STF. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS”.
+    No RE, fundado no art. 102, III, a, da Constituição, alegou-se violação aos arts. 37, caput, XI e XV, 150 e 153 da mesma Carta.
+    Inicialmente, verifica-se que à exceção do art. 37, XV, da Constituição, os demais dispositivos não foram prequestionados. Como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    É certo, ainda, que o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação local aplicável à espécie (Leis Distritais 379/92, 2.775/2001 e 3.351/04). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo juízo a quo, o que inviabiliza o extraordinário, nos termos da Súmula 280 do STF. Nesse sentido:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. VANTAGEM PESSOAL. INCORPORAÇÃO. MATÉRIA INFRACONSTITUCIONAL LOCAL. SÚMULA 280 DO STF. PRECEDENTES. AGRAVO IMPROVIDO I – Para se chegar ao exame da alegada ofensa à Constituição, faz-se necessário analisar normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor das Súmulas 280 do STF. II – Agravo regimental improvido” (AI 805.713-AgR/SP, de minha relatoria).
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Brasília, 1º de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
