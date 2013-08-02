@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF08 nº 117, de 15 de maio de 2013
+Assunto: Contribuição de Intervenção no Domínio Econômico – CIDE SERVIÇOS TÉCNICOS, DE ASSISTÊNCIA ADMINISTRATIVA E SEMELHANTES. NÃO INCIDÊNCIA.
+Assunto: Contribuição de Intervenção no Domínio Econômico - CIDE
+SERVIÇOS TÉCNICOS, DE ASSISTÊNCIA ADMINISTRATIVA E SEMELHANTES. NÃO INCIDÊNCIA. No caso de contrato de prestação de serviço de mera inserção, sem qualquer alteração pela prestadora, de filmes publicitários em grade de canais de detentora do direito de transmissão de canais de televisão, não se encontra caracterizada a prestação de serviço técnico ou de assistência administrativa e semelhantes, não havendo que se falar de incidência da CIDE.
+Dispositivos Legais: Art. 2º, §§ 2º a 5º da Lei nº 10.168, de 29 de dezembro de 2000; Art. 10 do Decreto no 4.195, de 11 de abril de 2002; Art. 17 da Instrução Normativa SRF nº 252, de 03 de dezembro de 2002; Art. 2º da Lei nº 4.769, de 9 de setembro de 1965 e Art. 1º, § único da Lei nº 7.321, de 13 de junho de 1985.
