@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 102, de 9 de maio de 2013
+Assunto: Contribuições Sociais Previdenciárias ONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). BASE DE CÁLCULO. EXCLUSÃO DO IPI.
+Assunto: Contribuições Sociais Previdenciárias
+CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). BASE DE CÁLCULO. EXCLUSÃO DO IPI.
+A base de cálculo da contribuição substitutiva prevista nos artigos 7º e 8º da Lei nº 12.546, de 2011, é a receita bruta, considerada sem o ajuste de que trata o inciso VIII do art. 183 da Lei nº 6.404, de 1976, e com a exclusão apenas das vendas canceladas, dos descontos incondicionais concedidos, da receita bruta de exportações, do IPI, se incluído na receita bruta, e do ICMS, quando cobrado pelo vendedor dos bens ou prestador dos serviços na condição de substituto tributário.
+Dispositivos Legais: Constituição Federal de 1988, art. 195, § 13; Medida Provisória nº 540, de 2011, arts. 8º e 9º; Medida Provisória nº 563, de 2012, art. 45; Medida provisória nº 582, de 2012, arts. 1º e 2º; Lei nº 12.546, de 2011, arts. 8º e 9º; Lei nº 12.715, de 2012, arts. 55, 56, 78 e 79; Lei n.º 8.212, de 1991, art. 22, I e III ; e Parecer Normativo RFB nº 3, de 2012.
