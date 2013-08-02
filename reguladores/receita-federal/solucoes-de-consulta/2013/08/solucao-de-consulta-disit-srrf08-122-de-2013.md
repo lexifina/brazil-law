@@ -1,0 +1,10 @@
+Solução de Consulta Disit/SRRF08 nº 122, de 28 de maio de 2013
+Assunto: Imposto sobre Produtos Industrializados – IPI AQUISIÇÃO COM SUSPENSÃO DO IMPOSTO. NÃO GERA CRÉDITO. PRODUTOS DESTINADOS À EXPORTAÇÃO. CRÉDITO. DIREITO. AQUISIÇÃO COM SUSPENSÃO DO IMPOSTO. SETOR ALIMENTÍCIO. INDUSTRIALIZAÇÃO DE PRODUTOS DESTINADOS À EXPORTAÇÃO.
+Assunto: Imposto sobre Produtos Industrializados - IPI
+AQUISIÇÃO COM SUSPENSÃO DO IMPOSTO. NÃO GERA CRÉDITO.
+As aquisições com suspensão do IPI de matérias-primas, produtos intermediários e materiais de embalagens, não geram ao adquirente qualquer direito de apropriação de créditos, por não haver pagamento do imposto por parte do estabelecimento industrial (fornecedor das matérias primas, produtos intermediários e materiais de embalagens) nessas operações.
+PRODUTOS DESTINADOS À EXPORTAÇÃO. CRÉDITO. DIREITO.
+As disposições relativas ao aproveitamento dos créditos de IPI constantes do § 1º do art. 39 da Lei nº 9.532, de 1997, dizem respeito, tão-somente, às operações industriais em que tenham sido empregados matérias-primas, produtos intermediários e materiais de embalagens tributados pelo IPI, mas cujo produto final, na saída do estabelecimento que o fabricou, se beneficia com a suspensão do imposto.
+AQUISIÇÃO COM SUSPENSÃO DO IMPOSTO. SETOR ALIMENTÍCIO. INDUSTRIALIZAÇÃO DE PRODUTOS DESTINADOS À EXPORTAÇÃO.
+O estabelecimento industrial adquirente de matéria-prima, produto intermediário e material de embalagem, no mercado interno, com a suspensão do imposto de que trata o art. 29, caput, da Lei nº 10.637, de 2002, não pode se creditar do valor do IPI suspenso, independentemente do fato de tais aquisições terem sido empregadas na fabricação de produtos destinados à exportação nas condições previstas no art. 39 da Lei nº 9.532, de 1997.
+Dispositivos Legais: Constituição Federal, art. 153, inciso IV, c/c § 3º, inciso II; Lei nº 5.172, de 1966 (CTN), art. 49; Lei nº 9.532, de 1997, art. 39 e § 1º; Decreto n° 7.212, de 2010 (Ripi/2010), art. 225, 226, 239 c/c art. 43, inciso V e § 1º.
