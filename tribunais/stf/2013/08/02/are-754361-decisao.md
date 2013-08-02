@@ -1,0 +1,15 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que julgou improcedente pedido de concessão de pensão por morte.
+    No apelo extremo, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 1º, III; 5º, caput; e 201, caput e I, do texto constitucional.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Verifico, inicialmente, que o magistrado de 1º grau expressamente consignou que “o falecido não fazia jus à concessão de aposentadoria por tempo de contribuição ou aposentadoria por idade, motivo pelo qual não há possibilidade de converter referidos benefícios em pensão por morte” (eDOC 17, p. 2).
+    Para ultrapassar o entendimento firmado acima, faz-se imprescindível o reexame da legislação infraconstitucional aplicável (Lei n. 8.213/91) e do acervo fático-probatório dos autos, providência vedada na via do apelo extremo, nos termos das Súmulas 279 e 636 do STF.
+    Nesse sentido:
+    “Embargos de declaração no recurso extraordinário com agravo. Conversão dos embargos declaratórios em agravo regimental. Previdenciário. Pensão por morte. Preenchimento dos requisitos para a concessão do benefício. Prequestionamento. Ausência. Ofensa reflexa. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. Embargos de declaração recebidos como agravo regimental. 2. Não se admite o recurso extraordinário quando os dispositivos constitucionais que nele se alega violados não estão devidamente prequestionados. Incidência das Súmulas nºs 282 e 356/STF. 3. Inadmissível, em recurso extraordinário, o reexame da legislação infraconstitucional e dos fatos e das provas da causa. Incidência das Súmulas nºs 636 e 279/STF. 4. Agravo regimental não provido (ARE-ED 690.494, Rel. Min. Dias Toffoli, Primeira Turma, DJe 4.4.2013).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. PENSÃO POR MORTE. PERDA DA QUALIDADE DE SEGURADO. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, §3º, DA CONSTITUIÇÃO FEDERAL. REQUISITOS. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 279 DO SUPREMO TRIBUNAL FEDERAL. IMPOSSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. O entendimento diverso do adotado pelo Tribunal a quo, concluindo que na data do óbito o “de cujus” não possuía a qualidade de segurado, ensejaria o reexame do contexto fático-probatório engendrado nos autos, o que inviabiliza o extraordinário, a teor do Enunciado da Súmula n. 279 do Supremo Tribunal Federal, verbis: “para simples reexame de prova não cabe recurso extraordinário”. 2. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. 3. Agravo regimental a que se nega provimento” (RE-AgR 695.265, Rel. Min. Luiz Fux, Primeira Turma, DJe 2.10.2012).
+    Ante o exposto, nego provimento ao recurso (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 2 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
