@@ -1,0 +1,6 @@
+Solução de Consulta Disit/SRRF08 nº 106, de 10 de maio de 2013
+Assunto: Imposto sobre a Renda de Pessoa Física – IRPF PORTADOR DE MOLÉSTIA GRAVE. COMPLEMENTO DE APOSENTADORIA.
+Assunto: Imposto sobre a Renda de Pessoa Física - IRPF
+PORTADOR DE MOLÉSTIA GRAVE. COMPLEMENTO DE APOSENTADORIA.
+Por força do disposto no art. 111, inciso II, do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966) apenas os rendimentos recebidos por pessoa física residente no Brasil, portadora de moléstia grave listada em lei, a título de pensão, proventos de aposentadoria, reforma e complementação de aposentadoria (a partir do mês da concessão da aposentadoria pela previdência oficial) são isentos do imposto sobre a renda. Os demais rendimentos, inclusive as importâncias recebidas em virtude de resgates (parciais ou total) das contribuições para entidades de previdência privada, sujeitam-se à incidência do imposto de renda na fonte e na Declaração de Ajuste Anual.
+Dispositivos Legais: Lei nº 5.172, de 1966 - Código Tributário Nacional (CTN), art. 111; Art. 6º, XIV, da Lei nº 7.713, de 22.12.1988 (redação dada pela Lei nº 11.052, de 2004); art. 39, XXXIII e § 6º, do Decreto nº 3.000, de 1999; e art. 5º, XII e § 4º, da Instrução Normativa SRF nº 15, de 6.2.2001.
