@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDÊNCIA PRIVADA. RESGATE DAS CONTRIBUIÇÕES. ÍNDICE DE CORREÇÃO MONETÁRIA. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE 582.504. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. O índice de correção monetária incidente sobre o valor a ser restituídos quando do resgate das contribuições de previdência privada, quando enseja controvérsia, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 582.504-RG, Rel. Min. Cezar Peluso.
+2. In casu, o acórdão recorrido assentou: “AÇÃO ORDINÁRIA – Previdência privada – Reserva de poupança – Devolução dos valores pagos – Insurgência contra o índice de correção monetária adotado – A correção da reserva de poupança deve dar-se pelo índices oficiais, sob pena de enriquecimento ilícito do devedor – Prescrição – Inocorrência – Inteligência do art. 75 da LC 109/01 – Ação interposta dentro do quinquênio posterior ao recebimento da devolução das parcelas de reserva de poupança – Sentença de improcedência reformada – Recurso provido.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pela FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional, contra acórdão assim ementado:
+    “AÇÃO ORDINÁRIA – Previdência privada – Reserva de poupança – Devolução dos valores pagos – Insurgência contra o índice de correção monetária adotado – A correção da reserva de poupança deve dar-se pelo índices oficiais, sob pena de enriquecimento ilícito do devedor – Prescrição – Inocorrência – Inteligência do art. 75 da LC 109/01 – Ação interposta dentro do quinquênio posterior ao recebimento da devolução das parcelas de reserva de poupança – Sentença de improcedência reformada – Recurso provido.”
+    É o relatório. DECIDO.
+    O índice de correção monetária incidente sobre o valor a ser restituído quando do resgate das contribuições de previdência privada, quando enseja controvérsia, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 582.504-RG, Rel. Min. Cezar Peluso, que possui a seguinte ementa:
+    “RECURSO. Extraordinário. Incognoscibilidade. Plano de previdência privada. Resgate das contribuições. Índices de correção. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão de resgate de contribuição de plano de previdência privada, versa sobre matéria infraconstitucional.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
