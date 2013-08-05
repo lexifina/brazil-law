@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Instituto Nacional do Seguro Social – INSS. Aparelhado o recurso na afronta ao art. 5º, XLV e XLVI, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Registrado pela Corte de origem que “a última remuneração do segurado recluso foi de R$ 239,79, no mês de junho de 2010, quando foi rescindido seu contrato de trabalho, em 1º/07/2010 (Evento 5, PROCADM1, fl. 10). O recolhimento ao estabelecimento prisional por sua vez, ocorreu em 02/09/2010. A qualidade de segurado, por sua vez, está mantida. Desta forma, a autora se enquadra no conceito de 'baixa renda', pois os proventos do segurado encontram-se abaixo dos parâmetros estipulados na Portaria nº. 333 de 29/06/2010, que estipulou o patamar de R$ 810,18”, reputo a decisão recorrida em consonância com o entendimento firmado no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: RE 587.365/SC, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, DJe 08.5.2009, cuja ementa transcrevo:
+    “PREVIDENCIÁRIO. CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. AUXÍLIO-RECLUSÃO. ART. 201, IV, DA CONSTITUIÇÃO DA REPÚBLICA. LIMITAÇÃO DO UNIVERSO DOS CONTEMPLADOS PELO AUXÍLIO-RECLUSÃO. BENEFÍCIO RESTRITO AOS SEGURADOS PRESOS DE BAIXA RENDA. RESTRIÇÃO INTRODUZIDA PELA EC 20/1998. SELETIVIDADE FUNDADA NA RENDA DO SEGURADO PRESO. RECURSO EXTRAORDINÁRIO PROVIDO. I - Segundo decorre do art. 201, IV, da Constituição, a renda do segurado preso é que a deve ser utilizada como parâmetro para a concessão do benefício e não a de seus dependentes. II - Tal compreensão se extrai da redação dada ao referido dispositivo pela EC 20/1998, que restringiu o universo daqueles alcançados pelo auxílio-reclusão, a qual adotou o critério da seletividade para apurar a efetiva necessidade dos beneficiários. III - Diante disso, o art. 116 do Decreto 3.048/1999 não padece do vício da inconstitucionalidade. IV - Recurso extraordinário conhecido e provido” (destaquei).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 05 de agosto de 2013.
+Ministra Rosa Weber
+Relatora
