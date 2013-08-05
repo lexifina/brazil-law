@@ -1,0 +1,2 @@
+Altera a Lei nº 12.505, de 11 de outubro de 2011, que "concede anistia aos policiais e bombeiros militares dos Estados de Alagoas, da Bahia, do Ceará, de Mato Grosso, de Minas Gerais, de Pernambuco, do Rio de Janeiro, do Rio Grande do Norte, de Rondônia, de Roraima, de Santa Catarina, de Sergipe e do Tocantins e do Distrito Federal punidos por participar de movimentos reivindicatórios", para acrescentar os Estados de Goiás, do Maranhão, da Paraíba e do Piauí.
+A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
