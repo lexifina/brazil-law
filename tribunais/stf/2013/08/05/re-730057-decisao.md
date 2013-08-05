@@ -1,0 +1,14 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 70 e 71, I e II, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido: MS 24.312/DF, Rel. Min. Ellen Gracie, Tribunal Pleno, DJ 19.12.2003, cuja ementa transcrevo:
+    “MANDADO DE SEGURANÇA. ATO CONCRETO. CABIMENTO. EXPLORAÇÃO DE PETRÓLEO, XISTO BETUMINOSO E GÁS NATURAL. PARTICIPAÇÃO, EM SEU RESULTADO, DOS ESTADOS, DISTRITO FEDERAL E MUNICÍPIOS. CONSTITUIÇÃO FEDERAL, ART. 20, § 1º. COMPETÊNCIA DO TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO PARA A FISCALIZAÇÃO DA APLICAÇÃO DOS RECURSOS ORIUNDOS DESTA EXPLORAÇÃO NO TERRITÓRIO FLUMINENSE. 1 - Não tendo sido atacada lei em tese, mas ato concreto do Tribunal de Contas da União que autoriza a realização de auditorias nos municípios e Estado do Rio de Janeiro, não tem aplicação a Súmula 266 do STF. 2 - Embora os recursos naturais da plataforma continental e os recursos minerais sejam bens da União (CF, art. 20, V e IX), a participação ou compensação aos Estados, Distrito Federal e Municípios no resultado da exploração de petróleo, xisto betuminoso e gás natural são receitas originárias destes últimos entes federativos (CF, art. 20, § 1º). 3 - É inaplicável, ao caso, o disposto no art. 71, VI da Carta Magna que se refere, especificamente, ao repasse efetuado pela União - mediante convênio, acordo ou ajuste - de recursos originariamente federais. 4 - Entendimento original da Relatora, em sentido contrário, abandonado para participar das razões prevalecentes. 5 - Segurança concedida e, ainda, declarada a inconstitucionalidade do arts. 1º, inc. XI e 198, inc. III, ambos do Regimento Interno do Tribunal de Contas da União, além do art. 25, parte final, do Decreto nº 1, de 11 de janeiro de 1991.” (destaquei).
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 05 de agosto de 2013.
+Ministra Rosa Weber
+Relatora
