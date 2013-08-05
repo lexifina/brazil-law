@@ -1,0 +1,15 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO RE Nº 585.392. OFENSA À LEGISLAÇÃO ESTADUAL.
+1. A complementação de aposentadoria supostamente conferida com ofensa à legislação estadual não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 585.392, da Relatoria da Min. Ellen Gracie,
+2. In casu, o acórdão recorrido assentou: “APOSENTADORIA. Complementação. Ex-empregados do Metrô. Benefício do Estado aos servidores de autarquias e empregados das sociedades anônimas em que detinha controle acionário (Leis ns. 1.386/51 e 4.819/58). Prescrição do fundo de direito em relação a dois dos autores. Empregados do Metrô que não fazem jus à complementação, porque passaram a integrar a Administração pública Estadual em 1978, por ocasião da transferência do controle acionário para o Estado de São Paulo, quando a Lei 4.819/58 já havia sido revogada pela Lei 200/74. Solução de continuidade que impede a concessão da complementação. Precedentes jurisprudenciais. Ação improcedente. Verba honorária mantida. Recurso desprovido.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por ALBERTO ALÉCIO BATISTA E OUTROS, com fundamento no art. 544 do Código de Processo Civil, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão assim ementado:
+    “APOSENTADORIA. Complementação. Ex-empregados do Metrô. Benefício do Estado aos servidores de autarquias e empregados das sociedades anônimas em que detinha controle acionário (Leis ns. 1.386/51 e 4.819/58). Prescrição do fundo de direito em relação a dois dos autores. Empregados do Metrô que não fazem jus à complementação, porque passaram a integrar a Administração pública Estadual em 1978, por ocasião da transferência do controle acionário para o Estado de São Paulo, quando a Lei 4.819/58 já havia sido revogada pela Lei 200/74. Solução de continuidade que impede a concessão da complementação. Precedentes jurisprudenciais. Ação improcedente. Verba honorária mantida. Recurso desprovido.”
+    É o relatório. DECIDO.
+    A complementação de aposentadoria supostamente conferida com ofensa à legislação estadual não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do RE nº 585.392, da Relatoria da Min. Ellen Gracie, que possui a seguinte ementa:
+    “SERVIDOR ESTADUAL. COMPLEMENTAÇÃO DE APOSENTADORIA. LEI ESTADUAL 4.819/58 E LEI COMPLEMENTAR ESTADUAL 200/74. APLICAÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL TENDO EM VISTA TRATAR-SE DE DIVERGÊNCIA SOLUCIONÁVEL PELA APLICAÇÃO DA LEGISLAÇÃO ESTADUAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
