@@ -1,0 +1,15 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário de acórdão de Tribunal Superior do Trabalho que, em agravo de instrumento de recurso de revista, decidiu pela não aplicação ao caso da prescrição intercorrente, nos termos da Súmula 114 do TST.
+    No recurso extraordinário, o recorrente sustenta, preliminarmente, a existência de repercussão geral da matéria, conforme estabelece o art. 543-A, § 2º, do CPC.
+    Aponta ofensa aos seguintes dispositivos constitucionais: (a) arts. 5º, II, e 7º, XXIX, porquanto a prescrição intercorrente é admitida no direito trabalhista; e (b) arts. 93, IX, e 5º, LIV e LV, por negativa de prestação jurisdicional.
+    2. No que tange à discussão referente a ausência de fundamentação do acórdão recorrido, este se apresenta conforme a jurisprudência desta Corte, firmada no julgamento do AI 791.292 QO - RG (Min. Rel. GILMAR MENDES, DJe de 13/8/2010), cuja repercussão geral foi reconhecida, para reafirmar jurisprudência do Supremo Tribunal Federal no sentido de que
+    (…) o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+    3. De resto, o debate a respeito da aplicabilidade da prescrição intercorrente no âmbito da Justiça do Trabalho está limitado à análise de normas infraconstitucionais. Conforme reiterada jurisprudência desta Corte, é inviável a apreciação, em sede de recurso extraordinário, de alegada violação a dispositivo da Constituição Federal que, por não prescindir do exame de normas infraconstitucionais, se houvesse, seria meramente indireta ou reflexa. Nesse sentido:
+    Ementa: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA TRABALHISTA. PRESCRIÇÃO INTERCORRENTE. NO CASO, O TRIBUNAL SUPERIOR DO TRABALHO SE LIMITOU AO EXAME DA MATÉRIA SOB ENFOQUE EMINENTEMENTE INFRACONSTITUCIONAL. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido (AI 813.330-AgR, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 3.3.11).
+    Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. PRESCRIÇÃO INTERCORRENTE. NO CASO, O TRIBUNAL SUPERIOR DO TRABALHO SE LIMITOU AO EXAME DA MATÉRIA SOB ENFOQUE EMINENTEMENTE INFRACONSTITUCIONAL. 1. Questão restrita ao âmbito infraconstitucional, que não enseja apreciação em recurso extraordinário. 2. Agravo regimental desprovido.(RE 568463-AgR , Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 17.12.10).
+    Ementa: AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. PRESCRIÇÃO INTERCORRENTE. VALIDADE DE INTIMAÇÃO. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO (AI 695.982-AgR,, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe de 4.6.10).
+    4. Diante do exposto, nego provimento ao agravo.
+    Publique-se. Intime-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
