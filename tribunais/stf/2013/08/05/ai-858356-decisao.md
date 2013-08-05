@@ -1,0 +1,22 @@
+Decisão: Trata-se de recurso extraordinário remetido ao Tribunal de Justiça do Estado de Minas Gerais, por meio de decisão que determinou a devolução dos autos para cumprimento do disposto no art. 543-B do CPC, uma vez que a controvérsia suscitada no extraordinário está representada na sistemática de repercussão geral sob o tema 339, cujo processo-paradigma é o AI-RG-QO 791.292.
+    Chegando ao Tribunal a quo, os autos foram reenviados ao STF, com fundamento no art. 543-B, § 4º, do CPC, com a alegação de que a questão do presente feito trata de tema diverso do processo-paradigma ao qual foi vinculado.
+    Decido.
+    Verifico, após detida análise, que a vinculação ao precedente indicado está correta, tendo em vista que a matéria debatida nos autos é a mesma que a abrangida pelo paradigma desta Corte.
+    Tendo em vista que o tema dos autos está corretamente abarcado pelo paradigma indicado e, diante da negativa de retratação pelo Tribunal de origem, passo ao julgamento do recurso extraordinário.
+    Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado:
+    “Processual civil. Embargos à execução. Rejeição de preliminar de incompetência absoluta do juízo cível para processar e julgar a lide. Denegação de efeito suspensivo aos embargos. Determinação de prosseguimento da execução. Agravo de instrumento. Presença dos pressupostos de admissibilidade. Alegações não demonstradas de incompetência do juízo cível para processar e julgar a lide e de presença dos requisitos do § 1º do art. 739-A do CPC, a ensejar atribuição de efeito suspensivo aos embargos à execução. Decisão proferida em consonância com elementos carreados para os autos e legislação em vigor, sem obstar o exercício da ampla defesa, nem configurar prejulgamento. Irresignação imotivada. Recurso improvido”. (fl. 367)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se afronta aos artigos 5º, LIV e LV, e 93, IX, do texto constitucional. Nas razões recursais, sustenta-se ausência de prestação jurisdicional e ofensa ao devido processo legal.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Inicialmente, verifico que o acórdão recorrido encontra-se devidamente fundamentado, sendo pacífico o entendimento do Supremo Tribunal Federal no sentido de que, se a decisão estiver apropriadamente fundamentada, ainda que não tenha enfrentado especificamente todos os argumentos trazidos pelo recorrente, não há que se falar em violação ao artigo 93, IX, da Constituição Federal.
+     Saliento, ainda, que esta Corte reconheceu a repercussão geral da questão constitucional acima discutida, ementada nos seguintes termos:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI-QO-RG 791.292, de minha relatoria, Pleno, DJe 13.8.2010).
+     Na espécie, o Tribunal de origem apreciou as questões suscitadas, fundamentando-as de modo suficiente a demonstrar as razões objetivas do convencimento do julgador. A prestação jurisdicional foi concedida nos termos da legislação vigente, apesar de ter sido a conclusão contrária aos interesses do recorrente. Portanto, não prospera a alegação de nulidade do acórdão por falta de fundamentação.
+    Por fim, no tocante à suposta violação à ampla defesa e ao contraditório, observo que o Supremo Tribunal Federal já apreciou a matéria no ARE-RG 748.371 (Tema 660), oportunidade em que rejeitou a repercussão geral, tendo em vista a natureza infraconstitucional da questão.
+    Ante o exposto,conheço do presente agravo para negar seguimento ao recurso extraordinário (arts. 544, §4º, II, “b” e 21, §1º, do RISTF).
+    Oficie-se à Presidência do Tribunal a quo quanto ao teor dessa decisão.
+    Publique-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
