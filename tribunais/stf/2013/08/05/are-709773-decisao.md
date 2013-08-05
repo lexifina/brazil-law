@@ -1,0 +1,33 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. CIVIL. E PROCESSUAL CIVIL. INDISPONIBILIDADE DE BENS. DESBLOQUEIO DE ATIVOS FINANCEIROS. POSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO.
+1. O prequestionamento da questão constitucional é requisito indispensável à admissão do recurso extraordinário.
+2. A Súmula 282 e 356 do STF dispõe, respectivamente, verbis: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada” e “o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não podem ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+3. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+4. In casu, o acórdão recorrido assentou: “CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DESBLOQUEIO DE ATIVOS FINANCEIROS. POSSIBILIDADE.
+  1.Em atenção à preservação da dignidade da pessoa humana, devem ser liberadas da ordem de indisponibilidade as contas correntes do agravante, a fim de que este e as pessoas jurídicas das quais seja ele sócio possam realizar movimentações indispensáveis à sua manutenção, bem como as verbas de natureza alimentar, salários e pensões. 2.Recurso provido em parte.”
+5. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto por RUBENS CÉSAR BRUNELLI JÚNIOR, objetivando a reforma da decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea “a” do permissivo Constitucional contra acórdão prolatado pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “CIVIL E PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. DESBLOQUEIO DE ATIVOS FINANCEIROS. POSSIBILIDADE.
+      1.Em atenção à preservação da dignidade da pessoa humana, devem ser liberadas da ordem de indisponibilidade as contas correntes do agravante, a fim de que este e as pessoas jurídicas das quais seja ele sócio possam realizar movimentações indispensáveis à sua manutenção, bem como as verbas de natureza alimentar, salários e pensões.
+      2.Recurso provido em parte.”
+    Não foram opostos embargos de declaração.
+    Nas razões do apelo extremo, sustenta a preliminar de repercussão geral e, no mérito, aponta violação ao artigo 5º, LIV, LV e LVI, da Constituição Federal.
+    O Tribunal a quo negou seguimento ao apelo derradeiro, sob o fundamento de que a matéria não possui repercussão geral, e que a solução da controvérsia demanda a reapreciação de fatos e provas da causa.
+    É o relatório. DECIDO.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    Não merece prosperar o presente agravo.
+    Verifica-se que o artigo da Constituição Federal que o agravante considera violado não foi debatido no acórdão recorrido. Além disso, não foram opostos embargos de declaração para sanar eventual omissão, faltando, ao caso, o necessário prequestionamento da questão constitucional, que deve ser explícito, o que inviabiliza a pretensão de exame do recurso extraordinário. Incide, portanto, o óbice das Súmulas 282 e 356 do STF: “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” e “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.”
+    A respeito da aplicação das aludidas súmulas, assim discorre Roberto Rosas:
+    “A Constituição de 1891, no art. 59, III, a, dizia: 'quando se questionar sobre a validade de leis ou aplicação de tratados e leis federais, e a decisão for contra ela'.
+    De forma idêntica dispôs a Constituição de 1934, no art. 76, III, a: ‘quando a decisão for contra literal disposição de tratado ou lei federal, sobre cuja aplicação se haja questionado’.
+    Essas Constituições eram mais explícitas a respeito do âmbito do recurso extraordinário. Limita-se este às questões apreciadas na decisão recorrida. Se foi omissa em relação a determinado ponto, a parte deve opor embargos declaratórios. Caso não o faça, não poderá invocar essa questão não apreciada na decisão recorrida. (RTJ 56/70; v. Súmula 356 do STF e Súmula 211 do STJ; Nelson Luiz Pinto, Manual dos Recursos Cíveis, Malheiros Editores, 1999, p. 234; Carlos Mário Velloso, Temas de Direito Público, p. 236).
+    Os embargos declaratórios visam a pedir ao juiz ou juízes prolatores da decisão que espanquem dúvidas, supram omissões ou eliminem contradições. Se esse possível ponto omisso não foi aventado, nada há que se alegar posteriormente no recurso extraordinário. Falta o prequestionamento da matéria.
+    A parte não considerou a existência de omissão, por isso não opôs os embargos declaratórios no devido tempo, por não existir matéria a discutir no recurso extraordinário sobre essa questão (RE 77.128, RTJ 79/162; v. Súmula 282).
+    O STF interpretou o teor da Súmula no sentido da desnecessidade de nova provocação, se a parte opôs os embargos, e o tribunal se recusou a suprir a omissão (RE 176.626, RTJ 168/305; v. Súmula 211 do STJ).” (ROSAS, Roberto, in Direito Sumular, Malheiros).
+    Nesse sentido, ARE 738.029-AgR, Rel. Min. Rosa Weber, Primeira Turma, DJe de 25/6/2013, e ARE 737.360-AgR/BA, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe de 24/6/2013, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO IMPROVIDO. I – É inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, não opostos embargos declaratórios para suprir a omissão, é inviável o recurso, nos termos da Súmula 356 do STF. II – Agravo regimental improvido.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
