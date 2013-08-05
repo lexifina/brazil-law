@@ -1,0 +1,20 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. POUPANÇA. PLANOS ECONÔMICOS. JUROS REMUNERATÓRIOS. EXISTÊNCIA DE AÇÃO CIVIL PÚBLICA. LIMITES DA COISA JULGADA. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 689.765. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A violação ao princípio da coisa julgada, em virtude da propositura de ação individual autônoma na qual se pleiteiam juros remuneratórios mensais e capitalizados da poupança, tendo em vista tratar-se de pedido não compreendido em título executivo decorrente de ação civil pública anteriormente ajuizada, posto controvérsia de natureza infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 689.765, da Relatoria do Min. Gilmar Mendes.
+2. In casu, o acórdão recorrido assim dispôs: “No caso em exame, a parte autora executou a sentença proferida na ação coletiva. Nada obstante, pretende, na presente ação individual de conhecimento, um acessório daquele bem, que, a seu juízo, não foi plenamente contemplado naquela ação coletiva: os juros remuneratórios decorrentes do pedido principal lá veiculado.
+Ocorre que o pedido esbarra na coisa julgada. Isto porque os juros remuneratórios, consoante expresso linhas atrás, nada mais representam que consectários do pedido principal veiculado na ação coletiva.
+Destarte, a parte autora, ao optar por executar o título coletivo, ao invés de ingressar com ação individual para discutir toda a matéria, exerceu, lá, seu direito àquela pretensão. Outrossim, ao executar aquele título consumou o exercício de seu direito, esbarrando o pedido veiculado na inicial no instituto da coisa julgada.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acordão que assim dispôs:
+    “ No caso em exame, a parte autora executou a sentença proferida na ação coletiva. Nada obstante, pretende, na presente ação individual de conhecimento, um acessório daquele bem, que, a seu juízo, não foi plenamente contemplado naquela ação coletiva: os juros remuneratórios decorrentes do pedido principal lá veiculado.
+    Ocorre que o pedido esbarra na coisa julgada. Isto porque os juros remuneratórios, consoante expresso linhas atrás, nada mais representam que consectários do pedido principal veiculado na ação coletiva.
+    Destarte, a parte autora, ao optar por executar o título coletivo, ao invés de ingressar com ação individual para discutir toda a matéria, exerceu, lá, seu direito àquela pretensão. Outrossim, ao executar aquele título consumou o exercício de seu direito, esbarrando o pedido veiculado na inicial no instituto da coisa julgada.”
+    O tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição se daria de forma reflexa.
+    É o Relatório. DECIDO.
+    A violação ao princípio da coisa julgada, em virtude da propositura de ação individual autônoma na qual se pleiteiam juros remuneratórios mensais e capitalizados da poupança, tendo em vista tratar-se de pedido não compreendido em título executivo decorrente de ação civil pública anteriormente ajuizada, posto controvérsia de natureza infraconstitucional, não revela repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 689.765, da Relatoria do Min. Gilmar Mendes. O julgado restou assim ementado:
+    “AÇÃO AUTÔNOMA DE COBRANÇA. POUPANÇA. CORREÇÃO MONETÁRIA. PLANOS ECONÔMICOS. JUROS REMUNERATÓRIOS. EXISTÊNCIA DE AÇÃO CIVIL PÚBLICA. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 5 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
