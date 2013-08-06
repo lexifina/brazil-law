@@ -1,0 +1,25 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 659):
+    “PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA. AUXÍLIO CESTA-ALIMENTAÇÃO. PREVI.
+    Implantação de auxílio cesta-alimentação no benefício previdenciário de empregado inativo.
+    Possibilidade.
+    Apelo provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 7º, XXVI; 93, IX; 114, I; 195, § 5º; e 202, todos da Constituição.
+    A decisão agravada negou seguimento ao recurso, sob os seguintes fundamentos: (i) não há negativa de prestação jurisdicional, porque houve o efetivo cumprimento do princípio constitucional da motivação das decisões judiciais; (ii) eventual ofensa à Constituição, se existente, seria indireta, o que impede o acesso à via extraordinária; e (iii) incidem, no caso, as Súmulas 279 e 454/STF (fls. 1.023/1.024).
+    O Ministro Joaquim Barbosa, relator originário do presente recurso, determinou o sobrestamento do feito até o julgamento do RE 586.543, em que reconhecida repercussão geral (fl. 1.053). Posteriormente, o relator originário foi por mim substituído.
+    O recurso não pode ser provido. Em primeiro lugar, no que concerne à competência para julgar pedido de complementação de aposentadoria formulado a entidade de previdência privada, a decisão recorrida está alinhada com o entendimento do Plenário do Supremo Tribunal Federal, segundo o qual a competência, na hipótese, é da Justiça comum (RE 586.453, Plenário, Rel.ª Min.ª Ellen Gracie, Rel. p/ o acórdão Min. Dias Toffoli).
+    Ademais, em segundo lugar, o STF já reconheceu inexistir repercussão geral da controvérsia envolvendo extensão a inativos, beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados em atividade, por não se tratar de matéria constitucional. Nessa linha, veja-se a ementa do RE 590.005-RG, julgado sob a relatoria do Ministro Cezar Peluso (Plenário Virtual):
+    “Extraordinário. Incognoscibilidade. Previdência privada. Complementação de aposentadoria. Extensão, a aposentados, de benefício concedido a trabalhadores em atividade. Questão infraconstitucional. Precedentes. Ausência de repercussão geral. Recurso extraordinário não conhecido. Não apresenta repercussão geral o recurso extraordinário que, tendo por objeto questão relativa à concessão, a beneficiários de plano de previdência privada complementar, de vantagem outorgada a empregados ativos, versa sobre matéria infraconstitucional.”
+    Em terceiro lugar, a jurisprudência do Supremo tribunal Federal é firme no sentido de que o art. 195, § 5º, da Constituição Federal não se aplica às entidades de previdência privada. Nesse sentido, veja-se a ementa do AI 685.344 AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski:
+    “PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. MATÉRIA INFRACONSTITUCIONAL. ART. 195, § 5º, DA CF. APLICAÇÃO APENAS À SEGURIDADE SOCIAL. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. INTERPRETAÇÃO DE CLÁUSULAS CONSTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO STF. AGRAVO IMPROVIDO.
+    I A análise da questão constitucional depende de exame prévio de legislação infraconstitucional.
+    II A jurisprudência desta Corte firmou-se no sentido de que o art. 195, § 5º, da Constituição somente se aplica à previdência social financiada por toda a sociedade.
+    III A matéria alegada no RE demanda o exame do conjunto fático-probatório constante dos autos e a interpretação de cláusulas contratuais, o que atrai a incidência das Súmulas 279 e 454 do STF.
+    IV - Agravo improvido.”
+    Por fim, quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nessa linha, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 06 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
