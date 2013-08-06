@@ -1,0 +1,16 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. POUPANÇA. PLANOS ECONÔMICOS. JUROS REMUNERATÓRIOS. EXISTÊNCIA DE AÇÃO CIVIL PÚBLICA. LIMITES DA COISA JULGADA IN UTILIBUS. MATÉRIA DE FUNDO COM REPERCUSSÃO GERAL REJEITADA PELO PLENÁRIO DO STF NO ARE Nº 689.765. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL.
+1. A coisa julgada, na sua concepção constitucional, obsta que nas ações individuais autônomas que se pleiteie juros remuneratórios mensais e capitalizados da poupança não compreendidos na decisão coletiva, não revela parâmetro capaz de desafiar a competência desta Corte, posto controvérsia de natureza infraconstitucional e não reveladora de repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 689.765, da Relatoria do Min. Gilmar Mendes.
+2. In casu, o acórdão recorrido assim dispôs: “Ocorre que os juros remuneratórios, consoante mencionado alhures, são decorrentes do recebimento das diferenças de correção monetária devidas e não creditadas. Nada mais representam que consectários do pedido principal. Dessa maneira, torna-se impossível reconhecer à parte autora o direito apenas aos valores acessórios, sem haver o montante principal a que se referem. Enquanto não pleiteado em juízo o valor do principal, não se cogita possa ingressar com ação para reconhecimento apenas do acessório, pois sem aquele, este não pode existir.”
+3. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional contra acordão que assim dispôs:
+    “Ocorre que os juros remuneratórios, consoante mencionado alhures, são decorrentes do recebimento das diferenças de correção monetária devidas e não creditadas. Nada mais representam que consectários do pedido principal. Dessa maneira, torna-se impossível reconhecer à parte autora o direito apenas aos valores acessórios, sem haver o montante principal a que se referem. Enquanto não pleiteado em juízo o valor do principal, não se cogita possa ingressar com ação para reconhecimento apenas do acessório, pois sem aquele, este não pode existir.”
+    O tribunal a quo negou seguimento ao recurso extraordinário por entender que a ofensa à Constituição se daria de forma reflexa.
+    É o Relatório. DECIDO.
+    A coisa julgada, na sua concepção constitucional, obsta que nas ações individuais autônomas que se pleiteie juros remuneratórios mensais e capitalizados da poupança não compreendidos na decisão coletiva, não revela parâmetro capaz de desafiar a competência desta Corte, posto controvérsia de natureza infraconstitucional e não reveladora de repercussão geral apta a tornar o apelo extremo admissível, consoante decidido pelo Plenário virtual do STF, na análise do ARE nº 689.765, da Relatoria do Min. Gilmar Mendes. O julgado restou assim ementado:
+    “AÇÃO AUTÔNOMA DE COBRANÇA. POUPANÇA. CORREÇÃO MONETÁRIA. PLANOS ECONÔMICOS. JUROS REMUNERATÓRIOS. EXISTÊNCIA DE AÇÃO CIVIL PÚBLICA. LIMITES DA COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REPERCUSSÃO GERAL REJEITADA.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 6 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
