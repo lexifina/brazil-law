@@ -1,0 +1,13 @@
+Decisão:
+    Ementa: A intimação da Fazenda estadual ocorre com a publicação das decisões no Diário da Justiça. Recurso extraordinário intempestivo, a que se nega seguimento.
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 438):
+    “TRIBUTÁRIO – LEI COMPLEMENTAR Nº 86/96 – SUPERVENIÊNCIA DA LEI COMPLEMENTAR Nº 102/2000 – DECRETO Nº 640/62 – PRINCÍPIO CONSTITUCIONAL DA NÃO-CUMULATIVIDADE – ENERGIA ELÉTRICA – PRESTAÇÃO DE SERVIÇOS DE TELECOMUNICAÇÕES – CRÉDITO DE ICMS – DIREITO ASSEGURADO – PRECEDENTES JURISPRUDENCIAIS.
+    Nos termos do art. 33, II, ‘b’, da Lei Complementar nº 87/96, com as alterações introduzidas pela Lei Complementar nº 102/2000, das disposições contidas no Decreto nº 640/62, e por força do princípio constitucional da não-cumulatividade, consagrado no art. 155, § 2º, I, da CF, deve ser assegurado à apelante o direito de escriturar os créditos de ICMS pela aquisição de energia elétrica utilizada como insumo na efetiva prestação dos serviços de telecomunicações. Precedentes jurisprudenciais do STF e do STJ”.
+    O recurso busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 155, § 2º, I e XII, b, da Carta. Alega, em síntese, que a recorrida não faria jus à escrituração de créditos de ICMS pela aquisição de energia elétrica para a prestação de serviços de telecomunicações.
+    O recurso não pode ser conhecido. A jurisprudência deste Tribunal se firmou no sentido de que a legislação processual não confere genericamente à Fazenda Pública estadual, distrital e municipal a prerrogativa de intimação pessoal. Dessa forma, salvo expressa disposição legal em contrário (como, e.g., nas execuções fiscais – Lei nº 6.380/80, art. 25), aplica-se aos Estados, ao Distrito Federal e aos Municípios o disposto no art. 236 do CPC, que considera “feitas as intimações pela só publicação dos atos no órgão oficial” (AI 590.561 GR/SP, Rel. Min. Marco Aurélio; RE 469.371 AgR/GO, Rel. Min. Cármen Lúcia; ACO 851 AgR-ED/GO, Rel. Min. Dias Toffoli, decisão monocrática).
+    No caso, o acórdão recorrido foi publicado do Diário da Justiça em 23 de março de 2007 (fl. 440), de modo que o prazo para interposição do recurso extraordinário terminou em 22 de fevereiro de 2007. Contudo, o recurso só foi interposto em 08 de março de 2007 (fl. 496), sendo, por isso, intempestivo.
+    Diante do exposto, com base no art. 557, caput, do CPC e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso extraordinário.
+    Publique-se.
+          Brasília, 6 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
