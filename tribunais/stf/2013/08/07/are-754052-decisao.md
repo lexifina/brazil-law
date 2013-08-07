@@ -1,0 +1,18 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão assim ementado, no que interessa:
+    “APELAÇÃO CÍVEL. AÇÃO COMINATÓRIA. FERROVIA. CONSTRUÇÃO E MANUTENÇÃO DE CERCA AO LONGO DE PROPRIEDADE LIMÍTROFE. OBRIGAÇÃO EXCLUSIVA DA ADMINISTRADORA DA LINHA FÉRREA (...).
+    CIVIL E PROCESSUAL CIVIL – APELAÇÃO – AÇÃO COMINATÓRIA – MANUTENÇÃO DE CERCA E ACEIRO EM DIVISA DE PROPRIEDADE PARTICULAR COM LINHA FÉRREA – RESPONSABILIDADE CONCORRENTE DO PROPRIETÁRIO DO IMÓVEL LINDEIRO E DA PROPRIETÁRIA DA CERCA, ADMINISTRADORA DA FERROVIA – PRAZO PARA A OBRA – AMPLIAÇÃO CABÍVEL – MULTA – CABIMENTO E LIMITAÇÃO – ÔNUS DO PROCESSO – REDISTRIBUIÇÃO – PEDIDO INICIAL PARCIALMENTE PROCEDENTE- RECURSO CONHECIDO E PROVIDO EM PARTE (...)”.( eDOC 1, p. 391)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, “a” e “c”, da Constituição Federal, aponta-se violação aos artigos 5º, incisos II e XXXVI, do texto constitucional.
+    O recorrente alega que nunca existiu vínculo jurídico entre as partes capaz de gerar o direito subjetivo de exigir a manutenção de cerca pela concessionária.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    A comprovação da responsabilidade da concessionária na manutenção da cerca, objeto da lide, resultou do exame dos elementos fático-probatórios constantes dos autos pelas instâncias originárias, que não podem ser revistos em sede de recurso extraordinário, nos termos do Enunciado 279 da Súmula do STF.
+    Ademais, verifica-se que o Tribunal de origem decidiu a causa com fundamento na legislação infraconstitucional (Código Civil). Assim, eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Cumpre ressaltar, que a alegada afronta ao art. 5º, inc. II, da Constituição da República esbarra no óbice no enunciado da Súmula 636 do Supremo Tribunal Federal, que dispõe que não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida .
+    Destaco, a propósito, o seguinte precedente:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIÇO DE ESGOTO SANITÁRIO. LEI 11.445/2007. COBRANÇA DE TARIFA. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA À CONSTITUIÇÃO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - O acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 11.445/2007). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquela norma pelo Juízo a quo. Eventual ofensa à Lei Maior seria meramente indireta. Precedentes. II - Para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF. Precedentes. III - Este Tribunal entende não ser cabível a interposição de recurso extraordinário por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal de origem (Súmula 636 do STF). IV - Agravo regimental improvido”.(ARE 743.437, Rel. Min. Ricardo Lewandowski, DJe 17.6.2013)
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (Art. 544, § 4º, II, “a”, do CPC).
+    Publique-se. Int..
+    Brasília, 7 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
