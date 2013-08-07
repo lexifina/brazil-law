@@ -1,0 +1,17 @@
+Decisão: Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que, assentando a inconstitucionalidade do art. 2º, § 2º, da Lei 6.496/77, determinou a restituição dos valores pagos a título de Anotação de Responsabilidade Técnica (ART), pois instituídas por meio de normas administrativas expedidas pelo CONFEA, em afronta ao art. 150, I, do texto constitucional.
+    No apelo extremo, interposto com fundamento no artigo 102, III, b, da Constituição Federal, defende-se a constitucionalidade do dispositivo legal acima citado.
+    Ademais, sustenta-se que, ainda que não reconhecida a constitucionalidade do art. 2º, § 2º, da Lei 6.496/77, o CONFEA, há mais de trinta anos, fixa os valores relativos à ART por meio de resoluções, fato este que legitima a recepção constitucional do diploma legal.
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque o acórdão recorrido encontra-se em consonância com a jurisprudência desta Corte segundo a qual as contribuições e taxas instituídas pelos conselhos de fiscalização profissional possuem natureza tributária e, portanto, sua criação sujeita-se ao princípio da legalidade tributária.
+    Nesse sentido, confira-se o seguinte precedente:
+    “TRIBUTÁRIO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CONSELHO REGIONAL DE ENGENHARIA ARQUITETURA E AGRONOMIA DO ESTADO DE SANTA CATARINA. AUTARQUIA. CONTRIBUIÇÕES. NATUREZA TRIBUTÁRIA PRINCÍPIO DA LEGALIDADE TRIBUTÁRIA. INCIDÊNCIA. ANUIDADES. CORREÇÃO MONETÁRIA. DISCUSSÃO INFRACONSTITUCIONAL. AGRAVO IMPROVIDO. I As contribuições devidas ao agravante, nos termos do art. 149 da Constituição, possui natureza tributária e, por via de consequência, deve-se observar o princípio da legalidade tributária na instituição e majoração dessas contribuições. Precedentes. II A discussão acerca da atualização monetária sobre as anuidades devidas aos conselhos profissionais, possui natureza infraconstitucional. Precedentes. III - Agravo regimental improvido” (AI-AgR 768.577, Rel. Min. Ricardo Lewandowski, Primeira Turma, DJe 16.11.2010).
+    Confiram-se, ainda, decisões monocráticas proferidas em casos análogos ao dos autos: ARE 748.483, Rel. Min. Cármen Lúcia, DJe 7.8.2013; ARE 737.301, Rel. Min. Ricardo Lewandowski, DJe 16.4.2013; ARE 710.850, Rel. Min. Rosa Weber, DJe 3.4.2013; e RE-ED 567.094, Rel. Min. Dias Toffoli, DJe 8.11.2013.
+    Por fim, ressalto que a inconstitucionalidade não se convalida pelo decurso do tempo. Nesse sentido o SS 3448 AgR-ED, de minha relatoria, Tribunal Pleno, DJe 5.3.2010, cuja ementa transcrevo:
+    “Embargos de Declaração em Agravo Regimental em Suspensão de Segurança. Observância do limite remuneratório estabelecido pelo art. 37, XI, da Constituição de República, com redação dada pela Emenda Constitucional 41/2003. Suscitada omissão quanto à ausência de risco de grave lesão, uma vez que a decisão suspensa vinha sendo cumprida há três anos. Decisão fundamentada na ocorrência de grave lesão à ordem jurídico-constitucional. Inconstitucionalidade que não se convalida pelo decurso do tempo. Inocorrência de omissão, contradição ou obscuridade. Efeitos infringentes. Inviabilidade. Embargos de declaração rejeitados”.
+    Ante o exposto, nego provimento ao agravo (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 7 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
