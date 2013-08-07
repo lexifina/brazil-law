@@ -1,0 +1,8 @@
+Solução de Consulta Disit/SRRF09 nº 126, de 10 de julho de 2013
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA – IRPJ INDENIZAÇÃO. DANO EMERGENTE. LUCROS CESSANTES. ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL INDENIZAÇÃO. DANO EMERGENTE. LUCROS CESSANTES.
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ
+INDENIZAÇÃO. DANO EMERGENTE. LUCROS CESSANTES. Os valores recebidos a título de danos emergentes não se sujeitam à tributação do IRPJ, salvo se as despesas objeto de indenização tiverem sido computadas na apuração do Lucro Real do próprio período ou de períodos anteriores ao do recebimento. Os lucros cessantes, contudo, sujeitam-se à incidência do imposto, sem ressalvas.
+Dispositivos Legais: Lei nº 5.172, de 1966, arts. 43, incisos I e II, e 111; Lei nº 6.729, de 1976, arts. 23 e 24; Lei nº 8.981, de 1995, art. 60, inciso I e parágrafo único; Lei nº 9.430, de 1996, arts. 12, 53 e 70; Lei nº 10.406, de 2002, art. 402. Decreto nº 3.000, de 1999, arts. 680 e 681.
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL
+INDENIZAÇÃO. DANO EMERGENTE. LUCROS CESSANTES. Os valores recebidos a título de danos emergentes não se sujeitam à tributação da CSLL, salvo se as despesas objeto de indenização tiverem sido computadas na apuração da base de cálculo dessa contribuição do próprio período ou de períodos anteriores ao do recebimento. Os lucros cessantes, contudo, sujeitam-se à incidência da contribuição, sem ressalvas.
+Dispositivos Legais: Lei nº 5.172, de 1966, arts. 43, incisos I e II, e 111; Lei nº 6.729, de 1976, arts. 23 e 24; Lei nº 8.981, de 1995, art. 60, inciso I e parágrafo único; Lei nº 9.430, de 1996, arts. 12, 28, 53 e 70; Lei nº 10.406, de 2002, art. 402. Decreto nº 3.000, de 1999, arts. 680 e 681.
