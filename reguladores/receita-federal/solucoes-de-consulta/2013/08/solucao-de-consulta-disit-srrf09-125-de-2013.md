@@ -1,0 +1,3 @@
+Solução de Consulta Disit/SRRF09 nº 125, de 10 de julho de 2013
+ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO RET. REGIME DE RECONHECIMENTO DE RECEITAS. As incorporações submetidas ao regime especial de tributação (RET) de que trata o Capítulo I da Lei nº 10.931, de 2004, deverão submeter à tributação os valores efetivamente recebidos com a venda das unidades imobiliárias que as compõem, independentemente de ter havido a conclusão da obra ou a entrega do bem. Dispositivos Legais: Lei nº 4.591, de 1964, art. 31-A; Lei nº 10.931, de 2004, art. 4º; IN RFB nº 934, de 2009, art. 4º.
+[arquivo anexo: SC SRRF09-Disit nº  125 - 2013.pdf]
