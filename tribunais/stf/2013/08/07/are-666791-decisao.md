@@ -1,0 +1,41 @@
+Decisão: Trata-se de agravo contra decisão que negou seguimento a recurso extraordinário interposto em face de acórdão do Superior Tribunal de Justiça, assim ementado:
+    “Habeas corpus (cabimento). Matéria de prova (distinção). Apropriação indébita previdenciária (imputação). Denúncia (concurso de pessoas). Arguição de inépcia (procedência).
+    1. Determina a norma (constitucional e infraconstitucional) que se conceda habeas corpus sempre que alguém esteja sofrendo ou se ache ameaçado de sofrer violência ou coação; trata-se de dar proteção à liberdade de ir, ficar e vir, liberdade induvidosamente possível em todo o seu alcance.
+    2. Assim, não procedem censuras a que nele se faça exame de provas. Quando fundado, por exemplo, na alegação de falta de justa causa, impõe-se sejam as provas verificadas. O que se veda em habeas corpus, semelhantemente ao que acontece no recurso especial, é a simples apreciação de provas, digamos, a operação mental de conta, peso e medida dos elementos de convicção.
+    3. Conforme as melhores lições, da denúncia – peça narrativa e demonstrativa – exigem-se informações precisas sobre quem praticou o fato (quis) e sobre os meios empregados (quibus auxiliis).
+    4. Tratando-se de acusação de apropriação indébita de contribuição previdenciária, há necessidade da descrição de como teria o paciente concorrido para o crime e do grau de participação.
+    5. Caso em que a denúncia é carente quanto à exposição das diversas condutas, por não trazer elementos que permitam descrever a relação entre os fatos delituosos e a autoria.
+    6. Tal o aspecto, por faltar à denúncia a descrição de elementos de convicção que a amparem, não reúne tal peça, em torno de si, as exigências legais, estando, portanto, formalmente inepta.
+    7. Habeas corpus concedido com extensão a corréu. (fl. 516) Opostos embargos declaratórios, estes foram rejeitados. (fl. 541)”.
+    No apelo extremo, interposto com base no artigo 102, inciso III, alínea a, do permissivo constitucional, sustenta-se que o acórdão recorrido violou os artigos 5º, incisos XXXV, LIV e LXVIII; 93, inciso IX; 127, caput; e 129, inciso I, todos da Constituição Federal.
+    O Ministério Público alega que a decisão do Tribunal a quo afrontou o inciso LXVIII do art. 5º, por haver trancado a ação penal via habeas corpus, uma vez que as condutas incriminadas na denúncia necessitam de comprovação no curso de uma ação penal.
+    O Parquet aduz, ainda, que o acórdão recorrido colide frontalmente com a orientação das Cortes pátrias sobre o tema, firme no sentido de que, em se tratando de ação penal que verse crimes societários, inclusive apropriação indébita previdenciária (art. 168-A do CP), na qual o procedimento preparatório não haja logrado identificar, de modo minudente, o comportamento criminoso de cada um dos acusados, tolera-se o oferecimento da denúncia mais genérica (...). (fl. 553)
+    Requer, por fim, a desconstituição do acórdão impugnado, admitindo-se o recebimento da denúncia e, por conseguinte, o andamento da ação penal.
+    O Tribunal a quo negou trânsito ao recurso extraordinário ao fundamento de que a matéria demanda reexame de fatos e provas, bem como apresenta ofensa indireta ao texto constitucional. (fls. 571 – 574)
+    Contra a referida decisão foi interposto agravo nos próprios autos, que contra-argumenta os óbices destacados na decisão de inadmissibilidade. (fls. 577 – 592)
+    É o relatório.
+    Decido.
+    Não assiste razão ao agravante.
+    No caso em espécie, a denúncia tece as seguintes considerações sobre a materialidade delitiva e os indícios de autoria:
+    “A materialidade do delito está comprovada pela emissão da NFLD (notificação fiscal de lançamento de débito) nº 35.369.147-0 (fls. 7 a 22 do Apenso), no valor originário de R$ 113.956,86 (cento e treze mil, novecentos e cinquenta e seis reais e oitenta e seis centavos), ora em fase de citação do devedor (fl. 157).
+    Quanto à autoria, há indícios suficientes contra os denunciados.
+    (…) José Eduardo Mônaco e Edgar Botelho foram apontados, também, como responsáveis pela empresa nas fls. 40/42, 91 e 103, havendo, igualmente, indícios de autoria em relação a eles. Ambos eram vistos na firma e José Eduardo se apresentava como sócio proprietário (fl. 91), enquanto Edgar atuava como gerente geral (fl. 103)”. (fls. 28 – 29)
+    Observo, portanto, que a denúncia não se preocupou em pormenorizar os aspectos relativos à materialidade e aos indícios de autoria.
+    Sobre o tema, inicialmente destaco que é firme a jurisprudência desta Corte no sentido de que, para a admissibilidade da denúncia em crimes societários, é suficiente a indicação de que os acusados sejam, em certa medida, passíveis de responsabilização criminal pela condução da sociedade comercial, em nome da qual os delitos tenham sido supostamente praticados.
+    No caso dos autos, da simples leitura de trechos da peça de acusação, não resta evidente que o acusado exercia, em conjunto com os demais denunciados, atividade de direção na empresa em que teriam sido cometidas as infrações penais.
+    Ainda que assim o fosse, tendo em vista as declarações de testemunhas, não há na denúncia qualquer esforço em demonstrar a concreta participação do acusado na prática do delito. Ou seja, não foi descrito um só ato empírico pessoalmente praticado pelo acusado.
+    Nesse sentido, entendeu o Tribunal a quo. Segue trecho do acórdão impugnado:
+    “Efetivamente, a denúncia pecou pela falta de descrição. Não apontou, como se percebe, o modo pelo qual teria o paciente concorrido para o crime. Qual teria sido o grau de participação do paciente? E o do corréu Edgar Botelho? À vista disso, a inexistência de elementos hábeis a descrever a relação entre os fatos delituosos e a autoria ofende o princípio constitucional da ampla defesa, tornando inepta a denúncia.” (fls. 505 a 506)
+    Destarte, entendo que a denúncia que motivou a propositura da ação penal contra o paciente é inepta, porquanto não foi esclarecedora quanto ao efetivo envolvimento do acusado no caso. A propósito, cito alguns julgados dessa Corte: HC 88.875/AM, Rel. Min. Celso de Mello, Segunda Turma, DJe 12.3.2012 e HC 107.187/SP, Rel. Min. Ayres Britto, Segunda Turma, DJe 30.3.2012, este último assim ementado:
+    “HABEAS CORPUS. CRIME DE EMISSÃO DE DUPLICATA SIMULADA (ART. 172 DO CÓDIGO PENAL). DELITO SOCIETÁRIO. ALEGADA INÉPCIA DA DENÚNCIA. FALTA DE INDIVIDUALIZAÇÃO DA CONDUTA. ORDEM CONCEDIDA.
+    1. É pacífica a jurisprudência do Supremo Tribunal Federal em considerar excepcional o trancamento da ação penal, pela via processualmente acanhada do habeas corpus. Via de verdadeiro atalho que somente autoriza o encerramento prematuro do processo-crime quando de logo avulta ilegalidade ou abuso de poder (HCs 86.362 e 86.786, da minha relatoria; e 84.841 e 84.738, da relatoria do ministro Marco Aurélio).
+    2. A denúncia discutida neste processo não descreveu, suficientemente, os fatos ilícitos, alegadamente protagonizados pela paciente. Paciente denunciada pelo crime de emissão de duplicata simulada (art. 172 do Código Penal) tão-somente por figurar no contrato social da empresa sob investigação. Inicial acusatória que incorreu na impropriedade descrita no inciso I do art. 395 do Código de Processo Penal, a transformar a ampla defesa em curta defesa.
+    3. Ordem concedida para reconhecer a inépcia da denúncia.”
+    Por fim, no que diz respeito à alegação de violação ao texto constitucional em face do trancamento da ação penal pela via estreita do habeas corpus, realizada pelo Tribunal a quo, também não assiste razão ao agravante.
+    Acrescento que é pacífica a jurisprudência do Supremo Tribunal no sentido de que o trancamento da ação penal é, excepcionalmente, possível quando está “manifesta a atipicidade da conduta, a presença de causa de extinção da punibilidade do paciente ou a ausência de indícios mínimos de autoria e materialidade delitivas” (HC 91.603/DF, Rel. Min. Ellen Gracie, Segunda Turma, DJe. 25.9.2008).
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, b, do CPC).
+    Publique-se. Int..
+    Brasília, 7 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
