@@ -1,0 +1,21 @@
+DECISÃO
+SEGUNDOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM: ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. NADA A PROVER. DECISÃO MANTIDA. IMEDIATA BAIXA DOS AUTOS À ORIGEM.
+Relatório
+    1. Em 20 de junho de 2011, dei parcial provimento ao recurso extraordinário interposto pelo Município de Campinas/SP contra julgado do Tribunal de Justiça de São Paulo, para reconhecer a constitucionalidade da taxa de coleta de lixo domiciliar, e determinei a devolução dos autos à origem, para observância do art. 543-B do Código de Processo Civil, nos termos do art. 328, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, por ter sido reconhecida a repercussão geral da questão da constitucionalidade da taxa de combate a sinistros no Recurso Extraordinário n. 561.158, Relator o Ministro Marco Aurélio (fls. 296-299).
+    Publicada essa decisão no DJe de 2.8.2011 (fl. 300), Heitor Regina e outros opuseram embargos de declaração em 5.8.2011 (fls. 302-303).
+    2. Afirmam os Embargantes que “o despacho ora embargado novamente incidiu em lapso manifesto, confundindo o objeto da ação e do recurso sub-examen, visto que a presente actio trata de ação de consignação em pagamento, e seu objeto é o pagamento do IPTU sem a necessidade do pagamento simultâneo das taxas de lixo e sinistros! Não é objeto deste feito a constitucionalidade ou não das referidas taxas!!!” (fls. 302-303).
+    Asseveram que, “ante o erro material no despacho embargado, confundindo o objeto desta ação, deixou a matéria de fundo de ser analisada e julgada, caracterizando, pois, e novamente, data venia, omissão do julgado, ou seja, se é lícito a municipalidade recusar o recebimento do IPTU sem o pagamento simultâneo das taxas, seja qual for o motivo dessa pretensão do contribuinte” (fl. 303).
+    Requerem a retificação do “erro material apontado” e seja suprida ou esclarecida “a omissão ora apontada” (fl. 303).
+    Analisada a matéria posta à apreciação, DECIDO.
+    3. A peça denominada de embargos de declaração deve ser apreciada como petição simples, pois a determinação de retorno dos autos à origem com base no art. 543-B do Código de Processo Civil, por não se tratar de decisão, mas de ato de mero expediente, não enseja a interposição de recurso (AI 745.044-ED, Relator o Ministro Gilmar Mendes, DJe 27.10.2010; e AI 696.454-AgR, Relator o Ministro Celso de Mello, DJe 19.12.2008).
+    4. Como afirmado pelos Embargantes e antes examinado com rigor nesta instância, a ação por eles ajuizada não objetivou a declaração de inconstitucionalidade das taxas de coleta de lixo e de combate a sinistros, mas o depósito dos valores relativos ao Imposto Predial e Territorial Urbano – IPTU sem a necessidade dos depósitos daquelas taxas, conforme consta do pedido inicial:
+    “Considerando os autores absolutamente ilegais e inconstitucionais as indigitadas taxas de coleta e remoção de lixo e de sinistro, e sendo ilegal o lançamento conjunto com o IPTU, estando impossibilitados de pagar exclusivamente o IPTU, de forma parcelada, com o desconto legal, sem a exigência de recolhimento simultâneo de referidas taxas, não lhes resta outro caminho a não ser a presente consignatória” (fl. 4).
+    A sentença foi favorável a eles (fls. 118-119), mantendo-a o Tribunal de Justiça de São Paulo por julgar ilegal a cobrança das referidas taxas, desprovidas dos requisitos da divisibilidade e da especificidade (fls. 162-165).
+    Portanto, os Embargantes pleitearam o pagamento isolado do Imposto Predial e Territorial Urbano – IPTU, pela pretensa ilegalidade e inconstitucionalidade das taxas mencionadas. Logo, a declaração de exigibilidade da taxa de combate a sinistros, em análise no Recurso Extraordinário n. 561.158, teria o condão de alterar a suficiência dos depósitos efetuados sem os valores relativos ao imposto e as taxas exigíveis.
+    Qualquer dos elementos suscitados, portanto, foi desconhecido ou deixado de ser relevado na decisão antes proferida. Não houve lapso ou qualquer confusão na análise do caso, ao contrário do que acentuado com ênfase pelos peticionários.
+    5. Pelo exposto, mantenho a decisão de devolução dos autos à origem.
+    6. À Secretaria, para providenciar a imediata baixa dos autos à origem.
+    Publique-se.
+    Brasília, 8 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
