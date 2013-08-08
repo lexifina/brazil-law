@@ -1,0 +1,29 @@
+Decisão: Trata-se de pedido de suspensão de segurança formulado pelo Estado de Minas Gerais contra sentença proferida pela 5ª Vara Federal daquela seção judiciária no mandado de segurança coletivo 0019802-45.2012.4.01.3800 impetrado pela seção estadual da Ordem dos Advogados do Brasil.
+    A decisão impugnada anulou a ordem de serviço 53/2011 do Advogado Geral do Estado de Minas Gerais, ato administrativo que determinara controle de ponto e cumprimento de jornada interna de trabalho por parte de procuradores estaduais.
+    No presente pedido de suspensão, o Estado de Minas Gerais aponta para grave lesão à ordem pública.
+    Segundo alega o requerente, a decisão impugnada afronta a regra constitucional que prevê a competência da justiça federal. O argumento apoia-se na insuficiência da presença de seção estadual da Ordem dos Advogados do Brasil no polo ativo da lide para configurar a aplicação do art. 109, I, da Constituição.
+    O Estado de Minas também sustenta que a decisão interfere na organização e no funcionamento da carreira dos procuradores do Estado de Minas Gerais, em desrespeito ao princípio da separação dos poderes.
+    De acordo com o Estado de Minas Gerais, o ato apontado como coator atende à lei complementar estadual 81/2004, diploma que referendou a aplicação da carga horária de quarenta horas semanais aos procuradores estaduais, além de dispor sobre a fixação de local para o exercício funcional dos integrantes daquela carreira.
+    Nesse sentido, o Estado de Minas Gerais argumenta que a decisão judicial impugnada prejudica os esforços daquela unidade da Federação na busca pela prestação eficiente de serviços públicos, em atendimento ao princípio constante do art. 37, caput, da Constituição. A interferência judiciária indevida teria provocado, ainda, quebra do princípio da hierarquia, bem como afronta à isonomia, consideradas outras categorias de servidores públicos.
+    Os documentos anexos à inicial comprovam que o Estado de Minas Gerais buscou a suspensão da decisão impugnada perante a presidência do Tribunal Regional Federal da 1ª Região. Contudo, tal pedido veio a ser indeferido por aquela corte federal.
+    Determinei a intimação da seção estadual da Ordem dos Advogados do Brasil para eventual manifestação nos presentes autos. A certidão de 14.02.2013 comprova que, devidamente intimada, a interessada não apresentou manifestação.
+    O Procurador Geral da República opinou pelo deferimento da medida de suspensão.
+    É o relatório.
+    Decido.
+    Em regra, deve-se resguardar a autonomia da Administração para fixar as regras atinentes ao cumprimento da jornada de trabalho, em conformidade com a legislação aplicável.
+    O exercício da jurisdição, nestes casos, deve atentar para a preservação da autonomia do administrador, o qual deve poder alterar a rotina interna das instituições, sem de que isto resulte, necessariamente, violação de direitos individuais e ou coletivos.
+    No caso concreto, é preciso sopesar a afirmação, constante da sentença impugnada, de que a ordem de serviço 53/2011 compromete a independência funcional. Nesse ponto, um dos fundamentos da compreensão adotada no ato judicial encontra-se na circunstância de que os procuradores do Estado de Minas Gerais estão autorizados a exercer atividade privada. Leio (p. 26-27 da sentença):
+    “Impossível efetuar a exegese da legislação que rege a espécie no sentido de que legislador complementar estadual tenha outorgado aos Procuradores do Estado a faculdade de exercer a atividade advocatícia em caráter privado, todavia, os membros da carreira não podem fazê-lo tendo em conta que a carga horária do Procurador do Estado é legalmente de 40 horas semanais, vinculando os advogados públicos que voluntariamente aderiu à carreira por intermédio de concurso de provas e títulos, de modo que prevalece a supremacia do interesse público sobre o privado.
+    No caso em apreço, não se revela possível a aplicação imoderada do princípio da supremacia do interesse público em face do interesse particular para, praticamente, anular a carga de eficácia contida no art. 6º, da LCE 81/2004, conforme pretende fazer crer a autoridade apontada como coatora.
+    Isto porque de acordo com consolidado entendimento jurisprudencial firmado no âmbito do E. Superior Tribunal de Justiça, ‘O principio constitucional da supremacia do interesse publico, como modernamente compreendido, impoe ao administrador ponderar, diante do caso concreto, o conflito de interesses entre o publico e o privado, a fim de definir, a luz da proporcionalidade, qual direito deve prevalecer sobre os demais.’ (RMS 27428 / GO; 5a Turma, Rel. Min. JORGE MUSSI, DJe 14/03/2011).
+    Assim, a norma do art. 5º, da LCE 81, de 2004, relativa a jornada de trabalho há de ser interpretada à luz da regra prevista no art. 6º, que autoriza o exercício particular da advocacia. Solução contrária significaria “dar com uma mão e tirar com a outra”. De nada adiantaria o reconhecimento de tal prerrogativa sem assegurar aos substituídos pela Ordem dos Advogados do Brasil o direito de desincumbir-se diariamente de seus encargos funcionais no foro ou na repartição tal qual previsto no art. 27, inciso I, da LCE 81/2004.”
+    Na tensão entre esses dois polos da atividade do procurador de estado, parece-me que o ato judicial impugnado concedeu indevido peso à execução de atividades privadas por servidor público.
+    A independência funcional parece cumprir a função de justificar o tempo exigido para o desempenho da atividade privada.
+    O prejuízo ao interesse público afigura-me, portanto, evidente.
+    Ante o exposto, defiro o pedido para suspender os efeitos da sentença impugnada até o trânsito em julgado do processo.
+    Comunique-se.
+    Publique-se.
+    Brasília, 8 de agosto de 2013
+Ministro Joaquim Barbosa
+Presidente
+Documento assinado digitalmente
