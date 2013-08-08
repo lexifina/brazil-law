@@ -1,0 +1,29 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada pelo Ministério Público do Estado do Rio Grande do Sul, em face do Tribunal de Justiça estadual, cuja decisão teria afrontado a autoridade do Supremo Tribunal Federal e a eficácia da Súmula Vinculante nº 10.
+    O reclamante sustenta, em síntese, que a Quinta Câmara Criminal daquele Tribunal de Justiça, ao deixar de aplicar o disposto nos art. 52 da Lei nº 7.210/84, com a redação da Lei nº 10.792/03, sem a observância da cláusula de reserva de plenário (art. 97 da Constituição Federal), violou o entendimento desta Suprema Corte consubstanciado na Súmula Vinculante nº 10. Aduz, para tanto, que:
+    “(...)
+    O acórdão recorrido deixou de aplicar o artigo 52, caput, da LEP, com a redação da Lei n.° 10.792/03, por entender que esse dispositivo viola o princípio da presunção de inocência, como se observa da ementa da decisão que apreciou o agravo em execução (fl. 85):
+    ‘Execução penal. Falta grave. 1. Desnecessidade de PAD para apurar a falta grave prevista no art. 52 da LEP (cometimento de fato previsto como crime doloso). 2. Reconhecimento de falta grave pela prática de fato previsto como crime doloso, por força do princípio constitucional da presunção de inocência, reclama sentença condenatória transitada em julgado. Agravo improvido. Unânime.’
+    Ocorre que, como é sabido, é vedado aos órgãos fracionários dos Tribunais Estaduais, por força da cláusula de reserva de plenário (full bench) do artigo 97 da Constituição Federal de 1988, proceder ao controle de constitucionalidade de dispositivos legais editados sob a sua égide – como é o caso do aludido artigo 52, caput, da LEP – sem a instauração do incidente disciplinado pelos artigos 480, 481 e 482 do Código de Processo Civil.
+    E, com a vênia da fundamentação do acórdão analisado, não se cuida de hipótese de interpretação conforme a Constituição.
+    A interpretação conforme a Constituição, como é sabido, dá-se quando um dispositivo legal somente se reveste de validade constitucional com a atribuição de um determinado sentido, ou seja, quando se deve adicionar ao texto um sentido determinado que garanta a sua compatibilidade com o ordenamento constitucional.
+    Contudo, a interpretação conforme a Constituição deve respeitar os limites semânticos do próprio texto, o que não foi observado pela Câmara julgadora no caso dos autos.
+    Ocorre que a decisão que deixar de aplicar parte de um dispositivo legal, a pretexto de proceder à sua interpretação conforme, de fato, leva a efeito a declaração de inconstitucionalidade parcial, com redução de texto, que reclama a instauração de incidente de inconstitucionalidade.
+    Ora, o texto legal ‘a prática de fato previsto como crime doloso constitui falta grave’, constante do caput do artigo 52 da LEP, não autoriza a interpretação no sentido de que ‘a condenação pela prática de crime doloso transitada em julgado constitui falta grave’, como se extrai do acórdão recorrido, sob pena de a norma sobrepujar os limites semânticos do texto, a pretexto de lhe adicionar sentido.
+    Ou seja, o texto ‘a prática de fato previsto como crime doloso’ não pode ser interpretado como ‘condenação pela prática de crime doloso transitada em julgado’, o que parece bastante simples, devendo-se, portanto, proceder como rigorosamente determina o artigo 97 da Magna Carta, mediante a instauração de incidente de inconstitucionalidade desse dispositivo, por ser a única forma de o Tribunal de Justiça, deixar de aplicar o aludido texto legal.
+    Assim, em se entendendo parcialmente nula a determinação legal no sentido de que a prática de fatos previstos como crimes dolosos constituem falta grave – nos exatos termos do artigo 52, caput, da LEP –, necessária a instauração de incidente de inconstitucionalidade para expungi-la do ordenamento jurídico, não se podendo, simplesmente, deixar de aplicar a legislação vigente.
+    Do exposto, resulta que a decisão emitida pelo Colegiado deixou de observar a Súmula Vinculante n.° 10 do STF, o que autoriza o ajuizamento da presente reclamação” (fls. 2 a 4 da inicial).
+    Essa é a razão pela qual se insurge o reclamante neste incidente.
+    Requer, liminarmente, “a cassação da decisão que afastou a aplicação do artigo 52, caput, da LEP – com a redação da Lei n.° 10.792/03 –, para a devida instauração de incidente de inconstitucionalidade (...)” e, no mérito, pede confirmação.
+    Determinei a emenda da inicial, por ausência de indicação do valor da causa, o que foi atendido, bem como solicitei informações à autoridade reclamada, que foram devidamente prestadas.
+    Presente os pressupostos, deferi o pedido de liminar para suspender o curso do processo em que proferida a decisão reclamada, bem como solicitei informações, que foram devidamente prestadas (Petição/STF nº 22.921/13).
+    Instado a se manifestar, o Ministério Público Federal, em parecer da lavra da ilustre Subprocuradora-Geral da República Dra. Cláudia Sampaio Marques, aprovado pelo Procurador-Geral da República Dr. Roberto Monteiro Gurgel Santos, opinou pela extinção do feito, em razão da perda de objeto.
+    Examinados os autos, decido.
+    Com razão o Parquet Federal ao ressaltar que, “em 28 de maio de 2013, o Superior Tribunal de Justiça deu provimento ao Recurso Especial nº 1.287.281/RS, interposto pelo Ministério Público do Estado do Rio Grande do Sul contra o acórdão ora reclamado, para reconhecer como desnecessário, para a caracterização da falta grave, a existência de sentença condenatória transitada em julgado (...)”.
+    Diante desse quadro, tem-se que a pretensão do reclamante encontra-se superada, razão pela qual, nos termos do art. 21, inciso IX, do Regimento Interno da Corte, julgo prejudicada a reclamação por perda superveniente de objeto.
+    Publique-se.
+    Brasília, 8 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
