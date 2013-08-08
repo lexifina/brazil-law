@@ -1,0 +1,29 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul ementado nos seguintes termos:
+          “HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. TESTE DO BAFÔMETRO. NÃO-INDICAÇÃO DA DATA DA ÚLTIMA AFERIÇÃO PELO INMETRO DO APARELHO MEDIDOR. INVALIDADE DO TESTE. AUSÊNCIA DE PROVA DA MATERIALIDADE DO CRIME INSERTO NO ART. 306 DO CTB. TRANCAMENTO DA AÇÃO PENAL.
+    Constam do resultado do teste de etilômetro as seguintes datas: 1) a da calibragem, isto é, quando foi feito os ajustes no equipamento de acordo com as normas legais; 2) data em que o equipamento de medição sofrerá nova aferição/verificação pelo INMETRO; e , 3) a data da realização do teste.
+    Todavia não consta a data em que o equipamento foi aferido pela última vez, para ser possível constatar se entre esta data e o dia do fato tido como delituoso foi observado o prazo máximo de aferição de doze meses exigidos pela norma regulamentadora. Pelo que consta no resultado do teste, não é possível deduzir que a data da próxima certificação pelo INMETRO corresponda ao período dos últimos doze meses da efetiva realização da última aferição.
+    ORDEM CONCEDIDA, POR MAIORIA”. (eDOC 1, p. 40)
+    No recurso extraordinário (eDOC 1, p. 103-110, e eDOC 2, p. 1-3), interposto com fundamento no art. 102, III, “a”, da Constituição Federal, aponta-se violação ao art. 5º, II, LIV, do texto constitucional.
+    O recorrente aduz, em síntese, que o acórdão recorrido, ao reconhecer a invalidade do teste de bafômetro, afrontou os princípios do devido processo legal e da presunção de legalidade dos atos administrativos.
+    Em contrarrazões, Maria José Almeida Bento alega que não está comprovada a materialidade da conduta e que o HC não é meio hábil para a produção de prova, a qual deveria se colhida antes da instauração da ação penal (eDOC 2, p. 13-18).
+    O Tribunal a quo negou trânsito ao recurso extraordinário, por entender que a ofensa à Constituição Federal, se existente, dar-se-ia de forma indireta, o que não dá ensejo à abertura da via excepcional (eDOC 2, p. 20-25).
+    Contra referida decisão de inadmissibilidade foi interposto agravo, que repisa a tese exposta no recurso extraordinário (eDOC 2, p. 29-32).
+    É o relatório.
+    Decido.
+    Não assiste razão ao agravante.
+    No caso, o Tribunal de origem, com base no exame do acervo fático-probatório constante dos autos e na interpretação da legislação infraconstitucional aplicável à espécie (Resolução-CONTRAN 206/2006), consignou que a ausência de requisito legalmente previsto para o exame de bafômetro o torna inválido, o que inviabiliza a aferição da materialidade do delito.
+    A esse propósito, cito o seguinte trecho do acórdão recorrido:
+    “Com efeito, o CONTRAN estabeleceu – por meio da Resolução n. 206 de 20/10/2006 – uma série de procedimentos para aferir a validade dos exames de alcoolemia realizados em condutores de veículos automotores. Dentre os requisitos que deve conter o medidor de alcoolemia – etilômetro – a referida Resolução estabeleceu a necessidade de ‘verificação periódica anula realizada pelo INMETRO ou RBMLQ’ (incisos II e III do art. 6º da Res. n. 206/2006 do CONTRAN). Trata-se de uma condição de utilização do medidor de alcoolemia, segundo reza o art. 7º dessa Resolução.
+    A ausência do requisito de aprovação periódica anual torna o exame de teor alcoólico alveolar nos pulmões irregular, logo inválido e, em conseguinte, inapto à comprovação do teor alcoólico com que se encontrava na data do fato.
+    (…)
+    Tenho, pois, que ao resultado tanto combatido falta um dado de especial valia, qual seja, a data da última aferição efetuada pelo INMETRO para que seja possível precisar, nos casos do art. 306 do CTB, a existência ou não da materialidade delitiva. ” (eDOC 1, p. 43-45 )
+    Assim, para se entender de forma diversa do consignado pelo acórdão recorrido, seria necessário rever a interpretação conferida pela origem à legislação infraconstitucional, bem como reexaminar o conjunto probatório que permeia a lide, providências vedadas no âmbito de recurso extraordinário, a teor do disposto nas Súmulas 279 e 280 do STF.
+    Nesse sentido, confiram-se, entre inúmeros outros, os seguintes precedentes:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INC. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO AO QUAL SE NEGA PROVIMENTO”. (AI-AgR 813.830, Rel. Min. CÁRMEN LÚCIA, Primeira Turma, DJe 25.11.2010)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. MATÉRIA CRIMINAL. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. SÚMULA 283. REEXAME DE FATOS E PROVAS. SÚMULA 279. Discussão constitucional suscitada pelo agravante que, para ser analisada, necessita de apreciação prévia de norma infraconstitucional. Caracterização de ofensa reflexa ou indireta à Constituição Federal. Com a negativa de provimento ao recurso especial pelo Superior Tribunal de Justiça, os fundamentos infraconstitucionais que amparam o acórdão recorrido tornaram-se definitivos (Súmula 283 do STF). Inviável o recurso extraordinário quando as alegações de violação a dispositivos constitucionais exigem o reexame de fatos e provas (Súmula 279/STF). Agravo regimental a que se nega provimento”. (RE-AgR 471.131, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe 18.9.2012)
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 8 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
