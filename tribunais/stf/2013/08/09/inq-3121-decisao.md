@@ -1,0 +1,21 @@
+Inquérito. Notitia criminis anônima. Suposto crime de sonegação fiscal. Pedido de arquivamento fundado na ausência de materialidade. Procurador-Geral da República: Detentor, em ultima ratio, da opinio delicti. Atendimento compulsório.
+    Decisão: O Ministério Público Federal manifestou-se, verbis:
+    “1. Trata-se de investigação iniciada a partir de denúncia anônima de fls. 8, noticiando a ausência, na declaração de bens de Luiz Lindbergh Farias Filho, de diversos imóveis, entre eles ‘apartamentos à Rua Barata Ribeiro, no Apart Hotel, em Copacabana, Rio de Janeiro – RJ e também no Estado da Paraíba/PB’.
+    2. A partir das diligências realizadas, verificou-se que os bens indicados às fls. 8 não pertencem a Luiz Lindbergh Farias Filho, mas a Luiz Lindbergh Farias, seu genitor, tendo sido deixados em meação para Ana Maria Nóbrega Farias, conforme formal de partilha de fls. 88/119, devidamente homologado *fls. 174).
+    3. A documentação referida indica que para Luiz Lindbergh Farias Filho foram deixados os seguintes bens:
+    a) Lote do terreno nº 66 da Quadra 562 do loteamento Jardim Oceania IV – Loteamento Bessamar, João Pessoa;
+    b) 8 lotes de terrenos da Quadra 36-289 (lotes 2, 3, 4, 5, 6, 7, 8 e 9);
+    c) Lotes 5, 6, 7, 9, 10, 11 e 12 da Quadra 37/392;
+    d) Lote de terreno 3 e 4 situados no Sítio Camboinha de Baixo, Praia do Poço.
+    4. Solicitadas informações às Corregedorias Gerais de Justiça dos Estados do Rio de Janeiro e da Paraíba, foram encaminhados os documentos de fls. 177/305, onde constam registrados como propriedade de Luiz Lindberg Farias Filho os imóveis descritos nos itens ‘a’, ‘b’, e ‘c’ anteriormente descritos (Apesar de não encaminhada, até o momento, a certidão de registro dos imóveis da letra ‘d’, estes constam na declaração de impostos de renda de Luiz Lindbergh Farias Filho)
+    5. Foi trazida aos autos cópia das declarações de imposto de renda do investigado dos anos calendário 2004, 2005 e 2006. Examinando-as, conclui-se que na declaração relativa ao ano calendário 2004 não constam os lotes 5, 6, 7, 9, 10 e 11 (consta apenas o 12) da Quadra 37/292, loteamento Bessamar, João Pessoa/PB.
+    6. Além disso, nas declarações dos anos-calendário 2005 e 2006, apesar de mencionados os lotes 5, 6, 7, 9 e 10 – que não constam na declaração de 2004 -, não foram referidos os lotes 11 e 12 da Quadra 37/292, loteamento Bessamar, João Pessoa/PB. E, embora mencionados pela primeira vez em 2005 os lotes 5, 6, 7, 9 e 10 da Quadra 37/292, loteamento Besssamar, no campo destinado ao ‘valor anterior bens’ consta o valor de R$ 68.949,48, quando deveria constar zero.
+    7. No entanto, as inconsistências verificadas são irregularidades de ordem formal que não caracterizam crime. O parlamentar recebeu os imóveis por herança do seu pai e, eventual falha na declaração não acarreta supressão ou redução de tributo devido, hipótese em que haveria causa para a realização de diligência para apurar se houve a constituição de crédito tributário.
+    8. Assim, não existindo crime a ser apurado, requer o Procurador-Geral da República o arquivamento dos autos.”
+    O pedido de arquivamento fundado na ausência de materialidade, formulado pelo Procurador-Geral da República, detentor, em ultima ratio, da opinio delicti, reclama atendimento compulsório (INQ nº 510/DF, Rel. Min. Celso de Mello, Plenário, unânime, DJ 19.4.1991; INQ nº 719/AC, Rel. Min. Sydney Sanches, Plenário, unânime, DJ 24.9.1993; INQ nº 851/SP, Rel. Min. Néri da Silveira, Plenário, unânime, DJ 6.6.1997; HC nº 75.907/RJ, Rel. Min. Sepúlveda Pertence, 1ª Turma, maioria, DJ 9.4.1999; HC nº 80.560/GO, Rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 30.3.2001; INQ nº 1.538/PR, Rel. Min. Sepúlveda Pertence, Plenário, unânime, DJ 14.9.2001; HC nº 80.263/SP, Rel. Min. Sepúlveda Pertence, Plenário, unânime, DJ 27.6.2003; INQ nº 1.608/PA, Rel. Min. Marco Aurélio, Plenário, unânime, DJ 6.8.2004; INQ nº 1.884/RS, Rel. Min. Marco Aurélio, Plenário, maioria, DJ 27.8.2004; INQ (QO) nº 2.044/SC, Rel. Min. Sepúlveda Pertence, Plenário, maioria, DJ 8.4.2005; e HC nº 83.343/SP, 1ª Turma, unânime, DJ 19.8.2005).
+    Ex positis, determino o arquivamento do presente inquérito, com fundamento no art. 3º da Lei n. 8.038/90.
+    Publique-se. Int..
+    Brasília, 9 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
