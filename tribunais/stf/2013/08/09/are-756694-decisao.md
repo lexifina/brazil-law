@@ -1,0 +1,21 @@
+DECISÃO:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da Segunda Turma Recursal dos Juizados Especiais Federais do Estado do Rio Grande do Sul que, em síntese, negou provimento ao recurso inominado e confirmou a sentença que julgou improcedente o pedido de concessão de benefício previdenciário.
+    Alega a recorrente violação dos artigos 1º, inciso III, 6º, caput, 93, inciso IX, e 201, inciso I, da Constituição Federal.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07. Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nºs 282 e 356 desta Corte.
+    Ressalte-se que a instância de origem, ao decidir a controvérsia em tela, consignou expressamente, nos termos do voto do Relator, que:
+    “Conforme a sentença recorrida, a data de início da incapacidade foi fixada em 17/08/2010, um mês após a parte autora verter uma contribuição junto à previdência social correspondente ao mês de julho de 2010.
+    No entanto, conforme dados do requerente, não verteu 1/3 do número de contribuições exigidas para o cumprimento da carência definida para o beneficio ser requerido conforme estabelece o art. 24, da lei 8.213/91.
+    Assim, em que pesem as alegações do recorrente, entendo que a sentença deve ser mantida pelos seus próprios fundamentos, rejeitadas, inclusive, as preliminares ou prejudiciais suscitadas no recurso. Saliente-se que o objetivo da perícia em processos judiciais previdenciários não é a pesquisa do diagnóstico detalhado do estado de saúde do segurado, mas tão-somente a conclusão sobre sua capacidade ou não de exercer atividade remunerada”.
+    Desse modo, para acolher a pretensão da recorrente e ultrapassar o entendimento do acórdão atacado seria necessário o reexame do conjunto fático-probatório constante dos autos, bem como das normas infraconstitucionais que regem a matéria, o que se mostra de inviável ocorrência no âmbito do recurso extraordinário. Incidência das Súmulas nº 279 e 636 desta Corte. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. APOSENTADORIA POR INVALIDEZ. MOLÉSTIA PROFISSIONAL GRAVE OU DOENÇA GRAVE. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 473.703/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 30/4/10).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. Reexame de fatos e provas. Inviabilidade do recurso extraordinário. Súmula n. 279 do STF. Agravo regimental a que se nega provimento” (RE nº 593.064/MG-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJe de 12/12/08).
+    Nesse sentido, ainda, as seguintes decisões monocráticas: ARE n° 703.241/RS, Relator o Ministro Gilmar Mendes, DJe de 22/8/12; e ARE n° 641.868/PR, Relator o Ministro Luiz Fux, DJe de 12/8/11.
+    Ante o exposto, conheço do agravo para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 9 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
