@@ -1,0 +1,24 @@
+AÇÃO CAUTELAR. PROCESSUAL. DECISÃO INTERLOCUTÓRIA. RECURSO EXTRAORDINÁRIO. PRETENSÃO DE AFASTAMENTO DA RETENÇÃO (CPC, ART. 542, § 3º) TRIBUNAL DE ORIGEM. JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA. SUPREMO TRIBUNAL FEDERAL. COMPETÊNCIA. INSTAURAÇÃO. INOCORRÊNCIA. AÇÃO À QUAL SE NEGA SEGUIMENTO.
+    Decisão: Trata-se de ação cautelar, com pedido de medida liminar, destinada a destrancar recurso extraordinário interposto de decisão interlocutória, nos termos do art. 542, § 3º, do Código de Processo Civil.
+    A recorrente narra que é diretora do órgão regional da Vigilância Sanitária Estadual do Município de Mogi das Cruzes e que, em diligência realizada em danceteria, surpreendeu o médico responsável pelo setor de neonatologia da Santa Casa de Misericórdia local divertindo-se no referido estabelecimento no seu horário de plantão no hospital.
+    Em decorrência desse fato, foi imposta multa ao hospital e comunicada a irregularidade à Prefeitura Municipal de Mogi das Cruzes.
+    Sob a alegação de que havia deixado o plantão a cargo de outro médico e de que a acusação não é verdadeira, o ora recorrido propôs ação de indenização por dano moral contra a recorrente que, em sua contestação, arguiu sua ilegitimidade passiva porquanto “em se tratando de demanda contra servidor por conta de atos de ofício, o pleito deveria ser manejado em face ao Estado e não contra ela”.
+    Entretanto, o juízo de primeiro grau não acolheu a preliminar de ilegitimidade passiva da ora requerente, o que desafiou agravo de instrumento. O TJ/SP, ao apreciar o recurso, decidiu pela manutenção daquela decisão.
+    Inconformada, a autora interpôs recurso extraordinário. Ante o caráter retido do recurso, pede o seu imediato processamento.
+    Aduz, para tanto, que estão presentes, in casu, os pressupostos de cautela que autorizam o imediato processamento do apelo extremo.
+    Assevera que a necessidade da medida deriva dos danos que o trâmite de ação em questão vem lhe causando, de ordem moral e material, como o desgaste público e as despesas com sua defesa.
+    Postula, desse modo, o destrancamento do recurso extraordinário que visa o reconhecimento de sua ilegitimidade ad causam, uma vez que a ação deveria ser proposta contra o Estado, por força da regra inserta no art. 37, § 6º, da Constituição da República.
+    É o breve relatório.
+    Esta ação é manifestamente inadmissível.
+    Isso porque, em consulta ao sítio eletrônico do TJ/SP, verifica-se que ainda não foi efetuado, pelo Presidente do Tribunal a quo, o juízo de admissibilidade do recurso extraordinário.
+    Como se sabe, a jurisdição cautelar do STF somente se instaura a partir do juízo positivo de admissibilidade do apelo extremo. A ilustrar essa assertiva, menciono o que decidido na Pet 1.903 Ag/RS , Rel. Min. Néri da Silveira:
+    “Petição. Agravo regimental. Ação cautelar inominada, com pedido de liminar, para conceder efeito suspensivo a recurso extraordinário. 2. Liminar indeferida por despacho do Ministro Presidente. 3. Recurso extraordinário não foi objeto de admissibilidade pelo Presidente do Tribunal a quo. 4. O STF somente pode dar curso a medida cautelar quando o apelo estiver submetido a seu julgamento. Precedentes da Corte. 5. Agravo regimental a que se nega provimento. Pedido de cautelar indeferido” (grifei).
+    No mesmo sentido:
+    “MEDIDA CAUTELAR INOMINADA - PRETENDIDA OUTORGA DE EFEITO SUSPENSIVO A RECURSO EXTRAORDINÁRIO AINDA NÃO ADMITIDO - INVIABILIDADE - AGRAVO IMPROVIDO. - Não se revela processualmente viável a medida cautelar, que, ajuizada originariamente perante o Supremo Tribunal Federal, busca conferir efeito suspensivo a recurso extraordinário ainda não admitido pela Presidência do Tribunal de origem ou que visa a outorgar eficácia suspensiva a agravo de instrumento interposto contra decisão que não admitiu o apelo extremo . Precedentes. - A instauração da jurisdição cautelar do Supremo Tribunal Federal, nas causas que objetivem a concessão de efeito suspensivo a recurso extraordinário, supõe a existência de juízo positivo de admissibilidade do apelo extremo, proferido de juízo positivo de admissibilidade do apelo extremo, proferido pela Presidência do Tribunal de Jurisdição inferior ou resultante do provimento do recurso de agravo, além da necessária satisfação dos requisitos concernentes à plausibilidade jurídica da pretensão recursal e ao ‘periculum in mora’. Precedentes” (Pet 1.812 Agr/PR, Rel. Min. Celso de Mello).
+    Os reiterados pronunciamentos do STF nesse sentido ensejaram a edição do verbete nº 635 da Súmula desta Corte, que possui o seguinte teor: “Cabe ao presidente do Tribunal de origem decidir o pedido de medida cautelar em recurso extraordinário ainda pendente de juízo de admissibilidade”
+    Pelo exposto, nego seguimento à presente Ação Cautelar (art. 21, § 1º, RISTF).
+    Publique-se. Int..
+    Brasília, 9 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
