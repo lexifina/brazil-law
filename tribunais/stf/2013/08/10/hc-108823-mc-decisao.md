@@ -1,0 +1,19 @@
+DECISÃO
+PRISÃO PREVENTIVA – EXCESSO DE PRAZO – HABEAS CORPUS – LIMINAR DEFERIDA.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado pelo Tribunal do Júri da Comarca de São Gonçalo/RJ (Processo nº 2006.004.044441-8) à pena de 25 anos de reclusão, em regime fechado, ante a prática do crime previsto no artigo 121, § 2º, incisos I e IV, do Código Penal. O Juízo da 4ª         Vara Criminal negou-lhe o direito de recorrer em liberdade. Eis os fundamentos da decisão, proferida em 13 de julho de 2009:
+    Deixo de reconhecer ao acusado o direito de aguardar eventual recurso em liberdade, uma vez que este ficou foragido até ser preso durante boa parte das investigações e do feito, não tendo nenhuma vinculação com o distrito da culpa, morando em outra cidade e sua personalidade e sua FAC indiciarem que este solto é um risco para a ordem pública, razão pela qual mantenho a sua custódia cautelar.
+    Contra esse ato, a defesa interpôs apelação no Tribunal estadual. A Primeira Câmara Criminal recebeu o recurso como protesto por novo júri e, no mérito, deu-lhe provimento para submeter o paciente a outro julgamento.
+    O Ministério Público protocolou recursos extraordinários. O especial foi inadmitido na origem. Consulta ao sítio do Superior Tribunal de Justiça revelou que o ministro Adilson Macabu, desembargador do Tribunal de Justiça do Estado do Rio de Janeiro, convocado, em 29 de setembro de 2011, proveu o agravo de instrumento – de nº 1.322.481/RJ –, a fim de determinar a subida do processo. Autuado naquele Tribunal sob o nº 1.372.584/RJ, o recurso especial encontra-se no Ministério Público Federal, para parecer, desde 3 de abril de 2013.
+    Neste habeas, o impetrante pleiteia seja reconhecido o excesso de prazo relativamente à preventiva. Afirma não ter dado causa à demora na análise dos recursos interpostos, motivo pelo qual o paciente não pode ser prejudicado. Busca o deferimento de liminar, visando permitir que aguarde solto o julgamento definitivo da ação penal. No mérito, pede a confirmação da providência.
+    Pesquisa ao sítio do Tribunal de Justiça do Estado do Rio de Janeiro indica ter sido determinada a prisão preventiva do paciente no dia 19 de junho de 2006, sendo efetuada em 15 de novembro de 2006. O processo aguarda julgamento dos recursos extraordinários interpostos pelo Ministério Público Federal.
+    O habeas corpus encontra-se instruído para apreciação da medida acauteladora.
+    2. Observem o quadro. Realmente, o Tribunal do Júri da Comarca de São Gonçalo condenou o paciente. Ocorre que, deixando de examinar os motivos da prisão preventiva, o Tribunal de Justiça veio a declarar insubsistente o veredicto, determinando a realização de novo Júri.
+    O Ministério Público interpôs especial e extraordinário. A negativa de sequência desaguou em agravo de instrumento. No Superior Tribunal de Justiça, o relator deu provimento ao recurso, para determinar o processamento do especial, mas não adentrou a questão da custódia provisória.
+    O paciente, sem culpa formada, está preso desde 15 de novembro de 2006, ou seja, há mais de seis anos.
+    3. Ante o quadro, implemento a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não se encontre recolhido por motivo diverso do retratado no Processo nº 2006.004.044441-8, do Tribunal do Júri da Comarca de São Gonçalo/RJ. Advirtam-no da necessidade de permanecer no distrito da culpa, atendendo aos chamamentos judiciais e adotando a postura que se aguarda do homem médio, do homem integrado à sociedade.
+    4. Colham o parecer da Procuradoria Geral da República, encaminhando cópia desta decisão ao relator do Agravo de Instrumento nº 1.322.481, do Superior Tribunal de Justiça.
+    5. Publiquem.
+Brasília – residência –, 10 de agosto de 2013, às 17h50.
+Ministro MARCO AURÉLIO
+Relator
