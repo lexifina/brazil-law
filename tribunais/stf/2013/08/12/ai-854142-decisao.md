@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de agravo de instrumento cujo objeto é decisão que negou seguimento a recurso extraordinário interposto contra acórdão da Primeira Turma Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 42):
+    “PENAL - PROCESSO PENAL - PRONÚNCIA - HOMICÍDIO QUALIFICADO - PROMESSA DE RECOMPENSA - DISSIMULAÇÃO - RECURSO EM SENTIDO ESTRITO - IMPRONÚNCIA - PEDIDO SUBSIDIÁRIO - EXCLUSÃO - QUALIFICADORAS - RECURSO DESPROVIDO - UNÂNIME.
+    I - A impronúncia somente será pertinente quando o Juiz, ao decidir, ficar convencido, pelas provas colhidas nos autos, da inexistência de indícios suficientes da autoria.
+    II - A pronúncia é sentença processual de conteúdo declaratório em que o juiz proclama admissível a acusação, para que seja decidida no plenário do júri. O juízo de pronúncia é, essencialmente, um juízo de fundada suspeita e não um juízo de certeza, vigorando o princípio in dubio pro societate. Para tanto, a doutrina e a jurisprudência pátrias têm entendido que, para a sentença de pronúncia, é necessário que haja prova convincente da existência do crime e indícios suficientes da autoria.
+    III - A exclusão da qualificadora é matéria atinente à competência do Júri Popular, porquanto vige, nesta fase processual, também em relação às qualificadoras, o princípio in dubio pro societate.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 93, IX, da Constituição.
+    A decisão agravada não admitiu o recurso extraordinário, sob o fundamento de que, “caso existente, contrariedade a preceito constitucional, ter-se-ia, antes, que analisar o direito ordinário relativo ao tema, o que constitui, portanto, ofensa reflexa à Constituição Federal, incabível em sede de recurso extraordinário” (fl. 17).
+    O recurso extraordinário não pode ser conhecido, tendo em vista que não discute matéria constitucional. Com efeito, o recorrente limita-se a postular uma nova apreciação dos fatos e do material probatório constante nos autos. Nessas condições, a hipótese atrai a incidência da súmula 279/STF, in verbis:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Ademais, quanto à alegação de ofensa ao art. 93, IX, da Constituição, o Plenário deste Tribunal já assentou o entendimento de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões. Nesse sentido, reconhecendo a repercussão geral da matéria, veja-se a ementa do AI 791.292-QO-RG, julgado sob a relatoria do Ministro Gilmar Mendes:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.”
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990 e no art. 21, § 1º, do RI/STF, nego seguimento ao recurso.
+    Publique-se.
+          Brasília, 12 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
