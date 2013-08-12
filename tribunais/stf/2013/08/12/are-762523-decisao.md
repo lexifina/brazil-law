@@ -1,0 +1,16 @@
+DECISÃO: A decisão de que se recorre negou trânsito a apelo extremo interposto pela parte ora agravante, no qual esta sustenta que o órgão judiciário de origem teria transgredido preceitos inscritos na Constituição da República.
+    Cumpre ressaltar que a jurisprudência do Supremo Tribunal Federal tem reiteradamente enfatizado que, em princípio, as alegações de desrespeito aos postulados da legalidade, da motivação dos atos decisórios, do contraditório, do devido processo legal, dos limites da coisa julgada e da prestação jurisdicional podem configurar, quando muito, situações caracterizadoras de ofensa meramente reflexa ao texto da Constituição (RTJ 147/251 – RTJ 159/328 – RTJ 161/284 – RTJ 170/627- -628 – AI 126.187-AgR/ES, Rel. Min. CELSO DE MELLO – AI 153.310- -AgR/RS, Rel. Min. SYDNEY SANCHES – AI 185.669-AgR/RJ, Rel. Min. SYDNEY SANCHES – AI 192.995-AgR/PE, Rel. Min. CARLOS VELLOSO – AI 257.310-AgR/DF, Rel. Min. CELSO DE MELLO – RE 254.948/BA, Rel. Min. SEPÚLVEDA PERTENCE, v.g.), o que não basta, só por si, para viabilizar o acesso à via recursal extraordinária.
+    De outro lado, o acórdão recorrido decidiu a controvérsia à luz dos fatos e das provas existentes nos autos, circunstância essa que obsta o próprio conhecimento do apelo extremo, em face do que se contém na Súmula 279/STF.
+    Impõe-se registrar, finalmente, no que concerne à própria controvérsia ora suscitada, que o entendimento exposto na presente decisão tem sido observado em julgamentos proferidos no âmbito desta Suprema Corte que versaram matéria assemelhada à veiculada no caso em exame (AI 319.250-AgR/MG, Rel. Min. ILMAR GALVÃO – AI 546.092- -AgR/SP, Rel. Min. JOAQUIM BARBOSA – AI 656.346-AgR/RJ, Rel. Min. AYRES BRITTO – AI 676.656-AgR/DF, Rel. Min. RICARDO LEWANDOWSKI – ARE 722.179-AgR/RJ, Rel. Min. LUIZ FUX, v.g.):
+    “Agravo regimental em agravo de instrumento. 2. Indenização por dano moral. Reexame de provas. Súmula 279/STF. Precedente 3. Princípio do devido processo legal. Ofensa reflexa. Precedente. 4. Agravo regimental a que se nega provimento.”
+    (AI 422.045-AgR/DF, Rel. Min. GILMAR MENDES)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CARACTERIZAÇÃO DE DANO MORAL INDENIZÁVEL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279 DO STF. ALEGADA CONTRARIEDADE AO ART. 5º, LV, DA CONSTITUIÇÃO. OFENSA REFLEXA. AGRAVO IMPROVIDO.
+    I – Para se chegar à conclusão contrária à adotada pelo Tribunal ‘a quo’, seria necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    II – A orientação desta Corte, por meio da remansosa jurisprudência, é a de que, em regra, a alegada violação ao art. 5º, LV, da Constituição, quando dependente de exame de legislação infraconstitucional, configura situação de ofensa reflexa ao texto constitucional, o que inviabiliza o conhecimento do recurso extraordinário. Precedentes.
+    III – Agravo regimental improvido.”
+    (ARE 746.615-AgR/SP, Rel. Min. RICARDO LEWANDOWSKI)
+    Sendo assim, e tendo em consideração as razões expostas, conheço do presente agravo, para negar seguimento ao recurso extraordinário, por manifestamente inadmissível (CPC, art. 544, § 4º, II, “b”, na redação dada pela Lei nº 12.322/2010).
+    Publique-se.
+    Brasília, 12 de agosto de 2013.
+Ministro CELSO DE MELLO
+Relator
