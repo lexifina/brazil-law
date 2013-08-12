@@ -1,0 +1,27 @@
+Decisão:
+    Vistos.
+    Instado a se manifestar, o Ministério Público Federal, pelo parecer da ilustre Subprocuradora-Geral da República Dra. Cláudia Sampaio Marques, aprovado pelo ilustre Procurador-Geral, Dr. Roberto Monteiro Gurgel Santos, assim se pronunciou:
+    “(...)
+    1. O presente feito foi instaurado em decorrência do Ofício n° 40/2010 - MPF/PRDF/LV, que solicitou a realização de exame pericial, nos seguintes termos (fls. 5):
+    "Senhora Superintendente,
+    Cumprimentando-a, informo a V. Sa. que tramita perante a Coordenação de Polícia Judiciária da Câmara dos Deputados o inquérito policial n° 017/2009, cuja finalidade é apurar eventual prática dos crimes tipificados nos arts. 171, § 3º, c/c o art. 71; 288 e 342, todos do Código Penal, tendo em vista a fraude praticada contra o Programa de Assistência ao Estudante (PAE) - cópia da portaria anexa.
+    Tendo em vista a necessidade de realização de exame pericial grafotécnico para a comprovação da materialidade de alguns dos delitos, encaminho a V. Sa. o Ofício 67/2010-CPJ/Depol/CD, bem assim os documentos originais que o acompanham, requisitando a realização do mencionado exame pericial.
+    Realizada a perícia, deve ela ser encaminhada diretamente ao subscritor do referido ofício."
+    2. Em atendimento ao que foi solicitado, elaborou-se o Laudo Pericial n° 589/2011 - SETEC/SR/DPF/DF (fls. 134/171). Foram ouvidos Alda Silva Bandeira (fls. 184); Ronaldo de Moura Brito (fls. 185); Patrícia Cordeiro Soares (fls. 186/187) e Francisco José Feijão de Araújo (fls. 188).
+    3. Às fls. 254/255 a Procuradoria da República no Distrito Federal requereu a remessa do feito ao Supremo Tribunal Federal, nos seguintes termos:
+    ‘(...) Analisada a manifestação ministerial emitida no IP n° 17/2009 CPJ/DEPOL, concluiu-se pela similitude dos fatos narrados nos presentes autos (IPL n° 706/2010), uma vez que este IPL é, em verdade, desdobramento daquele (IP n° 17/2009). Explica-se: o Diretor da Coordenação de Polícia Judiciária do Departamento de Polícia Legislativa da Câmara dos Deputados, ante a ausência de Polícia Técnica nesse Órgão, solicitou a este MPF, por meio do Ofício n° 67/2010-CPJ/DEPOL/CD, que requisitasse à Polícia Federal a realização de perícia grafotécnica do material encaminhado, a fim de comprovar a materialidade dos delitos constantes no bojo do IP n° 17/2009 (fls. 08/11).
+    O MPF a seu turno, encaminhou o Ofício n° 40/2010-MPF/PRDF/LV, requisitando tal diligência, pugnando, ao final, pelo encaminhamento do laudo pericial diretamente ao Diretor da CPJ/CD (fl. 05).
+    No entanto, a autoridade policial, indo além do que requerido, instaurou o presente IPL 'para apurar possível ocorrência de delito, referente a fraude praticada contra o Programa de Assistência ao Estudante (PAE)' (fls. 2 e 105), tendo, inclusive, realizado oitiva de alguns supostos envolvidos. Adiante, o Delegado relator do Inquérito reconhece que o real objetivo desses autos é a realização da perícia grafotécnica. Assevera, porém, que os Delegados que o antecederam resolveram por bem instaurar inquérito para, além da perícia requisitada, apurar as práticas delituosas (fls. 229/230).
+    Dessa feita, tendo em vista tratar-se o presente IPL de mero desdobramento do IP n° 17/2009 CPJ/DEPOL - o qual, por declinatória, foi encaminhado ao E. Supremo Tribunal Federal - deve este procedimento inquisitorial seguir o mesmo destino, uma vez que é parte integrante daquele, sendo instaurado originariamente apenas para realização de exame grafotécnico do material enviado pela Coordenação de Polícia Judiciária da Câmara dos Deputados.
+    Infere-se o desdobramento enter esses e aqueles autos da relação de acessoriedade — uma vez que o presente inquérito é acessório do IP n° 17/2009 - e da identidade de tema que revelam (...)’.
+    4. O inquérito policial n° 17/2009 foi autuado nessa Corte sob o n° 3602, dele constando o Laudo Pericial n° 589/2011 -SETEC/SR/DPF/DF (fls. 134/171). Após analisar os elementos de prova contidos naqueles autos, o Ministério Público Federal requereu a devolução do feito à 10ª Vara Federal da Seção Judiciária do Distrito Federal (manifestação em anexo). Dessa forma, sendo este feito acessório àquele, deve também ser encaminhado àquele Juízo.
+    5. Ante o exposto, o Ministério Público Federal requer que seja determinada a devolução dos autos à 10a Vara Federal da Seção Judiciária do Distrito Federal, para que seja apensado ao Inquérito n° 3602.” (fls. 275/277).
+    Examinados os autos, decido.
+    Razão assiste à Procuradoria-Geral da República.
+    Verificada a ausência de indícios de participação do único detentor de foro por prerrogativa de função nesta Corte nos crimes em apuração, conforme apontado pelo próprio Parquet Federal, impõe-se a devolução dos autos à origem para que seja dada continuidade na apuração do delitos em questão, supostamente praticado por outros investigados que não possuem foro por prerrogativa de função.
+    Ante o exposto , com fundamento no art. 3º, I, da Lei nº 8.038/90 e art. 21, XV, do RISTF, acolho a manifestação do Ministério Público Federal e determino a baixa dos autos à 10ª Vara Federal da Seção Judiciária do Distrito Federal, para apensamento ao inquérito nº 3602-STF, anteriormente encaminhado àquele Juízo.
+    Publique-se.
+    Brasília, 12 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
