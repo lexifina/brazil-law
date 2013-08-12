@@ -1,0 +1,17 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, o Estado do Rio Grande do Sul. Aparelhado o recurso na afronta ao art. 37, § 6º, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O Tribunal de origem lastreou-se na prova produzida para firmar seu convencimento no sentido de que, na espécie, pode ser atribuída à conduta do réu – comissiva ou omissiva – a responsabilidade pelos danos extrapatrimoniais eventualmente sofridos pelo autor.
+    Nesse contexto, somente mediante o revolvimento do quadro fático delineado seria possível aferir a ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo (art. 37, § 6º, da CF/88). Inadmissível, pois, o recurso extraordinário, em face do óbice da Súmula 279/STF, segundo a qual “para simples reexame de prova não cabe recurso extraordinário”. Nesse sentido: AI 839.590-AgR/RJ, Rel. Ministro Luiz Fux, 1ª Turma, DJe 07.8.2012; AI 810.613-AgR/RJ, Rel. Min. Ricardo Lewandowski, 1ª Turma, DJe 1º.02.2011; e AI 776.920-AgR/GO, Rel. Min. Dias Toffoli, 1ª Turma, DJe 27.61.2013, assim ementados:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. RESPONSABILIDADE OBJETIVA. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ARTIGO 37, § 6º, DA CF. DANO MORAL. TERCEIRO NÃO-USUÁRIO DO SERVIÇO. QUANTUM INDENIZATÓRIO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO CARREADO AOS AUTOS. SÚMULA 279 DESTA CORTE. 1. A Súmula 279/STF dispõe verbis : Para simples reexame de prova não cabe recurso extraordinário. 2. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. (...) 4. Agravo regimental a que se nega provimento.”
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RESPONSABILIDADE OBJETIVA DO ESTADO. ALEGADA VIOLAÇÃO AO ART. 37, § 6° DA CONSTITUIÇÃO FEDERAL. INCIDÊNCIA DA SÚMULA 279 DO STF. AGRAVO IMPROVIDO. I - A apreciação do recurso extraordinário, no que concerne à alegada ofensa ao art. 37, § 6°, da Constituição, encontra óbice na Súmula 279 do STF. Precedentes do STF. II - Agravo regimental improvido.”
+    “Agravo regimental no agravo de instrumento. Responsabilidade civil do Poder Público. Nexo de causalidade comprovado nas instâncias de origem. Reexame de fatos e provas. Impossibilidade. Precedentes. 1. O Tribunal de origem, ao analisar os fatos e as provas constantes dos autos, concluiu pela existência do nexo de causalidade entre a conduta praticada pelo agente público e o dano causado ao ora agravado. 2. Rever esse entendimento demandaria o reexame dos fatos e das provas da causa, o que é inadmissível em recurso extraordinário. Incidência da Súmula nº 279/STF. 3. Agravo regimental não provido.”
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de agosto de 2013.
+Ministra Rosa Weber
+Relatora
