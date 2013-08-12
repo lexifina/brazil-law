@@ -1,0 +1,24 @@
+Decisão:
+    Vistos.
+    Ministério Público do Estado do Acre interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Acre, assim ementado:
+    "DIREITO PROCESSUAL CIVIL – EMBARGOS INFRINGENTES OPOSTOS CONTRA ACÓRDÃO PROFERIDO EM AÇÃO RESCISÓRIA QUE ACOLHEU, POR MAIORIA, PRELIMINAR ARGÜIDA PELO ÓRGÃO MINISTERIAL DE SEGUNDO GRAU DE ILEGITIMIDADE ATIVA ‘AD CAUSAM’ DO MINISTÉRIO PÚBLICO DE PRIMEIRO GRAU. REJEIÇÃO.
+    1. Evidenciando nos autos que o Ministério Público de primeiro grau não possuía legitimidade para propor ação rescisória, impõem-se a rejeição dos infringentes que insistem pela legitimidade referida, à luz do art. 127, da Constituição da República.
+    2. Inteligência do art. 487, inciso III, alíneas a e b do Código de Processo Civil.
+    3. Recurso improvido, por maioria” (fl. 108).
+    Alega o recorrente violação dos artigos 5º, inciso XXXVI, e 127, caput, da Constituição Federal.
+    O Superior Tribunal de Justiça, em decisão transitada em julgado, não conheceu do recurso especial interposto paralelamente ao extraordinário (fls. 204 a 214 e 218verso).
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República, Dr. Wagner de Castro Mathias Netto, opina “pelo não conhecimento da iniciativa”(fls. 224 a 225)
+    Decido
+    Anote-se, inicialmente, que o recorrente foi intimado do acórdão recorrido em 19/2/02, quando não era exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    A irresignação não merece prosperar, haja vista que os dispositivos constitucionais indicados como violados no recurso extraordinário carecem do necessário prequestionamento, sendo certo que não foram opostos embargos de declaração para sanar eventual omissão no acórdão recorrido. Incidem na espécie as Súmulas nº 282 e 356 desta Corte.
+    Ademais, a questão relativa à legitimidade ad causam foi decidida com base na legislação processual pertinente e nas provas dos autos, o que inviabiliza o prosseguimento do recurso extraordinário, tendo em vista que nessa hipótese a ofensa ao texto constitucional, se ocorresse, seria indireta ou reflexa. Nesse sentido, anote-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO. DISCUSSÃO SOBRE LEGITIMIDADE PASSIVA AD CAUSAM . ALEGADA CONTRARIEDADE AO PRINCÍPIO CONSTITUCIONAL DA PRESTAÇÃO JURISDICIONAL. NECESSIDADE DE ANÁLISE DE MATÉRIA INFRACONSTITUCIONAL: OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 674.529/MG-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 17/5/12) .
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO DO TRABALHO. EXECUÇÃO TRABALHISTA. LEGITIMIDADE PARA FIGURAR NA CONDIÇÃO DE EXECUTADO. CONTROVÉRSIA DECIDIDA À LUZ DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E DA LEGISLAÇÃO INFRACONSTITUCIONAL PERTINENTE. ALEGAÇÃO DE OFENSA AOS INCISOS LIV E LV DO ART. 5º DA MAGNA CARTA. INSUBSISTÊNCIA. 1. Não é possível, em recurso extraordinário, reexaminar a legislação infraconstitucional aplicada ao caso, bem como analisar o acervo fático-probatório dos autos. 2. Violação a garantias constitucionais do processo, se existente, apenas ocorreria de modo reflexo ou indireto. Precedentes. 3. Agravo regimental desprovido” (AI nº 658.321/SP-AgR, Segunda Turma, Relator o Ministro Ayres Britto, DJe de 30/3/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REAPRECIAÇÃO DE INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. IMPOSSIBILIDADE. AGRAVO IMPROVIDO. I É inadmissível o recurso extraordinário quando sua análise implica rever a interpretação de normas infraconstitucionais que fundamenta a decisão a quo. A afronta à Constituição, se ocorrente, seria indireta. II - Agravo regimental improvido” (ARE nº 642.356/MG-AgR, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 15/8/11).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. LEGITIMIDADE ATIVA AD CAUSAM. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. IMPOSSIBILIDADE DO REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI nº 587.112.529/CE-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 4/6/10).
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 12 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
