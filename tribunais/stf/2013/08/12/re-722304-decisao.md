@@ -1,0 +1,18 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, a União. Aparelhado o recurso na afronta aos arts. 2º e 37, caput, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais, porquanto, no caso, a suposta ofensa somente poderia ser constatada a partir da análise da legislação infraconstitucional que fundamentou o acórdão da origem, o que torna oblíqua e reflexa eventual ofensa, insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da remansosa jurisprudência deste egrégio Supremo Tribunal Federal. Nesse sentido: AI 717.712-AgR/MG, Rel. Min. Marco Aurélio, 1ª Turma, DJe 1º.7.2010; e AI 804.043-AgR/RO, Rel. Min. Cármen Lúcia, 1ª Turma, DJe 23.02.2011, cuja ementa transcrevo:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL PENAL. SUBSTITUIÇÃO DE RELATOR. LEI ORGÂNICA DA MAGISTRATURA NACIONAL-LOMAN. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5°, INC. LIII, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”.
+    Além disso, na esteira da Súmula 636/STF, “não cabe recurso extraordinário por contrariedade ao princípio constitucional da legalidade, quando a sua verificação pressuponha rever a interpretação dada a normas infraconstitucionais pela decisão recorrida”.
+    Quanto à alegada violação do art. 2º da Lei Fundamental, o Supremo Tribunal Federal entende que exame da legalidade dos atos administrativos pelo Poder Judiciário não viola o princípio da separação de Poderes. Nesse sentido: RE 417.408-AgR/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 26.4.2012; ARE 655.080-AgR/DF, Rel. Min. Gilmar Mendes, 2ª Turma, DJe 09.9.2012, este assim ementado:
+    "Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Concurso público. 4. Controle judicial dos atos administrativos quando eivados de ilegalidade ou abuso de poder. Possibilidade. Ausência de violação ao Princípio da separação de Poderes. Precedentes do STF. 5. Discussão acerca da existência de ilegalidade e quanto à apreciação do preenchimento dos requisitos legais, pela agravada, para investidura no cargo público de magistério estadual. Necessário reexame do conjunto fático-probatório da legislação infraconstitucional e do edital que rege o certame. Providências vedadas pelas súmulas 279, 280 e 454. Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento".
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 12 de agosto de 2013.
+Ministra Rosa Weber
+Relatora
