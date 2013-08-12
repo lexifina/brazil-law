@@ -1,0 +1,18 @@
+DECISÃO
+INTIMAÇÃO – VÍCIO – RELEVÂNCIA NÃO DEMONSTRADA – HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O Gabinete prestou as seguintes informações:
+    O paciente foi condenado pelo Juízo da 1ª Vara Criminal da Comarca de Santana/AP (Processo nº 0000256-35.2007.8.03.0002), a 3 anos e 10 meses de reclusão, em regime semiaberto, ante a prática do crime previsto no artigo 313-A do Código Penal.
+    A Câmara Única do Tribunal de Justiça do Estado do Amapá admitiu a apelação interposta e rejeitou as preliminares de inépcia da denúncia, de cerceamento de defesa, de preclusão e de nulidade da sentença. No mérito, negou provimento ao recurso.
+    A defesa protocolou recurso especial, alegando diversas nulidades no processo. Sustentou não serem as evidências colhidas suficientes para a condenação. O Vice-Presidente ao inadmitir o processamento, assentou que o recorrente ter-se-ia limitado a impugnar questões já resolvidas. Aludiu ao Verbete nº 7 da Súmula do Superior Tribunal de Justiça, segundo o qual “a pretensão de simples reexame de prova não enseja recurso especial”.
+    No Superior, o agravo interposto – de nº 225.486/AP – não foi admitido. O ministro Marco Aurélio Bellizze asseverou que o recorrente deveria ter infirmado todos os fundamentos do pronunciamento atacado, o que não teria ocorrido. Consignou não merecer o ato agravado qualquer reparo, porquanto a condenação fora embasada nas provas colhidas na instrução processual.
+    Neste habeas, a impetrante afirma que ela– e não a Defensoria Pública da União – deveria ter sido intimada da decisão, por haver interposto o especial e o agravo. Diz do trânsito em julgado do pronunciamento em função desse equívoco, o que teria levado o Juízo da 1ª Vara Criminal da Comarca de Santana/AP a determinar a expedição de mandado de prisão para o cumprimento da pena imposta. Aponta a inconstitucionalidade de qualquer norma regimental a impedir e cercear a atuação da Defensoria Pública estadual no Superior Tribunal de Justiça. Alega ter legitimidade para protocolar recursos extraordinários nos Tribunais Superiores, conforme prescrevem os artigos 106, parágrafo único, da Lei Complementar nº 80/1990 (“À Defensoria Pública do Estado caberá interpor recursos aos Tribunais Superiores, quando cabíveis”) e 41 da Lei Complementar nº 8/1994, do Estado do Amapá (“Os Defensores Públicos do Estado de Categoria Especial atuarão junto ao Tribunal de Justiça do Amapá e aos Tribunais Superiores, quando couber, bem como, no caso de necessidade, nas Defensorias Públicas”).
+    Requer, em âmbito liminar, a suspensão da execução da pena, com o recolhimento do mandado de prisão expedido, até o exame final desta impetração. No mérito, busca a anulação da decisão mediante a qual determinada a intimação da Defensoria Pública da União, confirmando-se, no mais, a providência, a fim de manter o paciente em liberdade até o trânsito em julgado da sentença condenatória.
+    O habeas está concluso para exame do pedido de concessão de medida acauteladora.
+    2. Observem a documentação existente neste processo. A decisão do Superior Tribunal de Justiça que implicou o não conhecimento do agravo ante defeito formal veio ao mundo jurídico com o cabeçalho revelando o nome do agravante, do profissional da advocacia – no caso, defensor público – com a referência a “outros”, e, como agravado, o Ministério Público do Estado do Amapá. Deu-se a publicação com eficácia de intimação ficta.
+    De início, descabe vislumbrar, na espécie, vício na publicação verificada.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria Geral da República.
+    5. Publiquem.
+Brasília – residência –, 12 de agosto de 2013, às 10h55.
+Ministro MARCO AURÉLIO
+Relator
