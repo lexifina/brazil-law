@@ -1,0 +1,18 @@
+DECISÃO:
+Ementa: Habeas corpus. Inexistência de pronunciamento colegiado de Tribunal Superior. Descabimento.
+    1.  Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão monocrática que negou seguimento ao HC 291.530, do Superior Tribunal de Justiça.
+    2.  Extrai-se dos autos que o paciente, preso em flagrante em 11.06.2013, foi denunciado por supostamente ocultar, em sua residência, armas de fogo e munições, de uso permitido e restrito, além de 10 (dez) quilos de entorpecentes (art. 16, caput, da Lei nº 10.826/03 c.c. art. 33 da Lei nº 11.343/06). O Juízo de origem converteu a prisão em preventiva, tendo em vista a gravidade concreta dos fatos.
+    3.  Pelo argumento da ocorrência de excesso de prazo na instrução criminal, foi impetrado habeas corpus no Tribunal de Justiça de Santa Catarina, que denegou a ordem.
+    4.  Do acórdão estadual foi impetrado habeas corpus no Superior Tribunal de Justiça, e o Relator, Ministro Marco Aurélio Belizze, negou-lhe seguimento, sob o fundamento de que não estaria caracterizada a demora alegada pelo impetrante.
+    5.  Neste habeas corpus, reitera-se a alegação de excesso de prazo na formação da culpa e requer-se o relaxamento da prisão cautelar.
+    Decido.
+    6.  Inicialmente observo que este habeas corpus foi impetrado contra decisão monocrática proferida pelo Relator do HC 291.530, Ministro Marco Aurélio Bellizze, de modo que, inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito implicada na impetração. Nesse sentido, foram julgados, por exemplo, o HC 113.468, Rel. Min. Luiz Fux, HC 117.502, Redator para o acórdão Min. Luís Roberto Barroso, HC 108.141-AgR, Rel. Min. Teori Zavascki, e o HC 118.189, Rel. Min. Ricardo Lewandowski, assim ementado:
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. IMPETRAÇÃO NÃO CONHECIDA. I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, o qual pressupõe seja a coação praticada por Tribunal Superior. II Essa foi a orientação firmada pela Segunda Turma durante o julgamento do HC 119.115, de minha relatoria, ocasião em que se decidiu que a não interposição de agravo regimental no STJ e, portanto, a ausência da análise da decisão monocrática pelo colegiado impede o conhecimento do habeas corpus por esta Corte. III Writ não conhecido.”
+    7.  Além disso, a decisão impugnada está alinhada à orientação do Supremo Tribunal Federal no sentido de que a apuração de excesso de prazo deve ser orientada por uma análise circunstanciada do grau de complexidade da causa, da quantidade de acusados e da atuação das partes e do Estado-Juiz (cf. HC 116.864, Relª Minª Cármen Lúcia, HC 111.119 Rel. Min. Luiz Fux, e HC 108.353, Rel. Min. Dias Toffoli).
+    8. Quanto ao mais, consulta ao sistema informatizado do Tribunal de Justiça do Estado de Santa Catarina esclarece que foram realizadas audiências de instrução em 26.06.2014 e 24.07.2014 e que nova audiência foi agendada para o dia 29.08.2014, de modo que considero inviável a concessão da ordem de ofício.
+    9. Diante do exposto, com base no art. 38 da Lei nº 8.038/90 c/c o art. 21, §1º, do RI/STF, não conheço do presente habeas corpus e determino o arquivamento dos autos.
+    Publique-se.
+          Brasília, 13 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
