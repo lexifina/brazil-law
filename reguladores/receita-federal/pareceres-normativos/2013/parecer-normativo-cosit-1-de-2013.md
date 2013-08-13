@@ -1,0 +1,3 @@
+Parecer Normativo Cosit nº 1, de 28 de maio de 2013
+Assunto: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - IPI. VENDA À VAREJO. FATO GERADOR. SAÍDA DO PRODUTO OU MOMENTO DA VENDA. Ementa: No caso de produto exposto à venda a varejo dentro do estabelecimento industrial, o fato gerador dar-se-á na saída do produto do estabelecimento industrial ou no momento da sua venda quanto aos produtos objeto de operação de venda que forem consumidos no interior do estabelecimento. Dispositivos Legais: Decreto nº 7.212, de 15 de junho de 2010, Regulamento do Imposto sobre Produtos Industrializados - RIPI/ 2010, arts. 35, II, 36, XI, e 408.
+[arquivo anexo: Parecer Normativo RFB-Cosit nº 1-2013.pdf]
