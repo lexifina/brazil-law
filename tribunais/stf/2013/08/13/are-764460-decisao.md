@@ -1,0 +1,20 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade do recurso extraordinário que impugna acórdão da 19ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+    “AGRAVO INOMINADO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO INTERPOSTO, MANTENDO-SE A SENTENÇA PROFERIDA PELO JUÍZO A QUO. BOMBEIRO MILITAR. PRETENSÃO DE APROVEITAMENTO DO TEMPO DE SERVIÇO PRESTADO ÀS FORÇAS ARMADAS. IMPOSSIBILIDADE. INEXISTE INCOMPATIBILIDADE ENTRE A LEI Nº 880/85 E O DECRETO Nº 22.169/96. ENQUANTO A LEI Nº 880/85 PREVÊ REGRAS GERAIS DE CONTAGEM DE TEMPO DE SERVIÇO PARA A OBTENÇÃO DE VANTAGENS PESSOAIS, TAIS COMO TRIÊNIO E PASSAGEM DO SERVIDOR PARA A INATIVIDADE; O DECRETO Nº 22.169/96 DEFINE CRITÉRIOS ESPECÍFICOS PARA FINS DE PROMOÇÃO NA CARREIRA. PARTE AUTORA QUE NÃO CUMPRIU O REQUISITO TEMPORAL EXIGIDO NO ART. 3º, II, DO DECRETO Nº 22.169/96, NÃO FAZENDO JUS À PROMOÇÃO PRETENDIDA. DECISÃO DE ACORDO COM O ENTENDIMENTO DA JURISPRUDÊNCIA DOMINANTE NESTE TRIBUNAL E NOS TRIBUNAIS SUPERIORES. DECISÃO MONOCRÁTICA CORRETA. DESPROVIMENTO DO RECURSO.” (fl. 135).
+    No recurso extraordinário, interposto com fundamento no art. 102, III, “a” e “c”, da Constituição Federal, sustenta-se, em preliminar, a repercussão geral da matéria deduzida no recurso. No mérito, aponta-se violação aos arts. 5º, caput e inciso I; e 37, caput e inciso II, ambos insertos no texto constitucional.
+    Alega-se, em síntese, que houve manifesta afronta ao princípio da igualdade, uma vez que:
+    “(…) não existe na lei, nenhuma vedação para o cômputo do tempo de serviço nas forças armadas para fins de promoção! Tanto é que, o Recorrido reconhece o direito do Recorrente, ao computar para fins de Licença Especial e Triênio o tempo de serviço nas forças armadas.” (fl. 143).
+    Decido.
+    A irresignação não merece prosperar.
+    Consignou o Tribunal de origem que:
+    “(...) ao contrário do alegado pelo ora agravante, a Lei Estadual nº 880/85 assegura apenas a contagem do referido período para os efeitos da aposentadoria, triênios e licença especial sem, entretanto, considerá-lo para a pretensão esperada pelo demandante.
+    Ressalte-se que o Decreto Estadual 22.169/96 prevê, de forma clara, que para aferição dos critérios de promoção no Corpo de Bombeiros Militar do Estado do Rio de Janeiro será considerado o efeito serviço prestado a Corporação.” (fls. 136-137).
+    Dessa forma, para se chegar a conclusão diversa da consignada pelo Tribunal a quo e entender que é devido ao recorrente, para fins de aposentadoria, o cômputo do tempo de serviço prestado às Forças Armadas, far-se-ia imprescindível a revisão dos fatos e provas analisados, além do cotejo das normas legais aplicáveis (Lei Estadual 880/85 e Decreto Estadual 22.169/96), o que não é possível segundo as Súmulas 279 e 280 do Supremo Tribunal Federal. Nesse sentido:
+    RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. SERVIDOR PÚBLICO. APOSENTADORIA. REVISÃO DOS PROVENTOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. CONTROVÉRSIA DECIDIDA COM BASE EM LEGISLAÇÃO LOCAL. INCIDÊNCIA DAS SÚMULAS Nº 279 E 280 DO STF. OFENSA REFLEXA A CONSTITUIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO APELO EXTREMO. SÚMULA 284/STF. NEGATIVA DE SEGUIMENTO. (ARE 736.973, Rel. Min. Luiz Fux, DJe 5.4.2013)
+    AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. CONTAGEM DO TEMPO DE SERVIÇO. TERMO INICIAL DA CONCESSÃO DA APOSENTADORIA. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI-AgR 671.330, Rel. Min. Cármen Lúcia, DJe de 5.2.2010).
+    Assim, não há, pois, o que prover quanto às alegações recursais.
+    Ante o exposto, conheço do presente agravo para negar seguimento ao recurso extraordinário (art. 544, § 4º, II, “b”, do CPC).
+    Publique-se.
+    Brasília, 13 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
