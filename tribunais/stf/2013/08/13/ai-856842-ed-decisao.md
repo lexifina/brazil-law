@@ -1,0 +1,21 @@
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DIREITO DE GREVE. DESCONTO NOS VENCIMENTOS. COMPENSAÇÃO DE HORAS. REPERCUSSÃO GERAL DA CONTROVÉRSIA RECONHECIDA. SOBRESTAMENTO DOS AUTOS NA ORIGEM. ATO JUDICIAL PREVISTO NO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IRRECORRIBILIDADE.
+    Decisão: Trata-se de embargos de declaração interposto contra decisão de minha relatoria, assim ementada:
+    “AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. DIREITO DE GREVE. DESCONTO NOS VENCIMENTOS DOS SERVIDORES PÚBLICOS DOS DIAS NÃO TRABALHADOS. COMPENSAÇÃO DE HORAS. REPERCUSSÃO GERAL RECONHECIDA. TEMA Nº 531 DA GESTÃO POR TEMAS DA REPERCUSSÃO GERAL DO STF.”
+    Prima facie, o Plenário do Supremo Tribunal Federal, ao apreciar as questões de ordem nos autos do AI 715.410, Rel. Min. Ellen Gracie e do RE 540.410, Rel. Min. Cezar Peluso, DJe de 5/9/2008, decidiu que, nos casos de matérias com repercussão geral reconhecida, ocorrerá a devolução dos recursos extraordinários aos Tribunais de origem, inclusive daqueles interpostos em data anterior a 3/5/2007, e dos respectivos agravos de instrumento, para os fins previstos no artigo 543-B, § 3º, do CPC.
+    “Art. 543-B. Quando houver multiplicidade de recursos com fundamento em idêntica controvérsia, a análise da repercussão geral será processada nos termos do Regimento Interno do Supremo Tribunal Federal, observado o disposto neste artigo.
+    (...)
+    § 3º Julgado o mérito do recurso extraordinário, os recursos sobrestados serão apreciados pelos Tribunais, Turmas de Uniformização ou Turmas Recursais, que poderão declará-los prejudicados ou retratar-se. (...) .“
+    Esse ato judicial previsto no artigo 543-B, § 3º, do CPC, constitui mero procedimento, sem cunho decisório por estar desprovida de mérito, contra o qual não cabe recurso. Nesse sentido:
+    “ATO DO RELATOR QUE, ADMITINDO O RECURSO EXTRAORDINÁRIO, DETERMINA A DEVOLUÇÃO DOS AUTOS RESPECTIVOS AO TRIBUNAL DE ORIGEM PARA QUE, NESTE, SEJA OBSERVADO O QUE DISPÕE O ART. 543-B do CPC ATO JUDICIAL QUE NÃO POSSUI CONTEÚDO DECISÓRIO NEM SE REVESTE DE LESIVIDADE IRRECORRIBILIDADE CONSEQÜENTE NÃO-CONHECIMENTO DO PRIMEIRO RECURSO DE AGRAVO - INCONFORMISMO DA PARTE INTERESSADA QUE DEDUZIU NOVO RECURSO DE AGRAVO (AGRAVO INTERNO), DESTA VEZ CONTRA A DECISÃO QUE NÃO CON HECEU DO PRIMEIRO RECURSO DE AGRAVO IMPROVIMENTO DESSE NOVO RECURSO, COM DETERMINAÇÃO DE DEVOLUÇÃO IMEDIATA DOS AUTOS AO TRIBUNAL DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO REFERENTE AO PRESENTE JULGAMENTO.” (AI 503064-AgR-AgR, Rel. Min. Celso de Mello, DJ de 26/3/2010).
+    “AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. OBSERVÂNCIA DO ART. 543-B DO CPC. ATO JUDICIAL SEM CUNHO DECISÓRIO. IRRECORRIBILIDADE. AGRAVO IMPROVIDO.
+    I A jurisprudência desta Corte consolidou-se no sentido de que é incabível recurso contra decisão que determina a devolução dos autos ao Tribunal de origem para que seja observado o disposto no art. 543-B do CPC, haja vista não possuir conteúdo decisório nem se revestir de lesividade. Precedentes.
+    II Agravo regimental improvido.” (AI 811626-AgR-AgR, Relator o Ministro Ricardo Lewandowski, DJe de 3/3/2011).
+    In casu, os embargantes alegam não ser passível de aplicação o paradigma de repercussão geral aplicado aos autos, tendo em vista que o precedente não trata sobre compensação de horas quanto ao trabalho que deixou de ser realizado pelos servidores grevistas.
+     Razão não lhe assiste, da análise dos autos, verifica-se que o desconto dos dias parados, em consequência à não reposição, também foi objeto do recurso extraordinário, conforme se pode destacar do seguinte trecho:
+    “É certo que exigir a compensação hora a hora correspondente ao período paredista é medida legal e principalmente moral, uma vez que tendo optado a Administração pelo pagamento integral da remuneração dos servidores públicos durante os dias de greve, não exigindo posteriormente a compensação estaria a configurar hipótese de pagamento indevido.”
+     Ex positis, NÃO CONHEÇO os embargos de declaração e determino a devolução dos autos ao Tribunal de origem.
+    Publique-se.
+    Brasília, 13 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
