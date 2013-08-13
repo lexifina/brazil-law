@@ -1,0 +1,17 @@
+Trata-se de recurso extraordinário contra acórdão que afastou a preliminar de iliquidez da sentença e, no mérito, manteve a condenação da empresa recorrente em danos materiais e morais, conforme se observa da ementa do aresto impugnado, no que importa:
+    “RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. NEGATIVA DE ATENDIMENTO. PRELIMINAR DE SENTENÇA ILÍQUIDA REJEITADA. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+    (…).
+    RELAÇÃO DE CONSUMO. PLANO DE SAÚDE. NEGATIVA DE ATENDIMENTO. CARTA DE PREPOSIÇÃO E SUBSTABELECIMENTO IRREGULARES. AUSÊNCIA DE INDICAÇÃO QUANTO AO PREPOSTO E AO ADVOGADO SUBSTABELECIDO. REVELIA. PRESUNÇÃO DE VERACIDADE QUANTOS AOS FATOS NARRADOS NA INICIAL. ADVOGADO SUBSCRITOR DA CONTESTAÇÃO SEM PROCURAÇÃO OU SUBSTABELECIMENTO NOS AUTOS. AUSÊNCIA DE REPRESENTATIVIDADE E PORTANTO DA PEÇA DE DEFESA. PRESUNÇÃO DE VERACIDADE QUANTO AOS FATOS NARRADOS NA INICIAL. EFEITOS QUE IMPLICAM NA PROCEDÊNCIA DOS PEDIDOS AUTORAIS. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+    (...)” (fls. 101-102).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa ao art. 5º, II e LV, da mesma Carta.
+    A pretensão recursal não merece acolhida.
+    Quanto à alegada ofensa ao art. 5º, II, da Constituição, como tem consignado o Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional suscitada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+    Além disso, o acórdão recorrido decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Leis 8.078/1990 e 9.099/1995). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário.
+    É certo, ainda, que a jurisprudência desta Corte firmou-se no sentido de que, em regra, a alegação de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório, quando dependente de exame prévio de normas infraconstitucionais, configura situação de ofensa reflexa ao texto constitucional, o que impede o cabimento do recurso extraordinário. Nesse sentido, cito as seguintes decisões: AI 778.923-AgR/RJ, Rel. Min. Cármen Lúcia; AI 596.568-AgR/GO, Rel. Min. Dias Toffoli; AI 806.313-AgR/RN, Rel. Min. Ayres Britto; AI 727.420-AgR/DF, Rel. Min. Joaquim Barbosa; AI 795.489-AgR/SP, Rel. Min. Celso de Mello; AI 755.879-AgR/SP, Rel. Min. Gilmar Mendes; AI 756.336-AgR/MG, Rel. Min. Ellen Gracie; AI 508.047-AgR/RJ, Rel. Min. Cezar Peluso; AI 723.935-AgR/GO, Rel. Min. Eros Grau.
+    Outrossim, esta Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade quando a verificação da ofensa envolva a reapreciação de interpretação dada à norma infraconstitucional pelo Tribunal a quo (Súmula 636 do STF).
+    Por fim, para se chegar à conclusão contrária à adotada pelo Tribunal de origem, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que inviabiliza o recurso extraordinário nos termos da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
