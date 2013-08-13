@@ -1,0 +1,23 @@
+Trata-se de recurso extraordinário contra acórdão assim ementado:
+    “APELAÇÃO CÍVEL EM AÇÃO PREVIDENCIÁRIA. APOSENTADORIA ESPECIAL DE SERVIDOR PÚBLICO ESTADUAL. ART. 40, § 5º, E 201, § 8º, DA CONSTITUIÇÃO FEDERAL. ADMINISTRADORA ESCOLAR. EXERCÍCIO DE ATIVIDADE EQUIPARADA A DE PROFESSOR. ENTENDIMENTO CONSUBSTANCIADO NA ADI 3772. POSSIBILIDADE. PROVIMENTO.
+    I. O exercício da função de administradora escolar não impede a possibilidade de concessão de aposentadoria especial. São as reais atribuições do cargo que devem ser analisadas quando do cotejo dos requisitos do art. 40, § 5º, e 201, § 8º, da Constituição Federal;
+    II. A função de magistério não se restringe ao trabalho em sala de aula, devendo ser estendido também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e a direção de unidade escolar.
+    III. Apelação a que se dá provimento” (fl. 169).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 40, § 5º, e 201, § 8º, da mesma Carta. Sustentou-se, ainda, que o decidido no julgamento da ADI 3.772/DF refere-se apenas aos professores de carreira, excluídos os especialistas em educação.
+    A pretensão recursal não merece acolhida.
+    Isto porque o acórdão recorrido está em harmonia com entendimento firmado pelo Plenário do Supremo Tribunal Federal, no julgamento da ADI 3.772/DF, na qual fui relator para o acórdão, no sentido de que as funções de magistério compreendem, além das restritas às salas de aula, a correção de provas, o atendimento aos pais e alunos, a preparação de aulas, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar. O acórdão possui a ementa a seguir transcrita:
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE MANEJADA CONTRA O ART. 1º DA LEI FEDERAL 11.301/2006, QUE ACRESCENTOU O § 2º AO ART. 67 DA LEI 9.394/1996. CARREIRA DE MAGISTÉRIO. APOSENTADORIA ESPECIAL PARA OS EXERCENTES DE FUNÇÕES DE DIREÇÃO, COORDENAÇÃO E ASSESSORAMENTO PEDAGÓGICO. ALEGADA OFENSA AOS ARTS. 40, § 4º, E 201, § 1º, DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. AÇÃO JULGADA PARCIALMENTE PROCEDENTE, COM INTERPRETAÇÃO CONFORME.
+    I - A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar.
+    II - As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos, em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecido nos arts. 40, § 4º, e 201, § 1º, da Constituição Federal.
+    III - Ação direta julgada parcialmente procedente, com interpretação conforme, nos termos supra”.
+    Com esse raciocínio, menciono, ainda, as seguintes decisões: RE 585.979/SP e AI 758.461/SP, Rel. Min. Gilmar Mendes; RE 615.396/DF, Rel. Min. Eros Grau; AI 831.266-AgR/SC, Rel. Min. Cármen Lúcia; RE 606.751/SP e AI 802.732-AgR/SC, de minha relatoria.
+    Registre-se, ademais, que o Tribunal de origem concluiu que a recorrida era professora de carreira com base nos seguintes fundamentos:
+    “(...), os documentos constantes nos autos são conclusivos. A Sra. Maria da Conceição Lopes de S. Paulista foi inicialmente nomeada como professora de acordo com o documento constante à fl. 13. Após ser enquadrada como administradora escolar, as suas atribuições iniciais não restaram inviabilizadas como corroboram os documentos de fls. 64-68. (…).
+    (…).
+    Desse modo, é extreme de dúvidas que a recorrente exercia atividade equiparada a dos professores e, portanto, pode se aposentar de acordo com a aposentadoria especial prevista constitucionalmente. Ademais, importante ressaltar que a servidora recebia da Administração Gratificação por Atividade de Magistério - GAM (fl. 10), sendo, desse modo, contraditório esta negar uma condição por uma via - indeferindo a aposentadoria -, e por outra, afirmar o execício efetivo da docência ao pagar a recorrente benefício por execício de atividade” (fls. 175-176).
+    Desse modo, para se chegar à conclusão contrária à adotada pelo acórdão recorrido, necessário seria o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279 do STF.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 13 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
