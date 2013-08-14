@@ -1,0 +1,26 @@
+Decisão.
+    Vistos.
+    Distrito Federal interpõe recurso extraordinário, com fundamento na alínea “a” do permissivo constitucional, contra acórdão do Conselho Especial do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “MANDADO DE SEGURANÇA. CONCURSO TÉCNICO PENITENCIÁRIO. AVALIAÇÃO PSICOLÓGICA. PRELIMINARES DE INADEQUAÇÃO DA VIA ELEITA; DE PERDA SUPERVENIENTE DO INTERESSE DE AGIR E DE CITAÇÃO DOS LITISCONSORTES PASSIVOS REJEITADAS. AVALIAÇÃO PSICOLÓGICA PAUTADA EM CRITÉRIOS SUBJETIVOS. OFENSA AOS PRINCÍPIOS DA IMPESSOALIDADE E PUBLICIDADE. SEGURANÇA CONCEDIDA.
+    1. Não existe inadequação da via eleita por ausência de direito líquido e certo se o mandamus cinge-se na análise da legalidade do caráter eliminatório da avaliação psicológica com base nos documentos apensados à inicial, não havendo necessidade de dilação probatória.
+    2. Não há perda superveniente do interesse de agir se o candidato busca a anulação do ato que o excluiu do certame e a possibilidade de participar na próxima etapa – curso de formação -, cuja realização não apresenta maior complexidade para a Administração.
+    3. Não se verifica carência de pressupostos de constituição válida do processo em face da desnecessidade de citação dos litisconsortes passivos, na medida em que a eventual concessão da segurança repercutirá tão somente na esfera jurídica do impetrante.
+    4. A avaliação psicológica, prevista em lei, deve pautar-se em critérios objetivos, para não ofender aos princípios da impessoalidade e da publicidade, nos termos do art. 37 da Constituição Federal.
+    5. Em se constatando que os testes aplicados na avaliação psicológica submetem o candidato à subjetividade dos examinadores, vislumbra-se a nulidade do ato.
+    6. Segurança concedida”.
+    Opostos embargos declaratórios, foram desprovidos.
+    Sustenta-se violação dos artigos 5º, caput, e 37, caput e incisos I e II, da Constituição Federal.
+    Decido.
+    O Plenário desta Corte, no julgamento do AI nº 758.533/MG, Relator o Ministro Gilmar Mendes, tendo reconhecido a repercussão geral do tema em debate, reafirmou o entendimento no sentido de que a exigência de avaliação psicológica ou de teste psicotécnico, como requisito ou condição necessária em concursos públicos, somente é possível se houver lei em sentido material e formal que expressamente o autorize, além da previsão no edital do certame. Ressalte-se que essa exigência também depende de um grau mínimo de objetividade e de publicidade dos atos em que se desdobra, sendo inconstitucional a avaliação realizada com base em critérios não revelados. O acórdão do referido julgado foi assim ementado:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°).2. Exame psicotécnico. Previsão em lei em sentido material. Indispensabilidade. Critérios objetivos. Obrigatoriedade. 3. Jurisprudência pacificada na Corte. Repercussão Geral. Aplicabilidade. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (DJe de 13/8/10) .
+    É o que dispõe o teor da Súmula nº 686 da Corte, in verbis:
+    “SÓ POR LEI SE PODE SUJEITAR A EXAME PSICOTÉCNICO A HABILITAÇÃO DE CANDIDATO A CARGO PÚBLICO”.
+    No caso em tela, o Tribunal de origem, após detida análise das provas dos autos, consignou expressamente que o teste de avaliação psicológica do concurso em questão não atendeu aos princípios da publicidade e da impessoalidade, bem como não foi pautado por critérios objetivos. Dessa forma, é certo que para ultrapassar o entendimento do Tribunal de origem seria necessário o reexame do conjunto fático-probatório dos autos, o que se mostra incabível em sede de recurso extraordinário. Incidência da Súmula nº 279/STF.
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EXAME PSICOTÉCNICO. CONCURSO PÚBLICO. NECESSIDADE DE CRITÉRIOS OBJETIVOS. REEXAME DE PROVAS E DE CLÁUSULAS DO EDITAL. IMPOSSIBILIDADE EM RECURSO EXTRAORDINÁRIO. 1. O Supremo Tribunal Federal fixou jurisprudência no sentido de que o exame psicotécnico pode ser estabelecido para concurso público desde que por lei, tendo por base critérios objetivos de reconhecido caráter científico, devendo existir, inclusive, a possibilidade de reexame. Precedentes. 2. Reexame de fatos e provas e de clausulas editalícias. Inviabilidade do recurso extraordinário. Súmulas ns. 279 e 454 do Supremo Tribunal Federal. Agravo regimental a que se nega provimento” (RE nº 473.719/DF-AgR, Segunda Turma, elator o Ministro Eros Grau, DJe de 1/8/08).
+    Ressalte-se, por fim, que o Superior Tribunal de Justiça manteve a nulidade do teste psicotécnico anteriormente aplicado ao candidato ora recorrido, mas, todavia, deu provimento ao especial “manejado pelo DISTRITO FEDERAL para determinar a submissão do autor/recorrido a novo exame psicotécnico”.
+    Ante o exposto, nos termos do artigo 557, caput, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 14 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
