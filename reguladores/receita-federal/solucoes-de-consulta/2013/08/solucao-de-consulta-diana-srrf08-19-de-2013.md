@@ -1,0 +1,6 @@
+Solução de Consulta Diana/SRRF08 nº 19, de 3 de abril de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO TEC
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO TEC: Mercadoria 8537.10.20 - “Ex” 006 Controlador lógico programável (PLC) com redundância modular tripla (TMR), para controle de segurança em plantas de processo industrial, composto por módulos processadores, de comunicação, cartões com triplo processamento de sinais de entrada e saída, sem ultrapassar a quantidade de 61 cartões de entrada e saída por módulo processador, chassis e fontes de alimentação, marca ICS Triplex e modelo Trusted. Fabricante: Rockwell Automation.
+8537.10.20 Controlador lógico programável (PLC) para controle de segurança em plantas de processo industrial, composto por módulos processadores, de entrada, de saída e de comunicação, unidades de base e fontes de alimentação, marca ICS Triplex e modelo AAdvance. Fabricante: Rockwell Automation.
+DISPOSITIVOS LEGAIS: RGIs 1.ª e 6.ª (textos da posição 85.37 e da subposição 8537.10), c/c RGC-1, todas da TEC, do Mercosul (Resolução Camex nº 94, de 2011), com os esclarecimentos das Notas Explicativas do Sistema Harmonizado (Decreto nº 435, de 1992 – alterado pela IN RFB nº 807, de 2008, IN RFB nº 1.072, de 2010, e IN RFB nº 1.260, de 2012).
