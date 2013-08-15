@@ -1,0 +1,27 @@
+Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de ANTONIO CARLOS DE OLIVEIRA GERMANO, contra acórdão do Superior Tribunal Militar, que negou provimento à Apelação 82-10.2011.7.01.0201 – RJ, Rel. Min. Maria Elizabeth Guimarães Teixeira Rocha.
+    Extrai-se dos autos que o paciente, civil, foi condenado pela 2ª Auditoria da 1ª Circunscrição Judiciária Militar à pena de 6 meses de detenção pela prática do delito previsto no art. 299 do Código Penal Militar (desacato a militar), sendo-lhe concedido o benefício do sursis pelo prazo de 2 anos.
+    A impetrante informa que, alegando a incompetência da Justiça castrense para processar e julgar os fatos narrados na denúncia e, subsidiariamente, a possibilidade de ser proposta a transação penal ou a suspensão condicional do processo, a defesa apelou para o Superior Tribunal Militar, que negou provimento ao recurso, não obstante o parecer favorável da Procuradoria-Geral da Justiça Militar.
+    É contra esse acórdão que ora se insurge.
+    Destaca, de início, que esta Corte, em diversas oportunidades, “decidiu que não há de se falar em crime militar no caso de conduta praticada por civil em face de militar que não está no exercício de função tipicamente castrense” (grifos no original).
+    Nesse contexto, ressalta que os fatos narrados na denúncia teriam ocorrido quando uma equipe de militares do Exército realizava
+    “genuína atividade de policiamento, (resolver tumulto em bar), a qual, de acordo com o art. 144 da Constituição da República, é exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio, por intermédio dos órgãos policiais federais e estaduais, estes últimos, civis ou militares” (grifos no original).
+    Daí porque sustenta, em síntese, a incompetência da Justiça Militar, asseverando que o delito imputado ao paciente – civil – não constitui crime militar próprio, e sim acidental ou impróprio.
+    Diz, em reforço, que as atividades de policiamento na cidade do Rio de Janeiro “estão sendo realizadas tanto por servidores militares do Exército quanto por servidores integrantes da Polícia Militar e da Polícia Civil do Estado do Rio de Janeiro, de modo concomitante e integrado”.
+    Afirma, também, que não ignora a vedação contida no art. 90-A da Lei 9.099/1995, acrescentado pela Lei 9.839/1999, mas entende que o referido dispositivo é parcialmente inconstitucional, “especificamente com relação aos indiciados e réus civis, em face da violação do princípio constitucional da igualdade” (grifos no original).
+    Alega que, no caso sob exame, em que o acusado é civil e o crime é acidentalmente militar, verifica-se a ocorrência de desigualdade injustificada no tratamento dispensado, o que enseja nulidade por violação ao princípio da isonomia.
+    Requer, ao final, o deferimento de medida liminar, para que se determine a suspensão dos efeitos da sentença condenatória proferida em desfavor do paciente na Ação Penal 0000082-10.2011.7.01.0201, com o sobrestamento do início da execução da pena, até o julgamento final deste writ.
+    No mérito, pede a concessão da ordem, para que, afastado o entendimento adotado pelo STM, seja declarada a incompetência absoluta da Justiça Militar para processar e julgar o feito, com a anulação da ação penal proposta contra o paciente desde o início.
+    Subsidiariamente, postula, ainda, a concessão da ordem para:
+    “3.1. declarar a inconstitucionalidade parcial, sem redução de texto, do artigo 90-A da Lei 9.099/1995, acrescentado pela Lei 9.839/1999, para dar-lhe interpretação conforme à Constituição da República, de modo a excluir qualquer exegese que afaste a aplicação da Lei 9.099/1995 aos acusados civis indiciados ou processados perante a Justiça Militar;
+    3.2. determinar ao Órgão do MINISTÉRIO PÚBLICO MILITAR com atribuição para o feito que apresente proposta de transação penal ou de suspensão condicional do processo, ou, ainda, manifestação fundamentada acerca do eventual não atendimento dos requisitos previstos na Lei 9.099/1995” (grifos no original).
+    É o breve relatório. Decido.
+    Em um juízo de prévia delibação, próprio desta fase processual, verifico estarem presentes os pressupostos viabilizadores para a concessão da medida liminar deduzida.
+    Vislumbra-se a presença do fumus boni iuris, uma vez que a tese sustentada pela Defensoria está em consonância com recente julgado proferido pela Segunda Turma desta Corte, no qual foi reconhecida a absoluta incompetência da Justiça Militar da União para processar e julgar civil acusado do crime de desacato cometido contra militares em atividade de policiamento ostensivo exercida pelo Exército no processo de ocupação e pacificação das favelas cariocas. Refiro-me ao HC 112.936/RJ, Rel. Min. Celso de Mello.
+    Evidente, de outro lado, a presença do periculum in mora ante a possibilidade de se iniciar a execução da pena imposta ao paciente.
+    Isso posto, defiro a liminar para determinar a suspensão dos efeitos da sentença condenatória proferida em desfavor do paciente na Ação Penal 0000082-10.2011.7.01.0201 da 2ª Auditoria da 1ª Circunscrição Judiciária Militar até o julgamento definitivo deste writ.
+    Bem instruídos os autos, ouça-se o Procurador-Geral da República.
+    Comunique-se.
+    Publique-se.
+    Brasília, 15 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
