@@ -1,0 +1,22 @@
+Decisão: Trata-se de agravo de instrumento contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão cujo trecho da ementa transcrevo:
+    “CIVIL. PROCESSUAL CIVIL. SISTEMA FINANCEIRO DE HABITAÇÃO – SFH. INÉPCIA EM RELAÇÃO A ALGUNS PEDIDOS. CAPITALIZAÇÃO DE JUROS. SUCUMBÊNCIA RECÍPROCA.
+    (…)
+    - Impossibilidade de capitalização de juros no âmbito do SFH, em qualquer periodicidade, por inexistir legislação autorizadora. Inteligência das súmulas 121 do STF e 93 do STJ.
+    - Impossibilidade de substituição do Sistema Francês de Amortização, a denominada Tabela Price, pelo Sistema de Amortização Constante – SAC, tendo em vista a inexistência de qualquer previsão contratual a amparar tal pretensão e, ainda, se tratar de sistemática com adoção de critérios diversos para fixação da prestação mensal, sendo, no caso do SAC, as prestações iniciais mais altas, decrescendo ao longo do tempo, o que implicaria na necessidade de pagamento, por parte do mutuário, da diferença devida desde o início do contrato.
+    - Possibilidade de utilização da Taxa Referencial – TR como parâmetro para atualização do saldo devedor nos contratos firmados no âmbito do Sistema Financeiro da Habitação, desde que expressamente prevista no contrato, para tal finalidade, a aplicação do índice de reajuste da caderneta de poupança (…)”. (fl. 29)
+     No recurso extraordinário, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 5º, XXXVI, do texto constitucional.
+     Nas razões recursais, sustenta-se ofensa ao ato jurídico perfeito. Afirma-se que os juros cobrados são calculados sobre o saldo devedor e pagos mensalmente e que não incidem sobre os juros do mês anterior, uma vez que estes não se incorporam ao saldo devedor (fl. 66).
+    Decido.
+    O recurso não merece prosperar.
+    Isso porque o acórdão recorrido decidiu a questão com base na legislação infraconstitucional. Desse modo, a ofensa à Constituição, se ocorrente, seria indireta, o que não enseja a abertura da via extraordinária. Nesse sentido, AI-AgR 746.249, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 1º.7.2009; e AI-AgR 743.435, Rel. Min. Ellen Gracie, Segunda Turma, DJe 5.2.2010, cuja ementa dispõe:
+    “DIREITO CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. SISTEMA FINANCEIRO DE HABITAÇÃO - SFH. CONTRATO DE MÚTUO. TR. ATUALIZAÇÃO MONETÁRIA DO SALDO DEVEDOR. ALEGAÇÃO DE VIOLAÇÃO AO ART. 6º DA CONSTITUIÇÃO FEDERAL.OFENSA INDIRETA OU REFLEXA. SÚMULA STF 454. 1. O debate acerca da utilização da TR como índice de atualização do saldo devedor nos contratos do sistema financeiro de habitação é de nível infraconstitucional (Lei 4.380/64). 2. A apreciação do apelo extremo demanda o reexame de cláusulas contratuais (Súmula STF 454). Precedentes. 3. Agravo regimental improvido”.
+    Saliento ainda que esta via excepcional não viabiliza pretensão cuja análise demande o reexame do conjunto fático-probatório constante dos autos e a prévia interpretação de cláusulas contratuais (Enunciados 279 e 454 da Súmula do STF).
+    Por fim, registro que a jurisprudência desta Corte firmou-se no sentido de que a alegação de afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, do direito adquirido e do ato jurídico perfeito configura ofensa meramente reflexa ao texto constitucional quando a controvérsia cingir-se à interpretação ou aplicação de normas infraconstitucionais, o que inviabiliza o prosseguimento do recurso extraordinário.
+    A propósito, confira-se o ARE-AgR 653.851, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 5.3.2012, cuja ementa assim dispõe:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE NULIDADE POR AUSÊNCIA DE CITAÇÃO NA RECLAMAÇÃO TRABALHISTA. MATÉRIA PROCESSUAL. 1. Alegada contrariedade aos princípios constitucionais da legalidade, do contraditório, da ampla defesa, do devido processo legal, do ato jurídico perfeito e da inafastabilidade da prestação jurisdicional. Necessidade de análise de matéria infraconstitucional: ofensa constitucional indireta. Precedentes. 2. Agravo regimental ao qual se nega provimento”.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 15 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
