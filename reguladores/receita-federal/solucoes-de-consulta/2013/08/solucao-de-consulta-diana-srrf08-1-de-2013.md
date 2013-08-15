@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF08 nº 1, de 22 de janeiro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: .CÓDIGO TEC
+ASSUNTO: Classificação de Mercadorias
+EMENTA: .CÓDIGO TEC: Mercadoria 8537.20.90 Disjuntor de gerador trifásico, com tensão máxima nominal de 36 kV, corrente de curto-circuito de até 275 kA, composto por conjunto único (monobloco) com quadro de controle local, dispositivos de atuação e 3 invólucros de alumínio, individualizados por fase, contendo cada invólucro: disjuntor tripolar com câmara de extinção a gás SF6, chave seccionadora de isolamento, chaves de aterramento, transformadores de corrente, transformadores de potencial, pára-raios e capacitores contra surtos, modelo FKG2S. Fabricante Areva Transmission & Distribution - França.
+DISPOSITIVOS LEGAIS: RGIs 1.ª e 6.ª (textos da posição 85.37 e da subposição 8537.20), c/c RGC-1, todas da TEC, do Mercosul (Resolução Camex nº 94, de 2011), com os esclarecimentos das Notas Explicativas do Sistema Harmonizado (Decreto nº 435, de 1992 - alterado pela IN RFB nº 807, de 2008, IN RFB nº 1.072, de 2010, e IN RFB nº 1.260, de 2012).
