@@ -1,0 +1,5 @@
+Solução de Consulta Diana/SRRF08 nº 9, de 22 de fevereiro de 2013
+ASSUNTO: Classificação de Mercadorias EMENTA: CÓDIGO TIPI
+ASSUNTO: Classificação de Mercadorias
+EMENTA: CÓDIGO TIPI: Mercadoria: 3926.90.90 Suporte para biomassa, utilizado em sistemas de tratamento de águas residuárias (sanitárias e industriais), constituído por um bloco de espuma, de poliuretano, inserido em uma estrutura rígida cilíndrica, em formato de gaiola, de polipropileno, com 5 cm de diâmetro e 6 cm de altura, utilizado como substrato para a fixação de microorganismos, responsáveis pelo consumo de matéria orgânica. Marca registrada: Biobob®. Fabricante: Bio Proj Tecnologia Ambiental Ltda.
+DISPOSITIVOS LEGAIS: RGIs 1.ª e 6.ª (textos da posição 39.26 e da subposição 3926.90), c/c RGC-1, todas da TIPI (Decreto nº 7.660, de 2011), com os esclarecimentos das Notas Explicativas do Sistema Harmonizado (Decreto nº 435, de 1992 - alterado pela IN RFB nº 807, de 2008, IN RFB nº 1.072, de 2010 e IN RFB nº 1.260, de 2012).
