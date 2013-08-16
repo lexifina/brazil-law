@@ -1,0 +1,34 @@
+DECISÃO:
+Ementa: 1. Não cabe reclamação contra decisão que deixa de aplicar o art. 20, § 3º, da Lei nº 8.742/93, ante a superação da decisão proferida pelo Supremo Tribunal Federal na ADI 1232 (Rcl 4374, Rel. Min. Gilmar Mendes). 2. Reclamação a que se nega seguimento, por insubsistência da respectiva decisão-parâmetro.
+    Trata-se de reclamação proposta pelo INSTITUTO NACIONAL DE SEGURO SOCIAL – INSS, com pedido liminar, a fim de garantir a autoridade de decisão desta Corte, que teria sido violada pela Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Piauí nos autos do processo 2006.40.00.705075-1.
+    O requerente sustenta que a decisão reclamada teria desconsiderado o parâmetro de miserabilidade da renda familiar para fins de concessão de benefício assistencial, fixado em ¼ (um quarto) do salário-mínimo per capita, por força do art. 20, § 3º, da Lei nº 8.742/93. Ainda segundo o reclamante, a constitucionalidade do dispositivo foi reconhecida pelo Supremo Tribunal Federal nos autos da ADI 1232, sendo esse o paradigma da reclamação.
+    A análise do pedido liminar foi postergada para momento posterior à prestação das informações (fl. 65), as quais foram juntadas às fls. 75/78.
+    Os autos foram a mim redistribuídos (fl. 78).
+    Na contracapa dos autos, foi juntado andamento processual extraído da internet, segundo o qual a decisão reclamada foi mantida pela Turma Nacional de Uniformização dos Juizados Especiais Federais.
+    É o relatório. Decido.
+    O reclamante tem razão quanto ao que foi decidido na ADI 1232, na qual prevaleceu o entendimento de que o parâmetro objetivo de miserabilidade, previsto no art. 20, § 3º, da Lei nº 8.742/93, seria compatível com a Constituição. No entanto, ao julgar os REs 567985 e 580963 e a Rcl 4374, o Plenário deste Supremo Tribunal Federal superou o entendimento adotado na referida ação direta e declarou a inconstitucionalidade do dispositivo em questão. Veja-se a ementa da Rcl 4374, na qual se registrou de forma expressa a superação do precedente (Rel. Min. Gilmar Mendes, j. 18/04/2013, pendente de publicação):
+    “Benefício assistencial de prestação continuada ao idoso e ao deficiente. Art. 203, V, da Constituição.
+    A Lei de Organização da Assistência Social (LOAS), ao regulamentar o art. 203, V, da Constituição da República, estabeleceu critérios para que o benefício mensal de um salário mínimo fosse concedido aos portadores de deficiência e aos idosos que comprovassem não possuir meios de prover a própria manutenção ou de tê-la provida por sua família.
+    2. Art. 20, § 3º da Lei 8.742/1993 e a declaração de constitucionalidade da norma pelo Supremo Tribunal Federal na ADI 1.232.
+    Dispõe o art. 20, § 3º, da Lei 8.742/93 que “considera-se incapaz de prover a manutenção da pessoa portadora de deficiência ou idosa a família cuja renda mensal per capita seja inferior a 1/4 (um quarto) do salário mínimo”.
+    O requisito financeiro estabelecido pela lei teve sua constitucionalidade contestada, ao fundamento de que permitiria que situações de patente miserabilidade social fossem consideradas fora do alcance do benefício assistencial previsto constitucionalmente.
+    Ao apreciar a Ação Direta de Inconstitucionalidade 1.232-1/DF, o Supremo Tribunal Federal declarou a constitucionalidade do art. 20, § 3º, da LOAS.
+    3. Reclamação como instrumento de (re)interpretação da decisão proferida em controle de constitucionalidade abstrato.
+    Preliminarmente, arguido o prejuízo da reclamação, em virtude do prévio julgamento dos recursos extraordinários 580.963 e 567.985, o Tribunal, por maioria de votos, conheceu da reclamação.
+    O STF, no exercício da competência geral de fiscalizar a compatibilidade formal e material de qualquer ato normativo com a Constituição, pode declarar a inconstitucionalidade, incidentalmente, de normas tidas como fundamento da decisão ou do ato que é impugnado na reclamação. Isso decorre da própria competência atribuída ao STF para exercer o denominado controle difuso da constitucionalidade das leis e dos atos normativos.
+    A oportunidade de reapreciação das decisões tomadas em sede de controle abstrato de normas tende a surgir com mais naturalidade e de forma mais recorrente no âmbito das reclamações. É no juízo hermenêutico típico da reclamação – no “balançar de olhos” entre objeto e parâmetro da reclamação – que surgirá com maior nitidez a oportunidade para evolução interpretativa no controle de constitucionalidade.
+    Com base na alegação de afronta a determinada decisão do STF, o Tribunal poderá reapreciar e redefinir o conteúdo e o alcance de sua própria decisão. E, inclusive, poderá ir além, superando total ou parcialmente a decisão-parâmetro da reclamação, se entender que, em virtude de evolução hermenêutica, tal decisão não se coaduna mais com a interpretação atual da Constituição.
+    4. Decisões judiciais contrárias aos critérios objetivos preestabelecidos e Processo de inconstitucionalização dos critérios definidos pela Lei 8.742/1993.
+    A decisão do Supremo Tribunal Federal, entretanto, não pôs termo à controvérsia quanto à aplicação em concreto do critério da renda familiar per capita estabelecido pela LOAS.
+    Como a lei permaneceu inalterada, elaboraram-se maneiras de contornar o critério objetivo e único estipulado pela LOAS e avaliar o real estado de miserabilidade social das famílias com entes idosos ou deficientes.
+    Paralelamente, foram editadas leis que estabeleceram critérios mais elásticos para concessão de outros benefícios assistenciais, tais como: a Lei 10.836/2004, que criou o Bolsa Família; a Lei 10.689/2003, que instituiu o Programa Nacional de Acesso à Alimentação; a Lei 10.219/01, que criou o Bolsa Escola; a Lei 9.533/97, que autoriza o Poder Executivo a conceder apoio financeiro a municípios que instituírem programas de garantia de renda mínima associados a ações socioeducativas.
+    O Supremo Tribunal Federal, em decisões monocráticas, passou a rever anteriores posicionamentos acerca da intransponibilidade dos critérios objetivos.
+    Verificou-se a ocorrência do processo de inconstitucionalização decorrente de notórias mudanças fáticas (políticas, econômicas e sociais) e jurídicas (sucessivas modificações legislativas dos patamares econômicos utilizados como critérios de concessão de outros benefícios assistenciais por parte do Estado brasileiro).
+    5. Declaração de inconstitucionalidade parcial, sem pronúncia de nulidade, do art. 20, § 3º, da Lei 8.742/1993.
+    6. Reclamação constitucional julgada improcedente.”
+    Assim, superada a decisão desta Corte cuja autoridade se pretendia resguardar, resta prejudicado o cabimento da presente reclamação, por insubsistência da respectiva decisão-parâmetro.
+    Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento à reclamação.
+    Publique-se.
+Brasília, 16 de agosto de 2013.
+Ministro LUÍS ROBERTO BARROSO
+Relator
