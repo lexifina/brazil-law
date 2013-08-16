@@ -1,0 +1,18 @@
+Decisão: Trata-se de recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Maranhão, assim ementado:
+    “LEI ESTADUAL 8.970/2009. REQUISITO DA GENERALIDADE AUSENTE. NATUREZA DE LEI ESPECÍFICA DE REAJUSTE. APLICAÇÃO DE ÍNDICES DIFERENCIADOS. POSSIBILIDADE. CAMPO DE INCIDÊNCIA DA NORMA. AMPLIAÇÃO PELO JUDICIÁRIO. VEDAÇÃO. SÚMULA 339/STF. 1. A Lei Estadual 8.970/2009 se destinou apenas aos servidores do Poder Executivo, não tendo contemplado os servidores do Legislativo nem do Judiciário, razão pela qual, ausente o requisito da generalidade, não tratou de revisão geral anual. 2. Sendo lei de reajuste específico, inexiste inconstitucionalidade no fato de a referida norma ter aplicado índices de aumento diferenciados entre os servidores. 3. Não cabe ao Poder Judiciário, a pretexto de aumentar vencimentos de servidores públicos sob fundamento de isonomia, ampliar o campo de incidência da norma para o fim de incluir novos destinatários à revelia do Poder Legislativo. 4. Apelo conhecido e improvido. Unanimidade”. (fl. 135)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se violação ao artigo 37, X e XV, da Constituição Federal, e à súmula 672 do Supremo Tribunal Federal.
+    Defende-se, em síntese, que o reajuste estabelecido na Lei 8.970/2009 do Estado do Maranhão apenas para uma categoria específica de servidores públicos tem o caráter de revisão geral anual. Dessa forma, em atenção ao princípio da isonomia, o referido reajuste deve ser concedido ao recorrente.
+    Decido.
+    O recurso não merece prosperar.
+    O Tribunal de origem decidiu a causa (i) a partir da interpretação da Lei estadual 8.970/2009, entendendo que a aludida lei não teria caráter de revisão geral anual e que o ora recorrente não mereceria perceber o reajuste, pois não estaria incluso no rol de servidores contemplados no diploma legal:
+    “(...) a Lei Estadual nº 8.970/2009 em exame se destinou apenas aos servidores do Poder Executivo, conforme se observa do seu art. 1º que reajustou “a remuneração dos servidores civis do Poder Executivo, da administração direta, autárquica e fundacional”.
+    Daí, por não ter contemplado os servidores do Legislativo nem do Judiciário, logo se vê que a Lei Estadual nº 8.970/2009 não tratou de revisão geral anual, na medida em que não alcançou o “universo integral dos servidores”, conforme lições de Carvalho Filho.
+    (…)
+    Some-se a isso o fato de que a Lei Estadual nº 8.970/2009, além de não contemplar os servidores do Judiciário nem do Legislativo, também excluiu do seu âmbito de incidência (art. 1º parág. ún.) vários grupos de servidores do próprio Executivo que já haviam sido beneficiários com o reajuste concedido através da Lei 8.933 do início de 2009”. (fl. 137)
+    Para se concluir de maneira diversa, seria necessária a análise da legislação local aplicável ao caso, providência vedada no âmbito do recurso extraordinário, conforme disposto no Enunciado 280 da Súmula do STF. Nesse sentido, destaco os seguintes precedentes: AgR-ARE 732.385, Rel. Min. LUIZ FUX, Primeira Turma, DJe 13.8.2013; AgR-AI 805.729, Rel. Min. ROSA WEBER, Primeira Turma, DJe 25.6.2013; AgR-RE 561.980, Rel. Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 8.4.2011 e AgR-AI 759.552, Rel. Min. AYRES BRITTO, Segunda Turma, DJe 3.11.2010.
+    Ante o exposto, nego seguimento ao recurso extraordinário (arts. 21, §1º, do RISTF, e 557, caput, do CPC).
+    Publique-se. Int..
+    Brasília, 16 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
