@@ -1,0 +1,23 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À PRODUÇÃO INDIVIDUAL - GEPI. DESCONTO EM FOLHA. PAGAMENTO INDEVIDO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 5º, INCS. XXXV, LIV E LV, DA CONSTITUIÇÃO DA REPÚBLICA: AUSÊNCIA DE REPERCUSSÃO GERAL. ARE N. 748.371. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base no art. 102, inc. III, alínea a, da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Minas Gerais:
+    “CONSTITUCIONAL E ADMINISTRATIVO - MANDADO DE SEGURANÇA - SERVIDOR PÚBLICO - DESCONTO EM FOLHA DE PAGAMENTO - GEPI - PAGAMENTO INDEVIDO - DEVIDO PROCESSO LEGAL - CONTRADITÓRIO E AMPLA DEFESA - CONCRETUDE - DENEGAÇÃO DA SEGURANÇA - MANUTENÇÃO - INTELIGÊNCIA DO ART. 5º, LIV E LV DA CONSTITUIÇÃO DA REPÚBLICA. É devido desconto em folha de pagamento de servidor público, por ato da Administração Pública, se paga indevidamente gratificação, uma vez precedido do devido processo legal, com a oportunidade para que possa ele exercer o contraditório e a ampla defesa, nos termos do que determina o preceptivo constitucional” (grifos nossos).
+    2. A Agravante alega que teria sido contrariado o art. 5º, incs. XXXV, LIV e LV, da Constituição da República.
+    Argumenta que “a recorrente está sofrendo descontos mensais em seu contra-cheque, sob a alegação de reposição de pensão, em total desrespeito ao princípio do devido processo legal e da ampla defesa, e mais a r. Decisão que mandou excluir de seus proventos a GEPI sequer restou transitada em julgado, estando e grau de recurso para os tribunais superiores, havendo assim, clara execução direta nos proventos da recorrente sem a necessária instauração de execução nos termos do artigo 497 do CPC ”.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a incidência da Súmula n. 279 do Supremo Tribunal Federal e a ausência de ofensa constitucional direta.
+    Analisada a matéria posta à apreciação, DECIDO.
+    4. Razão de direito não assiste à Agravante.
+    5. No voto condutor do acórdão recorrido, o Desembargador Relator afirmou:
+    “Ocorre que, "in casu", este eg. Sodalício, quando do julgamento da Apelação nº 1.0000.00.295577-1/000, da lavra do ilustre Des. WANDER MAROTTA, ocorrido em 21.10.2002 (acórdão de fls. 30/44-TJ, já havia determinado a exclusão da GEPI dos proventos pagos à Autora, sendo que a interposição de Recurso Especial e Extraordinário, como por ela afirmado (fls. 87-TJ), "não tem o condão de obstar a execução da sentença, por força do que dispõe o art. 497 do CPC" (TRF 3ª R. - 1ª T., Apelação Cível nº 92.03.51802-9/SP, Rel. Juiz THEOTÔNIO COSTA, "DJU" 20.09.1994).
+    Ora, inegável que a Irresignante exerceu o contraditório e a ampla defesa, utilizando-se de todos os meios e recursos a ele inerentes, verificando, com eficácia máxima, o devido processo legal (art. 5º, LIV e LV da Carta Magna) princípio constitucional basilar ao Estado Democrático de Direito.
+    Com efeito, prescindível o processo administrativo para o desconto da verba paga indevidamente, porquanto, decorre da própria decisão judicial que excluiu a GEPI a possibilidade da Administração Pública descontar o que pagou indevidamente” (grifos nossos).
+    No julgamento do Agravo em Recurso Extraordinário n. 748.371, Relator o Ministro Gilmar Mendes, o Supremo Tribunal Federal assentou a inexistência de repercussão geral quanto às alegações de contrariedade aos princípios do contraditório, da ampla defesa e do devido processo legal, quando o exame da questão depende de prévia análise da adequada aplicação de normas infraconstitucionais:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral” (DJe 1º.8.2013).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos que suscitarem a mesma questão constitucional podem ter o seu seguimento negado pelos respectivos relatores, conforme o art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal.
+    Nada há, pois, a prover quanto às alegações da Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e arts. 21, § 1º, e 327, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
