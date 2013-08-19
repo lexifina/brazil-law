@@ -1,0 +1,16 @@
+DECISÃO
+HABEAS CORPUS. ALEGAÇÃO DE DEMORA NO JULGAMENTO DE APELAÇÃO CRIMINAL. PEDIDO DE RECONSIDERAÇÃO. MANUTENÇÃO DA DECISÃO QUESTIONADA PELOS SEUS PRÓPRIOS FUNDAMENTOS. PEDIDO INDEFERIDO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado por HUGO CORREIA DE ANDRADE, advogado, em favor de ISAÍAS GOMES DA SILVA e JOSÉ CARLOS DA SILVA, contra ato da Quinta Turma do Superior Tribunal de Justiça, que, em 2.5.2013, conheceu parcialmente o habeas corpus n. 264.988–PE e, nessa parte, concedeu a ordem para determinar que o Tribunal de Justiça de Pernambuco julgue a apelação criminal n. 0000005-22.2010.8.17.1360 interposta pelo Paciente.
+    2. Em 13.5.2013, indeferi a medida liminar, requisitei informações à 1ª Câmara Criminal do Tribunal de Justiça de Pernambuco e determinei que se colhesse a manifestação da Procuradoria-Geral da República:
+    “HABEAS CORPUS. CONSTITUCIONAL, PENAL. ALEGAÇÃO DE DEMORA NO JULGAMENTO DE APELAÇÃO CRIMINAL. ORDEM PARCIALMENTE CONCEDIDA PELO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA. MEDIDA LIMINAR INDEFERIDA. INFORMAÇÕES. VISTA AO PROCURADOR-GERAL DA REPÚBLICA” (Evento 5, fl. 1).
+    3. O Impetrante pede reconsideração da decisão que indeferiu o requerimento de medida liminar, asseverando que, “diante da inércia do Tribunal a quo, em processar o julgamento do apelo interposto, mesmo após a comunicação do STJ, requer que seja revisto o indeferimento da liminar, ante a presença do fumus bonis juris, consubstanciado no constrangimento ilegal no que atine, a razoável duração do processo do paciente, corroborado pela documentação em apenso, pois, até o presente momento o apelo não foi julgado, e o periculum im mora, diante dos graves danos a liberdade de locomoção dos pacientes, cuja espera pelo julgamento do mérito do Writ na prisão, é temerária, data vênia, haja vista, o gritante excesso de prazo, na duração da prisão processual, fato este, já reconhecido nos autos, e agravado, pelo descumprimento da Ordem do STJ, por parte da Corte de Origem” (Evento 11, fl. 3).
+    4. Em 29.7.2013, a 1ª Câmara Criminal do Tribunal de Justiça de Pernambuco prestou as informações (Evento 16), aduzindo, em síntese, que a demora no julgamento das apelações decorre da complexidade da causa, pluralidade de réus, recursos e incidentes.
+    Examinados os elementos constantes dos autos, DECIDO.
+    5. Repetindo os argumentos expostos na inicial da impetração, sustenta o Impetrante demora injustificada, pelo Tribunal de Justiça de Pernambuco, no julgamento da apelação interposta pelo Paciente.
+    6. Os argumentos apresentados não modificam a situação jurídica arguida na impetração, pelo que mantenho a decisão questionada pelos seus próprios fundamentos, especialmente para que se aguarde a manifestação do Ministério Público Federal, ressaltando que a Autoridade apontada como coatora prestou informações, noticiando que a demora no julgamento das apelações decorre da complexidade da causa, pluralidade de réus, recursos e incidentes.
+    7. Pelo exposto, indefiro o pedido de reconsideração e determino o cumprimento da parte final da decisão de 13.5.2013 (Evento 5).
+    Publique-se.
+    Brasília, 19 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
