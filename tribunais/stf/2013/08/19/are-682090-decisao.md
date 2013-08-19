@@ -1,0 +1,21 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CONTRATAÇÃO PRECÁRIA DURANTE O PRAZO DE VALIDADE DO CERTAME. PRETERIÇÃO CARACTERIZADA. MERA EXPECTATIVA CONVOLADA EM DIREITO SUBJETIVO À NOMEAÇÃO. PRECEDENTE. REPERCUSSÃO GERAL NÃO EXAMINADA EM FACE DE OUTROS FUNDAMENTOS QUE OBSTAM A ADMISSÃO DO APELO EXTREMO
+1. A contratação precária para o exercício de atribuições de cargo efetivo durante o prazo de validade do concurso público traduz preterição dos candidatos aprovados e confere direito subjetivo à nomeação. Precedentes: ARE 694.769-AgR, Relator Min. Celso de Mello, Segunda Turma, DJe de 21/9/2012, AI 777.569-AgR, Relator. Min. Dias Toffoli, Primeira Turma, DJe de 16/3/2012, AI nº 776.070-AgR, Relator Min. Gilmar Mendes, Segunda Turma, DJe de 22/3/2011.
+2. A repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+3. In casu, o acórdão recorrido assentou: “APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA C/C LIMINAR - SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO - CONCURSO PÚBLICO MUNICIPAL - MÉDICO UROLOGISTA - ABERTURA DE NOVO CONCURSO PARA O MESMO CARGO, DURANTE O PRAZO DE VALIDADE DO CERTAME ANTERIOR - CONTRATAÇÃO, A TÍTULO PRECÁRIO, DURANTE A VALIDADE DO CONCURSO - DIREITO À NOMEAÇÃO DO CANDIDATO APROVADO NO PRIMEIRO CONCURSO - ART. 37, INCISO IV, DA CF/88 - RECURSO CONHECIDO E PROVIDO - DECISÃO UNÂNIME”.
+4. Agravo DESPROVIDO.
+    Decisão: Trata-se de agravo nos próprios autos interposto pelo MUNICÍPIO DE ARACAJU, com o objetivo de ver reformada a r. decisão que inadmitiu seu recurso extraordinário manejado com arrimo na alínea a do permissivo Constitucional, contra acordão prolatado pelo Tribunal de Justiça de Sergipe, assim ementado, in verbis:
+    “APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA C/C LIMINAR - SENTENÇA QUE JULGOU IMPROCEDENTE O PEDIDO - CONCURSO PÚBLICO MUNICIPAL - MÉDICO UROLOGISTA - ABERTURA DE NOVO CONCURSO PARA O MESMO CARGO, DURANTE O PRAZO DE VALIDADE DO CERTAME ANTERIOR - CONTRATAÇÃO, A TÍTULO PRECÁRIO, DURANTE A VALIDADE DO CONCURSO - DIREITO À NOMEAÇÃO DO CANDIDATO APROVADO NO PRIMEIRO CONCURSO - ART. 37, INCISO IV, DA CF/88 - RECURSO CONHECIDO E PROVIDO - DECISÃO UNÂNIME”
+    Os embargos de declaração opostos foram rejeitados.
+    Nas razões do apelo extremo sustenta preliminar de repercussão geral e, no mérito, alega violação aos artigos 37, IV, 199, § 1º, e 197 da Constituição Federal.
+    O Tribunal a quo negou seguimento ao recurso extraordinário por entender ausente o prequestionamento de alguns dispositivos constitucionais, bem como, por entender que o acórdão impugnado estaria de acordo com a jurisprudência desta Corte.
+    É o relatório. DECIDO.
+    O recurso não merece provimento.
+    Ab initio, a repercussão geral pressupõe recurso admissível sob o crivo dos demais requisitos constitucionais e processuais de admissibilidade (art. 323 do RISTF). Consectariamente, se o recurso é inadmissível por outro motivo, não há como se pretender seja reconhecida “a repercussão geral das questões constitucionais discutidas no caso” (art. 102, III, § 3º, da CF).
+    O acórdão recorrido não divergiu do posicionamento firmado por esta Corte no sentido de que a contratação precária para o exercício de atribuições de cargo efetivo durante o prazo de validade do concurso público traduz preterição dos candidatos aprovados e confere direito subjetivo à nomeação. Nesse sentido, ARE 694.769-AgR, Relator Min. Celso de Mello, Segunda Turma, DJe de 21/9/2012, AI 777.569-AgR, Relator. Min. Dias Toffoli, Primeira Turma, DJe de 16/3/2012, AI nº 776.070-AgR, Relator Min. Gilmar Mendes, Segunda Turma, DJe de 22/3/2011, que possui a seguinte ementa:
+    “Agravo regimental em agravo de instrumento. 2. Existência de candidatos aprovados em concurso público. 3. Contratação de temporários. 3. Preterição. Precedentes do STF. 4. Agravo regimental a que se nega provimento.”
+    Ex positis, DESPROVEJO o agravo, com fundamento no disposto no artigo 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 19 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
