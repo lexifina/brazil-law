@@ -1,0 +1,31 @@
+Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União, em favor de CYRO PEREIRA AMADO, LORAN PEREIRA DA SILVA, VINICIUS MESSIAS GARCIA e FILIPE DE AMORIM UZEDA, contra acórdão do Superior Tribunal Militar, que não conheceu do Recurso de Apelação 209-36.2011.7.01.0301/RJ.
+    A leitura da documentação que acompanha a inicial do writ revela que o primeiro e o segundo pacientes foram condenados à pena de 3 (três) meses de detenção, por incursão no art. 195 (“abandono de posto de serviço”) do Código Penal Militar. Ao terceiro e quarto pacientes foi imposta a pena de 1 (um) ano, 1 (mês) e 15 (quinze) dias de reclusão, por infração ao artigo 290 (“uso de substância entorpecente em área militar”). A todos foi deferido o benefício do sursis, estabelecido o regime aberto para o cumprimento da sanção penal e concedida a possibilidade de apelar em liberdade.
+    Contra a referida sentença foi interposta apelação, que não foi conhecida pelo Superior Tribunal Militar por ser extemporânea. Assim está redigida a emenda desse julgado:
+    “Apelação da Defesa. Intempestividade. Não conhecimento.
+    Inconformismo da Defesa de Acusados incursos nas penas dos delitos tipificados nos arts. 195 e 290 CPM.
+    Na hipótese, o advogado constituído dos Réus protocolou petição de renúncia de mandato em favor da Defensoria Pública da União, após a ocorrência do trânsito em julgado da Sentença para a Defesa.
+    Manifestação do Custos Legis no sentido da intempestividade recursal que merece acolhimento. O trânsito em julgado de uma Sentença não pode ser visto como fato passível de receber temperamentos.
+    Da trilogia prevista no art. 5º, inc. XXXVI, da Constituição Federal decorre o princípio da segurança jurídica, o qual, certamente, não pode ser invocado em benefício de qualquer das partes. Entendimento contrário geraria, inclusive, afronta a um princípio importantíssimo que rege os prazos processuais, qual seja, o da igualdade de tratamento entre Defesa e Acusação.
+    A falta de ajuizamento, por qualquer das partes, de recurso no prazo legal, necessariamente, as consequências decorrentes da autoridade da coisa julgada.
+    Acolhimento da preliminar.
+    Não conhecimento do Apelo.
+    Decisão unânime” (grifos no original).
+    Consoante anotado no referido acórdão, a defesa dos réus foi exercida por advogado por eles constituídos, que compareceu à sessão de julgamento, fez sustentação oral e ouviu a prolação da sentença. Na assentada em que julgada a apelação, o advogado e os réus tomaram ciência formal da decisão proferida pelo Juízo da 3ª Auditoria da 1ª CJM no Estado do Rio de Janeiro.
+    A sentença transitou em julgado em 10 de setembro de 2012.
+    Sucede que o advogado constituído, no dia 17 subsequente – 7 (sete) dias após o trânsito em julgado -, requereu a juntada de instrumento de renúncia de mandato em favor da Defensoria Pública da União, que, por sua vez, apresentou petição de recurso de apelação.
+    O juiz sentenciante, utilizando como fundamento os princípios da instrumentalidade das formas e da celeridade processual, admitiu o recurso, que, ao final, não foi conhecido pelo Superior Tribunal Militar, em virtude da inobservância de pressuposto extrínseco de admissibilidade dos recurso: a tempestividade.
+    Nesta impetração, a Defensoria Pública da União pretende o afastamento do óbice ao conhecimento do recurso de apelação. Aduz que “o Direito, de modo geral, é muito mais amplo e complexo do que um simples conceito de trânsito em julgado e seus respectivos prazos” e argumenta ser necessário “analisar a situação fática do contexto das provas, a condição jurídica em que se encontram as partes, in casu, se estas estão devidamente representadas e se não há restrição ou ferimento a algum direito fundamental de qualquer das partes”.
+    A impetrante dá relevo à necessária observância dos princípios da ampla defesa, do devido processo legal e da segurança jurídica, por entender que, admitido o recurso pelo juízo de primeira instância, faz-se necessário assegurar aos apelantes o direito ao duplo grau de jurisdição.
+    Entende, por isso, que o acórdão prolatado pelo Superior Tribunal Militar trouxe flagrante prejuízo aos então acusados, suprimindo-lhes o direito à garantia do duplo grau de jurisdição, em franca violação ao princípio fundamental da dignidade da pessoa humana, previsto no art. 1º, II, da Constituição Federal.
+    Requer, ao final, a concessão de medida liminar, declarando-se nulo o acórdão proferido no Recurso de Apelação 209-36.2011.7.01.0301/RJ pelo Superior Tribunal Militar, determinando-se, como consequência da providência cautelar que vier a ser deferida, a suspensão dos efeitos da sentença condenatória.
+    No mérito, pleiteia a confirmação da decisão acauteladora, a fim de assegurar aos pacientes o direito de exercerem a ampla defesa e o contraditório, determinando-se ao órgão coator que preceda a novo julgamento do recurso de apelação.
+    É o relatório. Decido.
+    A concessão de liminar em habeas corpus se dá de forma excepcional em casos em que se demonstre, de modo inequívoco, dada a natureza do pedido, a presença dos requisitos autorizadores da medida.
+    Em primeira análise, tenho por ausentes tais requisitos, haja vista a pretensão de afastar os efeitos próprios da sentença penal condenatória transitada em julgado, sem que se verifique, de plano, a existência de qualquer ilegalidade ou abuso de poder praticado pelo órgão apontado como coator, que, atento aos prazos processuais, certificou a ocorrência do fenômeno processual da coisa julgada.
+    Diante de tal quadro, e sem prejuízo de um exame mais aprofundado por ocasião do julgamento colegiado, indefiro a medida liminar.
+    Oficie-se ao Juízo Auditor da 3ª Auditoria da 1ª CJM no Estado do Rio de Janeiro para que preste esclarecimentos sobre a execução da sentença condenatória, tendo em conta as sanções impostas e o fato de os pacientes terem sido presos em flagrante delito em 20 de agosto de 2011 e, à primeira vista, terem permanecido nessa condição até a prolação da sentença, em 4 de setembro de 2012.
+    Com as informações, ouça-se o Procurador-Geral da República.
+    Publique-se.
+    Brasília, 20 de agosto de 2013.
+Ministro Ricardo Lewandowski
+Relator
