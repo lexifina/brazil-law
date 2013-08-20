@@ -1,0 +1,17 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão, no que interessa, assim ementado:
+    “APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. ITBI. IMUNIDADE CONCEDIDA À PESSOA JURÍDICA SOB CONDIÇÃO RESOLUTIVA. AUSÊNCIA DE RECEITA OPERACIONAL NO PERÍODO DE ANÁLISE. FATO INCAPAZ DE AFASTAR A IMUNIDADE TRIBUTÁRIA, POIS NÃO COMPROVADO O EXERCÍCIO DE ATIVIDADE PREPONDERANTE DE TRANSAÇÃO IMOBILIÁRIA. PRECEDENTES JURISPRUDENCIAIS” (fl. 182).
+    No apelo extremo, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação ao artigo 156, § 2º, I, do texto constitucional.
+    Nas razões recursais, sustenta-se, em síntese, o seguinte:
+     “Na situação dos autos, não se faz possível o reconhecimento da inexistência de relação jurídico-tributária quanto ao pagamento de ITBI, mesmo que incorporados ao patrimônio de pessoa jurídica, em integralização de parte de capital social, bens imóveis. E isso porque, conforme apurado, em sede administrativa, a empresa apresentava-se inativa no período de apuração (a matéria fática resta indiscutida, cabendo apenas definir questão de direito), ou seja, não realizou qualquer operação empresarial com intuito de auferir receita” (fl. 203).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque, para ultrapassar as premissas firmadas nas instâncias originárias e acolher a pretensão do agravante, seria imprescindível o reexame do acervo fático-probatório dos autos, providência vedada na via do apelo extremo, nos termos do Enunciado 279 da Súmula do STF.
+    Nesse sentido, cito os seguintes julgados:
+     “AGRAVO REGIMENTAL. TRIBUTÁRIO. IMPOSTO SOBRE TRANSMISSÃO INTER VIVOS A QUALQUER TÍTULO DE BENS IMÓVEIS E DE DIREITOS REAIS SOBRE IMÓVEIS. IMUNIDADE. TRANSFERÊNCIA DE BENS PARA INTEGRALIZAÇÃO DE CAPITAL DE PESSOA JURÍDICA. SUPOSTA AUSÊNCIA DE ATIVIDADE ECONÔMICA. EFEITOS. NECESSIDADE DE REABERTURA DA INSTRUÇÃO PROBATÓRIA. ART. 156, II DA CONSTITUIÇÃO Nos termos da Constituição e da legislação de regência, as autoridades fiscais não podem partir de presunções inadmissíveis em matéria tributária, nem impor ao contribuinte dever probatório inexequível, demasiadamente oneroso ou desnecessário. As mesmas balizas são aplicáveis ao controle jurisdicional do crédito tributário. Para reverter as conclusões a que chegou o Tribunal de origem acerca da invalidade de cobrança do ITBI, seria necessário reabrir a instrução probatória, com o objetivo de apurar a suposta falta de atividade econômica da pessoa jurídica que recebeu os bens, bem como para confirmar o intuito de desviar ilicitamente a finalidade da proteção constitucional (Súmula 279/STF). Agravo regimental ao qual se nega provimento” (ARE-AgR 660.434, Rel. Min. Joaquim Barbosa, Segunda Turma, DJe 20.3.2012).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA. ART. 150, INC. VI, ALÍNEA B, DA CONSTITUIÇÃO DA REPÚBLICA. EXERCÍCIO EFETIVO DE ATIVIDADE RELIGIOSA. REEXAME DE PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE-AgR-segundo 655.042, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 21.11.2012).
+    Ante o exposto, nego provimento ao agravo (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 20 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
