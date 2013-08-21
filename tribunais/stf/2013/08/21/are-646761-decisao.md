@@ -1,0 +1,23 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário, que impugna acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+    “MANDADO DE SEGURANÇA PREVENTIVO. PROCURADORES DO ESTADO. VEDAÇÃO INSERTA NA CONSTITUIÇÃO ESTADUAL SOBRE A POSSIBILIDADE DE EXERCER A ADVOCACIA FORA DAS ATRIBUIÇÕES INSTITUCIONAIS.
+    Inexistindo qualquer inconstitucionalidade, ou ilegalidade, no ordenamento jurídico estadual no ponto em que dispõe acerca do impedimento dos Procuradores do Estado exercer a advocacia juntamente com as atribuições inerentes aos seus cargos, os impetrantes carecem de direito líquido e certo a autorizar o desideratum que buscam através do mandamus.
+    PRELIMINAR REJEITADA, POR MAIORIA. SEGURANÇA DENEGADA, À UNANIMIDADE”. (e DOC 2, p. 85)
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a, da Constituição Federal, sustenta-se, preliminarmente, a repercussão geral da matéria. No mérito, aponta-se ofensa ao princípio da isonomia, às competências privativas para legislar da União e do Chefe do Executivo e ao livre exercício de profissão, em razão da proibição do exercício da advocacia privada pelos Procuradores do Rio Grande do Sul, conforme disposto no art. 116, § 2º, II, da Constituição estadual.
+    Defende-se, em síntese, que os Procuradores do Estado do Rio Grande do Sul exerçam livremente a advocacia fora de suas atribuições institucionais.
+    Os recorrentes aduzem que eventual limitação ao exercício da advocacia só poderia ser imposta por meio do Estatuto da Ordem dos Advogados do Brasil (EOAB), editado pela União, único ente federado competente para legislar sobre o tema. Assim, ao estabelecer a proibição, a Carta estadual incidiria em inconstitucionalidade e ilegitimidade e lesionaria o princípio da isonomia, uma vez que em alguns outros Estados-Membros da federação tal prerrogativa não é defesa aos Procuradores.
+    Decido.
+    O recurso é manifestamente improcedente.
+    Os recorrentes, por meio de mandado de segurança, insurgem-se contra a vedação ao exercício da advocacia privada que lhes é imposta por meio do art. 116, § 2º, II, da Constituição do Estado do Rio Grande do Sul, bem como pelo art. 123, da Lei Complementar estadual 11.742/2002, argumentando que esses dispositivos contrariam a Constituição Federal.
+    As constituições estaduais não estão sujeitas a qualquer disciplina do tema oriunda da Constituição Federal. Confira-se o que disposto no texto da Constituição de 1988 sobre o assunto:
+    “Art. 132. Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na qual o ingresso dependerá de concurso público de provas e títulos, com a participação da Ordem dos Advogados do Brasil em todas as suas fases, exercerão a representação judicial e a consultoria jurídica das respectivas unidades federadas.
+    Parágrafo único. Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias”.
+    Há, portanto, um espaço de livre conformação do constituinte e do legislador estadual nessa seara. Assim, não se vislumbra violação à Constituição Federal na hipótese de que se cuida.
+    Ademais, na ADI 1.754, na qual se impugnou dispositivo que veda o exercício de advocacia fora das atribuições institucionais aos Procuradores da Fazenda Nacional (art. 24 da MP 1.587-4/1997, posteriormente convertida na Lei 9.651/1998), esta Corte cuidou de tema análogo. Confira-se a seguinte passagem:
+    “Relativamente aos procuradores da Fazenda Nacional, a vedação ao exercício da advocacia privada já era expressa no art. 28, I, da Lei Complementar 73, de 10 de fevereiro de 1993. Conforme o art. 131, caput, da Constituição Federal, a organização e funcionamento da AGU é matéria de lei complementar, de forma que a Lei n. 9.651/98, que é ordinária, não revoga as disposições contidas na lei orgânica da Advocacia-Geral da União”. (ADI 1.754, Rel. Min. Gilmar Mendes, Plenário, DJe 19.9.2011)
+    No caso em apreço, além de se fazer presente a liberdade de conformação do Poder Constituinte Decorrente, nota-se que a restrição ao exercício da advocacia fora das atribuições institucionais foi também opção do legislador estadual, de modo que o entendimento esposado pelo Supremo Tribunal no julgado referido acima é de todo aplicável à hipótese.
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, I, do CPC e art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 21 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
