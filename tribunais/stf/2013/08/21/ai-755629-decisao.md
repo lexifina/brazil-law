@@ -1,0 +1,27 @@
+DECISÃO
+AGRAVO DE INSTRUMENTO. CONSTITUCIONAL. GARANTIA AO DEVIDO PROCESSO ADMINISTRATIVO. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Agravo de instrumento contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Terceira Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios decidiu:
+    “ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR. EXCLUSÃO A BEM DA DISCIPLINA. SUSPENSÃO DE PAGAMENTO DE PENSÃO. AUTOTUTELA. NECESSIDADE DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO. PROVIMENTO. 1. Como decorrência do princípio da autotutela, compete à Administração rever os seus próprios atos, quando eivados de vícios que os tornam ilegais, ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos e ressalvada, em todos os casos, a apreciação judicial. Inteligência da Súmula n. 473 do STF. 2. Entretanto, tal poder não é absoluto, mormente quando se trata de situação consolidada pelo decurso do tempo envolvendo direitos patrimoniais, situação em que se revela imperiosa a instauração do devido processo legal, com a observância do contraditório e da ampla defesa. 3. Recurso provido” (fl. 223).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a contrariedade indireta à Constituição da República.
+    4. O Agravante argumenta que “o restabelecimento e/ou manutenção da pensão a dependente de militar expulso da Corporação representa manifesta e frontal violação ao texto da Constituição Federal” (fl. 9).
+    No recurso extraordinário, alega-se que o Tribunal a quo teria contrariado os arts. 5º, caput, e 37, caput e inc. II, da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. Inicialmente, cumpre afastar o fundamento da decisão agravada de que a controvérsia demandaria o exame de legislação infraconstitucional, pois a matéria é de natureza constitucional.
+    6. Registre-se, também, que a controvérsia posta neste agravo não guarda pertinência direta com o objeto da Ação Direta de Inconstitucionalidade n. 1.542, Relator o Ministro Luiz Fux, na qual se questiona a constitucionalidade dos §§ 1º, 2º e 3º do art. 17 da Lei Complementar do Estado de Mato Grosso do Sul n. 53/1990, que assegura direito de pagamento de pensão a dependente de policial militar expulso da Corporação.
+    Nestes autos, embora o ora Agravante alegue ser inconstitucional o pagamento de pensão a dependente de policial militar expulso da Corporação, o mérito do recurso de apelação julgado pelo Tribunal de Justiça do Distrito Federal e dos Territórios restringiu-se à obrigatoriedade de observância, pela Administração Pública, das garantias constitucionais do devido processo legal, do contraditório e da ampla defesa pela Administração Pública.
+    7. Razão jurídica não assiste ao Agravante.
+    Designado Redator para o acórdão, o Desembargador Mario-Zam Belmiro Rosa afirmou:
+    “Conquanto a Administração detenha essa autotutela, mister a instauração de processo administrativo, eis que se cuida de situação remuneratória já consolidada pelo decurso do tempo.
+    Ao suspender arbitrariamente o pagamento do benefício à impetrante, descuidou a Administração do seu dever de submeter-se ao devido processo legal, ato que merece censura.
+    (...)
+    Nesse passo, o fato de a Administração conceder pensão ao dependente de praça, com mais de dez anos de efetivo serviço, expulso da Polícia Militar a bem da disciplina, possa viabilizar possível ofensa à moralidade administrativa, princípio insculpido na Constituição Federal, em seu artigo 37, ‘caput’, imperioso que se oportunizasse ao administrado o devido processo legal, respeitando o contraditório e a ampla defesa” (fls. 233-234 e 236 – grifos nossos).
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal, que assentou a obrigatoriedade da instauração do devido processo administrativo quando a Administração Pública, no exercício de seu poder de autotutela, anula ato que repercute no campo dos interesses individuais:
+    “RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. EXERCÍCIO DO PODER DE AUTOTUTELA ESTATAL. REVISÃO DE CONTAGEM DE TEMPO DE SERVIÇO E DE QUINQUÊNIOS DE SERVIDORA PÚBLICA. REPERCUSSÃO GERAL RECONHECIDA. 1. Ao Estado é facultada a revogação de atos que repute ilegalmente praticados; porém, se de tais atos já decorreram efeitos concretos, seu desfazimento deve ser precedido de regular processo administrativo. 2. Ordem de revisão de contagem de tempo de serviço, de cancelamento de quinquênios e de devolução de valores tidos por indevidamente recebidos apenas pode ser imposta ao servidor depois de submetida a questão ao devido processo administrativo, em que se mostra de obrigatória observância o respeito ao princípio do contraditório e da ampla defesa. 3. Recurso extraordinário a que se nega provimento” (RE 594.296, Relator o Ministro Dias Toffoli, Plenário, DJe 13.2.2012 – grifos nossos).
+    Nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 557, caput, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 21 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
