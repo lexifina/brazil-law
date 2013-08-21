@@ -1,0 +1,21 @@
+Decisão:
+    Vistos.
+    Fundo Único de Previdência do Estado do Rio de Janeiro – Rioprevidência interpõe agravo de instrumento contra a decisão que não admitiu recurso extraordinário assentado em contrariedade aos artigos 5°, inciso XXXVI, 24, inciso XII e § 4°, e 40, § 12, da Constituição Federal.
+    Insurge-se, no apelo extremo, contra acórdão da Décima Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+    “Administrativo. Pensão por morte. Bombeiro Militar. Benefício que inclui todas as vantagens genéricas e específicas deferidas aos ocupantes do mesmo cargo em atividade. Direito à adicional de inatividade, indenização de habilitação profissional, regime especial de trabalho policial militar, auxílio moradia, gratificação por tempo de serviço e pecúlio post mortem. Provido o recurso da autora. Desprovido o apelo fazendário. Confirmação, no mais, em reexame necessário.”
+    Opostos embargos de declaração, foram rejeitados.
+    O Superior Tribunal de Justiça, em decisão transitada em julgado, negou provimento ao recurso especial interposto paralelamente ao extraordinário.
+    Decido.
+    Anote-se, inicialmente, que o recurso extraordinário foi interposto contra acórdão publicado após 3/5/07, quando já era plenamente exigível a demonstração da repercussão geral da matéria constitucional objeto do recurso, conforme decidido na Questão de Ordem no Agravo de Instrumento nº 664.567/RS, Tribunal Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07.
+    Todavia, apesar da petição recursal haver trazido a preliminar sobre o tema, não é de se proceder ao exame de sua existência, uma vez que, nos termos do artigo 323 do Regimento Interno do Supremo Tribunal Federal, com a redação introduzida pela Emenda Regimental nº 21/07, primeira parte, o procedimento acerca da existência da repercussão geral somente ocorrerá “quando não for o caso de inadmissibilidade do recurso por outra razão”.
+    A irresignação não merece prosperar, uma vez que o Tribunal de origem decidiu a controvérsia exclusivamente com fundamento na Constituição Estadual e nos fatos e provas que compõem a lide, cujo reexame é vedado em sede de recurso extraordinário. Incidência das Súmula nºs 279 e 280 desta Corte. Sobre o tema, destacam-se:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL E PREVIDENCIÁRIO. ADMISSIBILIDADE DE RECURSO DE TRIBUNAL DIVERSO: INEXISTÊNCIA DE REPERCUSSÃO GERAL. PECÚLIO POST MORTEM: SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 701.096/RJ-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 25/9/12).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. PECÚLIO POST MORTEM. LEI ESTADUAL N. 285/1979. INCIDÊNCIA DA SÚMULA N. 280 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 649.307/RJ-AgR, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJe de 19/9/11).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROMOÇÃO DE POLICIAL MILITAR A POSTO IMEDIATAMENTE SUPERIOR NO MESMO ATO QUE O TRANSFERE PARA A RESERVA REMUNERADA. LEI COMPLEMENTAR ESTADUAL. CASO DE ILEGALIDADE. PRECEDENTE. A controvérsia em torno dos requisitos exigidos para alcançar a promoção funcional impõe o reexame de matéria fática e de preceitos de direito local, vedado no recurso extraordinário. Questão de fundo já apreciada pelo Supremo Tribunal Federal, que concluiu tratar-se de caso de ilegalidade, sem alcance constitucional [ADI n. 1540, Relator o Ministro Maurício Corrêa, DJ de 16.11.01]. Agravo regimental a que se nega provimento” (RE nº 385.226/MS-AgR, Segunda Turma, Relator o Ministro Eros Grau, DJ de 1/12/06).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. POLICIAL MILITAR. PROMOÇÃO. LEI COMPLEMENTAR ESTADUAL N. 53/90. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO LOCAL. SÚMULA 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (RE nº 733.499/MS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 13/3/09).
+    Ante o exposto, conheço do agravo, para negar seguimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 21 de agosto de 2013.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
