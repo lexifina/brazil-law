@@ -1,0 +1,16 @@
+Decisão:
+    Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu a liminar requerida no HC 269.937, em tramitação no Superior Tribunal de Justiça.
+    Extrai-se dos autos que o paciente responde preso a processo por suposto envolvimento em quadrilha especializada no roubo, transporte e revenda de máquinas escavadeiras. Segundo a denúncia, o paciente, proprietário da empresa Borges&Borges, seria o receptador do produto do roubo e teria encomendado , por mais de uma oportunidade, a aquisição de escavadeiras roubadas, locando a máquina roubada [...]. Ainda segundo a denúncia, por meio da quebra do sigilo telefônico, verificou-se que citada quadrilha era composta por subgrupos, que atuam em diferentes fases do desenvolvimento do crime, desde a identificação do alvo da subtração até sua entrega no destino final .
+    Contra a decisão que decretou a prisão preventiva do paciente a defesa impetrou habeas corpus no Tribunal de Justiça de São Paulo e, após a denegação da ordem, interpôs recurso ordinário em habeas corpus. Diante da demora na tramitação do RHC na Corte Estadual, impetrou-se habeas corpus substitutivo perante o Superior Tribunal de Justiça, tendo a relatora indeferido a cautelar requerida na inicial.
+    Neste habeas corpus , o impetrante reitera a alegação de ausência de substrato fático para a prisão preventiva. Segundo a inicial, o paciente foi denunciado apenas pelos delitos de receptação e formação de quadrilha, não sendo possível a atribuir-lhe qualquer participação nos roubos das escavadeiras. Além disso, o impetrante ressalta que a inexistência de fundamentação para a custódia cautelar teria sido reconhecida pela Procuradoria-Geral da República, em parecer ofertado nos autos do HC 269.937.
+    Com base nesse arrazoado, requer-se, em sede liminar, a revogação da prisão preventiva.
+    Decido.
+    Inicialmente ressalto que o Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (súmula 691/STF). No entanto, a aplicação do enunciado sumular vem sendo atenuada nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões carentes de fundamentação.
+    No caso dos autos, a autoridade impetrada indeferiu o provimento cautelar requerido por não enxergar, no exame preliminar da causa, ilegalidade ou abuso de poder evidente.
+    Da mesma forma, em exame preliminar, considero que o decreto de prisão está em harmonia com a jurisprudência do Tribunal, na medida em que a garantia da ordem pública decorreria da desarticulação da estrutura organizacional de quadrilhas deste quilate . Além disso, tendo em vista a subida do recurso ordinário em habeas corpus originalmente interposto, a relatora julgou prejudicado o pedido formulado no HC 269.937, de modo que o novo ato deve ser impugnado por ação própria.
+    Diante do exposto, com base no art. 38 da Lei nº 8.038/1990, c.c o art. 21, § 1º do RI/STF, não conheço da impetração.
+    Publique-se.
+    Brasília, 21 de agosto de 2013.
+Ministro Luís Roberto Barroso
+Relator
+Documento assinado digitalmente
