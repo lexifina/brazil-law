@@ -1,0 +1,16 @@
+Decisão: Trata-se de agravo contra decisão de inadmissibilidade de recurso extraordinário que impugna acórdão que julgou improcedente o pedido de concessão de auxílio-doença/aposentadoria por invalidez.
+    No apelo extremo, interposto com fundamento no artigo 102, III, “a”, da Constituição Federal, aponta-se violação aos artigos 1º, III; 5º, LIV; 6º; 201, I, do texto constitucional (eDOC 117).
+    Decido.
+    A pretensão recursal não merece prosperar.
+    Isso porque o Tribunal de origem decidiu a controvérsia dos autos com fundamento no acervo fático-probatório e na legislação infraconstitucional aplicável à espécie (Lei 8.213/91). Eventual ofensa à Constituição Federal, acaso existente, dar-se-ia de maneira indireta ou reflexa, o que inviabiliza o processamento do recurso extraordinário.
+    Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. REQUISITOS. 1. INSUFICIÊNCIA DA PRELIMINAR DE REPERCUSSÃO GERAL. INVIABILIDADE DA ANÁLISE DO RECURSO EXTRAORDINÁRIO. 2. IMPOSSIBILIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE-AgR 662.120, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 8.2.2012).
+     “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional (L. 8.213/91): alegação de ofensa indireta a dispositivo constitucional (CF, art. 201, § 1º) que, ademais, não foi prequestionado, nem objeto de embargos de declaração (Súmulas 282 e 356)” (RE-AgR 324.039, Rel. Min. Sepúlveda Pertence, Primeira Turma, DJ 30.4.2004).
+     “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. REQUISITOS. IMPOSSIBILIDADE DA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. OFENSA CONSTITUCIONAL INDIRETA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI-AgR 806.029, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 26.11.2010).
+          “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. REQUISITOS. AUSÊNCIA DE QUESTÃO CONSTITUCIONAL. ART. 323 DO RISTF C.C. ART. 102, III, § 3º, DA CONSTITUIÇÃO FEDERAL. REEXAME DE FATOS E PROVAS. SÚMULA 279 DESTA CORTE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA INDIRETA. (…) 3. A Súmula 279/STF dispõe verbis: “Para simples reexame de prova não cabe recurso extraordinário”. 4. É que o recurso extraordinário não se presta ao exame de questões que demandam revolvimento do contexto fático-probatório dos autos, adstringindo-se à análise da violação direta da ordem constitucional. 5. A violação reflexa e oblíqua da Constituição Federal decorrente da necessidade de análise de malferimento de dispositivo infraconstitucional torna inadmissível o recurso extraordinário. Precedentes: RE 596.682, Rel. Min. Carlos Britto, Dje de 21/10/10, e AI 808.361, Rel. Min. Marco Aurélio, Dje de 08/09/10. (...) 7. Agravo Regimental a que se nega provimento” (RE-AgR 634.136, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.9.2012).
+    Ante o exposto, conheço do presente agravo para negar-lhe provimento (art. 544, § 4º, II, “a”, do CPC).
+    Publique-se.
+    Brasília, 22 de agosto de 2013.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
