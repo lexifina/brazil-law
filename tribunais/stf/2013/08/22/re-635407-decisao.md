@@ -1,0 +1,15 @@
+Vistos etc.
+    Contra o acórdão prolatado pelo Tribunal de origem, maneja recurso extraordinário, com base no art. 102, III, da Lei Maior, Reunidas S/A - Transportes Coletivos. Aparelhado o recurso na afronta ao art. 175 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos adotados pelo Tribunal de origem, por ocasião do julgamento do apelo veiculado na instância ordinária, em confronto com as razões veiculadas no extraordinário, concluo que nada colhe o recurso.
+    O entendimento adotado no acórdão recorrido não diverge da jurisprudência firmada no âmbito deste Supremo Tribunal Federal, razão pela qual não se divisa a alegada ofensa aos dispositivos constitucionais suscitados. Nesse sentido:
+    “SERVIÇO PÚBLICO CONCEDIDO. TRANSPORTE INTERESTADUAL DE PASSAGEIROS. AÇÃO DECLARATÓRIA. PEDIDO DE RECONHECIMENTO DE DIREITO DE EMPRESA TRANSPORTADORA DE OPERAR PROLONGAMENTO DE TRECHO CONCEDIDO. AUSÊNCIA DE LICITAÇÃO. Afastada a alegação do recorrido de ausência de prequestionamento dos preceitos constitucionais invocados no recurso. Os princípios constitucionais que regem a administração pública exigem que a concessão de serviços públicos seja precedida de licitação pública. Contraria os arts. 37 e 175 da Constituição federal decisão judicial que, fundada em conceito genérico de interesse público, sequer fundamentada em fatos e a pretexto de suprir omissão do órgão administrativo competente, reconhece ao particular o direito de exploração de serviço público sem a observância do procedimento de licitação. Precedentes. Recurso extraordinário conhecido e a que se dá provimento.” (RE 264.621/CE, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 08.4.2004)
+    “AGRAVO REGIMENTAL EM AÇÃO CAUTELAR. RECURSO EXTRAORDINÁRIO A QUE SE DEU EFEITO SUSPENSIVO NA ORIGEM. PEDIDO DE CONTRACAUTELA PARA QUE SE PERMITA A OPERAÇÃO DE PROLONGAMENTO DE LINHA DE TRANSPORTE INTERESTADUAL DE PASSAGEIROS. ART. 175 DA CONSTITUIÇÃO FEDERAL. Decisão agravada que negou seguimento à ação cautelar, ao entendimento de que o Tribunal de origem não usurpou a competência do Supremo Tribunal Federal, ante as Súmulas 634 e 635. De toda forma, ainda que se considere inaugurada a jurisdição cautelar desta egrégia Corte, a decisão recorrida extraordinariamente está em sintonia com a jurisprudência da Casa, no sentido de que a exploração de transporte coletivo de passageiros há de ser precedida de processo licitatório. Precedentes: Recursos Extraordinários nºs 140.989, 214.383, 264.621 e 412.978. Agravo regimental a que se nega provimento.” (AC 1.066-AgR/RJ, Min. Carlos Britto, 1ª Turma, DJe 28.9.2007)
+    Nesse sentir, não merece seguimento o recurso extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa direta e literal a preceito da Constituição da República.
+    Nego seguimento ao recurso extraordinário (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de agosto de 2013.
+Ministra Rosa Weber
+Relatora
