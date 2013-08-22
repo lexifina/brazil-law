@@ -1,0 +1,11 @@
+Trata-se de recurso extraordinário contra acórdão que entendeu que a exigibilidade da COFINS e da contribuição para o PIS decorrente da variação cambial dos contratos de mútuo firmados em moeda estrangeira só ocorre por ocasião de sua liquidação.
+    Neste RE (fl. 298), fundado no art. 102, III, a, da Constituição, alegou-se, em suma, ofensa aos arts. 97, 150, II e 195, I, da mesma carta. Para tanto, argumentou-se que as Leis 9.718/98 e 10.637/02 determinaram expressamente que as variações monetárias em função da taxa de câmbio deverão ser consideradas como receitas para fins de incidência da COFINS e da contribuição para o PIS.
+    A Procuradoria-Geral da República manifestou-se pelo parcial conhecimento do recurso e, nesta extensão, pelo não provimento.
+    A pretensão recursal não merece acolhida.
+    Observe-se, inicialmente, que não se discute, no caso dos autos, a constitucionalidade da inclusão da variação monetária nos contratos de mútuo firmados em moeda estrangeira na base de cálculo das contribuições mencionadas, e sim o momento em que esses tributos podem ser exigidos, conforme definido na legislação ordinária.
+    Nesse contexto, verifico que o acórdão recorrido não declarou a inconstitucionalidade de norma legal ou afastou sua aplicação sem observância do art. 97 da Constituição, mas apenas interpretou a legislação infraconstitucional aplicável à espécie (Leis 9.718/98 e 10.637/02, que não possuem determinação expressa na forma pretendida pela recorrente) e, como se sabe, é pacífica a jurisprudência desta Corte no sentido do não cabimento de recurso extraordinário por ofensa a normas infraconstitucionais, sob alegação de má interpretação, aplicação ou inobservância dessas normas. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, cito os seguintes precedentes: AI 684.976-AgR/MG, Rel. Min. Cármen Lúcia; AI 736.977-AgR/CE e RE 369.256-AgR/PR, Rel. Min. Ellen Gracie; AI 785.709-AgR-AgR/RS, Rel. Min. Eros Grau; RE 586.046/BA, Rel. Min. Cezar Peluso; AI 791.673-AgR/SC, de minha relatoria.
+    Isso posto, nego seguimento ao recurso (CPC, art. 557, caput).
+    Publique-se.
+    Brasília, 22 de agosto de 2013.
+Ministro RICARDO LEWANDOWSKI
+- Relator -
