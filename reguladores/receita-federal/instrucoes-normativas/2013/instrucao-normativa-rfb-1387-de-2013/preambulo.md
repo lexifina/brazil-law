@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1387, de 21 de agosto de 2013
+Altera a Instrução Normativa RFB nº 1.252, de 1º de março de 2012, que dispõe sobre a Escrituração Fiscal Digital da Contribuição para o PIS/Pasep, da Contribuição para o Financiamento da Seguridade Social (Cofins) e da Contribuição Previdenciária sobre a Receita (EFD-Contribuições) e dá outras providências.
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no Decreto nº 6.022, de 22 de janeiro de 2007, resolve:
