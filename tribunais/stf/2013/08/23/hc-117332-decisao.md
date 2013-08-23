@@ -1,0 +1,18 @@
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS IMPETRADO CONTRA OMISSÃO DO STJ NO JULGAMENTO DAS IMPETRAÇÕES ALI FORMALIZADAS. APRECIAÇÕES VERIFICADAS. PERDA DE OBJETO DO WRIT.
+    Decisão: Trata-se de habeas corpus, com pedido de liminar, em que se imputa ao Superior Tribunal de Justiça constrangimento ilegal em razão da demora no julgamento dos HCs ns. 234.938 e 262.199.
+    Colhe-se dos autos que o paciente – preso em flagrante delito no dia 06.03.11 – foi pronunciado pela prática do crime previsto no artigo 121, § 2º, inciso II, c/c o artigo 14, inciso II, do Código Penal (tentativa de homicídio qualificado).
+    Irresignada, a defesa interpôs recurso em sentido estrito, que não foi provido pelo Tribunal de Justiça do Estado da Bahia.
+    Nesta impetração, a defesa sustenta, em síntese, que (i) o único advogado constituído pelo paciente não foi intimado para a sessão de julgamento do RSE e que esse mesmo advogado faleceu um mês antes da publicação do acórdão, a evidenciar nulidade absoluta e, em consequência, violação do princípio da ampla defesa; (ii) o paciente encontra-se preso cautelarmente há dois anos, sem que se possa imputar à defesa o excesso de prazo para o término da instrução criminal; (iii) não há fundamentação idônea para prisão preventiva, por isso sua manutenção configura inadmissível antecipação de eventual pena, em relação à qual já teria progredido de regime caso tivesse sido condenado; e (iv) demora do STJ em julgar os HCs 234.938 e 262.199, ambos conclusos com parecer ministerial desde 25.04.12 e 13.03.13, respectivamente.
+    Requer, ao final, a concessão de medida liminar a fim de que seja expedido alvará de soltura, ou, alternativamente, para determinar que o Superior Tribunal de Justiça julgue os HCs 234.938 e 262.199 na primeira sessão de julgamento após a comunicação da decisão. No mérito, pleiteia a confirmação da cautelar e a declaração de nulidade do julgamento do recurso em sentido estrito.
+    A medida liminar foi deferida “para determinar o imediato julgamento dos HCs 234.938 e 262.199”. Transcrevo a ementa da decisão monocrática:
+    “CONSTITUCIONAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO, NA FORMA TENTADA – ART. 121, § 2º, INC. II, C/C ART. 14, II, DO CÓDIGO PENAL. AUSÊNCIA DE INTIMAÇÃO DA SESSÃO DE JULGAMENTO DE RSE E DO RESPECTIVO ACÓRDÃO. NULIDADE. PRISÃO CAUTELAR. FUNDAMENTAÇÃO INIDÔNEA. EXCESSO DE PRAZO DA INSTRUÇÃO CRIMINAL. TEMAS NÃO ANALISADOS NO STJ. INDEVIDA SUPRESSÃO DE INSTÂNCIA. DEMORA DO TRIBUNAL A QUO EM JULGAR HHCC. AUTOS CONCLUSOS COM PARECER MINISTERIAL HÁ UM ANO. RÉU PRESO PREVENTIVAMENTE HÁ DOIS ANOS. NÃO RAZOABILIDADE – ART. 5º, INC. LXXVIII, DA CONSTITUIÇÃO FEDERAL.
+    - Liminar deferida para determinar o imediato julgamento, pelo Superior Tribunal de Justiça, dos HCs 234.938 e 262.199.”
+    É o relatório. DECIDO.
+    Conforme informações prestadas pela autoridade apontada como coatora, verifica-se que os HCs 234.938 e 262.199 foram julgados em 02.05.13.
+    Observa-se, ainda, que a Sexta Turma do Superior Tribunal de Justiça conheceu parcialmente do HC 262.199 e, nessa extensão, concedeu a ordem “para desconstituir o trânsito em julgado do acórdão do recurso em sentido estrito e anular o processo a partir da intimação do referido aresto, determinando-se a intimação do paciente a fim de que constitua novo procurador, cujo nome deverá constar da nova publicação do julgado”.
+    Ex positis, julgo prejudicado o presente writ, por perda de seu objeto, com fundamento no art. 21, IX, do RISTF.
+    Publique-se.
+    Brasília, 23 de agosto de 2013.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
