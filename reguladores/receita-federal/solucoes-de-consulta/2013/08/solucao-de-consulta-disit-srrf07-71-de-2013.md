@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 71, de 12 de julho de 2013
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÃO SUBSTITUTIVA. CARÁTER OBRIGATÓRIO. EFD-CONTRIBUIÇÕES.
+ASSUNTO: Contribuições Sociais Previdenciárias
+EMENTA: CONTRIBUIÇÃO SUBSTITUTIVA. CARÁTER OBRIGATÓRIO. EFD-CONTRIBUIÇÕES. A contribuição substitutiva a que se refere o art. 7º da Lei nº 12.546, de 2011, é uma obrigatoriedade para as pessoas jurídicas contempladas nesse artigo, independentemente da contratação de empregado ou de haver pagamento de pro-labore aos sócios para a realização das suas atividades. A pessoa jurídica submetida a esse regime substitutivo deve efetuar a Escrituração Fiscal Digital da Contribuição Previdenciária sobre a Receita (EFD- Contribuições) nos termos do inciso IV do art. 4º da IN RFB nº 1.252, de 2012.
+DISPOSITIVOS LEGAIS: Constituição Federal, de 1988, art. 195; Lei nº 8.212, de 1991, art. 22; Lei nº 11.774, de 2008, art. 14; Lei nº 12.546, de 2011, arts. 7º e 9º, IN RFB nº 1.252, de 2012, arts. 2º e 4º.
