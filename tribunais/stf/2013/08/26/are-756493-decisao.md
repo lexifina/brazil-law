@@ -1,0 +1,45 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. APOSENTADORIA PROPORCIONAL. CRITÉRIOS DE CÁLCULO. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alíneas a e c do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Turma Recursal dos Juizados Especiais Federais de São Paulo manteve sentença por seus próprios fundamentos, nos termos do art. 46 da Lei n. 9.099/1995.
+    Nessa sentença, a juíza decidiu:
+    “Trata-se de ação que tem por objeto a revisão de benefício previdenciário, mediante aplicação do coeficiente aferido segundo critério de proporcionalidade matemática em relação ao tempo de serviço, e não pelo critério progressivo estabelecido no art. 53 da Lei n. 8.213/1991. Pleiteia, ainda, o pagamento das diferenças vencidas acrescidas de correção monetária e de juros moratórios.
+    (…)
+    A redação original do ‘caput’ do art. 202, combinado com seu §1º, da Constituição da República, facultou aos segurados do Regime Geral da Previdência Social a obtenção de aposentadoria proporcional, após trinta anos de trabalho, ao homem, e, após vinte e cinco, à mulher, nos termos da lei.
+    Portanto, a Carta Maior conferiu à legislação infraconstitucional estabelecer e regulamentar os critérios para a concessão de benefícios previdenciários.
+    A expressão ‘proporcional’ no dispositivo do art. 202, § 1º, não traz em si o conceito ou os limites do que deve ser considerado critério de proporcionalidade, razão pela qual a integração da norma foi efetivada com a regra contida no art. 53, incisos I e II, da Lei n. 8.213/1991, que não se restringe a uma proporção matemática simples, com base em regra de três.
+    A simples alusão ao vocábulo ‘proporcional’ no § 1º não garantiu absoluta proporcionalidade entre tempo de serviço e percentual da renda mensal inicial, para que os proventos de aposentadoria sejam fixados conforme regra de três simples, correspondendo a 85% do salário-de-benefício, com tempo de serviço mínimo à aposentadoria proporcional (30 anos para o homem e 25 anos para a mulher), ao argumento de que, numa proporcionalidade matemática, 25/30 está para 85, assim como 30/35 está para 100.
+    O raciocínio defendido pela parte autora, meramente matemático, não tem substrato jurídico, uma vez que, consoante já asseverado, a Constituição outorgou ao legislador infraconstitucional estabelecer os critérios jurídicos para a concessão e fixação da renda mensal dos benefícios previdenciários, o que consta do art. 53 da Lei n. 8.213/1991.
+    A intenção do constituinte originário não foi a de fixar um critério meramente matemático para a aposentadoria proporcional, mas dispor uma forma diferenciada de aposentadoria, desvantajosa em relação à aposentadoria integral, tendo em vista incentivar e prestigiar o segurado que tenha exercido atividade laboral por lapso temporal maior, vertendo contribuições ao regime.
+    Necessário salientar que a relação entre tempo de serviço e coeficiente de benefício é fundamentalmente atuarial, pois o percentual básico de 70% visa desestimular a aposentadoria precoce, mantendo o equilíbrio financeiro do sistema, preconizado no art. 201 da Carta Magna, após a reforma dada pela Emenda Constitucional n. 20/1998. Oportuno, ainda, destacar que tal percentual mínimo ainda é superior ao coeficiente inicial para a concessão de aposentadoria proporcional em diversos outros países.
+    Os índices de cálculo da aposentadoria proporcional não necessitam adotar critério matemático de proporcionalidade, sendo razoável a definição de índices crescentes em razão do tempo de serviço, na forma do art. 53 da Lei n. 8.213/1991.
+    A isso acresça-se que o constituinte derivado corroborou tal critério, a teor do art. 9º, §1º, II, da Emenda Constitucional n. 20/1998, norma de natureza pára-constitucional.
+    A Emenda n. 20/1998, ao conferir nova redação ao art. 201 da Constituição da República/1988, também conferiu à legislação infraconstitucional estabelecer os critérios para a concessão de benefícios do Regime Geral da Previdência Social. De tal sorte, é válido o critério de progressividade aritmética estabelecido no art. 53 da Lei n. 8.213/1991.
+    (…)
+    E, por sua vez, o Supremo Tribunal Federal, ao julgar Agravo Regimental no Agravo de Instrumento n. 447.577, DJ 01.07.2005, por unanimidade, conforme relatório do Ministro Gilmar Mendes, considerou que o cálculo do benefício, na forma do art. 53, II, da Lei n. 8.213/1991 consiste em matéria restrita ao âmbito da legislação infraconstitucional, sem a ocorrência de ofensa direta à Constituição, e, com esse fundamento, negou provimento ao recurso. No mesmo sentido, foram proferidas as decisões nos agravos regimentais interpostos em face do Recurso Extraordinário n. 252.544 (Rel. Min. Ellen Gracie) e do Agravo de Instrumento n. 240.001 (Rel. Min. Sydney Sanches).
+    Portanto, não é cabível a revisão pleiteada pela parte autora”.
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário a ausência de contrariedade direta à Constituição da República.
+    4 . O Agravante argumenta que:
+    “vem prequestionando a matéria, alegando sempre e repetidamente que ocorreu ofensa direta ao disposto na Constituição, pela lei ordinária [Lei n. 8.213/1991], que não respeitou o comando constitucional e instituiu um novo sistema de concessão do benefício, sem observar a diretriz traçada no artigo 202, § 1º, da Constituição Federal”.
+    No recurso extraordinário, alega-se que a Turma Recursal teria contrariado o § 1º do art. 202 da Constituição da República.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste ao Agravante.
+    O Juiz Relator do caso na Turma Recursal manteve sentença, assim fundamentada:
+    “Os índices de cálculo da aposentadoria proporcional não necessitam adotar critério matemático de proporcionalidade, sendo razoável a definição de índices crescentes em razão do tempo de serviço, na forma do art. 53 da Lei n. 8.213/1991.
+    A isso acresça-se que o constituinte derivado corroborou tal critério, a teor do art. 9º, §1º, II, da Emenda Constitucional n. 20/1998, norma de natureza pára-constitucional.
+    A Emenda n. 20/1998, ao conferir nova redação ao art. 201 da Constituição da República/1988, também conferiu à legislação infraconstitucional estabelecer os critérios para a concessão de benefícios do Regime Geral da Previdência Social. De tal sorte, é válido o critério de progressividade aritmética estabelecido no art. 53 da Lei n. 8.213/1991.
+    (…)
+    E, por sua vez, o Supremo Tribunal Federal, ao julgar Agravo Regimental no Agravo de Instrumento n. 447.577, DJ 01.07.2005, por unanimidade, conforme relatório do Ministro Gilmar Mendes, considerou que o cálculo do benefício, na forma do art. 53, II, da Lei n. 8.213/1991 consiste em matéria restrita ao âmbito da legislação infraconstitucional, sem a ocorrência de ofensa direta à Constituição, e, com esse fundamento, negou provimento ao recurso. No mesmo sentido, foram proferidas as decisões nos agravos regimentais interpostos em face do Recurso Extraordinário n. 252.544 (Rel. Min. Ellen Gracie) e do Agravo de Instrumento n. 240.001 (Rel. Min. Sydney Sanches) (grifos nossos).
+    Este Supremo Tribunal assentou que a questão relativa aos critérios de cálculo da aposentadoria proporcional não tem natureza constitucional, o que inviabiliza o recurso extraordinário:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. APOSENTADORIA PROPORCIONAL. CRITÉRIOS DE CÁLCULO. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 849.720-AgR, de minha relatoria, Primeira Turma, DJe 14.9.2011, grifos nossos).
+    E:
+    “Previdenciário. Aposentadoria proporcional. Cálculo do benefício (art. 53, I e II, da Lei n. 8.213/91). Ofensa indireta à Constituição. Agravo regimental desprovido” (RE 252.544-AgR, Relatora a Ministra Ellen Gracie, Primeira Turma, DJ 1º.2.2002, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    8. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
