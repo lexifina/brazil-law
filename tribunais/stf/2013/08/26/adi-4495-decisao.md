@@ -1,0 +1,27 @@
+DECISÃO
+PROCESSO OBJETIVO – PERDA DE OBJETO.
+    1. A Sociedade Rural Brasileira questiona a constitucionalidade dos artigos 16, cabeça e incisos I a IV, e 44, cabeça e incisos I a III, da Lei nº 4.771/65, com a redação dada pela Medida Provisória nº 2.166-67, de 24 de agosto de 2001. Eis o teor dos preceitos:
+    Art. 16 As florestas e outras formas de vegetação nativa, ressalvadas as situadas em área de preservação permanente, assim como aquelas não sujeitas ao regime de utilização limitada ou objeto de legislação específica, são suscetíveis de supressão, desde que sejam mantidas, a título de reserva legal, no mínimo: (Redação dada pela Medida Provisória nº 2.166-67, de 2001) (Regulamento)
+    I – oitenta por cento, na propriedade rural situada em área de floresta localizada na Amazônia Legal; (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    II – trinta e cinco por cento, na propriedade rural situada em área de cerrado localizada na Amazônia Legal, sendo no mínimo vinte por cento na propriedade e quinze por cento na forma de compensação em outra área, desde que esteja localizada na mesma microbacia, e seja averbada nos termos do § 7º deste artigo; (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    III – vinte por cento, na propriedade rural situada em área de floresta ou outras formas de vegetação nativa localizada nas demais regiões do País; e (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    IV – vinte por cento, na propriedade rural em área de campos gerais localizada em qualquer região do País. (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    [...]
+    Art. 44 O proprietário ou possuidor de imóvel rural com área de floresta nativa, natural, primitiva ou regenerada ou outra forma de vegetação nativa em extensão inferior ao estabelecido nos incisos I, II, III e IV do art. 16, ressalvado o disposto nos seus §§ 5o e 6o, deve adotar as seguintes alternativas, isoladas ou conjuntamente: (Redação dada pela Medida Provisória nº 2.166-67, de 2001)
+    I – recompor a reserva legal de sua propriedade mediante o plantio, a cada três anos, de no mínimo 1/10 da área total necessária à sua complementação, com espécies nativas, de acordo com critérios estabelecidos pelo órgão ambiental estadual competente; (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    II – conduzir a regeneração natural da reserva legal; e (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    III – compensar a reserva legal por outra área equivalente em importância ecológica e extensão, desde que pertença ao mesmo ecossistema e esteja localizada na mesma microbacia, conforme critérios estabelecidos em regulamento. (Incluído pela Medida Provisória nº 2.166-67, de 2001)
+    Acionei o artigo 12 da Lei nº 9.868, de 1999, solicitando informações. A Câmara dos Deputados e o Senado sustentaram a constitucionalidade das normas contestadas. A Advocacia-Geral da União e o Procurador- Geral da República manifestaram-se pela improcedência do pedido.
+    Em 5 de agosto de 2013, a autora veio a requerer a extinção do processo, por perda de objeto, aduzindo ter sido a Lei nº 4.771 expressamente revogada pelo artigo 83 da Lei nº 12.651, de 2012, e a matéria discutida haver passado a ser regulada pelo artigo 68 desse último diploma. Esses dispositivos têm a seguinte redação:
+    Art. 68. Os proprietários ou possuidores de imóveis rurais que realizaram supressão de vegetação nativa respeitando os percentuais de Reserva Legal previstos pela legislação em vigor à época em que ocorreu a supressão são dispensados de promover a recomposição, compensação ou regeneração para os percentuais exigidos nesta Lei.
+    § 1º Os proprietários ou possuidores de imóveis rurais poderão provar essas situações consolidadas por documentos tais como a descrição de fatos históricos de ocupação da região, registros de comercialização, dados agropecuários da atividade, contratos e documentos bancários relativos à produção, e por todos os outros meios de prova em direito admitidos.
+    § 2º Os proprietários ou possuidores de imóveis rurais, na Amazônia Legal, e seus herdeiros necessários que possuam índice de Reserva Legal maior que 50% (cinquenta por cento) de cobertura florestal e não realizaram a supressão da vegetação nos percentuais previstos pela legislação em vigor à época poderão utilizar a área excedente de Reserva Legal também para fins de constituição de servidão ambiental, Cota de Reserva Ambiental – CRA e outros instrumentos congêneres previstos nesta Lei.
+    [...]
+    Art. 83. Revogam-se as Leis nº 4.771, de 15 de setembro de 1965, e 7.754, de 14 de abril de 1989, e suas alterações posteriores, e a Medida Provisória nº 2.166-67, de 24 de agosto de 2001.
+    Segundo narra, o aludido artigo 68, inovando quanto ao tema em comparação ao preceito impugnado, conferiu exatamente a disciplina pretendida neste processo, nos termos formulados no pedido de interpretação conforme. Requer, assim, a extinção do processo por perda do objeto.
+    2. A Lei nº 4.771, de 1965, com alterações posteriores, foi revogada pela Lei nº 12.651, de 2012, vindo o artigo 68 dela constante a regular a matéria no sentido buscado pela requerente. A ação direta de inconstitucionalidade pressupõe ato normativo abstrato autônomo em pleno vigor. A superveniente ineficácia do diploma atacado resulta no prejuízo do pleito formalizado.
+    3. Assento-o.
+    4. Publiquem.
+Brasília – residência –, 26 de agosto de 2013, às 15h45.
+Ministro MARCO AURÉLIO
+Relator
