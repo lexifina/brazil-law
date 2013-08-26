@@ -1,0 +1,46 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DE 1988. EQUIVALÊNCIA SALARIAL. LIMITAÇÃO TEMPORAL DO ART. 58 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS - ADCT. ACÓRDÃO RECORRIDO CONSOANTE À JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. AGRAVO AO QUAL SE NEGA SEGUIMENTO
+Relatório
+    1. Agravo nos autos principais contra decisão que não admitiu recurso extraordinário, interposto com base na alínea a do inc. III do art. 102 da Constituição da República.
+    2. A Segunda Turma Recursal dos Juizados Especiais Federais de São Paulo manteve sentença por seus próprios fundamentos, nos termos do art. 46 da Lei n. 9.099/1995.
+    Nessa sentença, o juiz decidiu:
+    “Inicialmente, a apontada defasagem está fundamentada na discrepância entre o valor do benefício quando da concessão, que correspondia a um determinado número de salários mínimos, cuja quantidade não se manteve no tempo, é dizer, o valor do benefício atualmente recebido não manteve equivalência àquele número de salários mínimos recebidos por ocasião da concessão.
+    O artigo 58 do Ato das Disposições Transitórias da Constituição da República determinou o seguinte: (…).
+    Depreende-se da dicção normativa que o artigo 58 do Ato das Disposições Constitucionais Transitórias determinou a revisão dos benefícios mantidos pela Previdência Social na data da promulgação da Constituição de 1988, razão pela qual os benefícios previdenciários deveriam ter seus valores revistos, ficando expresso em número de salários mínimos correspondente à data de sua concessão, a partir de 05 de maio de 1989 (sétimo mês após a promulgação da Constituição da República - paragrafo único do artigo 58 do ADCT [Ato das Disposições Constitucionais Transitórias]).
+    Sobreleva dizer ainda que, a teor do que dispõe o artigo 58 do ADCT [Ato das Disposições Constitucionais Transitórias], o critério de manutenção do benefício em número de salários mínimos somente perdurou até a vigência do atual Plano de Benefícios da Previdência Social - Lei n. 8.213, de 24 de julho de 1991.
+    Frisa-se que essa matéria não comporta grandes delongas eis que já foi pacificada pelos Tribunais Superiores pois se e quando observado pelo Instituto-réu o disposto pelo artigo 58 do Ato das Disposições Constitucionais Transitórias - ADCT, não há mais que se falar em equivalência salarial, até porque a matéria foi disciplinada por força do disposto pela Lei n. 8.312, de 24.07.91.
+    Contudo, assiste razão à parte autora quanto a alegação de que o critério de manutenção do valor do benefício pela equivalência com o salário mínimo deveria ter perdurado até a edição do Decreto n. 357, de 09/12/1991, eis que foi o ato normativo que aprovou o Regulamento dos Benefícios da Previdência Social.
+    Todavia, carece a parte autora de interesse de agir, eis que no período em que pleiteia a equiparação ao salário mínimo, este não sofreu alteração, de sorte a não atribuir qualquer vantagem financeira a extensão da aplicação do artigo 58 do ADCT conforme pretendido.
+    Nesse sentido colaciono informação da Contadoria Judicial: (…).
+    Ante o exposto, julgo a parte autora carecedora da ação e extingo o processo, sem julgamento de mérito, a teor do artigo 267, VI do CPC” (grifos nossos).
+    3. A decisão agravada teve como fundamento para a inadmissibilidade do recurso extraordinário estar o acórdão recorrido consoante à jurisprudência do Supremo Tribunal Federal (Recurso Extraordinário n. 290.462, Relator o Ministro Cezar Peluzo), declarando-o prejudicado nos termos do art. 543-B, § 3º, do Código de Processo Civil.
+    4. O Agravante argumenta que:
+    “Busca (…) através da presente contenda, a revisão de seu benefício, para correta aplicação do disposto no artigo 58 do Ato das Disposições Constitucionais Transitórias, e do art. 201 da Carta Magna vigente.
+    (…)
+    (…) É notório e sabido que a autarquia somente observou o critério de equivalência salarial no período de 04/04/1989 a 24/07/1991 (data de publicação das Leis ns. 8.212 e 8.213), quando o correto seria estendê-lo até 09 de dezembro do mesmo ano (edição dos decretos regulamentadores.
+    (…)
+    (…) O Eminente julgador primeiro não enfrentou a matéria cerne da propedêutica, qual seja, a integral observância ao art. 58 do Ato das Disposições Constitucionais Transitórias, com a adoção do critério de equivalência salarial no período de 05/04/1989 a 09/12/1991, e não até 24/07/1991, como procedido pela autarquia na seara administrativa.
+    (…)
+    (…) Tendo o recurso extraordinário atendido todos os pressupostos necessários à sua apreciação, jamais poderia ter sido inadmitido”.
+    No recurso extraordinário, alega-se que a Turma Recursal teria contrariado o art. 201 da Constituição da República e art. 58 do Ato das Disposições Constitucionais Transitórias – ADCT.
+    Apreciada a matéria trazida na espécie, DECIDO.
+    5. O art. 544 do Código de Processo Civil, com as alterações da Lei n. 12.322/2010, estabelece que o agravo contra decisão que não admite recurso extraordinário processa-se nos autos deste recurso, ou seja, sem a necessidade da formação de instrumento.
+    Sendo este o caso, analisam-se, inicialmente, os argumentos expostos no agravo, de cuja decisão se terá, então, se for o caso, exame do recurso extraordinário.
+    6. Razão jurídica não assiste à Agravante.
+    O Juiz Relator do caso na Turma Recursal manteve sentença, assim fundamentada:
+    “Depreende-se da dicção normativa que o artigo 58 do Ato das Disposições Constitucionais Transitórias determinou a revisão dos benefícios mantidos pela Previdência Social na data da promulgação da Constituição de 1988, razão pela qual os benefícios previdenciários deveriam ter seus valores revistos, ficando expresso em número de salários mínimos correspondente à data de sua concessão, a partir de 05 de maio de 1989 (sétimo mês após a promulgação da Constituição da República - paragrafo único do artigo 58 do ADCT [Ato das Disposições Constitucionais Transitórias]).
+    Sobreleva dizer ainda que, a teor do que dispõe o artigo 58 do ADCT [Ato das Disposições Constitucionais Transitórias], o critério de manutenção do benefício em número de salários mínimos somente perdurou até a vigência do atual Plano de Benefícios da Previdência Social - Lei n. 8.213, de 24 de julho de 1991.
+    (…)
+    Contudo, assiste razão à parte autora quanto a alegação de que o critério de manutenção do valor do benefício pela equivalência com o salário mínimo deveria ter perdurado até a edição do Decreto n. 357, de 09/12/1991, eis que foi o ato normativo que aprovou o Regulamento dos Benefícios da Previdência Social.
+    Todavia, carece a parte autora de interesse de agir, eis que no período em que pleiteia a equiparação ao salário mínimo, este não sofreu alteração, de sorte a não atribuir qualquer vantagem financeira a extensão da aplicação do artigo 58 do ADCT conforme pretendido” (grifos nossos).
+    Na espécie vertente, o benefício previdenciário em exame foi concedido em 1º.6.1975, antes porém, da promulgação da Constituição da República.
+    O acórdão recorrido harmoniza-se com a jurisprudência deste Supremo Tribunal que assentou que após a promulgação da Constituição da República, o critério de reajuste de benefício previdenciário deveria obedecer ao disposto no art. 58 do Ato das Disposições Constitucionais Transitórias – ADCT até a implantação do plano de custeio e benefícios (Leis ns. 8.212/1991 e 8.213/1991):
+    “1. RECURSO. Extraordinário. Tema não decidido em recurso especial. Prejudicialidade parcial. Decisão agravada. Reconsideração. Deve ser conhecido recurso extraordinário que não ficou totalmente prejudicado com o julgamento de recurso especial. 2. RECURSO. Embargos de declaração. Acórdão embargado. Omissão quanto ao tema. Existência. Embargos de declaração acolhidos. Acolhem-se embargos de declaração, quando seja omisso o acórdão embargado. 3. RECURSO. Extraordinário. Previdência Social. Critério do art. 58 do ADCT. Jurisprudência assentada. Só se aplica o critério previsto no art. 58 do ADCT/88, no período que vai do sétimo mês, a contar da promulgação da atual Constituição, até a data da implantação do plano de custeio e benefícios introduzido pela Lei n. 8.213/91” (RE 290.462-AgR-ED, Relator o Ministro Cezar Peluzo, Primeira Turma, DJ 6.10.2006, grifos nossos).
+    E:
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDENCIÁRIO. 1) REVISÃO DE BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DA REPÚBLICA DE 1988. INCIDÊNCIA DO ART. 58 DO ATO DAS DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. 2) CONSTITUCIONALIDADE DO ART. 41, INC. II, DA LEI N. 8.213/1991. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (AI 779.912-AgR, de minha relatoria, Primeira Turma, DJe 1º.2.2011, grifos nossos).
+    A decisão agravada, embasada nos dados constantes do acórdão recorrido, harmoniza-se com a jurisprudência deste Supremo Tribunal, razão pela qual nada há a prover quanto às alegações do Agravante.
+    7. Pelo exposto, nego seguimento a este agravo (art. 544, § 4º, inc. II, alínea a, do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de agosto de 2013.
+Ministra CÁRMEN LÚCIA
+Relatora
