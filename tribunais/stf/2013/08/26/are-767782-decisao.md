@@ -1,0 +1,11 @@
+Decisão: 1. Trata-se de agravo de decisão que deixou de admitir recurso extraordinário, por deserção, uma vez que a parte recorrente não comprovou, no ato da interposição, o recolhimento do valor relativo a GRU em conformidade com as resoluções que regem a matéria (fls. 545 e 550/552).
+    2. Ainda que plausível a defesa da parte agravante quanto à deserção, outros motivos se apresentam para manter a inadmissão do recurso extraordinário.
+    3. O Supremo Tribunal Federal firmou entendimento no sentido de que é ônus do recorrente a demonstração formal e fundamentada de repercussão geral da matéria constitucional versada no recurso extraordinário, com indicação específica das circunstâncias reais que evidenciem, no caso concreto, a relevância econômica, política, social ou jurídica. Não bastam, portanto, para que seja atendido o requisito previsto nos artigos 102, § 3º, da CF e 543-A, § 2º, do CPC, alegações genéricas a respeito do instituto, como a mera afirmação de que: (a) a matéria controvertida tem repercussão geral; (b) o tema goza de importância econômica, política, social ou jurídica; (c) a questão ultrapassa os interesses subjetivos da parte ou tem manifesto potencial de repetitividade; (d) a repercussão geral é consequência inevitável de suposta violação de dispositivo constitucional; ou, ainda, (e) a existência de jurisprudência pacífica desta Corte quanto ao tema discutido. Nesse sentido: ARE 691.595 AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/02/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/02/2013; ARE 696.263-AgR/MG, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/02/2013; AI 717.821 AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/08/2012.
+    Ora, no caso, a alegação de repercussão geral não está acompanhada de fundamentação demonstrativa nesses moldes exigidos pela jurisprudência do STF.
+    4. Por fim, a insurgência sobre a recusa do pedido de produção de prova (no caso, documental e testemunhal) teve a repercussão geral rejeitada por esta Corte (ARE 639.228, TEMA 424, Rel. Min. PRESIDENTE, 27/05/2011).
+    5. Diante do exposto, nego provimento ao agravo (RISTF, art. 21, § 1º).
+    Publique-se. Intime-se.
+    Brasília, 26 de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
