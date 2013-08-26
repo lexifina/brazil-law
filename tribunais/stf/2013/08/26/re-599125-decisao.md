@@ -1,0 +1,13 @@
+Decisão: 1. Trata-se de recurso extraordinário interposto contra acórdão proferido pelo Órgão Especial do Tribunal de Justiça do Estado do Rio Grande do Sul que, em ação direta de inconstitucionalidade, declarou a inconstitucionalidade do artigo 20 da Lei 1.456/2006, do Município de Entre-Ijuís, que cria cargos em comissão sem definir as atribuições e qualificações técnicas necessárias para o seu provimento. No recurso extraordinário, com fundamento no artigo 102, III, a, e b, aponta ofensa, pelo juízo recorrido, a dispositivos constitucionais.
+    O recurso extraordinário foi inadmitido na origem (fls. 49/50), todavia, em 17/03/2009, o Ministro Relator, AYRES BRITTO, deu provimento ao agravo de instrumento pelo fato de constarem dos autos os elementos necessários ao julgamento da causa (fl. 90).
+    Parecer do Ministério Público Federal pelo não provimento do recurso, por necessidade do reexame fático-probatório (fls. 95/97).
+    2. A intempestividade do presente recurso impede seu conhecimento. Conforme a jurisprudência desta Corte, não há prazo recursal em dobro no processo de controle concentrado de constitucionalidade, mesmo na interposição de recurso extraordinário. Precedentes:
+    Agravo regimental em recurso extraordinário. 2. Direito Administrativo. 3. Não há prazo recursal em dobro no processo de controle concentrado de constitucionalidade. Precedente do STF. 4. Não observância do prazo legal para interposição do agravo regimental. Intempestividade. 4. Agravo regimental a que se nega provimento. RE 670.890 AgR/SP, Relator Min. GILMAR MENDES, Segunda Turma, DJe 27/08/2012.
+    Ementa: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTEMPESTIVO. INAPLIBILIDADE DO PRAZO RECURSAL EM DOBRO NO ÂMBITO DO CONTROLE ABSTRATO DE NORMAS. PRECEDENTES. AGRAVO IMPROVIDO. I – O Supremo Tribunal Federal fixou o entendimento de que o prazo recursal em dobro, previsto no art. 188 do CPC, não se aplica aos processos de controle abstrato de normas, mesmo para efeito de interposição de recurso extraordinário dirigido a esta Corte. II - Agravo regimental improvido. AI 788.453 AgR/SC, Relator Min. RICARDO LEWANDOWSKI, Primeira Turma, DJe 15/08/2011.
+    O acórdão recorrido foi publicada no dia 04/09/2008 (quinta-feira), encerrando-se em 19/09/2008 (sexta-feira) o prazo previsto no art. 508 do CPC. Como o recurso extraordinário foi protocolizado somente no dia 02/10/2008 (quinta-feira), evidente sua extemporaneidade.
+    3. Diante do exposto, não conheço do recurso extraordinário.
+    Publique-se. Intime-se.
+    Brasília, 26 de agosto de 2013.
+Ministro Teori Zavascki
+Relator
+Documento assinado digitalmente
