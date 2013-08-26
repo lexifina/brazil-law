@@ -1,0 +1,5 @@
+Solução de Consulta Disit/SRRF07 nº 70, de 8 de julho de 2013
+ASSUNTO: Simples Nacional EMENTA: PRESTAÇÃO DE SERVIÇOS. ELABORAÇÃO DE PROGRAMAS DE COMPUTADOR. PLANEJAMENTO, CONFECÇÃO, MANUTENÇÃO E ATUALIZAÇÃO DE PÁGINAS ELETRÔNICAS. EXERCÍCIO DA ATIVIDADE ECONÔMICA FORA DE ESTABELECIMENTO DO OPTANTE. EXCLUSÃO OBRIGATÓRIA.
+ASSUNTO: Simples Nacional
+EMENTA: PRESTAÇÃO DE SERVIÇOS. ELABORAÇÃO DE PROGRAMAS DE COMPUTADOR. PLANEJAMENTO, CONFECÇÃO, MANUTENÇÃO E ATUALIZAÇÃO DE PÁGINAS ELETRÔNICAS. EXERCÍCIO DA ATIVIDADE ECONÔMICA FORA DE ESTABELECIMENTO DO OPTANTE. EXCLUSÃO OBRIGATÓRIA. A microempresa e a empresa de pequeno porte que exerçam a atividade de prestação de serviços de elaboração de programas de computador e de planejamento, confecção, manutenção e atualização de páginas eletrônicas, optantes pelo Simples Nacional em razão do desenvolvimento das suas atividades em seus estabelecimentos, devem excluir-se do referido sistema de pagamento de tributos quando passam a atuar fora deles.
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17, inc. XII e §§ 1º e 2º, e art. 18 § 5º-D, incisos IV e VI.
