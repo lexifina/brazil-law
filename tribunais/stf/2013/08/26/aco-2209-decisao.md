@@ -1,0 +1,9 @@
+Decisão: Cuida-se de conflito negativo de atribuições, suscitado pelo Ministério Público Federal em face do Ministério Público do Estado de São Paulo, para apuração da suposta prática das infrações penais tipificadas nos artigos 132 do Código Penal e 19, §2º, da Lei 8.213/91, em decorrência da constatação, em diligências no imóvel ocupado pelas empresas PLENNA e PLEBAL PLENNA, das seguintes violações de normas sobre segurança e medicina do trabalho: “chave eletrica tipo ‘faca’ sem proteção ou sinalização; quadro de força aberto; armazenamento de caixas encostadas às paredes do edifício; extintores de incêndio sem a sinalização apropriada ou em locais obstruídos por materiais; locais sinalizados sem os devidos extintores”.
+    Sustenta o Ministério Público Federal a atribuição do Ministério Público Estadual para atuar no caso pelos seguintes motivos: a) O art. 19, §2º, da Lei 8.213/91 tipifica contravenção penal, prática delitiva expressamente excluída da competência da Justiça Federal pelo art. 109, IV, da Constituição Federal; b) o crime de perigo previsto no art. 132 do Código Penal requer a existência de perigo concreto à vida ou saúde de outrem, não bastando, para a sua configuração, simples possibilidades indiretas ou remotas de danos; c) Os fatos narrados não se amoldam aos dispositivos legais atinentes aos crimes contra a organização do trabalho.
+    Não tendo o Ministério Público Federal identificado, no relatório das diligências, condutas da competência da Justiça Federal, e ante a manifesta competência da Justiça Estadual para o processo e julgamento da suposta prática de contravenção penal, declaro, com fundamento no art. 21, §1º, do RISTF, a atribuição do Ministério Público do Estado de São Paulo para atuar no caso.
+    Remetam-se os autos à 53ª Promotoria de Justiça Criminal da cidade de São Paulo.
+    Publique-se.
+    Brasília, 26 de agosto de 2013
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
